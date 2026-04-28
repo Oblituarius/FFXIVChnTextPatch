@@ -20,18 +20,26 @@ Please note: if you haven't made additional backups of the original game files, 
 No releases to be provided for now, only source
 
 ### How to Patch Using CSV? (Recommended)
+
 0. Download the release version on the right or compile it yourself
 1. Open the EXE program
+
 ![](https://i.imgur.com/2K8CLDq.png)
-2. Click ⚙
+
+3. Click ⚙
+
 ![](https://i.imgur.com/0qhqzUQ.png)
-3. Select the root directory of the FFXIV game (e.g., `D:\FFXIV\SquareEnix\FINAL FANTASY XIV - A Realm Reborn`)
-4. 「Translation Source」(): CSV means using the CSV files in `resource/rawexd` for Patching (recommended)
-5. 「Base Language」(): Which language in the game you want to overwrite.
-6. 「Text Format」
-7. Click 「OK」
+
+5. Select the root directory of the FFXIV game (e.g., `D:\FFXIV\SquareEnix\FINAL FANTASY XIV - A Realm Reborn`)
+6. "Translation Source": CSV means using the CSV files in `resource/rawexd` for Patching (recommended)
+7. "Base Language": Which language in the game you want to overwrite.
+8. "Text Format"
+9. Click "OK"
+
 ![](https://i.imgur.com/2K8CLDq.png)
-8. Click 「Patch」
+
+11. Click "Patch"
+
 
 Other Patching methods are not guaranteed to be 100% usable; please refer to the [Wiki page](https://github.com/GpointChen/FFXIVChnTextPatch-GP/wiki).
 
