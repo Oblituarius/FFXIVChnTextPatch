@@ -80,7 +80,7 @@ public class ConfigApplicationPanel extends JFrame implements ActionListener {
 		this.bodyPanel.setBackground(new Color(255, 255, 255));
 		this.bodyPanel.setBorder(new MatteBorder(0, 1, 1, 1, new Color(110, 110, 110)));
 		add(this.bodyPanel);
-		this.title_lable.setBounds(10, 0, 150, 30);
+		this.title_lable.setBounds(10, 0, 225, 30);
 		this.title_lable.setFont(new Font("Microsoft Yahei", 1, 13));
 		this.title_lable.setForeground(new Color(255, 255, 255));
 		add(this.title_lable, 0);

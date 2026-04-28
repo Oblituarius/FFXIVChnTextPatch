@@ -1,110 +1,102 @@
 # FFXIV Translation Patch Tool
-FFXIV的中文漢化器。更多資訊可參考[Wiki頁面](https://github.com/GpointChen/FFXIVChnTextPatch-GP/wiki)。
+A localization tool for FFXIV. For more information, refer to the [Wiki page](https://github.com/GpointChen/FFXIVChnTextPatch-GP/wiki).
 
 English description can be found in [Wiki pages](https://github.com/GpointChen/FFXIVChnTextPatch-GP/wiki).
 
-相較於原版：
-1. 針對5.5X以後版本修正中文字庫補丁。
-2. 新增使用CSV進行漢化的功能。CSV是使用修改過的SaintCoinach輸出。
-3. 刪除原版exe中與teemo連線的部分。
+Compared to the original:
+1. Fixed Chinese font patch for versions after 5.5X.
+2. Added functionality for localization using CSV. The CSV is output from a modified SaintCoinach.
+3. Removed the part in the original exe that connects to Teemo.
 
-## 使用
-目前可以使用CSV、中國服檔案或他人製作的漢化覆蓋檔進行漢化。
+## Usage
+Currently, you can perform Patching using CSV, Chinese server files, or Patching override patches made by others.
 
-為了避免更新時出現問題，建議每次更新前先還原檔案，下載完更新後再次漢化。
+To avoid issues during updates, it is recommended to restore the files before each update, then apply the Patch again after downloading the update.
 
-還原時不需設置資料夾，直接點擊還原即可。
+When restoring, you do not need to set a folder; just click Restore.
 
-請注意，如果沒有額外備份原遊戲檔案，請不要重複漢化，因為會覆蓋`backup`資料夾裡面的備份檔。
+Please note: if you haven't made additional backups of the original game files, do not apply the Patch repeatedly, as it will overwrite the backup files in the `backup` folder.
 
+No releases to be provided for now, only source
 
+### How to Patch Using CSV? (Recommended)
+0. Download the release version on the right or compile it yourself
+1. Open the EXE program
+![](https://i.imgur.com/2K8CLDq.png)
+2. Click ⚙
+![](https://i.imgur.com/0qhqzUQ.png)
+3. Select the root directory of the FFXIV game (e.g., `D:\FFXIV\SquareEnix\FINAL FANTASY XIV - A Realm Reborn`)
+4. 「Translation Source」(): CSV means using the CSV files in `resource/rawexd` for Patching (recommended)
+5. 「Base Language」(): Which language in the game you want to overwrite.
+6. 「Text Format」
+7. Click 「OK」
+![](https://i.imgur.com/2K8CLDq.png)
+8. Click 「Patch」
 
-請從[release](https://github.com/GpointChen/FFXIVChnTextPatch-GP/releases)下載。
+Other Patching methods are not guaranteed to be 100% usable; please refer to the [Wiki page](https://github.com/GpointChen/FFXIVChnTextPatch-GP/wiki).
 
-<img src="https://github.com/GpointChen/FFXIVChnTextPatch-GP/blob/master/docs/fig1.png?raw=true" width="480px" />
+## Compilation Notes
+Notes on the build process can be found [here](https://hackmd.io/@GpointChen/SJi_gv-ad).
 
-<img src="https://github.com/GpointChen/FFXIVChnTextPatch-GP/blob/master/docs/fig2.png?raw=true" width="480px" />
+If you are using macOS, you may need to refer to [this article](https://github.com/GpointChen/FFXIVChnTextPatch-GP/blob/master/docs/MACOS_BUILD.md).  
+If you are using SteamOS (on Steam Deck), you may need to refer to [this article](https://github.com/GpointChen/FFXIVChnTextPatch-GP/blob/master/docs/LINUX_BUILD.md).
 
-### 如何使用CSV進行漢化？（推薦）
-0. 下載右邊的release版本或自行編譯
-1. 開啟EXE程式
-![](https://i.imgur.com/RPim0G0.png)
-2. 點選「設置」
-![](https://i.imgur.com/OypMCof.png)
-3. 選擇FFXIV遊戲根目錄（例如：`D:\FFXIV\SquareEnix\FINAL FANTASY XIV - A Realm Reborn`）
-4. 「檔案語言」：CSV代表使用`resource/rawexd`裡面的CSV檔案進行漢化（推薦）
-5. 「原始語言」：想要覆蓋遊戲中的哪種語言（我自己是覆蓋日文，不保證覆蓋其他語言會不會有問題）
-6. 「目標語言」：（不需選擇）
-7. 點擊「確定」
-![](https://i.imgur.com/RPim0G0.png)
-8. 點擊「漢化」
+## Update Notes
+For details, see the project's [Wiki](https://github.com/GpointChen/FFXIVChnTextPatch-GP/wiki/1.-%E9%A6%96%E9%A0%81).
 
-其他漢化方法不保證100%可用，請參考[Wiki頁面](https://github.com/GpointChen/FFXIVChnTextPatch-GP/wiki)。
+## Original Project Description
 
+Project Description:
 
-## 編譯筆記
-[製作過程的筆記可以參考這裡。](https://hackmd.io/@GpointChen/SJi_gv-ad)
+	This tool is used to:
+	Inject CSV or Chinese resources into the international server client (SE version)
 
-如果你是使用 MacOS，可能需要參考[這篇](https://github.com/GpointChen/FFXIVChnTextPatch-GP/blob/master/docs/MACOS_BUILD.md)。  
-如果你是使用 SteamOS（在 SteamDeck 上使用），可能需要參考[這篇](https://github.com/GpointChen/FFXIVChnTextPatch-GP/blob/master/docs/LINUX_BUILD.md)。 
+	This program
+	by default only applies the Chinese font patch to the international server client,
+	and does not include any Chinese content.
 
+	This project was fully open-sourced on 2019-09-01
 
-## 更新註記
-詳參本專案的[Wiki](https://github.com/GpointChen/FFXIVChnTextPatch-GP/wiki/1.-%E9%A6%96%E9%A0%81)。
+Usage:
 
+	1. Download and compile the project, or directly download the release package.
+	2. Extract and run the project.
+	3. Select the root directory of the FFXIV game.
+	4. Click the Patch button and wait.
+	5. Enjoy.
 
-## 原項目說明
-	
-项目说明：
-
-	此工具作用于：
-	对国际服客户端(SE版)进行中文资源注入
-
-	此程序
-	默认只对国际服客户端打中文字库补丁
-	不包含任何中文内容
-	
-	此项目于 2019-09-01 完全开源
-
-使用方法：
-
-	1.下载编译项目，或者直接下载release发布包
-	2.解压运行项目
-	3.选择FFXIV游戏根目录
-	4.点击汉化按钮 等待
-	5.Enjoy
-	
-	如果需要中文内容替换
-	请自行将中文客户端的
-	>最终幻想XIV/game/sqpack/ffxiv
-	文件夹下的三个文件
+	If you need Chinese content replacement,
+	please copy the three files
 	0a0000.win32.dat0
 	0a0000.win32.index
 	0a0000.win32.index2
-	复制到汉化工具的
+	from the Chinese client's
+	>最终幻想XIV/game/sqpack/ffxiv (FINAL FANTASY XIV/game/sqpack/ffxiv)
+	folder
+	to the Patching tool's
 	>resource/text
-	文件夹下重新运行程序即会自动读取
-	
-	PS:这次的补丁包含了字库内容
-	所以不需要重新再打字库补丁
-	PS2:每次汉化流程都会备份当前文件
-	所以避免在已经汉化的文件上进行二度汉化
-	这样会备份已汉化文件导致还原回滚失效
-	PS3:因为不确定更新是否会覆盖文件
-	所以在每次更新前尽量还原文件以免游戏导致不测
-	
-	注意:
-	繁體中文/正體中文 版本
-	可能因为翻译原因有部分的BUG存在
-	请慎用使用
-	
-	特别注意：
-	本程式采取修改客户端的形式进行中文资源的加载
-	使用本程式表示你已经知晓这是违反官方规则的操作
-	并且确认自行承担使用程式带来的任何后果
+	folder, then re-run the program; it will automatically read them.
 
-免责声明：
+	PS: This patch includes the font library content,
+	so there is no need to apply the font patch again.
+	PS2: Each Patching process backs up the current files,
+	so avoid applying Patches on already Patched files,
+	because that will back up already Patched files, causing restore rollback to fail.
+	PS3: Since it is uncertain whether game updates will overwrite files,
+	it is best to restore files before each update to avoid unforeseen game issues.
 
-	1.此项目仅供学习技术以及技术交流使用
-	2.严禁使用于任何商业用途
-	3.请下载后24小时内删除
+	Note:
+	The Traditional Chinese/Classic Chinese version
+	may have some bugs due to translation reasons,
+	please use with caution.
+
+	Special Note:
+	This program loads Chinese resources by modifying the client.
+	By using this program, you acknowledge that this is an action that violates official rules,
+	and confirm that you will bear any consequences of using this program yourself.
+
+Disclaimer:
+
+	1. This project is for learning and technical exchange only.
+	2. Any commercial use is strictly prohibited.
+	3. Please delete within 24 hours after downloading.
