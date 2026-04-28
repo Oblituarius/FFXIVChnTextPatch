@@ -76,7 +76,7 @@ public class ReplaceEXDF {
 		File transtableFile;
 		Pattern pattern = null;
 		List<String> skipFiles = null;
-		Logger log = Logger.getLogger("GPLogger");
+		Logger log = Logger.getLogger("Logger");
 		if (!this.csv) {
 			log.info("[ReplaceEXDF] Loading Transtable");
 			transtableFile = new File("conf" + File.separator + "transtable.properties");
@@ -141,7 +141,7 @@ public class ReplaceEXDF {
 						continue;
 					}
 				}
-				percentPanel.progressShow("正在替換文本：", replaceFile);
+				percentPanel.progressShow("Replacing text:", replaceFile);
 				log.info("Read :    " + replaceFile);
 				// 準備好檔案目錄名和檔案名
 				String filePatch = replaceFile.substring(0, replaceFile.lastIndexOf("/"));

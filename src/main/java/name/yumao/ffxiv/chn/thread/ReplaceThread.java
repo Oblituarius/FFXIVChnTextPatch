@@ -56,11 +56,11 @@ public class ReplaceThread implements Runnable {
 	}
 	
 	public void run() {
-		Logger log = Logger.getLogger("GPLogger");
+		Logger log = Logger.getLogger("Logger");
 		
 		try {
 			this.textPatchPanel.replaceButton.setEnabled(false);
-			PercentPanel percentPanel = new PercentPanel("漢化進度");
+			PercentPanel percentPanel = new PercentPanel("Translation Progress");
 			if (this.rfont.equals("1")) {
 				new ReplaceFont(this.resourceFolder + File.separator + "000000.win32.index", "resource" + File.separator + "font", percentPanel).replace();
 			} else {
@@ -69,7 +69,7 @@ public class ReplaceThread implements Runnable {
 			if (this.rtext.equals("1")) {
 				if ((this.flang.equals("CSV")) && hasCsvFiles("resource" + File.separator + "rawexd")) {
 					log.info("Start patching with CSV files.");
-					(new ReplaceEXDF(this.resourceFolder + File.separator + "0a0000.win32.index", "resource" + File.separator + "rawexd" + File.separator + "Achievement.csv", percentPanel)).replace();
+					(new ReplaceEXDF(this.resourceFolder + File.separator + "0a0000.win32.index", this.resourceFolder + File.separator + "0a0000.win32.index", percentPanel)).replace();
 				} else if (!(this.flang.equals("CSV")) && (new File("resource" + File.separator + "text" + File.separator + "0a0000.win32.index")).exists()) {
 					log.info("Start patching with 0a0000 files.");
 					(new ReplaceEXDF(this.resourceFolder + File.separator + "0a0000.win32.index", "resource" + File.separator + "text" + File.separator + "0a0000.win32.index", percentPanel)).replace();
@@ -80,12 +80,12 @@ public class ReplaceThread implements Runnable {
 			} else {
 				log.info("Skip replacing text.");
 			}
-			JOptionPane.showMessageDialog(null, "<html><body>漢化完畢</body></html>", "提示", -1);
+			JOptionPane.showMessageDialog(null, "<html><body>Translation Progress</body></html>", "Note", -1);
 			log.info("Patch finished.");
 			percentPanel.dispose();
 			this.textPatchPanel.replaceButton.setEnabled(true);
 		} catch (Exception exception) {
-			JOptionPane.showMessageDialog(null, "<html><body>程式錯誤！</body></html>", "漢化錯誤", 0);
+			JOptionPane.showMessageDialog(null, "<html><body>Error!</body></html>", "Translation errors", 0);
 			log.severe("Patch failed!");
 			log.log(Level.SEVERE, "Error Messages:", exception);
 			exception.printStackTrace();

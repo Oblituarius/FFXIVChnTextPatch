@@ -34,7 +34,7 @@ public class PercentPanel extends JFrame implements ActionListener {
 	private JLabel detailedText = new JLabel();
 	
 	public PercentPanel() {
-		new PercentPanel("進度條");
+		new PercentPanel("Progress");
 	}
 	
 	public PercentPanel(String title) {

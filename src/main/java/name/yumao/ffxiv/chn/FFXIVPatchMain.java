@@ -17,7 +17,7 @@ public class FFXIVPatchMain {
 		String path = Config.getProperty("GamePath");
 		
 		// logger setup
-		Logger log = Logger.getLogger("GPLogger");
+		Logger log = Logger.getLogger("Logger");
 		SimpleFormatter formatter = new SimpleFormatter() {
 		    private static final String format = "[%1$tF %1$tT] [%4$-7s] %2$s%5$s%6$s%n";
 

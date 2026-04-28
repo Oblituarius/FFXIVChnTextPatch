@@ -24,14 +24,14 @@ public class CsvFilePanel extends JFrame implements ActionListener {
     private JPanel csvPanel = new JPanel();
     private JPanel headerPanel = new JPanel();
     private List<JCheckBox> checkBoxes = new ArrayList<>();
-    private JCheckBox selectAllCheckBox = new JCheckBox("全選");
+    private JCheckBox selectAllCheckBox = new JCheckBox("Select All");
     private JScrollPane scrollPane = new JScrollPane(csvPanel);
-    private JButton confirmButton = new JButton("確認");
+    private JButton confirmButton = new JButton("OK");
     
     Logger log = Logger.getLogger("GPLogger");
 
     public CsvFilePanel(String targetPath) {
-        setTitle("選擇漢化範圍");
+        setTitle("Select Patch Files");
         setSize(400, 300);
         setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
         csvPanel.setLayout(new BoxLayout(csvPanel, BoxLayout.Y_AXIS));
