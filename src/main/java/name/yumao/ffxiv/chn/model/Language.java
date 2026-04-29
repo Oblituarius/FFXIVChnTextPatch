@@ -7,8 +7,7 @@ public enum Language {
 	JA("Japanese", "JA", "ja", "0"),
 	EN("English", "EN", "en-gb", "1"),
 	DE("German", "DE", "de", "2"),
-	FR("French", "FR", "fr", "3"),
-	ES("Spanish", "ES", "es", "7");
+	FR("French", "FR", "fr", "3");
 	
 	private String name;
 	private String lang;
