@@ -2,115 +2,115 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_LUCKMG108_03680_SEQ_00,八號坑口的采·努茲好像有辦法獲取勞動塔羅斯。
-1,TEXT_LUCKMG108_03680_SEQ_01,為了獲取塔羅斯，需要某個道具。和珂露西亞島梯頂的采·努茲談談。
-2,TEXT_LUCKMG108_03680_SEQ_02,為了讓采·努茲能夠安全接近塔羅斯，需要在不會被魔物發現的時機發送信號。從珂露西亞島迅速道的<hex:02280CFF05>EObj<hex:F61EAEBD0103>開始，給采·努茲發送信號誘導他前進。
-3,TEXT_LUCKMG108_03680_SEQ_03,順利捕獲了塔羅斯。和迅速道的采·努茲談談。
-4,TEXT_LUCKMG108_03680_SEQ_04,采·努茲和塔羅斯一起回到了游末邦。和珂露西亞島門前區的萊恩登談談。
-5,TEXT_LUCKMG108_03680_SEQ_05,和萊恩登進行了交談。他想讓采·努茲開始自己的就任演講，告知市民新的元首已經就任。
-6,TEXT_LUCKMG108_03680_SEQ_06,
-7,TEXT_LUCKMG108_03680_SEQ_07,
-8,TEXT_LUCKMG108_03680_SEQ_08,
-9,TEXT_LUCKMG108_03680_SEQ_09,
-10,TEXT_LUCKMG108_03680_SEQ_10,
-11,TEXT_LUCKMG108_03680_SEQ_11,
-12,TEXT_LUCKMG108_03680_SEQ_12,
-13,TEXT_LUCKMG108_03680_SEQ_13,
-14,TEXT_LUCKMG108_03680_SEQ_14,
-15,TEXT_LUCKMG108_03680_SEQ_15,
-16,TEXT_LUCKMG108_03680_SEQ_16,
-17,TEXT_LUCKMG108_03680_SEQ_17,
-18,TEXT_LUCKMG108_03680_SEQ_18,
-19,TEXT_LUCKMG108_03680_SEQ_19,
-20,TEXT_LUCKMG108_03680_SEQ_20,
-21,TEXT_LUCKMG108_03680_SEQ_21,
-22,TEXT_LUCKMG108_03680_SEQ_22,
-23,TEXT_LUCKMG108_03680_SEQ_23,
-24,TEXT_LUCKMG108_03680_TODO_00,和采·努茲對話
-25,TEXT_LUCKMG108_03680_TODO_01,在<hex:02280CFF05>EObj<hex:F61EAEBD0103>給采·努茲發送信號
-26,TEXT_LUCKMG108_03680_TODO_02,和采·努茲對話
-27,TEXT_LUCKMG108_03680_TODO_03,和門前區的萊恩登對話
-28,TEXT_LUCKMG108_03680_TODO_04,
-29,TEXT_LUCKMG108_03680_TODO_05,
-30,TEXT_LUCKMG108_03680_TODO_06,
-31,TEXT_LUCKMG108_03680_TODO_07,
-32,TEXT_LUCKMG108_03680_TODO_08,
-33,TEXT_LUCKMG108_03680_TODO_09,
-34,TEXT_LUCKMG108_03680_TODO_10,
-35,TEXT_LUCKMG108_03680_TODO_11,
-36,TEXT_LUCKMG108_03680_TODO_12,
-37,TEXT_LUCKMG108_03680_TODO_13,
-38,TEXT_LUCKMG108_03680_TODO_14,
-39,TEXT_LUCKMG108_03680_TODO_15,
-40,TEXT_LUCKMG108_03680_TODO_16,
-41,TEXT_LUCKMG108_03680_TODO_17,
-42,TEXT_LUCKMG108_03680_TODO_18,
-43,TEXT_LUCKMG108_03680_TODO_19,
-44,TEXT_LUCKMG108_03680_TODO_20,
-45,TEXT_LUCKMG108_03680_TODO_21,
-46,TEXT_LUCKMG108_03680_TODO_22,
-47,TEXT_LUCKMG108_03680_TODO_23,
-48,TEXT_LUCKMG108_03680_KAISHIRR_000_000,究竟要如何才能實現自己的目標……<hex:02100103>想必采·努茲先生是通過傾聽人們的心聲和活用過往經驗，<hex:02100103>才得到了這個答案吧！
-49,TEXT_LUCKMG108_03680_ALPHINAUD_000_005,采·努茲閣下眼中的光芒<hex:02100103>與最初在游末邦見到他時完全不同……<hex:02100103>你也這麼覺得吧？
-50,TEXT_LUCKMG108_03680_WRENDEN_000_010,塔羅斯……說起來，當時為了追上沃斯里，<hex:02100103>好像各個地區的人們一起造了一台巨大的塔羅斯，<hex:02100103>其中也有游末邦的人。
-51,TEXT_LUCKMG108_03680_WRENDEN_000_011,因為不想見到游末邦的人，<hex:02100103>所以聽到有人從下面上來後，我就躲進了那邊的小屋……<hex:02100103>莫非，當時協助暗之戰士的也是采·努茲？
-52,TEXT_LUCKMG108_03680_CHAINUZZ_000_020,好了，關於獲取勞動塔羅斯的問題，<hex:02100103>正如萊恩登閣下所說，現在生產肯定來不及。
-53,TEXT_LUCKMG108_03680_CHAINUZZ_000_021,所以，只要使用現在啟動著的塔羅斯就好了……<hex:02100103>也就是說，我們要捕獲在附近徘徊的失控塔羅斯，<hex:02100103>然後再加以利用！
-54,TEXT_LUCKMG108_03680_CHAINUZZ_000_022,為此，我需要一樣道具，<hex:02100103>在梯頂應該還有剩餘才對……<hex:02100103>總之先跟我來吧！
-55,TEXT_LUCKMG108_03680_KAISHIRR_000_040,要加以利用的話……就意味著不能破壞塔羅斯是吧。<hex:02100103>那麼是要挖陷阱嗎？<hex:02100103>不過在挖洞的時候就會被攻擊了啊。
-56,TEXT_LUCKMG108_03680_ALPHINAUD_000_045,安穆·艾蘭好像有人修復了停止運作的塔羅斯，<hex:02100103>不過這次是要控制已經失控的塔羅斯，<hex:02100103>肯定會更加危險。
-57,TEXT_LUCKMG108_03680_WRENDEN_000_050,用自己擅長的東西解決問題嗎……<hex:02100103>好吧，我就作為旁觀者先看看結果如何吧。
-58,TEXT_LUCKMG108_03680_CHAINUZZ_000_070,呵呵呵……看來我沒記錯，<hex:02100103>這裡還有代達羅斯公司製作的絕靈玉！
-59,TEXT_LUCKMG108_03680_CHAINUZZ_000_071,這是由乙太傳導率很低的絕靈粉末製作而成的。<hex:02100103>只要將它扔向失控的塔羅斯，<hex:02100103>就能中斷塔羅斯的乙太流動，使其停止運作。
-60,TEXT_LUCKMG108_03680_ALPHINAUD_000_072,原來如此！<hex:02100103>有了它就可以避免戰鬥，<hex:02100103>捕獲完好無損的塔羅斯了！
-61,TEXT_LUCKMG108_03680_CHAINUZZ_000_073,沒錯，成功捕獲之後，<hex:02100103>就可以命令它們前往游末邦了。<hex:02100103>至於調整，等回去了再慢慢做就行了。
-62,TEXT_LUCKMG108_03680_CHAINUZZ_000_074,畢竟不是什麼時候都有<hex:02100103>像你們這樣擅長戰鬥的人來幫忙。
-63,TEXT_LUCKMG108_03680_CHAINUZZ_000_075,所以才需要這個絕靈玉，<hex:02100103>只要有了它，像我這種不擅長戰鬥的人，<hex:02100103>也能捕獲塔羅斯了！
-64,TEXT_LUCKMG108_03680_KAISHIRR_000_076,采·努茲先生，難道你要自己去扔絕靈玉？
-65,TEXT_LUCKMG108_03680_KAISHIRR_000_077,這可不行！實在是太危險了！<hex:02100103>還是我去吧！
-66,TEXT_LUCKMG108_03680_CHAINUZZ_000_078,這是萊恩登閣下給我出的課題，<hex:02100103>我不能讓他人冒險，而自己卻置身事外！<hex:02100103>你們只需要稍微支援我一下就可以了。
-67,TEXT_LUCKMG108_03680_CHAINUZZ_000_079,……我當然很害怕，<hex:02100103>這對我這種膽小如鼠的人來說，<hex:02100103>可是從來沒有嘗試過的事……
-68,TEXT_LUCKMG108_03680_CHAINUZZ_000_080,不過，我現在將要成為元首，領導他人。<hex:02100103>這與當時在後方看著巨大塔羅斯站起來時的情況截然不同。
-69,TEXT_LUCKMG108_03680_ALPHINAUD_000_081,采·努茲閣下……
-70,TEXT_LUCKMG108_03680_Q1_000_000,要說什麼？
-71,TEXT_LUCKMG108_03680_A1_000_000,我會全力支援你
-72,TEXT_LUCKMG108_03680_A2_000_000,要是有危險就趕緊跑
-73,TEXT_LUCKMG108_03680_CHAINUZZ_000_085,嗯……雖然把這輩子的勇氣都拿出來了，<hex:02100103>但我可不準備把這輩子的命也搭上。<hex:02100103>請你幫幫忙，讓我不要遭遇危險。
-74,TEXT_LUCKMG108_03680_CHAINUZZ_000_086,我想讓你幫我找出接近塔羅斯的最佳時機。<hex:02100103>望遠鏡給你，如果找到了接近塔羅斯扔絕靈玉<hex:02100103>也不會被周圍魔物發現的好時機，就給我發個信號。
-75,TEXT_LUCKMG108_03680_CHAINUZZ_000_088,好了……<hex:022903EB0203>，就拜託你給我發信號了！<hex:02100103>去迅速道找個視野開闊的地方等我吧。
-76,TEXT_LUCKMG108_03680_KAISHIRR_000_100,不自己做就沒有意義……嗎？<hex:02100103>采·努茲先生之所以能如此拚命，<hex:02100103>都是因為他想讓游末邦變得更好……
-77,TEXT_LUCKMG108_03680_ALPHINAUD_000_105,這種情況下還是一個人誘導比較好，<hex:02100103>我就在一旁看著好了，<hex:02100103>采·努茲閣下的安全就交給你了。
-78,TEXT_LUCKMG108_03680_WRENDEN_000_110,……真是個有趣的男人。<hex:02100103>看上去那麼沒自信，<hex:02100103>可是卻有膽量實行這麼危險的計劃。
-79,TEXT_LUCKMG108_03680_CHAINUZZ_000_115,好、好吧……雖然我現在腿抖個不停，<hex:02100103>手心也全都是汗，不過也算準備完畢了……<hex:02100103>只要你點個頭，我隨時都可以上！
-80,TEXT_LUCKMG108_03680_SYSTEM_000_130,開始誘導采·努茲。<hex:02100103>找出不被塔羅斯和周圍魔物發現的時機，<hex:02100103>點擊<hex:020835E4E95101FF1C><hex:024804F2022203>滑鼠左鍵<hex:0248020103><hex:FF12><hex:021E021003>鍵/<hex:021E020903>鍵<hex:03>發送信號。
-81,TEXT_LUCKMG108_03680_CHAINUZZ_000_300,哦哦！成功了！<hex:02100103>就這樣去捕獲下一個塔羅斯吧！
-82,TEXT_LUCKMG108_03680_CHAINUZZ_000_320,很好……很順利啊！<hex:02100103>只要再捕獲一個，<hex:02100103>塔羅斯的數量就足夠了。
-83,TEXT_LUCKMG108_03680_CHAINUZZ_000_340,多虧了<hex:022903EB0203>，<hex:02100103>我基本上掌握接近塔羅斯的時機了……<hex:02100103>就這樣去捕獲最後一個塔羅斯吧！
-84,TEXT_LUCKMG108_03680_CHAINUZZ_000_341,太好了……成功了！<hex:02100103>有這麼多塔羅斯的話，我的計劃也能實現了！
-85,TEXT_LUCKMG108_03680_KAISHIRR_000_150,經過深思熟慮找到了唯一的出路，<hex:02100103>即便路上有再多困難也在所不辭。<hex:02100103>采·努茲先生的決心換來了現在的成果……
-86,TEXT_LUCKMG108_03680_ALPHINAUD_000_155,我還在想要是采·努茲閣下受傷了，<hex:02100103>我得第一時間衝上去救助……<hex:02100103>還好沒出事，這我就放心了。
-87,TEXT_LUCKMG108_03680_WRENDEN_000_160,看來，我第一次見他時對他的評價完全是錯誤的。
-88,TEXT_LUCKMG108_03680_CHAINUZZ_000_180,我自己都不敢信……<hex:02100103>當然，這也都是多虧了各位的幫助……
-89,TEXT_LUCKMG108_03680_CHAINUZZ_000_181,我真的做到了啊……
-90,TEXT_LUCKMG108_03680_WRENDEN_000_182,采·努茲……不對，采·努茲閣下。<hex:02100103>我想為之前的失禮道歉。
-91,TEXT_LUCKMG108_03680_WRENDEN_000_183,你不僅能夠經過深思熟慮想到解決方案，<hex:02100103>還擁有著豐富的關於塔羅斯的知識與經驗，<hex:02100103>以及連暗之戰士都願意幫助你的人品……
-92,TEXT_LUCKMG108_03680_WRENDEN_000_184,你絕對是最適合成為游末邦元首的人。
-93,TEXT_LUCKMG108_03680_CHAINUZZ_000_185,……謝謝你。<hex:02100103>不過我還只是個膽小怕事的半吊子。
-94,TEXT_LUCKMG108_03680_CHAINUZZ_000_186,所以，我想藉助萊恩登閣下的力量，<hex:02100103>讓我能夠成為一名合格的元首。
-95,TEXT_LUCKMG108_03680_WRENDEN_000_187,我很樂意接受邀請。<hex:02100103>你完美解決了我給你提出的課題，<hex:02100103>我已經沒有理由拒絕你。
-96,TEXT_LUCKMG108_03680_WRENDEN_000_188,等人們見到這些勞動塔羅斯，<hex:02100103>相信他們就會願意聽從你的新政策了吧。
-97,TEXT_LUCKMG108_03680_ALPHINAUD_000_189,深思熟慮的元首和嚴格認真的輔佐官。<hex:02100103>如果要引領游末邦重新出發，<hex:02100103>他們兩個應該是最合適的人選，你說是吧？
-98,TEXT_LUCKMG108_03680_KAISHIRR_000_190,那就快命令塔羅斯回游末邦吧！<hex:02100103>杜麗雅夫人肯定等得著急死了。
-99,TEXT_LUCKMG108_03680_KAISHIRR_000_220,結果我只是跟著大家轉了一圈而已……<hex:02100103>不過，我想了許多關於自己和游末邦的事，<hex:02100103>心中的迷霧也消散了一些。
-100,TEXT_LUCKMG108_03680_ALPHINAUD_000_225,好了，游末邦即將踏出新的一步了，<hex:02100103>雖然現在還只是在荒野摸索著前行，<hex:02100103>不過，我相信他們一定能開闢出自己的道路！
-101,TEXT_LUCKMG108_03680_CHAINUZZ_000_230,還、還是有點……喘、喘不過來氣。
-102,TEXT_LUCKMG108_03680_DULIACHAI_000_235,啊，真是太感謝你和阿爾菲諾了！<hex:02100103>我完全沒想到，你們歸來時竟然會是這樣壯大的場面！
-103,TEXT_LUCKMG108_03680_DULIACHAI_000_236,果然我的丈夫最棒了！<hex:02100103>不管遇到什麼困難都能解決！
-104,TEXT_LUCKMG108_03680_WRENDEN_000_250,好兇猛的一位夫人……
-105,TEXT_LUCKMG108_03680_WRENDEN_000_251,這件事先放一邊……<hex:02100103>這裡看來有不少身份和地位各不相同的人呢。<hex:02100103>正好……
-106,TEXT_LUCKMG108_03680_WRENDEN_000_252,就讓他們去幫忙召集一下其他人吧。<hex:02100103>我想讓游末邦所有立場的人聚集一堂……<hex:02100103>一起聽聽采·努茲閣下的就任演講。
-107,TEXT_LUCKMG108_03680_CHAINUZZ_000_087,（★未使用／削除予定★）
-108,TEXT_LUCKMG108_03680_ALPHINAUD_000_156,（★未使用／削除予定★）
-109,TEXT_LUCKMG108_03680_CHAINUZZ_000_310,（★未使用／削除予定★）
-110,TEXT_LUCKMG108_03680_CHAINUZZ_000_330,（★未使用／削除予定★）
-111,TEXT_LUCKMG108_03680_CHAINUZZ_000_350,（★未使用／削除予定★）
+0,"TEXT_LUCKMG108_03680_SEQ_00","Chai-Nuzz's look of steely determination is only slightly undermined by the knocking of his knees."
+1,"TEXT_LUCKMG108_03680_SEQ_01","Rather than build Talos from scratch, Chai-Nuzz proposes capturing the long-abandoned Talos which wander the wilds of Kholusia. A singularly dangerous endeavor, but one which holds no terror for him, knowing as he does that the perfect tools for the task are waiting for you at Top Rung."
+2,"TEXT_LUCKMG108_03680_SEQ_02","The reason for Chai-Nuzz's uncharacteristic self-confidence soon becomes apparent when he shows you a crate filled with canisters whose contents can incapacitate Talos. Moreover, they can be thrown from a distance, making the task surprisingly risk-free. So risk-free, in fact, that Chai-Nuzz volunteers to do the deed himself. He still requires support, however, lest he run afoul of the local wildlife. To that end, you set out for the Quick Way in search of a vantage point from which to warn him of danger."
+3,"TEXT_LUCKMG108_03680_SEQ_03","With heart in throat and canisters in hand, Chai-Nuzz braves the wilds of Kholusia, succeeding at length in subduing a trio of Talos. As the last of them succumbs, you see him pause, seemingly awestruck by the scale of his own achievement. Or perhaps injured. You rush down to be certain."
+4,"TEXT_LUCKMG108_03680_SEQ_04","Your concerns vanish as you near a visibly elated Chai-Nuzz, now the proud owner of three Talos which he is eager to dispatch to Eulmore. After a few adjustments, they spring back to life, and he sends them marching off in the direction of the city.<hex:02100103><hex:02100103>At the end of a tiring trek through Kholusia, you arrive in Gatetown to find the Talos have attracted a crowd. Among them, you spy Lady Chai, who is near speechless at the sight of her husband. She duly rushes over to him, wasting no time in showing him the strength of her affection. A strength which renders him briefly unconscious."
+5,"TEXT_LUCKMG108_03680_SEQ_05","Doubts finally assuaged, Wrenden expresses his admiration for Chai-Nuzz and the devotion of those close to him. Taking note of the chattering throng which has formed around the Talos, he declares that it will soon be time for the intrepid entrepreneur to address his fellow citizens as mayor."
+6,"TEXT_LUCKMG108_03680_SEQ_06",""
+7,"TEXT_LUCKMG108_03680_SEQ_07",""
+8,"TEXT_LUCKMG108_03680_SEQ_08",""
+9,"TEXT_LUCKMG108_03680_SEQ_09",""
+10,"TEXT_LUCKMG108_03680_SEQ_10",""
+11,"TEXT_LUCKMG108_03680_SEQ_11",""
+12,"TEXT_LUCKMG108_03680_SEQ_12",""
+13,"TEXT_LUCKMG108_03680_SEQ_13",""
+14,"TEXT_LUCKMG108_03680_SEQ_14",""
+15,"TEXT_LUCKMG108_03680_SEQ_15",""
+16,"TEXT_LUCKMG108_03680_SEQ_16",""
+17,"TEXT_LUCKMG108_03680_SEQ_17",""
+18,"TEXT_LUCKMG108_03680_SEQ_18",""
+19,"TEXT_LUCKMG108_03680_SEQ_19",""
+20,"TEXT_LUCKMG108_03680_SEQ_20",""
+21,"TEXT_LUCKMG108_03680_SEQ_21",""
+22,"TEXT_LUCKMG108_03680_SEQ_22",""
+23,"TEXT_LUCKMG108_03680_SEQ_23",""
+24,"TEXT_LUCKMG108_03680_TODO_00","Speak with Chai-Nuzz."
+25,"TEXT_LUCKMG108_03680_TODO_01","Guide Chai-Nuzz from the vantage point."
+26,"TEXT_LUCKMG108_03680_TODO_02","Speak with Chai-Nuzz."
+27,"TEXT_LUCKMG108_03680_TODO_03","Speak with Wrenden."
+28,"TEXT_LUCKMG108_03680_TODO_04",""
+29,"TEXT_LUCKMG108_03680_TODO_05",""
+30,"TEXT_LUCKMG108_03680_TODO_06",""
+31,"TEXT_LUCKMG108_03680_TODO_07",""
+32,"TEXT_LUCKMG108_03680_TODO_08",""
+33,"TEXT_LUCKMG108_03680_TODO_09",""
+34,"TEXT_LUCKMG108_03680_TODO_10",""
+35,"TEXT_LUCKMG108_03680_TODO_11",""
+36,"TEXT_LUCKMG108_03680_TODO_12",""
+37,"TEXT_LUCKMG108_03680_TODO_13",""
+38,"TEXT_LUCKMG108_03680_TODO_14",""
+39,"TEXT_LUCKMG108_03680_TODO_15",""
+40,"TEXT_LUCKMG108_03680_TODO_16",""
+41,"TEXT_LUCKMG108_03680_TODO_17",""
+42,"TEXT_LUCKMG108_03680_TODO_18",""
+43,"TEXT_LUCKMG108_03680_TODO_19",""
+44,"TEXT_LUCKMG108_03680_TODO_20",""
+45,"TEXT_LUCKMG108_03680_TODO_21",""
+46,"TEXT_LUCKMG108_03680_TODO_22",""
+47,"TEXT_LUCKMG108_03680_TODO_23",""
+48,"TEXT_LUCKMG108_03680_KAISHIRR_000_000","That Wrenden geezer doesn't seem so bad. What was Master Chai worried about? He's got to give himself a bit more credit!"
+49,"TEXT_LUCKMG108_03680_ALPHINAUD_000_005","Do you see it? There is a fire in Master Chai's eyes that was not there when first we met. A fire we had best keep kindled if we wish to see Eulmore change for the better."
+50,"TEXT_LUCKMG108_03680_WRENDEN_000_010","You had a hand in constructing that giant Talos to the north, did you not?"
+51,"TEXT_LUCKMG108_03680_WRENDEN_000_011","When the Eulmoran volunteers began arriving, I hid myself away, lest I be recognized...thus depriving myself of what I am reliably informed was a once-in-a-lifetime spectacle. Bugger."
+52,"TEXT_LUCKMG108_03680_CHAINUZZ_000_020","Wrenden is quite right. Building Talos from scratch would require time we simply do not have."
+53,"TEXT_LUCKMG108_03680_CHAINUZZ_000_021","Which is why I propose to make use of the long-abandoned Talos which wander the wilds of Kholusia."
+54,"TEXT_LUCKMG108_03680_CHAINUZZ_000_022","They will need to be deactivated, of course, and if memory serves, the tools required to do so should still be at Top Rung. Come with me."
+55,"TEXT_LUCKMG108_03680_KAISHIRR_000_040","How'd you catch a Talos, then? Dig a hole and lure it in?"
+56,"TEXT_LUCKMG108_03680_ALPHINAUD_000_045","It is one thing to repair an immobile Talos, as Urianger did, but quite another to <hex:021A020203>catch<hex:021A020103> one, surely? Does this not sound a trifle dangerous?"
+57,"TEXT_LUCKMG108_03680_WRENDEN_000_050","So he is an authority on Talos, is he? Hmph! What other surprises could he be hiding, I wonder..."
+58,"TEXT_LUCKMG108_03680_CHAINUZZ_000_070","Aha! The old memory hasn't let me down!"
+59,"TEXT_LUCKMG108_03680_CHAINUZZ_000_071","This chest contains canisters filled with a dashedly potent insulating powder capable of halting the flow of aether in a Talos. We need only get within throwing distance of one and let fly."
+60,"TEXT_LUCKMG108_03680_ALPHINAUD_000_072","...Thus disabling them without damaging them! Ingenious!"
+61,"TEXT_LUCKMG108_03680_CHAINUZZ_000_073","An old trick of the trade, nothing more. Once disabled, it should be a simple enough matter to get them to march to Eulmore. More extensive repairs can wait."
+62,"TEXT_LUCKMG108_03680_CHAINUZZ_000_074","Ordinarily, this is where I would ask you to run along and do the deed, but as I have said before, it's high time we learned to stand on our own two feet."
+63,"TEXT_LUCKMG108_03680_CHAINUZZ_000_075","Thankfully, throwing canisters is something even <hex:021A020203>I<hex:021A020103> should be able to manage."
+64,"TEXT_LUCKMG108_03680_KAISHIRR_000_076","Come off it, Master Chai!"
+65,"TEXT_LUCKMG108_03680_KAISHIRR_000_077","Even if the Talos ain't a threat, there's a hundred and one other things out there waiting to make a meal of you!"
+66,"TEXT_LUCKMG108_03680_CHAINUZZ_000_078","That's as may be, Kai-Shirr, but Wrenden tasked me with solving this problem, and I will not sit idly by while others risk everything to see my harebrained schemes realized. Not this time!"
+67,"TEXT_LUCKMG108_03680_CHAINUZZ_000_079","...Which isn't to say the mere thought of it doesn't fill me with dread. Truth be told, I can't feel my legs."
+68,"TEXT_LUCKMG108_03680_CHAINUZZ_000_080","But if I'm to prove I'm a man worth following, I must lead by example."
+69,"TEXT_LUCKMG108_03680_ALPHINAUD_000_081","Well said, Master Chai!"
+70,"TEXT_LUCKMG108_03680_Q1_000_000","What will you say?"
+71,"TEXT_LUCKMG108_03680_A1_000_000","Hear, hear!"
+72,"TEXT_LUCKMG108_03680_A2_000_000","All right, but if there's any trouble, we call it off."
+73,"TEXT_LUCKMG108_03680_CHAINUZZ_000_085","Yes, well, it should go without saying that I have no intention of dying for this. I've always preferred <hex:021A020203>living<hex:021A020103> to see the fruits of my labors."
+74,"TEXT_LUCKMG108_03680_CHAINUZZ_000_086","And to make sure I do, I will require your help. It is as Kai-Shirr says─these lands are dangerous if one is not careful. I would ask you to use my spyglass to look out for any beasts that could get in the way of my work. I will also need you to alert me when it is safe to subdue the Talos. Understood?"
+75,"TEXT_LUCKMG108_03680_CHAINUZZ_000_088","Good. Then let's be off to the Quick Way, through the north gate, and see if we can't find a suitable vantage point for you."
+76,"TEXT_LUCKMG108_03680_KAISHIRR_000_100","Either Master Chai's off his nut, or this means more to him than he's been letting on."
+77,"TEXT_LUCKMG108_03680_ALPHINAUD_000_105","There is little point in us both shouting instructions. Keep him safe, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>."
+78,"TEXT_LUCKMG108_03680_WRENDEN_000_110","When first he arrived, I could barely hear him over the knocking of his knees. And now this. I'm not sure what's gotten into him, but whatever it is, I like it."
+79,"TEXT_LUCKMG108_03680_CHAINUZZ_000_115","All right. Nothing to worry about. Just a simple matter of sneaking up on the Talos while avoiding the slavering, bloodthirsty beasts lurking behind every rock. Child's play... Ahem. When you're ready, let us begin."
+80,"TEXT_LUCKMG108_03680_SYSTEM_000_130","Keep a lookout for danger and alert Chai-Nuzz when it is safe to incapacitate the Talos. You may move the spyglass, as well as zoom in and out. Point the spyglass at Chai-Nuzz and give him the signal to sneak near the Talos with <hex:020825E4E95101FF10><hex:024804F2022203><hex:0248020103><hex:FF0E><hex:021E021003> / <hex:021E020903><hex:03>."
+81,"TEXT_LUCKMG108_03680_CHAINUZZ_000_300","I...I did it? I did it! Let's move on to another Talos, shall we?"
+82,"TEXT_LUCKMG108_03680_CHAINUZZ_000_320","I do believe I'm getting the hang of this."
+83,"TEXT_LUCKMG108_03680_CHAINUZZ_000_340","You may leave the next one to me, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>."
+84,"TEXT_LUCKMG108_03680_CHAINUZZ_000_341","Haha! That should do it! Now we have all we need to proceed."
+85,"TEXT_LUCKMG108_03680_KAISHIRR_000_150","Blimey... Thought my heart was going to stop for a moment there. Make that a couple of moments."
+86,"TEXT_LUCKMG108_03680_ALPHINAUD_000_155","Our friend returned with nary a scratch. Well done."
+87,"TEXT_LUCKMG108_03680_WRENDEN_000_160","It would seem I misjudged Master Chai. There may yet be hope for Eulmore."
+88,"TEXT_LUCKMG108_03680_CHAINUZZ_000_180","I can scarcely believe it. It was a reckless, foolish plan. But somehow...it worked."
+89,"TEXT_LUCKMG108_03680_CHAINUZZ_000_181","I...I did it."
+90,"TEXT_LUCKMG108_03680_WRENDEN_000_182","Master Chai. I believe I owe you an apology."
+91,"TEXT_LUCKMG108_03680_WRENDEN_000_183","Your plan to replenish Eulmore's food stores showed forethought and sound judgment. What's more, it is plain your time at Daedalus Stoneworks has equipped you to lead, as evidenced by the extraordinary company you keep."
+92,"TEXT_LUCKMG108_03680_WRENDEN_000_184","You, sir, are more than qualified to be the next mayor of Eulmore."
+93,"TEXT_LUCKMG108_03680_CHAINUZZ_000_185","I thank you for your vote of confidence, but the fact remains, I am wholly ignorant of the world of politics."
+94,"TEXT_LUCKMG108_03680_CHAINUZZ_000_186","Which is why I would ask you to join me, and grant Eulmore the benefit of your counsel."
+95,"TEXT_LUCKMG108_03680_WRENDEN_000_187","I would be honored."
+96,"TEXT_LUCKMG108_03680_WRENDEN_000_188","When the people behold these Talos, I have no doubt they will lend you their support."
+97,"TEXT_LUCKMG108_03680_ALPHINAUD_000_189","It would seem Eulmore's leadership is at last in capable hands, would you not agree?"
+98,"TEXT_LUCKMG108_03680_KAISHIRR_000_190","We should probably be getting back soon, Master Chai. After you've tinkered with the Talos and all that. Lady Chai's worried sick."
+99,"TEXT_LUCKMG108_03680_KAISHIRR_000_220","Sorry I wasn't much help. Still, seeing Master Chai go after those Talos was something, eh? Inspiring stuff."
+100,"TEXT_LUCKMG108_03680_ALPHINAUD_000_225","I daresay the future of Eulmore has never looked brighter."
+101,"TEXT_LUCKMG108_03680_CHAINUZZ_000_230","<cough> <cough> I...I'm fine... I just need...a moment... <wheeze>"
+102,"TEXT_LUCKMG108_03680_DULIACHAI_000_235","Thank you again for finding my husband. I confess, I was not expecting your return to be quite so grand!"
+103,"TEXT_LUCKMG108_03680_DULIACHAI_000_236","That dear, sweet man. He is going to make the most wonderful mayor. I just know it!"
+104,"TEXT_LUCKMG108_03680_WRENDEN_000_250","That was quite a reception. One Master Chai will struggle to forget."
+105,"TEXT_LUCKMG108_03680_WRENDEN_000_251","More seriously, the arrival of the Talos has seized the public's attention."
+106,"TEXT_LUCKMG108_03680_WRENDEN_000_252","Once word has spread around Eulmore, it will be that much simpler to gather one and all so that Master Chai can make his inaugural address."
+107,"TEXT_LUCKMG108_03680_CHAINUZZ_000_087",""
+108,"TEXT_LUCKMG108_03680_ALPHINAUD_000_156",""
+109,"TEXT_LUCKMG108_03680_CHAINUZZ_000_310",""
+110,"TEXT_LUCKMG108_03680_CHAINUZZ_000_330",""
+111,"TEXT_LUCKMG108_03680_CHAINUZZ_000_350",""

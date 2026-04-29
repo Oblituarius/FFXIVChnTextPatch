@@ -2,79 +2,79 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_CLSWVR250_00592_SEQ_00,裁衣匠公會的雷多倫特·羅斯好像非常忙。
-1,TEXT_CLSWVR250_00592_SEQ_01,雷多倫特·羅斯接受了寶石商人的委託，製作禮服。但是裁衣匠公會的工匠們都很忙，所以他頗為困擾。為了協助他工作，首先前往裁衣匠公會，向下訂單的寶石商巴巴維和他的女兒可可摩詢問要用哪種布料。
-2,TEXT_CLSWVR250_00592_SEQ_02,向巴巴維和可可摩詢問了他們想要的布料。回到裁衣匠公會，和雷多倫特·羅斯商量。
-3,TEXT_CLSWVR250_00592_SEQ_03,巴巴維希望使用帶有優雅光澤的布料，於是布料決定用<hex:02280BFF05>Item<hex:F214CE0103>。在雷多倫特·羅斯製作紙樣的期間做出來。只不過，可可摩是有錢人家的大小姐，所以必須是優質的<hex:02280DFF07>ItemHQ<hex:F214CE0103>。完成後，交給裁衣匠公會的雷多倫特·羅斯。
-4,TEXT_CLSWVR250_00592_SEQ_04,冒險者交予的<hex:02280DFF07>ItemHQ<hex:F214CE0103>非常美麗，雷多倫特·羅斯大喜過望。他說就算賭上裁衣匠的尊嚴，也要做出好禮服。<hex:02100103><hex:02100103>※裁衣匠等級達到30級以上時，可以從雷多倫特·羅斯那裡領取下一個裁衣匠任務。
-5,TEXT_CLSWVR250_00592_SEQ_05,
-6,TEXT_CLSWVR250_00592_SEQ_06,
-7,TEXT_CLSWVR250_00592_SEQ_07,
-8,TEXT_CLSWVR250_00592_SEQ_08,
-9,TEXT_CLSWVR250_00592_SEQ_09,
-10,TEXT_CLSWVR250_00592_SEQ_10,
-11,TEXT_CLSWVR250_00592_SEQ_11,
-12,TEXT_CLSWVR250_00592_SEQ_12,
-13,TEXT_CLSWVR250_00592_SEQ_13,
-14,TEXT_CLSWVR250_00592_SEQ_14,
-15,TEXT_CLSWVR250_00592_SEQ_15,
-16,TEXT_CLSWVR250_00592_SEQ_16,
-17,TEXT_CLSWVR250_00592_SEQ_17,
-18,TEXT_CLSWVR250_00592_SEQ_18,
-19,TEXT_CLSWVR250_00592_SEQ_19,
-20,TEXT_CLSWVR250_00592_SEQ_20,
-21,TEXT_CLSWVR250_00592_SEQ_21,
-22,TEXT_CLSWVR250_00592_SEQ_22,
-23,TEXT_CLSWVR250_00592_SEQ_23,
-24,TEXT_CLSWVR250_00592_TODO_00,和可可摩對話
-25,TEXT_CLSWVR250_00592_TODO_01,和巴巴維對話
-26,TEXT_CLSWVR250_00592_TODO_02,和雷多倫特·羅斯對話
-27,TEXT_CLSWVR250_00592_TODO_03,將<hex:02280DFF07>ItemHQ<hex:F214CE0103>交給雷多倫特·羅斯
-28,TEXT_CLSWVR250_00592_TODO_04,
-29,TEXT_CLSWVR250_00592_TODO_05,
-30,TEXT_CLSWVR250_00592_TODO_06,
-31,TEXT_CLSWVR250_00592_TODO_07,
-32,TEXT_CLSWVR250_00592_TODO_08,
-33,TEXT_CLSWVR250_00592_TODO_09,
-34,TEXT_CLSWVR250_00592_TODO_10,
-35,TEXT_CLSWVR250_00592_TODO_11,
-36,TEXT_CLSWVR250_00592_TODO_12,
-37,TEXT_CLSWVR250_00592_TODO_13,
-38,TEXT_CLSWVR250_00592_TODO_14,
-39,TEXT_CLSWVR250_00592_TODO_15,
-40,TEXT_CLSWVR250_00592_TODO_16,
-41,TEXT_CLSWVR250_00592_TODO_17,
-42,TEXT_CLSWVR250_00592_TODO_18,
-43,TEXT_CLSWVR250_00592_TODO_19,
-44,TEXT_CLSWVR250_00592_TODO_20,
-45,TEXT_CLSWVR250_00592_TODO_21,
-46,TEXT_CLSWVR250_00592_TODO_22,
-47,TEXT_CLSWVR250_00592_TODO_23,
-48,TEXT_CLSWVR250_00592_REDOLENTROSE_000,嗯……<hex:02100103>不能交給手藝差的工匠……<hex:02100103>啊呀抱歉！你到公會來了？！
-49,TEXT_CLSWVR250_00592_REDOLENTROSE_001,哎呀，我的運氣真好！<hex:02100103>拜託了，請協助我工作！
-50,TEXT_CLSWVR250_00592_REDOLENTROSE_002,我從常客的寶石商人那裡接受了製作禮服的訂單，<hex:02100103>可是工匠們都在應對其它委託，大家都非常忙。<hex:02100103>我一個人忙不過來了。
-51,TEXT_CLSWVR250_00592_REDOLENTROSE_003,首先向委託人巴巴維先生詢問，<hex:02100103>他想用哪種布料。<hex:02100103>現在他應該在黃金廣場。
-52,TEXT_CLSWVR250_00592_REDOLENTROSE_004,也問問跟他在一起的大小姐可可摩的要求，<hex:02100103>因為穿禮服的不是巴巴維先生而是她。
-53,TEXT_CLSWVR250_00592_KOKOMO_010,你好，你有什麼事？<hex:02100103>你是裁衣匠公會的工匠嗎？<hex:02100103>父親真是的，又訂了禮服呢。
-54,TEXT_CLSWVR250_00592_KOKOMO_011,我都說不用了……<hex:02100103>禮服的布料用什麼都行。<hex:02100103>反正……是為了滿足父親而做出來的東西。
-55,TEXT_CLSWVR250_00592_BABAWAI_020,老夫是巴巴維，有什麼事嗎？<hex:02100103>你是雷多倫特·羅斯那裡的工匠嗎？<hex:02100103>對對，我想為女兒訂做禮服。
-56,TEXT_CLSWVR250_00592_BABAWAI_021,寶石商的女兒穿得太過破舊，<hex:02100103>會無法博得客人的信賴。<hex:02100103>拜託你做出優質的東西來。
-57,TEXT_CLSWVR250_00592_BABAWAI_022,老夫想想……最好是帶有優雅光澤的東西。<hex:02100103>如果是廉價的光澤，老夫可不收。<hex:02100103>對商人來說，外觀很重要。
-58,TEXT_CLSWVR250_00592_WAWARUKKA_030,可可摩……
-59,TEXT_CLSWVR250_00592_REDOLENTROSE_040,巴巴維的訂單要求是怎樣的？<hex:02100103>……嗯嗯，帶有優雅光澤的東西啊。
-60,TEXT_CLSWVR250_00592_REDOLENTROSE_041,可可摩的要求呢？<hex:02100103>什麼？用什麼都行？！<hex:02100103>那孩子還是一如既往地沒有欲求呢……
-61,TEXT_CLSWVR250_00592_REDOLENTROSE_042,說到帶有光澤的布料，當屬絹質的綢緞，<hex:02100103>不過要優雅的光澤就得是大氣穩重的……<hex:02100103>對了，<hex:02280BFF05>Item<hex:F214CE0103>不錯！
-62,TEXT_CLSWVR250_00592_REDOLENTROSE_043,你知道什麼是<hex:02280BFF05>Item<hex:F214CE0103>嗎？<hex:02100103>那是用棉線和絹絲織成的平絨布料。
-63,TEXT_CLSWVR250_00592_REDOLENTROSE_044,它和普通的棉布不同，<hex:02100103>通過在表面植上絨毛，<hex:02100103>使其擁有柔軟的手感和光澤。
-64,TEXT_CLSWVR250_00592_REDOLENTROSE_045,事不宜遲，我現在就去做紙樣，<hex:02100103>在這期間可以請你做布料嗎？
-65,TEXT_CLSWVR250_00592_REDOLENTROSE_046,不過普通的「<hex:02280BFF05>Item<hex:F214CE0103>」可不行。<hex:02100103>可可摩是有錢人家的大小姐，<hex:02100103>必須是優質的「<hex:02280DFF07>ItemHQ<hex:F214CE0103>」，不然配不上她。
-66,TEXT_CLSWVR250_00592_REDOLENTROSE_047,我相信憑你的手藝一定能行！<hex:02100103>那麼就拜託你了！
-67,TEXT_CLSWVR250_00592_REDOLENTROSE_050,「<hex:02280BFF05>Item<hex:F214CE0103>」完成了嗎？<hex:02100103>要優質的<hex:02280DFF07>ItemHQ<hex:F214CE0103>才可以哦，<hex:02100103>因為可可摩是有錢人家的大小姐。
-68,TEXT_CLSWVR250_00592_REDOLENTROSE_060,啊！太棒了！！<hex:02100103>我第一次見到如此美麗的<hex:02280DFF07>ItemHQ<hex:F214CE0103>。<hex:02100103>好像要被這大氣穩重的光澤吸進去了。
-69,TEXT_CLSWVR250_00592_REDOLENTROSE_061,而且這柔軟的手感……<hex:02100103>啊……光是把布展開我就入迷了。
-70,TEXT_CLSWVR250_00592_REDOLENTROSE_062,辛苦你製作了布料，<hex:02100103>接下來剪裁和縫紉就是我的工作了。
-71,TEXT_CLSWVR250_00592_REDOLENTROSE_063,交給我吧！<hex:02100103>就算賭上我的尊嚴，<hex:02100103>也要做出品質不輸給布料的漂亮禮服。
-72,TEXT_CLSWVR250_00592_REDOLENTROSE_064,裁衣匠所製作的洋裝，<hex:02100103>是為了穿它的客人而存在的。
-73,TEXT_CLSWVR250_00592_REDOLENTROSE_065,如果想為某個人製作時尚的服飾，<hex:02100103>就要認真觀察對方，判斷怎樣的材料怎樣的衣服最合適，<hex:02100103>慢慢提升自己的品味。
-74,TEXT_CLSWVR250_00592_KOKOMO_070,裁衣匠，請多關照。<hex:02100103>禮服的布料用什麼都可以。<hex:02100103>反正……是為了滿足父親而做出來的東西。
-75,TEXT_CLSWVR250_00592_BABAWAI_080,女兒的禮服最好是帶有優雅光澤的東西。<hex:02100103>如果是廉價的光澤，老夫可不收。
+0,"TEXT_CLSWVR250_00592_SEQ_00","Redolent Rose has need of your assistance yet again."
+1,"TEXT_CLSWVR250_00592_SEQ_01","A sudden deluge of orders has the Weavers' Guild working at full stretch, and Redolent Rose cannot spare the time to attend a consultation with one of his clients. Go in the guildmaster's stead to the Gold Court and speak with Babawai and his daughter Kokomo."
+2,"TEXT_CLSWVR250_00592_SEQ_02","Your meeting does not prove as enlightening as you had hoped due to the complete disinterest of your young client. Return to the Weavers' Guild and tell Redolent Rose what you have learned."
+3,"TEXT_CLSWVR250_00592_SEQ_03","After a moment's consideration, Redolent Rose decides to craft a velveteen dress. Conscious of Babawai's reputation for exacting standards, he concludes that only the finest fabric will suffice. Weave a bolt of high-quality velveteen and deliver it to the guildmaster."
+4,"TEXT_CLSWVR250_00592_SEQ_04","The guildmaster praises your velveteen, and assures you that it will make a most magnificent dress─albeit one which he suspects Kokomo has no intention of wearing.<hex:02100103><hex:02100103>※The next weaver quest will be available from Redolent Rose upon reaching level 30."
+5,"TEXT_CLSWVR250_00592_SEQ_05",""
+6,"TEXT_CLSWVR250_00592_SEQ_06",""
+7,"TEXT_CLSWVR250_00592_SEQ_07",""
+8,"TEXT_CLSWVR250_00592_SEQ_08",""
+9,"TEXT_CLSWVR250_00592_SEQ_09",""
+10,"TEXT_CLSWVR250_00592_SEQ_10",""
+11,"TEXT_CLSWVR250_00592_SEQ_11",""
+12,"TEXT_CLSWVR250_00592_SEQ_12",""
+13,"TEXT_CLSWVR250_00592_SEQ_13",""
+14,"TEXT_CLSWVR250_00592_SEQ_14",""
+15,"TEXT_CLSWVR250_00592_SEQ_15",""
+16,"TEXT_CLSWVR250_00592_SEQ_16",""
+17,"TEXT_CLSWVR250_00592_SEQ_17",""
+18,"TEXT_CLSWVR250_00592_SEQ_18",""
+19,"TEXT_CLSWVR250_00592_SEQ_19",""
+20,"TEXT_CLSWVR250_00592_SEQ_20",""
+21,"TEXT_CLSWVR250_00592_SEQ_21",""
+22,"TEXT_CLSWVR250_00592_SEQ_22",""
+23,"TEXT_CLSWVR250_00592_SEQ_23",""
+24,"TEXT_CLSWVR250_00592_TODO_00","Speak with Kokomo."
+25,"TEXT_CLSWVR250_00592_TODO_01","Speak with Babawai."
+26,"TEXT_CLSWVR250_00592_TODO_02","Speak with Redolent Rose."
+27,"TEXT_CLSWVR250_00592_TODO_03","Deliver a bolt of undyed velveteen <hex:02280AFF06>Addon<hex:0A0103> to Redolent Rose."
+28,"TEXT_CLSWVR250_00592_TODO_04",""
+29,"TEXT_CLSWVR250_00592_TODO_05",""
+30,"TEXT_CLSWVR250_00592_TODO_06",""
+31,"TEXT_CLSWVR250_00592_TODO_07",""
+32,"TEXT_CLSWVR250_00592_TODO_08",""
+33,"TEXT_CLSWVR250_00592_TODO_09",""
+34,"TEXT_CLSWVR250_00592_TODO_10",""
+35,"TEXT_CLSWVR250_00592_TODO_11",""
+36,"TEXT_CLSWVR250_00592_TODO_12",""
+37,"TEXT_CLSWVR250_00592_TODO_13",""
+38,"TEXT_CLSWVR250_00592_TODO_14",""
+39,"TEXT_CLSWVR250_00592_TODO_15",""
+40,"TEXT_CLSWVR250_00592_TODO_16",""
+41,"TEXT_CLSWVR250_00592_TODO_17",""
+42,"TEXT_CLSWVR250_00592_TODO_18",""
+43,"TEXT_CLSWVR250_00592_TODO_19",""
+44,"TEXT_CLSWVR250_00592_TODO_20",""
+45,"TEXT_CLSWVR250_00592_TODO_21",""
+46,"TEXT_CLSWVR250_00592_TODO_22",""
+47,"TEXT_CLSWVR250_00592_TODO_23",""
+48,"TEXT_CLSWVR250_00592_REDOLENTROSE_000","This is indeed an unfortunate development..."
+49,"TEXT_CLSWVR250_00592_REDOLENTROSE_001","Oh, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! Thank Nymeia you're here. I need your help."
+50,"TEXT_CLSWVR250_00592_REDOLENTROSE_002","The entire guild is presently engaged in dealing with a sudden deluge of orders. Amongst them was a commission for a bespoke dress, all aspects of which I had intended to handle personally. Alas, I have just this moment received yet another request─this time from Her Grace─which must, naturally, take precedence."
+51,"TEXT_CLSWVR250_00592_REDOLENTROSE_003","Since you have some experience engaging with customers, I would send you to speak with the client, Babawai, in my stead. We had arranged to meet at the Gold Court later this─ Ah, where has the time gone? Ahem. We had arranged to meet <hex:021A020203>now<hex:021A020103>."
+52,"TEXT_CLSWVR250_00592_REDOLENTROSE_004","Babawai will be bringing his daughter Kokomo, for whom the dress is intended. Be sure to speak to her as well."
+53,"TEXT_CLSWVR250_00592_KOKOMO_010","You're from the Weavers' Guild? I'm terribly sorry you had to come all this way."
+54,"TEXT_CLSWVR250_00592_KOKOMO_011","Truth to tell, I don't really want another dress. But Father insisted, and when Father insists... <sigh> I just want this over and done with, so please, ask my father what he prefers, and I shall defer to his wishes."
+55,"TEXT_CLSWVR250_00592_BABAWAI_020","And who might you be? I was under the impression I would be meeting with the guildmaster. Well, it is of little matter, I suppose─provided the famous Redolent Rose still intends to design my daughter's dress."
+56,"TEXT_CLSWVR250_00592_BABAWAI_021","As for what manner of dress... Simply put, I'll not have my Kokomo garbed in common cotton. A jeweler's daughter must be refined─<hex:021A020203>resplendent<hex:021A020103>. A ruby amongst the riffraff."
+57,"TEXT_CLSWVR250_00592_BABAWAI_022","Her mere presence should reassure my customers as to the quality of my─ Ahem. I believe I have made myself clear. Pray relay my requirements to your guildmaster."
+58,"TEXT_CLSWVR250_00592_WAWARUKKA_030","<sigh>"
+59,"TEXT_CLSWVR250_00592_REDOLENTROSE_040","Ah, you're back. So then, what manner of dress does our client desire?<hex:02100103>...Something “resplendent,” which isn't made of cotton, you say? <sigh> I might have known. His commissions rarely stipulate anything beyond “ostentatiously expensive.”"
+60,"TEXT_CLSWVR250_00592_REDOLENTROSE_041","And all for a poor girl who would rather the eyes of the world look the other way."
+61,"TEXT_CLSWVR250_00592_REDOLENTROSE_042","Well, vanya silk would achieve the desired effect, though I doubt she would feel comfortable wearing such an extravagant dress. Velveteen, though...yes, velveteen might work."
+62,"TEXT_CLSWVR250_00592_REDOLENTROSE_043","A fine weave of cotton yarn and diremite silk with a short, soft pile─beautiful yet subdued, like our modest maiden."
+63,"TEXT_CLSWVR250_00592_REDOLENTROSE_044","It will be painstaking to prepare, but so be it."
+64,"TEXT_CLSWVR250_00592_REDOLENTROSE_045","I shall see to the patterns. The velveteen, I leave in your capable hands."
+65,"TEXT_CLSWVR250_00592_REDOLENTROSE_046","Know, though, that Babawai will not be satisfied with any ordinary fabric."
+66,"TEXT_CLSWVR250_00592_REDOLENTROSE_047","Only the very best will suffice. In short, I require a bolt of the finest velveteen you can weave."
+67,"TEXT_CLSWVR250_00592_REDOLENTROSE_050","Oh, have you woven the velveteen already?"
+68,"TEXT_CLSWVR250_00592_REDOLENTROSE_060","...It's been far too long since I last worked with quality velveteen."
+69,"TEXT_CLSWVR250_00592_REDOLENTROSE_061","You've truly outdone yourself, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>."
+70,"TEXT_CLSWVR250_00592_REDOLENTROSE_062","Babawai's daughter shall have a most magnificent dress."
+71,"TEXT_CLSWVR250_00592_REDOLENTROSE_063","A pity she is no more like to wear it than her father..."
+72,"TEXT_CLSWVR250_00592_REDOLENTROSE_064","Though nothing would please me more than to be proven wrong."
+73,"TEXT_CLSWVR250_00592_REDOLENTROSE_065","But I rather suspect another dress is the last thing that girl needs."
+74,"TEXT_CLSWVR250_00592_KOKOMO_070","Father knows best. And the guildmaster always produces such wonderful designs. No doubt I will be delighted as always."
+75,"TEXT_CLSWVR250_00592_BABAWAI_080","Kokomo is my treasure. I would have the world see her for the shining jewel that she is."

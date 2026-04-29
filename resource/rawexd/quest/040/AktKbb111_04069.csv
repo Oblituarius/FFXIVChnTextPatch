@@ -2,161 +2,161 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_AKTKBB111_04069_SEQ_00,田園郡的菈菈·基恩加爾有事要向冒險者彙報。
-1,TEXT_AKTKBB111_04069_SEQ_01,羅伊法等人遺落的藥草名為香錦草。為了阻止他們從別的渠道獲得該藥草，冒險者決定去尋找藥品商人。和中薩納蘭黑塵驛站的菈菈·基恩加爾談談。
-2,TEXT_AKTKBB111_04069_SEQ_02,找到了一位女性藥品商人，不過她的樣子十分慌張。經打聽後得知她的客人被一個3人團伙襲擊了。和中薩納蘭無望流民街附近的菈菈·基恩加爾談談。
-3,TEXT_AKTKBB111_04069_SEQ_03,冒險者們趕到時發現羅伊法等人再次襲擊了法爾德里內。為了讓被魔法強化的魔物遠離村落，打倒無望流民街附近的<hex:02280FFF09>BNpcName<hex:F22B0F0103>。
-4,TEXT_AKTKBB111_04069_SEQ_04,打倒了<hex:02280FFF09>BNpcName<hex:F22B0F0103>。救助無望流民街附近的法爾德里內。
-5,TEXT_AKTKBB111_04069_SEQ_05,救助了法爾德里內。和無望流民街附近的菈菈·基恩加爾談談。
-6,TEXT_AKTKBB111_04069_SEQ_06,冒險者回來後，發現瑪霍德和安塞爾很痛苦的樣子。見狀菈菈·基恩加爾不由得開始猶豫是否要束縛二人。和無望流民街附近的菈菈·基恩加爾談談。
-7,TEXT_AKTKBB111_04069_SEQ_07,從菈菈·基恩加爾口中得知瑪霍德和安塞爾其實是藥品商人的養子。聽藥品商人說曾有一位名為吉爾迪萬的醫師聲稱可以治療她瀕死的兩位孩子，把兩個人帶走後從此人間蒸發了。和無望流民街附近的菈菈·基恩加爾談談。
-8,TEXT_AKTKBB111_04069_SEQ_08,從女性藥品商人那裡打聽到法爾德里內從她那裡購買了香錦草。和田園郡的菈菈·基恩加爾談談。
-9,TEXT_AKTKBB111_04069_SEQ_09,菈菈·基恩加爾好像有點搞不清情況了。在她整理好思緒之前，先去磨鍊自己吧。<hex:02100103><hex:02100103>※賢者的等級達到75級以上時，可以從田園郡的菈菈·基恩加爾那裡領取下一個賢者任務。
-10,TEXT_AKTKBB111_04069_SEQ_10,
-11,TEXT_AKTKBB111_04069_SEQ_11,
-12,TEXT_AKTKBB111_04069_SEQ_12,
-13,TEXT_AKTKBB111_04069_SEQ_13,
-14,TEXT_AKTKBB111_04069_SEQ_14,
-15,TEXT_AKTKBB111_04069_SEQ_15,
-16,TEXT_AKTKBB111_04069_SEQ_16,
-17,TEXT_AKTKBB111_04069_SEQ_17,
-18,TEXT_AKTKBB111_04069_SEQ_18,
-19,TEXT_AKTKBB111_04069_SEQ_19,
-20,TEXT_AKTKBB111_04069_SEQ_20,
-21,TEXT_AKTKBB111_04069_SEQ_21,
-22,TEXT_AKTKBB111_04069_SEQ_22,
-23,TEXT_AKTKBB111_04069_SEQ_23,
-24,TEXT_AKTKBB111_04069_TODO_00,和黑塵驛站的菈菈·基恩加爾對話
-25,TEXT_AKTKBB111_04069_TODO_01,和菈菈·基恩加爾對話
-26,TEXT_AKTKBB111_04069_TODO_02,打倒<hex:02280FFF09>BNpcName<hex:F22B0F0103>
-27,TEXT_AKTKBB111_04069_TODO_03,救助法爾德里內
-28,TEXT_AKTKBB111_04069_TODO_04,和菈菈·基恩加爾對話
-29,TEXT_AKTKBB111_04069_TODO_05,再次和菈菈·基恩加爾對話
-30,TEXT_AKTKBB111_04069_TODO_06,進一步和菈菈·基恩加爾對話
-31,TEXT_AKTKBB111_04069_TODO_07,和田園郡的菈菈·基恩加爾對話
-32,TEXT_AKTKBB111_04069_TODO_08,
-33,TEXT_AKTKBB111_04069_TODO_09,
-34,TEXT_AKTKBB111_04069_TODO_10,
-35,TEXT_AKTKBB111_04069_TODO_11,
-36,TEXT_AKTKBB111_04069_TODO_12,
-37,TEXT_AKTKBB111_04069_TODO_13,
-38,TEXT_AKTKBB111_04069_TODO_14,
-39,TEXT_AKTKBB111_04069_TODO_15,
-40,TEXT_AKTKBB111_04069_TODO_16,
-41,TEXT_AKTKBB111_04069_TODO_17,
-42,TEXT_AKTKBB111_04069_TODO_18,
-43,TEXT_AKTKBB111_04069_TODO_19,
-44,TEXT_AKTKBB111_04069_TODO_20,
-45,TEXT_AKTKBB111_04069_TODO_21,
-46,TEXT_AKTKBB111_04069_TODO_22,
-47,TEXT_AKTKBB111_04069_TODO_23,
-48,TEXT_AKTKBB111_04069_LALAHJINJAHL_000_000,關於在聖茉夏娜植物園拿到的那個神秘植物，<hex:02100103>薩雷安那邊終於發來了調查結果！
-49,TEXT_AKTKBB111_04069_LALAHJINJAHL_000_001,那個植物的名稱叫香錦草，是一種藥草。<hex:02100103>攝入後會對體內的乙太造成強烈的影響，<hex:02100103>所以現在已經被列為禁止栽培的植物。
-50,TEXT_AKTKBB111_04069_LALAHJINJAHL_000_002,這種藥草在市面上幾乎是買不到的，<hex:02100103>所以本國那邊認為他們是為了拿到藥草<hex:02100103>才前往了被廢棄15年之久的植物園。
-51,TEXT_AKTKBB111_04069_LALAHJINJAHL_000_003,他們很可能是想利用香錦草和賢者的靈魂水晶<hex:02100103>進一步強化自己的能力吧。雖然不知道他們的最終目的是什麼，<hex:02100103>不過事實是已經有人遭到了他們的毒手……
-52,TEXT_AKTKBB111_04069_LALAHJINJAHL_000_004,現在，我們假定他們的目的是拿到香錦草，<hex:02100103>那遭到我們妨礙的羅伊法他們下一步會做出的行動必然是<hex:02100103>尋找別的獲取渠道。
-53,TEXT_AKTKBB111_04069_LALAHJINJAHL_000_005,於是按照這個邏輯，我就去向情報商打聽了一下，<hex:02100103>看有沒有可以搞到香錦草的渠道。<hex:02100103>根據情報，中薩納蘭的流民街那裡有販賣這種藥草的商人！
-54,TEXT_AKTKBB111_04069_LALAHJINJAHL_100_005,他們也實在是可惡，居然將賢學用於犯罪！<hex:02100103>真是一群愚昧無知的傢伙。<hex:02100103>更可恨的他竟然敢用那塊靈魂水晶犯罪……
-55,TEXT_AKTKBB111_04069_LALAHJINJAHL_000_006,啊……沒什麼。流民街距離黑塵驛站不遠。<hex:02100103>得趕在羅伊法他們幹壞事之前抓住他們。<hex:02100103>那<hex:022903EB0203>，我們快點過去吧！
-56,TEXT_AKTKBB111_04069_LALAHJINJAHL_000_010,嗚……怎麼會有這麼乾燥的地方啊……<hex:02100103>對於北洋出身的我來說，這實在是太折磨了。<hex:02100103>好想快點洗個澡然後擁抱舒適的大床……
-57,TEXT_AKTKBB111_04069_LALAHJINJAHL_000_011,啊！<hex:02100103>哇哇哇，<hex:022903EB0203>你來得夠早的呀！
-58,TEXT_AKTKBB111_04069_LALAHJINJAHL_000_012,咳……根據情報商給的線索，<hex:02100103>販賣香錦草的藥品商人是一名臉上紋有刺青的高地人族女性。<hex:02100103>據說是在這附近的流民街做生意。
-59,TEXT_AKTKBB111_04069_LALAHJINJAHL_000_013,我想羅伊法他們很可能也在尋找同一位藥品商人。<hex:02100103>時間要緊，我們分頭去尋找……嗯？！
-60,TEXT_AKTKBB111_04069_LALAHJINJAHL_000_014,快看，那邊就有一位與情報中特徵一致的女性！<hex:02100103>不過看起來好像有點不對勁。<hex:02100103>先去找她聊聊吧。
-61,TEXT_AKTKBB111_04069_PHARMACY04069_000_024,請、請幫幫我！
-62,TEXT_AKTKBB111_04069_LALAHJINJAHL_000_025,請問出了什麼事？
-63,TEXT_AKTKBB111_04069_PHARMACY04069_000_026,有3人正在襲擊我的客人！<hex:02100103>我逃到這裡來找人去救他，請你們幫幫我吧！
-64,TEXT_AKTKBB111_04069_LALAHJINJAHL_000_027,知道了，我們過去救人！<hex:02100103>在哪邊？
-65,TEXT_AKTKBB111_04069_PHARMACY04069_000_028,我來帶路，在這邊！
-66,TEXT_AKTKBB111_04069_LALAHJINJAHL_000_029,一定是羅伊法他們！<hex:02100103>這次可別想跑了！
-67,TEXT_AKTKBB111_04069_PHARMACY04069_000_040,突、突然有3個人襲擊了過來……
-68,TEXT_AKTKBB111_04069_LALAHJINJAHL_000_041,那是羅伊法他們還有……法爾德里內醫師？！
-69,TEXT_AKTKBB111_04069_LALAHJINJAHL_000_050,住手！
-70,TEXT_AKTKBB111_04069_LALAHJINJAHL_000_051,你們已經遭到了薩雷安哲學家議會的通緝。<hex:02100103>放下武器，不要負隅頑抗。<hex:02100103>否則……
-71,TEXT_AKTKBB111_04069_LOIFA_000_052,否則你就能拿我怎麼樣了？
-72,TEXT_AKTKBB111_04069_LALAHJINJAHL_000_053,你先回答我一個問題。
-73,TEXT_AKTKBB111_04069_LALAHJINJAHL_000_054,既然你們都已經獲得了超人般的力量，<hex:02100103>又為何還要傷害好人，讓善良的靈魂流淚？<hex:02100103>你們的目的到底是什麼？！
-74,TEXT_AKTKBB111_04069_LOIFA_000_055,你說什麼……好人？<hex:02100103>善良的靈魂？
-75,TEXT_AKTKBB111_04069_LOIFA_000_056,你們又懂我們的什麼？！<hex:02100103>你什麼都不懂！<hex:02100103>你們不過就是些別人說什麼就信什麼的蠢貨。
-76,TEXT_AKTKBB111_04069_LOIFA_000_057,那時候就不應該救下你，沒想到你會成為這麼棘手的障礙。
-77,TEXT_AKTKBB111_04069_LOIFA_000_058,怎麼，你是感受到賢者的高尚使命了是嗎？<hex:02100103>脆弱生命的引導者，帶領人類進步的聰慧之人。<hex:02100103>拯救、守護自身能力可及範圍內的所有生命，並讓他們活下去……
-78,TEXT_AKTKBB111_04069_LOIFA_000_059,但你又可否理解……<hex:02100103>倖存這個結果對那些人來說<hex:02100103>本身就是一種沉重的罪孽！
-79,TEXT_AKTKBB111_04069_GUILDIVAIN_000_060,哎呀哎呀……說的就好像你都理解了一樣。
-80,TEXT_AKTKBB111_04069_GUILDIVAIN_000_061,所謂的罪孽是指在有價值的生命凋零前無所作為。<hex:02100103>在肉體與靈魂消逝前，人只能無助地等待生命的隕落……<hex:02100103>賢學正是為了對抗大自然這種不講理的法則而被創造出來的。
-81,TEXT_AKTKBB111_04069_GUILDIVAIN_000_062,你理解了嗎？<hex:02100103>如果理解了的話，<hex:02100103>想必那些為你們而犧牲的尊貴生命……也會瞑目了吧。
-82,TEXT_AKTKBB111_04069_LOIFA_000_063,你給我閉嘴！！
-83,TEXT_AKTKBB111_04069_LOIFA_000_064,你要是再包庇他，我就連你一起幹掉！
-84,TEXT_AKTKBB111_04069_PHARMACY04069_000_065,你、你們……難道是……
-85,TEXT_AKTKBB111_04069_GUILDIVAIN_000_066,這可不好辦了，在人群附近大鬧一場……<hex:02100103>可是會造成無辜傷亡的。
-86,TEXT_AKTKBB111_04069_GUILDIVAIN_000_067,要是被這種兇惡的魔物襲擊的話就完了。<hex:02100103>啊，說起來以前就有因此遇難的孩子……
-87,TEXT_AKTKBB111_04069_ANCEL_000_068,你這個混蛋！！
-88,TEXT_AKTKBB111_04069_LOIFA_000_069,不行……不要被他激怒！<hex:02100103>控制住情緒！
-89,TEXT_AKTKBB111_04069_MAHAUD_000_070,哈……哈……啊——
-90,TEXT_AKTKBB111_04069_LOIFA_000_071,瑪霍德！安塞爾！！
-91,TEXT_AKTKBB111_04069_GUILDIVAIN_000_072,真是沒辦法。<hex:02100103>那<hex:022903EB0203>，就由我來吸引魔物的注意力，<hex:02100103>麻煩你幫一下忙。
-92,TEXT_AKTKBB111_04069_LALAHJINJAHL_000_073,藥品商人的安全就包在我身上吧！
-93,TEXT_AKTKBB111_04069_LALAHJINJAHL_000_074,藥品商人的安全就包在我身上吧！
-94,TEXT_AKTKBB111_04069_PHARMACY04069_000_075,你、你們……難道是……
-95,TEXT_AKTKBB111_04069_GUILDIVAIN_000_080,呼……還好有你在。<hex:02100103>看來你真的是很有賢學才能啊。<hex:02100103>有意思……
-96,TEXT_AKTKBB111_04069_GUILDIVAIN_000_081,好了，差不多回她們那裡吧。<hex:02100103>剛才沒空顧及她們的情況就過來了，<hex:02100103>希望她們現在沒事。
-97,TEXT_AKTKBB111_04069_PHARMACY04069_000_082,剛才開始就在痛苦的那些孩子們……難道是……
-98,TEXT_AKTKBB111_04069_GUILDIVAIN_000_082,哎呀呀……看起來很難受啊……
-99,TEXT_AKTKBB111_04069_LALAHJINJAHL_000_090,那個……從剛才開始他們的樣子就一直很奇怪……<hex:02100103>是不是應該趁現在捆上他們呢……
-100,TEXT_AKTKBB111_04069_LALAHJINJAHL_100_090,可、可是……他們的那種症狀……
-101,TEXT_AKTKBB111_04069_MAHAUD_000_091,嗚嗚嗚……嗚……啊！
-102,TEXT_AKTKBB111_04069_LOIFA_000_092,沒辦法，還是撤吧。
-103,TEXT_AKTKBB111_04069_ANCEL_000_093,哈……我沒事，羅伊法……快幹掉他……
-104,TEXT_AKTKBB111_04069_LOIFA_000_094,不要逞強！！
-105,TEXT_AKTKBB111_04069_LALAHJINJAHL_000_095,那個、請等一下。<hex:02100103>這種症狀……是經由魔法強化生命力後產生的副作用對吧？<hex:02100103>而且還是那種非常強的……絕非臨陣磨槍的知識就能施展的魔法……
-106,TEXT_AKTKBB111_04069_LALAHJINJAHL_000_096,一個人的生命力有多強，大致可以靠他體內有多少乙太來判斷。<hex:02100103>決定生命力強度的乙太上限會隨著成長而變多，隨著衰老而減少。
-107,TEXT_AKTKBB111_04069_LALAHJINJAHL_000_097,這個變化本該是非常緩慢而平穩的過程，<hex:02100103>尤其是成年之後，基本上不會發生劇烈的變化。<hex:02100103>可是……
-108,TEXT_AKTKBB111_04069_LALAHJINJAHL_100_097,……數年前薩雷安曾經流傳著一則聽上去頗有其事的傳聞，<hex:02100103>有一位表面上技術精湛的醫師在背地裡偷偷做著人體實驗，<hex:02100103>而實驗的內容就是強制提升生命力……
-109,TEXT_AKTKBB111_04069_LALAHJINJAHL_000_098,傳聞中還提到這名醫師用未完成的術式<hex:02100103>對多名實驗對象進行了實驗，最終只有寥寥幾個人挺過了實驗，<hex:02100103>並且這些倖存者還飽受著強烈的副作用折磨……
-110,TEXT_AKTKBB111_04069_LOIFA_000_099,……
-111,TEXT_AKTKBB111_04069_LALAHJINJAHL_000_100,當然的，像這種危險的術式不僅被視為禁忌，<hex:02100103>而且就算在整個薩雷安應該也只有極少數的賢者才知道。<hex:02100103>也就是說，如果傳聞是真的話……那你們就是……那個實驗的……
-112,TEXT_AKTKBB111_04069_LOIFA_000_101,哼……你們真是蠢啊。
-113,TEXT_AKTKBB111_04069_LALAHJINJAHL_000_102,你說什麼？！
-114,TEXT_AKTKBB111_04069_LOIFA_000_103,走吧，能站起來嗎？
-115,TEXT_AKTKBB111_04069_PHARMACY04069_000_104,等一下……你們……果然是……
-116,TEXT_AKTKBB111_04069_PHARMACY04069_000_105,瑪霍德和安塞爾……對吧？
-117,TEXT_AKTKBB111_04069_PHARMACY04069_000_106,啊……<hex:02100103>果然是你們……都長得這麼大了……<hex:02100103>你們是我心愛的孩子，我怎麼會認錯呢……
-118,TEXT_AKTKBB111_04069_PHARMACY04069_000_107,你們還活著，真是太好了……<hex:02100103>太好了……真的太好了……嗚嗚……
-119,TEXT_AKTKBB111_04069_GUILDIVAIN_100_110,他們這夥人真是奇怪，說了一堆莫名其妙的事情。
-120,TEXT_AKTKBB111_04069_PHARMACY04069_100_110,瑪霍德……安塞爾……
-121,TEXT_AKTKBB111_04069_LALAHJINJAHL_000_110,按照本國的指示，這回本是抓捕他們的大好機會，<hex:02100103>可我……
-122,TEXT_AKTKBB111_04069_LALAHJINJAHL_000_111,請問你是認識他們嗎？
-123,TEXT_AKTKBB111_04069_PHARMACY04069_000_112,瑪霍德和安塞爾是我的養子。
-124,TEXT_AKTKBB111_04069_PHARMACY04069_000_113,那倆孩子是一對沒有血緣關係的兄妹。<hex:02100103>他們自幼失去了父母，是我收留並撫養了無依無靠的他們……
-125,TEXT_AKTKBB111_04069_PHARMACY04069_000_114,不過在那之後我逐漸發現妹妹瑪霍德的身體情況有些奇怪。<hex:02100103>持續數天高燒不退，眼見著一天天衰弱了下去……<hex:02100103>……後來我才知道她得的是一種名為絕靈病的罕見病。
-126,TEXT_AKTKBB111_04069_LALAHJINJAHL_000_115,我在醫學書中讀到過……得了這種奇病的病人無法像正常人那樣<hex:02100103>通過飲食來補充體內流失的乙太，<hex:02100103>這個病今日也沒有有效的根治療法，只能對症治療延緩症狀……
-127,TEXT_AKTKBB111_04069_PHARMACY04069_000_116,如果只是這樣我或許還能想想辦法，<hex:02100103>可是偏偏禍不單行……
-128,TEXT_AKTKBB111_04069_PHARMACY04069_000_117,我們的村落遭到了強大魔物的襲擊，<hex:02100103>想要保護妹妹的安塞爾也因此身受重傷。<hex:02100103>雖然勉強保住了一條命，可從那以後就一直昏迷不醒……
-129,TEXT_AKTKBB111_04069_PHARMACY04069_000_118,兩個孩子的治療費讓我陷入了深深的絕望。<hex:02100103>我甚至一度想著和那倆孩子一起死了算了……
-130,TEXT_AKTKBB111_04069_PHARMACY04069_000_119,就在那時，我遇到了一位好心的醫生。
-131,TEXT_AKTKBB111_04069_LALAHJINJAHL_000_120,醫生？
-132,TEXT_AKTKBB111_04069_PHARMACY04069_000_121,嗯，他說可以免費為孩子們治療……只不過因為治療的難度很大，<hex:02100103>需要花費好幾年的時間。那時候的我當然不會放棄這根救命稻草，<hex:02100103>可他帶走了孩子們之後就失去了音信……
-133,TEXT_AKTKBB111_04069_PHARMACY04069_000_122,啊，可是……我們又像這樣重逢了。<hex:02100103>雖然他們的樣子變化很大……<hex:02100103>但只要知道他們還活著，我就算得到救贖了。
-134,TEXT_AKTKBB111_04069_LALAHJINJAHL_000_123,抱歉打斷一下，那個醫師的名字叫什麼？！
-135,TEXT_AKTKBB111_04069_PHARMACY04069_000_124,吉爾迪萬，他是這麼自稱的。<hex:02100103>說自己是薩雷安出身的很有名的醫生……
-136,TEXT_AKTKBB111_04069_GUILDIVAIN_000_125,能活著就好。<hex:02100103>真是可喜可賀。
-137,TEXT_AKTKBB111_04069_GUILDIVAIN_000_126,那我差不多該去下一個地方巡診了，<hex:02100103>容我先走一步。
-138,TEXT_AKTKBB111_04069_GUILDIVAIN_000_127,再會吧，年輕的賢者。
-139,TEXT_AKTKBB111_04069_PHARMACY04069_100_130,一切都太突然了，我甚至沒有機會跟他們說上話，<hex:02100103>不知道他們過得怎麼樣……<hex:02100103>在他們身上到底發生了什麼，有沒有好好在吃飯啊……
-140,TEXT_AKTKBB111_04069_LALAHJINJAHL_000_130,總之沒出大事就好。<hex:02100103>我去跟烏爾達哈的恆輝隊說明一下事情的始末，<hex:02100103>同時拜託他們強化一下這片區域的警備。
-141,TEXT_AKTKBB111_04069_PHARMACY04069_000_131,真是謝謝你們。
-142,TEXT_AKTKBB111_04069_LALAHJINJAHL_000_132,話說回來，恕我冒昧地問一句……<hex:02100103>你和法爾德里內醫師是初次見面吧？
-143,TEXT_AKTKBB111_04069_PHARMACY04069_000_133,不是，是熟人介紹來的老客戶。<hex:02100103>人家不僅專門來這種偏僻之地來購買東西，<hex:02100103>還經常好心惦記著我們這種窮人的健康狀況。
-144,TEXT_AKTKBB111_04069_PHARMACY04069_000_134,不論是吉爾迪萬先生，<hex:02100103>還是法爾德里內先生，<hex:02100103>薩雷安出身的醫生都淨是大好人呢。
-145,TEXT_AKTKBB111_04069_LALAHJINJAHL_000_135,……<hex:02100103>再問一句，給你介紹醫生的人是？
-146,TEXT_AKTKBB111_04069_PHARMACY04069_000_136,是一名在小麥酒港做生意的貿易商人。<hex:02100103>他說過法爾德里內先生是他的貴客，<hex:02100103>經常會從他那裡購買產自薩維奈的高級煉金藥。
-147,TEXT_AKTKBB111_04069_LALAHJINJAHL_000_137,是這樣啊……<hex:02100103>那個，如果方便的話，<hex:02100103>可以說一下剛才法爾德里內醫師購買了什麼樣的商品嗎？
-148,TEXT_AKTKBB111_04069_PHARMACY04069_000_138,是一種名為香錦草的藥草。<hex:02100103>包括進貨渠道也是他告訴我的。雖然我不太了解這個藥草，<hex:02100103>不過據說是會用於高難度的治療……
-149,TEXT_AKTKBB111_04069_PHARMACY04069_000_139,那我就先告辭了。<hex:02100103>為了讓那倆孩子隨時有家可回，<hex:02100103>我也得努力多活幾年才行啊。
-150,TEXT_AKTKBB111_04069_LALAHJINJAHL_000_140,……
-151,TEXT_AKTKBB111_04069_LALAHJINJAHL_000_141,我們也回田園郡那裡吧。<hex:02100103>抱歉，我想稍微整理一下思緒……
-152,TEXT_AKTKBB111_04069_LALAHJINJAHL_000_150,<hex:022903EB0203>……<hex:02100103>請先別笑我，現在的我真的已經搞不清什麼才是正確的了……
-153,TEXT_AKTKBB111_04069_LALAHJINJAHL_000_151,我們已經知道了，香錦草是會對體內乙太產生影響的藥草。<hex:02100103>而專程去購買香錦草的人竟然是法爾德里內醫師。
-154,TEXT_AKTKBB111_04069_LALAHJINJAHL_000_152,那羅伊法他們為什麼會出現在那裡？<hex:02100103>難道……他們的動機……目的是……
-155,TEXT_AKTKBB111_04069_LALAHJINJAHL_000_153,復仇……？
-156,TEXT_AKTKBB111_04069_LALAHJINJAHL_000_154,怎麼會這樣，要是照這樣說的話……<hex:02100103>法爾德里內醫師的真實身份是……
-157,TEXT_AKTKBB111_04069_LALAHJINJAHL_000_155,啊，搞不懂……真是抱歉。<hex:02100103>請再給我些時間整理情況吧。
+0,"TEXT_AKTKBB111_04069_SEQ_00","Lalah Jinjahl is eager to share tidings from the Sharlayan motherland."
+1,"TEXT_AKTKBB111_04069_SEQ_01","In eager tones, Lalah informs you that the analysis of the mystery plant is complete. It has been determined to be muscmaloi, a variety of herb that possesses potent aether-fortifying properties, owing to which its cultivation is outlawed. Having been thwarted from obtaining it at the arboretum, the fugitives will likely seek other means of procurement, and Lalah has identified an apothecary at Lost Hope as a source for the herb. On your way to find this individual, you next make for Black Brush Station in central Thanalan."
+2,"TEXT_AKTKBB111_04069_SEQ_02","No sooner do you arrive at Black Brush Station than you meet with a distressed woman who fits the description of the apothecary. She breathlessly explains that three strangers have suddenly set upon a customer of hers, and you and Lalah rush to Lost Hope and the man's aid."
+3,"TEXT_AKTKBB111_04069_SEQ_03","True to your suspicions, the strangers are your fugitives─but who should the customer at their mercy be but Faldrinet. You force your way between the healer and his assailants, and a standoff ensues. After a tense exchange, Loifa uses his power to enhance an antling, but provoked to anger by Faldrinet, Mahaud and Ancel suddenly fall to their knees in pain. Though it is not immediately clear what is happening to them, your priority is to deal with the fell beast, which Faldrinet has lured away."
+4,"TEXT_AKTKBB111_04069_SEQ_04","You catch up to the beast and put it down before it can cause harm. The deed done, you turn to assist Faldrinet."
+5,"TEXT_AKTKBB111_04069_SEQ_05","Thanks to your ministrations, Faldrinet is soon back on his feet, and together you return to the scene of the confrontation with Loifa."
+6,"TEXT_AKTKBB111_04069_SEQ_06","You find Mahaud and Ancel still suffering from their mysterious ailment. Observing their symptoms prompts Lalah to recall rumors of a forbidden procedure said to have been conducted by a Sharlayan healer years ago─rumors that were summarily dismissed by the Forum. Nevertheless, the fugitives' plight gives her cause to wonder...but Loifa offers no confirmation and simply mocks her naivety. Again they make to teleport away, but ere they do so, the apothecary hesitantly steps forward, having recognized Mahaud and Ancel as her children..."
+7,"TEXT_AKTKBB111_04069_SEQ_07","The confrontation thus concluded, the apothecary recounts her tale. Mahaud and Ancel are her adopted children, she explains, and when they were both gravely ill, a Sharlayan healer by the name of Guildivain appeared and offered to cure them. The man took them away, and she had not seen them for years...until they seemingly came for Faldrinet."
+8,"TEXT_AKTKBB111_04069_SEQ_08","After Faldrinet takes his leave, the apothecary reveals that it was him rather than the fugitives who sought to purchase her muscmaloi. She also tells you about a merchant in Aleport from whom Faldrinet procures rare alchemical ingredients. The plot duly thickened, Lalah suggests returning to Idyllshire to ponder recent revelations."
+9,"TEXT_AKTKBB111_04069_SEQ_09","Lalah confesses her confusion at recent developments, which seems to contradict her assumptions. The rumors of a renegade sage conducting depraved experiments are of particular concern, for the nature of the fugitives suggests there may be a kernel of truth to them─yet the Forum was nevertheless adamant in their denial. While she attempts to make sense of everything, you resolve to spend your time fruitfully by further honing your skills.<hex:02100103><hex:02100103>※The next sage quest will be available from Lalah Jinjahl upon reaching level 75."
+10,"TEXT_AKTKBB111_04069_SEQ_10",""
+11,"TEXT_AKTKBB111_04069_SEQ_11",""
+12,"TEXT_AKTKBB111_04069_SEQ_12",""
+13,"TEXT_AKTKBB111_04069_SEQ_13",""
+14,"TEXT_AKTKBB111_04069_SEQ_14",""
+15,"TEXT_AKTKBB111_04069_SEQ_15",""
+16,"TEXT_AKTKBB111_04069_SEQ_16",""
+17,"TEXT_AKTKBB111_04069_SEQ_17",""
+18,"TEXT_AKTKBB111_04069_SEQ_18",""
+19,"TEXT_AKTKBB111_04069_SEQ_19",""
+20,"TEXT_AKTKBB111_04069_SEQ_20",""
+21,"TEXT_AKTKBB111_04069_SEQ_21",""
+22,"TEXT_AKTKBB111_04069_SEQ_22",""
+23,"TEXT_AKTKBB111_04069_SEQ_23",""
+24,"TEXT_AKTKBB111_04069_TODO_00","Speak with Lalah Jinjahl at Black Brush Station."
+25,"TEXT_AKTKBB111_04069_TODO_01","Speak with Lalah Jinjahl."
+26,"TEXT_AKTKBB111_04069_TODO_02","Defeat the Lost Hope antling."
+27,"TEXT_AKTKBB111_04069_TODO_03","Rescue Faldrinet."
+28,"TEXT_AKTKBB111_04069_TODO_04","Speak with Lalah Jinjahl."
+29,"TEXT_AKTKBB111_04069_TODO_05","Speak with Lalah Jinjahl again."
+30,"TEXT_AKTKBB111_04069_TODO_06","Speak with Lalah Jinjahl again."
+31,"TEXT_AKTKBB111_04069_TODO_07","Speak with Lalah Jinjahl in Idyllshire."
+32,"TEXT_AKTKBB111_04069_TODO_08",""
+33,"TEXT_AKTKBB111_04069_TODO_09",""
+34,"TEXT_AKTKBB111_04069_TODO_10",""
+35,"TEXT_AKTKBB111_04069_TODO_11",""
+36,"TEXT_AKTKBB111_04069_TODO_12",""
+37,"TEXT_AKTKBB111_04069_TODO_13",""
+38,"TEXT_AKTKBB111_04069_TODO_14",""
+39,"TEXT_AKTKBB111_04069_TODO_15",""
+40,"TEXT_AKTKBB111_04069_TODO_16",""
+41,"TEXT_AKTKBB111_04069_TODO_17",""
+42,"TEXT_AKTKBB111_04069_TODO_18",""
+43,"TEXT_AKTKBB111_04069_TODO_19",""
+44,"TEXT_AKTKBB111_04069_TODO_20",""
+45,"TEXT_AKTKBB111_04069_TODO_21",""
+46,"TEXT_AKTKBB111_04069_TODO_22",""
+47,"TEXT_AKTKBB111_04069_TODO_23",""
+48,"TEXT_AKTKBB111_04069_LALAHJINJAHL_000_000","Wonderful timing, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! Remember that mystery plant I sent to Sharlayan for analysis? I received the results not long ago."
+49,"TEXT_AKTKBB111_04069_LALAHJINJAHL_000_001","It was muscmaloi, a herb that possesses potent aether-fortifying properties. Owing to its effect, its cultivation was outlawed some years ago."
+50,"TEXT_AKTKBB111_04069_LALAHJINJAHL_000_002","'Tis most certainly why the fugitives came to Eorzea. Unable to obtain the herb in Sharlayan, they decided to procure it from the arboretum."
+51,"TEXT_AKTKBB111_04069_LALAHJINJAHL_000_003","They likely intend to use it in conjunction with the soul crystal to further enhance themselves. Though their motives are still a mystery, the fact remains that they have already caused harm and will continue to do so until they are brought to justice."
+52,"TEXT_AKTKBB111_04069_LALAHJINJAHL_000_004","Now, as they failed to obtain muscmaloi here, they will need to look elsewhere. And I'm pleased to say that my informer has helped me to identify an apothecary who deals in the herb─and whom I suspect our quarry will seek out."
+53,"TEXT_AKTKBB111_04069_LALAHJINJAHL_000_005","This individual is a resident of Lost Hope in central Thanalan, and that is where we shall next take ourselves."
+54,"TEXT_AKTKBB111_04069_LALAHJINJAHL_100_005","Mark my words, they won't escape this time! I'll suffer them to misuse the sage's noble art no longer, and much less with <hex:021A020203>that<hex:021A020103> soul crystal!"
+55,"TEXT_AKTKBB111_04069_LALAHJINJAHL_000_006","...Ahem. If we are to catch the fugitives, we had best hurry. That said, we should take a moment to regroup and prepare at Black Brush Station before heading on to Lost Hope."
+56,"TEXT_AKTKBB111_04069_LALAHJINJAHL_000_010","Good gods, such a dry and dusty place this is... What I wouldn't give for a bath right now..."
+57,"TEXT_AKTKBB111_04069_LALAHJINJAHL_000_011","Uwaaah! H-How long have you been here!?"
+58,"TEXT_AKTKBB111_04069_LALAHJINJAHL_000_012","...I-I mean, 'tis well you are here. Ahem. I've already replenished my supplies, so if you are ready, we may begin looking for the apothecary at once. A Hyuran woman whose facial tattoo should mark her out..."
+59,"TEXT_AKTKBB111_04069_LALAHJINJAHL_000_013","The fugitives are like to be searching for her too. We must find her before they─ ...Hm?"
+60,"TEXT_AKTKBB111_04069_LALAHJINJAHL_000_014","That woman yonder fits the description...but something appears to be amiss. Let us investigate."
+61,"TEXT_AKTKBB111_04069_PHARMACY04069_000_024","Help me! Please!"
+62,"TEXT_AKTKBB111_04069_LALAHJINJAHL_000_025","What ails you, madam?"
+63,"TEXT_AKTKBB111_04069_PHARMACY04069_000_026","I was dealing with a customer when a group of bandits attacked us! I managed to flee, but he's still at their mercy!"
+64,"TEXT_AKTKBB111_04069_LALAHJINJAHL_000_027","Worry not, we'll help you. Pray lead the way!"
+65,"TEXT_AKTKBB111_04069_PHARMACY04069_000_028","Thank you!"
+66,"TEXT_AKTKBB111_04069_LALAHJINJAHL_000_029","It could only be them!"
+67,"TEXT_AKTKBB111_04069_PHARMACY04069_000_040","They're over there..."
+68,"TEXT_AKTKBB111_04069_LALAHJINJAHL_000_041","It's indeed them... But wait─is that Master Faldrinet!?"
+69,"TEXT_AKTKBB111_04069_LALAHJINJAHL_000_050","It's over, villains!"
+70,"TEXT_AKTKBB111_04069_LALAHJINJAHL_000_051","Lay down your arms, or else..."
+71,"TEXT_AKTKBB111_04069_LOIFA_000_052","Or else...what?"
+72,"TEXT_AKTKBB111_04069_LALAHJINJAHL_000_053","Answer me one thing."
+73,"TEXT_AKTKBB111_04069_LALAHJINJAHL_000_054","What is this all for? Why go to such lengths and forsake everything you had to obtain power? And why wield such power against good, well-meaning souls?"
+74,"TEXT_AKTKBB111_04069_LOIFA_000_055","Good? Well-meaning?"
+75,"TEXT_AKTKBB111_04069_LOIFA_000_056","You know nothing about us! <hex:021A020203>Nothing<hex:021A020103>! You're just fools who believe everything you've been fed!"
+76,"TEXT_AKTKBB111_04069_LOIFA_000_057","I'm beginning to regret sparing you."
+77,"TEXT_AKTKBB111_04069_LOIFA_000_058","Do you feel it? The weight of the “sacred duty.” To strive for the betterment of mankind and stand as a beacon of hope..."
+78,"TEXT_AKTKBB111_04069_LOIFA_000_059","...To play with people's lives. Do you feel it? The weight of the sin?"
+79,"TEXT_AKTKBB111_04069_GUILDIVAIN_000_060","You would speak of sin?"
+80,"TEXT_AKTKBB111_04069_GUILDIVAIN_000_061","To do naught when a life might be saved─<hex:021A020203>that<hex:021A020103> is the greatest sin. Every day, unfortunate souls die without reason. At fate's <hex:021A020203>whim<hex:021A020103>. 'Tis the sage's duty to fight this injustice by whatever means he may."
+81,"TEXT_AKTKBB111_04069_GUILDIVAIN_000_062","If you understand this, then it is not too late for you. You may yet make something of your lives."
+82,"TEXT_AKTKBB111_04069_LOIFA_000_063","Shut your mouth!"
+83,"TEXT_AKTKBB111_04069_LOIFA_000_064","If you're determined to protect that wretch, then I will consider you complicit!"
+84,"TEXT_AKTKBB111_04069_PHARMACY04069_000_065","Wait... I <hex:021A020203>know<hex:021A020103> you..."
+85,"TEXT_AKTKBB111_04069_GUILDIVAIN_000_066","Rather too close to the settlement for comfort. I fear for the civilians."
+86,"TEXT_AKTKBB111_04069_GUILDIVAIN_000_067","They wouldn't stand a chance against such a fiend...as they would well know."
+87,"TEXT_AKTKBB111_04069_ANCEL_000_068","You...you bastaaard!"
+88,"TEXT_AKTKBB111_04069_LOIFA_000_069","No! Don't let him provoke you!"
+89,"TEXT_AKTKBB111_04069_MAHAUD_000_070","Ugh... Unnngh..."
+90,"TEXT_AKTKBB111_04069_LOIFA_000_071","Stay with me! Listen to my voice!"
+91,"TEXT_AKTKBB111_04069_GUILDIVAIN_000_072","We must lure the beast elsewhere and tend to it. <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>─would you mind assisting me?"
+92,"TEXT_AKTKBB111_04069_LALAHJINJAHL_000_073","Go! I have the situation here in hand!"
+93,"TEXT_AKTKBB111_04069_LALAHJINJAHL_000_074","Deal with the beast! Don't worry about me!"
+94,"TEXT_AKTKBB111_04069_PHARMACY04069_000_075","No...it's not possible..."
+95,"TEXT_AKTKBB111_04069_GUILDIVAIN_000_080","Whew, thank you, my friend...and well fought! I daresay you're a born sage. Fascinating..."
+96,"TEXT_AKTKBB111_04069_GUILDIVAIN_000_081","But come, we should return to the others. The villains may not remain stricken for long."
+97,"TEXT_AKTKBB111_04069_PHARMACY04069_000_082","Will they be all right...?"
+98,"TEXT_AKTKBB111_04069_GUILDIVAIN_000_082","Oh dear, it seems they are still under the weather."
+99,"TEXT_AKTKBB111_04069_LALAHJINJAHL_000_090","Their condition is unchanged. We should probably take advantage of this and apprehend them..."
+100,"TEXT_AKTKBB111_04069_LALAHJINJAHL_100_090","But this symptom..."
+101,"TEXT_AKTKBB111_04069_MAHAUD_000_091","Ungh... Arrrgh!"
+102,"TEXT_AKTKBB111_04069_LOIFA_000_092","Hold on. I'm getting us out of here."
+103,"TEXT_AKTKBB111_04069_ANCEL_000_093","<pant> We're fine, Loifa..."
+104,"TEXT_AKTKBB111_04069_LOIFA_000_094","No, you're not, and you know it!"
+105,"TEXT_AKTKBB111_04069_LALAHJINJAHL_000_095","It's the enhancement, isn't it? I know something of the procedure. Of its potency...and the harm it causes."
+106,"TEXT_AKTKBB111_04069_LALAHJINJAHL_000_096","There's a limit to the amount of corporeal aether a living being can harbor. As we grow up, it waxes; as we grow old, it wanes."
+107,"TEXT_AKTKBB111_04069_LALAHJINJAHL_000_097","A gradual, gentle process, if allowed to function in the natural fashion..."
+108,"TEXT_AKTKBB111_04069_LALAHJINJAHL_100_097","But complications may arise when one forcibly fortifies that aether─as a rogue “healer” was rumored to have been doing with live subjects some years ago."
+109,"TEXT_AKTKBB111_04069_LALAHJINJAHL_000_098","The man used an unproven procedure on countless souls─a <hex:021A020203>forbidden<hex:021A020103> procedure, known only to a select few sages."
+110,"TEXT_AKTKBB111_04069_LOIFA_000_099","..."
+111,"TEXT_AKTKBB111_04069_LALAHJINJAHL_000_100","And though he succeeded in a few instances, those subjects suffered from debilitating side effects... But those rumors were denounced by the Forum as baseless. And yet..."
+112,"TEXT_AKTKBB111_04069_LOIFA_000_101","Hmph. You'll believe anything they tell you, won't you? Naive fools..."
+113,"TEXT_AKTKBB111_04069_LALAHJINJAHL_000_102","...What!?"
+114,"TEXT_AKTKBB111_04069_LOIFA_000_103","Can you stand?"
+115,"TEXT_AKTKBB111_04069_PHARMACY04069_000_104","Wait. Please."
+116,"TEXT_AKTKBB111_04069_PHARMACY04069_000_105","It's really you, isn't it? Mahaud... Ancel..."
+117,"TEXT_AKTKBB111_04069_PHARMACY04069_000_106","Yes. Yes, it is... My children... Oh, how you've grown..."
+118,"TEXT_AKTKBB111_04069_PHARMACY04069_000_107","<sob> Thank the Twelve you're alive..."
+119,"TEXT_AKTKBB111_04069_GUILDIVAIN_100_110","'Tis plain they are confused. I pity them."
+120,"TEXT_AKTKBB111_04069_PHARMACY04069_100_110","Mahaud... Ancel..."
+121,"TEXT_AKTKBB111_04069_LALAHJINJAHL_000_110","I had the perfect chance to apprehend the fugitives. To complete my mission. But I couldn't..."
+122,"TEXT_AKTKBB111_04069_LALAHJINJAHL_000_111","It seems you know them─the ones called Mahaud and Ancel."
+123,"TEXT_AKTKBB111_04069_PHARMACY04069_000_112","Of course. They're my adopted children."
+124,"TEXT_AKTKBB111_04069_PHARMACY04069_000_113","They were orphaned at a young age, and I took them in and raised them as my own. Though none of us were related by blood, we became as close a family as any."
+125,"TEXT_AKTKBB111_04069_PHARMACY04069_000_114","Ours was a quiet, comfortable life. But then one day Mahaud fell sick. She had a raging fever, and grew weaker with every passing moment... Aetherspurn, the illness is called."
+126,"TEXT_AKTKBB111_04069_LALAHJINJAHL_000_115","I've read about it─a rare disease wherein the body becomes unable to draw aether from food. There is no known cure, only palliative care."
+127,"TEXT_AKTKBB111_04069_PHARMACY04069_000_116","Our troubles didn't end there. Even as we were struggling to look after Mahaud, a fell beast attacked our settlement..."
+128,"TEXT_AKTKBB111_04069_PHARMACY04069_000_117","Ancel tried to protect his sister and was badly hurt. The chirurgeon said that he would be bedridden for the rest of his days."
+129,"TEXT_AKTKBB111_04069_PHARMACY04069_000_118","I didn't know what to do. Without the coin to care for them, I... My mind went to dark places. I began thinking of how I might spare them the pain. Spare us all."
+130,"TEXT_AKTKBB111_04069_PHARMACY04069_000_119","It was in that state that he found me. A kindly traveler."
+131,"TEXT_AKTKBB111_04069_LALAHJINJAHL_000_120","...A healer?"
+132,"TEXT_AKTKBB111_04069_PHARMACY04069_000_121","Yes. He offered to help Mahaud and Ancel and refused what little payment I tried to give. But he also said that their condition demanded special care and facilities. It would take years, many years. Desperate as I was, I accepted without hesitation. And so he left with my children..."
+133,"TEXT_AKTKBB111_04069_PHARMACY04069_000_122","It was hard not knowing what became of them. Wondering if I had made the right choice. But I clung to the hope that one day we would be reunited...and we were! We were... Oh, to finally see them again is...I haven't the words for it. And it matters not that they've changed."
+134,"TEXT_AKTKBB111_04069_LALAHJINJAHL_000_123","The healer... What was his name?"
+135,"TEXT_AKTKBB111_04069_PHARMACY04069_000_124","Guildivain, he called himself. A healer of some renown in his native Sharlayan, I believe."
+136,"TEXT_AKTKBB111_04069_GUILDIVAIN_000_125","A truly touching tale! Where there is life, there is hope─would you not agree?"
+137,"TEXT_AKTKBB111_04069_GUILDIVAIN_000_126","Now then, if I am no longer needed here, I shall return to making my rounds."
+138,"TEXT_AKTKBB111_04069_GUILDIVAIN_000_127","Till next time, my aspiring sage."
+139,"TEXT_AKTKBB111_04069_PHARMACY04069_100_130","I didn't have the chance to speak with Mahaud and Ancel properly, but whatever they've gotten involved with, I hope they will be all right..."
+140,"TEXT_AKTKBB111_04069_LALAHJINJAHL_000_130","I believe the danger is passed, but for good measure, I will ask the Immortal Flames to keep an eye on the area."
+141,"TEXT_AKTKBB111_04069_PHARMACY04069_000_131","We're in your debt."
+142,"TEXT_AKTKBB111_04069_LALAHJINJAHL_000_132","Now, if you do not mind telling me, was this your first time meeting Master Faldrinet?"
+143,"TEXT_AKTKBB111_04069_PHARMACY04069_000_133","Oh, no. He's a regular of mine, introduced by an acquaintance. And when he comes, he always takes a moment to treat those who are unwell."
+144,"TEXT_AKTKBB111_04069_PHARMACY04069_000_134","To have so many kindly healers, Sharlayan must be a wonderful place indeed."
+145,"TEXT_AKTKBB111_04069_LALAHJINJAHL_000_135","...And who is this acquaintance of yours, if I may ask?"
+146,"TEXT_AKTKBB111_04069_PHARMACY04069_000_136","A merchant in Aleport. Master Faldrinet buys alchemical ingredients from him─rare items sourced directly from Thavnair."
+147,"TEXT_AKTKBB111_04069_LALAHJINJAHL_000_137","I see... Out of curiosity, what did Master Faldrinet buy from you this time?"
+148,"TEXT_AKTKBB111_04069_PHARMACY04069_000_138","Oh, just the usual─a few sprigs of muscmaloi. He was actually the one who told me where to get the herb. Says it's used to treat certain serious illnesses."
+149,"TEXT_AKTKBB111_04069_PHARMACY04069_000_139","Well, if you'll excuse me, I must be returning to my stall. I don't know when, but I know my children will return, and I must work hard if I'm to give us better lives."
+150,"TEXT_AKTKBB111_04069_LALAHJINJAHL_000_140","..."
+151,"TEXT_AKTKBB111_04069_LALAHJINJAHL_000_141","Let us return to Idyllshire for now. Recent events have given me much to ponder..."
+152,"TEXT_AKTKBB111_04069_LALAHJINJAHL_000_150","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>... Ashamed though I am to admit this, I'm no longer certain of the truth..."
+153,"TEXT_AKTKBB111_04069_LALAHJINJAHL_000_151","It wasn't Loifa and his accomplices who sought muscmaloi, but Master Faldrinet."
+154,"TEXT_AKTKBB111_04069_LALAHJINJAHL_000_152","No, what the fugitives want is Master Faldrinet himself."
+155,"TEXT_AKTKBB111_04069_LALAHJINJAHL_000_153","Clearly they bear a grievance against him..."
+156,"TEXT_AKTKBB111_04069_LALAHJINJAHL_000_154","If those despicable rumors were true, and one of ours was actually... But the Forum was adamant in their denial, and they surely wouldn't..."
+157,"TEXT_AKTKBB111_04069_LALAHJINJAHL_000_155","Ahhh, my mind is running amok... Forgive me, but I need a moment to rein in my thoughts."

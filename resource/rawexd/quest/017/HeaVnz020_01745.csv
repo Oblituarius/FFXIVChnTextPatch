@@ -2,86 +2,86 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_HEAVNZ020_01745_SEQ_00,隼巢的雷德沃爾德正在尋找能接下調查任務的人。
-1,TEXT_HEAVNZ020_01745_SEQ_01,和雷德沃爾德進行了對話。在隼巢搜集關於最近的神秘急性病的情報。
-2,TEXT_HEAVNZ020_01745_SEQ_02,在隼巢搜集到了情報。向隼巢的雷德沃爾德報告。
-3,TEXT_HEAVNZ020_01745_SEQ_03,向雷德沃爾德報告完畢。向隼巢的烹調師努瓦爾特雷爾了解詳情。
-4,TEXT_HEAVNZ020_01745_SEQ_04,據努瓦爾特雷爾說，有可能是在紅酒裡被下了藥。和隼巢飛艇坪的悠閒的酒保商人談談。
-5,TEXT_HEAVNZ020_01745_SEQ_05,據悠閒的酒保商人說，和前幾天的菜餚一起供應的酒的空瓶就在這附近。獲得隼巢飛艇坪的<hex:022811FF0A>EventItem<hex:F61E8B490103>。
-6,TEXT_HEAVNZ020_01745_SEQ_06,獲得了<hex:022811FF0A>EventItem<hex:F61E8B490103>。將<hex:022811FF0A>EventItem<hex:F61E8B490103>交給隼巢的努瓦爾特雷爾。
-7,TEXT_HEAVNZ020_01745_SEQ_07,將<hex:022811FF0A>EventItem<hex:F61E8B4A0103>交給了努瓦爾特雷爾。將<hex:022811FF0A>EventItem<hex:F61E8B4A0103>交給隼巢的雷德沃爾德。
-8,TEXT_HEAVNZ020_01745_SEQ_08,將<hex:022811FF0A>EventItem<hex:F61E8B4A0103>交給了雷德沃爾德。終於鎖定了急性病的原因，雷德沃爾德準備繼續深入調查。
-9,TEXT_HEAVNZ020_01745_SEQ_09,
-10,TEXT_HEAVNZ020_01745_SEQ_10,
-11,TEXT_HEAVNZ020_01745_SEQ_11,
-12,TEXT_HEAVNZ020_01745_SEQ_12,
-13,TEXT_HEAVNZ020_01745_SEQ_13,
-14,TEXT_HEAVNZ020_01745_SEQ_14,
-15,TEXT_HEAVNZ020_01745_SEQ_15,
-16,TEXT_HEAVNZ020_01745_SEQ_16,
-17,TEXT_HEAVNZ020_01745_SEQ_17,
-18,TEXT_HEAVNZ020_01745_SEQ_18,
-19,TEXT_HEAVNZ020_01745_SEQ_19,
-20,TEXT_HEAVNZ020_01745_SEQ_20,
-21,TEXT_HEAVNZ020_01745_SEQ_21,
-22,TEXT_HEAVNZ020_01745_SEQ_22,
-23,TEXT_HEAVNZ020_01745_SEQ_23,
-24,TEXT_HEAVNZ020_01745_TODO_00,在隼巢收集情報
-25,TEXT_HEAVNZ020_01745_TODO_01,向雷德沃爾德報告
-26,TEXT_HEAVNZ020_01745_TODO_02,和努瓦爾特雷爾對話
-27,TEXT_HEAVNZ020_01745_TODO_03,和悠閒的酒保商人對話
-28,TEXT_HEAVNZ020_01745_TODO_04,獲取<hex:022811FF0A>EventItem<hex:F61E8B490103>
-29,TEXT_HEAVNZ020_01745_TODO_05,將<hex:022811FF0A>EventItem<hex:F61E8B490103>交給努瓦爾特雷爾
-30,TEXT_HEAVNZ020_01745_TODO_06,將<hex:022811FF0A>EventItem<hex:F61E8B4A0103>交給雷德沃爾德
-31,TEXT_HEAVNZ020_01745_TODO_07,
-32,TEXT_HEAVNZ020_01745_TODO_08,
-33,TEXT_HEAVNZ020_01745_TODO_09,
-34,TEXT_HEAVNZ020_01745_TODO_10,
-35,TEXT_HEAVNZ020_01745_TODO_11,
-36,TEXT_HEAVNZ020_01745_TODO_12,
-37,TEXT_HEAVNZ020_01745_TODO_13,
-38,TEXT_HEAVNZ020_01745_TODO_14,
-39,TEXT_HEAVNZ020_01745_TODO_15,
-40,TEXT_HEAVNZ020_01745_TODO_16,
-41,TEXT_HEAVNZ020_01745_TODO_17,
-42,TEXT_HEAVNZ020_01745_TODO_18,
-43,TEXT_HEAVNZ020_01745_TODO_19,
-44,TEXT_HEAVNZ020_01745_TODO_20,
-45,TEXT_HEAVNZ020_01745_TODO_21,
-46,TEXT_HEAVNZ020_01745_TODO_22,
-47,TEXT_HEAVNZ020_01745_TODO_23,
-48,TEXT_HEAVNZ020_01745_REDWALD_000_000,是<hex:022903EB0203>閣下啊。<hex:02100103>之前真是有勞你了。<hex:02100103>其實，我們這裡又發生了些麻煩的事情……
-49,TEXT_HEAVNZ020_01745_REDWALD_000_001,最近在要塞裡工作的人都因為原因不明的急病倒下了。<hex:02100103>如果只是普通的感冒還無所謂，但我總有些不好的預感。
-50,TEXT_HEAVNZ020_01745_REDWALD_000_002,我想調查一下情況，可是人手不夠。<hex:02100103><hex:022903EB0203>閣下，你能不能和要塞裡的人探聽消息，<hex:02100103>幫我搜集相應的情報？
-51,TEXT_HEAVNZ020_01745_REDWALD_000_013,最近在要塞裡工作的人都因為原因不明的急病倒下了。<hex:02100103><hex:022903EB0203>閣下，你能不能和要塞裡的人探聽消息，<hex:02100103>幫我搜集相應的情報？
-52,TEXT_HEAVNZ020_01745_TOURCENET_000_010,……關於急病的狀況？<hex:02100103>這樣說來，我記得我的朋友也是吃完飯後肚子就出問題了……<hex:02100103>不過像他那種人，肯定只是吃得太撐了。
-53,TEXT_HEAVNZ020_01745_EMERISSEL_000_011,你正在調查最近生病的人身邊的情況？<hex:02100103>其實我的哥哥也是從昨天晚上開始就一直躺著休息……<hex:02100103>難得有機會我們一起坐下來吃頓飯，正在興頭上呢……
-54,TEXT_HEAVNZ020_01745_SOUBINIE_000_012,……誒，啊，關於最近的流行病？<hex:02100103>我的同事也得了病在休息……他口味比較重……<hex:02100103>我在想他是不是喝了清淡的湯所以不適應了……
-55,TEXT_HEAVNZ020_01745_TOURCENET_000_024,這樣說來，我記得我的朋友也是吃完飯後肚子就出問題了……<hex:02100103>不過像他那種人，肯定只是吃得太撐了。
-56,TEXT_HEAVNZ020_01745_EMERISSEL_000_025,其實我的哥哥也是從昨天晚上開始就一直躺著休息……<hex:02100103>難得有機會我們一起坐下來吃頓飯，正在興頭上呢……
-57,TEXT_HEAVNZ020_01745_SOUBINIE_000_026,我的同事也得了病在休息……他口味比較重……<hex:02100103>我在想他是不是喝了清淡的湯所以不適應了……
-58,TEXT_HEAVNZ020_01745_REDWALD_000_020,關於不明急病，你掌握到什麼情報了嗎？
-59,TEXT_HEAVNZ020_01745_REDWALD_000_021,原來如此……<hex:02100103>患病的人都是在吃飯之後身體馬上出了問題的嗎……
-60,TEXT_HEAVNZ020_01745_REDWALD_000_022,隼巢的伙食情況都由名為努瓦爾特雷爾的廚師一手管理。<hex:02100103>我認為他不像是作惡之人，但考慮到現狀……
-61,TEXT_HEAVNZ020_01745_REDWALD_000_023,你能去向努瓦爾特雷爾問問這件事的情況嗎？<hex:02100103>盡可能地多探出一些資訊。
-62,TEXT_HEAVNZ020_01745_REDWALD_000_034,你能去向努瓦爾特雷爾問問這件事的情況嗎？<hex:02100103>盡可能地多探出一些資訊。
-63,TEXT_HEAVNZ020_01745_NOIRTEREL_000_030,你是……找我有什麼事？
-64,TEXT_HEAVNZ020_01745_NOIRTEREL_000_031,怎麼會，我做的伙食竟然吃得人病倒了！<hex:02100103>我根本沒有動過什麼手腳呀！
-65,TEXT_HEAVNZ020_01745_NOIRTEREL_000_032,我做的西部高地風格的伙食一直迎合不了所有人，這我也清楚。<hex:02100103>但是材料的品質和新鮮度我從不敢怠慢，都是親自檢查的！<hex:02100103>……只是我不勝酒力，所以並沒試過紅酒。
-66,TEXT_HEAVNZ020_01745_NOIRTEREL_000_033,該不會，紅酒裡被人……<hex:02100103>你能去幫我取來那些交給酒保商人的酒瓶嗎？<hex:02100103>那些東西應該還留在村落南邊的飛空艇搭乘點。
-67,TEXT_HEAVNZ020_01745_NOIRTEREL_000_041,該不會，紅酒裡被人……<hex:02100103>你能去幫我取來那些交給酒保商人的酒瓶嗎？<hex:02100103>那些東西應該還留在村落南邊的飛空艇搭乘點。
-68,TEXT_HEAVNZ020_01745_HOKYUKAN01745_000_040,嗯，你在找酒瓶？<hex:02100103>如果是昨晚的那些，應該就放在周圍。<hex:02100103>再以前的東西估計已經被人收走了，肯定找不到的。
-69,TEXT_HEAVNZ020_01745_HOKYUKAN01745_000_053,如果要找昨晚的酒瓶，應該就放在對面那邊。<hex:02100103>可是你要那些已經倒空了的酒瓶來做什麼？
-70,TEXT_HEAVNZ020_01745_NOIRTEREL_000_050,怎麼樣？你找來酒瓶了嗎？！
-71,TEXT_HEAVNZ020_01745_NOIRTEREL_000_051,喔，就是這個！我來聞聞瓶子裡……<hex:02100103>這是……雖然只有一點點，但我聞到了很怪的味道。<hex:02100103>只有廚師才能捕捉到的，一點點香味。
-72,TEXT_HEAVNZ020_01745_NOIRTEREL_000_052,請將這個酒瓶交給雷德沃爾德吧。<hex:02100103>晚飯時配的紅酒正是這次急病的原因，一定不會有錯！<hex:02100103>嗝……
-73,TEXT_HEAVNZ020_01745_NOIRTEREL_000_063,請將這個酒瓶交給雷德沃爾德吧。<hex:02100103>晚飯時配的紅酒正是這次急病的原因，一定不會有錯！<hex:02100103>嗝……
-74,TEXT_HEAVNZ020_01745_REDWALD_000_060,怎麼樣？努瓦爾特雷爾都說了什麼？
-75,TEXT_HEAVNZ020_01745_REDWALD_000_061,什麼，紅酒就是急病的原因嗎？！<hex:02100103>可惡，這是被人下了毒嗎！
-76,TEXT_HEAVNZ020_01745_REDWALD_000_062,我要感謝你，<hex:022903EB0203>閣下。<hex:02100103>多虧了你我們才找出了問題所在。<hex:02100103>好，那麼接下來要做的事情就只有一件了……
-77,TEXT_HEAVNZ020_01745_FALCONSNESTA01745_000_010,（★未使用／削除予定★）
-78,TEXT_HEAVNZ020_01745_FALCONSNESTA01745_000_024,（★未使用／削除予定★）
-79,TEXT_HEAVNZ020_01745_FALCONSNESTB01745_000_011,（★未使用／削除予定★）
-80,TEXT_HEAVNZ020_01745_FALCONSNESTB01745_000_025,（★未使用／削除予定★）
-81,TEXT_HEAVNZ020_01745_FALCONSNESTC01745_000_012,（★未使用／削除予定★）
-82,TEXT_HEAVNZ020_01745_FALCONSNESTC01745_000_026,（★未使用／削除予定★）
+0,"TEXT_HEAVNZ020_01745_SEQ_00","Redwald is looking for someone to carry out an investigation."
+1,"TEXT_HEAVNZ020_01745_SEQ_01","Redwald informs you that a mysterious sickness has suddenly taken hold of a great many men in the Falcon's Nest garrison. Suspecting foul play, but lacking the manpower to mount a full investigation, he has turned to you for help. Speak to troops in the fortress and see what you can find out."
+2,"TEXT_HEAVNZ020_01745_SEQ_02","You have gathered information from several soldiers in the area: it seems that everyone who fell sick did so shortly after eating dinner. Return to Redwald and report on what you have discovered."
+3,"TEXT_HEAVNZ020_01745_SEQ_03","All meals go past the head chef, Noirterel. Speak with him and find out what he knows about this issue. "
+4,"TEXT_HEAVNZ020_01745_SEQ_04","Noirterel personally checks the quality and freshness of all ingredients used in meals served to the troops. However, he does not drink and so cannot vouch for the wine served with dinner. Suspecting the wine to be at fault, he asks you to recover the empty wine bottles from the sutler at the airship landing so that they can be checked for traces of contaminants."
+5,"TEXT_HEAVNZ020_01745_SEQ_05","The sutler tells you that the bottles should still be on the airship landing somewhere, but offers no further assistance."
+6,"TEXT_HEAVNZ020_01745_SEQ_06","You have found the empty bottles. Take them back to Noirterel."
+7,"TEXT_HEAVNZ020_01745_SEQ_07","Noirterel confirms his suspicions. The bottles carry a strange, barely detectable odor─one that definitely shouldn't be there. Take one of the bottles to Redwald and inform him of the situation."
+8,"TEXT_HEAVNZ020_01745_SEQ_08","Redwald is shocked to discover that someone would poison the wine, but glad to have found the cause for the illness striking his soldiers. He thanks you for your assistance and hints at his intention to see this investigation through to its conclusion."
+9,"TEXT_HEAVNZ020_01745_SEQ_09",""
+10,"TEXT_HEAVNZ020_01745_SEQ_10",""
+11,"TEXT_HEAVNZ020_01745_SEQ_11",""
+12,"TEXT_HEAVNZ020_01745_SEQ_12",""
+13,"TEXT_HEAVNZ020_01745_SEQ_13",""
+14,"TEXT_HEAVNZ020_01745_SEQ_14",""
+15,"TEXT_HEAVNZ020_01745_SEQ_15",""
+16,"TEXT_HEAVNZ020_01745_SEQ_16",""
+17,"TEXT_HEAVNZ020_01745_SEQ_17",""
+18,"TEXT_HEAVNZ020_01745_SEQ_18",""
+19,"TEXT_HEAVNZ020_01745_SEQ_19",""
+20,"TEXT_HEAVNZ020_01745_SEQ_20",""
+21,"TEXT_HEAVNZ020_01745_SEQ_21",""
+22,"TEXT_HEAVNZ020_01745_SEQ_22",""
+23,"TEXT_HEAVNZ020_01745_SEQ_23",""
+24,"TEXT_HEAVNZ020_01745_TODO_00","Gather information regarding the mysterious illness."
+25,"TEXT_HEAVNZ020_01745_TODO_01","Report to Redwald."
+26,"TEXT_HEAVNZ020_01745_TODO_02","Speak with Noirterel."
+27,"TEXT_HEAVNZ020_01745_TODO_03","Speak with the sutler."
+28,"TEXT_HEAVNZ020_01745_TODO_04","Obtain the wine bottles."
+29,"TEXT_HEAVNZ020_01745_TODO_05","Deliver the bottles to Noirterel."
+30,"TEXT_HEAVNZ020_01745_TODO_06","Deliver the bottle to Redwald."
+31,"TEXT_HEAVNZ020_01745_TODO_07",""
+32,"TEXT_HEAVNZ020_01745_TODO_08",""
+33,"TEXT_HEAVNZ020_01745_TODO_09",""
+34,"TEXT_HEAVNZ020_01745_TODO_10",""
+35,"TEXT_HEAVNZ020_01745_TODO_11",""
+36,"TEXT_HEAVNZ020_01745_TODO_12",""
+37,"TEXT_HEAVNZ020_01745_TODO_13",""
+38,"TEXT_HEAVNZ020_01745_TODO_14",""
+39,"TEXT_HEAVNZ020_01745_TODO_15",""
+40,"TEXT_HEAVNZ020_01745_TODO_16",""
+41,"TEXT_HEAVNZ020_01745_TODO_17",""
+42,"TEXT_HEAVNZ020_01745_TODO_18",""
+43,"TEXT_HEAVNZ020_01745_TODO_19",""
+44,"TEXT_HEAVNZ020_01745_TODO_20",""
+45,"TEXT_HEAVNZ020_01745_TODO_21",""
+46,"TEXT_HEAVNZ020_01745_TODO_22",""
+47,"TEXT_HEAVNZ020_01745_TODO_23",""
+48,"TEXT_HEAVNZ020_01745_REDWALD_000_000","Greetings, <hex:020815E905FF09>Mistress<hex:FF07>Master<hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303>. Thank you again for your earlier help. As it happens, I was hoping to enlist your aid once more."
+49,"TEXT_HEAVNZ020_01745_REDWALD_000_001","Several of the garrison here have fallen suddenly ill, and with no obvious cause. If it is but a simple cold, then so be it...but I have a feeling there's something more sinister going on."
+50,"TEXT_HEAVNZ020_01745_REDWALD_000_002","I want to mount an investigation, but I simply do not have the men. If you could gather information from the troops manning the fort, it would be of tremendous assistance."
+51,"TEXT_HEAVNZ020_01745_REDWALD_000_013","Several troops here have fallen ill suddenly, and I suspect foul play. Please gather reports from the soldiers here, such that we may rule out malevolent causes."
+52,"TEXT_HEAVNZ020_01745_TOURCENET_000_010","A mysterious disease? Well, my comrade-in-arms was complaining of stomach pains after dinner last night, but I merely assumed that the meal disagreed with him."
+53,"TEXT_HEAVNZ020_01745_EMERISSEL_000_011","You're looking into the soldiers that fell sick of late? As it happens, my brother has been stuck in bed since last night. It's a pity─it was the first time in months that we've been able to share a meal together."
+54,"TEXT_HEAVNZ020_01745_SOUBINIE_000_012","You want to know about that sickness that's been going around lately? Well, my colleague's been bedridden since dinner last night─and he won't stop moaning about it! I'll admit the soup was pretty flavorless, but he could stand to be a little less dramatic about it."
+55,"TEXT_HEAVNZ020_01745_TOURCENET_000_024","My colleague fell ill with stomach pains after dinner last night. I assumed that the meal disagreed with him. I ate the same food, and I seem to be doing all right."
+56,"TEXT_HEAVNZ020_01745_EMERISSEL_000_025","My brother's been sick in bed since last night. It's a pity─it was the first time in months that we've been able to share a meal together."
+57,"TEXT_HEAVNZ020_01745_SOUBINIE_000_026","I'd wager my colleague is still in bed, moaning and complaining. I had the soup too, and I can tell you, it really wasn't <hex:021A020203>that<hex:021A020103> bad..."
+58,"TEXT_HEAVNZ020_01745_REDWALD_000_020","What news have you of this mysterious illness, <hex:020815E905FF09>Mistress<hex:FF07>Master<hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303>?"
+59,"TEXT_HEAVNZ020_01745_REDWALD_000_021","I see. So each person that fell sick did so after eating dinner..."
+60,"TEXT_HEAVNZ020_01745_REDWALD_000_022","Every meal served here at Falcon's Nest is prepared─or at least overseen─by Noirterel, the head chef. I find it hard to believe he would let something this severe go undetected, but we cannot ignore the facts."
+61,"TEXT_HEAVNZ020_01745_REDWALD_000_023","Pray ask Noirterel what he has to say about this. Find out whatever you can. We must determine what is behind this."
+62,"TEXT_HEAVNZ020_01745_REDWALD_000_034","Have you spoken with Noirterel yet? We need to find out what has been making these soldiers fall ill."
+63,"TEXT_HEAVNZ020_01745_NOIRTEREL_000_030","Yes? Do you want something?"
+64,"TEXT_HEAVNZ020_01745_NOIRTEREL_000_031","Just what're you trying to imply!? I take my work very seriously. And I certainly wouldn't do anything to breach the trust of the troops I'm responsible for feeding."
+65,"TEXT_HEAVNZ020_01745_NOIRTEREL_000_032","I'll admit some folk don't care for my traditional Coerthan cooking, but the ingredients are of the highest quality─I check them every morning! The only thing I can't vouch for is the wine. I don't drink─never touch the stuff."
+66,"TEXT_HEAVNZ020_01745_NOIRTEREL_000_033","Hmmm... Perhaps the wine is the problem. We'll need to check the bottles to be sure, but I've already returned them to the sutler. Quickly go and get them back before he leaves, he should still be at the airship landing."
+67,"TEXT_HEAVNZ020_01745_NOIRTEREL_000_041","We need to get those wine bottles back from the sutler. The airship landing is to the south of the fort─he should still be there."
+68,"TEXT_HEAVNZ020_01745_HOKYUKAN01745_000_040","Hm? Lookin' for wine bottles? The ones from last night'll be around here somewhere. Any older than that and they'll have already been collected."
+69,"TEXT_HEAVNZ020_01745_HOKYUKAN01745_000_053","Last night's bottles are over there somewhere. What do you want with empty bottles, anyway?"
+70,"TEXT_HEAVNZ020_01745_NOIRTEREL_000_050","Do you have the bottles?"
+71,"TEXT_HEAVNZ020_01745_NOIRTEREL_000_051","Marvelous. Let's see if anything smells out of the ordinary... <sniff> <sniff> Hm... Something is <hex:021A020203>definitely<hex:021A020103> amiss. Only a trained nose─like that of an expert chef─would be able to pick it out, but this wine has been tampered with."
+72,"TEXT_HEAVNZ020_01745_NOIRTEREL_000_052","I suggest you take this bottle to Redwald. I'm all but certain that last night's wine is behind the sick soldiers."
+73,"TEXT_HEAVNZ020_01745_NOIRTEREL_000_063","Take that wine bottle to Redwald. No doubt last night's wine is what made all those soldiers sick."
+74,"TEXT_HEAVNZ020_01745_REDWALD_000_060","Ah, you have returned. Was Noirterel able to shed any light on the situation?"
+75,"TEXT_HEAVNZ020_01745_REDWALD_000_061","What? He thinks the wine caused the sickness? Seven hells, it must have been poisoned!"
+76,"TEXT_HEAVNZ020_01745_REDWALD_000_062","You have my thanks, <hex:020815E905FF09>Mistress<hex:FF07>Master<hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303>. Now that we know the cause of this illness, there is only one thing left to do..."
+77,"TEXT_HEAVNZ020_01745_FALCONSNESTA01745_000_010","deleted"
+78,"TEXT_HEAVNZ020_01745_FALCONSNESTA01745_000_024","deleted"
+79,"TEXT_HEAVNZ020_01745_FALCONSNESTB01745_000_011","deleted"
+80,"TEXT_HEAVNZ020_01745_FALCONSNESTB01745_000_025","deleted"
+81,"TEXT_HEAVNZ020_01745_FALCONSNESTC01745_000_012","deleted"
+82,"TEXT_HEAVNZ020_01745_FALCONSNESTC01745_000_026","deleted"

@@ -2,63 +2,63 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_CTSMJIANIMALLAND_00792_TALK_ACTOR,0
-1,TEXT_CTSMJIANIMALLAND_00792_BOKUCHIKU_014_000,我從貓耳小員那聽說啦！<hex:02100103>現在可以開拓牧場了對吧？
-2,TEXT_CTSMJIANIMALLAND_00792_BOKUCHIKU_014_005,開始開拓牧場啦！！
-3,TEXT_CTSMJIANIMALLAND_00792_BOKUCHIKU_014_010,好嘞，我懂我懂。<hex:02100103>等你要開拓牧場的時候，再來找我吧！
-4,TEXT_CTSMJIANIMALLAND_00792_SYSTEM_014_000,要開放牧場嗎？
-5,TEXT_CTSMJIANIMALLAND_00792_Q1_014_000,趕緊開放吧！
-6,TEXT_CTSMJIANIMALLAND_00792_Q1_014_005,現在先算了
-7,TEXT_CTSMJIANIMALLAND_00792_BOKUCHIKU_015_000,太棒啦！牧場建成啦！<hex:02100103>如果你抓到動物放進來的話，牧場就會變得更加熱鬧啦！
-8,TEXT_CTSMJIANIMALLAND_00792_BOKUCHIKU_015_005,來，收下這個動物專用的捕獸網吧！<hex:02100103>捕獸網可以用來抓住你看上的小型動物，<hex:02100103>快把你喜歡的動物帶回來吧！
-9,TEXT_CTSMJIANIMALLAND_00792_BOKUCHIKU_015_010,對牧場還有什麼疑問的話，記得來找我哦！
-10,TEXT_CTSMJIANIMALLAND_00792_SYSTEM_015_000,學會捕獸網的開拓製作配方了！<hex:02100103>使用捕獸網可以捕捉小型動物。<hex:02100103>捕獸網不足時，可使用開拓製作進行製作。
-11,TEXT_CTSMJIANIMALLAND_00792_SYSTEM_015_005,可以使用捕獸模式了！<hex:02100103>在開拓管理面板切換至捕獸模式，<hex:02100103>即可使用捕獸道具捕捉動物。
-12,TEXT_CTSMJIANIMALLAND_00792_SYSTEM_015_010,（★未使用／削除予定★）
-13,TEXT_CTSMJIANIMALLAND_00792_BOKUCHIKU_016_000,使用捕獸網可以抓到小型動物哦！<hex:02100103>這座島上生活著許許多多的動物，快去找找看吧！<hex:02100103>捕獸網用完之後，想要補充時可以使用開拓製作進行製作。
-14,TEXT_CTSMJIANIMALLAND_00792_SYSTEM_016_000,在開拓管理面板切換至捕獸模式，<hex:02100103>選擇現有的捕獸網等捕獸道具，<hex:02100103>選中島上的動物，即可捕捉目標動物。
-15,TEXT_CTSMJIANIMALLAND_00792_BOKUCHIKU_017_000,捕獲動物之後，就可以把它們帶到牧場來放牧啦！<hex:02100103>你收下這些飼料，<hex:02100103>拿去給抓來的動物試試看吧！
-16,TEXT_CTSMJIANIMALLAND_00792_SYSTEM_017_000,學會了開拓製作配方「無人島果實飼料」。<hex:02100103>使用開拓採集獲得的材料製作的無人島果實飼料<hex:02100103>是一種十分普通的飼料，很難提升動物的滿足度。
-17,TEXT_CTSMJIANIMALLAND_00792_SYSTEM_017_005,學會「無人島蔬菜飼料」、「無人島高級蔬菜飼料」的<hex:02100103>開拓製作配方了。<hex:02100103>以上兩種飼料可以使用任意種類的開拓作物進行製作。
-18,TEXT_CTSMJIANIMALLAND_00792_SYSTEM_017_010,可以使用餵食模式了！<hex:02100103>在開拓管理面板切換至餵食模式，<hex:02100103>即可投餵飼料飼養動物。
-19,TEXT_CTSMJIANIMALLAND_00792_SYSTEM_017_015,（★未使用／削除予定★）
-20,TEXT_CTSMJIANIMALLAND_00792_BOKUCHIKU_018_000,送給你的飼料可以喂牧場裡的動物！<hex:02100103>快去試試吧！
-21,TEXT_CTSMJIANIMALLAND_00792_SYSTEM_018_000,在開拓管理面板切換至餵食模式，<hex:02100103>選擇現有的飼料後選中想要餵養的動物，<hex:02100103>即可餵養牧場中的動物。
-22,TEXT_CTSMJIANIMALLAND_00792_BOKUCHIKU_019_000,看來你已經試過餵養動物啦！<hex:02100103>如果你好好照顧動物們的話，<hex:02100103>動物們也會回饋你，生產出畜牧素材給你的！
-23,TEXT_CTSMJIANIMALLAND_00792_SYSTEM_019_000,在開拓管理面板切換至收穫模式，<hex:02100103>即可從動物的身上採集畜牧素材。
-24,TEXT_CTSMJIANIMALLAND_00792_SYSTEM_019_005,可以在寵愛模式、招呼模式中<hex:02100103>撫愛、照管你的動物了！
-25,TEXT_CTSMJIANIMALLAND_00792_SYSTEM_019_010,（★未使用／削除予定★）
-26,TEXT_CTSMJIANIMALLAND_00792_SYSTEM_019_015,（★未使用／削除予定★）
-27,TEXT_CTSMJIANIMALLAND_00792_SYSTEM_100_000,要做什麼？
-28,TEXT_CTSMJIANIMALLAND_00792_SYSTEM_100_005,要做什麼？<hex:02100103>正在擴大牧場，離擴大完成還有<hex:022003E80203>小時。
-29,TEXT_CTSMJIANIMALLAND_00792_Q2_100_000,查看牧場動物的狀態
-30,TEXT_CTSMJIANIMALLAND_00792_Q2_100_005,擴大牧場
-31,TEXT_CTSMJIANIMALLAND_00792_Q2_100_010,查看牧場擴大成果
-32,TEXT_CTSMJIANIMALLAND_00792_Q2_100_015,什麼是託管飼養？
-33,TEXT_CTSMJIANIMALLAND_00792_Q2_100_020,進行談話
-34,TEXT_CTSMJIANIMALLAND_00792_Q2_100_025,取消
-35,TEXT_CTSMJIANIMALLAND_00792_BOKUCHIKU_200_000,最近這段時間，我們開拓島嶼的本事也變厲害啦！<hex:02100103>以我們現在的本事，牧場可以繼續擴大啦！
-36,TEXT_CTSMJIANIMALLAND_00792_BOKUCHIKU_200_005,牧場擴大完成！<hex:02100103>牧場裡可以容納更多的動物啦！
-37,TEXT_CTSMJIANIMALLAND_00792_BOKUCHIKU_300_000,最近這段時間，我們開拓島嶼的本事變得更厲害啦！<hex:02100103>以我們現在的本事，牧場還能變得比現在更大一點！
-38,TEXT_CTSMJIANIMALLAND_00792_BOKUCHIKU_300_005,牧場擴大完成！<hex:02100103>牧場裡可以容納更加更加多的動物啦！
-39,TEXT_CTSMJIANIMALLAND_00792_BOKUCHIKU_300_010,牧場變大了！我們的夥伴也變多了！<hex:02100103>接下來就只差一個魔法人偶用飼養設備了，<hex:02100103>有了這個設備我們就能代替你照顧動物啦！
-40,TEXT_CTSMJIANIMALLAND_00792_BOKUCHIKU_300_015,我這就把裝置的做法告訴你，<hex:02100103>等你做好了，把東西拿給我就行啦！
-41,TEXT_CTSMJIANIMALLAND_00792_SYSTEM_300_000,學會魔法人偶用飼養設備的開拓製作配方了！<hex:02100103>製作完成後，將成品交給放牧小員吧！
-42,TEXT_CTSMJIANIMALLAND_00792_SYSTEM_400_000,要使用<hex:022003E80203>枚謝爾達萊青船幣，<hex:02100103>擴大牧場嗎？<hex:02100103><hex:024804F201FA03><hex:024904F201FB03>※擴大牧場大約需要<hex:022003E80303>小時。<hex:02100103>　在擴大牧場的過程中，可以正常使用現有的牧場。<hex:0249020103><hex:0248020103>
-43,TEXT_CTSMJIANIMALLAND_00792_Q3_400_000,趕緊開放新牧場吧！
-44,TEXT_CTSMJIANIMALLAND_00792_Q3_400_005,現在先算了
-45,TEXT_CTSMJIANIMALLAND_00792_BOKUCHIKU_400_000,做倒是現在就能做啦……<hex:02100103>不過你還得付一下我們這些魔法人偶的運轉費用，工作也要時間，<hex:02100103>預算大概是謝爾達萊青船幣<hex:022003E80203>枚。
-46,TEXT_CTSMJIANIMALLAND_00792_BOKUCHIKU_400_005,那我們這就去擴大牧場啦！<hex:02100103>離完成還要一會兒！麻煩你等等啦！
-47,TEXT_CTSMJIANIMALLAND_00792_BOKUCHIKU_400_010,哎呀，你身上的貨幣好像不夠呢……<hex:02100103>等你攢夠了<hex:022003E80203>枚謝爾達萊青船幣，<hex:02100103>再來找我吧！
-48,TEXT_CTSMJIANIMALLAND_00792_BOKUCHIKU_400_015,等你想要擴大牧場的時候再來找我吧！
-49,TEXT_CTSMJIANIMALLAND_00792_BOKUCHIKU_500_000,牧場馬上就要擴大好啦！<hex:02100103>讓我們完成最後一步吧！
-50,TEXT_CTSMJIANIMALLAND_00792_BOKUCHIKU_600_000,你想問託管飼養的事情啊？<hex:02100103>託管飼養的話，就是由我們來代替你<hex:02100103>照顧那些動物們嘛！
-51,TEXT_CTSMJIANIMALLAND_00792_BOKUCHIKU_600_005,不過，現在我們的夥伴人手不足，<hex:02100103>暫時還不能去幫你的忙，<hex:02100103>等牧場變大一點，夥伴變多了再來看看吧！
-52,TEXT_CTSMJIANIMALLAND_00792_BOKUCHIKU_600_010,等你做好了託管飼養用的道具，<hex:02100103>就拿到我這裡吧！<hex:02100103>可以使用「開拓製作」生產「魔法人偶用飼養設備」！
-53,TEXT_CTSMJIANIMALLAND_00792_BOKUCHIKU_600_015,哦哦，沒錯，這就是魔法人偶用飼養設備！<hex:02100103>有了這個我們也能像你一樣照顧動物啦！
-54,TEXT_CTSMJIANIMALLAND_00792_BOKUCHIKU_600_020,雖然要花費一點運轉的費用，<hex:02100103>動物照顧得可能也沒你那麼好……<hex:02100103>不過你要是想找人照顧動物，我們肯定能幫上你的忙！
-55,TEXT_CTSMJIANIMALLAND_00792_SYSTEM_600_000,可以使用託管飼養了！<hex:02100103>使用託管飼養功能，即可委託放牧小員照管動物！
-56,TEXT_CTSMJIANIMALLAND_00792_SYSTEM_600_005,（★未使用／削除予定★）
-57,TEXT_CTSMJIANIMALLAND_00792_BOKUCHIKU_700_000,這片牧場可以用來飼養你抓到的動物。<hex:02100103>好好照顧動物們的話，<hex:02100103>它們就會給你生產製作海島產品用的材料哦！
-58,TEXT_CTSMJIANIMALLAND_00792_SYSTEM_700_000,（★未使用／削除予定★）
-59,TEXT_CTSMJIANIMALLAND_00792_BOKUCHIKU_800_000,你好啊！這裡是牧場！<hex:02100103>可以在這裡飼養很多動物哦！<hex:02100103>感興趣的話四處看看吧！
+0,"TEXT_CTSMJIANIMALLAND_00792_TALK_ACTOR","0"
+1,"TEXT_CTSMJIANIMALLAND_00792_BOKUCHIKU_014_000","Hey there, friend. Are you ready to build a little home for some adorable animals?"
+2,"TEXT_CTSMJIANIMALLAND_00792_BOKUCHIKU_014_005","I'll take care of getting this pasture nice and ready for you. You just breathe in the fresh air and relax, okay? "
+3,"TEXT_CTSMJIANIMALLAND_00792_BOKUCHIKU_014_010","That's totally fine, friend. Totally fine. I've got all day, month, year, or however long you need."
+4,"TEXT_CTSMJIANIMALLAND_00792_SYSTEM_014_000","Clear the field to build a pasture?"
+5,"TEXT_CTSMJIANIMALLAND_00792_Q1_014_000","Build a little home for animals!"
+6,"TEXT_CTSMJIANIMALLAND_00792_Q1_014_005","Not right now."
+7,"TEXT_CTSMJIANIMALLAND_00792_BOKUCHIKU_015_000","Good to see you, friend. Good to see you. We've built a nice little pasture here, but as you've undoubtedly noticed, we've got no animals to put in it."
+8,"TEXT_CTSMJIANIMALLAND_00792_BOKUCHIKU_015_005","That's why I've prepared some small nets for you here, which'll let you catch smaller critters. A word of advice: be gentle with the animals out there, and they'll treat you the same in return."
+9,"TEXT_CTSMJIANIMALLAND_00792_BOKUCHIKU_015_010","Before you go, if you have any questions concerning the pasture, I'm always here to answer them. If I've learned one thing during my brief time in this world, it's that you should never be embarrassed to ask questions, friend. Never."
+10,"TEXT_CTSMJIANIMALLAND_00792_SYSTEM_015_000","The makeshift net recipe has been added to the sanctuary crafting log. Use this restraint to capture small animals."
+11,"TEXT_CTSMJIANIMALLAND_00792_SYSTEM_015_005","You can now capture animals by using the Capture mode, which may be enabled by selecting the appropriate icon from the mode section of the islekeep's index."
+12,"TEXT_CTSMJIANIMALLAND_00792_SYSTEM_015_010","（★未使用／削除予定★）"
+13,"TEXT_CTSMJIANIMALLAND_00792_BOKUCHIKU_016_000","If you're struggling to decide which animal to capture, I say think from the heart. Only you know what will make you happy. And if you run out of nets, you can always make more."
+14,"TEXT_CTSMJIANIMALLAND_00792_SYSTEM_016_000","Enable the Capture mode from the islekeep's index interface and select the makeshift net to capture small animals."
+15,"TEXT_CTSMJIANIMALLAND_00792_BOKUCHIKU_017_000","Excellent work there, friend! Just excellent. The pasture's really come to life. Here, take this. It's some feed I prepared myself. I want you to have it. Try offering it to an animal in the pasture."
+16,"TEXT_CTSMJIANIMALLAND_00792_SYSTEM_017_000","The island sweetfeed recipe has been added to the sanctuary crafting log. Made from apples found in the island sanctuary, this feed will fill an animal's stomach, but only slightly improve its mood due to its high sugar content."
+17,"TEXT_CTSMJIANIMALLAND_00792_SYSTEM_017_005","The island greenfeed and premium island greenfeed recipes have been added to the sanctuary crafting log. Made from vegetables grown in your very own cropland, these feeds will not only fill an animal's stomach, but noticeably improve its mood."
+18,"TEXT_CTSMJIANIMALLAND_00792_SYSTEM_017_010","You can now feed animals by using the Feed mode, which may be enabled by selecting the appropriate icon from the mode section of the islekeep's index."
+19,"TEXT_CTSMJIANIMALLAND_00792_SYSTEM_017_015","（★未使用／削除予定★）"
+20,"TEXT_CTSMJIANIMALLAND_00792_BOKUCHIKU_018_000","Nervous, friend? We all get nervous the first time we try something new, but it's through such hardship that we grow. Go on, get out there and feed an animal. I believe in you."
+21,"TEXT_CTSMJIANIMALLAND_00792_SYSTEM_018_000","Enable the Feed mode from the islekeep's index interface and select the island sweetfeed to feed an animal in the pasture."
+22,"TEXT_CTSMJIANIMALLAND_00792_BOKUCHIKU_019_000","You did it! I'm proud of you. When an animal has been fed and looked after by its master, it will feel loved. And when an animal feels loved, it leaves a little something born from pure happiness. Leavings, I call it."
+23,"TEXT_CTSMJIANIMALLAND_00792_SYSTEM_019_000","Enable the Gather mode from the islekeep's index to collect leavings from animals in the pasture."
+24,"TEXT_CTSMJIANIMALLAND_00792_SYSTEM_019_005","You can now interact with animals inside the pasture by using the Pet and Beckon modes!"
+25,"TEXT_CTSMJIANIMALLAND_00792_SYSTEM_019_010","（★未使用／削除予定★）"
+26,"TEXT_CTSMJIANIMALLAND_00792_SYSTEM_019_015","（★未使用／削除予定★）"
+27,"TEXT_CTSMJIANIMALLAND_00792_SYSTEM_100_000","What will you do?"
+28,"TEXT_CTSMJIANIMALLAND_00792_SYSTEM_100_005","What will you do?<hex:02100103>Pasture expansion complete in: <hex:022003E80203> <hex:020812E4E80202FF05>hour<hex:FF06>hours<hex:03>."
+29,"TEXT_CTSMJIANIMALLAND_00792_Q2_100_000","Review status of animals in the pasture."
+30,"TEXT_CTSMJIANIMALLAND_00792_Q2_100_005","Expand the pasture."
+31,"TEXT_CTSMJIANIMALLAND_00792_Q2_100_010","Complete expansion of the pasture."
+32,"TEXT_CTSMJIANIMALLAND_00792_Q2_100_015","Learn about the caretaking services."
+33,"TEXT_CTSMJIANIMALLAND_00792_Q2_100_020","Small talk."
+34,"TEXT_CTSMJIANIMALLAND_00792_Q2_100_025","Nothing."
+35,"TEXT_CTSMJIANIMALLAND_00792_BOKUCHIKU_200_000","Recently, my team and I got to thinking. It'd be nice to have a bigger pasture. With a larger home for the animals, they'd have more space to graze, and there'd be more capacity too. Most of all, I think we'd all have bigger smiles."
+36,"TEXT_CTSMJIANIMALLAND_00792_BOKUCHIKU_200_005","All done! Go ahead and capture some more animals, if you like. Seeing them grazing here peacefully really soothes my mammet heart."
+37,"TEXT_CTSMJIANIMALLAND_00792_BOKUCHIKU_300_000","Hello, friend. So wouldn't you know, my team and I got to thinking again. What if we made the pasture even bigger? Then even more animals could graze in it, and we could all have even bigger smiles. What do you say?"
+38,"TEXT_CTSMJIANIMALLAND_00792_BOKUCHIKU_300_005","What a day. What a day indeed. One of the animals seemed to think my legs would look good in its stomach, so we had an impromptu play session. I tried to scold it, but I didn't have a leg to stand on. Anyhow, our work on the pasture's all done. See for yourself."
+39,"TEXT_CTSMJIANIMALLAND_00792_BOKUCHIKU_300_010","Given how large the pasture's become, I reckon it'd be mighty difficult─mayhaps even stressful─for you to take care of each animal individually. With the amount of field hands I have on my team now, I think we can help. We'll just need a set of mammet-sized pastureworker's tools."
+40,"TEXT_CTSMJIANIMALLAND_00792_BOKUCHIKU_300_015","If you're not sure how to make 'em, don't worry, I'll teach you. Once it's been crafted, just give me a tap on the shoulder, and my team and I can get to work."
+41,"TEXT_CTSMJIANIMALLAND_00792_SYSTEM_300_000","The mammet-sized pastureworker's tools recipe has been added to the sanctuary crafting log. Deliver this set of tools to the creature comforter once it has been crafted."
+42,"TEXT_CTSMJIANIMALLAND_00792_SYSTEM_400_000","Spend <hex:022206E802FF022C03> seafarer's cowries to expand the pasture? <hex:024804F201FA03><hex:024904F201FB03>This will take roughly <hex:022003E80303> hours, but the pasture will remain accessible.<hex:0249020103><hex:0248020103>"
+43,"TEXT_CTSMJIANIMALLAND_00792_Q3_400_000","Build a bigger home for the animals!"
+44,"TEXT_CTSMJIANIMALLAND_00792_Q3_400_005","Not right now."
+45,"TEXT_CTSMJIANIMALLAND_00792_BOKUCHIKU_400_000","My team can get started right away, but we'll need time, and about <hex:022206E802FF022C03> seafarer's cowries."
+46,"TEXT_CTSMJIANIMALLAND_00792_BOKUCHIKU_400_005","Now then, please enjoy a nice walk in the wilds, or perhaps a cool dip in the sea, and we'll have a bigger pasture ready for you in no time."
+47,"TEXT_CTSMJIANIMALLAND_00792_BOKUCHIKU_400_010","Oh, sorry, friend. It looks like you're running low on cowries. I wish I could lend you some myself, but sadly I don't make much. Though I suppose you'd know that already. Anyway, we can get started when you have <hex:022206E802FF022C03> seafarer's cowries."
+48,"TEXT_CTSMJIANIMALLAND_00792_BOKUCHIKU_400_015","Okay, you just let me know when you're ready. The animals would love a larger home, but maybe they'll appreciate it more if they have to wait for it."
+49,"TEXT_CTSMJIANIMALLAND_00792_BOKUCHIKU_500_000","We've just about finished work on expanding the pasture. Why don't you sit down and watch while we make the final adjustments?"
+50,"TEXT_CTSMJIANIMALLAND_00792_BOKUCHIKU_600_000","Ah, you wish to learn about the caretaking services? Well, they're about what you'd expect. You entrust an animal─as many as you like─to my team and I, and we care for them to the best of our ability."
+51,"TEXT_CTSMJIANIMALLAND_00792_BOKUCHIKU_600_005","Unfortunately, we don't currently have enough field hands available to feasibly offer it. Once the pasture has expanded a bit, and we've added more heads to the team, maybe we can give it a try."
+52,"TEXT_CTSMJIANIMALLAND_00792_BOKUCHIKU_600_010","We can't offer much help without the proper equipment, however, so please let me know when you've crafted a set of mammet-sized pastureworker's tools. The recipe should be in your sanctuary crafting log."
+53,"TEXT_CTSMJIANIMALLAND_00792_BOKUCHIKU_600_015","I'm sure you're reluctant to part with having a direct and intimate relationship with the animals, but since you do have a set of mammet-sized tools for us to work with, the choice is always there."
+54,"TEXT_CTSMJIANIMALLAND_00792_BOKUCHIKU_600_020","We can't give them the same level of love and care that you would, but we'll do our darndest. I'm sorry to say our services will also require a small daily fee for each animal you entrust to us. Please keep that in mind."
+55,"TEXT_CTSMJIANIMALLAND_00792_SYSTEM_600_000","You may now entrust the creature comforter and its team of mammets to take care of animals in the pasture."
+56,"TEXT_CTSMJIANIMALLAND_00792_SYSTEM_600_005","（★未使用／削除予定★）"
+57,"TEXT_CTSMJIANIMALLAND_00792_BOKUCHIKU_700_000","Are you having a nice day, friend? I hope you're having a nice day. As for me, it's been peaceful here in the pasture. Sometimes I enjoy watching the produce producer tend to the crops yonder, humming to itself as it does. Do you think it watches us too, sometimes? "
+58,"TEXT_CTSMJIANIMALLAND_00792_SYSTEM_700_000","（★未使用／削除予定★）"
+59,"TEXT_CTSMJIANIMALLAND_00792_BOKUCHIKU_800_000","Welcome, friend. Welcome. This here is the pasture, but you've already guessed that. Feel free to stand here with me and watch the animals graze peacefully."

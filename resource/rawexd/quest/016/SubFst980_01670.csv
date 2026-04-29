@@ -2,137 +2,137 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_SUBFST980_01670_SEQ_00,林場水車的加爾贊在煩惱著什麼。
-1,TEXT_SUBFST980_01670_SEQ_01,加爾贊想要從擅自以「黃道巨匠」自稱的蓋羅爾特那裡奪回稱號。但是，蓋羅爾特最近熱衷於做壺，根本不搭理加爾贊。向林場水車的蓋羅爾特詢問詳情。
-2,TEXT_SUBFST980_01670_SEQ_02,和蓋羅爾特進行了交談。決定協助賭上自己人生來製作水壺的蓋羅爾特。為了讓水壺閃耀光輝，獲取50個<hex:02280BFF05>Item<hex:F21ECB0103>，交給林場水車的蓋羅爾特。
-3,TEXT_SUBFST980_01670_SEQ_03,將<hex:02280BFF05>Item<hex:F21ECB0103>交給了蓋羅爾特。憑藉冒險者的協助，成功完成了特別的水壺。但是，加爾贊看到後說，那個水壺是虛假的。看來加爾贊也要參與水壺的製作了。為了讓水壺閃耀更加奪目的光輝，獲取10個<hex:02280BFF05>Item<hex:F2187C0103>，交給林場水車的加爾贊。
-4,TEXT_SUBFST980_01670_SEQ_04,將<hex:02280BFF05>Item<hex:F2187C0103>交給了加爾贊。憑藉冒險者的協助，成功完成了究極水壺·天極。但是，德雷克看到後的發言動搖了這兩人，他們決定要繼續加工水壺。為了讓水壺閃耀真正的光輝，完成伊弗利特殲殛戰，獲取<hex:022811FF0A>EventItem<hex:F61E8C160103>，完成迦樓羅殲殛戰，獲取<hex:022811FF0A>EventItem<hex:F61E8C170103>，完成泰坦殲殛戰，獲取<hex:022811FF0A>EventItem<hex:F61E8C180103>。
-5,TEXT_SUBFST980_01670_SEQ_05,集齊了蓋羅爾特要求的委託品。交給林場水車的蓋羅爾特。
-6,TEXT_SUBFST980_01670_SEQ_06,將委託品交給了蓋羅爾特。憑藉冒險者的協助，成功完成了艾歐澤亞最強的水壺——究極水壺·鎮魂。但是，因為蓋羅爾特延誤了交貨時間，賭上人生的水壺製作也以失敗告終。而賭上「黃道巨匠」稱號的決鬥也隨之被敷衍過去了。看來這兩個人的孽緣還將持續……
-7,TEXT_SUBFST980_01670_SEQ_07,
-8,TEXT_SUBFST980_01670_SEQ_08,
-9,TEXT_SUBFST980_01670_SEQ_09,
-10,TEXT_SUBFST980_01670_SEQ_10,
-11,TEXT_SUBFST980_01670_SEQ_11,
-12,TEXT_SUBFST980_01670_SEQ_12,
-13,TEXT_SUBFST980_01670_SEQ_13,
-14,TEXT_SUBFST980_01670_SEQ_14,
-15,TEXT_SUBFST980_01670_SEQ_15,
-16,TEXT_SUBFST980_01670_SEQ_16,
-17,TEXT_SUBFST980_01670_SEQ_17,
-18,TEXT_SUBFST980_01670_SEQ_18,
-19,TEXT_SUBFST980_01670_SEQ_19,
-20,TEXT_SUBFST980_01670_SEQ_20,
-21,TEXT_SUBFST980_01670_SEQ_21,
-22,TEXT_SUBFST980_01670_SEQ_22,
-23,TEXT_SUBFST980_01670_SEQ_23,
-24,TEXT_SUBFST980_01670_TODO_00,和蓋羅爾特對話
-25,TEXT_SUBFST980_01670_TODO_01,將<hex:02280BFF05>Item<hex:F21ECB0103>交給蓋羅爾特
-26,TEXT_SUBFST980_01670_TODO_02,將<hex:02280BFF05>Item<hex:F2187C0103>交給加爾贊
-27,TEXT_SUBFST980_01670_TODO_03,完成伊弗利特殲殛戰 獲取<hex:022811FF0A>EventItem<hex:F61E8C160103>
-28,TEXT_SUBFST980_01670_TODO_04,完成迦樓羅殲殛戰 獲取<hex:022811FF0A>EventItem<hex:F61E8C170103>
-29,TEXT_SUBFST980_01670_TODO_05,完成泰坦殲殛戰 獲取<hex:022811FF0A>EventItem<hex:F61E8C180103>
-30,TEXT_SUBFST980_01670_TODO_06,將委託品交給蓋羅爾特
-31,TEXT_SUBFST980_01670_TODO_07,
-32,TEXT_SUBFST980_01670_TODO_08,
-33,TEXT_SUBFST980_01670_TODO_09,
-34,TEXT_SUBFST980_01670_TODO_10,
-35,TEXT_SUBFST980_01670_TODO_11,
-36,TEXT_SUBFST980_01670_TODO_12,
-37,TEXT_SUBFST980_01670_TODO_13,
-38,TEXT_SUBFST980_01670_TODO_14,
-39,TEXT_SUBFST980_01670_TODO_15,
-40,TEXT_SUBFST980_01670_TODO_16,
-41,TEXT_SUBFST980_01670_TODO_17,
-42,TEXT_SUBFST980_01670_TODO_18,
-43,TEXT_SUBFST980_01670_TODO_19,
-44,TEXT_SUBFST980_01670_TODO_20,
-45,TEXT_SUBFST980_01670_TODO_21,
-46,TEXT_SUBFST980_01670_TODO_22,
-47,TEXT_SUBFST980_01670_TODO_23,
-48,TEXT_SUBFST980_01670_JALZAHN_000_000,……可惡，蓋羅爾特那臭小子。<hex:02100103>到底怎樣才能從那小子手裡把稱號奪回來呢……
-49,TEXT_SUBFST980_01670_JALZAHN_000_001,哦，是你啊！<hex:02100103>抱歉，我剛剛正在想些事情。
-50,TEXT_SUBFST980_01670_JALZAHN_000_002,你還記得吧……<hex:02100103>之前在創造黃道武器·本我時，<hex:02100103>我和蓋羅爾特之間爆發的那場血雨腥風的爭鬥！
-51,TEXT_SUBFST980_01670_JALZAHN_000_003,我的祖先烏爾達拉姆寫下了«靈獄文書»，<hex:02100103>而繼承了祖先血液的我，和僅僅是打造了武器的蓋羅爾特……<hex:02100103>到底誰才有資格繼承「黃道巨匠」的稱號？！
-52,TEXT_SUBFST980_01670_JALZAHN_000_004,不言而喻，我才是有資格繼承這個稱號的人，<hex:02100103>然而蓋羅爾特卻厚顏無恥地擅自使用這個稱號。<hex:02100103>我為了奪回稱號，已經好幾次去找那小子說理了……
-53,TEXT_SUBFST980_01670_JALZAHN_000_010,但是，蓋羅爾特那小子依然熱衷於做壺……<hex:02100103>根本不好好聽我說話，簡直沒轍。
-54,TEXT_SUBFST980_01670_JALZAHN_000_015,但是，蓋羅爾特那小子依然熱衷於做壺……<hex:02100103>而且這段時間還總是外出，也不知道是去哪裡。<hex:02100103>根本不好好聽我說話，簡直沒轍。
-55,TEXT_SUBFST980_01670_JALZAHN_000_020,他好像對這次做的壺非常上心，<hex:02100103>不管我說什麼，或是提出要決鬥也好，<hex:02100103>他都以現在沒空打發我，根本沒一點辦法……
-56,TEXT_SUBFST980_01670_JALZAHN_000_021,……等等，雖然我沒辦法，<hex:02100103>但你當時也在場，說不定蓋羅爾特能聽你的話。
-57,TEXT_SUBFST980_01670_JALZAHN_000_022,拜託了，<hex:022903EB0203>。<hex:02100103>請你也去說說那傢伙吧！
-58,TEXT_SUBFST980_01670_GEROLT_000_030,還差一點了，要是能把這壺做好的話……<hex:02100103>嗯？是你啊。
-59,TEXT_SUBFST980_01670_GEROLT_100_030,對不住了，我現在可是忙得很啊！<hex:02100103>你要是有事就去找德雷克吧……
-60,TEXT_SUBFST980_01670_GEROLT_100_031,有關於元靈武器的事？<hex:02100103>對不住了，我現在可是忙得很啊！<hex:02100103>你要是有事就去找德雷克吧……
-61,TEXT_SUBFST980_01670_GEROLT_000_031,……什麼，老頭讓我把稱號還給他？<hex:02100103>那傢伙竟然還沒死心啊。<hex:02100103>「黃道巨匠」的稱號明明是我的……
-62,TEXT_SUBFST980_01670_GEROLT_000_032,哦，現在可沒閒工夫說這些！<hex:02100103>我可是把自己的人生都賭在了現在敲的這個壺上！
-63,TEXT_SUBFST980_01670_GEROLT_000_033,我接到了個訂單，說要製作「特別的水壺」……<hex:02100103>如果我做的東西能得到認可，那麼我就可以擺脫現在的潦倒生活，<hex:02100103>重拾過去的風采，再次如日中天！
-64,TEXT_SUBFST980_01670_GEROLT_000_034,對了，<hex:022903EB0203>！<hex:02100103>你能幫我一起完成這水壺嗎？<hex:02100103>如果能搞定這件事，不管是和老頭比試還是別的，我都答應。
-65,TEXT_SUBFST980_01670_GEROLT_100_034,我們可是一起再現了黃道武器的交情啊！<hex:02100103>拜託了，幫我一把唄！
-66,TEXT_SUBFST980_01670_GEROLT_100_035,我們可是一起再現了黃道武器，<hex:02100103>又一起研究元靈武器的交情啊！<hex:02100103>拜託了，幫我一把唄！
-67,TEXT_SUBFST980_01670_GEROLT_000_035,謝了！<hex:02100103>壺我是就快要完成了，但總覺得加工得不夠到位。<hex:02100103>想要找點可以增加光澤感的材料……
-68,TEXT_SUBFST980_01670_GEROLT_000_036,……嘿嘿，看到你我就想起來了。<hex:02100103>之前做黃道武器的時候，<hex:02100103>用到過<hex:02280BFF05>Item<hex:F21ECB0103>吧。
-69,TEXT_SUBFST980_01670_GEROLT_000_037,沒記錯的話，那是一種可以改變光的形態的暗物質，<hex:02100103>用在表面加工上說不定會很適合！
-70,TEXT_SUBFST980_01670_GEROLT_000_038,好，<hex:022903EB0203>。<hex:02100103>你拿50個<hex:02280BFF05>Item<hex:F21ECB0103>來！<hex:02100103>我等著你啊！
-71,TEXT_SUBFST980_01670_GEROLT_000_040,哦，<hex:022903EB0203>。<hex:02100103>你拿來50個<hex:02280BFF05>Item<hex:F21ECB0103>了嗎？
-72,TEXT_SUBFST980_01670_GEROLT_000_050,……好，那我就收下了！<hex:02100103>接下來就用這些……
-73,TEXT_SUBFST980_01670_GEROLT_000_060,完、完成了……<hex:02100103>怎麼樣，給你看看這完成度如何！
-74,TEXT_SUBFST980_01670_GEROLT_000_061,那就是我精心打造的究極水壺！<hex:02100103>怎麼樣，是不是棒極了！
-75,TEXT_SUBFST980_01670_GEROLT_000_065,用那壺來煮頂級香草茶的話，<hex:02100103>只要1分鐘就可以煮好！
-76,TEXT_SUBFST980_01670_JALZAHN_000_070,什麼……你就是為了做那種東西，<hex:02100103>才把稱號的事情放在一邊的嗎……
-77,TEXT_SUBFST980_01670_GEROLT_000_075,老頭？！<hex:02100103>什麼叫「那種東西」，這壺可是……
-78,TEXT_SUBFST980_01670_JALZAHN_000_080,……嗯，賭上自己人生的最棒的水壺啊。
-79,TEXT_SUBFST980_01670_JALZAHN_000_081,的確，那壺看著還不錯，散發著獨特的光輝。
-80,TEXT_SUBFST980_01670_JALZAHN_000_082,不過，如今都再現出了黃道武器。<hex:02100103>因此我能看出來……那光輝是「虛假」的！
-81,TEXT_SUBFST980_01670_GEROLT_000_095,你、你說什麼？！
-82,TEXT_SUBFST980_01670_JALZAHN_000_100,你身為一流的武器工匠，應該能夠明白的！<hex:02100103>這壺根本稱不上「究極」！！
-83,TEXT_SUBFST980_01670_GEROLT_000_105,老、老頭你……
-84,TEXT_SUBFST980_01670_JALZAHN_000_110,哼哼哼，我和你相處這麼久可不是白處的。<hex:02100103>你內心的一點小破綻我還是能看透的……<hex:02100103>這種賭上人生的大事為什麼不找我商量一下？
-85,TEXT_SUBFST980_01670_JALZAHN_000_111,小蓋啊，既然你要以究極水壺為目標，<hex:02100103>那麼就不能允許有任何妥協，要力求做到最完美！<hex:02100103>所以，我也來幫你！
-86,TEXT_SUBFST980_01670_GEROLT_000_112,加爾贊，你這傢伙……<hex:02100103>謝了……
-87,TEXT_SUBFST980_01670_JALZAHN_000_113,客氣什麼，我們可是一起戰鬥過的同伴。<hex:02100103>不過你得答應我，等你完成了真正完美的水壺後……<hex:02100103>要和我決一勝負，看誰能夠贏得稱號！
-88,TEXT_SUBFST980_01670_GEROLT_000_114,好，我答應你！
-89,TEXT_SUBFST980_01670_JALZAHN_000_115,<hex:022903EB0203>，我們需要靈藥！<hex:02100103>你去弄來<hex:02280BFF05>Item<hex:F2187C0103>！
-90,TEXT_SUBFST980_01670_JALZAHN_000_116,曾經我製作過<hex:02280BFF05>Item<hex:F2187C0103>……<hex:02100103>如果有10個我就可以用我的煉金術讓這個壺散發出究極的光輝！
-91,TEXT_SUBFST980_01670_JALZAHN_000_120,<hex:022903EB0203>，我們需要靈藥！<hex:02100103>你去弄來10個<hex:02280BFF05>Item<hex:F2187C0103>！
-92,TEXT_SUBFST980_01670_JALZAHN_000_130,……嗯，我收下了！<hex:02100103>哼哼，沒想到我的發明竟然會在這種時候派上用場！<hex:02100103>看好了，現在我就用我的煉金術……
-93,TEXT_SUBFST980_01670_JALZAHN_000_140,完、完成了……<hex:02100103>怎麼樣，給你看看這完成度如何！
-94,TEXT_SUBFST980_01670_JALZAHN_000_145,那就是一流武器工匠和一流煉金術士傾力打造的……<hex:02100103>究極水壺·天極！
-95,TEXT_SUBFST980_01670_GEROLT_000_150,哦哦！這、這無與倫比的光輝！<hex:02100103>用那壺來煮頂級香草茶的話，<hex:02100103>只要30秒就可以煮好！
-96,TEXT_SUBFST980_01670_DRAKE_000_160,……那個，師父大人。<hex:02100103>很抱歉打擾你們。
-97,TEXT_SUBFST980_01670_DRAKE_000_161,關於前幾天格里達尼亞紫檀商店街訂購的壺，<hex:02100103>我剛剛先把貨發出去了。
-98,TEXT_SUBFST980_01670_DRAKE_000_162,因為期限有點短，所以就優先趕數量了……
-99,TEXT_SUBFST980_01670_DRAKE_000_165,我只做到了煮頂級香草茶可以20秒煮好的程度。<hex:02100103>雖然訂貨商還是很滿意的，<hex:02100103>不過我還是為自己的不中用深深反省……
-100,TEXT_SUBFST980_01670_DRAKE_000_166,接下來要做的是要發給羅薇娜商會的武具吧？<hex:02100103>最近這方面的訂購數量也有點減少呢……
-101,TEXT_SUBFST980_01670_DRAKE_000_167,啊，很抱歉打擾到你們了，那我先下去了。
-102,TEXT_SUBFST980_01670_GEROLT_000_170,好、好嘞！<hex:02100103>這、這下終於做出了用來作基礎的水壺！
-103,TEXT_SUBFST980_01670_JALZAHN_000_175,是是是、是啊！<hex:02100103>從、從現在開始才要動真格的呢！
-104,TEXT_SUBFST980_01670_GEROLT_000_180,<hex:022903EB0203>……<hex:02100103>我們要給究極水壺·天極做最後的加工了！
-105,TEXT_SUBFST980_01670_JALZAHN_000_190,不過，為了追求真正的光輝……<hex:02100103>雖然危險，不過只能製作「那個」了。
-106,TEXT_SUBFST980_01670_JALZAHN_000_191,用我的煉金術來製作出究極的擬似靈魂靈藥。<hex:02100103>然後，再用這個來澆鑄究極水壺·天極！<hex:02100103>問題是靈藥沸點的高度！
-107,TEXT_SUBFST980_01670_JALZAHN_000_192,<hex:022903EB0203>，在我和蓋羅爾特準備的期間，<hex:02100103>你就幫我們準備加工用的材料吧。
-108,TEXT_SUBFST980_01670_JALZAHN_000_193,我們需要如地獄業火般的火炎，<hex:02100103>維持火炎的烈風……以及製作火爐的黃土。
-109,TEXT_SUBFST980_01670_GEROLT_000_194,也就是需要分別準備<hex:022811FF0A>EventItem<hex:F61E8C160103>、<hex:02100103><hex:022811FF0A>EventItem<hex:F61E8C170103>和<hex:022811FF0A>EventItem<hex:F61E8C180103>……
-110,TEXT_SUBFST980_01670_JALZAHN_000_195,為了真正的光輝，拜託你了，<hex:02100103>盟友<hex:022903EB0203>！
-111,TEXT_SUBFST980_01670_GEROLT_000_200,怎麼樣，準備好<hex:022811FF0A>EventItem<hex:F61E8C160103>、<hex:02100103><hex:022811FF0A>EventItem<hex:F61E8C170103>和<hex:022811FF0A>EventItem<hex:F61E8C180103>了嗎？
-112,TEXT_SUBFST980_01670_GEROLT_000_215,嘿嘿，沒想到你會為了我去和蠻神戰鬥……<hex:02100103>我可是很擔、擔心……哎呀，沒什麼……果然你是最夠意思的！<hex:02100103>那麼，接下來就鼓足幹勁開始了！
-113,TEXT_SUBFST980_01670_GEROLT_000_220,完、完成了……<hex:02100103>這次終於把最完美的……究極水壺做出來了！<hex:02100103>怎麼樣，你看看這完成度如何！
-114,TEXT_SUBFST980_01670_GEROLT_000_225,那才是艾歐澤亞最強的水壺！<hex:02100103>就叫它「究極水壺·鎮魂」了！
-115,TEXT_SUBFST980_01670_JALZAHN_000_230,這、這是何等的光輝！<hex:02100103>用那個壺煮頂級香草茶的話，<hex:02100103>只要10秒……不，5秒就可以煮好！
-116,TEXT_SUBFST980_01670_GEROLT_000_240,謝謝你們了……<hex:02100103>只要把這個交給訂貨商，<hex:02100103>我就能重拾過去的風采，再次如日中天！
-117,TEXT_SUBFST980_01670_JALZAHN_000_245,呵呵，算是發揮出了艾歐澤亞第一武器工匠的實力啊。<hex:02100103>那麼，你也要全力迎戰，和我爭奪「黃道巨匠」的稱號啊！
-118,TEXT_SUBFST980_01670_GEROLT_000_250,好啊，我接受！
-119,TEXT_SUBFST980_01670_DRAKE_000_260,……那個，師父大人。<hex:02100103>很抱歉打擾你們。
-120,TEXT_SUBFST980_01670_DRAKE_000_261,關於師父大人做的那個水壺的事，<hex:02100103>我有些在意就去查了一下訂單，<hex:02100103>然後發現其實早就已經過了交貨期限，訂單已經取消了。
-121,TEXT_SUBFST980_01670_GEROLT_000_265,……咦？
-122,TEXT_SUBFST980_01670_JALZAHN_000_270,蓋羅爾特……<hex:02100103>你是什麼時候接下那個訂單的？
-123,TEXT_SUBFST980_01670_DRAKE_000_280,……2年前。
-124,TEXT_SUBFST980_01670_GEROLT_000_290,啥啥？！咦咦咦？！<hex:02100103>我、我可是費了半天勁做出來的……訂單取消了？！<hex:02100103>10億金幣的報酬……我一筆還清借款的美夢怎麼辦！
-125,TEXT_SUBFST980_01670_JALZAHN_000_295,……什麼？！我是聽你說是賭上人生才幫你的，<hex:02100103>結果竟然又是跟借款有關啊！<hex:02100103>你簡直就是扶不上牆的爛泥……我簡直不知道該怎麼說你才好……
-126,TEXT_SUBFST980_01670_GEROLT_000_300,什麼？！老頭你說什麼呢！<hex:02100103>在你找我說什麼黃道武器的事之前我可是好好記得這一單的。
-127,TEXT_SUBFST980_01670_GEROLT_000_301,也就是說這全都怪你！<hex:02100103>我絕對不會把黃道巨匠的稱號還給你的！<hex:02100103>煩死了，蠢——貨！！
-128,TEXT_SUBFST980_01670_JALZAHN_000_305,你、你、你這個混賬小光頭！<hex:02100103>我本以為你只是頭皮死掉了，沒想到連腦袋裡面都爛掉了！<hex:02100103>我為了祖先一定要把那個稱號奪回來！
-129,TEXT_SUBFST980_01670_DRAKE_000_310,哎呀，師父大人……
-130,TEXT_SUBFST980_01670_DRAKE_000_311,冒險者，這水壺算是不良庫存了。<hex:02100103>你也為師父大人幫了不少忙，<hex:02100103>這個就作為謝禮，請你收下吧。
-131,TEXT_SUBFST980_01670_DRAKE_000_312,另外，我也看了你們和師父大人製作的作品了，<hex:02100103>如果有需要的話我也可以為你複製水壺。<hex:02100103>到時候直接來找我就好了。
-132,TEXT_SUBFST980_01670_SYSTEM_000_900,可以從德雷克那裡購買水壺了！
-133,TEXT_SUBFST980_01670_JALZAHN_000_210,（未使用/預計刪除）
+0,"TEXT_SUBFST980_01670_SEQ_00","Jalzahn seems to be glaring at Gerolt."
+1,"TEXT_SUBFST980_01670_SEQ_01","Jalzahn complains that Gerolt's preoccupation with kettle-making has made it impossible to address the question of who should rightfully bear the title of Starforger. Having been wholly unable to tear Gerolt away from the object of his obsession, he asks that you attempt to reason with the heedless blacksmith in his stead."
+2,"TEXT_SUBFST980_01670_SEQ_02","Gerolt is swift to dismiss you, but you decide to relay Jalzahn's message regardless. He duly rejects the alchemist's appeal out of hand, and demands that you help him apply the finishing touches to his latest brainchild: a kettle valuable enough to pay off his debts and restore his renown in one fell swoop. For this masterwork, he apparently requires fifty pieces of alexandrite..."
+3,"TEXT_SUBFST980_01670_SEQ_03","Having taken receipt of the alexandrite, Gerolt wastes no time finishing his masterpiece, and with a bang and a clang, he presents to you a kettle of breathtaking quality. Drawn by the clamor of hammer and anvil, Jalzahn then comes to inspect Gerolt's work. Though reasonably impressed, the alchemist declares that the kettle is not yet of a standard befitting the creator of a Zodiac Weapon, and duly offers to help Gerolt improve it. For this purpose, he requests that you furnish him with ten bottles of Thavnairian mist."
+4,"TEXT_SUBFST980_01670_SEQ_04","Through the power of alchemy, the kettle is reborn, a vision of culinary perfection. Eager to test their masterpiece, Gerolt and Jalzahn triumphantly set about making tea, only for Drake to appear, his face a picture of dismay. Having been forced to expedite a large order of kettles, the young apprentice admits to having forsaken quality for quantity, producing wares which he fears will have customers up in arms. Though Gerolt and Jalzahn say nothing, both cannot help noticing that Drake's offerings perform markedly better than their own. When Drake subsequently departs, head hung in shame, both blacksmith and alchemist loudly proclaim their intention to begin their work in earnest. Jalzahn duly decides to infuse the kettle with an aether-rich elixir, but requires an Inferno fragment, Vortex fragment, and Crag fragment to complete the task. Gerolt bids you good luck as they prepare for the next phase of their plan."
+5,"TEXT_SUBFST980_01670_SEQ_05","You brave scorching flames, gale-force winds, and terrible tremors to procure the materials needed for Gerolt's kettle. Hurry back to Hyrstmill that he may at last complete his magnum opus."
+6,"TEXT_SUBFST980_01670_SEQ_06","Thanks to your efforts, Gerolt and Jalzahn are able to combine their skills to create what is undoubtedly the zenith of kitchen utensils─Ultimate Kettle Nexus. Gerolt is especially overjoyed at the sight, knowing his return to fame is all but assured. With eerily impeccable timing, however, Drake appears once again, bearing more unfortunate news. According to him, this particular kettle was requested just over two years ago, the order having long since been canceled. Hearing this, Gerolt is predictably inconsolable, lamenting the millions of gil that would have ensured his freedom from debt. Jalzahn, meanwhile, is furious. Before you know it, the pair begin exchanging words and then blows, succeeding at last in rendering each other unconscious. In light of all that has occurred, Drake suggests you keep the kettle as a token of thanks for your well-intentioned help."
+7,"TEXT_SUBFST980_01670_SEQ_07",""
+8,"TEXT_SUBFST980_01670_SEQ_08",""
+9,"TEXT_SUBFST980_01670_SEQ_09",""
+10,"TEXT_SUBFST980_01670_SEQ_10",""
+11,"TEXT_SUBFST980_01670_SEQ_11",""
+12,"TEXT_SUBFST980_01670_SEQ_12",""
+13,"TEXT_SUBFST980_01670_SEQ_13",""
+14,"TEXT_SUBFST980_01670_SEQ_14",""
+15,"TEXT_SUBFST980_01670_SEQ_15",""
+16,"TEXT_SUBFST980_01670_SEQ_16",""
+17,"TEXT_SUBFST980_01670_SEQ_17",""
+18,"TEXT_SUBFST980_01670_SEQ_18",""
+19,"TEXT_SUBFST980_01670_SEQ_19",""
+20,"TEXT_SUBFST980_01670_SEQ_20",""
+21,"TEXT_SUBFST980_01670_SEQ_21",""
+22,"TEXT_SUBFST980_01670_SEQ_22",""
+23,"TEXT_SUBFST980_01670_SEQ_23",""
+24,"TEXT_SUBFST980_01670_TODO_00","Speak with Gerolt."
+25,"TEXT_SUBFST980_01670_TODO_01","Deliver the pieces of alexandrite to Gerolt."
+26,"TEXT_SUBFST980_01670_TODO_02","Deliver the Thavnairian mist to Jalzahn."
+27,"TEXT_SUBFST980_01670_TODO_03","Obtain an Inferno fragment in the Bowl of Embers (Extreme)."
+28,"TEXT_SUBFST980_01670_TODO_04","Obtain a Vortex fragment in the Howling Eye (Extreme)."
+29,"TEXT_SUBFST980_01670_TODO_05","Obtain a Crag fragment in the Navel (Extreme)."
+30,"TEXT_SUBFST980_01670_TODO_06","Deliver the materials to Gerolt."
+31,"TEXT_SUBFST980_01670_TODO_07",""
+32,"TEXT_SUBFST980_01670_TODO_08",""
+33,"TEXT_SUBFST980_01670_TODO_09",""
+34,"TEXT_SUBFST980_01670_TODO_10",""
+35,"TEXT_SUBFST980_01670_TODO_11",""
+36,"TEXT_SUBFST980_01670_TODO_12",""
+37,"TEXT_SUBFST980_01670_TODO_13",""
+38,"TEXT_SUBFST980_01670_TODO_14",""
+39,"TEXT_SUBFST980_01670_TODO_15",""
+40,"TEXT_SUBFST980_01670_TODO_16",""
+41,"TEXT_SUBFST980_01670_TODO_17",""
+42,"TEXT_SUBFST980_01670_TODO_18",""
+43,"TEXT_SUBFST980_01670_TODO_19",""
+44,"TEXT_SUBFST980_01670_TODO_20",""
+45,"TEXT_SUBFST980_01670_TODO_21",""
+46,"TEXT_SUBFST980_01670_TODO_22",""
+47,"TEXT_SUBFST980_01670_TODO_23",""
+48,"TEXT_SUBFST980_01670_JALZAHN_000_000","Curse that drunken boor of a man. How am I to reclaim my title if─"
+49,"TEXT_SUBFST980_01670_JALZAHN_000_001","Oh, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Pray forgive my grumblings."
+50,"TEXT_SUBFST980_01670_JALZAHN_000_002","As you no doubt remember, Gerolt stubbornly refuses to relinquish the title of Starforger, and we have been at odds ever since the completion of your Zodiac Weapon Zeta."
+51,"TEXT_SUBFST980_01670_JALZAHN_000_003","I will not deny he is a talented blacksmith, but I am of the Ulthalam line! My forefather penned the Book of Netherdark, whose pages revealed the truth of the Zodiac Weapons. Who is he to deny my birthright?"
+52,"TEXT_SUBFST980_01670_JALZAHN_000_004","Now he insists that everyone refer to him as <hex:021A020203>Gerolt the Starforger<hex:021A020103>, more often than not too deep in his cups to be reasoned with."
+53,"TEXT_SUBFST980_01670_JALZAHN_000_010","When not drowning in ale, he drowns out the world with his hammer, pounding away on his godsforsaken kettles. And should anyone so much as whisper in his general vicinity, he shouts and bawls like an overtired toddler."
+54,"TEXT_SUBFST980_01670_JALZAHN_000_015","When not drowning in ale, he drowns out the world with his hammer, pounding away on his godsforsaken kettles. Or rather he <hex:021A020203>did<hex:021A020103>. Lately, he has taken to leaving for days on end, and I struggle to get a word in edgeways on the rare occasions he <hex:021A020203>is<hex:021A020103> here."
+55,"TEXT_SUBFST980_01670_JALZAHN_000_020","I realize he has a singular fixation with his crafting, but something is different this time. <sigh> At this rate, I will <hex:021A020203>never<hex:021A020103> reclaim my family's legacy."
+56,"TEXT_SUBFST980_01670_JALZAHN_000_021","...Unless, perhaps, you spoke to him in my stead. I know of no other for whom he would halt his hammering, let alone listen to them having done so."
+57,"TEXT_SUBFST980_01670_JALZAHN_000_022","Please, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>─see if you can talk some sense into him."
+58,"TEXT_SUBFST980_01670_GEROLT_000_030","Hmmm...maybe the spout could do with bein' a bit more─<hex:02100103>Eh? Oh, it's you."
+59,"TEXT_SUBFST980_01670_GEROLT_100_030","Whatever it is, ye can take it up with Drake over there. This kettle's not goin' to make itself."
+60,"TEXT_SUBFST980_01670_GEROLT_100_031","If I had to guess, Ardashir sent ye, but I ain't got time fer that. If it's not about me kettle, ye can take it up with Drake over there."
+61,"TEXT_SUBFST980_01670_GEROLT_000_031","The daft sod's still chunterin' about who gets to call himself the bloody Starforger, is he? Well, tell him to shut his gob, 'cause it's <hex:021A020203>me<hex:021A020103>. End o' story."
+62,"TEXT_SUBFST980_01670_GEROLT_000_032","I've got more important things to worry about, like this kettle here. It's me ticket to freedom, an' a fresh start down at the pub."
+63,"TEXT_SUBFST980_01670_GEROLT_000_033","When I've finished, it'll be the finest bloody kettle in all of Eorzea─an' I've got a customer what'll pay a sultana's bleedin' ransom fer it too. It'll be just like the good old days, you wait an' see. Folk'll come crawlin' to have work done by yer old mate Gerolt."
+64,"TEXT_SUBFST980_01670_GEROLT_000_034","Come to think of it, since yer here an' all, there's a few things I need, if yer feelin' helpful. The sooner I finish, the sooner I can see about gettin' rid o' Jalzahn."
+65,"TEXT_SUBFST980_01670_GEROLT_100_034","An' before ye say no, just remember who made that precious Zodiac Weapon o' yours─'cause it didn't make its-bleedin'-self. Well? What do ye say?"
+66,"TEXT_SUBFST980_01670_GEROLT_100_035","An' before ye say no, just remember who made that precious Zodiac Weapon o' yers─<hex:021A020203>and<hex:021A020103> agreed to help you out with that anima business out o' the kindness of his heart. S'only fair ye return the favor. So what do ye say?"
+67,"TEXT_SUBFST980_01670_GEROLT_000_035","I knew I could count on ye. The thing's pretty much done, to tell the truth, but it needs somethin' extra. A shine what'll make 'em forget it's only a tool fer boilin' water. Seein' you here actually gave me an idea."
+68,"TEXT_SUBFST980_01670_GEROLT_000_036","Ye remember them pieces of alexandrite we used for yer Zodiac Weapon? The stuff looks stunnin' when light hits it the right way─like moonlight glintin' off the lip of a grog bottle. Might be as I can use it to give this kettle a nice sheen."
+69,"TEXT_SUBFST980_01670_GEROLT_000_037","Should be easy to round up a few for someone like you."
+70,"TEXT_SUBFST980_01670_GEROLT_000_038","Bring me, say, fifty pieces of alexandrite, an' I should have enough fer a nice even coat. I'm countin' on ye, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>!"
+71,"TEXT_SUBFST980_01670_GEROLT_000_040","Bring me fifty pieces of alexandrite, an' I guarantee this kettle'll blind folk with its beauty."
+72,"TEXT_SUBFST980_01670_GEROLT_000_050","Good on ye, <hex:02080EE905FF05>lass<hex:FF04>lad<hex:03>. Now let's make her shine, eh?"
+73,"TEXT_SUBFST980_01670_GEROLT_000_060","<pant> <pant> ...Bloody alexandrite. Like forcin' out a three-day shite, that was. Worth the trouble, though."
+74,"TEXT_SUBFST980_01670_GEROLT_000_061","Finest I've ever made, if I do say so meself. A kettle fit fer royalty, or at least them rich nobs what drink their tea with fancy cakes and such."
+75,"TEXT_SUBFST980_01670_GEROLT_000_065","I'll bet it wouldn't take more'n a count o' sixty at most to make a crackin' mulled tea in that. <hex:021A020203>Genius<hex:021A020103>!"
+76,"TEXT_SUBFST980_01670_JALZAHN_000_070","What is this? You chose to ignore the legacy of my family line─my birthright─for this pathetic piece of tin?"
+77,"TEXT_SUBFST980_01670_GEROLT_000_075","Why don't ye come over here an' say that, you opo-faced sack o'─"
+78,"TEXT_SUBFST980_01670_JALZAHN_000_080","...I see. Crafting this <hex:021A020203>perfect<hex:021A020103> kettle is meant to restore your reputation, is it?"
+79,"TEXT_SUBFST980_01670_JALZAHN_000_081","Well, for what it's worth, I think the kettle is exquisite. It possesses a transcendent sheen unlike any kettle you have made thus far."
+80,"TEXT_SUBFST980_01670_JALZAHN_000_082","But I will not be blinded by the waning glimmer of such tawdry wares. Have you no shame, man!?"
+81,"TEXT_SUBFST980_01670_GEROLT_000_095","<hex:021A020203>Eh<hex:021A020103>!?"
+82,"TEXT_SUBFST980_01670_JALZAHN_000_100","Come now, Gerolt. After forging something as fine as a Zodiac Weapon, surely you can see this kettle is not yet worthy of your name!"
+83,"TEXT_SUBFST980_01670_GEROLT_000_105","Well, I..."
+84,"TEXT_SUBFST980_01670_JALZAHN_000_110","Though we are rivals, Gerolt, our time together should not count for naught. Why did you not consult me sooner? I am willing to set aside our differences, for now, if this is really so important to you."
+85,"TEXT_SUBFST980_01670_JALZAHN_000_111","To create a truly perfect kettle, one worthy of bearing your mark, you must be uncompromising. If I understand correctly, your reputation is at stake here; nothing must be left to chance. Which is precisely why I will help you."
+86,"TEXT_SUBFST980_01670_GEROLT_000_112","<sniff> Yer all right, Jalzahn. If yer willin' to help, I won't say no."
+87,"TEXT_SUBFST980_01670_JALZAHN_000_113","Under the circumstances, it seems the least I can do. Were it not for your aid, my life's work would still be a distant dream. But mark my words, Gerolt: when this kettle is complete, we will settle the matter of the Starforger title."
+88,"TEXT_SUBFST980_01670_GEROLT_000_114","Aye, fair do's. Ye've got yerself a deal."
+89,"TEXT_SUBFST980_01670_JALZAHN_000_115","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, I will need you to procure some few bottles of Thavnairian mist for our work."
+90,"TEXT_SUBFST980_01670_JALZAHN_000_116","Ten should suffice, I think. Soon the very stars in the firmament will seem pale next to this kettle's all-surpassing shine!"
+91,"TEXT_SUBFST980_01670_JALZAHN_000_120","Ah, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Do you have the Thavnairian mist we require?"
+92,"TEXT_SUBFST980_01670_JALZAHN_000_130","Yes, this is indeed the genuine article. Never in all my years did I imagine using something so precious on something so...peculiar. Well, let us see what the power of alchemy can do for his kettle."
+93,"TEXT_SUBFST980_01670_JALZAHN_000_140","Now that... <pant> That, my good sir, is how you make a kettle. Behold, the rich glow of finely wrought pottery."
+94,"TEXT_SUBFST980_01670_JALZAHN_000_145","If ever there were legends born of kitchenware, this would surely warrant a place among them. The choicest fruit of the realm's most masterful blacksmith, and her most accomplished alchemist─I give you...Ultimate Kettle Zenith!"
+95,"TEXT_SUBFST980_01670_GEROLT_000_150","Well, I'll be thrice damned! Rhalgr Himself'd be proud to have a kettle like that on his table. I bet ye could whip up a nice blend o' mulled tea in a count o' thirty with that!"
+96,"TEXT_SUBFST980_01670_DRAKE_000_160","Uh...excuse me, Master Gerolt. I hate to interrupt, but..."
+97,"TEXT_SUBFST980_01670_DRAKE_000_161","It's about the kettles for our client at the Rosewood Stalls. I thought you should know I've taken care of their order, and it should arrive in Gridania within the day."
+98,"TEXT_SUBFST980_01670_DRAKE_000_162","The thing is... <sigh> The thing is, they insisted that the goods be delivered early, and I was forced to forgo quality for the sake of crafting the requisite number in time. I'm terribly sorry."
+99,"TEXT_SUBFST980_01670_DRAKE_000_165","I tested one with mulled tea to gauge its boiling speed, and... <sniff> ...regrettably, it took a full count of twenty to prepare. I pray they will be merciful in their appraisal, knowing it was but a lowly apprentice, and not your masterful hand, that accommodated their request."
+100,"TEXT_SUBFST980_01670_DRAKE_000_166","Next, I believe, is an arms order from the House of Splendors. It has been ages since they last requested our services. I only hope the quality of my work will not discourage future business."
+101,"TEXT_SUBFST980_01670_DRAKE_000_167","Ah, forgive me. I did not mean to sour the mood with talk of my shortcomings. Mayhap your coming masterpiece will serve to inspire me. I very much look forward to seeing it when it's finished."
+102,"TEXT_SUBFST980_01670_GEROLT_000_170","Er...<hex:02100103>...Looks like we've made a decent start on that kettle, then! Ain't that right, Jalzahn?"
+103,"TEXT_SUBFST980_01670_JALZAHN_000_175","O-Oh, yes, yes of course! A fine start indeed. At last we can begin our work in earnest!"
+104,"TEXT_SUBFST980_01670_GEROLT_000_180","Somethin' wrong, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>? Ye didn't think we was <hex:021A020203>finished<hex:021A020103>, did ye? Far from it! That was just the, er, <hex:021A020203>roughin'-out<hex:021A020103> stage, see? Now's the part where we turn her into a <hex:021A020203>real<hex:021A020103> kettle!"
+105,"TEXT_SUBFST980_01670_JALZAHN_000_190","Yes...yes, the all-important <hex:021A020203>realization<hex:021A020103> stage. For this, I fear we will need elixirs of a much greater potency."
+106,"TEXT_SUBFST980_01670_JALZAHN_000_191","A quasi-soul potion rich with aether should serve our purposes well. Boiling it down inside the kettle will allow me to interfuse and apply the solution in a single stroke. But its boiling point is incredibly high."
+107,"TEXT_SUBFST980_01670_JALZAHN_000_192","We would need flames from the bowels of an inferno, the fiercest of gales to fan them, and the stoutest earth to contain them."
+108,"TEXT_SUBFST980_01670_JALZAHN_000_193","Quite what form such ingredients might take, I cannot say, but I must ask that you find them nonetheless."
+109,"TEXT_SUBFST980_01670_GEROLT_000_194","Sounds like what we're lookin' fer are fragments from primals─namely, Ifrit, Garuda, and Titan."
+110,"TEXT_SUBFST980_01670_JALZAHN_000_195","...They may very well suffice, yes. If you would be so good as to procure them, we will make a kettle for the ages!"
+111,"TEXT_SUBFST980_01670_GEROLT_000_200","Good to see ye back, <hex:02080EE905FF05>lass<hex:FF04>lad<hex:03>, an' with all yer limbs, at that. Did ye get what we need?"
+112,"TEXT_SUBFST980_01670_GEROLT_000_215","Listen...I know riskin' yer neck fetchin' pointless shite fer folk is yer specialty, but this means a lot. Seriously. Yer more than just another adventurer─yer a mate. <cough> But enough o' this sentimental bollocks. We've got a kettle to make!"
+113,"TEXT_SUBFST980_01670_GEROLT_000_220","<pant> <pant> We...we did it! There's no toppin' that! Not this time! Hold her up and see fer yerself."
+114,"TEXT_SUBFST980_01670_GEROLT_000_225","Now that there's a <hex:021A020203>true<hex:021A020103> kettle o' legend, and the finest piece o' pottery Eorzea'll ever see─Ultimate Kettle Nexus!!!"
+115,"TEXT_SUBFST980_01670_JALZAHN_000_230","By the gods, what an exquisite glow! Armed with such a kettle, I am quite certain one could prepare a flawless mulled tea in a count of ten─no, <hex:021A020203>five<hex:021A020103>. Mayhap even less!"
+116,"TEXT_SUBFST980_01670_GEROLT_000_240","Thank you. Both o' ye. When me client sees this little beauty, word's bound to travel fast. Folk the realm over'll be cryin' out fer me wares, just like back in the good old days."
+117,"TEXT_SUBFST980_01670_JALZAHN_000_245","I have no doubt the road to your former glory is now clear before you. Which only leaves the not-so-small matter of my Starforger title. I trust you have not forgotten our agreement?"
+118,"TEXT_SUBFST980_01670_GEROLT_000_250","Nay, I've not forgotten. I plan to win that title from ye fair an' square!"
+119,"TEXT_SUBFST980_01670_DRAKE_000_260","Erm... Excuse me, Master Gerolt."
+120,"TEXT_SUBFST980_01670_DRAKE_000_261","I couldn't help but notice the kettle you've been working on, and seeing that you had just finished, I took it upon myself to look over the order. I'm sorry to report that it was due for delivery some time ago, and that...well...the order was canceled."
+121,"TEXT_SUBFST980_01670_GEROLT_000_265","...Eh?"
+122,"TEXT_SUBFST980_01670_JALZAHN_000_270","Gerolt, how could you forget? When was this order placed?"
+123,"TEXT_SUBFST980_01670_DRAKE_000_280","Two, um...years ago."
+124,"TEXT_SUBFST980_01670_GEROLT_000_290","WHAT!? B-But we did all that work! <hex:021A020203>I<hex:021A020103> did all that bloody work! No, no, no! This can't be happenin'! Now where am I goin' to find a hundred million gil to pay off me bleedin' notes!?"
+125,"TEXT_SUBFST980_01670_JALZAHN_000_295","Pardon? You mean to say you were doing this for money all along!? And there I was thinking that I'd at last discovered a modicum of decency in the gutter that serves for your soul. I should have known better."
+126,"TEXT_SUBFST980_01670_GEROLT_000_300","Hold on a minute! It's all comin' back to me now! This order came in 'round the time you barged in here, rantin' and ravin' about yer godsforsaken Zodiac Weapon, distractin' me from me work!"
+127,"TEXT_SUBFST980_01670_GEROLT_000_301","This is <hex:021A020203>your<hex:021A020103> fault, ye swivin', scabby-arsed, shite-eatin' streak o' piss! And you have the BALLS to ask fer that bleedin' title back!? Bollocks to that! I'm keepin' it─<hex:021A020203>fer good<hex:021A020103>!"
+128,"TEXT_SUBFST980_01670_JALZAHN_000_305","Over my dead body, you ale-sodden little has-been! It seems whatever affliction claimed your hair has taken your brain as well. The title of Starforger is mine by rights, and I <hex:021A020203>will<hex:021A020103> have it back─one way or another. Have at thee!"
+129,"TEXT_SUBFST980_01670_DRAKE_000_310","<sigh> Oh, Master Gerolt..."
+130,"TEXT_SUBFST980_01670_DRAKE_000_311","Well, it appears our client no longer requires this kettle, and it would be a waste to let it sit and collect dust here in Hyrstmill. Might you be willing to take it? As a small token of appreciation for all you've done to help Master Gerolt. I'm sure he'd like you to have it. Quite sure."
+131,"TEXT_SUBFST980_01670_DRAKE_000_312","After taking a closer look at it, I believe I can replicate the kettle should you ever require another, though I doubt it will be as fine as Master Gerolt's. You need only ask."
+132,"TEXT_SUBFST980_01670_SYSTEM_000_900","You now have access to a special selection of kettles from Drake."
+133,"TEXT_SUBFST980_01670_JALZAHN_000_210","Marked for deletion."

@@ -2,80 +2,80 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_AKTKZE006_04245_SEQ_00,<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整<hex:0249020103><hex:0248020103><hex:02100103>最佳威兔洞的吵吵嚷嚷的兔兔族正在實驗新的遊樂項目。
-1,TEXT_AKTKZE006_04245_SEQ_01,
-2,TEXT_AKTKZE006_04245_SEQ_02,
-3,TEXT_AKTKZE006_04245_SEQ_03,
-4,TEXT_AKTKZE006_04245_SEQ_04,
-5,TEXT_AKTKZE006_04245_SEQ_05,
-6,TEXT_AKTKZE006_04245_SEQ_06,
-7,TEXT_AKTKZE006_04245_SEQ_07,
-8,TEXT_AKTKZE006_04245_SEQ_08,
-9,TEXT_AKTKZE006_04245_SEQ_09,
-10,TEXT_AKTKZE006_04245_SEQ_10,
-11,TEXT_AKTKZE006_04245_SEQ_11,
-12,TEXT_AKTKZE006_04245_SEQ_12,
-13,TEXT_AKTKZE006_04245_SEQ_13,
-14,TEXT_AKTKZE006_04245_SEQ_14,
-15,TEXT_AKTKZE006_04245_SEQ_15,
-16,TEXT_AKTKZE006_04245_SEQ_16,
-17,TEXT_AKTKZE006_04245_SEQ_17,
-18,TEXT_AKTKZE006_04245_SEQ_18,
-19,TEXT_AKTKZE006_04245_SEQ_19,
-20,TEXT_AKTKZE006_04245_SEQ_20,
-21,TEXT_AKTKZE006_04245_SEQ_21,
-22,TEXT_AKTKZE006_04245_SEQ_22,
-23,TEXT_AKTKZE006_04245_SEQ_23,
-24,TEXT_AKTKZE006_04245_TODO_00,和吵吵嚷嚷的兔兔族對話
-25,TEXT_AKTKZE006_04245_TODO_01,在<hex:02280CFF05>EObj<hex:F61EB5B30103>確認兔兔族的數量
-26,TEXT_AKTKZE006_04245_TODO_02,向吵吵嚷嚷的兔兔族報告
-27,TEXT_AKTKZE006_04245_TODO_03,和吵吵嚷嚷的兔兔族對話
-28,TEXT_AKTKZE006_04245_TODO_04,
-29,TEXT_AKTKZE006_04245_TODO_05,
-30,TEXT_AKTKZE006_04245_TODO_06,
-31,TEXT_AKTKZE006_04245_TODO_07,
-32,TEXT_AKTKZE006_04245_TODO_08,
-33,TEXT_AKTKZE006_04245_TODO_09,
-34,TEXT_AKTKZE006_04245_TODO_10,
-35,TEXT_AKTKZE006_04245_TODO_11,
-36,TEXT_AKTKZE006_04245_TODO_12,
-37,TEXT_AKTKZE006_04245_TODO_13,
-38,TEXT_AKTKZE006_04245_TODO_14,
-39,TEXT_AKTKZE006_04245_TODO_15,
-40,TEXT_AKTKZE006_04245_TODO_16,
-41,TEXT_AKTKZE006_04245_TODO_17,
-42,TEXT_AKTKZE006_04245_TODO_18,
-43,TEXT_AKTKZE006_04245_TODO_19,
-44,TEXT_AKTKZE006_04245_TODO_20,
-45,TEXT_AKTKZE006_04245_TODO_21,
-46,TEXT_AKTKZE006_04245_TODO_22,
-47,TEXT_AKTKZE006_04245_TODO_23,
-48,TEXT_AKTKZE006_04245_LOPORRITSA04245_000_000,幸會，幸會。<hex:02100103>我的工作是設計面向孩子們的遊樂場，<hex:02100103>由於資源和場地的限制，我們能夠安裝的遊樂設施也很有限。
-49,TEXT_AKTKZE006_04245_LOPORRITSA04245_000_001,因此，我就想搞一些不需要遊樂設施的新玩法，<hex:02100103>我為這個遊戲起名為「兔兔知多少」！<hex:02100103>希望身為人類的你來參加測試，可以嗎？
-50,TEXT_AKTKZE006_04245_LOPORRITSA04245_000_002,"謝謝你！遊戲的玩法很簡單,<hex:02100103>你只要數清在規定的時間裡出現了多少兔兔族就行了。<hex:02100103>怎麼樣，不難吧？"
-51,TEXT_AKTKZE006_04245_LOPORRITSA04245_000_003,來，我們換個地方。<hex:02100103>我知道胡蘿蔔所有個地方正適合玩這個遊戲。<hex:02100103>請跟我來！
-52,TEXT_AKTKZE006_04245_LOPORRITSA04245_000_010,你往西看，對面是不是放了很多種胡蘿蔔栽培機？<hex:02100103>兔兔族們就會出現在那裡，你來數數看一共有多少個兔兔族吧。<hex:02100103>準備好了之後，隨時告訴我，我們就可以開始了。
-53,TEXT_AKTKZE006_04245_SYSTEM_000_011,調查指定地點，開始觀察。<hex:02100103>觀察的時間將被限制為30秒。
-54,TEXT_AKTKZE006_04245_SYSTEM_000_012,在時間限制內觀察周圍，數清兔兔族的數量。
-55,TEXT_AKTKZE006_04245_LOPORRITSA04245_000_013,你往西看，對面是不是放了很多種胡蘿蔔栽培機？<hex:02100103>兔兔族們就會出現在那裡，你來數數看一共有多少個兔兔族吧。<hex:02100103>
-56,TEXT_AKTKZE006_04245_SYSTEM_000_014,要再確認一次嗎？
-57,TEXT_AKTKZE006_04245_LOPORRITSA04245_000_020,怎麼樣，數清楚了嗎？<hex:02100103>一共有幾個兔兔族？
-58,TEXT_AKTKZE006_04245_Q1_000_000,要說什麼？
-59,TEXT_AKTKZE006_04245_A1_000_001,3隻
-60,TEXT_AKTKZE006_04245_A1_000_002,4隻
-61,TEXT_AKTKZE006_04245_A1_000_003,5隻
-62,TEXT_AKTKZE006_04245_LOPORRITSA04245_000_021,哎呀，太可惜了！<hex:02100103>再確認一次，重新作答吧！
-63,TEXT_AKTKZE006_04245_LOPORRITSA04245_000_022,太對啦！<hex:02100103>有沒有太簡單？<hex:02100103>不過，要是太難了會不會就不好玩了……
-64,TEXT_AKTKZE006_04245_LOPORRITSA04245_000_023,等等……問題可以留到之後再想，還是讓我先聽聽你的感想吧。<hex:02100103>不過，我只借用了這個地方一小會兒，不好佔用太久，<hex:02100103>我們回之前那個地方再談吧。
-65,TEXT_AKTKZE006_04245_LOPORRITSA04245_000_030,關於這個「兔兔知多少」的遊戲，評價如何？<hex:02100103>在我的預想中，像你這麼大的孩子應該會玩得很開心吧？<hex:02100103>你感覺好玩嗎？我想聽聽真正的孩子是怎麼評價的？
-66,TEXT_AKTKZE006_04245_LOPORRITSA04245_000_031,什麼？！你不是小孩？你是個成年人？！<hex:02100103>對不起，原來人類裡還有這樣的種族嗎？<hex:02100103>人類的種族可真是有趣啊！
-67,TEXT_AKTKZE006_04245_LOPORRITSA04245_000_032,「兔兔知多少」這個遊戲，你的評價如何？<hex:02100103>在我的預想中，小孩子們應該會玩的很開心吧？<hex:02100103>不知道能不能暫時緩解遊樂設施數量不足的問題。
-68,TEXT_AKTKZE006_04245_LOPORRITSA04245_000_033,那麼，你是怎麼看這個遊戲的？<hex:02100103>好玩嗎？
-69,TEXT_AKTKZE006_04245_Q2_000_000,要說什麼？
-70,TEXT_AKTKZE006_04245_A2_000_001,好玩
-71,TEXT_AKTKZE006_04245_A2_000_002,沒意思
-72,TEXT_AKTKZE006_04245_A2_000_003,以前在別處玩過一樣的遊戲
-73,TEXT_AKTKZE006_04245_LOPORRITSA04245_000_034,是嗎！真的嗎！<hex:02100103>有你這句話，我立刻就有自信了！<hex:02100103>之後我們自己也會試玩，進一步改良這個遊戲的。
-74,TEXT_AKTKZE006_04245_LOPORRITSA04245_000_035,是嗎……謝謝你的直言不諱。<hex:02100103>比起照顧我的感受而說些客套話，你的意見對我來說更有價值。<hex:02100103>我還要做更多的嘗試，改良這個遊戲，把它變得更好玩！
-75,TEXT_AKTKZE006_04245_LOPORRITSA04245_000_036,我還以為這是充滿原創性的遊戲呢，<hex:02100103>竟然有其他人跟我想到一起去了……<hex:02100103>我可不能輸，我要改良這個遊戲，把它變得更好玩！
-76,TEXT_AKTKZE006_04245_LOPORRITSA04245_000_037,謝謝你的感想，試玩測試到這裡就結束了。<hex:02100103>我這就去想幾個更好的主意來改良遊戲，<hex:02100103>等著吧！我會把它變成人類小孩子最喜歡的遊戲的！
+0,"TEXT_AKTKZE006_04245_SEQ_00","<hex:024804F201FC03><hex:024904F201FD03> Quest Sync<hex:0249020103><hex:0248020103><hex:02100103>The playful Loporrit has a new game to play."
+1,"TEXT_AKTKZE006_04245_SEQ_01",""
+2,"TEXT_AKTKZE006_04245_SEQ_02",""
+3,"TEXT_AKTKZE006_04245_SEQ_03",""
+4,"TEXT_AKTKZE006_04245_SEQ_04",""
+5,"TEXT_AKTKZE006_04245_SEQ_05",""
+6,"TEXT_AKTKZE006_04245_SEQ_06",""
+7,"TEXT_AKTKZE006_04245_SEQ_07",""
+8,"TEXT_AKTKZE006_04245_SEQ_08",""
+9,"TEXT_AKTKZE006_04245_SEQ_09",""
+10,"TEXT_AKTKZE006_04245_SEQ_10",""
+11,"TEXT_AKTKZE006_04245_SEQ_11",""
+12,"TEXT_AKTKZE006_04245_SEQ_12",""
+13,"TEXT_AKTKZE006_04245_SEQ_13",""
+14,"TEXT_AKTKZE006_04245_SEQ_14",""
+15,"TEXT_AKTKZE006_04245_SEQ_15",""
+16,"TEXT_AKTKZE006_04245_SEQ_16",""
+17,"TEXT_AKTKZE006_04245_SEQ_17",""
+18,"TEXT_AKTKZE006_04245_SEQ_18",""
+19,"TEXT_AKTKZE006_04245_SEQ_19",""
+20,"TEXT_AKTKZE006_04245_SEQ_20",""
+21,"TEXT_AKTKZE006_04245_SEQ_21",""
+22,"TEXT_AKTKZE006_04245_SEQ_22",""
+23,"TEXT_AKTKZE006_04245_SEQ_23",""
+24,"TEXT_AKTKZE006_04245_TODO_00","Speak with the playful Loporrit."
+25,"TEXT_AKTKZE006_04245_TODO_01","Count the Loporrits at the designated location."
+26,"TEXT_AKTKZE006_04245_TODO_02","Report to the playful Loporrit."
+27,"TEXT_AKTKZE006_04245_TODO_03","Speak with the playful Loporrit."
+28,"TEXT_AKTKZE006_04245_TODO_04",""
+29,"TEXT_AKTKZE006_04245_TODO_05",""
+30,"TEXT_AKTKZE006_04245_TODO_06",""
+31,"TEXT_AKTKZE006_04245_TODO_07",""
+32,"TEXT_AKTKZE006_04245_TODO_08",""
+33,"TEXT_AKTKZE006_04245_TODO_09",""
+34,"TEXT_AKTKZE006_04245_TODO_10",""
+35,"TEXT_AKTKZE006_04245_TODO_11",""
+36,"TEXT_AKTKZE006_04245_TODO_12",""
+37,"TEXT_AKTKZE006_04245_TODO_13",""
+38,"TEXT_AKTKZE006_04245_TODO_14",""
+39,"TEXT_AKTKZE006_04245_TODO_15",""
+40,"TEXT_AKTKZE006_04245_TODO_16",""
+41,"TEXT_AKTKZE006_04245_TODO_17",""
+42,"TEXT_AKTKZE006_04245_TODO_18",""
+43,"TEXT_AKTKZE006_04245_TODO_19",""
+44,"TEXT_AKTKZE006_04245_TODO_20",""
+45,"TEXT_AKTKZE006_04245_TODO_21",""
+46,"TEXT_AKTKZE006_04245_TODO_22",""
+47,"TEXT_AKTKZE006_04245_TODO_23",""
+48,"TEXT_AKTKZE006_04245_LOPORRITSA04245_000_000","Greetings! I'm the Loporrit in charge of the children's romping grounds. I expect it will be quite the challenge keeping the children of Etheirys entertained with limited space and supplies...but I daresay I'm up to it!"
+49,"TEXT_AKTKZE006_04245_LOPORRITSA04245_000_001","In fact, I but recently came up with a new game that requires no props nor preparation. I call it “The Loporrits Never Stoporrit (Name Pending Livingway's Approval).” Care to give it a go?"
+50,"TEXT_AKTKZE006_04245_LOPORRITSA04245_000_002","I knew you would! Now, the game is very simple─you need only count the Loporrits hopping this way and that way...or possibly no way...before time is up."
+51,"TEXT_AKTKZE006_04245_LOPORRITSA04245_000_003","I have the perfect place picked out to play─follow me to the Carrotorium!"
+52,"TEXT_AKTKZE006_04245_LOPORRITSA04245_000_010","Do you see the carrot creation station there? When you're ready, see if you can count how many Loporrits are sneaking about it."
+53,"TEXT_AKTKZE006_04245_SYSTEM_000_011","Inspect the designated location to begin counting Loporrits."
+54,"TEXT_AKTKZE006_04245_SYSTEM_000_012","You will have thirty seconds to complete the task, after which you may give your answer to the playful Loporrit."
+55,"TEXT_AKTKZE006_04245_LOPORRITSA04245_000_013","See if you can count the number of Loporrits there at the carrot creation station. It's not as easy as it looks! ...Assuming it looks easy. Does it?"
+56,"TEXT_AKTKZE006_04245_SYSTEM_000_014","Try counting the Loporrits again?"
+57,"TEXT_AKTKZE006_04245_LOPORRITSA04245_000_020","So, do you think you counted them right? How many Loporrits did you see?"
+58,"TEXT_AKTKZE006_04245_Q1_000_000","What will you say?"
+59,"TEXT_AKTKZE006_04245_A1_000_001","Three."
+60,"TEXT_AKTKZE006_04245_A1_000_002","Four."
+61,"TEXT_AKTKZE006_04245_A1_000_003","Five."
+62,"TEXT_AKTKZE006_04245_LOPORRITSA04245_000_021","Oooh, so close! How about giving it one more try?"
+63,"TEXT_AKTKZE006_04245_LOPORRITSA04245_000_022","We have a winner! Hm? Too easy, you say? Well, it's no fun if it's too hard!"
+64,"TEXT_AKTKZE006_04245_LOPORRITSA04245_000_023","And you <hex:021A020203>did<hex:021A020103> have fun, didn't you!? Wait, hold that thought─our time here is nearly up, and structure is important for productive play. You can tell me all about the fun you had after we've returned to Bestways Burrow instead."
+65,"TEXT_AKTKZE006_04245_LOPORRITSA04245_000_030","Now, tell me what you think. Was it a good game? Do you think the other children will like it, too?"
+66,"TEXT_AKTKZE006_04245_LOPORRITSA04245_000_031","You're an <hex:021A020203>adult<hex:021A020103>? Goodness, I'm so sorry! It's just, I was told that the people of Etheirys are at least twice our height, and you're so... Ahem. Well, as for the matter at hand..."
+67,"TEXT_AKTKZE006_04245_LOPORRITSA04245_000_032","Now, tell me what you think. I'm confident the children will like it, and it cuts back on equipment costs as well. I see no downsides! So..."
+68,"TEXT_AKTKZE006_04245_LOPORRITSA04245_000_033","I want to hear your honest opinion. How was it?"
+69,"TEXT_AKTKZE006_04245_Q2_000_000","What will you say?"
+70,"TEXT_AKTKZE006_04245_A2_000_001","I had a great time!"
+71,"TEXT_AKTKZE006_04245_A2_000_002","Boooring."
+72,"TEXT_AKTKZE006_04245_A2_000_003","I've actually played this before."
+73,"TEXT_AKTKZE006_04245_LOPORRITSA04245_000_034","Wonderful! I knew I came up with a terrific game, but hearing it from you is all the more reassuring!"
+74,"TEXT_AKTKZE006_04245_LOPORRITSA04245_000_035","Oh, I see... Well, I appreciate your honesty. Looks like it's back to the drawing board with me."
+75,"TEXT_AKTKZE006_04245_LOPORRITSA04245_000_036","What!? And here I thought I had come up with a new and exciting idea! I'll have to improve on it to make something truly unique..."
+76,"TEXT_AKTKZE006_04245_LOPORRITSA04245_000_037","Thank you for taking the time to play with me. If I come up with a new game, I'll be sure to seek your expert opinion!"

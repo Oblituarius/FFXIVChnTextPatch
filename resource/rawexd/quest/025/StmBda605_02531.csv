@@ -2,98 +2,98 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_STMBDA605_02531_SEQ_00,對等石的阿爾菲諾正在思考有關請神的事情。
-1,TEXT_STMBDA605_02531_SEQ_01,
-2,TEXT_STMBDA605_02531_SEQ_02,
-3,TEXT_STMBDA605_02531_SEQ_03,
-4,TEXT_STMBDA605_02531_SEQ_04,
-5,TEXT_STMBDA605_02531_SEQ_05,
-6,TEXT_STMBDA605_02531_SEQ_06,
-7,TEXT_STMBDA605_02531_SEQ_07,
-8,TEXT_STMBDA605_02531_SEQ_08,
-9,TEXT_STMBDA605_02531_SEQ_09,
-10,TEXT_STMBDA605_02531_SEQ_10,
-11,TEXT_STMBDA605_02531_SEQ_11,
-12,TEXT_STMBDA605_02531_SEQ_12,
-13,TEXT_STMBDA605_02531_SEQ_13,
-14,TEXT_STMBDA605_02531_SEQ_14,
-15,TEXT_STMBDA605_02531_SEQ_15,
-16,TEXT_STMBDA605_02531_SEQ_16,
-17,TEXT_STMBDA605_02531_SEQ_17,
-18,TEXT_STMBDA605_02531_SEQ_18,
-19,TEXT_STMBDA605_02531_SEQ_19,
-20,TEXT_STMBDA605_02531_SEQ_20,
-21,TEXT_STMBDA605_02531_SEQ_21,
-22,TEXT_STMBDA605_02531_SEQ_22,
-23,TEXT_STMBDA605_02531_SEQ_23,
-24,TEXT_STMBDA605_02531_TODO_00,和薩利夏對話
-25,TEXT_STMBDA605_02531_TODO_01,和伐折羅對話
-26,TEXT_STMBDA605_02531_TODO_02,
-27,TEXT_STMBDA605_02531_TODO_03,
-28,TEXT_STMBDA605_02531_TODO_04,
-29,TEXT_STMBDA605_02531_TODO_05,
-30,TEXT_STMBDA605_02531_TODO_06,
-31,TEXT_STMBDA605_02531_TODO_07,
-32,TEXT_STMBDA605_02531_TODO_08,
-33,TEXT_STMBDA605_02531_TODO_09,
-34,TEXT_STMBDA605_02531_TODO_10,
-35,TEXT_STMBDA605_02531_TODO_11,
-36,TEXT_STMBDA605_02531_TODO_12,
-37,TEXT_STMBDA605_02531_TODO_13,
-38,TEXT_STMBDA605_02531_TODO_14,
-39,TEXT_STMBDA605_02531_TODO_15,
-40,TEXT_STMBDA605_02531_TODO_16,
-41,TEXT_STMBDA605_02531_TODO_17,
-42,TEXT_STMBDA605_02531_TODO_18,
-43,TEXT_STMBDA605_02531_TODO_19,
-44,TEXT_STMBDA605_02531_TODO_20,
-45,TEXT_STMBDA605_02531_TODO_21,
-46,TEXT_STMBDA605_02531_TODO_22,
-47,TEXT_STMBDA605_02531_TODO_23,
-48,TEXT_STMBDA605_02531_ALISAIE_000_001,因為帝國，又有新的蠻神降臨了……<hex:02100103>以討伐蠻神為國策的國家，<hex:02100103>因其行動而讓新的蠻神誕生，真是太諷刺了……
-49,TEXT_STMBDA605_02531_MNAAGO_000_005,竟然在緊鄰故鄉的地方有蠻神被召喚出來……<hex:02100103>要是一個不小心，說不定鄉親們就被精煉了。<hex:02100103>真是心有餘悸。
-50,TEXT_STMBDA605_02531_LYSE_000_010,如果當時沒讓芙朵拉跑掉的話……
-51,TEXT_STMBDA605_02531_VIRASOLDIER_000_015,嘶——你就是狩神的英雄嗎？<hex:02100103>能否請你助我們一臂之力呢……
-52,TEXT_STMBDA605_02531_ALPHINAUD_000_020,關於如何應對吉祥天女……<hex:02100103>我認為，應該先找一找有沒有能夠迴避戰鬥的方法。
-53,TEXT_STMBDA605_02531_ALPHINAUD_000_021,要我說，還是先商討一下，<hex:02100103>盡量迴避無益處的戰鬥為妙。
-54,TEXT_STMBDA605_02531_ALPHINAUD_000_022,而且蠻神的性質也各有不同，<hex:02100103>既有像武神羅波那那樣積極進攻型的蠻神，<hex:02100103>也有像雷神拉姆那樣專守防衛型的蠻神。
-55,TEXT_STMBDA605_02531_ALPHINAUD_000_023,因此，我們需要先詳細了解一下<hex:02100103>伽黎亞派召喚出的吉祥天女究竟是怎樣的蠻神。
-56,TEXT_STMBDA605_02531_VIRASOLDIER_000_024,嘶——那麼我可以帶你們到位於北邊的勇巢，<hex:02100103>那是我們毗羅派的巢穴。<hex:02100103>你們可以去找我們的領導者薩利夏了解一下。
-57,TEXT_STMBDA605_02531_ALISAIE_000_025,好的。<hex:02100103>那梅·娜格，就麻煩你去跟解放軍還有同盟軍報告一下情況了。
-58,TEXT_STMBDA605_02531_MNAAGO_000_026,明白！<hex:02100103>各位，請一定要小心啊！
-59,TEXT_STMBDA605_02531_MNAAGO_000_030,我會通過康拉德隊長，<hex:02100103>把召喚蠻神的情況報告給艾歐澤亞同盟軍的！<hex:02100103>請一定要小心啊！
-60,TEXT_STMBDA605_02531_SARISHA_000_040,嘶——真是少見，竟然會有這麼多人類來訪，<hex:02100103>莫非你們是……
-61,TEXT_STMBDA605_02531_ALPHINAUD_000_041,您就是毗羅派的領導者薩利夏吧？<hex:02100103>我們是拂曉血盟的人。
-62,TEXT_STMBDA605_02531_ALPHINAUD_000_042,我們聽說了關於美神吉祥天女被召喚出來的事情，<hex:02100103>覺得有必要先了解一下相關的知識，<hex:02100103>所以就過來拜訪您了。
-63,TEXT_STMBDA605_02531_SARISHA_000_043,嘶——我知道了，那我就來說一說吧。<hex:02100103>美神吉祥天女是創造了我們阿難陀族的神明……
-64,TEXT_STMBDA605_02531_SARISHA_000_044,美神在創造阿難陀族時，用美之力賦予了我們美麗的鱗片，<hex:02100103>用豐收之力教會了我們只靠女子孕育後代的方法，<hex:02100103>然後，用治癒之力給予了我們出類拔萃的生命力。
-65,TEXT_STMBDA605_02531_ALPHINAUD_000_045,伽黎亞族長之所以會祈願女兒復活，染指請神，<hex:02100103>就是將希望寄託在了這治癒之力上了麼。<hex:02100103>從這一點來看，吉祥天女應該不是好戰的蠻神……
-66,TEXT_STMBDA605_02531_ALISAIE_000_046,你這種判斷為時過早。<hex:02100103>蠻神往往都是召喚者們信仰和願望極端化的產物。<hex:02100103>比起一般的神話，更需要了解伽黎亞派對吉祥天女的幻想是怎樣的。
-67,TEXT_STMBDA605_02531_SARISHA_000_047,嘶——的確，伽黎亞派和毗羅派對美神的理解有很大的差距。
-68,TEXT_STMBDA605_02531_SARISHA_000_048,美神厭惡束縛、崇尚自由……<hex:02100103>因此，我們毗羅派重視自由，就算會伴隨著犧牲，<hex:02100103>也決定要和解放軍一起反抗帝國的支配。
-69,TEXT_STMBDA605_02531_SARISHA_000_049,與此相對的，伽黎亞派為了讚頌美神，主張對美的追求，<hex:02100103>進而一味執著於製作反映心靈的水晶裝飾物及飾品。<hex:02100103>或許就是因為這樣，她們才甘願受帝國的支配。
-70,TEXT_STMBDA605_02531_SARISHA_000_050,不願正視殘酷的現實，面對施加強壓的帝國絲毫不採取抵抗，<hex:02100103>將自己重要的女兒交出去，只是一味地打磨裝飾品。<hex:02100103>這就是伽黎亞派的生存方式……
-71,TEXT_STMBDA605_02531_ALISAIE_000_051,既然是那種內向且逃避現實的人們召喚出的蠻神，<hex:02100103>估計也只是想要治癒被殘酷現實所摧殘的內心吧。
-72,TEXT_STMBDA605_02531_LYSE_000_052,至今為止，我遇到過很多人，<hex:02100103>也見到過必須要依靠些什麼才能活下去的人……<hex:02100103>但是，那樣的話是什麼都改變不了的！
-73,TEXT_STMBDA605_02531_ALISAIE_000_053,是啊……莉瑟說得對。<hex:02100103>但是，蠻神會精煉信徒，<hex:02100103>以此讓她們沉睡在甜美的夢中，永遠無法醒來吧……
-74,TEXT_STMBDA605_02531_ALISAIE_000_054,（★未使用／削除予定★）
-75,TEXT_STMBDA605_02531_LYSE_100_054,在這之前，必須要阻止她們才行！
-76,TEXT_STMBDA605_02531_SARISHA_200_054,嘶——雖然我們的思想不同，但伽黎亞派也是我們的同胞。<hex:02100103>人類之子啊，能拜託你協助我們嗎？
-77,TEXT_STMBDA605_02531_Q1_000_000,要協助毗羅派嗎？
-78,TEXT_STMBDA605_02531_A1_000_001,交給我吧！
-79,TEXT_STMBDA605_02531_A1_000_002,看情況也許會把吉祥天女打倒的
-80,TEXT_STMBDA605_02531_ALISAIE_000_056,（★未使用／削除予定★）
-81,TEXT_STMBDA605_02531_SARISHA_100_056,嘶——很感謝你能這麼說……<hex:02100103>為了我們所崇尚的自由，<hex:02100103>我們也會不遺餘力地戰鬥。
-82,TEXT_STMBDA605_02531_ALISAIE_000_057,（★未使用／削除予定★）
-83,TEXT_STMBDA605_02531_SARISHA_100_057,嘶——如果說神明會因祈願而變換姿態，<hex:02100103>那麼，我們是不會依靠那種被扭曲的偽神的。
-84,TEXT_STMBDA605_02531_ALISAIE_200_057,即使向神祈願，死去的親人也不會再回來了……<hex:02100103>我不希望再看到第二個嘎埠了。
-85,TEXT_STMBDA605_02531_ALPHINAUD_000_058,（★未使用／削除予定★）
-86,TEXT_STMBDA605_02531_ALPHINAUD_000_059,（★未使用／削除予定★）
-87,TEXT_STMBDA605_02531_LYSE_000_060,好，那我們走吧！<hex:02100103>去會一會美神吉祥天女！
-88,TEXT_STMBDA605_02531_SARISHA_000_061,嘶——那麼，就由毗羅派的鬥士，<hex:02100103>我們的姐妹伐折羅與你們同行，為你們帶路吧。<hex:02100103>由衷感謝你們的無私幫助。
-89,TEXT_STMBDA605_02531_ALISAIE_000_065,一想起嘎埠，我就……覺得自己必須要做點什麼。
-90,TEXT_STMBDA605_02531_ALPHINAUD_000_070,祈求死去的女兒復活的伽黎亞族長，<hex:02100103>還有祈求與死去父母再會的嘎埠……<hex:02100103>這次的事總會讓人想起當時在奧·哥摩羅發生的事情。
-91,TEXT_STMBDA605_02531_LYSE_000_075,阿莉塞那熾熱的情感也感染了我，<hex:02100103>自然而然地就鬥志高昂起來。
-92,TEXT_STMBDA605_02531_SARISHA_100_080,嘶——那麼，就由毗羅派的鬥士，<hex:02100103>我們的姐妹伐折羅與你們同行，為你們帶路吧。<hex:02100103>由衷感謝你們的無私幫助。
-93,TEXT_STMBDA605_02531_VAJRA_000_080,嘶——感謝你們能夠接受我們的委託。<hex:02100103>我還沒有自我介紹，我叫伐折羅，<hex:02100103>名字的寓意為閃耀光輝的堅硬岩石。
-94,TEXT_STMBDA605_02531_VAJRA_000_081,我可以隨時出發。<hex:02100103>等你們打算前往伽黎亞派的據點時，就來找我吧。
+0,"TEXT_STMBDA605_02531_SEQ_00","Alphinaud has heard this story too many times before..."
+1,"TEXT_STMBDA605_02531_SEQ_01",""
+2,"TEXT_STMBDA605_02531_SEQ_02",""
+3,"TEXT_STMBDA605_02531_SEQ_03",""
+4,"TEXT_STMBDA605_02531_SEQ_04",""
+5,"TEXT_STMBDA605_02531_SEQ_05",""
+6,"TEXT_STMBDA605_02531_SEQ_06",""
+7,"TEXT_STMBDA605_02531_SEQ_07",""
+8,"TEXT_STMBDA605_02531_SEQ_08",""
+9,"TEXT_STMBDA605_02531_SEQ_09",""
+10,"TEXT_STMBDA605_02531_SEQ_10",""
+11,"TEXT_STMBDA605_02531_SEQ_11",""
+12,"TEXT_STMBDA605_02531_SEQ_12",""
+13,"TEXT_STMBDA605_02531_SEQ_13",""
+14,"TEXT_STMBDA605_02531_SEQ_14",""
+15,"TEXT_STMBDA605_02531_SEQ_15",""
+16,"TEXT_STMBDA605_02531_SEQ_16",""
+17,"TEXT_STMBDA605_02531_SEQ_17",""
+18,"TEXT_STMBDA605_02531_SEQ_18",""
+19,"TEXT_STMBDA605_02531_SEQ_19",""
+20,"TEXT_STMBDA605_02531_SEQ_20",""
+21,"TEXT_STMBDA605_02531_SEQ_21",""
+22,"TEXT_STMBDA605_02531_SEQ_22",""
+23,"TEXT_STMBDA605_02531_SEQ_23",""
+24,"TEXT_STMBDA605_02531_TODO_00","Speak with Sarisha."
+25,"TEXT_STMBDA605_02531_TODO_01","Speak with Vajra."
+26,"TEXT_STMBDA605_02531_TODO_02",""
+27,"TEXT_STMBDA605_02531_TODO_03",""
+28,"TEXT_STMBDA605_02531_TODO_04",""
+29,"TEXT_STMBDA605_02531_TODO_05",""
+30,"TEXT_STMBDA605_02531_TODO_06",""
+31,"TEXT_STMBDA605_02531_TODO_07",""
+32,"TEXT_STMBDA605_02531_TODO_08",""
+33,"TEXT_STMBDA605_02531_TODO_09",""
+34,"TEXT_STMBDA605_02531_TODO_10",""
+35,"TEXT_STMBDA605_02531_TODO_11",""
+36,"TEXT_STMBDA605_02531_TODO_12",""
+37,"TEXT_STMBDA605_02531_TODO_13",""
+38,"TEXT_STMBDA605_02531_TODO_14",""
+39,"TEXT_STMBDA605_02531_TODO_15",""
+40,"TEXT_STMBDA605_02531_TODO_16",""
+41,"TEXT_STMBDA605_02531_TODO_17",""
+42,"TEXT_STMBDA605_02531_TODO_18",""
+43,"TEXT_STMBDA605_02531_TODO_19",""
+44,"TEXT_STMBDA605_02531_TODO_20",""
+45,"TEXT_STMBDA605_02531_TODO_21",""
+46,"TEXT_STMBDA605_02531_TODO_22",""
+47,"TEXT_STMBDA605_02531_TODO_23",""
+48,"TEXT_STMBDA605_02531_ALISAIE_000_001","And now we have a <hex:021A020203>primal<hex:021A020103> to contend with as well. <sigh> As if the Empire needed an excuse to start rounding up beastmen again..."
+49,"TEXT_STMBDA605_02531_MNAAGO_000_005","I still can't believe that a primal's been summoned so close to the village. The idea that our people could be taken to serve as thralls is... It just doesn't bear thinking about."
+50,"TEXT_STMBDA605_02531_LYSE_000_010","This is all Fordola's fault!"
+51,"TEXT_STMBDA605_02531_VIRASOLDIER_000_015","You have ssslain many eikons before, yesss? Then please─put an end to thisss madnesss..."
+52,"TEXT_STMBDA605_02531_ALPHINAUD_000_020","Ahem. At the risk of sounding hopelessly naive...there may yet be a way to avoid a violent confrontation."
+53,"TEXT_STMBDA605_02531_ALPHINAUD_000_021","In the past, I fear I have been rather too willing to accept that we have no other recourse than to risk our lives─or rather <hex:021A020203>your<hex:021A020103> life─to address these threats."
+54,"TEXT_STMBDA605_02531_ALPHINAUD_000_022","Yet the primals we have faced thus far have demonstrated a variety of temperaments and objectives. Ravana may delight in battle, but Ramuh would sooner keep to the forests with his children."
+55,"TEXT_STMBDA605_02531_ALPHINAUD_000_023","Ere we decide to challenge Sri Lakshmi, it would seem wise to learn more of her nature from those who summoned her unto this world."
+56,"TEXT_STMBDA605_02531_VIRASOLDIER_000_024","If that is your will, then ssso be it. To the north will you find our village. Sssarisha shall unfold all."
+57,"TEXT_STMBDA605_02531_ALISAIE_000_025","We shall leave at once. M'naago, can you inform our comrades at the bridge of what happened?"
+58,"TEXT_STMBDA605_02531_MNAAGO_000_026","Of course. Be safe, my friends."
+59,"TEXT_STMBDA605_02531_MNAAGO_000_030","I will send word to Conrad and the others. Take care, and do not hesitate to send for help if you need it."
+60,"TEXT_STMBDA605_02531_SARISHA_000_040","...We do not often receive guestsss. What is the purpossse of your visit?"
+61,"TEXT_STMBDA605_02531_ALPHINAUD_000_041","Greetings and well met. We are the Scions of the Seventh Dawn, and we come seeking Sarisha of the Vira. You are she, are you not?"
+62,"TEXT_STMBDA605_02531_ALPHINAUD_000_042","You have petitioned us for aid and succor, and we intend to provide them, but we would first learn more of Sri Lakshmi, that we might better understand the nature of the threat she poses to you."
+63,"TEXT_STMBDA605_02531_SARISHA_000_043","A sssimple requessst, and one which I shall gladly oblige."
+64,"TEXT_STMBDA605_02531_SARISHA_000_044","In the beginning was Sri Lakshmi. We were created in Her image─daughters blesssed with Her beauty. Her breath became ours; Her ssserenity our sssolace. There is naught She would not give."
+65,"TEXT_STMBDA605_02531_ALPHINAUD_000_045","Hm. 'Twas the Qalyana broodmother's desire to bring about her daughter's resurrection which first called forth Sri Lakshmi from the aether. That being the case, I rather doubt the goddess will be spoiling for a fight."
+66,"TEXT_STMBDA605_02531_ALISAIE_000_046","That would depend. The primal's motives will have been colored by the summoner's state of mind─namely, that of a grieving mother who had just borne witness to her daughter's murder. Though she apparently craved a miracle, she may also have harbored thoughts of vengeance.<hex:02100103>Moreover, the Qalyana's conception of Sri Lakshmi may differ from that of the Vira."
+67,"TEXT_STMBDA605_02531_SARISHA_000_047","Thisss is true. The Vira and the Qalyana do indeed regard the Lady of Blisss in different ways."
+68,"TEXT_STMBDA605_02531_SARISHA_000_048","To the Vira, Sri Lakshmi embodies freedom. She would not sssuffer Her daughters to be bound to another's will. And ssso we ssstand with the Resissstance againssst the Empire, and give our lives for the cause."
+69,"TEXT_STMBDA605_02531_SARISHA_000_049","To the Qalyana, however, She embodies transsscendental beauty, which they ssstrive to create through their craft. To shape cryssstal is lesss art and more ritual─a sssacred duty wherein each tribute is imbued with a fragment of the sssoul."
+70,"TEXT_STMBDA605_02531_SARISHA_000_050","The imperials do not interfere with thisss holy work, and ssso the Qalyana were content to turn inward and ignore our plight."
+71,"TEXT_STMBDA605_02531_ALISAIE_000_051","...Until reality asserted itself, and they summoned a primal. A fever dream to soothe their aching hearts."
+72,"TEXT_STMBDA605_02531_LYSE_000_052","But surely they can see that it won't do any good! The imperials will still rule these lands. Nothing will change!"
+73,"TEXT_STMBDA605_02531_ALISAIE_000_053","The Ananta will. The Qalyana bade the Vira make pilgrimage to “pay proper respects,” remember? Those who do not wish to partake of their primal's bliss will be made to do so."
+74,"TEXT_STMBDA605_02531_ALISAIE_000_054",""
+75,"TEXT_STMBDA605_02531_LYSE_100_054","Not while <hex:021A020203>we're<hex:021A020103> around they won't!"
+76,"TEXT_STMBDA605_02531_SARISHA_200_054","Though our beliefsss are not the sssame, we are ssstill kin to the Qalyana. Will you help them to sssee reason?"
+77,"TEXT_STMBDA605_02531_Q1_000_000","What will you say?"
+78,"TEXT_STMBDA605_02531_A1_000_001","You can count on us."
+79,"TEXT_STMBDA605_02531_A1_000_002","Know that I'll kill your god if I have to. Maybe even if I don't."
+80,"TEXT_STMBDA605_02531_ALISAIE_000_056",""
+81,"TEXT_STMBDA605_02531_SARISHA_100_056","Then we shall, for without you we may be powerlesss to ssstop them."
+82,"TEXT_STMBDA605_02531_ALISAIE_000_057",""
+83,"TEXT_STMBDA605_02531_SARISHA_100_057","...Do what you will, warrior. That sssimulacrum is not Sri Lakshmi."
+84,"TEXT_STMBDA605_02531_ALISAIE_200_057","If we do not act quickly, more lives will be lost, more families torn apart...more children made to suffer."
+85,"TEXT_STMBDA605_02531_ALPHINAUD_000_058",""
+86,"TEXT_STMBDA605_02531_ALPHINAUD_000_059",""
+87,"TEXT_STMBDA605_02531_LYSE_000_060","Then it's settled─we're going to find that primal and put an end to this!"
+88,"TEXT_STMBDA605_02531_SARISHA_000_061","My sssister Vajra will guide you to Djanan Qhat...and I shall pray for your successs."
+89,"TEXT_STMBDA605_02531_ALISAIE_000_065","We need to go. I won't be late again. Not like in Limsa."
+90,"TEXT_STMBDA605_02531_ALPHINAUD_000_070","I am reminded of the tragedy we bore witness to beneath O'Ghomoro, when poor Ga Bu cried out in despair and rage, and Titan came forth in answer..."
+91,"TEXT_STMBDA605_02531_LYSE_000_075","I'm not sure why Alisaie's so eager to face this primal all of a sudden, but you won't hear me complaining!"
+92,"TEXT_STMBDA605_02531_SARISHA_100_080","My sssister Vajra will guide you to the Qalyana village. Do what you mussst, eikon-ssslayer."
+93,"TEXT_STMBDA605_02531_VAJRA_000_080","Well met, Ssscions. I am Vajra. She who shines bright and unbroken."
+94,"TEXT_STMBDA605_02531_VAJRA_000_081","I ssstand ready. We leave upon your command."

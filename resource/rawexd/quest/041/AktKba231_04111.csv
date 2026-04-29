@@ -2,133 +2,133 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_AKTKBA231_04111_SEQ_00,阿拉米格人居住區的偽神獸臨時部隊的戰士有話要對冒險者說。
-1,TEXT_AKTKBA231_04111_SEQ_01,勞班帶來了一些新消息。阿雷恩瓦爾德正在準備追悼儀式說明會。和阿拉米格人居住區的阿雷恩瓦爾德談談。
-2,TEXT_AKTKBA231_04111_SEQ_02,阿雷恩瓦爾德托冒險者為代表們送去追悼儀式說明會的請柬。將<hex:022811FF0A>EventItem<hex:F61E90A20103>交給基拉巴尼亞邊區對等石的梅·拉茲·努恩和勇巢的薩利夏。
-3,TEXT_AKTKBA231_04111_SEQ_03,把請柬交給了梅·拉茲·努恩和薩利夏。回到阿拉米格人居住區，向阿雷恩瓦爾德報告。
-4,TEXT_AKTKBA231_04111_SEQ_04,和阿雷恩瓦爾德進行了交談。和阿拉米格人居住區的解放軍的嚮導談談，參加追悼儀式說明會。
-5,TEXT_AKTKBA231_04111_SEQ_05,參加了追悼儀式說明會。說明會上出現了不少反對的聲音，但勞班和阿雷恩瓦爾德懇切的心聲已經傳達給了會場上所有人。和阿拉米格人居住區的勞班談談。
-6,TEXT_AKTKBA231_04111_SEQ_06,和勞班進行了交談。儘管不能說是立刻就能舉辦這場追悼儀式，但他相信眾人都會繼續推進這項善舉。接下來要做的就是養精蓄銳為討伐偽神獸做好準備。<hex:02100103><hex:02100103>※任意治療職業的等級達到89級以上時，可以從阿拉米格人居住區的偽神獸臨時部隊的戰士那裡領取下一個治療職能任務。
-7,TEXT_AKTKBA231_04111_SEQ_07,
-8,TEXT_AKTKBA231_04111_SEQ_08,
-9,TEXT_AKTKBA231_04111_SEQ_09,
-10,TEXT_AKTKBA231_04111_SEQ_10,
-11,TEXT_AKTKBA231_04111_SEQ_11,
-12,TEXT_AKTKBA231_04111_SEQ_12,
-13,TEXT_AKTKBA231_04111_SEQ_13,
-14,TEXT_AKTKBA231_04111_SEQ_14,
-15,TEXT_AKTKBA231_04111_SEQ_15,
-16,TEXT_AKTKBA231_04111_SEQ_16,
-17,TEXT_AKTKBA231_04111_SEQ_17,
-18,TEXT_AKTKBA231_04111_SEQ_18,
-19,TEXT_AKTKBA231_04111_SEQ_19,
-20,TEXT_AKTKBA231_04111_SEQ_20,
-21,TEXT_AKTKBA231_04111_SEQ_21,
-22,TEXT_AKTKBA231_04111_SEQ_22,
-23,TEXT_AKTKBA231_04111_SEQ_23,
-24,TEXT_AKTKBA231_04111_TODO_00,和阿雷恩瓦爾德對話
-25,TEXT_AKTKBA231_04111_TODO_01,將<hex:022811FF0A>EventItem<hex:F61E90A20103>交給對等石的梅·拉茲·努恩
-26,TEXT_AKTKBA231_04111_TODO_02,將<hex:022811FF0A>EventItem<hex:F61E90A20103>交給勇巢的薩利夏
-27,TEXT_AKTKBA231_04111_TODO_03,和阿拉米格人居住區的阿雷恩瓦爾德對話
-28,TEXT_AKTKBA231_04111_TODO_04,和解放軍的嚮導對話
-29,TEXT_AKTKBA231_04111_TODO_05,和勞班對話
-30,TEXT_AKTKBA231_04111_TODO_06,
-31,TEXT_AKTKBA231_04111_TODO_07,
-32,TEXT_AKTKBA231_04111_TODO_08,
-33,TEXT_AKTKBA231_04111_TODO_09,
-34,TEXT_AKTKBA231_04111_TODO_10,
-35,TEXT_AKTKBA231_04111_TODO_11,
-36,TEXT_AKTKBA231_04111_TODO_12,
-37,TEXT_AKTKBA231_04111_TODO_13,
-38,TEXT_AKTKBA231_04111_TODO_14,
-39,TEXT_AKTKBA231_04111_TODO_15,
-40,TEXT_AKTKBA231_04111_TODO_16,
-41,TEXT_AKTKBA231_04111_TODO_17,
-42,TEXT_AKTKBA231_04111_TODO_18,
-43,TEXT_AKTKBA231_04111_TODO_19,
-44,TEXT_AKTKBA231_04111_TODO_20,
-45,TEXT_AKTKBA231_04111_TODO_21,
-46,TEXT_AKTKBA231_04111_TODO_22,
-47,TEXT_AKTKBA231_04111_TODO_23,
-48,TEXT_AKTKBA231_04111_LIVERATIONARMY_000_000,<hex:022903EB0203>閣下！勞班隊長托我轉達兩件事！
-49,TEXT_AKTKBA231_04111_LIVERATIONARMY_000_001,第一件事是解放軍正和白羽會合作，<hex:02100103>試著從行蹤不明的遺屬中確定偽神獸的原身。
-50,TEXT_AKTKBA231_04111_LIVERATIONARMY_000_002,搜索任務由勞班隊長領頭，<hex:02100103>雖然進展緩慢，但已經略有眉目了。<hex:02100103>願意提供協助的民間人士也在不斷增加。
-51,TEXT_AKTKBA231_04111_LIVERATIONARMY_000_003,另一件事與正在準備的追悼儀式有關。<hex:02100103>為了舉辦儀式悼念逝者，<hex:02100103>阿雷恩瓦爾德閣下想為各組織的代表人說明情況。
-52,TEXT_AKTKBA231_04111_LIVERATIONARMY_000_004,勞班隊長希望你能幫助阿雷恩瓦爾德閣下推進追悼儀式的舉辦。<hex:02100103>他目前就在阿拉米格人居住區的西南方，請你過去找他談談吧。
-53,TEXT_AKTKBA231_04111_LIVERATIONARMY_000_005,就是這兩件事！<hex:02100103>我還有其他任務，先告辭了！
-54,TEXT_AKTKBA231_04111_ARENVALD_000_010,謝謝你來幫忙，<hex:022903EB0203>。<hex:02100103>關於追悼儀式，不知道你了解到哪一步了。<hex:02100103>讓我再做個簡單的說明吧。
-55,TEXT_AKTKBA231_04111_ARENVALD_000_011,這場儀式主要是為了弔唁所有在解放戰爭中不幸離世的人，<hex:02100103>趁此給遺屬們一個機會，讓他們和自己的家人朋友以及過去告別。<hex:02100103>讓他們將鬱結於心的自責絕望得到緩解，避免他們轉化成獸。
-56,TEXT_AKTKBA231_04111_ARENVALD_100_012,現階段的問題是，與會的代表們對遺屬們的參加都持否定態度。<hex:02100103>對大多數阿拉米格人來說，骷髏連隊到底還是太過禁忌的話題……<hex:02100103>我也知道這種恨意是很難消散的。
-57,TEXT_AKTKBA231_04111_ARENVALD_000_012,所以我希望能舉辦一場說明會，介紹我們舉辦儀式的用意。<hex:02100103>你能不能幫我給基拉巴尼亞邊區的兩位代表送去請柬，<hex:02100103>邀請他們一起參加追悼儀式的說明會？
-58,TEXT_AKTKBA231_04111_ARENVALD_000_013,就是這兩封<hex:022811FF0A>EventItem<hex:F61E90A20103>，<hex:02100103>需要交給對等石的梅·拉茲·努恩和勇巢的薩利夏。
-59,TEXT_AKTKBA231_04111_ARENVALD_000_014,說實話，我覺得他們很有可能會拒絕邀請。<hex:02100103>畢竟骷髏連隊是籠罩在很多人心頭的一片陰雲，<hex:02100103>我們相當於在邀請他們在追悼儀式上弔唁自己的仇敵。
-60,TEXT_AKTKBA231_04111_ARENVALD_000_015,可為了從絕望中拯救遺屬，我們必須邁出第一步。<hex:02100103>如果不改變現狀，阿拉米格早晚會變成末日野獸的巢穴。<hex:02100103>至少也要讓代表們來說明會聽一聽我們的想法……
-61,TEXT_AKTKBA231_04111_ARENVALD_000_016,除主旨以外，我還在請柬上介紹了我們白羽會的工作。<hex:02100103>希望大家能了解到，這些遺屬也受過帝國的折磨，<hex:02100103>以此產生共鳴，不要把對帝國的恨擴散到同胞身上太多。
-62,TEXT_AKTKBA231_04111_ARENVALD_000_017,帝國已經被打敗了，阿拉米格人之間可以不再因為帝國流血了。<hex:02100103>如果白羽會的理念能更多地得到大家的認可，<hex:02100103>也許他們就會對我們的工作多一分體諒了？
-63,TEXT_AKTKBA231_04111_ARENVALD_000_018,不知道我這拙劣的文筆能不能得到大家的認可……<hex:02100103>真不好意思，又要麻煩你跑腿了。
-64,TEXT_AKTKBA231_04111_ARENVALD_000_019,麻煩你將這兩封<hex:022811FF0A>EventItem<hex:F61E90A20103><hex:02100103>分別交給對等石的梅·拉茲·努恩和勇巢的薩利夏，謝謝！
-65,TEXT_AKTKBA231_04111_MHAHTOA_100_019,<hex:022903EB0203>，歡迎你來對等石。
-66,TEXT_AKTKBA231_04111_MRAHZNUNH_000_020,這不是<hex:022903EB0203>嗎，找我有什麼事？
-67,TEXT_AKTKBA231_04111_MRAHZNUNH_000_021,追悼儀式……<hex:02100103>是，我聽到傳聞了。
-68,TEXT_AKTKBA231_04111_MRAHZNUNH_000_022,那個拉加恩弗里德突發奇想成立一個幫助賣國賊的組織也就算了，<hex:02100103>怎麼連勞班閣下和你也在提這個，還要拉上我一起……<hex:02100103>我們梅氏，沒興趣幫那群骷髏連隊的人。
-69,TEXT_AKTKBA231_04111_MRAHZNUNH_000_023,實話告訴你吧，我們梅氏的人每一個都對帝國深惡痛絕。<hex:02100103>這裡的每個人都有不少親朋好友死於解放戰爭，<hex:02100103>我作為梅氏的族長，絕不會去弔唁帝國的走狗。
-70,TEXT_AKTKBA231_04111_Q1_000_000,要說什麼？
-71,TEXT_AKTKBA231_04111_A1_000_001,我們舉辦追悼儀式並不是要強迫你悼念敵人
-72,TEXT_AKTKBA231_04111_A1_000_002,請柬解釋了追悼儀式的目的，請先看一看吧
-73,TEXT_AKTKBA231_04111_MRAHZNUNH_000_024,好吧，會讓你和勞班閣下都同意的計劃不可能毫無邏輯。<hex:02100103>我看過之後再作判斷。
-74,TEXT_AKTKBA231_04111_MRAHZNUNH_000_025,……家人。
-75,TEXT_AKTKBA231_04111_MRAHZNUNH_000_026,我並不是在同情帝國的走狗……只是這封信的說法不無道理。<hex:02100103>這些遺屬們為了家人深陷絕望，到底也是帝國帶來的惡果。<hex:02100103>逼迫一個阿拉米格同胞死於絕望自然也不是我的本意。
-76,TEXT_AKTKBA231_04111_MRAHZNUNH_000_027,我作為梅氏族長，保護家人是我的職責。<hex:02100103>末日野獸的危害在阿拉米格擴散對我來說也沒有好處。<hex:02100103>看過這些解釋，我姑且能夠理解你們舉辦追悼儀式的用意了。
-77,TEXT_AKTKBA231_04111_MRAHZNUNH_000_028,不希望帝國造成的惡果再奪走阿拉米格人的性命，<hex:02100103>也不希望末日野獸的危險進一步擴散。<hex:02100103>我的想法，僅此而已。
-78,TEXT_AKTKBA231_04111_MRAHZNUNH_000_029,梅氏同意參加這次的追悼儀式。<hex:02100103>之後的說明會，我也會按時出席的。
-79,TEXT_AKTKBA231_04111_MRAHZNUNH_000_030,請替我向寫下這封請柬的人表達謝意。<hex:02100103>他確實是一個著眼於阿拉米格未來的人，<hex:02100103>期待能在說明會上見到他！
-80,TEXT_AKTKBA231_04111_MRAHZNUNH_000_031,感謝你為阿拉米格人奔波！<hex:02100103>我會盡量說服心中仍有芥蒂的梅氏貓魅族一起參加追悼儀式。
-81,TEXT_AKTKBA231_04111_MHAHTOA_000_032,我聽說各地都發現了異形野獸。<hex:02100103>我知道你不怕危險，但是你一定要小心注意安全，不要亂來……
-82,TEXT_AKTKBA231_04111_SARISHA_000_040,嘶——歡迎你的到來，有什麼事嗎？
-83,TEXT_AKTKBA231_04111_SARISHA_000_041,嘶——我明白了。
-84,TEXT_AKTKBA231_04111_SARISHA_000_042,很抱歉讓你白跑一趟，我不能支持你們的決定。<hex:02100103>我真的很難理解，像你這樣的人會允許骷髏連隊的人也加入儀式。
-85,TEXT_AKTKBA231_04111_SARISHA_000_043,這場追悼儀式要哀悼所有解放戰爭中死去的生命，<hex:02100103>那就是說也要悼念骷髏連隊和伽黎亞派的人對嗎？<hex:02100103>就算他們背棄故鄉、背叛同胞，對同族人刀劍相向？
-86,TEXT_AKTKBA231_04111_SARISHA_000_044,雖然在你們的幫助下，我們已經打敗了帝國。<hex:02100103>但我族的戰爭還沒有結束，伽黎亞派與我們仍是對立關係。<hex:02100103>我實在無法說服自己哀悼叛徒們的靈魂。
-87,TEXT_AKTKBA231_04111_Q2_000_000,要說什麼？
-88,TEXT_AKTKBA231_04111_A2_000_001,追悼儀式的目的不在於哀悼叛徒的靈魂
-89,TEXT_AKTKBA231_04111_A2_000_002,也許你可以看看信上關於白羽會的部分
-90,TEXT_AKTKBA231_04111_SARISHA_000_045,嘶——好吧，我先看看這封請柬。
-91,TEXT_AKTKBA231_04111_SARISHA_000_046,……
-92,TEXT_AKTKBA231_04111_SARISHA_100_046,嘶——為了從帝國手中獲得自由，我們付出了很大的代價。<hex:02100103>有太多的犧牲，太多的死亡……還有太多人失去了自己的靈魂。<hex:02100103>這片土地上灑落的鮮血確實太多了。
-93,TEXT_AKTKBA231_04111_SARISHA_110_046,阿難陀族已經見識過了。<hex:02100103>失去愛女的瘋狂會造成怎樣的慘劇，你我都已經很清楚了。<hex:02100103>我不會原諒他們，但我可以贊同你們。
-94,TEXT_AKTKBA231_04111_SARISHA_000_047,嘶——之前的拒絕是我唐突了，<hex:02100103>阿難陀族毗羅派支持舉辦追悼儀式。<hex:02100103>只求戰爭造成的悲劇不要再蔓延，一切為了孩子們的明天……
-95,TEXT_AKTKBA231_04111_SARISHA_000_048,舉辦儀式，放下過去，這讓我也有了期待，<hex:02100103>期待有一天與伽黎亞派不再對立，族人們能重歸於好。<hex:02100103>總之，感謝你特地來這裡跑一趟。
-96,TEXT_AKTKBA231_04111_SARISHA_000_049,我會代表毗羅派參加說明會。<hex:02100103>也替我謝謝這位名叫阿雷恩瓦爾德的青年吧，<hex:02100103>我能從信裡感受到他的真誠和懇切。
-97,TEXT_AKTKBA231_04111_SARISHA_000_050,我會代表毗羅派參加說明會。<hex:02100103>也替我謝謝這位名叫阿雷恩瓦爾德的青年吧，<hex:02100103>我能從信裡感受到他的真誠和懇切。
-98,TEXT_AKTKBA231_04111_ARENVALD_000_051,<hex:022903EB0203>，你回來了！<hex:02100103>邊區那兩位代表人怎麼說？
-99,TEXT_AKTKBA231_04111_ARENVALD_000_052,梅氏和毗羅族的代表都托你謝謝我？<hex:02100103>這怎麼好意思……我只是做了點力所能及的小事而已。
-100,TEXT_AKTKBA231_04111_ARENVALD_000_053,不過，他們二位能同意參加追悼儀式真是太好了。<hex:02100103><hex:022903EB0203>，一定是因為大家都尊敬你，才願意聽你介紹。<hex:02100103>這次真是多虧了有你在，謝謝你！
-101,TEXT_AKTKBA231_04111_ARENVALD_000_054,其實我知道，不管以怎樣的名義，都無法洗清過去的罪過。<hex:02100103>但娜娜莫陛下告訴我，要設身處地站在對方的立場上思考。<hex:02100103>我就想到，除了對帝國的恨，大家對未來的期待應該也是一樣的。
-102,TEXT_AKTKBA231_04111_ARENVALD_000_055,抱歉，我說的太誇張了。<hex:02100103>其實我就是想為別人多做一些事，努力成為一個不同類型的英雄。<hex:02100103>能幫助阿拉米格消解隔閡，對我來說也是很大的進步……
-103,TEXT_AKTKBA231_04111_ARENVALD_000_056,那麼，現在的情況是受邀的代表們不管支持與否，<hex:02100103>姑且都答應了參加追悼儀式說明會。<hex:02100103>可以的話，我們希望你到時也能在場。
-104,TEXT_AKTKBA231_04111_ARENVALD_000_057,我已經知會過解放軍的嚮導，進入會場之前和她說一聲就好。<hex:02100103>你先過去吧，我要在這裡等拉加恩弗里德。<hex:02100103>我們一會兒見。
-105,TEXT_AKTKBA231_04111_ARENVALD_000_058,我已經知會過解放軍的嚮導，進入會場之前和她說一聲就好。<hex:02100103>你先過去吧，我要在這裡等拉加恩弗里德。<hex:02100103>我們一會兒見。
-106,TEXT_AKTKBA231_04111_GUARDS04111_000_060,追悼儀式說明會即將開始，要前往會場嗎？
-107,TEXT_AKTKBA231_04111_SYSTEM_000_060,要前往阿拉米格王宮嗎？
-108,TEXT_AKTKBA231_04111_RAGANFRID_000_080,我知道大家心中對舉辦追悼儀式心有不滿。<hex:02100103>這點我很能理解，因為我的家人也死於骷髏連隊手中……
-109,TEXT_AKTKBA231_04111_RAGANFRID_000_081,但解放戰爭已經過去，他們也都是阿拉米格人。<hex:02100103>大家也都知道，現在世界各地都為偽神獸而……
-110,TEXT_AKTKBA231_04111_TIBOST_000_082,骷髏連隊的人殺害了那麼多同胞！
-111,TEXT_AKTKBA231_04111_MRAHZNUNH_000_083,但是，骷髏連隊的隊長芙朵拉之前還在阿拉米格王宮救過我們，<hex:02100103>我們這也算是欠了她一條命了。
-112,TEXT_AKTKBA231_04111_STARKWOAD_000_084,一碼事歸一碼事，別岔開話題！
-113,TEXT_AKTKBA231_04111_RAUBAHN_000_085,各位能否先聽聽我的想法。
-114,TEXT_AKTKBA231_04111_RAUBAHN_000_086,舉辦追悼儀式的目的並非讓各位寬恕骷髏連隊的人，<hex:02100103>而是我們作為阿拉米格人——作為同樣的人類必須面對的問題。
-115,TEXT_AKTKBA231_04111_RAUBAHN_000_087,各位生活在社會之中也承擔著各種各樣的職責。<hex:02100103>想必在座各位尤其清楚責任二字的份量。
-116,TEXT_AKTKBA231_04111_RAUBAHN_000_088,為了家人，為了榮譽……我們肩負著很多責任。<hex:02100103>我們的家人朋友、同胞國人在過去的這些年裡遭遇了很多的不幸。<hex:02100103>帝國的侵略對我們造成了諸多磨難，考驗著我們肩負的責任。
-117,TEXT_AKTKBA231_04111_RAUBAHN_000_089,這些年裡，有人背井離鄉，有人則奮起反抗，有人忍辱負重，<hex:02100103>也有人卑躬屈膝……但我們勝利了，不用再受帝國的苦了。<hex:02100103>於是落在我們肩上的責任也有了變化。
-118,TEXT_AKTKBA231_04111_RAUBAHN_000_090,現在，我們的責任是面對末日野獸的危機。<hex:02100103>阿拉米格已從帝國的壓迫下解放了，此時的我們應該團結所有同胞，<hex:02100103>懷揣對國家的希望一同走下去。
-119,TEXT_AKTKBA231_04111_ARENVALD_000_091,阿拉米格的子民為了這來之不易的自由，已經流了太多的血。<hex:02100103>我們不能讓這些血白流，活下來的阿拉米格人需要邁向明天。
-120,TEXT_AKTKBA231_04111_ARENVALD_000_092,所以，看在同胞們的明天的份上……請給他們一個機會吧。
-121,TEXT_AKTKBA231_04111_ARENVALD_000_093,這些還活著的人也是和我們生活在同一片大地上的阿拉米格人，<hex:02100103>請給他們一個機會放下苦難，回到同胞中來吧。
-122,TEXT_AKTKBA231_04111_ARENVALD_000_094,我知道各位也都有一言難盡的過去，<hex:02100103>也並非想讓大家忘記對帝國的恨。<hex:02100103>但此時此刻，能否借我們一臂之力？
-123,TEXT_AKTKBA231_04111_ARENVALD_000_095,我想和大家一起改變現狀，讓阿拉米格變得更好！
-124,TEXT_AKTKBA231_04111_RAUBAHN_000_100,我也要謝謝你，邀請代表們前來參加說明會。
-125,TEXT_AKTKBA231_04111_RAUBAHN_000_101,阿雷恩瓦爾德的話引起了在場不少人的思考，<hex:02100103>有不少人都改變看法，同意了舉辦追悼儀式一事。
-126,TEXT_AKTKBA231_04111_RAUBAHN_000_102,能舉辦這場追悼儀式是我們最終的目標，<hex:02100103>希望人們能通過儀式感受到我們的意志，<hex:02100103>以此為遺屬們投下希望之光。
-127,TEXT_AKTKBA231_04111_RAUBAHN_000_103,還有……我聽說你們前些日子在阿拉加納遇到了一對母女，<hex:02100103>她們好像想和芙朵拉見面道謝。
-128,TEXT_AKTKBA231_04111_RAUBAHN_000_104,這個國家確實正在朝好的方向前進。<hex:02100103>我無力改變所有人的想法，但討伐偽神獸一事是我的責任……<hex:02100103>如果有什麼消息，我會再聯繫你。
-129,TEXT_AKTKBA231_04111_LIVERATIONARMY_000_105,來了好多代表啊！我感覺有點緊張……
+0,"TEXT_AKTKBA231_04111_SEQ_00","Arenvald wishes to put your considerable reputation to good use."
+1,"TEXT_AKTKBA231_04111_SEQ_01","The blasphemy hunter informs you that Arenvald's preparations for the memorial ceremony proceed apace. You have been called to assist in the delivery of invitations to an explanatory meeting, despite you being somewhat overqualified for such an endeavor."
+2,"TEXT_AKTKBA231_04111_SEQ_02","Arenvald has delivered most of the aforementioned invitations, leaving only M'rahz Nunh and Sarisha, leaders of communities located in the Fringes with whom you are acquainted. Although there is a strong chance they will refuse to attend a ceremony that involves mourning the deaths of Ala Mhigans branded traitors, Arenvald believes your presence might tip the scales. In addition to the basic details of the invitations themselves, he has also provided a brief but heartfelt treatise. Even should his offer be declined, the invitees will at least comprehend his reasons for hosting the event."
+3,"TEXT_AKTKBA231_04111_SEQ_03","M'rahz Nunh and Sarisha both have serious reservations regarding the ceremony, and initially had their minds set on refusing the invitation. However, upon reading Arenvald's letter, they reconsider the proposal, and finally agree to attend. In addition, each states their eagerness to meet the author of the letter, which appears to have had a profound effect on them."
+4,"TEXT_AKTKBA231_04111_SEQ_04","Arenvald is delighted to hear that you have succeeded in persuading the two village leaders to join the explanatory meeting. With most of the preparations in order, he asks that you go on ahead to the Royal Palace and wait for the other guests to arrive."
+5,"TEXT_AKTKBA231_04111_SEQ_05","Now that delegates from each of the Ala Mhigan communities have arrived in the Royal Palace, Raganfrid opens the proceedings. Several guests are quick to voice their objections to the memorial ceremony, and for a few moments, it seems that the differences of opinion may be irreconcilable after all. Raubahn cuts through the din of bickering voices to state his intent, which goes some way to easing the tension in the room, though a few remain unconvinced. It is then that Arenvald takes the floor, delivering an impassioned speech which seems to have won over the naysayers. The discussion then turns from the “why” of the ceremony to the “how” as they set about deciding the finer details of the event."
+6,"TEXT_AKTKBA231_04111_SEQ_06","Raubahn is heartened by the outcome of the meeting, and is cautiously optimistic that Arenvald will make a success of the memorial ceremony. He also explains that Fordola's presence has been requested in Ala Gannha, where she is to meet the girl she had previously saved, and the child's mother.<hex:02100103><hex:02100103>※The next role quest will be available from the blasphemy hunter upon reaching level 89 in any healer class."
+7,"TEXT_AKTKBA231_04111_SEQ_07",""
+8,"TEXT_AKTKBA231_04111_SEQ_08",""
+9,"TEXT_AKTKBA231_04111_SEQ_09",""
+10,"TEXT_AKTKBA231_04111_SEQ_10",""
+11,"TEXT_AKTKBA231_04111_SEQ_11",""
+12,"TEXT_AKTKBA231_04111_SEQ_12",""
+13,"TEXT_AKTKBA231_04111_SEQ_13",""
+14,"TEXT_AKTKBA231_04111_SEQ_14",""
+15,"TEXT_AKTKBA231_04111_SEQ_15",""
+16,"TEXT_AKTKBA231_04111_SEQ_16",""
+17,"TEXT_AKTKBA231_04111_SEQ_17",""
+18,"TEXT_AKTKBA231_04111_SEQ_18",""
+19,"TEXT_AKTKBA231_04111_SEQ_19",""
+20,"TEXT_AKTKBA231_04111_SEQ_20",""
+21,"TEXT_AKTKBA231_04111_SEQ_21",""
+22,"TEXT_AKTKBA231_04111_SEQ_22",""
+23,"TEXT_AKTKBA231_04111_SEQ_23",""
+24,"TEXT_AKTKBA231_04111_TODO_00","Speak with Arenvald."
+25,"TEXT_AKTKBA231_04111_TODO_01","Deliver an invitation to M'rahz Nunh in the Peering Stones."
+26,"TEXT_AKTKBA231_04111_TODO_02","Deliver an invitation to Sarisha in Vira Nilya."
+27,"TEXT_AKTKBA231_04111_TODO_03","Speak with Arenvald in the Ala Mhigan Quarter."
+28,"TEXT_AKTKBA231_04111_TODO_04","Speak with the Royal Palace guard."
+29,"TEXT_AKTKBA231_04111_TODO_05","Speak with Raubahn."
+30,"TEXT_AKTKBA231_04111_TODO_06",""
+31,"TEXT_AKTKBA231_04111_TODO_07",""
+32,"TEXT_AKTKBA231_04111_TODO_08",""
+33,"TEXT_AKTKBA231_04111_TODO_09",""
+34,"TEXT_AKTKBA231_04111_TODO_10",""
+35,"TEXT_AKTKBA231_04111_TODO_11",""
+36,"TEXT_AKTKBA231_04111_TODO_12",""
+37,"TEXT_AKTKBA231_04111_TODO_13",""
+38,"TEXT_AKTKBA231_04111_TODO_14",""
+39,"TEXT_AKTKBA231_04111_TODO_15",""
+40,"TEXT_AKTKBA231_04111_TODO_16",""
+41,"TEXT_AKTKBA231_04111_TODO_17",""
+42,"TEXT_AKTKBA231_04111_TODO_18",""
+43,"TEXT_AKTKBA231_04111_TODO_19",""
+44,"TEXT_AKTKBA231_04111_TODO_20",""
+45,"TEXT_AKTKBA231_04111_TODO_21",""
+46,"TEXT_AKTKBA231_04111_TODO_22",""
+47,"TEXT_AKTKBA231_04111_TODO_23",""
+48,"TEXT_AKTKBA231_04111_LIVERATIONARMY_000_000","There you are, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Commander Aldynn has asked me to convey to you the following information."
+49,"TEXT_AKTKBA231_04111_LIVERATIONARMY_000_001","At present, we are looking into reports of missing relatives of the Crania Lupi. With the cooperation of the Silver Griffins, we're currently searching for any clues as to their whereabouts."
+50,"TEXT_AKTKBA231_04111_LIVERATIONARMY_000_002","Thanks to the concerted efforts of Raganfrid and the others, the general public has been willing to cooperate with our investigation. Though many still harbor feelings of distrust for the collaborators and their kin, they've grown more receptive to our cause on the whole."
+51,"TEXT_AKTKBA231_04111_LIVERATIONARMY_000_003","Arenvald's been making steady progress in preparing for the memorial ceremony. He plans to host a meeting between the various community leaders to go over the finer details."
+52,"TEXT_AKTKBA231_04111_LIVERATIONARMY_000_004","In fact, he was wondering whether you could assist in delivering the invitations. If you can spare the time, you should be able to find him in the mercantile district."
+53,"TEXT_AKTKBA231_04111_LIVERATIONARMY_000_005","Anyway, that's all for now. I've a few other matters to attend to, so if you'll excuse me, duty calls!"
+54,"TEXT_AKTKBA231_04111_ARENVALD_000_010","Thanks for coming. It should come as no surprise that planning a memorial ceremony for a whole bloody nation would keep a man busy, but by Rhalgr, this is something else!"
+55,"TEXT_AKTKBA231_04111_ARENVALD_000_011","The hardest part's been gathering information on those who died in the war, especially when it comes to the Skulls and other conscripts. And they're the ones we need to treat most carefully."
+56,"TEXT_AKTKBA231_04111_ARENVALD_100_012","If we don't acknowledge the crimes of our kin in all their painful truth, then we do a disservice to their victims living and dead. But if we let people paint them as monsters who did monstrous things─things we believe we would never do─then we perpetuate a different but no less dangerous lie."
+57,"TEXT_AKTKBA231_04111_ARENVALD_000_012","As for preparing the event itself, I'll be holding a meeting with members from each of the settlements around Gyr Abania. I've sent invitations to most of them already, but I was hoping you'd help me with the last two."
+58,"TEXT_AKTKBA231_04111_ARENVALD_000_013","There's M'rahz Nunh in the Peering Stones and Sarisha in Vira Nilya. I'll give you one for each."
+59,"TEXT_AKTKBA231_04111_ARENVALD_000_014","To be honest, I wouldn't be surprised if they refused, considering how their people suffered at the hands of the Skulls. But I hope we can remind them that deep down, we're all just people trying to survive, to protect our loved ones."
+60,"TEXT_AKTKBA231_04111_ARENVALD_000_015","We may have driven the Empire from our lands, but as long as we hold fast to the grudges born of their attempts to divide and set us against one another, we'll never be free of their legacy of cruelty."
+61,"TEXT_AKTKBA231_04111_ARENVALD_000_016","With that in mind, I've included an account of my experiences with the Silver Griffins and the people I've met. Victims, collaborators, their friends and their family─men and women who lived through it all. Survivors."
+62,"TEXT_AKTKBA231_04111_ARENVALD_000_017","Even if they refuse to join the ceremony, at least they will know─and hopefully understand─our reasons for holding the event."
+63,"TEXT_AKTKBA231_04111_ARENVALD_000_018","Granted, I've not had much practice in writing important letters, but I think they'll get the message. You being the one to deliver them will make a world of difference, I'm sure. Take care, won't you?"
+64,"TEXT_AKTKBA231_04111_ARENVALD_000_019","If M'rahz Nunh and Sarisha end up refusing the invitation, it'll be no fault of yours. At the very least, you'll have a chance to hear their thoughts on the matter."
+65,"TEXT_AKTKBA231_04111_MHAHTOA_100_019","Ah, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. What a rare treat this is. Had I known you were coming, I would've prepared a feast!"
+66,"TEXT_AKTKBA231_04111_MRAHZNUNH_000_020","Greetings, friend. It has been too long since last we spoke. What brings you to my village?"
+67,"TEXT_AKTKBA231_04111_MRAHZNUNH_000_021","So the rumors are true... I need not read this letter in full to know its contents."
+68,"TEXT_AKTKBA231_04111_MRAHZNUNH_000_022","I understand that Raganfrid's volunteers are working to support the families of those lost in the war, which few will deny is a worthy cause. But to include the relatives of the Crania Lupi?"
+69,"TEXT_AKTKBA231_04111_MRAHZNUNH_000_023","The Skulls watched the Empire slay us in our thousands and <hex:021A020203>still<hex:021A020103> they turned their cloaks and fought for our oppressors. And you would ask us to mourn the deaths of these curs alongside their victims?"
+70,"TEXT_AKTKBA231_04111_Q1_000_000","What will you say?"
+71,"TEXT_AKTKBA231_04111_A1_000_001","I ask only that you read the rest of the letter."
+72,"TEXT_AKTKBA231_04111_A1_000_002","You have every right to be angry and to refuse. Arenvald wishes only that you read his account before coming to a decision."
+73,"TEXT_AKTKBA231_04111_MRAHZNUNH_000_024","...To dismiss it out of hand would be discourteous. Very well."
+74,"TEXT_AKTKBA231_04111_MRAHZNUNH_000_025","...Family."
+75,"TEXT_AKTKBA231_04111_MRAHZNUNH_000_026","As nunh, my tribe <hex:021A020203>is<hex:021A020103> my family, and I know all too well the responsibility that brings. I would do anything to protect them. <hex:021A020203>Anything<hex:021A020103>."
+76,"TEXT_AKTKBA231_04111_MRAHZNUNH_000_027","Loyalty, pride...conscience. My very soul. All are meaningless if I cannot ensure the safety of those I love. I suspected some Skulls had been faced with the selfsame choice, but to see how their kin suffered, I...I cannot say I do not understand. Though I wish that I did not."
+77,"TEXT_AKTKBA231_04111_MRAHZNUNH_000_028","Their crimes will <hex:021A020203>never<hex:021A020103> be forgiven. They cannot be. But I, and any others who are willing, can offer our prayers for these tortured souls and the men they could have been."
+78,"TEXT_AKTKBA231_04111_MRAHZNUNH_000_029","I accept the invitation. Not on behalf of the M tribe, but as M'rahz Nunh─though I will put the question to my people that they may decide for themselves."
+79,"TEXT_AKTKBA231_04111_MRAHZNUNH_000_030","I am also eager to make the acquaintance of the person who wrote this letter. He is not wont to turn a blind eye to the bitter truth─painful though it is to confront. The meeting will be the perfect opportunity to take his measure."
+80,"TEXT_AKTKBA231_04111_MRAHZNUNH_000_031","I will convey your friend's intent to the rest of the tribe before attending the memorial ceremony. Those who cannot support it will not interfere. You have my word."
+81,"TEXT_AKTKBA231_04111_MHAHTOA_000_032","With all the recent trouble, the towns and villages we once thought safe are fraught with danger. Please, keep your senses keen wherever you go."
+82,"TEXT_AKTKBA231_04111_SARISHA_000_040","Welcome. To what do we owe the pleasure of your visit?"
+83,"TEXT_AKTKBA231_04111_SARISHA_000_041","Then it is as I sssuspected..."
+84,"TEXT_AKTKBA231_04111_SARISHA_000_042","There have been rumors that sssuch a ceremony would take place. Although you have traveled far to make this invitation, I must decline. We cannot mourn the loss of the fallen if the Crania Lupi are to be counted among them."
+85,"TEXT_AKTKBA231_04111_SARISHA_000_043","Like the Qalyana, they chose to aid the Garlean oppresssors, killing and bleeding for those who would pillage our lands. Cowards and traitors all."
+86,"TEXT_AKTKBA231_04111_SARISHA_000_044","And are we to asssume that Qalyana who died fighting for the Empire will be honored as well? If so, that is all the more reason for usss to refuse."
+87,"TEXT_AKTKBA231_04111_Q2_000_000","What will you say?"
+88,"TEXT_AKTKBA231_04111_A2_000_001","That is your right, and no one will say otherwise. I come only to present a letter and ask that you read it in full."
+89,"TEXT_AKTKBA231_04111_A2_000_002","Arenvald understands and accepts that you might refuse. His only request was that you read his account and then decide."
+90,"TEXT_AKTKBA231_04111_SARISHA_000_045","If you insssist..."
+91,"TEXT_AKTKBA231_04111_SARISHA_000_046","..."
+92,"TEXT_AKTKBA231_04111_SARISHA_100_046","No one was spared suffering in the occupation. Not the Resistance, not the collaborators, not the families of both─no one."
+93,"TEXT_AKTKBA231_04111_SARISHA_110_046","That so many would die in shame and ignominy, having sssold their sssouls only to lose everything...is a tragedy. And a lesson."
+94,"TEXT_AKTKBA231_04111_SARISHA_000_047","If they are forgotten, then the lessson of their folly is forgotten. For the sssake of this land we call home, I will join you in remembrance, and implore my people to do the same."
+95,"TEXT_AKTKBA231_04111_SARISHA_000_048","In mourning may we strengthen our ties with our neighbors as well. By together facing our past we can build a foundation for lasting peace and prosssperity."
+96,"TEXT_AKTKBA231_04111_SARISHA_000_049","It would be my honor to attend the proposed meeting, and I look forward to persssonally thanking your friend Arenvald for his dedication. I and my peers have much to learn from the example he has set."
+97,"TEXT_AKTKBA231_04111_SARISHA_000_050","Would I be correct in guessing your friend does not often ssscribe such letters? I could not help but notice he had foregone the usual platitudes and fanciful phrasing. His directnesss was most refreshing."
+98,"TEXT_AKTKBA231_04111_ARENVALD_000_051","So, how did you fare in the Fringes?"
+99,"TEXT_AKTKBA231_04111_ARENVALD_000_052","They said that about <hex:021A020203>me<hex:021A020103>!? It's rare for me to get such glowing praise, especially from renowned leaders like Sarisha and M'rahz Nunh!"
+100,"TEXT_AKTKBA231_04111_ARENVALD_000_053","More importantly, though, they agreed to attend the meeting, and I've got you to thank for that. After all, I imagine it's hard to turn down an invitation when it's hand-delivered by the Warrior of Light <hex:020815E905FF08>herself<hex:FF08>himself<hex:03>!"
+101,"TEXT_AKTKBA231_04111_ARENVALD_000_054","Before I get ahead of myself, though, I must remember that this is only the beginning. Bringing everyone together is one thing. Coming to an agreement on an extremely divisive issue is a different kettle of fish entirely, as Her Grace was quick to point out."
+102,"TEXT_AKTKBA231_04111_ARENVALD_000_055","But as she's taught me, if our cause is just and our hearts are true, those of like mind will surely answer the call."
+103,"TEXT_AKTKBA231_04111_ARENVALD_000_056","And answer it they have. While there are bound to be differences of opinion, I'm sure there's nothing we can't overcome if we put our minds to it."
+104,"TEXT_AKTKBA231_04111_ARENVALD_000_057","To that end, I was hoping you could join us, if you've the time to spare. There are still a few loose ends Raganfrid and I need to tie up beforehand, so we'll meet you in the palace as soon as we can. Just having you there will make a world of difference!"
+105,"TEXT_AKTKBA231_04111_ARENVALD_000_058","Once we've got everything in order, Raganfrid and I will meet you in the palace."
+106,"TEXT_AKTKBA231_04111_GUARDS04111_000_060","Here for the meeting, yes?"
+107,"TEXT_AKTKBA231_04111_SYSTEM_000_060","Enter the Royal Palace?"
+108,"TEXT_AKTKBA231_04111_RAGANFRID_000_080","...So while we all agree upon the importance of the ceremony, we recognize that the inclusion of the Crania Lupi will be distressing for many. I too lost family at their hands, and I would never ask others to forgive and forget."
+109,"TEXT_AKTKBA231_04111_RAGANFRID_000_081","But for all their crimes, they were Ala Mhigans, just like us. None made the decision to side with Garlemald lightly."
+110,"TEXT_AKTKBA231_04111_TIBOST_000_082","They had a choice, and they <hex:021A020203>chose<hex:021A020103> to betray us!"
+111,"TEXT_AKTKBA231_04111_MRAHZNUNH_000_083","Who among us have not made difficult choices for kith and kin? And do not forget that Fordola chose to stand between us and a primal."
+112,"TEXT_AKTKBA231_04111_STARKWOAD_000_084","What does that have to do with it!?"
+113,"TEXT_AKTKBA231_04111_RAUBAHN_000_085","Brothers and sisters. Arguing will avail us naught."
+114,"TEXT_AKTKBA231_04111_RAUBAHN_000_086","The fate of Ala Mhigo rests on my shoulders and yours. On those of every man, woman, and child that calls these lands home."
+115,"TEXT_AKTKBA231_04111_RAUBAHN_000_087","To uphold our honor. To strive for prosperity. To protect our loved ones. We all know the weight of these responsibilities. 'Twas that selfsame weight which drove many of our people to serve our oppressors, misguided as it was."
+116,"TEXT_AKTKBA231_04111_RAUBAHN_000_088","And though they chose a different, unconscionable path, in the end, we all wanted the same thing. To deliver our families from persecution, that they might live to see one more day. Because another day in shame and self-hatred was still better than none at all."
+117,"TEXT_AKTKBA231_04111_RAUBAHN_000_089","The regretful dead are survived by their despair─a despair which threatens to drag us all into an abyss from where there is no escape. Know that it surely will if we welcome it into our hearts out of disdain for those we cannot forgive."
+118,"TEXT_AKTKBA231_04111_RAUBAHN_000_090","But we Ala Mhigans will not be so easily defeated. We will stand united and conquer this menace!"
+119,"TEXT_AKTKBA231_04111_ARENVALD_000_091","Every Ala Mhigan who fought and died did so in the hopes that one day, we would be free."
+120,"TEXT_AKTKBA231_04111_ARENVALD_000_092","And we are free. We are free. By the blood of our fallen brothers and sisters, we are free."
+121,"TEXT_AKTKBA231_04111_ARENVALD_000_093","Free to lock away the pain and pretend it has no power over us, until it festers and takes us in our beds... And free to lay it bare and let it breathe. To acknowledge and to mourn our people at their best...and their worst."
+122,"TEXT_AKTKBA231_04111_ARENVALD_000_094","The past is ours to bear─all of it. For ourselves, and for future generations, so that they needn't suffer like we did."
+123,"TEXT_AKTKBA231_04111_ARENVALD_000_095","Let us make Ala Mhigo a nation where no man is left behind. Where he can make all the wrong choices, and still be afforded the chance to make a right one."
+124,"TEXT_AKTKBA231_04111_RAUBAHN_000_100","That went better than any of us could've hoped for. You have my gratitude for your part in the proceedings, but we both know who the real hero of the day was."
+125,"TEXT_AKTKBA231_04111_RAUBAHN_000_101","This was all Arenvald's idea, and it was his words that finally won over the naysayers. Now that we have the community leaders on our side, we should have a much easier time convincing the rest of the citizenry."
+126,"TEXT_AKTKBA231_04111_RAUBAHN_000_102","Of course, holding the ceremony is by no means our final objective. No matter what we say, some will refuse to attend. It is my hope, however, that it will still serve to provide a measure of closure for us all, and to ease the plight of the vulnerable and ostracized."
+127,"TEXT_AKTKBA231_04111_RAUBAHN_000_103","Speaking of which... You will recall the incident with Fordola in Ala Gannha. The young girl she saved and her mother wished to thank her personally. Considering what happened last time, though, I have reservations..."
+128,"TEXT_AKTKBA231_04111_RAUBAHN_000_104","It would be a valuable opportunity to present a former Skull in a more positive light. On the other hand, I don't need to tell you how unpredictable she can be─and that's before taking her Echo into consideration. But that's a conversation for another day. Go and get some rest. You've earned it."
+129,"TEXT_AKTKBA231_04111_LIVERATIONARMY_000_105","We see a lot of important people coming and going around here. Even though I should be used to it by now, I can't help feeling nervous!"

@@ -2,89 +2,89 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_JOBSMN450_01094_SEQ_00,碧企鵝瀑布的雅·蜜特拉有話要對冒險者說。
-1,TEXT_JOBSMN450_01094_SEQ_01,接受了碧企鵝瀑布的雅·蜜特拉的委託。前往摩杜納的聖寇伊納克調查地，和拉姆布魯斯談談。
-2,TEXT_JOBSMN450_01094_SEQ_02,和拉姆布魯斯進行了交談。在摩杜納的聖寇伊納克調查地附近，和苦惱的調查員談談，並打倒出現的鏡騎士。
-3,TEXT_JOBSMN450_01094_SEQ_03,和苦惱的調查員進行了交談，並打倒了鏡騎士。在摩杜納的聖寇伊納克調查地，和苦惱的調查員談談，並獲取召喚師裝束。
-4,TEXT_JOBSMN450_01094_SEQ_04,和苦惱的調查員進行了交談，並獲得了召喚師裝束。在摩杜納的聖寇伊納克調查地附近，和膽怯的調查員談談，並打倒出現的鏡騎士。
-5,TEXT_JOBSMN450_01094_SEQ_05,和膽怯的調查員進行了交談，並打倒了鏡騎士。在摩杜納的聖寇伊納克調查地，和膽怯的調查員談談，並獲取召喚師裝束。
-6,TEXT_JOBSMN450_01094_SEQ_06,和膽怯的調查員進行了交談，並獲得了召喚師裝束。在摩杜納的聖寇伊納克調查地附近，和故作冷靜的調查員談談，並打倒出現的鏡騎士。
-7,TEXT_JOBSMN450_01094_SEQ_07,和故作冷靜的調查員進行了交談，並打倒了鏡騎士。在摩杜納的聖寇伊納克調查地，和故作冷靜的調查員談談，並獲取召喚師裝束。
-8,TEXT_JOBSMN450_01094_SEQ_08,和故作冷靜的調查員進行了交談，並獲得了召喚師裝束。前往摩杜納的聖寇伊納克調查地，和拉姆布魯斯談談，並獲取召喚師裝束。
-9,TEXT_JOBSMN450_01094_SEQ_09,和拉姆布魯斯進行了交談，並獲得了召喚師裝束。向格里達尼亞碧企鵝瀑布的雅·蜜特拉報告。
-10,TEXT_JOBSMN450_01094_SEQ_10,向雅·蜜特拉報告完畢。雅·蜜特拉要求冒險者下次挑戰風之苦修，獲取召喚獸迦樓羅之靈。在雅·蜜特拉做好準備之前，冒險者要討伐蠻神迦樓羅，作為一名召喚師繼續積累經驗。<hex:02100103><hex:02100103>※討伐蠻神迦樓羅後，可以從雅·蜜特拉那裡領取下一個召喚師任務。
-11,TEXT_JOBSMN450_01094_SEQ_11,
-12,TEXT_JOBSMN450_01094_SEQ_12,
-13,TEXT_JOBSMN450_01094_SEQ_13,
-14,TEXT_JOBSMN450_01094_SEQ_14,
-15,TEXT_JOBSMN450_01094_SEQ_15,
-16,TEXT_JOBSMN450_01094_SEQ_16,
-17,TEXT_JOBSMN450_01094_SEQ_17,
-18,TEXT_JOBSMN450_01094_SEQ_18,
-19,TEXT_JOBSMN450_01094_SEQ_19,
-20,TEXT_JOBSMN450_01094_SEQ_20,
-21,TEXT_JOBSMN450_01094_SEQ_21,
-22,TEXT_JOBSMN450_01094_SEQ_22,
-23,TEXT_JOBSMN450_01094_SEQ_23,
-24,TEXT_JOBSMN450_01094_TODO_00,和摩杜納聖寇伊納克調查地的拉姆布魯斯對話
-25,TEXT_JOBSMN450_01094_TODO_01,和苦惱的調查員進行對話 並打倒鏡騎士
-26,TEXT_JOBSMN450_01094_TODO_02,和苦惱的調查員進行對話 並獲取召喚師裝束
-27,TEXT_JOBSMN450_01094_TODO_03,和膽怯的調查員進行對話 並打倒鏡騎士
-28,TEXT_JOBSMN450_01094_TODO_04,和膽怯的調查員進行對話 並獲取召喚師裝束
-29,TEXT_JOBSMN450_01094_TODO_05,和故作冷靜的調查員進行對話 並打倒鏡騎士
-30,TEXT_JOBSMN450_01094_TODO_06,和故作冷靜的調查員進行對話 並獲取召喚師裝束
-31,TEXT_JOBSMN450_01094_TODO_07,和拉姆布魯斯對話 並獲取召喚師裝束
-32,TEXT_JOBSMN450_01094_TODO_08,向格里達尼亞碧企鵝瀑布的雅·蜜特拉報告
-33,TEXT_JOBSMN450_01094_TODO_09,
-34,TEXT_JOBSMN450_01094_TODO_10,
-35,TEXT_JOBSMN450_01094_TODO_11,
-36,TEXT_JOBSMN450_01094_TODO_12,
-37,TEXT_JOBSMN450_01094_TODO_13,
-38,TEXT_JOBSMN450_01094_TODO_14,
-39,TEXT_JOBSMN450_01094_TODO_15,
-40,TEXT_JOBSMN450_01094_TODO_16,
-41,TEXT_JOBSMN450_01094_TODO_17,
-42,TEXT_JOBSMN450_01094_TODO_18,
-43,TEXT_JOBSMN450_01094_TODO_19,
-44,TEXT_JOBSMN450_01094_TODO_20,
-45,TEXT_JOBSMN450_01094_TODO_21,
-46,TEXT_JOBSMN450_01094_TODO_22,
-47,TEXT_JOBSMN450_01094_TODO_23,
-48,TEXT_JOBSMN450_01094_YMHITRA_000_000,現在還沒弄清特里斯坦的目的……<hex:02100103>但從他的做事手法上可以看出他十分狡詐，<hex:02100103>而且性格卑劣不擇手段。
-49,TEXT_JOBSMN450_01094_YMHITRA_000_001,現在我們處於被動態勢。<hex:02100103>就這麼正面直擊追查他的話，<hex:02100103>恐怕效果甚微。
-50,TEXT_JOBSMN450_01094_YMHITRA_000_002,不過……我們手上有他想要的某個東西。<hex:02100103>所以一定會有和他直面的機會。
-51,TEXT_JOBSMN450_01094_YMHITRA_000_003,因此我們要做好準備。<hex:02100103>為了應對終將到來的決鬥，<hex:02100103>你現在需要獲得新的力量。
-52,TEXT_JOBSMN450_01094_YMHITRA_000_004,幸運的是目前正好有方法。<hex:02100103>聖寇伊納克財團正對摩杜納的遺跡進行調查，<hex:02100103>據說遺跡中發現了召喚師裝束。
-53,TEXT_JOBSMN450_01094_YMHITRA_000_005,那是在古代亞拉戈帝國時期，<hex:02100103>專門為召喚師製作的裝束……<hex:02100103>其中所蘊含的力量絕對值得期待。
-54,TEXT_JOBSMN450_01094_YMHITRA_000_006,負責指揮調查的人叫拉姆布魯斯，他是我的朋友。<hex:02100103>我們就前往摩杜納的聖寇伊納克調查地，<hex:02100103>請求他把裝束轉送給我們吧。
-55,TEXT_JOBSMN450_01094_RAMMBROES_000_010,呀，正等著你呢，雅·蜜特拉。<hex:02100103>這位就是傳聞中的新生召喚師吧？
-56,TEXT_JOBSMN450_01094_YMHITRA_000_011,嗯，是的。拉姆布魯斯。<hex:02100103>之前你在摩杜納的調查中發現的東西，<hex:02100103>真的是召喚師裝束嗎？
-57,TEXT_JOBSMN450_01094_RAMMBROES_000_012,那當然了。<hex:02100103>這稱得上是歷史性的大發現啊！
-58,TEXT_JOBSMN450_01094_YMHITRA_000_013,是啊……那個，拉姆布魯斯。<hex:02100103>我這邊的情況之前也和你說過了吧？<hex:02100103>你能把那個裝束轉送給我們嗎？
-59,TEXT_JOBSMN450_01094_RAMMBROES_000_014,……嗯，這是為召喚師製作的裝束。<hex:02100103>把它交給召喚師使用，從學術方面來考慮，確實有魅力。
-60,TEXT_JOBSMN450_01094_RAMMBROES_000_015,不過，所發現的裝束是我們汗與淚的結晶。<hex:02100103>也不能讓你們坐享其成吧。
-61,TEXT_JOBSMN450_01094_RAMMBROES_000_016,……在摩杜納各處的考古地點，<hex:02100103>出現了一種名為鏡騎士的亞拉戈異形魔物。<hex:02100103>它們對調查員的安全產生了威脅。
-62,TEXT_JOBSMN450_01094_RAMMBROES_000_017,你去3處考古地點，和那些調查員談談，<hex:02100103>並幫助他們消滅棘手的鏡騎士。<hex:02100103>這樣的話，他們或許可以把各自發現的裝束轉送給你。
-63,TEXT_JOBSMN450_01094_RAMMBROES_000_018,等你消滅所有魔物之後，再回這裡找我。<hex:02100103>屆時我會將此處發現的裝束作為謝禮贈與你。
-64,TEXT_JOBSMN450_01094_SEEKER450A_000_020,那、那邊潛伏著鏡騎士。<hex:02100103>快消滅掉那些傢伙！
-65,TEXT_JOBSMN450_01094_SEEKER450A_000_021,謝謝你！<hex:02100103>最近經常發生這種事情呢……<hex:02100103>現在我們可以放心繼續調查了。
-66,TEXT_JOBSMN450_01094_SEEKER450A_000_022,對了，你是來找召喚師裝束的吧。<hex:02100103>那請你收下它吧。
-67,TEXT_JOBSMN450_01094_SEEKER450B_000_030,你就是拉姆布魯斯老爺說的那個冒險者吧？<hex:02100103>快幹掉那些傢伙吧！
-68,TEXT_JOBSMN450_01094_SEEKER450B_000_031,呼，嚇得我小心肝砰砰直跳。<hex:02100103>感謝你的幫助……欠你一個人情了呢。
-69,TEXT_JOBSMN450_01094_SEEKER450B_000_032,你把這個召喚師裝束拿去吧。<hex:02100103>我之前聽雅·蜜特拉說你需要這個。<hex:02100103>要善用它啊。
-70,TEXT_JOBSMN450_01094_SEEKER450C_000_040,嗯……出現了亞拉戈的合成獸呢。<hex:02100103>我在想那到底是什麼東西來著。
-71,TEXT_JOBSMN450_01094_SEEKER450C_000_041,嗯……確實很有意思啊。<hex:02100103>沒想到能在近距離觀察合成獸的戰鬥……
-72,TEXT_JOBSMN450_01094_SEEKER450C_000_042,有幸目睹了很好的研究材料啊。<hex:02100103>作為相應的回報，這個裝束就送給你吧。<hex:02100103>改天記得向我彙報下使用感想啊。
-73,TEXT_JOBSMN450_01094_RAMMBROES_000_050,你回來啦，<hex:022903EB0203>！<hex:02100103>呵呵，看來工作完成得相當出色啊。
-74,TEXT_JOBSMN450_01094_RAMMBROES_000_051,可以說你立了一大功啊。<hex:02100103>困擾調查員的鏡騎士已經消失了。<hex:02100103>托你的福，今後的考古工作可以順利進行了。
-75,TEXT_JOBSMN450_01094_RAMMBROES_000_052,按照約定，我會把持有的裝束轉送給你。<hex:02100103>收下吧，<hex:022903EB0203>。
-76,TEXT_JOBSMN450_01094_RAMMBROES_000_053,對了，雅·蜜特拉先回去了。<hex:02100103>她說會在老地方等你回去。
-77,TEXT_JOBSMN450_01094_YMHITRA_000_060,原來如此，這就是古代召喚師裝束麼。<hex:02100103>但可惜目前還沒有發現衣服。
-78,TEXT_JOBSMN450_01094_YMHITRA_000_061,不過……除了顏色外，<hex:02100103>其餘的都和那個特里斯坦所穿的裝束一樣呢。
-79,TEXT_JOBSMN450_01094_YMHITRA_000_062,裝備相同。<hex:02100103>那決定勝負的關鍵，就是召喚師自身的力量了！
-80,TEXT_JOBSMN450_01094_YMHITRA_000_063,<hex:022903EB0203>，你已經有討伐蠻神迦樓羅的經驗了。
-81,TEXT_JOBSMN450_01094_YMHITRA_000_064,那我們下次挑戰「風之苦修」吧。<hex:02100103>讓蠻神「迦樓羅」的力量為你所用！
-82,TEXT_JOBSMN450_01094_YMHITRA_000_065,我會去找適合進行風之苦修的場所。<hex:02100103>你先好好休養下，等做好充分的準備後，再來找我吧。
-83,TEXT_JOBSMN450_01094_YMHITRA_000_066,雖然我也想開始下一個苦修……<hex:02100103>但你目前還沒有資格挑戰。
-84,TEXT_JOBSMN450_01094_YMHITRA_000_067,蠻神迦樓羅騷擾著格里達尼亞……<hex:02100103>你必須將其討伐，並沐浴蠻神的乙太。<hex:02100103>這樣才有資格挑戰風之苦修。
-85,TEXT_JOBSMN450_01094_POP_MESSAGE,察覺到了敵人的氣息！
+0,"TEXT_JOBSMN450_01094_SEQ_00","Y'mhitra wishes to share with you her thoughts on dealing with Tristan."
+1,"TEXT_JOBSMN450_01094_SEQ_01","In order to prepare for the inevitable clash with the dark summoner, Y'mhitra suggests that you enhance your powers with the ancient Allagan garments unearthed in the ruins of Mor Dhona. Travel to Saint Coinach's Find and speak with Rammbroes."
+2,"TEXT_JOBSMN450_01094_SEQ_02","Rammbroes is sympathetic to your plight, but claims that you will have to aid his excavation team before they will consider surrendering their pieces of the evoker's attire. Speak first with the muddled researcher, and defeat the mirrorknight that is distracting the scholar from her tasks."
+3,"TEXT_JOBSMN450_01094_SEQ_03","You have defeated the distracting mirrorknight. Speak with the muddled researcher once more."
+4,"TEXT_JOBSMN450_01094_SEQ_04","The grateful researcher rewards you with a piece of the evoker's attire. Speak next with the unmanned researcher, and defeat the mirrorknight that has him quaking in his boots."
+5,"TEXT_JOBSMN450_01094_SEQ_05","You have defeated the fear-inspiring mirrorknight. Speak with the unmanned researcher once more."
+6,"TEXT_JOBSMN450_01094_SEQ_06","The grateful researcher rewards you with a piece of the evoker's attire. Speak next with the seemingly unmoved researcher, and defeat the mirrorknight that is perturbing him."
+7,"TEXT_JOBSMN450_01094_SEQ_07","You have defeated the bothersome mirrorknight. Speak with the seemingly unmoved researcher once more."
+8,"TEXT_JOBSMN450_01094_SEQ_08","The grateful researcher rewards you with a piece of the evoker's attire. With all the mirrorknights thus defeated, it is time you returned to Rammbroes to report your success."
+9,"TEXT_JOBSMN450_01094_SEQ_09","Praising your efforts to secure the safety of the dig sites, Rammbroes gladly rewards you with the summoner's garment he himself uncovered in the ruins. Thus weighted down with Allagan garb, you are ready to return to Y'mhitra where she awaits you at Apkallu Falls."
+10,"TEXT_JOBSMN450_01094_SEQ_10","Y'mhitra makes note of the fact that your newly obtained equipment bears a strong resemblance to the garments worn by the dark summoner, Tristan. In order to guarantee your supremacy in summoning, the researcher appears eager to conduct the Austerities of Wind─a ritual that requires the captured aetheric essence of the Lady of the Vortex. While Y'mhitra seeks an appropriate place to call forth the wind-aspected egi, she bids you make certain of your own preparations.<hex:02100103><hex:02100103>※The next summoner quest will be available from Y'mhitra upon the successful defeat of the primal Garuda."
+11,"TEXT_JOBSMN450_01094_SEQ_11",""
+12,"TEXT_JOBSMN450_01094_SEQ_12",""
+13,"TEXT_JOBSMN450_01094_SEQ_13",""
+14,"TEXT_JOBSMN450_01094_SEQ_14",""
+15,"TEXT_JOBSMN450_01094_SEQ_15",""
+16,"TEXT_JOBSMN450_01094_SEQ_16",""
+17,"TEXT_JOBSMN450_01094_SEQ_17",""
+18,"TEXT_JOBSMN450_01094_SEQ_18",""
+19,"TEXT_JOBSMN450_01094_SEQ_19",""
+20,"TEXT_JOBSMN450_01094_SEQ_20",""
+21,"TEXT_JOBSMN450_01094_SEQ_21",""
+22,"TEXT_JOBSMN450_01094_SEQ_22",""
+23,"TEXT_JOBSMN450_01094_SEQ_23",""
+24,"TEXT_JOBSMN450_01094_TODO_00","Speak with Rammbroes at Saint Coinach's Find in Mor Dhona."
+25,"TEXT_JOBSMN450_01094_TODO_01","Speak with the muddled researcher and defeat the mirrorknight."
+26,"TEXT_JOBSMN450_01094_TODO_02","Speak with the muddled researcher."
+27,"TEXT_JOBSMN450_01094_TODO_03","Speak with the unmanned researcher and defeat the mirrorknight."
+28,"TEXT_JOBSMN450_01094_TODO_04","Speak with the unmanned researcher."
+29,"TEXT_JOBSMN450_01094_TODO_05","Speak with the seemingly unmoved researcher and defeat the mirrorknight."
+30,"TEXT_JOBSMN450_01094_TODO_06","Speak with the seemingly unmoved researcher."
+31,"TEXT_JOBSMN450_01094_TODO_07","Report to Rammbroes."
+32,"TEXT_JOBSMN450_01094_TODO_08","Return to Y'mhitra at Apkallu Falls."
+33,"TEXT_JOBSMN450_01094_TODO_09",""
+34,"TEXT_JOBSMN450_01094_TODO_10",""
+35,"TEXT_JOBSMN450_01094_TODO_11",""
+36,"TEXT_JOBSMN450_01094_TODO_12",""
+37,"TEXT_JOBSMN450_01094_TODO_13",""
+38,"TEXT_JOBSMN450_01094_TODO_14",""
+39,"TEXT_JOBSMN450_01094_TODO_15",""
+40,"TEXT_JOBSMN450_01094_TODO_16",""
+41,"TEXT_JOBSMN450_01094_TODO_17",""
+42,"TEXT_JOBSMN450_01094_TODO_18",""
+43,"TEXT_JOBSMN450_01094_TODO_19",""
+44,"TEXT_JOBSMN450_01094_TODO_20",""
+45,"TEXT_JOBSMN450_01094_TODO_21",""
+46,"TEXT_JOBSMN450_01094_TODO_22",""
+47,"TEXT_JOBSMN450_01094_TODO_23",""
+48,"TEXT_JOBSMN450_01094_YMHITRA_000_000","Greetings, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Though it is good to see you, I am afraid I have yet to ascertain Tristan's ultimate objective. I only know that he is cunning and brutal, and will stop at nothing to achieve his purpose."
+49,"TEXT_JOBSMN450_01094_YMHITRA_000_001","As matters stand, we but chase after this man's shadow. Such a straightforward pursuit will, I believe, leave us ever one step behind."
+50,"TEXT_JOBSMN450_01094_YMHITRA_000_002","Our sole advantage is the “treasure” we possess that Tristan appears to covet. Eventually, his desire will bring him to us."
+51,"TEXT_JOBSMN450_01094_YMHITRA_000_003","Where and when Tristan will strike, I cannot say, but it is unlikely to be on a field of our choosing. Thus, I suggest we prepare for this inevitable conflict as best we may."
+52,"TEXT_JOBSMN450_01094_YMHITRA_000_004","As fortune would have it, the ruins of Mor Dhona may have provided us with a new source of strength: word among the Sons is that a set of evoker's attire has been unearthed."
+53,"TEXT_JOBSMN450_01094_YMHITRA_000_005","Made during the reign of the Allagan Empire, these enchanted garments were sewn for the exclusive use of summoners. I can only imagine the degree to which they will enhance your already impressive powers."
+54,"TEXT_JOBSMN450_01094_YMHITRA_000_006","The man supervising the excavation efforts at Saint Coinach's Find─Rammbroes─is a dear friend of mine. In light of our circumstances, I am certain that he will consent to a request that you be allowed to don the attire. Shall we pay him a visit?"
+55,"TEXT_JOBSMN450_01094_RAMMBROES_000_010","Ah, Y'mhitra! I suspected you would make an appearance before long. And I presume this <hex:02081EE905FF0A>fine lady<hex:FF0F>fine gentleman<hex:03> is the new summoner I've heard so much about?"
+56,"TEXT_JOBSMN450_01094_YMHITRA_000_011","Yes─hopefully the first of many. Now, pray tell me, Rammbroes, has the discovery of Allagan-made evoker's attire been confirmed?"
+57,"TEXT_JOBSMN450_01094_RAMMBROES_000_012","It has. Truly an historical find!"
+58,"TEXT_JOBSMN450_01094_YMHITRA_000_013","Then...I would ask a boon of you, my friend. You recall the predicament of which I spoke? Our chances of survival would be greatly improved if you would consider allowing <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> to wear the Allagan garments."
+59,"TEXT_JOBSMN450_01094_RAMMBROES_000_014","Hmmm. Well, <hex:02080CE905FF04>she<hex:FF03>he<hex:03> <hex:021A020203>is<hex:021A020103> a summoner, after all. And I must confess to no small degree of scholarly curiosity as to the effect the attire will have on one with the appropriate training."
+60,"TEXT_JOBSMN450_01094_RAMMBROES_000_015","These finds are, however, the result of much sweat and even a few tears on the part of our excavation team. 'Tis a frustrating task at times, and I fear they will be loath to part with the garments without some measure of recompense for their efforts."
+61,"TEXT_JOBSMN450_01094_RAMMBROES_000_016","Allow me, though, to offer a solution. Metallic monstrosities of Allagan construction known as “mirrorknights” have risen from the dig sites scattered across Mor Dhona. Needless to say, they pose a dangerous threat to our excavators."
+62,"TEXT_JOBSMN450_01094_RAMMBROES_000_017","I suggest you speak with my three field researchers, and dispose of any such nasty hindrances to their work. I daresay they will then gladly surrender the pieces of the attire they hold."
+63,"TEXT_JOBSMN450_01094_RAMMBROES_000_018","Once I have confirmed our dig sites suitably empty of armored horrors, I will see you rewarded with the garment that I myself recovered from the ruins."
+64,"TEXT_JOBSMN450_01094_SEEKER450A_000_020","A mirrorknight lurks just over yonder. I can scarce think straight with that <hex:021A020203>thing<hex:021A020103> wandering about! Oh gods... It approaches!"
+65,"TEXT_JOBSMN450_01094_SEEKER450A_000_021","Phew! You have my thanks. Now I might finally be able to concentrate on my tasks."
+66,"TEXT_JOBSMN450_01094_SEEKER450A_000_022","...If I'm not mistaken, you were in search of the evoker's attire? I have one of its wondrous pieces right here─you are most welcome to it!"
+67,"TEXT_JOBSMN450_01094_SEEKER450B_000_030","P-Praise the g-gods! R-Rammbroes said an adventurer w–would be along. P–Please! Y–You must destroy that h-horrid construction!"
+68,"TEXT_JOBSMN450_01094_SEEKER450B_000_031","Thank you for eliminating the source of my recent nightmares. I do not ordinarily stutter so, you see, but abject terror has that effect on folk."
+69,"TEXT_JOBSMN450_01094_SEEKER450B_000_032","Now, I hear from Y'mhitra that you have need of this Allagan garment. I should be glad to see it put to practical use, rather than shut away in some dusty vault."
+70,"TEXT_JOBSMN450_01094_SEEKER450C_000_040","Mirrorknights? Yes, they have become quite bothersome. I would be most appreciative were you to eliminate the creaking pest that has been plaguing me of late."
+71,"TEXT_JOBSMN450_01094_SEEKER450C_000_041","Fascinating. I never thought I would be fortunate enough to observe a conflict against an Allagan construction at such close quarters."
+72,"TEXT_JOBSMN450_01094_SEEKER450C_000_042","This has been a deeply enriching experience. If the price is to be my piece of the evoker's attire, then so be it."
+73,"TEXT_JOBSMN450_01094_RAMMBROES_000_050","Ah, the champion of my researchers returns!"
+74,"TEXT_JOBSMN450_01094_RAMMBROES_000_051","With the ruins now free of mirrorknights, the excavations can proceed at a far more satisfying pace. Trembling in fear for one's life makes it astonishingly difficult to handle ancient artifacts that have a tendency to crumble into dust."
+75,"TEXT_JOBSMN450_01094_RAMMBROES_000_052","You have performed a valuable duty for us, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. As promised, you shall have the summoner's garment uncovered by my own hand as your reward."
+76,"TEXT_JOBSMN450_01094_RAMMBROES_000_053","Ah, yes. Y'mhitra mentioned she would await you at Apkallu Falls. It seems there was no doubt in her mind that you would succeed here."
+77,"TEXT_JOBSMN450_01094_YMHITRA_000_060","So, this was how the summoners of old were clad. Well, more or less. It is unfortunate that the ruins have yet to surrender the final piece to the Sons."
+78,"TEXT_JOBSMN450_01094_YMHITRA_000_061","These garments... Aside from the coloring, they are identical to the garb Tristan wore."
+79,"TEXT_JOBSMN450_01094_YMHITRA_000_062","He will find no edge against you through his equipment. When next you face that murderous cad, victory will be decided purely by who is the more talented summoner."
+80,"TEXT_JOBSMN450_01094_YMHITRA_000_063","To that end, it is time you drew on your experience of defeating the primal Garuda. Yes, her aura of fickle violence is palpable upon you."
+81,"TEXT_JOBSMN450_01094_YMHITRA_000_064","It is daunting to imagine an egi born of the Lady of the Vortex... Such unpredictable ferocity should serve you well!"
+82,"TEXT_JOBSMN450_01094_YMHITRA_000_065","I will search for a suitably...airy...location in which to perform the Austerities of Wind. You, my dear summoner, must needs prepare yourself body and mind for the trials ahead. I shall be waiting."
+83,"TEXT_JOBSMN450_01094_YMHITRA_000_066","To that end, I would soon proceed with the Austerities of Wind to secure you another potent ally. Though...it seems that you do not yet count the Lady of the Vortex amongst your triumphs."
+84,"TEXT_JOBSMN450_01094_YMHITRA_000_067","The primal Garuda is as a glowering stormfront, ever poised to unleash her merciless gales upon Gridania. If you would capture her aetheric essence, then you must find yourself an expedition to join."
+85,"TEXT_JOBSMN450_01094_POP_MESSAGE","You sense a hostile presence!"

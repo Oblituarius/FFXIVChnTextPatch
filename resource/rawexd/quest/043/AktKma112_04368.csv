@@ -2,158 +2,158 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_AKTKMA112_04368_SEQ_00,正廳的桑克瑞德打算出發前往薩維奈島。
-1,TEXT_AKTKMA112_04368_SEQ_01,和桑克瑞德等人一起準備前往薩維奈島。和舊薩雷安傳送魔法研究所的琪特談談。
-2,TEXT_AKTKMA112_04368_SEQ_02,琪特為冒險者等人介紹了新型乙太之光。在舊薩雷安乙太之光廣場的<hex:02280CFF05>EObj<hex:F61EB32B0103>等待。
-3,TEXT_AKTKMA112_04368_SEQ_03,在琪特的幫助下一行人被傳送到了薩維奈島。
-4,TEXT_AKTKMA112_04368_SEQ_04,冒險者等人雖然到達了薩維奈島，卻出現了嚴重的醉乙太反應……在新港尋找埃斯蒂尼安。<hex:02100103>若是離開了這裡，和舊薩雷安的琪特對話便可再次返回。
-5,TEXT_AKTKMA112_04368_SEQ_05,冒險者發現了正被敲詐的埃斯蒂尼安。對新港的埃斯蒂尼安使用「否定」的情感動作。
-6,TEXT_AKTKMA112_04368_SEQ_06,埃斯蒂尼安通過正常價格買到了優酪乳昔！將<hex:022811FF0A>EventItem<hex:F61E90EC0103>交給新港的於里昂熱。
-7,TEXT_AKTKMA112_04368_SEQ_07,於里昂熱似乎舒服了一些。將<hex:022811FF0A>EventItem<hex:F61E90EC0103>交給新港的桑克瑞德。
-8,TEXT_AKTKMA112_04368_SEQ_08,雖然桑克瑞德也恢復了狀態，可還是沒能守護住埃斯蒂尼安的錢包。看來新港這裡盛行在交易中亂開價。和夥伴們一起調查這背後的原因。
-9,TEXT_AKTKMA112_04368_SEQ_09,
-10,TEXT_AKTKMA112_04368_SEQ_10,
-11,TEXT_AKTKMA112_04368_SEQ_11,
-12,TEXT_AKTKMA112_04368_SEQ_12,
-13,TEXT_AKTKMA112_04368_SEQ_13,
-14,TEXT_AKTKMA112_04368_SEQ_14,
-15,TEXT_AKTKMA112_04368_SEQ_15,
-16,TEXT_AKTKMA112_04368_SEQ_16,
-17,TEXT_AKTKMA112_04368_SEQ_17,
-18,TEXT_AKTKMA112_04368_SEQ_18,
-19,TEXT_AKTKMA112_04368_SEQ_19,
-20,TEXT_AKTKMA112_04368_SEQ_20,
-21,TEXT_AKTKMA112_04368_SEQ_21,
-22,TEXT_AKTKMA112_04368_SEQ_22,
-23,TEXT_AKTKMA112_04368_SEQ_23,
-24,TEXT_AKTKMA112_04368_TODO_00,和傳送魔法研究所的琪特對話
-25,TEXT_AKTKMA112_04368_TODO_01,在<hex:02280CFF05>EObj<hex:F61EB32B0103>等待
-26,TEXT_AKTKMA112_04368_TODO_02,在<hex:02280CFF05>EObj<hex:F61EB32B0103>等待
-27,TEXT_AKTKMA112_04368_TODO_03,尋找埃斯蒂尼安
-28,TEXT_AKTKMA112_04368_TODO_04,對埃斯蒂尼安做「否定」的情感動作
-29,TEXT_AKTKMA112_04368_TODO_05,將<hex:022811FF0A>EventItem<hex:F61E90EC0103>交給於里昂熱
-30,TEXT_AKTKMA112_04368_TODO_06,將<hex:022811FF0A>EventItem<hex:F61E90EC0103>交給桑克瑞德
-31,TEXT_AKTKMA112_04368_TODO_07,
-32,TEXT_AKTKMA112_04368_TODO_08,
-33,TEXT_AKTKMA112_04368_TODO_09,
-34,TEXT_AKTKMA112_04368_TODO_10,
-35,TEXT_AKTKMA112_04368_TODO_11,
-36,TEXT_AKTKMA112_04368_TODO_12,
-37,TEXT_AKTKMA112_04368_TODO_13,
-38,TEXT_AKTKMA112_04368_TODO_14,
-39,TEXT_AKTKMA112_04368_TODO_15,
-40,TEXT_AKTKMA112_04368_TODO_16,
-41,TEXT_AKTKMA112_04368_TODO_17,
-42,TEXT_AKTKMA112_04368_TODO_18,
-43,TEXT_AKTKMA112_04368_TODO_19,
-44,TEXT_AKTKMA112_04368_TODO_20,
-45,TEXT_AKTKMA112_04368_TODO_21,
-46,TEXT_AKTKMA112_04368_TODO_22,
-47,TEXT_AKTKMA112_04368_TODO_23,
-48,TEXT_AKTKMA112_04368_URIANGER_000_000,雖然我讀過有關拉札罕的書籍，但還是初次前往當地。<hex:02100103>我想見識一下他們打算如何對抗末日塔。
-49,TEXT_AKTKMA112_04368_ESTINIEN_000_005,薩維奈島嗎……<hex:02100103>早知道要去那裡的話，<hex:02100103>應該在裝備上多下點功夫。
-50,TEXT_AKTKMA112_04368_THANCRED_000_010,我從可露兒那裡拿到了記載著委託內容的指示書，<hex:02100103>我們隨時都可以出發前往薩維奈島。
-51,TEXT_AKTKMA112_04368_ESTINIEN_000_011,我倒是無所謂，關鍵是你們打算怎麼過去？<hex:02100103>從這裡乘船的話可是要花費相當長的時間……
-52,TEXT_AKTKMA112_04368_THANCRED_000_012,啊，關於這點可露兒也給出了詳細的指示。<hex:02100103>她好像在傳送魔法研究所那邊找到了幫手，<hex:02100103>叫我們過去看看。
-53,TEXT_AKTKMA112_04368_URIANGER_000_013,傳送魔法研究所嗎……
-54,TEXT_AKTKMA112_04368_THANCRED_000_014,那裡對你來說應該是不太方便露面的地方吧。
-55,TEXT_AKTKMA112_04368_URIANGER_000_015,你還記得嗎……<hex:02100103>從前冰之巫女逃離披雪大冰壁時，<hex:02100103>就是靠停止乙太之光的傳送功能，阻擋了追兵。
-56,TEXT_AKTKMA112_04368_URIANGER_000_016,而為解決這一問題請來的就是穆恩布瑞達。<hex:02100103>雖然她專攻的是乙太學，<hex:02100103>不過卻將學到的知識準確地活用在了傳送網的重構上……
-57,TEXT_AKTKMA112_04368_URIANGER_000_017,之所以能做到這點，<hex:02100103>也是因為她的父母是在傳送魔法研究所工作的研究者。
-58,TEXT_AKTKMA112_04368_THANCRED_000_018,你來到這邊以後去跟人家打過招呼了嗎？
-59,TEXT_AKTKMA112_04368_URIANGER_000_019,剛才的自由活動時間，我的確嘗試去登門拜訪……<hex:02100103>可怪我沒有骨氣，還是放棄了。
-60,TEXT_AKTKMA112_04368_URIANGER_000_020,我只寄了封信，把她的死訊告訴了她的父母。<hex:02100103>儘管後來我想過找機會聯繫他們，<hex:02100103>但都沒能付諸行動。
-61,TEXT_AKTKMA112_04368_URIANGER_000_021,直到現在我還在迷茫。<hex:02100103>不知該向他們說些什麼……<hex:02100103>該用什麼措辭來表達我的心聲……
-62,TEXT_AKTKMA112_04368_ESTINIEN_000_022,我是不清楚你的情況。<hex:02100103>不過要不要去你自己來決定。
-63,TEXT_AKTKMA112_04368_ESTINIEN_000_023,如果你做不到，我們會想辦法。
-64,TEXT_AKTKMA112_04368_URIANGER_000_024,感謝你的心意。<hex:02100103>可我並不想一直止步於這裡。<hex:02100103>我們還是一起去傳送魔法研究所吧。
-65,TEXT_AKTKMA112_04368_THANCRED_000_025,那就出發吧。<hex:02100103>可露兒給我們介紹的是一名叫琪特的研究員。<hex:02100103>到傳送魔法研究所那裡找找看吧。
-66,TEXT_AKTKMA112_04368_KYTTE_000_030,嗯？<hex:02100103>這群人怎麼一臉嚴肅……<hex:02100103>難道我又惹禍了？
-67,TEXT_AKTKMA112_04368_THANCRED_000_031,我們是巴爾德西昂委員會的可露兒介紹過來的。<hex:02100103>聽說這裡有辦法前往薩維奈島？
-68,TEXT_AKTKMA112_04368_KYTTE_000_032,啊——是的是的！你們就是來參加實驗的人啊！<hex:02100103>哎，等你們好久了！
-69,TEXT_AKTKMA112_04368_THANCRED_000_033,實驗？
-70,TEXT_AKTKMA112_04368_KYTTE_000_034,嗯？你們沒聽說嗎？<hex:02100103>那我就稍微跟你們說明一下。
-71,TEXT_AKTKMA112_04368_KYTTE_000_035,我們研究的傳送魔法……<hex:02100103>啊，讓自己移動的時候也會稱為轉移魔法，<hex:02100103>不過指的都是一件事，你們想怎麼稱呼都行。
-72,TEXT_AKTKMA112_04368_KYTTE_000_036,不管怎麼說，這類魔法的原理都是通過將自己暫時乙太化，<hex:02100103>然後順著地脈或風脈這樣的乙太奔流，<hex:02100103>前往指定乙太之光。
-73,TEXT_AKTKMA112_04368_KYTTE_000_037,最初可能會感覺有點可怕，<hex:02100103>但只要習慣了，就會覺得沒有比這個更方便的移動手段了！
-74,TEXT_AKTKMA112_04368_KYTTE_000_038,可是利用乙太之光的傳送魔法<hex:02100103>也有一個尚未解決的問題。
-75,TEXT_AKTKMA112_04368_KYTTE_000_039,那就是原則上只能移動到共鳴過的乙太之光那裡！
-76,TEXT_AKTKMA112_04368_KYTTE_000_040,為了讓人和物的往來更加自由，<hex:02100103>我們這些傳送魔法研究者長年以來<hex:02100103>一直為克服這個問題嘔心瀝血。
-77,TEXT_AKTKMA112_04368_KYTTE_000_041,最終，我們完成了這項壯舉！<hex:02100103>研究出了無需事先共鳴的新型乙太之光！
-78,TEXT_AKTKMA112_04368_THANCRED_000_042,真夠厲害的……<hex:02100103>這算是劃時代的發明吧？
-79,TEXT_AKTKMA112_04368_KYTTE_000_043,呃，其實還沒到哪都能去的地步。<hex:02100103>只能傳送到製造過程中關聯過的新型乙太之光。
-80,TEXT_AKTKMA112_04368_KYTTE_000_044,新型乙太之光共有2個，分別安置在了這個城市的乙太之光廣場，<hex:02100103>以及薩維奈島的名為新港的港口城市那裡，<hex:02100103>目前正處於試運行階段。
-81,TEXT_AKTKMA112_04368_KYTTE_000_045,之所以選擇薩維奈島，<hex:02100103>那是因為開發過程中尋求過拉札罕煉金術士們的協助。<hex:02100103>畢竟那個城邦也是中立國家，而且自古以來跟我們薩雷安就是友邦！
-82,TEXT_AKTKMA112_04368_THANCRED_000_046,原來是這樣，我明白了。<hex:02100103>你是打算讓我們使用那個新型乙太之光吧。
-83,TEXT_AKTKMA112_04368_THANCRED_000_047,不過我因為一次事故，<hex:02100103>導致乙太的控制能力出了問題……<hex:02100103>坦白地說，我連傳送都不見得能做到。
-84,TEXT_AKTKMA112_04368_KYTTE_000_048,啊，這點你不用擔心。<hex:02100103>新型乙太之光之間會運用裝置內預先設定好的術式進行傳送！
-85,TEXT_AKTKMA112_04368_THANCRED_000_049,那實在是太好了。<hex:02100103>之後就看我們能不能獲得這種偉大新發明的使用許可了……
-86,TEXT_AKTKMA112_04368_KYTTE_000_050,這點也無需擔心！<hex:02100103>我們一直在招募願意使用新型乙太之光的人！
-87,TEXT_AKTKMA112_04368_KYTTE_000_051,畢竟……萬一傳送魔法出了事故，後果不堪設想啊。<hex:02100103>搞不好會永遠在地脈中徘徊。
-88,TEXT_AKTKMA112_04368_KYTTE_000_052,所以很少有人願意來參加測試呢！<hex:02100103>哎呀，不愧是巴爾德西昂委員會介紹過來的！<hex:02100103>真是勇敢無畏，祝你們好運！
-89,TEXT_AKTKMA112_04368_URIANGER_000_053,不好意思，我還有個問題。<hex:02100103>今天韋爾夫森先生或布魯威達女士在嗎？
-90,TEXT_AKTKMA112_04368_KYTTE_000_054,很遺憾，那對夫婦已經辭掉了我們研究所的工作。<hex:02100103>他們的能力出類拔萃，被別的團隊挖走了。
-91,TEXT_AKTKMA112_04368_KYTTE_000_055,聽說他們被選進了哲學家議會親自指揮的大項目……<hex:02100103>是真是假我就不知道了！
-92,TEXT_AKTKMA112_04368_URIANGER_000_056,是這樣啊……<hex:02100103>謝謝你……
-93,TEXT_AKTKMA112_04368_KYTTE_000_057,還有別的問題嗎？沒有的話就抓緊去薩維奈島吧！<hex:02100103>做好準備以後，在乙太之光廣場等著我哦。
-94,TEXT_AKTKMA112_04368_KYTTE_000_060,做好準備以後就在乙太之光廣場等著我吧。<hex:02100103>對了，那個乙太之光也可以按照過往的方法使用哦！
-95,TEXT_AKTKMA112_04368_THANCRED_000_065,包括古代傳送魔法在內，<hex:02100103>對於傳送魔法我就沒有過什麼好的回憶……<hex:02100103>不過既然是可露兒推薦的，那應該是值得信賴的吧。
-96,TEXT_AKTKMA112_04368_URIANGER_000_070,我會整理好心情，集中精力調查薩維奈島的。<hex:02100103>希望能為在彼方對抗末日塔的人貢獻些力量……
-97,TEXT_AKTKMA112_04368_ESTINIEN_000_075,先把話說在前頭，我之前去薩維奈島的時候<hex:02100103>已經與乙太之光共鳴過了，<hex:02100103>我可沒打算陪你們做什麼實驗。
-98,TEXT_AKTKMA112_04368_KYTTE_000_080,嗯？你怎麼回來了？<hex:02100103>需要我再送你去薩維奈島嗎？
-99,TEXT_AKTKMA112_04368_Q1_000_081,要前往薩維奈島嗎？
-100,TEXT_AKTKMA112_04368_SYSTEM_000_090,<hex:022903EB0203>憑著毅力站了起來。<hex:02100103>但醉乙太的反應異常強烈……<hex:02100103>能順利走到埃斯蒂尼安身邊嗎……
-101,TEXT_AKTKMA112_04368_THANCRED_000_095,不愧是……拂曉的英雄啊……<hex:02100103>拜託你了……守住我們的……活動資金……唔……
-102,TEXT_AKTKMA112_04368_URIANGER_000_100,……
-103,TEXT_AKTKMA112_04368_ESTINIEN_000_110,喂，給我來3份喝的。<hex:02100103>最好是對眩暈有效的飲料。
-104,TEXT_AKTKMA112_04368_MERCHANT04368_000_111,你、你難道是、從外面來的客人嗎！
-105,TEXT_AKTKMA112_04368_MERCHANT04368_000_112,哎呀，你來我們店算是來對了！<hex:02100103>這裡有專治醉酒暈船的特製庵摩羅果優酪乳昔！
-106,TEXT_AKTKMA112_04368_MERCHANT04368_000_113,3份只要1萬9800金幣！<hex:02100103>我們使用了上等的食材，即便這個價格也是超划算的！
-107,TEXT_AKTKMA112_04368_ESTINIEN_000_114,唔……
-108,TEXT_AKTKMA112_04368_SYSTEM_000_115,埃斯蒂尼安好像並未察覺其中有詐。<hex:02100103>雖然很想告訴他這個價格太離譜，<hex:02100103>可一張嘴就感覺有什麼東西湧上來……
-109,TEXT_AKTKMA112_04368_SYSTEM_000_116,用情感動作「否定」，提醒埃斯蒂尼安這場交易不公吧！
-110,TEXT_AKTKMA112_04368_ESTINIEN_000_120,1萬金幣……嗯，也就是這個價格了吧？
-111,TEXT_AKTKMA112_04368_SYSTEM_000_121,雖然很想告訴埃斯蒂尼安這個價格太離譜，<hex:02100103>可一張嘴就感覺有什麼東西湧上來……<hex:02100103>用情感動作「否定」，提醒他這場交易不公吧！
-112,TEXT_AKTKMA112_04368_ESTINIEN_000_122,我不太了解優酪乳昔之類的價格，<hex:02100103>不過既然使用了上等食材，這個價格也算妥當吧……
-113,TEXT_AKTKMA112_04368_SYSTEM_000_123,埃斯蒂尼安完全沒有理解你的意思！<hex:02100103>用身體動作否定他吧！
-114,TEXT_AKTKMA112_04368_ESTINIEN_000_124,嗯？<hex:02100103>你不去休息沒事嗎？<hex:02100103>而且你這一副拚命的樣子是什麼意思……
-115,TEXT_AKTKMA112_04368_ESTINIEN_000_125,看來你不想讓我買這個優酪乳昔啊。<hex:02100103>難道說……價格高了嗎？
-116,TEXT_AKTKMA112_04368_MERCHANT04368_000_126,嗚！
-117,TEXT_AKTKMA112_04368_MERCHANT04368_000_127,哎、哎呀——抱歉抱歉！<hex:02100103>我把價格和其他的商品搞混了。<hex:02100103>特製庵摩羅果優酪乳昔3份只要1980金幣！
-118,TEXT_AKTKMA112_04368_ESTINIEN_000_128,真是的，店家你也太冒失了。<hex:02100103>那就1980金幣給我三份吧。
-119,TEXT_AKTKMA112_04368_ESTINIEN_000_129,這優酪乳昔你拿去吧。<hex:02100103>也交給於里昂熱和桑克瑞德，<hex:02100103>你們三個好好休息一下。
-120,TEXT_AKTKMA112_04368_ESTINIEN_000_130,我去城裡轉轉，回頭見吧。
-121,TEXT_AKTKMA112_04368_THANCRED_000_135,說什麼會有一點醉乙太……<hex:02100103>我和姑娘們喝個通宵都沒這麼難受過……
-122,TEXT_AKTKMA112_04368_URIANGER_000_140,……
-123,TEXT_AKTKMA112_04368_URIANGER_000_141,這、這種感覺……<hex:02100103>啊……彷彿五贜六腑都得到了淨化……
-124,TEXT_AKTKMA112_04368_URIANGER_000_142,總算好受些了……<hex:02100103>得感謝你和埃斯蒂尼安以及南國的果實……
-125,TEXT_AKTKMA112_04368_URIANGER_000_145,這種可怕的體驗還真是人生第一次……<hex:02100103>新型乙太之光……或許可以考慮作為兵器使用……
-126,TEXT_AKTKMA112_04368_THANCRED_000_150,啊……你保住了……我們的活動經費啊……<hex:02100103>這樣就不會被塔塔露責罵了……嗚。
-127,TEXT_AKTKMA112_04368_THANCRED_000_151,謝謝了……<hex:02100103>你也把自己的那份喝了吧……<hex:02100103>真是……辛苦你了……
-128,TEXT_AKTKMA112_04368_THANCRED_000_152,多虧了你，總算是能站起來了。<hex:02100103>那個優酪乳昔倒還挺有效的。
-129,TEXT_AKTKMA112_04368_ESTINIEN_000_153,看來我回來得正好啊。
-130,TEXT_AKTKMA112_04368_URIANGER_000_154,咦，你這髮型……
-131,TEXT_AKTKMA112_04368_ESTINIEN_000_155,嗯，我給扎上了。<hex:02100103>末日塔就在眼前，不能脫掉鎧甲，<hex:02100103>但這座島又悶熱得很……
-132,TEXT_AKTKMA112_04368_THANCRED_000_156,我想問問，你這發繩是怎麼來的？
-133,TEXT_AKTKMA112_04368_ESTINIEN_000_157,在逛街的時候順便買的。<hex:02100103>據說用的是結實的薩維奈織物，不會輕易就散掉。
-134,TEXT_AKTKMA112_04368_THANCRED_000_158,花了多少？
-135,TEXT_AKTKMA112_04368_ESTINIEN_000_159,好像是……9400金幣。<hex:02100103>畢竟不是為了好看，只要是結實點的線繩就行。<hex:02100103>店家說這款薩維奈織物正在搞特價，我就選了它。
-136,TEXT_AKTKMA112_04368_THANCRED_000_160,我服你了……我估計都用不著塔塔露親自教導，<hex:02100103>就連阿爾菲諾都能做你的老師。
-137,TEXT_AKTKMA112_04368_Q2_000_161,要說什麼？
-138,TEXT_AKTKMA112_04368_A2_000_162,怎麼不管哪家店都在漫天要價？
-139,TEXT_AKTKMA112_04368_A2_000_163,拉札罕的商人都是這樣嗎？
-140,TEXT_AKTKMA112_04368_A2_000_164,這個原蒼天之龍騎士也太容易被騙了吧……
-141,TEXT_AKTKMA112_04368_URIANGER_000_165,嗯，我也感覺到了。<hex:02100103>但這種情況應該並不尋常……
-142,TEXT_AKTKMA112_04368_URIANGER_000_166,這個嘛……<hex:02100103>我倒是覺得這個現象不太正常。
-143,TEXT_AKTKMA112_04368_URIANGER_000_167,這個問題恕難回答……<hex:02100103>不過這種漫天要價的交易隨處可見，<hex:02100103>其中必有蹊蹺。
-144,TEXT_AKTKMA112_04368_URIANGER_000_168,拉札罕坐擁薩維奈島，<hex:02100103>是一個歷史悠久的國家。
-145,TEXT_AKTKMA112_04368_URIANGER_000_169,島上的原住民是象魔族中的悌陽象族一派。
-146,TEXT_AKTKMA112_04368_URIANGER_000_170,他們建立起的文化與後來流入的異民族文化融合，<hex:02100103>最終形成了獨自的樣式……
-147,TEXT_AKTKMA112_04368_URIANGER_000_171,此地出產的工藝品，<hex:02100103>特別是織物在諸多國家深受人們的喜愛。
-148,TEXT_AKTKMA112_04368_URIANGER_000_172,而且基於連接海洋東西兩端的地理位置……<hex:02100103>拉札罕自古至今都是繁榮的貿易大國。
-149,TEXT_AKTKMA112_04368_THANCRED_000_173,照你這麼說，<hex:02100103>作為國家門面的港口城市盛行漫天要價的亂象，<hex:02100103>多少有失體面吧……
-150,TEXT_AKTKMA112_04368_URIANGER_000_174,難道是國力衰退已經無力取締這些不良行為……<hex:02100103>又或者是人們已經窮苦到了不得不這樣做的地步了嗎。
-151,TEXT_AKTKMA112_04368_URIANGER_000_175,不管怎樣，在這座島活動時，<hex:02100103>最好先了解一下實情。<hex:02100103>這種異常……說不定是末日塔出現導致的弊害……
-152,TEXT_AKTKMA112_04368_THANCRED_000_176,我贊成於里昂熱的意見。
-153,TEXT_AKTKMA112_04368_THANCRED_000_177,給可露兒寫信的委託人似乎在更前面的村落，<hex:02100103>我們先在這個城鎮收集一下情報吧？
-154,TEXT_AKTKMA112_04368_THANCRED_000_178,這回我可要挽回一下我的名譽。<hex:02100103>剛才的樣子也實在是太丟人了，<hex:02100103>看我接下來大展身手吧。
+0,"TEXT_AKTKMA112_04368_SEQ_00","Thancred is eager to set forth for Thavnair."
+1,"TEXT_AKTKMA112_04368_SEQ_01","Another tower has appeared in Thavnair, and the assistance of the Scions of the Seventh Dawn has been requested. In order to spare you, Thancred, Urianger, and Estinien a time-consuming sea voyage to the distant isle, Krile has secured the aid of the researchers of the Confluence, and thither do you make your way to meet with a woman named Kytte."
+2,"TEXT_AKTKMA112_04368_SEQ_02","Welcoming you excitedly as “test subjects,” Kytte informs you that a new kind of aetheryte has been created that does not require attunement, and that the first pair of prototypes have been installed in Old Sharlayan and Yedlihmad, a port town in Thavnair. Once your preparations are in order, you are to join her at the aetheryte plaza for your journey."
+3,"TEXT_AKTKMA112_04368_SEQ_03","With unsettling nonchalance for what could potentially be a one-way trip into the Lifestream, Kytte sends you and your companions on your way to Thavnair─but not before warning you to expect “a teensy-weensy touch of violent aetherial sickness”..."
+4,"TEXT_AKTKMA112_04368_SEQ_04","No sooner do you emerge in the balmy heat of Thavnair than you are taken by a debilitating wave of the promised sickness. Only Estinien, who had been to the island prior and teleported the tried and trusted way, emerges unscathed. Seeing the state of you and the others, he goes off alone to procure drinks for his ailing comrades─much to Thancred's dismay. Though your stomach roils fiercely at the slightest provocation, the others appear to be faring worse, and so it falls to you to find Estinien before his aggressive indifference to concepts like “budgets” and “crippling debt” lead to a costly mistake.<hex:02100103><hex:02100103>※In the event that you leave the area and wish to return, speak with Kytte in Old Sharlayan."
+5,"TEXT_AKTKMA112_04368_SEQ_05","By sheer force of will, you manage to reach Estinien just as he is about to be fleeced by a merchant. Yet though you are desperate to warn him as such, you soon realize any words of warning you cry out would be accompanied by your last meal. Instead, you resolve to /deny the deal is fair via a gesture."
+6,"TEXT_AKTKMA112_04368_SEQ_06","Your urgent gesticulations manage to do the trick, alerting Estinien to the merchant's dishonesty. Your comrade agrees to a far more reasonable price for three bottles of amra lassi, which he bids you deliver to Urianger and Thancred."
+7,"TEXT_AKTKMA112_04368_SEQ_07","Urianger receives the lassi with thanks and relief, and you next turn to Thancred to hand him a bottle."
+8,"TEXT_AKTKMA112_04368_SEQ_08","The lassi works wonders, and both Urianger and Thancred are soon back on their feet. Alas, though you succeeded in preventing Estinien from one ill-advised purchase, you could not do so a second time, as he returns with his hair bound in an obscenely overpriced length of cord. Though tragic and certain to invoke Tataru's ire, this incident also serves to reveal a trend of opportunistic pricing, which Urianger believes may be due to a dire state of affairs in Radz–at–Han, and it is decided that you will investigate the matter before moving on to seek out Krile's acquaintance."
+9,"TEXT_AKTKMA112_04368_SEQ_09",""
+10,"TEXT_AKTKMA112_04368_SEQ_10",""
+11,"TEXT_AKTKMA112_04368_SEQ_11",""
+12,"TEXT_AKTKMA112_04368_SEQ_12",""
+13,"TEXT_AKTKMA112_04368_SEQ_13",""
+14,"TEXT_AKTKMA112_04368_SEQ_14",""
+15,"TEXT_AKTKMA112_04368_SEQ_15",""
+16,"TEXT_AKTKMA112_04368_SEQ_16",""
+17,"TEXT_AKTKMA112_04368_SEQ_17",""
+18,"TEXT_AKTKMA112_04368_SEQ_18",""
+19,"TEXT_AKTKMA112_04368_SEQ_19",""
+20,"TEXT_AKTKMA112_04368_SEQ_20",""
+21,"TEXT_AKTKMA112_04368_SEQ_21",""
+22,"TEXT_AKTKMA112_04368_SEQ_22",""
+23,"TEXT_AKTKMA112_04368_SEQ_23",""
+24,"TEXT_AKTKMA112_04368_TODO_00","Speak with Kytte at the Confluence."
+25,"TEXT_AKTKMA112_04368_TODO_01","Wait at the aetheryte plaza in Old Sharlayan."
+26,"TEXT_AKTKMA112_04368_TODO_02","Wait at the aetheryte plaza in Old Sharlayan."
+27,"TEXT_AKTKMA112_04368_TODO_03","Search for Estinien."
+28,"TEXT_AKTKMA112_04368_TODO_04","/deny to Estinien that the deal is fair."
+29,"TEXT_AKTKMA112_04368_TODO_05","Deliver a bottle of special amra lassi to Urianger."
+30,"TEXT_AKTKMA112_04368_TODO_06","Deliver a bottle of special amra lassi to Thancred."
+31,"TEXT_AKTKMA112_04368_TODO_07",""
+32,"TEXT_AKTKMA112_04368_TODO_08",""
+33,"TEXT_AKTKMA112_04368_TODO_09",""
+34,"TEXT_AKTKMA112_04368_TODO_10",""
+35,"TEXT_AKTKMA112_04368_TODO_11",""
+36,"TEXT_AKTKMA112_04368_TODO_12",""
+37,"TEXT_AKTKMA112_04368_TODO_13",""
+38,"TEXT_AKTKMA112_04368_TODO_14",""
+39,"TEXT_AKTKMA112_04368_TODO_15",""
+40,"TEXT_AKTKMA112_04368_TODO_16",""
+41,"TEXT_AKTKMA112_04368_TODO_17",""
+42,"TEXT_AKTKMA112_04368_TODO_18",""
+43,"TEXT_AKTKMA112_04368_TODO_19",""
+44,"TEXT_AKTKMA112_04368_TODO_20",""
+45,"TEXT_AKTKMA112_04368_TODO_21",""
+46,"TEXT_AKTKMA112_04368_TODO_22",""
+47,"TEXT_AKTKMA112_04368_TODO_23",""
+48,"TEXT_AKTKMA112_04368_URIANGER_000_000","Though I have read much on the subject of Radz–at–Han, this visit shall be my first. 'Twill be interesting to see how the Hannish mean to contend with the tower, different as their magical and technological disciplines are."
+49,"TEXT_AKTKMA112_04368_ESTINIEN_000_005","So it's back to Thavnair... Had I known earlier, I would have considered more suitable attire."
+50,"TEXT_AKTKMA112_04368_THANCRED_000_010","I have Krile's instructions in hand. If you are ready to set out, then so are we."
+51,"TEXT_AKTKMA112_04368_ESTINIEN_000_011","Having been to Thavnair before, I can travel by aetheryte, but what of the rest of you? Another sea voyage would waste time we do not have."
+52,"TEXT_AKTKMA112_04368_THANCRED_000_012","Krile was of the same mind, and has already secured the aid of the good folk of the Confluence. We'll take ourselves there."
+53,"TEXT_AKTKMA112_04368_URIANGER_000_013","The Confluence, thou sayest..."
+54,"TEXT_AKTKMA112_04368_THANCRED_000_014","I'm afraid so, my friend."
+55,"TEXT_AKTKMA112_04368_URIANGER_000_015","Thou wilt recall the hunt for Iceheart, unto whose sanctuary we delivered thee owing to the knowledge of our comrade Moenbryda."
+56,"TEXT_AKTKMA112_04368_URIANGER_000_016","Moenbryda was an authority on aetherology─a field of study she did embark upon in pursuit of her parents' example."
+57,"TEXT_AKTKMA112_04368_URIANGER_000_017","Both are authorities in their own right...and both are researchers at the Confluence."
+58,"TEXT_AKTKMA112_04368_THANCRED_000_018","Haven't you gone to see them yet?"
+59,"TEXT_AKTKMA112_04368_URIANGER_000_019","I attempted to do so earlier, but to my shame, my courage failed me at the last."
+60,"TEXT_AKTKMA112_04368_URIANGER_000_020","As it hath the many times I thought to reach out to them after sending that fateful letter."
+61,"TEXT_AKTKMA112_04368_URIANGER_000_021","Neither time nor introspection have revealed unto me the words I should speak, and thus have I kept my silence..."
+62,"TEXT_AKTKMA112_04368_ESTINIEN_000_022","Whether you come with us or no is your choice and yours alone."
+63,"TEXT_AKTKMA112_04368_ESTINIEN_000_023","If it is too difficult, we'll manage."
+64,"TEXT_AKTKMA112_04368_URIANGER_000_024","Thou art kind to say so, but I have no intention of forsaking our cause. I shall go to the Confluence, and I shall face that which hath long been overdue."
+65,"TEXT_AKTKMA112_04368_THANCRED_000_025","If it's settled, then let us be off. When we arrive, we should look for a researcher named Kytte."
+66,"TEXT_AKTKMA112_04368_KYTTE_000_030","Well now, this is rather a lot of stern faces... Are my library books overdue again?"
+67,"TEXT_AKTKMA112_04368_THANCRED_000_031","Not to our knowledge. We're associates of Krile of the Students of Baldesion. We seek passage to Thavnair, and understand that you can assist us."
+68,"TEXT_AKTKMA112_04368_KYTTE_000_032","Ah, the test subjects! Welcome, welcome!"
+69,"TEXT_AKTKMA112_04368_THANCRED_000_033","...“Test subjects”?"
+70,"TEXT_AKTKMA112_04368_KYTTE_000_034","Oh, you hadn't heard? Well then, allow me to explain."
+71,"TEXT_AKTKMA112_04368_KYTTE_000_035","So, in order to travel to an aetheryte, you ordinarily need to be attuned to it beforehand."
+72,"TEXT_AKTKMA112_04368_KYTTE_000_036","Otherwise you can't use it as a beacon to seek out while you're a mess of aether hurtling along the Lifestream."
+73,"TEXT_AKTKMA112_04368_KYTTE_000_037","An inconvenient but incontrovertible limitation of aetheryte teleportation."
+74,"TEXT_AKTKMA112_04368_KYTTE_000_038","But what if I were to tell you that there's a way to travel to an aetheryte <hex:021A020203>without<hex:021A020103> being attuned to it?"
+75,"TEXT_AKTKMA112_04368_KYTTE_000_039","A way to teleport instantly to places you've never been!?"
+76,"TEXT_AKTKMA112_04368_KYTTE_000_040","For long years, we've labored to make such travel possible, that people might move about more freely."
+77,"TEXT_AKTKMA112_04368_KYTTE_000_041","And we've finally done it! We've created a new kind of aetheryte that doesn't require attunement!"
+78,"TEXT_AKTKMA112_04368_THANCRED_000_042","Truly!? That changes everything!"
+79,"TEXT_AKTKMA112_04368_KYTTE_000_043","Well, my language may have been a bit misleading. The user need not attune to these aetherytes, but the aetherytes themselves must have been pre-attuned to each other, thereby facilitating travel between the two points."
+80,"TEXT_AKTKMA112_04368_KYTTE_000_044","But it just so happens that of our first test pair of aetherytes, one has been installed here in Sharlayan, and the other over in Yedlihmad, a port town in Thavnair!"
+81,"TEXT_AKTKMA112_04368_KYTTE_000_045","As you may know, our nation has long maintained strong ties with Radz–at–Han. And indeed, we owe much of this breakthrough to the contributions of their alchemists."
+82,"TEXT_AKTKMA112_04368_THANCRED_000_046","So to sum up, we're to “test” these aetherytes. How fortuitous...for you..."
+83,"TEXT_AKTKMA112_04368_THANCRED_000_047","I should mention that an accident has impaired my ability to channel aether. Will this be a problem?"
+84,"TEXT_AKTKMA112_04368_KYTTE_000_048","Not at all! As a matter of fact, you might say these aetherytes were made for people like your good self. The magicks imbued within will whisk you away without any effort on your part."
+85,"TEXT_AKTKMA112_04368_THANCRED_000_049","A veritable dream come true. And far be it from me to worry about such things, but do we have permission to make use of your shiny new invention?"
+86,"TEXT_AKTKMA112_04368_KYTTE_000_050","The only permission required is yours, so assuming you're willing, we're all set!"
+87,"TEXT_AKTKMA112_04368_KYTTE_000_051","It may come as a surprise, but we actually struggle to find test subjects. Most people seem to have an unreasonable fear of their souls gradually disintegrating as they drift helplessly in the Lifestream─in the statistically unlikely event that something goes awry."
+88,"TEXT_AKTKMA112_04368_KYTTE_000_052","But it's plain that you aren't most people! Heh heh, Mistress Krile truly knows how to pick 'em!"
+89,"TEXT_AKTKMA112_04368_URIANGER_000_053","If I might change the subject... Are Master Wilfsunn and Mistress Bloewyda not present today?"
+90,"TEXT_AKTKMA112_04368_KYTTE_000_054","Oh, you didn't hear? They've recently resigned their posts. Their expertise was needed elsewhere."
+91,"TEXT_AKTKMA112_04368_KYTTE_000_055","A large-scale project helmed by the Forum itself, as I understand, but I'm not privy to the details."
+92,"TEXT_AKTKMA112_04368_URIANGER_000_056","I see..."
+93,"TEXT_AKTKMA112_04368_KYTTE_000_057","Any other questions? No? Then let's get going before you change your minds! Please see to your preparations and head outside to the aetheryte plaza. I'll be along shortly."
+94,"TEXT_AKTKMA112_04368_KYTTE_000_060","In case you were wondering, the aetheryte still functions like a normal one. It's just been upgraded to allow unattuned travel. I'll see you there shortly."
+95,"TEXT_AKTKMA112_04368_THANCRED_000_065","Given my experience with teleportation, I'd be lying if I said I didn't have reservations, but I will trust in Krile."
+96,"TEXT_AKTKMA112_04368_URIANGER_000_070","Though words unsaid yet weigh heavy on my heart, I shall devote mine all to our task in Thavnair."
+97,"TEXT_AKTKMA112_04368_ESTINIEN_000_075","I shall teleport the tried and trusted way. Good luck."
+98,"TEXT_AKTKMA112_04368_KYTTE_000_080","Oh, you're back? Forgot something, I take it. Just give the word and I'll have you in Thavnair again before you can say “aether sickness”!"
+99,"TEXT_AKTKMA112_04368_Q1_000_081","Travel to Thavnair?"
+100,"TEXT_AKTKMA112_04368_SYSTEM_000_090","You manage to will yourself to your feet, but given your condition, will you be able to reach Estinien in time...?"
+101,"TEXT_AKTKMA112_04368_THANCRED_000_095","Heh, no stopping...our champion... Now, quickly... Find Estinien...before he─ Hurrrk!"
+102,"TEXT_AKTKMA112_04368_URIANGER_000_100","..."
+103,"TEXT_AKTKMA112_04368_ESTINIEN_000_110","You there, I need three drinks. Something that helps with aether sickness."
+104,"TEXT_AKTKMA112_04368_MERCHANT04368_000_111","B-By the Manusya, a traveler! Er, I mean...greetings! Greetings and welcome!"
+105,"TEXT_AKTKMA112_04368_MERCHANT04368_000_112","You are wise, good sir, to come to me! My special amra lassi, made with only the finest and freshest ingredients, is famed for calming unruly bellies!"
+106,"TEXT_AKTKMA112_04368_MERCHANT04368_000_113","By way of a warm welcome to Thavnair, I'm pleased to offer it to you for the low, low price of nineteen thousand and eight hundred gil! For not one, not two, but <hex:021A020203>three<hex:021A020103> bottles! A bargain amongst bargains!"
+107,"TEXT_AKTKMA112_04368_ESTINIEN_000_114","Hm..."
+108,"TEXT_AKTKMA112_04368_SYSTEM_000_115","The price is highroad robbery, and you want to say as much to Estinien, but you realize any words of warning you cry out would be accompanied by your last meal..."
+109,"TEXT_AKTKMA112_04368_SYSTEM_000_116","You must stand before Estinien and, using gestures, <hex:024804F201F403><hex:024904F201F503>deny<hex:0249020103><hex:0248020103> that the deal is fair."
+110,"TEXT_AKTKMA112_04368_ESTINIEN_000_120","Nineteen thousand and eight hundred gil... That's a reasonable deal...isn't it?"
+111,"TEXT_AKTKMA112_04368_SYSTEM_000_121","You must stand before Estinien and, using gestures, <hex:024804F201F403><hex:024904F201F503>deny<hex:0249020103><hex:0248020103> that the deal is fair."
+112,"TEXT_AKTKMA112_04368_ESTINIEN_000_122","Hm... Perhaps it's a bit expensive? Still, if it's special like he says..."
+113,"TEXT_AKTKMA112_04368_SYSTEM_000_123","You must stand before Estinien and, using gestures, <hex:024804F201F403><hex:024904F201F503>deny<hex:0249020103><hex:0248020103> that the deal is fair."
+114,"TEXT_AKTKMA112_04368_ESTINIEN_000_124","Hm? I thought you could barely stand. What do you need to tell me that's so urgent?"
+115,"TEXT_AKTKMA112_04368_ESTINIEN_000_125","...Wait. I <hex:021A020203>shouldn't<hex:021A020103> buy the lassi. This merchant is <hex:021A020203>swindling<hex:021A020103> me."
+116,"TEXT_AKTKMA112_04368_MERCHANT04368_000_126","Uwaaah!"
+117,"TEXT_AKTKMA112_04368_MERCHANT04368_000_127","S-Sincerest apologies, sir, but I appear to have my prices confused! It's actually one thousand eight hundred and ninety gil for the three bottles of lassi!"
+118,"TEXT_AKTKMA112_04368_ESTINIEN_000_128","Hmph. That confusion would've been quite costly. For both of us. Very well, then─your coin."
+119,"TEXT_AKTKMA112_04368_ESTINIEN_000_129","Here, a bottle for each of you. Take them to the others and get some rest."
+120,"TEXT_AKTKMA112_04368_ESTINIEN_000_130","I'll be back after I've explored the town."
+121,"TEXT_AKTKMA112_04368_THANCRED_000_135","“A teensy-weensy touch,” she says... Not even my hardest night's drinking comes close..."
+122,"TEXT_AKTKMA112_04368_URIANGER_000_140","..."
+123,"TEXT_AKTKMA112_04368_URIANGER_000_141","Praise...be to the Twelve... My stomach doth loosen its death grip..."
+124,"TEXT_AKTKMA112_04368_URIANGER_000_142","My heartfelt thanks to thee and Estinien─and to the fine fruits of this land."
+125,"TEXT_AKTKMA112_04368_URIANGER_000_145","Ne'er hath teleportation induced such terrible discomfort... 'Twas torturous in its intensity, and I would sooner swim a score malms..."
+126,"TEXT_AKTKMA112_04368_THANCRED_000_150","You were...in time? Excellent... You've spared us Tataru's wrath..."
+127,"TEXT_AKTKMA112_04368_THANCRED_000_151","Sweet...sweet release... If you haven't already, you should have yours too."
+128,"TEXT_AKTKMA112_04368_THANCRED_000_152","Right, I'm ready to get on with it. That lassi truly worked wonders."
+129,"TEXT_AKTKMA112_04368_ESTINIEN_000_153","Back on your feet, I see."
+130,"TEXT_AKTKMA112_04368_URIANGER_000_154","Th-Thy hair..."
+131,"TEXT_AKTKMA112_04368_ESTINIEN_000_155","Aye, I've bound it. 'Tis the most I could do against this heat short of shedding my armor."
+132,"TEXT_AKTKMA112_04368_THANCRED_000_156","...May I ask where you got the cord for it?"
+133,"TEXT_AKTKMA112_04368_ESTINIEN_000_157","A local vendor. The man said it's a Thavnairian weave─tough and not easily unraveled."
+134,"TEXT_AKTKMA112_04368_THANCRED_000_158","...And how much did it cost?"
+135,"TEXT_AKTKMA112_04368_ESTINIEN_000_159","Ninety-four hundred gil─a steal, I was told. 'Tis nothing fancy, but I've always valued function over form."
+136,"TEXT_AKTKMA112_04368_THANCRED_000_160","That's...incredible. I daresay not even Alphinaud could hold a candle to you."
+137,"TEXT_AKTKMA112_04368_Q2_000_161","What will you say?"
+138,"TEXT_AKTKMA112_04368_A2_000_162","It's not uncommon for merchants to set their prices high, but doesn't it seem excessive here?"
+139,"TEXT_AKTKMA112_04368_A2_000_163","Are all Hannish merchants so unscrupulous?"
+140,"TEXT_AKTKMA112_04368_A2_000_164","I expected the Azure Dragoon to put up more of a fight."
+141,"TEXT_AKTKMA112_04368_URIANGER_000_165","I am inclined to agree with thine assessment. It doth seem excessive─unusually so."
+142,"TEXT_AKTKMA112_04368_URIANGER_000_166","One mustn't be too quick to paint a diverse people with a single brush. If such doth prove to be commonplace, I would presume it symptomatic of societal instability."
+143,"TEXT_AKTKMA112_04368_URIANGER_000_167","...On that subject, I shall refrain from making comment. Yet I cannot help but observe that the merchants seem overzealous in their pursuit of profit."
+144,"TEXT_AKTKMA112_04368_URIANGER_000_168","Claiming Thavnair as its dominion, the nation of Radz–at–Han hath long thrived as a hub of commerce."
+145,"TEXT_AKTKMA112_04368_URIANGER_000_169","In the beginning, there were the Arkasodara, a Matanga tribe indigenous to this island."
+146,"TEXT_AKTKMA112_04368_URIANGER_000_170","Over time, they came to be joined by other races, and through their intermingling a culture rich and distinct did emerge."
+147,"TEXT_AKTKMA112_04368_URIANGER_000_171","From alchemy to textiles, the products of Hannish culture have come to be celebrated and coveted the world over. A development only aided by the nation's prime location as a waypoint betwixt east and west."
+148,"TEXT_AKTKMA112_04368_URIANGER_000_172","All of this hath combined to make a trading power of Radz-at-Han, yet such a status cannot be taken for granted. Nay, it must needs be maintained through judicious governance and stringent regulation."
+149,"TEXT_AKTKMA112_04368_THANCRED_000_173","Neither of which I see any evidence, given that merchants at a gateway town are free to fleece hapless travelers and tarnish the reputation of the nation at large."
+150,"TEXT_AKTKMA112_04368_URIANGER_000_174","Just so. That opportunistic pricing is rampant doth suggest that oversight is much weakened...or mayhap that the people have fallen upon hard times."
+151,"TEXT_AKTKMA112_04368_URIANGER_000_175","Whatever the truth may be, 'twould be prudent to ascertain the current state of affairs."
+152,"TEXT_AKTKMA112_04368_THANCRED_000_176","Prudent and practical, aye. We've naught to lose by learning more."
+153,"TEXT_AKTKMA112_04368_THANCRED_000_177","So, ere we seek out Krile's acquaintance, shall we see what information we can gather here in Yedlihmad?"
+154,"TEXT_AKTKMA112_04368_THANCRED_000_178","Excellent. We didn't exactly get off to a flying start, but we'll make up for it."

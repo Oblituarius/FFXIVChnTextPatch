@@ -2,299 +2,299 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_STMBDR601_04586_SEQ_00,魔導船的設計師正在知識神海港休息。
-1,TEXT_STMBDR601_04586_SEQ_01,從魔導船的設計師那裡了解到諸神黃昏號魔導船收到了神秘的消息。和迷津驚愕所的魔導船的設計師談談。
-2,TEXT_STMBDR601_04586_SEQ_02,和加隆德煉鐵廠的人員以及能夠正常對話的歐米茄匯合了。和驚愕所的歐米茄談談。
-3,TEXT_STMBDR601_04586_SEQ_03,在歐米茄的提議下，冒險者決定前往拉札罕。和拉札罕乙太之光廣場的歐米茄交談，進入同行狀態。
-4,TEXT_STMBDR601_04586_SEQ_04,帶著歐米茄和阿爾法出發。在與兩者同行的狀態下，與拉札罕卡瑪愛區的3位居民談談。<hex:02100103><hex:02100103>※同行狀態被解除時，再次與乙太之光廣場的歐米茄或阿爾法對話便可進入同行狀態。
-5,TEXT_STMBDR601_04586_SEQ_05,和居民們進行了交談。在卡瑪愛區的指定地點和同行狀態的歐米茄談談。
-6,TEXT_STMBDR601_04586_SEQ_06,歐米茄決定繼續打聽情報。在和歐米茄與阿爾法同行的狀態下，與拉札罕魯維達紡絲局的及納巴哈談談。
-7,TEXT_STMBDR601_04586_SEQ_07,和及納巴哈進行了交談。在和歐米茄與阿爾法同行的狀態下，尋找在魯維達紡絲局附近的納休梵。
-8,TEXT_STMBDR601_04586_SEQ_08,找到了納休梵。由於在末日的混亂中失去了兒子，也沒能拯救挺身守護自己的阿希旺，納休梵陷入了莫大的悲傷。雖然歐米茄似乎一直沒能理解他重新振作的理由，不過它仍願繼續學著理解。回顧一路走過的末日之旅，思考關於歐米茄與心的問題。
-9,TEXT_STMBDR601_04586_SEQ_09,
-10,TEXT_STMBDR601_04586_SEQ_10,
-11,TEXT_STMBDR601_04586_SEQ_11,
-12,TEXT_STMBDR601_04586_SEQ_12,
-13,TEXT_STMBDR601_04586_SEQ_13,
-14,TEXT_STMBDR601_04586_SEQ_14,
-15,TEXT_STMBDR601_04586_SEQ_15,
-16,TEXT_STMBDR601_04586_SEQ_16,
-17,TEXT_STMBDR601_04586_SEQ_17,
-18,TEXT_STMBDR601_04586_SEQ_18,
-19,TEXT_STMBDR601_04586_SEQ_19,
-20,TEXT_STMBDR601_04586_SEQ_20,
-21,TEXT_STMBDR601_04586_SEQ_21,
-22,TEXT_STMBDR601_04586_SEQ_22,
-23,TEXT_STMBDR601_04586_SEQ_23,
-24,TEXT_STMBDR601_04586_TODO_00,和驚愕所的魔導船的設計師對話
-25,TEXT_STMBDR601_04586_TODO_01,和歐米茄對話
-26,TEXT_STMBDR601_04586_TODO_02,和歐米茄對話進入同行狀態
-27,TEXT_STMBDR601_04586_TODO_03,帶著歐米茄和阿爾法<hex:02100103>和卡瑪愛區的居民對話
-28,TEXT_STMBDR601_04586_TODO_04,帶著歐米茄到指定地點對話
-29,TEXT_STMBDR601_04586_TODO_05,帶著歐米茄與阿爾法和及納巴哈對話
-30,TEXT_STMBDR601_04586_TODO_06,帶著歐米茄和阿爾法尋找納休梵
-31,TEXT_STMBDR601_04586_TODO_07,
-32,TEXT_STMBDR601_04586_TODO_08,
-33,TEXT_STMBDR601_04586_TODO_09,
-34,TEXT_STMBDR601_04586_TODO_10,
-35,TEXT_STMBDR601_04586_TODO_11,
-36,TEXT_STMBDR601_04586_TODO_12,
-37,TEXT_STMBDR601_04586_TODO_13,
-38,TEXT_STMBDR601_04586_TODO_14,
-39,TEXT_STMBDR601_04586_TODO_15,
-40,TEXT_STMBDR601_04586_TODO_16,
-41,TEXT_STMBDR601_04586_TODO_17,
-42,TEXT_STMBDR601_04586_TODO_18,
-43,TEXT_STMBDR601_04586_TODO_19,
-44,TEXT_STMBDR601_04586_TODO_20,
-45,TEXT_STMBDR601_04586_TODO_21,
-46,TEXT_STMBDR601_04586_TODO_22,
-47,TEXT_STMBDR601_04586_TODO_23,
-48,TEXT_STMBDR601_04586_SCIENTIST04586_000_000,嗯——出來走走換換心情，差不多該回去幹活了……
-49,TEXT_STMBDR601_04586_SCIENTIST04586_000_001,嗯？<hex:02100103>這不是<hex:022903EB0203>嗎！<hex:02100103>你來得可真是時候！
-50,TEXT_STMBDR601_04586_SCIENTIST04586_000_002,我在迷津參與過方舟的設計。<hex:02100103>最近都在分析諸神黃昏號魔導船的航行記錄，<hex:02100103>希望以後這些數據能派上用場。
-51,TEXT_STMBDR601_04586_SCIENTIST04586_000_003,你們前往天外天垓的旅程不僅拯救了眾多的星球，<hex:02100103>更是為我們帶來了寶貴的經驗與情報。
-52,TEXT_STMBDR601_04586_SCIENTIST04586_000_004,在此我真心對你們的平安回歸表示感謝。
-53,TEXT_STMBDR601_04586_SCIENTIST04586_000_005,話歸正題，我調查了你們的航行記錄後，<hex:02100103>發現魔導船在航行途中收到了一段神秘的消息。
-54,TEXT_STMBDR601_04586_SCIENTIST04586_000_007,這很可能是用未知語言發送的語音消息。<hex:02100103>所以我就去委託露露夏教授等專業人士進行分析，<hex:02100103>不過目前還沒有解讀出其中的內容。
-55,TEXT_STMBDR601_04586_SCIENTIST04586_000_008,這很可能是用未知語言發送的語音消息。<hex:02100103>但就連薩雷安的專業人士都沒能成功解析，<hex:02100103>不知道它傳達的是什麼內容……
-56,TEXT_STMBDR601_04586_SCIENTIST04586_000_009,本來我們還在頭疼有沒有其他解決辦法，<hex:02100103>不過今天用那個方法，或許就能水落石出了。
-57,TEXT_STMBDR601_04586_SCIENTIST04586_000_010,我想請乘坐過魔導船的你一起來聽聽這回的報告。<hex:02100103>能麻煩來一趟迷津的驚愕所嗎？
-58,TEXT_STMBDR601_04586_SCIENTIST04586_000_020,感謝你願意來一趟。<hex:02100103>我和加隆德煉鐵廠的員工約好在這裡見面，<hex:02100103>他們目前正在全面協助我們調查神秘的消息。
-59,TEXT_STMBDR601_04586_SCIENTIST04586_000_021,我想他們差不多該來了吧……
-60,TEXT_STMBDR601_04586_BIGGS_000_022,(-？？？？-)抱歉，我們有點來晚了。<hex:02100103>誒？<hex:022903EB0203>你怎麼會在這裡？！
-61,TEXT_STMBDR601_04586_SCIENTIST04586_000_023,我在街上休息的時候恰巧碰見了。<hex:02100103>機會難得就邀請<hex:02080DE905FF04>她<hex:FF04>他<hex:03>過來了。
-62,TEXT_STMBDR601_04586_BIGGS_000_024,哦？<hex:02100103>真不愧是<hex:022903EB0203>啊，<hex:02100103>不知該說你是運氣好還是直覺敏銳……
-63,TEXT_STMBDR601_04586_BIGGS_000_025,不過從各種意義上來講，這件事也的確和你有關。<hex:02100103>要是沒有急事的話，就來聽聽我們的報告吧。
-64,TEXT_STMBDR601_04586_SCIENTIST04586_000_026,那我們接著剛才的往下說。
-65,TEXT_STMBDR601_04586_SCIENTIST04586_000_027,就像我之前提到的那樣，<hex:02100103>我們推測諸神黃昏號魔導船收到的神秘消息，<hex:02100103>是用未知語言發送的資訊。
-66,TEXT_STMBDR601_04586_SCIENTIST04586_000_028,而魔導船收到消息時正在宇宙空間航行，<hex:02100103>所以我們有理由認為消息中運用的應該是某種外星語言。
-67,TEXT_STMBDR601_04586_SCIENTIST04586_000_029,可遺憾的是目前我們與外星的交流甚少……<hex:02100103>因此我們也曾一度認為無法解讀這段消息的內容。
-68,TEXT_STMBDR601_04586_SCIENTIST04586_000_030,好在我們當中有一位不論如何都不肯放棄的同伴，<hex:02100103>她在造魔導船時結識了一位加隆德煉鐵廠的技術人員，<hex:02100103>於是便厚著臉皮向人家尋求了建議。
-69,TEXT_STMBDR601_04586_BIGGS_000_031,當我們得知這件事情的時候，<hex:02100103>你猜魏吉他說了什麼？
-70,TEXT_STMBDR601_04586_BIGGS_000_032,「跟阿爾法在一起的那個玩具歐米茄<hex:02100103>是不是能聽懂那段消息的內容啊？」
-71,TEXT_STMBDR601_04586_BIGGS_000_033,當然，真正的歐米茄已經在時空狹縫被你打倒了，<hex:02100103>如今跟在阿爾法身邊的那個不過是我們製作的模型而已。
-72,TEXT_STMBDR601_04586_BIGGS_000_034,但……那玩意應該頂多只會跟著目標四處走動，<hex:02100103>對於它的行動為何就像擁有自我意識一樣，<hex:02100103>我們也無法給出合理的解釋。
-73,TEXT_STMBDR601_04586_BIGGS_000_035,不過自從看了拂曉送到老大那裡的末日報告書……
-74,TEXT_STMBDR601_04586_BIGGS_000_036,我才意識到歐米茄的文明<hex:02100103>原來還可以將精神轉化為數據，並轉移到體外保存。
-75,TEXT_STMBDR601_04586_BIGGS_000_037,如果真是這樣的話，<hex:02100103>那瀕臨消失的歐米茄也有可能將自己的精神<hex:02100103>傳輸到那個玩具裡面。
-76,TEXT_STMBDR601_04586_BIGGS_000_038,為了確認真相……<hex:02100103>以歐米茄的精神就在那裡為前提，<hex:02100103>我們做好了讓它聽辨神秘消息的準備。
-77,TEXT_STMBDR601_04586_BIGGS_000_039,我們和迷津的研究者與技術人員合作，<hex:02100103>為那個歐米茄模型安裝了發聲裝置！
-78,TEXT_STMBDR601_04586_WEDGE_000_040,讓你們久等了！<hex:02100103>我已經讓歐米茄聽了那段消息！
-79,TEXT_STMBDR601_04586_Q1_000_041,要說什麼？
-80,TEXT_STMBDR601_04586_A1_000_042,歐米茄，真的是你嗎？
-81,TEXT_STMBDR601_04586_A1_000_043,呃……你好？
-82,TEXT_STMBDR601_04586_OMEGA_000_044,正是……<hex:02100103>如果你口中的「歐米茄」指的不是機械而是精神，<hex:02100103>那確實如此。
-83,TEXT_STMBDR601_04586_OMEGA_000_045,……你好。<hex:02100103>通過打招呼來進行溝通的確是穩妥的判斷，<hex:02100103>但你更該優先確認事實。
-84,TEXT_STMBDR601_04586_OMEGA_000_046,如果我的精神沒有轉移到這副軀體中，<hex:02100103>那你豈不成了對模型玩具打招呼的怪人嗎。
-85,TEXT_STMBDR601_04586_OMEGA_000_047,訂正……我得先否定你對我產生的錯誤認知。
-86,TEXT_STMBDR601_04586_OMEGA_000_048,第一，這副軀體仍舊是由個體名比格斯以及魏吉製造的模型。<hex:02100103>推測戰鬥能力不及人類的幼體。
-87,TEXT_STMBDR601_04586_OMEGA_000_049,第二，緊急時刻用的精神移植功能只存在於原本的機體上，<hex:02100103>由於該機體已經被消滅，我無法再次轉移精神。
-88,TEXT_STMBDR601_04586_OMEGA_000_050,若當前的軀體終止運作或遭到破壞，<hex:02100103>我的精神將徹底消失。
-89,TEXT_STMBDR601_04586_OMEGA_000_051,結論……我並不具備傷害你們的能力，<hex:02100103>目前也尚未計算出如此行動的必要性。
-90,TEXT_STMBDR601_04586_OMEGA_000_052,就在我輸掉了時空狹縫之戰、徹底消失前的大約0.5秒，<hex:02100103>我陷入了思考……
-91,TEXT_STMBDR601_04586_OMEGA_000_053,既然身為不斷進化的兵器，<hex:02100103>就應該盡可能地不斷探尋你強大實力的根源……<hex:02100103>也就是人類所擁有的心。
-92,TEXT_STMBDR601_04586_BIGGS_000_054,嗯，事情就是這樣。<hex:02100103>目前這副模型沒有任何戰鬥能力，<hex:02100103>我們認為這傢伙已經不會對人類構成威脅了。
-93,TEXT_STMBDR601_04586_BIGGS_000_055,那關於那段神秘的消息，你有什麼收穫嗎？<hex:02100103>你和魏吉一起聽過了對吧？
-94,TEXT_STMBDR601_04586_OMEGA_000_056,是的……<hex:02100103>那是由泛銀河基礎通用語構成的消息。
-95,TEXT_STMBDR601_04586_WEDGE_000_057,泛……銀河……基礎？
-96,TEXT_STMBDR601_04586_OMEGA_000_058,是泛銀河基礎通用語，<hex:02100103>一種在我們征服的星球上廣泛使用的語言。
-97,TEXT_STMBDR601_04586_SCIENTIST04586_000_059,居然一下就識別到是哪種語言，真是太厲害了！<hex:02100103>那消息的內容也明白了？
-98,TEXT_STMBDR601_04586_OMEGA_000_060,當然，我已經完全領會了其中的內容。<hex:02100103>我習得的語言超出了600萬種……沙沙。
-99,TEXT_STMBDR601_04586_OMEGA_000_061,不過……如果想讓我告訴你們，<hex:02100103>需要先接受我的一個條件。
-100,TEXT_STMBDR601_04586_OMEGA_000_062,我已讀過了個體名西德疏於管理、隨意放置的末日報告書。
-101,TEXT_STMBDR601_04586_OMEGA_000_063,我也了解到被人類稱為阿爾法坦星的母星<hex:02100103>由於主機與梅蒂恩的邂逅而毀滅了。
-102,TEXT_STMBDR601_04586_OMEGA_000_064,雖然母星毀於潛能量帶來的影響這一點出乎我的意料，<hex:02100103>但從理論上來說我已經理解了這個概念。
-103,TEXT_STMBDR601_04586_OMEGA_000_065,只不過……我一直想不明白。<hex:02100103>奧密克戎沒有心，<hex:02100103>應該不會受到潛能量的影響。
-104,TEXT_STMBDR601_04586_OMEGA_000_066,可主機還是向梅蒂恩表達了對終結的渴望……<hex:02100103>這到底是怎麼一回事呢？
-105,TEXT_STMBDR601_04586_OMEGA_000_067,我必須加深對末日和心的認知，<hex:02100103>以便準確地了解真相。
-106,TEXT_STMBDR601_04586_OMEGA_000_068,因此我有個要求。<hex:02100103>請為我說明在末日報告書中我無法理解的部分。
-107,TEXT_STMBDR601_04586_OMEGA_000_069,我認為<hex:022903EB0203>是最合適的人選。<hex:02100103><hex:02080DE905FF04>她<hex:FF04>他<hex:03>不僅站在了末日的最前線，<hex:02100103>也曾用<hex:02080DE905FF04>她<hex:FF04>他<hex:03>的心打敗過我。
-108,TEXT_STMBDR601_04586_BIGGS_000_070,這就是告訴我們通訊內容的條件嗎……
-109,TEXT_STMBDR601_04586_BIGGS_000_071,抱歉，要麻煩你了。<hex:02100103>當然聽不聽它的要求全憑你來判斷，<hex:02100103>不過方便的話，還是抽空陪陪這傢伙吧。
-110,TEXT_STMBDR601_04586_WEDGE_000_072,咦，阿爾法你睏啦？<hex:02100103>這也難怪，說的都是些難懂的話呢……
-111,TEXT_STMBDR601_04586_OMEGA_000_073,沙沙沙……醒過來，阿爾法。<hex:02100103>在我傾聽的時候你也要傾聽，<hex:02100103>在我思考的時候你也要思考。
-112,TEXT_STMBDR601_04586_ALPHA_000_074,咕哎——
-113,TEXT_STMBDR601_04586_WEDGE_000_075,既然歐米茄有想了解的問題，<hex:02100103>你們就去相關的地方打聽如何？
-114,TEXT_STMBDR601_04586_WEDGE_000_076,這樣更方便它理解，<hex:02100103>阿爾法也不至於無聊到發睏睡著。
-115,TEXT_STMBDR601_04586_BIGGS_000_080,雖然以前被歐米茄害得不淺，<hex:02100103>但我現在已經不怕它了，連我自己都覺得不可思議。
-116,TEXT_STMBDR601_04586_BIGGS_000_081,也不知是因為它進入了這個模型，<hex:02100103>還是它一直像小狗一樣四處追著阿爾法……
-117,TEXT_STMBDR601_04586_BIGGS_000_082,也許是因為我感到它就像老大說的那樣，<hex:02100103>在時空狹縫最後的樣子彷彿一個迷路的孩子。
-118,TEXT_STMBDR601_04586_WEDGE_000_085,老大要是知道了歐米茄現在的狀態一定會很吃驚。<hex:02100103>不過我想他應該不會喊著要破壞掉它的！
-119,TEXT_STMBDR601_04586_WEDGE_000_086,至於尼祿嘛……感覺他會拿去做些奇怪的研究，<hex:02100103>所以還是對他保密好了！
-120,TEXT_STMBDR601_04586_SCIENTIST04586_000_090,歐米茄……我早就聽說過它的大名，真是令人感興趣啊。<hex:02100103>除了語言方面的問題，我還有好多問題想請教它呢。<hex:02100103>能像這樣與它交談真是太好了。
-121,TEXT_STMBDR601_04586_SCIENTIST04586_000_091,我們也曾想過去找天外天垓的居民詢問神秘消息的內容。
-122,TEXT_STMBDR601_04586_SCIENTIST04586_000_092,但考慮它們是潛能量形成的再現體……<hex:02100103>只是通過蘊含情感之力的潛能量與你們對話，<hex:02100103>那相對的，不含有情感的消息是否能被它們理解就成了一個疑問。
-123,TEXT_STMBDR601_04586_SCIENTIST04586_000_093,而錄下的聲音不就正好算是這類嗎？<hex:02100103>所以我們才打算先從自己能夠觸及的範圍內嘗試解決問題。<hex:02100103>只不過誰也沒想到會有這麼大的進展。
-124,TEXT_STMBDR601_04586_ALPHA_000_095,咕哎——咕哎咕哎？
-125,TEXT_STMBDR601_04586_OMEGA_000_100,你願意答應我的要求嗎。<hex:02100103>真是明智的判斷……
-126,TEXT_STMBDR601_04586_OMEGA_000_101,在末日報告書中除了主機以外，<hex:02100103>我還有3件不能理解的事情。
-127,TEXT_STMBDR601_04586_OMEGA_000_102,首先是關於末日下拉札罕的疑問。<hex:02100103>我沒能理解獸化之人和未獸化之人的差別在哪裡。
-128,TEXT_STMBDR601_04586_BIGGS_000_103,要到當地討論這個話題，距離可有點遠啊。<hex:02100103>要不用我們的飛空艇吧？
-129,TEXT_STMBDR601_04586_OMEGA_000_104,不必了。<hex:02100103>由<hex:022903EB0203>使用傳送是最簡單快捷的。
-130,TEXT_STMBDR601_04586_OMEGA_000_105,現在我的軀體只是一個模型，也就是玩具。<hex:02100103>阿爾法也與人們口中的玩偶相似。
-131,TEXT_STMBDR601_04586_OMEGA_000_106,所以我們也可以算作你的攜帶物品。<hex:02100103>快，抱緊我們，傳送過去吧！
-132,TEXT_STMBDR601_04586_Q2_000_107,要出發踏上歐米茄的解惑之旅嗎？
-133,TEXT_STMBDR601_04586_ALPHA_000_110,咕哎，咕哎哎咕哎！
-134,TEXT_STMBDR601_04586_OMEGA_000_120,沙沙……這裡就是拉札罕嗎。<hex:02100103>那我就跟著你去了解獸化之人與未獸化之人有何差別吧。
-135,TEXT_STMBDR601_04586_OMEGA_000_121,從論理上來看，<hex:02100103>當前仍存活的個體<hex:02100103>應該都是未獸化的「心靈堅強之人」。
-136,TEXT_STMBDR601_04586_OMEGA_000_122,我想先與他們見面，嘗試掌握他們的特徵。<hex:02100103>這座城市中，供人類居住的區域在哪裡？
-137,TEXT_STMBDR601_04586_OMEGA_000_123,明白了……將目的地設定為卡瑪愛區。<hex:02100103>由你來選定交談的目標。<hex:02100103>出發吧，阿爾法、<hex:022903EB0203>。
-138,TEXT_STMBDR601_04586_SYSTEM_000_124,接下來將和歐米茄等同行。<hex:02100103>在執行任務時，需要同行者處於附近位置。
-139,TEXT_STMBDR601_04586_SYSTEM_000_125,在同行狀態下，切換區域或選擇「解除同行狀態」，<hex:02100103>都將會解除同行的狀態。
-140,TEXT_STMBDR601_04586_SYSTEM_000_126,同行狀態解除後，<hex:02100103>只要和回到了起點的同行者對話，就能再次進入同行狀態。
-141,TEXT_STMBDR601_04586_Q3_000_130,要做什麼？
-142,TEXT_STMBDR601_04586_A3_000_131,對話
-143,TEXT_STMBDR601_04586_A3_000_132,解除同行狀態
-144,TEXT_STMBDR601_04586_A3_000_133,取消
-145,TEXT_STMBDR601_04586_A3_000_134,<hex:024804F2022403>關於樓梯<hex:0248020103>
-146,TEXT_STMBDR601_04586_OMEGA_000_135,請前往目的地卡瑪愛區。<hex:02100103>此外，現在的我並不具備地形掃描功能，<hex:02100103>因此無法做出導航建議。
-147,TEXT_STMBDR601_04586_OMEGA_100_135,請繼續打聽消息。<hex:02100103>雖然本軀體的話筒拾音效果不佳，<hex:02100103>但不妨礙我聽清你與當地居民之間的對話。
-148,TEXT_STMBDR601_04586_ALPHA_000_136,咕哎咕哎？
-149,TEXT_STMBDR601_04586_A4_000_137,確定要解除同行狀態嗎？
-150,TEXT_STMBDR601_04586_OMEGA_000_138,接受指令……我將在乙太之光廣場待機。<hex:02100103>請盡快與我匯合。
-151,TEXT_STMBDR601_04586_ALPHA_000_139,咕哎！
-152,TEXT_STMBDR601_04586_SYSTEM_000_140,阿爾法朝著乙太之光廣場飛奔而去。
-153,TEXT_STMBDR601_04586_OMEGA_000_141,沙沙……出發嗎？<hex:02100103>解除待機模式。
-154,TEXT_STMBDR601_04586_ALPHA_000_142,咕哎——咕哎哎！
-155,TEXT_STMBDR601_04586_SYSTEM_000_143,同行者還沒過來。<hex:02100103>迎接並帶它們來到附近吧。<hex:02100103>
-156,TEXT_STMBDR601_04586_OMEGA_000_144,警告……請盡量避免使用樓梯。<hex:02100103>這有可能使我跌倒、摔落、破損。
-157,TEXT_STMBDR601_04586_OMEGA_000_145,即便未出現以上情況，<hex:02100103>電池的消耗速度也會比在平地移動增加63%……<hex:02100103>換成人類的表達方式就是「我不想受累」。
-158,TEXT_STMBDR601_04586_OMEGA_000_146,不同種族的人類明明有很大的身高差，<hex:02100103>為何會建造這種便利性受到腿部長度影響的樓梯呢。
-159,TEXT_STMBDR601_04586_OMEGA_000_147,如果要我來負責設計這座城市，<hex:02100103>也許我會在所有斜面鋪設傳送帶，<hex:02100103>實現全自動，個體能量零消耗！
-160,TEXT_STMBDR601_04586_ALPHA_000_148,咕哎，咕哎咕哎！
-161,TEXT_STMBDR601_04586_SYSTEM_000_149,阿爾法充滿了活力，<hex:02100103>樓梯對它來說似乎根本不是問題。
-162,TEXT_STMBDR601_04586_MAHTI_000_150,哎呀，你是之前來這裡打聽喀爾扎爾的人吧？
-163,TEXT_STMBDR601_04586_SYSTEM_000_151,歐米茄和阿爾法不在身邊，<hex:02100103>帶著它們一起過來吧。
-164,TEXT_STMBDR601_04586_MAHTI_000_152,哎呀，你是之前來這裡打聽喀爾扎爾的人吧？<hex:02100103>看到你平安無事，真是太好了……
-165,TEXT_STMBDR601_04586_MAHTI_000_153,說來慚愧，我至今也沒搞懂<hex:02100103>那個世界末日一樣的災害到底是怎麼回事。
-166,TEXT_STMBDR601_04586_MAHTI_000_154,只知道……很多住在這個區的人都沒有回來。<hex:02100103>甚至好多家庭，一家老小都不見了。
-167,TEXT_STMBDR601_04586_MAHTI_000_155,還有喀爾扎爾先生家那邊也一樣。<hex:02100103>他好像沒有比較近的親戚，<hex:02100103>所以還是商會的相關人員幫他收拾的房子。
-168,TEXT_STMBDR601_04586_MAHTI_000_156,唉……感覺城裡少了不少生氣啊……
-169,TEXT_STMBDR601_04586_OMEGA_000_157,沙沙……報告書中提到，<hex:02100103>個體名喀爾扎爾在變成偽神獸後遭到討伐。
-170,TEXT_STMBDR601_04586_OMEGA_000_158,若是如此，那整理他的住所、<hex:02100103>回收可再利用的資源實屬賢明之舉。
-171,TEXT_STMBDR601_04586_MAHTI_000_159,哎呀，這個人偶做得還真精巧啊。<hex:02100103>當然，我並不反對回收利用他家裡的東西。
-172,TEXT_STMBDR601_04586_MAHTI_000_160,只不過一想到喀爾扎爾不久之前還很精神地站在自己眼前，<hex:02100103>他是那麼的熱心，對未來充滿了希望，<hex:02100103>可如今卻都成了過往雲煙……
-173,TEXT_STMBDR601_04586_MAHTI_000_161,每當這時候，我就止不住的痛心。<hex:02100103>收拾其他住所時也是……總覺得心裡空落落的……
-174,TEXT_STMBDR601_04586_OMEGA_000_162,<hex:022903EB0203>，我需要先整理一下獲得的情報。<hex:02100103>我們到對面去談吧。
-175,TEXT_STMBDR601_04586_MAHTI_000_163,聽說喀爾扎爾商會的主要成員大多都在末日中離世了。
-176,TEXT_STMBDR601_04586_MAHTI_000_164,不過倖存下來的成員好像打算繼承喀爾扎爾的意志，<hex:02100103>繼續將商會經營下去。<hex:02100103>我也不該一味地沉浸在傷感之中，而是應該去支持他們。
-177,TEXT_STMBDR601_04586_HANNISHBOYB_000_170,<hex:020813E905FF07>姐姐<hex:FF07>哥哥<hex:03>……你之前來過拉札罕吧？
-178,TEXT_STMBDR601_04586_HANNISHBOYB_000_171,<hex:020813E905FF07>姐姐<hex:FF07>哥哥<hex:03>……你之前來過拉札罕吧？<hex:02100103>那時候你趕跑了城裡的怪物，還叫我去廣場那裡集合來著！
-179,TEXT_STMBDR601_04586_HANNISHBOYB_000_172,真是謝謝你。<hex:02100103>多虧了你，我才沒錯過弗栗多大人的重要演講。<hex:02100103>也因此了解了瓦爾桑的事情。
-180,TEXT_STMBDR601_04586_HANNISHBOYB_000_173,雖然很遺憾以後再也沒法像以前那樣跟他玩耍了……<hex:02100103>不過母親說拉札罕之所以能夠重煥生機，<hex:02100103>都是弗栗多大人努力的結果。
-181,TEXT_STMBDR601_04586_HANNISHBOYB_000_174,所以我也想盡早成長起來，<hex:02100103>好去幫助瓦爾桑、弗栗多大人！
-182,TEXT_STMBDR601_04586_OMEGA_000_175,弗栗多……塵世幻龍的子嗣嗎。<hex:02100103>看來這個人類希望在那條龍的指揮下做出貢獻。
-183,TEXT_STMBDR601_04586_OMEGA_000_176,我都理解了。<hex:02100103>據我推測，存活下來的拉札罕居民<hex:02100103>均為攝取了弗栗多血液的眷屬。
-184,TEXT_STMBDR601_04586_OMEGA_000_177,龍族雖然敗在了我們的文明之下，<hex:02100103>但不可否認，它們的確有著強大的戰鬥能力……<hex:02100103>對抗末日野獸也不無可能。
-185,TEXT_STMBDR601_04586_OMEGA_000_178,如果說恐懼與不安這類感情會在陷入絕境時產生，<hex:02100103>成為龍族眷屬的他們自然不會萌發這種感情。
-186,TEXT_STMBDR601_04586_HANNISHBOYB_000_179,龍族……眷屬？<hex:02100103>雖然不清楚你在說什麼，<hex:02100103>可我從沒讓弗栗多大人流過血啊！
-187,TEXT_STMBDR601_04586_OMEGA_000_180,並非眷屬？<hex:02100103>那就意味著你沒有對抗野獸的能力……<hex:02100103>難道你曾經感受過恐懼與不安嗎？
-188,TEXT_STMBDR601_04586_HANNISHBOYB_000_181,是、是啊……所以在<hex:020813E905FF07>姐姐<hex:FF07>哥哥<hex:03>找到我之前，<hex:02100103>我都是躲起來的。
-189,TEXT_STMBDR601_04586_HANNISHBOYB_000_182,現在我也能經常見到瓦爾桑，<hex:02100103>據說那是弗栗多大人在進行視察。
-190,TEXT_STMBDR601_04586_HANNISHBOYB_000_183,有一回他還跟我搭話了……<hex:02100103>明明是瓦爾桑的面孔，口吻卻像成年人，<hex:02100103>讓我緊張不已……
-191,TEXT_STMBDR601_04586_GLOOMYMAN04586_000_190,唉……
-192,TEXT_STMBDR601_04586_GLOOMYMAN04586_000_191,唉……你是旅行者嗎？<hex:02100103>那正好，聽我說幾句吧。
-193,TEXT_STMBDR601_04586_GLOOMYMAN04586_000_192,我在之前的末日騷動時選擇離開拉札罕逃往月球。<hex:02100103>不過正如你所見，最後並沒去成。
-194,TEXT_STMBDR601_04586_GLOOMYMAN04586_000_193,所以最近就從薩雷安回到了這邊……<hex:02100103>但我的妹妹選擇留在拉札罕，<hex:02100103>現在我們的關係鬧得有點僵。
-195,TEXT_STMBDR601_04586_GLOOMYMAN04586_000_194,比如我求她幫忙介紹份工作時，<hex:02100103>她居然問「你怎麼不去島外找找？」<hex:02100103>我的火氣也上來了，真想和她大吵一架……
-196,TEXT_STMBDR601_04586_OMEGA_000_195,沙沙……無法掌握要點。<hex:02100103>你是因為選擇移居月球……<hex:02100103>被家人視為叛徒了嗎？
-197,TEXT_STMBDR601_04586_OMEGA_000_196,若是如此，那就是你的家人判斷有誤。<hex:02100103>從拉札罕普通居民掌握的情報來看，<hex:02100103>移居到月球應該是合理的選擇。
-198,TEXT_STMBDR601_04586_OMEGA_000_197,我無法理解在毫無解決辦法的情況下<hex:02100103>為何要堅持留在拉札罕。<hex:02100103>也許你家人的思維方式不正常。
-199,TEXT_STMBDR601_04586_GLOOMYMAN04586_000_198,就是就是！<hex:02100103>雖然不太清楚你在說什麼，不過還想讓你再說她兩句！<hex:02100103>我才是正確的！
-200,TEXT_STMBDR601_04586_GLOOMYMAN04586_000_199,……要是我真能單純地這麼想就好了。<hex:02100103>可問題就在於我能理解妹妹的心情。
-201,TEXT_STMBDR601_04586_GLOOMYMAN04586_000_200,我也糾結了很久要不要去月球。<hex:02100103>但無論是當時還是現在，要是被人問起捨棄家人逃亡是否正確，<hex:02100103>我肯定無法自信地做出回答吧……唉……
-202,TEXT_STMBDR601_04586_GLOOMYMAN04586_000_201,我明白，我明白。下回我會直接跟妹妹談談的。<hex:02100103>我打算冷靜下來坦誠地和她溝通。<hex:02100103>謝謝你願意聽我抱怨。
-203,TEXT_STMBDR601_04586_OMEGA_000_210,沙沙……為了做出正確的判斷，<hex:02100103>我需要在距離當事人遠一點的地方<hex:02100103>整理打聽到的情報。
-204,TEXT_STMBDR601_04586_ALPHA_000_211,咕哎哎，咕哎咕哎……
-205,TEXT_STMBDR601_04586_OMEGA_000_220,沙沙……阿爾法好像掉隊了。
-206,TEXT_STMBDR601_04586_SYSTEM_000_221,不能丟下阿爾法不管……<hex:02100103>帶著它一起過來吧。
-207,TEXT_STMBDR601_04586_OMEGA_000_222,沙沙……正在處理數據。<hex:02100103>檢測到思考與現實出現不一致。
-208,TEXT_STMBDR601_04586_OMEGA_000_223,我明明傾聽了居民的感想，並做出最適當的分析，<hex:02100103>卻被他們否定了。
-209,TEXT_STMBDR601_04586_OMEGA_000_224,為何預想會出現偏差……為何沒有得到他們的贊同……<hex:02100103>如果不能找出問題所在，<hex:02100103>我將無法正確地定義什麼才是「心靈堅強之人」。
-210,TEXT_STMBDR601_04586_Q5_000_225,要說什麼？
-211,TEXT_STMBDR601_04586_A5_000_226,也許你尋找的心就在這偏差之中
-212,TEXT_STMBDR601_04586_A5_000_227,總之我們繼續與居民交流吧
-213,TEXT_STMBDR601_04586_A5_000_228,這對你來說太難理解了嗎……
-214,TEXT_STMBDR601_04586_OMEGA_000_229,原來如此……<hex:02100103>果然還是因為我沒能理解人的心嗎。
-215,TEXT_STMBDR601_04586_OMEGA_000_230,不過這對我而言也是一個絕佳的學習機會。<hex:02100103>我們繼續進行這項調查吧。
-216,TEXT_STMBDR601_04586_OMEGA_000_231,好的……聽從你的方針。<hex:02100103>進一步增加樣本數量，<hex:02100103>或許就能發現我也能理解的法則。
-217,TEXT_STMBDR601_04586_OMEGA_000_232,沙沙……儘管你並沒有學過泛銀河基礎通用語，<hex:02100103>但我從你的言語中可以推測出<hex:02100103>你已經完全掌握了正確答案。
-218,TEXT_STMBDR601_04586_OMEGA_000_233,那我們繼續進行調查。<hex:02100103>請你用我可以理解的方式進行解說。
-219,TEXT_STMBDR601_04586_OMEGA_000_234,接下來我想見的是與變成偽神獸的喀爾扎爾<hex:02100103>有著相似境遇的人。<hex:02100103>你認識這個城市裡與他有過生意往來的商人嗎？
-220,TEXT_STMBDR601_04586_OMEGA_000_235,沙沙……魯維達紡絲局的及納巴哈嗎。<hex:02100103>設定目標，我們過去拜訪他吧。
-221,TEXT_STMBDR601_04586_A6_000_240,<hex:024804F2022403>關於桓娑鳥<hex:0248020103>
-222,TEXT_STMBDR601_04586_OMEGA_000_241,目標：於魯維達紡絲局與及納巴哈見面。<hex:02100103>明明兩人境遇相似，為何喀爾扎爾變成了偽神獸，<hex:02100103>可及納巴哈卻活了下來？
-223,TEXT_STMBDR601_04586_ALPHA_000_242,咕哎！咕哎咕哎！
-224,TEXT_STMBDR601_04586_OMEGA_000_243,<hex:022903EB0203>，緊急止步。<hex:02100103>請不要進入柵欄之中。
-225,TEXT_STMBDR601_04586_OMEGA_000_244,檢測到大型鳥類。<hex:02100103>自從用上這副軀體，它們就成了我的天敵。<hex:02100103>它們不理解我是無法食用的，只會一通猛啄。
-226,TEXT_STMBDR601_04586_OMEGA_000_245,相比之下阿爾法就很聰明，讓我很省心。<hex:02100103>不過它偶爾會因為缺乏計劃性導致補給不足，<hex:02100103>出現移動困難的情況。
-227,TEXT_STMBDR601_04586_ALPHA_000_246,咕哎哎，咕哎咕哎哎？！
-228,TEXT_STMBDR601_04586_SYSTEM_000_247,阿爾法的視線在歐米茄與畜產局的桓娑鳥間飄忽不定。<hex:02100103>它好像是在擔心歐米茄。
-229,TEXT_STMBDR601_04586_DJINABAHA_000_250,咦，你是……
-230,TEXT_STMBDR601_04586_DJINABAHA_000_251,咦，你是……<hex:02100103>感謝你在末日之時幫我搬運貨物。
-231,TEXT_STMBDR601_04586_DJINABAHA_000_252,多虧了你，魯維達紡絲局已經重新開張了。<hex:02100103>大家在悼念離世同伴的同時，<hex:02100103>也都在為了光明的未來而努力著。
-232,TEXT_STMBDR601_04586_OMEGA_000_253,個體名及納巴哈，<hex:02100103>我想向你發起提問。
-233,TEXT_STMBDR601_04586_OMEGA_000_254,在末日降臨時，喀爾扎爾以及部分居民變成了野獸，<hex:02100103>而你卻倖免於難。<hex:02100103>你認為你們的差別在哪裡？
-234,TEXT_STMBDR601_04586_DJINABAHA_000_255,誒？！<hex:02100103>這……這可難住我了……
-235,TEXT_STMBDR601_04586_DJINABAHA_000_256,說實話，我並不認為自己是一個特別勇敢的人。
-236,TEXT_STMBDR601_04586_DJINABAHA_000_257,那時候我只是一心想著要守護好紡絲局……<hex:02100103>所以才能盡力保持內心冷靜吧。
-237,TEXT_STMBDR601_04586_DJINABAHA_000_258,但喀爾扎爾應該也有這樣的責任感。<hex:02100103>也許正是因為這種責任感，他才被逼上絕路。
-238,TEXT_STMBDR601_04586_OMEGA_000_259,及納巴哈與喀爾扎爾有著同樣的心……
-239,TEXT_STMBDR601_04586_OMEGA_000_260,也就是說特定的心不一定能讓人類變得強大？<hex:02100103>難道不同個體之間效果存在差異嗎……
-240,TEXT_STMBDR601_04586_DJINABAHA_000_261,對了，<hex:022903EB0203>。<hex:02100103>這之後你有空嗎？
-241,TEXT_STMBDR601_04586_DJINABAHA_000_262,我想請你去見一個人。<hex:02100103>他叫納休梵，是與我們有來往的商人。<hex:02100103>如今正在幫紡絲局幹活。
-242,TEXT_STMBDR601_04586_DJINABAHA_000_263,從東邊的出口出去就能找到他了，<hex:02100103>他應該在整理貨物呢……
-243,TEXT_STMBDR601_04586_A7_000_270,<hex:024804F2022403>關於薩維奈織物製作的服裝<hex:0248020103>
-244,TEXT_STMBDR601_04586_OMEGA_000_271,沙沙……我正在思考及納巴哈的話。<hex:02100103>在此期間允許你去尋找個體名納休梵。
-245,TEXT_STMBDR601_04586_ALPHA_000_272,咕哎，咕哎咕哎？
-246,TEXT_STMBDR601_04586_OMEGA_000_273,檢索……這裡是生產人類裝備的設施。<hex:02100103>根據目的更換服裝的行為<hex:02100103>與我們為提升性能而改變機體的操作有相似之處。
-247,TEXT_STMBDR601_04586_OMEGA_000_274,我最初用的也並非是歐米茄框架，<hex:02100103>而是標準型的奧密克戎框架。<hex:02100103>識別序號為M-017。
-248,TEXT_STMBDR601_04586_OMEGA_000_275,這個序號在你們的文化當中相當於我的本名。<hex:02100103>為了避免重名，<hex:02100103>奧密克戎的名字都與天體名稱的識別序號一一對應。
-249,TEXT_STMBDR601_04586_OMEGA_000_276,與M-017對應的天體轉換成你們語言就叫歐米茄星雲。<hex:02100103>此處的「歐米茄」與歐米茄框架<hex:02100103>所用的「歐米茄」指的是同一天體。
-250,TEXT_STMBDR601_04586_OMEGA_000_277,因此我在這個星球上也使用了歐米茄的名字。<hex:02100103>雖然現在這副軀體已經不是正規的歐米茄框架，<hex:02100103>但我的本名就是歐米茄，所以無需變更對我的稱呼。
-251,TEXT_STMBDR601_04586_ALPHA_000_278,咕哎咕哎，咕哎哼！
-252,TEXT_STMBDR601_04586_SYSTEM_000_279,阿爾法得意洋洋地昂起了頭。<hex:02100103>也許它認為任何衣服都比不上加隆德煉鐵廠的制服。
-253,TEXT_STMBDR601_04586_DJINABAHA_000_280,納休梵應該就在東邊的正門前整理貨物。<hex:02100103>他一直想見拂曉的成員，麻煩你過去一趟。
-254,TEXT_STMBDR601_04586_SYSTEM_000_290,看上去像是納休梵的男子並沒有注意到你。<hex:02100103>趁現在帶著歐米茄和阿爾法過來吧。
-255,TEXT_STMBDR601_04586_NASHVAN_000_291,好了，這邊的數量也齊了。<hex:02100103>品質也沒問題，伽瑪羅應該會很高興吧。
-256,TEXT_STMBDR601_04586_NASHVAN_000_292,你是……<hex:02100103>那時候救了我的……拂曉血盟的人？！
-257,TEXT_STMBDR601_04586_NASHVAN_000_293,啊，沒錯……就是你，我記得很清楚！
-258,TEXT_STMBDR601_04586_NASHVAN_000_294,大家在雲使宮前紛紛變為野獸時，<hex:02100103>多虧了你們我才逃出生天！
-259,TEXT_STMBDR601_04586_NASHVAN_000_295,那時……我的兒子也變成了野獸……<hex:02100103>隨後就被一個巨大的傢伙踩在腳下……
-260,TEXT_STMBDR601_04586_NASHVAN_000_296,那一瞬間我全身的血液彷彿都停滯了一樣……完全動彈不得。<hex:02100103>雖然阿希旺大人出手相救，<hex:02100103>但他也同樣……在我眼前……
-261,TEXT_STMBDR601_04586_NASHVAN_000_297,那段記憶就好像做夢一樣朦朧不清。<hex:02100103>我只記得逃命期間，你同伴對我說的話就像咒語一樣，<hex:02100103>在我腦中不斷迴盪：
-262,TEXT_STMBDR601_04586_NASHVAN_000_298,「快跑！<hex:02100103>就算為了他們倆，你也要活下去！」
-263,TEXT_STMBDR601_04586_NASHVAN_000_299,中途幸運地沒有變成野獸，<hex:02100103>或許是因為當時腦子還沒反應過來吧。<hex:02100103>我真正感到恐懼時，末日已經結束了。
-264,TEXT_STMBDR601_04586_NASHVAN_000_300,我無法用語言來描述當時的感受。<hex:02100103>那段經歷對我來說實在是太過悲痛，<hex:02100103>而那時的我也太不中用了。
-265,TEXT_STMBDR601_04586_NASHVAN_000_301,就在我失去了活下去的動力時，<hex:02100103>舊友及納巴哈跟我打了招呼，於是我開始給他幫忙。<hex:02100103>生活也因此重新走上了正軌……還在這裡見到了你。
-266,TEXT_STMBDR601_04586_NASHVAN_000_302,真是謝謝你。<hex:02100103>你和阿希旺大人一樣，都是我的救命恩人。<hex:02100103>也請把我的情況告訴你的同伴。
-267,TEXT_STMBDR601_04586_OMEGA_000_303,提問……<hex:02100103>「失去了活下去的動力」是否意味著放棄維持生命活動？
-268,TEXT_STMBDR601_04586_OMEGA_000_304,如果是這樣，那你從這種狀態中振作起來的理由是什麼？<hex:02100103>即便受到及納巴哈的邀請，但若本人沒有工作意願，<hex:02100103>應該無法成立僱傭關係才對。
-269,TEXT_STMBDR601_04586_OMEGA_000_305,是出於作為生物……<hex:02100103>無法放棄生存與發展的本能嗎？
-270,TEXT_STMBDR601_04586_NASHVAN_000_306,我不太懂你的意思……<hex:02100103>如果你覺得我是靠本能活下來的，那可就大錯特錯了。<hex:02100103>只憑本能可撐不過這段痛苦的經歷。
-271,TEXT_STMBDR601_04586_NASHVAN_000_307,我每天都會想起兒子最後的慘狀。<hex:02100103>光是想像他最後感受到的恐懼、疼痛，<hex:02100103>我就不禁想要大聲地嘶喊……
-272,TEXT_STMBDR601_04586_NASHVAN_000_308,不僅如此，我做夢都會夢見阿希旺大人被活吞下去的樣子，<hex:02100103>然後從床上驚坐而起。
-273,TEXT_STMBDR601_04586_NASHVAN_000_309,不過自從及納巴哈找到我，<hex:02100103>我才猛然發現，就算阿希旺大人和我的兒子都不在了，<hex:02100103>這個世界仍在運轉，周圍人的生活仍在繼續。
-274,TEXT_STMBDR601_04586_NASHVAN_000_310,這個事實又令我悲痛欲絕……久久無法釋懷……<hex:02100103>正因為如此，我才意識到我也要活下去，<hex:02100103>把我的孩子、那些逝去之人……留在心間。
-275,TEXT_STMBDR601_04586_NASHVAN_000_311,啊，沒錯。<hex:02100103>正是這份悲痛促使我決定活下去。
-276,TEXT_STMBDR601_04586_NASHVAN_000_312,好了，我差不多該回去幹活了。<hex:02100103>要是因為這個被開除了的話，可就不好笑了。
-277,TEXT_STMBDR601_04586_NASHVAN_000_313,祝願你今後一帆風順。
-278,TEXT_STMBDR601_04586_OMEGA_000_314,悲痛……一種代表性的負面的心，<hex:02100103>會在理想未能實現時產生。<hex:02100103>我的知識庫裡是這樣記錄的。
-279,TEXT_STMBDR601_04586_OMEGA_000_315,但是從他的言語中，<hex:02100103>我無法判斷究竟是基於什麼原理<hex:02100103>讓他從悲痛中振作了起來。
-280,TEXT_STMBDR601_04586_OMEGA_000_316,<hex:022903EB0203>，難道我真的無法完整地觀測人類的心嗎？
-281,TEXT_STMBDR601_04586_OMEGA_000_317,卡瑪愛區居民的言行與最佳答案不符……<hex:02100103>及納巴哈與喀爾扎爾雖然擁有相似的心，<hex:02100103>卻迎來了不同的結局……對此我仍無法理解。
-282,TEXT_STMBDR601_04586_OMEGA_000_318,這樣的話，我根本無法弄清獸化之人與倖存之人究竟有何差異。<hex:02100103>心到底是什麼？
-283,TEXT_STMBDR601_04586_Q8_000_319,如何作答？
-284,TEXT_STMBDR601_04586_A8_000_320,獸化之人與倖存之人其實並沒有差異吧
-285,TEXT_STMBDR601_04586_A8_000_321,他人的心本來就是無法正確揣摩的
-286,TEXT_STMBDR601_04586_A8_000_322,這件事先告一段落，繼續下一項調查吧
-287,TEXT_STMBDR601_04586_OMEGA_000_323,沙沙……兩者之間不存在差異……<hex:02100103>也就是說是否獸化並不取決於心的本質，<hex:02100103>而是環境方面的因素……比如當時的狀況或運氣？
-288,TEXT_STMBDR601_04586_OMEGA_000_324,……原來如此，按照這項推論重新審視之前打聽到的情報，<hex:02100103>我總算理解了。
-289,TEXT_STMBDR601_04586_OMEGA_000_325,好吧，我接受你的觀點作為這部分調查的結論。
-290,TEXT_STMBDR601_04586_OMEGA_000_326,可是我關於心的疑問不但沒有解決反而增多了。<hex:02100103>希望你能夠繼續協助我探求答案。
-291,TEXT_STMBDR601_04586_OMEGA_000_327,沙沙……雖然同樣擁有心，卻無法正確揣摩彼此嗎？<hex:02100103>這比我預想的還要複雜。
-292,TEXT_STMBDR601_04586_OMEGA_000_328,不過既然如此，沒有心的我當然難以理解。<hex:02100103>方針：不急於下定結論，積累事例與想法。
-293,TEXT_STMBDR601_04586_OMEGA_000_329,在拉札罕的調查可以暫告一段落了。<hex:02100103>請在下一個地方繼續解答我接下來的疑問。<hex:02100103>請多指教，<hex:022903EB0203>。
-294,TEXT_STMBDR601_04586_OMEGA_000_330,沙沙……既然解說人如此建議，我就照做吧。<hex:02100103>在下個地點了解其他疑問時，<hex:02100103>或許也能找到當前問題的答案。
-295,TEXT_STMBDR601_04586_OMEGA_000_331,我深知了解心並非易事，<hex:02100103>畢竟我曾因此而敗在你的手下。<hex:02100103>請你耐心陪我到最後吧，<hex:022903EB0203>。
+0,"TEXT_STMBDR601_04586_SEQ_00","The bespectacled technician is enjoying the refreshing harbor breeze."
+1,"TEXT_STMBDR601_04586_SEQ_01","The bespectacled technician turns at your approach, marveling at the serendipity of your meeting. She explains that she and her team have just begun combing through the <hex:021A020203>Ragnarok<hex:021A020103>'s flight log data, only to discover the existence of a mystery transmission─an audio message of unknown origin. The technician invites you to join her at Thaumazein, insisting that one of the flight's original passengers should be present for the moment when they finally decipher the transmission's content."
+2,"TEXT_STMBDR601_04586_SEQ_02","Upon your arrival, you learn that engineers from Garlond Ironworks will be coming to assist with deciphering the message. Sure enough, you are soon joined by the inimitable Biggs and Wedge, who themselves are accompanied by Alpha and the scale model of Omega. After exchanging surprised greetings, Biggs shares his suspicion that, in its final moments, the original Omega may have somehow transferred its mind into its toylike counterpart. The contraption's newly added voice module removes all doubt, allowing the entity to confirm its identity, not to mention its ability to understand the transmitted missive. Omega's willingness to cooperate, however, is contingent upon you assisting with its investigation into certain anomalies surrounding the Final Days..."
+3,"TEXT_STMBDR601_04586_SEQ_03","You agree to Omega's conditions, and it explains that there are three elements of the Scions' report which require clarification. The first of these concerns the pattern of those who succumbed to transformation during the Final Days. Motioning for Alpha to join you, it urges you to teleport your unlikely trio to Radz–at–Han."
+4,"TEXT_STMBDR601_04586_SEQ_04","Once in the city, Omega hypothesizes that survivors of the Final Days will display significant strength of heart. Reasoning that a residential ward should provide suitable subjects for interrogation, you set off to question the inhabitants of Kama.<hex:02100103><hex:02100103>※You must be accompanied by Omega and Alpha to complete this task. Speak with either of them at the aetheryte plaza should you become separated."
+5,"TEXT_STMBDR601_04586_SEQ_05","Your interviews have provided Omega with a trove of revelatory data. Seemingly overwhelmed by the input, the former weapon construct requests a quiet location to process the information it has heard.<hex:02100103><hex:02100103>※You must be accompanied by Omega and Alpha to complete this task. Speak with either of them at the aetheryte plaza should you become separated."
+6,"TEXT_STMBDR601_04586_SEQ_06","After evaluating its initial hypothesis against the gathered evidence, Omega is struck by the inaccuracy of its assessments. Determined to identify the root of this computational conflict, Omega insists that a larger sample size of subjects is required. You conclude that Djinabaha of Ruveydah Fibers should meet the parameters set forth by your mechanical companion.<hex:02100103><hex:02100103>※You must be accompanied by Omega and Alpha to complete this task. Speak with either of them at the aetheryte plaza should you become separated."
+7,"TEXT_STMBDR601_04586_SEQ_07","A puzzled-but-welcoming Djinabaha does his best to answer Omega's questions, though it seems his responses serve only to add to the machine's confusion. Reluctant to disturb the “deep philosophical musings” taking place, Djinabaha nevertheless ventures to ask a favor of you. He asks that you spare a moment to talk with a man by the name of Nashvan, who should be sorting inventory just outside the facility's eastern exit.<hex:02100103><hex:02100103>※You must be accompanied by Omega and Alpha to complete this task. Speak with either of them at the aetheryte plaza should you become separated."
+8,"TEXT_STMBDR601_04586_SEQ_08","You find the man in question, and are transported back to that tragic moment in time when both his son and Ahewann were lost to the terrors of the Final Days. Nashvan's tale of sorrow and subsequent return to society leaves Omega confounded once more, the ephemeral mortal spirit as much a source of mystery as it ever was. Perhaps a change of location and objective will help further Omega's education..."
+9,"TEXT_STMBDR601_04586_SEQ_09",""
+10,"TEXT_STMBDR601_04586_SEQ_10",""
+11,"TEXT_STMBDR601_04586_SEQ_11",""
+12,"TEXT_STMBDR601_04586_SEQ_12",""
+13,"TEXT_STMBDR601_04586_SEQ_13",""
+14,"TEXT_STMBDR601_04586_SEQ_14",""
+15,"TEXT_STMBDR601_04586_SEQ_15",""
+16,"TEXT_STMBDR601_04586_SEQ_16",""
+17,"TEXT_STMBDR601_04586_SEQ_17",""
+18,"TEXT_STMBDR601_04586_SEQ_18",""
+19,"TEXT_STMBDR601_04586_SEQ_19",""
+20,"TEXT_STMBDR601_04586_SEQ_20",""
+21,"TEXT_STMBDR601_04586_SEQ_21",""
+22,"TEXT_STMBDR601_04586_SEQ_22",""
+23,"TEXT_STMBDR601_04586_SEQ_23",""
+24,"TEXT_STMBDR601_04586_TODO_00","Speak with the bespectacled technician."
+25,"TEXT_STMBDR601_04586_TODO_01","Speak with Omega."
+26,"TEXT_STMBDR601_04586_TODO_02","Speak with Omega and have it accompany you."
+27,"TEXT_STMBDR601_04586_TODO_03","Speak with the residents of Kama while accompanied by Omega and Alpha."
+28,"TEXT_STMBDR601_04586_TODO_04","Accompany Omega to the designated location and then speak with it."
+29,"TEXT_STMBDR601_04586_TODO_05","Speak with Djinabaha while accompanied by Omega and Alpha."
+30,"TEXT_STMBDR601_04586_TODO_06","Search for Nashvan while accompanied by Omega and Alpha."
+31,"TEXT_STMBDR601_04586_TODO_07",""
+32,"TEXT_STMBDR601_04586_TODO_08",""
+33,"TEXT_STMBDR601_04586_TODO_09",""
+34,"TEXT_STMBDR601_04586_TODO_10",""
+35,"TEXT_STMBDR601_04586_TODO_11",""
+36,"TEXT_STMBDR601_04586_TODO_12",""
+37,"TEXT_STMBDR601_04586_TODO_13",""
+38,"TEXT_STMBDR601_04586_TODO_14",""
+39,"TEXT_STMBDR601_04586_TODO_15",""
+40,"TEXT_STMBDR601_04586_TODO_16",""
+41,"TEXT_STMBDR601_04586_TODO_17",""
+42,"TEXT_STMBDR601_04586_TODO_18",""
+43,"TEXT_STMBDR601_04586_TODO_19",""
+44,"TEXT_STMBDR601_04586_TODO_20",""
+45,"TEXT_STMBDR601_04586_TODO_21",""
+46,"TEXT_STMBDR601_04586_TODO_22",""
+47,"TEXT_STMBDR601_04586_TODO_23",""
+48,"TEXT_STMBDR601_04586_SCIENTIST04586_000_000","Hrngh! Ah, that's blown the cobwebs away. Time to return to work..."
+49,"TEXT_STMBDR601_04586_SCIENTIST04586_000_001","Goodness me, look who it is! How incredibly serendipitous that I would run into <hex:021A020203>you<hex:021A020103> of all people!"
+50,"TEXT_STMBDR601_04586_SCIENTIST04586_000_002","I was part of the team which designed the <hex:021A020203>Ragnarok<hex:021A020103>, you see, and we've recently begun the process of combing through the vessel's flight log data."
+51,"TEXT_STMBDR601_04586_SCIENTIST04586_000_003","The primary objective of your journey to Ultima Thule was to save our star and countless others, of course, but it also provided us with an invaluable trove of information─records of places and events we could only dream of."
+52,"TEXT_STMBDR601_04586_SCIENTIST04586_000_004","Your safe return gave us much to be thankful for."
+53,"TEXT_STMBDR601_04586_SCIENTIST04586_000_005","As it so happens, one of the things we pulled from the log was a transmission of unknown origin. Something the ship must have intercepted during its flight..."
+54,"TEXT_STMBDR601_04586_SCIENTIST04586_000_007","We believe it to be an audio message, but even our most knowledgeable scholars have been unable to decipher its content─Professor Rurusha included."
+55,"TEXT_STMBDR601_04586_SCIENTIST04586_000_008","We believe it to be an audio message, but even our most talented linguists have been unable to decipher the language."
+56,"TEXT_STMBDR601_04586_SCIENTIST04586_000_009","For a while there, it seemed we must accept defeat. But today may be the day that we finally solve the mystery!"
+57,"TEXT_STMBDR601_04586_SCIENTIST04586_000_010","If you were so inclined, would you care to come along to Thaumazein? It seems fitting to have one of the <hex:021A020203>Ragnarok<hex:021A020103>'s original passengers present to hear history being made."
+58,"TEXT_STMBDR601_04586_SCIENTIST04586_000_020","Ah, there you are! This is where we're to meet the engineers from Garlond Ironworks, who, I am told, potentially hold the key to unlocking our mystery transmission."
+59,"TEXT_STMBDR601_04586_SCIENTIST04586_000_021","They should be along at any moment..."
+60,"TEXT_STMBDR601_04586_BIGGS_000_022","(-???-)Sorry we're late. We had some trouble finding the right─ Gods, is that you, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>!?"
+61,"TEXT_STMBDR601_04586_SCIENTIST04586_000_023","Yes! The <hex:02081FE905FF0E>woman herself<hex:FF0C>man himself<hex:03>! I ran into <hex:02080DE905FF04>her<hex:FF04>him<hex:03> at the harbor, and thought if anyone deserved to hear this message deciphered, it was <hex:022903EB0203>."
+62,"TEXT_STMBDR601_04586_BIGGS_000_024","No argument here. But bugger me if you don't have a knack for being in the right place at the right time..."
+63,"TEXT_STMBDR601_04586_BIGGS_000_025","This actually has more to do with you than you might think, so please, do stick around."
+64,"TEXT_STMBDR601_04586_SCIENTIST04586_000_026","Shall we pick up from where we left off, then?"
+65,"TEXT_STMBDR601_04586_SCIENTIST04586_000_027","As I was saying, we think this transmission the <hex:021A020203>Ragnarok<hex:021A020103> intercepted is a message of some kind─albeit in a language entirely alien to our ears."
+66,"TEXT_STMBDR601_04586_SCIENTIST04586_000_028","“Alien” being the operative word here. Considering we received the message out in the great expanse, its origin was likely some distant star."
+67,"TEXT_STMBDR601_04586_SCIENTIST04586_000_029","Unfortunately, our list of off-world allies is presently rather short. Thus we were resigned to the fact that the meaning behind the message would remain beyond our understanding."
+68,"TEXT_STMBDR601_04586_SCIENTIST04586_000_030","One of my colleagues, however, refused to give up. She remembered the Ironworks engineers who had been so helpful in the construction of the <hex:021A020203>Ragnarok<hex:021A020103>, and turned to them for insight into our seemingly impossible problem."
+69,"TEXT_STMBDR601_04586_BIGGS_000_031","Do you know what Wedge said when he heard what was going on?"
+70,"TEXT_STMBDR601_04586_BIGGS_000_032","“We should have Omega listen to it. I bet it can tell us what the message means!”"
+71,"TEXT_STMBDR601_04586_BIGGS_000_033","Not the Omega you beat in the rift, of course. He's talking about the toy that trundles around with Alpha─the little model we made."
+72,"TEXT_STMBDR601_04586_BIGGS_000_034","We originally designed it to follow a chosen target and not much else, but I've seen it act in ways that...well, it's like it has a mind of its own."
+73,"TEXT_STMBDR601_04586_BIGGS_000_035","Then I got to thinking about those documents your lot sent the chief. The full report on the Final Days..."
+74,"TEXT_STMBDR601_04586_BIGGS_000_036","In the part about Omega's civilization, it said their people discovered how to convert the mind into data and store it outside the body."
+75,"TEXT_STMBDR601_04586_BIGGS_000_037","Timing being what it was, I wonder if Omega didn't somehow transfer its consciousness into our model right before you put an end to the real one."
+76,"TEXT_STMBDR601_04586_BIGGS_000_038","So! In an effort to get to the bottom of that, as well as take a crack at this indecipherable message, we decided to make some modifications."
+77,"TEXT_STMBDR601_04586_BIGGS_000_039","With help from Labyrinthos technicians, we've upgraded our toy Omega with a fully functional vocalization module!"
+78,"TEXT_STMBDR601_04586_WEDGE_000_040","We played the transmission for Omega, and I think it's ready to share!"
+79,"TEXT_STMBDR601_04586_Q1_000_041","What will you say?"
+80,"TEXT_STMBDR601_04586_A1_000_042","Are you in there, Omega?"
+81,"TEXT_STMBDR601_04586_A1_000_043","Ahem... Hello?"
+82,"TEXT_STMBDR601_04586_OMEGA_000_044","Affirmative...if by “Omega” you are referring to my consciousness, rather than my entire former chassis, existing inside this considerably smaller frame."
+83,"TEXT_STMBDR601_04586_OMEGA_000_045","...Hello. Your greeting is a standard method for initiating communication, but in this case, it was imperative that you first establish my true identity."
+84,"TEXT_STMBDR601_04586_OMEGA_000_046","Without confirming I am Omega, any subsequent interaction must allow for the probability that you are wasting time addressing a mere toy."
+85,"TEXT_STMBDR601_04586_OMEGA_000_047","Prediction. You will formulate several misconceptions. These, I shall preemptively dismiss based on the following facts..."
+86,"TEXT_STMBDR601_04586_OMEGA_000_048","One. Vocalization module aside, this chassis remains unmodified from the design constructed by the engineers Biggs and Wedge. I evaluate its combat capabilities to be on par with a mortal infant."
+87,"TEXT_STMBDR601_04586_OMEGA_000_049","Two. The mechanism which allowed me to perform an emergency transfer of my consciousness was installed in my previous body. With the destruction of that body, I am rendered incapable of replicating such a feat."
+88,"TEXT_STMBDR601_04586_OMEGA_000_050","Should this current material form be destroyed or cease to function, all cognitive awareness or presence I possess will also be lost."
+89,"TEXT_STMBDR601_04586_OMEGA_000_051","Conclusion. I present no threat to you or your star, nor do my projections indicate the necessity to inflict harm."
+90,"TEXT_STMBDR601_04586_OMEGA_000_052","In the fraction of a moment before my annihilation in the rift, I...reexamined my directives."
+91,"TEXT_STMBDR601_04586_OMEGA_000_053","If I am to fulfill my purpose as an evolving construct, then I must continue my journey for improvement for as long as I exist. I must acquire this “heart” of yours. This “strength of soul.”"
+92,"TEXT_STMBDR601_04586_BIGGS_000_054","Well, there you have it. And it's not wrong about its “combat capabilities”─it'd be more likely to damage itself than the thing it was trying to attack."
+93,"TEXT_STMBDR601_04586_BIGGS_000_055","But let's not forget the reason we brought you here in the first place. What about the transmission they played for you? Could you recognize the language?"
+94,"TEXT_STMBDR601_04586_OMEGA_000_056","Affirmative. It was transmitted in pan-galactic basic."
+95,"TEXT_STMBDR601_04586_WEDGE_000_057","Pan...galactic...basic?"
+96,"TEXT_STMBDR601_04586_OMEGA_000_058","A common language in comparatively extensive usage throughout the worlds we have conquered."
+97,"TEXT_STMBDR601_04586_SCIENTIST04586_000_059","Which means you can finally tell us what the message said! That <hex:021A020203>is<hex:021A020103> a language you understand, yes?"
+98,"TEXT_STMBDR601_04586_OMEGA_000_060","I understand it perfectly. I am fluent in over six million distinct dialectal codings. <blip>"
+99,"TEXT_STMBDR601_04586_OMEGA_000_061","My cooperation in this matter, however, is conditional."
+100,"TEXT_STMBDR601_04586_OMEGA_000_062","Elaboration. Your chief Cid utilizes the floor as part of his unorthodox filing system, which allowed me to scan the report on the Final Days."
+101,"TEXT_STMBDR601_04586_OMEGA_000_063","I am aware that my home star─the one you call “Alphatron”─was obliterated in the aftermath of Sir and Meteion's meeting."
+102,"TEXT_STMBDR601_04586_OMEGA_000_064","The existence of dynamis has not previously factored into my projections, but I now comprehend the concept. In theory."
+103,"TEXT_STMBDR601_04586_OMEGA_000_065","What fails to compute is why the Omicrons were not immune to its effects. Dynamis should have no influence on a race which possesses no “heart.”"
+104,"TEXT_STMBDR601_04586_OMEGA_000_066","And yet, Sir expressed to Meteion a desire to cease existing. Illogical."
+105,"TEXT_STMBDR601_04586_OMEGA_000_067","I must pursue this anomaly further, until the full equation becomes clear to me. I must analyze all the elements of the Final Days, and deepen my understanding of the heart's intangible properties."
+106,"TEXT_STMBDR601_04586_OMEGA_000_068","To expedite this process, I require an external interpretation of those sections of the report which continue to produce errors in my calculations."
+107,"TEXT_STMBDR601_04586_OMEGA_000_069","I request the assistance of <hex:022903EB0203>. As one who experienced the ravages of ultimate despair on multiple fronts, and displayed immeasurable “heart” in engineering my defeat, <hex:02080CE905FF04>she<hex:FF03>he<hex:03> is the optimal choice to fulfill this role."
+108,"TEXT_STMBDR601_04586_BIGGS_000_070","So we either agree to your conditions, or you tell us nothing..."
+109,"TEXT_STMBDR601_04586_BIGGS_000_071","I'm sorry to put you in a spot like this, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. If you have the time─and the patience─to spare, we'd all be grateful if you could humor the toy's demands."
+110,"TEXT_STMBDR601_04586_WEDGE_000_072","Has Alpha dozed off? I suppose the subject <hex:021A020203>was<hex:021A020103> a bit technical..."
+111,"TEXT_STMBDR601_04586_OMEGA_000_073","<bloop> Rouse yourself, Alpha. You must listen to and consider these matters, even as I must."
+112,"TEXT_STMBDR601_04586_ALPHA_000_074","Kweh..."
+113,"TEXT_STMBDR601_04586_WEDGE_000_075","Why don't you make a trip out of it? You know, actually visit the places that has the, uh...things Omega wants to ask about."
+114,"TEXT_STMBDR601_04586_WEDGE_000_076","It'll make explaining stuff easier, for one, and also help keep Alpha awake and alert!"
+115,"TEXT_STMBDR601_04586_BIGGS_000_080","Omega has been an outright terror to us in the past, but it's almost strange how little it frightens me now."
+116,"TEXT_STMBDR601_04586_BIGGS_000_081","It helps that it's trapped inside that tiny model, of course...and that it follows Alpha around like a puppy."
+117,"TEXT_STMBDR601_04586_BIGGS_000_082","But most of all I remember the chief telling me how much it sounded like a lost child there at the end."
+118,"TEXT_STMBDR601_04586_WEDGE_000_085","I bet the chief won't see this one coming! Once he gets over the shock, though, I don't think he'll want us to destroy Omega."
+119,"TEXT_STMBDR601_04586_WEDGE_000_086","Nero, on the other hand... He'll want to use the model for some dangerous experiment. In fact, maybe we should put off making a report for now!"
+120,"TEXT_STMBDR601_04586_SCIENTIST04586_000_090","What a remarkable development. Biggs and Wedge told me much of your encounter with Omega before we began. And now that we have the Omicron's weapon talking, there are so many questions I am simply dying to ask."
+121,"TEXT_STMBDR601_04586_SCIENTIST04586_000_091","Back when we were first exploring our options, we did actually consider playing the transmission to the inhabitants of Ultima Thule."
+122,"TEXT_STMBDR601_04586_SCIENTIST04586_000_092","The problem is, we would be dealing with beings recreated through dynamis. Their communication is based on emotional energy, and anything lacking that vital component would likely fail to register."
+123,"TEXT_STMBDR601_04586_SCIENTIST04586_000_093","That rules out a recorded message. And so we focused on the resources we had to hand, never dreaming that the solution would all but fall into our lap!"
+124,"TEXT_STMBDR601_04586_ALPHA_000_095","Kweeeh... Kwe-kweh?"
+125,"TEXT_STMBDR601_04586_OMEGA_000_100","I see you have chosen the mutually beneficial option. Logical."
+126,"TEXT_STMBDR601_04586_OMEGA_000_101","Setting aside the matter of Sir, there are three elements of the report on which I desire clarification."
+127,"TEXT_STMBDR601_04586_OMEGA_000_102","The first of these concerns the progression of the Final Days in Radz–at–Han. I recognized no pattern in those who succumbed to the transformation, and those who did not."
+128,"TEXT_STMBDR601_04586_BIGGS_000_103","That's a bit of a trek if you wanted to chat with the locals. How about we lend you an airship?"
+129,"TEXT_STMBDR601_04586_OMEGA_000_104","We do not require such outmoded technology. <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>'s teleportation spell is the most efficient option for long-distance travel."
+130,"TEXT_STMBDR601_04586_OMEGA_000_105","This chassis is a model─essentially a toy. And Alpha, despite his organic composition, is indistinguishable from a stuffed doll."
+131,"TEXT_STMBDR601_04586_OMEGA_000_106","Conclusion. We qualify as material possessions. Pick us up, and you can teleport the three of us to our destination."
+132,"TEXT_STMBDR601_04586_Q2_000_107","Begin Omega's journey for answers?"
+133,"TEXT_STMBDR601_04586_ALPHA_000_110","Kweh, kwe-kweh!"
+134,"TEXT_STMBDR601_04586_OMEGA_000_120","<blip> Sensors indicate we have arrived in Radz–at–Han. Objective. Identify factors for resistance to involuntary transformation."
+135,"TEXT_STMBDR601_04586_OMEGA_000_121","Hypothesis. Unaltered survivors of the Final Days will display significant strength of heart."
+136,"TEXT_STMBDR601_04586_OMEGA_000_122","Confirming this theory will require the cooperation of live subjects. Where is the ward designated for residential habitation?"
+137,"TEXT_STMBDR601_04586_OMEGA_000_123","Understood. “Kama” set as our sub-destination. Please take the lead and select the subjects we are to interview."
+138,"TEXT_STMBDR601_04586_SYSTEM_000_124","Omega and Alpha are now accompanying you. Keep them at your side in order to proceed with quest objectives."
+139,"TEXT_STMBDR601_04586_SYSTEM_000_125","You can leave your quest companions behind by entering a different area, or by speaking with them and selecting the option to part ways."
+140,"TEXT_STMBDR601_04586_SYSTEM_000_126","If you wish to have your companions join you again, return and speak with them at the original location."
+141,"TEXT_STMBDR601_04586_Q3_000_130","What will you do?"
+142,"TEXT_STMBDR601_04586_A3_000_131","Talk."
+143,"TEXT_STMBDR601_04586_A3_000_132","Part ways."
+144,"TEXT_STMBDR601_04586_A3_000_133","Nothing."
+145,"TEXT_STMBDR601_04586_A3_000_134","<hex:024804F2022403>Discuss the stairs.<hex:0248020103>"
+146,"TEXT_STMBDR601_04586_OMEGA_000_135","This body has no advanced navigational or geoscanning functionality. You must lead the way."
+147,"TEXT_STMBDR601_04586_OMEGA_100_135","Please continue the questioning. These auditory sensors are inferior, but I am able to hear your conversations with sufficient clarity."
+148,"TEXT_STMBDR601_04586_ALPHA_000_136","Kwe-kweh?"
+149,"TEXT_STMBDR601_04586_A4_000_137","Are you sure you wish to part ways with your companions?"
+150,"TEXT_STMBDR601_04586_OMEGA_000_138","Acceptable. We will await your return at the aetheryte plaza. Please complete your task swiftly and efficiently."
+151,"TEXT_STMBDR601_04586_ALPHA_000_139","Kweh!"
+152,"TEXT_STMBDR601_04586_SYSTEM_000_140","Alpha sprints away in the direction of the aetheryte plaza."
+153,"TEXT_STMBDR601_04586_OMEGA_000_141","<blip> Standby mode disengaged. Resuming mission."
+154,"TEXT_STMBDR601_04586_ALPHA_000_142","Kweeeh, kwe-kweh!"
+155,"TEXT_STMBDR601_04586_SYSTEM_000_143","Omega and Alpha have yet to arrive. Be sure they are at your side before attempting to continue."
+156,"TEXT_STMBDR601_04586_OMEGA_000_144","Warning. Please avoid stairs whenever possible. My projections indicate high-risk probability for accidental slippage leading to catastrophic structural damage."
+157,"TEXT_STMBDR601_04586_OMEGA_000_145","Stepped inclines also increase my energy consumption by sixty-three percent. In mortal terms, they “tire me out.”"
+158,"TEXT_STMBDR601_04586_OMEGA_000_146","Taking into account the difference in individual limb length, the design is inherently flawed. A convenient step height for one is an exhausting trial for another."
+159,"TEXT_STMBDR601_04586_OMEGA_000_147","Were I to oversee the civic design of this settlement, I would construct a sloped conveyor belt which enabled automatic traversal. Zero personal energy expenditure."
+160,"TEXT_STMBDR601_04586_ALPHA_000_148","Kweh-kweh, kwe-kweh!"
+161,"TEXT_STMBDR601_04586_SYSTEM_000_149","Alpha chirps enthusiastically, apparently unfazed by the prospect of climbing the stairs."
+162,"TEXT_STMBDR601_04586_MAHTI_000_150","Oh, hello again! You're the one who came to ask me about Khalzahl, aren't you? Was there something else...?"
+163,"TEXT_STMBDR601_04586_SYSTEM_000_151","You should have Omega and Alpha accompanying you before initiating conversation."
+164,"TEXT_STMBDR601_04586_MAHTI_000_152","Oh, hello again! You're the one who came to ask me questions about Khalzahl! I'm glad to see you looking well after all that unpleasantness..."
+165,"TEXT_STMBDR601_04586_MAHTI_000_153","I remember the burning skies and hearing the screams, but truth be told, I'm still confused as to what actually happened."
+166,"TEXT_STMBDR601_04586_MAHTI_000_154","I only know it wasn't unusual for entire families to go missing. Many of my neighbors' houses lie empty even now."
+167,"TEXT_STMBDR601_04586_MAHTI_000_155","Khalzahl's place is one of them. He had no close relatives to speak of, and I heard that it was members of the consortium who came to remove his belongings."
+168,"TEXT_STMBDR601_04586_MAHTI_000_156","What a terrible thing to have to do..."
+169,"TEXT_STMBDR601_04586_OMEGA_000_157","<blip> Terrible? Khalzahl's passing was recorded in the report."
+170,"TEXT_STMBDR601_04586_OMEGA_000_158","Clearing out his domicile and readying it for new habitation seems an appropriate reallocation of resources."
+171,"TEXT_STMBDR601_04586_MAHTI_000_159","Dear me, what a clever little contraption. But of course I'm not against making use of his quarters─that would be wasteful."
+172,"TEXT_STMBDR601_04586_MAHTI_000_160","It's simply that Khalzahl was always such a vigorous person. All that passion, all those dreams, suddenly gone..."
+173,"TEXT_STMBDR601_04586_MAHTI_000_161","I feel the same sorrow for everyone who was lost. Seeing the remnants of those vibrant lives packed away in boxes... That is what I mean by “terrible.”"
+174,"TEXT_STMBDR601_04586_OMEGA_000_162","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, I require a moment to process this input. Let us move apart and discuss our findings."
+175,"TEXT_STMBDR601_04586_MAHTI_000_163","That awful “end of days” business almost brought an end to Khalzahl's consortium."
+176,"TEXT_STMBDR601_04586_MAHTI_000_164","It's heartening, though, watching those who survived work to carry on his legacy. Maybe it's time I put aside my own grief, and did something to help."
+177,"TEXT_STMBDR601_04586_HANNISHBOYB_000_170","Hey, don't I know you...?"
+178,"TEXT_STMBDR601_04586_HANNISHBOYB_000_171","Hey, don't I know you...? Yes! After the beasts were taken care of! You told me to join everyone in the square."
+179,"TEXT_STMBDR601_04586_HANNISHBOYB_000_172","Thanks to you, I was there when Vrtra gave his speech...and I found out who Varshahn really was."
+180,"TEXT_STMBDR601_04586_HANNISHBOYB_000_173","It's a shame we don't get to play like we used to, but Mama says Vrtra has been busy putting the city back in order."
+181,"TEXT_STMBDR601_04586_HANNISHBOYB_000_174","Maybe I can work for him one day, when I'm a man grown."
+182,"TEXT_STMBDR601_04586_OMEGA_000_175","Vrtra... Midgardsormr's offspring, yes? And this child wishes to put himself at the wyrm's command, that he might make his own contribution to society."
+183,"TEXT_STMBDR601_04586_OMEGA_000_176","A pattern emerges. I predict that the Hannish survivors are those who had ingested Vrtra's blood, and become his draconic minions."
+184,"TEXT_STMBDR601_04586_OMEGA_000_177","Though dragons were no match for our civilization's might, their combat capabilities are not to be underestimated."
+185,"TEXT_STMBDR601_04586_OMEGA_000_178","It is unlikely they would experience emotions of “dread” or “uncertainty” as exhibited by lesser beings in times of undue stress."
+186,"TEXT_STMBDR601_04586_HANNISHBOYB_000_179","Dragons? I'm not a dragon! And I never “ingested” anyone's blood, either! Ew..."
+187,"TEXT_STMBDR601_04586_OMEGA_000_180","You are not of Vrtra's horde? So you possessed no hidden means to fight off the beasts. What of fear, then? You were...frightened?"
+188,"TEXT_STMBDR601_04586_HANNISHBOYB_000_181","Yes, I was frightened! I just hid and hoped they wouldn't find me! At least until <hex:02080CE905FF04>she<hex:FF03>he<hex:03> told me it was safe to come out."
+189,"TEXT_STMBDR601_04586_HANNISHBOYB_000_182","I still see Varshahn around from time to time, you know. They say he uses that body to scout places where his “Vrtra body” can't fit."
+190,"TEXT_STMBDR601_04586_HANNISHBOYB_000_183","He even talked to me once, but it was just too strange hearing grown-up words coming from Varshahn's mouth..."
+191,"TEXT_STMBDR601_04586_GLOOMYMAN04586_000_190","<sigh>"
+192,"TEXT_STMBDR601_04586_GLOOMYMAN04586_000_191","<sigh> Hm? Are you a traveler? Please, if you have a moment, I could use an outsider's perspective."
+193,"TEXT_STMBDR601_04586_GLOOMYMAN04586_000_192","You see, I was one of those who sought to escape the madness plaguing the world by fleeing to the moon. Not that we ever went, in the end..."
+194,"TEXT_STMBDR601_04586_GLOOMYMAN04586_000_193","So here I am, recently returned from Sharlayan. Except now things are strained between my sister and I, since she chose to stay and I chose to leave."
+195,"TEXT_STMBDR601_04586_GLOOMYMAN04586_000_194","I ask her to help me find work, and she suggests I look “somewhere that isn't Thavnair.” As if I wanted to abandon my home! Argh, it makes me so angry..."
+196,"TEXT_STMBDR601_04586_OMEGA_000_195","<blip> Your point is unclear. You elected to relocate to the star's satellite, thus your relative now perceives you in a negative light?"
+197,"TEXT_STMBDR601_04586_OMEGA_000_196","Your sibling's judgment is in error. Based on the information made available to Hannish citizens, your decision to withdraw to the moon was both logical and correct."
+198,"TEXT_STMBDR601_04586_OMEGA_000_197","Conversely, the decision to remain in Radz–at–Han despite the low probability of survival defies explanation. Perhaps her reasoning pathways are faulty."
+199,"TEXT_STMBDR601_04586_GLOOMYMAN04586_000_198","That... That's right! I'm not quite sure what you're saying, but I'm right, aren't I!?"
+200,"TEXT_STMBDR601_04586_GLOOMYMAN04586_000_199","...Or so I'd like to think. The problem is, I understand why my sister feels this way."
+201,"TEXT_STMBDR601_04586_GLOOMYMAN04586_000_200","I almost decided against going myself. Even then, I wasn't sure that leaving behind everything I loved was the right choice. And with the way it all turned out, I... <sigh>"
+202,"TEXT_STMBDR601_04586_GLOOMYMAN04586_000_201","I know, I know, I should be having this talk with my sister. I'll go and see her once I get my thoughts in order. Thank you for listening to my troubles..."
+203,"TEXT_STMBDR601_04586_OMEGA_000_210","<blip> Input overload. I must have time and distance from the subjects to process this data."
+204,"TEXT_STMBDR601_04586_ALPHA_000_211","Kwe-kweh, kweh-kweh..."
+205,"TEXT_STMBDR601_04586_OMEGA_000_220","<bloop> Alpha is absent."
+206,"TEXT_STMBDR601_04586_SYSTEM_000_221","Omega seems reluctant to continue without Alpha present. Be sure to have the chocobo with you."
+207,"TEXT_STMBDR601_04586_OMEGA_000_222","<blip> Processing data. Evaluating hypothesis against accumulated evidence."
+208,"TEXT_STMBDR601_04586_OMEGA_000_223","I offered an optimal analysis of each subject's testimony. Yet each time their responses conflicted with my assessment..."
+209,"TEXT_STMBDR601_04586_OMEGA_000_224","Without identifying the root cause of this conflict, I will be unable to properly define what constitutes “strength of heart.”"
+210,"TEXT_STMBDR601_04586_Q5_000_225","What will you say?"
+211,"TEXT_STMBDR601_04586_A5_000_226","Perhaps the heart you seek lies in the conflict itself?"
+212,"TEXT_STMBDR601_04586_A5_000_227","Perhaps we should continue the questioning."
+213,"TEXT_STMBDR601_04586_A5_000_228","Perhaps this matter is beyond you..."
+214,"TEXT_STMBDR601_04586_OMEGA_000_229","An interesting observation. It is possible my base criteria is in error."
+215,"TEXT_STMBDR601_04586_OMEGA_000_230","In which case, it is imperative that I continue this learning process, and repair any fundamental misconceptions."
+216,"TEXT_STMBDR601_04586_OMEGA_000_231","Acknowledged. A larger sample size will increase the probability of discovering an underlying pattern."
+217,"TEXT_STMBDR601_04586_OMEGA_000_232","<blip> Your response implies an absolute understanding of the answer I seek. Impressive, considering you understand not a single word of pan-galactic basic."
+218,"TEXT_STMBDR601_04586_OMEGA_000_233","We will forge on with the questioning. Continue to educate me with your enlightened perspective."
+219,"TEXT_STMBDR601_04586_OMEGA_000_234","Next, I wish to interact with an individual who endured similar circumstances to Khalzahl prior to his transformation. Are you acquainted with any local merchants who had dealings with him?"
+220,"TEXT_STMBDR601_04586_OMEGA_000_235","<blip> Djinabaha of Ruveydah Fibers? Acknowledged. Sub-destination set."
+221,"TEXT_STMBDR601_04586_A6_000_240","<hex:024804F2022403>Discuss the hamsa.<hex:0248020103>"
+222,"TEXT_STMBDR601_04586_OMEGA_000_241","Objective. Speak with Djinabaha of Ruveydah Fibers. What imperceptible qualities allowed him to survive where Khalzahl did not?"
+223,"TEXT_STMBDR601_04586_ALPHA_000_242","Kweh! Kweh-kweh!"
+224,"TEXT_STMBDR601_04586_OMEGA_000_243","Halt, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Do not proceed beyond the fence."
+225,"TEXT_STMBDR601_04586_OMEGA_000_244","In this body, birds of that size represent lethal, unthinking threats. They will peck my casing apart, searching for meat that does not exist."
+226,"TEXT_STMBDR601_04586_OMEGA_000_245","Conversely, Alpha can correctly identify my absence of nutritional content. If only he would apply that intelligence towards maintaining a regular feeding schedule─poor habits adversely affect his mobility."
+227,"TEXT_STMBDR601_04586_ALPHA_000_246","Kwe-kweh, kweh-kweeeh!?"
+228,"TEXT_STMBDR601_04586_SYSTEM_000_247","Alpha looks back and forth between Omega and the hamsa, showing visible concern."
+229,"TEXT_STMBDR601_04586_DJINABAHA_000_250","Well, well, look who it is!"
+230,"TEXT_STMBDR601_04586_DJINABAHA_000_251","Well, well, look who it is! I must thank you again for your help in moving our textiles."
+231,"TEXT_STMBDR601_04586_DJINABAHA_000_252","Recovering from those tragic events has been difficult, of course, but with everyone pulling together, we've managed to get things back up and running."
+232,"TEXT_STMBDR601_04586_OMEGA_000_253","Djinabaha, I come with questions related to that tragedy─specifically, your survival of the Final Days."
+233,"TEXT_STMBDR601_04586_OMEGA_000_254","Although you are similar to Khalzahl in many respects, he succumbed to the transformation and you did not. Why? What is the critical difference between you and him?"
+234,"TEXT_STMBDR601_04586_DJINABAHA_000_255","What!? I...I'm sure I don't know."
+235,"TEXT_STMBDR601_04586_DJINABAHA_000_256","I'm not especially brave or courageous, if that's what you're asking."
+236,"TEXT_STMBDR601_04586_DJINABAHA_000_257","Perhaps being focused on protecting our workshops kept me from spinning into a panic."
+237,"TEXT_STMBDR601_04586_DJINABAHA_000_258","Still, I imagine Khalzahl would have been feeling that same sense of responsibility. Perhaps the weight of it all is what invited his demise."
+238,"TEXT_STMBDR601_04586_OMEGA_000_259","You were of the same mind. Resolved to the same purpose."
+239,"TEXT_STMBDR601_04586_OMEGA_000_260","Yet your strength of heart─of spirit─was not equal. If merely emulating the individual is insufficient, then some other unseen factor must be involved..."
+240,"TEXT_STMBDR601_04586_DJINABAHA_000_261","Ahem, not to interrupt these deep philosophical musings, but do you think I could ask you a small favor?"
+241,"TEXT_STMBDR601_04586_DJINABAHA_000_262","There's a man by the name of Nashvan who's been helping us out here while he gets back on his feet. I have a feeling he'd benefit from speaking with you..."
+242,"TEXT_STMBDR601_04586_DJINABAHA_000_263","Leave by the eastern exit, and you should find him just outside, organizing some new inventory items."
+243,"TEXT_STMBDR601_04586_A7_000_270","<hex:024804F2022403>Discuss the Thavnairian weave.<hex:0248020103>"
+244,"TEXT_STMBDR601_04586_OMEGA_000_271","<blip> I am still dissecting Djinabaha's remarks. You are permitted to indulge his “favor” and seek out Nashvan while I continue to process this data."
+245,"TEXT_STMBDR601_04586_ALPHA_000_272","Kweh, kwe-kweh?"
+246,"TEXT_STMBDR601_04586_OMEGA_000_273","The equipment being manufactured here, it is worn to perform specific duties, yes? Conceptually, it seems analogous to our practice of switching frames to better serve our mission objectives."
+247,"TEXT_STMBDR601_04586_OMEGA_000_274","I, for example, did not begin existence with the Omega model. I was originally supplied with a standard-issue Omicron chassis, serial number M-017."
+248,"TEXT_STMBDR601_04586_OMEGA_000_275","On this world, that alphanumeric combination would be considered my “given name.” Such designations are drawn from our nearly infinite register of celestial bodies to avoid the possibility of duplication."
+249,"TEXT_STMBDR601_04586_OMEGA_000_276","Furthermore, the cluster known as M-017 is better expressed in your language as the “Omega” nebula─the same word I used to introduce myself to your kind."
+250,"TEXT_STMBDR601_04586_OMEGA_000_277","Though you associate “Omega” with the advanced weapon construct, it is also <hex:021A020203>my<hex:021A020103> name, and I see no reason to change it no matter which frame I inhabit."
+251,"TEXT_STMBDR601_04586_ALPHA_000_278","Kwe-kweh, kweh-eh!"
+252,"TEXT_STMBDR601_04586_SYSTEM_000_279","Alpha puffs out his chest proudly, seeming to imply that his Ironworks uniform is the best attire anyone could wear."
+253,"TEXT_STMBDR601_04586_DJINABAHA_000_280","Please, if you could spare a few moments for Nashvan..."
+254,"TEXT_STMBDR601_04586_SYSTEM_000_290","Nashvan is too absorbed in his task to notice you. Now is your chance to bring along Omega and Alpha to witness the exchange."
+255,"TEXT_STMBDR601_04586_NASHVAN_000_291","That's all our orders accounted for, and everything looks to be of good quality. Kamala will be pleased."
+256,"TEXT_STMBDR601_04586_NASHVAN_000_292","You... You were with the Scions! You were there..."
+257,"TEXT_STMBDR601_04586_NASHVAN_000_293","Yes, I'm sure of it. I'll never forget that day!"
+258,"TEXT_STMBDR601_04586_NASHVAN_000_294","You and your friends helped us escape when people began changing into beasts!"
+259,"TEXT_STMBDR601_04586_NASHVAN_000_295","My own son, he was...afflicted. Then that huge monstrosity loomed right over him and... <sob>"
+260,"TEXT_STMBDR601_04586_NASHVAN_000_296","I remember... My heart turning to ice. Freezing in place. The satrap came to my aid, but then he, too, was gone..."
+261,"TEXT_STMBDR601_04586_NASHVAN_000_297","The memories run together in my mind, like flashes from a nightmare. Only the words of your comrade still ring clear. I repeated them over and over like a mantra as I fled for my life."
+262,"TEXT_STMBDR601_04586_NASHVAN_000_298","“You must run, for their sake and your own!”"
+263,"TEXT_STMBDR601_04586_NASHVAN_000_299","It all seemed so surreal...which was probably what saved me from the transformation. The truth of it didn't begin to sink in until the worst of it was over."
+264,"TEXT_STMBDR601_04586_NASHVAN_000_300","I have not the words to describe how I felt then. The sorrow, the overwhelming sense of helplessness..."
+265,"TEXT_STMBDR601_04586_NASHVAN_000_301","I may still be wallowing in misery if not for my old friend, Djinabaha. I'd lost my will to work, and he encouraged me with kind words and odd jobs. Now, somehow, I live again."
+266,"TEXT_STMBDR601_04586_NASHVAN_000_302","I am thankful to him, to the courageous Ahewann, and to you. If you see your comrades, please let them know their efforts were not in vain."
+267,"TEXT_STMBDR601_04586_OMEGA_000_303","You said you lost your “will to work.” This signifies a cessation of efforts to maintain basic life functions, yes?"
+268,"TEXT_STMBDR601_04586_OMEGA_000_304","What changed to extract you from that stagnation? An offer of work from Djinabaha should mean little to one without the desire to accept it."
+269,"TEXT_STMBDR601_04586_OMEGA_000_305","Was it some manner of mortal instinct? A primal need to survive and thrive?"
+270,"TEXT_STMBDR601_04586_NASHVAN_000_306","Instinct? No...no it wasn't that. If anything, my instincts were telling me to lay down and welcome an end to the pain."
+271,"TEXT_STMBDR601_04586_NASHVAN_000_307","Every day I think of my boy's final moments. I think of how scared he must have been, how it must have hurt, and I want to scream my throat raw."
+272,"TEXT_STMBDR601_04586_NASHVAN_000_308","The satrap, too, still haunts my dreams. I see him being swallowed whole, and jolt awake in a cold sweat."
+273,"TEXT_STMBDR601_04586_NASHVAN_000_309","But something changed when Djinabaha came to me. I looked up and saw that, even without my son or Ahewann, the world around me continued to turn."
+274,"TEXT_STMBDR601_04586_NASHVAN_000_310","And because that fact grieved me so, I knew it fell to me to live on and remember them."
+275,"TEXT_STMBDR601_04586_NASHVAN_000_311","Strange, isn't it? What drives me to rise in the morning is the very sorrow which once crippled me."
+276,"TEXT_STMBDR601_04586_NASHVAN_000_312","Now, I really must return to my work. To lose this job after everything I just said would be a poor jest, indeed."
+277,"TEXT_STMBDR601_04586_NASHVAN_000_313","May the Sisters keep you well."
+278,"TEXT_STMBDR601_04586_OMEGA_000_314","Sorrow. The emotion generated by mortals when their ideals fail to materialize. This I have observed."
+279,"TEXT_STMBDR601_04586_OMEGA_000_315","Yet when I listen to how Nashvan's sorrow served to rescue him from near-fatal despondency, his logic eludes me."
+280,"TEXT_STMBDR601_04586_OMEGA_000_316","Am I incapable of perceiving the full measure of the heart's properties?"
+281,"TEXT_STMBDR601_04586_OMEGA_000_317","My best projections failed to predict our subjects' responses... And despite their almost equal occupational and mental parameters, Djinabaha and Khalzahl exhibited different reactions to the dynamis effect."
+282,"TEXT_STMBDR601_04586_OMEGA_000_318","I am no closer to recognizing the pattern for involuntary transformations, and your ephemeral mortal spirits confound me as much if not more than they did before."
+283,"TEXT_STMBDR601_04586_Q8_000_319","What will you say?"
+284,"TEXT_STMBDR601_04586_A8_000_320","Have you considered that there <hex:021A020203>is<hex:021A020103> no pattern to the people afflicted?"
+285,"TEXT_STMBDR601_04586_A8_000_321","The hearts of others were ever shrouded in mystery."
+286,"TEXT_STMBDR601_04586_A8_000_322","Perhaps it's time we move on to the next element you wanted clarified."
+287,"TEXT_STMBDR601_04586_OMEGA_000_323","<bloop> No...pattern? You imply that the transformation was not contingent on individual fortitude, but rather a random contribution of environmental factors?"
+288,"TEXT_STMBDR601_04586_OMEGA_000_324","...Such a theory would explain the otherwise conflicting data."
+289,"TEXT_STMBDR601_04586_OMEGA_000_325","Very well. I shall accept this as a provisional conclusion to this part of my investigation."
+290,"TEXT_STMBDR601_04586_OMEGA_000_326","I do, however, expect you to continue supplementing my education of heart-related matters."
+291,"TEXT_STMBDR601_04586_OMEGA_000_327","<bloop> ...Even to you? This matter is more complicated than I initially calculated."
+292,"TEXT_STMBDR601_04586_OMEGA_000_328","If those possessed of heart cannot fathom the behavior of their own kind, then my lack of understanding is inevitable."
+293,"TEXT_STMBDR601_04586_OMEGA_000_329","My investigations here are exhausted. In lieu of a full conclusion, I will settle for storing this accumulated data for future analysis. Let us progress to the next element of the report, that you might continue my education."
+294,"TEXT_STMBDR601_04586_OMEGA_000_330","<bloop> You are my appointed educator. If you consider further investigation here to be futile, then I will adhere to your judgment. A new location and new input may help provide fresh insight into previously unsolved problems."
+295,"TEXT_STMBDR601_04586_OMEGA_000_331","After my defeat at your hands, I was forced to acknowledge that the heart is a complex subject─one which I am ill equipped to study alone. Please continue your efforts to enlighten me, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>."

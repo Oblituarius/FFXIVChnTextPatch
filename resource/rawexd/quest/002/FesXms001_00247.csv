@@ -2,90 +2,90 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_FESXMS001_00247_SEQ_00,※本任務是特定期間內的任務。<hex:02100103><hex:02100103>薰衣草苗圃的星芒節執行委員，希望冒險者幫忙舉辦星芒節。
-1,TEXT_FESXMS001_00247_SEQ_01,※本任務只有在季節活動開放期間才能接受和進行。<hex:02100103>　季節活動結束後無法進行，敬請注意。<hex:02100103>　詳情請參見官方網站。<hex:02100103><hex:02100103>和星芒節執行委員進行了交談，幫忙舉辦星芒節。首先裝備上<hex:02280BFF05>Item<hex:F224390103>，在雅努·帕庭院附近，或從薰衣草苗圃各個房屋庭院中的星芒樹下回收<hex:022811FF0A>EventItem<hex:F61E8A700103>。
-2,TEXT_FESXMS001_00247_SEQ_02,回收了<hex:022811FF0A>EventItem<hex:F61E8A700103>。將<hex:022811FF0A>EventItem<hex:F61E8A700103>交給雅努·帕庭院的星芒節執行委員。
-3,TEXT_FESXMS001_00247_SEQ_03,將<hex:022811FF0A>EventItem<hex:F61E8A700103>交給了星芒節執行委員。接下來，將<hex:022811FF0A>EventItem<hex:F61E8A710103>送給雅努·帕庭院的享受節日的少年少女們。
-4,TEXT_FESXMS001_00247_SEQ_04,將<hex:022811FF0A>EventItem<hex:F61E8A710103>交給了孩子們。向雅努·帕庭院的星芒節執行委員報告。
-5,TEXT_FESXMS001_00247_SEQ_05,向星芒節執行委員報告完畢。在星芒節的活動期間中，孩子們會不斷將寫好的卡片放在星芒樹下。為了孩子們的笑容，有機會再去幫忙舉辦星芒節。
-6,TEXT_FESXMS001_00247_SEQ_06,
-7,TEXT_FESXMS001_00247_SEQ_07,
-8,TEXT_FESXMS001_00247_SEQ_08,
-9,TEXT_FESXMS001_00247_SEQ_09,
-10,TEXT_FESXMS001_00247_SEQ_10,
-11,TEXT_FESXMS001_00247_SEQ_11,
-12,TEXT_FESXMS001_00247_SEQ_12,
-13,TEXT_FESXMS001_00247_SEQ_13,
-14,TEXT_FESXMS001_00247_SEQ_14,
-15,TEXT_FESXMS001_00247_SEQ_15,
-16,TEXT_FESXMS001_00247_SEQ_16,
-17,TEXT_FESXMS001_00247_SEQ_17,
-18,TEXT_FESXMS001_00247_SEQ_18,
-19,TEXT_FESXMS001_00247_SEQ_19,
-20,TEXT_FESXMS001_00247_SEQ_20,
-21,TEXT_FESXMS001_00247_SEQ_21,
-22,TEXT_FESXMS001_00247_SEQ_22,
-23,TEXT_FESXMS001_00247_SEQ_23,
-24,TEXT_FESXMS001_00247_TODO_00,裝備上<hex:02280BFF05>Item<hex:F224390103><hex:02100103>從星芒樹下獲取<hex:022811FF0A>EventItem<hex:F61E8A700103>
-25,TEXT_FESXMS001_00247_TODO_01,將<hex:022811FF0A>EventItem<hex:F61E8A700103>交給星芒節執行委員
-26,TEXT_FESXMS001_00247_TODO_02,裝備上<hex:02280BFF05>Item<hex:F224390103><hex:02100103>將<hex:022811FF0A>EventItem<hex:F61E8A710103>交給薰衣草苗圃的孩子們
-27,TEXT_FESXMS001_00247_TODO_03,向星芒節執行委員報告
-28,TEXT_FESXMS001_00247_TODO_04,
-29,TEXT_FESXMS001_00247_TODO_05,
-30,TEXT_FESXMS001_00247_TODO_06,
-31,TEXT_FESXMS001_00247_TODO_07,
-32,TEXT_FESXMS001_00247_TODO_08,
-33,TEXT_FESXMS001_00247_TODO_09,
-34,TEXT_FESXMS001_00247_TODO_10,
-35,TEXT_FESXMS001_00247_TODO_11,
-36,TEXT_FESXMS001_00247_TODO_12,
-37,TEXT_FESXMS001_00247_TODO_13,
-38,TEXT_FESXMS001_00247_TODO_14,
-39,TEXT_FESXMS001_00247_TODO_15,
-40,TEXT_FESXMS001_00247_TODO_16,
-41,TEXT_FESXMS001_00247_TODO_17,
-42,TEXT_FESXMS001_00247_TODO_18,
-43,TEXT_FESXMS001_00247_TODO_19,
-44,TEXT_FESXMS001_00247_TODO_20,
-45,TEXT_FESXMS001_00247_TODO_21,
-46,TEXT_FESXMS001_00247_TODO_22,
-47,TEXT_FESXMS001_00247_TODO_23,
-48,TEXT_FESXMS001_00247_VOLUNTEER65783_000_000,你願意來幫忙？<hex:02100103>真是謝謝你了！
-49,TEXT_FESXMS001_00247_VOLUNTEER65783_000_001,那麼，請你裝扮成聖人的追隨者，<hex:02100103>從薰衣草苗圃的任意一棵星芒樹下回收1張<hex:022811FF0A>EventItem<hex:F61E8A700103>。
-50,TEXT_FESXMS001_00247_VOLUNTEER65783_000_002,……對了，說到星芒樹，<hex:02100103>除了由我們準備的節日星芒樹以外，<hex:02100103>你還可以去找冒險者們擺放在自己家庭院裡的。
-51,TEXT_FESXMS001_00247_VOLUNTEER65783_000_003,通過協助我們回收卡片，可以獲得落芒星。<hex:02100103>根據樹的種類不同，<hex:02100103>得到的落芒星的種類也不同。
-52,TEXT_FESXMS001_00247_VOLUNTEER65783_000_004,你可以用得到的落芒星去換取與星芒節有關的物品。<hex:02100103>具體情況請去向旁邊的星芒節宣傳員諮詢。
-53,TEXT_FESXMS001_00247_SYSTEM_000_001,導向地圖上會標出星芒樹的位置。<hex:02100103>請在冒險者住宅區中仔細尋找！
-54,TEXT_FESXMS001_00247_SYSTEM_100_001,另外，由於<hex:022811FF0A>EventItem<hex:F61E8A700103>最多只能獲得1張，<hex:02100103>因此考慮好想交換的物品之後，再去相應的星芒樹下回收卡片吧。
-55,TEXT_FESXMS001_00247_VOLUNTEER65783_000_005,請你裝扮成聖人的追隨者，<hex:02100103>從薰衣草苗圃的任意一棵星芒樹下回收1張<hex:022811FF0A>EventItem<hex:F61E8A700103>。
-56,TEXT_FESXMS001_00247_SYSTEM_000_002,導向地圖上會標出星芒樹的位置。<hex:02100103>請在冒險者住宅區中仔細尋找！
-57,TEXT_FESXMS001_00247_SYSTEM_100_002,另外，由於<hex:022811FF0A>EventItem<hex:F61E8A700103>最多只能獲得1張，<hex:02100103>因此考慮好想交換的物品之後，再去相應的星芒樹下回收卡片吧。
-58,TEXT_FESXMS001_00247_SYSTEM_000_010,在執行該任務時，需要裝備上<hex:02280BFF05>Item<hex:F224390103>。
-59,TEXT_FESXMS001_00247_SYSTEM_000_011,如果沒有<hex:02280BFF05>Item<hex:F224390103>，<hex:02100103>可以通過和星芒節宣傳員對話獲得<hex:02280BFF05>Item<hex:F224390103>。
-60,TEXT_FESXMS001_00247_GUIDE65783_000_012,哎呀，你把<hex:02280BFF05>Item<hex:F224390103>丟了？<hex:02100103>那我再給你一件好了。<hex:02100103>拿好！
-61,TEXT_FESXMS001_00247_POPMESSAGE_000_013,獲得了<hex:02280BFF05>Item<hex:F224390103>。
-62,TEXT_FESXMS001_00247_VOLUNTEER65783_000_020,辛苦了！<hex:02100103>你回收來<hex:022811FF0A>EventItem<hex:F61E8A700103>了嗎？
-63,TEXT_FESXMS001_00247_VOLUNTEER65783_000_021,嗯，卡片我收下了。<hex:02100103>接下來，就請你裝扮成聖人的追隨者，<hex:02100103>將禮物送給附近的孩子們。
-64,TEXT_FESXMS001_00247_VOLUNTEER65783_000_022,請你裝扮成聖人的追隨者，<hex:02100103>將禮物送給附近的孩子們。
-65,TEXT_FESXMS001_00247_CHILDA65783_000_030,哇！聖人的追隨者來了！<hex:02100103>你是來送<hex:022811FF0A>EventItem<hex:F61E8A710103>的嗎？！
-66,TEXT_FESXMS001_00247_CHILDA65783_000_031,哇！得到禮物了！<hex:02100103>謝謝你！
-67,TEXT_FESXMS001_00247_CHILDB65783_000_032,聖人的追隨者……<hex:02100103>那個……我也能得到<hex:022811FF0A>EventItem<hex:F61E8A710103>嗎？
-68,TEXT_FESXMS001_00247_CHILDB65783_000_033,哇……竟然也有我的份！<hex:02100103>謝、謝謝你！
-69,TEXT_FESXMS001_00247_CHILDC65783_000_034,哇……你就是聖人的追隨者吧！<hex:02100103>我可乖了，一直在等你！<hex:02100103>那個……請快點給我<hex:022811FF0A>EventItem<hex:F61E8A710103>吧！
-70,TEXT_FESXMS001_00247_CHILDC65783_000_035,謝謝你！<hex:02100103>我會好好珍惜這份禮物的！
-71,TEXT_FESXMS001_00247_CHILDA65783_000_036,我呀，正在等聖人的追隨者來送我禮物呢！<hex:02100103>怎麼還不來呀！
-72,TEXT_FESXMS001_00247_CHILDB65783_000_037,我……正在等聖人的追隨者來送禮物……<hex:02100103>真想要禮物呀……
-73,TEXT_FESXMS001_00247_CHILDC65783_000_038,只要在這裡等，<hex:02100103>聖人的追隨者就會來送我禮物。<hex:02100103>我真是迫不及待了！
-74,TEXT_FESXMS001_00247_SYSTEM_100_038,在執行該任務時，需要裝備上<hex:02280BFF05>Item<hex:F224390103>。
-75,TEXT_FESXMS001_00247_SYSTEM_110_038,如果沒有<hex:02280BFF05>Item<hex:F224390103>，<hex:02100103>可以通過和星芒節宣傳員對話獲得<hex:02280BFF05>Item<hex:F224390103>。
-76,TEXT_FESXMS001_00247_GUIDE65783_120_038,哎呀，你把<hex:02280BFF05>Item<hex:F224390103>丟了？<hex:02100103>那我再給你一件好了。<hex:02100103>拿好！
-77,TEXT_FESXMS001_00247_POPMESSAGE_130_038,獲得了<hex:02280BFF05>Item<hex:F224390103>。
-78,TEXT_FESXMS001_00247_VOLUNTEER65783_000_040,看來你已經順利將禮物交給孩子們了。<hex:02100103>謝謝你，幫了我們大忙了。
-79,TEXT_FESXMS001_00247_VOLUNTEER65783_000_041,……對了，我聽阿姆·加蘭基說，<hex:02100103>她曾經是個孤兒。<hex:02100103>不知這事你知不知道。
-80,TEXT_FESXMS001_00247_VOLUNTEER65783_000_042,她想讓和自己有同樣經歷的孩子能夠露出笑容，<hex:02100103>因此著手辦起了慈善活動，<hex:02100103>也就是這次的星芒節的前身。
-81,TEXT_FESXMS001_00247_VOLUNTEER65783_000_043,我被她的事跡所感動，因此來幫她一把。<hex:02100103>如果你也有所感觸的話，<hex:02100103>就再來這裡幫忙，讓她和孩子們綻放笑顏吧！
-82,TEXT_FESXMS001_00247_VOLUNTEER65783_000_044,看來你已經順利將禮物交給孩子們了。<hex:02100103>謝謝你，幫了我們大忙了。<hex:02100103>有時間再來找我們！
-83,TEXT_FESXMS001_00247_SYSTEM_000_050,協助了所有冒險者住宅區的星芒節執行委員！<hex:02100103>去向薰衣草苗圃雅努·帕庭院的阿姆·加蘭基報告。
-84,TEXT_FESXMS001_00247_SYSTEM_000_051,（★未使用／預定刪除★）
-85,TEXT_FESXMS001_00247_VOLUNTEER65783_100_004,（★未使用／預定刪除★）
-86,TEXT_FESXMS001_00247_VOLUNTEER65783_110_004,（★未使用／預定刪除★）
+0,"TEXT_FESXMS001_00247_SEQ_00","The saint's little helper in the Lavender Beds seeks your assistance in running the Starlight Celebration festivities.<hex:02100103>※This quest is available for a limited time only."
+1,"TEXT_FESXMS001_00247_SEQ_01","You have volunteered your services to assist with the Starlight Celebration festivities. Pull on your Starlight tunic, and collect a child's message from one of the Starlight sentinels found within the Lavender Beds.<hex:02100103><hex:02100103>※Please note that you will be unable to complete this quest after the seasonal event has ended. For details, please check the Lodestone."
+2,"TEXT_FESXMS001_00247_SEQ_02","You have collected a letter to the Spinner. Return to Yainu-Par and deliver the message to the saint's little helper."
+3,"TEXT_FESXMS001_00247_SEQ_03","You have delivered the message to the grateful little helper. Take the gift from the festival volunteer, and hand it to the child waiting nearby."
+4,"TEXT_FESXMS001_00247_SEQ_04","You have performed your duty as a little helper, and brought gift-wrapped happiness to a child. Report to the saint's little helper in Yainu-Par."
+5,"TEXT_FESXMS001_00247_SEQ_05","The volunteer is pleased with your efforts, and looks forward to your continuing assistance during the remainder of the Starlight Celebration."
+6,"TEXT_FESXMS001_00247_SEQ_06",""
+7,"TEXT_FESXMS001_00247_SEQ_07",""
+8,"TEXT_FESXMS001_00247_SEQ_08",""
+9,"TEXT_FESXMS001_00247_SEQ_09",""
+10,"TEXT_FESXMS001_00247_SEQ_10",""
+11,"TEXT_FESXMS001_00247_SEQ_11",""
+12,"TEXT_FESXMS001_00247_SEQ_12",""
+13,"TEXT_FESXMS001_00247_SEQ_13",""
+14,"TEXT_FESXMS001_00247_SEQ_14",""
+15,"TEXT_FESXMS001_00247_SEQ_15",""
+16,"TEXT_FESXMS001_00247_SEQ_16",""
+17,"TEXT_FESXMS001_00247_SEQ_17",""
+18,"TEXT_FESXMS001_00247_SEQ_18",""
+19,"TEXT_FESXMS001_00247_SEQ_19",""
+20,"TEXT_FESXMS001_00247_SEQ_20",""
+21,"TEXT_FESXMS001_00247_SEQ_21",""
+22,"TEXT_FESXMS001_00247_SEQ_22",""
+23,"TEXT_FESXMS001_00247_SEQ_23",""
+24,"TEXT_FESXMS001_00247_TODO_00","Equip the Starlight tunic and collect a letter to the Spinner from a Starlight sentinel."
+25,"TEXT_FESXMS001_00247_TODO_01","Deliver the letter to the Spinner to the saint's little helper."
+26,"TEXT_FESXMS001_00247_TODO_02","Equip the Starlight tunic and deliver the lucky star to the waiting youngling."
+27,"TEXT_FESXMS001_00247_TODO_03","Report to the saint's little helper."
+28,"TEXT_FESXMS001_00247_TODO_04",""
+29,"TEXT_FESXMS001_00247_TODO_05",""
+30,"TEXT_FESXMS001_00247_TODO_06",""
+31,"TEXT_FESXMS001_00247_TODO_07",""
+32,"TEXT_FESXMS001_00247_TODO_08",""
+33,"TEXT_FESXMS001_00247_TODO_09",""
+34,"TEXT_FESXMS001_00247_TODO_10",""
+35,"TEXT_FESXMS001_00247_TODO_11",""
+36,"TEXT_FESXMS001_00247_TODO_12",""
+37,"TEXT_FESXMS001_00247_TODO_13",""
+38,"TEXT_FESXMS001_00247_TODO_14",""
+39,"TEXT_FESXMS001_00247_TODO_15",""
+40,"TEXT_FESXMS001_00247_TODO_16",""
+41,"TEXT_FESXMS001_00247_TODO_17",""
+42,"TEXT_FESXMS001_00247_TODO_18",""
+43,"TEXT_FESXMS001_00247_TODO_19",""
+44,"TEXT_FESXMS001_00247_TODO_20",""
+45,"TEXT_FESXMS001_00247_TODO_21",""
+46,"TEXT_FESXMS001_00247_TODO_22",""
+47,"TEXT_FESXMS001_00247_TODO_23",""
+48,"TEXT_FESXMS001_00247_VOLUNTEER65783_000_000","Filled with the spirit of giving, are we? Let's set you to your task, then."
+49,"TEXT_FESXMS001_00247_VOLUNTEER65783_000_001","All you need to do is collect a single child's message from one of the Starlight sentinels within the Lavender Beds...all while wearing your Starlight tunic, of course."
+50,"TEXT_FESXMS001_00247_VOLUNTEER65783_000_002","As you know, there is the tree we helpers set up here in Yainu-Par, but there are also decorated sentinels to be found in the gardens of your fellow adventurers' estates."
+51,"TEXT_FESXMS001_00247_VOLUNTEER65783_000_003","You should also know that the type of fallen star you receive for your efforts will depend on the sentinel from which the message is retrieved."
+52,"TEXT_FESXMS001_00247_VOLUNTEER65783_000_004","Did we talk about fallen stars? It's a simple system we devised to reward hardworking volunteers─a type of festive currency that can be exchanged for seasonal goods. Speak with the Starlight crier if you'd like to know more!"
+53,"TEXT_FESXMS001_00247_SYSTEM_000_001","The position of Starlight sentinels will be displayed on your minimap. Search the residential area to pinpoint their locations!"
+54,"TEXT_FESXMS001_00247_SYSTEM_100_001","You can only obtain one seasonal message at a time, so choose your sentinel wisely! Keep in mind which fallen stars are needed to purchase the seasonal goods you wish to acquire."
+55,"TEXT_FESXMS001_00247_VOLUNTEER65783_000_005","Pray bring me a message from any of the Starlight sentinels found within the Lavender Beds. Oh, and don't forget to don your scarlet apparel!"
+56,"TEXT_FESXMS001_00247_SYSTEM_000_002","The position of Starlight sentinels will be displayed on your minimap. Search the residential area to pinpoint their locations!"
+57,"TEXT_FESXMS001_00247_SYSTEM_100_002","You can only obtain one seasonal message at a time, so choose your sentinel wisely! Keep in mind which fallen stars are needed to purchase the seasonal goods you wish to acquire."
+58,"TEXT_FESXMS001_00247_SYSTEM_000_010","You must have the Starlight tunic equipped to continue with this quest."
+59,"TEXT_FESXMS001_00247_SYSTEM_000_011","If you have misplaced your Starlight tunic, speak with a Starlight Celebration crier to receive a replacement."
+60,"TEXT_FESXMS001_00247_GUIDE65783_000_012","You've lost your Starlight tunic? Never fear! We've enough spares to dress a small army! Here, take another one!"
+61,"TEXT_FESXMS001_00247_POPMESSAGE_000_013","You obtain a Starlight tunic."
+62,"TEXT_FESXMS001_00247_VOLUNTEER65783_000_020","Hello again! You've returned with one of the children's messages, I trust?"
+63,"TEXT_FESXMS001_00247_VOLUNTEER65783_000_021","Excellent. Now comes the fun part! Take this gift, and deliver it to the waiting youngling. Remember: the wee ones expect someone dressed as a little helper!"
+64,"TEXT_FESXMS001_00247_VOLUNTEER65783_000_022","You should find an expectant child waiting nearby. Don't forget to dress the part!"
+65,"TEXT_FESXMS001_00247_CHILDA65783_000_030","A little helper! Yay! Do you have my present!? Can I have my present now!?"
+66,"TEXT_FESXMS001_00247_CHILDA65783_000_031","I got a pre-sent!♪<hex:02100103>A present from the go-ddess!♪<hex:02100103>Thank you, little helper!"
+67,"TEXT_FESXMS001_00247_CHILDB65783_000_032","Excuse me, <hex:02082DE905FF13>miss little helper<hex:FF15>mister little helper<hex:03>... I was told to wait here for my present..."
+68,"TEXT_FESXMS001_00247_CHILDB65783_000_033","...Can I really have this? Thank you so much!"
+69,"TEXT_FESXMS001_00247_CHILDC65783_000_034","Wow, are you <hex:021A020203>really<hex:021A020103> a little helper? Well, I've been good this year, so is it okay if I get my gift now...?"
+70,"TEXT_FESXMS001_00247_CHILDC65783_000_035","Thank you! I'll be sure not to play too rough..."
+71,"TEXT_FESXMS001_00247_CHILDA65783_000_036","I'm waiting here for the little helper to bring my present! I wonder what's taking so long..."
+72,"TEXT_FESXMS001_00247_CHILDB65783_000_037","Have you seen a little helper anywhere? Maybe they forgot about me..."
+73,"TEXT_FESXMS001_00247_CHILDC65783_000_038","If I wait right here, a little helper is supposed to bring me a gift. That's what they said..."
+74,"TEXT_FESXMS001_00247_SYSTEM_100_038","You must have the Starlight tunic equipped to continue with this quest."
+75,"TEXT_FESXMS001_00247_SYSTEM_110_038","If you have misplaced your Starlight tunic, speak with a Starlight Celebration crier to receive a replacement."
+76,"TEXT_FESXMS001_00247_GUIDE65783_120_038","You've lost your Starlight tunic? Never fear! We've enough spares to dress a small army! Here, take another one!"
+77,"TEXT_FESXMS001_00247_POPMESSAGE_130_038","You obtain a Starlight tunic."
+78,"TEXT_FESXMS001_00247_VOLUNTEER65783_000_040","You've returned to me empty-handed. Good! I do hope the youngling enjoys the gift!"
+79,"TEXT_FESXMS001_00247_VOLUNTEER65783_000_041","Amh Garanjy does so dearly love to see the children smile. When I once marveled at her dedication, the celebrant explained that her fervor grew from her troubled past as an orphan."
+80,"TEXT_FESXMS001_00247_VOLUNTEER65783_000_042","She would spare any child the misery and loneliness she experienced, even if it meant funding the entire Starlight Celebration by washing dirty dishes at the Carline Canopy for a year."
+81,"TEXT_FESXMS001_00247_VOLUNTEER65783_000_043","And I must admit, her intensity is quite contagious! I assume you must feel it too, otherwise why else would you find yourself compelled to help us again and again?"
+82,"TEXT_FESXMS001_00247_VOLUNTEER65783_000_044","I believe I heard the delighted laughter from here! Good show, little helper! I hope I can count on your assistance again in the future!"
+83,"TEXT_FESXMS001_00247_SYSTEM_000_050","You have contributed to the Starlight Celebration in every residential district! Report to Amh Garanjy in the Lavender Beds."
+84,"TEXT_FESXMS001_00247_SYSTEM_000_051","（★未使用／削除予定★）"
+85,"TEXT_FESXMS001_00247_VOLUNTEER65783_100_004","（★未使用／削除予定★）"
+86,"TEXT_FESXMS001_00247_VOLUNTEER65783_110_004","（★未使用／削除予定★）"

@@ -2,59 +2,98 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_001,啊，你來了。<hex:02100103>既然你想了解瓦納·迪爾的強者，<hex:02100103>那我就跟你聊聊我從酒館的吟遊詩人那裡聽到的故事吧。
-1,TEXT_CTSETCEOVBOSSEXPLANATION_00912_Q1_000_000,要說什麼？
-2,TEXT_CTSETCEOVBOSSEXPLANATION_00912_A1_000_001,你是做什麼的？
-3,TEXT_CTSETCEOVBOSSEXPLANATION_00912_A1_000_002,關於法芙尼爾
-4,TEXT_CTSETCEOVBOSSEXPLANATION_00912_A1_000_003,關於方舟天使
-5,TEXT_CTSETCEOVBOSSEXPLANATION_00912_A1_000_004,關於暗之王
-6,TEXT_CTSETCEOVBOSSEXPLANATION_00912_A1_000_005,取消
-7,TEXT_CTSETCEOVBOSSEXPLANATION_00912_A1_000_006,關於麒麟
-8,TEXT_CTSETCEOVBOSSEXPLANATION_00912_A1_000_007,關於歐米茄和阿爾蒂瑪
-9,TEXT_CTSETCEOVBOSSEXPLANATION_00912_A1_000_008,關於卡姆拉納特
-10,TEXT_CTSETCEOVBOSSEXPLANATION_00912_A1_000_009,關於埃爾德納修
-11,TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_003,我是個來自巴斯圖克共和國的無名冒險者。<hex:02100103>別看我平凡，卻有著不輸給任何人的武器。
-12,TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_004,那就是冒險者之間的情誼。<hex:02100103>我通過通訊貝聚集了眾多夥伴，<hex:02100103>在先人傳說的指引下展開了一次又一次的冒險。
-13,TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_005,其中最令我印象深刻的是一次尋寶。<hex:02100103>我們進入了阿爾扎達爾海底遺跡群，在各個遺跡間穿梭……<hex:02100103>這副鎧甲就是那時候回收的。
-14,TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_006,和同伴一起同甘共苦穿越險難的喜悅是任何東西都無法替代的。<hex:02100103>你也有過這類的經歷嗎？
-15,TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_007,在巨大樹木的最深處遇到的巨龍？<hex:02100103>那是被稱為真龍的稀少龍族，<hex:02100103>肯定就是法芙尼爾沒錯了。
-16,TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_008,有這麼一個傳說。<hex:02100103>在遙遠的過去，曾有一位與龍戰鬥的英雄<hex:02100103>將一把名為裡狄爾的劍刺進了龍的心臟。
-17,TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_009,真該說不愧是真龍，<hex:02100103>被刺中了心臟卻依然活蹦亂跳不受影響。<hex:02100103>如果這個傳說是真的，那條龍的生命力只能用恐怖來形容了……
-18,TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_010,為了獲取戰利品，冒險者們紛紛效仿英雄前往了龍的巢穴，<hex:02100103>最後卻大多成了龍的盤中餐。
-19,TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_011,五名有著蒼白膚色與赤紅雙眼的戰士？<hex:02100103>我有印象，應該是叫方舟天使來著。
-20,TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_012,據說他們的真實身份是某個古代文明利用水晶創造的人工生命體。
-21,TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_013,休姆、艾爾凡、塔魯塔魯、米斯拉、加爾卡……<hex:02100103>以女神阿爾塔娜創造的五個種族為原型的方舟天使<hex:02100103>分別反映出了各個種族特有的黑暗面。
-22,TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_014,比如說我們休姆的問題是無知。<hex:02100103>不去理解個中道理，只會欺負弱者順從強者。<hex:02100103>對此我也多少有些自覺……
-23,TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_015,雖然不清楚方舟天使被創造出來的理由，<hex:02100103>但他們或許是為了守護那美麗庭園<hex:02100103>以及曾生活在那裡的人們而戰吧……
-24,TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_016,如同融入黑暗一般漆黑的身體以及對人類永無止境的憎惡……<hex:02100103>你說的這個異形一定就是暗之王了。
-25,TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_017,過去暗之王曾經率領獸人血盟軍引發了水晶大戰，<hex:02100103>企圖殲滅人類。
-26,TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_018,在獸人血盟軍壓倒性的數量面前，人類只能節節敗退。<hex:02100103>就在那萬分危急的關頭，在朱諾大公卡姆拉納特的呼籲下，<hex:02100103>四大國家組成了阿爾塔娜聯合軍。
-27,TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_019,在聯合軍齊心協力的努力下，終於將獸人們擊退，<hex:02100103>並於敵方大本營茲瓦爾城打倒了暗之王！
-28,TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_020,就這樣瓦納·迪爾恢復了和平。<hex:02100103>雖然20年後暗之王重新復活，<hex:02100103>但再次被冒險者集結而成的討伐隊打敗。
-29,TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_021,關於暗之王的真實身份眾說紛紜。<hex:02100103>有傳聞說他曾經是一名加爾卡族的人類。
-30,TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_022,某一天，他被膚淺的同伴背叛，差點丟掉了性命。<hex:02100103>不僅如此他還失去了打心底信賴的女性。
-31,TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_023,自那以來他對人類的愚蠢感到深深的絕望，<hex:02100103>在心中凝聚成了劇烈的憎惡。<hex:02100103>於是暗之王就這樣誕生了。
-32,TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_024,如果你說的是真的，那就意味著暗之王再次復活了。<hex:02100103>難道說他在完成對人類的復仇前，<hex:02100103>永遠不會消失嗎……
-33,TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_100,能使用高級土屬性魔法又會說人類語言的曼提克……<hex:02100103>據我所知，與以上條件相符的只有「麒麟」。
-34,TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_101,所謂麒麟，是一種智慧遠超人類的神秘魔物。<hex:02100103>路·阿維塔烏神殿位於浮在空中的圖·利亞古代遺跡最深處，<hex:02100103>麒麟就沉睡在那裡。
-35,TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_102,它統御著四隻強大的魔獸，也就是為人熟知的四神。<hex:02100103>只有擊敗過四神的人，才有面見麒麟的資格。<hex:02100103>我也只見過一次。
-36,TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_103,那是一次無比艱辛的經歷。<hex:02100103>要召喚四神，必須要集齊成對的寶玉和石頭，<hex:02100103>我與夥伴都不敢合眼，從早到晚都在與其他冒險者賽跑。
-37,TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_104,而集齊了寶物成功召喚四神也只是個開始，<hex:02100103>一旦在戰鬥中敗給四神，就要重新收集寶玉和石頭……<hex:02100103>怎麼樣，是不是聽著就很難？
-38,TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_105,由於能見到麒麟的人少之又少，<hex:02100103>在戰勝它之後獲得的麒麟大袖對冒險者來說也珍貴無比。<hex:02100103>我甚至在市場上見到有人標出99999999金幣的天價售賣。
-39,TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_106,……等一下，你身上穿的這個不就是麒麟大袖嗎！<hex:02100103>真好啊……你可真是個幸運兒，太羨慕你了！
-40,TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_107,與飛空艇團一起出現的一對機甲怪物……<hex:02100103>聽起來應該是機獸歐米茄和機士阿爾蒂瑪吧，<hex:02100103>據說它們是由古代人製作的究極兵器。
-41,TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_108,還有傳聞說，後來阿爾瑪塔機關又復原了這對古代兵器。<hex:02100103>至於與你交戰的歐米茄和阿爾蒂瑪是再現體還是原型，<hex:02100103>我就不清楚了。
-42,TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_109,說起來，<hex:02100103>有傳聞說阿爾瑪塔機關是朱諾大公卡姆拉納特創立的。
-43,TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_110,沒人知道那個機關的目的是什麼……不過有位厲害的冒險者稱，<hex:02100103>他們的行動方針與「古代吉拉特人的夢」有關聯……<hex:02100103>如果你在意的話，就自己親自去調查一下吧？
-44,TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_111,大公卡姆拉納特是一位傳奇人物，<hex:02100103>他只用了一代人的時間，就將80年前名不經傳的小漁村<hex:02100103>建設成了巨大而繁榮的國家。
-45,TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_112,暗之王率領獸人血盟軍打響水晶大戰時，<hex:02100103>也是朱諾大公卡姆拉納特站出來，呼籲原本對立的三個國家合作抗敵。<hex:02100103>最終四個國家組成了阿爾塔娜聯合軍，人類才得以絕地反擊。
-46,TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_113,據說在獸人攻入城中的朱諾攻防戰中，<hex:02100103>大公更是親自持劍沖在前線勇猛作戰。
-47,TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_114,然而，即使是像大公這樣的英雄人物身上也有些負面傳言。<hex:02100103>坊間流傳，他與一萬年前繁華至極的古代吉拉特文明關係匪淺……
-48,TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_115,如果傳言為真，他又為什麼要建立朱諾？<hex:02100103>是為了提高自己的地位，方便達成自己的目的嗎？<hex:02100103>但這又與古代人有什麼關係呢？
-49,TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_116,不論如何，大公有一段時間沒在公眾面前露面了，<hex:02100103>沒想到這次會以這樣的形式出現在下層。
-50,TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_117,外表稚嫩言辭成熟的金髮少年？<hex:02100103>唔……聽起來與埃爾德納修的特徵一致，<hex:02100103>但此前沒聽說過他還有戰鬥能力。
-51,TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_118,埃爾德納修是朱諾大公卡姆拉納特的弟弟。<hex:02100103>雖然他看上去年紀不大，卻經常與哥哥一同處理國政，<hex:02100103>能力有時甚至凌駕於成年人之上。
-52,TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_119,他身上的謎團比大公還要多，<hex:02100103>自他出現以來的30年間，外貌絲毫沒有變過，<hex:02100103>一直維持著少年的形象。
-53,TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_120,朱諾的居民和商人都對真相諱莫如深，<hex:02100103>或許是害怕揭露真相後，就無法享受從那對兄弟那裡獲得的恩惠了吧。
-54,TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_121,除此之外，冒險者之間還有一個傳言，<hex:02100103>說其實埃爾德納修才是兄弟中年長的那個。<hex:02100103>如果傳言為真，那這對兄弟所有言行恐怕都需要重新審視了。
-55,TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_122,另外，在大公已死的流言滿天飛的同時，<hex:02100103>埃爾德納修就再也沒有出現在人前了。<hex:02100103>據說這件事與一位身手了得的冒險者有關……
+0,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_001","Ah, there you are. If you've any burning questions about this place, or anything else in Vana'diel, I should be happy to answer them."
+1,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_Q1_000_000","What will you say?"
+2,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_A1_000_001","Tell me about yourself."
+3,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_A1_000_002","Tell me about Fafnir."
+4,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_A1_000_003","Tell me about the Ark Angels."
+5,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_A1_000_004","Tell me about the Shadow Lord."
+6,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_A1_000_005","Nothing."
+7,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_A1_000_006","Tell me about Kirin."
+8,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_A1_000_007","Tell me about Ultima and Omega."
+9,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_A1_000_008","Tell me about Kam'lanaut."
+10,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_A1_000_009","Tell me about Eald'narche."
+11,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_A1_000_010","Tell me about Shantotto."
+12,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_A1_000_011","Tell me about Alexander."
+13,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_A1_000_012","Tell me about Promathia."
+14,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_A1_000_013","Tell me about Shinryu."
+15,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_003","Me? I'm no adventurer of any particular renown, if that's what you were expecting. Just a man come from Bastok looking to see more of the world."
+16,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_004","While I lack in fame, I make up for it with the strength of numbers. I've no shortage of friends willing to accompany me in pursuit of riches should I reach out via linkpearl."
+17,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_005","The armor I wear is proof of our accomplishments, salvaged from the depths of the Alzadaal Undersea Ruins."
+18,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_006","That said, I treasure my time with them more than any trinket or bauble we've unearthed on our travels together. You understand, surely?"
+19,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_100_006","When that girl first explained to me that we're all “echoes,” the news was quite disconcerting. But at the same time...oddly exciting."
+20,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_110_006","Any self-respecting adventurer would give anything for an opportunity like this, to be here in another world."
+21,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_120_006","We lucky few are able to live that dream. Whatever time is afforded us here as echoes, I will gladly spend it seeing all your world has to offer!"
+22,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_007","The great dragon that slumbers in the depths of the Boyahda Tree? Yes, I know of it, as does anyone who would dare venture into Zi'Tah."
+23,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_008","Stories of a great hero who did battle with a dragon, their harrowing encounter concluding with a strike at its heart with the fabled blade Ridill. If only they hadn't missed their mark..."
+24,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_009","The blade is said to remain nestled in the beast's bosom even to this day. To survive such a blow, and live for all these years, bespeaks a strength I struggle to imagine."
+25,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_010","And yet the tales of its might have not deterred the brave and foolhardy from venturing in the tree, hopeful they can slay Fafnir and claim its spoils. Few have reached Dragon's Aery and lived to tell of it."
+26,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_011","I've heard stories. Of the five warriors clad in black. If the fates are kind, I will never have the poor fortune to cross paths with them."
+27,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_012","They were not born but forged from crystal, assuming the legends are true."
+28,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_013","The Dawn Goddess, Altana, wept five tears that gave birth to the five races: Hume, Elvaan, Tarutaru, Mithra, and Galka. The Ark Angels are said to be the embodiment of their sins."
+29,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_014","Apathy, arrogance, cowardice, envy, rage─the darkness that lurks within us all..."
+30,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_015","No one is certain why they were created. The prevailing theory is they served as guardians of some ancient paradise."
+31,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_016","The great darkness of the Northlands, hatred made manifest. There's not a soul in all of Vana'diel who doesn't know of the Shadow Lord."
+32,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_017","His sole desire was to bring about the extinction of Altana's children, and so he rallied together the beastmen, inciting what came to be known as the Crystal War."
+33,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_018","The beastmen's assault was merciless, and it was not long before Bastok, San d'Oria, and Windurst were brought to their knees. It was only after Archduke Kam'lanaut convinced them to join forces with the Grand Duchy of Jeuno that they gained the momentum needed to push back."
+34,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_019","United as the Alliance of Altana, they would eventually drive the beastmen back from their lands, and soon found themselves going on the offensive in Xarcabard. The alliance proved victorious in the end, but not without a great many sacrifices. "
+35,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_020","Peace had been restored to Vana'diel. For a time, at least. The Shadow Lord was somehow resurrected twenty years later, but thankfully he was slain before the beastmen could be emboldened to take arms a second time."
+36,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_021","There is much speculation as to his origins. Most believe he was once a Galka, if you can believe it."
+37,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_022","He was betrayed by one of his companions, mortally wounded and left to die. A dear friend of his was also said to have been cut down in the altercation."
+38,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_023","He succumbed to his wounds, but his rage and despair would remain, giving life to the Shadow Lord. "
+39,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_024","If what you say is true, and he has returned once more, perhaps the flames of his hatred can never truly be extinguished."
+40,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_100","A talking manticore possessed of powerful elemental magicks? Only Kirin comes to mind."
+41,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_101","Master of the Shijin, residing within the deepest reaches of the Shrine of Ru'Avitau. It is said to be a creature of boundless power and wisdom both."
+42,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_102","Only those who can best the four Shijin and claim their seals are granted an audience. I can say I've managed it just the once with a band of adventurers many moons ago."
+43,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_103","An arduous experience, to say the least. The Shijin also required offerings of rare gems and stones to be summoned, and we weren't the only ones who sought them. It was a mad dash from dawn to dusk, running ourselves ragged just to meet with these lesser divine beasts."
+44,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_104","When it finally came time to face Kirin, we had to be prepared. Defeat would have meant repeating the process of gathering gems and stones for the Shijin, and I don't think we had resolve enough to face them all a second time. Not without a long, long reprieve."
+45,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_105","As you can imagine, the spoils from that battle are exceedingly rare. Kirin's Osode, for example, could easily fetch ninety-nine million gil on the bazaar."
+46,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_106","Wait─isn't that Kirin's Osode you're wearing? Would that the gods would grant me such luck."
+47,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_107","A pair of strange mechanical monsters assaulted an armada of airships, you say? Sounds like you've seen the legendary weapons Ultima and Omega."
+48,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_108","It's rumored the Armathrwn Society sought to revive them in some way, so it's hard to say whether what you saw were the original weapons built by the ancients, or recreations."
+49,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_109","The Archduke, Kam'lanaut, was also said to be involved with the Armathrwn Society, if you can believe it."
+50,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_110","No one really knows what it is they're after, but I've heard from a reliable source that they have a keen interest in “realizing the dreams of the Zilart,” whatever that means. Perhaps you can discover the truth for yourself."
+51,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_111","The Archduke is the reason Jeuno grew from a small fishing village into the bustling city we know today."
+52,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_112","During the Crystal War, he rallied the nations of Windurst, Bastok, and San d'Oria together under the banner of the Allied Forces of Altana. This union afforded the Enlightened Races an invaluable foothold in their fight against the beastmen."
+53,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_113","When enemy forces reached Jeuno's doorstep, it's said that Kam'lanaut himself led the counterattack that resulted in a decisive victory against the invasion."
+54,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_114","While widely regarded as a hero of the people, some believe he's not all that he appears to be. He's rumored to have ties to the Zilart, an ancient race whose people flourished some ten thousand years ago."
+55,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_115","Which begs the question, does he intend to use his position as Archduke to further some unknown agenda? And what would an ostensibly extinct people have to gain from it? Only the gods know, I suppose."
+56,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_116","After being away from the public eye, I never would have imagined that's how he'd reveal himself."
+57,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_117","The young man is known to speak with a wisdom well beyond his years, but I'm surprised to hear he's well versed in combat as well."
+58,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_118","He is Kam'lanaut's younger brother, and despite his age, he plays a significant role in the governance of Jeuno, his shrewdness often surpassing even that of senior officials."
+59,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_119","I say “despite his age,” but it has been thirty years since he and his older brother first assumed leadership."
+60,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_120","Whatever secrets they're hiding, the people of Jeuno seem to have little interest in bringing them to light. Or, perhaps, they fear the repercussions of drawing the Archduke's ire. "
+61,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_121","Did you know there are some adventurers who claim that Eald'narche is actually the <hex:021A020203>older<hex:021A020103> brother? If that were true, it would call into question everything we know about him and his brother."
+62,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_122","Eald'narche disappeared from the public eye around the same time news spread of his brother's death. As for why, one prevailing theory points to the involvement of a seasoned adventurer."
+63,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_200","Of course I know of Shantotto. She's the former minister of the Orastery and head of the Parliament of Patriarchs."
+64,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_201","After a string of resounding victories in the Crystal War, she returned home a hero. To this day, she's regarded as one of the greatest black mages to ever live."
+65,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_202","Yet even with all her accolades and achievements, it's all but impossible to look past her arrogance and short temper. Superiors, subordinates, acquaintances both old and new─all are subject to her threats and insults."
+66,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_203","Myself included. Even now, the memory of being made her unwitting accomplice after a curse gone wrong still haunts me..."
+67,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_204","As if she alone wasn't terrifying enough, rumor has it she's created a veritable army of magicked dolls in her likeness, each able to wield magicks as powerful as the wizard herself."
+68,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_205","No one knows why she would do such a thing, but it wouldn't surprise me if she was secretly plotting to build her own empire."
+69,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_206","There's a reason they call her the demon of the Federation, after all. Fortunately for us, we are her allies rather than enemies. For now, at least..."
+70,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_207","If you should chance to meet her, she cannot know you heard any of this, understand? Certainly not from me. Even if I am only an echo, I've grown rather fond of living..."
+71,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_208","Alexander, the Light Divinity? Yes, I know of him."
+72,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_209","As his name suggests, Alexander is revered for his ability to manipulate light, creating the perfect defense against any attack. That light can also be wielded as a terrible weapon, smiting his foes with divine judgment."
+73,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_210","Or so they say. I had a hand in helping an adventurer who sought an audience with the colossus, but I know not what they found in the ruins where he is said to slumber."
+74,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_211","If you ever find yourself in Aht Urhgan, perhaps you can find out the truth for yourself."
+75,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_212","A good place to start would be joining Salaheem's Sentinels. They're well connected, and always looking for capable mercenaries."
+76,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_213","You should know, though, their president is something of a tyrant, and the pay can be...less than desirable at times. Should you choose to join them, I can't be held responsible for what happens."
+77,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_214","The Twilight God? I know the legends, yes."
+78,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_215","It's said that, after Altana created the five races, Promathia cursed each with a negative trait."
+79,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_216","What's more, he birthed the beastmen, in the hopes they might one day destroy Altana's creations. The darkness to Altana's light."
+80,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_217","I did once hear a very different interpretation of their relationship, and how Promathia may have actually had a hand in man's creation."
+81,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_218","They went on to talk about how the chains that bind Promathia bind us all, and something about a struggle to break free... I never did figure out what they meant."
+82,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_219","I can only imagine what long and arduous journey they endured to ascertain the truth. Even if they tried to explain, something tells me I'd fail to comprehend it."
+83,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_220","Which is why I decided to set out on a journey of my own, to explore the unknown. Maybe I'll discover the truth of the world for myself."
+84,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_221","And if the fates are kind, I'll cross paths with that adventurer again someday. I'd fancy an adventure with you as well, should the opportunity arise."
+85,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_222","Not many people know this, but the cavernous maws dotting the lands of Vana'diel are actually gateways. They lead to another Vana'diel."
+86,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_223","A native of that place brought a number of us adventurers there in hopes of saving his home. Its skies were stained red, its lands mired in shadow. He called it Abyssea."
+87,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_224","There were strange and horrible monsters unlike anything in our world. The most terrible among them was a dragon whose power rivaled the gods."
+88,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_225","Shinryu... We eventually managed to overcome the fiend with the aid of a special primeval brew that granted us preternatural strength."
+89,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_226","And you're saying this Sareel Ja was able to fuse Shinryu together with Gulool Ja Ja?"
+90,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_227","I struggle to imagine the horrors such a king would inflict upon the world. Had his plan succeeded, it would have spelled the end of everything as we know it."
+91,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_228","I certainly hope you apprehend him soon, before he finds some other means to abuse the memories of Vana'diel."
+92,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_229","A future that will never come to pass thanks to you. It's a relief to know the memories of Vana'diel are finally safe."
+93,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_230","A pity we must always be reminded of the world's evils when there's so much good in it."
+94,"TEXT_CTSETCEOVBOSSEXPLANATION_00912_VANAADV05234C_000_231","But with adventurers like you to help defend that good, I know we'll be all right."

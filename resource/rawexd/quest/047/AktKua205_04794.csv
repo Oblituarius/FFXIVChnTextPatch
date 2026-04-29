@@ -2,166 +2,166 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_AKTKUA205_04794_SEQ_00,開拓據點的聯絡小員正在等待小島的主人與它交談。
-1,TEXT_AKTKUA205_04794_SEQ_01,和聯絡小員進行了交談。前往無人島西南方向的海灘，在<hex:02280CFF05>EObj<hex:F61EB9710103>等待塔塔露。
-2,TEXT_AKTKUA205_04794_SEQ_02,塔塔露帶著尤盧斯等人拜訪了小島。和無人島小島木屋附近的塔塔露談談。
-3,TEXT_AKTKUA205_04794_SEQ_03,和塔塔露進行了交談。將<hex:022811FF0A>EventItem<hex:F61E92140103>交給前往採集環境的幹勁十足的軍團兵以及開拓據點南側的尤盧斯。
-4,TEXT_AKTKUA205_04794_SEQ_04,將服裝交給了兩人。和無人島小島木屋附近的塔塔露談談。
-5,TEXT_AKTKUA205_04794_SEQ_05,眾人在小島上享受了一段悠閒時光。和西南方向海灘的尤盧斯談談。
-6,TEXT_AKTKUA205_04794_SEQ_06,尤盧斯看起來休息得不錯。他表示總有一天要招待冒險者遊覽復興的加雷馬後，便踏上了返程之旅。希望冒險者繼續自由地開拓小島，享受悠閒時光。願今後這座小島也能為大家帶來歡笑。
-7,TEXT_AKTKUA205_04794_SEQ_07,
-8,TEXT_AKTKUA205_04794_SEQ_08,
-9,TEXT_AKTKUA205_04794_SEQ_09,
-10,TEXT_AKTKUA205_04794_SEQ_10,
-11,TEXT_AKTKUA205_04794_SEQ_11,
-12,TEXT_AKTKUA205_04794_SEQ_12,
-13,TEXT_AKTKUA205_04794_SEQ_13,
-14,TEXT_AKTKUA205_04794_SEQ_14,
-15,TEXT_AKTKUA205_04794_SEQ_15,
-16,TEXT_AKTKUA205_04794_SEQ_16,
-17,TEXT_AKTKUA205_04794_SEQ_17,
-18,TEXT_AKTKUA205_04794_SEQ_18,
-19,TEXT_AKTKUA205_04794_SEQ_19,
-20,TEXT_AKTKUA205_04794_SEQ_20,
-21,TEXT_AKTKUA205_04794_SEQ_21,
-22,TEXT_AKTKUA205_04794_SEQ_22,
-23,TEXT_AKTKUA205_04794_SEQ_23,
-24,TEXT_AKTKUA205_04794_TODO_00,在<hex:02280CFF05>EObj<hex:F61EB9710103>等待
-25,TEXT_AKTKUA205_04794_TODO_01,和塔塔露對話
-26,TEXT_AKTKUA205_04794_TODO_02,將<hex:022811FF0A>EventItem<hex:F61E92140103>交給幹勁十足的軍團兵
-27,TEXT_AKTKUA205_04794_TODO_03,將<hex:022811FF0A>EventItem<hex:F61E92140103>交給尤盧斯
-28,TEXT_AKTKUA205_04794_TODO_04,和塔塔露對話
-29,TEXT_AKTKUA205_04794_TODO_05,和尤盧斯對話
-30,TEXT_AKTKUA205_04794_TODO_06,
-31,TEXT_AKTKUA205_04794_TODO_07,
-32,TEXT_AKTKUA205_04794_TODO_08,
-33,TEXT_AKTKUA205_04794_TODO_09,
-34,TEXT_AKTKUA205_04794_TODO_10,
-35,TEXT_AKTKUA205_04794_TODO_11,
-36,TEXT_AKTKUA205_04794_TODO_12,
-37,TEXT_AKTKUA205_04794_TODO_13,
-38,TEXT_AKTKUA205_04794_TODO_14,
-39,TEXT_AKTKUA205_04794_TODO_15,
-40,TEXT_AKTKUA205_04794_TODO_16,
-41,TEXT_AKTKUA205_04794_TODO_17,
-42,TEXT_AKTKUA205_04794_TODO_18,
-43,TEXT_AKTKUA205_04794_TODO_19,
-44,TEXT_AKTKUA205_04794_TODO_20,
-45,TEXT_AKTKUA205_04794_TODO_21,
-46,TEXT_AKTKUA205_04794_TODO_22,
-47,TEXT_AKTKUA205_04794_TODO_23,
-48,TEXT_AKTKUA205_04794_OPERATORMAMMET_000_000,新消息！新消息！<hex:02100103>塔塔露傳話過來啦！
-49,TEXT_AKTKUA205_04794_OPERATORMAMMET_000_001,據說上次她來時提過的「臨時增加的客人」已經談妥了，<hex:02100103>現在正要帶客人過來……
-50,TEXT_AKTKUA205_04794_OPERATORMAMMET_000_002,現在這座島已經成了無人能企及的最佳開拓樣板，<hex:02100103>不管來的是怎樣的客人，這座小島應該都能讓對方玩得心滿意足吧！<hex:02100103>還請你去一趟西南邊的海灘迎接！
-51,TEXT_AKTKUA205_04794_OPERATORMAMMET_000_010,嘿嘿，無人能企及的最佳開拓樣板，<hex:02100103>每說一次這句話我都覺得好驕傲啊！<hex:02100103>竟然能在這麼好的地方工作，我們可真是一群幸運的魔法人偶！
-52,TEXT_AKTKUA205_04794_TATARU_000_020,<hex:022903EB0203>！久等了！
-53,TEXT_AKTKUA205_04794_JULLUS_000_021,抱歉，也沒提前說一聲……<hex:02100103>總之，尤盧斯·皮爾·諾巴努斯現已到達。
-54,TEXT_AKTKUA205_04794_JULLUS_000_022,還有，這幾位是我邀請來的第一軍團士卒。<hex:02100103>大家都沒穿軍服，你可能一下子認不出來吧。
-55,TEXT_AKTKUA205_04794_JULLUS_000_023,這幾位都是選擇了留在加雷馬，<hex:02100103>繼續在加雷馬社區內生活工作的人。
-56,TEXT_AKTKUA205_04794_JULLUS_000_024,其實我們自己對事情會變成這樣也感到有些驚訝……<hex:02100103>你應該還記得，之前我們對一直幫助我們的阿爾菲諾和阿莉塞兩位<hex:02100103>說起過他們應該休息一下吧？
-57,TEXT_AKTKUA205_04794_JULLUS_000_025,他們離開帝都之前，當然也和伊爾薩巴德救援隊打了招呼。<hex:02100103>然後他們要去休假的消息……就從那傳開了。
-58,TEXT_AKTKUA205_04794_TATARU_000_026,其實是埃馬內蘭和希卡爾多啦！<hex:02100103>「我說你們帝國軍的傢伙還說別人？你們才是一直沒休息過吧！」<hex:02100103>露琪亞聯繫他們時，那兩個人就不約而同地這麼說了！
-59,TEXT_AKTKUA205_04794_TATARU_000_027,而且說完就幫尤盧斯他們把從請假到旅行計劃的事都準備好了……<hex:02100103>還說什麼，如果是去<hex:022903EB0203>島上的話，<hex:02100103>尤盧斯肯定能休息好，玩得好。
-60,TEXT_AKTKUA205_04794_TATARU_000_028,總之就是這樣！<hex:02100103>埃馬內蘭準備了飛空艇，希卡爾多準備了船，<hex:02100103>塔塔露我精心調整了各項預定！
-61,TEXT_AKTKUA205_04794_TATARU_000_029,通過各方協作，我們成功將勤勤懇懇守護加雷馬社區的士兵，<hex:02100103>或者說將其中的幾位士兵，帶到這裡來啦！
-62,TEXT_AKTKUA205_04794_JULLUS_000_030,其實我們最開始也有些糾結是否要過來。<hex:02100103>但那幾位真的花了很多心思安排，我們也實在不好拒絕。
-63,TEXT_AKTKUA205_04794_JULLUS_000_031,所以大家就請了個短假，<hex:02100103>來這裡打擾你了。
-64,TEXT_AKTKUA205_04794_TATARU_000_032,那麼各位，接下來開始是自由時間！
-65,TEXT_AKTKUA205_04794_TATARU_000_033,可盡情休息緩解旅途的疲勞……<hex:02100103>也可以按照自己的想法自由玩耍……<hex:02100103>各位有什麼想法？
-66,TEXT_AKTKUA205_04794_JULLUS_000_034,……一般這時候……大家會做什麼？
-67,TEXT_AKTKUA205_04794_Q1_000_035,如何作答？
-68,TEXT_AKTKUA205_04794_A1_000_036,去泡海水浴怎麼樣？
-69,TEXT_AKTKUA205_04794_A1_000_037,我們去抓蟲子吧！
-70,TEXT_AKTKUA205_04794_A1_000_038,在島上……轉一圈？
-71,TEXT_AKTKUA205_04794_JULLUS_000_039,這應該不成問題。<hex:02100103>姑且我們進行軍事訓練的時候都學過游泳。
-72,TEXT_AKTKUA205_04794_JULLUS_000_040,這種情況的話，應該游多遠才夠？<hex:02100103>我還是第一次在海裡游泳，<hex:02100103>希望需要游泳的距離不會超過我的能力範圍……
-73,TEXT_AKTKUA205_04794_JULLUS_000_041,原來如此，這時候要去抓蟲子！
-74,TEXT_AKTKUA205_04794_JULLUS_000_042,……等等，這個蟲子，抓回來之後呢？
-75,TEXT_AKTKUA205_04794_JULLUS_000_043,確實，這是個不錯的主意。<hex:02100103>一眼看過去，這座島既有森林也有山脈，<hex:02100103>應該也有發達的水系。
-76,TEXT_AKTKUA205_04794_JULLUS_000_044,穿梭在這樣的自然環境中，學習野外生存之法……<hex:02100103>沒錯，我們現在最需要的就是這種訓練了！
-77,TEXT_AKTKUA205_04794_TATARU_000_045,這就是……典型的那種，不會休息的人是吧。<hex:02100103>到了休息的時候不知道該做什麼，反而是很麻煩的類型呢！
-78,TEXT_AKTKUA205_04794_TATARU_000_046,既然是這樣的話，<hex:02100103>要不要先嘗試一下<hex:022903EB0203>和魔法人偶們<hex:02100103>在島上的工作？
-79,TEXT_AKTKUA205_04794_GARLEANSOLDIERA04794_000_047,種田就交給我吧！<hex:02100103>我家可是好幾代的農民，我經常給家裡人幫忙的！
-80,TEXT_AKTKUA205_04794_GARLEANSOLDIERB04794_000_048,我姑且還算是會照顧家畜吧。<hex:02100103>……好懷念啊，我的父母從前是在牧場裡工作的。
-81,TEXT_AKTKUA205_04794_GARLEANSOLDIERC04794_000_049,我家是種樹的。<hex:02100103>不管是砍樹還是砍柴，我以前都做過。
-82,TEXT_AKTKUA205_04794_JULLUS_000_050,畢竟我們加雷馬族從前也是農耕民族。
-83,TEXT_AKTKUA205_04794_JULLUS_000_051,加雷馬人就算是被驅逐到了北方，<hex:02100103>也一直在尋找開拓能夠用於種植糧食的耕地，<hex:02100103>我們也會拿作物飼料來餵養家畜。
-84,TEXT_AKTKUA205_04794_JULLUS_000_052,而在青磷水和鋼鐵取代一切之前，<hex:02100103>我們過日子用的燃料也好，建築原材料也好，都是木料。
-85,TEXT_AKTKUA205_04794_JULLUS_000_053,你們去調查冥魂石洞的時候應該看到那個廢棄的村落了吧……<hex:02100103>在我們的父母、祖父母那一代，還都是生活在那種樸素的房子裡的，<hex:02100103>大家和自然比鄰而居，做的也都是向大自然討生活的工作。
-86,TEXT_AKTKUA205_04794_TATARU_000_054,原來是這樣嗎。<hex:02100103>聽你這麼說還挺讓人意外的呢……謝謝你告訴我們這些。
-87,TEXT_AKTKUA205_04794_TATARU_000_055,那麼，我們應該也可以放心把工作交給客人們了！<hex:02100103>我這就帶他們去開拓據點吧？
-88,TEXT_AKTKUA205_04794_TATARU_000_056,那麼各位，請往這邊走！
-89,TEXT_AKTKUA205_04794_TATARU_000_060,我先是問了各位想要從事的工作，<hex:02100103>之後就讓魔法人偶帶他們過去了。<hex:02100103>大家看起來都幹勁十足呢！
-90,TEXT_AKTKUA205_04794_TATARU_000_061,在這座島上能體驗得到的工作，<hex:02100103>對生活在加雷馬的各位來說應該是很新鮮很特別的吧……<hex:02100103>對轉換心情肯定很有用！
-91,TEXT_AKTKUA205_04794_TATARU_000_062,那麼……啊！！<hex:02100103>我忘記把要緊的東西交給他們了！
-92,TEXT_AKTKUA205_04794_TATARU_000_063,我為尤盧斯他們準備了符合休假氛圍的衣服。<hex:02100103>想著到了島上就要給他們，結果我卻一直拿在自己手裡，<hex:02100103>把這事給忘了……
-93,TEXT_AKTKUA205_04794_TATARU_000_064,現在應該還能趕上！<hex:02100103>真不好意思，<hex:022903EB0203>，<hex:02100103>能請你幫幫我嗎？
-94,TEXT_AKTKUA205_04794_TATARU_000_065,我現在去追往北面去的幾個人，<hex:02100103>南面以及前往採集環境的人就交給你了！
-95,TEXT_AKTKUA205_04794_TATARU_000_066,等你分發完了服裝，就再回這裡集合！<hex:02100103>拜託你啦！
-96,TEXT_AKTKUA205_04794_GARLEANSOLDIERC04794_000_070,哦！是你啊！<hex:02100103>我正打算之後跟這個魔法人偶一起去砍樹收集木材呢！
-97,TEXT_AKTKUA205_04794_GARLEANSOLDIERC04794_000_071,休假用的衣服？<hex:02100103>那姑娘還特地幫我們準備了這東西嗎？
-98,TEXT_AKTKUA205_04794_GARLEANSOLDIERC04794_000_072,太好了，我會好好珍惜的。<hex:02100103>等我結束採集工作之後就換上，<hex:02100103>好期待啊，也不知道這衣服我穿著會有多好看。
-99,TEXT_AKTKUA205_04794_GARLEANSOLDIERC04794_000_073,那我就先走一步啦。<hex:02100103>放心吧，我可是常年跟在昆圖斯閣下身邊的人，<hex:02100103>南國的大樹肯定難不倒我！
-100,TEXT_AKTKUA205_04794_JULLUS_000_080,是<hex:022903EB0203>啊……<hex:02100103>我正在跟魔法人偶聊你的事呢，<hex:02100103>聽說你是從無到有，獨自開拓的這個島？
-101,TEXT_AKTKUA205_04794_JULLUS_000_081,老實說，除了厲害我真的不知道該怎麼評價你。<hex:02100103>我是在帝都出生長大，從高等學院畢業之後就直接參了軍，<hex:02100103>也沒有像他們那樣能用於日常生活的技能……
-102,TEXT_AKTKUA205_04794_JULLUS_000_082,所以這次我也是打算先在島上轉轉，<hex:02100103>好讓魔法人偶為我介紹一下有些什麼工作是我能做的。
-103,TEXT_AKTKUA205_04794_JULLUS_000_083,要給我新衣服……？<hex:02100103>我本來想著穿套普通衣服應該沒什麼問題，<hex:02100103>竟然還特地為我們準備了更適合休假的衣服啊……
-104,TEXT_AKTKUA205_04794_JULLUS_000_084,……明明裝了一整套衣服卻這麼輕。<hex:02100103>和我們平常穿的軍裝真的是截然不同。
-105,TEXT_AKTKUA205_04794_JULLUS_000_085,謝謝你，我會找地方換衣服的。<hex:02100103>也請替我謝謝塔塔露。
-106,TEXT_AKTKUA205_04794_JULLUS_000_086,馬尼烏斯，收好了，這是你的衣服。
-107,TEXT_AKTKUA205_04794_JULLUS_000_087,……你以前跟<hex:022903EB0203>聊過嗎？
-108,TEXT_AKTKUA205_04794_COLLEAGUESOLDIER_000_088,(-馬尼烏斯-)那當然了，我們早見過面了！
-109,TEXT_AKTKUA205_04794_COLLEAGUESOLDIER_000_089,(-馬尼烏斯-)我們之前在封賞別墅偶然見過一次，你還記得嗎？<hex:02100103>那時候你身邊跟著一隻穿著藍色衣服的小陸行鳥，<hex:02100103>還有一台蟲子一樣的機器。
-110,TEXT_AKTKUA205_04794_COLLEAGUESOLDIER_000_090,(-馬尼烏斯-)那台奇怪的機器對過去掃墓的我<hex:02100103>問了一大堆關於心啊思想啊的頭疼問題……
-111,TEXT_AKTKUA205_04794_JULLUS_000_091,陸行鳥和機器……那是什麼？<hex:02100103>你確定不是自己在做白日夢嗎？
-112,TEXT_AKTKUA205_04794_COLLEAGUESOLDIER_000_092,(-馬尼烏斯-)怎麼可能啊！<hex:02100103>你當我是上課的時候睡大覺，<hex:02100103>結果還在夢裡嘮叨弟弟妹妹的尤盧斯同學嗎？！
-113,TEXT_AKTKUA205_04794_JULLUS_000_093,什……！<hex:02100103>這都什麼時候的事情了？！快給我忘掉！
-114,TEXT_AKTKUA205_04794_COLLEAGUESOLDIER_000_094,(-馬尼烏斯-)哈哈哈，這輩子我都不會忘的！<hex:02100103>不管你今後成了多厲害的大人物，<hex:02100103>對我來說你還是我最珍惜的老同學。
-115,TEXT_AKTKUA205_04794_JULLUS_000_100,真是的，馬尼烏斯那傢伙……！<hex:02100103>我睡著那是因為不可抗力好吧？<hex:02100103>那時候我還不習慣訓練……就很困……
-116,TEXT_AKTKUA205_04794_JULLUS_000_101,總、總之，夠了！<hex:02100103>請魔法人偶幫我找個地方換衣服吧！<hex:02100103>現在立刻馬上！解散！再見！
-117,TEXT_AKTKUA205_04794_JULLUS_000_105,來這座島的路上，<hex:02100103>我就聽說塔塔露在經營一家裝備店。<hex:02100103>我其實有點緊張，不知道塔塔露會選什麼樣的衣服給我們……
-118,TEXT_AKTKUA205_04794_JULLUS_000_106,應該不會很難穿吧……？<hex:02100103>艾歐澤亞來的人，有時候會穿著那種……該怎麼說……<hex:02100103>很專業，很難理解的衣服？
-119,TEXT_AKTKUA205_04794_TATARU_000_110,呼……呼……<hex:02100103>我努力了一番，總算是追上了我要找的兩個人。
-120,TEXT_AKTKUA205_04794_TATARU_000_111,你那邊怎麼樣……？
-121,TEXT_AKTKUA205_04794_TATARU_000_112,啊！真是太好啦！<hex:02100103>多虧了你，他們能好好享受島上的假期了！
-122,TEXT_AKTKUA205_04794_TATARU_000_113,接下來這段時間就讓他們各自體會一下島上工作的樂趣吧……<hex:02100103>他們總是在拚命工作，應該很少享受過空閒吧。
-123,TEXT_AKTKUA205_04794_TATARU_000_114,<hex:022903EB0203>，可以的話，<hex:02100103>你能和我一起來準備食物嗎？<hex:02100103>等大家回來了，我們就來舉辦一場快樂的宴會！
-124,TEXT_AKTKUA205_04794_JULLUS_000_200,……真是不可思議。
-125,TEXT_AKTKUA205_04794_JULLUS_000_201,真的……真的經歷了好多事……<hex:02100103>才能有機會……像今天這樣……
-126,TEXT_AKTKUA205_04794_JULLUS_000_202,最開始的轉折點，應該是索魯斯皇帝去世吧。<hex:02100103>後來瓦厲斯皇帝也死了，我的生活發生了天翻地覆的變化。
-127,TEXT_AKTKUA205_04794_JULLUS_000_203,加雷馬陷入了內戰……<hex:02100103>那也是無知的我們犯下的大錯……
-128,TEXT_AKTKUA205_04794_JULLUS_000_204,結果，我們召喚了蠻神阿尼瑪，<hex:02100103>許多的同胞……失去了自己最珍視的家人。
-129,TEXT_AKTKUA205_04794_JULLUS_000_205,後來伊爾薩巴德救援隊來了……<hex:02100103>在那個冰冷刺骨的晚上……我也被阿尼瑪精煉了……
-130,TEXT_AKTKUA205_04794_JULLUS_000_206,不過，沒想到這竟不代表一切都結束了。<hex:02100103>我接受了治療，又醒了過來……
-131,TEXT_AKTKUA205_04794_JULLUS_000_207,我看到了，天空在燃燒。<hex:02100103>末日的災難正在席捲整個世界。
-132,TEXT_AKTKUA205_04794_JULLUS_000_208,……擊退了這樣的災難之後，我們還剩下什麼？
-133,TEXT_AKTKUA205_04794_JULLUS_000_209,光是想要活下去，就有堆積如山的問題攔在我們面前……<hex:02100103>這些問題就像是帝都毀滅之後留下的重重瓦礫一樣，<hex:02100103>我們甚至都找不到一個突破口。
-134,TEXT_AKTKUA205_04794_JULLUS_000_210,這時候，阿爾菲諾和阿莉塞來了。<hex:02100103>然後你也來了，拉札罕的總督也來了。
-135,TEXT_AKTKUA205_04794_JULLUS_000_211,接下來……還有零也來了。
-136,TEXT_AKTKUA205_04794_JULLUS_000_212,她來了，成了我的朋友，又離開了……
-137,TEXT_AKTKUA205_04794_JULLUS_000_213,一件事接著另一件事，每天都有新的事在發生，<hex:02100103>沒留給我一點停下來思考的時間。<hex:02100103>每一天我都像是在大河裡隨波逐流……
-138,TEXT_AKTKUA205_04794_JULLUS_000_214,在這些事裡沉沉浮浮時，我才終於想明白了。<hex:02100103>雖然每個人都知道如何放聲歡笑，但其實……
-139,TEXT_AKTKUA205_04794_JULLUS_000_215,活著就是在邁向死亡。<hex:02100103>有相遇必有別離，有起始必有終結。
-140,TEXT_AKTKUA205_04794_JULLUS_000_216,……不過，該怎麼說呢，<hex:02100103>我們這些人可能就是這樣伴隨著別離和終結一步步走下去的吧。
-141,TEXT_AKTKUA205_04794_TATARU_000_220,結果連我也跟著一起喝酒唱歌享受起來了。<hex:02100103>沒想到有一天我能和帝國軍的人一起度假。<hex:02100103>要是在以前，真是想也不敢想的事情……
-142,TEXT_AKTKUA205_04794_JULLUS_000_230,大家都已經做好了準備，收拾好了返程的行李。<hex:02100103>手頭的工作也都算是告一段落，<hex:02100103>找了恰當的時機交接給了負責的魔法人偶。
-143,TEXT_AKTKUA205_04794_JULLUS_000_231,今天……我玩得很開心，謝謝你。
-144,TEXT_AKTKUA205_04794_JULLUS_000_232,以後即使是在又冷又難過的夜裡，<hex:02100103>回想起在這裡的經歷，應該也能覺得暖和一些吧。
-145,TEXT_AKTKUA205_04794_JULLUS_000_233,我真是不知道該怎麼感謝你才好……<hex:02100103>像我們這樣還得靠別人的支援才能勉強度日，<hex:02100103>說到底也只能動動手給你做點力氣活了。
-146,TEXT_AKTKUA205_04794_TATARU_000_234,怎麼會，大家做了這麼多工作，還都做得這麼好，<hex:02100103>我從魔法人偶那裡聽到的都是誇大家的話呢！<hex:02100103>所以，應該是我來感謝你們才對啊！
-147,TEXT_AKTKUA205_04794_JULLUS_000_235,那樣的話就再好不過了。<hex:02100103>我也趁機從它們那裡學了一些能用於復興工作的知識，<hex:02100103>也請代替我謝謝魔法人偶們。
-148,TEXT_AKTKUA205_04794_JULLUS_000_236,總之，<hex:02100103>將來重建完加雷馬之後，<hex:02100103>還請允許我招待你們遊覽帝都。
-149,TEXT_AKTKUA205_04794_JULLUS_000_237,要是有可能的話，希望你們能趁著夏季來。<hex:02100103>夏天雖短，但那時候碧綠的草原能爬滿遠方的山坡，<hex:02100103>還會有清風在碧草間馳騁……
-150,TEXT_AKTKUA205_04794_JULLUS_000_238,……我想你作為這座小島的主人，肯定會喜歡那個地方的。
-151,TEXT_AKTKUA205_04794_Q2_000_239,要說什麼？
-152,TEXT_AKTKUA205_04794_A2_000_240,我很期待……
-153,TEXT_AKTKUA205_04794_A2_000_241,真不知道要過多久才能等到那一天……
-154,TEXT_AKTKUA205_04794_JULLUS_000_242,好！我們在這邊也充分地休息過了，<hex:02100103>回去之後也要加倍努力工作等著你的到來！
-155,TEXT_AKTKUA205_04794_JULLUS_000_243,放心吧，我們在這邊也充分地休息過了，<hex:02100103>只要回去努力加油幹，我相信不遠的將來那一天肯定會到來的。
-156,TEXT_AKTKUA205_04794_JULLUS_000_244,……在那天到來之前，我們可都要健健康康的。<hex:02100103>那麼，<hex:022903EB0203>，有機會再見啦。
-157,TEXT_AKTKUA205_04794_TATARU_000_245,那麼，我這就送各位回去啦！<hex:02100103>返回加雷馬的一路上也都已經安排好了，<hex:02100103>請各位放心交給我吧！
-158,TEXT_AKTKUA205_04794_TATARU_000_246,這一波客人離開之後，所有預約的客人就都已經接待完啦！
-159,TEXT_AKTKUA205_04794_TATARU_000_247,回過頭來想一想，我也和大家一起，<hex:02100103>享受了很多快樂時光呢……
-160,TEXT_AKTKUA205_04794_TATARU_000_248,我的計劃能夠得到大家認可，也讓我非常開心。<hex:02100103>在這座小島上度過的快樂時光會是我最寶貴的回憶。
-161,TEXT_AKTKUA205_04794_TATARU_000_249,<hex:022903EB0203>呢？你怎麼看？<hex:02100103>有沒有從忙碌的戰鬥中解脫，<hex:02100103>充分地享受了這座島帶來的平靜生活？
-162,TEXT_AKTKUA205_04794_TATARU_000_250,如果你覺得開心的話，那就再好不過啦！<hex:02100103>希望你今後也能像風那樣，<hex:02100103>自由自在地享受小島上的愉快時光！
+0,"TEXT_AKTKUA205_04794_SEQ_00","The curious courier's persistent beeping has a ring of finality to it."
+1,"TEXT_AKTKUA205_04794_SEQ_01","The curious courier informs you that Tataru's final group of guests will soon make landfall. You follow the familiar path down to the western inlet and wonder who will arrive."
+2,"TEXT_AKTKUA205_04794_SEQ_02","Tataru is joined by none other than Jullus and a group of fellow Ist Legion soldiers, nigh unrecognizable in their civilian attire. She explains that Emmanellain and Sicard were adamant they travel to your island for a reprieve from the grueling efforts of rebuilding their homeland. Yet, despite finding themselves in a veritable paradise, Jullus and his comrades seem uncertain how best to proceed. Suspecting that typical vacation activities may feel less intuitive to your friends from the frozen north, Tataru breaks the ice by suggesting cooperation with the island's industrious mammets instead. The Garleans eagerly offer up their willing hands and agricultural expertise, and you all head off towards the hideaway."
+3,"TEXT_AKTKUA205_04794_SEQ_03","Your guests have dispersed, but Tataru realizes she forgot to distribute a most important gift: garments fit for tropical climes. Determined to see them delivered, she asks that you take her handpicked outfits to Jullus, his taciturn friend, and the Garlean who expressed an interest in logging."
+4,"TEXT_AKTKUA205_04794_SEQ_04","Happily, the recipients of your gifts hadn't wandered too far. Duty fulfilled, you turn back to meet Tataru where you left her in the central area of your hideaway."
+5,"TEXT_AKTKUA205_04794_SEQ_05","Night falls, and you sit before a blazing bonfire with your guests, singing and drinking in a rare evening of revelry. Jullus gazes at the dancing flames, deep in thought. He recalls to you the events that led to this moment, from the civil war which fueled Anima's summoning to the unlikely friendships forged with the twins, Varshahn, and Zero. An endless string of endings, he muses, as inexorable as time itself. Yet in loss comes gain, and from yesterday comes the hope of tomorrow..."
+6,"TEXT_AKTKUA205_04794_SEQ_06","The Garleans thank you for hosting them, their faces glowing and refreshed. Eager to repay your generosity, Jullus promises to extend his own invitation to you once their nation has better recovered, and your guests excuse themselves to the skiff. Before she joins them, Tataru confides that she has relished the time spent on your isle alongside so many comrades from around the star. With no further plans to intrude with visitors, she bids you enjoy your idyllic island life to the fullest."
+7,"TEXT_AKTKUA205_04794_SEQ_07",""
+8,"TEXT_AKTKUA205_04794_SEQ_08",""
+9,"TEXT_AKTKUA205_04794_SEQ_09",""
+10,"TEXT_AKTKUA205_04794_SEQ_10",""
+11,"TEXT_AKTKUA205_04794_SEQ_11",""
+12,"TEXT_AKTKUA205_04794_SEQ_12",""
+13,"TEXT_AKTKUA205_04794_SEQ_13",""
+14,"TEXT_AKTKUA205_04794_SEQ_14",""
+15,"TEXT_AKTKUA205_04794_SEQ_15",""
+16,"TEXT_AKTKUA205_04794_SEQ_16",""
+17,"TEXT_AKTKUA205_04794_SEQ_17",""
+18,"TEXT_AKTKUA205_04794_SEQ_18",""
+19,"TEXT_AKTKUA205_04794_SEQ_19",""
+20,"TEXT_AKTKUA205_04794_SEQ_20",""
+21,"TEXT_AKTKUA205_04794_SEQ_21",""
+22,"TEXT_AKTKUA205_04794_SEQ_22",""
+23,"TEXT_AKTKUA205_04794_SEQ_23",""
+24,"TEXT_AKTKUA205_04794_TODO_00","Wait at the designated location."
+25,"TEXT_AKTKUA205_04794_TODO_01","Speak with Tataru."
+26,"TEXT_AKTKUA205_04794_TODO_02","Deliver a bundle of tropical attire to the enthusiastic soldier."
+27,"TEXT_AKTKUA205_04794_TODO_03","Deliver two bundles of tropical attire to Jullus."
+28,"TEXT_AKTKUA205_04794_TODO_04","Speak with Tataru."
+29,"TEXT_AKTKUA205_04794_TODO_05","Speak with Jullus."
+30,"TEXT_AKTKUA205_04794_TODO_06",""
+31,"TEXT_AKTKUA205_04794_TODO_07",""
+32,"TEXT_AKTKUA205_04794_TODO_08",""
+33,"TEXT_AKTKUA205_04794_TODO_09",""
+34,"TEXT_AKTKUA205_04794_TODO_10",""
+35,"TEXT_AKTKUA205_04794_TODO_11",""
+36,"TEXT_AKTKUA205_04794_TODO_12",""
+37,"TEXT_AKTKUA205_04794_TODO_13",""
+38,"TEXT_AKTKUA205_04794_TODO_14",""
+39,"TEXT_AKTKUA205_04794_TODO_15",""
+40,"TEXT_AKTKUA205_04794_TODO_16",""
+41,"TEXT_AKTKUA205_04794_TODO_17",""
+42,"TEXT_AKTKUA205_04794_TODO_18",""
+43,"TEXT_AKTKUA205_04794_TODO_19",""
+44,"TEXT_AKTKUA205_04794_TODO_20",""
+45,"TEXT_AKTKUA205_04794_TODO_21",""
+46,"TEXT_AKTKUA205_04794_TODO_22",""
+47,"TEXT_AKTKUA205_04794_TODO_23",""
+48,"TEXT_AKTKUA205_04794_OPERATORMAMMET_000_000","Contact! Contact from Mistress Tataru!"
+49,"TEXT_AKTKUA205_04794_OPERATORMAMMET_000_001","She sends word that she is presently on her way with the final group of visitors!"
+50,"TEXT_AKTKUA205_04794_OPERATORMAMMET_000_002","Whoever they are, I've no doubt they shall find our sanctuary more than satisfactory; having been so honored by the Admiral practically guarantees it! Now, pray make for the western inlet. ...With haste, with haste!"
+51,"TEXT_AKTKUA205_04794_OPERATORMAMMET_000_010","I'm filled with pride each time I remember that we officially represent the pinnacle of island development. Though we couldn't work to build a new home on distant stars, I am full glad we could build one here!"
+52,"TEXT_AKTKUA205_04794_TATARU_000_020","Sorry to have kept you waiting, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>!"
+53,"TEXT_AKTKUA205_04794_JULLUS_000_021","Forgive our intrusion. Jullus pyr Norbanus, reporting for...recreation."
+54,"TEXT_AKTKUA205_04794_JULLUS_000_022","I thought it best we not arrive in uniform, but these are my comrades of the Ist Legion."
+55,"TEXT_AKTKUA205_04794_JULLUS_000_023","They have been laboring daily to ensure the Garlean community's needs are met."
+56,"TEXT_AKTKUA205_04794_JULLUS_000_024","Tataru's invitation came as a surprise to all of us, but... Well, do you remember how we insisted the twins take proper leave from their duties in Garlemald?"
+57,"TEXT_AKTKUA205_04794_JULLUS_000_025","They informed the Ilsabard contingent of their impending departure, of course, and apparently the news traveled fast..."
+58,"TEXT_AKTKUA205_04794_TATARU_000_026","Specifically to Emmanellain and Sicard! According to Lucia, they were <hex:021A020203>uncommonly<hex:021A020103> allied in their insistence that our Garlean comrades needed a vacation above anyone."
+59,"TEXT_AKTKUA205_04794_TATARU_000_027","Knowing full well the relaxation to be found on your island, they wasted no time in hatching a plan to ensure the Garlean community's most indefatigable workers benefited from such pleasurable environs."
+60,"TEXT_AKTKUA205_04794_TATARU_000_028","Thus, we lured out Jullus and his contingent..."
+61,"TEXT_AKTKUA205_04794_TATARU_000_029","...and by Emmanellain's airship, Sicard's swiftest vessel, and my wee little rowboat, delivered our fine guests to your lovely island!"
+62,"TEXT_AKTKUA205_04794_JULLUS_000_030","We had our reservations at first but could not in good conscience refuse such a generous offer."
+63,"TEXT_AKTKUA205_04794_JULLUS_000_031","So here we are. Vacationing."
+64,"TEXT_AKTKUA205_04794_TATARU_000_032","That's the spirit!"
+65,"TEXT_AKTKUA205_04794_TATARU_000_033","Now, what would you like to do? Lounge on the beach? Soak in the greenery? Tour the island's landmarks?"
+66,"TEXT_AKTKUA205_04794_JULLUS_000_034","...What do you think?"
+67,"TEXT_AKTKUA205_04794_Q1_000_035","What will you say?"
+68,"TEXT_AKTKUA205_04794_A1_000_036","Why not go for a swim?"
+69,"TEXT_AKTKUA205_04794_A1_000_037","Let's catch bugs."
+70,"TEXT_AKTKUA205_04794_A1_000_038","How about a stroll through the wilds?"
+71,"TEXT_AKTKUA205_04794_JULLUS_000_039","Of course. We all learned to swim during military training."
+72,"TEXT_AKTKUA205_04794_JULLUS_000_040","However, as this is our first time in an ocean, I'd prefer to remain within reasonable distance to the shore. How long and far would be sufficient?"
+73,"TEXT_AKTKUA205_04794_JULLUS_000_041","Right!"
+74,"TEXT_AKTKUA205_04794_JULLUS_000_042","...Catch them and do what, exactly?"
+75,"TEXT_AKTKUA205_04794_JULLUS_000_043","Not a bad idea. From the looks of it, this island's wilderness seems plentiful enough to get lost in."
+76,"TEXT_AKTKUA205_04794_JULLUS_000_044","Mountains, forests, and no doubt rivers─I can think of no better place to undergo survival training."
+77,"TEXT_AKTKUA205_04794_TATARU_000_045","For all his willingness to humor us, something tells me he's not a practiced vacationer."
+78,"TEXT_AKTKUA205_04794_TATARU_000_046","...How about we pay a visit to <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>'s mammets? You can see the sort of work they get up to and even try your hand at some of their tasks, if you so choose!"
+79,"TEXT_AKTKUA205_04794_GARLEANSOLDIERA04794_000_047","Do you keep crops on this island? The art of cultivation has been passed down in my family for generations, so I would be happy to tend to the fields!"
+80,"TEXT_AKTKUA205_04794_GARLEANSOLDIERB04794_000_048","I have some experience in caring for animals! My mother and father were once farmhands, and I have fond memories of learning the trade."
+81,"TEXT_AKTKUA205_04794_GARLEANSOLDIERC04794_000_049","My family once made good business in forestry─from logging to splitting firewood, I'm your man."
+82,"TEXT_AKTKUA205_04794_JULLUS_000_050","We Garleans are an agricultural people first and foremost."
+83,"TEXT_AKTKUA205_04794_JULLUS_000_051","Even after we were driven north, we found arable land and nurtured fields with enough crop to spare for livestock."
+84,"TEXT_AKTKUA205_04794_JULLUS_000_052","What's more, before ceruleum and iron, we relied upon lumber to build our houses and heat our hearths."
+85,"TEXT_AKTKUA205_04794_JULLUS_000_053","Until my parents and grandparents' time, most of us led simple lives in simple homes, not unlike those you found abandoned in Lapis Manalis."
+86,"TEXT_AKTKUA205_04794_TATARU_000_054","Is that so? I must say, I hadn't anticipated such an enthusiasm for agriculture, but I'm glad to hear it!"
+87,"TEXT_AKTKUA205_04794_TATARU_000_055","It seems your island is in good hands. Shall we head for the hideaway?"
+88,"TEXT_AKTKUA205_04794_TATARU_000_056","Then, allow me to lead the way!"
+89,"TEXT_AKTKUA205_04794_TATARU_000_060","The mammets have escorted our guests to their respective areas of interest─everyone seemed eager to get started!"
+90,"TEXT_AKTKUA205_04794_TATARU_000_061","I hope they find it to be a good change of pace. Compared to the Garlemald of recent times, this tropical paradise offers far more in the way of─"
+91,"TEXT_AKTKUA205_04794_TATARU_000_062","Ack! I forgot about my tropical gifts!"
+92,"TEXT_AKTKUA205_04794_TATARU_000_063","I prepared some garments for Jullus and the others, but entirely forgot to present them once we arrived."
+93,"TEXT_AKTKUA205_04794_TATARU_000_064","We can still catch up to them, though! You'll help me deliver them, won't you?"
+94,"TEXT_AKTKUA205_04794_TATARU_000_065","I'll give you the outfits for Jullus, his quiet friend, and that strapping lad with a love of lumber. You can leave the others to me!"
+95,"TEXT_AKTKUA205_04794_TATARU_000_066","Let's meet back here afterwards!"
+96,"TEXT_AKTKUA205_04794_GARLEANSOLDIERC04794_000_070","Ah, hello there! I was just on my way to gather some wood with this mammet."
+97,"TEXT_AKTKUA205_04794_GARLEANSOLDIERC04794_000_071","Tropical attire? For me? You and the young miss are most generous hosts."
+98,"TEXT_AKTKUA205_04794_GARLEANSOLDIERC04794_000_072","I shall look forward to changing into this upon my return!"
+99,"TEXT_AKTKUA205_04794_GARLEANSOLDIERC04794_000_073","For now, the wilds call. If training under Lord Quintus all those years left me with anything, it is a confidence to overcome any hardship─I daresay felling a few trees will prove relaxing in comparison!"
+100,"TEXT_AKTKUA205_04794_JULLUS_000_080","Oh, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>─we were just talking about you. Is it true you built all this from nothing?"
+101,"TEXT_AKTKUA205_04794_JULLUS_000_081","As someone who was raised in the capital and joined the military directly after graduation, I'm not possessed of the same skills as others in my contingent. I find your work here truly impressive."
+102,"TEXT_AKTKUA205_04794_JULLUS_000_082","I wasn't even sure what jobs were <hex:021A020203>available<hex:021A020103> on an island like this, so I've been having this mammet explain your operation here as we tour the facilities."
+103,"TEXT_AKTKUA205_04794_JULLUS_000_083","Garments? I thought my civilian attire suitable for such recreational ventures, but perhaps not..."
+104,"TEXT_AKTKUA205_04794_JULLUS_000_084","Still, this is unbelievably light. Quite the far cry from our hefty uniforms."
+105,"TEXT_AKTKUA205_04794_JULLUS_000_085","We'll find somewhere to change. Extend Tataru our thanks, will you?"
+106,"TEXT_AKTKUA205_04794_JULLUS_000_086","Here, Manius."
+107,"TEXT_AKTKUA205_04794_JULLUS_000_087","...Have you and <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> been properly introduced?"
+108,"TEXT_AKTKUA205_04794_COLLEAGUESOLDIER_000_088","(-Manius-)Aye, we had occasion to speak some time ago."
+109,"TEXT_AKTKUA205_04794_COLLEAGUESOLDIER_000_089","(-Manius-)At Victors' Spoils, as I recall. Though you were trailing a tiny chocobo at the time─not to mention that spiderlike communicator."
+110,"TEXT_AKTKUA205_04794_COLLEAGUESOLDIER_000_090","(-Manius-)Never seen a more curious piece of magitek. There I am graveside, and it starts spouting philosophical queries at me."
+111,"TEXT_AKTKUA205_04794_JULLUS_000_091","A tiny chocobo and philosophical magitek...? You sure you weren't dreaming?"
+112,"TEXT_AKTKUA205_04794_COLLEAGUESOLDIER_000_092","(-Manius-)Of course I wasn't <hex:021A020203>dreaming<hex:021A020103>! I'm not like <hex:021A020203>some<hex:021A020103> of us who drift off during lecture and start loudly scolding our kid siblings in our sleep!  "
+113,"TEXT_AKTKUA205_04794_JULLUS_000_093","I-It was one time! Let me live it down already!"
+114,"TEXT_AKTKUA205_04794_COLLEAGUESOLDIER_000_094","(-Manius-)Ha! If <hex:021A020203>I<hex:021A020103> don't keep your elite arse humble, who will? You're stuck with me, Jullus."
+115,"TEXT_AKTKUA205_04794_JULLUS_000_100","Curse that Manius... Just so you know, I wasn't used to my training yet and I only meant to close my eyes for a moment..."
+116,"TEXT_AKTKUA205_04794_JULLUS_000_101","A-Anyway, we'll get changed after finishing our tour of the hideaway, so feel free to continue your rounds."
+117,"TEXT_AKTKUA205_04794_JULLUS_000_105","I hear that Tataru runs a boutique in Sharlayan that deals in equipment. Feels a little intimidating to know she handpicked these herself."
+118,"TEXT_AKTKUA205_04794_JULLUS_000_106","You don't think it'll be something...complicated, do you? Sometimes Eorzean fashion sense can be a bit too, er...<hex:021A020203>innovative<hex:021A020103> for my tastes."
+119,"TEXT_AKTKUA205_04794_TATARU_000_110","<huff> <huff> ...I managed to catch up to the others."
+120,"TEXT_AKTKUA205_04794_TATARU_000_111","How did you fare?"
+121,"TEXT_AKTKUA205_04794_TATARU_000_112","Wonderful! With their new tropical wear, hopefully their stay will be all the more comfortable!"
+122,"TEXT_AKTKUA205_04794_TATARU_000_113","Now then, while our guests enjoy their activities, we should make preparations for a meal."
+123,"TEXT_AKTKUA205_04794_TATARU_000_114","Working outside in the fresh air is bound to whet the appetite, don't you think? We could have a wonderful little party on the beach when they return!"
+124,"TEXT_AKTKUA205_04794_JULLUS_000_200","...It's strange, you know."
+125,"TEXT_AKTKUA205_04794_JULLUS_000_201","To be here, now, like this. After so much has happened."
+126,"TEXT_AKTKUA205_04794_JULLUS_000_202","First, the death of Emperor Solus. Then Emperor Varis was assassinated, and life as we knew it was pushed straight into the abyss."
+127,"TEXT_AKTKUA205_04794_JULLUS_000_203","How blind we were, and how heavy a price we paid for it."
+128,"TEXT_AKTKUA205_04794_JULLUS_000_204","In our ignorance, we fed the fires of conflict that gave rise to Anima and lost everything we held dear. Our friends...our families."
+129,"TEXT_AKTKUA205_04794_JULLUS_000_205","The Ilsabard contingent arrived in the midst of that chaos to save us from ourselves, but the damage was already done. Countless were tempered that night─myself included."
+130,"TEXT_AKTKUA205_04794_JULLUS_000_206","Yet, that wasn't the end. You and your allies found a cure, and roused us from that waking nightmare."
+131,"TEXT_AKTKUA205_04794_JULLUS_000_207","...Into another. A scorching sky. Our star being ravaged by the Final Days."
+132,"TEXT_AKTKUA205_04794_JULLUS_000_208","What was left after such calamity?"
+133,"TEXT_AKTKUA205_04794_JULLUS_000_209","A mountain of problems, heaped like the rubble of our capital. We didn't even know where to start picking up the pieces."
+134,"TEXT_AKTKUA205_04794_JULLUS_000_210","And then along came Alphinaud and Alisaie. The Hannish satrap."
+135,"TEXT_AKTKUA205_04794_JULLUS_000_211","...And Zero, of course."
+136,"TEXT_AKTKUA205_04794_JULLUS_000_212","She came, befriended us, and then left as suddenly as she arrived."
+137,"TEXT_AKTKUA205_04794_JULLUS_000_213","...That's how life is, isn't it? One unpredictable thing after the next, time passing in an inexorable flow."
+138,"TEXT_AKTKUA205_04794_JULLUS_000_214","And it is through the ups and downs of each passing day that I finally realized something. Honestly, it's so obvious, I could laugh."
+139,"TEXT_AKTKUA205_04794_JULLUS_000_215","Every beginning has an end. We are destined to experience loss. All of us."
+140,"TEXT_AKTKUA205_04794_JULLUS_000_216","Yet, it is the culmination of these endings that builds a future."
+141,"TEXT_AKTKUA205_04794_TATARU_000_220","Goodness, even I got caught up in the festivities! Who would have guessed we'd one day be drinking and singing the night away with Garlean comrades?"
+142,"TEXT_AKTKUA205_04794_JULLUS_000_230","We finished reporting our progress to your mammets and indicated where they might easily resume the tasks we were entrusted."
+143,"TEXT_AKTKUA205_04794_JULLUS_000_231","...This was just what we needed. Thank you."
+144,"TEXT_AKTKUA205_04794_JULLUS_000_232","I've no doubt that remembering our stay here will make even the coldest nights seem a little warmer."
+145,"TEXT_AKTKUA205_04794_JULLUS_000_233","I'd hoped to express our thanks in a more material manner, but seeing as we're still reliant upon the goodwill of other nations, I'm afraid the labor we provided is the most we can offer."
+146,"TEXT_AKTKUA205_04794_TATARU_000_234","From what the mammets tell me, your workmanship was exemplary. We should be thanking <hex:021A020203>you<hex:021A020103>!"
+147,"TEXT_AKTKUA205_04794_JULLUS_000_235","I'm glad to hear it! The mammets were likewise generous with their expertise, so please extend them our gratitude."
+148,"TEXT_AKTKUA205_04794_JULLUS_000_236","We'll put all we learned here to good use back home─and once Garlemald has regained her footing, I'll extend <hex:021A020203>you<hex:021A020103> an invitation."
+149,"TEXT_AKTKUA205_04794_JULLUS_000_237","...In the summer, I think. When the wind sweeps across the meadows to the snowcapped mountains beyond."
+150,"TEXT_AKTKUA205_04794_JULLUS_000_238","After seeing your beautiful isle, I have a strong feeling you'll like it."
+151,"TEXT_AKTKUA205_04794_Q2_000_239","What will you say?"
+152,"TEXT_AKTKUA205_04794_A2_000_240","I look forward to it!"
+153,"TEXT_AKTKUA205_04794_A2_000_241","I only hope that day comes soon..."
+154,"TEXT_AKTKUA205_04794_JULLUS_000_242","As do we. And now that we're refreshed, we'll work doubly hard to see that day come to pass."
+155,"TEXT_AKTKUA205_04794_JULLUS_000_243","Slowly but surely, we'll get there─after all, we're refreshed and ready to resume our work."
+156,"TEXT_AKTKUA205_04794_JULLUS_000_244","Until we meet again, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Take care."
+157,"TEXT_AKTKUA205_04794_TATARU_000_245","If you're all ready to go, pray wait for me by the skiff! Rest assured that Tataru's wee little rowboat shall see you safely and comfortably to your connecting vessel!"
+158,"TEXT_AKTKUA205_04794_TATARU_000_246","With this, I officially have no more guests to bring you!"
+159,"TEXT_AKTKUA205_04794_TATARU_000_247","Thinking back, we made wonderful memories here, didn't we? With friends both old and new, near and far..."
+160,"TEXT_AKTKUA205_04794_TATARU_000_248","While I am glad the island sanctuary initiative succeeded, far more precious to me is the time we spent here together."
+161,"TEXT_AKTKUA205_04794_TATARU_000_249","How about you, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>? Did you enjoy the change of pace?"
+162,"TEXT_AKTKUA205_04794_TATARU_000_250","Nothing would make me happier if you did. No matter where adventure leads, may your hideaway here continue to serve you for summers and summers to come!"

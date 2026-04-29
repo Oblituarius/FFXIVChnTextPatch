@@ -2,199 +2,199 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_AKTKBA111_04103_SEQ_00,蛇巢司令部的白蛇守護人有話要對冒險者說。
-1,TEXT_AKTKBA111_04103_SEQ_01,和白蛇守護人進行了交談。格萊普尼爾現在可能在南部林區。與南部林區蔓根沼的嘉恩·艾·神納匯合。
-2,TEXT_AKTKBA111_04103_SEQ_02,嘉恩·艾·神納邀請冒險者一起緩解人們的不安。和南部林區蔓根沼的嘉恩·艾·神納談談。
-3,TEXT_AKTKBA111_04103_SEQ_03,帶著嘉恩·艾·神納和恬靜路營地的人們談談，緩解他們的不安。<hex:02100103><hex:02100103>※同行狀態被解除時，再次與嘉恩·艾·神納對話便可進入同行狀態。
-4,TEXT_AKTKBA111_04103_SEQ_04,村民的不安得到了緩解。帶著嘉恩·艾·神納和恬靜路營地的白蛇守護人談談。
-5,TEXT_AKTKBA111_04103_SEQ_05,和白蛇守護人進行了交談。害怕死亡的民眾正聚集在邊境，要求前往薩納蘭避難。和南部林區低徑的鬼哭隊隊員談談。
-6,TEXT_AKTKBA111_04103_SEQ_06,和鬼哭隊隊員進行了交談。想要避難的人中已經有人遭到了格萊普尼爾襲擊。面對死亡的威脅，部分人在絕望中獸化了。變成了野獸的人已覆水難收，為避免造成更大的危害，討伐末日野獸。
-7,TEXT_AKTKBA111_04103_SEQ_07,討伐了<hex:02280FFF09>BNpcName<hex:F22B1C0103>。和低徑的嘉恩·艾·神納談談。
-8,TEXT_AKTKBA111_04103_SEQ_08,和嘉恩·艾·神納進行了交談。嘉恩·艾·神納為了淨化格萊普尼爾的毒氣，決定求助於大元靈。和格里達尼亞蛇巢司令部的白蛇守護人談談。
-9,TEXT_AKTKBA111_04103_SEQ_09,和白蛇守護人進行了交談。嘉恩·艾·神納正在靜心準備和大元靈對話。<hex:02100103><hex:02100103>※任意防護職業的等級達到87級以上時，可以從蛇巢司令部的白蛇守護人那裡領取下一個防護職能任務。
-10,TEXT_AKTKBA111_04103_SEQ_10,
-11,TEXT_AKTKBA111_04103_SEQ_11,
-12,TEXT_AKTKBA111_04103_SEQ_12,
-13,TEXT_AKTKBA111_04103_SEQ_13,
-14,TEXT_AKTKBA111_04103_SEQ_14,
-15,TEXT_AKTKBA111_04103_SEQ_15,
-16,TEXT_AKTKBA111_04103_SEQ_16,
-17,TEXT_AKTKBA111_04103_SEQ_17,
-18,TEXT_AKTKBA111_04103_SEQ_18,
-19,TEXT_AKTKBA111_04103_SEQ_19,
-20,TEXT_AKTKBA111_04103_SEQ_20,
-21,TEXT_AKTKBA111_04103_SEQ_21,
-22,TEXT_AKTKBA111_04103_SEQ_22,
-23,TEXT_AKTKBA111_04103_SEQ_23,
-24,TEXT_AKTKBA111_04103_TODO_00,和蔓根沼的嘉恩·艾·神納對話
-25,TEXT_AKTKBA111_04103_TODO_01,和嘉恩·艾·神納對話進入同行狀態
-26,TEXT_AKTKBA111_04103_TODO_02,帶著嘉恩·艾·神納和恬靜路營地的人們對話
-27,TEXT_AKTKBA111_04103_TODO_03,帶著嘉恩·艾·神納和白蛇守護人對話
-28,TEXT_AKTKBA111_04103_TODO_04,和低徑的鬼哭隊隊員對話
-29,TEXT_AKTKBA111_04103_TODO_05,討伐<hex:02280FFF09>BNpcName<hex:F22B1C0103>
-30,TEXT_AKTKBA111_04103_TODO_06,和嘉恩·艾·神納對話
-31,TEXT_AKTKBA111_04103_TODO_07,和蛇巢司令部的白蛇守護人對話
-32,TEXT_AKTKBA111_04103_TODO_08,
-33,TEXT_AKTKBA111_04103_TODO_09,
-34,TEXT_AKTKBA111_04103_TODO_10,
-35,TEXT_AKTKBA111_04103_TODO_11,
-36,TEXT_AKTKBA111_04103_TODO_12,
-37,TEXT_AKTKBA111_04103_TODO_13,
-38,TEXT_AKTKBA111_04103_TODO_14,
-39,TEXT_AKTKBA111_04103_TODO_15,
-40,TEXT_AKTKBA111_04103_TODO_16,
-41,TEXT_AKTKBA111_04103_TODO_17,
-42,TEXT_AKTKBA111_04103_TODO_18,
-43,TEXT_AKTKBA111_04103_TODO_19,
-44,TEXT_AKTKBA111_04103_TODO_20,
-45,TEXT_AKTKBA111_04103_TODO_21,
-46,TEXT_AKTKBA111_04103_TODO_22,
-47,TEXT_AKTKBA111_04103_TODO_23,
-48,TEXT_AKTKBA111_04103_KEEPEROFTHEENTWINEDSERPENTS_000_000,我們詳細排查了所有收到的格萊普尼爾行蹤報告後，<hex:02100103>判斷它目前最有可能潛伏在南部林區附近。
-49,TEXT_AKTKBA111_04103_KEEPEROFTHEENTWINEDSERPENTS_000_001,說不定當地已經出現了新的被害者，<hex:02100103>我會陪同嘉恩·艾大人一起前往當地，<hex:02100103>我們在蔓根沼匯合吧。
-50,TEXT_AKTKBA111_04103_KEEPEROFTHEENTWINEDSERPENTS_000_010,這裡暫時平安無事……<hex:02100103>但既然格萊普尼爾就在附近隨時都可能發起襲擊，<hex:02100103>人們應該相當害怕不安吧……
-51,TEXT_AKTKBA111_04103_KANESENNA_000_020,又見面了，<hex:022903EB0203>閣下。<hex:02100103>我的妹妹拉雅·奧常年待在這個營地，<hex:02100103>說不定她已經掌握到了格萊普尼爾的動向，我們去問問她吧。
-52,TEXT_AKTKBA111_04103_KANESENNA_000_030,拉雅·奧，近來可好？
-53,TEXT_AKTKBA111_04103_RAYAOSENNA_000_031,姐姐！你是為偽神獸的事過來的吧。
-54,TEXT_AKTKBA111_04103_RAYAOSENNA_000_032,你是來幫嘉恩·艾姐姐的嗎？<hex:02100103>好吧，你要記住，格萊普尼爾威脅著的不僅僅是黑衣森林。<hex:02100103>讓我們為了拯救世界一起努力吧！
-55,TEXT_AKTKBA111_04103_RAYAOSENNA_000_033,阿·拓瓦大人的後繼者也來幫嘉恩·艾姐姐了呀。<hex:02100103>可惜我們的治癒之力沒法淨化格萊普尼爾的毒氣……<hex:02100103>但是為了拯救世界，我們一定要努力！
-56,TEXT_AKTKBA111_04103_KANESENNA_000_034,拉雅·奧，能說一說這個營地附近的情況嗎？
-57,TEXT_AKTKBA111_04103_RAYAOSENNA_000_035,南部林區和其他地區一樣，<hex:02100103>也已經有好幾個人被格萊普尼爾襲擊，<hex:02100103>中毒之後不治身亡了。
-58,TEXT_AKTKBA111_04103_RAYAOSENNA_000_036,所幸這個村子暫時還沒有人遇害。<hex:02100103>但最近格萊普尼爾在附近露頭後，<hex:02100103>大家都在害怕鎖死病會再一次流行。
-59,TEXT_AKTKBA111_04103_KANESENNA_000_037,關於這件事，我們已經發現格萊普尼爾的毒氣中毒，<hex:02100103>其實和過去的鎖死病不同，是一種完全不同的致病機理，<hex:02100103>並不是傳染病。
-60,TEXT_AKTKBA111_04103_KANESENNA_000_038,只要沒受過格萊普尼爾攻擊，就不用擔心染病。
-61,TEXT_AKTKBA111_04103_RAYAOSENNA_000_039,話是這麼講……<hex:02100103>可我覺得大家的緊張並不會因此而緩解。
-62,TEXT_AKTKBA111_04103_RAYAOSENNA_000_040,而且村子一旦遭到襲擊，肯定會出現大量死者。<hex:02100103>我們現在也沒有找到對策來淨化毒氣，根本沒法主動出擊……
-63,TEXT_AKTKBA111_04103_RAYAOSENNA_000_041,我也遲遲定不下解決方案，正發愁呢。<hex:02100103>結果就有人造謠，說我在故意磨蹭！<hex:02100103>他們光動動嘴皮子可真容易……沒看我一直都在想辦法嗎。
-64,TEXT_AKTKBA111_04103_KANESENNA_000_042,抱歉……這都是因為我的無能……
-65,TEXT_AKTKBA111_04103_Q1_000_000,要說什麼？
-66,TEXT_AKTKBA111_04103_A1_000_001,你沒必要擔下所有責任
-67,TEXT_AKTKBA111_04103_A1_000_002,為什麼不向元靈求助？
-68,TEXT_AKTKBA111_04103_RAYAOSENNA_000_043,對呀，嘉恩·艾姐姐，<hex:02100103>森林的問題是我們幻術三皇共同的問題！多依靠依靠我吧！
-69,TEXT_AKTKBA111_04103_KANESENNA_000_044,我這次過來，就是希望你能幫幫我。<hex:02100103>現在連元靈們都混亂不已，無法溝通了。
-70,TEXT_AKTKBA111_04103_RAYAOSENNA_000_045,唉……不知道是不是因為格萊普尼爾猛烈的毒氣影響了元靈們，<hex:02100103>本來我們應該一起面對森林的危機的，<hex:02100103>但元靈們現在過於混亂，估計是幫不上忙了。
-71,TEXT_AKTKBA111_04103_KANESENNA_000_046,第七靈災後，元靈們一直在逐漸失去力量。<hex:02100103>我們幻術三皇必須做好力所能及的事。
-72,TEXT_AKTKBA111_04103_KANESENNA_100_046,如果能成功討伐格萊普尼爾，元靈們也會安靜下來吧。
-73,TEXT_AKTKBA111_04103_RAYAOSENNA_000_047,我明白，這是我們的大目標。<hex:02100103>嘉恩·艾姐姐，那你現在打算怎麼辦？
-74,TEXT_AKTKBA111_04103_KANESENNA_000_048,我先去和這裡的人們聊聊，<hex:02100103>讓大家看到我們面對絕望時的不屈意志，以此讓大家安心。
-75,TEXT_AKTKBA111_04103_RAYAOSENNA_000_049,真心所在，無往不利，對吧！<hex:02100103>大家肯定會被你努力的樣子激勵的。
-76,TEXT_AKTKBA111_04103_RAYAOSENNA_100_049,那我就去聯繫阿·盧恩，尋找平息元靈的辦法吧。<hex:02100103>我覺得我們最後還是需要藉助元靈們的力量。
-77,TEXT_AKTKBA111_04103_KANESENNA_110_049,謝謝，你們真是太可靠了。
-78,TEXT_AKTKBA111_04103_KANESENNA_000_050,<hex:022903EB0203>閣下，您能和我一起行動嗎？<hex:02100103>如果人們知道身經百戰的英雄也在幫忙討伐偽神獸，<hex:02100103>一定會更加安心的。
-79,TEXT_AKTKBA111_04103_KEEPEROFTHEENTWINEDSERPENTS_000_051,在此期間，我會向恬靜路營地的鬼哭隊打聽格萊普尼爾的動向。<hex:02100103>二位在手頭的事告一段落後，勞駕知會我一聲。
-80,TEXT_AKTKBA111_04103_KEEPEROFTHEENTWINEDSERPENTS_000_060,角尊們身為人類和元靈對話的橋樑，需要聆聽雙方的聲音。<hex:02100103>他們肩上的擔子真的不輕……
-81,TEXT_AKTKBA111_04103_RAYAOSENNA_000_061,嘉恩·艾姐姐總是喜歡把責任都往自己身上攬，<hex:02100103>但如今她願意讓我們一同分擔，我也放心多了。<hex:02100103>倒是元靈那邊令人擔憂……
-82,TEXT_AKTKBA111_04103_TRANQUILMAN04103A_000_062,我在森林深處隱隱約約地看見那個東西了！<hex:02100103>太、太可怕了……我不想回憶起來……
-83,TEXT_AKTKBA111_04103_TRANQUILWOMAN04103_000_063,只要受了傷就一定會死？！<hex:02100103>太可怕了……怎麼會有這種病！
-84,TEXT_AKTKBA111_04103_TRANQUILMAN04103B_000_064,角尊根本靠不住！大家都快逃跑吧！
-85,TEXT_AKTKBA111_04103_KANESENNA_100_051,看這裡如今的情況，<hex:02100103>如果我表現得像是要獨自一人前去與魔物決鬥，<hex:02100103>恐怕會讓人們更加不安吧。
-86,TEXT_AKTKBA111_04103_KANESENNA_110_051,抱歉，能請你擔當我的護衛嗎？
-87,TEXT_AKTKBA111_04103_KANESENNA_120_051,那麼，我們去和這裡的人們談談吧。
-88,TEXT_AKTKBA111_04103_SYSTEM_000_052,接下來將和嘉恩·艾·神納同行。<hex:02100103>在執行任務時，需要同行者處於附近位置。
-89,TEXT_AKTKBA111_04103_SYSTEM_000_054,在同行狀態下，切換區域或選擇「解除同行狀態」，<hex:02100103>都將會解除同行的狀態。
-90,TEXT_AKTKBA111_04103_SYSTEM_000_055,同行狀態解除後，<hex:02100103>只要和回到了起點的同行者對話，就能再次進入同行狀態。
-91,TEXT_AKTKBA111_04103_SYSTEM_000_070,在執行該任務時，需要與嘉恩·艾·神納保持同行狀態。<hex:02100103>此外，嘉恩·艾·神納應位於玩家附近。
-92,TEXT_AKTKBA111_04103_SYSTEM_100_071,同行者還沒過來。<hex:02100103>迎接並帶她來到附近，一起安撫營地的人們吧。
-93,TEXT_AKTKBA111_04103_Q2_000_000,要做什麼？
-94,TEXT_AKTKBA111_04103_A2_000_001,對話
-95,TEXT_AKTKBA111_04103_A2_000_002,解除同行狀態
-96,TEXT_AKTKBA111_04103_A2_000_003,取消
-97,TEXT_AKTKBA111_04103_KANESENNA_000_072,人們都在掩飾著心中的不安，努力維持日常生活。<hex:02100103>如果能做些什麼，讓他們好過一些就好了……
-98,TEXT_AKTKBA111_04103_KANESENNA_000_073,比起經人之口轉述，和他們直接交流時，<hex:02100103>我更能感受到這件事有多麼緊急……
-99,TEXT_AKTKBA111_04103_KANESENNA_000_074,這和角尊們在把元靈之聲轉達給人們時一樣，<hex:02100103>轉述過程中多少會有些差異。
-100,TEXT_AKTKBA111_04103_SYSTEM_000_075,確定要解除同行狀態嗎？
-101,TEXT_AKTKBA111_04103_KANESENNA_000_076,您有急事要先離開一會兒嗎？<hex:02100103>我會在蔓根沼等您回來。
-102,TEXT_AKTKBA111_04103_KANESENNA_000_077,您回來了，那我們繼續和營地的人們聊天吧。
-103,TEXT_AKTKBA111_04103_TRANQUILMAN04103A_000_080,我在森林深處看到了一隻頭上長著巨大的角的可怕野獸。<hex:02100103>它闖進村子裡也只是時間問題吧……<hex:02100103>大家都要死了……
-104,TEXT_AKTKBA111_04103_KANESENNA_000_081,別害怕，我們會打倒格萊普尼爾，保護大家的。<hex:02100103>請相信我們，一定不要被心底的絕望打敗！
-105,TEXT_AKTKBA111_04103_TRANQUILMAN04103A_000_082,嘉恩·艾大人，我相信您的承諾！<hex:02100103>您趕快為森林帶回和平吧！
-106,TEXT_AKTKBA111_04103_KANESENNA_000_083,我一定會的。
-107,TEXT_AKTKBA111_04103_TRANQUILWOMAN04103_000_090,只要被森林的那頭異形野獸咬了就一定會死？<hex:02100103>不管是特效藥還是魔法都一點用都沒有？<hex:02100103>聽說已經死了很多人！
-108,TEXT_AKTKBA111_04103_KANESENNA_000_091,我明白您的恐懼，可這只會讓事態惡化。<hex:02100103>請相信我……我一定會盡快找到治療方法。
-109,TEXT_AKTKBA111_04103_TRANQUILWOMAN04103_000_092,嘉恩·艾大人……您冒著風險來幫我們，<hex:02100103>我們這些人卻只能躲在安全的地方，什麼都做不了……<hex:02100103>我會向十二神祈求您的平安。
-110,TEXT_AKTKBA111_04103_KANESENNA_000_093,謝謝，我決不會辜負大家的期待！
-111,TEXT_AKTKBA111_04103_TRANQUILMAN04103B_000_100,他們角尊又不是普通人，就算被那個異形野獸咬了肯定也不會死，<hex:02100103>肯定是覺得事不關己，所以才這麼磨蹭！
-112,TEXT_AKTKBA111_04103_TRANQUILMAN04103B_000_101,我可不會把自己的命託付給這種人！<hex:02100103>大家也都快跑吧，離開格里達尼亞去其他國家避難！
-113,TEXT_AKTKBA111_04103_TRANQUILMAN04103B_000_102,嘉、嘉恩·艾大人？！那個……我不是這個意思……
-114,TEXT_AKTKBA111_04103_KANESENNA_000_103,您的心情我可以理解。<hex:02100103>抱歉，是我的無能造成了諸位的恐慌。
-115,TEXT_AKTKBA111_04103_KANESENNA_000_104,但請您再相信我一次，我一定會讓森林恢復和平！
-116,TEXT_AKTKBA111_04103_TRANQUILMAN04103B_000_105,好吧……其實我也不想拋下生我養我的大森林啊。<hex:02100103>我會觀望一陣子，看情況再做決定……
-117,TEXT_AKTKBA111_04103_TRANQUILMAN04103A_000_110,嘉恩·艾大人說得對，害怕也無濟於事。<hex:02100103>我會把她的話語告訴大家，和大家一起戰勝恐懼！
-118,TEXT_AKTKBA111_04103_TRANQUILWOMAN04103_000_111,這可是會死人的啊，大家怕得要命……<hex:02100103>請一定要小心啊！
-119,TEXT_AKTKBA111_04103_TRANQUILMAN04103B_000_112,抱歉，我之前太過動搖，說了很多不該說的話……<hex:02100103>其實我出生在森都，一直都很尊敬角尊們。<hex:02100103>快讓這場風波平息吧！
-120,TEXT_AKTKBA111_04103_KEEPEROFTHEENTWINEDSERPENTS_100_120,嘉恩·艾大人怎麼沒和您一起？
-121,TEXT_AKTKBA111_04103_KEEPEROFTHEENTWINEDSERPENTS_000_130,嘉恩·艾大人，大家的情況怎麼樣了？
-122,TEXT_AKTKBA111_04103_KANESENNA_000_131,我已經鼓勵了一部分人，希望他們能感覺好一些……<hex:02100103>我知道只有討伐了格萊普尼爾才會讓他們心安，<hex:02100103>可我現在卻只能做一些小事。
-123,TEXT_AKTKBA111_04103_Q3_000_000,要說什麼？
-124,TEXT_AKTKBA111_04103_A3_000_001,重視子民的聲音和傾聽元靈的話語同樣重要
-125,TEXT_AKTKBA111_04103_A3_000_002,你覺得這樣解決不了問題？
-126,TEXT_AKTKBA111_04103_KANESENNA_000_132,我和您的想法相同。<hex:02100103>只有了解他們的想法，才能真正安撫他們的不安。
-127,TEXT_AKTKBA111_04103_KANESENNA_000_133,沒有……我早已下定決心，也一直都知道自己選擇的道路遍布荊棘。
-128,TEXT_AKTKBA111_04103_KANESENNA_000_134,尤其是現在這種危急時刻，如果幻術皇一直躲在森林深處，<hex:02100103>人們一定會更加不安。<hex:02100103>所以我必須站出來承擔一切……
-129,TEXT_AKTKBA111_04103_KANESENNA_100_134,抱歉，我現在需要你冒險和我一起前往森林深處。
-130,TEXT_AKTKBA111_04103_KEEPEROFTHEENTWINEDSERPENTS_000_135,嘉恩·艾大人，請不要這麼說。<hex:02100103>在加爾提諾平原時承蒙您出手相救，我現在才能護衛在您身旁。
-131,TEXT_AKTKBA111_04103_KANESENNA_000_136,小事而已，別放在心上。
-132,TEXT_AKTKBA111_04103_KANESENNA_000_137,說起來，我小時候經常在修行時和小夥伴一起偷偷溜出去，<hex:02100103>為此挨了老師不少訓斥。
-133,TEXT_AKTKBA111_04103_KANESENNA_000_138,可能這個壞習慣一輩子都改不掉了吧。
-134,TEXT_AKTKBA111_04103_LANDENEL_000_139,嘉恩·艾大人，駐守邊境的士兵報告了件麻煩事！
-135,TEXT_AKTKBA111_04103_KANESENNA_000_140,怎麼了？
-136,TEXT_AKTKBA111_04103_LANDENEL_000_141,有部分懼怕偽神獸的人正打算前往東薩納蘭。
-137,TEXT_AKTKBA111_04103_LANDENEL_100_141,看起來他們是誤以為有鎖死病在蔓延，<hex:02100103>被嚇壞了……
-138,TEXT_AKTKBA111_04103_KANESENNA_000_142,也就是說他們的情緒非常不穩定，<hex:02100103>隨時有獸化的風險是嗎？
-139,TEXT_AKTKBA111_04103_KANESENNA_100_142,不能再讓謠言繼續擴散了。<hex:02100103>我直接去向他們解釋，這次的病狀和鎖死病無關，不會傳染。<hex:02100103>好安撫他們，不再恐慌。
-140,TEXT_AKTKBA111_04103_LANDENEL_000_143,低徑的鬼哭隊隊員正在應付他們，不知道還能撐多久。<hex:02100103>您最好趕快過去。
-141,TEXT_AKTKBA111_04103_LANDENEL_000_150,穿過低徑，再往南走就會進入薩納蘭。<hex:02100103>鬼哭隊隊員正在應付這些想要出國避難的人，<hex:02100103>快過去吧。
-142,TEXT_AKTKBA111_04103_KANESENNA_000_151,這些人現在情緒非常激動，我在勸說時也會注意不要刺激到他們。
-143,TEXT_AKTKBA111_04103_KEEPEROFTHEENTWINEDSERPENTS_000_152,他們一定能理解嘉恩·艾大人的用心……
-144,TEXT_AKTKBA111_04103_REFUGEEMAN1_000_160,為什麼不放我們過去啊？！<hex:02100103>留在黑衣森林，早晚有一天會被傳上鎖死病！<hex:02100103>你這是想讓我們等死嗎？！
-145,TEXT_AKTKBA111_04103_WOODWAILER1_000_161,我都說了你那個是誤解！<hex:02100103>嘉恩·艾大人正四處奔走，探查其中原因呢。<hex:02100103>末日野獸的毒是否與鎖死病有關聯目前還在調查中。
-146,TEXT_AKTKBA111_04103_WOODWAILER1_100_161,你這樣跑出去，會把假情報造成的恐慌帶到其他國家去的。<hex:02100103>請你冷靜下來。
-147,TEXT_AKTKBA111_04103_REFUGEEMAN1_000_162,假情報？<hex:02100103>人都死了還叫假情報？！
-148,TEXT_AKTKBA111_04103_KANESENNA_000_163,大家都冷靜一下，我能理解你的恐懼。<hex:02100103>不過調查顯示，偽神獸的毒和以往的鎖死病性質並不相同。<hex:02100103>只要不直接接觸它的毒氣，就不會被感染。
-149,TEXT_AKTKBA111_04103_REFUGEEMAN1_000_164,那我們不更應該逃跑了嗎！<hex:02100103>那個怪物就在這一帶出沒，<hex:02100103>留在這裡不是等死嗎！
-150,TEXT_AKTKBA111_04103_KEEPEROFTHEENTWINEDSERPENTS_000_165,你怎麼知道的？你看到它了？<hex:02100103>難道你在附近遇到格萊普尼爾了嗎？
-151,TEXT_AKTKBA111_04103_REFUGEEMAN1_000_166,對，我們幾個在森林深處遇上了那個<hex:02100103>長著大角、渾身鎖鏈紋樣的怪物，一路逃到了這裡。
-152,TEXT_AKTKBA111_04103_REFUGEEMAN1_000_167,不過我們幾個沒跟那個格萊什麼東西碰上，<hex:02100103>不會傳染給你們的。
-153,TEXT_AKTKBA111_04103_REFUGEEMAN2_000_168,我說……<hex:02100103>什麼樣的，才算接觸？
-154,TEXT_AKTKBA111_04103_KANESENNA_000_169,如果只是遇到還好說，<hex:02100103>但要是被它的角和爪子攻擊，哪怕只是細微的擦傷，<hex:02100103>都會讓毒氣進入傷口。之後身上就會出現類似鎖死病的症狀。
-155,TEXT_AKTKBA111_04103_REFUGEEMAN2_000_170,擦、擦傷也算？！
-156,TEXT_AKTKBA111_04103_REFUGEEMAN2_000_171,那、那我不已經……我還有救嗎？<hex:02100103>……從剛才開始……我身上……就、就痛得要死啊！
-157,TEXT_AKTKBA111_04103_REFUGEEMAN1_000_172,你不是說那傷口是逃跑時被樹根絆了一下，摔傷的嗎！！<hex:02100103>那個獸碰著你了？！
-158,TEXT_AKTKBA111_04103_KANESENNA_000_173,馳騁碧空的清風啊……賜予我淨化之力……
-159,TEXT_AKTKBA111_04103_REFUGEEMAN2_100_173,根本沒有效果……救救我、救我啊！
-160,TEXT_AKTKBA111_04103_REFUGEEMAN2_000_174,好疼……好疼啊……
-161,TEXT_AKTKBA111_04103_KANESENNA_000_175,解毒魔法沒有用！<hex:02100103>是偽神獸的毒氣……
-162,TEXT_AKTKBA111_04103_KANESENNA_000_176,不可以，不能放棄！
-163,TEXT_AKTKBA111_04103_REFUGEEMAN2_000_177,不要啊……我不想死……救救我啊……
-164,TEXT_AKTKBA111_04103_REFUGEEMAN2_000_178,啊——
-165,TEXT_AKTKBA111_04103_KEEPEROFTHEENTWINEDSERPENTS_000_179,危險，所有人都退後！
-166,TEXT_AKTKBA111_04103_REFUGEEMAN1_000_180,怎麼會這樣……不是說是絆倒嗎……我還……<hex:02100103>我、我也……接觸了毒氣？
-167,TEXT_AKTKBA111_04103_REFUGEEMAN1_000_181,騙人！說謊！一定是騙人的！我才不會死！<hex:02100103>你們都要死！你們才都要去死！
-168,TEXT_AKTKBA111_04103_KANESENNA_000_182,這是……獸化！<hex:02100103>變成了獸之後有什麼辦法能幫助他們變回來嗎？
-169,TEXT_AKTKBA111_04103_KANESENNA_100_182,……那我們就別無選擇了。
-170,TEXT_AKTKBA111_04103_KANESENNA_000_185,抱歉……但我們別無選擇。
-171,TEXT_AKTKBA111_04103_KEEPEROFTHEENTWINEDSERPENTS_000_186,這就是……末日野獸！
-172,TEXT_AKTKBA111_04103_WOODWAILER1_000_187,民眾的安全就交給我們了！
-173,TEXT_AKTKBA111_04103_REFUGEEMAN3_000_188,啊、啊……那傢伙變成了怪物？！
-174,TEXT_AKTKBA111_04103_REFUGEEWOMAN_000_189,怎、怎麼會這樣！騙人的吧！<hex:02100103>怎麼會變成這樣？！
-175,TEXT_AKTKBA111_04103_KEEPEROFTHEENTWINEDSERPENTS_000_190,我第一次看到人類獸化的過程……<hex:02100103>沒想到……真是太慘了。
-176,TEXT_AKTKBA111_04103_REFUGEEMAN3_000_191,這太殘忍了吧……還不如讓我們病死呢！
-177,TEXT_AKTKBA111_04103_REFUGEEWOMAN_000_192,我既不想死，也不想變成怪物……<hex:02100103>我已經受不了了！
-178,TEXT_AKTKBA111_04103_WOODWAILER1_000_193,沒想到他們已經被襲擊了，<hex:02100103>這真是……
-179,TEXT_AKTKBA111_04103_KANESENNA_000_200,我只能眼睜睜看著他們死在我面前……真是太無能了……
-180,TEXT_AKTKBA111_04103_KEEPEROFTHEENTWINEDSERPENTS_000_201,嘉恩·艾大人……
-181,TEXT_AKTKBA111_04103_REFUGEEMAN3_000_202,我們這些人也只能等著變成怪物，然後被幹掉嗎……
-182,TEXT_AKTKBA111_04103_KANESENNA_000_203,大家都看到了，獸化的直接原因並非他們在襲擊中受傷，<hex:02100103>而是每個人心底的絕望。
-183,TEXT_AKTKBA111_04103_KANESENNA_000_204,讓自己陷入絕望才是最危險的！<hex:02100103>請大家不要放棄希望，<hex:02100103>我一定會找到治療毒氣的方法，討伐格萊普尼爾！
-184,TEXT_AKTKBA111_04103_REFUGEEMAN3_000_205,嗯……
-185,TEXT_AKTKBA111_04103_KANESENNA_000_206,看樣子格萊普尼爾已經不在這附近了，<hex:02100103>大家先回到家中，平復一下心情吧。
-186,TEXT_AKTKBA111_04103_REFUGEEMAN3_000_207,好吧……
-187,TEXT_AKTKBA111_04103_KANESENNA_000_208,雖然他們暫且回去了，可關鍵問題根本沒有得到解決。
-188,TEXT_AKTKBA111_04103_KANESENNA_000_209,對死亡的恐懼正在侵蝕人心，<hex:02100103>這樣下去，有不少人可能會在遇襲前就變為異形野獸。<hex:02100103>事態越來越嚴峻了。
-189,TEXT_AKTKBA111_04103_KANESENNA_000_210,元靈們一直在請求我們趕快擊退格萊普尼爾，<hex:02100103>時間拖得越久，犧牲者就會越多……
-190,TEXT_AKTKBA111_04103_KANESENNA_000_211,拉雅·奧說得對，是時候該藉助元靈們的力量了。
-191,TEXT_AKTKBA111_04103_KANESENNA_100_211,為了與大元靈對話，我需要前往芙蓉圓桌淨化身心做好準備。<hex:02100103>請你們先返回蛇巢司令部等待我完成準備工作。
-192,TEXT_AKTKBA111_04103_RAYAOSENNA_000_221,我聽說了邊境剛發生的事。<hex:02100103>雖然不想承認……但我們角尊對格萊普尼爾真的無能為力。<hex:02100103>現在只能祈禱元靈的力量能幫上忙了。
-193,TEXT_AKTKBA111_04103_KEEPEROFTHEENTWINEDSERPENTS_000_230,又出現了犧牲者……<hex:02100103>我從未意識到……拯救人命竟是這麼難的事……
-194,TEXT_AKTKBA111_04103_KEEPEROFTHEENTWINEDSERPENTS_000_231,但我們不能放棄，<hex:02100103>必須盡早找到方法解決格萊普尼爾。
-195,TEXT_AKTKBA111_04103_KEEPEROFTHEENTWINEDSERPENTS_000_232,英雄閣下，嘉恩·艾大人正在靜心準備和大元靈的對話。<hex:02100103>請在她做好準備前耐心等待。
+0,"TEXT_AKTKBA111_04103_SEQ_00","The Keeper of the Entwined Serpents is eager to resume the hunt."
+1,"TEXT_AKTKBA111_04103_SEQ_01","After sifting through a mountain of reports, the Order of the Twin Adder has found a common thread: of late, Gleipnir has been most frequently sighted in the South Shroud. Kan–E–Senna has already departed for Rootslake and bid you meet her there."
+2,"TEXT_AKTKBA111_04103_SEQ_02","Together with the Elder Seedseer you seek out her sister, Raya–O–Senna, who has made her home in the southern marshlands. Their pleasant reunion is undercut by tension, as fear of Gleipnir grips the remote community. Although none of its residents have come to harm, Raya–O believes that it is only a matter of time before the blasphemy strikes. She urges her sister to entreat the elementals for aid, but the Elder Seedseer is reluctant to do so just yet. For now, she decides to speak with the people of Camp Tranquil, that she might assuage their fears and assure them that this crisis will soon pass."
+3,"TEXT_AKTKBA111_04103_SEQ_03","The people of Camp Tranquil are understandably nervous, but Kan–E–Senna's calming presence seems to be having a positive effect.<hex:02100103><hex:02100103>※You must be accompanied by Kan–E–Senna to complete this task. Speak with her again should you become separated."
+4,"TEXT_AKTKBA111_04103_SEQ_04","The people yearn to give voice to their concerns, and the Elder Seedseer is more than willing to lend them an ear. The Keeper of the Entwined Serpents, too, recognizes there is much to be gained by visiting others."
+5,"TEXT_AKTKBA111_04103_SEQ_05","Speaking with the people of Camp Tranquil has bolstered Kan–E–Senna's resolve, but before you can resume your hunt for Gleipnir, a flustered Wood Wailer arrives and explains that a group of Gridanians has fled their homes to seek refuge in Thanalan. Per the Elder Seedseer's earlier instruction, however, all are to remain within the safety of the camp until the threat has passed. Nevertheless, the people are adamant that they be allowed to cross the border, and the Wood Wailers are but few, and so the Elder Seedseer goes to resolve the situation before it comes to a head."
+6,"TEXT_AKTKBA111_04103_SEQ_06","Kan–E–Senna attempts to calm the people, but to no avail, for one youth grows panicked upon realizing he has been marked by Gleipnir's poison. Before it can claim his life, however, despair takes hold of his heart, and he turns into a beast. The man beside him recoils in shock and, after crying out for his lost companion, undergoes a similar transformation. Both must be slain before they flee and spread terror throughout the Twelveswood."
+7,"TEXT_AKTKBA111_04103_SEQ_07","Though the beasts are soon laid to rest with no further lives lost, the Elder Seedseer remains distraught. Perhaps you can offer her a shoulder to lean on..."
+8,"TEXT_AKTKBA111_04103_SEQ_08","Though Kan–E–Senna is shaken, she maintains her composure as she implores the people to return to their homes. The incident serves as a stark reminder that while Gleipnir is indeed a danger to the realm, despair can be even more deadly, transforming the distraught into beasts. The Elder Seedseer finally accepts that she must seek the aid of the great one, but there are preparations that must be seen to beforehand. The Keeper of the Entwined Serpents at the Adders' Nest, however, may have further instructions for you."
+9,"TEXT_AKTKBA111_04103_SEQ_09","It will take some time before Kan–E–Senna is ready to commune with the great one. In the meantime, her attendant asks that you prepare both mentally and physically.<hex:02100103><hex:02100103>※The next role quest will be available from the Keeper of the Entwined Serpents upon reaching level 87 in any tank class."
+10,"TEXT_AKTKBA111_04103_SEQ_10",""
+11,"TEXT_AKTKBA111_04103_SEQ_11",""
+12,"TEXT_AKTKBA111_04103_SEQ_12",""
+13,"TEXT_AKTKBA111_04103_SEQ_13",""
+14,"TEXT_AKTKBA111_04103_SEQ_14",""
+15,"TEXT_AKTKBA111_04103_SEQ_15",""
+16,"TEXT_AKTKBA111_04103_SEQ_16",""
+17,"TEXT_AKTKBA111_04103_SEQ_17",""
+18,"TEXT_AKTKBA111_04103_SEQ_18",""
+19,"TEXT_AKTKBA111_04103_SEQ_19",""
+20,"TEXT_AKTKBA111_04103_SEQ_20",""
+21,"TEXT_AKTKBA111_04103_SEQ_21",""
+22,"TEXT_AKTKBA111_04103_SEQ_22",""
+23,"TEXT_AKTKBA111_04103_SEQ_23",""
+24,"TEXT_AKTKBA111_04103_TODO_00","Speak with Kan–E–Senna at Rootslake."
+25,"TEXT_AKTKBA111_04103_TODO_01","Speak with Kan–E–Senna and have her accompany you."
+26,"TEXT_AKTKBA111_04103_TODO_02","Speak with the people of Camp Tranquil while Kan–E–Senna is accompanying you."
+27,"TEXT_AKTKBA111_04103_TODO_03","Speak with the Keeper of the Entwined Serpents while Kan–E–Senna is accompanying you."
+28,"TEXT_AKTKBA111_04103_TODO_04","Speak with the Wood Wailer sentry at the Lower Paths."
+29,"TEXT_AKTKBA111_04103_TODO_05","Defeat the beasts."
+30,"TEXT_AKTKBA111_04103_TODO_06","Speak with Kan–E–Senna."
+31,"TEXT_AKTKBA111_04103_TODO_07","Speak with the Keeper of the Entwined Serpents at the Adders' Nest."
+32,"TEXT_AKTKBA111_04103_TODO_08",""
+33,"TEXT_AKTKBA111_04103_TODO_09",""
+34,"TEXT_AKTKBA111_04103_TODO_10",""
+35,"TEXT_AKTKBA111_04103_TODO_11",""
+36,"TEXT_AKTKBA111_04103_TODO_12",""
+37,"TEXT_AKTKBA111_04103_TODO_13",""
+38,"TEXT_AKTKBA111_04103_TODO_14",""
+39,"TEXT_AKTKBA111_04103_TODO_15",""
+40,"TEXT_AKTKBA111_04103_TODO_16",""
+41,"TEXT_AKTKBA111_04103_TODO_17",""
+42,"TEXT_AKTKBA111_04103_TODO_18",""
+43,"TEXT_AKTKBA111_04103_TODO_19",""
+44,"TEXT_AKTKBA111_04103_TODO_20",""
+45,"TEXT_AKTKBA111_04103_TODO_21",""
+46,"TEXT_AKTKBA111_04103_TODO_22",""
+47,"TEXT_AKTKBA111_04103_TODO_23",""
+48,"TEXT_AKTKBA111_04103_KEEPEROFTHEENTWINEDSERPENTS_000_000","We have followed up on every report concerning Gleipnir─even those that beggared belief. The most promising suggest the blasphemy is currently stalking the South Shroud."
+49,"TEXT_AKTKBA111_04103_KEEPEROFTHEENTWINEDSERPENTS_000_001","We are to proceed there at once, for there is no telling when it might strike again. The Elder Seedseer is already en route to Rootslake. Let us not keep her waiting."
+50,"TEXT_AKTKBA111_04103_KEEPEROFTHEENTWINEDSERPENTS_000_010","No sign of the beast yet, thankfully. A single glimpse of Gleipnir might send the people running, and we would be hard-pressed to restore order."
+51,"TEXT_AKTKBA111_04103_KANESENNA_000_020","Greetings, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. As luck would have it, my sister Raya–O frequents Camp Tranquil. We would do well to meet with her first, for she may have knowledge of this threat that can aid us in our search."
+52,"TEXT_AKTKBA111_04103_KANESENNA_000_030","It has been too long, Raya–O."
+53,"TEXT_AKTKBA111_04103_RAYAOSENNA_000_031","Kan–E! I was afraid this situation might force your arrival. Would that this reunion was under more joyous circumstances."
+54,"TEXT_AKTKBA111_04103_RAYAOSENNA_000_032","And you are here to serve as protector to my sister, yes? I commend your courage. Gleipnir, like all blasphemies, is a fearsome foe that we must nevertheless rise to meet as one."
+55,"TEXT_AKTKBA111_04103_RAYAOSENNA_000_033","It is heartening to see her joined by the bearer of A–Towa's will. Unfortunately, Gleipnir's poison cannot be cured by any healing force known to us, as I'm sure you have already learned. Nevertheless, I have faith that together we will find a way to defeat it."
+56,"TEXT_AKTKBA111_04103_KANESENNA_000_034","Every moment is crucial, so let us dispense with further pleasantries. Have you received word of Gleipnir's whereabouts?"
+57,"TEXT_AKTKBA111_04103_RAYAOSENNA_000_035","I have. It recently ambushed a poor traveler, who succumbed to his wounds soon thereafter. A tragic and increasingly common tale."
+58,"TEXT_AKTKBA111_04103_RAYAOSENNA_000_036","No others in Camp Tranquil have come to harm, but some claim they feel a presence in the distant trees. Staring at them with a malicious intensity. They struggle to find the courage to venture beyond the safety of the camp."
+59,"TEXT_AKTKBA111_04103_KANESENNA_000_037","While its victims exhibit symptoms reminiscent of the Creeping Death, Gleipnir's corruption seems only to affect those who have been assaulted by the blasphemy itself."
+60,"TEXT_AKTKBA111_04103_KANESENNA_000_038","We have yet to confirm a single instance of it spreading from one individual to another."
+61,"TEXT_AKTKBA111_04103_RAYAOSENNA_000_039","That's somewhat reassuring, but it will provide little comfort to the people here, I think."
+62,"TEXT_AKTKBA111_04103_RAYAOSENNA_000_040","If Gleipnir comes, any defense we mount will come at great cost. Those who fall wounded will invariably die."
+63,"TEXT_AKTKBA111_04103_RAYAOSENNA_000_041","I'm at a loss, and the people under my care can see it. They grow tense and bicker amongst themselves─some even accused me of standing idly by while this monster roams free. As if I'm not doing all that I can!"
+64,"TEXT_AKTKBA111_04103_KANESENNA_000_042","I...I apologize. Would that I had come to you sooner. Would that there were more I could offer you..."
+65,"TEXT_AKTKBA111_04103_Q1_000_000","What will you say?"
+66,"TEXT_AKTKBA111_04103_A1_000_001","Not every burden is yours to bear, Kan–E."
+67,"TEXT_AKTKBA111_04103_A1_000_002","Perhaps the elementals could help?"
+68,"TEXT_AKTKBA111_04103_RAYAOSENNA_000_043","<hex:02080CE905FF04>She<hex:FF03>He<hex:03> is right. It is the duty of all Seedseers to face this threat, and so we should do so together─with the aid of the elementals as well!"
+69,"TEXT_AKTKBA111_04103_KANESENNA_000_044","Under different circumstances I would agree, but their strength has waned since the Calamity, and I am reluctant to impose upon them. Indeed, when I open my thoughts to the elementals...I shudder to hear their distress."
+70,"TEXT_AKTKBA111_04103_RAYAOSENNA_000_045","The elementals cry out for succor as loudly as the people do─this I know you feel, Kan–E. Gleipnir poses a threat to all life in the Twelveswood, and as such we should face it as one."
+71,"TEXT_AKTKBA111_04103_KANESENNA_000_046","Their strength has waned since the Calamity, and I am reluctant to impose upon them. Nay, as Seedseers, it is our duty to first expend every option available to us, and spare them further distress."
+72,"TEXT_AKTKBA111_04103_KANESENNA_100_046","Once we have laid low the blasphemy, the elementals will be at peace."
+73,"TEXT_AKTKBA111_04103_RAYAOSENNA_000_047","Well then, how do you propose we go about that?"
+74,"TEXT_AKTKBA111_04103_KANESENNA_000_048","First allow me to speak with the people here and assure them that all will be well. That Gridania's resolve to weather this storm remains steadfast."
+75,"TEXT_AKTKBA111_04103_RAYAOSENNA_000_049","""No road is closed to those true of heart.“ I suppose I shouldn't be surprised that you'd begin with an earnest and heartfelt appeal."
+76,"TEXT_AKTKBA111_04103_RAYAOSENNA_100_049","For my part, I shall reach out to A–Ruhn. Perhaps together we can find a way to offer similar comfort to the elementals. I have no doubt we will require their assistance in the days ahead."
+77,"TEXT_AKTKBA111_04103_KANESENNA_110_049","Thank you, Sister. May the Twelve watch over and keep you both."
+78,"TEXT_AKTKBA111_04103_KANESENNA_000_050","May I trouble you to accompany me? The presence of a storied hero would surely lend credence to my claims that the people's difficulties will soon be at an end."
+79,"TEXT_AKTKBA111_04103_KEEPEROFTHEENTWINEDSERPENTS_000_051","While you attend to that, I shall gather what information I can from the Wood Wailers stationed here. Pray look for me at the camp proper when you have finished."
+80,"TEXT_AKTKBA111_04103_KEEPEROFTHEENTWINEDSERPENTS_000_060","The Seedseers are beholden to the pleas of elementals and man alike. I do not envy their responsibilities, difficult as they are for anyone to fulfill."
+81,"TEXT_AKTKBA111_04103_RAYAOSENNA_000_061","There was a time when my sister was loath to show weakness. Though she accepts the aid of others more easily now─goes so far as to seek of her own accord, even─her desire to project strength in the face of adversity sometimes brings old tendencies to the fore."
+82,"TEXT_AKTKBA111_04103_TRANQUILMAN04103A_000_062","I saw it for but a moment, but the image is seared into my memories. Ah...I'm afraid to close my eyes even now!"
+83,"TEXT_AKTKBA111_04103_TRANQUILWOMAN04103_000_063","What'll we do if the beast comes? What <hex:021A020203>can<hex:021A020103> we do?"
+84,"TEXT_AKTKBA111_04103_TRANQUILMAN04103B_000_064","It's like I've been saying─the Seedseers are useless! If it ain't about their precious elementals, they don't care. We'd be better off heading south to Ul'dah..."
+85,"TEXT_AKTKBA111_04103_KANESENNA_100_051","If we are to convince the people that they need not live in fear of Gleipnir, then my words alone may be insufficient. I do not comport myself as an imposing figure blessed with martial prowess, to say the least."
+86,"TEXT_AKTKBA111_04103_KANESENNA_110_051","You, on the other hand, are renowned as a peerless warrior who has triumphed in countless trials. Simply looking on your features fills me with confidence that this crisis too shall pass."
+87,"TEXT_AKTKBA111_04103_KANESENNA_120_051","I pray you stay by my side, that those we speak with might be joyed by your presence."
+88,"TEXT_AKTKBA111_04103_SYSTEM_000_052","Kan–E–Senna is now accompanying you. Keep her at your side in order to proceed with quest objectives."
+89,"TEXT_AKTKBA111_04103_SYSTEM_000_054","You can leave Kan–E–Senna behind by entering a different area, or by speaking with her and selecting the option to part ways."
+90,"TEXT_AKTKBA111_04103_SYSTEM_000_055","If you wish to have Kan–E–Senna accompany you again, return and speak with her at the original location."
+91,"TEXT_AKTKBA111_04103_SYSTEM_000_070","You must be accompanied by Kan–E–Senna and have her at your side in order to proceed with quest objectives."
+92,"TEXT_AKTKBA111_04103_SYSTEM_100_071","Kan–E–Senna has yet to arrive. Be sure she is at your side before attempting to continue."
+93,"TEXT_AKTKBA111_04103_Q2_000_000","What will you do?"
+94,"TEXT_AKTKBA111_04103_A2_000_001","Speak with Kan–E–Senna."
+95,"TEXT_AKTKBA111_04103_A2_000_002","Part ways with Kan–E–Senna."
+96,"TEXT_AKTKBA111_04103_A2_000_003","Nothing."
+97,"TEXT_AKTKBA111_04103_KANESENNA_000_072","Try as they might to go about their lives as normal, there is an unmistakable tension in their every movement. We must do what we can to put their minds at ease."
+98,"TEXT_AKTKBA111_04103_KANESENNA_000_073","Too often do I only learn of the people's troubles through reports and the like. To hear their stories firsthand, the desperation in their voices...it strengthens my resolve to bring this nightmare to an end."
+99,"TEXT_AKTKBA111_04103_KANESENNA_000_074","I am reminded also that we Seedseers must do more to convey the thoughts of the elementals to our fellow Gridanians. Though they live among us, there is a tendency to treat them as something otherworldly and unknowable. If only all could share in our experience..."
+100,"TEXT_AKTKBA111_04103_SYSTEM_000_075","Are you sure you wish to part ways with Kan–E–Senna?"
+101,"TEXT_AKTKBA111_04103_KANESENNA_000_076","I understand you must have many pressing obligations. Still, I would not proceed without your company, and shall wait for you to return before speaking with the people."
+102,"TEXT_AKTKBA111_04103_KANESENNA_000_077","I am glad to see you returned from your adventures none the worse for wear. Now, shall we continue?"
+103,"TEXT_AKTKBA111_04103_TRANQUILMAN04103A_000_080","I saw it! A gargantuan beast stalking the woods, with horns the size of my leg! What's to stop it from coming here to fill its belly?"
+104,"TEXT_AKTKBA111_04103_KANESENNA_000_081","Gleipnir will do no such thing, I swear. I shall see to it personally that the blasphemy does not come within a malm of this village. Keep heart, for brighter days lie ahead of us."
+105,"TEXT_AKTKBA111_04103_TRANQUILMAN04103A_000_082","Truly, Elder Seedseer? Ah...perhaps I've let my imagination get the better of me. You are a beacon in these dark times. I pray you restore the peace soon!"
+106,"TEXT_AKTKBA111_04103_KANESENNA_000_083","I shall, you can be certain!"
+107,"TEXT_AKTKBA111_04103_TRANQUILWOMAN04103_000_090","A single scratch is enough to spell one's doom, they say! Nothing but to wait for death to come. How can we face a beast like that!?"
+108,"TEXT_AKTKBA111_04103_KANESENNA_000_091","Do not give in to despair, my friend. Know that I shall do all in my power to see us through this crisis. Hold fast to hope, and encourage others to do so as well."
+109,"TEXT_AKTKBA111_04103_TRANQUILWOMAN04103_000_092","I'll try, Elder Seedseer, I'll try. I know you've placed yourself at risk, leaving the safety of the city and coming here, and that means a lot to me and mine. I'll stay close to the Wailers and pray news of your triumph reaches us soon."
+110,"TEXT_AKTKBA111_04103_KANESENNA_000_093","Thank you. I promise you that it will not be long."
+111,"TEXT_AKTKBA111_04103_TRANQUILMAN04103B_000_100","Seedseers are sittin' pretty with their guards and finery. What do they care if a beastie is runnin' amok? They'll be fine. That's why they're doin' nothin' while it hunts us."
+112,"TEXT_AKTKBA111_04103_TRANQUILMAN04103B_000_101","We'd be fools to trust our lives to those what don't care a whit. Aye, past time we went south. Least in Ul'dah they don't pretend to look out for the common man."
+113,"TEXT_AKTKBA111_04103_TRANQUILMAN04103B_000_102","E-Elder Seedseer! I was just, uh... Er..."
+114,"TEXT_AKTKBA111_04103_KANESENNA_000_103","I promise you that we are sparing no effort in our hunt for Gleipnir. However, it will take time─and more may suffer before the beast is laid low."
+115,"TEXT_AKTKBA111_04103_KANESENNA_000_104","Nevertheless, I ask that you place your faith in me, if only for a while longer. I love the Twelveswood and her people with all my heart, and I will not let our enemy torment us forever."
+116,"TEXT_AKTKBA111_04103_TRANQUILMAN04103B_000_105","I...I understand. Man's gotta give voice to his worries from time to time, aye? Nothin' I want less than to abandon my home. I'll stick around...for now."
+117,"TEXT_AKTKBA111_04103_TRANQUILMAN04103A_000_110","We can cower in fear, or we can strive to lift one another's flagging spirits. Better to choose the latter. May the Matron bring you victory, for all of our sakes."
+118,"TEXT_AKTKBA111_04103_TRANQUILWOMAN04103_000_111","Everyone's scared, but so long as we stick together and stay strong, I think we'll survive."
+119,"TEXT_AKTKBA111_04103_TRANQUILMAN04103B_000_112","Sorry about earlier. I've been strung tighter than a longbow lately. I really do appreciate the Seedseers and all they've done for us, and I pray they can deliver us from this evil."
+120,"TEXT_AKTKBA111_04103_KEEPEROFTHEENTWINEDSERPENTS_100_120","Oh? I thought the Elder Seedseer was in your care. Where is she?"
+121,"TEXT_AKTKBA111_04103_KEEPEROFTHEENTWINEDSERPENTS_000_130","Will that be all for now, Elder Seedseer?"
+122,"TEXT_AKTKBA111_04103_KANESENNA_000_131","It will. I have done what I can to quell the unrest. But so long as Gleipnir lives, they will never be at peace."
+123,"TEXT_AKTKBA111_04103_Q3_000_000","What will you say?"
+124,"TEXT_AKTKBA111_04103_A3_000_001","Sometimes simply lending an ear does wonders─as must be the case for the elementals, yes?"
+125,"TEXT_AKTKBA111_04103_A3_000_002","Do you doubt your chosen course?"
+126,"TEXT_AKTKBA111_04103_KANESENNA_000_132","Indeed, you are correct. Today was a welcome reminder of that truth, and an important step in our journey."
+127,"TEXT_AKTKBA111_04103_KANESENNA_000_133","Nay, not in the slightest. The shortest path to a destination is often not the best, and today was a welcome reminder of that truth."
+128,"TEXT_AKTKBA111_04103_KANESENNA_000_134","Mayhap I should visit these settlements more often. Doubtless some here think me as distant as the elementals, so rarely do they see me in the outer reaches..."
+129,"TEXT_AKTKBA111_04103_KANESENNA_100_134","You have served me admirably as protectors thus far, for which I am grateful. Yet until we have found and laid Gleipnir low, I must continue to impose upon your goodwill."
+130,"TEXT_AKTKBA111_04103_KEEPEROFTHEENTWINEDSERPENTS_000_135","'Tis no imposition, Elder Seedseer. You saved me on the killing fields of Carteneau. My life is yours, now and always."
+131,"TEXT_AKTKBA111_04103_KANESENNA_000_136","Your life is your own to command, but I thank you for your words. And your conviction, which fills me with confidence that the path we walk is true."
+132,"TEXT_AKTKBA111_04103_KANESENNA_000_137","Even if that path takes us far afield... Hmm. Did I ever tell you that, when I was a young student, I would often steal into the woods with a dear friend of mine─much to the chagrin of our teacher?"
+133,"TEXT_AKTKBA111_04103_KANESENNA_000_138","Deep down, I suspect there is still a part of me that yearns to wander where I should not..."
+134,"TEXT_AKTKBA111_04103_LANDENEL_000_139","Elder Seedseer. Word from the border─we've got ourselves a right bloody mess, by the sound of it."
+135,"TEXT_AKTKBA111_04103_KANESENNA_000_140","What has happened?"
+136,"TEXT_AKTKBA111_04103_LANDENEL_000_141","Per your earlier instructions, the Wailers closed the roads to all travel while we scoured the wood for signs of Gleipnir. But now a group of locals are demanding to be let through into Thanalan."
+137,"TEXT_AKTKBA111_04103_LANDENEL_100_141","They're terrified, by the sound of it. Screaming about the Creeping Death and gods know what else."
+138,"TEXT_AKTKBA111_04103_KANESENNA_000_142","Despair grips their hearts... If it consumes them wholly, then we may have yet more blasphemies to contend with."
+139,"TEXT_AKTKBA111_04103_KANESENNA_100_142","I will speak with them. Wild rumors fuel their panic, and with truth and compassion will I convince them to see reason and return to their homes."
+140,"TEXT_AKTKBA111_04103_LANDENEL_000_143","If anyone can it's you, Elder Seedseer. We're doing our best to keep them calm for now, but my man's words painted a grim picture. I pray you make your way to the border as quickly as you can."
+141,"TEXT_AKTKBA111_04103_LANDENEL_000_150","Follow the road south─you'll find them soon enough. My men are doing what they can, but we're soldiers, not mediators..."
+142,"TEXT_AKTKBA111_04103_KANESENNA_000_151","The people here are indeed terrified. I must take care with my words."
+143,"TEXT_AKTKBA111_04103_KEEPEROFTHEENTWINEDSERPENTS_000_152","It's good we arrived when we did. Any later and we might've been met with a bloodier sight."
+144,"TEXT_AKTKBA111_04103_REFUGEEMAN1_000_160","Let us through, damn you! We're standing here while the Creeping Death nips at our heels! You're telling us to die!"
+145,"TEXT_AKTKBA111_04103_WOODWAILER1_000_161","Those rumors are false! The Elder Seedseer herself sent word that the Creeping Death is not responsible for the recent incidents!"
+146,"TEXT_AKTKBA111_04103_WOODWAILER1_100_161","You mustn't surrender to panic. Return to your homes while we deal with the threat, and pay no heed to baseless stories."
+147,"TEXT_AKTKBA111_04103_REFUGEEMAN1_000_162","Stories? <hex:021A020203>Stories<hex:021A020103>!? I've seen the dead with my own eyes─don't tell me what is and isn't true!"
+148,"TEXT_AKTKBA111_04103_KANESENNA_000_163","Hearken to me, my friends. I come before you now to assure you that the Creeping Death has not returned. Only those who have been wounded by Gleipnir are in danger, and so I beseech you to take shelter in your homes until the threat has passed."
+149,"TEXT_AKTKBA111_04103_REFUGEEMAN1_000_164","Gleipnir!? The beast I saw in the wood!? We have to run! It could've followed us!"
+150,"TEXT_AKTKBA111_04103_KEEPEROFTHEENTWINEDSERPENTS_000_165","You saw him!? Where?"
+151,"TEXT_AKTKBA111_04103_REFUGEEMAN1_000_166","Not far from here. Those glistening horns...those terrible chains...reaching out to drag you down to the seventh hell... We ran and ran and never looked back!"
+152,"TEXT_AKTKBA111_04103_REFUGEEMAN1_000_167","But don't worry─it didn't catch any of us! No one's marked, see? That means...that means we're safe, right?"
+153,"TEXT_AKTKBA111_04103_REFUGEEMAN2_000_168","But... But say we weren't quite fast enough... What then?"
+154,"TEXT_AKTKBA111_04103_KANESENNA_000_169","Its horns and claws are where the poison resides, and even a scratch would be cause for concern..."
+155,"TEXT_AKTKBA111_04103_REFUGEEMAN2_000_170","Even a little scratch..."
+156,"TEXT_AKTKBA111_04103_REFUGEEMAN2_000_171","Then...then it's too late for me!? Is that...why my body feels...like it's on fire..."
+157,"TEXT_AKTKBA111_04103_REFUGEEMAN1_000_172","You told me the branches tripped you up! You said that's how it happened! You said!"
+158,"TEXT_AKTKBA111_04103_KANESENNA_000_173","O heavenly winds, guide us to the font of strength. May we drink from it and be made whole! "
+159,"TEXT_AKTKBA111_04103_REFUGEEMAN2_100_173","I don't...I don't feel any better... Do it again. Do it again!"
+160,"TEXT_AKTKBA111_04103_REFUGEEMAN2_000_174","It hurts... Help me..."
+161,"TEXT_AKTKBA111_04103_KANESENNA_000_175","Conjury has no effect. There can be no mistake─this is Gleipnir's doing."
+162,"TEXT_AKTKBA111_04103_KANESENNA_000_176","Even so, I ask that you do not lose heart! Stay strong, for if we surrender to fear, the beast has already won!"
+163,"TEXT_AKTKBA111_04103_REFUGEEMAN2_000_177","No... I don't want to die. Please...help me..."
+164,"TEXT_AKTKBA111_04103_REFUGEEMAN2_000_178","GAAAHHH!"
+165,"TEXT_AKTKBA111_04103_KEEPEROFTHEENTWINEDSERPENTS_000_179","Get back!"
+166,"TEXT_AKTKBA111_04103_REFUGEEMAN1_000_180","You said... You said it wasn't...<hex:02100103>Ugh... Why... Why..."
+167,"TEXT_AKTKBA111_04103_REFUGEEMAN1_000_181","Liar... Liars! All of you! None of us are safe! None of us will...GAAAHHH!"
+168,"TEXT_AKTKBA111_04103_KANESENNA_000_182","Despair made manifest... Twelve forfend. Is there naught that can be done for these poor souls?"
+169,"TEXT_AKTKBA111_04103_KANESENNA_100_182","Naught but one thing, I know. I know. We must lay them to rest. Contain the threat."
+170,"TEXT_AKTKBA111_04103_KANESENNA_000_185","These ones are beyond saving. We can but end their suffering."
+171,"TEXT_AKTKBA111_04103_KEEPEROFTHEENTWINEDSERPENTS_000_186","So this is the face of the Final Days..."
+172,"TEXT_AKTKBA111_04103_WOODWAILER1_000_187","We'll keep these people safe!"
+173,"TEXT_AKTKBA111_04103_REFUGEEMAN3_000_188","What...what are those monstrosities!?"
+174,"TEXT_AKTKBA111_04103_REFUGEEWOMAN_000_189","This can't be... This isn't real!"
+175,"TEXT_AKTKBA111_04103_KEEPEROFTHEENTWINEDSERPENTS_000_190","'Twas not the poison which triggered their transformation, but despair. Overwhelming despair..."
+176,"TEXT_AKTKBA111_04103_REFUGEEMAN3_000_191","Matron have mercy, what were those fiends!? The Creeping Death seems a mercy compared to an end like that..."
+177,"TEXT_AKTKBA111_04103_REFUGEEWOMAN_000_192","I can't take it! What kind of life is this, waiting to be hunted or be turned into one of them!?"
+178,"TEXT_AKTKBA111_04103_WOODWAILER1_000_193","We did what we had to. If we had let the fiends live, the blood of many would have been on our hands."
+179,"TEXT_AKTKBA111_04103_KANESENNA_000_200","They are...at peace. Would that it had not come to this. I was powerless to prevent it..."
+180,"TEXT_AKTKBA111_04103_KEEPEROFTHEENTWINEDSERPENTS_000_201","You did all you could, Elder Seedseer."
+181,"TEXT_AKTKBA111_04103_REFUGEEMAN3_000_202","Is that what's going to happen to us? Is there no hope?"
+182,"TEXT_AKTKBA111_04103_KANESENNA_000_203","What you witnessed was the fate of those who fall to deepest despair. It feeds upon grief and anguish, and is more deadly than Gleipnir itself."
+183,"TEXT_AKTKBA111_04103_KANESENNA_000_204","But as I swore to you that we shall defeat the blasphemy that haunts our homeland, so too do I swear that despair will not be the end of us. Keep the faith and look to the horizon, for brighter days will come."
+184,"TEXT_AKTKBA111_04103_REFUGEEMAN3_000_205","As you say, Elder Seedseer...as you say..."
+185,"TEXT_AKTKBA111_04103_KANESENNA_000_206","Gleipnir is not here, and so you are free to return to your homes. I but urge you to take care on the path back."
+186,"TEXT_AKTKBA111_04103_REFUGEEMAN3_000_207","We will, Elder Seedseer..."
+187,"TEXT_AKTKBA111_04103_KANESENNA_000_208","This storm has passed, but a darker tempest roils in the distance."
+188,"TEXT_AKTKBA111_04103_KANESENNA_000_209","So long as the specter of despair looms, the people will struggle to take any words of comfort to heart. We will see more tragedies like this."
+189,"TEXT_AKTKBA111_04103_KANESENNA_000_210","The elementals too cry out for a solution. The longer we struggle to resolve this crisis, the more innocent lives we put at risk."
+190,"TEXT_AKTKBA111_04103_KANESENNA_000_211","Raya–O said we would need to turn to the elementals for assistance, and I know now that she was right. And so I will seek audience with the great one."
+191,"TEXT_AKTKBA111_04103_KANESENNA_100_211","However, there are preparations I must attend to first. I shall make the proper ablutions at the Lotus Stand. Pray return to the Adders' Nest and await my summons."
+192,"TEXT_AKTKBA111_04103_RAYAOSENNA_000_221","I heard about what happened at the border, and about Kan–E's decision to commune with the great one. I pray that the elementals will answer our calls for assistance."
+193,"TEXT_AKTKBA111_04103_KEEPEROFTHEENTWINEDSERPENTS_000_230","Despite our best efforts, we have been unable to prevent further loss of life. I foresee even greater hardship ahead."
+194,"TEXT_AKTKBA111_04103_KEEPEROFTHEENTWINEDSERPENTS_000_231","As we press on, we mustn't forget the words of the Elder Seedseer. We must strive to remain undaunted in the face of despair."
+195,"TEXT_AKTKBA111_04103_KEEPEROFTHEENTWINEDSERPENTS_000_232","She is preparing for her communion with the great one. When the time is right, she will call upon us both. Until then, my friend, stay strong."

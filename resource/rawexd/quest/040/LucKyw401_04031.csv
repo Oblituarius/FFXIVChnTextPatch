@@ -2,292 +2,292 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_LUCKYW401_04031_SEQ_00,天營門的解放軍軍官有事情想要對冒險者彙報。
-1,TEXT_LUCKYW401_04031_SEQ_01,前情回顧：<hex:02100103>將城鎮燕鷗崖從帝國軍第七軍團的支配中解放出來的冒險者和蓋烏斯，通過對倉庫中的數據進行分析，查明了第3種神兵機型的開發代碼為綠寶石。而後在帝國海上基地的乾船塢，冒險者等人成功打敗了由蓋烏斯的養子萊克斯駕駛的綠寶石神兵。蓋烏斯等人成功救出了被監禁在乾船塢的阿莉，並通過她了解到了帝國軍第七軍團長瓦倫斯·範·瓦羅的目的和阿爾豐斯的真意。<hex:02100103>　　　　　　　　　　　　*　*　*<hex:02100103>在與解放軍軍官交談的過程中，再次見到了梅·娜格。她此次的任務就是將親筆信交給身為維爾利特獨立國臨時政府軍事顧問的蓋烏斯。和基拉巴尼亞湖區天營門的解放軍運輸兵談談，前往燕鷗崖。
-2,TEXT_LUCKYW401_04031_SEQ_02,在解放軍運輸兵的帶領下來到了燕鷗崖。和燕鷗崖的蓋烏斯談談。
-3,TEXT_LUCKYW401_04031_SEQ_03,和蓋烏斯進行了交談。蓋烏斯曾經是攻陷了維爾利特的罪人，而如今為了履行自己的職責，他決定幫助維爾利特實現獨立。再次和燕鷗崖的蓋烏斯談談。如果離開了燕鷗崖，可以與天營門的解放軍運輸兵交談，前往燕鷗崖。
-4,TEXT_LUCKYW401_04031_SEQ_04,和蓋烏斯進行了交談。阿莉為了執行某項計劃而離開了蓋烏斯，回到了第七軍團。蓋烏斯不惜將冒險者和賽維拉捲入其中，也一心想要拯救養子。而此時在由第七軍團駐守的維爾利特城區，則出現了危險的動向。阿莉坐上了新神兵——鑽石神兵，將矛頭指向了瓦倫斯。和燕鷗崖的加隆德煉鐵廠飛行員談談。
-5,TEXT_LUCKYW401_04031_SEQ_05,和加隆德煉鐵廠飛行員進行了交談。西德為了拯救孤兒兄妹而準備的新計策，竟是在究極戰士G型上裝備了神兵捕獲裝置的救援者——究極救世者G型。和究極救世者G型戰鬥甲板的蓋烏斯談談。另外如果離開了究極救世者G型戰鬥甲板，可以與天營門或者燕鷗崖的加隆德煉鐵廠飛行員交談，前往飛艇坪。
-6,TEXT_LUCKYW401_04031_SEQ_06,和蓋烏斯進行了交談。為了拯救孤兒兄妹，完成鑽石神兵捕獲作戰！<hex:02100103><hex:02100103>※可以通過任務搜尋器參加。
-7,TEXT_LUCKYW401_04031_SEQ_07,完成了鑽石神兵捕獲作戰。和究極救世者G型戰鬥甲板的蓋烏斯談談。
-8,TEXT_LUCKYW401_04031_SEQ_08,和蓋烏斯一同來到了維爾利特城區。不同於以往的神兵駕駛員，阿莉以人類的姿態存活了下來。蓋烏斯將阿莉託付給了冒險者，決定獨自留在已變成不毛之地的維爾利特。此時，造成與神兵相關的一系列悲劇的幕後黑手——第七軍團長瓦倫斯·範·瓦羅出現了。據他所說，鑽石神兵中使用的是阿爾豐斯鮮活的大腦。利用慘無人道的研究將孤兒們的命運玩弄於股掌之中，瓦倫斯可謂是惡貫滿盈，而他最終也沒能逃脫應得的下場，被孤兒們的養父蓋烏斯親手制裁。和燕鷗崖的賽維拉談談。
-9,TEXT_LUCKYW401_04031_SEQ_09,和賽維拉進行了交談。收到了瓦倫斯死亡報告的賽維拉和瓦爾多蘭，並沒有因為作戰計劃的順利結束而欣喜，反倒是顯得憂心忡忡。等待蓋烏斯的回歸。
-10,TEXT_LUCKYW401_04031_SEQ_10,
-11,TEXT_LUCKYW401_04031_SEQ_11,
-12,TEXT_LUCKYW401_04031_SEQ_12,
-13,TEXT_LUCKYW401_04031_SEQ_13,
-14,TEXT_LUCKYW401_04031_SEQ_14,
-15,TEXT_LUCKYW401_04031_SEQ_15,
-16,TEXT_LUCKYW401_04031_SEQ_16,
-17,TEXT_LUCKYW401_04031_SEQ_17,
-18,TEXT_LUCKYW401_04031_SEQ_18,
-19,TEXT_LUCKYW401_04031_SEQ_19,
-20,TEXT_LUCKYW401_04031_SEQ_20,
-21,TEXT_LUCKYW401_04031_SEQ_21,
-22,TEXT_LUCKYW401_04031_SEQ_22,
-23,TEXT_LUCKYW401_04031_SEQ_23,
-24,TEXT_LUCKYW401_04031_TODO_00,和解放軍運輸兵對話
-25,TEXT_LUCKYW401_04031_TODO_01,和蓋烏斯對話
-26,TEXT_LUCKYW401_04031_TODO_02,再次和蓋烏斯對話
-27,TEXT_LUCKYW401_04031_TODO_03,和加隆德煉鐵廠飛行員對話
-28,TEXT_LUCKYW401_04031_TODO_04,和蓋烏斯對話
-29,TEXT_LUCKYW401_04031_TODO_05,完成鑽石神兵捕獲作戰
-30,TEXT_LUCKYW401_04031_TODO_06,和蓋烏斯對話
-31,TEXT_LUCKYW401_04031_TODO_07,和賽維拉對話
-32,TEXT_LUCKYW401_04031_TODO_08,
-33,TEXT_LUCKYW401_04031_TODO_09,
-34,TEXT_LUCKYW401_04031_TODO_10,
-35,TEXT_LUCKYW401_04031_TODO_11,
-36,TEXT_LUCKYW401_04031_TODO_12,
-37,TEXT_LUCKYW401_04031_TODO_13,
-38,TEXT_LUCKYW401_04031_TODO_14,
-39,TEXT_LUCKYW401_04031_TODO_15,
-40,TEXT_LUCKYW401_04031_TODO_16,
-41,TEXT_LUCKYW401_04031_TODO_17,
-42,TEXT_LUCKYW401_04031_TODO_18,
-43,TEXT_LUCKYW401_04031_TODO_19,
-44,TEXT_LUCKYW401_04031_TODO_20,
-45,TEXT_LUCKYW401_04031_TODO_21,
-46,TEXT_LUCKYW401_04031_TODO_22,
-47,TEXT_LUCKYW401_04031_TODO_23,
-48,TEXT_LUCKYW401_04031_RESISTANCEOFFICER_000_001,解放者閣下，雖然現在情況已經十分危急，<hex:02100103>不過由於維爾利特方面有了新動向，特意向您彙報一下。
-49,TEXT_LUCKYW401_04031_RESISTANCEOFFICER_000_002,解放者閣下，維爾利特方面有了新動向，特意向您彙報一下。
-50,TEXT_LUCKYW401_04031_RESISTANCEOFFICER_000_003,事實上……
-51,TEXT_LUCKYW401_04031_MNAAGO_000_004,(-？？？？-)關於這一點就由我來進行說明吧。
-52,TEXT_LUCKYW401_04031_MNAAGO_000_005,(-？？？？-)<hex:022903EB0203>，別來無恙啊。
-53,TEXT_LUCKYW401_04031_Q1_000_000,要說什麼？
-54,TEXT_LUCKYW401_04031_A1_000_001,梅·娜格！
-55,TEXT_LUCKYW401_04031_A1_000_002,梅·賽特！
-56,TEXT_LUCKYW401_04031_A1_000_003,你是誰？
-57,TEXT_LUCKYW401_04031_MNAAGO_000_007,有段時間沒見了！<hex:02100103>此次能夠與你重逢真是開心！
-58,TEXT_LUCKYW401_04031_MNAAGO_000_008,梅·賽特？<hex:02100103>哦，是那個老找父親麻煩還佔不著便宜、脾氣又很沖的人啊……
-59,TEXT_LUCKYW401_04031_MNAAGO_000_009,不是啦！我是梅·娜格！
-60,TEXT_LUCKYW401_04031_MNAAGO_000_010,竟然不記得我了嗎？！好過分！<hex:02100103>我是梅·娜格啊！
-61,TEXT_LUCKYW401_04031_MNAAGO_000_011,久別重逢，真想和你好好聊聊啊，<hex:02100103>只可惜現在沒那麼多時間。<hex:02100103>還是趕緊切入正題吧。
-62,TEXT_LUCKYW401_04031_MNAAGO_000_012,自從你將第七軍團從燕鷗崖徹底趕了出去之後，<hex:02100103>維爾利特市民要求獨立的呼聲就越來越高……
-63,TEXT_LUCKYW401_04031_MNAAGO_000_013,他們宣布要成立「維爾利特獨立國臨時政府」，<hex:02100103>打敗佔領著維爾利特城區的第七軍團，<hex:02100103>獲得真正的獨立。
-64,TEXT_LUCKYW401_04031_MNAAGO_000_014,很快，包括前帝國兵在內，<hex:02100103>眾多擁有戰鬥經驗的人們聚在一起結成了抵抗軍，<hex:02100103>但是卻缺少一個能夠統領全軍的將領……
-65,TEXT_LUCKYW401_04031_MNAAGO_000_015,而蓋烏斯由於曾擔任過行省總督，<hex:02100103>執政期間的表現也比芝諾斯和泰奧德里克更加理性，<hex:02100103>獲得了很高的呼聲。
-66,TEXT_LUCKYW401_04031_MNAAGO_000_016,因此臨時政府希望他能夠擔任軍事顧問。<hex:02100103>但由於蓋烏斯曾經是侵略維爾利特時的指揮官，<hex:02100103>所以當時在意見統一之前，自然也發生了激烈的爭論……
-67,TEXT_LUCKYW401_04031_MNAAGO_100_016,最終臨時政府還是以他做出的貢獻為考量，<hex:02100103>決定對他優秀的軍事指揮能力孤注一擲。<hex:02100103>同時還向我們阿拉米格解放軍尋求了支援。
-68,TEXT_LUCKYW401_04031_MNAAGO_000_017,老實說，如今大家還在為塔的事情焦頭爛額，<hex:02100103>艾歐澤亞同盟軍實在是無暇顧及其他事情……<hex:02100103>不過如果維爾利特能夠獨立的話，就將成為阿拉米格的重要鄰國。
-69,TEXT_LUCKYW401_04031_MNAAGO_000_018,雖然能出的力不多，<hex:02100103>但我軍已經決定向維爾利特方面提供物資支援，<hex:02100103>而我也被選為了此次負責遞交親筆信的傳令兵。
-70,TEXT_LUCKYW401_04031_MNAAGO_000_019,如果維爾利特能夠獨立的話，就將成為阿拉米格的重要鄰國。<hex:02100103>雖然能出的力不多，但我軍已經決定向維爾利特方面提供物資支援，<hex:02100103>而我也被選為了此次負責遞交親筆信的傳令兵。
-71,TEXT_LUCKYW401_04031_MNAAGO_000_020,<hex:022903EB0203>也很在意神兵的動向吧？<hex:02100103>願意和我一同前往燕鷗崖嗎？
-72,TEXT_LUCKYW401_04031_MNAAGO_000_021,非常感謝！有你同行我也就放心了！
-73,TEXT_LUCKYW401_04031_MNAAGO_000_022,要前往燕鷗崖的話需要去找解放軍運輸兵。<hex:02100103>走吧！
-74,TEXT_LUCKYW401_04031_CONVEYOR03783_000_030,要前往燕鷗崖嗎？<hex:02100103>那就由我來帶路吧！
-75,TEXT_LUCKYW401_04031_Q9_000_000,要前往燕鷗崖嗎？
-76,TEXT_LUCKYW401_04031_MNAAGO_000_050,你就是蓋烏斯·巴埃薩吧？
-77,TEXT_LUCKYW401_04031_MNAAGO_000_051,我帶來了阿拉米格解放軍高層的親筆信。<hex:02100103>請收下……
-78,TEXT_LUCKYW401_04031_SHADOWHUNTER_000_052,阿拉米格承諾為我軍提供物資支援……真是感激不盡。
-79,TEXT_LUCKYW401_04031_HIGHOFFICIAL3783_000_053,阿拉米格要為我們送來武器嗎？<hex:02100103>這下可以奮力一搏了！
-80,TEXT_LUCKYW401_04031_SHADOWHUNTER_000_054,總算是湊夠了最低限度的武器。<hex:02100103>不過，第七軍團目前還沒拿出全部實力，<hex:02100103>如果力拚的話，定會造成眾多犧牲。
-81,TEXT_LUCKYW401_04031_SOLDIER3783_000_055,您在說什麼呢，這可是千載難逢的好機會啊！<hex:02100103>為了幫助孩子們贏取自由，<hex:02100103>我即使獻上生命也在所不辭！
-82,TEXT_LUCKYW401_04031_MNAAGO_000_056,身為阿拉米格人，面對著你這個曾經侵略過祖國的人，<hex:02100103>我心裡不可能沒有半點嫌隙……<hex:02100103>你根本就不知道我們為了奪回故鄉犧牲了多少人……
-83,TEXT_LUCKYW401_04031_MNAAGO_000_057,可是……可是！<hex:02100103>對於現在的維爾利特來說，你是不可或缺的將才……<hex:02100103>所以，請千萬不要背叛他們！！
-84,TEXT_LUCKYW401_04031_SHADOWHUNTER_000_058,我以蓋烏斯·巴埃薩之名發誓！
-85,TEXT_LUCKYW401_04031_SHADOWHUNTER_100_058,另外，如果認為我行動可疑的話，<hex:02100103>你們隨時可以用劍刺向我，無需猶豫……
-86,TEXT_LUCKYW401_04031_HIGHOFFICIAL3783_000_059,這位阿拉米格解放軍同志，<hex:02100103>關於領取物資的流程，我有事想和你商量……
-87,TEXT_LUCKYW401_04031_HIGHOFFICIAL3783_000_060,我們去那邊詳談吧。
-88,TEXT_LUCKYW401_04031_SHADOWHUNTER_000_061,我曾經以帝國軍人的身份攻陷了維爾利特，<hex:02100103>而如今又要幫助他們贏取獨立……<hex:02100103>在你看來，我是一個很任意妄為的人吧。
-89,TEXT_LUCKYW401_04031_SHADOWHUNTER_000_062,正因如此，我才決意要幫助他們……<hex:02100103>我有必須要履行的職責。
-90,TEXT_LUCKYW401_04031_SHADOWHUNTER_000_063,我曾經說過「弱者只有在強者的領導下，才能夠走向未來」。<hex:02100103>可迄今為止被我親手攻陷的眾多行省，<hex:02100103>並非全都獲得了正確的引導……
-91,TEXT_LUCKYW401_04031_SHADOWHUNTER_000_064,雖然我提出了就算沒有加雷馬族血統，<hex:02100103>只要身為帝國國民就以能力為先，重視公正的政策。<hex:02100103>可一旦總督換了人選，這一方針就會輕易被推翻。
-92,TEXT_LUCKYW401_04031_SHADOWHUNTER_000_065,如今率領著第七軍團，支配著維爾利特的，<hex:02100103>是製造著神兵這種邪惡兵器的男人……<hex:02100103>如果讓這種「強者」去領導「弱者」的話……
-93,TEXT_LUCKYW401_04031_SHADOWHUNTER_000_066,如果瓦倫斯是因我過去犯下的錯誤而產生的惡果的話，<hex:02100103>那就必須由我來親自剷除才行……
-94,TEXT_LUCKYW401_04031_SEVERA_000_067,你戰鬥的理由可不應該僅僅是這一點。<hex:02100103>這也是為了拯救阿莉和阿爾豐斯他們……不是嗎？
-95,TEXT_LUCKYW401_04031_SHADOWHUNTER_100_067,……
-96,TEXT_LUCKYW401_04031_SHADOWHUNTER_000_068,關於他們，我有事要跟你說。<hex:02100103>不過這裡不便明說，我們換個地方吧。
-97,TEXT_LUCKYW401_04031_MNAAGO_000_070,我也會立刻動身前往，<hex:02100103>請和天營門的解放軍運輸兵交談，<hex:02100103>前往燕鷗崖！
-98,TEXT_LUCKYW401_04031_CONVEYOR03783_000_075,這次也期望解放者閣下可以平安歸來。
-99,TEXT_LUCKYW401_04031_HIGHOFFICIAL3783_000_080,有漆黑的王狼蓋烏斯·巴埃薩率領我軍，<hex:02100103>看來實現獨立的日子已經近在眼前了！
-100,TEXT_LUCKYW401_04031_SOLDIER3783_000_085,為了奪回祖國……現在正是反擊之時！
-101,TEXT_LUCKYW401_04031_CONVEYOR03783_000_090,要前往燕鷗崖嗎？<hex:02100103>那就由我來帶路吧！
-102,TEXT_LUCKYW401_04031_Q11_000_000,要前往燕鷗崖嗎？
-103,TEXT_LUCKYW401_04031_SYSTEM_000_100,
-104,TEXT_LUCKYW401_04031_SYSTEM_000_101,
-105,TEXT_LUCKYW401_04031_SYSTEM_100_101,
-106,TEXT_LUCKYW401_04031_SHADOWHUNTER_000_103,在這裡的話就不用擔心被別人聽到了。<hex:02100103>事實上……阿莉在留下一封信之後便不知所蹤了。
-107,TEXT_LUCKYW401_04031_SHADOWHUNTER_000_104,請看這個。
-108,TEXT_LUCKYW401_04031_ALLIE_000_105,(-阿莉的信-)請原諒我的不辭而別。
-109,TEXT_LUCKYW401_04031_ALLIE_000_106,(-阿莉的信-)迄今為止，阿爾豐斯哥哥<hex:02100103>為了拯救生活在水深火熱中的維爾利特人民，<hex:02100103>被迫做出了很多痛苦的決定。
-110,TEXT_LUCKYW401_04031_ALLIE_000_107,(-阿莉的信-)我再也不想讓哥哥背負這一切了。<hex:02100103>因為我擁有結束這一切的力量。<hex:02100103>哥哥，還有維爾利特的同胞，都由我來拯救。
-111,TEXT_LUCKYW401_04031_ALLIE_000_108,(-阿莉的信-)所以父親，如果你願意原諒我最後的任性，<hex:02100103>請幫助實現我們兄妹的夙願，建立一個自由的國度。<hex:02100103>請多保重，再見。
-112,TEXT_LUCKYW401_04031_SHADOWHUNTER_000_109,我想阿莉是回到了<hex:02100103>鎮守著維爾利特首都的第七軍團那裡。
-113,TEXT_LUCKYW401_04031_SEVERA_000_110,雖然不知道阿莉具體想幹什麼，<hex:02100103>不過看樣子她心中已經有計劃了。
-114,TEXT_LUCKYW401_04031_SEVERA_000_111,如果她是要駕駛神兵的話，<hex:02100103>那迎接她的恐怕會是和其他兄弟姐妹一樣的命運……
-115,TEXT_LUCKYW401_04031_SEVERA_000_112,蓋烏斯大人是為了拯救阿莉和阿爾豐斯，<hex:02100103>才答應加入臨時政府的吧？！<hex:02100103>現在正是發揮抵抗軍價值之時！我們趕快去追阿莉吧！
-116,TEXT_LUCKYW401_04031_SHADOWHUNTER_000_113,我當然想要拯救他們。<hex:02100103>但我也不能只為了拯救他們兩個<hex:02100103>而將抵抗軍將士的生命置於危險之中。
-117,TEXT_LUCKYW401_04031_SHADOWHUNTER_000_114,他們無論是裝備還是訓練方面都還準備得不夠充分，<hex:02100103>現在和第七軍團交手，定會造成大量犧牲。
-118,TEXT_LUCKYW401_04031_SHADOWHUNTER_000_115,包括英雄也是。<hex:02100103>既然這場戰鬥的意義發生了變化，<hex:02100103>那就不能再尋求更多的幫助了。
-119,TEXT_LUCKYW401_04031_SEVERA_000_116,怎麼這樣！<hex:02100103>蓋烏斯大人是要對阿莉他們見死不救嗎！
-120,TEXT_LUCKYW401_04031_SHADOWHUNTER_000_117,我只是說不能為了救他們而犧牲其他人。<hex:02100103>這也是阿莉信中的真意。
-121,TEXT_LUCKYW401_04031_VALDEAULIN_000_118,(-瓦爾多蘭的聲音-)我是瓦爾多蘭。<hex:02100103>維爾利特首都近郊的軍事據點——帝國丘陵堡有新動向！
-122,TEXT_LUCKYW401_04031_VALDEAULIN_000_119,(-瓦爾多蘭的聲音-)未知的神兵正在大肆破壞，到處都是火光和煙霧！
-123,TEXT_LUCKYW401_04031_SHADOWHUNTER_000_120,怎麼會這樣？<hex:02100103>難道是新型神兵失控了嗎？
-124,TEXT_LUCKYW401_04031_SHADOWHUNTER_000_121,不對……阿莉的信中寫著<hex:02100103>「足以終結一切的力量」……
-125,TEXT_LUCKYW401_04031_SHADOWHUNTER_100_121,我明白了！<hex:02100103>利用不惜犧牲性命完成的究極神兵<hex:02100103>來剷除第七軍團，拯救維爾利特的同胞……
-126,TEXT_LUCKYW401_04031_SHADOWHUNTER_200_121,這就是那些孩子們的計劃嗎！
-127,TEXT_LUCKYW401_04031_SEVERA_200_121,既然城市近郊發生了戰鬥，<hex:02100103>那麼抵抗軍也很有可能藉此機會揭竿而起。
-128,TEXT_LUCKYW401_04031_SEVERA_300_121,不過帝國軍和抵抗軍在戰場上拼殺之時，<hex:02100103>依靠危險系統運作的神兵會如何反應卻是個未知數……<hex:02100103>所以我們現在應該立刻趕去阻止她！
-129,TEXT_LUCKYW401_04031_Q2_000_000,要說什麼？
-130,TEXT_LUCKYW401_04031_A2_000_001,去拯救阿莉和阿爾豐斯吧！
-131,TEXT_LUCKYW401_04031_A2_000_002,要保護所有人
-132,TEXT_LUCKYW401_04031_SHADOWHUNTER_000_123,此次的對手可不只是神兵！<hex:02100103>第七軍團的主力部隊也在嚴陣以待！<hex:02100103>就算你很強，面對如此危險的境地也……
-133,TEXT_LUCKYW401_04031_Q3_000_000,要說什麼？
-134,TEXT_LUCKYW401_04031_A3_000_001,相信我
-135,TEXT_LUCKYW401_04031_A3_000_002,信不過我嗎？
-136,TEXT_LUCKYW401_04031_SHADOWHUNTER_000_125,真是抱歉，那就謝謝你了……<hex:02100103>艾歐澤亞的英雄，我相信你……
-137,TEXT_LUCKYW401_04031_SHADOWHUNTER_000_126,接下來我會向臨時政府進言，<hex:02100103>讓他們將抵抗軍安排在城市附近，<hex:02100103>一邊確認戰鬥的動向，一邊優先保證市民的安全。
-138,TEXT_LUCKYW401_04031_SHADOWHUNTER_100_126,賽維拉，聯繫西德！<hex:02100103>就說我們想借究極戰士G型和用於前往當地的飛空艇……<hex:02100103>只要一準備好，我們就出發前去救出二人！
-139,TEXT_LUCKYW401_04031_SEVERA_000_127,是！
-140,TEXT_LUCKYW401_04031_SHADOWHUNTER_000_128,等你做好戰鬥的準備後，<hex:02100103>就去找加隆德煉鐵廠飛行員吧！
-141,TEXT_LUCKYW401_04031_SYSTEM_000_129,幾小時前 維爾利特·第七軍團長辦公室——
-142,TEXT_LUCKYW401_04031_VALENSVANVARRO_000_130,哎呀哎呀……<hex:02100103>我就知道你一定會回來的。
-143,TEXT_LUCKYW401_04031_VALENSVANVARRO_000_131,不過也不能說是完全確定……<hex:02100103>其實啊，我在你的哥哥身上稍微撒了一下氣。<hex:02100103>希望……希望你一定要原諒我……
-144,TEXT_LUCKYW401_04031_ALLIE_000_132,以前你對我說過，<hex:02100103>迄今為止的神兵都只不過是試驗機，<hex:02100103>目的是將戰鬥經驗儲存到內核中的數據裡。
-145,TEXT_LUCKYW401_04031_VALENSVANVARRO_000_133,沒錯！<hex:02100103>呀，有個記憶力好的部下心情就是舒暢啊！
-146,TEXT_LUCKYW401_04031_VALENSVANVARRO_000_134,紅寶石、藍寶石、綠寶石……<hex:02100103>通過將3個機體收集的蠻神能力和戰鬥經驗融合在一起，<hex:02100103>就可以完成更美、更強、更棒的神兵！
-147,TEXT_LUCKYW401_04031_VALENSVANVARRO_000_135,沒錯！<hex:02100103>製造出鑽石神兵，<hex:02100103>才是我最終的計劃，真正的藝術！
-148,TEXT_LUCKYW401_04031_VALENSVANVARRO_000_136,雖然你們先於蓋烏斯他們<hex:02100103>回收了紅寶石神兵數據……
-149,TEXT_LUCKYW401_04031_VALENSVANVARRO_000_137,但由於那些沒用的廢物小鬼被奪走了機體，<hex:02100103>導致藍寶石神兵和綠寶石神兵數據的回收工作變得極為困難！
-150,TEXT_LUCKYW401_04031_ALLIE_000_138,所以我才會潛伏到蓋烏斯的身邊，<hex:02100103>回收了藍寶石神兵和綠寶石神兵的數據。<hex:02100103>之前已經進行了彙報。
-151,TEXT_LUCKYW401_04031_VALENSVANVARRO_000_139,啊，是這樣呢……<hex:02100103>魔導技師長剛剛已經彙報說<hex:02100103>兩個機體的數據順利地安裝到了鑽石神兵上。
-152,TEXT_LUCKYW401_04031_ALLIE_000_140,還有……你曾經說過，<hex:02100103>等到鑽石神兵完成後，會任命我為第一個駕駛員。<hex:02100103>而且如果我接受的話，你還會釋放哥哥和維爾利特的同胞。
-153,TEXT_LUCKYW401_04031_VALENSVANVARRO_000_141,啊，正是正是！<hex:02100103>你在眾多孤兒當中是最適合當駕駛員的！
-154,TEXT_LUCKYW401_04031_VALENSVANVARRO_000_142,我的神兵使用的是劃時代的系統，<hex:02100103>無論是誰坐上去，都可以像嫻熟的戰士一樣戰鬥……<hex:02100103>但儘管如此，也不代表是個人就能完全發揮它的潛力。
-155,TEXT_LUCKYW401_04031_VALENSVANVARRO_000_143,要想激發人造聖石的真正力量，和它的契合度是非常重要的。<hex:02100103>而且這麼強力的兵器我只能交給忠心耿耿的駕駛員，<hex:02100103>僅憑這些條件，合適的人選就已經很少了……
-156,TEXT_LUCKYW401_04031_ALLIE_000_144,鑽石神兵就由我來駕駛。<hex:02100103>不過口頭保證的忠誠你肯定是不會相信的。<hex:02100103>所以你要給我一些好處，讓我安心給你幹活。
-157,TEXT_LUCKYW401_04031_ALLIE_000_145,除了釋放哥哥和同胞以外，<hex:02100103>你還要給我們帝國市民權和維爾利特的自治權。
-158,TEXT_LUCKYW401_04031_VALENSVANVARRO_000_146,哎呀哎呀哎呀……<hex:02100103>不光是市民權，還想要自治權？<hex:02100103>你覺得我有給你們這些權利的許可權嗎？
-159,TEXT_LUCKYW401_04031_ALLIE_000_147,別裝傻！<hex:02100103>神兵的開發只是手段，並非你的目的。
-160,TEXT_LUCKYW401_04031_ALLIE_000_148,你的最終目的是帶著最強的神兵<hex:02100103>入駐加雷馬帝國首都，彰顯自己的力量。
-161,TEXT_LUCKYW401_04031_ALLIE_000_149,為了建立「瓦倫斯·佐斯·瓦羅的新帝國」，<hex:02100103>我不惜獻上自己的生命，所以這點回饋也是應該的。<hex:02100103>不是嗎？
-162,TEXT_LUCKYW401_04031_VALENSVANVARRO_000_150,哼……哼哼哼哼哼……
-163,TEXT_LUCKYW401_04031_VALENSVANVARRO_000_151,原本還以為你是個純情可愛的少女，沒想到你的野心相當大啊！<hex:02100103>也好，維爾利特這種窮鄉僻壤就給你好了！
-164,TEXT_LUCKYW401_04031_ALLIE_000_152,那我哥哥呢？
-165,TEXT_LUCKYW401_04031_VALENSVANVARRO_000_153,啊……你哥哥啊，叫什麼來著……<hex:02100103>總之我已經把他送到「安全的地方」了。
-166,TEXT_LUCKYW401_04031_VALENSVANVARRO_100_153,不過如果你敢背叛的話會有什麼下場……<hex:02100103>應該不用我明說吧？
-167,TEXT_LUCKYW401_04031_VALENSVANVARRO_000_154,我最喜歡明事理的孩子了！<hex:02100103>好了，坐上鑽石神兵吧！
-168,TEXT_LUCKYW401_04031_VALENSVANVARRO_100_154,瓦倫斯·佐斯·瓦羅的加冕儀式已經近在咫尺了！
-169,TEXT_LUCKYW401_04031_ALLIE_200_154,這樣一來就準備就緒了……<hex:02100103>為了結束一切的準備！！
-170,TEXT_LUCKYW401_04031_ALLIE_300_154,對不起，父親，我背叛了你。<hex:02100103>維爾利特和阿爾豐斯哥哥以後就麻煩你了……
-171,TEXT_LUCKYW401_04031_ALLIE_000_155,啟動人造聖石系統……各檢測器靈敏度良好。<hex:02100103>嗯……運行正常。
-172,TEXT_LUCKYW401_04031_ALLIE_100_155,代號「芝諾斯·耶·加爾烏斯」……<hex:02100103>APW-I-Z「鑽石神兵」啟動。
-173,TEXT_LUCKYW401_04031_VALENSVANVARRO_000_156,我的藝術品……最棒的神兵如何啊！<hex:02100103>感受到壓倒性的美感了嗎？
-174,TEXT_LUCKYW401_04031_ALLIE_000_157,終於等到了這一天……<hex:02100103>為了這一刻，我們兄弟姐妹不惜獻出寶貴的生命……
-175,TEXT_LUCKYW401_04031_ALLIE_100_157,就是為了有朝一日能夠獲得作為「強者」去領導弱者的力量！
-176,TEXT_LUCKYW401_04031_ALLIE_000_159,唔……系統的侵蝕開始了！
-177,TEXT_LUCKYW401_04031_ALLIE_000_160,幸好這個機體沒有讓哥哥來駕駛……<hex:02100103>哥哥一定要活下去，和父親一起創造理想的國度……
-178,TEXT_LUCKYW401_04031_ALLIE_000_161,雖然和計劃稍有出入，<hex:02100103>但為了拯救維爾利特……拯救大家，我選擇獻上生命！
-179,TEXT_LUCKYW401_04031_VALENSVANVARRO_000_158,喂，你在那裡嘀咕什麼呢？
-180,TEXT_LUCKYW401_04031_ALLIE_000_162,鑽石神兵……你的力量我就收下了！<hex:02100103>讓我擁有足以打倒瓦倫斯這種統治者的「強者」的力量！！
-181,TEXT_LUCKYW401_04031_VALENSVANVARRO_000_163,你、你這傢伙……變臉變得可真夠快的！<hex:02100103>但是不要小瞧我瓦倫斯！<hex:02100103>你以為我不會預料到你們行省人會背叛嗎！
-182,TEXT_LUCKYW401_04031_VALENSVANVARRO_000_164,喂！強制停止！
-183,TEXT_LUCKYW401_04031_MECHANIC04031_000_165,明、明白……發送停止代碼！
-184,TEXT_LUCKYW401_04031_ALLIE_000_166,怎麼會這樣？！<hex:02100103>為什麼……快動起來啊！！
-185,TEXT_LUCKYW401_04031_VALENSVANVARRO_000_167,哈……哈哈哈哈哈！<hex:02100103>這個賤人，居然害得我出了一身冷汗！
-186,TEXT_LUCKYW401_04031_VALENSVANVARRO_000_168,喂，稍微弄壞一點機體也沒關係！<hex:02100103>給我把那個骯髒的叛徒從內核裡面拽出來！<hex:02100103>千萬別弄死她哦，我要讓她生不如死！
-187,TEXT_LUCKYW401_04031_ALLIE_000_169,現在如果不動的話，我就沒法為大家報仇了！！<hex:02100103>米莉珊迪雅、利孔、萊克斯，賜予我力量吧……
-188,TEXT_LUCKYW401_04031_ALLIE_000_170,拜託了……救救我……哥哥！
-189,TEXT_LUCKYW401_04031_SYSTEM_000_171,(-人造聖石系統-)嘎嘎……超負荷思維模式……強制啟動……<hex:02100103>將機體的控制……移交給「＊＊＊＊＊＊設備」……
-190,TEXT_LUCKYW401_04031_ALLIE_000_172,超負荷思維模式？！<hex:02100103>我沒聽說過有這種功能！！
-191,TEXT_LUCKYW401_04031_ALLIE_000_173,啊——
-192,TEXT_LUCKYW401_04031_MECHANIC04031_000_174,怎麼搞的！超負荷思維模式居然啟動了？！<hex:02100103>怎麼可能會不受停止代碼的控制！！
-193,TEXT_LUCKYW401_04031_VALENSVANVARRO_000_175,喂！快點想想辦法啊！<hex:02100103>這樣下去我們都會被鑽石神兵……
-194,TEXT_LUCKYW401_04031_SEVERA_000_180,阿莉，為什麼……
-195,TEXT_LUCKYW401_04031_AIRMAN04031_000_200,事情我都已經聽說了。<hex:02100103>我這就去把西德會長找來！
-196,TEXT_LUCKYW401_04031_CID_000_201,最後的神兵似乎出現了啊。
-197,TEXT_LUCKYW401_04031_SHADOWHUNTER_000_202,據前去偵察的瓦爾多蘭帶來的情報稱，<hex:02100103>神兵已經將第七軍團的主力連同基地一起摧毀，<hex:02100103>之後便消失在了空中。
-198,TEXT_LUCKYW401_04031_SHADOWHUNTER_000_203,恐怕駕駛神兵的是阿莉……為了救出他們兄妹二人，<hex:02100103>我想要借究極戰士G型，還有用於趕路的飛空艇一用。<hex:02100103>我也知道此行危險，但還是希望你們可以助我一臂之力。
-199,TEXT_LUCKYW401_04031_CID_000_204,嘿……真沒想到有一天<hex:02100103>你居然會為了救人而有求於我……
-200,TEXT_LUCKYW401_04031_CID_000_205,那我就幫你一回吧。<hex:02100103>不過我這次提供的可不是普通的飛空艇。<hex:02100103>而是我特意為了讓你救出孩子們而準備的殺手鐧。
-201,TEXT_LUCKYW401_04031_AVILINA_100_205,我們又見面了。
-202,TEXT_LUCKYW401_04031_CID_200_205,這個小姑娘曾經在第七軍團<hex:02100103>參與過神兵的調整作業。<hex:02100103>此次她主動提出過來幫忙。
-203,TEXT_LUCKYW401_04031_AVILINA_300_205,在遇見你之後，我才終於了解到，<hex:02100103>正因為我之前參與過神兵系列的開發工作，<hex:02100103>才可以為結束這個悲劇做些什麼……
-204,TEXT_LUCKYW401_04031_AVILINA_400_205,你們此次將要面對的，<hex:02100103>是神兵系列的最後一個機體——鑽石神兵……<hex:02100103>也是被開發團隊稱為「最強神兵」的機體。
-205,TEXT_LUCKYW401_04031_AVILINA_500_205,鑽石神兵被評價為「吞噬神兵的神兵」，<hex:02100103>擁有著吸收其他神兵收集的數據的能力。<hex:02100103>也就是說，它匯聚了其他所有神兵的力量……
-206,TEXT_LUCKYW401_04031_AVILINA_600_205,所以為了阻止鑽石神兵，<hex:02100103>我們也需要新的力量。
-207,TEXT_LUCKYW401_04031_SHADOWHUNTER_700_205,你所說的力量究竟是……
-208,TEXT_LUCKYW401_04031_CID_800_205,好好看著吧……
-209,TEXT_LUCKYW401_04031_CID_900_205,彙集了這個小姑娘對於亡友的思念的究極戰士G型<hex:02100103>究竟是如何進化的！
-210,TEXT_LUCKYW401_04031_CID_000_206,我已經讓它在空中待命了。<hex:02100103>我會用企業號送你們過去，這就出發。
-211,TEXT_LUCKYW401_04031_SHADOWHUNTER_000_207,這是？！
-212,TEXT_LUCKYW401_04031_CID_000_208,為了實現你希望拯救孤兒兄妹的願望，<hex:02100103>我想現在需要的不是破壞，而是將其救出的計策。<hex:02100103>因此我在究極戰士G型上裝備了神兵捕獲裝置。
-213,TEXT_LUCKYW401_04031_CID_000_209,這已經不能稱作戰士了。<hex:02100103>而是拯救生命的救援者……我將其命名為「究極救世者G型」。
-214,TEXT_LUCKYW401_04031_SHADOWHUNTER_000_230,為了拯救我的孩子們……<hex:02100103>請務必助我一臂之力！
-215,TEXT_LUCKYW401_04031_SEVERA_000_231,多虧了你，蓋烏斯大人不再迷茫了。<hex:02100103>謝謝你。
-216,TEXT_LUCKYW401_04031_AIRMAN04031_100_200,由我來負責帶你前往究極救世者G型戰鬥甲板！
-217,TEXT_LUCKYW401_04031_Q10_000_000,要前往究極救世者G型戰鬥甲板嗎？
-218,TEXT_LUCKYW401_04031_GSEMPLOYEE04031_200_200,由我來負責帶你前往究極救世者G型戰鬥甲板！
-219,TEXT_LUCKYW401_04031_SHADOWHUNTER_000_250,究極救世者G型……<hex:02100103>居然還準備了這樣的計策……
-220,TEXT_LUCKYW401_04031_CID_000_251,蓋烏斯，操作就交給你了。<hex:02100103><hex:022903EB0203>就負責在甲板上迎擊神兵，<hex:02100103>削弱其力量以方便捕獲！
-221,TEXT_LUCKYW401_04031_SHADOWHUNTER_000_252,明白。
-222,TEXT_LUCKYW401_04031_SHADOWHUNTER_000_253,<hex:022903EB0203>……<hex:02100103>對方是最後的神兵，想必定會是一場惡戰，<hex:02100103>但為了救出他們兄妹二人，還請你助我一臂之力……
-223,TEXT_LUCKYW401_04031_CID_000_255,等作戰開始後，我會乘坐企業號去別的地方。<hex:02100103>我得再想個計策給大家留條後路。
-224,TEXT_LUCKYW401_04031_SEVERA_000_256,戰鬥開始後，<hex:02100103>我會去支援偵察中的瓦爾多蘭協助他順利返回。<hex:02100103>你也一定要平安歸來啊。
-225,TEXT_LUCKYW401_04031_AVILINA_000_257,英雄，拜託了。<hex:02100103>請一定要去拯救……我朋友的家人……
-226,TEXT_LUCKYW401_04031_SHADOWHUNTER_000_300,操作方式似乎和究極戰士G型一樣。<hex:02100103>不過即便是首次接觸的機體，我也可以輕鬆駕馭。
-227,TEXT_LUCKYW401_04031_SHADOWHUNTER_000_350,鑽石神兵似乎墜落在了維爾利特城區。<hex:02100103>我們也在這裡降落吧。
-228,TEXT_LUCKYW401_04031_SHADOWHUNTER_000_351,這慘狀和我當初侵略這裡時簡直是如出一轍。<hex:02100103>第七軍團的主力應該已經<hex:02100103>都被鑽石神兵給消滅了……
-229,TEXT_LUCKYW401_04031_SHADOWHUNTER_000_352,墜落在了這裡啊……
-230,TEXT_LUCKYW401_04031_SHADOWHUNTER_000_353,阿莉，你沒事吧！
-231,TEXT_LUCKYW401_04031_ALLIE_000_354,啊……唔……
-232,TEXT_LUCKYW401_04031_SHADOWHUNTER_000_355,抱歉，可以麻煩你和西德一起<hex:02100103>把阿莉帶回燕鷗崖嗎？<hex:02100103>我還要留在這裡做些事情……
-233,TEXT_LUCKYW401_04031_SHADOWHUNTER_100_355,鑽石神兵的駕駛員原來是阿莉……<hex:02100103>那阿爾豐斯去哪了？<hex:02100103>看來只能找那個男人打聽了……
-234,TEXT_LUCKYW401_04031_SHADOWHUNTER_000_356,現在只有我一個人了……快點現身吧！
-235,TEXT_LUCKYW401_04031_VALENSVANVARRO_000_357,少得意忘形了……蓋、蓋烏斯！！
-236,TEXT_LUCKYW401_04031_SHADOWHUNTER_000_358,為了完成神兵不惜犧牲士兵生命的設計理念……<hex:02100103>只將自己置於安全的境地，這些都證明了你卑鄙小人的嘴臉。<hex:02100103>因此我才確信，此時此刻的你一定還活著……
-237,TEXT_LUCKYW401_04031_VALENSVANVARRO_000_359,就差一點……就差一點我的計劃就成功了！<hex:02100103>只要擁有了那個力量，奪取皇位簡直是易如反掌！
-238,TEXT_LUCKYW401_04031_VALENSVANVARRO_000_360,可是……可是！<hex:02100103>都是因為你們！
-239,TEXT_LUCKYW401_04031_SHADOWHUNTER_000_361,阿爾豐斯現在何處？
-240,TEXT_LUCKYW401_04031_VALENSVANVARRO_000_362,哼……
-241,TEXT_LUCKYW401_04031_VALENSVANVARRO_100_362,哼哼哼哼……
-242,TEXT_LUCKYW401_04031_VALENSVANVARRO_200_362,哼哼哼哼哼哼！
-243,TEXT_LUCKYW401_04031_VALENSVANVARRO_000_363,你還不明白嗎？<hex:02100103>此時那個小鬼……不就在你眼前嗎……
-244,TEXT_LUCKYW401_04031_SHADOWHUNTER_000_364,到底是怎麼回事……
-245,TEXT_LUCKYW401_04031_VALENSVANVARRO_000_365,哎呀哎呀，真是個遲鈍的傢伙啊……<hex:02100103>那麼為了讓你這個蠢貨也能明白，<hex:02100103>我就簡單地說明一下吧！
-246,TEXT_LUCKYW401_04031_VALENSVANVARRO_100_365,包括綠寶石在內的前幾台試驗機，或許是提取的戰鬥數據存在問題，<hex:02100103>感覺就像是被怨念附身一般，總會有一些不穩定的部分。<hex:02100103>所以為了改善這點，我們嘗試為機體賦予了思考能力。
-247,TEXT_LUCKYW401_04031_VALENSVANVARRO_000_366,沒錯！！<hex:02100103>鑽石神兵上使用的並不是戰鬥數據！
-248,TEXT_LUCKYW401_04031_VALENSVANVARRO_100_366,而是那個臭屁的小鬼的……
-249,TEXT_LUCKYW401_04031_VALENSVANVARRO_200_366,這、裡、啊！
-250,TEXT_LUCKYW401_04031_VALENSVANVARRO_000_367,那個小鬼啊……<hex:02100103>通過我的想法和技術，已經變成了最棒的設備！<hex:02100103>這才是神技，也就是藝術！
-251,TEXT_LUCKYW401_04031_VALENSVANVARRO_100_367,啊哈哈哈哈！<hex:02100103>啊哈哈哈哈哈！！
-252,TEXT_LUCKYW401_04031_VALENSVANVARRO_000_368,不過就是有些對不住那個當妹妹的……<hex:02100103>原本是為了拯救哥哥的性命而坐上了鑽石神兵，<hex:02100103>結果卻在那裡面重逢了！
-253,TEXT_LUCKYW401_04031_VALENSVANVARRO_000_369,原來如此……超負荷思維模式之所以會擅自啟動……<hex:02100103>是哥哥想要保護可愛妹妹的本能作怪啊！<hex:02100103>居然會不聽命令擅自採取行動，看來還需要進一步改良……
-254,TEXT_LUCKYW401_04031_SHADOWHUNTER_000_373,正是因為有你這種惡貫滿盈之輩囂張跋扈，<hex:02100103>我的祖國加雷馬帝國才會不斷地腐朽下去。
-255,TEXT_LUCKYW401_04031_SHADOWHUNTER_000_374,瓦倫斯·範·瓦羅……<hex:02100103>我蓋烏斯·巴埃薩今日要將你就地正法！
-256,TEXT_LUCKYW401_04031_VALENSVANVARRO_000_375,蓋烏斯，難道你忘了嗎？<hex:02100103>你的戰鬥數據還在我手上呢。<hex:02100103>就憑你那老掉牙的劍術，能殺得了我嗎！
-257,TEXT_LUCKYW401_04031_SHADOWHUNTER_100_375,恩惠終結……
-258,TEXT_LUCKYW401_04031_SHADOWHUNTER_200_375,明黃的死亡！
-259,TEXT_LUCKYW401_04031_VALENSVANVARRO_000_376,嗚哇！！
-260,TEXT_LUCKYW401_04031_VALENSVANVARRO_000_377,不、不可能……我的數據裡……明明沒有這個招數！！
-261,TEXT_LUCKYW401_04031_SYSTEM_000_379,(-超負荷思維：阿爾豐斯-)重新啟動人造聖石系統……
-262,TEXT_LUCKYW401_04031_VALENSVANVARRO_100_379,不可能！<hex:02100103>機體應該早就已經到了極限！<hex:02100103>可是、可是……為什麼還能運作？！
-263,TEXT_LUCKYW401_04031_SYSTEM_200_379,(-超負荷思維：阿爾豐斯-)數據，解放……
-264,TEXT_LUCKYW401_04031_VALENSVANVARRO_200_379,呀——
-265,TEXT_LUCKYW401_04031_VALENSVANVARRO_300_379,啊？！<hex:02100103>你、你是？！
-266,TEXT_LUCKYW401_04031_VALENSVANVARRO_400_379,唔……咕……！<hex:02100103>那個……你……叫什麼來著……<hex:02100103>總、總之快把我放了，疼死我了！
-267,TEXT_LUCKYW401_04031_SHADOWHUNTER_500_379,那些孩子們在你那慘無人道的實驗中成為了犧牲品，<hex:02100103>而你卻連他們的名字都記不住……<hex:02100103>真是個敗類！
-268,TEXT_LUCKYW401_04031_VALENSVANVARRO_600_379,敗類？<hex:02100103>曾經攻陷了5個城邦，殺了成千上萬人的你，<hex:02100103>也好意思說我是敗類？
-269,TEXT_LUCKYW401_04031_SHADOWHUNTER_600_379,不論我如何贖罪，<hex:02100103>曾經侵略過各國的過去都是無法改變的。
-270,TEXT_LUCKYW401_04031_SHADOWHUNTER_700_379,所以我決定要背負下去……<hex:02100103>此前被我所奪去的……所有人的未來。
-271,TEXT_LUCKYW401_04031_VALENSVANVARRO_700_379,住……手……快住手啊！
-272,TEXT_LUCKYW401_04031_VALENSVANVARRO_900_379,超越了蓋烏斯的……天才，瓦倫斯·範·瓦羅……<hex:02100103>怎麼可能……會在這裡……
-273,TEXT_LUCKYW401_04031_VALENSVANVARRO_000_378,不能就……這麼結束——
-274,TEXT_LUCKYW401_04031_VALENSVANVARRO_000_379,呀啊……！
-275,TEXT_LUCKYW401_04031_SHADOWHUNTER_000_380,是阿爾豐斯嗎……
-276,TEXT_LUCKYW401_04031_SHADOWHUNTER_000_381,對不起……阿爾豐斯，<hex:02100103>我沒能拯救你……拯救你們。
-277,TEXT_LUCKYW401_04031_SHADOWHUNTER_000_382,但是你們這些兄弟姐妹們的夢想，<hex:02100103>我身為父親……發誓定會替你們實現。<hex:02100103>也請你到那邊之後幫我向米莉珊迪雅、利孔、萊克斯他們傳達。
-278,TEXT_LUCKYW401_04031_ALFONSE_100_383,(-超負荷思維：阿爾豐斯-)父親……<hex:02100103>請將安裝在這個神兵上的記憶體交給阿莉……
-279,TEXT_LUCKYW401_04031_ALFONSE_000_383,(-超負荷思維：阿爾豐斯-)妹妹……就拜託你了……<hex:02100103>所以父親……請把我……
-280,TEXT_LUCKYW401_04031_SHADOWHUNTER_000_384,不要再說了……
-281,TEXT_LUCKYW401_04031_ALFONSE_000_385,謝謝你，父親——<hex:02100103>能夠成為你的孩子——是我的榮幸
-282,TEXT_LUCKYW401_04031_SEVERA_000_400,這樣啊……我明白了。<hex:02100103>請多保重。
-283,TEXT_LUCKYW401_04031_SEVERA_000_401,蓋烏斯大人發來聯絡稱<hex:02100103>他已經將瓦倫斯·範·瓦羅討伐。<hex:02100103>這樣就成功阻止了神兵的開發計劃……
-284,TEXT_LUCKYW401_04031_VALDEAULIN_000_402,也就是說臨時政府的抵抗軍成功拿下了首都。<hex:02100103>雖然如此一來維爾利特就擺脫了帝國的支配，<hex:02100103>但是一想到付出的犧牲，實在是高興不起來……
-285,TEXT_LUCKYW401_04031_SEVERA_000_403,帝國果然還是沒有變……<hex:02100103>只會欺凌、利用、犧牲弱者，<hex:02100103>真是個愚蠢討厭的國家！
-286,TEXT_LUCKYW401_04031_VALDEAULIN_000_404,當初在失去了妻子和孩子之後，<hex:02100103>我曾陷入了深深的悲痛之中，止步不前。
-287,TEXT_LUCKYW401_04031_VALDEAULIN_000_405,雖說那些孩子不是親生的，但在他們犧牲之後，<hex:02100103>相信蓋烏斯在很長一段時間內會和當初的我一樣。<hex:02100103>但即使如此，誰又能責怪他呢……
-288,TEXT_LUCKYW401_04031_VALDEAULIN_000_410,蓋烏斯沒事吧……
+0,"TEXT_LUCKYW401_04031_SEQ_00","The Resistance troops have received intriguing information from Werlyt."
+1,"TEXT_LUCKYW401_04031_SEQ_01","Shortly after arriving in Porta Praetoria, you are met by M'naago, who is there on official business. She explains that the newly formed Werlyt Revolutionaries have petitioned the Ala Mhigan Resistance for aid, and that they have elected Gaius Baelsar, their former conqueror, to lead them. Though M'naago has been ordered to travel to Terncliff to meet with representatives from Werlyt, she would feel a lot less anxious about coming face-to-face with the erstwhile Black Wolf himself if you were to accompany her."
+2,"TEXT_LUCKYW401_04031_SEQ_02","Once more, you are provided with an escort on the long journey to Terncliff. Though you have traveled this route on several occasions, it is M'naago's first visit to this remote territory, and she finds the quaint seaside town a welcome change from the arid deserts she calls home."
+3,"TEXT_LUCKYW401_04031_SEQ_03","You and M'naago meet as planned with Gaius and the representatives of the Werlyt Revolutionaries. Once the necessary arms and supplies have been delivered, the long-awaited confrontation with the occupying imperial forces can commence. However, Severa urges Gaius to expedite heretofore unmentioned plans, prompting Gaius to speak with you in private."
+4,"TEXT_LUCKYW401_04031_SEQ_04","According to the letter left by Allie, she has made her way to the VIIth Legion headquarters in Werlyt to rescue her brother Alfonse. Though she makes only vague hints as to how she might achieve this, Gaius is certain that she intends to claim the final Weapon for herself and overthrow Valens van Varro. Severa suggests using the full force of the Revolutionaries to march on Werlyt to save Allie and Alfonse, but Gaius is adamant that he cannot rush in unprepared and place the Revolutionaries in jeopardy. You receive an urgent communication from Valdeaulin in Werlyt, who has witnessed what appears to be an unknown Weapon going on a wild rampage and laying waste to the VIIth Legion. Gaius assumes that the pilot is most likely Allie, and he decides to leave at once for Werlyt in the hope of saving her and Alfonse."
+5,"TEXT_LUCKYW401_04031_SEQ_05","With the help of your acquaintance Avilina, and no small amount of foresight, Cid has equipped the G-Warrior with a range of armaments designed to pursue and capture the Weapon. So profound are the changes made to the Allagan warmachina that Cid has renamed it the G-Savior. If all goes according to plan, it will live up to its new moniker."
+6,"TEXT_LUCKYW401_04031_SEQ_06","Unlike the G-Warrior, the G-Savior requires not one but two people to operate it. As Gaius has prior experience with the similarly built Ultima Weapon, he is chosen as the main pilot, while you are placed in charge of the various offensive and defensive systems. The success of the mission will depend on your ability to coordinate your movements and master the complexities of this enormous warmachina in a short span of time.<hex:02100103><hex:02100103>※The Cloud Deck can be accessed via the Duty Finder."
+7,"TEXT_LUCKYW401_04031_SEQ_07","Through your combined efforts, you and Gaius were able to quell the rampaging Diamond Weapon. The containment field designed to hold the target captive unfortunately malfunctions, sending the warmachina crashing to the ground below. If luck is on your side─or more importantly, Allie's side─the Weapon itself will have protected the pilot from the fall."
+8,"TEXT_LUCKYW401_04031_SEQ_08","Miraculously, Allie has survived the impact, and you arrive to find her staggering free from the wreckage. Gaius requests that you take Allie to safety while he attends to unfinished business, and he calls Valens out from his hiding place for a final confrontation. Valens goads him by claiming that Alfonse has already been fused with the core of the Diamond Weapon, which only serves to steel Gaius's resolve. After a brief clash, it is Gaius who is left standing. The Diamond Weapon suddenly reactivates and takes Valens in its grasp, squeezing the very life from its creator. Alfonse has at least exacted his revenge, but his transformation is irreversible. Gaius bids his son farewell before plunging his sword into the core, putting Alfonse out of his misery."
+9,"TEXT_LUCKYW401_04031_SEQ_09","Back in Terncliff, you meet with Severa and Valdeaulin. Though Werlyt has been liberated and the Weapon project laid to rest, Gaius's companions still have their doubts as to what the future holds."
+10,"TEXT_LUCKYW401_04031_SEQ_10",""
+11,"TEXT_LUCKYW401_04031_SEQ_11",""
+12,"TEXT_LUCKYW401_04031_SEQ_12",""
+13,"TEXT_LUCKYW401_04031_SEQ_13",""
+14,"TEXT_LUCKYW401_04031_SEQ_14",""
+15,"TEXT_LUCKYW401_04031_SEQ_15",""
+16,"TEXT_LUCKYW401_04031_SEQ_16",""
+17,"TEXT_LUCKYW401_04031_SEQ_17",""
+18,"TEXT_LUCKYW401_04031_SEQ_18",""
+19,"TEXT_LUCKYW401_04031_SEQ_19",""
+20,"TEXT_LUCKYW401_04031_SEQ_20",""
+21,"TEXT_LUCKYW401_04031_SEQ_21",""
+22,"TEXT_LUCKYW401_04031_SEQ_22",""
+23,"TEXT_LUCKYW401_04031_SEQ_23",""
+24,"TEXT_LUCKYW401_04031_TODO_00","Speak with the Resistance escort."
+25,"TEXT_LUCKYW401_04031_TODO_01","Speak with Gaius."
+26,"TEXT_LUCKYW401_04031_TODO_02","Speak with Gaius again."
+27,"TEXT_LUCKYW401_04031_TODO_03","Speak with the Ironworks pilot."
+28,"TEXT_LUCKYW401_04031_TODO_04","Speak with Gaius."
+29,"TEXT_LUCKYW401_04031_TODO_05","Confront the Diamond Weapon on the Cloud Deck."
+30,"TEXT_LUCKYW401_04031_TODO_06","Speak with Gaius."
+31,"TEXT_LUCKYW401_04031_TODO_07","Speak with Severa."
+32,"TEXT_LUCKYW401_04031_TODO_08",""
+33,"TEXT_LUCKYW401_04031_TODO_09",""
+34,"TEXT_LUCKYW401_04031_TODO_10",""
+35,"TEXT_LUCKYW401_04031_TODO_11",""
+36,"TEXT_LUCKYW401_04031_TODO_12",""
+37,"TEXT_LUCKYW401_04031_TODO_13",""
+38,"TEXT_LUCKYW401_04031_TODO_14",""
+39,"TEXT_LUCKYW401_04031_TODO_15",""
+40,"TEXT_LUCKYW401_04031_TODO_16",""
+41,"TEXT_LUCKYW401_04031_TODO_17",""
+42,"TEXT_LUCKYW401_04031_TODO_18",""
+43,"TEXT_LUCKYW401_04031_TODO_19",""
+44,"TEXT_LUCKYW401_04031_TODO_20",""
+45,"TEXT_LUCKYW401_04031_TODO_21",""
+46,"TEXT_LUCKYW401_04031_TODO_22",""
+47,"TEXT_LUCKYW401_04031_TODO_23",""
+48,"TEXT_LUCKYW401_04031_RESISTANCEOFFICER_000_001","I wasn't expecting to see you here, considering all that's been happening about Eorzea of late. Still, if you've a mind to assist us, we'd like to share the latest developments in Werlyt."
+49,"TEXT_LUCKYW401_04031_RESISTANCEOFFICER_000_002","You've come at the right time. There've been some developments in Werlyt we'd like to share with you."
+50,"TEXT_LUCKYW401_04031_RESISTANCEOFFICER_000_003","And as luck would have it, here comes the ideal person to explain the situation."
+51,"TEXT_LUCKYW401_04031_MNAAGO_000_004","(-???-)Thanks. I'll take it from here."
+52,"TEXT_LUCKYW401_04031_MNAAGO_000_005","(-???-)I'm glad to see you looking so well, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>."
+53,"TEXT_LUCKYW401_04031_Q1_000_000","What will you say?"
+54,"TEXT_LUCKYW401_04031_A1_000_001","It's been too long, M'naago!"
+55,"TEXT_LUCKYW401_04031_A1_000_002","It's been too long, M'zhet!"
+56,"TEXT_LUCKYW401_04031_A1_000_003","Have we met?"
+57,"TEXT_LUCKYW401_04031_MNAAGO_000_007","Yes, it certainly has! I haven't seen you around Rhalgr's Reach much lately. Anyone would think you're trying to avoid me..."
+58,"TEXT_LUCKYW401_04031_MNAAGO_000_008","That attention-seeking imbecile who stinks of gunpowder?"
+59,"TEXT_LUCKYW401_04031_MNAAGO_000_009","Hmph! Of all the people to be mistaken for! Even as a joke, that stings, you know!"
+60,"TEXT_LUCKYW401_04031_MNAAGO_000_010","Oh, just on a few dozen occasions. Perhaps you're suffering from amnesia? If so, I hear there's no better remedy than a quick smack to the head..."
+61,"TEXT_LUCKYW401_04031_MNAAGO_000_011","But as much as I'd love to stand around chatting, I'm afraid I've got some serious business to discuss."
+62,"TEXT_LUCKYW401_04031_MNAAGO_000_012","Following the liberation of Terncliff, it seems the people of Werlyt also have their hearts set on freeing themselves from the grip of the Empire."
+63,"TEXT_LUCKYW401_04031_MNAAGO_000_013","Like-minded citizens have rallied under the banner of the Werlyt Revolutionaries, and they aim to depose the VIIth Legion that currently occupies the city."
+64,"TEXT_LUCKYW401_04031_MNAAGO_000_014","Their ranks include many former conscripts, and between them, they possess no small amount of combat experience. The only thing they lack is someone to lead them."
+65,"TEXT_LUCKYW401_04031_MNAAGO_000_015","After much consideration, they decided to turn to none other than Gaius Baelsar. Of course, many would balk at the thought of turning to a former enemy─and many did─but desperate times call for desperate measures."
+66,"TEXT_LUCKYW401_04031_MNAAGO_000_016","His reputation as a legatus speaks for itself, and as most Ala Mhigans will attest, he was a far more reasonable and pragmatic leader than his predecessor the mad king Theodoric, or his successor Zenos, for that matter."
+67,"TEXT_LUCKYW401_04031_MNAAGO_100_016","But most importantly, he was the one who led the invasion of Werlyt in the first place, so who better than him to take it back? After accepting their offer, he requested the delivery of additional arms and provisions from the Ala Mhigan Resistance."
+68,"TEXT_LUCKYW401_04031_MNAAGO_000_017","We've got our hands full dealing with the Telophoroi, as do the rest of our allies in Eorzea, but we'll do what we can."
+69,"TEXT_LUCKYW401_04031_MNAAGO_000_018","While my comrades see to the preparations, I've been assigned to meet with him in person."
+70,"TEXT_LUCKYW401_04031_MNAAGO_000_019","Not that we have much to spare at present, but we'll do what we can. While my comrades see to the preparations, I've been assigned to meet with him in person."
+71,"TEXT_LUCKYW401_04031_MNAAGO_000_020","I was wondering...could you accompany me to Terncliff? "
+72,"TEXT_LUCKYW401_04031_MNAAGO_000_021","Thanks, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! To be perfectly honest, coming face-to-face with the Black Wolf is a rather daunting prospect, even if he has supposedly turned over a new leaf. But I'm sure having you there will make a world of difference!"
+73,"TEXT_LUCKYW401_04031_MNAAGO_000_022","I believe you're acquainted with our escort, yes? Let him know when you're ready to get going."
+74,"TEXT_LUCKYW401_04031_CONVEYOR03783_000_030","Another trip to Terncliff, is it?"
+75,"TEXT_LUCKYW401_04031_Q9_000_000","Travel to Terncliff?"
+76,"TEXT_LUCKYW401_04031_MNAAGO_000_050","Ah...Gaius Baelsar, I presume?"
+77,"TEXT_LUCKYW401_04031_MNAAGO_000_051","I come bearing the Ala Mhigan Resistance's official reply to your request for aid."
+78,"TEXT_LUCKYW401_04031_SHADOWHUNTER_000_052","I see... You have my thanks."
+79,"TEXT_LUCKYW401_04031_HIGHOFFICIAL3783_000_053","Does this mean we can finally make our move?"
+80,"TEXT_LUCKYW401_04031_SHADOWHUNTER_000_054","With the assistance of the Ala Mhigans, we will soon have sufficient arms at our disposal to stand a chance at victory. But lest we forget, the VIIth Legion has been conserving its strength thus far, and we must be prepared for severe casualties should its full might be brought to bear."
+81,"TEXT_LUCKYW401_04031_SOLDIER3783_000_055","If our lives must be the price of freedom, we will pay it willingly."
+82,"TEXT_LUCKYW401_04031_MNAAGO_000_056","Let me be clear. We Ala Mhigans have not forgotten that it was <hex:021A020203>you<hex:021A020103> who led the invasion of our homeland. The blood of our fallen loved ones is on your hands."
+83,"TEXT_LUCKYW401_04031_MNAAGO_000_057","Even so, the people of Werlyt chose you to lead the revolution, and we will honor their decision. I only hope they will not come to regret it."
+84,"TEXT_LUCKYW401_04031_SHADOWHUNTER_000_058","As do I."
+85,"TEXT_LUCKYW401_04031_SHADOWHUNTER_100_058","Should I be found unworthy of their trust, I shall submit to their judgment and whatever that may entail."
+86,"TEXT_LUCKYW401_04031_HIGHOFFICIAL3783_000_059","Forgive me, but might we return to the task at hand? First, I would like to discuss the transportation of supplies from Ala Mhigo."
+87,"TEXT_LUCKYW401_04031_HIGHOFFICIAL3783_000_060","This way, if you please."
+88,"TEXT_LUCKYW401_04031_SHADOWHUNTER_000_061","Once again, I prepare to lead an army into Werlyt. The irony is not lost on me."
+89,"TEXT_LUCKYW401_04031_SHADOWHUNTER_000_062","It is a cruel twist of fate that these people─so desperate from years of oppression─should turn to their conqueror for salvation."
+90,"TEXT_LUCKYW401_04031_SHADOWHUNTER_000_063","For most of my life, I believed that only the Empire possessed the strength and wisdom to lead mankind. That only through great sacrifice could civilization hope to thrive."
+91,"TEXT_LUCKYW401_04031_SHADOWHUNTER_000_064","And so I led the conquest of Eorzea, forcing the doctrine of Garlemald upon the “ignorant and uncivilized.” In every territory, I sought out those with the potential for greatness, without regard for one's birth or circumstances, that they may serve the Empire."
+92,"TEXT_LUCKYW401_04031_SHADOWHUNTER_000_065","But there are those such as Valens who see being born Garlean a virtue in itself, one above all others. To think that a monster such as him should be granted the position of legatus and everything that entails... It makes my blood boil."
+93,"TEXT_LUCKYW401_04031_SHADOWHUNTER_000_066","Valens brings shame upon our homeland, and makes mock of the ideals it once stood for. By my hand, he shall pay for his foul crimes."
+94,"TEXT_LUCKYW401_04031_SEVERA_000_067","We are running out of time, Gaius. We have to go after her!"
+95,"TEXT_LUCKYW401_04031_SHADOWHUNTER_100_067","..."
+96,"TEXT_LUCKYW401_04031_SHADOWHUNTER_000_068","There is something I would show you, but not here. Come with me."
+97,"TEXT_LUCKYW401_04031_MNAAGO_000_070","I know it's an important mission and all, but it's been so long since I've traveled outside of Gyr Abania, a change of scene will do me good. As long as I try not to think about Gaius Baelsar along the way, I'm sure it'll be a pleasant journey."
+98,"TEXT_LUCKYW401_04031_CONVEYOR03783_000_075","We'll all be praying for your safe return, although I expect you'll be perfectly fine even without divine intervention!"
+99,"TEXT_LUCKYW401_04031_HIGHOFFICIAL3783_000_080","Many of my comrades were dead against having Gaius Baelsar of all people lead the charge, but as I always say, “If you want a job done properly, hire a professional.” After all, he's already conquered Werlyt once, so I'm certain he'll be just as successful a second time!"
+100,"TEXT_LUCKYW401_04031_SOLDIER3783_000_085","It's been a long time coming, but finally, Werlyt will throw off the shackles of imperial rule!"
+101,"TEXT_LUCKYW401_04031_CONVEYOR03783_000_090","On your way back to Terncliff, eh?"
+102,"TEXT_LUCKYW401_04031_Q11_000_000","Travel to Terncliff?"
+103,"TEXT_LUCKYW401_04031_SYSTEM_000_100",""
+104,"TEXT_LUCKYW401_04031_SYSTEM_000_101",""
+105,"TEXT_LUCKYW401_04031_SYSTEM_100_101",""
+106,"TEXT_LUCKYW401_04031_SHADOWHUNTER_000_103","You must keep this to yourself. I do not want the soldiers to think I am being distracted by personal matters."
+107,"TEXT_LUCKYW401_04031_SHADOWHUNTER_000_104","This letter was found in her room."
+108,"TEXT_LUCKYW401_04031_ALLIE_000_105","(-Allie's Letter-)<hex:021A020203>Dear Father,<hex:02100103>I am sorry for leaving without saying good-bye, but the thought of Alfonse suffering alone is more than I can bear.<hex:021A020103>"
+109,"TEXT_LUCKYW401_04031_ALLIE_000_106","(-Allie's Letter-)<hex:021A020203>For his sake, and for the freedom of Werlyt, I have decided to take matters into my own hands.<hex:021A020103>"
+110,"TEXT_LUCKYW401_04031_ALLIE_000_107","(-Allie's Letter-)<hex:021A020203>I know of a way to save them, a way to end it all. I have to seize this chance before it is too late. My mind is set. Please, do not try to stop me, Father.<hex:021A020103>"
+111,"TEXT_LUCKYW401_04031_ALLIE_000_108","(-Allie's Letter-)<hex:021A020203>The days we spent together were the happiest of my life, and no matter what happens, nothing can take that away from me.<hex:02100103>With all my love,<hex:02100103>Allie<hex:021A020103>"
+112,"TEXT_LUCKYW401_04031_SHADOWHUNTER_000_109","She is heading for the VIIth Legion's stronghold in Werlyt. I am certain of it."
+113,"TEXT_LUCKYW401_04031_SEVERA_000_110","Taking matters into her own hands..."
+114,"TEXT_LUCKYW401_04031_SEVERA_000_111","She must be planning to take control of one of the Weapons."
+115,"TEXT_LUCKYW401_04031_SEVERA_000_112","If so, there's no time to waste! We have to mobilize our forces and save Allie and Alfonse!"
+116,"TEXT_LUCKYW401_04031_SHADOWHUNTER_000_113","I want nothing more than to save them, but I cannot ask the Werlyt Revolutionaries to risk their lives to rescue two imperial soldiers."
+117,"TEXT_LUCKYW401_04031_SHADOWHUNTER_000_114","In any case, if we were to rush into battle without adequate preparation, the VIIth Legion would tear our partisan army to shreds."
+118,"TEXT_LUCKYW401_04031_SHADOWHUNTER_000_115","And as capable a warrior as <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> is, if <hex:02080CE905FF04>she<hex:FF03>he<hex:03> were to charge headlong into the heart of the enemy, <hex:02080CE905FF04>she<hex:FF03>he<hex:03> would be overwhelmed by sheer numbers."
+119,"TEXT_LUCKYW401_04031_SEVERA_000_116","But if we don't do something, Allie and Alfonse are as good as dead!"
+120,"TEXT_LUCKYW401_04031_SHADOWHUNTER_000_117","I know, Severa. And so did Allie when she wrote that letter. Returning alive was never part of her plan."
+121,"TEXT_LUCKYW401_04031_VALDEAULIN_000_118","(-Valdeaulin-)Can you hear me? I'm in Werlyt, just outside Castrum Collinum. All hells have broken loose!"
+122,"TEXT_LUCKYW401_04031_VALDEAULIN_000_119","(-Valdeaulin-)There was an enormous explosion, and through the smoke and flames, I saw what appeared to be another Weapon! At this rate, the entire─<KRRRZZZT>"
+123,"TEXT_LUCKYW401_04031_SHADOWHUNTER_000_120","Confound it─we have lost the signal."
+124,"TEXT_LUCKYW401_04031_SHADOWHUNTER_000_121","This must be what Allie spoke of in her letter...a way to end it all."
+125,"TEXT_LUCKYW401_04031_SHADOWHUNTER_100_121","Alfonse and the others were planning this from the beginning."
+126,"TEXT_LUCKYW401_04031_SHADOWHUNTER_200_121","To bring the Weapon project to completion and use it to free Werlyt from the Empire, even at the cost of their own lives."
+127,"TEXT_LUCKYW401_04031_SEVERA_200_121","If the Revolutionaries were to hear that a Weapon has been unleashed upon the imperial headquarters, they would see it as the perfect opportunity to strike."
+128,"TEXT_LUCKYW401_04031_SEVERA_300_121","If it's running amok, it may not distinguish between our allies and the imperials. A large force would draw too much attention, but the three of us should be able to get close enough without it noticing us!"
+129,"TEXT_LUCKYW401_04031_Q2_000_000","What will you say?"
+130,"TEXT_LUCKYW401_04031_A2_000_001","Yes, that should work!"
+131,"TEXT_LUCKYW401_04031_A2_000_002","Between us, we'll find a way to save them!"
+132,"TEXT_LUCKYW401_04031_SHADOWHUNTER_000_123","I cannot allow it. This is my burden to bear, and I shall bear it alone."
+133,"TEXT_LUCKYW401_04031_Q3_000_000","What will you say?"
+134,"TEXT_LUCKYW401_04031_A3_000_001","Rest assured, I have every intention of making it out alive."
+135,"TEXT_LUCKYW401_04031_A3_000_002","I'll have you know my record for surviving dangerous missions is impeccable. So far."
+136,"TEXT_LUCKYW401_04031_SHADOWHUNTER_000_125","...Very well."
+137,"TEXT_LUCKYW401_04031_SHADOWHUNTER_000_126","For the time being, I will have the Revolutionaries stand by and await my signal. An opportunity to reclaim Werlyt may yet present itself, but we must first be allowed to remove the threat of this new Weapon."
+138,"TEXT_LUCKYW401_04031_SHADOWHUNTER_100_126","Severa, have Cid ready the G-Warrior."
+139,"TEXT_LUCKYW401_04031_SEVERA_000_127","Understood!"
+140,"TEXT_LUCKYW401_04031_SHADOWHUNTER_000_128","Once your preparations are complete, let us reconvene outside the hangar."
+141,"TEXT_LUCKYW401_04031_SYSTEM_000_129","Some time earlier, in the VIIth Legion's Werlyt headquarters..."
+142,"TEXT_LUCKYW401_04031_VALENSVANVARRO_000_130","How wonderful it is to see you again, my dear! I was beginning to think that you weren't coming back."
+143,"TEXT_LUCKYW401_04031_VALENSVANVARRO_000_131","In my impatience, I may have vented my frustrations on that brother of yours. I do hope you'll forgive me..."
+144,"TEXT_LUCKYW401_04031_ALLIE_000_132","Lord Valens, you mentioned before that the previous Weapons were merely prototypes used to gather combat data within their cores."
+145,"TEXT_LUCKYW401_04031_VALENSVANVARRO_000_133","Yes, very good! I see you were paying attention after all!"
+146,"TEXT_LUCKYW401_04031_VALENSVANVARRO_000_134","Ruby, Sapphire, Emerald... The primals they absorbed and the data they accumulated will serve a singular purpose..."
+147,"TEXT_LUCKYW401_04031_VALENSVANVARRO_000_135","...the completion of my masterpiece, the Diamond Weapon!"
+148,"TEXT_LUCKYW401_04031_VALENSVANVARRO_000_136","But while you and your siblings were able to retrieve the necessary data from the Ruby Weapon before Gaius and his lackeys arrived..."
+149,"TEXT_LUCKYW401_04031_VALENSVANVARRO_000_137","...Sapphire and Emerald were handed to the enemy on a silver platter! Those worthless curs failed to meet even my exceedingly low expectations!"
+150,"TEXT_LUCKYW401_04031_ALLIE_000_138","As detailed in my report, I took it upon myself to infiltrate Gaius Baelsar's band of rebels and reclaim the data."
+151,"TEXT_LUCKYW401_04031_VALENSVANVARRO_000_139","Yes, you have done well, my dear. My engineers have already finished feeding it to the Diamond Weapon."
+152,"TEXT_LUCKYW401_04031_ALLIE_000_140","Then all that remains is for me to assume my role as its pilot, and for you to release my brother and the rest of our compatriots, as per our agreement."
+153,"TEXT_LUCKYW401_04031_VALENSVANVARRO_000_141","Of course, of course! A handful of savages is a small price to pay for your remarkable talents."
+154,"TEXT_LUCKYW401_04031_VALENSVANVARRO_000_142","Even though the Weapon project's revolutionary technology allows even an untrained pilot to fight with the skills of a veteran soldier, only the truly gifted can draw out the full potential of the synthetic auracite."
+155,"TEXT_LUCKYW401_04031_VALENSVANVARRO_000_143","In addition to their physical attributes and combat prowess, I require unwavering loyalty before I can even consider entrusting a candidate with one of my creations. And you...are everything I desire."
+156,"TEXT_LUCKYW401_04031_ALLIE_000_144","I am honored that you regard me so highly, Lord Valens. However, in return for my continued cooperation, I wish to propose an extra condition to our arrangement."
+157,"TEXT_LUCKYW401_04031_ALLIE_000_145","I request that the people of Werlyt be given full imperial citizenship and the right to self-govern."
+158,"TEXT_LUCKYW401_04031_VALENSVANVARRO_000_146","My, my! How very bold of you. And quite astute, at that. Yes, I could grant the people of Werlyt citizenship, if I so desired. Unfortunately, a mere legatus such as myself is in no position to simply relinquish control of imperial territory on a whim."
+159,"TEXT_LUCKYW401_04031_ALLIE_000_147","Come now. We both know that the Weapons are but a means to an end."
+160,"TEXT_LUCKYW401_04031_ALLIE_000_148","Your true intent is to march on the capital and claim it for yourself, correct?"
+161,"TEXT_LUCKYW401_04031_ALLIE_000_149","Once you have taken the throne, one small territory would seem a fair reward for those who played a vital role in the ascension of Emperor Valens."
+162,"TEXT_LUCKYW401_04031_VALENSVANVARRO_000_150","Heh... Hehehehehe..."
+163,"TEXT_LUCKYW401_04031_VALENSVANVARRO_000_151","I say! For someone so sweet and innocent, you certainly drive a hard bargain! Very well, if it's Werlyt you want, it's yours! I'll soon have no need for this stinking backwater province anyway!"
+164,"TEXT_LUCKYW401_04031_ALLIE_000_152","And what about my brother?"
+165,"TEXT_LUCKYW401_04031_VALENSVANVARRO_000_153","Ah yes, Allwick. Or was it Alfred? Whatever his name is, you needn't worry. I've made special arrangements for him."
+166,"TEXT_LUCKYW401_04031_VALENSVANVARRO_100_153","He'll be perfectly safe...provided you uphold your side of the agreement."
+167,"TEXT_LUCKYW401_04031_VALENSVANVARRO_000_154","Excellent! Now, let's get you aboard the Diamond Weapon, shall we?"
+168,"TEXT_LUCKYW401_04031_VALENSVANVARRO_100_154","Ah... One step closer to my coronation!"
+169,"TEXT_LUCKYW401_04031_ALLIE_200_154","This is the moment I've been waiting for!"
+170,"TEXT_LUCKYW401_04031_ALLIE_300_154","...I know this isn't what Father would've wanted, but it's the only way. Please, forgive me."
+171,"TEXT_LUCKYW401_04031_ALLIE_000_155","Initiating the synthetic auracite system. All sensors activated.<hex:02100103>...So far, so good."
+172,"TEXT_LUCKYW401_04031_ALLIE_100_155","Diamond Weapon, code name “Zenos.” Commencing activation sequence."
+173,"TEXT_LUCKYW401_04031_VALENSVANVARRO_000_156","Behold perfection itself!"
+174,"TEXT_LUCKYW401_04031_ALLIE_000_157","Milisandia, Ricon, and Rex gave their lives..."
+175,"TEXT_LUCKYW401_04031_ALLIE_100_157","...that others may live without fear!"
+176,"TEXT_LUCKYW401_04031_ALLIE_000_159","Nnngh... The auracite is taking hold..."
+177,"TEXT_LUCKYW401_04031_ALLIE_000_160","I'm just glad that you didn't have to go through this, Alfonse... But you'll have to go on without me. You and Father still must work together to─ Aaagh!"
+178,"TEXT_LUCKYW401_04031_ALLIE_000_161","...I'm sorry I can't be there at your side. This is...the only way!"
+179,"TEXT_LUCKYW401_04031_VALENSVANVARRO_000_158","What's that, my dear? Is something the matter?"
+180,"TEXT_LUCKYW401_04031_ALLIE_000_162","The Diamond Weapon is mine! Your tyranny ends here, Valens!"
+181,"TEXT_LUCKYW401_04031_VALENSVANVARRO_000_163","Lowborn filth! If you think your little performance had me fooled, you are sorely mistaken!"
+182,"TEXT_LUCKYW401_04031_VALENSVANVARRO_000_164","What are you waiting for!? Shut it down!"
+183,"TEXT_LUCKYW401_04031_MECHANIC04031_000_165","Y-Yes, my lord! Transmitting deactivation signal!"
+184,"TEXT_LUCKYW401_04031_ALLIE_000_166","Ungh... It's not responding!"
+185,"TEXT_LUCKYW401_04031_VALENSVANVARRO_000_167","Ha...hahahaha! That insolent whelp had me worried for a moment!"
+186,"TEXT_LUCKYW401_04031_VALENSVANVARRO_000_168","Bring her to me alive, even if it means damaging the machine! When I am through with her, she will beg for death..."
+187,"TEXT_LUCKYW401_04031_ALLIE_000_169","No...I can't let it end like this! Milisandia, Ricon, Rex, guide my hand!"
+188,"TEXT_LUCKYW401_04031_ALLIE_000_170","Alfonse...wherever you are, lend me your strength!"
+189,"TEXT_LUCKYW401_04031_SYSTEM_000_171","(-Synthetic Auracite System-)BZZZT... Combat sample...BZZZT...ready.<hex:02100103>Initiating Overmind... Subject name: BZZZT..."
+190,"TEXT_LUCKYW401_04031_ALLIE_000_172","Overmind? What is <hex:021A020203>that<hex:021A020103>!?"
+191,"TEXT_LUCKYW401_04031_ALLIE_000_173","Aaaaaahhh!"
+192,"TEXT_LUCKYW401_04031_MECHANIC04031_000_174","This can't be! It's ignoring the shutdown signal and initiating Overmind! But how!?"
+193,"TEXT_LUCKYW401_04031_VALENSVANVARRO_000_175","I don't care how! Stop that thing before it brings down the whole castrum!"
+194,"TEXT_LUCKYW401_04031_SEVERA_000_180","Why did Allie have to keep this all a secret? We could have helped her!"
+195,"TEXT_LUCKYW401_04031_AIRMAN04031_000_200","Ready to depart? I'll send for Master Garlond."
+196,"TEXT_LUCKYW401_04031_CID_000_201","We all expected another Weapon to appear sooner or later, but not quite like this."
+197,"TEXT_LUCKYW401_04031_SHADOWHUNTER_000_202","According to Valdeaulin, after it finished laying waste to the headquarters of the VIIth Legion, it took to the sky."
+198,"TEXT_LUCKYW401_04031_SHADOWHUNTER_000_203","Though this has dealt a massive blow to the imperial forces, I am certain that Allie is on board the Weapon. It must be halted before she comes to harm, and for that, I need the G-Warrior and airships to transport it."
+199,"TEXT_LUCKYW401_04031_CID_000_204","I see that one thing hasn't changed since your days as the Black Wolf: your penchant for gigantic warmachina."
+200,"TEXT_LUCKYW401_04031_CID_000_205","But if this means the G-Warrior has another chance to shine, I'd be happy to oblige. Only this time, rather than having it unceremoniously towed by airships, I have a more dynamic entrance in mind."
+201,"TEXT_LUCKYW401_04031_AVILINA_100_205","It's good to see you again, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>."
+202,"TEXT_LUCKYW401_04031_CID_200_205","From what I hear, we have you to thank for Avilina volunteering to help the Ironworks. Since she joined the team, our work has come on leaps and bounds."
+203,"TEXT_LUCKYW401_04031_AVILINA_300_205","I'm just grateful for the opportunity to finally put my knowledge and skills to good use."
+204,"TEXT_LUCKYW401_04031_AVILINA_400_205","And as far as I can tell, your target is the Diamond Weapon, the most powerful of them all."
+205,"TEXT_LUCKYW401_04031_AVILINA_500_205","What's worse, its design incorporates all of the combat data and abilities of the other Weapons, making it far more formidable than those you encountered before."
+206,"TEXT_LUCKYW401_04031_AVILINA_600_205","Thankfully, we've had time to prepare for such an occasion."
+207,"TEXT_LUCKYW401_04031_SHADOWHUNTER_700_205","Would you care to elaborate?"
+208,"TEXT_LUCKYW401_04031_CID_800_205","Let me put it like this..."
+209,"TEXT_LUCKYW401_04031_CID_900_205","Thanks to Avilina's tireless dedication, the G-Warrior has been reborn!"
+210,"TEXT_LUCKYW401_04031_CID_000_206","But there'll be time to explain more on the way. Come on, the <hex:021A020203>Enterprise<hex:021A020103> is waiting."
+211,"TEXT_LUCKYW401_04031_SHADOWHUNTER_000_207","Very impressive, but may I ask what purpose it serves?"
+212,"TEXT_LUCKYW401_04031_CID_000_208","Since our objective is to rescue the pilot, we've added a means of capturing the Diamond Weapon."
+213,"TEXT_LUCKYW401_04031_CID_000_209","We come to save lives, not to end them, and for that reason, the G-Warrior has been reborn. I present to you the G-Savior!"
+214,"TEXT_LUCKYW401_04031_SHADOWHUNTER_000_230","I was unable to save Milisandia, Ricon, and Rex, but there may yet be hope for Allie and Alfonse..."
+215,"TEXT_LUCKYW401_04031_SEVERA_000_231","Were it not for you, I suspect Gaius would have ventured into Werlyt by himself, with little more than a gunblade for protection. Thank you for persuading him to take a less rash course of action."
+216,"TEXT_LUCKYW401_04031_AIRMAN04031_100_200","Ready to take to the skies?"
+217,"TEXT_LUCKYW401_04031_Q10_000_000","Board the G-Savior?"
+218,"TEXT_LUCKYW401_04031_GSEMPLOYEE04031_200_200","Master Garlond and the others are ready when you are!"
+219,"TEXT_LUCKYW401_04031_SHADOWHUNTER_000_250","Once again, Cid and his engineers have provided precisely what we require before we even knew it ourselves."
+220,"TEXT_LUCKYW401_04031_CID_000_251","Due to the added complexity, we'll have Gaius pilot while <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> handles the various armaments."
+221,"TEXT_LUCKYW401_04031_SHADOWHUNTER_000_252","Agreed."
+222,"TEXT_LUCKYW401_04031_SHADOWHUNTER_000_253","There will be little opportunity for us to grow accustomed to our roles, but even so, we must succeed at all costs."
+223,"TEXT_LUCKYW401_04031_CID_000_255","I'll be monitoring the situation from the <hex:021A020203>Enterprise<hex:021A020103>. Should things take a turn for the worse, I'll be ready to intervene."
+224,"TEXT_LUCKYW401_04031_SEVERA_000_256","While you and Gaius deal with the Diamond Weapon, I'll be doing my best to aid Valdeaulin's safe return from Werlyt. Hopefully, he's taken advantage of the chaos to make good his escape."
+225,"TEXT_LUCKYW401_04031_AVILINA_000_257","You're off to save Milisandia's foster siblings, Alfonse and Allie, aren't you? Please, do whatever you can to bring them back safely."
+226,"TEXT_LUCKYW401_04031_SHADOWHUNTER_000_300","It seems the controls are the same as the previous iteration. Though it has been some time since I last piloted warmachina of Allagan origin, lack of practice is no excuse for failure."
+227,"TEXT_LUCKYW401_04031_SHADOWHUNTER_000_350","We must reach the Diamond Weapon before the imperials."
+228,"TEXT_LUCKYW401_04031_SHADOWHUNTER_000_351","In all the years since the invasion, this place has hardly changed. I was expecting to find some sign of the VIIth Legion here, but it would appear the Diamond Weapon has already taken them out of the equation."
+229,"TEXT_LUCKYW401_04031_SHADOWHUNTER_000_352","I pray we are not too late."
+230,"TEXT_LUCKYW401_04031_SHADOWHUNTER_000_353","Allie!"
+231,"TEXT_LUCKYW401_04031_ALLIE_000_354","Ah... Unnnh..."
+232,"TEXT_LUCKYW401_04031_SHADOWHUNTER_000_355","Please, take her back to Terncliff. I have some unfinished business to attend to..."
+233,"TEXT_LUCKYW401_04031_SHADOWHUNTER_100_355","Now to learn what has become of Alfonse."
+234,"TEXT_LUCKYW401_04031_SHADOWHUNTER_000_356","If you have a score to settle, now is your chance. Show yourself!"
+235,"TEXT_LUCKYW401_04031_VALENSVANVARRO_000_357","Come to gloat, have you, Gaius!? It's not over yet..."
+236,"TEXT_LUCKYW401_04031_SHADOWHUNTER_000_358","You certainly have an instinct for self-preservation. I would expect nothing less from the coward who sacrificed his own soldiers to further his ambitions."
+237,"TEXT_LUCKYW401_04031_VALENSVANVARRO_000_359","How dare you speak to me of ambitions! You are the one who stood in my way at every turn!"
+238,"TEXT_LUCKYW401_04031_VALENSVANVARRO_000_360","If not for your meddling, the Empire would've been mine! Mine!"
+239,"TEXT_LUCKYW401_04031_SHADOWHUNTER_000_361","Enough of your delusions of grandeur. Where is Alfonse?"
+240,"TEXT_LUCKYW401_04031_VALENSVANVARRO_000_362","Heh..."
+241,"TEXT_LUCKYW401_04031_VALENSVANVARRO_100_362","Hehehe..."
+242,"TEXT_LUCKYW401_04031_VALENSVANVARRO_200_362","Ahahahahaha!"
+243,"TEXT_LUCKYW401_04031_VALENSVANVARRO_000_363","Why, he's right in front of you!"
+244,"TEXT_LUCKYW401_04031_SHADOWHUNTER_000_364","What?"
+245,"TEXT_LUCKYW401_04031_VALENSVANVARRO_000_365","Once you hear the answer, you'll kick yourself for not realizing it sooner!"
+246,"TEXT_LUCKYW401_04031_VALENSVANVARRO_100_365","You see, in all of the previous models, the combat data was either incomplete or unstable in some way, making their performance in battle wildly unpredictable. But then an idea struck me."
+247,"TEXT_LUCKYW401_04031_VALENSVANVARRO_000_366","Rather than using data gathered in battle, I should use something a little more...realistic."
+248,"TEXT_LUCKYW401_04031_VALENSVANVARRO_100_366","It turns out that beloved boy of yours was quite brilliant..."
+249,"TEXT_LUCKYW401_04031_VALENSVANVARRO_200_366","...when he put his <hex:021A020203>mind<hex:021A020103> to it!"
+250,"TEXT_LUCKYW401_04031_VALENSVANVARRO_000_367","By my ingenuity, he has been reborn as the core of the greatest machine ever devised! None but the great Lord Valens van Varro could conceive such a marvel!"
+251,"TEXT_LUCKYW401_04031_VALENSVANVARRO_100_367","Ahahahaha!<hex:02100103>Aaahahahaha!"
+252,"TEXT_LUCKYW401_04031_VALENSVANVARRO_000_368","And to think that Allie came here to steal the Diamond Weapon to save her brother, only to find he'd already become a part of it! Perhaps it wasn't the reunion she'd envisioned, but I'm sure she was grateful nonetheless!"
+253,"TEXT_LUCKYW401_04031_VALENSVANVARRO_000_369","Oh... That might also explain why Overmind activated all by itself. It was clearly an attempt to protect his precious sister! A fascinating anomaly, but I can't <hex:021A020203>stand<hex:021A020103> disobedience!"
+254,"TEXT_LUCKYW401_04031_SHADOWHUNTER_000_373","That such atrocities should continue unabated is proof of the rot that has spread throughout the Empire."
+255,"TEXT_LUCKYW401_04031_SHADOWHUNTER_000_374","Your crimes are an affront not only to Garlemald, but to all of mankind. And now...you will die."
+256,"TEXT_LUCKYW401_04031_VALENSVANVARRO_000_375","Have you forgotten, Gaius? I've seen your data, I know your every move! Such pitiful swordsmanship is a relic of the past, just like you!"
+257,"TEXT_LUCKYW401_04031_SHADOWHUNTER_100_375","Terminus Est..."
+258,"TEXT_LUCKYW401_04031_SHADOWHUNTER_200_375","...Crocea Mors!"
+259,"TEXT_LUCKYW401_04031_VALENSVANVARRO_000_376","Gaaargh!"
+260,"TEXT_LUCKYW401_04031_VALENSVANVARRO_000_377","B-But...this wasn't in...my data!"
+261,"TEXT_LUCKYW401_04031_SYSTEM_000_379","(-Overmind Alfonse-)Reactivating synthetic auracite system."
+262,"TEXT_LUCKYW401_04031_VALENSVANVARRO_100_379","Th-This can't be...! How is it still functional!?"
+263,"TEXT_LUCKYW401_04031_SYSTEM_200_379","(-Overmind Alfonse-)Removing memory inhibitors..."
+264,"TEXT_LUCKYW401_04031_VALENSVANVARRO_200_379","Hhhrrrngh!"
+265,"TEXT_LUCKYW401_04031_VALENSVANVARRO_300_379","What!? Y-You!?"
+266,"TEXT_LUCKYW401_04031_VALENSVANVARRO_400_379","Agh! Stop this at once...! Please! Let me go... Albert... No, Apharmd! W-Wait, no! No!"
+267,"TEXT_LUCKYW401_04031_SHADOWHUNTER_500_379","Even the names of those sacrificed in your twisted experiments are beneath your notice. You are beyond redemption."
+268,"TEXT_LUCKYW401_04031_VALENSVANVARRO_600_379","Who are you to judge me, Gaius!? Do you remember the names of the tens of thousands of men, women, and children killed for the sake of your conquests?"
+269,"TEXT_LUCKYW401_04031_SHADOWHUNTER_600_379","I do not deny the blood spilled at my behest. Nor will I run from my past."
+270,"TEXT_LUCKYW401_04031_SHADOWHUNTER_700_379","That is why I fight. To prevent the wrongs I committed from being repeated."
+271,"TEXT_LUCKYW401_04031_VALENSVANVARRO_700_379","No... Stop, I beg you!"
+272,"TEXT_LUCKYW401_04031_VALENSVANVARRO_900_379","Y-You can't do this to me! I'm V-Valens van Varro! Better th-than Gaius, better than all of them!"
+273,"TEXT_LUCKYW401_04031_VALENSVANVARRO_000_378","It c-can't end this way!"
+274,"TEXT_LUCKYW401_04031_VALENSVANVARRO_000_379","Aaannngh!"
+275,"TEXT_LUCKYW401_04031_SHADOWHUNTER_000_380","Alfonse?"
+276,"TEXT_LUCKYW401_04031_SHADOWHUNTER_000_381","Alfonse, my son... I have failed you."
+277,"TEXT_LUCKYW401_04031_SHADOWHUNTER_000_382","But this is not the end. I will see your dreams fulfilled. This I swear. I ask only that you, Milisandia, Ricon, and Rex watch over me."
+278,"TEXT_LUCKYW401_04031_ALFONSE_100_383","(-Overmind Alfonse-)Father... The memories stored in the Diamond Weapon... Give them to Allie..."
+279,"TEXT_LUCKYW401_04031_ALFONSE_000_383","(-Overmind Alfonse-)Watch over her...in my stead.<hex:02100103>Father...I cannot go on like this... Please..."
+280,"TEXT_LUCKYW401_04031_SHADOWHUNTER_000_384","I understand."
+281,"TEXT_LUCKYW401_04031_ALFONSE_000_385","Thank you. I am proud to call myself your son."
+282,"TEXT_LUCKYW401_04031_SEVERA_000_400","...I see. We will remain here until further notice."
+283,"TEXT_LUCKYW401_04031_SEVERA_000_401","That was Gaius. Valens van Varro and the Weapon project are no more."
+284,"TEXT_LUCKYW401_04031_VALDEAULIN_000_402","Seizing the opportunity, the Werlyt Revolutionaries have taken control of the city. Though they still suffered considerable losses, they have at last gained their freedom."
+285,"TEXT_LUCKYW401_04031_SEVERA_000_403","And even with the Empire gone, for people like me, life under imperial rule is all we've ever known. We might never be able to heal the scars left by decades of oppression."
+286,"TEXT_LUCKYW401_04031_VALDEAULIN_000_404","While there is hope for those who have survived this ordeal, nothing can bring back the dead. The loss of my wife and daughter left a void in me that can never be filled."
+287,"TEXT_LUCKYW401_04031_VALDEAULIN_000_405","In the years since, I have struggled to find a purpose, a reason to keep on living. It is the same for Gaius. No matter how hard he tries to make amends, the children he lost are gone forever."
+288,"TEXT_LUCKYW401_04031_VALDEAULIN_000_410","It's been some time since we last heard from Gaius."

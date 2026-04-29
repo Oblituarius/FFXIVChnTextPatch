@@ -2,76 +2,76 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_HEAVNF102_02352_SEQ_00,神殿騎士團總部的露琪亞想要前往匯合的地點。
-1,TEXT_HEAVNF102_02352_SEQ_01,和露琪亞進行了交談。為了等待伊修加德的代表，前往庫爾札斯中央高地的大審門，在<hex:02280CFF05>EObj<hex:F61EA1B00103>等待。
-2,TEXT_HEAVNF102_02352_SEQ_02,最終決定由身為神殿騎士團總騎士長的艾默里克前往會談。艾默里克稱，在前往格里達尼亞之前，想要先鞏固一下國境的警備。和庫爾札斯中央高地巨龍首營地的艾默里克談談。
-3,TEXT_HEAVNF102_02352_SEQ_03,和艾默里克進行了交談。令人吃驚的是，巨龍首營地的新指揮官竟然是埃馬內蘭。和格里達尼亞新街的艾默里克談談。
-4,TEXT_HEAVNF102_02352_SEQ_04,和艾默里克進行了交談。雖然黑衣森林綠茵環繞美麗非凡，但當前緊急事態下也無多餘閒暇欣賞。做好準備，和其他城邦的領袖進行會談。
-5,TEXT_HEAVNF102_02352_SEQ_05,
-6,TEXT_HEAVNF102_02352_SEQ_06,
-7,TEXT_HEAVNF102_02352_SEQ_07,
-8,TEXT_HEAVNF102_02352_SEQ_08,
-9,TEXT_HEAVNF102_02352_SEQ_09,
-10,TEXT_HEAVNF102_02352_SEQ_10,
-11,TEXT_HEAVNF102_02352_SEQ_11,
-12,TEXT_HEAVNF102_02352_SEQ_12,
-13,TEXT_HEAVNF102_02352_SEQ_13,
-14,TEXT_HEAVNF102_02352_SEQ_14,
-15,TEXT_HEAVNF102_02352_SEQ_15,
-16,TEXT_HEAVNF102_02352_SEQ_16,
-17,TEXT_HEAVNF102_02352_SEQ_17,
-18,TEXT_HEAVNF102_02352_SEQ_18,
-19,TEXT_HEAVNF102_02352_SEQ_19,
-20,TEXT_HEAVNF102_02352_SEQ_20,
-21,TEXT_HEAVNF102_02352_SEQ_21,
-22,TEXT_HEAVNF102_02352_SEQ_22,
-23,TEXT_HEAVNF102_02352_SEQ_23,
-24,TEXT_HEAVNF102_02352_TODO_00,在大審門的<hex:02280CFF05>EObj<hex:F61EA1B00103>等待
-25,TEXT_HEAVNF102_02352_TODO_01,和巨龍首營地的艾默里克對話
-26,TEXT_HEAVNF102_02352_TODO_02,和格里達尼亞的艾默里克對話
-27,TEXT_HEAVNF102_02352_TODO_03,
-28,TEXT_HEAVNF102_02352_TODO_04,
-29,TEXT_HEAVNF102_02352_TODO_05,
-30,TEXT_HEAVNF102_02352_TODO_06,
-31,TEXT_HEAVNF102_02352_TODO_07,
-32,TEXT_HEAVNF102_02352_TODO_08,
-33,TEXT_HEAVNF102_02352_TODO_09,
-34,TEXT_HEAVNF102_02352_TODO_10,
-35,TEXT_HEAVNF102_02352_TODO_11,
-36,TEXT_HEAVNF102_02352_TODO_12,
-37,TEXT_HEAVNF102_02352_TODO_13,
-38,TEXT_HEAVNF102_02352_TODO_14,
-39,TEXT_HEAVNF102_02352_TODO_15,
-40,TEXT_HEAVNF102_02352_TODO_16,
-41,TEXT_HEAVNF102_02352_TODO_17,
-42,TEXT_HEAVNF102_02352_TODO_18,
-43,TEXT_HEAVNF102_02352_TODO_19,
-44,TEXT_HEAVNF102_02352_TODO_20,
-45,TEXT_HEAVNF102_02352_TODO_21,
-46,TEXT_HEAVNF102_02352_TODO_22,
-47,TEXT_HEAVNF102_02352_TODO_23,
-48,TEXT_HEAVNF102_02352_HANDELOUP_000_001,我們伊修加德重新回歸了艾歐澤亞城邦軍事同盟。<hex:02100103>神殿騎士團當然也會給予全面的協助。
-49,TEXT_HEAVNF102_02352_LUCIA_000_010,好，那我們就先一步前往大審門，<hex:02100103>等待出席會談的伊修加德代表吧。
-50,TEXT_HEAVNF102_02352_LUCIA_000_015,您很在意誰會被選為代表嗎？<hex:02100103>既然是牽扯到軍事類事宜，那麼估計會是<hex:02100103>兼任神殿騎士團總騎士長的艾默里克大人直接作為代表前往。
-51,TEXT_HEAVNF102_02352_AYMERIC_000_020,讓你們久等了。<hex:02100103>我和下議院的議長談過之後，<hex:02100103>最後還是決定由我作為代表出席會談了。
-52,TEXT_HEAVNF102_02352_AYMERIC_000_021,說是有關軍事和國防的事宜<hex:02100103>就全權委託給身為神殿騎士團總騎士長的我了。
-53,TEXT_HEAVNF102_02352_AYMERIC_000_022,或許您會覺得我是繞了個大圈子，<hex:02100103>不過這也是我們伊修加德轉變為共和制的證明。
-54,TEXT_HEAVNF102_02352_AYMERIC_000_023,好了，雖然我打算立刻出發前往格里達尼亞，<hex:02100103>不過可以中途去一趟巨龍首營地嗎？<hex:02100103>我想要叮囑一下那邊加強國境周邊的警備，防患於未然。
-55,TEXT_HEAVNF102_02352_LUCIA_000_025,艾默里克大人被選為代表是意料之中的事。<hex:02100103>畢竟這件事牽扯到加雷馬帝國的軍事力量。
-56,TEXT_HEAVNF102_02352_AYMERIC_000_030,那麼我去跟指揮官說一聲。<hex:02100103>對了<hex:022903EB0203>閣下，您也一起過來吧。<hex:02100103>這個人您也認識。
-57,TEXT_HEAVNF102_02352_EMMANELLAIN_000_031,誒？！我還以為是誰呢，這不是我的好搭檔嘛！<hex:02100103>而且艾默里克閣下也來了……到底發生什麼事了？
-58,TEXT_HEAVNF102_02352_HONOROIT_000_032,請、請稍等片刻……<hex:02100103>我這就去端來熱茶，嗯！
-59,TEXT_HEAVNF102_02352_AYMERIC_000_033,謝謝，不過不用費心了，我們過會就走。<hex:02100103>露琪亞，你來說明一下情況吧。
-60,TEXT_HEAVNF102_02352_LUCIA_000_034,是……
-61,TEXT_HEAVNF102_02352_EMMANELLAIN_000_035,原來如此……我明白了。
-62,TEXT_HEAVNF102_02352_HONOROIT_000_036,看來應該要增加巡視人員，強化監視體制吧。<hex:02100103>我認為還需要向天火要塞群的弗朗塞爾大人<hex:02100103>和阿德內爾占星台的部隊提出協助申請，嗯。
-63,TEXT_HEAVNF102_02352_AYMERIC_000_037,嗯，就那麼辦吧。<hex:02100103>那我們就向格里達尼亞出發了……剩下的就拜託你們了。
-64,TEXT_HEAVNF102_02352_EMMANELLAIN_000_038,那個，我說……<hex:02100103>你看到我當上了巨龍首營地的指揮官，是不是嚇了一跳？
-65,TEXT_HEAVNF102_02352_EMMANELLAIN_000_039,我自己也是……<hex:02100103>我知道自己還沒實力坐在那個位子上。
-66,TEXT_HEAVNF102_02352_EMMANELLAIN_000_040,不過我會從自己力所能及的事情做起，以自己的方式努力。<hex:02100103>同時還有奧諾魯瓦和守衛營地的大伙們幫我。<hex:02100103>所以，你就放心去格里達尼亞吧……拜託了！
-67,TEXT_HEAVNF102_02352_EMMANELLAIN_000_045,我沒想過要贏過那傢伙……<hex:02100103>我就是我……你說對不對？
-68,TEXT_HEAVNF102_02352_HONOROIT_000_050,埃馬內蘭少爺有我跟著，您就請放心吧。<hex:02100103>雖然少爺是那個德行，不過遇到什麼事還是能靠得住的……<hex:02100103>大概……一定……或許……嗯。
-69,TEXT_HEAVNF102_02352_LUCIA_000_055,格里達尼亞看上去那麼和平。<hex:02100103>但加雷馬帝國軍也潛入了這座森林，並築起了壁壘。<hex:02100103>而且，壁壘的另一側便是他們的行省。
-70,TEXT_HEAVNF102_02352_SERPENTHONORGUARD_000_056,歡迎各位伊修加德使節前來，<hex:02100103>我是來迎接各位的！
-71,TEXT_HEAVNF102_02352_AYMERIC_000_060,森林之都格里達尼亞……<hex:02100103>曾經我在處理外交上的任務時，也多次造訪過這裡。<hex:02100103>黑衣森林的美總是那麼奪人心魄。
-72,TEXT_HEAVNF102_02352_AYMERIC_000_061,不過，這次來可沒有閒暇欣賞這座城市之美了，<hex:02100103>畢竟這次來的目的不同以往……
+0,"TEXT_HEAVNF102_02352_SEQ_00","Lucia seems eager to set forth for Gridania."
+1,"TEXT_HEAVNF102_02352_SEQ_01","Lucia bids you join her outside the city to await the coming of Ishgard's envoy, whoever he or she may be. Make your way to the Gates of Judgement."
+2,"TEXT_HEAVNF102_02352_SEQ_02","Your wait comes to an end with the arrival of Ser Aymeric. As lord commander, it seems his appointment as the nation's representative was a foregone conclusion. After bemoaning the unavoidably tedious workings of government, he asks that you delay your journey to Gridania once more to make a brief stop at Camp Dragonhead."
+3,"TEXT_HEAVNF102_02352_SEQ_03","You find Ser Aymeric and Lucia at Camp Dragonhead, who invite you to meet the newly appointed garrison commander. Much to your surprise, you discover that it is none other than Ser Emmanellain─ably abetted by the rather more practically minded Honoroit. After leaving instructions to strengthen Coerthas' defenses, Ser Aymeric departs for the council. Travel to the Black Shroud, and rendezvous with the lord commander in New Gridania."
+4,"TEXT_HEAVNF102_02352_SEQ_04","Ser Aymeric fondly recalls his previous visits to the forest nation, and regrets that circumstances preclude a more leisurely appreciation of Gridania's beauty. The Alliance council will soon commence..."
+5,"TEXT_HEAVNF102_02352_SEQ_05",""
+6,"TEXT_HEAVNF102_02352_SEQ_06",""
+7,"TEXT_HEAVNF102_02352_SEQ_07",""
+8,"TEXT_HEAVNF102_02352_SEQ_08",""
+9,"TEXT_HEAVNF102_02352_SEQ_09",""
+10,"TEXT_HEAVNF102_02352_SEQ_10",""
+11,"TEXT_HEAVNF102_02352_SEQ_11",""
+12,"TEXT_HEAVNF102_02352_SEQ_12",""
+13,"TEXT_HEAVNF102_02352_SEQ_13",""
+14,"TEXT_HEAVNF102_02352_SEQ_14",""
+15,"TEXT_HEAVNF102_02352_SEQ_15",""
+16,"TEXT_HEAVNF102_02352_SEQ_16",""
+17,"TEXT_HEAVNF102_02352_SEQ_17",""
+18,"TEXT_HEAVNF102_02352_SEQ_18",""
+19,"TEXT_HEAVNF102_02352_SEQ_19",""
+20,"TEXT_HEAVNF102_02352_SEQ_20",""
+21,"TEXT_HEAVNF102_02352_SEQ_21",""
+22,"TEXT_HEAVNF102_02352_SEQ_22",""
+23,"TEXT_HEAVNF102_02352_SEQ_23",""
+24,"TEXT_HEAVNF102_02352_TODO_00","Wait at the Gates of Judgement."
+25,"TEXT_HEAVNF102_02352_TODO_01","Speak with Ser Aymeric at Camp Dragonhead."
+26,"TEXT_HEAVNF102_02352_TODO_02","Speak with Ser Aymeric in New Gridania."
+27,"TEXT_HEAVNF102_02352_TODO_03",""
+28,"TEXT_HEAVNF102_02352_TODO_04",""
+29,"TEXT_HEAVNF102_02352_TODO_05",""
+30,"TEXT_HEAVNF102_02352_TODO_06",""
+31,"TEXT_HEAVNF102_02352_TODO_07",""
+32,"TEXT_HEAVNF102_02352_TODO_08",""
+33,"TEXT_HEAVNF102_02352_TODO_09",""
+34,"TEXT_HEAVNF102_02352_TODO_10",""
+35,"TEXT_HEAVNF102_02352_TODO_11",""
+36,"TEXT_HEAVNF102_02352_TODO_12",""
+37,"TEXT_HEAVNF102_02352_TODO_13",""
+38,"TEXT_HEAVNF102_02352_TODO_14",""
+39,"TEXT_HEAVNF102_02352_TODO_15",""
+40,"TEXT_HEAVNF102_02352_TODO_16",""
+41,"TEXT_HEAVNF102_02352_TODO_17",""
+42,"TEXT_HEAVNF102_02352_TODO_18",""
+43,"TEXT_HEAVNF102_02352_TODO_19",""
+44,"TEXT_HEAVNF102_02352_TODO_20",""
+45,"TEXT_HEAVNF102_02352_TODO_21",""
+46,"TEXT_HEAVNF102_02352_TODO_22",""
+47,"TEXT_HEAVNF102_02352_TODO_23",""
+48,"TEXT_HEAVNF102_02352_HANDELOUP_000_001","Retaking our place in the Eorzean Alliance is a vital step in reforging our bonds with the wider realm. The Temple Knights stand ready to honor the promise our nation has made."
+49,"TEXT_HEAVNF102_02352_LUCIA_000_010","If you have no other business in the city, join me at the Gates of Judgement. We must be ready to depart the instant the envoy arrives."
+50,"TEXT_HEAVNF102_02352_LUCIA_000_015","You are perhaps wondering who will represent Ishgard at the council? As this is a military matter, I should not be surprised if Ser Aymeric nominated himself. He is yet lord commander of the Temple Knights, after all."
+51,"TEXT_HEAVNF102_02352_AYMERIC_000_020","We meet again. As it happens, my counterpart in the House of Commons agreed that I should act as Ishgard's envoy."
+52,"TEXT_HEAVNF102_02352_AYMERIC_000_021","...Not, I concede, that there was ever any real doubt. As lord commander of the Temple Knights, it is my duty to sanction any military cooperation."
+53,"TEXT_HEAVNF102_02352_AYMERIC_000_022","Be that as it may, I could not in good conscience make the decision alone─not with the ink scarce dry in the republic's book of statutes."
+54,"TEXT_HEAVNF102_02352_AYMERIC_000_023","I trust you understand, my friend. Alas, I must test your patience still further by making a brief stop at Camp Dragonhead. Given the trouble brewing in the Black Shroud, I would see that the garrison is ready to defend the border."
+55,"TEXT_HEAVNF102_02352_LUCIA_000_025","I am glad that Ser Aymeric's counterpart saw the wisdom in his coming. Few if any in Ishgard can claim to possess his expertise in both politics and warfare."
+56,"TEXT_HEAVNF102_02352_AYMERIC_000_030","The garrison commander waits within. Why not accompany me, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>? You may see a familiar face..."
+57,"TEXT_HEAVNF102_02352_EMMANELLAIN_000_031","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, old <hex:02080EE905FF05>girl<hex:FF04>boy<hex:03>!? How wonderful to see you! And Ser Aymeric, too! To what do I owe these unexpected pleasures?"
+58,"TEXT_HEAVNF102_02352_HONOROIT_000_032","I will have some mulled wine brought up from the kitchens at once! If you will excuse─"
+59,"TEXT_HEAVNF102_02352_AYMERIC_000_033","Nay, do not trouble yourself, Honoroit─we shall soon be on our way. Lucia, a brief summary, if you will."
+60,"TEXT_HEAVNF102_02352_LUCIA_000_034","Yes, Lord Commander."
+61,"TEXT_HEAVNF102_02352_EMMANELLAIN_000_035","Hmph. Those villains hardly need an excuse to wage war. Bloodletting comes as naturally as breathing to a Garl─I-I mean, to an imperial."
+62,"TEXT_HEAVNF102_02352_HONOROIT_000_036","...And thus we shall strengthen our patrols as you suggest. We shall also be sure to communicate these developments to Lord Francel and the Observatorium."
+63,"TEXT_HEAVNF102_02352_AYMERIC_000_037","I see you have everything in hand. Carry on, Commander."
+64,"TEXT_HEAVNF102_02352_EMMANELLAIN_000_038","Surprised to see yours truly at the helm?"
+65,"TEXT_HEAVNF102_02352_EMMANELLAIN_000_039","You and me both, old <hex:02080EE905FF05>girl<hex:FF04>boy<hex:03>. I doubt I'll ever feel worthy to sit where he sat..."
+66,"TEXT_HEAVNF102_02352_EMMANELLAIN_000_040","Yet we can but play the hand we're dealt. And with a little help from the veterans─and Honoroit's <hex:021A020203>ceaseless<hex:021A020103> chiding─I'm sure I'll muddle through. So worry not, old <hex:02080EE905FF05>girl<hex:FF04>boy<hex:03>! Off to Gridania with you!"
+67,"TEXT_HEAVNF102_02352_EMMANELLAIN_000_045","I shan't waste my time attempting to replace him. I can but be my best self and hope that that's enough!"
+68,"TEXT_HEAVNF102_02352_HONOROIT_000_050","I shall do my utmost to see that my lord is not overwhelmed by his duties. He can be surprisingly diligent when he puts his mind to it. <hex:021A020203>If<hex:021A020103> he puts his mind to it..."
+69,"TEXT_HEAVNF102_02352_LUCIA_000_055","It seems so peaceful...<hex:02100103>One would scarce believe that Baelsar's Wall─and wretched Ala Mhigo─lie but a few short malms away."
+70,"TEXT_HEAVNF102_02352_SERPENTHONORGUARD_000_056","I bid welcome to our visitors from Ishgard!"
+71,"TEXT_HEAVNF102_02352_AYMERIC_000_060","Diplomatic duties have brought me here on several occasions, but I find that I am as enraptured by the Black Shroud's beauty now as when first I laid eyes upon it."
+72,"TEXT_HEAVNF102_02352_AYMERIC_000_061","I fear that this time, however, events shall not afford us the luxury of enjoying the splendor of the forest..."

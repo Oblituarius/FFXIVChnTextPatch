@@ -2,158 +2,158 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_KINGBA211_04825_SEQ_00,八分儀廣場南側的洛蘇卡納有事想和冒險者商量。
-1,TEXT_KINGBA211_04825_SEQ_01,和洛蘇卡納等人進行了交談。發現了偷走祭器的犯人的蹤跡。和洛蘇卡納在西拉諾西亞的小麥酒港會合。
-2,TEXT_KINGBA211_04825_SEQ_02,和洛蘇卡納會合了。她向船頭請教，得知了可能知道犯人蹤跡的人。和小麥酒港的商人談談。
-3,TEXT_KINGBA211_04825_SEQ_03,和小麥酒港的商人進行了交談。可能是犯人的旅行商人將煉金藥賣給了新人冒險者威蘇爾姆和扎瑞格。在西拉諾西亞的四分石地尋找威蘇爾姆等人，如果遇到敵人的襲擊就將其打倒。
-4,TEXT_KINGBA211_04825_SEQ_04,打倒了襲擊威蘇爾姆等人的魔法人偶。救助四分石地的威蘇爾姆。
-5,TEXT_KINGBA211_04825_SEQ_05,救助了威蘇爾姆。可能是因為喝了有問題的煉金藥，威蘇爾姆的搭檔扎瑞格不停地打嗝。對四分石地的扎瑞格使用康復。
-6,TEXT_KINGBA211_04825_SEQ_06,對扎瑞格使用了康復。偷走了洛蘇卡納故鄉的祭器，並且將有毒煉金藥賣給威蘇爾姆和扎瑞格的犯人出現在了冒險者一行眼前。報上名字的犯人艾爾蕾特和可可諾瓦扔下煙霧彈後逃之夭夭。返回利姆薩·羅敏薩，和八分儀廣場南側的洛蘇卡納談談。
-7,TEXT_KINGBA211_04825_SEQ_07,和洛蘇卡納進行了交談。等她取得更多情報之後再來拜訪她。<hex:02100103><hex:02100103>※任意治療職業的等級達到94級以上時，可以從八分儀廣場南側的洛蘇卡納那裡領取下一個治療職能任務。
-8,TEXT_KINGBA211_04825_SEQ_08,
-9,TEXT_KINGBA211_04825_SEQ_09,
-10,TEXT_KINGBA211_04825_SEQ_10,
-11,TEXT_KINGBA211_04825_SEQ_11,
-12,TEXT_KINGBA211_04825_SEQ_12,
-13,TEXT_KINGBA211_04825_SEQ_13,
-14,TEXT_KINGBA211_04825_SEQ_14,
-15,TEXT_KINGBA211_04825_SEQ_15,
-16,TEXT_KINGBA211_04825_SEQ_16,
-17,TEXT_KINGBA211_04825_SEQ_17,
-18,TEXT_KINGBA211_04825_SEQ_18,
-19,TEXT_KINGBA211_04825_SEQ_19,
-20,TEXT_KINGBA211_04825_SEQ_20,
-21,TEXT_KINGBA211_04825_SEQ_21,
-22,TEXT_KINGBA211_04825_SEQ_22,
-23,TEXT_KINGBA211_04825_SEQ_23,
-24,TEXT_KINGBA211_04825_TODO_00,和小麥酒港的洛蘇卡納對話
-25,TEXT_KINGBA211_04825_TODO_01,和小麥酒港的商人對話
-26,TEXT_KINGBA211_04825_TODO_02,尋找威蘇爾姆 討伐出現的敵人
-27,TEXT_KINGBA211_04825_TODO_03,救助威蘇爾姆
-28,TEXT_KINGBA211_04825_TODO_04,對扎瑞格使用康復
-29,TEXT_KINGBA211_04825_TODO_05,和利姆薩·羅敏薩的洛蘇卡納對話
-30,TEXT_KINGBA211_04825_TODO_06,
-31,TEXT_KINGBA211_04825_TODO_07,
-32,TEXT_KINGBA211_04825_TODO_08,
-33,TEXT_KINGBA211_04825_TODO_09,
-34,TEXT_KINGBA211_04825_TODO_10,
-35,TEXT_KINGBA211_04825_TODO_11,
-36,TEXT_KINGBA211_04825_TODO_12,
-37,TEXT_KINGBA211_04825_TODO_13,
-38,TEXT_KINGBA211_04825_TODO_14,
-39,TEXT_KINGBA211_04825_TODO_15,
-40,TEXT_KINGBA211_04825_TODO_16,
-41,TEXT_KINGBA211_04825_TODO_17,
-42,TEXT_KINGBA211_04825_TODO_18,
-43,TEXT_KINGBA211_04825_TODO_19,
-44,TEXT_KINGBA211_04825_TODO_20,
-45,TEXT_KINGBA211_04825_TODO_21,
-46,TEXT_KINGBA211_04825_TODO_22,
-47,TEXT_KINGBA211_04825_TODO_23,
-48,TEXT_KINGBA211_04825_LOASHKANA_000_001,<hex:022903EB0203>，<hex:02100103>有空過來聊聊嗎？
-49,TEXT_KINGBA211_04825_LOASHKANA_000_002,我其實是想和你聊聊之前那個中了麻痺毒素的市民。<hex:02100103>在那件事之後，我們就再也沒有發現過犯人的蹤跡了。
-50,TEXT_KINGBA211_04825_LOASHKANA_000_003,我簡直要懷疑犯人已經收手不再作惡了。<hex:02100103>有關他們的線索可以說是全斷了……<hex:02100103>真是不知道該怎麼辦才好。
-51,TEXT_KINGBA211_04825_YELLOWJACKET04824_000_004,<hex:022903EB0203>閣下！
-52,TEXT_KINGBA211_04825_YELLOWJACKET04824_000_005,之前那個犯人，又有新消息了！<hex:02100103>有人在城裡看到了那個賣水果的拉拉菲爾族男性旅行商人，<hex:02100103>他和一個人族女性一起出了城。
-53,TEXT_KINGBA211_04825_YELLOWJACKET04824_000_006,據說他們去小麥酒港了。<hex:02100103>可能是因為我們黃衫隊加強了警戒，市民也更警惕了，<hex:02100103>他們在利姆薩·羅敏薩不方便動手，就選擇了離開。
-54,TEXT_KINGBA211_04825_LOASHKANA_000_007,小麥酒……港？<hex:02100103>也在這座島上嗎？
-55,TEXT_KINGBA211_04825_YELLOWJACKET04824_000_008,沒錯！<hex:02100103>小麥酒港是位於西拉諾西亞的港口城市，很近，從陸路走過去都行！<hex:02100103>除此以外，還能從捕魚人公會附近坐船過去。
-56,TEXT_KINGBA211_04825_YELLOWJACKET04824_000_009,當然了，我們黃衫隊會繼續追蹤他們的行蹤，不會放鬆警惕，<hex:02100103>但若是像<hex:022903EB0203>閣下這樣經驗豐富的冒險者願意提供幫助，<hex:02100103>一起追蹤犯人行蹤的話，大家也能更加安心一些……
-57,TEXT_KINGBA211_04825_YELLOWJACKET04824_000_010,如果閣下想要繼續追查此事，<hex:02100103>還請務必前往小麥酒港一探究竟。
-58,TEXT_KINGBA211_04825_YELLOWJACKET04824_000_011,<hex:022903EB0203>閣下，很榮幸能在這段時間裡與你共事！<hex:02100103>希望二位接下來能平安順利！
-59,TEXT_KINGBA211_04825_LOASHKANA_000_012,黃衫隊是這座城的守衛吧？<hex:02100103>守衛竟然特地跑過來求你，<hex:02100103><hex:022903EB0203>你可真厲害啊。
-60,TEXT_KINGBA211_04825_LOASHKANA_000_013,其實我一直很擔心自己在這異國他鄉能不能找回祭器，<hex:02100103>但多虧了你和剛才那位女士，現在已經有眉目了！謝謝你們！
-61,TEXT_KINGBA211_04825_LOASHKANA_000_014,我們快出發吧！<hex:02100103>得在犯人離開之前趕到那座港口城市。
-62,TEXT_KINGBA211_04825_LOASHKANA_000_015,我先坐船去小麥酒港，<hex:02100103>麻煩你先做好追捕犯人的準備，再去當地跟我會合。
-63,TEXT_KINGBA211_04825_LOASHKANA_000_021,<hex:022903EB0203>！你來啦！<hex:02100103>我第一次來這裡，還擔心會跟你走岔，能成功會合真是太好了。
-64,TEXT_KINGBA211_04825_LOASHKANA_000_022,來這裡的路上我跟船頭多聊了幾句，<hex:02100103>請對方教了我很多小麥酒港周圍的地理知識。<hex:02100103>畢竟我們是去追犯人的，要是半道上迷路了就麻煩了。
-65,TEXT_KINGBA211_04825_LOASHKANA_000_023,還有，我還問了問船頭，有沒有載過那兩個旅行商人，<hex:02100103>結果船頭回答說這兩個人的種族都不算少見，他不太清楚。
-66,TEXT_KINGBA211_04825_LOASHKANA_000_024,不過，雖然沒能問到他們的行蹤，但我聽到了另外一個消息。<hex:02100103>據說有一位商人在小麥酒港工作了很多年，<hex:02100103>我們想找人，他或許能回答我們的問題。
-67,TEXT_KINGBA211_04825_LOASHKANA_000_025,線索還是不太多，<hex:02100103>但總算是發現了犯人的蹤跡……
-68,TEXT_KINGBA211_04825_LOASHKANA_000_026,總之我們先去找那位小麥酒港的商人聊聊吧。<hex:02100103>我聽說他這個時間段一般會在骷髏谷營地方向的大門那邊工作。
-69,TEXT_KINGBA211_04825_LOASHKANA_000_027,船頭說的小麥酒港的商人應該就是他了。
-70,TEXT_KINGBA211_04825_MERCHANT04825A_000_031,嗯？你們找我？
-71,TEXT_KINGBA211_04825_MERCHANT04825A_000_032,拉拉菲爾族的男人跟人族的女人啊……<hex:02100103>我剛才確實看到有這麼兩個旅行商人在一起。<hex:02100103>那兩個人看著臉生，我就多看了幾眼，印象很深。
-72,TEXT_KINGBA211_04825_MERCHANT04825A_000_033,他們好像用很便宜的價格賣了一些煉金藥給新手冒險者。<hex:02100103>偶爾會有這樣的人，用實惠的價格把必需品賣給新手，<hex:02100103>也算是鼓勵新人成長吧。
-73,TEXT_KINGBA211_04825_LOASHKANA_000_034,煉金藥……？<hex:02100103>如果那兩個旅行商人真的是我們正在追捕的犯人，<hex:02100103>那他們很可能在藥裡做了手腳。
-74,TEXT_KINGBA211_04825_MERCHANT04825A_000_035,毒藥？！不會吧？！<hex:02100103>買了藥的冒險者是斧術師威蘇爾姆和幻術師扎瑞格，<hex:02100103>兩個人接了一個給村民當護衛的任務，才剛剛出發。
-75,TEXT_KINGBA211_04825_MERCHANT04825A_000_036,沒記錯的話他們的目的地是雨燕塔殖民地。<hex:02100103>那兩人可都是好孩子啊……<hex:02100103>能麻煩你們跟上去看看情況嗎？
-76,TEXT_KINGBA211_04825_LOASHKANA_000_037,好！我們這就去！
-77,TEXT_KINGBA211_04825_LOASHKANA_000_038,我記得雨燕塔殖民地是在東南方向吧？<hex:02100103><hex:022903EB0203>！我們走！
-78,TEXT_KINGBA211_04825_MERCHANT04825A_000_039,抱歉，我之後得去談生意走不開……<hex:02100103>那兩個人去了雨燕塔殖民地，剩下的就拜託你們了！
-79,TEXT_KINGBA211_04825_LOASHKANA_000_041,<hex:022903EB0203>，你感覺到了嗎？<hex:02100103>雖然不知道具體的方向，<hex:02100103>但我能肯定有人從剛才開始就一直在看著我們……
-80,TEXT_KINGBA211_04825_ZERIG_000_042,我、嗝……打嗝、嗝……停不下來了……<hex:02100103>請你、嗝……救救、嗝……威蘇爾姆！
-81,TEXT_KINGBA211_04825_MERCHANT04825B_000_043,……千鈞一髮，太危險了。<hex:02100103>多虧有你們出手，多謝你們。
-82,TEXT_KINGBA211_04825_WYSSULM_000_045,呼……<hex:02100103>謝謝，我已經沒事了。
-83,TEXT_KINGBA211_04825_WYSSULM_000_046,也不知道是不是我們在小麥酒港買的煉金藥品質有什麼問題，<hex:02100103>我的搭檔自從喝了那個藥就在不停地打嗝。<hex:02100103>也沒法詠唱魔法了，可把我急死了……
-84,TEXT_KINGBA211_04825_ZERIG_000_047,嗝……
-85,TEXT_KINGBA211_04825_LOASHKANA_100_047,如果他不停打嗝也是因為中了毒，<hex:02100103>或許<hex:022903EB0203>你可以像是在利姆薩·羅敏薩時那樣，<hex:02100103>用康復治好他。
-86,TEXT_KINGBA211_04825_WYSSULM_100_048,中毒？！<hex:02100103>……不，這個一會兒再說。
-87,TEXT_KINGBA211_04825_WYSSULM_000_048,真是不好意思，你們才救了我的命，我又得再麻煩你們了。<hex:02100103>能請你幫個忙……對扎瑞格用一下康復嗎？
-88,TEXT_KINGBA211_04825_WYSSULM_000_049,真是不好意思，你們才救了我的命，我又得再麻煩你們了。<hex:02100103>能請你幫個忙……對扎瑞格用一下康復嗎？
-89,TEXT_KINGBA211_04825_LOASHKANA_110_050,如果他不停打嗝也是因為中了毒，<hex:02100103>或許你可以像是在利姆薩·羅敏薩時那樣，用康復治好他。<hex:02100103>我會負責警惕周圍的危險，請你為他治療吧。
-90,TEXT_KINGBA211_04825_ZERIG_000_051,嗝……
-91,TEXT_KINGBA211_04825_SYSTEM_000_052,連續不斷地打嗝讓扎瑞格十分困擾。<hex:02100103>使用康復為其治療。
-92,TEXT_KINGBA211_04825_ZERIG_000_053,謝謝，勞煩你了。
-93,TEXT_KINGBA211_04825_WYSSULM_000_054,真是的，為什麼這些魔法人偶要過來找我們的麻煩？<hex:02100103>還有那個旅行商人也是……<hex:02100103>幹嘛要賣這種奇怪的煉金藥給我們啊！
-94,TEXT_KINGBA211_04825_LOASHKANA_000_055,誰在那！
-95,TEXT_KINGBA211_04825_ELLERETE_000_056,(-？？？？-)噫！嚇人！<hex:02100103>怎麼就發現我們了呢？
-96,TEXT_KINGBA211_04825_WYSSULM_000_057,是你！<hex:02100103>賣奇怪煉金藥給我們的商人！
-97,TEXT_KINGBA211_04825_ELLERETE_000_058,(-人族女性-)我放的明明是沉默毒素，結果喝下去卻在那打嗝。<hex:02100103>真是笑死我了！
-98,TEXT_KINGBA211_04825_KOKONOWA_000_059,(-拉拉菲爾族男性-)是不是毒藥混在了一起，出現了奇怪的效果？<hex:02100103>算了不管了，反正效果足夠滑稽有趣就行。
-99,TEXT_KINGBA211_04825_LOASHKANA_000_060,毒……！<hex:02100103>偷祭器的小偷！你們就是自由之門的人吧！
-100,TEXT_KINGBA211_04825_ELLERETE_000_061,(-人族女性-)哦？你竟然知道自由之門？<hex:02100103>難得，要不我自我介紹一下吧？
-101,TEXT_KINGBA211_04825_ELLERETE_000_062,我是自由之門裡手藝高超的煉金術士艾爾蕾特。
-102,TEXT_KINGBA211_04825_KOKONOWA_000_063,承蒙關照，我是可可諾瓦。<hex:02100103>艾爾蕾特的助手兼雕金匠。
-103,TEXT_KINGBA211_04825_ELLERETE_000_064,啊，這麼說來，這位小姐是那個部族的人？<hex:02100103>哇，為了追個祭器跑這麼遠，真是辛苦你咯！
-104,TEXT_KINGBA211_04825_LOASHKANA_000_065,你們到底為什麼要四處下毒禍害別人！<hex:02100103>是為了完成自由之門的目標，顛覆這個國家嗎？！
-105,TEXT_KINGBA211_04825_ELLERETE_100_066,哎呀，我們的組織好像真的有個什麼目標呢。<hex:02100103>不過老實說，我對這事沒什麼興趣。
-106,TEXT_KINGBA211_04825_ELLERETE_000_066,我的目標就是搞出更多有趣的惡作劇！<hex:02100103>祭器用得越熟練，能生成的毒素種類就越豐富，<hex:02100103>毒性也會更強！真是太好玩啦！
-107,TEXT_KINGBA211_04825_ELLERETE_000_067,小姐你的朋友似乎是個本事還不錯的治療師啊……<hex:02100103>不過沒關係，只要我再好好練習一下如何使用祭器，<hex:02100103>就能用出你無法輕易解開的劇毒啦！
-108,TEXT_KINGBA211_04825_ELLERETE_000_068,那麼，惡作劇也成功了，差不多該回去了！<hex:02100103>各位再見啦！
-109,TEXT_KINGBA211_04825_LOASHKANA_000_069,站住！
-110,TEXT_KINGBA211_04825_WYSSULM_000_070,好臭！<hex:02100103>這煙霧彈好臭啊！這些傢伙真是太過分了！
-111,TEXT_KINGBA211_04825_ZERIG_000_071,嗚嗚……好痛苦……好絕望……<hex:02100103>我想回家，我想要黑衣森林的清新空氣……
-112,TEXT_KINGBA211_04825_WYSSULM_000_072,喂喂！搭檔！別放棄啊！<hex:02100103>那些人已經跑了，我們快把委託人送去目的地吧。
-113,TEXT_KINGBA211_04825_WYSSULM_000_073,我們的護衛工作還沒有完成，現在得趕緊出發了。<hex:02100103>這次謝謝你們救了我們……那個……
-114,TEXT_KINGBA211_04825_LOASHKANA_000_074,我叫洛蘇卡納，<hex:02080DE905FF04>她<hex:FF04>他<hex:03>是<hex:022903EB0203>。<hex:02100103>你們兩個工作加油哦！
-115,TEXT_KINGBA211_04825_LOASHKANA_000_075,他們應該會變得比之前更警惕，<hex:02100103>不太可能繼續在這裡為非作歹了。<hex:02100103>我們還是先回利姆薩·羅敏薩吧。
-116,TEXT_KINGBA211_04825_LOASHKANA_000_081,<hex:022903EB0203>，你回來了。<hex:02100103>這次也多虧了有你一起跟過來，謝謝你啦。
-117,TEXT_KINGBA211_04825_LOASHKANA_000_082,那個女人……艾爾蕾特雖然自稱是在惡作劇，<hex:02100103>但惡作劇的時候對別人下毒也太過分了。
-118,TEXT_KINGBA211_04825_LOASHKANA_000_083,她還把祭器當做玩具……<hex:02100103>我老家的小孩子都比她懂事。<hex:02100103>真是的，太讓人火大了！
-119,TEXT_KINGBA211_04825_LOASHKANA_000_084,這次雖然沒能把祭器搶回來，<hex:02100103>但我們至少弄明白了小偷的名字和樣貌，<hex:02100103>追捕工作的難度一下子降低了。
-120,TEXT_KINGBA211_04825_LOASHKANA_000_085,接下來我打算繼續用這些線索去找更多的情報。<hex:02100103>到時候還請你繼續幫忙啦！
-121,TEXT_KINGBA211_04825_KOKONAWA_000_059,
-122,TEXT_KINGBA211_04825_KOKONAWA_000_063,
-123,TEXT_KINGBA211_04825_LOALHKANA_000_001,
-124,TEXT_KINGBA211_04825_LOALHKANA_000_002,
-125,TEXT_KINGBA211_04825_LOALHKANA_000_003,
-126,TEXT_KINGBA211_04825_LOALHKANA_000_007,
-127,TEXT_KINGBA211_04825_LOALHKANA_000_012,
-128,TEXT_KINGBA211_04825_LOALHKANA_000_013,
-129,TEXT_KINGBA211_04825_LOALHKANA_000_014,
-130,TEXT_KINGBA211_04825_LOALHKANA_000_015,
-131,TEXT_KINGBA211_04825_LOALHKANA_000_021,
-132,TEXT_KINGBA211_04825_LOALHKANA_000_022,
-133,TEXT_KINGBA211_04825_LOALHKANA_000_023,
-134,TEXT_KINGBA211_04825_LOALHKANA_000_024,
-135,TEXT_KINGBA211_04825_LOALHKANA_000_025,
-136,TEXT_KINGBA211_04825_LOALHKANA_000_026,
-137,TEXT_KINGBA211_04825_LOALHKANA_000_027,
-138,TEXT_KINGBA211_04825_LOALHKANA_000_034,
-139,TEXT_KINGBA211_04825_LOALHKANA_000_037,
-140,TEXT_KINGBA211_04825_LOALHKANA_000_038,
-141,TEXT_KINGBA211_04825_LOALHKANA_000_041,
-142,TEXT_KINGBA211_04825_LOALHKANA_100_047,
-143,TEXT_KINGBA211_04825_LOALHKANA_110_050,
-144,TEXT_KINGBA211_04825_LOALHKANA_000_055,
-145,TEXT_KINGBA211_04825_LOALHKANA_000_060,
-146,TEXT_KINGBA211_04825_LOALHKANA_000_065,
-147,TEXT_KINGBA211_04825_LOALHKANA_000_069,
-148,TEXT_KINGBA211_04825_LOALHKANA_000_074,
-149,TEXT_KINGBA211_04825_LOALHKANA_000_075,
-150,TEXT_KINGBA211_04825_LOALHKANA_000_081,
-151,TEXT_KINGBA211_04825_LOALHKANA_000_082,
-152,TEXT_KINGBA211_04825_LOALHKANA_000_083,
-153,TEXT_KINGBA211_04825_LOALHKANA_000_084,
-154,TEXT_KINGBA211_04825_LOALHKANA_000_085,
+0,"TEXT_KINGBA211_04825_SEQ_00","Loashkana seeks a word of advice."
+1,"TEXT_KINGBA211_04825_SEQ_01","Though she attempts to put on a brave face, Loashkana reveals that there has been little word on the Heartsting's whereabouts. Just as she begins rethinking her plans, however, the sunny Yellowjacket storms into your conversation, eager to report that the pair masquerading as fruit merchants has left Limsa Lominsa for Aleport. Her spirits lifted, Loashkana makes for the hamlet and urges you to follow at your earliest convenience."
+2,"TEXT_KINGBA211_04825_SEQ_02","Loashkana greets you in Aleport with potentially good news─a veteran merchant may have information to share regarding the pair you seek. With no other leads, you head off in search of the trader."
+3,"TEXT_KINGBA211_04825_SEQ_03","The merchant is aware of the traveling pair, and claims he last spotted them selling potions and elixirs to two fledgling adventurers. Upon learning that the remedies may be poisoned, he bids you seek out the likely targets, who were last seen on their way to Swiftperch."
+4,"TEXT_KINGBA211_04825_SEQ_04","You locate the adventurers─Wyssulm and Zerig─under attack by an aggressive trio of mammets. With the mechanical monstrosities thus dispatched, Wyssulm looks to you for a helping hand."
+5,"TEXT_KINGBA211_04825_SEQ_05","Wyssulm thanks you for your timely aid, but wastes no time making his next request on Zerig's behalf. The conjurer suffers from an uncontrollable and violent bout of hiccups, and the lad requires Esuna to speak clearly once more."
+6,"TEXT_KINGBA211_04825_SEQ_06","With Zerig's hiccups finally cured, the adventurers breathe a sigh of relief...yet the moment is short-lived. Ellerete and Kokonowa─the Unbound brigands─bombastically reveal themselves, though the two vanish in a cloud of putrid smoke as quickly as they appeared. Realizing that she must reevaluate her approach if she is to corner her quarry, Loashkana returns to Limsa Lominsa to gather her thoughts."
+7,"TEXT_KINGBA211_04825_SEQ_07","Though the Unbound's misuse of the Heartsting stokes Loashkana's ire, she takes a small victory in having discovered the culprits' identities. She urges you to prepare yourself in the meantime, for the hunt shall soon continue...<hex:02100103><hex:02100103>※The next role quest will be available from Loashkana upon reaching level 94 in any healer class."
+8,"TEXT_KINGBA211_04825_SEQ_08",""
+9,"TEXT_KINGBA211_04825_SEQ_09",""
+10,"TEXT_KINGBA211_04825_SEQ_10",""
+11,"TEXT_KINGBA211_04825_SEQ_11",""
+12,"TEXT_KINGBA211_04825_SEQ_12",""
+13,"TEXT_KINGBA211_04825_SEQ_13",""
+14,"TEXT_KINGBA211_04825_SEQ_14",""
+15,"TEXT_KINGBA211_04825_SEQ_15",""
+16,"TEXT_KINGBA211_04825_SEQ_16",""
+17,"TEXT_KINGBA211_04825_SEQ_17",""
+18,"TEXT_KINGBA211_04825_SEQ_18",""
+19,"TEXT_KINGBA211_04825_SEQ_19",""
+20,"TEXT_KINGBA211_04825_SEQ_20",""
+21,"TEXT_KINGBA211_04825_SEQ_21",""
+22,"TEXT_KINGBA211_04825_SEQ_22",""
+23,"TEXT_KINGBA211_04825_SEQ_23",""
+24,"TEXT_KINGBA211_04825_TODO_00","Speak with Loashkana in Aleport."
+25,"TEXT_KINGBA211_04825_TODO_01","Speak with the knowledgeable merchant."
+26,"TEXT_KINGBA211_04825_TODO_02","Search for Wyssulm and Zerig, and defeat any enemies that threaten them."
+27,"TEXT_KINGBA211_04825_TODO_03","Aid Wyssulm."
+28,"TEXT_KINGBA211_04825_TODO_04","Cast Esuna on Zerig."
+29,"TEXT_KINGBA211_04825_TODO_05","Speak with Loashkana in Limsa Lominsa."
+30,"TEXT_KINGBA211_04825_TODO_06",""
+31,"TEXT_KINGBA211_04825_TODO_07",""
+32,"TEXT_KINGBA211_04825_TODO_08",""
+33,"TEXT_KINGBA211_04825_TODO_09",""
+34,"TEXT_KINGBA211_04825_TODO_10",""
+35,"TEXT_KINGBA211_04825_TODO_11",""
+36,"TEXT_KINGBA211_04825_TODO_12",""
+37,"TEXT_KINGBA211_04825_TODO_13",""
+38,"TEXT_KINGBA211_04825_TODO_14",""
+39,"TEXT_KINGBA211_04825_TODO_15",""
+40,"TEXT_KINGBA211_04825_TODO_16",""
+41,"TEXT_KINGBA211_04825_TODO_17",""
+42,"TEXT_KINGBA211_04825_TODO_18",""
+43,"TEXT_KINGBA211_04825_TODO_19",""
+44,"TEXT_KINGBA211_04825_TODO_20",""
+45,"TEXT_KINGBA211_04825_TODO_21",""
+46,"TEXT_KINGBA211_04825_TODO_22",""
+47,"TEXT_KINGBA211_04825_TODO_23",""
+48,"TEXT_KINGBA211_04825_LOASHKANA_000_001","Say, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, can you spare a moment?"
+49,"TEXT_KINGBA211_04825_LOASHKANA_000_002","I'll...try to start on a positive note, then. The good news is that there've been no further incidents involving poisoned fruit."
+50,"TEXT_KINGBA211_04825_LOASHKANA_000_003","I should be happy about that, but it's not exactly conducive to tracking down our thieves. Despite my best attempts, my investigation's at a standstill."
+51,"TEXT_KINGBA211_04825_YELLOWJACKET04824_000_004","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>!"
+52,"TEXT_KINGBA211_04825_YELLOWJACKET04824_000_005","I bring news from the Coral Tower! A Lalafellin man matching the description of that fruit vendor was seen leaving the city with a Hyuran woman. It seems they were making for Aleport."
+53,"TEXT_KINGBA211_04825_YELLOWJACKET04824_000_006","We've increased patrols of late, so if I had to guess, the culprits are finding it harder to operate within the city. Seems we've forced them to withdraw for the time being."
+54,"TEXT_KINGBA211_04825_LOASHKANA_000_007","Aleport, you say? That's on this island, isn't it?"
+55,"TEXT_KINGBA211_04825_YELLOWJACKET04824_000_008","Yes, that's right! It's possible to go on foot, but the ferry by the Fishermen's Guild can take you straight there."
+56,"TEXT_KINGBA211_04825_YELLOWJACKET04824_000_009","While we Yellowjackets must continue to keep an eye on things here, it's reassuring to know an adventurer of <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>'s caliber is on the case."
+57,"TEXT_KINGBA211_04825_YELLOWJACKET04824_000_010","If you plan to pursue the suspects, Aleport's your best bet."
+58,"TEXT_KINGBA211_04825_YELLOWJACKET04824_000_011","That said, I should get back to work! It was an honor to meet you and your friend, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Safe travels to you both, and give those crooks a good thrashing for me!"
+59,"TEXT_KINGBA211_04825_LOASHKANA_000_012","The city's protectors place so much trust in your abilities... I'm lucky to have you on my side."
+60,"TEXT_KINGBA211_04825_LOASHKANA_000_013","When I first set sail for Eorzea, I feared I'd never see the Heartsting again...but we're one step closer to bringing it home."
+61,"TEXT_KINGBA211_04825_LOASHKANA_000_014","In any event, we'd best find our way to the port town before that pair of troublemakers defiles another fruit supply."
+62,"TEXT_KINGBA211_04825_LOASHKANA_000_015","I'll go on ahead and take the ferry. Meet me in Aleport once you're ready!"
+63,"TEXT_KINGBA211_04825_LOASHKANA_000_021","Ah! There you are, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. You're a welcome sight among such unfamiliar scenery."
+64,"TEXT_KINGBA211_04825_LOASHKANA_000_022","The ferry skipper was eager to teach me all about this area on the ride here, so I believe I have a general idea of what's what... Wouldn't want to lose my bearings on a hunt this important!"
+65,"TEXT_KINGBA211_04825_LOASHKANA_000_023","I asked him about our “merchants,” but he said he hadn't seen a pair like that."
+66,"TEXT_KINGBA211_04825_LOASHKANA_000_024","The skipper <hex:021A020203>did<hex:021A020103> mention another merchant, though─one who's well versed in the comings and goings of his fellow traders. If anyone's sighted our unlikely duo, it's him."
+67,"TEXT_KINGBA211_04825_LOASHKANA_000_025","Let's hope it's enough to put us on the culprits' trail again."
+68,"TEXT_KINGBA211_04825_LOASHKANA_000_026","The merchant we seek should be peddling his wares by the gates to Skull Valley, so let's start there."
+69,"TEXT_KINGBA211_04825_LOASHKANA_000_027","He matches the skipper's description. I think we've found our merchant!"
+70,"TEXT_KINGBA211_04825_MERCHANT04825A_000_031","Eh? Can I help ye?"
+71,"TEXT_KINGBA211_04825_MERCHANT04825A_000_032","A Lalafell an' a Hyur travelin' together? Aye, I've spied 'em. Though I'd never seen 'em afore, they certainly made an impression."
+72,"TEXT_KINGBA211_04825_MERCHANT04825A_000_033","They sold some potions an' elixirs to a pair of fresh-faced adventurers, on the cheap, from what I could tell."
+73,"TEXT_KINGBA211_04825_LOASHKANA_000_034","If those merchants really are our culprits, then those potions are most likely tainted with toxins."
+74,"TEXT_KINGBA211_04825_MERCHANT04825A_000_035","Toxins, ye say!? That don't bode well... The adventurers who bought 'em─a marauder named Wyssulm and a conjurer named Zerig─already left for their next job. Said they were escortin' one o' the local farmers over to Swiftperch."
+75,"TEXT_KINGBA211_04825_MERCHANT04825A_000_036","They're good lads, the two of 'em. They've been makin' life easier for the smallfolk here ever since they arrived, an' I'd hate to see somethin' happen to 'em. Someone needs to warn 'em about those potions right quick."
+76,"TEXT_KINGBA211_04825_LOASHKANA_000_037","Leave that to us!"
+77,"TEXT_KINGBA211_04825_LOASHKANA_000_038","Swiftperch is southeast of here, yes? Let's find them before the poison takes hold!"
+78,"TEXT_KINGBA211_04825_MERCHANT04825A_000_039","I've a supplier to meet elsewhere, so I can't stay long...but please, find those lads afore it's too late. Keep yer eyes peeled for a Roegadyn marauder an' a Hyuran conjurer on the road to Swiftperch─that'll be Wyssulm and Zerig."
+79,"TEXT_KINGBA211_04825_LOASHKANA_000_041","Stay on your guard, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. We're being watched."
+80,"TEXT_KINGBA211_04825_ZERIG_000_042","I-I can't─hic!─stop these blasted─hic!─hiccups! Please, you must─hic!─aid Wyssulm!"
+81,"TEXT_KINGBA211_04825_MERCHANT04825B_000_043","That was too bloody close for comfort... Thanks for savin' our arses, <hex:02080EE905FF05>lass<hex:FF04>lad<hex:03>."
+82,"TEXT_KINGBA211_04825_WYSSULM_000_045","Phew... Thank the gods you found us when you did."
+83,"TEXT_KINGBA211_04825_WYSSULM_000_046","Those potion sellers must've swindled us... One draught of elixir was all it took to send Zerig into the most furious fit of hiccups I've ever seen. Poor bastard couldn't cast a single spell."
+84,"TEXT_KINGBA211_04825_ZERIG_000_047","Who are you─hic!─calling a─hic!─“poor bastard”!?"
+85,"TEXT_KINGBA211_04825_LOASHKANA_100_047","If the Heartsting's toxins are at work here, we should be able to cleanse them with Esuna, just like last time!"
+86,"TEXT_KINGBA211_04825_WYSSULM_100_048","I'm sorry, did you say─oh, sod it. We'll have plenty of time to chat after Zerig stops hiccupping up a storm."
+87,"TEXT_KINGBA211_04825_WYSSULM_000_048","I hate to ask more of you...but if you could cast Esuna on my partner, it'd be much appreciated."
+88,"TEXT_KINGBA211_04825_WYSSULM_000_049","The lass in red said Esuna would cure Zerig, right? Go on, then. He's stubborn, aye, but he won't bite."
+89,"TEXT_KINGBA211_04825_LOASHKANA_110_050","If the Heartsting's toxins are at work here, you should be able to cleanse Zerig's hiccups with Esuna. While you do, I'm going to keep watch─I have a feeling our troubles aren't over yet."
+90,"TEXT_KINGBA211_04825_ZERIG_000_051","Gods, this is─hic!─embarrassing..."
+91,"TEXT_KINGBA211_04825_SYSTEM_000_052","Zerig's severe hiccups are preventing him from speaking further. Dispel his ailment with Esuna."
+92,"TEXT_KINGBA211_04825_ZERIG_000_053","I...I can speak again! You have my thanks."
+93,"TEXT_KINGBA211_04825_WYSSULM_000_054","Bloody hells... First we waste our hard-earned coin on poisoned potions, and now there are killer mammets on the loose!? What's the world coming to?"
+94,"TEXT_KINGBA211_04825_LOASHKANA_000_055","Who goes there!? Show yourself!"
+95,"TEXT_KINGBA211_04825_ELLERETE_000_056","(-???-)Oh, me! Oh, my! Our spear-wielding friend is sharp of eye!"
+96,"TEXT_KINGBA211_04825_WYSSULM_000_057","You... You're the frauds from Aleport!"
+97,"TEXT_KINGBA211_04825_ELLERETE_000_058","(-Artful Alchemist-)Why, yes! And watching your scrawny compatriot suffer was the highlight of our <hex:020835E3E90C0DFF17><hex:020813E3E90C05FF08>evening<hex:FF04>day<hex:03><hex:FF17><hex:020813E3E90C12FF04>day<hex:FF08>evening<hex:03><hex:03>! I admit, the poison was meant to silence him, but <hex:021A020203>hiccups<hex:021A020103>? 'Twas comedy at its finest!"
+98,"TEXT_KINGBA211_04825_KOKONOWA_000_059","(-Cold-blooded Goldsmith-)Perhaps the elixir reacted with the venom... Regardless, we've had our fill of fun from the results, so I shan't complain."
+99,"TEXT_KINGBA211_04825_LOASHKANA_000_060","“Venom”? Then you must be the thieving cowards from the Passage of the Unbound!"
+100,"TEXT_KINGBA211_04825_ELLERETE_000_061","(-Artful Alchemist-)Oh, my sweet faerie apple, you <hex:021A020203>know<hex:021A020103> us? I suppose that means we're famous! I can't believe it─oh, who am I kidding─yes, I can."
+101,"TEXT_KINGBA211_04825_ELLERETE_000_062","Indeed, I am the Passage of the Unbound's alchemist extraordinaire...the illustrious Ellerete! And I'm so very, very pleased to make your acquaintance!"
+102,"TEXT_KINGBA211_04825_KOKONOWA_000_063","Kokonowa, at your service: Ellerete's helping hand and master of mammets."
+103,"TEXT_KINGBA211_04825_ELLERETE_000_064","Your garb is ever so familiar to me, my dear... Ah! Don't tell me─you hail from that little village in Tural, don't you! My goodness, you've come a long way! How was the voyage? Enjoying the sights?"
+104,"TEXT_KINGBA211_04825_LOASHKANA_000_065","Enough! You've got a lot of explaining to do, starting with the reason you took the Heartsting! Is this part of your organization's grand scheme?"
+105,"TEXT_KINGBA211_04825_ELLERETE_100_066","Well, well... The apple bites back! 'Tis true that my Unbound compatriots harbor lofty ambitions, yes. But I have no interest in overthrowing nations! I merely crave the mires of chaos they've promised me."
+106,"TEXT_KINGBA211_04825_ELLERETE_000_066","I aim to bring more laughter into this dreary world, one mischief─and a few handy poisons─at a time! Kokonowa and I are having oodles of fun expanding our repertoire of toxic treats."
+107,"TEXT_KINGBA211_04825_ELLERETE_000_067","Yet there's no greater kill to our thrills than a healer who can whisk our hard work away... Unless, of course, I master a toxin even <hex:02080CE905FF04>she<hex:FF03>he<hex:03> can't cure. Oooh, I do love a challenge!"
+108,"TEXT_KINGBA211_04825_ELLERETE_000_068","Now, I hate to leave you, my dears, but our work here is done, and we've a busy schedule ahead of us. Mammets to mend, venomous misdeeds to master... Ta-ta for now!"
+109,"TEXT_KINGBA211_04825_LOASHKANA_000_069","No! Wait, damn you!"
+110,"TEXT_KINGBA211_04825_WYSSULM_000_070","Urgh, that stench! Smells like a corpse just shat itself..."
+111,"TEXT_KINGBA211_04825_ZERIG_000_071","This odor is too much to bear... Take me home to the Twelveswood, Wyssulm... The air is...clearer there..."
+112,"TEXT_KINGBA211_04825_WYSSULM_000_072","Oh, no─don't you dare give out on me, Zerig! We've still got a job to do!"
+113,"TEXT_KINGBA211_04825_WYSSULM_000_073","We mustn't keep our client waiting any longer, but we're in your debt. Thank you again for everything, Miss, erm..."
+114,"TEXT_KINGBA211_04825_LOASHKANA_000_074","Loashkana. And this here is <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Take care of each other out there!"
+115,"TEXT_KINGBA211_04825_LOASHKANA_000_075","<sigh> Much as I'd like to track down the Unbound, I know better than to tread further into their territory without a plan. For now, I think it best we return to Limsa Lominsa."
+116,"TEXT_KINGBA211_04825_LOASHKANA_000_081","Thank you for the support back there, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Esuna truly does work wonders!"
+117,"TEXT_KINGBA211_04825_LOASHKANA_000_082","And that Ellerete... I can't stop thinking about what she said. My blood boils, knowing that this is all some sick game to her."
+118,"TEXT_KINGBA211_04825_LOASHKANA_000_083","How dare she toy with the Heartsting for her own amusement! Honestly, even the youngest children in my village have more sense!"
+119,"TEXT_KINGBA211_04825_LOASHKANA_000_084","Still, we did make progress. Now that the villains have revealed themselves, it'll be easier to give chase when they choose to make their next move."
+120,"TEXT_KINGBA211_04825_LOASHKANA_000_085","In any case, I'll keep you apprised of the latest news as soon as I hear it. We'll be back to the hunt before long!"
+121,"TEXT_KINGBA211_04825_KOKONAWA_000_059",""
+122,"TEXT_KINGBA211_04825_KOKONAWA_000_063",""
+123,"TEXT_KINGBA211_04825_LOALHKANA_000_001",""
+124,"TEXT_KINGBA211_04825_LOALHKANA_000_002",""
+125,"TEXT_KINGBA211_04825_LOALHKANA_000_003",""
+126,"TEXT_KINGBA211_04825_LOALHKANA_000_007",""
+127,"TEXT_KINGBA211_04825_LOALHKANA_000_012",""
+128,"TEXT_KINGBA211_04825_LOALHKANA_000_013",""
+129,"TEXT_KINGBA211_04825_LOALHKANA_000_014",""
+130,"TEXT_KINGBA211_04825_LOALHKANA_000_015",""
+131,"TEXT_KINGBA211_04825_LOALHKANA_000_021",""
+132,"TEXT_KINGBA211_04825_LOALHKANA_000_022",""
+133,"TEXT_KINGBA211_04825_LOALHKANA_000_023",""
+134,"TEXT_KINGBA211_04825_LOALHKANA_000_024",""
+135,"TEXT_KINGBA211_04825_LOALHKANA_000_025",""
+136,"TEXT_KINGBA211_04825_LOALHKANA_000_026",""
+137,"TEXT_KINGBA211_04825_LOALHKANA_000_027",""
+138,"TEXT_KINGBA211_04825_LOALHKANA_000_034",""
+139,"TEXT_KINGBA211_04825_LOALHKANA_000_037",""
+140,"TEXT_KINGBA211_04825_LOALHKANA_000_038",""
+141,"TEXT_KINGBA211_04825_LOALHKANA_000_041",""
+142,"TEXT_KINGBA211_04825_LOALHKANA_100_047",""
+143,"TEXT_KINGBA211_04825_LOALHKANA_110_050",""
+144,"TEXT_KINGBA211_04825_LOALHKANA_000_055",""
+145,"TEXT_KINGBA211_04825_LOALHKANA_000_060",""
+146,"TEXT_KINGBA211_04825_LOALHKANA_000_065",""
+147,"TEXT_KINGBA211_04825_LOALHKANA_000_069",""
+148,"TEXT_KINGBA211_04825_LOALHKANA_000_074",""
+149,"TEXT_KINGBA211_04825_LOALHKANA_000_075",""
+150,"TEXT_KINGBA211_04825_LOALHKANA_000_081",""
+151,"TEXT_KINGBA211_04825_LOALHKANA_000_082",""
+152,"TEXT_KINGBA211_04825_LOALHKANA_000_083",""
+153,"TEXT_KINGBA211_04825_LOALHKANA_000_084",""
+154,"TEXT_KINGBA211_04825_LOALHKANA_000_085",""

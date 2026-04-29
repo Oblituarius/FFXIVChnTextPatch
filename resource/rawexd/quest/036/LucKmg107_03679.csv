@@ -2,157 +2,157 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_LUCKMG107_03679_SEQ_00,光榮門附近的阿爾菲諾正在整理獲得的情報。
-1,TEXT_LUCKMG107_03679_SEQ_01,
-2,TEXT_LUCKMG107_03679_SEQ_02,
-3,TEXT_LUCKMG107_03679_SEQ_03,
-4,TEXT_LUCKMG107_03679_SEQ_04,
-5,TEXT_LUCKMG107_03679_SEQ_05,
-6,TEXT_LUCKMG107_03679_SEQ_06,
-7,TEXT_LUCKMG107_03679_SEQ_07,
-8,TEXT_LUCKMG107_03679_SEQ_08,
-9,TEXT_LUCKMG107_03679_SEQ_09,
-10,TEXT_LUCKMG107_03679_SEQ_10,
-11,TEXT_LUCKMG107_03679_SEQ_11,
-12,TEXT_LUCKMG107_03679_SEQ_12,
-13,TEXT_LUCKMG107_03679_SEQ_13,
-14,TEXT_LUCKMG107_03679_SEQ_14,
-15,TEXT_LUCKMG107_03679_SEQ_15,
-16,TEXT_LUCKMG107_03679_SEQ_16,
-17,TEXT_LUCKMG107_03679_SEQ_17,
-18,TEXT_LUCKMG107_03679_SEQ_18,
-19,TEXT_LUCKMG107_03679_SEQ_19,
-20,TEXT_LUCKMG107_03679_SEQ_20,
-21,TEXT_LUCKMG107_03679_SEQ_21,
-22,TEXT_LUCKMG107_03679_SEQ_22,
-23,TEXT_LUCKMG107_03679_SEQ_23,
-24,TEXT_LUCKMG107_03679_TODO_00,和工匠村的居民對話
-25,TEXT_LUCKMG107_03679_TODO_01,和梯頂的阿爾菲諾對話
-26,TEXT_LUCKMG107_03679_TODO_02,在友好村尋找采·努茲
-27,TEXT_LUCKMG107_03679_TODO_03,和特里斯特爾對話
-28,TEXT_LUCKMG107_03679_TODO_04,和八號坑口的萊恩登對話
-29,TEXT_LUCKMG107_03679_TODO_05,和采·努茲對話
-30,TEXT_LUCKMG107_03679_TODO_06,
-31,TEXT_LUCKMG107_03679_TODO_07,
-32,TEXT_LUCKMG107_03679_TODO_08,
-33,TEXT_LUCKMG107_03679_TODO_09,
-34,TEXT_LUCKMG107_03679_TODO_10,
-35,TEXT_LUCKMG107_03679_TODO_11,
-36,TEXT_LUCKMG107_03679_TODO_12,
-37,TEXT_LUCKMG107_03679_TODO_13,
-38,TEXT_LUCKMG107_03679_TODO_14,
-39,TEXT_LUCKMG107_03679_TODO_15,
-40,TEXT_LUCKMG107_03679_TODO_16,
-41,TEXT_LUCKMG107_03679_TODO_17,
-42,TEXT_LUCKMG107_03679_TODO_18,
-43,TEXT_LUCKMG107_03679_TODO_19,
-44,TEXT_LUCKMG107_03679_TODO_20,
-45,TEXT_LUCKMG107_03679_TODO_21,
-46,TEXT_LUCKMG107_03679_TODO_22,
-47,TEXT_LUCKMG107_03679_TODO_23,
-48,TEXT_LUCKMG107_03679_KAISHIRR_000_000,越聽越覺得游末邦還有很多問題，<hex:02100103>如果讓我去當元首的話……我會怎麼做呢？<hex:02100103>我明明連自己想做什麼都不清楚……
-49,TEXT_LUCKMG107_03679_ALPHINAUD_000_020,根據<hex:022903EB0203>收集到的情報來看，<hex:02100103>采·努茲閣下除了游末邦的現狀外，<hex:02100103>也在打聽周邊集落的情況。
-50,TEXT_LUCKMG107_03679_ALPHINAUD_000_021,那麼，他很有可能親自去那些集落進行調查了。<hex:02100103>就讓我們分頭行動，去各個集落收集目擊情報吧。
-51,TEXT_LUCKMG107_03679_ALPHINAUD_000_022,凱·希爾，門前區你比較熟，就交給你了。<hex:02100103>我去滯潮村，那邊我認識的人比較多。<hex:02100103><hex:022903EB0203>，你就去工匠村那邊看看吧。
-52,TEXT_LUCKMG107_03679_KAISHIRR_000_023,我知道了，<hex:02100103>等結束後在哪集合呢？
-53,TEXT_LUCKMG107_03679_ALPHINAUD_000_024,如果各個集落都沒有目擊情報的話，<hex:02100103>那就只剩珂露西亞島北邊那片通過升降機才能上去的高地了。<hex:02100103>為了方便去那邊搜索，就在梯頂集合吧。
-54,TEXT_LUCKMG107_03679_ALPHINAUD_000_025,如果有誰找到了采·努茲閣下，<hex:02100103>就把他也帶到梯頂去。<hex:02100103>到時候在那裡慢慢聽他說明為何離開游末邦。
-55,TEXT_LUCKMG107_03679_ALPHINAUD_000_030,很久沒來了……感覺沒什麼變化呢。<hex:02100103>我本以為沒了妙料，這裡的漁業會變發達，<hex:02100103>看來事情沒那麼簡單啊……
-56,TEXT_LUCKMG107_03679_KAISHIRR_000_033,門前區就交給我吧！<hex:02100103>這一帶有不少人認識采·努茲，<hex:02100103>而且他的穿著在這裡很顯眼，肯定能打聽出一些消息的！
-57,TEXT_LUCKMG107_03679_HASTELOT_000_040,確實有一位中年貓秘族的紳士來過這裡。<hex:02100103>他很擔心工匠村與游末邦的關係，<hex:02100103>所以和村裡的人們聊了很多。
-58,TEXT_LUCKMG107_03679_HASTELOT_000_041,為了配給的妙料和奢華的生活，<hex:02100103>很多人選擇了離開這裡前往游末邦。
-59,TEXT_LUCKMG107_03679_HASTELOT_000_042,而且，沃斯里大王還因為我們不聽從他的命令，<hex:02100103>撤走了這裡的警備兵。
-60,TEXT_LUCKMG107_03679_HASTELOT_000_043,所以面對獨行食罪靈的襲擊，我們毫無還手之力……<hex:02100103>也正是因為這樣，村裡大部分的人都憎恨起了游末邦。
-61,TEXT_LUCKMG107_03679_HASTELOT_000_044,我和造訪村子的紳士說，<hex:02100103>雖然沃斯里不在了，<hex:02100103>但游末邦是否會因此而改變，還有待觀察。
-62,TEXT_LUCKMG107_03679_HASTELOT_000_045,他也向其他村民問了類似的問題，<hex:02100103>之後便一臉憔悴地離開了村子。
-63,TEXT_LUCKMG107_03679_HASTELOT_000_060,除非看到游末邦發生改變，<hex:02100103>否則村裡的人們是不會信任那裡的。<hex:02100103>那位紳士聽到這些後，便一臉憔悴地離開了村子。
-64,TEXT_LUCKMG107_03679_KAISHIRR_000_065,采·努茲好像去過門前區，<hex:02100103>大家都說第一次見到那麼畏首畏尾的自由民，<hex:02100103>所以記得很清楚，不會有錯。
-65,TEXT_LUCKMG107_03679_ALPHINAUD_000_080,嗯……你沒把采·努茲閣下帶來的話，<hex:02100103>也就是說他也不在工匠村是吧……<hex:02100103>那麼，你收集到什麼情報了嗎？
-66,TEXT_LUCKMG107_03679_ALPHINAUD_100_080,原來如此，他問了這些……<hex:02100103>我們去了幾個集落，也沒見到他本人，<hex:02100103>不過，他也問了村民如何看待游末邦的問題。
-67,TEXT_LUCKMG107_03679_ALPHINAUD_000_081,看來他在尋找修復與各個集落關係的突破口。<hex:02100103>那與游末邦關係匪淺的集落就只剩友好村了。
-68,TEXT_LUCKMG107_03679_ALPHINAUD_000_082,采·努茲閣下很有可能去了那裡，<hex:02100103>我們就去友好村找找看吧。
-69,TEXT_LUCKMG107_03679_CHAINUZZ_000_119,唔，你們怎麼……
-70,TEXT_LUCKMG107_03679_ALPHINAUD_000_120,采·努茲先生！<hex:02100103>終於找到你了！
-71,TEXT_LUCKMG107_03679_CHAINUZZ_100_120,找我？為什麼？
-72,TEXT_LUCKMG107_03679_ALPHINAUD_000_121,杜麗雅夫人向我們求助，說你失蹤了，<hex:02100103>她為此感到非常擔心！
-73,TEXT_LUCKMG107_03679_CHAINUZZ_000_122,什麼？<hex:02100103>我不是給她留了信嗎？<hex:02100103>就放在屋裡的桌子上……
-74,TEXT_LUCKMG107_03679_CHAINUZZ_000_123,……我知道了，肯定是她起床後沒找到我，<hex:02100103>也沒仔細看看屋裡就跑出來了……<hex:02100103>是我不好，忽略了她馬虎的性格……
-75,TEXT_LUCKMG107_03679_ALPHINAUD_000_124,采·努茲閣下……可以的話，<hex:02100103>能不能跟我們講一下，<hex:02100103>您離開游末邦是要做什麼嗎？
-76,TEXT_LUCKMG107_03679_ALPHINAUD_000_125,我們聽說你被選為下任元首的事了，<hex:02100103>在找你的時候，<hex:02100103>也得知了你在調查游末邦與周邊集落關係的問題。
-77,TEXT_LUCKMG107_03679_ALPHINAUD_100_125,也就是說……你為了讓自己成為一名好元首，<hex:02100103>所以在做事先調查？
-78,TEXT_LUCKMG107_03679_CHAINUZZ_102_125,等、等等啊，別著急下結論！
-79,TEXT_LUCKMG107_03679_CHAINUZZ_103_125,我確實在做事先調查，<hex:02100103>不過，我是一個不打無把握之仗的人。
-80,TEXT_LUCKMG107_03679_CHAINUZZ_000_126,在做好萬全的準備之前，<hex:02100103>我是不準備接受大家的推薦成為元首的。
-81,TEXT_LUCKMG107_03679_ALPHINAUD_000_127,做準備嗎？<hex:02100103>那你來友好村也是因為這個？
-82,TEXT_LUCKMG107_03679_CHAINUZZ_000_128,沒錯……我問了很多不同立場的人，收集了情報，<hex:02100103>其中雖然數量不多，但也有幾個人表示願意為<hex:02100103>重建游末邦獻上一份力量。
-83,TEXT_LUCKMG107_03679_CHAINUZZ_000_129,接下來我還需要一個人的能力，<hex:02100103>如果能說服這個人幫我，<hex:02100103>那這個元首之位我可以一試。
-84,TEXT_LUCKMG107_03679_ALPHINAUD_000_130,原來如此……<hex:02100103>正因為你是一個經過深思熟慮才會下定論的人，<hex:02100103>所以我才能每次都打心底相信你所說的話。
-85,TEXT_LUCKMG107_03679_ALPHINAUD_000_131,現在的游末邦，需要像你這樣<hex:02100103>決意憑自己的力量重建的元首。<hex:02100103>就讓我也一起幫忙說服剩下的那位幫手吧。
-86,TEXT_LUCKMG107_03679_KAISHIRR_000_132,（★未使用／削除予定★）
-87,TEXT_LUCKMG107_03679_Q1_000_500,要說什麼？
-88,TEXT_LUCKMG107_03679_A1_000_500,我也來幫忙
-89,TEXT_LUCKMG107_03679_A2_000_500,加油，采·努茲！
-90,TEXT_LUCKMG107_03679_CHAINUZZ_000_133,你們……
-91,TEXT_LUCKMG107_03679_KAISHIRR_100_133,那個……雖然我可能做不到什麼……<hex:02100103>但是能讓我也跟你們一起去嗎？
-92,TEXT_LUCKMG107_03679_KAISHIRR_101_133,多虧了<hex:022903EB0203>和阿爾菲諾先生，<hex:02100103>才能順利地找到采·努茲先生。<hex:02100103>但是，我不想就這麼回去……
-93,TEXT_LUCKMG107_03679_KAISHIRR_102_133,我對游末邦的憧憬，<hex:02100103>早已在真相被揭露的時候就消失殆盡了。<hex:02100103>可直到現在，我都還沒有找到新的目標。
-94,TEXT_LUCKMG107_03679_KAISHIRR_103_133,當我在失去目標，不知該如何是好的時候，<hex:02100103>采·努茲先生已經在考慮游末邦的未來了，<hex:02100103>你認真聽取人們的意見，正在努力向前進。
-95,TEXT_LUCKMG107_03679_KAISHIRR_104_133,然後<hex:022903EB0203>和阿爾菲諾先生<hex:02100103>在知道了采·努茲先生的目的後，<hex:02100103>也毫不猶豫地就說要一起幫忙……
-96,TEXT_LUCKMG107_03679_KAISHIRR_105_133,我也想像這樣找到自己想做的事，<hex:02100103>然後把它告訴周圍的人……<hex:02100103>所以，我想近距離觀察你們迎接全新挑戰時的樣子。
-97,TEXT_LUCKMG107_03679_ALPHINAUD_000_134,（★未使用／削除予定★）
-98,TEXT_LUCKMG107_03679_CHAINUZZ_100_134,我並沒有你說的那麼偉大，<hex:02100103>面對未知挑戰的恐怖依舊衝擊著我的內心……<hex:02100103>不管怎麼說，我沒有理由拒絕你跟我們一起走。
-99,TEXT_LUCKMG107_03679_KAISHIRR_101_134,采·努茲先生……還有二位……<hex:02100103>謝謝你們！
-100,TEXT_LUCKMG107_03679_CHAINUZZ_102_134,話雖這麼說，可其實這挑戰已經在失敗的邊緣了……<hex:02100103>想要得到那個人的幫助，實屬困難。
-101,TEXT_LUCKMG107_03679_ALPHINAUD_103_134,此話怎講？<hex:02100103>難道說想要找的人，已經離開友好村了？
-102,TEXT_LUCKMG107_03679_CHAINUZZ_000_135,沒，他還在這裡……不過剛才我去找他的時候，<hex:02100103>他根本沒有交談的意向，轉身就走了。
-103,TEXT_LUCKMG107_03679_CHAINUZZ_000_136,那個人名叫萊恩登，<hex:02100103>是沃斯里的父親擔任游末邦元首時，<hex:02100103>負責輔佐元首的輔佐官。
-104,TEXT_LUCKMG107_03679_CHAINUZZ_100_136,當時負責政務的他，<hex:02100103>與負責軍務的蘭吉特將軍，<hex:02100103>被稱為游末邦的左右手。
-105,TEXT_LUCKMG107_03679_CHAINUZZ_000_137,企業經營和製作塔羅斯都還好說，<hex:02100103>但我對政治可是一竅不通，<hex:02100103>所以必須要得到萊恩登閣下的幫助才行。
-106,TEXT_LUCKMG107_03679_ALPHINAUD_000_138,原來如此……既然他已經無視過你一次，<hex:02100103>那即便就這麼追過去，也會是同樣的結果吧。
-107,TEXT_LUCKMG107_03679_ALPHINAUD_000_139,我們先問問友好村的人有關萊恩登的事吧，<hex:02100103>然後再想一下對策。
-108,TEXT_LUCKMG107_03679_CHAINUZZ_000_140,好吧……<hex:02100103>那就去問一下和我們相識的特里斯特爾吧。
-109,TEXT_LUCKMG107_03679_KAISHIRR_000_150,這裡的人們都在靠自己的雙手維持生活，<hex:02100103>而這也是他們憑自己的意志做出的決定……
-110,TEXT_LUCKMG107_03679_ALPHINAUD_000_155,采·努茲閣下竟然會如此想要得到萊恩登的幫助，<hex:02100103>看來他是一名非常優秀的輔佐官呢。
-111,TEXT_LUCKMG107_03679_CHAINUZZ_000_160,雖然我沒有資格去求特里斯特爾，<hex:02100103>可也沒別的辦法……不行，不能說喪氣話，<hex:02100103>為了邁向未來，誠心誠意去請教他吧。
-112,TEXT_LUCKMG107_03679_TRISTOL_000_180,各位好久不見，<hex:02100103>我知道你們的來意……因為我看到了采·努茲大人<hex:02100103>被萊恩登冷眼相待的情景。
-113,TEXT_LUCKMG107_03679_CHAINUZZ_000_181,是啊……雖然我沒有資格求助你，<hex:02100103>不過還請你告訴我一下有關萊恩登閣下的事……<hex:02100103>為了重建游末邦，必須要得到他的幫助才行。
-114,TEXT_LUCKMG107_03679_TRISTOL_000_182,……好吧。<hex:02100103>我也希望游末邦能變得更好。
-115,TEXT_LUCKMG107_03679_TRISTOL_000_183,萊恩登是一位非常嚴厲的人……<hex:02100103>他喜歡立場堅定的人，不喜歡意志薄弱的人。
-116,TEXT_LUCKMG107_03679_TRISTOL_000_184,我知道你對離開游末邦的人感到內疚，<hex:02100103>能悔過自新是件非常好的事。
-117,TEXT_LUCKMG107_03679_TRISTOL_000_185,可能是你那過度悔恨的態度，<hex:02100103>讓萊恩登覺得你太過軟弱了吧。<hex:02100103>如果想讓他幫你的話，需要展現堅定的立場和主見。
-118,TEXT_LUCKMG107_03679_CHAINUZZ_000_186,堅定的立場和主見啊……<hex:02100103>這兩樣是領導他人時必不可少的東西。
-119,TEXT_LUCKMG107_03679_TRISTOL_000_188,萊恩登好像去了北邊的八號坑口。<hex:02100103>接下來……就需要用你的誠心去打動他了。
-120,TEXT_LUCKMG107_03679_CHAINUZZ_000_189,……好、好的！<hex:02100103>那就前往八號坑口，再次向萊恩登閣下說一下我的想法吧。<hex:02100103>這次我要堅定自己的立場和主見……
-121,TEXT_LUCKMG107_03679_TRISTOL_000_200,萊恩登去了八號坑口。<hex:02100103>憑藉自己的雙腿造訪這裡的采·努茲大人<hex:02100103>肯定能打動他的。
-122,TEXT_LUCKMG107_03679_KAISHIRR_000_300,一個能讓市民回答出這個問題的國家……<hex:02100103>等我找到了自己想做的事，<hex:02100103>我也要在那樣的國家中生活。
-123,TEXT_LUCKMG107_03679_ALPHINAUD_000_305,確實，只靠理想和大道理無法聚集人心。<hex:02100103>這種事我經歷得太多了……<hex:02100103>萊恩登說的話深入我心。
-124,TEXT_LUCKMG107_03679_WRENDEN_000_310,就算想法再好，不付諸行動也沒有任何意義。<hex:02100103>他會怎麼做呢……
-125,TEXT_LUCKMG107_03679_CHAINUZZ_000_320,……好吧，快告訴我，<hex:02100103>需要解決的問題是什麼？
-126,TEXT_LUCKMG107_03679_WRENDEN_000_321,你剛才陳述的有關游末邦的問題都很正確。<hex:02100103>而其中最先應該解決的是食糧不足的問題。
-127,TEXT_LUCKMG107_03679_ALPHINAUD_000_322,嗯……不管是不是市民，游末邦的人<hex:02100103>之前都是靠著沃斯里提供的妙料來填飽肚子。<hex:02100103>就算現在有儲備糧，也會很快就被吃光吧……
-128,TEXT_LUCKMG107_03679_WRENDEN_000_323,飢餓會讓人們失去理智……<hex:02100103>這麼下去，遲早會發生內亂。
-129,TEXT_LUCKMG107_03679_WRENDEN_000_324,你就跟我說說該如何解決這個問題吧。<hex:02100103>當然，我不會給你任何建議……
-130,TEXT_LUCKMG107_03679_CHAINUZZ_000_325,我認為，在解決眼前的飢餓的同時，<hex:02100103>還要為長遠做打算。
-131,TEXT_LUCKMG107_03679_WRENDEN_000_326,不錯，具體方法是？
-132,TEXT_LUCKMG107_03679_CHAINUZZ_000_327,眼前的飢餓就通過用游末邦的儲備金<hex:02100103>從外部購買食物來解決，<hex:02100103>當然，這只是為了過渡前期的應急手段。
-133,TEXT_LUCKMG107_03679_CHAINUZZ_000_328,真正要解決食物問題的話，<hex:02100103>就需要讓人們移居廢村，或是人口顯著減少的周邊集落，<hex:02100103>然後通過種植農作物和捕魚狩獵，來保證食物來源。
-134,TEXT_LUCKMG107_03679_CHAINUZZ_000_330,當然，也有很多準備工作要做，<hex:02100103>比如改善與周邊集落的關係，維持周邊地區的治安，<hex:02100103>還有募集願意移居的人們等等……
-135,TEXT_LUCKMG107_03679_WRENDEN_000_331,……原來如此。<hex:02100103>這是你自己想到的？
-136,TEXT_LUCKMG107_03679_CHAINUZZ_000_332,是我在聽取了許多人的意見後想到的……<hex:02100103>不過都還只是理論而已。
-137,TEXT_LUCKMG107_03679_WRENDEN_000_333,……我基本上贊成。
-138,TEXT_LUCKMG107_03679_CHAINUZZ_000_334,這、這樣啊！那真是太好了！<hex:02100103>看來我的方向還算正確！
-139,TEXT_LUCKMG107_03679_WRENDEN_000_335,不過，光憑你的一張嘴，<hex:02100103>恐怕很難募集到願意移居的人吧。<hex:02100103>你要如何保證他們移居後的生活呢？
-140,TEXT_LUCKMG107_03679_CHAINUZZ_000_336,有關這點，我有個想法……<hex:02100103>我會將勞動塔羅斯借給願意移居的人們。<hex:02100103>只要有了塔羅斯，無論是種田還是捕魚，都會輕鬆許多！
-141,TEXT_LUCKMG107_03679_WRENDEN_000_337,什麼？<hex:02100103>我記得代達羅斯公司應該已經沒有生產塔羅斯的設備了吧？<hex:02100103>現在才重新準備設備的話，肯定來不及啊……
-142,TEXT_LUCKMG107_03679_CHAINUZZ_000_338,沒錯……<hex:02100103>不過，塔羅斯可是我的專長。
-143,TEXT_LUCKMG107_03679_CHAINUZZ_000_339,只要在場的見證人肯稍微施以援手，<hex:02100103>我相信，憑藉著我的知識和記憶，<hex:02100103>足以將不可能變為可能！
-144,TEXT_LUCKMG107_03679_KAISHIRR_000_121,（★未使用／削除予定★）
-145,TEXT_LUCKMG107_03679_TRISTOL_000_187,（★未使用／削除予定★）
-146,TEXT_LUCKMG107_03679_CHAINUZZ_000_329,（★未使用／削除予定★）
-147,TEXT_LUCKMG107_03679_WRIGHTRESIDENT_000_040,（★未使用／削除予定★）
-148,TEXT_LUCKMG107_03679_WRIGHTRESIDENT_000_041,（★未使用／削除予定★）
-149,TEXT_LUCKMG107_03679_WRIGHTRESIDENT_000_042,（★未使用／削除予定★）
-150,TEXT_LUCKMG107_03679_WRIGHTRESIDENT_000_043,（★未使用／削除予定★）
-151,TEXT_LUCKMG107_03679_WRIGHTRESIDENT_000_044,（★未使用／削除予定★）
-152,TEXT_LUCKMG107_03679_WRIGHTRESIDENT_000_045,（★未使用／削除予定★）
-153,TEXT_LUCKMG107_03679_WRIGHTRESIDENT_000_060,（★未使用／削除予定★）
+0,"TEXT_LUCKMG107_03679_SEQ_00","With furrowed brow, Alphinaud carefully considers where best to look next."
+1,"TEXT_LUCKMG107_03679_SEQ_01",""
+2,"TEXT_LUCKMG107_03679_SEQ_02",""
+3,"TEXT_LUCKMG107_03679_SEQ_03",""
+4,"TEXT_LUCKMG107_03679_SEQ_04",""
+5,"TEXT_LUCKMG107_03679_SEQ_05",""
+6,"TEXT_LUCKMG107_03679_SEQ_06",""
+7,"TEXT_LUCKMG107_03679_SEQ_07",""
+8,"TEXT_LUCKMG107_03679_SEQ_08",""
+9,"TEXT_LUCKMG107_03679_SEQ_09",""
+10,"TEXT_LUCKMG107_03679_SEQ_10",""
+11,"TEXT_LUCKMG107_03679_SEQ_11",""
+12,"TEXT_LUCKMG107_03679_SEQ_12",""
+13,"TEXT_LUCKMG107_03679_SEQ_13",""
+14,"TEXT_LUCKMG107_03679_SEQ_14",""
+15,"TEXT_LUCKMG107_03679_SEQ_15",""
+16,"TEXT_LUCKMG107_03679_SEQ_16",""
+17,"TEXT_LUCKMG107_03679_SEQ_17",""
+18,"TEXT_LUCKMG107_03679_SEQ_18",""
+19,"TEXT_LUCKMG107_03679_SEQ_19",""
+20,"TEXT_LUCKMG107_03679_SEQ_20",""
+21,"TEXT_LUCKMG107_03679_SEQ_21",""
+22,"TEXT_LUCKMG107_03679_SEQ_22",""
+23,"TEXT_LUCKMG107_03679_SEQ_23",""
+24,"TEXT_LUCKMG107_03679_TODO_00","Speak with Hastelot."
+25,"TEXT_LUCKMG107_03679_TODO_01","Speak with Alphinaud."
+26,"TEXT_LUCKMG107_03679_TODO_02","Search for Chai-Nuzz."
+27,"TEXT_LUCKMG107_03679_TODO_03","Speak with Tristol."
+28,"TEXT_LUCKMG107_03679_TODO_04","Speak with Wrenden."
+29,"TEXT_LUCKMG107_03679_TODO_05","Speak with Chai-Nuzz."
+30,"TEXT_LUCKMG107_03679_TODO_06",""
+31,"TEXT_LUCKMG107_03679_TODO_07",""
+32,"TEXT_LUCKMG107_03679_TODO_08",""
+33,"TEXT_LUCKMG107_03679_TODO_09",""
+34,"TEXT_LUCKMG107_03679_TODO_10",""
+35,"TEXT_LUCKMG107_03679_TODO_11",""
+36,"TEXT_LUCKMG107_03679_TODO_12",""
+37,"TEXT_LUCKMG107_03679_TODO_13",""
+38,"TEXT_LUCKMG107_03679_TODO_14",""
+39,"TEXT_LUCKMG107_03679_TODO_15",""
+40,"TEXT_LUCKMG107_03679_TODO_16",""
+41,"TEXT_LUCKMG107_03679_TODO_17",""
+42,"TEXT_LUCKMG107_03679_TODO_18",""
+43,"TEXT_LUCKMG107_03679_TODO_19",""
+44,"TEXT_LUCKMG107_03679_TODO_20",""
+45,"TEXT_LUCKMG107_03679_TODO_21",""
+46,"TEXT_LUCKMG107_03679_TODO_22",""
+47,"TEXT_LUCKMG107_03679_TODO_23",""
+48,"TEXT_LUCKMG107_03679_KAISHIRR_000_000","It didn't take long for folks to start moaning after Vauthry left. Now everyone in Eulmore's got something to complain about. Wouldn't want to be in Master Chai's shoes, having to keep that lot happy..."
+49,"TEXT_LUCKMG107_03679_ALPHINAUD_000_020","All we know for certain is that Master Chai has shown great concern not only for Eulmore, but its surrounding settlements."
+50,"TEXT_LUCKMG107_03679_ALPHINAUD_000_021","It seems logical, then, that having consulted those within the city walls, he would wish to do the same to those without."
+51,"TEXT_LUCKMG107_03679_ALPHINAUD_000_022","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, if you would go and make inquiries in Wright, I shall do likewise in Stilltide. Gatetown I leave to you, Kai-Shirr."
+52,"TEXT_LUCKMG107_03679_KAISHIRR_000_023","Fair enough. Where should we meet when we've finished?"
+53,"TEXT_LUCKMG107_03679_ALPHINAUD_000_024","Well...Top Rung would seem to me to be his next most likely destination."
+54,"TEXT_LUCKMG107_03679_ALPHINAUD_000_025","Let us reconvene there. With any luck, one of us will have stumbled upon him by then, but if not, we will be well situated to continue our search."
+55,"TEXT_LUCKMG107_03679_ALPHINAUD_000_030","With Vauthry gone, I had hoped things would change for the better, but this place seems little different from before. Perhaps they need more time..."
+56,"TEXT_LUCKMG107_03679_KAISHIRR_000_033","Don't worry, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. I know Gatetown like the back of my hand. If Master Chai's here, I'll find him in no time."
+57,"TEXT_LUCKMG107_03679_HASTELOT_000_040","...No, the name doesn't ring any bells. But there <hex:021A020203>was<hex:021A020103> a rather dapper-looking Mystel gentleman here not long ago. He wanted to talk about relations between Wright and Eulmore─or rather the lack of them."
+58,"TEXT_LUCKMG107_03679_HASTELOT_000_041","We lost a great many people to their promises of meol and the chance of a lavish life among the free."
+59,"TEXT_LUCKMG107_03679_HASTELOT_000_042","And Vauthry thought to take even more from us, conscripting the few able-bodied men we had left to guard his <hex:021A020203>paradise<hex:021A020103>."
+60,"TEXT_LUCKMG107_03679_HASTELOT_000_043","I needn't tell you what happened when the sin eaters came... Such things are hard to forgive."
+61,"TEXT_LUCKMG107_03679_HASTELOT_000_044","But Vauthry's gone now, and we're curious to see what will become of Eulmore in his absence."
+62,"TEXT_LUCKMG107_03679_HASTELOT_000_045","That's what I told your friend...Chai-Nuzz, was it? And I'm sure the others said the same. Not what he wanted to hear, I suppose, because he left soon after. And that was that."
+63,"TEXT_LUCKMG107_03679_HASTELOT_000_060","I hope we didn't do anything to give him offense, but you can't blame us for being wary. Not after all that's happened. If Eulmore one day shows signs of real change, perhaps we'll lend him a friendlier ear."
+64,"TEXT_LUCKMG107_03679_KAISHIRR_000_065","Turns out Master Chai was over in Gatetown too. He spoke to a few of the residents, apparently. They told me they'd never seen a posh bloke look so miserable."
+65,"TEXT_LUCKMG107_03679_ALPHINAUD_000_080","So he paid a visit to both Wright and Gatetown as well, did he?"
+66,"TEXT_LUCKMG107_03679_ALPHINAUD_100_080","I see. Kai-Shirr and I gleaned much the same."
+67,"TEXT_LUCKMG107_03679_ALPHINAUD_000_081","He seems determined to salvage what goodwill might yet remain among the settlements of Kholusia, the only likely place he has left to go being Amity."
+68,"TEXT_LUCKMG107_03679_ALPHINAUD_000_082","Come. If we are quick, we may yet catch up with him."
+69,"TEXT_LUCKMG107_03679_CHAINUZZ_000_119","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! Alphinaud! Kai-Shirr! Wh-What are you doing here!?"
+70,"TEXT_LUCKMG107_03679_ALPHINAUD_000_120","We might ask you the same, Master Chai. We have been looking all over for you."
+71,"TEXT_LUCKMG107_03679_CHAINUZZ_100_120","Looking for me? Whatever for?"
+72,"TEXT_LUCKMG107_03679_ALPHINAUD_000_121","Lady Chai has been nigh inconsolable in your absence. She claims you disappeared without so much as a word, and bade us return you to her side."
+73,"TEXT_LUCKMG107_03679_CHAINUZZ_000_122","What in blazes are you talking about? I left a letter for her in our chambers."
+74,"TEXT_LUCKMG107_03679_CHAINUZZ_000_123","Though I suppose she <hex:021A020203>could<hex:021A020103> have overlooked it... And when she gets an idea into her head... <sigh> I can only apologize."
+75,"TEXT_LUCKMG107_03679_ALPHINAUD_000_124","No harm done, Master Chai. But since we are here, might I ask what compelled you to come all this way?"
+76,"TEXT_LUCKMG107_03679_ALPHINAUD_000_125","We were told you had been elected mayor, and from what we have gathered from the nearby villages, you have been inquiring about the people's grievances."
+77,"TEXT_LUCKMG107_03679_ALPHINAUD_100_125","Is it safe to assume you mean to take office?"
+78,"TEXT_LUCKMG107_03679_CHAINUZZ_102_125","Now, now, let's not jump to conclusions!"
+79,"TEXT_LUCKMG107_03679_CHAINUZZ_103_125","I <hex:021A020203>did<hex:021A020103> seek to learn about the problems faced by the people of Kholusia, that much is true. But I am by no means sure I am the man to solve them."
+80,"TEXT_LUCKMG107_03679_CHAINUZZ_000_126","Tackling our many challenges will require resources, and until I have secured them, it would not be right to assume the role of mayor."
+81,"TEXT_LUCKMG107_03679_ALPHINAUD_000_127","I see. And you believe said resources can be found here?"
+82,"TEXT_LUCKMG107_03679_CHAINUZZ_000_128","Indeed. The people's grievances are many, but in the course of my inquiries, I have already met with several individuals willing to lend their aid in addressing them."
+83,"TEXT_LUCKMG107_03679_CHAINUZZ_000_129","However, there remains one individual crucial to my plans. A man whose counsel might yet make a mayor of me."
+84,"TEXT_LUCKMG107_03679_ALPHINAUD_000_130","With respect, such forethought is, in itself, proof of your suitability."
+85,"TEXT_LUCKMG107_03679_ALPHINAUD_000_131","The city needs you, Master Chai. And I am certain this man of whom you speak─whoever he may be─will reach the same conclusion. For what little it is worth, we will vouch for you should he require convincing."
+86,"TEXT_LUCKMG107_03679_KAISHIRR_000_132",""
+87,"TEXT_LUCKMG107_03679_Q1_000_500","What will you say?"
+88,"TEXT_LUCKMG107_03679_A1_000_500","Whatever you need, you can count on us."
+89,"TEXT_LUCKMG107_03679_A2_000_500","We believe in you, Master Chai!"
+90,"TEXT_LUCKMG107_03679_CHAINUZZ_000_133","I...I don't know what to say..."
+91,"TEXT_LUCKMG107_03679_KAISHIRR_100_133","You don't need to say anything. You've got your actions to speak for you."
+92,"TEXT_LUCKMG107_03679_KAISHIRR_101_133","For as long as I can remember, all I ever wanted was to make it into Eulmore. But that dream's gone now, burst like a bubble─or a boil, more like."
+93,"TEXT_LUCKMG107_03679_KAISHIRR_102_133","Anyway, outside of repaying Master Alphinaud, I haven't had a clue what to do with myself. Spent most days in a daze. But you? You've been running up and down, trying to find a way to fix this mess for everyone."
+94,"TEXT_LUCKMG107_03679_KAISHIRR_103_133","And I reckon you can do it. You got this lot up Mt. Gulg, didn't you? How hard could mayoring be? You're going to steer Eulmore to a better future, I know it."
+95,"TEXT_LUCKMG107_03679_KAISHIRR_104_133","And I want to help. Properly help. Do something that makes a difference."
+96,"TEXT_LUCKMG107_03679_KAISHIRR_105_133","I don't know what it is yet, but I'll work it out on the way. If you let me come with you, that is."
+97,"TEXT_LUCKMG107_03679_ALPHINAUD_000_134",""
+98,"TEXT_LUCKMG107_03679_CHAINUZZ_100_134","You give me entirely too much credit, the lot of you...but I can't deny it gives me heart. Come, then. Let us press on together."
+99,"TEXT_LUCKMG107_03679_KAISHIRR_101_134","Thank you, Master Chai!"
+100,"TEXT_LUCKMG107_03679_CHAINUZZ_102_134","But we mustn't get ahead of ourselves. Eulmore needs more than a man with good intentions. Which is why I am here─to find one with the experience needed to see the city thrive."
+101,"TEXT_LUCKMG107_03679_ALPHINAUD_103_134","Who is this man, exactly, and are you certain he's here in Amity?"
+102,"TEXT_LUCKMG107_03679_CHAINUZZ_000_135","Wrenden is his name, and yes, he is. Or was. I had scarcely begun to explain myself when he decided his time was better spent elsewhere. "
+103,"TEXT_LUCKMG107_03679_CHAINUZZ_000_136","He served as chief advisor to Vauthry's father when he was in office."
+104,"TEXT_LUCKMG107_03679_CHAINUZZ_100_136","If Ran'jit was the mayor's right hand, one might say Wrenden was the left, and between them, they kept Eulmore on the road to prosperity."
+105,"TEXT_LUCKMG107_03679_CHAINUZZ_000_137","The city needs more than a mere man of business─which is why I must find him."
+106,"TEXT_LUCKMG107_03679_ALPHINAUD_000_138","But even if you do, what makes you think he will listen?"
+107,"TEXT_LUCKMG107_03679_ALPHINAUD_000_139","Before giving chase, might it not be wise to speak with those who know him, here in Amity? They may be able to shed some light on his reason for rejecting your overtures out of hand."
+108,"TEXT_LUCKMG107_03679_CHAINUZZ_000_140","Yes, I suppose that makes sense. Perhaps we should start with Tristol, then. As I recall, you made rather a favorable impression on him. I'm certain he would be willing to talk to us."
+109,"TEXT_LUCKMG107_03679_KAISHIRR_000_150","I reckon Eulmore could learn a thing or two from Amity about standing on its own two feet. Then again, so could I. "
+110,"TEXT_LUCKMG107_03679_ALPHINAUD_000_155","According to Master Chai, this Wrenden fellow occupied a position of considerable influence in the Eulmoran leadership. Which begs the question: why did he choose to leave?"
+111,"TEXT_LUCKMG107_03679_CHAINUZZ_000_160","I realize it was me who suggested speaking with Tristol, but who's to say he will be any more receptive than Wrenden? Why should <hex:021A020203>any<hex:021A020103> of them give me the time of day? ...Bah, that's no way to think. Ignore me."
+112,"TEXT_LUCKMG107_03679_TRISTOL_000_180","Greetings, friend. And to you too, Master Chai. I presume you are here to ask after Wrenden? I couldn't help overhearing your earlier...exchange."
+113,"TEXT_LUCKMG107_03679_CHAINUZZ_000_181","Yes, well...with Vauthry gone, Eulmore wants for a leader. Should no one rise to the challenge, the city could very well collapse. I came here seeking Wrenden's counsel in the hope that we could build a better Eulmore together─and that is still my wish. But given how abominably you were mistreated there, I will quite understand if you choose not to help."
+114,"TEXT_LUCKMG107_03679_TRISTOL_000_182","Worry not, Master Chai. I bear no grudge against you or the people of Eulmore, and I would not see you suffer for Vauthry's villainy."
+115,"TEXT_LUCKMG107_03679_TRISTOL_000_183","As you no doubt gathered from your meeting earlier, Wrenden can be rather uncompromising. He has his principles, you see, and little patience for anyone he deems less committed to their own."
+116,"TEXT_LUCKMG107_03679_TRISTOL_000_184","Your desire to right the wrongs of your past, of Eulmore's past, is quite admirable. But I fear the guilt you bear on the city's behalf works against you."
+117,"TEXT_LUCKMG107_03679_TRISTOL_000_185","I can see it in your eyes, in the way you carry yourself. It goes without saying he sees it as well. You must let those feelings go, Master Chai. Be more assertive─<hex:021A020203>commit to this course<hex:021A020103>─and prove to him Eulmore has the resolve to change."
+118,"TEXT_LUCKMG107_03679_CHAINUZZ_000_186","The resolve to change..."
+119,"TEXT_LUCKMG107_03679_TRISTOL_000_188","I believe he was heading towards Pit 8 when he left. If you plan to go and speak with him, I suggest you be firm and clear in your intentions."
+120,"TEXT_LUCKMG107_03679_CHAINUZZ_000_189","Very well. To Pit 8 we shall go. And I will not take no for an answer. Nay, not even a maybe!"
+121,"TEXT_LUCKMG107_03679_TRISTOL_000_200","Despite our previous...artistic differences, I do believe Master Chai means what he says. But until <hex:021A020203>he<hex:021A020103> starts believing it, I fear it won't amount to an awful lot."
+122,"TEXT_LUCKMG107_03679_KAISHIRR_000_300","Imagine it... A Eulmore that even a bloke like me could help to build..."
+123,"TEXT_LUCKMG107_03679_ALPHINAUD_000_305","People cannot be brought together on the strength of high ideals alone. This I know from painful experience. Wrenden was right to demand proof of Master Chai's commitment."
+124,"TEXT_LUCKMG107_03679_WRENDEN_000_310","It remains to be seen if his words will translate into deeds, but I shall endeavor to keep an open mind."
+125,"TEXT_LUCKMG107_03679_CHAINUZZ_000_320","Ahem! Right, then. Is there a particular issue you would have me resolve?"
+126,"TEXT_LUCKMG107_03679_WRENDEN_000_321","You seem to have conducted an assessment of the problems Eulmore now faces. I assume you will agree, therefore, that the matter of dwindling food stores is the most pressing."
+127,"TEXT_LUCKMG107_03679_ALPHINAUD_000_322","Ah, yes... Meol being neither a desirable, nor less <hex:021A020203>sustainable<hex:021A020103> option, I assume alternative foodstuffs are now required to fill the void."
+128,"TEXT_LUCKMG107_03679_WRENDEN_000_323","And a man who hungers is not like to contribute much to society...save violence, perhaps."
+129,"TEXT_LUCKMG107_03679_WRENDEN_000_324","So tell me: how do you propose to solve this problem? Give me a satisfactory answer, and I will consider offering you my counsel."
+130,"TEXT_LUCKMG107_03679_CHAINUZZ_000_325","Hmmm... A combination of measures would seem to be in order. One to address the immediate issue of supply, and another, that of production."
+131,"TEXT_LUCKMG107_03679_WRENDEN_000_326","Go on..."
+132,"TEXT_LUCKMG107_03679_CHAINUZZ_000_327","For the present, Eulmore's coffers can be used to purchase food from our neighbors. This would afford us time to address the underlying problem that affects us all─the long-standing neglect of agriculture."
+133,"TEXT_LUCKMG107_03679_CHAINUZZ_000_328","The villages that once served as sources of trade for foodstuffs must be repopulated, their means of production restored."
+134,"TEXT_LUCKMG107_03679_CHAINUZZ_000_330","This assumes, of course, that we can rekindle relations with our neighbors, guarantee security and stability in the region, and most importantly, find people willing to leave the city and take up the rebuilding effort."
+135,"TEXT_LUCKMG107_03679_WRENDEN_000_331","My, my... Think of that all by yourself, did you?"
+136,"TEXT_LUCKMG107_03679_CHAINUZZ_000_332","Well...yes. It began as a rather abstract plan I drafted some time ago, after speaking with the peoples of Eulmore and the nearby settlements."
+137,"TEXT_LUCKMG107_03679_WRENDEN_000_333","Hmph.<hex:02100103>...You've impressed me, Chai-Nuzz."
+138,"TEXT_LUCKMG107_03679_CHAINUZZ_000_334","Uh─ I have? Well, that <hex:021A020203>is<hex:021A020103> a relief!"
+139,"TEXT_LUCKMG107_03679_WRENDEN_000_335","Oh, you haven't secured my support just yet. Only my attention. Grand plans will not be enough to persuade the masses. If you would ask them to rebuild, you must provide them the means to do so."
+140,"TEXT_LUCKMG107_03679_CHAINUZZ_000_336","A fair point, Wrenden. And one to which I have given much thought. I propose the use of Talos to aid in the establishment and maintenance of these settlements. Their employment should drastically improve efficiency, and ultimately increase production."
+141,"TEXT_LUCKMG107_03679_WRENDEN_000_337","<hex:021A020203>Talos<hex:021A020103>? But Daedalus Stoneworks closed their doors years ago. Without a ready supply of the necessary equipment, the people would starve before your plans could be put into effect."
+142,"TEXT_LUCKMG107_03679_CHAINUZZ_000_338","Well, as the heir to Daedalus Stoneworks, it just so happens that Talos are my field of expertise."
+143,"TEXT_LUCKMG107_03679_CHAINUZZ_000_339","And with a little help, I'm quite certain we can acquire what we need in no time at all."
+144,"TEXT_LUCKMG107_03679_KAISHIRR_000_121",""
+145,"TEXT_LUCKMG107_03679_TRISTOL_000_187",""
+146,"TEXT_LUCKMG107_03679_CHAINUZZ_000_329",""
+147,"TEXT_LUCKMG107_03679_WRIGHTRESIDENT_000_040",""
+148,"TEXT_LUCKMG107_03679_WRIGHTRESIDENT_000_041",""
+149,"TEXT_LUCKMG107_03679_WRIGHTRESIDENT_000_042",""
+150,"TEXT_LUCKMG107_03679_WRIGHTRESIDENT_000_043",""
+151,"TEXT_LUCKMG107_03679_WRIGHTRESIDENT_000_044",""
+152,"TEXT_LUCKMG107_03679_WRIGHTRESIDENT_000_045",""
+153,"TEXT_LUCKMG107_03679_WRIGHTRESIDENT_000_060",""

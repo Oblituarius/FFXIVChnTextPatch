@@ -2,329 +2,329 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_AKTKMG115_04464_SEQ_00,拂曉血盟已為邁進終章做好準備。
-1,TEXT_AKTKMG115_04464_SEQ_01,和阿爾菲諾溝通了最後應做之事。前往湧動著已逝星球的絕望的末世終跡。<hex:02100103><hex:02100103>※通過和進入點附近的同伴對話並選擇「編成小隊」，或選擇快捷指令裡的「劇情輔助器」，可以和非玩家同伴一同進入副本。<hex:02100103>※和玩家一同進入時請通過任務搜尋器參加。
-2,TEXT_AKTKMG115_04464_SEQ_02,一路目睹繁星的絕望，抵達末世終跡的最深處。為了結束終結，前往盡頭的終點。<hex:02100103>若是離開了盡頭的終點，可以通過天外天垓盡頭的中心再次前往盡頭的終點。
-3,TEXT_AKTKMG115_04464_SEQ_03,從繁星收集絕望的梅蒂恩化作了謳歌終結之物。騎上龍背，在終結之戰獲勝。<hex:02100103><hex:02100103>※可以通過任務搜尋器參加。
-4,TEXT_AKTKMG115_04464_SEQ_04,在終結之戰獲得了勝利。追上墜落的謳歌終結之物，迅速前往天際。<hex:02100103>若是離開了天際，可以通過天外天垓盡頭的中心再次前往天際。
-5,TEXT_AKTKMG115_04464_SEQ_05,將旅途中收穫的情感傳達給了梅蒂恩。最後作為<hex:022903EB0203>，與芝諾斯在天際一決勝負。
-6,TEXT_AKTKMG115_04464_SEQ_06,雖然戰勝了芝諾斯，但<hex:022903EB0203>也倒下了。還能重返朝思暮想的石之家嗎……
-7,TEXT_AKTKMG115_04464_SEQ_07,也許是信念創造了奇蹟，成功返回了亞伊太利斯。和喪靈鐘石之家的夥伴們談談。
-8,TEXT_AKTKMG115_04464_SEQ_08,和拂曉血盟的夥伴們進行了交流。和石之家的塔塔露談談，隨後各奔東西。
-9,TEXT_AKTKMG115_04464_SEQ_09,末日危機就此解除，一段故事落下帷幕。佐迪亞克和海德林這兩個古神消失後，亞伊太利斯仍然欣欣向榮。在這片平和背後，有拂曉血盟和眾多志士用信念創造的奇蹟，還發生過驚天動地的戰鬥。如今人們將各個信念交織在一起，昂首向未來邁進。<hex:02100103>希望這場旅行的記憶能時刻伴隨著你，為你奏響希望之歌。
-10,TEXT_AKTKMG115_04464_SEQ_10,
-11,TEXT_AKTKMG115_04464_SEQ_11,
-12,TEXT_AKTKMG115_04464_SEQ_12,
-13,TEXT_AKTKMG115_04464_SEQ_13,
-14,TEXT_AKTKMG115_04464_SEQ_14,
-15,TEXT_AKTKMG115_04464_SEQ_15,
-16,TEXT_AKTKMG115_04464_SEQ_16,
-17,TEXT_AKTKMG115_04464_SEQ_17,
-18,TEXT_AKTKMG115_04464_SEQ_18,
-19,TEXT_AKTKMG115_04464_SEQ_19,
-20,TEXT_AKTKMG115_04464_SEQ_20,
-21,TEXT_AKTKMG115_04464_SEQ_21,
-22,TEXT_AKTKMG115_04464_SEQ_22,
-23,TEXT_AKTKMG115_04464_SEQ_23,
-24,TEXT_AKTKMG115_04464_TODO_00,突破最終幻想末世終跡
-25,TEXT_AKTKMG115_04464_TODO_01,突破最終幻想末世終跡
-26,TEXT_AKTKMG115_04464_TODO_02,在終結之戰獲勝
-27,TEXT_AKTKMG115_04464_TODO_03,在終結之戰獲勝
-28,TEXT_AKTKMG115_04464_TODO_04,打倒芝諾斯
-29,TEXT_AKTKMG115_04464_TODO_05,打倒芝諾斯
-30,TEXT_AKTKMG115_04464_TODO_06,和拂曉血盟的同伴們對話
-31,TEXT_AKTKMG115_04464_TODO_07,和塔塔露對話
-32,TEXT_AKTKMG115_04464_TODO_08,
-33,TEXT_AKTKMG115_04464_TODO_09,
-34,TEXT_AKTKMG115_04464_TODO_10,
-35,TEXT_AKTKMG115_04464_TODO_11,
-36,TEXT_AKTKMG115_04464_TODO_12,
-37,TEXT_AKTKMG115_04464_TODO_13,
-38,TEXT_AKTKMG115_04464_TODO_14,
-39,TEXT_AKTKMG115_04464_TODO_15,
-40,TEXT_AKTKMG115_04464_TODO_16,
-41,TEXT_AKTKMG115_04464_TODO_17,
-42,TEXT_AKTKMG115_04464_TODO_18,
-43,TEXT_AKTKMG115_04464_TODO_19,
-44,TEXT_AKTKMG115_04464_TODO_20,
-45,TEXT_AKTKMG115_04464_TODO_21,
-46,TEXT_AKTKMG115_04464_TODO_22,
-47,TEXT_AKTKMG115_04464_TODO_23,
-48,TEXT_AKTKMG115_04464_ALISAIE_000_000,如果亞伊太利斯上下為勝利歡呼，<hex:02100103>即使沉睡在星海之中，也一定能夠聽到。<hex:02100103>讓我們盡情雀躍，把喝彩聲傳到下一個舞台！
-49,TEXT_AKTKMG115_04464_ALPHINAUD_000_010,<hex:022903EB0203>……你準備好了嗎？
-50,TEXT_AKTKMG115_04464_ALPHINAUD_000_011,我明白了。<hex:02100103>那我們這就開始最後的決戰，拉下終幕吧。
-51,TEXT_AKTKMG115_04464_ALPHINAUD_000_012,一路走到這裡，已經沒必要向大家確認決意了……
-52,TEXT_AKTKMG115_04464_ALPHINAUD_000_013,在末世終跡中翻滾波湧的既有梅蒂恩累積的情感，<hex:02100103>也有嚮往完美幸福，但未能如願的生命的思念。
-53,TEXT_AKTKMG115_04464_ALPHINAUD_000_014,雖然前進的道路曾被天外天垓的居民阻隔……<hex:02100103>但我們不應對他們妄加指責。
-54,TEXT_AKTKMG115_04464_ALPHINAUD_000_015,也不能自認為生存方式優於他們，<hex:02100103>對他們的悲劇論長說短……
-55,TEXT_AKTKMG115_04464_ALPHINAUD_000_016,我們要接受他們得出的結論和無法抹去的絕望，<hex:02100103>緊握希望，繼續前進。
-56,TEXT_AKTKMG115_04464_ALPHINAUD_000_017,如果你們覺得堅持不下去，<hex:02100103>我會在身後推你們一把。<hex:02100103>就像你們總是幫助我一樣。
-57,TEXT_AKTKMG115_04464_Q1_000_018,要說什麼？
-58,TEXT_AKTKMG115_04464_A1_000_019,我們一定會勝利！
-59,TEXT_AKTKMG115_04464_A1_000_020,大家都會平安回去的
-60,TEXT_AKTKMG115_04464_A1_000_021,結束終結吧
-61,TEXT_AKTKMG115_04464_SCIONS_000_022,(-拂曉的同伴們-)好！
-62,TEXT_AKTKMG115_04464_Q2_000_030,要做什麼？
-63,TEXT_AKTKMG115_04464_A2_000_031,對話
-64,TEXT_AKTKMG115_04464_A2_000_032,編成小隊
-65,TEXT_AKTKMG115_04464_A2_000_033,取消
-66,TEXT_AKTKMG115_04464_ALPHINAUD_000_040,愛梅特賽爾克和希斯拉德<hex:02100103>是用我們的意志創造了這些花吧。
-67,TEXT_AKTKMG115_04464_ALPHINAUD_000_041,既然如此，我和阿莉塞的意志<hex:02100103>應該也會在這空間綻放。<hex:02100103>其中既有前進的願望……成長的喜悅……也有……
-68,TEXT_AKTKMG115_04464_ALPHINAUD_000_042,你必定迎來幸福結局的期許。
-69,TEXT_AKTKMG115_04464_ALPHINAUD_000_043,大步向前吧，<hex:022903EB0203>……<hex:02100103>前往旅途的終點！
-70,TEXT_AKTKMG115_04464_ALISAIE_000_045,<hex:022903EB0203>，事先聲明，<hex:02100103>接下來這場戰鬥，我可不會跟在你身後。
-71,TEXT_AKTKMG115_04464_ALISAIE_000_046,我要跟你肩並肩、背靠背，創造同樣的佳績！<hex:02100103>不能老是讓埃斯蒂尼安一個人管你叫夥伴！
-72,TEXT_AKTKMG115_04464_ALISAIE_000_047,我可沒開玩笑哦。<hex:02100103>我和阿爾菲諾這一路可沒有原地踏步……<hex:02100103>是時候把目標抬高一些了。
-73,TEXT_AKTKMG115_04464_ALISAIE_000_048,你也跑快點，爭取別被我們追上。<hex:02100103>雖然追不上你我會失落，但我並不討厭你的背影。
-74,TEXT_AKTKMG115_04464_THANCRED_000_050,武器和防具沒有問題。<hex:02100103>隨身物品……也都是老樣子。
-75,TEXT_AKTKMG115_04464_THANCRED_000_051,現在我們人都齊了。<hex:02100103>就差繼續前進了吧。
-76,TEXT_AKTKMG115_04464_THANCRED_000_052,那是敏菲利亞想要拯救的世界，<hex:02100103>是琳想生活的世界……<hex:02100103>也是我們的歸宿，我不會讓它滅亡的。
-77,TEXT_AKTKMG115_04464_URIANGER_000_055,在這片宇宙空間，我們已經邂逅若干星球的再現體。<hex:02100103>想必梅蒂恩已然目睹過更多星球的消亡……
-78,TEXT_AKTKMG115_04464_URIANGER_000_056,滿載這些情感和記憶的末世終跡<hex:02100103>就像匯聚在盡頭的終結的幻想……<hex:02100103>也許無法輕易突破。
-79,TEXT_AKTKMG115_04464_URIANGER_000_057,但你已用行動證明……<hex:02100103>道阻且長，行則將至。<hex:02100103>行而不輟，未來可期。
-80,TEXT_AKTKMG115_04464_YSHTOLA_000_060,阿爾菲諾說得對，<hex:02100103>現在已經沒有必要表決心……<hex:02100103>但我有些話一直想找機會說出來。
-81,TEXT_AKTKMG115_04464_YSHTOLA_000_061,你在厄爾庇斯時，因為和當時的人類不同，<hex:02100103>被誤認成使魔了吧？
-82,TEXT_AKTKMG115_04464_YSHTOLA_000_062,而我們在第一世界亞馬烏羅提遇到的幻影，<hex:02100103>則認為我們是人類孩童。
-83,TEXT_AKTKMG115_04464_YSHTOLA_000_063,沒錯……他們已經把我們看做人類了。<hex:02100103>只不過把我們看成不成熟、愚笨、弱小的孩童。
-84,TEXT_AKTKMG115_04464_YSHTOLA_000_064,這種差異就是創造幻影之人的認知差異。<hex:02100103>愛梅特賽爾克在與新人類長期相處後，<hex:02100103>雖然不情願，卻也認可了我們的身份。
-85,TEXT_AKTKMG115_04464_YSHTOLA_000_065,類此種種，我還想了解更多……<hex:02100103>在生命耗盡之前，盡可能多、盡可能深刻地了解。<hex:02100103>所以……我不想在這裡結束。
-86,TEXT_AKTKMG115_04464_GRAHATIA_000_070,多虧你們，我回來了……<hex:02100103>要想實現和你的約定，<hex:02100103>必須先阻止終結，平安返回。
-87,TEXT_AKTKMG115_04464_GRAHATIA_000_071,你得帶我去看伊修加德的景色、講述你的英雄事跡……<hex:02100103>還要踏入未知的冒險之旅……我會翹首以待，戰鬥到最後。
-88,TEXT_AKTKMG115_04464_GRAHATIA_000_072,……還有沒有比這次更刺激的冒險？
-89,TEXT_AKTKMG115_04464_GRAHATIA_000_073,必須有啊， 以後多得是呢！<hex:02100103>只要願意踏出第一步，精彩就永無止境！
-90,TEXT_AKTKMG115_04464_ESTINIEN_000_075,終於要和這片宇宙空間的主人一較高下了。<hex:02100103>好傢伙……我是答應助你們一臂之力，<hex:02100103>可做夢也沒想到要在宇宙盡頭舞刀弄槍。
-91,TEXT_AKTKMG115_04464_ESTINIEN_000_076,不過……這場旅行還算不錯。<hex:02100103>完成復仇後，一種悵然若失的感覺總是在我心頭環繞。<hex:02100103>但和你們在一起以後，我沒有一刻清閒，都顧不上這些了。
-92,TEXT_AKTKMG115_04464_ESTINIEN_000_077,在這些日子，我碰觸過自己的真心，<hex:02100103>遇到過感興趣的事物，也見證了某個小少爺的成長。<hex:02100103>這都是拜你們所賜……
-93,TEXT_AKTKMG115_04464_ESTINIEN_000_078,我可沒打算在這裡表達感激之情。<hex:02100103>突破末世終跡，阻止終結……<hex:02100103>就拿這個結果當謝禮吧。
-94,TEXT_AKTKMG115_04464_Q3_000_080,要前往盡頭的終點嗎？
-95,TEXT_AKTKMG115_04464_Q4_000_090,要前往天際嗎？
-96,TEXT_AKTKMG115_04464_SYSTEM_000_095,若要繼續推進本任務，<hex:02100103>需要當前職業達到90級以上，<hex:02100103>且為戰鬥菁英或者魔法導師。
-97,TEXT_AKTKMG115_04464_TATARU_000_100,來來來，從誰開始都行，<hex:02100103>快和大家打個招呼吧！
-98,TEXT_AKTKMG115_04464_TATARU_000_101,多虧了<hex:022903EB0203>，<hex:02100103>拂曉血盟才能屹立不倒！
-99,TEXT_AKTKMG115_04464_ALPHINAUD_000_110,啊，<hex:022903EB0203>。<hex:02100103>真抱歉，我集合遲到了……
-100,TEXT_AKTKMG115_04464_ALPHINAUD_000_111,我剛才給父母寫信來著……
-101,TEXT_AKTKMG115_04464_ALPHINAUD_000_112,除了大撤退的善後工作，<hex:02100103>父親還要商定薩雷安今後的定位，忙得不可開交，<hex:02100103>但他也很關心拂曉的情況。
-102,TEXT_AKTKMG115_04464_ALPHINAUD_000_113,而且他們為了我，把心都操碎了……<hex:02100103>所以我想盡量經常給他們寫信。
-103,TEXT_AKTKMG115_04464_ALPHINAUD_000_114,畢竟目前我和阿莉塞都沒有回薩雷安的打算。<hex:02100103>寫信多少能起到一些慰藉作用……
-104,TEXT_AKTKMG115_04464_ALPHINAUD_000_115,我們兩個要去支援加雷馬的復興工作。<hex:02100103>雖然不知道加雷馬帝國未來是什麼形勢，<hex:02100103>但不能放任帝都那個樣子不管。
-105,TEXT_AKTKMG115_04464_ALPHINAUD_000_116,露琪亞閣下和馬克西馬閣下等伊爾薩巴德救援隊員還留在當地。<hex:02100103>他們會在各國支援下主導活動。
-106,TEXT_AKTKMG115_04464_ALPHINAUD_000_117,當然，尤盧斯等帝國人民也會參與其中。<hex:02100103>據說如果本人有意向，<hex:02100103>在各地完成精煉治療的人也可以在那裡匯合。
-107,TEXT_AKTKMG115_04464_ALPHINAUD_000_118,我並不認為做了這些事情<hex:02100103>就能彌補發生在麗茜妮婭她們身上的悲劇。<hex:02100103>這是我們一直要背負的遺憾。
-108,TEXT_AKTKMG115_04464_ALPHINAUD_000_119,我之所以想去加雷馬，<hex:02100103>是因為昆圖斯閣下的一番話打動了我。
-109,TEXT_AKTKMG115_04464_ALPHINAUD_000_120,「無論你們這些前線的士兵多麼善良勇敢，<hex:02100103>背後的國家都不會僅憑善意而讓你們來到這裡。<hex:02100103>畢竟他們更需要照顧國內的民眾……」
-110,TEXT_AKTKMG115_04464_ALPHINAUD_000_121,我認為他的話很有道理。<hex:02100103>加雷馬帝國此後難免會因內外勢力而產生動蕩。
-111,TEXT_AKTKMG115_04464_ALPHINAUD_000_122,我並不是質疑救援隊復興工作的動機，<hex:02100103>只是各個國家參與其中，<hex:02100103>不知什麼時候就會捲入這種局勢。
-112,TEXT_AKTKMG115_04464_ALPHINAUD_000_123,所以我要過去。<hex:02100103>傾聽需要幫助的人的心聲，與他們共同思考、共同歡笑。<hex:02100103>試著從那裡開始，向理想的未來邁出一步。
-113,TEXT_AKTKMG115_04464_Q5_000_124,要說什麼？
-114,TEXT_AKTKMG115_04464_A5_000_125,也記得給我寫信
-115,TEXT_AKTKMG115_04464_A5_000_126,我有空會去看你
-116,TEXT_AKTKMG115_04464_ALPHINAUD_000_127,給你寫信？<hex:02100103>當然沒問題……
-117,TEXT_AKTKMG115_04464_ALPHINAUD_000_128,不過，你能時不時露個面嗎？<hex:02100103>阿莉塞一定會很高興的……我也是。
-118,TEXT_AKTKMG115_04464_ALPHINAUD_000_129,啊，那太好了！<hex:02100103>阿莉塞一定會很高興的……我也是。
-119,TEXT_AKTKMG115_04464_ALPHINAUD_000_130,在艾歐澤亞展開活動以後，你總在我的身邊。<hex:02100103>無論在順境還是逆境……都一直關照著我。
-120,TEXT_AKTKMG115_04464_ALPHINAUD_000_131,我們彼此共享過多少次情報了？<hex:02100103>肯定沒人數得清吧！
-121,TEXT_AKTKMG115_04464_ALPHINAUD_000_132,希望今後……<hex:02100103>不管遇到什麼事情，還能找你商量。<hex:02100103>因為你是我值得信賴的夥伴和親密無間的朋友。
-122,TEXT_AKTKMG115_04464_ALPHINAUD_000_133,可以嗎？
-123,TEXT_AKTKMG115_04464_ALPHINAUD_000_134,謝謝……<hex:02100103>我發自內心地感謝你一路與我同行……
-124,TEXT_AKTKMG115_04464_ALPHINAUD_000_140,雖然我和阿雷恩瓦爾德一直保持著通訊，<hex:02100103>對彼此的近況都了如指掌，<hex:02100103>但他今天沒來這裡，真遺憾啊……
-125,TEXT_AKTKMG115_04464_ALPHINAUD_000_141,等今後的事情安排妥當之後，<hex:02100103>我們一起去看看他吧。
-126,TEXT_AKTKMG115_04464_ALISAIE_000_150,<hex:022903EB0203>！<hex:02100103>你已經做好出發的準備了？
-127,TEXT_AKTKMG115_04464_ALISAIE_000_151,雖然塔塔露會留守石之家，<hex:02100103>你也要注意別落下東西啊。
-128,TEXT_AKTKMG115_04464_ALISAIE_000_152,對了……艾歐澤亞大同盟聯軍和東方聯盟，<hex:02100103>還有薩雷安和拉札罕聯名發來了<hex:02100103>末日造成的損害的最終報告。
-129,TEXT_AKTKMG115_04464_ALISAIE_000_153,損失最為嚴重的似乎是天空最開始燃燒的豐饒海周邊地區。
-130,TEXT_AKTKMG115_04464_ALISAIE_000_154,隨後，末日現象向北方擴大，<hex:02100103>經由加雷馬附近到達極北地帶……
-131,TEXT_AKTKMG115_04464_ALISAIE_000_155,還有一些地區也觀測到局部燃燒的天空。<hex:02100103>北洋的一角也出現了這個現象……<hex:02100103>若是稍有耽擱，就會危及薩雷安。
-132,TEXT_AKTKMG115_04464_ALISAIE_000_156,好在這些末日現象全部結束了！
-133,TEXT_AKTKMG115_04464_ALISAIE_000_157,潛能量殘渣引發的小規模異變和遺留的末日野獸<hex:02100103>各國會自行處理。<hex:02100103>也就是說……目前不需要拂曉介入了。
-134,TEXT_AKTKMG115_04464_ALISAIE_000_158,這讓我有點失落……<hex:02100103>不過拂曉的其他成員似乎要巡遊世界，<hex:02100103>根據需要支援各地。
-135,TEXT_AKTKMG115_04464_ALISAIE_000_159,我也有這個打算。<hex:02100103>最近要和阿爾菲諾一同前去的加雷馬，<hex:02100103>就是末日的受災地之一。
-136,TEXT_AKTKMG115_04464_ALISAIE_000_160,<hex:022903EB0203>……我覺得……
-137,TEXT_AKTKMG115_04464_ALISAIE_000_161,如果立志對人伸出援手，<hex:02100103>今後難免會目睹很多不幸。
-138,TEXT_AKTKMG115_04464_ALISAIE_000_162,也許有的人我拼了命也無力挽救，<hex:02100103>到時我一定會懊惱自己的無能吧。
-139,TEXT_AKTKMG115_04464_ALISAIE_000_163,但是，就算會失敗，我也絕不放棄。
-140,TEXT_AKTKMG115_04464_ALISAIE_000_164,哪怕多救一個人、多提供一次幫助，我也要讓他們露出笑臉。<hex:02100103>為此付出的努力一定是有意義的。
-141,TEXT_AKTKMG115_04464_ALISAIE_000_165,如果這個想法還不能掃清我的挫敗感，<hex:02100103>我就會回想你的背影和你正視前方的側臉。
-142,TEXT_AKTKMG115_04464_ALISAIE_000_166,還有你不打招呼就啟動傳送裝置的事，<hex:02100103>我一想起來就火冒三丈！
-143,TEXT_AKTKMG115_04464_ALISAIE_000_167,所以，如果你在哪裡聽到了我的傳聞，也要意識到：
-144,TEXT_AKTKMG115_04464_ALISAIE_000_168,今天，阿莉塞·萊韋耶勒爾也在某處拚命奔走。
-145,TEXT_AKTKMG115_04464_Q6_000_169,要說什麼？
-146,TEXT_AKTKMG115_04464_A6_000_170,你的傳聞一定不絕於耳
-147,TEXT_AKTKMG115_04464_A6_000_171,你自信能超過我？
-148,TEXT_AKTKMG115_04464_ALISAIE_000_172,是、是嗎……<hex:02100103>我可沒想變成名人……
-149,TEXT_AKTKMG115_04464_ALISAIE_000_173,不過……也可以考慮……
-150,TEXT_AKTKMG115_04464_ALISAIE_000_174,既然你要分個高下，<hex:02100103>我就讓你另眼相看！
-151,TEXT_AKTKMG115_04464_ALISAIE_000_175,因為……
-152,TEXT_AKTKMG115_04464_ALISAIE_000_176,明天的我肯定比今天更精彩！<hex:02100103>下次見面時，你會對我刮目相看！
-153,TEXT_AKTKMG115_04464_ALISAIE_000_180,還有什麼沒跟你說的……啊，對了！<hex:02100103>來找埃斯蒂尼安的拉札罕特使留下了一封摩提夏的信。
-154,TEXT_AKTKMG115_04464_ALISAIE_000_181,信上說麥梵和凱剌謝弗的孩子挺好的，<hex:02100103>摩提夏時常去看她。
-155,TEXT_AKTKMG115_04464_ALISAIE_000_182,往後的日子可能不容易，<hex:02100103>但希望她能和薩維奈島的人們一起幸福地生活下去。
-156,TEXT_AKTKMG115_04464_THANCRED_000_190,喲，這不是我們的英雄閣下嗎。<hex:02100103>我正想著你會不會來找我呢。
-157,TEXT_AKTKMG115_04464_THANCRED_000_191,開玩笑啦。<hex:02100103>自那之後，你的身體沒有大礙吧？
-158,TEXT_AKTKMG115_04464_THANCRED_000_192,那就好。<hex:02100103>我看你受了那麼嚴重的傷，<hex:02100103>還以為你得休養一段時間呢……
-159,TEXT_AKTKMG115_04464_THANCRED_000_193,能從無數次惡戰中活到現在……<hex:02100103>應該誇你強大還是誇你命大啊。
-160,TEXT_AKTKMG115_04464_THANCRED_000_194,打敗了終結的謳歌者，解除了末日危機……<hex:02100103>不光原初世界，鏡像世界也倖免於難。
-161,TEXT_AKTKMG115_04464_THANCRED_000_195,琳的明天依然會到來。<hex:02100103>這對我來說是最好的結局。
-162,TEXT_AKTKMG115_04464_THANCRED_000_196,真的很感謝你。<hex:02100103>正是你的堅強不屈為這個星球帶來了希望。
-163,TEXT_AKTKMG115_04464_THANCRED_000_197,今後你要是見到琳，<hex:02100103>能不能告訴她我和於里昂熱踏上了流浪之旅？
-164,TEXT_AKTKMG115_04464_THANCRED_000_198,這可是有目的的旅行。<hex:02100103>拂曉從公眾視野消失後，世界會如何發展……<hex:02100103>我們需要四處留意。
-165,TEXT_AKTKMG115_04464_THANCRED_000_199,而且國際組織也有忙不開的瑣事，<hex:02100103>我們會盡力幫忙的。
-166,TEXT_AKTKMG115_04464_THANCRED_000_200,還有，像這樣給自己找點事做，<hex:02100103>免得別人說我無所事事時還不了嘴……
-167,TEXT_AKTKMG115_04464_THANCRED_000_201,如果琳問起我，你就告訴她……<hex:02100103>我還是老樣子，幹勁十足。
-168,TEXT_AKTKMG115_04464_THANCRED_000_202,又要過上以前那種漂泊不定的生活了……
-169,TEXT_AKTKMG115_04464_THANCRED_000_203,對我而言，應回的「家」就是這裡。<hex:02100103>有你們，有敏菲利亞……<hex:02100103>無論出任務還是收任務，幾乎都是從這裡開始。
-170,TEXT_AKTKMG115_04464_THANCRED_000_204,拂曉創立之時，<hex:02100103>我盼著她能結交志同道合的夥伴……<hex:02100103>結果在不經意間，我也有了歸宿。
-171,TEXT_AKTKMG115_04464_THANCRED_000_205,<hex:022903EB0203>。<hex:02100103>我想替她……替敏菲利亞問你一個問題。
-172,TEXT_AKTKMG115_04464_THANCRED_000_206,你後悔加入拂曉血盟嗎？
-173,TEXT_AKTKMG115_04464_Q7_000_207,要說什麼？
-174,TEXT_AKTKMG115_04464_A7_000_208,這是我做過的最正確的決定
-175,TEXT_AKTKMG115_04464_A7_000_209,我先保留意見……
-176,TEXT_AKTKMG115_04464_THANCRED_000_210,是嗎……那太好了。<hex:02100103>我也是這麼想的。
-177,TEXT_AKTKMG115_04464_THANCRED_000_211,哈哈，因為太累了吧！<hex:02100103>不過你的冒險技能應該也有所長進，<hex:02100103>就當是等價交換好了。
-178,TEXT_AKTKMG115_04464_THANCRED_000_212,我們可能要分開一陣子了，你可要保重啊。
-179,TEXT_AKTKMG115_04464_THANCRED_000_213,要是需要潛入或諜報支援，儘管找我。<hex:02100103>那個舉止可疑又技術高超的魔法師可能也會跟來哦。 
-180,TEXT_AKTKMG115_04464_THANCRED_000_215,對了，沙之家好像要暫時改成倉庫。<hex:02100103>我們會簡單收拾一下，<hex:02100103>你可以把那裡當成活動的中轉站。
-181,TEXT_AKTKMG115_04464_THANCRED_000_216,瞧塔塔露那幹勁十足的樣子，<hex:02100103>說不定哪天就改成她的工房或者大繁榮商店的倉庫了。<hex:02100103>不過那也算是有效利用吧……
-182,TEXT_AKTKMG115_04464_URIANGER_000_220,呀，<hex:022903EB0203>……<hex:02100103>你和大家都聊過了嗎？
-183,TEXT_AKTKMG115_04464_URIANGER_000_221,雖然今後仍能相見，離別之痛依舊難免……<hex:02100103>我就如同身處妖靈們的惡作劇一般，<hex:02100103>心中惆悵，無所適從……
-184,TEXT_AKTKMG115_04464_URIANGER_000_222,話說回來……<hex:02100103>你知道兔兔族和月球在這之後會怎樣嗎？
-185,TEXT_AKTKMG115_04464_URIANGER_000_223,雖然月球失去了宇宙飛船的作用，<hex:02100103>但那裡有支持地上生命生存的環境……
-186,TEXT_AKTKMG115_04464_URIANGER_000_224,因此，哲學家議會和兔兔族<hex:02100103>已經著手研究如何有效利用這點了。
-187,TEXT_AKTKMG115_04464_URIANGER_000_225,當然，這個過程需不斷加深彼此的理解……<hex:02100103>所以目前要做的就是學習和反覆摸索吧。
-188,TEXT_AKTKMG115_04464_URIANGER_000_226,據說有些兔兔族已經前往亞伊太利斯各地留學了……
-189,TEXT_AKTKMG115_04464_URIANGER_000_227,他們是海德林用心懷亞伊太利斯的愛創造出來的……
-190,TEXT_AKTKMG115_04464_URIANGER_000_228,每次和他們對話，我都不禁覺得他們旺盛的好奇心是從海德林……<hex:02100103>從維涅斯繼承來的。
-191,TEXT_AKTKMG115_04464_URIANGER_000_229,希望深愛人類的他們，以及他們長期努力的結晶<hex:02100103>會為人類和兔兔族帶來幸福……
-192,TEXT_AKTKMG115_04464_URIANGER_000_230,我作為兔兔族的泛泛之交，<hex:02100103>今後也會時不時和他們共享知識……
-193,TEXT_AKTKMG115_04464_Q8_000_231,要說什麼？
-194,TEXT_AKTKMG115_04464_A8_000_232,不是泛泛之交，是莫逆之交吧？
-195,TEXT_AKTKMG115_04464_A8_000_233,於里昂熱是第一個理解兔兔族的人
-196,TEXT_AKTKMG115_04464_URIANGER_000_234,莫逆之交……原來如此……
-197,TEXT_AKTKMG115_04464_URIANGER_000_235,能獲得這樣的評價我很榮幸。<hex:02100103>下次再見時，我會問問他們能不能以友人相稱。
-198,TEXT_AKTKMG115_04464_URIANGER_000_236,要是也能得到他們的認可，我會非常高興的。
-199,TEXT_AKTKMG115_04464_URIANGER_000_237,第一個理解他們的人……
-200,TEXT_AKTKMG115_04464_URIANGER_000_238,如果我有幸成為誰的理解者，<hex:02100103>那我會欣喜若狂的……
-201,TEXT_AKTKMG115_04464_URIANGER_000_239,嗯……那我就得成為他們和人類之間的橋樑才行。<hex:02100103>就像穆恩布瑞達曾經幫助我那樣……
-202,TEXT_AKTKMG115_04464_URIANGER_000_240,啊……<hex:022903EB0203>……<hex:02100103>我光顧著說兔兔族的事了，<hex:02100103>今天應該屬於拂曉，屬於我難得的夥伴。
-203,TEXT_AKTKMG115_04464_URIANGER_000_241,我不擅溝通，曾經多次給各位添麻煩，<hex:02100103>甚至還讓你們懷疑我會倒戈……
-204,TEXT_AKTKMG115_04464_URIANGER_000_242,即便如此，你們仍對我不離不棄。<hex:02100103>我對你們的感激之情無法用言語表達。
-205,TEXT_AKTKMG115_04464_URIANGER_000_243,所以……<hex:02100103>今後，我願盡微薄之力相助。
-206,TEXT_AKTKMG115_04464_URIANGER_000_244,有求必應……<hex:02100103>無論上天入地，我定不負所託。
-207,TEXT_AKTKMG115_04464_URIANGER_000_250,聽說你和芝諾斯決鬥之後，<hex:02100103>被你丟棄的傳送裝置從天而降……
-208,TEXT_AKTKMG115_04464_URIANGER_000_251,前幾天我找韋爾夫森先生和布魯威達女士問過，<hex:02100103>那個裝置似乎沒有返回持有者身邊的功能。
-209,TEXT_AKTKMG115_04464_URIANGER_000_252,也許這就是奇蹟吧。<hex:02100103>那片大地是情感主宰現實的世界……<hex:02100103>創造奇蹟的究竟是你的許願，還是他人的祈禱呢……
-210,TEXT_AKTKMG115_04464_YSHTOLA_000_260,呀，你來和我道別嗎？<hex:02100103>目前我還沒有遠行的打算……
-211,TEXT_AKTKMG115_04464_YSHTOLA_000_261,既然此前的事已經告一段落，<hex:02100103>我們就聊一聊吧。
-212,TEXT_AKTKMG115_04464_YSHTOLA_000_262,末日騷動平息之後，我一直在考慮一件事。<hex:02100103>正好借這個機會問問你的意見。
-213,TEXT_AKTKMG115_04464_YSHTOLA_000_263,我們在旅途中的經歷豐富至極，<hex:02100103>奇景怪相、異聞傳說……<hex:02100103>多到不能一股腦地想起。
-214,TEXT_AKTKMG115_04464_YSHTOLA_000_264,其中也有不為人知的事實。<hex:02100103>既有亞伊太利斯和古代人的歷史……<hex:02100103>也有我們在宇宙盡頭知曉的異亞等外星居民的想法。
-215,TEXT_AKTKMG115_04464_YSHTOLA_000_265,我正在猶豫要不要把這些整理成一個有形的記錄，<hex:02100103>而不是光把它們留在自己的記憶之中。
-216,TEXT_AKTKMG115_04464_YSHTOLA_000_266,我熱愛求知，如果有必要也會把它們寫成報告，<hex:02100103>但我覺得自己的資質還不夠將學到的知識歸納到書中流傳後世。
-217,TEXT_AKTKMG115_04464_YSHTOLA_000_267,真相本就是無形的東西。<hex:02100103>用自己的言語闡述時不能保證淋漓盡致，<hex:02100103>總有失真的部分……
-218,TEXT_AKTKMG115_04464_YSHTOLA_000_268,例如「悲傷」這個詞，<hex:02100103>它表達不出無法平息的複雜情感，<hex:02100103>只是平淡地將一種感情一筆帶過……這就很蒼白無力。
-219,TEXT_AKTKMG115_04464_YSHTOLA_000_269,縱觀歷史，我們知道有些事實是被刻意篡改的，<hex:02100103>但其他又有多少是在文字的偏差下代代相傳，<hex:02100103>最終成為與事實截然不同的情報呢……
-220,TEXT_AKTKMG115_04464_YSHTOLA_000_270,罔顧這種情況，<hex:02100103>還用自己的言語去記錄他們的事跡，<hex:02100103>我覺得是一種褻瀆……
-221,TEXT_AKTKMG115_04464_YSHTOLA_000_271,我當然知道即便如此也要留下記錄的意義。<hex:02100103>因為我平日就是通過這樣的記錄學習的。
-222,TEXT_AKTKMG115_04464_YSHTOLA_000_272,你怎麼看？<hex:02100103>我應該為後世寫下這些只有我們知道的事情嗎？
-223,TEXT_AKTKMG115_04464_Q9_000_273,要說什麼？
-224,TEXT_AKTKMG115_04464_A9_000_274,寫下來吧
-225,TEXT_AKTKMG115_04464_A9_000_275,別寫了
-226,TEXT_AKTKMG115_04464_YSHTOLA_000_276,我懂了……<hex:02100103>如果你這麼認為，<hex:02100103>我就為傳揚他們的事情出一把力吧。
-227,TEXT_AKTKMG115_04464_YSHTOLA_000_277,不過我不是史官，<hex:02100103>所以不會做太多潤飾，<hex:02100103>頂多把自己用的研究資料做得再細緻些。
-228,TEXT_AKTKMG115_04464_YSHTOLA_000_278,好的……<hex:02100103>那我就不記錄了，<hex:02100103>把他們的事情都留在腦海裡。
-229,TEXT_AKTKMG115_04464_YSHTOLA_000_279,為了今後的調查，<hex:02100103>我本來就打算只寫個備忘錄自己用的。<hex:02100103>畢竟事實會在語言的偏差和時光的流逝中失真嘛。
-230,TEXT_AKTKMG115_04464_YSHTOLA_000_280,你的建議讓我茅塞頓開。<hex:02100103>看來以後遇事不決時我也應該找人商量商量……
-231,TEXT_AKTKMG115_04464_YSHTOLA_000_281,我會繼續盡情地探求真知。<hex:02100103>除了穿越鏡像世界的方法以外，<hex:02100103>因為踏足了星外的世界，調查目標又增多了！
-232,TEXT_AKTKMG115_04464_YSHTOLA_000_282,如果你被未知的事物阻礙，<hex:02100103>或者遇到不好解決的難題，<hex:02100103>儘管來找我。
-233,TEXT_AKTKMG115_04464_YSHTOLA_000_283,我可是拂曉的魔女哦？<hex:02100103>我會洞察世界，以知識為食糧，助你們一臂之力的！
-234,TEXT_AKTKMG115_04464_YSHTOLA_000_285,對了，昨天莉瑟來找我，<hex:02100103>針對末日的影響問了一些問題。
-235,TEXT_AKTKMG115_04464_YSHTOLA_000_286,我藉機告訴她拂曉解散的事，<hex:02100103>她很快就心領神會，<hex:02100103>還說「姑且當它是真的吧」。
-236,TEXT_AKTKMG115_04464_YSHTOLA_000_287,她很懷念以前的日子，<hex:02100103>那段和我們、帕帕力莫在這裡度過的時光……<hex:02100103>她說雖然苦樂參半，但腦中全是快樂的回憶。
-237,TEXT_AKTKMG115_04464_GRAHATIA_000_290,啊……<hex:02100103><hex:022903EB0203>，能佔用你一點時間嗎？
-238,TEXT_AKTKMG115_04464_GRAHATIA_000_291,拂曉暫時應該不會有大動作了，<hex:02100103>所以我一直在考慮自己何去何從……
-239,TEXT_AKTKMG115_04464_GRAHATIA_000_292,我決定了……<hex:02100103>我想出一份力，<hex:02100103>幫可露兒重建巴爾德西昂委員會。
-240,TEXT_AKTKMG115_04464_GRAHATIA_000_293,我非常感激加拉夫先生的養育之恩……<hex:02100103>更重要的是，正是因為這個組織，<hex:02100103>我才能調查水晶塔。
-241,TEXT_AKTKMG115_04464_GRAHATIA_000_294,也因此譜寫了新的人生……
-242,TEXT_AKTKMG115_04464_GRAHATIA_000_295,與你相遇、穿越時間和世界戰鬥、成為拂曉的一員……<hex:02100103>這些經歷都離不開巴爾德西昂委員會。
-243,TEXT_AKTKMG115_04464_GRAHATIA_000_296,還有，巴爾德西昂委員會<hex:02100103>能從世界各地收到未知遺跡相關的情報。
-244,TEXT_AKTKMG115_04464_GRAHATIA_000_297,在天外天垓，我們不是做過約定嗎……<hex:02100103>要一起展開一場你也沒有經歷過的全新冒險。<hex:02100103>說不定我能從中找到合適的情報哦。
-245,TEXT_AKTKMG115_04464_GRAHATIA_000_298,嘿嘿……<hex:02100103>等你想冒險時，歡迎隨時來找我！
-246,TEXT_AKTKMG115_04464_GRAHATIA_000_299,那時……我在長期行動規劃單元凝視的樹下問過你，<hex:02100103>自己的名字會不會留在你的冒險故事中。
-247,TEXT_AKTKMG115_04464_GRAHATIA_000_300,有一點我想訂正。<hex:02100103>那確實是我的願望，<hex:02100103>是我長久以來的夢想……
-248,TEXT_AKTKMG115_04464_GRAHATIA_000_301,但是，比起這些……<hex:02100103>我更想和你一起經歷尚未記錄的「現在」！
-249,TEXT_AKTKMG115_04464_GRAHATIA_000_302,所以不管什麼樣的冒險我都會邀請你，也希望你來邀請我。<hex:02100103>即使沒有約定，只要你願意……我隨時奉陪。
-250,TEXT_AKTKMG115_04464_Q10_000_303,要說什麼？
-251,TEXT_AKTKMG115_04464_A10_000_304,好，無論天涯海角！
-252,TEXT_AKTKMG115_04464_A10_000_305,有幹勁是好事……
-253,TEXT_AKTKMG115_04464_GRAHATIA_000_306,嗯！一言為定！
-254,TEXT_AKTKMG115_04464_GRAHATIA_000_307,但千萬別太勉強自己是吧！<hex:02100103>這是萊楠和拜克·拉各讓你轉達給我的忠告，<hex:02100103>我怎麼會忘記呢！
-255,TEXT_AKTKMG115_04464_GRAHATIA_000_308,我今後也會繼續和你們描繪夢想。<hex:02100103>也許某一天，在宇宙的某個角落，<hex:02100103>我們會遇到奧密克戎的倖存者。
-256,TEXT_AKTKMG115_04464_GRAHATIA_000_309,你想啊，它們那麼拚命地擴張，<hex:02100103>說不定哪個傢伙湊巧不在母星呢。
-257,TEXT_AKTKMG115_04464_GRAHATIA_000_310,如果它在苦等遙遙無期的目標和指令時陷入迷茫……<hex:02100103>我想跟它說……
-258,TEXT_AKTKMG115_04464_GRAHATIA_000_311,找個夥伴一起冒險去吧。<hex:02100103>對方一定能帶你找到新的目標……新的夢想。
-259,TEXT_AKTKMG115_04464_GRAHATIA_000_312,水晶都能有夢想，<hex:02100103>所以機器有夢想也不算怪事吧？
-260,TEXT_AKTKMG115_04464_GRAHATIA_000_313,那我就等你邀請我冒險了！<hex:02100103>要是我能接到有趣的委託，我也保證讓你第一個知道！
-261,TEXT_AKTKMG115_04464_GRAHATIA_000_315,話說你最近和菲奧·烏兒說過話嗎？<hex:02100103>其實幾天前，他來到了我的夢裡。<hex:02100103>嗯……他在我的睡夢中是這麼說的。
-262,TEXT_AKTKMG115_04464_GRAHATIA_000_316,「既然我能跑到你的夢境，<hex:02100103>就說明我們這邊太平無事哦。<hex:02100103>幫忙轉告給小樹苗吧。」
-263,TEXT_AKTKMG115_04464_GRAHATIA_000_317,我就問了句為什麼不直接告訴你，<hex:02100103>結果他讓我墜入了被巨大河狸追趕的噩夢……
-264,TEXT_AKTKMG115_04464_ESTINIEN_000_320,搞什麼啊……在玩大眼瞪小眼的遊戲嗎？
-265,TEXT_AKTKMG115_04464_Q11_000_321,要說什麼？
-266,TEXT_AKTKMG115_04464_A11_000_322,你明天開始靠什麼維持生計？
-267,TEXT_AKTKMG115_04464_A11_000_323,我明天開始靠什麼吃飯啊……
-268,TEXT_AKTKMG115_04464_ESTINIEN_000_324,你們不是和我處境一樣嗎……<hex:02100103>拂曉沒有解散，只是減少活動而已，<hex:02100103>完成任務自然會有報酬的。
-269,TEXT_AKTKMG115_04464_ESTINIEN_000_325,為什麼你只擔心我的生計？
-270,TEXT_AKTKMG115_04464_ESTINIEN_000_326,你是冒險者，吃口飯還不容易？<hex:02100103>雖然拂曉的運營模式變了，<hex:02100103>但只要完成任務就能獲取報酬吧？
-271,TEXT_AKTKMG115_04464_ESTINIEN_000_327,某個總騎士長聽說拂曉解散的消息，<hex:02100103>立馬通過塔塔露聯繫到我……
-272,TEXT_AKTKMG115_04464_ESTINIEN_000_328,他說可以為我安排冒險者住宅區的警衛工作。<hex:02100103>要是能有效利用原蒼天之龍騎士的頭銜，<hex:02100103>應該很快就能成為街上的紅人……問我願不願意接受。
-273,TEXT_AKTKMG115_04464_ESTINIEN_000_329,他當我是誰呢！<hex:02100103>用不著別人多管閒事，我已經接到委託了！
-274,TEXT_AKTKMG115_04464_ESTINIEN_000_330,委託人是弗栗多。<hex:02100103>前陣子，它的特使找過我，<hex:02100103>讓我有空時見它一面。
-275,TEXT_AKTKMG115_04464_ESTINIEN_000_331,連事由都不交代就叫我過去，真夠狂妄的。<hex:02100103>不過專門找我……應該是和龍有關的事吧？
-276,TEXT_AKTKMG115_04464_ESTINIEN_000_332,在我們從宇宙盡頭回來之前……<hex:02100103>大概在你打敗終結的謳歌者時，<hex:02100103>薩維奈島的末日現象似乎平息了。
-277,TEXT_AKTKMG115_04464_ESTINIEN_000_333,遺憾的是，獸化的人沒有變回來……<hex:02100103>但人們在重新放晴的青空之下，<hex:02100103>恢復了往常的生活。
-278,TEXT_AKTKMG115_04464_ESTINIEN_000_334,聽說在舊薩雷安避難的、希望移居月球的人們，<hex:02100103>大多數都回國了。
-279,TEXT_AKTKMG115_04464_ESTINIEN_000_335,不過失去家庭和親人的也不在少數……<hex:02100103>哲學家議會和總督弗栗多似乎商定，<hex:02100103>允許有意在薩雷安工作、學習的人留下。
-280,TEXT_AKTKMG115_04464_ESTINIEN_000_336,那傢伙現在已經是名副其實的總督了。<hex:02100103>找我傳話的特使看起來也對它充滿期待。
-281,TEXT_AKTKMG115_04464_ESTINIEN_000_337,真是的……<hex:02100103>沒想到龍詩戰爭結束後，我還對龍的話題樂此不疲。
-282,TEXT_AKTKMG115_04464_ESTINIEN_000_338,說到這條和人類共存又受人景仰的龍，<hex:02100103>換做當時復仇心切的我，一定認為它心懷叵測，<hex:02100103>絕不會對它抱有任何信任。
-283,TEXT_AKTKMG115_04464_ESTINIEN_000_339,但是現在……<hex:02100103>我真心覺得有這樣的國家也不錯。
-284,TEXT_AKTKMG115_04464_ESTINIEN_000_340,龍星疲於爭鬥，放棄了一切，最終走向滅亡。
-285,TEXT_AKTKMG115_04464_ESTINIEN_000_341,然而，啟程追尋未來的塵世幻龍經過漫漫長途，<hex:02100103>最終到達亞伊太利斯，繁衍後代……
-286,TEXT_AKTKMG115_04464_ESTINIEN_000_342,雖然這些傢伙和這顆星球的人類有過不和，<hex:02100103>也產生過爭鬥……<hex:02100103>但最終也相互理解、和睦相處了。
-287,TEXT_AKTKMG115_04464_ESTINIEN_000_343,正因如此，龍族現在才能在亞伊太利斯扎根，生生不息。
-288,TEXT_AKTKMG115_04464_ESTINIEN_000_344,如今，我可以從這桿槍中<hex:02100103>感受到它們的抗爭和它們堅強的信念。
-289,TEXT_AKTKMG115_04464_ESTINIEN_000_345,如果沒有和你們一起行動，我也許永遠不會領悟到這些。
-290,TEXT_AKTKMG115_04464_ESTINIEN_000_346,以後要是有用得上我的地方，隨時來找我。<hex:02100103>我也得維持生計啊。
-291,TEXT_AKTKMG115_04464_ESTINIEN_000_350,薩維奈島上好像還殘留著佐特塔中誕生的異形蠻神，<hex:02100103>有時會現身作亂。
-292,TEXT_AKTKMG115_04464_ESTINIEN_000_351,據說如果把打倒異形蠻神的證據交到拉札罕，<hex:02100103>可以獲得稀奇的玩偶裝……
-293,TEXT_AKTKMG115_04464_ESTINIEN_000_352,我想過去時順便弄一套，和回信一起寄給艾默里克，<hex:02100103>讓他穿著這玩意去當街頭紅人吧。
-294,TEXT_AKTKMG115_04464_KRILE_000_360,<hex:022903EB0203>，自那之後，你身體怎麼樣……<hex:02100103>疼痛有沒有減輕一些呢？
-295,TEXT_AKTKMG115_04464_KRILE_000_361,芝諾斯答應我幫助拂曉一次，<hex:02100103>於是我把神龍形態的他送到了天外天垓……<hex:02100103>擅自作出這樣的決定，真的很抱歉。
-296,TEXT_AKTKMG115_04464_KRILE_000_362,當時我實在不知如何是好。<hex:02100103>他一心惦記著和你戰鬥……
-297,TEXT_AKTKMG115_04464_KRILE_000_363,與你一戰似乎在所難免。<hex:02100103>既然如此……至少要讓他助大家一臂之力，<hex:02100103>出於這個考慮，我和他做了交涉……
-298,TEXT_AKTKMG115_04464_KRILE_000_364,最終，芝諾斯信守了約定，你也打敗了他。<hex:02100103>但你回到魔導船時，已經奄奄一息了吧？
-299,TEXT_AKTKMG115_04464_KRILE_000_365,哪怕我的判斷有分毫差錯，<hex:02100103>也許你就和我們陰陽兩隔了……<hex:02100103>所以這件事我必須跟你道歉……
-300,TEXT_AKTKMG115_04464_Q12_000_366,要說什麼？
-301,TEXT_AKTKMG115_04464_A12_000_367,沒關係，你幫了大忙
-302,TEXT_AKTKMG115_04464_A12_000_368,真是太遭罪了……
-303,TEXT_AKTKMG115_04464_KRILE_000_369,謝謝……<hex:02100103>聽你這麼說，我心裡就踏實了。
-304,TEXT_AKTKMG115_04464_KRILE_000_370,確實……對不起……
-305,TEXT_AKTKMG115_04464_KRILE_000_371,這次經歷了許多事，讓我深刻地認識到自己的能力不足。
-306,TEXT_AKTKMG115_04464_KRILE_000_372,除了戰鬥經驗不足以外，<hex:02100103>和哲學家議會交流時也總是忐忑不安……<hex:02100103>明明我也想和大家一樣，變得更加優秀……
-307,TEXT_AKTKMG115_04464_KRILE_000_373,所以，我決定先做成一件事。
-308,TEXT_AKTKMG115_04464_KRILE_000_374,就是……重建巴爾德西昂委員會！<hex:02100103>我希望以此加深薩雷安和他國的聯繫，<hex:02100103>為對抗世界的未知威脅貢獻力量。
-309,TEXT_AKTKMG115_04464_KRILE_000_375,當然，這不是憑我一己之力就能做到的……<hex:02100103>我想和拉哈、歐吉卡和剩下的委員會的夥伴一起，<hex:02100103>將爺爺開拓的道路延續下去。
-310,TEXT_AKTKMG115_04464_KRILE_000_376,有些案件可能需要進行危險的調查。<hex:02100103>要是遇到這種情況，<hex:02100103>我們會求助外部的協助者或冒險者……
-311,TEXT_AKTKMG115_04464_KRILE_000_377,到時也能委託你嗎？<hex:02100103>我不想因為拂曉的關係讓你有負擔……<hex:02100103>如果你從冒險者的角度覺得值得一試，你會接受嗎？
-312,TEXT_AKTKMG115_04464_KRILE_000_378,太好了！<hex:02100103>那要是遇到有趣的案件，<hex:02100103>我會第一個聯繫你哦！
-313,TEXT_AKTKMG115_04464_KRILE_000_379,希望到那時，我也能變得更加可靠……<hex:02100103>我要從一點一滴開始積累！
-314,TEXT_AKTKMG115_04464_KRILE_000_385,對了，重建巴爾德西昂委員會時，<hex:02100103>埃倫維爾會把拾穗人同事提供的情報轉達給我們。
-315,TEXT_AKTKMG115_04464_KRILE_000_386,作為交換，我們得協助大撤退的善後工作……<hex:02100103>歐吉卡已經前往迷津分配收藏的魔具去了。
-316,TEXT_AKTKMG115_04464_KRILE_000_387,其實他不單是事務員，<hex:02100103>還是通曉第五星曆時期的魔具的鑑定師！<hex:02100103>只不過他不太喜歡這份工作。
-317,TEXT_AKTKMG115_04464_KRILE_000_388,前陣子他還發來消息，求我趕緊接替他……<hex:02100103>所以我得抓緊回去了。
-318,TEXT_AKTKMG115_04464_TATARU_000_390,你和大家都聊過了嗎？<hex:02100103>如果已經準備妥當，我就在這裡為大家送行了……
-319,TEXT_AKTKMG115_04464_Q13_000_391,要離開石之家嗎？
-320,TEXT_AKTKMG115_04464_TATARU_000_392,好的，我明白了！
-321,TEXT_AKTKMG115_04464_TATARU_000_393,各位，分別的時刻到了！<hex:02100103>請留意不要落下東西！
-322,TEXT_AKTKMG115_04464_TATARU_000_394,身為拂曉的接待員，我會把各位送到出口。<hex:02100103>下次再會之前……請保重！
-323,TEXT_AKTKMG115_04464_SYSTEM_000_400,完成了「主線任務：曉月之終途」！<hex:02100103>舊薩雷安開放了可以解鎖新內容的任務。
-324,TEXT_AKTKMG115_04464_SYSTEM_000_401,另外，<hex:02100103>可以與非玩家同伴的幻體一同攻略「最終幻想末世終跡」了！<hex:02100103>通過任務情報的「親信戰友」即可發起挑戰。
-325,TEXT_AKTKMG115_04464_SYSTEM_000_402,精彩冒險仍將繼續，敬請期待！
+0,"TEXT_AKTKMG115_04464_SEQ_00","The Scions of the Seventh Dawn stand ready for the finale."
+1,"TEXT_AKTKMG115_04464_SEQ_01","Having come this far together, everyone's resolve is beyond doubt, and there is little left to say. All that remains is to sally forth into the Dead Ends on your way to your reckoning with Meteion.<hex:02100103><hex:02100103>※To enlist your companion NPCs for this duty, speak with them near the entrance or access Duty Support via the main menu. Use the Duty Finder if you wish to complete the instance alongside fellow players."
+2,"TEXT_AKTKMG115_04464_SEQ_02","With your staunch comrades at your side, you cut a path through foes born of despair to arrive at the innermost part of the Dead Ends. Just beyond lies the heart of Meteion's dominion, and you steel yourself for the confrontation to come.<hex:02100103><hex:02100103>※In the event that you leave the area, you may return from Absolute Horizon in Ultima Thule."
+3,"TEXT_AKTKMG115_04464_SEQ_03","After a journey through time immemorial and space immeasurable, you finally come face-to-face with the true Meteion. The familiar marshals the despair of countless ruined stars to arise as the Endsinger, and unleashes her might against you. Though you fight resolutely, one after another your comrades are overpowered, and it is all you can do to activate your teleporter and deliver them to safety. Just when it seems you must contend with your fearsome foe alone, help arrives in the most unexpected of forms─Zenos as a dragon. Though his foremost desire as ever remains glorious battle with you, he lends you his wings that you might first dispense with the distraction. Thus do you take to the air, to silence the song of oblivion once and for all.<hex:02100103><hex:02100103>※The Final Day can be accessed via the Duty Finder."
+4,"TEXT_AKTKMG115_04464_SEQ_04","In a struggle between hope and despair, the stakes no less than the continued existence of life itself, the Endsinger brings her all to bear against you. More than once, the mighty being pushes you beyond your limits, but given strength by the prayers of your comrades, you weather the relentless onslaught to deliver the decisive blow. In defeat the Endsinger falls, and you descend after her.<hex:02100103><hex:02100103>※In the event that you leave the area, you may return from Absolute Horizon in Ultima Thule."
+5,"TEXT_AKTKMG115_04464_SEQ_05","Amidst an endless darkness, you find Meteion alone, as the familiar she once was. You share with her all that you felt during your journeys─from sweetest triumphs to bitterest defeats─and by this act, she finally finds the answer which she had sought all along. Filled with joy for the discovery and remorse for her deeds, she offers to sing one last song before she falls forever silent─a song of hope unbridled─and creates a path to deliver you back to your comrades. But ere you leave, Zenos arrives to issue you challenge. Though he allows you the choice to walk away, it is past time to put an end to this chapter─and him."
+6,"TEXT_AKTKMG115_04464_SEQ_06","At the end of a grueling encounter, you succeed in laying Zenos low and gifting him the bliss for which he hungered. However, you succumb to your own injuries and collapse to the ground. Your opponent breathes his last, and it seems you are destined to share his grave at the edge of existence..."
+7,"TEXT_AKTKMG115_04464_SEQ_07","Miracles happen every day. And this day, a miracle─one borne upon hopes, perhaps─has delivered you unto the <hex:021A020203>Ragnarok<hex:021A020103>, where you awaken surrounded by caring comrades. Though you have felt better, you are very much alive, and make a triumphant return to beautiful Etheirys, having delivered salvation to the world.<hex:02100103><hex:02100103>Some time later, the Scions of the Seventh Dawn gather at the Rising Stones for the final time. For as has been decided, the order shall disband─albeit only in appearance. Having done its part to usher in lasting change, it will retreat from plain sight, and instead work unobtrusively to solve the problems that plague the realm. Ere you and your comrades go your separate ways, Tataru bids everyone leave no preparations undone or words unsaid."
+8,"TEXT_AKTKMG115_04464_SEQ_08","You take a moment to speak with each of your comrades, and hear their respective plans and aspirations. Though your destinations be disparate, and you will work apart for the foreseeable future, ever will you be united by your unseverable ties as Scions. Having said all that needs be said, you turn to inform Tataru that you are ready to set forth."
+9,"TEXT_AKTKMG115_04464_SEQ_09","Thus are the Final Days averted, and the curtain falls on a tale spanning eons. Gone are those ancient gods who had steered the course of the world, and none can say what lies ahead. Yet one thing is certain: where there is life, there is hope. A light that pierces the deepest darkness. And so long as we hold fast to it, ever will we shine a way unto the morrow. Bearing the memories of your journey thus far, of those whose lives you have touched, and who have touched you in turn, you look forward to the tales still to come."
+10,"TEXT_AKTKMG115_04464_SEQ_10",""
+11,"TEXT_AKTKMG115_04464_SEQ_11",""
+12,"TEXT_AKTKMG115_04464_SEQ_12",""
+13,"TEXT_AKTKMG115_04464_SEQ_13",""
+14,"TEXT_AKTKMG115_04464_SEQ_14",""
+15,"TEXT_AKTKMG115_04464_SEQ_15",""
+16,"TEXT_AKTKMG115_04464_SEQ_16",""
+17,"TEXT_AKTKMG115_04464_SEQ_17",""
+18,"TEXT_AKTKMG115_04464_SEQ_18",""
+19,"TEXT_AKTKMG115_04464_SEQ_19",""
+20,"TEXT_AKTKMG115_04464_SEQ_20",""
+21,"TEXT_AKTKMG115_04464_SEQ_21",""
+22,"TEXT_AKTKMG115_04464_SEQ_22",""
+23,"TEXT_AKTKMG115_04464_SEQ_23",""
+24,"TEXT_AKTKMG115_04464_TODO_00","Enter the Dead Ends."
+25,"TEXT_AKTKMG115_04464_TODO_01","Enter the Dead Ends."
+26,"TEXT_AKTKMG115_04464_TODO_02","Confront the Endsinger on the Final Day."
+27,"TEXT_AKTKMG115_04464_TODO_03","Confront the Endsinger on the Final Day."
+28,"TEXT_AKTKMG115_04464_TODO_04","Defeat Zenos."
+29,"TEXT_AKTKMG115_04464_TODO_05","Defeat Zenos."
+30,"TEXT_AKTKMG115_04464_TODO_06","Speak with your comrades."
+31,"TEXT_AKTKMG115_04464_TODO_07","Speak with Tataru."
+32,"TEXT_AKTKMG115_04464_TODO_08",""
+33,"TEXT_AKTKMG115_04464_TODO_09",""
+34,"TEXT_AKTKMG115_04464_TODO_10",""
+35,"TEXT_AKTKMG115_04464_TODO_11",""
+36,"TEXT_AKTKMG115_04464_TODO_12",""
+37,"TEXT_AKTKMG115_04464_TODO_13",""
+38,"TEXT_AKTKMG115_04464_TODO_14",""
+39,"TEXT_AKTKMG115_04464_TODO_15",""
+40,"TEXT_AKTKMG115_04464_TODO_16",""
+41,"TEXT_AKTKMG115_04464_TODO_17",""
+42,"TEXT_AKTKMG115_04464_TODO_18",""
+43,"TEXT_AKTKMG115_04464_TODO_19",""
+44,"TEXT_AKTKMG115_04464_TODO_20",""
+45,"TEXT_AKTKMG115_04464_TODO_21",""
+46,"TEXT_AKTKMG115_04464_TODO_22",""
+47,"TEXT_AKTKMG115_04464_TODO_23",""
+48,"TEXT_AKTKMG115_04464_ALISAIE_000_000","Let's usher in an ending worthy of the grandest ovation─one that will give all Etheirys cause to raise their voices in celebration!"
+49,"TEXT_AKTKMG115_04464_ALPHINAUD_000_010","Are you ready, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>?"
+50,"TEXT_AKTKMG115_04464_ALPHINAUD_000_011","Then let us set forth for the reckoning."
+51,"TEXT_AKTKMG115_04464_ALPHINAUD_000_012","Having come this far, I know everyone's resolve is beyond doubt. So I will say only this."
+52,"TEXT_AKTKMG115_04464_ALPHINAUD_000_013","Within that dead sun swirls the emotions that Meteion has hoarded. The emotions of innumerable souls who strove for happiness but failed."
+53,"TEXT_AKTKMG115_04464_ALPHINAUD_000_014","As it was with the denizens of Ultima Thule that barred our way, it is not for us to rebuke and admonish."
+54,"TEXT_AKTKMG115_04464_ALPHINAUD_000_015","'Twas not by passing judgment on the tragic legacies of others that we arrived at this moment."
+55,"TEXT_AKTKMG115_04464_ALPHINAUD_000_016","Rather, it was by opening our hearts to their despair─by understanding and acknowledging their fates, while still refusing to share in them ourselves. To hold fast to hope, not in ignorance but by choice."
+56,"TEXT_AKTKMG115_04464_ALPHINAUD_000_017","Should you struggle to do so, I am here to help. As you have all helped me."
+57,"TEXT_AKTKMG115_04464_Q1_000_018","What will you say?"
+58,"TEXT_AKTKMG115_04464_A1_000_019","We will prevail!"
+59,"TEXT_AKTKMG115_04464_A1_000_020","Everyone's going home today. Understood?"
+60,"TEXT_AKTKMG115_04464_A1_000_021","Let's put an end to the end."
+61,"TEXT_AKTKMG115_04464_SCIONS_000_022","(-All-)Aye!"
+62,"TEXT_AKTKMG115_04464_Q2_000_030","What will you do?"
+63,"TEXT_AKTKMG115_04464_A2_000_031","Small talk."
+64,"TEXT_AKTKMG115_04464_A2_000_032","Form a party and enter the Dead Ends."
+65,"TEXT_AKTKMG115_04464_A2_000_033","Nothing."
+66,"TEXT_AKTKMG115_04464_ALPHINAUD_000_040","Emet-Selch and Hythlodaeus created these flowers from our hopes."
+67,"TEXT_AKTKMG115_04464_ALPHINAUD_000_041","If so, mine and Alisaie's shall live on here..."
+68,"TEXT_AKTKMG115_04464_ALPHINAUD_000_042","The hope that you will find happiness at journey's end."
+69,"TEXT_AKTKMG115_04464_ALPHINAUD_000_043","So let us go, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, and see this tale to its conclusion!"
+70,"TEXT_AKTKMG115_04464_ALISAIE_000_045","Just so you know, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, I won't try to keep up with you in the coming battle."
+71,"TEXT_AKTKMG115_04464_ALISAIE_000_046","No, I mean to <hex:021A020203>surpass<hex:021A020103> you! If there's anyone who'll need to keep up, it's Estinien!"
+72,"TEXT_AKTKMG115_04464_ALISAIE_000_047","I'm not joking. Both Alphinaud and I have worked hard and come far. It's time we set our sights higher."
+73,"TEXT_AKTKMG115_04464_ALISAIE_000_048","So you had better watch out, else you'll find yourself in my wake!"
+74,"TEXT_AKTKMG115_04464_THANCRED_000_050","It seems our arms and armor are in order, as are our personal effects."
+75,"TEXT_AKTKMG115_04464_THANCRED_000_051","Most importantly, we have each other. We need only finish what we came here to do."
+76,"TEXT_AKTKMG115_04464_THANCRED_000_052","Avert the end. For Minfilia, for Ryne, for all who aspire to live."
+77,"TEXT_AKTKMG115_04464_URIANGER_000_055","Thus far, we have encountered recreations of some few stars. Doubtless they account for but a fraction of the innumerable worlds to whose fall Meteion did bear witness."
+78,"TEXT_AKTKMG115_04464_URIANGER_000_056","Roiling with torment, the dead sun is forsooth oblivion's apotheosis. It shall be no small coup to breach this nexus of despair."
+79,"TEXT_AKTKMG115_04464_URIANGER_000_057","And yet, as this vista doth prove, where there is hope, there is a way. So let us press forward together, as e'er we have, and find our way unto victory."
+80,"TEXT_AKTKMG115_04464_YSHTOLA_000_060","As Alphinaud says, everyone's resolve is beyond doubt. Yet ere we set forth, there is a thought to which I must give voice."
+81,"TEXT_AKTKMG115_04464_YSHTOLA_000_061","While you were in Elpis, I understand that people assumed you were a familiar."
+82,"TEXT_AKTKMG115_04464_YSHTOLA_000_062","In contrast, those phantoms we encountered in the recreated Amaurot regarded us as children."
+83,"TEXT_AKTKMG115_04464_YSHTOLA_000_063","As people, albeit naive and immature."
+84,"TEXT_AKTKMG115_04464_YSHTOLA_000_064","The discrepancy, I posit, is a reflection of their creator's perspective. Having spent eons among sundered men, perhaps he came to acknowledge us, even if only subconsciously."
+85,"TEXT_AKTKMG115_04464_YSHTOLA_000_065","With Emet-Selch gone, we may never learn the truth. But I will not suffer this and countless other mysteries to go unsolved. Our journey will not end this day."
+86,"TEXT_AKTKMG115_04464_GRAHATIA_000_070","I am returned, thanks to you, but we still have work to do if we are to make our promise a reality."
+87,"TEXT_AKTKMG115_04464_GRAHATIA_000_071","Having you show me the sights in Ishgard, then regaling me your greatest adventures, then embarking on a new adventure together... For these things and more, I will fight."
+88,"TEXT_AKTKMG115_04464_GRAHATIA_000_072","...What? Could there possibly be an adventure greater than this one?"
+89,"TEXT_AKTKMG115_04464_GRAHATIA_000_073","Of course! So long as you desire it and dare to take the first step, there is absolutely no limit!"
+90,"TEXT_AKTKMG115_04464_ESTINIEN_000_075","So, the moment of reckoning is finally upon us... I must say, when I pledged myself to your cause, never did I imagine that it would bring me to the very edge of existence."
+91,"TEXT_AKTKMG115_04464_ESTINIEN_000_076","Not that I'm complaining, mind you. After casting aside vengeance and shedding title and duty, I found myself wanting for purpose. In journeying with you, there has been nary a dull moment."
+92,"TEXT_AKTKMG115_04464_ESTINIEN_000_077","In the course of it all, I feel as though I have found a new place for myself. And a welcome opportunity to see how much the boy has grown."
+93,"TEXT_AKTKMG115_04464_ESTINIEN_000_078","I owe you a debt, aye. But as you can guess, I've ever preferred to express my gratitude through action rather than word. My lance is yours."
+94,"TEXT_AKTKMG115_04464_Q3_000_080","Proceed to the Final Day?"
+95,"TEXT_AKTKMG115_04464_Q4_000_090","Return to Absolute Horizon?"
+96,"TEXT_AKTKMG115_04464_SYSTEM_000_095","You must be a Disciple of War or Magic of level 90 or above to proceed."
+97,"TEXT_AKTKMG115_04464_TATARU_000_100","Go on, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! Don't miss this chance to say a word to each of our friends!"
+98,"TEXT_AKTKMG115_04464_TATARU_000_101","After all you've been through together, I'm sure they'd appreciate it!"
+99,"TEXT_AKTKMG115_04464_ALPHINAUD_000_110","Oh, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Pray forgive me for delaying the gathering."
+100,"TEXT_AKTKMG115_04464_ALPHINAUD_000_111","I was writing a letter, you see. To my parents."
+101,"TEXT_AKTKMG115_04464_ALPHINAUD_000_112","As busy as Father has been, tending the aftermath of the exodus, he has been good enough to show concern for the Scions."
+102,"TEXT_AKTKMG115_04464_ALPHINAUD_000_113","And besides...I've made them worry enough for a lifetime. Henceforth, I will endeavor to write as often as I am able."
+103,"TEXT_AKTKMG115_04464_ALPHINAUD_000_114","A little effort to set their minds at ease while we continue to be away from Sharlayan."
+104,"TEXT_AKTKMG115_04464_ALPHINAUD_000_115","Both Alisaie and I are off to assist with Garlemald's recovery, you see. Though uncertainty remains over what will become of the nation, we cannot well leave the capital in its present state."
+105,"TEXT_AKTKMG115_04464_ALPHINAUD_000_116","We will rejoin those members of the Ilsabard contingent still stationed there. Lucia and Maxima helm the relief effort, with support from our allies─the people of Garlemald among them."
+106,"TEXT_AKTKMG115_04464_ALPHINAUD_000_117","They will gradually be joined by those who have finished treating the tempered across the lands."
+107,"TEXT_AKTKMG115_04464_ALPHINAUD_000_118","Lest you misunderstand, we do not seek redemption for failing Licinia and her sister. That is a burden we must always bear."
+108,"TEXT_AKTKMG115_04464_ALPHINAUD_000_119","Nay, we go because of the truth in Lord Quintus's words."
+109,"TEXT_AKTKMG115_04464_ALPHINAUD_000_120","The truth that, whatever ideals individuals may espouse, nations are not moved to action unless they stand to benefit..."
+110,"TEXT_AKTKMG115_04464_ALPHINAUD_000_121","For the foreseeable future, the fallen Empire will be at the mercy of both internal and external forces."
+111,"TEXT_AKTKMG115_04464_ALPHINAUD_000_122","And though I do not doubt the intentions of the contingent, with greater powers involved in the relief effort, our allies may well find themselves drawn into a political agenda."
+112,"TEXT_AKTKMG115_04464_ALPHINAUD_000_123","In going, we seek to ensure that the needs of the people come first. To understand their hearts, that we might better help them to begin anew."
+113,"TEXT_AKTKMG115_04464_Q5_000_124","What will you say?"
+114,"TEXT_AKTKMG115_04464_A5_000_125","You'd best write me too."
+115,"TEXT_AKTKMG115_04464_A5_000_126","I'll visit when I can."
+116,"TEXT_AKTKMG115_04464_ALPHINAUD_000_127","Write you letters? Of course I would be glad to do so..."
+117,"TEXT_AKTKMG115_04464_ALPHINAUD_000_128","But I would be gladder still were you to come and visit, and I believe I speak for Alisaie as well."
+118,"TEXT_AKTKMG115_04464_ALPHINAUD_000_129","By all means! Full glad would I be for your visit, and I believe I speak for Alisaie as well!"
+119,"TEXT_AKTKMG115_04464_ALPHINAUD_000_130","For fairly as long as I've been in Eorzea, you've been at my side. Watching over me, in good times and in bad."
+120,"TEXT_AKTKMG115_04464_ALPHINAUD_000_131","How many times have we gathered to share tidings... None could possibly keep count."
+121,"TEXT_AKTKMG115_04464_ALPHINAUD_000_132","The world is changing and will continue to do so. Yet no matter what the future brings, I hope that I can ever look to you..."
+122,"TEXT_AKTKMG115_04464_ALPHINAUD_000_133","In good times and in bad. As a dependable comrade and dear friend both."
+123,"TEXT_AKTKMG115_04464_ALPHINAUD_000_134","Thank you, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. From the bottom of my heart."
+124,"TEXT_AKTKMG115_04464_ALPHINAUD_000_140","I've been keeping Arenvald abreast of the situation in letters, but unfortunately he could not be here today."
+125,"TEXT_AKTKMG115_04464_ALPHINAUD_000_141","When it is convenient for both of us, we should pay him a visit."
+126,"TEXT_AKTKMG115_04464_ALISAIE_000_150","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! Seen to your preparations, have you?"
+127,"TEXT_AKTKMG115_04464_ALISAIE_000_151","I'm just making another sweep of my belongings. Wouldn't do to find I've forgotten something halfway to my destination..."
+128,"TEXT_AKTKMG115_04464_ALISAIE_000_152","Oh, in case you hadn't heard, we've received new reports detailing the devastation caused by the Final Days."
+129,"TEXT_AKTKMG115_04464_ALISAIE_000_153","It appears the situation is gravest in the lands surrounding the Bounty, where the sky first began to burn."
+130,"TEXT_AKTKMG115_04464_ALISAIE_000_154","After that, the calamity was observed in the far north─in Garlemald and the frozen lands beyond."
+131,"TEXT_AKTKMG115_04464_ALISAIE_000_155","We also had reports of the heavens catching fire in isolated locations, one of which was an area in the Northern Empty. Had our quest taken any longer, Sharlayan too may have come under threat."
+132,"TEXT_AKTKMG115_04464_ALISAIE_000_156","Thank goodness it's over now."
+133,"TEXT_AKTKMG115_04464_ALISAIE_000_157","To be sure, blasphemies and lesser beasts may still be roaming about, but these localized crises should be well within the capacities of each nation to handle on their own. The Scions are no longer needed."
+134,"TEXT_AKTKMG115_04464_ALISAIE_000_158","Which isn't to say that we won't help out where we can, of course. As individuals─no more of this order business."
+135,"TEXT_AKTKMG115_04464_ALISAIE_000_159","For my part, I'll be heading to Garlemald with Alphinaud. They were among the worst affected, and still need all the help they can get."
+136,"TEXT_AKTKMG115_04464_ALISAIE_000_160","It won't be easy..."
+137,"TEXT_AKTKMG115_04464_ALISAIE_000_161","An inevitable part of aiding those in need is coming face-to-face with tragedy."
+138,"TEXT_AKTKMG115_04464_ALISAIE_000_162","Knowing it doesn't make it any easier, though. That I'll curse my weakness. My inability to fix every problem and save every lost soul."
+139,"TEXT_AKTKMG115_04464_ALISAIE_000_163","But no matter how much it hurts, I won't give up."
+140,"TEXT_AKTKMG115_04464_ALISAIE_000_164","I'll do what I can for as many people as I can, begrudging no effort."
+141,"TEXT_AKTKMG115_04464_ALISAIE_000_165","And should I find myself discouraged, I'll remember you. Think back fondly to one of your many moments of triumph and the accompanying determined expression."
+142,"TEXT_AKTKMG115_04464_ALISAIE_000_166","Even those that still annoy me in retrospect, like when you activated the teleporter without warning!"
+143,"TEXT_AKTKMG115_04464_ALISAIE_000_167","And should you hear about me, I want you to remember too."
+144,"TEXT_AKTKMG115_04464_ALISAIE_000_168","Remember that I'm out there somewhere, trying my very best."
+145,"TEXT_AKTKMG115_04464_Q6_000_169","What will you say?"
+146,"TEXT_AKTKMG115_04464_A6_000_170","I look forward to hearing all about the legendary Alisaie Leveilleur."
+147,"TEXT_AKTKMG115_04464_A6_000_171","Think you can keep up with me?"
+148,"TEXT_AKTKMG115_04464_ALISAIE_000_172","N-Not that I'm trying to become famous or anything..."
+149,"TEXT_AKTKMG115_04464_ALISAIE_000_173","That being said..."
+150,"TEXT_AKTKMG115_04464_ALISAIE_000_174","Heh, you asked for it, so you had better watch out!"
+151,"TEXT_AKTKMG115_04464_ALISAIE_000_175","Oh, yes!"
+152,"TEXT_AKTKMG115_04464_ALISAIE_000_176","The next time we meet, I'll be vastly improved. So don't be surprised when you find yourself marveling at me!"
+153,"TEXT_AKTKMG115_04464_ALISAIE_000_180","Hm, did I forget to mention anything? ...Ah, yes! The Hannish envoy who came to see Estinien also bore a letter from Matsya."
+154,"TEXT_AKTKMG115_04464_ALISAIE_000_181","He writes that Mehvan and Qerasaf's little girl is doing well, and he often goes to visit her."
+155,"TEXT_AKTKMG115_04464_ALISAIE_000_182","It won't be easy growing up without her parents, but with her fellow villagers watching over her, I dare to hope that she won't want for warmth as she grows up."
+156,"TEXT_AKTKMG115_04464_THANCRED_000_190","Ah, our champion and savior. I was beginning to think my chance for an audience would never come!"
+157,"TEXT_AKTKMG115_04464_THANCRED_000_191","...Ahem, that sounded more amusing in my head. Speaking of heads, I was worried about yours─and the rest of you, for that matter. On the mend, I trust?"
+158,"TEXT_AKTKMG115_04464_THANCRED_000_192","Glad to hear it. You were in a bad way, and healing magicks or no, I'm impressed by how swiftly you've recovered..."
+159,"TEXT_AKTKMG115_04464_THANCRED_000_193","Then again, 'tis hardly the first time you've cheated death. Your strength of will has never failed to astonish me."
+160,"TEXT_AKTKMG115_04464_THANCRED_000_194","Look at what you've accomplished. Meteion defeated, her song of oblivion cut short. The Source and all her reflections delivered from the Final Days."
+161,"TEXT_AKTKMG115_04464_THANCRED_000_195","If you had faltered at the last, then all hope would have been lost. But you held fast."
+162,"TEXT_AKTKMG115_04464_THANCRED_000_196","Now Ryne has a tomorrow to look forward to, and I could ask for no greater gift than that."
+163,"TEXT_AKTKMG115_04464_THANCRED_000_197","As for a lesser gift, however... The next time you see her, I would appreciate you <hex:021A020203>not<hex:021A020103> describing my travel plans with Urianger as “aimless wandering.”"
+164,"TEXT_AKTKMG115_04464_THANCRED_000_198","We've a purpose in our roaming, after all: keeping an eye on things in the absence of the Scions on the world stage."
+165,"TEXT_AKTKMG115_04464_THANCRED_000_199","There'll never be an end to the little problems that go untended by nations. We will do our best to help out where and when we can."
+166,"TEXT_AKTKMG115_04464_THANCRED_000_200","...Which I suppose is an approach not far removed from “aimless wandering” when you get down to it."
+167,"TEXT_AKTKMG115_04464_THANCRED_000_201","Perhaps you could tell her I am faring well, and leave it at that, eh?"
+168,"TEXT_AKTKMG115_04464_THANCRED_000_202","No need to mention this feeling of being uprooted..."
+169,"TEXT_AKTKMG115_04464_THANCRED_000_203","I've never been one to stand still for long, but when I think of home, 'tis the Rising Stones which comes to mind. How many times have we set out from this base, thence to return when our work was done?"
+170,"TEXT_AKTKMG115_04464_THANCRED_000_204","On the day the Scions came together, I only hoped for Minfilia to find a place where she belonged...but never did I expect to find one here for myself."
+171,"TEXT_AKTKMG115_04464_THANCRED_000_205","Indulge me, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. I have a question for you─and imagine Minfilia herself is asking."
+172,"TEXT_AKTKMG115_04464_THANCRED_000_206","Are you glad you joined the Scions?"
+173,"TEXT_AKTKMG115_04464_Q7_000_207","What will you say?"
+174,"TEXT_AKTKMG115_04464_A7_000_208","Best decision I've ever made."
+175,"TEXT_AKTKMG115_04464_A7_000_209","There's never been a dull moment, that's for certain."
+176,"TEXT_AKTKMG115_04464_THANCRED_000_210","Aye, I can honestly say the same."
+177,"TEXT_AKTKMG115_04464_THANCRED_000_211","That's one way of putting it! In many ways, the experience has left us far stronger than when we began."
+178,"TEXT_AKTKMG115_04464_THANCRED_000_212","But all good things must come to an end...at least for a time."
+179,"TEXT_AKTKMG115_04464_THANCRED_000_213","Should you need a helping hand for infiltration or reconnaissance, you know who to ask. I'll come running, and you'll likely get a certain “funny-talking fortune-teller” into the bargain."
+180,"TEXT_AKTKMG115_04464_THANCRED_000_215","In case you've not heard, the Waking Sands will be converted into a warehouse. We'll be keeping the place free of rats and cobwebs, so it can still serve as an outpost should the need arise."
+181,"TEXT_AKTKMG115_04464_THANCRED_000_216","Considering Tataru's ambitions, however, I'd not be surprised if she claimed the lot for her budding empire..."
+182,"TEXT_AKTKMG115_04464_URIANGER_000_220","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, thou hast spoken with our comrades?"
+183,"TEXT_AKTKMG115_04464_URIANGER_000_221","Though this parting be not forevermore, 'tis nonetheless occasion for sorrow. Akin to a pixie's path, the navigation of such farewells is a perilous endeavor indeed..."
+184,"TEXT_AKTKMG115_04464_URIANGER_000_222","For their part, however, the Loporrits embark upon a new beginning."
+185,"TEXT_AKTKMG115_04464_URIANGER_000_223","Though bereft of its purpose as a vessel, the moon yet remaineth hospitable for the creatures of Etheirys."
+186,"TEXT_AKTKMG115_04464_URIANGER_000_224","Thus do our lunar visitors convene with the Forum, intent upon assigning some new and beneficial role to our solitary satellite."
+187,"TEXT_AKTKMG115_04464_URIANGER_000_225","Yet ere that may come to pass, there is much and more each party must learn of the other─a process which doth promise to be eventful indeed."
+188,"TEXT_AKTKMG115_04464_URIANGER_000_226","To that end, a cadre of Loporrits hath gleefully dispersed across our lands in the name of mutual understanding."
+189,"TEXT_AKTKMG115_04464_URIANGER_000_227","Hydaelyn, 'tis said, did imbue them with Her love for all things born of this star..."
+190,"TEXT_AKTKMG115_04464_URIANGER_000_228","...And 'tis Venat's own nature, I believe, which doth manifest in this irrepressible, inexhaustible curiosity of theirs."
+191,"TEXT_AKTKMG115_04464_URIANGER_000_229","Having witnessed that which they strove to achieve, I wish most keenly for their long labors to be rewarded─that their abiding affection for man result in a boon for all."
+192,"TEXT_AKTKMG115_04464_URIANGER_000_230","Moreover, I hope to continue our acquaintance, and share in such knowledge as they see fit to impart..."
+193,"TEXT_AKTKMG115_04464_Q8_000_231","What will you say?"
+194,"TEXT_AKTKMG115_04464_A8_000_232","Acquaintance? I'd call it friendship."
+195,"TEXT_AKTKMG115_04464_A8_000_233","You are the first to truly understand them."
+196,"TEXT_AKTKMG115_04464_URIANGER_000_234","I...did not wish to presume."
+197,"TEXT_AKTKMG115_04464_URIANGER_000_235","Aye, I would be honored should they consider me a friend."
+198,"TEXT_AKTKMG115_04464_URIANGER_000_236","For 'tis certainly true that I have grown fond of their company."
+199,"TEXT_AKTKMG115_04464_URIANGER_000_237","Dost thou think so?"
+200,"TEXT_AKTKMG115_04464_URIANGER_000_238","The Loporrits are certainly possessed of a unique outlook, and it hath been my pleasure to act as their facilitator upon this star."
+201,"TEXT_AKTKMG115_04464_URIANGER_000_239","Mayhap I might yet serve as a bridge betwixt them and our fellow man...as Moenbryda once did for me."
+202,"TEXT_AKTKMG115_04464_URIANGER_000_240","Ah, but I shall digress no further. This day should belong to the Scions of the Seventh Dawn; to mine incomparable companions."
+203,"TEXT_AKTKMG115_04464_URIANGER_000_241","Ofttimes hath mine reticence caused thee grief, and mine actions spurred allies to suspect betrayal..."
+204,"TEXT_AKTKMG115_04464_URIANGER_000_242","And yet, here amongst you I still stand. No amount of words could express my gratitude for thine acceptance and forgiveness."
+205,"TEXT_AKTKMG115_04464_URIANGER_000_243","Thus instead, I do proffer my humble support."
+206,"TEXT_AKTKMG115_04464_URIANGER_000_244","Be it unto the deepest abyss or the highest heavens, even if I must needs founder 'cross stormy seas, ever shall I answer thy summons."
+207,"TEXT_AKTKMG115_04464_URIANGER_000_250","I understand that, following thy clash with Zenos, the teleportation device thou had discarded fell to thee from on high."
+208,"TEXT_AKTKMG115_04464_URIANGER_000_251","To return to thee in such a manner... I did confer with Wilfsunn and Bloewyda, yet they insist the device was possessed of no such capability."
+209,"TEXT_AKTKMG115_04464_URIANGER_000_252","'Twas a miracle befitting the nature of that place, where emotion becometh tangible reality. Whence, then, arose this timely wonder? Thine ardent wish...or another's fervent prayer?"
+210,"TEXT_AKTKMG115_04464_YSHTOLA_000_260","Oh, are we saying our farewells, too? I hadn't, at present, planned on a journey of any great length..."
+211,"TEXT_AKTKMG115_04464_YSHTOLA_000_261","...Not that I am averse to a moment or two of quiet reminiscence."
+212,"TEXT_AKTKMG115_04464_YSHTOLA_000_262","In fact, there was something I'd been meaning to ask you─something that has been in my thoughts since the last flames of the Final Days subsided."
+213,"TEXT_AKTKMG115_04464_YSHTOLA_000_263","During our travels, we have witnessed more than a lifetime's worth of oddities and spectacles. More than can be easily recalled or remembered..."
+214,"TEXT_AKTKMG115_04464_YSHTOLA_000_264","And nestled amongst those memories are certain essential facts─the history of Etheirys and the ancients; glimpses of the Ea─of their culture and philosophy."
+215,"TEXT_AKTKMG115_04464_YSHTOLA_000_265","Rather than simply hoard such treasures in my mind, I wonder if I should not be disseminating them in formal records for wider consumption."
+216,"TEXT_AKTKMG115_04464_YSHTOLA_000_266","When needed, I have penned reports and prepared briefings... But ever have I balked at the idea of binding the subject of my studies in a book or tablet."
+217,"TEXT_AKTKMG115_04464_YSHTOLA_000_267","Truth is given shape in interpretation. When we seek to capture it with our words, it is invariably molded to fit a narrative─no matter how well-intentioned the rendering."
+218,"TEXT_AKTKMG115_04464_YSHTOLA_000_268","An event is described as “sad.” A summation which fails to express the emotional complexity. Yet the word on the page is what endures. A pale shadow of reality."
+219,"TEXT_AKTKMG115_04464_YSHTOLA_000_269","Throughout history, some have deliberately embellished the truth, but I believe many─if not most─deviations are the result of similar linguistic shortcomings, piling one upon the other, until the end result is unrecognizable from its origin."
+220,"TEXT_AKTKMG115_04464_YSHTOLA_000_270","Which is why I fear that writing an account in my own words would be akin to diluting fine wine with water."
+221,"TEXT_AKTKMG115_04464_YSHTOLA_000_271","Yet even with the potential for corrupted meaning, I do of course realize the importance of keeping written records. Without them, my search for wisdom would be a painful affair indeed."
+222,"TEXT_AKTKMG115_04464_YSHTOLA_000_272","But what say you on this matter? Should I take up the quill? Reflect upon those experiences only we have shared, and seek to preserve them for posterity?"
+223,"TEXT_AKTKMG115_04464_Q9_000_273","What will you say?"
+224,"TEXT_AKTKMG115_04464_A9_000_274","Aye, let them be read and remembered."
+225,"TEXT_AKTKMG115_04464_A9_000_275","Nay, it's enough to hold them in your memories."
+226,"TEXT_AKTKMG115_04464_YSHTOLA_000_276","Very well, then. I shall endeavor to pen what I can of the Ea, and the ancients, and of so many other wonders."
+227,"TEXT_AKTKMG115_04464_YSHTOLA_000_277","But I am no scribe. It will be less a polished work, and more a reordering of scattered notes..."
+228,"TEXT_AKTKMG115_04464_YSHTOLA_000_278","Very well, then. I will refrain from publishing any formal work on the Ea, or the ancients, or on any of the wonders we encountered."
+229,"TEXT_AKTKMG115_04464_YSHTOLA_000_279","I will, however, need to keep a few notes for future research. The passage of time can warp the truth just as surely as a poorly chosen word..."
+230,"TEXT_AKTKMG115_04464_YSHTOLA_000_280","In any case, I feel much better for having sought your opinion. Left to our own devices, we tend to overthink such things."
+231,"TEXT_AKTKMG115_04464_YSHTOLA_000_281","I will otherwise return to following where my curiosity leads. After all, a safe method of travel to the First yet eludes me, and our venture into the great expanse has prompted an entirely new set of questions!"
+232,"TEXT_AKTKMG115_04464_YSHTOLA_000_282","Should you stumble into the unknown, or struggle with some impenetrable mystery, know that I am at your beck and call."
+233,"TEXT_AKTKMG115_04464_YSHTOLA_000_283","It never hurts to see things from a different perspective, and mine is rather different than most!"
+234,"TEXT_AKTKMG115_04464_YSHTOLA_000_285","Lyse came to visit the other day. She peppered me with questions about the lasting repercussions of the Final Days."
+235,"TEXT_AKTKMG115_04464_YSHTOLA_000_286","I took the opportunity to explain our plans to “disband,” and she understood our reasoning immediately. Once a Scion, always a Scion, it would seem."
+236,"TEXT_AKTKMG115_04464_YSHTOLA_000_287","She was eager to relive old times, and remember old friends... Bittersweet memories, mayhap, but from the look on her face, the joys outweighed the sorrows."
+237,"TEXT_AKTKMG115_04464_GRAHATIA_000_290","Oh, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Might you have a moment to talk?"
+238,"TEXT_AKTKMG115_04464_GRAHATIA_000_291","With the Scions stepping away from the public eye, I've been left to consider what new endeavors I might pursue."
+239,"TEXT_AKTKMG115_04464_GRAHATIA_000_292","And after speaking with Krile, I've decided. I will be assisting her in rebuilding the Students of Baldesion."
+240,"TEXT_AKTKMG115_04464_GRAHATIA_000_293","Not only am I indebted to Master Galuf for giving me a new home, but had our order never existed, I would have never set foot within the Crystal Tower."
+241,"TEXT_AKTKMG115_04464_GRAHATIA_000_294","How different my life might have been..."
+242,"TEXT_AKTKMG115_04464_GRAHATIA_000_295","I would have never met you. Never become caretaker of the tower. Never become a Scion."
+243,"TEXT_AKTKMG115_04464_GRAHATIA_000_296","You gave me the chance to do so much good, and I hope to continue to do so with the Students."
+244,"TEXT_AKTKMG115_04464_GRAHATIA_000_297","For an added benefit, new mysteries often find their way to our doorsteps─mysteries that could prove ideal for fulfilling our promise: to embark on a new adventure together, unlike any we've experienced before!"
+245,"TEXT_AKTKMG115_04464_GRAHATIA_000_298","Whenever you have the time and inclination, my friend, I stand ready to accompany you unto the unknown!"
+246,"TEXT_AKTKMG115_04464_GRAHATIA_000_299","...Do you recall in the realm of the Omicrons, when I asked if you thought I may someday be mentioned in your epic?"
+247,"TEXT_AKTKMG115_04464_GRAHATIA_000_300","While 'tis true that to earn a place at your side would be the stuff of dreams..."
+248,"TEXT_AKTKMG115_04464_GRAHATIA_000_301","In the end, nothing would give me greater joy than to stand with you in the here and now!"
+249,"TEXT_AKTKMG115_04464_GRAHATIA_000_302","It needn't be some grand endeavor. There needn't be a promise. Whenever adventure calls, I won't hesitate to invite you...and I hope that you will do the same for me."
+250,"TEXT_AKTKMG115_04464_Q10_000_303","What will you say?"
+251,"TEXT_AKTKMG115_04464_A10_000_304","Without a second thought."
+252,"TEXT_AKTKMG115_04464_A10_000_305","As long as you don't overexert yourself."
+253,"TEXT_AKTKMG115_04464_GRAHATIA_000_306","Hah, I'll hold you to that!"
+254,"TEXT_AKTKMG115_04464_GRAHATIA_000_307","I know, I know. I can all but hear Lyna and Beq Lugg's voices each time you remind me."
+255,"TEXT_AKTKMG115_04464_GRAHATIA_000_308","...As much as we have already seen, there's still so much we haven't. Who knows─perhaps we will even encounter survivors of the Omicrons somewhere out there."
+256,"TEXT_AKTKMG115_04464_GRAHATIA_000_309","After all, given how they took to the stars, it isn't implausible that some found themselves far from home."
+257,"TEXT_AKTKMG115_04464_GRAHATIA_000_310","And should we encounter a wayward traveler awaiting commands that will never come..."
+258,"TEXT_AKTKMG115_04464_GRAHATIA_000_311","I would bid them seek adventure with someone, and with that partner find new purpose. A new dream."
+259,"TEXT_AKTKMG115_04464_GRAHATIA_000_312","For if crystals can hold fast to dreams, why not Omicrons?"
+260,"TEXT_AKTKMG115_04464_GRAHATIA_000_313","Wherever your plans may lead, do not hesitate to send word. And should a commission of interest come my way, you will be the first to know!"
+261,"TEXT_AKTKMG115_04464_GRAHATIA_000_315","By the way, have you spoken with Feo Ul of late? Some days ago, they appeared to me in a dream─of the sleeping persuasion, that is."
+262,"TEXT_AKTKMG115_04464_GRAHATIA_000_316","All is well in the First, they bade me tell you."
+263,"TEXT_AKTKMG115_04464_GRAHATIA_000_317","When I asked why not tell you themself, they unleashed giant, ravenous beavers upon me... Have you perchance done something to incur their ire?"
+264,"TEXT_AKTKMG115_04464_ESTINIEN_000_320","...If you have something to say, then out with it."
+265,"TEXT_AKTKMG115_04464_Q11_000_321","What will you say?"
+266,"TEXT_AKTKMG115_04464_A11_000_322","Just worried how you'll earn your keep now."
+267,"TEXT_AKTKMG115_04464_A11_000_323","Just wondering how I'll earn my keep now."
+268,"TEXT_AKTKMG115_04464_ESTINIEN_000_324","You talk as if the Scions' dissolution was more than mere pretense. There may be fewer calls to action, but we should be compensated as before."
+269,"TEXT_AKTKMG115_04464_ESTINIEN_000_325","...Why are you so concerned for me, anyway?"
+270,"TEXT_AKTKMG115_04464_ESTINIEN_000_326","What, I thought you adventurers had any number of ways to earn coin. And though the Scions' mode of operation has changed, we should be compensated as before."
+271,"TEXT_AKTKMG115_04464_ESTINIEN_000_327","In any case, I do not want for options. Even if some are worse than others..."
+272,"TEXT_AKTKMG115_04464_ESTINIEN_000_328","No sooner did Aymeric hear about our disbandment than he offered me a position as a guardsman in the Empyreum district. As a former Azure Dragoon, I'm guaranteed to be popular, he said."
+273,"TEXT_AKTKMG115_04464_ESTINIEN_000_329","Who does he take me for!? Even without his meddling, I'm perfectly capable of finding employment─and have!"
+274,"TEXT_AKTKMG115_04464_ESTINIEN_000_330","Some days ago, a Hannish envoy arrived with word from Vrtra. The wyrm requests my presence as soon as things have settled here."
+275,"TEXT_AKTKMG115_04464_ESTINIEN_000_331","He didn't deign to mention why I'm needed, but it pertains to dragons, like as not."
+276,"TEXT_AKTKMG115_04464_ESTINIEN_000_332","In Thavnair, like elsewhere, the phenomena caused by the Final Days abated when you defeated Meteion."
+277,"TEXT_AKTKMG115_04464_ESTINIEN_000_333","Though it was too late for those who had already transformed, life is beginning to return to normal for the survivors."
+278,"TEXT_AKTKMG115_04464_ESTINIEN_000_334","Of those who sought refuge in Sharlayan, most have already returned home."
+279,"TEXT_AKTKMG115_04464_ESTINIEN_000_335","But many do not have a home to return to, nor loved ones. By an arrangement between Vrtra and the Forum, such souls may remain in Sharlayan if they wish, to work and study."
+280,"TEXT_AKTKMG115_04464_ESTINIEN_000_336","Vrtra was always the satrap in truth. It's gratifying to see him become one in name as well─one who has the complete confidence of his people, if the envoy's tone was any indication."
+281,"TEXT_AKTKMG115_04464_ESTINIEN_000_337","Hmph, I often find myself speaking favorably of dragons of late..."
+282,"TEXT_AKTKMG115_04464_ESTINIEN_000_338","Not so long ago, I would have assumed his benevolence hid ulterior motives. But 'tis clear he cares for his people, and they in turn revere him."
+283,"TEXT_AKTKMG115_04464_ESTINIEN_000_339","To know such a nation may flourish is...comforting."
+284,"TEXT_AKTKMG115_04464_ESTINIEN_000_340","Vrtra's kin sought release from conflict. So weary were they of the suffering it wrought, they surrendered to oblivion."
+285,"TEXT_AKTKMG115_04464_ESTINIEN_000_341","But Midgardsormr didn't give up. In hope he made the journey to distant Etheirys with his clutch of eggs."
+286,"TEXT_AKTKMG115_04464_ESTINIEN_000_342","And though his progeny went on to be embroiled in conflict with men, there were times when they transcended hatred to abide in harmony."
+287,"TEXT_AKTKMG115_04464_ESTINIEN_000_343","That is their legacy and their triumph."
+288,"TEXT_AKTKMG115_04464_ESTINIEN_000_344","In my lance, I feel the weight of their struggle and the strength of their resolve. And it lends me strength."
+289,"TEXT_AKTKMG115_04464_ESTINIEN_000_345","These things, I might never have learned had I not joined you."
+290,"TEXT_AKTKMG115_04464_ESTINIEN_000_346","Should you ever have need of me, I will come. At the very least, it might be an opportunity to earn coin."
+291,"TEXT_AKTKMG115_04464_ESTINIEN_000_350","Word has it a false deity born in the Tower of Zot has survived, and occasionally appears to terrorize the locals."
+292,"TEXT_AKTKMG115_04464_ESTINIEN_000_351","Those who vanquish the being and present proof in Radz-at-Han will receive a handsome reward. Though “handsome” isn't the word I would use to describe such outlandish garb..."
+293,"TEXT_AKTKMG115_04464_ESTINIEN_000_352","But while I'm in Thavnair, perhaps I will acquire a set to send to Aymeric in lieu of an answer to his job offer. Let him stand guard thus attired and be the talk of Empyreum, if not all Coerthas."
+294,"TEXT_AKTKMG115_04464_KRILE_000_360","Oh, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. How are you feeling? Any lingering aches or pains?"
+295,"TEXT_AKTKMG115_04464_KRILE_000_361","I can't apologize enough for sending Zenos to find you in Ultima Thule..."
+296,"TEXT_AKTKMG115_04464_KRILE_000_362","When he came to me in Sharlayan, I was truly torn. As ever, there was only one thing on his mind."
+297,"TEXT_AKTKMG115_04464_KRILE_000_363","Forced to make a decision, I reasoned that, if he would not be deterred from seeking you out, he might at least aid us in our cause. And so I struck a bargain..."
+298,"TEXT_AKTKMG115_04464_KRILE_000_364","In the end, he was true to his word, and you defeated him despite your earlier exertions. But knowing the state you were found in, it could have ended very differently."
+299,"TEXT_AKTKMG115_04464_KRILE_000_365","My decision almost cost you your life, and no words could express the remorse I feel..."
+300,"TEXT_AKTKMG115_04464_Q12_000_366","What will you say?"
+301,"TEXT_AKTKMG115_04464_A12_000_367","It worked out. You did the right thing."
+302,"TEXT_AKTKMG115_04464_A12_000_368","I won't lie─I thought that was it for me."
+303,"TEXT_AKTKMG115_04464_KRILE_000_369","It is a relief to hear you say that. Thank you."
+304,"TEXT_AKTKMG115_04464_KRILE_000_370","So did everyone... I'm so sorry, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>..."
+305,"TEXT_AKTKMG115_04464_KRILE_000_371","Time and time again, I've been made to feel woefully inadequate."
+306,"TEXT_AKTKMG115_04464_KRILE_000_372","I wasn't much use in battle, nor could I face the Forum without my nerves getting the better of me. It always fell to you and the others."
+307,"TEXT_AKTKMG115_04464_KRILE_000_373","I must─and will─do better."
+308,"TEXT_AKTKMG115_04464_KRILE_000_374","And I shall begin with the restoration of the Students of Baldesion. Through our work, Sharlayan will strengthen its ties with other nations, that we may be better prepared to face whatever threats arise in future."
+309,"TEXT_AKTKMG115_04464_KRILE_000_375","Of course, this isn't something I can accomplish alone. But thankfully, I have the staunchest of help in Raha and Ojika and our other remaining members. Together, we'll continue Grandfather's work."
+310,"TEXT_AKTKMG115_04464_KRILE_000_376","As before, certain commissions will take us to dangerous locales, and we may need to call upon seasoned adventurers."
+311,"TEXT_AKTKMG115_04464_KRILE_000_377","In such times, might you be willing to assist us? Not because you feel obliged, mind you, but because you feel allure for the task itself."
+312,"TEXT_AKTKMG115_04464_KRILE_000_378","Marvelous. Should something of interest arise, I shan't hesitate to reach out to you."
+313,"TEXT_AKTKMG115_04464_KRILE_000_379","Until that day, I shall endeavor to become a more dependable comrade."
+314,"TEXT_AKTKMG115_04464_KRILE_000_385","Oh, I should mention that Erenville has kindly agreed to share aught of potential interest he hears from his fellow gleaners."
+315,"TEXT_AKTKMG115_04464_KRILE_000_386","In exchange, we will help them to restore the archives to their proper order. With the exodus abandoned, all items must be returned whence they came─a task no less grueling than their removal."
+316,"TEXT_AKTKMG115_04464_KRILE_000_387","Even now, Ojika assists in the sorting of arcane artifacts. Oh yes, not only is he a skilled administrator─he's also a certified appraiser specializing in relics from the Fifth Astral Era!"
+317,"TEXT_AKTKMG115_04464_KRILE_000_388","Despite his qualifications, though, he seems none too keen on the work. I shall have to go and relieve him as soon as I can..."
+318,"TEXT_AKTKMG115_04464_TATARU_000_390","Spoken your fill, have you? If so, I'm thinking to send everyone off."
+319,"TEXT_AKTKMG115_04464_Q13_000_391","Leave the Rising Stones?"
+320,"TEXT_AKTKMG115_04464_TATARU_000_392","With your permission, then!"
+321,"TEXT_AKTKMG115_04464_TATARU_000_393","Your attention please! At risk of spoiling the mood, the time of departure is upon us."
+322,"TEXT_AKTKMG115_04464_TATARU_000_394","In my capacity as your receptionist, I bid you all safe journeys. Till next we meet...be well!"
+323,"TEXT_AKTKMG115_04464_SYSTEM_000_400","You have completed the main scenario quest “Endwalker”! Quests to unlock new content have now become available in Old Sharlayan."
+324,"TEXT_AKTKMG115_04464_SYSTEM_000_401","Additionally, you may now enter the Dead Ends with a party of NPC avatars. To make use of this feature, open the <hex:024804F201F403><hex:024904F201F503>Trust<hex:0249020103><hex:0248020103> interface located under <hex:024804F201F403><hex:024904F201F503>Duty<hex:0249020103><hex:0248020103> in the main menu."
+325,"TEXT_AKTKMG115_04464_SYSTEM_000_402","Rest well, champion of Etheirys, for many and more adventures await you!"

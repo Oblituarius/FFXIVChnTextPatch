@@ -2,21 +2,21 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_REGGYR3RADIATA_00400_LEAPINGDOE_000_000,你是個生面孔呢……<hex:02100103>來輻射村是有什麼事？
-1,TEXT_REGGYR3RADIATA_00400_Q1_000_000,想了解什麼？
-2,TEXT_REGGYR3RADIATA_00400_A1_000_001,你是做什麼的？
-3,TEXT_REGGYR3RADIATA_00400_A1_000_002,這裡是什麼地方？
-4,TEXT_REGGYR3RADIATA_00400_A1_000_003,取消
-5,TEXT_REGGYR3RADIATA_00400_LEAPINGDOE_000_010,你打聽我是要做什麼？<hex:02100103>不好意思，我什麼都不會告訴你的。<hex:02100103>禍從口出，說太多不知道哪句話就讓我掉了腦袋。
-6,TEXT_REGGYR3RADIATA_00400_LEAPINGDOE_000_011,我爸為工作的事發了兩句牢騷就被熟人告密給了帝國軍，<hex:02100103>帝國軍把他抓走後人就再沒回來。<hex:02100103>多半是懷疑他加入了解放軍吧。
-7,TEXT_REGGYR3RADIATA_00400_LEAPINGDOE_000_012,我弟弟在帝國軍手下幹活的事被愛國派的人知道後，<hex:02100103>直接被愛國派的人上了私刑。<hex:02100103>換你跟我一樣的遭遇，你也不敢再多說什麼。
-8,TEXT_REGGYR3RADIATA_00400_LEAPINGDOE_000_013,我叫利平·朵，是這輻射村的居民。
-9,TEXT_REGGYR3RADIATA_00400_LEAPINGDOE_000_014,雖然帝國的統治結束了，但可能是因為在這裡住久了吧，<hex:02100103>我暫時還沒有搬到別處的想法。<hex:02100103>畢竟被帝國軍抓走的父親也還沒有回來。
-10,TEXT_REGGYR3RADIATA_00400_LEAPINGDOE_000_015,先在這裡住著吧。<hex:02100103>反正也不用再擔驚受怕了，<hex:02100103>住這裡沒什麼不好的。
-11,TEXT_REGGYR3RADIATA_00400_LEAPINGDOE_000_020,這裡是為帝國白山堡、御制監望塔<hex:02100103>兩處帝國軍據點幹活的人居住的村子。<hex:02100103>你把它當成是帝國的奴隸們居住的村子就行了。
-12,TEXT_REGGYR3RADIATA_00400_LEAPINGDOE_000_021,輻射村這名字也是帝國那幫人起的。<hex:02100103>從前這裡有著另一個名字，不過現在沒人敢提了。<hex:02100103>因為說了就會被帝國軍抓走。
-13,TEXT_REGGYR3RADIATA_00400_LEAPINGDOE_000_022,這個村裡的人去其他地方時，<hex:02100103>總是會被人唾罵是帝國的走狗。
-14,TEXT_REGGYR3RADIATA_00400_LEAPINGDOE_000_023,但他們也不想想我們還能怎麼做？！<hex:02100103>我們生在這個村子裡，除非拋棄自己的故鄉，<hex:02100103>否則不做帝國的狗還能活命？
-15,TEXT_REGGYR3RADIATA_00400_LEAPINGDOE_000_024,這裡是在帝國白山堡和御制監望塔這兩個帝國軍據點<hex:02100103>幹活的人所居住的村子。<hex:02100103>不過現在已經得到了解放。
-16,TEXT_REGGYR3RADIATA_00400_LEAPINGDOE_000_025,說起來輻射村這個名字還是帝國人起的，<hex:02100103>現在都沒人用從前的名字稱呼這裡了，<hex:02100103>大家都習慣了「輻射村」這個叫法……
-17,TEXT_REGGYR3RADIATA_00400_LEAPINGDOE_000_026,雖然因為帝國撤軍，這裡的人都恢復了自由，<hex:02100103>但選擇立刻搬走的人卻並不很多。<hex:02100103>總之，今後的事就留著慢慢考慮吧。
+0,"TEXT_REGGYR3RADIATA_00400_LEAPINGDOE_000_000","I don't know you. Why have you come to Radiata?"
+1,"TEXT_REGGYR3RADIATA_00400_Q1_000_000","What will you ask?"
+2,"TEXT_REGGYR3RADIATA_00400_A1_000_001","Tell me about yourself."
+3,"TEXT_REGGYR3RADIATA_00400_A1_000_002","What kind of place is this?"
+4,"TEXT_REGGYR3RADIATA_00400_A1_000_003","Nothing."
+5,"TEXT_REGGYR3RADIATA_00400_LEAPINGDOE_000_010","Tell you about myself...? You really are a stranger here, aren't you. Too much talk can get a person killed."
+6,"TEXT_REGGYR3RADIATA_00400_LEAPINGDOE_000_011","My father talked too much once─complained about his job. A “friend” reported him to the authorities, and then the soldiers came to take him away as a “suspected insurgent.” I never saw him again."
+7,"TEXT_REGGYR3RADIATA_00400_LEAPINGDOE_000_012","And then there was my little brother. When a group of patriots heard he was a laborer for the Empire, they strung him up from a tree.<hex:02100103>So, no─you don't talk about yourself around here."
+8,"TEXT_REGGYR3RADIATA_00400_LEAPINGDOE_000_013","There's not much to tell. I'm Leaping Doe─I live here."
+9,"TEXT_REGGYR3RADIATA_00400_LEAPINGDOE_000_014","I could probably pack up and move somewhere else now that the imperials are gone, but I guess I've just been here too long. I've a mind to stay a while anyway, just in case my father ever comes back..."
+10,"TEXT_REGGYR3RADIATA_00400_LEAPINGDOE_000_015","Now that we don't need to live in fear every day, Radiata's not such a bad place to be."
+11,"TEXT_REGGYR3RADIATA_00400_LEAPINGDOE_000_020","Radiata? Well, this village is home to those who labor at Castrum Abania or Specula Imperatoris. Think of it as an imperial slave pen."
+12,"TEXT_REGGYR3RADIATA_00400_LEAPINGDOE_000_021","It certainly wasn't called “Radiata” by the folk who live here. It had a different name once, but you'll not hear anyone say it out loud. That earns you a visit from the correction officers."
+13,"TEXT_REGGYR3RADIATA_00400_LEAPINGDOE_000_022","You tell other villagers you're from Radiata, though, and it'll get you spit on. To everyone else, we're the Empire's “whipped curs.”"
+14,"TEXT_REGGYR3RADIATA_00400_LEAPINGDOE_000_023","We lose either way. If we're to be treated like dogs for where we were born, then we've no choice but to live like one..."
+15,"TEXT_REGGYR3RADIATA_00400_LEAPINGDOE_000_024","This village is home to those who were forced to labor at Castrum Abania or Specula Imperatoris. That's all changed now, of course."
+16,"TEXT_REGGYR3RADIATA_00400_LEAPINGDOE_000_025","The imperials have lost any hold they had here, aside from the name they gave the place. It did have another, once upon a time, but I guess everyone is too used to “Radiata” to bother switching it back."
+17,"TEXT_REGGYR3RADIATA_00400_LEAPINGDOE_000_026","Hells, I don't think even a single person has left the place. Perhaps the idea of freedom hasn't sunk in yet─gotta remember what it's like to stretch your wings before you can fly away."

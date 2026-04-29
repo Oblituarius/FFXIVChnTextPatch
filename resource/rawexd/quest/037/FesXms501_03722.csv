@@ -2,186 +2,186 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_FESXMS501_03722_SEQ_00,※本任務是特定期間內的任務。<hex:02100103><hex:02100103>米·凱特露天劇場的阿姆·加蘭基正在為舉辦星芒節做準備。
-1,TEXT_FESXMS501_03722_SEQ_01,※本任務只有在季節活動開放期間才能接受和進行。<hex:02100103>　季節活動結束後無法進行，敬請注意。<hex:02100103>　詳情請參見官方網站。<hex:02100103><hex:02100103>阿姆·加蘭基告訴冒險者納利蓬克的父親可能與星芒節的音樂會有關。和格里達尼亞神勇隊司令部的皮爾斯談談。
-2,TEXT_FESXMS501_03722_SEQ_02,據皮爾斯所說，拉爾頓夫為了去領正在靜養中的陸行鳥而前往中央林區了。和彎枝牧場的艾爾格談談。
-3,TEXT_FESXMS501_03722_SEQ_03,和艾爾格進行了交談。看來是跟拉爾頓夫錯過了。前往翡翠湖附近的<hex:02280CFF05>EObj<hex:F61EAEDB0103>進行張望。
-4,TEXT_FESXMS501_03722_SEQ_04,拉爾頓夫因為要進行音樂會的練習而沒有時間陪兒子。和米·凱特露天劇場的阿姆·加蘭基談談。
-5,TEXT_FESXMS501_03722_SEQ_05,和阿姆·加蘭基進行了交談。為了讓納利蓬克開心，讓陸行鳥也一同參加音樂會的演出比較好。和神勇隊司令部的拉爾頓夫談談。
-6,TEXT_FESXMS501_03722_SEQ_06,和拉爾頓夫進行了交談。讓陸行鳥也一同參加音樂會的演出後，冒險者也作為指揮家一同加入。和米·凱特露天劇場的阿姆·加蘭基談談。
-7,TEXT_FESXMS501_03722_SEQ_07,和阿姆·加蘭基進行了交談。音樂會的準備工作已完成，通過阿姆·加蘭基了解注意事項。
-8,TEXT_FESXMS501_03722_SEQ_08,
-9,TEXT_FESXMS501_03722_SEQ_09,
-10,TEXT_FESXMS501_03722_SEQ_10,
-11,TEXT_FESXMS501_03722_SEQ_11,
-12,TEXT_FESXMS501_03722_SEQ_12,
-13,TEXT_FESXMS501_03722_SEQ_13,
-14,TEXT_FESXMS501_03722_SEQ_14,
-15,TEXT_FESXMS501_03722_SEQ_15,
-16,TEXT_FESXMS501_03722_SEQ_16,
-17,TEXT_FESXMS501_03722_SEQ_17,
-18,TEXT_FESXMS501_03722_SEQ_18,
-19,TEXT_FESXMS501_03722_SEQ_19,
-20,TEXT_FESXMS501_03722_SEQ_20,
-21,TEXT_FESXMS501_03722_SEQ_21,
-22,TEXT_FESXMS501_03722_SEQ_22,
-23,TEXT_FESXMS501_03722_SEQ_23,
-24,TEXT_FESXMS501_03722_TODO_00,和神勇隊司令部的皮爾斯對話
-25,TEXT_FESXMS501_03722_TODO_01,和彎枝牧場的艾爾格對話
-26,TEXT_FESXMS501_03722_TODO_02,在指定地點張望
-27,TEXT_FESXMS501_03722_TODO_03,和米·凱特露天劇場的阿姆·加蘭基對話
-28,TEXT_FESXMS501_03722_TODO_04,和神勇隊司令部的拉爾頓夫對話
-29,TEXT_FESXMS501_03722_TODO_05,和阿姆·加蘭基對話
-30,TEXT_FESXMS501_03722_TODO_06,
-31,TEXT_FESXMS501_03722_TODO_07,
-32,TEXT_FESXMS501_03722_TODO_08,
-33,TEXT_FESXMS501_03722_TODO_09,
-34,TEXT_FESXMS501_03722_TODO_10,
-35,TEXT_FESXMS501_03722_TODO_11,
-36,TEXT_FESXMS501_03722_TODO_12,
-37,TEXT_FESXMS501_03722_TODO_13,
-38,TEXT_FESXMS501_03722_TODO_14,
-39,TEXT_FESXMS501_03722_TODO_15,
-40,TEXT_FESXMS501_03722_TODO_16,
-41,TEXT_FESXMS501_03722_TODO_17,
-42,TEXT_FESXMS501_03722_TODO_18,
-43,TEXT_FESXMS501_03722_TODO_19,
-44,TEXT_FESXMS501_03722_TODO_20,
-45,TEXT_FESXMS501_03722_TODO_21,
-46,TEXT_FESXMS501_03722_TODO_22,
-47,TEXT_FESXMS501_03722_TODO_23,
-48,TEXT_FESXMS501_03722_AMHGARANJY_000_000,哎呀，你莫非是冒險者？！<hex:02100103>初次見面，我是星芒節執行委員長阿姆·加蘭基。
-49,TEXT_FESXMS501_03722_AMHGARANJY_000_001,呀，冒險者！<hex:02100103>好久不見了。<hex:02100103>我是你以前幫助過的星芒節執行委員長阿姆。
-50,TEXT_FESXMS501_03722_AMHGARANJY_000_002,現在我們正打扮成星神傳說中提到的聖人的追隨者，<hex:02100103>給孩子們分發禮物。<hex:02100103>這也是活動的一個重要環節。
-51,TEXT_FESXMS501_03722_AMHGARANJY_000_003,當然，除此以外我們還準備了音樂會等活動。<hex:02100103>準備還需要花上一些時間，<hex:02100103>如果方便的話，請冒險者也去看看吧！
-52,TEXT_FESXMS501_03722_AMHGARANJY_000_004,我們希望通過音樂會，<hex:02100103>可以讓更多的孩子露出笑容……
-53,TEXT_FESXMS501_03722_FESGIRL_000_005,爸爸，聖人的追隨者給我送禮物了！
-54,TEXT_FESXMS501_03722_FESGIRLSDAD_000_006,真不錯！<hex:02100103>今晚我還準備了豐盛的食物，<hex:02100103>看完音樂會就回家一起享用吧！
-55,TEXT_FESXMS501_03722_FESGIRL_000_007,嗯！
-56,TEXT_FESXMS501_03722_FESBOY_000_008,爸爸，音樂會馬上就要開始了！
-57,TEXT_FESXMS501_03722_FESBOYSDAD_000_009,是啊，聽說上一次的評價非常好。<hex:02100103>可惜爸爸因為工作的原因沒能參加。
-58,TEXT_FESXMS501_03722_FESBOY_000_010,這次能一起去看了呢，真是期待啊！
-59,TEXT_FESXMS501_03722_AMHGARANJY_000_011,你……叫什麼名字？
-60,TEXT_FESXMS501_03722_NALIPPONCQUE_000_012,咦？<hex:02100103>我叫納利蓬克……
-61,TEXT_FESXMS501_03722_AMHGARANJY_000_013,納利蓬克……真是個好名字啊！<hex:02100103>不過你看起來有些不開心啊……<hex:02100103>是不是……得到的禮物不稱心？
-62,TEXT_FESXMS501_03722_NALIPPONCQUE_000_014,才、才沒有呢！<hex:02100103>我非常喜歡陸行鳥，早就想要個陸行鳥布偶了！<hex:02100103>所以真的非常感謝你，追隨者！
-63,TEXT_FESXMS501_03722_NALIPPONCQUE_000_015,只是……好想跟爸爸一起來啊。
-64,TEXT_FESXMS501_03722_AMHGARANJY_000_016,你爸爸怎麼了？
-65,TEXT_FESXMS501_03722_NALIPPONCQUE_000_017,我的爸爸……名叫拉爾頓夫，<hex:02100103>是神勇隊的隊員。
-66,TEXT_FESXMS501_03722_NALIPPONCQUE_000_018,本來約好了一起來看星芒節的……<hex:02100103>但是他突然說什麼警備人手不足，<hex:02100103>最近都沒怎麼回家。
-67,TEXT_FESXMS501_03722_NALIPPONCQUE_000_019,雖然我也知道他工作很忙，但這是難得的節日，<hex:02100103>我果然還是希望可以和家人一起度過……
-68,TEXT_FESXMS501_03722_AMHGARANJY_000_020,你爸爸是神勇隊的……難道說……
-69,TEXT_FESXMS501_03722_AMHGARANJY_000_021,納利蓬克，聖歌隊的音樂會馬上就要開始了，<hex:02100103>可以的話就去看看吧！
-70,TEXT_FESXMS501_03722_NALIPPONCQUE_000_022,可是一個人去看也沒什麼意思啊。<hex:02100103>我對唱歌又沒什麼興趣……
-71,TEXT_FESXMS501_03722_AMHGARANJY_000_023,不能跟家人一起享受節日，<hex:02100103>獨自留在熱鬧的氛圍當中，只會更加難過吧……<hex:02100103>真希望能夠讓那孩子重拾笑容啊。
-72,TEXT_FESXMS501_03722_AMHGARANJY_000_024,其實有一件事讓我非常在意。<hex:02100103>那孩子說他的爸爸是神勇隊隊員是吧？
-73,TEXT_FESXMS501_03722_AMHGARANJY_000_025,其實這次的音樂會是有神勇隊參加的。<hex:02100103>說不定拉爾頓夫忙碌的理由也是……
-74,TEXT_FESXMS501_03722_AMHGARANJY_000_026,冒險者，不好意思，<hex:02100103>你願意幫忙讓納利蓬克重拾笑容嗎？
-75,TEXT_FESXMS501_03722_AMHGARANJY_000_027,非常感謝！<hex:02100103>音樂會方面由皮爾斯負責接待，<hex:02100103>請前往神勇隊司令部找他了解詳情吧！
-76,TEXT_FESXMS501_03722_AMHGARANJY_000_028,冒險者，拜託了。<hex:02100103>請前往神勇隊司令部去見皮爾斯。<hex:02100103>有關音樂會的事情可以找他了解詳情。
-77,TEXT_FESXMS501_03722_PIERS_000_030,嗯？找我有事？
-78,TEXT_FESXMS501_03722_PIERS_000_031,你問我隊員拉爾頓夫的工作情況？<hex:02100103>不論星芒節期間有多麼需要人手，<hex:02100103>也不至於忙到連跟家人一起度過的時間都沒有吧……
-79,TEXT_FESXMS501_03722_PIERS_000_032,……不對，等等！<hex:02100103>難道是因為那個？
-80,TEXT_FESXMS501_03722_PIERS_000_033,我從頭說明一下吧。<hex:02100103>星芒節起源於伊修加德近衛兵們的善行，<hex:02100103>由此誕生了這一節日。
-81,TEXT_FESXMS501_03722_PIERS_000_034,受其影響，我們也積極與弓箭手公會合作，<hex:02100103>出席音樂會為孩子們一展歌喉。
-82,TEXT_FESXMS501_03722_PIERS_000_035,其實你問到的拉爾頓夫也是登上舞台的成員之一。<hex:02100103>不過這件事在正式演出開始前你要對孩子們保密啊！
-83,TEXT_FESXMS501_03722_PIERS_000_036,他可是著名歌手，<hex:02100103>對音樂會有著極高的熱情。
-84,TEXT_FESXMS501_03722_PIERS_000_037,恐怕他是跟孩子謊稱自己在忙於警備工作，<hex:02100103>其實是在暗中偷偷地練習唱歌吧。
-85,TEXT_FESXMS501_03722_PIERS_000_038,對了，演出馬上就要開始了。<hex:02100103>你如果擔心的話就直接去見他，然後轉達一下納利蓬克的情況吧。
-86,TEXT_FESXMS501_03722_PIERS_000_039,拉爾頓夫應該在中央林區裡。<hex:02100103>為了去領最近因身體不適正在療養的陸行鳥<hex:02100103>而前往了彎枝牧場。
-87,TEXT_FESXMS501_03722_PIERS_000_040,你有可能會錯過他。<hex:02100103>如果沒有在牧場中看到他的話，<hex:02100103>就去找衛兵艾爾格打聽一下吧。
-88,TEXT_FESXMS501_03722_PIERS_000_045,拉爾頓夫前往中央林區的彎枝牧場了。<hex:02100103>如果錯過了他的話，去找艾爾格打聽一下，<hex:02100103>應該就能知道他的位置了。
-89,TEXT_FESXMS501_03722_EYLGAR_000_050,是在找神勇隊的拉爾頓夫嗎？<hex:02100103>就在不久前他已經領完陸行鳥回去了。<hex:02100103>如果還沒回到城裡的話，那可能是繞了彎路。
-90,TEXT_FESXMS501_03722_EYLGAR_000_051,那隻陸行鳥樣子實在是有些奇怪。<hex:02100103>明明沒有受傷也沒有得病，卻一直叫個不停，<hex:02100103>在那裡大吵大鬧，不得消停。
-91,TEXT_FESXMS501_03722_EYLGAR_000_052,於是拉爾頓夫表示原因可能在於精神壓力，<hex:02100103>為了讓它放鬆一下，於是提出了要帶它去散步。
-92,TEXT_FESXMS501_03722_EYLGAR_000_053,此刻如果在前往格里達尼亞的路上的話……我想想，<hex:02100103>應該是沿著河邊往北的翡翠湖附近。<hex:02100103>可以試著從橋上望過去。
-93,TEXT_FESXMS501_03722_EYLGAR_000_055,此刻如果在前往格里達尼亞的路上的話……我想想，<hex:02100103>應該是沿著河邊往北的翡翠湖附近。<hex:02100103>可以試著從橋上望過去。
-94,TEXT_FESXMS501_03722_SYSTEM_000_060,雖然在附近沒有看到拉爾頓夫的身影，<hex:02100103>不過卻能夠聽到歌聲……
-95,TEXT_FESXMS501_03722_LARTONPHE_000_070,啦～啦啦～
-96,TEXT_FESXMS501_03722_CHOCOBO_000_071,咕哎！
-97,TEXT_FESXMS501_03722_LARTONPHE_000_072,啦啦嚕～啦啦～
-98,TEXT_FESXMS501_03722_CHOCOBO_000_073,咕哎咕哎！
-99,TEXT_FESXMS501_03722_LARTONPHE_000_074,呵呵，節奏不錯。<hex:02100103>你果然有音樂的才能啊！
-100,TEXT_FESXMS501_03722_CHOCOBO_000_075,咕哎！
-101,TEXT_FESXMS501_03722_LARTONPHE_000_076,哎呀！你是？
-102,TEXT_FESXMS501_03722_LARTONPHE_000_077,是嗎……納利蓬克居然做了這樣的事……<hex:02100103>如你所見，我最近一直忙著為音樂會進行練習，<hex:02100103>都沒怎麼見過兒子。
-103,TEXT_FESXMS501_03722_LARTONPHE_000_078,原本想著讓孩子們露出笑容才這麼努力，<hex:02100103>但那只是大人任性的借口……
-104,TEXT_FESXMS501_03722_LARTONPHE_100_078,雖說是想讓星芒節圓滿成功，<hex:02100103>但也不能讓兒子感到孤獨啊……
-105,TEXT_FESXMS501_03722_CHOCOBO_000_079,咕哎……
-106,TEXT_FESXMS501_03722_LARTONPHE_000_080,啊，你注意到了啊？<hex:02100103>我是帶它回格里達尼亞的路上<hex:02100103>稍微繞了點遠路一起散步來著……
-107,TEXT_FESXMS501_03722_LARTONPHE_000_081,本來我就是練習唱唱歌，<hex:02100103>沒想到這傢伙居然配合著節奏跳了起來！
-108,TEXT_FESXMS501_03722_LARTONPHE_000_082,然後謎題終於解開了。<hex:02100103>這傢伙並不是在胡鬧，<hex:02100103>它只是很期待音樂會罷了！
-109,TEXT_FESXMS501_03722_CHOCOBO_000_083,咕哎。
-110,TEXT_FESXMS501_03722_LARTONPHE_000_084,肯定是在看到我們為了音樂會的演出<hex:02100103>而努力練習的時候就喜歡上了。<hex:02100103>隨著星芒節的氛圍越來越濃，它也是越來越興奮。
-111,TEXT_FESXMS501_03722_Q2_000_000,要說什麼？
-112,TEXT_FESXMS501_03722_A2_000_001,對節日很是期待！
-113,TEXT_FESXMS501_03722_A2_000_002,只是巧合吧……
-114,TEXT_FESXMS501_03722_LARTONPHE_000_085,不過，沒想到陸行鳥<hex:02100103>居然會喜歡我的歌聲。
-115,TEXT_FESXMS501_03722_LARTONPHE_000_086,真希望兒子聽到我的歌聲也能這麼開心……<hex:02100103>比起詩與歌，那孩子還處在更喜歡陸行鳥的年齡。<hex:02100103>應該還不知道我很會唱歌吧……
-116,TEXT_FESXMS501_03722_LARTONPHE_100_086,……糟了！<hex:02100103>我忽略了一件非常重要的事！<hex:02100103>兒子也有可能不來看音樂會啊……
-117,TEXT_FESXMS501_03722_LARTONPHE_110_086,如果這樣的話，直到星芒節結束，<hex:02100103>他都會感到很孤獨吧……
-118,TEXT_FESXMS501_03722_CHOCOBO_000_087,咕哎！
-119,TEXT_FESXMS501_03722_LARTONPHE_000_088,誒？叫我不要這麼消極？<hex:02100103>……哈哈，你說得沒錯。<hex:02100103>如果想要讓孩子們露出笑容，自己怎麼可以苦著臉呢！
-120,TEXT_FESXMS501_03722_LARTONPHE_000_089,啊！得趕緊回到城裡了！<hex:02100103>真是抱歉，我可以委託你一件事嗎？
-121,TEXT_FESXMS501_03722_LARTONPHE_000_090,我希望你可以把情況告訴為我兒子擔心的執行委員，<hex:02100103>並邀請我兒子參加音樂會。
-122,TEXT_FESXMS501_03722_LARTONPHE_000_091,非常感謝！<hex:02100103>那我就先回隊舍了。
-123,TEXT_FESXMS501_03722_PIERS_000_095,見到拉爾頓夫了嗎？<hex:02100103>演出臨近，連我們都緊張起來了！
-124,TEXT_FESXMS501_03722_AMHGARANJY_000_100,啊，冒險者！<hex:02100103>關於納利蓬克的父親有得到什麼消息嗎？
-125,TEXT_FESXMS501_03722_AMHGARANJY_000_101,果然原因在於音樂會啊。<hex:02100103>為了練習給孩子們準備的合唱，<hex:02100103>反倒犧牲了陪伴家人的時間……
-126,TEXT_FESXMS501_03722_AMHGARANJY_000_102,瞞了這麼久，真希望當納利蓬克看到爸爸站到舞台上時，<hex:02100103>能露出開心的笑容啊……<hex:02100103>但他似乎對音樂會沒什麼興趣對吧？
-127,TEXT_FESXMS501_03722_Q1_000_000,如何作答？
-128,TEXT_FESXMS501_03722_A1_000_001,似乎對唱歌沒什麼興趣
-129,TEXT_FESXMS501_03722_A1_000_002,比起唱歌他更沉迷於陸行鳥！
-130,TEXT_FESXMS501_03722_AMHGARANJY_000_103,冒險者也是這樣認為的嗎？<hex:02100103>說到納利蓬克感興趣的東西……
-131,TEXT_FESXMS501_03722_AMHGARANJY_000_104,是啊，那個陸行鳥布偶就讓他開心了很久。<hex:02100103>如果不是音樂會，而是陸行鳥的遊行之類的話，<hex:02100103>納利蓬克肯定會很喜歡吧……
-132,TEXT_FESXMS501_03722_AMHGARANJY_000_105,你說有一隻陸行鳥配合著他爸爸的歌聲跳了起來？<hex:02100103>這真是太棒了！
-133,TEXT_FESXMS501_03722_AMHGARANJY_000_106,如果最喜歡的爸爸和陸行鳥同台演出的話，<hex:02100103>那納利蓬克毫無疑問也會喜笑顏開的。<hex:02100103>這樣就可以好好享受音樂會了吧！
-134,TEXT_FESXMS501_03722_AMHGARANJY_000_107,我去跟納利蓬克說一聲，<hex:02100103>冒險者，麻煩你就去找他爸爸商量一下，<hex:02100103>看能不能讓陸行鳥也一起登台演出呢？
-135,TEXT_FESXMS501_03722_AMHGARANJY_000_110,我去跟納利蓬克說一聲，<hex:02100103>冒險者，麻煩你就去找他爸爸商量一下，<hex:02100103>看能不能讓陸行鳥也一起登台演出呢？
-136,TEXT_FESXMS501_03722_LARTONPHE_100_120,啊！好不安……
-137,TEXT_FESXMS501_03722_LARTONPHE_000_120,啊！對不起。<hex:02100103>已經到了正式演出的時間了吧。<hex:02100103>我因為太在意兒子的事情，有些神經質了……
-138,TEXT_FESXMS501_03722_LARTONPHE_000_121,以保護城市為由不進家門，<hex:02100103>成天就知道悠閒地唱歌，<hex:02100103>不知道那孩子見到這樣的父親會怎麼想……
-139,TEXT_FESXMS501_03722_LEWIN_000_122,(-？？？？-)怎麼這麼沒有底氣！<hex:02100103>你這樣也算是光榮神勇隊的一員嗎？
-140,TEXT_FESXMS501_03722_LARTONPHE_000_123,盧因隊長！<hex:02100103>不、這個、那個……
-141,TEXT_FESXMS501_03722_LEWIN_000_124,神勇隊的使命是什麼？<hex:02100103>你說說看！
-142,TEXT_FESXMS501_03722_LARTONPHE_000_125,那、那當然是遵從元靈的引導保護森林不受外敵侵害，<hex:02100103>確保市民的安全！
-143,TEXT_FESXMS501_03722_LEWIN_000_126,哼！真是個死腦筋。<hex:02100103>……就不能想成是<hex:02100103>「守護森林的和平，為市民帶去笑容」嗎？
-144,TEXT_FESXMS501_03722_LARTONPHE_000_127,這是什麼意思？
-145,TEXT_FESXMS501_03722_MIAHMOLKOT_000_128,就是說！<hex:02100103>為孩子們帶去笑容，也是在守護城市的和平喵……<hex:02100103>咳咳……守護城市的和平啊！
-146,TEXT_FESXMS501_03722_MIAHMOLKOT_000_129,將繼承的意志傳情給……<hex:02100103>咳咳……傳承給下一代是很重要的！<hex:02100103>森林的未來就維繫在我們的心中喵！
-147,TEXT_FESXMS501_03722_LUCIANE_000_130,看到你，我就想起了曾身為神勇隊師團長的我的父親。
-148,TEXT_FESXMS501_03722_LUCIANE_000_131,我非常憧憬父親拚命工作的樣子。<hex:02100103>雖然最終還是選擇了跟父親不同的道路，<hex:02100103>那也是因為我明白了守護和平的道路不止一條。
-149,TEXT_FESXMS501_03722_LARTONPHE_000_132,連白羊師團的密亞·莫爾柯特師團長<hex:02100103>和弓箭手公會的呂西安娜大人都來了……
-150,TEXT_FESXMS501_03722_LEWIN_000_133,我沒有孩子……<hex:02100103>因此看到為孩子的事情煩惱的你，我很羨慕。
-151,TEXT_FESXMS501_03722_LEWIN_000_134,如果能看到這樣的父子一起露出笑容的話，<hex:02100103>想必一定會更開心。
-152,TEXT_FESXMS501_03722_LEWIN_000_135,在這次的音樂會上，你就努力讓你的孩子重拾笑容吧。<hex:02100103>我們也會全力支持你的。
-153,TEXT_FESXMS501_03722_LARTONPHE_000_136,隊長……
-154,TEXT_FESXMS501_03722_CHOCOBO_000_137,咕哎、咕哎！
-155,TEXT_FESXMS501_03722_LARTONPHE_000_138,啊，抱歉，我又苦著臉了吧？<hex:02100103>總是讓你來激勵我。
-156,TEXT_FESXMS501_03722_LARTONPHE_100_138,對了，冒險者，<hex:02100103>你是不是有什麼提議啊？
-157,TEXT_FESXMS501_03722_LARTONPHE_000_139,什麼？讓這隻陸行鳥也一起參加音樂會？！<hex:02100103>我的兒子的確非常喜歡陸行鳥，<hex:02100103>甚至還吵著想要陸行鳥的布偶……
-158,TEXT_FESXMS501_03722_MIAHMOLKOT_000_140,有什麼不好喵！<hex:02100103>跟陸行鳥一起唱歌的父親什喵的，<hex:02100103>真是太喵了……咳咳。
-159,TEXT_FESXMS501_03722_MIAHMOLKOT_000_141,真是太妙了喵……咦咦，<hex:02100103>怎麼老是發「喵」的音啊喵……
-160,TEXT_FESXMS501_03722_LUCIANE_000_142,我也贊成。<hex:02100103>而且這孩子是神勇隊的陸行鳥吧？<hex:02100103>那就有足夠的資格一起參加了。
-161,TEXT_FESXMS501_03722_LEWIN_000_143,那就這麼定了。<hex:02100103>你不會有什麼意見吧？
-162,TEXT_FESXMS501_03722_LARTONPHE_000_144,當、當然沒有！
-163,TEXT_FESXMS501_03722_LARTONPHE_000_145,你願意幫我嗎？
-164,TEXT_FESXMS501_03722_CHOCOBO_000_146,咕哎！
-165,TEXT_FESXMS501_03722_LARTONPHE_000_147,是嗎……<hex:02100103>居然願意幫助這麼沒用的我……真是抱歉！
-166,TEXT_FESXMS501_03722_CHOCOBO_000_148,咕哎！
-167,TEXT_FESXMS501_03722_LARTONPHE_000_149,哼，是啊。<hex:02100103>不能苦著個臉！
-168,TEXT_FESXMS501_03722_LARTONPHE_000_150,那個，我想拜託冒險者一件事……<hex:02100103>你願意當我們合唱的指揮嗎？
-169,TEXT_FESXMS501_03722_LARTONPHE_000_151,就算這傢伙再怎麼喜歡音樂，<hex:02100103>也不是經過合唱訓練的專業陸行鳥。<hex:02100103>而且我們也沒有跟陸行鳥一起唱歌的經驗。
-170,TEXT_FESXMS501_03722_LARTONPHE_000_152,這傢伙看起來似乎很中意你……<hex:02100103>只要有了你的指揮，相信它就可以跟上節奏，<hex:02100103>跳出完美的舞蹈了。
-171,TEXT_FESXMS501_03722_CHOCOBO_000_154,咕哎。
-172,TEXT_FESXMS501_03722_LARTONPHE_000_155,呵呵，這傢伙也是這麼說的。<hex:02100103>你意下如何？
-173,TEXT_FESXMS501_03722_Q3_000_000,如何作答？
-174,TEXT_FESXMS501_03722_A3_000_001,既然要做就要做到完美！
-175,TEXT_FESXMS501_03722_A3_000_002,失敗也沒關係，好好享受吧！
-176,TEXT_FESXMS501_03722_LARTONPHE_000_156,謝謝！<hex:02100103>那我們就前往米·凱特露天劇場吧！
-177,TEXT_FESXMS501_03722_LEWIN_000_160,哼，我參加合唱就這麼讓人意外嗎？<hex:02100103>神勇隊的使命可不僅在於討伐森林的敵人。<hex:02100103>就讓我們用心來為孩子們帶去笑容吧！
-178,TEXT_FESXMS501_03722_LUCIANE_000_161,弓箭手公會與神勇隊關係匪淺……<hex:02100103>此次合唱也是展現兩者關係的好機會。
-179,TEXT_FESXMS501_03722_MIAHMOLKOT_000_162,參加星芒節的音樂會可是機密任務喵。<hex:02100103>就好好期待我這能讓哭泣的孩子收聲的美妙歌聲吧！
-180,TEXT_FESXMS501_03722_AMHGARANJY_000_170,拉爾頓夫跟陸行鳥一起來了哦！<hex:02100103>也已經把納利蓬克邀請來了，<hex:02100103>隨時可以開始正式演出！
-181,TEXT_FESXMS501_03722_AMHGARANJY_000_171,咦？冒險者負責合唱的指揮？<hex:02100103>總是承蒙你的照顧……<hex:02100103>真的是太感謝了！
-182,TEXT_FESXMS501_03722_AMHGARANJY_000_172,那麼，等你準備好了就請說一聲。<hex:02100103>我隨時恭候！
+0,"TEXT_FESXMS501_03722_SEQ_00","Amh Garanjy is looking for someone to be her little helper this Starlight season.<hex:02100103>※This quest is available for a limited time only."
+1,"TEXT_FESXMS501_03722_SEQ_01","The celebrant Amh Garanjy wishes you a happy Starlight amidst a cheerful scene of families rejoicing amidst delightful decorations. There is, however, one child who is not feeling particularly festive: a boy by the name of Nalipponcque, who finds himself alone this eve despite a promise from his father─a bowman of the Gods' Quiver─that they would celebrate the holiday together. After the boy dejectedly wanders away, the celebrant muses that perhaps there is a way to return the smile to his face. To that end, she would have you visit one Piers at Quiver's Hold, that you might inquire as to the whereabouts of his colleague, the boy's father."
+2,"TEXT_FESXMS501_03722_SEQ_02","You arrive at Quiver's Hold and explain the situation to Bowman Piers, who relates to you the circumstances by which his fellow quivermen have been recruited to perform in this year's Starlight concert. He explains that Lartonphe, in particular, is an accomplished vocalist who will be one of the stars of the show. The bowman surmises that his colleague has been sneaking off in secret from his son to rehearse for his performance, and encourages you to seek him out and share with him his son's concerns. At Piers's suggestion, you decide to make for Bentbranch Meadows, where the crooning quiverman means to reunite with his loyal chocobo."
+3,"TEXT_FESXMS501_03722_SEQ_03","You arrive at Bentbranch Meadows, where Eylgar the stablehand informs you that Lartonphe departed just a few bells ago. He also mentions that he suggested that the quiverman take his chocobo companion for a walk by the gentle waters of the Jadeite Flood, in hopes of calming the bird's troubled heart. You resolve to venture that way yourself, and survey the surroundings to see if you cannot spot your quarry."
+4,"TEXT_FESXMS501_03722_SEQ_04","At the Jadeite Flood, you are greeted by the sound of singing and chirping in the distance. Following your ear, you come upon Lartonphe and his feathered friend, who are practicing their singing on the shores of the Flood. As the quiverman tells it, the bird was not suffering from an ailment as he feared, but simply was stimulated by his voice, and anxious to join him in song and dance. He laments his own failures in causing his son grief during Starlight season, and resolves to make amends somehow. Man and chocobo then depart to prepare for the performance, but not before Lartonphe beseeches you to return to Amh Garanjy, and ask the celebrant to see to it that his son attends the concert."
+5,"TEXT_FESXMS501_03722_SEQ_05","You return to Amh Garanjy and relate the details of your encounter with Lartonphe. She initially struggles to come up with a way to convince Nalipponcque to attend the festivities, until you volunteer the story of a certain singing and dancing chocobo. Convinced that nothing would make for a better Starlight gift to the boy than seeing his favorite bird take the stage with his father, the celebrant encourages you to return to Quiver's Hold and earnestly entreat the quiverman, while she sees to it that the boy does not wander off before the main event."
+6,"TEXT_FESXMS501_03722_SEQ_06","You arrive at Quiver's Hold to find the ever-serious Lartonphe in the throes of a dilemma most dire. Though he wants nothing more than to give his boy a joyous memory for Starlight, he fears that by his deception he has already alienated the poor child beyond repair. Just when the poor man seems to have lost all hope, the two of you are joined by a most illustrious trio: Miah Molkot of the White Rams, Guildmaster Luciane, and Bowlord Lewin himself. They remind the querulous quiverman of his sworn duty to keep the Twelveswood at peace, and gently point out that going forward with his Starlight performance as promised is a vital part of this. The three illustrious archers offer to cooperate in whatever way they can, after which you provide the final spark of motivation he needs with your inspired proposal that he bring his chocobo companion on stage─a suggestion to which both man and bird eagerly agree. The matter settled to everyone's satisfaction, you set off for Mih Khetto's Amphitheatre to report the triumphant news to Amh Garanjy."
+7,"TEXT_FESXMS501_03722_SEQ_07","You return to town and speak with Amh Garanjy, who is delighted to hear that your efforts on her behalf have been a resounding success. Assuring you that all the preparations to begin the Starlight concert have been completed, she invites you to speak with her again whenever you are ready to raise the curtain on what is certain to be a performance to remember."
+8,"TEXT_FESXMS501_03722_SEQ_08",""
+9,"TEXT_FESXMS501_03722_SEQ_09",""
+10,"TEXT_FESXMS501_03722_SEQ_10",""
+11,"TEXT_FESXMS501_03722_SEQ_11",""
+12,"TEXT_FESXMS501_03722_SEQ_12",""
+13,"TEXT_FESXMS501_03722_SEQ_13",""
+14,"TEXT_FESXMS501_03722_SEQ_14",""
+15,"TEXT_FESXMS501_03722_SEQ_15",""
+16,"TEXT_FESXMS501_03722_SEQ_16",""
+17,"TEXT_FESXMS501_03722_SEQ_17",""
+18,"TEXT_FESXMS501_03722_SEQ_18",""
+19,"TEXT_FESXMS501_03722_SEQ_19",""
+20,"TEXT_FESXMS501_03722_SEQ_20",""
+21,"TEXT_FESXMS501_03722_SEQ_21",""
+22,"TEXT_FESXMS501_03722_SEQ_22",""
+23,"TEXT_FESXMS501_03722_SEQ_23",""
+24,"TEXT_FESXMS501_03722_TODO_00","Speak with Piers at Quiver's Hold."
+25,"TEXT_FESXMS501_03722_TODO_01","Speak with Eylgar at Bentbranch Meadows."
+26,"TEXT_FESXMS501_03722_TODO_02","Keep lookout for Lartonphe at the designated location."
+27,"TEXT_FESXMS501_03722_TODO_03","Speak with Amh Garanjy at Mih Khetto's Amphitheatre."
+28,"TEXT_FESXMS501_03722_TODO_04","Speak with Lartonphe at Quiver's Hold."
+29,"TEXT_FESXMS501_03722_TODO_05","Speak with Amh Garanjy."
+30,"TEXT_FESXMS501_03722_TODO_06",""
+31,"TEXT_FESXMS501_03722_TODO_07",""
+32,"TEXT_FESXMS501_03722_TODO_08",""
+33,"TEXT_FESXMS501_03722_TODO_09",""
+34,"TEXT_FESXMS501_03722_TODO_10",""
+35,"TEXT_FESXMS501_03722_TODO_11",""
+36,"TEXT_FESXMS501_03722_TODO_12",""
+37,"TEXT_FESXMS501_03722_TODO_13",""
+38,"TEXT_FESXMS501_03722_TODO_14",""
+39,"TEXT_FESXMS501_03722_TODO_15",""
+40,"TEXT_FESXMS501_03722_TODO_16",""
+41,"TEXT_FESXMS501_03722_TODO_17",""
+42,"TEXT_FESXMS501_03722_TODO_18",""
+43,"TEXT_FESXMS501_03722_TODO_19",""
+44,"TEXT_FESXMS501_03722_TODO_20",""
+45,"TEXT_FESXMS501_03722_TODO_21",""
+46,"TEXT_FESXMS501_03722_TODO_22",""
+47,"TEXT_FESXMS501_03722_TODO_23",""
+48,"TEXT_FESXMS501_03722_AMHGARANJY_000_000","Well, what have we here? An adventurer, I presume? Why, it's a Starlight miracle─you simply could not have arrived at a better time! Oh, but where are my manners? My name is Amh Garanjy, and I have the pleasure of serving as celebrant for this year's festivities."
+49,"TEXT_FESXMS501_03722_AMHGARANJY_000_001","Well, what have we here? If it isn't my favorite adventurer! Why, it's a Starlight miracle─you simply could not have arrived at a better time! As you may recall from our past meeting, I am Amh Garanjy, and I have the pleasure of serving as celebrant once again for this year's festivities."
+50,"TEXT_FESXMS501_03722_AMHGARANJY_000_002","As you can see, the celebration is in full swing, and I and my colleagues have once again transformed ourselves into the saint's little helpers to dole out gifts galore to the children of our fair realm."
+51,"TEXT_FESXMS501_03722_AMHGARANJY_000_003","Needless to say, there is more to Starlight season than presents and pretty ornaments. This year, we've once again decided to stage a musical performance. We will be ready to raise the curtain in a short while, and would be more than honored to have you in the audience!"
+52,"TEXT_FESXMS501_03722_AMHGARANJY_000_004","It is our fervent wish that the gift of song, too, serves to warm the hearts and brighten the faces of each and every young boy and girl in town."
+53,"TEXT_FESXMS501_03722_FESGIRL_000_005","Father! Oh Father, look! One of the saint's little helpers brought me a present!"
+54,"TEXT_FESXMS501_03722_FESGIRLSDAD_000_006","Oho! Now, isn't that a splendid thing! And do you know what else? Mother and I have prepared a great feast for the family tonight! Let us head home as soon as the concert is over."
+55,"TEXT_FESXMS501_03722_FESGIRL_000_007","Will there be eel pie? You know I love an eel pie!"
+56,"TEXT_FESXMS501_03722_FESBOY_000_008","Look! The show is about to begin!"
+57,"TEXT_FESXMS501_03722_FESBOYSDAD_000_009","That it is, son. Word is that it's going to be even grander than last year's performance."
+58,"TEXT_FESXMS501_03722_FESBOY_000_010","And because you don't have to work at the markets this year, we can see it together! It's a Starlight miracle!"
+59,"TEXT_FESXMS501_03722_AMHGARANJY_000_011","Happy Starlight to you, child. Might I ask your name?"
+60,"TEXT_FESXMS501_03722_NALIPPONCQUE_000_012","Huh? I...I'm Nalipponcque. What's it to you?"
+61,"TEXT_FESXMS501_03722_AMHGARANJY_000_013","Why, what a lovely name! You can call me Amh. Pray tell, why the long face? Was your present not what you hoped it would be?"
+62,"TEXT_FESXMS501_03722_NALIPPONCQUE_000_014","N-No, that's not it at all. I love the stuffed chocobo the little helper gave me. T-Truly...I thank you for your kindness."
+63,"TEXT_FESXMS501_03722_NALIPPONCQUE_000_015","It's just that...you see, I really wish Father could be here."
+64,"TEXT_FESXMS501_03722_AMHGARANJY_000_016","...I see. Do tell me more."
+65,"TEXT_FESXMS501_03722_NALIPPONCQUE_000_017","Father serves in the Gods' Quiver. His name is Lartonphe. Perhaps you know of him?"
+66,"TEXT_FESXMS501_03722_NALIPPONCQUE_000_018","Anyhow, he promised me a fortnight ago that this year─for certain!─we'd go to the festivities together. But then he was assigned to emergency duty. Ever since then, he scarcely comes home at night."
+67,"TEXT_FESXMS501_03722_NALIPPONCQUE_000_019","I know that these are dangerous times, and Father's task is an important one. But is it too much to ask that he could at least celebrate Starlight with his family?"
+68,"TEXT_FESXMS501_03722_AMHGARANJY_000_020","With the Gods' Quiver, you say? It couldn't be..."
+69,"TEXT_FESXMS501_03722_AMHGARANJY_000_021","Say, Nalipponcque... I have an idea. The concert will begin shortly. Why don't we watch it together?"
+70,"TEXT_FESXMS501_03722_NALIPPONCQUE_000_022","Thank you, but I'd rather not. It wouldn't be any fun without Father, and besides...I don't care much for song and dance, anyway. Good evening to you."
+71,"TEXT_FESXMS501_03722_AMHGARANJY_000_023","The poor child... As if it weren't hard enough being alone during Starlight season, it must be even more painful to be surrounded by happy families rejoicing together. If only there were something we could do to return the smile to his face."
+72,"TEXT_FESXMS501_03722_AMHGARANJY_000_024","...To tell the truth, I just had an idea. The boy said that his father is a bowman of the Gods' Quiver, did he not?"
+73,"TEXT_FESXMS501_03722_AMHGARANJY_000_025","As a matter of fact, a contingent from the Quiver has been enlisted to perform in our concert. It may merely be a coincidence, but I cannot help but wonder if <hex:021A020203>this<hex:021A020103> is the true reason Lartonphe is occupied of late."
+74,"TEXT_FESXMS501_03722_AMHGARANJY_000_026","And so I ask of you, adventurer: would you be so kind as to lend your talents to help me chase the shadows from a boy's troubled heart?"
+75,"TEXT_FESXMS501_03722_AMHGARANJY_000_027","Thank you, my friend! The spirit of the saint truly does live on within you! A bowman by the name of Piers has been our main contact at Quiver's Hold. If there is anyone who could shed some light on the matter, it would be him."
+76,"TEXT_FESXMS501_03722_AMHGARANJY_000_028","Have you spoken with Piers at Quiver's Hold? I beg of you, friend, pray help us track down Lartonphe, that we might put a smile on poor young Nalipponcque's face!"
+77,"TEXT_FESXMS501_03722_PIERS_000_030","I'm Piers, all right. Is there something you need?"
+78,"TEXT_FESXMS501_03722_PIERS_000_031","Lartonphe's boy is looking for him, you say? That's odd. It's true that our bowmen have had their hands full ensuring the city was safe and secure for Starlight season, but it's hardly so onerous a task as to keep them away from seeing their families entirely."
+79,"TEXT_FESXMS501_03722_PIERS_000_032","That is, of course, unless...yes, that must be it."
+80,"TEXT_FESXMS501_03722_PIERS_000_033","Allow me to explain. As you may know, the Starlight Celebration can trace its origins back to ancient Ishgard. Indeed, many of the choral tunes sung during the celebration to this day were passed down to us by their Temple Knights."
+81,"TEXT_FESXMS501_03722_PIERS_000_034","To honor the tradition, we of the Gods' Quiver decided to join together with the Archers' Guild to take part in this year's Starlight concert, that we might lift the hearts of the children with song, just as our Ishgardian counterparts have done throughout the ages."
+82,"TEXT_FESXMS501_03722_PIERS_000_035","Now that you mention it, Lartonphe is one of those who will be taking to the stage for the main performance. No doubt he intends to keep this a secret until the curtain rises."
+83,"TEXT_FESXMS501_03722_PIERS_000_036","His mellifluous voice truly is a marvel to behold. Why, some would say he's the most talented tenor in all of Gridania."
+84,"TEXT_FESXMS501_03722_PIERS_000_037","...And his devotion to his craft is second to none. I would not be surprised if he gave the child some excuse about guard duty in order to sneak off and spend extra time rehearsing."
+85,"TEXT_FESXMS501_03722_PIERS_000_038","The performance is almost nigh, yes? If you and your colleagues are concerned, I suggest you seek Lartonphe out and inform him of his boy's plight."
+86,"TEXT_FESXMS501_03722_PIERS_000_039","Last I heard, he was headed to Bentbranch Meadows to reunite with his loyal chocobo, who was taken there for treatment after behaving erratically of late."
+87,"TEXT_FESXMS501_03722_PIERS_000_040","On the off chance that he's already moved on, just speak with Eylgar at the stables. He's like as not to know where Lartonphe went next."
+88,"TEXT_FESXMS501_03722_PIERS_000_045","Lartonphe is a passionate man in all that he does, but if there's two things he's more devoted to than anything, it's music and his feathered friend."
+89,"TEXT_FESXMS501_03722_EYLGAR_000_050","A quiverman by the name of Lartonphe, you say? Indeed, he left a few bells ago with his feathered friend in tow. If he hasn't returned to his post yet, I'd imagine they must have stopped off somewhere along the way."
+90,"TEXT_FESXMS501_03722_EYLGAR_000_051","The poor bird... She's not suffering from any physical ailment as far as I could see, and yet she's constantly crying out, champing at the bit, and stomping her feet."
+91,"TEXT_FESXMS501_03722_EYLGAR_000_052","I suggested to Lartonphe that perhaps the strain of recent battles is still weighing on her mind─happens to the birds just as it happens to us, you know─and that a leisurely walk through the woods might do them both some good."
+92,"TEXT_FESXMS501_03722_EYLGAR_000_053","Come to think of it, I remember him saying something about swinging by the Jadeite Flood on the way home. Mayhap you'd be able to find him there?"
+93,"TEXT_FESXMS501_03722_EYLGAR_000_055","I can only hope that the soothing sights and sounds of the Jadeite Flood have helped to put that poor bird's heart at ease..."
+94,"TEXT_FESXMS501_03722_SYSTEM_000_060","You look out far and wide, but find no sign of Lartonphe or his bird. Just as you are about to abandon hope, you make out a voice singing in the distance..."
+95,"TEXT_FESXMS501_03722_LARTONPHE_000_070","Ahem! Faaaaaa～lalalala!♪"
+96,"TEXT_FESXMS501_03722_CHOCOBO_000_071","Kweh! Kweh!♪"
+97,"TEXT_FESXMS501_03722_LARTONPHE_000_072","Troooooo～lolololo!♪"
+98,"TEXT_FESXMS501_03722_CHOCOBO_000_073","Kweh, kweh, kweh!♪"
+99,"TEXT_FESXMS501_03722_LARTONPHE_000_074","Hoho! Impeccable rhythm, my friend! I knew from the day we met that you were a chocobo after my own heart!"
+100,"TEXT_FESXMS501_03722_CHOCOBO_000_075","Kweh!♪"
+101,"TEXT_FESXMS501_03722_LARTONPHE_000_076","Oho, it seems we have a guest. And who might you be?"
+102,"TEXT_FESXMS501_03722_LARTONPHE_000_077","...Oh dear. It's true that I've been spending much of my time with my musical pursuits of late, but never did I think my boy would take it so hard..."
+103,"TEXT_FESXMS501_03722_LARTONPHE_000_078","I truly have made a mess of things, haven't I? And at the very time of the year when the smiles of the children are to take priority above all else..."
+104,"TEXT_FESXMS501_03722_LARTONPHE_100_078","Why, I could brighten the hearts of a hundred─nay, a thousand─children with my song, and it would mean not a thing if my dear Nali walked away with a frown!"
+105,"TEXT_FESXMS501_03722_CHOCOBO_000_079","Kweh..."
+106,"TEXT_FESXMS501_03722_LARTONPHE_000_080","A fine bird, is she not? Aye, she is my most loyal and treasured companion. This is why I was all the more troubled when she started to behave strangely of late."
+107,"TEXT_FESXMS501_03722_LARTONPHE_000_081","And so, at the stablehand's suggestion, I took her on a stroll by the waters. Absent-mindedly, I began to hum a tune, when─wouldn't you know it─she started picking up her feet and prancing in time."
+108,"TEXT_FESXMS501_03722_LARTONPHE_000_082","That's when it came to me─she wasn't ill, nor troubled of heart or mind. Far from it─she shares my profound passion for music, and merely wanted to join me in song and dance all this time! Isn't that right, my friend?"
+109,"TEXT_FESXMS501_03722_CHOCOBO_000_083","Kweh kweh!♪"
+110,"TEXT_FESXMS501_03722_LARTONPHE_000_084","Typically, Quiver's Hold is a stern and somber place, but as the Starlight Celebration drew nearer and nearer, our halls were filled with music and song. Doubtless she's just been beside herself with a desire to partake in the festivities along with her master."
+111,"TEXT_FESXMS501_03722_Q2_000_000","What will you say?"
+112,"TEXT_FESXMS501_03722_A2_000_001","Truly a friend for all seasons!"
+113,"TEXT_FESXMS501_03722_A2_000_002","Are you quite sure about that?"
+114,"TEXT_FESXMS501_03722_LARTONPHE_000_085","In any event, never in my wildest dreams did I expect my companion to respond so enthusiastically to my humble renditions of traditional Starlight carols."
+115,"TEXT_FESXMS501_03722_LARTONPHE_000_086","...Would that Nali felt the same way. Sadly, the boy is of an age where he's more interested in animals than in song and verse. I can only hope that seeing his father perform on the grand stage will change that..."
+116,"TEXT_FESXMS501_03722_LARTONPHE_100_086","Oh, but the elementals take me! How soon I forget! You said my boy has already wandered away from the square, did you not!?"
+117,"TEXT_FESXMS501_03722_LARTONPHE_110_086","Which means that he will miss my performance! He will cry into his pillow tonight, thinking that his miserable father abandoned him, and on Starlight, no less!"
+118,"TEXT_FESXMS501_03722_CHOCOBO_000_087","Kweh!♪"
+119,"TEXT_FESXMS501_03722_LARTONPHE_000_088","Don't look so glum, you say? I suppose you're right. How can I hope to put a smile on my boy's face if I, myself, panic and frown?"
+120,"TEXT_FESXMS501_03722_LARTONPHE_000_089","...But I've rambled on enough already. The concert will be getting started at any moment, and my colleagues will be wondering what is keeping me. Might I ask one small favor of you before I go?"
+121,"TEXT_FESXMS501_03722_LARTONPHE_000_090","Pray explain the situation to the Starlight celebrant, and ask her to seek out my boy and see to it that he attends the performance. I would surprise him with a Starlight memory that will fill his heart with joy."
+122,"TEXT_FESXMS501_03722_LARTONPHE_000_091","Thank you, my friend. You are truly a Starlight miracle in the flesh. And with that, my companion and I should be returning to the Hold. We shall see you at the concert─I trust you will be in attendance?"
+123,"TEXT_FESXMS501_03722_PIERS_000_095","You were able to find Lartonphe, I trust? He returned not long ago. And it's a good thing, too! We were starting to worry we might have to delay the performance!"
+124,"TEXT_FESXMS501_03722_AMHGARANJY_000_100","Well, if it isn't my favorite little helper! How fare you? Were you able to track down dear Nalipponcque's father?"
+125,"TEXT_FESXMS501_03722_AMHGARANJY_000_101","...I see. Indeed, I suspected that may well have been the truth of the matter. So Lartonphe's passion for his musical pursuits is what has kept him away from his family..."
+126,"TEXT_FESXMS501_03722_AMHGARANJY_000_102","I agree that a surprise appearance from his dear father would go a long way to raise the boy's spirits. Still, how are we to convince him to attend the concert? Yes, that is the rub..."
+127,"TEXT_FESXMS501_03722_Q1_000_000","What will you say?"
+128,"TEXT_FESXMS501_03722_A1_000_001","He didn't seem interested in music..."
+129,"TEXT_FESXMS501_03722_A1_000_002","He did like his present..."
+130,"TEXT_FESXMS501_03722_AMHGARANJY_000_103","Indeed, he did not. There must be <hex:021A020203>something<hex:021A020103> the boy fancies, but what could it be...?"
+131,"TEXT_FESXMS501_03722_AMHGARANJY_000_104","Indeed, he sounded most pleased with his stuffed chocobo. If only there was a procession of chocobos or the like, perhaps we could convince him to attend, but I fear we have planned nothing of the sort..."
+132,"TEXT_FESXMS501_03722_AMHGARANJY_000_105","What's this you say? Lartonphe's companion is a chocobo that dances and sings!? How positively bizarre...er, delightful, that is! Positively delightful!"
+133,"TEXT_FESXMS501_03722_AMHGARANJY_000_106","If this remarkable bird were to take the stage with his dear father, no doubt Nalipponcque would be thrilled beyond belief! Why, he might even find himself enjoying song and dance as never he has before!"
+134,"TEXT_FESXMS501_03722_AMHGARANJY_000_107","Yes, I believe I know just what we have to do. Leave the boy to me. In the meantime, will you seek out Lartonphe once more and convince him to make his feathered friend a part of his performance? Tell him it's for his son's sake."
+135,"TEXT_FESXMS501_03722_AMHGARANJY_000_110","If Lartonphe and the chocobo were to take to the stage together, I do believe it would be the boy's Starlight wish come true."
+136,"TEXT_FESXMS501_03722_LARTONPHE_100_120","Oh, for woe! Whatever am I to do?"
+137,"TEXT_FESXMS501_03722_LARTONPHE_000_120","Forgive me, friend. I fear I find myself in the throes of desperation and despair. I had a mind to take the stage as planned, but I simply haven't the heart to do."
+138,"TEXT_FESXMS501_03722_LARTONPHE_000_121","What a fool I was! I meant to surprise the boy with a performance for the ages, but what will he think when he finds out that his father is a liar and a coward who was fa-la-la'ing when he was supposed to be protecting the people of Gridania from harm? Why, he'll never trust me again...!"
+139,"TEXT_FESXMS501_03722_LEWIN_000_122","(-???-)What is this whinging and wallowing in self-pity!? And you call yourself a quiverman!"
+140,"TEXT_FESXMS501_03722_LARTONPHE_000_123","B-Bowlord Lewin!? Wh-What brings you to this place...?"
+141,"TEXT_FESXMS501_03722_LEWIN_000_124","I will ask the questions here, Lartonphe. Tell me: what is your sworn duty as a bowman of the Gods' Quiver?"
+142,"TEXT_FESXMS501_03722_LARTONPHE_000_125","Wh-Why...of course it is to honor our pact with the elementals, to protect the Twelveswood from outside threats, and to see that not a single resident of fair Gridania comes to harm!"
+143,"TEXT_FESXMS501_03722_LEWIN_000_126","Well, yes...I suppose that is all true. But to put it in more simple terms, one might say it is to preserve peace in the forest, and see that our citizens can live happy and contented lives."
+144,"TEXT_FESXMS501_03722_LARTONPHE_000_127","F-Forgive me, Bowlord. I do not quite understand what you are getting at...?"
+145,"TEXT_FESXMS501_03722_MIAHMOLKOT_000_128","In other words, bringing smiles to the faces of Gridania's children is an important part of your duty to keep the peace in the Twelveswood! Do you understand meow─er, now?"
+146,"TEXT_FESXMS501_03722_MIAHMOLKOT_000_129","We must honor the wishes of our forebears and pass them down to those who will follow in our footsteps. For it is only in doing so that we can see that the forest remains hale and hearty for ages to come."
+147,"TEXT_FESXMS501_03722_LUCIANE_000_130","...Interesting. Looking at you, I am reminded of my own father, once Bowlord of the Quiver in his own right."
+148,"TEXT_FESXMS501_03722_LUCIANE_000_131","He was a passionate man─devoted above all to his duties─and I admired him more than anyone in the world. Though I did not follow directly in his footsteps, I have chosen to honor his memory in my own way─by training the brave souls who will keep our fair wood at peace."
+149,"TEXT_FESXMS501_03722_LARTONPHE_000_132","I-Instructor Molkot...and Guildmaster Luciane! Whatever has this humble bowman done to deserve this honor!?"
+150,"TEXT_FESXMS501_03722_LEWIN_000_133","I have no children of my own, and I would be lying if I said that watching you now, even in your worries, did not evoke in me a sense of envy...and of regret."
+151,"TEXT_FESXMS501_03722_LEWIN_000_134","But even so, there is nothing I would rather see than a smile on the face of you and your boy. After all, it is the season for such things, is it not?"
+152,"TEXT_FESXMS501_03722_LEWIN_000_135","And so as Bowlord of the Gods' Quiver, I command you: put your fears aside, take the stage, and serenade young Nalipponcque to your heart's content. My colleagues and I will do all in our power to see that your deeply held wishes reach the boy."
+153,"TEXT_FESXMS501_03722_LARTONPHE_000_136","Bowlord Lewin... I...I do not deserve this kindness."
+154,"TEXT_FESXMS501_03722_CHOCOBO_000_137","Kweh kweh! Kweh!"
+155,"TEXT_FESXMS501_03722_LARTONPHE_000_138","Ah, but there I go being all glower and gloom again. Thank you, my loyal companion─you are always there for me in my darkest times."
+156,"TEXT_FESXMS501_03722_LARTONPHE_100_138","And you, friend. You look as if there is something you wish to say. Do you have a proposal, pray tell, which might resolve my plight?"
+157,"TEXT_FESXMS501_03722_LARTONPHE_000_139","What if I were to include my feathered friend in my performance? For Nali's sake? Come to think of it, the boy has always been fond of the birds..."
+158,"TEXT_FESXMS501_03722_MIAHMOLKOT_000_140","His dear father and one of his beloved birds taking the stage together? Meow <hex:021A020203>that's<hex:021A020103> an inspired idea if I've ever heard one!"
+159,"TEXT_FESXMS501_03722_MIAHMOLKOT_000_141","Apologies─a slip of the tongue. When I say “meow,” I mean “meow”... Grrr. Not meow─<hex:021A020203>meow<hex:021A020103>! ...Bah!"
+160,"TEXT_FESXMS501_03722_LUCIANE_000_142","I must say, it sounds like a foolproof plan to me as well. After all, the bird has been trained to serve on the battlefield. Surely a Starlight performance would be well within the realm of its capabilities."
+161,"TEXT_FESXMS501_03722_LEWIN_000_143","Then I daresay the matter is settled. I trust you have no objections, Lartonphe?"
+162,"TEXT_FESXMS501_03722_LARTONPHE_000_144","N-None in the slightest, Bowlord Lewin!"
+163,"TEXT_FESXMS501_03722_LARTONPHE_000_145","...That is to say, if <hex:021A020203>you<hex:021A020103> do not, my fast, feathered friend. What say you? Will you do this for me and my boy?"
+164,"TEXT_FESXMS501_03722_CHOCOBO_000_146","Kweh! Kweh kweh kweh!"
+165,"TEXT_FESXMS501_03722_LARTONPHE_000_147","<sniff> Oh, whatever have I done to deserve such a constant companion..."
+166,"TEXT_FESXMS501_03722_CHOCOBO_000_148","Kweh! Kweh!"
+167,"TEXT_FESXMS501_03722_LARTONPHE_000_149","<sniff> Ah, right you are. Turn that frown upside down, yes?"
+168,"TEXT_FESXMS501_03722_LARTONPHE_000_150","And with that, I have but one last humble request to make of you, friend. Would you be so kind as to conduct our forthcoming performance?"
+169,"TEXT_FESXMS501_03722_LARTONPHE_000_151","While my companion here is eager and willing to ascend to the stage with me, this will be her first such endeavor. Mind you, I, too, cannot lay claim to having sung a duet with a chocobo before."
+170,"TEXT_FESXMS501_03722_LARTONPHE_000_152","Though she has only known you a short time, it is clear from the look in her eyes. She trusts you as much as anyone...her own master included. Were you to lead the performance, I have no doubt she would happily dance to your every instruction. Isn't that so?"
+171,"TEXT_FESXMS501_03722_CHOCOBO_000_154","Kweh! Kweh!"
+172,"TEXT_FESXMS501_03722_LARTONPHE_000_155","Just as I thought. So, what say you? Will you join us to make this Starlight a special one for my boy?"
+173,"TEXT_FESXMS501_03722_Q3_000_000","What will you say?"
+174,"TEXT_FESXMS501_03722_A3_000_001","Let us make this a performance for the ages."
+175,"TEXT_FESXMS501_03722_A3_000_002","Let's just have fun up there, yes?"
+176,"TEXT_FESXMS501_03722_LARTONPHE_000_156","Thank you, my friend! You truly are a saint. And with that, we should make for the amphitheatre. The others will want to be started any time now."
+177,"TEXT_FESXMS501_03722_LEWIN_000_160","Does it surprise you that I agreed to be a part of the performance? Well, it should not. I have talents beyond bow-bending, after all."
+178,"TEXT_FESXMS501_03722_LUCIANE_000_161","None other than Bowlord Lewin himself appointed me to my post, and our guild has cooperated with the Quiver ever since its inception. This Starlight performance shall be no exception."
+179,"TEXT_FESXMS501_03722_MIAHMOLKOT_000_162","I'll thank you not to tell anyone that the fearless leader of the White Rams will be taking the stage this Starlight."
+180,"TEXT_FESXMS501_03722_AMHGARANJY_000_170","Welcome back, friend! I see your mission was a success: Lartonphe and his charming little─or not-so-little, really─chocobo showed up not moments ago. I'm happy to report that I was also able to convince Nalipponcque to attend the show."
+181,"TEXT_FESXMS501_03722_AMHGARANJY_000_171","What's that? You'll be conducting the performance, you say? I knew you were a <hex:02080FE905FF06>woman<hex:FF04>man<hex:03> of many talents, but I didn't expect you to volunteer yourself for this as well!"
+182,"TEXT_FESXMS501_03722_AMHGARANJY_000_172","Still, I thank you, friend. We are ever in your debt. And with that, I do believe we are ready to get this show on the road. Whenever you would like to begin, simply speak the word."

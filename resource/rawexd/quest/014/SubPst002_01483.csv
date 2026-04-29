@@ -2,144 +2,144 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_SUBPST002_01483_SEQ_00,郵差莫古力前輩想交給冒險者第一份送信工作。
-1,TEXT_SUBPST002_01483_SEQ_01,接受了郵差莫古力前輩的委託，去執行首次送信任務。前往利姆薩·羅敏薩的沉溺海豚亭，將信交給店主巴德龍。
-2,TEXT_SUBPST002_01483_SEQ_02,將信交給了巴德龍。巴德龍知道有麻煩的客人要來訪後，想要做些準備。將這件事告訴沉溺海豚亭的絲·赫茱碧。
-3,TEXT_SUBPST002_01483_SEQ_03,將來訪者的事告訴絲·赫茱碧後，絲·赫茱碧認為是巴德龍的仇敵要來。前往中拉諾西亞，和魯加族無賴談談。
-4,TEXT_SUBPST002_01483_SEQ_04,魯加族無賴好像是個危險人物。按照絲·赫茱碧所說，用<hex:022811FF0A>EventItem<hex:F61E89AC0103>潑魯加族無賴。
-5,TEXT_SUBPST002_01483_SEQ_05,用水潑了魯加族無賴後，被他跑掉了。為了不讓受害者增加，追上魯加族無賴和他談談。
-6,TEXT_SUBPST002_01483_SEQ_06,追上了魯加族無賴，聽聞了事情的詳情。他的名字叫緹爾斯維恩，是巴德龍的老朋友。緹爾斯維恩把帶給巴德龍的禮物落下了，但是他現在受了傷，動不了。代替他前往中拉諾西亞的盛夏農莊，和修太爾威爾恩談談。
-7,TEXT_SUBPST002_01483_SEQ_07,向修太爾威爾恩詢問了關於緹爾斯維恩的禮物的事。在盛夏農莊屋內，獲取<hex:022811FF0A>EventItem<hex:F61E89AD0103>。
-8,TEXT_SUBPST002_01483_SEQ_08,獲得了<hex:022811FF0A>EventItem<hex:F61E89AD0103>。前往和風陸門將<hex:022811FF0A>EventItem<hex:F61E89AD0103>交給緹爾斯維恩。
-9,TEXT_SUBPST002_01483_SEQ_09,將<hex:022811FF0A>EventItem<hex:F61E89AD0103>交給了緹爾斯維恩。作為回報緹爾斯維恩要請冒險者喝酒。前往沉溺海豚亭，和巴德龍談談
-10,TEXT_SUBPST002_01483_SEQ_10,巴德龍嘴上說是麻煩的客人，可內心的真實想法則是要歡迎來訪的舊友。舊友緹爾斯維恩講述了巴德龍做沉溺海豚亭店主的理由後離去，不過要想確認巴德龍真正的想法，恐怕要等別的機會了……前往工事大廳附近，向郵差莫古力前輩報告。
-11,TEXT_SUBPST002_01483_SEQ_11,向郵差莫古力前輩報告完畢。領會了郵遞員的心得，得到了郵差莫古力前輩的信賴。照這個樣子，繼續向郵差莫古力前輩領取送信的任務。
-12,TEXT_SUBPST002_01483_SEQ_12,
-13,TEXT_SUBPST002_01483_SEQ_13,
-14,TEXT_SUBPST002_01483_SEQ_14,
-15,TEXT_SUBPST002_01483_SEQ_15,
-16,TEXT_SUBPST002_01483_SEQ_16,
-17,TEXT_SUBPST002_01483_SEQ_17,
-18,TEXT_SUBPST002_01483_SEQ_18,
-19,TEXT_SUBPST002_01483_SEQ_19,
-20,TEXT_SUBPST002_01483_SEQ_20,
-21,TEXT_SUBPST002_01483_SEQ_21,
-22,TEXT_SUBPST002_01483_SEQ_22,
-23,TEXT_SUBPST002_01483_SEQ_23,
-24,TEXT_SUBPST002_01483_TODO_00,將信交給沉溺海豚亭的巴德龍
-25,TEXT_SUBPST002_01483_TODO_01,和絲·赫茱碧對話
-26,TEXT_SUBPST002_01483_TODO_02,和中拉諾西亞的魯加族無賴對話
-27,TEXT_SUBPST002_01483_TODO_03,對魯加族無賴使用<hex:022811FF0A>EventItem<hex:F61E89AC0103>
-28,TEXT_SUBPST002_01483_TODO_04,追上魯加族無賴
-29,TEXT_SUBPST002_01483_TODO_05,和修太爾威爾恩對話
-30,TEXT_SUBPST002_01483_TODO_06,獲取<hex:022811FF0A>EventItem<hex:F61E89AD0103>
-31,TEXT_SUBPST002_01483_TODO_07,將<hex:022811FF0A>EventItem<hex:F61E89AD0103>交給緹爾斯維恩
-32,TEXT_SUBPST002_01483_TODO_08,和沉溺海豚亭的巴德龍對話
-33,TEXT_SUBPST002_01483_TODO_09,向工事大廳的郵差莫古力前輩報告
-34,TEXT_SUBPST002_01483_TODO_10,
-35,TEXT_SUBPST002_01483_TODO_11,
-36,TEXT_SUBPST002_01483_TODO_12,
-37,TEXT_SUBPST002_01483_TODO_13,
-38,TEXT_SUBPST002_01483_TODO_14,
-39,TEXT_SUBPST002_01483_TODO_15,
-40,TEXT_SUBPST002_01483_TODO_16,
-41,TEXT_SUBPST002_01483_TODO_17,
-42,TEXT_SUBPST002_01483_TODO_18,
-43,TEXT_SUBPST002_01483_TODO_19,
-44,TEXT_SUBPST002_01483_TODO_20,
-45,TEXT_SUBPST002_01483_TODO_21,
-46,TEXT_SUBPST002_01483_TODO_22,
-47,TEXT_SUBPST002_01483_TODO_23,
-48,TEXT_SUBPST002_01483_LETTERMOOGLE_000_000,這裡有一封信要送，作為後輩你的第一份工作非常合適庫啵！<hex:02100103>在工事大廳的上層有家沉溺海豚亭，<hex:02100103>這封信是要送給店主巴德龍的庫啵！
-49,TEXT_SUBPST002_01483_LETTERMOOGLE_000_001,推開聚集在店內滿身汗臭的冒險者與水手們，<hex:02100103>迅速把信交給巴德龍吧庫啵！
-50,TEXT_SUBPST002_01483_LETTERMOOGLE_000_002,郵遞員不是光把信送到就可以的庫啵。<hex:02100103>而是要將信裡包含的思念一起送到，這才算結束庫啵。<hex:02100103>這便是郵遞員心得其一庫啵！
-51,TEXT_SUBPST002_01483_LETTERMOOGLE_000_003,特別是後輩你還是個冒險者，<hex:02100103>很有可能在送信的同時被委託一些事情庫啵，<hex:02100103>那時，將所有委託全部完成才能算得上是優秀的郵遞員庫啵！
-52,TEXT_SUBPST002_01483_LETTERMOOGLE_000_004,這可是你值得紀念的首次工作庫啵！<hex:02100103>莫古就破例留在這裡等你好了，<hex:02100103>等你完成工作後就來找莫古報告吧庫啵！
-53,TEXT_SUBPST002_01483_LETTERMOOGLE_000_005,這次有一封信想要後輩你送，<hex:02100103>在工事大廳的上層有家沉溺海豚亭，<hex:02100103>這封信是要送給店主巴德龍的庫啵！
-54,TEXT_SUBPST002_01483_LETTERMOOGLE_000_006,郵遞員不是光把信送到就可以的庫啵。<hex:02100103>而是要將信裡包含的思念一起送到，這才算結束庫啵。<hex:02100103>這便是郵遞員心得其一庫啵！
-55,TEXT_SUBPST002_01483_LETTERMOOGLE_000_007,特別是後輩你還是個冒險者，<hex:02100103>很有可能在送信的同時被委託一些事情庫啵，<hex:02100103>那時，將所有委託全部完成才能算得上是優秀的郵遞員庫啵！
-56,TEXT_SUBPST002_01483_BADERON_000_010,喲，你來啦。<hex:02100103>最近經常能聽到你的活躍事跡啊！<hex:02100103>……噢，有信要給我？
-57,TEXT_SUBPST002_01483_BADERON_100_011,我看看，是誰來的信啊？
-58,TEXT_SUBPST002_01483_BADERON_000_011,這可糟糕了，有個麻煩的客人要來……<hex:02100103>……不好意思，能不能拜託你去中拉諾西亞，<hex:02100103>幫我迎接一下這位「客人」？
-59,TEXT_SUBPST002_01483_Q1_000_000,要去幫忙迎接「客人」嗎？
-60,TEXT_SUBPST002_01483_A1_000_001,去
-61,TEXT_SUBPST002_01483_A1_000_002,不去
-62,TEXT_SUBPST002_01483_BADERON_000_012,幫幫忙吧，拜託了！<hex:02100103>你把這封信送給我也算是某種緣分，好不好？
-63,TEXT_SUBPST002_01483_BADERON_100_012,要來的這個人是個非常麻煩的傢伙。<hex:02100103>身手不夠好的話，肯定搞不定的。
-64,TEXT_SUBPST002_01483_BADERON_000_013,哈，幫大忙了，謝謝你。<hex:02100103>要來的這個人是個非常麻煩的傢伙。<hex:02100103>身手不夠好的話，肯定搞不定的。
-65,TEXT_SUBPST002_01483_BADERON_000_014,從和風陸門出去，在中拉諾西亞的某處，<hex:02100103>有個「魯加族無賴」，那傢伙就是「客人」。<hex:02100103>真是麻煩你了，拜託了。
-66,TEXT_SUBPST002_01483_BADERON_000_015,啊，對了……<hex:02100103>你去之前，和那邊的絲·赫茱碧打聲招呼，<hex:02100103>讓她幫忙準備迎接客人。
-67,TEXT_SUBPST002_01483_BADERON_000_019,告訴絲·赫茱碧幫忙準備接客人後，<hex:02100103>你就去中拉諾西亞迎接魯加族無賴吧。
-68,TEXT_SUBPST002_01483_LETTERMOOGLE_000_018,送好信後巴德龍又拜託你了一些事庫啵？<hex:02100103>因為後輩你是冒險者嘛，這是很正常的事庫啵！<hex:02100103>將所有委託全部完成才能算得上是優秀的郵遞員庫啵！
-69,TEXT_SUBPST002_01483_LETTERMOOGLE_000_019,在後輩你的第一份工作完成之前，莫古都會在這裡等著你庫啵！<hex:02100103>加油庫啵，直到看見巴德龍滿意的表情為止庫啵！
-70,TEXT_SUBPST002_01483_SDHODJBI_000_020,……有個麻煩的客人要來，需要我幫忙做準備？<hex:02100103>哎呀，可能又是巴德龍以前的仇敵找上門了……
-71,TEXT_SUBPST002_01483_SDHODJBI_000_021,巴德龍以前是傭兵……<hex:02100103>當時的他非常「調皮」。<hex:02100103>那會兒結下的仇敵有時會來找他麻煩。
-72,TEXT_SUBPST002_01483_SDHODJBI_000_023,在中拉諾西亞的魯加族無賴啊，<hex:02100103>如果是個危險的傢伙的話……<hex:02100103>就拿水潑他，再把他打倒。
-73,TEXT_SUBPST002_01483_SDHODJBI_100_023,這瓶冰水你拿去，拜託你了。
-74,TEXT_SUBPST002_01483_SDHODJBI_000_025,在中拉諾西亞的魯加族無賴啊，<hex:02100103>如果是個危險的傢伙的話……<hex:02100103>就拿這水潑他，再把他打倒。
-75,TEXT_SUBPST002_01483_LETTERMOOGLE_000_025,送好信後巴德龍又拜託你了一些事庫啵？<hex:02100103>因為後輩你不能隱身嘛，所以這很正常庫啵！<hex:02100103>將所有委託全部完成才能算得上是優秀的郵遞員庫啵！
-76,TEXT_SUBPST002_01483_LETTERMOOGLE_000_026,在後輩你的第一份工作完成之前，莫古都會在這裡等著你庫啵！<hex:02100103>加油庫啵，直到看見大家滿意的表情為止庫啵！
-77,TEXT_SUBPST002_01483_SHOUNIN_000_025,請、請放過我吧。<hex:02100103>這些葡萄酒是重要的商品。<hex:02100103>如果沒了它，我就破產了！
-78,TEXT_SUBPST002_01483_TYLSWAEN_000_030,喂，這位小哥……嗝。<hex:02100103>你運的這貨不錯嘛……嗝。<hex:02100103>賞我一杯怎麼樣。
-79,TEXT_SUBPST002_01483_SHOUNIN_000_031,那邊的冒險者，請你幫幫我！<hex:02100103>作為商品的葡萄酒要是被搶走了我就破產了！<hex:02100103>請扔點什麼東西，把他打倒吧！
-80,TEXT_SUBPST002_01483_SHOUNIN_000_035,那邊的冒險者，請你幫幫我！<hex:02100103>作為商品的葡萄酒要是被搶走了我就破產了！<hex:02100103>請扔點什麼東西，把他打倒吧！
-81,TEXT_SUBPST002_01483_POPMESSAGE_000_000,（★未使用／削除予定★）
-82,TEXT_SUBPST002_01483_TYLSWAEN_000_040,（★未使用／削除予定★）
-83,TEXT_SUBPST002_01483_TYLSWAEN_000_041,嗚哇，好涼！<hex:02100103>受不了！
-84,TEXT_SUBPST002_01483_SHOUNIN_000_042,危急之時真是謝謝你！<hex:02100103>如果放任不管的話，沒準他又會襲擊別人！<hex:02100103>請追上他把他制伏！
-85,TEXT_SUBPST002_01483_SHOUNIN_000_045,危急之時真是謝謝你！<hex:02100103>如果放任不管的話，沒準他又會襲擊別人！<hex:02100103>請追上他把他制伏！
-86,TEXT_SUBPST002_01483_BADERON_000_045,你找到我的死黨了嗎？<hex:02100103>我需要準備所以騰不出手，請你幫我把他帶到這裡來吧。
-87,TEXT_SUBPST002_01483_SDHODJBI_000_045,那個麻煩的傢伙原來是巴德龍的死黨？<hex:02100103>那是我誤會他了……<hex:02100103>過後向他道歉好了。
-88,TEXT_SUBPST002_01483_LETTERMOOGLE_000_045,寄信的人又委託你了一些事情庫啵？<hex:02100103>將所有委託全部完成並讓他們滿意，<hex:02100103>才能算得上是優秀的郵遞員庫啵！
-89,TEXT_SUBPST002_01483_LETTERMOOGLE_000_046,在後輩你的第一份工作完成之前，莫古都會在這裡等著你庫啵！<hex:02100103>我知道陸續有新的委託，你也快忙不過來了，<hex:02100103>但是請加油庫啵！直到看見大家滿意的表情為止庫啵！
-90,TEXT_SUBPST002_01483_TYLSWAEN_000_042,你是剛才的……<hex:02100103>別、別再用水潑我了！<hex:02100103>抱歉，剛才有點喝醉了！
-91,TEXT_SUBPST002_01483_TYLSWAEN_000_043,……我是不是巴德龍的仇敵？<hex:02100103>喂喂，為什麼會這樣？
-92,TEXT_SUBPST002_01483_TYLSWAEN_000_044,我叫緹爾斯維恩，可是巴德龍的死黨啊。
-93,TEXT_SUBPST002_01483_TYLSWAEN_000_050,……原來如此，是這麼回事啊。<hex:02100103>正如你所見，我酒品有點不太好。<hex:02100103>被巴德龍當做麻煩人也沒有半點怨言。
-94,TEXT_SUBPST002_01483_TYLSWAEN_000_051,我和巴德龍是傭兵時期的夥伴，<hex:02100103>也就是所謂的戰友。
-95,TEXT_SUBPST002_01483_TYLSWAEN_000_052,多虧了你，我的酒勁也醒了。<hex:02100103>可以的話帶我去他的店裡吧。
-96,TEXT_SUBPST002_01483_TYLSWAEN_100_052,……啊，糟糕！<hex:02100103>裝著給巴德龍禮物的皮袋被我忘在睡覺的地方了。<hex:02100103>不快點回去拿的話……
-97,TEXT_SUBPST002_01483_TYLSWAEN_000_053,好疼……糟糕，<hex:02100103>我被你潑了水跑向這裡的時候不小心把腳扭了……
-98,TEXT_SUBPST002_01483_TYLSWAEN_000_054,能麻煩你去一趟盛夏農莊，<hex:02100103>找修太爾威爾恩問問皮袋的事嗎？<hex:02100103>昨晚我在他那裡住的，你一說他應該就知道了。
-99,TEXT_SUBPST002_01483_TYLSWAEN_000_059,能麻煩你去一趟盛夏農莊，<hex:02100103>找修太爾威爾恩問問皮袋的事嗎？<hex:02100103>昨晚我在他那裡住的，你一說他應該就知道了。
-100,TEXT_SUBPST002_01483_STAELWYRN_000_060,哦，<hex:022903EB0203>！<hex:02100103>你變得非常優秀了啊！<hex:02100103>來一起吃個飯……有什麼急事嗎？
-101,TEXT_SUBPST002_01483_STAELWYRN_000_061,你看起來是個非常能幹的冒險者啊。<hex:02100103>來這片只有沒落海盜的農地，你有什麼事嗎？
-102,TEXT_SUBPST002_01483_STAELWYRN_000_062,……哦，你來找那個醉漢忘掉的<hex:022811FF0A>EventItem<hex:F61E89AD0103>？<hex:02100103>真是辛苦你了。
-103,TEXT_SUBPST002_01483_STAELWYRN_000_063,我還沒打掃屋子。<hex:02100103>那個皮袋應該就在屋子的某處。<hex:02100103>你直接去拿就好了。
-104,TEXT_SUBPST002_01483_STAELWYRN_000_064,我還沒打掃屋子。<hex:02100103>那個皮袋應該就在屋子的某處。<hex:02100103>你直接去拿就好了。
-105,TEXT_SUBPST002_01483_STAELWYRN_000_065,找到了吧。<hex:02100103>幫我告訴那個醉漢，別喝太多酒。
-106,TEXT_SUBPST002_01483_TYLSWAEN_000_070,不去盛夏農莊把給巴德龍的禮物拿回來的話……
-107,TEXT_SUBPST002_01483_TYLSWAEN_000_071,哦哦，謝謝你！<hex:02100103>……給巴德龍的禮物其實是枚古老的硬幣。<hex:02100103>等到了巴德龍的店裡我們再細聊吧。
-108,TEXT_SUBPST002_01483_TYLSWAEN_000_072,美酒在呼喚我！<hex:02100103>店的具體位置我從衛兵那裡打聽到了。<hex:02100103>我會請你喝一杯當做謝禮的，記得和巴德龍說一聲啊。
-109,TEXT_SUBPST002_01483_LETTERMOOGLE_000_080,寄信的人和巴德龍要見面了庫啵？<hex:02100103>他們能見到都是後輩你的功勞庫啵。<hex:02100103>作為郵遞員來說，沒有比這更好的了庫啵！
-110,TEXT_SUBPST002_01483_LETTERMOOGLE_000_081,快去店裡吧，去看看這感人的再會庫啵！<hex:02100103>別忘了告訴莫古那是什麼樣的場景庫啵！<hex:02100103>這也是郵遞員的工作庫啵！
-111,TEXT_SUBPST002_01483_TYLSWAEN_000_080,呼，這裡的酒真是太棒了！<hex:02100103>你也來喝兩口吧！<hex:02100103>我會請你喝一杯的，去和巴德龍說聲！
-112,TEXT_SUBPST002_01483_SDHODJBI_000_080,那個人好像真的是巴德龍的死黨……<hex:02100103>但是從剛才開始倆人就有點不對勁。<hex:02100103>果然是因為我的錯，我必須去道歉……
-113,TEXT_SUBPST002_01483_BADERON_000_080,哦，把這麼麻煩的事推給你，真是不好意思。<hex:02100103>他要請你喝一杯對吧？<hex:02100103>等著，我去把最好的酒給你拿來。
-114,TEXT_SUBPST002_01483_TYLSWAEN_000_081,真是太過分了。<hex:02100103>大老遠的跑來看老朋友，<hex:02100103>結果卻派出了個這麼厲害的冒險者要把我趕走！
-115,TEXT_SUBPST002_01483_BADERON_000_082,少囉嗦。<hex:02100103>你來了還不把我店裡的酒都喝光了，<hex:02100103>我連生意都沒得做了。
-116,TEXT_SUBPST002_01483_SDHODJBI_000_083,這酒我請了。<hex:02100103>我錯以為是有仇敵要來，所以才叫冒險者趕你走的。<hex:02100103>和巴德龍沒有任何關係，真是對不起。
-117,TEXT_SUBPST002_01483_TYLSWAEN_000_084,哈哈，不用在意。<hex:02100103>和他吵架就跟打招呼一樣。<hex:02100103>而且像你這麼棒的女人，對我幹什麼我都歡迎！
-118,TEXT_SUBPST002_01483_SDHODJBI_000_085,啊哈哈，謝謝。<hex:02100103>但是……為什麼用這古老的硬幣給巴德龍當禮物？<hex:02100103>說句不好聽的，感覺根本沒有任何價值啊。
-119,TEXT_SUBPST002_01483_TYLSWAEN_000_086,那是我們當傭兵的時候的事了……<hex:02100103>當時我們還是新兵，經常出錯，完全做不好。<hex:02100103>就在這時有個傭兵前輩跟我們做了個約定。
-120,TEXT_SUBPST002_01483_TYLSWAEN_000_087,如果能比這位前輩活得更久的話，他就把硬幣給我。<hex:02100103>100面額的金幣上，不是刻著命運的女神妮美雅嗎？<hex:02100103>也就是「幸運之證」了。
-121,TEXT_SUBPST002_01483_TYLSWAEN_000_088,跟我做了這個約定的前輩，最近因為得了病而去世了……<hex:02100103>我去看望他的時候，他給了我兩枚硬幣。<hex:02100103>跟我說遵守約定把硬幣給我，而另一枚則是給巴德龍的……
-122,TEXT_SUBPST002_01483_TYLSWAEN_000_089,哎呀，真不像我，竟然有點想哭。<hex:02100103>……那個時候誰也沒能想到，<hex:02100103>巴德龍竟然會變成那麼厲害的傭兵。
-123,TEXT_SUBPST002_01483_SDHODJBI_000_090,既然他那麼厲害，<hex:02100103>為什麼還要做冒險者公會的窗口呢？<hex:02100103>又拘束又死板的……
-124,TEXT_SUBPST002_01483_TYLSWAEN_000_091,啊，你不知道嗎？<hex:02100103>嗯……下面我說的你就當是醉漢的胡言亂語吧……
-125,TEXT_SUBPST002_01483_TYLSWAEN_000_092,那是20年前的事了……當時戰爭劇減，傭兵們開始失業。<hex:02100103>而這時有位傳說中的傭兵隊長聚集起傭兵們，<hex:02100103>建立了冒險者公會……
-126,TEXT_SUBPST002_01483_TYLSWAEN_000_093,但是，傭兵隊長的兒子，卻不願意從事冒險者公會的工作，<hex:02100103>並聲稱要作為一名傭兵，超越父親。
-127,TEXT_SUBPST002_01483_TYLSWAEN_000_094,後來，也不知道是他放棄了，還是得到了滿足……<hex:02100103>總之經過了很長一段時間的反抗期之後，<hex:02100103>那個兒子最終還是回到了公會，並接下了接待窗口的工作。
-128,TEXT_SUBPST002_01483_SDHODJBI_000_095,哎？<hex:02100103>這麼說來，巴德龍的父親是……
-129,TEXT_SUBPST002_01483_BADERON_000_096,好啦，絲·赫茱碧！<hex:02100103>別偷懶了！<hex:02100103>快去幹活！
-130,TEXT_SUBPST002_01483_SDHODJBI_000_097,好好，我知道了。
-131,TEXT_SUBPST002_01483_TYLSWAEN_000_098,那麼，我也差不多要走了。<hex:02100103>我和那個姑娘說話的話，某人會嫉妒的。<hex:02100103>……我還會再來看你的！
-132,TEXT_SUBPST002_01483_BADERON_000_099,真是的，暴風終於要過去了。<hex:02100103>但是呢……偶爾的話還是過來看看吧！<hex:02100103>一杯的話我還是請得起的！
-133,TEXT_SUBPST002_01483_BADERON_000_100,真是辛苦你了，這麼麻煩的事。<hex:02100103>……信這東西，偶爾收一封感覺還不錯。
-134,TEXT_SUBPST002_01483_SDHODJBI_000_100,把你捲進這麼麻煩的事，真是抱歉啊。<hex:02100103>多虧這件事，讓我認識了巴德龍的老朋友，<hex:02100103>也對巴德龍有了新的認識，真是非常感謝。
-135,TEXT_SUBPST002_01483_LETTERMOOGLE_000_100,歡迎回來庫啵！<hex:02100103>作為郵遞員的第一份工作……感覺怎麼樣庫啵？
-136,TEXT_SUBPST002_01483_LETTERMOOGLE_000_101,連巴德龍以前的故事都聽到了庫啵？<hex:02100103>好厲害庫啵！後輩你不愧是莫古看中的人庫啵！
-137,TEXT_SUBPST002_01483_LETTERMOOGLE_000_102,看來後輩你已經完美地記住了郵遞員心得其一庫啵！<hex:02100103>而且確確實實地將信中的思念送到了庫啵！
-138,TEXT_SUBPST002_01483_LETTERMOOGLE_000_103,……這樣的話，就算去更遠的地方送信，<hex:02100103>或是給不好相處的人送信，也能安心交給你了庫啵！
-139,TEXT_SUBPST002_01483_LETTERMOOGLE_000_104,下次配送完成後就不需要向莫古報告了庫啵！<hex:02100103>照這個樣子，繼續努力吧庫啵！！
-140,TEXT_SUBPST002_01483_SYSTEM_000_000,成功將郵差莫古力所交付的信件送達目的地！<hex:02100103>在「郵遞員」的道路上又前進了一步！
+0,"TEXT_SUBPST002_01483_SEQ_00","The deputy postmoogle has wasted no time in finding you a suitable training assignment."
+1,"TEXT_SUBPST002_01483_SEQ_01","Overjoyed to have found an assistant willing and able to lighten his load, the deputy postmoogle has picked out what he believes is the ideal training assignment for you. Your mission, whether or not you choose to accept it: take the letter in hand and deliver it to Baderon, proprietor of the Drowning Wench."
+2,"TEXT_SUBPST002_01483_SEQ_02","Your delivery a successful one, Baderon wastes no time in enlisting your services as an adventurer. It would seem a notorious individual has resurfaced after an extended absence, and the proprietor would seek your help in seeing old debts repaid. He urges you to speak with S'dhodjbi before setting out to find this potentially dangerous individual."
+3,"TEXT_SUBPST002_01483_SEQ_03","S'dhodjbi surmises that the man in question is an old foe from Baderon's former life as a sellsword. She affords you a special gift that she believes will serve you well in your encounter with the Roegadyn ruffian who awaits you in middle La Noscea."
+4,"TEXT_SUBPST002_01483_SEQ_04","You come upon a Roegadyn ruffian threatening a defenseless merchant's life. It would appear Baderon's foe is a dangerous man, indeed. Douse the menacing fellow with the water provided to you by S'dhodjbi for this very purpose."
+5,"TEXT_SUBPST002_01483_SEQ_05","A thorough drenching at your hands having apparently exacerbated his state of nausea, the Roegadyn staggers drunkenly away. Though the ruffian appears somewhat less threatening than he did moments ago, it would nevertheless be wise to seek out the brute before he can wreak any greater havoc."
+6,"TEXT_SUBPST002_01483_SEQ_06","A brief parley with the ruffian reveals his name as Tylswaen. To your surprise, he is not an old foe of Baderon's, but rather a comrade─a fellow sellsword who incurred Baderon's ire not for crimes committed, but merely for his drunken debauchery. Tylswaen explains that he has returned with a gift for his old friend─a gift that he promptly left behind at Summerford Farms when he departed in a stupor. Venture there in the Roegadyn's stead and speak with Staelwyrn, that you might recover what has been lost."
+7,"TEXT_SUBPST002_01483_SEQ_07","Less than pleased at the mess the drunkard left behind, Staelwyrn nevertheless explains that Tylswaen's belongings like as not may still be found in his room. Go and retrieve them, taking care not to step in any foul spew that the drunkard left behind."
+8,"TEXT_SUBPST002_01483_SEQ_08","You have recovered the goods─a threadbare coinpurse containing a pair of old coins. Return it to Tylswaen, that he might deliver this humble present to his old friend."
+9,"TEXT_SUBPST002_01483_SEQ_09","Tylswaen thanks you, greatly relieved to be reunited with his possessions. He sets off for the Drowning Wench and encourages you to join him there, with an assurance that drinks will be on the house. Return and speak with Baderon to see if this is indeed the case."
+10,"TEXT_SUBPST002_01483_SEQ_10","Beneath his gruff exterior, Baderon appears heartened at the long-overdue reunion with his erstwhile comrade. Tylswaen explains that the matching coins were a memento from a mutual acquaintance, a veteran sellsword who guided the two new recruits all those years ago. Though S'dhodjbi still wonders what compelled Baderon to give up the old life, it would seem that must remain a tale for another day. In the meantime, the deputy postmoogle will be eager to learn that your training mission was a success."
+11,"TEXT_SUBPST002_01483_SEQ_11","You report the success of your delivery─and the ensuing events─to the deputy postmoogle. Your superior is ecstatic to see his new recruit make such a splendid first impression, and promises that a steady stream of challenging assignments lies in your future."
+12,"TEXT_SUBPST002_01483_SEQ_12",""
+13,"TEXT_SUBPST002_01483_SEQ_13",""
+14,"TEXT_SUBPST002_01483_SEQ_14",""
+15,"TEXT_SUBPST002_01483_SEQ_15",""
+16,"TEXT_SUBPST002_01483_SEQ_16",""
+17,"TEXT_SUBPST002_01483_SEQ_17",""
+18,"TEXT_SUBPST002_01483_SEQ_18",""
+19,"TEXT_SUBPST002_01483_SEQ_19",""
+20,"TEXT_SUBPST002_01483_SEQ_20",""
+21,"TEXT_SUBPST002_01483_SEQ_21",""
+22,"TEXT_SUBPST002_01483_SEQ_22",""
+23,"TEXT_SUBPST002_01483_SEQ_23",""
+24,"TEXT_SUBPST002_01483_TODO_00","Deliver the letter to Baderon at the Drowning Wench."
+25,"TEXT_SUBPST002_01483_TODO_01","Speak with S'dhodjbi."
+26,"TEXT_SUBPST002_01483_TODO_02","Speak with the Roegadyn ruffian in middle La Noscea."
+27,"TEXT_SUBPST002_01483_TODO_03","Douse the Roegadyn ruffian with water."
+28,"TEXT_SUBPST002_01483_TODO_04","Pursue the Roegadyn ruffian."
+29,"TEXT_SUBPST002_01483_TODO_05","Speak with Staelwyrn at Summerford Farms."
+30,"TEXT_SUBPST002_01483_TODO_06","Obtain the leather satchel."
+31,"TEXT_SUBPST002_01483_TODO_07","Deliver the leather satchel to Tylswaen."
+32,"TEXT_SUBPST002_01483_TODO_08","Speak with Baderon at the Drowning Wench."
+33,"TEXT_SUBPST002_01483_TODO_09","Report to the deputy postmoogle at the Octant."
+34,"TEXT_SUBPST002_01483_TODO_10",""
+35,"TEXT_SUBPST002_01483_TODO_11",""
+36,"TEXT_SUBPST002_01483_TODO_12",""
+37,"TEXT_SUBPST002_01483_TODO_13",""
+38,"TEXT_SUBPST002_01483_TODO_14",""
+39,"TEXT_SUBPST002_01483_TODO_15",""
+40,"TEXT_SUBPST002_01483_TODO_16",""
+41,"TEXT_SUBPST002_01483_TODO_17",""
+42,"TEXT_SUBPST002_01483_TODO_18",""
+43,"TEXT_SUBPST002_01483_TODO_19",""
+44,"TEXT_SUBPST002_01483_TODO_20",""
+45,"TEXT_SUBPST002_01483_TODO_21",""
+46,"TEXT_SUBPST002_01483_TODO_22",""
+47,"TEXT_SUBPST002_01483_TODO_23",""
+48,"TEXT_SUBPST002_01483_LETTERMOOGLE_000_000","If it isn't my new vict─um, my promising new recruit! The twinkle in your eyes and spring in your step simply shout out to me, “I'm ready for my first assignment, mister deputy postmoogle, sir!” Do I hear you correctly, kupo?"
+49,"TEXT_SUBPST002_01483_LETTERMOOGLE_000_001","Of <hex:021A020203>course<hex:021A020103> I do! Well, this is your lucky day, for I've picked out what should prove the perfect task to start off your training. To wit: I have here in my paws a letter that needs delivering to Baderon, proprietor of the Drowning Wench."
+50,"TEXT_SUBPST002_01483_LETTERMOOGLE_000_002","A simple task, you say? Perhaps─and perhaps not! For a delivery moogle's task does not end with the handing over of a piece of parchment. No, the conscientious carrier lends <hex:02080DE905FF04>her<hex:FF04>his<hex:03> ear to the addressee, and sees the job through until <hex:02080DE905FF04>her<hex:FF04>his<hex:03> customer is happier for what has been received."
+51,"TEXT_SUBPST002_01483_LETTERMOOGLE_000_003","Being the accomplished─and eminently <hex:021A020203>visible<hex:021A020103>─adventurer that you are, I suspect that your clients will be even more eager to enlist your services than they would with an elusive moogle like myself. Consider this an honor and a privilege, kupo!"
+52,"TEXT_SUBPST002_01483_LETTERMOOGLE_000_004","As the one in charge of your training, I shall wait here for word of your success. You <hex:021A020203>will<hex:021A020103> succeed, won't you, kupo?"
+53,"TEXT_SUBPST002_01483_LETTERMOOGLE_000_005","The letter I've entrusted to you is to be delivered to Baderon, proprietor of the Drowning Wench. A perfect task to start off your training, if I do say so myself─and I just did, kupo!"
+54,"TEXT_SUBPST002_01483_LETTERMOOGLE_000_006","Mind you, a delivery moogle's task does not end with the handing over of a piece of parchment. No, the conscientious carrier lends <hex:02080DE905FF04>her<hex:FF04>his<hex:03> ear to the addressee, and sees the job through until <hex:02080DE905FF04>her<hex:FF04>his<hex:03> customer is happier for what has been received."
+55,"TEXT_SUBPST002_01483_LETTERMOOGLE_000_007","Being the accomplished─and eminently <hex:021A020203>visible<hex:021A020103>─adventurer that you are, I suspect that your clients will be even more eager to enlist your services than they would with an elusive moogle like myself. Consider this an honor and a privilege, kupo!"
+56,"TEXT_SUBPST002_01483_BADERON_000_010","Ah, now 'ere's a face what always warms me 'eart to see! Ever a shinin' example to all the would-be 'eroes and 'eroines in these 'alls. Mm? Ye've a letter for me, ye say?"
+57,"TEXT_SUBPST002_01483_BADERON_100_011","Would 'ave figured ye'd 'ave more pressing tasks on yer plate than playin' messenger <hex:02080EE905FF05>girl<hex:FF04>boy<hex:03>, but who am I to─what's this!? "
+58,"TEXT_SUBPST002_01483_BADERON_000_011","Ah, bugger me! Of all the times for <hex:021A020203>'im<hex:021A020103> to show up. 'Ate to burden ye, but I'd be much obliged if ye could 'elp me with a simple task."
+59,"TEXT_SUBPST002_01483_Q1_000_000","Offer Baderon your aid?"
+60,"TEXT_SUBPST002_01483_A1_000_001","Yes"
+61,"TEXT_SUBPST002_01483_A1_000_002","No"
+62,"TEXT_SUBPST002_01483_BADERON_000_012","I know yer a busy <hex:02080EE905FF05>lass<hex:FF04>lad<hex:03> these days, but the Navigator guided ye back through these doors for reason."
+63,"TEXT_SUBPST002_01483_BADERON_100_012","Look, I ask ye this 'cause I know I can trust ye─an' that's not somethin' I can say for just anyone. Come now, it's the least ye could do for ol' Baderon."
+64,"TEXT_SUBPST002_01483_BADERON_000_013","I knew I could count on ye! Aye, the moment I saw yer face, I knew the Navigator 'ad guided ye back 'ere for a reason."
+65,"TEXT_SUBPST002_01483_BADERON_000_014","The reason? To 'elp me settle the score with an ol' acquaintance o' mine. Aye, the man's worked up quite the bill, and it's past time for a reckonin'. Yer to find the bastard and bring 'im 'ere to ol' Baderon. I can trust ye with that, aye?"
+66,"TEXT_SUBPST002_01483_BADERON_000_015","Ye'll find him out in the middle o' La Noscea─a Roegadyn fellow of 'is imposin' stature and less-than-imposin' brains, like as not up to trouble o' some sort. Oh, an' speak with S'dhodjbi before ye set out─she's prepared the perfect welcome gift for my dear ol' mate."
+67,"TEXT_SUBPST002_01483_BADERON_000_019","Ye'll find him out in the middle o' La Noscea─a Roegadyn fellow of 'is imposin' stature and less-than-imposin' brains, like as not up to trouble o' some sort. Oh, an' speak with S'dhodjbi before ye set out─she's prepared the perfect welcome gift for my dear ol' mate."
+68,"TEXT_SUBPST002_01483_LETTERMOOGLE_000_018","What's this? Baderon has tasked you with escorting a potentially dangerous customer to town? How terribly exciting! While I would like nothing more than to join you, I fear my duties supervising scores of aspiring carriers keep me otherwise occupied, kupo!"
+69,"TEXT_SUBPST002_01483_LETTERMOOGLE_000_019","But never fear! I will remain right here, cheering you on as you take your life into your hands on what should prove to be an eminently rewarding mission, kupo! <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, <hex:020810E905FF06>she's<hex:FF05>he's<hex:03> the best! <hex:020812E905FF07>She'll<hex:FF06>He'll<hex:03> get Baderon out of this mess!"
+70,"TEXT_SUBPST002_01483_SDHODJBI_000_020","So you're the adventurer going out to greet our guest of honor, are you? Baderon hasn't told me much about the man, but his steely gaze speaks volumes."
+71,"TEXT_SUBPST002_01483_SDHODJBI_000_021","As you know, Baderon was an accomplished sellsword in his younger days. Made his share of friends, and more than his share of foes─and the latter are none too shy about bringing trouble onto the premises."
+72,"TEXT_SUBPST002_01483_SDHODJBI_000_023","A Roegadyn fellow in middle La Noscea, was it? Ah, but I'll pry no further. One thing I've learned in my time here is not to poke my nose in disputes that don't involve me."
+73,"TEXT_SUBPST002_01483_SDHODJBI_100_023","Here's the “gift” Baderon asked me to prepare. I trust that it will serve you well."
+74,"TEXT_SUBPST002_01483_SDHODJBI_000_025","A Roegadyn fellow in middle La Noscea, was it? Ah, but I'll pry no further. One thing I've learned in my time here is not to poke my nose in disputes that don't involve me."
+75,"TEXT_SUBPST002_01483_LETTERMOOGLE_000_025","What's this? Baderon has tasked you with escorting a potentially dangerous customer to town? How terribly exciting! While I would like nothing more than to join you, I fear my duties supervising scores of aspiring carriers keep me otherwise occupied, kupo!"
+76,"TEXT_SUBPST002_01483_LETTERMOOGLE_000_026","But never fear! I will remain right here, cheering you on as you take your life into your hands on what should prove to be an eminently rewarding mission, kupo! <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, <hex:020810E905FF06>she's<hex:FF05>he's<hex:03> the best! <hex:020812E905FF07>She'll<hex:FF06>He'll<hex:03> get Baderon out of this mess!"
+77,"TEXT_SUBPST002_01483_SHOUNIN_000_025","H-Have mercy! M-My wine is my livelihood..."
+78,"TEXT_SUBPST002_01483_TYLSWAEN_000_030","Quit yer cowerin'. I's ain't lookin' to─hic!─shteal nothin'. Jusht be wantin' a ship, that's all. A <hex:021A020203>biiiiiig<hex:021A020103> ship! Har har─hic!"
+79,"TEXT_SUBPST002_01483_SHOUNIN_000_031","An adventurer? Th-Thank the gods! This brute means to rob me of my livelihood! You must stop him!"
+80,"TEXT_SUBPST002_01483_SHOUNIN_000_035","An adventurer? Th-Thank the gods! This brute means to rob me of my livelihood! You must stop him!"
+81,"TEXT_SUBPST002_01483_POPMESSAGE_000_000",""
+82,"TEXT_SUBPST002_01483_TYLSWAEN_000_040","I don't know ye from a─hic!─goobbue's arshe, but if ye know what'sh good for ye, ye'll be─hic!─shteppin' out o' me way."
+83,"TEXT_SUBPST002_01483_TYLSWAEN_000_041","Alright, yer ashkin' for─<hex:02100103>Hurrrk... Hurrrggghhh...!"
+84,"TEXT_SUBPST002_01483_SHOUNIN_000_042","You're a godssend, friend. I tell you, that brute is a menace to honest merchants everywhere. You will find him and bring him to justice, yes?"
+85,"TEXT_SUBPST002_01483_SHOUNIN_000_045","You're a godssend, friend. I tell you, that brute is a menace to honest merchants everywhere. You will find him and bring him to justice, yes?"
+86,"TEXT_SUBPST002_01483_BADERON_000_045","Did ye find me ol' mate? Trust 'e didn't give ye any more trouble than ye can 'andle. Tell 'im that Baderon's got a pint of 'is favorite waitin' for 'im─but <hex:021A020203>only<hex:021A020103> a pint, mind ye."
+87,"TEXT_SUBPST002_01483_SDHODJBI_000_045","So that Roegadyn ruffian wasn't a foe from Baderon's past, but a <hex:021A020203>friend<hex:021A020103>? I suppose friends do come in all shapes and sizes..."
+88,"TEXT_SUBPST002_01483_LETTERMOOGLE_000_045","What's this? Baderon has tasked you with escorting a potentially dangerous customer to town? How terribly exciting! While I would like nothing more than to join you, I fear my duties supervising scores of aspiring carriers keep me otherwise occupied, kupo!"
+89,"TEXT_SUBPST002_01483_LETTERMOOGLE_000_046","But never fear! I will remain right here, cheering you on as you take your life into your hands on what should prove to be an eminently rewarding mission, kupo! <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, <hex:020810E905FF06>she's<hex:FF05>he's<hex:03> the best! <hex:020812E905FF07>She'll<hex:FF06>He'll<hex:03> get Baderon out of this mess!"
+90,"TEXT_SUBPST002_01483_TYLSWAEN_000_042","H-Have mercy, <hex:02080FE905FF06>woman<hex:FF04>man<hex:03>! I didn't mean the little man no harm. I jusht had a few too many...hurrrgh!"
+91,"TEXT_SUBPST002_01483_TYLSWAEN_000_043","An old foe of Baderon's? Ain't that rich! Har har har─hurrrk!"
+92,"TEXT_SUBPST002_01483_TYLSWAEN_000_044","I'm the best bloody mate the ol' bastard's ever known, whether or not he's willin' to admit it."
+93,"TEXT_SUBPST002_01483_TYLSWAEN_000_050","Name's Tylswaen, a sellsword of some repute meself─though more for me prowess with a flagon of ale than the spear at me back. Har har har!"
+94,"TEXT_SUBPST002_01483_TYLSWAEN_000_051","No, ye'll not see me blamin' Baderon─nor you, o' course─for the soggy welcome. I daresay I earned it on me last trip to the Wench."
+95,"TEXT_SUBPST002_01483_TYLSWAEN_000_052","As a matter o' fact, I've even brought Baderon a small token of apology. Jus' me own way of sayin' sorry for all the trouble I've stirred up at─"
+96,"TEXT_SUBPST002_01483_TYLSWAEN_100_052","Well, bugger me to the seventh hell and back again! I left the bloody bag back at...Mummersford Arms, was it? Forgive me, <hex:02080EE905FF05>lass<hex:FF04>lad<hex:03>. My memory's still a bit hazy..."
+97,"TEXT_SUBPST002_01483_TYLSWAEN_000_053","I'd go back and search meself but, in addition to not knowin' quite where I came from, I'm still feelin' a touch─hurrrk!─queasy."
+98,"TEXT_SUBPST002_01483_TYLSWAEN_000_054","Be a good <hex:02080EE905FF05>lass<hex:FF04>lad<hex:03> and retrace my steps for me, will ye? With any luck, the fellow there─damned if I can remember his name─is keepin' me belongings safe and sound."
+99,"TEXT_SUBPST002_01483_TYLSWAEN_000_059","Be a good <hex:02080EE905FF05>lass<hex:FF04>lad<hex:03> and retrace my steps for me, will ye? With any luck, the fellow at Mummersford Arms is keepin' me belongings safe and sound."
+100,"TEXT_SUBPST002_01483_STAELWYRN_000_060","Lo, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303>! Quite the busy <hex:02080EE905FF05>lass<hex:FF04>lad<hex:03> these days, if the tales I hear are true. A meal, a respite from the road─name it and it's yours."
+101,"TEXT_SUBPST002_01483_STAELWYRN_000_061","Lo, stranger. What brings an impressive-looking young <hex:02080EE905FF05>lass<hex:FF04>lad<hex:03> like yourself to my humble orchards?"
+102,"TEXT_SUBPST002_01483_STAELWYRN_000_062","That bloody drunkard? 'Course I remember him. How could I not? Left his mark all over the bedding and floor─and this after I went out of my way to furnish his room with a proper spittin' box."
+103,"TEXT_SUBPST002_01483_STAELWYRN_000_063","His <hex:021A020203>belongin's<hex:021A020103>? I had my hands plenty full cleanin' up his foul spew. If he left anythin' else behind, like as not it's still there. You're more than welcome to explore, though I'd suggest you watch your step and hold your nose─particularly if you've just eaten."
+104,"TEXT_SUBPST002_01483_STAELWYRN_000_064","His <hex:021A020203>belongin's<hex:021A020103>? I had my hands plenty full cleanin' up his foul spew. If he left anythin' else behind, like as not it's still there. You're more than welcome to explore, though I'd suggest you watch your step and hold your nose─particularly if you've just eaten."
+105,"TEXT_SUBPST002_01483_STAELWYRN_000_065","Found what you were lookin' for? Pleased to hear it, especially if it means I'll be spared a reunion with the stinkin' sop."
+106,"TEXT_SUBPST002_01483_TYLSWAEN_000_070","Back, are ye? Did ye happen upon me belongings, mayhap? Jus' a small satchel, nothin' too─hurk─fancy..."
+107,"TEXT_SUBPST002_01483_TYLSWAEN_000_071","Bloody brilliant! Aye, from the moment you doused me with that─hic!─wet stuff, I knew I'd made meself a friend."
+108,"TEXT_SUBPST002_01483_TYLSWAEN_000_072","Don't know about you, but after all me troubles today I've worked up quite a thirst. What say ye join me at the Wench? First pint's on Baderon! Har har!"
+109,"TEXT_SUBPST002_01483_LETTERMOOGLE_000_080","What's this? Baderon has tasked you with escorting a potentially dangerous customer to town? How terribly exciting! While I would like nothing more than to join you, I fear my duties supervising scores of aspiring carriers keep me otherwise occupied, kupo!"
+110,"TEXT_SUBPST002_01483_LETTERMOOGLE_000_081","But never fear! I will remain right here, cheering you on as you take your life into your hands on what should prove to be an eminently rewarding mission, kupo! <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, <hex:020810E905FF06>she's<hex:FF05>he's<hex:03> the best! <hex:020812E905FF07>She'll<hex:FF06>He'll<hex:03> get Baderon out of this mess!"
+111,"TEXT_SUBPST002_01483_TYLSWAEN_000_080","Well, if it ishn't what'sh-yer-faysh from wherever-it-wash! Pull up a chair and don't be a shtranger. Baderon! A cold one for the <hex:02081DE905FF0A>fine lass<hex:FF0E>strappin' lad<hex:03>!"
+112,"TEXT_SUBPST002_01483_SDHODJBI_000_080","So that's the fellow who was the source of all the commotion? A bit loud, but I've seen worse. After all, he's on his eighth pint or so and nobody's lost an arm yet."
+113,"TEXT_SUBPST002_01483_BADERON_000_080","Ah, welcome back, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Ye've my apologies for gettin' ye mixed up in the dealin's of a couple of ol' sellswords. 'Ave a pint of me finest. And regardless o' what 'e might've told ye, Tylswaen's payin' for all comers tonight─includin' yers truly!"
+114,"TEXT_SUBPST002_01483_TYLSWAEN_000_081","Ye've not changed a whit, Baderon. Shtill a thanklesh bloody bashtard! Har har─hurk!"
+115,"TEXT_SUBPST002_01483_BADERON_000_082","Thankless? <hex:021A020203>Me<hex:021A020103>!? Says the insufferable sot who won't be content till 'e drinks 'is so-called best mate out of 'ouse and 'ome. Mark my words, Tylswaen: if ye <hex:021A020203>conveniently<hex:021A020103> forget to pay yer tab this time, I'll 'unt ye to the seventh 'ell!"
+116,"TEXT_SUBPST002_01483_SDHODJBI_000_083","Baderon acts all tough, but trust me─just a moment ago he was going on about how happy he was to hear you were safe. Here, this one's on the house. I hear it's your favorite."
+117,"TEXT_SUBPST002_01483_TYLSWAEN_000_084","Gwahahaha─hurk! Ye needn't worry, lash. Ol' Tylshwaen and yer mashter go way back. Gone soft, if ye ashk me. Why, back in our day, ye couldn't call yershelf friend to Baderon till he'd drawn shteel on ye at leasht twice..."
+118,"TEXT_SUBPST002_01483_SDHODJBI_000_085","Then I shall consider myself fortunate that we only became acquainted more recently. But do tell, good sir, what is the story behind those coins? The remnants of some hidden treasure, mayhap?"
+119,"TEXT_SUBPST002_01483_TYLSWAEN_000_086","Treashure...? Har har! You an' I both wish, lasshie... No, I fear it'sh little more'n a memento of daysh long past and none too well remembered."
+120,"TEXT_SUBPST002_01483_TYLSWAEN_000_087","Back when Baderon and meshelf were shtill wet behind the earsh, a grizzled ol' veteran─least he looked grizzled to a couple o' young pups like us─took a likin' to us. Took us under 'is wing, as it were. It was a kindness, in days when kindness was 'ard to come by."
+121,"TEXT_SUBPST002_01483_TYLSWAEN_000_088","Carried with 'im these here coinsh, he did. See the face o' the Shpinner? Said 'Er fair gaze watchin' over 'im was what kept 'im livin' where all 'is old matesh had a tendency to end up dead...or worshe─hic!"
+122,"TEXT_SUBPST002_01483_TYLSWAEN_000_089","Chanced upon 'im a fortnight ago─on 'is deathbed, the poor bastard. Said 'e'd lived a good life, but 'is luck 'ad finally run its course. Didn't 'ave much to leave behind, save for 'is lucky coins─coins he wanted to leave to a couple o' not-so-young pups, that they might enjoy a life as long as 'is..."
+123,"TEXT_SUBPST002_01483_SDHODJBI_000_090","A touching tale, indeed! Now perhaps you can answer a long-held question of mine, good sir. Whyever would a sellsword as renowned as Baderon forsake his blade for the life of a glorified barkeep?"
+124,"TEXT_SUBPST002_01483_TYLSWAEN_000_091","Ye've not 'eard the─hic─shtory? Mind ye, a detail or two might have shlipped from me memory, but I'll give 'er a try."
+125,"TEXT_SUBPST002_01483_TYLSWAEN_000_092","'Twas twenty yearsh ago, or thereabouts. With the realm finally at peace─or something reshemblin' it─a great mercenary captain had a plan. This man─aye, a livin' legend if ever there was one─brought all the shellswordsh who were itchin' for a new fight under one roof."
+126,"TEXT_SUBPST002_01483_TYLSWAEN_000_093","So it was that the Adventurersh' Guild was─hic!─born, and there were no shortage of eager applicants. Aye, everyone 'n' their uncle was lookin' to be an adventurer. Save for one young boy─the son o' the very man what founded it.<hex:02100103>This boy wanted only one thing─to follow in his father's footsteps and make his name as the greatest sellsword who ever walked the realm."
+127,"TEXT_SUBPST002_01483_TYLSWAEN_000_094","Did the boy give up 'is dream? Did he reckon 'e'd already achieved it? Can't say for sure, lasshie, only that the boy is now a man, and the man standsh behind the counter at the Adventurersh' Guild, dispensin' advice to young glory-seekers like <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> here, and ale to ol' drunkards like meself."
+128,"TEXT_SUBPST002_01483_SDHODJBI_000_095","Is this true...!? Why, that would mean Baderon's father is none other than...!"
+129,"TEXT_SUBPST002_01483_BADERON_000_096","S'dhodjbi! I pay ye to wipe the tables, not wag your bloody tongue! Now get back to work before I throw ye back out in the gutter where I found ye!"
+130,"TEXT_SUBPST002_01483_SDHODJBI_000_097","<sigh> And just when things were starting to get interesting..."
+131,"TEXT_SUBPST002_01483_TYLSWAEN_000_098","And with that, Baderon, I'd besht be on me way. Spend any more time 'round that lovely lass and this lonely ol' sellsword is like to get─hic!─jealoush. Besides, if I empty yer casks today, what will I drink on me next visit? Har har har!"
+132,"TEXT_SUBPST002_01483_BADERON_000_099","Aye, walk away while yer legs still hold ye, ye blunderin' oaf! An' come back any time for a pint o' me finest─I'll see it dumped right over yer fat 'ead!"
+133,"TEXT_SUBPST002_01483_BADERON_000_100","No bones broken, and only two o' my tables covered in spew...not a bad day, by my reckonin'. Drunken bastard that 'e is, Tylswaen's a friend─a friend I'd not 'ave reunited with were it not for yer timely delivery. Yer next ale is on the 'ouse."
+134,"TEXT_SUBPST002_01483_SDHODJBI_000_100","When that man first came crashing in here, I feared for my life. Turns out I'm still in one piece, and picked up a few tales about Baderon to boot. I eagerly await any future deliveries, friend."
+135,"TEXT_SUBPST002_01483_LETTERMOOGLE_000_100","If it isn't my dutiful assistant! I trust you fared well on your first assignment? Do tell me all about it, kupo!"
+136,"TEXT_SUBPST002_01483_LETTERMOOGLE_000_101","Why, you don't say! Baderon has never been an easy customer to please─why, he nigh pulled out my whiskers that time I dropped a letter in a flagon of ale!─but it sounds like you've made a fabulous first impression."
+137,"TEXT_SUBPST002_01483_LETTERMOOGLE_000_102","As your senior, I couldn't be more pleased with your effort...and with myself, for having discovered such a talented new recruit, kupo!"
+138,"TEXT_SUBPST002_01483_LETTERMOOGLE_000_103","But this is no time to rest on your laurels, oh no! For each day brings new letters, and the deliveries that await will take you even further afield. I daresay you might encounter clients who will make old Baderon look like a cuddly chocobo."
+139,"TEXT_SUBPST002_01483_LETTERMOOGLE_000_104","But it's all in a day's work for my able assistant, yes? When you're looking for your next assignment, you know where to find me, kupo!"
+140,"TEXT_SUBPST002_01483_SYSTEM_000_000","With your successful delivery, your reputation as a letter carrier has grown!"

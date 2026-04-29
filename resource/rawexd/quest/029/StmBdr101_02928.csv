@@ -2,205 +2,205 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_STMBDR101_02928_SEQ_00,神拳痕的魏吉有些不知所措。
-1,TEXT_STMBDR101_02928_SEQ_01,接受了魏吉的委託，協助加隆德煉鐵廠探尋歐米茄的消息。和神拳痕的比格斯談談。
-2,TEXT_STMBDR101_02928_SEQ_02,和比格斯進行了交談，制止了西德與尼祿的爭吵。歐米茄的潛伏地似乎發生了變化。和基拉巴尼亞邊區呵欠洞的西德談談。
-3,TEXT_STMBDR101_02928_SEQ_03,正當與西德等人觀察呵欠洞時，突然有東西從裡面飛了出來。和呵欠洞的陸行鳥？談談。
-4,TEXT_STMBDR101_02928_SEQ_04,塵世幻龍詢問後得知，像陸行鳥一樣的生物是從呵欠洞裡來的。和呵欠洞的西德談談。
-5,TEXT_STMBDR101_02928_SEQ_05,和西德進行了交談，進入了時空狹縫。歐米茄提出讓眾人參加檢測。要想正式參加，就必須要前往德爾塔幻境。向著時空狹縫的深處前進。<hex:02100103>若是離開了時空狹縫，呵欠洞的加隆德煉鐵廠調查員會帶領冒險者前往時空狹縫。
-6,TEXT_STMBDR101_02928_SEQ_06,到達了德爾塔幻境，正式作為阿爾法的同伴參加檢測。和時空狹縫的西德談談。
-7,TEXT_STMBDR101_02928_SEQ_07,和西德進行了交談。正式開始調查歐米茄時空狹縫。
-8,TEXT_STMBDR101_02928_SEQ_08,
-9,TEXT_STMBDR101_02928_SEQ_09,
-10,TEXT_STMBDR101_02928_SEQ_10,
-11,TEXT_STMBDR101_02928_SEQ_11,
-12,TEXT_STMBDR101_02928_SEQ_12,
-13,TEXT_STMBDR101_02928_SEQ_13,
-14,TEXT_STMBDR101_02928_SEQ_14,
-15,TEXT_STMBDR101_02928_SEQ_15,
-16,TEXT_STMBDR101_02928_SEQ_16,
-17,TEXT_STMBDR101_02928_SEQ_17,
-18,TEXT_STMBDR101_02928_SEQ_18,
-19,TEXT_STMBDR101_02928_SEQ_19,
-20,TEXT_STMBDR101_02928_SEQ_20,
-21,TEXT_STMBDR101_02928_SEQ_21,
-22,TEXT_STMBDR101_02928_SEQ_22,
-23,TEXT_STMBDR101_02928_SEQ_23,
-24,TEXT_STMBDR101_02928_TODO_00,和比格斯對話
-25,TEXT_STMBDR101_02928_TODO_01,和呵欠洞的西德對話
-26,TEXT_STMBDR101_02928_TODO_02,和陸行鳥？對話
-27,TEXT_STMBDR101_02928_TODO_03,和西德對話
-28,TEXT_STMBDR101_02928_TODO_04,和西德對話
-29,TEXT_STMBDR101_02928_TODO_05,再次和西德對話
-30,TEXT_STMBDR101_02928_TODO_06,
-31,TEXT_STMBDR101_02928_TODO_07,
-32,TEXT_STMBDR101_02928_TODO_08,
-33,TEXT_STMBDR101_02928_TODO_09,
-34,TEXT_STMBDR101_02928_TODO_10,
-35,TEXT_STMBDR101_02928_TODO_11,
-36,TEXT_STMBDR101_02928_TODO_12,
-37,TEXT_STMBDR101_02928_TODO_13,
-38,TEXT_STMBDR101_02928_TODO_14,
-39,TEXT_STMBDR101_02928_TODO_15,
-40,TEXT_STMBDR101_02928_TODO_16,
-41,TEXT_STMBDR101_02928_TODO_17,
-42,TEXT_STMBDR101_02928_TODO_18,
-43,TEXT_STMBDR101_02928_TODO_19,
-44,TEXT_STMBDR101_02928_TODO_20,
-45,TEXT_STMBDR101_02928_TODO_21,
-46,TEXT_STMBDR101_02928_TODO_22,
-47,TEXT_STMBDR101_02928_TODO_23,
-48,TEXT_STMBDR101_02928_BIGGS_000_000,喲，這不是<hex:022903EB0203>嘛！<hex:02100103>可真是有緣啊。
-49,TEXT_STMBDR101_02928_WEDGE_000_010,啊！既然你來了，就請發發善心，<hex:02100103>幫我個忙吧，求求你了！
-50,TEXT_STMBDR101_02928_WEDGE_000_011,我們加隆德煉鐵廠在這神拳痕開了分公司，<hex:02100103>正在搜索消失的歐米茄……
-51,TEXT_STMBDR101_02928_WEDGE_000_012,你還記得嗎？神龍和歐米茄的那場大戰，<hex:02100103>最後就閃過了一道光，根本沒能看清結果。
-52,TEXT_STMBDR101_02928_WEDGE_000_013,神龍倒是被帝國軍抓回去了……<hex:02100103>我們在佔領的帝國基地裡獲得了情報，從中得知，<hex:02100103>神龍在找到時就已經被拘束住了。
-53,TEXT_STMBDR101_02928_WEDGE_000_014,能夠辦得到這種事的<hex:02100103>也只有抓到過巴哈姆特的歐米茄了！<hex:02100103>況且拘束具能夠正常運轉，也說明了歐米茄本體還在運作！
-54,TEXT_STMBDR101_02928_WEDGE_000_015,……因此我們開始尋找歐米茄的去向，<hex:02100103>卻在這裡遇到了大麻煩……<hex:02100103><hex:022903EB0203>，請你來分公司幫幫我們吧！
-55,TEXT_STMBDR101_02928_CID_000_020,胡扯！鬼才相信你！
-56,TEXT_STMBDR101_02928_NERO_000_025,你火氣別那麼大嘛，會長。
-57,TEXT_STMBDR101_02928_WEDGE_000_030,又開始了……
-58,TEXT_STMBDR101_02928_JESSIE_000_035,哎，好不容易聘來了個超高能力的新人，<hex:02100103>結果反而降低了工作效率……
-59,TEXT_STMBDR101_02928_BIGGS_000_040,……嚇到你了吧？<hex:02100103>最近加入我們的超高能力的新人，就是尼祿。
-60,TEXT_STMBDR101_02928_CID_000_041,煩死了，要我說多少次才夠！<hex:02100103>尼祿，不許你參加歐米茄的調查。
-61,TEXT_STMBDR101_02928_CID_000_042,本來為了對抗神龍啟動歐米茄，這個計劃就很可疑。<hex:02100103>完全就是你想研究歐米茄而已吧！
-62,TEXT_STMBDR101_02928_CID_000_043,那次是情勢所需才同意你啟動的……<hex:02100103>但現在我不允許你再接近歐米茄了！
-63,TEXT_STMBDR101_02928_NERO_000_044,喂，加隆德，<hex:02100103>哪有像你這樣不由分說上來就批評員工的上司啊……
-64,TEXT_STMBDR101_02928_NERO_000_045,我可是你們的新人喲？<hex:02100103>而且我還是越誇越有長進的類型！
-65,TEXT_STMBDR101_02928_CID_000_046,哪有你這麼不要臉的新人啊？！
-66,TEXT_STMBDR101_02928_CID_000_047,傑西！<hex:02100103>馬上把這傢伙解僱了！<hex:02100103>不許他再邁進我們廠的大門……永遠不許！
-67,TEXT_STMBDR101_02928_JESSIE_000_048,啊？可契約金都付了，<hex:02100103>他說從這次會長要領的薪水裡抽出八成給他就行，<hex:02100103>我想想簡直划算，就直接給了。
-68,TEXT_STMBDR101_02928_JESSIE_000_049,拋開來頭，<hex:02100103>他可是古代技術研究第一人，<hex:02100103>就先讓他工作試試嘛？
-69,TEXT_STMBDR101_02928_CID_000_050,奇怪，太奇怪了……<hex:02100103>這個公司還有沒有王法？！
-70,TEXT_STMBDR101_02928_BIGGS_100_050,……總之，他們就是一直在因為這種事耽誤時間，<hex:02100103>我們也不能擅自開始調查，<hex:02100103>真是很困擾。
-71,TEXT_STMBDR101_02928_Q1_000_051,怎麼辦？
-72,TEXT_STMBDR101_02928_A1_000_052,……別管他們，開始調查吧。
-73,TEXT_STMBDR101_02928_A1_000_053,那我先失陪了。
-74,TEXT_STMBDR101_02928_NERO_000_054,那邊的冒險者，搶跑可不是什麼好習慣喲，<hex:02100103>不過有幹勁倒是件好事。
-75,TEXT_STMBDR101_02928_NERO_000_055,好吧，就任命你為我的監督吧。<hex:02100103>有大英雄盯著，我也不能幹壞事了，<hex:02100103>這樣一來那個老頑固會長也能同意我同行去調查了。
-76,TEXT_STMBDR101_02928_NERO_000_056,等等，別就這麼跑了啊。<hex:02100103>很遺憾，歐米茄啟動的時候你也在場……<hex:02100103>你也是有連帶責任的。
-77,TEXT_STMBDR101_02928_NERO_000_057,所以就任命你為我的監督吧。<hex:02100103>有大英雄盯著，我也不能幹壞事了，<hex:02100103>這樣一來那個老頑固會長也能同意我同行去調查了。
-78,TEXT_STMBDR101_02928_CID_000_058,<hex:022903EB0203>，你來了啊……<hex:02100103>把你也捲進來真的很抱歉，不過先不說監視尼祿的事，<hex:02100103>你要是能協助調查，也給我們打了一劑強心劑。
-79,TEXT_STMBDR101_02928_CID_000_059,歐米茄的力量無法估量……<hex:02100103>儘管在神龍戰中受到了損傷，<hex:02100103>但也不是我們幾個技師就能擺平的。
-80,TEXT_STMBDR101_02928_CID_000_060,就現狀來說，我們已經找到了幾處它可能潛伏的地點，<hex:02100103>沒有冒險者的協助，估計我們無法繼續調查。<hex:02100103>……你能幫助我們嗎？
-81,TEXT_STMBDR101_02928_NERO_000_061,……那就這麼定了！
-82,TEXT_STMBDR101_02928_STAFF02928_000_062,會、會長，緊急情況！<hex:02100103>目標之一呵欠洞的乙太濃度急劇上升！<hex:02100103>感覺情況很不妙……
-83,TEXT_STMBDR101_02928_CID_000_063,什麼？！<hex:02100103>難道說是和歐米茄有關……
-84,TEXT_STMBDR101_02928_CID_000_064,總之先讓現場的調查員撤退。<hex:02100103>今後的調查就由我們直接接手。
-85,TEXT_STMBDR101_02928_CID_000_065,比格斯、魏吉、<hex:022903EB0203>，<hex:02100103>和我一起去歐米茄最有可能潛伏的地點，<hex:02100103>對等石的呵欠洞。
-86,TEXT_STMBDR101_02928_CID_000_066,傑西留在這裡指揮員工們，<hex:02100103>盡量在安全的位置進行觀測。
-87,TEXT_STMBDR101_02928_JESSIE_000_067,了解。<hex:02100103>會長，大伙，一路小心……
-88,TEXT_STMBDR101_02928_NERO_000_068,……不讓我去啊？
-89,TEXT_STMBDR101_02928_CID_000_069,我們公司的社訓是技術是為了自由而存在。<hex:02100103>……如果你自認為是我們的員工，就要嚴守社訓。
-90,TEXT_STMBDR101_02928_JESSIE_000_070,其他的員工就交給我吧。<hex:02100103>請你幫忙照顧好會長他們。
-91,TEXT_STMBDR101_02928_NERO_000_075,快看，這下有意思了！
-92,TEXT_STMBDR101_02928_BIGGS_000_080,這是……太驚人了……
-93,TEXT_STMBDR101_02928_WEDGE_000_085,剛才這裡還只是個洞穴，<hex:02100103>怎麼會突然變成這樣？！
-94,TEXT_STMBDR101_02928_CID_000_100,到底發生了什麼……
-95,TEXT_STMBDR101_02928_NERO_000_101,看起來像是紅色的水……<hex:02100103>實際上是濃度高到可見程度的乙太。<hex:02100103>這也是小歐米茄造成的影響嗎？
-96,TEXT_STMBDR101_02928_MIDGARDSORMR_000_102,(-？？？？-)哼……<hex:02100103>我說從剛才開始就有一股熟悉的味道……
-97,TEXT_STMBDR101_02928_MIDGARDSORMR_000_103,我的子孫與人類的戰爭結束後，<hex:02100103>我也漸漸陷入了沉睡……<hex:02100103>這股醜惡的味道又把我喚醒了。
-98,TEXT_STMBDR101_02928_MIDGARDSORMR_000_104,人類之子啊，你最好多加小心。<hex:02100103>歐米茄確實就在洞內。
-99,TEXT_STMBDR101_02928_MIDGARDSORMR_000_105,沒什麼可驚訝的，<hex:02100103>我與它的孽緣從很久以前的那顆遙遠的行星上就開始了。
-100,TEXT_STMBDR101_02928_WEDGE_000_106,有、有什麼東西出來了！！
-101,TEXT_STMBDR101_02928_BIGGS_000_107,老大！快逃！！
-102,TEXT_STMBDR101_02928_BIGGS_000_108,……咦？沒被吃掉？<hex:02100103>到、到底是怎麼回事？！
-103,TEXT_STMBDR101_02928_CID_000_109,從身體裡穿過去了……<hex:02100103>簡直像是幻影一樣！
-104,TEXT_STMBDR101_02928_MIDGARDSORMR_000_110,……哼，<hex:02100103>那是歐米茄創造出來的產物。
-105,TEXT_STMBDR101_02928_MIDGARDSORMR_000_111,歐米茄是這顆行星尚未觸及的文明製造出的兵器，<hex:02100103>它能夠干涉乙太，<hex:02100103>隨心所欲地創造出生命……
-106,TEXT_STMBDR101_02928_MIDGARDSORMR_000_112,剛剛那個是尚未創造完成就現身於物質界的半成品，<hex:02100103>但總有一天會成為你們的威脅。
-107,TEXT_STMBDR101_02928_BIGGS_000_113,看來它回去了啊……
-108,TEXT_STMBDR101_02928_NERO_000_114,但還有一位沒回去呢。
-109,TEXT_STMBDR101_02928_ALPHA_000_115,(-？？？？-)……咕哎？
-110,TEXT_STMBDR101_02928_WEDGE_000_116,黃色的羽毛……大大的嘴……<hex:02100103>還有這叫聲……
-111,TEXT_STMBDR101_02928_WEDGE_000_117,這難道是……陸行鳥？
-112,TEXT_STMBDR101_02928_CID_000_120,這到底是……<hex:02100103>看起來倒是人畜無害……
-113,TEXT_STMBDR101_02928_NERO_000_125,真是有意思。<hex:02100103>不如解剖了看看吧？
-114,TEXT_STMBDR101_02928_BIGGS_000_130,陸行鳥……真的是陸行鳥嗎？<hex:02100103>我看更像個玩偶……
-115,TEXT_STMBDR101_02928_WEDGE_000_135,它剛才咕哎咕哎地叫了！<hex:02100103>因此肯定是陸行鳥！
-116,TEXT_STMBDR101_02928_ALPHA_000_140,……咕哎？
-117,TEXT_STMBDR101_02928_BIGGS_000_141,嗯……<hex:02100103>這叫聲的確是像陸行鳥……<hex:02100103>但在我看來就像個玩偶。
-118,TEXT_STMBDR101_02928_WEDGE_000_142,不可能，絕對是陸行鳥！<hex:02100103>拉拉菲爾族騎的陸行鳥就差不多這麼大！
-119,TEXT_STMBDR101_02928_BIGGS_000_143,是、是嗎？<hex:02100103>算了，也想不出個別的名字，就先當它是陸行鳥吧。
-120,TEXT_STMBDR101_02928_MIDGARDSORMR_000_144,用你的超越之力也無法與其溝通嗎？<hex:02100103>那看來……
-121,TEXT_STMBDR101_02928_MIDGARDSORMR_000_145,罷了，既然是與歐米茄有關，<hex:02100103>就由我親自來與其對話吧。
-122,TEXT_STMBDR101_02928_CID_000_146,……<hex:022903EB0203>，那隻小龍是什麼來頭啊？<hex:02100103>聽起來它和歐米茄是老相識？
-123,TEXT_STMBDR101_02928_CID_000_147,什麼？它竟然是塵世幻龍的分身？<hex:02100103>那個在銀淚湖和飛空戰艦阿格里俄斯號匹敵的塵世幻龍？！
-124,TEXT_STMBDR101_02928_NERO_000_148,真不愧是絕世的冒險者，總能帶來一些罕見的小夥伴。<hex:02100103>不過，它要真的是塵世幻龍，<hex:02100103>那可會是個有意思的情報提供者啊。
-125,TEXT_STMBDR101_02928_NERO_000_0149,畢竟沒有什麼人知曉歐米茄的事，<hex:02100103>其名字最早是出現在第三星曆中期的記錄中……<hex:02100103>也就是古代亞拉戈帝國統治的黃金時期之前。
-126,TEXT_STMBDR101_02928_NERO_000_150,而且關於它的記錄只有簡簡單單的一句話——「歐米茄成功啟動」。<hex:02100103>以此為分水嶺，亞拉戈帝國的魔科學取得了飛速的發展，<hex:02100103>但直至捕獲蠻神巴哈姆特前，都沒有更詳細的記載。
-127,TEXT_STMBDR101_02928_NERO_000_151,簡直就是充滿疑團的遺失科技。<hex:02100103>不過我倒是相信歐米茄是亞拉戈帝國的產物。
-128,TEXT_STMBDR101_02928_CID_000_152,……我沒有聽錯的話，剛剛塵世幻龍說<hex:02100103>歐米茄是這顆行星尚未觸及的文明製造出的兵器？
-129,TEXT_STMBDR101_02928_MIDGARDSORMR_000_153,關於此事現在還不必深究。<hex:02100103>你們只要謹記它是來自遠方的威脅即可……
-130,TEXT_STMBDR101_02928_MIDGARDSORMR_000_154,……我已問過這邊這位了，<hex:02100103>它說，此洞穴深處有著特殊的空間，它也不知自己為何在那裡，<hex:02100103>也不記得來這裡之前的事。
-131,TEXT_STMBDR101_02928_MIDGARDSORMR_000_155,糊裡糊塗就被命令和敵人戰鬥，<hex:02100103>它無法獨自抵擋，逃著逃著就來到了這裡……
-132,TEXT_STMBDR101_02928_BIGGS_000_156,被命令……<hex:02100103>洞穴深處是歐米茄的藏身地吧？<hex:02100103>也就是說它在預謀著什麼嘍？
-133,TEXT_STMBDR101_02928_MIDGARDSORMR_000_157,沒錯……<hex:02100103>剛才我也說過，歐米茄能夠自由操縱乙太，<hex:02100103>孕育出類生命體……
-134,TEXT_STMBDR101_02928_MIDGARDSORMR_000_158,從剛才的追兵來看，<hex:02100103>應該是歐米茄讓其與未完成的生命體戰鬥，測試其能力吧。<hex:02100103>……其他的就要靠你們自己去親眼確認了。
-135,TEXT_STMBDR101_02928_WEDGE_000_159,……親、親眼確認，<hex:02100103>難道是讓我們進洞裡？
-136,TEXT_STMBDR101_02928_MIDGARDSORMR_000_160,那洞穴現已化作連接異界的大門，<hex:02100103>不必害怕，它會帶領你們前往。
-137,TEXT_STMBDR101_02928_MIDGARDSORMR_000_161,海德林的使徒啊……<hex:02100103>我與歐米茄有著不解孽緣，<hex:02100103>必要之時就讓我來助你們一臂之力吧。
-138,TEXT_STMBDR101_02928_WEDGE_000_162,那個……陸行鳥？<hex:02100103>能帶我們去洞內嗎？
-139,TEXT_STMBDR101_02928_ALPHA_000_163,咕哎，咕哎！！
-140,TEXT_STMBDR101_02928_ALPHA_000_170,咕哎！
-141,TEXT_STMBDR101_02928_NERO_000_175,呵呵呵，越來越有趣了！
-142,TEXT_STMBDR101_02928_BIGGS_000_180,要跳進這個大洞……真是太瘋狂了！
-143,TEXT_STMBDR101_02928_WEDGE_000_185,就這麼進去真的沒問題嗎？！<hex:02100103>我可不會游泳！
-144,TEXT_STMBDR101_02928_CID_000_189,沒想到事情會發展成這樣……<hex:02100103>既然幻龍都發話了，我們也不能放任這個大洞不管。<hex:02100103>只得繼續調查下去了。
-145,TEXT_STMBDR101_02928_CID_000_190,傑西那邊我已經用通訊珠聯繫她了，<hex:02100103>畢竟不知道在洞裡會發生些什麼……<hex:02100103>我準備讓其他的員工在外待機，我們先進去。
-146,TEXT_STMBDR101_02928_CID_000_191,雖然不知道裡面的歐米茄是個什麼狀態，<hex:02100103>但你最好還是做好戰鬥的準備。<hex:02100103>……準備好了嗎？
-147,TEXT_STMBDR101_02928_CID_000_192,那我們上吧！<hex:02100103>跳入大洞，調查歐米茄的潛伏地點！
-148,TEXT_STMBDR101_02928_WEDGE_000_200,這、這是哪裡？！<hex:02100103>我們不是跳進洞裡了嗎？
-149,TEXT_STMBDR101_02928_BIGGS_000_201,身體變透明了！<hex:02100103>到底發生了什麼？
-150,TEXT_STMBDR101_02928_OMEGA_000_202,(-？？？？-)歡迎回來，阿爾法。<hex:02100103>還有歡迎你們，人類的朋友。
-151,TEXT_STMBDR101_02928_OMEGA_000_203,歡迎……我一直盼望著你們的到來。<hex:02100103>介紹……我名為歐米茄，<hex:02100103>通過終端等級檢測儀與你們進行通訊。
-152,TEXT_STMBDR101_02928_OMEGA_000_204,這裡是時空狹縫，是我的領域。<hex:02100103>現在這裡正在進行一項重大的檢測活動。
-153,TEXT_STMBDR101_02928_OMEGA_000_205,請你們也速速參加。<hex:02100103>沙沙……要參加嗎？<hex:02100103>沙沙沙……要參加嗎？
-154,TEXT_STMBDR101_02928_CID_000_206,檢測？<hex:02100103>都不知道目的是什麼，讓人怎麼參加……
-155,TEXT_STMBDR101_02928_WEDGE_000_207,哇？！<hex:02100103>身體越來越透明了！
-156,TEXT_STMBDR101_02928_OMEGA_000_208,速速，參加。<hex:02100103>如不參加，則不被承認存在。<hex:02100103>再次重覆，參加，參加……
-157,TEXT_STMBDR101_02928_NERO_000_209,喂，這下不好辦了……<hex:02100103>在這個空間裡，沒有歐米茄的許可是無法存在的。
-158,TEXT_STMBDR101_02928_NERO_000_210,實力相差太多了！<hex:02100103>再磨蹭下去真的要被抹殺了！
-159,TEXT_STMBDR101_02928_Q3_000_211,如何作答？
-160,TEXT_STMBDR101_02928_A3_000_212,參加就參加！
-161,TEXT_STMBDR101_02928_A3_000_213,陸行鳥，有什麼辦法嗎？
-162,TEXT_STMBDR101_02928_OMEGA_000_214,承諾……確認參加意願。<hex:02100103>暫時將他們分入阿爾法組。
-163,TEXT_STMBDR101_02928_CID_000_215,那是什麼？<hex:02100103>塔？不，是一個卵……
-164,TEXT_STMBDR101_02928_OMEGA_000_216,歡迎來到時空狹縫的大廳。<hex:02100103>為了篩選出最強者，<hex:02100103>我在這裡進行實戰檢測。
-165,TEXT_STMBDR101_02928_OMEGA_000_217,對象……是我選擇、再現的89個類生命體。<hex:02100103>我根據它們棲息的時空劃分出一個個被檢測組，<hex:02100103>並依據預估戰鬥力匹配各組進行戰鬥，以此評判強弱。
-166,TEXT_STMBDR101_02928_OMEGA_000_218,被你們當成陸行鳥的那個個體……<hex:02100103>也就是阿爾法，也是被檢測體。<hex:02100103>我已將你們加入阿爾法的小組。
-167,TEXT_STMBDR101_02928_OMEGA_000_219,現在你們還是臨時參加狀態，<hex:02100103>為判斷你們是否有正式參加的權利，<hex:02100103>需要調查你們的戰鬥能力。
-168,TEXT_STMBDR101_02928_CID_000_220,調查戰鬥力……<hex:02100103>也就是讓我們戰鬥嗎？
-169,TEXT_STMBDR101_02928_OMEGA_000_221,肯定……前面為你們準備了數個模擬戰，<hex:02100103>贏得勝利，前往終點……<hex:02100103>德爾塔幻境。
-170,TEXT_STMBDR101_02928_OMEGA_000_222,在這時空狹縫中，只有被我賦予權利的個體，<hex:02100103>才能夠干涉事物。
-171,TEXT_STMBDR101_02928_OMEGA_000_223,現在的阿爾法組內，<hex:02100103>只有當時參加檢測的阿爾法本人擁有干涉的權利。
-172,TEXT_STMBDR101_02928_OMEGA_000_224,因此，請從阿爾法處轉接過干涉權利，<hex:02100103>然後再開始戰鬥。<hex:02100103>沙沙沙……沙沙沙沙……
-173,TEXT_STMBDR101_02928_NERO_000_225,哈哈哈哈……真是連我都沒有預想到。
-174,TEXT_STMBDR101_02928_NERO_000_226,這可是歐米茄的親自招待，<hex:02100103>可不能無果而歸啊。
-175,TEXT_STMBDR101_02928_CID_000_227,陸行鳥……不，應該叫你阿爾法，<hex:02100103>我們為了調查這裡，必須要通過檢測。<hex:02100103>你能不能將干涉事物的權利借給我們？
-176,TEXT_STMBDR101_02928_LEVELCHECKER_000_228,沙沙……權利轉讓確認……戰鬥準備完畢。<hex:02100103>下一步交給等級檢測儀進行，<hex:02100103>請開始。
-177,TEXT_STMBDR101_02928_GARLONDGATEKEEPER_000_230,調查辛苦了！要進入大洞中嗎？
-178,TEXT_STMBDR101_02928_SYSTEM_000_231,要前往時空狹縫嗎？
-179,TEXT_STMBDR101_02928_CID_000_250,那裡就是終點……德爾塔幻境。<hex:02100103>你怎麼看，尼祿？
-180,TEXT_STMBDR101_02928_NERO_000_251,歐米茄說，它把有希望成為「最強者」的受檢者<hex:02100103>按照其棲息的時空進行分組。
-181,TEXT_STMBDR101_02928_NERO_000_252,如果說這一路上的敵人都是檢測用的雜兵……<hex:02100103>那麼卵內的敵人就應該是我們要找的目標，<hex:02100103>也就是某個被檢測組……我說得對嗎？
-182,TEXT_STMBDR101_02928_NERO_000_253,不過這上面映著的是……城堡？<hex:02100103>就是說裡面關著和這個城堡有關的受檢者？
-183,TEXT_STMBDR101_02928_ALPHA_000_254,咕哎！
-184,TEXT_STMBDR101_02928_WEDGE_000_255,阿爾法！<hex:02100103>咦？我們應該還沒有把權利還給它啊？<hex:02100103>為什麼它還有實體？
-185,TEXT_STMBDR101_02928_OMEGA_000_256,(-歐米茄-)沙沙沙……<hex:02100103>確認對象到達德爾塔幻境。<hex:02100103>戰鬥力檢測完成。
-186,TEXT_STMBDR101_02928_OMEGA_000_257,(-歐米茄-)恭喜，你們合格了。<hex:02100103>你們確實地、明確地證明了自己是距離歐米茄最遙遠的……<hex:02100103>阿爾法級別的弱者。
-187,TEXT_STMBDR101_02928_OMEGA_000_258,(-歐米茄-)歡迎，最弱的挑戰者。<hex:02100103>我承認你們正式參加檢測。
-188,TEXT_STMBDR101_02928_OMEGA_000_259,(-歐米茄-)你們已經是完全擁有實體的生命，<hex:02100103>無需進入卵內培育，<hex:02100103>已經可以全權干涉大廳，請自由使用。
-189,TEXT_STMBDR101_02928_NERO_000_260,在這種地方要怎麼放輕鬆啊……<hex:02100103>總之，我們已經被正式採用了，<hex:02100103>接下來應該做些什麼？
-190,TEXT_STMBDR101_02928_OMEGA_000_261,(-歐米茄-)指令……入侵德爾塔幻境。<hex:02100103>擊敗其中的受檢者。
-191,TEXT_STMBDR101_02928_OMEGA_000_262,(-歐米茄-)但是，不允許你們以多取勝，<hex:02100103>因此，各個世界內部都對干涉進行了限制。
-192,TEXT_STMBDR101_02928_OMEGA_000_263,(-歐米茄-)每次，只有獲得阿爾法權利的少數人可以參加戰鬥。<hex:02100103>祝你們旗開得勝……沙沙……
-193,TEXT_STMBDR101_02928_NERO_000_264,……卵的內部果然是那個麼。<hex:02100103>我猜得一點沒錯吧，加隆德？
-194,TEXT_STMBDR101_02928_CID_000_265,總之，我們需要在前方建造個調查據點，<hex:02100103>之後再進入德爾塔幻境。
-195,TEXT_STMBDR101_02928_ALPHA_000_270,咕哎？
-196,TEXT_STMBDR101_02928_NERO_000_275,呵呵呵……這個臨時的工作地還不錯吧？<hex:02100103>到底能從這些小可愛身上<hex:02100103>獲得些什麼情報呢？
-197,TEXT_STMBDR101_02928_BIGGS_000_280,要不要拜託留在上面的員工投下來些資材呢？<hex:02100103>不知能不能送到……
-198,TEXT_STMBDR101_02928_WEDGE_000_285,一、二……<hex:02100103>又是戰鬥又是幹力氣活，累死我了……
-199,TEXT_STMBDR101_02928_WEDGE_000_290,這種時候就要用最近成功量產化的熱氣騰騰水壺十四號……<hex:02100103>簡稱騰騰十四，<hex:02100103>來泡壺茶休息休息啦！
-200,TEXT_STMBDR101_02928_CID_000_300,好……<hex:02100103>雖然是臨時的，但總算建成了個調查據點。
-201,TEXT_STMBDR101_02928_CID_000_301,儘管目前謎團看上去越積越深……<hex:02100103>但接下來就一起來把這些謎團都解開吧，<hex:022903EB0203>。<hex:02100103>讓我們正式開始對時空狹縫展開調查！
+0,"TEXT_STMBDR101_02928_SEQ_00","Wedge wears the expression of a man at his wit's end."
+1,"TEXT_STMBDR101_02928_SEQ_01","In the course of their search for Omega, your friends at the Garlond Ironworks have come to Rhalgr's Reach. Apparently, however, they have since encountered some manner of problem which is hindering further progress. That you might grasp the nature of the problem in question, Wedge invites you to join him and Biggs at the workshop."
+2,"TEXT_STMBDR101_02928_SEQ_02","You learn to your surprise that Nero tol Scaeva has been offered employment at the Ironworks without prior approval from Cid, who is none too pleased. At length, he grudgingly agrees to tolerate his old rival's presence, and takes the opportunity to beseech your aid in the ongoing investigation into Omega. Moments later, an engineer rushes in with grave tidings: aetheric readings have risen alarmingly at the Yawn, where Omega is thought to be hiding. Fearing the worst, Cid resolves at once to visit the scene and asks that you accompany him."
+3,"TEXT_STMBDR101_02928_SEQ_03","As you stare at the pool of condensed aether that fills the Yawn, Midgardsormr stirs from his slumber to inform you that Omega does indeed await within. Then, without warning, a chocobo-like creature bursts out of the pool followed by an enormous, translucent serpent. Once the initial panic has passed, Midgardsormr explains that Omega is capable of bringing forth life, and that the serpent was one of its creations. All eyes duly turn to what appears to be an approximation of a chocobo, which has settled at the party's side."
+4,"TEXT_STMBDR101_02928_SEQ_04","Through Midgardsormr, the chocobo describes a strange plane beyond the Yawn. There, Omega appears to be testing its creations, and the only way to find out more is to venture in─by taking a plunge into the pink pool."
+5,"TEXT_STMBDR101_02928_SEQ_05","Together with your comrades, you jump into the Yawn and find yourself in a rift between dimensions. Shortly thereafter, Omega reaches out to you via one of its monitors and declares that you are to participate in an experiment. It seeks to determine the mightiest being by pitting subjects against one another in combat, to which end it has selected and recreated eighty-nine entities. You are provisionally assigned to the Alpha group, so named for your new chocobo friend, and your first task will be to fight your way to a place called the Deltascape. In so doing, you will prove your fitness to be fully fledged test subjects.<hex:02100103><hex:02100103>※In the event that you leave the Interdimensional Rift, you may re-enter by speaking with the Ironworks hand at the Yawn."
+6,"TEXT_STMBDR101_02928_SEQ_06","You win through to the egg-shaped Deltascape─one of many such structures floating in the rift─thereby confirming your status as test subjects...albeit the weakest of them all. Omega duly grants you time and space to prepare for your next trial: entering the Deltascape and defeating all the subjects within. After your host leaves, you and your companions set about establishing an improvised base of operations."
+7,"TEXT_STMBDR101_02928_SEQ_07","Having secured a foothold in the rift, the party turns its attention to the challenges that lie ahead. Whatever else stands between you and Omega, there seems little doubt that your combat skills will be tested to their limit...and perhaps beyond."
+8,"TEXT_STMBDR101_02928_SEQ_08",""
+9,"TEXT_STMBDR101_02928_SEQ_09",""
+10,"TEXT_STMBDR101_02928_SEQ_10",""
+11,"TEXT_STMBDR101_02928_SEQ_11",""
+12,"TEXT_STMBDR101_02928_SEQ_12",""
+13,"TEXT_STMBDR101_02928_SEQ_13",""
+14,"TEXT_STMBDR101_02928_SEQ_14",""
+15,"TEXT_STMBDR101_02928_SEQ_15",""
+16,"TEXT_STMBDR101_02928_SEQ_16",""
+17,"TEXT_STMBDR101_02928_SEQ_17",""
+18,"TEXT_STMBDR101_02928_SEQ_18",""
+19,"TEXT_STMBDR101_02928_SEQ_19",""
+20,"TEXT_STMBDR101_02928_SEQ_20",""
+21,"TEXT_STMBDR101_02928_SEQ_21",""
+22,"TEXT_STMBDR101_02928_SEQ_22",""
+23,"TEXT_STMBDR101_02928_SEQ_23",""
+24,"TEXT_STMBDR101_02928_TODO_00","Speak with Biggs."
+25,"TEXT_STMBDR101_02928_TODO_01","Speak with Cid at the Yawn."
+26,"TEXT_STMBDR101_02928_TODO_02","Speak with the chocobo."
+27,"TEXT_STMBDR101_02928_TODO_03","Speak with Cid."
+28,"TEXT_STMBDR101_02928_TODO_04","Speak with Cid."
+29,"TEXT_STMBDR101_02928_TODO_05","Speak with Cid."
+30,"TEXT_STMBDR101_02928_TODO_06",""
+31,"TEXT_STMBDR101_02928_TODO_07",""
+32,"TEXT_STMBDR101_02928_TODO_08",""
+33,"TEXT_STMBDR101_02928_TODO_09",""
+34,"TEXT_STMBDR101_02928_TODO_10",""
+35,"TEXT_STMBDR101_02928_TODO_11",""
+36,"TEXT_STMBDR101_02928_TODO_12",""
+37,"TEXT_STMBDR101_02928_TODO_13",""
+38,"TEXT_STMBDR101_02928_TODO_14",""
+39,"TEXT_STMBDR101_02928_TODO_15",""
+40,"TEXT_STMBDR101_02928_TODO_16",""
+41,"TEXT_STMBDR101_02928_TODO_17",""
+42,"TEXT_STMBDR101_02928_TODO_18",""
+43,"TEXT_STMBDR101_02928_TODO_19",""
+44,"TEXT_STMBDR101_02928_TODO_20",""
+45,"TEXT_STMBDR101_02928_TODO_21",""
+46,"TEXT_STMBDR101_02928_TODO_22",""
+47,"TEXT_STMBDR101_02928_TODO_23",""
+48,"TEXT_STMBDR101_02928_BIGGS_000_000","Well, I'll be damned! <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! If this isn't fate, I don't know what is."
+49,"TEXT_STMBDR101_02928_WEDGE_000_010","<gasp> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, thank the gods you're here! We need your help!"
+50,"TEXT_STMBDR101_02928_WEDGE_000_011","In case you haven't heard, we've set up operations in Rhalgr's Reach, while we look for Omega."
+51,"TEXT_STMBDR101_02928_WEDGE_000_012","It's been decidedly slow going, I'm sorry to say, and we still haven't seen the blasted thing since it disappeared during the battle with Shinryu."
+52,"TEXT_STMBDR101_02928_WEDGE_000_013","...Which is not to say we haven't made any progress. We know now that Shinryu ended up in the imperials' hands, and that it was shackled with some very distinctive-looking bindings when they found it."
+53,"TEXT_STMBDR101_02928_WEDGE_000_014","Obviously, only you-know-what could have done something like that, and the fact that the restraints were still functioning suggests it didn't shut down when the chief instructed it to either."
+54,"TEXT_STMBDR101_02928_WEDGE_000_015","Anyway, we were getting close to identifying Omega's whereabouts when we encountered...what you might call...a problem. Mayhap it would be best if you came to the workshop and saw for yourself."
+55,"TEXT_STMBDR101_02928_CID_000_020","Go on! <hex:021A020203>Suggest something<hex:021A020103>! And I'll be sure to do the exact bloody opposite!"
+56,"TEXT_STMBDR101_02928_NERO_000_025","Come now, <hex:021A020203>Chief<hex:021A020103>... That isn't terribly constructive."
+57,"TEXT_STMBDR101_02928_WEDGE_000_030","...Spot the problem?"
+58,"TEXT_STMBDR101_02928_JESSIE_000_035","<sigh> So much for improving efficiency..."
+59,"TEXT_STMBDR101_02928_BIGGS_000_040","...Surprised? Aye, so were we. He's been brought in as a “consultant,” believe it or not."
+60,"TEXT_STMBDR101_02928_CID_000_041","How many times do I have to tell you!? You will play <hex:021A020203>no part<hex:021A020103> in this investigation!"
+61,"TEXT_STMBDR101_02928_CID_000_042","Your motives were dubious from the first, and nothing you have done since has served to make them any clearer."
+62,"TEXT_STMBDR101_02928_CID_000_043","Out of necessity, I agreed to take part in Omega's activation, but that will be the extent of our cooperation!"
+63,"TEXT_STMBDR101_02928_NERO_000_044","Passing judgment without due consideration, openly disparaging colleagues... Not very chiefly of you, Chief."
+64,"TEXT_STMBDR101_02928_NERO_000_045","I'll have you know I'm a sensitive new recruit who thrives on encouragement."
+65,"TEXT_STMBDR101_02928_CID_000_046","Then I trust you'll thrive elsewhere when I encourage you to piss off!"
+66,"TEXT_STMBDR101_02928_CID_000_047","I will not have him on our roster, Jessie─never mind anywhere near our work. His employment is to be terminated, effective immediately!"
+67,"TEXT_STMBDR101_02928_JESSIE_000_048","The thing is, Chief...we've already paid him in full. And it wasn't exactly a pittance, either. Four-fifths what you get was the agreement."
+68,"TEXT_STMBDR101_02928_JESSIE_000_049","Look, whatever disagreements you might've had in the past, the fact is, we could do with his expertise now. Let him earn his keep, at the very least."
+69,"TEXT_STMBDR101_02928_CID_000_050","I don't believe this... You claim my <hex:021A020203>wholly justified<hex:021A020103> ventures represent an “unsustainable risk to the Ironworks”─and then pay him a sultan's ransom in advance!? <hex:021A020203>Him<hex:021A020103>!? Give me strength...!"
+70,"TEXT_STMBDR101_02928_BIGGS_100_050","This has been the way of it for a while now... On account of which, we've had to put the investigation on hold..."
+71,"TEXT_STMBDR101_02928_Q1_000_051","What will you say?"
+72,"TEXT_STMBDR101_02928_A1_000_052","Let's investigate by ourselves."
+73,"TEXT_STMBDR101_02928_A1_000_053","Let me know how it goes. I'm leaving."
+74,"TEXT_STMBDR101_02928_NERO_000_054","Tsk-tsk. As much as I admire your enthusiasm, hero, you will not get very far without some brains to complement your admirable brawn. Happily, I am blessed with a surfeit of the former."
+75,"TEXT_STMBDR101_02928_NERO_000_055","From this moment forth, you shall be my chaperone. With the realm's savior watching my every move, I couldn't possibly make any mischief─which should surely serve to allay my employer's concerns?"
+76,"TEXT_STMBDR101_02928_NERO_000_056","Tsk-tsk. It is not like you to shirk your duties, hero. Were you not present at Omega's activation? And are you not therefore jointly responsible for the havoc it may wreak if left to its own devices? I think we both know the answer."
+77,"TEXT_STMBDR101_02928_NERO_000_057","From this moment forth, you shall be my chaperone. With the realm's savior watching my every move, I couldn't possibly make any mischief─which should surely serve to allay my employer's concerns?"
+78,"TEXT_STMBDR101_02928_CID_000_058","Forgive me, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. It was not my intent to embroil you in this mess. I didn't even know you were here. Seeing as you are, though...I cannot deny that I would be glad to have you on board."
+79,"TEXT_STMBDR101_02928_CID_000_059","The fact is, we are no closer to understanding the true extent of Omega's powers, and even if it was damaged during its encounter with Shinryu, it seems highly doubtful that we will be able to disable it unaided."
+80,"TEXT_STMBDR101_02928_CID_000_060","We have got as far as identifying its likely resting place, but I for one would feel a lot more confident about surveying the area with you around to deal with any unexpected surprises. Might I persuade you to lend us a hand once more, old friend?"
+81,"TEXT_STMBDR101_02928_NERO_000_061","Then it's settled!"
+82,"TEXT_STMBDR101_02928_STAFF02928_000_062","Ch-Chief, we have a problem! The aetheric concentration levels at the Yawn are soaring. Our readings doubled from one moment to the next, and by the time we went to check them, they'd doubled again!"
+83,"TEXT_STMBDR101_02928_CID_000_063","What? But that could only mean─"
+84,"TEXT_STMBDR101_02928_CID_000_064","Evacuate the site. I shall handle this matter personally."
+85,"TEXT_STMBDR101_02928_CID_000_065","Biggs, Wedge, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>─I need you with me at the Yawn, to the south of here. That's where we believe Omega came to rest."
+86,"TEXT_STMBDR101_02928_CID_000_066","Jessie─hold the fort while I'm gone. And, if possible, continue surveillance from a safe distance."
+87,"TEXT_STMBDR101_02928_JESSIE_000_067","All right, Chief. Watch yourself out there."
+88,"TEXT_STMBDR101_02928_NERO_000_068","...Am I to stay and <hex:021A020203>mind the shop<hex:021A020103> too?"
+89,"TEXT_STMBDR101_02928_CID_000_069","Oh no. I'm not letting you out of my sight. But before you fill the room with maniacal laughter, I want you to remember something: when you collected your inexplicably lavish fee, the Ironworks' creed became <hex:021A020203>your<hex:021A020103> creed. That's “Freedom through Technology,” in case you've forgotten─not “Supremacy through Allagan Ingenuity.” Breach this contract and I will have my ponze of flesh."
+90,"TEXT_STMBDR101_02928_JESSIE_000_070","I'll take care of things here. Look after everyone for me, all right? I need the boys back and innovating before our customers tire of our current offerings."
+91,"TEXT_STMBDR101_02928_NERO_000_075","Hah, would you look at that!"
+92,"TEXT_STMBDR101_02928_BIGGS_000_080","I've got a bad feeling about this..."
+93,"TEXT_STMBDR101_02928_WEDGE_000_085","C-Crikey! It was just a plain old hole before!"
+94,"TEXT_STMBDR101_02928_CID_000_100","What in the seven hells is going on here?"
+95,"TEXT_STMBDR101_02928_NERO_000_101","A veritable sea of condensed aether... Our precious has been busy."
+96,"TEXT_STMBDR101_02928_MIDGARDSORMR_000_102","(-???-)Hmmm... What villainy is this?"
+97,"TEXT_STMBDR101_02928_MIDGARDSORMR_000_103","In slumber sweet have I lain since mine offsprings' war with man did end. Yet I could not choose but stir at this abhorrent stench."
+98,"TEXT_STMBDR101_02928_MIDGARDSORMR_000_104","Have care, mortal. For within this great hollow lieth Omega."
+99,"TEXT_STMBDR101_02928_MIDGARDSORMR_000_105","Long have we known one another. Our history spanneth eons and stars."
+100,"TEXT_STMBDR101_02928_WEDGE_000_106","Oh gods, what's happening!?"
+101,"TEXT_STMBDR101_02928_BIGGS_000_107","Chief! Get out of there!"
+102,"TEXT_STMBDR101_02928_BIGGS_000_108","Eh!? You─ You're not dead!"
+103,"TEXT_STMBDR101_02928_CID_000_109","Apparently not. It passed straight through me...as if it were some sort of illusion."
+104,"TEXT_STMBDR101_02928_MIDGARDSORMR_000_110","'Tis one of Omega's creations."
+105,"TEXT_STMBDR101_02928_MIDGARDSORMR_000_111","Omega is a weapon wrought in a place beyond the reach of thy kind, capable of weaving aether into life."
+106,"TEXT_STMBDR101_02928_MIDGARDSORMR_000_112","That serpent is yet unfinished, but doubt not that it will become a corporeal threat ere long."
+107,"TEXT_STMBDR101_02928_BIGGS_000_113","Well, whatever it is, it's gone."
+108,"TEXT_STMBDR101_02928_NERO_000_114","While this peculiar thing remains."
+109,"TEXT_STMBDR101_02928_ALPHA_000_115","(-???-)Kweh?"
+110,"TEXT_STMBDR101_02928_WEDGE_000_116","If it looks like a chocobo...and <hex:021A020203>kwehs<hex:021A020103> like a chocobo..."
+111,"TEXT_STMBDR101_02928_WEDGE_000_117","...I'm thinking it's probably a chocobo?"
+112,"TEXT_STMBDR101_02928_CID_000_120","I've no idea what it is, but it doesn't seem to pose any immediate threat."
+113,"TEXT_STMBDR101_02928_NERO_000_125","Fascinating. We should dissect it. In the name of science."
+114,"TEXT_STMBDR101_02928_BIGGS_000_130","...It looks like a chocobo in the same way a mammet looks like a person, if you know what I mean?"
+115,"TEXT_STMBDR101_02928_WEDGE_000_135","You heard him kweh, didn't you? He's a chocobo, I'm sure of it!"
+116,"TEXT_STMBDR101_02928_ALPHA_000_140","Kweh?"
+117,"TEXT_STMBDR101_02928_BIGGS_000_141","Hmmm... The way it kwehs isn't unlike a chocobo, but it looks more like a stuffed doll to me."
+118,"TEXT_STMBDR101_02928_WEDGE_000_142","It's definitely a chocobo, trust me on this. The ones we Lalafells ride are all about this size, aren't they?"
+119,"TEXT_STMBDR101_02928_BIGGS_000_143","I s'pose...<hex:02100103>Aye, all right, let's go with chocobo for now."
+120,"TEXT_STMBDR101_02928_MIDGARDSORMR_000_144","Thy mistress's blessing extendeth not unto this creature's soul, then...?"
+121,"TEXT_STMBDR101_02928_MIDGARDSORMR_000_145","Very well. As this matter concerneth Omega, I shall speak with it in thy stead."
+122,"TEXT_STMBDR101_02928_CID_000_146","Uh...<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>? Aren't you going to introduce us to your knowledgeable little dragon friend?"
+123,"TEXT_STMBDR101_02928_CID_000_147","What, <hex:021A020203>the<hex:021A020103> Midgardsormr─who fought and fell at the Battle of Silvertear Skies!?"
+124,"TEXT_STMBDR101_02928_NERO_000_148","And here I was, content to be traveling in the company of just <hex:021A020203>one<hex:021A020103> legend. Without wishing to offend you, hero, the Father of Dragons does have something you do not, that being relevant knowledge. There is much we could learn from him..."
+125,"TEXT_STMBDR101_02928_NERO_000_0149","Little and less is known about Omega's origin. It first appeared in records dating back to the Third Astral Era, before the Allagan Empire reached its zenith, and said records had but the one thing to say: “Omega activation successful.”"
+126,"TEXT_STMBDR101_02928_NERO_000_150","In the centuries that followed, the Allagans enjoyed rapid technological development, but there was nary a further mention of Omega until its capture of Bahamut."
+127,"TEXT_STMBDR101_02928_NERO_000_151","Its existence is a mystery among mysteries, a tale among tales. 'Twas always assumed that the Allagans built it, and I had no reason to believe otherwise."
+128,"TEXT_STMBDR101_02928_CID_000_152","But now Midgardsormr tells us that it's not even of our world."
+129,"TEXT_STMBDR101_02928_MIDGARDSORMR_000_153","Just so. It haileth from another star. More than that I will not say."
+130,"TEXT_STMBDR101_02928_MIDGARDSORMR_000_154","I have spoken with this being. It telleth of a strange plane beyond this hollow, wherein it did reside from the moment of its creation."
+131,"TEXT_STMBDR101_02928_MIDGARDSORMR_000_155","For reasons unknown, it was ordered to fight. Yet being weak, it chose flight instead, and thus crossed over unto this world."
+132,"TEXT_STMBDR101_02928_BIGGS_000_156","Ordered to fight...by Omega? Why in the seven hells would it do that?"
+133,"TEXT_STMBDR101_02928_MIDGARDSORMR_000_157","To put its creations to the proof."
+134,"TEXT_STMBDR101_02928_MIDGARDSORMR_000_158","If you would know more, go forth and look upon the truth with your own eyes."
+135,"TEXT_STMBDR101_02928_WEDGE_000_159","Wait...you're saying we should jump in!?"
+136,"TEXT_STMBDR101_02928_MIDGARDSORMR_000_160","You have naught to fear from the fall. The hollow hath become a portal into Omega's domain. Once there, this being shall guide you."
+137,"TEXT_STMBDR101_02928_MIDGARDSORMR_000_161","Servant of Hydaelyn... Fate bindeth me to Omega. If it be thine intent to pursue it, I shall lend thee my strength."
+138,"TEXT_STMBDR101_02928_WEDGE_000_162","So you, uh...really can show us around inside the hole, can you?"
+139,"TEXT_STMBDR101_02928_ALPHA_000_163","Kweh! Kweh!"
+140,"TEXT_STMBDR101_02928_ALPHA_000_170","Kweh!"
+141,"TEXT_STMBDR101_02928_NERO_000_175","Hm hm! This day just keeps getting better and better!"
+142,"TEXT_STMBDR101_02928_BIGGS_000_180","Are we seriously thinking about going for a dip in that pink muck?"
+143,"TEXT_STMBDR101_02928_WEDGE_000_185","I-I'm not too keen on this jumping idea. There are rocks that can swim better than me."
+144,"TEXT_STMBDR101_02928_CID_000_189","Well...I doubt any of us imagined things would come to this, but the Father of Dragons has given his assurance. Let us take our investigation into the Yawn."
+145,"TEXT_STMBDR101_02928_CID_000_190","I have already apprised Jessie of our intent and instructed her to have our engineers on standby."
+146,"TEXT_STMBDR101_02928_CID_000_191","Since we have no way of knowing what awaits us in there, I need you to be ready for anything. Are you?"
+147,"TEXT_STMBDR101_02928_CID_000_192","Let us begin!"
+148,"TEXT_STMBDR101_02928_WEDGE_000_200","Wh-What is this place!?"
+149,"TEXT_STMBDR101_02928_BIGGS_000_201","And what's wrong with us!? I can see straight through me!"
+150,"TEXT_STMBDR101_02928_OMEGA_000_202","(-???-)Welcome home, Alpha. Welcome, mortals."
+151,"TEXT_STMBDR101_02928_OMEGA_000_203","I am Omega, and I have awaited your coming. I communicate with you now via one of my monitors."
+152,"TEXT_STMBDR101_02928_OMEGA_000_204","You stand in the rift between dimensions, where a vital experiment is presently in progress."
+153,"TEXT_STMBDR101_02928_OMEGA_000_205","Your participation is appreciated. Please indicate your consent. <blip>"
+154,"TEXT_STMBDR101_02928_CID_000_206","Experiment? If you want our participation, you'll have to tell us a little more than that."
+155,"TEXT_STMBDR101_02928_WEDGE_000_207","Uwaaah! We're disappearing!"
+156,"TEXT_STMBDR101_02928_OMEGA_000_208","Non-participating entities will be summarily erased. Please indicate your consent. <blip>"
+157,"TEXT_STMBDR101_02928_NERO_000_209","It seems we can't even exist here without Omega's leave."
+158,"TEXT_STMBDR101_02928_NERO_000_210","I think it's fairly clear what we have to do, don't you!?"
+159,"TEXT_STMBDR101_02928_Q3_000_211","What will you say?"
+160,"TEXT_STMBDR101_02928_A3_000_212","All right! We consent!"
+161,"TEXT_STMBDR101_02928_A3_000_213","Chocobo, what should we do!?"
+162,"TEXT_STMBDR101_02928_OMEGA_000_214","Thank you for your cooperation. You are provisionally assigned to the Alpha group."
+163,"TEXT_STMBDR101_02928_CID_000_215","Looks like some manner of tower...or egg."
+164,"TEXT_STMBDR101_02928_OMEGA_000_216","The aim of the experiment is to determine the mightiest being in creation."
+165,"TEXT_STMBDR101_02928_OMEGA_000_217","To that end, eighty-nine candidates have been selected and recreated. They are grouped by dimension, matched by strength, and pitted against one another."
+166,"TEXT_STMBDR101_02928_OMEGA_000_218","That which you identify as a chocobo is subject Alpha, and you have been assigned to its group."
+167,"TEXT_STMBDR101_02928_OMEGA_000_219","This assignation is tentative, however, pending an assessment of your fitness to serve as fully fledged test subjects. Your combat capabilities will be evaluated shortly."
+168,"TEXT_STMBDR101_02928_CID_000_220","Combat capabilities? You mean you want us to fight?"
+169,"TEXT_STMBDR101_02928_OMEGA_000_221","Affirmative. A course shall be constructed for this purpose, through which you must attempt to fight your way. Your suitability will be confirmed upon reaching the Deltascape test world beyond."
+170,"TEXT_STMBDR101_02928_OMEGA_000_222","Please note, however, that only entities with existential authorization may interact with objects in the rift."
+171,"TEXT_STMBDR101_02928_OMEGA_000_223","Of your number, only Alpha has this at present."
+172,"TEXT_STMBDR101_02928_OMEGA_000_224","Before you may engage in combat, said authorization must be temporarily transferred to you. <blip> <bloop>"
+173,"TEXT_STMBDR101_02928_NERO_000_225","Hah, an invitation from Omega itself! Not even I could've foreseen this!"
+174,"TEXT_STMBDR101_02928_NERO_000_226","We are accepting it, of course? It's preferable to summary erasure, as I'm sure you'll agree."
+175,"TEXT_STMBDR101_02928_CID_000_227","Alpha, was it? My colleagues and I are minded to participate in Omega's experiment. Will you transfer your authorization to us?"
+176,"TEXT_STMBDR101_02928_LEVELCHECKER_000_228","<beep> Existential authorization transferred. Subjects ready to engage. Please begin at your own convenience and proceed as directed."
+177,"TEXT_STMBDR101_02928_GARLONDGATEKEEPER_000_230","Good <hex:020838E3E90C0DFF1A><hex:020816E3E90C05FF08>evening<hex:FF07>morrow<hex:03><hex:FF17><hex:020813E3E90C12FF04>day<hex:FF08>evening<hex:03><hex:03> to you, <hex:02080FE905FF06>madam<hex:FF04>sir<hex:03>. Will you be descending into the Yawn?"
+178,"TEXT_STMBDR101_02928_SYSTEM_000_231","Enter the Interdimensional Rift?"
+179,"TEXT_STMBDR101_02928_CID_000_250","That's our goal, the Deltascape, if I'm not mistaken. What do you think is waiting for us in there?"
+180,"TEXT_STMBDR101_02928_NERO_000_251","Omega said that it groups subjects by dimension."
+181,"TEXT_STMBDR101_02928_NERO_000_252","If the creatures we fought on the way were merely intended to separate the wheat from the chaff, it would seem certain that far greater challenges await inside these egg-like objects─our fellow test subjects, most like..."
+182,"TEXT_STMBDR101_02928_NERO_000_253","But I am not certain what to make of that castle. Could it somehow be connected to the subjects?"
+183,"TEXT_STMBDR101_02928_ALPHA_000_254","Kweh!"
+184,"TEXT_STMBDR101_02928_WEDGE_000_255","Alpha! But hold on a moment... Shouldn't either one or the other of us be translucent?"
+185,"TEXT_STMBDR101_02928_OMEGA_000_256","(-Omega-)<blip> Subjects confirmed to have arrived at the Deltascape. Analysis complete."
+186,"TEXT_STMBDR101_02928_OMEGA_000_257","(-Omega-)Congratulations, you are approved for participation. Your strength places you in the selfsame tier as Alpha─the feeblest and farthest removed from myself."
+187,"TEXT_STMBDR101_02928_OMEGA_000_258","(-Omega-)Nonetheless, you are now fully fledged test subjects. Welcome, weakest of challengers."
+188,"TEXT_STMBDR101_02928_OMEGA_000_259","(-Omega-)As corporeal life-forms, you need not undergo development within a test world. Instead, you may use this space freely."
+189,"TEXT_STMBDR101_02928_NERO_000_260","Not quite what I would have chosen, but one must make do.<hex:02100103>...Speaking of which: what is it that we're supposed to do, exactly?"
+190,"TEXT_STMBDR101_02928_OMEGA_000_261","(-Omega-)You are to enter the Deltascape and defeat all test subjects within."
+191,"TEXT_STMBDR101_02928_OMEGA_000_262","(-Omega-)Please note, however, that strength in numbers will not be acknowledged. There is a strict limit upon how many entities may participate in combat."
+192,"TEXT_STMBDR101_02928_OMEGA_000_263","(-Omega-)Only a small party may have existential authorization transferred from Alpha. Good luck. <blip>"
+193,"TEXT_STMBDR101_02928_NERO_000_264","So the eggs <hex:021A020203>do<hex:021A020103> contain our fellow test subjects─just as I predicted, eh, Garlond?"
+194,"TEXT_STMBDR101_02928_CID_000_265","Before we turn our thoughts to the Deltascape, I suggest we set up a base of operations here."
+195,"TEXT_STMBDR101_02928_ALPHA_000_270","Kweh?"
+196,"TEXT_STMBDR101_02928_NERO_000_275","Quite impressive for an improvised arrangement, even if I do say so myself. Now then, let us see what we can learn from our host's many monitors."
+197,"TEXT_STMBDR101_02928_BIGGS_000_280","I was thinking about asking the crew to throw some supplies in after us. But only the gods know if they'd make it here in one piece. You can bet they wouldn't be the right way up if they did, though."
+198,"TEXT_STMBDR101_02928_WEDGE_000_285","Whew... All that jumping and fading and fighting really took it out of me..."
+199,"TEXT_STMBDR101_02928_WEDGE_000_290","What I need now is a steaming-hot cup of tea...and nothing makes a better brew than the Mark XIV Thermocoil Boilmaster, coming soon to a Garlond Ironworks-approved vendor near you!<hex:02100103>...S-Sorry. Jessie made me do it."
+200,"TEXT_STMBDR101_02928_CID_000_300","It's somewhat cobbled together, but this should suffice as a base of operations."
+201,"TEXT_STMBDR101_02928_CID_000_301","Take heart, old friend. Though every step we take seems to raise more questions, we will wade through this mire of mysteries eventually, of that I have no doubt."

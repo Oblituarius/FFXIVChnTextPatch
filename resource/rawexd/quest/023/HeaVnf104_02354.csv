@@ -2,139 +2,139 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_HEAVNF104_02354_SEQ_00,喪靈鐘的阿莉塞想要進入石之家。
-1,TEXT_HEAVNF104_02354_SEQ_01,和阿莉塞進行了交談。進入石之家，等待阿爾菲諾等人回來。
-2,TEXT_HEAVNF104_02354_SEQ_02,在石之家和拂曉的成員們進行了交談。為了阻止鐵面公卿這一輕率的舉動，帕帕力莫、伊達、桑克瑞德、夕霧四人決定前往基拉巴尼亞。另一方面，冒險者和阿爾菲諾決定一起在黑衣森林待機，隨時應對突發情況。做好出發準備後和阿爾菲諾談談。
-3,TEXT_HEAVNF104_02354_SEQ_03,和阿爾菲諾進行了交談。首先前往東部林區，在霍桑山寨附近和阿爾菲諾匯合。
-4,TEXT_HEAVNF104_02354_SEQ_04,和阿爾菲諾進行了交談，並和帕帕力莫等人的潛入部隊別過。據說在阿馬里賽哨塔比較方便監視巴埃薩長城。和東部林區阿馬里賽哨塔的雙蛇黨斥候談談。
-5,TEXT_HEAVNF104_02354_SEQ_05,和阿馬里賽哨塔的雙蛇黨斥候進行了交談。在和皮平等人匯合的時候，巴埃薩長城發生了騷亂。為了突入巴埃薩長城，和東部林區的阿爾菲諾談談。
-6,TEXT_HEAVNF104_02354_SEQ_06,和阿爾菲諾進行了交談。可以通過東部林區東南邊的山野小道前往巴埃薩長城。為了阻止鐵面公卿的陰謀，突破堅牢鐵壁巴埃薩長城。<hex:02100103><hex:02100103>※調查進入點選擇「和輔助隊員進入」，或選擇快捷指令裡的「劇情輔助器」，可以和非玩家同伴一同進入副本。<hex:02100103>※和玩家一同進入時請通過任務搜尋器參加。
-7,TEXT_HEAVNF104_02354_SEQ_07,打倒了鐵面公卿，原來他就是伊爾伯德。收拾完局勢後逃出這裡。
-8,TEXT_HEAVNF104_02354_SEQ_08,伊爾伯德使用龍眼，讓自己的同伴以及自己自身陷入絕望之中，以此進行了請神。對此，帕帕力莫手持天命杖，以自己的生命為代價使出了封印魔法。眾人坐上希爾達操縱的飛空艇從陷入混亂的巴埃薩長城逃脫，所有人都悲從中來。和伊達談談。
-9,TEXT_HEAVNF104_02354_SEQ_09,和伊達進行了交談，失去了親密搭檔的她十分混亂，無法抑制自己的情感。目前最好還是讓她靜一靜。桑克瑞德會照看伊達。為了共享情報，阿爾菲諾決定先返回石之家。
-10,TEXT_HEAVNF104_02354_SEQ_10,
-11,TEXT_HEAVNF104_02354_SEQ_11,
-12,TEXT_HEAVNF104_02354_SEQ_12,
-13,TEXT_HEAVNF104_02354_SEQ_13,
-14,TEXT_HEAVNF104_02354_SEQ_14,
-15,TEXT_HEAVNF104_02354_SEQ_15,
-16,TEXT_HEAVNF104_02354_SEQ_16,
-17,TEXT_HEAVNF104_02354_SEQ_17,
-18,TEXT_HEAVNF104_02354_SEQ_18,
-19,TEXT_HEAVNF104_02354_SEQ_19,
-20,TEXT_HEAVNF104_02354_SEQ_20,
-21,TEXT_HEAVNF104_02354_SEQ_21,
-22,TEXT_HEAVNF104_02354_SEQ_22,
-23,TEXT_HEAVNF104_02354_SEQ_23,
-24,TEXT_HEAVNF104_02354_TODO_00,進入石之家
-25,TEXT_HEAVNF104_02354_TODO_01,和阿爾菲諾對話
-26,TEXT_HEAVNF104_02354_TODO_02,和霍桑山寨附近的阿爾菲諾對話
-27,TEXT_HEAVNF104_02354_TODO_03,和阿馬里賽哨塔的雙蛇黨斥候對話
-28,TEXT_HEAVNF104_02354_TODO_04,和阿爾菲諾對話
-29,TEXT_HEAVNF104_02354_TODO_05,突破堅牢鐵壁巴埃薩長城
-30,TEXT_HEAVNF104_02354_TODO_06,突破堅牢鐵壁巴埃薩長城
-31,TEXT_HEAVNF104_02354_TODO_07,和伊達對話
-32,TEXT_HEAVNF104_02354_TODO_08,
-33,TEXT_HEAVNF104_02354_TODO_09,
-34,TEXT_HEAVNF104_02354_TODO_10,
-35,TEXT_HEAVNF104_02354_TODO_11,
-36,TEXT_HEAVNF104_02354_TODO_12,
-37,TEXT_HEAVNF104_02354_TODO_13,
-38,TEXT_HEAVNF104_02354_TODO_14,
-39,TEXT_HEAVNF104_02354_TODO_15,
-40,TEXT_HEAVNF104_02354_TODO_16,
-41,TEXT_HEAVNF104_02354_TODO_17,
-42,TEXT_HEAVNF104_02354_TODO_18,
-43,TEXT_HEAVNF104_02354_TODO_19,
-44,TEXT_HEAVNF104_02354_TODO_20,
-45,TEXT_HEAVNF104_02354_TODO_21,
-46,TEXT_HEAVNF104_02354_TODO_22,
-47,TEXT_HEAVNF104_02354_TODO_23,
-48,TEXT_HEAVNF104_02354_YUGIRI_000_001,真是一模一樣啊，<hex:02100103>阿爾菲諾閣下和阿莉塞閣下……<hex:02100103>連走路的姿勢都這麼像，真是令人吃驚。
-49,TEXT_HEAVNF104_02354_ALISAIE_000_010,好了……我們也不要傻站在這裡了。<hex:02100103>到石之家等阿爾菲諾他們回來吧。
-50,TEXT_HEAVNF104_02354_YSHTOLA_000_020,你們回來了。<hex:02100103>看來會談順利結束了啊。<hex:02100103>怎麼沒看到阿爾菲諾他們……
-51,TEXT_HEAVNF104_02354_ALPHINAUD_000_021,抱歉，讓你們久等了。
-52,TEXT_HEAVNF104_02354_YDA_000_022,我們回來了！啊，可露兒！<hex:02100103>娜格的情況怎麼樣了？
-53,TEXT_HEAVNF104_02354_KRILE_000_023,放心吧，她現在正在別的房間睡覺。<hex:02100103>塔塔露在照看著她，所以不用擔心。
-54,TEXT_HEAVNF104_02354_YSHTOLA_000_024,我也去看了她的情況，<hex:02100103>傷口已經癒合了，靜養一段時間後應該很快就可以恢復了。
-55,TEXT_HEAVNF104_02354_YDA_000_025,太好了……
-56,TEXT_HEAVNF104_02354_YSHTOLA_000_026,說起來……會談進行得怎麼樣？
-57,TEXT_HEAVNF104_02354_ALISAIE_000_027,以伊修加德為首的各國都會向黑衣森林派遣援軍。<hex:02100103>艾歐澤亞同盟軍會集結戰力，嚴陣以待。
-58,TEXT_HEAVNF104_02354_YDA_000_028,不過啊，既然艾歐澤亞同盟軍會將戰力集結起來，<hex:02100103>為什麼不乾脆反過來利用鐵面公卿的計劃，合力進攻帝國軍？<hex:02100103>可以從阿拉米格一側和格里達尼亞一側夾擊他們呢！
-59,TEXT_HEAVNF104_02354_PAPALYMO_000_029,真是的……又說話不經過大腦。<hex:02100103>要和強大的帝國交戰，怎麼能夠如此輕舉妄動。
-60,TEXT_HEAVNF104_02354_ALPHINAUD_000_030,是啊，沒有充分的準備就和帝國交鋒，實在算不上上策。<hex:02100103>要是能讓鐵面公卿他們意識到這點，停止作戰就好了……
-61,TEXT_HEAVNF104_02354_PAPALYMO_000_031,其實要說也不是沒有辦法……
-62,TEXT_HEAVNF104_02354_PAPALYMO_000_032,巴埃薩長城的地下有一條秘密坑道，<hex:02100103>那是阿拉米格解放軍的戰士們挖的，<hex:02100103>以便讓流亡者逃跑……
-63,TEXT_HEAVNF104_02354_YSHTOLA_000_033,……也就是說，要派幾個人從那個通道進入阿拉米格，<hex:02100103>直接和鐵面公卿接觸，說服他放棄計劃嗎？
-64,TEXT_HEAVNF104_02354_PAPALYMO_000_034,是的。<hex:02100103>如果你們不反對的話，就讓我去吧。<hex:02100103>我認識路，而且和阿拉米格解放軍也有接觸。
-65,TEXT_HEAVNF104_02354_YDA_000_035,等一下，你想丟下我自己去嗎？<hex:02100103>你要那麼說的話，在解放軍中最有人脈的可是我，<hex:02100103>所以我也要去！
-66,TEXT_HEAVNF104_02354_YUGIRI_000_036,……既然要潛入敵陣，那麼忍者也能派上用場吧。<hex:02100103>請讓在下也加入這個任務……
-67,TEXT_HEAVNF104_02354_THANCRED_000_037,好，那我也一起去。<hex:02100103>好久沒和夕霧女士一起行動了。
-68,TEXT_HEAVNF104_02354_YSHTOLA_000_038,看來也不用多說什麼了……<hex:02100103>那我和可露兒去處理別的事情。<hex:02100103>阿爾菲諾，你有什麼打算？
-69,TEXT_HEAVNF104_02354_ALPHINAUD_000_039,我打算去東部林區待機，隨時應對突發情況。
-70,TEXT_HEAVNF104_02354_ALPHINAUD_000_040,<hex:022903EB0203>，你能一起來嗎？<hex:02100103>至於阿莉塞，就拜託你留在石之家負責聯絡了。
-71,TEXT_HEAVNF104_02354_ALISAIE_000_041,啊，要我看家啊……<hex:02100103>算了，畢竟這也得有人做才行。
-72,TEXT_HEAVNF104_02354_ALISAIE_000_042,……大家都要注意安全。
-73,TEXT_HEAVNF104_02354_ALISAIE_000_045,雖然可以把聯絡的任務交給塔塔露，<hex:02100103>但她還需要照顧那名解放軍……<hex:02100103>所以沒辦法啦。
-74,TEXT_HEAVNF104_02354_YDA_000_050,鐵面公卿本可以和艾歐澤亞同盟軍合作啊。<hex:02100103>畢竟加雷馬帝國是大家「共同的敵人」吧？
-75,TEXT_HEAVNF104_02354_PAPALYMO_000_055,雖說我和伊達曾和解放軍有過接觸，<hex:02100103>但我們和鐵面公卿的部隊並沒有很深的淵源。<hex:02100103>不過如果能夠見到他，至少可以勸阻他。
-76,TEXT_HEAVNF104_02354_YUGIRI_000_060,在下命令喪靈鐘開拓團的忍者們和同盟軍一起行動。<hex:02100103>能夠再次和帝國交戰，大家都很高興。
-77,TEXT_HEAVNF104_02354_THANCRED_000_065,雖然我和多瑪的忍者流派不同，<hex:02100103>不過我也是在薩雷安接受過潛入任務特訓的。<hex:02100103>我會好好護送伊達和帕帕力莫他們的。
-78,TEXT_HEAVNF104_02354_ALPHINAUD_000_070,你準備好了嗎，<hex:022903EB0203>？<hex:02100103>我們先到東部林區的霍桑山寨吧。<hex:02100103>那裡有雙蛇黨的據點。
-79,TEXT_HEAVNF104_02354_ALPHINAUD_000_071,我們在那裡確認一下同盟軍的動向之後，<hex:02100103>再到可以觀測到巴埃薩長城的地方去。
-80,TEXT_HEAVNF104_02354_ALPHINAUD_000_080,我先你一步到了這裡，<hex:02100103>已經向雙蛇黨的軍官們詢問了情況。<hex:02100103>看來同盟軍的將校都聚集在阿馬里賽哨塔。
-81,TEXT_HEAVNF104_02354_ALPHINAUD_000_081,那個哨塔臨近帝國軍的據點，<hex:02100103>非常適合監視巴埃薩長城。
-82,TEXT_HEAVNF104_02354_THANCRED_000_082,<hex:022903EB0203>，阿爾菲諾，你們在這裡啊……<hex:02100103>我們這就打算出發了。
-83,TEXT_HEAVNF104_02354_ALPHINAUD_000_083,好，有你們這些高手一起行動，我倒是不怎麼擔心。<hex:02100103>不過基拉巴尼亞畢竟是帝國支配下的敵陣，<hex:02100103>凡事還是小心為上。
-84,TEXT_HEAVNF104_02354_YDA_000_084,放心吧！<hex:02100103>我會提溜著鐵面公卿的脖子回來見你們的！
-85,TEXT_HEAVNF104_02354_PAPALYMO_000_085,哎呀哎呀……之前還說要和鐵面公卿共同戰鬥，<hex:02100103>現在又說要提溜著人家脖子……你說話能不能過一下大腦。<hex:02100103>我們的任務是要進行交涉，說服他放棄計劃。
-86,TEXT_HEAVNF104_02354_YDA_000_086,我知道啦。<hex:02100103>這種複雜的事情交給帕帕力莫就好了！
-87,TEXT_HEAVNF104_02354_PAPALYMO_000_087,……真是的，突然覺得頭疼。<hex:02100103>那我們先走了……
-88,TEXT_HEAVNF104_02354_ALPHINAUD_000_088,伊達和帕帕力莫還是老樣子啊。<hex:02100103>好了，那我們也出發吧……<hex:02100103>到阿馬里賽哨塔向雙蛇黨斥候了解一下情況。
-89,TEXT_HEAVNF104_02354_SERPENTSCOUT_000_089,你們是拂曉血盟的人吧？<hex:02100103>同盟國的將校們正好在這座哨塔集合。
-90,TEXT_HEAVNF104_02354_SERPENTSCOUT_100_089,等相關人員都到齊了，<hex:02100103>將會展開會談，請你們務必出席。
-91,TEXT_HEAVNF104_02354_PIPIN_100_090,感謝你們二位前來。
-92,TEXT_HEAVNF104_02354_HILDA_100_091,我還當是誰呢，這不是<hex:022903EB0203>嗎？<hex:02100103>我的部隊從伊修加德過來出差呢。
-93,TEXT_HEAVNF104_02354_RASHAHT_100_092,上次我們聚在一起還是在四國聯合演習的時候呢。<hex:02100103>很榮幸能和各位站在同一戰線共同抗敵！
-94,TEXT_HEAVNF104_02354_ALPHINAUD_100_093,看來各城邦的精銳都聚集到了這裡，真是讓人底氣十足。<hex:02100103>話說長城那邊有什麼動向嗎？
-95,TEXT_HEAVNF104_02354_VORSAILE_100_094,目前沒什麼變化，還是和以往一樣……
-96,TEXT_HEAVNF104_02354_VORSAILE_100_095,我手下的觀測組發來報告！<hex:02100103>好像長城那邊展開了戰鬥！
-97,TEXT_HEAVNF104_02354_PIPIN_100_096,鐵面公卿還是行動了啊！
-98,TEXT_HEAVNF104_02354_VORSAILE_100_097,只、只是……
-99,TEXT_HEAVNF104_02354_HILDA_100_098,怎麼了？<hex:02100103>有話快說啊！
-100,TEXT_HEAVNF104_02354_VORSAILE_100_100,報、報告稱，那邊的攻擊部隊穿著各國大國防聯軍的制服……
-101,TEXT_HEAVNF104_02354_RASHAHT_100_101,什麼……我們的部隊根本沒有行動！
-102,TEXT_HEAVNF104_02354_ALPHINAUD_100_102,中計了！鐵面公卿的目的是這個！<hex:02100103>他只是想偽裝成各國的大國防聯軍進行進攻，<hex:02100103>根本沒想要奪取長城！
-103,TEXT_HEAVNF104_02354_VORSAILE_100_103,什、什麼……<hex:02100103>那帝國軍會以為是我們艾歐澤亞同盟軍展開了攻擊。<hex:02100103>這樣一來，毫無疑問戰火將會一觸即發……
-104,TEXT_HEAVNF104_02354_ALPHINAUD_100_104,很有可能這也只是誘餌。<hex:02100103>比如趁著艾歐澤亞同盟軍和帝國軍交火的時候，<hex:02100103>自己從後方攻入阿拉米格……
-105,TEXT_HEAVNF104_02354_ALPHINAUD_100_105,如果再煽動城邦內飽受壓迫的民眾，引起叛亂，<hex:02100103>絕對就可以彌補他們兵力不足的問題。<hex:02100103>這樣一來，同盟軍只不過是他們利用的一顆棋子！
-106,TEXT_HEAVNF104_02354_ALPHINAUD_100_106,<hex:022903EB0203>，我們立刻到巴埃薩長城去。
-107,TEXT_HEAVNF104_02354_PIPIN_100_107,這太危險了！
-108,TEXT_HEAVNF104_02354_ALPHINAUD_100_108,我們的同伴為了勸阻鐵面公卿，潛入了長城。<hex:02100103>我們必須要救出他們！
-109,TEXT_HEAVNF104_02354_ALPHINAUD_100_109,雖然我也知道危險……不過帝國軍目前受到奇襲，<hex:02100103>我們或許可以趁亂強行介入。<hex:02100103>說不定還有機會勸鐵面公卿收兵……
-110,TEXT_HEAVNF104_02354_PIPIN_100_110,唔……<hex:02100103>希爾達閣下，能拜託你準備逃脫用的飛空艇嗎？
-111,TEXT_HEAVNF104_02354_HILDA_100_111,交給我吧！<hex:02100103>我會準備伊修加德速度最快的飛空艇！
-112,TEXT_HEAVNF104_02354_RASHAHT_100_112,那由我們來應對帝國的行動！<hex:02100103>各位一定要活著回來啊！
-113,TEXT_HEAVNF104_02354_IRONMASK_100_113,上啊，拯救阿拉米格的勇士們！<hex:02100103>用我們的一擊喚醒那些沉湎於美夢的艾歐澤亞人，<hex:02100103>讓他們成為將邪惡的帝國軍趕出我們故鄉的基石！
-114,TEXT_HEAVNF104_02354_IRONMASK_100_114,這一戰只有取得勝利，<hex:02100103>才能走向阿拉米格的明天！
-115,TEXT_HEAVNF104_02354_IRONMASK_100_115,我一定要奪回阿拉米格……<hex:02100103>不管使用什麼手段！
-116,TEXT_HEAVNF104_02354_ALPHINAUD_000_100,根據帕帕力莫的情報，<hex:02100103>走那條山野小道可以接近巴埃薩長城。
-117,TEXT_HEAVNF104_02354_ALPHINAUD_000_101,<hex:022903EB0203>，我們開始分頭前進吧。<hex:02100103>我去突破帝國軍的防衛網，以最短距離接近長城……<hex:02100103>然後進入秘密坑道，叫回帕帕力莫他們。
-118,TEXT_HEAVNF104_02354_ALPHINAUD_000_102,你就率領少數人馬，前往巴埃薩長城的最頂端，<hex:02100103>不管怎樣，一定要讓鐵面公卿撤回部隊。
-119,TEXT_HEAVNF104_02354_ALPHINAUD_000_103,我和潛入部隊匯合後會立刻去追你們，<hex:02100103>也會和希爾達他們聯繫，確保逃脫路線的。<hex:02100103>事不宜遲，我們立刻行動吧……拜託了！
-120,TEXT_HEAVNF104_02354_SERPENTSCOUT_000_110,我們受皮平協耀將之命，<hex:02100103>負責進行佯攻，以支援其他人突破。<hex:02100103>願水晶給予你指引！
-121,TEXT_HEAVNF104_02354_YUGIRI_000_115,在下可以理解這種不惜任何代價都要奪回祖國的心情……<hex:02100103>但正是因為理解，所以才更加氣憤，難以原諒這種做法。
-122,TEXT_HEAVNF104_02354_THANCRED_000_120,……我從帕帕力莫的眼神中看出，<hex:02100103>他已經做好了覺悟。<hex:02100103>即使被怨恨，我也……可惡！
-123,TEXT_HEAVNF104_02354_PIPIN_000_125,我都聽說了……那個光芒竟然是召喚蠻神所發出的……<hex:02100103>我已經命令全軍嚴陣以待，<hex:02100103>現在只能先靜觀其變了。
-124,TEXT_HEAVNF104_02354_ALPHINAUD_000_130,怎麼會這樣……
-125,TEXT_HEAVNF104_02354_HILDA_000_135,所謂雲海，其實就是水和風屬性之力捲起漩渦而形成的海。<hex:02100103>沒有人能進入雲海底部還活著回來……<hex:02100103>他到底是使用了什麼魔法回收的龍眼呢？！
-126,TEXT_HEAVNF104_02354_YDA_000_140,為什麼……
-127,TEXT_HEAVNF104_02354_YDA_000_141,為什麼不讓我留下……
-128,TEXT_HEAVNF104_02354_YDA_000_142,為什麼！我可是帕帕力莫的搭檔！<hex:02100103>所以我……
-129,TEXT_HEAVNF104_02354_THANCRED_000_143,我和帕帕力莫認識多年了，所以能夠明白。<hex:02100103>他已經做好了覺悟。
-130,TEXT_HEAVNF104_02354_THANCRED_000_144,……沒錯，和路易索瓦老爺子一樣。
-131,TEXT_HEAVNF104_02354_YDA_000_145,我也明白……可是……
-132,TEXT_HEAVNF104_02354_THANCRED_000_146,你就算留在那裡也幫不上忙。<hex:02100103><hex:022903EB0203>也已經盡全力了。<hex:02100103>我們都不知道伊爾伯德的目的竟是召喚蠻神，也未能阻止他。
-133,TEXT_HEAVNF104_02354_THANCRED_000_147,你要恨的話，就儘管恨我吧，伊達。<hex:02100103>但是絕對不要忘了，<hex:02100103>帕帕力莫想要守護的是什麼，託付的是什麼。
-134,TEXT_HEAVNF104_02354_YDA_000_148,……帕帕力莫。
-135,TEXT_HEAVNF104_02354_THANCRED_000_149,我會看著伊達的……<hex:02100103>你們就先回石之家，<hex:02100103>把情況告訴阿莉塞他們吧，拜託了……
+0,"TEXT_HEAVNF104_02354_SEQ_00","Alisaie seems eager to discuss the council's decision with the other Scions."
+1,"TEXT_HEAVNF104_02354_SEQ_01","Having apparently had her fill of the hustle and bustle of the town square, Alisaie declares her intention to retire inside to await the return of her brother and the others. Join her in the Rising Stones."
+2,"TEXT_HEAVNF104_02354_SEQ_02","Shortly after Alphinaud's arrival, a meeting is convened to discuss the outcome of the council. Hoping to convince the Griffin to abandon his course before war engulfs the realm, it is decided that Papalymo, Yda, Thancred, and Yugiri will brave the secret tunnels beneath Baelsar's Wall, and endeavor to confront the Resistance leader directly. You, meanwhile, are to stand ready in the Black Shroud for whatever eventuality may arise. Notify Alphinaud when you have made the necessary preparations."
+3,"TEXT_HEAVNF104_02354_SEQ_03","Alphinaud urges you to conclude any business you have in Revenant's Toll, and meet him at the Hawthorne Hut in the East Shroud."
+4,"TEXT_HEAVNF104_02354_SEQ_04","Outside the Hawthorne Hut, you bid the infiltration team good fortune on their mission. After they depart, Alphinaud mentions that Amarissaix's Spire offers a clear view of the Wall, and suggests that you speak with the Alliance commanders who have gathered atop the lookout platform. Identify yourself to the serpent scout at the foot of the tower."
+5,"TEXT_HEAVNF104_02354_SEQ_05","It would seem that fighting has broken out on Baelsar's Wall. Scouts report that the Griffin has begun his assault, his soldiers apparently clad in Grand Company uniforms... Plainly, the Resistance leader will stop at nothing to drag the Alliance into his conflict. To make matters worse, your fellow Scions are headed into the eye of this storm, wholly unaware of what awaits them on the surface... Despite the danger, Alphinaud resolves to plunge into the thick of the battle in an attempt to save the day. You have little choice but to join your young friend at the approach to the Wall."
+6,"TEXT_HEAVNF104_02354_SEQ_06","Alphinaud outlines a simple plan wherein he will pursue the infiltration team through the tunnels while you scale the fortifications with a party of your most trusted comrades. You must reach the top of the Wall and force the Griffin to withdraw before the unthinkable happens!<hex:02100103><hex:02100103>※Challenge Baelsar's Wall with other players via the Duty Finder, or with a party of NPCs via Duty Support. Both systems are accessible from the main menu as well as the dungeon's entrance point."
+7,"TEXT_HEAVNF104_02354_SEQ_07","You have overpowered the Griffin. See events to their conclusion before making your escape from the top of the Wall."
+8,"TEXT_HEAVNF104_02354_SEQ_08","Beneath the mask, the Griffin is revealed to be none other than Ilberd, the disgraced captain of the Crystal Braves. Following his “defeat,” the Resistance leader enacts his true plan─a ritual to summon a nightmarish primal empowered by Ala Mhigan desperation and the might of Nidhogg's eyes. Fearing a disaster to rival the Calamity itself, Papalymo steps forward with Tupsimati, and grimly begins to weave a forbidden magick of confinement... You barely have time to escape on Hilda's airship before the incantation swallows Papalymo and encases the newborn entity in a vast cocoon of light.<hex:02100103><hex:02100103>Stunned by the unexpected summoning and the loss of her dearest friend, Yda's irrepressible spirit seems to have been broken at last. Offer her what comfort you may."
+9,"TEXT_HEAVNF104_02354_SEQ_09","You attempt to speak with Yda, but there seems to be nothing you can say that will pierce the shroud of her grief. Thancred offers to watch over her whilst you and the others return to the Rising Stones with the tidings of Papalymo's demise."
+10,"TEXT_HEAVNF104_02354_SEQ_10",""
+11,"TEXT_HEAVNF104_02354_SEQ_11",""
+12,"TEXT_HEAVNF104_02354_SEQ_12",""
+13,"TEXT_HEAVNF104_02354_SEQ_13",""
+14,"TEXT_HEAVNF104_02354_SEQ_14",""
+15,"TEXT_HEAVNF104_02354_SEQ_15",""
+16,"TEXT_HEAVNF104_02354_SEQ_16",""
+17,"TEXT_HEAVNF104_02354_SEQ_17",""
+18,"TEXT_HEAVNF104_02354_SEQ_18",""
+19,"TEXT_HEAVNF104_02354_SEQ_19",""
+20,"TEXT_HEAVNF104_02354_SEQ_20",""
+21,"TEXT_HEAVNF104_02354_SEQ_21",""
+22,"TEXT_HEAVNF104_02354_SEQ_22",""
+23,"TEXT_HEAVNF104_02354_SEQ_23",""
+24,"TEXT_HEAVNF104_02354_TODO_00","Enter the Rising Stones."
+25,"TEXT_HEAVNF104_02354_TODO_01","Speak with Alphinaud."
+26,"TEXT_HEAVNF104_02354_TODO_02","Speak with Alphinaud near the Hawthorne Hut."
+27,"TEXT_HEAVNF104_02354_TODO_03","Speak with the serpent scout at Amarissaix's Spire."
+28,"TEXT_HEAVNF104_02354_TODO_04","Speak with Alphinaud."
+29,"TEXT_HEAVNF104_02354_TODO_05","Use the Duty Finder to climb Baelsar's Wall."
+30,"TEXT_HEAVNF104_02354_TODO_06","Use the Duty Finder to climb Baelsar's Wall."
+31,"TEXT_HEAVNF104_02354_TODO_07","Speak with Yda."
+32,"TEXT_HEAVNF104_02354_TODO_08",""
+33,"TEXT_HEAVNF104_02354_TODO_09",""
+34,"TEXT_HEAVNF104_02354_TODO_10",""
+35,"TEXT_HEAVNF104_02354_TODO_11",""
+36,"TEXT_HEAVNF104_02354_TODO_12",""
+37,"TEXT_HEAVNF104_02354_TODO_13",""
+38,"TEXT_HEAVNF104_02354_TODO_14",""
+39,"TEXT_HEAVNF104_02354_TODO_15",""
+40,"TEXT_HEAVNF104_02354_TODO_16",""
+41,"TEXT_HEAVNF104_02354_TODO_17",""
+42,"TEXT_HEAVNF104_02354_TODO_18",""
+43,"TEXT_HEAVNF104_02354_TODO_19",""
+44,"TEXT_HEAVNF104_02354_TODO_20",""
+45,"TEXT_HEAVNF104_02354_TODO_21",""
+46,"TEXT_HEAVNF104_02354_TODO_22",""
+47,"TEXT_HEAVNF104_02354_TODO_23",""
+48,"TEXT_HEAVNF104_02354_YUGIRI_000_001","Even now, I am astonished by how closely Mistress Alisaie resembles Master Alphinaud. Their very mannerisms are alike. From a distance, I should be hard-pressed to tell one from the other─until they opened their mouths, of course..."
+49,"TEXT_HEAVNF104_02354_ALISAIE_000_010","Well, as much as I enjoy the bustle of the Toll, I think it's time we headed inside. My brother and the others will not be long."
+50,"TEXT_HEAVNF104_02354_YSHTOLA_000_020","Ah, you are returned from the council. But what of Alphinaud? Did some other matter require his attention?"
+51,"TEXT_HEAVNF104_02354_ALPHINAUD_000_021","Mine apologies, friends. I trust we have not kept you waiting overlong."
+52,"TEXT_HEAVNF104_02354_YDA_000_022","Greetings, everyone!<hex:02100103>Oh, Krile─how's Naago doing? She <hex:021A020203>will<hex:021A020103> be all right, won't she?"
+53,"TEXT_HEAVNF104_02354_KRILE_000_023","I don't see why not. She's sleeping at the moment. Tataru is keeping an eye on her, so we'll know soon enough if there's any change in her condition."
+54,"TEXT_HEAVNF104_02354_YSHTOLA_000_024","Her wounds are healing well. With sufficient rest, I am certain she will make a full recovery."
+55,"TEXT_HEAVNF104_02354_YDA_000_025","Thank goodness for that."
+56,"TEXT_HEAVNF104_02354_YSHTOLA_000_026","Now, mayhap you would share with us the council's decision?"
+57,"TEXT_HEAVNF104_02354_ALISAIE_000_027","Each of the nations, Ishgard included, has committed to providing military support to Gridania. The Eorzean Alliance will soon have a significant force in the Black Shroud, ready to respond to any imperial act of aggression."
+58,"TEXT_HEAVNF104_02354_YDA_000_028","You know, I almost wish the council would stop messing around and give the Griffin what he wants. I wouldn't like to be the imperial caught between the Resistance and the Alliance!"
+59,"TEXT_HEAVNF104_02354_PAPALYMO_000_029","Yda, you cannot seriously─ One does not lightly go to war with the Garlean Empire."
+60,"TEXT_HEAVNF104_02354_ALPHINAUD_000_030","Quite. To open hostilities without due consideration would be to invite disaster. <sigh> If only there were some way to reach the Griffin─some means to convince him to abandon this reckless course..."
+61,"TEXT_HEAVNF104_02354_PAPALYMO_000_031","It may not be entirely unfeasible."
+62,"TEXT_HEAVNF104_02354_PAPALYMO_000_032","There is a network of tunnels beneath Baelsar's Wall─secret passages dug by the Resistance to provide a way out of Ala Mhigo."
+63,"TEXT_HEAVNF104_02354_YSHTOLA_000_033","...Which may equally serve as a way in?"
+64,"TEXT_HEAVNF104_02354_PAPALYMO_000_034","Precisely. If all are in agreement, I would be the one to undertake the necessary negotiations. I am familiar with the route, and the Resistance is familiar with me."
+65,"TEXT_HEAVNF104_02354_YDA_000_035","About as familiar as they are with <hex:021A020203>me<hex:021A020103>, you mean? Say what you want─I'm coming too!"
+66,"TEXT_HEAVNF104_02354_YUGIRI_000_036","I have some experience in the practice of infiltration. If you would have me, my services are at your disposal."
+67,"TEXT_HEAVNF104_02354_THANCRED_000_037","As are mine. It has been far too long since I shared a shadow with a shinobi, and I do not intend to waste the opportunity."
+68,"TEXT_HEAVNF104_02354_YSHTOLA_000_038","Four is quite sufficient for an infiltration mission. Greater numbers will only serve to increase the risk of detection. Krile and I will direct our energies elsewhere. What of you Leveilleurs?"
+69,"TEXT_HEAVNF104_02354_ALPHINAUD_000_039","I will return to the East Shroud, and stand watch over the border. Should matters take a turn for the worse, 'twould seem wise to be on hand."
+70,"TEXT_HEAVNF104_02354_ALPHINAUD_000_040","Might I prevail upon you to accompany me, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>? Gridania will be safer for your presence. And...while it may not seem the most thrilling duty, dear sister, might I ask that you remain at the Rising Stones to pass on messages and so on?"
+71,"TEXT_HEAVNF104_02354_ALISAIE_000_041","To <hex:021A020203>hold the fort<hex:021A020103>, you mean.<hex:02100103>...Very well. I suppose the task must fall to someone."
+72,"TEXT_HEAVNF104_02354_ALISAIE_000_042","Safe travels, all of you."
+73,"TEXT_HEAVNF104_02354_ALISAIE_000_045","I suspect Tataru would have little trouble facilitating communication between our forces under normal circumstances. But I concede she has her hands full nursing that Resistance fighter back to health. No matter: my turn in the field will come."
+74,"TEXT_HEAVNF104_02354_YDA_000_050","All I'm saying is that it wouldn't be the worst thing if we ended up joining the Griffin's fight against the Empire. I mean, it's going to happen sooner or later, isn't it?"
+75,"TEXT_HEAVNF104_02354_PAPALYMO_000_055","...I may perhaps have exaggerated my standing with the Resistance a little. But I am confident that I have a reasonable chance of putting a stop to this madness before events spiral out of control. Yes, fair-to-middling at the very least..."
+76,"TEXT_HEAVNF104_02354_YUGIRI_000_060","My fellow shinobi required little encouragement to take their place amongst the Alliance forces massing in Gridania. They are most eager to cross blades with the armies of Garlemald once more."
+77,"TEXT_HEAVNF104_02354_THANCRED_000_065","I am no ninja, but I did spend some few moons in the Sharlayan homeland learning how to move unseen. Between Yugiri and my humble self, Yda and Papalymo will be well protected."
+78,"TEXT_HEAVNF104_02354_ALPHINAUD_000_070","If you have any unfinished business in the Toll, pray attend to it now. I would depart for the Hawthorne Hut without delay."
+79,"TEXT_HEAVNF104_02354_ALPHINAUD_000_071","The nearby watchtower offers an unobstructed view of Baelsar's Wall, and I should be interested to speak to the Alliance commanders who have installed themselves at its top."
+80,"TEXT_HEAVNF104_02354_ALPHINAUD_000_080","Ah, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, there you are. Come, Amarissaix's Spire awaits."
+81,"TEXT_HEAVNF104_02354_ALPHINAUD_000_081","The Alliance officers on the platform should be able to apprise us of any developments at the Wall."
+82,"TEXT_HEAVNF104_02354_THANCRED_000_082","Fancy meeting the two of you here. We were about to set forth."
+83,"TEXT_HEAVNF104_02354_ALPHINAUD_000_083","Indeed. I was about to say, “Twelve watch over you,” but I doubt you have need of divine protection, even if you <hex:021A020203>are<hex:021A020103> venturing into enemy territory..."
+84,"TEXT_HEAVNF104_02354_YDA_000_084","Don't worry, Alphinaud─we'll have the Griffin by the scruff of the neck before you know it!"
+85,"TEXT_HEAVNF104_02354_PAPALYMO_000_085","Do make up your mind, Yda. Nary a moment ago, you seemed ready to shake the Griffin by the <hex:021A020203>hand<hex:021A020103> rather than the neck. So, which is it to be? 'Twould be best to decide <hex:021A020203>before<hex:021A020103> we enter into negotiations."
+86,"TEXT_HEAVNF104_02354_YDA_000_086","<hex:021A020203>Trust me<hex:021A020103>, Papalymo: I'll shake whatever needs shaking. The talking part I leave to you!"
+87,"TEXT_HEAVNF104_02354_PAPALYMO_000_087","...I think I feel a headache coming on. Let's be on our way, shall we?"
+88,"TEXT_HEAVNF104_02354_ALPHINAUD_000_088","Ah, some things never change...<hex:02100103>Well then, shall we make for the spire? Our Alliance friends will doubtless have news for us."
+89,"TEXT_HEAVNF104_02354_SERPENTSCOUT_000_089","Welcome, Warrior of Light. I assume you are here to speak with our commanding officers?"
+90,"TEXT_HEAVNF104_02354_SERPENTSCOUT_100_089","You will find them on the observation platform. Pray proceed."
+91,"TEXT_HEAVNF104_02354_PIPIN_100_090","Greetings, my friends. 'Tis good to see you both well."
+92,"TEXT_HEAVNF104_02354_HILDA_100_091","I was hopin' you might turn up. I've dragged half the watch here, see, and the sight of you might help remind 'em why we bothered."
+93,"TEXT_HEAVNF104_02354_RASHAHT_100_092","If memory serves, I have not seen many of you since the day of the grand melee. Having borne the brunt of your blows, may I say what an honor it is to stand at your side!"
+94,"TEXT_HEAVNF104_02354_ALPHINAUD_100_093","'Tis heartening indeed to see the realm's most stalwart defenders thus gathered in common cause. Speaking of which─what news from the Wall?"
+95,"TEXT_HEAVNF104_02354_VORSAILE_100_094","All has been quiet."
+96,"TEXT_HEAVNF104_02354_VORSAILE_100_095","Report! <hex:021A020203>What<hex:021A020103>? Seven hells... Fighting has broken out on top of the Wall! A full-scale assault!"
+97,"TEXT_HEAVNF104_02354_PIPIN_100_096","So the Griffin has made his move."
+98,"TEXT_HEAVNF104_02354_VORSAILE_100_097","<hex:021A020203>Someone<hex:021A020103> has..."
+99,"TEXT_HEAVNF104_02354_HILDA_100_098","And what's that s'posed to mean?"
+100,"TEXT_HEAVNF104_02354_VORSAILE_100_100","The attackers, they─ They're wearing Grand Company colors."
+101,"TEXT_HEAVNF104_02354_RASHAHT_100_101","Impossible. We gave no such order."
+102,"TEXT_HEAVNF104_02354_ALPHINAUD_100_102","<hex:021A020203>Of course...<hex:021A020103> The Wall was never the Griffin's target─it was bait. We have been goaded into deploying our armies nearby, thus lending weight to this deception!"
+103,"TEXT_HEAVNF104_02354_VORSAILE_100_103","If those uniforms were convincing enough to deceive my scouts, the Empire will surely think we've launched an offensive. This could mean war!"
+104,"TEXT_HEAVNF104_02354_ALPHINAUD_100_104","Even so...this may yet be no more than a diversion. With the armies of the Alliance occupying the Empire's attention, it would be comparatively easy for the Griffin's supporters to slip into Ala Mhigo."
+105,"TEXT_HEAVNF104_02354_ALPHINAUD_100_105","He could then incite a rebellion amongst the populace which the imperial reserves would be hard-pressed to contain. Eorzea, meanwhile, would be plunged into chaos."
+106,"TEXT_HEAVNF104_02354_ALPHINAUD_100_106","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, we must make for the Wall at once."
+107,"TEXT_HEAVNF104_02354_PIPIN_100_107","What, just the two of you!?"
+108,"TEXT_HEAVNF104_02354_ALPHINAUD_100_108","Our companions embarked on a mission to sway the Griffin from his course, and are likely halfway to his command post by now. They will emerge in the midst of a raging battle and I do not mean to abandon them to their fate."
+109,"TEXT_HEAVNF104_02354_ALPHINAUD_100_109","It will be dangerous, aye, but the confusion may work to our advantage. If we are careful to avoid the skirmishing, it may yet be possible to reach the Griffin...and if we can do that..."
+110,"TEXT_HEAVNF104_02354_PIPIN_100_110","Lady Hilda─might I ask that you have an airship ready to bear the Scions to safety?"
+111,"TEXT_HEAVNF104_02354_HILDA_100_111","Ha! I don't know who this <hex:021A020203>Lady<hex:021A020103> Hilda is, Marshal, but you can count on me."
+112,"TEXT_HEAVNF104_02354_RASHAHT_100_112","We must prepare for imperial reprisals. May the Navigator guide us through the storm!"
+113,"TEXT_HEAVNF104_02354_IRONMASK_100_113","Forward, comrades! The time has come to drive the Empire from Ala Mhigo, and force action upon those who have turned their backs to our suffering for so long!"
+114,"TEXT_HEAVNF104_02354_IRONMASK_100_114","Let this victory be the first step in the liberation of our homeland!"
+115,"TEXT_HEAVNF104_02354_IRONMASK_100_115","Ala Mhigo will be free─no matter the cost."
+116,"TEXT_HEAVNF104_02354_ALPHINAUD_000_100","From what Papalymo told me, the trail ahead should lead us into the shadow of the Wall."
+117,"TEXT_HEAVNF104_02354_ALPHINAUD_000_101","As we have two objectives, I suggest we divide our forces. I shall make straightways for the tunnels, and attempt to intercept our comrades ere they stumble into a bloodbath."
+118,"TEXT_HEAVNF104_02354_ALPHINAUD_000_102","While I do so...I must ask that you scale the Wall. Know that I would not propose such a course if there were any other way. But the time for subtlety is past. Take a band of your most trusted companions and cut a path through to the Griffin. Make him see reason─by any means necessary."
+119,"TEXT_HEAVNF104_02354_ALPHINAUD_000_103","Once we are free of the tunnels, we will make for your position with all due haste. And if everything proceeds according to plan, Hilda will then swoop in and spirit us all away to safety. I only pray that we have enough time."
+120,"TEXT_HEAVNF104_02354_SERPENTSCOUT_000_110","<hex:020810E905FF07>Milady<hex:FF04>Sir<hex:03>! As per Marshal Tarupin's orders, we will provide a feint to cover your advance. May the Crystal light your way forward!"
+121,"TEXT_HEAVNF104_02354_YUGIRI_000_115","I understand only too well the desire to reclaim one's homeland...but I cannot condone such slaughter."
+122,"TEXT_HEAVNF104_02354_THANCRED_000_120","Papalymo knew what he was doing. I could not refuse him."
+123,"TEXT_HEAVNF104_02354_PIPIN_000_125","It has been explained to me what that light represents, and I have ordered our forces to stand ready. It seems we can do little else but wait..."
+124,"TEXT_HEAVNF104_02354_ALPHINAUD_000_130","How many more must we lose...?"
+125,"TEXT_HEAVNF104_02354_HILDA_000_135","Every Ishgardian gets taught that the Sea of Clouds churns in the grip of the warrin' elements of water and wind. Enough to tear you apart, they say. No one's <hex:021A020203>ever<hex:021A020103> gone to the bottom of the abyss and lived to tell the tale. So how did that bastard manage to get his hands on Nidhogg's eyes?"
+126,"TEXT_HEAVNF104_02354_YDA_000_140","Why...?"
+127,"TEXT_HEAVNF104_02354_YDA_000_141","Why didn't they let me stay!?"
+128,"TEXT_HEAVNF104_02354_YDA_000_142","Papalymo is my friend! I should have been there with him!"
+129,"TEXT_HEAVNF104_02354_THANCRED_000_143","You could see it in his eyes, Yda. He knew what he was doing─what had to be done."
+130,"TEXT_HEAVNF104_02354_THANCRED_000_144","Master Louisoix wore that same look, right before the end..."
+131,"TEXT_HEAVNF104_02354_YDA_000_145","Do you think I don't know that!? I know, all right! <hex:021A020203>I know.<hex:021A020103>"
+132,"TEXT_HEAVNF104_02354_THANCRED_000_146","There is nothing more you could have done. Ilberd caught us all off guard. Even <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> was powerless to stop him."
+133,"TEXT_HEAVNF104_02354_THANCRED_000_147","If you must blame someone, then blame me. Just promise that you will never forget what Papalymo strove to protect, or the lessons he tried to teach you."
+134,"TEXT_HEAVNF104_02354_YDA_000_148","...Don't. Don't speak to me."
+135,"TEXT_HEAVNF104_02354_THANCRED_000_149","Leave Yda with me. Go on. Go back to the Rising Stones. The others need to know what happened here."

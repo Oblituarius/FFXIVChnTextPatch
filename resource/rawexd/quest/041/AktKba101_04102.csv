@@ -2,146 +2,146 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_AKTKBA101_04102_SEQ_00,流星之間的格里達尼亞的駐外武官有話要對冒險者說。
-1,TEXT_AKTKBA101_04102_SEQ_01,和格里達尼亞的駐外武官進行了交談。雙蛇黨正在募集幫手討伐黑衣森林出現的偽神獸。由於偽神獸的特殊力量非常危險，只有武藝高強之人才能勝任此職。冒險者答應了格里達尼亞的駐外武官的請求。和格里達尼亞蛇巢司令部的偽神獸負責人談談。
-2,TEXT_AKTKBA101_04102_SEQ_02,和偽神獸負責人進行了交談。加入了嘉恩·艾·神納帶領護衛白蛇守護人牽頭的格萊普尼爾討伐部隊。嘉恩·艾·神納稱中了格萊普尼爾毒氣的傷員身上會出現類似鎖死病的症狀。前往秋瓜浮村了解傷員的情況。和北部林區秋瓜浮村的埃塞爾梅爾正牙士談談。
-3,TEXT_AKTKBA101_04102_SEQ_03,和埃塞爾梅爾正牙士進行了交談。和浮栓亭的秋瓜浮村的法師談談。
-4,TEXT_AKTKBA101_04102_SEQ_04,和秋瓜浮村的法師進行了交談。遠處傳來了男子驚恐的叫聲，似乎有大群沙蚤來襲。和東門的表情畏懼的男人談談。
-5,TEXT_AKTKBA101_04102_SEQ_05,和表情畏懼的男人進行了交談。前往榿木泉，討伐<hex:02280FFF09>BNpcName<hex:F22B1B0103>。
-6,TEXT_AKTKBA101_04102_SEQ_06,討伐了大群<hex:02280FFF09>BNpcName<hex:F22B1B0103>。救助榿木泉的林場水車的商人。
-7,TEXT_AKTKBA101_04102_SEQ_07,救助了和平苑的林場水車的商人。將<hex:022811FF0A>EventItem<hex:F61E909B0103>交給浮栓亭的嘉恩·艾·神納。
-8,TEXT_AKTKBA101_04102_SEQ_08,將<hex:022811FF0A>EventItem<hex:F61E909B0103>交給了嘉恩·艾·神納。但特效藥無法治療格萊普尼爾毒氣導致的疾病。和蛇巢司令部的白蛇守護人談談。
-9,TEXT_AKTKBA101_04102_SEQ_09,和白蛇守護人進行了交談。等下一步作戰方案定下後再來這裡。<hex:02100103><hex:02100103>※任意防護職業的等級達到86級以上時，可以從蛇巢司令部的白蛇守護人那裡領取下一個防護職能任務。
-10,TEXT_AKTKBA101_04102_SEQ_10,
-11,TEXT_AKTKBA101_04102_SEQ_11,
-12,TEXT_AKTKBA101_04102_SEQ_12,
-13,TEXT_AKTKBA101_04102_SEQ_13,
-14,TEXT_AKTKBA101_04102_SEQ_14,
-15,TEXT_AKTKBA101_04102_SEQ_15,
-16,TEXT_AKTKBA101_04102_SEQ_16,
-17,TEXT_AKTKBA101_04102_SEQ_17,
-18,TEXT_AKTKBA101_04102_SEQ_18,
-19,TEXT_AKTKBA101_04102_SEQ_19,
-20,TEXT_AKTKBA101_04102_SEQ_20,
-21,TEXT_AKTKBA101_04102_SEQ_21,
-22,TEXT_AKTKBA101_04102_SEQ_22,
-23,TEXT_AKTKBA101_04102_SEQ_23,
-24,TEXT_AKTKBA101_04102_TODO_00,和蛇巢司令部的偽神獸負責人對話
-25,TEXT_AKTKBA101_04102_TODO_01,和秋瓜浮村的埃塞爾梅爾正牙士對話
-26,TEXT_AKTKBA101_04102_TODO_02,和秋瓜浮村的法師對話
-27,TEXT_AKTKBA101_04102_TODO_03,和表情畏懼的男人對話
-28,TEXT_AKTKBA101_04102_TODO_04,討伐<hex:02280FFF09>BNpcName<hex:F22B1B0103>
-29,TEXT_AKTKBA101_04102_TODO_05,救助林場水車的商人
-30,TEXT_AKTKBA101_04102_TODO_06,將鎖死病的特效藥交給嘉恩·艾·神納
-31,TEXT_AKTKBA101_04102_TODO_07,和蛇巢司令部的白蛇守護人對話
-32,TEXT_AKTKBA101_04102_TODO_08,
-33,TEXT_AKTKBA101_04102_TODO_09,
-34,TEXT_AKTKBA101_04102_TODO_10,
-35,TEXT_AKTKBA101_04102_TODO_11,
-36,TEXT_AKTKBA101_04102_TODO_12,
-37,TEXT_AKTKBA101_04102_TODO_13,
-38,TEXT_AKTKBA101_04102_TODO_14,
-39,TEXT_AKTKBA101_04102_TODO_15,
-40,TEXT_AKTKBA101_04102_TODO_16,
-41,TEXT_AKTKBA101_04102_TODO_17,
-42,TEXT_AKTKBA101_04102_TODO_18,
-43,TEXT_AKTKBA101_04102_TODO_19,
-44,TEXT_AKTKBA101_04102_TODO_20,
-45,TEXT_AKTKBA101_04102_TODO_21,
-46,TEXT_AKTKBA101_04102_TODO_22,
-47,TEXT_AKTKBA101_04102_TODO_23,
-48,TEXT_AKTKBA101_04102_RESIDENTOFFICER_000_000,那麼，請允許我簡短地說明現在的情況。<hex:02100103>現在已經確認黑衣森林出現了偽神獸，<hex:02100103>偽神獸的存在嚴重威脅了住民們的性命。
-49,TEXT_AKTKBA101_04102_RESIDENTOFFICER_000_001,更為棘手的是，偽神獸擁有一種特殊能力，<hex:02100103>我們普通士兵根本無法接近它，調查陷入難關。
-50,TEXT_AKTKBA101_04102_RESIDENTOFFICER_000_002,為了討伐偽神獸，雙蛇黨正在募集幫手，<hex:02100103>必須是一位專於保護同伴的護衛。
-51,TEXT_AKTKBA101_04102_RESIDENTOFFICER_000_003,我們正需要你這樣武藝高強的冒險者協助！<hex:02100103>你願意幫助格里達尼亞討伐偽神獸嗎？
-52,TEXT_AKTKBA101_04102_Q1_000_000,要說什麼？
-53,TEXT_AKTKBA101_04102_A1_000_001,交給我吧
-54,TEXT_AKTKBA101_04102_A1_000_002,真沒辦法……
-55,TEXT_AKTKBA101_04102_RESIDENTOFFICER_000_004,感謝你的首肯！請前往格里達尼亞的蛇巢司令部，<hex:02100103>偽神獸負責人會為你說明詳情。
-56,TEXT_AKTKBA101_04102_RESIDENTOFFICER_100_003,相關事宜已交由蛇巢司令部的偽神獸負責人處理，<hex:02100103>今後的指令將由司令部直接下達。
-57,TEXT_AKTKBA101_04102_SERPENTOFFICER_000_010,英雄閣下！<hex:02100103>我已經從派遣到拉札罕的駐外武官那裡聽說了，<hex:02100103>您是受到他的委託來處理偽神獸的嗎？
-58,TEXT_AKTKBA101_04102_SERPENTOFFICER_000_011,原來如此！<hex:02100103>現在討伐偽神獸的事宜由嘉恩·艾大人全權指揮，<hex:02100103>我這就請她過來，請在此處稍候片刻！
-59,TEXT_AKTKBA101_04102_KANESENNA_000_020,久等了，<hex:022903EB0203>。<hex:02100103>感謝您願意幫忙討伐偽神獸，<hex:02100103>我代表全體森都居民向您致敬。
-60,TEXT_AKTKBA101_04102_KANESENNA_000_021,情況緊急，我現在就說明一下黑衣森林出現的偽神獸。
-61,TEXT_AKTKBA101_04102_KANESENNA_000_022,薩維奈島異變後不久，雙蛇黨就接到報告，<hex:02100103>在黑衣森林也出現了類似的事件。<hex:02100103>一名陌生男子在眾目睽睽之下變為了異形的野獸。
-62,TEXT_AKTKBA101_04102_KANESENNA_000_023,雙蛇黨當即認定其為偽神獸，開始研究對策。<hex:02100103>由於其身體上浮現著鎖鏈般的花紋，<hex:02100103>我們決定暫且稱其為「格萊普尼爾」。
-63,TEXT_AKTKBA101_04102_KANESENNA_000_024,在那之後，格萊普尼爾不斷出沒於森林各地，<hex:02100103>所到之處生靈塗炭。
-64,TEXT_AKTKBA101_04102_KANESENNA_000_025,元靈們悲鳴不已，要求我們將異物趕出森林。<hex:02100103>可這並非容易之事……
-65,TEXT_AKTKBA101_04102_KEEPEROFTHEENTWINEDSERPENTS_000_026,我們檢查了死者的屍體，<hex:02100103>猜測格萊普尼爾的利爪、尖牙和角上散發著劇毒。
-66,TEXT_AKTKBA101_04102_KEEPEROFTHEENTWINEDSERPENTS_000_027,一旦受到它的攻擊，哪怕只是細小的擦傷，<hex:02100103>都會導致劇毒進入體內，從而致死……
-67,TEXT_AKTKBA101_04102_KANESENNA_000_060,不知你們是否聽說過一種名為鎖死病的流行病……<hex:02100103>其實格萊普尼爾的毒氣造成的症狀和鎖死病極其相似。
-68,TEXT_AKTKBA101_04102_KANESENNA_000_061,那是一種黑衣森林獨有的地方病，<hex:02100103>發作時全身疼痛無比，與此同時體表也會浮現鎖鏈狀紋樣。
-69,TEXT_AKTKBA101_04102_KEEPEROFTHEENTWINEDSERPENTS_000_062,我並非格里達尼亞出身，對鎖死病知之甚少。<hex:02100103>也都是道聽途說，不能作數。
-70,TEXT_AKTKBA101_04102_KEEPEROFTHEENTWINEDSERPENTS_000_063,但我聽說……<hex:02100103>這個病人族染上後病情會不斷加重，最後必死無疑……<hex:02100103>嘉恩·艾大人，這是真的嗎？
-71,TEXT_AKTKBA101_04102_KANESENNA_000_064,對人族來說鎖死病確實致命，甚至改變過格里達尼亞的種族比例。<hex:02100103>而後來由於一種用燈火茸製成的特效藥的問世，<hex:02100103>患者們已經不再因此喪命。
-72,TEXT_AKTKBA101_04102_KANESENNA_000_065,格萊普尼爾出現後，它帶來的致死之病<hex:02100103>和鎖死病的病狀如此相似，喚起了居民們心底的恐懼。<hex:02100103>我們還不能確定，這是否是它擴散絕望的手段之一……
-73,TEXT_AKTKBA101_04102_KANESENNA_000_028,這種毒氣無法被幻術和白魔法淨化。<hex:02100103>眼下尚未找到解決對策，我們很難有效地對抗格萊普尼爾，<hex:02100103>即使發現它的蹤跡，也不能貿然攻擊。
-74,TEXT_AKTKBA101_04102_KEEPEROFTHEENTWINEDSERPENTS_100_028,非常抱歉，打斷二位的談話。<hex:02100103>是緊急聯絡。
-75,TEXT_AKTKBA101_04102_KEEPEROFTHEENTWINEDSERPENTS_000_029,你說什麼？！
-76,TEXT_AKTKBA101_04102_KEEPEROFTHEENTWINEDSERPENTS_000_030,剛剛接到報告，偽神獸襲擊了北部林區。<hex:02100103>鬼哭隊在格萊普尼爾離去後將傷員轉移到了秋瓜浮村。
-77,TEXT_AKTKBA101_04102_KANESENNA_000_031,這可不妙。<hex:02100103>我記得負責秋瓜浮村當地的負責人應該是埃塞爾梅爾正牙士吧。<hex:02100103>我們盡快去北部林區的秋瓜浮村，向他確認情況。
-78,TEXT_AKTKBA101_04102_KANESENNA_000_040,格萊普尼爾神出鬼沒，行動力不可小覷。<hex:02100103>我們完全找不到任何規律，<hex:02100103>根本不知道它會出現在黑衣森林的哪裡……
-79,TEXT_AKTKBA101_04102_KEEPEROFTHEENTWINEDSERPENTS_000_041,出現傷者的傳聞暫時還只有秋瓜浮村的人知道，<hex:02100103>沒有擴散到外界。
-80,TEXT_AKTKBA101_04102_AETHELMAER_000_070,嘉恩·艾大人！<hex:02100103>我聽說您要來之後，就一直在這裡等您。
-81,TEXT_AKTKBA101_04102_KANESENNA_000_071,傷員在哪裡？
-82,TEXT_AKTKBA101_04102_AETHELMAER_000_072,我們把傷員安置在了浮栓亭暫且休息。<hex:02100103>秋瓜浮村的法師正在嘗試緩解他的痛苦，<hex:02100103>嘉恩·艾大人，請您幫幫他吧！
-83,TEXT_AKTKBA101_04102_KANESENNA_000_073,我知道了。
-84,TEXT_AKTKBA101_04102_KANESENNA_100_073,我現在就去找秋瓜浮村的法師，<hex:02100103>盡可能地幫助他治療傷員吧。<hex:02100103>你們二位也請跟我來。
-85,TEXT_AKTKBA101_04102_AETHELMAER_000_074,（★未使用／削除予定★）
-86,TEXT_AKTKBA101_04102_AETHELMAER_000_080,傷員正在浮栓亭接受秋瓜浮村的法師的治療。
-87,TEXT_AKTKBA101_04102_KANESENNA_000_081,他還在堅持……我會試著救他。
-88,TEXT_AKTKBA101_04102_KEEPEROFTHEENTWINEDSERPENTS_000_082,遭遇格萊普尼爾的襲擊後他竟然能忍住痛苦，<hex:02100103>堅持到我們趕來……希望我們能治好他吧。
-89,TEXT_AKTKBA101_04102_FALLGOURDINFECTED_000_083,嗚……啊……
-90,TEXT_AKTKBA101_04102_FALLGOURDCONJURER_000_090,他就是被格萊普尼爾襲擊的傷員。<hex:02100103>所有我掌握的治療魔法都無法緩解他的症狀……
-91,TEXT_AKTKBA101_04102_FALLGOURDCONJURER_000_091,魔法只能癒合傷口，對格萊普尼爾的毒氣毫無作用……<hex:02100103>患者的情況還在惡化。
-92,TEXT_AKTKBA101_04102_FALLGOURDCONJURER_000_092,我為他治療傷口時脫去了他的衣服，<hex:02100103>發現他身上也出現了鎖鏈狀花紋，和鎖死病症狀一致。<hex:02100103>如果這真是鎖死病的話，恐怕這位人族傷員……
-93,TEXT_AKTKBA101_04102_KANESENNA_000_093,命不久矣、嗎……
-94,TEXT_AKTKBA101_04102_KANESENNA_000_094,辛苦了，你先休息一下吧。<hex:02100103>讓我來接手治療。
-95,TEXT_AKTKBA101_04102_FALLGOURDMAN_000_095,(-？？？？-)沙蚤！有一大群沙蚤！！
-96,TEXT_AKTKBA101_04102_KEEPEROFTHEENTWINEDSERPENTS_000_096,是東門傳來的聲音！
-97,TEXT_AKTKBA101_04102_FALLGOURDCONJURER_000_097,沙蚤是傳播鎖死病的主要元兇之一！<hex:02100103>本就有了鎖死病的傳聞，現在又出現了大群的沙蚤，<hex:02100103>糟糕了，大家肯定會被嚇壞的！
-98,TEXT_AKTKBA101_04102_KANESENNA_000_098,傷員就交給我……你們盡快找到慘叫的人，擊退沙蚤！
-99,TEXT_AKTKBA101_04102_FALLGOURDCONJURER_000_100,沙蚤是傳播鎖死病的主要元兇之一！<hex:02100103>本就有了鎖死病的傳聞，現在又出現了大群的沙蚤，<hex:02100103>糟糕了，大家肯定會被嚇壞的！
-100,TEXT_AKTKBA101_04102_KANESENNA_000_101,傷員就交給我……你們盡快找到慘叫的人，擊退沙蚤！
-101,TEXT_AKTKBA101_04102_KEEPEROFTHEENTWINEDSERPENTS_000_102,剛才就是他通報的沙蚤來襲吧？<hex:02100103>聽聽他是怎麼說的吧。
-102,TEXT_AKTKBA101_04102_BORLENT_000_103,大群沙蚤？！在哪裡！
-103,TEXT_AKTKBA101_04102_FALLGOURDMAN_000_110,我在去林場水車的路上看到了一大群沙蚤，就在榿木泉那邊！
-104,TEXT_AKTKBA101_04102_FALLGOURDMAN_000_111,沙蚤是會傳播鎖死病的，對吧？<hex:02100103>我聽說有人被模樣奇怪的野獸襲擊，染上了鎖死病，<hex:02100103>現在可不能讓沙蚤靠近這裡，所以我趕緊回來通報了。
-105,TEXT_AKTKBA101_04102_BORLENT_000_112,等等，你沒被沙蚤叮到吧？<hex:02100103>你要是被咬了，我這就叫人來給你治。
-106,TEXT_AKTKBA101_04102_FALLGOURDMAN_000_113,你別嚇我啊！我沒被咬！<hex:02100103>比起我你們還是趕快去解決沙蚤吧！<hex:02100103>那群東西要是襲擊了路人就麻煩大了！
-107,TEXT_AKTKBA101_04102_BORLENT_000_114,可是那麼一大群沙蚤，只憑我們能處理完嗎……<hex:02100103>而且我們也需要人手來守住這裡。
-108,TEXT_AKTKBA101_04102_KEEPEROFTHEENTWINEDSERPENTS_000_115,現在請求鬼哭隊出動也來不及了。<hex:02100103>讓我們兩個分頭行動，消滅沙蚤吧。
-109,TEXT_AKTKBA101_04102_BORLENT_000_116,謝謝，那就交給你們了！<hex:02100103>榿木泉在這裡的東北方向，小心別被沙蚤叮到！
-110,TEXT_AKTKBA101_04102_BORLENT_000_120,榿木泉在這裡的東北方向，<hex:02100103>消滅大群沙蚤的任務就交給你們了，小心別被沙蚤叮到！<hex:02100103>如果路上有人受到襲擊，請幫幫他。
-111,TEXT_AKTKBA101_04102_FALLGOURDMAN_000_121,我還真是第一次看到這麼大一群沙蚤，太嚇人了。
-112,TEXT_AKTKBA101_04102_KEEPEROFTHEENTWINEDSERPENTS_000_122,一大群沙蚤的話應該很顯眼。<hex:02100103>關鍵在於，我們一定要一隻不漏地把它們盡數消滅！
-113,TEXT_AKTKBA101_04102_KEEPEROFTHEENTWINEDSERPENTS_000_130,應該沒有漏掉任何一隻吧。<hex:02100103>以防萬一，我在附近轉轉再回秋瓜浮村。
-114,TEXT_AKTKBA101_04102_HYRSTMILLMERCHANT_000_140,謝謝！我生平頭一回遇上這麼一大群沙蚤，<hex:02100103>就算我身上帶了特效藥，還是出了一身冷汗……
-115,TEXT_AKTKBA101_04102_HYRSTMILLMERCHANT_000_141,你說浮栓亭有個病人因為這個病疼得要死要活的？<hex:02100103>我就是聽說了秋瓜浮村來了個感染者，才特地跑來送特效藥的。
-116,TEXT_AKTKBA101_04102_HYRSTMILLMERCHANT_000_142,現在情況分秒必爭，我的腳程肯定不如你快。<hex:02100103>你能幫我把特效藥送去浮栓亭嗎？
-117,TEXT_AKTKBA101_04102_HYRSTMILLMERCHANT_000_143,謝謝，拜託你了！我回林場水車了，<hex:02100103>希望特效藥能緩解那位患者的病狀……
-118,TEXT_AKTKBA101_04102_BORLENT_000_150,剛才那個人我幫他檢查過了，沒發現被沙蚤叮過的痕跡，<hex:02100103>不用擔心他的安全了，放心吧。
-119,TEXT_AKTKBA101_04102_KEEPEROFTHEENTWINEDSERPENTS_000_151,正所謂不知者無畏，我以前從沒覺得沙蚤這種小蟲子值得恐懼……<hex:02100103>見識到那位傷員的症狀之後，才開始覺得鎖死病真是太可怕了。
-120,TEXT_AKTKBA101_04102_FALLGOURDCONJURER_000_152,林場水車的商人送來了<hex:022811FF0A>EventItem<hex:F61E909B0103>？<hex:02100103>太好了，你快去交給嘉恩·艾大人吧，她正在治療傷員！
-121,TEXT_AKTKBA101_04102_KANESENNA_000_160,辛苦你們幫忙擊退沙蚤。<hex:02100103>但傷員的情況不容樂觀，我只能勉強抑制他病狀的惡化……
-122,TEXT_AKTKBA101_04102_KANESENNA_000_161,<hex:022811FF0A>EventItem<hex:F61E909B0103>？<hex:02100103>既然二者症狀相似，或許這份特效藥會有用……<hex:02100103>我現在就為患者用藥。
-123,TEXT_AKTKBA101_04102_KANESENNA_000_170,這種藥見效非常快……我們馬上就能知道它是否對症了。
-124,TEXT_AKTKBA101_04102_FALLGOURDINFECTED_000_171,好、好痛……啊……
-125,TEXT_AKTKBA101_04102_KANESENNA_000_172,再忍耐一下！<hex:02100103>藥很快就能發揮作用了！
-126,TEXT_AKTKBA101_04102_FALLGOURDINFECTED_000_172,沒……嗚……沒有……！<hex:02100103>好疼啊……哈、哈……<hex:02100103>救、救我……
-127,TEXT_AKTKBA101_04102_FALLGOURDINFECTED_000_173,啊……啊……
-128,TEXT_AKTKBA101_04102_SYSTEM_000_174,呻吟聲停止了。<hex:02100103>他沒有了呼吸……
-129,TEXT_AKTKBA101_04102_KANESENNA_000_175,……<hex:02100103>至少，他不用再忍受痛苦了……
-130,TEXT_AKTKBA101_04102_KEEPEROFTHEENTWINEDSERPENTS_000_176,是用藥太晚了嗎？
-131,TEXT_AKTKBA101_04102_KANESENNA_000_177,不……我覺得特效藥根本沒有起效……
-132,TEXT_AKTKBA101_04102_KANESENNA_000_178,我們搞清了一件事……<hex:02100103>格萊普尼爾帶來的致死之病儘管症狀酷似鎖死病，<hex:02100103>但致病機理完全不同。
-133,TEXT_AKTKBA101_04102_KEEPEROFTHEENTWINEDSERPENTS_000_179,（★未使用／削除予定★）
-134,TEXT_AKTKBA101_04102_KANESENNA_000_180,不過，所幸這種毒氣的效果過於強烈。<hex:02100103>沙蚤一旦染上格萊普尼爾的劇毒，恐怕會立刻被毒死。<hex:02100103>難以成為傳播病毒的媒介。
-135,TEXT_AKTKBA101_04102_FALLGOURDCONJURER_000_181,也就是說大家不用擔心沙蚤散播疾病的問題了。<hex:02100103>我為逝者感到不幸，但我們有了些微的收穫，<hex:02100103>至少他的犧牲並沒有白費……
-136,TEXT_AKTKBA101_04102_KANESENNA_000_182,我聽說絕望會使人變成野獸。<hex:02100103>多虧了森都居民們的沉著冷靜，<hex:02100103>雙蛇黨除偽神獸外目前還沒有接到其他獸化的報告。
-137,TEXT_AKTKBA101_04102_KANESENNA_000_183,但為了讓大家安心，我們需要將這一發現告知居民們。<hex:02100103>維護國家的穩定，正需要大家的支持。
-138,TEXT_AKTKBA101_04102_FALLGOURDCONJURER_000_184,埋葬死者之後，我會盡可能告訴更多的人。
-139,TEXT_AKTKBA101_04102_KANESENNA_000_185,現在我們最重要的目標就是阻止格萊普尼爾。<hex:02100103>先回一趟蛇巢司令部吧，<hex:02100103>說不定會有關於格萊普尼爾行蹤的新報告。
-140,TEXT_AKTKBA101_04102_FALLGOURDCONJURER_000_190,我為逝者感到不幸，但我們有了些微的收穫，<hex:02100103>為了不讓他的犧牲白費，<hex:02100103>埋葬他之後，我會盡可能把我們的發現告訴更多的人。
-141,TEXT_AKTKBA101_04102_KEEPEROFTHEENTWINEDSERPENTS_000_200,我們收到了不少偽神獸蹤跡的新報告，現在正在整理情報。<hex:02100103>民眾們疑神疑鬼，消息的準確度也有待考證。<hex:02100103>嘉恩·艾大人回來之後就立刻去處理那邊的情報了。
-142,TEXT_AKTKBA101_04102_KEEPEROFTHEENTWINEDSERPENTS_000_201,雙蛇黨會加緊確認情報的真偽，指定下一步作戰方案，<hex:02100103>在此之前請你耐心等待。
+0,"TEXT_AKTKBA101_04102_SEQ_00","The Gridanian delegate is in urgent need of a stout defender to help combat a new threat to his homeland."
+1,"TEXT_AKTKBA101_04102_SEQ_01","A blasphemy has made the Twelveswood its lair, stalking its denizens and casting a dark pall over the entire region. It has proven difficult to track, and so the Adders' Nest has requested the help of a fearless defender to help protect their soldiers during the hunt. You are to report to the Adders' Nest at once."
+2,"TEXT_AKTKBA101_04102_SEQ_02","The effort to find the blasphemy is being led by none other than the Elder Seedseer herself, Kan–E–Senna. She explains that their troubles began after an unidentified man transformed into a hideous beast which the people dubbed Gleipnir─so named for its similarity to a creature of legend which bears chain-like patterns on its hide. Its claws and horns appear to be coated with a potent poison that causes these selfsame patterns to manifest on an injured victim's skin. This mark is disturbingly similar to one caused by an infamous sickness known as the Creeping Death. Alas, unlike the sickness, those poisoned by Gleipnir cannot be cured by medicine or magick. This leaves you with few options to combat the beast, and as you contemplate this problem, Kan–E's attendant receives a chilling message via linkpearl: Gleipnir has struck again. Fortunately, the victim yet lives and is being conveyed to Fallgourd Float, and so the Elder Seedseer bids you accompany her to the settlement and speak with Aethelmaer, its overseer."
+3,"TEXT_AKTKBA101_04102_SEQ_03","Aethelmaer informs you that the man is being treated by a Hearer outside of the Bobbing Cork. The healer is doing what he can, but the Elder Seedseer should surely be capable of doing more. Suspecting she may require a pair of helping hands, she asks you to follow her to the inn."
+4,"TEXT_AKTKBA101_04102_SEQ_04","The Fallgourd Hearer is doing his utmost to keep the man alive, but the poison frustrates his efforts. No sooner does Kan–E–Senna approach to attend the man than you hear a shout from nearby─a man yelling about an approaching swarm of chigoes. The vilekin are known to carry the Creeping Death, and the Hearer fears that allowing them into Fallgourd Float would spark panic among its people. The Elder Seedseer bids you investigate and resolve the situation if you can."
+5,"TEXT_AKTKBA101_04102_SEQ_05","The unharmed but distressed man warns of a mass of chigoes near Alder Springs. Fallgourd Float has few Wailers to spare, and so it falls upon you and the Keeper of the Entwined Serpents to combat this menace."
+6,"TEXT_AKTKBA101_04102_SEQ_06","When the dust has settled, countless chigoes lie dead at your feet, and the forest is much quieter for your efforts. Cowering before you is a man who was but moments before smothered in a crush of wings, and still very much in need of assistance."
+7,"TEXT_AKTKBA101_04102_SEQ_07","The flustered man is none the worse for wear, and he proceeds to tell you that he was accosted by the swarm while on his way to deliver medicine used to treat the Creeping Death to Fallgourd Float. While it is unclear whether the man was originally driven by opportunism or altruism, out of gratitude he offers you his wares free of charge. Gleipnir's poison still courses through the victim's veins, and so you must make haste to Fallgourd Float with the potential cure."
+8,"TEXT_AKTKBA101_04102_SEQ_08","Although Kan–E–Senna administers the medicine to the sick man, he is soon overcome with convulsions before, with a final cry of pain, he at last dies. The distraught Elder Seedseer strives not to let her emotions cloud her judgment, and concludes that Gleipnir's poison must be far too powerful to be carried by chigoes or any other ordinary creature; the people need only ware the blasphemy. While this knowledge comes as a relief of sorts, you are no closer to stopping the blasphemy. The beast must first be found, and to that end the Elder Seedseer suggests returning to the Adders' Nest to scour recent reports for any new information."
+9,"TEXT_AKTKBA101_04102_SEQ_09","Indeed, in your absence many sightings of Gleipnir have been reported all throughout the Twelveswood. However, when panic clouds judgment, a rabbit in the brush is often mistaken for something much more sinister. The Order of the Twin Adder must nevertheless carefully consider every report and determine which merit further investigation. And so, Kan–E's attendant asks that you stay safe in the meantime.<hex:02100103><hex:02100103>※The next role quest will be available from the Keeper of the Entwined Serpents upon reaching level 86 in any tank class."
+10,"TEXT_AKTKBA101_04102_SEQ_10",""
+11,"TEXT_AKTKBA101_04102_SEQ_11",""
+12,"TEXT_AKTKBA101_04102_SEQ_12",""
+13,"TEXT_AKTKBA101_04102_SEQ_13",""
+14,"TEXT_AKTKBA101_04102_SEQ_14",""
+15,"TEXT_AKTKBA101_04102_SEQ_15",""
+16,"TEXT_AKTKBA101_04102_SEQ_16",""
+17,"TEXT_AKTKBA101_04102_SEQ_17",""
+18,"TEXT_AKTKBA101_04102_SEQ_18",""
+19,"TEXT_AKTKBA101_04102_SEQ_19",""
+20,"TEXT_AKTKBA101_04102_SEQ_20",""
+21,"TEXT_AKTKBA101_04102_SEQ_21",""
+22,"TEXT_AKTKBA101_04102_SEQ_22",""
+23,"TEXT_AKTKBA101_04102_SEQ_23",""
+24,"TEXT_AKTKBA101_04102_TODO_00","Speak with the blasphemy huntmaster at the Adders' Nest."
+25,"TEXT_AKTKBA101_04102_TODO_01","Speak with Aethelmaer at Fallgourd Float."
+26,"TEXT_AKTKBA101_04102_TODO_02","Speak with the Fallgourd Hearer."
+27,"TEXT_AKTKBA101_04102_TODO_03","Speak with the panicky man."
+28,"TEXT_AKTKBA101_04102_TODO_04","Defeat the chigoes."
+29,"TEXT_AKTKBA101_04102_TODO_05","Aid the Hyrstmill merchant."
+30,"TEXT_AKTKBA101_04102_TODO_06","Deliver the medicine to Kan–E–Senna."
+31,"TEXT_AKTKBA101_04102_TODO_07","Speak with the Keeper of the Entwined Serpents at the Adders' Nest."
+32,"TEXT_AKTKBA101_04102_TODO_08",""
+33,"TEXT_AKTKBA101_04102_TODO_09",""
+34,"TEXT_AKTKBA101_04102_TODO_10",""
+35,"TEXT_AKTKBA101_04102_TODO_11",""
+36,"TEXT_AKTKBA101_04102_TODO_12",""
+37,"TEXT_AKTKBA101_04102_TODO_13",""
+38,"TEXT_AKTKBA101_04102_TODO_14",""
+39,"TEXT_AKTKBA101_04102_TODO_15",""
+40,"TEXT_AKTKBA101_04102_TODO_16",""
+41,"TEXT_AKTKBA101_04102_TODO_17",""
+42,"TEXT_AKTKBA101_04102_TODO_18",""
+43,"TEXT_AKTKBA101_04102_TODO_19",""
+44,"TEXT_AKTKBA101_04102_TODO_20",""
+45,"TEXT_AKTKBA101_04102_TODO_21",""
+46,"TEXT_AKTKBA101_04102_TODO_22",""
+47,"TEXT_AKTKBA101_04102_TODO_23",""
+48,"TEXT_AKTKBA101_04102_RESIDENTOFFICER_000_000","I have come on behalf of the Twin Adders to enlist the aid of accomplished fighters. The smallfolk cower in their homes for fear of an unprecedented threat to the Twelveswood: a blasphemy."
+49,"TEXT_AKTKBA101_04102_RESIDENTOFFICER_000_001","It strikes quickly and with deadly precision before returning to the shadows whence it came. Try as we might, we have yet to devise a means to track it, much less slay it."
+50,"TEXT_AKTKBA101_04102_RESIDENTOFFICER_000_002","Several brave souls search for it even now, but their chances would improve greatly if they had a stout protector by their side. Judging by your reputation, I daresay you're precisely the <hex:02080FE905FF06>woman<hex:FF04>man<hex:03> we seek."
+51,"TEXT_AKTKBA101_04102_RESIDENTOFFICER_000_003","What say you? Will you serve as the shield that stands between Gridania and certain doom?"
+52,"TEXT_AKTKBA101_04102_Q1_000_000","What will you say?"
+53,"TEXT_AKTKBA101_04102_A1_000_001","Protecting the realm is what I do."
+54,"TEXT_AKTKBA101_04102_A1_000_002","You've made it difficult to refuse..."
+55,"TEXT_AKTKBA101_04102_RESIDENTOFFICER_000_004","I will take that as an enthusiastic yes! Make haste to the Adders' Nest and report to my superior. All Gridania shall pray for your success!"
+56,"TEXT_AKTKBA101_04102_RESIDENTOFFICER_100_003","I beg you seek out my superior at the Adders' Nest with all due haste, that peace might be restored to the Twelveswood."
+57,"TEXT_AKTKBA101_04102_SERPENTOFFICER_000_010","Our liaison at Radz–at–Han sent word of your arrival, but I can still scarcely believe our luck. Are you truly here to help us bring this wicked blasphemy to heel?"
+58,"TEXT_AKTKBA101_04102_SERPENTOFFICER_000_011","Then there is hope for us yet! I shall fetch the Elder Seedseer at once─she is leading the hunt, and I'm certain she'll be most eager to see you."
+59,"TEXT_AKTKBA101_04102_KANESENNA_000_020","Full glad am I to welcome you in good health and good spirits, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. On behalf of all Gridania, allow me to thank you for rising to our defense yet again."
+60,"TEXT_AKTKBA101_04102_KANESENNA_000_021","You will forgive me for eschewing further formalities, as time is of the essence. I shall share with you what little we know of this elusive scourge."
+61,"TEXT_AKTKBA101_04102_KANESENNA_000_022","Following the events in Thavnair, we received a report that an unidentified man had fallen into fits on the road before transforming into a beast most foul─a blasphemy, we soon determined."
+62,"TEXT_AKTKBA101_04102_KANESENNA_000_023","Eyewitnesses to subsequent attacks spoke of patterns on its skin reminiscent of heavy chains, and thus we have named it Gleipnir, for the creature of legend."
+63,"TEXT_AKTKBA101_04102_KANESENNA_000_024","It emerges from the brush without warning, bringing destruction and tragedy to those unfortunate enough to be near. Ere we can respond it retreats into hiding, leaving no trace for us to follow."
+64,"TEXT_AKTKBA101_04102_KANESENNA_000_025","The elementals cry out for us to rid the forest of this wicked presence. Yet even if we tracked it to its lair, I fear besting the beast would be no simple matter."
+65,"TEXT_AKTKBA101_04102_KEEPEROFTHEENTWINEDSERPENTS_000_026","The wounds of Gleipnir's victims are tainted by corruption. We can but conclude that the fiend's fangs, claws, and horns are all imbued with a powerful poison."
+66,"TEXT_AKTKBA101_04102_KEEPEROFTHEENTWINEDSERPENTS_000_027","The smallest scratch sends the afflicted into fits, and death soon follows."
+67,"TEXT_AKTKBA101_04102_KANESENNA_000_060","Mayhap you know of the Creeping Death? The effects of Gleipnir's vile poison bear more than a passing similarity to the symptoms of that deadly plague."
+68,"TEXT_AKTKBA101_04102_KANESENNA_000_061","It swept through the Twelveswood many years ago. The sick found their skin covered in chain-like patterns, and spent their final moments in excruciating pain."
+69,"TEXT_AKTKBA101_04102_KEEPEROFTHEENTWINEDSERPENTS_000_062","'Twas long before I came to Gridania, but people still speak of it with dread."
+70,"TEXT_AKTKBA101_04102_KEEPEROFTHEENTWINEDSERPENTS_000_063","Is it true that the disease spared not a single Hyur?"
+71,"TEXT_AKTKBA101_04102_KANESENNA_000_064","Very nearly, yes. Before the remainder were taken we were able to devise a cure from the glimshroom. Slow though it was, the scars of this tragedy could then begin to heal."
+72,"TEXT_AKTKBA101_04102_KANESENNA_000_065","Gleipnir threatens to reopen old wounds, I fear. Yet despite the similarities between the blasphemy's corruption and the Creeping Death's marks, it is unclear how these two phenomena are related, if at all."
+73,"TEXT_AKTKBA101_04102_KANESENNA_000_028","Both conjury and white magic have failed to abate the poison's spread. To confront Gleipnir now would place our soldiers at risk of grievous injury."
+74,"TEXT_AKTKBA101_04102_KEEPEROFTHEENTWINEDSERPENTS_100_028","Forgive me, Elder Seedseer, but this appears to be urgent..."
+75,"TEXT_AKTKBA101_04102_KEEPEROFTHEENTWINEDSERPENTS_000_029","What? Again!?"
+76,"TEXT_AKTKBA101_04102_KEEPEROFTHEENTWINEDSERPENTS_000_030","Gleipnir has struck once more─in the North Shroud. The Wailers came too late to see the beast themselves, but the man it attacked yet lives. They are bringing him to Fallgourd Float as we speak."
+77,"TEXT_AKTKBA101_04102_KANESENNA_000_031","Then we must meet them there. Will you accompany us, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>? Aethelmaer should be able to apprise us of the details upon our arrival."
+78,"TEXT_AKTKBA101_04102_KANESENNA_000_040","We cannot say for certain Gleipnir has quit this place. Stay on your guard."
+79,"TEXT_AKTKBA101_04102_KEEPEROFTHEENTWINEDSERPENTS_000_041","Word of the attack has yet to spread among the populace. They remain calm for now."
+80,"TEXT_AKTKBA101_04102_AETHELMAER_000_070","Elder Seedseer, you honor us with your presence! I cannot thank you enough for coming all this way."
+81,"TEXT_AKTKBA101_04102_KANESENNA_000_071","Given the dire circumstances, I would not leave this to another. Where is the wounded man?"
+82,"TEXT_AKTKBA101_04102_AETHELMAER_000_072","Outside of the Bobbing Cork, being attended to by one of our Hearers. He's a capable healer, but I worry this is beyond his abilities..."
+83,"TEXT_AKTKBA101_04102_KANESENNA_000_073","I shall do all in my power to aid him."
+84,"TEXT_AKTKBA101_04102_KANESENNA_100_073","I in turn may have need of assistance as well. I ask that you stay close─both of you."
+85,"TEXT_AKTKBA101_04102_AETHELMAER_000_074",""
+86,"TEXT_AKTKBA101_04102_AETHELMAER_000_080","You'll find the victim under the eaves of the Bobbing Cork. One of our Hearers is doing what he can, but will surely not begrudge any help you can offer."
+87,"TEXT_AKTKBA101_04102_KANESENNA_000_081","He clings to life, albeit barely. We must try to ease his pain."
+88,"TEXT_AKTKBA101_04102_KEEPEROFTHEENTWINEDSERPENTS_000_082","That he survived his encounter with Gleipnir speaks to his fortitude. I know not if he can be saved, but if we can at least allay his suffering, we must."
+89,"TEXT_AKTKBA101_04102_FALLGOURDINFECTED_000_083","Ungh... <groan>"
+90,"TEXT_AKTKBA101_04102_FALLGOURDCONJURER_000_090","He's a hardy soul, but I'm utterly at a loss..."
+91,"TEXT_AKTKBA101_04102_FALLGOURDCONJURER_000_091","While I managed to heal his wounds, the poison lingers. I fear the worst is yet to come."
+92,"TEXT_AKTKBA101_04102_FALLGOURDCONJURER_000_092","When I removed his clothes for treatment, I recognized the chains. If this is indeed the Creeping Death..."
+93,"TEXT_AKTKBA101_04102_KANESENNA_000_093","...Do not lose heart."
+94,"TEXT_AKTKBA101_04102_KANESENNA_000_094","I shall spare no effort. Rest for now─we may have need of your talents again ere long."
+95,"TEXT_AKTKBA101_04102_FALLGOURDMAN_000_095","(-???-)Chigoes, man, chigoes! A bloody swarm of them!"
+96,"TEXT_AKTKBA101_04102_KEEPEROFTHEENTWINEDSERPENTS_000_096","That came from the east gate!"
+97,"TEXT_AKTKBA101_04102_FALLGOURDCONJURER_000_097","Chigoes are known as carriers of the Creeping Death. The villagers are on edge─if they think the vilekin harbingers of another plague, they may panic."
+98,"TEXT_AKTKBA101_04102_KANESENNA_000_098","Pray see to the chigoes. I shall remain here with the victim."
+99,"TEXT_AKTKBA101_04102_FALLGOURDCONJURER_000_100","We cannot let the chigoes enter the village. Rumors of sickness have already begun to spread, and a swarm will surely sow terror and discord."
+100,"TEXT_AKTKBA101_04102_KANESENNA_000_101","I shall do everything in my power to save this man. I entrust the matter of the chigoes to you."
+101,"TEXT_AKTKBA101_04102_KEEPEROFTHEENTWINEDSERPENTS_000_102","I think this wild-eyed fellow is the source of the earlier yelling. Do you see any chigoes nearby?"
+102,"TEXT_AKTKBA101_04102_BORLENT_000_103","Chigoes!? Where!? Keep them away from me!"
+103,"TEXT_AKTKBA101_04102_FALLGOURDMAN_000_110","They were near Alder Springs─a whole swarm of them, like an army gettin' ready for war!"
+104,"TEXT_AKTKBA101_04102_FALLGOURDMAN_000_111","Bringin' the Creepin' Death, like as not! Folk've been droppin' dead with no rhyme or reason, and I'm not about to join 'em, no sir! Came runnin' back fast as my legs could carry me."
+105,"TEXT_AKTKBA101_04102_BORLENT_000_112","Were you bitten? I will show you to a Hearer if so."
+106,"TEXT_AKTKBA101_04102_FALLGOURDMAN_000_113","Not a single hole that doesn't belong, you can be sure. You'd best do somethin' about that swarm though!"
+107,"TEXT_AKTKBA101_04102_BORLENT_000_114","Would that we could, but keeping the gate manned is our priority, and we have not the numbers to spare for a hunting party."
+108,"TEXT_AKTKBA101_04102_KEEPEROFTHEENTWINEDSERPENTS_000_115","By the time Wailer reinforcements arrive, it may be too late. We'll deal with the chigoes. The one who culls the greater number owes the other a flagon of ale, aye?"
+109,"TEXT_AKTKBA101_04102_BORLENT_000_116","I commend your bravery! Godsspeed, and don't get bitten!"
+110,"TEXT_AKTKBA101_04102_BORLENT_000_120","Alder Springs is to the east. Rid us of that swarm before it arrives at our gates."
+111,"TEXT_AKTKBA101_04102_FALLGOURDMAN_000_121","I've never seen so many of those filthy fiends!"
+112,"TEXT_AKTKBA101_04102_KEEPEROFTHEENTWINEDSERPENTS_000_122","We're more likely to hear the swarm before we see it. Keep your weapon close at hand─we cannot allow a single one to escape."
+113,"TEXT_AKTKBA101_04102_KEEPEROFTHEENTWINEDSERPENTS_000_130","That should be all of them. I shall search for any stragglers before returning to Fallgourd Float."
+114,"TEXT_AKTKBA101_04102_HYRSTMILLMERCHANT_000_140","Twelve be praised─and you! I've come bearing a cure for the Creeping Death, but it's of little use against <hex:021A020203>actual<hex:021A020103> death!"
+115,"TEXT_AKTKBA101_04102_HYRSTMILLMERCHANT_000_141","Aye, that's why I've come─I'd heard tell of a man suffering from uncommon pains at Fallgourd Float. Sensed an opportunity for philanthropy...and a touch of profit, I'll admit."
+116,"TEXT_AKTKBA101_04102_HYRSTMILLMERCHANT_000_142","But if what you say is true, his condition demands a much swifter pair of feet than mine. Could you bring the medicine to him in my stead? No need for payment this time, of course."
+117,"TEXT_AKTKBA101_04102_HYRSTMILLMERCHANT_000_143","You saved my life, and one good turn deserves another. I only hope the cure works as well as purported. As for me, I'll be on my way─and give any vilekin I spy a wide berth."
+118,"TEXT_AKTKBA101_04102_BORLENT_000_150","We inspected the man for bites, and for a mercy found none. The last thing we need is another potential carrier of disease..."
+119,"TEXT_AKTKBA101_04102_KEEPEROFTHEENTWINEDSERPENTS_000_151","To think that the mere mention of chigoes could spark such panic. The Creeping Death casts a long shadow over these lands..."
+120,"TEXT_AKTKBA101_04102_FALLGOURDCONJURER_000_152","You've brought medicine? What luck! We must administer it straightaway."
+121,"TEXT_AKTKBA101_04102_KANESENNA_000_160","Thank you for culling the chigoes. Alas, our patient's condition has yet to improve, and it is all we can do to keep him from succumbing to the poison..."
+122,"TEXT_AKTKBA101_04102_KANESENNA_000_161","I know this medicine─it was once used to treat the Creeping Death! Given his symptoms, it may well prove effective here as well..."
+123,"TEXT_AKTKBA101_04102_KANESENNA_000_170","It works upon the body quite quickly, as I recall..."
+124,"TEXT_AKTKBA101_04102_FALLGOURDINFECTED_000_171","<groan> I... I..."
+125,"TEXT_AKTKBA101_04102_KANESENNA_000_172","Hold on just a while longer, my friend! The medicine will soon relieve your pain!"
+126,"TEXT_AKTKBA101_04102_FALLGOURDINFECTED_000_172","I...I don't... It hurts... It hurts! Ahh!"
+127,"TEXT_AKTKBA101_04102_FALLGOURDINFECTED_000_173","Why! Why!?"
+128,"TEXT_AKTKBA101_04102_SYSTEM_000_174","The man's shrieks die in his throat as his body is wracked by violent convulsions. He then falls still and quiet, as if his breath was snatched from his chest."
+129,"TEXT_AKTKBA101_04102_KANESENNA_000_175","Twelve have mercy. At the very least, his suffering is over."
+130,"TEXT_AKTKBA101_04102_KEEPEROFTHEENTWINEDSERPENTS_000_176","Had we been quicker to deliver the medicine, would he have lived?"
+131,"TEXT_AKTKBA101_04102_KANESENNA_000_177","Nay, I think not... He was doomed from the moment the poison entered his blood. As will be others if we do not soon gain an understanding of our foe."
+132,"TEXT_AKTKBA101_04102_KANESENNA_000_178","Let this tragedy not be in vain, but serve as a lesson. Though the effects of Gleipnir's corruption resemble the Creeping Death, 'tis clear that the two share little else in common."
+133,"TEXT_AKTKBA101_04102_KEEPEROFTHEENTWINEDSERPENTS_000_179",""
+134,"TEXT_AKTKBA101_04102_KANESENNA_000_180","The poison burns through the body more quickly than any disease. Too deadly is it to be borne by creatures so fragile as chigoes, or any other besides."
+135,"TEXT_AKTKBA101_04102_FALLGOURDCONJURER_000_181","Then that is one less possibility the people need fear. 'Tis a shame a life was lost, but this knowledge may help us ensure that others are not."
+136,"TEXT_AKTKBA101_04102_KANESENNA_000_182","Spread word, but do so with delicacy. In these troubled times, fear and despair can drive even the goodliest of souls to desperate ends."
+137,"TEXT_AKTKBA101_04102_KANESENNA_000_183","Gleipnir is the only blasphemy known to us in Gridania─for now. We must do our utmost to stop him from sowing further discord."
+138,"TEXT_AKTKBA101_04102_FALLGOURDCONJURER_000_184","Understood, Elder Seedseer. I'll give this man a proper burial before sharing what we've discovered."
+139,"TEXT_AKTKBA101_04102_KANESENNA_000_185","Ascertaining Gleipnir's whereabouts is still a primary concern. Let us return to the Adders' Nest, for information shall be our most reliable weapon in the days ahead, and there is no better place to acquire it."
+140,"TEXT_AKTKBA101_04102_FALLGOURDCONJURER_000_190","I shall speak with the people after this man receives a proper burial. To honor his sacrifice, I must do what I can to buoy their hope."
+141,"TEXT_AKTKBA101_04102_KEEPEROFTHEENTWINEDSERPENTS_000_200","Gleipnir has been sighted in various locales, and though we are reviewing every report, we suspect most are erroneous. Fear has a way of making one jump at shadows."
+142,"TEXT_AKTKBA101_04102_KEEPEROFTHEENTWINEDSERPENTS_000_201","It will take some time before we have determined which reports merit a more involved investigation. Until then, I ask that you stay vigilant and keep your eyes peeled for any sign of the blasphemy."

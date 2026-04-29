@@ -2,152 +2,152 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_FESGSC801_04814_SEQ_00,※本任務是特定期間內的任務。<hex:02100103><hex:02100103>翠玉大街的凱萬想找人幫忙。
-1,TEXT_FESGSC801_04814_SEQ_01,※本任務只有在季節活動開放期間才能接受和進行。<hex:02100103>　季節活動結束後無法進行，敬請注意。<hex:02100103>　詳情請參見官方網站。<hex:02100103><hex:02100103>«神秘愛好者»雜誌的記者凱萬詢問冒險者是否聽說過金碟遊樂場的河童。前往金碟遊樂場的入口廣場，再次和凱萬談談。
-2,TEXT_FESGSC801_04814_SEQ_02,和凱萬進行了交談。冒險者們決定找到河童節的企劃提案者，解開河童之謎。在奇妙廣場尋找可能與河童一事有關的協助河童的工作人員。
-3,TEXT_FESGSC801_04814_SEQ_03,與協助河童的工作人員進行了交談。前往曼德維爾休息區，和提議舉辦河童節的健碩的河童談談。
-4,TEXT_FESGSC801_04814_SEQ_04,和健碩的河童進行了交談。健碩的河童將河童裝束給與了冒險者，並示意冒險者幫忙。在演出廣場尋找能被逗笑的客人，讓他們開心一下吧。<hex:02100103><hex:02100103>※換裝狀態被解除時，再次與健碩的河童對話便可進入換裝狀態。
-5,TEXT_FESGSC801_04814_SEQ_05,逗笑了金碟遊樂場的客人們。返回曼德維爾休息區的健碩的河童身邊。
-6,TEXT_FESGSC801_04814_SEQ_06,和健碩的河童進行了交談。健碩的河童暗示冒險者前往凱萬身邊。和入口廣場的凱萬談談。
-7,TEXT_FESGSC801_04814_SEQ_07,和凱萬進行了交談。儘管河童仍是一個謎，但凱萬離開前保證自己會寫出一篇有趣的文章。«神秘愛好者»登載的文章會為金碟遊樂場帶來大量的客人。在金碟嘉年華剩下的時間裡，盡情享受讓人目不暇接的金碟遊樂場為你帶來的快樂吧。
-8,TEXT_FESGSC801_04814_SEQ_08,
-9,TEXT_FESGSC801_04814_SEQ_09,
-10,TEXT_FESGSC801_04814_SEQ_10,
-11,TEXT_FESGSC801_04814_SEQ_11,
-12,TEXT_FESGSC801_04814_SEQ_12,
-13,TEXT_FESGSC801_04814_SEQ_13,
-14,TEXT_FESGSC801_04814_SEQ_14,
-15,TEXT_FESGSC801_04814_SEQ_15,
-16,TEXT_FESGSC801_04814_SEQ_16,
-17,TEXT_FESGSC801_04814_SEQ_17,
-18,TEXT_FESGSC801_04814_SEQ_18,
-19,TEXT_FESGSC801_04814_SEQ_19,
-20,TEXT_FESGSC801_04814_SEQ_20,
-21,TEXT_FESGSC801_04814_SEQ_21,
-22,TEXT_FESGSC801_04814_SEQ_22,
-23,TEXT_FESGSC801_04814_SEQ_23,
-24,TEXT_FESGSC801_04814_TODO_00,和金碟遊樂場的凱萬對話
-25,TEXT_FESGSC801_04814_TODO_01,在奇妙廣場尋找工作人員
-26,TEXT_FESGSC801_04814_TODO_02,和曼德維爾休息區的健碩的河童對話
-27,TEXT_FESGSC801_04814_TODO_03,換裝狀態下和演出廣場的來賓對話
-28,TEXT_FESGSC801_04814_TODO_04,和健碩的河童對話
-29,TEXT_FESGSC801_04814_TODO_05,和凱萬對話
-30,TEXT_FESGSC801_04814_TODO_06,
-31,TEXT_FESGSC801_04814_TODO_07,
-32,TEXT_FESGSC801_04814_TODO_08,
-33,TEXT_FESGSC801_04814_TODO_09,
-34,TEXT_FESGSC801_04814_TODO_10,
-35,TEXT_FESGSC801_04814_TODO_11,
-36,TEXT_FESGSC801_04814_TODO_12,
-37,TEXT_FESGSC801_04814_TODO_13,
-38,TEXT_FESGSC801_04814_TODO_14,
-39,TEXT_FESGSC801_04814_TODO_15,
-40,TEXT_FESGSC801_04814_TODO_16,
-41,TEXT_FESGSC801_04814_TODO_17,
-42,TEXT_FESGSC801_04814_TODO_18,
-43,TEXT_FESGSC801_04814_TODO_19,
-44,TEXT_FESGSC801_04814_TODO_20,
-45,TEXT_FESGSC801_04814_TODO_21,
-46,TEXT_FESGSC801_04814_TODO_22,
-47,TEXT_FESGSC801_04814_TODO_23,
-48,TEXT_FESGSC801_04814_OCCULTJOURNALIST_000_000,如果我沒看錯的話，你是一位冒險者吧？<hex:02100103>我叫凱萬，是«神秘愛好者»雜誌的記者。
-49,TEXT_FESGSC801_04814_OCCULTJOURNALIST_000_001,現在金碟遊樂場正在舉辦金碟嘉年華，<hex:02100103>嘉年華期間入場可以獲得1.5倍的金碟幣，因此現場十分熱鬧。<hex:02100103>可就在人們享受慶典時，卻出現了惹人注意的傳聞……
-50,TEXT_FESGSC801_04814_OCCULTJOURNALIST_000_002,你可聽好了！傳聞就是，活動現場竟然出現了河童！<hex:02100103>河童可是實打實的未確認生物！
-51,TEXT_FESGSC801_04814_OCCULTJOURNALIST_000_003,哎呀，我是不是說得太沒頭沒尾了？請容我解釋一下。<hex:02100103>我們雜誌把這類在傳說故事裡頻繁出現，人們卻不甚了解的生物，<hex:02100103>統一稱為未確認生物。我們的工作就是解開它們身上的謎團。
-52,TEXT_FESGSC801_04814_OCCULTJOURNALIST_000_004,無論如何，我都想要查明這次現身的河童的正身。<hex:02100103>但是，金碟嘉年華的會場這麼大，我一個人很難調查所有地方，<hex:02100103>所以，我想請你幫我一起來調查，你看怎麼樣？
-53,TEXT_FESGSC801_04814_OCCULTJOURNALIST_000_005,謝謝！謝謝你願意幫忙！<hex:02100103>那我就先走一步，去金碟遊樂場的入口廣場等你了，<hex:02100103>我們在那裡集合吧。
-54,TEXT_FESGSC801_04814_OCCULTJOURNALIST_000_006,如果你還沒有去過金碟遊樂場，<hex:02100103>就去和附近的揮金如土的年輕人談談吧。<hex:02100103>大概他會給你去那裡的票。
-55,TEXT_FESGSC801_04814_SYSTEM_000_007,若要領取或繼續推進本任務，需要在烏爾達哈現世迴廊領取<hex:02100103>15級才能領取的任務「前往遊樂場」。
-56,TEXT_FESGSC801_04814_OCCULTJOURNALIST_000_010,你來了。<hex:02100103>我想你已經發現了吧……<hex:02100103>請看看周圍吧。
-57,TEXT_FESGSC801_04814_IMPCOSTUME04814_000_011,(-河童？-)哢啪啪————！
-58,TEXT_FESGSC801_04814_Q1_000_000,要說什麼？
-59,TEXT_FESGSC801_04814_A1_000_001,河童說話了？！
-60,TEXT_FESGSC801_04814_A1_000_002,原來河童只是穿了玩偶服的人啊
-61,TEXT_FESGSC801_04814_OCCULTJOURNALIST_000_012,是啊，都會說話……<hex:02100103>畢竟怎麼看都只是一群穿了玩偶服的人而已嘛……
-62,TEXT_FESGSC801_04814_OCCULTJOURNALIST_000_013,看起來是這樣沒錯了……<hex:02100103>這裡並沒有什麼未確認生物……
-63,TEXT_FESGSC801_04814_OCCULTJOURNALIST_000_014,最近我有個同事編輯運氣特別好，找到了一個大新聞。<hex:02100103>我可不想輸給他，<hex:02100103>所以我一聽說河童的傳聞就趕過來了……
-64,TEXT_FESGSC801_04814_OCCULTJOURNALIST_000_015,沒想到金碟遊樂場的河童的真身，<hex:02100103>只是一群穿了玩偶服的人而已。<hex:02100103>我怎麼會這麼倒霉……
-65,TEXT_FESGSC801_04814_OCCULTJOURNALIST_100_015,完啦！！
-66,TEXT_FESGSC801_04814_OCCULTJOURNALIST_000_016,完了啊，<hex:02100103>«神秘愛好者»的讀者想看的可不是這種新聞啊！
-67,TEXT_FESGSC801_04814_OCCULTJOURNALIST_000_017,既然都這樣了，我乾脆就來採訪一下這次活動吧。<hex:02100103>讓我們仔細探究一番，<hex:02100103>找到河童現身金碟遊樂場的秘密！
-68,TEXT_FESGSC801_04814_OCCULTJOURNALIST_000_018,在我等你的這段時間裡，我跟接待的人聊了聊。<hex:02100103>據說這次河童活動的企劃是由很少的幾個人決定的，<hex:02100103>大多數工作人員甚至不知道最初的提案者是誰……
-69,TEXT_FESGSC801_04814_OCCULTJOURNALIST_000_019,但我認為，和協助河童的工作人員聊一聊<hex:02100103>或許能從對方那知道點什麼！<hex:02100103>我們分頭找他們打聽一下吧！
-70,TEXT_FESGSC801_04814_OCCULTJOURNALIST_000_020,奇妙廣場那邊就麻煩你了。<hex:02100103>我去其他的區域問過之後再回來找你。
-71,TEXT_FESGSC801_04814_GOLDSAUCERSTAFF04814_100_030,哎呀，客人你對河童感興趣？<hex:02100103>很抱歉，因為它們只能說「哢啪啪」，<hex:02100103>就請讓我來代它回答你的問題吧。
-72,TEXT_FESGSC801_04814_GOLDSAUCERSTAFF04814_000_030,你想了解金碟嘉年華的活動……想了解我們的河童節？<hex:02100103>這一次的嘉年華，我們讓身著河童玩偶服的工作人員在場中宣傳，<hex:02100103>是不是獨特又新鮮？
-73,TEXT_FESGSC801_04814_GOLDSAUCERSTAFF04814_000_031,之所以會舉辦河童節，其實是因為一個人的突發奇想。<hex:02100103>我們第一次聽到這個提議的時候，也以為是自己聽錯了呢，<hex:02100103>幸好客人們的反響比我們預估的要好多了。
-74,TEXT_FESGSC801_04814_GOLDSAUCERSTAFF04814_000_032,看起來匪夷所思的河童蓑衣，<hex:02100103>讓人不由自主地模仿起來的叫聲「哢啪啪」……<hex:02100103>乍一看古古怪怪的同時，又微妙地討人喜歡！
-75,TEXT_FESGSC801_04814_GOLDSAUCERSTAFF04814_000_033,當然了，其他的客人也曾提出過類似的問題，<hex:02100103>為什麼金碟遊樂場裡會有河童……？<hex:02100103>但老實說，我們也不知道緣由。
-76,TEXT_FESGSC801_04814_GOLDSAUCERSTAFF04814_000_034,想知道具體資訊的話，最好的辦法就是詢問提出想法的人了，<hex:02100103>請你跑一趟奇妙廣場2樓，去曼德維爾休息區，<hex:02100103>找健碩的河童問問具體的情況吧？
-77,TEXT_FESGSC801_04814_GOLDSAUCERSTAFF04814_100_034,雖然你跟他聊天，他也只能用「哢啪啪」作答，<hex:02100103>但是你的話一定能理解健碩的河童的意思。<hex:02100103>畢竟……他可是最特別的那個河童！
-78,TEXT_FESGSC801_04814_GOLDSAUCERSTAFF04814_000_035,請你跑一趟奇妙廣場2樓，去曼德維爾休息區，<hex:02100103>找健碩的河童問問具體的情況吧？
-79,TEXT_FESGSC801_04814_GODBERT_000_040,哢啪……
-80,TEXT_FESGSC801_04814_GODBERT_000_041,哢……啪啪！<hex:02100103>哢啪啪——！
-81,TEXT_FESGSC801_04814_SYSTEM_000_042,健碩的河童突然將一套河童蓑衣塞給了你！<hex:02100103>他的眼中彷彿充滿了對你的期待，<hex:02100103>看來他是希望你能穿上這件衣服迎接來賓。
-82,TEXT_FESGSC801_04814_SYSTEM_000_043,河童指向了演出廣場的方向。<hex:02100103>看起來你只有按他的指示行動，他才會回答你的問題……<hex:02100103>打扮成河童的樣子和演出廣場的客人們聊聊吧。
-83,TEXT_FESGSC801_04814_SYSTEM_000_044,開始換裝。<hex:02100103>在執行任務時，需要處於換裝狀態。
-84,TEXT_FESGSC801_04814_SYSTEM_000_045,如果解除了換裝狀態或想要延長時間的話，<hex:02100103>需要再次和健碩的河童對話，重新開始挑戰。
-85,TEXT_FESGSC801_04814_GODBERT_000_046,哢啪啪——！
-86,TEXT_FESGSC801_04814_GOLDSAUCERGUESTA04814_000_050,唉……<hex:02100103>累了……
-87,TEXT_FESGSC801_04814_SYSTEM_000_051,在執行該任務時，需要處於換裝狀態。<hex:02100103>和健碩的河童對話，開始換裝吧！
-88,TEXT_FESGSC801_04814_GOLDSAUCERGUESTA04814_000_052,你是……金碟遊樂場的新吉祥物？
-89,TEXT_FESGSC801_04814_GOLDSAUCERGUESTA04814_000_053,我說你，跟我講講哪個遊樂項目賺金碟幣吧？<hex:02100103>我在這輸得老本都賠完了……
-90,TEXT_FESGSC801_04814_Q2_000_000,如何作答？
-91,TEXT_FESGSC801_04814_A2_000_001,哢啪啪——！
-92,TEXT_FESGSC801_04814_A2_000_002,哢啪……
-93,TEXT_FESGSC801_04814_A2_000_003,請允許我為你介紹金碟遊樂場
-94,TEXT_FESGSC801_04814_GOLDSAUCERGUESTA04814_000_054,什……什麼意思？<hex:02100103>你是想告訴我賺金碟幣的法子？還是因為我老是輸想安慰我？<hex:02100103>我完全聽不懂啊……
-95,TEXT_FESGSC801_04814_GOLDSAUCERGUESTA04814_000_055,……不過，姑且算是挺好笑的。<hex:02100103>果然，不管是輸還是贏，重要的是開心啊！
-96,TEXT_FESGSC801_04814_GOLDSAUCERGUESTA04814_000_056,什……什麼！吉祥物說話了？！<hex:02100103>給我好好當吉祥物啊……！
-97,TEXT_FESGSC801_04814_SYSTEM_000_057,沒能逗笑客人……<hex:02100103>試試其他辦法吧！
-98,TEXT_FESGSC801_04814_GOLDSAUCERGUESTB04814_000_058,我好像……看到了一種陌生的吉祥物？<hex:02100103>不過，讓我過去搭話總感覺有點害怕呢……
-99,TEXT_FESGSC801_04814_SYSTEM_000_059,在執行該任務時，需要處於換裝狀態。<hex:02100103>和健碩的河童對話，開始換裝吧！
-100,TEXT_FESGSC801_04814_GOLDSAUCERGUESTB04814_000_060,你、你是……新的吉祥物吧？<hex:02100103>空洞的眼睛，厚而堅實的喙，還有這個腦袋的……是什麼啊……<hex:02100103>你這孩子……到底是什麼東西啊？
-101,TEXT_FESGSC801_04814_Q3_000_000,如何作答？
-102,TEXT_FESGSC801_04814_A3_000_001,哢啪啪——！
-103,TEXT_FESGSC801_04814_A3_000_002,哢啪……？
-104,TEXT_FESGSC801_04814_A3_000_003,是河童蓑衣……高科技結晶
-105,TEXT_FESGSC801_04814_GOLDSAUCERGUESTB04814_000_061,哎……河童……？<hex:02100103>這到底是怎麼回事，明明乍一看是個怪東西，<hex:02100103>但再仔細一看，竟然又覺得有點可愛了！
-106,TEXT_FESGSC801_04814_GOLDSAUCERGUESTB04814_000_062,不過我也很喜歡仙人刺先生……哎呀！<hex:02100103>竟然能被這麼多吉祥物包圍！金碟遊樂場可真是個好地方啊！
-107,TEXT_FESGSC801_04814_GOLDSAUCERGUESTB04814_000_063,高科技……？<hex:02100103>你胡說，你看起來明明就是個普通吉祥物嘛！
-108,TEXT_FESGSC801_04814_SYSTEM_000_064,沒能逗笑客人……<hex:02100103>試試其他辦法吧！
-109,TEXT_FESGSC801_04814_GOLDSAUCERGUESTC04814_000_065,太好了爸爸！賺到了好多金碟幣哦！<hex:02100103>我們要用這些金碟幣換什麼好呢？
-110,TEXT_FESGSC801_04814_SYSTEM_000_066,在執行該任務時，需要處於換裝狀態。<hex:02100103>和健碩的河童對話，開始換裝吧！
-111,TEXT_FESGSC801_04814_GOLDSAUCERGUESTC04814_000_067,哇！是好奇怪的吉祥物！<hex:02100103>吉祥物吉祥物請告訴我！<hex:02100103>我們賺到了好多金碟幣，用來換什麼好呢？
-112,TEXT_FESGSC801_04814_Q4_000_000,如何作答？
-113,TEXT_FESGSC801_04814_A4_000_001,哢啪啪——！
-114,TEXT_FESGSC801_04814_A4_000_002,哢啪啪！哢啪啪！
-115,TEXT_FESGSC801_04814_A4_000_003,獎品中的河童童是個不錯的選擇
-116,TEXT_FESGSC801_04814_GOLDSAUCERGUESTC04814_000_069,哢啪啪……唔，是指你自己嗎……？<hex:02100103>對了！有一個獎品就叫河童童呢！
-117,TEXT_FESGSC801_04814_GOLDSAUCERGUESTC04814_000_070,爸爸！我要河童童！給我換給我換！<hex:02100103>我們快去換河童童吧！求你了！
-118,TEXT_FESGSC801_04814_GOLDSAUCERGUESTC04814_000_071,吉、吉祥物……說話了……！
-119,TEXT_FESGSC801_04814_SYSTEM_000_072,小女孩被嚇壞了……<hex:02100103>試試其他辦法吧！
-120,TEXT_FESGSC801_04814_SYSTEM_000_073,逗笑了眾多客人！<hex:02100103>快回去向健碩的河童報告吧！
-121,TEXT_FESGSC801_04814_GODBERT_000_080,哢啪啪……
-122,TEXT_FESGSC801_04814_SYSTEM_000_081,他似乎希望你能先把玩偶服脫下來，<hex:02100103>將河童蓑衣脫下來還給健碩的河童吧。
-123,TEXT_FESGSC801_04814_GODBERT_000_082,哢啪啪……
-124,TEXT_FESGSC801_04814_SYSTEM_000_083,健碩的河童希望能在凱萬的身邊談談。<hex:02100103>前往入口廣場和凱萬匯合。
-125,TEXT_FESGSC801_04814_OCCULTJOURNALIST_000_090,你回來了。<hex:02100103>我詢問了工作人員和客人們的反應，<hex:02100103>遺憾的是，仍沒能找到企劃的提案者。
-126,TEXT_FESGSC801_04814_OCCULTJOURNALIST_000_091,唯一知道的是，河童廣受大家好評。<hex:02100103>可以的話，能請你說說你那邊的情況嗎？
-127,TEXT_FESGSC801_04814_GODBERT_000_092,嚯嚯……<hex:022903EB0203>閣下。<hex:02100103>真沒想到你也來參加慶典了。
-128,TEXT_FESGSC801_04814_GODBERT_000_093,嚯嚯……冒險者閣下，初次見面。<hex:02100103>我是金碟遊樂場的主人，<hex:02100103>戈德伯特·曼德維爾。
-129,TEXT_FESGSC801_04814_OCCULTJOURNALIST_000_094,金碟遊樂場的主人，沙蠍眾之一的戈德伯特先生！<hex:02100103>你一定很清楚這個企劃的提案者是誰吧！<hex:02100103>能請你告訴我們嗎？
-130,TEXT_FESGSC801_04814_GODBERT_000_095,冒險者閣下！剛才你也幫我們宣傳了一下吧？<hex:02100103>你的疑問，為什麼河童會出現在金碟遊樂場，<hex:02100103>又是誰提出了這個想法……就讓我來給你們解釋一下吧。
-131,TEXT_FESGSC801_04814_GODBERT_000_096,讓我一個一個給你們講講吧。<hex:02100103>首先，河童節這個活動的企劃者，不是別人，正是我。
-132,TEXT_FESGSC801_04814_GODBERT_000_097,在我們金碟遊樂場的工作人員中，<hex:02100103>其實有一位名叫提豐的妖異。<hex:02100103>咒術師公會在一次實驗中召喚出了它。
-133,TEXT_FESGSC801_04814_GODBERT_000_098,在僱傭提豐閣下的過程中，<hex:02100103>我也和咒術師公會的諸位建立了一些友誼……<hex:02100103>就是在這個過程中，我聽說了古代魔法「河童」的存在。
-134,TEXT_FESGSC801_04814_GODBERT_000_099,古代魔法河童，是能將人變成謎之生物河童的魔法。
-135,TEXT_FESGSC801_04814_GODBERT_000_100,你還記得十分擅長河童魔法的奧爾特羅斯閣下嗎？<hex:02100103>它也說過類似於「河童、好朋友！好朋友！」的話。
-136,TEXT_FESGSC801_04814_GODBERT_000_101,但是說到底，河童到底是什麼，仍舊是個謎團……<hex:02100103>無論我如何調查，都未能找到答案。
-137,TEXT_FESGSC801_04814_GODBERT_000_102,然而，未知正是最誘人的亮點。<hex:02100103>不知何時起，我開始醉心於河童這種生物。
-138,TEXT_FESGSC801_04814_GODBERT_000_103,再回過神來時，<hex:02100103>癡迷於河童的我竟然已經創造出了這套河童蓑衣……<hex:02100103>所以我才決定舉辦這一次的活動，讓大家都能感受到河童的魅力。
-139,TEXT_FESGSC801_04814_OCCULTJOURNALIST_000_104,這就是河童現身的真相嗎……<hex:02100103>其中的經過我都了解了……
-140,TEXT_FESGSC801_04814_GODBERT_000_105,嚯……<hex:02100103>對於刊載眾多神秘現象的«神秘愛好者»來說，<hex:02100103>沒解開河童的真身之謎，果然還是有些遺憾吧。
-141,TEXT_FESGSC801_04814_OCCULTJOURNALIST_000_106,「震驚！金碟遊樂場驚現未確認生物！<hex:02100103>罪魁禍首竟是咒術師公會？！」
-142,TEXT_FESGSC801_04814_OCCULTJOURNALIST_100_106,很好！很不錯！我贏定了！
-143,TEXT_FESGSC801_04814_OCCULTJOURNALIST_000_107,只要看看客人們的反應就知道了，<hex:02100103>河童有讓人喜歡，讓人快樂的魔力……就算從結果上來看，<hex:02100103>它仍然謎團纏身，我還是希望大家能多了解些河童的已知情報。
-144,TEXT_FESGSC801_04814_OCCULTJOURNALIST_000_108,戈德伯特先生說的這些也很有意思，<hex:02100103>如果是關於這方面的調查，讀者應該也會很感興趣吧。<hex:02100103>接下來，就看我的筆力如何了……！
-145,TEXT_FESGSC801_04814_GODBERT_000_109,嚯嚯嚯！<hex:02100103>沒想到河童的故事會以這種形式被採納……<hex:02100103>很好，還請你在稿子裡多多美言幾句！
-146,TEXT_FESGSC801_04814_GODBERT_000_110,那麼，作為二位替我們宣傳的禮物，<hex:02100103>請收下這套河童蓑衣吧。
-147,TEXT_FESGSC801_04814_OCCULTJOURNALIST_000_111,也請收下我的謝禮，謝謝你陪我採訪。<hex:02100103>多虧你，我才能找到這麼好的新聞，<hex:02100103>我得趕緊回去寫報道了！
-148,TEXT_FESGSC801_04814_GODBERT_000_112,冒險者，活動還在繼續，<hex:02100103>希望你今後也能以河童的樣子，<hex:02100103>盡情享受金碟嘉年華！
+0,"TEXT_FESGSC801_04814_SEQ_00","Quevain is convinced that the truth is out there.<hex:02100103>※This quest is available for a limited time only."
+1,"TEXT_FESGSC801_04814_SEQ_01","Quevain, writer for <hex:021A020203>The Thavnairian Truth<hex:021A020103>, is come to Ul'dah on the heels of a rumor surrounding the Manderville Gold Saucer's recent festivities. A horde of water imps has allegedly appeared in the Saucer's gilded halls, and the journalist is keen to learn the creatures' motives for his newest article. Hoping to gather more information on the scene, Quevain requests your assistance in the matter, and bids you join him at Entrance Square.<hex:02100103><hex:02100103>※Please note that you will be unable to complete this quest after the seasonal event has ended. For details, please check the Lodestone."
+2,"TEXT_FESGSC801_04814_SEQ_02","Quevain is disheartened to discover that the imps he sought to write about are naught more than attendants in costume. Though his initial plans have gone awry, he decides instead to write of the imps' relation to the Gold Saucer's festivities, based on an intriguing lead he received regarding the event's creation. With newfound determination, he rushes off to glean more information, and entrusts you with inquiries at Wonder Square."
+3,"TEXT_FESGSC801_04814_SEQ_03","You approach a Gold Saucer attendant, who gleefully explains to you how the March of the Imps came to be. The more pertinent details elude the attendant, however, and he suggests you make for the Manderville Lounge to find the imp who coined the idea for the March."
+4,"TEXT_FESGSC801_04814_SEQ_04","Upon your arrival at the Manderville Lounge, you are accosted by the imposing imp, who promptly confers upon you a set of impish attire. His cries are unintelligible, yet in his vigorous gestures and overwhelming gaze, you are well aware of the task he has thrust upon you: you must march through Event Square in costume and entertain the Saucer's patrons if you wish to obtain the knowledge you seek.<hex:02100103><hex:02100103>※You must be wearing the impish attire to complete this task."
+5,"TEXT_FESGSC801_04814_SEQ_05","With your newfound wealth of impish charm, you have brought comfort and cheer to several of the Saucer's guests. The imposing imp will surely be pleased to hear of your progress, and awaits you back at the Manderville Lounge."
+6,"TEXT_FESGSC801_04814_SEQ_06","Now divested of your temporary attire, you present yourself to the imposing imp once again. He heartily gestures in the direction of Entrance Square─where Quevain awaits your arrival─and urges you to follow."
+7,"TEXT_FESGSC801_04814_SEQ_07","In the midst of your report to Quevain, you are approached by Godbert Manderville, who admits his involvement in the March of the Imps' creation. Undeterred by the lingering questions of the imps' origins, Quevain believes that Godbert's imp-related discoveries will be more than enough to captivate <hex:021A020203>The Thavnairian Truth<hex:021A020103>'s readers. As thanks for promoting the Saucer's festivities, Godbert ensures that you do not leave empty-handed, and presents you with your very own impish attire, that you might enjoy the remainder of this golden celebration in costume...if you so choose."
+8,"TEXT_FESGSC801_04814_SEQ_08",""
+9,"TEXT_FESGSC801_04814_SEQ_09",""
+10,"TEXT_FESGSC801_04814_SEQ_10",""
+11,"TEXT_FESGSC801_04814_SEQ_11",""
+12,"TEXT_FESGSC801_04814_SEQ_12",""
+13,"TEXT_FESGSC801_04814_SEQ_13",""
+14,"TEXT_FESGSC801_04814_SEQ_14",""
+15,"TEXT_FESGSC801_04814_SEQ_15",""
+16,"TEXT_FESGSC801_04814_SEQ_16",""
+17,"TEXT_FESGSC801_04814_SEQ_17",""
+18,"TEXT_FESGSC801_04814_SEQ_18",""
+19,"TEXT_FESGSC801_04814_SEQ_19",""
+20,"TEXT_FESGSC801_04814_SEQ_20",""
+21,"TEXT_FESGSC801_04814_SEQ_21",""
+22,"TEXT_FESGSC801_04814_SEQ_22",""
+23,"TEXT_FESGSC801_04814_SEQ_23",""
+24,"TEXT_FESGSC801_04814_TODO_00","Speak with Quevain at the Gold Saucer."
+25,"TEXT_FESGSC801_04814_TODO_01","Search for the avid attendant in Wonder Square."
+26,"TEXT_FESGSC801_04814_TODO_02","Speak with the imposing imp at the Manderville Lounge."
+27,"TEXT_FESGSC801_04814_TODO_03","Speak with patrons while dressed as an imp."
+28,"TEXT_FESGSC801_04814_TODO_04","Speak with the imposing imp."
+29,"TEXT_FESGSC801_04814_TODO_05","Speak with Quevain."
+30,"TEXT_FESGSC801_04814_TODO_06",""
+31,"TEXT_FESGSC801_04814_TODO_07",""
+32,"TEXT_FESGSC801_04814_TODO_08",""
+33,"TEXT_FESGSC801_04814_TODO_09",""
+34,"TEXT_FESGSC801_04814_TODO_10",""
+35,"TEXT_FESGSC801_04814_TODO_11",""
+36,"TEXT_FESGSC801_04814_TODO_12",""
+37,"TEXT_FESGSC801_04814_TODO_13",""
+38,"TEXT_FESGSC801_04814_TODO_14",""
+39,"TEXT_FESGSC801_04814_TODO_15",""
+40,"TEXT_FESGSC801_04814_TODO_16",""
+41,"TEXT_FESGSC801_04814_TODO_17",""
+42,"TEXT_FESGSC801_04814_TODO_18",""
+43,"TEXT_FESGSC801_04814_TODO_19",""
+44,"TEXT_FESGSC801_04814_TODO_20",""
+45,"TEXT_FESGSC801_04814_TODO_21",""
+46,"TEXT_FESGSC801_04814_TODO_22",""
+47,"TEXT_FESGSC801_04814_TODO_23",""
+48,"TEXT_FESGSC801_04814_OCCULTJOURNALIST_000_000","That eclectic attire, that distinct scent of the unknown... You, my good stranger, must be an adventurer! You have found yourself in the company of Quevain, journalist for <hex:021A020203>The Thavnairian Truth<hex:021A020103>. A pleasure to make your acquaintance."
+49,"TEXT_FESGSC801_04814_OCCULTJOURNALIST_000_001","Are you aware of the festivities currently underway at the Gold Saucer? They guarantee a generous MGP bonus to those who participate, but I have reason to believe that there is more to this celebration than meets the eye..."
+50,"TEXT_FESGSC801_04814_OCCULTJOURNALIST_000_002","As a writer for the premier publication on unexplained and otherworldly phenomena, I was drawn not to the promise of copious Cactpots, but to the rumors of enigmatic water imps that have suddenly proliferated amongst the Saucer's patrons."
+51,"TEXT_FESGSC801_04814_OCCULTJOURNALIST_000_003","We at <hex:021A020203>The Thavnairian Truth<hex:021A020103> have been looking to expand our investigations across the star, and this supernatural scoop presents us with the ideal opportunity."
+52,"TEXT_FESGSC801_04814_OCCULTJOURNALIST_000_004","Why have the imps made themselves known now? What do they intend to accomplish? I must cover this groundbreaking story with all due haste...but I cannot hope to answer all these questions alone. Tell me, adventurer, would you aid me in my pursuit of truth?"
+53,"TEXT_FESGSC801_04814_OCCULTJOURNALIST_000_005","Excellent, excellent! Then let us reconvene at the Gold Saucer's Entrance Square."
+54,"TEXT_FESGSC801_04814_OCCULTJOURNALIST_000_006","...Ah, but if you require a ticket to enter, I'm afraid I have naught to spare. Perhaps you might have better luck speaking with the well-heeled youth over yonder? He was loudly proclaiming something about a “not-so-small fortune” from the Saucer nary a moment ago."
+55,"TEXT_FESGSC801_04814_SYSTEM_000_007","In order to undertake this quest, you must first complete the quest “It Could Happen to You,” which can be undertaken at level 15."
+56,"TEXT_FESGSC801_04814_OCCULTJOURNALIST_000_010","Ah, you've arrived. Notice anything...out of the ordinary?"
+57,"TEXT_FESGSC801_04814_IMPCOSTUME04814_000_011","(-Water Imp?-)Squee-hee-hee!"
+58,"TEXT_FESGSC801_04814_Q1_000_000","What will you say?"
+59,"TEXT_FESGSC801_04814_A1_000_001","<hex:021A020203>What<hex:021A020103> did it just say to me!?"
+60,"TEXT_FESGSC801_04814_A1_000_002","I think our “creature” is in costume."
+61,"TEXT_FESGSC801_04814_OCCULTJOURNALIST_000_012","Some manner of greeting, I presume. Though its cries are convincing, that impish form appears to be naught more than a well-crafted guise."
+62,"TEXT_FESGSC801_04814_OCCULTJOURNALIST_000_013","<sigh> Indeed... An imitation, and nothing more."
+63,"TEXT_FESGSC801_04814_OCCULTJOURNALIST_000_014","...And here I thought I could rival the editor in chief with my own unprecedented article. Now what am I to report? This is but child's play next to the extraterrestrial discoveries he has made!"
+64,"TEXT_FESGSC801_04814_OCCULTJOURNALIST_000_015","We have found the source of the rumors, but... “Saucer Imps Unmasked: Just Normal Men and Women in Costume”? Why, that sounds more to me like a waste of good ink!"
+65,"TEXT_FESGSC801_04814_OCCULTJOURNALIST_100_015","It's <hex:021A020203>unacceptable<hex:021A020103>! Worthless! Unfit for consumption!"
+66,"TEXT_FESGSC801_04814_OCCULTJOURNALIST_000_016","Gods, I grow drowsy just thinking about writing such a thing. Our readership would be appalled!"
+67,"TEXT_FESGSC801_04814_OCCULTJOURNALIST_000_017","Fortunately, there is another curious lead that I wish to pursue. In doing so, we may frame our story around the current festivities, then recount the role of the imps within them... Yes, that might suffice!"
+68,"TEXT_FESGSC801_04814_OCCULTJOURNALIST_000_018","You see, as I awaited your arrival, I questioned the attendant at the front desk as to the imps' origins. Strangely enough, I was told that only a select few staff members were present in the planning stages of this affair, and fewer still know who proposed the initial idea."
+69,"TEXT_FESGSC801_04814_OCCULTJOURNALIST_000_019","I was, however, informed that a staff member on the floor─a man attending to an imp─may have the information we seek. If we split up and search the Saucer, we're bound to find him."
+70,"TEXT_FESGSC801_04814_OCCULTJOURNALIST_000_020","I shall leave Wonder Square to you. Let us reconvene here when our rounds are complete."
+71,"TEXT_FESGSC801_04814_GOLDSAUCERSTAFF04814_100_030","Well met, my good <hex:02080FE905FF06>woman<hex:FF04>man<hex:03>! My companion and I are delighted to make your acquaintance. He cannot speak like you and I, but I assure you, he is oh-so-fond of making new friends on this joyous, impish occasion."
+72,"TEXT_FESGSC801_04814_GOLDSAUCERSTAFF04814_000_030","What is the occasion, you ask? Why, the March of the Imps, of course! 'Tis a fresh new take on our annual celebration here at the Gold Saucer, as suggested by one of our staff."
+73,"TEXT_FESGSC801_04814_GOLDSAUCERSTAFF04814_000_031","When we first received word of it, we were rather baffled by the concept...but it seems to have left a positive <hex:021A020203>imp<hex:021A020103>ression on our guests!"
+74,"TEXT_FESGSC801_04814_GOLDSAUCERSTAFF04814_000_032","To present our patrons with the most engaging experience possible, we've outfitted our attendants with impish attire. These costumed imps are free to frolic about the Saucer and bring joy to those they meet, with an adorable “squeee!” or a “ka-pa-paaa!”"
+75,"TEXT_FESGSC801_04814_GOLDSAUCERSTAFF04814_000_033","“Why imps?” one might ask, and they would have good reason to do so! Alas, I myself was never told the exact reasoning."
+76,"TEXT_FESGSC801_04814_GOLDSAUCERSTAFF04814_000_034","But if you're keen to learn more of the March, I know just the imp who can assist you! He's the one who coined the idea for it, after all. I last saw him on the second floor at the Manderville Lounge. He may still be there, if you hurry."
+77,"TEXT_FESGSC801_04814_GOLDSAUCERSTAFF04814_100_034","If he should speak to you in the impish tongue, you needn't fret. He's particularly unique, even among his brethren, and he makes his intentions quite clear to those not versed in impspeak."
+78,"TEXT_FESGSC801_04814_GOLDSAUCERSTAFF04814_000_035","If you're searching for the imp I spoke of, you should be able to find him at the Manderville Lounge. He may still be there, if you hurry."
+79,"TEXT_FESGSC801_04814_GODBERT_000_040","Squeee..."
+80,"TEXT_FESGSC801_04814_GODBERT_000_041","Ka-paaa? Ka-pa-paaa!"
+81,"TEXT_FESGSC801_04814_SYSTEM_000_042","Though you feel as if there's been some grave misunderstanding, the imposing imp suddenly entrusts you with a set of impish attire. His piercing gaze reaches into the very depths of your soul, and you somehow come to understand what he is trying to tell you: “Go forth, my stalwart apprentice.”"
+82,"TEXT_FESGSC801_04814_SYSTEM_000_043","You have the sinking feeling that the imp will not provide you with the information you require until you have completed his task... It is now your solemn duty to don the impish attire and entertain the patrons in Event Square."
+83,"TEXT_FESGSC801_04814_SYSTEM_000_044","You must continue wearing this costume in order to progress."
+84,"TEXT_FESGSC801_04814_SYSTEM_000_045","Speak with the imposing imp to restore or prolong the garment change."
+85,"TEXT_FESGSC801_04814_GODBERT_000_046","Squee-hee! Ka-pa-paaa!"
+86,"TEXT_FESGSC801_04814_GOLDSAUCERGUESTA04814_000_050","<sigh> ...I can't do this anymore. I'm tired of losing."
+87,"TEXT_FESGSC801_04814_SYSTEM_000_051","You must be wearing the impish attire in order to progress."
+88,"TEXT_FESGSC801_04814_GOLDSAUCERGUESTA04814_000_052","Judging by the eccentric attire, I'm going to assume you work here."
+89,"TEXT_FESGSC801_04814_GOLDSAUCERGUESTA04814_000_053","Tell me, which of these attractions <hex:021A020203>aren't<hex:021A020103> stacked against me? I've lost nearly all my MGP today, and I need to find a way to earn it back somehow..."
+90,"TEXT_FESGSC801_04814_Q2_000_000","What will you say?"
+91,"TEXT_FESGSC801_04814_A2_000_001","Ka-paaa!"
+92,"TEXT_FESGSC801_04814_A2_000_002","Squee..."
+93,"TEXT_FESGSC801_04814_A2_000_003","Allow me to assist you!"
+94,"TEXT_FESGSC801_04814_GOLDSAUCERGUESTA04814_000_054","What, is that your way of consoling me? Hmph. As if I needed pity from an oversized frog."
+95,"TEXT_FESGSC801_04814_GOLDSAUCERGUESTA04814_000_055","Still...I appreciate the sentiment. Luck may not be on my side, but it's nice to know that someone else is."
+96,"TEXT_FESGSC801_04814_GOLDSAUCERGUESTA04814_000_056","Bloody hells, I wasn't expecting you to <hex:021A020203>talk<hex:021A020103>! N-Never mind the question, actually. I...I need a moment to recover from that."
+97,"TEXT_FESGSC801_04814_SYSTEM_000_057","The patron appears to be displeased with your response... Perhaps you should try a different approach."
+98,"TEXT_FESGSC801_04814_GOLDSAUCERGUESTB04814_000_058","Those new mascots are awfully adorable, aren't they? I've been trying to muster up the courage to speak with one, but...initiating conversation isn't exactly my forte."
+99,"TEXT_FESGSC801_04814_SYSTEM_000_059","You must be wearing the impish attire in order to progress."
+100,"TEXT_FESGSC801_04814_GOLDSAUCERGUESTB04814_000_060","O-Oh, hello there! You must be that new mascot that's been marching about. Some manner of imp, was it? I like your hat─er, head...thing."
+101,"TEXT_FESGSC801_04814_Q3_000_000","What will you say?"
+102,"TEXT_FESGSC801_04814_A3_000_001","Ka-pa-paaa!"
+103,"TEXT_FESGSC801_04814_A3_000_002","Squee?"
+104,"TEXT_FESGSC801_04814_A3_000_003","<blip> <bloop> Affirmative. I am the pinnacle of imp technology."
+105,"TEXT_FESGSC801_04814_GOLDSAUCERGUESTB04814_000_061","How precious! I was a bit afraid to chat with you at first, but you're much friendlier than I imagined!"
+106,"TEXT_FESGSC801_04814_GOLDSAUCERGUESTB04814_000_062","First Senor Sabotender, now you... Ahhh, would that I never had to leave the Saucer! I could spend the rest of my days surrounded by adorable creatures like you."
+107,"TEXT_FESGSC801_04814_GOLDSAUCERGUESTB04814_000_063","Wh-What in the world does that even mean!? Mascots are supposed to be cute and cuddly, not cold and calculating!"
+108,"TEXT_FESGSC801_04814_SYSTEM_000_064","The patron appears to be displeased with your response... Perhaps you should try a different approach."
+109,"TEXT_FESGSC801_04814_GOLDSAUCERGUESTC04814_000_065","Look at all the MGP I saved, Daddy! I wonder what kinds of prizes I can get..."
+110,"TEXT_FESGSC801_04814_SYSTEM_000_066","You must be wearing the impish attire in order to progress."
+111,"TEXT_FESGSC801_04814_GOLDSAUCERGUESTC04814_000_067","Wow, you're one of those new mascots! You must know all about the prizes here, right? I saved up lots of MGP, but I'm not sure what to exchange it for..."
+112,"TEXT_FESGSC801_04814_Q4_000_000","What will you say?"
+113,"TEXT_FESGSC801_04814_A4_000_001","Squee-hee!"
+114,"TEXT_FESGSC801_04814_A4_000_002","Ka-paaa!"
+115,"TEXT_FESGSC801_04814_A4_000_003","Why not exchange it for a water imp?"
+116,"TEXT_FESGSC801_04814_GOLDSAUCERGUESTC04814_000_069","Hee hee, aren't you cute! If only I could take you home with me... Oh! I know! They have little imps that look just like you at the prize counter."
+117,"TEXT_FESGSC801_04814_GOLDSAUCERGUESTC04814_000_070","Daddy, I want a water imp! Let's go get one! Please? Pretty please?"
+118,"TEXT_FESGSC801_04814_GOLDSAUCERGUESTC04814_000_071","H-How come you can talk!? Senor Sabotender doesn't talk! Why can't you be like him?"
+119,"TEXT_FESGSC801_04814_SYSTEM_000_072","You seem to have frightened the young girl... Perhaps you should try a different approach."
+120,"TEXT_FESGSC801_04814_SYSTEM_000_073","Your impish antics have brought joy to the Saucer's patrons! Return to the imposing imp and inform him of your success."
+121,"TEXT_FESGSC801_04814_GODBERT_000_080","Ka-pa-paaa..."
+122,"TEXT_FESGSC801_04814_SYSTEM_000_081","The imposing imp appears downcast, as if he was expecting someone else... Perhaps it would be best to remove your impish attire."
+123,"TEXT_FESGSC801_04814_GODBERT_000_082","Ka-paaa..."
+124,"TEXT_FESGSC801_04814_SYSTEM_000_083","In the ephemeral moments that the imposing imp's gaze meets yours, you are overcome with a mysterious sense of obligation, and realize what he is trying to tell you: “Let us continue our discussion at Entrance Square.”"
+125,"TEXT_FESGSC801_04814_OCCULTJOURNALIST_000_090","Ah, there you are. Loath as I am to admit it, my search for the one behind this event has yielded little success..."
+126,"TEXT_FESGSC801_04814_OCCULTJOURNALIST_000_091","Regardless of my results, it's plain to see that the imps are well loved by all...but I cannot write an article on that fact alone. How did you fare, my honorary assistant?"
+127,"TEXT_FESGSC801_04814_GODBERT_000_092","Oho! 'Tis a pleasure as always to see you at the Saucer, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>."
+128,"TEXT_FESGSC801_04814_GODBERT_000_093","Greetings, fair patrons, and apologies for the sudden intrusion─I am Godbert Manderville, proprietor and namesake of this fine establishment."
+129,"TEXT_FESGSC801_04814_OCCULTJOURNALIST_000_094","<hex:021A020203>The<hex:021A020103> Godbert Manderville!? Never did I think I'd meet a member of the Syndicate face-to-face... Surely you of all people must know who proposed the idea for this event?"
+130,"TEXT_FESGSC801_04814_GODBERT_000_095","Your generous deeds this day have not gone unnoticed, so I believe an explanation is in order."
+131,"TEXT_FESGSC801_04814_GODBERT_000_096","It was I who proposed the idea for these festivities, as a matter of fact."
+132,"TEXT_FESGSC801_04814_GODBERT_000_097","Perhaps you are already aware, but we employ a voidsent known as Typhon here at the Gold Saucer. Summoned into this world by the Thaumaturges' Guild, he is a diligent soul who utilizes his formidable fungahs to our patrons' benefit."
+133,"TEXT_FESGSC801_04814_GODBERT_000_098","'Twas not long after I hired Master Typhon that I became acquainted with a high-ranking member of the guild. Through him, I learned of a curious spell from ages past, known only as “Imp.”"
+134,"TEXT_FESGSC801_04814_GODBERT_000_099","True to its name, the spell transforms the target into the very beings you have espied marching about the Saucer."
+135,"TEXT_FESGSC801_04814_GODBERT_000_100","Master Ultros is proficient in the very same spell─mayhap you fell victim to it during your encounter atop the Dragon's Neck. He oft refers to imps as his “buddies” and “pals,” in fact."
+136,"TEXT_FESGSC801_04814_GODBERT_000_101","I found myself quite enamored with these adorable creatures, and sought to answer the questions that yet lingered in my mind: Where did the imps come from, and how did their spell fall into the hands of man?"
+137,"TEXT_FESGSC801_04814_GODBERT_000_102","I pored through what few resources were available on the subject, yet I could not find a definitive answer. Heartbreaking though it was, I was left with no choice but to leave the creatures' lineage shrouded in mystery."
+138,"TEXT_FESGSC801_04814_GODBERT_000_103","Nevertheless, I could not allow their history to fade into obscurity. When it came time to decide the theme of our annual festivities, I crafted the impish attire based on my findings, and proposed a celebration in their honor."
+139,"TEXT_FESGSC801_04814_OCCULTJOURNALIST_000_104","You utilized these costumes not only to entertain, but to educate others as well... And with that, the full story is laid bare."
+140,"TEXT_FESGSC801_04814_GODBERT_000_105","Indeed... Though I know not if such a conclusion will prove ideal for <hex:021A020203>The Thavnairian Truth<hex:021A020103>."
+141,"TEXT_FESGSC801_04814_OCCULTJOURNALIST_000_106","...I feel a story coming on! “Myth Made Manifest at the Gold Saucer: Thaumaturgical History Reveals Imps' Mystery”!"
+142,"TEXT_FESGSC801_04814_OCCULTJOURNALIST_100_106","Hahaha... Yes! <hex:021A020203>This<hex:021A020103> is the scoop I seek!"
+143,"TEXT_FESGSC801_04814_OCCULTJOURNALIST_000_107","It is as Master Manderville says. Much about these imps remains an enigma...but they have brought countless smiles to the Gold Saucer. Readers shall doubtless want to learn of their existence, as well as the event that brought these few facts to the fore."
+144,"TEXT_FESGSC801_04814_OCCULTJOURNALIST_000_108","Such passion and drive to shed light upon the unknown is a fascinating tale─one that I shall do my utmost to depict!"
+145,"TEXT_FESGSC801_04814_GODBERT_000_109","Ohoho! That's the spirit, lad. 'Twould be an honor to see our imps grace your publication's pages! I shall look forward to reading your account of it in the coming days."
+146,"TEXT_FESGSC801_04814_GODBERT_000_110","This young man's story will doubtless bring all the more attention to the March of the Imps, so I must express my thanks in the spirit of the celebration...with a set of impish attire, of course!"
+147,"TEXT_FESGSC801_04814_OCCULTJOURNALIST_000_111","You have my deepest gratitude as well, adventurer. Inspiration calls, and I must away to make these ideas a reality, but your contributions were vital to this discovery. You are more than deserving of reward."
+148,"TEXT_FESGSC801_04814_GODBERT_000_112","A job well done, my friend. The festivities shall be underway for some time yet, so I hope you will not squander the opportunity to enjoy this moment of respite and march with our fellow imps!"

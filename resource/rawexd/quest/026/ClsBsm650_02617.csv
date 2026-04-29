@@ -2,106 +2,106 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_CLSBSM650_02617_SEQ_00,鍛鐵匠公會的布瑞賽爾接到了奇怪的委託。
-1,TEXT_CLSBSM650_02617_SEQ_01,來自遠東之國的訪客想要委託公會最棒的匠人鍛造東西，但不知為何同時提出了要向雪花保密的條件。前往利姆薩·羅敏薩碼頭，找委託人神刀詢問委託詳情。
-2,TEXT_CLSBSM650_02617_SEQ_02,從神刀手中拿到了<hex:022811FF0A>EventItem<hex:F61E8C970103>，並被要求用它鍛造出盡可能好的武士刀。神刀還表示可以在不透露委託人身份的情況下去找雪花商量。將<hex:022811FF0A>EventItem<hex:F61E8C970103>交給利姆薩·羅敏薩錨場的雪花，和她商量鍛刀之事。
-3,TEXT_CLSBSM650_02617_SEQ_03,雪花建議冒險者鍛一把刀身比較厚、比較結實的刀。用<hex:022811FF0A>EventItem<hex:F61E8C970103>製作<hex:02280DFF07>ItemHQ<hex:F245E00103>，並將其交給利姆薩·羅敏薩碼頭的神刀。<hex:02100103><hex:02100103>※如果<hex:02280BFF05>Item<hex:F245DF0103>不足的話，就和雪花對話，即可重獲材料，並再次進行挑戰。
-4,TEXT_CLSBSM650_02617_SEQ_04,神刀對<hex:02280DFF07>ItemHQ<hex:F245E00103>的做工非常滿意。返回鍛鐵匠公會，向布瑞賽爾報告。
-5,TEXT_CLSBSM650_02617_SEQ_05,神刀原來是雪花的父親。對神刀的言論非常憤慨的布瑞賽爾決定幫助雪花向父親反擊。等待布瑞賽爾想出點子，讓雪花得到父親的認可。<hex:02100103><hex:02100103>※鍛鐵匠的等級達到68級以上時，可以從鍛鐵匠公會的布瑞賽爾那裡領取下一個鍛鐵匠任務。
-6,TEXT_CLSBSM650_02617_SEQ_06,
-7,TEXT_CLSBSM650_02617_SEQ_07,
-8,TEXT_CLSBSM650_02617_SEQ_08,
-9,TEXT_CLSBSM650_02617_SEQ_09,
-10,TEXT_CLSBSM650_02617_SEQ_10,
-11,TEXT_CLSBSM650_02617_SEQ_11,
-12,TEXT_CLSBSM650_02617_SEQ_12,
-13,TEXT_CLSBSM650_02617_SEQ_13,
-14,TEXT_CLSBSM650_02617_SEQ_14,
-15,TEXT_CLSBSM650_02617_SEQ_15,
-16,TEXT_CLSBSM650_02617_SEQ_16,
-17,TEXT_CLSBSM650_02617_SEQ_17,
-18,TEXT_CLSBSM650_02617_SEQ_18,
-19,TEXT_CLSBSM650_02617_SEQ_19,
-20,TEXT_CLSBSM650_02617_SEQ_20,
-21,TEXT_CLSBSM650_02617_SEQ_21,
-22,TEXT_CLSBSM650_02617_SEQ_22,
-23,TEXT_CLSBSM650_02617_SEQ_23,
-24,TEXT_CLSBSM650_02617_TODO_00,和利姆薩·羅敏薩碼頭附近的神刀對話
-25,TEXT_CLSBSM650_02617_TODO_01,將<hex:022811FF0A>EventItem<hex:F61E8C970103>交給錨場的雪花進行諮詢
-26,TEXT_CLSBSM650_02617_TODO_02,<hex:020872E3E802E803FF33>製作筆記 職業任務：製作<hex:02280DFF07>ItemHQ<hex:F245E00103><hex:FF37>將<hex:02280DFF07>ItemHQ<hex:F245E00103>交給利姆薩·羅敏薩的神刀<hex:03>
-27,TEXT_CLSBSM650_02617_TODO_03,向鍛鐵匠公會的布瑞賽爾報告
-28,TEXT_CLSBSM650_02617_TODO_04,
-29,TEXT_CLSBSM650_02617_TODO_05,
-30,TEXT_CLSBSM650_02617_TODO_06,
-31,TEXT_CLSBSM650_02617_TODO_07,
-32,TEXT_CLSBSM650_02617_TODO_08,
-33,TEXT_CLSBSM650_02617_TODO_09,
-34,TEXT_CLSBSM650_02617_TODO_10,
-35,TEXT_CLSBSM650_02617_TODO_11,
-36,TEXT_CLSBSM650_02617_TODO_12,
-37,TEXT_CLSBSM650_02617_TODO_13,
-38,TEXT_CLSBSM650_02617_TODO_14,
-39,TEXT_CLSBSM650_02617_TODO_15,
-40,TEXT_CLSBSM650_02617_TODO_16,
-41,TEXT_CLSBSM650_02617_TODO_17,
-42,TEXT_CLSBSM650_02617_TODO_18,
-43,TEXT_CLSBSM650_02617_TODO_19,
-44,TEXT_CLSBSM650_02617_TODO_20,
-45,TEXT_CLSBSM650_02617_TODO_21,
-46,TEXT_CLSBSM650_02617_TODO_22,
-47,TEXT_CLSBSM650_02617_TODO_23,
-48,TEXT_CLSBSM650_02617_BRITHAEL_000_000,啊，<hex:022903EB0203>……<hex:02100103>雪花小姐最近好很多了，<hex:02100103>和公會成員的衝突也在逐漸減少。
-49,TEXT_CLSBSM650_02617_BRITHAEL_000_001,本以為公會和我的胃都能就此平靜下來，<hex:02100103>不過神還是不想讓我們安生的樣子……<hex:02100103>公會收到了一份奇怪的委託。
-50,TEXT_CLSBSM650_02617_BRITHAEL_000_002,委託來自雪花小姐的故鄉遠東之國，<hex:02100103>委託內容是請我們公會手藝最好的匠人鍛一把武器。<hex:02100103>到這裡為止內容還算正常……<hex:02100103>
-51,TEXT_CLSBSM650_02617_BRITHAEL_000_003,奇怪的地方是這次的委託人還附加了別的條件，<hex:02100103>要求不能將委託人的身份告訴現在寄身在我們公會的<hex:02100103>來自東方的刀匠雪花。
-52,TEXT_CLSBSM650_02617_BRITHAEL_000_004,這委託是不是很奇怪？<hex:02100103>居然要求對自己的同鄉雪花保密，<hex:02100103>而且委託人為什麼會知道雪花在這裡？
-53,TEXT_CLSBSM650_02617_BRITHAEL_000_005,雖然不知對方有什麼目的，<hex:02100103>但我們這手藝最好的匠人無疑就是你了。<hex:02100103>委託人神刀正在碼頭附近等著。能請你去和他談談嗎？
-54,TEXT_CLSBSM650_02617_BRITHAEL_000_010,讓我們瞞著他的同鄉雪花……<hex:02100103>莫非這從東方來的委託人是和雪花認識的？<hex:02100103>你去碼頭附近找委託人神刀談談吧。
-55,TEXT_CLSBSM650_02617_SHINTOU_000_020,感謝你專程跑來，你就是公會的首席鍛鐵匠吧？<hex:02100103>我想請你鍛一把東方武士使用的武士刀。<hex:02100103>你有過鍛造武士刀的經驗嗎？
-56,TEXT_CLSBSM650_02617_Q1_000_000,有過鍛造武士刀的經驗嗎？
-57,TEXT_CLSBSM650_02617_SHINTOU_000_030,那再好不過了。<hex:02100103>畢竟我準備的材料可是這東西……
-58,TEXT_CLSBSM650_02617_SHINTOU_000_040,那可能會有一些難度了。<hex:02100103>畢竟我準備的材料可是這東西……
-59,TEXT_CLSBSM650_02617_SHINTOU_000_050,稍後你一看便知，這只是塊沒用的廢鐵……<hex:02100103>但我希望你能用它鍛造一把盡可能好的武士刀。
-60,TEXT_CLSBSM650_02617_SHINTOU_000_051,你想問我為什麼要準備這樣的材料對吧……<hex:02100103>嗯，請稍等……
-61,TEXT_CLSBSM650_02617_SHINTOU_000_052,……我身上的路費已經耗盡，現在能弄到的只有這種廢鐵。<hex:02100103>要是再由你們準備材料，我可付不起酬勞。<hex:02100103>所以非常抱歉，只能請你用它將就一下了……
-62,TEXT_CLSBSM650_02617_SHINTOU_000_053,這就是我要求你用廢鐵鍛刀的原因。<hex:02100103>我就在這裡等著，完成後就拿刀來見我吧。
-63,TEXT_CLSBSM650_02617_SHINTOU_000_054,如果覺得這有些困難的話，你也可以找其他人幫忙。<hex:02100103>不是正好有一個對武士和刀都很在行的鍛鐵匠在你們公會修行嗎。<hex:02100103>現在她多半是在旅館附近的高處看海呢……
-64,TEXT_CLSBSM650_02617_SHINTOU_000_055,不過你可不要問我與那個叫雪花的鍛鐵匠有什麼關係，<hex:02100103>也千萬不要把我的事情告訴她，這點想必你已經知道了。
-65,TEXT_CLSBSM650_02617_BRITHAEL_000_060,委託人你見到了嗎？<hex:02100103>雖然委託內容有些古怪，但你一定沒問題的！
-66,TEXT_CLSBSM650_02617_SHINTOU_000_065,能請你用那塊廢鐵鍛一把刀嗎？<hex:02100103>你可以去找那位來自東方的刀匠雪花諮詢……
-67,TEXT_CLSBSM650_02617_SEKKA_000_070,啊，<hex:022903EB0203>閣下。<hex:02100103>有什麼事嗎？
-68,TEXT_CLSBSM650_02617_SEKKA_000_080,……啥？！要你用這塊<hex:022811FF0A>EventItem<hex:F61E8C970103>鍛刀？<hex:02100103>這麼坑人的要求是誰提出來的呀？
-69,TEXT_CLSBSM650_02617_Q2_000_000,是否為委託人保密？
-70,TEXT_CLSBSM650_02617_SEKKA_000_090,不能說呀……<hex:02100103>好吧，既然是委託人的要求，那就沒辦法了。
-71,TEXT_CLSBSM650_02617_SEKKA_000_100,從遠東之國來的四五十歲的男性？<hex:02100103>刀……四五十歲……不會吧……<hex:02100103>……嗯，應該不會的，可能我想太多了。
-72,TEXT_CLSBSM650_02617_SEKKA_000_110,不過這確實是個棘手的委託呢。<hex:02100103>這廢鐵裡雜質太多，強度完全沒保證。
-73,TEXT_CLSBSM650_02617_SEKKA_000_111,鍛出來的刀要是隨便就彎掉或斷掉可就不妙了。<hex:02100103>還是不要打磨得太輕薄鋒利，以結實為重比較好。<hex:02100103><hex:02280DFF07>ItemHQ<hex:F245E00103>應該是合適的選擇。
-74,TEXT_CLSBSM650_02617_SEKKA_000_112,這<hex:022811FF0A>EventItem<hex:F61E8C970103>塊倒是挺大。<hex:02100103>我幫你拿著吧，省得鍛造的時候礙事。<hex:02100103>你專注於鍛刀即可。
-75,TEXT_CLSBSM650_02617_SEKKA_000_120,還需要<hex:022811FF0A>EventItem<hex:F61E8C970103>嗎？<hex:02100103>用這種破爛材料也是辛苦你了，請加油吧。
-76,TEXT_CLSBSM650_02617_SEKKA_000_130,……你的手藝真是太精湛了。<hex:02100103>竟然能用那種材料鍛出這樣的刀來……<hex:02100103>快拿去交給委託人吧。
-77,TEXT_CLSBSM650_02617_SHINTOU_000_140,委託你鍛造的刀完成了嗎？
-78,TEXT_CLSBSM650_02617_SHINTOU_000_150,……很粗劣的一把刀啊。<hex:02100103>和東方名匠們的作品根本無法相提並論。
-79,TEXT_CLSBSM650_02617_SHINTOU_000_151,如果這是用正常材料鍛造出來的，我恐怕會這樣評價吧。<hex:02100103>但如果這樣一把刀是用那塊<hex:022811FF0A>EventItem<hex:F61E8C970103>鍛出來的，<hex:02100103>那你的手藝可就遠在東方的名匠之上了……
-80,TEXT_CLSBSM650_02617_SHINTOU_000_152,鍛鐵匠公會的技術我見識到了。<hex:02100103>你們公會的會長是叫布瑞賽爾來著？<hex:02100103>請向他彙報你完成了委託吧。
-81,TEXT_CLSBSM650_02617_SEKKA_000_160,請分點公會的委託給我做吧！<hex:02100103>為了追上<hex:022903EB0203>閣下，我需要更加努力地修行！
-82,TEXT_CLSBSM650_02617_BRITHAEL_000_170,啊，<hex:022903EB0203>！快來救救我！<hex:02100103>雪花小姐一直纏著我讓我分工作給她……
-83,TEXT_CLSBSM650_02617_SHINTOU_000_171,(-男性的大吼-)打——擾——了——！！
-84,TEXT_CLSBSM650_02617_SHINTOU_000_172,感謝貴公會先前接受了我的委託。<hex:02100103>請容我正式自我介紹一下，我名叫神刀，<hex:02100103>在東方的黃金港以鍛刀為業。
-85,TEXT_CLSBSM650_02617_SEKKA_000_173,父、父親？！<hex:02100103>你為什麼會出現在這裡！
-86,TEXT_CLSBSM650_02617_SHINTOU_000_174,我當然是以父親的身份來接你回去的。<hex:02100103>僅僅因為我拒絕收你為徒，讓你放棄當刀匠，<hex:02100103>你就擅作主張跑到這麼遠的地方來給人家添麻煩……
-87,TEXT_CLSBSM650_02617_BRITHAEL_000_175,……呃，那個，不好意思，你是先前的委託人吧。<hex:02100103>雪花小姐原來是你的女兒？！<hex:02100103>還有……不讓她當刀匠究竟是……
-88,TEXT_CLSBSM650_02617_SHINTOU_000_176,這丫頭缺少對於刀匠來說最重要的東西。<hex:02100103>她不正視這一點，非要入我門下。<hex:02100103>我說讓她放棄、死了這條心，結果這幼稚丫頭就離家出走了……
-89,TEXT_CLSBSM650_02617_SHINTOU_000_177,雪花，<hex:022903EB0203>的刀你也看到了吧？<hex:02100103>人家能用粗劣的材料鍛出那樣一柄刀。<hex:02100103>換你根本就做不到……
-90,TEXT_CLSBSM650_02617_SHINTOU_000_178,你花費了十幾年學到的技藝，<hex:02100103>人家一下子就能把你超過去。<hex:02100103>你就只有這種水平，叫我怎麼收你為徒？
-91,TEXT_CLSBSM650_02617_BRITHAEL_000_179,等等、等等、等等！你們自家人的事我不好插嘴，<hex:02100103>但作為一名手藝人，你剛才的發言我可不能裝沒聽到。<hex:02100103>你怎麼能拿她的努力，和其他人進行比較？
-92,TEXT_CLSBSM650_02617_BRITHAEL_000_180,我不知道你是位怎樣的名工巧匠，<hex:02100103>但能不能請你不要輕易對認真付出努力的人說出勸人放棄的話？！
-93,TEXT_CLSBSM650_02617_SEKKA_000_181,……布瑞賽爾閣下。
-94,TEXT_CLSBSM650_02617_SHINTOU_000_182,這是你的做法，但不是我的……<hex:02100103>雪花，我會在這座城邦逗留一段時間……你好好想想吧。<hex:02100103>不願意聽我的，就不要再認我這個爹了。
-95,TEXT_CLSBSM650_02617_BRITHAEL_000_183,雪花小姐……你真的是想成為他的弟子？<hex:02100103>之前你說想要讓人另眼相看的，也是你的父親吧……<hex:02100103>看起來是個思想非常偏執的人啊。
-96,TEXT_CLSBSM650_02617_SEKKA_000_184,您說得沒錯……<hex:02100103>但我從小就是看著他鍛刀的背影長大的。<hex:02100103>不管說話有多傷人，父親都是我最憧憬的刀匠……
-97,TEXT_CLSBSM650_02617_BRITHAEL_000_185,這樣啊……那就沒辦法了。<hex:02100103>就由我們，來向神刀先生發起反擊吧！<hex:02100103>我作為一名手藝人，無法認同神刀先生的做法！
-98,TEXT_CLSBSM650_02617_BRITHAEL_000_186,雖然我現在還是很怕……不不不，還是有一點，怕雪花小姐。<hex:02100103>但這和那是兩碼事！<hex:02100103>我也要出一份力，讓雪花小姐得到父親的認同。
-99,TEXT_CLSBSM650_02617_SEKKA_000_187,布瑞賽爾閣下、<hex:022903EB0203>閣下……<hex:02100103>為了我，竟然……大恩大德沒齒難忘！
-100,TEXT_CLSBSM650_02617_SEKKA_000_188,……布瑞賽爾閣下，也感謝您剛剛出言相助。<hex:02100103>剛剛您斥責我父親時……那個……非常有，男子氣概……
-101,TEXT_CLSBSM650_02617_BRITHAEL_000_189,男子氣概……難道我平時看起來就那麼沒有男子氣概嗎？<hex:02100103>唉，不管怎樣，就由我來好好想想，<hex:02100103>怎麼讓雪花小姐得到父親的認可吧。
-102,TEXT_CLSBSM650_02617_SYSTEM_000_500,作為鍛鐵匠鍛造出了符合委託人需求的作品，<hex:02100103>學會了新的技能「掌握」！
+0,"TEXT_CLSBSM650_02617_SEQ_00","Forgemaster Brithael has a twinkle in his eye that suggests he would like to make yet another request of you."
+1,"TEXT_CLSBSM650_02617_SEQ_01","Forgemaster Brithael has received a request from a man named Shinto in the Far East, who has asked for the guild's most talented blacksmith to forge him a weapon. This seemingly standard commission, however, comes with an odd stipulation, which is that neither of you should mention anything about this to Sekka. While Brithael briefly puzzles over its implications, he tells you that you─the best smithy─will be going to fulfill Shinto's order. Make your way to the ferry docks and see what this mysterious Far Eastern man would have you forge."
+2,"TEXT_CLSBSM650_02617_SEQ_02","Shinto hands you a hunk of rusted iron, and asks that you use it to create a katana. It seems the poor-quality metal is all the man can afford. Recognizing that this will be a challenging task, he urges you first consult Sekka before setting to work. As you make ready to leave, he gives you one last stern reminder to keep his identity a secret from her. Make your way to Anchor Yard and see if Sekka can assist you."
+3,"TEXT_CLSBSM650_02617_SEQ_03","Given the high percentage of impurities and rust in the metal, Sekka proposes focusing solely on cultivating the durability of the blade as opposed to its sharpness. She fears that if you were to fold the already brittle iron too many times, it will make the blade prone to breakage. Suggesting you attempt to make a heavy uchigatana, she hands you half of the iron hunk, and holds on to the rest should you need to try again later. Make a high-quality heavy uchigatana and deliver it to Shinto, who awaits you at the docks.<hex:02100103><hex:02100103>※In the event you lose the ingredients or the synthesis ends in failure, you may try again by speaking with Sekka."
+4,"TEXT_CLSBSM650_02617_SEQ_04","Shinto begins by criticizing your work, saying that the shoddy craftsmanship trumps that of even the lesser swordsmiths of the Far East─or, at least, that is the critique he would have given you had you been furnished with decent materials. As it stands, he is impressed by the fact that you were even able to create an uchigatana, however poor, from the rusted iron he provided you with. Shinto then bids you return to Forgemaster Brithael to tell him that he is satisfied with your performance."
+5,"TEXT_CLSBSM650_02617_SEQ_05","You learn that Shinto is, in fact, Sekka's father and has come to take her back to Kugane. He tells her that it is past time she gave up on her dream of becoming his apprentice as she lacks the fundamental skills it takes to become a swordsmith. Brithael, however, is of a different opinion, and tells Shinto off for his disparaging and overly critical comments. After exchanging a few more scathing remarks, Shinto walks out, beckoning his daughter to follow him. Forgemaster Brithael─out of a mixture of sympathy and fear that she will remain indefinitely at his guild─turns to Sekka before she leaves and promises to help her think of a way to gain her father's approval and fulfill her greatest desire.<hex:02100103><hex:02100103>※The next blacksmith quest will be available from Brithael upon reaching level 68."
+6,"TEXT_CLSBSM650_02617_SEQ_06",""
+7,"TEXT_CLSBSM650_02617_SEQ_07",""
+8,"TEXT_CLSBSM650_02617_SEQ_08",""
+9,"TEXT_CLSBSM650_02617_SEQ_09",""
+10,"TEXT_CLSBSM650_02617_SEQ_10",""
+11,"TEXT_CLSBSM650_02617_SEQ_11",""
+12,"TEXT_CLSBSM650_02617_SEQ_12",""
+13,"TEXT_CLSBSM650_02617_SEQ_13",""
+14,"TEXT_CLSBSM650_02617_SEQ_14",""
+15,"TEXT_CLSBSM650_02617_SEQ_15",""
+16,"TEXT_CLSBSM650_02617_SEQ_16",""
+17,"TEXT_CLSBSM650_02617_SEQ_17",""
+18,"TEXT_CLSBSM650_02617_SEQ_18",""
+19,"TEXT_CLSBSM650_02617_SEQ_19",""
+20,"TEXT_CLSBSM650_02617_SEQ_20",""
+21,"TEXT_CLSBSM650_02617_SEQ_21",""
+22,"TEXT_CLSBSM650_02617_SEQ_22",""
+23,"TEXT_CLSBSM650_02617_SEQ_23",""
+24,"TEXT_CLSBSM650_02617_TODO_00","Speak with Shinto at the ferry docks."
+25,"TEXT_CLSBSM650_02617_TODO_01","Hand the hunk of rusted iron to Sekka in the Anchor Yard."
+26,"TEXT_CLSBSM650_02617_TODO_02","<hex:02087BE3E802E803FF2B>Synthesize a heavy uchigatana<hex:02280AFF06>Addon<hex:0A0103><hex:FF48>Deliver the heavy uchigatana <hex:02280AFF06>Addon<hex:0A0103> to Shinto at the ferry docks<hex:03>."
+27,"TEXT_CLSBSM650_02617_TODO_03","Report to Forgemaster Brithael."
+28,"TEXT_CLSBSM650_02617_TODO_04",""
+29,"TEXT_CLSBSM650_02617_TODO_05",""
+30,"TEXT_CLSBSM650_02617_TODO_06",""
+31,"TEXT_CLSBSM650_02617_TODO_07",""
+32,"TEXT_CLSBSM650_02617_TODO_08",""
+33,"TEXT_CLSBSM650_02617_TODO_09",""
+34,"TEXT_CLSBSM650_02617_TODO_10",""
+35,"TEXT_CLSBSM650_02617_TODO_11",""
+36,"TEXT_CLSBSM650_02617_TODO_12",""
+37,"TEXT_CLSBSM650_02617_TODO_13",""
+38,"TEXT_CLSBSM650_02617_TODO_14",""
+39,"TEXT_CLSBSM650_02617_TODO_15",""
+40,"TEXT_CLSBSM650_02617_TODO_16",""
+41,"TEXT_CLSBSM650_02617_TODO_17",""
+42,"TEXT_CLSBSM650_02617_TODO_18",""
+43,"TEXT_CLSBSM650_02617_TODO_19",""
+44,"TEXT_CLSBSM650_02617_TODO_20",""
+45,"TEXT_CLSBSM650_02617_TODO_21",""
+46,"TEXT_CLSBSM650_02617_TODO_22",""
+47,"TEXT_CLSBSM650_02617_TODO_23",""
+48,"TEXT_CLSBSM650_02617_BRITHAEL_000_000","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, thanks to ye winnin' that competition, Sekka has become surprisingly bearable o' late, and things have been oddly peaceful."
+49,"TEXT_CLSBSM650_02617_BRITHAEL_000_001","That's not to say, however, that ye can rest on yer oars just yet. Not too soon before ye arrived, we received a rather peculiar request."
+50,"TEXT_CLSBSM650_02617_BRITHAEL_000_002","It's from a man in Kugane named Shinto. He's askin' that our best smitty forge him a weapon. Seems pretty standard, right? Well, it's not."
+51,"TEXT_CLSBSM650_02617_BRITHAEL_000_003","It came with one very interestin' condition. He's asked that we not mention a word of this to Sekka."
+52,"TEXT_CLSBSM650_02617_BRITHAEL_000_004","Curious, ain't it? Why does he want to remain anonymous, and moreover, how does he know the girl is here?"
+53,"TEXT_CLSBSM650_02617_BRITHAEL_000_005","While I don't have the answer to either of those questions, there's one thing I know for certain: yer our best smitty. Our client should be arrivin' soon so ye best hurry to the docks. Any questions? Good. Now off ye go."
+54,"TEXT_CLSBSM650_02617_BRITHAEL_000_010","Ye best quickly make yer way to the docks where Shinto is. After all, it's bad fer business to keep the client waitin'."
+55,"TEXT_CLSBSM650_02617_SHINTOU_000_020","You must be the blacksmith Forgemaster Brithael promised me. Thank you for coming. Before I make an official request of you, however, please answer me this: have you ever made a katana before?"
+56,"TEXT_CLSBSM650_02617_Q1_000_000","Have you ever made an uchigatana before?"
+57,"TEXT_CLSBSM650_02617_SHINTOU_000_030","Excellent. Then you are a <hex:02080FE905FF06>woman<hex:FF04>man<hex:03> with experience, and one which I can confidently entrust with <hex:021A020203>this<hex:021A020103>..."
+58,"TEXT_CLSBSM650_02617_SHINTOU_000_040","Is that so? Then this may be a rather demanding assignment. If your forgemaster believes you capable, however, I shall go against my better judgment and nevertheless entrust you with <hex:021A020203>this<hex:021A020103>..."
+59,"TEXT_CLSBSM650_02617_SHINTOU_000_050","What you hold in your hands is a hunk of rusted iron. I would like for you to forge a heavy uchigatana using this."
+60,"TEXT_CLSBSM650_02617_SHINTOU_000_051","Ah, yes the look of a skeptic. You do not think it a worthwhile endeavor?"
+61,"TEXT_CLSBSM650_02617_SHINTOU_000_052","I agree it is far from ideal. Had my savings not been lost to unexpected expenses along the way, perhaps I would have been able to provide you with better metal to work with, but alas, this is all I can currently offer."
+62,"TEXT_CLSBSM650_02617_SHINTOU_000_053","That said, I do not think it by any means an impossible task─especially not for one of your purported talent."
+63,"TEXT_CLSBSM650_02617_SHINTOU_000_054","If you find yourself struggling, however, feel free to appeal to your colleagues for assistance. From what I understand, one of them is quite knowledgeable on the art of making katana."
+64,"TEXT_CLSBSM650_02617_SHINTOU_000_055","Be advised, however, not to mention my name should you choose to receive advice from this particular individual."
+65,"TEXT_CLSBSM650_02617_BRITHAEL_000_060","So what'd he have to say? While not yer typical request, I take it ye've handled it with your usual charm an' grace?"
+66,"TEXT_CLSBSM650_02617_SHINTOU_000_065","What? Have you already finished the katana I asked for?"
+67,"TEXT_CLSBSM650_02617_SEKKA_000_070","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>? What brings you here?"
+68,"TEXT_CLSBSM650_02617_SEKKA_000_080","You have been tasked with forging an uchigatana from this rubbish!? Even the realm's greatest masters would struggle to do so with iron this poor. What idiot would ask such an outrageous thing of you?"
+69,"TEXT_CLSBSM650_02617_Q2_000_000","Keep the client's identity a secret?"
+70,"TEXT_CLSBSM650_02617_SEKKA_000_090","If the client has asked that you protect their identity, I suppose you must oblige their wishes. "
+71,"TEXT_CLSBSM650_02617_SEKKA_000_100","An elderly man from Hingashi, you say? Could it be... Ah, no. Never mind."
+72,"TEXT_CLSBSM650_02617_SEKKA_000_110","Still, this is absurd. There are so many impurities in this metal that any blade forged from it will be extremely brittle."
+73,"TEXT_CLSBSM650_02617_SEKKA_000_111","Should the katana shatter during battle, the wielder's life will be forfeit. To preserve what little durability is present in these brittle hunks, we must refrain from folding the metal too many times. As such, you best make a heavy uchigatana."
+74,"TEXT_CLSBSM650_02617_SEKKA_000_112","While the rust appears to be overwhelming, I think we have enough workable iron to make a full blade. Take half. I shall hold on to the rest in case we need to try again."
+75,"TEXT_CLSBSM650_02617_SEKKA_000_120","You need more metal? Here you go."
+76,"TEXT_CLSBSM650_02617_SEKKA_000_130","You are truly gifted. To think that you would be able to forge anything resembling a katana, much less one of this quality, is nothing short of miraculous. Let us deliver this to the client as promised. They will no doubt be pleased."
+77,"TEXT_CLSBSM650_02617_SHINTOU_000_140","So you have returned. Have you finished the uchigatana that I requested?"
+78,"TEXT_CLSBSM650_02617_SHINTOU_000_150","...This blade─it is so rough-hewn, it does not even come close to matching the skill of even the lesser swordsmiths of the Far East."
+79,"TEXT_CLSBSM650_02617_SHINTOU_000_151","Or, at least, that is what I would say had I provided you with decent materials to work with. As it stands, the fact that you managed to craft a working uchigatana from the iron I gave you shows me you are an artisan of surpassing skill."
+80,"TEXT_CLSBSM650_02617_SHINTOU_000_152","I have witnessed firsthand that your reputation is well founded. Tell Master Brithael I am satisfied with your performance."
+81,"TEXT_CLSBSM650_02617_SEKKA_000_160","Please, sir. I will do anything you assign to me without any complaints this time. I promise!"
+82,"TEXT_CLSBSM650_02617_BRITHAEL_000_170","Thank the Builder yer here. The bloody girl won't stop. She's been chasin' me around the shop all day sayin', “Please, sir, give me more work,” or “Please, sir, I need to practice if I'm ever to become as good as <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>.” It's drivin' me mad!"
+83,"TEXT_CLSBSM650_02617_SHINTOU_000_171","(-Masculine Voice-)I believe I may have a solution to that!"
+84,"TEXT_CLSBSM650_02617_SHINTOU_000_172","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, thank you for humoring my earlier request. Blacksmiths who are as talented and professional as you are hard to come by. Ah, but before that─Forgemaster Brithael, I believe we have not yet had the pleasure to meet in person. I am Shinto, master of Kugane's largest swordsmith forge."
+85,"TEXT_CLSBSM650_02617_SEKKA_000_173","F-Father!? Wh-What are you doing here?"
+86,"TEXT_CLSBSM650_02617_SHINTOU_000_174","I am here to take you home. Time and time again I have told you that you will never be good enough to become my apprentice. Sekka, you must clear your head of these foolish notions. We will be going now. You have caused these people and me enough trouble as it is."
+87,"TEXT_CLSBSM650_02617_BRITHAEL_000_175","...While I'm not normally one to involve myself in such things, I think yer bein' a bit too hard on yer daughter. Shouldn't ye be supportin' her dreams instead of tearin' 'em down?"
+88,"TEXT_CLSBSM650_02617_SHINTOU_000_176","She simply does not have what it takes to become a swordsmith. It is time she realized this and looked to pursuing something better suited to her talents─or lack thereof."
+89,"TEXT_CLSBSM650_02617_SHINTOU_000_177","Sekka, I presume you saw <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>'s uchigatana? While made from a heap of rusted scraps, it demonstrates a skill that far exceeds anything I have seen from you."
+90,"TEXT_CLSBSM650_02617_SHINTOU_000_178","And to think the <hex:02080FE905FF06>woman<hex:FF04>man<hex:03> does not even have a fraction of the knowledge you do. A decade's worth of practice has amounted to nothing."
+91,"TEXT_CLSBSM650_02617_BRITHAEL_000_179","For ye to lecture yer daughter on her behavior is one thing, but I will not have ye puttin' her down an' worse─usin' <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> to do it! Sekka may still have a ways to go before she's a master, but she's got talent and puts in a great deal of effort."
+92,"TEXT_CLSBSM650_02617_BRITHAEL_000_180","I don't know who you think you are, but even if ye happen to be the finest swordsmith to have ever lived, it still doesn't give ye the right to tell a person to abandon their dreams!"
+93,"TEXT_CLSBSM650_02617_SEKKA_000_181","...Forgemaster..."
+94,"TEXT_CLSBSM650_02617_SHINTOU_000_182","Setting people up for failure with hollow praise may be your way of doing things, but it is not mine. Sekka, come. I will allow you a few days to come to terms with this. Know, however, that should you disobey me again, you shall be disowned."
+95,"TEXT_CLSBSM650_02617_BRITHAEL_000_183","Father or not, great swordsmith or not, I don't see why ye'd ever want to be an apprentice to such a sour bast─er, man. Wouldn't ye prefer to study under someone who believed in yer potential?"
+96,"TEXT_CLSBSM650_02617_SEKKA_000_184","I grew up watching him work─pounding, pouring, and heating metal with a single-minded focus. Despite his numerous faults as a person, he is an extraordinary swordsmith, and I hope to one day become just as good as him."
+97,"TEXT_CLSBSM650_02617_BRITHAEL_000_185","<sigh> ...Lass, if ye really feel that strongly about it, we'll help you. "
+98,"TEXT_CLSBSM650_02617_BRITHAEL_000_186","The two o' us, we may have got off on the wrong foot, but it's nothing we can't put right startin' now. Together we'll think of a way to prove to yer father that yer worthy o' studyin' under him."
+99,"TEXT_CLSBSM650_02617_SEKKA_000_187","...You would really do that for me? Thank you. Thank you so very much."
+100,"TEXT_CLSBSM650_02617_SEKKA_000_188","Forgemaster Brithael, I must apologize. I was wrong about you. After seeing you stand up to my father, I now know you are rather chivalrous, brave, and kind."
+101,"TEXT_CLSBSM650_02617_BRITHAEL_000_189","Rather chivalrous, brave, and kind, eh? I suppose she didn't see me in such a favorable light before this, then. Hahaha! But on to more important matters. <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, let us each take some time to think of ways we might assist the girl and reconvene once we do."
+102,"TEXT_CLSBSM650_02617_SYSTEM_000_500","In forging new paths as a blacksmith, you have learned “Manipulation”!"

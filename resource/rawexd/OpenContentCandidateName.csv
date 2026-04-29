@@ -2,63 +2,65 @@
 #,Name
 offset,0
 int32,str
-0,
-1,
-2,
-3,
-4,
-5,確認第一次定期報告
-6,講述「妖靈王緹坦妮雅」的故事
-7,講述「完美神無瑕靈君」的故事
-8,講述「哈迪斯」的故事
-9,講述「美神吉祥天女」的故事
-10,講述「豪神須佐之男」的故事
-11,講述「神龍」的故事
-12,講述「夜神月讀」的故事
-13,講述「白虎」的故事
-14,講述「朱雀」的故事
-15,講述「青龍」的故事
-16,講述「龍神巴哈姆特」的故事
-17,講述「究極神兵」的故事
-18,講述「亞歷山大」的故事
-19,確認第二次定期報告
-20,紅寶石神兵
-21,講述「瓦厲斯皇帝」的故事
-22,啟動零式項目
-23,啟動零式項目第2期
-24,啟動零式項目第3期
-25,講述「光之戰士」的故事
-26,確認最終報告
-27,綠寶石神兵
-28,鑽石神兵
-29,講述「佐迪亞克」的故事
-30,講述「海德林」的故事
-31,陳述在「邊境之獄」的經歷
-32,講述「終結之戰」的故事
-33,講述「龍詩戰爭」的故事
-34,陳述在「煉淨之獄」與「絕地之獄」的經歷
-35,講述「希拉狄哈水道」的故事
-36,關於「希拉狄哈水道」的書
-37,講述「巴爾巴莉希婭」的故事
-38,講述「盧比坎特」的故事
-39,講述「歐米茄」的故事
-40,陳述面對「星海的威脅」的經歷
-41,講述「六根山」的故事
-42,關於「六根山」的書
-43,講述「高貝扎」的故事
-44,講述「澤羅姆斯」的故事
-45,講述「阿羅阿羅島」的故事
-46,關於「阿羅阿羅島」的書
-47,接受關於「輕量級」的採訪
-48,豔翼蛇鳥殲殛戰
-49,佐拉加殲殛戰
-50,永恆女王憶想殲滅戰
-51,暗黑之雲誅滅戰
-52,光暗未來絕境戰
-53,澤蓮尼婭殲殛戰
-54,接受關於「中量級」的採訪
-55,永遠之暗悲惶殲滅戰
-56,護鎖刃龍上位狩獵戰
-57,格萊楊拉波爾殲殛戰
-58,
-59,接受關於「重量級」的採訪
+0,""
+1,""
+2,""
+3,""
+4,""
+5,"Talk about Ryne's first report."
+6,"Talk about Titania."
+7,"Talk about Innocence."
+8,"Talk about Hades."
+9,"Talk about Lakshmi."
+10,"Talk about Susano."
+11,"Talk about Shinryu."
+12,"Talk about Tsukuyomi."
+13,"Talk about Byakko."
+14,"Talk about Suzaku."
+15,"Talk about Seiryu."
+16,"Talk about Bahamut."
+17,"Talk about the Ultima Weapon."
+18,"Talk about Alexander."
+19,"Talk about Ryne's second report."
+20,"The Ruby Weapon."
+21,"Talk about Varis."
+22,"Access the Savage Initiative"
+23,"Access the Savage Initiative - Phase 2"
+24,"Access the Savage Initiative - Phase 3"
+25,"Talk about the Warrior of Light."
+26,"Talk about the final report."
+27,"The Emerald Weapon."
+28,"The Diamond Weapon."
+29,"Talk about Zodiark."
+30,"Talk about Hydaelyn."
+31,"Recount tales of Asphodelos."
+32,"Talk about the Endsinger."
+33,"Talk about the Dragonsong War."
+34,"Recount tales of Abyssos and beyond."
+35,"The Sil'dihn Subterrane."
+36,"The novelization of the Sil'dihn Subterrane."
+37,"Talk about Barbariccia."
+38,"Talk about Rubicante."
+39,"Talk about Omega."
+40,"Recount the threat to the aetherial sea."
+41,"Mount Rokkon."
+42,"The novelization of Mount Rokkon."
+43,"Talk about Golbez."
+44,"Talk about Zeromus."
+45,"Aloalo Island."
+46,"The novelization of Aloalo Island."
+47,"Recount the light-heavyweight tier. "
+48,"Valigarmanda. [Worqor Lar Dor (Extreme)]"
+49,"Zoraal Ja. [Everkeep (Extreme)]"
+50,"Queen Eternal. [The Minstrel's Ballad: Sphene's Burden]"
+51,"The Cloud of Darkness. [The Cloud of Darkness (Chaotic)]"
+52,"The Flood of Light. [Futures Rewritten (Ultimate)]"
+53,"Zelenia. [Recollection (Extreme)]"
+54,"Recount the cruiserweight tier. "
+55,"Necron. [The Minstrel's Ballad: Necron's Embrace]"
+56,"Guardian Arkveld. [The Windward Wilds (Extreme)]"
+57,"The Doomtrain. [Hell on Rails (Extreme)]"
+58,"<hex:021A020203>The Merchant's Tale<hex:021A020103>."
+59,"Recount the heavyweight tier. "
+60,"Enuo. [The Unmaking (Extreme)]"
+61,""

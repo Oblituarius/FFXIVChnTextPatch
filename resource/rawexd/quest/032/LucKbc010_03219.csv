@@ -2,139 +2,139 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_LUCKBC010_03219_SEQ_00,碼頭小屋的朧好像很開心。
-1,TEXT_LUCKBC010_03219_SEQ_01,前情回顧：<hex:02100103>冒險者、朧、賈可等人與想要奪取忍村禁忌通靈之術卷軸的影隱一族展開了大戰。最終在冒險者和鴉的努力下，影隱十二代頭目半藏被擊殺，卷軸一份被忍村取回，另一份被鴉奪走了。<hex:02100103>　　　　　　　　　　　　*　*　*<hex:02100103>朧發現了鴉的蹤跡，想出了一個奪回卷軸的計劃，冒險者決定協助。和拉諾西亞外地登天路的朧談談。
-2,TEXT_LUCKBC010_03219_SEQ_02,和朧進行了交談，得知了行動計劃為趁朧纏住入浴中的鴉時，由冒險者去取回卷軸。在拉諾西亞外地隱者庵的<hex:02280CFF05>EObj<hex:F61EAC3D0103>等待。
-3,TEXT_LUCKBC010_03219_SEQ_03,朧順利纏住了鴉。在拉諾西亞外地的隱者庵內搜索，尋找<hex:022811FF0A>EventItem<hex:F61E8ECF0103>。
-4,TEXT_LUCKBC010_03219_SEQ_04,拿到了<hex:022811FF0A>EventItem<hex:F61E8ECF0103>。在登天路的<hex:02280CFF05>EObj<hex:F61EAC440103>等待，和朧匯合。
-5,TEXT_LUCKBC010_03219_SEQ_05,將<hex:022811FF0A>EventItem<hex:F61E8ECF0103>交給了朧，行動圓滿成功。返回碼頭小屋和朧談談。
-6,TEXT_LUCKBC010_03219_SEQ_06,賈可來到了碼頭小屋邀請大家去吃飯。前往利姆薩·羅敏薩的俾斯麥餐廳，在<hex:02280CFF05>EObj<hex:F61EAC450103>等待。
-7,TEXT_LUCKBC010_03219_SEQ_07,大家吃飯聊天時，突然出現了第二個朧。原來陪大家吃飯的朧是鴉用忍術變的。被揭穿身份後，鴉走掉了。和利姆薩·羅敏薩雙劍師公會的朧談談。
-8,TEXT_LUCKBC010_03219_SEQ_08,一切又都回到了原點，朧決定繼續追查鴉的下落，冒險者也依舊會默默地幫助他。
-9,TEXT_LUCKBC010_03219_SEQ_09,
-10,TEXT_LUCKBC010_03219_SEQ_10,
-11,TEXT_LUCKBC010_03219_SEQ_11,
-12,TEXT_LUCKBC010_03219_SEQ_12,
-13,TEXT_LUCKBC010_03219_SEQ_13,
-14,TEXT_LUCKBC010_03219_SEQ_14,
-15,TEXT_LUCKBC010_03219_SEQ_15,
-16,TEXT_LUCKBC010_03219_SEQ_16,
-17,TEXT_LUCKBC010_03219_SEQ_17,
-18,TEXT_LUCKBC010_03219_SEQ_18,
-19,TEXT_LUCKBC010_03219_SEQ_19,
-20,TEXT_LUCKBC010_03219_SEQ_20,
-21,TEXT_LUCKBC010_03219_SEQ_21,
-22,TEXT_LUCKBC010_03219_SEQ_22,
-23,TEXT_LUCKBC010_03219_SEQ_23,
-24,TEXT_LUCKBC010_03219_TODO_00,和登天路的朧對話
-25,TEXT_LUCKBC010_03219_TODO_01,在<hex:02280CFF05>EObj<hex:F61EAC3D0103>等待
-26,TEXT_LUCKBC010_03219_TODO_02,在隱者庵內調查 獲取<hex:022811FF0A>EventItem<hex:F61E8ECF0103>
-27,TEXT_LUCKBC010_03219_TODO_03,在<hex:02280CFF05>EObj<hex:F61EAC440103>等待
-28,TEXT_LUCKBC010_03219_TODO_04,和碼頭小屋的朧對話
-29,TEXT_LUCKBC010_03219_TODO_05,在利姆薩·羅敏薩的<hex:02280CFF05>EObj<hex:F61EAC450103>等待
-30,TEXT_LUCKBC010_03219_TODO_06,和雙劍師公會的朧對話
-31,TEXT_LUCKBC010_03219_TODO_07,
-32,TEXT_LUCKBC010_03219_TODO_08,
-33,TEXT_LUCKBC010_03219_TODO_09,
-34,TEXT_LUCKBC010_03219_TODO_10,
-35,TEXT_LUCKBC010_03219_TODO_11,
-36,TEXT_LUCKBC010_03219_TODO_12,
-37,TEXT_LUCKBC010_03219_TODO_13,
-38,TEXT_LUCKBC010_03219_TODO_14,
-39,TEXT_LUCKBC010_03219_TODO_15,
-40,TEXT_LUCKBC010_03219_TODO_16,
-41,TEXT_LUCKBC010_03219_TODO_17,
-42,TEXT_LUCKBC010_03219_TODO_18,
-43,TEXT_LUCKBC010_03219_TODO_19,
-44,TEXT_LUCKBC010_03219_TODO_20,
-45,TEXT_LUCKBC010_03219_TODO_21,
-46,TEXT_LUCKBC010_03219_TODO_22,
-47,TEXT_LUCKBC010_03219_TODO_23,
-48,TEXT_LUCKBC010_03219_OBORO_000_000,哈哈哈哈哈哈，這下終於可以……
-49,TEXT_LUCKBC010_03219_OBORO_000_001,哈？！<hex:022903EB0203>？！<hex:02100103>糟糕，我又鬆懈了，<hex:02100103>這麼近的距離都沒能察覺到你的氣息……
-50,TEXT_LUCKBC010_03219_OBORO_000_002,實際上，我今天之所以這麼開心，<hex:02100103>是因為終於又發現鴉的蹤跡了！
-51,TEXT_LUCKBC010_03219_OBORO_100_002,而且我還想出了一個可以奪回「禁忌通靈之術」卷軸的好主意！<hex:02100103>於是一時沒控制住自己有點得意忘形了……
-52,TEXT_LUCKBC010_03219_OBORO_000_003,卷軸奪還行動需要熟練的忍者配合，<hex:02100103>而你又在這用人之際恰巧出現在了我的面前……<hex:02100103>既然如此，就請你務必助我一臂之力吧！
-53,TEXT_LUCKBC010_03219_OBORO_000_004,太感謝了，老是讓你幫忙真是不好意思……<hex:02100103>自上次事件後，鴉又回到了艾歐澤亞，<hex:02100103>並且悄悄做回了黑市商人。
-54,TEXT_LUCKBC010_03219_OBORO_000_005,他現在藏在拉諾西亞外地的隱者庵，<hex:02100103>趁那裡的主人遠遊不歸而鳩佔鵲巢。<hex:02100103>我們先去那邊吧，等到了之後再說明詳細的計劃。
-55,TEXT_LUCKBC010_03219_OBORO_000_010,我說一下詳細計劃。
-56,TEXT_LUCKBC010_03219_OBORO_100_010,經過數日的觀察，我們發現鴉他一直隨身攜帶著卷軸輕易不離身，<hex:02100103>唯一的例外跟石榴一樣，也是在洗澡的時候……
-57,TEXT_LUCKBC010_03219_OBORO_000_011,不過麻煩也麻煩在這洗澡上。<hex:02100103>雖然鴉每天都在固定時間洗澡，<hex:02100103>但他不泡只沖，瞬間就洗好了。
-58,TEXT_LUCKBC010_03219_OBORO_000_012,因此，需要由我去牽制住洗澡的鴉。<hex:02100103>事先聲明，這牽制並非指刀劍相向，也不是喬裝成別人。
-59,TEXT_LUCKBC010_03219_OBORO_000_013,我打算光明正大走過去提出跟他和解，<hex:02100103>然後和他把酒言歡，把他拖在溫泉裡。<hex:02100103>你就趁機去屋裡將卷軸拿出來。
-60,TEXT_LUCKBC010_03219_OBORO_000_014,這計劃確實有些大膽，但為了讓滴水不漏的鴉放鬆警惕，<hex:02100103>我認為只有我這個兒時玩伴親自去演一齣戲這一個方法了。
-61,TEXT_LUCKBC010_03219_OBORO_000_015,你先找地方藏起來，等鴉去洗澡、我開始行動後，<hex:02100103>你就也開始動手。<hex:02100103>拿到卷軸後我們再在這裡匯合。
-62,TEXT_LUCKBC010_03219_OBORO_000_018,我已經準備好了，<hex:02100103>鴉洗澡的時辰也要到了，<hex:02100103>你先去藏起來吧。
-63,TEXT_LUCKBC010_03219_KARASU_000_020,哎呀呀呀呀呀？<hex:02100103>這不是親愛的朧君嗎！<hex:02100103>你怎麼跑到這裡來了？？
-64,TEXT_LUCKBC010_03219_OBORO_000_021,鴉……<hex:02100103>我今天來，是想來跟你和解的。
-65,TEXT_LUCKBC010_03219_OBORO_000_022,之所以將地點選擇在溫泉，<hex:02100103>是因為在這裡我們身上都沒有武器，<hex:02100103>可以坐下來好好吐露一番真心……
-66,TEXT_LUCKBC010_03219_OBORO_000_023,讓我們像從前在忍村修行時一樣，<hex:02100103>一起泡著溫泉、把酒言歡吧！<hex:02100103>水流會把我們積年的隔閡都一起沖走！
-67,TEXT_LUCKBC010_03219_KARASU_000_024,嗚噗噗……<hex:02100103>你嘴上說得好聽，實際上只是來搶卷軸的吧？
-68,TEXT_LUCKBC010_03219_OBORO_000_025,不是的，卷軸我已無意從你手中取回。
-69,TEXT_LUCKBC010_03219_OBORO_000_026,「禁忌通靈之術」的一半在忍村保管，<hex:02100103>另一半由你拿著的話，兩卷不會相見，<hex:02100103>禁忌的忍術也就沒人能用得出來，這樣反而安全。
-70,TEXT_LUCKBC010_03219_OBORO_000_027,我已經看清了，自己再怎麼努力也追不上你的腳步。<hex:02100103>所以我相信也不會有壞人能從你手中將卷軸搶走。
-71,TEXT_LUCKBC010_03219_KARASU_000_028,哼嗯……居然向我低頭，看來朧君理智了不少嘛……
-72,TEXT_LUCKBC010_03219_KARASU_000_029,不過你就沒想過我會去奪走忍村的那卷卷軸，<hex:02100103>然後使用禁忌的忍術作惡嗎？
-73,TEXT_LUCKBC010_03219_OBORO_000_030,你所追求的是自由，<hex:02100103>當初為了自由甚至不惜大費周章演了那麼大一場戲。<hex:02100103>卷軸的魅力還沒大到能讓你專程返回自己不願停留的地方。
-74,TEXT_LUCKBC010_03219_KARASU_000_031,咦！<hex:02100103>朧君你好聰明！<hex:02100103>你猜得沒錯，我現在確實對那個忍術不感興趣。
-75,TEXT_LUCKBC010_03219_KARASU_000_032,噗噗噗，好吧好吧。<hex:02100103>雖然這不在我的預料之內，但鴉大人就大發慈悲陪你喝幾杯吧。<hex:02100103>畢竟我們兩個可是好朋友嘛……
-76,TEXT_LUCKBC010_03219_SYSTEM_000_040,找到一個卷軸！<hex:02100103>但內容是«多瑪方城戰最速變強指南»……
-77,TEXT_LUCKBC010_03219_SYSTEM_000_041,找到一個卷軸！<hex:02100103>但內容是«如何飼養密西迪亞兔»……
-78,TEXT_LUCKBC010_03219_SYSTEM_000_042,找到一個卷軸！<hex:02100103>但內容是«朧君語錄»……
-79,TEXT_LUCKBC010_03219_SYSTEM_000_043,找到一個卷軸！<hex:02100103>但內容是«揭秘異國的詩人的每一天»……
-80,TEXT_LUCKBC010_03219_SYSTEM_000_044,似乎可以從這裡跳上去……
-81,TEXT_LUCKBC010_03219_KARASU_000_050,(-朧-)行動成功了！<hex:02100103>來，把卷軸給我吧。
-82,TEXT_LUCKBC010_03219_KARASU_000_051,(-朧-)哦哦，這確實是「禁忌通靈之術」的卷軸！<hex:02100103>終於……我終於贏過鴉一次了！
-83,TEXT_LUCKBC010_03219_KARASU_000_052,(-朧-)鴉現在也許已經發現卷軸失竊了，<hex:02100103>我們快點回碼頭小屋去吧。
-84,TEXT_LUCKBC010_03219_KARASU_000_060,(-朧-)今天實在太開心了，<hex:02100103>我精湛的演技完全解除了鴉的戒心。
-85,TEXT_LUCKBC010_03219_KARASU_000_061,(-朧-)他被我幾句恭維誇得找不著北，<hex:02100103>玩命喝酒很快就醉倒了！<hex:02100103>哈哈哈，真是愉快又痛快！
-86,TEXT_LUCKBC010_03219_JACKE_000_062,(-賈可的聲音-)發生什麼好事了？<hex:02100103>怎麼這麼開心？
-87,TEXT_LUCKBC010_03219_KARASU_000_063,(-朧-)賈可閣下！<hex:02100103>我們成功從鴉手中將卷軸搶回來了！
-88,TEXT_LUCKBC010_03219_JACKE_000_064,哦？那確實值得慶祝。
-89,TEXT_LUCKBC010_03219_JACKE_000_065,我是來找你吃飯的，正好<hex:022903EB0203>也在，<hex:02100103>我們一起去吃頓好的吧！<hex:02100103>順帶慶祝一下拿回卷軸！
-90,TEXT_LUCKBC010_03219_KARASU_000_066,(-朧-)這真是個好主意！<hex:02100103>我們一起去好好慶祝一下！
-91,TEXT_LUCKBC010_03219_JACKE_000_067,那地點就定在利姆薩·羅敏薩的俾斯麥餐廳吧。<hex:02100103>維·凱碧他們我也叫上了，我先去等你們。
-92,TEXT_LUCKBC010_03219_KARASU_000_068,(-朧-)有一件事我想在出發前問一問你。<hex:02100103>由於已經沒有再追著鴉不放的必要了，我打算回到忍村去，<hex:02100103>並為自己制定一個新的目標。
-93,TEXT_LUCKBC010_03219_KARASU_000_069,(-朧-)能給我講講你最近的故事，讓我參考一下嗎？
-94,TEXT_LUCKBC010_03219_Q2_000_000,要說什麼？
-95,TEXT_LUCKBC010_03219_A2_000_001,我去了第一世界
-96,TEXT_LUCKBC010_03219_A2_000_002,前陣子和勇德鬥智鬥勇
-97,TEXT_LUCKBC010_03219_KARASU_000_070,(-朧-)什麼！<hex:02100103>竟然還有這樣的異世界？
-98,TEXT_LUCKBC010_03219_KARASU_000_071,(-朧-)雖然很感興趣，但聽你的描述<hex:02100103>那裡好像不是一個容易去的地方啊……<hex:02100103>看來我還是得再好好想想自己該定一個什麼目標才行。
-99,TEXT_LUCKBC010_03219_KARASU_000_072,(-朧-)好了，我們前往俾斯麥餐廳吧。<hex:02100103>你先自己過去，我處理點事馬上去。
-100,TEXT_LUCKBC010_03219_KARASU_000_100,(-朧-)真是太開心了！<hex:02100103>鴉現在一定已經後悔死了！
-101,TEXT_LUCKBC010_03219_JACKE_000_101,你今天心情真是好啊。<hex:02100103>贏過鴉居然這麼讓你高興……
-102,TEXT_LUCKBC010_03219_KARASU_000_102,(-朧-)當然！<hex:02100103>他不單純是我的任務目標，同時也是我一直想要超越的目標……<hex:02100103>而現在我終於勝過他了！
-103,TEXT_LUCKBC010_03219_JACKE_000_103,那真是恭喜你了……
-104,TEXT_LUCKBC010_03219_OBORO_000_104,那、那傢伙是假冒的！！
-105,TEXT_LUCKBC010_03219_PERIMUHAURIMU_000_105,朧先生居然有兩個？！
-106,TEXT_LUCKBC010_03219_KARASU_000_106,(-朧-)什、什麼？！<hex:02100103>你才是假冒的！<hex:02100103>怎麼想都是在街上裸奔的人比較可疑吧！！
-107,TEXT_LUCKBC010_03219_VKEBBE_000_107,怎麼辦……哪邊看起來都像真的……
-108,TEXT_LUCKBC010_03219_Q1_000_000,哪個朧是真的？
-109,TEXT_LUCKBC010_03219_A1_000_001,裸奔的朧是真的！
-110,TEXT_LUCKBC010_03219_A1_000_002,穿衣服的朧是真的！
-111,TEXT_LUCKBC010_03219_JACKE_000_108,沒錯！<hex:02100103>這麼蠢的登場方式……只有真正的朧才幹得出來！
-112,TEXT_LUCKBC010_03219_JACKE_000_109,不對！<hex:02100103>真正的朧……臉上薄命相更重！<hex:02100103>這傢伙是一定假的！
-113,TEXT_LUCKBC010_03219_KARASU_000_110,(-朧-)嗚噗噗……朧君扮演遊戲只好到此為止了……
-114,TEXT_LUCKBC010_03219_OBORO_000_111,鴉！<hex:02100103>果然是你假扮成我把卷軸給！
-115,TEXT_LUCKBC010_03219_KARASU_000_112,遠東之國影隱一族的那個人，好像是叫半藏來著？<hex:02100103>他用的變化之術我也學會了。<hex:02100103>這麼有意思的忍術，我早就想用一次玩玩了。
-116,TEXT_LUCKBC010_03219_KARASU_000_113,今天過得真開心，擁有小夥伴的感受也體驗到了！<hex:02100103>我們下次再見吧，啊——哈！
-117,TEXT_LUCKBC010_03219_OBORO_000_114,可惡，這傢伙每次都跑這麼快……
-118,TEXT_LUCKBC010_03219_JACKE_000_115,唉，看來這次你又被他擺了一道啊……
-119,TEXT_LUCKBC010_03219_JACKE_000_116,總之我們先離開這裡吧。<hex:02100103>你的打扮太有傷風化，服務員要開始攆人了。<hex:02100103>我們去雙劍師公會，什麼事到了那邊再說。
-120,TEXT_LUCKBC010_03219_JACKE_000_120,很適合你嘛。<hex:02100103>這下子朧也是地道的城裡人了。
-121,TEXT_LUCKBC010_03219_PERIMUHAURIMU_000_121,大哥的穿衣品味好糟糕……
-122,TEXT_LUCKBC010_03219_VKEBBE_000_122,竟然被迫穿賈可的衣服……<hex:02100103>真是可憐……
-123,TEXT_LUCKBC010_03219_OBORO_000_130,賈可閣下借我穿的這身衣服……<hex:02100103>這個好像……怎麼說呢……
-124,TEXT_LUCKBC010_03219_OBORO_000_131,簡直太帥了！
-125,TEXT_LUCKBC010_03219_JACKE_000_132,對吧？！<hex:02100103>你也很懂嘛，朧！<hex:02100103>這可是海都最新潮的流行時尚！
-126,TEXT_LUCKBC010_03219_VKEBBE_000_133,誒——才沒有這種流行時尚……
-127,TEXT_LUCKBC010_03219_OBORO_000_134,好了，我來說明一下事情的原委吧……<hex:02100103>之前，為了盡可能將鴉纏在溫泉裡，<hex:02100103>我跟他一杯又一杯不停地灌酒……
-128,TEXT_LUCKBC010_03219_OBORO_000_135,後來喝著喝著我就不省人事了，<hex:02100103>醒來發現自己正光溜溜躺在隱者庵的床上。
-129,TEXT_LUCKBC010_03219_OBORO_000_136,應該是鴉趁我喝醉的時候穿上我的衣服變成我的樣子<hex:02100103>從<hex:022903EB0203>手中取走了卷軸。
-130,TEXT_LUCKBC010_03219_OBORO_000_137,我醒來後察覺到不對，立刻就返回了碼頭小屋。<hex:02100103>沒想到鴉那傢伙竟然把小屋裡的衣服也都藏起來了！<hex:02100103>迫不得已，我就只能光著過來了。
-131,TEXT_LUCKBC010_03219_JACKE_000_138,終究還是鴉技高一籌啊。<hex:02100103>這麼說卷軸轉了一圈後還是回到了他的手裡……
-132,TEXT_LUCKBC010_03219_OBORO_000_139,太可惡了！<hex:02100103>這下又得重新尋找鴉的蹤跡才行！<hex:02100103>我這就回碼頭小屋制定新的作戰計劃！
-133,TEXT_LUCKBC010_03219_JACKE_000_140,果然朧一到了和鴉有關的事上總是很開心啊……
-134,TEXT_LUCKBC010_03219_JACKE_000_141,你雖然忙，但有空的時候也多陪陪那個薄命臉吧！<hex:02100103>呃，不對……我為什麼會在操心這種事情……
-135,TEXT_LUCKBC010_03219_JACKE_000_142,唉，怎麼樣都好啦，總之你們兩個對我來說都是重要的同伴，<hex:02100103>為同伴操心不是天經地義的嗎！<hex:02100103>好了你去忙你的吧，也記得常來我們這邊看看！
+0,"TEXT_LUCKBC010_03219_SEQ_00","Oboro is wearing a shite-eating grin on his face for reasons you can only begin to imagine."
+1,"TEXT_LUCKBC010_03219_SEQ_01","You reunite with Oboro, who cheerfully proclaims that he has at long last devised a plan to get the better of his longtime rival, Karasu Redbeak, and recover the half of the forbidden mudra scroll currently in the flamboyant ninja's possession. Splitting up so as not to attract attention, you make for the Hermit's Hovel─a bathhouse where Karasu has recently taken up residence─where Oboro means to elaborate on the details of his plan."
+2,"TEXT_LUCKBC010_03219_SEQ_02","Upon your arrival, Oboro eagerly explains how he intends to thwart his rival. Oboro intends to distract Karasu in the midst of his daily bathing ritual, allowing you to sneak into the bathhouse and make off with the scroll─a strategy not unlike the one you employed on a previous adventure back in Kugane. Wait in the shadows at Oboro's instruction, and be prepared to make your move when Karasu has been lured away from the scene."
+3,"TEXT_LUCKBC010_03219_SEQ_03","Oboro's ruse is a great success, as Karasu is all too willing to join him in a leisurely chat over some Hingan rice wine, leaving the bathhouse entirely unattended. Infiltrate the structure and sort through Karasu's belongings in search of the scroll before the wily ninja wises up to the situation and returns."
+4,"TEXT_LUCKBC010_03219_SEQ_04","You succeed in finding the scroll alongside other considerably less helpful documents also scattered throughout the hovel. Make a discreet retreat and return to the Long Climb that you might rendezvous with Oboro and ascertain that what you found is indeed the authentic item."
+5,"TEXT_LUCKBC010_03219_SEQ_05","Oboro rejoices upon seeing the scroll in your possession and declares the entire operation an unqualified triumph. He invites you to return to the dock storehouse that you might discuss matters further in private, and goes off on his way."
+6,"TEXT_LUCKBC010_03219_SEQ_06","As Oboro revels in his triumph over his bitter rival, the two of you are joined by your mutual friend Captain Jacke of the Dutiful Sisters. Heartened by the unexpected reunion, the jovial rogue invites the both of you for celebratory dinner and drinks at the Bismarck, an offer which Oboro accepts gladly. Make your way to Limsa Lominsa, where you might share a fine feast with your companions."
+7,"TEXT_LUCKBC010_03219_SEQ_07","At the Bismarck, your revelry is interrupted when Oboro rushes into the establishment half-naked. You and Captain Jacke quickly deduce that the “Oboro” whom you reunited with after the operation was none other than Karasu in disguise, a suspicion which is quickly confirmed when the savvy ninja reveals his true identity. The crow, victorious again over his erstwhile friend, offers a few mocking words, then turns into a bat and flaps away, leaving Oboro dejected and stark naked in the middle on the tavern floor. Jacke offers a few words of sympathy, and invites all of you back to the Sisters that you might find the poor man some clothes."
+8,"TEXT_LUCKBC010_03219_SEQ_08","You arrive at the Sisters to find Oboro decked out in clothes from Captain Jacke's personal wardrobe, a particularly garish outfit to which the fashion-challenged ninja has inexplicably taken a liking. He fills you in on the particulars of his inglorious defeat at Karasu's hands, resolving in the end to get his revenge on his rival. After Oboro takes his leave, Captain Jacke encourages you not to be a stranger in La Noscea, as both he and your ninja friends will like as not have need of your services again."
+9,"TEXT_LUCKBC010_03219_SEQ_09",""
+10,"TEXT_LUCKBC010_03219_SEQ_10",""
+11,"TEXT_LUCKBC010_03219_SEQ_11",""
+12,"TEXT_LUCKBC010_03219_SEQ_12",""
+13,"TEXT_LUCKBC010_03219_SEQ_13",""
+14,"TEXT_LUCKBC010_03219_SEQ_14",""
+15,"TEXT_LUCKBC010_03219_SEQ_15",""
+16,"TEXT_LUCKBC010_03219_SEQ_16",""
+17,"TEXT_LUCKBC010_03219_SEQ_17",""
+18,"TEXT_LUCKBC010_03219_SEQ_18",""
+19,"TEXT_LUCKBC010_03219_SEQ_19",""
+20,"TEXT_LUCKBC010_03219_SEQ_20",""
+21,"TEXT_LUCKBC010_03219_SEQ_21",""
+22,"TEXT_LUCKBC010_03219_SEQ_22",""
+23,"TEXT_LUCKBC010_03219_SEQ_23",""
+24,"TEXT_LUCKBC010_03219_TODO_00","Speak with Oboro at the Long Climb."
+25,"TEXT_LUCKBC010_03219_TODO_01","Keep lookout for Karasu behind the Hermit's Hovel."
+26,"TEXT_LUCKBC010_03219_TODO_02","Search inside the Hermit's Hovel and retrieve the scroll."
+27,"TEXT_LUCKBC010_03219_TODO_03","Wait for Oboro at the Long Climb."
+28,"TEXT_LUCKBC010_03219_TODO_04","Speak with Oboro at the dock storehouse."
+29,"TEXT_LUCKBC010_03219_TODO_05","Wait for your friends at the Bismarck."
+30,"TEXT_LUCKBC010_03219_TODO_06","Speak with Oboro at the Rogues' Guild."
+31,"TEXT_LUCKBC010_03219_TODO_07",""
+32,"TEXT_LUCKBC010_03219_TODO_08",""
+33,"TEXT_LUCKBC010_03219_TODO_09",""
+34,"TEXT_LUCKBC010_03219_TODO_10",""
+35,"TEXT_LUCKBC010_03219_TODO_11",""
+36,"TEXT_LUCKBC010_03219_TODO_12",""
+37,"TEXT_LUCKBC010_03219_TODO_13",""
+38,"TEXT_LUCKBC010_03219_TODO_14",""
+39,"TEXT_LUCKBC010_03219_TODO_15",""
+40,"TEXT_LUCKBC010_03219_TODO_16",""
+41,"TEXT_LUCKBC010_03219_TODO_17",""
+42,"TEXT_LUCKBC010_03219_TODO_18",""
+43,"TEXT_LUCKBC010_03219_TODO_19",""
+44,"TEXT_LUCKBC010_03219_TODO_20",""
+45,"TEXT_LUCKBC010_03219_TODO_21",""
+46,"TEXT_LUCKBC010_03219_TODO_22",""
+47,"TEXT_LUCKBC010_03219_TODO_23",""
+48,"TEXT_LUCKBC010_03219_OBORO_000_000","You thought you'd evaded me for good, did you!? We'll see who has the last laugh! Ahahaha!"
+49,"TEXT_LUCKBC010_03219_OBORO_000_001","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>...!? By the kami, don't sneak up on me like that! That is, of course I felt your presence. Yes, I was simply...deep in thought, that is all."
+50,"TEXT_LUCKBC010_03219_OBORO_000_002","But I daresay for good reason! For you see, I have finally tracked down that elusive bird, and am ready to seize him by the wings and take back what is mine!"
+51,"TEXT_LUCKBC010_03219_OBORO_100_002","I speak, of course, of that blasted Karasu. Ever since he escaped with half of the forbidden scroll, I have not let up the search for a moment. Today, at long last, I have found him! Truly, this is reason to rejoice, would you not agree?"
+52,"TEXT_LUCKBC010_03219_OBORO_000_003","And yet, the act of stealing the scroll back will not prove so simple. Which is why your arrival is truly a gift from the heavens! You will aid me in the task, will you not? It will be just like old times!"
+53,"TEXT_LUCKBC010_03219_OBORO_000_004","Once again, I owe you my gratitude. Now, let us get down to brass tacks, as Jacke would say. My shinobi have ascertained that Karasu has once again returned to Eorzean shores to ply his trade─such as it is─in the shadows of the black markets."
+54,"TEXT_LUCKBC010_03219_OBORO_000_005","Furthermore, they say he has taken up residence in secret at a secluded grove in La Noscea known as the Hermit's Hovel. You know the place, yes? Let us meet up there, and I will share with you the ingenious details of my plan. I will go ahead on my own─we do not want to attract attention, after all."
+55,"TEXT_LUCKBC010_03219_OBORO_000_010","I thank you for coming, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Now, without further ado, let me explain precisely how I intend to recover the scroll from Karasu's clutches."
+56,"TEXT_LUCKBC010_03219_OBORO_100_010","My colleagues and I have been observing the man closely for a fortnight or so. Though one would assume otherwise, he is actually a man of remarkably consistent routine."
+57,"TEXT_LUCKBC010_03219_OBORO_000_011","He carries the scroll in a case that never leaves his side. Save, that is, for when he goes for his daily bath─at precisely the same hour each day..."
+58,"TEXT_LUCKBC010_03219_OBORO_000_012","I had a mind to lift the scroll from his possessions while he was otherwise occupied─much as we did with Zakuro that one time in Kugane─but would you believe it? Almost as if by magic, no sooner has he entered the baths than he is out again, scroll at his side and fully dressed in that garish garb of his."
+59,"TEXT_LUCKBC010_03219_OBORO_000_013","This is where you come in. Worry not: this will not involve any high-wire walking or elaborate disguises. I simply intend to invite the man to share a drink, and thereby delay his departure. In the meantime, you are to sneak into the bathhouse and steal away with the scroll."
+60,"TEXT_LUCKBC010_03219_OBORO_000_014","Ingeniously plotted, would you not say!? I need only lull Karasu into a false sense of security with my impeccable acting skills, and the scroll is as good as ours! What could go wrong?"
+61,"TEXT_LUCKBC010_03219_OBORO_000_015","So let us put the plan in action. Let us make for the hovel─separately, of course. Find yourself suitable cover, and wait for me to lure the crow away. We shall meet again here once you have safely recovered the scroll."
+62,"TEXT_LUCKBC010_03219_OBORO_000_018","As you can see, I have everything entirely under control. Find yourself cover─Karasu should be arriving any moment."
+63,"TEXT_LUCKBC010_03219_KARASU_000_020","Oho, but what's this!? Our hero arrives for a relaxing soak in his favorite spring, only to be stared down by his self-styled rival and realm-renowned oaf Oboro the dim! Have you not yet had your fill of being outwitted and embarrassed by your betters?"
+64,"TEXT_LUCKBC010_03219_OBORO_000_021","Spare me the bombast and bluster, Karasu. I stand before you today with an offer...an offer of peace."
+65,"TEXT_LUCKBC010_03219_OBORO_000_022","We are countrymen, and there was once a time when we called each other friend. Has our conflict not persisted long enough?"
+66,"TEXT_LUCKBC010_03219_OBORO_000_023","So let us lay down our weapons for a day. Let us soak in these soothing waters, reminisce about times gone by, and see if we cannot put our petty differences behind us. Why, I've even brought a bottle of Hingan rice wine for the occasion..."
+67,"TEXT_LUCKBC010_03219_KARASU_000_024","Astonishing! Incredible! Has the dim one lost his wits? Does he believe that a few flowery words are enough to pull the wool over the crow's keen eyes while he steals away with the scroll? The audience gasps at the sheer audacity!"
+68,"TEXT_LUCKBC010_03219_OBORO_000_025","Believe me or do not, the choice is yours. But this I swear: I have no interest in seeing the two halves of that accursed scroll reunited."
+69,"TEXT_LUCKBC010_03219_OBORO_000_026","On the contrary, with one half safely sealed away in our village, and the other in the hands of the realm's most elusive ninja, the forbidden mudra will never be wielded again─and I would not have it any other way."
+70,"TEXT_LUCKBC010_03219_OBORO_000_027","Furthermore, I have recently found enlightenment of a sort. At long last, I have realized that your skill with ninjutsu far exceeds my own─even had I once desired to steal the scroll back from you, I am now painfully aware that doing so is entirely beyond my abilities."
+71,"TEXT_LUCKBC010_03219_KARASU_000_028","Oho! Well, color me surprised! The boy's actually grown half a brain since last we met!"
+72,"TEXT_LUCKBC010_03219_KARASU_000_029","But aren't you being a bit naive, Oboro? After all, what's to stop me from simply returning to our village, effortlessly incapacitating our elders, and seizing the other half of the scroll for myself!?"
+73,"TEXT_LUCKBC010_03219_OBORO_000_030","I know you too well, Karasu. It is not power that you crave, but freedom. You have worked too long, too hard to cast off the shackles of our village to risk losing it all over a single scroll."
+74,"TEXT_LUCKBC010_03219_KARASU_000_031","The audience gasps! Why, I do believe that's the single most intelligent utterance that's ever escaped the dim one's lips!"
+75,"TEXT_LUCKBC010_03219_KARASU_000_032","Very well, then. I'm feeling generous today, so I do believe I'll entertain your offers. Though for your sake, I do hope that the rice wine you've brought is a good vintage. I simply can't <hex:021A020203>abide<hex:021A020103> poor taste in beverages, you see..."
+76,"TEXT_LUCKBC010_03219_SYSTEM_000_040","You found a scroll! It's entitled <hex:021A020203>Mastering Doman Mahjong: A Primer for Prentices<hex:021A020103>. This doesn't appear to be the item you were looking for..."
+77,"TEXT_LUCKBC010_03219_SYSTEM_000_041","You found a scroll! It's entitled <hex:021A020203>Big Ears and Bushy Tails: On the Breeding and Rearing of Rabbits<hex:021A020103>. This doesn't appear to be the item you were looking for..."
+78,"TEXT_LUCKBC010_03219_SYSTEM_000_042","You found a scroll! It's entitled <hex:021A020203>Oboro's Dullest and Most Dim-witted Moments, as Chronicled by Karasu Redbeak<hex:021A020103>. This doesn't appear to be the item you were looking for..."
+79,"TEXT_LUCKBC010_03219_SYSTEM_000_043","You found a scroll! It's entitled <hex:021A020203>The Wandering Minstrel's Greatest Mysteries Revealed<hex:021A020103>. This doesn't appear to be the item you were looking for..."
+80,"TEXT_LUCKBC010_03219_SYSTEM_000_044","The bookshelf appears to be quite sturdy. Perhaps you could use it as a foothold to reach the room above..."
+81,"TEXT_LUCKBC010_03219_KARASU_000_050","(-Oboro-)Ah, you return, friend! And with the scroll safely in your grasp, no doubt. Let me examine it, that I might ascertain its authenticity."
+82,"TEXT_LUCKBC010_03219_KARASU_000_051","(-Oboro-)Yes...yes, there can be no doubting it. This is indeed the forbidden mudra I sought! After all these years, finally have I outwitted that accursed crow!"
+83,"TEXT_LUCKBC010_03219_KARASU_000_052","(-Oboro-)And yet, we must be wary. No doubt, Karasu has already realized that something is amiss. Let us reconvene at the storehouse before he can pick up our trail."
+84,"TEXT_LUCKBC010_03219_KARASU_000_060","(-Oboro-)Welcome back, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Do forgive me if I am a bit giddy. I still cannot quite believe that I outwitted Karasu for once. My plans have a habit of...firing back, as they say."
+85,"TEXT_LUCKBC010_03219_KARASU_000_061","(-Oboro-)Why, you should have seen him! So convincing was my act, that by the time we were through he was stumbling and slurring his words so much that you'd think he'd downed a whole bathtub's worth of rice wine! Ahahahaha! Hahaha! ...Hah."
+86,"TEXT_LUCKBC010_03219_JACKE_000_062","(-Roguish Voice-)Gods' piss, lad, shut yer gob! Every cove and mort for malms can hear ye blabbin'..."
+87,"TEXT_LUCKBC010_03219_KARASU_000_063","(-Oboro-)Ah, Captain Jacke! A pleasure as always. Do forgive me my outburst. I was merely celebrating with our mutual friend here my most remarkable triumph over the accursed Karasu!"
+88,"TEXT_LUCKBC010_03219_JACKE_000_064","Ho there, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! Always a pleasure to see a dimber damber like yerself back in town. I trust yer stabbers haven't dulled none since last we met?"
+89,"TEXT_LUCKBC010_03219_JACKE_000_065","Anyway, between this reunion an' Oboro's hard-won victory, I reckon we've got cause to celebrate. What say we drag our dew beaters back to town and yaffle ourselves a bite at the Bismarck?"
+90,"TEXT_LUCKBC010_03219_KARASU_000_066","(-Oboro-)A splendid idea, my friend! Why, I would enjoy nothing more than to share this joyous moment with my boon companions. To the Bismarck, then─and the first round is on me!"
+91,"TEXT_LUCKBC010_03219_JACKE_000_067","That's the spirit! I'll send ahead for Underfoot and the Stray─the more, the benar after all! Aye, been too long since we had a right little rogue family reunion."
+92,"TEXT_LUCKBC010_03219_KARASU_000_068","(-Oboro-)An upstanding fellow as ever, that Captain Jacke. Ah, but it is somewhat bittersweet, is it not? Now that my long-standing pursuit of Karasu has come to a close, I find myself in search of a new mission─a new purpose in my life, such as it were."
+93,"TEXT_LUCKBC010_03219_KARASU_000_069","I have no intention of returning to the cramped confines of my village...and yet, I am uncertain where my abilities might best avail the people of this realm. Pray tell, what sort of adventures have you been occupying yourself with of late?"
+94,"TEXT_LUCKBC010_03219_Q2_000_000","What will you say?"
+95,"TEXT_LUCKBC010_03219_A2_000_001","I traveled to the First."
+96,"TEXT_LUCKBC010_03219_A2_000_002","I did battle with a great hunter."
+97,"TEXT_LUCKBC010_03219_KARASU_000_070","(-Oboro-)What's this you say? There exist worlds out there other than our own...!? If you are having a jest at Oboro's expense, old friend, let it be known I do not find it amusing!"
+98,"TEXT_LUCKBC010_03219_KARASU_000_071","(-Oboro-)But no...I can tell that you say this in earnest. Consider me intrigued, though forgive me if I am not in a hurry to seek out a means to travel there. No, I will bide my time here in Eorzea, and carefully ponder my future."
+99,"TEXT_LUCKBC010_03219_KARASU_000_072","(-Oboro-)At any rate, we mustn't keep Jacke and the others waiting, yes? I will make for the Bismarck as soon as I have attended to my affairs here. Why don't you travel on ahead?"
+100,"TEXT_LUCKBC010_03219_KARASU_000_100","(-Oboro-)...And just like that, the scroll was mine again! And so I say, who is the “dim” one now, you damned crow!? Ahahaha!"
+101,"TEXT_LUCKBC010_03219_JACKE_000_101","Aye, aye...ye've told the tale thrice over already. Is the mutton here yet? I'm right banded, I say..."
+102,"TEXT_LUCKBC010_03219_KARASU_000_102","(-Oboro-)And I will tell it over and again, my good captain! After all, it is no small feat to triumph over Karasu─quite possibly the most supremely skilled <hex:021A020203>shinobi<hex:021A020103> our village─nay, our world has ever known!"
+103,"TEXT_LUCKBC010_03219_JACKE_000_103","Ye can say that again...wait, ye already have."
+104,"TEXT_LUCKBC010_03219_OBORO_000_104","M-My friends! Be on your guard! That Oboro is a fake!"
+105,"TEXT_LUCKBC010_03219_PERIMUHAURIMU_000_105","Wait, what in the...? There's two of 'em!"
+106,"TEXT_LUCKBC010_03219_KARASU_000_106","(-Oboro-)What nonsense is this!? The sheer gall of this man! Clearly, if anyone here is a <hex:021A020203>fake<hex:021A020103>, it is the madman standing in the middle of this fine establishment stripped down to nothing but his undergarments!"
+107,"TEXT_LUCKBC010_03219_VKEBBE_000_107","I don't know, Jacke... They both look right convincin' to me..."
+108,"TEXT_LUCKBC010_03219_Q1_000_000","Which is the true Oboro?"
+109,"TEXT_LUCKBC010_03219_A1_000_001","The one in his underclothes."
+110,"TEXT_LUCKBC010_03219_A1_000_002","The one fully dressed."
+111,"TEXT_LUCKBC010_03219_JACKE_000_108","Aye, Jacke's glazes say the same. Only the real Oboro'd be daft enough to stumble into this place stripped down to his skivvies."
+112,"TEXT_LUCKBC010_03219_JACKE_000_109","I wouldn't be so sure o' that, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! No, ol' Jacke reckons that one's too dimber to be the real Oboro..."
+113,"TEXT_LUCKBC010_03219_KARASU_000_110","(-Oboro-)Oh, <hex:021A020203>fine<hex:021A020103> then. I tire of this drab old disguise, anyhow."
+114,"TEXT_LUCKBC010_03219_OBORO_000_111","Karasu! Does your villainy know no bounds!?"
+115,"TEXT_LUCKBC010_03219_KARASU_000_112","<hex:021A020203>Villainy<hex:021A020103>? You wound me, Oboro! Why, after I learned the art of illusion from that overstuffed Lord What's-his-name, I simply thought I would put it to use and have a little fun. We did have fun, didn't we?"
+116,"TEXT_LUCKBC010_03219_KARASU_000_113","I must say, Oboro, your friends are far more entertaining than you are. I daresay you could learn a thing or two from them. But ah well, I suppose all good things must come to an end. Till we meet again...farewell!"
+117,"TEXT_LUCKBC010_03219_OBORO_000_114","...Off like a crow in the night."
+118,"TEXT_LUCKBC010_03219_JACKE_000_115","Don't be too hard on yerself, boy. He had us all rooked."
+119,"TEXT_LUCKBC010_03219_JACKE_000_116","Anyhow, now that all's bob, I reckon it's about time we took our dew beaters to the Sisters. You come along too, Oboro. I'll get ye somethin' to...cover yerself up a bit."
+120,"TEXT_LUCKBC010_03219_JACKE_000_120","What do ye say, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>? I reckon the lad's lookin' sharper than ever."
+121,"TEXT_LUCKBC010_03219_PERIMUHAURIMU_000_121","Say what ye will, but Jacke's fashion sense is certainly one of a kind."
+122,"TEXT_LUCKBC010_03219_VKEBBE_000_122","That's one o' Jacke's favorite outfits. The poor colt..."
+123,"TEXT_LUCKBC010_03219_OBORO_000_130","Captain Jacke was kind enough to lend me some garb from his personal wardrobe. They are rather, er, how might I describe it...?"
+124,"TEXT_LUCKBC010_03219_OBORO_000_131","Sophisticated! Stylish! Dashing and delightful!"
+125,"TEXT_LUCKBC010_03219_JACKE_000_132","Did I tell ye or did I tell ye!? Ol' Jacke's got ye lookin' benar than ever before! Every rum doxy in Limsa won't be able to take 'er glazes off ye!"
+126,"TEXT_LUCKBC010_03219_VKEBBE_000_133","Nor can I...an' not in a good way."
+127,"TEXT_LUCKBC010_03219_OBORO_000_134","In any event, I owe you all─especially you, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>─an apology for this most unfortunate turn of events."
+128,"TEXT_LUCKBC010_03219_OBORO_000_135","I had thought my plan flawless, but unfortunately I had neglected to account for one thing: the possibility that Karasu's tolerance for Hingan rice wine might be considerably higher than my own."
+129,"TEXT_LUCKBC010_03219_OBORO_000_136","I cannot say for sure precisely what happened. All I know is that one moment we were engaged in a most delightful conversation, and the next I was lying on a cot in the hovel with nothing but my undergarments on me."
+130,"TEXT_LUCKBC010_03219_OBORO_000_137","Suspecting that something was amiss, I dashed back to the dock storehouse as quick as my legs could carry me, only to find neither you nor Karasu present...and my personal wardrobe completely empty, to boot."
+131,"TEXT_LUCKBC010_03219_JACKE_000_138","Hah! A dimber damber as always, that one. Gettin' you some new duds was one thing, but cloyin' that scroll back from Karasu is goin' to be a whole 'nother matter."
+132,"TEXT_LUCKBC010_03219_OBORO_000_139","Damn it all! But mark my words─that scoundrel will not get away with his villainy this time. No, I must return to the storehouse at once and draw up a plan to retrieve what is rightfully mine!"
+133,"TEXT_LUCKBC010_03219_JACKE_000_140","Ahahaha! For all the lad's whingin', damned if he didn't actually seem <hex:021A020203>pleased<hex:021A020103> with this turn of events."
+134,"TEXT_LUCKBC010_03219_JACKE_000_141","Well, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Reckon ye've got adventures ye'd best be gettin' back to, eh? Just promise me ye'll drop in on Oboro and lend him your daddles from time to time. He's a good lad, but he's got a habit of trippin' over his own two dew beaters, if ye whiddle me."
+135,"TEXT_LUCKBC010_03219_JACKE_000_142","...Heh. Now ye've got me soundin' like the boy's father. Anyhow, don't be a stranger here at the Sisters, either. Gods only know we can always use a dimber damber like yerself."

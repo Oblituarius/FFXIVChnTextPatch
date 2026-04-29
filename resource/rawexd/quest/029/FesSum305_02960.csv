@@ -2,94 +2,94 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_FESSUM305_02960_SEQ_00,※本任務是特定期間內的任務。<hex:02100103><hex:02100103>紅蓮節執行委員長荷爾瑪伽想要知道冒險者前來搭話的意圖。
-1,TEXT_FESSUM305_02960_SEQ_01,※本任務只有在季節活動開放期間才能接受和進行。<hex:02100103>　季節活動結束後無法進行，敬請注意。<hex:02100103>　詳情請參見官方網站。<hex:02100103><hex:02100103>荷爾瑪伽承諾在冒險者收集到7枚<hex:02280BFF05>Item<hex:F24F500103>後，再向冒險者說明寶物和傳言是怎麼回事。向永夏島紅蓮節執行委員長荷爾瑪伽交納<hex:02280BFF05>Item<hex:F24F500103>。
-2,TEXT_FESSUM305_02960_SEQ_02,向荷爾瑪伽交納了7枚<hex:02280BFF05>Item<hex:F24F500103>。為了了解詳情，到永夏島附近的<hex:02280CFF05>EObj<hex:F61EA7BD0103>等待。
-3,TEXT_FESSUM305_02960_SEQ_03,向荷爾瑪伽了解了詳情。有傳言說格格魯玖有一筆藏起來了的寶藏，他正在找這個傳言的出處。荷爾瑪伽已經掌握了幾個格格魯玖多次前往的特定地點，他委託冒險者調查其中的一個地點。調查永夏島附近的<hex:02280CFF05>EObj<hex:F61EA7BF0103>。
-4,TEXT_FESSUM305_02960_SEQ_04,發現了<hex:022811FF0A>EventItem<hex:F61E8DDC0103>。需要查明格格魯玖用望遠鏡觀察了什麼。前往永夏島附近的<hex:02280CFF05>EObj<hex:F61EA7BF0103>，用望遠鏡確認格格魯玖看到了什麼。
-5,TEXT_FESSUM305_02960_SEQ_05,確認了格格魯玖看到的東西。看來，這裡是偷窺前來遊玩的客人的最佳地點……把<hex:022811FF0A>EventItem<hex:F61E8DDC0103>交給永夏島的紅蓮節執行委員長荷爾瑪伽。
-6,TEXT_FESSUM305_02960_SEQ_06,把<hex:022811FF0A>EventItem<hex:F61E8DDC0103>交給了荷爾瑪伽。他打算直接質問格格魯玖。在永夏島附近的<hex:02280CFF05>EObj<hex:F61EA7BE0103>張望四周，尋找格格魯玖。
-7,TEXT_FESSUM305_02960_SEQ_07,發現了偷窺遊客的格格魯玖和吉麗麗，並與他們進行了交談。看樣子，有關寶物的傳言是為了攬客而編造的謊言。和永夏島的紅蓮節執行委員長荷爾瑪伽交談。
-8,TEXT_FESSUM305_02960_SEQ_08,和荷爾瑪伽進行了交談。他決定如果關於寶物的傳言出現問題就讓格格魯玖自行處理，自己只負責搞好紅蓮節。接下來也要繼續幫助荷爾瑪伽組織紅蓮節。
-9,TEXT_FESSUM305_02960_SEQ_09,
-10,TEXT_FESSUM305_02960_SEQ_10,
-11,TEXT_FESSUM305_02960_SEQ_11,
-12,TEXT_FESSUM305_02960_SEQ_12,
-13,TEXT_FESSUM305_02960_SEQ_13,
-14,TEXT_FESSUM305_02960_SEQ_14,
-15,TEXT_FESSUM305_02960_SEQ_15,
-16,TEXT_FESSUM305_02960_SEQ_16,
-17,TEXT_FESSUM305_02960_SEQ_17,
-18,TEXT_FESSUM305_02960_SEQ_18,
-19,TEXT_FESSUM305_02960_SEQ_19,
-20,TEXT_FESSUM305_02960_SEQ_20,
-21,TEXT_FESSUM305_02960_SEQ_21,
-22,TEXT_FESSUM305_02960_SEQ_22,
-23,TEXT_FESSUM305_02960_SEQ_23,
-24,TEXT_FESSUM305_02960_TODO_00,將<hex:02280BFF05>Item<hex:F24F500103>交給紅蓮節執行委員長荷爾瑪伽
-25,TEXT_FESSUM305_02960_TODO_01,在<hex:02280CFF05>EObj<hex:F61EA7BD0103>等待
-26,TEXT_FESSUM305_02960_TODO_02,調查<hex:02280CFF05>EObj<hex:F61EA7BF0103>
-27,TEXT_FESSUM305_02960_TODO_03,前往<hex:02280CFF05>EObj<hex:F61EA7BF0103> 用望遠鏡確認格格魯玖看到了什麼
-28,TEXT_FESSUM305_02960_TODO_04,將<hex:022811FF0A>EventItem<hex:F61E8DDC0103>交給紅蓮節執行委員長荷爾瑪伽
-29,TEXT_FESSUM305_02960_TODO_05,在<hex:02280CFF05>EObj<hex:F61EA7BE0103>張望
-30,TEXT_FESSUM305_02960_TODO_06,和紅蓮節執行委員長荷爾瑪伽對話
-31,TEXT_FESSUM305_02960_TODO_07,
-32,TEXT_FESSUM305_02960_TODO_08,
-33,TEXT_FESSUM305_02960_TODO_09,
-34,TEXT_FESSUM305_02960_TODO_10,
-35,TEXT_FESSUM305_02960_TODO_11,
-36,TEXT_FESSUM305_02960_TODO_12,
-37,TEXT_FESSUM305_02960_TODO_13,
-38,TEXT_FESSUM305_02960_TODO_14,
-39,TEXT_FESSUM305_02960_TODO_15,
-40,TEXT_FESSUM305_02960_TODO_16,
-41,TEXT_FESSUM305_02960_TODO_17,
-42,TEXT_FESSUM305_02960_TODO_18,
-43,TEXT_FESSUM305_02960_TODO_19,
-44,TEXT_FESSUM305_02960_TODO_20,
-45,TEXT_FESSUM305_02960_TODO_21,
-46,TEXT_FESSUM305_02960_TODO_22,
-47,TEXT_FESSUM305_02960_TODO_23,
-48,TEXT_FESSUM305_02960_HAERMAGA_000_000,哦，是你啊。<hex:02100103>……你似乎有什麼事想問我啊。<hex:02100103>怎麼了？
-49,TEXT_FESSUM305_02960_Q1_000_000,如何作答？
-50,TEXT_FESSUM305_02960_A1_000_001,寶物是什麼？
-51,TEXT_FESSUM305_02960_A1_000_002,傳言是什麼？
-52,TEXT_FESSUM305_02960_HAERMAGA_000_010,什、什麼寶物？<hex:02100103>……算了，矇混不過去了。<hex:02100103>如果是冒險者，興許很快就能找到線索了。
-53,TEXT_FESSUM305_02960_HAERMAGA_000_020,這個，傳言有很多的，你指哪一個？<hex:02100103>……算了，這種程度的事也沒有必要隱瞞了。<hex:02100103>如果是冒險者，興許很快就能找到線索了。
-54,TEXT_FESSUM305_02960_HAERMAGA_000_030,不過，現在能不能先優先協助紅蓮節？<hex:02100103>我希望你能幫助佩·歐碧雅諾他們，<hex:02100103>直到狀況穩定下來。
-55,TEXT_FESSUM305_02960_HAERMAGA_000_031,我想想……等你收集到7枚<hex:02280BFF05>Item<hex:F24F500103>，<hex:02100103>我就當做你的工作告一段落了，跟你說明寶物和傳言的事。
-56,TEXT_FESSUM305_02960_HAERMAGA_000_040,等你收集到7枚<hex:02280BFF05>Item<hex:F24F500103>，<hex:02100103>我就當你全力協助了紅蓮節。<hex:02100103>到那時我再告訴你你想知道的事。
-57,TEXT_FESSUM305_02960_HAERMAGA_000_041,正好7枚，我收下了。<hex:02100103>我代表執行委員感謝你的協助。<hex:02100103>謝謝。
-58,TEXT_FESSUM305_02960_HAERMAGA_000_042,那麼，關於你想問的事……這裡不方便。<hex:02100103>我們去南邊的島上談吧，那裡人少，也不用擔心隔牆有耳。<hex:02100103>你先去吧，我稍後過去。
-59,TEXT_FESSUM305_02960_HAERMAGA_000_043,這裡不方便，到南邊的島上說吧。<hex:02100103>你先去那裡等我。
-60,TEXT_FESSUM305_02960_HAERMAGA_000_050,抱歉，久等了。<hex:02100103>那麼……從何講起呢……
-61,TEXT_FESSUM305_02960_HAERMAGA_000_051,最近出現了一個關於這次紅蓮節的傳聞，<hex:02100103>說什麼格格魯玖在永夏島藏了一筆財寶，<hex:02100103>如果有人能在紅蓮節期間找到，就可以拿走這個寶物。
-62,TEXT_FESSUM305_02960_HAERMAGA_000_052,這跟海盜王霧鬚的財寶一樣，也是個不著調的傳聞。<hex:02100103>我都懶得向格格魯玖確認了。<hex:02100103>但遺憾的是，竟然有很多人相信了……
-63,TEXT_FESSUM305_02960_HAERMAGA_000_053,如果圍繞寶物出現了什麼問題，<hex:02100103>肯定會給格格魯玖造成麻煩。<hex:02100103>所以我想至少先找出傳聞的出處，為此我一直在調查。
-64,TEXT_FESSUM305_02960_HAERMAGA_000_054,在這個過程中，我發現格格魯玖本人會頻繁造訪<hex:02100103>永夏島的某些特定的地方……<hex:02100103>他的這一行為十分可疑……
-65,TEXT_FESSUM305_02960_HAERMAGA_000_055,我打算好好調查一下那些地方，<hex:02100103>找出事情的真相。<hex:02100103>既然我都告訴了你這麼多了，你也來幫忙吧。
-66,TEXT_FESSUM305_02960_HAERMAGA_000_056,那你就去北邊的小島上調查吧。<hex:02100103>要是有什麼可疑之處可要好好查個清楚啊！
-67,TEXT_FESSUM305_02960_HAERMAGA_000_057,北邊的小島上有個格格魯玖頻繁造訪的地方，<hex:02100103>你就去那裡調查好了。<hex:02100103>我去調查別的地方。
-68,TEXT_FESSUM305_02960_SYSTEM_000_060,發現了疑似格格魯玖所有物的望遠鏡。<hex:02100103>調查他用這個看了些什麼。
-69,TEXT_FESSUM305_02960_SYSTEM_000_065,開始確認格格魯玖觀看的東西。<hex:02100103>如果發現了線索，在瞄準後<hex:02100103>點擊<hex:020835E4E95101FF1C><hex:024804F2022203>滑鼠左鍵<hex:0248020103><hex:FF12><hex:021E021003>鍵/<hex:021E020903>鍵<hex:03>進行確認！
-70,TEXT_FESSUM305_02960_SYSTEM_000_070,看到了正在愉快玩耍的女性。<hex:02100103>看來這裡是偷窺遊客的最佳地點……
-71,TEXT_FESSUM305_02960_HAERMAGA_000_080,啊……你回來了啊……<hex:02100103>我怎麼有種不太好的預感……<hex:02100103>你發現什麼了嗎？
-72,TEXT_FESSUM305_02960_HAERMAGA_000_081,……原來如此，用這個望遠鏡偷窺啊。<hex:02100103>我去的地方視野也很開闊，<hex:02100103>再加上這物證，那就說明……
-73,TEXT_FESSUM305_02960_HAERMAGA_000_082,這個還是直接突擊現場比較好。<hex:02100103>正好，格格魯玖要去北邊的小島，<hex:02100103>你跟我一起去找他吧。
-74,TEXT_FESSUM305_02960_HAERMAGA_000_083,格格魯玖要去北邊的小島了。<hex:02100103>我們去找他問個究竟吧。<hex:02100103>……真是，頭都要大了。
-75,TEXT_FESSUM305_02960_HAERMAGA_000_090,來吧，看看格格魯玖在哪裡……<hex:02100103>拉拉菲爾族的個子很矮，不太容易找……找到了！
-76,TEXT_FESSUM305_02960_HAERMAGA_100_090,走吧！
-77,TEXT_FESSUM305_02960_HAERMAGA_000_091,……哎，我能想像到是怎麼回事，但還是問問吧。<hex:02100103>格格魯玖先生，在做什麼啊？
-78,TEXT_FESSUM305_02960_GEGERUJU_000_092,哦呵呵呵！<hex:02100103>這還用說嗎？<hex:02100103>我在從遠方守護我的小貓咪們啊！
-79,TEXT_FESSUM305_02960_HAERMAGA_000_093,什麼守護……分明是偷窺……
-80,TEXT_FESSUM305_02960_JIRIRI_000_094,你不能理解這個景色的美妙，<hex:02100103>真是太遺憾了。<hex:02100103>嗚呼呼呼呼呼……
-81,TEXT_FESSUM305_02960_HAERMAGA_000_095,你竟然也是同類……
-82,TEXT_FESSUM305_02960_GEGERUJU_000_096,在近處鑒賞小貓咪跳舞的樣子很不錯，<hex:02100103>不過，從暗處守護她們玩耍的樣子也很好啊！<hex:02100103>真不愧是吉麗麗，委託你是個正確的選擇！
-83,TEXT_FESSUM305_02960_JIRIRI_000_097,謝謝。<hex:02100103>能聽到這樣的評價，<hex:02100103>我花工夫去散布寶物的傳言也值了。
-84,TEXT_FESSUM305_02960_JIRIRI_000_098,來吧，格格魯玖大人，要守護的地方還有很多的。<hex:02100103>在此久留會暴露我們的偷窺……<hex:02100103>不對……會讓客人感到不安的，快走吧！
-85,TEXT_FESSUM305_02960_GEGERUJU_000_099,說得對！<hex:02100103>那就，為了新的小貓咪，出發！
-86,TEXT_FESSUM305_02960_HAERMAGA_000_100,我頭疼得快要炸了……<hex:02100103>先回去整理一下情報吧……
-87,TEXT_FESSUM305_02960_HAERMAGA_000_110,……寶物的傳言，似乎是格格魯玖委託<hex:02100103>吉麗麗散布的，是用於招攬客人的策略。<hex:02100103>也就是說，是他們自導自演的。
-88,TEXT_FESSUM305_02960_HAERMAGA_000_111,既然如此，如果因為寶物傳言出了問題，<hex:02100103>就讓他們自行解決吧。
-89,TEXT_FESSUM305_02960_HAERMAGA_000_112,作為執行委員，既然轟擊怪不出現，<hex:02100103>那就只需要繼續將紅蓮節用於冒險者公會的宣傳，<hex:02100103>努力造聲勢就行了。
-90,TEXT_FESSUM305_02960_HAERMAGA_000_113,真是麻煩你了，抱歉。<hex:02100103>如果可以的話，請繼續協助紅蓮節的運營！
+0,"TEXT_FESSUM305_02960_SEQ_00","Haermaga wishes to know why you have seen fit to interrupt his faire duties.<hex:02100103>※This quest is available for a limited time only."
+1,"TEXT_FESSUM305_02960_SEQ_01","Haermaga promises to reveal all of the rumors of treasure after you earn seven Faire vouchers.<hex:02100103><hex:02100103>※Please note that you will be unable to complete this quest after the seasonal event has ended. For details, please check the Lodestone."
+2,"TEXT_FESSUM305_02960_SEQ_02","You delivered seven Faire vouchers to Haermaga. Wait for him at the designated location near the Isle of Endless Summer."
+3,"TEXT_FESSUM305_02960_SEQ_03","Haermaga tells you the rumor of a treasure hidden by Gegeruju that he himself is hunting. He has already learned of several places Gegeruju has visited on multiple occasions, and asks that you investigate one of them. Travel to the vantage point near the Isle of Endless Summer and discover what you can."
+4,"TEXT_FESSUM305_02960_SEQ_04","You discovered Gegeruju's spyglass. Travel to the vantage point near the Isle of Endless Summer and look through it to see what Gegeruju saw."
+5,"TEXT_FESSUM305_02960_SEQ_05","You surmise that vantage point is the perfect location from which to view faire-goers from afar. Deliver Gegeruju's spyglass to Haermaga and report your findings to him."
+6,"TEXT_FESSUM305_02960_SEQ_06","Haermaga plans to catch Gegeruju in the act and confront him directly, but first he must be found. Search for Gegeruju around the vantage point near the Isle of Endless Summer."
+7,"TEXT_FESSUM305_02960_SEQ_07","You discover Gegeruju in the act of watching faire-goers, and learn that he and Jiriri spread the rumors of treasure to attract more visitors to the isle. Return to Haermaga's post and speak with him once more about how best to handle the situation."
+8,"TEXT_FESSUM305_02960_SEQ_08","Haermaga determines that he and the others will continue to make the Moonfire Faire the most festive occasion they can, but will insist that Gegeruju resolve any problems that arise as a result of the treasure rumors. Be sure to lend Haermaga a hand wherever you can in the faire effort."
+9,"TEXT_FESSUM305_02960_SEQ_09",""
+10,"TEXT_FESSUM305_02960_SEQ_10",""
+11,"TEXT_FESSUM305_02960_SEQ_11",""
+12,"TEXT_FESSUM305_02960_SEQ_12",""
+13,"TEXT_FESSUM305_02960_SEQ_13",""
+14,"TEXT_FESSUM305_02960_SEQ_14",""
+15,"TEXT_FESSUM305_02960_SEQ_15",""
+16,"TEXT_FESSUM305_02960_SEQ_16",""
+17,"TEXT_FESSUM305_02960_SEQ_17",""
+18,"TEXT_FESSUM305_02960_SEQ_18",""
+19,"TEXT_FESSUM305_02960_SEQ_19",""
+20,"TEXT_FESSUM305_02960_SEQ_20",""
+21,"TEXT_FESSUM305_02960_SEQ_21",""
+22,"TEXT_FESSUM305_02960_SEQ_22",""
+23,"TEXT_FESSUM305_02960_SEQ_23",""
+24,"TEXT_FESSUM305_02960_TODO_00","Deliver Faire vouchers to Haermaga."
+25,"TEXT_FESSUM305_02960_TODO_01","Await Haermaga at the designated location."
+26,"TEXT_FESSUM305_02960_TODO_02","Investigate the vantage point."
+27,"TEXT_FESSUM305_02960_TODO_03","Use the spyglass from the vantage point to see what Gegeruju saw."
+28,"TEXT_FESSUM305_02960_TODO_04","Deliver Gegeruju's spyglass to Haermaga."
+29,"TEXT_FESSUM305_02960_TODO_05","Look for Gegeruju at the designated location."
+30,"TEXT_FESSUM305_02960_TODO_06","Speak with Haermaga."
+31,"TEXT_FESSUM305_02960_TODO_07",""
+32,"TEXT_FESSUM305_02960_TODO_08",""
+33,"TEXT_FESSUM305_02960_TODO_09",""
+34,"TEXT_FESSUM305_02960_TODO_10",""
+35,"TEXT_FESSUM305_02960_TODO_11",""
+36,"TEXT_FESSUM305_02960_TODO_12",""
+37,"TEXT_FESSUM305_02960_TODO_13",""
+38,"TEXT_FESSUM305_02960_TODO_14",""
+39,"TEXT_FESSUM305_02960_TODO_15",""
+40,"TEXT_FESSUM305_02960_TODO_16",""
+41,"TEXT_FESSUM305_02960_TODO_17",""
+42,"TEXT_FESSUM305_02960_TODO_18",""
+43,"TEXT_FESSUM305_02960_TODO_19",""
+44,"TEXT_FESSUM305_02960_TODO_20",""
+45,"TEXT_FESSUM305_02960_TODO_21",""
+46,"TEXT_FESSUM305_02960_TODO_22",""
+47,"TEXT_FESSUM305_02960_TODO_23",""
+48,"TEXT_FESSUM305_02960_HAERMAGA_000_000","You again, is it? And it looks as though you've something you'd like to ask. Go on then, what is it?"
+49,"TEXT_FESSUM305_02960_Q1_000_000","What will you say?"
+50,"TEXT_FESSUM305_02960_A1_000_001","What do you know of this summer treasure?"
+51,"TEXT_FESSUM305_02960_A1_000_002","What do you know of these summer rumors?"
+52,"TEXT_FESSUM305_02960_HAERMAGA_000_010","Treasure? I don't know what you're─ I haven't heard any─ Oh, very well. There's no point in deceiving you. You adventurers always find everything out sooner or later."
+53,"TEXT_FESSUM305_02960_HAERMAGA_000_020","Rumors? Why, there are always rumors. That's nothing to─ I don't think that─ Oh, very well. There's no point in deceiving you. You adventurers always find everything out sooner or later."
+54,"TEXT_FESSUM305_02960_HAERMAGA_000_030","I will tell you, but first you must help with the faire. Lend a hand to P'obyano and the others until things calm down a bit. Then I will reveal all I know."
+55,"TEXT_FESSUM305_02960_HAERMAGA_000_031","Bring me seven Faire vouchers as proof of your labors. That is my price."
+56,"TEXT_FESSUM305_02960_HAERMAGA_000_040","Bring me seven Faire vouchers as proof of your aid. That is the price for all I know of rumors and treasure."
+57,"TEXT_FESSUM305_02960_HAERMAGA_000_041","Seven Faire vouchers, just as I asked. Thank you. We are grateful for the help."
+58,"TEXT_FESSUM305_02960_HAERMAGA_000_042","Now, then, about these rumors. It will not do to speak of them here. There is an island to the south where few souls go. Await me there. I will join you shortly."
+59,"TEXT_FESSUM305_02960_HAERMAGA_000_043","It will not do to speak of the rumors here. There is an island to the south where few souls go. Await me there. I will join you shortly."
+60,"TEXT_FESSUM305_02960_HAERMAGA_000_050","My apologies for keeping you waiting. Now... Where to begin?"
+61,"TEXT_FESSUM305_02960_HAERMAGA_000_051","You are right─there is a rumor abound at the faire this year. The whispers say that Gegeruju has hidden a treasure somewhere on the isle, and whoever finds it during the festivities can lay claim to it."
+62,"TEXT_FESSUM305_02960_HAERMAGA_000_052","Just another shady rumor, much like that of Mistbeard's hidden treasure. It'd be foolish to go to Gegeruju himself with all this, but the trouble is, more than a few folk have taken the rumor to heart."
+63,"TEXT_FESSUM305_02960_HAERMAGA_000_053","If any ill comes of all this, it'll be a hassle to Gegeruju and a hindrance to the faire. And so I've taken to looking into things for myself."
+64,"TEXT_FESSUM305_02960_HAERMAGA_000_054","I've learned of certain places on the isle that Gegeruju has visited alone on more than a few occasions. Suspicious behavior, indeed, no?"
+65,"TEXT_FESSUM305_02960_HAERMAGA_000_055","I mean to visit a number of these myself and expose whatever truth there is behind this mess. And I'd like to ask you to help."
+66,"TEXT_FESSUM305_02960_HAERMAGA_000_056","One of these places lies on an island to the north. I'll leave that one to you. If you find anything there of interest, bring word back to me."
+67,"TEXT_FESSUM305_02960_HAERMAGA_000_057","There are several places Gegeruju visits, alone and often. Travel to the one on the north island and discover whatever you can. I will survey the others."
+68,"TEXT_FESSUM305_02960_SYSTEM_000_060","You discover a spyglass with Gegeruju's name engraved on it. Use it to learn what he was viewing."
+69,"TEXT_FESSUM305_02960_SYSTEM_000_065","Search your surroundings for whatever Gegeruju was viewing. You may move the camera, as well as zoom in and out. Target a sight and use the spyglass with <hex:020825E4E95101FF10><hex:024804F2022203><hex:0248020103><hex:FF0E><hex:021E021003> / <hex:021E020903><hex:03>."
+70,"TEXT_FESSUM305_02960_SYSTEM_000_070","You see a group of ladies gleefully at play. This seems the perfect location to gaze at faire-goers from afar."
+71,"TEXT_FESSUM305_02960_HAERMAGA_000_080","You're back. Tell me, what did you find?"
+72,"TEXT_FESSUM305_02960_HAERMAGA_000_081","Peeping? Aye, I found the places I visited to be ideal vantage points, as well. And this spyglass would seem to be the nail in Gegeruju's voyeuristic coffin."
+73,"TEXT_FESSUM305_02960_HAERMAGA_000_082","Still, damning as it may be, we'll have to catch him in the act. He is visiting the north island as we speak. Come, search for him with me."
+74,"TEXT_FESSUM305_02960_HAERMAGA_000_083","Gegeruju is visiting the north island as we speak. Let us find him and uncover the truth behind all this."
+75,"TEXT_FESSUM305_02960_HAERMAGA_000_090","Gegeruju is sure to be around here somewhere. But those Lalafell are so damned small, it can be hard to─ There he is!"
+76,"TEXT_FESSUM305_02960_HAERMAGA_100_090","Come on, let us be done with this."
+77,"TEXT_FESSUM305_02960_HAERMAGA_000_091","Gegeruju, I don't think there's any need to ask, but we will anyway. What in the hells are you up to?"
+78,"TEXT_FESSUM305_02960_GEGERUJU_000_092","Ahahaha! That much is obvious, is it not? I am keeping a watchful eye on those beautiful ladies over yonder. Are they not an absolute <hex:021A020203>treasure<hex:021A020103>?"
+79,"TEXT_FESSUM305_02960_HAERMAGA_000_093","A watchful eye? It looks to be no more than a peeping eye from where we stand."
+80,"TEXT_FESSUM305_02960_JIRIRI_000_094","Oh, by the gods, if you are not able to enjoy this spectacle for the wonder that it is, then I truly pity you. Heeheehee! My, oh my, just <hex:021A020203>look<hex:021A020103> at them!"
+81,"TEXT_FESSUM305_02960_HAERMAGA_000_095","Don't tell me you're caught up in all this business, as well."
+82,"TEXT_FESSUM305_02960_GEGERUJU_000_096","It is one thing to attend the festivities and applaud the Miqo'te's lovely dances. It is another thing altogether to keep vigil over their beauty from afar. I certainly am glad I chose to leave things to you this year, Jiriri."
+83,"TEXT_FESSUM305_02960_JIRIRI_000_097","Your praise means much. I daresay the faire would never have grown so lively had we not spread the rumors of a hidden treasure."
+84,"TEXT_FESSUM305_02960_JIRIRI_000_098","Come, Gegeruju. There are other places from which we must enjoy the view. It will not serve to linger too long in any one place, lest we be discovered. Therein lies all the fun, does it not?"
+85,"TEXT_FESSUM305_02960_GEGERUJU_000_099","Right you are! Let us away, then. There are countless other scantily clad Miqo'te being deprived of my watchful eye!"
+86,"TEXT_FESSUM305_02960_HAERMAGA_000_100","Well, things have gotten...interesting. Let us return and consider how best to deal with all this."
+87,"TEXT_FESSUM305_02960_HAERMAGA_000_110","So, it would seem the rumors of treasure were started by Jiriri in an attempt to fulfill Gegeruju's...desires. To think, this whole thing was a farce spun up by their perverse little minds."
+88,"TEXT_FESSUM305_02960_HAERMAGA_000_111","Very well, this is how it will be. If any trouble is born of this treasure nonsense, those two will answer for it. "
+89,"TEXT_FESSUM305_02960_HAERMAGA_000_112","As for the faire, so long as the Bombards stay away, we've no need of adventurers' might. But we do have need of your aid."
+90,"TEXT_FESSUM305_02960_HAERMAGA_000_113","I hope we can count on you to continue helping with the faire. Enjoy yourself, and lend a hand where you can!"

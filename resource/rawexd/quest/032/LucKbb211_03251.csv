@@ -2,151 +2,151 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_LUCKBB211_03251_SEQ_00,太陽海岸的娜休梅拉準備去見格格魯玖。
-1,TEXT_LUCKBB211_03251_SEQ_01,娜休梅拉叫上拉娜·米果稍後就到。和太陽海岸的格格魯玖談談。
-2,TEXT_LUCKBB211_03251_SEQ_02,格格魯玖非常中意拉娜的舞蹈，通過他走關係，舞團直接拿到了在烏爾達哈的演出許可。和烏爾達哈現世迴廊的娜休梅拉談談。<hex:02100103><hex:02100103>※完成「重生之境主線任務」中的「<hex:020948E947FF16>森之都與沙之都<hex:FF16>海之都與沙之都<hex:FF16>海之都與森之都<hex:03>」任務後即可前往「烏爾達哈」。
-3,TEXT_LUCKBB211_03251_SEQ_03,冒險者和拉娜決定阻止烏爾達哈貧民們的暴動計劃。和中薩納蘭棄石貧民窟附近的拉娜·米果談談。
-4,TEXT_LUCKBB211_03251_SEQ_04,決定和拉娜分頭打探情報。在中薩納蘭的無刺盆地向貧民們收集情報。
-5,TEXT_LUCKBB211_03251_SEQ_05,收集到了有關暴動策劃者的情報。在棄石貧民窟附近的<hex:02280CFF05>EObj<hex:F61EAAA50103>等待拉娜·米果。
-6,TEXT_LUCKBB211_03251_SEQ_06,聽說拉娜跟著策劃暴動的主謀走了。從無刺盆地向北前進，追趕拉娜·米果。
-7,TEXT_LUCKBB211_03251_SEQ_07,擊敗了襲擊拉娜的貧民。在中薩納蘭的黑塵救助拉娜·米果。
-8,TEXT_LUCKBB211_03251_SEQ_08,拉娜·米果委託冒險者向老師彙報自己的失敗。向烏爾達哈現世迴廊的娜休梅拉報告。
-9,TEXT_LUCKBB211_03251_SEQ_09,拉娜遭到了娜休梅拉的訓斥並進行了深刻反省。娜休梅拉很在意暴動策劃者們跳的詭異舞蹈。烏爾達哈的演出最終交由拉娜負責，冒險者可以繼續通過實戰提升舞者的技藝。<hex:02100103><hex:02100103>※舞者的等級達到65級以上時，可以從現世迴廊的娜休梅拉那裡領取下一個舞者任務。
-10,TEXT_LUCKBB211_03251_SEQ_10,
-11,TEXT_LUCKBB211_03251_SEQ_11,
-12,TEXT_LUCKBB211_03251_SEQ_12,
-13,TEXT_LUCKBB211_03251_SEQ_13,
-14,TEXT_LUCKBB211_03251_SEQ_14,
-15,TEXT_LUCKBB211_03251_SEQ_15,
-16,TEXT_LUCKBB211_03251_SEQ_16,
-17,TEXT_LUCKBB211_03251_SEQ_17,
-18,TEXT_LUCKBB211_03251_SEQ_18,
-19,TEXT_LUCKBB211_03251_SEQ_19,
-20,TEXT_LUCKBB211_03251_SEQ_20,
-21,TEXT_LUCKBB211_03251_SEQ_21,
-22,TEXT_LUCKBB211_03251_SEQ_22,
-23,TEXT_LUCKBB211_03251_SEQ_23,
-24,TEXT_LUCKBB211_03251_TODO_00,和格格魯玖對話
-25,TEXT_LUCKBB211_03251_TODO_01,和烏爾達哈的娜休梅拉對話
-26,TEXT_LUCKBB211_03251_TODO_02,和棄石貧民窟附近的拉娜·米果對話
-27,TEXT_LUCKBB211_03251_TODO_03,向貧民們打聽情報
-28,TEXT_LUCKBB211_03251_TODO_04,在<hex:02280CFF05>EObj<hex:F61EAAA50103>等待
-29,TEXT_LUCKBB211_03251_TODO_05,追趕拉娜·米果
-30,TEXT_LUCKBB211_03251_TODO_06,救助拉娜·米果
-31,TEXT_LUCKBB211_03251_TODO_07,向烏爾達哈的娜休梅拉報告
-32,TEXT_LUCKBB211_03251_TODO_08,
-33,TEXT_LUCKBB211_03251_TODO_09,
-34,TEXT_LUCKBB211_03251_TODO_10,
-35,TEXT_LUCKBB211_03251_TODO_11,
-36,TEXT_LUCKBB211_03251_TODO_12,
-37,TEXT_LUCKBB211_03251_TODO_13,
-38,TEXT_LUCKBB211_03251_TODO_14,
-39,TEXT_LUCKBB211_03251_TODO_15,
-40,TEXT_LUCKBB211_03251_TODO_16,
-41,TEXT_LUCKBB211_03251_TODO_17,
-42,TEXT_LUCKBB211_03251_TODO_18,
-43,TEXT_LUCKBB211_03251_TODO_19,
-44,TEXT_LUCKBB211_03251_TODO_20,
-45,TEXT_LUCKBB211_03251_TODO_21,
-46,TEXT_LUCKBB211_03251_TODO_22,
-47,TEXT_LUCKBB211_03251_TODO_23,
-48,TEXT_LUCKBB211_03251_RANAAMIHGO_000_000,這裡的舞娘們穿的比我還暴露啊……<hex:02100103>還是說這是格格魯玖先生的個人嗜好？<hex:02100103>還好沒答應專屬舞娘的事情……
-49,TEXT_LUCKBB211_03251_KUIHLUD_000_005,拉札罕也是島國，但感覺這邊空氣中大海的氣味更加濃郁。
-50,TEXT_LUCKBB211_03251_NASHMEIRA_000_020,啊，你來得正好！<hex:02100103>格格魯玖先生好像已經幫我們和沙蠍眾溝通好了。
-51,TEXT_LUCKBB211_03251_NASHMEIRA_000_021,我們一起去見一下格格魯玖先生，了解一下狀況吧！<hex:02100103>你先過去，我叫上拉娜就來。
-52,TEXT_LUCKBB211_03251_KUIHLUD_000_025,我們在這邊收拾行李準備出發。<hex:02100103>你去見一下格格魯玖先生吧。
-53,TEXT_LUCKBB211_03251_GEGERUJU_000_030,歡迎歡迎。<hex:02100103>經過我跟沙蠍眾疏通關係，<hex:02100103>此次成功拿到了在烏爾達哈的演出許可！
-54,TEXT_LUCKBB211_03251_NASHMEIRA_000_031,竟然連演出許可都拿到了！<hex:02100103>真是多虧了格格魯玖先生幫忙寫介紹信！
-55,TEXT_LUCKBB211_03251_GEGERUJU_000_032,你們讓我看到了一場那麼精彩的演出，<hex:02100103>所以能幫上你們的忙，我也深感自豪！
-56,TEXT_LUCKBB211_03251_GEGERUJU_100_032,特別是活潑可愛的拉娜親親……<hex:02100103>奔放中充滿了野性，令人完全挪不開眼！<hex:02100103>到了烏爾達哈一定也會大受好評的！
-57,TEXT_LUCKBB211_03251_RANAAMIHGO_000_033,這、這麼夸人家人家會害羞的……
-58,TEXT_LUCKBB211_03251_GEGERUJU_000_034,可一想到再也看不到這美麗的舞姿，<hex:02100103>我就一點也高興不起來了……<hex:02100103>就不能最後再為我表演一次嗎……
-59,TEXT_LUCKBB211_03251_NASHMEIRA_000_035,非常抱歉，既然演出許可已經批下，<hex:02100103>我們希望能盡快前往烏爾達哈進行演出，<hex:02100103>努力完成巡演艾歐澤亞五國的目標。
-60,TEXT_LUCKBB211_03251_NASHMEIRA_000_036,還有就是，雖然很感激您欣賞我們的團員，<hex:02100103>但過度的誇讚也會使人得意忘形……<hex:02100103>所以請您不要再繼續誇她了。
-61,TEXT_LUCKBB211_03251_NASHMEIRA_000_037,拉娜你也明白吧？<hex:02100103>被人認同你至今的努力是一件好事，<hex:02100103>但你要記住自己還是修行之身，必須繼續磨練自身的技藝才行。
-62,TEXT_LUCKBB211_03251_RANAAMIHGO_000_038,是，老師！拉娜銘記於心！<hex:02100103>不過這麼被人誇，真的讓我切實感覺到了自己的進步，<hex:02100103>真的非常開心！
-63,TEXT_LUCKBB211_03251_NASHMEIRA_000_039,是啊……得到誇獎對表演者來說確實也非常重要，<hex:02100103>但切記不要得意過頭，在烏爾達哈也請全力表現吧。
-64,TEXT_LUCKBB211_03251_NASHMEIRA_000_040,我們就此告辭了。<hex:02100103>非常感謝您的幫助，<hex:02100103>等巡演圓滿結束之時我們再前來拜訪。
-65,TEXT_LUCKBB211_03251_NASHMEIRA_000_041,舞團搬行李趕路你就別跟著了，<hex:02100103>我們直接約在烏爾達哈匯合吧。
-66,TEXT_LUCKBB211_03251_GEGERUJU_000_045,巡演結束後我要單獨再邀請舞團回來表演！
-67,TEXT_LUCKBB211_03251_KUIHLUD_000_050,雖然街道上塵土飛揚，但家家戶戶的裝飾都十分奢華。<hex:02100103>住在這種城市的居民通常不喜歡演出太平淡、常見，<hex:02100103>看來開場白和演奏得改得浮誇一點了。
-68,TEXT_LUCKBB211_03251_RANAAMIHGO_000_055,不知道在這座城邦會不會也有好多人來看我跳舞……<hex:02100103>要是又能得到大家的表揚就好了。
-69,TEXT_LUCKBB211_03251_NASHMEIRA_000_070,順利來到了新的城邦，<hex:02100103>我們先前往演出的預定地點吧！
-70,TEXT_LUCKBB211_03251_NASHMEIRA_000_071,實際上，舉行演出的地點我已經決定好了。<hex:02100103>就定在城外的貧民窟！
-71,TEXT_LUCKBB211_03251_KUIHLUD_000_072,要在……貧民窟演出嗎？<hex:02100103>我倒是不介意看演出的人身份為何，<hex:02100103>但能告訴我們初演選在那裡舉行的目的嗎？
-72,TEXT_LUCKBB211_03251_NASHMEIRA_000_073,因為這就是舞者的使命。<hex:02100103>正好，<hex:022903EB0203>也好好聽著。
-73,TEXT_LUCKBB211_03251_NASHMEIRA_000_074,之前我曾經說過，戰舞是一種鼓舞觀眾內心、<hex:02100103>驅散人們心中不安的舞蹈。<hex:02100103>因此為社會中處於弱勢地位的群體帶去勇氣也是我們的職責。
-74,TEXT_LUCKBB211_03251_NASHMEIRA_000_075,利姆薩·羅敏薩被人指為海盜之城，<hex:02100103>那裡的居民較為善於發散壓力，所以雖然<hex:02100103>也多少會抱有一些不安，但內心積鬱了很多陰暗的人卻很少。
-75,TEXT_LUCKBB211_03251_NASHMEIRA_000_076,不過這烏爾達哈不一樣。這裡很多居民在經歷了靈災與戰亂的<hex:02100103>痛楚後不僅無力開始新的生活，更是連每一天都過得相當艱辛。<hex:02100103>所以我才提出了要在貧民窟進行演出。
-76,TEXT_LUCKBB211_03251_BRASSBLADE03251_000_077,(-？？？？-)不好意思，請問諸位是法爾夏姆舞團的人嗎？
-77,TEXT_LUCKBB211_03251_BRASSBLADE03251_000_078,我是烏爾達哈治安維持部隊「銅刃團」的衛兵。<hex:02100103>希望你們能中止演出的安排！
-78,TEXT_LUCKBB211_03251_BRASSBLADE03251_000_080,我們接到舉報，<hex:02100103>棄石貧民窟正有一群渴望待遇得到改善的貧民在策劃暴動。
-79,TEXT_LUCKBB211_03251_BRASSBLADE03251_000_081,雖然他們的怒火是面向烏爾達哈的富裕階層，<hex:02100103>但暴動一旦爆發，各位也難免會遭到牽連。<hex:02100103>因此非常抱歉，還請……
-80,TEXT_LUCKBB211_03251_NASHMEIRA_000_082,啊，原來是這麼回事。感謝你的提醒，但我們的人身安全方面<hex:02100103>真的無需擔心。舞團的每個成員都有自己防身的手段。<hex:02100103>而且，既然有心中充滿不安的人在策劃暴動……
-81,TEXT_LUCKBB211_03251_RANAAMIHGO_000_084,那麼，驅散他們心中的不安就是舞者的使命！<hex:02100103>我們要做的，就是用舞蹈來平息暴動對不對？
-82,TEXT_LUCKBB211_03251_BRASSBLADE03251_000_085,讓遠道而來的客人做這種事好像不太好吧……<hex:02100103>畢竟你們也不是專職戰鬥的人員……
-83,TEXT_LUCKBB211_03251_Q1_000_000,如何作答？
-84,TEXT_LUCKBB211_03251_A1_000_000,法爾夏姆舞團的舞者十分與眾不同
-85,TEXT_LUCKBB211_03251_A2_000_000,我同時也是一名冒險者
-86,TEXT_LUCKBB211_03251_BRASSBLADE03251_000_088,唔……既然你這麼肯定，<hex:02100103>那我只能相信你們萬一出了什麼事也能自保了。
-87,TEXT_LUCKBB211_03251_BRASSBLADE03251_000_090,原來如此，有熟悉烏爾達哈的冒險者跟著……<hex:02100103>這樣的話萬一發生了什麼確實也能應付。
-88,TEXT_LUCKBB211_03251_BRASSBLADE03251_000_095,好吧，那我就不阻止各位前往貧民窟了。<hex:02100103>不過還請量力而行，不要勉強自己。
-89,TEXT_LUCKBB211_03251_RANAAMIHGO_000_096,娜休梅拉老師，貧民窟的演出就交給我吧！<hex:02100103>我一定好好用戰舞安撫民眾，阻止暴動發生！
-90,TEXT_LUCKBB211_03251_NASHMEIRA_000_097,嗯……也好。不過你絕對不可以單獨行動，<hex:02100103>切記不能離開<hex:022903EB0203>身邊。<hex:02100103>如果你能遵守這點的話，我就批准你前往貧民窟。
-91,TEXT_LUCKBB211_03251_RANAAMIHGO_000_098,太好了！<hex:02100103>那<hex:022903EB0203>，我們在棄石貧民窟附近集合吧！
-92,TEXT_LUCKBB211_03251_KUIHLUD_000_100,拉娜妹子好像幹勁特別的足？
-93,TEXT_LUCKBB211_03251_NASHMEIRA_000_103,我希望拉娜能通過巡演真正成長起來。這次的貧民窟演出<hex:02100103>也許能令她明白舞者真正的使命、向前再次邁出一步。<hex:02100103>雖然她是你的前輩，但你心性更成熟，平時還請多關照她一下吧。
-94,TEXT_LUCKBB211_03251_RANAAMIHGO_000_120,你來啦！<hex:02100103>我們先打聽出是誰在煽動群眾吧！<hex:02100103>提高效率，分頭行動！
-95,TEXT_LUCKBB211_03251_RANAAMIHGO_000_121,誒？老師說了不准分頭行動？<hex:02100103>沒事沒事！只是打聽情報而已，<hex:02100103>又不是去什麼龍潭虎穴！
-96,TEXT_LUCKBB211_03251_RANAAMIHGO_000_122,等收集完情報之後我們再在這裡集合！<hex:02100103>那過會見！
-97,TEXT_LUCKBB211_03251_RANAAMIHGO_000_130,我還從沒幹過收集情報這種事……感覺像是冒險者一樣！<hex:02100103>你也去打聽一下究竟是誰在煽動民心吧！
-98,TEXT_LUCKBB211_03251_TIREDPAUPER03251_000_150,暴動？<hex:02100103>最近確實有一幫人宣揚這件事。<hex:02100103>真是的，就知道給人添麻煩。
-99,TEXT_LUCKBB211_03251_TIREDPAUPER03251_000_151,就連我這個無關人士都遭到了銅刃團的懷疑……<hex:02100103>不過確實也有一些參與這件事的人混在人群裡偽裝成了無關人士。<hex:02100103>你如果不想被他們盯上的話，最好不要太明目張膽打聽這事。
-100,TEXT_LUCKBB211_03251_IRRITATEDPAUPER03251_000_155,有人在策劃暴動？<hex:02100103>聽你這麼一說，確實感覺最近發表危險言論的人變多了。
-101,TEXT_LUCKBB211_03251_IRRITATEDPAUPER03251_000_156,雖然對富裕階層心懷不滿的人本來就很多，<hex:02100103>但最近突然出現了「殺光住在城裡的傢伙」這種言論。<hex:02100103>我還以為他們只是說說氣話……沒想到是認真的。
-102,TEXT_LUCKBB211_03251_TIREDPAUPER03251_000_160,我可不知道是誰在策劃暴動。<hex:02100103>不過有一些參與這件事的人混在人群裡偽裝成了無關人士。<hex:02100103>你也小心點別被他們盯上了。
-103,TEXT_LUCKBB211_03251_IRRITATEDPAUPER03251_000_165,雖然對富裕階層心懷不滿的人本來就很多，<hex:02100103>但最近突然出現了「殺光住在城裡的傢伙」這種言論。<hex:02100103>我還以為他們只是說說氣話……沒想到是認真的。
-104,TEXT_LUCKBB211_03251_CONCERNEDPAUPER03251_000_180,(-擔心的貧民-)你是不是在等一個穿著一身輕飄飄漂亮衣服的貓魅族姑娘？
-105,TEXT_LUCKBB211_03251_CONCERNEDPAUPER03251_000_181,(-擔心的貧民-)那個姑娘是在到處打探策劃暴動的人在哪吧？<hex:02100103>不巧她正好撞槍口問到了一個策劃暴動的主謀身上。
-106,TEXT_LUCKBB211_03251_CONCERNEDPAUPER03251_000_182,(-擔心的貧民-)雖然沒聽清他們說了什麼，<hex:02100103>但說完之後那姑娘就跟著對方往北邊去了。<hex:02100103>千萬不要出事才好……
-107,TEXT_LUCKBB211_03251_RANAAMIHGO_000_200,謝謝你來救我……<hex:02100103>他騙我說能帶我去暴動策劃者的老巢……
-108,TEXT_LUCKBB211_03251_RANAAMIHGO_000_201,不過這些傢伙好奇怪……<hex:02100103>把我帶到這邊後，他們全都開始反覆做起了詭異的動作，<hex:02100103>感覺就好像是……某種舞蹈一樣……
-109,TEXT_LUCKBB211_03251_RANAAMIHGO_000_202,啊，這些一會再說吧。<hex:02100103>我先去叫銅刃團的人來把這些人帶走。
-110,TEXT_LUCKBB211_03251_RANAAMIHGO_000_203,<hex:022903EB0203>，<hex:02100103>能請你去烏爾達哈向娜休梅拉老師報告一下嗎？<hex:02100103>告訴她拉娜沒有遵守承諾、把事情搞砸了……
-111,TEXT_LUCKBB211_03251_RANAAMIHGO_000_210,<hex:022903EB0203>，<hex:02100103>能請你去烏爾達哈向娜休梅拉老師報告一下嗎？<hex:02100103>告訴她拉娜沒有遵守承諾、把事情搞砸了……
-112,TEXT_LUCKBB211_03251_KUIHLUD_000_215,咦，拉娜妹子呢？
-113,TEXT_LUCKBB211_03251_NASHMEIRA_000_230,原來如此，拉娜那孩子果然沒有聽話……<hex:02100103>我們先等她回來吧。<hex:02100103>那個詭異的舞蹈我也有點在意。
-114,TEXT_LUCKBB211_03251_BRASSBLADE03251_000_240,感謝各位的協助！<hex:02100103>現在煽動群眾的團伙已經被繩之以法，<hex:02100103>暫時都不用擔心會有暴動發生了。
-115,TEXT_LUCKBB211_03251_BRASSBLADE03251_000_241,不過整個事件還有幾處疑點沒有弄清。<hex:02100103>關於拉娜小姐目擊到的詭異舞蹈，<hex:02100103>他們本人全都表示自己沒有印象。
-116,TEXT_LUCKBB211_03251_NASHMEIRA_000_242,他們自己不記得自己曾跳過那段舞？
-117,TEXT_LUCKBB211_03251_BRASSBLADE03251_000_243,不是的，跳了舞這件事本身他們有印象，<hex:02100103>但卻全都不記得自己為什麼會跳這段舞……<hex:02100103>每個人都說自己當時是突然覺得「想跳」於是就跳了起來……
-118,TEXT_LUCKBB211_03251_BRASSBLADE03251_000_244,還有就是，這幫過激派醒來時<hex:02100103>一個個全都像是髒東西從身上離開了一樣一臉解脫，<hex:02100103>問他們策劃暴動的原因也都說搞不清楚自己為什麼這樣做……
-119,TEXT_LUCKBB211_03251_BRASSBLADE03251_000_245,難道他們是嗑了什麼受管制的煉金藥嗎……<hex:02100103>總之，銅刃團會繼續深入調查此事，<hex:02100103>這次真是感謝各位的協助了！
-120,TEXT_LUCKBB211_03251_RANAAMIHGO_000_246,娜休梅拉老師，對不起！<hex:02100103>我自己擅自行動還身陷險境，<hex:02100103>失去了表演舞蹈、安撫他們心中不安的機會……
-121,TEXT_LUCKBB211_03251_NASHMEIRA_000_247,戰鬥也是戰舞的一環，<hex:02100103>既然<hex:022903EB0203>是用舞者的技藝將對方打倒，<hex:02100103>那對方就已經充分見識到舞者的舞蹈了。
-122,TEXT_LUCKBB211_03251_NASHMEIRA_000_248,也正是因此，那些人才會恢復清……<hex:02100103>啊，這和現在沒關係，先不提了。
-123,TEXT_LUCKBB211_03251_NASHMEIRA_000_249,總之，你的問題並不在於沒能表演舞蹈，<hex:02100103>而是在於為了滿足你自己的自尊心而擅自行動。
-124,TEXT_LUCKBB211_03251_NASHMEIRA_000_250,跳戰舞的目的是為了鼓舞觀眾與同伴的心，<hex:02100103>而不是為了讓自己收穫稱讚。<hex:02100103>否則就算舞技再熟練，心境跟不上的話也永遠都只能是個外行。
-125,TEXT_LUCKBB211_03251_RANAAMIHGO_000_251,是……謹記老師的教誨。<hex:02100103>我絕對不會再犯同樣的錯誤了！
-126,TEXT_LUCKBB211_03251_NASHMEIRA_000_252,不好意思，那孩子的浮躁給你添麻煩了。<hex:02100103>拋開舞技不談，拉娜距離真正的舞者還有很長的路要走。<hex:02100103>希望這次的失敗能夠成為教訓吧……
-127,TEXT_LUCKBB211_03251_Q1_000_100,如何作答？
-128,TEXT_LUCKBB211_03251_A1_000_100,是不是應該再寬容一些？
-129,TEXT_LUCKBB211_03251_A2_000_100,好嚴厲呀……
-130,TEXT_LUCKBB211_03251_NASHMEIRA_000_255,畢竟舞者並不是光會跳舞就可以了。<hex:02100103>為了能讓艾歐澤亞巡演在真正的意義上取得成功，<hex:02100103>我不得不比任何人都嚴格地教導她。
-131,TEXT_LUCKBB211_03251_NASHMEIRA_000_256,唉，我這是在跟你說些什麼呀……<hex:02100103>總之總有一天你和拉娜會理解我的。<hex:02100103>現在不明白也沒關係……總有一天……
-132,TEXT_LUCKBB211_03251_NASHMEIRA_000_257,對了，關於在烏爾達哈的演出。<hex:02100103>計劃變更一下，讓拉娜一個人負責吧。<hex:02100103>我希望她能通過演出重新審視一下自己。
-133,TEXT_LUCKBB211_03251_NASHMEIRA_000_258,你這邊也繼續通過實戰來磨練舞者的技藝吧！<hex:02100103>爭取給拉娜樹立一個好的榜樣。<hex:02100103>我們等要離開烏爾達哈時再在這裡匯合。
-134,TEXT_LUCKBB211_03251_NASHMEIRA_000_260,詭異的舞蹈嗎……<hex:02100103>看來需要親眼確認一下才行了……
-135,TEXT_LUCKBB211_03251_NASHMEIRA_000_077,（★未使用／削除予定★）
-136,TEXT_LUCKBB211_03251_NASHMEIRA_000_078,（★未使用／削除予定★）
-137,TEXT_LUCKBB211_03251_NASHMEIRA_000_080,（★未使用／削除予定★）
-138,TEXT_LUCKBB211_03251_NASHMEIRA_000_081,（★未使用／削除予定★）
-139,TEXT_LUCKBB211_03251_NASHMEIRA_000_085,（★未使用／削除予定★）
-140,TEXT_LUCKBB211_03251_NASHMEIRA_000_088,（★未使用／削除予定★）
-141,TEXT_LUCKBB211_03251_NASHMEIRA_000_090,（★未使用／削除予定★）
-142,TEXT_LUCKBB211_03251_NASHMEIRA_000_095,（★未使用／削除予定★）
-143,TEXT_LUCKBB211_03251_NASHMEIRA_000_240,（★未使用／削除予定★）
-144,TEXT_LUCKBB211_03251_NASHMEIRA_000_241,（★未使用／削除予定★）
-145,TEXT_LUCKBB211_03251_NASHMEIRA_000_243,（★未使用／削除予定★）
-146,TEXT_LUCKBB211_03251_NASHMEIRA_000_244,（★未使用／削除予定★）
-147,TEXT_LUCKBB211_03251_NASHMEIRA_000_245,（★未使用／削除予定★）
+0,"TEXT_LUCKBB211_03251_SEQ_00","Nashmeira is ready to take the show on the road."
+1,"TEXT_LUCKBB211_03251_SEQ_01","Nashmeira informs you that Gegeruju has spoken with his friends on the Syndicate and has news he would relay to the troupe. You set out with your companions to pay visit to your patron, hoping the tidings are good."
+2,"TEXT_LUCKBB211_03251_SEQ_02","Gegeruju informs you that the groundwork has been laid for your performance in Ul'dah, where Troupe Falsiam will be the honored guests of the Syndicate itself. Though the renowned aesthete is reluctant to part with Ranaa, who he has taken quite a liking to, he grudgingly bids farewell to you and your companions. Make for the sultanate, where you might rendezvous with Nashmeira and discuss your forthcoming performance.<hex:02100103><hex:02100103>※In order to travel to Ul'dah, you must first complete the main scenario quest “<hex:02093FE947FF13>The Lominsan Envoy<hex:FF14>The Gridanian Envoy<hex:FF12>The Ul'dahn Envoy<hex:03>.”"
+3,"TEXT_LUCKBB211_03251_SEQ_03","You arrive in Ul'dah, where Nashmeira declares her intention to hold Troupe Falsiam's first performance in the impoverished shantytown of Stonesthrow. No sooner than you arrive are you approached by a member of the Brass Blades, who orders you to abandon the plans for your performance on account of recent rioting in the area. After some argument, the man reluctantly agrees to let you try your hand at tracking down the individuals behind the disturbance and resolving the matter yourself."
+4,"TEXT_LUCKBB211_03251_SEQ_04","Explicitly disobeying Nashmeira's advice, Ranaa insists that you and she split up to conduct your investigation. Question the townspeople and see what you might glean regarding the individual behind the recent unrest."
+5,"TEXT_LUCKBB211_03251_SEQ_05","Your questioning of the townspeople has garnered you some vague information, but little in the way of conclusive evidence. Reunite with Ranaa and see if your partner has not had better luck."
+6,"TEXT_LUCKBB211_03251_SEQ_06","A concerned resident of Stonesthrow shares with you some disturbing news─she claims to have seen Ranaa escorted away from the scene in the company of a certain suspicious personage. You hurry off to find your companion before she comes to harm."
+7,"TEXT_LUCKBB211_03251_SEQ_07","You come upon Ranaa being harassed by none other than the men behind the recent riots, but─thanks in no small part to your newfound dancing skills─you are able to make short work of the ruffians. Safe for now, you decide to check on your fellow dancer's well-being."
+8,"TEXT_LUCKBB211_03251_SEQ_08","Ranaa, deeply disappointed in herself but physically no worse for the wear, shares with you a curious tale about her capture. Apparently, her would-be kidnappers suddenly began to perform a dance most bizarre before turning on her and attacking. She states her intention to report this disturbing incident to the Brass Blades, and asks that you return to Nashmeira and apologize on her behalf in the meantime."
+9,"TEXT_LUCKBB211_03251_SEQ_09","With all members of her troupe safely reunited, Nashmeira proceeds to sternly rebuke Ranaa for letting her overconfidence get the better of her. She expresses her curiosity about the strange dance her protégé claims to have witnessed, but trails off before pursuing the subject further. In the end, she states that Ranaa will be performing on her own for a while as a punishment, and encourages you to continue to hone your own dancing skills until it is time to take to the road once more.<hex:02100103><hex:02100103>※The next dancer quest will be available from Nashmeira upon reaching level 65."
+10,"TEXT_LUCKBB211_03251_SEQ_10",""
+11,"TEXT_LUCKBB211_03251_SEQ_11",""
+12,"TEXT_LUCKBB211_03251_SEQ_12",""
+13,"TEXT_LUCKBB211_03251_SEQ_13",""
+14,"TEXT_LUCKBB211_03251_SEQ_14",""
+15,"TEXT_LUCKBB211_03251_SEQ_15",""
+16,"TEXT_LUCKBB211_03251_SEQ_16",""
+17,"TEXT_LUCKBB211_03251_SEQ_17",""
+18,"TEXT_LUCKBB211_03251_SEQ_18",""
+19,"TEXT_LUCKBB211_03251_SEQ_19",""
+20,"TEXT_LUCKBB211_03251_SEQ_20",""
+21,"TEXT_LUCKBB211_03251_SEQ_21",""
+22,"TEXT_LUCKBB211_03251_SEQ_22",""
+23,"TEXT_LUCKBB211_03251_SEQ_23",""
+24,"TEXT_LUCKBB211_03251_TODO_00","Speak with Gegeruju."
+25,"TEXT_LUCKBB211_03251_TODO_01","Speak with Nashmeira in Ul'dah."
+26,"TEXT_LUCKBB211_03251_TODO_02","Speak with Ranaa Mihgo near Stonesthrow."
+27,"TEXT_LUCKBB211_03251_TODO_03","Question the residents of Stonesthrow."
+28,"TEXT_LUCKBB211_03251_TODO_04","Wait at the designated location."
+29,"TEXT_LUCKBB211_03251_TODO_05","Chase after Ranaa Mihgo."
+30,"TEXT_LUCKBB211_03251_TODO_06","Rescue Ranaa Mihgo from her captors."
+31,"TEXT_LUCKBB211_03251_TODO_07","Report to Nashmeira in Ul'dah."
+32,"TEXT_LUCKBB211_03251_TODO_08",""
+33,"TEXT_LUCKBB211_03251_TODO_09",""
+34,"TEXT_LUCKBB211_03251_TODO_10",""
+35,"TEXT_LUCKBB211_03251_TODO_11",""
+36,"TEXT_LUCKBB211_03251_TODO_12",""
+37,"TEXT_LUCKBB211_03251_TODO_13",""
+38,"TEXT_LUCKBB211_03251_TODO_14",""
+39,"TEXT_LUCKBB211_03251_TODO_15",""
+40,"TEXT_LUCKBB211_03251_TODO_16",""
+41,"TEXT_LUCKBB211_03251_TODO_17",""
+42,"TEXT_LUCKBB211_03251_TODO_18",""
+43,"TEXT_LUCKBB211_03251_TODO_19",""
+44,"TEXT_LUCKBB211_03251_TODO_20",""
+45,"TEXT_LUCKBB211_03251_TODO_21",""
+46,"TEXT_LUCKBB211_03251_TODO_22",""
+47,"TEXT_LUCKBB211_03251_TODO_23",""
+48,"TEXT_LUCKBB211_03251_RANAAMIHGO_000_000","I must say, their clothes are rather more...<hex:021A020203>revealing<hex:021A020103>...than my own. I'm feeling better by the minute about turning down Master Gegeruju's offer..."
+49,"TEXT_LUCKBB211_03251_KUIHLUD_000_005","Our home of Radz–at–Han also lies by the sea, but I must say I find the ocean breeze here singularly refreshing."
+50,"TEXT_LUCKBB211_03251_NASHMEIRA_000_020","Well, if it isn't my star pupil. You couldn't have come at a better time. A messenger just arrived─it would appear that Master Gegeruju has received a response from his friends in the sultanate."
+51,"TEXT_LUCKBB211_03251_NASHMEIRA_000_021","As for the details, he would deliver them to us in person. Why don't you go on ahead to his villa? I will fetch Ranaa and be along shortly."
+52,"TEXT_LUCKBB211_03251_KUIHLUD_000_025","Here's hoping that Master Gegeruju is a man of his word. At any rate, you should go on ahead. I'll see to it that we're ready to strike off again at any time."
+53,"TEXT_LUCKBB211_03251_GEGERUJU_000_030","Well, well, if it isn't my <hex:021A020203>second<hex:021A020103> favorite dancer! Good news, my <hex:02080EE905FF05>girl<hex:FF04>boy<hex:03>─thanks to the highest recommendation of yours truly, my friends at the Syndicate would be more than happy to host one of your performances in Ul'dah."
+54,"TEXT_LUCKBB211_03251_NASHMEIRA_000_031","You have our deepest gratitude, Master Gegeruju. Truly, your generosity knows no bounds."
+55,"TEXT_LUCKBB211_03251_GEGERUJU_000_032","Gahahaha! Think nothing of it! Your performance gave me a thrill I'll not soon forget, and─while I'd love nothing more than to keep you all to my own─I'd be remiss if I didn't share my most remarkable discovery with the rest of the realm!"
+56,"TEXT_LUCKBB211_03251_GEGERUJU_100_032","That goes for <hex:021A020203>you<hex:021A020103> in particular, my lovely Ranaa. You may be a bit rough around the edges, but that just adds to your untamed─dare I say <hex:021A020203>feral<hex:021A020103> allure. Nothing would make me happier than to go down in history as the man who introduced your beauty to Eorzea."
+57,"TEXT_LUCKBB211_03251_RANAAMIHGO_000_033","Why, Master Gegeruju...! You're making me blush..."
+58,"TEXT_LUCKBB211_03251_GEGERUJU_000_034","Gah! Thal take me, I simply can't bear the thought that you've performed on my stage for the last time. You'll grace me with one final farewell performance, won't you? Surely, after all I've done for you─"
+59,"TEXT_LUCKBB211_03251_NASHMEIRA_000_035","Our apologies, Master Gegeruju, but we must not keep our audience in the sultanate waiting. After all, this is but the second stop on our journey─a journey we must see through to the end."
+60,"TEXT_LUCKBB211_03251_NASHMEIRA_000_036","And besides, while your words do Ranaa─and us all─great honor, I would remind you that the girl is still an apprentice. Excess praise can lead to overconfidence, overconfidence to carelessness, and carelessness to an untimely fall."
+61,"TEXT_LUCKBB211_03251_NASHMEIRA_000_037","Do you hear me, Ranaa? No matter what glowing words your admirers may heap upon you, remember that your journey as a dancer has only just begun. Keep your feet planted firmly on the ground, lest you stumble on the road to achieving your full potential."
+62,"TEXT_LUCKBB211_03251_RANAAMIHGO_000_038","But of course! And yet, it's truly inspiring to have such a devoted fan, is it not? Why, it helps me appreciate just how much I've blossomed as a dancer in such a short time!"
+63,"TEXT_LUCKBB211_03251_NASHMEIRA_000_039","I do not mean to make light of your achievements. I ask only that you stay focused on the task at hand, continue to hone your craft, and not let yourself get swept away by unchecked emotion."
+64,"TEXT_LUCKBB211_03251_NASHMEIRA_000_040","And with that, we should be taking our leave. Master Gegeruju, we thank you for your patronage and hospitality. When our business in Eorzea is done, we will return to fully express our gratitude."
+65,"TEXT_LUCKBB211_03251_NASHMEIRA_000_041","You need not feel compelled to travel with the troupe, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. I trust that you have matters of your own that you would attend to along the way. We shall await you in Ul'dah."
+66,"TEXT_LUCKBB211_03251_GEGERUJU_000_045","After you're done touring the realm, I trust you'll return and treat your generous benefactor to an exclusive encore, yes? Gahahaha!"
+67,"TEXT_LUCKBB211_03251_KUIHLUD_000_050","The streets are a bit dusty, but the ornate architecture of the residences is something to behold. Clearly, the aesthetic tastes of the Ul'dahns tend toward the lavish. No doubt Nashmeira has already taken this into consideration in planning our next performance."
+68,"TEXT_LUCKBB211_03251_RANAAMIHGO_000_055","Look at all the people! I wonder how many new fans I'll make here... A thousand? A thousand thousand? I can hardly wait!"
+69,"TEXT_LUCKBB211_03251_NASHMEIRA_000_070","So this is Ul'dah, jewel of the desert. But we're not here to see the sights─no, we must decide upon a suitable venue for our next performance."
+70,"TEXT_LUCKBB211_03251_NASHMEIRA_000_071","As a matter of fact, I already have an idea. I was thinking we might put on a show in Stonesthrow, a settlement outside of town said to be home to the poor and downtrodden."
+71,"TEXT_LUCKBB211_03251_KUIHLUD_000_072","Are you sure of this, Mistress Nashmeira? I agree that the arts should be enjoyed by the lowborn as well as the high, but is some glorified shantytown truly the best place for us to find an audience here?"
+72,"TEXT_LUCKBB211_03251_NASHMEIRA_000_073","I would have it no other way. Now listen to me, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, and listen carefully."
+73,"TEXT_LUCKBB211_03251_NASHMEIRA_000_074","You will recall that I told you that our Kriegstanz has the unique power to clear hearts and minds of worries, and lift the spirits of all who behold it. Put another way, bringing joy and succor to the scorned and the suffering is no less than our calling in life."
+74,"TEXT_LUCKBB211_03251_NASHMEIRA_000_075","In Limsa as well, our audience included many who were down on their luck. And yet, it did not seem those troubles weighed so heavily in their hearts. Mayhap this is a remnant of their pirate heritage─a flagon of ale in hand and a song on the lips, and all their cares fade away."
+75,"TEXT_LUCKBB211_03251_NASHMEIRA_000_076","Ul'dah is different. Here, I feel the scars of the Calamity run deeper─particularly among those who lack the coin needed to rebuild their lives to their satisfaction. Stonesthrow it will be...I can think of no place more in need of what we offer."
+76,"TEXT_LUCKBB211_03251_BRASSBLADE03251_000_077","(-???-)You there! Halt! Halt, I say!"
+77,"TEXT_LUCKBB211_03251_BRASSBLADE03251_000_078","You're the dancing troupe that's come at the invitation of the Syndicate, yes? On the authority of the Brass Blades, we command you to desist at once."
+78,"TEXT_LUCKBB211_03251_BRASSBLADE03251_000_080","Fear not, you have done naught wrong. It's just, well, Stonesthrow's not safe for visitors these days, you see. A group of real rabble-rousers have been causing trouble of late. You know how it is: protests, riots, and all sorts of unpleasant business."
+79,"TEXT_LUCKBB211_03251_BRASSBLADE03251_000_081","'Course, their anger's targeted directly at Ul'dah's upper crust─like as not they'd leave you a troupe of performers. Still, the Syndicate cannot accept the risk of its honored guests suffering an untimely injury...or worse."
+80,"TEXT_LUCKBB211_03251_NASHMEIRA_000_082","We appreciate your concern, but I can assure you that it is wholly unnecessary. All members of my troupe are well trained in the art of self-defense. We are more than capable of taking care of ourselves."
+81,"TEXT_LUCKBB211_03251_RANAAMIHGO_000_084","That's right! Besides, healing suffering and strife across the realm is precisely the reason we've come here. Whatever sort of struggle your people face, why not let us look into the matter and see if we can't resolve it?"
+82,"TEXT_LUCKBB211_03251_BRASSBLADE03251_000_085","It is a gracious offer, but no. Keeping the peace is our sworn duty, and one we cannot simply impose on guests. Besides, we are trained soldiers, and you are not─for your own safety, you should take your leave of this place at once."
+83,"TEXT_LUCKBB211_03251_Q1_000_000","What will you say?"
+84,"TEXT_LUCKBB211_03251_A1_000_000","You haven't seen these dancers..."
+85,"TEXT_LUCKBB211_03251_A2_000_000","I'm more than just a dancer, you know..."
+86,"TEXT_LUCKBB211_03251_BRASSBLADE03251_000_088","These are no ordinary dancers, you say? While I am not entirely certain what you are implying, I suppose we have no reason not to take you at your word."
+87,"TEXT_LUCKBB211_03251_BRASSBLADE03251_000_090","An adventurer? And one who knows <hex:02080DE905FF04>her<hex:FF04>his<hex:03> way around Ul'dah, you say? Perhaps you are fit to investigate the matter after all..."
+88,"TEXT_LUCKBB211_03251_BRASSBLADE03251_000_095","Very well, then. You and your friends may carry on. Just promise that you won't go looking for trouble, eh?"
+89,"TEXT_LUCKBB211_03251_RANAAMIHGO_000_096","Mistress Nashmeira, leave this to me! I'll dance up a storm for these poor folks, calm their hearts, and put an end to any riots or uprisings!"
+90,"TEXT_LUCKBB211_03251_NASHMEIRA_000_097","I admire your spirit, Ranaa. And yet, I cannot shake the sense that great danger does indeed lurk here. You may go, but only if <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> accompanies you─and you must promise that you will not leave <hex:02080DE905FF04>her<hex:FF04>his<hex:03> side."
+91,"TEXT_LUCKBB211_03251_RANAAMIHGO_000_098","All right! The more the merrier, don't you agree, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>? Let's make for Stonesthrow─I'll race you there!"
+92,"TEXT_LUCKBB211_03251_KUIHLUD_000_100","I admire the girl's spirit, but I do wish she'd think things through a bit more before she acts..."
+93,"TEXT_LUCKBB211_03251_NASHMEIRA_000_103","Ranaa has come far since joining our troupe, but she is still a child with much growing up to do. I realize that she is your senior as a dancer, but I ask you this: pray keep an eye on her and see that she stays out of trouble."
+94,"TEXT_LUCKBB211_03251_RANAAMIHGO_000_120","Oh, there you are! Let's get started, shall we? Our first task is to figure out just who's behind these riots. Why don't we split up, ask around, and see what turns up?"
+95,"TEXT_LUCKBB211_03251_RANAAMIHGO_000_121","Don't tell me you're worried about that silly promise I made to Mistress Nashmeira? Come now, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Clearly she worries overmuch. You saw me on the stage─do I look like someone who can't take care of herself?"
+96,"TEXT_LUCKBB211_03251_RANAAMIHGO_000_122","Now, let's see what the townspeople can tell us. Meet you back here when we're both done, all right?"
+97,"TEXT_LUCKBB211_03251_RANAAMIHGO_000_130","Interviewing townspeople, collecting clues...why, I feel like a detective instead of a dancer! It's all rather exciting, don't you think?"
+98,"TEXT_LUCKBB211_03251_TIREDPAUPER03251_000_150","Riots? Aye, there've been some trouble here of late. Won't catch me dead gettin' myself involved. Whoever's behind it all, wish he'd just bugger off an' give us some peace and quiet for once."
+99,"TEXT_LUCKBB211_03251_TIREDPAUPER03251_000_151","'Course, that doesn't stop those Brass Blades from glarin' at me askance every time they come through the neighborhood. Not that I can blame them, I suppose. Rumor has it the true culprit's an expert in throwin' the authorities off his trail."
+100,"TEXT_LUCKBB211_03251_IRRITATEDPAUPER03251_000_155","Lookin' for some rabble-rousin' rioter, ye say? I might know a thin' or two─what's it to ye?"
+101,"TEXT_LUCKBB211_03251_IRRITATEDPAUPER03251_000_156","None of us here in Stonesthrow have much love for the rich, this much is true. Still, wasn't till lately when someone started talkin' about actually givin' them their due. Thought they were just talkin' big, but lately it seems they've been puttin' their plot into action."
+102,"TEXT_LUCKBB211_03251_TIREDPAUPER03251_000_160","Told you once, and I'll tell you again. Got nothin' to do with those riots. Don't go believin' everyone who says the same as me, though."
+103,"TEXT_LUCKBB211_03251_IRRITATEDPAUPER03251_000_165","Look, I've got no love for those hoity-toity types, either. But there's a way to go about these things. Whoever's trying to start trouble...well, I just hope they understand what they're getting into."
+104,"TEXT_LUCKBB211_03251_CONCERNEDPAUPER03251_000_180","(-Fidgety Indigent-)H-Hey, you there. Y-You friends with that Miqo'te girl? The one with the f-f-fancy dress?"
+105,"TEXT_LUCKBB211_03251_CONCERNEDPAUPER03251_000_181","(-Fidgety Indigent-)She was askin' around about the r-riots, y'know? W-Well, would you believe I actually saw her t-talkin' to one of the blackguards responsible for it all?"
+106,"TEXT_LUCKBB211_03251_CONCERNEDPAUPER03251_000_182","(-Fidgety Indigent-)L-Last thing I saw, he was leadin' her away somewhere. I'd go after her if I were you. Well, <hex:021A020203>I<hex:021A020103> wouldn't─never had the n-n-nerve for that sort o' thing. But I reckon <hex:021A020203>you<hex:021A020103> should, before the poor thing comes to harm."
+107,"TEXT_LUCKBB211_03251_RANAAMIHGO_000_200","Oh, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! You really saved my skin. This man told me he'd take me to the rioters' hideout. He led me here, and then... Well, to be honest, I'm still unsure entirely what I witnessed."
+108,"TEXT_LUCKBB211_03251_RANAAMIHGO_000_201","It was the strangest thing. As soon as he brought me here, his body began to sway and spin in the strangest way. If I didn't know better, I'd say he was...dancing."
+109,"TEXT_LUCKBB211_03251_RANAAMIHGO_000_202","But we can talk about that when we're back in safer environs. I should probably summon the Brass Blades and file an official report."
+110,"TEXT_LUCKBB211_03251_RANAAMIHGO_000_203","Meanwhile, could you return to the city and let Mistress Nashmeira know I'm all right? And tell her...I'm sorry for breaking my word."
+111,"TEXT_LUCKBB211_03251_RANAAMIHGO_000_210","The Brass Blades should be here any minute now. Could you go return to the city and let Mistress Nashmeira know I'm all right? And tell her...I'm sorry for breaking my word."
+112,"TEXT_LUCKBB211_03251_KUIHLUD_000_215","Oh, there you are, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. But where is Ranaa?"
+113,"TEXT_LUCKBB211_03251_NASHMEIRA_000_230","...I see. I had a feeling this would happen. Do not blame yourself, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>─you are not her keeper. I will deal with the girl myself when she returns. That said, I am curious─what can you tell me of this strange dance she says her would-be captors were performing?"
+114,"TEXT_LUCKBB211_03251_BRASSBLADE03251_000_240","Good news, friends. Thanks to your efforts, we have apprehended the firebrand. Peace should return to Stonesthrow for now, at least until the next rabble-rouser decides to fan the flames."
+115,"TEXT_LUCKBB211_03251_BRASSBLADE03251_000_241","Still, there is one part of the story that does not sit well with me. The girl here claims she saw her captors dancing, but those we took into custody swear to the last man they remember no such thing."
+116,"TEXT_LUCKBB211_03251_NASHMEIRA_000_242","They deny that they were dancing? But whyever would they feel the need to lie about something so innocuous when already convicted of a far more heinous crime?"
+117,"TEXT_LUCKBB211_03251_BRASSBLADE03251_000_243","It is not precisely a lie. You see, from here the tale gets even stranger. They claim to have a vague recollection of their bodies moving, but insist they had absolutely no intention of doing so."
+118,"TEXT_LUCKBB211_03251_BRASSBLADE03251_000_244","They went on to say they couldn't even remember where or why they came up with the idea to riot in the first place. On the contrary, they seemed almost relieved─just as if some evil spirit had been banished from them..."
+119,"TEXT_LUCKBB211_03251_BRASSBLADE03251_000_245","Sounds like our friends have been partaking in a particularly unstable and unsavory alchemical concoction. At any rate, the Brass Blades will be taking over the investigation from here. Thank you for your assistance, and please carry on with the preparations for your performance with our blessing."
+120,"TEXT_LUCKBB211_03251_RANAAMIHGO_000_246","I'm sorry, Mistress Nashmeira. I should have stayed with <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> like you said. Together, I'm sure we could have worked things out peacefully. In the end, I was not able to dance even a single step..."
+121,"TEXT_LUCKBB211_03251_NASHMEIRA_000_247","Just as the Kriegstanz can enthrall and inspire, so can it serve us in battle. A true dancer must be prepared for both possibilities at all times."
+122,"TEXT_LUCKBB211_03251_NASHMEIRA_000_248","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> was able to display <hex:02080DE905FF04>her<hex:FF04>his<hex:03> skills as a dancer in battle today, and I suspect it is for that very reason that your would-be captors...but never mind that."
+123,"TEXT_LUCKBB211_03251_NASHMEIRA_000_249","Ranaa, you disappoint me. It is not a lack of dancing prowess that led to your failure today. No, it was the overconfidence that led you to stray from your partner's side."
+124,"TEXT_LUCKBB211_03251_NASHMEIRA_000_250","When Troupe Falsiam dances, we dance as one. We dance to stir hearts and lift spirits, not merely to show off our skills, that our admirers might shower us with empty praise. I thought you understood this, but it is clear you still have much to learn."
+125,"TEXT_LUCKBB211_03251_RANAAMIHGO_000_251","I...I am sorry, Mistress Nashmeira. I promise I will not repeat my mistake."
+126,"TEXT_LUCKBB211_03251_NASHMEIRA_000_252","Forgive me for making you suffer the girl's foolishness, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Though she has grown in skill, it is clear she is still a child in more ways than one. I can only hope that she will take today's lesson to heart, lest she eventually pay the price."
+127,"TEXT_LUCKBB211_03251_Q1_000_100","What will you say?"
+128,"TEXT_LUCKBB211_03251_A1_000_100","Is that not going a bit too far?"
+129,"TEXT_LUCKBB211_03251_A2_000_100","You ask much of the girl."
+130,"TEXT_LUCKBB211_03251_NASHMEIRA_000_255","Being a true dancer is about more than knowing how to move one's feet. I must be tougher on Ranaa than anyone, lest Troupe Falsiam fail to carry out its sworn duty."
+131,"TEXT_LUCKBB211_03251_NASHMEIRA_000_256","I can see you are confused by my words. Do not worry. All will become evident in due time. Yes, both you and Ranaa will understand all too well..."
+132,"TEXT_LUCKBB211_03251_NASHMEIRA_000_257","And with that, I must prepare for our forthcoming performance. This time, I will be asking Ranaa to take the stage alone. She may consider it her opportunity to reflect upon her actions today, and─gods willing─learn and grow from her missteps."
+133,"TEXT_LUCKBB211_03251_NASHMEIRA_000_258","Meanwhile, perhaps it would be best if you, too, returned to your training. If you and Ranaa truly mean to bring out the best in one another, both of you will need work harder than ever before. Farewell for now, and let us meet up again when it is time to move on."
+134,"TEXT_LUCKBB211_03251_NASHMEIRA_000_260","And now...I do believe it's time I did some investigating of my own."
+135,"TEXT_LUCKBB211_03251_NASHMEIRA_000_077",""
+136,"TEXT_LUCKBB211_03251_NASHMEIRA_000_078",""
+137,"TEXT_LUCKBB211_03251_NASHMEIRA_000_080",""
+138,"TEXT_LUCKBB211_03251_NASHMEIRA_000_081",""
+139,"TEXT_LUCKBB211_03251_NASHMEIRA_000_085",""
+140,"TEXT_LUCKBB211_03251_NASHMEIRA_000_088",""
+141,"TEXT_LUCKBB211_03251_NASHMEIRA_000_090",""
+142,"TEXT_LUCKBB211_03251_NASHMEIRA_000_095",""
+143,"TEXT_LUCKBB211_03251_NASHMEIRA_000_240",""
+144,"TEXT_LUCKBB211_03251_NASHMEIRA_000_241",""
+145,"TEXT_LUCKBB211_03251_NASHMEIRA_000_243",""
+146,"TEXT_LUCKBB211_03251_NASHMEIRA_000_244",""
+147,"TEXT_LUCKBB211_03251_NASHMEIRA_000_245",""

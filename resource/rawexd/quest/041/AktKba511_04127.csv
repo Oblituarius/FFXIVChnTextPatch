@@ -2,129 +2,129 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_AKTKBA511_04127_SEQ_00,伊修加德作戰會議室的阿圖瓦雷爾正在等待報告。
-1,TEXT_AKTKBA511_04127_SEQ_01,和艾默里克、阿圖瓦雷爾一同與克萊姆助祭進行了交談。為了預測偽神獸法夫尼爾的行動，一行人決定去調查法夫尼爾的真實身份。在伊修加德砥柱層巨盾台周邊收集關於化身為偽神獸的青年的目擊情報。
-2,TEXT_AKTKBA511_04127_SEQ_02,和皇都市民進行了交談。向伊修加德砥柱層尊貴凱旋門附近的艾默里克報告。
-3,TEXT_AKTKBA511_04127_SEQ_03,和艾默里克、阿圖瓦雷爾一同將收集到的情報進行了整理。為了找了解萬德羅的人了解情況，阿圖瓦雷爾前往了蒼天街。和艾默里克一起在伊修加德基礎層雲霧街的<hex:02280CFF05>EObj<hex:F61EB2320103>等待。
-4,TEXT_AKTKBA511_04127_SEQ_04,和照看過名為萬德羅的青年的洛弗瑞克進行了交談。化身為偽神獸的萬德羅曾是蒼天街魯什芒德紀念醫院的住院患者。為了制定今後的作戰方針，和作戰會議室的阿圖瓦雷爾談談。<hex:02100103>若是離開了作戰會議室，神殿騎士團總部的神殿騎士團的衛兵會帶領冒險者再次前往作戰會議室。
-5,TEXT_AKTKBA511_04127_SEQ_05,和艾默里克、阿圖瓦雷爾進行了交談。為了追查萬德羅的真實身份，繼續協助他們。<hex:02100103><hex:02100103>※任意遠程魔法進攻職業的等級達到87級以上時，可以從神殿騎士團總部內作戰會議室的阿圖瓦雷爾那裡領取下一個遠程魔法進攻職能任務。
-6,TEXT_AKTKBA511_04127_SEQ_06,
-7,TEXT_AKTKBA511_04127_SEQ_07,
-8,TEXT_AKTKBA511_04127_SEQ_08,
-9,TEXT_AKTKBA511_04127_SEQ_09,
-10,TEXT_AKTKBA511_04127_SEQ_10,
-11,TEXT_AKTKBA511_04127_SEQ_11,
-12,TEXT_AKTKBA511_04127_SEQ_12,
-13,TEXT_AKTKBA511_04127_SEQ_13,
-14,TEXT_AKTKBA511_04127_SEQ_14,
-15,TEXT_AKTKBA511_04127_SEQ_15,
-16,TEXT_AKTKBA511_04127_SEQ_16,
-17,TEXT_AKTKBA511_04127_SEQ_17,
-18,TEXT_AKTKBA511_04127_SEQ_18,
-19,TEXT_AKTKBA511_04127_SEQ_19,
-20,TEXT_AKTKBA511_04127_SEQ_20,
-21,TEXT_AKTKBA511_04127_SEQ_21,
-22,TEXT_AKTKBA511_04127_SEQ_22,
-23,TEXT_AKTKBA511_04127_SEQ_23,
-24,TEXT_AKTKBA511_04127_TODO_00,在巨盾台附近收集化身偽神獸男性的目擊證言
-25,TEXT_AKTKBA511_04127_TODO_01,和艾默里克對話
-26,TEXT_AKTKBA511_04127_TODO_02,在雲霧街的<hex:02280CFF05>EObj<hex:F61EB2320103>等待
-27,TEXT_AKTKBA511_04127_TODO_03,和作戰會議室的阿圖瓦雷爾對話
-28,TEXT_AKTKBA511_04127_TODO_04,
-29,TEXT_AKTKBA511_04127_TODO_05,
-30,TEXT_AKTKBA511_04127_TODO_06,
-31,TEXT_AKTKBA511_04127_TODO_07,
-32,TEXT_AKTKBA511_04127_TODO_08,
-33,TEXT_AKTKBA511_04127_TODO_09,
-34,TEXT_AKTKBA511_04127_TODO_10,
-35,TEXT_AKTKBA511_04127_TODO_11,
-36,TEXT_AKTKBA511_04127_TODO_12,
-37,TEXT_AKTKBA511_04127_TODO_13,
-38,TEXT_AKTKBA511_04127_TODO_14,
-39,TEXT_AKTKBA511_04127_TODO_15,
-40,TEXT_AKTKBA511_04127_TODO_16,
-41,TEXT_AKTKBA511_04127_TODO_17,
-42,TEXT_AKTKBA511_04127_TODO_18,
-43,TEXT_AKTKBA511_04127_TODO_19,
-44,TEXT_AKTKBA511_04127_TODO_20,
-45,TEXT_AKTKBA511_04127_TODO_21,
-46,TEXT_AKTKBA511_04127_TODO_22,
-47,TEXT_AKTKBA511_04127_TODO_23,
-48,TEXT_AKTKBA511_04127_ARTOIREL_000_000,<hex:022903EB0203>閣下，你來了啊。
-49,TEXT_AKTKBA511_04127_ARTOIREL_000_001,克萊姆助祭正在慎重地向得到庇護的聖職者們了解情況。<hex:02100103>大概用不了多久就會過來彙報吧……
-50,TEXT_AKTKBA511_04127_ARTOIREL_000_002,我把這事也傳達給了艾默里克閣下，<hex:02100103>他應該也會馬上來這裡，<hex:02100103>到時候我們一起聽克萊姆助祭詳細說一下吧。
-51,TEXT_AKTKBA511_04127_ARTOIREL_000_003,克萊姆助祭，感謝你特地跑一趟。<hex:02100103>我有幾件事想跟你確認一下。
-52,TEXT_AKTKBA511_04127_CLEM_000_004,好的，只要是我能答得上來的，<hex:02100103>我肯定盡量回答。
-53,TEXT_AKTKBA511_04127_AYMERIC_000_005,首先我們庇護的人們與化身為獸的異端審問官是相識，<hex:02100103>他們全員都是伊修加德正教的聖職者。
-54,TEXT_AKTKBA511_04127_AYMERIC_000_006,其次他們離開皇都到人煙稀少地區的理由<hex:02100103>是因為害怕遭到部分市民對正教的批判……<hex:02100103>以上這些沒錯吧？
-55,TEXT_AKTKBA511_04127_CLEM_000_007,沒錯，是這樣。<hex:02100103>皇都裡有不少虔誠的信徒，因此造成的影響也非常廣泛，<hex:02100103>尤其是對部分正教相關人員的批判十分尖銳。
-56,TEXT_AKTKBA511_04127_CLEM_000_008,雖說正教的確是向人們灌輸了虛偽的歷史，<hex:02100103>但我們其實和人民一樣是被蒙在鼓裡的。<hex:02100103>就算一味地去譴責我們，那也只會加深矛盾而已啊……
-57,TEXT_AKTKBA511_04127_AYMERIC_000_009,你所言極是。<hex:02100103>但悲哀的是現實中又能有多少人<hex:02100103>可以控制住自己不去責怪他人呢……
-58,TEXT_AKTKBA511_04127_AYMERIC_000_010,你再跟我講講包括獸化之人在內的你們聖職者，<hex:02100103>在龍詩戰爭終結後心中都是怎麼想的？
-59,TEXT_AKTKBA511_04127_CLEM_000_011,戰爭的終結當然也同樣是我們的夙願……<hex:02100103>可就拿我們聖職者來說，<hex:02100103>應該沒有人只甘願滿足於現狀吧。
-60,TEXT_AKTKBA511_04127_CLEM_000_012,對於我們聖職者來說，<hex:02100103>一直獻身侍奉的正教就像是自我認同的思想核心一樣。
-61,TEXT_AKTKBA511_04127_CLEM_000_013,當得知其中的謊言與真相後，大伙都不禁開始動搖糾結。<hex:02100103>對遭到背叛感到悲傷、對毫不知情的自己感到無力與自責，<hex:02100103>以及對失去了思想與行動的規範而感到了喪失感……
-62,TEXT_AKTKBA511_04127_CLEM_000_014,我們彷彿一直被困在黑暗之中……
-63,TEXT_AKTKBA511_04127_CLEM_100_014,不過我相信正教肯定會開拓新的道路，<hex:02100103>並再次成為人們的希望……
-64,TEXT_AKTKBA511_04127_AYMERIC_000_015,感謝你坦誠地回答我的提問。<hex:02100103>不過這樣一來我就確信了……
-65,TEXT_AKTKBA511_04127_AYMERIC_000_016,發生在艾歐澤亞各地的獸化現象，<hex:02100103>起因其實是源自人們的絕望。
-66,TEXT_AKTKBA511_04127_AYMERIC_000_017,就像你剛才說的那樣，<hex:02100103>聖職者們心中的不安有時可能會演變成絕望。<hex:02100103>按照目前我們的推測，這或許就是他們獸化的原因。
-67,TEXT_AKTKBA511_04127_AYMERIC_000_018,雖然你也是聖職者，<hex:02100103>但從心底相信著改革成功的希望，所以才沒有獸化吧。<hex:02100103>看在你毅力堅強的品格上，我希望你能協助我們展開調查。
-68,TEXT_AKTKBA511_04127_CLEM_000_019,如果這樣能將同志從絕望中拯救出來的話，<hex:02100103>我十分願意。
-69,TEXT_AKTKBA511_04127_ARTOIREL_000_020,多虧了克萊姆助祭，<hex:02100103>這下就更能確信我們的推測是正確的了，<hex:02100103>可這樣一來偽神獸的真實身份就是個問題了。
-70,TEXT_AKTKBA511_04127_ARTOIREL_000_021,在皇都中比任何人都要哀嘆正教的現狀，<hex:02100103>因此成為了強大的偽神獸……<hex:02100103>難道說這個人也是聖職者嗎？
-71,TEXT_AKTKBA511_04127_CLEM_000_022,我看到的只是他在獸化前的那一瞬間……<hex:02100103>那是一名沒有穿著外套，打扮十分簡素的男性。<hex:02100103>看上去不太像是聖職者……
-72,TEXT_AKTKBA511_04127_AYMERIC_000_023,根據拉札罕的報告，<hex:02100103>偽神獸的行動有可能會受到生前人格或記憶的影響。
-73,TEXT_AKTKBA511_04127_AYMERIC_000_024,要是能提前把握偽神獸的行動原理的話，<hex:02100103>想必也會對討伐有所幫助。<hex:02100103>為此必須弄清偽神獸法夫尼爾的真實身份。
-74,TEXT_AKTKBA511_04127_AYMERIC_000_025,我想請克萊姆助祭去安撫聖職者們心中的不安，<hex:02100103>希望他們的心靈多少能夠安穩下來。
-75,TEXT_AKTKBA511_04127_CLEM_000_026,這就交給我吧。<hex:02100103>安撫並拯救人心正是我的使命。
-76,TEXT_AKTKBA511_04127_AYMERIC_100_026,果然最關鍵的問題還是在於偽神獸的真實身份，<hex:02100103>雖然我已經命令神殿騎士團展開了搜查，不過結果並不理想。<hex:02100103>我們也去尋找目擊情報吧。
-77,TEXT_AKTKBA511_04127_AYMERIC_000_027,偽神獸事件發生時，巨盾台那裡除了聖職者們，<hex:02100103>應該也有普通市民在場。我們到皇都的砥柱層收集一下<hex:02100103>化身為偽神獸的那名男性的目擊情報吧。
-78,TEXT_AKTKBA511_04127_AYMERIC_000_028,<hex:022903EB0203>，拜託你到巨盾台附近打聽情報。
-79,TEXT_AKTKBA511_04127_AYMERIC_000_030,我們分頭去收集一下<hex:02100103>化身為偽神獸的那名男性的目擊情報吧。
-80,TEXT_AKTKBA511_04127_ARTOIREL_000_035,我這邊目前很順利。<hex:02100103>你去巨盾台那邊收集目擊情報吧。
-81,TEXT_AKTKBA511_04127_ISHGARDIANA04127_000_040,皇都裡出現的巨大龍族？<hex:02100103>我沒見到過，那時候我不在這裡。
-82,TEXT_AKTKBA511_04127_ISHGARDIANA04127_000_041,不過說來也真可怕。<hex:02100103>雖然聽議會說這回並不是龍族襲擊，<hex:02100103>但不知道是不是真的。
-83,TEXT_AKTKBA511_04127_ISHGARDIANB04127_000_042,出現在巨盾台的獸？<hex:02100103>我的確是看到了精靈族的男性變成龍的那一瞬間！<hex:02100103>還以為是異端者幹的好事呢，難道是我搞錯了？
-84,TEXT_AKTKBA511_04127_ISHGARDIANC04127_000_043,雖然我不在巨盾台事件的現場，<hex:02100103>不過倒是和一名不穿外套簡素打扮的男性擦肩而過過。
-85,TEXT_AKTKBA511_04127_ISHGARDIANC04127_000_044,他好像是從蒼天街的魯什芒德紀念醫院裡偷跑出來的。<hex:02100103>我記得很清楚，醫院的職員四處找過他。<hex:02100103>那個、我記得是叫……對了，是叫萬德羅來著。
-86,TEXT_AKTKBA511_04127_ISHGARDIANA04127_000_047,巨大的龍出現在皇都時，<hex:02100103>我並沒有來這邊。
-87,TEXT_AKTKBA511_04127_ISHGARDIANB04127_000_048,出現在巨盾台的獸？<hex:02100103>我的確是看到了精靈族的男性變成龍的那一瞬間！<hex:02100103>還以為是異端者幹的好事呢，難道是我搞錯了？
-88,TEXT_AKTKBA511_04127_ISHGARDIANC04127_000_049,他好像是從蒼天街的魯什芒德紀念醫院裡偷跑出來的。<hex:02100103>我記得很清楚，醫院的職員四處找過他。<hex:02100103>那個、我記得是叫……對了，是叫萬德羅來著。
-89,TEXT_AKTKBA511_04127_ARTOIREL_100_049,有什麼收穫嗎？
-90,TEXT_AKTKBA511_04127_AYMERIC_000_050,<hex:022903EB0203>，你回來了啊。<hex:02100103>說說你收集到的情報吧。
-91,TEXT_AKTKBA511_04127_AYMERIC_000_051,是這樣啊。<hex:02100103>疑似從重建特區蒼天街那邊的醫院裡<hex:02100103>偷跑出來的男性嗎……
-92,TEXT_AKTKBA511_04127_AYMERIC_000_052,是這樣啊。<hex:02100103>疑似從蒼天街那邊的醫院裡<hex:02100103>偷跑出來的男性嗎……
-93,TEXT_AKTKBA511_04127_ARTOIREL_000_053,我們這邊打聽到的情報中也有人提到<hex:02100103>曾看見過一位像是不懼寒冷一樣<hex:02100103>只穿著單衣茫然走過去的男性。
-94,TEXT_AKTKBA511_04127_ARTOIREL_000_054,如果他是穿著醫院的病號服就跑出來了的話，<hex:02100103>那就能解釋通了。
-95,TEXT_AKTKBA511_04127_AYMERIC_000_055,嗯，恐怕目擊情報裡提到的就是那個化身成偽神獸的男性吧。<hex:02100103>不過話說回來，沒想到這裡會出現萬德羅這個名字……
-96,TEXT_AKTKBA511_04127_AYMERIC_000_056,這在皇都算是很有名的名字。萬德羅·德·魯什芒德……<hex:02100103>他是上一任蒼穹騎士團總騎士長，<hex:02100103>恰巧的是醫院的名字也是根據他來命名的。
-97,TEXT_AKTKBA511_04127_ARTOIREL_000_057,聽聞他因為年紀的關係辭退了蒼穹騎士團總騎士長的職位，<hex:02100103>此後踏上了不為人知的旅程……<hex:02100103>不知道這回的事件是不是和他本人有關。
-98,TEXT_AKTKBA511_04127_ARTOIREL_000_058,不管怎麼說，我先去蒼天街叫了解詳情的人過來。<hex:02100103>請你們兩位到雲霧街那裡等我。
-99,TEXT_AKTKBA511_04127_AYMERIC_000_060,在阿圖瓦雷爾閣下回來之前，<hex:02100103>我們就在這裡等一會吧。
-100,TEXT_AKTKBA511_04127_ARTOIREL_000_070,這位是負責照顧萬德羅的洛弗瑞克。
-101,TEXT_AKTKBA511_04127_LOVERICK_100_070,請、請問……<hex:02100103>你們是找到萬德羅了嗎？<hex:02100103>他跑出醫院之後到現在還沒有回來……
-102,TEXT_AKTKBA511_04127_AYMERIC_000_071,那麼果然你也不知道他的去向嗎……<hex:02100103>不過我們出於某種理由，需要調查他的身份。<hex:02100103>能請你詳細地跟我們講講嗎？
-103,TEXT_AKTKBA511_04127_LOVERICK_000_072,好的，他是被人在庫爾札斯中央高地找到的男性青年。<hex:02100103>有一段時間曾在神殿騎士團接受治療，<hex:02100103>不過為了方便長期療養，就被轉送到了魯什芒德紀念醫院。
-104,TEXT_AKTKBA511_04127_AYMERIC_000_073,青年嗎……<hex:02100103>也就說他與萬德羅·德·魯什芒德沒有關係啊。
-105,TEXT_AKTKBA511_04127_LOVERICK_000_074,那位蒼穹騎士團總騎士長和這位青年當然不是同一個人。
-106,TEXT_AKTKBA511_04127_LOVERICK_000_075,只不過這個名字也是他醒來時告訴我們的，<hex:02100103>當時他記憶模糊，身上也沒有可以表示身份的物件……<hex:02100103>說實在的，我們對他也不是很了解……
-107,TEXT_AKTKBA511_04127_LOVERICK_000_076,就這樣過了一段時間，<hex:02100103>不知怎麼的他就從病房裡偷跑了出去，<hex:02100103>所以我們發出了搜索委託……
-108,TEXT_AKTKBA511_04127_AYMERIC_000_077,他很可能就在前日化身成了強大的末日野獸法夫尼爾。
-109,TEXT_AKTKBA511_04127_LOVERICK_000_078,怎、怎麼會這樣……！<hex:02100103>他好不容易才在迎來了和平的皇都醒來……
-110,TEXT_AKTKBA511_04127_ARTOIREL_000_079,我能問一下<hex:02100103>住院時他的言行舉止有沒有什麼值得注意的地方？
-111,TEXT_AKTKBA511_04127_LOVERICK_000_080,值得注意的地方嗎……
-112,TEXT_AKTKBA511_04127_LOVERICK_100_080,對了，<hex:02100103>他昏睡時總是會像做惡夢一樣不停地說同樣的話。
-113,TEXT_AKTKBA511_04127_LOVERICK_000_081,比如像是教皇陛下還有主教大人之類……<hex:02100103>所以我想他肯定是一位虔誠的正教教徒……
-114,TEXT_AKTKBA511_04127_AYMERIC_000_082,是這樣嗎，感謝你的配合。<hex:02100103>我們會繼續展開調查，<hex:02100103>等得知真相後會來通知你的。
-115,TEXT_AKTKBA511_04127_ARTOIREL_000_083,那我們也回作戰會議室吧。
-116,TEXT_AKTKBA511_04127_AYMERIC_000_090,萬德羅……<hex:02100103>他到底是什麼人呢……
-117,TEXT_AKTKBA511_04127_ARTOIREL_000_100,還差一步就能查明化身成<hex:02100103>偽神獸法夫尼爾的萬德羅究竟是何人了。
-118,TEXT_AKTKBA511_04127_AYMERIC_000_101,雖然克萊姆助祭說他不像是聖職者，<hex:02100103>可他昏睡時所說的話卻能感受到他很虔誠。<hex:02100103>看來導致獸化的絕望還是與信仰有關聯的。
-119,TEXT_AKTKBA511_04127_AYMERIC_000_102,不過先不說擁有王權的教皇，<hex:02100103>他為什麼會提到不過是聖堂之長的主教呢……
-120,TEXT_AKTKBA511_04127_ARTOIREL_100_102,在皇都中只有極少的高位聖職者才能被稱作主教……<hex:02100103>或許我們該向他們尋求協助吧。
-121,TEXT_AKTKBA511_04127_ARTOIREL_000_103,通過克萊姆助祭搭線<hex:02100103>或許可以與瓦爾緹諾瓦主教直接談談。
-122,TEXT_AKTKBA511_04127_AYMERIC_000_104,那就由我去拜託他幫忙引見吧。<hex:02100103>不過瓦爾緹諾瓦主教事務繁忙，<hex:02100103>不一定立刻就能見到。
-123,TEXT_AKTKBA511_04127_AYMERIC_000_105,<hex:022903EB0203>，請你看情況回一趟作戰會議室吧。
-124,TEXT_AKTKBA511_04127_CASTERGATEKEEPER_000_500,你想前往作戰會議室嗎？<hex:02100103>我來為你帶路。
-125,TEXT_AKTKBA511_04127_SYSTEM_000_501,要前往作戰會議室嗎？
+0,"TEXT_AKTKBA511_04127_SEQ_00","Artoirel is eagerly awaiting Deacon Clem's report."
+1,"TEXT_AKTKBA511_04127_SEQ_01","Having finished speaking with the rescued clergymen, Clem arrives at the strategy room to report his findings. He reaffirms that, since the church's deception was made public, he and his brethren have been the subject of harassment by certain quarters of the populace. In spite of this, he still believes that the church may again serve as a beacon of hope for the people. His unwavering faith, Aymeric believes, is the reason why he did not turn when others did. Having thus established the cause for the transformations, you turn your attention to the mystery of Profane Fafnir's identity. It is decided that you will seek out eyewitnesses among ordinary citizens, and to that end you head to the Hoplon to make inquiries."
+2,"TEXT_AKTKBA511_04127_SEQ_02","You converse with a number of citizens and gain some insights into the identity of the man-turned-blasphemy. Satisfied, you go to seek out Aymeric at the Arc of the Venerable."
+3,"TEXT_AKTKBA511_04127_SEQ_03","After sharing your findings with one another, you and your companions determine that the man may have been a patient at Saint Vaindreau's Grace, and by curious coincidence has the same name as the figure for whom the infirmary was named. Artoirel volunteers to head to the Firmament to make inquiries, and bids you and Aymeric await him in the Brume."
+4,"TEXT_AKTKBA511_04127_SEQ_04","Artoirel emerges from the Firmament with Loverick, the infirmary aide who had care of Vaindreau. From him you learn that the young man was found by a patrol in the central highlands. After being treated for his injuries, he was brought to the infirmary for recovery, during which time he was heard muttering the names of Archbishop Thordan and Bishop Vartinoix while unconscious. By this, Loverick assumed that Vaindreau was a pious man who regarded them with respect and reverence, but you cannot help but wonder whether there is more to it.<hex:02100103><hex:02100103>※In the event that you leave the strategy room, you may re-enter by speaking with the Temple Knight guard at the Congregation of Our Knights Most Heavenly."
+5,"TEXT_AKTKBA511_04127_SEQ_05","Back at the Congregation, you consider why Vaindreau would speak Bishop Vartinoix's name specifically. In light of the possibility that they were personally acquainted, Artoirel proposes speaking with His Grace directly, and Aymeric leaves to arrange a meeting.<hex:02100103><hex:02100103>※The next role quest will be available from Artoirel upon reaching level 87 in any magical ranged DPS class."
+6,"TEXT_AKTKBA511_04127_SEQ_06",""
+7,"TEXT_AKTKBA511_04127_SEQ_07",""
+8,"TEXT_AKTKBA511_04127_SEQ_08",""
+9,"TEXT_AKTKBA511_04127_SEQ_09",""
+10,"TEXT_AKTKBA511_04127_SEQ_10",""
+11,"TEXT_AKTKBA511_04127_SEQ_11",""
+12,"TEXT_AKTKBA511_04127_SEQ_12",""
+13,"TEXT_AKTKBA511_04127_SEQ_13",""
+14,"TEXT_AKTKBA511_04127_SEQ_14",""
+15,"TEXT_AKTKBA511_04127_SEQ_15",""
+16,"TEXT_AKTKBA511_04127_SEQ_16",""
+17,"TEXT_AKTKBA511_04127_SEQ_17",""
+18,"TEXT_AKTKBA511_04127_SEQ_18",""
+19,"TEXT_AKTKBA511_04127_SEQ_19",""
+20,"TEXT_AKTKBA511_04127_SEQ_20",""
+21,"TEXT_AKTKBA511_04127_SEQ_21",""
+22,"TEXT_AKTKBA511_04127_SEQ_22",""
+23,"TEXT_AKTKBA511_04127_SEQ_23",""
+24,"TEXT_AKTKBA511_04127_TODO_00","Gather eyewitness accounts of the man-turned-blasphemy near the Hoplon."
+25,"TEXT_AKTKBA511_04127_TODO_01","Speak with Aymeric."
+26,"TEXT_AKTKBA511_04127_TODO_02","Wait with Aymeric in the Brume."
+27,"TEXT_AKTKBA511_04127_TODO_03","Speak with Artoirel in the strategy room."
+28,"TEXT_AKTKBA511_04127_TODO_04",""
+29,"TEXT_AKTKBA511_04127_TODO_05",""
+30,"TEXT_AKTKBA511_04127_TODO_06",""
+31,"TEXT_AKTKBA511_04127_TODO_07",""
+32,"TEXT_AKTKBA511_04127_TODO_08",""
+33,"TEXT_AKTKBA511_04127_TODO_09",""
+34,"TEXT_AKTKBA511_04127_TODO_10",""
+35,"TEXT_AKTKBA511_04127_TODO_11",""
+36,"TEXT_AKTKBA511_04127_TODO_12",""
+37,"TEXT_AKTKBA511_04127_TODO_13",""
+38,"TEXT_AKTKBA511_04127_TODO_14",""
+39,"TEXT_AKTKBA511_04127_TODO_15",""
+40,"TEXT_AKTKBA511_04127_TODO_16",""
+41,"TEXT_AKTKBA511_04127_TODO_17",""
+42,"TEXT_AKTKBA511_04127_TODO_18",""
+43,"TEXT_AKTKBA511_04127_TODO_19",""
+44,"TEXT_AKTKBA511_04127_TODO_20",""
+45,"TEXT_AKTKBA511_04127_TODO_21",""
+46,"TEXT_AKTKBA511_04127_TODO_22",""
+47,"TEXT_AKTKBA511_04127_TODO_23",""
+48,"TEXT_AKTKBA511_04127_ARTOIREL_000_000","Ah, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Your timing could not be better."
+49,"TEXT_AKTKBA511_04127_ARTOIREL_000_001","Deacon Clem has finished speaking with the rescued clergymen, and will be here shortly to share his findings."
+50,"TEXT_AKTKBA511_04127_ARTOIREL_000_002","Lord Aymeric too is on his way. Let us wait for them."
+51,"TEXT_AKTKBA511_04127_ARTOIREL_000_003","Deacon Clem, we thank you for making the inquiries on our behalf."
+52,"TEXT_AKTKBA511_04127_CLEM_000_004","'Twas no imposition in the least. As I said, I am glad to do all I can."
+53,"TEXT_AKTKBA511_04127_AYMERIC_000_005","So, 'tis our understanding that those we escorted back were all close acquaintances of the inquisitor who turned."
+54,"TEXT_AKTKBA511_04127_AYMERIC_000_006","Like him, they too had been the subject of harassment by certain quarters of the populace. Is this correct?"
+55,"TEXT_AKTKBA511_04127_CLEM_000_007","It is, I am afraid. And they are far from alone. Men of the cloth were once afforded respect and deference as servants of Halone, but now they are openly reviled by many."
+56,"TEXT_AKTKBA511_04127_CLEM_000_008","We were complicit in perpetuating terrible lies─this is true─but we too were misled. We too are victims. Yet we are regarded by some as criminals..."
+57,"TEXT_AKTKBA511_04127_AYMERIC_000_009","Well do I understand the people's anger, but it saddens me to think that they would thus lash out at their fellow man. Especially when we need solidarity most of all..."
+58,"TEXT_AKTKBA511_04127_AYMERIC_000_010","Though I can imagine your plight, I would not presume to fully grasp your pain. Will you tell us of the challenges you and yours have had to face since the war's end?"
+59,"TEXT_AKTKBA511_04127_CLEM_000_011","Like all sons and daughters of Ishgard, we dreamed of peace in our lifetime. But now that it has come, we find we have little cause to rejoice."
+60,"TEXT_AKTKBA511_04127_CLEM_000_012","Our faith has long been the foundation of our lives, and overnight that foundation has been crippled by fractures. Beyond repair, for some."
+61,"TEXT_AKTKBA511_04127_CLEM_000_013","To learn that we had been deceived, and that we had unwittingly deceived others in turn was...devastating. We who had once been shepherds to men found ourselves lost lambs, bereft of surety and wanting for guidance."
+62,"TEXT_AKTKBA511_04127_CLEM_000_014","We have languished in darkness, all of us."
+63,"TEXT_AKTKBA511_04127_CLEM_100_014","Yet I have faith. That the church will redeem itself. That it will find a new path, and again become a beacon of hope for the people."
+64,"TEXT_AKTKBA511_04127_AYMERIC_000_015","I see... Thank you for sharing this with us. Your testimony has confirmed our suspicions."
+65,"TEXT_AKTKBA511_04127_AYMERIC_000_016","According to our allies, that which causes people to turn is none other than their despair and anguish."
+66,"TEXT_AKTKBA511_04127_AYMERIC_000_017","If it wasn't before, 'tis now abundantly clear why members of the clergy are among the transformed."
+67,"TEXT_AKTKBA511_04127_AYMERIC_000_018","That you did not, I believe, is due to your unwavering faith in the church. In light of this, we would ask for your continued cooperation."
+68,"TEXT_AKTKBA511_04127_CLEM_000_019","Of course. Anything to help my brethren."
+69,"TEXT_AKTKBA511_04127_ARTOIREL_000_020","Now that we have established the cause, that leaves us with the mystery of Profane Fafnir's identity."
+70,"TEXT_AKTKBA511_04127_ARTOIREL_000_021","The progenitor of these troubles... Could he too have been a man of the cloth?"
+71,"TEXT_AKTKBA511_04127_CLEM_000_022","From what I recall of his garb, I doubt it. He was dressed in the common fashion, and inadequately against the cold besides."
+72,"TEXT_AKTKBA511_04127_AYMERIC_000_023","'Tis said that something of the individual may remain in the blasphemy, influencing its behavior."
+73,"TEXT_AKTKBA511_04127_AYMERIC_000_024","If we can determine what instincts drive Profane Fafnir, we may learn who it once was. And this knowledge, I believe, will prove vital in our efforts to stop it."
+74,"TEXT_AKTKBA511_04127_AYMERIC_000_025","Deacon Clem─we ask that you reach out to your fellow clergymen. Please do what you can to ease their anxieties."
+75,"TEXT_AKTKBA511_04127_CLEM_000_026","Understood. As I have ever done, I shall provide what comfort I can to those in need."
+76,"TEXT_AKTKBA511_04127_AYMERIC_100_026","Meanwhile, we must make it a priority to identify the blasphemy. To that end, I would seek out more eyewitnesses."
+77,"TEXT_AKTKBA511_04127_AYMERIC_000_027","The Hoplon is a busy place at any given time; some ordinary citizens are bound to have been present as that tragic event unfolded."
+78,"TEXT_AKTKBA511_04127_AYMERIC_000_028","I propose we make inquiries in the Pillars. If you could attend to the Hoplon, Lord Artoirel and I will look in the surrounding areas."
+79,"TEXT_AKTKBA511_04127_AYMERIC_000_030","There are bound to be others who witnessed the transformation. We have but to find them."
+80,"TEXT_AKTKBA511_04127_ARTOIREL_000_035","I have this area well in hand. I pray you make inquiries on the Hoplon."
+81,"TEXT_AKTKBA511_04127_ISHGARDIANA04127_000_040","No, I didn't see that dragon. Nor would I have wished to, frightful as it sounds."
+82,"TEXT_AKTKBA511_04127_ISHGARDIANA04127_000_041","They say it wasn't a Dravanian attack. But if not, then what was it?"
+83,"TEXT_AKTKBA511_04127_ISHGARDIANB04127_000_042","The dragon that appeared at the Hoplon? Aye, I saw with my own eyes. One moment an Elezen, the next a terrible beast. He was a heretic, I take it?"
+84,"TEXT_AKTKBA511_04127_ISHGARDIANC04127_000_043","I wasn't present for the incident at the Hoplon, but a young man poorly dressed for the cold, that I did see."
+85,"TEXT_AKTKBA511_04127_ISHGARDIANC04127_000_044","I recall him well because an aide from Saint Vaindreau's was searching for him. He was a patient at the infirmary, and by coincidence had the same name."
+86,"TEXT_AKTKBA511_04127_ISHGARDIANA04127_000_047","Whatever that beast was, I pray I never have to lay eyes upon it. I'd sooner forget it was ever here."
+87,"TEXT_AKTKBA511_04127_ISHGARDIANB04127_000_048","That dragon was massive, let me tell you. I didn't know heretics could transform into something so big."
+88,"TEXT_AKTKBA511_04127_ISHGARDIANC04127_000_049","I know not what became of that young man, but I hope the aide found him. He plainly wasn't in a state to be wandering about alone."
+89,"TEXT_AKTKBA511_04127_ARTOIREL_100_049","Were you able to learn anything?"
+90,"TEXT_AKTKBA511_04127_AYMERIC_000_050","There you are, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Did your search yield any fruit?"
+91,"TEXT_AKTKBA511_04127_AYMERIC_000_051","A patient of the Firmament's infirmary, you say..."
+92,"TEXT_AKTKBA511_04127_AYMERIC_000_052","A patient of the Firmament's infirmary, you say..."
+93,"TEXT_AKTKBA511_04127_ARTOIREL_000_053","Among those with whom I spoke, one claims to have witnessed an individual fitting that description. A man walking in a stupor, who did not seem to feel the cold."
+94,"TEXT_AKTKBA511_04127_ARTOIREL_000_054","If he had wandered straight out of the infirmary, it would explain his state of attire."
+95,"TEXT_AKTKBA511_04127_AYMERIC_000_055","Yes, I daresay we have found our blasphemy. But to think that his name should be Vaindreau..."
+96,"TEXT_AKTKBA511_04127_AYMERIC_000_056","'Tis the same as that of former Heavens' Ward commander Ser Vaindreau de Rouchmande, for whom the infirmary is named."
+97,"TEXT_AKTKBA511_04127_ARTOIREL_000_057","Ser Vaindreau, however, retired from his station at a ripe old age some years ago. 'Tis not like to have been him."
+98,"TEXT_AKTKBA511_04127_ARTOIREL_000_058","In any case, we have a lead. I shall head to the infirmary at once. Pray wait for me in the Brume."
+99,"TEXT_AKTKBA511_04127_AYMERIC_000_060","Lord Artoirel should not be long. Let us wait here."
+100,"TEXT_AKTKBA511_04127_ARTOIREL_000_070","This is Loverick, the aide who was in charge of Vaindreau."
+101,"TEXT_AKTKBA511_04127_LOVERICK_100_070","Have you found him? Oh, please say you have!"
+102,"TEXT_AKTKBA511_04127_AYMERIC_000_071","We have not, I am afraid. But we seek to, and hope that you could tell us more about him. May we ask how he came to be at the infirmary?"
+103,"TEXT_AKTKBA511_04127_LOVERICK_000_072","He was found by a patrol in the central highlands. After being treated for his hurts, he was brought to us for convalescence. Being in the prime of his years, he had been doing well, but then..."
+104,"TEXT_AKTKBA511_04127_AYMERIC_000_073","Prime of his years... By all accounts, he is no old man. It seems safe to assume it isn't Ser Vaindreau."
+105,"TEXT_AKTKBA511_04127_LOVERICK_000_074","Oh no, he's definitely a different person, as I told Lord Artoirel."
+106,"TEXT_AKTKBA511_04127_LOVERICK_000_075","And though he gave his name as Vaindreau, he seemed rather confused, and we had no means to confirm his identity."
+107,"TEXT_AKTKBA511_04127_LOVERICK_000_076","In his state, he shouldn't be wandering about on his own. Please, you must find him."
+108,"TEXT_AKTKBA511_04127_AYMERIC_000_077","The man who recently turned into a beast at the Hoplon... We regret to say it may have been Vaindreau."
+109,"TEXT_AKTKBA511_04127_LOVERICK_000_078","Wh-What? No... How can this be?"
+110,"TEXT_AKTKBA511_04127_ARTOIREL_000_079","Is there aught else you can tell us? Things he may have said or done while in your care?"
+111,"TEXT_AKTKBA511_04127_LOVERICK_000_080","Hmmm..."
+112,"TEXT_AKTKBA511_04127_LOVERICK_100_080","While he was still unconscious, he would often ramble. Though most of it was incoherent, he mentioned the archbishop many times."
+113,"TEXT_AKTKBA511_04127_LOVERICK_000_081","Oh, and he spoke of a bishop too─Bishop Vartinoix. I assumed he was a pious man, given this."
+114,"TEXT_AKTKBA511_04127_AYMERIC_000_082","I see. Thank you for your cooperation. We will continue our investigation and, should we confirm what became of Vaindreau, inform you forthwith."
+115,"TEXT_AKTKBA511_04127_ARTOIREL_000_083","Let us return to the Congregation for now."
+116,"TEXT_AKTKBA511_04127_AYMERIC_000_090","Who could this Vaindreau be...?"
+117,"TEXT_AKTKBA511_04127_ARTOIREL_000_100","The mystery remains, but we are one step closer to identifying the man who became Profane Fafnir."
+118,"TEXT_AKTKBA511_04127_AYMERIC_000_101","Indeed. Though he did not at first appear to be a member of the clergy, his words betray a fervent faith."
+119,"TEXT_AKTKBA511_04127_AYMERIC_000_102","And how curious that he should speak not only of the archbishop, but Bishop Vartinoix specifically..."
+120,"TEXT_AKTKBA511_04127_ARTOIREL_100_102","Perhaps he was personally acquainted with His Grace."
+121,"TEXT_AKTKBA511_04127_ARTOIREL_000_103","In light of the possibility, I believe we should speak with him directly."
+122,"TEXT_AKTKBA511_04127_AYMERIC_000_104","Agreed. I will request an audience, but His Grace has many demands upon his time. It may be a while before we are seen."
+123,"TEXT_AKTKBA511_04127_AYMERIC_000_105","Should you have other business, pray feel free to attend to them in the meantime."
+124,"TEXT_AKTKBA511_04127_CASTERGATEKEEPER_000_500","Heading to the strategy room? I should be glad to show you in."
+125,"TEXT_AKTKBA511_04127_SYSTEM_000_501","Proceed to the strategy room?"

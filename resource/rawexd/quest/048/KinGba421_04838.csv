@@ -2,129 +2,129 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_KINGBA421_04838_SEQ_00,天營門的西托加想要獲得更多有關盜賊團的情報。
-1,TEXT_KINGBA421_04838_SEQ_01,和西托加進行了交談，聽說軍官關於盜賊一事需要幫忙。前往天營門的軍官處了解詳情。
-2,TEXT_KINGBA421_04838_SEQ_02,天營門的軍官認為應該尋找盜賊的老巢，於是拜託冒險者幫忙。和基拉巴尼亞山區阿拉基利附近的西托加談談。
-3,TEXT_KINGBA421_04838_SEQ_03,和西托加進行了交談。在不被發現的情況下追蹤從阿拉基利出發前往某處的膽怯的盜賊。<hex:02100103><hex:02100103>※追蹤狀態被解除時，再次和西托加對話便可重新進入追蹤狀態。
-4,TEXT_KINGBA421_04838_SEQ_04,一路追蹤盜賊，雖然發現了盜賊團的頭領沙爾托菲特，但被對方逃掉了。暫時撤回阿拉基利，並向解放軍戰士報告。
-5,TEXT_KINGBA421_04838_SEQ_05,和解放軍戰士進行了交談，分享了情報。再次和阿拉基利的西托加談談。
-6,TEXT_KINGBA421_04838_SEQ_06,和西托加進行了交談，思考了關於蠻橫的沙爾托菲特所率領的盜賊團的事情。如果團員們並不情願服從沙爾托菲特，也許能夠好好談談……<hex:02100103><hex:02100103>※任意遠程物理職業的等級達到96級以上時，可以從阿拉基利的西托加那裡領取下一個遠程物理職能任務。
-7,TEXT_KINGBA421_04838_SEQ_07,
-8,TEXT_KINGBA421_04838_SEQ_08,
-9,TEXT_KINGBA421_04838_SEQ_09,
-10,TEXT_KINGBA421_04838_SEQ_10,
-11,TEXT_KINGBA421_04838_SEQ_11,
-12,TEXT_KINGBA421_04838_SEQ_12,
-13,TEXT_KINGBA421_04838_SEQ_13,
-14,TEXT_KINGBA421_04838_SEQ_14,
-15,TEXT_KINGBA421_04838_SEQ_15,
-16,TEXT_KINGBA421_04838_SEQ_16,
-17,TEXT_KINGBA421_04838_SEQ_17,
-18,TEXT_KINGBA421_04838_SEQ_18,
-19,TEXT_KINGBA421_04838_SEQ_19,
-20,TEXT_KINGBA421_04838_SEQ_20,
-21,TEXT_KINGBA421_04838_SEQ_21,
-22,TEXT_KINGBA421_04838_SEQ_22,
-23,TEXT_KINGBA421_04838_SEQ_23,
-24,TEXT_KINGBA421_04838_TODO_00,和天營門的軍官對話
-25,TEXT_KINGBA421_04838_TODO_01,和阿拉基利附近的西托加對話
-26,TEXT_KINGBA421_04838_TODO_02,再次和西托加對話 跟蹤膽怯的盜賊
-27,TEXT_KINGBA421_04838_TODO_03,和解放軍戰士對話
-28,TEXT_KINGBA421_04838_TODO_04,和西托加對話
-29,TEXT_KINGBA421_04838_TODO_05,
-30,TEXT_KINGBA421_04838_TODO_06,
-31,TEXT_KINGBA421_04838_TODO_07,
-32,TEXT_KINGBA421_04838_TODO_08,
-33,TEXT_KINGBA421_04838_TODO_09,
-34,TEXT_KINGBA421_04838_TODO_10,
-35,TEXT_KINGBA421_04838_TODO_11,
-36,TEXT_KINGBA421_04838_TODO_12,
-37,TEXT_KINGBA421_04838_TODO_13,
-38,TEXT_KINGBA421_04838_TODO_14,
-39,TEXT_KINGBA421_04838_TODO_15,
-40,TEXT_KINGBA421_04838_TODO_16,
-41,TEXT_KINGBA421_04838_TODO_17,
-42,TEXT_KINGBA421_04838_TODO_18,
-43,TEXT_KINGBA421_04838_TODO_19,
-44,TEXT_KINGBA421_04838_TODO_20,
-45,TEXT_KINGBA421_04838_TODO_21,
-46,TEXT_KINGBA421_04838_TODO_22,
-47,TEXT_KINGBA421_04838_TODO_23,
-48,TEXT_KINGBA421_04838_CEETOLJA_000_000,<hex:022903EB0203>，我有事要告訴你！<hex:02100103>是關於你打倒的盜賊的……
-49,TEXT_KINGBA421_04838_CEETOLJA_000_001,抓住盜賊的軍官聯繫過來，<hex:02100103>說有事情想委託給我們！
-50,TEXT_KINGBA421_04838_CEETOLJA_000_002,也許能知道一些關於盜賊和祭器的線索，<hex:02100103>我們一起去前邊的帳篷看看吧？
-51,TEXT_KINGBA421_04838_RESISTANCEB04837_000_020,是你們啊。<hex:02100103>謝謝你們願意過來。
-52,TEXT_KINGBA421_04838_RESISTANCEB04837_000_021,其實就是之前抓到的那些盜賊的事……<hex:02100103>簡單點來說，我希望請你們跟蹤他們。
-53,TEXT_KINGBA421_04838_RESISTANCEB04837_000_022,經過審問，我們確定了，<hex:02100103>他們就是沙爾托菲特手下的盜賊……
-54,TEXT_KINGBA421_04838_RESISTANCEB04837_000_023,如果把他們放了，他們很可能會跑回盜賊頭領的身邊，<hex:02100103>只要跟緊了他們，肯定就能找到盜賊團的老巢。
-55,TEXT_KINGBA421_04838_RESISTANCEB04837_000_024,但如果解放軍採取行動，對方一定會有所警惕……<hex:02100103>所以我想委託你們進行追蹤。
-56,TEXT_KINGBA421_04838_CEETOLJA_000_025,交給我們吧！<hex:02100103>有<hex:022903EB0203>在一定不會出問題，<hex:02100103>而且我也很好奇這群盜賊都是什麼樣的人！
-57,TEXT_KINGBA421_04838_RESISTANCEB04837_000_026,那我這就去安排釋放盜賊的手續，<hex:02100103>一會我會將其中一個盜賊帶過來，<hex:02100103>你們就在一旁稍遠的位置看著吧。
-58,TEXT_KINGBA421_04838_HENCHMAN04837_000_027,對不起，我不會再做壞事了……
-59,TEXT_KINGBA421_04838_RESISTANCEB04837_000_028,唉……你真的有在反省麼？
-60,TEXT_KINGBA421_04838_RESISTANCEB04837_000_029,算了，要不是因為你們襲擊護衛失敗，<hex:02100103>損害規模也不大，又沒有和其他盜竊行為相關聯的證據……
-61,TEXT_KINGBA421_04838_RESISTANCEB04837_000_030,總之，罪名不多，我們也只能把你放了。<hex:02100103>你放出去之後準備去哪？
-62,TEXT_KINGBA421_04838_HENCHMAN04837_000_031,感謝您的寬宏大量，<hex:02100103>我打算返回阿拉基利找個商隊幹活。
-63,TEXT_KINGBA421_04838_RESISTANCEB04837_000_032,那我就把你送到阿拉基利再釋放吧，<hex:02100103>以後一定要洗心革面、好好做人！
-64,TEXT_KINGBA421_04838_RESISTANCEB04837_000_033,誒……看他的樣子就知道沒有在反省，<hex:02100103>之後恐怕又會回到盜賊團去。<hex:02100103>那跟蹤他的事就交給你們了。
-65,TEXT_KINGBA421_04838_RESISTANCEB04837_000_034,記住，你們的目的只是找到他們的老巢，<hex:02100103>不要深追，萬事安全第一。
-66,TEXT_KINGBA421_04838_RESISTANCEB04837_000_035,我會和阿拉基利的解放軍士兵們打好招呼，<hex:02100103>你們完事之後，向他報告就好。
-67,TEXT_KINGBA421_04838_CEETOLJA_000_036,那我們現在就去阿拉基利，<hex:02100103>跟蹤那個盜賊吧！
-68,TEXT_KINGBA421_04838_CEETOLJA_000_040,<hex:022903EB0203>，你看到了嗎？<hex:02100103>那就是剛剛釋放的盜賊。
-69,TEXT_KINGBA421_04838_CEETOLJA_000_041,剛說了要在阿拉基利老實幹活，<hex:02100103>結果一放出來就立馬出了城……真可疑！
-70,TEXT_KINGBA421_04838_CEETOLJA_000_042,我們跟上他！<hex:02100103>當心別被發現了！
-71,TEXT_KINGBA421_04838_SYSTEM_000_050,接下來將開始進行跟蹤。<hex:02100103>當被目標發現或跟丟目標時，即為失敗。<hex:02100103>請在保持一定距離的同時避免進入目標視野範圍內。
-72,TEXT_KINGBA421_04838_SYSTEM_000_051,當跟蹤失敗時，<hex:02100103>可以再次和西托加對話重新進行挑戰。
-73,TEXT_KINGBA421_04838_SYSTEM_000_052,要重新挑戰跟蹤膽怯的盜賊嗎？
-74,TEXT_KINGBA421_04838_CEETOLJA_000_053,那傢伙還在那附近亂轉，<hex:02100103>快趁現在跟上他！
-75,TEXT_KINGBA421_04838_CEETOLJA_000_101,咦？那是我們之前遇到的商人吧？<hex:02100103>還帶你去了盜賊出現的地方……
-76,TEXT_KINGBA421_04838_CHALTEAUFITE_000_102,(-貧嘴的商人-)你這麼快就被放出來了？<hex:02100103>沒有被解放軍的人跟蹤吧？
-77,TEXT_KINGBA421_04838_HENCHMAN04837_000_103,沒有沒有！<hex:02100103>解放軍的戰士們將我送到阿拉基利後就離開了！
-78,TEXT_KINGBA421_04838_CHALTEAUFITE_000_104,(-貧嘴的商人-)那看來我們也沒必要繼續偽裝了……
-79,TEXT_KINGBA421_04838_HENCHMAN04837_000_105,沙爾托菲特大人！<hex:02100103>為什麼要讓我們和那個冒險者戰鬥？<hex:02100103>沒有守護之力的我們根本不是<hex:02080DE905FF04>她<hex:FF04>他<hex:03>的對手！
-80,TEXT_KINGBA421_04838_CHALTEAUFITE_000_106,嗯……有道理……
-81,TEXT_KINGBA421_04838_CHALTEAUFITE_000_107,我們原本也不過是被欺壓的弱者，<hex:02100103>是在獲得了守護之力後才變得能夠戰鬥。
-82,TEXT_KINGBA421_04838_CHALTEAUFITE_000_108,真沒想到那個來奪回祭器的輝鱗族女孩，<hex:02100103>能僱到這麼厲害的冒險者！<hex:02100103>真是可惡！
-83,TEXT_KINGBA421_04838_AVENEL_000_109,(-惴惴不安的商人-)不過說真的，那個輝鱗族女孩人可真好啊，<hex:02100103>還擔心我們來著……
-84,TEXT_KINGBA421_04838_CHALTEAUFITE_000_110,我可都聽見了，<hex:02100103>不僅作戰失敗，現在還為敵人說話！
-85,TEXT_KINGBA421_04838_CHALTEAUFITE_000_111,你們想要被肅清嗎？！
-86,TEXT_KINGBA421_04838_AVENEL_000_112,(-惴惴不安的商人-)絕、絕對沒有！！<hex:02100103>我們能有今日全都是多虧了沙爾托菲特大人的照拂！
-87,TEXT_KINGBA421_04838_CEETOLJA_000_113,那群商人居然是盜賊！<hex:02100103>而且不過說兩句話就要被肅清，<hex:02100103>太殘忍了……
-88,TEXT_KINGBA421_04838_KAQOOLJA_000_114,(-輝鱗族傭兵-)你們在那幹什麼！
-89,TEXT_KINGBA421_04838_CHALTEAUFITE_000_115,什……<hex:02100103>你這蠢貨！果然被跟蹤了！
-90,TEXT_KINGBA421_04838_CHALTEAUFITE_000_116,喂，卡庫加！<hex:02100103>那兩個傢伙就交給你了！
-91,TEXT_KINGBA421_04838_CEETOLJA_000_117,<hex:022903EB0203>，這裡交給我吧！
-92,TEXT_KINGBA421_04838_CEETOLJA_000_118,大叔你也是輝鱗族，<hex:02100103>那你應該是從圖拉爾大陸來這裡當傭兵的吧？
-93,TEXT_KINGBA421_04838_CEETOLJA_000_119,那些傢伙偷走了我們村子的祭器，<hex:02100103>如果沒有祭器保護，我們無法在危險的森林中生活！
-94,TEXT_KINGBA421_04838_CEETOLJA_000_120,所以，我一定要將祭器帶回村裡，<hex:02100103>求你了，請不要插手！
-95,TEXT_KINGBA421_04838_KAQOOLJA_000_121,放棄吧……<hex:02100103>不要逼我對同胞動手。<hex:02100103>留著你的小命，安安全全地回家不好嗎？
-96,TEXT_KINGBA421_04838_KAQOOLJA_100_121,我已經爭取了足夠的時間，<hex:02100103>小姑娘，今天就到此為止吧。
-97,TEXT_KINGBA421_04838_CEETOLJA_000_122,就算現在開始追，應該也追不上沙爾托菲特他們了吧。<hex:02100103>抱歉，我沒能說服大叔，還把盜賊們放跑了，<hex:02100103>總之先去向阿拉基利的解放軍戰士報告一下情況吧。
-98,TEXT_KINGBA421_04838_CEETOLJA_000_130,應該就是他吧！
-99,TEXT_KINGBA421_04838_RESISTANCE04838_000_140,兩位就是協助追蹤調查的人吧，<hex:02100103>感謝你們的幫助。
-100,TEXT_KINGBA421_04838_RESISTANCE04838_000_141,這位小姐已經向我報告了事情的經過，<hex:02100103>聽說你們差點和敵對的輝鱗族打起來。
-101,TEXT_KINGBA421_04838_RESISTANCE04838_000_142,沒出事就好，<hex:02100103>雖說是協助搜查，<hex:02100103>但很抱歉把你們捲入了如此危險的任務。
-102,TEXT_KINGBA421_04838_CEETOLJA_000_143,不用在意，是我主動說要去的！<hex:02100103>之後我們也會繼續追蹤盜賊團，<hex:02100103>大家互相幫助才能盡早把他們繩之以法！
-103,TEXT_KINGBA421_04838_CEETOLJA_000_144,而且，這次的冒險也不是沒有收穫，<hex:02100103>至少我們知道了這夥盜賊十分狡猾，<hex:02100103>會假扮成旅行商人四處行動。
-104,TEXT_KINGBA421_04838_RESISTANCE04838_000_146,是啊，我會將這個消息分享給周邊的戰士們，<hex:02100103>讓他們多留意可疑的商人，<hex:02100103>你們以後也要小心一些！
-105,TEXT_KINGBA421_04838_CEETOLJA_000_150,<hex:022903EB0203>，謝謝你幫忙進行追蹤搜查，<hex:02100103>辛苦你了！
-106,TEXT_KINGBA421_04838_CEETOLJA_000_151,向我們搭話的商人居然就是盜賊……<hex:02100103>在村子的時候大家也是像這樣被騙了，<hex:02100103>沙爾托菲特這個人真的很狡猾啊。
-107,TEXT_KINGBA421_04838_CEETOLJA_000_152,不過，我看他部下臉上那種恐懼的表情不像是假的，<hex:02100103>他們好像是真的很怕他。
-108,TEXT_KINGBA421_04838_CEETOLJA_000_153,沙爾托菲特身為頭領，<hex:02100103>對部下那麼凶那麼蠻橫，<hex:02100103>部下們會怕他也是正常的。
-109,TEXT_KINGBA421_04838_CEETOLJA_000_154,卡庫加大叔開始雖然想和我們動手，<hex:02100103>但最後還是放過了我們……<hex:02100103>看來盜賊裡也是有能夠溝通的人！
-110,TEXT_KINGBA421_04838_Q1_000_000,要說什麼？
-111,TEXT_KINGBA421_04838_A1_000_001,我也是這麼想的
-112,TEXT_KINGBA421_04838_A1_000_002,你把人想得太好了吧？
-113,TEXT_KINGBA421_04838_CEETOLJA_000_155,對吧！<hex:02100103>雖然我不擅長戰鬥，<hex:02100103>但我看人還是很準的！
-114,TEXT_KINGBA421_04838_CEETOLJA_000_156,是這樣嗎？<hex:02100103>雖然我不擅長戰鬥，<hex:02100103>但我看人還是很準的！
-115,TEXT_KINGBA421_04838_CEETOLJA_000_157,我從小生活在森林的深處，<hex:02100103>在這次外出之前我基本沒見過族人以外的人……<hex:02100103>所以一開始我很害怕和不認識的人說話。
-116,TEXT_KINGBA421_04838_CEETOLJA_100_157,但只要好好了解，就能看到對方的優點，<hex:02100103>該怎麼說呢，<hex:02100103>就是那種即便成長環境和文化不同，也能互相理解的感覺！
-117,TEXT_KINGBA421_04838_CEETOLJA_000_158,人無完人，誰都會有缺點……<hex:02100103>相反，每個人也都會有他自己的優點，<hex:02100103>其實我們都很普通！
-118,TEXT_KINGBA421_04838_CEETOLJA_000_159,所以我想通過交流了解對方，<hex:02100103>盡可能和對方搞好關係。
-119,TEXT_KINGBA421_04838_CEETOLJA_000_160,畢竟要是和對方打起來輸的一定是我！<hex:02100103>嘿嘿！
-120,TEXT_KINGBA421_04838_CEETOLJA_000_161,但沙爾托菲特這種人該怎麼說呢，<hex:02100103>像他這種一開始就既不打算友好相處，也不打算溝通，<hex:02100103>總感覺與他之間必會發生衝突。
-121,TEXT_KINGBA421_04838_CEETOLJA_000_162,但是，我覺得我們應該能和他的部下友好相處！<hex:02100103>我得找找有什麼辦法能和他們好好聊聊才行。
-122,TEXT_KINGBA421_04838_CEETOLJA_000_010,
-123,TEXT_KINGBA421_04838_TIMIDHENCHMAN04837_000_109,
-124,TEXT_KINGBA421_04838_TIMIDHENCHMAN04837_000_112,
-125,TEXT_KINGBA421_04838_CEETOLJA_000_145,
+0,"TEXT_KINGBA421_04838_SEQ_00","Ceetol Ja is patiently waiting for the Resistance to finish interrogating the captured highwaymen."
+1,"TEXT_KINGBA421_04838_SEQ_01","Ceetol Ja is curious to know whether the Resistance troops have finished their questioning of their suspects in custody. With any luck, information regarding the whereabouts of Chalteaufite and the Steelhog Vessel will have been brought to light."
+2,"TEXT_KINGBA421_04838_SEQ_02","As suspected, the captured bandits are in league with Chalteaufite. The Resistance commander has decided to let one of the culprits go free, and tasks you with following him in the hope he will skulk back to the gang's den. Given the covert nature of the mission and the inherent danger posed by an unknown number of thieves, she judges you to be the ideal candidate for the mission. As one might expect, Ceetol Ja insists on joining you, and you set forth for Ala Ghiri, where the prisoner is due to be released."
+3,"TEXT_KINGBA421_04838_SEQ_03","You rendezvous with Ceetol Ja on the outskirts of Ala Ghiri, where she has already sighted the bandit you intend to follow. It appears that almost immediately after being escorted to the town, he slipped away to rejoin his comrades at their base of operations. If all goes according to plan, he should lead you straight there.<hex:02100103><hex:02100103>※In the event of failure, return to Ceetol Ja to reattempt the objective."
+4,"TEXT_KINGBA421_04838_SEQ_04","You succeed in following the bandit back to a nearby den, where he is met by the merchants you had previously encountered at Porta Praetoria. Their leader is none other than Chalteaufite himself, and he rules this band of thieves with an iron fist. Your espionage is brought to an abrupt end when Kaqool Ja confronts you, and the mercenary keeps you occupied while Chalteaufite and the others escape. He warns you and Ceetol Ja against involving yourselves any further in their affairs before departing. With your quarry long gone, Ceetol Ja suggests returning to Ala Ghiri and apprising the Resistance there of what transpired."
+5,"TEXT_KINGBA421_04838_SEQ_05","You return to Ala Ghiri and make your report to one of the Resistance soldiers. While there are no further leads regarding the investigation, you will most likely need to continue working closely with the Resistance in order to close the net on Chalteaufite's gang."
+6,"TEXT_KINGBA421_04838_SEQ_06","Ceetol Ja takes great joy in sharing her personal philosophy, based on what she has learned over the course of her journey so far. Though idealistic almost to a fault, her unwavering optimism may prove to be a valuable asset in overcoming the struggles ahead, and she asks that you stand by while she attempts to think of a peaceful road through them.<hex:02100103><hex:02100103>※The next role quest will be available from Ceetol Ja upon reaching level 96 in any physical ranged DPS class."
+7,"TEXT_KINGBA421_04838_SEQ_07",""
+8,"TEXT_KINGBA421_04838_SEQ_08",""
+9,"TEXT_KINGBA421_04838_SEQ_09",""
+10,"TEXT_KINGBA421_04838_SEQ_10",""
+11,"TEXT_KINGBA421_04838_SEQ_11",""
+12,"TEXT_KINGBA421_04838_SEQ_12",""
+13,"TEXT_KINGBA421_04838_SEQ_13",""
+14,"TEXT_KINGBA421_04838_SEQ_14",""
+15,"TEXT_KINGBA421_04838_SEQ_15",""
+16,"TEXT_KINGBA421_04838_SEQ_16",""
+17,"TEXT_KINGBA421_04838_SEQ_17",""
+18,"TEXT_KINGBA421_04838_SEQ_18",""
+19,"TEXT_KINGBA421_04838_SEQ_19",""
+20,"TEXT_KINGBA421_04838_SEQ_20",""
+21,"TEXT_KINGBA421_04838_SEQ_21",""
+22,"TEXT_KINGBA421_04838_SEQ_22",""
+23,"TEXT_KINGBA421_04838_SEQ_23",""
+24,"TEXT_KINGBA421_04838_TODO_00","Speak with the Porta Praetoria commander."
+25,"TEXT_KINGBA421_04838_TODO_01","Speak with Ceetol Ja outside Ala Ghiri."
+26,"TEXT_KINGBA421_04838_TODO_02","Speak with Ceetol Ja again, and follow the skittish bandit."
+27,"TEXT_KINGBA421_04838_TODO_03","Speak with the Resistance fighter."
+28,"TEXT_KINGBA421_04838_TODO_04","Speak with Ceetol Ja."
+29,"TEXT_KINGBA421_04838_TODO_05",""
+30,"TEXT_KINGBA421_04838_TODO_06",""
+31,"TEXT_KINGBA421_04838_TODO_07",""
+32,"TEXT_KINGBA421_04838_TODO_08",""
+33,"TEXT_KINGBA421_04838_TODO_09",""
+34,"TEXT_KINGBA421_04838_TODO_10",""
+35,"TEXT_KINGBA421_04838_TODO_11",""
+36,"TEXT_KINGBA421_04838_TODO_12",""
+37,"TEXT_KINGBA421_04838_TODO_13",""
+38,"TEXT_KINGBA421_04838_TODO_14",""
+39,"TEXT_KINGBA421_04838_TODO_15",""
+40,"TEXT_KINGBA421_04838_TODO_16",""
+41,"TEXT_KINGBA421_04838_TODO_17",""
+42,"TEXT_KINGBA421_04838_TODO_18",""
+43,"TEXT_KINGBA421_04838_TODO_19",""
+44,"TEXT_KINGBA421_04838_TODO_20",""
+45,"TEXT_KINGBA421_04838_TODO_21",""
+46,"TEXT_KINGBA421_04838_TODO_22",""
+47,"TEXT_KINGBA421_04838_TODO_23",""
+48,"TEXT_KINGBA421_04838_CEETOLJA_000_000","At a guess, I'd say the Resistance has been interrogating the captured highwaymen for long enough to get some answers from them."
+49,"TEXT_KINGBA421_04838_CEETOLJA_000_001","With any luck, we may even learn more about where we can find Chalteaufite."
+50,"TEXT_KINGBA421_04838_CEETOLJA_000_002","I'm sure the commander is as eager as we are to put a stop to his misdeeds. Let's go and see if she's unearthed any useful information."
+51,"TEXT_KINGBA421_04838_RESISTANCEB04837_000_020","Ah, I was just about to send someone for you. Glad you could save me the bother."
+52,"TEXT_KINGBA421_04838_RESISTANCEB04837_000_021","I have a favor to ask of you both. I'm going to let the criminal walk free, and I want you to follow him."
+53,"TEXT_KINGBA421_04838_RESISTANCEB04837_000_022","You see, our questioning has revealed that the bandits are indeed working with Chalteaufite."
+54,"TEXT_KINGBA421_04838_RESISTANCEB04837_000_023","If we cut one of them loose, he might lead us straight to their den. But if the mission fails and you're discovered, you may find yourselves confronted with an untold number of outlaws."
+55,"TEXT_KINGBA421_04838_RESISTANCEB04837_000_024","Of course, I considered sending my own men, but I suspect that by now, the bandits know our faces. After <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>'s little display in the gully, I'm sure <hex:02080CE905FF04>she<hex:FF03>he<hex:03> alone can handle whatever trouble may come <hex:02080DE905FF04>her<hex:FF04>his<hex:03> way."
+56,"TEXT_KINGBA421_04838_CEETOLJA_000_025","I'll go with <hex:02080DE905FF04>her<hex:FF04>him<hex:03>! If this really does lead us to Chalteaufite, I need to be there when we find him."
+57,"TEXT_KINGBA421_04838_RESISTANCEB04837_000_026","Very well, but if it comes to a fight, you stay behind <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, understood? I'll have the suspect brought over now, but remember what I said, and stay out of sight until he leaves."
+58,"TEXT_KINGBA421_04838_HENCHMAN04837_000_027","Don't look at me like that! I said I'm sorry, didn't I?"
+59,"TEXT_KINGBA421_04838_RESISTANCEB04837_000_028","Aye, that you did. Several times."
+60,"TEXT_KINGBA421_04838_RESISTANCEB04837_000_029","And as much as it galls me, there's no evidence to contradict your claim that you were acting in self-defense, nor is there tangible proof of any other wrongdoing. We've no choice but to let you go."
+61,"TEXT_KINGBA421_04838_RESISTANCEB04837_000_030","You <hex:021A020203>have<hex:021A020103> somewhere to go, I presume?"
+62,"TEXT_KINGBA421_04838_HENCHMAN04837_000_031","Well, I suppose I can find work loadin' caravans in Ala Ghiri. Seems as good a place as any for makin' a quick gi─ I mean, turnin' over a new leaf!"
+63,"TEXT_KINGBA421_04838_RESISTANCEB04837_000_032","In that case, I'll have you escorted there. But you'd best keep your nose clean, or we'll come down on you like a tonze of bricks."
+64,"TEXT_KINGBA421_04838_RESISTANCEB04837_000_033","Hmph. “Turn over a new leaf,” my arse. He'll be back among his thieving mates before long, and you'll be right there behind him."
+65,"TEXT_KINGBA421_04838_RESISTANCEB04837_000_034","For now, all we need to know is the location of their den. Do not attempt to approach the suspects."
+66,"TEXT_KINGBA421_04838_RESISTANCEB04837_000_035","I'll send word ahead to Ala Ghiri. Once you have the information we need, report to the troops stationed there."
+67,"TEXT_KINGBA421_04838_CEETOLJA_000_036","This is the chance we've been waiting for. Let's go!"
+68,"TEXT_KINGBA421_04838_CEETOLJA_000_040","There he is."
+69,"TEXT_KINGBA421_04838_CEETOLJA_000_041","So much for finding work in Ala Ghiri. He's only just arrived, and he's already leaving town."
+70,"TEXT_KINGBA421_04838_CEETOLJA_000_042","Now comes the tricky part; keeping our eyes on him and his eyes off of us. Stick close, but not too close!"
+71,"TEXT_KINGBA421_04838_SYSTEM_000_050","Follow the bandit from a distance. The objective will end in failure if you are noticed, or if you fall too far behind."
+72,"TEXT_KINGBA421_04838_SYSTEM_000_051","Should you fail to complete the objective, you may try again by speaking to Ceetol Ja."
+73,"TEXT_KINGBA421_04838_SYSTEM_000_052","Attempt to follow the bandit?"
+74,"TEXT_KINGBA421_04838_CEETOLJA_000_053","I get the feeling he won't be hanging around here for much longer. Let's see where he leads us!"
+75,"TEXT_KINGBA421_04838_CEETOLJA_000_101","Those are the merchants we met at Porta Praetoria!"
+76,"TEXT_KINGBA421_04838_CHALTEAUFITE_000_102","(-Garrulous Trader-)So they just let you go out of the kindness of their hearts, is that it? Not only that, but you came crawling straight back here, leading whoever they sent to track you right to our doorstep."
+77,"TEXT_KINGBA421_04838_HENCHMAN04837_000_103","I swear it, no one followed me! The soldiers took me as far as Ala Ghiri and then went back the way they came! I made sure they were specks in the distance before I even set foot outside of the town!"
+78,"TEXT_KINGBA421_04838_CHALTEAUFITE_000_104","(-Garrulous Trader-)I suppose I've no choice but to take you at your word, not that it's worth much. Well, now that this charade is at an end, let us change into something a little less drab."
+79,"TEXT_KINGBA421_04838_HENCHMAN04837_000_105","Um, Chalteaufite... Why did you make us fight that <hex:020811E905FF06>woman<hex:FF06>bloke<hex:03> without the blessin'? <hex:02080CE905FF04>She<hex:FF03>He<hex:03> could've killed the lot of us without breaking a sweat!"
+80,"TEXT_KINGBA421_04838_CHALTEAUFITE_000_106","A mere oversight, that is all."
+81,"TEXT_KINGBA421_04838_CHALTEAUFITE_000_107","Though it pains me to admit it, even with the invulnerability granted by the artifact, the likes of us are ever at the mercy of the truly powerful."
+82,"TEXT_KINGBA421_04838_CHALTEAUFITE_000_108","I never expected that Mamool Ja wretch to hire a warrior of such caliber to retrieve the vessel. A pox on those interfering nincompoops!"
+83,"TEXT_KINGBA421_04838_AVENEL_000_109","(-Timid “Trader”-)But the Mamool Ja girl didn't seem a bad sort. Naive, maybe, but it's plain that her heart's in the right place."
+84,"TEXT_KINGBA421_04838_CHALTEAUFITE_000_110","You truly are pathetic. Not only did you fail miserably, but now you're sympathizing with the enemy?"
+85,"TEXT_KINGBA421_04838_CHALTEAUFITE_000_111","Give me one good reason why I shouldn't rid myself of you permanently!"
+86,"TEXT_KINGBA421_04838_AVENEL_000_112","(-Timid “Trader”-)No, please! We owe everything to you, Chalteaufite! Without you, we are nothing!"
+87,"TEXT_KINGBA421_04838_CEETOLJA_000_113","They were all in on this from the beginning, with Chalteaufite pulling the strings. If this is how he treats his friends, imagine what he'd do to his enemies!"
+88,"TEXT_KINGBA421_04838_KAQOOLJA_000_114","(-Mamool Ja Mercenary-)You couldn't stay away, could you?"
+89,"TEXT_KINGBA421_04838_CHALTEAUFITE_000_115","What!? Imbecile! You led them right to us!"
+90,"TEXT_KINGBA421_04838_CHALTEAUFITE_000_116","Kaqool Ja! Eliminate these vermin!"
+91,"TEXT_KINGBA421_04838_CEETOLJA_000_117","Let me handle this, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>!"
+92,"TEXT_KINGBA421_04838_CEETOLJA_000_118","You're from Tural, working here as a mercenary, yes?"
+93,"TEXT_KINGBA421_04838_CEETOLJA_000_119","The ones who hired you stole the Steelhog Vessel from my village! We need its blessing to stand a chance against the beasts of the forest!"
+94,"TEXT_KINGBA421_04838_CEETOLJA_000_120","I can't return home without the vessel!"
+95,"TEXT_KINGBA421_04838_KAQOOLJA_000_121","Either you return home empty-handed, or you won't be returning at all. I'd rather not harm a fellow Turali, so get out of here before I change my mind."
+96,"TEXT_KINGBA421_04838_KAQOOLJA_100_121","I've bought enough time by listening to your blathering. Don't let me catch you sniffing around our tails."
+97,"TEXT_KINGBA421_04838_CEETOLJA_000_122","Chalteaufite and his underlings are out of sight... I thought I could make that Kaqool Ja see sense, but he was clearly in no mood to listen. I'd say our best option is report to the Resistance members in Ala Ghiri and share what we've learned."
+98,"TEXT_KINGBA421_04838_CEETOLJA_000_130","I went ahead and gave my account, though I expect he'd like to hear yours as well."
+99,"TEXT_KINGBA421_04838_RESISTANCE04838_000_140","Regardless of how things turned out, we appreciate your cooperation in the investigation. The information you've provided has certainly given us a lot to consider."
+100,"TEXT_KINGBA421_04838_RESISTANCE04838_000_141","From what I hear, you almost came to blows with a Mamool Ja sellsword. Or sell-axe, I suppose."
+101,"TEXT_KINGBA421_04838_RESISTANCE04838_000_142","I'm glad that it didn't come to violence, especially given the power these bandits have at their disposal. Even so, we thank you for braving such a dangerous mission."
+102,"TEXT_KINGBA421_04838_CEETOLJA_000_143","No thanks are needed. We're just as much a part of this investigation as the Resistance!"
+103,"TEXT_KINGBA421_04838_CEETOLJA_000_144","And I'm sure we can agree we'll need to work together to take down Chalteaufite and his gang. Their performance at Porta Praetoria showed just how cunning they are!"
+104,"TEXT_KINGBA421_04838_RESISTANCE04838_000_146","It would seem so, yes. I'm told their little act was most convincing. I'll be sure to warn my comrades against any similar shenanigans. As for the two of you, be careful out there!"
+105,"TEXT_KINGBA421_04838_CEETOLJA_000_150","All things considered, I'd say that went fairly well."
+106,"TEXT_KINGBA421_04838_CEETOLJA_000_151","Chalteaufite used the same trick as the time he came to my village, namely, posing as a simple trader when he's in fact a dastardly thief!"
+107,"TEXT_KINGBA421_04838_CEETOLJA_000_152","Still, not even the most skilled actor could fake the fear in his men's eyes."
+108,"TEXT_KINGBA421_04838_CEETOLJA_000_153","It appears that Chalteaufite has complete control over them, and they are powerless to resist."
+109,"TEXT_KINGBA421_04838_CEETOLJA_000_154","The only one who doesn't seem afraid of him is Kaqool Ja. He even let us go when he had no obligation to do so. I think that if we had the chance to talk, we might find some common ground."
+110,"TEXT_KINGBA421_04838_Q1_000_000","What will you say?"
+111,"TEXT_KINGBA421_04838_A1_000_001","Yes, I get that feeling, too."
+112,"TEXT_KINGBA421_04838_A1_000_002","Sounds like wishful thinking to me."
+113,"TEXT_KINGBA421_04838_CEETOLJA_000_155","I knew you would! I've never been much of a fighter, but I make up for it in other ways. I'm a fairly good judge of character, for one!"
+114,"TEXT_KINGBA421_04838_CEETOLJA_000_156","Hmm... Perhaps you're right, but I'm not ready to give up just yet. While I'm certainly not the best fighter, I've been told I'm a good judge of character."
+115,"TEXT_KINGBA421_04838_CEETOLJA_000_157","For most of my life, I've lived in a remote village, deep in the forest. I had hardly any contact with the outside world, so the thought of talking to strangers was quite daunting at first."
+116,"TEXT_KINGBA421_04838_CEETOLJA_100_157","But over the course of my journey, I've traveled through all kinds of places. If there's one thing I've learned, it's this: wherever you go, people are people. In the end, our cultures and the places where we grew up don't make that big a difference."
+117,"TEXT_KINGBA421_04838_CEETOLJA_000_158","None of us are perfect, and we each have our faults. And even if it's harder to find in some than in others, I believe there is good in all of us."
+118,"TEXT_KINGBA421_04838_CEETOLJA_000_159","That's why I hope we have another chance to speak with the thieves...and Kaqool Ja."
+119,"TEXT_KINGBA421_04838_CEETOLJA_000_160","I'm certainly not strong enough to beat any sense into them, so I'll try <hex:021A020203>talking<hex:021A020103> some sense into them instead!"
+120,"TEXT_KINGBA421_04838_CEETOLJA_000_161","Having said, well, all of that, I can't feel even a shred of goodness in that Chalteaufite. Maybe I'm not looking hard enough, or perhaps violence is the only language he understands. Things might get a little rough before he's willing to listen."
+121,"TEXT_KINGBA421_04838_CEETOLJA_000_162","Anyway, we can save him for last! I'll try thinking of a way to reach out to the other members of the gang. Give me a little time, would you?"
+122,"TEXT_KINGBA421_04838_CEETOLJA_000_010",""
+123,"TEXT_KINGBA421_04838_TIMIDHENCHMAN04837_000_109",""
+124,"TEXT_KINGBA421_04838_TIMIDHENCHMAN04837_000_112",""
+125,"TEXT_KINGBA421_04838_CEETOLJA_000_145",""

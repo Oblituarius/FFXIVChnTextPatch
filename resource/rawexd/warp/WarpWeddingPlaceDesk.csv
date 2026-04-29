@@ -2,44 +2,44 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_WARPWEDDINGPLACEDESK_ETOINELLE_000_000,這裡是久遠聖堂……<hex:02100103>是個供命中注定的二人許下永結同心誓言的神聖場所。<hex:02100103>請問您來這裡有什麼事嗎？
-1,TEXT_WARPWEDDINGPLACEDESK_ETOINELLE_000_001,<hex:022903EB0203>，<hex:02100103>如果想和雷莫商量典禮方案，<hex:02100103>請去找儀式迎賓員，由他領您進聖堂。
-2,TEXT_WARPWEDDINGPLACEDESK_ETOINELLE_000_002,<hex:022903EB0203>，<hex:02100103>請問您找我有什麼事嗎？
-3,TEXT_WARPWEDDINGPLACEDESK_Q1_000_020,您有什麼事？
-4,TEXT_WARPWEDDINGPLACEDESK_A1_000_021,參加朋友的永結同心典禮
-5,TEXT_WARPWEDDINGPLACEDESK_A1_000_022,來賓指南：什麼是「永結同心典禮」？
-6,TEXT_WARPWEDDINGPLACEDESK_A1_000_023,來賓指南：參加典禮的注意事項
-7,TEXT_WARPWEDDINGPLACEDESK_A1_000_024,來賓指南：典禮延期了怎麼辦？
-8,TEXT_WARPWEDDINGPLACEDESK_A1_000_025,取消
-9,TEXT_WARPWEDDINGPLACEDESK_ETOINELLE_000_100,所謂永結同心典禮，<hex:02100103>就是供希望結下良緣的二人在眾神面前許下諾言的儀式。<hex:02100103>就讓我來向您介紹一下典禮的具體情況吧。
-10,TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_101,永結同心典禮是「永結同心」的相關內容。<hex:02100103>詳情請參見官方網站。
-11,TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_102,欲舉辦典禮，需要事先進行預約。<hex:02100103>持有新人請柬的來賓無需事先預約，<hex:02100103>只要在請柬上指定的時間和埃圖瓦妮勒對話，便可入場。
-12,TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_103,在入場時，請攜帶從新人那裡收到的<hex:02280BFF05>Item<hex:F221FB0103>。<hex:02100103>如丟失則無法入場，需再從新人手中領取。
-13,TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_104,會場每隔2小時（地球時間）可供包場一次，<hex:02100103>因此無法提前入場，<hex:02100103>敬請諒解。
-14,TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_105,入場時間記載在請柬的道具說明中，<hex:02100103>最遲可在請柬內指定時間後約1個半小時（地球時間）內入場。<hex:02100103>典禮結束後則無法入場。
-15,TEXT_WARPWEDDINGPLACEDESK_ETOINELLE_000_120,參加永結同心典禮需注意以下事項。
-16,TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_121,開場後，來賓們需在休息室稍作等待，<hex:02100103>新人最長會花20分鐘（地球時間）進行梳妝打扮，<hex:02100103>完成準備後，最多需再等待20分鐘。
-17,TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_122,典禮最遲會在開場40分鐘（地球時間）後舉行。<hex:02100103>時間完全由新人控制，有可能開場後馬上舉行典禮，<hex:02100103>因此建議按時到達，參加典禮。
-18,TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_123,新人準備好後，<hex:02100103>來賓們將自動從休息室前往會場。<hex:02100103>在會場內有不明白的地方，可以詢問典禮接待員。
-19,TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_124,另外，永結同心典禮開始後，<hex:02100103>來賓也會出現在過場動畫中，<hex:02100103>因此請提前換好參加典禮所穿的服裝。
-20,TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_125,善用聊天等手段將來賓到齊、服裝換好等資訊告知新人，<hex:02100103>以便新人順利開始舉辦典禮。
-21,TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_126,典禮分為「入場」、「問候」、「誓約儀式」、「暢談（自由時間）」、<hex:02100103>「結束」這幾個步驟，可以盡情按下快門截圖，記錄這一美好時光。
-22,TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_127,典禮最長將舉行約1個半小時（地球時間）。<hex:02100103>在會場內基本上可以自由行動，也可以中途入場或提前退場。
-23,TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_140,新人有可能會中止或延期典禮。
-24,TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_141,屆時新人將重新進行預約，<hex:02100103>並再發放新的請柬。
-25,TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_142,典禮延期後，來賓們所持的<hex:02280BFF05>Item<hex:F221FB0103>將無法再使用，<hex:02100103>可以將其捨棄。
-26,TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_143,持有新人發放的新請柬，<hex:02100103>方可參加重新舉辦的典禮。
-27,TEXT_WARPWEDDINGPLACEDESK_ETOINELLE_000_160,好的，願眾神保佑您。
-28,TEXT_WARPWEDDINGPLACEDESK_ETOINELLE_000_200,您持有該永結同心典禮的請柬，<hex:02100103>可以進入久遠聖堂。
-29,TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_201,來賓也會出現在過場動畫中，<hex:02100103>因此請提前換好參加典禮所穿的服裝。
-30,TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_202,典禮最遲會在開場40分鐘（地球時間）後舉行。<hex:02100103>關於典禮的程序和入場、退場的方法，<hex:02100103>請詢問會場內的典禮接待員。
-31,TEXT_WARPWEDDINGPLACEDESK_ETOINELLE_000_230,您手中的請柬不是這場典禮的……<hex:02100103>請再確認一下時間。
-32,TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_231,可以在道具說明中查看<hex:02280BFF05>Item<hex:F221FB0103>的有效日期。
-33,TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_232,會場每隔2小時（地球時間）可供包場一次，<hex:02100103>因此無法提前入場。
-34,TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_233,到了請柬上記載的開場時間後才能入場，<hex:02100103>敬請諒解。
-35,TEXT_WARPWEDDINGPLACEDESK_Q2_250,要進入久遠聖堂嗎？
-36,TEXT_WARPWEDDINGPLACEDESK_A2_251,是
-37,TEXT_WARPWEDDINGPLACEDESK_A2_252,否
-38,TEXT_WARPWEDDINGPLACEDESK_SYSTEM_260,無法進入會場。<hex:02100103>永結同心典禮已結束。
-39,TEXT_WARPWEDDINGPLACEDESK_SYSTEM_270,發生意外錯誤，無法進行移動。
-40,TEXT_WARPWEDDINGPLACEDESK_ETOINELLE_000_290,開場時間已過，請抓緊時間入場。<hex:02100103>如有急事，可在典禮中途退場……
+0,"TEXT_WARPWEDDINGPLACEDESK_ETOINELLE_000_000","You stand before the Ivory Chapel, a sacred place wherein two souls may be joined in the sight of gods and men. How might I assist you?"
+1,"TEXT_WARPWEDDINGPLACEDESK_ETOINELLE_000_001","You are <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, are you not? If you are here to make arrangements for your ceremony, Raitmeaux will be able to assist you. You will find him inside the Ivory Chapel."
+2,"TEXT_WARPWEDDINGPLACEDESK_ETOINELLE_000_002","You are <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, are you not? How might I assist you this day?"
+3,"TEXT_WARPWEDDINGPLACEDESK_Q1_000_020","What would you like to do?"
+4,"TEXT_WARPWEDDINGPLACEDESK_A1_000_021","Attend a Ceremony of Eternal Bonding."
+5,"TEXT_WARPWEDDINGPLACEDESK_A1_000_022","Learn about the Ceremony of Eternal Bonding."
+6,"TEXT_WARPWEDDINGPLACEDESK_A1_000_023","Ask about things a guest should know."
+7,"TEXT_WARPWEDDINGPLACEDESK_A1_000_024","Ask about postponement."
+8,"TEXT_WARPWEDDINGPLACEDESK_A1_000_025","Nothing."
+9,"TEXT_WARPWEDDINGPLACEDESK_ETOINELLE_000_100","The Ceremony of Eternal Bonding is a sacred ritual by which two souls form an everlasting spiritual union."
+10,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_101","The Ceremony of Eternal Bonding is an optional service available via the online store."
+11,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_102","Couples who wish to be joined in the ceremony are required to make a reservation in advance."
+12,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_103","Each reservation is for a two-hour block (Earth time)."
+13,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_104","Guests may attend the ceremony by presenting their invitations to Etoinelle at the scheduled time."
+14,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_105","Assuming that the ceremony is still in progress, guests may arrive at any time."
+15,"TEXT_WARPWEDDINGPLACEDESK_ETOINELLE_000_120","As a ceremony guest, it would behoove you to be aware of certain details."
+16,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_121","Upon declaring yourself to Etoinelle, you will be shown to a room to await the ceremony."
+17,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_122","After doors open, your hosts have a total of 40 minutes (Earth time) to prepare for the ceremony. Please be warned, however, that they may choose to begin earlier."
+18,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_123","When the hosts have finalized their ceremony plan, you and your fellow guests will be ushered to the ceremony hall. There, another attendant will be on hand to provide assistance."
+19,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_124","As a guest, you may appear in cutscenes during the course of the ceremony. As such, please ensure that your appearance is as you desire ahead of time. You may help to expedite the proceedings by communicating your readiness to the couple."
+20,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_125","The ceremony will proceed as follows:"
+21,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_126","Firstly, the couple will make their entrance and say their vows. This is followed by the blessing and exchange of rings. Last comes the reception, during which the couple and their guests may mingle with one another."
+22,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_127","The ceremony will require approximately one to two hours (Earth time) from start to finish, and guests may freely move about throughout the proceedings."
+23,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_140","The ceremony may be postponed due to unforeseen circumstances."
+24,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_141","Should this happen, your invitation will automatically be removed from your inventory."
+25,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_142","The hosts will be required to reschedule their ceremony and send out a new set of invitations."
+26,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_143","Please wait to hear word from them regarding a new date and time."
+27,"TEXT_WARPWEDDINGPLACEDESK_ETOINELLE_000_160","The blessings of the Twelve be upon you."
+28,"TEXT_WARPWEDDINGPLACEDESK_ETOINELLE_000_200","I see you possess an invitation to the ceremony presently being held. If it please you, I will show you inside the Ivory Chapel."
+29,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_201","As a guest, you may appear in cutscenes during the course of the ceremony. As such, please ensure that your appearance is as you desire ahead of time."
+30,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_202","The ceremony proper commences no later than 40 minutes after doors open. Detailed information may be had from attendees within the venue."
+31,"TEXT_WARPWEDDINGPLACEDESK_ETOINELLE_000_230","...Hm? It appears your invitation is for another ceremony. Might I ask you to return here at the specified time?"
+32,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_231","The scheduled time for each ceremony can be verified by examining the invitation in your inventory."
+33,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_232","Reservations are made for two-hour blocks (Earth time)."
+34,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_233","You may not enter before the scheduled date and time."
+35,"TEXT_WARPWEDDINGPLACEDESK_Q2_250","Proceed to the Ivory Chapel?"
+36,"TEXT_WARPWEDDINGPLACEDESK_A2_251","Yes"
+37,"TEXT_WARPWEDDINGPLACEDESK_A2_252","No"
+38,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_260","Could not change areas. The ceremony to which you were invited has already concluded. "
+39,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_270","Could not change areas. An error has occurred."
+40,"TEXT_WARPWEDDINGPLACEDESK_ETOINELLE_000_290","The ceremony will commence at any moment, so please hurry inside."

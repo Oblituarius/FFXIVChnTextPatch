@@ -2,71 +2,71 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_STMBDZ424_02747_SEQ_00,弓束官邸的魚種想拜託人傳話。
-1,TEXT_STMBDZ424_02747_SEQ_01,
-2,TEXT_STMBDZ424_02747_SEQ_02,
-3,TEXT_STMBDZ424_02747_SEQ_03,
-4,TEXT_STMBDZ424_02747_SEQ_04,
-5,TEXT_STMBDZ424_02747_SEQ_05,
-6,TEXT_STMBDZ424_02747_SEQ_06,
-7,TEXT_STMBDZ424_02747_SEQ_07,
-8,TEXT_STMBDZ424_02747_SEQ_08,
-9,TEXT_STMBDZ424_02747_SEQ_09,
-10,TEXT_STMBDZ424_02747_SEQ_10,
-11,TEXT_STMBDZ424_02747_SEQ_11,
-12,TEXT_STMBDZ424_02747_SEQ_12,
-13,TEXT_STMBDZ424_02747_SEQ_13,
-14,TEXT_STMBDZ424_02747_SEQ_14,
-15,TEXT_STMBDZ424_02747_SEQ_15,
-16,TEXT_STMBDZ424_02747_SEQ_16,
-17,TEXT_STMBDZ424_02747_SEQ_17,
-18,TEXT_STMBDZ424_02747_SEQ_18,
-19,TEXT_STMBDZ424_02747_SEQ_19,
-20,TEXT_STMBDZ424_02747_SEQ_20,
-21,TEXT_STMBDZ424_02747_SEQ_21,
-22,TEXT_STMBDZ424_02747_SEQ_22,
-23,TEXT_STMBDZ424_02747_SEQ_23,
-24,TEXT_STMBDZ424_02747_TODO_00,和山陰對話
-25,TEXT_STMBDZ424_02747_TODO_01,和魚種對話
-26,TEXT_STMBDZ424_02747_TODO_02,和山陰對話
-27,TEXT_STMBDZ424_02747_TODO_03,
-28,TEXT_STMBDZ424_02747_TODO_04,
-29,TEXT_STMBDZ424_02747_TODO_05,
-30,TEXT_STMBDZ424_02747_TODO_06,
-31,TEXT_STMBDZ424_02747_TODO_07,
-32,TEXT_STMBDZ424_02747_TODO_08,
-33,TEXT_STMBDZ424_02747_TODO_09,
-34,TEXT_STMBDZ424_02747_TODO_10,
-35,TEXT_STMBDZ424_02747_TODO_11,
-36,TEXT_STMBDZ424_02747_TODO_12,
-37,TEXT_STMBDZ424_02747_TODO_13,
-38,TEXT_STMBDZ424_02747_TODO_14,
-39,TEXT_STMBDZ424_02747_TODO_15,
-40,TEXT_STMBDZ424_02747_TODO_16,
-41,TEXT_STMBDZ424_02747_TODO_17,
-42,TEXT_STMBDZ424_02747_TODO_18,
-43,TEXT_STMBDZ424_02747_TODO_19,
-44,TEXT_STMBDZ424_02747_TODO_20,
-45,TEXT_STMBDZ424_02747_TODO_21,
-46,TEXT_STMBDZ424_02747_TODO_22,
-47,TEXT_STMBDZ424_02747_TODO_23,
-48,TEXT_STMBDZ424_02747_GYOSHU_000_000,你是位旅行者嗎噗？<hex:02100103>可以的話能拜託你幫忙傳話嗎噗？
-49,TEXT_STMBDZ424_02747_GYOSHU_000_001,茨菰村有個叫山陰的人，<hex:02100103>我想讓你告訴他他女兒在這裡噗……
-50,TEXT_STMBDZ424_02747_GYOSHU_000_002,茨菰村有個叫山陰的人，<hex:02100103>我想讓你告訴他他女兒在這裡噗……
-51,TEXT_STMBDZ424_02747_YAMAKAGE_000_010,你、你說什麼？！<hex:02100103>魚種真的說了我女兒在它那？！
-52,TEXT_STMBDZ424_02747_YAMAKAGE_000_011,我還以為它是個爽快的好傢伙，<hex:02100103>還自認為我們相處得不錯，<hex:02100103>沒想到它會誘拐小孩……
-53,TEXT_STMBDZ424_02747_YAMAKAGE_000_012,它有什麼要求……要我把身上所有的錢都給它嗎？<hex:02100103>雖然我幾乎沒什麼錢……
-54,TEXT_STMBDZ424_02747_YAMAKAGE_000_013,你既然會被它拜託傳話，<hex:02100103>肯定是受到了鯰魚精們的信任吧？
-55,TEXT_STMBDZ424_02747_YAMAKAGE_000_014,我會想辦法籌錢的，<hex:02100103>你能去跟魚種說，讓它給我一點時間嗎？<hex:02100103>這關係到我女兒的性命，拜託了！
-56,TEXT_STMBDZ424_02747_YAMAKAGE_000_015,我會想辦法籌錢，<hex:02100103>你能去跟魚種說，讓它給我一點時間嗎？<hex:02100103>這關係到我女兒的性命，拜託了！
-57,TEXT_STMBDZ424_02747_GYOSHU_000_020,要去籌錢所以給他點時間噗？<hex:02100103>他到底在說什麼……魚魚魚？<hex:02100103>難道是我沒說明白噗？
-58,TEXT_STMBDZ424_02747_GYOSHU_000_021,是這樣的，我和同伴去捕魚的時候，<hex:02100103>有個大哭著的女孩坐在小船上被水流沖了過來噗……<hex:02100103>我問過她之後，才知道是山陰先生的孩子噗。
-59,TEXT_STMBDZ424_02747_GYOSHU_000_022,她現在正在和我的同伴開心地玩耍，<hex:02100103>我只是想讓他過來接女兒噗！
-60,TEXT_STMBDZ424_02747_GYOSHU_000_023,抱歉，你能再去跟山陰先生<hex:02100103>複述一遍我剛才說的話嗎噗？<hex:02100103>告訴他我和他女兒一起等他過來！
-61,TEXT_STMBDZ424_02747_GYOSHU_000_024,抱歉，你能再去跟山陰先生<hex:02100103>複述一遍我剛才說的話嗎噗？<hex:02100103>告訴他我和他女兒一起等他過來！
-62,TEXT_STMBDZ424_02747_YAMAKAGE_000_030,怎、怎麼樣了？<hex:02100103>魚種那傢伙願意等一等嗎？
-63,TEXT_STMBDZ424_02747_YAMAKAGE_000_031,什、什麼啊，原來是這樣……終於安心了！<hex:02100103>那傢伙說話大喘氣也是常事了，<hex:02100103>只是我因為女兒不見了而驚慌失措誤會了。
-64,TEXT_STMBDZ424_02747_YAMAKAGE_000_032,魚種有時候會來村子裡賣東西，<hex:02100103>它來的時候也時常跟孩子們一起玩，是個爽朗的不錯的傢伙。<hex:02100103>孩子們也很喜歡它的樣子。
-65,TEXT_STMBDZ424_02747_YAMAKAGE_000_033,懷疑了它真是對不住……<hex:02100103>那我去接女兒的時候，<hex:02100103>就帶點茶葉過去作為賠禮吧。
-66,TEXT_STMBDZ424_02747_YAMAKAGE_000_034,不好意思啊，把你也卷了進來。<hex:02100103>謝謝你了！
-67,TEXT_STMBDZ424_02747_YAMAKAGE_000_035,（★未使用／削除予定★）
+0,"TEXT_STMBDZ424_02747_SEQ_00","Gyoshu of Yuzuka Manor has a message for one who walks in the world of man."
+1,"TEXT_STMBDZ424_02747_SEQ_01",""
+2,"TEXT_STMBDZ424_02747_SEQ_02",""
+3,"TEXT_STMBDZ424_02747_SEQ_03",""
+4,"TEXT_STMBDZ424_02747_SEQ_04",""
+5,"TEXT_STMBDZ424_02747_SEQ_05",""
+6,"TEXT_STMBDZ424_02747_SEQ_06",""
+7,"TEXT_STMBDZ424_02747_SEQ_07",""
+8,"TEXT_STMBDZ424_02747_SEQ_08",""
+9,"TEXT_STMBDZ424_02747_SEQ_09",""
+10,"TEXT_STMBDZ424_02747_SEQ_10",""
+11,"TEXT_STMBDZ424_02747_SEQ_11",""
+12,"TEXT_STMBDZ424_02747_SEQ_12",""
+13,"TEXT_STMBDZ424_02747_SEQ_13",""
+14,"TEXT_STMBDZ424_02747_SEQ_14",""
+15,"TEXT_STMBDZ424_02747_SEQ_15",""
+16,"TEXT_STMBDZ424_02747_SEQ_16",""
+17,"TEXT_STMBDZ424_02747_SEQ_17",""
+18,"TEXT_STMBDZ424_02747_SEQ_18",""
+19,"TEXT_STMBDZ424_02747_SEQ_19",""
+20,"TEXT_STMBDZ424_02747_SEQ_20",""
+21,"TEXT_STMBDZ424_02747_SEQ_21",""
+22,"TEXT_STMBDZ424_02747_SEQ_22",""
+23,"TEXT_STMBDZ424_02747_SEQ_23",""
+24,"TEXT_STMBDZ424_02747_TODO_00","Speak with Yamakage."
+25,"TEXT_STMBDZ424_02747_TODO_01","Speak with Gyoshu."
+26,"TEXT_STMBDZ424_02747_TODO_02","Speak with Yamakage."
+27,"TEXT_STMBDZ424_02747_TODO_03",""
+28,"TEXT_STMBDZ424_02747_TODO_04",""
+29,"TEXT_STMBDZ424_02747_TODO_05",""
+30,"TEXT_STMBDZ424_02747_TODO_06",""
+31,"TEXT_STMBDZ424_02747_TODO_07",""
+32,"TEXT_STMBDZ424_02747_TODO_08",""
+33,"TEXT_STMBDZ424_02747_TODO_09",""
+34,"TEXT_STMBDZ424_02747_TODO_10",""
+35,"TEXT_STMBDZ424_02747_TODO_11",""
+36,"TEXT_STMBDZ424_02747_TODO_12",""
+37,"TEXT_STMBDZ424_02747_TODO_13",""
+38,"TEXT_STMBDZ424_02747_TODO_14",""
+39,"TEXT_STMBDZ424_02747_TODO_15",""
+40,"TEXT_STMBDZ424_02747_TODO_16",""
+41,"TEXT_STMBDZ424_02747_TODO_17",""
+42,"TEXT_STMBDZ424_02747_TODO_18",""
+43,"TEXT_STMBDZ424_02747_TODO_19",""
+44,"TEXT_STMBDZ424_02747_TODO_20",""
+45,"TEXT_STMBDZ424_02747_TODO_21",""
+46,"TEXT_STMBDZ424_02747_TODO_22",""
+47,"TEXT_STMBDZ424_02747_TODO_23",""
+48,"TEXT_STMBDZ424_02747_GYOSHU_000_000","Are you an adventurer in need of a job? If so, I've a small one for you. Yes, yes."
+49,"TEXT_STMBDZ424_02747_GYOSHU_000_001","There is a man in Namai by the name of Yamakage. I wish for you to find him and pass along this message─I have your daughter."
+50,"TEXT_STMBDZ424_02747_GYOSHU_000_002","Find Yamakage in Namai and pass along this message─I have your daughter."
+51,"TEXT_STMBDZ424_02747_YAMAKAGE_000_010","What!? My daughter? Gyoshu said that? Are you sure!?"
+52,"TEXT_STMBDZ424_02747_YAMAKAGE_000_011","I always thought him to be a good Namazu. Kind and jovial. I... I named him among my friends. Never would I have thought him capable of kidnapping a child!"
+53,"TEXT_STMBDZ424_02747_YAMAKAGE_000_012","Tell me, what are his demands? Hm? All the gil that I have? If it is coin he seeks, there is not much I am able to muster."
+54,"TEXT_STMBDZ424_02747_YAMAKAGE_000_013","Please, take him a message from me in turn. If the Namazu see fit to ask these jobs of you, they must trust you some measure."
+55,"TEXT_STMBDZ424_02747_YAMAKAGE_000_014","Tell him that I need time. If he grants me just some suns more, I will gather what coin I can. Will you tell Gyoshu that? Please, the life of my daughter hangs in the balance."
+56,"TEXT_STMBDZ424_02747_YAMAKAGE_000_015","Go and tell Gyoshu that I need time. If he grants me just some suns more, I will gather what coin I can. Please, the life of my daughter hangs in the balance."
+57,"TEXT_STMBDZ424_02747_GYOSHU_000_020","Time to gather more coin? I do not even... Whatever are you talking about? My apologies. It seems that my explanation was lacking."
+58,"TEXT_STMBDZ424_02747_GYOSHU_000_021","You see, I was out fishing with some friends earlier, and a young girl in tears floated upon us in a small vessel. We asked her name, and she told us she was the daughter of Yamakage. Yes, yes. And so we brought her in and sent word to her father."
+59,"TEXT_STMBDZ424_02747_GYOSHU_000_022","She is off playing with our younglings as we speak, and very much enjoying herself. Quite happy, quite joyous."
+60,"TEXT_STMBDZ424_02747_GYOSHU_000_023","I am sorry for the trouble, but would you go speak with Yamakage once more? Tell him all I have told you, and that his daughter merely waits here for him until he arrives."
+61,"TEXT_STMBDZ424_02747_GYOSHU_000_024","I am sorry for the trouble, but would you go speak with Yamakage once more? Tell him all I have told you, and that his daughter merely waits here for him until he arrives."
+62,"TEXT_STMBDZ424_02747_YAMAKAGE_000_030","What did Gyoshu say? Will he give me the time I need? Will he spare my little girl?"
+63,"TEXT_STMBDZ424_02747_YAMAKAGE_000_031","Not kidnapped? She was adrift and he saved her? Why did he not say so in the first place!? I've been worried sick that I may never see my daughter again! That fool's messages are always wanting for words."
+64,"TEXT_STMBDZ424_02747_YAMAKAGE_000_032","From time to time, he comes to Namai to peddle his wares. He has always taken the time to play with our children. And for it, our children have always taken a liking to him."
+65,"TEXT_STMBDZ424_02747_YAMAKAGE_000_033","I am ashamed to have doubted him. And to have thought him capable of such a horror. I will go to claim my daughter, and to offer my apologies. Mayhap I will take him some fine tea to drown this misunderstanding."
+66,"TEXT_STMBDZ424_02747_YAMAKAGE_000_034","Forgive us both for getting you mixed up in this. But thank you nonetheless!"
+67,"TEXT_STMBDZ424_02747_YAMAKAGE_000_035",""

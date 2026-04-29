@@ -1,87 +1,87 @@
-﻿key,0
-#,Name
-offset,0
-int32,str
-0,
-1,整體
-2,迷宮探險
-3,討伐殲滅戰
-4,大型任務
-5,怪物狩獵
-6,尋寶
-7,整體
-8,排名
-9,競技場
-10,紛爭前線
-11,烈羽爭鋒
-12,整體
-13,戰鬥菁英
-14,魔法導師
-15,能工巧匠
-16,大地使者
-17,評價
-18,金碟遊樂場
-19,整體
-20,貨幣
-21,分解
-22,收藏品
-23,魔晶石
-24,刻木匠
-25,鍛鐵匠
-26,鑄甲匠
-27,雕金匠
-28,製革匠
-29,裁衣匠
-30,煉金術士
-31,烹調師
-32,採礦工
-33,園藝工
-34,捕魚人
-35,整體
-36,理符任務
-37,友好部族任務
-38,季節活動
-39,探索筆記
-40,拉諾西亞
-41,黑衣森林
-42,薩納蘭
-43,庫爾札斯
-44,摩杜納
-45,阿巴拉提亞
-46,龍堡
-47,基拉巴尼亞
-48,奧薩德
-49,副本任務
-50,整體
-51,黑渦團
-52,雙蛇黨
-53,恆輝隊
-54,戰鬥
-55,貨幣
-56,採集
-57,任務
-58,季節活動
-59,迷宮
-60,探索
-61,大國防聯軍
-62,上古武器
-63,黃道武器
-64,元靈武器
-65,深層迷宮聚魔裝備
-66,禁地兵裝
-67,諾弗蘭特
-68,義軍武器
-69,全職業共通
-70,天鋼工具
-71,特殊場景探索
-72,北洋地域
-73,伊爾薩巴德大陸
-74,其他
-75,曼德維爾武器
-76,主線任務
-77,職業任務
-78,莫雯卓越工具
-79,尤卡圖拉爾
-80,薩卡圖拉爾
-81,幻境武器
-82,宇宙工具
+﻿key,0,1,2,3,4
+#,Name,AchievementKind,ShowComplete,HideCategory,Order
+offset,0,4,6,6,5
+int32,str,AchievementKind,bit&01,bit&02,byte
+0,"",0,True,False,0
+1,"General",1,True,False,1
+2,"Dungeons",1,True,False,2
+3,"Trials",1,True,False,3
+4,"Raids",1,True,False,4
+5,"The Hunt",1,True,False,5
+6,"Treasure Hunt",1,True,False,6
+7,"General",2,True,False,1
+8,"Ranking",2,True,True,2
+9,"The Wolves' Den",2,True,False,3
+10,"Frontline",2,True,False,4
+11,"Rival Wings",2,True,False,5
+12,"General",3,True,False,1
+13,"Disciples of War",3,True,False,2
+14,"Disciples of Magic",3,True,False,3
+15,"Disciples of the Hand",3,True,False,4
+16,"Disciples of the Land",3,True,False,5
+17,"Commendation",3,True,False,6
+18,"Gold Saucer",3,True,False,7
+19,"General",4,True,False,1
+20,"Currency",4,True,False,2
+21,"Desynthesis",4,True,False,3
+22,"Collectables",4,True,False,4
+23,"Materia",4,True,False,5
+24,"Carpenter",5,True,False,2
+25,"Blacksmith",5,True,False,3
+26,"Armorer",5,True,False,4
+27,"Goldsmith",5,True,False,5
+28,"Leatherworker",5,True,False,6
+29,"Weaver",5,True,False,7
+30,"Alchemist",5,True,False,8
+31,"Culinarian",5,True,False,9
+32,"Miner",5,True,False,10
+33,"Botanist",5,True,False,11
+34,"Fisher",5,True,False,12
+35,"General",8,True,False,1
+36,"Levequests",8,True,False,4
+37,"Allied Society Quests",8,True,False,5
+38,"Seasonal Events",8,True,True,99
+39,"Sightseeing Log",11,True,False,1
+40,"La Noscea",11,True,False,2
+41,"The Black Shroud",11,True,False,3
+42,"Thanalan",11,True,False,4
+43,"Coerthas",11,True,False,5
+44,"Mor Dhona",11,True,False,6
+45,"Abalathia's Spine",11,True,False,7
+46,"Dravania",11,True,False,8
+47,"Gyr Abania",11,True,False,9
+48,"Othard",11,True,False,10
+49,"Duty",11,True,False,100
+50,"General",12,True,False,1
+51,"Maelstrom",12,True,False,2
+52,"Order of the Twin Adder",12,True,False,3
+53,"Immortal Flames",12,True,False,4
+54,"Battle",13,True,False,1
+55,"Currency",13,True,False,2
+56,"Gathering",13,True,False,3
+57,"Quests",13,True,False,4
+58,"Seasonal Events",13,True,False,5
+59,"Dungeons",13,True,False,6
+60,"Exploration",13,True,False,7
+61,"Grand Company",13,True,False,8
+62,"Relic Weapons",4,True,False,6
+63,"Zodiac Weapons",4,True,False,7
+64,"Anima Weapons",4,True,False,8
+65,"Deep Dungeon Weapons",4,True,False,9
+66,"Eureka Weapons",4,True,False,10
+67,"Norvrandt",11,True,False,11
+68,"Resistance Weapons",4,True,False,11
+69,"All Disciplines",5,True,False,1
+70,"Skysteel Tools",4,True,False,51
+71,"Field Operations",1,True,False,7
+72,"The Northern Empty",11,True,False,12
+73,"Ilsabard",11,True,False,13
+74,"Other",11,True,False,99
+75,"Manderville Weapons",4,True,False,12
+76,"Main Scenario",8,True,False,2
+77,"Job/Role Quests",8,True,False,3
+78,"Splendorous Tools",4,True,False,52
+79,"Yok Tural",11,True,False,14
+80,"Xak Tural",11,True,False,15
+81,"Phantom Weapons",4,True,False,13
+82,"Cosmic Tools",4,True,False,53

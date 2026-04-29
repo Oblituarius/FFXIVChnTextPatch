@@ -2,18 +2,18 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_REGYOK6ICUVLOSINN_00868_OVLI_000_000,這位旅行者，歡迎你的到來。<hex:02100103>有什麼想知道的都可以問我，我知無不言。
-1,TEXT_REGYOK6ICUVLOSINN_00868_OVLI_000_001,我收到消息說豔翼蛇鳥被釋放出來了。<hex:02100103>如果你有什麼想問的，請長話短說。
-2,TEXT_REGYOK6ICUVLOSINN_00868_OVLI_000_002,豔翼蛇鳥已經被順利討伐了啊！<hex:02100103>我之前也呼籲旅行商人們自行避難，<hex:02100103>好在沒出什麼事，我也就放心了。
-3,TEXT_REGYOK6ICUVLOSINN_00868_OVLI_000_003,新任聯王已經定下來了啊。<hex:02100103>從圖萊尤拉過來做交易的人們<hex:02100103>似乎也都很在意這個國家的未來啊。
-4,TEXT_REGYOK6ICUVLOSINN_00868_OVLI_000_004,武王大人的幫手，歡迎你的到來。<hex:02100103>有什麼想知道的都可以問我，我知無不言。
-5,TEXT_REGYOK6ICUVLOSINN_00868_Q1_000_000,想了解什麼？
-6,TEXT_REGYOK6ICUVLOSINN_00868_A1_000_001,你是做什麼的？
-7,TEXT_REGYOK6ICUVLOSINN_00868_A1_000_002,這裡是什麼地方？
-8,TEXT_REGYOK6ICUVLOSINN_00868_A1_000_003,取消
-9,TEXT_REGYOK6ICUVLOSINN_00868_OVLI_000_010,我以前是一名商人，現在則是在這裡做嚮導。<hex:02100103>因為之前搬重物的時候傷到了腰……
-10,TEXT_REGYOK6ICUVLOSINN_00868_OVLI_000_011,佩魯佩魯族通過做生意來讓所有人獲得幸福。<hex:02100103>生意讓大家變得富足，<hex:02100103>最近都過得很悠然自得。
-11,TEXT_REGYOK6ICUVLOSINN_00868_OVLI_000_012,不過考慮到有豔翼蛇鳥的威脅……<hex:02100103>就不能再在這裡悠哉悠哉了。
-12,TEXT_REGYOK6ICUVLOSINN_00868_OVLI_000_020,這裡是伊庫烏洛商旅館。<hex:02100103>是從奧闊帕恰山外面來的商人及其傭兵們<hex:02100103>在跟佩魯佩魯族做生意期間休息的地方。
-13,TEXT_REGYOK6ICUVLOSINN_00868_OVLI_000_021,在他們當中極具人氣的要數溫泉聖地帕納克佩魯休養所了。<hex:02100103>那裡的湯泉堪稱奇蹟，能緩解我腰部的劇痛……<hex:02100103>你如果感興趣的話也可以去試試看啊。
-14,TEXT_REGYOK6ICUVLOSINN_00868_OVLI_000_022,不過現在豔翼蛇鳥被釋放了出來，<hex:02100103>怕是沒有那個悠閒的心情吧。
+0,"TEXT_REGYOK6ICUVLOSINN_00868_OVLI_000_000","Hey there, friend. Is there something I can do for you?"
+1,"TEXT_REGYOK6ICUVLOSINN_00868_OVLI_000_001","We received word that Valigarmanda's been set free. If there's something you wished to ask, I suggest we keep it brief."
+2,"TEXT_REGYOK6ICUVLOSINN_00868_OVLI_000_002","Have you heard the news? The fell beast Valigarmanda was slain! And for a mercy, there were no casualties to speak of."
+3,"TEXT_REGYOK6ICUVLOSINN_00868_OVLI_000_003","The rite of succession is over, and not one, but <hex:021A020203>two<hex:021A020103> Dawnservants have taken the throne by the sounds of it. I can but wonder what the future holds for Tural."
+4,"TEXT_REGYOK6ICUVLOSINN_00868_OVLI_000_004","Welcome, welcome! Any friend of the Dawnservants is a friend of ours. How can I help you?"
+5,"TEXT_REGYOK6ICUVLOSINN_00868_Q1_000_000","What will you ask?"
+6,"TEXT_REGYOK6ICUVLOSINN_00868_A1_000_001","What do you do here?"
+7,"TEXT_REGYOK6ICUVLOSINN_00868_A1_000_002","What kind of place is this?"
+8,"TEXT_REGYOK6ICUVLOSINN_00868_A1_000_003","Nothing."
+9,"TEXT_REGYOK6ICUVLOSINN_00868_OVLI_000_010","I was a merchant peddling wares, once upon a time, but I hurt my back carrying one too many boxes that were just a <hex:021A020203>little<hex:021A020103> too heavy. Now I mostly serve as a guide to travelers passing through."
+10,"TEXT_REGYOK6ICUVLOSINN_00868_OVLI_000_011","We Pelupelu endeavor to make every trade an amicable one, and spread happiness through our business. You would be hard-pressed to find anyone dissatisfied after dealing with us."
+11,"TEXT_REGYOK6ICUVLOSINN_00868_OVLI_000_012","Of course, with the threat of Valigarmanda looming, business has proven quite difficult of late."
+12,"TEXT_REGYOK6ICUVLOSINN_00868_OVLI_000_020","Merchants and mercenaries often stop here at Icuvlo's Inn to lay their heads before traveling elsewhere."
+13,"TEXT_REGYOK6ICUVLOSINN_00868_OVLI_000_021","I always recommend they spend a day at Panaqpelu Retreat. The hot springs do wonders for my back. If you plan to stay at the inn, you simply must try it."
+14,"TEXT_REGYOK6ICUVLOSINN_00868_OVLI_000_022","I would understand if you didn't, of course. With Valigarmanda free, this is no time to be relaxing."

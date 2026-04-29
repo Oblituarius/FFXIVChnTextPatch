@@ -1,11 +1,11 @@
-﻿key,1
-#,
-offset,0
-int32,str
-0,
-1,號令：戰鬥開始
-2,號令：撤退
-3,號令：撤退解除
-4,號令：極限技
-5,號令熱鍵欄
-6,
+﻿key,0,1,2,3,4
+#,,,,,
+offset,8,0,4,10,11
+int32,uint16,str,int32,byte,bit&01
+0,0,"",0,0,False
+1,0,"Engage",791,2,False
+2,0,"Disengage",792,3,False
+3,0,"Re-engage",793,5,True
+4,0,"Execute Limit Break",794,4,False
+5,0,"Display Order Hotbar",795,1,False
+6,0,"",0,0,False

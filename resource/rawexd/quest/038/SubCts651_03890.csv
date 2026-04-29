@@ -2,128 +2,128 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_SUBCTS651_03890_SEQ_00,聖羅埃勒廣場的艾爾·圖似乎想給龍族送菜餚。
-1,TEXT_SUBCTS651_03890_SEQ_01,
-2,TEXT_SUBCTS651_03890_SEQ_02,
-3,TEXT_SUBCTS651_03890_SEQ_03,
-4,TEXT_SUBCTS651_03890_SEQ_04,
-5,TEXT_SUBCTS651_03890_SEQ_05,
-6,TEXT_SUBCTS651_03890_SEQ_06,
-7,TEXT_SUBCTS651_03890_SEQ_07,
-8,TEXT_SUBCTS651_03890_SEQ_08,
-9,TEXT_SUBCTS651_03890_SEQ_09,
-10,TEXT_SUBCTS651_03890_SEQ_10,
-11,TEXT_SUBCTS651_03890_SEQ_11,
-12,TEXT_SUBCTS651_03890_SEQ_12,
-13,TEXT_SUBCTS651_03890_SEQ_13,
-14,TEXT_SUBCTS651_03890_SEQ_14,
-15,TEXT_SUBCTS651_03890_SEQ_15,
-16,TEXT_SUBCTS651_03890_SEQ_16,
-17,TEXT_SUBCTS651_03890_SEQ_17,
-18,TEXT_SUBCTS651_03890_SEQ_18,
-19,TEXT_SUBCTS651_03890_SEQ_19,
-20,TEXT_SUBCTS651_03890_SEQ_20,
-21,TEXT_SUBCTS651_03890_SEQ_21,
-22,TEXT_SUBCTS651_03890_SEQ_22,
-23,TEXT_SUBCTS651_03890_SEQ_23,
-24,TEXT_SUBCTS651_03890_TODO_00,和阿爾韋迪對話
-25,TEXT_SUBCTS651_03890_TODO_01,在天極白堊宮尋找艾爾·圖
-26,TEXT_SUBCTS651_03890_TODO_02,將<hex:022811FF0A>EventItem<hex:F61E90370103>交給可愛的幼龍
-27,TEXT_SUBCTS651_03890_TODO_03,和聖羅埃勒廣場的艾爾·圖對話
-28,TEXT_SUBCTS651_03890_TODO_04,
-29,TEXT_SUBCTS651_03890_TODO_05,
-30,TEXT_SUBCTS651_03890_TODO_06,
-31,TEXT_SUBCTS651_03890_TODO_07,
-32,TEXT_SUBCTS651_03890_TODO_08,
-33,TEXT_SUBCTS651_03890_TODO_09,
-34,TEXT_SUBCTS651_03890_TODO_10,
-35,TEXT_SUBCTS651_03890_TODO_11,
-36,TEXT_SUBCTS651_03890_TODO_12,
-37,TEXT_SUBCTS651_03890_TODO_13,
-38,TEXT_SUBCTS651_03890_TODO_14,
-39,TEXT_SUBCTS651_03890_TODO_15,
-40,TEXT_SUBCTS651_03890_TODO_16,
-41,TEXT_SUBCTS651_03890_TODO_17,
-42,TEXT_SUBCTS651_03890_TODO_18,
-43,TEXT_SUBCTS651_03890_TODO_19,
-44,TEXT_SUBCTS651_03890_TODO_20,
-45,TEXT_SUBCTS651_03890_TODO_21,
-46,TEXT_SUBCTS651_03890_TODO_22,
-47,TEXT_SUBCTS651_03890_TODO_23,
-48,TEXT_SUBCTS651_03890_EHLLTOU_000_000,我這就把英雄和阿爾韋迪師父幫忙特製的<hex:02100103>「招待龍族用的菜餚」給大家送去。
-49,TEXT_SUBCTS651_03890_EHLLTOU_000_001,翻雲霧海的幼龍們最近都很期待我的到來呢。<hex:02100103>嘿嘿，這也是當然的嘛！
-50,TEXT_SUBCTS651_03890_HAUTDLONG_000_002,嗯，一路順風！
-51,TEXT_SUBCTS651_03890_EHLLTOU_000_003,……唔。<hex:02100103>身體又熱又痛……<hex:02100103>但是，一定得讓大家認可才行！
-52,TEXT_SUBCTS651_03890_HAUTDLONG_000_004,艾爾·圖？
-53,TEXT_SUBCTS651_03890_EHLLTOU_000_005,沒、沒事的啦！<hex:02100103>我去去就回——！
-54,TEXT_SUBCTS651_03890_HAUTDLONG_000_006,英雄閣下，艾爾·圖好慢啊……<hex:02100103>這個時間它應該已經回來了才對。
-55,TEXT_SUBCTS651_03890_HAUTDLONG_000_007,難道說出了什麼事情……？<hex:02100103>之前它的樣子看起來也怪怪的……
-56,TEXT_SUBCTS651_03890_HAUTDLONG_000_008,對了，也許阿爾韋迪先生會知道些什麼呢！<hex:02100103>英雄閣下，能拜託你去問一下嗎？<hex:02100103>我不太擅長這種事情……
-57,TEXT_SUBCTS651_03890_HAUTDLONG_000_009,我就在這裡原地等著吧，省得和艾爾·圖走岔了！
-58,TEXT_SUBCTS651_03890_SYSTEM_000_010,進行任務時無法進行老主顧交易。<hex:02100103>如需進行交易，需要完成任務「龍與人的第一步」，敬請注意。
-59,TEXT_SUBCTS651_03890_HAUTDLONG_000_020,如果有什麼我能做的事情就好了……
-60,TEXT_SUBCTS651_03890_ARVIDE_000_030,喲，英雄閣下，怎麼了？
-61,TEXT_SUBCTS651_03890_ARVIDE_000_031,小不點拿走料理後就沒再露面了，<hex:02100103>難道還沒有回來嗎？
-62,TEXT_SUBCTS651_03890_ARVIDE_000_032,看它那麼努力，我還特地做了特製工具來獎勵它呢……<hex:02100103>它到底去哪裡閒逛……閒飛了啊？
-63,TEXT_SUBCTS651_03890_ARVIDE_000_033,不過，小不點畢竟是龍，<hex:02100103>肯定有我們不了解的規矩之類的，<hex:02100103>偶爾回來晚一些也不奇怪吧？
-64,TEXT_SUBCTS651_03890_ARVIDE_000_034,英雄閣下要是去找艾爾·圖的話，<hex:02100103>就帶上這個<hex:022811FF0A>EventItem<hex:F61E90370103>吧。<hex:02100103>小不點看到這個，一定會馬上飛回來的。
-65,TEXT_SUBCTS651_03890_ARVIDE_000_035,艾爾·圖說過和自己關係很好的幼龍們<hex:02100103>在翻雲霧海的「天極白堊宮」。<hex:02100103>要過去看看嗎？
-66,TEXT_SUBCTS651_03890_ARVIDE_000_040,翻雲霧海的「天極白堊宮」對於我這個工匠來說過於危險了。<hex:02100103>就拜託你了，英雄閣下。
-67,TEXT_SUBCTS651_03890_DRAGONET03890_000_050,哇，有人類！<hex:02100103>而且還是打敗了尼德霍格大人的「英雄」？！
-68,TEXT_SUBCTS651_03890_DRAGONET03890_000_051,我聽艾爾·圖說了很多關於你的事哦！<hex:02100103>你是教它學習「製作」的師父吧？
-69,TEXT_SUBCTS651_03890_DRAGONET03890_000_052,原來是這樣啊，你在找艾爾·圖對吧？<hex:02100103>它剛剛還來過這裡，把一種叫「菜餚」的美味食物分給了大家！
-70,TEXT_SUBCTS651_03890_DRAGONET03890_000_053,但是……它現在可能無法跟人類見面。<hex:02100103>因為……發生了不得了的事情……
-71,TEXT_SUBCTS651_03890_DRAGONET03890_000_054,不過，如果要把這個「<hex:022811FF0A>EventItem<hex:F61E90370103>」交給它的話，<hex:02100103>我可以代勞哦。
-72,TEXT_SUBCTS651_03890_DRAGONET03890_000_055,如果你肯在這裡等一段時間的話，<hex:02100103>我應該可以帶艾爾·圖過來。
-73,TEXT_SUBCTS651_03890_DRAGONET03890_000_060,那麼，我就先收下<hex:022811FF0A>EventItem<hex:F61E90370103>了。
-74,TEXT_SUBCTS651_03890_DRAGONET03890_000_061,呼，這就是人類的工具嗎。<hex:02100103>啊，我可不會偷偷拿走哦！一定會好好地轉交給艾爾·圖的！
-75,TEXT_SUBCTS651_03890_DRAGONET03890_000_062,我順便去試試，看能不能把艾爾·圖叫過來，<hex:02100103>可能會花上一點時間，請你稍等一下哦。
-76,TEXT_SUBCTS651_03890_HAUTDLONG_000_063,(-奧迪隆的聲音-)英雄閣下——！！
-77,TEXT_SUBCTS651_03890_ARVIDE_000_064,不好意思，英雄閣下……<hex:02100103>奧迪隆他不聽勸阻，一定要來接艾爾·圖！
-78,TEXT_SUBCTS651_03890_ARVIDE_000_065,沒想到他直接拜託家裡人安排好了飛空艇！<hex:02100103>真是的，這位少爺比我想像的更有氣魄呢！
-79,TEXT_SUBCTS651_03890_HAUTDLONG_000_066,英雄閣下！艾爾·圖呢？！
-80,TEXT_SUBCTS651_03890_HAUTDLONG_000_067,怎麼會……不得了的事情是指……
-81,TEXT_SUBCTS651_03890_HAUTDLONG_000_068,艾爾·圖——！！<hex:02100103>你沒事吧————？！<hex:02100103>快點回來啊————！！
-82,TEXT_SUBCTS651_03890_EHLLTOU_000_069,(-艾爾·圖的聲音-)在喊我嗎？
-83,TEXT_SUBCTS651_03890_HAUTDLONG_000_070,咦咦？！<hex:02100103>那個帽子和圍巾……難、難道說，是艾爾·圖？！
-84,TEXT_SUBCTS651_03890_EHLLTOU_000_071,嗯嗯，是我喲！<hex:02100103>龍是會隨著心境成長和環境變化而改變姿態的生物……<hex:02100103>也就是說……我進化了哦！
-85,TEXT_SUBCTS651_03890_EHLLTOU_000_072,最近總覺得身體不太舒服，一定是進化的前兆吧。
-86,TEXT_SUBCTS651_03890_HAUTDLONG_000_073,啊，太好了……！
-87,TEXT_SUBCTS651_03890_EHLLTOU_000_074,英雄、阿爾韋迪師父，<hex:02100103>謝謝你們給我做的新工具！
-88,TEXT_SUBCTS651_03890_EHLLTOU_000_075,我現在變得比以前大了，手也更靈巧了，<hex:02100103>今後一定可以學習更多「製作」了！
-89,TEXT_SUBCTS651_03890_DRAGONET03890_000_076,大家完全沒有見過這樣的進化呢，<hex:02100103>所以全都圍上去提問啦。
-90,TEXT_SUBCTS651_03890_ARVIDE_000_077,不得了的事情是指這個啊。<hex:02100103>真是的，差點被你嚇死……
-91,TEXT_SUBCTS651_03890_EHLLTOU_000_078,哼哼！<hex:02100103>我應該是第一隻適應了人類文化而進化的龍族吧！
-92,TEXT_SUBCTS651_03890_EHLLTOU_000_079,不，也許……在龍詩戰爭前，也存在著這種龍族。
-93,TEXT_SUBCTS651_03890_HAUTDLONG_000_080,嗯，等我和其他龍族也搞好關係後，我會問問它們的！
-94,TEXT_SUBCTS651_03890_HAUTDLONG_000_081,可以的話……你能不能跟我做朋友呢？
-95,TEXT_SUBCTS651_03890_DRAGONET03890_000_082,唔——嗯，好呀！
-96,TEXT_SUBCTS651_03890_DRAGONET03890_000_083,我聽艾爾·圖說了很多事呢。<hex:02100103>它說喜歡「製作」的人類一點也不可怕，<hex:02100103>是很有研究精神的、有意思的生物。
-97,TEXT_SUBCTS651_03890_DRAGONET03890_000_084,今天看到為了艾爾·圖而來的你們，我終於明白了！
-98,TEXT_SUBCTS651_03890_DRAGONET03890_000_085,我也想去人類的聚集地……交很多朋友，試著學習「製作」！
-99,TEXT_SUBCTS651_03890_HAUTDLONG_000_086,太好啦！
-100,TEXT_SUBCTS651_03890_EHLLTOU_000_087,嘿嘿嘿嘿！挺能幹的嘛，奧迪隆！<hex:02100103>這可是人類與龍族文化交融的一大進步呢！
-101,TEXT_SUBCTS651_03890_EHLLTOU_000_088,（★未使用／削除予定★）
-102,TEXT_SUBCTS651_03890_DRAGONET03890_000_088,那我先去和其他幼龍們也說一聲！<hex:02100103>等一下帶大家一起去玩！
-103,TEXT_SUBCTS651_03890_EHLLTOU_000_089,我們快點回蒼天街吧，要為迎接大家做好準備才行！<hex:02100103>不先說好的話，又要讓弗朗塞爾受驚了！
-104,TEXT_SUBCTS651_03890_HAUTDLONG_000_100,英雄閣下，歡迎回來！
-105,TEXT_SUBCTS651_03890_ARVIDE_000_105,艾爾·圖也好，奧迪隆也好……<hex:02100103>這些孩子們可比那些畏手畏腳的大人有氣魄多了。
-106,TEXT_SUBCTS651_03890_EHLLTOU_000_110,英雄！<hex:02100103>謝謝你幫了我這麼多忙！
-107,TEXT_SUBCTS651_03890_EHLLTOU_000_111,多虧了你，龍族們才能來到這裡！<hex:02100103>我能進化出這麼便利的身體，<hex:02100103>也是託了英雄教我「製作」的福呢！
-108,TEXT_SUBCTS651_03890_EHLLTOU_000_112,我跟弗朗塞爾說了，<hex:02100103>因為今後也會有很多龍來蒼天街玩，<hex:02100103>所以希望壞人類不要欺負它們！
-109,TEXT_SUBCTS651_03890_EHLLTOU_000_113,他痛快地答應了，還說已經跟其他人打好招呼了呢！
-110,TEXT_SUBCTS651_03890_EHLLTOU_000_114,嘿嘿嘿嘿！<hex:02100103>對人類文化感興趣的龍增加了，他一定會很開心吧！
-111,TEXT_SUBCTS651_03890_ARVIDE_100_114,小不點的行動力真是可怕啊。<hex:02100103>對吧，英雄閣下。
-112,TEXT_SUBCTS651_03890_EHLLTOU_000_115,這也多虧了奧迪隆去了天極白堊宮<hex:02100103>說要和大家交朋友呢。
-113,TEXT_SUBCTS651_03890_HAUTDLONG_000_116,嗯，我也很高興龍族朋友們能來到這個城市！
-114,TEXT_SUBCTS651_03890_HAUTDLONG_000_117,正因為有你在，我才能仔細觀察龍族的生態，<hex:02100103>將了解到的文化知識用書面形式記錄下來。<hex:02100103>要是以後可以整理成書冊就好了……
-115,TEXT_SUBCTS651_03890_ARVIDE_000_118,不要等以後了，現在就著手去做如何？<hex:02100103>使用機工房的設備就可以製版印刷了哦。
-116,TEXT_SUBCTS651_03890_EHLLTOU_000_119,太好啦！<hex:02100103>再加上許多龍也能看懂的圖畫！<hex:02100103>新的龍詩就誕生啦！
-117,TEXT_SUBCTS651_03890_HAUTDLONG_000_121,嗯！<hex:02100103>就用«龍與人的第一步»作為繪本的標題吧！<hex:02100103>希望讀過這本書的人和龍都能更加喜歡對方！
-118,TEXT_SUBCTS651_03890_ARVIDE_000_122,聽起來不錯啊！<hex:02100103>那我這就去準備。
-119,TEXT_SUBCTS651_03890_EHLLTOU_000_123,英雄也來幫忙製作«龍與人的第一步»吧？<hex:02100103>這也是維繫龍族和人類友誼的偉大的「製作」呢！
-120,TEXT_SUBCTS651_03890_EHLLTOU_000_124,而且，我還想把至今學到的東西分享給其他龍……<hex:02100103>想讓大家更了解人類的文化！<hex:02100103>今後也請多多指教啦！
-121,TEXT_SUBCTS651_03890_SYSTEM_000_130,今後的委託將每週從至今為止的委託品中隨機選擇一次。
-122,TEXT_SUBCTS651_03890_SYSTEM_000_131,和艾爾·圖對話，查看新的交貨列表。
-123,TEXT_SUBCTS651_03890_SYSTEM_000_132,另外，印刷必需品、印刷必需品的材料、墨貝<hex:02100103>可以得到較多報酬。<hex:02100103>如果列表中有上述物品，就積極交貨吧。
-124,TEXT_SUBCTS651_03890_SYSTEM_000_133,此外，可以領取新的劇情任務了！<hex:02100103>和聖羅埃勒廣場的奧迪隆對話，聽取說明吧。
+0,"TEXT_SUBCTS651_03890_SEQ_00","Ehll Tou is eager to share her newest labor of love with her own kind."
+1,"TEXT_SUBCTS651_03890_SEQ_01",""
+2,"TEXT_SUBCTS651_03890_SEQ_02",""
+3,"TEXT_SUBCTS651_03890_SEQ_03",""
+4,"TEXT_SUBCTS651_03890_SEQ_04",""
+5,"TEXT_SUBCTS651_03890_SEQ_05",""
+6,"TEXT_SUBCTS651_03890_SEQ_06",""
+7,"TEXT_SUBCTS651_03890_SEQ_07",""
+8,"TEXT_SUBCTS651_03890_SEQ_08",""
+9,"TEXT_SUBCTS651_03890_SEQ_09",""
+10,"TEXT_SUBCTS651_03890_SEQ_10",""
+11,"TEXT_SUBCTS651_03890_SEQ_11",""
+12,"TEXT_SUBCTS651_03890_SEQ_12",""
+13,"TEXT_SUBCTS651_03890_SEQ_13",""
+14,"TEXT_SUBCTS651_03890_SEQ_14",""
+15,"TEXT_SUBCTS651_03890_SEQ_15",""
+16,"TEXT_SUBCTS651_03890_SEQ_16",""
+17,"TEXT_SUBCTS651_03890_SEQ_17",""
+18,"TEXT_SUBCTS651_03890_SEQ_18",""
+19,"TEXT_SUBCTS651_03890_SEQ_19",""
+20,"TEXT_SUBCTS651_03890_SEQ_20",""
+21,"TEXT_SUBCTS651_03890_SEQ_21",""
+22,"TEXT_SUBCTS651_03890_SEQ_22",""
+23,"TEXT_SUBCTS651_03890_SEQ_23",""
+24,"TEXT_SUBCTS651_03890_TODO_00","Speak with Arvide."
+25,"TEXT_SUBCTS651_03890_TODO_01","Search for Ehll Tou at Zenith."
+26,"TEXT_SUBCTS651_03890_TODO_02","Deliver Ehll Tou's hammer to the endearing dragonet."
+27,"TEXT_SUBCTS651_03890_TODO_03","Speak with Ehll Tou at Saint Roelle's Dais."
+28,"TEXT_SUBCTS651_03890_TODO_04",""
+29,"TEXT_SUBCTS651_03890_TODO_05",""
+30,"TEXT_SUBCTS651_03890_TODO_06",""
+31,"TEXT_SUBCTS651_03890_TODO_07",""
+32,"TEXT_SUBCTS651_03890_TODO_08",""
+33,"TEXT_SUBCTS651_03890_TODO_09",""
+34,"TEXT_SUBCTS651_03890_TODO_10",""
+35,"TEXT_SUBCTS651_03890_TODO_11",""
+36,"TEXT_SUBCTS651_03890_TODO_12",""
+37,"TEXT_SUBCTS651_03890_TODO_13",""
+38,"TEXT_SUBCTS651_03890_TODO_14",""
+39,"TEXT_SUBCTS651_03890_TODO_15",""
+40,"TEXT_SUBCTS651_03890_TODO_16",""
+41,"TEXT_SUBCTS651_03890_TODO_17",""
+42,"TEXT_SUBCTS651_03890_TODO_18",""
+43,"TEXT_SUBCTS651_03890_TODO_19",""
+44,"TEXT_SUBCTS651_03890_TODO_20",""
+45,"TEXT_SUBCTS651_03890_TODO_21",""
+46,"TEXT_SUBCTS651_03890_TODO_22",""
+47,"TEXT_SUBCTS651_03890_TODO_23",""
+48,"TEXT_SUBCTS651_03890_EHLLTOU_000_000","At last, my culinary masterwork is ready to be shared with my kin. Thanks to the guidance of my capable teachers, I believe I've cooked up something that will have even the most stubborn among them clamoring for more! "
+49,"TEXT_SUBCTS651_03890_EHLLTOU_000_001","Doubtless even now they are eagerly awaiting my arrival, their whispers of what I might bring filling the Churning Mists with expectation. I'd best leave at once─there are few things more unpleasant than a hungry dragon!"
+50,"TEXT_SUBCTS651_03890_HAUTDLONG_000_002","Safe travels, Ehll Tou!"
+51,"TEXT_SUBCTS651_03890_EHLLTOU_000_003","Ack... So dizzy. Wings...aching... No, I must move forward! Before the food cools and with it...the esteem of my kin..."
+52,"TEXT_SUBCTS651_03890_HAUTDLONG_000_004","Ehll Tou? Is something the matter?"
+53,"TEXT_SUBCTS651_03890_EHLLTOU_000_005","N-Not at all! In fact, I'm positively...effervescent! Now wait right here. I'll be back before you've even realized I've gone!"
+54,"TEXT_SUBCTS651_03890_HAUTDLONG_000_006","Hmm... It shouldn't have taken this long..."
+55,"TEXT_SUBCTS651_03890_HAUTDLONG_000_007","Come to think of it, Ehll Tou <hex:021A020203>was<hex:021A020103> acting rather strangely before she departed..."
+56,"TEXT_SUBCTS651_03890_HAUTDLONG_000_008","Perhaps we should ask Master Arvide for counsel. He seems to have a solution for every problem. Oh, I hope nothing untoward has happened..."
+57,"TEXT_SUBCTS651_03890_HAUTDLONG_000_009","I'll stay here and keep watch for Ehll Tou. I pray you and Master Arvide can get to the bottom of this!"
+58,"TEXT_SUBCTS651_03890_SYSTEM_000_010","Custom deliveries cannot be made while this quest is in progress. They will become available again once the quest is completed."
+59,"TEXT_SUBCTS651_03890_HAUTDLONG_000_020","Would that there was something I could do but stand here..."
+60,"TEXT_SUBCTS651_03890_ARVIDE_000_030","Good <hex:020839E3E90C0DFF1B><hex:020817E3E90C05FF08>evening<hex:FF08>morning<hex:03><hex:FF17><hex:020813E3E90C12FF04>day<hex:FF08>evening<hex:03><hex:03>! What brings you here?"
+61,"TEXT_SUBCTS651_03890_ARVIDE_000_031","...Now that you mention it, I haven't seen Ehll Tou since she left with her delivery. You're certain she hasn't returned?"
+62,"TEXT_SUBCTS651_03890_ARVIDE_000_032","I meant to give her this hammer I made as a little reward for her efforts. Considering how hard she's been working, I wouldn't be surprised if she's just gone for a leisurely stroll─or a fly, I suppose? A flit?"
+63,"TEXT_SUBCTS651_03890_ARVIDE_000_033","Anyroad, she <hex:021A020203>is<hex:021A020103> a dragon, albeit a tiny one. Try as we might, we would be fools to think we understand even a fraction of what goes on in her head. I'm sure she'll return in her own time."
+64,"TEXT_SUBCTS651_03890_ARVIDE_000_034","Still, if you must go looking for her, take the hammer. I've no doubt her eagerness to learn how to use it would send her back here as fast as her little wings can carry her."
+65,"TEXT_SUBCTS651_03890_ARVIDE_000_035","She often goes on at length about her dragonet friends at this place called Zenith, somewhere in the Churning Mists. If that rings a bell to you, I reckon it might be a good place to start."
+66,"TEXT_SUBCTS651_03890_ARVIDE_000_040","I don't know much about the Churning Mists aside from that I'm liable to get eaten whole before I've walked a yalm. I'm certain you'll manage to go a bit further than that, eh?"
+67,"TEXT_SUBCTS651_03890_DRAGONET03890_000_050","Oh, is that who I think it is? The very hero who triumphed over Nidhogg and brought peace between our kinds? From all the stories Ehll Tou has told of you, I expected a bit more...grandeur."
+68,"TEXT_SUBCTS651_03890_DRAGONET03890_000_051","I suppose appearances come second when you spend your days working with your claws. Or hands, were they? Nevertheless, I must thank you for taking the time to pass down such refined arts to my friend. We do so enjoy seeing what she brings!"
+69,"TEXT_SUBCTS651_03890_DRAGONET03890_000_052","You're looking for her? She's visiting friends not far from here, gushing over that─what was it?─“cooking” of hers. Delectable stuff, that. To think there was more to food than scorching and chomping."
+70,"TEXT_SUBCTS651_03890_DRAGONET03890_000_053","Considering the distance you've traveled, I'm terribly sorry to say that she specifically requested not to let anyone from the surface see her until she was ready. She was quite insistent, in fact."
+71,"TEXT_SUBCTS651_03890_DRAGONET03890_000_054","Still, I'm sure she would be delighted to receive that deadly looking trinket of yours. What did you call it? A “hammer”? It looks far too heavy for me to wield myself, but I should be able to carry it without dropping it. That is, unless I <hex:021A020203>choose<hex:021A020103> to drop it. Those moogles who've been pestering me are in need of some long overdue comeuppance..."
+72,"TEXT_SUBCTS651_03890_DRAGONET03890_000_055","Ahem! Anyway, I shall let her know you've arrived, but let me warn you that it may be some time until she is willing to show herself."
+73,"TEXT_SUBCTS651_03890_DRAGONET03890_000_060","Now pass that hammer of yours over here. I pray it is not as unwieldy as it looks."
+74,"TEXT_SUBCTS651_03890_DRAGONET03890_000_061","Hmm... So this is one of those “tools” you wingless ones are so fond of? Are all of them as complex as this one? It shall be safe in my keeping, I assure you. I wouldn't have the slightest idea how to use it even if I wanted."
+75,"TEXT_SUBCTS651_03890_DRAGONET03890_000_062","Now wait here, and I shall return. When, however, I cannot say..."
+76,"TEXT_SUBCTS651_03890_HAUTDLONG_000_063","<hex:02080EE905FF05>Miss<hex:FF04>Sir<hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303>, there you are!"
+77,"TEXT_SUBCTS651_03890_ARVIDE_000_064","Surprised to see us, I take it. Young Hautdilong got it in his head to come searching for Ehll Tou, and there wasn't a thing I could say to sway him."
+78,"TEXT_SUBCTS651_03890_ARVIDE_000_065","Try as I might to distract him with work, somehow he managed to book us a trip across the Sea of Clouds. It's a wonder we caught up to you, all things considered... Just how long have you been waiting here?"
+79,"TEXT_SUBCTS651_03890_HAUTDLONG_000_066","Where is she, <hex:02080EE905FF05>Miss<hex:FF04>Sir<hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303>? Where's Ehll Tou?"
+80,"TEXT_SUBCTS651_03890_HAUTDLONG_000_067","What? Why wouldn't she want to see us? That doesn't make any sense..."
+81,"TEXT_SUBCTS651_03890_HAUTDLONG_000_068","Ehll Tou! Can you hear me!? Where are you!?"
+82,"TEXT_SUBCTS651_03890_EHLLTOU_000_069","(-???-)Oh, shush! You'll wake something bigger than a dragonet with all that shouting."
+83,"TEXT_SUBCTS651_03890_HAUTDLONG_000_070","Huh!? That scarf... That hat... Wait... Ehll Tou, is that you!?"
+84,"TEXT_SUBCTS651_03890_EHLLTOU_000_071","Ah, I knew you would recognize me! Still, an explanation may be in order...<hex:02100103>You see, a dragon's growth is dictated by forces both internal and external. Sometimes this growth can be quite...dramatic, as you can plainly see."
+85,"TEXT_SUBCTS651_03890_EHLLTOU_000_072","Truth be told, I had been feeling out of sorts lately, but now I see that that discomfort was merely the new me trying to break free. And now here she is─a dragon reborn!"
+86,"TEXT_SUBCTS651_03890_HAUTDLONG_000_073","Oh, I'm so glad you're all right. More than all right, by the looks of things!"
+87,"TEXT_SUBCTS651_03890_EHLLTOU_000_074","This new tool is wonderful! It's as if Master Arvide knew I was on the brink of incredible change!"
+88,"TEXT_SUBCTS651_03890_EHLLTOU_000_075","Had I received this hammer but a day earlier, I would have held it clumsily in my tiny claws. Now, however, it feels like an extension of my very body. My mind is brimming with the possibilities of what I might craft next!"
+89,"TEXT_SUBCTS651_03890_DRAGONET03890_000_076","Your growth is unlike aught I have seen before! Such a spectacular transformation has already made you the topic of much discussion among dragonkind, and I imagine not a small amount of jealousy."
+90,"TEXT_SUBCTS651_03890_ARVIDE_000_077","See, what did I tell you two? There was no need for all that fretting and fussing. Still, if not for young Hautdilong's concern, who knows if I would've ever set foot in the Churning Mists."
+91,"TEXT_SUBCTS651_03890_EHLLTOU_000_078","I apologize for causing undue worry, but I pray you understand how embarrassing it would've been if anyone saw me before I was ready. And now you are the first to behold a dragon not warped by conflict and strife, but nourished by peace and fellowship!"
+92,"TEXT_SUBCTS651_03890_EHLLTOU_000_079","Well, not the first, surely. Only the first in quite some time. When man and dragon lived in harmony, maturation like mine may have been more common."
+93,"TEXT_SUBCTS651_03890_HAUTDLONG_000_080","I think there may be something to that, Ehll Tou. If we ask around, we may just find a dragon who has stories of those halcyon days. At the very least, it would be a chance to make new friends among the clouds!"
+94,"TEXT_SUBCTS651_03890_HAUTDLONG_000_081","And we can start with our present company. I'd be eager to hear of your life here."
+95,"TEXT_SUBCTS651_03890_DRAGONET03890_000_082","Hmm? Me? Why, I would be delighted, although I have seen scarcely more summers than Ehll Tou."
+96,"TEXT_SUBCTS651_03890_DRAGONET03890_000_083","She has regaled me with many tales of the wingless ones that build and tinker. Far from the primitive brutes I had believed they were, her stories told of an inventive and adventurous people."
+97,"TEXT_SUBCTS651_03890_DRAGONET03890_000_084","While I thought the stories fanciful, I now see that if anything, they weren't fanciful enough!"
+98,"TEXT_SUBCTS651_03890_DRAGONET03890_000_085","Mayhap I too shall journey down below the clouds and live among mankind for a time, and try my claws at this “crafting” of yours."
+99,"TEXT_SUBCTS651_03890_HAUTDLONG_000_086","You would be more than welcome!"
+100,"TEXT_SUBCTS651_03890_EHLLTOU_000_087","Indeed! Is this not what we set out to accomplish from the onset? To bring man and dragon closer, one step at a time. I believe we are well on our way."
+101,"TEXT_SUBCTS651_03890_EHLLTOU_000_088",""
+102,"TEXT_SUBCTS651_03890_DRAGONET03890_000_088","I shall do my part by spreading the word far and wide! Surely, I'm not the only dragon interested in following Ehll Tou's path!"
+103,"TEXT_SUBCTS651_03890_EHLLTOU_000_089","The more the merrier! I suppose we should return with haste and tell Lord Francel to expect a few more visitors to Ishgard. Even one so level-headed as he may be caught off guard by a sudden influx of dragons."
+104,"TEXT_SUBCTS651_03890_HAUTDLONG_000_100","Welcome back, <hex:02080EE905FF05>Miss<hex:FF04>Sir<hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303>!"
+105,"TEXT_SUBCTS651_03890_ARVIDE_000_105","I must confess, I had my doubts when I first agreed to this arrangement, but Ehll Tou and young Hautdilong here have proven more resourceful than I gave them credit for."
+106,"TEXT_SUBCTS651_03890_EHLLTOU_000_110","Of course, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303> deserves <hex:02080DE905FF04>her<hex:FF04>his<hex:03> share of the credit as well!"
+107,"TEXT_SUBCTS651_03890_EHLLTOU_000_111","Were it not for your tutelage, I would not have grown as I have, and in doing so finally compel my friends to come mingle with the men and women of Ishgard!"
+108,"TEXT_SUBCTS651_03890_EHLLTOU_000_112","Lord Francel was most understanding when we informed him of what we had planned. He gave his word to ensure that none of the less savory elements of the city would bring harm to its new visitors."
+109,"TEXT_SUBCTS651_03890_EHLLTOU_000_113","Even now he is working to inform those with authority in Ishgard to welcome my brothers and sisters!"
+110,"TEXT_SUBCTS651_03890_EHLLTOU_000_114","Before long, the sight of wings in the sky will fill the hearts of men not with dread, but with elation!"
+111,"TEXT_SUBCTS651_03890_ARVIDE_100_114","The industriousness of these two never fails to impress. We might do well to learn from them, eh?"
+112,"TEXT_SUBCTS651_03890_EHLLTOU_000_115","I would also like to thank Hautdilong. Had he not come to the Churning Mists, the idea of befriending our erstwhile nemeses may have remained naught but an idle fancy for the other dragons. But thanks to his affable nature, the first spark of curiosity has been struck in their hearts."
+113,"TEXT_SUBCTS651_03890_HAUTDLONG_000_116","You are too kind, Ehll Tou! I, for one, can't wait to see this place alive with the sounds of dragon and man conversing in good faith."
+114,"TEXT_SUBCTS651_03890_HAUTDLONG_000_117","And with one endeavor having reached a satisfactory conclusion, I believe it may be time to begin another. My time spent with Ehll Tou has provided me with more than enough notes to begin my chronicles, but I must first compile and arrange them."
+115,"TEXT_SUBCTS651_03890_ARVIDE_000_118","Then you'd best begin sooner rather than later, lad. Once you're finished, bring it to the manufactory and I'll see about producing some illustrations to give your book a little flair."
+116,"TEXT_SUBCTS651_03890_EHLLTOU_000_119","Now isn't that a marvelous idea! You can fill the book with pictures so that even dragons who cannot read your letters can understand. Oh, what harmonious songs such a work could inspire!"
+117,"TEXT_SUBCTS651_03890_HAUTDLONG_000_121","Songs, perhaps, that can be sung in unison! In fact, I believe I may have my title: “An Ode to Unity.” Man and dragon shall come to a deeper understanding─and I hope, appreciation─of the other by reading it."
+118,"TEXT_SUBCTS651_03890_ARVIDE_000_122","Not bad, lad. Not bad at all. Well then, it sounds to me that we've quite a lot of work ahead of us. I'd best get started."
+119,"TEXT_SUBCTS651_03890_EHLLTOU_000_123","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, might I trouble you to assist Master Hautdilong in the completion of his chronicle? I can think of nary a more ambitious work─this book may prove to be the very foundation for long-lasting peace."
+120,"TEXT_SUBCTS651_03890_EHLLTOU_000_124","For my part, I shall continue making deliveries to the Churning Mists, that my brothers and sisters there might be enticed to join their brethren here."
+121,"TEXT_SUBCTS651_03890_SYSTEM_000_130","Future requests will be selected at random from all those you have seen thus far, with the list refreshed once a week (Earth time)."
+122,"TEXT_SUBCTS651_03890_SYSTEM_000_131","You may review the items currently in demand at any time by speaking with Ehll Tou and selecting <hex:024804F201F403><hex:024904F201F503>Make a delivery<hex:0249020103><hex:0248020103>."
+123,"TEXT_SUBCTS651_03890_SYSTEM_000_132","Note that printing essentials, printing materials, and inkshells will earn you particularly handsome rewards. Whenever they make an appearance, the effort to procure them will be worth your while."
+124,"TEXT_SUBCTS651_03890_SYSTEM_000_133","A new quest is available from Hautdilong in the New Nest. "

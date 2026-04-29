@@ -2,39 +2,39 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_CMNBHTENTERLV020ST0003_00013_SCENE00000,
-1,TEXT_CMNBHTENTERLV020ST0003_00013_TALK_00,我是冒險者公會的人。<hex:02100103>負責管理「公會令」，發放單槍匹馬無法解決的特殊任務。
-2,TEXT_CMNBHTENTERLV020ST0003_00013_SELECT_MENU_TITLE,有什麼事嗎？
-3,TEXT_CMNBHTENTERLV020ST0003_00013_SELECT_MENU_00,接受公會令的任務
-4,TEXT_CMNBHTENTERLV020ST0003_00013_SELECT_MENU_01,什麼是公會令？
-5,TEXT_CMNBHTENTERLV020ST0003_00013_SELECT_MENU_02,取消
-6,TEXT_CMNBHTENTERLV020ST0003_00013_NOT_SELECT_STAGE_00,我是冒險者公會的人。<hex:02100103>負責管理「公會令」，發放單槍匹馬無法解決的特殊任務。
-7,TEXT_CMNBHTENTERLV020ST0003_00013_NOT_SELECT_STAGE_01,但是看來你的實力還不夠，<hex:02100103>還不能放心交給你這個任務。<hex:02100103>你再去練練功夫吧。
-8,TEXT_CMNBHTENTERLV020ST0003_00013_SELECT_STAGE_MENU_TITLE,請選擇任務
-9,TEXT_CMNBHTENTERLV020ST0003_00013_SELECT_STAGE_MENU_00,募集討伐隊
-10,TEXT_CMNBHTENTERLV020ST0003_00013_SELECT_STAGE_MENU_01,隊長的指導。速度和洞察。
-11,TEXT_CMNBHTENTERLV020ST0003_00013_SELECT_STAGE_MENU_02,坦克和輸出
-12,TEXT_CMNBHTENTERLV020ST0003_00013_SELECT_STAGE_MENU_03,討伐彷徨死靈！
-13,TEXT_CMNBHTENTERLV020ST0003_00013_SELECT_STAGE_MENU_04,驅除劇毒妖花！
-14,TEXT_CMNBHTENTERLV020ST0003_00013_SELECT_STAGE_MENU_05,消滅惡徒團伙寄生蜂團！
-15,TEXT_CMNBHTENTERLV020ST0003_00013_SELECT_STAGE_MENU_06,護送黑兔堂的麥森塔！
-16,TEXT_CMNBHTENTERLV020ST0003_00013_SELECT_STAGE_MENU_07,擊潰哥布林炸彈軍團！
-17,TEXT_CMNBHTENTERLV020ST0003_00013_SELECT_STAGE_MENU_08,討伐夢幻之布拉奇希奧！
-18,TEXT_CMNBHTENTERLV020ST0003_00013_SELECT_STAGE_MENU_CANCEL,取消
-19,TEXT_CMNBHTENTERLV020ST0003_00013_START_MENU_TITLE,開始任務嗎？
-20,TEXT_CMNBHTENTERLV020ST0003_00013_START_MENU_YES,是
-21,TEXT_CMNBHTENTERLV020ST0003_00013_START_MENU_NO,否
-22,TEXT_CMNBHTENTERLV020ST0003_00013_INFO_00,開始「討伐彷徨死靈！」，<hex:02100103>需要4名等級達到<hex:02100103>20級以上的戰鬥菁英或魔法導師來組成隊伍。
-23,TEXT_CMNBHTENTERLV020ST0003_00013_INFO_01,開始「驅除劇毒妖花！」，<hex:02100103>需要4名等級達到<hex:02100103>20級以上的戰鬥菁英或魔法導師來組成隊伍。
-24,TEXT_CMNBHTENTERLV020ST0003_00013_INFO_02,開始「消滅惡徒團伙寄生蜂團！」，<hex:02100103>需要8名等級達到<hex:02100103>20級以上的戰鬥菁英或魔法導師來組成隊伍。
-25,TEXT_CMNBHTENTERLV020ST0003_00013_INFO_03,開始「護送黑兔堂的麥森塔！」，<hex:02100103>需要4名等級達到<hex:02100103>25級以上的戰鬥菁英或魔法導師來組成隊伍。
-26,TEXT_CMNBHTENTERLV020ST0003_00013_INFO_04,開始「擊潰哥布林炸彈軍團！」，<hex:02100103>需要4名等級達到<hex:02100103>25級以上的戰鬥菁英或魔法導師來組成隊伍。
-27,TEXT_CMNBHTENTERLV020ST0003_00013_INFO_05,開始「討伐夢幻之布拉奇希奧！」，<hex:02100103>需要8名等級達到<hex:02100103>25級以上的戰鬥菁英或魔法導師來組成隊伍。
-28,TEXT_CMNBHTENTERLV020ST0003_00013_BEHEST_TALK_00,「公會令」指的是冒險者公會發行的<hex:02100103>面向小隊的特殊任務。
-29,TEXT_CMNBHTENTERLV020ST0003_00013_BEHEST_TALK_01,在限定時間內完成任務目標，可以獲取報酬。<hex:02100103>任務地點與內容則是各式各樣。
-30,TEXT_CMNBHTENTERLV020ST0003_00013_BEHEST_TALK_02,第一次完成該任務時還會獲得額外的報酬。
-31,TEXT_CMNBHTENTERLV020ST0003_00013_BEHEST_TALK_03,另外，<hex:02100103>到達新的地點、完成特定的任務、或者角色的等級上升的話，<hex:02100103>可以挑戰的任務也會增加。
-32,TEXT_CMNBHTENTERLV020ST0003_00013_ERROR_TALK,未能開始<hex:02281DFF18>InstanceContentTextData<hex:E8020103>「<hex:022815FF10>InstanceContent<hex:E8030403>」。
-33,TEXT_CMNBHTENTERLV020ST0003_00013_HOWTO_00,你是第一次挑戰公會令吧？<hex:02100103>此任務不可能靠一個人的力量達成，<hex:02100103>需要多人配合進行。
-34,TEXT_CMNBHTENTERLV020ST0003_00013_HOWTO_01,因為都是從周邊居民和各組織的委託中挑選出的特殊任務嘛。<hex:02100103>同時也是對你們冒險者團結力的考驗。
-35,TEXT_CMNBHTENTERLV020ST0003_00013_HOWTO_02,完成任務就可以獲取相應的報酬。<hex:02100103>第一次完成該任務時還會獲得額外的報酬。<hex:02100103>多多努力吧。
+0,"TEXT_CMNBHTENTERLV020ST0003_00013_SCENE00000",""
+1,"TEXT_CMNBHTENTERLV020ST0003_00013_TALK_00","Well met! I've been dispatched by the Adventurers' Guild to recruit volunteers for special small-scale operations known as guildhests. You look to be of sound mind and body. Might you consider joining?"
+2,"TEXT_CMNBHTENTERLV020ST0003_00013_SELECT_MENU_TITLE","What would you like to do?"
+3,"TEXT_CMNBHTENTERLV020ST0003_00013_SELECT_MENU_00","Participate in a guildhest."
+4,"TEXT_CMNBHTENTERLV020ST0003_00013_SELECT_MENU_01","Learn more about guildhests."
+5,"TEXT_CMNBHTENTERLV020ST0003_00013_SELECT_MENU_02","Nothing."
+6,"TEXT_CMNBHTENTERLV020ST0003_00013_NOT_SELECT_STAGE_00","Well met! I've been dispatched by the Adventurers' Guild to recruit volunteers for special small-scale operations known as guildhests."
+7,"TEXT_CMNBHTENTERLV020ST0003_00013_NOT_SELECT_STAGE_01","These operations will pit those volunteers against deadly foes, and the odds won't always be in their favor. This is why we require all participants to be of sound mind and body─something that you do not yet appear to be."
+8,"TEXT_CMNBHTENTERLV020ST0003_00013_SELECT_STAGE_MENU_TITLE","Select an operation."
+9,"TEXT_CMNBHTENTERLV020ST0003_00013_SELECT_STAGE_MENU_00","Seek & Destroy."
+10,"TEXT_CMNBHTENTERLV020ST0003_00013_SELECT_STAGE_MENU_01","Sprint & Obey."
+11,"TEXT_CMNBHTENTERLV020ST0003_00013_SELECT_STAGE_MENU_02","Shield & Sweep."
+12,"TEXT_CMNBHTENTERLV020ST0003_00013_SELECT_STAGE_MENU_03","Under the Armor."
+13,"TEXT_CMNBHTENTERLV020ST0003_00013_SELECT_STAGE_MENU_04","Pulling Poison Posies."
+14,"TEXT_CMNBHTENTERLV020ST0003_00013_SELECT_STAGE_MENU_05","Stinging Back."
+15,"TEXT_CMNBHTENTERLV020ST0003_00013_SELECT_STAGE_MENU_06","Down the Black Rabbit Hole."
+16,"TEXT_CMNBHTENTERLV020ST0003_00013_SELECT_STAGE_MENU_07","Flicking Sticks and Taking Names."
+17,"TEXT_CMNBHTENTERLV020ST0003_00013_SELECT_STAGE_MENU_08","All's Well that Ends in the Well."
+18,"TEXT_CMNBHTENTERLV020ST0003_00013_SELECT_STAGE_MENU_CANCEL","Nothing."
+19,"TEXT_CMNBHTENTERLV020ST0003_00013_START_MENU_TITLE","Commence the operation?"
+20,"TEXT_CMNBHTENTERLV020ST0003_00013_START_MENU_YES","Yes"
+21,"TEXT_CMNBHTENTERLV020ST0003_00013_START_MENU_NO","Not yet"
+22,"TEXT_CMNBHTENTERLV020ST0003_00013_INFO_00","To participate in the operation “Under the Armor,” you must be in a party of four Disciples of War or Magic with a level of 20 or higher."
+23,"TEXT_CMNBHTENTERLV020ST0003_00013_INFO_01","To participate in the operation “Pulling Poison Posies,” you must be in a party of four Disciples of War or Magic with a level of 20 or higher."
+24,"TEXT_CMNBHTENTERLV020ST0003_00013_INFO_02","To participate in the operation “Stinging Back,” you must be in a party of eight Disciples of War or Magic with a level of 20 or higher."
+25,"TEXT_CMNBHTENTERLV020ST0003_00013_INFO_03","To participate in the operation “Down the Black Rabbit Hole,” you must be in a party of four Disciples of War or Magic with a level of 25 or higher."
+26,"TEXT_CMNBHTENTERLV020ST0003_00013_INFO_04","To participate in the operation “Flicking Sticks and Taking Names,” you must be in a party of four Disciples of War or Magic with a level of 25 or higher."
+27,"TEXT_CMNBHTENTERLV020ST0003_00013_INFO_05","To participate in the operation “All's Well that Ends in the Well,” you must be in a party of eight Disciples of War or Magic with a level of 25 or higher."
+28,"TEXT_CMNBHTENTERLV020ST0003_00013_BEHEST_TALK_00","Guildhests are similar to guildleves in that clients in need of assistance petition the Adventurers' Guild to find them volunteers. Adventurers are then summoned at the guild's behest to undertake these tasks. The difference is that while guildleves can be accepted by individuals, guildhest operations will often require parties of four to eight persons."
+29,"TEXT_CMNBHTENTERLV020ST0003_00013_BEHEST_TALK_01","Beyond that, the rules are simple. Finish the guildhest objectives before time expires, and you and your companions will be promptly rewarded for services rendered. Drag your feet, though, and you won't see a single coin."
+30,"TEXT_CMNBHTENTERLV020ST0003_00013_BEHEST_TALK_02","If it is your first time tackling an operation, you will also be provided with a bonus upon completion."
+31,"TEXT_CMNBHTENTERLV020ST0003_00013_BEHEST_TALK_03","Finally, proving yourself on the field will unlock more high-profile tasks. Other battlewardens stationed throughout the Twelveswood may also provide you with similar work, but only if you are deemed capable."
+32,"TEXT_CMNBHTENTERLV020ST0003_00013_ERROR_TALK","You were unable to commence the operation “<hex:022815FF10>InstanceContent<hex:E8030403>.”"
+33,"TEXT_CMNBHTENTERLV020ST0003_00013_HOWTO_00","Wait... Might this be your first time participating in a guildhest? I remember my first hest. It was the night of my twentieth nameday. My fellow guildmates invited me to join them in the slaying of a family of peistes who were stealing chocobo eggs from Bentbranch Meadows."
+34,"TEXT_CMNBHTENTERLV020ST0003_00013_HOWTO_01","The moment we arrived, one of the terrible beasts immediately turned to me and charged. The thing was thrice my size and had already maimed several chocobokeeps."
+35,"TEXT_CMNBHTENTERLV020ST0003_00013_HOWTO_02","There was no way I could win, so I simply froze and waited for the end. But that's when I remembered that I was not alone. My friends rallied around me, and together we defeated the peistes! That, my friend, is what a guildhest is truly about."

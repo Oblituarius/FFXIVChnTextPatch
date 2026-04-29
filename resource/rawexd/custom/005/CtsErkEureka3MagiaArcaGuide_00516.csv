@@ -2,115 +2,115 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_001,哎呀，你找我有什麼事嗎？<hex:02100103>現在文理融合器還在進行最終調整，<hex:02100103>請你過一會再來吧。
-1,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_010,哎呀，你是……<hex:02100103>是師父大人讓你來找我的嗎？
-2,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_011,謝謝你能過來！<hex:02100103>那我就為你講解一下有關這個文理融合器的事情。
-3,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_012,乙太結晶化形成的水晶<hex:02100103>具有使記憶寄宿於其中的神奇特性。<hex:02100103>舉例來說的話……比如靈魂水晶之類的就是。
-4,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_013,先行的調查隊員在這個據點的附近發現了<hex:02100103>這種「寄宿著記憶的特殊水晶」。
-5,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_014,而文理融合器可以將這種被命名為文理碎晶的水晶融合，<hex:02100103>提取出寄宿在其中的記憶，<hex:02100103>並將記憶加工成能夠賦予他人的藥品。
-6,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_015,繼承了他人的記憶後，<hex:02100103>應該就可以暫時使用出平時無法使用的戰技或是魔法了。<hex:02100103>不過這全是靠優雷卡的環境乙太才得以實現……
-7,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_016,就算是在優雷卡以外的地方無法使用，<hex:02100103>但起碼應該能夠在冒險者你進行探索時派上用場。
-8,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_017,……嗯，光聽我解說是不是沒弄明白啊？
-9,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_018,那我把發現的文理碎晶給你，<hex:02100103>讓你實際體驗一下文理融合器吧。<hex:02100103>等你體驗完之後咱們再說接下來的事情。
-10,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_020,請你用那邊的文理融合器，<hex:02100103>從我給你的文理碎晶中試著把記憶提取出來吧。
-11,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_030,看來冒險者你學會了怎麼使用文理融合器。<hex:02100103>為了幫助師父大人償還債務，<hex:02100103>請你多加使用，肯定能為你在探索時帶來幫助！
-12,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_031,最後關於文理融合器還有需要注意的一點。<hex:02100103>如果你在探索中找到了文理碎晶的話，<hex:02100103>我想請你先交給我進行鑑定。
-13,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_032,我會幫你鑑定出文理碎晶裡面到底寄宿著怎樣的記憶，<hex:02100103>並將文理融合器調整到適合提取的狀態。
-14,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_033,對了，如果將多個文理碎晶投入進文理融合器，<hex:02100103>有可能對提取出的記憶產生意想不到的變化。<hex:02100103>你有興趣的話可以試試看。
-15,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_100_033,可以在「<hex:02281CFF17>ContentFinderCondition<hex:E8022C03>」之後的區域<hex:02100103>獲得「未鑑定的文理碎晶」。
-16,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_110_033,可以讓德雷克對「未鑑定的文理碎晶」進行鑑定，<hex:02100103>鑑定完成後，可以辨別出寄宿的記憶的種類。
-17,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_120_034,將鑑定完的「文理碎晶」放入「文理融合器」<hex:02100103>選擇「提取記憶」就可以得到相應的「文理技能」。
-18,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_130_034,獲得的「文理技能」會顯示在介面上，<hex:02100103>最多能夠保存3組。
-19,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_140_034,另外，可以通過德雷克確認已獲得的「文理技能」，<hex:02100103>或是聽取更為詳細的說明。<hex:02100103>如果有問題的話，請找他詢問。
-20,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_KRILE_000_035,哎呀，你們兩個已經談完了嗎？
-21,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_036,嗯，可露兒小姐，已經沒問題了。
-22,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_KRILE_000_037,那正好，我這邊的調查也有了結果。<hex:02100103>詳細的事情去那邊說吧。
-23,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_038,……對了，關於武器的強化一事，<hex:02100103>我想師父大人應該還有事要向你說明。<hex:02100103>你要是有時間的話，就去找他談談吧。
-24,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_040,啊，感謝冒險者你能過來。<hex:02100103>那咱們趕緊進入正題吧。
-25,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_041,其實我看了一下文理融合器的設計圖，<hex:02100103>發現了增加提取記憶總量的可能性。<hex:02100103>也就是說可以同時提取出兩種戰技或魔法來使用。
-26,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_042,只不過這邊沒有足夠的零件來嘗試這個改良方案。<hex:02100103>所以我想師父大人才會將就著做成了現在這樣。
-27,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_043,但是我並沒有放棄，找可露兒小姐商量了一下之後，<hex:02100103>她說薩蓋特別墅遺跡那裡的裝置上的零件沒準可以拿過來用。
-28,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_044,所以拜託你了，冒險者！<hex:02100103>請你去調查一下薩蓋特別墅遺跡那裡的裝置，<hex:02100103>將能使的零件拿回來吧！
-29,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_050,請你去調查一下薩蓋特別墅遺跡那裡的裝置，<hex:02100103>拿回一些能使的零件。<hex:02100103>……話說回來，你找我還有其他什麼事嗎？
-30,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_060,辛苦你了，冒險者！<hex:02100103>你拿到零件了嗎？
-31,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_061,哇，這個就是啊！<hex:02100103>我會用這個零件嘗試一下改良方案的。<hex:02100103>用不了太長的時間，請你稍等一會吧。
-32,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_062,呼……文理融合器改良成功了。<hex:02100103>這樣一來，增加了提取記憶的總量，<hex:02100103>就能同時提取出兩種戰技或魔法來用了！
-33,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_063,雖然存在著提取的成功率下降之類的問題，<hex:02100103>但我想肯定能助你一臂之力的。<hex:02100103>請你在以後的探索中多加活用吧。
-34,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_064,我想說的就這麼多。<hex:02100103>感謝你的幫忙。<hex:02100103>請盡情使用改良後的文理融合器吧。
-35,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_100_064,「文理融合器」經過改良，<hex:02100103>追加了「靈極融合器」！
-36,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_110_064,將「文理碎晶」分別放入「星極融合器」和「靈極融合器」<hex:02100103>選擇「提取記憶」，<hex:02100103>可以獲得同時擁有2種技能的「文理技能」。
-37,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_120_064,由此可以在「星極融合器」和「靈極融合器」<hex:02100103>分別設定最多3個，合計最多6個「文理碎晶」了。
-38,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_130_064,另外如果「提取記憶」時，<hex:02100103>設定的「文理碎晶」數量在4個以上，<hex:02100103>則有可能會造成失敗。
-39,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_140_064,「提取記憶」失敗時，<hex:02100103>將無法獲得「文理技能」，<hex:02100103>並且設定的「文理碎晶」也會全部消失。
-40,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_065,對了對了，可露兒小姐在找你呢。<hex:02100103>好像是調查有了新的進展，<hex:02100103>你去找她談談吧。
-41,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_100,啊，冒險者。<hex:02100103>感謝你使用文理融合器。<hex:02100103>多虧了你，研究所需要的數據總算收集齊了！
-42,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_101,我跟師父大人一起利用這些數據進行了研究。<hex:02100103>我想差不多也該弄出什麼成果了……
-43,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_GEROLT_000_102,喲，你也在啊。<hex:02100103>正好我這邊的研究有了些進展。<hex:02100103>這樣就應該能強化一下你的武器了。
-44,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_GEROLT_000_103,你要是想要強化的話，就拿著素材來找我吧。<hex:02100103>可別讓我等太久了！
-45,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_104,……那個，就是這麼回事。<hex:02100103>啊，研究當然還會繼續進行下去，<hex:02100103>還請你繼續使用文理融合器。
-46,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_000_105,當記錄的「文理技能」達到20種以上時，<hex:02100103>可以與北點的德雷克對話，<hex:02100103>開放下一階段的強化。
-47,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_110,冒險者，非常感謝你的幫忙。<hex:02100103>多虧了你使用文理融合器，<hex:02100103>使得我們的研究有了很大的進展！
-48,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_111,數據也收集得差不多了，<hex:02100103>我想差不多又能為你展現新的研究成果了……
-49,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_GEROLT_000_112,喲，原來你也在啊。<hex:02100103>正好研究有了新的進展。<hex:02100103>這樣一來我就能給你的武器強化到下一個階段了。
-50,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_GEROLT_000_113,還不趕快把素材拿過來啊。<hex:02100103>我都等不及想試試記憶的嵌寫了。<hex:02100103>趁我還沒失去幹勁，趕緊下訂單吧！
-51,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_114,師父大人他好像喜歡上研究嵌寫的方法了呢……<hex:02100103>為了保持師父大人的那種幹勁，<hex:02100103>請你繼續使用文理融合器。
-52,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_000_115,當記錄的「文理技能」達到30種以上時，<hex:02100103>可以與北點的德雷克對話，<hex:02100103>開放下一階段的強化。
-53,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_120,冒險者，非常感謝你的幫忙。<hex:02100103>多虧你使用文理融合器，<hex:02100103>研究終於快要完成了！
-54,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_121,我想差不多應該能確立完美的記憶嵌寫方法了……
-55,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_GEROLT_000_122,什麼啊，你怎麼又在這啊。<hex:02100103>每次我出來的時候你都像是瞅準了時機一樣，在跟德雷克聊著啊。<hex:02100103>所謂的優秀的冒險者是不會錯過這種場合的是吧。
-56,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_GEROLT_000_123,你也察覺到了吧，我們的研究總算完成了。<hex:02100103>雖說是請可露兒小姐幫了一下忙才得以確立了非常完美的提取方法。<hex:02100103>不過這樣就能用湧火地帶的素材來加工你的武器了。
-57,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_GEROLT_000_124,……這個先放一邊，我還是想再繼續研究一下。<hex:02100103>總感覺能活用這個嵌寫記憶的方法來發明點什麼。
-58,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_GEROLT_000_125,總之難得的還債方法，當然要充分利用才行。<hex:02100103>而且肯定對你也會有好處，你就再多多幫忙吧！
-59,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_126,師父大人他到底想幹什麼呢……
-60,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_127,不過師父大人難得有了幹勁，<hex:02100103>我作為弟子也必須幫忙才對。<hex:02100103>請冒險者你繼續使用文理融合器吧。
-61,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_100_127,當記錄的「文理技能」達到50種以上時，<hex:02100103>可以與北點的德雷克對話，<hex:02100103>開放新的道具交換。
-62,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_130,冒險者，你來得正好。<hex:02100103>師父大人他差不多快要發布研究成果了。
-63,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_131,師父大人想要調整嵌寫記憶的方法，<hex:02100103>發明武器以外的東西來著。<hex:02100103>到底他想製作出什麼呢……嗯？
-64,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_GEROLT_000_132,我過來是想告訴德雷克研究成果的，<hex:02100103>不過跟我猜的一樣，你果然也在這裡。<hex:02100103>真是省得我去找你了。
-65,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_GEROLT_000_133,我這回研究出了將武器強化理論運用到防具上的方法，<hex:02100103>也就是可以用湧火地帶的素材製作防具了。
-66,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_GEROLT_000_134,不過光是強化武器就夠我忙的了。<hex:02100103>我只負責設計，之後製作的事情就交給調查隊的工匠了。<hex:02100103>你可以自己拿材料來找他製作想要的防具。
-67,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_135,……居然連防具都設計出來了，真不愧是師父大人啊。<hex:02100103>要是能一直拿出這種幹勁，<hex:02100103>那就根本不用向羅薇娜小姐借錢了。
-68,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_136,總之，研究到此告一段落。<hex:02100103>感謝你的幫忙。<hex:02100103>請你今後繼續自由使用文理融合器。
-69,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_Q1_000_000,要做什麼？
-70,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_A1_000_001,鑑定文理碎晶
-71,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_A1_000_002,查看文理技能
-72,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_A1_000_003,詢問有關文理融合器
-73,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_A1_000_004,對話
-74,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_A1_000_005,取消
-75,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_Q2_000_000,想了解什麼？
-76,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_A2_000_001,關於文理融合器
-77,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_A2_000_002,關於未鑑定的文理碎晶
-78,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_A2_000_003,關於文理碎晶的鑑定
-79,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_A2_000_004,關於提取記憶
-80,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_A2_000_006,關於文理技能的使用方法
-81,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_A2_000_007,關於特殊的文理技能
-82,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_A2_000_008,返回
-83,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_500,師父大人設計的這個裝置名為文理融合器，<hex:02100103>能夠從一種被稱為文理碎晶的特殊水晶中提取記憶，<hex:02100103>並將記憶加工成能夠賦予給他人的藥品。
-84,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_000_501,將「文理碎晶」放入「文理融合器」，<hex:02100103>選擇「提取記憶」，<hex:02100103>就可以獲得「文理技能」。
-85,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_510,乙太結晶化形成的水晶中<hex:02100103>有些具有使記憶寄宿於其中的神奇特性。<hex:02100103>「文理碎晶」便是其中一種。
-86,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_000_511,無法具體辨別「未鑑定的文理碎晶」寄宿著何種記憶。<hex:02100103>因此無法放入「文理融合器」。
-87,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_100_511,另外，可以在「<hex:02281CFF17>ContentFinderCondition<hex:E8022C03>」之後的區域<hex:02100103>獲得「未鑑定的文理碎晶」。
-88,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_520,如果你在探索中發現了「文理碎晶」的話，<hex:02100103>請先交給我看看。<hex:02100103>我會為你鑑定出碎晶中寄宿著什麼樣的記憶。
-89,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_000_521,通過「鑑定文理碎晶」<hex:02100103>可以辨別出「未鑑定的文理碎晶」中寄宿的記憶的種類。<hex:02100103>只有經過鑑定的文理碎晶才可以放入「文理融合器」。
-90,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_000_522,另外，經過鑑定的「文理碎晶」<hex:02100103>可以通過介面上顯示的「魔素板」進行確認。
-91,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_000_523,經過鑑定的「文理碎晶」每種的持有上限為200個。<hex:02100103>當持有數量超過200個時，超出的部分將會被自動捨棄。
-92,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_530,提取記憶什麼的，師父大人的想法真的是很厲害啊。<hex:02100103>說實在的，我最初聽他說起這個的時候，<hex:02100103>都懷疑能不能行得通。
-93,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_000_531,通過「提取記憶」可以從設定的「文理碎晶」中<hex:02100103>獲得相應的「文理技能」。
-94,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_100_531,另外，分別在「星極融合器」和「靈極融合器」設定文理碎晶，<hex:02100103>進行「提取記憶」後，可以獲得擁有2種技能的「文理技能」。
-95,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_000_532,不過，如果「提取記憶」時，<hex:02100103>設定的「文理碎晶」數量在4個以上，<hex:02100103>則有可能會造成失敗。
-96,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_100_532,「提取記憶」失敗時，<hex:02100103>將無法獲得「文理技能」，<hex:02100103>並且設定的「文理碎晶」也會全部消失。
-97,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_550,使用文理融合器將提取出來的他人的記憶賦予給自己的話，<hex:02100103>就能使用出平常無法使用的戰技或是魔法。<hex:02100103>我想冒險者你肯定能夠靈活運用的。
-98,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_000_551,從介面發動「文理技能」後，<hex:02100103>會在自身狀態效果欄顯示「繼承文理技能」。
-99,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_000_552,在「繼承文理技能」的狀態中，<hex:02100103>可以將發動的「文理技能」作為任務指令使用。
-100,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_100_552,另外，如果在「繼承文理技能」的狀態中，<hex:02100103>再次發動其他的「文理技能」，<hex:02100103>則會覆蓋當前的任務指令。
-101,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_110_552,此外，退出任務後會解除「繼承文理技能」狀態。<hex:02100103>請多加注意。
-102,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_560,使用不同組合的文理碎晶來提取記憶的話，<hex:02100103>對於最終結果可能會產生變化。<hex:02100103>難道是記憶的關聯性造成的影響嗎……
-103,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_000_561,在「文理技能」當中，<hex:02100103>部分技能需要在「提取記憶」時<hex:02100103>設定複數的特定「文理碎晶」才能獲得。
-104,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_100_561,例如同時設定3個「文理麻痺」，<hex:02100103>經過提取記憶後可以獲得「文理強麻痺」。<hex:02100103>請不斷地嘗試各種各樣的組合吧！
-105,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_600,找我有話說……你不會是來訂做水壺的吧……<hex:02100103>其實還真有人從大老遠跑到優雷卡來下訂單啊。<hex:02100103>費這麼大力氣都想得到師父大人打造的水壺……真是夠執著的。
-106,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_TALK_ACTOR,
-107,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_034,
-108,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_540,
-109,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_000_541,
-110,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_000_542,
-111,TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_000_543,
+0,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_001","Apologies, <hex:02080FE905FF06>madam<hex:FF04>sir<hex:03>, but if you wish to avail yourself of the logos manipulator, I'm afraid I must ask you to wait until I have finished with my final adjustments."
+1,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_010","Greetings, <hex:02080FE905FF06>madam<hex:FF04>sir<hex:03>. You are come at the behest of Master Gerolt, I presume?"
+2,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_011","Wonderful, wonderful! Pray allow me to explain the operation of the logos manipulator to you, then."
+3,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_012","I am sure that in your extensive travels you have come across all manner of crystals, including those which are host to the wisdom and memories of others. Soul crystals, for instance."
+4,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_013","These echoes of experience─or mnemes, as we have taken to calling them─have been discovered in a wide variety of crystals we've collected in Pyros."
+5,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_014","After studying these logograms for a time, we've devised a means to extract the mnemes within and transubstantiate them into an alchemical substance which can confer incredible abilities upon an individual!"
+6,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_015","These abilities need not be within the means of the user. Be they formidable weaponskills or magicks, through the power of the mnemes contained within the logograms born of this otherworldly place, the impossible is possible."
+7,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_016","I have every reason to believe that these abilities will prove invaluable in your exploration of Pyros and beyond!"
+8,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_017","...Though, having said that out loud, I would be surprised if you weren't the least bit skeptical."
+9,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_018","Perhaps a demonstration is in order. Take this logogram to the manipulator and see for yourself how it works. It's quite easy to use, rest assured."
+10,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_020","Before we continue, I think it would be best if you tried using that logogram I gave you with the manipulator. I can think of no better way to show you the potential of mnemes."
+11,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_030","Simple, is it not? Like I said, the manipulator can be used to quickly and easily extract mnemes from within your logograms and transubstantiate them into myriad alchemical substances which will empower you in ways beyond imagination."
+12,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_031","However, as the precise nature of logograms is not readily discerned by the layman, any which you discover in the wild you will first need to bring to me for appraisal."
+13,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_032","Once I have identified the nature of the mnemes contained within a given logogram, you may use it with the manipulator."
+14,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_033","Furthermore, while you may process logograms one at a time, you might find it advantageous to extract and transubstantiate mnemes from multiple logograms at once. Certain combinations may produce more potent substances."
+15,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_100_033","During your exploration of <hex:02281CFF17>ContentFinderCondition<hex:E8022C03> and subsequent regions, you may obtain <hex:024804F201F403><hex:024904F201F503>logograms<hex:0249020103><hex:0248020103>."
+16,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_110_033","Logograms can be appraised by Drake, who will identify the precise nature of the mnemes contained within."
+17,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_120_034","Once logograms have been appraised, they may be used in conjunction with the logos manipulator to obtain <hex:024804F201F403><hex:024904F201F503>logos actions<hex:0249020103><hex:0248020103>."
+18,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_130_034","Up to three logos actions may be set at any time."
+19,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_140_034","Furthermore, you may review information regarding all logos actions obtained to date by speaking with Drake."
+20,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_KRILE_000_035","Ah, there you are. Drake has briefed you on the logos manipulator, I take it?"
+21,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_036","I have, Mistress Krile. <hex:02080CE905FF04>She<hex:FF03>He<hex:03> should have no difficulties using it."
+22,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_KRILE_000_037","Glad to hear it. I've finished my tests of the proto-aetheryte. Perhaps we could discuss the results over yonder?"
+23,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_038","Oh, before I forget─the logos manipulator is key to Master Gerolt's plans for further augmenting your Eureka weapon. When you have a moment to spare, I can tell you more."
+24,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_040","Well met, <hex:02080FE905FF06>madam<hex:FF04>sir<hex:03>. Mistress Krile sent you to speak with me, did she not? I will get right to the point, then."
+25,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_041","In actuality, the logos manipulator is designed to incorporate two arrays, not just one. If we were to integrate a second, its capacity would be, in essence, doubled, allowing for more complex transubstantiation."
+26,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_042","However, we lacked the necessary components when we first built it, which is why it only has the one array."
+27,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_043","It would be such a shame not to take full advantages of its capabilities, though, which is why I bade Mistress Krile send you to me. You see, what I require may be at the Surgate Town House to the southeast!"
+28,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_044","I've written a detailed description of the components I seek. If you could spare the time to journey there and search the ruins for anything resembling it, I promise it will be worth your while!"
+29,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_050","Trust me when I say that you will not regret helping me upgrade the logos manipulator, my friend! Now then─was there something else you required?"
+30,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_060","A pleasure to see you again! Could it be that you have brought me the components I seek?"
+31,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_061","What luck! They seem to be in good working order. If you'll give me a moment..."
+32,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_062","There, I've completed the modifications! The logos manipulator now has two arrays which you may use to transubstantiate alchemical substances which will confer upon you multiple abilities!"
+33,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_063","I should warn you that the process is not foolproof, though. With every logogram added to the mix beyond the first three, there is an increased chance of failure. But with great risk comes great reward, as they say."
+34,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_064","Feel free to test this new functionality at your leisure."
+35,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_100_064","An umbral array has been added to the logos manipulator, doubling its capacity."
+36,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_110_064","By utilizing both the astral and umbral arrays during transubstantiation, you may acquire two logos actions which can be registered simultaneously."
+37,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_120_064","A maximum of six logograms─three in each array─may be processed in this manner."
+38,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_130_064","However, be advised that attempts to transubstantiate mnemes from four or more logograms may end in failure."
+39,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_140_064","In the event transubstantiation is unsuccessful, logograms will be consumed."
+40,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_065","By the way, Mistress Krile was asking after you not long ago. I gather she has something important to share with you."
+41,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_100","Wonderful news, <hex:02080FE905FF06>madam<hex:FF04>sir<hex:03>! Owing to the data you have helped us gather with the logos manipulator, we have made a tremendous breakthrough!"
+42,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_101","I informed Master Gerolt of this as well but moments ago. He should be joining us any moment now..."
+43,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_GEROLT_000_102","Oh, I see the <hex:02080EE905FF05>lass<hex:FF04>lad<hex:03> is here too. I reckon ye've heard the big news then. We've devised a way to augment yer weapon further. Just a little, but it ought to tide ye over for a time."
+44,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_GEROLT_000_103","If yer keen, bring me the necessary materials an' I'll get to work straightaway! An' if yer not, then why in the seven hells are we doin' this, am I right? So don't keep me waitin'!"
+45,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_104","Er, well...I suppose he has a point. Anyway, should we achieve another breakthrough in our research, I will inform you at once."
+46,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_000_105","You may enhance your Eureka weapon further upon recording twenty or more unique entries in your Logos Action Log and speaking with Drake."
+47,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_110","Thank you so much for your hard work, <hex:02080FE905FF06>madam<hex:FF04>sir<hex:03>! As you may have guessed, we've made yet another breakthrough in our research."
+48,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_111","Master Gerolt wished to speak with you as well on this momentous occasion..."
+49,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_GEROLT_000_112","Well done, <hex:02080EE905FF05>lass<hex:FF04>lad<hex:03>! All yer messin' about with that manipulator o' ours is payin' off an' then some!"
+50,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_GEROLT_000_113","Bring me yer weapon an' the various tidbits I need, quickly now! I'm itchin' to put this new method o' mine to the proof!"
+51,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_114","Full glad am I to see him so enthusiastic, even if it is a bit frightening..."
+52,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_000_115","You may enhance your Eureka weapon further upon recording thirty or more unique entries in your Logos Action Log and speaking with Drake."
+53,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_120","I must say, <hex:02080FE905FF06>madam<hex:FF04>sir<hex:03>, that your hard work and dedication never ceases to impress."
+54,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_121","I am sure you know full well what tidings we have to share. But let us allow Master Gerolt the honors..."
+55,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_GEROLT_000_122","...Eh? What're you two standin' around like a couple o' slack-jawed imbeciles for? Starin' at me like yer waitin' for a grand an' momentous announcement o' some sort. Pah! Bugger that."
+56,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_GEROLT_000_123","Hah, I'm just pullin' yer leg, <hex:02080EE905FF05>lass<hex:FF04>lad<hex:03>! We've been hard at work, me an' Miss Krile, porin' over yer data, and we've done it! Found ourselves a way to push yer weapon to her very limits, we have!"
+57,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_GEROLT_000_124","Which isn't to say that there's nothin' to be gained from further research, though. Aye, I reckon there's a few more ways I might put these thrice-damned mnemes to good use..."
+58,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_GEROLT_000_125","Anyroad, keep on playin' with the manipulator an' seein' what ye can't learn. Soak up all the knowledge an' wisdom this godsdamned place has to offer, an' then share it with us! Ye won't be disappointed!"
+59,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_126","...What in the world is he talking about?"
+60,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_127","I can only assume it's something other than Eureka weapons, though I honestly can't say what. Still, if he believes there's something to be gained from further research, then I must implore you to carry on with your experimentation..."
+61,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_100_127","Upon recording fifty or more unique entries in your Logos Action Log and speaking with Drake, you will be able to acquire new items."
+62,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_130","Excellent, you're here. Master Gerolt bade me seek you out, but it seems you saved me the trouble of trudging through the snow."
+63,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_131","It would seem that his continued work with mnemes had nothing at all to do with weapons, but something else altogether. He's been very busy of late..."
+64,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_GEROLT_000_132","Oho, if it isn't the hero o' the hour! Yer a bleedin' master o' mnemes, ye are, an' let no man say different."
+65,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_GEROLT_000_133","I've applied all the data ye've supplied us with to a forgotten project o' mine: Eureka gear! Thought I forgot all about it, didn't ye? Well, I didn't!"
+66,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_GEROLT_000_134","Turned out to be a lot easier than I anticipated, too. So easy, in fact, that I'm leavin' the production o' said gear to this here gent. If ye want for new an' improved stuff, speak with him an' he'll get ye sorted. An' that's that!"
+67,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_135","If only he could be so innovative and driven at all times, perhaps he'd have never been taken in by Rowena..."
+68,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_136","Ahem. In any case, I think it safe to say that we no longer have need of research data. You may, of course, continue to use the manipulator as you like. Thank you again for your continued assistance!"
+69,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_Q1_000_000","Select an option."
+70,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_A1_000_001","Appraise logograms."
+71,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_A1_000_002","Review logos actions."
+72,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_A1_000_003","Learn about the logos manipulator."
+73,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_A1_000_004","Small talk."
+74,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_A1_000_005","Nothing."
+75,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_Q2_000_000","What will you ask about?"
+76,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_A2_000_001","The logos manipulator."
+77,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_A2_000_002","Unidentified logograms."
+78,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_A2_000_003","Appraising logograms."
+79,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_A2_000_004","Extracting and transubstantiating mnemes."
+80,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_A2_000_006","Using logos actions."
+81,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_A2_000_007","Rare and unique logos actions."
+82,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_A2_000_008","Nothing."
+83,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_500","The logos manipulator is that wonderful device over there which you can use to extract and transubstantiate mnemes from logograms."
+84,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_000_501","By using logograms in conjunction with the logos manipulator, you can obtain a variety of logos actions."
+85,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_510","Logograms are not unlike soul crystals in that they contain fragments of memories and experiences of others─individuals who probably passed away and have since returned to the Lifestream."
+86,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_000_511","Unidentified logograms cannot be used with the logos manipulator and must first be appraised by Drake."
+87,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_100_511","During your exploration of <hex:02281CFF17>ContentFinderCondition<hex:E8022C03> and subsequent regions, you may obtain logograms."
+88,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_520","I am more than willing to appraise any and all logograms you acquire, and for free of charge. It really is no trouble at all."
+89,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_000_521","Logograms can be appraised by Drake, who will identify the precise nature of the mnemes contained within, after which they may be used in conjunction with the logos manipulator to obtain logos actions."
+90,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_000_522","Appraised logograms can be reviewed at any time via the icon in the upper left corner of your magia board."
+91,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_000_523","Be advised that you may only possess up to two hundred of a given type of logogram. Any obtained in excess of this limit during appraisal will be lost."
+92,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_530","I couldn't even begin to explain the process to you if I tried. Extracting the mnemes is amazing enough, but transubstantiating them into something else altogether? I struggled to believe it was possible before I saw it with my own eyes..."
+93,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_000_531","Through transubstantiation, mnemes extracted from logograms can be used to acquire logos actions."
+94,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_100_531","Moreover, by utilizing both the astral and umbral arrays during transubstantiation, you may acquire two logos actions which can be registered simultaneously."
+95,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_000_532","However, be advised that attempts to transubstantiate mnemes from four or more logograms may end in failure."
+96,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_100_532","In the event transubstantiation is unsuccessful, logograms will be consumed."
+97,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_550","Successful operation of the logos manipulator will yield a unique alchemical substance that, when consumed, confers incredible abilities upon an individual. All manner of weaponskills and magicks..."
+98,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_000_551","Upon selecting an action from the logos actions window, you will be granted the <hex:024804F201F403><hex:024904F201F503>Logos-minded<hex:0249020103><hex:0248020103> status."
+99,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_000_552","While this status is active, you will be able to utilize the previously selected logos action as a duty action."
+100,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_100_552","Be advised that should you select a different action from the logos actions window while this status is active, your previously registered duty actions will be overwritten."
+101,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_110_552","Furthermore, please be warned that upon leaving the Forbidden Land, Eureka, you will lose the Logos-minded status and will no longer be able to utilize the registered logos actions."
+102,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_560","By experimenting with different combinations of logograms, you might be able to acquire strange and unusual abilities. Mnemes have curious ways of interacting with each other, to say the least..."
+103,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_000_561","Certain logos actions can only be acquired by transubstantiating a specific combination of logograms simultaneously."
+104,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_100_561","Three Paralyze L logograms, for example, will yield the logos action Paralyze L III. Speak with other players and share information to discover new combinations!"
+105,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_600","I suppose I was due for a change of scenery. Not that there's anything wrong mending kettles. In fact, just the other day someone came all the way here just to get theirs looked at by Master Gerolt. Say what you will about the man, but if it's quality you want, there is no one better."
+106,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_TALK_ACTOR",""
+107,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_034",""
+108,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_540",""
+109,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_000_541",""
+110,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_000_542",""
+111,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_000_543",""

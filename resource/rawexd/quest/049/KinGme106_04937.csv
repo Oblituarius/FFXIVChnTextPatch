@@ -2,95 +2,95 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_KINGME106_04937_SEQ_00,霓虹酒杯的塔索斯正守衛著背後的門。
-1,TEXT_KINGME106_04937_SEQ_01,和塔索斯進行了交談，進入了忘斷軍的大本營後房。和後房的蓋諾爾特談談。<hex:02100103>若是離開了後房，霓虹酒杯的塔索斯會帶領冒險者再次前往後房。
-2,TEXT_KINGME106_04937_SEQ_02,和蓋諾爾特進行了交談。和九號解決方案真唯大道的菲洛蒙談談。
-3,TEXT_KINGME106_04937_SEQ_03,和菲洛蒙進行了交談。將<hex:022811FF0A>EventItem<hex:F61E927B0103>交給真唯大道的菲洛蒙。
-4,TEXT_KINGME106_04937_SEQ_04,從菲洛蒙處獲得了能量飲料。在真唯大道的菲洛蒙面前喝乾<hex:022811FF0A>EventItem<hex:F61E92690103>。
-5,TEXT_KINGME106_04937_SEQ_05,喝乾了能量飲料。將<hex:022811FF0A>EventItem<hex:F61E92680103>交給後房的蓋諾爾特。
-6,TEXT_KINGME106_04937_SEQ_06,將能量飲料交給了蓋諾爾特。和後房的烏克·拉瑪特談談。
-7,TEXT_KINGME106_04937_SEQ_07,和烏克·拉瑪特進行了交談。必須追上聽到了屋內人談話的古魯加……
-8,TEXT_KINGME106_04937_SEQ_08,
-9,TEXT_KINGME106_04937_SEQ_09,
-10,TEXT_KINGME106_04937_SEQ_10,
-11,TEXT_KINGME106_04937_SEQ_11,
-12,TEXT_KINGME106_04937_SEQ_12,
-13,TEXT_KINGME106_04937_SEQ_13,
-14,TEXT_KINGME106_04937_SEQ_14,
-15,TEXT_KINGME106_04937_SEQ_15,
-16,TEXT_KINGME106_04937_SEQ_16,
-17,TEXT_KINGME106_04937_SEQ_17,
-18,TEXT_KINGME106_04937_SEQ_18,
-19,TEXT_KINGME106_04937_SEQ_19,
-20,TEXT_KINGME106_04937_SEQ_20,
-21,TEXT_KINGME106_04937_SEQ_21,
-22,TEXT_KINGME106_04937_SEQ_22,
-23,TEXT_KINGME106_04937_SEQ_23,
-24,TEXT_KINGME106_04937_TODO_00,和蓋諾爾特對話
-25,TEXT_KINGME106_04937_TODO_01,和菲洛蒙對話
-26,TEXT_KINGME106_04937_TODO_02,將<hex:022811FF0A>EventItem<hex:F61E927B0103>交給菲洛蒙
-27,TEXT_KINGME106_04937_TODO_03,在菲洛蒙面前使用<hex:022811FF0A>EventItem<hex:F61E92690103>
-28,TEXT_KINGME106_04937_TODO_04,將<hex:022811FF0A>EventItem<hex:F61E92680103>交給蓋諾爾特
-29,TEXT_KINGME106_04937_TODO_05,和烏克·拉瑪特對話
-30,TEXT_KINGME106_04937_TODO_06,
-31,TEXT_KINGME106_04937_TODO_07,
-32,TEXT_KINGME106_04937_TODO_08,
-33,TEXT_KINGME106_04937_TODO_09,
-34,TEXT_KINGME106_04937_TODO_10,
-35,TEXT_KINGME106_04937_TODO_11,
-36,TEXT_KINGME106_04937_TODO_12,
-37,TEXT_KINGME106_04937_TODO_13,
-38,TEXT_KINGME106_04937_TODO_14,
-39,TEXT_KINGME106_04937_TODO_15,
-40,TEXT_KINGME106_04937_TODO_16,
-41,TEXT_KINGME106_04937_TODO_17,
-42,TEXT_KINGME106_04937_TODO_18,
-43,TEXT_KINGME106_04937_TODO_19,
-44,TEXT_KINGME106_04937_TODO_20,
-45,TEXT_KINGME106_04937_TODO_21,
-46,TEXT_KINGME106_04937_TODO_22,
-47,TEXT_KINGME106_04937_TODO_23,
-48,TEXT_KINGME106_04937_GULOOLJA_000_001,……
-49,TEXT_KINGME106_04937_WUKLAMAT_000_005,先和他聊聊吧……<hex:02100103>這裡的人似乎都認識喀赫奇瓦。
-50,TEXT_KINGME106_04937_TASSOS_000_010,這裡一般不讓人進。<hex:02100103>不過喀赫奇瓦提前跟我打過招呼了。
-51,TEXT_KINGME106_04937_TASSOS_000_011,穿過通道之後一直走，進最裡面的房間。
-52,TEXT_KINGME106_04937_WUKLAMAT_000_012,好！我們走！<hex:02100103>不管出現什麼都不會嚇到我的！
-53,TEXT_KINGME106_04937_WUKLAMAT_000_015,我專心攻擊時……<hex:02100103>是不是沖得太靠前了？
-54,TEXT_KINGME106_04937_ALISAIE_000_020,是有一點，最好還是大家步調一致。<hex:02100103>要是被敵人包圍了就麻煩了。
-55,TEXT_KINGME106_04937_CAHCIUA_000_025,聽說這間房間是由曾隸屬保全院的優秀技師設計的，<hex:02100103>所以才會有這麼多機械設備。
-56,TEXT_KINGME106_04937_ERENVILLE_000_030,……這事可別怨我。
-57,TEXT_KINGME106_04937_GULOOLJA_000_055,……
-58,TEXT_KINGME106_04937_GENOLT_000_060,抱歉讓你見笑了。<hex:02100103>我就是偶爾會這麼激動。
-59,TEXT_KINGME106_04937_GENOLT_000_061,第一次和你對視的時候，我覺得有些似曾相識。<hex:02100103>這或許就是命運吧……<hex:02100103>我們真的是第一次見面嗎？
-60,TEXT_KINGME106_04937_GENOLT_000_062,算了，先不管這個。<hex:02100103>我現在就有一件事想拜託你。
-61,TEXT_KINGME106_04937_GENOLT_000_063,其實我已經兩天沒睡了……<hex:02100103>我感覺自己差不多到了極限，馬上就要昏過去了。
-62,TEXT_KINGME106_04937_GENOLT_000_064,可我還要工作啊！<hex:02100103>為了不睡過去，我需要補充能量。<hex:02100103>這時候就輪到我最愛的能量飲料登場了……
-63,TEXT_KINGME106_04937_GENOLT_000_065,給，這是兌換券。<hex:02100103>我也請你喝一瓶，就算是表示對你的歡迎。
-64,TEXT_KINGME106_04937_GENOLT_000_066,你去找在真唯大道擺攤的菲洛蒙，<hex:02100103>把<hex:022811FF0A>EventItem<hex:F61E927B0103>給他，就能換到飲料啦！<hex:02100103>這可是販賣機裡買不到的好東西！
-65,TEXT_KINGME106_04937_GENOLT_000_070,啊啊啊！混蛋！！<hex:02100103>我明明都想好了！！怎麼做不出來啊！！
-66,TEXT_KINGME106_04937_PHILOMON_100_080,歡迎，要買點什麼？
-67,TEXT_KINGME106_04937_PHILOMON_000_080,販賣機裡買不到的能量飲料？！<hex:02100103>我們這裡可沒有那種嚇人東西！
-68,TEXT_KINGME106_04937_PHILOMON_000_081,別在我這裡搗亂！
-69,TEXT_KINGME106_04937_PHILOMON_000_082,……不過，你要是帶著那張紙，就偷偷拿出來給我。<hex:02100103>動作利索點，別被人看到了……
-70,TEXT_KINGME106_04937_PHILOMON_000_090,哦，原來是幫蓋諾爾特老闆跑腿的啊。<hex:02100103>你們倆一人一瓶對吧？
-71,TEXT_KINGME106_04937_PHILOMON_000_091,給。<hex:02100103>這瓶是老闆的，這瓶是給新手試喝的。
-72,TEXT_KINGME106_04937_PHILOMON_000_092,放心吧，這玩意不違法。<hex:02100103>只是如果被運營聯合商城的羅蒂娜商會知道了這種飲料，<hex:02100103>我會惹上麻煩。
-73,TEXT_KINGME106_04937_PHILOMON_000_093,所以你要喝的話就當著我的面喝完。<hex:02100103>我給你的雖然是<hex:022811FF0A>EventItem<hex:F61E92690103>，<hex:02100103>但有些人喝下去之後反應會很大，我也是以防萬一……
-74,TEXT_KINGME106_04937_PHILOMON_000_095,你要喝的話就當著我的面喝完。<hex:02100103>我給你的雖然是<hex:022811FF0A>EventItem<hex:F61E92690103>，<hex:02100103>但有些人喝下去之後反應會很大，我也是以防萬一……
-75,TEXT_KINGME106_04937_SYSTEM_000_100,必須當著菲洛蒙的面喝完<hex:022811FF0A>EventItem<hex:F61E92690103>……
-76,TEXT_KINGME106_04937_SYSTEM_000_101,一口氣喝完了整瓶<hex:022811FF0A>EventItem<hex:F61E92690103>……！
-77,TEXT_KINGME106_04937_PHILOMON_000_102,是個爽快人！
-78,TEXT_KINGME106_04937_PHILOMON_100_102,很快你就會心跳加速、雙目炯炯，<hex:02100103>被謎一般的感覺漫卷全身，<hex:02100103>隨即從體內迸發出滾滾能量！
-79,TEXT_KINGME106_04937_PHILOMON_100_103,體內有如湧出了七彩的能量！
-80,TEXT_KINGME106_04937_SYSTEM_000_103,
-81,TEXT_KINGME106_04937_PHILOMON_000_104,這瓶就麻煩你交給蓋諾爾特老闆啦！<hex:02100103>他現在肯定已經等得不耐煩了！
-82,TEXT_KINGME106_04937_WUKLAMAT_000_106,你忙完了？<hex:02100103>我正在複習關於調魂器的知識呢！
-83,TEXT_KINGME106_04937_CAHCIUA_000_107,怎麼樣，是不是都是些有趣而特別的同伴？<hex:02100103>蓋諾爾特和謝爾都是我招進來的人。
-84,TEXT_KINGME106_04937_ALISAIE_000_108,歡迎回來……<hex:02100103>怎麼覺得你眼睛炯炯有神的？
-85,TEXT_KINGME106_04937_ERENVILLE_000_109,那個叫蓋諾爾特的傢伙真是個工作狂……<hex:02100103>他一會嘟囔一會大叫，看起來很忙的樣子。
-86,TEXT_KINGME106_04937_GENOLT_000_110,你拿回來了啊！<hex:02100103>快……快把東西給我！
-87,TEXT_KINGME106_04937_GENOLT_000_111,呼哈哈哈！<hex:02100103>就是這個！通宵兩夜的腦袋可不能沒有它！
-88,TEXT_KINGME106_04937_GENOLT_000_112,每次喝這飲料，我都感覺體內有什麼東西要覺醒了。<hex:02100103>嗷嗷有勁，呼之欲出！
-89,TEXT_KINGME106_04937_GENOLT_000_113,抱歉啊！剛打了個照面就讓你跑腿！<hex:02100103>但少喝一口這飲料我都沒法集中注意力……<hex:02100103>不集中就無法完成這堆積如山的工作！
-90,TEXT_KINGME106_04937_GENOLT_000_114,改良同伴的武器、修理入侵設備……<hex:02100103>加油！該幹活啦！！
-91,TEXT_KINGME106_04937_GENOLT_000_120,哈哈哈！就是這種感覺！<hex:02100103>我完全清醒了！渾身都是力氣！
+0,"TEXT_KINGME106_04937_SEQ_00","Tassos stands stoically before the door."
+1,"TEXT_KINGME106_04937_SEQ_01","After a quick word with Tassos, you are shown through to the Backroom, the headquarters of Oblivion. There, Cahciua, Shale, and Genolt provide you with an overview of their operations, which include investigating Preservation, an organization credited with developing interdimensional fusion─the power which brought Alexandria to Tural. In the course of the conversation, Shale recognizes Krile's earring to be a data storage device. The manner in which Krile and the accessory arrived in the Source leads to speculation that her parents may in fact be the founders of Oblivion, and she is given permission to review data in the Backroom. While your other comrades are then engaged in various ways, you find yourself roped into lending Genolt a hand. Even now, he regards you with his unsettlingly familiar grin in anticipation of your aid...<hex:02100103><hex:02100103>※In the event that you leave the Backroom, you may re-enter by speaking with Tassos at the Neon Stein."
+2,"TEXT_KINGME106_04937_SEQ_02","Severely sleep-deprived but determined to do his work, Genolt tasks you with fetching his favorite energy tonic. He hands you vouchers that can be exchanged for two cans─one for him and one for you─which you are to collect from a man named Philomon on the main strip of True Vue."
+3,"TEXT_KINGME106_04937_SEQ_03","Upon finding Philomon, you are taken aback when he angrily denies selling energy tonics. His tone quickly changes, however, as he leans in and quietly tells you to give him the voucher."
+4,"TEXT_KINGME106_04937_SEQ_04","Philomon hands you the cans of energy tonic, with yours apparently formulated for beginners. This being your first time, he requires that you drink it in his presence in case there are side effects."
+5,"TEXT_KINGME106_04937_SEQ_05","You drink the energy tonic and experience transcendent alertness, all with seemingly no adverse effects. Satisfied that all is well, Philomon bids you return to the Backroom to deliver Genolt his tonic."
+6,"TEXT_KINGME106_04937_SEQ_06","No sooner do you put the tonic into Genolt's hand than he drains it in one pull. The effect is immediate and intense, and the man resumes his work with newfound vigor. Having completed your little errand, you turn to join Wuk Lamat in conversation with Cahciua."
+7,"TEXT_KINGME106_04937_SEQ_07","Cahciua confirms your suspicions: the blue-scaled Hoobigo child is most certainly Zoraal Ja's son. Named Gulool Ja by Cahciua after she found him, he was abandoned at an early age and prefers to be on his own. As his aunt, Wuk Lamat expresses her desire to take him in, but when she mentions her objective of killing his father, you are alerted to the sound of fleeing footfalls. To everyone's dismay, it appears that Gulool Ja was eavesdropping. Desperate to explain herself to her nephew, Wuk Lamat will set out to find him, and you and Alisaie will help search outside Everkeep."
+8,"TEXT_KINGME106_04937_SEQ_08",""
+9,"TEXT_KINGME106_04937_SEQ_09",""
+10,"TEXT_KINGME106_04937_SEQ_10",""
+11,"TEXT_KINGME106_04937_SEQ_11",""
+12,"TEXT_KINGME106_04937_SEQ_12",""
+13,"TEXT_KINGME106_04937_SEQ_13",""
+14,"TEXT_KINGME106_04937_SEQ_14",""
+15,"TEXT_KINGME106_04937_SEQ_15",""
+16,"TEXT_KINGME106_04937_SEQ_16",""
+17,"TEXT_KINGME106_04937_SEQ_17",""
+18,"TEXT_KINGME106_04937_SEQ_18",""
+19,"TEXT_KINGME106_04937_SEQ_19",""
+20,"TEXT_KINGME106_04937_SEQ_20",""
+21,"TEXT_KINGME106_04937_SEQ_21",""
+22,"TEXT_KINGME106_04937_SEQ_22",""
+23,"TEXT_KINGME106_04937_SEQ_23",""
+24,"TEXT_KINGME106_04937_TODO_00","Speak with Genolt."
+25,"TEXT_KINGME106_04937_TODO_01","Speak with Philomon."
+26,"TEXT_KINGME106_04937_TODO_02","Give the energy tonic vouchers to Philomon."
+27,"TEXT_KINGME106_04937_TODO_03","Drink your energy tonic in front of Philomon."
+28,"TEXT_KINGME106_04937_TODO_04","Deliver the energy tonic to Genolt."
+29,"TEXT_KINGME106_04937_TODO_05","Speak with Wuk Lamat."
+30,"TEXT_KINGME106_04937_TODO_06",""
+31,"TEXT_KINGME106_04937_TODO_07",""
+32,"TEXT_KINGME106_04937_TODO_08",""
+33,"TEXT_KINGME106_04937_TODO_09",""
+34,"TEXT_KINGME106_04937_TODO_10",""
+35,"TEXT_KINGME106_04937_TODO_11",""
+36,"TEXT_KINGME106_04937_TODO_12",""
+37,"TEXT_KINGME106_04937_TODO_13",""
+38,"TEXT_KINGME106_04937_TODO_14",""
+39,"TEXT_KINGME106_04937_TODO_15",""
+40,"TEXT_KINGME106_04937_TODO_16",""
+41,"TEXT_KINGME106_04937_TODO_17",""
+42,"TEXT_KINGME106_04937_TODO_18",""
+43,"TEXT_KINGME106_04937_TODO_19",""
+44,"TEXT_KINGME106_04937_TODO_20",""
+45,"TEXT_KINGME106_04937_TODO_21",""
+46,"TEXT_KINGME106_04937_TODO_22",""
+47,"TEXT_KINGME106_04937_TODO_23",""
+48,"TEXT_KINGME106_04937_GULOOLJA_000_001","..."
+49,"TEXT_KINGME106_04937_WUKLAMAT_000_005","Come on, let's talk to this Tassos fellow."
+50,"TEXT_KINGME106_04937_TASSOS_000_010","This area's normally off-limits, but Cahciua's told us about you."
+51,"TEXT_KINGME106_04937_TASSOS_000_011","Just follow the corridor, and head into the room at the end."
+52,"TEXT_KINGME106_04937_WUKLAMAT_000_012","Let's go, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Whatever happens, you won't catch me being surprised!"
+53,"TEXT_KINGME106_04937_WUKLAMAT_000_015","When I go on the attack, do you think I'm pushing forward too quickly?"
+54,"TEXT_KINGME106_04937_ALISAIE_000_020","A little. Try to keep closer to the rest of us so you don't get surrounded."
+55,"TEXT_KINGME106_04937_CAHCIUA_000_025","This place was originally designed by a Preservation engineer. That's why it's wall-to-wall with contraptions."
+56,"TEXT_KINGME106_04937_ERENVILLE_000_030","...Better you than me."
+57,"TEXT_KINGME106_04937_GULOOLJA_000_055","...!"
+58,"TEXT_KINGME106_04937_GENOLT_000_060","Sorry ye had to see me passions spillin' over. Happens when ye put yer heart an' soul into yer craft, ye know?"
+59,"TEXT_KINGME106_04937_GENOLT_000_061","An' not to be weird or nothin', but I felt a sense o' kinship when I saw ye. As if we've met in another life..."
+60,"TEXT_KINGME106_04937_GENOLT_000_062","Anyroad! As I was sayin', I need someone to lend me a hand."
+61,"TEXT_KINGME106_04937_GENOLT_000_063","I haven't slept fer two nights now─not a single wink─an' I'm ripe to collapse."
+62,"TEXT_KINGME106_04937_GENOLT_000_064","Can't afford to, though─got folks relyin' on me, see. But if I'm to keep at it, I need ye to fetch me my favorite energy tonic."
+63,"TEXT_KINGME106_04937_GENOLT_000_065","That voucher's good fer two cans─one fer yerself by way o' welcome."
+64,"TEXT_KINGME106_04937_GENOLT_000_066","Can't get the stuff at any old vendin' machine, though. Ye need to talk to a bloke named Philomon. You'll find him tendin' a bar out on the main strip. Off ye go, now!"
+65,"TEXT_KINGME106_04937_GENOLT_000_070","Gah, damn it all! It's such a fine-looking beauty in the blueprint─why doesn't mine look like that!?"
+66,"TEXT_KINGME106_04937_PHILOMON_100_080","Welcome. What are you having?"
+67,"TEXT_KINGME106_04937_PHILOMON_000_080","Energy tonics you can't get from vending machines!? How dare you suggest that I sell such dangerous stuff!"
+68,"TEXT_KINGME106_04937_PHILOMON_000_081","Away with you! Away with you, and don't come back!"
+69,"TEXT_KINGME106_04937_PHILOMON_000_082","...Ahem. Got a voucher? Slip it to me, then. Nice and subtle."
+70,"TEXT_KINGME106_04937_PHILOMON_000_090","Ah, so you're collecting for Genolt. A can for him and a can for you, eh?"
+71,"TEXT_KINGME106_04937_PHILOMON_000_091","Here you go. Yours is formulated for beginners. Gentler than the full-strength stuff."
+72,"TEXT_KINGME106_04937_PHILOMON_000_092","It's not contraband or anything, so you won't run afoul of the authorities. But if the Rhodina Consortium was made aware of my special selection, it'd be bad for business."
+73,"TEXT_KINGME106_04937_PHILOMON_000_093","Now, seeing as it's your first time, I want you to drink your tonic here. Just in case there're side effects."
+74,"TEXT_KINGME106_04937_PHILOMON_000_095","Bottoms up, now. Need to make sure it doesn't affect you in any unintended ways."
+75,"TEXT_KINGME106_04937_SYSTEM_000_100","Philomon requires that you drink the tonic in front of him, presumably so he can render aid should something go awry..."
+76,"TEXT_KINGME106_04937_SYSTEM_000_101","You drain the tonic in a single pull!"
+77,"TEXT_KINGME106_04937_PHILOMON_000_102","Heh, now that's how you do it!"
+78,"TEXT_KINGME106_04937_PHILOMON_100_102","Your pulse ought to quicken soon, after which you'll start to see everything more clearly. And then, finally, you'll feel a roaring surge of energy."
+79,"TEXT_KINGME106_04937_PHILOMON_100_103","People say it's like growing a pair of rainbow wings!"
+80,"TEXT_KINGME106_04937_SYSTEM_000_103",""
+81,"TEXT_KINGME106_04937_PHILOMON_000_104","Well, you haven't up and carked it, so hurry along and give Genolt his tonic. He tends to leave it to the last moment, and I expect he's about to keel over."
+82,"TEXT_KINGME106_04937_WUKLAMAT_000_106","We're learning about regulators at the moment! How's your errand coming along?"
+83,"TEXT_KINGME106_04937_CAHCIUA_000_107","What do you think of the crew here? An interesting bunch, right? I personally recruited Genolt and Shale, by the way."
+84,"TEXT_KINGME106_04937_ALISAIE_000_108","Is it just me, or are there rainbows in your eyes?"
+85,"TEXT_KINGME106_04937_ERENVILLE_000_109","Nary a moment goes by without Genolt moaning and grunting. I presume it's how he expresses his passion for his work."
+86,"TEXT_KINGME106_04937_GENOLT_000_110","Ye've got the tonic? Give it here, quick!"
+87,"TEXT_KINGME106_04937_GENOLT_000_111","Ahhhhhh, that's the stuff! Ain't nothin' like it to blow the cobwebs right out─with a great big kaboom!"
+88,"TEXT_KINGME106_04937_GENOLT_000_112","Awakens something feral in me, it does. Transforms me into a remorseless beast what won't stop till it's done what it was born to do!"
+89,"TEXT_KINGME106_04937_GENOLT_000_113","Anyroad, sorry for sendin' ye off on an' errand like that. I just can't concentrate without me tonic, ye know? An' the pile o' work only ever gets bigger."
+90,"TEXT_KINGME106_04937_GENOLT_000_114","Speakin' o' which, I better get back to it! Those weapons an' tools ain't goin' to enhance themselves!"
+91,"TEXT_KINGME106_04937_GENOLT_000_120","Ahahaha! It begins! Mine's the clarity, mine's the precision!"

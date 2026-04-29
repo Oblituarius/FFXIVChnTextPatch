@@ -2,127 +2,127 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_SUBPST016_01576_SEQ_00,郵差莫古力前輩有封送往小阿拉米格的信要交給冒險者。
-1,TEXT_SUBPST016_01576_SEQ_01,接受了郵差莫古力前輩的委託，前去送信。前往南薩納蘭的小阿拉米格，將信交給希希菈。
-2,TEXT_SUBPST016_01576_SEQ_02,將希希菈的父親希希巴魯寫的信交給了希希菈。信上說：「我的胃已經到極限了。在離開這個世界之前，我有樣東西要交給你……」為了製作藥茶，救治希希巴魯，在南薩納蘭的贊拉克採集3個<hex:022811FF0A>EventItem<hex:F61E8A5D0103>。
-3,TEXT_SUBPST016_01576_SEQ_03,採集到了3個<hex:022811FF0A>EventItem<hex:F61E8A5D0103>。回到小阿拉米格，將<hex:022811FF0A>EventItem<hex:F61E8A5D0103>交給希希菈。
-4,TEXT_SUBPST016_01576_SEQ_04,將<hex:022811FF0A>EventItem<hex:F61E8A5D0103>交給了希希菈。希希菈在做好藥茶之後，會去她父親那邊。先前往東薩納蘭的跨天橋，確認希希巴魯的情況。
-5,TEXT_SUBPST016_01576_SEQ_05,和希希巴魯進行了交談。希希巴魯並不是因為生病，而是因為赤字才感到胃痛。希希菈因為希希巴魯的話語而憤怒離去。在東薩納蘭的枯骨尋找希希菈。
-6,TEXT_SUBPST016_01576_SEQ_06,在枯骨發現了被蜥蜴人族包圍的希希菈。救助希希菈。
-7,TEXT_SUBPST016_01576_SEQ_07,成功救助了希希菈，並被委託傳話。向跨天橋的希希巴魯傳達希希菈平安無事的消息。
-8,TEXT_SUBPST016_01576_SEQ_08,將希希菈平安無事的消息告訴希希巴魯後，希希巴魯將<hex:022811FF0A>EventItem<hex:F61E8A5E0103>交給了冒險者。回到小阿拉米格，將<hex:022811FF0A>EventItem<hex:F61E8A5E0103>交給希希菈。
-9,TEXT_SUBPST016_01576_SEQ_09,將<hex:022811FF0A>EventItem<hex:F61E8A5E0103>交給了希希菈，並把希希巴魯的話轉達給了她。希希菈和希希巴魯重新對對方有了新的認識。雖然兩個人今後還會走在不同的路上，但會懷揣著與以往不同的心情，互相珍視對方。
-10,TEXT_SUBPST016_01576_SEQ_10,
-11,TEXT_SUBPST016_01576_SEQ_11,
-12,TEXT_SUBPST016_01576_SEQ_12,
-13,TEXT_SUBPST016_01576_SEQ_13,
-14,TEXT_SUBPST016_01576_SEQ_14,
-15,TEXT_SUBPST016_01576_SEQ_15,
-16,TEXT_SUBPST016_01576_SEQ_16,
-17,TEXT_SUBPST016_01576_SEQ_17,
-18,TEXT_SUBPST016_01576_SEQ_18,
-19,TEXT_SUBPST016_01576_SEQ_19,
-20,TEXT_SUBPST016_01576_SEQ_20,
-21,TEXT_SUBPST016_01576_SEQ_21,
-22,TEXT_SUBPST016_01576_SEQ_22,
-23,TEXT_SUBPST016_01576_SEQ_23,
-24,TEXT_SUBPST016_01576_TODO_00,將<hex:022811FF0A>EventItem<hex:F61E8A5C0103>交給小阿拉米格的希希菈
-25,TEXT_SUBPST016_01576_TODO_01,在贊拉克採集<hex:022811FF0A>EventItem<hex:F61E8A5D0103>
-26,TEXT_SUBPST016_01576_TODO_02,將<hex:022811FF0A>EventItem<hex:F61E8A5D0103>交給希希菈
-27,TEXT_SUBPST016_01576_TODO_03,和跨天橋的希希巴魯對話
-28,TEXT_SUBPST016_01576_TODO_04,在枯骨尋找希希菈
-29,TEXT_SUBPST016_01576_TODO_05,救助希希菈
-30,TEXT_SUBPST016_01576_TODO_06,向希希巴魯報告
-31,TEXT_SUBPST016_01576_TODO_07,將<hex:022811FF0A>EventItem<hex:F61E8A5E0103>交給小阿拉米格的希希菈
-32,TEXT_SUBPST016_01576_TODO_08,
-33,TEXT_SUBPST016_01576_TODO_09,
-34,TEXT_SUBPST016_01576_TODO_10,
-35,TEXT_SUBPST016_01576_TODO_11,
-36,TEXT_SUBPST016_01576_TODO_12,
-37,TEXT_SUBPST016_01576_TODO_13,
-38,TEXT_SUBPST016_01576_TODO_14,
-39,TEXT_SUBPST016_01576_TODO_15,
-40,TEXT_SUBPST016_01576_TODO_16,
-41,TEXT_SUBPST016_01576_TODO_17,
-42,TEXT_SUBPST016_01576_TODO_18,
-43,TEXT_SUBPST016_01576_TODO_19,
-44,TEXT_SUBPST016_01576_TODO_20,
-45,TEXT_SUBPST016_01576_TODO_21,
-46,TEXT_SUBPST016_01576_TODO_22,
-47,TEXT_SUBPST016_01576_TODO_23,
-48,TEXT_SUBPST016_01576_LETTERMOOGLE_000_000,小有進展的後輩，莫古等你好久了庫啵！<hex:02100103>你給很多人帶去了歡笑，<hex:02100103>莫古有件事務必要交給你去做庫啵！
-49,TEXT_SUBPST016_01576_LETTERMOOGLE_000_001,這裡有封寫給小阿拉米格的希希菈的信庫啵。<hex:02100103>寄信人是希希菈的父親希希巴魯庫啵！<hex:02100103>說是一封急件，希望能盡快送到庫啵。
-50,TEXT_SUBPST016_01576_LETTERMOOGLE_000_002,希希菈是一名煉金術士，<hex:02100103>她無償為阿拉米格的難民們製作藥材，是個非常善良的人庫啵！<hex:02100103>不過，莫古很擔心她是不是太過努力，勉強自己了庫啵……
-51,TEXT_SUBPST016_01576_LETTERMOOGLE_000_003,所以，如果這封信的內容讓希希菈感到困擾的話，<hex:02100103>莫古希望你能給予她支持和幫助庫啵！
-52,TEXT_SUBPST016_01576_LETTERMOOGLE_000_004,這封信是小阿拉米格的希希菈的父親寫給她的庫啵！<hex:02100103>說是一封急件，希望能盡快送到庫啵。
-53,TEXT_SUBPST016_01576_LETTERMOOGLE_000_005,（未使用/預計刪除）
-54,TEXT_SUBPST016_01576_HIHIRA_000_010,啊，冒險者，好久不見了！<hex:02100103>我現在正在學習調配阿拉米格的藥茶呢！<hex:02100103>……什麼，父親寫給我的信？
-55,TEXT_SUBPST016_01576_HIHIRA_000_012,「我的胃已經到極限了。<hex:02100103>在離開這個世界之前，我有樣東西要交給你……」<hex:02100103>……怎、怎麼會這樣，父親他……生病了？！
-56,TEXT_SUBPST016_01576_HIHIRA_000_015,能否請你到南邊贊拉克的草地上採些<hex:022811FF0A>EventItem<hex:F61E8A5D0103>回來？<hex:02100103>我剛剛學會調配一種治療胃病的藥茶！
-57,TEXT_SUBPST016_01576_HIHIRA_000_016,但是，贊拉克是蜥蜴人族的地盤……<hex:02100103>我一個人是沒辦法到那裡採集的。<hex:02100103>所以，想要藉助冒險者你的力量！
-58,TEXT_SUBPST016_01576_HIHIRA_000_017,只要採3個<hex:022811FF0A>EventItem<hex:F61E8A5D0103>就可以了……<hex:02100103>我現在掌握了在這裡學到的阿拉米格藥茶知識。<hex:02100103>我不會讓父親死去的，我一定會治好父親……
-59,TEXT_SUBPST016_01576_HIHIRA_000_011,（未使用/預計刪除）
-60,TEXT_SUBPST016_01576_HIHIRA_000_013,（未使用/預計刪除）
-61,TEXT_SUBPST016_01576_HIHIRA_000_014,（未使用/預計刪除）
-62,TEXT_SUBPST016_01576_HIHIRA_000_018,請你到小阿拉米格的南邊，<hex:02100103>在贊拉克的草地上採3個<hex:022811FF0A>EventItem<hex:F61E8A5D0103>。<hex:02100103>我不會讓父親死去的，我一定會治好父親……
-63,TEXT_SUBPST016_01576_HIHIRA_000_020,冒險者！<hex:02100103>你採到<hex:022811FF0A>EventItem<hex:F61E8A5D0103>了嗎？
-64,TEXT_SUBPST016_01576_HIHIRA_000_021,太好了……這樣就可以製作藥茶了！<hex:02100103>等我製作好了就拿去給父親，<hex:02100103>在此之前能拜託你去看看我父親的情況嗎？
-65,TEXT_SUBPST016_01576_HIHIRA_000_022,我的父親希希巴魯應該就在東薩納蘭的跨天橋統管商人們的活動，<hex:02100103>那麼就拜託你了。
-66,TEXT_SUBPST016_01576_HIHIRA_000_023,我製作好藥茶之後就會過去，<hex:02100103>在此之前請你去看看我父親的情況。
-67,TEXT_SUBPST016_01576_HIHIRA_000_024,我的父親希希巴魯應該就在東薩納蘭的跨天橋統管商人們的活動，<hex:02100103>那麼就拜託你了。
-68,TEXT_SUBPST016_01576_HIHIBARU_000_025,哦，好久不見了！<hex:02100103>……你這是怎麼了？怎麼一臉嚴肅的？
-69,TEXT_SUBPST016_01576_HIHIBARU_000_026,什麼？我得了胃病？將不久於世？<hex:02100103>你到底在說什麼啊……
-70,TEXT_SUBPST016_01576_HIHIRA_000_027,父親，快服下這個藥茶！<hex:02100103>……父、父親？
-71,TEXT_SUBPST016_01576_HIHIBARU_000_028,哎呀，希希菈，好久不見啦！
-72,TEXT_SUBPST016_01576_HIHIRA_000_029,父親……<hex:02100103>那個……你快喝下這個。
-73,TEXT_SUBPST016_01576_HIHIBARU_100_028,……哦？這是什麼啊？
-74,TEXT_SUBPST016_01576_HIHIRA_100_029,這是對身體有好處的藥茶……<hex:02100103>那個……你的胃怎麼樣了？
-75,TEXT_SUBPST016_01576_HIHIBARU_000_030,……啊，已經到極限了。
-76,TEXT_SUBPST016_01576_HIHIBARU_000_031,生意一直都不景氣，沒一點起色。<hex:02100103>唉……我原本在做買賣方面多少還是有點自信的，可……
-77,TEXT_SUBPST016_01576_HIHIBARU_000_032,每個月看到收支情況，我的胃就會隱隱作痛……<hex:02100103>我都考慮要退出商界了。
-78,TEXT_SUBPST016_01576_HIHIRA_000_033,……什麼？
-79,TEXT_SUBPST016_01576_HIHIBARU_000_034,……怎麼了？
-80,TEXT_SUBPST016_01576_HIHIRA_000_035,你說「離開這個世界」，難道是在說做買賣的事？<hex:02100103>那……你並沒有得胃病了？<hex:02100103>……真是太好了。
-81,TEXT_SUBPST016_01576_HIHIBARU_000_036,胃病？<hex:02100103>哎呀，你可真是夠小題大做的。
-82,TEXT_SUBPST016_01576_HIHIRA_000_037,呃……<hex:02100103>是我小題大做？怎麼這樣……
-83,TEXT_SUBPST016_01576_HIHIBARU_000_038,哎呀，算了。<hex:02100103>比起這個，我有樣東西必須得交給你……
-84,TEXT_SUBPST016_01576_HIHIRA_000_039,……父親，你……
-85,TEXT_SUBPST016_01576_HIHIBARU_000_040,嗯？你說什麼？
-86,TEXT_SUBPST016_01576_HIHIRA_000_041,父親你真是個……大笨蛋！
-87,TEXT_SUBPST016_01576_HIHIBARU_000_042,……那孩子到底是怎麼了，怎麼突然生起氣來了？
-88,TEXT_SUBPST016_01576_HIHIBARU_000_043,……原來如此，原來是這麼回事。<hex:02100103>哎呀哎呀……沒想到會讓她誤會。<hex:02100103>也是，那孩子她……
-89,TEXT_SUBPST016_01576_HIHIBARU_000_044,我真是不應該，隨口就說什麼「小題大做」。<hex:02100103>我得給那孩子道歉……<hex:02100103>希希菈是往哪邊跑了呢……
-90,TEXT_SUBPST016_01576_HIHIBARU_000_045,……糟了，冒險者！<hex:02100103>請你去追上希希菈！
-91,TEXT_SUBPST016_01576_HIHIBARU_000_046,最近枯骨附近經常會有蜥蜴人族出沒！<hex:02100103>如果那孩子遇到的話就危險了。
-92,TEXT_SUBPST016_01576_HIHIBARU_000_047,最近枯骨附近經常會有蜥蜴人族出沒！<hex:02100103>拜託你去追上希希菈！
-93,TEXT_SUBPST016_01576_HIHIRA_000_056,蜥、蜥蜴人族……<hex:02100103>不要……不要過來……
-94,TEXT_SUBPST016_01576_POP_MESSAGE_000_057,察覺到了敵人的氣息！
-95,TEXT_SUBPST016_01576_BALLOON_000_058,這裡也有人類！
-96,TEXT_SUBPST016_01576_BALLOON_000_059,抹殺掉人類！
-97,TEXT_SUBPST016_01576_HIHIRA_000_065,冒險者，真是麻煩你了……<hex:02100103>我剛剛一時衝動，也沒顧得上看周圍的情況。<hex:02100103>回過神來發現自己竟然跑到了蜥蜴人族的陣營附近。
-98,TEXT_SUBPST016_01576_HIHIRA_000_067,……我先回小阿拉米格了。<hex:02100103>能麻煩你告訴我父親，說我平安無事嗎？<hex:02100103>我需要……稍微整理下情緒……
-99,TEXT_SUBPST016_01576_HIHIRA_000_066,（未使用/預計刪除）
-100,TEXT_SUBPST016_01576_HIHIRA_000_068,謝謝你在危難之際救了我……<hex:02100103>父親應該很擔心吧，<hex:02100103>能麻煩你去告訴他我平安無事嗎？
-101,TEXT_SUBPST016_01576_HIHIBARU_000_070,冒險者，希希菈沒出事吧？！<hex:02100103>……這樣啊，太好了，真是太謝謝你了！
-102,TEXT_SUBPST016_01576_HIHIBARU_100_070,對了，剛剛我正擔心女兒的安危，<hex:02100103>沒想到胃竟然疼了起來。<hex:02100103>然後我就試著喝了希希菈帶來的藥茶……
-103,TEXT_SUBPST016_01576_HIHIBARU_000_071,現在胃就完全不痛了！<hex:02100103>感覺胃裡暖暖的、精神頭倍兒足！這藥可真是太靈了！<hex:02100103>哎呀哎呀，沒想到那孩子還有這種才能！
-104,TEXT_SUBPST016_01576_HIHIBARU_000_072,冒險者，你能幫我問下希希菈嗎？<hex:02100103>看她能不能多做些這種藥茶。
-105,TEXT_SUBPST016_01576_HIHIBARU_000_073,哎呀……我可不是為了賺錢哦！<hex:02100103>我可以推廣這種藥茶，這樣就能幫助更多的人了。
-106,TEXT_SUBPST016_01576_HIHIBARU_000_074,……然後，還有一件事要拜託你。<hex:02100103>請你把這個……希希菈的母親……我妻子的遺物交給她，<hex:02100103>並幫我轉告她一件事……
-107,TEXT_SUBPST016_01576_HIHIBARU_000_075,我的妻子是死於胃病……<hex:02100103>也是因為這樣，希希菈才會拚命地想要救我……
-108,TEXT_SUBPST016_01576_HIHIBARU_000_076,而我，不僅讓她產生這樣的誤會，<hex:02100103>還對她說這是「小題大做」。<hex:02100103>她生氣也是理所當然的……
-109,TEXT_SUBPST016_01576_HIHIBARU_000_077,其實……當希希菈說想要拯救小阿拉米格的人的時候，<hex:02100103>我對她說這是癡人說夢，然後對她不管不顧。
-110,TEXT_SUBPST016_01576_HIHIBARU_000_078,我對她說，就算掌握煉金術的知識，但製藥是要用錢的。<hex:02100103>不可能無償地拯救所有人。
-111,TEXT_SUBPST016_01576_HIHIBARU_000_079,但是，希希菈並沒有放棄……<hex:02100103>如今，連封閉的阿拉米格人也接受了她，<hex:02100103>還製作出了這麼棒的藥茶……
-112,TEXT_SUBPST016_01576_HIHIBARU_000_080,那孩子像她媽媽一樣善良……<hex:02100103>和我這個掉進錢眼裡的人大不相同。<hex:02100103>請你轉告她，讓她以她自己的方式生活……
-113,TEXT_SUBPST016_01576_HIHIBARU_000_081,那孩子像她媽媽一樣善良……<hex:02100103>和我這個掉進錢眼裡的人大不相同。<hex:02100103>請你轉告她，讓她以她自己的方式生活……
-114,TEXT_SUBPST016_01576_HIHIRA_000_085,我的父親有說什麼嗎？
-115,TEXT_SUBPST016_01576_HIHIRA_000_086,這是……
-116,TEXT_SUBPST016_01576_HIHIRA_000_087,母親的遺物……原來父親一直帶在身上啊……<hex:02100103>父親還說了這些啊……
-117,TEXT_SUBPST016_01576_HIHIRA_000_088,我的母親是個很溫柔的人，總是在笑。<hex:02100103>我小的時候，她總是摸著我的頭說：<hex:02100103>「要成為一個為他人著想的人。」
-118,TEXT_SUBPST016_01576_HIHIRA_000_089,我之所以會學習煉金術，<hex:02100103>用這些知識拯救陷入苦難的人，<hex:02100103>都是因為母親曾經的教誨。
-119,TEXT_SUBPST016_01576_HIHIRA_000_090,因此……我才會討厭父親的態度。<hex:02100103>我不明白，父親明明也聽到母親說的話了，<hex:02100103>但為什麼會那麼執著於金錢呢。
-120,TEXT_SUBPST016_01576_HIHIRA_000_091,不過……那個藥茶可以通過商人向世間流傳……<hex:02100103>父親的工作能夠幫助有困難的人呢……<hex:02100103>看來幫助人的方法不止一種。
-121,TEXT_SUBPST016_01576_HIHIRA_000_092,至於藥茶……我會試著做的！<hex:02100103>阿拉米格的人們也會幫助我一起做的，<hex:02100103>我會加油的！
-122,TEXT_SUBPST016_01576_HIHIRA_000_093,等做出來可以賣的量……<hex:02100103>我會好好和父親聊聊的。<hex:02100103>聊一聊母親的事，聊一聊我離開家後經歷的各種各樣的事……
-123,TEXT_SUBPST016_01576_SYSTEM_000_094,成功將郵差莫古力所交付的信件送達目的地！<hex:02100103>在「郵遞員」的道路上又前進了一步！
+0,"TEXT_SUBPST016_01576_SEQ_00","The deputy postmoogle would task you with an urgent delivery to Little Ala Mhigo."
+1,"TEXT_SUBPST016_01576_SEQ_01","Another day, another task from the deputy postmoogle. This time, your furry friend would have you deliver a letter from Hihibaru to his daughter Hihira in Little Ala Mhigo. Though the moogle seems merry as ever, he dispatches you with a warning that there may be more to this missive than meets the eye..."
+2,"TEXT_SUBPST016_01576_SEQ_02","The letter safely in her hands, Hihira reads aloud her father's message, only to discover Hihibaru is stricken with a fatal malady of the stomach. Ever the kindly daughter, however, she is quick to conceive of a cure, a herbal remedy brewed using Trader vetch roots. With panic in her eyes, she begs you unearth three such tubers in Zanr'ak."
+3,"TEXT_SUBPST016_01576_SEQ_03","Malms of wilderness and dozens of Amalj'aa at your back, you finally come upon patches of Trader vetch. With three tubers from the herb safely in hand, make your way back to Little Ala Mhigo─through the malms of wilderness and dozens of Amalj'aa that stand between you and Hihira."
+4,"TEXT_SUBPST016_01576_SEQ_04","Though happy to have the crucial roots, Hihira remains worried about her father being alone in his time of need, and asks you to keep a watch over Hihibaru in Highbridge till she can complete her concoction."
+5,"TEXT_SUBPST016_01576_SEQ_05","You arrive moments before Hihira to find Hihibaru hale as he ever was. The mystery unravels as he reveals that it is his ailing business that causes his gastric distress, not a mortal malady. Livid, Hihira storms off, leaving you to explain the situation to her father. Hihibaru realizes his mistake...and that his daughter is heading straight towards an Amalj'aa camp. Hihibaru begs you follow her into Drybone, and defend her from any dangers about."
+6,"TEXT_SUBPST016_01576_SEQ_06","You spy Hihira hemmed in by Amalj'aa. Save her from a nasty end."
+7,"TEXT_SUBPST016_01576_SEQ_07","Spared death on the point of an Amalj'aa spear, a thankful Hihira wends her way home─but only after tasking you with delivering the glad tidings of her safety to Hihibaru in Highbridge."
+8,"TEXT_SUBPST016_01576_SEQ_08","Heaving a sigh of relief at the news you bring, Hihibaru hands you a neckpiece. He explains the object belonged to his late wife who perished after long moons spent in painful battle with the Green Rot. The man admits his improvidence, both for having excited fear he suffered a similar illness, and for having driven Hihira away years earlier. He entreats you to give the neckpiece─along with his apologies─to Hihira in Little Ala Mhigo."
+9,"TEXT_SUBPST016_01576_SEQ_09","You deliver Hihira both the neckpiece and her father's words of pride. Deeply moved, the girl tells you of her mother's teachings of kindness, and Hihibaru's thirst for gil. Now, however, Hihira thinks her father a changed man, and vows to have more talk of all these things with him."
+10,"TEXT_SUBPST016_01576_SEQ_10",""
+11,"TEXT_SUBPST016_01576_SEQ_11",""
+12,"TEXT_SUBPST016_01576_SEQ_12",""
+13,"TEXT_SUBPST016_01576_SEQ_13",""
+14,"TEXT_SUBPST016_01576_SEQ_14",""
+15,"TEXT_SUBPST016_01576_SEQ_15",""
+16,"TEXT_SUBPST016_01576_SEQ_16",""
+17,"TEXT_SUBPST016_01576_SEQ_17",""
+18,"TEXT_SUBPST016_01576_SEQ_18",""
+19,"TEXT_SUBPST016_01576_SEQ_19",""
+20,"TEXT_SUBPST016_01576_SEQ_20",""
+21,"TEXT_SUBPST016_01576_SEQ_21",""
+22,"TEXT_SUBPST016_01576_SEQ_22",""
+23,"TEXT_SUBPST016_01576_SEQ_23",""
+24,"TEXT_SUBPST016_01576_TODO_00","Deliver the letter to Hihira in Little Ala Mhigo."
+25,"TEXT_SUBPST016_01576_TODO_01","Gather Trader vetch roots in Zanr'ak."
+26,"TEXT_SUBPST016_01576_TODO_02","Deliver the Trader vetch roots to Hihira."
+27,"TEXT_SUBPST016_01576_TODO_03","Speak with Hihibaru at Highbridge."
+28,"TEXT_SUBPST016_01576_TODO_04","Search for Hihira in Drybone."
+29,"TEXT_SUBPST016_01576_TODO_05","Rescue Hihira."
+30,"TEXT_SUBPST016_01576_TODO_06","Report to Hihibaru."
+31,"TEXT_SUBPST016_01576_TODO_07","Deliver the tarnished neckpiece to Hihira."
+32,"TEXT_SUBPST016_01576_TODO_08",""
+33,"TEXT_SUBPST016_01576_TODO_09",""
+34,"TEXT_SUBPST016_01576_TODO_10",""
+35,"TEXT_SUBPST016_01576_TODO_11",""
+36,"TEXT_SUBPST016_01576_TODO_12",""
+37,"TEXT_SUBPST016_01576_TODO_13",""
+38,"TEXT_SUBPST016_01576_TODO_14",""
+39,"TEXT_SUBPST016_01576_TODO_15",""
+40,"TEXT_SUBPST016_01576_TODO_16",""
+41,"TEXT_SUBPST016_01576_TODO_17",""
+42,"TEXT_SUBPST016_01576_TODO_18",""
+43,"TEXT_SUBPST016_01576_TODO_19",""
+44,"TEXT_SUBPST016_01576_TODO_20",""
+45,"TEXT_SUBPST016_01576_TODO_21",""
+46,"TEXT_SUBPST016_01576_TODO_22",""
+47,"TEXT_SUBPST016_01576_TODO_23",""
+48,"TEXT_SUBPST016_01576_LETTERMOOGLE_000_000","Why, if it isn't just the adventurer I was waiting for, kupo! Have I got an assignment and a half for you today. Why you? Because, my friend, there is no one better suited for the task!"
+49,"TEXT_SUBPST016_01576_LETTERMOOGLE_000_001","I hold in my pouch a letter with your name on it! ...Not <hex:021A020203>literally<hex:021A020103>, of course. I mean simply that I have a missive for Hihira in Little Ala Mhigo, and would have you take it to her. It's from her father, and I've been told it must go out, ahem, <hex:021A020203>post<hex:021A020103>haste! ...Wh–Why aren't you laughing?"
+50,"TEXT_SUBPST016_01576_LETTERMOOGLE_000_002","Anyhow, Hihira is as lovely a girl as you'd ever wish to meet, wise in the ways of alchemy and so kind she gives away medicine to ailing Ala Mhigan refugees─and free of cost, no less! But Hihira has known almost no rest on her crusade, and I worry she's working herself into the ground."
+51,"TEXT_SUBPST016_01576_LETTERMOOGLE_000_003","It would break a postmoogle's heart to deliver a letter with ill tidings to such a saint. So if the message brings anything but joy to Hihira, would you be a dear and aid her with every onze of strength you have, kupo?"
+52,"TEXT_SUBPST016_01576_LETTERMOOGLE_000_004","What are you still lounging about here for!? It's rude to keep a lady waiting. Get to Little Ala Mhigo quick as you can, and give Hihira the letter, kupo!"
+53,"TEXT_SUBPST016_01576_LETTERMOOGLE_000_005",""
+54,"TEXT_SUBPST016_01576_HIHIRA_000_010","What a pleasant surprise, my friend! I've been so enthralled with learning about Ala Mhigan remedies I've quite forgotten when last we spoke. So tell me, what brings you here today? ...What? A letter from my <hex:021A020203>father<hex:021A020103>?"
+55,"TEXT_SUBPST016_01576_HIHIRA_000_012","“Dearest daughter, I fear I am not long for this world. My belly grows worse with every passing day, and I have something I must give you before my time here draws to a close.”"
+56,"TEXT_SUBPST016_01576_HIHIRA_000_015","I...I had no idea my father was ill, let alone with a mortal ailment of the stomach! Our relationship is fraught, I shan't deny it, but neither will I idly watch him die! Why, I just learned of a remedy that ought be potent enough to cure even the Green Rot─and I need only Trader vetch roots to brew it!"
+57,"TEXT_SUBPST016_01576_HIHIRA_000_016","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, gather me some from Zanr'ak to the south─three bunches, please. I would give all I have to do the plucking myself, but I fear the Amalj'aa would make terribly short work of one so weak as I."
+58,"TEXT_SUBPST016_01576_HIHIRA_000_017","What have the long bells spent studying Ala Mhigan medicine been for if not this? I swear to you, my father will not perish─not if I have aught to say about it!"
+59,"TEXT_SUBPST016_01576_HIHIRA_000_011",""
+60,"TEXT_SUBPST016_01576_HIHIRA_000_013",""
+61,"TEXT_SUBPST016_01576_HIHIRA_000_014",""
+62,"TEXT_SUBPST016_01576_HIHIRA_000_018","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, please, head south to Zanr'ak and gather three Trader vetch roots for me. I've no hope of saving my father without them!"
+63,"TEXT_SUBPST016_01576_HIHIRA_000_020","I am most relieved to see you have returned unharmed! And what of the Trader vetch roots?"
+64,"TEXT_SUBPST016_01576_HIHIRA_000_021","Thank goodness! Though it will take no small time to grind and steep these tubers, at least now I can complete my draught. <sigh> Yet I find little comfort in that thought. Visions of my father all alone and in agony weigh all too heavily upon my mind for that."
+65,"TEXT_SUBPST016_01576_HIHIRA_000_022","He is simply too proud to ask for aid of those around him, especially now he has put home behind him to organize his merchants from Highbridge. Please, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, would you go and be a friend to him where none else can? I promise I shan't be more than few malms behind you with the remedy."
+66,"TEXT_SUBPST016_01576_HIHIRA_000_023","I just need a few short bells to complete my remedy. Won't you keep my father company until then?"
+67,"TEXT_SUBPST016_01576_HIHIRA_000_024","You are sure to find him in eastern Thanalan, at the foot of Highbridge. Please, await me there─I will not be long, I promise!"
+68,"TEXT_SUBPST016_01576_HIHIBARU_000_025","Welcome back, my friend! I <hex:021A020203>knew<hex:021A020103> you weren't immune to the lure of fine merchandise! Mayhap I can interest you in a─ Dear me, why do you look like one bound for the lichyard?"
+69,"TEXT_SUBPST016_01576_HIHIBARU_000_026","Slow down─a <hex:021A020203>fatal<hex:021A020103> ailment of the stomach? Me!? Gods be good, this is certainly the first <hex:021A020203>I'm<hex:021A020103> hearing of it!"
+70,"TEXT_SUBPST016_01576_HIHIRA_000_027","Father, I have it! The remedy is done!"
+71,"TEXT_SUBPST016_01576_HIHIBARU_000_028","Hihira! Bless my soul, what brings you to these parts?"
+72,"TEXT_SUBPST016_01576_HIHIRA_000_029","I...I came to deliver the remedy. Please, you must drink it quickly lest its effects be lessened!"
+73,"TEXT_SUBPST016_01576_HIHIBARU_100_028","For you, my dear, I would swig anything swiftly. Just allow me one small question beforehand─a remedy for <hex:021A020203>what<hex:021A020103>, exactly?"
+74,"TEXT_SUBPST016_01576_HIHIRA_100_029","It's an Ala Mhigan infusion for your stomach! Which...which <hex:021A020203>does<hex:021A020103> still ail you, does it not?"
+75,"TEXT_SUBPST016_01576_HIHIBARU_000_030","Ahhh... Yes, yes, of course, <hex:021A020203>that<hex:021A020103> ailment. My girl, I'm afraid it troubles me terribly! A man can only take so much pain in one lifetime, and I'm near ready to cry mercy."
+76,"TEXT_SUBPST016_01576_HIHIBARU_000_031","It's my own damned fault, always blinded by pride and the glitter of gil as I was. Thal take me, I was so <hex:021A020203>sure<hex:021A020103> business would take root and grow mighty in this wasteland! But I have little and less to show for the years I've poured into this place."
+77,"TEXT_SUBPST016_01576_HIHIBARU_000_032","To call what I make every moon a pittance does injustice to the word. Why, merely opening my ledgers has me doubled over grasping my stomach in pain! Things have grown so dismal I might even give up being a merchant. My life is near over..."
+78,"TEXT_SUBPST016_01576_HIHIRA_000_033","...What?"
+79,"TEXT_SUBPST016_01576_HIHIBARU_000_034","What's what, dearest?"
+80,"TEXT_SUBPST016_01576_HIHIRA_000_035","Your life is near over...<hex:021A020203>as a merchant<hex:021A020103>? That's all? You have no mortal sickness of the stomach, nor are you headed for an early grave?"
+81,"TEXT_SUBPST016_01576_HIHIBARU_000_036","An early grave? Ahahaha! Why would you possibly think that? Ah, but I'd forgotten you make every molehill into a mountain, Hihira. Really, my girl, you ought to have a thicker skin by now."
+82,"TEXT_SUBPST016_01576_HIHIRA_000_037","I...I was merely concerned for your health, Father."
+83,"TEXT_SUBPST016_01576_HIHIBARU_000_038","Good gods, no one has ever perished from a stomachache! But no matter. I <hex:021A020203>am<hex:021A020103> glad you're here, even if you've come on a fool's errand. I've a gift for you─please, take it."
+84,"TEXT_SUBPST016_01576_HIHIRA_000_039","...No."
+85,"TEXT_SUBPST016_01576_HIHIBARU_000_040","What's that? Speak up, Hihira."
+86,"TEXT_SUBPST016_01576_HIHIRA_000_041","I want nothing from you now, nor anything to do with you ever again!"
+87,"TEXT_SUBPST016_01576_HIHIBARU_000_042","...What in the name of the Twelve has gotten into her?"
+88,"TEXT_SUBPST016_01576_HIHIBARU_000_043","B-But I never meant... Good gods, is that <hex:021A020203>really<hex:021A020103> what I wrote? <sigh> Hihira had the right of it, then. I've been a complete arse of a father, leading her so astray with that letter."
+89,"TEXT_SUBPST016_01576_HIHIBARU_000_044","What was I thinking, calling her too sensitive? Thal take me, I must find her at once and apologize! But which way did she...?"
+90,"TEXT_SUBPST016_01576_HIHIBARU_000_045","Bloody hells! Hihira just ran due south─straight towards an Amalj'aa encampment!"
+91,"TEXT_SUBPST016_01576_HIHIBARU_000_046","Adventurer, please! You must follow her and keep her safe from those lizardmen!"
+92,"TEXT_SUBPST016_01576_HIHIBARU_000_047","Why in the seven hells are you still here!? Scour Drybone for Hihira before the Amalj'aa find her!"
+93,"TEXT_SUBPST016_01576_HIHIRA_000_056","S-Stay back!"
+94,"TEXT_SUBPST016_01576_POP_MESSAGE_000_057","You sense a hostile presence!"
+95,"TEXT_SUBPST016_01576_BALLOON_000_058","Behold, another trespassing heathen!"
+96,"TEXT_SUBPST016_01576_BALLOON_000_059","Death to all who do not serve Lord Ifrit!"
+97,"TEXT_SUBPST016_01576_HIHIRA_000_065","Th-Thank you, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Gods, what possessed me to come here? I was a fool for letting my father upset me so, and for blundering so near to the Amalj'aa."
+98,"TEXT_SUBPST016_01576_HIHIRA_000_067","All I wish to do now is return to Little Ala Mhigo, and think things over for a spell. I...I <hex:021A020203>suppose<hex:021A020103> my father ought to know no harm has come to me, but I have no stomach for the man at the moment. Would you please tell him in my stead?"
+99,"TEXT_SUBPST016_01576_HIHIRA_000_066",""
+100,"TEXT_SUBPST016_01576_HIHIRA_000_068","Thank you for saving me from those awful Amalj'aa earlier. Er...how did my father take the news? Oh, you haven't spoken with him yet? Well, just tell him I am in no danger when you have a moment to spare."
+101,"TEXT_SUBPST016_01576_HIHIBARU_000_070","What of my daughter!? Has something befallen her!? <hex:021A020203>Well<hex:021A020103>!?"
+102,"TEXT_SUBPST016_01576_HIHIBARU_100_070","...She's safe, then? Thank the gods above for that! I've never been more worried in my life, nor felt such sharp pains in my belly as while I was waiting for your news. What was I to do but take a swig of that remedy Hihira brought?"
+103,"TEXT_SUBPST016_01576_HIHIBARU_000_071","Let me tell you, it's <hex:021A020203>amazing<hex:021A020103> stuff─a mouthful eased the cramping, and a cup cleansed the pain completely! I had no idea my daughter was such an alchemical prodigy! Why, this remedy is easily worth its weight in gold."
+104,"TEXT_SUBPST016_01576_HIHIBARU_000_072","It would be criminal to waste this kind of genius, or hide such a miraculous elixir from the realm. You <hex:021A020203>must<hex:021A020103> ask Hihira if she can brew more─to put to market, of course!"
+105,"TEXT_SUBPST016_01576_HIHIBARU_000_073","I'm not asking this to line my own coffers, mind you. No, my daughter created the best, and the whole realm will be all the better for having access to it. Just <hex:021A020203>think<hex:021A020103> of the lives that could be saved if the remedy were made available to all Eorzea through my network!"
+106,"TEXT_SUBPST016_01576_HIHIBARU_000_074","Of course, my daughter won't believe my motives are pure, so I'd have you give her this keepsake─a favorite of my late wife's─as proof of my sincerity."
+107,"TEXT_SUBPST016_01576_HIHIBARU_000_075","She was a victim of the Green Rot, my wife. And for Hihira... Imagine seeing the woman who bore you curled up in soiled smallclothes, screaming of agony in her stomach half the time and sobbing the other─<hex:021A020203>that's<hex:021A020103> the memory of her mother Hihira carries."
+108,"TEXT_SUBPST016_01576_HIHIBARU_000_076","I should have remembered that when writing the blasted letter, but, being the lackwit I am, instead I sent Hihira into a panic. Little wonder calling her too sensitive made her livid!"
+109,"TEXT_SUBPST016_01576_HIHIBARU_000_077","Mayhap if I hadn't poisoned our relationship, we could have avoided this ugly business altogether. If only I had not driven the girl away by calling her a naive child all those years ago... All she wanted to do was heal the ailing in Little Ala Mhigo, after all."
+110,"TEXT_SUBPST016_01576_HIHIBARU_000_078","You don't want for alchemical knowledge, but whence comes the gil for your grand crusade, I asked her. You'll die among the beggars you tried to save if you're foolish enough to pursue such lofty ideals with no coin in your pocket! <sigh> Wonderful fatherly advice, eh?"
+111,"TEXT_SUBPST016_01576_HIHIBARU_000_079","Thank the Twelve Hihira wasn't so easily swayed by my folly. And look at the healer she's become─crafter of remedies fit to save the realm, and trusted friend to the Ala Mhigan refugees she lives with in ways few Ul'dahns ever have been."
+112,"TEXT_SUBPST016_01576_HIHIBARU_000_080","Hihira has grown into as wise and kind a woman as her mother was, and hasn't got an onze of my avarice. She's more than earned my respect, and my blessing to live as she sees fit. So when you give her this neckpiece, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, <hex:021A020203>make<hex:021A020103> her understand how proud she's made me."
+113,"TEXT_SUBPST016_01576_HIHIBARU_000_081","Hihira isn't possessed of my desire for coin─and she needs to know how proud that makes me."
+114,"TEXT_SUBPST016_01576_HIHIRA_000_085","My father has learned I am well? Did he...did he have aught else to say?"
+115,"TEXT_SUBPST016_01576_HIHIRA_000_086","How odd... I know I've seen this before, but I cannot remember where."
+116,"TEXT_SUBPST016_01576_HIHIRA_000_087","My father is...is <hex:021A020203>proud<hex:021A020103> of me? If that be true, his heart is grown less cold and calculating. And that he kept my mother's favorite neckpiece for all this time..."
+117,"TEXT_SUBPST016_01576_HIHIRA_000_088","My mother was the gentlest of souls─all tender smiles and wise words. Why, my fondest childhood memories are of her stroking my head as I lay abed, and murmuring “sow compassion where you wander, and ever will kindness bloom in your wake.”"
+118,"TEXT_SUBPST016_01576_HIHIRA_000_089","Were it not for my mother's teachings, I would never have learned the ways of alchemy, nor sought to save the ailing with remedies born of my study."
+119,"TEXT_SUBPST016_01576_HIHIRA_000_090","But Father never truly seemed to <hex:021A020203>hear<hex:021A020103> what my mother exhorted─though he asked her counsel more than I. Watching him pray so devoutly before the altar of profit was...was simply more than I could bear."
+120,"TEXT_SUBPST016_01576_HIHIRA_000_091","Yet...though I know not if I believe his promises of change, I can think of no better way to distribute my remedies than my father's network of merchants. And if his work might deliver succor to the downtrodden, am I so stubborn as to deny him the chance?"
+121,"TEXT_SUBPST016_01576_HIHIRA_000_092","I'll do it. Or, I shall at least try. But by enlisting the aid of the Ala Mhigans here in brewing the remedies, how could even the fates deny us success?"
+122,"TEXT_SUBPST016_01576_HIHIRA_000_093","And after we have made enough to put to market, Father and I will finally talk. About Mother, about my life after leaving home, about everything."
+123,"TEXT_SUBPST016_01576_SYSTEM_000_094","With your successful delivery, your reputation as a letter carrier has grown!"

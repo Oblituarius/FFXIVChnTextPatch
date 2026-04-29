@@ -2,151 +2,151 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_AKTKZI201_04488_SEQ_00,<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整<hex:0249020103><hex:0248020103><hex:02100103>小薩雷安的維爾波萊納有事想要拜託冒險者。
-1,TEXT_AKTKZI201_04488_SEQ_01,※本任務為<hex:024804F201FC03><hex:024904F201FD03><hex:0249020103><hex:0248020103> 等級調整任務。<hex:02100103><hex:02100103>維爾波萊納表示他交了一個新朋友。新朋友是一個巨魔幼獸，似乎正是小毛球。和迷津內環的小毛球談談。
-2,TEXT_AKTKZI201_04488_SEQ_02,和小毛球進行交談後得知，它原本想進行幫助發聲的魔法處理，卻因為魔力不足而沒能成功，因此它需要別人的幫助。據維爾波萊納所說，只要通過屬性增殖爐製作人工風脈泉，與其進行共鳴的同時就可以成功使用魔法了。和內環的維爾波萊納談談。
-3,TEXT_AKTKZI201_04488_SEQ_03,決定和小毛球一行一同前往人工風脈泉。和內環的小毛球談談。
-4,TEXT_AKTKZI201_04488_SEQ_04,和小毛球一行一同前往人工風脈泉，和小毛球談談。<hex:02100103><hex:02100103>※同行狀態被解除時，再次與小毛球對話便可進入同行狀態。
-5,TEXT_AKTKZI201_04488_SEQ_05,小毛球的魔法獲得了成功，可以說話了。此時米薩爾弗雷和恩·威利·提亞出現。他們似乎有重要的事要對維爾波萊納和小毛球說。和小薩雷安的維爾波萊納談談。
-6,TEXT_AKTKZI201_04488_SEQ_06,和維爾波萊納進行了交談，他們兩個因為各自的功績，取得了魔法大學的入學邀請。之前從未離開過迷津的維爾波萊納雖然有些惶恐，但是冒險者和小毛球的話語帶給了他勇氣，最終決定入學。
-7,TEXT_AKTKZI201_04488_SEQ_07,
-8,TEXT_AKTKZI201_04488_SEQ_08,
-9,TEXT_AKTKZI201_04488_SEQ_09,
-10,TEXT_AKTKZI201_04488_SEQ_10,
-11,TEXT_AKTKZI201_04488_SEQ_11,
-12,TEXT_AKTKZI201_04488_SEQ_12,
-13,TEXT_AKTKZI201_04488_SEQ_13,
-14,TEXT_AKTKZI201_04488_SEQ_14,
-15,TEXT_AKTKZI201_04488_SEQ_15,
-16,TEXT_AKTKZI201_04488_SEQ_16,
-17,TEXT_AKTKZI201_04488_SEQ_17,
-18,TEXT_AKTKZI201_04488_SEQ_18,
-19,TEXT_AKTKZI201_04488_SEQ_19,
-20,TEXT_AKTKZI201_04488_SEQ_20,
-21,TEXT_AKTKZI201_04488_SEQ_21,
-22,TEXT_AKTKZI201_04488_SEQ_22,
-23,TEXT_AKTKZI201_04488_SEQ_23,
-24,TEXT_AKTKZI201_04488_TODO_00,和小毛球對話
-25,TEXT_AKTKZI201_04488_TODO_01,和維爾波萊納對話
-26,TEXT_AKTKZI201_04488_TODO_02,和小毛球對話進入同行狀態
-27,TEXT_AKTKZI201_04488_TODO_03,帶著兩位同行者前往人工風脈泉<hex:02100103>和小毛球對話
-28,TEXT_AKTKZI201_04488_TODO_04,和維爾波萊納對話
-29,TEXT_AKTKZI201_04488_TODO_05,
-30,TEXT_AKTKZI201_04488_TODO_06,
-31,TEXT_AKTKZI201_04488_TODO_07,
-32,TEXT_AKTKZI201_04488_TODO_08,
-33,TEXT_AKTKZI201_04488_TODO_09,
-34,TEXT_AKTKZI201_04488_TODO_10,
-35,TEXT_AKTKZI201_04488_TODO_11,
-36,TEXT_AKTKZI201_04488_TODO_12,
-37,TEXT_AKTKZI201_04488_TODO_13,
-38,TEXT_AKTKZI201_04488_TODO_14,
-39,TEXT_AKTKZI201_04488_TODO_15,
-40,TEXT_AKTKZI201_04488_TODO_16,
-41,TEXT_AKTKZI201_04488_TODO_17,
-42,TEXT_AKTKZI201_04488_TODO_18,
-43,TEXT_AKTKZI201_04488_TODO_19,
-44,TEXT_AKTKZI201_04488_TODO_20,
-45,TEXT_AKTKZI201_04488_TODO_21,
-46,TEXT_AKTKZI201_04488_TODO_22,
-47,TEXT_AKTKZI201_04488_TODO_23,
-48,TEXT_AKTKZI201_04488_VERPAULAINE_000_000,人工太陽那件事真是受你照顧了。<hex:02100103>不過，我還有事想要拜託你。
-49,TEXT_AKTKZI201_04488_VERPAULAINE_000_001,其實最近我結交了新朋友。<hex:02100103>是一隻巨魔幼獸，不知是從哪裡跑來的，<hex:02100103>好像是迷了路，一直在這一帶徘徊。
-50,TEXT_AKTKZI201_04488_VERPAULAINE_000_002,當然那隻巨魔並不會說話，<hex:02100103>卻不知為何明顯能夠理解我說的意思。<hex:02100103>你相信我說的嗎？
-51,TEXT_AKTKZI201_04488_Q1_000_000,如何作答？
-52,TEXT_AKTKZI201_04488_A1_000_001,那是小毛球
-53,TEXT_AKTKZI201_04488_A1_000_002,當然相信，我還見過呢！
-54,TEXT_AKTKZI201_04488_VERPAULAINE_000_003,小毛球……嗎？<hex:02100103>你知道的話那就好說了。
-55,TEXT_AKTKZI201_04488_VERPAULAINE_000_004,你認識它嗎？<hex:02100103>那就好說了。
-56,TEXT_AKTKZI201_04488_VERPAULAINE_000_005,我的朋友在理性其一的出口處。<hex:02100103>我們趕緊去見見它吧。
-57,TEXT_AKTKZI201_04488_VERPAULAINE_000_007,這隻小巨魔就是我的新朋友。
-58,TEXT_AKTKZI201_04488_LITTLETROLL_000_010,唔唔……終於找到了！<hex:02100103>我一直在找你！！
-59,TEXT_AKTKZI201_04488_LITTLETROLL_000_011,上次和你分開之後，我為了和大家對話，<hex:02100103>一直在思考有助於發聲的方法，<hex:02100103>並決定自己進行魔法處理。
-60,TEXT_AKTKZI201_04488_LITTLETROLL_000_012,為此我查閱了很多書籍……<hex:02100103>原來人類之所以能夠靠震動聲帶發出聲音，<hex:02100103>秘密都隱藏在了呼吸當中。
-61,TEXT_AKTKZI201_04488_LITTLETROLL_000_013,但是巨魔的氣管卻做不到這一點。<hex:02100103>因此我研讀了乙太學和魔法學的相關書籍，<hex:02100103>並改造了風屬性魔法，創造了能讓巨魔說話的發聲術式。
-62,TEXT_AKTKZI201_04488_LITTLETROLL_000_014,不過僅憑我的魔力無法發動這一術式。<hex:02100103>於是就想著尋求你的幫助，四處找你，<hex:02100103>結果卻遇到了這位聰明的少年。
-63,TEXT_AKTKZI201_04488_Q2_000_000,要說什麼？
-64,TEXT_AKTKZI201_04488_A2_000_001,恩·威利·提亞呢？
-65,TEXT_AKTKZI201_04488_A2_000_002,笨蛋呢？
-66,TEXT_AKTKZI201_04488_LITTLETROLL_000_015,那傢伙一點用處都派不上，所以我就沒帶上他。<hex:02100103>先不說他了，雖然我和這個少年無法對話，<hex:02100103>可他的直覺很準，最終還是把你帶了過來。
-67,TEXT_AKTKZI201_04488_VERPAULAINE_000_016,你是不是能聽懂巨魔幼獸在說什麼？<hex:02100103>果然它能說話啊……好厲害！
-68,TEXT_AKTKZI201_04488_LITTLETROLL_000_017,這個少年似乎很了解乙太學。<hex:02100103>你能幫忙把我剛才說的話轉達給他嗎？
-69,TEXT_AKTKZI201_04488_VERPAULAINE_000_018,原來如此，它一直想要告訴我的是這些嗎？<hex:02100103>好，我也會盡可能貢獻我的綿薄之力。
-70,TEXT_AKTKZI201_04488_VERPAULAINE_000_019,如果說改造的是風屬性魔法的術式的話，<hex:02100103>使用從屬性增殖爐排出的風屬性乙太就可以了。
-71,TEXT_AKTKZI201_04488_VERPAULAINE_000_020,只要調整土屬性屬性增殖爐的設定，<hex:02100103>便會出現與之對應的風屬性乙太，就可以製作人工風脈泉了。<hex:02100103>一邊與風脈泉進行共鳴一邊發動術式，應該就可以成功了！
-72,TEXT_AKTKZI201_04488_LITTLETROLL_000_021,唔唔……不愧是我欣賞的少年！<hex:02100103>那就趕緊帶我去屬性增殖爐那裡吧！
-73,TEXT_AKTKZI201_04488_VERPAULAINE_000_022,好的，跟我來吧！
-74,TEXT_AKTKZI201_04488_LITTLETROLL_000_025,唔唔……這少年真是不錯。<hex:02100103>等我能說話了之後，一定要和他好好談談。
-75,TEXT_AKTKZI201_04488_VERPAULAINE_000_030,好，那我就去調整屬性增殖爐了。<hex:02100103>匯總人工太陽的改善方案時，<hex:02100103>我已經把這個設施的構造調查清楚了！
-76,TEXT_AKTKZI201_04488_VERPAULAINE_000_031,準備完畢。<hex:02100103>從乙太的流向來看，<hex:02100103>西邊應該有人工風脈泉！
-77,TEXT_AKTKZI201_04488_VERPAULAINE_000_032,不過產生強大的屬性力量之後，<hex:02100103>可能會吸引來很多魔物……
-78,TEXT_AKTKZI201_04488_VERPAULAINE_000_033,但是我們倆都不擅長戰鬥，<hex:02100103>能請你帶我們一起前往人工風脈泉嗎？<hex:02100103>準備好之後就去跟小毛球說一聲吧。
-79,TEXT_AKTKZI201_04488_VERPAULAINE_000_034,但是我們倆都不擅長戰鬥，<hex:02100103>能請你帶我們一起前往人工風脈泉嗎？<hex:02100103>準備好之後就去跟小毛球說一聲吧。
-80,TEXT_AKTKZI201_04488_VERPAULAINE_000_035,
-81,TEXT_AKTKZI201_04488_LITTLETROLL_100_036,好，那我們一起去西邊的人工風脈泉吧。
-82,TEXT_AKTKZI201_04488_SYSTEM_000_040,接下來將和小毛球以及維爾波萊納同行。<hex:02100103>在執行任務時，需要同行者處於附近位置。
-83,TEXT_AKTKZI201_04488_SYSTEM_000_041,在同行狀態下，切換區域或選擇「解除同行狀態」，<hex:02100103>都將會解除同行的狀態。
-84,TEXT_AKTKZI201_04488_SYSTEM_000_042,同行狀態解除後，<hex:02100103>只要和回到了起點的同行者對話，就能再次進入同行狀態。
-85,TEXT_AKTKZI201_04488_Q3_000_000,要做什麼？
-86,TEXT_AKTKZI201_04488_A3_000_001,對話
-87,TEXT_AKTKZI201_04488_A3_000_002,解除同行狀態
-88,TEXT_AKTKZI201_04488_A3_000_003,取消
-89,TEXT_AKTKZI201_04488_VERPAULAINE_000_043,等到小毛球能說話之後，要聊些什麼呢……
-90,TEXT_AKTKZI201_04488_LITTLETROLL_000_044,等到我能說話之後，要把迄今為止<hex:02100103>我憋在肚子裡的怨言都說給笨蛋恩·威利·提亞聽。
-91,TEXT_AKTKZI201_04488_VERPAULAINE_100_043,哎呀，小毛球不見了。<hex:02100103>回到屬性增殖爐那裡吧。
-92,TEXT_AKTKZI201_04488_LITTLETROLL_100_044,哎呀，維爾波萊納不見了。<hex:02100103>回到屬性增殖爐那裡吧。
-93,TEXT_AKTKZI201_04488_SYSTEM_000_045,確定要解除同行狀態嗎？
-94,TEXT_AKTKZI201_04488_VERPAULAINE_000_046,你有別的事嗎？<hex:02100103>那我們在屬性增殖爐那裡等你。
-95,TEXT_AKTKZI201_04488_LITTLETROLL_100_046,你有其他事嗎？<hex:02100103>真沒辦法，我們在屬性增殖爐那裡等你。
-96,TEXT_AKTKZI201_04488_VERPAULAINE_000_047,看來完事了啊。<hex:02100103>請和我們一同前往人工風脈泉。
-97,TEXT_AKTKZI201_04488_LITTLETROLL_100_048,既然已經完事了，<hex:02100103>那就和我們一同前往人工風脈泉吧。
-98,TEXT_AKTKZI201_04488_VERPAULAINE_200_047,對不起，害得你們還專程來迎接我。<hex:02100103>一不小心就跟丟了……那我們走吧。
-99,TEXT_AKTKZI201_04488_LITTLETROLL_200_048,別把我獨自扔下啊。<hex:02100103>好了，重新出發吧。
-100,TEXT_AKTKZI201_04488_LITTLETROLL_100_047,不能丟下維爾波萊納擅自前進。
-101,TEXT_AKTKZI201_04488_VERPAULAINE_100_049,
-102,TEXT_AKTKZI201_04488_SYSTEM_000_048,在執行該任務時，需要與小毛球們保持同行狀態。<hex:02100103>此外，小毛球們應位於玩家附近。
-103,TEXT_AKTKZI201_04488_SYSTEM_200_050,人工風脈泉……
-104,TEXT_AKTKZI201_04488_SYSTEM_100_048,維爾波萊納還沒到。<hex:02100103>去把他找來一起見證吧。
-105,TEXT_AKTKZI201_04488_SYSTEM_100_050,
-106,TEXT_AKTKZI201_04488_SYSTEM_000_049,
-107,TEXT_AKTKZI201_04488_VERPAULAINE_300_050,找到了人工風脈泉。<hex:02100103>讓小毛球進行一下共鳴吧。
-108,TEXT_AKTKZI201_04488_LITTLETROLL_000_050,這就是人工風脈泉啊。<hex:02100103>好，一邊進行共鳴一邊展開術式吧！
-109,TEXT_AKTKZI201_04488_LITTLETROLL_000_051,啊……啊……如、如何？<hex:02100103>我說的你們能聽懂嗎？
-110,TEXT_AKTKZI201_04488_LITTLETROLL_000_052,太好了！太好了！<hex:02100103>這下我就能和大家交流了！
-111,TEXT_AKTKZI201_04488_VERPAULAINE_000_053,恭喜你！<hex:02100103>我有好多話想跟你說！
-112,TEXT_AKTKZI201_04488_VERPAULAINE_000_054,咦？父親？
-113,TEXT_AKTKZI201_04488_LITTLETROLL_000_055,這不是笨蛋嗎！<hex:02100103>你怎麼會在這裡？！
-114,TEXT_AKTKZI201_04488_NWELHITIA_000_056,小、小毛球……會說話了！<hex:02100103>連聲音……都這麼可愛！
-115,TEXT_AKTKZI201_04488_MUSSALFRET_000_057,喲，又見面了。<hex:02100103>其實我是有重要的事，一直在找維爾波萊納。
-116,TEXT_AKTKZI201_04488_NWELHITIA_000_058,之前承蒙照顧了……<hex:02100103>我也是有話要對小毛球說。
-117,TEXT_AKTKZI201_04488_MUSSALFRET_000_059,大家先來小薩雷安吧。<hex:02100103>想讓你們見個人。
-118,TEXT_AKTKZI201_04488_LITTLETROLL_000_060,難得我現在可以說話了，<hex:02100103>卻有一種說話被打斷的感覺……
-119,TEXT_AKTKZI201_04488_MUSSALFRET_000_061,看來你又接下了我兒子的委託啊。<hex:02100103>謝謝你。
-120,TEXT_AKTKZI201_04488_NWELHITIA_000_062,雖然小毛球的聲音很可愛，<hex:02100103>但它果然還是把我當成笨蛋啊……哼。
-121,TEXT_AKTKZI201_04488_STUDIUMSTAFF_000_063,那個少年和巨魔就是……
-122,TEXT_AKTKZI201_04488_VERPAULAINEMOTHER_000_021,兒子似乎又受你照顧了……<hex:02100103>非常感謝。
-123,TEXT_AKTKZI201_04488_VERPAULAINE_000_070,重要的事是什麼？
-124,TEXT_AKTKZI201_04488_NWELHITIA_000_071,
-125,TEXT_AKTKZI201_04488_MUSSALFRET_100_071,有事找你的並不是我。<hex:02100103>而是薩雷安魔法大學的這位。
-126,TEXT_AKTKZI201_04488_STUDIUMSTAFF_000_072,你好，我是薩雷安魔法大學的職員。<hex:02100103>蒙蒂謝涅校長有消息讓我轉達給二位。
-127,TEXT_AKTKZI201_04488_LITTLETROLL_000_073,二位？！<hex:02100103>也就是我和維爾波萊納嗎？
-128,TEXT_AKTKZI201_04488_STUDIUMSTAFF_000_074,沒錯。<hex:02100103>維爾波萊納，小毛球……<hex:02100103>你們有興趣進入我們魔法大學學習嗎？
-129,TEXT_AKTKZI201_04488_STUDIUMSTAFF_000_075,幫忙驅除了公堂保管院竊蠹的小毛球，<hex:02100103>發現了迷津人工太陽異常的維爾波萊納。<hex:02100103>二位出色的功績，也傳到了魔法大學這邊。
-130,TEXT_AKTKZI201_04488_STUDIUMSTAFF_000_076,請二位務必進入我們大學<hex:02100103>打磨智慧，積累知識！
-131,TEXT_AKTKZI201_04488_LITTLETROLL_000_077,我居然能進入名門薩雷安魔法大學？！<hex:02100103>感、感覺像做夢一樣，我當然願意！
-132,TEXT_AKTKZI201_04488_MUSSALFRET_000_078,怎麼了，維爾波萊納？<hex:02100103>你已經長大了，可以離開迷津了。<hex:02100103>這是進一步鑽研乙太學和數學的好機會。
-133,TEXT_AKTKZI201_04488_VERPAULAINE_000_079,我……從沒離開過迷津，<hex:02100103>不知道……自己能否在大學和外面的世界存活……
-134,TEXT_AKTKZI201_04488_Q4_000_000,要說什麼？
-135,TEXT_AKTKZI201_04488_A4_000_001,維爾波萊納沒問題的！
-136,TEXT_AKTKZI201_04488_A4_000_002,我認識一對11歲入學的雙胞胎
-137,TEXT_AKTKZI201_04488_VERPAULAINE_000_080,謝謝你給予我勇氣。<hex:02100103>不過……要去沒有朋友的陌生地方，我能做好嗎？
-138,TEXT_AKTKZI201_04488_LITTLETROLL_000_081,你說什麼呢？！<hex:02100103>我不是你朋友嗎！
-139,TEXT_AKTKZI201_04488_LITTLETROLL_000_082,人不能把自己困在如此狹小的世界裡！<hex:02100103>要想發揮你的聰明才智，必須要到更廣闊的世界才行！！
-140,TEXT_AKTKZI201_04488_NWELHITIA_000_083,呵呵呵，小毛球還說別人，<hex:02100103>你不是也沒離開過迷津嗎？
-141,TEXT_AKTKZI201_04488_LITTLETROLL_000_084,這、這麼重要的時候別插嘴，笨蛋！
-142,TEXT_AKTKZI201_04488_VERPAULAINE_000_085,我明白了。<hex:02100103>我會去魔法大學的！
-143,TEXT_AKTKZI201_04488_STUDIUMSTAFF_000_086,哦哦，太好了！<hex:02100103>事不宜遲，趕緊辦一下手續吧，<hex:02100103>各位監護人也請一同過來吧……
-144,TEXT_AKTKZI201_04488_LITTLETROLL_000_087,剛還在想著終於能說話了，居然就遇上了這種好事！<hex:02100103>這一切都多虧了能遇見你！
-145,TEXT_AKTKZI201_04488_VERPAULAINE_000_088,是啊……<hex:02100103>多虧了你，我不僅獲得了認可，<hex:02100103>還擁有了這麼棒的朋友……
-146,TEXT_AKTKZI201_04488_VERPAULAINE_000_089,謝謝你……<hex:02100103>還有……
-147,TEXT_AKTKZI201_04488_VERPAULAINE_000_090,(-維爾波萊納和小毛球-)我們出發啦！
+0,"TEXT_AKTKZI201_04488_SEQ_00","<hex:024804F201FC03><hex:024904F201FD03> Quest Sync<hex:0249020103><hex:0248020103><hex:02100103>Verpaulaine has something to ask of you once more."
+1,"TEXT_AKTKZI201_04488_SEQ_01","Verpaulaine informs you that he has recently made friends with a young troll, who you soon identify as Shaggles. He mentions that he is struggling to communicate with the creature, so you join him to go and see your mutual acquaintance.<hex:02100103><hex:02100103>※Please note that the difficulty of this quest has been synced to your current level."
+2,"TEXT_AKTKZI201_04488_SEQ_02","Shaggles explains to you that he has come up with a spell that would enable him to converse properly, but he is unable to activate it on his own. Verpaulaine then says he could try using the elemental reactor to create an artificial current of wind-aspected aether, which could give Shaggles the helping hand he needs. The troll agrees to give the boy's plan a try, so the three of you head to the reactor."
+3,"TEXT_AKTKZI201_04488_SEQ_03","Having created an artificial current some distance from the reactor, Verpaulaine bids you accompany him and the troll once more, so as to keep them safe from the threats that would sup on its aether."
+4,"TEXT_AKTKZI201_04488_SEQ_04","Leading the pair, you prepare to wend through Labyrinthos's weeds so that Shaggles can do...whatever it is that Shaggles plans to do.<hex:02100103><hex:02100103>※You must be accompanied by Shaggles and Verpaulaine to complete this task. Speak with either of them again should you become separated."
+5,"TEXT_AKTKZI201_04488_SEQ_05","The plan is a roaring success and Shaggles is at last able to communicate freely. Before he is able to fully enjoy his new voice, however, Mussalfret and N'welhi Tia appear claiming they have something to impart to the pair. You are all bid to join Verpaulaine's father in Sharlayan Hamlet."
+6,"TEXT_AKTKZI201_04488_SEQ_06","A representative from the Studium says that in light of their recent accomplishments, the scholarch has decided to invite Verpaulaine and Shaggles to enroll at the Studium. Verpaulaine is unsure at first, given his lack of experience of the outside world, but you and Shaggles succeed in convincing him to take the chance of a lifetime."
+7,"TEXT_AKTKZI201_04488_SEQ_07",""
+8,"TEXT_AKTKZI201_04488_SEQ_08",""
+9,"TEXT_AKTKZI201_04488_SEQ_09",""
+10,"TEXT_AKTKZI201_04488_SEQ_10",""
+11,"TEXT_AKTKZI201_04488_SEQ_11",""
+12,"TEXT_AKTKZI201_04488_SEQ_12",""
+13,"TEXT_AKTKZI201_04488_SEQ_13",""
+14,"TEXT_AKTKZI201_04488_SEQ_14",""
+15,"TEXT_AKTKZI201_04488_SEQ_15",""
+16,"TEXT_AKTKZI201_04488_SEQ_16",""
+17,"TEXT_AKTKZI201_04488_SEQ_17",""
+18,"TEXT_AKTKZI201_04488_SEQ_18",""
+19,"TEXT_AKTKZI201_04488_SEQ_19",""
+20,"TEXT_AKTKZI201_04488_SEQ_20",""
+21,"TEXT_AKTKZI201_04488_SEQ_21",""
+22,"TEXT_AKTKZI201_04488_SEQ_22",""
+23,"TEXT_AKTKZI201_04488_SEQ_23",""
+24,"TEXT_AKTKZI201_04488_TODO_00","Speak with Shaggles."
+25,"TEXT_AKTKZI201_04488_TODO_01","Speak with Verpaulaine."
+26,"TEXT_AKTKZI201_04488_TODO_02","Speak with Shaggles and have him accompany you."
+27,"TEXT_AKTKZI201_04488_TODO_03","Head to the wind-aspected aether current while accompanied by Shaggles and Verpaulaine, then speak with Shaggles."
+28,"TEXT_AKTKZI201_04488_TODO_04","Speak with Verpaulaine."
+29,"TEXT_AKTKZI201_04488_TODO_05",""
+30,"TEXT_AKTKZI201_04488_TODO_06",""
+31,"TEXT_AKTKZI201_04488_TODO_07",""
+32,"TEXT_AKTKZI201_04488_TODO_08",""
+33,"TEXT_AKTKZI201_04488_TODO_09",""
+34,"TEXT_AKTKZI201_04488_TODO_10",""
+35,"TEXT_AKTKZI201_04488_TODO_11",""
+36,"TEXT_AKTKZI201_04488_TODO_12",""
+37,"TEXT_AKTKZI201_04488_TODO_13",""
+38,"TEXT_AKTKZI201_04488_TODO_14",""
+39,"TEXT_AKTKZI201_04488_TODO_15",""
+40,"TEXT_AKTKZI201_04488_TODO_16",""
+41,"TEXT_AKTKZI201_04488_TODO_17",""
+42,"TEXT_AKTKZI201_04488_TODO_18",""
+43,"TEXT_AKTKZI201_04488_TODO_19",""
+44,"TEXT_AKTKZI201_04488_TODO_20",""
+45,"TEXT_AKTKZI201_04488_TODO_21",""
+46,"TEXT_AKTKZI201_04488_TODO_22",""
+47,"TEXT_AKTKZI201_04488_TODO_23",""
+48,"TEXT_AKTKZI201_04488_VERPAULAINE_000_000","Ah, hello again. Thanks once more for your help in sorting out the sun. I've actually got something else to ask, if you're willing to hear me out."
+49,"TEXT_AKTKZI201_04488_VERPAULAINE_000_001","It concerns a new friend of mine─a young troll that I found wandering around these parts recently."
+50,"TEXT_AKTKZI201_04488_VERPAULAINE_000_002","Obviously, he's not capable of speech, but he can clearly understand me when I talk to him. You...do believe me, right?"
+51,"TEXT_AKTKZI201_04488_Q1_000_000","What will you say?"
+52,"TEXT_AKTKZI201_04488_A1_000_001","Oh, that's Shaggles."
+53,"TEXT_AKTKZI201_04488_A1_000_002","I've met him before."
+54,"TEXT_AKTKZI201_04488_VERPAULAINE_000_003","What a peculiar name. Well, that makes explaining the situation much easier."
+55,"TEXT_AKTKZI201_04488_VERPAULAINE_000_004","Truly? Well, that makes explaining the situation much easier."
+56,"TEXT_AKTKZI201_04488_VERPAULAINE_000_005","I last saw him by Logistikon Alpha. Let's go and see if he's still there."
+57,"TEXT_AKTKZI201_04488_VERPAULAINE_000_007","This is my new friend."
+58,"TEXT_AKTKZI201_04488_LITTLETROLL_000_010","Grrr! I've been searching all over for you, you know."
+59,"TEXT_AKTKZI201_04488_LITTLETROLL_000_011","Since we last met, I decided to use magicks to improve my vocalization."
+60,"TEXT_AKTKZI201_04488_LITTLETROLL_000_012","To that grrr, I've read my fair share of tomes on the subject. It seems your kind are capable of making your vocal cords vibrate thanks to your ability to breathe through your mouths."
+61,"TEXT_AKTKZI201_04488_LITTLETROLL_000_013","Alas, we trolls are incapable of doing so. However, I managed to adapt a wind-aspected spell to enable me to communicate properly─not that there's anything wrong with nasal grrrs, mind you."
+62,"TEXT_AKTKZI201_04488_LITTLETROLL_000_014","I'm not gifted enough to activate the spell on my own, so I set out in search of you once more. It was then that I bumped into this clever child."
+63,"TEXT_AKTKZI201_04488_Q2_000_000","What will you say?"
+64,"TEXT_AKTKZI201_04488_A2_000_001","What happened to N'welhi Tia?"
+65,"TEXT_AKTKZI201_04488_A2_000_002","What happened to the buffoon?"
+66,"TEXT_AKTKZI201_04488_LITTLETROLL_000_015","He wouldn't have been any help, so I left without him. Clearly, I made the right choice─while I might not be able to speak with this boy, he still managed to bring you to me."
+67,"TEXT_AKTKZI201_04488_VERPAULAINE_000_016","You can understand what he's saying? Simply amazing. I knew he had to have some way of communicating!"
+68,"TEXT_AKTKZI201_04488_LITTLETROLL_000_017","I gather he knows a thing or two about aether as well. Would you mind telling him what I just told you? Pretty grrr?"
+69,"TEXT_AKTKZI201_04488_VERPAULAINE_000_018","So <hex:021A020203>that's<hex:021A020103> what he'd been trying to tell me about. Of course, I'll do my best to help."
+70,"TEXT_AKTKZI201_04488_VERPAULAINE_000_019","The wind-aspected aether vented by the earthen reactor ought to help."
+71,"TEXT_AKTKZI201_04488_VERPAULAINE_000_020","If we fiddle with the reactor's settings a bit, we should even be able to create our own blustery vortex of the stuff. That should be all you need to cast your spell."
+72,"TEXT_AKTKZI201_04488_LITTLETROLL_000_021","See, I've got an eye for people! Now, take me to this reactor."
+73,"TEXT_AKTKZI201_04488_VERPAULAINE_000_022","Right this way!"
+74,"TEXT_AKTKZI201_04488_LITTLETROLL_000_025","What a splendid boy he is. I look forward to discussing all kinds of things with him once I'm able to talk."
+75,"TEXT_AKTKZI201_04488_VERPAULAINE_000_030","I'll be back in a bit─I just need to go tinker with the reactor's settings. I learned all about this when I was coming up with ways to better the systems for the artificial sun!"
+76,"TEXT_AKTKZI201_04488_VERPAULAINE_000_031","All done. I think our wind-aspected aether vortex should pop up somewhere to the west."
+77,"TEXT_AKTKZI201_04488_VERPAULAINE_000_032","Keep your wits about you. There's every chance the high concentration of aether will attract fiends."
+78,"TEXT_AKTKZI201_04488_VERPAULAINE_000_033","We don't have any means of protecting ourselves, so we'll need your help. Let us know when you're ready."
+79,"TEXT_AKTKZI201_04488_VERPAULAINE_000_034","We don't have any means of protecting ourselves, so we'll need your help. Let us know when you're ready."
+80,"TEXT_AKTKZI201_04488_VERPAULAINE_000_035","（★未使用／削除予定★）"
+81,"TEXT_AKTKZI201_04488_LITTLETROLL_100_036","Westward grrr!"
+82,"TEXT_AKTKZI201_04488_SYSTEM_000_040","Shaggles and Verpaulaine are now accompanying you. Keep them at your side in order to proceed with quest objectives."
+83,"TEXT_AKTKZI201_04488_SYSTEM_000_041","You can leave your quest companions behind by entering a different area, or by speaking with them and selecting the option to part ways."
+84,"TEXT_AKTKZI201_04488_SYSTEM_000_042","If you wish to have your companions join you again, return and speak with them at the original location."
+85,"TEXT_AKTKZI201_04488_Q3_000_000","What will you do?"
+86,"TEXT_AKTKZI201_04488_A3_000_001","Small talk."
+87,"TEXT_AKTKZI201_04488_A3_000_002","Part ways."
+88,"TEXT_AKTKZI201_04488_A3_000_003","Nothing."
+89,"TEXT_AKTKZI201_04488_VERPAULAINE_000_043","Hmm, what should I ask Shaggles first once he is able to talk..."
+90,"TEXT_AKTKZI201_04488_LITTLETROLL_000_044","Once I'm able to talk, I'm going to have so many things to complain about to N'welhi Tia."
+91,"TEXT_AKTKZI201_04488_VERPAULAINE_100_043","Wait, where is Shaggles? Maybe we should return to the reactor area..."
+92,"TEXT_AKTKZI201_04488_LITTLETROLL_100_044","Grrr, where's Verpaulaine? Perhaps we should return whence we came and see if he's there..."
+93,"TEXT_AKTKZI201_04488_SYSTEM_000_045","Are you sure you wish to part ways with your companions?"
+94,"TEXT_AKTKZI201_04488_VERPAULAINE_000_046","Oh, do you have something else to attend to? Well, we'll be waiting by the reactor whenever you're ready."
+95,"TEXT_AKTKZI201_04488_LITTLETROLL_100_046","Got something else to take care of? Grrr. We'll wait at the reactor for you."
+96,"TEXT_AKTKZI201_04488_VERPAULAINE_000_047","Ready to leave? So are we!"
+97,"TEXT_AKTKZI201_04488_LITTLETROLL_100_048","Ready to go? We are too."
+98,"TEXT_AKTKZI201_04488_VERPAULAINE_200_047","My apologies. I got distracted and lost sight of you two. Let us set off once more."
+99,"TEXT_AKTKZI201_04488_LITTLETROLL_200_048","Try not leaving me behind this time, all right? Let's get going."
+100,"TEXT_AKTKZI201_04488_LITTLETROLL_100_047","We can't leave the boy behind."
+101,"TEXT_AKTKZI201_04488_VERPAULAINE_100_049","（★未使用／削除予定★）"
+102,"TEXT_AKTKZI201_04488_SYSTEM_000_048","You must be accompanied by Shaggles and Verpaulaine and have them at your side in order to proceed with quest objectives."
+103,"TEXT_AKTKZI201_04488_SYSTEM_200_050","Wind-aspected aether swirls before you..."
+104,"TEXT_AKTKZI201_04488_SYSTEM_100_048","You have left Verpaulaine behind. Return to his side to continue the quest."
+105,"TEXT_AKTKZI201_04488_SYSTEM_100_050","（★未使用／削除予定★）"
+106,"TEXT_AKTKZI201_04488_SYSTEM_000_049",""
+107,"TEXT_AKTKZI201_04488_VERPAULAINE_300_050","Now that we have found the current, we simply need to let Shaggles take care of the rest."
+108,"TEXT_AKTKZI201_04488_LITTLETROLL_000_050","So this is it, eh? Let me give it a go, then..."
+109,"TEXT_AKTKZI201_04488_LITTLETROLL_000_051","A-grrr, ahem. Can you hear me?"
+110,"TEXT_AKTKZI201_04488_LITTLETROLL_000_052","Brilliant! I can finally talk!"
+111,"TEXT_AKTKZI201_04488_VERPAULAINE_000_053","How wonderful! There's so much I want to talk to you about."
+112,"TEXT_AKTKZI201_04488_VERPAULAINE_000_054","Oh, Father? What brings you here?"
+113,"TEXT_AKTKZI201_04488_LITTLETROLL_000_055","Well, if it isn't my favorite buffoon! How'd you know I'd be here?"
+114,"TEXT_AKTKZI201_04488_NWELHITIA_000_056","You can speak!? Oh, even your voice is adorable!"
+115,"TEXT_AKTKZI201_04488_MUSSALFRET_000_057","A pleasure to see you again. I was just looking for my boy─I have something of great importance to impart upon him."
+116,"TEXT_AKTKZI201_04488_NWELHITIA_000_058","It's a pleasure for me as well. I'd been wanting to speak with Shaggles, myself─and now he can reply!"
+117,"TEXT_AKTKZI201_04488_MUSSALFRET_000_059","In that case, why don't you all join me in Sharlayan Hamlet? There's someone I'd like you to meet."
+118,"TEXT_AKTKZI201_04488_LITTLETROLL_000_060","Here I am, finally able to talk, and people instantly decide they have more important things to share. Grrr..."
+119,"TEXT_AKTKZI201_04488_MUSSALFRET_000_061","Sounds like you've helped my son yet again. You have my thanks."
+120,"TEXT_AKTKZI201_04488_NWELHITIA_000_062","It's lovely that Shaggles can talk, but I do wish he'd stop mocking me..."
+121,"TEXT_AKTKZI201_04488_STUDIUMSTAFF_000_063","So that's the troll and the boy I've heard so much about..."
+122,"TEXT_AKTKZI201_04488_VERPAULAINEMOTHER_000_021","Thank you so much for always looking after our son."
+123,"TEXT_AKTKZI201_04488_VERPAULAINE_000_070","So what's this all about?"
+124,"TEXT_AKTKZI201_04488_NWELHITIA_000_071",""
+125,"TEXT_AKTKZI201_04488_MUSSALFRET_100_071","Alas, that is not for me to explain. We have someone here from the Studium who will do the honors instead."
+126,"TEXT_AKTKZI201_04488_STUDIUMSTAFF_000_072","That would be me. A pleasure to make your acquaintance. I come bearing a message for you two from the scholarch himself."
+127,"TEXT_AKTKZI201_04488_LITTLETROLL_000_073","You mean...myself and Verpaulaine?"
+128,"TEXT_AKTKZI201_04488_STUDIUMSTAFF_000_074","Correct. Master Verpaulaine and Master...Shaggles, was it? Ahem, would you two perchance be interested in pursuing an education at the Studium?"
+129,"TEXT_AKTKZI201_04488_STUDIUMSTAFF_000_075","Word of your recent accomplishments has reached us, and we are all most impressed by your abilities."
+130,"TEXT_AKTKZI201_04488_STUDIUMSTAFF_000_076","It would be our honor to welcome you to our institution and help nurture your talents while providing you with ample opportunities to learn."
+131,"TEXT_AKTKZI201_04488_LITTLETROLL_000_077","I can hardly believe my ears, but I'm not about to turn down the chance of a lifetime. Of course I'll enroll!"
+132,"TEXT_AKTKZI201_04488_MUSSALFRET_000_078","What's the matter, Verpaulaine? You've more than proved yourself ready to face greater intellectual challenges─to leave Labyrinthos and expand your horizons."
+133,"TEXT_AKTKZI201_04488_VERPAULAINE_000_079","It's just that Labyrinthos is all I've ever known. How can I be sure I'll succeed out there?"
+134,"TEXT_AKTKZI201_04488_Q4_000_000","What will you say?"
+135,"TEXT_AKTKZI201_04488_A4_000_001","I know you've got what it takes."
+136,"TEXT_AKTKZI201_04488_A4_000_002","I know a pair that entered the Studium at eleven."
+137,"TEXT_AKTKZI201_04488_VERPAULAINE_000_080","Thank you for trying to reassure me. Only, I won't know anyone there, and..."
+138,"TEXT_AKTKZI201_04488_LITTLETROLL_000_081","Grrr! What are you talking about? You know me, don't you?"
+139,"TEXT_AKTKZI201_04488_LITTLETROLL_000_082","Don't tell me you plan to spend your whole life in this fishbowl? There's a whole world out there to explore!"
+140,"TEXT_AKTKZI201_04488_NWELHITIA_000_083","Says the troll who's never left Labyrinthos either."
+141,"TEXT_AKTKZI201_04488_LITTLETROLL_000_084","Silence, buffoon!"
+142,"TEXT_AKTKZI201_04488_VERPAULAINE_000_085","All right. You've convinced me. I'll go!"
+143,"TEXT_AKTKZI201_04488_STUDIUMSTAFF_000_086","Splendid! Now, there are just a few sheaves of paperwork to take care of, so I'll need to borrow your guardians for a bit."
+144,"TEXT_AKTKZI201_04488_LITTLETROLL_000_087","None of this would have happened if we hadn't met, would it?"
+145,"TEXT_AKTKZI201_04488_VERPAULAINE_000_088","I never would have gotten this opportunity, or made such a wonderful new friend without you."
+146,"TEXT_AKTKZI201_04488_VERPAULAINE_000_089","Thank you. I really mean it."
+147,"TEXT_AKTKZI201_04488_VERPAULAINE_000_090","(-Verpaulaine and Shaggles-)Farewell!"

@@ -2,134 +2,134 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_CLSCUL700_02608_SEQ_00,羅薇娜會館的拉爾夫好像在思考什麼。
-1,TEXT_CLSCUL700_02608_SEQ_01,從拉爾夫那裡得知他小時候在阿拉米格吃過一種燉肉和東方菜餚壽喜燒很相似。他認為阿拉米格和多瑪有聯繫，決定去調查。和前往基拉巴尼亞山區阿拉基利的拉爾夫匯合。
-2,TEXT_CLSCUL700_02608_SEQ_02,和拉爾夫匯合了。在阿拉基利收集有關燉肉菜餚的情報。
-3,TEXT_CLSCUL700_02608_SEQ_03,在阿拉基利收集了情報。似乎有一種叫做小圓盾鍋的燉肉菜餚。向阿拉基利的拉爾夫報告。
-4,TEXT_CLSCUL700_02608_SEQ_04,向拉爾夫報告完畢。他得知有人很熟悉阿拉米格的歷史。和阿拉基利的喜歡歷史的中原之民談談。
-5,TEXT_CLSCUL700_02608_SEQ_05,據喜歡歷史的中原之民所說，阿拉米格和東方的交易往來僅限於拉札罕附近，和多瑪沒有直接的往來。拉爾夫沒有放棄，他決定去找拉札罕出身的老人打聽。和前往了基拉巴尼亞山區白鬼岩山的拉爾夫匯合。
-6,TEXT_CLSCUL700_02608_SEQ_06,和拉爾夫匯合之後，突然聽到了老人的慘叫。和白鬼岩山尋找慘叫來源的拉爾夫匯合。
-7,TEXT_CLSCUL700_02608_SEQ_07,和拉爾夫匯合了。原來拉札罕老人被盧恩族山賊襲擊，拉爾夫擊退了他們。據老人所說，小圓盾鍋正是經由拉札罕傳入阿拉米格的多瑪菜餚——壽喜燒。拉爾夫的猜測得到了證實。和回到羅薇娜會館的拉爾夫談談。
-8,TEXT_CLSCUL700_02608_SEQ_08,和拉爾夫進行了交談。他表示要做小圓盾鍋，希望冒險者做壽喜燒。使用從拉爾夫那裡得到的<hex:02280BFF05>Item<hex:F246130103>製作<hex:02280DFF07>ItemHQ<hex:F246140103>，並將其交給羅薇娜會館的拉爾夫。<hex:02100103><hex:02100103>※如果<hex:02280BFF05>Item<hex:F246130103>不足的話，就和羅薇娜會館的波平對話，即可重獲材料，並再次進行挑戰。
-9,TEXT_CLSCUL700_02608_SEQ_09,將<hex:02280DFF07>ItemHQ<hex:F246140103>交給了拉爾夫。雲山品嘗了小圓盾鍋和壽喜燒。得知了阿拉米格和多瑪之間的聯繫，雲山答應了拉爾夫和杏之間的婚事。拉爾夫又做回了烹調師，表示從今以後也會繼續學習東方菜餚。冒險者也學會了新菜系，從今以後也要不斷挑戰新東西。
-10,TEXT_CLSCUL700_02608_SEQ_10,
-11,TEXT_CLSCUL700_02608_SEQ_11,
-12,TEXT_CLSCUL700_02608_SEQ_12,
-13,TEXT_CLSCUL700_02608_SEQ_13,
-14,TEXT_CLSCUL700_02608_SEQ_14,
-15,TEXT_CLSCUL700_02608_SEQ_15,
-16,TEXT_CLSCUL700_02608_SEQ_16,
-17,TEXT_CLSCUL700_02608_SEQ_17,
-18,TEXT_CLSCUL700_02608_SEQ_18,
-19,TEXT_CLSCUL700_02608_SEQ_19,
-20,TEXT_CLSCUL700_02608_SEQ_20,
-21,TEXT_CLSCUL700_02608_SEQ_21,
-22,TEXT_CLSCUL700_02608_SEQ_22,
-23,TEXT_CLSCUL700_02608_SEQ_23,
-24,TEXT_CLSCUL700_02608_TODO_00,和阿拉基利的拉爾夫匯合
-25,TEXT_CLSCUL700_02608_TODO_01,在阿拉基利收集情報
-26,TEXT_CLSCUL700_02608_TODO_02,向拉爾夫報告
-27,TEXT_CLSCUL700_02608_TODO_03,和喜歡歷史的中原之民對話
-28,TEXT_CLSCUL700_02608_TODO_04,和拉爾夫匯合
-29,TEXT_CLSCUL700_02608_TODO_05,和拉爾夫再次匯合
-30,TEXT_CLSCUL700_02608_TODO_06,和喪靈鐘的拉爾夫對話
-31,TEXT_CLSCUL700_02608_TODO_07,<hex:02085EE3E802E803FF33>製作製作筆記 職業任務：<hex:02280DFF07>ItemHQ<hex:F246140103><hex:FF23>將<hex:02280DFF07>ItemHQ<hex:F246140103>交給拉爾夫<hex:03>
-32,TEXT_CLSCUL700_02608_TODO_08,
-33,TEXT_CLSCUL700_02608_TODO_09,
-34,TEXT_CLSCUL700_02608_TODO_10,
-35,TEXT_CLSCUL700_02608_TODO_11,
-36,TEXT_CLSCUL700_02608_TODO_12,
-37,TEXT_CLSCUL700_02608_TODO_13,
-38,TEXT_CLSCUL700_02608_TODO_14,
-39,TEXT_CLSCUL700_02608_TODO_15,
-40,TEXT_CLSCUL700_02608_TODO_16,
-41,TEXT_CLSCUL700_02608_TODO_17,
-42,TEXT_CLSCUL700_02608_TODO_18,
-43,TEXT_CLSCUL700_02608_TODO_19,
-44,TEXT_CLSCUL700_02608_TODO_20,
-45,TEXT_CLSCUL700_02608_TODO_21,
-46,TEXT_CLSCUL700_02608_TODO_22,
-47,TEXT_CLSCUL700_02608_TODO_23,
-48,TEXT_CLSCUL700_02608_SYSTEM_100_000,若要領取或繼續推進本任務，<hex:02100103>需完成「紅蓮之狂潮主線任務」中的「前往山岳地帶」。
-49,TEXT_CLSCUL700_02608_RAULF_000_000,<hex:022903EB0203>，謝謝你願意幫我。<hex:02100103>後來我想了想，還是很在意雲山先生所說的，<hex:02100103>東方菜餚和別的文化圈隔離發展的那件事。
-50,TEXT_CLSCUL700_02608_RAULF_000_001,我總覺得不是這樣……<hex:02100103>原因在於我第一次吃到的東方菜餚，<hex:02100103>是杏給我做的<hex:02280DFF07>ItemHQ<hex:F246140103>。
-51,TEXT_CLSCUL700_02608_RAULF_000_002,那是一種把肉調成甜辣味煮的美味火鍋。<hex:02100103>當時我明明是第一次吃，卻有一種懷念的感覺。
-52,TEXT_CLSCUL700_02608_RAULF_000_003,我是阿拉米格難民，<hex:02100103>在很小的時候就成了戰爭孤兒來到艾歐澤亞，<hex:02100103>所以基本上沒有關於祖國的記憶……
-53,TEXT_CLSCUL700_02608_RAULF_000_004,唯一記得的，就是小時候在故鄉吃過的燉肉鍋。<hex:02100103>它的味道和壽喜燒十分相似！<hex:02100103>我覺得這並不是巧合……
-54,TEXT_CLSCUL700_02608_RAULF_000_005,說不定東方和阿拉米格之間有過交流！<hex:02100103>只要能證明這點，丈人他一定會改變主意的！
-55,TEXT_CLSCUL700_02608_RAULF_000_006,我現在又做回了冒險者，<hex:02100103>打算去基拉巴尼亞山區一個叫阿拉基利的地方看看，<hex:02100103>聽說那裡以前是和東方交易的驛站。
-56,TEXT_CLSCUL700_02608_RAULF_000_007,我要去那裡尋找記憶中的燉肉鍋，<hex:02100103>調查歷史上的阿拉米格和多瑪之間<hex:02100103>有沒有通過交易互相交流菜餚的做法！
-57,TEXT_CLSCUL700_02608_RAULF_000_008,一直讓你幫我，怪不好意思的，<hex:02100103>如果你願意繼續幫我，我們就在當地集合吧……<hex:02100103>那我就先去阿拉基利了。
-58,TEXT_CLSCUL700_02608_RAULF_000_010,你來了，謝謝你！<hex:02100103>這附近的怪物都太強了，我好不容易才甩掉它們來到這裡，<hex:02100103>沒想到居民們又都是些不苟言笑的傢伙，真是吃不消……
-59,TEXT_CLSCUL700_02608_RAULF_000_011,不過只要有你在，我就放心了！<hex:02100103>你願意幫我真是太感謝了！
-60,TEXT_CLSCUL700_02608_RAULF_000_012,我們趕緊去向居民們收集燉肉鍋的情報吧，<hex:02100103>等打聽完了再在這裡集合。
-61,TEXT_CLSCUL700_02608_RAULF_000_015,請問你有聽說過甜辣味的燉肉菜餚嗎？
-62,TEXT_CLSCUL700_02608_CITIZENA02608_000_020,啊？燉肉菜餚？<hex:02100103>我才不知道呢，有啥吃啥！
-63,TEXT_CLSCUL700_02608_CITIZENB02608_000_021,燉肉菜餚？<hex:02100103>沒聽說過，而且烤肉才是肉的唯一正確的好吃做法。
-64,TEXT_CLSCUL700_02608_CITIZENC02608_000_022,燉肉菜餚嗎？<hex:02100103>你說的一定是小圓盾鍋吧。<hex:02100103>這是一種阿拉米格傳統的甜辣味燉肉鍋。
-65,TEXT_CLSCUL700_02608_CITIZENC02608_000_023,聽說這是阿拉米格傭兵們在戰場上發明的，<hex:02100103>他們用小圓盾代替鍋，加入調料和酒，做出了甜辣味的燉肉火鍋。<hex:02100103>不過阿拉米格被帝國佔領後，肉成了奢侈品，現在已經很少見了。
-66,TEXT_CLSCUL700_02608_CITIZENA02608_000_025,啊？燉肉菜餚？<hex:02100103>我才不知道呢，有啥吃啥！
-67,TEXT_CLSCUL700_02608_CITIZENB02608_000_026,燉肉菜餚？<hex:02100103>沒聽說過，而且烤肉才是肉的唯一正確的好吃做法。
-68,TEXT_CLSCUL700_02608_CITIZENC02608_000_027,你說的燉肉菜餚一定是小圓盾鍋吧。<hex:02100103>這是一種阿拉米格傳統的甜辣味燉肉鍋。
-69,TEXT_CLSCUL700_02608_CITIZENC02608_000_028,聽說這是阿拉米格傭兵們在戰場上發明的，<hex:02100103>用小圓盾代替鍋加入調料和酒來燉的甜辣味肉鍋類菜餚。<hex:02100103>阿拉米格被帝國佔領後，肉成了奢侈品，很少見到了。
-70,TEXT_CLSCUL700_02608_RAULF_000_030,我這邊沒有什麼情報。<hex:02100103>我打聽了一圈，沒人知道燉肉菜餚……
-71,TEXT_CLSCUL700_02608_RAULF_000_031,將肉煮得又甜又辣的小圓盾鍋……沒錯！<hex:02100103>我想起來了，是這個名字！
-72,TEXT_CLSCUL700_02608_RAULF_000_032,幫大忙了，不愧是一流冒險者……<hex:02100103>但是我打聽到了有一個對歷史非常熟悉的人。<hex:02100103>我們趕緊去問問他阿拉米格和多瑪之間有沒有過貿易往來吧！
-73,TEXT_CLSCUL700_02608_RAULF_000_035,聽說這個人對阿拉米格的歷史十分了解。<hex:02100103>我們趕緊問問他阿拉米格和多瑪之間有沒有過貿易往來吧！
-74,TEXT_CLSCUL700_02608_CITIZEND02608_000_040,我過去曾就職於阿拉米格王宮，<hex:02100103>可以說對歷史有過一點了解，你們找我要問什麼？
-75,TEXT_CLSCUL700_02608_CITIZEND02608_000_041,唔……的確在帝國侵略之前，<hex:02100103>阿拉米格和東方有交易往來，不過僅限於到近東拉札罕為止。<hex:02100103>我們和東洲奧薩德大陸的多瑪沒有直接往來。
-76,TEXT_CLSCUL700_02608_RAULF_000_042,怎麼會……阿拉米格和多瑪之間沒有交流……<hex:02100103>不，還不能放棄……
-77,TEXT_CLSCUL700_02608_RAULF_000_043,壽喜燒和小圓盾鍋之間絕對有聯繫。<hex:02100103>說不定壽喜燒就是經由拉札罕傳入多瑪的小圓盾鍋！
-78,TEXT_CLSCUL700_02608_RAULF_000_044,但是要去拉札罕調查還是太遠了。<hex:02100103>到底怎麼辦才好……
-79,TEXT_CLSCUL700_02608_CITIZEND02608_000_045,你們要問拉札罕的事情的話，<hex:02100103>附近有一位很久以前坐船從東方來這裡定居的老人。<hex:02100103>你們去找那位老人問問吧。
-80,TEXT_CLSCUL700_02608_CITIZEND02608_000_046,我剛才看見他從鎮子裡出去了，老人腿腳不便，走不了多遠。<hex:02100103>應該就在附近。
-81,TEXT_CLSCUL700_02608_RAULF_000_047,謝謝你！<hex:02100103>我這就去附近找找！
-82,TEXT_CLSCUL700_02608_CITIZEND02608_000_049,你們去找那位從拉札罕來的老人問問吧。<hex:02100103>我剛才看見他從鎮子裡出去了，老人腿腳不便，走不了多遠。<hex:02100103>應該就在附近。
-83,TEXT_CLSCUL700_02608_RAULF_000_050,嗯……找不到那位老人呢……
-84,TEXT_CLSCUL700_02608_CITIZENE02608_000_051,(-老人的慘叫聲-)噫！！<hex:02100103>有人嗎，救救我！！
-85,TEXT_CLSCUL700_02608_RAULF_000_052,不好！<hex:02100103>我們趕緊去看看發生了什麼！
-86,TEXT_CLSCUL700_02608_CITIZENE02608_000_055,得……得救了……
-87,TEXT_CLSCUL700_02608_RAULF_000_060,嘿嘿嘿……總算打倒它們了。<hex:02100103>雖然休業了一段時間功夫有些生疏了，<hex:02100103>但畢竟我也算是冒險者……
-88,TEXT_CLSCUL700_02608_RAULF_000_061,如果是你的話，這種嘍羅根本不在話下吧。<hex:02100103>不過我一直受你照顧，<hex:02100103>這點事就讓我來做吧。
-89,TEXT_CLSCUL700_02608_RAULF_000_062,我也想在你面前露一手。
-90,TEXT_CLSCUL700_02608_CITIZENE02608_000_063,得救了……我來這裡採野草，<hex:02100103>沒注意到盧恩族的山賊們。<hex:02100103>你沒事吧？
-91,TEXT_CLSCUL700_02608_RAULF_000_064,沒、沒事。<hex:02100103>您就是從拉札罕來到這裡的人嗎？
-92,TEXT_CLSCUL700_02608_RAULF_000_065,請恕我唐突，<hex:02100103>您在拉札罕有見過或者吃過一種叫小圓盾鍋的菜餚嗎？
-93,TEXT_CLSCUL700_02608_CITIZENE02608_000_066,小圓盾鍋可是我的最愛！<hex:02100103>這種菜餚是從阿拉米格傳過來，在拉札罕很普遍的一種菜餚。<hex:02100103>我就是為了這種菜餚才來到這裡的。
-94,TEXT_CLSCUL700_02608_RAULF_000_067,果然小圓盾鍋傳到了拉札罕！<hex:02100103>那麼您聽說過小圓盾鍋傳到多瑪嗎？
-95,TEXT_CLSCUL700_02608_CITIZENE02608_000_068,有啊，那可是很出名的故事。<hex:02100103>一個來拉札罕買調料的多瑪商人吃了小圓盾鍋，非常喜歡。
-96,TEXT_CLSCUL700_02608_CITIZENE02608_000_069,他買了小圓盾鍋使用的那種淺底的鍋想運回祖國開店，<hex:02100103>但是鍋太重了，他留下一句用鋤頭代替就好，<hex:02100103>沒有帶鍋回去。
-97,TEXT_CLSCUL700_02608_RAULF_000_070,您說鋤頭？！看來沒錯了！<hex:02100103>有一種說法，壽喜燒的名字來源就是在鋤頭上烤肉！
-98,TEXT_CLSCUL700_02608_CITIZENE02608_000_071,我雖然不知道什麼是壽喜燒，<hex:02100103>不過聽你這麼一講，我又想吃小圓盾鍋了。<hex:02100103>好久沒吃了，回去了就做一鍋。
-99,TEXT_CLSCUL700_02608_RAULF_000_072,您會做小圓盾鍋？<hex:02100103>能教教我嗎？<hex:02100103>而且我還想多了解一些東方的事情。
-100,TEXT_CLSCUL700_02608_CITIZENE02608_000_073,沒想到你居然願意陪我這個老人聊天？<hex:02100103>那就來我家吧，想問什麼都可以。
-101,TEXT_CLSCUL700_02608_RAULF_000_074,<hex:022903EB0203>，那我就去和老人學習小圓盾鍋的做法。
-102,TEXT_CLSCUL700_02608_RAULF_000_075,我一個人就夠了，你先回喪靈鐘吧，我們在那裡集合！
-103,TEXT_CLSCUL700_02608_POPIN_000_079,拉爾夫拜託我找做壽喜燒要用的食材，<hex:02100103>我就找了一些高品質的雪花肉和東方調料。
-104,TEXT_CLSCUL700_02608_RAULF_000_080,你來得正好，我也剛剛到。<hex:02100103>我從老人那裡學習了小圓盾鍋的做法。
-105,TEXT_CLSCUL700_02608_RAULF_000_081,跟羅薇娜好說歹說，她總算願意把廚房借給我了。<hex:02100103>我要做小圓盾鍋說服丈人。<hex:02100103>最後還有一件事要拜託你……
-106,TEXT_CLSCUL700_02608_RAULF_000_082,希望你用<hex:02280BFF05>Item<hex:F246130103>，<hex:02100103>做<hex:02280DFF07>ItemHQ<hex:F246140103>。<hex:02100103>並不是很難。
-107,TEXT_CLSCUL700_02608_RAULF_100_082,只要把肉、蔬菜和湯底用東方調料調成甜辣味煮就行了，<hex:02100103>對於製作過各種各樣東方菜餚的你來說一定很簡單。<hex:02100103>如果材料不夠就去找波平要。
-108,TEXT_CLSCUL700_02608_RAULF_000_083,這是賭上我烹調師人生的菜餚！<hex:02100103>請你一定也要做出最棒的<hex:02280DFF07>ItemHQ<hex:F246140103>！
-109,TEXT_CLSCUL700_02608_POPIN_000_088,如果<hex:02280BFF05>Item<hex:F246130103>不夠，請隨時來找我。<hex:02100103>拉爾夫拜託我找做壽喜燒要用的食材，<hex:02100103>我就找了一些高品質的雪花肉和東方調料。
-110,TEXT_CLSCUL700_02608_POPIN_000_089,看來最棒的<hex:02280DFF07>ItemHQ<hex:F246140103>已經做好了！<hex:02100103>拉爾夫好像也做好小圓盾鍋了。<hex:02100103>這兩種菜餚確實很相似呢，真想嘗嘗！
-111,TEXT_CLSCUL700_02608_RAULF_000_090,做著小圓盾鍋，我就回憶起了小時候的事情……<hex:02100103>你做好<hex:02280DFF07>ItemHQ<hex:F246140103>了嗎？
-112,TEXT_CLSCUL700_02608_RAULF_000_091,不愧是<hex:022903EB0203>，你做的壽喜燒看起來真美味！<hex:02100103>我也做好了最棒的小圓盾鍋。<hex:02100103>我們趕緊去露天咖啡廳讓丈人嘗嘗吧！
-113,TEXT_CLSCUL700_02608_UNZAN_000_100,你做了壽喜鍋？<hex:02100103>在我的祖國，這可是只有親朋好友或者家人才能一起吃的菜餚。<hex:02100103>你想表達什麼？我說過不會把女兒嫁給你的……
-114,TEXT_CLSCUL700_02608_RAULF_000_101,請先聽我說。<hex:02100103>這邊是<hex:022903EB0203>做的壽喜燒。<hex:02100103>我為您準備了別的菜餚……
-115,TEXT_CLSCUL700_02608_UNZAN_000_102,這是什麼？<hex:02100103>雖然很像壽喜燒，但並不是東方菜餚……
-116,TEXT_CLSCUL700_02608_RAULF_000_103,這是我的故鄉，阿拉米格的燉肉菜餚。<hex:02100103>請嘗嘗然後比較一下這兩樣菜。
-117,TEXT_CLSCUL700_02608_UNZAN_000_104,阿拉米格的燉肉菜餚？<hex:02100103>你讓我吃這個想幹嘛……<hex:02100103>但這個香味真是刺激食慾……
-118,TEXT_CLSCUL700_02608_UNZAN_000_105,這味道……<hex:02100103>不光外表相似，味道也很相似？！<hex:02100103>但是兩者使用的素材和調料並不相同！
-119,TEXT_CLSCUL700_02608_ANZU_000_106,真的！<hex:02100103>雖然味道有些許不同，但這煮成甜口的肉正是壽喜燒的味道！
-120,TEXT_CLSCUL700_02608_UNZAN_000_107,但是為什麼？<hex:02100103>難道說壽喜燒傳到了阿拉米格？
-121,TEXT_CLSCUL700_02608_RAULF_000_108,不，正好相反，<hex:02100103>壽喜燒是阿拉米格的小圓盾鍋演變而來的……
-122,TEXT_CLSCUL700_02608_RAULF_000_109,阿拉米格曾經是和近東拉札罕交易的地方。<hex:02100103>而拉札罕和東方多瑪也有貿易往來。
-123,TEXT_CLSCUL700_02608_RAULF_000_110,小圓盾鍋正是從阿拉米格經由拉札罕傳到多瑪，<hex:02100103>再用東方特有調料再現的。<hex:02100103>最後發展成了今天的壽喜燒。
-124,TEXT_CLSCUL700_02608_RAULF_000_111,從歷史來看，壽喜燒也是最近才發明的。<hex:02100103>多瑪的肉類菜餚在很長一段時間裡都只有烤肉<hex:02100103>和用肉餡做的點心……
-125,TEXT_CLSCUL700_02608_RAULF_000_112,但是自從小圓盾鍋演變成壽喜燒傳遍多瑪各地後，<hex:02100103>多瑪人不再只燉海鮮，也開始流行起了燉肉。
-126,TEXT_CLSCUL700_02608_RAULF_000_113,丈人，您曾經說過東方菜餚正是和其它文化隔絕<hex:02100103>才能獨自發展至今……<hex:02100103>但其實東方菜餚在發展的過程中也吸收了別的地區的文化啊。
-127,TEXT_CLSCUL700_02608_UNZAN_000_114,你們也別站著了，菜都要涼了。<hex:02100103>大家一起來吃吧。
-128,TEXT_CLSCUL700_02608_RAULF_000_115,<hex:022903EB0203>，謝謝你！<hex:02100103>多虧了你，丈人終於承認我和杏的婚事了。<hex:02100103>我從今以後要回到露天咖啡廳，為大家做東方菜餚！
-129,TEXT_CLSCUL700_02608_RAULF_000_116,你今後也要繼續修行吧，無論是作為烹調師還是冒險者，<hex:02100103>你都會走到讓我望塵莫及的高度……<hex:02100103>不過，還是請你有空時偶爾來店裡看看啊！
-130,TEXT_CLSCUL700_02608_SYSTEM_100_120,
+0,"TEXT_CLSCUL700_02608_SEQ_00","Raulf is deep in thought."
+1,"TEXT_CLSCUL700_02608_SEQ_01","After pondering Unzan's words on the purity of Far Eastern cuisine at length, Raulf has identified the reason why the claim sits ill with him. He recounts to you the very first Far Eastern dish he ever had, which Anzu made for him: sukiyaki, a hearty dish of meat and vegetables simmered in a shallow pot. The taste of it unearthed long-buried memories of an identical stew from his childhood in Ala Mhigo, and he believes that there is a connection between the two. In order to verify his theory, Raulf sets forth for the village of Ala Ghiri in the Peaks region; join him there if you would help him in his quest."
+2,"TEXT_CLSCUL700_02608_SEQ_02","Raulf is grateful for your continued cooperation. He bids you split up and ask the denizens of Ala Ghiri about the stew from his memory."
+3,"TEXT_CLSCUL700_02608_SEQ_03","Your investigation has yielded a name: buckler stew. The dish apparently came into being when soldiers took to using their shields as pots, cooking meat in them with wine and various seasonings. Rejoin Raulf and share with him this momentous discovery."
+4,"TEXT_CLSCUL700_02608_SEQ_04","Raulf is certain that buckler stew was the dish from his childhood, and all that remains is to establish a connection with sukiyaki. To this end, Raulf has tracked down an individual who is versed in history. Seek out this individual and ask him what he knows."
+5,"TEXT_CLSCUL700_02608_SEQ_05","According to the Highlander historian, Ala Mhigo traded only as far as the Near East and had no direct dealings with Far Eastern states. However, Raulf is not ready to give up, and posits that Radz–at–Han may have been a waypoint for trade─and the dish. By a stroke of good fortune, it appears Ala Ghiri is home to a Hannish immigrant who came to Eorzea many years ago. Join Raulf as he searches for the elderly fellow outside the village."
+6,"TEXT_CLSCUL700_02608_SEQ_06","In the course of your search, you hear an elderly man crying out for help. Make haste after Raulf in the direction of the voice."
+7,"TEXT_CLSCUL700_02608_SEQ_07","You arrive at the scene to find Raulf spent but alive, Qiqirn bandits dead at his feet. The elderly fellow he saved turns out to be the Hannish immigrant, and as luck would have it, he is extremely fond of buckler stew. He confirms that the dish first came from Ala Mhigo to Radz–at–Han, and thence made its way to Doma, where it was reborn as sukiyaki. Raulf will remain in Ala Ghiri awhile to learn the recipe for buckler stew, and promises to meet you back at Revenant's Toll when he is done."
+8,"TEXT_CLSCUL700_02608_SEQ_08","In a rare display of kindness from Rowena, Raulf has secured the use of his old kitchen for his bid to win Unzan over. For a final favor, he asks that you prepare a serving of Doman sukiyaki for him. Raulf's future with Anzu and as a culinarian both hang in the balance; see that you make the best example of the dish you are able.<hex:02100103><hex:02100103>※In the event you lose the ingredients or the synthesis ends in failure, you may try again by speaking with Popin."
+9,"TEXT_CLSCUL700_02608_SEQ_09","You present your Doman sukiyaki to Raulf just as he finishes making his buckler stew. The two dishes are placed before Unzan and Anzu, who are shocked to find that, despite their apparent differences, they taste almost identical. Raulf proceeds to explain how the Ala Mhigan buckler stew was reborn in Doma as sukiyaki, its arrival giving rise to new possibilities in Far Eastern cuisine. A moment passes in tense silence before Unzan invites Raulf to join the meal─as family should. At the conclusion of the happy gathering, Raulf offers you his heartfelt thanks for helping him to win over Unzan, with whose blessing he and Anzu will wed at the earliest opportunity. He then declares that he will hang up his adventurer's hat for good and resume his post at the café, serving Far Eastern dishes. As your brother culinarian finds his place, continue carving your own path and ever strive towards new horizons."
+10,"TEXT_CLSCUL700_02608_SEQ_10",""
+11,"TEXT_CLSCUL700_02608_SEQ_11",""
+12,"TEXT_CLSCUL700_02608_SEQ_12",""
+13,"TEXT_CLSCUL700_02608_SEQ_13",""
+14,"TEXT_CLSCUL700_02608_SEQ_14",""
+15,"TEXT_CLSCUL700_02608_SEQ_15",""
+16,"TEXT_CLSCUL700_02608_SEQ_16",""
+17,"TEXT_CLSCUL700_02608_SEQ_17",""
+18,"TEXT_CLSCUL700_02608_SEQ_18",""
+19,"TEXT_CLSCUL700_02608_SEQ_19",""
+20,"TEXT_CLSCUL700_02608_SEQ_20",""
+21,"TEXT_CLSCUL700_02608_SEQ_21",""
+22,"TEXT_CLSCUL700_02608_SEQ_22",""
+23,"TEXT_CLSCUL700_02608_SEQ_23",""
+24,"TEXT_CLSCUL700_02608_TODO_00","Speak with Raulf in Ala Ghiri."
+25,"TEXT_CLSCUL700_02608_TODO_01","Gather information in Ala Ghiri."
+26,"TEXT_CLSCUL700_02608_TODO_02","Report to Raulf."
+27,"TEXT_CLSCUL700_02608_TODO_03","Speak with the Highlander historian."
+28,"TEXT_CLSCUL700_02608_TODO_04","Rendezvous with Raulf in the Peaks."
+29,"TEXT_CLSCUL700_02608_TODO_05","Speak with Raulf in the Peaks."
+30,"TEXT_CLSCUL700_02608_TODO_06","Speak with Raulf at Revenant's Toll."
+31,"TEXT_CLSCUL700_02608_TODO_07","<hex:02086FE3E802E803FF35>Synthesize a serving of Doman sukiyaki <hex:02280AFF06>Addon<hex:0A0103><hex:FF32>Deliver the Doman sukiyaki <hex:02280AFF06>Addon<hex:0A0103> to Raulf<hex:03>."
+32,"TEXT_CLSCUL700_02608_TODO_08",""
+33,"TEXT_CLSCUL700_02608_TODO_09",""
+34,"TEXT_CLSCUL700_02608_TODO_10",""
+35,"TEXT_CLSCUL700_02608_TODO_11",""
+36,"TEXT_CLSCUL700_02608_TODO_12",""
+37,"TEXT_CLSCUL700_02608_TODO_13",""
+38,"TEXT_CLSCUL700_02608_TODO_14",""
+39,"TEXT_CLSCUL700_02608_TODO_15",""
+40,"TEXT_CLSCUL700_02608_TODO_16",""
+41,"TEXT_CLSCUL700_02608_TODO_17",""
+42,"TEXT_CLSCUL700_02608_TODO_18",""
+43,"TEXT_CLSCUL700_02608_TODO_19",""
+44,"TEXT_CLSCUL700_02608_TODO_20",""
+45,"TEXT_CLSCUL700_02608_TODO_21",""
+46,"TEXT_CLSCUL700_02608_TODO_22",""
+47,"TEXT_CLSCUL700_02608_TODO_23",""
+48,"TEXT_CLSCUL700_02608_SYSTEM_100_000","In order to undertake this quest, you must first complete the main scenario quest “The First of Many.”"
+49,"TEXT_CLSCUL700_02608_RAULF_000_000","You'll recall Unzan's words, about how Far Eastern cuisine developed without outside influence. From the moment he uttered them, they've been tugging at my mind."
+50,"TEXT_CLSCUL700_02608_RAULF_000_001","I've given the claim much thought, and I find myself disinclined to agree. And the basis for this is the very first Far Eastern dish I ever had, which Anzu made for me."
+51,"TEXT_CLSCUL700_02608_RAULF_000_002","<hex:021A020203>Sukiyaki<hex:021A020103>, it's called, and it's a hearty dish of meat and vegetables simmered in a shallow pot. The moment I tasted it, I was overcome with a sense of nostalgia."
+52,"TEXT_CLSCUL700_02608_RAULF_000_003","Like many Ala Mhigans, I'm a war orphan. I left my homeland when I was little and remember nothing of my time there."
+53,"TEXT_CLSCUL700_02608_RAULF_000_004","Nothing at all...save for the taste of a certain hearty stew, and Anzu's sukiyaki was exactly like it!"
+54,"TEXT_CLSCUL700_02608_RAULF_000_005","The similarity can't be a mere coincidence. Nay, there has to be a connection between Far Eastern and Ala Mhigan cuisine. If I can just prove it, Anzu's father might be moved to reconsider our union. There's no guarantee, of course, but for my Anzu it's worth a try."
+55,"TEXT_CLSCUL700_02608_RAULF_000_006","Now, as you can see, I'm an adventurer again, free to go wherever I want, whenever I want. And I intend to go to a village in the Peaks called Ala Ghiri. In former times, it thrived as a trading hub with the East."
+56,"TEXT_CLSCUL700_02608_RAULF_000_007","There, I'm going to track down the stew of my memory and try to learn whether Ala Mhigo might have shared a culinary history with the Far East."
+57,"TEXT_CLSCUL700_02608_RAULF_000_008","You've already journeyed to the other side of the world for me, and I can't rightly ask any more of you. But if you're still willing to help me, then please come to Ala Ghiri."
+58,"TEXT_CLSCUL700_02608_RAULF_000_010","You came, thank the gods! I thought the fiends in the area were fierce, but the people here might be even fiercer..."
+59,"TEXT_CLSCUL700_02608_RAULF_000_011","But I'm ready to face them now that you're here. I can't thank you enough."
+60,"TEXT_CLSCUL700_02608_RAULF_000_012","Let's split up and ask the villagers about the stew. We'll meet again here when we're done."
+61,"TEXT_CLSCUL700_02608_RAULF_000_015","There's this stew I had a long time ago..."
+62,"TEXT_CLSCUL700_02608_CITIZENA02608_000_020","...Stew? Does it look like I know anythin' about swivin' stews? I just eat whatever the hells' put in front o' me!"
+63,"TEXT_CLSCUL700_02608_CITIZENB02608_000_021","Don't care much for stews, sorry. If you ask me, the only way to cook meat is to roast it to a crisp."
+64,"TEXT_CLSCUL700_02608_CITIZENC02608_000_022","Meat and vegetables simmered in a shallow pot... What you describe sounds a lot like buckler stew, a traditional Ala Mhigan dish."
+65,"TEXT_CLSCUL700_02608_CITIZENC02608_000_023","It was born when soldiers in the field took to using their bucklers in place of pots, cooking meat in them with wine and various seasonings. It was popular in the past, but under imperial rule it became a rare indulgence."
+66,"TEXT_CLSCUL700_02608_CITIZENA02608_000_025","...Stew? Does it look like I know anythin' about swivin' stews? I just eat whatever the hells' put in front o' me!"
+67,"TEXT_CLSCUL700_02608_CITIZENB02608_000_026","Don't care much for stews, sorry. If you ask me, the only way to cook meat is to roast it to a crisp."
+68,"TEXT_CLSCUL700_02608_CITIZENC02608_000_027","Meat and vegetables simmered in a shallow pot... What you describe sounds a lot like buckler stew, a traditional Ala Mhigan dish."
+69,"TEXT_CLSCUL700_02608_CITIZENC02608_000_028","It was born when soldiers in the field took to using their bucklers in place of pots, cooking meat in them with wine and various seasonings. It was popular in the past, but under imperial rule it became a rare indulgence."
+70,"TEXT_CLSCUL700_02608_RAULF_000_030","I had no luck, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. No one I spoke with knew anything about my stew."
+71,"TEXT_CLSCUL700_02608_RAULF_000_031","...Buckler stew! Yes, that was its name!"
+72,"TEXT_CLSCUL700_02608_RAULF_000_032","Damn, but even your investigative skills are first-rate. I'm happy to say, though, that my own inquiries weren't completely fruitless either. I managed to track down a fellow who's versed in history. Let's go and ask him what he knows about trade between Ala Mhigo and Doma."
+73,"TEXT_CLSCUL700_02608_RAULF_000_035","That's him, the fellow who's versed in history. Let's ask him what he knows about trade between Ala Mhigo and Doma."
+74,"TEXT_CLSCUL700_02608_CITIZEND02608_000_040","Aye, I do know some few things about our nation's history, owing to my time working at the Royal Palace. What is it that you wish to know?"
+75,"TEXT_CLSCUL700_02608_CITIZEND02608_000_041","Hm, 'tis true Ala Mhigo traded with nations to the east prior to imperial rule. But as far as I'm aware, this extended only as far as the <hex:021A020203>Near<hex:021A020103> East, to Radz–at–Han."
+76,"TEXT_CLSCUL700_02608_RAULF_000_042","So...there was no contact between us and Doma? None at all?"
+77,"TEXT_CLSCUL700_02608_RAULF_000_043","No, even if it isn't direct, there has to be some sort of connection. For example, Radz–at–Han could've been a waypoint for the dish."
+78,"TEXT_CLSCUL700_02608_RAULF_000_044","But if I want to verify this, I'm going to have to go all the way over there..."
+79,"TEXT_CLSCUL700_02608_CITIZEND02608_000_045","Perhaps you needn't go so far, for there's a Hannish fellow among us who came to Eorzea years ago. You could try asking him first."
+80,"TEXT_CLSCUL700_02608_CITIZEND02608_000_046","I saw him heading outside the village a short while ago. Elderly as he is, he can't have gone far."
+81,"TEXT_CLSCUL700_02608_RAULF_000_047","Thank you! <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, let's go and look for this man!"
+82,"TEXT_CLSCUL700_02608_CITIZEND02608_000_049","I suggest you try speaking with the Hannish fellow. He went outside the village a short while ago, but elderly as he is, he can't have gone far."
+83,"TEXT_CLSCUL700_02608_RAULF_000_050","Hmmm, there's no sign of him..."
+84,"TEXT_CLSCUL700_02608_CITIZENE02608_000_051","(-Elderly Voice-)Uwaaah! H-Heeelp! Somebody!"
+85,"TEXT_CLSCUL700_02608_RAULF_000_052","Oh, shite! He's in trouble!"
+86,"TEXT_CLSCUL700_02608_CITIZENE02608_000_055","M-My life flashed before my eyes..."
+87,"TEXT_CLSCUL700_02608_RAULF_000_060","<pant> Hehe, still got it... <wheeze> What little I had, at any rate..."
+88,"TEXT_CLSCUL700_02608_RAULF_000_061","<pant> Would've been a stroll through the woods for you...but I can't let you do all the work. You've done more than your fair share already."
+89,"TEXT_CLSCUL700_02608_RAULF_000_062","Besides...I wanted to show that I'm not completely hopeless."
+90,"TEXT_CLSCUL700_02608_CITIZENE02608_000_063","I owe you my life. I was so focused on my harvesting, I didn't notice the Qiqirn coming.<hex:02100103>...You look a mite pale, lad. Are you hurt?"
+91,"TEXT_CLSCUL700_02608_RAULF_000_064","Just my bones...and organs... I'm already on the mend, I assure you... <grunt> "
+92,"TEXT_CLSCUL700_02608_RAULF_000_065","More importantly, I take it you're the gentleman who came from Radz–at–Han. I'm sorry if this seems sudden, but while you were still there, did you ever hear about a dish called buckler stew?"
+93,"TEXT_CLSCUL700_02608_CITIZENE02608_000_066","Hear about it? I <hex:021A020203>love<hex:021A020103> the stuff! Ever since traders brought it over from Ala Mhigo, it's been an enduring favorite in my homeland. As a matter fact, it's the reason I came to be here...though I won't bore you with the details."
+94,"TEXT_CLSCUL700_02608_RAULF_000_067","So it was introduced to Radz–at–Han after all! Tell me, do you know if buckler stew also made its way to Doma?"
+95,"TEXT_CLSCUL700_02608_CITIZENE02608_000_068","That it did, and it's a tale all know well. A Doman merchant journeyed to Radz–at–Han to buy spices, you see, and chanced to sample the stew. It was love at first taste."
+96,"TEXT_CLSCUL700_02608_CITIZENE02608_000_069","So enamored was he of it, he decided to open a restaurant back at home and started buying up all the shallow pots he could find. Alas, these pots proved too heavy to take back, and he left them all at the pier and said that he'd make do with spades."
+97,"TEXT_CLSCUL700_02608_RAULF_000_070","Spades, you say!? The name sukiyaki can be translated as “spade grill,” and it's said to come from the fact that you grill the meat on a spade! Hah, I <hex:021A020203>knew<hex:021A020103> there was a connection!"
+98,"TEXT_CLSCUL700_02608_CITIZENE02608_000_071","Sukiyaki, so that's what they call it. Well, by whatever name it's known, all this talk has given me a fierce hunger for it. There's naught for it but to make some right now."
+99,"TEXT_CLSCUL700_02608_RAULF_000_072","You're going to make buckler stew? Would you mind teaching me the recipe? And tell me more about its spread to the Far East?"
+100,"TEXT_CLSCUL700_02608_CITIZENE02608_000_073","Oho, you'd indulge this old man with your company? Well, if you insist, who am I to argue? Come along, then, and I'll tell you whatever you want to know."
+101,"TEXT_CLSCUL700_02608_RAULF_000_074","I can take it from here, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Leave the learning to me."
+102,"TEXT_CLSCUL700_02608_RAULF_000_075","I'll join you back at Revenant's Toll when I'm done. Thanks again for all your help!"
+103,"TEXT_CLSCUL700_02608_POPIN_000_079","I've procured the ingredients Raulf requested for making sukiyaki─choice cuts of marbled beef along with a selection of Far Eastern condiments."
+104,"TEXT_CLSCUL700_02608_RAULF_000_080","Ah, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, perfect timing. I've just returned myself, with the recipe for buckler stew freshly etched into my noggin."
+105,"TEXT_CLSCUL700_02608_RAULF_000_081","I begged Miss Rowena for the use of my old kitchen, and surprisingly she allowed it, Twelve bless her. With that, I can set about making the buckler stew in order to win Anzu's father over."
+106,"TEXT_CLSCUL700_02608_RAULF_000_082","Here I have one last favor to ask of you, my friend. I need you to prepare a serving of Doman sukiyaki."
+107,"TEXT_CLSCUL700_02608_RAULF_100_082","It's a relatively simple affair─you take meat and vegetables and simmer them in a broth of dashi and Far Eastern condiments. Though I needn't remind you that Far Eastern cuisine can be deceptive in its simplicity. Anyway, here's all the ingredients you need, and Popin has more set aside."
+108,"TEXT_CLSCUL700_02608_RAULF_000_083","My future with Anzu and as a culinarian both ride on our success! Please make me the best Doman sukiyaki you can!"
+109,"TEXT_CLSCUL700_02608_POPIN_000_088","I have more sukiyaki ingredients in reserve should you require them─choice cuts of marbled beef along with a selection of Far Eastern condiments."
+110,"TEXT_CLSCUL700_02608_POPIN_000_089","Well, this sukiyaki certainly looks a heartwarming stew. Lest you wonder, Raulf is about done with his buckler stew as well, and there's no doubting the similarity!"
+111,"TEXT_CLSCUL700_02608_RAULF_000_090","Making the buckler stew is strangely comforting. The sight, the smell, even the sound─they take me back to bygone days... But to get back to the present day, how's the Doman sukiyaki coming along?"
+112,"TEXT_CLSCUL700_02608_RAULF_000_091","Well! A mere waft is enough to tell me this sukiyaki is in a class of its own. And my buckler stew is as ready as it'll ever be. Come, let's serve them to Anzu and her father on the terrace."
+113,"TEXT_CLSCUL700_02608_UNZAN_000_100","...Is this a joke? In our culture, sukiyaki is shared only between family and dear friends. You are neither. If you think this will win my favor, you are sadly mistaken."
+114,"TEXT_CLSCUL700_02608_RAULF_000_101","Now, now, please allow me to explain. <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> made the sukiyaki, while I made a different type of stew. Different, I say, however..."
+115,"TEXT_CLSCUL700_02608_UNZAN_000_102","What is this? It resembles sukiyaki, yet it appears not to be Far Eastern."
+116,"TEXT_CLSCUL700_02608_RAULF_000_103","That's because it's a traditional Ala Mhigan stew. If it please you, please sample and compare it with the sukiyaki."
+117,"TEXT_CLSCUL700_02608_UNZAN_000_104","An Ala Mhigan stew, you say? I know not what you are playing at, but─ <slurp> But the aroma is undeniably appetizing... Oh, very well..."
+118,"TEXT_CLSCUL700_02608_UNZAN_000_105","By the kami... Not only do they look alike...they also <hex:021A020203>taste<hex:021A020103> alike! But the ingredients...they are different, are they not!?"
+119,"TEXT_CLSCUL700_02608_ANZU_000_106","You're right, Father! There may be subtle differences, but no matter how you look at it, this stew <hex:021A020203>is<hex:021A020103> sukiyaki!"
+120,"TEXT_CLSCUL700_02608_UNZAN_000_107","What is the meaning of this? Did sukiyaki somehow find its way to Ala Mhigo?"
+121,"TEXT_CLSCUL700_02608_RAULF_000_108","No, Unzan-san, it's the opposite. It's the Ala Mhigan dish, buckler stew, that found its way to the Far East and eventually became sukiyaki."
+122,"TEXT_CLSCUL700_02608_RAULF_000_109","Though Ala Mhigo and Doma had no common history, they had a common trading partner in the Near East."
+123,"TEXT_CLSCUL700_02608_RAULF_000_110","Originating in my homeland, buckler stew first crossed the seas to Radz–at–Han. From there it crossed the seas once more to Doma, where it was recreated using local ingredients to become sukiyaki."
+124,"TEXT_CLSCUL700_02608_RAULF_000_111","It must be noted that this took place at a relatively recent period in Doma's long history. Up to that point, meat was predominantly grilled to harness their natural flavors, or minced and used in dumplings."
+125,"TEXT_CLSCUL700_02608_RAULF_000_112","While stews weren't uncommon, they were reserved mainly for seafood. But with sukiyaki's arrival, new possibilities blossomed for meat dishes."
+126,"TEXT_CLSCUL700_02608_RAULF_000_113","Father, you told me that Far Eastern cuisine owes its greatness to the fact that it developed free of outside influence. But it owes its greatness no less to what it adopted from other cultures."
+127,"TEXT_CLSCUL700_02608_UNZAN_000_114","...Why are you still standing there? Sit down and join us ere the food gets cold."
+128,"TEXT_CLSCUL700_02608_RAULF_000_115","I don't know how I'll ever repay you, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Thanks to you, I've managed to do the impossible and win over Unzan. He finally approves of me and Anzu, and we plan to be bonded at the earliest opportunity. I'm going to resume my post at the café─serving Far Eastern dishes, of course─and hang up my adventurer's hat for good."
+129,"TEXT_CLSCUL700_02608_RAULF_000_116","I suppose you'll continue both adventuring and cooking, and I don't doubt you'll keep on succeeding at both. But no matter how high you climb or how far you roam, know that you're always welcome here!"
+130,"TEXT_CLSCUL700_02608_SYSTEM_100_120","In carving new paths into Far Eastern cuisine, you have learned “Stroke of Genius”!"

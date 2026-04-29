@@ -2,22 +2,22 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_FESHLX2024TRANSFORM3_00859_TRANSFORMHLX2024_000_000,嘻嘻嘻……我是擅長變身奇術的普通小魔精。<hex:02100103>讓我來用我的拿手絕活，把你變成你想到的人吧！
-1,TEXT_FESHLX2024TRANSFORM3_00859_TRANSFORMHLX2024_000_001,那麼，首先回憶一下你至今為止的冒險！<hex:02100103>嘻嘻嘻……你想到了什麼？
-2,TEXT_FESHLX2024TRANSFORM3_00859_Q1_000_000,如何作答？
-3,TEXT_FESHLX2024TRANSFORM3_00859_A1_000_001,曉月之冒險
-4,TEXT_FESHLX2024TRANSFORM3_00859_TRANSFORMHLX2024_000_002,那麼，接下來請你想像在這段冒險中<hex:02100103>給你留下深刻印象的人！
-5,TEXT_FESHLX2024TRANSFORM3_00859_Q2_000_000,如何作答？
-6,TEXT_FESHLX2024TRANSFORM3_00859_A2_000_001,哲學家議會的議員，頗有威望的精靈族男性
-7,TEXT_FESHLX2024TRANSFORM3_00859_A2_000_002,管理福利團體的溫柔體貼的精靈族女性
-8,TEXT_FESHLX2024TRANSFORM3_00859_A2_000_003,拼盡全力從瓦礫殘骸中復興祖國的加雷馬男性
-9,TEXT_FESHLX2024TRANSFORM3_00859_A2_000_004,環遊世界，收集目標生物的維埃拉族男性
-10,TEXT_FESHLX2024TRANSFORM3_00859_A2_100_005,與消失在虛無界的姐姐再會的七大天龍在戰鬥時使用的化身
-11,TEXT_FESHLX2024TRANSFORM3_00859_A2_150_006,靦腆害羞但善於計算的某位勇敢無畏的紳士的複製體
-12,TEXT_FESHLX2024TRANSFORM3_00859_A2_000_007,與曉月相襯的人族男性
-13,TEXT_FESHLX2024TRANSFORM3_00859_A2_000_008,喜好收集東方珍品的人族男性
-14,TEXT_FESHLX2024TRANSFORM3_00859_A2_000_009,身上寄宿了古代大魔法師靈魂的貓魅族女性
-15,TEXT_FESHLX2024TRANSFORM3_00859_A2_000_040,取消
-16,TEXT_FESHLX2024TRANSFORM3_00859_TRANSFORMHLX2024_000_004,嘻嘻嘻……我看到了，我看到了哦！<hex:02100103>那麼就讓你見識一下我特別的奇術吧！
-17,TEXT_FESHLX2024TRANSFORM3_00859_SYSTEM_000_005,想要解除變身狀態時，<hex:02100103>可以使用專用技能「解除變身」來恢復原貌。
-18,TEXT_FESHLX2024TRANSFORM3_00859_TRANSFORMHLX2024_000_010,哎呀？你真的是被邀請到舞會的客人麼？<hex:02100103>非常抱歉，<hex:02100103>我的變身奇術只能展露給正式被邀請的客人哦。
+0,"TEXT_FESHLX2024TRANSFORM3_00859_TRANSFORMHLX2024_000_000","Up to something? Me? Never! I am but a fun-loving imp, here to help my fellow revelers enjoy the Wake! And I can fashion you a <hex:021A020203>very<hex:021A020103> convincing guise for the masquerade. Ehehehe..."
+1,"TEXT_FESHLX2024TRANSFORM3_00859_TRANSFORMHLX2024_000_001","All I need is for you to recall a journey, a journey unforgettable. Traverse your memories, and tell me what you see..."
+2,"TEXT_FESHLX2024TRANSFORM3_00859_Q1_000_000","What will you say?"
+3,"TEXT_FESHLX2024TRANSFORM3_00859_A1_000_001","A journey to silence the song of oblivion."
+4,"TEXT_FESHLX2024TRANSFORM3_00859_TRANSFORMHLX2024_000_002","Good, good. Now think of someone remarkable you encountered in that time, someone <hex:021A020203>powerful<hex:021A020103>. Yes, that's it..."
+5,"TEXT_FESHLX2024TRANSFORM3_00859_Q2_000_000","What will you say?"
+6,"TEXT_FESHLX2024TRANSFORM3_00859_A2_000_001","An Elezen man who serves as a respected member of the Forum."
+7,"TEXT_FESHLX2024TRANSFORM3_00859_A2_000_002","A compassionate Elezen woman determined to give children a brighter future."
+8,"TEXT_FESHLX2024TRANSFORM3_00859_A2_000_003","A Garlean man determined to restore the broken remains of his homeland."
+9,"TEXT_FESHLX2024TRANSFORM3_00859_A2_000_004","A Viera man who travels the world in search of esoteric curios."
+10,"TEXT_FESHLX2024TRANSFORM3_00859_A2_100_005","A simulacrum housing the will of a great wyrm who was reunited with his sister in the void."
+11,"TEXT_FESHLX2024TRANSFORM3_00859_A2_150_006","A shy but mathematically minded clone of an inspector extraordinaire."
+12,"TEXT_FESHLX2024TRANSFORM3_00859_A2_000_007","A Hyuran man who crossed time and space to protect this star."
+13,"TEXT_FESHLX2024TRANSFORM3_00859_A2_000_008","A Hyuran man who spends his life collecting treasures of the Far East."
+14,"TEXT_FESHLX2024TRANSFORM3_00859_A2_000_009","A Miqo'te woman who shares her body with the soul of an ancient magus."
+15,"TEXT_FESHLX2024TRANSFORM3_00859_A2_000_040","Nothing."
+16,"TEXT_FESHLX2024TRANSFORM3_00859_TRANSFORMHLX2024_000_004","Ehehehe... That will do nicely. Don't worry, this won't hurt much at all! Just close your eyes..."
+17,"TEXT_FESHLX2024TRANSFORM3_00859_SYSTEM_000_005","The transfiguration can be removed by using the “Unveil” action, or by canceling the “Transfiguration” status effect."
+18,"TEXT_FESHLX2024TRANSFORM3_00859_TRANSFORMHLX2024_000_010","Pay no mind to this little imp! I'm <hex:021A020203>very<hex:021A020103> busy during the Wake─I've no time for mundane mummers, no."

@@ -2,214 +2,214 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_BANQIQ005_03798_SEQ_00,<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整（限定職業）<hex:0249020103><hex:0248020103><hex:02100103>奇塔利的水蛇大人？想要給與冒險者新的啟示……好像。
-1,TEXT_BANQIQ005_03798_SEQ_01,※本任務為<hex:024804F201FC03><hex:024904F201FD03><hex:0249020103><hex:0248020103> 等級調整（限定職業）任務，<hex:02100103>　需要與接受任務時的職業相同才可繼續進行任務。<hex:02100103><hex:02100103>奇塔利的水蛇大人？似乎很在意採掘調查的進展。和茶咕盧利·柯呫櫨談談。
-2,TEXT_BANQIQ005_03798_SEQ_02,和茶咕盧利·柯呫櫨進行了交談。從法諾村的蘭櫟處拿回<hex:022811FF0A>EventItem<hex:F61E902E0103>。
-3,TEXT_BANQIQ005_03798_SEQ_03,從蘭櫟那裡拿到了<hex:022811FF0A>EventItem<hex:F61E902E0103>。聽說在霍啪櫨古盤以外的地方，疫病也在蔓延。先把藥交給霍啪櫨古盤的茶咕盧利·柯呫櫨。
-4,TEXT_BANQIQ005_03798_SEQ_04,將法諾村的藥丸交給了茶咕盧利·柯呫櫨。但是疫病肆虐，連其嗒盧利都倒下了，茶咕盧利陷入了混亂。另外，聽秦福特說，之前在霍啪櫨古盤照顧病人瓦蘭也病倒了。刻有隆卡時代記憶的石碑上，應該有解決這種奇塔利族和人類一旦接觸就會被感染的疫病的方法。秦福特說，這正都是水蛇大人的啟示。和準備單獨進入洞窟遺跡的茶咕盧利·柯呫櫨談談。
-5,TEXT_BANQIQ005_03798_SEQ_05,和奇塔利的水蛇大人？一起進行了第四次調查的茶咕盧利·柯呫櫨獨自回來了。第四石碑上刻著的水蛇大人和它給予隆卡之民的苔蘚，就是平息病疫的關鍵。獲取隆卡苔蘚，交給茶咕盧利·柯呫櫨。
-6,TEXT_BANQIQ005_03798_SEQ_06,將隆卡苔蘚交給了茶咕盧利·柯呫櫨。由於大量生產了含有苔蘚的藥物，在森林中肆虐的疫病即將平息。和痊癒的其嗒盧利·那嗵櫨談談。
-7,TEXT_BANQIQ005_03798_SEQ_07,和其嗒盧利·那嗵櫨進行了談話。集齊了祖先的四塊石碑，奇塔利族終於找回了古老的記憶和智慧。
-8,TEXT_BANQIQ005_03798_SEQ_08,
-9,TEXT_BANQIQ005_03798_SEQ_09,
-10,TEXT_BANQIQ005_03798_SEQ_10,
-11,TEXT_BANQIQ005_03798_SEQ_11,
-12,TEXT_BANQIQ005_03798_SEQ_12,
-13,TEXT_BANQIQ005_03798_SEQ_13,
-14,TEXT_BANQIQ005_03798_SEQ_14,
-15,TEXT_BANQIQ005_03798_SEQ_15,
-16,TEXT_BANQIQ005_03798_SEQ_16,
-17,TEXT_BANQIQ005_03798_SEQ_17,
-18,TEXT_BANQIQ005_03798_SEQ_18,
-19,TEXT_BANQIQ005_03798_SEQ_19,
-20,TEXT_BANQIQ005_03798_SEQ_20,
-21,TEXT_BANQIQ005_03798_SEQ_21,
-22,TEXT_BANQIQ005_03798_SEQ_22,
-23,TEXT_BANQIQ005_03798_SEQ_23,
-24,TEXT_BANQIQ005_03798_TODO_00,和茶咕盧利·柯呫櫨對話
-25,TEXT_BANQIQ005_03798_TODO_01,和法諾村的蘭櫟對話 領取<hex:022811FF0A>EventItem<hex:F61E902E0103>
-26,TEXT_BANQIQ005_03798_TODO_02,將<hex:022811FF0A>EventItem<hex:F61E902E0103>交給茶咕盧利·柯呫櫨
-27,TEXT_BANQIQ005_03798_TODO_03,和茶咕盧利·柯呫櫨對話
-28,TEXT_BANQIQ005_03798_TODO_04,<hex:0208F20157E4E80511FF6C><hex:020868E3E802E803FF32>在破裂卵殼附近的石場採取<hex:02280AFF05>Item<hex:E8060103><hex:FF2E>將<hex:02280AFF05>Item<hex:E8060103>交給茶咕盧利·柯呫櫨<hex:03><hex:FFF0E3><hex:0208F0DEE4E80512FF6C><hex:020868E3E802E803FF32>在破裂卵殼附近的草場採取<hex:02280AFF05>Item<hex:E8060103><hex:FF2E>將<hex:02280AFF05>Item<hex:E8060103>交給茶咕盧利·柯呫櫨<hex:03><hex:FF6C><hex:020868E4E80513FF60><hex:02085CE3E802E803FF26>在血盅的釣場釣取<hex:02280AFF05>Item<hex:E8060103><hex:FF2E>將<hex:02280AFF05>Item<hex:E8060103>交給茶咕盧利·柯呫櫨<hex:03><hex:FF01><hex:03><hex:03><hex:03>
-29,TEXT_BANQIQ005_03798_TODO_05,和其嗒盧利·那嗵櫨對話
-30,TEXT_BANQIQ005_03798_TODO_06,
-31,TEXT_BANQIQ005_03798_TODO_07,
-32,TEXT_BANQIQ005_03798_TODO_08,
-33,TEXT_BANQIQ005_03798_TODO_09,
-34,TEXT_BANQIQ005_03798_TODO_10,
-35,TEXT_BANQIQ005_03798_TODO_11,
-36,TEXT_BANQIQ005_03798_TODO_12,
-37,TEXT_BANQIQ005_03798_TODO_13,
-38,TEXT_BANQIQ005_03798_TODO_14,
-39,TEXT_BANQIQ005_03798_TODO_15,
-40,TEXT_BANQIQ005_03798_TODO_16,
-41,TEXT_BANQIQ005_03798_TODO_17,
-42,TEXT_BANQIQ005_03798_TODO_18,
-43,TEXT_BANQIQ005_03798_TODO_19,
-44,TEXT_BANQIQ005_03798_TODO_20,
-45,TEXT_BANQIQ005_03798_TODO_21,
-46,TEXT_BANQIQ005_03798_TODO_22,
-47,TEXT_BANQIQ005_03798_TODO_23,
-48,TEXT_BANQIQ005_03798_BOUSHITSUCHINOKO_000_001,啾！
-49,TEXT_BANQIQ005_03798_SYSTEM_000_002,「奇塔利的水蛇大人？」發出了表示驚訝的短暫叫聲。<hex:02100103>洞窟遺跡的採掘似乎十分順利，但……<hex:02100103>和茶咕盧利·柯呫櫨對話，了解採掘工作的進度。
-50,TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_011,那個熱乎乎的東西真是太管用了是耶！<hex:02100103>姆用了之後，一點都不覺得水涼了！<hex:02100103>往返多少次都沒問題是耶！
-51,TEXT_BANQIQ005_03798_QITARLNATL_000_015,詳細調查了第三層的出土物品之後，<hex:02100103>某等發現，同盟者閣下選擇的歷史果然是正確的是也。
-52,TEXT_BANQIQ005_03798_QITARLNATL_000_016,鯰魚獸人……也就是和奇塔利族爭奪漁場的「鯰精族」，<hex:02100103>在戰敗後，便從隆卡的歷史中消失了。<hex:02100103>沒有任何證據能證明，他們在隆卡的領土倖存了下來。
-53,TEXT_BANQIQ005_03798_QITARLNATL_000_017,所以，只能認為他們是滅絕了……<hex:02100103>或許在諾弗蘭特以外還有鯰精族生存，<hex:02100103>不過，光之泛濫發生之後恐怕……
-54,TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_018,可憐的鯰魚們……<hex:02100103>換做是姆的話，一定會把魚分給他們的！
-55,TEXT_BANQIQ005_03798_QITARLNATL_000_019,鯰魚獸人……不，是「鯰精族」，<hex:02100103>靠著奇塔利族分給他們的魚，熬過了饑荒，<hex:02100103>度過了滅絕的危機是也。
-56,TEXT_BANQIQ005_03798_QITARLNATL_000_020,但由於他們崇拜「巨鯰魚」，拒絕信奉隆卡的神明，<hex:02100103>最終還是消失在了森林深處。<hex:02100103>或許，他們還在某處生活著吧。
-57,TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_021,可憐的鯰魚們……<hex:02100103>如果姆見到了他們，一定要和他們成為朋友是耶！
-58,TEXT_BANQIQ005_03798_QITARLNATL_000_022,好了，為了尋找第四石碑，<hex:02100103>某等也該開始進行第四層的採掘調查了，可是……
-59,TEXT_BANQIQ005_03798_QITARLNATL_000_023,實際上，負責預先調查的通咓盧利還沒有康復。<hex:02100103>而且現在還出現了症狀相同的其他發病者……
-60,TEXT_BANQIQ005_03798_QITARLNATL_000_024,<hex:022903EB0203>閣下，來看看帳篷裡的情況吧。
-61,TEXT_BANQIQ005_03798_QITARLNATL_000_025,正如爾所見，以病情一度好轉的通咓盧利為首，<hex:02100103>發病者們的症狀越來越嚴重。
-62,TEXT_BANQIQ005_03798_QITARLNATL_000_026,初期的症狀雖然並不明顯，<hex:02100103>但隨後他們就會發燒，變得無力動彈。<hex:02100103>如果只是感冒惡化的話那還好，可……
-63,TEXT_BANQIQ005_03798_QITARLNATL_000_027,雖然秦福特閣下之前從法諾村帶來了不少藥物，<hex:02100103>但隨著患者數的急速增加，那些藥早就供不應求了。
-64,TEXT_BANQIQ005_03798_QITARLNATL_000_028,某等手頭的藥物已經所剩無幾了……<hex:02100103><hex:022903EB0203>閣下 ，能麻煩爾去一趟法諾村，<hex:02100103>幫某等補充一些藥物嗎？
-65,TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_029,姆要幫父親照顧大家是耶！<hex:02100103>他們的藥就拜託爾了！
-66,TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_031,通咓盧利，快點好起來吧……<hex:02100103>姆一定會照顧好爾的，然後姆等再一起採掘吧！
-67,TEXT_BANQIQ005_03798_BOUSHITSUCHINOKO_000_032,啾……
-68,TEXT_BANQIQ005_03798_PHYNA_000_040,最近我一直在幫忙給採掘隊運送物資。<hex:02100103>所以完全沒有為旅行做準備呢！
-69,TEXT_BANQIQ005_03798_CIUNA_000_041,今天茶咕盧利沒一起來嗎？
-70,TEXT_BANQIQ005_03798_LANILLE_000_045,之前給秦福特閣下的藥嗎……<hex:02100103>原來如此，不過，沒想到你會為這件事而來呢。
-71,TEXT_BANQIQ005_03798_LANILLE_000_046,放心吧，藥有的是，能派上用場就好。
-72,TEXT_BANQIQ005_03798_PHYNA_000_047,實際上……法諾村的維斯們<hex:02100103>也出現了和奇塔利族症狀一樣的疫病。
-73,TEXT_BANQIQ005_03798_CIUNA_000_048,我聽來自蛇行枝的旅行商人說，<hex:02100103>雖然數量不多，但他們那裡也有人得了一樣的病。
-74,TEXT_BANQIQ005_03798_LANILLE_000_049,奇塔利族、維斯族，還有塵族也……<hex:02100103>我活了這麼久，可從沒聽說過這種傳染迅速、<hex:02100103>不分種族的疫病。
-75,TEXT_BANQIQ005_03798_LANILLE_000_050,我認為，這絕對不是單純的感冒。<hex:02100103>恐怕我們的藥也只能起到安慰作用吧。
-76,TEXT_BANQIQ005_03798_PHYNA_000_051,真是的，連蘭櫟都示弱的話，<hex:02100103>我們就更想不出辦法啦！
-77,TEXT_BANQIQ005_03798_PHYNA_000_052,總之，先用現有的藥物控制一下症狀的發展吧，<hex:02100103>我們也會在這裡尋找對策的。
-78,TEXT_BANQIQ005_03798_CIUNA_000_053,快把藥拿給茶咕盧利吧，<hex:02100103>讓他好好照顧那些難受的奇塔利們。<hex:02100103>我們想到了什麼的話，立刻就去通知你。
-79,TEXT_BANQIQ005_03798_LANILLE_000_055,仔細想想的話，這有可能是古老的森林疫病。<hex:02100103>但為什麼會突然流行起來了呢？
-80,TEXT_BANQIQ005_03798_PHYNA_000_056,在找到病因之前，我還是先不出發了。<hex:02100103>擔心奇塔利族只是一方面，<hex:02100103>要是把其他地方的人傳染了可就不好了……
-81,TEXT_BANQIQ005_03798_CIUNA_000_057,蛇行枝好像正在討論是否要暫停對外貿易，<hex:02100103>要是能早點找到解決辦法就好了……
-82,TEXT_BANQIQ005_03798_BOUSHITSUCHINOKO_000_060,啾……
-83,TEXT_BANQIQ005_03798_SYSTEM_000_061,「奇塔利的水蛇大人？」發出了難過的叫聲。<hex:02100103>似乎是在擔心病倒的奇塔利們？
-84,TEXT_BANQIQ005_03798_QITARLNATL_000_058,咳、咳咳……
-85,TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_062,<hex:022903EB0203>閣下！<hex:02100103>爾拿來法諾村的藥了嗎？
-86,TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_063,真是感激不盡！<hex:02100103>可是，可是……<hex:02100103>總之，爾快去帳篷看看吧！
-87,TEXT_BANQIQ005_03798_CHAQURLQHOTL_100_070,<hex:022903EB0203>閣下去法諾村的期間，<hex:02100103>父親也一臉痛苦地倒下了是耶。<hex:02100103>其他人也都……
-88,TEXT_BANQIQ005_03798_CHAQURLQHOTL_100_071,父親認為，有兩種可能性，<hex:02100103>第一，這是從打開的遺跡中傳播出來的古老疫病，<hex:02100103>第二，是奇塔利族將其他地方的疫病傳染到了這片森林……
-89,TEXT_BANQIQ005_03798_QUINFORT_000_073,大家都來了啊……
-90,TEXT_BANQIQ005_03798_QUINFORT_000_074,聽我說，瓦蘭也病倒了……
-91,TEXT_BANQIQ005_03798_QUINFORT_000_075,他的症狀和他之前照顧的通咓盧利一樣，<hex:02100103>所以他們應該是感染了同一種病。
-92,TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_076,怎麼會這樣！連瓦蘭閣下都……
-93,TEXT_BANQIQ005_03798_QUINFORT_000_077,是啊……雖然有些難以啟齒，<hex:02100103>但很可能就是他把這個病帶到蛇行枝的。
-94,TEXT_BANQIQ005_03798_QUINFORT_000_078,聽說，在法諾村也出現了患者。<hex:02100103>或許，以前也出現過同樣的疫病也說不定。
-95,TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_079,如果這個神秘疫病會傳染到整片森林的話，<hex:02100103>那現在就不是探索洞窟遺跡的時候了是耶……
-96,TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_080,父親是採掘隊隊長是耶……在治好父親並且平息病疫之前，調查只能先中止了……
-97,TEXT_BANQIQ005_03798_BOUSHITSUCHINOKO_000_081,啾啾！啾！<hex:02100103>啾！
-98,TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_082,水、水蛇大人？！<hex:02100103>您要說什麼是耶？
-99,TEXT_BANQIQ005_03798_QUINFORT_000_083,什、什麼……
-100,TEXT_BANQIQ005_03798_QUINFORT_000_084,水蛇大人說，要繼續探索。<hex:02100103>病疫一定會得以平息的！
-101,TEXT_BANQIQ005_03798_QUINFORT_000_085,說來也是，從第一個患者出現時，<hex:02100103>我就一直在森林中向水蛇大人祈禱！<hex:02100103>水蛇大人如此英明神武，怎麼會不實現我的願望呢！
-102,TEXT_BANQIQ005_03798_QUINFORT_000_086,沒錯，我的摯友正在受病痛的折磨。<hex:02100103>所以，只要遵從啟示，就能拯救瓦蘭！<hex:02100103>相信我、相信水蛇大人吧！
-103,TEXT_BANQIQ005_03798_BOUSHITSUCHINOKO_000_087,啾！
-104,TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_088,秦福特閣下！水蛇大人！
-105,TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_089,這個疫病是隨著奇塔利族的出現而開始傳播的。<hex:02100103>那在各個種族共同生活的隆卡時代呢？
-106,TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_090,姆認為，過去肯定也有相似的疫病是耶。<hex:02100103>既然是這麼嚴重的疫病，<hex:02100103>那石碑上肯定會刻著病疫肆虐的場景和解決辦法！
-107,TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_091,父親等人如今都在受苦……<hex:02100103>姆決定，要一個人去尋找石碑！
-108,TEXT_BANQIQ005_03798_QUINFORT_000_092,茶咕盧利，我也認為應該去尋找石碑。<hex:02100103>但即便要遵從水蛇大人的指引，<hex:02100103>也不該讓你這種小孩子去那麼危險的地方啊！
-109,TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_093,姆和父親已經在洞窟遺跡裡探索了無數次，<hex:02100103>現在，對洞窟遺跡最熟悉的就是姆了是耶！<hex:02100103>姆一定會找到石碑的！
-110,TEXT_BANQIQ005_03798_Q1_000_000,要說什麼？
-111,TEXT_BANQIQ005_03798_A1_000_001,茶咕盧利肯定能做到！
-112,TEXT_BANQIQ005_03798_A1_000_002,太魯莽了……
-113,TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_094,既然<hex:022903EB0203>閣下都這麼說了，<hex:02100103>姆就更有信心了！<hex:02100103>姆會加油的！
-114,TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_095,<hex:022903EB0203>閣下總是不辭辛苦地幫助姆等，鼓勵姆等！<hex:02100103>姆作為隆卡之民，也得加把勁才行！
-115,TEXT_BANQIQ005_03798_QUINFORT_000_096,呵……茶咕盧利小小年紀便如此心懷大志，<hex:02100103>真是後生可畏啊……
-116,TEXT_BANQIQ005_03798_QUINFORT_000_097,那我就和<hex:022903EB0203>繼續在這裡照顧病人吧。<hex:02100103>還能動的奇塔利們就齊心協力幫助茶咕盧利吧！
-117,TEXT_BANQIQ005_03798_QUINFORT_000_100,茶咕盧利的決意真是不容小覷！<hex:02100103>我能做的，就只有一邊照顧病人一邊為他們祈禱了……
-118,TEXT_BANQIQ005_03798_BOUSHITSUCHINOKO_000_101,啾！啾！
-119,TEXT_BANQIQ005_03798_SYSTEM_000_102,「奇塔利的水蛇大人？」發出了振奮人心的叫聲。<hex:02100103>似乎是在表示想一起前往洞窟遺跡。
-120,TEXT_BANQIQ005_03798_QITARLNATL_000_103,茶……咕盧利……別逞強……
-121,TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_105,現在，採掘石碑已經不單單是為了奇塔利族了是耶。
-122,TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_106,為了給父親和瓦蘭閣下，還有森林裡的其他同胞們治病，<hex:02100103>開始第四次調查吧！
-123,TEXT_BANQIQ005_03798_SYSTEM_000_071,經過一段時間後……
-124,TEXT_BANQIQ005_03798_SYSTEM_000_072,茶咕盧利·柯呫櫨完成了第四次調查！
-125,TEXT_BANQIQ005_03798_QUINFORT_100_120,你能平安歸來真是太好了！<hex:02100103>但是，怎麼沒看見戴著帽子的水蛇大人？
-126,TEXT_BANQIQ005_03798_CHAQURLQHOTL_100_121,唔……而且，每次都出現在石碑旁邊的<hex:02100103>戴著頭盔的水蛇大人這次也沒有出現是耶……
-127,TEXT_BANQIQ005_03798_QUINFORT_100_122,怎、怎麼會這樣！<hex:02100103>那第四次調查結果如何？
-128,TEXT_BANQIQ005_03798_CHAQURLQHOTL_100_123,指引姆等調查石碑的水蛇大人雖然沒出現……
-129,TEXT_BANQIQ005_03798_CHAQURLQHOTL_100_124,但姆還是找到了第四石碑是耶！<hex:02100103>而且非常完整，一點都沒損壞！
-130,TEXT_BANQIQ005_03798_CHAQURLQHOTL_100_125,多虧了<hex:022903EB0203>閣下一直以來的幫助，<hex:02100103>現在洞窟裡的設備和採掘道具都很完善。<hex:02100103>所以這次肯定能把石碑毫髮無傷地運出來是耶！
-131,TEXT_BANQIQ005_03798_QUINFORT_000_126,太厲害了……這就是隆卡之民的力量！<hex:02100103>那麼，關於第四石碑，你有什麼看法？
-132,TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_127,運送石碑還需要一段時間，<hex:02100103>姆就先講講上面那些令姆印象深刻的圖案吧！
-133,TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_128,石碑的中間，刻著神聖的水蛇大人，<hex:02100103>最關鍵的是，水蛇大人的頭上有某種軟綿綿、毛絨絨的東西，<hex:02100103>而隆卡之民則以崇拜此物的姿態被雕刻在上面。
-134,TEXT_BANQIQ005_03798_QUINFORT_000_129,石碑上竟然會有水蛇大人！<hex:02100103>果然水蛇大人的指引是正確的！
-135,TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_130,前幾次，都是由姆和父親先觀察碎裂的石碑，<hex:02100103>再提出自己的想法進行復原。<hex:02100103>但這塊石碑自古便完整地保留了下來。
-136,TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_131,所以，解讀的答案只有一個是耶！<hex:02100103>那就是水蛇大人將軟綿綿、毛絨絨的東西給予了隆卡之民，<hex:02100103>將森林的住民們從疫病中拯救了出來！
-137,TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_132,茶咕盧利身邊的水蛇大人<hex:02100103>肯定是為了指引姆找到這塊石碑才出現的是耶！
-138,TEXT_BANQIQ005_03798_Q2_000_000,要說什麼？
-139,TEXT_BANQIQ005_03798_A2_000_001,沒錯，這就是水蛇大人的指引！
-140,TEXT_BANQIQ005_03798_A2_000_002,嗯？這只是巧合吧……
-141,TEXT_BANQIQ005_03798_QUINFORT_000_133,是啊，肯定是這樣沒錯！<hex:02100103>這是水蛇大人給予森林的住民們的福音啊！
-142,TEXT_BANQIQ005_03798_QUINFORT_000_134,不，茶咕盧利說的沒錯！<hex:02100103>「奇塔利的水蛇大人」的本體，就寄宿在石碑上！<hex:02100103>這是何等的、何等的神秘啊！
-143,TEXT_BANQIQ005_03798_QUINFORT_000_135,而且，由於水蛇大人分給眾人的靈藥形狀非常特殊，<hex:02100103>所以我已經大概猜到是什麼了。<hex:02100103>那便是從隆卡時代起就從未改變的……森林的恩惠！
-144,TEXT_BANQIQ005_03798_QUINFORT_000_136,根據茶咕盧利所言，它具有「軟綿綿、毛絨絨」的特徵，<hex:02100103>在植被繁盛的森林中，軟綿綿、毛絨絨的植物只有一種……<hex:02100103>沒錯，就是產自大森林的「隆卡苔蘚」！
-145,TEXT_BANQIQ005_03798_QUINFORT_000_137,在<hex:02280BFF05>Item<hex:F2734C0103>上生長著許多隆卡苔蘚。<hex:02100103>只要去破裂卵殼那一帶，肯定就能找到！
-146,TEXT_BANQIQ005_03798_QUINFORT_100_137,在<hex:02280BFF05>Item<hex:F273660103>上生長著許多隆卡苔蘚。<hex:02100103>只要去破裂卵殼那一帶，肯定就能找到！
-147,TEXT_BANQIQ005_03798_QUINFORT_200_137,在<hex:02280BFF05>Item<hex:F273800103>上生長著許多隆卡苔蘚。<hex:02100103>只要去血盅那一帶，肯定就能找到！<hex:02100103>用<hex:02280BFF05>Item<hex:F26BBE0103>應該就能釣上來……
-148,TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_138,<hex:022903EB0203>閣下！既然姆已經找到了最後一塊石碑，<hex:02100103>那麼，這應該也是姆最後的請求了！<hex:02100103>就拜託爾去採集一下隆卡苔蘚了！
-149,TEXT_BANQIQ005_03798_QUINFORT_000_139,煎藥的話可就要借用維斯族的智慧了，<hex:02100103>我去法諾村找找會用隆卡苔蘚煎藥的人！
-150,TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_140,真是感激不盡……<hex:02100103>離治好父親他們就只差一步之遙了是耶！
-151,TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_150,只要有了隆卡苔蘚，肯定就能治好大家了！
-152,TEXT_BANQIQ005_03798_QUINFORT_000_151,你問我為什麼如此了解隆卡苔蘚嗎？<hex:02100103>因為蛇行枝的孩子們都很喜歡它毛絨絨的觸感。<hex:02100103>我和瓦蘭小時候，也經常把隆卡苔蘚戴在頭上玩！
-153,TEXT_BANQIQ005_03798_LANILLE_000_152,我聽說已經找到第四石碑了。<hex:02100103>我們維斯族也會盡可能提供幫助。
-154,TEXT_BANQIQ005_03798_PHYNA_000_154,隆卡苔蘚……應該不是長在法諾村附近的植物吧。<hex:02100103>為了森林的住民們，我會努力尋找的！
-155,TEXT_BANQIQ005_03798_CIUNA_100_154,對治療疫病有特效的苔蘚嗎……<hex:02100103>隆卡有著高度的魔法文明，<hex:02100103>這會不會是利用魔法之力人為創造出來的植物呢……
-156,TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_155,爾找到生長著隆卡苔蘚的森林恩惠了嗎？！
-157,TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_156,真的是太感謝爾了！<hex:02100103>那姆等就快點煎藥吧！
-158,TEXT_BANQIQ005_03798_SYSTEM_000_110,由於第四石碑上刻著「治療疫病的啟示」，<hex:02100103>在奇塔利族和森林住民之間肆虐的病疫正在逐漸平息！<hex:02100103>採掘隊的據點也設定了調製藥物的工作區。
-159,TEXT_BANQIQ005_03798_SYSTEM_000_111,由於大量生產了含有隆卡苔蘚的藥物，<hex:02100103>森林中的病人們很快就會痊癒了吧。
-160,TEXT_BANQIQ005_03798_SYSTEM_000_112,經過一段時間後……
-161,TEXT_BANQIQ005_03798_QITARLNATL_000_113,各個村落中的病人都在安心接受治療是也。<hex:02100103><hex:022903EB0203>閣下為某等奔波了良久，<hex:02100103>真是不知道要如何感謝爾才行……
-162,TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_114,但是，戴著帽子的水蛇大人……<hex:02100103>再也沒有出現了……
-163,TEXT_BANQIQ005_03798_QITARLNATL_000_115,肆虐森林的疫病消失了，水蛇大人的使命也就完成了吧。<hex:02100103>在秦福特閣下身邊出現的水蛇大人不是也一樣嗎？
-164,TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_116,唔，可是……姆好寂寞是耶……
-165,TEXT_BANQIQ005_03798_TSUCHINOKO_000_117,(-水蛇的聲音？-)啾啾！
-166,TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_118,水蛇大人？！
-167,TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_119,姆還以為是奇塔利的水蛇大人回來了……<hex:02100103>不，水蛇大人肯定就在石碑中守護著姆等是耶！
-168,TEXT_BANQIQ005_03798_QITARLNATL_000_120,是啊，沒錯。<hex:02100103>真是不可思議啊……
-169,TEXT_BANQIQ005_03798_SYSTEM_000_121,就這樣，奇塔利族找回了祖先的記憶和智慧，<hex:02100103>秦福特的預知也讓森林的住民們團結在了一起。<hex:02100103>這一切，真的是昏暗森林的守護者的旨意嗎？
-170,TEXT_BANQIQ005_03798_TSUCHINOKO_000_122,啾？
-171,TEXT_BANQIQ005_03798_QITARLNATL_000_161,哦哦，<hex:022903EB0203>閣下！<hex:02100103>謝謝爾對茶咕盧利……不，是對盧利採掘隊的幫助，<hex:02100103>這份恩情，某沒齒難忘！
-172,TEXT_BANQIQ005_03798_QITARLNATL_000_162,那之後，隨著苔蘚藥的量產，<hex:02100103>病疫的徹底結束已經近在眼前了。
-173,TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_163,關於那個疫病，大家也一起進行了調查呢！
-174,TEXT_BANQIQ005_03798_QITARLNATL_000_164,嗯……這片森林中的許多植物都含有微量毒素。<hex:02100103>長時間住在這裡的人，體內自然會積累一些，<hex:02100103>久而久之也就能免疫這些毒素的侵害了。
-175,TEXT_BANQIQ005_03798_QITARLNATL_000_165,但是，住在森林的不同地方，<hex:02100103>接觸到的植物和毒素種類也不同，<hex:02100103>產生的抗體肯定也不一樣。
-176,TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_166,那也就是說……100年前到其他地方居住的奇塔利族，<hex:02100103>和住在這裡的人們有著不一樣的抗體嗎？
-177,TEXT_BANQIQ005_03798_QITARLNATL_000_167,正是如此。<hex:02100103>毒素的抗體，說白了就是濃縮的毒素本身……<hex:02100103>所以這比攝入微量毒素時產生的不良反應要更加劇烈。
-178,TEXT_BANQIQ005_03798_QITARLNATL_000_168,某等奇塔利族和森林的其他住民，<hex:02100103>也就是持有不同毒素的人互相接觸後，便引發了強烈的症狀。<hex:02100103>這就是此次病疫的起因是也。
-179,TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_169,唔……所以……這次的病果然是姆等奇塔利族帶來的嗎？
-180,TEXT_BANQIQ005_03798_QITARLNATL_000_170,不，倒也不能這麼斷言。<hex:02100103>奇坦那神影洞開放後，人類和獸類往來不斷，<hex:02100103>早晚會將毒素和疫病帶到各處。
-181,TEXT_BANQIQ005_03798_QITARLNATL_000_171,但是，某等奇塔利進入這邊的森林後，<hex:02100103>在住民們的幫助下，發現了古時治療疫病的方法，<hex:02100103>所以才能及時防止病疫的大規模爆發。
-182,TEXT_BANQIQ005_03798_QITARLNATL_000_172,對於在森林中擁有廣闊領土的隆卡帝國來說，<hex:02100103>毒素和疫病肯定困擾了他們很長一段時間是也。
-183,TEXT_BANQIQ005_03798_QITARLNATL_000_173,但是，正因為隆卡帝國有著高度發達的文明，<hex:02100103>所以才能發現神奇的苔蘚，找到治療疫病的方法。
-184,TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_174,沒想到森林的植物就是隆卡的智慧結晶……<hex:02100103>水蛇大人肯定知道隆卡苔蘚能夠治療疫病，<hex:02100103>所以才將姆等指引至此是耶。
-185,TEXT_BANQIQ005_03798_QITARLNATL_000_175,這四塊奇塔利的石碑在洞窟遺跡中沉睡了100年，<hex:02100103>如今終於重見天日了是也。<hex:02100103>祖先大人的記憶也由某等解讀出來了。
-186,TEXT_BANQIQ005_03798_QITARLNATL_000_176,而且，多虧了秦福特閣下和<hex:02100103>對森林了如指掌的隆卡的同盟者閣下，<hex:02100103>茶咕盧利才能與這麼多人相知相遇，並得以成長。
-187,TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_177,祖先大人把和其他森林住民相遇的記憶雕刻下來的原因，<hex:02100103>姆現在已經完全能夠理解了！
-188,TEXT_BANQIQ005_03798_QITARLNATL_000_178,如果沒有古代的記憶和智慧，某等的病也不可能治好。<hex:02100103>某相信，在洞窟遺跡中，還有許多<hex:02100103>關於如何和森林住民們共同生存、互惠互利的智慧！
-189,TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_179,父親說的沒錯 ！<hex:02100103>姆等要從祖先大人那裡學習的知識還多著呢！
-190,TEXT_BANQIQ005_03798_CHAQURLQHOTL_100_179,戴著帽子的水蛇大人雖然消失了……<hex:02100103>但是戴著頭盔的水蛇大人又出現了，<hex:02100103>所以姆等要遵從啟示，在洞窟內永不停歇地採掘下去是耶！
-191,TEXT_BANQIQ005_03798_CHAQURLQHOTL_200_179,洞窟遺跡內肯定有好多指引姆等的啟示！<hex:02100103>所以，今後姆等也要繼續採掘隆卡的歷史是耶！
-192,TEXT_BANQIQ005_03798_SYSTEM_000_180,與奇塔利族「盧利採掘隊」之間的關係程度到達了「誓約」。<hex:02100103>冒險者幫忙平息了病疫，贏得了信賴！
-193,TEXT_BANQIQ005_03798_SYSTEM_000_182,據點的「霍啪櫨的水蛇大人？」的數量又增加了。<hex:02100103>它們或許和奇塔利族一樣，也在為石碑的復活而感到高興。<hex:02100103>今後，奇塔利族也會努力地採掘吧！
-194,TEXT_BANQIQ005_03798_SYSTEM_000_184,並且可以在「於咕盧利·瑪喏櫨」處<hex:02100103>購入要求「關係程度：誓約」的商品。<hex:02100103>在今後的冒險裡善加利用吧！
-195,TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_065,
-196,TEXT_BANQIQ005_03798_SYSTEM_000_066,
-197,TEXT_BANQIQ005_03798_QUINFORT_100_110,
-198,TEXT_BANQIQ005_03798_QITARLNATL_100_111,
-199,TEXT_BANQIQ005_03798_TWARLMANOL_100_112,
-200,TEXT_BANQIQ005_03798_SYSTEM_000_183,
-201,TEXT_BANQIQ005_03798_BOUSHITSUCHINOKO_000_003,
-202,TEXT_BANQIQ005_03798_QITARLNATL_000_010,
-203,TEXT_BANQIQ005_03798_TWARLMANOL_000_059,
-204,TEXT_BANQIQ005_03798_TWARLMANOL_000_104,
-205,TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_160,
-206,TEXT_BANQIQ005_03798_VALAN_000_153,
-207,TEXT_BANQIQ005_03798_SYSTEM_000_181,
-208,TEXT_BANQIQ005_03798_QITARLNATL_000_030,
-209,TEXT_BANQIQ005_03798_TWARLMANOL_000_033,
-210,TEXT_BANQIQ005_03798_SYSTEM_000_200,背包中留有在本次任務中採集到的普通品質道具。<hex:02100103>這種道具無法使用也無法出售給商店，盡早扔掉吧。
+0,"TEXT_BANQIQ005_03798_SEQ_00","The Great Serpent of Ronka would enlighten you as to the greatest mysteries of the universe...or so you believe.<hex:02100103>※The difficulty of this quest will be synced to your current level."
+1,"TEXT_BANQIQ005_03798_SEQ_01","You engage in a stimulating conversation with the Great Serpent of Ronka, who─you surmise from the urgency and eagerness of its screeing─is keen to see the Stewards press deeper into the tunnels of Hopl's Stopple. Should you be inclined to heed its call, seek out Chaqurl Qhotl and see how you might best proceed.<hex:02100103><hex:02100103>※Please note that the difficulty of this quest has been synced to your current level. Furthermore, you may not proceed with a class or job that is different from when you accepted this quest."
+2,"TEXT_BANQIQ005_03798_SEQ_02","You speak with Qitarl Natl, who shares with you further gleanings from the excavation of the flooded tunnels, and Chaqurl Qhotl, who laments the sad fate of the catfish people who once crossed paths with his ancestors. But there is more troubling news at hand─Towarl Manol's symptoms have returned with a vengeance, and the sickness that afflicts her appears to be spreading about the Stopple. At the behest of the Qitari father and son, you resolve to travel to Fanow in their stead to acquire an additional supply of medicine from your Viis friends."
+3,"TEXT_BANQIQ005_03798_SEQ_03","Master Lanille in Fanow is more than happy to provide you the medicine the Qitari require, but with it comes grim tidings─a malady similar to that which plagues the Qitari appears to have afflicted the Viis as well. Deeply concerned for the well-being of your forest-dwelling friends, you set off for the Stopple once more, hoping that the remedy will provide a temporary respite from the suffering until such time as a cure can be found."
+4,"TEXT_BANQIQ005_03798_SEQ_04","Your return to the Stopple is greeted with grim news when Chaqurl Qhotl informs you that the sickness has spread in your absence, leaving even Qitarl Natl bedridden. As the young Qitari struggles to come to grips with the situation, Quinfort rushes to the scene in a panic and confirms your worst fears─the Night's Blessed of Slitherbough, too, have been stricken with the strange sickness, and your friend Valan lies unconscious in bed as you speak. Deeply distressed at this turn of events─and at the thought that the Qitari themselves might be responsible for spreading the disease around the Greatwood—Chaqurl resigns himself to calling off the excavation effort until a cure can be found, but is convinced otherwise by a timely interruption from the Great Serpent of Ronka. Believing this to be a sign that the very answer he seeks might be found in the tunnels below, he proclaims that the excavation will go on. Admiring the Qitari child's courage and composure in trying times, you resolve to speak to him and give him the encouragement he needs to go exploring without his father at his side."
+5,"TEXT_BANQIQ005_03798_SEQ_05","Having descended into the tunnels with the great serpent at his side, Chaqurl Qhotl returns to the surface alone, but with triumphant news─the fourth stela has been found. As the Qitari child tells it, unlike the previous three, it is in pristine condition, and the etchings upon it appear to provide the very answer that you seek. Guided by the divine wisdom of the great serpent, you resolve to scour the forest for the rare variety of Ronkan moss that may stay the spread of the terrible pox that now plagues the forest."
+6,"TEXT_BANQIQ005_03798_SEQ_06","You succeed in harvesting the moss and delivering it safely to the Stopple. At Chaqurl Qhotl's direction, the remedy is brewed and swiftly administered to the sick, who begin to show immediate signs of recovery─just as foretold by the great serpent. Before long, Qitarl Natl is back on his feet, greatly relieving his son. You are curious to speak with the elder Steward and hear his thoughts about the spread of the mysterious sickness."
+7,"TEXT_BANQIQ005_03798_SEQ_07","A recovered Qitarl Natl shares with you his theory on the spread of the disease, which he believes to have been an unfortunate side effect of the migration of his own people from the far-flung reaches of the forest. Troubled by the implications and yet taking heart that it was the wisdom of his forefathers that quelled the epidemic, he vows that the Stewards will be vigilant against any similar outbreaks in the future. With the four stelae finally unearthed and restored to their original form, the Qitari resolve to continue their excavation and study, that further lost knowledge may be gleaned."
+8,"TEXT_BANQIQ005_03798_SEQ_08",""
+9,"TEXT_BANQIQ005_03798_SEQ_09",""
+10,"TEXT_BANQIQ005_03798_SEQ_10",""
+11,"TEXT_BANQIQ005_03798_SEQ_11",""
+12,"TEXT_BANQIQ005_03798_SEQ_12",""
+13,"TEXT_BANQIQ005_03798_SEQ_13",""
+14,"TEXT_BANQIQ005_03798_SEQ_14",""
+15,"TEXT_BANQIQ005_03798_SEQ_15",""
+16,"TEXT_BANQIQ005_03798_SEQ_16",""
+17,"TEXT_BANQIQ005_03798_SEQ_17",""
+18,"TEXT_BANQIQ005_03798_SEQ_18",""
+19,"TEXT_BANQIQ005_03798_SEQ_19",""
+20,"TEXT_BANQIQ005_03798_SEQ_20",""
+21,"TEXT_BANQIQ005_03798_SEQ_21",""
+22,"TEXT_BANQIQ005_03798_SEQ_22",""
+23,"TEXT_BANQIQ005_03798_SEQ_23",""
+24,"TEXT_BANQIQ005_03798_TODO_00","Speak with Chaqurl Qhotl."
+25,"TEXT_BANQIQ005_03798_TODO_01","Speak with Lanille in Fanow, and obtain the medicine."
+26,"TEXT_BANQIQ005_03798_TODO_02","Deliver the medicine to Chaqurl Qhotl."
+27,"TEXT_BANQIQ005_03798_TODO_03","Speak with Chaqurl Qhotl."
+28,"TEXT_BANQIQ005_03798_TODO_04","<hex:0208F20130E4E80511FF58><hex:020854E3E802E803FF23>Mine a <hex:02310CFF05>Item<hex:04E806020203> at the Husk<hex:FF29>Deliver <hex:02310CFF05>Item<hex:03E806020203> to Chaqurl Qhotl<hex:03><hex:FFF0D0><hex:0208CDE4E80512FF5A><hex:020856E3E802E803FF25>Gather a <hex:02310CFF05>Item<hex:04E806020203> at the Husk<hex:FF29>Deliver <hex:02310CFF05>Item<hex:03E806020203> to Chaqurl Qhotl<hex:03><hex:FF6C><hex:020868E4E80513FF60><hex:02085CE3E802E803FF2B>Catch a <hex:02310CFF05>Item<hex:04E806020203> in the Red Chalice<hex:FF29>Deliver <hex:02310CFF05>Item<hex:03E806020203> to Chaqurl Qhotl<hex:03><hex:FF01><hex:03><hex:03><hex:03>."
+29,"TEXT_BANQIQ005_03798_TODO_05","Speak with Qitarl Natl."
+30,"TEXT_BANQIQ005_03798_TODO_06",""
+31,"TEXT_BANQIQ005_03798_TODO_07",""
+32,"TEXT_BANQIQ005_03798_TODO_08",""
+33,"TEXT_BANQIQ005_03798_TODO_09",""
+34,"TEXT_BANQIQ005_03798_TODO_10",""
+35,"TEXT_BANQIQ005_03798_TODO_11",""
+36,"TEXT_BANQIQ005_03798_TODO_12",""
+37,"TEXT_BANQIQ005_03798_TODO_13",""
+38,"TEXT_BANQIQ005_03798_TODO_14",""
+39,"TEXT_BANQIQ005_03798_TODO_15",""
+40,"TEXT_BANQIQ005_03798_TODO_16",""
+41,"TEXT_BANQIQ005_03798_TODO_17",""
+42,"TEXT_BANQIQ005_03798_TODO_18",""
+43,"TEXT_BANQIQ005_03798_TODO_19",""
+44,"TEXT_BANQIQ005_03798_TODO_20",""
+45,"TEXT_BANQIQ005_03798_TODO_21",""
+46,"TEXT_BANQIQ005_03798_TODO_22",""
+47,"TEXT_BANQIQ005_03798_TODO_23",""
+48,"TEXT_BANQIQ005_03798_BOUSHITSUCHINOKO_000_001","Scree...!?"
+49,"TEXT_BANQIQ005_03798_SYSTEM_000_002","The great serpent lets out a high-pitched squeal. It appears to be feeling anxious about something. Speak with Chaqurl Qhotl and see how the excavation effort fares."
+50,"TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_011","Welcome back! The Stopple's feeling more comfortable than ever, thanks to all those helpful supplies you and our friends from Slitherbough brought to us! Father and I have also gone diving in the depths below some twenty times now, and you won't believe all we've found!"
+51,"TEXT_BANQIQ005_03798_QITARLNATL_000_015","Indeed, my boy. Perhaps the most important discovery of all was that of relics and records confirming the interpretation of history engraved on the newly restored third stela."
+52,"TEXT_BANQIQ005_03798_QITARLNATL_000_016","During the age of famine, the catfish people were driven from the forest by our ancestors, who sought to protect the fishing grounds that were their most important source of nourishment. After this, no records or remnants of them were found in any of the lands ruled by the Ronkan Empire."
+53,"TEXT_BANQIQ005_03798_QITARLNATL_000_017","While it is possible that survivors and their descendants lived on outside Norvrandt, it is all but impossible that they could have survived the Flood of Light. Thus, we can safely say that their race is essentially extinct."
+54,"TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_018","Poor catfish people... I would have─<sniff>─shared my food with you..."
+55,"TEXT_BANQIQ005_03798_QITARLNATL_000_019","Our ancestors enjoyed amiable relations with these curious catfish people, and indeed did share our food supply with them, allowing them to survive the age of great famine."
+56,"TEXT_BANQIQ005_03798_QITARLNATL_000_020","To their misfortune, however, they were a stubborn folk. When they refused to worship the deities of Ronka in favor of their old gods, they were driven from the land. Whether they still live on in some far-off land, none can say..."
+57,"TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_021","Poor catfish people... If we ever meet someday, I promise I'll be your friend..."
+58,"TEXT_BANQIQ005_03798_QITARLNATL_000_022","At any rate, we have explored all there is to explore in the third stratum, meaning that it is time we ventured further below. Unfortunately, we find ourselves in a bit of a bind..."
+59,"TEXT_BANQIQ005_03798_QITARLNATL_000_023","My most trusted scout, Towarl Manol, has yet to make a full recovery from her ailment. On the contrary, others here in the Stopple have been suffering from similarly unpleasant symptoms─even those who did not accompany Towarl on her expedition below."
+60,"TEXT_BANQIQ005_03798_QITARLNATL_000_024","I must say, I find myself quite at a loss. Might you be so kind as to accompany me as I look into the matter, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>?"
+61,"TEXT_BANQIQ005_03798_QITARLNATL_000_025","Towarl was on the verge of making a full recovery when her condition took a sudden turn for the worse. And it pains me to say that she is not the only one so afflicted."
+62,"TEXT_BANQIQ005_03798_QITARLNATL_000_026","The symptoms were mild at first, but in no time their fevers flared up, the pain and dizziness so severe that they cannot even rise to their feet."
+63,"TEXT_BANQIQ005_03798_QITARLNATL_000_027","The medicine that Master Quinfort brought from Fanow has served to ease their discomfort somewhat, but with more of us being stricken by the day and their conditions ever worsening, I fear it will not be long until we exhaust our supply..."
+64,"TEXT_BANQIQ005_03798_QITARLNATL_000_028","I am loath to impose upon your generosity once more, but might you be willing to go back and procure another batch from our friends? Surely they will take pity on our plight..."
+65,"TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_029","Forgive me for not being able to travel with you, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. I must stay here and help Father tend to the sick."
+66,"TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_031","I hope Towarl feels better soon. Going digging without her just isn't the same!"
+67,"TEXT_BANQIQ005_03798_BOUSHITSUCHINOKO_000_032","Screee..."
+68,"TEXT_BANQIQ005_03798_PHYNA_000_040","Of late, I have had my hands full providing supplies to the Stewards. While it saddens me to delay my journey yet again, I am happy to lend my aid where it is needed."
+69,"TEXT_BANQIQ005_03798_CIUNA_000_041","Did young Chaqurl not accompany you this time? What a shame─I was hoping to hear about his latest discoveries."
+70,"TEXT_BANQIQ005_03798_LANILLE_000_045","...This is most distressing news. Rest assured that we will not stand idly by as our Qitari friends suffer."
+71,"TEXT_BANQIQ005_03798_LANILLE_000_046","If our remedies may serve them well, I am happy to provide you with as much as you need. That said..."
+72,"TEXT_BANQIQ005_03798_PHYNA_000_047","To tell the truth...a similar malady to the one of which you speak has come to Fanow as well. While only a few have taken ill thus far, I must say this does not bode well..."
+73,"TEXT_BANQIQ005_03798_CIUNA_000_048","Now that you mention it, a traveling merchant from Slitherbough who sojourned here just days ago had a similar tale to tell. Whatever this affliction is, I fear it seems to be spreading."
+74,"TEXT_BANQIQ005_03798_LANILLE_000_049","Qitari, Viis, and Humes alike...all stricken by a mysterious plague that spreads in the blink of an eye. In all the years I have lived, never have I heard of such a thing."
+75,"TEXT_BANQIQ005_03798_LANILLE_000_050","I hope I am mistaken, but my instincts tell me this is no common chill. I fear that the medicine I gave you will offer little more than a momentary reprieve from the pain..."
+76,"TEXT_BANQIQ005_03798_PHYNA_000_051","Do not say such things, Master Lanille! This lack of confidence ill befits you."
+77,"TEXT_BANQIQ005_03798_PHYNA_000_052","Though it pains me, I suppose there is little we can do but ease the suffering as best we can until we can determine what has caused this."
+78,"TEXT_BANQIQ005_03798_CIUNA_000_053","Pray deliver the medicine to young Chaqurl and the ailing Qitari. Should our efforts to find a cure bear fruit, we shall send word at once."
+79,"TEXT_BANQIQ005_03798_LANILLE_000_055","Mayhap it is some ancient plague that once afflicted the Greatwood... But if so, why does it return today, so many years later? I fear I am at a loss for answers..."
+80,"TEXT_BANQIQ005_03798_PHYNA_000_056","I have resolved to put off my journey until we discover the cause behind this pox. I simply cannot abandon our Qitari friends, nor risk spreading the disease beyond Rak'tika..."
+81,"TEXT_BANQIQ005_03798_CIUNA_000_057","Word has it that the Night's Blessed have a mind to cut off all contact with outsiders until they can find a cure for the disease. If only there were something we could do..."
+82,"TEXT_BANQIQ005_03798_BOUSHITSUCHINOKO_000_060","Scree..."
+83,"TEXT_BANQIQ005_03798_SYSTEM_000_061","The serpent lets out a mournful cry. It appears to be deeply concerned for the well-being of the stricken Qitari."
+84,"TEXT_BANQIQ005_03798_QITARLNATL_000_058","<cough> <cough>"
+85,"TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_062","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! Did you bring the medicine from Fanow!?"
+86,"TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_063","Oh, thank you! Your be-<hex:021A020203>ven<hex:021A020103>-olence knows no bounds! But...but just look! Whatever am I to do...?"
+87,"TEXT_BANQIQ005_03798_CHAQURLQHOTL_100_070","Not long after you left us, Father suffered a terrible coughing fit. He has not gotten out of bed since, and one by one, the others have joined him..."
+88,"TEXT_BANQIQ005_03798_CHAQURLQHOTL_100_071","Father believes that there is a chance that we brought some ancient pox back with us from the ruins beneath the Stopple. Or that we ourselves have spread this disease in traveling to these parts from our former home. But as for the truth, we cannot─"
+89,"TEXT_BANQIQ005_03798_QUINFORT_000_073","My friends, are you all here!? I bring most grievous tidings from Slitherbough!"
+90,"TEXT_BANQIQ005_03798_QUINFORT_000_074","It's Valan! He has taken ill with the plague!"
+91,"TEXT_BANQIQ005_03798_QUINFORT_000_075","He exercised the utmost caution when tending to poor Towarl, but to no avail! For the disease has stricken him too, and with great vengeance!"
+92,"TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_076","Master Valan, too!?"
+93,"TEXT_BANQIQ005_03798_QUINFORT_000_077","...Indeed. I fear that it is none other than he who─albeit unwittingly─carried the pox back to Slitherbough."
+94,"TEXT_BANQIQ005_03798_QUINFORT_000_078","Is it true that the Viis of Fanow, too, suffer from this frightful affliction!? A great plague, threatening to claim the lives of all who call the Greatwood home! I shudder at the thought..."
+95,"TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_079","We have no choice. From today, all Qitari who still stand will devote every waking moment to in-<hex:021A020203>gest<hex:021A020103>-ivating the disease!"
+96,"TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_080","Yes, in Father's name, I hereby suspend the ex-<hex:021A020203>vacation<hex:021A020103> effort and─"
+97,"TEXT_BANQIQ005_03798_BOUSHITSUCHINOKO_000_081","Scree scree! Screeeeeeeee!"
+98,"TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_082","The great serpent! It speaks!"
+99,"TEXT_BANQIQ005_03798_QUINFORT_000_083","By gods ancient and true...!"
+100,"TEXT_BANQIQ005_03798_QUINFORT_000_084","Put away not your shovels and spades, young Chaqurl! The excavation must go on, for verily, so spake the divine protector of Ronka!"
+101,"TEXT_BANQIQ005_03798_QUINFORT_000_085","Aye, many a prayer have I offered to the great serpent on behalf of the ailing, and today my prayers have been heard!"
+102,"TEXT_BANQIQ005_03798_QUINFORT_000_086","Through me, Dwatl's own blood, the divine protector shall lead you to a cure for this frightful plague. Trust in it─in me─and the suffering of our peoples will soon come to an end!"
+103,"TEXT_BANQIQ005_03798_BOUSHITSUCHINOKO_000_087","Screeeeeeeee!"
+104,"TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_088","Master Quinfort! O, Great Serpent of Ronka! Of course, you speak true!"
+105,"TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_089","If Father is right, and we Qitari are res-<hex:021A020203>bon<hex:021A020103>-sipple for the spread of the disease, then the answers we seek might yet be found along with the undiscovered stela."
+106,"TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_090","After all, if this is indeed some ancient pox, it stands to reason that our <hex:021A020203>far<hex:021A020103>-forethers left behind some record of it. A record that may very well shed light upon its cause...and its cure!"
+107,"TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_091","With poor Father bedridden, it falls to me to carry on the dig! I will find the stela and save our people, even if I must do it alone!"
+108,"TEXT_BANQIQ005_03798_QUINFORT_000_092","Your bravery is most admirable, young Chaqurl. And yet─even with the divine protector watching over you─are the tunnels not too dangerous for a child?"
+109,"TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_093","I am no child, Master Quinfort! I have lived three whole years, and in just these recent days have accompanied Father into the depths time and again! No one is better prepared to search for the stela than me!"
+110,"TEXT_BANQIQ005_03798_Q1_000_000","What will you say?"
+111,"TEXT_BANQIQ005_03798_A1_000_001","Chaqurl can do it."
+112,"TEXT_BANQIQ005_03798_A1_000_002","It's too dangerous."
+113,"TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_094","Oh, thank you, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! A vote of con-<hex:021A020203>dif<hex:021A020103>-ence from you means the world to me! Mark my words: I will get to the bottom of this!"
+114,"TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_095","Your concern is touching, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, but have no fear! You have given me─and all of the Stewards─great strength. Mark my words: I will get to the bottom of this!"
+115,"TEXT_BANQIQ005_03798_QUINFORT_000_096","Such courageous words, spoken from one so young! Chaqurl Qhotl, you truly are a shining example for all your people...!"
+116,"TEXT_BANQIQ005_03798_QUINFORT_000_097","Worry not for your dear father. <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> and I will see that he wants for nothing while you are exploring down below. Go in safety, and know that we pray for your success."
+117,"TEXT_BANQIQ005_03798_QUINFORT_000_100","Young Chaqurl continues to impress, does he not? I would be lying to say I am entirely unconcerned, but I have faith that he will be safe under the great serpent's watchful eye."
+118,"TEXT_BANQIQ005_03798_BOUSHITSUCHINOKO_000_101","Scree-eee!"
+119,"TEXT_BANQIQ005_03798_SYSTEM_000_102","The serpent lets out a passionate cry and bounces about confidently. It appears moved by the young Qitari lad's courageous decision to venture deeper into the caves on his own."
+120,"TEXT_BANQIQ005_03798_QITARLNATL_000_103","Chaqurl, my boy... Be─<cough>─safe..."
+121,"TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_105","It is not simply for the future of my fellow Qitari that I must find the next stela..."
+122,"TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_106","It is for Father, for Valan, for the Viis who suffer in Fanow... For all those who call Rak'tika home, I must succeed! Let the ex-<hex:021A020203>vacation<hex:021A020103> begin!"
+123,"TEXT_BANQIQ005_03798_SYSTEM_000_071","Some time later..."
+124,"TEXT_BANQIQ005_03798_SYSTEM_000_072","Chaqurl Qhotl has safely returned from his exploration of the tunnels!"
+125,"TEXT_BANQIQ005_03798_QUINFORT_100_120","You return, my young friend! Thanks be to the great serp─what's this? Do mine eyes deceive me? You return alone..."
+126,"TEXT_BANQIQ005_03798_CHAQURLQHOTL_100_121","Indeed. On all our previous ex-<hex:021A020203>vacations<hex:021A020103>, an avatar of the great serpent─clad in a suit of armor─arrived to welcome Father and I to the stela's resting place. This time, there was none to be found..."
+127,"TEXT_BANQIQ005_03798_QUINFORT_100_122","Inconceivable! The great serpent forsaking a descendant of Ronka in their time of need!?"
+128,"TEXT_BANQIQ005_03798_CHAQURLQHOTL_100_123","In-<hex:021A020203>tube<hex:021A020103>-itably, the divine protector moves in mysterious ways."
+129,"TEXT_BANQIQ005_03798_CHAQURLQHOTL_100_124","But worry not, my friends! For I was able to locate the fourth stela myself! And─thanks be to the divine protector─there was barely a scratch or scrape on it!"
+130,"TEXT_BANQIQ005_03798_CHAQURLQHOTL_100_125","Yes, using the tools and techniques you have supplied to us, I do believe we will be able to raise it to the surface in pristine condition!"
+131,"TEXT_BANQIQ005_03798_QUINFORT_000_126","Remarkable! Truly, you are a paragon of Ronkan industriousness and ingenuity! Now do tell─did the stone provide any new insights that might help us fend off the plague?"
+132,"TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_127","Oh, Master Quinfort! You will see for yourself once we raise it to the surface, but let me tell you what I saw with my own eyes!"
+133,"TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_128","Pictured <hex:021A020203>provident<hex:021A020103>-ly in the center was none other than the great serpent itself! Atop its head sat a gloriously large and fluffy green mass. Before the serpent, a man in Ronkan garb raised his hands in sheer <hex:021A020203>julib<hex:021A020103>-ation!"
+134,"TEXT_BANQIQ005_03798_QUINFORT_000_129","Glorious! This is incontrovertible proof that the divine protector guided our ancestors to enlightenment just as it guides us today!"
+135,"TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_130","Sadly, Father is in no condition to share with us his thoughts on the carvings─but no matter! With the stela in im-<hex:021A020203>pec<hex:021A020103>-ulate condition, I am confident that my in-<hex:021A020203>pertritation<hex:021A020103> is the correct one!"
+136,"TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_131","Yes, there can be no doubting it! With a mighty “scree!”, the great serpent did bestow upon the Ronkan people a giant tuft of grass-green fluff, which cured them of a dreadful pox!"
+137,"TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_132","No doubt it is to guide us to this very knowledge─the cure that would save our people─that the great serpent appeared before me!"
+138,"TEXT_BANQIQ005_03798_Q2_000_000","What will you say?"
+139,"TEXT_BANQIQ005_03798_A2_000_001","Glory be to the scree!"
+140,"TEXT_BANQIQ005_03798_A2_000_002","I could present another theory..."
+141,"TEXT_BANQIQ005_03798_QUINFORT_000_133","Truly! The great serpent works in mysterious ways, but there can be no doubting that what happened here today was none other than a divine miracle!"
+142,"TEXT_BANQIQ005_03798_QUINFORT_000_134","Ally of Ronka or no, I will entertain no wild theories or speculation about what has happened here today. The great serpent has granted us a miracle, and we must show proper obeisance!"
+143,"TEXT_BANQIQ005_03798_QUINFORT_000_135","If I might be so bold as to expand upon your insight, young Chaqurl, I believe I can identify precisely that miraculous object which the serpent did carry on his blessed pate."
+144,"TEXT_BANQIQ005_03798_QUINFORT_000_136","Verily, this can be none other than that greatest blessing of Rak'tika─Ronkan moss, which grows so verdant and lush in our forest home!"
+145,"TEXT_BANQIQ005_03798_QUINFORT_000_137","If I recall from my studies, Ronkan moss can be harvested from numerous sources, but in particular certain rocks found in the Husk, upon which it grows in great abundance."
+146,"TEXT_BANQIQ005_03798_QUINFORT_100_137","If I recall from my studies, Ronkan moss can be harvested from numerous sources, but in particular certain species of tree found in the Husk, upon which it grows in great abundance."
+147,"TEXT_BANQIQ005_03798_QUINFORT_200_137","If I recall from my studies, Ronkan moss can be harvested from numerous sources, but in particular from a species of turtle found in the Red Chalice, upon whose shell it grows in great abundance."
+148,"TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_138","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, ally of Ronka! You have my word that this is the last time I will impose upon you. Might you be so kind as to go forth in search of the moss that will save my people?"
+149,"TEXT_BANQIQ005_03798_QUINFORT_000_139","Splendid! And I, young Chaqurl, will make for Fanow. The Viis will doubtless have insight to share on how to brew the moss into a proper elixir."
+150,"TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_140","I am deeply og-<hex:021A020203>bliged<hex:021A020103> to you, my friends. I will tend to Father and pray that his condition has not worsened in the meantime. Until we meet again!"
+151,"TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_150","The great serpent has spoken! The moss will heal Father and our friends once and for all─I am sure of it!"
+152,"TEXT_BANQIQ005_03798_QUINFORT_000_151","Does my encyclopedic knowledge of Ronkan flora surprise you? For it should not. Valan and I used to run about in the forest and collect rare shrubs and fronds since we were knee-high to a wood raider."
+153,"TEXT_BANQIQ005_03798_LANILLE_000_152","So the fourth stela has been found. Welcome tidings in these trying times, indeed. If there is aught we can do to aid our Qitari friends, you need but say the word."
+154,"TEXT_BANQIQ005_03798_PHYNA_000_154","Ronkan moss, you say? I fear that it does not grow in these parts. I pray that you find it, and find it swiftly─the fate of the forest depends upon it."
+155,"TEXT_BANQIQ005_03798_CIUNA_100_154","A type of moss that holds the power to heal the sick? I cannot help but wonder if this was one of the many wonders birthed by Ronkan mastery of the arcane."
+156,"TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_155","Did you find the moss, friend? Oh, please say you did!"
+157,"TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_156","Splendid! Splen-<hex:021A020203>fid<hex:021A020103>-erous! Why, it looks just as it did on the stela! We must prepare the medicine at once..."
+158,"TEXT_BANQIQ005_03798_SYSTEM_000_110","Following the method illustrated by the carvings on the fourth stela, the Stewards brewed an elixir from the Ronkan moss, and distributed it to their ailing friends. Before long, the symptoms eased, and a brighter mood returned to the Stopple."
+159,"TEXT_BANQIQ005_03798_SYSTEM_000_111","No longer lacking for manpower, Chaqurl Qhotl and his friends built a workshop where the medicine could be produced in large quantities to be distributed across the Greatwood."
+160,"TEXT_BANQIQ005_03798_SYSTEM_000_112","Some time later..."
+161,"TEXT_BANQIQ005_03798_QITARLNATL_000_113","Ahem! Reports have it that our friends in Slitherbough and Fanow are well on their way to making a complete recovery. All of Rak'tika truly is in your debt, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. I have no words to express my gratitude..."
+162,"TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_114","You have my <hex:021A020203>grad<hex:021A020103>-atude as well, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! And we must not forget the great serpent, who guided us to the cure! Speaking of which...where did it go?"
+163,"TEXT_BANQIQ005_03798_QITARLNATL_000_115","It is not our place to question the workings of the divine, my boy. No doubt it felt its role here was done, and returned to a place where only the gods know."
+164,"TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_116","Does that mean─<sniff>─I'll never see it again?"
+165,"TEXT_BANQIQ005_03798_TSUCHINOKO_000_117","(-Great Serpent of Ronka-)Scree!"
+166,"TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_118","Did I hear what I think I heard!?"
+167,"TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_119","The serpent returns to us! Or...perhaps it was watching over us from behind the stela all along?"
+168,"TEXT_BANQIQ005_03798_QITARLNATL_000_120","Doubtless so, Chaqurl. Indeed...the great serpent truly does work in mysterious ways."
+169,"TEXT_BANQIQ005_03798_SYSTEM_000_121","And so it was that the Qitari reclaimed the history and knowledge of their forefathers, and in so doing, played their role in returning peace to the Greatwood─just as foreseen by a certain prognosticating priest. All was according to the great serpent's plan...or was it?"
+170,"TEXT_BANQIQ005_03798_TSUCHINOKO_000_122","Scree?"
+171,"TEXT_BANQIQ005_03798_QITARLNATL_000_161","Ah, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. I cannot thank you enough for all you have done on behalf of my boy─no, on behalf of all the Stewards."
+172,"TEXT_BANQIQ005_03798_QITARLNATL_000_162","You will be pleased to know that we have succeeded in producing the mossy brew in large quantities. Any fears of a plague sweeping through the Greatwood are well behind us."
+173,"TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_163","Did you ever find out what caused the disease, Father?"
+174,"TEXT_BANQIQ005_03798_QITARLNATL_000_164","It is difficult to say for certain, but I do have a theory. Plants, blossoms, and trees abound in the Greatwood, all possessing their own seeds and spores─some of which can be quite poisonous."
+175,"TEXT_BANQIQ005_03798_QITARLNATL_000_165","Lesser poisons exist as well. In that case, one might build up an immunity if one lives for long enough in their presence. At the same time, different areas of the wood are home to different flora, each bearing their own poisons."
+176,"TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_166","And so, living for a hundred years far away from this place, you say we have a different...in-<hex:021A020203>num<hex:021A020103>-ity than our friends in Slitherbough and Fanow?"
+177,"TEXT_BANQIQ005_03798_QITARLNATL_000_167","Precisely, my boy. More precisely, we carry an element of the poison within us, and it is this which protects us from their harmful effects."
+178,"TEXT_BANQIQ005_03798_QITARLNATL_000_168","The downside of this, of course, is quite clear. When these poisons are carried to a new place, where others are not accustomed to them, the selfsame thing that protects us from their effects can have harmful effects on others─just as the poisons our own bodies are unaccustomed to can harm us."
+179,"TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_169","So, the sickness...it was all our fault for coming here?"
+180,"TEXT_BANQIQ005_03798_QITARLNATL_000_170","Perhaps...and perhaps not. We are not the only ones who traveled here when the path through the Ravel was opened. We Qitari, the creatures of the forest we saw on our way...doubtless the spread of the pox was inevitable."
+181,"TEXT_BANQIQ005_03798_QITARLNATL_000_171","And besides, in coming here, we have rediscovered a powerful elixir fashioned by our forefathers─one that we might use to prevent any further outbreaks of disease among those who call the Greatwood home."
+182,"TEXT_BANQIQ005_03798_QITARLNATL_000_172","Looking back, I suspect that matters such as these were a source of great consternation in the days of the empire, when peoples moved about the Greatwood often and in droves."
+183,"TEXT_BANQIQ005_03798_QITARLNATL_000_173","No doubt this is why it was the Ronkans who discovered the cure─with the guidance of their divine protector, of course."
+184,"TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_174","The same divine protector who remembers well the events of those days, and who led us back to the remedy it had shared with our forefathers so many years ago."
+185,"TEXT_BANQIQ005_03798_QITARLNATL_000_175","The fourth stela has been reclaimed, and with it, another piece of our heritage. And yet, the Qitari did not do this alone..."
+186,"TEXT_BANQIQ005_03798_QITARLNATL_000_176","You, ally of Ronka. Your friends Quinfort and Valan. Our loyal allies among the Viis. All played a part in making this day happen. Given our peoples' mutual histories, it is perhaps fitting─wouldn't you say, Chaqurl?"
+187,"TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_177","In-<hex:021A020203>tube<hex:021A020103>-itably! At long last, I understand how people must have felt in the days of Ronka, when our peoples cooperated and lived together in a great <hex:021A020203>cil<hex:021A020103>-ivization!"
+188,"TEXT_BANQIQ005_03798_QITARLNATL_000_178","The wisdom of our forefathers has saved us today. But we must not rest easy. We must continue to learn and record our experiences, that our own wisdom might serve those who follow in our footsteps."
+189,"TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_179","There is still much that I would study as well! Pray come back to visit us, my friends─I would be happy to share with you all the wonderful things I am sure to learn!"
+190,"TEXT_BANQIQ005_03798_CHAQURLQHOTL_100_179","After all, while the serpent with the hat has gone off somewhere, the helmeted one remains with us. Surely, this is a sign that there is still much to explore in the tunnels below!"
+191,"TEXT_BANQIQ005_03798_CHAQURLQHOTL_200_179","After all, why would it remain with us if there were not additional pathways and passages through which it seeks to guide us? Oh, I can hardly wait to see what may yet be unearthed!"
+192,"TEXT_BANQIQ005_03798_SYSTEM_000_180","You have achieved <hex:024804F201F403><hex:024904F201F503>Sworn<hex:0249020103><hex:0248020103> reputation with the Stewards."
+193,"TEXT_BANQIQ005_03798_SYSTEM_000_182","Yet more embodiments of the great serpent have taken up residence in Hopl's Stopple. They appear quite pleased to see the Qitari stelae restored to their former glory."
+194,"TEXT_BANQIQ005_03798_SYSTEM_000_184","Furthermore, you now have access to a wider selection of wares from Yuqurl Manl."
+195,"TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_065",""
+196,"TEXT_BANQIQ005_03798_SYSTEM_000_066",""
+197,"TEXT_BANQIQ005_03798_QUINFORT_100_110",""
+198,"TEXT_BANQIQ005_03798_QITARLNATL_100_111",""
+199,"TEXT_BANQIQ005_03798_TWARLMANOL_100_112",""
+200,"TEXT_BANQIQ005_03798_SYSTEM_000_183",""
+201,"TEXT_BANQIQ005_03798_BOUSHITSUCHINOKO_000_003",""
+202,"TEXT_BANQIQ005_03798_QITARLNATL_000_010",""
+203,"TEXT_BANQIQ005_03798_TWARLMANOL_000_059",""
+204,"TEXT_BANQIQ005_03798_TWARLMANOL_000_104",""
+205,"TEXT_BANQIQ005_03798_CHAQURLQHOTL_000_160",""
+206,"TEXT_BANQIQ005_03798_VALAN_000_153",""
+207,"TEXT_BANQIQ005_03798_SYSTEM_000_181",""
+208,"TEXT_BANQIQ005_03798_QITARLNATL_000_030",""
+209,"TEXT_BANQIQ005_03798_TWARLMANOL_000_033",""
+210,"TEXT_BANQIQ005_03798_SYSTEM_000_200",""

@@ -2,176 +2,176 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_FESESX101_05425_SEQ_00,※本任務是特定期間內的任務。<hex:02100103><hex:02100103>米·凱特露天劇場的戴著造型眼鏡的執行委員似乎在等人。
-1,TEXT_FESESX101_05425_SEQ_01,※本任務只有在季節活動開放期間才能接受和進行。<hex:02100103>　季節活動結束後無法進行，敬請注意。<hex:02100103>　詳情請參見官方網站。<hex:02100103><hex:02100103>和吉莉·阿里亞珀進行了交談，幫她一起為尋找彩蛋活動做準備。在格里達尼亞新街的乙太之光廣場附近尋找諾諾塔。
-2,TEXT_FESESX101_05425_SEQ_02,諾諾塔似乎對會場上長出來的草感到十分困擾。在魔女咖啡館收集有關<hex:022811FF0A>EventItem<hex:F61E934C0103>的情報。
-3,TEXT_FESESX101_05425_SEQ_03,收集了有關<hex:022811FF0A>EventItem<hex:F61E934C0103>的情報。和乙太之光廣場附近的諾諾塔談談。
-4,TEXT_FESESX101_05425_SEQ_04,和諾諾塔進行了交談。在格里達尼亞舊街尋找一位似乎很了解植物類魔物的戴造型眼鏡的精靈族煉金術士。
-5,TEXT_FESESX101_05425_SEQ_05,與埃爾伯林合作，一同施展對抗魔物的對策。和商店街附近的埃爾伯林談談。
-6,TEXT_FESESX101_05425_SEQ_06,埃爾伯林與諾諾塔大顯身手，完成了獵蛋園藝鐮。和米·凱特露天劇場的諾諾塔談談。
-7,TEXT_FESESX101_05425_SEQ_07,為拯救慘遭魔物毒手的尋找彩蛋會場，使用獵蛋園藝鐮來割草。和米·凱特露天劇場或格里達尼亞新街橡子樂園的彩蛋收集師（暫）對話，突破嫩枝大清掃。
-8,TEXT_FESESX101_05425_SEQ_08,突破了嫩枝大清掃。和米·凱特露天劇場的諾諾塔談談。
-9,TEXT_FESESX101_05425_SEQ_09,和諾諾塔進行了交談。和米·凱特露天劇場的吉莉·阿里亞珀談談。
-10,TEXT_FESESX101_05425_SEQ_10,和吉莉·阿里亞珀進行了交談。割草不但推進了尋找彩蛋的舉辦，還促使一種新的治療藥誕生。請繼續協助使用獵蛋園藝鐮來割草，享受彩蛋狩獵慶典吧。
-11,TEXT_FESESX101_05425_SEQ_11,
-12,TEXT_FESESX101_05425_SEQ_12,
-13,TEXT_FESESX101_05425_SEQ_13,
-14,TEXT_FESESX101_05425_SEQ_14,
-15,TEXT_FESESX101_05425_SEQ_15,
-16,TEXT_FESESX101_05425_SEQ_16,
-17,TEXT_FESESX101_05425_SEQ_17,
-18,TEXT_FESESX101_05425_SEQ_18,
-19,TEXT_FESESX101_05425_SEQ_19,
-20,TEXT_FESESX101_05425_SEQ_20,
-21,TEXT_FESESX101_05425_SEQ_21,
-22,TEXT_FESESX101_05425_SEQ_22,
-23,TEXT_FESESX101_05425_SEQ_23,
-24,TEXT_FESESX101_05425_TODO_00,在乙太之光廣場附近尋找諾諾塔
-25,TEXT_FESESX101_05425_TODO_01,在魔女咖啡館出示<hex:022811FF0A>EventItem<hex:F61E934C0103>收集情報
-26,TEXT_FESESX101_05425_TODO_02,和諾諾塔對話
-27,TEXT_FESESX101_05425_TODO_03,在格里達尼亞舊街尋找戴造型眼鏡的精靈族
-28,TEXT_FESESX101_05425_TODO_04,和埃爾伯林對話
-29,TEXT_FESESX101_05425_TODO_05,和諾諾塔對話
-30,TEXT_FESESX101_05425_TODO_06,突破嫩枝大清掃
-31,TEXT_FESESX101_05425_TODO_07,和諾諾塔對話
-32,TEXT_FESESX101_05425_TODO_08,和吉莉·阿里亞珀對話
-33,TEXT_FESESX101_05425_TODO_09,
-34,TEXT_FESESX101_05425_TODO_10,
-35,TEXT_FESESX101_05425_TODO_11,
-36,TEXT_FESESX101_05425_TODO_12,
-37,TEXT_FESESX101_05425_TODO_13,
-38,TEXT_FESESX101_05425_TODO_14,
-39,TEXT_FESESX101_05425_TODO_15,
-40,TEXT_FESESX101_05425_TODO_16,
-41,TEXT_FESESX101_05425_TODO_17,
-42,TEXT_FESESX101_05425_TODO_18,
-43,TEXT_FESESX101_05425_TODO_19,
-44,TEXT_FESESX101_05425_TODO_20,
-45,TEXT_FESESX101_05425_TODO_21,
-46,TEXT_FESESX101_05425_TODO_22,
-47,TEXT_FESESX101_05425_TODO_23,
-48,TEXT_FESESX101_05425_JIHLIALIAPOH_000_001,彩蛋～彩蛋～大彩蛋～<hex:02100103>又到了歡快的彩蛋狩獵的季節了！
-49,TEXT_FESESX101_05425_Q1_000_000,要說什麼？
-50,TEXT_FESESX101_05425_A1_000_001,彩蛋～彩蛋～大彩蛋～
-51,TEXT_FESESX101_05425_A1_000_002,怎麼戴著造型眼鏡？
-52,TEXT_FESESX101_05425_A1_000_003,你是誰啊……？
-53,TEXT_FESESX101_05425_JIHLIALIAPOH_100_002,(-吉莉·阿里亞珀-)<hex:022903EB0203>，<hex:02100103>能在節日再見到你真是讓人開心啊！是我啊，吉莉·阿里亞珀<hex:02100103>
-54,TEXT_FESESX101_05425_JIHLIALIAPOH_000_004,(-吉莉·阿里亞珀-)彩蛋～彩蛋～大彩蛋～<hex:02100103>我是彩蛋狩獵的執行委員長，吉莉·阿里亞珀！<hex:02100103>請盡情享受接下來要開始的彩蛋狩獵吧！
-55,TEXT_FESESX101_05425_JIHLIALIAPOH_000_005,(-吉莉·阿里亞珀-)呵呵，真虧你認出我來了啊！<hex:02100103>這個造型眼鏡是我為節日特別準備的！
-56,TEXT_FESESX101_05425_JIHLIALIAPOH_000_002,(-吉莉·阿里亞珀-)<hex:022903EB0203>，<hex:02100103>能在節日再見到你真是讓人開心啊！
-57,TEXT_FESESX101_05425_JIHLIALIAPOH_100_006,(-吉莉·阿里亞珀-)我是彩蛋狩獵的執行委員長吉莉·阿里亞珀！請盡情享受接下來要開始的彩蛋狩獵吧！
-58,TEXT_FESESX101_05425_JIHLIALIAPOH_000_006,(-吉莉·阿里亞珀-)啊啊！<hex:02100103>因為我以前都是戴著帽子來著……！<hex:02100103>我是彩蛋狩獵的執行委員長吉莉·阿里亞珀！
-59,TEXT_FESESX101_05425_JIHLIALIAPOH_000_007,(-吉莉·阿里亞珀-)你是冒險者吧？<hex:02100103>可以的話，能告訴我你的名字嗎？
-60,TEXT_FESESX101_05425_JIHLIALIAPOH_000_008,(-吉莉·阿里亞珀-)原來你叫<hex:022903EB0203>啊！<hex:02100103>那麼以後就請多關照了哦！
-61,TEXT_FESESX101_05425_JIHLIALIAPOH_000_009,(-吉莉·阿里亞珀-)彩蛋狩獵這個活動是以我在靈災發生之前<hex:02100103>做的一個夢為契機開始舉辦的。
-62,TEXT_FESESX101_05425_JIHLIALIAPOH_000_010,(-吉莉·阿里亞珀-)這次我夢到的是……<hex:02100103>不可思議的草原上冒出了黃金蛋！
-63,TEXT_FESESX101_05425_JIHLIALIAPOH_000_011,(-吉莉·阿里亞珀-)然後我們就借用了黑衣森林一帶，<hex:02100103>為開展在草原上尋找金閃閃裝飾彩蛋的活動而做準備。<hex:02100103>獎品就是這副帥氣的造型眼鏡！
-64,TEXT_FESESX101_05425_JIHLIALIAPOH_000_012,(-吉莉·阿里亞珀-)不過……有一位應該在會場中進行準備工作的執行委員，<hex:02100103>她叫諾諾塔……我跟她聯繫不上了。<hex:02100103>我有點擔心，不知道她是不是遇上什麼事情了……
-65,TEXT_FESESX101_05425_JIHLIALIAPOH_000_013,(-吉莉·阿里亞珀-)我和其他執行委員都還要在格里達尼亞做開展活動的準備，<hex:02100103>不能過去查看她那邊的情況。
-66,TEXT_FESESX101_05425_JIHLIALIAPOH_000_014,(-吉莉·阿里亞珀-)對了，<hex:022903EB0203>！<hex:02100103>要是可以的話，能不能請你幫我找找小諾？<hex:02100103>如果她遇到什麼困難的話，還請你幫幫她吧。
-67,TEXT_FESESX101_05425_JIHLIALIAPOH_000_015,(-吉莉·阿里亞珀-)這我就放心多了，謝謝你！<hex:02100103>說不定她已經回到格里達尼亞了，<hex:02100103>所以麻煩你先去格里達尼亞新街的乙太之光廣場找找看吧！
-68,TEXT_FESESX101_05425_JIHLIALIAPOH_000_016,(-吉莉·阿里亞珀-)小諾她應該是戴著一副小雞形狀的造型眼鏡，<hex:02100103>那就有勞你啦！
-69,TEXT_FESESX101_05425_JIHLIALIAPOH_000_020,小諾她應該是戴著一副小雞形狀的造型眼鏡，<hex:02100103>麻煩你先到乙太之光廣場找找看！
-70,TEXT_FESESX101_05425_HERBERIN_000_030,嗯嗯……真是好東西啊！
-71,TEXT_FESESX101_05425_NONOTTA_000_040,你想問這個造型眼鏡嗎？<hex:02100103>這是我們現在正在準備的活動中主打的獎品……
-72,TEXT_FESESX101_05425_HERBERIN_000_041,我真是太幸運了！<hex:02100103>追著魔物一路到了這裡，居然碰上了如此美妙的事物……<hex:02100103>我簡直迫不及待想要參加活動了！
-73,TEXT_FESESX101_05425_NONOTTA_000_042,彩蛋～彩蛋～彩蛋蛋～<hex:02100103>你難道……是冒險者嗎？<hex:02100103>找我諾諾塔是想要問關於彩蛋狩獵的事情嗎？
-74,TEXT_FESESX101_05425_NONOTTA_000_043,彩蛋～彩蛋～彩蛋蛋～<hex:02100103>冒險者，讓你久等啦！<hex:02100103>找我諾諾塔是想要問關於彩蛋狩獵的事情嗎？
-75,TEXT_FESESX101_05425_NONOTTA_000_044,哇哇哇，謝謝你來找我！<hex:02100103>其實，在我正準備藏那些活動用的彩蛋的時候，<hex:02100103>一些很高的草妨礙了我的工作，正不知道該怎麼辦呢……
-76,TEXT_FESESX101_05425_NONOTTA_000_045,視野被阻擋還是很危險的，所以我想著用鐮刀把草割掉，<hex:02100103>結果完全割不動，費了半天勁也只是勉強拔了幾根草葉下來！
-77,TEXT_FESESX101_05425_NONOTTA_000_046,我在想，雖然我沒有被襲擊，但是這也許是一種草類的魔物呢？<hex:02100103>這樣下去可沒法安心讓客人們享受尋找彩蛋啊！<hex:02100103>要是可以的話，能麻煩你幫我們解決一下嗎？
-78,TEXT_FESESX101_05425_NONOTTA_000_047,真是太感謝了！<hex:02100103>雖說你是冒險者，但也不能讓你貿然出手……<hex:02100103>我們先分頭找找看有沒有對付這種怪草的方法吧！
-79,TEXT_FESESX101_05425_NONOTTA_000_048,我先去園藝工公會問問看！<hex:02100103>冒險者就先在魔女咖啡館附近<hex:02100103>問問看有沒有人見過這種怪草吧？
-80,TEXT_FESESX101_05425_NONOTTA_000_049,那麼！我就先把這<hex:022811FF0A>EventItem<hex:F61E934C0103>借給你打聽情報吧！<hex:02100103>我們之後在乙太之光廣場匯合！
-81,TEXT_FESESX101_05425_JIHLIALIAPOH_000_161,是你幫助了小諾對吧？謝謝你！<hex:02100103>我們也正在做著準備，<hex:02100103>接下來也拜託你了！
-82,TEXT_FESESX101_05425_GUILDLEVESGIRL05425_000_060,你好。<hex:02100103>要來看看公會理符嗎？
-83,TEXT_FESESX101_05425_GUILDLEVESGIRL05425_000_061,誒，這個葉子的形狀……<hex:02100103>難道是飛天陷阱草屬的魔物嗎？
-84,TEXT_FESESX101_05425_GUILDLEVESGIRL05425_000_062,雖然我們經常收到小紅花這類草木綱魔物的相關委託，<hex:02100103>但是這個顏色的葉片還真是罕見啊。<hex:02100103>嗯……不好意思，我沒什麼頭緒。
-85,TEXT_FESESX101_05425_GUILDLEVESGIRL05425_000_063,這個時期，草木綱的魔物就像是植物繁茂成長一樣增多，<hex:02100103>所以也有可能是突然變異產生的亞種呢。<hex:02100103>要是出現了危害的話，請再來和我們商量吧。
-86,TEXT_FESESX101_05425_ADVENTURER05425_000_064,喲！<hex:02100103>是有什麼好工作來拉我入夥嗎？
-87,TEXT_FESESX101_05425_ADVENTURER05425_000_065,這個葉子……哎對，我最近還見過呢！<hex:02100103>我當時想著這可能是大量叢生的陌生魔物，就想給討伐了。<hex:02100103>結果不管是砍還是刺，莖上都會重新長出花和葉子來。
-88,TEXT_FESESX101_05425_ADVENTURER05425_000_066,原本是想掃平它們的，結果越打越多，一發不可收拾了……<hex:02100103>儘管不甘心，也只能放棄討伐，灰溜溜回來了。<hex:02100103>真不好意思啊，我也沒更多情報能告訴你了。
-89,TEXT_FESESX101_05425_WAITER05425_000_067,歡迎光臨魔女咖啡館。<hex:02100103>如果有什麼我能幫得上忙的地方，請儘管開口。
-90,TEXT_FESESX101_05425_WAITER05425_000_068,哎，這個葉子……看起來不是茶葉呢，<hex:02100103>實在不好意思，我沒什麼頭緒……
-91,TEXT_FESESX101_05425_WAITER05425_000_069,不過說起不可思議的葉子，<hex:02100103>剛剛有一名客人就是追著珍稀的植物類魔物而來的。
-92,TEXT_FESESX101_05425_WAITER05425_000_070,他戴著一副造型眼鏡，是一個有著獨特氣場的精靈族男性。<hex:02100103>據說好像是一位對魔物也有研究的煉金術士。
-93,TEXT_FESESX101_05425_WAITER05425_000_071,憑藉他的專業知識，也許會知道些什麼。<hex:02100103>他之前說是要去格里達尼亞舊街那邊，<hex:02100103>不妨找他問問看？
-94,TEXT_FESESX101_05425_GUILDLEVESGIRL05425_000_080,你給我看的這個葉子，<hex:02100103>可能來自某隻突然變異的魔物身上，<hex:02100103>要是出現了危害的話，請再來和我們商量吧。
-95,TEXT_FESESX101_05425_ADVENTURER05425_000_081,那個魔物，雖然不會襲擊人，<hex:02100103>但是會越打越多……<hex:02100103>唔……莫非是元靈生氣了？
-96,TEXT_FESESX101_05425_WAITER05425_000_082,那位正在追尋珍稀植物類魔物的客人<hex:02100103>說自己要去格里達尼亞舊街，<hex:02100103>我覺得他應該還沒走遠。
-97,TEXT_FESESX101_05425_NONOTTA_000_090,彩蛋～彩蛋～彩蛋蛋～<hex:02100103>辛苦你打聽消息了！
-98,TEXT_FESESX101_05425_NONOTTA_000_091,各位園藝工們都說，這個葉片都已經被拔下來了卻還活著，<hex:02100103>可見它的生命力十分強大呢……<hex:02100103>冒險者那邊打聽到什麼了嗎？
-99,TEXT_FESESX101_05425_NONOTTA_000_092,什、什、什麼！打倒了也只會迅速增殖嗎？！<hex:02100103>如果是令其他冒險者都感到棘手的魔物的話，<hex:02100103>那看來盲目討伐也不是什麼好主意呢……
-100,TEXT_FESESX101_05425_NONOTTA_000_093,還是問問專家，看看有沒有解決它們的良策吧！<hex:02100103>不過說起氣場獨特，戴造型眼鏡的精靈族，<hex:02100103>難不成是剛剛那位……
-101,TEXT_FESESX101_05425_NONOTTA_000_094,而且他還說了自己正在追尋魔物，一定是他吧！<hex:02100103>我們往舊街走，一起找找他吧！
-102,TEXT_FESESX101_05425_NONOTTA_000_100,找到了！<hex:02100103>是剛剛那位精靈族！
-103,TEXT_FESESX101_05425_HERBERIN_000_110,哎呀……這不是剛剛的兩位嗎？
-104,TEXT_FESESX101_05425_HERBERIN_000_111,唔……我確實是在追尋珍稀的草木綱魔物，<hex:02100103>我叫做埃爾伯林……是一位流浪的煉金術士。<hex:02100103>有什麼我能效勞的地方嗎？
-105,TEXT_FESESX101_05425_HERBERIN_000_112,(-埃爾伯林-)什、什麼——？！<hex:02100103>那一定是我正追尋的變種草木綱魔物！
-106,TEXT_FESESX101_05425_HERBERIN_000_113,(-埃爾伯林-)咳……<hex:02100103>你們對它很頭疼是吧？<hex:02100103>那我就來幫你們想想對策吧！
-107,TEXT_FESESX101_05425_NONOTTA_000_114,那可太好了！<hex:02100103>你知道有什麼對付它的特效藥嗎？
-108,TEXT_FESESX101_05425_HERBERIN_000_115,(-埃爾伯林-)嗯呼呼……只要手邊有這片葉子我就能開始製藥！<hex:02100103>我本來就是為了尋找變種草木綱魔物才來的黑衣森林，<hex:02100103>只是苦於沒有線索，兩位真是幫了我大忙了。
-109,TEXT_FESESX101_05425_HERBERIN_000_116,(-埃爾伯林-)……哦，不好意思，我這眼睛啊，<hex:02100103>是因為觀察美麗的草木綱魔物們的時候靠得太近，<hex:02100103>被它們小小捉弄了下，這之後有點風啊光啊就會疼。
-110,TEXT_FESESX101_05425_HERBERIN_000_117,(-埃爾伯林-)但是只要戴著造型眼鏡就基本沒有問題了！<hex:02100103>這種危險的事可不能讓你們也碰上，<hex:02100103>我得趕緊去商店街把特效藥的素材採購齊全！
-111,TEXT_FESESX101_05425_NONOTTA_000_118,哎哎哎，請等一下！<hex:02100103>費用請讓彩蛋狩獵執行委員會來支付呀！
-112,TEXT_FESESX101_05425_NONOTTA_000_120,我以為我追上了，<hex:02100103>結果埃爾伯林先生都已經買完了，還美滋滋的呢……
-113,TEXT_FESESX101_05425_HERBERIN_000_130,啊哈哈……呵呵呵……<hex:02100103>一想到能夠調查到貴重的變種小寶貝，<hex:02100103>就開始熱血沸騰了，連採購都超快就搞定咯……
-114,TEXT_FESESX101_05425_HERBERIN_000_131,那麼……來整理一下我的見解吧，<hex:02100103>暫且命名為壯壯陷阱草的這株小寶貝有著強大的生命力，<hex:02100103>特徵是被切割就會立即開始分裂、再生……
-115,TEXT_FESESX101_05425_HERBERIN_000_132,也就是說！<hex:02100103>先抑制住切口的生命活性，<hex:02100103>再像割草一樣痛快收割才是最好的辦法！
-116,TEXT_FESESX101_05425_HERBERIN_000_133,幸好你們手上就有這種可愛的葉片，<hex:02100103>只要和我剛剛採購來的素材進行一番混合，<hex:02100103>就能做成抑制再生的煉金藥咯！
-117,TEXT_FESESX101_05425_HERBERIN_000_134,製成之後再將其塗抹在鐮刀上，<hex:02100103>就能在藥效期間爽快割草了！<hex:02100103>可以稱其為特製的獵蛋園藝鐮！
-118,TEXT_FESESX101_05425_NONOTTA_000_135,能有辦法通過割草就解決問題的話，那真是再好不過了！<hex:02100103>如果大規模燒掉的話，對森林整體的生態也會產生影響，<hex:02100103>在燒禿的荒原尋找彩蛋也說不上是夢幻般的光景呢……
-119,TEXT_FESESX101_05425_HERBERIN_000_136,可不是嗎！<hex:02100103>而且我聽說，割草這一行為，<hex:02100103>本身也是在和森林與大地的恩惠進行對話……
-120,TEXT_FESESX101_05425_HERBERIN_000_137,一邊零距離感受大自然的呼吸，一邊舒爽接受恩惠！<hex:02100103>不僅如此還能將收割來的葉片作為樣本進行研究！
-121,TEXT_FESESX101_05425_HERBERIN_000_138,嗯——簡直是太棒了！<hex:02100103>啊，不過我很有可能會馬虎出錯，<hex:02100103>但是武藝高強的冒險者一定沒問題的！
-122,TEXT_FESESX101_05425_HERBERIN_000_139,好了！現在立刻就來製作割草鐮刀咯！<hex:02100103>請把那片可愛的葉子交給我吧！
-123,TEXT_FESESX101_05425_HERBERIN_000_140,俗話說得好，解鈴還須繫鈴人，<hex:02100103>將這葉片裡提取出的液體和其他材料混合進行反應，做成抑制劑……
-124,TEXT_FESESX101_05425_NONOTTA_000_141,這麼說的話，是不是先這樣再那樣……就能將它們一掃而光了？
-125,TEXT_FESESX101_05425_HERBERIN_000_142,嗯嗯……<hex:02100103>請務必、務必！用這把飽含我的意志與靈魂的割草鐮刀……
-126,TEXT_FESESX101_05425_HERBERIN_000_143,不斷收割那充滿魅力的壯壯陷阱草……<hex:02100103>將它割個片葉不留吧——！
-127,TEXT_FESESX101_05425_Q2_000_000,要說什麼？
-128,TEXT_FESESX101_05425_A2_000_001,片葉不留！
-129,TEXT_FESESX101_05425_A2_000_002,交給我吧
-130,TEXT_FESESX101_05425_A2_000_003,彩蛋、彩蛋蛋、大彩蛋——！！！
-131,TEXT_FESESX101_05425_NONOTTA_000_145,誒，彩蛋蛋……？<hex:02100103>總覺得二位好像很合得來呢？！
-132,TEXT_FESESX101_05425_NONOTTA_000_146,那麼那麼，這把割草鐮刀經過各種加工，<hex:02100103>想必普通人已經駕馭不了了吧……
-133,TEXT_FESESX101_05425_NONOTTA_000_147,執行委員也準備了割草的報酬，<hex:02100103>諾諾塔也拜託你了！<hex:02100103>冒險者討伐過那麼多魔物，一定沒問題的！
-134,TEXT_FESESX101_05425_HERBERIN_000_148,嗯呼呼……既然決定了我們就直奔目標吧！<hex:02100103>我可以在一旁見證下它有沒有發揮理想效果嗎？
-135,TEXT_FESESX101_05425_NONOTTA_000_149,當然了！<hex:02100103>諾諾塔也會和你一起，遠遠地為冒險者加油鼓氣的！
-136,TEXT_FESESX101_05425_NONOTTA_000_150,走著去會場有點遠，<hex:02100103>我帶兩位去坐執行委員準備的篷車吧！<hex:02100103>請到米·凱特露天劇場那邊等一下！
-137,TEXT_FESESX101_05425_HERBERIN_000_160,哼哼哼……啦啦啦～<hex:02100103>稀有的變種小草的棲息地……簡直沒有比這更令人興奮的了！
-138,TEXT_FESESX101_05425_NONOTTA_000_169,那麼，本次為確保獵蛋會場安全的作戰……<hex:02100103>又名為「嫩枝大清掃」，現在開始！<hex:02100103>讓我們剷除蔓延的草害，把會場清掃個乾乾淨淨吧！
-139,TEXT_FESESX101_05425_NONOTTA_000_170,我們就從這裡前往會場吧！<hex:02100103>你準備好了的話，就和彩蛋收集師（暫）搭話吧！
-140,TEXT_FESESX101_05425_SYSTEM_000_171,可以挑戰「嫩枝大清掃」了！
-141,TEXT_FESESX101_05425_SYSTEM_000_172,和米·凱特露天劇場或格里達尼亞新街橡子樂園的<hex:02100103>彩蛋收集師（暫）對話，即可參加。
-142,TEXT_FESESX101_05425_SYSTEM_000_173,「嫩枝大清掃」是以專用技能來收割草系魔物的任務，<hex:02100103>可以以任意職業參加。
-143,TEXT_FESESX101_05425_NONOTTA_000_180,那麼，我們就從這裡前往會場吧！<hex:02100103>你準備好了的話，就和彩蛋收集師（暫）搭話吧！
-144,TEXT_FESESX101_05425_HERBERIN_000_190,嗯——哇！<hex:02100103>我現在正在回味著你那精妙絕倫的鐮刀技藝……
-145,TEXT_FESESX101_05425_NONOTTA_000_200,辛苦你了，冒險者！<hex:02100103>經你收割過的地方，<hex:02100103>想必客人們也能安心尋找彩蛋了吧！
-146,TEXT_FESESX101_05425_HERBERIN_000_201,嗯嗯！獵蛋園藝鐮也比我預期的還要有效。<hex:02100103>嗯呼呼……實在是讓我大開眼界啊……
-147,TEXT_FESESX101_05425_HERBERIN_000_202,從壯壯陷阱草身上割下來的葉子也都被你回收了，<hex:02100103>我就來仔細觀察下這個壞孩子吧。
-148,TEXT_FESESX101_05425_NONOTTA_000_203,那麼，我們就去和小吉莉報告吧！<hex:02100103>就告訴她，尋找彩蛋已經可以順利開始了！
-149,TEXT_FESESX101_05425_NONOTTA_000_210,我們就和小吉莉報告說，<hex:02100103>尋找彩蛋已經能順利開始了！
-150,TEXT_FESESX101_05425_JIHLIALIAPOH_000_220,會場居然發生了那麼大的事！<hex:02100103>但是，你和小諾一起解決了對不對？<hex:02100103>還好拜託了你，<hex:022903EB0203>！
-151,TEXT_FESESX101_05425_NONOTTA_000_221,雖然活動用的金閃閃彩蛋被魔物吞掉了……<hex:02100103>但是多虧了冒險者，總算是回收回來了！
-152,TEXT_FESESX101_05425_JIHLIALIAPOH_000_222,也得好好謝謝埃爾伯林先生才行，<hex:02100103>不知道他還在不在格里達尼亞呢？
-153,TEXT_FESESX101_05425_HERBERIN_000_223,重大發現——！！
-154,TEXT_FESESX101_05425_NONOTTA_000_224,啊，剛說到他就來了！<hex:02100103>出什麼事了，埃爾伯林先生？
-155,TEXT_FESESX101_05425_HERBERIN_000_225,嗯呼呼呼呼……<hex:02100103>我對剛剛的那些葉片進行了一番分析和實驗……
-156,TEXT_FESESX101_05425_HERBERIN_000_226,利用壯壯陷阱草的再生能力製成了煉金藥，<hex:02100103>我的眼睛終於康復了！<hex:02100103>我又能把這世界看得一清二楚了！
-157,TEXT_FESESX101_05425_HERBERIN_000_227,本來我的眼睛就是因為和草木綱魔物湊得太近了，<hex:02100103>不小心被毒液濺到才導致的畏風畏光，<hex:02100103>所以才會正好有效吧……
-158,TEXT_FESESX101_05425_HERBERIN_000_228,不過，只要將葉片裡提取出的成分進行進一步的應用，<hex:02100103>一定能製作出對人對作物都有益的藥劑……<hex:02100103>呵呵呵……沒準還能做到這樣那樣的事情呢！
-159,TEXT_FESESX101_05425_HERBERIN_000_229,嗯——哇！這正是草木綱的神秘之處！<hex:02100103>通向繁榮未來的道路上再次灑下一束光！
-160,TEXT_FESESX101_05425_JIHLIALIAPOH_000_230,哇，好厲害啊！<hex:02100103>說不定，在我夢裡出現的金蛋，<hex:02100103>指的就是這個大發現呢！
-161,TEXT_FESESX101_05425_HERBERIN_000_231,啊啊……彩蛋啊彩蛋，<hex:02100103>你才是指引我與命運相遇的契機啊！
-162,TEXT_FESESX101_05425_HERBERIN_000_232,當然，還有諸位獵蛋的負責人們！<hex:02100103>彩蛋、彩蛋蛋——！！
-163,TEXT_FESESX101_05425_NONOTTA_000_233,你能喜歡這個節日就好啦！<hex:02100103>說起來，你已經拿到禮品了啊……
-164,TEXT_FESESX101_05425_HERBERIN_000_234,沒錯，這副造型眼鏡實在是太棒咯！！<hex:02100103>雖然我現在不再需要戴著造型眼鏡了，但這份心動還是不變的……<hex:02100103>就作為命中注定的紀念，一直戴著吧！
-165,TEXT_FESESX101_05425_JIHLIALIAPOH_000_235,呵呵呵，多虧了有各位幫助，彩蛋狩獵終於能夠開幕了！<hex:02100103>這份絕妙的彩蛋狩獵心動體驗才剛開始呢！<hex:02100103>戴著造型眼鏡盡情享受吧！
-166,TEXT_FESESX101_05425_JIHLIALIAPOH_000_236,<hex:022903EB0203>也請收下這份禮物吧！
-167,TEXT_FESESX101_05425_JIHLIALIAPOH_000_237,要是你還有空的話，<hex:02100103>也歡迎你再次為會場割草哦！<hex:02100103>我們還準備了其他別出心裁的禮物呢！
-168,TEXT_FESESX101_05425_SYSTEM_000_238,和米·凱特露天劇場<hex:02100103>或新街橡子樂園的彩蛋收集師（暫）對話後，<hex:02100103>可以重覆挑戰「嫩枝大清掃」。
-169,TEXT_FESESX101_05425_SYSTEM_090_238,これ以降の挑戦では、ステージが無制限に続きます。<hex:02100103>制限時間內に次々と草を刈り、ハイスコアを狙ってみましょう！
-170,TEXT_FESESX101_05425_SYSTEM_100_238,突破「嫩枝大清掃」後，可以獲得<hex:02280BFF05>Item<hex:F2C3A90103>。
-171,TEXT_FESESX101_05425_SYSTEM_110_238,將<hex:02280BFF05>Item<hex:F2C3A90103>交給米·凱特露天劇場的彩蛋預言師，<hex:02100103>可以交換裝備和道具。
-172,TEXT_FESESX101_05425_SYSTEM_000_239,可在各國旅館客房內的「玩具箱」玩小遊戲。
+0,"TEXT_FESESX101_05425_SEQ_00","A stylish Dreamer is smiling at you. Already, your day has improved.<hex:02100103>※This quest is available for a limited time only."
+1,"TEXT_FESESX101_05425_SEQ_01","The stylish Dreamer is none other than Jihli Aliapoh, founder of the imminent Hatching–tide festivities. This year, Jihli's prophetic dream featured golden eggs that floated up from thick swathes of flora, prompting the creation of an egg hunt through the Black Shroud's foliage. Jihli's cohort, Nonotta, was charged with preparing the arena for participants, but enough time has passed without word of the proceedings for Jihli to become worried. She tasks you with finding Nonotta, who may have returned to Gridania.<hex:02100103><hex:02100103>※Please note that you will be unable to complete this quest after the seasonal event has ended. For details, please check the Lodestone."
+2,"TEXT_FESESX101_05425_SEQ_02","You find Nonotta in the aetheryte plaza, bearing an adorable pair of chicken spectacles and no little consternation. Apparently, the egg hunting arena has been overrun by a plant so stubborn it cannot be trimmed or culled, leading Nonotta to wonder if the flora may be potentially dangerous leafkin. Accepting a piece of the peculiar plant for reference, you head to the Carline Canopy to question patrons, while Nonotta heads for the Botanists' Guild."
+3,"TEXT_FESESX101_05425_SEQ_03","The leaf in your possession seems likely to belong to a strain of flytrap that easily regenerates, and you are not the first to inquire about such plant life─an “eccentric” alchemist seems to have preceded you. Having learned all you can, you return to the aetheryte plaza to share your findings with Nonotta."
+4,"TEXT_FESESX101_05425_SEQ_04","The Botanists' Guild has determined that the leafkin in question is so resilient that the pieces in your possession are technically still alive. Shelving that disturbing notion for the time being, you share what you discovered with Nonotta, and the two of you decide to follow up with the alchemist."
+5,"TEXT_FESESX101_05425_SEQ_05","Herberin, the indubitably eccentric alchemist, passionately offers his assistance in creating a concoction that might help combat the stubborn leafkin. Indeed, he has barely finished agreeing before he dashes off to purchase the necessary ingredients, Nonotta trailing in his wake."
+6,"TEXT_FESESX101_05425_SEQ_06","Between Herberin's brilliance and Nonotta's garden scythe, you have all you need to begin culling the intrusive leafkin in earnest. Nonotta goes on ahead to secure transportation, so when you are ready to clean up the egg arena, make your way to Mih Khetto's Amphitheatre."
+7,"TEXT_FESESX101_05425_SEQ_07","All is in readiness for some much needed Sprig Cleaning. Speak with an egg usher in Mih Khetto's Amphitheatre or the Acorn Orchard to swing your scythe and reap the rewards."
+8,"TEXT_FESESX101_05425_SEQ_08","Your blade has tasted leafkin flesh. Speak with Nonotta to debrief from your mission."
+9,"TEXT_FESESX101_05425_SEQ_09","Nonotta praises you for a job well done and Herberin seems delighted with not only the results of his alchemical solution, but the copious amounts of floral samples your mowing has produced. As the Elezen skips off to study to his heart's content, you report back to Jihli Aliapoh to reassure her that Hatching–tide festivities may carry on as planned."
+10,"TEXT_FESESX101_05425_SEQ_10","Jihli is surprised to hear of the troublesome leafkin, but glad that the arena is fit for preparing an egg hunt. Just as she expresses a wish to thank Herberin for his assistance, the alchemist barrels into the amphitheatre, hollering success. His eyes, once brutally burned by leafkin venom, have been cured thanks to a solution concocted from the regenerative leafkin samples you provided him. The optimism he expresses for what this breakthrough means for the world of alchemy leads Jihli to realize that her dream represented not simply an egg hunt, but the rising hopes for the future.<hex:02100103><hex:02100103>Thanks to your efforts, Hatching–tide festivities may now begin in earnest, but given the resiliency of troublesome traps, you will never lack for leafkin to trim. Stop by for Sprig Cleaning whenever you have a moment, and enjoy the rest of these spring celebrations."
+11,"TEXT_FESESX101_05425_SEQ_11",""
+12,"TEXT_FESESX101_05425_SEQ_12",""
+13,"TEXT_FESESX101_05425_SEQ_13",""
+14,"TEXT_FESESX101_05425_SEQ_14",""
+15,"TEXT_FESESX101_05425_SEQ_15",""
+16,"TEXT_FESESX101_05425_SEQ_16",""
+17,"TEXT_FESESX101_05425_SEQ_17",""
+18,"TEXT_FESESX101_05425_SEQ_18",""
+19,"TEXT_FESESX101_05425_SEQ_19",""
+20,"TEXT_FESESX101_05425_SEQ_20",""
+21,"TEXT_FESESX101_05425_SEQ_21",""
+22,"TEXT_FESESX101_05425_SEQ_22",""
+23,"TEXT_FESESX101_05425_SEQ_23",""
+24,"TEXT_FESESX101_05425_TODO_00","Search for Nonotta in the aetheryte plaza."
+25,"TEXT_FESESX101_05425_TODO_01","Gather information on the peculiar plant at the Carline Canopy."
+26,"TEXT_FESESX101_05425_TODO_02","Speak with Nonotta."
+27,"TEXT_FESESX101_05425_TODO_03","Search for a bespectacled Elezen in Old Gridania."
+28,"TEXT_FESESX101_05425_TODO_04","Speak with Herberin."
+29,"TEXT_FESESX101_05425_TODO_05","Speak with Nonotta."
+30,"TEXT_FESESX101_05425_TODO_06","Speak to an egg usher to participate in Sprig Cleaning."
+31,"TEXT_FESESX101_05425_TODO_07","Speak with Nonotta."
+32,"TEXT_FESESX101_05425_TODO_08","Speak with Jihli Aliapoh."
+33,"TEXT_FESESX101_05425_TODO_09",""
+34,"TEXT_FESESX101_05425_TODO_10",""
+35,"TEXT_FESESX101_05425_TODO_11",""
+36,"TEXT_FESESX101_05425_TODO_12",""
+37,"TEXT_FESESX101_05425_TODO_13",""
+38,"TEXT_FESESX101_05425_TODO_14",""
+39,"TEXT_FESESX101_05425_TODO_15",""
+40,"TEXT_FESESX101_05425_TODO_16",""
+41,"TEXT_FESESX101_05425_TODO_17",""
+42,"TEXT_FESESX101_05425_TODO_18",""
+43,"TEXT_FESESX101_05425_TODO_19",""
+44,"TEXT_FESESX101_05425_TODO_20",""
+45,"TEXT_FESESX101_05425_TODO_21",""
+46,"TEXT_FESESX101_05425_TODO_22",""
+47,"TEXT_FESESX101_05425_TODO_23",""
+48,"TEXT_FESESX101_05425_JIHLIALIAPOH_000_001","Come one, come all! For the happy season of Hatching–tide is upon us once more! "
+49,"TEXT_FESESX101_05425_Q1_000_000","What will you say?"
+50,"TEXT_FESESX101_05425_A1_000_001","And what an <hex:021A020203>egg<hex:021A020103>cellent season it is!"
+51,"TEXT_FESESX101_05425_A1_000_002","What's with the glasses, Jihli?"
+52,"TEXT_FESESX101_05425_A1_000_003","A pleasure to meet you, er...?"
+53,"TEXT_FESESX101_05425_JIHLIALIAPOH_100_002","(-Jihli Aliapoh-)That's the spirit! How lovely to see you again, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. You remember me, yes? It's Jihli Aliapoh, come with another vision to share!"
+54,"TEXT_FESESX101_05425_JIHLIALIAPOH_000_004","(-Jihli Aliapoh-)Haha! I sense a kindred spirit in you, my friend─one that appreciates the <hex:021A020203>egg<hex:021A020103>squisite bounties of springtime! My name is Jihli Aliapoh, and it is an honor to make your acquaintance."
+55,"TEXT_FESESX101_05425_JIHLIALIAPOH_000_005","(-Jihli Aliapoh-)Why, these adorable accessories have been exclusively prepared for this year's festivities!"
+56,"TEXT_FESESX101_05425_JIHLIALIAPOH_000_002","(-Jihli Aliapoh-)It is ever so good to have you with us again, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Happy Hatching–tide!"
+57,"TEXT_FESESX101_05425_JIHLIALIAPOH_100_006","(-Jihli Aliapoh-)My name is Jihli Aliapoh, and it is my honor to make your acquaintance."
+58,"TEXT_FESESX101_05425_JIHLIALIAPOH_000_006","(-Jihli Aliapoh-)Jihli! Jihli Aliapoh! ...Oh, is this the first you've seen me without my cap? For a moment, I feared you had forgotten me!"
+59,"TEXT_FESESX101_05425_JIHLIALIAPOH_000_007","(-Jihli Aliapoh-)I am charged with overseeing the festivities here. May I ask your name, adventurer?"
+60,"TEXT_FESESX101_05425_JIHLIALIAPOH_000_008","(-Jihli Aliapoh-)<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, allow me to officially welcome you to the celebration of Hatching–tide!"
+61,"TEXT_FESESX101_05425_JIHLIALIAPOH_000_009","(-Jihli Aliapoh-)This annual event began with a dream I had right before the last Calamity─and ever since, I have done my utmost to realize the prophecies spoken unto me whenever springtime returns to the realm!"
+62,"TEXT_FESESX101_05425_JIHLIALIAPOH_000_010","(-Jihli Aliapoh-)This year, I dreamt of marvelous golden eggs rising from curious flora."
+63,"TEXT_FESESX101_05425_JIHLIALIAPOH_000_011","(-Jihli Aliapoh-)As we speak, our Dreamers are hiding eggs in the Black Shroud for participants to lift from the shrubbery, thereby reenacting my dream! Successful seekers will be awarded with <hex:021A020203>very<hex:021A020103> stylish glasses. "
+64,"TEXT_FESESX101_05425_JIHLIALIAPOH_000_012","(-Jihli Aliapoh-)Although...no little time has passed since I've had word from dear Nonotta, who is organizing the operation. I cannot help but worry something has gone awry."
+65,"TEXT_FESESX101_05425_JIHLIALIAPOH_000_013","(-Jihli Aliapoh-)If only I could go and find her myself, but alas, I have duties to attend to here..."
+66,"TEXT_FESESX101_05425_JIHLIALIAPOH_000_014","(-Jihli Aliapoh-)Of course! <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, perhaps you would be so kind as to seek Nonotta out in my stead?"
+67,"TEXT_FESESX101_05425_JIHLIALIAPOH_000_015","(-Jihli Aliapoh-)Thank you! I hope she has returned to Gridania safely. It would be worth checking the aetheryte plaza before venturing further afield. "
+68,"TEXT_FESESX101_05425_JIHLIALIAPOH_000_016","(-Jihli Aliapoh-)She, too, should be wearing a pair of our thematic glasses─hers in the shape of a chicken!"
+69,"TEXT_FESESX101_05425_JIHLIALIAPOH_000_020","Were her spectacles created before mine, you ask? ...While I am uncertain as to whether the chicken preceded the egg, Nonotta chose the former. I would check the aetheryte plaza for her before searching elsewhere!"
+70,"TEXT_FESESX101_05425_HERBERIN_000_030","Mmm, how delightful!"
+71,"TEXT_FESESX101_05425_NONOTTA_000_040","My glasses? They're a prize for participating in this year's Hatching–tide festivities, but─"
+72,"TEXT_FESESX101_05425_HERBERIN_000_041","Marvelous! I chased a leafy beast and discovered a most fortuitous chicken. But for now, I must away. I look forward to these Hatching–tide festivities, these springtime delights!"
+73,"TEXT_FESESX101_05425_NONOTTA_000_042","Hello, adventurer, and a happy Hatching–tide to you! How can I be of service?"
+74,"TEXT_FESESX101_05425_NONOTTA_000_043","Oh, hello, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! A happy Hatching–tide to you. How can I be of service?"
+75,"TEXT_FESESX101_05425_NONOTTA_000_044","Jihli sent you? I suppose I have been gone for a while, but I've been having trouble hiding our eggs in the arena..."
+76,"TEXT_FESESX101_05425_NONOTTA_000_045","As I was working, these tall, thick grasses suddenly sprung forth! I tried to trim them back, but not even my best garden scythe could make the smallest impression. At best, I managed to snip a couple of leaves..."
+77,"TEXT_FESESX101_05425_NONOTTA_000_046","Now, I cannot help but worry that our arena is carpeted not by typical brambles, but a variety of <hex:021A020203>leafkin<hex:021A020103>... We can hardly send our egg hunters into a nest of monsters! Oh, what to do..."
+78,"TEXT_FESESX101_05425_NONOTTA_000_047","You would help? A godssend, truly! Then let us start by gathering information about this peculiar plant─though I know adventurers generally prefer to slay monsters first and ask questions later."
+79,"TEXT_FESESX101_05425_NONOTTA_000_048","I shall head for the Botanists' Guild. In the meantime, if you could ask around the Carline Canopy regarding the strange specimen, I would greatly appreciate it."
+80,"TEXT_FESESX101_05425_NONOTTA_000_049","Here, take one of the leaves I managed to salvage. Let us reconvene at the aetheryte plaza once we have gathered what information we can."
+81,"TEXT_FESESX101_05425_JIHLIALIAPOH_000_161","Thank goodness Nonotta is hale and whole! Here I was fearing some monstrous, eggy accident... Thank you for your assistance!"
+82,"TEXT_FESESX101_05425_GUILDLEVESGIRL05425_000_060","Greetings, adventurer. Have you come seeking a contract?"
+83,"TEXT_FESESX101_05425_GUILDLEVESGIRL05425_000_061","This leaf...I daresay it comes from some variety of flytrap."
+84,"TEXT_FESESX101_05425_GUILDLEVESGIRL05425_000_062","We often receive petitions regarding roselets, but I don't believe I've seen leafkin of this <hex:021A020203>particular<hex:021A020103> shade of green. Curious..."
+85,"TEXT_FESESX101_05425_GUILDLEVESGIRL05425_000_063","Just as typical plant life flourishes during this season, so too do leafkin. I would not be surprised if some aberrant strain had developed in the process. If you require assistance in culling it, do not hesitate to ask."
+86,"TEXT_FESESX101_05425_ADVENTURER05425_000_064","Hey there, <hex:020818E905FF0A>beautiful<hex:FF09>handsome<hex:03>. You looking to hire? I'm good with a lance."
+87,"TEXT_FESESX101_05425_ADVENTURER05425_000_065","Oh, I recognize this─a whole swarm of this leafkin was crowding a little corner of the Black Shroud just the other day. Never seen anything quite like it, so I tried giving it a poke. "
+88,"TEXT_FESESX101_05425_ADVENTURER05425_000_066","But would you believe it? The leaves and flowers just kept growing back, easy as you please. Eventually, I just gave up. If there's one thing I can't stand, it's feeling impotent."
+89,"TEXT_FESESX101_05425_WAITER05425_000_067","Welcome to the Carline Canopy. If there is any way I might be of service, you need only ask."
+90,"TEXT_FESESX101_05425_WAITER05425_000_068","While I am well-versed in the leaves steeped for myriad teas, my knowledge can offer no insight on this particular specimen. My apologies. "
+91,"TEXT_FESESX101_05425_WAITER05425_000_069","However, we did have a guest come in search of strange leafkin just moments ago."
+92,"TEXT_FESESX101_05425_WAITER05425_000_070","An Elezen gentleman wearing shaded spectacles. He introduced himself as an alchemist specializing in the study of wild beasts."
+93,"TEXT_FESESX101_05425_WAITER05425_000_071","While he did seem somewhat...<hex:021A020203>eccentric<hex:021A020103>, perhaps an expert of his standing might offer the assistance you require? I believe he said he was bound for Old Gridania, should you desire to seek him out."
+94,"TEXT_FESESX101_05425_GUILDLEVESGIRL05425_000_080","That leaf may belong to a mutation. If it gives you any trouble, we can help."
+95,"TEXT_FESESX101_05425_ADVENTURER05425_000_081","What's worse, that damned leafkin didn't so much as give me a proper fight! Just sprang back all the thicker, like the elementals were sneering at me. <sigh> Gods, but I'm lonely..."
+96,"TEXT_FESESX101_05425_WAITER05425_000_082","The alchemist seeking curious leafkin said he had business in Old Gridania. You may still be able to catch him."
+97,"TEXT_FESESX101_05425_NONOTTA_000_090","You're back! Perfect timing."
+98,"TEXT_FESESX101_05425_NONOTTA_000_091","According to the folks at the Botanists' Guild, the leaf belongs to a type of highly durable leafkin...so durable, in fact, that the pieces you and I possess are, apparently, still very much alive. <cough> Er, what did you discover?"
+99,"TEXT_FESESX101_05425_NONOTTA_000_092","So others have been similarly unsuccessful in cutting them back? In which case, developing an alternative strategy does seem in order..."
+100,"TEXT_FESESX101_05425_NONOTTA_000_093","The alchemist you mentioned seems like a good lead, don't you think? An Elezen with shaded spectacles...perhaps that was the fellow with whom I was speaking earlier."
+101,"TEXT_FESESX101_05425_NONOTTA_000_094","He did say something about chasing a leafy beast, after all. Let's head over and see if we can't find him!"
+102,"TEXT_FESESX101_05425_NONOTTA_000_100","Here he is! The gentleman who asked about my glasses!"
+103,"TEXT_FESESX101_05425_HERBERIN_000_110","Ohoho? The fortuitous chicken has found me again! Along with a <hex:020814E905FF05>lady<hex:FF0A>gentleman<hex:03> of adventure..."
+104,"TEXT_FESESX101_05425_HERBERIN_000_111","(-Herberin-)Yes, that sounds like me! Ravenous for leafkin large and small, the wayfaring alchemist Herberin, at your service."
+105,"TEXT_FESESX101_05425_HERBERIN_000_112","(-Herberin-)Wha...aaa...aaat!? Why, this is the very leaf I have been pursuing for moons upon moons!<hex:02100103>Moons upon moons upon moons upon <hex:021A020203>moooooons<hex:021A020103>!"
+106,"TEXT_FESESX101_05425_HERBERIN_000_113","(-Herberin-)...That is to say, if you are seeking assistance in combating this menace, I would be happy to help."
+107,"TEXT_FESESX101_05425_NONOTTA_000_114","We would be much obliged! As an alchemist, would you say that some sort of concoction might be effective against this creature? "
+108,"TEXT_FESESX101_05425_HERBERIN_000_115","(-Herberin-)Ohoho! Doubt you not the efficacy of my concoctions, little chicken. With this aberrant leaf in his possession, Herberin the Great can finally realize his purpose for traveling to the Twelveswood─can finally seize his quarry by the stalk and wrestle it into submission!"
+109,"TEXT_FESESX101_05425_HERBERIN_000_116","(-Herberin-)...But my enthusiasm overcomes me. You see, as I was poring over leafkin of this very persuasion, my eyeballs were subjected to quite a piece of mischief. Since then, they burn like all seven hells if exposed to sunlight, wind, or most anything."
+110,"TEXT_FESESX101_05425_HERBERIN_000_117","(-Herberin-)So long as I wear these tinted lenses, I can remain upright and free of blinding pain and nausea for several bells at a time! Quite long enough to brew a tincture that shall spare you both a similar fate. Now, if you'll excuse me, I have ingredients to procure from the Shaded Bower."
+111,"TEXT_FESESX101_05425_NONOTTA_000_118","W-Wait! At least allow me to foot the bill!"
+112,"TEXT_FESESX101_05425_NONOTTA_000_120","By the time I caught up with him, he had already finished his shopping..."
+113,"TEXT_FESESX101_05425_HERBERIN_000_130","Aha...hahaha... Just the bare sight of that leaf has imbued me with untold mercantile stamina. Like lightning flashed my gil, and like a mountain grew my spoils!"
+114,"TEXT_FESESX101_05425_HERBERIN_000_131","Now then, I must gather my thoughts... The leafkin in question is a troublesome strain of flytrap possessed of vitality so great that it sprouts forth with abundance from the very spot it has been shorn. "
+115,"TEXT_FESESX101_05425_HERBERIN_000_132","Therefore! By thwarting its regenerative properties, we may cut this terror down to size not only in the metaphorical sense, but the <hex:021A020203>literal<hex:021A020103>!"
+116,"TEXT_FESESX101_05425_HERBERIN_000_133","You two have living pieces of its tender, floral flesh. Combined with my chosen ingredients, they should yield a distillation that will forestall the creature's recovery."
+117,"TEXT_FESESX101_05425_HERBERIN_000_134","The effects will be temporary, but a skilled hand needs only a few moments, no? Soak your scythe in Herberin's Bane, and mow with all your might!"
+118,"TEXT_FESESX101_05425_NONOTTA_000_135","What wonderful news! Can you imagine if the creatures were only susceptible to fire? An egg hunt through a field of ash is hardly what Jihli dreamed of..."
+119,"TEXT_FESESX101_05425_HERBERIN_000_136","Fire? Heavens forfend, my dear chicken! The act of snipping in itself is transcendent communication, or so they say."
+120,"TEXT_FESESX101_05425_HERBERIN_000_137","To inhale the life breath of the forest. To welcome within one's heart the bounties of the land. To occasionally have one's eyes squirted with burning venom. These are the experiences we live for."
+121,"TEXT_FESESX101_05425_HERBERIN_000_138","Not to mention all the free samples of plant life to be gained along the way! Were I not liable to keel over at any moment, I would like nothing better than to slice the shrubbery by your side. However, I have every confidence that a brave adventurer such as yourself will succeed where I have failed."
+122,"TEXT_FESESX101_05425_HERBERIN_000_139","Now, let us commence! Make me the happiest man in the realm, and bestow upon me your leaves!"
+123,"TEXT_FESESX101_05425_HERBERIN_000_140","Just as oil dissolves oil, the extracts from this leaf shall counteract their own regenerative properties... "
+124,"TEXT_FESESX101_05425_NONOTTA_000_141","Whereby this should be brought thusly, and that should be...? Yes! From all angles may this scythe strike true!"
+125,"TEXT_FESESX101_05425_HERBERIN_000_142","Hnghhh...<hex:02100103>I offer up...my masterpiece...my soul...my well-lubricated garden scythe..."
+126,"TEXT_FESESX101_05425_HERBERIN_000_143","In your hands, may it hack away our hardships..."
+127,"TEXT_FESESX101_05425_Q2_000_000","What will you say?"
+128,"TEXT_FESESX101_05425_A2_000_001","Prepare to meet the reaper!"
+129,"TEXT_FESESX101_05425_A2_000_002","You can leave the rest to me."
+130,"TEXT_FESESX101_05425_A2_000_003","EGGSTERMINATE!"
+131,"TEXT_FESESX101_05425_NONOTTA_000_145","L-Let's not get too carried away, shall we!? Think of the children..."
+132,"TEXT_FESESX101_05425_NONOTTA_000_146","Now that our garden scythe is equipped to cut back the flytraps, we are one step closer to reclaiming our arena."
+133,"TEXT_FESESX101_05425_NONOTTA_000_147","Rest assured, your efforts will be rewarded with exclusive Hatching–tide gifts! But, er, do take care to avoid any squirting venom."
+134,"TEXT_FESESX101_05425_HERBERIN_000_148","Herberin the Upright would like to join this sortie to observe the effects of his alchemical miracle. Insofar as they can be observed with scalded eyeballs."
+135,"TEXT_FESESX101_05425_NONOTTA_000_149","Of course! Let us watch <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>'s work from a safe distance."
+136,"TEXT_FESESX101_05425_NONOTTA_000_150","Our arena is a fair walk from here, so I will have the Dreamers arrange for a chocobo carriage. Come and find me when you are ready to depart!"
+137,"TEXT_FESESX101_05425_HERBERIN_000_160","Oooh, I cannot wait to see those beautiful fronds fall like rain beneath your blade!"
+138,"TEXT_FESESX101_05425_NONOTTA_000_169","Ready to clear our arena of troublesome sprigs and stalks? "
+139,"TEXT_FESESX101_05425_NONOTTA_000_170","Just say the word, and an egg usher shall whisk us away!"
+140,"TEXT_FESESX101_05425_SYSTEM_000_171","You can now participate in Sprig Cleaning."
+141,"TEXT_FESESX101_05425_SYSTEM_000_172","Wield a special garden scythe to slay troublesome traps and retrieve Archon eggs. All classes and jobs are eligible to participate in Sprig Cleaning."
+142,"TEXT_FESESX101_05425_SYSTEM_000_173","Speak with the egg ushers in Mih Khetto's Amphitheatre or the Acorn Orchard to travel to the arena."
+143,"TEXT_FESESX101_05425_NONOTTA_000_180","When you're ready, just speak with an egg usher!"
+144,"TEXT_FESESX101_05425_HERBERIN_000_190","What glory... In my mind's eye, I can still see the arc of your scythe, the crisp shredding of the leaves..."
+145,"TEXT_FESESX101_05425_NONOTTA_000_200","Magnificent work! Thanks to you, our Hatching–tide participants may search for eggs in safety and comfort."
+146,"TEXT_FESESX101_05425_HERBERIN_000_201","Indeed, my alchemical solution exceeded even my own expectations. You have delivered me a vision, a dream!"
+147,"TEXT_FESESX101_05425_HERBERIN_000_202","Not to mention sprigs of a most troublesome trap! How I shall probe, how I shall stare─all without risk to what remains of my vision! Hoo hoo!"
+148,"TEXT_FESESX101_05425_NONOTTA_000_203","Well, I'm glad he seems pleased with the results. Go ahead and tell Jihli that our egg hunt may proceed as scheduled!"
+149,"TEXT_FESESX101_05425_NONOTTA_000_210","I'm sure Jihli will be thrilled to hear that our egg arena is operational!"
+150,"TEXT_FESESX101_05425_JIHLIALIAPOH_000_220","Our arena was filled with leafkin!? No wonder preparations were taking longer than expected. I am glad to hear the issue has been resolved and that everyone emerged unscathed!"
+151,"TEXT_FESESX101_05425_NONOTTA_000_221","Not only did <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> clean up those sprigs and sprouts, <hex:02080CE905FF04>she<hex:FF03>he<hex:03> also managed to retrieve what eggs were lost to the foliage. We should be ready to hide the eggs anew and begin the festivities! "
+152,"TEXT_FESESX101_05425_JIHLIALIAPOH_000_222","I would like to thank the alchemist who was so crucial to the operation. Do you think Master Herberin is still in Gridania?"
+153,"TEXT_FESESX101_05425_HERBERIN_000_223","<hex:021A020203>Eurekaaaaaaaaaaaaaaaaaaaaa<hex:021A020103>!!!"
+154,"TEXT_FESESX101_05425_NONOTTA_000_224","The man himself! You sound, er, cheerful?"
+155,"TEXT_FESESX101_05425_HERBERIN_000_225","Fair chicken, “cheerful” does not describe the half of my mood. For Herberin the Peerless has made a discovery for the ages!"
+156,"TEXT_FESESX101_05425_HERBERIN_000_226","From the leafkin samples you provided me, I was able to concoct a regenerative ointment for my poor, blistered eyeballs. I am cured!"
+157,"TEXT_FESESX101_05425_HERBERIN_000_227","My habit of sticking my face too close to my object of study has, at long last, served me well. For where once venom splashed, so too did an antidote!"
+158,"TEXT_FESESX101_05425_HERBERIN_000_228","Can you imagine how else we might manipulate the properties of these fantastic creatures? We could develop cures upon cures, devise agents upon agents!"
+159,"TEXT_FESESX101_05425_HERBERIN_000_229","We are witness to a golden age of alchemy, rising resplendent from fields of fell leafkin! "
+160,"TEXT_FESESX101_05425_JIHLIALIAPOH_000_230","Goodness! This must be what the eggs in my dream represented─the bright hopes for the future that this discovery portends!"
+161,"TEXT_FESESX101_05425_HERBERIN_000_231","So it was you, my oval comrades, who spoke of destiny. Had I but listened... Alas, Herberin has been a fool."
+162,"TEXT_FESESX101_05425_HERBERIN_000_232","But no longer! I shall hereby heed the wisdom of Egg and continue my work with full faculties. All thanks to you!"
+163,"TEXT_FESESX101_05425_NONOTTA_000_233","You seem to possess a great appreciation for the spirit of Hatching–tide! And also a pair of our promotional glasses..."
+164,"TEXT_FESESX101_05425_HERBERIN_000_234","Oh, these? These I wear not for protection against the elements but as a reminder of the catalyst that changed my fate forevermore! Hmm hmm!"
+165,"TEXT_FESESX101_05425_JIHLIALIAPOH_000_235","It does me proud to see how Hatching–tide brings joy to one and all─and our celebrations have but scarcely begun!"
+166,"TEXT_FESESX101_05425_JIHLIALIAPOH_000_236","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, please accept these glasses as a token of our appreciation. You have more than earned them."
+167,"TEXT_FESESX101_05425_JIHLIALIAPOH_000_237","Our Dreamers will continue patrols of the arena, but we may well need some further trimming. Your assistance would be much appreciated─and rewarded with special Hatching–tide gifts!"
+168,"TEXT_FESESX101_05425_SYSTEM_000_238","You can participate in Sprig Cleaning as many times as you wish during the seasonal event period by speaking with the egg ushers in Mih Khetto's Amphitheatre or the Acorn Orchard. "
+169,"TEXT_FESESX101_05425_SYSTEM_090_238","Race against the clock as you slash your way through endless stages of shrubbery, and aim for the highest score possible!"
+170,"TEXT_FESESX101_05425_SYSTEM_100_238","You may earn special brilliant eggs by completing Sprig Cleaning."
+171,"TEXT_FESESX101_05425_SYSTEM_110_238","Special brilliant eggs may be traded to the Dreamer in Mih Khetto's Amphitheatre for gear and items."
+172,"TEXT_FESESX101_05425_SYSTEM_000_239","You have unlocked the Egg Hunter Riggy mini-game. To play mini-games, open the toy chest found in any inn room."

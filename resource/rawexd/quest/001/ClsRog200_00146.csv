@@ -2,194 +2,194 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_CLSROG200_00146_SEQ_00,雙劍師公會的賈可想要奪回秘寶。
-1,TEXT_CLSROG200_00146_SEQ_01,冒險者決定和雙劍師公會的夥伴們一起去尋找被海盜團「鬥犬家族」奪走的秘寶。前往中拉諾西亞的拉撒格蘭關附近，和發現了運輸船上貨物的佩利姆·哈烏利姆談談。
-2,TEXT_CLSROG200_00146_SEQ_02,佩利姆·哈烏利姆查到了貨物是被黃衫隊盤問扣押的。前往拉撒格蘭關使用「隱遁」，從檢查貨物的黃衫隊員那裡收集情報。
-3,TEXT_CLSROG200_00146_SEQ_03,順利收集到了情報。向拉撒格蘭關附近的佩利姆·哈烏利姆報告。
-4,TEXT_CLSROG200_00146_SEQ_04,向佩利姆·哈烏利姆報告收集到的情報時，發現了一件不解的事。為了追查真相，前往中拉諾西亞的開墾者小倉，尋找黑市商人。
-5,TEXT_CLSROG200_00146_SEQ_05,找到了黑市商人，擊退了盧恩族護衛。和開墾者小倉裡的黑市商人談談。
-6,TEXT_CLSROG200_00146_SEQ_06,據黑市商人所言，鬥犬家族藏在魔鬼海域。向雙劍師公會的賈可報告。
-7,TEXT_CLSROG200_00146_SEQ_07,向賈可報告之後，決定前往魔鬼海域。前往拉諾西亞低地的莫拉比造船廠和賈可匯合，一同潛入鬥犬家族。
-8,TEXT_CLSROG200_00146_SEQ_08,乘船潛入了鬥犬家族，順利奪回了秘寶——青之星。和莫拉比造船廠的賈可談談。
-9,TEXT_CLSROG200_00146_SEQ_09,和賈可進行了交談，將鬥犬家族交給了剛好趕來的米莉拉拉。回到雙劍師公會，和賈可談談。
-10,TEXT_CLSROG200_00146_SEQ_10,和賈可進行了交談。剩下的秘寶好像在「處刑人」的手裡。賈可好像對於這個處刑人有些眉目……無論多強的對手也不能輸，為此還要繼續磨練實力。<hex:02100103><hex:02100103>※雙劍師的等級達到25級以上時，可以從賈可那裡領取下一個雙劍師任務。
-11,TEXT_CLSROG200_00146_SEQ_11,
-12,TEXT_CLSROG200_00146_SEQ_12,
-13,TEXT_CLSROG200_00146_SEQ_13,
-14,TEXT_CLSROG200_00146_SEQ_14,
-15,TEXT_CLSROG200_00146_SEQ_15,
-16,TEXT_CLSROG200_00146_SEQ_16,
-17,TEXT_CLSROG200_00146_SEQ_17,
-18,TEXT_CLSROG200_00146_SEQ_18,
-19,TEXT_CLSROG200_00146_SEQ_19,
-20,TEXT_CLSROG200_00146_SEQ_20,
-21,TEXT_CLSROG200_00146_SEQ_21,
-22,TEXT_CLSROG200_00146_SEQ_22,
-23,TEXT_CLSROG200_00146_SEQ_23,
-24,TEXT_CLSROG200_00146_TODO_00,和拉撒格蘭關附近的佩利姆·哈烏利姆對話
-25,TEXT_CLSROG200_00146_TODO_01,在拉撒格蘭關使用「隱遁」收集情報
-26,TEXT_CLSROG200_00146_TODO_02,向佩利姆·哈烏利姆報告
-27,TEXT_CLSROG200_00146_TODO_03,在開墾者小倉尋找黑市商人
-28,TEXT_CLSROG200_00146_TODO_04,和黑市商人對話
-29,TEXT_CLSROG200_00146_TODO_05,和雙劍師公會的賈可對話
-30,TEXT_CLSROG200_00146_TODO_06,在莫拉比造船廠和賈可匯合 追尋鬥犬家族
-31,TEXT_CLSROG200_00146_TODO_07,和莫拉比造船廠的賈可對話
-32,TEXT_CLSROG200_00146_TODO_08,和雙劍師公會的賈可對話
-33,TEXT_CLSROG200_00146_TODO_09,
-34,TEXT_CLSROG200_00146_TODO_10,
-35,TEXT_CLSROG200_00146_TODO_11,
-36,TEXT_CLSROG200_00146_TODO_12,
-37,TEXT_CLSROG200_00146_TODO_13,
-38,TEXT_CLSROG200_00146_TODO_14,
-39,TEXT_CLSROG200_00146_TODO_15,
-40,TEXT_CLSROG200_00146_TODO_16,
-41,TEXT_CLSROG200_00146_TODO_17,
-42,TEXT_CLSROG200_00146_TODO_18,
-43,TEXT_CLSROG200_00146_TODO_19,
-44,TEXT_CLSROG200_00146_TODO_20,
-45,TEXT_CLSROG200_00146_TODO_21,
-46,TEXT_CLSROG200_00146_TODO_22,
-47,TEXT_CLSROG200_00146_TODO_23,
-48,TEXT_CLSROG200_00146_JACKE_000_000,嗯，<hex:022903EB0203>，你的實力確實有所提升，<hex:02100103>我們這邊也準備好開始下一份工作了。
-49,TEXT_CLSROG200_00146_JACKE_000_001,目標是被奪走的三個秘寶……<hex:02100103>黃衫隊那個花哨女估計已經開始行動了，<hex:02100103>咱們也要盡快才行。
-50,TEXT_CLSROG200_00146_JACKE_000_002,這次的工作就由我、佩利姆·哈烏利姆和維·凱碧，<hex:02100103>還有<hex:022903EB0203>來負責。<hex:02100103>……那麼馬上開始作戰會議吧。
-51,TEXT_CLSROG200_00146_JACKE_000_003,……這維·凱碧還不來……咱們幾個先開始吧。<hex:02100103>這次的工作是教訓那些壞了規矩，<hex:02100103>襲擊黑渦團運輸船奪走秘寶的人。
-52,TEXT_CLSROG200_00146_JACKE_000_004,黃衫隊那個花哨女也跟咱們瞄著同一目標，<hex:02100103>而且這次還賭上了雙劍師公會的存亡，所以決不能輸！
-53,TEXT_CLSROG200_00146_JACKE_000_005,一定要比那個花哨女找回更多的秘寶，<hex:02100103>讓她親口說出「我認輸了，雙劍師大人！」。
-54,TEXT_CLSROG200_00146_PERIMUHAURIMU_000_006,噢噢，不管怎麼說，幹勁滿滿啊。
-55,TEXT_CLSROG200_00146_JACKE_000_007,這也沒辦法啊……<hex:02100103>我試圖向政府說明緣由，終止比賽，<hex:02100103>可是他們卻一副「只要能找回秘寶什麼都無所謂」的態度。
-56,TEXT_CLSROG200_00146_JACKE_000_008,所以我決定用成果讓他們閉嘴。<hex:02100103>要讓那個花哨女知道，<hex:02100103>可怕的工作老老實實交給咱們雙劍師就好了。
-57,TEXT_CLSROG200_00146_PERIMUHAURIMU_000_009,……真是個老好人。
-58,TEXT_CLSROG200_00146_JACKE_000_010,啊？什麼意思啊？<hex:02100103>比起這個，快告訴我有關秘寶的情報！
-59,TEXT_CLSROG200_00146_PERIMUHAURIMU_000_011,嗯……那個……這次需要奪回的秘寶是3樣，<hex:02100103>它們的名字分別是「青之星」、「銀之淚」和「黑之棺」。
-60,TEXT_CLSROG200_00146_PERIMUHAURIMU_000_012,無論哪個都是通稱。<hex:02100103>青之星就好比會發光的天狼星，<hex:02100103>是一顆超大的藍鑽石。
-61,TEXT_CLSROG200_00146_PERIMUHAURIMU_000_013,銀之淚嘛，據說曾經是烏爾達哈的王妃所擁有的耳環，<hex:02100103>可是很有來頭的……
-62,TEXT_CLSROG200_00146_PERIMUHAURIMU_000_014,最後是黑之棺，就這個不太明白是什麼東西……<hex:02100103>無論怎麼查，也查不出真相。
-63,TEXT_CLSROG200_00146_PERIMUHAURIMU_000_015,……這些秘寶都是私掠船搶來的，<hex:02100103>得到了官方承認的掠奪品。
-64,TEXT_CLSROG200_00146_PERIMUHAURIMU_000_016,眾所周知，掠奪品正常情況下都會賣給跟自己的海盜團要好的商人，<hex:02100103>不過也有那種特別特別貴重的物品，沒人買得起。<hex:02100103>這些東西最後就會被送到拍賣行。
-65,TEXT_CLSROG200_00146_PERIMUHAURIMU_000_017,而這三個秘寶正是非常貴重，所以被拿去競拍了。<hex:02100103>最後由利姆薩·羅敏薩政府拍了下來。<hex:02100103>然後在將秘寶從會場的小麥酒港轉移至別處之際……
-66,TEXT_CLSROG200_00146_JACKE_000_018,運輸船被海盜們襲擊，貨物也都被搶走了……
-67,TEXT_CLSROG200_00146_JACKE_000_019,據我調查，襲擊運輸船的是海盜團——鬥犬家族。
-68,TEXT_CLSROG200_00146_JACKE_000_020,襲擊後，鬥犬家族的海盜船也不見了蹤影。<hex:02100103>別說秘寶在哪了，就連這群海盜在哪都還不知道呢。
-69,TEXT_CLSROG200_00146_VKEBBE_000_021,賈可，我來晚了……抱歉，<hex:02100103>緊急情況！
-70,TEXT_CLSROG200_00146_VKEBBE_000_022,在拉撒格蘭關的過關處好像找到了運輸船上被奪走的貨物！
-71,TEXT_CLSROG200_00146_JACKE_000_023,什麼？拉撒格蘭關？<hex:02100103>鬥犬家族那群人已經上岸了嗎？
-72,TEXT_CLSROG200_00146_JACKE_000_024,找到的貨物裡有那三樣秘寶嗎？
-73,TEXT_CLSROG200_00146_VKEBBE_000_025,我不知道……<hex:02100103>他們是剛剛找到的貨物，應該還在檢查途中。
-74,TEXT_CLSROG200_00146_JACKE_000_026,看來只有去現場看看了。<hex:02100103>佩利姆·哈烏利姆、<hex:022903EB0203>，拜託你們了。
-75,TEXT_CLSROG200_00146_PERIMUHAURIMU_000_027,那麼，就去中拉諾西亞的拉撒格蘭關前匯合吧。
-76,TEXT_CLSROG200_00146_VKEBBE_000_030,你想知道關於鬥犬家族的情報？<hex:02100103>鬥犬家族是獵犬同盟分裂出來的一夥人……
-77,TEXT_CLSROG200_00146_VKEBBE_000_031,獵犬同盟的成員非常多……應該是所有海盜團裡最多的……
-78,TEXT_CLSROG200_00146_VKEBBE_000_032,當梅爾維布提督禁止海盜行為後，<hex:02100103>獵犬同盟半數以上的人選擇了上岸……<hex:02100103>而鬥犬家族正是那拒絕上岸留在海上的一夥人。
-79,TEXT_CLSROG200_00146_PERIMUHAURIMU_000_040,等你好久了，<hex:022903EB0203>！<hex:02100103>正如維·凱碧所說，貨物是在這裡發現的。
-80,TEXT_CLSROG200_00146_PERIMUHAURIMU_000_041,我聽到他們說是有個商人想要帶著這些貨物過關……<hex:02100103>然後被攔了下來……
-81,TEXT_CLSROG200_00146_PERIMUHAURIMU_000_042,那個商人已經被帶走了，但貨物還留在這裡接受檢查……
-82,TEXT_CLSROG200_00146_PERIMUHAURIMU_000_043,……畢竟在跟黃衫隊一決勝負，沒法直接上去問情報。<hex:02100103>你就用「隱遁」接近他們，確認一下貨物裡有沒有秘寶吧。
-83,TEXT_CLSROG200_00146_PERIMUHAURIMU_000_050,貨物還留在這裡接受檢查……<hex:02100103>你就用「隱遁」接近他們，確認一下貨物裡有沒有秘寶吧。
-84,TEXT_CLSROG200_00146_SYSTEM_000_060,檢查中的警備兵好像在說著什麼……
-85,TEXT_CLSROG200_00146_YELLOWJACKETMAN00146_000_061,……沒有啊。<hex:02100103>一個秘寶都沒有，要是被帶走的那個商人肯透露情報就好了……
-86,TEXT_CLSROG200_00146_YELLOWJACKETWOMAN00146_000_062,我剛才接到聯絡，說他一直主張自己什麼也不知道，<hex:02100103>只是被委託將貨物過關送往海之都。
-87,TEXT_CLSROG200_00146_YELLOWJACKETMAN00146_000_063,那該死的傢伙，竟然裝傻充愣！<hex:02100103>他們肯定是想將貨物分頭賣掉！<hex:02100103>米莉拉拉長官也說過了，要強化各地的盤問關卡！
-88,TEXT_CLSROG200_00146_YELLOWJACKETMAN00146_000_070,停下！<hex:02100103>這裡禁止外人進入，無關人員速速離去！
-89,TEXT_CLSROG200_00146_SYSTEM_000_071,黃衫隊的警備兵正在警戒著這裡，<hex:02100103>與他們拉開距離使用「隱遁」後再接近吧。
-90,TEXT_CLSROG200_00146_SYSTEM_000_072,黃衫隊的警備兵們正在檢查貨物，<hex:02100103>使用「隱遁」後接近，看看情況……
-91,TEXT_CLSROG200_00146_YELLOWJACKETMAN00146_000_080,我們在這裡有重要的任務要執行。<hex:02100103>無關人員速速離去！
-92,TEXT_CLSROG200_00146_YELLOWJACKETWOMAN00146_000_085,……真是抱歉，我們調查的東西不能告訴外人！
-93,TEXT_CLSROG200_00146_PERIMUHAURIMU_000_090,……嗯嗯，貨物裡沒有秘寶是吧，<hex:02100103>太好了……我還說一上來就輸了該怎麼辦。
-94,TEXT_CLSROG200_00146_PERIMUHAURIMU_000_091,不過有一點很奇怪啊，<hex:02100103>那個商人主張是將商品過關後送往海之都對吧……<hex:02100103>如果不想被抓到的話，肯定會避開關口啊！
-95,TEXT_CLSROG200_00146_PERIMUHAURIMU_000_092,而且，即便他順利地過了關，<hex:02100103>我也不覺得他還會將奪走的貨物送往城內……
-96,TEXT_CLSROG200_00146_PERIMUHAURIMU_000_093,我想想……這件事肯定有蹊蹺……<hex:02100103>怎麼才能查到真相呢？
-97,TEXT_CLSROG200_00146_PERIMUHAURIMU_000_094,……對哦，如果半路有人與那個商人接觸，<hex:02100103>然後從商人那裡把貨物拿走的話，這樣就行了……<hex:02100103>正好我知道個黑市交易的專家，沒準他知道點什麼……
-98,TEXT_CLSROG200_00146_PERIMUHAURIMU_000_095,那位專家會根據風向改變自己的住處，是個黑市商人。<hex:02100103>……今天早上記得是西風吹動了海洋女神的面紗……<hex:02100103>那麼，那個黑市商人現在應該在……
-99,TEXT_CLSROG200_00146_PERIMUHAURIMU_000_096,……附近的開墾者小倉裡，<hex:02100103>在回雙劍師公會之前，找他問問情報吧。
-100,TEXT_CLSROG200_00146_BLACKMERCHANT00146_000_100,哎呀，新面孔……<hex:02100103>對於誠心求購的人我什麼都賣，不過光看不買的還請回去吧……<hex:02100103>好了，首先告訴我你是以什麼身份來幹嘛的……
-101,TEXT_CLSROG200_00146_BALLOON_000_101,主人，由我來保護！
-102,TEXT_CLSROG200_00146_BALLOON_000_102,這位客人，你是什麼人？
-103,TEXT_CLSROG200_00146_BLACKMERCHANT00146_000_110,啊哈哈哈哈哈……<hex:02100103>多麼美麗的雙劍之舞！<hex:02100103>原來<hex:020813E905FF07>小妹<hex:FF07>小哥<hex:03>你是盜賊啊。
-104,TEXT_CLSROG200_00146_BLACKMERCHANT00146_000_111,說到盜賊，可是我年輕時候的大主顧。<hex:02100103>只要不是違反規矩的交易，什麼都行！<hex:02100103>請告訴我你想要什麼吧。
-105,TEXT_CLSROG200_00146_PERIMUHAURIMU_000_112,好久不見了啊，老爺子。<hex:02100103>我有事想要問你這個黑市買賣的中介人。
-106,TEXT_CLSROG200_00146_PERIMUHAURIMU_000_113,……先前，在拉撒格蘭關，抓獲了一名商人。<hex:02100103>原因是他想要搬運被鬥犬家族掠奪走的貨物。<hex:02100103>可是他本人卻說什麼都不知道，你有什麼線索嗎？
-107,TEXT_CLSROG200_00146_BLACKMERCHANT00146_000_114,當然，我知道所有的真相……<hex:02100103>我是不會漏掉任何黑市交易的資訊的……
-108,TEXT_CLSROG200_00146_BLACKMERCHANT00146_000_115,可這情報正是我的商品，<hex:02100103>……你們面對商人，不會以為能無償得到商品吧……
-109,TEXT_CLSROG200_00146_PERIMUHAURIMU_000_116,我明白的。<hex:02100103>給，這是你最喜歡的錢。
-110,TEXT_CLSROG200_00146_BLACKMERCHANT00146_000_117,很好！很好！非常好！<hex:02100103>那麼交易成立。
-111,TEXT_CLSROG200_00146_BLACKMERCHANT00146_000_118,……先前在拉撒格蘭關抓到的那名商人，<hex:02100103>是鬥犬家族的幫手所安排的、毫無關係的運貨人。<hex:02100103>至於被委託的貨物是什麼，他是真心不知道。
-112,TEXT_CLSROG200_00146_BLACKMERCHANT00146_000_119,說白了也就是為了佯動的「棄子」。<hex:02100103>我們之間正好有專門引這種線的商人，<hex:02100103>而且商人的名簿也傳了出來，肯定沒錯了。
-113,TEXT_CLSROG200_00146_PERIMUHAURIMU_000_120,果然是故意讓他們抓獲什麼都不知道的商人的啊。<hex:02100103>這樣的話，不管怎麼強化盤問關卡，也找不到有價值的東西。
-114,TEXT_CLSROG200_00146_PERIMUHAURIMU_000_121,也就是說，真正有價值的秘寶，<hex:02100103>現在也跟鬥犬家族一起，潛伏在黑暗之中唄。
-115,TEXT_CLSROG200_00146_BLACKMERCHANT00146_000_122,……不是黑暗，而是霧中……
-116,TEXT_CLSROG200_00146_BLACKMERCHANT00146_000_123,其實，鬥犬家族的幫手，不僅準備了運貨用的商人，<hex:02100103>還準備了別的人……
-117,TEXT_CLSROG200_00146_BLACKMERCHANT00146_000_124,也就是熟知魔鬼海域的航海士。
-118,TEXT_CLSROG200_00146_PERIMUHAURIMU_000_125,魔鬼海域？<hex:02100103>那是一片時常被霧氣包圍、海難事故多發的海域……<hex:02100103>難道說鬥犬家族躲在那裡嗎？
-119,TEXT_CLSROG200_00146_PERIMUHAURIMU_000_126,雖然很危險，但是又很有可能……<hex:02100103>將大部隊潛伏在魔鬼海域，通過幫手將一部分掠奪品運到陸上。
-120,TEXT_CLSROG200_00146_PERIMUHAURIMU_000_127,然後故意讓人找到這批貨物，<hex:02100103>這樣的話就能將搜查範圍集中在陸地，<hex:02100103>而載有秘寶的大部隊趁機逃向遠洋。
-121,TEXT_CLSROG200_00146_BLACKMERCHANT00146_000_128,厲害……推理得非常正確……<hex:02100103>如果連他們在魔鬼海域潛伏過這事都不知道的話，<hex:02100103>想必就再沒有機會抓住他們了。
-122,TEXT_CLSROG200_00146_BLACKMERCHANT00146_000_129,從沒放晴過的魔鬼海域，也受到第七靈災的影響，<hex:02100103>而使得部分區域放晴了。
-123,TEXT_CLSROG200_00146_BLACKMERCHANT00146_000_130,所以，只要去那些還留有霧氣的地方搜尋的話，<hex:02100103>肯定能找到他們。
-124,TEXT_CLSROG200_00146_BLACKMERCHANT00146_000_131,但是……潛伏在霧中的不僅僅只有鬥犬，<hex:02100103>隨便闖入的話，想必會被「處刑」。
-125,TEXT_CLSROG200_00146_PERIMUHAURIMU_000_132,「處刑」？
-126,TEXT_CLSROG200_00146_PERIMUHAURIMU_000_133,看來，還有別的事需要去調查……<hex:02100103>你先回去，把剛才的話告訴賈可。
-127,TEXT_CLSROG200_00146_BLACKMERCHANT00146_000_140,今後還請<hex:020813E905FF07>小妹<hex:FF07>小哥<hex:03>你多多關照……<hex:02100103>千萬不要在這裡丟了小命。<hex:02100103>啊哈哈哈哈……
-128,TEXT_CLSROG200_00146_JACKE_000_150,你回來了啊……<hex:02100103>調查得怎麼樣？
-129,TEXT_CLSROG200_00146_JACKE_000_151,……原來如此，秘寶和鬥犬家族都在魔鬼海域裡。
-130,TEXT_CLSROG200_00146_JACKE_000_152,雖然很在意老爺子說的「處刑」，<hex:02100103>不過這是教訓鬥犬家族奪回秘寶的大好機會……<hex:02100103>就由你我還有維·凱碧一起，潛入敵陣吧。
-131,TEXT_CLSROG200_00146_JACKE_000_153,……這樣的話，就剩前往魔鬼海域的船了。<hex:02100103>我會讓莫拉比造船廠的斯瓦爾辛特準備好船的，<hex:02100103>整備好裝備後就去那裡集合吧。
-132,TEXT_CLSROG200_00146_JACKE_000_160,前往魔鬼海域的船就用莫拉比造船廠的船吧。<hex:02100103>整備好裝備後就去那裡集合。
-133,TEXT_CLSROG200_00146_JACKE_000_170,你來了啊，我們都搞定了。<hex:02100103>用準備好的船前往魔鬼海域，然後悄悄潛入鬥犬家族的海盜船……
-134,TEXT_CLSROG200_00146_JACKE_000_171,海盜船上非常窄，敵人又多……<hex:02100103>正面上的話恐怕會被打成篩子……<hex:02100103>所以要盡可能多地使用「隱遁」，一點一點解決他們。
-135,TEXT_CLSROG200_00146_JACKE_000_172,你準備好了的話，咱們就出發了？
-136,TEXT_CLSROG200_00146_VKEBBE_000_180,賈可，找到秘寶了！<hex:02100103>是一顆非常大的藍鑽石——青之星！
-137,TEXT_CLSROG200_00146_VKEBBE_000_181,可是其他兩個怎麼也找不到……<hex:02100103>已經裡外裡找了好幾次了……
-138,TEXT_CLSROG200_00146_JACKE_000_182,剩下的兩個秘寶，銀之淚和黑之棺在哪？
-139,TEXT_CLSROG200_00146_PIRATE00146_000_183,哈……我怎麼可能會告訴你們雙劍師？
-140,TEXT_CLSROG200_00146_JACKE_000_184,那我換個問題……<hex:02100103>協助你們的幫手是誰？
-141,TEXT_CLSROG200_00146_PIRATE00146_000_185,……怎……你……<hex:02100103>你們怎麼……知道的？
-142,TEXT_CLSROG200_00146_JACKE_000_186,這次的掠奪秘寶實在是太順利……<hex:02100103>本身襲擊黑渦團的運輸船就已經難上加難了，<hex:02100103>你們卻還能在襲擊後順利逃走……
-143,TEXT_CLSROG200_00146_JACKE_000_187,……而且，這次的掠奪，根本不是你們的風格啊。
-144,TEXT_CLSROG200_00146_JACKE_000_188,鬥犬家族未取得私掠船許可證，卻還繼續著海盜勾當，<hex:02100103>這在道上可是十分引人注目的。
-145,TEXT_CLSROG200_00146_JACKE_000_189,你們被黃衫隊盯得死死的，卻還能一直順利地幹下去，<hex:02100103>無非就是你們很慎重，不是嗎？<hex:02100103>而這次從黑渦團的船上掠奪秘寶什麼的，根本不是你們的風格！
-146,TEXT_CLSROG200_00146_PIRATE00146_000_190,……慎重行事，已經沒有意義了……
-147,TEXT_CLSROG200_00146_PIRATE00146_000_191,再過不久，海盜時代就將完全結束了……<hex:02100103>像我們這種不入流的海盜團，不管怎麼反對，<hex:02100103>估計也動搖不了梅爾維布提督的決心……
-148,TEXT_CLSROG200_00146_PIRATE00146_000_192,所以，我們便接受了「處刑人」的提案，<hex:02100103>將全部希望都賭在了寶刀未老的「處刑人」身上。
-149,TEXT_CLSROG200_00146_PIRATE00146_000_193,你們想要找的秘寶，都在他手裡。<hex:02100103>而青之星無非是作為報酬留給我們的而已……<hex:02100103>呵呵……
-150,TEXT_CLSROG200_00146_JACKE_000_194,……我過後再向你說明詳情。<hex:02100103>總之先把船開向港口吧。
-151,TEXT_CLSROG200_00146_VKEBBE_000_200,抱歉，我什麼都不能告訴你……<hex:02100103>不過，你應該高興才對，畢竟奪回了青之星。
-152,TEXT_CLSROG200_00146_PIRATE00146_000_201,該死……我們的船……我們的血肉！<hex:02100103>與其成為別人的東西，還不如燒得連灰都不剩！
-153,TEXT_CLSROG200_00146_JACKE_000_202,先回莫拉比造船廠集合吧，<hex:02100103>畢竟還要將鬥犬家族交給黃衫隊。
-154,TEXT_CLSROG200_00146_JACKE_000_210,嗯……不管黑幕是誰，<hex:02100103>執行犯確確實實是他們，<hex:02100103>也不知道會給予什麼樣的懲罰……
-155,TEXT_CLSROG200_00146_MILALA_000_211,我接到報告說在莫拉比海灣發現了鬥犬家族的海盜船，<hex:02100103>沒想到竟然被你們搶先了！
-156,TEXT_CLSROG200_00146_JACKE_000_212,是啊，你可真慢啊，花哨女！<hex:02100103>青之星我們已經找回來了！
-157,TEXT_CLSROG200_00146_MILALA_000_213,……嘖！
-158,TEXT_CLSROG200_00146_MILALA_000_214,他們就是鬥犬家族的海盜？
-159,TEXT_CLSROG200_00146_MILALA_000_215,你們這群敗類！<hex:02100103>竟然襲擊無辜的運輸船，<hex:02100103>知不知道那些被你們殘殺的船員，也有著自己的家屬？
-160,TEXT_CLSROG200_00146_MILALA_000_216,所以說海盜什麼的……海盜什麼的……<hex:02100103>就應該一個不剩，全部殺光！<hex:02100103>為了那些慘死的人，納命來吧！
-161,TEXT_CLSROG200_00146_JACKE_000_217,喂喂，你這就要動手了？<hex:02100103>真是上了頭就不顧別人了啊，至少先領回去再說啊。
-162,TEXT_CLSROG200_00146_JACKE_000_218,我們已經把想問的問完了。<hex:02100103>把他們交給你，也算是對他們壞了規矩的懲罰了。<hex:02100103>接下來就按照法律，隨你們來了。
-163,TEXT_CLSROG200_00146_MILALA_000_219,別指示我！<hex:02100103>這次你們能贏，純粹因為你們是骯髒海盜的殘渣！<hex:02100103>所以才有辦法找到這群傢伙的所在地！
-164,TEXT_CLSROG200_00146_PIRATE00146_000_220,別把我們跟他們相提並論！！<hex:02100103>他們根本就不是海盜！！
-165,TEXT_CLSROG200_00146_PIRATE00146_000_221,雙劍師……盜賊公會的建立是我們海盜所促使的！<hex:02100103>可沒想到，現在已經完全成了提督的走狗！<hex:02100103>幫著提督來咬我們！
-166,TEXT_CLSROG200_00146_PIRATE00146_000_222,你們雙劍師就是一群背叛者！<hex:02100103>根本不能被稱作海盜！連海盜殘渣都不能算！<hex:02100103>真該死……如果沒有你們的話……
-167,TEXT_CLSROG200_00146_JACKE_000_223,嗯，要恨我們的話，也很正常，<hex:02100103>不過，你們失敗的原因，並不在我們。
-168,TEXT_CLSROG200_00146_JACKE_000_224,既然你們壞了規矩，那就要做好被我們追殺的準備。<hex:02100103>……青之星我們就收下了。
-169,TEXT_CLSROG200_00146_MILALA_000_225,……下次找回秘寶的肯定是我！
-170,TEXT_CLSROG200_00146_JACKE_000_226,如果你還不肯放棄的話，就小心點，<hex:02100103>這次事件的幕後黑手，是個大人物。
-171,TEXT_CLSROG200_00146_MILALA_000_230,是個大人物？幕後黑手？<hex:02100103>這是怎麼回事？
-172,TEXT_CLSROG200_00146_MILALA_000_231,……還是不用告訴我了，<hex:02100103>我會自己找到答案的！<hex:02100103>下次我不會輸了！雙劍師！
-173,TEXT_CLSROG200_00146_PIRATE00146_000_240,該死……該死……<hex:02100103>等著瞧吧！海盜是不會輕易消失的！
-174,TEXT_CLSROG200_00146_JACKE_000_250,<hex:022903EB0203>啊……你也辛苦了。<hex:02100103>順利奪回青之星了呢。
-175,TEXT_CLSROG200_00146_JACKE_000_251,船上的戰鬥感覺如何？<hex:02100103>雙劍師的技能都是為了能迅速打倒敵人而專門設計的，<hex:02100103>但是隨便亂用也不是辦法。
-176,TEXT_CLSROG200_00146_JACKE_000_252,特別是跟隊友一起戰鬥的時候，要注意觀察戰況。<hex:02100103>有時候會需要暫時退回後方，接受隊友的支援等等，<hex:02100103>總之是要注意讓全體隊友都能持續進行攻擊。
-177,TEXT_CLSROG200_00146_JACKE_000_253,……想要奪回剩下的秘寶，必定會非常困難。<hex:02100103>還需要你變得更強才行。
-178,TEXT_CLSROG200_00146_JACKE_000_254,我對那個幕後黑手的「處刑人」有點眉目，<hex:02100103>真希望真正的幕後跟我想的不是一個人。
-179,TEXT_CLSROG200_00146_QIB_TODO001,打倒鬥犬家族的海盜們！
-180,TEXT_CLSROG200_00146_JACKE_BATTLETALK_01,很好，潛入成功了……他們還沒發現咱們！
-181,TEXT_CLSROG200_00146_JACKE_BATTLETALK_02,我去從船頭那邊偷襲他們，<hex:02100103>你們打倒船尾的2人後再匯合吧。
-182,TEXT_CLSROG200_00146_JACKE_BATTLETALK_03,（★未使用／削除予定★）
-183,TEXT_CLSROG200_00146_JACKE_BATTLETALK_04,該死……我不能就這麼……倒下……
-184,TEXT_CLSROG200_00146_VKEBBE_BATTLETALK_01,<hex:022903EB0203>，一起上吧！
-185,TEXT_CLSROG200_00146_VKEBBE_BATTLETALK_02,（★未使用／削除予定★）
-186,TEXT_CLSROG200_00146_VKEBBE_BATTLETALK_03,為什麼……會這麼乏力……
-187,TEXT_CLSROG200_00146_PIRATE_BATTLETALK_01,你、你們是誰？
-188,TEXT_CLSROG200_00146_PIRATEBOSS_BATTLETALK_01,該死的雙劍師……竟然找到了這裡……<hex:02100103>看我不把你們丟下海餵魚！
-189,TEXT_CLSROG200_00146_PIRATEBOSS_BATTLETALK_02,呃，真是難纏……<hex:02100103>那就打持久戰，看我弄死你們！
-190,TEXT_CLSROG200_00146_PIRATEBOSS_BATTLETALK_03,喂，快去船艙打開牢籠，<hex:02100103>把那傢伙給我帶過來！
+0,"TEXT_CLSROG200_00146_SEQ_00","Jacke appears eager to hunt down the Maelstrom's stolen treasures."
+1,"TEXT_CLSROG200_00146_SEQ_01","Jacke has accepted the challenge put to him by Captain Milala, and sent his rogues out to gather information on the daring theft. As Perimu sheds some light on the nature of the three treasures, however, V'kebbe suddenly appears with urgent news─it would seem that the Yellowjackets have uncovered some of the Maelstrom's stolen goods during a routine checkpoint inspection. Wishing to confirm the veracity of her tale, the guildmaster sends you and Underfoot to investigate the commotion in middle La Noscea. Head out to the La Thagran Checkpoint and rendezvous with Perimu Haurimu."
+2,"TEXT_CLSROG200_00146_SEQ_02","Perimu confirms that a peddler has indeed been apprehended for carrying merchandise stolen from the Maelstrom transport. Use your Hide ability to approach the Yellowjackets inspecting the cargo, and listen in on their progress."
+3,"TEXT_CLSROG200_00146_SEQ_03","You have learned that the seized cargo contained nothing of real value. Report to Perimu Haurimu near the La Thagran Checkpoint."
+4,"TEXT_CLSROG200_00146_SEQ_04","Perimu is relieved to hear that the treasures have yet to be found, but seems confused by the smuggler's intent. Find the black marketeer at Tiller's Rest, and uncover the truth behind the peddler's reasons for not avoiding the checkpoint."
+5,"TEXT_CLSROG200_00146_SEQ_05","You find Underfoot's underworld acquaintance and are forced to subdue his Qiqirn bodyguards. Approach the black marketeer at Tiller's Rest once more."
+6,"TEXT_CLSROG200_00146_SEQ_06","After questioning the shadowy deal broker, you realize that the hapless peddler was almost certainly intended to be caught. Much to Perimu's surprise, you also learn that the perpetrators of the raid─the Grinning Curs─have concealed themselves within the dreaded mists of the Doxy's Pull. Hurry back to the Rogues' Guild and report your discoveries to Jacke."
+7,"TEXT_CLSROG200_00146_SEQ_07","Upon hearing the revelations you uncovered at Tiller's Rest, Jacke immediately organizes an expedition into the Doxy's Pull. Travel to the Moraby Drydocks in lower La Noscea and join V'kebbe and the guildmaster in the hunt for the Grinning Curs."
+8,"TEXT_CLSROG200_00146_SEQ_08","You have defeated the Grinning Curs aboard their own ship, and reclaimed the extraordinary blue diamond known as the Cerulean Star. Speak with Jacke back at the Moraby Drydocks."
+9,"TEXT_CLSROG200_00146_SEQ_09","Though his musings for a suitable punishment are interrupted by the arrival of Captain Milala, Jacke is nevertheless content to release the Grinning Curs into Yellowjacket custody. Return to the Rogues' Guild and speak with Jacke concerning the future of what has apparently become a far more complicated job..."
+10,"TEXT_CLSROG200_00146_SEQ_10","According to the Grinning Cur captain, the remaining treasures are to be found in the hands of a mysterious group called the “Executioners.” Though not entirely certain of this new enemy's identity, Jacke appears sufficiently concerned to reiterate his desire to see you master your rogue skills. Continue with your training until your abilities have improved to the guildmaster's satisfaction.<hex:02100103><hex:02100103>※The next rogue quest will be available from Jacke upon reaching level 25."
+11,"TEXT_CLSROG200_00146_SEQ_11",""
+12,"TEXT_CLSROG200_00146_SEQ_12",""
+13,"TEXT_CLSROG200_00146_SEQ_13",""
+14,"TEXT_CLSROG200_00146_SEQ_14",""
+15,"TEXT_CLSROG200_00146_SEQ_15",""
+16,"TEXT_CLSROG200_00146_SEQ_16",""
+17,"TEXT_CLSROG200_00146_SEQ_17",""
+18,"TEXT_CLSROG200_00146_SEQ_18",""
+19,"TEXT_CLSROG200_00146_SEQ_19",""
+20,"TEXT_CLSROG200_00146_SEQ_20",""
+21,"TEXT_CLSROG200_00146_SEQ_21",""
+22,"TEXT_CLSROG200_00146_SEQ_22",""
+23,"TEXT_CLSROG200_00146_SEQ_23",""
+24,"TEXT_CLSROG200_00146_TODO_00","Speak with Perimu Haurimu near the La Thagran Checkpoint."
+25,"TEXT_CLSROG200_00146_TODO_01","Use Hide to gather information at the La Thagran Checkpoint."
+26,"TEXT_CLSROG200_00146_TODO_02","Report to Perimu Haurimu."
+27,"TEXT_CLSROG200_00146_TODO_03","Find the black marketeer at Tiller's Rest."
+28,"TEXT_CLSROG200_00146_TODO_04","Speak with the black marketeer."
+29,"TEXT_CLSROG200_00146_TODO_05","Speak with Jacke at the Rogues' Guild."
+30,"TEXT_CLSROG200_00146_TODO_06","Meet Jacke at the Moraby Drydocks and pursue the Grinning Curs."
+31,"TEXT_CLSROG200_00146_TODO_07","Speak with Jacke at the Moraby Drydocks."
+32,"TEXT_CLSROG200_00146_TODO_08","Speak with Jacke at the Rogues' Guild."
+33,"TEXT_CLSROG200_00146_TODO_09",""
+34,"TEXT_CLSROG200_00146_TODO_10",""
+35,"TEXT_CLSROG200_00146_TODO_11",""
+36,"TEXT_CLSROG200_00146_TODO_12",""
+37,"TEXT_CLSROG200_00146_TODO_13",""
+38,"TEXT_CLSROG200_00146_TODO_14",""
+39,"TEXT_CLSROG200_00146_TODO_15",""
+40,"TEXT_CLSROG200_00146_TODO_16",""
+41,"TEXT_CLSROG200_00146_TODO_17",""
+42,"TEXT_CLSROG200_00146_TODO_18",""
+43,"TEXT_CLSROG200_00146_TODO_19",""
+44,"TEXT_CLSROG200_00146_TODO_20",""
+45,"TEXT_CLSROG200_00146_TODO_21",""
+46,"TEXT_CLSROG200_00146_TODO_22",""
+47,"TEXT_CLSROG200_00146_TODO_23",""
+48,"TEXT_CLSROG200_00146_JACKE_000_000","Been practicin' yer dance steps, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>? 'Cause we're about ready to run rings 'round Captain Milala an' her swads."
+49,"TEXT_CLSROG200_00146_JACKE_000_001","The Yellowjackets've been pressin' their investigations into the treasures what was cloyed from that Maelstrom tub, but, as ye know, we've got our own network o' coves what don't miss naught o' the goin's-on about town."
+50,"TEXT_CLSROG200_00146_JACKE_000_002","As for the sharp end o' the job, it'll be you, me, Underfoot, an' the Stray. Let's get down to business, eh?"
+51,"TEXT_CLSROG200_00146_JACKE_000_003","V'kebbe's late to the feast, so I'll just make sure we're all on the same page for the now. When ye get down to it, we have two goals for this job: bite back them three treasures, an' mill the coves what cloyed 'em in the first place."
+52,"TEXT_CLSROG200_00146_JACKE_000_004","Ye can be sure that that Yellowjacket shrew'll be doin' her damndest to beat us to the marks─an' seein' as the fate o' the guild is at stake we'd best not drag our dew beaters on this one."
+53,"TEXT_CLSROG200_00146_JACKE_000_005","I say we grabble them baubles afore she's even lifted anchor, an' give her a proper reason to rage against us rogues!"
+54,"TEXT_CLSROG200_00146_PERIMUHAURIMU_000_006","Ye seem awful keen on this contest all of a sudden, Jacke."
+55,"TEXT_CLSROG200_00146_JACKE_000_007","Aye, well, here's the thing... I sent me a grievance to the thalassocracy regardin' the shrew's challenge, but them paper-shufflers don't care a whit as long as one of us gets the job done."
+56,"TEXT_CLSROG200_00146_JACKE_000_008","So I figured I'd sail <hex:021A020203>with<hex:021A020103> the wind, rather than against it. Besides, we wouldn't want to shirk our duties an' force poor Captain Milala to blunder about in the scary darkmans, now, would we?"
+57,"TEXT_CLSROG200_00146_PERIMUHAURIMU_000_009","...How very gentlemanly of ye."
+58,"TEXT_CLSROG200_00146_JACKE_000_010","Well, them's the cards what we've been dealt, ain't they? Now stow yer quips an' let's hear what ye've learned about them bloody treasures already!"
+59,"TEXT_CLSROG200_00146_PERIMUHAURIMU_000_011","Aye, the treasures... Accordin' to the manifest o' that Maelstrom vessel, we're lookin' to bite back the “Cerulean Star,” the “Silver Sorrows,” an' somethin' called the “Black Sarcophagus.”"
+60,"TEXT_CLSROG200_00146_PERIMUHAURIMU_000_012","Aside from the fancy names, I was able to whiddle a few more details. The “Cerulean Star,” for starters, is a big ol' blue diamond what shines like...well, like a star, I s'pose."
+61,"TEXT_CLSROG200_00146_PERIMUHAURIMU_000_013","Then we've got the “Silver Sorrows”─a pair of earrings what once graced the wattles of a sultana of Ul'dah. There's a tale there, but one what don't concern us at present."
+62,"TEXT_CLSROG200_00146_PERIMUHAURIMU_000_014","Lastly, this “Black Sarcophagus” thing... I'm afraid that that one remained a mystery no matter how much I poked an' prodded."
+63,"TEXT_CLSROG200_00146_PERIMUHAURIMU_000_015","...In any case, all three o' these trinkets was recorded as spoils from official privateerin' raids."
+64,"TEXT_CLSROG200_00146_PERIMUHAURIMU_000_016","Now, as ye know, a pirate'll usually sell his plunder through a reliable fence. Sometimes, though, holdin' an auction is the only way to off-load goods what is too extravagant or just too bleedin' rare for the average cull to deal in."
+65,"TEXT_CLSROG200_00146_PERIMUHAURIMU_000_017","Our three wondrous treasures fell into the “auction only” category. When the biddin' began in Aleport, the thalassocracy weighed in with its ample purse, made some unmatchable offers, then organized a tub for the merchandise to be shipped back to Limsa..."
+66,"TEXT_CLSROG200_00146_JACKE_000_018","An' that's when our marks swooped in an' picked their transport clean..."
+67,"TEXT_CLSROG200_00146_JACKE_000_019","I had a few whids with them Maelstrom sailors as survived the attack, an' they pointed the finger at the Grinnin' Curs."
+68,"TEXT_CLSROG200_00146_JACKE_000_020","Problem is, not one cull's seen hide nor hair o' the Curs─not to mention their bloody ship─since the raid."
+69,"TEXT_CLSROG200_00146_VKEBBE_000_021","<huff> Sorry I'm late, Jacke... <puff> ...But ye'll want to hear this!"
+70,"TEXT_CLSROG200_00146_VKEBBE_000_022","Some o' the cargo what was cloyed from that transport was just found durin' a routine inspection at the La Thagran Checkpoint!"
+71,"TEXT_CLSROG200_00146_JACKE_000_023","La Thagran!? ...Have the Curs made landfall, then?"
+72,"TEXT_CLSROG200_00146_JACKE_000_024","An' what o' the treasures? Any mention o' them?"
+73,"TEXT_CLSROG200_00146_VKEBBE_000_025","Naught that I've heard. But the 'Jackets ain't done shakin' out all the boxes yet."
+74,"TEXT_CLSROG200_00146_JACKE_000_026","Then we'd better get eyes out there, quick-like. <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, Underfoot, yer fresh for a run, ain't ye?"
+75,"TEXT_CLSROG200_00146_PERIMUHAURIMU_000_027","Come on, <hex:02080FE905FF05>lass<hex:FF05>colt<hex:03>, I'll race ye out to the checkpoint."
+76,"TEXT_CLSROG200_00146_VKEBBE_000_030","Ye've never heard o' the Grinnin' Curs? They're a pack o' rabid buccaneers what used to belong to the Salthounds."
+77,"TEXT_CLSROG200_00146_VKEBBE_000_031","Back in the day, the Salthounds had the crew to fill more'n a few ships... Aye, there was no other pirate gang what could match 'em when it came to sheer numbers."
+78,"TEXT_CLSROG200_00146_VKEBBE_000_032","But when the Admiral came to power an' passed her famous law, most of the 'Hounds chose a life on land... An' those what spat on the law became the Curs. Simple as that."
+79,"TEXT_CLSROG200_00146_PERIMUHAURIMU_000_040","I won our race! Ye owe me a pint, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! ...Japes aside, though, it looks like V'kebbe was right about the cargo."
+80,"TEXT_CLSROG200_00146_PERIMUHAURIMU_000_041","From what I've been able to catch from them swads at the gate, it seems a peddler was boned for carryin' goods what was known to be aboard that transport."
+81,"TEXT_CLSROG200_00146_PERIMUHAURIMU_000_042","They carted the poor sod away in chains, but the cargo itself is still here. ...I saw a pair o' 'Jackets carryin' boxes up that wooden ramp."
+82,"TEXT_CLSROG200_00146_PERIMUHAURIMU_000_043","We <hex:021A020203>need<hex:021A020103> to know what's in them crates. I get the feelin' they won't open their gans for the askin', though─not while this fool's challenge is goin' on. Do ye think ye could skulk over there an' see if they've found them treasures yet?"
+83,"TEXT_CLSROG200_00146_PERIMUHAURIMU_000_050","A couple o' Yellowjackets are riflin' through the cargo up that ramp there. Sneak in as close as ye dare, an' whiddle what's become of them baubles."
+84,"TEXT_CLSROG200_00146_SYSTEM_000_060","The Yellowjackets are discussing the contents of the crates..."
+85,"TEXT_CLSROG200_00146_YELLOWJACKETMAN00146_000_061","This's all junk. No diamond, no earrings, an' no bloody Black Sarcophagus. Looks like we'll have to lean hard on that skinny peddler if we're to find them treasures."
+86,"TEXT_CLSROG200_00146_YELLOWJACKETWOMAN00146_000_062","The sergeant says the merchant's still pleading ignorance. Claims he was hired to carry the goods through the checkpoint and naught else."
+87,"TEXT_CLSROG200_00146_YELLOWJACKETMAN00146_000_063","What a pile o' pugil shite! I'm guessin' the pirates've split the cargo an' are tryin' their luck at every checkpoint. Captain Milala's already given orders to double the guard and inspect every cart an' wagon what comes through."
+88,"TEXT_CLSROG200_00146_YELLOWJACKETMAN00146_000_070","That's far enough! We can't be havin' any unauthorized persons interferin' with our official investigations. Now move along!"
+89,"TEXT_CLSROG200_00146_SYSTEM_000_071","The Yellowjacket soldiers appear to be on high alert. Move some distance away, then approach them again while cloaked by your Hide ability."
+90,"TEXT_CLSROG200_00146_SYSTEM_000_072","Two Yellowjacket soldiers are inspecting the seized cargo. Approach them while cloaked by your Hide ability and attempt to listen in on their progress."
+91,"TEXT_CLSROG200_00146_YELLOWJACKETMAN00146_000_080","We can't be havin' any unauthorized persons interferin' with our official investigations. Now move along!"
+92,"TEXT_CLSROG200_00146_YELLOWJACKETWOMAN00146_000_085","Curious about what's in the boxes, are you? Well, why don't you go be curious from way over there and let us do our jobs."
+93,"TEXT_CLSROG200_00146_PERIMUHAURIMU_000_090","Hmmm, so they've found naught o' value, eh? Bene. Thought we'd lost the contest afore we'd even properly started."
+94,"TEXT_CLSROG200_00146_PERIMUHAURIMU_000_091","But be that as it may, somethin' don't add up here... Why would ye order a cull to carry the goods <hex:021A020203>through<hex:021A020103> the checkpoint? No smuggler is <hex:021A020203>that<hex:021A020103> daft, surely!"
+95,"TEXT_CLSROG200_00146_PERIMUHAURIMU_000_092","An' even if by some miracle o' the gods ye squirmed through La Thagran without raisin' a fuss, why would ye risk takin' merchandise back to the city what ye cloyed it from?"
+96,"TEXT_CLSROG200_00146_PERIMUHAURIMU_000_093","No, there's a bigger picture here, an' we need to take a step back to see it..."
+97,"TEXT_CLSROG200_00146_PERIMUHAURIMU_000_094","Assumin' the Curs hired this peddler to do their dirty work, there'll be someone in the shadows as brokered the deal. An' I just happen to know a cove what makes it his business to oversee these kinds o' shady arrangements."
+98,"TEXT_CLSROG200_00146_PERIMUHAURIMU_000_095","The thing is, this black marketeer bloke changes his haunts dependin' on how the breeze blows. Quite literally, in fact. I seem to recall the Navigator's Veil bein' shifted by a westerly this mornin', so that'd put him..."
+99,"TEXT_CLSROG200_00146_PERIMUHAURIMU_000_096","...Ah, at Tiller's Rest. Nice an' close. Why don't we go ask him a few questions afore we head back to the guild?"
+100,"TEXT_CLSROG200_00146_BLACKMERCHANT00146_000_100","I pride myself on my memory for faces, but yours is unknown to me. Are you an earnest customer...or an inquisitive annoyance? I must be sure of your intentions."
+101,"TEXT_CLSROG200_00146_BALLOON_000_101","Masterful master cannot<hex:02100103>abide foolish fools!"
+102,"TEXT_CLSROG200_00146_BALLOON_000_102","Annoying flea should flee!"
+103,"TEXT_CLSROG200_00146_BLACKMERCHANT00146_000_110","Gyahahaha! <wheeze> The dance is old, but the name is new! Put away your daggers, rogue."
+104,"TEXT_CLSROG200_00146_BLACKMERCHANT00146_000_111","I have peddled my wares to your kind since the Upright Thieves stalked the night. Speak! What would you have of this humble merchant?"
+105,"TEXT_CLSROG200_00146_PERIMUHAURIMU_000_112","Still tormentin' the colts, eh, granddad? We've come for information on a smugglin' job."
+106,"TEXT_CLSROG200_00146_PERIMUHAURIMU_000_113","There was this peddler what was caught at the La Thagran Checkpoint movin' merchandise for the Grinnin' Curs. Pleaded innocence even when he had the screws put to him. Ye wouldn't know aught about that deal, would ye?"
+107,"TEXT_CLSROG200_00146_BLACKMERCHANT00146_000_114","Every last sordid detail. Not a single grain of stolen sand passes through the shadows without my knowledge!"
+108,"TEXT_CLSROG200_00146_BLACKMERCHANT00146_000_115","...But such prickly wisdom lodges tightly in one's throat. What have you brought to ease the pain of its passage?"
+109,"TEXT_CLSROG200_00146_PERIMUHAURIMU_000_116","Spare me the theatrics, granddad. Here's yer usual purse."
+110,"TEXT_CLSROG200_00146_BLACKMERCHANT00146_000_117","The sum is paid! The deal is made! May my answers sate your fickle hunger."
+111,"TEXT_CLSROG200_00146_BLACKMERCHANT00146_000_118","Your hapless peddler was indeed innocent. He was but a beast of burden employed by associates of the Grinning Curs, and likely knew naught of his freight's tainted nature."
+112,"TEXT_CLSROG200_00146_BLACKMERCHANT00146_000_119","...A pawn, if you will; a convenient decoy. There are those amongst my acquaintances who specialize in providing such services."
+113,"TEXT_CLSROG200_00146_PERIMUHAURIMU_000_120","Aye, that's what I thought─the Curs <hex:021A020203>wanted<hex:021A020103> that cull to get caught. An' now the 'Jackets have had a taste, they'll waste their time yafflin' every shite-pie what comes through their checkpoints."
+114,"TEXT_CLSROG200_00146_PERIMUHAURIMU_000_121","Meanwhile, the real treasures are hidden away in the darkmans, along with the Grinnin' Curs."
+115,"TEXT_CLSROG200_00146_BLACKMERCHANT00146_000_122","...Not the “darkmans,” master rogue. The mist."
+116,"TEXT_CLSROG200_00146_BLACKMERCHANT00146_000_123","Aside from the traveling merchant, the Curs' associates have spent coin on another piece for this little game..."
+117,"TEXT_CLSROG200_00146_BLACKMERCHANT00146_000_124","...A navigator. One who is practiced in piloting a vessel through the Doxy's Pull."
+118,"TEXT_CLSROG200_00146_PERIMUHAURIMU_000_125","The Doxy's...!? The gods only know how many ships've sailed into that fog soup an' never come out again... An' <hex:021A020203>that's<hex:021A020103> where ye say the Curs have gone to ground!?"
+119,"TEXT_CLSROG200_00146_PERIMUHAURIMU_000_126","Now there's a trick what took some bollocks. Once their hunted tub was sittin' dimber in the mist, though, it would've been easy to have these “associates” o' theirs ferry the junk goods to La Noscea."
+120,"TEXT_CLSROG200_00146_PERIMUHAURIMU_000_127","Then the canny coves just needed to wait for the peddler to get boned, an' draw the glazes o' the Yellowjackets inland. We need to strike now... As soon as they learn the coast is clear, they'll flee for open waters!"
+121,"TEXT_CLSROG200_00146_BLACKMERCHANT00146_000_128","A fair appraisal of events. Now that you know the location of your marks, however, it will not be so difficult to track them down."
+122,"TEXT_CLSROG200_00146_BLACKMERCHANT00146_000_129","The Doxy's Pull was once an impenetrable shroud, but ever since the Calamity the mists are far less...constant."
+123,"TEXT_CLSROG200_00146_BLACKMERCHANT00146_000_130","Narrow your search to the heaviest banks, and you will soon uncover those who wish to remain unseen."
+124,"TEXT_CLSROG200_00146_BLACKMERCHANT00146_000_131","But now, a warning: the mists conceal other dangers besides the dogs you seek. A careless step may land you upon the chopping block."
+125,"TEXT_CLSROG200_00146_PERIMUHAURIMU_000_132","The “chopping block”!? Ye can't mean..."
+126,"TEXT_CLSROG200_00146_PERIMUHAURIMU_000_133","...Seems I've found meself another lead to look into. You hurry on back to Jacke an' tell him what we've learned so far."
+127,"TEXT_CLSROG200_00146_BLACKMERCHANT00146_000_140","I hope we might do business again, young rogue. Pray be mindful not to─ahem─lose your head in the course of your duty. Gyahahaha..."
+128,"TEXT_CLSROG200_00146_JACKE_000_150","About time, <hex:02080EE905FF05>lass<hex:FF04>lad<hex:03>. Ye was gone so long I almost sent the Stray after ye. What happened to Underfoot?"
+129,"TEXT_CLSROG200_00146_JACKE_000_151","...So our marks an' their bitten baubles are snug inside the Doxy's Pull, eh?"
+130,"TEXT_CLSROG200_00146_JACKE_000_152","I'll not discount the old man's warnin', but we may not have a benar chance to crash the Curs an' grabble them treasures. We board their ship right now─you, me, an' V'kebbe."
+131,"TEXT_CLSROG200_00146_JACKE_000_153","...I s'pose we'll be needin' ourselves a tub for the voyage. I'll have whids with Swarsynt, an' see what the Drydocks can spare us by way of a ship an' a reliable crew. Get yer kit together an' meet us there."
+132,"TEXT_CLSROG200_00146_JACKE_000_160","The Doxy's Pull ain't no place to rush into, but we've little choice. We'll set sail from the Drydocks as soon as we're all ready to go."
+133,"TEXT_CLSROG200_00146_JACKE_000_170","All right, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>? I've pulled in some favors, an' there's a crew what'll get us close enough to scamper aboard the Curs' vessel."
+134,"TEXT_CLSROG200_00146_JACKE_000_171","It'll be cramped up on that deck─if we try to mill the whole lot at once, we'll soon find ourselves up against the rails. So we go in quick an' quiet, an' try to knock 'em off a few at a time."
+135,"TEXT_CLSROG200_00146_JACKE_000_172","Well, <hex:02080FE905FF05>lass<hex:FF05>colt<hex:03>? Are ye eager to test yer sea legs?"
+136,"TEXT_CLSROG200_00146_VKEBBE_000_180","Jacke, I found me one o' them treasures! Unless there's another fist-sized blue diamond on board, it's gotta be the Cerulean Star."
+137,"TEXT_CLSROG200_00146_VKEBBE_000_181","As for them other two baubles... I've tossed the cabins an' been through the hold ilm by ilm, but there's naught else here."
+138,"TEXT_CLSROG200_00146_JACKE_000_182","Well, we'll just have to ask all sweet-like, won't we? Spit it out, Cur: where're ye keepin' the rest o' yer treasures?"
+139,"TEXT_CLSROG200_00146_PIRATE00146_000_183","Hah! Ye think I'd spill me guts for the likes o' you, rogue?"
+140,"TEXT_CLSROG200_00146_JACKE_000_184","Maybe ye wouldn't, at that. ...But what about this partner yer workin' with?"
+141,"TEXT_CLSROG200_00146_PIRATE00146_000_185","'Ow'd ye─? We don't need no partner!"
+142,"TEXT_CLSROG200_00146_JACKE_000_186","So, yer tellin' me this was all yer own idea? Ye woke up one day an' decided ye'd attack a <hex:021A020203>Maelstrom<hex:021A020103> transport right off the coast of Aleport, then disappear into the lovin' embrace o' the Doxy's Pull?"
+143,"TEXT_CLSROG200_00146_JACKE_000_187","...Not exactly yer style, is it?"
+144,"TEXT_CLSROG200_00146_JACKE_000_188","The Grinnin' Curs are too bleedin' famous for bein' the crew what turned their snouts up at privateerin' in favor o' keepin' to the old ways."
+145,"TEXT_CLSROG200_00146_JACKE_000_189","Ye've only escaped the Yellowjackets' grip this long by crawlin' on yer bellies an' snatchin' scraps what fell from the table. Ye ain't the type to sink yer teeth into a navy-owned vessel, no matter the prize."
+146,"TEXT_CLSROG200_00146_PIRATE00146_000_190","...Aye, well, maybe there ain't no profit in bein' cautious no more."
+147,"TEXT_CLSROG200_00146_PIRATE00146_000_191","The age o' pirates is swift comin' to an end. Merlwyb won't be stopped─not by a piddlin' little crew like mine."
+148,"TEXT_CLSROG200_00146_PIRATE00146_000_192","That's why we've thrown our lot in with the Executioners."
+149,"TEXT_CLSROG200_00146_PIRATE00146_000_193","That blue rock was just our share o' the loot─the “scraps from the table,” like ye said. If ye want them other trinkets, then ye'll 'ave to take it up with our new mates."
+150,"TEXT_CLSROG200_00146_JACKE_000_194","...One job at a time, <hex:02080EE905FF05>lass<hex:FF04>lad<hex:03>. First, we need to get these stinkin' coves an' their tub back to the docks."
+151,"TEXT_CLSROG200_00146_VKEBBE_000_200","The job just got proper thorny... But at least we've grabbled one o' them damn treasures."
+152,"TEXT_CLSROG200_00146_PIRATE00146_000_201","Piss on you for takin' our ship! Should've set 'er on fire while I still 'ad the chance..."
+153,"TEXT_CLSROG200_00146_JACKE_000_202","There's still work to be done here, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. We've yet to decide what to do with these bleedin' Curs..."
+154,"TEXT_CLSROG200_00146_JACKE_000_210","Puttin' aside the issue o' who gave the orders, there's no doubt that these was the coves as raided that Maelstrom ship. Now for a punishment what fits the crime..."
+155,"TEXT_CLSROG200_00146_MILALA_000_211","I was informed that a certain well-known pirate ship was spotted weighing anchor at the Moraby Drydocks. ...I assume that this was your work?"
+156,"TEXT_CLSROG200_00146_JACKE_000_212","Aye, ye missed all the excitement, Captain. But never ye mind: the Cerulean Star is back an' bob in our sneaky little fambles."
+157,"TEXT_CLSROG200_00146_MILALA_000_213","...Hmph!"
+158,"TEXT_CLSROG200_00146_MILALA_000_214","And these must be the Grinning Curs..."
+159,"TEXT_CLSROG200_00146_MILALA_000_215","Degenerate fiends! How dare you ply your filthy trade in Lominsan waters! How many innocent sailors were massacred that you might sate your vile avarice!?"
+160,"TEXT_CLSROG200_00146_MILALA_000_216","Every one of your kind ought to be lined up and shot! A musket ball is the only answer for this rampant display of lawlessness!"
+161,"TEXT_CLSROG200_00146_JACKE_000_217","Wait, wait, wait, do ye mean to just execute 'em here on the bloody docks!? At least take the buggers into custody first."
+162,"TEXT_CLSROG200_00146_JACKE_000_218","Handin' 'em over to ye for <hex:021A020203>lawful<hex:021A020103> punishment'll satisfy the demands of the code just as well. We've already got the answers to our questions, so feel free to take 'em away."
+163,"TEXT_CLSROG200_00146_MILALA_000_219","Do not presume to give me orders, rogue! You only managed to capture these villains and their ill-gotten treasure by employing unsavory and unconscionable means. Why, you're naught more than pirates yourselves!"
+164,"TEXT_CLSROG200_00146_PIRATE00146_000_220","These bastards ain't worth a true pirate's spit!"
+165,"TEXT_CLSROG200_00146_PIRATE00146_000_221","The Upright Thieves was formed to protect us from ourselves! Now they're just 'untin' dogs for the Admiral!"
+166,"TEXT_CLSROG200_00146_PIRATE00146_000_222","Merlwyb yanks the leash, an' another buccaneer disappears. You rogues are traitors to yer own kind! If it hadn't been for you..."
+167,"TEXT_CLSROG200_00146_JACKE_000_223","Aye? Go on, then. Blame me an' me coves for yer own failures."
+168,"TEXT_CLSROG200_00146_JACKE_000_224","Ye knew what ye was about when ye defied the code; ye <hex:021A020203>knew<hex:021A020103> that we'd be after ye. ...We're done here."
+169,"TEXT_CLSROG200_00146_MILALA_000_225","There are still two treasures left, rogue! And I mean to claim them both."
+170,"TEXT_CLSROG200_00146_JACKE_000_226","I'd reconsider this contest of yers, Captain. Turns out this fish we're tryin' to hook is a shark...an' it might just swallow ye whole."
+171,"TEXT_CLSROG200_00146_MILALA_000_230","What shark is he speaking of? And how could any pirate challenge the might of the Yellowjackets?"
+172,"TEXT_CLSROG200_00146_MILALA_000_231","No, he seeks but to unnerve me. I'll wring the truth from these Grinning Curs, and we'll see who triumphs over whom!"
+173,"TEXT_CLSROG200_00146_PIRATE00146_000_240","Ye think this is over!? The pirates'll 'ave their day again!"
+174,"TEXT_CLSROG200_00146_JACKE_000_250","Bene work on that ship, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. First blood is ours!"
+175,"TEXT_CLSROG200_00146_JACKE_000_251","How'd ye take to fightin' a-sea? There are few as can drop an opponent as quick as a rogue, but mind ye don't exhaust yerself just flailin' yer blades at the tougher coves."
+176,"TEXT_CLSROG200_00146_JACKE_000_252","An' that goes double for when ye've mates on yer flanks. If ye notice yerself startin' to flag, there's naught wrong with pullin' back from time to time an' staggerin' yer attacks with each other to keep the pressure on."
+177,"TEXT_CLSROG200_00146_JACKE_000_253","...I've said it afore, <hex:02080FE905FF05>lass<hex:FF05>colt<hex:03>, but I'll need ye sharp enough to carve steel for what's to come. I'm afraid this'll be more of a challenge than even what that little shrew was bargainin' for."
+178,"TEXT_CLSROG200_00146_JACKE_000_254","That's assumin' the Curs wasn't lyin' about the Executioners...and the Executioners are who I bloody think they are. 'Twixt you and me, though, I'm hopin' the name is just some laughable coincidence..."
+179,"TEXT_CLSROG200_00146_QIB_TODO001","Defeat the Grinning Curs!"
+180,"TEXT_CLSROG200_00146_JACKE_BATTLETALK_01","Right, no one's seen us so far.<hex:02100103>Let's get to work."
+181,"TEXT_CLSROG200_00146_JACKE_BATTLETALK_02","I'll sink me stabbers in the captain.<hex:02100103>Those two back there are yers."
+182,"TEXT_CLSROG200_00146_JACKE_BATTLETALK_03",""
+183,"TEXT_CLSROG200_00146_JACKE_BATTLETALK_04","Ugh... I knew it was a long shot..."
+184,"TEXT_CLSROG200_00146_VKEBBE_BATTLETALK_01","Follow me, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>!"
+185,"TEXT_CLSROG200_00146_VKEBBE_BATTLETALK_02",""
+186,"TEXT_CLSROG200_00146_VKEBBE_BATTLETALK_03","Me daggers...never felt so heavy..."
+187,"TEXT_CLSROG200_00146_PIRATE_BATTLETALK_01","R-Rogues!? All the bloody way out 'ere!?"
+188,"TEXT_CLSROG200_00146_PIRATEBOSS_BATTLETALK_01","I don't know 'ow ye found us...<hex:02100103>But they'll never find what's left o' you!"
+189,"TEXT_CLSROG200_00146_PIRATEBOSS_BATTLETALK_02","Slippery bastards!<hex:02100103>Let's see just 'ow quick ye are!"
+190,"TEXT_CLSROG200_00146_PIRATEBOSS_BATTLETALK_03","Open the cage!<hex:02100103>Let the Growler off 'is chain!"

@@ -2,68 +2,68 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_BANVAN604_02200_SEQ_00,<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整（限定職業）<hex:0249020103><hex:0248020103><hex:02100103>西風島的穆納瓦努好像有什麼煩惱。
-1,TEXT_BANVAN604_02200_SEQ_01,※本任務為<hex:024804F201FC03><hex:024904F201FD03><hex:0249020103><hex:0248020103> 等級調整（限定職業）任務，<hex:02100103>　需要與接受任務時的職業相同才可繼續進行任務。<hex:02100103><hex:02100103>穆納瓦努告訴冒險者，袞杜族正面臨著危機。和西風島的群雲利努瓦努談談。
-2,TEXT_BANVAN604_02200_SEQ_02,利努瓦努委託冒險者趕走威脅獵人的溫杜族的暴徒。和西風島的商人魯納瓦努談談，騎上騰雲蛇。
-3,TEXT_BANVAN604_02200_SEQ_03,騎著騰雲蛇，對藍天窗的溫杜族的暴徒使用突風。<hex:02100103><hex:02100103>※和西風島的商人魯納瓦努對話即可騎乘騰雲蛇。
-4,TEXT_BANVAN604_02200_SEQ_04,對溫杜族的暴徒使用了突風，但他仍然沒有放棄。再次對藍天窗的溫杜族的暴徒使用突風。
-5,TEXT_BANVAN604_02200_SEQ_05,再次對溫杜族的暴徒使用了突風，但他還沒受到教訓。再一次對瓦納溫杜集落的溫杜族的暴徒使用突風。
-6,TEXT_BANVAN604_02200_SEQ_06,暴徒終於撤退了。向西風島的群雲利努瓦努報告。
-7,TEXT_BANVAN604_02200_SEQ_07,向利努瓦努報告完畢，並受到了感謝。希望有朝一日袞杜族強大到看了溫杜族的太陽之舞也不退縮。在那之前繼續幫助他們。
-8,TEXT_BANVAN604_02200_SEQ_08,
-9,TEXT_BANVAN604_02200_SEQ_09,
-10,TEXT_BANVAN604_02200_SEQ_10,
-11,TEXT_BANVAN604_02200_SEQ_11,
-12,TEXT_BANVAN604_02200_SEQ_12,
-13,TEXT_BANVAN604_02200_SEQ_13,
-14,TEXT_BANVAN604_02200_SEQ_14,
-15,TEXT_BANVAN604_02200_SEQ_15,
-16,TEXT_BANVAN604_02200_SEQ_16,
-17,TEXT_BANVAN604_02200_SEQ_17,
-18,TEXT_BANVAN604_02200_SEQ_18,
-19,TEXT_BANVAN604_02200_SEQ_19,
-20,TEXT_BANVAN604_02200_SEQ_20,
-21,TEXT_BANVAN604_02200_SEQ_21,
-22,TEXT_BANVAN604_02200_SEQ_22,
-23,TEXT_BANVAN604_02200_SEQ_23,
-24,TEXT_BANVAN604_02200_TODO_00,和群雲利努瓦努對話
-25,TEXT_BANVAN604_02200_TODO_01,和商人魯納瓦努對話
-26,TEXT_BANVAN604_02200_TODO_02,騎著騰雲蛇對溫杜族的暴徒使用突風
-27,TEXT_BANVAN604_02200_TODO_03,再次騎著騰雲蛇對溫杜族的暴徒使用突風
-28,TEXT_BANVAN604_02200_TODO_04,再一次騎著騰雲蛇對溫杜族的暴徒使用突風
-29,TEXT_BANVAN604_02200_TODO_05,向群雲利努瓦努報告
-30,TEXT_BANVAN604_02200_TODO_06,
-31,TEXT_BANVAN604_02200_TODO_07,
-32,TEXT_BANVAN604_02200_TODO_08,
-33,TEXT_BANVAN604_02200_TODO_09,
-34,TEXT_BANVAN604_02200_TODO_10,
-35,TEXT_BANVAN604_02200_TODO_11,
-36,TEXT_BANVAN604_02200_TODO_12,
-37,TEXT_BANVAN604_02200_TODO_13,
-38,TEXT_BANVAN604_02200_TODO_14,
-39,TEXT_BANVAN604_02200_TODO_15,
-40,TEXT_BANVAN604_02200_TODO_16,
-41,TEXT_BANVAN604_02200_TODO_17,
-42,TEXT_BANVAN604_02200_TODO_18,
-43,TEXT_BANVAN604_02200_TODO_19,
-44,TEXT_BANVAN604_02200_TODO_20,
-45,TEXT_BANVAN604_02200_TODO_21,
-46,TEXT_BANVAN604_02200_TODO_22,
-47,TEXT_BANVAN604_02200_TODO_23,
-48,TEXT_BANVAN604_02200_02200_MUNAVANU_000_001,怎麼辦、怎麼辦，<hex:022903EB0203>，<hex:02100103>我們現在就像永不消散的濃霧一樣煩惱。
-49,TEXT_BANVAN604_02200_02200_MUNAVANU_000_002,能不能請你去和利努瓦努大人談談，<hex:02100103>看看有沒有辦法解決我們袞杜族的煩惱。
-50,TEXT_BANVAN604_02200_02200_MUNAVANU_000_010,
-51,TEXT_BANVAN604_02200_02200_LINUVANU_000_020,可惡、可惡，冷酷的溫杜族！<hex:02100103>竟敢威脅袞杜族的獵人，並把他們趕跑！<hex:02100103>我心中的怒氣就像那緩緩升起的騰雲一般越積越多！
-52,TEXT_BANVAN604_02200_02200_LINUVANU_000_021,<hex:022903EB0203>，拜託你，<hex:02100103>去幫我們趕跑那溫杜族的暴徒吧！
-53,TEXT_BANVAN604_02200_02200_LINUVANU_000_022,只要跟商人魯納瓦努說一聲，就能借用騰雲蛇了。<hex:02100103>對著溫杜族的暴徒使用突風，<hex:02100103>把那個討厭的傢伙吹跑！
-54,TEXT_BANVAN604_02200_02200_LINUVANU_000_025,只要跟商人魯納瓦努說一聲，就能借用騰雲蛇了。<hex:02100103>對著溫杜族的暴徒使用突風，<hex:02100103>把那個討厭的傢伙吹跑！
-55,TEXT_BANVAN604_02200_02200_LUNAVANU_000_030,你好、你好，你想借用騰雲蛇？<hex:02100103>那我就把我精心培育的騰雲蛇借給你好了。<hex:02100103>它能吹出有如颱風般強烈的「突風」喲！
-56,TEXT_BANVAN604_02200_02200_VUNDU02200_000_031,怎麼樣、怎麼樣！<hex:02100103>怕了我的太陽之舞了吧！<hex:02100103>哈哈哈！哈哈哈哈哈！
-57,TEXT_BANVAN604_02200_02200_VUNDU02200_000_032,唔！<hex:02100103>混賬、混賬，竟然敢妨礙我跳太陽之舞！<hex:02100103>不過就這點小風，是趕不走我的……
-58,TEXT_BANVAN604_02200_02200_VUNDU02200_000_040,我、我可不怕你。<hex:02100103>我就像落地生根的大樹一樣，一動也不動！
-59,TEXT_BANVAN604_02200_02200_VUNDU02200_000_041,嗚啊！<hex:02100103>哎喲、哎喲，竟然又來了……<hex:02100103>不過就這點小風，是教訓不了我的！
-60,TEXT_BANVAN604_02200_02200_VUNDU02200_000_050,跳啊！跳啊！<hex:02100103>嗷嗷嗷嗷嗷……
-61,TEXT_BANVAN604_02200_02200_VUNDU02200_000_051,哎喲！<hex:02100103>我認輸、我認輸！<hex:02100103>這麼大的風，沒法再跳了。撤退！
-62,TEXT_BANVAN604_02200_02200_LINUVANU_000_060,你回來了、你回來了！<hex:02100103>就算是那粗魯的溫杜族的暴徒，<hex:02100103>也耐不住我們的突風！
-63,TEXT_BANVAN604_02200_02200_LINUVANU_000_061,這下終於可以集中精神打獵了。<hex:02100103>不過，見了那種程度的太陽之舞就嚇得屁滾尿流……<hex:02100103>看來我要好好訓練一下獵人們了……
-64,TEXT_BANVAN604_02200_02200_LINUVANU_000_062,我們要向你學習，<hex:02100103>讓自己也變得像龍捲風一樣強大。<hex:02100103>謝謝你教會我這個道理。
+0,"TEXT_BANVAN604_02200_SEQ_00","Muna Vanu is lost in a sea of troubles.<hex:02100103>※The difficulty of this quest will be synced to your current level."
+1,"TEXT_BANVAN604_02200_SEQ_01","Despite the Gundu's best efforts, they are still subject to intermittent Vundu harassment. At a loss as to how to deal with this himself, Muna Vanu asks that you speak with Linu Vanu, and find out how you can assist in the defense of his tribe and village.<hex:02100103><hex:02100103>※Please note that the difficulty of this quest has been synced to your current level. Furthermore, you may not proceed with a class or job that is different from when you accepted this quest. "
+2,"TEXT_BANVAN604_02200_SEQ_02","After speaking with Linu Vanu, you learn that a rough and violent Vundu has been driving Gundu hunters from Gundu land. He asks you to help in letting this Vundu brute know firsthand the shame of being driven from his own land─by chasing him from his home with violent blasts of wind from a trained sanuwa. Speak with Luna Vanu. He will gladly supply you with a sanuwa to do just that."
+3,"TEXT_BANVAN604_02200_SEQ_03","Eager to help give the Vundu a taste of their own medicine, Luna Vanu provides you with what he claims is the strongest sanuwa in the village. Now find the Vundu brute and use the sanuwa to buffet him with wind.<hex:02100103><hex:02100103>※Speak with Luna Vanu in Ok' Gundu Nakki to mount a sanuwa."
+4,"TEXT_BANVAN604_02200_SEQ_04","You blast the Vundu brute with the full force of the sanuwa's attack, but he merely relocates, continuing his activities elsewhere. Seek him out again and buffet him once again with another flurry from the sanuwa."
+5,"TEXT_BANVAN604_02200_SEQ_05","The Vundu brute stands strong in the face of yet another onslaught from your sanuwa. After speaking a few words of defiance, he relocates yet again. Track him down once more and show him that you will not give up so easily."
+6,"TEXT_BANVAN604_02200_SEQ_06","You buffet the Vundu brute one last time. With no end in sight to these attacks, the bully loses heart and flees. Report back to Linu Vanu that this thug has now been put in his place."
+7,"TEXT_BANVAN604_02200_SEQ_07","Linu Vanu is pleased with your work and grateful that his tribe's hunters need no longer fear assault by this violent Vundu warrior. He does note, however, that these hunters would do well to train ever harder to master the sundrop dance, such that they may defend themselves when you are not around to do so for them."
+8,"TEXT_BANVAN604_02200_SEQ_08",""
+9,"TEXT_BANVAN604_02200_SEQ_09",""
+10,"TEXT_BANVAN604_02200_SEQ_10",""
+11,"TEXT_BANVAN604_02200_SEQ_11",""
+12,"TEXT_BANVAN604_02200_SEQ_12",""
+13,"TEXT_BANVAN604_02200_SEQ_13",""
+14,"TEXT_BANVAN604_02200_SEQ_14",""
+15,"TEXT_BANVAN604_02200_SEQ_15",""
+16,"TEXT_BANVAN604_02200_SEQ_16",""
+17,"TEXT_BANVAN604_02200_SEQ_17",""
+18,"TEXT_BANVAN604_02200_SEQ_18",""
+19,"TEXT_BANVAN604_02200_SEQ_19",""
+20,"TEXT_BANVAN604_02200_SEQ_20",""
+21,"TEXT_BANVAN604_02200_SEQ_21",""
+22,"TEXT_BANVAN604_02200_SEQ_22",""
+23,"TEXT_BANVAN604_02200_SEQ_23",""
+24,"TEXT_BANVAN604_02200_TODO_00","Speak with Linu Vanu."
+25,"TEXT_BANVAN604_02200_TODO_01","Speak with Luna Vanu."
+26,"TEXT_BANVAN604_02200_TODO_02","Ride a sanuwa and use its Buffet ability on the Vundu brute."
+27,"TEXT_BANVAN604_02200_TODO_03","Ride a sanuwa and use its Buffet ability on the Vundu brute."
+28,"TEXT_BANVAN604_02200_TODO_04","Ride a sanuwa and use its Buffet ability on the Vundu brute."
+29,"TEXT_BANVAN604_02200_TODO_05","Report to Linu Vanu."
+30,"TEXT_BANVAN604_02200_TODO_06",""
+31,"TEXT_BANVAN604_02200_TODO_07",""
+32,"TEXT_BANVAN604_02200_TODO_08",""
+33,"TEXT_BANVAN604_02200_TODO_09",""
+34,"TEXT_BANVAN604_02200_TODO_10",""
+35,"TEXT_BANVAN604_02200_TODO_11",""
+36,"TEXT_BANVAN604_02200_TODO_12",""
+37,"TEXT_BANVAN604_02200_TODO_13",""
+38,"TEXT_BANVAN604_02200_TODO_14",""
+39,"TEXT_BANVAN604_02200_TODO_15",""
+40,"TEXT_BANVAN604_02200_TODO_16",""
+41,"TEXT_BANVAN604_02200_TODO_17",""
+42,"TEXT_BANVAN604_02200_TODO_18",""
+43,"TEXT_BANVAN604_02200_TODO_19",""
+44,"TEXT_BANVAN604_02200_TODO_20",""
+45,"TEXT_BANVAN604_02200_TODO_21",""
+46,"TEXT_BANVAN604_02200_TODO_22",""
+47,"TEXT_BANVAN604_02200_TODO_23",""
+48,"TEXT_BANVAN604_02200_02200_MUNAVANU_000_001","Danger of Vundu attack looms always, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Threat hangs about Ok' Gundu like dark mist around tall, majestic mountain."
+49,"TEXT_BANVAN604_02200_02200_MUNAVANU_000_002","We need netherling's help. Please, speak with Linu Vanu and lend him your strength in protecting our people from attacks."
+50,"TEXT_BANVAN604_02200_02200_MUNAVANU_000_010",""
+51,"TEXT_BANVAN604_02200_02200_LINUVANU_000_020","Vicious Vundu savage! Threatening our hunters─chasing us from <hex:021A020203>our<hex:021A020103> land!"
+52,"TEXT_BANVAN604_02200_02200_LINUVANU_000_021","Please, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, show this thug what it means to be driven from his own home."
+53,"TEXT_BANVAN604_02200_02200_LINUVANU_000_022","Luna Vanu awaits with sanuwa, eager to help strike back against Vundu aggressions. Mount it and use its buffet to drive away the Vundu brute."
+54,"TEXT_BANVAN604_02200_02200_LINUVANU_000_025","Speak with Luna Vanu and borrow sanuwa. Buffet Vundu brute with gale winds and blast him from his own home!"
+55,"TEXT_BANVAN604_02200_02200_LUNAVANU_000_030","So <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> is here for sanuwa to exact revenge on Vundu? Here, netherling─take Ok' Gundu Nakki's fastest and strongest sanuwa."
+56,"TEXT_BANVAN604_02200_02200_VUNDU02200_000_031","Behold my mighty sundrop dance! Like shooting star, leaping through sky!"
+57,"TEXT_BANVAN604_02200_02200_VUNDU02200_000_032","Bah! Netherling dares interrupt my display!? I am not stopped so easily!"
+58,"TEXT_BANVAN604_02200_02200_VUNDU02200_000_040","This time, I stand strong and firm, like great tree, rooted in ground for generations gone, and generations to come!"
+59,"TEXT_BANVAN604_02200_02200_VUNDU02200_000_041","Gaaahhh! I am no pathetic nestling! I do not surrender in face of mere breeze! Sanuwa buffet against sundrop dance is like shooting arrows at lightning bolt!"
+60,"TEXT_BANVAN604_02200_02200_VUNDU02200_000_050","You dare challenge my pride as Vanu Vanu!? Fool!"
+61,"TEXT_BANVAN604_02200_02200_VUNDU02200_000_051","Phaaahhh! I must get out! I must get right out of here!"
+62,"TEXT_BANVAN604_02200_02200_LINUVANU_000_060","On wings of victory, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> returns! Even most stubborn Vundu oaf cannot stand for long against full force of sanuwa's buffet!"
+63,"TEXT_BANVAN604_02200_02200_LINUVANU_000_061","Now our hunters may keep eyes on prey, and not peering over shoulder in fear of Vundu."
+64,"TEXT_BANVAN604_02200_02200_LINUVANU_000_062","And of course, they should practice sundrop dance. If they learn from your example, one day they display dance so overwhelming that even mightiest Vundu warrior flees like nestling before enraged anzu!"

@@ -2,125 +2,125 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_CLSPGL150_00558_SEQ_00,格鬥家公會的哈蒙， 將要給予冒險者新的課題。
-1,TEXT_CLSPGL150_00558_SEQ_01,從哈蒙處學到了打倒大塊頭敵人的竅門。打倒邪嗣的毒蟾蜍，獲取5塊毒蟾蜍腿肉。
-2,TEXT_CLSPGL150_00558_SEQ_02,獲取了毒蟾蜍腿肉。向黑塵驛站中的哈蒙報告。
-3,TEXT_CLSPGL150_00558_SEQ_03,黑塵驛站附近睡神香的走私很猖獗。哈蒙給予了冒險者抓捕走私者的任務。首先，在黑塵驛站打聽一下，收集情報。
-4,TEXT_CLSPGL150_00558_SEQ_04,收集到了有用的情報。先去向黑塵驛站的哈蒙報告。
-5,TEXT_CLSPGL150_00558_SEQ_05,有人在酒館金庫靈柩亭西面的盧恩人盜賊團的巢穴據點看到了人影。埋伏在盧恩人盜賊團的巢穴據點的指定地點，等待走私者出現。
-6,TEXT_CLSPGL150_00558_SEQ_06,在走私者中發現了哈蒙的弟子魯魯庫塔。他似乎發現哈蒙變弱後，便離開了格鬥家公會。去和哈蒙談談。
-7,TEXT_CLSPGL150_00558_SEQ_07,哈蒙變弱了是事實。活力和鬥魂似乎都隨著歲月一同流逝了。先回一趟格鬥家公會，和秋秋拓談談。
-8,TEXT_CLSPGL150_00558_SEQ_08,秋秋拓了解到真實的師父後，並沒有因此討厭他。反而想要讓他回憶起從前的自己，因此希望冒險者能夠幫忙。為了能夠幫上她，更加努力修行。<hex:02100103><hex:02100103>※格鬥家的等級達到20級以上時，可以從哈蒙那裡領取下一個格鬥家任務。
-9,TEXT_CLSPGL150_00558_SEQ_09,
-10,TEXT_CLSPGL150_00558_SEQ_10,
-11,TEXT_CLSPGL150_00558_SEQ_11,
-12,TEXT_CLSPGL150_00558_SEQ_12,
-13,TEXT_CLSPGL150_00558_SEQ_13,
-14,TEXT_CLSPGL150_00558_SEQ_14,
-15,TEXT_CLSPGL150_00558_SEQ_15,
-16,TEXT_CLSPGL150_00558_SEQ_16,
-17,TEXT_CLSPGL150_00558_SEQ_17,
-18,TEXT_CLSPGL150_00558_SEQ_18,
-19,TEXT_CLSPGL150_00558_SEQ_19,
-20,TEXT_CLSPGL150_00558_SEQ_20,
-21,TEXT_CLSPGL150_00558_SEQ_21,
-22,TEXT_CLSPGL150_00558_SEQ_22,
-23,TEXT_CLSPGL150_00558_SEQ_23,
-24,TEXT_CLSPGL150_00558_TODO_00,從毒蟾蜍身上獲取毒蟾蜍腿肉
-25,TEXT_CLSPGL150_00558_TODO_01,將毒蟾蜍腿肉交給黑塵驛站的哈蒙
-26,TEXT_CLSPGL150_00558_TODO_02,在黑塵驛站收集情報
-27,TEXT_CLSPGL150_00558_TODO_03,向哈蒙報告
-28,TEXT_CLSPGL150_00558_TODO_04,在指定地點等待
-29,TEXT_CLSPGL150_00558_TODO_05,和哈蒙談談
-30,TEXT_CLSPGL150_00558_TODO_06,和格鬥家公會的秋秋拓對話
-31,TEXT_CLSPGL150_00558_TODO_07,
-32,TEXT_CLSPGL150_00558_TODO_08,
-33,TEXT_CLSPGL150_00558_TODO_09,
-34,TEXT_CLSPGL150_00558_TODO_10,
-35,TEXT_CLSPGL150_00558_TODO_11,
-36,TEXT_CLSPGL150_00558_TODO_12,
-37,TEXT_CLSPGL150_00558_TODO_13,
-38,TEXT_CLSPGL150_00558_TODO_14,
-39,TEXT_CLSPGL150_00558_TODO_15,
-40,TEXT_CLSPGL150_00558_TODO_16,
-41,TEXT_CLSPGL150_00558_TODO_17,
-42,TEXT_CLSPGL150_00558_TODO_18,
-43,TEXT_CLSPGL150_00558_TODO_19,
-44,TEXT_CLSPGL150_00558_TODO_20,
-45,TEXT_CLSPGL150_00558_TODO_21,
-46,TEXT_CLSPGL150_00558_TODO_22,
-47,TEXT_CLSPGL150_00558_TODO_23,
-48,TEXT_CLSPGL150_00558_HAMON_000_1,哈哈，你有堅持鍛鍊呢啊。<hex:02100103>那這次你就去打倒5隻毒蟾蜍，<hex:02100103>它們就棲息在邪嗣。
-49,TEXT_CLSPGL150_00558_HAMON_000_4,即使對手體型很大也不要害怕！<hex:02100103>發現對手的破綻時，立即用拳頭招呼它！
-50,TEXT_CLSPGL150_00558_HAMON_000_7,對了，作為打倒毒蟾蜍的證據，<hex:02100103>你就把毒蟾蜍腿肉拿來吧。<hex:02100103>千萬不要忘了。
-51,TEXT_CLSPGL150_00558_HAMON_000_8,之後的修行，也打算在那附近進行。<hex:02100103>我會在黑塵驛站和秋秋拓一起，等著你來報告的。
-52,TEXT_CLSPGL150_00558_HAMON_000_20,<hex:022903EB0203>啊，打倒5隻毒蟾蜍，<hex:02100103>獲取毒蟾蜍腿肉！
-53,TEXT_CLSPGL150_00558_CHUCHUTO_23,今天的修行，我也要參加！<hex:02100103>一起加油吧，<hex:022903EB0203>！
-54,TEXT_CLSPGL150_00558_HAMON_000_25,拿到毒蟾蜍腿肉了嗎？
-55,TEXT_CLSPGL150_00558_HAMON_000_30,真不愧是新鮮的毒蟾蜍腿肉！<hex:02100103>用奶油細細煎過後，撒上太陽檸檬的話……<hex:02100103>口水四溢啊。
-56,TEXT_CLSPGL150_00558_CHUCHUTO_000_33,師父？
-57,TEXT_CLSPGL150_00558_HAMON_000_34,這當然是為了<hex:022903EB0203>的修行著想……<hex:02100103>才不是我想要今晚的菜了呢。<hex:02100103>下一項是與秋秋拓一起比賽活力……
-58,TEXT_CLSPGL150_00558_NANAJAPI_000_36,難道說，你是拳聖哈蒙嗎？！<hex:02100103>聽說哈蒙在這裡，我便跑了過來，<hex:02100103>沒想到是真的啊！
-59,TEXT_CLSPGL150_00558_HAMON_000_37,哈哈哈！<hex:02100103>我正是拳聖哈蒙！<hex:02100103>太出名也很麻煩啊。
-60,TEXT_CLSPGL150_00558_NANAJAPI_000_38,我有事想委託給活著的傳說拳聖哈蒙！<hex:02100103>希望你能阻止睡神香的走私活動！
-61,TEXT_CLSPGL150_00558_CHUCHUTO_000_40,睡神香……<hex:02100103>由夢想花這種植物製作而成的可疑安眠藥啊。<hex:02100103>過量吸入的話，便會一睡不醒……
-62,TEXT_CLSPGL150_00558_NANAJAPI_000_41,我的朋友因為睡神香而過世了……<hex:02100103>所以，我想要抓住走私者以阻止貨物流通，<hex:02100103>但他們一直沒有露出馬腳。
-63,TEXT_CLSPGL150_00558_HAMON_000_43,哈哈哈！<hex:02100103>那種事，就交給拳聖哈蒙我吧！
-64,TEXT_CLSPGL150_00558_NANAJAPI_000_44,真不愧是拳聖哈蒙！<hex:02100103>總算是沒有白跑一趟！
-65,TEXT_CLSPGL150_00558_HAMON_000_45,哈哈哈！<hex:02100103>本來這次就是要進行實戰的。<hex:02100103><hex:022903EB0203>的修行變更為抓捕走私者！
-66,TEXT_CLSPGL150_00558_HAMON_000_46,<hex:022903EB0203>和秋秋拓，<hex:02100103>你們先在附近收集情報！<hex:02100103>與周圍的人對話，收集走私者的情報！
-67,TEXT_CLSPGL150_00558_HAMON_000_50,首先是收集情報！<hex:02100103>身為格鬥家，收集情報是要親力親為的！
-68,TEXT_CLSPGL150_00558_ZUZUMEDA_000_60,走私睡神香的，<hex:02100103>好像是犯罪組織鉗蠍幫的成員。<hex:02100103>他們總是數人一同行動。
-69,TEXT_CLSPGL150_00558_OSBERT_000_65,從這裡往西去的那片地方，少有人煙。<hex:02100103>盧恩人盜賊團以前的巢穴遺址就在那邊！<hex:02100103>以防萬一，靠近那邊時要多加小心！
-70,TEXT_CLSPGL150_00558_CHUCHUTO_000_70,銀髮的拉拉菲爾族麼……<hex:02100103>剛剛好像在幹些可疑的事。<hex:02100103>拿著大件貨物往西面走了……
-71,TEXT_CLSPGL150_00558_CHUCHUTO_000_75,銀髮的拉拉菲爾族，難道是……
-72,TEXT_CLSPGL150_00558_HAMON_000_80,鉗蠍幫、本應無人的巢穴據點中的人影，<hex:02100103>還有銀髮的拉拉菲爾族麼……<hex:02100103>有一種不祥的預感呢。
-73,TEXT_CLSPGL150_00558_HAMON_000_81,事不宜遲，趕緊前往酒館金庫靈柩亭西面的<hex:02100103>盧恩人盜賊團的巢穴據點。伏擊走私者！
-74,TEXT_CLSPGL150_00558_HAMON_000_85,前往酒館金庫靈柩亭西面的盧恩人盜賊團的巢穴據點！<hex:02100103>伏擊走私者！
-75,TEXT_CLSPGL150_00558_CHUCHUTO_000_86,出發去盧恩人盜賊團的巢穴據點吧！<hex:02100103>銀髮的拉拉菲爾族，就讓我親眼見見！
-76,TEXT_CLSPGL150_00558_HAMON_000_90,那是……
-77,TEXT_CLSPGL150_00558_ZANTOU_000_91,嘿嘿嘿……<hex:02100103>魯魯庫塔啊，這次也進了不少貨呢。<hex:02100103>維格法爾大人會很高興的。
-78,TEXT_CLSPGL150_00558_RURUKUTA_000_92,(-銀髮的拉拉菲爾族-)廢話少說，快搬吧……
-79,TEXT_CLSPGL150_00558_CHUCHUTO_000_93,魯魯庫塔！<hex:02100103>魯魯庫塔你在幹什麼？！
-80,TEXT_CLSPGL150_00558_RURUKUTA_000_94,秋秋拓，還真是好久不見了……<hex:02100103>還有師父麼……
-81,TEXT_CLSPGL150_00558_CHUCHUTO_000_95,喂，你真的加入鉗蠍幫了嗎？<hex:02100103>為什麼退出格鬥家公會了呢？<hex:02100103>我明明很擔心你，可你卻在幹什麼走私睡神香的勾當……
-82,TEXT_CLSPGL150_00558_HAMON_000_97,呦，魯魯庫塔啊。<hex:02100103>我可不是為了讓你做不光彩的事情，<hex:02100103>才教導你格鬥術的呢……
-83,TEXT_CLSPGL150_00558_HAMON_000_98,區區鉗蠍幫的走私者，還輪不到我親自動手。<hex:02100103>秋秋拓、<hex:022903EB0203>，任務來了。<hex:02100103>抓住鉗蠍幫的走私者！
-84,TEXT_CLSPGL150_00558_RURUKUTA_000_99,你們給我上！
-85,TEXT_CLSPGL150_00558_ZANTOU_000_100,(-鉗蠍幫成員-)拳聖哈蒙麼，可惡！
-86,TEXT_CLSPGL150_00558_HAMON_000_101,我正是拳聖哈蒙。<hex:02100103>快束手就擒吧。
-87,TEXT_CLSPGL150_00558_RURUKUTA_000_102,拳聖哈蒙麼……<hex:02100103>秋秋拓，你也被騙了。
-88,TEXT_CLSPGL150_00558_CHUCHUTO_000_103,被師父騙了？<hex:02100103>你在說什麼呢？
-89,TEXT_CLSPGL150_00558_RURUKUTA_000_105,那是我還在格鬥家公會的時候……<hex:02100103>在我深夜外出修行之時。
-90,TEXT_CLSPGL150_00558_RURUKUTA_000_106,偶然間，發現了從酒館出來的師父，<hex:02100103>我想打個招呼，便追了上去……<hex:02100103>那時我看到星點栗鼠把師父……
-91,TEXT_CLSPGL150_00558_HAMON_000_108,你到底想幹什麼？<hex:02100103>在小瞧以技能的無限地獄<hex:02100103>而被世人畏懼的拳聖哈蒙麼？
-92,TEXT_CLSPGL150_00558_HAMON_000_109,嗨！
-93,TEXT_CLSPGL150_00558_CHUCHUTO_000_110,師父？
-94,TEXT_CLSPGL150_00558_HAMON_000_111,哈哈……<hex:02100103>能看穿我的拳路，真是了不得的星點栗鼠……
-95,TEXT_CLSPGL150_00558_CHUCHUTO_000_112,師父！
-96,TEXT_CLSPGL150_00558_HAMON_000_113,哎，死的時候……<hex:02100103>原想要在性感的女孩懷抱中辭世的……
-97,TEXT_CLSPGL150_00558_CHUCHUTO_000_114,師父！臭老頭！<hex:02100103>快解釋一下這是怎麼回事！
-98,TEXT_CLSPGL150_00558_RURUKUTA_000_115,師父把我們都騙了。<hex:02100103>拳聖哈蒙什麼的，比星點栗鼠還要弱。
-99,TEXT_CLSPGL150_00558_ZANTOU_000_116,(-鉗蠍幫成員-)那個拳聖哈蒙居然變弱了！<hex:02100103>這事情可有意思，我要報告給維格法爾大人！
-100,TEXT_CLSPGL150_00558_HAMON_000_130,抱歉啊秋秋拓，還有<hex:022903EB0203>。<hex:02100103>沒有騙你們的意思……
-101,TEXT_CLSPGL150_00558_HAMON_000_132,雖然我贏過各路豪傑……<hex:02100103>但終究敵不過歲月的侵蝕……<hex:02100103>整合連續攻擊的活力與鬥魂都……
-102,TEXT_CLSPGL150_00558_HAMON_000_134,先回公會一趟。<hex:02100103>之後的指示就交給秋秋拓了……
-103,TEXT_CLSPGL150_00558_CHUCHUTO_100_134,師父居然那樣弱……
-104,TEXT_CLSPGL150_00558_HAMON_100_135,先回公會一趟。<hex:02100103>之後的指示就交給秋秋拓了……
-105,TEXT_CLSPGL150_00558_CHUCHUTO_000_140,啊，完全不行啊。<hex:02100103>師父看上去非常失落。
-106,TEXT_CLSPGL150_00558_CHUCHUTO_000_141,雖然師父確實騙了我們……<hex:02100103>但是，我沒法討厭師父。<hex:02100103>他救了我的命這點，絲毫沒有改變。
-107,TEXT_CLSPGL150_00558_CHUCHUTO_000_142,但是，這樣下去，師父不就僅僅是個廢人了嗎？<hex:02100103>為了讓師父回憶起以前的事，<hex:02100103>我要制定計劃！
-108,TEXT_CLSPGL150_00558_CHUCHUTO_000_145,師父說過，你很像從前的他。<hex:02100103>所以，要是看到了強大的<hex:022903EB0203>的話，<hex:02100103>會不會想起從前的自己呢？
-109,TEXT_CLSPGL150_00558_CHUCHUTO_000_146,所以，既是為了你也是為了師父，<hex:02100103><hex:022903EB0203>啊，我就將師父以前<hex:02100103>引以為傲的格鬥術技能教給你！
-110,TEXT_CLSPGL150_00558_CHUCHUTO_000_147,其名為鐵山靠！<hex:02100103>是通過將積蓄的鬥氣瞬間放出，從而驅使身體加速，<hex:02100103>進而以肩背撞擊敵人的妙招。
-111,TEXT_CLSPGL150_00558_CHUCHUTO_000_148,活用新技能，努力鍛鍊。<hex:02100103>將更為強大的你，展現在師父面前吧！
-112,TEXT_CLSPGL150_00558_QIB_001_TODO_1,打倒鉗蠍幫的盜賊們！
-113,TEXT_CLSPGL150_00558_QIB_001_CHUCHUTO_BATTLETALK_01,<hex:022903EB0203>，讓我們同心協力，一起加油！
-114,TEXT_CLSPGL150_00558_QIB_001_CHUCHUTO_BATTLETALK_02,只要有師父傳授的格鬥術的話，這種水平的敵人不值一提！
-115,TEXT_CLSPGL150_00558_QIB_001_CHUCHUTO_BATTLETALK_03,<hex:022903EB0203>！那邊的星點栗鼠就交給你了！
-116,TEXT_CLSPGL150_00558_QIB_001_CHUCHUTO_BATTLETALK_04,注意不要被超壓斧捲進去！
-117,TEXT_CLSPGL150_00558_QIB_001_CHUCHUTO_BATTLETALK_05,<hex:022903EB0203>！鉗蠍幫的格鬥家很厲害，退後！
-118,TEXT_CLSPGL150_00558_QIB_001_RURUKUTA_BATTLETALK_01,嘁，真沒用，暫時撤退……
-119,TEXT_CLSPGL150_00558_SCENE00012_INSTANCE_BATTLE_YESNO_TITLE,要開始「ClsPgl150」的戰鬥嗎？
-120,TEXT_CLSPGL150_00558_SCENE00012_INSTANCE_BATTLE_YESNO_YES,是
-121,TEXT_CLSPGL150_00558_SCENE00012_INSTANCE_BATTLE_YESNO_NO,否
+0,"TEXT_CLSPGL150_00558_SEQ_00","Guildmaster Hamon believes you are ready for your next lesson."
+1,"TEXT_CLSPGL150_00558_SEQ_01","In order to train you to deal with immense foes, Hamon bids you challenge the toxic toads that nest at the Unholy Heir. As proof of this feat, you are required to obtain five toad legs."
+2,"TEXT_CLSPGL150_00558_SEQ_02","You have obtained five toad legs. Present them to Hamon, who awaits you at Black Brush Station."
+3,"TEXT_CLSPGL150_00558_SEQ_03","You learn that an illicit drug called somnus is being smuggled into Ul'dah via Black Brush Station. Instead of the lesson he had planned, Hamon bids you track down and apprehend the smugglers. Begin by gathering information from the people of the station."
+4,"TEXT_CLSPGL150_00558_SEQ_04","You have acquired sufficient information on the smugglers. Report your findings to Hamon."
+5,"TEXT_CLSPGL150_00558_SEQ_05","In all likelihood, the smugglers are operating out of an abandoned Qiqirn lair west of the Coffer & Coffin. Make your way to the lair, and there lie in wait for the criminals."
+6,"TEXT_CLSPGL150_00558_SEQ_06","To everyone's surprise, it turns out that one of the smugglers is in fact Rurukuta, the missing pugilist. Upon discovering that his master had grown feeble, Rurukuta became disillusioned and decided to leave the guild. Speak with your guildmaster and learn his side of the story."
+7,"TEXT_CLSPGL150_00558_SEQ_07","Beaten and despondent, Hamon admits that the ravages of age have robbed him of his former ability. There seems to be nothing you can do for your guildmaster at the moment. For now, make your way back to the guild, and discuss matters further with Chuchuto."
+8,"TEXT_CLSPGL150_00558_SEQ_08","Despite having learned the truth of Hamon's condition, Chuchuto does not respect him any less. Determined to help her master and benefactor regain his former strength, she asks for your aid. Keep applying yourself to your training, that your improvement might rekindle the fires of passion within the guildmaster.<hex:02100103><hex:02100103>※The next pugilist quest will be available from Hamon upon reaching level 20."
+9,"TEXT_CLSPGL150_00558_SEQ_09",""
+10,"TEXT_CLSPGL150_00558_SEQ_10",""
+11,"TEXT_CLSPGL150_00558_SEQ_11",""
+12,"TEXT_CLSPGL150_00558_SEQ_12",""
+13,"TEXT_CLSPGL150_00558_SEQ_13",""
+14,"TEXT_CLSPGL150_00558_SEQ_14",""
+15,"TEXT_CLSPGL150_00558_SEQ_15",""
+16,"TEXT_CLSPGL150_00558_SEQ_16",""
+17,"TEXT_CLSPGL150_00558_SEQ_17",""
+18,"TEXT_CLSPGL150_00558_SEQ_18",""
+19,"TEXT_CLSPGL150_00558_SEQ_19",""
+20,"TEXT_CLSPGL150_00558_SEQ_20",""
+21,"TEXT_CLSPGL150_00558_SEQ_21",""
+22,"TEXT_CLSPGL150_00558_SEQ_22",""
+23,"TEXT_CLSPGL150_00558_SEQ_23",""
+24,"TEXT_CLSPGL150_00558_TODO_00","Defeat toxic toads and obtain their legs."
+25,"TEXT_CLSPGL150_00558_TODO_01","Deliver toad legs to Hamon at Black Brush Station."
+26,"TEXT_CLSPGL150_00558_TODO_02","Gather information at Black Brush Station."
+27,"TEXT_CLSPGL150_00558_TODO_03","Report to Hamon."
+28,"TEXT_CLSPGL150_00558_TODO_04","Lie in wait at the designated location."
+29,"TEXT_CLSPGL150_00558_TODO_05","Speak with Hamon."
+30,"TEXT_CLSPGL150_00558_TODO_06","Speak with Chuchuto at the Pugilists' Guild."
+31,"TEXT_CLSPGL150_00558_TODO_07",""
+32,"TEXT_CLSPGL150_00558_TODO_08",""
+33,"TEXT_CLSPGL150_00558_TODO_09",""
+34,"TEXT_CLSPGL150_00558_TODO_10",""
+35,"TEXT_CLSPGL150_00558_TODO_11",""
+36,"TEXT_CLSPGL150_00558_TODO_12",""
+37,"TEXT_CLSPGL150_00558_TODO_13",""
+38,"TEXT_CLSPGL150_00558_TODO_14",""
+39,"TEXT_CLSPGL150_00558_TODO_15",""
+40,"TEXT_CLSPGL150_00558_TODO_16",""
+41,"TEXT_CLSPGL150_00558_TODO_17",""
+42,"TEXT_CLSPGL150_00558_TODO_18",""
+43,"TEXT_CLSPGL150_00558_TODO_19",""
+44,"TEXT_CLSPGL150_00558_TODO_20",""
+45,"TEXT_CLSPGL150_00558_TODO_21",""
+46,"TEXT_CLSPGL150_00558_TODO_22",""
+47,"TEXT_CLSPGL150_00558_TODO_23",""
+48,"TEXT_CLSPGL150_00558_HAMON_000_1","Ah, there you are, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! I hope you've come prepared for a lesson. Today, I want you to go and fight the toxic toads that nest at the Unholy Heir."
+49,"TEXT_CLSPGL150_00558_HAMON_000_4","Make no mistake, <hex:02080EE905FF05>lass<hex:FF04>son<hex:03>─these toads are huge, which means they have huge guts. But that's beside the point. The point is, you'll need to use your head to overcome them."
+50,"TEXT_CLSPGL150_00558_HAMON_000_7","Thanks to their immense girth, these toads hit <hex:021A020203>hard<hex:021A020103>. Fortunately, they tend to hit wild as well, so bide your time and wait for an opening. And when that opening shows...thwack! Rip and tear through your foe with your fists!"
+51,"TEXT_CLSPGL150_00558_HAMON_000_8","As proof that you've defeated the toads, I want you to bring me five of their legs. Chuchuto and I will be waiting for you at Black Brush Station. Your lesson continues there."
+52,"TEXT_CLSPGL150_00558_HAMON_000_20","Defeat the toxic toads that nest at the Unholy Heir, and bring me five of their legs. Chuchuto and I will be waiting for you at Black Brush Station."
+53,"TEXT_CLSPGL150_00558_CHUCHUTO_23","I'm taking part in today's lesson as well. Good luck to the both of us!"
+54,"TEXT_CLSPGL150_00558_HAMON_000_25","So, did you bring me the toad legs?"
+55,"TEXT_CLSPGL150_00558_HAMON_000_30","Aye, this is the stuff all right! <slurp> Now, I just need some butter, a slice of sun lemon, and a pinch of─"
+56,"TEXT_CLSPGL150_00558_CHUCHUTO_000_33","Um...Master?"
+57,"TEXT_CLSPGL150_00558_HAMON_000_34","...Ahem. What I meant to say was, you've done well to defeat the toxic toads, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. For the next part of your lesson, you'll be putting your endurance to the test against─"
+58,"TEXT_CLSPGL150_00558_NANAJAPI_000_36","<gasp> The talk was true! Hamon Holyfist is really here!"
+59,"TEXT_CLSPGL150_00558_HAMON_000_37","Hah hah hah! I can take nary a step outside the guild without being flocked by fans. Such is the price of fame!"
+60,"TEXT_CLSPGL150_00558_NANAJAPI_000_38","Please, sir! I have grave need of your legendary skills! Somnus is being smuggled through Black Brush Station! I reported this to the Brass Blades and the Stone Torches─asked them to put an end to it─but they both turn a blind eye!"
+61,"TEXT_CLSPGL150_00558_CHUCHUTO_000_40","Somnus... That's the mind-warping substance made from dream flowers. Those who overindulge are said to fall into an eternal slumber."
+62,"TEXT_CLSPGL150_00558_NANAJAPI_000_41","A dear friend suffered that very fate─that's why I want to put an end to the smuggling. But I'm just an ordinary person, and there's precious little I can do..."
+63,"TEXT_CLSPGL150_00558_HAMON_000_43","Hah hah hah! You've done enough to bring word to me, friend. For as surely as Hamon Holyfist is my name, I'll see the smuggler scum thrown in the dungeon before the bell is through!"
+64,"TEXT_CLSPGL150_00558_NANAJAPI_000_44","Twelve bless you, sir! You truly are a hero to us all!"
+65,"TEXT_CLSPGL150_00558_HAMON_000_45","Hah hah hah! Slight change of plans, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. In place of the endurance test, we're going to find and apprehend the smugglers."
+66,"TEXT_CLSPGL150_00558_HAMON_000_46","But first, we must gather information. You two, find out what you can from the people of Black Brush Station. Report back once you've learned something."
+67,"TEXT_CLSPGL150_00558_HAMON_000_50","Find out what you can from the people of Black Brush Station. Report back once you've learned something."
+68,"TEXT_CLSPGL150_00558_ZUZUMEDA_000_60","Searching for somnus smugglers, you say? Word is they are associated with the Alacran, a coalition of cold-blooded criminals. But beware─they always act in alliance!"
+69,"TEXT_CLSPGL150_00558_OSBERT_000_65","There is an abandoned Qiqirn lair a short distance west of the Coffer & Coffin. Decent folk tend to give that place a wide berth. Ideal for a smuggling operation, wouldn't you say?"
+70,"TEXT_CLSPGL150_00558_CHUCHUTO_000_70","It appears a silver-haired Lalafell was seen skulking about the station recently. He was headed west, bearing a suspicious burden..."
+71,"TEXT_CLSPGL150_00558_CHUCHUTO_000_75","A silver-haired Lalafell... It couldn't possibly be <hex:021A020203>him<hex:021A020103>...could it?"
+72,"TEXT_CLSPGL150_00558_HAMON_000_80","The Alacran, a likely hideout, and a silver-haired Lalafell... I don't like the sound of this. Not one bit."
+73,"TEXT_CLSPGL150_00558_HAMON_000_81","Like as not, the smugglers operate out of the abandoned Qiqirn lair west of the Coffer & Coffin. We'll lie in wait for them there."
+74,"TEXT_CLSPGL150_00558_HAMON_000_85","Like as not, the smugglers operate out of the abandoned Qiqirn lair west of the Coffer & Coffin. We'll lie in wait for them there."
+75,"TEXT_CLSPGL150_00558_CHUCHUTO_000_86","The silver-haired Lalafell─I must see who he is with my own eyes. Let us go to the abandoned Qiqirn lair!"
+76,"TEXT_CLSPGL150_00558_HAMON_000_90","Thal's balls! Th-That's..."
+77,"TEXT_CLSPGL150_00558_ZANTOU_000_91","Gahaha... We've really outdone ourselves this time. Master Weggfarr's bound to be pleased."
+78,"TEXT_CLSPGL150_00558_RURUKUTA_000_92","(-Silver-haired Lalafell-)Save the talk. We have crates to move."
+79,"TEXT_CLSPGL150_00558_CHUCHUTO_000_93","Rurukuta! It <hex:021A020203>is<hex:021A020103> you, isn't it!?"
+80,"TEXT_CLSPGL150_00558_RURUKUTA_000_94","Chuchuto...and Master. It's been a while."
+81,"TEXT_CLSPGL150_00558_CHUCHUTO_000_95","You vanish from the guild with nary a word, and we find you here smuggling somnus with those villains!? What is the meaning of this!?"
+82,"TEXT_CLSPGL150_00558_HAMON_000_97","Rurukuta, my boy. I didn't teach you how to fight so that you could become a pox on society. My student or no, you must be held accountable."
+83,"TEXT_CLSPGL150_00558_HAMON_000_98","Chuchuto, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, your lesson begins! Apprehend the smugglers!"
+84,"TEXT_CLSPGL150_00558_RURUKUTA_000_99","You lot, take care of these meddlers!"
+85,"TEXT_CLSPGL150_00558_ZANTOU_000_100","(-Servant of the Alacran-)Hamon Holyfist!? Just our luck..."
+86,"TEXT_CLSPGL150_00558_HAMON_000_101","If you know who I am, then you'll know what's good for you. Come quietly, or there will be trouble."
+87,"TEXT_CLSPGL150_00558_RURUKUTA_000_102","<hex:021A020203>Holyfist<hex:021A020103>? Don't make me laugh! You're being fooled, all of you!"
+88,"TEXT_CLSPGL150_00558_CHUCHUTO_000_103","Who's fooling who? What in the world are you talking about?"
+89,"TEXT_CLSPGL150_00558_RURUKUTA_000_105","It was a dark night several moons ago. I was out in the wilds, training alone."
+90,"TEXT_CLSPGL150_00558_RURUKUTA_000_106","From a distance, I caught sight of Master leaving the tavern and turning for the city. Thinking to accompany him back, I followed on his heels, and was about to call out when I...when I saw...<hex:021A020203>this<hex:021A020103>."
+91,"TEXT_CLSPGL150_00558_HAMON_000_108","Hm? You would challenge the Holyfist? You have fighting spirit, I'll grant you that, but you'd do well to know your limits."
+92,"TEXT_CLSPGL150_00558_HAMON_000_109","So be it! Yaaarrrgh!"
+93,"TEXT_CLSPGL150_00558_CHUCHUTO_000_110","M-Master?"
+94,"TEXT_CLSPGL150_00558_HAMON_000_111","<huff> <puff> You read my every move... You're no ordinary marmot..."
+95,"TEXT_CLSPGL150_00558_CHUCHUTO_000_112","Master!!!"
+96,"TEXT_CLSPGL150_00558_HAMON_000_113","<gasp> All I wanted...was to be surrounded by scantily clad maidens...when my time came... <sigh> The gods are cruel..."
+97,"TEXT_CLSPGL150_00558_CHUCHUTO_000_114","Master! What is the meaning of this!? Explain yourself!"
+98,"TEXT_CLSPGL150_00558_RURUKUTA_000_115","Now you've seen it with your own eyes! Master was beaten by a marmot─a common bleeding marmot! He would remind us how strong he was at every turn, but he was lying through his teeth!"
+99,"TEXT_CLSPGL150_00558_ZANTOU_000_116","(-Servant of the Alacran-)Gahaha! I can scarce believe my eyes! Wait till Master Weggfarr learns of this!"
+100,"TEXT_CLSPGL150_00558_HAMON_000_130","Forgive me, Chuchuto, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>... I didn't mean to deceive anyone...least of all my students."
+101,"TEXT_CLSPGL150_00558_HAMON_000_132","Hamon Holyfist conquered every foe that stood before him, but he couldn't conquer old age. My strength, my reflexes, my endurance─they've all left me. There's nothing here but a decrepit old man."
+102,"TEXT_CLSPGL150_00558_HAMON_000_134","I would be alone for a while. I'll make my own way back to the guild. From now on, you're to do as Chuchuto bids, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>."
+103,"TEXT_CLSPGL150_00558_CHUCHUTO_100_134","I can't believe it... When─<hex:021A020203>how<hex:021A020103> did Master become so weak?"
+104,"TEXT_CLSPGL150_00558_HAMON_100_135","I would be alone for a while. I'll make my own way back to the guild. From now on, you're to do as Chuchuto bids, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>."
+105,"TEXT_CLSPGL150_00558_CHUCHUTO_000_140","I've been doing some thinking, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. While 'tis true that Master had been deceiving us, he meant us no harm."
+106,"TEXT_CLSPGL150_00558_CHUCHUTO_000_141","Besides, I owe him my life. Had he not taken me in all those years ago, I would have died in some ditch. I could never bring myself to hate him. Even if he were an ordinary old man, I would still respect him."
+107,"TEXT_CLSPGL150_00558_CHUCHUTO_000_142","Alas, with the truth of his condition revealed, Master Hamon has lost his sense of purpose─his will to teach. I cannot bear to see him like this. I want him to regain his confidence, but for this he needs to regain his former strength."
+108,"TEXT_CLSPGL150_00558_CHUCHUTO_000_145","Listen, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Master ever said that you remind him of his younger self. Were you to continue showing rapid improvement, I dare to hope that it would rekindle his fighting spirit."
+109,"TEXT_CLSPGL150_00558_CHUCHUTO_000_146","To this end, I will teach you a new technique, one which Master Hamon used to great effect during his prizefighting days."
+110,"TEXT_CLSPGL150_00558_CHUCHUTO_000_147","Steel Peak, it's called, and it sees you channel your gathered chakra into a powerful attack performed with your entire body."
+111,"TEXT_CLSPGL150_00558_CHUCHUTO_000_148","Make this technique your own, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, and strive to grow stronger still. When next Master Hamon beholds you, he will surely be moved to action!"
+112,"TEXT_CLSPGL150_00558_QIB_001_TODO_1","Defeat the Alacran henchmen!"
+113,"TEXT_CLSPGL150_00558_QIB_001_CHUCHUTO_BATTLETALK_01","Show them the fruit of your training, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>!"
+114,"TEXT_CLSPGL150_00558_QIB_001_CHUCHUTO_BATTLETALK_02","Have no fear! We're students of Hamon Holyfist!"
+115,"TEXT_CLSPGL150_00558_QIB_001_CHUCHUTO_BATTLETALK_03","The marmots are all yours, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>!"
+116,"TEXT_CLSPGL150_00558_QIB_001_CHUCHUTO_BATTLETALK_04","Ware the marauders' sweeping swings!"
+117,"TEXT_CLSPGL150_00558_QIB_001_CHUCHUTO_BATTLETALK_05","The enemy pugilists hit hard! Stay light on your feet!"
+118,"TEXT_CLSPGL150_00558_QIB_001_RURUKUTA_BATTLETALK_01","Useless, the whole bloody lot of them...<hex:02100103>Best we flee for now."
+119,"TEXT_CLSPGL150_00558_SCENE00012_INSTANCE_BATTLE_YESNO_TITLE","Duty calls. Do you wish to proceed with<hex:02100103>“The Spirit Is Willing”?"
+120,"TEXT_CLSPGL150_00558_SCENE00012_INSTANCE_BATTLE_YESNO_YES","Yes"
+121,"TEXT_CLSPGL150_00558_SCENE00012_INSTANCE_BATTLE_YESNO_NO","No"

@@ -2,109 +2,109 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_LUCKMD116_03621_SEQ_00,水站的琳注視著冒險者。
-1,TEXT_LUCKMD116_03621_SEQ_01,從琳處得知了靈光衛的所在地。在安穆·艾蘭馬利卡大井的<hex:02280CFF05>EObj<hex:F61EAB420103>張望。<hex:02100103>若是離開了南琥珀丘，絡尾聚落的冷靜的實習技師可帶領冒險者再次前往。
-2,TEXT_LUCKMD116_03621_SEQ_02,感覺到了馬利卡大井深處的靈光衛放出的光。進入馬利卡大井，討伐靈光衛。<hex:02100103><hex:02100103>※通過和進入點附近的同伴對話並選擇「編成小隊」，或選擇快捷指令裡的「劇情輔助器」，可以和非玩家同伴一同進入副本。<hex:02100103>※和玩家一同進入時請通過任務搜尋器參加。
-3,TEXT_LUCKMD116_03621_SEQ_03,討伐了靈光衛。離開馬利卡大井。
-4,TEXT_LUCKMD116_03621_SEQ_04,離開了馬利卡大井。和南琥珀丘的阿莉塞談談。
-5,TEXT_LUCKMD116_03621_SEQ_05,和阿莉塞一同慶祝了為安穆·艾蘭取回黑夜。這樣一來，還被光覆蓋的地區就只剩下珂露西亞島一帶了。不知冒險者一行是否能贏得最後的勝利，成功拯救兩個世界。
-6,TEXT_LUCKMD116_03621_SEQ_06,
-7,TEXT_LUCKMD116_03621_SEQ_07,
-8,TEXT_LUCKMD116_03621_SEQ_08,
-9,TEXT_LUCKMD116_03621_SEQ_09,
-10,TEXT_LUCKMD116_03621_SEQ_10,
-11,TEXT_LUCKMD116_03621_SEQ_11,
-12,TEXT_LUCKMD116_03621_SEQ_12,
-13,TEXT_LUCKMD116_03621_SEQ_13,
-14,TEXT_LUCKMD116_03621_SEQ_14,
-15,TEXT_LUCKMD116_03621_SEQ_15,
-16,TEXT_LUCKMD116_03621_SEQ_16,
-17,TEXT_LUCKMD116_03621_SEQ_17,
-18,TEXT_LUCKMD116_03621_SEQ_18,
-19,TEXT_LUCKMD116_03621_SEQ_19,
-20,TEXT_LUCKMD116_03621_SEQ_20,
-21,TEXT_LUCKMD116_03621_SEQ_21,
-22,TEXT_LUCKMD116_03621_SEQ_22,
-23,TEXT_LUCKMD116_03621_SEQ_23,
-24,TEXT_LUCKMD116_03621_TODO_00,在<hex:02280CFF05>EObj<hex:F61EAB420103>張望
-25,TEXT_LUCKMD116_03621_TODO_01,突破避暑離宮馬利卡大井
-26,TEXT_LUCKMD116_03621_TODO_02,突破避暑離宮馬利卡大井
-27,TEXT_LUCKMD116_03621_TODO_03,和阿莉塞對話
-28,TEXT_LUCKMD116_03621_TODO_04,
-29,TEXT_LUCKMD116_03621_TODO_05,
-30,TEXT_LUCKMD116_03621_TODO_06,
-31,TEXT_LUCKMD116_03621_TODO_07,
-32,TEXT_LUCKMD116_03621_TODO_08,
-33,TEXT_LUCKMD116_03621_TODO_09,
-34,TEXT_LUCKMD116_03621_TODO_10,
-35,TEXT_LUCKMD116_03621_TODO_11,
-36,TEXT_LUCKMD116_03621_TODO_12,
-37,TEXT_LUCKMD116_03621_TODO_13,
-38,TEXT_LUCKMD116_03621_TODO_14,
-39,TEXT_LUCKMD116_03621_TODO_15,
-40,TEXT_LUCKMD116_03621_TODO_16,
-41,TEXT_LUCKMD116_03621_TODO_17,
-42,TEXT_LUCKMD116_03621_TODO_18,
-43,TEXT_LUCKMD116_03621_TODO_19,
-44,TEXT_LUCKMD116_03621_TODO_20,
-45,TEXT_LUCKMD116_03621_TODO_21,
-46,TEXT_LUCKMD116_03621_TODO_22,
-47,TEXT_LUCKMD116_03621_TODO_23,
-48,TEXT_LUCKMD116_03621_ALPHINAUD_000_000,回想當初，我也是通過敏菲利亞才接觸到拂曉的。
-49,TEXT_LUCKMD116_03621_ALPHINAUD_000_001,將來我或許也會帶著一絲寂寞<hex:02100103>來向塔塔露他們講述這些事情吧……<hex:02100103>現在只需要為琳邁出的這一步獻上祝福。
-50,TEXT_LUCKMD116_03621_ALISAIE_000_005,真是的……桑克瑞德也好琳也好，<hex:02100103>都讓人操碎了心。
-51,TEXT_LUCKMD116_03621_ALISAIE_000_006,……搞得我稍微有點想念家人了呢。<hex:02100103>等戰鬥結束之後你要不要來薩雷安玩？
-52,TEXT_LUCKMD116_03621_THANCRED_000_010,謝謝你……<hex:02100103>陪著琳和敏菲利亞她們。
-53,TEXT_LUCKMD116_03621_THANCRED_000_011,她們都聊了些什麼呢……以後有機會再問吧。<hex:02100103>現在我也該邁出屬於自己的一步了。
-54,TEXT_LUCKMD116_03621_URIANGER_000_015,恐怕我要花一輩子去糾結<hex:02100103>將光之巫女送往第一世界這件事，<hex:02100103>是否是一個正確的決定了……
-55,TEXT_LUCKMD116_03621_URIANGER_000_016,拋開這一點……<hex:02100103>我認為最終得到的她們二人的笑容非常美。
-56,TEXT_LUCKMD116_03621_YSHTOLA_000_020,琳的乙太稍微有點不一樣了。<hex:02100103>……混入了陽光的金色，變成了非常溫柔的顏色。<hex:02100103>就像某人的髮色一樣……呢。
-57,TEXT_LUCKMD116_03621_RYNE_000_030,<hex:022903EB0203>……<hex:02100103>謝謝你一直陪伴在我身邊。<hex:02100103>今後也請繼續關照！
-58,TEXT_LUCKMD116_03621_ALISAIE_000_031,……不過你沒問題嗎？<hex:02100103>一下子繼承了光之巫女的全部力量……
-59,TEXT_LUCKMD116_03621_RYNE_000_032,嗯，沒問題。<hex:02100103>現在我已經可以感知到<hex:02100103>安穆·艾蘭的靈光衛的位置了。
-60,TEXT_LUCKMD116_03621_RYNE_000_033,靈光衛的氣息是從西邊傳來的。<hex:02100103>而且位置非常低……估計不是在地面上。
-61,TEXT_LUCKMD116_03621_ALPHINAUD_000_034,西面的地下……那不是！
-62,TEXT_LUCKMD116_03621_YSHTOLA_000_035,沒錯……在你們回來之前，<hex:02100103>我們也在這附近調查了一番。
-63,TEXT_LUCKMD116_03621_YSHTOLA_000_036,正好在西面發現了<hex:02100103>叫做馬利卡大井的廢墟。
-64,TEXT_LUCKMD116_03621_YSHTOLA_000_037,拿巴示艾蘭的歷史我有點印象……<hex:02100103>我記得是某位王妃為了緬懷逝去的王而挖的井，<hex:02100103>通過將冰涼的地下水抽取出來而造出了涼爽的宮殿。
-65,TEXT_LUCKMD116_03621_YSHTOLA_000_038,礦業規模擴大之後那裡的地下水應該也被用在了採掘上，<hex:02100103>不知道有沒有往那邊架設鐵道……
-66,TEXT_LUCKMD116_03621_ALPHINAUD_000_039,那是一口非常大的井，既然和地下水路相交，<hex:02100103>就可以通過地下水路四處移動。
-67,TEXT_LUCKMD116_03621_ALPHINAUD_000_040,有你帶路應該就能找到……<hex:02100103>琳，能拜託你嗎？
-68,TEXT_LUCKMD116_03621_RYNE_000_041,嗯，交給我吧！
-69,TEXT_LUCKMD116_03621_THANCRED_000_042,……那就這麼定了。<hex:02100103>我們去馬利卡大井吧。
-70,TEXT_LUCKMD116_03621_ALPHINAUD_000_050,你看，這裡很大吧？
-71,TEXT_LUCKMD116_03621_ALISAIE_000_055,可疑的感覺撲面而來……
-72,TEXT_LUCKMD116_03621_THANCRED_000_060,這邊也有塔羅斯……<hex:02100103>不過不受控制。
-73,TEXT_LUCKMD116_03621_RYNE_000_065,感覺到了……就在這裡面……
-74,TEXT_LUCKMD116_03621_URIANGER_000_070,這裡也是個時間停滯的地方啊……
-75,TEXT_LUCKMD116_03621_YSHTOLA_000_075,你也來看看井裡的樣子吧？<hex:02100103>很壯觀呢。
-76,TEXT_LUCKMD116_03621_RYNE_000_080,……感覺到了。<hex:02100103>井裡吹出來的風中混雜著靈光衛放出的光。
-77,TEXT_LUCKMD116_03621_ALISAIE_000_081,那就是找對了。<hex:02100103>終於可以討伐這片土地上的靈光衛了……
-78,TEXT_LUCKMD116_03621_ALISAIE_000_082,我們上！<hex:02100103>打倒藏在井裡的傢伙，<hex:02100103>為安穆·艾蘭取回本應擁有的黑暗！
-79,TEXT_LUCKMD116_03621_Q1_000_000,要做什麼
-80,TEXT_LUCKMD116_03621_A1_000_001,對話
-81,TEXT_LUCKMD116_03621_A1_000_002,編成小隊
-82,TEXT_LUCKMD116_03621_A1_000_003,取消
-83,TEXT_LUCKMD116_03621_ALPHINAUD_000_090,我和阿莉塞上次面對靈光衛<hex:02100103>還是在水灘村的時候……<hex:02100103>在那之後，我們在調查的同時也磨練了自己。
-84,TEXT_LUCKMD116_03621_ALPHINAUD_000_091,為了回應為我們打通道路<hex:02100103>而戰鬥至今的所有的「敏菲利亞」，<hex:02100103>我會竭盡全力。
-85,TEXT_LUCKMD116_03621_ALISAIE_000_095,這一刻終於來了……<hex:02100103>那個時候我在哈爾裡克面前發過誓，<hex:02100103>會戰鬥下去，改變這個世界……
-86,TEXT_LUCKMD116_03621_ALISAIE_000_096,現在正是兌現我誓言的時候。<hex:02100103>我要為那些孩子們開闢一條治癒之路！<hex:02100103>我們上吧！
-87,TEXT_LUCKMD116_03621_THANCRED_000_100,沒事，不用擔心我。<hex:02100103>稍微亂來了一下而已，<hex:02100103>托你的福現在傷已經好多了。
-88,TEXT_LUCKMD116_03621_THANCRED_000_101,……只不過看上去很慘而已。<hex:02100103>我先把灰拍掉好了……
-89,TEXT_LUCKMD116_03621_THANCRED_000_102,這可是琳和敏菲利亞努力找出來的，<hex:02100103>我可不能在這趴下，你說是吧？
-90,TEXT_LUCKMD116_03621_RYNE_000_105,說到光的氣息……<hex:02100103><hex:022903EB0203>，你……
-91,TEXT_LUCKMD116_03621_RYNE_000_106,……不，現在還是先集中精力應對眼前的戰鬥。<hex:02100103>我們一定要打倒藏在裡面的靈光衛！
-92,TEXT_LUCKMD116_03621_URIANGER_000_110,呀，忘記告訴你了……<hex:02100103>你們乘坐的礦車<hex:02100103>我已經和瑪格努斯聯繫過讓他運回去了。
-93,TEXT_LUCKMD116_03621_URIANGER_000_111,塔羅斯有所破損，<hex:02100103>不過幸運的是沒有傷到核心……<hex:02100103>母愛真是強大呢。
-94,TEXT_LUCKMD116_03621_YSHTOLA_000_115,對了……<hex:02100103>那個蘭吉特還活著，<hex:02100103>雖然這話可能輪不到我來說……
-95,TEXT_LUCKMD116_03621_YSHTOLA_000_116,從東邊繞過去佯攻的時候可是費了我不少勁。<hex:02100103>怎麼說呢……那個人的戰鬥嗅覺？<hex:02100103>就是這方面的洞察力非比尋常。
-96,TEXT_LUCKMD116_03621_YSHTOLA_000_117,對桑克瑞德來說應該也很少有那麼難對付的對象，<hex:02100103>……他已經幹得很不錯了。
-97,TEXT_LUCKMD116_03621_ALPHINAUD_000_120,終於輪到和沃斯里對決了……<hex:02100103>不過<hex:022903EB0203>，現在先和阿莉塞慶祝一下<hex:02100103>為這片大地取回了黑暗吧。
-98,TEXT_LUCKMD116_03621_THANCRED_000_125,嘖……對我這副身體來說還是有點嚴苛了啊……<hex:02100103>你怎麼樣？沒事吧？
-99,TEXT_LUCKMD116_03621_RYNE_000_130,不知道瑪格努斯他們是不是也會為這片夜空而歡喜呢。<hex:02100103>如果是的話我會很開心的。
-100,TEXT_LUCKMD116_03621_RYNE_000_131,但是<hex:022903EB0203>……<hex:02100103>你的身體……
-101,TEXT_LUCKMD116_03621_URIANGER_000_135,又驅散了一片土地的光，能真切感受到戰鬥接近尾聲了。<hex:02100103>這又是什麼的終結、什麼的開始呢……
-102,TEXT_LUCKMD116_03621_YSHTOLA_000_140,這次愛梅特賽爾克沒來迎接啊。<hex:02100103>真是個搞不懂的男人……
-103,TEXT_LUCKMD116_03621_ALISAIE_000_150,<hex:022903EB0203>，謝謝你。<hex:02100103>哈爾裡克……還有上路客店其他的病人們，<hex:02100103>應該也能慢慢地好轉了。
-104,TEXT_LUCKMD116_03621_ALISAIE_000_151,離開那裡的時候，還有人認為取回黑暗<hex:02100103>是一件不現實的事……<hex:02100103>然而我們卻做到了。
-105,TEXT_LUCKMD116_03621_ALISAIE_000_152,那我們肯定也能取回這個世界剩下的所有黑暗。<hex:02100103>所以我們就贏得最後的戰鬥，<hex:02100103>拯救這兩個世界吧！
+0,"TEXT_LUCKMD116_03621_SEQ_00","For perhaps the first time, the look on Ryne's face is one of utter relief."
+1,"TEXT_LUCKMD116_03621_SEQ_01","You left for Nabaath Areng with a girl named Minfilia, and return with one named Ryne, whom your fellow Scions welcome with open arms. Still more hearteningly, she is eager to put her newfound abilities to good use, revealing that she senses the presence of a Lightwarden to the west. This coincides with Y'shtola's own suspicions after surveying a site known as Malikah's Well. Seemingly, the extensive underground waterway represents a suitable place to hide, and so that is where you will begin your search."
+2,"TEXT_LUCKMD116_03621_SEQ_02","After a short trek westward, you arrive at the edge of a cavernous maw─the entrance to Malikah's Well. You quickly confer with the other Scions, before steeling yourself to step into the unknown.<hex:02100103><hex:02100103>※To enlist your companion NPCs for this duty, speak with them near the entrance or access Duty Support via the main menu. Use the Duty Finder if you wish to complete the instance alongside fellow players."
+3,"TEXT_LUCKMD116_03621_SEQ_03","You wend your way through the underground corridors of the well, its denizens impeding your every step, until you come face-to-face with the Lightwarden. Ignoring the protestations of your already aching limbs, you hurl yourself into battle once more and, after a drawn-out struggle, the beast is laid low."
+4,"TEXT_LUCKMD116_03621_SEQ_04","To your relief, the path leading out of the well is blessedly empty, and soon you emerge beneath a spectacular night sky. The sight of it leaves your fellow Scions in awe, Alisaie seeming especially affected by the view."
+5,"TEXT_LUCKMD116_03621_SEQ_05","With each hard-fought victory, the Light's grip over Norvrandt loosens, Kholusia now serving as its final foothold. Could the salvation of the First at last be within reach? It is a stirring thought, and one likely large in the minds of your comrades as you make ready to return to the Crystal Tower."
+6,"TEXT_LUCKMD116_03621_SEQ_06",""
+7,"TEXT_LUCKMD116_03621_SEQ_07",""
+8,"TEXT_LUCKMD116_03621_SEQ_08",""
+9,"TEXT_LUCKMD116_03621_SEQ_09",""
+10,"TEXT_LUCKMD116_03621_SEQ_10",""
+11,"TEXT_LUCKMD116_03621_SEQ_11",""
+12,"TEXT_LUCKMD116_03621_SEQ_12",""
+13,"TEXT_LUCKMD116_03621_SEQ_13",""
+14,"TEXT_LUCKMD116_03621_SEQ_14",""
+15,"TEXT_LUCKMD116_03621_SEQ_15",""
+16,"TEXT_LUCKMD116_03621_SEQ_16",""
+17,"TEXT_LUCKMD116_03621_SEQ_17",""
+18,"TEXT_LUCKMD116_03621_SEQ_18",""
+19,"TEXT_LUCKMD116_03621_SEQ_19",""
+20,"TEXT_LUCKMD116_03621_SEQ_20",""
+21,"TEXT_LUCKMD116_03621_SEQ_21",""
+22,"TEXT_LUCKMD116_03621_SEQ_22",""
+23,"TEXT_LUCKMD116_03621_SEQ_23",""
+24,"TEXT_LUCKMD116_03621_TODO_00","Survey the designated location."
+25,"TEXT_LUCKMD116_03621_TODO_01","Enter Malikah's Well."
+26,"TEXT_LUCKMD116_03621_TODO_02","Enter Malikah's Well."
+27,"TEXT_LUCKMD116_03621_TODO_03","Speak with Alisaie."
+28,"TEXT_LUCKMD116_03621_TODO_04",""
+29,"TEXT_LUCKMD116_03621_TODO_05",""
+30,"TEXT_LUCKMD116_03621_TODO_06",""
+31,"TEXT_LUCKMD116_03621_TODO_07",""
+32,"TEXT_LUCKMD116_03621_TODO_08",""
+33,"TEXT_LUCKMD116_03621_TODO_09",""
+34,"TEXT_LUCKMD116_03621_TODO_10",""
+35,"TEXT_LUCKMD116_03621_TODO_11",""
+36,"TEXT_LUCKMD116_03621_TODO_12",""
+37,"TEXT_LUCKMD116_03621_TODO_13",""
+38,"TEXT_LUCKMD116_03621_TODO_14",""
+39,"TEXT_LUCKMD116_03621_TODO_15",""
+40,"TEXT_LUCKMD116_03621_TODO_16",""
+41,"TEXT_LUCKMD116_03621_TODO_17",""
+42,"TEXT_LUCKMD116_03621_TODO_18",""
+43,"TEXT_LUCKMD116_03621_TODO_19",""
+44,"TEXT_LUCKMD116_03621_TODO_20",""
+45,"TEXT_LUCKMD116_03621_TODO_21",""
+46,"TEXT_LUCKMD116_03621_TODO_22",""
+47,"TEXT_LUCKMD116_03621_TODO_23",""
+48,"TEXT_LUCKMD116_03621_ALPHINAUD_000_000","Minfilia will be sorely missed. Though it was Grandfather's legacy which first brought me to Eorzea, I would never have become a Scion were it not for her. Indeed, there would <hex:021A020203>be<hex:021A020103> no Scions, and two worlds would be the worse for our absence."
+49,"TEXT_LUCKMD116_03621_ALPHINAUD_000_001","Tataru and the others will no doubt be heartbroken to hear the news of her passing. Until such time as we can return to them, however, we must keep our heads held high. Though we have lost one Scion, we have gained another, after all."
+50,"TEXT_LUCKMD116_03621_ALISAIE_000_005","Do you have any idea how worried we were when word reached us that Ran'jit was alive, and headed for the Hills of Amber?"
+51,"TEXT_LUCKMD116_03621_ALISAIE_000_006","Oh, I can't wait for this to be over, so we can all go home. Assuming we even <hex:021A020203>can<hex:021A020103>."
+52,"TEXT_LUCKMD116_03621_THANCRED_000_010","Thank you for standing by Ryne. And Minfilia. I'm sure it meant a lot to her, seeing you one last time."
+53,"TEXT_LUCKMD116_03621_THANCRED_000_011","Would that I could have been there to hear what words were exchanged between them. When all of this is over, perhaps I'll ask."
+54,"TEXT_LUCKMD116_03621_URIANGER_000_015","Despite this glad turn of events, the suffering born of mine all-too-arrogant meddling paineth me still."
+55,"TEXT_LUCKMD116_03621_URIANGER_000_016","And yet...their smiles do give me hope for the morrow."
+56,"TEXT_LUCKMD116_03621_YSHTOLA_000_020","Ryne's aether has changed. It has taken on a faint, golden hue. Curious..."
+57,"TEXT_LUCKMD116_03621_RYNE_000_030","I honestly don't know how to repay you for all you've done, but I promise to do whatever I can to help."
+58,"TEXT_LUCKMD116_03621_ALISAIE_000_031","Are you certain you're up to fighting so soon? I can't imagine the power of the Oracle is something one learns to wield in the space of a few hours."
+59,"TEXT_LUCKMD116_03621_RYNE_000_032","Maybe not, but the presence of the Lightwardens is unmistakable to me now."
+60,"TEXT_LUCKMD116_03621_RYNE_000_033","In fact, I sense one here in Amh Araeng, to the west. I think it might be hiding underground."
+61,"TEXT_LUCKMD116_03621_ALPHINAUD_000_034","Underground? Then it's as we suspected!"
+62,"TEXT_LUCKMD116_03621_YSHTOLA_000_035","We thought it prudent to take a brief survey of the area prior to your arrival."
+63,"TEXT_LUCKMD116_03621_YSHTOLA_000_036","To the west we found the remains of a site known as Malikah's Well."
+64,"TEXT_LUCKMD116_03621_YSHTOLA_000_037","If I recall correctly, the well was built in remembrance of one of the ancient kings of Nabaath Areng to serve as a source of respite from the desert heat."
+65,"TEXT_LUCKMD116_03621_YSHTOLA_000_038","It fell into disuse after the Flood, whereupon the miners of Amh Araeng thought to turn part of it into an excavation site."
+66,"TEXT_LUCKMD116_03621_ALPHINAUD_000_039","Judging by its size, the underground waterways are no doubt extensive. The perfect hiding place for a Warden."
+67,"TEXT_LUCKMD116_03621_ALPHINAUD_000_040","Ryne, are you certain you can track it down?"
+68,"TEXT_LUCKMD116_03621_RYNE_000_041","Leave it to me."
+69,"TEXT_LUCKMD116_03621_THANCRED_000_042","Then it's settled. We make for Malikah's Well."
+70,"TEXT_LUCKMD116_03621_ALPHINAUD_000_050","A marvel of ingenuity, is it not?"
+71,"TEXT_LUCKMD116_03621_ALISAIE_000_055","Something about this doesn't feel right..."
+72,"TEXT_LUCKMD116_03621_THANCRED_000_060","I didn't expect to see Talos wandering about─much less of their own accord. How long must it have been since their creators' bones turned to dust?"
+73,"TEXT_LUCKMD116_03621_RYNE_000_065","The Warden is down there. I can feel it."
+74,"TEXT_LUCKMD116_03621_URIANGER_000_070","That the walls should still bear so great a burden after countless years of neglect bespeaketh the surpassing skill of their architects."
+75,"TEXT_LUCKMD116_03621_YSHTOLA_000_075","Though I cannot see it as you do, it is a no less awe-inspiring sight."
+76,"TEXT_LUCKMD116_03621_RYNE_000_080","It's here. I can taste its aether on the wind."
+77,"TEXT_LUCKMD116_03621_ALISAIE_000_081","Then we've finally found our mark."
+78,"TEXT_LUCKMD116_03621_ALISAIE_000_082","Let's put an end to this, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, and return the night sky to Amh Araeng."
+79,"TEXT_LUCKMD116_03621_Q1_000_000","What will you do?"
+80,"TEXT_LUCKMD116_03621_A1_000_001","Small talk."
+81,"TEXT_LUCKMD116_03621_A1_000_002","Form a party and enter Malikah's Well."
+82,"TEXT_LUCKMD116_03621_A1_000_003","Nothing."
+83,"TEXT_LUCKMD116_03621_ALPHINAUD_000_090","Our battle with the Warden of Holminster Switch was an eye-opening experience, to say the least. Alisaie and I have trained tirelessly that we might be better prepared for our next such encounter."
+84,"TEXT_LUCKMD116_03621_ALPHINAUD_000_091","For Minfilia, and the countless souls who struggled to carry on her legacy, we must end this."
+85,"TEXT_LUCKMD116_03621_ALISAIE_000_095","I can't help thinking about all the children at the Inn. Abandoned to wait for the inevitable."
+86,"TEXT_LUCKMD116_03621_ALISAIE_000_096","So long as the Light holds sway here, there is no hope for them. But if we defeat the Wardens, if we restore the night, then maybe...maybe they can still be saved."
+87,"TEXT_LUCKMD116_03621_THANCRED_000_100","No need to worry about me. Urianger and Y'shtola were quite thorough in their ministrations."
+88,"TEXT_LUCKMD116_03621_THANCRED_000_101","A pity their magicks did nothing for my clothes."
+89,"TEXT_LUCKMD116_03621_THANCRED_000_102","At any rate, we cannot well stop now. Not after all Ryne and Minfilia have given to bring us this far."
+90,"TEXT_LUCKMD116_03621_RYNE_000_105","The Warden's presence feels...familiar somehow. Now that I think about it, it reminds me of..."
+91,"TEXT_LUCKMD116_03621_RYNE_000_106","But that makes no sense. Sorry. I'm sure I'm just imagining things."
+92,"TEXT_LUCKMD116_03621_URIANGER_000_110","Lest thou worry, I did relay unto Magnus word of thine untimely accident whilst I waited for thee to return from thine audience with the Oracle. He hath since reclaimed his Talos and trolley both, and meaneth to begin repairs anon."
+93,"TEXT_LUCKMD116_03621_URIANGER_000_111","For a blessing, the damage was but superficial, the leonine heart unmarred by Ran'jit's onslaught."
+94,"TEXT_LUCKMD116_03621_YSHTOLA_000_115","I was surprised to hear Ran'jit survived the fall. Though I suppose I did the same."
+95,"TEXT_LUCKMD116_03621_YSHTOLA_000_116","More surprising is how he so readily saw through our diversion."
+96,"TEXT_LUCKMD116_03621_YSHTOLA_000_117","A foe possessed of such cunning would be sufficient cause for concern in itself, but one capable of besting Thancred in combat too...? We would do well not to underestimate him when next we meet."
+97,"TEXT_LUCKMD116_03621_ALPHINAUD_000_120","The end to Light's dominion over this world is fast at hand."
+98,"TEXT_LUCKMD116_03621_THANCRED_000_125","Perhaps their ministrations were not as thorough as I thought. Or perhaps I was a touch too reckless."
+99,"TEXT_LUCKMD116_03621_RYNE_000_130","If only I could've seen the look on Magnus's face when the night sky returned. They must all be so happy."
+100,"TEXT_LUCKMD116_03621_RYNE_000_131","But what about you, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>? Do you feel...different at all?"
+101,"TEXT_LUCKMD116_03621_URIANGER_000_135","Once more shall the night share equal dominion over the firmament.<hex:02100103>And yet our travails are far from over..."
+102,"TEXT_LUCKMD116_03621_YSHTOLA_000_140","Is this not the moment Emet-Selch usually chooses to descend upon us? Whatever will we do without his feigned praise and backhanded compliments?"
+103,"TEXT_LUCKMD116_03621_ALISAIE_000_150","We did it. We really did it. I only wish there were time to visit the Inn. We can but hope the return of night has granted the residents some shred of comfort."
+104,"TEXT_LUCKMD116_03621_ALISAIE_000_151","They thought the world beyond changing. But today I think we proved them wrong."
+105,"TEXT_LUCKMD116_03621_ALISAIE_000_152","We <hex:021A020203>will<hex:021A020103> fix this broken land, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Together."

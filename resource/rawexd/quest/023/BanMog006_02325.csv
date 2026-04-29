@@ -2,116 +2,116 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_BANMOG006_02325_SEQ_00,<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整<hex:0249020103><hex:0248020103><hex:02100103>憶念廣場的團長莫古京希望冒險者和他一起聽聽塔雷松說的話。
-1,TEXT_BANMOG006_02325_SEQ_01,※本任務為<hex:024804F201FC03><hex:024904F201FD03><hex:0249020103><hex:0248020103> 等級調整任務。<hex:02100103><hex:02100103>前情回顧：<hex:02100103>冒險者和莫古京從塔雷松那裡聽說神殿騎士團準備的資材一直沒有送到。冒險者將回收資材的任務交給了莫古京。為了解決莫古京他們技藝停滯不前的問題，冒險者要挑戰製作新的工具。將完成的試製品拿給完成回收資材任務的莫古京試了一下，據說比之前的工具好用多了。進而在試製品的基礎上更換了莫古力修復團的工具，技藝停滯不前的問題得以解決。<hex:02100103>　　　　　　　　　　　　*　*　*<hex:02100103>莫古京拜託冒險者和他一起聽聽塔雷松說的話。和憶念廣場的塔雷松談談。
-2,TEXT_BANMOG006_02325_SEQ_02,和塔雷松進行了交談，準備著手修復「友情之證」這座石像。塔雷松委託冒險者到神殿騎士團借來從異端者那裡沒收的雕像當做樣本。將<hex:022811FF0A>EventItem<hex:F61E8C3B0103>交給伊修加德神殿騎士團總部的昂德盧。
-3,TEXT_BANMOG006_02325_SEQ_03,將<hex:022811FF0A>EventItem<hex:F61E8C3B0103>交給了對借出雕像有所遲疑的昂德盧。據他所說，使用書信上所寫的方法就可以借出<hex:022811FF0A>EventItem<hex:F61E8C3C0103>了。另外，昂德盧還告訴了冒險者，塔雷松其實是前代澤梅爾伯爵。和神殿騎士團總部的萬卡內談談，獲取<hex:022811FF0A>EventItem<hex:F61E8C3C0103>。
-4,TEXT_BANMOG006_02325_SEQ_04,和萬卡內進行了交談，獲得了<hex:022811FF0A>EventItem<hex:F61E8C3C0103>。將<hex:022811FF0A>EventItem<hex:F61E8C3C0103>交給憶念廣場的塔雷松。
-5,TEXT_BANMOG006_02325_SEQ_05,將<hex:022811FF0A>EventItem<hex:F61E8C3C0103>交給了塔雷松。他向冒險者吐露了心聲，講述了身為前代澤梅爾伯爵的他為何會參加莫古力族的修復計劃。為了獲取製作部件所需的材料，和憶念廣場的貪吃的莫古姆力談談。
-6,TEXT_BANMOG006_02325_SEQ_06,從莫古姆力那裡得到了材料。用<hex:02280BFF05>Item<hex:F23D850103>製作<hex:02280DFF07>ItemHQ<hex:F23D6B0103>，並將其交給憶念廣場的團長莫古京。<hex:02100103><hex:02100103>※如果<hex:02280BFF05>Item<hex:F23D850103>不足，可以與貪吃的莫古姆力對話重新獲得材料，並再次進行挑戰。
-7,TEXT_BANMOG006_02325_SEQ_07,將<hex:02280DFF07>ItemHQ<hex:F23D6B0103>交給了莫古京。莫古京他們使用冒險者製作的部件，成功修復了石像，正在這時，古林博斯蒂出現了。它看過石像後，認可了莫古京他們。但是，莫古京看上去有些不夠滿意……修復作業終於要進入到最終階段，繼續協助指導他們。
-8,TEXT_BANMOG006_02325_SEQ_08,
-9,TEXT_BANMOG006_02325_SEQ_09,
-10,TEXT_BANMOG006_02325_SEQ_10,
-11,TEXT_BANMOG006_02325_SEQ_11,
-12,TEXT_BANMOG006_02325_SEQ_12,
-13,TEXT_BANMOG006_02325_SEQ_13,
-14,TEXT_BANMOG006_02325_SEQ_14,
-15,TEXT_BANMOG006_02325_SEQ_15,
-16,TEXT_BANMOG006_02325_SEQ_16,
-17,TEXT_BANMOG006_02325_SEQ_17,
-18,TEXT_BANMOG006_02325_SEQ_18,
-19,TEXT_BANMOG006_02325_SEQ_19,
-20,TEXT_BANMOG006_02325_SEQ_20,
-21,TEXT_BANMOG006_02325_SEQ_21,
-22,TEXT_BANMOG006_02325_SEQ_22,
-23,TEXT_BANMOG006_02325_SEQ_23,
-24,TEXT_BANMOG006_02325_TODO_00,和塔雷松對話
-25,TEXT_BANMOG006_02325_TODO_01,將<hex:022811FF0A>EventItem<hex:F61E8C3B0103>交給神殿騎士團總部的昂德盧
-26,TEXT_BANMOG006_02325_TODO_02,和萬卡內對話
-27,TEXT_BANMOG006_02325_TODO_03,將<hex:022811FF0A>EventItem<hex:F61E8C3C0103>交給憶念廣場的塔雷松
-28,TEXT_BANMOG006_02325_TODO_04,和貪吃的莫古姆力對話
-29,TEXT_BANMOG006_02325_TODO_05,<hex:02086AE3E802E803FF39>製作筆記 友好部族任務：製作<hex:02280DFF07>ItemHQ<hex:F23D6B0103><hex:FF29>將<hex:02280DFF07>ItemHQ<hex:F23D6B0103>交給團長莫古京<hex:03>
-30,TEXT_BANMOG006_02325_TODO_06,
-31,TEXT_BANMOG006_02325_TODO_07,
-32,TEXT_BANMOG006_02325_TODO_08,
-33,TEXT_BANMOG006_02325_TODO_09,
-34,TEXT_BANMOG006_02325_TODO_10,
-35,TEXT_BANMOG006_02325_TODO_11,
-36,TEXT_BANMOG006_02325_TODO_12,
-37,TEXT_BANMOG006_02325_TODO_13,
-38,TEXT_BANMOG006_02325_TODO_14,
-39,TEXT_BANMOG006_02325_TODO_15,
-40,TEXT_BANMOG006_02325_TODO_16,
-41,TEXT_BANMOG006_02325_TODO_17,
-42,TEXT_BANMOG006_02325_TODO_18,
-43,TEXT_BANMOG006_02325_TODO_19,
-44,TEXT_BANMOG006_02325_TODO_20,
-45,TEXT_BANMOG006_02325_TODO_21,
-46,TEXT_BANMOG006_02325_TODO_22,
-47,TEXT_BANMOG006_02325_TODO_23,
-48,TEXT_BANMOG006_02325_MOGZIN_000_000,老師，莫古一直在等你庫啵！<hex:02100103>和莫古一起去找老大，聽聽老大要說什麼吧庫啵！<hex:02100103>老大一定是要講有關修復那座石像的事情庫啵！
-49,TEXT_BANMOG006_02325_MOGZIN_000_001,哈哈哈，這一刻終於來臨了庫啵！<hex:02100103>一定要讓古林博斯蒂認可莫古們庫啵！<hex:02100103>老師，和莫古一起去聽老大要說什麼吧庫啵！
-50,TEXT_BANMOG006_02325_TARRESSON_000_010,哦，冒險者閣下。<hex:02100103>非常抱歉，你能稍微等一下嗎？<hex:02100103>還有參加者沒到……哦，來了。
-51,TEXT_BANMOG006_02325_OHLDEEH_000_011,嘿，塔雷松老爺子，你有話要說？<hex:02100103>終於要用到我的力量了嗎？
-52,TEXT_BANMOG006_02325_TARRESSON_000_012,是啊，你說的沒錯。<hex:02100103>這次可是修復作業的最關鍵一環。<hex:02100103>如果沒有你的力量，我們是無論如何也完成不了的。
-53,TEXT_BANMOG006_02325_OHLDEEH_000_013,哈，真是沒轍啊！<hex:02100103>那我就助你們一翼之力好了！<hex:02100103>……這次要幹點什麼啊？
-54,TEXT_BANMOG006_02325_MOGZIN_000_014,那當然是——<hex:02100103>古林博斯蒂委託的石像修復工作庫啵！
-55,TEXT_BANMOG006_02325_TARRESSON_000_015,沒錯，就是那座被稱為「友情之證」的石像。<hex:02100103>大家都已經用慣了新工具，手藝也磨練得差不多了。<hex:02100103>修復作業也將要進入最後階段了……所以我覺得是時候了。
-56,TEXT_BANMOG006_02325_MOGZIN_000_016,庫啵啵！莫古們會好好幹庫啵！！<hex:02100103>……不過，友情之證長什麼樣子庫啵？
-57,TEXT_BANMOG006_02325_TARRESSON_000_017,既沒有留下資料也沒有留下遺跡，所以根本不清楚啊。<hex:02100103>畢竟這個廣場是從千年前，人龍交融歲月時期就有的遺跡……
-58,TEXT_BANMOG006_02325_MOGZIN_000_018,千年前……人和龍？
-59,TEXT_BANMOG006_02325_OHLDEEH_000_019,看來輪到我出場了！<hex:02100103>那恐怕指的就是「人龍」像！<hex:02100103>我從古翼大叔那裡聽說過，以前有好多那種雕像呢！
-60,TEXT_BANMOG006_02325_TARRESSON_000_020,如果是指人龍交融時代的設計的話，<hex:02100103>那的確是符合「友情之證」這一名字！
-61,TEXT_BANMOG006_02325_MOGZIN_000_021,人龍像就是友情之證，莫古明白了庫啵。<hex:02100103>但是，沒有實物的話，就只能重新創作新的了庫啵……<hex:02100103>有沒有什麼可以拿來參考的庫啵？
-62,TEXT_BANMOG006_02325_TARRESSON_000_030,……倒是可以參考一下隼巢的浮雕，<hex:02100103>不過那也沒辦法拿到雲海上來。<hex:02100103>至於其他可參考的東西嘛……
-63,TEXT_BANMOG006_02325_TARRESSON_000_040,我也沒有人龍像。<hex:02100103>如果持有那種東西，在皇都是會被當做異端處理的。<hex:02100103>至於其他可參考的東西嘛……
-64,TEXT_BANMOG006_02325_TARRESSON_000_050,對了！神殿騎士團可能會保管從異端者那裡沒收的雕像！
-65,TEXT_BANMOG006_02325_TARRESSON_000_051,冒險者閣下，能麻煩你回趟皇都嗎？<hex:02100103>找昂德盧閣下商量一下，<hex:02100103>看能不能借來<hex:022811FF0A>EventItem<hex:F61E8C3C0103>。
-66,TEXT_BANMOG006_02325_TARRESSON_000_052,如果昂德盧閣下不肯借的話，<hex:02100103>就把這封書信給他。<hex:02100103>他一定會很痛快地交出來的……
-67,TEXT_BANMOG006_02325_MOGZIN_000_053,老大，你把籌備樣本的任務交給老師的話，<hex:02100103>那莫古們要幹什麼庫啵？<hex:02100103>練習修復技術庫啵？
-68,TEXT_BANMOG006_02325_TARRESSON_000_054,你就去跟莫古姆力談一談，準備石材吧！<hex:02100103>奧爾·迪就去幫莫古京吧。
-69,TEXT_BANMOG006_02325_TARRESSON_000_055,我就在這段時間準備好放置石像的底座。<hex:02100103>那我們開始行動吧！
-70,TEXT_BANMOG006_02325_TARRESSON_000_056,你回到皇都，找昂德盧閣下借來<hex:022811FF0A>EventItem<hex:F61E8C3C0103>。<hex:02100103>如果他不肯借的話，就把我的那封書信給他。
-71,TEXT_BANMOG006_02325_HANDELOUP_000_060,……你想要用<hex:022811FF0A>EventItem<hex:F61E8C3C0103>當做修復用的樣本？<hex:02100103>但憑我個人的意見很難把沒收物品借給你啊……
-72,TEXT_BANMOG006_02325_HANDELOUP_000_070,雖然我也很想幫你，但是也不能違反規定。<hex:02100103>有什麼其他的辦法……嗯？塔雷松閣下給我的信？
-73,TEXT_BANMOG006_02325_HANDELOUP_000_071,嗯嗯……雕像原本就是翻雲霧海的東西。<hex:02100103>要「返還」給居住在雲海的莫古力族。<hex:02100103>既然是返還掠奪物品，那教皇廳也不能說什麼了。
-74,TEXT_BANMOG006_02325_HANDELOUP_000_072,不愧是澤梅爾家的老狐狸……<hex:02100103>這種手續上的漏洞都能鑽。<hex:02100103>……我明白了，我這就給你準備。
-75,TEXT_BANMOG006_02325_HANDELOUP_000_073,嗯……難道說你不知道關於塔雷松閣下的事情？<hex:02100103>他名叫塔雷松·德·澤梅爾……就是前代澤梅爾伯爵。<hex:02100103>不過他現在已經引退，過著悠然自得的生活。
-76,TEXT_BANMOG006_02325_HANDELOUP_100_073,總之，東西你就去找我的部下拿吧。<hex:02100103>找萬卡內就可以，他會把沒收的<hex:022811FF0A>EventItem<hex:F61E8C3C0103>交給你。
-77,TEXT_BANMOG006_02325_HANDELOUP_000_074,<hex:022903EB0203>閣下，我聽說修復作業也要進展到最後階段了。<hex:02100103>拜託你支援莫古力他們到最後。
-78,TEXT_BANMOG006_02325_VAINCANNET_100_074,……你想要取走沒收的<hex:022811FF0A>EventItem<hex:F61E8C3C0103>？<hex:02100103>既然有昂德盧閣下的批准，那是沒問題的。<hex:02100103>雖然不知道你要用來幹嘛，不過請收好。
-79,TEXT_BANMOG006_02325_MOGZIN_000_075,莫古找到了合適的石材庫啵！<hex:02100103>但是，卻出了些別的問題庫啵……<hex:02100103>總之老師先去跟老大說一聲吧庫啵。
-80,TEXT_BANMOG006_02325_OHLDEEH_000_076,甭擔心，有我跟著，收集石材那都不叫事！<hex:02100103>以後這種小事隨便說一聲，保證隨叫隨到！
-81,TEXT_BANMOG006_02325_TARRESSON_000_080,你回來了，冒險者閣下。<hex:02100103>順利借到<hex:022811FF0A>EventItem<hex:F61E8C3C0103>了嗎？
-82,TEXT_BANMOG006_02325_TARRESSON_000_081,……這就是<hex:022811FF0A>EventItem<hex:F61E8C3C0103>啊。<hex:02100103>狀態還不錯，用來當樣本是沒問題的。
-83,TEXT_BANMOG006_02325_TARRESSON_000_082,……說起來，冒險者閣下。<hex:02100103>你把書信交給昂德盧閣下了啊。<hex:02100103>那應該也從他那裡聽說我是什麼人了吧？
-84,TEXT_BANMOG006_02325_TARRESSON_000_083,抱歉我這麼晚才自我介紹。<hex:02100103>我名叫塔雷松·德·澤梅爾。<hex:02100103>雖然現在已將家裡交給兒子管理了，不過好歹也是前代伯爵。
-85,TEXT_BANMOG006_02325_TARRESSON_000_084,感覺很意外嗎？大貴族竟然參加了修復計劃。<hex:02100103>可能你會覺得這只是貴族的消遣。<hex:02100103>不過，我真的只是想要以一個工匠的身份度過餘生。
-86,TEXT_BANMOG006_02325_TARRESSON_000_085,澤梅爾家是擅長築城技術的名門。<hex:02100103>因此，我是在工匠堆裡長大的，而且也掌握了相應的技術。<hex:02100103>但是，在繼承了爵位之後，手握工具的機會就變少了。
-87,TEXT_BANMOG006_02325_TARRESSON_100_085,每天面對的都是權謀術數，爭權奪利……<hex:02100103>就為了保全澤梅爾家的名門地位……
-88,TEXT_BANMOG006_02325_TARRESSON_000_086,我兒子在成長過程中，看到的都是那樣的我。<hex:02100103>因此，我沒能將何為「工匠魂」教給他。<hex:02100103>給莫古力族做技術指導，也可能是對此的贖罪吧。
-89,TEXT_BANMOG006_02325_TARRESSON_000_087,……哈哈哈，聽老頭嘮叨這些很無聊吧。<hex:02100103>我們還是回到石像的修復工作上吧。<hex:02100103>當然，還是得拜託冒險者閣下出把力。
-90,TEXT_BANMOG006_02325_TARRESSON_000_090,我想要拜託你製作結實的金屬樁。<hex:02100103>石像會比較重，需要用它來支撐。<hex:02100103>這個部件很重要，就拜託手藝高超的你了。
-91,TEXT_BANMOG006_02325_TARRESSON_000_100,我想要拜託你製作打磨石材用的砂紙。<hex:02100103>要打造精美的石像，最後的加工打磨環節十分重要。<hex:02100103>所以就拜託手藝高超的你籌備品質優良的砂紙了。
-92,TEXT_BANMOG006_02325_TARRESSON_000_110,我想要拜託你製作用來保護石材的保護劑。<hex:02100103>為了防止石像被雲海的強風腐蝕，這東西是必不可少的。<hex:02100103>所以就拜託手藝高超的你去籌備了。
-93,TEXT_BANMOG006_02325_TARRESSON_000_120,所需的材料就去找莫古姆力取吧，<hex:02100103>完成之後把東西交給莫古京。<hex:02100103>那這次也拜託你了，冒險者閣下。
-94,TEXT_BANMOG006_02325_MOGZIN_000_121,老師要協助修復石像庫啵？<hex:02100103>好開心，但同時內心也好複雜庫啵。<hex:02100103>莫古想盡快提高技術，不用再藉助老師的力量庫啵。
-95,TEXT_BANMOG006_02325_TARRESSON_000_122,拜託你製作<hex:02280DFF07>ItemHQ<hex:F23D6B0103>。<hex:02100103>所需的材料就去找莫古姆力取吧，<hex:02100103>完成之後把東西交給莫古京。
-96,TEXT_BANMOG006_02325_MOGMUL_000_130,大家都在修復石像庫啵。<hex:02100103>雖然莫古肚子餓了，不過莫古會忍著庫啵！<hex:02100103>……冒險者也來幫忙的話，莫古可以提供材料庫啵！
-97,TEXT_BANMOG006_02325_MOGMUL_000_131,莫古們收集材料為的就是這一刻，<hex:02100103>材料還多得是庫啵！<hex:02100103>你要是不夠的話再來莫古這裡拿庫啵！
-98,TEXT_BANMOG006_02325_MOGMUL_100_131,冒險者真是無論何時都能做出不得了的東西呢庫啵！<hex:02100103>負責收集素材的同伴們也都在暗中偷著樂呢庫啵！<hex:02100103>咦……好像有哪裡不對庫啵？
-99,TEXT_BANMOG006_02325_MOGZIN_000_140,老師，你製作好<hex:02280DFF07>ItemHQ<hex:F23D6B0103>了庫啵？<hex:02100103>麻煩你了，真是過意不去庫啵。
-100,TEXT_BANMOG006_02325_MOGZIN_000_131,老師製作的東西總是那麼棒庫啵。<hex:02100103>這樣一來，石像的品質一定能提高庫啵！<hex:02100103>好，那莫古就用這個繼續進行修復工作庫啵！
-101,TEXT_BANMOG006_02325_MOGZIN_000_300,完、完成了庫啵……<hex:02100103>形狀已經完美地打造出來了庫啵。<hex:02100103>古林博斯蒂看到一定也會認可的庫啵！
-102,TEXT_BANMOG006_02325_COLORDRAGON_000_301,莫古力們，我要求的石像修復得怎麼樣了？<hex:02100103>我想你們也是時候要放棄了，就過來看看……
-103,TEXT_BANMOG006_02325_MOGZIN_000_302,來得正好庫啵！<hex:02100103>莫古們剛剛修復好石像庫啵！<hex:02100103>你就好好看看，盡情稱讚莫古們吧庫啵！
-104,TEXT_BANMOG006_02325_COLORDRAGON_000_303,「人龍」石像……<hex:02100103>這和千年前的「友情之證」很像。<hex:02100103>但是，我……
-105,TEXT_BANMOG006_02325_COLORDRAGON_000_304,沒什麼……只不過想起了舊事。<hex:02100103>我就認可你們了，莫古力。<hex:02100103>今後你們繼續修復廣場吧。
-106,TEXT_BANMOG006_02325_MOGZIN_000_305,……古林博斯蒂，妥協了……庫啵？
-107,TEXT_BANMOG006_02325_SYSTEM_000_500,莫古力修復團成功修復了石像。<hex:02100103>但是莫古京有些在意古林博斯蒂的反應……
-108,TEXT_BANMOG006_02325_SYSTEM_000_200,與莫古力族「莫古力修復團」之間的關係程度到達了「名譽」，<hex:02100103>成功修復了目標石像，與他們之間的感情更加深厚了。
-109,TEXT_BANMOG006_02325_SYSTEM_000_201,今後可以在憶念廣場的機靈的莫古艾克處，<hex:02100103>接受新的友好部族日常任務。
-110,TEXT_BANMOG006_02325_SYSTEM_000_202,另外，作為獎勵，<hex:02100103>友好關係等級提升的當天，<hex:02100103>可從機靈的莫古艾克處接受的友好部族日常任務數量追加3個。
-111,TEXT_BANMOG006_02325_SYSTEM_000_203,領取完所有友好關係等級提升前發行的友好部族日常任務後，<hex:02100103>將會發行作為獎勵的追加任務。<hex:02100103>受理限額未達到上限即可接受追加任務。
-112,TEXT_BANMOG006_02325_SYSTEM_000_204,並且可以在「貪吃的莫古姆力」處購入要求「關係程度：名譽」的商品。<hex:02100103>在今後的冒險裡善加利用吧！
+0,"TEXT_BANMOG006_02325_SEQ_00","<hex:024804F201FC03><hex:024904F201FD03> Quest Sync<hex:0249020103><hex:0248020103><hex:02100103>Master Mogzin is looking frantically around the Mogmender camp."
+1,"TEXT_BANMOG006_02325_SEQ_01","At long last, the Mogmenders are ready to begin building the statue demanded by Gullinbursti. Tarresson and Mogzin have been waiting for you to discuss how to begin construction.<hex:02100103><hex:02100103>※Please note that the difficulty of this quest has been synced to your current level."
+2,"TEXT_BANMOG006_02325_SEQ_02","Although Mogzin would like to begin work immediately, you realize that although you know what the statue stood for, you do not know what it looked like. After mulling over the question for a moment, you come to the conclusion that it likely depicted a scene of man and dragon living in harmony. However, with all such statues having been destroyed years ago, there is nothing to base yours on. Tarresson suggests that maybe the Temple Knights possess something that could be of use, and instructs you to go to the Congregation to ask Ser Handeloup if he can part with a heretical idol. In case the knight is hesitant to fulfill your request, Tarresson gives you a letter which he assures you will convince Ser Handeloup to do so."
+3,"TEXT_BANMOG006_02325_SEQ_03","As Tarresson suspected, Handeloup initially refuses your request, but changes his mind after reading the contents of the letter. In it, Tarresson has written that any figures taken from the Churning Mists should be returned to the moogles, as they have been tasked with taking care of the ancient ruins which dot the region. You ask how Tarresson knows so much about Ishgardian politics, prompting Handeloup to reveal that the humble stonemason was once in fact the count of House Dzemael. The commander agrees that Tarresson's reasoning is sound, and grants you leave to request an idol from his subordinate Vaincannet."
+4,"TEXT_BANMOG006_02325_SEQ_04","The attendant rummages through a collection of similar-looking statuettes and hands you one. Although it seems there are many others like it, you hold in your hand the image which will be immortalized at Bahrr Lehs."
+5,"TEXT_BANMOG006_02325_SEQ_05","Tarresson exclaims that the idol is the perfect model to base the statue on, and observes that you have returned without the letter he sent you with. It is then that he formally introduces himself as the former Count de Dzemael, and he confides that the work with the Mogmenders has been an ideal way for him to spend his time since stepping down from the position of count. He returns to the matter of the statue, and tasks you with crafting yet another set of supplies. Mogmul awaits with any materials you require."
+6,"TEXT_BANMOG006_02325_SEQ_06","Mogmul seems eager to have the statue completed, if only for the fact that it means he will at last be able to eat something. However, he promises to stay vigilant until your work is done.<hex:02100103><hex:02100103>※In the event you lose the ingredients or the synthesis ends in failure, you may try again by speaking with Mogmul Mogbelly."
+7,"TEXT_BANMOG006_02325_SEQ_07","Mogzin applies the final touches to the statue, and everyone stands back to look in pride upon their accomplishment. Just then, Gullinbursti descends from the skies to pass judgment on the work of man and moogle. However, while he does not deride your efforts, it is a far cry from the accolades that Mogzin had hoped to receive. The dragon promises not to interfere further, but as he flies away, you cannot help but think that your work is far from over."
+8,"TEXT_BANMOG006_02325_SEQ_08",""
+9,"TEXT_BANMOG006_02325_SEQ_09",""
+10,"TEXT_BANMOG006_02325_SEQ_10",""
+11,"TEXT_BANMOG006_02325_SEQ_11",""
+12,"TEXT_BANMOG006_02325_SEQ_12",""
+13,"TEXT_BANMOG006_02325_SEQ_13",""
+14,"TEXT_BANMOG006_02325_SEQ_14",""
+15,"TEXT_BANMOG006_02325_SEQ_15",""
+16,"TEXT_BANMOG006_02325_SEQ_16",""
+17,"TEXT_BANMOG006_02325_SEQ_17",""
+18,"TEXT_BANMOG006_02325_SEQ_18",""
+19,"TEXT_BANMOG006_02325_SEQ_19",""
+20,"TEXT_BANMOG006_02325_SEQ_20",""
+21,"TEXT_BANMOG006_02325_SEQ_21",""
+22,"TEXT_BANMOG006_02325_SEQ_22",""
+23,"TEXT_BANMOG006_02325_SEQ_23",""
+24,"TEXT_BANMOG006_02325_TODO_00","Speak with Tarresson. "
+25,"TEXT_BANMOG006_02325_TODO_01","Deliver the letter to Handeloup at the Congregation of Our Knights Most Heavenly."
+26,"TEXT_BANMOG006_02325_TODO_02","Speak with Vaincannet."
+27,"TEXT_BANMOG006_02325_TODO_03","Deliver the statuette to Tarresson at Bahrr Lehs."
+28,"TEXT_BANMOG006_02325_TODO_04","Speak with Mogmul Mogbelly."
+29,"TEXT_BANMOG006_02325_TODO_05","<hex:020869E3E802E803FF29>Synthesize statue supplies <hex:02280AFF06>Addon<hex:0A0103><hex:FF38>Show the statue supplies <hex:02280AFF06>Addon<hex:0A0103> to Master Mogzin<hex:03>."
+30,"TEXT_BANMOG006_02325_TODO_06",""
+31,"TEXT_BANMOG006_02325_TODO_07",""
+32,"TEXT_BANMOG006_02325_TODO_08",""
+33,"TEXT_BANMOG006_02325_TODO_09",""
+34,"TEXT_BANMOG006_02325_TODO_10",""
+35,"TEXT_BANMOG006_02325_TODO_11",""
+36,"TEXT_BANMOG006_02325_TODO_12",""
+37,"TEXT_BANMOG006_02325_TODO_13",""
+38,"TEXT_BANMOG006_02325_TODO_14",""
+39,"TEXT_BANMOG006_02325_TODO_15",""
+40,"TEXT_BANMOG006_02325_TODO_16",""
+41,"TEXT_BANMOG006_02325_TODO_17",""
+42,"TEXT_BANMOG006_02325_TODO_18",""
+43,"TEXT_BANMOG006_02325_TODO_19",""
+44,"TEXT_BANMOG006_02325_TODO_20",""
+45,"TEXT_BANMOG006_02325_TODO_21",""
+46,"TEXT_BANMOG006_02325_TODO_22",""
+47,"TEXT_BANMOG006_02325_TODO_23",""
+48,"TEXT_BANMOG006_02325_MOGZIN_000_000","Where could <hex:02080CE905FF04>she<hex:FF03>he<hex:03> be... Where could <hex:02080CE905FF04>she<hex:FF03>he<hex:03> be? Oh, there you are, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! Tarresson's ready to discuss how to begin building the statue, but we dare not start without you, kupo! Now, let's see what he has to say!"
+49,"TEXT_BANMOG006_02325_MOGZIN_000_001","Gullinbursti will be moved to tears by our work! Can dragons cry, kupo? Ah, never mind all that. I suppose we shouldn't get ahead of ourselves. Let's first discuss where to begin!"
+50,"TEXT_BANMOG006_02325_TARRESSON_000_010","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, how good of you to join us! Once Ohl Deeh graces us with his presence we can begin our discussion. Ah, here he is now."
+51,"TEXT_BANMOG006_02325_OHLDEEH_000_011","Greetings. For what purpose did you summon me here? Do you require my strength once more?"
+52,"TEXT_BANMOG006_02325_TARRESSON_000_012","Indeed, Ohl Deeh, we would avail ourselves of your legendary strength. All of our work thus far has brought us to this decisive moment, and without your stout wings I fear we will have little hope of success!"
+53,"TEXT_BANMOG006_02325_OHLDEEH_000_013","Then of course my wings are yours! I would never stand idly by as my friends struggle! No task is too large for me!"
+54,"TEXT_BANMOG006_02325_MOGZIN_000_014","I knew we could count on your support, kupo! Finally, we are ready to begin work on the Mogmenders' first official commission: the statue requested by Gullinbursti!"
+55,"TEXT_BANMOG006_02325_TARRESSON_000_015","A monument to friendship and peace, now lost to time. With their new tools, the Mogmenders are working with more vigor than I have ever seen. I believe they are more than ready to rise to this challenge!"
+56,"TEXT_BANMOG006_02325_MOGZIN_000_016","We are ready, kupo! Ready to build a statue! A statue of...of what, exactly?"
+57,"TEXT_BANMOG006_02325_TARRESSON_000_017","It is the answer to that question which I have been contemplating, my dear Mogzin. Unfortunately, we have no pictures, no stories, and no remnants on which we can base the statue's form. We know only that it stood more than one thousand years ago, during the age when dragon and man lived together in harmony."
+58,"TEXT_BANMOG006_02325_MOGZIN_000_018","Could it be a kupa tree? Or an enormous cloud mallow? Hmmm..."
+59,"TEXT_BANMOG006_02325_OHLDEEH_000_019","Do not be daft, Mogzin! The statue likely depicted dragon and man. Brother once told me many such sculptures used to dot the land."
+60,"TEXT_BANMOG006_02325_TARRESSON_000_020","Ohl Deeh, I must say I had much the same thought. What better subjects could there have been to immortalize a bond which, at the time, must have seemed unbreakable?"
+61,"TEXT_BANMOG006_02325_MOGZIN_000_021","Even so, there's still so much we don't know! How were they posed? How many were there? No statues remain to draw inspiration from! Tarresson, do any survive down below?"
+62,"TEXT_BANMOG006_02325_TARRESSON_000_030","Well, there is the relief at Falcon's Nest, but that work is much too recent to be of use. However, there may be another way."
+63,"TEXT_BANMOG006_02325_TARRESSON_000_040","Perhaps, but I fear they might prove difficult to procure. Unfortunately, there are still those who think simply glimpsing such an image would be grounds to accuse one of heresy. However, there may be another way."
+64,"TEXT_BANMOG006_02325_TARRESSON_000_050","Our mutual friends, the Temple Knights, have spent generations chasing heretics. Doubtless they have seized at least a few of their idols during their ceaseless struggle."
+65,"TEXT_BANMOG006_02325_TARRESSON_000_051","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, there is much work for us to do here at Bahrr Lehs. I would ask you to journey to Ishgard and ask our dear Handeloup if he can part with an idol. I have confidence he will oblige your request."
+66,"TEXT_BANMOG006_02325_TARRESSON_000_052","However, if perchance he is hesitant to do so, hand him this letter. I believe it shall prove to be adequately convincing."
+67,"TEXT_BANMOG006_02325_MOGZIN_000_053","And what of us? While <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> is away, what should we do? Continue our stonemasonry practice?"
+68,"TEXT_BANMOG006_02325_TARRESSON_000_054","No, my dear Mogzin, there are preparations to be made. Speak with Mogmul, and ready the stone we will use for the statue. Ohl Deeh, pray help Mogzin with his duties."
+69,"TEXT_BANMOG006_02325_TARRESSON_000_055","For my part, I shall begin drawing up plans for the statue's base. Well then, I look forward to meeting again. May we all return with good news!"
+70,"TEXT_BANMOG006_02325_TARRESSON_000_056","Make haste to the Congregation, and ask if Handeloup can spare an idol. If he insists on being difficult, simply hand him the letter I gave you. Trust me, it shall suffice."
+71,"TEXT_BANMOG006_02325_HANDELOUP_000_060","You require an idol seized from the heretics? Ah... My apologies, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, but such a request is not within my power to grant."
+72,"TEXT_BANMOG006_02325_HANDELOUP_000_070","Pray understand that much as I would like to offer you a helping hand, there are some matters where my reach is limited."
+73,"TEXT_BANMOG006_02325_HANDELOUP_000_071","A letter from Lord Tarresson? ...He writes that the figures in question were taken unlawfully from the Churning Mists, and that the moogles, as caretakers of the ancient ruins therein, are obliged to petition their return."
+74,"TEXT_BANMOG006_02325_HANDELOUP_000_072","A rather more bureaucratic approach than I anticipated, but I would expect no less from a lord of House Dzemael. As skilled with his words as he is with a hammer and chisel."
+75,"TEXT_BANMOG006_02325_HANDELOUP_000_073","He has not told you? That cunning old fox is none other than Tarresson de Dzemael─formerly <hex:021A020203>Count<hex:021A020103> Tarresson de Dzemael. Although he has long since stepped down, he still does not scruple to intercede in various affairs."
+76,"TEXT_BANMOG006_02325_HANDELOUP_100_073","In any event, his reasoning is sound, and I see no harm in following his plan. Speak with my man Vaincannet. He will provide you with what you need."
+77,"TEXT_BANMOG006_02325_HANDELOUP_000_074","It seems the restoration is proceeding apace. Your duty is almost at an end, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. I hope it has been a worthwhile journey so far."
+78,"TEXT_BANMOG006_02325_VAINCANNET_100_074","You require an idol, yes? I believe this one should do─they all look the same to me. Dreadfully ugly, isn't it? Well, I suppose there's no accounting for taste."
+79,"TEXT_BANMOG006_02325_MOGZIN_000_075","We've found the perfect stones, kupo! Have you returned with something we can use? Oh, I can't wait until we begin building!"
+80,"TEXT_BANMOG006_02325_OHLDEEH_000_076","If you need any more help carrying stones, I'm the dragon for you! I can do that all day!"
+81,"TEXT_BANMOG006_02325_TARRESSON_000_080","You are returned! Was Handeloup willing to oblige our request?"
+82,"TEXT_BANMOG006_02325_TARRESSON_000_081","This is an object of heresy and untold evil? It seems harmless enough to me, and the craftsmanship is superb! I do believe this will provide the perfect model for our statue. Excellent work, my friend!"
+83,"TEXT_BANMOG006_02325_TARRESSON_000_082","However, I cannot help but notice you no longer have the letter I wrote. I suppose that means Ser Handeloup told you who I am, that a simple epistle would sway a man of his standing."
+84,"TEXT_BANMOG006_02325_TARRESSON_000_083","Well then, let me apologize for the belated introduction. I am Tarresson de Dzemael, erstwhile count of my house. I am happy to say my son now enjoys that burden, leaving me to spend my days as I please."
+85,"TEXT_BANMOG006_02325_TARRESSON_000_084","I try to stay busy, of course, and our project here has been a boon in that regard. However, do not think this some whim born of idleness. No, this is how I wish to live out my twilight years. As my true self. As a craftsman."
+86,"TEXT_BANMOG006_02325_TARRESSON_000_085","House Dzemael was built upon a foundation of mastery. Mastery of wood, steel, and stone. From a young age I strove to learn the techniques of my forefathers. Alas, once I became count, I was forced to trade my hammer and chisel for quill and parchment."
+87,"TEXT_BANMOG006_02325_TARRESSON_100_085","A count's craft is to uphold the honor of his house, his tools, his wit, and his wiles. I was bound to the eternal struggle for glory and prestige, and as the months bled into years my days as an artisan faded into half-forgotten memory."
+88,"TEXT_BANMOG006_02325_TARRESSON_000_086","It was in this single-minded state I raised my sons, teaching them naught of the joy of crafting. Perhaps by imparting my knowledge to others, I am in some small way trying to alleviate that regret..."
+89,"TEXT_BANMOG006_02325_TARRESSON_000_087","Hahaha, I have gone on too long again! Truly, I thank you for listening to this old man's ramblings. Now, let us return to the task at hand! The statue must be built, and I have a job perfectly suited to your skills."
+90,"TEXT_BANMOG006_02325_TARRESSON_000_090","Our sculpture will require sturdy metal beams to support the weight of the stone. Although they will remain unseen by most, they are nevertheless among the most vital components."
+91,"TEXT_BANMOG006_02325_TARRESSON_000_100","A sculpture must be polished to a mirror sheen if it is to be remembered. And to that end, I would have you make the materials required to do so."
+92,"TEXT_BANMOG006_02325_TARRESSON_000_110","What purpose would our efforts serve if the sculpture we build cannot withstand the elements? To prevent that from happening, I would ask that you prepare a coating to shield our work from the harsh winds and rains of this region."
+93,"TEXT_BANMOG006_02325_TARRESSON_000_120","As always, Mogmul shall provide you with aught you require. Bring your completed work to Mogzin, and we shall make use of it at once!"
+94,"TEXT_BANMOG006_02325_MOGZIN_000_121","You're helping us with the statue, kupo? Brilliant! Truth be told, a task this large is a bit intimidating. Still, I look forward to the day when the Mogmenders can face such a project without fear!"
+95,"TEXT_BANMOG006_02325_TARRESSON_000_122","Well, I believe we all have our work to do. Receive your supplies from Mogmul, and bring your finished work to Mogzin."
+96,"TEXT_BANMOG006_02325_MOGMUL_000_130","Did you see them moving those huge stones, kupo? Just watching them made my belly rumble. But I will do my duty! Until the statue is complete, I'll be here to give you whatever you need!"
+97,"TEXT_BANMOG006_02325_MOGMUL_000_131","The Mogmenders have plenty of supplies to spare, so there's no need to worry about running out. Just say the word and I'll fill your bags with anything you need, kupo!"
+98,"TEXT_BANMOG006_02325_MOGMUL_100_131","I've learned to expect only greatness from you, and you've never disappointed, kupo! All who have aided in making this possible, both past and present, are surely glad to have a crafter like you to work their materials."
+99,"TEXT_BANMOG006_02325_MOGZIN_000_140","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, it goes without saying, but the Mogmenders are grateful for all your help so far, kupo! Just a little bit more, and we'll have finished. So, let's see what you've made!"
+100,"TEXT_BANMOG006_02325_MOGZIN_000_131","You've certainly outdone yourself this time! Gullinbursti will surely be in awe at the quality of our work! And now, all that's left is to build, build, build!"
+101,"TEXT_BANMOG006_02325_MOGZIN_000_300","We've done it, kupo! Can you feel it? This must be how the landlords and skylords felt the moment they built this plaza ages ago. I can only imagine what Gullinbursti's reaction will be!"
+102,"TEXT_BANMOG006_02325_COLORDRAGON_000_301","Little ones, how fares your work? If it is too difficult, simply say so. I shall allow you to return home before I raze this place to the ground."
+103,"TEXT_BANMOG006_02325_MOGZIN_000_302","On the contrary, Gullinbursti, you could not have arrived at a more opportune time! The statue is complete, and I daresay even more majestic than it was before. Behold!"
+104,"TEXT_BANMOG006_02325_COLORDRAGON_000_303","I have not seen this statue in a long time. Yes, it is as it was. Almost."
+105,"TEXT_BANMOG006_02325_COLORDRAGON_000_304","Your work is...adequate. As promised, I shall leave you be. Continue in peace."
+106,"TEXT_BANMOG006_02325_MOGZIN_000_305","Almost? Adequate? But why would he say that, kupo?"
+107,"TEXT_BANMOG006_02325_SYSTEM_000_500","Thanks to your efforts, the statue has been erected in Bahrr Lehs. It would seem your work is complete, but Gullinbursti's cryptic words suggest otherwise."
+108,"TEXT_BANMOG006_02325_SYSTEM_000_200","You have achieved <hex:024804F201F403><hex:024904F201F503>Honored<hex:0249020103><hex:0248020103> reputation with the Mogmenders."
+109,"TEXT_BANMOG006_02325_SYSTEM_000_201","New moogle society daily quests are now available from Mogek the Marvelous at the plaza."
+110,"TEXT_BANMOG006_02325_SYSTEM_000_202","Furthermore, you will be able to undertake three additional quests from Mogek the Marvelous as a reputation rank bonus. This bonus is available until the daily reset time for allied society quests."
+111,"TEXT_BANMOG006_02325_SYSTEM_000_203","These additional quests will become available after accepting all current daily quests from Mogek the Marvelous. Please be advised that you cannot undertake these quests if you have no remaining allowances."
+112,"TEXT_BANMOG006_02325_SYSTEM_000_204","You now have access to a wider selection of wares from Mogmul Mogbelly."

@@ -2,114 +2,114 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_JOBRDM630_02584_SEQ_00,羅薇娜綜合文化會館的西·如恩·提亞打算前往赤魔法師的因緣之地。
-1,TEXT_JOBRDM630_02584_SEQ_01,和西·如恩進行了交談。他過去曾與蘭巴德一同探索過某處遺跡，那裡或許有能夠治癒艾莉亞異變的線索。前往基拉巴尼亞山區的林梢，在赤紅神塔附近和西·如恩·提亞匯合。
-2,TEXT_JOBRDM630_02584_SEQ_02,和西·如恩匯合完畢。在赤紅神塔附近獲取三塊石板。
-3,TEXT_JOBRDM630_02584_SEQ_03,得到了三塊石板。將<hex:022811FF0A>EventItem<hex:F61E8D0D0103>、<hex:022811FF0A>EventItem<hex:F61E8D0E0103>和<hex:022811FF0A>EventItem<hex:F61E8D0F0103>交給赤紅神塔的西·如恩·提亞。
-4,TEXT_JOBRDM630_02584_SEQ_04,艾莉亞的症狀與吸收了妖異之血的古代法師們十分相似。這種症狀可以通過煉金藥得到緩解，為了獲取製作煉金藥的材料，前往基拉巴尼亞山區的睡石礦場，在<hex:02280CFF05>EObj<hex:F61EA4E60103>張望，從出現的<hex:02280FFF09>BNpcName<hex:F216BA0103>身上獲取<hex:022811FF0A>EventItem<hex:F61E8D100103>。
-5,TEXT_JOBRDM630_02584_SEQ_05,打倒了<hex:02280FFF09>BNpcName<hex:F216BA0103>，得到了煉金藥的材料。將<hex:022811FF0A>EventItem<hex:F61E8D100103>交給基拉巴尼亞山區的阿拉加納的西·如恩·提亞。
-6,TEXT_JOBRDM630_02584_SEQ_06,集齊了煉金藥的材料。西·如恩為了委託煉金術士公會幫忙調配煉金藥，前往了烏爾達哈。返回田園郡，和羅薇娜綜合文化會館的艾莉亞談談。
-7,TEXT_JOBRDM630_02584_SEQ_07,在古代煉金藥的幫助下，艾莉亞恢復了活力。但是，煉金藥只不過是對症療法。為了渴望重回赤魔法師之路的艾莉亞，繼續協助西·如恩的調查。<hex:02100103><hex:02100103>※赤魔法師的等級達到65級以上時，可以從羅薇娜綜合文化會館的西·如恩·提亞那裡領取下一個赤魔法師任務。
-8,TEXT_JOBRDM630_02584_SEQ_08,
-9,TEXT_JOBRDM630_02584_SEQ_09,
-10,TEXT_JOBRDM630_02584_SEQ_10,
-11,TEXT_JOBRDM630_02584_SEQ_11,
-12,TEXT_JOBRDM630_02584_SEQ_12,
-13,TEXT_JOBRDM630_02584_SEQ_13,
-14,TEXT_JOBRDM630_02584_SEQ_14,
-15,TEXT_JOBRDM630_02584_SEQ_15,
-16,TEXT_JOBRDM630_02584_SEQ_16,
-17,TEXT_JOBRDM630_02584_SEQ_17,
-18,TEXT_JOBRDM630_02584_SEQ_18,
-19,TEXT_JOBRDM630_02584_SEQ_19,
-20,TEXT_JOBRDM630_02584_SEQ_20,
-21,TEXT_JOBRDM630_02584_SEQ_21,
-22,TEXT_JOBRDM630_02584_SEQ_22,
-23,TEXT_JOBRDM630_02584_SEQ_23,
-24,TEXT_JOBRDM630_02584_TODO_00,在赤紅神塔附近和西·如恩·提亞對話
-25,TEXT_JOBRDM630_02584_TODO_01,獲取石板
-26,TEXT_JOBRDM630_02584_TODO_02,將石板交給西·如恩·提亞
-27,TEXT_JOBRDM630_02584_TODO_03,在<hex:02280CFF05>EObj<hex:F61EA4E60103>張望並從出現的<hex:02280FFF09>BNpcName<hex:F216BA0103>身上獲取核心
-28,TEXT_JOBRDM630_02584_TODO_04,將<hex:022811FF0A>EventItem<hex:F61E8D100103>交給西·如恩·提亞
-29,TEXT_JOBRDM630_02584_TODO_05,和田園郡的艾莉亞對話
-30,TEXT_JOBRDM630_02584_TODO_06,
-31,TEXT_JOBRDM630_02584_TODO_07,
-32,TEXT_JOBRDM630_02584_TODO_08,
-33,TEXT_JOBRDM630_02584_TODO_09,
-34,TEXT_JOBRDM630_02584_TODO_10,
-35,TEXT_JOBRDM630_02584_TODO_11,
-36,TEXT_JOBRDM630_02584_TODO_12,
-37,TEXT_JOBRDM630_02584_TODO_13,
-38,TEXT_JOBRDM630_02584_TODO_14,
-39,TEXT_JOBRDM630_02584_TODO_15,
-40,TEXT_JOBRDM630_02584_TODO_16,
-41,TEXT_JOBRDM630_02584_TODO_17,
-42,TEXT_JOBRDM630_02584_TODO_18,
-43,TEXT_JOBRDM630_02584_TODO_19,
-44,TEXT_JOBRDM630_02584_TODO_20,
-45,TEXT_JOBRDM630_02584_TODO_21,
-46,TEXT_JOBRDM630_02584_TODO_22,
-47,TEXT_JOBRDM630_02584_TODO_23,
-48,TEXT_JOBRDM630_02584_ARYA_000_000,我決定不再繼續悲觀下去了。<hex:02100103>師父說得對……<hex:02100103>我還是我，並沒有變成其他人！
-49,TEXT_JOBRDM630_02584_XRHUNTIA_000_030,<hex:022903EB0203>，你做好出發的準備了嗎？<hex:02100103>我們接下來要遠征基拉巴尼亞山區，<hex:02100103>目的地是古代赤魔法師建立的遺跡——赤紅神塔。
-50,TEXT_JOBRDM630_02584_XRHUNTIA_000_031,在遇見卡提斯並投身革命軍之前，<hex:02100103>我和蘭巴德為了尋求赤魔法的知識，曾經探索過那個遺跡。<hex:02100103>現在想想，他當初的真正目標應該是被封印的古代秘術吧。
-51,TEXT_JOBRDM630_02584_XRHUNTIA_100_031,在組建赤紅疾風投身革命軍之前，<hex:02100103>我和蘭巴德為了尋求赤魔法的知識，曾經探索過那個遺跡。<hex:02100103>現在想想，他當初的真正目標應該是被封印的古代秘術吧。
-52,TEXT_JOBRDM630_02584_XRHUNTIA_200_031,當年，注重實踐的我與擅長構築理論的他<hex:02100103>合作研究出了許多招數……<hex:02100103>如今已經物是人非了。
-53,TEXT_JOBRDM630_02584_XRHUNTIA_000_032,那個遺跡現在成了盧恩族的據點……<hex:02100103>不過我們或許能從遺留在那裡的古物中有所發現……<hex:02100103>就是有關蘭巴德之前給自己的肉體施加過的，那個秘術。
-54,TEXT_JOBRDM630_02584_XRHUNTIA_000_033,艾莉亞，你就繼續在這裡靜養吧。<hex:02100103>然後……暫時先不要修行魔法了，<hex:02100103>我知道你心裡難過，但現在是非常時期。
-55,TEXT_JOBRDM630_02584_XRHUNTIA_000_034,魔力的劇烈消耗恐怕就是導致「飢餓」的原因，<hex:02100103>如果你不老老實實地待著，恐怕還會發作。
-56,TEXT_JOBRDM630_02584_ARYA_000_035,知道了……我也不想再襲擊別人。
-57,TEXT_JOBRDM630_02584_ARYA_000_036,不過，這樣真的好嗎？<hex:02100103>讓你們為了我跑到那麼遠的基拉巴尼亞去……
-58,TEXT_JOBRDM630_02584_XRHUNTIA_000_037,艾莉亞，如果我們交換一下立場，你會怎麼做？<hex:02100103>假設是<hex:022903EB0203>的身體發生了異變，<hex:02100103>說不定能在基拉巴尼亞的山區找到答案的話……你要怎麼做？
-59,TEXT_JOBRDM630_02584_ARYA_000_038,這……如果前輩出了什麼事嗎？<hex:02100103>我當然會馬上跑到基拉巴尼亞去！
-60,TEXT_JOBRDM630_02584_Q1_000_050,對艾莉亞說什麼？
-61,TEXT_JOBRDM630_02584_A1_000_051,謝謝
-62,TEXT_JOBRDM630_02584_A1_000_052,……是、是嗎
-63,TEXT_JOBRDM630_02584_XRHUNTIA_000_060,哈哈哈！<hex:02100103>就因為你是這樣的人，我們才想幫你啊。<hex:02100103>所以別往心裡去，好好休息吧！
-64,TEXT_JOBRDM630_02584_XRHUNTIA_000_070,哈哈哈，答得這麼快啊！<hex:02100103><hex:022903EB0203>都不知所措了。
-65,TEXT_JOBRDM630_02584_XRHUNTIA_000_071,就因為你是這樣的人，我們才想幫你啊。<hex:02100103>所以別往心裡去，好好休息吧！
-66,TEXT_JOBRDM630_02584_XRHUNTIA_000_080,她一直都在拚命努力，<hex:02100103>現在沒法修行了，肯定很難過吧。<hex:02100103>至少得先讓她的身體恢復到平時的狀況。
-67,TEXT_JOBRDM630_02584_XRHUNTIA_000_081,那我們這就出發去赤紅神塔吧。<hex:02100103>艾莉亞在這裡等我們的好消息。
-68,TEXT_JOBRDM630_02584_ARYA_000_100,給前輩添麻煩了，對不起……<hex:02100103>我會老實休息的，為了讓自己快點恢復健康。
-69,TEXT_JOBRDM630_02584_XRHUNTIA_000_120,我們這就開始探索吧！<hex:02100103>目標是收集寫有赤魔法師歷史的石板。
-70,TEXT_JOBRDM630_02584_XRHUNTIA_000_121,赤紅神塔是由赤魔法師的始祖們建立的，<hex:02100103>用來控制因靈災而變得不穩定的氣候，<hex:02100103>就類似於鎮壓紊亂地脈的鎮石吧。
-71,TEXT_JOBRDM630_02584_XRHUNTIA_100_121,歷代的赤魔法師將刻有歷史與秘術的石板存放在了這裡。<hex:02100103>不過因為盜掘與風化，大部分都已經不見了……
-72,TEXT_JOBRDM630_02584_XRHUNTIA_000_122,我們至少要找到有關蘭巴德得到的那個秘術的線索。<hex:02100103>分頭在赤紅神塔內外找吧，<hex:02100103>只不過你也看到了，這裡是盧恩族的巢穴……萬事小心！
-73,TEXT_JOBRDM630_02584_XRHUNTIA_000_150,怎麼樣，有發現嗎？<hex:02100103>我這邊倒是找到了幾塊石板，<hex:02100103>上面有一些讓我在意的內容……不過好像並沒有有效的辦法。
-74,TEXT_JOBRDM630_02584_XRHUNTIA_000_160,這是……<hex:02100103>有一塊石板上寫了很重要的東西，<hex:02100103>是蘭巴德在自己身上施加的秘術的真面目！
-75,TEXT_JOBRDM630_02584_XRHUNTIA_000_161,在第六靈災剛結束，赤魔法還沒有形成體系的時候……<hex:02100103>有一群赤魔法師與虛無界的妖異訂立了契約，<hex:02100103>他們將妖異之血輸入體內，從妖異那裡借到了力量！
-76,TEXT_JOBRDM630_02584_XRHUNTIA_000_162,在那些妖異之中……有吞噬獵物生命力的怪物。<hex:02100103>估計蘭巴德也吸收了妖異之血吧，<hex:02100103>然後才得到了竊魂的力量……
-77,TEXT_JOBRDM630_02584_XRHUNTIA_000_163,這個秘術的起源好像是在第六靈災之前，由瑪哈的某個大魔法師<hex:02100103>一族興起的。對於大量消耗自身乙太的赤魔法師來說，<hex:02100103>能夠奪取並利用敵人的力量是一個非常大的優勢。
-78,TEXT_JOBRDM630_02584_XRHUNTIA_100_163,就像蘭巴德那樣，如果能用奪取的力量維持肉體，<hex:02100103>甚至還可以使用超越人類極限的強大魔法！
-79,TEXT_JOBRDM630_02584_XRHUNTIA_000_164,這個秘術後來被列為了禁忌，施術者也都不在了。<hex:02100103>如果它有會讓人感到飢餓並襲擊他人的副作用……<hex:02100103>那麼被當成是禁忌也很正常。
-80,TEXT_JOBRDM630_02584_XRHUNTIA_000_165,唔……當他們沒法吞噬獵物生命的時候，<hex:02100103>他們就會使用一種特殊的煉金藥，從而緩解飢餓。<hex:02100103>至於調配方法……這塊石板上有寫！
-81,TEXT_JOBRDM630_02584_XRHUNTIA_000_166,艾莉亞的症狀和蘭巴德十分相似，<hex:02100103>那這種煉金藥就很有可能對她有效！
-82,TEXT_JOBRDM630_02584_XRHUNTIA_000_167,藥的主要材料是半結晶狀態的乙太。<hex:02100103>這附近有一種叫烏洛里石的魔物，從它們的核心中<hex:02100103>應該就能提取出來。對了，最好是找個頭比較大的。
-83,TEXT_JOBRDM630_02584_XRHUNTIA_000_168,烏洛里石在基拉巴尼亞山區的東部<hex:02100103>——睡石礦場附近出沒。<hex:02100103>如果你發現了個頭大的，就打倒它，把它的核心取來吧。
-84,TEXT_JOBRDM630_02584_XRHUNTIA_000_169,得到<hex:022811FF0A>EventItem<hex:F61E8D100103>之後，<hex:02100103>我們在阿拉加納匯合。<hex:02100103>除此之外必要的材料就由我去收集。
-85,TEXT_JOBRDM630_02584_ARYA_000_180,咦……你們找到了刻有和我的異變有關記載的石板？<hex:02100103>謝謝你們，前輩！<hex:02100103>期待你們繼續傳來好消息！
-86,TEXT_JOBRDM630_02584_XRHUNTIA_000_210,怎麼樣？<hex:02100103>得到<hex:022811FF0A>EventItem<hex:F61E8D100103>了嗎？
-87,TEXT_JOBRDM630_02584_XRHUNTIA_000_220,這<hex:022811FF0A>EventItem<hex:F61E8D100103>狀態也挺不錯的！<hex:02100103>再加上我獵取到的，就有兩隻魔物的份量……應該足夠調配了。
-88,TEXT_JOBRDM630_02584_XRHUNTIA_000_221,其他材料我也已經集齊了，<hex:02100103>至於藥品的調配，就去委託烏爾達哈的煉金術士公會吧。
-89,TEXT_JOBRDM630_02584_XRHUNTIA_000_222,艾莉亞自己留在田園郡想必很孤單，<hex:02100103>跑腿的工作就交給我，<hex:02100103>你先回田園郡去陪她吧！
-90,TEXT_JOBRDM630_02584_ARYA_000_270,咦……有能緩解我症狀的藥？<hex:02100103>而且你們連材料都收集到了？！
-91,TEXT_JOBRDM630_02584_ARYA_000_271,接下來我們只要等師父回來就好了吧？
-92,TEXT_JOBRDM630_02584_XRHUNTIA_000_280,嗨，我回來了！
-93,TEXT_JOBRDM630_02584_XRHUNTIA_000_281,艾莉亞，你先把這個藥喝了，<hex:02100103>你邊喝藥，我邊給你講我們在基拉巴尼亞的發現。
-94,TEXT_JOBRDM630_02584_ARYA_000_282,哇……好厲害……
-95,TEXT_JOBRDM630_02584_ARYA_100_282,味道有點……不好評價，不過我現在覺得非常輕鬆！<hex:02100103>就好像身體內部的飢渴都得到了充分的滿足一樣……<hex:02100103>前輩、師父……我真的不知道要怎麼感謝你們才好！
-96,TEXT_JOBRDM630_02584_XRHUNTIA_000_283,你的笑容就是對我們最大的回報了。<hex:02100103>不過，這藥充其量只不過是對症療法……<hex:02100103>只能為你補充力量，無法根除問題。
-97,TEXT_JOBRDM630_02584_ARYA_000_284,是的……如果我使用魔法，把魔力用光的話，<hex:02100103>有可能還會再襲擊別人……<hex:02100103>所以師父的意思是禁止我再修行了？
-98,TEXT_JOBRDM630_02584_XRHUNTIA_000_285,我明白你很難受，但現在先忍忍吧。
-99,TEXT_JOBRDM630_02584_ARYA_000_286,我是不是……在被蘭巴德抓住的時候，<hex:02100103>被迫吸收了妖異之血呢？
-100,TEXT_JOBRDM630_02584_XRHUNTIA_000_287,我跟黃衫隊那邊的記錄核對了一下……<hex:02100103>你從失蹤到被我們救出，其實時間非常短。
-101,TEXT_JOBRDM630_02584_XRHUNTIA_000_288,而且大部分的時間你都在貨箱裡被運來運去，<hex:02100103>並沒有時間來完成大規模的儀式。<hex:02100103>那真相到底是什麼，這也是我們接下來要解決的謎題。
-102,TEXT_JOBRDM630_02584_ARYA_000_289,……請讓我也幫忙！
-103,TEXT_JOBRDM630_02584_ARYA_000_290,我希望能盡快重新開始赤魔法師的修行！<hex:02100103>我想變回那個追逐著前輩背影的自己……<hex:02100103>奪回能夠保持自我的時間！
-104,TEXT_JOBRDM630_02584_Q2_000_291,如何回答艾莉亞？
-105,TEXT_JOBRDM630_02584_A2_000_292,一起加油吧
-106,TEXT_JOBRDM630_02584_A2_000_293,你能追上我嗎？
-107,TEXT_JOBRDM630_02584_ARYA_000_300,嗯！<hex:02100103>啊……不過，我要怎麼做呢？
-108,TEXT_JOBRDM630_02584_XRHUNTIA_000_310,呵呵……<hex:022903EB0203>還真是嚴格啊，<hex:02100103>不過，如果你因為在意艾莉亞所以停下腳步等她的話，<hex:02100103>也就沒有讓她追趕的價值了！
-109,TEXT_JOBRDM630_02584_XRHUNTIA_000_321,那麼……艾莉亞就幫我們調查文獻吧，<hex:02100103>這附近有無數薩雷安人遺留的資料。
-110,TEXT_JOBRDM630_02584_XRHUNTIA_000_322,而<hex:022903EB0203>，你就繼續磨鍊本領吧。<hex:02100103>爭取在艾莉亞重回赤魔法師之路的時候，<hex:02100103>你能變成她更高的目標！
+0,"TEXT_JOBRDM630_02584_SEQ_00","X'rhun proposes a journey to the cradle of red magery."
+1,"TEXT_JOBRDM630_02584_SEQ_01","X'rhun proposes a journey to the mountains of Gyr Abania, where you will visit the Ziggurat built by the red mages of eld. Within that ancient edifice, your mentor hopes to uncover clues to treating Arya's condition─just as he once unearthed the secrets of red magic alongside Lambard long ago. Travel to the region of Gyr Abania, and join X'rhun near the centuries-old monument."
+2,"TEXT_JOBRDM630_02584_SEQ_02","You meet X'rhun near the Ziggurat, and after a brief history lesson he sets you to work searching for records of Lambard's transformation ritual. Head into the ruins, and seek out any remaining stone tablets."
+3,"TEXT_JOBRDM630_02584_SEQ_03","You have obtained three stone tablets in varying degrees of degradation. Deliver them to X'rhun Tia."
+4,"TEXT_JOBRDM630_02584_SEQ_04","X'rhun glances over the tablets you have brought, and finds one that details a rite by which a mage would ingest the blood of a voidsent in exchange for supernatural power. The description of the hunger which befell such mages is uncannily similar to Arya's condition. Believing that the tonic explained on the same tablet should be effective in relieving your companion's suffering, X'rhun bids you procure the concoction's main ingredient: a massive urolith's core. Make your way to the Sleeping Stones, and engage the largest specimen you can find."
+5,"TEXT_JOBRDM630_02584_SEQ_05","You have defeated an unbreakable urolith, and liberated its pulsating core. Seek out X'rhun Tia in the Gyr Abanian hamlet of Ala Gannha, and hand over the ingredient."
+6,"TEXT_JOBRDM630_02584_SEQ_06","With the materials for the tonic in hand, X'rhun appears eager to call upon the expertise of the alchemists of Ul'dah. Whilst your mentor is busy having the concoction prepared, return to Idyllshire and apprise Arya of your progress."
+7,"TEXT_JOBRDM630_02584_SEQ_07","Upon imbibing the alchemical mixture, Arya seems to recover almost immediately from her weakened state. X'rhun is quick to remind her, however, that any arcane exertion could soon send her back into a state of mindless hunger. Continue to hone your own skills that you might better aid Arya in returning to her beloved journey along the path of the red mage.<hex:02100103><hex:02100103>※The next red mage quest will be available from X'rhun upon reaching level 65."
+8,"TEXT_JOBRDM630_02584_SEQ_08",""
+9,"TEXT_JOBRDM630_02584_SEQ_09",""
+10,"TEXT_JOBRDM630_02584_SEQ_10",""
+11,"TEXT_JOBRDM630_02584_SEQ_11",""
+12,"TEXT_JOBRDM630_02584_SEQ_12",""
+13,"TEXT_JOBRDM630_02584_SEQ_13",""
+14,"TEXT_JOBRDM630_02584_SEQ_14",""
+15,"TEXT_JOBRDM630_02584_SEQ_15",""
+16,"TEXT_JOBRDM630_02584_SEQ_16",""
+17,"TEXT_JOBRDM630_02584_SEQ_17",""
+18,"TEXT_JOBRDM630_02584_SEQ_18",""
+19,"TEXT_JOBRDM630_02584_SEQ_19",""
+20,"TEXT_JOBRDM630_02584_SEQ_20",""
+21,"TEXT_JOBRDM630_02584_SEQ_21",""
+22,"TEXT_JOBRDM630_02584_SEQ_22",""
+23,"TEXT_JOBRDM630_02584_SEQ_23",""
+24,"TEXT_JOBRDM630_02584_TODO_00","Speak with X'rhun Tia near the Ziggurat."
+25,"TEXT_JOBRDM630_02584_TODO_01","Obtain stone tablets."
+26,"TEXT_JOBRDM630_02584_TODO_02","Hand the stone tablets to X'rhun Tia."
+27,"TEXT_JOBRDM630_02584_TODO_03","Survey the area, and defeat an unbreakable urolith for its core."
+28,"TEXT_JOBRDM630_02584_TODO_04","Deliver the massive urolith core to X'rhun Tia."
+29,"TEXT_JOBRDM630_02584_TODO_05","Speak with Arya in Idyllshire."
+30,"TEXT_JOBRDM630_02584_TODO_06",""
+31,"TEXT_JOBRDM630_02584_TODO_07",""
+32,"TEXT_JOBRDM630_02584_TODO_08",""
+33,"TEXT_JOBRDM630_02584_TODO_09",""
+34,"TEXT_JOBRDM630_02584_TODO_10",""
+35,"TEXT_JOBRDM630_02584_TODO_11",""
+36,"TEXT_JOBRDM630_02584_TODO_12",""
+37,"TEXT_JOBRDM630_02584_TODO_13",""
+38,"TEXT_JOBRDM630_02584_TODO_14",""
+39,"TEXT_JOBRDM630_02584_TODO_15",""
+40,"TEXT_JOBRDM630_02584_TODO_16",""
+41,"TEXT_JOBRDM630_02584_TODO_17",""
+42,"TEXT_JOBRDM630_02584_TODO_18",""
+43,"TEXT_JOBRDM630_02584_TODO_19",""
+44,"TEXT_JOBRDM630_02584_TODO_20",""
+45,"TEXT_JOBRDM630_02584_TODO_21",""
+46,"TEXT_JOBRDM630_02584_TODO_22",""
+47,"TEXT_JOBRDM630_02584_TODO_23",""
+48,"TEXT_JOBRDM630_02584_ARYA_000_000","I've decided to not let this upset me. As X'rhun says, I'm still in control of who I am."
+49,"TEXT_JOBRDM630_02584_XRHUNTIA_000_030","Are you ready to depart? The journey I have in mind will take us into the mountains of Gyr Abania, where we will visit the Ziggurat built by the red mages of eld."
+50,"TEXT_JOBRDM630_02584_XRHUNTIA_000_031","Lambard and I once explored those ancient ruins, searching for knowledge of the first incarnation of red magic. That was long ago, before we met Curtis and joined the revolution..."
+51,"TEXT_JOBRDM630_02584_XRHUNTIA_100_031","Lambard and I once explored those ancient ruins, searching for knowledge of the first incarnation of red magic. That was long ago, before we formed the Crimson Duelists and joined the revolution..."
+52,"TEXT_JOBRDM630_02584_XRHUNTIA_200_031","...Before I realized the manner of hidden wisdom for which Lambard had been truly seeking."
+53,"TEXT_JOBRDM630_02584_XRHUNTIA_000_032","The edifice itself has now been overrun by Qiqirn, but a thorough expedition could still unearth something of value─mayhap even the secrets behind Lambard's occult transformation."
+54,"TEXT_JOBRDM630_02584_XRHUNTIA_000_033","Arya, my friend, I must ask that you remain here and continue your convalescence. And no spellcasting!"
+55,"TEXT_JOBRDM630_02584_XRHUNTIA_000_034","Not even a lick of flame to light a candle. In your weakened state, we know not how suddenly the hunger might return."
+56,"TEXT_JOBRDM630_02584_ARYA_000_035","Yes, of course. Just the thought of what might happen is enough to make me feel ill..."
+57,"TEXT_JOBRDM630_02584_ARYA_000_036","I'll be fine in my sickbed, but what of you two? Are you really going to travel all the way to Gyr Abania just for me?"
+58,"TEXT_JOBRDM630_02584_XRHUNTIA_000_037","What would you do if the positions were reversed? If <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> were afflicted by a condition and you knew a cure might be found beyond the mountains? What then?"
+59,"TEXT_JOBRDM630_02584_ARYA_000_038","Why, I would be out the door in a moment!"
+60,"TEXT_JOBRDM630_02584_Q1_000_050","What will you say?"
+61,"TEXT_JOBRDM630_02584_A1_000_051","Thank you, Arya."
+62,"TEXT_JOBRDM630_02584_A1_000_052","You would...?"
+63,"TEXT_JOBRDM630_02584_XRHUNTIA_000_060","Ahahaha! That you would respond so emphatically is the reason we have no qualms about doing the same for you!"
+64,"TEXT_JOBRDM630_02584_XRHUNTIA_000_070","Ahahaha! Not the slightest hesitation! You've even flustered <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> here."
+65,"TEXT_JOBRDM630_02584_XRHUNTIA_000_071","That you would respond so emphatically is the reason we have no qualms about doing the same for you!"
+66,"TEXT_JOBRDM630_02584_XRHUNTIA_000_080","Arya's worked so hard to master her skills, and I imagine it will be hard to refrain from training for a while. But she must recover from her exhaustion first, before aught else."
+67,"TEXT_JOBRDM630_02584_XRHUNTIA_000_081","Come, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>─the Ziggurat awaits. Rest well, Arya. We shall return as swiftly as we are able."
+68,"TEXT_JOBRDM630_02584_ARYA_000_100","I hate to be the cause of so much trouble...<hex:02100103>And I hate that I still feel so weak. I promise to stay in bed like a good girl until I'm fully recovered."
+69,"TEXT_JOBRDM630_02584_XRHUNTIA_000_120","Let's begin our expedition, shall we? Be on the lookout for stone tablets bearing the histories of the red."
+70,"TEXT_JOBRDM630_02584_XRHUNTIA_000_121","Did I mention that it was our forebears in the art who constructed the Ziggurat? It was built to suppress the unstable weather that was whipped up in the wake of that era's Calamity─a sort of dampening weight that slowed the land's raging currents of aether to a trickle."
+71,"TEXT_JOBRDM630_02584_XRHUNTIA_100_121","In time, however, the Ziggurat also became a library, where successive generations of red mages enshrined their stories and their secrets. 'Tis a shame that so many of these precious slates have since been lost to plunderers, or simply worn down by the ravages of time..."
+72,"TEXT_JOBRDM630_02584_XRHUNTIA_000_122","As such, I do not expect to find a fully intact record of Lambard's ghastly rite, but at the very least we should discover hints of what the transformation ritual entails. You take one way, and I'll take another, and we'll both take care not to fall prey to Qiqirn bandits!"
+73,"TEXT_JOBRDM630_02584_XRHUNTIA_000_150","How did you fare? I discovered a number of tablets myself which, while positively fascinating, offered little on the subject of occult rituals..."
+74,"TEXT_JOBRDM630_02584_XRHUNTIA_000_160","Oho! If I'm reading this one correctly, you may have found exactly what we were looking for."
+75,"TEXT_JOBRDM630_02584_XRHUNTIA_000_161","It appears to be a record from a time before red magic was unified as a distinct discipline. The passage describes a rite by which one can make a pact with a voidsent, and ingest its blood in exchange for supernatural power!"
+76,"TEXT_JOBRDM630_02584_XRHUNTIA_000_162","Even amongst their kin, certain creatures of the void harbor a voracious appetite for living aether. Lambard must have acquired the ability to siphon his victims' life force from one such fiend..."
+77,"TEXT_JOBRDM630_02584_XRHUNTIA_000_163","The practice in question is said to have started with a family of Mhachi sorcerers, who lived in the era preceding the Sixth Umbral Calamity. For red mages, whose arts draw so heavily upon their own aether, there is an obvious─if distasteful─advantage to stealing a foe's life energies."
+78,"TEXT_JOBRDM630_02584_XRHUNTIA_100_163","And if one can employ such energies to fortify and sustain one's own form, as Lambard did, then one can even wield magicks beyond the limitations of ordinary mortals."
+79,"TEXT_JOBRDM630_02584_XRHUNTIA_000_164","Not surprisingly, however, its tendency to result in aether-starved madmen led to the rite being declared a forbidden art."
+80,"TEXT_JOBRDM630_02584_XRHUNTIA_000_165","Hmmm. There's more... Some mention of an alchemical concoction that would serve to sate the hunger for aether when living prey was unavailable. And the helpful scribe has even included a method for its preparation!"
+81,"TEXT_JOBRDM630_02584_XRHUNTIA_000_166","Arya's transformation was strikingly similar to Lambard's. Surely this concoction would prove effective at curbing her condition as well!"
+82,"TEXT_JOBRDM630_02584_XRHUNTIA_000_167","Let's see here. It seems the main ingredient is a chunk of semi-crystallized aether. Such a substance could be drawn from the core of an urolith─and I'm thinking the bigger the better."
+83,"TEXT_JOBRDM630_02584_XRHUNTIA_000_168","If I recall correctly, there are uroliths to be found to the east, in the vicinity of the Sleeping Stones. Pray find yourself one of the larger specimens and procure an aetherial core."
+84,"TEXT_JOBRDM630_02584_XRHUNTIA_000_169","Once you have what we need, we can rendezvous in the hamlet of Ala Gannha. I shall busy myself collecting the other ingredients."
+85,"TEXT_JOBRDM630_02584_ARYA_000_180","Oh, you found something that might explain my condition!? That's wonderful, thank you! I hope we can reverse...whatever this is."
+86,"TEXT_JOBRDM630_02584_XRHUNTIA_000_210","Were you able to procure a suitable core?"
+87,"TEXT_JOBRDM630_02584_XRHUNTIA_000_220","Ah, yes, this will do nicely! Enough to create a decent-sized dose, at any rate."
+88,"TEXT_JOBRDM630_02584_XRHUNTIA_000_221","I've gathered together the other ingredients, so all that's left to do is deliver them into the hands of an experienced alchemist."
+89,"TEXT_JOBRDM630_02584_XRHUNTIA_000_222","Ah, but Arya must be wondering where we are. Why don't you go on ahead to Idyllshire and avail her of our progress. I'll meet you there as soon as I'm finished haggling with the potion mixers in Ul'dah!"
+90,"TEXT_JOBRDM630_02584_ARYA_000_270","A kind of potion? And it's supposed to help with the hunger? That will be one less worry, then..."
+91,"TEXT_JOBRDM630_02584_ARYA_000_271","Do you think X'rhun will be back soon...?"
+92,"TEXT_JOBRDM630_02584_XRHUNTIA_000_280","I am returned!"
+93,"TEXT_JOBRDM630_02584_XRHUNTIA_000_281","Arya, pray drink this concoction, and I shall tell you of our discoveries in Gyr Abania."
+94,"TEXT_JOBRDM630_02584_ARYA_000_282","I... By the gods!"
+95,"TEXT_JOBRDM630_02584_ARYA_100_282","The taste was not exactly pleasant, but I already feel much recovered! It's as if a cool stream of water was poured on the fire in my chest... I don't know how to thank you!"
+96,"TEXT_JOBRDM630_02584_XRHUNTIA_000_283","Your smile is the finest reward we could ask for. But I ask that you do not become complacent─that tonic is merely meant to help replenish your depleted aether. It will do naught to undo the underlying affliction."
+97,"TEXT_JOBRDM630_02584_ARYA_000_284","I understand. If I exhaust my mana again, I'll be back where I was: a savage controlled by hunger. Which means I should still give up on training for now..."
+98,"TEXT_JOBRDM630_02584_XRHUNTIA_000_285","...For now."
+99,"TEXT_JOBRDM630_02584_ARYA_000_286","So, you think Lambard infused me with voidsent blood while I was held captive?"
+100,"TEXT_JOBRDM630_02584_XRHUNTIA_000_287","According to what I found in the Yellowjackets' incident records, the span of time that elapsed between your kidnapping and subsequent rescue was not terribly long."
+101,"TEXT_JOBRDM630_02584_XRHUNTIA_000_288","And for much of your ordeal you were shut inside a box. It seems unlikely that there was sufficient opportunity to perform a highly complicated and dangerous ritual. No, we must look elsewhere for the truth behind your condition."
+102,"TEXT_JOBRDM630_02584_ARYA_000_289","You must let me help you!"
+103,"TEXT_JOBRDM630_02584_ARYA_000_290","If it allows me to begin practicing magic again even one day earlier... It is torture watching the moments pass─wasting time I could be using to catch up to you."
+104,"TEXT_JOBRDM630_02584_Q2_000_291","What will you say?"
+105,"TEXT_JOBRDM630_02584_A2_000_292","You'll get there!"
+106,"TEXT_JOBRDM630_02584_A2_000_293","You'll never catch me!"
+107,"TEXT_JOBRDM630_02584_ARYA_000_300","I'll certainly try! Though I'm not sure what help I'll be..."
+108,"TEXT_JOBRDM630_02584_XRHUNTIA_000_310","Hah! No mercy from you, eh, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>? But if you halted your progress for Arya, then she'd have naught to aim for, would she!?"
+109,"TEXT_JOBRDM630_02584_XRHUNTIA_000_321","I think we'll have our suffering friend delve into the scrolls for us. The Sharlayans have left behind a veritable mountain of lore through which we can dig for answers."
+110,"TEXT_JOBRDM630_02584_XRHUNTIA_000_322","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, I shall leave you to your training. After all, you must give Arya an ever-growing peak to look up to!"

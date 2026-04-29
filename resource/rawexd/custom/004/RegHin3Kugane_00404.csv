@@ -2,14 +2,14 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_REGHIN3KUGANE_00404_TENZAN_000_000,歡迎來到遠東之國對外開放的通商口岸「黃金港」。<hex:02100103>你想了解點什麼，外國人？
-1,TEXT_REGHIN3KUGANE_00404_Q1_000_000,想了解什麼？
-2,TEXT_REGHIN3KUGANE_00404_A1_000_001,你是做什麼的？
-3,TEXT_REGHIN3KUGANE_00404_A1_000_002,這裡是什麼地方？
-4,TEXT_REGHIN3KUGANE_00404_A1_000_003,取消
-5,TEXT_REGHIN3KUGANE_00404_TENZAN_000_010,我的名字是天山，<hex:02100103>奉黃金港奉行之命在此檢查異國的船隻是否載有違禁品。
-6,TEXT_REGHIN3KUGANE_00404_TENZAN_000_011,雖然黃金港是通商口岸，但也不代表什麼都能往這裡運。<hex:02100103>想在這裡做生意，就要遵守我們的法律。
-7,TEXT_REGHIN3KUGANE_00404_TENZAN_000_012,如果發現有誰偷運一些影響我國秩序的貨物入境，<hex:02100103>我就會將人交給赤誠組，讓其接受嚴厲的懲罰。<hex:02100103>總之，要是還想看到故鄉的大海，就不要在這裡做壞事。
-8,TEXT_REGHIN3KUGANE_00404_TENZAN_000_020,這裡是建立在遠東之國最西端的島嶼「紫州」<hex:02100103>上的港口城市黃金港。
-9,TEXT_REGHIN3KUGANE_00404_TENZAN_000_021,黃金港是一個對外開放的貿易港，<hex:02100103>是施行閉關鎖國政策的我國唯一允許外國船隻駛入的通商口岸。
-10,TEXT_REGHIN3KUGANE_00404_TENZAN_000_022,外來船隻首先都要停進這第二防波堤進行違禁品檢查。<hex:02100103>敬請諒解。
+0,"TEXT_REGHIN3KUGANE_00404_TENZAN_000_000","A visitor to Kugane, I take it? Is there aught you require?"
+1,"TEXT_REGHIN3KUGANE_00404_Q1_000_000","What will you ask?"
+2,"TEXT_REGHIN3KUGANE_00404_A1_000_001","What do you do here?"
+3,"TEXT_REGHIN3KUGANE_00404_A1_000_002","What kind of place is this?"
+4,"TEXT_REGHIN3KUGANE_00404_A1_000_003","Nothing."
+5,"TEXT_REGHIN3KUGANE_00404_TENZAN_000_010","I am Tenzan, a customs officer of this port, charged by the lord bugyo to ensure that no forbidden articles enter our lands."
+6,"TEXT_REGHIN3KUGANE_00404_TENZAN_000_011","Though ours is an open port, it does not mean one can bring in whatsoever one desires. If you wish to conduct business here, you must do so within the bounds of our laws."
+7,"TEXT_REGHIN3KUGANE_00404_TENZAN_000_012","Those who attempt to import goods deemed a threat to our nation's security will be placed in Sekiseigumi custody and dealt with severely. If you would see your own shores again, consider yourself warned."
+8,"TEXT_REGHIN3KUGANE_00404_TENZAN_000_020","That you stand here means you should already know this, but I shall humor you nonetheless."
+9,"TEXT_REGHIN3KUGANE_00404_TENZAN_000_021","Kugane is a port city situated upon Shishu, the westernmost island of Hingashi. Amidst a policy of national isolation, it has the distinction of being the sole port open to the outside world."
+10,"TEXT_REGHIN3KUGANE_00404_TENZAN_000_022","As all foreign trade is focused here, we customs officers are kept constantly busy, but we cannot afford to be remiss. Without exception, all foreign vessels are required to undergo inspection here, at pier number two."

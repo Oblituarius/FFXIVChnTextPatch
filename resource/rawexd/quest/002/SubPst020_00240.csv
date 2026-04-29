@@ -2,172 +2,172 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_SUBPST020_00240_SEQ_00,郵差莫古力前輩有封收信人不明的信要交給冒險者。
-1,TEXT_SUBPST020_00240_SEQ_01,接受了郵差莫古力前輩的委託，前去送信。前往烏爾達哈的翠玉大街，將信交給情報商維蒙德。
-2,TEXT_SUBPST020_00240_SEQ_02,其實這封信並不是寄給維蒙德的，而是寄給一位名叫雷蒙德的人的恐嚇信。協助想要解決事件的維蒙德，到西薩納蘭銅鈴銅山前的小屋後尋找<hex:022811FF0A>EventItem<hex:F61E8A490103>。
-3,TEXT_SUBPST020_00240_SEQ_03,在銅鈴銅山找到了<hex:022811FF0A>EventItem<hex:F61E8A490103>。把它交給翠玉大街的情報商維蒙德。
-4,TEXT_SUBPST020_00240_SEQ_04,將<hex:022811FF0A>EventItem<hex:F61E8A490103>交給了維蒙德。據說犯下這次誘拐事件的是個名為紫煙兄弟會的犯罪組織，他們與幕後的缺德商人勾結，試圖奪取青磷水的開採權。維蒙德說出了隱藏於心中的黑暗過去，他曾是紫煙兄弟會的一員，而如今他發誓要徹底剷除這個組織。為了設下誘出幕後黑手的陷阱，前往烏爾達哈藍玉大街國際市場，將<hex:022811FF0A>EventItem<hex:F61E8A4A0103>拿給塞塞羅加查看，請他介紹做青燐水買賣的商人。
-5,TEXT_SUBPST020_00240_SEQ_05,和塞塞羅加進行了交談，他為冒險者介紹了做青磷水買賣的商人。將<hex:022811FF0A>EventItem<hex:F61E8A4A0103>交給烏爾達哈藍玉大街國際市場的辛特戈特。
-6,TEXT_SUBPST020_00240_SEQ_06,將<hex:022811FF0A>EventItem<hex:F61E8A4A0103>交給了辛特戈特，買賣成交了。據辛特戈特所說，市場上似乎流傳著青磷水的市價要上漲的傳聞。將作為買賣成交的證據的<hex:022811FF0A>EventItem<hex:F61E8A4B0103>拿給翠玉大街的維蒙德查看。
-7,TEXT_SUBPST020_00240_SEQ_07,讓維蒙德查看了<hex:022811FF0A>EventItem<hex:F61E8A4B0103>。以此為契機青磷水的市價開始暴漲，在這種情況下，紫煙兄弟會為了獲得開採權而背叛幕後黑手也不足為奇。為了讓他們落入陷阱，前往中薩納蘭的金庫靈柩亭，與誘拐犯的一員——一身煙味的男人進行接觸，讓他查看<hex:022811FF0A>EventItem<hex:F61E8A4B0103>。
-8,TEXT_SUBPST020_00240_SEQ_08,和一身煙味的男人進行了接觸。隸屬於犯罪組織紫煙兄弟會的男人暗示冒險者，他們做好了背叛幕後的缺德商人的準備。向翠玉大街的維蒙德報告，將<hex:022811FF0A>EventItem<hex:F61E8A4B0103>還給他。
-9,TEXT_SUBPST020_00240_SEQ_09,向維蒙德報告完畢，並把<hex:022811FF0A>EventItem<hex:F61E8A4B0103>還給了他。據他所說，在冒險者與一身煙味的男人進行接觸後，紫煙兄弟會與幕後黑手的信賴關係出現了裂痕。維蒙德稱已經做好了將紫煙兄弟會與幕後黑手一網打盡的準備。前往中薩納蘭的樵鳴洞以北與維蒙德匯合，接下來一場好戲即將上演。
-10,TEXT_SUBPST020_00240_SEQ_10,與維蒙德匯合了。他用操縱青磷水市價得來的資金購買了軍用炸彈，為罪犯們設下了陷阱。在軍用炸彈恐怖的威力下，紫煙兄弟會和幕後黑手被盡數消滅。被誘拐的少女回到了父母身邊。雖說事件已經解決，但維蒙德十分擔心因事件而身心俱疲的被誘拐的少女的母親。前往烏爾達哈的阿達內斯聖櫃堂，確認雷蒙德一家是否平安無事。
-11,TEXT_SUBPST020_00240_SEQ_11,和雷蒙德一家進行了交談。一家三口由衷地向冒險者和維蒙德表達了感激之情。恢復了活力的雷蒙德的妻子想要向冒險者和維蒙德道謝。將<hex:022811FF0A>EventItem<hex:F61E8A4C0103>交給翠玉大街的維蒙德。
-12,TEXT_SUBPST020_00240_SEQ_12,將<hex:022811FF0A>EventItem<hex:F61E8A4C0103>交給了維蒙德。那是一朵沙漠玫瑰……是他從前一直在賣花的少女那裡買的花。連告別的話都未曾說出口就與她分別了，維蒙德至今對此無法釋懷。維蒙德終於發現了雷蒙德妻子的真實身份……她正是當年那個賣花的少女。得到了心中一直掛念著的少女的消息，被過去所絆而停滯不前的維蒙德終於可以向前邁進了。
-13,TEXT_SUBPST020_00240_SEQ_13,
-14,TEXT_SUBPST020_00240_SEQ_14,
-15,TEXT_SUBPST020_00240_SEQ_15,
-16,TEXT_SUBPST020_00240_SEQ_16,
-17,TEXT_SUBPST020_00240_SEQ_17,
-18,TEXT_SUBPST020_00240_SEQ_18,
-19,TEXT_SUBPST020_00240_SEQ_19,
-20,TEXT_SUBPST020_00240_SEQ_20,
-21,TEXT_SUBPST020_00240_SEQ_21,
-22,TEXT_SUBPST020_00240_SEQ_22,
-23,TEXT_SUBPST020_00240_SEQ_23,
-24,TEXT_SUBPST020_00240_TODO_00,將信交給烏爾達哈的維蒙德
-25,TEXT_SUBPST020_00240_TODO_01,在銅鈴銅山尋找<hex:022811FF0A>EventItem<hex:F61E8A490103>
-26,TEXT_SUBPST020_00240_TODO_02,將<hex:022811FF0A>EventItem<hex:F61E8A490103>交給烏爾達哈的維蒙德
-27,TEXT_SUBPST020_00240_TODO_03,讓藍玉大街國際市場的塞塞羅加查看支票
-28,TEXT_SUBPST020_00240_TODO_04,將支票交給辛特戈特
-29,TEXT_SUBPST020_00240_TODO_05,讓翠玉大街的維蒙德查看期貨票據
-30,TEXT_SUBPST020_00240_TODO_06,讓金庫靈柩亭的一身煙味的男人查看期貨票據
-31,TEXT_SUBPST020_00240_TODO_07,將期貨票據交給烏爾達哈的維蒙德
-32,TEXT_SUBPST020_00240_TODO_08,和樵鳴洞以北的維蒙德匯合
-33,TEXT_SUBPST020_00240_TODO_09,和烏爾達哈的雷蒙德的妻子對話
-34,TEXT_SUBPST020_00240_TODO_10,將<hex:022811FF0A>EventItem<hex:F61E8A4C0103>交給維蒙德
-35,TEXT_SUBPST020_00240_TODO_11,
-36,TEXT_SUBPST020_00240_TODO_12,
-37,TEXT_SUBPST020_00240_TODO_13,
-38,TEXT_SUBPST020_00240_TODO_14,
-39,TEXT_SUBPST020_00240_TODO_15,
-40,TEXT_SUBPST020_00240_TODO_16,
-41,TEXT_SUBPST020_00240_TODO_17,
-42,TEXT_SUBPST020_00240_TODO_18,
-43,TEXT_SUBPST020_00240_TODO_19,
-44,TEXT_SUBPST020_00240_TODO_20,
-45,TEXT_SUBPST020_00240_TODO_21,
-46,TEXT_SUBPST020_00240_TODO_22,
-47,TEXT_SUBPST020_00240_TODO_23,
-48,TEXT_SUBPST020_00240_LETTERMOOGLE_000_000,嗯……嗯……<hex:02100103>好難辦啊庫啵……要怎麼做才好呢庫啵……
-49,TEXT_SUBPST020_00240_LETTERMOOGLE_000_001,嗚哇，庫啵庫啵啵？！<hex:02100103>……什麼呀，原來是你啊庫啵！<hex:02100103>莫古剛才在想事情，沒有注意到庫啵！
-50,TEXT_SUBPST020_00240_LETTERMOOGLE_000_002,……其實，莫古接到了一封收信人不明的信庫啵。<hex:02100103>雖然收信人的地方寫著烏爾達哈的「什麼蒙德」……<hex:02100103>但是字實在太醜，看不出來……啊？！
-51,TEXT_SUBPST020_00240_LETTERMOOGLE_000_003,誒嘿！莫古突然想到了庫啵！<hex:02100103>收信人一定就是烏爾達哈最棒的情報商維蒙德庫啵！
-52,TEXT_SUBPST020_00240_LETTERMOOGLE_000_004,……總而言之，請你趕快把這封信送到情報商維蒙德手裡吧庫啵！<hex:02100103>他就在烏爾達哈的翠玉大街庫啵！
-53,TEXT_SUBPST020_00240_LETTERMOOGLE_000_010,小有進展的後輩！<hex:02100103>快把莫古給你的信送到情報商維蒙德手裡吧庫啵！<hex:02100103>他就在烏爾達哈的翠玉大街庫啵！
-54,TEXT_SUBPST020_00240_WYMOND_000_030,喲，冒險者……哎呀，現在應該是郵遞員吧？<hex:02100103>怎樣都無所謂啦！<hex:02100103>……什麼，有我的信？
-55,TEXT_SUBPST020_00240_WYMOND_000_031,「雷蒙德，你的女兒在我手裡。<hex:02100103>你想要她活命的話，就到銅鈴銅山的小屋後面找我留在那裡的信，<hex:02100103>然後按照上面要求的去做……    ——紫煙兄弟會」
-56,TEXT_SUBPST020_00240_WYMOND_000_032,喂，你看……這是恐嚇信吧？
-57,TEXT_SUBPST020_00240_WYMOND_000_033,收信人姓名是雷蒙德，我的名字可是維蒙德……<hex:02100103>你搞錯收信人了！真是給我找麻煩了啊，喂！
-58,TEXT_SUBPST020_00240_WYMOND_000_034,哼，不過……這還真是造化弄人啊。<hex:02100103>萬萬沒想到這紫煙兄弟會的恐嚇信，竟然會送到我的手裡。<hex:02100103>看來就算我忘記了「過去」，「過去」也不願意放過我啊……
-59,TEXT_SUBPST020_00240_WYMOND_000_035,紫煙兄弟會是個窮凶極惡的犯罪組織，為了錢他們對嬰兒都能下殺手。<hex:02100103>雖說在靈災發生前，他們全都被關進了監獄……<hex:02100103>可是最近他們出獄了。
-60,TEXT_SUBPST020_00240_WYMOND_000_036,只要我還在這個城市，就不會讓他們為所欲為！<hex:02100103>就當是彌補送錯信的過錯，你也來幫幫忙唄？<hex:02100103>麻煩你去銅鈴銅山的小屋後面把<hex:022811FF0A>EventItem<hex:F61E8A490103>給我拿回來吧！
-61,TEXT_SUBPST020_00240_WYMOND_000_040,只要我還在這個城市，就不會讓他們為所欲為！<hex:02100103>麻煩你去銅鈴銅山的小屋後面把<hex:022811FF0A>EventItem<hex:F61E8A490103>給我拿回來吧！
-62,TEXT_SUBPST020_00240_WYMOND_000_060,喲，你回來了啊。<hex:02100103>在你出發去銅鈴銅山的時候，<hex:02100103>我跟這封信真正的收信人……女兒被誘拐了的雷蒙德夫婦見了一面。
-63,TEXT_SUBPST020_00240_WYMOND_100_060,真是一對善良的商人夫婦啊……真是的，太可憐了。<hex:02100103>……總之我囑咐了他們不要輕舉妄動，一切都交給我。
-64,TEXT_SUBPST020_00240_WYMOND_000_061,……話說回來，你那邊情況如何？<hex:02100103>找到<hex:022811FF0A>EventItem<hex:F61E8A490103>了嗎？
-65,TEXT_SUBPST020_00240_WYMOND_000_070,……嗯，是這麼一回事啊。<hex:02100103>紫煙兄弟會在向他們索取地契。<hex:02100103>我懂了，這地方能開採出青磷水燃料……
-66,TEXT_SUBPST020_00240_WYMOND_000_071,這幫傢伙跟某個位高權重的缺德商人相互勾結，<hex:02100103>打算用這回搶來的開採權狠狠地賺上一票！<hex:02100103>但是，只要有我在這裡，就不會讓他們的奸計得逞！
-67,TEXT_SUBPST020_00240_WYMOND_000_072,我有些話應該先跟你說清楚……<hex:02100103>為什麼我如此憎恨他們呢，這是有理由的。<hex:02100103>……是的，我曾經也是紫煙兄弟會的一員。
-68,TEXT_SUBPST020_00240_WYMOND_000_073,那時候的我太混蛋了……<hex:02100103>勒索、詐騙、合夥給人設局……幹的都是些見不得人的事。
-69,TEXT_SUBPST020_00240_WYMOND_000_074,一位賣花的少女，成為了當時不堪的我心中唯一的淨土。<hex:02100103>她曾經一直在這條翠玉大街上賣花……
-70,TEXT_SUBPST020_00240_WYMOND_000_075,我每天都會從那個少女那裡買一朵沙漠玫瑰。<hex:02100103>每次她都笑著向我說，「謝謝，維門德先生！」。<hex:02100103>她的笑容就像一朵鮮花，為我死氣沉沉的心帶來一絲活力……
-71,TEXT_SUBPST020_00240_WYMOND_000_076,……順便說一句，我的名字並不叫「維門德」，<hex:02100103>而是「維蒙德」啊！
-72,TEXT_SUBPST020_00240_WYMOND_000_077,有一次，紫煙兄弟會做掉了一個情報商。<hex:02100103>那個情報商是一個非常有正義感的男人……<hex:02100103>他偷偷向上面的人舉報了紫煙兄弟會幹的壞事。
-73,TEXT_SUBPST020_00240_WYMOND_000_078,而令人感到諷刺的是……<hex:02100103>被殺的情報商，正是那名賣花少女的……親哥哥啊。
-74,TEXT_SUBPST020_00240_WYMOND_000_079,……真是我的報應。<hex:02100103>有著宛如盛開在沙漠中的玫瑰般美麗的笑顏的少女，<hex:02100103>自那天后……就從這個街角徹底消失了。
-75,TEXT_SUBPST020_00240_WYMOND_100_079,……回憶真是折磨人。
-76,TEXT_SUBPST020_00240_WYMOND_000_080,從那時起，我開始厭惡這些犯罪勾當，便洗手不幹了。<hex:02100103>然後我將紫煙兄弟會所做的壞事全都告訴了那個有名的調查員……<hex:02100103>沒錯，就是希爾迪布蘭德。
-77,TEXT_SUBPST020_00240_WYMOND_000_081,……那個時候，稍微有一點誤會。<hex:02100103>那個粗心大意的調查員大叔在聽了我的話之後，<hex:02100103>到處宣揚說「維蒙德就是傳聞中翠玉大街的正義的情報商！」。
-78,TEXT_SUBPST020_00240_WYMOND_000_082,之後不久紫煙兄弟會的成員就全都進監獄了……<hex:02100103>沒有其他謀生技能的我，就順著調查員大叔為我造的勢，<hex:02100103>成為了一名真正的情報商。
-79,TEXT_SUBPST020_00240_WYMOND_000_083,可是，那兩個傻呵呵的調查員……<hex:02100103>這麼大的事件都不調查，現在究竟在哪裡做著些什麼呢？
-80,TEXT_SUBPST020_00240_WYMOND_000_084,我說，冒險者……雖說在烏爾達哈有錢就是正義，<hex:02100103>但我絕不會放過這種對小女孩都能下手的混蛋。<hex:02100103>我要救出被誘拐的小女孩，把那幫混蛋全都幹掉！
-81,TEXT_SUBPST020_00240_WYMOND_000_085,你願意助我一臂之力啊，太感謝了！<hex:02100103>……那麼我們就開始作戰吧！
-82,TEXT_SUBPST020_00240_WYMOND_100_085,若要徹底消滅他們，就必須連同僱傭他們的幕後黑手一起消滅掉。<hex:02100103>但是，幕後的缺德商人是個大人物，不會輕易出頭露面。<hex:02100103>……所以我為了誘出幕後黑手，特地在市場中設下了陷阱！
-83,TEXT_SUBPST020_00240_WYMOND_000_086,麻煩你去趟藍玉大街國際市場，找那個叫塞塞羅加的傢伙。<hex:02100103>他自認為是在市場最有威望的人。<hex:02100103>你就假裝有事要跟他商量，把傳言散布出去……
-84,TEXT_SUBPST020_00240_WYMOND_000_087,把這個<hex:022811FF0A>EventItem<hex:F61E8A4A0103>拿給他看，<hex:02100103>然後告訴他，你受雇於某個富豪，被委託來購買青磷水！<hex:02100103>他把商人介紹給你後，你就去做一筆貨真價實的生意！
-85,TEXT_SUBPST020_00240_WYMOND_000_088,……你問我究竟在計劃著些什麼？<hex:02100103>哼，我要用我情報商的手段狠狠地教訓一下那幫混蛋！
-86,TEXT_SUBPST020_00240_WYMOND_000_100,麻煩你去趟藍玉大街國際市場，找那個叫塞塞羅加的傢伙。<hex:02100103>他自認為是在市場最有威望的人。<hex:02100103>你就假裝有事要跟他商量，把傳言散布出去……
-87,TEXT_SUBPST020_00240_WYMOND_000_101,把這個<hex:022811FF0A>EventItem<hex:F61E8A4A0103>拿給他看，<hex:02100103>然後告訴他，你受雇於某個富豪，被委託來購買青磷水！<hex:02100103>他把商人介紹給你後，你就去做一筆貨真價實的生意！
-88,TEXT_SUBPST020_00240_SESEROGA_000_120,哎呀，冒險者，你找我有什麼事？<hex:02100103>……嗯？有東西想讓我看看？
-89,TEXT_SUBPST020_00240_SESEROGA_000_121,……啊？！<hex:02100103>這支票上的金額著實不小啊！
-90,TEXT_SUBPST020_00240_SESEROGA_000_122,嘿嘿……原來你是被某個富豪雇來收購青磷水的啊。<hex:02100103>能最先找在市場最有威望的我來商量，真是明智！
-91,TEXT_SUBPST020_00240_SESEROGA_000_123,你要買青磷水的話，就去找附近那個名叫辛特戈特的商人吧！<hex:02100103>要是賺了大錢，可不要忘了感謝我這個介紹人啊！
-92,TEXT_SUBPST020_00240_SESEROGA_000_124,……話說回來，最近流傳在市場上的傳言看來是真的呢！<hex:02100103>據說某個有名的工房將要公布一項劃時代的技術革新。<hex:02100103>若真是如此，青磷水的需求就會激增啊……
-93,TEXT_SUBPST020_00240_SESEROGA_000_125,嘿嘿嘿……這樣一來青磷水的市價必然會上漲！<hex:02100103>我也趁這個機會進些青磷水期貨……<hex:02100103>然後把賺到的錢給莫莫蒂……嗯！
-94,TEXT_SUBPST020_00240_SESEROGA_000_130,你要買青磷水的話，就去找附近那個名叫辛特戈特的商人吧！
-95,TEXT_SUBPST020_00240_SESEROGA_000_131,我也趁這個機會進些青磷水期貨……<hex:02100103>然後把賺到的錢給莫莫蒂……嗯！
-96,TEXT_SUBPST020_00240_SYNTGOHT_000_150,你想買青磷水？<hex:02100103>是要現貨還是期貨……大概準備了多少錢？
-97,TEXT_SUBPST020_00240_SYNTGOHT_000_151,我來看看……什麼？！你竟然要出這麼多錢？！<hex:02100103>你這不會是什麼來路不正的錢吧？<hex:02100103>如果要把青磷水倒賣到帝國去，這生意我可就不做了！
-98,TEXT_SUBPST020_00240_SYNTGOHT_000_152,……嗯，原來是某個富豪雇你來收購青磷水的啊。<hex:02100103>看樣子你的僱主還挺有商業頭腦！
-99,TEXT_SUBPST020_00240_SYNTGOHT_000_153,哎呀，問我為什麼這麼說啊……其實我聽說了一件事。<hex:02100103>你知道加隆德煉鐵廠嗎？<hex:02100103>就是那個天才西德所在的艾歐澤亞首屈一指的技術工房……
-100,TEXT_SUBPST020_00240_SYNTGOHT_000_154,據說依靠他們的新發明，飛空艇的量產成本今後將大幅降低！<hex:02100103>……這麼一來，天空中飛行的飛空艇數量就會暴增！<hex:02100103>作為其燃料的青磷水的價格也會飛漲吧……
-101,TEXT_SUBPST020_00240_SYNTGOHT_000_155,雖然我不知道你的僱主究竟是什麼人，<hex:02100103>但能一下子拿出來這麼多錢來……<hex:02100103>看來這傳言是真的，你的僱主絕對是掌握了準確的情報！
-102,TEXT_SUBPST020_00240_SYNTGOHT_000_156,……哎，沒時間跟你在這閒扯了！<hex:02100103>這是<hex:022811FF0A>EventItem<hex:F61E8A4B0103>。<hex:02100103>我會盡全力為你配貨的，今後也請多關照啊！
-103,TEXT_SUBPST020_00240_SYNTGOHT_000_160,我會盡全力為你配貨的，今後也請多關照啊！
-104,TEXT_SUBPST020_00240_WYMOND_000_180,喲，怎麼樣了？<hex:02100103>反正塞塞羅加也就是把辛特戈特介紹給你了吧？<hex:02100103>既然生意已經談成了，就把<hex:022811FF0A>EventItem<hex:F61E8A4B0103>給我看看吧！
-105,TEXT_SUBPST020_00240_WYMOND_000_181,……很好，這樣青磷水的價格應該就會飛漲了。<hex:02100103>什麼，關於飛空艇這樣那樣的傳言？沒錯，那都是我散布的……<hex:02100103>而你的高額訂單正是決定性的一擊……傳言一下子有了可信度！
-106,TEXT_SUBPST020_00240_WYMOND_000_182,不過你先不用著急把這期貨票據還給我。<hex:02100103>我還需要你利用它，上演一場誘出幕後黑手的好戲！
-107,TEXT_SUBPST020_00240_WYMOND_000_183,聽好了……如今市場上到處都是你的傳言。<hex:02100103>人們都認為你在為那個做青磷水生意發了財的暴發戶做事。<hex:02100103>而在幕後黑手的缺德商人眼裡，你就是競爭對手的狗腿！
-108,TEXT_SUBPST020_00240_WYMOND_000_184,……假如，這時你又偷偷地和紫煙兄弟會碰頭了呢？<hex:02100103>青磷水價格飛漲，雙方的手下又進行了接觸……<hex:02100103>幕後黑手一定會把這當做紫煙兄弟會的背叛行為。
-109,TEXT_SUBPST020_00240_WYMOND_000_185,……所以呢，接下來你就直接與誘拐犯接觸一下吧？<hex:02100103>麻煩你跑一趟中薩納蘭的金庫靈柩亭！<hex:02100103>他們出獄後經常在那裡出沒……
-110,TEXT_SUBPST020_00240_WYMOND_000_186,你就在那裡把<hex:022811FF0A>EventItem<hex:F61E8A4B0103>亮出來，<hex:02100103>請一身煙味的男人喝杯酒……酒錢我會出的！<hex:02100103>然後，再把你的僱主想要購買青磷水開採地的情報透露給他！
-111,TEXT_SUBPST020_00240_WYMOND_000_190,接下來你就直接與誘拐犯接觸一下吧？<hex:02100103>麻煩你跑一趟中薩納蘭的金庫靈柩亭！<hex:02100103>他們出獄後經常在那裡出沒……
-112,TEXT_SUBPST020_00240_WYMOND_000_191,你就在那裡把<hex:022811FF0A>EventItem<hex:F61E8A4B0103>亮出來，<hex:02100103>請一身煙味的男人喝杯酒……酒錢我會出的！<hex:02100103>然後，再把你的僱主想要購買青磷水開採地的情報透露給他！
-113,TEXT_SUBPST020_00240_VILLAIN00240_000_210,……嗯？要請我喝杯酒？<hex:02100103>嘿嘿，這位<hex:020813E905FF07>小姐<hex:FF07>小哥<hex:03>，你挺嘚瑟的啊！<hex:02100103>難道是有什麼好事？
-114,TEXT_SUBPST020_00240_VILLAIN00240_000_211,嚯……這票據！<hex:02100103>原來如此，<hex:020813E905FF07>小姐<hex:FF07>小哥<hex:03>你的僱主就是那個靠青磷水漲價發了大財的傢伙啊。<hex:02100103>你是拿了一大筆佣金才請我喝酒的啊……
-115,TEXT_SUBPST020_00240_VILLAIN00240_000_212,哦哦！<hex:02100103>你的僱主打算繼續進行投資，正在物色青磷水的開採地？！<hex:02100103>……那麼<hex:020813E905FF07>小姐<hex:FF07>小哥<hex:03>，我有個很有價值的情報要告訴你。
-116,TEXT_SUBPST020_00240_VILLAIN00240_000_213,其實我啊，跟<hex:020813E905FF07>小姐<hex:FF07>小哥<hex:03>你可算得上是同行……<hex:02100103>再過不久我就能弄到一個超級棒的開採地的地契了。<hex:02100103>預估的青磷水儲藏量可是大大超出<hex:020813E905FF07>小姐<hex:FF07>小哥<hex:03>你的想像啊！
-117,TEXT_SUBPST020_00240_VILLAIN00240_000_214,嘿嘿……畢竟現在青磷水的價格處於空前的暴漲中。<hex:02100103>我也可以偷偷地倒賣給你，看你出什麼條件了……誒嘿！
-118,TEXT_SUBPST020_00240_VILLAIN00240_000_215,……哎呀，被誰聽到可就不好了！<hex:02100103>嘿嘿嘿……我經常來這裡喝酒。<hex:02100103><hex:020813E905FF07>小姐<hex:FF07>小哥<hex:03>，期待能與你再次相見啊！
-119,TEXT_SUBPST020_00240_VILLAIN00240_000_220,嘿嘿嘿……我經常來這裡喝酒。<hex:02100103><hex:020813E905FF07>小姐<hex:FF07>小哥<hex:03>，期待能與你再次相見啊！
-120,TEXT_SUBPST020_00240_WYMOND_000_240,好了……我們精心策劃的青磷水價格暴漲也到了最高潮！<hex:02100103>現在差不多該把<hex:022811FF0A>EventItem<hex:F61E8A4B0103>還給我了。<hex:02100103>我需要把它賣了，為下一步作戰準備些資金！
-121,TEXT_SUBPST020_00240_WYMOND_000_241,好嘞……你已經拿著這個和一身煙味的男人見過面了吧？<hex:02100103>在金庫靈柩亭的客人眼裡，紫煙兄弟會就是在跟競爭對手的手下見面，<hex:02100103>偷偷商量如何背叛東家大賺一筆呢。
-122,TEXT_SUBPST020_00240_WYMOND_000_242,聽到風聲的幕後黑手，小心臟也要開始砰砰地跳起來了吧？<hex:02100103>威脅了雷蒙德夫婦，眼看寶貴的開採權就要到手了，<hex:02100103>卻萬萬沒想到手下的紫煙兄弟會卻在打它的主意……
-123,TEXT_SUBPST020_00240_WYMOND_000_243,之後只要再施一把力就足夠了。<hex:02100103>我已經向幕後黑手寄出了偽造的信件。<hex:02100103>現在他們應該正準備找紫煙兄弟會來興師問罪了吧！
-124,TEXT_SUBPST020_00240_WYMOND_000_244,終於，紫煙兄弟會要和幕後黑手匯聚一堂了……<hex:02100103>之所以讓你四處奔走，就是為了製造這個機會！<hex:02100103>剩下的就全都交給我吧！
-125,TEXT_SUBPST020_00240_WYMOND_000_245,他們的碰頭地點就在中薩納蘭的樵鳴洞以北……<hex:02100103>那裡將會成為他們的葬身之地。<hex:02100103>哈哈，咱一起去看場好戲唄？
-126,TEXT_SUBPST020_00240_WYMOND_000_246,……我打算做什麼？<hex:02100103>哼，只是想起了以前的自己，想要任性地大幹一場！
-127,TEXT_SUBPST020_00240_WYMOND_000_250,他們的碰頭地點就在中薩納蘭的樵鳴洞以北……<hex:02100103>那裡將會成為他們的葬身之地。<hex:02100103>哈哈，咱一起去看場好戲唄？
-128,TEXT_SUBPST020_00240_WYMOND_000_270,喲，你來了啊！<hex:02100103>這下這場好戲的演員們可算是到齊了。<hex:02100103>哈哈哈……接下來可就好玩啦！
-129,TEXT_SUBPST020_00240_WYMOND_000_271,紫煙兄弟會向雷蒙德夫婦下了指示，<hex:02100103>讓他們把開採地的地契放到某個地方。<hex:02100103>……於是我就把偽造的地契放在了那裡。
-130,TEXT_SUBPST020_00240_WYMOND_000_272,現在紫煙兄弟會和幕後黑手缺德商人匯合了。<hex:02100103>……像我預想的那樣，他們大概已經確認完地契，<hex:02100103>小姑娘應該就要被釋放了！
-131,TEXT_SUBPST020_00240_WYMOND_000_273,……小姑娘，我是來救你的。<hex:02100103>別害怕，我是「正義的情報商」。<hex:02100103>你快躲到那個<hex:020825E905FF10>漂亮的小姐<hex:FF10>帥氣的小哥<hex:03>身後去！
-132,TEXT_SUBPST020_00240_WYMOND_000_274,哦，那幫傢伙開始交涉了。<hex:02100103>……接下來就是演出時間了！
-133,TEXT_SUBPST020_00240_WYMOND_000_275,……多虧了你和那傢伙進行了接觸，<hex:02100103>現在幕後黑手正在質問關於「背叛」的傳言的真假。
-134,TEXT_SUBPST020_00240_WYMOND_000_276,反正今後也會保持長久的合作關係……<hex:02100103>把這次的報酬增加2、3倍什麼的……大概也就在說這些吧。
-135,TEXT_SUBPST020_00240_WYMOND_000_277,不管怎樣，在他們開始交涉之前結果就注定了。<hex:02100103>紫煙兄弟會不會冒險和只見過一面的你交易，<hex:02100103>而會保險地選擇和眼前的缺德商人繼續合作。
-136,TEXT_SUBPST020_00240_WYMOND_000_278,那幫傢伙有個特殊的習慣……<hex:02100103>那就是每次交涉成功後都要執行的「紫煙儀式」。<hex:02100103>大家同抽一支違禁煙草，宣誓團結一致同仇敵愾。
-137,TEXT_SUBPST020_00240_WYMOND_000_279,
-138,TEXT_SUBPST020_00240_WYMOND_000_280,完成工作後來根煙，那感覺可是極好的。<hex:02100103>呵呵……不過要是那個地方正好有遇火星就炸的軍用炸藥的話……<hex:02100103>又會怎麼樣呢？
-139,TEXT_SUBPST020_00240_WYMOND_000_281,……沒錯，就是我在那裡裝了大量的炸藥。<hex:02100103>我把那期貨票據賣了賺了1億金幣，買炸藥的錢就是這麼來的！<hex:02100103>這炸藥的量，足夠讓一整個村落徹底消失了！
-140,TEXT_SUBPST020_00240_WYMOND_000_282,……嗯……不對，等下……
-141,TEXT_SUBPST020_00240_WYMOND_000_283,之前我完全把「一整個村落」當成了一種誇張的修辭手法……<hex:02100103>難不成，這炸藥的威力真有這麼強……不會吧？
-142,TEXT_SUBPST020_00240_WYMOND_000_284,竟然真這麼厲害啊！<hex:02100103>哎，那幫傢伙能撿回條狗命就不錯了。
-143,TEXT_SUBPST020_00240_WYMOND_000_285,啊，咳咳！<hex:02100103>小姑娘，你就直接回去向銅刃團的衛兵求助吧。<hex:02100103>讓他們把你帶回你爸媽身邊！
-144,TEXT_SUBPST020_00240_RAYMONDSDAUGHTER_000_286,嗯……<hex:02100103>冒險者，還有正義的情報商，謝謝你們！
-145,TEXT_SUBPST020_00240_WYMOND_000_287,麻煩你也去見一下雷蒙德一家吧！<hex:02100103>你也有資格讓他們對你說一句謝謝。<hex:02100103>我已經跟他們說好了，在烏爾達哈的阿達內斯聖櫃堂等你。
-146,TEXT_SUBPST020_00240_WYMOND_000_288,你也順便確認下雷蒙德夫人是否平安無事。<hex:02100103>她這麼年輕漂亮的女士，為了女兒的事擔驚受怕，整個人都憔悴了！
-147,TEXT_SUBPST020_00240_WYMOND_000_300,麻煩你也去見一下雷蒙德一家吧！<hex:02100103>你也有資格讓他們對你說一句謝謝。<hex:02100103>我已經跟他們說好了，在烏爾達哈的阿達內斯聖櫃堂等你。
-148,TEXT_SUBPST020_00240_WYMOND_000_301,你也順便確認下雷蒙德夫人是否平安無事。<hex:02100103>她這麼年輕漂亮的女士，為了女兒的事擔驚受怕，整個人都憔悴了！
-149,TEXT_SUBPST020_00240_RAYMOND_000_310,難道說……你就是救了我女兒的那位冒險者嗎？<hex:02100103>看到我女兒平安歸來，我終於可以安下心了……
-150,TEXT_SUBPST020_00240_RAYMONDSDAUGHTER_000_315,啊，你是剛才的冒險者！<hex:02100103>謝謝你救了我！
-151,TEXT_SUBPST020_00240_RAYMONDSWIFE_000_320,你是……<hex:02100103>是那位和正義的情報商一起救了我女兒的冒險者嗎？<hex:02100103>看到我女兒回來了，之前的疲憊一下子就消失了！
-152,TEXT_SUBPST020_00240_RAYMONDSWIFE_000_321,我聽說，犯人的組織因為原因不明的爆炸被徹底摧毀，<hex:02100103>連幕後黑手也行蹤不明。<hex:02100103>說真的，我不知道要如何感謝你才好！
-153,TEXT_SUBPST020_00240_RAYMOND_000_322,請讓我向你說聲謝謝吧！<hex:02100103>說實在的，最開始我也一直在糾結，<hex:02100103>是不是還是應該上報給銅刃團……
-154,TEXT_SUBPST020_00240_RAYMOND_000_323,但是我的妻子跟我說，那個情報商絕對可靠，<hex:02100103>我才相信了他，乖乖地等他的消息。<hex:02100103>果然交給你們是正確的！
-155,TEXT_SUBPST020_00240_RAYMONDSWIFE_000_324,這是我們的一點心意。<hex:02100103>請你把它交給一直佇立在翠玉大街的那個戴黑眼鏡的溫柔的情報商。
-156,TEXT_SUBPST020_00240_RAYMONDSWIFE_000_325,(-雷蒙德一家-)真是承蒙關照了！
-157,TEXT_SUBPST020_00240_WYMOND_000_350,……嗯，還有東西要給我嗎？<hex:02100103>喂喂，可別再來一封恐嚇信了！
-158,TEXT_SUBPST020_00240_WYMOND_000_351,……這朵紅花，這不是沙漠玫瑰嗎？<hex:02100103>我沒忘記……這是我一直在那個賣花的少女那裡買的花。
-159,TEXT_SUBPST020_00240_WYMOND_000_352,哼……自從那天起，這裡的時間就像是靜止了一樣啊。<hex:02100103>我心想著說不定還能再見一面，就天天在這個街角站著，<hex:02100103>結果這裡都變成我工作的地方了……
-160,TEXT_SUBPST020_00240_WYMOND_000_353,謝謝你把這回憶之花交給我。<hex:02100103>……說來，是誰讓你把這花送給我的？
-161,TEXT_SUBPST020_00240_WYMOND_000_354,……雷蒙德的妻子說這是她的一點心意？<hex:02100103>啊，這裡還附了一張卡片……
-162,TEXT_SUBPST020_00240_WYMOND_000_355,「一直以來多謝你啦，維門德先生。<hex:02100103>——賣花少女」
-163,TEXT_SUBPST020_00240_WYMOND_000_356,難、難道說雷蒙德的妻子就是……<hex:02100103>那個賣花少女……就是她嗎？！
-164,TEXT_SUBPST020_00240_WYMOND_000_357,當時我還在想，真是位年輕的夫人啊……<hex:02100103>對啊……到現在她也差不多是這個歲數了。<hex:02100103>……太好了，她和那麼棒的先生結了婚，幸福地生活著。
-165,TEXT_SUBPST020_00240_WYMOND_000_358,多謝你了，冒險者！<hex:02100103>停滯不前的我，終於可以再次向前邁進了！
-166,TEXT_SUBPST020_00240_WYMOND_000_359,「一直以來多謝你啦，維門德先生。」……
-167,TEXT_SUBPST020_00240_WYMOND_000_360,……順便說一句，我的名字並不叫「維門德」，<hex:02100103>而是「維蒙德」啊！
-168,TEXT_SUBPST020_00240_SYSTEM_000_900,成功將郵差莫古力所交付的信件送達目的地！<hex:02100103>在「郵遞員」的道路上又前進了一步！
+0,"TEXT_SUBPST020_00240_SEQ_00","The postmoogle's fluttering seems more frantic than usual."
+1,"TEXT_SUBPST020_00240_SEQ_01","The cause of the postmoogle's distress this time becomes quickly evident: a letter with an illegible address. With a bit of guesswork, however, the courier deduces the intended recipient is Wymond. Deliver the post to the sultanate's preeminent information broker on Emerald Avenue, and see if the postmoogle's deduction is any good."
+2,"TEXT_SUBPST020_00240_SEQ_02","Wymond reads the letter─only to discover that it is a ransom note for someone named “Raymond.” The kidnappers, a gang known as the “Purple Haze,” have taken his daughter, and will do her harm unless their demands are met. Wymond bids you find the list from behind the shack at Copperbell Mines, to make up for getting him into this mess."
+3,"TEXT_SUBPST020_00240_SEQ_03","Deliver it to Wymond, who awaits you at his usual spot on Emerald Avenue."
+4,"TEXT_SUBPST020_00240_SEQ_04","Taking the list, Wymond learns that the gang is demanding the deed to a plot of Raymond's ceruleum-rich land in exchange for the girl. The information-monger detects a merchant mastermind behind the scenes, and promises to end the dastardly scheme. He reveals that he once was a member of the Purple Haze─until Hildibrand and a flower girl named Myrtha allowed him to escape from that life. Now, Wymond intends to trap the criminals using the markets of Ul'dah, and bids you speak with Seseroga at the Sapphire Avenue Exchange to purchase ceruleum with a banknote."
+5,"TEXT_SUBPST020_00240_SEQ_05","Seseroga proves most obliging after seeing the banknote, and directs you to Syntgoht for all your ceruleum needs."
+6,"TEXT_SUBPST020_00240_SEQ_06","The banknote allows you to strike a deal with Syntgoht. The merchant speaks of fantastic rumors that Garlond Ironworks has invented a way to make airships for a fraction of present costs, and speculates that the price of ceruleum fuel will soon soar. Return now with the ceruleum futures contract to Wymond."
+7,"TEXT_SUBPST020_00240_SEQ_07","Wymond reveals the rumors of cost-efficient airships have been greatly exaggerated─by him. Though the hearsay appears real enough thanks to your purchase, it was all a ploy to start a ceruleum craze. He turns next to making it appear as though the Purple Haze will betray the mastermind for a small fortune. To that end, he bids you approach a member of the gang in his haunt, the Coffer & Coffin in central Thanalan, and express your interest in ceruleum-rich land."
+8,"TEXT_SUBPST020_00240_SEQ_08","Over a flagon of grog, the man of the Purple Haze gives you reason to believe he would betray the merchant mastermind...for the right offer. Return with these wispy words and the futures contract to Wymond."
+9,"TEXT_SUBPST020_00240_SEQ_09","Handing the ceruleum futures contract back to Wymond, you learn that your meeting with the Purple Haze has reached the mastermind's ears. The merchant will reveal himself in order to confront the gang about their dealings─drawing him into the open and right into Wymond's trap. The information-monger asks that you join him to the north of Cutter's Cry in central Thanalan, to rescue the girl and make the villains' plan go up in smoke."
+10,"TEXT_SUBPST020_00240_SEQ_10","From behind a bush, Wymond directs your attention to the mouth of the cave. There stand the villains, alongside Raymond's daughter. With a bit of luck, and a well-forged fake deed, you secure her release. Wymond then reveals that he sold the futures contract for the most volatile of firesands─and placed it near the scoundrels for the moment they light a pipe of somnus. One larger-than-expected explosion later, Wymond instructs the girl to return to her parents at Arrzaneth Ossuary. Verify that she makes it there safely."
+11,"TEXT_SUBPST020_00240_SEQ_11","Raymond is overjoyed that his daughter is little the worse for her ordeal, but even more grateful is his young wife. She thanks you profusely, and asks you deliver a small token of their thanks to Wymond as well. Deliver the single red rose to Wymond, who should be at his usual spot on Emerald Avenue."
+12,"TEXT_SUBPST020_00240_SEQ_12","You deliver the flower to Wymond. It is a single long-stemmed rose─the selfsame flower he once so treasured. Amazed, the information-monger opens the attached card to learn that Raymond's wife is Myrtha, the flower girl who brought him joy so long ago, and helped him towards the right side of the law. Happy that she is alive and with a good man, Wymond tells you time will begin to flow for him again, on his part of Emerald Avenue."
+13,"TEXT_SUBPST020_00240_SEQ_13",""
+14,"TEXT_SUBPST020_00240_SEQ_14",""
+15,"TEXT_SUBPST020_00240_SEQ_15",""
+16,"TEXT_SUBPST020_00240_SEQ_16",""
+17,"TEXT_SUBPST020_00240_SEQ_17",""
+18,"TEXT_SUBPST020_00240_SEQ_18",""
+19,"TEXT_SUBPST020_00240_SEQ_19",""
+20,"TEXT_SUBPST020_00240_SEQ_20",""
+21,"TEXT_SUBPST020_00240_SEQ_21",""
+22,"TEXT_SUBPST020_00240_SEQ_22",""
+23,"TEXT_SUBPST020_00240_SEQ_23",""
+24,"TEXT_SUBPST020_00240_TODO_00","Deliver the letter to Wymond in Ul'dah."
+25,"TEXT_SUBPST020_00240_TODO_01","Search for the list of demands near Copperbell Mines."
+26,"TEXT_SUBPST020_00240_TODO_02","Deliver the list of demands to Wymond."
+27,"TEXT_SUBPST020_00240_TODO_03","Present the banknote to Seseroga at the Sapphire Avenue Exchange."
+28,"TEXT_SUBPST020_00240_TODO_04","Deliver the banknote to Syntgoht."
+29,"TEXT_SUBPST020_00240_TODO_05","Present the ceruleum futures contract to Wymond."
+30,"TEXT_SUBPST020_00240_TODO_06","Show a hazy-eyed man the futures contract at the Coffer & Coffin in central Thanalan."
+31,"TEXT_SUBPST020_00240_TODO_07","Deliver the futures contract to Wymond."
+32,"TEXT_SUBPST020_00240_TODO_08","Rendezvous with Wymond at Cutter's Cry."
+33,"TEXT_SUBPST020_00240_TODO_09","Speak with Raymond's wife in Ul'dah."
+34,"TEXT_SUBPST020_00240_TODO_10","Deliver the single red rose to Wymond."
+35,"TEXT_SUBPST020_00240_TODO_11",""
+36,"TEXT_SUBPST020_00240_TODO_12",""
+37,"TEXT_SUBPST020_00240_TODO_13",""
+38,"TEXT_SUBPST020_00240_TODO_14",""
+39,"TEXT_SUBPST020_00240_TODO_15",""
+40,"TEXT_SUBPST020_00240_TODO_16",""
+41,"TEXT_SUBPST020_00240_TODO_17",""
+42,"TEXT_SUBPST020_00240_TODO_18",""
+43,"TEXT_SUBPST020_00240_TODO_19",""
+44,"TEXT_SUBPST020_00240_TODO_20",""
+45,"TEXT_SUBPST020_00240_TODO_21",""
+46,"TEXT_SUBPST020_00240_TODO_22",""
+47,"TEXT_SUBPST020_00240_TODO_23",""
+48,"TEXT_SUBPST020_00240_LETTERMOOGLE_000_000","Dear me... A fine mess this is, a fine mess indeed, kupo..."
+49,"TEXT_SUBPST020_00240_LETTERMOOGLE_000_001","...Kupopo!? I didn't notice you there! I was too preoccupied with living a postmoogle's worst nightmare!"
+50,"TEXT_SUBPST020_00240_LETTERMOOGLE_000_002","I have a letter with an <hex:021A020203>unreadable<hex:021A020103> address! All I can make out are the words “mond,” and “Ul'dah.” The rest is illegible squiggles. Who could it be!?"
+51,"TEXT_SUBPST020_00240_LETTERMOOGLE_000_003","Clymond? No, maybe...Bymond? Or Frymond─ Oooh, of course: <hex:021A020203>Wymond<hex:021A020103>! Yes, Wymond, the sultanate's information-monger."
+52,"TEXT_SUBPST020_00240_LETTERMOOGLE_000_004","Not a single doubt about it, my assistant─Wymond in Ul'dah is our recipient! Now, take this letter to him. I believe he can be found on Emerald Avenue most days. I'll rest easy knowing it's in your experienced hands, kupo!"
+53,"TEXT_SUBPST020_00240_LETTERMOOGLE_000_010","Have you delivered the letter to Wymond yet? If not, you'd best hurry, kupo. Gods know we've kept him waiting long enough!"
+54,"TEXT_SUBPST020_00240_WYMOND_000_030","If it ain't my 'venturin' friend...or is it post<hex:02080FE905FF06>woman<hex:FF04>man<hex:03> today? Can't say I was expectin' mail, though..."
+55,"TEXT_SUBPST020_00240_WYMOND_000_031","“Raymond─we have your daughter. Demands behind shack at Copperbell. Obey or she dies.<hex:02100103><hex:02100103>The Purple Haze”"
+56,"TEXT_SUBPST020_00240_WYMOND_000_032","'Tis...'tis a ransom note..."
+57,"TEXT_SUBPST020_00240_WYMOND_000_033","Wh-Why'd you bring this to me!? I <hex:021A020203>ain't<hex:021A020103> “Raymond,” you fool! An' I can't very well look the other way, can I!?"
+58,"TEXT_SUBPST020_00240_WYMOND_000_034","<sigh> 'Course, it'd <hex:021A020203>have<hex:021A020103> to be the godsdamned Purple Haze... Cruel sense of humor fate's got, makin' me remember what I've worked to forget."
+59,"TEXT_SUBPST020_00240_WYMOND_000_035","They're a gang of crooks who'd do in a newborn babe for the right price. Thought they all got thrown in the clink before the Calamity. If they're at large again..."
+60,"TEXT_SUBPST020_00240_WYMOND_000_036","...Then we've got to stop them! Aye, my home plus <hex:021A020203>your<hex:021A020103> blunder makes it “we.” So I'll thank you to get their demands from Copperbell."
+61,"TEXT_SUBPST020_00240_WYMOND_000_040","Up to us to stop the Purple Haze, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>─so run an' find their ransom demands! Ought to be behind some shack near Copperbell Mines."
+62,"TEXT_SUBPST020_00240_WYMOND_000_060","Nice timin'─I just got back myself from deliverin' the bad tidin's to Raymond an' his wife."
+63,"TEXT_SUBPST020_00240_WYMOND_100_060","Good folk hit by bad fortune, those two. Had to stop 'em from callin' in the Brass Blades, though. That'd only force the Haze's hand, an' get the girl killed. Took a lot of promises, but they've trusted her life to me."
+64,"TEXT_SUBPST020_00240_WYMOND_000_061","That's how it stands on my end. You got the ransom demands?"
+65,"TEXT_SUBPST020_00240_WYMOND_000_070","...The Haze're demandin' the deed to Raymond's land...or the ceruleum 'neath it, more like."
+66,"TEXT_SUBPST020_00240_WYMOND_000_071","Secure the mineral rights, an' live as kings. Clever. Too clever. I've got a sneakin' suspicion the gang's actin' as the brawn to some corrupt merchant. But they'll succeed over my dead body!"
+67,"TEXT_SUBPST020_00240_WYMOND_000_072","...Before I get you involved, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, there's somethin' you ought to know: I used to be part of the Purple Haze."
+68,"TEXT_SUBPST020_00240_WYMOND_000_073","Aye, I was one of the bastards. Blackmail, extortion, confidence tricks─if it was a far cry from lawful, I'd a hand in it."
+69,"TEXT_SUBPST020_00240_WYMOND_000_074","Those were black days...and I'd still be lost in the dark─if not long dead─had it not been for <hex:021A020203>her<hex:021A020103>... A flower girl named Myrtha who used to stand at this very spot."
+70,"TEXT_SUBPST020_00240_WYMOND_000_075","Buyin' one of her roses turned into my daily routine. Just to hear her say “Thank you kindly, Mr. Wymund.”"
+71,"TEXT_SUBPST020_00240_WYMOND_000_076","Not once did she get my name right. But seein' that innocent smile made me see goodness in the realm."
+72,"TEXT_SUBPST020_00240_WYMOND_000_077","But then, the Haze silences this one bloke. He was a good, upstandin' type...who'd informed on the gang."
+73,"TEXT_SUBPST020_00240_WYMOND_000_078","Brave man's sacrifice should've made for a happy endin'. But that informer was Myrtha's brother."
+74,"TEXT_SUBPST020_00240_WYMOND_000_079","An' she just...vanished. Never saw her smilin' face again after that day. Not once."
+75,"TEXT_SUBPST020_00240_WYMOND_100_079","...Ain't easy to talk about, even after all these years."
+76,"TEXT_SUBPST020_00240_WYMOND_000_080","Anyroad, it was the push I needed to leave the criminal life. I sang like a canary to the most famous detective I could find: Hildibrand."
+77,"TEXT_SUBPST020_00240_WYMOND_000_081","But he took <hex:021A020203>me<hex:021A020103> for the dead man. Went around Ul'dah tellin' anyone who'd listen I was a “righteous monger of information.”"
+78,"TEXT_SUBPST020_00240_WYMOND_000_082","Soon enough, all of the Haze were behind bars. I'd gotten my new chapter, but had nothin' else to my name. So, I stepped into the murdered bloke's life, an' rode the rumors to where I am today."
+79,"TEXT_SUBPST020_00240_WYMOND_000_083","Come to think on it, though, where in the hells are that Hildy an' Nashu? Even that prize pair should've gotten wind of this kidnappin'."
+80,"TEXT_SUBPST020_00240_WYMOND_000_084","...Well, my point is that I ain't standin' by while scum threatens a little girl's life. Can I count on your help savin' her, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>?"
+81,"TEXT_SUBPST020_00240_WYMOND_000_085","Good, good. 'Cause it just so happens I've got a scheme that needs two bodies."
+82,"TEXT_SUBPST020_00240_WYMOND_100_085","The way I see it, the Haze'll disperse if we snuff out the mastermind. But this merchant's too smart to be caught within a malm of the gang. So we'll just need a trap so large he can't see it comin': the market itself!"
+83,"TEXT_SUBPST020_00240_WYMOND_000_086","First, we have to start a few rumors, an' make 'em seem true. Make your way to Seseroga at the Sapphire Avenue Exchange, an' get his attention with this banknote."
+84,"TEXT_SUBPST020_00240_WYMOND_000_087","Tell him you're workin' for a wealthy fellow who wants to buy as much ceruleum as he can with the gil promised on that paper. Then, actually buy a boatload of the fuel from whomever Seseroga introduces."
+85,"TEXT_SUBPST020_00240_WYMOND_000_088","You mark my words, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>─those villains're goin' to rue stumblin' back into my life."
+86,"TEXT_SUBPST020_00240_WYMOND_000_100","Go an' speak with Seseroga at the Sapphire Avenue Exchange. Aye, the right word in his ear, an' every able merchant's like to learn what we want 'em to."
+87,"TEXT_SUBPST020_00240_WYMOND_000_101","Tell him you're lookin' to buy ceruleum on behalf of an employer with that banknote. Then, get a load from whomever he introduces."
+88,"TEXT_SUBPST020_00240_SESEROGA_000_120","Ah, adventurer─what do you want? A purveyor of ceruleum, you say? An expensive request─do you have the funds to back it?"
+89,"TEXT_SUBPST020_00240_SESEROGA_000_121","My dear <hex:02080EE905FF05>lady<hex:FF04>sir<hex:03>─how came you by such great riches?"
+90,"TEXT_SUBPST020_00240_SESEROGA_000_122","Your employer's money, eh? Well, allow me to assure you that you are speaking with the right person!"
+91,"TEXT_SUBPST020_00240_SESEROGA_000_123","Syntgoht─the fellow over yonder─will be happy to provide all the ceruleum you desire. And let us not forget to thank the finder!"
+92,"TEXT_SUBPST020_00240_SESEROGA_000_124","Your sudden interest, however, gives credence to today's rumors that a certain engineer's groundbreaking invention will send the demand for ceruleum, ahem, <hex:021A020203>soaring<hex:021A020103>."
+93,"TEXT_SUBPST020_00240_SESEROGA_000_125","Yes, 'tis perhaps time that I purchase ceruleum futures myself! What I could do for Mistress Momodi with... Ah, but I have said too much."
+94,"TEXT_SUBPST020_00240_SESEROGA_000_130","Syntgoht just yonder is as fine a purveyor of ceruleum as I know, <hex:02080EE905FF05>miss<hex:FF04>sir<hex:03>."
+95,"TEXT_SUBPST020_00240_SESEROGA_000_131","And with these new rumors about ceruleum, I shan't be more than a few steps behind!"
+96,"TEXT_SUBPST020_00240_SYNTGOHT_000_150","Welcome, <hex:021A020203>welcome<hex:021A020103>! What might a discerning─ Ceruleum? Of course! Are you interested in current stocks, or futures? And what do you have to spend?"
+97,"TEXT_SUBPST020_00240_SYNTGOHT_000_151","Gods be good! In all my days, no one has ever placed so large an order! ...It is <hex:021A020203>your<hex:021A020103> money, yes? If you are tied up in something shady, there can be no deal."
+98,"TEXT_SUBPST020_00240_SYNTGOHT_000_152","...I see. Well, if this employer of yours is legitimate, I will be happy to assist you! And let me say, he has impeccable timing!"
+99,"TEXT_SUBPST020_00240_SYNTGOHT_000_153","What do I mean? Why, just that the market has been full of rumors today, about Garlond Ironworks."
+100,"TEXT_SUBPST020_00240_SYNTGOHT_000_154","The word is that those engineers found a way to craft airships for a fraction of the cost. Vessels will soon fill the skies, and the price of ceruleum will soar!"
+101,"TEXT_SUBPST020_00240_SYNTGOHT_000_155","If this is true, ceruleum will become the most desirable of commodities. And with the amount he's willing to spend, I daresay your employer knows a thing or two we don't."
+102,"TEXT_SUBPST020_00240_SYNTGOHT_000_156","But this is not the time for talk! Here is your ceruleum futures contract. I'll make good on it─or my name isn't Syntgoht!"
+103,"TEXT_SUBPST020_00240_SYNTGOHT_000_160","Never fear, <hex:02080FE905FF06>madam<hex:FF04>sir<hex:03>! I will make good on that ceruleum futures contract. And for all your other needs, I hope you continue to think of Syntgoht's Sundries!"
+104,"TEXT_SUBPST020_00240_WYMOND_000_180","Heard Seseroga introduced you to Syntgoht. Do you have a futures contract to show for your dealin's with him?"
+105,"TEXT_SUBPST020_00240_WYMOND_000_181","Well, you've set the price of ceruleum soarin' high as an airship! Aye, it was me who started those rumors. But they look real now that you've placed that order."
+106,"TEXT_SUBPST020_00240_WYMOND_000_182","Hold on to the futures contract for now. 'Tis the very bait we need to lure the mastermind into the open."
+107,"TEXT_SUBPST020_00240_WYMOND_000_183","No doubt he's heard how you swept into the markets. That's like to vex him, as is the news that he's gotten himself a rival businessman with a real adept underlin'."
+108,"TEXT_SUBPST020_00240_WYMOND_000_184","An' how do you imagine he'd feel if said underlin' were to meet with the Haze secretly? With ceruleum prices high as they are, he'd feel betrayed for godsdamned sure!"
+109,"TEXT_SUBPST020_00240_WYMOND_000_185","Aye, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, it's a date with a kidnapper at the Coffer & Coffin for you! You'll have to find a man of the Haze, 'course, but just keep your eyes out."
+110,"TEXT_SUBPST020_00240_WYMOND_000_186","Get his attention with a pint. Then, show him the futures contract, an' let it slip your employer's lookin' for rich land. His greed'll do the rest!"
+111,"TEXT_SUBPST020_00240_WYMOND_000_190","Plan calls for you to move yourself to the Coffer & Coffin, 'venturer, to meet a man of the Purple Haze."
+112,"TEXT_SUBPST020_00240_WYMOND_000_191","When you find one, put a little liquor in him. Then, give him a peek at the futures contract, an' let it slip your employer's searchin' for rich land!"
+113,"TEXT_SUBPST020_00240_VILLAIN00240_000_210","Wha...? A drink? Fine. Ain't nothin' in the realm for free, though. What d'you want?"
+114,"TEXT_SUBPST020_00240_VILLAIN00240_000_211","...So it's <hex:021A020203>your<hex:021A020103> master what's struck it rich in this ceruleum craze! Hah! S'pose it's him I ought to thank for this grog, eh?"
+115,"TEXT_SUBPST020_00240_VILLAIN00240_000_212","Mine his own ceruleum!? Har har! I'll wager he is, the greedy bugger! ...Hmmm. Maybe you've got an itch I can scratch."
+116,"TEXT_SUBPST020_00240_VILLAIN00240_000_213","I'll be comin' into the deed to a huge plot of land shortly. Ceruleum-rich land. Its yield? Take what you're imaginin', an' add two zeroes. <hex:021A020203>Two<hex:021A020103>."
+117,"TEXT_SUBPST020_00240_VILLAIN00240_000_214","Might be land ain't quite me cup of tea. Might be as I'm willin' to sell it. For the right offer, that is."
+118,"TEXT_SUBPST020_00240_VILLAIN00240_000_215","Just a little somethin' to think about. But I'm drownin' me troubles here most days if you fancy another chat."
+119,"TEXT_SUBPST020_00240_VILLAIN00240_000_220","The mead here don't half go down well. When you've a mind to talk business, come back an' join me for a pint."
+120,"TEXT_SUBPST020_00240_WYMOND_000_240","While you were gone, the price of ceruleum hit its peak. I'll need the contract back now. It'll fetch a good price, an' give me the funds to finish things with a bang."
+121,"TEXT_SUBPST020_00240_WYMOND_000_241","'Preciate it. Aye, an' you meetin' with that thug. Our mastermind's sure to be feelin' betrayed, what with his underlin' talkin' to my own in the Coffer & Coffin."
+122,"TEXT_SUBPST020_00240_WYMOND_000_242","After he went to the trouble of kidnappin' Raymond's daughter, false friends tryin' to turn a profit on their own ain't like to sit well with him."
+123,"TEXT_SUBPST020_00240_WYMOND_000_243","An' I've given him a little push with a certain letter as well. Reckon he'll be leavin' to question the Haze round about now."
+124,"TEXT_SUBPST020_00240_WYMOND_000_244","The lot of them're makin' for Cutter's Cry─an' straight into the trap you've worked to bait. Leave the springin' of it to me."
+125,"TEXT_SUBPST020_00240_WYMOND_000_245","Heh, ain't none of them leavin' those caves unscathed."
+126,"TEXT_SUBPST020_00240_WYMOND_000_246","What's it I mean to do? Can't spoil the surprise yet, but don't worry unduly. Wymond's just goin' to play a trick─somethin' from the bad ol' days!"
+127,"TEXT_SUBPST020_00240_WYMOND_000_250","Meet me up north of Cutter's Cry, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Then, we can watch the Haze's dreams go up in smoke!"
+128,"TEXT_SUBPST020_00240_WYMOND_000_270","The stage is set, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, an' we're in for a good show."
+129,"TEXT_SUBPST020_00240_WYMOND_000_271","The Haze said to put the deed over there. I obliged─with a forgery."
+130,"TEXT_SUBPST020_00240_WYMOND_000_272","Our mastermind's here, too. I'm hopin' my deed fools them, so they'll let the girl go."
+131,"TEXT_SUBPST020_00240_WYMOND_000_273","Easy, lass. You're safe now. Just keep close to that kindly 'venturer, eh?"
+132,"TEXT_SUBPST020_00240_WYMOND_000_274","Whew... Well, looks to be drama unfoldin' 'twixt our villains."
+133,"TEXT_SUBPST020_00240_WYMOND_000_275","Wouldn't want to be in that thug's boots─our mastermind's doubtless givin' the bloke a right proper grillin' about his relationship with you."
+134,"TEXT_SUBPST020_00240_WYMOND_000_276","But at the end of the day, the merchant needs the Haze. To keep 'em sweet, he'll offer a bigger share of the spoils."
+135,"TEXT_SUBPST020_00240_WYMOND_000_277","An' they'll accept it, I don't doubt. No sense in them sidin' with some 'venturer they barely know over the merchant's coin."
+136,"TEXT_SUBPST020_00240_WYMOND_000_278","So they'll seal their deal with the Haze's solemn custom─passin' a pipe while speakin' a crook's vow: “That sworn in somnus's glow holds true in hellsfire.” Hah! As if a puff or two bound them to anythin'."
+137,"TEXT_SUBPST020_00240_WYMOND_000_279","（★未使用／削除予定★）"
+138,"TEXT_SUBPST020_00240_WYMOND_000_280","But I will say, that bit of somnus takes the edge off. But what if some bloke went an' hid military-grade firesand nearby? Heh heh."
+139,"TEXT_SUBPST020_00240_WYMOND_000_281","Aye, the moment they light their pipe, one hundred million gil's worth of the stuff will explode! That's what I sold the futures contract for: explosives what can blow a settlement sky-high!"
+140,"TEXT_SUBPST020_00240_WYMOND_000_282","Least, that's what the fellow who sold it─<hex:02100103>Er...now hold on a moment..."
+141,"TEXT_SUBPST020_00240_WYMOND_000_283","That whole “sky-high” bit might not've been a figure of speech..."
+142,"TEXT_SUBPST020_00240_WYMOND_000_284","Seven hells!<hex:02100103>I...er, hope somethin' survived that..."
+143,"TEXT_SUBPST020_00240_WYMOND_000_285","Well, little one, I reckon you've had enough excitement to last a lifetime. Go an' find the Brass Blades. They'll see you safely to your parents."
+144,"TEXT_SUBPST020_00240_RAYMONDSDAUGHTER_000_286","Y-Yes, sir! Thank you, sir!"
+145,"TEXT_SUBPST020_00240_WYMOND_000_287","...Good child, that. <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, make sure she meets her family at Arrzaneth Ossuary. They ought to thank you for all you've done."
+146,"TEXT_SUBPST020_00240_WYMOND_000_288","I'd be grateful if you'd check in on Raymond's wife while you're there. She's young an' comely, but the worry made her look weary as a crone..."
+147,"TEXT_SUBPST020_00240_WYMOND_000_300","Seen the girl an' her family at Arrzaneth Ossuary yet?"
+148,"TEXT_SUBPST020_00240_WYMOND_000_301","No? Well, would you? An' check on Raymond's wife, too. Poor thing was half dead with worry."
+149,"TEXT_SUBPST020_00240_RAYMOND_000_310","Are you the <hex:02080FE905FF06>woman<hex:FF04>man<hex:03> who rescued my daughter? Thank you, a thousand times, thank you! Truly, words cannot express how relieved I am to have her back! "
+150,"TEXT_SUBPST020_00240_RAYMONDSDAUGHTER_000_315","Thanks again, 'venturer!"
+151,"TEXT_SUBPST020_00240_RAYMONDSWIFE_000_320","Oh! Are you Wymond's friend? Then I owe you a great debt. I was beside myself with worry when he came, but no longer: my daughter is safe."
+152,"TEXT_SUBPST020_00240_RAYMONDSWIFE_000_321","As she tells it, it seems we need fear the gang or that awful merchant no more."
+153,"TEXT_SUBPST020_00240_RAYMOND_000_322","You have my gratitude as well. In truth, I wavered─enlist the Brass Blades to bring our daughter home by force, or leave it to Wymond to save her with cunning?"
+154,"TEXT_SUBPST020_00240_RAYMOND_000_323","But my wife felt he could be trusted, and full glad am I that she convinced me to do so as well."
+155,"TEXT_SUBPST020_00240_RAYMONDSWIFE_000_324","We wish to thank Wymond, too. Could you take this to him on Emerald Avenue? 'Tis a token, really, but I hope it shows our appreciation."
+156,"TEXT_SUBPST020_00240_RAYMONDSWIFE_000_325","(-Raymond's Wife-)Once again, thank you for returning our daughter to us!"
+157,"TEXT_SUBPST020_00240_WYMOND_000_350","Playin' post<hex:02080FE905FF06>woman<hex:FF04>man<hex:03> again? Wait, wait─before you hand it over, are you dead certain it's for me, an', if it is, that it <hex:021A020203>ain't<hex:021A020103> another ransom note?"
+158,"TEXT_SUBPST020_00240_WYMOND_000_351","Heh, a rose. Just like what I used to buy from Myrtha."
+159,"TEXT_SUBPST020_00240_WYMOND_000_352","Ever since she vanished, time's stood still for me. I've been waitin' for her so long, what used to be her spot's turned into mine."
+160,"TEXT_SUBPST020_00240_WYMOND_000_353","Precious blossom, this. Makes the good memories come floodin' back... Who's it from, by the way?"
+161,"TEXT_SUBPST020_00240_WYMOND_000_354","Raymond's wife, eh? Well, look at that─there's even a card."
+162,"TEXT_SUBPST020_00240_WYMOND_000_355","“Thank you kindly, Mr. Wymund.<hex:02100103><hex:02100103>- Your Myrtha”"
+163,"TEXT_SUBPST020_00240_WYMOND_000_356","Seven hells! It was <hex:021A020203>her<hex:021A020103> all along?"
+164,"TEXT_SUBPST020_00240_WYMOND_000_357","She grew up quick! I'm glad she's happy, an' has a good husband."
+165,"TEXT_SUBPST020_00240_WYMOND_000_358","Thank you, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. I think time'll start movin' for me again."
+166,"TEXT_SUBPST020_00240_WYMOND_000_359","“Thank you kindly, Mr. Wymund.”"
+167,"TEXT_SUBPST020_00240_WYMOND_000_360","...Heh, she still doesn't get my name right...an' I wouldn't have it any other way."
+168,"TEXT_SUBPST020_00240_SYSTEM_000_900","With your successful delivery, your reputation as a letter carrier has grown!"

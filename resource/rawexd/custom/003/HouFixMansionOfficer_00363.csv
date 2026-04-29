@@ -2,63 +2,63 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_HOUFIXMANSIONOFFICER_00363_TALK_000_000,歡迎來到<hex:020949E802FF0A>中桅塔<hex:FF0A>百合嶺<hex:FF13>娜娜莫大風車<hex:FF0D>紅梅御殿<hex:FF0D>皓天爐舍<hex:03>公寓！<hex:02100103>在這個窗口可以購買房間或聽取說明。
-1,TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_001_000,詢問有關公寓的事情
-2,TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_001_001,取消
-3,TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_006_000,想了解什麼？
-4,TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_006_001,可以在公寓做的事
-5,TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_006_002,購買房間
-6,TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_006_003,拆除房間
-7,TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_006_004,更改內部裝潢配件
-8,TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_006_005,在房間內布置家具
-9,TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_006_006,關於亮度調節功能
-10,TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_006_007,什麼是家具及庭具的交易屬性？
-11,TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_006_008,關於陸行鳥房
-12,TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_006_009,取消
-13,TEXT_HOUFIXMANSIONOFFICER_00363_TALK_006_001_001,公寓是在各冒險者住宅區為冒險者準備的個人居住設施。
-14,TEXT_HOUFIXMANSIONOFFICER_00363_TALK_006_001_002,購買公寓內的房間後，<hex:02100103>即可將其作為自己的私人空間使用。<hex:02100103>盡情用家具或壁紙裝飾自己的房間吧。
-15,TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_001_003,在房間中也可自由設定盆栽、管弦樂琴、<hex:02100103>傳喚鈴、美容師傳喚鈴、收藏櫃、僱傭人員等便利的機能。
-16,TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_001_004,還可以使用配備的陸行鳥房<hex:02100103>培養陸行鳥、改變陸行鳥羽毛的顏色等。<hex:02100103>同時可以幫忙照顧其他居民的陸行鳥。
-17,TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_001_005,使用傳送功能可以直接移動到自己擁有房間的公寓，<hex:02100103>請多加利用。
-18,TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_002_001,"想要購買公寓的房間，必須將任意職業升至50級，<hex:02100103>同時支付500,000金幣。"
-19,TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_002_002,此外，所屬黑渦團的情況下，軍銜需在「協漩尉」以上，<hex:02100103>所屬雙蛇黨的情況下，軍銜需在「協牙尉」以上，<hex:02100103>所屬恆輝隊的情況下，軍銜需在「協耀尉」以上。
-20,TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_002_003,要想購買公寓「紅梅御殿」的房間，<hex:02100103>需要先完成主線任務「乘風破浪」。
-21,TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_002_004,要想購買公寓「皓天爐舍」的房間，<hex:02100103>需要先完成主線任務「絕命怒嚎」。
-22,TEXT_HOUFIXMANSIONOFFICER_00363_TALK_006_003_001,在拆除房間前，<hex:02100103>需要先撤除房間內的所有家具。
-23,TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_003_002,在撤除完所有家具後，<hex:02100103>打開「房屋」選單選擇「拆除房間」，<hex:02100103>即可將房間拆除。
-24,TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_003_003,另外，在拆除房間時，<hex:02100103>不會返還購買房間時的費用，敬請注意。
-25,TEXT_HOUFIXMANSIONOFFICER_00363_TALK_006_004_001,你可以自行對房間內的牆壁和地板等進行調整。
-26,TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_004_002,房間的內部裝潢由3種室內建材構成，<hex:02100103>分別是內牆、地板、屋頂照明。
-27,TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_004_003,在持有室內建材的狀態下，<hex:02100103>在購入的房間內打開「房屋」選單，<hex:02100103>選擇「更改內部裝潢配件」，即可對內部裝潢進行變更。
-28,TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_004_004,安裝上的室內建材可在安裝新室內建材時替換回背包。
-29,TEXT_HOUFIXMANSIONOFFICER_00363_TALK_006_005_001,你可以在房間內布置「家具」。<hex:02100103>根據自己的喜好試著裝飾自己的房間吧。
-30,TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_005_002,在持有家具的狀態下，<hex:02100103>在購入的房間內打開「房屋」選單，<hex:02100103>選擇「布置家具」，即可對家具進行布置。
-31,TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_005_003,家具中有可以裝飾在桌上的物品，<hex:02100103>也有壁掛、地毯等可以隨意布置的物品。
-32,TEXT_HOUFIXMANSIONOFFICER_00363_TALK_006_006_001,你可以調節房屋內的照明亮度，打造舒適的環境！
-33,TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_006_002,在「房屋」選單中選擇「室內環境設定」即可調節亮度。<hex:02100103>照明亮度可以從0到5進行6個等級的調節。
-34,TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_007_001,家具一經布置後，<hex:02100103>便無法再進行交易或拿到市場上出售。
-35,TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_007_002,另外，有一部分家具一經布置後，<hex:02100103>在撤除時會被廢棄。
-36,TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_007_003,在布置、撤除這些物品時會有警示語出現，<hex:02100103>請多加留意。
-37,TEXT_HOUFIXMANSIONOFFICER_00363_TALK_006_008_001,購買公寓內的房間後，<hex:02100103>即可使用入口前的陸行鳥房！
-38,TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_008_002,關於在陸行鳥房飼養陸行鳥的相關內容，<hex:02100103>可以在購入房間後點擊陸行鳥房，<hex:02100103>選擇「查看說明」進行確認。
-39,TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_002_000,要做什麼？
-40,TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_002_001,購買房間
-41,TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_002_002,詢問有關公寓的事情
-42,TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_002_003,取消
-43,TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_003_000,要想購買公寓的房間，必須有足夠的金幣支付費用，<hex:02100103>還要將任意職業升至50級。
-44,TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_003_001,此外，所屬黑渦團的情況下，軍銜需在「協漩尉」以上，<hex:02100103>所屬雙蛇黨的情況下，軍銜需在「協牙尉」以上，<hex:02100103>所屬恆輝隊的情況下，軍銜需在「協耀尉」以上。
-45,TEXT_HOUFIXMANSIONOFFICER_00363_TALK_004_000,非常抱歉。<hex:02100103>現在此處公寓的房間已經全部售出。
-46,TEXT_HOUFIXMANSIONOFFICER_00363_TALK_004_001,您可以等待騰出空房，<hex:02100103>或前往其他公寓諮詢。
-47,TEXT_HOUFIXMANSIONOFFICER_00363_TALK_005_000,非常感謝您的光臨！<hex:02100103>我們這就開始辦理購買手續吧。
-48,TEXT_HOUFIXMANSIONOFFICER_00363_TALK_005_001,"公寓房間的購買價格為500,000金幣。"
-49,TEXT_HOUFIXMANSIONOFFICER_00363_ASK_005_002,"確定要用500,000金幣購買公寓的房間嗎？"
-50,TEXT_HOUFIXMANSIONOFFICER_00363_ASK_005_003,是
-51,TEXT_HOUFIXMANSIONOFFICER_00363_ASK_005_004,否
-52,TEXT_HOUFIXMANSIONOFFICER_00363_KUGANE_NOT_OPENED_1,歡迎來到「紅梅御殿」公寓！<hex:02100103>為了能在不久的將來將公寓開放給廣大冒險者們居住，<hex:02100103>現在我們正在努力準備中。
-53,TEXT_HOUFIXMANSIONOFFICER_00363_KUGANE_NOT_OPENED_2,紅梅御殿現還處於售前展示狀態。<hex:02100103>在房間正式對外銷售前，請您耐心等待。
-54,TEXT_HOUFIXMANSIONOFFICER_00363_KUGANE_NOT_ARROWED_TO_BUY,要想購買公寓「紅梅御殿」的房間，<hex:02100103>需要先完成主線任務「乘風破浪」。
-55,TEXT_HOUFIXMANSIONOFFICER_00363_ISHGARD_NOT_OPENED_1,歡迎來到皓天爐舍！<hex:02100103>為了正式向廣大冒險者開放，<hex:02100103>現在這裡正緊鑼密鼓地進行著準備工作。
-56,TEXT_HOUFIXMANSIONOFFICER_00363_ISHGARD_NOT_OPENED_2,皓天爐舍現還處於售前展示狀態。<hex:02100103>在房間正式對外銷售前，請您耐心等待。
-57,TEXT_HOUFIXMANSIONOFFICER_00363_ISHGARD_NOT_ARROWED_TO_BUY,要想購買公寓「皓天爐舍」的房間，<hex:02100103>需要先完成主線任務「絕命怒嚎」。
-58,TEXT_HOUFIXMANSIONOFFICER_00363_TC_NOT_OPENED_1,歡迎來到「<hex:020949E802FF0A>中桅塔<hex:FF0A>百合嶺<hex:FF13>娜娜莫大風車<hex:FF0D>紅梅御殿<hex:FF0D>皓天爐舍<hex:03>」公寓！<hex:02100103>為了能在不久的將來將公寓開放給廣大冒險者們居住，<hex:02100103>現在我們正在努力準備中。
-59,TEXT_HOUFIXMANSIONOFFICER_00363_TC_NOT_OPENED_2,<hex:020949E802FF0A>中桅塔<hex:FF0A>百合嶺<hex:FF13>娜娜莫大風車<hex:FF0D>紅梅御殿<hex:FF0D>皓天爐舍<hex:03>現還處於售前展示狀態。<hex:02100103>在房間正式對外銷售前，請您耐心等待。
+0,"TEXT_HOUFIXMANSIONOFFICER_00363_TALK_000_000","Welcome to <hex:020946E802FF08>Topmast<hex:FF0B>Lily Hills<hex:FF15>the Sultana's Breath<hex:FF0C>Kobai Goten<hex:FF0A>Ingleside<hex:03> Apartments! Whether you've come with an eye to buy or simply a question to ask, my services are at your disposal."
+1,"TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_001_000","Ask about apartments."
+2,"TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_001_001","Cancel."
+3,"TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_006_000","What will you ask about?"
+4,"TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_006_001","Apartment features."
+5,"TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_006_002","Purchasing an apartment."
+6,"TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_006_003","Vacating an apartment."
+7,"TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_006_004","Interior customization."
+8,"TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_006_005","Placing furnishings."
+9,"TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_006_006","Apartment lighting."
+10,"TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_006_007","Restrictions on the sale of used furnishings."
+11,"TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_006_008","Chocobo stables."
+12,"TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_006_009","Nothing."
+13,"TEXT_HOUFIXMANSIONOFFICER_00363_TALK_006_001_001","These apartments are designed to cater for individual adventurers with Grand Company affiliation."
+14,"TEXT_HOUFIXMANSIONOFFICER_00363_TALK_006_001_002","When you buy one of our rooms, you are purchasing a sanctuary─your own private space that you are free to decorate as you please!"
+15,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_001_003","In addition to furnishings, the following features can be placed inside an apartment: flowerpots, orchestrions, summoning bells, crystal bells, armoires, and specialist NPCs."
+16,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_001_004","Upon purchasing an apartment, you will gain access to the building's chocobo stable. As well as raising your own chocobo and coloring its plumage, you will also be able to care for the mounts of other residents."
+17,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_001_005","Furthermore, you will gain the option to teleport directly to the entrance of your apartment building."
+18,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_002_001","Apartments are available for 500,000 gil. Before you can purchase an apartment, however, you must first attain level 50 in a single class."
+19,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_002_002","Furthermore, you must hold a rank of second lieutenant or above in one of the Grand Companies."
+20,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_002_003","In order to purchase an apartment in Kobai Goten, you must first complete the main scenario quest “Not without Incident.”"
+21,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_002_004","In order to purchase an apartment in Ingleside, you must first complete the main scenario quest “Litany of Peace.”"
+22,"TEXT_HOUFIXMANSIONOFFICER_00363_TALK_006_003_001","In order to vacate your apartment, you must first remove all furnishings."
+23,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_003_002","Once your apartment is completely empty, open the <hex:024804F201F403><hex:024904F201F503>Housing<hex:0249020103><hex:0248020103> menu while in the apartment lobby, select <hex:024804F201F403><hex:024904F201F503>Estate Settings<hex:0249020103><hex:0248020103>, and then select <hex:024804F201F403><hex:024904F201F503>Vacate Apartment<hex:0249020103><hex:0248020103>."
+24,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_003_003","Please be warned that you will not be refunded the purchase price of the apartment."
+25,"TEXT_HOUFIXMANSIONOFFICER_00363_TALK_006_004_001","We like our residents to feel at home─should you be unhappy with the room's appearance, the walls and floors are yours to change as you will!"
+26,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_004_002","You can customize the interior walls, flooring, and ceiling lights of your apartment."
+27,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_004_003","To change any of these elements, open the <hex:024804F201F403><hex:024904F201F503>Housing<hex:0249020103><hex:0248020103> menu while inside your apartment, and select <hex:024804F201F403><hex:024904F201F503>Remodel Interior<hex:0249020103><hex:0248020103>."
+28,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_004_004","Placed fixtures will be returned to your inventory when they are replaced by another fixture."
+29,"TEXT_HOUFIXMANSIONOFFICER_00363_TALK_006_005_001","New apartments are unfurnished─a blank canvas, if you will. You might fill the space with joyous clutter, or maintain a sparse minimalism. The choice is yours!"
+30,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_005_002","To place furnishings, open the <hex:024804F201F403><hex:024904F201F503>Housing<hex:0249020103><hex:0248020103> menu while inside your apartment, and select <hex:024804F201F403><hex:024904F201F503>Indoor Furnishings<hex:0249020103><hex:0248020103>."
+31,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_005_003","Please note that the locations where you may place a furnishing are dictated by its type."
+32,"TEXT_HOUFIXMANSIONOFFICER_00363_TALK_006_006_001","The lighting within an apartment can be adjusted to suit your mood, whether you prefer bright and cheery, or dim and subdued."
+33,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_006_002","To adjust the brightness of your apartment's lighting, open the <hex:024804F201F403><hex:024904F201F503>Housing<hex:0249020103><hex:0248020103> menu while inside and select <hex:024804F201F403><hex:024904F201F503>Interior Settings<hex:0249020103><hex:0248020103>."
+34,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_007_001","Placing a furnishing will <hex:024804F201F403><hex:024904F201F503>bind<hex:0249020103><hex:0248020103> it to you, preventing future trade or sale to other players."
+35,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_007_002","Moreover, certain furnishings cannot be retrieved once placed, and will be permanently discarded upon removal."
+36,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_007_003","You will be prompted to confirm your decision before placing or removing these furnishings."
+37,"TEXT_HOUFIXMANSIONOFFICER_00363_TALK_006_008_001","When you purchase one of our apartments, you also gain access to our exclusive chocobo stable! You'll find it just outside the entrance to the building."
+38,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_008_002","Access the chocobo stable after buying an apartment, and select “Learn about Chocobo Raising” to begin caring for your steed."
+39,"TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_002_000","What will you do?"
+40,"TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_002_001","Purchase an apartment."
+41,"TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_002_002","Ask about apartments."
+42,"TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_002_003","Nothing."
+43,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_003_000","In order to purchase an apartment, you must first attain level 50 in a single class."
+44,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_003_001","Furthermore, you must hold a rank of second lieutenant or above in one of the Grand Companies."
+45,"TEXT_HOUFIXMANSIONOFFICER_00363_TALK_004_000","Ah. I'm afraid we haven't any vacancies at this time."
+46,"TEXT_HOUFIXMANSIONOFFICER_00363_TALK_004_001","Your only options are to wait until an owner relinquishes a room, or try your luck at another apartment building. My apologies."
+47,"TEXT_HOUFIXMANSIONOFFICER_00363_TALK_005_000","Very good, <hex:02080FE905FF06>madam<hex:FF04>sir<hex:03>!"
+48,"TEXT_HOUFIXMANSIONOFFICER_00363_TALK_005_001","Provide me the sum of 500,000 gil, and we shall make you the proud owner of a new apartment!"
+49,"TEXT_HOUFIXMANSIONOFFICER_00363_ASK_005_002","Purchase an apartment for 500,000 gil?"
+50,"TEXT_HOUFIXMANSIONOFFICER_00363_ASK_005_003","Yes"
+51,"TEXT_HOUFIXMANSIONOFFICER_00363_ASK_005_004","No"
+52,"TEXT_HOUFIXMANSIONOFFICER_00363_KUGANE_NOT_OPENED_1","Welcome to Kobai Goten Apartments! Our rooms are currently undergoing finishing touches, and will soon be available for purchase. We thank you for your patience."
+53,"TEXT_HOUFIXMANSIONOFFICER_00363_KUGANE_NOT_OPENED_2","At present, Kobai Goten is open for display only. Apartment sales will commence at a later time."
+54,"TEXT_HOUFIXMANSIONOFFICER_00363_KUGANE_NOT_ARROWED_TO_BUY","In order to purchase an apartment in Kobai Goten, you must first complete the main scenario quest “Not without Incident.”"
+55,"TEXT_HOUFIXMANSIONOFFICER_00363_ISHGARD_NOT_OPENED_1","Welcome to Ingleside Apartments! Our rooms are currently undergoing finishing touches, and will soon be available for purchase. We thank you for your patience."
+56,"TEXT_HOUFIXMANSIONOFFICER_00363_ISHGARD_NOT_OPENED_2","At present, Ingleside is open for display only. Apartment sales will commence at a later time."
+57,"TEXT_HOUFIXMANSIONOFFICER_00363_ISHGARD_NOT_ARROWED_TO_BUY","In order to purchase an apartment in Ingleside, you must first complete the main scenario quest “Litany of Peace.”"
+58,"TEXT_HOUFIXMANSIONOFFICER_00363_TC_NOT_OPENED_1","Welcome to <hex:020946E802FF08>Topmast<hex:FF0B>Lily Hills<hex:FF15>the Sultana's Breath<hex:FF0C>Kobai Goten<hex:FF0A>Ingleside<hex:03> Apartments! Our rooms are currently undergoing finishing touches, and will soon be available for purchase. We thank you for your patience."
+59,"TEXT_HOUFIXMANSIONOFFICER_00363_TC_NOT_OPENED_2","At present, <hex:020946E802FF08>Topmast<hex:FF0B>Lily Hills<hex:FF15>the Sultana's Breath<hex:FF0C>Kobai Goten<hex:FF0A>Ingleside<hex:03> is open for display only. Apartment sales will commence at a later time."

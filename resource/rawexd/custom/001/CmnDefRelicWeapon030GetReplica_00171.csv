@@ -2,56 +2,56 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_Q1_000_000,要做什麼？
-1,TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_A1_000_010,換取«天球書卷»
-2,TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_A1_000_020,除去«天球書卷»中嵌寫的魔晶石之力
-3,TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_A1_000_030,關於«天球書卷»的強化方法
-4,TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_A1_000_040,關於«天球書卷»強化時需要的觸媒
-5,TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_A1_000_050,取消
-6,TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_HUBAIRTIN_000_000,你只需要給我高位附魔墨水，<hex:02100103>我就可以幫你描繪能嵌寫魔晶石之力的特殊魔紋。<hex:02100103>那麼，你需要繪製哪種«天球書卷»？
-7,TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_Q2_000_000,請選擇要交換的«天球書卷»<hex:02100103>※需要的高位附魔墨水數量<hex:02100103>聖劍:2個　聖盾:1個　其他:3個
-8,TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_A2_000_010,<hex:02280AFF05>Item<hex:E8020103>（<hex:02280AFF05>Item<hex:E8030103>用）
-9,TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_A2_000_110,取消
-10,TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_HUBAIRTIN_000_020,如果要換<hex:02280AFF05>Item<hex:E8020103>的話，<hex:02100103>那麼需要<hex:022003E80303>個高位附魔墨水，<hex:02100103>可以嗎？
-11,TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_Q3_000_000,確定要用<hex:022003E80303>個高位附魔墨水換取<hex:02280AFF05>Item<hex:E8020103>嗎？
-12,TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_A3_000_010,是
-13,TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_A3_000_020,否
-14,TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_HUBAIRTIN_000_040,這裡這麼描……好了，完成了！<hex:02100103>你可以往<hex:02280AFF05>Item<hex:E8020103>裡，<hex:02100103>嵌寫喜歡的魔晶石之力了！
-15,TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_SYSTEM_000_050,獲得了«天球書卷»。<hex:02100103>可以打開「物品」，<hex:02100103>通過使用「<hex:02280AFF05>Item<hex:E8020103>」來嵌寫魔晶石。
-16,TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_SYSTEM_000_051,在對«天球書卷»進行了充分的嵌寫後，<hex:02100103>就可以將其和「上古武器」一併交給林場水車的加爾贊。
-17,TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_HUBAIRTIN_000_080,哎呀，你身上的高位附魔墨水不夠。<hex:02100103>很遺憾，如果不用那種特殊的墨水就沒法描繪特殊的魔紋……<hex:02100103>這樣就不能繪製«天球書卷»了。
-18,TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_SYSTEM_000_090,每種武器都需要3個高位附魔墨水。<hex:02100103>其中，「騎士」的「劍」需要2個，「盾」需要1個。<hex:02100103>墨水可以在喪靈鐘跟奧里亞娜換取。
-19,TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_HUBAIRTIN_000_100,看樣子你沒帶著那把武器啊。<hex:02100103>……真是抱歉，如果不讓我看一下上古武器的話，<hex:02100103>就沒辦法描繪與其相符的魔紋了。
-20,TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_SYSTEM_000_110,必須在持有或裝備「上古武器·魂靈」的狀態下<hex:02100103>和於貝爾坦對話才能獲得«天球書卷»。
-21,TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_SYSTEM_000_111,如已對「上古武器·魂靈」進行強化，<hex:02100103>則也可通過「上古武器·新星」或更高級的上古武器<hex:02100103>來獲取«天球書卷»。
-22,TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_HUBAIRTIN_000_120,嗯，你好像已經有這個上古武器的«天球書卷»了。
-23,TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_HUBAIRTIN_000_125,哎呀，你的背包已經滿了。<hex:02100103>還是整理一下再來吧。
-24,TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_HUBAIRTIN_000_130,想要除去已嵌寫的魔晶石之力？<hex:02100103>我明白了，你要除去哪一部分呢？
-25,TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_Q4_000_000,請選擇要除去魔晶石之力的«天球書卷»
-26,TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_A4_000_110,取消
-27,TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_Q5_000_000,選擇的屬性將被清除掉1次嵌寫
-28,TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_A5_000_010,<hex:02280FFF0A>BaseParam<hex:E8020203>（當前的嵌寫次數：<hex:022003E80303>次）
-29,TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_A5_000_040,取消
-30,TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_Q6SYSETM_000_000,確定將<hex:02280FFF0A>BaseParam<hex:E8020203>（當前的嵌寫次數：<hex:022003E80303>次）<hex:02100103>除去1次嵌寫嗎？
-31,TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_A6_000_030,是
-32,TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_A6_000_040,否
-33,TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_HUBAIRTIN_000_400,這裡這樣擦……嗯，沒事了。<hex:02100103><hex:02280FFF0A>BaseParam<hex:E8020203>的魔晶石之力，<hex:02100103>被除去了一次。
-34,TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_SYSETM_000_300,<hex:02280FFF0A>BaseParam<hex:E8020203>的嵌寫次數被除去了1次。
-35,TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_HUBAIRTIN_000_500,你好像沒有關於這個上古武器的«天球書卷»。
-36,TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_HUBAIRTIN_000_520,嗯，這本«天球書卷»好像還沒有嵌寫過魔晶石之力。
-37,TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_HUBAIRTIN_000_600,«天球書卷»是一種刻有特殊魔紋的書，<hex:02100103>可以將魔晶石中的思念之力轉化為光，<hex:02100103>並將它們抽出。
-38,TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_HUBAIRTIN_000_601,通過使用觸媒「星光變石」嵌寫魔晶石之力，<hex:02100103>可以將魔晶石之力儲存到«天球書卷»中。
-39,TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_HUBAIRTIN_000_602,如果給我高位附魔墨水的話，<hex:02100103>我可以描繪出和你的上古武器相符的特殊魔紋。
-40,TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_SYSTEM_000_610,將「高位附魔墨水」交給「於貝爾坦」，<hex:02100103>就可以換取«天球書卷»！
-41,TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_SYSTEM_000_611,交換每種「上古武器」的«天球書卷»，<hex:02100103>都需要3個「高位附魔墨水」。
-42,TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_SYSTEM_100_611,其中「騎士」的「劍」需要2個，「盾」需要1個。
-43,TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_SYSTEM_000_612,«天球書卷»最大可以嵌寫5種不同屬性的魔晶石之力。<hex:02100103>但是，可使用的魔晶石的種類與數量是有限制的。
-44,TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_SYSTEM_100_612,另外，因為這個技術是從物質形態的魔晶石之中抽出能量，<hex:02100103>並將能量強制轉化為光的過程，所以會有嵌寫失敗的可能。
-45,TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_SYSTEM_000_613,在對«天球書卷»進行了充分的嵌寫後，<hex:02100103>就可以將其和「上古武器」一併交給林場水車的加爾贊。
-46,TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_HUBAIRTIN_000_700,向«天球書卷»嵌寫魔晶石時，<hex:02100103>需要一種特殊的觸媒……是一種可以改變光的形態的暗物質，<hex:02100103>名字叫做「星光變石」。
-47,TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_HUBAIRTIN_000_701,當這種物質被光芒照耀後，<hex:02100103>就會放出如彩虹般不可思議的光澤，<hex:02100103>自古以來被稱作「輝石」，是很珍貴的東西。
-48,TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_HUBAIRTIN_000_702,星光變石的礦脈基本已經枯竭了，<hex:02100103>不過據說偶爾可以在埋藏的寶藏裡發現這種物質。<hex:02100103>如果能有標示寶藏位置的「神秘地圖」的話……
-49,TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_HUBAIRTIN_000_703,涉及古物或奇珍異寶交易的商人很有可能持有神秘地圖。<hex:02100103>如果你有這方面認識的人，就去問問看吧。
-50,TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_SYSTEM_000_710,嵌寫魔晶石之力時需要「星光變石」。<hex:02100103>「星光變石」可以通過解讀「神秘地圖」後尋找寶箱來獲得。
-51,TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_SYSTEM_000_711,「神秘地圖」可以用亞拉戈神典石和喪靈鐘的奧里亞娜換取，<hex:02100103>也可以通過完成部分任務後作為報酬獲得。
-52,TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_SYSTEM_100_711,除此之外，<hex:02100103>裝備上古武器·魂靈或更高級的上古武器後，參加各地的危命任務，<hex:02100103>通過獲得貢獻度也可以偶爾獲得「星光變石」。
+0,"TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_Q1_000_000","What would you like to do?"
+1,"TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_A1_000_010","Obtain a sphere scroll."
+2,"TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_A1_000_020","Remove infusion from a sphere scroll."
+3,"TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_A1_000_030","Learn about sphere scrolls."
+4,"TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_A1_000_040","Learn about alexandrite."
+5,"TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_A1_000_050","Nothing."
+6,"TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_HUBAIRTIN_000_000","Using the superior enchanted ink you bring, I shall prepare a sphere scroll bearing arcanima patterns for enhancing your relic."
+7,"TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_Q2_000_000","Select the sphere scroll you would like created.<hex:02100103>※Three bottles of ink required for each, with the<hex:02100103>exception of Curtana (2) and the Holy Shield (1)."
+8,"TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_A2_000_010","<hex:022B12FF10><hex:02310CFF05>Item<hex:04E802020203><hex:03>"
+9,"TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_A2_000_110","Cancel"
+10,"TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_HUBAIRTIN_000_020","Creating <hex:02310CFF05>Item<hex:02E802020203> requires <hex:02087EE4E80302FF0B>one bottle<hex:FF6C><hex:020860E803FF54><hex:020850E2E8030BFF42><hex:02093EE803FF04>one<hex:FF04>two<hex:FF06>three<hex:FF05>four<hex:FF05>five<hex:FF04>six<hex:FF06>seven<hex:FF06>eight<hex:FF05>nine<hex:FF04>ten<hex:03><hex:FF07><hex:022003E80303><hex:03><hex:FF07><hex:022003E80303><hex:03> bottles<hex:03> of superior enchanted ink."
+11,"TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_Q3_000_000","Exchange <hex:02087EE4E80302FF0B>one bottle<hex:FF6C><hex:020860E803FF54><hex:020850E2E8030BFF42><hex:02093EE803FF04>one<hex:FF04>two<hex:FF06>three<hex:FF05>four<hex:FF05>five<hex:FF04>six<hex:FF06>seven<hex:FF06>eight<hex:FF05>nine<hex:FF04>ten<hex:03><hex:FF07><hex:022003E80303><hex:03><hex:FF07><hex:022003E80303><hex:03> bottles<hex:03> of superior enchanted ink for <hex:02310CFF05>Item<hex:02E802020203>?"
+12,"TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_A3_000_010","Yes"
+13,"TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_A3_000_020","No"
+14,"TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_HUBAIRTIN_000_040","By virtue of rote, in the blinking of an eye...your sphere scroll is ready! You are at liberty to infuse it with the materia of your choosing! Assuming it's compatible, that is..."
+15,"TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_SYSTEM_000_050","You have obtained a sphere scroll. To infuse it with materia, access it in your inventory, then select <hex:024804F201F403><hex:024904F201F503>Infuse<hex:0249020103><hex:0248020103> from the subcommands."
+16,"TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_SYSTEM_000_051","Once you have fully infused a sphere scroll with materia, you may present it to <hex:024804F201F403><hex:024904F201F503>Jalzahn<hex:0249020103><hex:0248020103> to have the corresponding relic weapon enhanced."
+17,"TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_HUBAIRTIN_000_080","Oh dear, 'twould seem you do not have enough bottles of ink. Let us speak again when you have procured the requisite amount."
+18,"TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_SYSTEM_000_090","Three bottles of superior enchanted ink are required to create a sphere scroll for each relic, with the exception of Curtana (2) and the Holy Shield (1)."
+19,"TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_HUBAIRTIN_000_100","...Hm? You do not appear to have that relic on hand. Without a visual reference, I'm afraid I cannot draw the proper arcanima patterns."
+20,"TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_SYSTEM_000_110","In order to obtain a sphere scroll, the associated relic weapon animus must be in your possession."
+21,"TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_SYSTEM_000_111","Relic weapons that have been upgraded beyond animus are also acceptable for this purpose."
+22,"TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_HUBAIRTIN_000_120","...Hm? 'Twould seem you already possess that particular sphere scroll. Surely, you do not wish to waste good ink?"
+23,"TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_HUBAIRTIN_000_125","Oh dear, 'twould seem your hands are full. Let us speak again after you have tidied up your belongings."
+24,"TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_HUBAIRTIN_000_130","You wish to remove some of the infusion from your sphere scroll? Very well."
+25,"TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_Q4_000_000","Select a sphere scroll for infusion removal."
+26,"TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_A4_000_110","Cancel"
+27,"TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_Q5_000_000","Select an attribute for single infusion removal."
+28,"TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_A5_000_010","<hex:02280FFF0A>BaseParam<hex:E8020203> (Infused: <hex:022003E80303>)"
+29,"TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_A5_000_040","Cancel"
+30,"TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_Q6SYSETM_000_000","Remove a single infusion for the following attribute?<hex:02100103><hex:02280FFF0A>BaseParam<hex:E8020203> (Infused: <hex:022003E80303>)"
+31,"TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_A6_000_030","Yes"
+32,"TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_A6_000_040","No"
+33,"TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_HUBAIRTIN_000_400","...The deed is done. May you find the ideal balance of power that you seek."
+34,"TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_SYSETM_000_300","One infusion removed for <hex:02280FFF0A>BaseParam<hex:E8020203>."
+35,"TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_HUBAIRTIN_000_500","...Hm? 'Twould seem you do not possess that particular sphere scroll."
+36,"TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_HUBAIRTIN_000_520","...Hm? 'Twould seem that this sphere scroll has yet to receive any infusions."
+37,"TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_HUBAIRTIN_000_600","A sphere scroll is a medium for storing materia-derived light energy. It bears arcanima patterns of power, into which the energy is infused for collective transference to a vessel of one's choosing."
+38,"TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_HUBAIRTIN_000_601","Instrumental to this infusion process is a catalyst known as alexandrite, a rare variety of dark matter. Through this method, I seek to circumvent the constraints of advanced materia melding, wherein an object can safely host only a limited number of stones."
+39,"TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_HUBAIRTIN_000_602","If you bring me bottles of superior enchanted ink, I should be glad to prepare a sphere scroll bearing arcanima patterns for enhancing your relic."
+40,"TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_SYSTEM_000_610","Sphere scrolls may be obtained from Hubairtin in exchange for bottles of superior enchanted ink."
+41,"TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_SYSTEM_000_611","A distinct sphere scroll exists for each relic."
+42,"TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_SYSTEM_100_611","Three bottles of ink are required to create each scroll, with the exception of Curtana (2) and the Holy Shield (1)."
+43,"TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_SYSTEM_000_612","Each sphere scroll can be infused with up to five types of materia. Please note, however, that certain restrictions apply to quantity and variety."
+44,"TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_SYSTEM_100_612","Furthermore, due to the unstable nature of materia-derived light energy, infusion attempts are known to fail on occasion."
+45,"TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_SYSTEM_000_613","Once you have fully infused a sphere scroll with materia, present it to <hex:024804F201F403><hex:024904F201F503>Jalzahn<hex:0249020103><hex:0248020103> at Hyrstmill in the North Shroud to have the corresponding relic weapon enhanced."
+46,"TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_HUBAIRTIN_000_700","Alexandrite is the catalyst by which the power of materia may be converted into light and infused into a sphere scroll."
+47,"TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_HUBAIRTIN_000_701","Being a variety of dark matter, the stone possesses light-altering properties. When placed beneath a light source, it bursts into a dazzling display of colors."
+48,"TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_HUBAIRTIN_000_702","Owing to its singular beauty, alexandrite was highly prized by ancient civilizations, and so nigh every natural deposit has been exhausted."
+49,"TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_HUBAIRTIN_000_703","However, the stone is known to emerge amongst hidden treasures─we just need to know where to look. It may behoove us to consult dealers of artifacts from bygone eras."
+50,"TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_SYSTEM_000_710","Furthermore, each infusion requires the use of a catalyst known as alexandrite. Alexandrite is yielded from treasure coffers whose locations are marked on <hex:024804F201F403><hex:024904F201F503>mysterious maps<hex:0249020103><hex:0248020103>."
+51,"TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_SYSTEM_000_711","Mysterious maps can be obtained from Auriana at Revenant's Toll in exchange for Allagan tomestones. Completing a certain quest will also earn you a map."
+52,"TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_SYSTEM_100_711","Alexandrite may also be obtained, albeit at a low probability, by participating in FATEs while equipped with your relic weapon (animus or beyond)."

@@ -2,76 +2,76 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_STMBDA111_02451_SEQ_00,神拳痕的梅·娜格有事想要告訴冒險者。
-1,TEXT_STMBDA111_02451_SEQ_01,作為重建阿拉米格解放軍的一環，決定協助梅·娜格的任務。前往位於神拳痕的通往基拉巴尼亞邊區的出入口附近，和梅·娜格談談。
-2,TEXT_STMBDA111_02451_SEQ_02,和梅·娜格一同出發了。和基拉巴尼亞條紋丘的梅·娜格談談。
-3,TEXT_STMBDA111_02451_SEQ_03,梅·娜格察覺到有帝國軍的巡邏部隊在靠近。在條紋丘的<hex:02280CFF05>EObj<hex:F61EA45D0103>張望，討伐出現的帝國兵。
-4,TEXT_STMBDA111_02451_SEQ_04,成功討伐了帝國兵。和條紋丘的梅·娜格談談。
-5,TEXT_STMBDA111_02451_SEQ_05,和梅·娜格進行了交談。底層的帝國兵大多數都是從其他行省強制征來的，因此在遭遇戰戰勝他們並不困難。但是遇到大規模的作戰，帝國軍的實力則是壓倒性的……
-6,TEXT_STMBDA111_02451_SEQ_06,
-7,TEXT_STMBDA111_02451_SEQ_07,
-8,TEXT_STMBDA111_02451_SEQ_08,
-9,TEXT_STMBDA111_02451_SEQ_09,
-10,TEXT_STMBDA111_02451_SEQ_10,
-11,TEXT_STMBDA111_02451_SEQ_11,
-12,TEXT_STMBDA111_02451_SEQ_12,
-13,TEXT_STMBDA111_02451_SEQ_13,
-14,TEXT_STMBDA111_02451_SEQ_14,
-15,TEXT_STMBDA111_02451_SEQ_15,
-16,TEXT_STMBDA111_02451_SEQ_16,
-17,TEXT_STMBDA111_02451_SEQ_17,
-18,TEXT_STMBDA111_02451_SEQ_18,
-19,TEXT_STMBDA111_02451_SEQ_19,
-20,TEXT_STMBDA111_02451_SEQ_20,
-21,TEXT_STMBDA111_02451_SEQ_21,
-22,TEXT_STMBDA111_02451_SEQ_22,
-23,TEXT_STMBDA111_02451_SEQ_23,
-24,TEXT_STMBDA111_02451_TODO_00,和梅·娜格對話
-25,TEXT_STMBDA111_02451_TODO_01,和條紋丘的梅·娜格對話
-26,TEXT_STMBDA111_02451_TODO_02,在<hex:02280CFF05>EObj<hex:F61EA45D0103>張望 討伐帝國兵
-27,TEXT_STMBDA111_02451_TODO_03,和梅·娜格對話
-28,TEXT_STMBDA111_02451_TODO_04,
-29,TEXT_STMBDA111_02451_TODO_05,
-30,TEXT_STMBDA111_02451_TODO_06,
-31,TEXT_STMBDA111_02451_TODO_07,
-32,TEXT_STMBDA111_02451_TODO_08,
-33,TEXT_STMBDA111_02451_TODO_09,
-34,TEXT_STMBDA111_02451_TODO_10,
-35,TEXT_STMBDA111_02451_TODO_11,
-36,TEXT_STMBDA111_02451_TODO_12,
-37,TEXT_STMBDA111_02451_TODO_13,
-38,TEXT_STMBDA111_02451_TODO_14,
-39,TEXT_STMBDA111_02451_TODO_15,
-40,TEXT_STMBDA111_02451_TODO_16,
-41,TEXT_STMBDA111_02451_TODO_17,
-42,TEXT_STMBDA111_02451_TODO_18,
-43,TEXT_STMBDA111_02451_TODO_19,
-44,TEXT_STMBDA111_02451_TODO_20,
-45,TEXT_STMBDA111_02451_TODO_21,
-46,TEXT_STMBDA111_02451_TODO_22,
-47,TEXT_STMBDA111_02451_TODO_23,
-48,TEXT_STMBDA111_02451_LYSE_000_001,（★未使用／削除予定★）
-49,TEXT_STMBDA111_02451_LYSE_000_005,（★未使用／削除予定★）
-50,TEXT_STMBDA111_02451_MEFFRID_000_010,（★未使用／削除予定★）
-51,TEXT_STMBDA111_02451_ALISAIE_000_015,（★未使用／削除予定★）
-52,TEXT_STMBDA111_02451_MNAAGO_000_020,感謝你們答應協助我們的任務。<hex:02100103>之前還煩勞拂曉的各位為我治療，<hex:02100103>感覺一直都在麻煩你們。
-53,TEXT_STMBDA111_02451_MNAAGO_000_021,而且，我前幾天不辭而別，真的是很抱歉。<hex:02100103>因為我想要盡快向同志們報告情況……
-54,TEXT_STMBDA111_02451_MNAAGO_000_022,謝謝。<hex:02100103>那麼，我這就說明一下任務的內容吧。
-55,TEXT_STMBDA111_02451_MNAAGO_000_023,康拉德隊長交給了我一封他的親筆信。<hex:02100103>裡面寫著針對提議的回覆，以及剛剛提到的條件。
-56,TEXT_STMBDA111_02451_MNAAGO_000_024,我希望你們能夠作為中間人，<hex:02100103>陪同我將這封信交給艾歐澤亞同盟軍。
-57,TEXT_STMBDA111_02451_ALISAIE_000_025,沒問題，我陪你去。
-58,TEXT_STMBDA111_02451_ALISAIE_000_026,率領艾歐澤亞同盟軍派遣部隊的是恆輝隊的勞班總帥……<hex:02100103>咱們三個去就行吧。
-59,TEXT_STMBDA111_02451_MNAAGO_000_027,謝謝！<hex:02100103>那等你們準備好了，<hex:02100103>就在神拳痕南側的出口附近集合吧。
-60,TEXT_STMBDA111_02451_ALISAIE_000_030,雖然可以按來時的路原路返回，<hex:02100103>不過還是交給梅·娜格來帶路吧，畢竟她比較熟悉環境。
-61,TEXT_STMBDA111_02451_MNAAGO_000_040,既然人都到齊了，那我們就從陸路前往帝國東方堡吧，<hex:02100103>路上要注意隨時警戒帝國軍。
-62,TEXT_STMBDA111_02451_ALISAIE_000_050,有什麼事嗎……怎麼突然停下來了？
-63,TEXT_STMBDA111_02451_MNAAGO_000_060,請等一下……<hex:02100103>我好像聽到了青磷引擎排氣的聲音，雖然很微弱。<hex:02100103>看來前方有帝國軍的巡邏部隊。
-64,TEXT_STMBDA111_02451_ALISAIE_000_061,你這是順風耳啊！<hex:02100103>我什麼都沒聽到呢。
-65,TEXT_STMBDA111_02451_MNAAGO_000_062,因為我從小就接受作為獵人的訓練……<hex:02100103>聽聲音，敵方部隊應該是大範圍分散，<hex:02100103>張開了一張巡邏網。
-66,TEXT_STMBDA111_02451_MNAAGO_000_063,總之，最重要的是不能暴露基地的位置。<hex:02100103>雖然有點危險，不過二位也都是高手，<hex:02100103>所以我建議大家分散開來。
-67,TEXT_STMBDA111_02451_ALISAIE_000_064,從三個方向分別攻擊，<hex:02100103>這樣的話就不會暴露我們來時的方向了對吧。<hex:02100103>明白了……就放心交給我們吧。
-68,TEXT_STMBDA111_02451_MNAAGO_000_065,那我從南側，阿莉塞就從北側攻擊……<hex:02100103><hex:022903EB0203>就繼續前進吧。<hex:02100103>消滅敵人之後，我們就在河的西岸匯合。
-69,TEXT_STMBDA111_02451_ALISAIE_000_070,我這邊也很順利。<hex:02100103>只有三個帝國兵而已，簡直輕而易舉。
-70,TEXT_STMBDA111_02451_MNAAGO_000_080,二位的身手真是高強。<hex:02100103>南側也有三個帝國兵分散巡邏，<hex:02100103>不過我在被他們發現之前就將他們打倒了。
-71,TEXT_STMBDA111_02451_MNAAGO_000_081,下層的帝國兵大部分是從其他行省強行征來的，<hex:02100103>因此士氣和戰鬥力都比較低。
-72,TEXT_STMBDA111_02451_MNAAGO_000_082,所以在這種遭遇戰中取勝並不難……<hex:02100103>但是當進行大規模作戰時，他們不僅部署嚴密，<hex:02100103>而且還持有魔導兵器，因此不是一般的強……
+0,"TEXT_STMBDA111_02451_SEQ_00","Before she tells you of her mission, M'naago has a few things she would like to say."
+1,"TEXT_STMBDA111_02451_SEQ_01","After thanking the Scions for nursing her back to health, M'naago explains that she has been tasked with delivering Commander Kemp's formal reply to General Aldynn. Given the importance of this mission, she requests that you escort her to Castrum Oriens, prompting Alisaie to volunteer as well."
+2,"TEXT_STMBDA111_02451_SEQ_02","Having put your affairs in order, you leave Rhalgr's Reach with M'naago and Alisaie. If the gods are good, your journey through the Fringes should be quick and uneventful..."
+3,"TEXT_STMBDA111_02451_SEQ_03","Gesturing for you and Alisaie to halt, M'naago informs you that she heard a ceruleum engine backfiring─a sure sign that an imperial patrol is close by. The three of you duly split up, hoping to take your enemies by surprise, and prevent them from summoning reinforcements."
+4,"TEXT_STMBDA111_02451_SEQ_04","You ambush and destroy the magitek armor M'naago overheard. Though you have no reason to believe that your comrades fared any differently, you cannot be certain until you rejoin them."
+5,"TEXT_STMBDA111_02451_SEQ_05","As expected, you find your comrades none the worse for wear. M'naago tells you that most soldiers in Gyr Abania are conscripts from other provinces. Poorly trained and lacking in morale, they rarely pose a threat in small numbers. Nevertheless, she cautions you against pitying them, as they are just as capable of killing your comrades as more motivated foes."
+6,"TEXT_STMBDA111_02451_SEQ_06",""
+7,"TEXT_STMBDA111_02451_SEQ_07",""
+8,"TEXT_STMBDA111_02451_SEQ_08",""
+9,"TEXT_STMBDA111_02451_SEQ_09",""
+10,"TEXT_STMBDA111_02451_SEQ_10",""
+11,"TEXT_STMBDA111_02451_SEQ_11",""
+12,"TEXT_STMBDA111_02451_SEQ_12",""
+13,"TEXT_STMBDA111_02451_SEQ_13",""
+14,"TEXT_STMBDA111_02451_SEQ_14",""
+15,"TEXT_STMBDA111_02451_SEQ_15",""
+16,"TEXT_STMBDA111_02451_SEQ_16",""
+17,"TEXT_STMBDA111_02451_SEQ_17",""
+18,"TEXT_STMBDA111_02451_SEQ_18",""
+19,"TEXT_STMBDA111_02451_SEQ_19",""
+20,"TEXT_STMBDA111_02451_SEQ_20",""
+21,"TEXT_STMBDA111_02451_SEQ_21",""
+22,"TEXT_STMBDA111_02451_SEQ_22",""
+23,"TEXT_STMBDA111_02451_SEQ_23",""
+24,"TEXT_STMBDA111_02451_TODO_00","Speak with M'naago."
+25,"TEXT_STMBDA111_02451_TODO_01","Speak with M'naago in the Fringes."
+26,"TEXT_STMBDA111_02451_TODO_02","Lie in wait for imperial soldiers."
+27,"TEXT_STMBDA111_02451_TODO_03","Speak with M'naago."
+28,"TEXT_STMBDA111_02451_TODO_04",""
+29,"TEXT_STMBDA111_02451_TODO_05",""
+30,"TEXT_STMBDA111_02451_TODO_06",""
+31,"TEXT_STMBDA111_02451_TODO_07",""
+32,"TEXT_STMBDA111_02451_TODO_08",""
+33,"TEXT_STMBDA111_02451_TODO_09",""
+34,"TEXT_STMBDA111_02451_TODO_10",""
+35,"TEXT_STMBDA111_02451_TODO_11",""
+36,"TEXT_STMBDA111_02451_TODO_12",""
+37,"TEXT_STMBDA111_02451_TODO_13",""
+38,"TEXT_STMBDA111_02451_TODO_14",""
+39,"TEXT_STMBDA111_02451_TODO_15",""
+40,"TEXT_STMBDA111_02451_TODO_16",""
+41,"TEXT_STMBDA111_02451_TODO_17",""
+42,"TEXT_STMBDA111_02451_TODO_18",""
+43,"TEXT_STMBDA111_02451_TODO_19",""
+44,"TEXT_STMBDA111_02451_TODO_20",""
+45,"TEXT_STMBDA111_02451_TODO_21",""
+46,"TEXT_STMBDA111_02451_TODO_22",""
+47,"TEXT_STMBDA111_02451_TODO_23",""
+48,"TEXT_STMBDA111_02451_LYSE_000_001",""
+49,"TEXT_STMBDA111_02451_LYSE_000_005",""
+50,"TEXT_STMBDA111_02451_MEFFRID_000_010",""
+51,"TEXT_STMBDA111_02451_ALISAIE_000_015",""
+52,"TEXT_STMBDA111_02451_MNAAGO_000_020","Before we begin, I'd like to thank you and the Scions again for patching me up after I bled all over your floor. I owe you my life, and I won't forget that."
+53,"TEXT_STMBDA111_02451_MNAAGO_000_021","Furthermore, it was rude of me to run off without saying a word. It's all well and good me claiming my duties here couldn't wait, but a parting thank-you was the very least you deserved. My apologies."
+54,"TEXT_STMBDA111_02451_MNAAGO_000_022","And...thank you. Now, to business."
+55,"TEXT_STMBDA111_02451_MNAAGO_000_023","Commander Kemp's entrusted me with a formal reply to be hand-delivered to the Alliance leadership. It covers everything we discussed, as well as detailing the disposition of our forces."
+56,"TEXT_STMBDA111_02451_MNAAGO_000_024","What I need is an escort─one or two men at most, so we can make it to the Wall swiftly and without attracting undue attention."
+57,"TEXT_STMBDA111_02451_ALISAIE_000_025","Very well. I shall join you in this."
+58,"TEXT_STMBDA111_02451_ALISAIE_000_026","General Aldynn commands the forces at Castrum Oriens. It should be simple enough to see it into his hands."
+59,"TEXT_STMBDA111_02451_MNAAGO_000_027","Great! That's just what I wanted to hear! When you're ready to depart, meet me at the pass leading out of the Reach."
+60,"TEXT_STMBDA111_02451_ALISAIE_000_030","Let us defer to M'naago with regards to the route. While we could just as easily head back the way we came, there could be any number of reasons why we should not."
+61,"TEXT_STMBDA111_02451_MNAAGO_000_040","Got everything you need? Good. Then let us be off."
+62,"TEXT_STMBDA111_02451_ALISAIE_000_050","Why have we stopped? Is aught amiss?"
+63,"TEXT_STMBDA111_02451_MNAAGO_000_060","Quiet! ...Hear that? That was a ceruleum engine backfiring. <hex:021A020203>Imperials<hex:021A020103>."
+64,"TEXT_STMBDA111_02451_ALISAIE_000_061","Ye gods, you have preternatural senses. I didn't hear a thing."
+65,"TEXT_STMBDA111_02451_MNAAGO_000_062","When you grow up hunting in these lands, you learn to discern the sounds that could mean life and death, be they of a predator or a patrol. From what I'm hearing...we have a seven-man patrol augmented with a single magitek armor. Wide search pattern. Divided into two─no, three teams. I don't think they know we're here..."
+66,"TEXT_STMBDA111_02451_MNAAGO_000_063","It's risky, but we should split up and try to take them all by surprise at the same time. We don't want them calling reinforcements."
+67,"TEXT_STMBDA111_02451_ALISAIE_000_064","Three teams, three of us. Nothing for it, then. Where are they?"
+68,"TEXT_STMBDA111_02451_MNAAGO_000_065","Head north. You should see them long before they see you. I'll deal with the ones to the south. The armor should be just to the west─<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>'s best equipped to deal with that. We attack in five─that should be enough time to get into position. Rendezvous on the east bank after. Any questions? No? Then good luck!"
+69,"TEXT_STMBDA111_02451_ALISAIE_000_070","I'm pleased to report that the Empire is short three soldiers─not that any self-respecting legatus would be sorry to lose them."
+70,"TEXT_STMBDA111_02451_MNAAGO_000_080","It looks like everything went to plan. Not that I'm surprised─the three soldiers I faced didn't put up much of a fight."
+71,"TEXT_STMBDA111_02451_MNAAGO_000_081","Most of the imperials we get out here are conscripts from other provinces with little training and even less conviction. It's grim work, killing men and women like that, but don't doubt that they'd do the same to you if the roles were reversed."
+72,"TEXT_STMBDA111_02451_MNAAGO_000_082","And don't you <hex:021A020203>dare<hex:021A020103> pity a man in armor. Conscript or no, a soldier piloting one of those can kill a dozen good men in the blink of an eye. Not that I need to tell you that, after what happened at the Wall..."

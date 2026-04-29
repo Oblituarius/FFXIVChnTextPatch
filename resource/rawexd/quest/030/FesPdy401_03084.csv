@@ -2,122 +2,122 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_FESPDY401_03084_SEQ_00,※本任務是特定期間內的任務。<hex:02100103><hex:02100103>烏爾達哈秘銀之眼的記者想要向冒險者打聽些事情。
-1,TEXT_FESPDY401_03084_SEQ_01,※本任務只有在季節活動開放期間才能接受和進行。<hex:02100103>　季節活動結束後無法進行，敬請注意。<hex:02100103>　詳情請參見官方網站。<hex:02100103><hex:02100103>和秘銀之眼的記者進行了交談。他向冒險者詢問了對這次女兒節期間小黃鶯所舉行的觀眾隨意參加型公演的意見。和烏爾達哈翠玉大街的管家之王談談，參加公演。
-2,TEXT_FESPDY401_03084_SEQ_02,和管家之王進行了交談。這次的公演為觀眾們準備了<hex:022811FF0A>EventItem<hex:F61E8E190103>和<hex:022811FF0A>EventItem<hex:F61E8E1C0103>。用<hex:022811FF0A>EventItem<hex:F61E8E180103>可以在裁衣匠公會的雷多倫特·羅斯處領取<hex:022811FF0A>EventItem<hex:F61E8E190103>，在煉金術士公會的迪特里希處領取<hex:022811FF0A>EventItem<hex:F61E8E1C0103>。
-3,TEXT_FESPDY401_03084_SEQ_03,獲得了<hex:022811FF0A>EventItem<hex:F61E8E190103>與<hex:022811FF0A>EventItem<hex:F61E8E1C0103>。將<hex:022811FF0A>EventItem<hex:F61E8E190103>與<hex:022811FF0A>EventItem<hex:F61E8E1C0103>交給烏爾達哈翠玉大街的管家之王。
-4,TEXT_FESPDY401_03084_SEQ_04,將<hex:022811FF0A>EventItem<hex:F61E8E190103>與<hex:022811FF0A>EventItem<hex:F61E8E1C0103>交給了管家之王。完成發生在烏爾達哈現世迴廊的危命任務「小黃鶯的露天公演」，讓公演的氣氛更加熱烈。<hex:02100103>※要想參加危命任務，需要與當地的管家之王的侍女對話並進入公演觀眾狀態。
-5,TEXT_FESPDY401_03084_SEQ_05,為炒熱公演做出了貢獻。和烏爾達哈翠玉大街的管家之王談談。
-6,TEXT_FESPDY401_03084_SEQ_06,和管家之王進行了交談。談話當中，小黃鶯也前來向冒險者表示了感謝。今後管家之王也會繼續陪同小黃鶯在各地進行演出活動。如果遇到她們的話，再像這次一樣進行熱情聲援吧。
-7,TEXT_FESPDY401_03084_SEQ_07,
-8,TEXT_FESPDY401_03084_SEQ_08,
-9,TEXT_FESPDY401_03084_SEQ_09,
-10,TEXT_FESPDY401_03084_SEQ_10,
-11,TEXT_FESPDY401_03084_SEQ_11,
-12,TEXT_FESPDY401_03084_SEQ_12,
-13,TEXT_FESPDY401_03084_SEQ_13,
-14,TEXT_FESPDY401_03084_SEQ_14,
-15,TEXT_FESPDY401_03084_SEQ_15,
-16,TEXT_FESPDY401_03084_SEQ_16,
-17,TEXT_FESPDY401_03084_SEQ_17,
-18,TEXT_FESPDY401_03084_SEQ_18,
-19,TEXT_FESPDY401_03084_SEQ_19,
-20,TEXT_FESPDY401_03084_SEQ_20,
-21,TEXT_FESPDY401_03084_SEQ_21,
-22,TEXT_FESPDY401_03084_SEQ_22,
-23,TEXT_FESPDY401_03084_SEQ_23,
-24,TEXT_FESPDY401_03084_TODO_00,和管家之王對話
-25,TEXT_FESPDY401_03084_TODO_01,將<hex:022811FF0A>EventItem<hex:F61E8E180103>交給裁衣匠公會的雷多倫特·羅斯<hex:02100103>獲取<hex:022811FF0A>EventItem<hex:F61E8E190103>
-26,TEXT_FESPDY401_03084_TODO_02,將<hex:022811FF0A>EventItem<hex:F61E8E180103>交給煉金術士公會的迪特里希<hex:02100103>獲取<hex:022811FF0A>EventItem<hex:F61E8E1C0103>
-27,TEXT_FESPDY401_03084_TODO_03,將<hex:022811FF0A>EventItem<hex:F61E8E190103>與<hex:022811FF0A>EventItem<hex:F61E8E1C0103>交給管家之王
-28,TEXT_FESPDY401_03084_TODO_04,完成翠玉大街的危命任務
-29,TEXT_FESPDY401_03084_TODO_05,和管家之王對話
-30,TEXT_FESPDY401_03084_TODO_06,
-31,TEXT_FESPDY401_03084_TODO_07,
-32,TEXT_FESPDY401_03084_TODO_08,
-33,TEXT_FESPDY401_03084_TODO_09,
-34,TEXT_FESPDY401_03084_TODO_10,
-35,TEXT_FESPDY401_03084_TODO_11,
-36,TEXT_FESPDY401_03084_TODO_12,
-37,TEXT_FESPDY401_03084_TODO_13,
-38,TEXT_FESPDY401_03084_TODO_14,
-39,TEXT_FESPDY401_03084_TODO_15,
-40,TEXT_FESPDY401_03084_TODO_16,
-41,TEXT_FESPDY401_03084_TODO_17,
-42,TEXT_FESPDY401_03084_TODO_18,
-43,TEXT_FESPDY401_03084_TODO_19,
-44,TEXT_FESPDY401_03084_TODO_20,
-45,TEXT_FESPDY401_03084_TODO_21,
-46,TEXT_FESPDY401_03084_TODO_22,
-47,TEXT_FESPDY401_03084_TODO_23,
-48,TEXT_FESPDY401_03084_REPORTER03084_000_000,那邊那位，方便的話能讓我問你幾個問題嗎？<hex:02100103>我是經濟雜誌«秘銀之眼»的記者，<hex:02100103>想要對你進行採訪……
-49,TEXT_FESPDY401_03084_REPORTER03084_000_001,請問你知道現在烏爾達哈正在舉辦<hex:02100103>祝福天下所有女孩子的節日「女兒節」嗎？
-50,TEXT_FESPDY401_03084_REPORTER03084_000_002,這次的女兒節，<hex:02100103>小黃鶯會在路邊舉行觀眾隨意參加型的露天公演，<hex:02100103>能告訴我你對這件事的看法嗎？！
-51,TEXT_FESPDY401_03084_Q1_000_000,如何作答？
-52,TEXT_FESPDY401_03084_A1_000_001,我也很想參加！
-53,TEXT_FESPDY401_03084_A1_000_002,不太明白你在說什麼……
-54,TEXT_FESPDY401_03084_REPORTER03084_000_003,哦哦，你也想參加啊！<hex:02100103>畢竟現在已經那麼火爆了，想要參加是當然的呢！
-55,TEXT_FESPDY401_03084_REPORTER03084_000_004,嗯嗯……這次公演的事前認知度好像很高啊，<hex:02100103>是否成功還要看公演後的觀眾滿意度。
-56,TEXT_FESPDY401_03084_REPORTER03084_000_005,哎呀……你不知道啊！<hex:02100103>烏拉拉、馬夏·瑪卡拉卡和鳴海這3位明星，<hex:02100103>正在現世迴廊舉行公演。
-57,TEXT_FESPDY401_03084_REPORTER03084_000_006,她們的公演氣氛相當熱烈，<hex:02100103>推薦你務必去看一次！
-58,TEXT_FESPDY401_03084_REPORTER03084_000_007,嗯嗯……這次公演的認知度一般般啊，<hex:02100103>是否成功還要看公演後的觀眾滿意度。
-59,TEXT_FESPDY401_03084_REPORTER03084_000_008,這次的公演不論性別均可參加，<hex:02100103>你有興趣的話，<hex:02100103>就去和翠玉大街的管家之王打聲招呼吧！
-60,TEXT_FESPDY401_03084_REPORTER03084_000_009,這次的公演不論性別均可參加，<hex:02100103>你有興趣的話，<hex:02100103>就去和翠玉大街的管家之王打聲招呼吧！
-61,TEXT_FESPDY401_03084_BUTLER_000_020,你是以前幫助過我們的冒險者？！<hex:02100103>真讓人懷念！你最近還好吧？
-62,TEXT_FESPDY401_03084_BUTLER_000_021,哎呀哎呀！<hex:02100103>你是冒險者？
-63,TEXT_FESPDY401_03084_BUTLER_000_022,現在正值女孩子們的節日「女兒節」，<hex:02100103>這次我們舉辦了觀眾們也能親身參與的公演，<hex:02100103>這可是這次節日活動的重頭戲，正在火熱舉辦中。
-64,TEXT_FESPDY401_03084_BUTLER_000_023,為了能讓小黃鶯的實力得到充分發揮，<hex:02100103>總之需要盡量多的觀眾來炒熱現場氣氛！
-65,TEXT_FESPDY401_03084_BUTLER_000_024,因此，這次我們將為參加公演並炒熱氣氛的觀眾們，<hex:02100103>不分性別與年齡，<hex:02100103>免費奉送特別製作的服裝與魔導光棒。
-66,TEXT_FESPDY401_03084_BUTLER_000_025,怎麼樣呢，方便的話，<hex:02100103>你也來一起參加，炒熱演出氣氛如何？
-67,TEXT_FESPDY401_03084_BUTLER_000_026,十分感謝！<hex:02100103>那麼我就把這個<hex:022811FF0A>EventItem<hex:F61E8E180103>給你，<hex:02100103>請用它來交換服裝與魔導光棒。
-68,TEXT_FESPDY401_03084_BUTLER_000_027,請去找裁衣匠公會的雷多倫特·羅斯領取服裝，<hex:02100103>找煉金術士公會的迪特里希領取魔導光棒，<hex:02100103>把這個<hex:022811FF0A>EventItem<hex:F61E8E180103>交給他們就能領取了。
-69,TEXT_FESPDY401_03084_BUTLER_000_028,你拿到之後，請再來找我一次。<hex:02100103>我的侍女會對你進行公演的詳細說明！
-70,TEXT_FESPDY401_03084_BUTLER_000_029,你拿到服裝與魔導光棒之後，請再來找我一次。<hex:02100103>我的侍女會對你進行公演的詳細說明！
-71,TEXT_FESPDY401_03084_REDOLENTROSE_000_040,哎呀，什麼？<hex:02100103>怎麼了？
-72,TEXT_FESPDY401_03084_REDOLENTROSE_000_041,你是小黃鶯公演的參加者啊！<hex:02100103>那麼，這個給你。
-73,TEXT_FESPDY401_03084_REDOLENTROSE_000_042,實際上，在很早以前，管家之王就來找我商量過……<hex:02100103>為此我準備了特別適合穿來聲援小黃鶯的服裝！
-74,TEXT_FESPDY401_03084_REDOLENTROSE_000_043,如果小黃鶯中有誰讓你比較中意的話，<hex:02100103>就穿上和她的印象色相同顏色的服裝來聲援她吧。
-75,TEXT_FESPDY401_03084_REDOLENTROSE_000_044,"你為她加油的心意一定能傳達到,<hex:02100103>穿著自己印象色服裝的人，身姿從舞台上也能看得一清二楚，<hex:02100103>她們看到後一定會更加振奮精神的！"
-76,TEXT_FESPDY401_03084_DEITRICH_000_045,……哎呀，你有什麼事嗎？
-77,TEXT_FESPDY401_03084_DEITRICH_000_046,你想要參加公演啊。<hex:02100103>你需要的東西我已經準備好了。<hex:02100103>請收好。
-78,TEXT_FESPDY401_03084_DEITRICH_000_047,這是我根據委託人管家之王的意思，<hex:02100103>所製作的可以發出小黃鶯成員各自印象色光芒的魔導光棒。
-79,TEXT_FESPDY401_03084_DEITRICH_000_048,這東西不論晝夜都很顯眼。<hex:02100103>使用它來為小黃鶯聲援的話，<hex:02100103>氣氛一定會十分熱烈吧。
-80,TEXT_FESPDY401_03084_REDOLENTROSE_000_049,如果小黃鶯中有誰讓你比較中意的話，<hex:02100103>就穿上和她的印象色相同顏色的服裝來聲援她吧。
-81,TEXT_FESPDY401_03084_DEITRICH_000_050,這東西不論晝夜都很顯眼。<hex:02100103>使用它來為小黃鶯聲援的話，<hex:02100103>氣氛一定會十分熱烈吧。
-82,TEXT_FESPDY401_03084_BUTLER_000_060,冒險者，我等你好久了。<hex:02100103>你順利拿到服裝和魔導光棒了嗎？
-83,TEXT_FESPDY401_03084_BUTLER_000_061,你都拿到就太好了！<hex:02100103>……對了，說不定你已經看到了，<hex:02100103>請看那邊的舞台。
-84,TEXT_FESPDY401_03084_BUTLER_000_062,觀眾逐漸聚攏過來了。<hex:02100103>不過，根據來我這裡報名參加的人數來看，<hex:02100103>接下來肯定還會更加熱鬧的。
-85,TEXT_FESPDY401_03084_BUTLER_000_063,請冒險者你也前去聲援她們吧！<hex:02100103>接下來就由這邊這位侍女來為你進行詳細說明。
-86,TEXT_FESPDY401_03084_HANDMAID03084_000_064,那麼，就由我來做詳細說明。<hex:02100103>小黃鶯的公演會每隔一段時間按時開演。
-87,TEXT_FESPDY401_03084_HANDMAID03084_000_065,在公演中和我打招呼的話，<hex:02100103>我會幫你做更換服裝之類參加公演的準備。<hex:02100103>到那時請告訴我你想要聲援小黃鶯中的哪一位。
-88,TEXT_FESPDY401_03084_HANDMAID03084_000_066,我會將你中意的歌姬所代表的印象色服裝交給你，<hex:02100103>如果你特別想要聲援某一位的話，<hex:02100103>就把她的名字告訴我吧。
-89,TEXT_FESPDY401_03084_HANDMAID03084_000_067,請在台下使用她們各自印象色的魔導光棒對她們進行聲援，<hex:02100103>這樣她們也會更加充滿幹勁吧。<hex:02100103>請你務必多多聲援她們！
-90,TEXT_FESPDY401_03084_SYSTEM_000_068,活動期間，在烏爾達哈現世迴廊<hex:02100103>將發生危命任務「小黃鶯的露天公演」。
-91,TEXT_FESPDY401_03084_SYSTEM_000_069,要想參加該危命任務，<hex:02100103>需要與翠玉大街的管家之王的侍女對話，<hex:02100103>並進入公演觀眾狀態。
-92,TEXT_FESPDY401_03084_SYSTEM_100_069,想要解除公演觀眾狀態時，<hex:02100103>可以通過使用專用技能「離場」來恢復原狀態。
-93,TEXT_FESPDY401_03084_SYSTEM_000_070,參加該危命任務時，請使用專用技能<hex:02100103>「聲援小藍」「聲援小黃」「聲援小紅」，<hex:02100103>來帶動演出氣氛吧！
-94,TEXT_FESPDY401_03084_BUTLER_100_070,為了小黃鶯她們能充分發揮出自己的實力，<hex:02100103>請你務必去對她們的演出進行聲援！
-95,TEXT_FESPDY401_03084_BUTLER_000_080,冒險者你很開心地對她們進行聲援的樣子，<hex:02100103>我在這邊也看到了！<hex:02100103>你覺得怎麼樣，她們的演出你還滿意嗎？
-96,TEXT_FESPDY401_03084_BUTLER_000_081,那就太好了！
-97,TEXT_FESPDY401_03084_BUTLER_000_082,我最初找到她們，讓她們作為小黃鶯開始活動的時候，<hex:02100103>還對市民們能否接受她們抱有不安。<hex:02100103>現在回想起來，感覺就像是很久以前的事了。
-98,TEXT_FESPDY401_03084_BUTLER_000_083,現在竟然有這麼多人愛著她們，<hex:02100103>熱情地為她們加油……真是讓我感慨萬千。
-99,TEXT_FESPDY401_03084_BUTLER_000_084,這些都是多虧了冒險者你的幫助……<hex:02100103>這次的公演，是至今已來氣氛最熱烈的一次！<hex:02100103>真是太感謝你了！
-100,TEXT_FESPDY401_03084_BUTLER_000_085,哎呀，時機剛好……<hex:02100103>大家快到這來！
-101,TEXT_FESPDY401_03084_BUTLER_000_086,我正在對獻上熱情聲援，<hex:02100103>帶動演出現場氣氛的冒險者道謝。<hex:02100103>你們也來打個招呼吧？
-102,TEXT_FESPDY401_03084_ULALA_000_087,初次見面！<hex:02100103>我是烏拉拉，正以艾歐澤亞第一明星為目標而努力！<hex:02100103>多謝你來熱情聲援我們的演出！
-103,TEXT_FESPDY401_03084_NARUMI_000_088,初次見面，我叫鳴海。<hex:02100103>我們的歌舞，你還滿意嗎？<hex:02100103>能讓你樂在其中的話就再好不過了。
-104,TEXT_FESPDY401_03084_MASHAMHAKARACCA_000_089,你好，我是馬夏。<hex:02100103>雖然可能有些笨拙，<hex:02100103>能為你送去活力的話就太好了。
-105,TEXT_FESPDY401_03084_BUTLER_000_090,以前幫助過我們的冒險者，<hex:02100103>這次又獻上了熱情的聲援，充分帶動了現場氣氛，<hex:02100103>我正在向<hex:02080DE905FF04>她<hex:FF04>他<hex:03>道謝。
-106,TEXT_FESPDY401_03084_BUTLER_000_091,<hex:02080DE905FF04>她<hex:FF04>他<hex:03>幫助了我們這麼多次，<hex:02100103>你們也來和<hex:02080DE905FF04>她<hex:FF04>他<hex:03>道謝吧？
-107,TEXT_FESPDY401_03084_ULALA_000_092,哎呀，是<hex:022903EB0203>！<hex:02100103>我就知道你肯定會來參加這次演出的！
-108,TEXT_FESPDY401_03084_ULALA_000_093,你最支持的當然是烏拉拉吧？<hex:02100103>……沒關係，你不用說我也是知道的！
-109,TEXT_FESPDY401_03084_NARUMI_000_094,<hex:022903EB0203>，好久不見！<hex:02100103>你的冒險怎麼樣了？
-110,TEXT_FESPDY401_03084_NARUMI_000_095,亮閃閃的魔導光棒，配上各自印象顏色的服裝。<hex:02100103>包括前來聲援我們的各位，<hex:02100103>正因為有著許許多多的人們的幫助，才會有今天的我們，我很感激！
-111,TEXT_FESPDY401_03084_MASHAMHAKARACCA_000_096,<hex:022903EB0203>，好久不見了。<hex:02100103>多謝你這次又來幫忙。
-112,TEXT_FESPDY401_03084_MASHAMHAKARACCA_000_097,和至今為止的公演不同，今天現場觀眾們的氣氛實在是太熱烈了，<hex:02100103>雖然讓我有些困惑，但是看到大家開心的樣子，<hex:02100103>我覺得這樣也好。
-113,TEXT_FESPDY401_03084_MASHAMHAKARACCA_000_098,這麼匆忙真是不好意思，<hex:02100103>我們還要去準備下一次的公演，就先走了。
-114,TEXT_FESPDY401_03084_ULALA_000_099,女兒節期間我們會一直舉行公演的，<hex:02100103>請你一定要繼續參加哦！
-115,TEXT_FESPDY401_03084_NARUMI_000_100,我們一定能再次見面……的吧？<hex:02100103>總覺得再也見不到你了……
-116,TEXT_FESPDY401_03084_NARUMI_000_101,我總是會像這樣陷入負面的思考中，真對不起……<hex:02100103>衷心期待在公演中再次見到你！
-117,TEXT_FESPDY401_03084_BUTLER_000_102,正好在她們三人休息的時間裡說上話真是太好了。<hex:02100103>能親自向冒險者你道謝，她們肯定也很高興。
-118,TEXT_FESPDY401_03084_BUTLER_000_103,小黃鶯的演出活動今後也會在各地繼續進行的。<hex:02100103>如果在哪裡再次遇到她們的話，<hex:02100103>請你繼續為她們加油！
+0,"TEXT_FESPDY401_03084_SEQ_00","This reporter from the <hex:021A020203>Mythril Eye<hex:021A020103> seems eager to ask you a question.<hex:02100103>※This quest is available for a limited time only."
+1,"TEXT_FESPDY401_03084_SEQ_01","A reporter from the <hex:021A020203>Mythril Eye<hex:021A020103> is stopping all passersby to take a survey about this year's Little Ladies' Day celebration, and that includes you. As he tells it, Ul'dah is abuzz with talk of the festivities planned, the main event being a special performance by the Songbirds. After taking note of your thoughts on the matter, he encourages you to speak with the royal seneschal over on Emerald Avenue to learn more.<hex:02100103><hex:02100103>※Please note that you will be unable to complete this quest after the seasonal event has ended. For details, please check the Lodestone."
+2,"TEXT_FESPDY401_03084_SEQ_02","The royal seneschal is heartened by your enthusiasm to take part in the performance. But you cannot join without first being properly dressed for the occasion. He explains to you that everyone who attends will require a special set of garments and illuminations, offering you a promissory note to redeem a set for yourself. The royal seneschal then sends you off to the Weavers' Guild and Alchemists' Guild, eagerly awaiting your return."
+3,"TEXT_FESPDY401_03084_SEQ_03","After a brief visit to the Weavers' and Alchemists' guilds, you are now the proud owner of three stylish Songbird ensembles and a set of illuminated rods. The royal seneschal will be glad to hear you procured them without incident."
+4,"TEXT_FESPDY401_03084_SEQ_04","With your costume and lights in hand, all you need do now is wait for the show to begin. Until then, the royal seneschal offers to hold onto your newly acquired raiments and instructs you to speak with the royal handmaiden to better prepare for the performance. <hex:02100103><hex:02100103>※To participate in the FATE, you must first speak with the royal handmaiden on Emerald Avenue and receive the “Face in the Crowd” status effect."
+5,"TEXT_FESPDY401_03084_SEQ_05","Ul'dah is alive with the sound of music, and you helped make it possible. Though the show is over, the energy in the air is palpable. A pity the royal seneschal's duties kept him away from the merrymaking. He would no doubt be glad to hear your impressions of the Songbirds's performance."
+6,"TEXT_FESPDY401_03084_SEQ_06","The royal seneschal is expressing his gratitude for your taking time to see the Songbirds when they happen to pass by. They each offer you a heartfelt thanks before making a quick exit to prepare for their next show. The support of the people of Ul'dah has helped the Songbirds reach new heights in their musical prowess, but the celebration is far from finished. The streets continue to echo with their sweet birdsong. Should you be interested in seeing them perform once more, you can be certain they will be looking for you in the crowd."
+7,"TEXT_FESPDY401_03084_SEQ_07",""
+8,"TEXT_FESPDY401_03084_SEQ_08",""
+9,"TEXT_FESPDY401_03084_SEQ_09",""
+10,"TEXT_FESPDY401_03084_SEQ_10",""
+11,"TEXT_FESPDY401_03084_SEQ_11",""
+12,"TEXT_FESPDY401_03084_SEQ_12",""
+13,"TEXT_FESPDY401_03084_SEQ_13",""
+14,"TEXT_FESPDY401_03084_SEQ_14",""
+15,"TEXT_FESPDY401_03084_SEQ_15",""
+16,"TEXT_FESPDY401_03084_SEQ_16",""
+17,"TEXT_FESPDY401_03084_SEQ_17",""
+18,"TEXT_FESPDY401_03084_SEQ_18",""
+19,"TEXT_FESPDY401_03084_SEQ_19",""
+20,"TEXT_FESPDY401_03084_SEQ_20",""
+21,"TEXT_FESPDY401_03084_SEQ_21",""
+22,"TEXT_FESPDY401_03084_SEQ_22",""
+23,"TEXT_FESPDY401_03084_SEQ_23",""
+24,"TEXT_FESPDY401_03084_TODO_00","Speak with the royal seneschal."
+25,"TEXT_FESPDY401_03084_TODO_01","Deliver the royal seneschal's prommisory note to Redolent Rose to receive Songbird ensembles."
+26,"TEXT_FESPDY401_03084_TODO_02","Deliver the royal seneschal's prommisory note to Deitrich to receive a pair of illuminated rods."
+27,"TEXT_FESPDY401_03084_TODO_03","Deliver the Songbird ensembles and illuminated rods to the royal seneschal."
+28,"TEXT_FESPDY401_03084_TODO_04","Complete the FATE “Color My World” on Emerald Avenue."
+29,"TEXT_FESPDY401_03084_TODO_05","Speak with the royal seneschal."
+30,"TEXT_FESPDY401_03084_TODO_06",""
+31,"TEXT_FESPDY401_03084_TODO_07",""
+32,"TEXT_FESPDY401_03084_TODO_08",""
+33,"TEXT_FESPDY401_03084_TODO_09",""
+34,"TEXT_FESPDY401_03084_TODO_10",""
+35,"TEXT_FESPDY401_03084_TODO_11",""
+36,"TEXT_FESPDY401_03084_TODO_12",""
+37,"TEXT_FESPDY401_03084_TODO_13",""
+38,"TEXT_FESPDY401_03084_TODO_14",""
+39,"TEXT_FESPDY401_03084_TODO_15",""
+40,"TEXT_FESPDY401_03084_TODO_16",""
+41,"TEXT_FESPDY401_03084_TODO_17",""
+42,"TEXT_FESPDY401_03084_TODO_18",""
+43,"TEXT_FESPDY401_03084_TODO_19",""
+44,"TEXT_FESPDY401_03084_TODO_20",""
+45,"TEXT_FESPDY401_03084_TODO_21",""
+46,"TEXT_FESPDY401_03084_TODO_22",""
+47,"TEXT_FESPDY401_03084_TODO_23",""
+48,"TEXT_FESPDY401_03084_REPORTER03084_000_000","Excuse me, <hex:02080EE905FF05>miss<hex:FF04>sir<hex:03>. Might I have a moment of your time? I'm conducting a survey for the <hex:021A020203>Mythril Eye<hex:021A020103>."
+49,"TEXT_FESPDY401_03084_REPORTER03084_000_001","Are you aware that Ul'dah is presently celebrating Little Ladies' Day?"
+50,"TEXT_FESPDY401_03084_REPORTER03084_000_002","This year we're celebrating with a rather unconventional performance by the Songbirds. I say unconventional because they plan to have those in attendance take part in the show. Would you care to share your thoughts on the matter?"
+51,"TEXT_FESPDY401_03084_Q1_000_000","What will you say?"
+52,"TEXT_FESPDY401_03084_A1_000_001","I was actually planning to attend."
+53,"TEXT_FESPDY401_03084_A1_000_002","The Songbirds...?"
+54,"TEXT_FESPDY401_03084_REPORTER03084_000_003","Ah, a fan are we? They're sure to be glad of another smiling face in the crowd."
+55,"TEXT_FESPDY401_03084_REPORTER03084_000_004","Public awareness appears to be fairly high. Survey of attendees needed after the performance."
+56,"TEXT_FESPDY401_03084_REPORTER03084_000_005","My word! You've not heard of Ulala, Narumi, and Masha Mhakaracca? They're set to perform at the Steps of Nald─all of Ul'dah has been abuzz with the news. Or so I thought."
+57,"TEXT_FESPDY401_03084_REPORTER03084_000_006","At any rate, I would strongly encourage you to attend. You won't regret it."
+58,"TEXT_FESPDY401_03084_REPORTER03084_000_007","Public awareness appears to be surprisingly low. Survey of attendees needed after the performance."
+59,"TEXT_FESPDY401_03084_REPORTER03084_000_008","Where was I? Ah yes. If you would partake of the revelry, you should first speak with the royal seneschal over on Emerald Avenue. He will be overseeing this year's festivities and can tell you all there is to know."
+60,"TEXT_FESPDY401_03084_REPORTER03084_000_009","The royal seneschal should be over on Emerald Avenue. Speak with him and you'll learn all there is to know of this year's Little Ladies' Day."
+61,"TEXT_FESPDY401_03084_BUTLER_000_020","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! My, what a pleasant surprise. It has been too long, my friend. Have you come to take part in the celebration?"
+62,"TEXT_FESPDY401_03084_BUTLER_000_021","What's this? An adventurer come to take part in the celebration?"
+63,"TEXT_FESPDY401_03084_BUTLER_000_022","The festivities are well underway, and the main event will be a performance by the Songbirds. But this will be no ordinary performance, mind you, for all in attendance will have the opportunity to participate."
+64,"TEXT_FESPDY401_03084_BUTLER_000_023","With that said, the Songbirds' success depends wholly on the number of people present. We have spared no expense to entice the good people of Ul'dah to come and enjoy themselves."
+65,"TEXT_FESPDY401_03084_BUTLER_000_024","In fact, we've prepared garments and illuminations for everyone who chooses to join in our merrymaking."
+66,"TEXT_FESPDY401_03084_BUTLER_000_025","Can we count on your attendance as well? It is to be a celebration none shall forget."
+67,"TEXT_FESPDY401_03084_BUTLER_000_026","Wonderful! To receive your attire and illuminations for the event you will need these promissory notes."
+68,"TEXT_FESPDY401_03084_BUTLER_000_027","Deliver them to Redolent Rose at the Weavers' Guild, and Deitrich at the Alchemists' Guild."
+69,"TEXT_FESPDY401_03084_BUTLER_000_028","When you have what you need for the festivities, pray speak with me again and I will explain what we have planned."
+70,"TEXT_FESPDY401_03084_BUTLER_000_029","There can be no celebrating without your garments and illuminations. Pray speak with me again after visiting the Weavers' and Alchemists' guilds."
+71,"TEXT_FESPDY401_03084_REDOLENTROSE_000_040","Yes? What can I do for you?"
+72,"TEXT_FESPDY401_03084_REDOLENTROSE_000_041","Ah! Another <hex:020825E905FF0C>lovely lady<hex:FF14>strapping gentleman<hex:03> in need of dress for the Songbirds' performance. Here you are."
+73,"TEXT_FESPDY401_03084_REDOLENTROSE_000_042","Marvelous, are they not? The perfect attire to pay homage to the talented troubadours headlining this year's celebration. I was beside myself with excitement when the royal seneschal first approached me with the idea."
+74,"TEXT_FESPDY401_03084_REDOLENTROSE_000_043","Of course, a single ensemble would fail to embody the grace and charm of the Songbirds, which is why I've prepared three! Each was designed using their signature colors. When the time comes, I trust you will choose the one best suited to support your favorite songstress."
+75,"TEXT_FESPDY401_03084_REDOLENTROSE_000_044","Seeing a crowd of adoring fans, awash in vibrant shades of red, yellow, and blue, I have no doubt they will be impassioned to put on a spectacular performance."
+76,"TEXT_FESPDY401_03084_DEITRICH_000_045","Welcome to the Alchemists' Guild. How may I help you?"
+77,"TEXT_FESPDY401_03084_DEITRICH_000_046","The Songbirds? Say no more."
+78,"TEXT_FESPDY401_03084_DEITRICH_000_047","A unique request, to say the least, but they were designed according to the royal seneschal's specifications down to the letter."
+79,"TEXT_FESPDY401_03084_DEITRICH_000_048","They can be adjusted to glow one of three colors─red, blue, or yellow─and will shine brightly even in the afternoon sun. You and all the others will make for quite the spectacle, waving them in the air to and fro. "
+80,"TEXT_FESPDY401_03084_REDOLENTROSE_000_049","I have every confidence you will look smashing in the garments I prepared for you. When the time comes, I trust you will choose the one best suited to support your favorite songstress."
+81,"TEXT_FESPDY401_03084_DEITRICH_000_050","Day or night, those lights will be a shining beacon among the crowd of fans attending the Songbirds' performance."
+82,"TEXT_FESPDY401_03084_BUTLER_000_060","Ah, you are returned. I presume you have everything you need for the performance?"
+83,"TEXT_FESPDY401_03084_BUTLER_000_061","Splendid, splendid. Now you need only wait for the Songbirds to take the stage. Speaking of which, it seems their more ardent fans are already front and center."
+84,"TEXT_FESPDY401_03084_BUTLER_000_062","There are only a few now, perhaps, but judging by the throngs of people who requested promissory notes earlier, this is the start of something truly grand."
+85,"TEXT_FESPDY401_03084_BUTLER_000_063","And all the more grand for your presence. As for the specifics of the performance, I shall leave that explanation to my lovely assistant here."
+86,"TEXT_FESPDY401_03084_HANDMAID03084_000_064","The Songbirds will be performing several times throughout the day adhering to a strict schedule, so be certain not to be late."
+87,"TEXT_FESPDY401_03084_HANDMAID03084_000_065","We will hold onto your celebratory garments and illuminations for the interim. When you have need of them, come and speak with me. I will be more than happy to retrieve them for you."
+88,"TEXT_FESPDY401_03084_HANDMAID03084_000_066","As you have three sets of garments to choose from, however, I will need to know which you wish to wear to the performance."
+89,"TEXT_FESPDY401_03084_HANDMAID03084_000_067","Also, be certain to keep your illuminations at the ready. The girls are always overjoyed to see fans cheer for them using their signature colors. But above all else, remember to enjoy yourself. Today's performance will mean naught without the participation of you and all the others who attend."
+90,"TEXT_FESPDY401_03084_SYSTEM_000_068","During this event, the FATE “Color My World” will appear on Emerald Avenue at the Steps of Nald."
+91,"TEXT_FESPDY401_03084_SYSTEM_000_069","In order to participate in the FATE, you must first speak with the royal handmaiden on Emerald Avenue and prepare yourself to join the Songbirds' crowd of fans."
+92,"TEXT_FESPDY401_03084_SYSTEM_100_069","The status effect granted to you by the royal handmaiden can be removed at any time by leaving the area, or using the special action Curtain Call."
+93,"TEXT_FESPDY401_03084_SYSTEM_000_070","Upon joining the FATE, you will be given three special actions: Cheer On, Cheer Wave, and Cheer Jump. Each action uses a different colored set of illuminated rods to cheer for the Songbirds. Bear in mind each Songbird is especially receptive to fans who cheer using their signature color."
+94,"TEXT_FESPDY401_03084_BUTLER_100_070","Remember: your participation will be key to the Songbirds' success. The enthusiasm and adoration of their fans is certain to help them realize their true potential, making today's celebration all the more entertaining."
+95,"TEXT_FESPDY401_03084_BUTLER_000_080","Welcome back. Though I could watch only from a distance, you and the others seemed to be having a wondrous time. So, how was the performance? Was it all you hoped it would be?"
+96,"TEXT_FESPDY401_03084_BUTLER_000_081","Glad to hear it."
+97,"TEXT_FESPDY401_03084_BUTLER_000_082","It feels like a lifetime ago when the girls first came together to perform. They say the road to celebrity is often paved with uncertainty, and goodness knows the Songbirds have had their fair share."
+98,"TEXT_FESPDY401_03084_BUTLER_000_083","Oh, but how they've grown. Both as performers and respectable little ladies. It truly warms my heart to see them so well loved by the public."
+99,"TEXT_FESPDY401_03084_BUTLER_000_084","To have come this far was only possible thanks to the support of people like you. Thank you again for gracing us with your presence today."
+100,"TEXT_FESPDY401_03084_BUTLER_000_085","Ah, girls! Your timing could not be more fortuitous. Come, come."
+101,"TEXT_FESPDY401_03084_BUTLER_000_086","I was just thanking this adventurer for coming to show <hex:02080DE905FF04>her<hex:FF04>his<hex:03> support. Seeing as you're all here, why not introduce yourselves?"
+102,"TEXT_FESPDY401_03084_ULALA_000_087","Good to meet you. I'm Ulala─soon to be Eorzea's premier songstress. Thank you so much for coming to our show today."
+103,"TEXT_FESPDY401_03084_NARUMI_000_088","<hex:020853E3E90C0DFF25><hex:020821E3E90C05FF0D>Good evening<hex:FF0D>Good morning<hex:03><hex:FF27><hex:020823E3E90C12FF0F>Good afternoon<hex:FF0D>Good evening<hex:03><hex:03>, <hex:020813E905FF07>milady<hex:FF07>milord<hex:03>. I'm Narumi. I hope our performance was to your liking."
+104,"TEXT_FESPDY401_03084_MASHAMHAKARACCA_000_089","I'm Masha Mhakaracca, but you can call me Masha. I think I may have missed a step or two during the show, but that can be our little secret. "
+105,"TEXT_FESPDY401_03084_BUTLER_000_090","You remember <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, yes? I was just thanking <hex:02080DE905FF04>her<hex:FF04>him<hex:03> for coming to show <hex:02080DE905FF04>her<hex:FF04>his<hex:03> support."
+106,"TEXT_FESPDY401_03084_BUTLER_000_091","I'm sure you three have words of gratitude to share as well."
+107,"TEXT_FESPDY401_03084_ULALA_000_092","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! I knew you would come and see us perform."
+108,"TEXT_FESPDY401_03084_ULALA_000_093","But you and I both know which Songbird you were <hex:021A020203>really<hex:021A020103> cheering for. The smile on your face says it all."
+109,"TEXT_FESPDY401_03084_NARUMI_000_094","Good to see you again, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. I hope today proved an enjoyable respite from your adventures."
+110,"TEXT_FESPDY401_03084_NARUMI_000_095","Looking out into the crowd, seeing all the dazzling lights and people dressed in matching outfits, it felt as though they were putting on a show for us. It was so exciting!"
+111,"TEXT_FESPDY401_03084_MASHAMHAKARACCA_000_096","Glad to see you found time between your adventures to pay us a visit."
+112,"TEXT_FESPDY401_03084_MASHAMHAKARACCA_000_097","The show this year was really something, wasn't it? To be honest, I wasn't sure it would go over well with our fans at first, but I've never been happier to be proven wrong."
+113,"TEXT_FESPDY401_03084_MASHAMHAKARACCA_000_098","I'd love to stay and talk a while longer, but we really must be going. It's nearly time for the next show."
+114,"TEXT_FESPDY401_03084_ULALA_000_099","We'll be performing every day until the festival ends, so don't be a stranger. I'll be looking for you in the audience."
+115,"TEXT_FESPDY401_03084_NARUMI_000_100","You will come to see us again, won't you? I don't know, but... I can't help but feel this may be our last meeting."
+116,"TEXT_FESPDY401_03084_NARUMI_000_101","...I'm sorry. Pay me no mind. Of course you'll come to see us. Perhaps not on the morrow, but hopefully someday soon. Until then, I wish you all the best."
+117,"TEXT_FESPDY401_03084_BUTLER_000_102","Ever the busy birds, those three. Nothing brings them greater joy than thanking each and every one of their fans personally, which is why I'm positive they were thrilled to find time to speak with an adventurer such as yourself."
+118,"TEXT_FESPDY401_03084_BUTLER_000_103","In light of their success here in Ul'dah, I daresay they will soon be ready to spread their wings and share their music with all of Eorzea. I pray they can count on your support as they work to fill the realm with sweet birdsong."

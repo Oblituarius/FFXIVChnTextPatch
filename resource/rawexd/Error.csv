@@ -2,124 +2,125 @@
 #,
 offset,0
 int32,str
-0,
-10000,
-10001,
-10002,
-10003,
-10004,
-10005,
-10006,
-11000,
-11001,
-11002,
-11003,
-11004,
-11005,
-11006,
-11007,
-11008,
-11009,
-11010,
-11011,
-11012,
-11013,
-11014,
-11015,
-11016,
-11017,
-11018,
-11019,
-11020,
-11021,
-11022,
-11023,
-11024,
-11025,
-11026,
-11027,
-11028,
-11029,
-11030,
-11031,
-11032,
-11033,
-11034,
-11035,
-11036,
-11037,
-11038,
-11039,
-12000,
-12001,
-12002,請至實名認證補全頁面補填資訊，並再次登入。
-13000,
-13001,連接大廳伺服器發生了錯誤。
-13002,伺服器繁忙。請稍後再登入。
-13003,正在退出角色，請稍候再登入。
-13004,無法使用指定的角色名。請嘗試使用其他名字。
-13005,
-13006,大廳伺服器發生了錯誤。
-13007,
-13008,
-13009,
-13010,
-13011,
-13100,帳號認證發生了錯誤。<hex:02100103>《最終幻想14》即將關閉。
-13101,版本過舊需要更新補丁。請重新啟動《最終幻想14》。
-13102,當前的遊戲環境不能使用該帳號。在網吧以外的地點進行遊戲，需要專門的契約。請回到登入畫面，在史克威爾·艾尼克斯賬號管理系統進行相關操作。
-13103,當前的遊戲環境不能使用該帳號。在多個平台進行遊戲，需要在各個平台簽約專門的契約。請回到登入畫面，在史克威爾·艾尼克斯賬號管理系統進行各種操作。
-13104,無法開始遊戲，剩餘遊戲時間不足。
-13200,伺服器正在維護，請稍後再登入。
-13201,無法獲取伺服器資訊，請稍後再登入。
-13202,當前伺服器目前無法建立新角色。
-13203,當前帳號所簽訂的契約無法建立更多角色。
-13204,當前帳號所簽訂的契約無法在該伺服器建立更多角色。
-13205,當前伺服器現在由於人數到達上限已限制登入。請稍後再試。
-13206,當前伺服器繁忙，需要排隊進行登入，請耐心等待。<hex:02100103>（當前排隊人數：<hex:022206E802FF022C03>人）
-13207,該賬號正在遊戲中，請稍後再試。<hex:02100103>如有不明之處，請聯繫客服。
-13208,臨時輸入的角色姓名已經過期，請重新輸入角色的姓名。
-13209,您已沒有遊戲時間，請前往官方網站充值。<hex:02100103>官網地址：<hex:02100103>https://sqex.to/Msp
-13210,當前帳號沒有處於簽約狀態，無法進行《最終幻想14 重生之境》遊戲。<hex:02100103>想要體驗PlayStation®3版《最終幻想14 重生之境》的朋友請到PlayStation™Store裡購入數字版遊戲或輸入啟動碼。<hex:02100103>※擁有預約特典「早期登入」的玩家也需要在2013年8月30日之後辦理相應手續。<hex:02100103><hex:02100103>想要辦理契約手續的朋友請先退出遊戲，之後在XMB™介面下打開網頁瀏覽器，並進入《最終幻想14莫古工作站》辦理相關手續。<hex:02100103>莫古工作站地址：<hex:02100103>http://sqex.to/Msp
-13211,當前正在轉移角色資訊，一段時間內無法登入。<hex:02100103>※轉移可能需要幾分鐘到幾小時的時間，請耐心等待。
-13212,已經到達一天內所能建立的角色數量上限。
-13213,此賬號沒有在當前平台的遊戲許可權，或已沒有遊戲時間。<hex:02100103>請先退出遊戲購買許可權或充值。<hex:02100103><hex:02100103>想獲取PlayStation®5|PlayStation®4版遊戲許可權，請前往PlayStation™Store購買遊戲本體。<hex:02100103>想購買遊戲時間可前往官方網站：<hex:02100103>https://sqex.to/Msp
-13214,上次該角色退出時系統出現異常，或正在通過其他客戶端登入，已強制令該角色下線。<hex:02100103>稍等片刻即可進行重新登入。
-13215,角色刪除失敗，請返回原始伺服器再試。
-13216,當前伺服器現在已限制登入。免費試玩的玩家需要等到完全無需排隊後才可登入。請稍後再試。
-13217,「移動到空閒伺服器」處理超時。<hex:02100103>返回標題畫面。
-13218,上一次「移動到空閒伺服器」仍在處理中。請稍後再試。<hex:02100103><hex:024804F201FA03><hex:024904F201FB03>※如果一直無法脫離此狀態，請聯繫服務台或客服。<hex:0249020103><hex:0248020103>
-13219,組隊情況下無法「移動到空閒伺服器」。
-13220,「移動到空閒伺服器」功能臨時維護中。
-13221,「前往其他資料中心遊玩」處理超時。
-13222,上一次「超域傳送」仍在處理中。請稍後再試。<hex:02100103><hex:024804F201FA03><hex:024904F201FB03>※如果一直無法脫離此狀態，請聯繫服務台或客服。<hex:0249020103><hex:0248020103>
-13223,組隊情況下無法「前往其他資料中心遊玩」。
-13224,「前往其他資料中心遊玩」功能臨時維護中。
-13225,「返回原始伺服器」處理超時。<hex:02100103>返回標題畫面。
-13226,「返回原始伺服器」功能臨時維護中。
-13227,「返回原始伺服器」處理超時。
-13228,組隊情況下無法「返回原始伺服器」。
-13229,「返回原始伺服器」功能臨時維護中。
-13230,發生錯誤，伺服器無響應。即將結束遊戲。
-13231,超域傳送處理失敗。即將結束遊戲。
-13232,
-13233,在目標大區建立的角色數量已達到上限，無法使用超域傳送前往目標大區。
-13234,此賬號沒有在當前平台的遊戲許可權，或已沒有遊戲時間。<hex:02100103>請先退出遊戲購買許可權或充值。<hex:02100103><hex:02100103>想獲取xbox版遊戲許可權，請前往Microsoft Store購買遊戲本體。<hex:02100103>想購買遊戲時間可前往官方網站：<hex:02100103>https://sqex.to/mog-xbox
-13235,伺服器繁忙，非原始伺服器角色無法登入。
-13236,超域傳送出現異常。<hex:02100103>如果在目標資料中心看不到您傳送的角色，請稍後再次嘗試。
-13300,發生錯誤，備份中斷。
-13301,發生錯誤，備份中斷。
-13302,備份功能暫時停止服務中，連接備份伺服器失敗。
-13303,免費體驗賬號無法使用備份功能。
-13304,下載失敗，之前上傳的數據出現錯誤。
-13305,伺服器繁忙，暫時無法使用備份功能。
-13306,連接備份伺服器失敗，請稍後再試。
-13307,上傳過於頻繁，經過一定時間後才能再次上傳。
-14000,發生了系統錯誤。
-14001,發生了系統錯誤。
-15000,發生了系統錯誤。
-15001,發生了系統錯誤。
-15002,發生了系統錯誤。
-16000,失去了與伺服器的連接。
-16001,沒有找到系統存檔，無法繼續遊戲。請按下PS鍵結束遊戲。
-16002,
+0,""
+10000,""
+10001,""
+10002,""
+10003,""
+10004,""
+10005,""
+10006,""
+11000,""
+11001,""
+11002,""
+11003,""
+11004,""
+11005,""
+11006,""
+11007,""
+11008,""
+11009,""
+11010,""
+11011,""
+11012,""
+11013,""
+11014,""
+11015,""
+11016,""
+11017,""
+11018,""
+11019,""
+11020,""
+11021,""
+11022,""
+11023,""
+11024,""
+11025,""
+11026,""
+11027,""
+11028,""
+11029,""
+11030,""
+11031,""
+11032,""
+11033,""
+11034,""
+11035,""
+11036,""
+11037,""
+11038,""
+11039,""
+12000,""
+12001,""
+12002,"****"
+13000,""
+13001,"The lobby server connection has encountered an error."
+13002,"The server is experiencing unusually heavy traffic.<hex:02100103>Please try again later."
+13003,"Logging out character from a previous play session.<hex:02100103>Please wait and try logging in later."
+13004,"That character name cannot be used.<hex:02100103>Please input another."
+13005,""
+13006,"The lobby server has encountered a problem."
+13007,""
+13008,""
+13009,""
+13010,""
+13011,""
+13100,"An authentication error has occurred.<hex:02100103>Exiting FINAL FANTASY XIV."
+13101,"A version update is required.<hex:02100103>Select OK and launch the game again."
+13102,"This service account cannot be used in the current environment. Use of this account from anywhere other than an internet café requires a specific player agreement. Visit the FINAL FANTASY XIV: Mog Station (https://sqex.to/Msp) for more information."
+13103,"This service account cannot be used in the current environment. Use of an account from multiple platforms requires proper registration for each platform. Visit the FINAL FANTASY XIV: Mog Station (https://sqex.to/Msp) for more information."
+13104,"プレイ可能な残り時間がないため、ゲームを開始できません。"
+13200,"All Worlds are currently undergoing maintenance.<hex:02100103>Please try logging in later."
+13201,"World data could not be obtained.<hex:02100103>Please try logging in later."
+13202,"New characters cannot be made on this World at this time."
+13203,"Your current service account does not allow for the creation of any more characters."
+13204,"Your current service account does not allow for the creation of any more characters on this World."
+13205,"This World is currently full. Please wait until an opening is available and try again."
+13206,"The server is currently congested.<hex:02100103>Players in queue: <hex:022206E802FF022C03>."
+13207,"You are still logged into the game. Please allow a few moments for the logout process to complete. If you continue experiencing problems, please contact customer support."
+13208,"Your character name was not registered in a timely fashion. Please try again."
+13209,"FINAL FANTASY XIV has not yet been registered on this platform or your service account's subscription has expired. Please close the application and complete the registration process. If you would like to add a platform to your service account or renew your subscription, please visit the Mog Station (https://sqex.to/Msp). To register another platform, you must purchase a license for the applicable platform or complete the registration process using the registration code included with your purchase."
+13210,"FINAL FANTASY XIV has not yet been registered with this service account. To play the game, you must first complete the registration process using the registration code included with your package or purchase from PlayStation™Store. To register, exit the game and use the XMB™ internet browser to access the FINAL FANTASY XIV: Mog Station (https://sqex.to/Msp)."
+13211,"Your character data is currently being transferred. This may take several minutes, or in some cases, more than an hour. Please wait and try logging in again later."
+13212,"You have reached the character creation limit for one day."
+13213,"FINAL FANTASY XIV has not yet been registered on this platform or your service account's subscription has expired. Please close the application and complete the registration process. If you would like to add a PlayStation®5 or PlayStation®4 license to your service account, please visit the PlayStation™Store. To renew your subscription, please visit the FINAL FANTASY XIV: Mog Station (https://sqex.to/Msp)."
+13214,"The character selected was not properly logged out or is currently logged in on another client. Logging character out. Please wait to log in again."
+13215,"Unable to delete character. Return to a Standard World and try again."
+13216,"This World is currently full. Please wait until an opening is available and try again. If you are on the free trial, you cannot log in while there is a queue."
+13217,"World transfer attempt timed out. Returning to title screen."
+13218,"Previous World transfer is still in progress. Please wait before submitting another request.<hex:02100103><hex:024804F201FA03><hex:024904F201FB03>※ Please contact support if this issue is not resolved after waiting for an extended period of time.<hex:0249020103><hex:0248020103>"
+13219,"Unable to visit other Worlds while in a party."
+13220,"The World Visit System is temporarily unavailable."
+13221,"Data Center Visit attempt timed out."
+13222,"Previously requested data center travel is still in progress. Please wait before submitting another request.<hex:02100103><hex:024804F201FA03><hex:024904F201FB03>※Please contact support if this issue is not resolved after waiting for an extended period of time.<hex:0249020103><hex:0248020103>"
+13223,"Unable to visit other data centers while in a party."
+13224,"Data Center Visit system is temporarily unavailable."
+13225,"Return to Home World attempt timed out. Returning to title screen."
+13226,"The Return to Home World option is temporarily unavailable."
+13227,"Return to Home World attempt timed out."
+13228,"Unable to return to Home World while in a party."
+13229,"Return to Home World system is temporarily unavailable."
+13230,"An error occurred while contacting the server. Exiting game."
+13231,"Unable to process Data Center Travel request. Exiting game."
+13232,""
+13233,"Unable to process Data Center Travel request. You have already reached the maximum number of characters allowed for this service account in the selected region."
+13234,"FINAL FANTASY XIV has not yet been registered on this platform or your service account's subscription has expired. Please close the application and complete the registration process. If you would like to add an Xbox license to your service account, please visit the Microsoft Store. To renew your subscription, please visit the FINAL FANTASY XIV: Mog Station (https://sqex.to/mog-xbox)."
+13235,"This World is experiencing congestion. Visiting characters cannot log in at this time."
+13236,"Unable to successfully complete Data Center Travel request. If your character is not listed in the target Data Center, please wait a few moments before trying again."
+13237,"FINAL FANTASY XIV has not yet been registered on this platform or your service account's subscription has expired. Please close the application and complete the registration process. If you would like to add <hex:02080CE4E96B64FF03>an<hex:FF02>a<hex:03> <hex:024204F201CD03> license to your service account, please visit the <hex:024204F201A503>. To renew your subscription, please visit the FINAL FANTASY XIV: Mog Station (https://sqex.to/mog-xbox)."
+13300,"An error has occurred. Canceling backup."
+13301,"An error has occurred. Canceling backup."
+13302,"Unable to connect to servers. Backup functionality is offline."
+13303,"Data backup is not available during the free trial."
+13304,"Unable to download backup. Data may be missing or corrupted."
+13305,"Servers are experiencing congestion. Backup functionality is offline."
+13306,"Unable to connect to servers. Please try again later."
+13307,"Unable to upload data this soon after previous upload."
+14000,"A system error has occurred."
+14001,"A system error has occurred."
+15000,"A system error has occurred."
+15001,"A system error has occurred."
+15002,"A system error has occurred."
+16000,"Connection with the server was lost."
+16001,"System data not found. Returning to launcher.<hex:02100103>Press the PS button to quit the game."
+16002,""

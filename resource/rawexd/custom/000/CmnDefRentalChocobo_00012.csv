@@ -2,23 +2,23 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_CMNDEFRENTALCHOCOBO_00012_Q1_000_1,要做什麼？
-1,TEXT_CMNDEFRENTALCHOCOBO_00012_A1_000_1,租借陸行鳥（80金幣／10分）
-2,TEXT_CMNDEFRENTALCHOCOBO_00012_A1_000_2,聽取租借陸行鳥的說明
-3,TEXT_CMNDEFRENTALCHOCOBO_00012_A1_000_3,取消
-4,TEXT_CMNDEFRENTALCHOCOBO_00012_RENTALCHOCOBO_000_1,對不起。<hex:02100103>我們這裡有規定，不得向新手冒險者租借陸行鳥。<hex:02100103>如果不熟悉旅行的客人摔下來受傷，就不好辦了。
-5,TEXT_CMNDEFRENTALCHOCOBO_00012_SYSTEM_000_2,等級達到「10級」後才可以租借陸行鳥。
-6,TEXT_CMNDEFRENTALCHOCOBO_00012_RENTALCHOCOBO_000_10,您身上帶的錢不夠，<hex:02100103>請您確認一下身上持有的金幣，再來一次吧。
-7,TEXT_CMNDEFRENTALCHOCOBO_00012_Q2_000_1,費用是（80金幣／10分）。
-8,TEXT_CMNDEFRENTALCHOCOBO_00012_A2_000_1,租借陸行鳥
-9,TEXT_CMNDEFRENTALCHOCOBO_00012_A2_000_2,不租了
-10,TEXT_CMNDEFRENTALCHOCOBO_00012_RENTALCHOCOBO_000_20,歡迎再次光臨。
-11,TEXT_CMNDEFRENTALCHOCOBO_00012_RENTALCHOCOBO_000_21,請注意，如果您中途下了陸行鳥前往其他地方，<hex:02100103>則不管還剩多少時間，陸行鳥都會回去。<hex:02100103>那就祝您一路順風。
-12,TEXT_CMNDEFRENTALCHOCOBO_00012_SYSTEM_000_22,（未使用／預計刪除）
-13,TEXT_CMNDEFRENTALCHOCOBO_00012_RENTALCHOCOBO_000_30,這裡可以按時間租借陸行鳥。<hex:02100103>騎乘陸行鳥可以快速進行長途旅行。
-14,TEXT_CMNDEFRENTALCHOCOBO_00012_RENTALCHOCOBO_000_31,不過要注意以下3點。
-15,TEXT_CMNDEFRENTALCHOCOBO_00012_RENTALCHOCOBO_000_32,第一，<hex:02100103>不要鬆開陸行鳥的韁繩。<hex:02100103>中途下了陸行鳥，該次租借就會結束。
-16,TEXT_CMNDEFRENTALCHOCOBO_00012_RENTALCHOCOBO_000_33,第二，<hex:02100103>請留意租借時間。<hex:02100103>一旦租借時間結束，陸行鳥就會自己回到鳥欄。
-17,TEXT_CMNDEFRENTALCHOCOBO_00012_RENTALCHOCOBO_000_34,第三，<hex:02100103>要注意強力的魔物。<hex:02100103>受到太多的攻擊，陸行鳥就會害怕而逃跑。
-18,TEXT_CMNDEFRENTALCHOCOBO_00012_RENTALCHOCOBO_000_35,說明就這麼多了。<hex:02100103>歡迎多加使用我們這裡的陸行鳥。
-19,TEXT_CMNDEFRENTALCHOCOBO_00012_RENTALCHOCOBO_000_40,您好。<hex:02100103>歡迎使用我們的租借陸行鳥服務。<hex:02100103>它將陪伴您孤獨的旅行，助您的城邦間行商一臂之力。
+0,"TEXT_CMNDEFRENTALCHOCOBO_00012_Q1_000_1","What would you like to do?"
+1,"TEXT_CMNDEFRENTALCHOCOBO_00012_A1_000_1","Rent a chocobo. (80 gil/10 minutes)"
+2,"TEXT_CMNDEFRENTALCHOCOBO_00012_A1_000_2","Learn more about chocobo rental."
+3,"TEXT_CMNDEFRENTALCHOCOBO_00012_A1_000_3","Nothing."
+4,"TEXT_CMNDEFRENTALCHOCOBO_00012_RENTALCHOCOBO_000_1","You must forgive me, but I am afraid my superiors would deem it inappropriate if I granted someone so obviously and painfully new to adventuring leave to take the stable's birds out beyond the city walls without proper supervision."
+5,"TEXT_CMNDEFRENTALCHOCOBO_00012_SYSTEM_000_2","Chocobos are available for rental upon attaining level 10 in any class."
+6,"TEXT_CMNDEFRENTALCHOCOBO_00012_RENTALCHOCOBO_000_10","While it pains me to do so, I must deny your petition to rent a chocobo on account of your present lack of funds. Might I suggest taking up a levequest from the Adventurers' Guild? You are less than a single task away from experiencing the joys of riding chocoback."
+7,"TEXT_CMNDEFRENTALCHOCOBO_00012_Q2_000_1","The standard chocobo rental fee is 80 gil for 10 minutes. Complete the transaction?"
+8,"TEXT_CMNDEFRENTALCHOCOBO_00012_A2_000_1","Yes."
+9,"TEXT_CMNDEFRENTALCHOCOBO_00012_A2_000_2","No."
+10,"TEXT_CMNDEFRENTALCHOCOBO_00012_RENTALCHOCOBO_000_20","Feel free to return if you ever require a steed!"
+11,"TEXT_CMNDEFRENTALCHOCOBO_00012_RENTALCHOCOBO_000_21","Very good! Remember, my birds are trained to return directly to the stables once the rental period has expired, or upon the moment you dismount. Take care not to find yourself stranded in a dangerous locale. Good day!"
+12,"TEXT_CMNDEFRENTALCHOCOBO_00012_SYSTEM_000_22",""
+13,"TEXT_CMNDEFRENTALCHOCOBO_00012_RENTALCHOCOBO_000_30","Known for their near-endless stamina, breathtaking speed, and remarkably mild dispositions, chocobos are used throughout the realm for safe and efficient transportation. These stables house hundreds of specially bred and trained birds which we lend out to adventurers─for a nominal fee, of course."
+14,"TEXT_CMNDEFRENTALCHOCOBO_00012_RENTALCHOCOBO_000_31","When renting my chocobos, I ask that you follow three simple rules:"
+15,"TEXT_CMNDEFRENTALCHOCOBO_00012_RENTALCHOCOBO_000_32","One, do not dismount until you have arrived at your final destination. To prevent theft, my birds are trained to return to these stables the moment you have climbed down out of the saddle."
+16,"TEXT_CMNDEFRENTALCHOCOBO_00012_RENTALCHOCOBO_000_33","Two, always keep track of how much time remains on your rental contract. Again, to prevent theft, my birds have been trained to refuse further commands and return to these stables once the agreed time is up."
+17,"TEXT_CMNDEFRENTALCHOCOBO_00012_RENTALCHOCOBO_000_34","And three, do make your best effort to keep the chocobo out of harm's way. Ravenous beasts will attack the bird if you enter their territory. If he sustains grievous injury, the poor lad will very likely buck you and do his best to escape."
+18,"TEXT_CMNDEFRENTALCHOCOBO_00012_RENTALCHOCOBO_000_35","That is all. So, what say you?"
+19,"TEXT_CMNDEFRENTALCHOCOBO_00012_RENTALCHOCOBO_000_40","Greetings! May I interest you in a chocobo? Mine are guaranteed fastest in the realm─or your money back!"

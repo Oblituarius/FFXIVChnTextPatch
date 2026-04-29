@@ -2,16 +2,16 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_CMNGSCCHOCOBORACERENAME_00231_TALK_ACTOR_02,你想為<hex:022903EA0203>更改競賽名嗎？<hex:02100103>想換個什麼樣的名字呢？
-1,TEXT_CMNGSCCHOCOBORACERENAME_00231_ERROR_002_02,為競賽陸行鳥更改競賽名需要手續費2000金幣。
-2,TEXT_CMNGSCCHOCOBORACERENAME_00231_RENAME_Q1,確定將競賽陸行鳥的競賽名改為<hex:022903EA0203>嗎？<hex:02100103>需要手續費2000金幣。
-3,TEXT_CMNGSCCHOCOBORACERENAME_00231_RENAME_A1,是
-4,TEXT_CMNGSCCHOCOBORACERENAME_00231_RENAME_A2,否
-5,TEXT_CMNGSCCHOCOBORACERENAME_00231_RENAME_DONE,嗯，這個新名字看來更適合它！<hex:02100103>今後也請你和<hex:022903EA0203>好好相處哦！
-6,TEXT_CMNGSCCHOCOBORACERENAME_00231_TALK_ACTOR,你想為競賽陸行鳥更改競賽名嗎？<hex:02100103>想換個什麼樣的名字呢？
-7,TEXT_CMNGSCCHOCOBORACERENAME_00231_ERROR_001_01,嗯？<hex:02100103>你似乎還沒有已經登記的競賽陸行鳥啊。
-8,TEXT_CMNGSCCHOCOBORACERENAME_00231_ERROR_001_02,只有登記過的競賽陸行鳥可以更改競賽名。
-9,TEXT_CMNGSCCHOCOBORACERENAME_00231_ERROR_002_01,抱歉，你似乎沒有足夠的金幣支付手續費……
-10,TEXT_CMNGSCCHOCOBORACERENAME_00231_ERROR_003_01,抱歉，我們無法登記這個名字……
-11,TEXT_CMNGSCCHOCOBORACERENAME_00231_ERROR_003_02,某些字詞的組合無法為競賽陸行鳥命名。<hex:02100103>請嘗試其他的組合。
-12,TEXT_CMNGSCCHOCOBORACERENAME_00231_ERROR_004_01,嗯……這名字和原來的一樣？<hex:02100103>那麼，這次就先不幫你更改它的名字啦！
+0,"TEXT_CMNGSCCHOCOBORACERENAME_00231_TALK_ACTOR_02","Dissatisfied with the name “<hex:022903EA0203>”? I understand. Pray allow me to review your registration..."
+1,"TEXT_CMNGSCCHOCOBORACERENAME_00231_ERROR_002_02","A fee of 2,000 gil is required for each name change."
+2,"TEXT_CMNGSCCHOCOBORACERENAME_00231_RENAME_Q1","Change your race chocobo's name to <hex:022B03EA0203> for <hex:022206E803FF022C03> gil?"
+3,"TEXT_CMNGSCCHOCOBORACERENAME_00231_RENAME_A1","Yes"
+4,"TEXT_CMNGSCCHOCOBORACERENAME_00231_RENAME_A2","No"
+5,"TEXT_CMNGSCCHOCOBORACERENAME_00231_RENAME_DONE","Excellent choice, <hex:02080FE905FF06>madam<hex:FF04>sir<hex:03>. I think all here would agree that <hex:022903EA0203> is a far better name."
+6,"TEXT_CMNGSCCHOCOBORACERENAME_00231_TALK_ACTOR","Dissatisfied with your race chocobo's name? I understand. Pray allow me to review your registration..."
+7,"TEXT_CMNGSCCHOCOBORACERENAME_00231_ERROR_001_01","Beg your pardon, but did I misunderstand your request? I can find no record of a race chocobo currently registered to you..."
+8,"TEXT_CMNGSCCHOCOBORACERENAME_00231_ERROR_001_02","You can only change the name of a registered race chocobo."
+9,"TEXT_CMNGSCCHOCOBORACERENAME_00231_ERROR_002_01","I do not wish to embarrass you, <hex:02080FE905FF06>madam<hex:FF04>sir<hex:03>, but it seems you lack the requisite gil..."
+10,"TEXT_CMNGSCCHOCOBORACERENAME_00231_ERROR_003_01","Ah... Forgive me, but it seems that the name you requested is... How shall I put this? Ineligible."
+11,"TEXT_CMNGSCCHOCOBORACERENAME_00231_ERROR_003_02","The word combination you selected is prohibited. Please select a different name."
+12,"TEXT_CMNGSCCHOCOBORACERENAME_00231_ERROR_004_01","Then you wish to retain your race chocobo's current name, <hex:02080FE905FF06>madam<hex:FF04>sir<hex:03>? Very well."

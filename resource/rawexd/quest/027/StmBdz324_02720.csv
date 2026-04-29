@@ -2,100 +2,100 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_STMBDZ324_02720_SEQ_00,漁村的名吉有事要委託冒險者。
-1,TEXT_STMBDZ324_02720_SEQ_01,名吉委託冒險者陪他進行釣魚訓練。和漁村的名吉匯合，如果有魔物被釣上來，則進行討伐。
-2,TEXT_STMBDZ324_02720_SEQ_02,討伐了名吉釣上來的魔物。救助懼怕魔物的名吉。
-3,TEXT_STMBDZ324_02720_SEQ_03,救助了懼怕魔物的名吉。和漁村的名吉交談，如果有魔物被釣上來，則進行討伐。
-4,TEXT_STMBDZ324_02720_SEQ_04,討伐了名吉釣上來的魔物。和再次釣上魔物的名吉談談。
-5,TEXT_STMBDZ324_02720_SEQ_05,和名吉進行了交談，決定向村民詢問釣魚的訣竅。和名吉選中的捕魚人談談。
-6,TEXT_STMBDZ324_02720_SEQ_06,從熟練的老漁夫那裡聽取了釣魚的訣竅。為了學到新的釣魚技巧，和名吉選中的捕魚人談談。
-7,TEXT_STMBDZ324_02720_SEQ_07,和技術高超的捕魚人進行了交談，得到了<hex:022811FF0A>EventItem<hex:F61E8DC60103>。將<hex:022811FF0A>EventItem<hex:F61E8DC60103>交給漁村的名吉。
-8,TEXT_STMBDZ324_02720_SEQ_08,和名吉進行了交談，小琉璃指出，名吉心有雜念，導致釣魚不順利。名吉能否熟練運用學到的訣竅釣上魚來……
-9,TEXT_STMBDZ324_02720_SEQ_09,
-10,TEXT_STMBDZ324_02720_SEQ_10,
-11,TEXT_STMBDZ324_02720_SEQ_11,
-12,TEXT_STMBDZ324_02720_SEQ_12,
-13,TEXT_STMBDZ324_02720_SEQ_13,
-14,TEXT_STMBDZ324_02720_SEQ_14,
-15,TEXT_STMBDZ324_02720_SEQ_15,
-16,TEXT_STMBDZ324_02720_SEQ_16,
-17,TEXT_STMBDZ324_02720_SEQ_17,
-18,TEXT_STMBDZ324_02720_SEQ_18,
-19,TEXT_STMBDZ324_02720_SEQ_19,
-20,TEXT_STMBDZ324_02720_SEQ_20,
-21,TEXT_STMBDZ324_02720_SEQ_21,
-22,TEXT_STMBDZ324_02720_SEQ_22,
-23,TEXT_STMBDZ324_02720_SEQ_23,
-24,TEXT_STMBDZ324_02720_TODO_00,和名吉匯合
-25,TEXT_STMBDZ324_02720_TODO_01,救助名吉
-26,TEXT_STMBDZ324_02720_TODO_02,和名吉對話並討伐出現的魔物
-27,TEXT_STMBDZ324_02720_TODO_03,和名吉對話
-28,TEXT_STMBDZ324_02720_TODO_04,和捕魚人對話
-29,TEXT_STMBDZ324_02720_TODO_05,和下一位捕魚人對話
-30,TEXT_STMBDZ324_02720_TODO_06,將<hex:022811FF0A>EventItem<hex:F61E8DC60103>交給名吉
-31,TEXT_STMBDZ324_02720_TODO_07,
-32,TEXT_STMBDZ324_02720_TODO_08,
-33,TEXT_STMBDZ324_02720_TODO_09,
-34,TEXT_STMBDZ324_02720_TODO_10,
-35,TEXT_STMBDZ324_02720_TODO_11,
-36,TEXT_STMBDZ324_02720_TODO_12,
-37,TEXT_STMBDZ324_02720_TODO_13,
-38,TEXT_STMBDZ324_02720_TODO_14,
-39,TEXT_STMBDZ324_02720_TODO_15,
-40,TEXT_STMBDZ324_02720_TODO_16,
-41,TEXT_STMBDZ324_02720_TODO_17,
-42,TEXT_STMBDZ324_02720_TODO_18,
-43,TEXT_STMBDZ324_02720_TODO_19,
-44,TEXT_STMBDZ324_02720_TODO_20,
-45,TEXT_STMBDZ324_02720_TODO_21,
-46,TEXT_STMBDZ324_02720_TODO_22,
-47,TEXT_STMBDZ324_02720_TODO_23,
-48,TEXT_STMBDZ324_02720_NAYOSHI_000_000,您同意陪同我進行訓練嗎？太感謝您了！<hex:02100103>如果我釣上了魔物，<hex:02100103>就拜託您打倒它們了。
-49,TEXT_STMBDZ324_02720_NAYOSHI_000_001,我想避開人們的視線，也不想讓村子受到威脅，<hex:02100103>所以打算在離村子遠一些的地方進行訓練。<hex:02100103>請到村北邊的海灘來吧。
-50,TEXT_STMBDZ324_02720_POP_MESSAGE,（★未使用／預定刪除★）
-51,TEXT_STMBDZ324_02720_NAYOSHI_000_009,恩人，您來了啊！<hex:02100103>我只是試著把釣絲甩了出去，結果就成了這樣！<hex:02100103>抱歉，幫我幹掉魔物吧！
-52,TEXT_STMBDZ324_02720_NAYOSHI_000_010,哇，又被您救了，謝謝。<hex:02100103>一、一定是選的地方不好，對。
-53,TEXT_STMBDZ324_02720_NAYOSHI_000_011,接下來就到南邊的海灘上，重整旗鼓，再釣一次。<hex:02100103>這次我會等恩人過來再開始的，一定要來啊。
-54,TEXT_STMBDZ324_02720_NAYOSHI_000_020,哦哦，您來了啊。<hex:02100103>那我這就開始釣魚！
-55,TEXT_STMBDZ324_02720_NAYOSHI_000_021,可惡，可惡……又是魔物……<hex:02100103>恩人，麻煩您這麼多次，真是抱歉……
-56,TEXT_STMBDZ324_02720_NAYOSHI_000_029,（★未使用／預定刪除★）
-57,TEXT_STMBDZ324_02720_NAYOSHI_000_030,啊，換地方也沒用，只能釣上魔物！<hex:02100103>恩人，您說我該怎麼辦？！
-58,TEXT_STMBDZ324_02720_Q1_000_000,如何建議？
-59,TEXT_STMBDZ324_02720_A1_000_001,向其他村民請教
-60,TEXT_STMBDZ324_02720_A1_000_002,向小琉璃請教
-61,TEXT_STMBDZ324_02720_A1_000_003,……
-62,TEXT_STMBDZ324_02720_NAYOSHI_000_031,也對，一個人獨自摸索很難進步，<hex:02100103>還是虛心向村民請教吧。<hex:02100103>不過，有一個問題……
-63,TEXT_STMBDZ324_02720_NAYOSHI_000_032,小琉璃的確是村裡最優秀的。<hex:02100103>但是，她擅長的是拿著漁叉潛水捕魚……<hex:02100103>我想要提高的是垂釣的水平。
-64,TEXT_STMBDZ324_02720_NAYOSHI_000_033,所以，還是應該放下自己的倔強，<hex:02100103>向村民請教為好……<hex:02100103>不過，有一個問題……
-65,TEXT_STMBDZ324_02720_NAYOSHI_000_034,哈哈哈……連恩人都不知該說什麼了……<hex:02100103>嗯，還是虛心向其他村民請教吧。<hex:02100103>不過，有一個問題……
-66,TEXT_STMBDZ324_02720_NAYOSHI_000_035,在這個窮村子，捕魚的能力就是一切。<hex:02100103>恩人也看到過了，我根本不行，<hex:02100103>所以，很有可能沒人搭理我……
-67,TEXT_STMBDZ324_02720_NAYOSHI_000_036,不過，打倒魔物拯救村子的恩人所說的話，大家也許會聽。<hex:02100103>如果問他們釣魚的訣竅，<hex:02100103>他們一定會認真地教您的。
-68,TEXT_STMBDZ324_02720_NAYOSHI_000_037,我來物色釣魚水平高的人，<hex:02100103>恩人就向那個人請教釣魚的訣竅吧！
-69,TEXT_STMBDZ324_02720_NAYOSHI_000_039,這是向恩人委託救助我的老爺子，<hex:02100103>他是村裡最有經驗的漁夫。<hex:02100103>這就來問問他訣竅吧。
-70,TEXT_STMBDZ324_02720_FACILITYFISHER_000_039,這個桶裡裝著捕魚時必要的物品。
-71,TEXT_STMBDZ324_02720_VETERANFISHER_000_040,咦，這不是救助了名吉的異鄉人嗎？<hex:02100103>真是給您添麻煩了。<hex:02100103>怎麼？您想要學釣魚？
-72,TEXT_STMBDZ324_02720_NAYOSHI_000_041,是啊，我實在教不了，<hex:02100103>所以就把村子裡經驗最豐富的您介紹給了恩人。<hex:02100103>請您講講釣魚的訣竅吧。
-73,TEXT_STMBDZ324_02720_VETERANFISHER_000_042,釣魚最重要的是了解魚的特性。<hex:02100103>比如說，有些魚會被光所吸引。<hex:02100103>以前我曾經夜裡出海，用火把照明，吸引魚類。
-74,TEXT_STMBDZ324_02720_NAYOSHI_000_043,火把嗎……<hex:02100103>可是這窮鄉僻壤，沒有足夠的油來通宵點火把吧？
-75,TEXT_STMBDZ324_02720_VETERANFISHER_000_044,的確。<hex:02100103>如果可以夜間捕魚的話，村子也就能致富了……
-76,TEXT_STMBDZ324_02720_NAYOSHI_000_045,這樣啊……老爺子，謝謝啊！<hex:02100103>如果有條件進行這種捕魚的話，應該能捕到更多的魚……<hex:02100103>不過，現在只能找其他方法了。
-77,TEXT_STMBDZ324_02720_NAYOSHI_000_046,恩人，我們去找下一個吧！
-78,TEXT_STMBDZ324_02720_VETERANFISHER_000_049,如果可以夜間捕魚的話，村子也就能致富了……
-79,TEXT_STMBDZ324_02720_NAYOSHI_000_049,這是最近進步特別快的年輕漁夫。<hex:02100103>和他說說吧。
-80,TEXT_STMBDZ324_02720_FACILITYFISHER_000_050,啊？你想知道釣魚的訣竅？
-81,TEXT_STMBDZ324_02720_NAYOSHI_000_051,這是打倒了我釣上的魔物，拯救村子的人。<hex:02100103>我根本沒法教人家什麼訣竅，<hex:02100103>所以就介紹了在年輕人裡出類拔萃的你。
-82,TEXT_STMBDZ324_02720_FACILITYFISHER_000_052,原來如此，是村子的恩人啊……<hex:02100103>確實，名吉沒法教什麼訣竅。<hex:02100103>那就由我來教吧，就當是報恩了。
-83,TEXT_STMBDZ324_02720_FACILITYFISHER_000_053,我以前的水平也不怎麼樣，所以想了很多辦法。<hex:02100103>比如，用網或者壺什麼的，還用了擬餌……
-84,TEXT_STMBDZ324_02720_FACILITYFISHER_000_054,對了，我把<hex:022811FF0A>EventItem<hex:F61E8DC60103>給你吧。<hex:02100103>用了這個就可以得到紅玉海裡的鮮魚了。<hex:02100103>加油！
-85,TEXT_STMBDZ324_02720_NAYOSHI_000_055,這是個好消息啊！<hex:02100103>我們先回到石陰那裡吧，<hex:02100103>然後讓我好好觀察一下這個東西。
-86,TEXT_STMBDZ324_02720_FACILITYFISHER_000_059,用<hex:022811FF0A>EventItem<hex:F61E8DC60103><hex:02100103>應該就可以得到紅玉海裡的鮮魚了。<hex:02100103>加油吧！
-87,TEXT_STMBDZ324_02720_KORURI_000_059,恩人，名吉的水平如何了？<hex:02100103>我很擔心，但他什麼都不告訴我……
-88,TEXT_STMBDZ324_02720_NAYOSHI_000_060,您來了啊。<hex:02100103>之前小琉璃糾纏我，我都不知道要怎麼辦才好。<hex:02100103>快讓我看看<hex:022811FF0A>EventItem<hex:F61E8DC60103>吧。
-89,TEXT_STMBDZ324_02720_NAYOSHI_000_061,原來如此，魚會把這個東西錯當成食物，然後就會咬鉤了啊。<hex:02100103>我們這就去試試吧！
-90,TEXT_STMBDZ324_02720_KORURI_000_062,聽說恩人四處打聽釣魚的訣竅，<hex:02100103>原來是為了名吉啊……<hex:02100103>你還沒放棄啊？
-91,TEXT_STMBDZ324_02720_NAYOSHI_000_063,當然！<hex:02100103>如果無法成為一流的漁夫，就沒法在這個村子活下去。<hex:02100103>況且，是你慫恿我提高水平的吧，小琉璃？
-92,TEXT_STMBDZ324_02720_KORURI_000_064,你也可以考慮當造船工人或者選擇其他職業啊……<hex:02100103>不過，憑現在的名吉，真的什麼也做不到吧。
-93,TEXT_STMBDZ324_02720_NAYOSHI_000_065,你說什麼？！<hex:02100103>如果你是來說風涼話的，就快點走開！
-94,TEXT_STMBDZ324_02720_KORURI_000_066,既然話說到這份上，那我就把我的技巧交給你。<hex:02100103>真正重要的是拋開雜念，將精力集中到眼前的大海上。<hex:02100103>接下來的事，大海自會指引你。
-95,TEXT_STMBDZ324_02720_KORURI_000_067,但是如果心有雜念，就無法發覺大海的指引。<hex:02100103>釣魚也是如此。<hex:02100103>現在的名吉太浮躁，所以魚都不肯靠近。
-96,TEXT_STMBDZ324_02720_NAYOSHI_000_068,可惡……這樣瞧不起我！<hex:02100103>把人說得好像什麼都做不到的半吊子一樣。<hex:02100103>等著，我一定會讓你刮目相看……就用這個擬餌！
+0,"TEXT_STMBDZ324_02720_SEQ_00","Nayoshi gives you a pleading look."
+1,"TEXT_STMBDZ324_02720_SEQ_01","Nayoshi decides that in order to improve his skills as a fisherman he must begin training and begs you to accompany him. He is afraid that, should his misfortune persist, he will need a strong <hex:02080FE905FF06>woman<hex:FF04>man<hex:03> on hand to dispatch of whatever monstrosity he mistakenly drags in from the open waters."
+2,"TEXT_STMBDZ324_02720_SEQ_02","You quickly put an end to the beast Nayoshi has caught. Go over and reassure the still-trembling fisherman that he no longer has anything to fear."
+3,"TEXT_STMBDZ324_02720_SEQ_03","Upon seeing you and the slain monster, Nayoshi regains his composure and thanks you for your help. Despite the less-than-stellar results of his first attempt, he is ready to try again. He believes a change of scenery might help to spur his attempts along and asks that you meet him at the southern coast."
+4,"TEXT_STMBDZ324_02720_SEQ_04","As soon as you join him, Nayoshi pulls out his rod and throws out a line. A few moments later, he reels in another sea beast. Quickly dispatch of it and speak with the young fisherman."
+5,"TEXT_STMBDZ324_02720_SEQ_05","Nayoshi appears defeated by his lack of progress and asks you for advice on how he might improve his fishing. After a bit of back and forth, the two of you come to the conclusion that he must receive advice from some of the other fishermen. As the village's least productive member, however, he is certain his pleas for help will fall on deaf ears. He requests that you, the <hex:02080FE905FF06>woman<hex:FF04>man<hex:03> who delivered Isari from disaster be the one to go around and ask for fishing advice for him."
+6,"TEXT_STMBDZ324_02720_SEQ_06","You begin by approaching the village's most experienced fisherman─the man who requested that you save Nayoshi from the shiranui. He reveals to you that the best way to catch fish is to observe their behavior and use it to your advantage. The example he gives you of torch fishing, however, can only be employed under a very specific set of circumstances and Nayoshi asks that you ask one of the other nearby fishermen for more practical advice."
+7,"TEXT_STMBDZ324_02720_SEQ_07","You speak with one of the younger fishermen whose aptitude for fishing has lately gained him village-wide recognition. Upon learning who you are, he is happy to share with you the secret to his remarkable success. He presents you with a wooden fishing lure and tells you that this is the easiest way to attract and catch fish. Saying you can keep it, he wishes you good luck in your fishing endeavors. Nayoshi would like to look at the lure the young fisherman has given you and requests that you meet him behind the large boulders."
+8,"TEXT_STMBDZ324_02720_SEQ_08","You deliver the lure to Nayoshi, who has been cornered by Koruri. She has come to impart some advice about fishing to Nayoshi. Telling him that he must learn to clear his mind at sea, she suggests he try concentrating solely upon the waves and feeling the rod in his hand. With all the knowledge he has gained, will Nayoshi finally find a way to overcome his troubles?"
+9,"TEXT_STMBDZ324_02720_SEQ_09",""
+10,"TEXT_STMBDZ324_02720_SEQ_10",""
+11,"TEXT_STMBDZ324_02720_SEQ_11",""
+12,"TEXT_STMBDZ324_02720_SEQ_12",""
+13,"TEXT_STMBDZ324_02720_SEQ_13",""
+14,"TEXT_STMBDZ324_02720_SEQ_14",""
+15,"TEXT_STMBDZ324_02720_SEQ_15",""
+16,"TEXT_STMBDZ324_02720_SEQ_16",""
+17,"TEXT_STMBDZ324_02720_SEQ_17",""
+18,"TEXT_STMBDZ324_02720_SEQ_18",""
+19,"TEXT_STMBDZ324_02720_SEQ_19",""
+20,"TEXT_STMBDZ324_02720_SEQ_20",""
+21,"TEXT_STMBDZ324_02720_SEQ_21",""
+22,"TEXT_STMBDZ324_02720_SEQ_22",""
+23,"TEXT_STMBDZ324_02720_SEQ_23",""
+24,"TEXT_STMBDZ324_02720_TODO_00","Rendezvous with Nayoshi."
+25,"TEXT_STMBDZ324_02720_TODO_01","Rescue Nayoshi."
+26,"TEXT_STMBDZ324_02720_TODO_02","Speak with Nayoshi and defeat the beast."
+27,"TEXT_STMBDZ324_02720_TODO_03","Speak with Nayoshi."
+28,"TEXT_STMBDZ324_02720_TODO_04","Speak with the veteran fisherman."
+29,"TEXT_STMBDZ324_02720_TODO_05","Speak with the agile fisherman."
+30,"TEXT_STMBDZ324_02720_TODO_06","Deliver the wooden fishing lure to Nayoshi."
+31,"TEXT_STMBDZ324_02720_TODO_07",""
+32,"TEXT_STMBDZ324_02720_TODO_08",""
+33,"TEXT_STMBDZ324_02720_TODO_09",""
+34,"TEXT_STMBDZ324_02720_TODO_10",""
+35,"TEXT_STMBDZ324_02720_TODO_11",""
+36,"TEXT_STMBDZ324_02720_TODO_12",""
+37,"TEXT_STMBDZ324_02720_TODO_13",""
+38,"TEXT_STMBDZ324_02720_TODO_14",""
+39,"TEXT_STMBDZ324_02720_TODO_15",""
+40,"TEXT_STMBDZ324_02720_TODO_16",""
+41,"TEXT_STMBDZ324_02720_TODO_17",""
+42,"TEXT_STMBDZ324_02720_TODO_18",""
+43,"TEXT_STMBDZ324_02720_TODO_19",""
+44,"TEXT_STMBDZ324_02720_TODO_20",""
+45,"TEXT_STMBDZ324_02720_TODO_21",""
+46,"TEXT_STMBDZ324_02720_TODO_22",""
+47,"TEXT_STMBDZ324_02720_TODO_23",""
+48,"TEXT_STMBDZ324_02720_NAYOSHI_000_000","So you will help me? Truly? Thank you, <hex:020815E905FF09>Mistress<hex:FF07>Master<hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303>!"
+49,"TEXT_STMBDZ324_02720_NAYOSHI_000_001","Please, follow me north. We can train there, far away from everyone. If─nay─<hex:021A020203>when<hex:021A020103> I should fish a monster from the seas, I ask that you step in and dispatch of it immediately."
+50,"TEXT_STMBDZ324_02720_POP_MESSAGE",""
+51,"TEXT_STMBDZ324_02720_NAYOSHI_000_009","I barely finished casting the line when this thing showed up! P-Please drive it away! "
+52,"TEXT_STMBDZ324_02720_NAYOSHI_000_010","Perhaps this was not the best place to begin my training."
+53,"TEXT_STMBDZ324_02720_NAYOSHI_000_011","Let us move to the southern coast and try again. This time I shall wait for you to arrive before I begin."
+54,"TEXT_STMBDZ324_02720_NAYOSHI_000_020","You are here! Excellent. Let me pull out my rod and cast my line, then!"
+55,"TEXT_STMBDZ324_02720_NAYOSHI_000_021","N-No! Not again! Why does this continue to happen!? P-Please <hex:020815E905FF09>Mistress<hex:FF07>Master<hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303>─kill the beast before it somehow makes its way into the village!"
+56,"TEXT_STMBDZ324_02720_NAYOSHI_000_029",""
+57,"TEXT_STMBDZ324_02720_NAYOSHI_000_030","Despite the change in location, my performance has scarce improved. What am I to do?"
+58,"TEXT_STMBDZ324_02720_Q1_000_000","What will you say?"
+59,"TEXT_STMBDZ324_02720_A1_000_001","Maybe you can ask one of the other fishermen for help."
+60,"TEXT_STMBDZ324_02720_A1_000_002","Perhaps you can approach Koruri for advice."
+61,"TEXT_STMBDZ324_02720_A1_000_003","Hm... Mayhap nothing can be done."
+62,"TEXT_STMBDZ324_02720_NAYOSHI_000_031","Yes, you are right. Progress is all but guaranteed if I were to seek the guidance of one of the other fishermen. There is just one problem..."
+63,"TEXT_STMBDZ324_02720_NAYOSHI_000_032","Koruri is undoubtedly the most talented fisher in the village. Unlike me, however, she dives underwater with a harpoon and spears her fish. The techniques we employ are vastly different and any advice she may have would be of no use to me."
+64,"TEXT_STMBDZ324_02720_NAYOSHI_000_033","I am left with no choice but to turn to one of the other fishermen for guidance. There is just one problem..."
+65,"TEXT_STMBDZ324_02720_NAYOSHI_000_034","<sigh> It seems even you, with your extensive knowledge of the world, fail to think of a solution. I suppose the only thing I can do at this point is to ask one of the other fishermen for their guidance. There is just one problem..."
+66,"TEXT_STMBDZ324_02720_NAYOSHI_000_035","Isari is a small, unpretentious village, where your reputation hinges sorely on your ability to fish. Those who show no aptitude for it are often scorned. Even if I were to appeal to them for help, I would simply be ignored."
+67,"TEXT_STMBDZ324_02720_NAYOSHI_000_036","You, however, have won their respect by defeating the monster that earlier threatened to devour me and destroy the village. If you asked them to teach you their fishing techniques, they will be more than happy to oblige."
+68,"TEXT_STMBDZ324_02720_NAYOSHI_000_037","I will go with you when you question them and listen intently by your side to what they have to say."
+69,"TEXT_STMBDZ324_02720_NAYOSHI_000_039","This man is the village's most experienced fisherman. He is sure to know all the best tricks of the trade. Please, ask him about it. I shall stand right here, with my eyes and ears wide open."
+70,"TEXT_STMBDZ324_02720_FACILITYFISHER_000_039","If the rumors are anything to go by, all the answers to becoming the greatest fisher in the world lie in this barrel."
+71,"TEXT_STMBDZ324_02720_VETERANFISHER_000_040","Hoho! I remember you! You are the adventurer that I sent to save Nayoshi. Your heroic actions are the talk of the town! ...During your stay here, you have uncovered a new passion for fishing, you say?"
+72,"TEXT_STMBDZ324_02720_NAYOSHI_000_041","My knowledge of fishing is insubstantial to teach <hex:020815E905FF09>Mistress<hex:FF07>Master<hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303> what <hex:02080CE905FF04>she<hex:FF03>he<hex:03> wants to know, so I brought <hex:02080DE905FF04>her<hex:FF04>him<hex:03> to you─our veteran fisher."
+73,"TEXT_STMBDZ324_02720_VETERANFISHER_000_042","Well, the most important thing is to understand the fish you want to catch. For example, long ago we used to row boats out to sea at night and light a torch. It would draw schools of silvertails to us, allowing fishermen to haul them back by the boatload."
+74,"TEXT_STMBDZ324_02720_NAYOSHI_000_043","Torches? But none of us here could ever afford the amount of oil it would require to keep them burning..."
+75,"TEXT_STMBDZ324_02720_VETERANFISHER_000_044","Exactly. That, Nayoshi, is part of the reason we remain a destitute village. Life would be far easier had we the means to put torch fishing into practice again."
+76,"TEXT_STMBDZ324_02720_NAYOSHI_000_045","I see... Thank you for sharing your wisdom with us. Seeing as we have no oil, however, I think we must look to other methods to assist <hex:020815E905FF09>Mistress<hex:FF07>Master<hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303> in beginning <hex:02080DE905FF04>her<hex:FF04>his<hex:03> fishing journey."
+77,"TEXT_STMBDZ324_02720_NAYOSHI_000_046","Come, let us try asking someone else!"
+78,"TEXT_STMBDZ324_02720_VETERANFISHER_000_049","<sigh> If only we still had the means to torch fish, our village would flourish..."
+79,"TEXT_STMBDZ324_02720_NAYOSHI_000_049","(While little more than a boy, he is one of the village's most promising fishermen. Let us try squeezing him for advice.)"
+80,"TEXT_STMBDZ324_02720_FACILITYFISHER_000_050","Huh? You are asking me to divulge my greatest fishing secret? And why, pray tell, would I do such a thing?"
+81,"TEXT_STMBDZ324_02720_NAYOSHI_000_051","Surely, you must recognize this gracious <hex:02080FE905FF06>woman<hex:FF04>man<hex:03>! <hex:02080CE905FF04>She<hex:FF03>He<hex:03> defeated the tentacled monstrosity I pulled ashore and is the savior of our village."
+82,"TEXT_STMBDZ324_02720_FACILITYFISHER_000_052","Ah, indeed! My sincerest apologies. Of course I would be delighted to share with you my technique. After all, someone must make up for Nayoshi's inability to teach you about our craft."
+83,"TEXT_STMBDZ324_02720_FACILITYFISHER_000_053","Until recently, I was only slightly better than your average fisherman. I tried everything to improve─from using nets to even pots and fake bait to improve my performance."
+84,"TEXT_STMBDZ324_02720_FACILITYFISHER_000_054","After much trial and error, I learned that the fastest way to snag a fish is to use this: a wooden fishing lure. Here, you can have mine. Best of luck, my friend!"
+85,"TEXT_STMBDZ324_02720_NAYOSHI_000_055","Haha! You did it, <hex:020815E905FF09>Mistress<hex:FF07>Master<hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303>! You have unraveled the secret to becoming a phenomenal fisher! Please, meet me behind the boulders that I might inspect the lure you received."
+86,"TEXT_STMBDZ324_02720_FACILITYFISHER_000_059","Give that wooden fishing lure a try. Trust me─you will be pleasantly surprised by the results."
+87,"TEXT_STMBDZ324_02720_KORURI_000_059","I am so glad you are here, <hex:02080FE905FF06>madam<hex:FF04>sir<hex:03>! Please, tell me honestly: has Nayoshi improved at all since we last met? I came here to check up on his progress but every time I ask him, he attempts to dodge the question!"
+88,"TEXT_STMBDZ324_02720_NAYOSHI_000_060","Thank the kami you are here! The moment I arrived, Koruri appeared and began pestering me about my progress. Do you have the wooden fishing lure?"
+89,"TEXT_STMBDZ324_02720_NAYOSHI_000_061","Ah, look at that! It is shaped like a small fish to trick the bigger fish into thinking it's food. Let us go put it to the test, shall we?"
+90,"TEXT_STMBDZ324_02720_KORURI_000_062","It struck me as rather odd when I caught wind of <hex:020815E905FF09>Mistress<hex:FF07>Master<hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303>'s sudden interest in fishing, but never did I think <hex:021A020203>you<hex:021A020103> were the one to put <hex:02080DE905FF04>her<hex:FF04>him<hex:03> up to this! <sigh> Nayoshi, isn't it about time you admitted defeat?"
+91,"TEXT_STMBDZ324_02720_NAYOSHI_000_063","Never! As a man of Isari, I must do whatever it takes to learn to fish! How else am I to survive? ...Besides, weren't you the one who was pushing me to improve my fishing abilities? "
+92,"TEXT_STMBDZ324_02720_KORURI_000_064","If it is simply survival you are worried about, there are plenty of other options. You could gather seaweed, for example. Then again, there is a good chance you would be equally bad at that..."
+93,"TEXT_STMBDZ324_02720_NAYOSHI_000_065","Koruri, if you have simply come to poke fun at me, please leave."
+94,"TEXT_STMBDZ324_02720_KORURI_000_066","...I actually came here to give you some advice. When you are fishing, you must shut down all your thoughts and concentrate solely upon seeing─nay, <hex:021A020203>feeling<hex:021A020103>─the great expanse of water that stretches out before you. Do it right, and the seas will guide you."
+95,"TEXT_STMBDZ324_02720_KORURI_000_067","By contrast, should you allow your mind to roam aimlessly, so will your rod. The waters will only amplify the chaos in your heart and the fish will avoid your line."
+96,"TEXT_STMBDZ324_02720_NAYOSHI_000_068","<sigh> It seems she takes me for an idiot... Well, I will show her─and everyone else in the village, for that matter─that I am nothing of the sort! I pray that the answer to my problems lies with this lure."

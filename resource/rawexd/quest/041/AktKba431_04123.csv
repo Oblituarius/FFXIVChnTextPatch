@@ -2,133 +2,133 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_AKTKBA431_04123_SEQ_00,多瑪飛地的夕霧似乎有事想向冒險者報告。
-1,TEXT_AKTKBA431_04123_SEQ_01,從夕霧那裡得知，有人在紅玉海目擊到了偽神獸。飛燕也加入了對話，眾人隨後決定去和海賊眾談談。和紅玉海痙攣寨的羅生談談。
-2,TEXT_AKTKBA431_04123_SEQ_02,和羅生進行了交談。據說有人在沖之岩附近看到了偽神獸，眾人決定前往討伐。和紅玉海沖之岩的飛燕談談。
-3,TEXT_AKTKBA431_04123_SEQ_03,和飛燕進行了交談，雖然發現了偽神獸但還是讓它逃掉了。據負責追捕的湛水說，由港轉化的偽神獸十分膽小，它似乎十分懼怕飛燕，於是便逃走了。再次和沖之岩的飛燕談談。
-4,TEXT_AKTKBA431_04123_SEQ_04,和飛燕進行了交談。返回多瑪飛地，和飛燕談談。
-5,TEXT_AKTKBA431_04123_SEQ_05,與飛燕談話時，祈請和村民們出現，要求飛燕交出被藏在歸燕館的歸國者們。飛燕果斷地拒絕了這個要求，此時豪雪出現，揭露了祈請的騙局，祈請帶著村民們離開了。蜻蛉來到飛燕面前，為自己過去行為道歉，並表示自己因為父親的死一直都鬱結於心，很害怕自己也變成獸。雖然豪雪揭穿了祈請的通靈騙局，但那些深陷悲傷絕望的人們，隨時都有獸化的風險，必須盡快想辦法安撫他們。精進自己的身手，下次再來拜訪夕霧。<hex:02100103><hex:02100103>※任意遠程物理職業的等級達到89級以上時，可以從多瑪飛地的夕霧那裡領取下一個遠程物理職能任務。
-6,TEXT_AKTKBA431_04123_SEQ_06,
-7,TEXT_AKTKBA431_04123_SEQ_07,
-8,TEXT_AKTKBA431_04123_SEQ_08,
-9,TEXT_AKTKBA431_04123_SEQ_09,
-10,TEXT_AKTKBA431_04123_SEQ_10,
-11,TEXT_AKTKBA431_04123_SEQ_11,
-12,TEXT_AKTKBA431_04123_SEQ_12,
-13,TEXT_AKTKBA431_04123_SEQ_13,
-14,TEXT_AKTKBA431_04123_SEQ_14,
-15,TEXT_AKTKBA431_04123_SEQ_15,
-16,TEXT_AKTKBA431_04123_SEQ_16,
-17,TEXT_AKTKBA431_04123_SEQ_17,
-18,TEXT_AKTKBA431_04123_SEQ_18,
-19,TEXT_AKTKBA431_04123_SEQ_19,
-20,TEXT_AKTKBA431_04123_SEQ_20,
-21,TEXT_AKTKBA431_04123_SEQ_21,
-22,TEXT_AKTKBA431_04123_SEQ_22,
-23,TEXT_AKTKBA431_04123_SEQ_23,
-24,TEXT_AKTKBA431_04123_TODO_00,和痙攣寨的羅生對話
-25,TEXT_AKTKBA431_04123_TODO_01,和飛燕對話
-26,TEXT_AKTKBA431_04123_TODO_02,再次和飛燕對話
-27,TEXT_AKTKBA431_04123_TODO_03,和多瑪飛地的飛燕對話
-28,TEXT_AKTKBA431_04123_TODO_04,
-29,TEXT_AKTKBA431_04123_TODO_05,
-30,TEXT_AKTKBA431_04123_TODO_06,
-31,TEXT_AKTKBA431_04123_TODO_07,
-32,TEXT_AKTKBA431_04123_TODO_08,
-33,TEXT_AKTKBA431_04123_TODO_09,
-34,TEXT_AKTKBA431_04123_TODO_10,
-35,TEXT_AKTKBA431_04123_TODO_11,
-36,TEXT_AKTKBA431_04123_TODO_12,
-37,TEXT_AKTKBA431_04123_TODO_13,
-38,TEXT_AKTKBA431_04123_TODO_14,
-39,TEXT_AKTKBA431_04123_TODO_15,
-40,TEXT_AKTKBA431_04123_TODO_16,
-41,TEXT_AKTKBA431_04123_TODO_17,
-42,TEXT_AKTKBA431_04123_TODO_18,
-43,TEXT_AKTKBA431_04123_TODO_19,
-44,TEXT_AKTKBA431_04123_TODO_20,
-45,TEXT_AKTKBA431_04123_TODO_21,
-46,TEXT_AKTKBA431_04123_TODO_22,
-47,TEXT_AKTKBA431_04123_TODO_23,
-48,TEXT_AKTKBA431_04123_YUGIRI_000_000,<hex:022903EB0203>閣下！<hex:02100103>剛剛海賊眾那邊傳來消息，有人在紅玉海看到了偽神獸！<hex:02100103>萬幸的是目前還沒有出現犧牲者。
-49,TEXT_AKTKBA431_04123_HIEN_000_001,哦哦，你來得正好。<hex:02100103>偽神獸的搜查網這麼快就發揮了作用。
-50,TEXT_AKTKBA431_04123_HIEN_000_002,我正打算趕往海賊眾那邊，<hex:02100103>雖然有些唐突，不過麻煩你也一起跟來吧。<hex:02100103>我們去找痙攣寨的羅生了解一下情況。
-51,TEXT_AKTKBA431_04123_TANSUI_000_005,要了解偽神獸的事就先去找頭領吧。
-52,TEXT_AKTKBA431_04123_RASHO_000_010,沒想到連多瑪的君主大人都親自來了。<hex:02100103>看來這個偽神獸還真是不可小覷啊。
-53,TEXT_AKTKBA431_04123_HIEN_000_011,的確如此。<hex:02100103>我們直奔主題吧，麻煩頭領講講目前的狀況。
-54,TEXT_AKTKBA431_04123_RASHO_000_012,我的手下在沖之岩附近目擊到了傳聞中的偽神獸。<hex:02100103>不過它並沒有襲擊人，只是待在那邊而已。
-55,TEXT_AKTKBA431_04123_RASHO_000_013,看來讓那些因為無家可歸而加入海賊眾的歸國者們<hex:02100103>也前往歸燕館藏身，是個正確的選擇。<hex:02100103>如果他們留在這裡，說不定就會被它襲擊。
-56,TEXT_AKTKBA431_04123_RASHO_000_014,不論如何，無人傷亡是好事。<hex:02100103>我們也早點定下作戰計劃，將它收拾了吧。
-57,TEXT_AKTKBA431_04123_TANSUI_000_015,我們分頭行動吧，<hex:02100103>我們乘船從海上搜捕，你們就沿著各個島從陸上搜索。<hex:02100103>這次不能讓它再逃掉了，一旦發現就立刻討伐。
-58,TEXT_AKTKBA431_04123_HIEN_000_016,正合我意！<hex:02100103>我們這就出發前往沖之岩吧。
-59,TEXT_AKTKBA431_04123_RASHO_000_020,沒想到趕走了帝國，這次又出現了魔物，<hex:02100103>哼，我們的海可不是讓他們為所欲為的地方。
-60,TEXT_AKTKBA431_04123_TANSUI_000_021,我們分頭行動吧，<hex:02100103>我們乘船從海上搜捕，你們就沿著各個島從陸上搜索。<hex:02100103>這次不能讓它再逃掉了，一旦發現就立刻討伐。
-61,TEXT_AKTKBA431_04123_YUGIRI_000_022,終於要討伐偽神獸了，<hex:02100103>務必要慎重應對。
-62,TEXT_AKTKBA431_04123_HIEN_000_030,前方就是偽神獸被目擊到的地方了，<hex:02100103>大家多加小心，千萬別放鬆警惕！
-63,TEXT_AKTKBA431_04123_HIEN_000_101,可惡，被它逃了嗎……
-64,TEXT_AKTKBA431_04123_YUGIRI_000_102,這般驚人的速度，<hex:02100103>恐怕騎大隼也追不上吧。
-65,TEXT_AKTKBA431_04123_TANSUI_000_103,偽神獸先出現在這邊了嗎？<hex:02100103>不過看來你們讓它逃了……
-66,TEXT_AKTKBA431_04123_HIEN_000_104,偽神獸是由憎恨著我的港轉化而成的，<hex:02100103>因此才會衝著我來吧。
-67,TEXT_AKTKBA431_04123_TANSUI_000_105,港？！<hex:02100103>那個怪物是港變的？！
-68,TEXT_AKTKBA431_04123_HIEN_000_106,你認識港嗎？
-69,TEXT_AKTKBA431_04123_TANSUI_000_107,嗯，海賊眾曾經照顧過她一段時間。<hex:02100103>之前她曾與父母一起乘船打算逃往遠東之國，<hex:02100103>卻遇上了帝國兵臨場搜查……
-70,TEXT_AKTKBA431_04123_TANSUI_000_108,我們發現那艘在海上漂流的破船時，<hex:02100103>裡面只有瑟瑟發抖的港和她雙親的遺體。
-71,TEXT_AKTKBA431_04123_TANSUI_000_109,之後我們便把她帶回痙攣寨照顧了一段時間，<hex:02100103>不過她好像被嚇壞了，特別膽小……<hex:02100103>連看到我們的佩刀都會尖叫。
-72,TEXT_AKTKBA431_04123_TANSUI_000_110,因為這個緣故，我們也沒法讓她加入海賊眾，<hex:02100103>於是就拜託漁村的人收留了她。
-73,TEXT_AKTKBA431_04123_TANSUI_000_111,自那之後過了幾個月……<hex:02100103>我們在這片海灘上看到港和一個年輕的男性捕魚人在一起，<hex:02100103>當時還跟他們聊了聊，兩人看起來十分融洽。
-74,TEXT_AKTKBA431_04123_TANSUI_000_112,之後他們結為夫婦，我們好幾次看到那二人一起在這片海灘活動，<hex:02100103>當時大家還都為她終於找到了能讓自己安心的歸宿而高興呢……
-75,TEXT_AKTKBA431_04123_YUGIRI_000_113,據拉札罕的報告書來看，<hex:02100103>偽神獸的行動很可能會受到其生前的人格和記憶的影響。
-76,TEXT_AKTKBA431_04123_HIEN_000_114,原來如此，偽神獸之所以會跑到這片海灘上，<hex:02100103>是因為這裡有港的美好回憶啊……
-77,TEXT_AKTKBA431_04123_TANSUI_000_115,這樣的話，偽神獸立刻逃跑的行為也可以解釋了。<hex:02100103>港本人就十分膽小。
-78,TEXT_AKTKBA431_04123_TANSUI_000_116,也許偽神獸的心中，還殘留著港的意識。<hex:02100103>多瑪的君主拔刀對著她，肯定把她給嚇壞了。
-79,TEXT_AKTKBA431_04123_HIEN_000_117,這麼說的話，偽神獸不襲擊藏匿著歸國者的歸燕館，<hex:02100103>也是因為有大量多瑪的武士守在那裡加強了防衛的緣故吧。<hex:02100103>不過，它這樣東躲西藏的，想抓住它也是難題。
-80,TEXT_AKTKBA431_04123_TANSUI_000_118,唉，說起來真是淒慘。<hex:02100103>港不但雙親被帝國軍所害，連丈夫都因帝國而死……<hex:02100103>最後還變成了那種怪物。
-81,TEXT_AKTKBA431_04123_TANSUI_000_119,總之，如果我們再發現了偽神獸的蹤跡會通知你們的。<hex:02100103>到了那時……就給她一個痛快，讓她解脫吧。
-82,TEXT_AKTKBA431_04123_RASHO_000_120,看來又讓偽神獸逃掉了。<hex:02100103>如果我們再發現它的蹤跡會通知你們的。
-83,TEXT_AKTKBA431_04123_TANSUI_000_121,港的人生苦難不斷。<hex:02100103>至少在最後給她一個痛快吧，<hex:02100103>讓她從這些痛苦中解脫……
-84,TEXT_AKTKBA431_04123_YUGIRI_000_122,逃得那麼快，即使是你也沒法射殺它吧。
-85,TEXT_AKTKBA431_04123_HIEN_000_130,既然偽神獸已經逃了，留在這裡也沒有意義了。<hex:02100103>我們先回多瑪飛地吧。
-86,TEXT_AKTKBA431_04123_YUGIRI_000_135,偽神獸之所以蹤跡難尋，<hex:02100103>也是因為港那膽小的性格害怕在人前露面的緣故吧。
-87,TEXT_AKTKBA431_04123_HIEN_000_151,不過我們總算掌握了偽神獸的行動規律，<hex:02100103>接下來就是怎麼討伐的問題了……
-88,TEXT_AKTKBA431_04123_KISEI_000_152,很抱歉打斷諸位，<hex:02100103>我有一個請求要對多瑪的君主飛燕大人說……
-89,TEXT_AKTKBA431_04123_HIEN_000_153,你就是祈請吧。<hex:02100103>有話你就說吧。
-90,TEXT_AKTKBA431_04123_KISEI_000_154,您將那些通過交換俘虜歸國的原帝國徵用兵<hex:02100103>藏在了歸燕館中吧？
-91,TEXT_AKTKBA431_04123_KISEI_000_155,他們都是命該戰死沙場、不該留在現世的應死之人。<hex:02100103>都是因為他們苟活了下來，才會讓逝者的靈魂痛苦不安！<hex:02100103>所以請您將這些人交還給伊邪那美大人處決！
-92,TEXT_AKTKBA431_04123_HIEN_000_156,我拒絕！
-93,TEXT_AKTKBA431_04123_HIEN_000_157,什麼叫應死之人！<hex:02100103>沒有任何人有權利隨意決定他人的生死！
-94,TEXT_AKTKBA431_04123_HIEN_000_158,武士之所以選擇背負罪業取人性命，<hex:02100103>是為了保護自己想要拯救的人！
-95,TEXT_AKTKBA431_04123_KISEI_000_159,既然您說要背負罪業，<hex:02100103>那為何又不殺十惡不赦的代理總督夜露！<hex:02100103>都是因為您的猶豫不決，才使我們如此痛苦！
-96,TEXT_AKTKBA431_04123_HIEN_000_160,在多瑪城時，我斬殺了想要傷害他人性命的夜露。<hex:02100103>那是因為她罪有應得，我殺了她這個代理總督，<hex:02100103>能夠救下許多性命。
-97,TEXT_AKTKBA431_04123_HIEN_000_161,但是，失去了記憶宛如稚子一般的夜露<hex:02100103>並不會危害他人的性命。<hex:02100103>所以我才沒有下令殺她。
-98,TEXT_AKTKBA431_04123_HIEN_000_162,你不認同這個判斷，認為這是我的過失，<hex:02100103>我都欣然接受……
-99,TEXT_AKTKBA431_04123_HIEN_000_163,但是我絕不可能把歸燕館中的歸國者們交給你！<hex:02100103>你們誰有覺悟背負罪業、為了拯救他人性命手染鮮血？<hex:02100103>有的話就站出來！！
-100,TEXT_AKTKBA431_04123_KISEI_000_164,就、就算你這樣說，但是我聽到那些逝者都在吶喊，<hex:02100103>他們說還有應死之人沒有去黃泉國！！
-101,TEXT_AKTKBA431_04123_GOSETSU_000_165,(-？？？？-)那些話真的是你口中的逝者說的嗎？
-102,TEXT_AKTKBA431_04123_GOSETSU_000_166,據說你有通靈死者靈魂的能力，<hex:02100103>不過在下受在帝國戰場上遇到的某人所託，幫他帶了一封信。
-103,TEXT_AKTKBA431_04123_GOSETSU_000_167,是給漁村的捕魚人秋津的信，<hex:02100103>你就是秋津吧，拿好了。
-104,TEXT_AKTKBA431_04123_AKITSU_000_168,這、這是……父親的信！<hex:02100103>上面說……他在戰場上受了重傷，目前還在療傷？！
-105,TEXT_AKTKBA431_04123_AKITSU_000_169,父親還活著！<hex:02100103>那、那所謂的通靈是……？
-106,TEXT_AKTKBA431_04123_GOSETSU_000_170,你是不是該解釋一下呢？
-107,TEXT_AKTKBA431_04123_KISEI_000_171,雖然我的兒媳很膽小，但卻很看重家人。<hex:02100103>她一定會為了我來讓你們付出代價的……
-108,TEXT_AKTKBA431_04123_GOSETSU_000_180,公子，剛才沒能打招呼，真是抱歉。<hex:02100103>老夫回來了。
-109,TEXT_AKTKBA431_04123_HIEN_000_181,噢噢，來得好。<hex:02100103>多虧你揭穿了祈請的騙局，<hex:02100103>那些被煽動的村民們應該也能清醒過來了。
-110,TEXT_AKTKBA431_04123_YUGIRI_000_182,真是幫了大忙啊，豪雪。<hex:02100103>看來偽神獸的事情你也了解過了。
-111,TEXT_AKTKBA431_04123_GOSETSU_000_183,我剛回到多瑪，就聽說有民眾鬧事，<hex:02100103>跟周圍的人打聽一下，大概知道了是怎麼回事。
-112,TEXT_AKTKBA431_04123_GOSETSU_000_184,我是在帝國境內進行悼念之旅時，<hex:02100103>偶遇了在抵抗軍療養所的秋津的父親。
-113,TEXT_AKTKBA431_04123_GOSETSU_000_185,雖然目前情況還不容樂觀，<hex:02100103>但能與諸位平安再會，老夫十分開心。
-114,TEXT_AKTKBA431_04123_HIEN_000_186,你是之前兄長獸化的那個孩子……是叫蜻蛉吧？
-115,TEXT_AKTKBA431_04123_TONBO_000_187,對、對不起！<hex:02100103>我之前口出狂言，說怨恨飛燕大人……是我不對！
-116,TEXT_AKTKBA431_04123_TONBO_000_188,不管我恨誰，死去的父親都不會回來了，<hex:02100103>我早該明白這一點的。
-117,TEXT_AKTKBA431_04123_HIEN_000_189,沒關係，你抬起頭來。
-118,TEXT_AKTKBA431_04123_TONBO_000_190,但是，哥哥他也無法怨恨那些無辜的人，所以才會絕望獸化。<hex:02100103>如果我再這樣糾結於父親的死，<hex:02100103>恐怕也會像哥哥一樣……我很害怕。
-119,TEXT_AKTKBA431_04123_TONBO_000_191,我很想讓父親入土為安，<hex:02100103>但父親連遺體都沒能回來……我連為他建一座墳墓都做不到。
-120,TEXT_AKTKBA431_04123_TONBO_000_192,對、對不起，這也不能怪飛燕大人。<hex:02100103>這都是沒辦法的事情。
-121,TEXT_AKTKBA431_04123_GOSETSU_000_193,在下旅行之時，在戰場遺址收殮了許多未被安葬的遺體。<hex:02100103>能像秋津父親那樣倖存下來的人少之又少，<hex:02100103>大部分徵用兵都生還無望。
-122,TEXT_AKTKBA431_04123_GOSETSU_000_194,所以，即使是騙局，<hex:02100103>也的確有人通過祈請的通靈得到了救贖。
-123,TEXT_AKTKBA431_04123_GOSETSU_000_195,除此之外，<hex:02100103>應該還有許多身懷怨恨、絕望纏身的人，<hex:02100103>只能將無處發洩的怒火轉向飛燕大人與歸國者們。
-124,TEXT_AKTKBA431_04123_GOSETSU_000_196,這些失去了一切的人，恐怕都像那個小子一樣，<hex:02100103>滿懷悲傷與絕望，隨時都有獸化的危險。
-125,TEXT_AKTKBA431_04123_HIEN_000_197,的確如此。<hex:02100103>即使揭穿了祈請的騙局，目前的狀況仍然沒有好轉。<hex:02100103>我們得盡快想辦法從根本上斷絕獸化可能性。
-126,TEXT_AKTKBA431_04123_HIEN_000_198,豪雪，你經歷了這一趟悼念之旅，<hex:02100103>還請你務必用你的智慧助我一臂之力。
-127,TEXT_AKTKBA431_04123_GOSETSU_000_199,公子放心吧，<hex:02100103>我拼了這把老骨頭也會奉陪到底的。
-128,TEXT_AKTKBA431_04123_GOSETSU_000_200,說到底，沒有殺死元兇夜露還將她帶回來的也是老夫。<hex:02100103>這件事老夫也有責任。
-129,TEXT_AKTKBA431_04123_HIEN_000_201,<hex:022903EB0203>，這次也辛苦你了。<hex:02100103>我接下來會繼續研究防止獸化的對策。<hex:02100103>時機成熟後，麻煩你再來幫幫忙。
+0,"TEXT_AKTKBA431_04123_SEQ_00","Yugiri appears armed and ready to leave the enclave, which can only mean one thing."
+1,"TEXT_AKTKBA431_04123_SEQ_01","The time to take up arms has come, for the blasphemy has been sighted in the Ruby Sea. As Hien and Yugiri prepare to meet with Rasho at Onokoro, he invites you to join them as they plan their next course of action."
+2,"TEXT_AKTKBA431_04123_SEQ_02","Rasho informs you that the blasphemy was sighted near Shoal Rock, and for reasons yet unknown, the beast remains idle. He believes it best to strike quickly so as to seize on its faineancy, and so Tansui proposes you entrap the beast by dividing your forces. While you search the islands together with Hien and Yugiri on foot, he and Rasho will circle about islands aboard a ship. And so the hunt begins along the shores of Shoal Rock."
+3,"TEXT_AKTKBA431_04123_SEQ_03","While you succeed in locating the blasphemy, but one glance at you and your comrades─weapons at the ready─is all it takes for the beast to take flight to parts unknown. Tansui arrives shortly after, and is taken aback upon learning the blasphemy was born from Minato. He reveals that he knew the woman, having rescued her at sea when her ship was sunk by imperial pursuers. Though her parents perished in the attack, she survived, albeit so traumatized by the experience that the mere sight of weapons drawn would drive her to scream in terror. She was eventually given into the care of Isari, where she found a husband, and together they frequented the beach where you found the blasphemy she became─all of which strongly suggests that these memories of her former life still influence her behavior as a beast."
+4,"TEXT_AKTKBA431_04123_SEQ_04","Though your prey has eluded you, Tansui's portrait of Minato gives you reason to believe that the blasphemy will return to the beach. Until then, however, there is nothing for you to do but join Hien at the Doman Enclave."
+5,"TEXT_AKTKBA431_04123_SEQ_05","Not long after you arrive at the Doman Enclave, Kisei appears with a number of villagers in tow. To appease the spirits of the deceased, she insists Hien render up the former conscripts as an offering to the kami Izanami. Hien summarily refuses, decrying the notion of sacrificing innocent lives. Though her followers' resolve begins to waver, Kisei will not be denied, but before she can press the issue, the long-absent Gosetsu reveals himself. Lord Hien's faithful retainer comes bearing a letter for Akitsu from his father─a man once taken by Garlemald and still very much alive, despite Kisei's earlier display of channeling his spirit. This revelation calls the truth of the priestess's powers into question, prompting her to leave in shame, but not before vowing revenge at the hands of her daughter–in–law.<hex:02100103><hex:02100103>The stunned and embarrassed villagers disperse, and soon after Tonbo steps forward to apologize to Hien. The youth goes on to voice his fear that he may one day succumb to despair and become a monster as his brother did, and with the villagers now disillusioned with Kisei, others may follow. Indeed, the people of Doma are yet burdened by loss and grief with which they have yet to come to terms. Hien recognizes this, and, with Gosetsu's counsel, hopes to find a means to provide them with a measure of comfort, that they may begin to heal.<hex:02100103><hex:02100103>※The next role quest will be available from Yugiri upon reaching level 89 in any physical ranged DPS class."
+6,"TEXT_AKTKBA431_04123_SEQ_06",""
+7,"TEXT_AKTKBA431_04123_SEQ_07",""
+8,"TEXT_AKTKBA431_04123_SEQ_08",""
+9,"TEXT_AKTKBA431_04123_SEQ_09",""
+10,"TEXT_AKTKBA431_04123_SEQ_10",""
+11,"TEXT_AKTKBA431_04123_SEQ_11",""
+12,"TEXT_AKTKBA431_04123_SEQ_12",""
+13,"TEXT_AKTKBA431_04123_SEQ_13",""
+14,"TEXT_AKTKBA431_04123_SEQ_14",""
+15,"TEXT_AKTKBA431_04123_SEQ_15",""
+16,"TEXT_AKTKBA431_04123_SEQ_16",""
+17,"TEXT_AKTKBA431_04123_SEQ_17",""
+18,"TEXT_AKTKBA431_04123_SEQ_18",""
+19,"TEXT_AKTKBA431_04123_SEQ_19",""
+20,"TEXT_AKTKBA431_04123_SEQ_20",""
+21,"TEXT_AKTKBA431_04123_SEQ_21",""
+22,"TEXT_AKTKBA431_04123_SEQ_22",""
+23,"TEXT_AKTKBA431_04123_SEQ_23",""
+24,"TEXT_AKTKBA431_04123_TODO_00","Speak with Rasho at Onokoro."
+25,"TEXT_AKTKBA431_04123_TODO_01","Speak with Hien."
+26,"TEXT_AKTKBA431_04123_TODO_02","Speak with Hien."
+27,"TEXT_AKTKBA431_04123_TODO_03","Speak with Hien at the Doman Enclave."
+28,"TEXT_AKTKBA431_04123_TODO_04",""
+29,"TEXT_AKTKBA431_04123_TODO_05",""
+30,"TEXT_AKTKBA431_04123_TODO_06",""
+31,"TEXT_AKTKBA431_04123_TODO_07",""
+32,"TEXT_AKTKBA431_04123_TODO_08",""
+33,"TEXT_AKTKBA431_04123_TODO_09",""
+34,"TEXT_AKTKBA431_04123_TODO_10",""
+35,"TEXT_AKTKBA431_04123_TODO_11",""
+36,"TEXT_AKTKBA431_04123_TODO_12",""
+37,"TEXT_AKTKBA431_04123_TODO_13",""
+38,"TEXT_AKTKBA431_04123_TODO_14",""
+39,"TEXT_AKTKBA431_04123_TODO_15",""
+40,"TEXT_AKTKBA431_04123_TODO_16",""
+41,"TEXT_AKTKBA431_04123_TODO_17",""
+42,"TEXT_AKTKBA431_04123_TODO_18",""
+43,"TEXT_AKTKBA431_04123_TODO_19",""
+44,"TEXT_AKTKBA431_04123_TODO_20",""
+45,"TEXT_AKTKBA431_04123_TODO_21",""
+46,"TEXT_AKTKBA431_04123_TODO_22",""
+47,"TEXT_AKTKBA431_04123_TODO_23",""
+48,"TEXT_AKTKBA431_04123_YUGIRI_000_000","You've arrived not a moment too soon. The blasphemy has been sighted on the coast. For a mercy, there are no reported casualties as of yet."
+49,"TEXT_AKTKBA431_04123_HIEN_000_001","Just the <hex:02080FE905FF06>woman<hex:FF04>man<hex:03> I was hoping to see. No sooner had we cast wide our net than a Confederate messenger was at our door."
+50,"TEXT_AKTKBA431_04123_HIEN_000_002","If you would join us, Rasho awaits our arrival at Onokoro."
+51,"TEXT_AKTKBA431_04123_TANSUI_000_005","Here about the blasphemy, yes? Lord Hien and Yugiri should be arriving soon enough."
+52,"TEXT_AKTKBA431_04123_RASHO_000_010","Well, now. That the noble lord of Doma should come in person once again. Mayhap these blasphemies truly are a threat."
+53,"TEXT_AKTKBA431_04123_HIEN_000_011","Indeed they are. And I was told you and yours sighted our quarry quite recently."
+54,"TEXT_AKTKBA431_04123_RASHO_000_012","Aye, that we did. Near the islands of Shoal Rock. The beast appeared to be docile by all accounts, but appearances can be deceiving."
+55,"TEXT_AKTKBA431_04123_RASHO_000_013","If it is as you say, and this blasphemy has eyes only for former conscripts, then we have naught to fear. I trust those we accepted into our care are still in yours at the Kienkan, enjoying the finest Doman hospitality?"
+56,"TEXT_AKTKBA431_04123_RASHO_000_014","Anyway, I know not why it came to the Ruby Sea, nor why it remains idle, but if we act quickly, there is a chance we can take it unawares."
+57,"TEXT_AKTKBA431_04123_TANSUI_000_015","I propose we divide our forces. If you're willing to go ashore, we'll take a ship and circle about the islands. The first to find it will have the honor of the kill."
+58,"TEXT_AKTKBA431_04123_HIEN_000_016","Hah, a simple enough plan. Shall we be off to Shoal Rock, then?"
+59,"TEXT_AKTKBA431_04123_RASHO_000_020","I had thought we earned a reprieve from battle with the imperial withdrawal, but it seems I was mistaken. So be it. I'll not suffer this monster to threaten us any longer."
+60,"TEXT_AKTKBA431_04123_TANSUI_000_021","I can't imagine it will take long to deal with this creature, once we corner it."
+61,"TEXT_AKTKBA431_04123_YUGIRI_000_022","Make ready, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Should we find the beast first, we must be prepared to strike at once."
+62,"TEXT_AKTKBA431_04123_HIEN_000_030","This is where the blasphemy was last sighted. If the fates are kind, this will all be over soon."
+63,"TEXT_AKTKBA431_04123_HIEN_000_101","Damn."
+64,"TEXT_AKTKBA431_04123_YUGIRI_000_102","Such speed. I doubt even my falcons could keep pace with it."
+65,"TEXT_AKTKBA431_04123_TANSUI_000_103","Bah, don't tell me that's the blasphemy flying off into the distance..."
+66,"TEXT_AKTKBA431_04123_HIEN_000_104","I hoped the ill will it bore me in life might compel the beast to stay and fight. Perhaps less of Minato remains than I thought─"
+67,"TEXT_AKTKBA431_04123_TANSUI_000_105","Minato? That monstrosity was <hex:021A020203>Minato<hex:021A020103>!?"
+68,"TEXT_AKTKBA431_04123_HIEN_000_106","You knew her?"
+69,"TEXT_AKTKBA431_04123_TANSUI_000_107","Her family tried to flee to Hingashi during the occupation, but their ship was raided and sunk."
+70,"TEXT_AKTKBA431_04123_TANSUI_000_108","When we happened upon the wreckage, she was huddled between her parents on a piece of flotsam, desperate to keep warm...but they had long since grown cold."
+71,"TEXT_AKTKBA431_04123_TANSUI_000_109","We took her to Onokoro where we nursed her back to health. Couldn't imagine what horrors she must've witnessed. The mere sight of our weapons was enough to make her start screaming..."
+72,"TEXT_AKTKBA431_04123_TANSUI_000_110","She was clearly unfit for our trade, so we sought a village that might take her in. Isari was that village."
+73,"TEXT_AKTKBA431_04123_TANSUI_000_111","Several months later, I chanced to meet her on this very beach. She was in the company of a young Auri fisherman, and I knew at once she had found more than a home there."
+74,"TEXT_AKTKBA431_04123_TANSUI_000_112","I saw them here many times after that. She found something comforting about this place, I think..."
+75,"TEXT_AKTKBA431_04123_YUGIRI_000_113","According to reports from Radz-at-Han, the memories and desires of those who turn can influence their behavior as blasphemies..."
+76,"TEXT_AKTKBA431_04123_HIEN_000_114","Then perhaps Minato's memories are what compelled the beast to come here."
+77,"TEXT_AKTKBA431_04123_TANSUI_000_115","That would also explain its timid nature."
+78,"TEXT_AKTKBA431_04123_TANSUI_000_116","Minato was never one for violence, and the sight of you, blade drawn, no doubt stirred what little of the woman remains in the monster."
+79,"TEXT_AKTKBA431_04123_HIEN_000_117","If that is the case, an assault on the Kienkan is unlikely, guarded as it is by our samurai. But how are we to fight an enemy so quick to flee at the first sign of danger?"
+80,"TEXT_AKTKBA431_04123_TANSUI_000_118","<sigh> Robbed of her parents, her husband...and now her life. I would rather we didn't have to at all."
+81,"TEXT_AKTKBA431_04123_TANSUI_000_119","But I understand full well the risk we take by doing nothing. If we catch sight of the blasphemy again, you will be the first to know. Perhaps next time we can put her soul to rest."
+82,"TEXT_AKTKBA431_04123_RASHO_000_120","Worry not, friend. We will keep watch for the blasphemy. You have my word."
+83,"TEXT_AKTKBA431_04123_TANSUI_000_121","Minato suffered enough in life. That her spirit should be made to suffer still even now is obscene. The blasphemy must be stopped."
+84,"TEXT_AKTKBA431_04123_YUGIRI_000_122","We scarcely had time to draw our weapons ere it fled. Perhaps we must reconsider our approach."
+85,"TEXT_AKTKBA431_04123_HIEN_000_130","There is naught to do now but bide our time. Come, let us return to the enclave."
+86,"TEXT_AKTKBA431_04123_YUGIRI_000_135","If the blasphemy fears to show itself, there is no telling how long it may take to track it down a second time."
+87,"TEXT_AKTKBA431_04123_HIEN_000_151","Given what we have learned, it seems likely that the blasphemy will return to Shoal Rock. But that knowledge will avail us naught if we cannot prevent it from escaping again..."
+88,"TEXT_AKTKBA431_04123_KISEI_000_152","Lord Hien. On behalf of the people of Isari, we are come with a request."
+89,"TEXT_AKTKBA431_04123_HIEN_000_153","We welcome you with open arms and open hearts. What is it you would ask of me?"
+90,"TEXT_AKTKBA431_04123_KISEI_000_154","Those returned to us in the prisoner exchange have been granted shelter at the Kienkan."
+91,"TEXT_AKTKBA431_04123_KISEI_000_155","That they yet live is an affront to the kami's grand design, and the spirits of our loved ones suffer for it. Balance must needs be restored, and so I beseech you to render them unto the goddess Izanami."
+92,"TEXT_AKTKBA431_04123_HIEN_000_156","Absolutely not."
+93,"TEXT_AKTKBA431_04123_HIEN_000_157","'Tis not our place to pray for the death of others, nor draw steel to sate mere bloodlust."
+94,"TEXT_AKTKBA431_04123_HIEN_000_158","When I take a life, be it by command or my own hand, I do so not in service to vengeance, but to uphold my duty to Doma and her people."
+95,"TEXT_AKTKBA431_04123_KISEI_000_159","How did your mercy for Yotsuyu serve your duty? How were your people made better by the sight of her walking free?"
+96,"TEXT_AKTKBA431_04123_HIEN_000_160","For her crimes and her cruelty, I cut her down the day we took Doma Castle. I sought to kill her, and by rights she should have died then and there."
+97,"TEXT_AKTKBA431_04123_HIEN_000_161","But the kami willed otherwise, and returned her to us alive and bereft of her memories."
+98,"TEXT_AKTKBA431_04123_HIEN_000_162","With no recollection of her deeds, it would have been Tsuyu who faced punishment, not Yotsuyu. This was my judgment, and for it you were denied the justice you deserved. You have every right to resent me."
+99,"TEXT_AKTKBA431_04123_HIEN_000_163","But you come before me and ask that I sacrifice men and women whose only “crime” was to suffer─to be condemned to a life of servitude! If you truly believe your cause to be sacrosanct─believe yourselves fit to bear the burden and swing the sword─then step forward!"
+100,"TEXT_AKTKBA431_04123_KISEI_000_164","Sophistry and lies! They were meant to die. The spirits demand it!"
+101,"TEXT_AKTKBA431_04123_GOSETSU_000_165","(-???-)Are these the words of the dead, or the living who yet mourn?"
+102,"TEXT_AKTKBA431_04123_GOSETSU_000_166","Word of the Isari priestess and her gifts has spread far and wide, and I thought to see the truth of it myself. By coincidence, I crossed paths with a traveler hailing from the selfsame village, who had a mind to return as well but, alas, could not. And so he bid me deliver a missive in his stead."
+103,"TEXT_AKTKBA431_04123_GOSETSU_000_167","Judging by the striking resemblance, I take it you are the young fisher Akitsu."
+104,"TEXT_AKTKBA431_04123_AKITSU_000_168","This...this is a letter from my father! He was severely wounded in battle, but expects to make a full recovery."
+105,"TEXT_AKTKBA431_04123_AKITSU_000_169","He's alive. But...that would mean..."
+106,"TEXT_AKTKBA431_04123_GOSETSU_000_170","Surely a woman of your talents can <hex:021A020203>divine<hex:021A020103> a plausible explanation for this turn of events."
+107,"TEXT_AKTKBA431_04123_KISEI_000_171","...You shall pay for this contumely. My daughter will make certain of that."
+108,"TEXT_AKTKBA431_04123_GOSETSU_000_180","Apologies for the abrupt and otherwise unannounced arrival. As you can see, my lord Hien, I am returned."
+109,"TEXT_AKTKBA431_04123_HIEN_000_181","Full glad am I for it. Thanks to your timely arrival, we have given the lie to Kisei's claims of preternatural powers."
+110,"TEXT_AKTKBA431_04123_YUGIRI_000_182","I gather you are apprised of recent events?"
+111,"TEXT_AKTKBA431_04123_GOSETSU_000_183","Aye. It did not take long to learn the state of affairs here in Doma, and that my assistance may be required."
+112,"TEXT_AKTKBA431_04123_GOSETSU_000_184","I had heard tales of Kisei channeling the dead, including the father of one young fisherman. Imagine my surprise when I saw this spirit in the flesh. He was also on pilgrimage, paying respects to the departed, and we chanced to meet in a Liberation Front infirmary."
+113,"TEXT_AKTKBA431_04123_GOSETSU_000_185","Would that we were not brought back together under such circumstances, but I am glad to see you all hale and hearty."
+114,"TEXT_AKTKBA431_04123_HIEN_000_186","Tonbo? Is something the matter?"
+115,"TEXT_AKTKBA431_04123_TONBO_000_187","I...I wish to apologize, Lord Hien. It was wrong of me to say the things I said."
+116,"TEXT_AKTKBA431_04123_TONBO_000_188","I understand nothing can bring back my father. But I was so angry, I..."
+117,"TEXT_AKTKBA431_04123_HIEN_000_189","Please, Tonbo, you needn't apologize."
+118,"TEXT_AKTKBA431_04123_TONBO_000_190","It's just... My brother was always so brave. But Father's death was more than he could bear, and it turned him into that monster. If he wasn't brave enough, what chance do I have...?"
+119,"TEXT_AKTKBA431_04123_TONBO_000_191","We wanted to perform the rites for Father. But the body was never returned to us, so..."
+120,"TEXT_AKTKBA431_04123_TONBO_000_192","N-Not that I blame you for that, Lord Hien. I understand nothing could be done..."
+121,"TEXT_AKTKBA431_04123_GOSETSU_000_193","That Akitsu's father survived is nothing short of a miracle, but I fear he is indeed the rare exception. I have offered prayers at more graves than I can count. It would be cruel to give others the false hope that their loved ones might return."
+122,"TEXT_AKTKBA431_04123_GOSETSU_000_194","And yet Kisei continues to do just that, offering comfort with her lies."
+123,"TEXT_AKTKBA431_04123_GOSETSU_000_195","A tempting but ephemeral balm for wounds that have yet to heal. Much like the anger some harbor for you, or resentment for the families restored while theirs remain broken..."
+124,"TEXT_AKTKBA431_04123_GOSETSU_000_196","But for those like that poor boy whose hearts lack for hatred, who know only sadness and despair... "
+125,"TEXT_AKTKBA431_04123_HIEN_000_197","Aye, they too may turn. Exposing the truth of Kisei's deception hasn't helped matters. If we are to prevent more suffering, we must pursue a lasting solution."
+126,"TEXT_AKTKBA431_04123_HIEN_000_198","I would be most grateful for your counsel, Gosetsu. There is much I could learn from your pilgrimage."
+127,"TEXT_AKTKBA431_04123_GOSETSU_000_199","If there is aught you require, but say the word and it shall be done."
+128,"TEXT_AKTKBA431_04123_GOSETSU_000_200","It is the least I can do for the part I played in Yotsuyu's tragedy. I failed her in the end, but I will not fail you, my lord."
+129,"TEXT_AKTKBA431_04123_HIEN_000_201","Thank you again for your aid, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. The day's events have given me much to consider. When our next step is decided, you will be first to know."

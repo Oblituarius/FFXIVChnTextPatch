@@ -2,28 +2,28 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_CMNDEFACHIEVEMENTREWARD_00107_JONATHAS_000_001,怎麼了，冒險者？<hex:02100103>想要給我講講什麼好玩的事情嗎？
-1,TEXT_CMNDEFACHIEVEMENTREWARD_00107_TERREMIAUX_Q1_01,想了解什麼？
-2,TEXT_CMNDEFACHIEVEMENTREWARD_00107_TERREMIAUX_A1_01,領取成就報酬
-3,TEXT_CMNDEFACHIEVEMENTREWARD_00107_TERREMIAUX_A1_02,你是做什麼的？
-4,TEXT_CMNDEFACHIEVEMENTREWARD_00107_TERREMIAUX_A1_03,取消
-5,TEXT_CMNDEFACHIEVEMENTREWARD_00107_TERREMIAUX_A1_04,成就幣交易
-6,TEXT_CMNDEFACHIEVEMENTREWARD_00107_JONATHAS_000_010,我年輕的時候……<hex:02100103>曾在沙漠城邦烏爾達哈的王宮裡擔任書記官。<hex:02100103>那都是很久以前的事了，當時還是王家持有實權。
-7,TEXT_CMNDEFACHIEVEMENTREWARD_00107_JONATHAS_000_011,如今，我不再記錄輝煌的王宮中所發生的事情，<hex:02100103>而是傾聽和記錄冒險者的故事，並樂在其中。
-8,TEXT_CMNDEFACHIEVEMENTREWARD_00107_JONATHAS_000_012,如果你達成可以被稱作「偉業」的豐功偉績，<hex:02100103>那就過來講給我聽一聽。<hex:02100103>當然，我會給予你相應的謝禮。
-9,TEXT_CMNDEFACHIEVEMENTREWARD_00107_SYSTEM_000_013,解開了特定的成就後，<hex:02100103>和喬納森對話就可以領取相應的報酬。
-10,TEXT_CMNDEFACHIEVEMENTREWARD_00107_SYSTEM_010_031,達成成就後可以獲得「成就點」，<hex:02100103>當成就點積累到一定程度後，<hex:02100103>可以領取用來交換報酬的「成就幣」。
-11,TEXT_CMNDEFACHIEVEMENTREWARD_00107_JONATHAS_000_030,你這一路走來，已經達成了多項偉業。<hex:02100103>我現將代表你長久積累的成就幣交託於你，<hex:02100103>你可以用它交換自己中意的報酬。
-12,TEXT_CMNDEFACHIEVEMENTREWARD_00107_SYSTEM_000_031,因成就點積累到了一定程度而獲得了「成就幣」。
-13,TEXT_CMNDEFACHIEVEMENTREWARD_00107_SYSTEM_000_032,成就幣可以用來向喬納森交換特別的獎勵。
-14,TEXT_CMNDEFACHIEVEMENTREWARD_00107_TERREMIAUX_Q4_01,領取哪個分類的報酬？
-15,TEXT_CMNDEFACHIEVEMENTREWARD_00107_TERREMIAUX_A4_01,分類：<hex:022814FF10>AchievementKind<hex:020103>
-16,TEXT_CMNDEFACHIEVEMENTREWARD_00107_TERREMIAUX_A4_02,分類：<hex:022814FF10>AchievementKind<hex:030103>
-17,TEXT_CMNDEFACHIEVEMENTREWARD_00107_TERREMIAUX_A4_03,分類：<hex:022814FF10>AchievementKind<hex:040103>
-18,TEXT_CMNDEFACHIEVEMENTREWARD_00107_TERREMIAUX_A4_04,分類：<hex:022814FF10>AchievementKind<hex:050103>
-19,TEXT_CMNDEFACHIEVEMENTREWARD_00107_TERREMIAUX_A4_05,分類：<hex:022814FF10>AchievementKind<hex:060103>
-20,TEXT_CMNDEFACHIEVEMENTREWARD_00107_TERREMIAUX_A4_07,分類：<hex:022814FF10>AchievementKind<hex:090103>
-21,TEXT_CMNDEFACHIEVEMENTREWARD_00107_TERREMIAUX_A4_08,分類：<hex:022814FF10>AchievementKind<hex:0C0103>
-22,TEXT_CMNDEFACHIEVEMENTREWARD_00107_TERREMIAUX_A4_09,分類：<hex:022814FF10>AchievementKind<hex:0D0103>
-23,TEXT_CMNDEFACHIEVEMENTREWARD_00107_TERREMIAUX_A4_10,取消
-24,TEXT_CMNDEFACHIEVEMENTREWARD_00107_SYSTEM_000_041,另外成就的完成報酬<hex:02100103>可以從快捷指令的成就列表中獲得。
+0,"TEXT_CMNDEFACHIEVEMENTREWARD_00107_JONATHAS_000_001","Hello there, young one. How very kind of you to offer a dodderin' old man like me a bit of company. Tell me, do you like tales? I do like a good tale, 'specially true ones told by them as lived it. If you have any of your own to share, I'd be all ears."
+1,"TEXT_CMNDEFACHIEVEMENTREWARD_00107_TERREMIAUX_Q1_01","What would you like to do?"
+2,"TEXT_CMNDEFACHIEVEMENTREWARD_00107_TERREMIAUX_A1_01","Accept achievement reward."
+3,"TEXT_CMNDEFACHIEVEMENTREWARD_00107_TERREMIAUX_A1_02","Ask about Jonathas."
+4,"TEXT_CMNDEFACHIEVEMENTREWARD_00107_TERREMIAUX_A1_03","Nothing."
+5,"TEXT_CMNDEFACHIEVEMENTREWARD_00107_TERREMIAUX_A1_04","Exchange achievement certificate."
+6,"TEXT_CMNDEFACHIEVEMENTREWARD_00107_JONATHAS_000_010","When I was a young man, I had the honor of working as a court scribe. Aye, in the good old days when my eyes were keen and the royal family still held true power in Ul'dah."
+7,"TEXT_CMNDEFACHIEVEMENTREWARD_00107_JONATHAS_000_011","Not a day seemed to go by that the royal palace didn't burst into a rainbow of colors with lavish functions and opulent feasts. Nowadays, though, it's true tales of adventure and derring-do that delight me most."
+8,"TEXT_CMNDEFACHIEVEMENTREWARD_00107_JONATHAS_000_012","If you've done any deeds you're proud of, I'd like it very much if you shared them with me. Might be as I'll even give you a little something in return."
+9,"TEXT_CMNDEFACHIEVEMENTREWARD_00107_SYSTEM_000_013","Completing certain achievements will earn you a reward, which can be collected by speaking with Jonathas."
+10,"TEXT_CMNDEFACHIEVEMENTREWARD_00107_SYSTEM_010_031","Every achievement completed grants achievement points, and accumulating a certain amount will earn you an achievement certificate."
+11,"TEXT_CMNDEFACHIEVEMENTREWARD_00107_JONATHAS_000_030","You've accomplished enough feats to keep the bards singing for a lifetime, <hex:02080EE905FF05>lass<hex:FF04>lad<hex:03>. Such an achievement shouldn't go unrecognized, and to that end I'd like you to have this. Consider it a token of my highest esteem.   "
+12,"TEXT_CMNDEFACHIEVEMENTREWARD_00107_SYSTEM_000_031","Your accrued achievement points have earned you an achievement certificate."
+13,"TEXT_CMNDEFACHIEVEMENTREWARD_00107_SYSTEM_000_032","Certificates may be exchanged for a special reward of your choice by speaking with Jonathas."
+14,"TEXT_CMNDEFACHIEVEMENTREWARD_00107_TERREMIAUX_Q4_01","Select an achievement category."
+15,"TEXT_CMNDEFACHIEVEMENTREWARD_00107_TERREMIAUX_A4_01","<hex:022814FF10>AchievementKind<hex:020103>."
+16,"TEXT_CMNDEFACHIEVEMENTREWARD_00107_TERREMIAUX_A4_02","<hex:022814FF10>AchievementKind<hex:030103>."
+17,"TEXT_CMNDEFACHIEVEMENTREWARD_00107_TERREMIAUX_A4_03","<hex:022814FF10>AchievementKind<hex:040103>."
+18,"TEXT_CMNDEFACHIEVEMENTREWARD_00107_TERREMIAUX_A4_04","<hex:022814FF10>AchievementKind<hex:050103>."
+19,"TEXT_CMNDEFACHIEVEMENTREWARD_00107_TERREMIAUX_A4_05","<hex:022814FF10>AchievementKind<hex:060103>."
+20,"TEXT_CMNDEFACHIEVEMENTREWARD_00107_TERREMIAUX_A4_07","<hex:022814FF10>AchievementKind<hex:090103>."
+21,"TEXT_CMNDEFACHIEVEMENTREWARD_00107_TERREMIAUX_A4_08","<hex:022814FF10>AchievementKind<hex:0C0103>."
+22,"TEXT_CMNDEFACHIEVEMENTREWARD_00107_TERREMIAUX_A4_09","<hex:022814FF10>AchievementKind<hex:0D0103>."
+23,"TEXT_CMNDEFACHIEVEMENTREWARD_00107_TERREMIAUX_A4_10","Cancel."
+24,"TEXT_CMNDEFACHIEVEMENTREWARD_00107_SYSTEM_000_041","Rewards may also be redeemed directly from the Achievements menu under Character of the main menu. "

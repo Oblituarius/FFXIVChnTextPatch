@@ -2,117 +2,117 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_JOBWHM650_02416_SEQ_00,帝國東方堡的希爾菲想向冒險者提一個建議。
-1,TEXT_JOBWHM650_02416_SEQ_01,希爾菲多次遇見了嘉蒂，可每次都被她逃掉。為了從上次嘉蒂逃掉的地方進行調查，前往基拉巴尼亞邊區的東境混交林，在<hex:02280CFF05>EObj<hex:F61EA29F0103>進行張望。
-2,TEXT_JOBWHM650_02416_SEQ_02,在<hex:02280CFF05>EObj<hex:F61EA29F0103>進行了張望。追上希爾菲，在<hex:02280CFF05>EObj<hex:F61EA2A00103>再次進行張望。
-3,TEXT_JOBWHM650_02416_SEQ_03,在<hex:02280CFF05>EObj<hex:F61EA2A00103>再次進行了張望。追上希爾菲，在基拉巴尼亞邊區的昏暗林的<hex:02280CFF05>EObj<hex:F61EA2A10103>繼續進行張望。
-4,TEXT_JOBWHM650_02416_SEQ_04,在<hex:02280CFF05>EObj<hex:F61EA2A10103>繼續進行張望時，發現監視冒險者等人的女獵人逃走了。她或許知道些什麼事。追上昏暗林逃走的女獵人，與希爾菲匯合。
-5,TEXT_JOBWHM650_02416_SEQ_05,與希爾菲匯合了。得知女獵人是嘉蒂的母親，而嘉蒂則是角尊。母親突然的發病使得嘉蒂驚慌失措，她的魔力引來了一大群妖異，冒險者和希爾菲一起討伐了妖異。與基拉巴尼亞邊區的希爾菲匯合。
-6,TEXT_JOBWHM650_02416_SEQ_06,母親其實是違反了格里達尼亞的規定，將身為角尊的女兒藏了起來。希爾菲做出保證，不向幻術師公會進行報告，同時提出與冒險者一起幫助母女。為了討論今後的事，和帝國東方堡的希爾菲談談。
-7,TEXT_JOBWHM650_02416_SEQ_07,和希爾菲進行了交談。很小就失去了母親的希爾菲，強烈希望嘉蒂能與母親一同生活。年幼的角尊能否打破格里達尼亞的規定，與母親共同生活？<hex:02100103><hex:02100103>※白魔法師的等級達到68級以上時，可以從帝國東方堡的希爾菲那裡領取下一個白魔法師任務。
-8,TEXT_JOBWHM650_02416_SEQ_08,
-9,TEXT_JOBWHM650_02416_SEQ_09,
-10,TEXT_JOBWHM650_02416_SEQ_10,
-11,TEXT_JOBWHM650_02416_SEQ_11,
-12,TEXT_JOBWHM650_02416_SEQ_12,
-13,TEXT_JOBWHM650_02416_SEQ_13,
-14,TEXT_JOBWHM650_02416_SEQ_14,
-15,TEXT_JOBWHM650_02416_SEQ_15,
-16,TEXT_JOBWHM650_02416_SEQ_16,
-17,TEXT_JOBWHM650_02416_SEQ_17,
-18,TEXT_JOBWHM650_02416_SEQ_18,
-19,TEXT_JOBWHM650_02416_SEQ_19,
-20,TEXT_JOBWHM650_02416_SEQ_20,
-21,TEXT_JOBWHM650_02416_SEQ_21,
-22,TEXT_JOBWHM650_02416_SEQ_22,
-23,TEXT_JOBWHM650_02416_SEQ_23,
-24,TEXT_JOBWHM650_02416_TODO_00,在<hex:02280CFF05>EObj<hex:F61EA29F0103>張望
-25,TEXT_JOBWHM650_02416_TODO_01,在<hex:02280CFF05>EObj<hex:F61EA2A00103>再次張望
-26,TEXT_JOBWHM650_02416_TODO_02,在<hex:02280CFF05>EObj<hex:F61EA2A10103>繼續張望
-27,TEXT_JOBWHM650_02416_TODO_03,和希爾菲匯合
-28,TEXT_JOBWHM650_02416_TODO_04,和希爾菲匯合
-29,TEXT_JOBWHM650_02416_TODO_05,和希爾菲對話
-30,TEXT_JOBWHM650_02416_TODO_06,
-31,TEXT_JOBWHM650_02416_TODO_07,
-32,TEXT_JOBWHM650_02416_TODO_08,
-33,TEXT_JOBWHM650_02416_TODO_09,
-34,TEXT_JOBWHM650_02416_TODO_10,
-35,TEXT_JOBWHM650_02416_TODO_11,
-36,TEXT_JOBWHM650_02416_TODO_12,
-37,TEXT_JOBWHM650_02416_TODO_13,
-38,TEXT_JOBWHM650_02416_TODO_14,
-39,TEXT_JOBWHM650_02416_TODO_15,
-40,TEXT_JOBWHM650_02416_TODO_16,
-41,TEXT_JOBWHM650_02416_TODO_17,
-42,TEXT_JOBWHM650_02416_TODO_18,
-43,TEXT_JOBWHM650_02416_TODO_19,
-44,TEXT_JOBWHM650_02416_TODO_20,
-45,TEXT_JOBWHM650_02416_TODO_21,
-46,TEXT_JOBWHM650_02416_TODO_22,
-47,TEXT_JOBWHM650_02416_TODO_23,
-48,TEXT_JOBWHM650_02416_SYLPHIE_000_000,<hex:022903EB0203>，你來了啊！<hex:02100103>在那之後我遇到了嘉蒂好幾次，<hex:02100103>可每次都被她逃掉……
-49,TEXT_JOBWHM650_02416_SYLPHIE_000_001,不過我發現，只要順著元靈的躁動找，<hex:02100103>就能找到她。
-50,TEXT_JOBWHM650_02416_SYLPHIE_000_002,今天元靈們也很焦躁不安，很有可能會出現妖異，<hex:02100103>我覺得可以去找一下看看，能不能請你也一起來呢？<hex:02100103>就從上次我跟丟的地方找起吧！
-51,TEXT_JOBWHM650_02416_SYLPHIE_000_010,先別打擾我……<hex:02100103>我想傾聽一下微弱的元靈之聲……<hex:02100103>你也找找看吧。
-52,TEXT_JOBWHM650_02416_SYLPHIE_000_011,……雖然很微弱，<hex:02100103>不過在那邊能夠感到不安的躁動。<hex:02100103>跟我來。
-53,TEXT_JOBWHM650_02416_SYLPHIE_000_020,已經很接近了……<hex:02100103>你也靜下心來，找找四周吧。
-54,TEXT_JOBWHM650_02416_SYLPHIE_000_021,有你在讓我很安心啊，不知道是不是這個原因，<hex:02100103>使我能夠清楚地聽到元靈之聲。<hex:02100103>這邊，跟我來。
-55,TEXT_JOBWHM650_02416_SYLPHIE_000_029,我沒怎麼來過這裡呢……<hex:02100103>感覺很潮濕啊……
-56,TEXT_JOBWHM650_02416_SYLPHIE_000_030,這附近雙蛇黨的監視也不是很全面。<hex:02100103>不過帝國軍也不會專門跑到濕地來吧。
-57,TEXT_JOBWHM650_02416_SANCHE_000_031,(-女獵人-)……
-58,TEXT_JOBWHM650_02416_SYLPHIE_000_032,你看到了嗎？<hex:02100103>那個女獵人……她沒準就是嘉蒂的母親！<hex:02100103>快追上去吧！
-59,TEXT_JOBWHM650_02416_SANCHE_000_039,該死的幻術師，快離開這裡！<hex:02100103>不然就射穿你們的心臟！
-60,TEXT_JOBWHM650_02416_SYLPHIE_000_040,<hex:022903EB0203>，<hex:02100103>那個人看起來很生氣啊……
-61,TEXT_JOBWHM650_02416_SANCHE_000_041,該死的幻術師……是來抓我女兒的吧！<hex:02100103>我是不會把女兒交給你們的！<hex:02100103>不想被射穿心臟的話，就快離開這裡！
-62,TEXT_JOBWHM650_02416_SYLPHIE_000_042,你就是嘉蒂的媽媽吧。<hex:02100103>我們不是來帶走你女兒的！<hex:02100103>而是來幫助她的！！
-63,TEXT_JOBWHM650_02416_SANCHE_000_050,(-女獵人-)幻術師說的話，誰會相信！<hex:02100103>快……哈、哈……快回去！
-64,TEXT_JOBWHM650_02416_SANCHE_000_051,(-女獵人-)唔……偏偏在……這時候……
-65,TEXT_JOBWHM650_02416_GATTY_000_052,媽媽，你沒事吧？！
-66,TEXT_JOBWHM650_02416_SANCHE_000_053,(-女獵人-)哈……哈……哈……<hex:02100103>嘉蒂……不要過來……快藏起來！<hex:02100103>老毛病而已，一會就好了……唔唔……
-67,TEXT_JOBWHM650_02416_SYLPHIE_000_054,啊……角？<hex:02100103>你莫非是，角尊？！
-68,TEXT_JOBWHM650_02416_GATTY_000_055,媽媽！<hex:02100103>不，不要死啊！！
-69,TEXT_JOBWHM650_02416_SYLPHIE_100_055,這……這是何等強力的魔力奔流……
-70,TEXT_JOBWHM650_02416_SYLPHIE_000_056,想要取食嘉蒂魔力的妖異出現了！<hex:02100103>要保護好她才行！
-71,TEXT_JOBWHM650_02416_QIB_001_TODO_1,保護嘉蒂！
-72,TEXT_JOBWHM650_02416_SYLPHIE_BATTLETALK_00,從嘉蒂體內溢出的魔力，引來了一大群妖異啊！
-73,TEXT_JOBWHM650_02416_SYLPHIE_BATTLETALK_01,我來治療母親！<hex:02100103>就拜託你討伐妖異，保護嘉蒂了！
-74,TEXT_JOBWHM650_02416_SYLPHIE_BATTLETALK_02,唔……嘉蒂的魔力一直在溢出！<hex:02100103>連虛無裂痕都打開了！
-75,TEXT_JOBWHM650_02416_SYLPHIE_BATTLETALK_03,這麼大的虛無裂痕？！<hex:02100103><hex:022903EB0203>，小心！！
-76,TEXT_JOBWHM650_02416_SYLPHIE_BATTLETALK_04,嘉蒂耗盡了魔力，失去了意識。<hex:02100103>已經不會再溢出魔力了，沒事了。
-77,TEXT_JOBWHM650_02416_SYLPHIE_000_060,嘉蒂只是耗盡了魔力，睡著了而已。<hex:02100103>休息一會後，就會醒了。
-78,TEXT_JOBWHM650_02416_SYLPHIE_000_061,相比之下，母親你這邊才更需要好好休養。<hex:02100103>……你的心臟，情況不是很好啊。<hex:02100103>雖然用幻術治癒了一下，不過也只是應急措施而已。
-79,TEXT_JOBWHM650_02416_SANCHE_000_062,(-嘉蒂的母親-)只是老毛病惡化了……<hex:02100103>謝謝你們救了我。<hex:02100103>不過，我是不會交出嘉蒂的，能不能請你們回去？
-80,TEXT_JOBWHM650_02416_SYLPHIE_000_063,請聽我說。<hex:02100103>我們不是為了帶走嘉蒂才四處找她的。<hex:02100103>如果想帶走她的話，在你失去意識的時候就已經帶走了。
-81,TEXT_JOBWHM650_02416_SYLPHIE_000_064,我們只想平息元靈的躁動……<hex:02100103>為此，只要讓妖異不再襲擊嘉蒂就可以了。
-82,TEXT_JOBWHM650_02416_SANCHE_000_065,(-嘉蒂的母親-)有辦法讓那些怪物遠離我女兒？<hex:02100103>確實，我發病的頻率也變高了，<hex:02100103>怪物也在增加，很是困擾。
-83,TEXT_JOBWHM650_02416_SYLPHIE_000_066,我叫希爾菲，這是<hex:022903EB0203>……<hex:02100103>我們想幫助你們母女，<hex:02100103>可以的話跟我們講講吧……
-84,TEXT_JOBWHM650_02416_SANCHE_000_067,(-嘉蒂的母親-)不、不行……<hex:02100103>我信不過格里達尼亞的幻術師。<hex:02100103>如果你們不回去的話，就算是恩人我也不會留情……
-85,TEXT_JOBWHM650_02416_SYLPHIE_000_068,請等下！！<hex:02100103>我保證，不會向公會報告！<hex:02100103>這是我們之間的秘密，對吧<hex:022903EB0203>？
-86,TEXT_JOBWHM650_02416_SANCHE_000_069,(-嘉蒂的母親-)你們看起來和那些不知變通的幻術師不一樣呢……<hex:02100103>我知道了，那就信你們好了。<hex:02100103>請原諒我之前的無禮……
-87,TEXT_JOBWHM650_02416_SANCHE_000_070,……我叫珊琪，正如你們所見，是名獵人。<hex:02100103>12年前，我抱著剛出生的嬰兒，<hex:02100103>逃出了格里達尼亞。
-88,TEXT_JOBWHM650_02416_SANCHE_000_071,因為這孩子……嘉蒂是角尊……
-89,TEXT_JOBWHM650_02416_SYLPHIE_000_072,住在格里達尼亞的中原之民中，<hex:02100103>很偶爾會出生長著角的孩子……角尊……<hex:02100103>與生俱來擁有強大的魔力，是元靈與人類溝通的橋樑……
-90,TEXT_JOBWHM650_02416_SANCHE_000_073,是啊，因為身負重要的使命，所以作為角尊出生的孩子，<hex:02100103>都會被幻術師公會領走，進行特別的教育。<hex:02100103>這是格里達尼亞的規定……
-91,TEXT_JOBWHM650_02416_SANCHE_000_074,可是我沒能交出嘉蒂……<hex:02100103>她可是我死去的丈夫留給我的寶貝，是我唯一的至親啊！<hex:02100103>為了能和女兒一起生活，我捨棄了故鄉，翻越了城壁！
-92,TEXT_JOBWHM650_02416_SYLPHIE_000_075,想必你吃了不少苦吧……<hex:02100103>靠著偉大的愛與壯烈的決意，<hex:02100103>一邊保護嘉蒂一邊在這裡生活……
-93,TEXT_JOBWHM650_02416_SYLPHIE_000_076,不過……嘉蒂之所以被妖異襲擊，<hex:02100103>是因為她沒能抑制好體內強大的魔力。
-94,TEXT_JOBWHM650_02416_SYLPHIE_000_077,估計她很擔心你的身體狀況，<hex:02100103>所以才會慌亂動搖、釋放魔力……<hex:02100103>如果這麼下去的話，很有可能會被衝著魔力而來的妖異殺死。
-95,TEXT_JOBWHM650_02416_SANCHE_000_078,……怎麼會這樣！<hex:02100103>我的性命怎樣都無所謂，<hex:02100103>請保護好我女兒……保護好嘉蒂！
-96,TEXT_JOBWHM650_02416_SYLPHIE_000_079,我會試著治療你的病和指導嘉蒂的！<hex:02100103>當然，會跟公會保密！<hex:02100103>只要嘉蒂能夠抑制住魔力，妖異的問題就解決了。
-97,TEXT_JOBWHM650_02416_SYLPHIE_000_080,嘉蒂，你醒啦！<hex:02100103>你母親的病我已經用魔法治好了。<hex:02100103>你要不要也學習一下魔法呢？
-98,TEXT_JOBWHM650_02416_GATTY_100_080,我嗎？
-99,TEXT_JOBWHM650_02416_GATTY_000_081,希爾菲，如果能治好媽媽的病，<hex:02100103>那我也要學習魔法！
-100,TEXT_JOBWHM650_02416_SANCHE_000_082,謝謝你們，<hex:02100103>那麼，我們先回家了。
-101,TEXT_JOBWHM650_02416_SYLPHIE_000_083,<hex:022903EB0203>，<hex:02100103>我和嘉蒂聊一聊再回去。<hex:02100103>有關今後的事，等回到帝國東方堡說吧。
-102,TEXT_JOBWHM650_02416_GATTY_000_089,對不起，我每次見到你都逃走……<hex:02100103>其實，我很想和你說話呢，<hex:02100103>可是媽媽說不行，所以……
-103,TEXT_JOBWHM650_02416_SANCHE_000_089,真是謝謝你們了。<hex:02100103>女兒很期待與你們見面呢。<hex:02100103>因為以前我都避免讓她與別人接觸。
-104,TEXT_JOBWHM650_02416_SYLPHIE_000_090,對不起，我擅自做了決定……<hex:02100103>不過，拜託了，<hex:02100103>嘉蒂她們的事不要告訴艾·斯密大人他們。
-105,TEXT_JOBWHM650_02416_Q1_000_000,是否幫忙保密？
-106,TEXT_JOBWHM650_02416_A1_000_001,果然還是與艾·斯密大人談談
-107,TEXT_JOBWHM650_02416_A1_000_002,幫忙保密！
-108,TEXT_JOBWHM650_02416_A1_000_003,……
-109,TEXT_JOBWHM650_02416_SYLPHIE_000_091,告訴艾·斯密大人的話，定會拆散她們母女。<hex:02100103>到時候，嘉蒂的不安就會到達極點，<hex:02100103>那樣的話會很危險……所以拜託了！
-110,TEXT_JOBWHM650_02416_SYLPHIE_000_092,謝謝你！<hex:02100103>告訴艾·斯密大人的話，定會拆散她們母女。<hex:02100103>那樣的話，嘉蒂的內心會變得更加不安。
-111,TEXT_JOBWHM650_02416_SYLPHIE_100_092,看樣子你並不反對。<hex:02100103>告訴艾·斯密大人的話，定會拆散她們母女。<hex:02100103>那樣的話，嘉蒂的內心會變得更加不安……
-112,TEXT_JOBWHM650_02416_SYLPHIE_000_093,我很小的時候就失去了母親，<hex:02100103>所以我不想讓嘉蒂和我遭受同樣的痛苦。<hex:02100103>當然，我不是在感情用事。
-113,TEXT_JOBWHM650_02416_SYLPHIE_000_094,治療珊琪，指導嘉蒂……<hex:02100103>哪個都不簡單呢，我要好好努力才行！<hex:02100103>所以，還希望你能助我一臂之力，拜託了！
+0,"TEXT_JOBWHM650_02416_SEQ_00","Sylphie is eager to resume the search for Gatty."
+1,"TEXT_JOBWHM650_02416_SEQ_01","Sylphie explains that although she has spotted Gatty on several occasions, the girl always flees before she has a chance to speak to her. Using the whispers of the elementals as a guide, Sylphie is convinced that Gatty will soon be found again. Head to the area where she last saw the elusive child and begin another search."
+2,"TEXT_JOBWHM650_02416_SEQ_02","As you scan the area, Sylphie senses a thread of unease to the south. Follow the acolyte and continue your search for the girl."
+3,"TEXT_JOBWHM650_02416_SEQ_03","The sense of unease has grown stronger, leading you further south."
+4,"TEXT_JOBWHM650_02416_SEQ_04","As you survey the area, you become aware that you are being watched by someone on the far bank of the river. You recognize the huntress, but she flees when she sees that you have spotted her. Sylphie gives chase, leaving you no choice but to hurry after them both."
+5,"TEXT_JOBWHM650_02416_SEQ_05","You catch up to Sylphie to find her being threatened at arrowpoint. After a brief exchange, however, the huntress falls to her knees in obvious distress. A frantic Gatty then bursts from hiding, and is revealed to be a Padjal. Her aether flares wildly, the energies drawing in waves of hungry voidsent which you and Sylphie are forced to engage in battle. Speak with the acolyte once more."
+6,"TEXT_JOBWHM650_02416_SEQ_06","Once the fiends are defeated, you learn that the huntress─Gatty's mother, Sanche─fled Gridania with her newborn child rather than hand her over to the Conjurers' Guild. Sylphie warns of the danger the girl's untamed aether represents, and offers to teach Gatty without betraying her presence to the guildmaster. Return to Castrum Oriens, and learn how Sylphie means to proceed."
+7,"TEXT_JOBWHM650_02416_SEQ_07","Sylphie seems determined to allow Gatty to remain with her mother, and you feel compelled to go along with her plan. You wonder, however, if defying Gridania's traditions is truly the safest path for the young Padjal...<hex:02100103><hex:02100103>※The next white mage quest will be available from Sylphie upon reaching level 68."
+8,"TEXT_JOBWHM650_02416_SEQ_08",""
+9,"TEXT_JOBWHM650_02416_SEQ_09",""
+10,"TEXT_JOBWHM650_02416_SEQ_10",""
+11,"TEXT_JOBWHM650_02416_SEQ_11",""
+12,"TEXT_JOBWHM650_02416_SEQ_12",""
+13,"TEXT_JOBWHM650_02416_SEQ_13",""
+14,"TEXT_JOBWHM650_02416_SEQ_14",""
+15,"TEXT_JOBWHM650_02416_SEQ_15",""
+16,"TEXT_JOBWHM650_02416_SEQ_16",""
+17,"TEXT_JOBWHM650_02416_SEQ_17",""
+18,"TEXT_JOBWHM650_02416_SEQ_18",""
+19,"TEXT_JOBWHM650_02416_SEQ_19",""
+20,"TEXT_JOBWHM650_02416_SEQ_20",""
+21,"TEXT_JOBWHM650_02416_SEQ_21",""
+22,"TEXT_JOBWHM650_02416_SEQ_22",""
+23,"TEXT_JOBWHM650_02416_SEQ_23",""
+24,"TEXT_JOBWHM650_02416_TODO_00","Survey the area."
+25,"TEXT_JOBWHM650_02416_TODO_01","Survey the area to the south."
+26,"TEXT_JOBWHM650_02416_TODO_02","Survey the area further to the south."
+27,"TEXT_JOBWHM650_02416_TODO_03","Catch up to Sylphie."
+28,"TEXT_JOBWHM650_02416_TODO_04","Speak with Sylphie."
+29,"TEXT_JOBWHM650_02416_TODO_05","Speak with Sylphie."
+30,"TEXT_JOBWHM650_02416_TODO_06",""
+31,"TEXT_JOBWHM650_02416_TODO_07",""
+32,"TEXT_JOBWHM650_02416_TODO_08",""
+33,"TEXT_JOBWHM650_02416_TODO_09",""
+34,"TEXT_JOBWHM650_02416_TODO_10",""
+35,"TEXT_JOBWHM650_02416_TODO_11",""
+36,"TEXT_JOBWHM650_02416_TODO_12",""
+37,"TEXT_JOBWHM650_02416_TODO_13",""
+38,"TEXT_JOBWHM650_02416_TODO_14",""
+39,"TEXT_JOBWHM650_02416_TODO_15",""
+40,"TEXT_JOBWHM650_02416_TODO_16",""
+41,"TEXT_JOBWHM650_02416_TODO_17",""
+42,"TEXT_JOBWHM650_02416_TODO_18",""
+43,"TEXT_JOBWHM650_02416_TODO_19",""
+44,"TEXT_JOBWHM650_02416_TODO_20",""
+45,"TEXT_JOBWHM650_02416_TODO_21",""
+46,"TEXT_JOBWHM650_02416_TODO_22",""
+47,"TEXT_JOBWHM650_02416_TODO_23",""
+48,"TEXT_JOBWHM650_02416_SYLPHIE_000_000","Hello, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, I thought you might be along soon. As for Gatty, I've spotted her more than a few times, but she flees the moment she sees me..."
+49,"TEXT_JOBWHM650_02416_SYLPHIE_000_001","One thing I've learned, though, is that wherever the whispers lead, then that's where Gatty is to be found."
+50,"TEXT_JOBWHM650_02416_SYLPHIE_000_002","And since the forest spirits are particularly agitated today, we should have no trouble tracking her down. Come with me to the place we lost her the last time─we can start our search from there."
+51,"TEXT_JOBWHM650_02416_SYLPHIE_000_010","Please, I have to concentrate on the whispers─it's a little difficult to hear them when someone is gabbing in my ear. Why don't you take a look around?"
+52,"TEXT_JOBWHM650_02416_SYLPHIE_000_011","It's terribly faint, but I sense a thread of unease leading away from here. Come on, it's this way."
+53,"TEXT_JOBWHM650_02416_SYLPHIE_000_020","We're getting close now. Can you feel it? Quiet your mind, and reach out with your senses..."
+54,"TEXT_JOBWHM650_02416_SYLPHIE_000_021","When you're around, I find I can hear the voices of the elementals more clearly. I suppose it's easier to be tranquil when you have a veteran white mage at your side! Let's move on, shall we?"
+55,"TEXT_JOBWHM650_02416_SYLPHIE_000_029","I rarely venture this far south...<hex:02100103>The air always feels so heavy."
+56,"TEXT_JOBWHM650_02416_SYLPHIE_000_030","The serpent scouts don't often venture into this area. ...I suppose there aren't a lot of imperial troops wandering around in the muck."
+57,"TEXT_JOBWHM650_02416_SANCHE_000_031","(-Stern Huntress-)......"
+58,"TEXT_JOBWHM650_02416_SYLPHIE_000_032","Did you see her? I think that might be Gatty's mother! Come on, let's go!"
+59,"TEXT_JOBWHM650_02416_SANCHE_000_039","Get away from us, conjurer, or I swear this arrow will find a new home in your meddling heart!"
+60,"TEXT_JOBWHM650_02416_SYLPHIE_000_040","Careful, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. She seems awfully angry for some reason..."
+61,"TEXT_JOBWHM650_02416_SANCHE_000_041","I know why you're here, and you'll not have her! Now unless you want to sprout feathers, it's time for you to leave!"
+62,"TEXT_JOBWHM650_02416_SYLPHIE_000_042","You're Gatty's mother, aren't you? We're not here to take her away─we're here to help her!"
+63,"TEXT_JOBWHM650_02416_SANCHE_000_050","(-Stern Huntress-)I'll not fall for your lies, conjurer! Get away...<gasp>...from us!"
+64,"TEXT_JOBWHM650_02416_SANCHE_000_051","(-Stern Huntress-)Ugh... Not...now..."
+65,"TEXT_JOBWHM650_02416_GATTY_000_052","Mama!?"
+66,"TEXT_JOBWHM650_02416_SANCHE_000_053","(-Stern Huntress-)<gasp> <pant><hex:02100103>No, Gatty! They'll...see you...<hex:02100103>I'm fine! It's just...one of my turns..."
+67,"TEXT_JOBWHM650_02416_SYLPHIE_000_054","Gatty, you─ You're a Padjal!?"
+68,"TEXT_JOBWHM650_02416_GATTY_000_055","Mama, no! You can't..."
+69,"TEXT_JOBWHM650_02416_SYLPHIE_100_055","Ugh! The aether, it's...it's overwhelming!"
+70,"TEXT_JOBWHM650_02416_SYLPHIE_000_056","And the voidsent have come to feed! We can't let them hurt her!"
+71,"TEXT_JOBWHM650_02416_QIB_001_TODO_1","Protect Gatty!"
+72,"TEXT_JOBWHM650_02416_SYLPHIE_BATTLETALK_00","The fiends are drawn to the girl's energies."
+73,"TEXT_JOBWHM650_02416_SYLPHIE_BATTLETALK_01","I'll take care of the mother; you protect Gatty and strike down those voidsent!"
+74,"TEXT_JOBWHM650_02416_SYLPHIE_BATTLETALK_02","Gatty's aura, it's...it's like a floodgate has opened. There are cracks opening right into the void!"
+75,"TEXT_JOBWHM650_02416_SYLPHIE_BATTLETALK_03","I don't like the looks of that big rift! Watch yourself, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>!"
+76,"TEXT_JOBWHM650_02416_SYLPHIE_BATTLETALK_04","Gatty's energies seem spent.<hex:02100103>I think we're in the clear for now."
+77,"TEXT_JOBWHM650_02416_SYLPHIE_000_060","Gatty's fine─just exhausted from expelling so much aether. She'll wake up after she's had a chance to rest."
+78,"TEXT_JOBWHM650_02416_SYLPHIE_000_061","Speaking of which, you should be resting, too. Your heart's in bad shape, isn't it? I managed to calm the attack, but the condition itself is beyond my art to heal."
+79,"TEXT_JOBWHM650_02416_SANCHE_000_062","(-Gatty's Mother-)It grows worse by the day...<hex:02100103>I am grateful for all you've done today, conjurer, but naught has changed: my daughter stays with me. Please, just leave us..."
+80,"TEXT_JOBWHM650_02416_SYLPHIE_000_063","Listen to me: <hex:021A020203>we did not come to whisk away your child<hex:021A020103>. If we'd wanted to, we could've taken her while you lay senseless."
+81,"TEXT_JOBWHM650_02416_SYLPHIE_000_064","We came to learn what was upsetting the elementals, and what could be done to ease their disquiet. And it seems the answer lies in stopping the voidsent from coming after Gatty."
+82,"TEXT_JOBWHM650_02416_SANCHE_000_065","(-Gatty's Mother-)Can you truly stop those monsters from hunting her? The worse my illness becomes, the more often they come sniffing about. Creatures of nightmare they are, with their greedy eyes and grasping claws..."
+83,"TEXT_JOBWHM650_02416_SYLPHIE_000_066","We will help you in any way we can. I'm Sylphie, and this is <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Please, tell us more about Gatty and these...monsters."
+84,"TEXT_JOBWHM650_02416_SANCHE_000_067","(-Gatty's Mother-)I... No, you Gridanian charlatans are not to be trusted! You saved us this time, it's true, but if you don't go now the whisper of my bow will be the last thing you'll ever hear..."
+85,"TEXT_JOBWHM650_02416_SYLPHIE_000_068","Wait, I'm begging you! We promise not to say a thing to the guild. We swear by the Matron Herself! Right, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>?"
+86,"TEXT_JOBWHM650_02416_SANCHE_000_069","(-Gatty's Mother-)The conjurers I've met before were arrogant. Condescending. You, on the other hand, seem far more sincere. I will take you at your word...for now."
+87,"TEXT_JOBWHM650_02416_SANCHE_000_070","My name is Sanche. It was twelve years ago that I fled Gridania with my infant child."
+88,"TEXT_JOBWHM650_02416_SANCHE_000_071","She was born a Padjal, and you know what that means..."
+89,"TEXT_JOBWHM650_02416_SYLPHIE_000_072","She was chosen by fate─destined to convey the elementals' will to the people of Gridania."
+90,"TEXT_JOBWHM650_02416_SANCHE_000_073","Aye. The conjurers would have snatched her from my arms, and taught her to be a servant of the forest spirits. By Gridanian law, they were well within their rights to do so."
+91,"TEXT_JOBWHM650_02416_SANCHE_000_074","But my husband was dead and Gatty was all I had left. I could not bear to let her go. And so I fled."
+92,"TEXT_JOBWHM650_02416_SYLPHIE_000_075","I can hardly imagine how hard that must have been. Living out here in the wilds, raising a child by yourself..."
+93,"TEXT_JOBWHM650_02416_SYLPHIE_000_076","But while I can understand the choice you made, Gatty's lack of control over her Padjali power is putting you both in danger."
+94,"TEXT_JOBWHM650_02416_SYLPHIE_000_077","Aether bleeds from her in a torrent whenever she is upset or afraid, drawing in the voidsent again and again. I hate to say this, but there may come a day when you won't be able to stop them..."
+95,"TEXT_JOBWHM650_02416_SANCHE_000_078","Is there naught that can be done!? We just want to live in peace..."
+96,"TEXT_JOBWHM650_02416_SYLPHIE_000_079","Here's an idea! I'll stay with you and teach Gatty how to control her aether. That way I can continue your treatment, <hex:021A020203>and<hex:021A020103> solve this problem with the voidsent at the same time! All without telling the Conjurers' Guild, of course."
+97,"TEXT_JOBWHM650_02416_SYLPHIE_000_080","Hello again, Gatty! I used my conjury to help your mother feel better. Would you like to learn some magic, too?"
+98,"TEXT_JOBWHM650_02416_GATTY_100_080","Really!?"
+99,"TEXT_JOBWHM650_02416_GATTY_000_081","You know magic that can help Mama? Please teach me!"
+100,"TEXT_JOBWHM650_02416_SANCHE_000_082","Thank you─this means so much to us.<hex:02100103>We can talk more inside the house..."
+101,"TEXT_JOBWHM650_02416_SYLPHIE_000_083","I'll walk them inside, then return to Castrum Oriens. I'll see you back there, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>."
+102,"TEXT_JOBWHM650_02416_GATTY_000_089","When is Sylphie coming again?"
+103,"TEXT_JOBWHM650_02416_SANCHE_000_089","Thank you again for your aid. Gatty talks endlessly about you both, but I suppose that's only natural. I haven't encouraged guests in the past..."
+104,"TEXT_JOBWHM650_02416_SYLPHIE_000_090","I'm sorry, I sort of took matters into my own hands there. I know it's a lot to ask, but can you please keep this a secret from the guildmaster for the time being?"
+105,"TEXT_JOBWHM650_02416_Q1_000_000","What will you say?"
+106,"TEXT_JOBWHM650_02416_A1_000_001","We should consult Brother E–Sumi–Yan."
+107,"TEXT_JOBWHM650_02416_A1_000_002","I promise!"
+108,"TEXT_JOBWHM650_02416_A1_000_003","..."
+109,"TEXT_JOBWHM650_02416_SYLPHIE_000_091","If we do that, the guild will take Gatty away from her mother. And we've seen what happens when the girl gets upset."
+110,"TEXT_JOBWHM650_02416_SYLPHIE_000_092","Thank you, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! We don't want the guild to take Gatty away from her mother─we've seen what happens when the girl gets upset."
+111,"TEXT_JOBWHM650_02416_SYLPHIE_100_092","...Is that approval or disapproval? We don't want the guild to take Gatty away from her mother─we've seen what happens when the girl gets upset."
+112,"TEXT_JOBWHM650_02416_SYLPHIE_000_093","And besides, Sanche may not be long for this world. Gatty should spend as much time with her as possible. I remember what it was like to lose a loved one..."
+113,"TEXT_JOBWHM650_02416_SYLPHIE_000_094","But please don't think emotion swayed my better judgment! I've thought this through, and I understand it won't be easy. That's why I need your help..."

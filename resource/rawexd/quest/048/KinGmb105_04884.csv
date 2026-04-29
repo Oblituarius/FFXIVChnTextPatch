@@ -2,181 +2,181 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_KINGMB105_04884_SEQ_00,沃洛克聯王宮的烏克·拉瑪特想和大家會合。
-1,TEXT_KINGMB105_04884_SEQ_01,
-2,TEXT_KINGMB105_04884_SEQ_02,
-3,TEXT_KINGMB105_04884_SEQ_03,
-4,TEXT_KINGMB105_04884_SEQ_04,
-5,TEXT_KINGMB105_04884_SEQ_05,
-6,TEXT_KINGMB105_04884_SEQ_06,
-7,TEXT_KINGMB105_04884_SEQ_07,
-8,TEXT_KINGMB105_04884_SEQ_08,
-9,TEXT_KINGMB105_04884_SEQ_09,
-10,TEXT_KINGMB105_04884_SEQ_10,
-11,TEXT_KINGMB105_04884_SEQ_11,
-12,TEXT_KINGMB105_04884_SEQ_12,
-13,TEXT_KINGMB105_04884_SEQ_13,
-14,TEXT_KINGMB105_04884_SEQ_14,
-15,TEXT_KINGMB105_04884_SEQ_15,
-16,TEXT_KINGMB105_04884_SEQ_16,
-17,TEXT_KINGMB105_04884_SEQ_17,
-18,TEXT_KINGMB105_04884_SEQ_18,
-19,TEXT_KINGMB105_04884_SEQ_19,
-20,TEXT_KINGMB105_04884_SEQ_20,
-21,TEXT_KINGMB105_04884_SEQ_21,
-22,TEXT_KINGMB105_04884_SEQ_22,
-23,TEXT_KINGMB105_04884_SEQ_23,
-24,TEXT_KINGMB105_04884_TODO_00,在<hex:02280CFF05>EObj<hex:F61EB9A50103>等待
-25,TEXT_KINGMB105_04884_TODO_01,前往克扎瑪烏卡濕地
-26,TEXT_KINGMB105_04884_TODO_02,和烏克·拉瑪特對話
-27,TEXT_KINGMB105_04884_TODO_03,再次和烏克·拉瑪特對話
-28,TEXT_KINGMB105_04884_TODO_04,在<hex:02280CFF05>EObj<hex:F61EB9A60103>等待
-29,TEXT_KINGMB105_04884_TODO_05,再次在<hex:02280CFF05>EObj<hex:F61EB9A60103>等待
-30,TEXT_KINGMB105_04884_TODO_06,再一次在<hex:02280CFF05>EObj<hex:F61EB9A60103>等待
-31,TEXT_KINGMB105_04884_TODO_07,和瑞笛洛珂對話
-32,TEXT_KINGMB105_04884_TODO_08,
-33,TEXT_KINGMB105_04884_TODO_09,
-34,TEXT_KINGMB105_04884_TODO_10,
-35,TEXT_KINGMB105_04884_TODO_11,
-36,TEXT_KINGMB105_04884_TODO_12,
-37,TEXT_KINGMB105_04884_TODO_13,
-38,TEXT_KINGMB105_04884_TODO_14,
-39,TEXT_KINGMB105_04884_TODO_15,
-40,TEXT_KINGMB105_04884_TODO_16,
-41,TEXT_KINGMB105_04884_TODO_17,
-42,TEXT_KINGMB105_04884_TODO_18,
-43,TEXT_KINGMB105_04884_TODO_19,
-44,TEXT_KINGMB105_04884_TODO_20,
-45,TEXT_KINGMB105_04884_TODO_21,
-46,TEXT_KINGMB105_04884_TODO_22,
-47,TEXT_KINGMB105_04884_TODO_23,
-48,TEXT_KINGMB105_04884_WUKLAMAT_000_001,都怪老爹，害我連納米喀做的菜都沒吃上，<hex:02100103>我要回去吃完了再走。
-49,TEXT_KINGMB105_04884_WUKLAMAT_000_002,我跟大家說好了在船頭小屋會合。<hex:02100103>你剛剛和老爹切磋也累了，休息一下再去吧。
-50,TEXT_KINGMB105_04884_WUKLAMAT_000_003,老爹也真是的……
-51,TEXT_KINGMB105_04884_Q1_000_000,確定要和同伴會合嗎？
-52,TEXT_KINGMB105_04884_KRILE_000_005,（★未使用／削除予定★）
-53,TEXT_KINGMB105_04884_FONJEANTAINE_000_006,久等了。
-54,TEXT_KINGMB105_04884_WUKLAMAT_000_007,你都準備好了？
-55,TEXT_KINGMB105_04884_FONJEANTAINE_000_008,我本來就是為了找工作才離開艾歐澤亞的，沒帶多少行李。<hex:02100103>只是和關照過我的人道別花了些時間，所以來遲了。
-56,TEXT_KINGMB105_04884_WUKLAMAT_000_009,這樣啊……<hex:02100103>我想再跟你說聲謝謝，豐讓丹。
-57,TEXT_KINGMB105_04884_ALPHINAUD_000_010,那我們回土陶郡吧。
-58,TEXT_KINGMB105_04884_WUKEVU_000_011,(-？？？？-)等一下。
-59,TEXT_KINGMB105_04884_WUKLAMAT_000_012,哦，這不是烏克·耶伏嗎！
-60,TEXT_KINGMB105_04884_WUKEVU_000_013,是我！我向來把禮儀掛在嘴邊，<hex:02100103>自己卻這樣無禮地喊住公主……我……
-61,TEXT_KINGMB105_04884_WUKEVU_000_014,我真是罪該萬死！<hex:02100103>請您用那把斧頭把我剁成夾餅上的肉醬吧！
-62,TEXT_KINGMB105_04884_WUKLAMAT_000_015,又提這種可怕的要求！<hex:02100103>我不是說過不用在意這種小事了嗎！
-63,TEXT_KINGMB105_04884_WUKEVU_000_016,哦，那我就不糾結了。
-64,TEXT_KINGMB105_04884_ALISAIE_000_017,變臉可真快啊……
-65,TEXT_KINGMB105_04884_WUKEVU_000_018,我正打算去採購素材，就遇到了你們。<hex:02100103>聽說公主要去尋找黃金鄉？
-66,TEXT_KINGMB105_04884_WUKLAMAT_000_019,是啊，畢竟那是繼位儀式的最終目標。<hex:02100103>你要是知道什麼消息的話，也和我說說。
-67,TEXT_KINGMB105_04884_WUKEVU_000_020,那我就稍微講講吧。<hex:02100103>您也知道，黃金鄉是在圖拉爾大陸流傳千年的傳說之地。
-68,TEXT_KINGMB105_04884_WUKEVU_000_021,黃金鄉究竟是一個什麼樣的地方？<hex:02100103>有人說它是黃金建築林立的都市，名副其實；<hex:02100103>也有人說它是一個藏寶地。
-69,TEXT_KINGMB105_04884_WUKEVU_000_022,眾說紛紜，卻沒有定論——<hex:02100103>畢竟前去尋找黃金鄉的人，沒有一個活著回來。
-70,TEXT_KINGMB105_04884_WUKEVU_000_023,因此，尋找黃金鄉必然是一條充滿危險的旅程。<hex:02100103>還請多加小心……
-71,TEXT_KINGMB105_04884_WUKEVU_000_024,我想說的就是這些了。<hex:02100103>願您旅途平安，公主。
-72,TEXT_KINGMB105_04884_WUKLAMAT_000_025,謝了，烏克·耶伏。
-73,TEXT_KINGMB105_04884_ERENVILLE_000_026,出發尋找黃金鄉的人無一生還……<hex:02100103>聽上去像是勸人不要做無用功，<hex:02100103>但果真如此的話，聯王又是怎麼發現那裡的？
-74,TEXT_KINGMB105_04884_KRILE_000_027,黃金鄉的傳說源自尤卡巨人族，<hex:02100103>果然還是應該找他們問一問。
-75,TEXT_KINGMB105_04884_ALPHINAUD_000_028,雖然黃金鄉的事令人在意，<hex:02100103>但我們目前的首要任務還是完成「罐之試煉」。<hex:02100103>我們先帶豐讓丹閣下回土陶郡吧。
-76,TEXT_KINGMB105_04884_WUKLAMAT_000_030,喲，久等了！我帶回願意做罐子工的人了。<hex:02100103>他手藝高超，曾經在外國的知名珠寶店艾斯泰姆工作過。
-77,TEXT_KINGMB105_04884_REDIROQ_000_031,太棒了 太好了 好極了！<hex:02100103>烏克·拉瑪特公主 第一個到！
-78,TEXT_KINGMB105_04884_REDIROQ_000_032,外國工匠 很少見！<hex:02100103>帶來許多 新技術 新風格！<hex:02100103>看護人 會帶你去 新工房 歡迎！
-79,TEXT_KINGMB105_04884_FONJEANTAINE_100_032,那我就先走了……<hex:02100103>請一定要贏得勝利，繼承王位啊！
-80,TEXT_KINGMB105_04884_WUKLAMAT_000_033,謝謝你，豐讓丹。<hex:02100103>我不會辜負你的期待。
-81,TEXT_KINGMB105_04884_REDIROQ_000_034,你們 完成莫布們的 罐之試煉！<hex:02100103>請收下 秘石！
-82,TEXT_KINGMB105_04884_WUKLAMAT_000_035,好，這就是第三塊……！
-83,TEXT_KINGMB105_04884_REDIROQ_000_036,哼哧……哼哧……<hex:02100103>又來了 更多罐子工？！<hex:02100103>請到這來 談一談！
-84,TEXT_KINGMB105_04884_KOANA_000_037,繼哈努族和佩魯佩魯族之後，<hex:02100103>莫布林族的秘石也到手了，一切順利。
-85,TEXT_KINGMB105_04884_SAREELJA_000_038,哈哈哈。<hex:02100103>不愧是佐拉加大人的弟弟妹妹。<hex:02100103>你們很能幹啊。
-86,TEXT_KINGMB105_04884_SAREELJA_000_039,尤其是柯納殿下！<hex:02100103>如果你能活用在海外學習的知識，<hex:02100103>一定能很好地推動魔導兵器的引入吧。
-87,TEXT_KINGMB105_04884_SAREELJA_000_040,……當然，是作為佐拉加大王的重臣。
-88,TEXT_KINGMB105_04884_KOANA_000_041,我對戰爭沒有興趣。<hex:02100103>我在薩雷安學習的技術，是為了讓圖萊尤拉更好地發展。
-89,TEXT_KINGMB105_04884_KOANA_000_042,如果圖萊尤拉能以先進的技術聞名世界，<hex:02100103>其他國家也會有所顧忌。
-90,TEXT_KINGMB105_04884_KOANA_000_043,那樣一來，也不需要戰爭了……<hex:02100103>就像薩雷安不曾被加雷馬帝國侵略一樣。
-91,TEXT_KINGMB105_04884_SAREELJA_000_044,您說的有道理……<hex:02100103>但要讓我國成為像薩雷安那樣的技術強國，要花多少年？
-92,TEXT_KINGMB105_04884_KOANA_000_045,如果能發奮學習，總有一天……
-93,TEXT_KINGMB105_04884_ZORAALJA_000_046,太慢了。
-94,TEXT_KINGMB105_04884_ZORAALJA_000_047,把薩雷安吞併了就可以了。
-95,TEXT_KINGMB105_04884_THANCRED_000_048,就算以武力征服他國，<hex:02100103>最終也只會叛亂四起，惡性循環。<hex:02100103>我們已經見過太多這樣的戰爭了。
-96,TEXT_KINGMB105_04884_ZORAALJA_000_049,那就一直打下去。<hex:02100103>直到所有人都明白戰爭的愚蠢，願意放下武器那一日。
-97,TEXT_KINGMB105_04884_WUKLAMAT_000_050,那樣誰能開心？！<hex:02100103>那根本不是大家期望的和平！
-98,TEXT_KINGMB105_04884_REDIROQ_000_051,哼哧……哼哧……<hex:02100103>聽了這些話 想起了 過去的事……
-99,TEXT_KINGMB105_04884_REDIROQ_000_052,圖萊尤拉建國前 罐子工沒有契約<hex:02100103>在當時 莫布們 強行讓工匠工作……
-100,TEXT_KINGMB105_04884_REDIROQ_000_053,那時 他來了！<hex:02100103>被工匠的家人拜託 古魯加加來了！
-101,TEXT_KINGMB105_04884_REDIROQ_000_054,莫布們 不善戰鬥，<hex:02100103>做好被討伐的覺悟 但是古魯加加說……
-102,TEXT_KINGMB105_04884_GULOOLJAJA_000_055,(-古魯加加智理之頭-)我們不是來討伐你們的，<hex:02100103>而是來談話的。
-103,TEXT_KINGMB105_04884_GULOOLJAJA_000_056,(-古魯加加智理之頭-)這個村子的雕金作品巧奪天工，<hex:02100103>只看一眼便能明白這些美麗的素材上傾注了多麼高超的技巧。
-104,TEXT_KINGMB105_04884_GULOOLJAJA_000_057,(-古魯加加智理之頭-)但這些作品無法打動人心。<hex:02100103>工匠們在你們的脅迫下心驚膽戰，<hex:02100103>怎能做出令人喜悅的作品呢？
-105,TEXT_KINGMB105_04884_GULOOLJAJA_000_058,(-古魯加加智理之頭-)如果他們能露出真心的笑容，將靈魂傾注在創作中，<hex:02100103>就會誕生像太陽一樣閃耀的作品……你們不想看看嗎？
-106,TEXT_KINGMB105_04884_REDIROQ_000_059,就這樣 莫布們 開始照顧罐子工！<hex:02100103>環境變好 罐子工開心 作品就更好 莫布們也更開心！
-107,TEXT_KINGMB105_04884_REDIROQ_000_060,古魯加加 大智慧！<hex:02100103>創造最好的環境 誕生最棒的作品！
-108,TEXT_KINGMB105_04884_KOANA_000_061,因為父王的智理之頭說的話，<hex:02100103>才形成了如今的罐子工文化啊……
-109,TEXT_KINGMB105_04884_REDIROQ_000_062,沒錯 就是這樣 正確的話！<hex:02100103>古魯加加 改變了一切！
-110,TEXT_KINGMB105_04884_ZORAALJA_000_063,哼……
-111,TEXT_KINGMB105_04884_SAREELJA_000_064,我的主人對你們這些落了灰的陳年舊事沒有興趣。<hex:02100103>下個試煉再會吧。
-112,TEXT_KINGMB105_04884_KOANA_000_065,我們也準備出發吧。
-113,TEXT_KINGMB105_04884_ALISAIE_000_066,結果巴庫加加人都沒回來啊。
-114,TEXT_KINGMB105_04884_RAKOROK_000_067,哼哧……哼哧……<hex:02100103>烏克·拉瑪特公主 可以稍等一下嗎？
-115,TEXT_KINGMB105_04884_RAKOROK_000_068,你們 照顧了卡黑……<hex:02100103>作為謝禮 莫布告訴你們 黃金鄉的傳聞！
-116,TEXT_KINGMB105_04884_WUKLAMAT_000_069,哦？你知道什麼嗎？！<hex:02100103>快講講！
-117,TEXT_KINGMB105_04884_RAKOROK_000_070,房子 道路 全是黃金！<hex:02100103>安逸快樂 應有盡有！
-118,TEXT_KINGMB105_04884_RAKOROK_000_071,孩子 大人 老人 大家都幸福的 黃金鄉！<hex:02100103>在雲上 永恆的 幸福都市 黃金鄉！
-119,TEXT_KINGMB105_04884_WUKLAMAT_000_072,烏克·耶伏也說過類似的傳聞呢……<hex:02100103>真想見識見識那個讓大家都變得幸福快樂的都市啊！
-120,TEXT_KINGMB105_04884_KRILE_000_073,對了，拉寇洛坷，<hex:02100103>你是從哪聽來這個傳聞的？
-121,TEXT_KINGMB105_04884_RAKOROK_000_074,認識很久的 尤卡巨人族！<hex:02100103>隱居在 奧闊帕恰山的 古老部族！
-122,TEXT_KINGMB105_04884_KRILE_000_075,果然是尤卡巨人族……
-123,TEXT_KINGMB105_04884_WUKLAMAT_000_076,好！那下個目標就是尤卡巨人族的村子了！
-124,TEXT_KINGMB105_04884_WUKLAMAT_000_077,通過這次試煉，我總算了解了莫布林族的生活方式。<hex:02100103>你們與罐子工齊心協力，為更多的人帶去笑容……<hex:02100103>我太喜歡這裡了，都捨不得走了！
-125,TEXT_KINGMB105_04884_ERENVILLE_000_080,那個傳聞頗有疑點……<hex:02100103>目前只能寄望尤卡巨人族能解答一二了。
-126,TEXT_KINGMB105_04884_KRILE_000_081,傳聞說黃金鄉是任何人都能幸福生活的城市，<hex:02100103>但尋找它的人都有去無回。<hex:02100103>它到底隱藏著怎樣的真相？
-127,TEXT_KINGMB105_04884_ALPHINAUD_000_082,為什麼聯王將好戰的佐拉加王子也列入了王位候選人之中呢？
-128,TEXT_KINGMB105_04884_ALISAIE_000_083,聽起來那個理王和跟我們談過話的武王完全不是一個性格。<hex:02100103>就算共用同一具身體，想法可能也不一樣吧。
-129,TEXT_KINGMB105_04884_REDIROQ_000_084,新罐子工 豐讓丹！<hex:02100103>莫布們 好好照顧！<hex:02100103>放心吧！
-130,TEXT_KINGMB105_04884_WUKLAMAT_000_085,我們快出發去尤卡巨人族的村子吧！
-131,TEXT_KINGMB105_04884_ERENVILLE_000_086,我沒意見。<hex:02100103>那裡也是與圖萊尤拉敘事詩有關的地方。
-132,TEXT_KINGMB105_04884_ERENVILLE_000_087,尤卡巨人族的村子所在的奧闊帕恰山的高地離這裡不算遠。
-133,TEXT_KINGMB105_04884_ERENVILLE_000_088,離開土陶郡向西前進，<hex:02100103>有一條通往山間的路，先找到那條路吧。
-134,TEXT_KINGMB105_04884_ERENVILLE_100_089,沿著這條山路前進，<hex:02100103>就可以到達奧闊帕恰山的高地了。<hex:02100103>不過山路並不好走。
-135,TEXT_KINGMB105_04884_KRILE_200_089,終於要去尤卡巨人族的村子了……
-136,TEXT_KINGMB105_04884_ALPHINAUD_300_089,我們接下來要去的奧闊帕恰山高地，<hex:02100103>就是尤卡巨人族書寫的圖萊尤拉敘事詩之中«墓之章»的舞台。
-137,TEXT_KINGMB105_04884_ALPHINAUD_500_089,同時，也與記錄了討伐豔翼蛇鳥的«封之章»有關。<hex:02100103>就是不知道這些會以什麼樣的形式與繼位儀式聯繫起來。
-138,TEXT_KINGMB105_04884_ALISAIE_600_089,逆流渡河還沒過多久，又要爬山了？
-139,TEXT_KINGMB105_04884_WUKLAMAT_000_090,這條就是通往奧闊帕恰山的路啊！<hex:02100103>不過山道看上去不太好走，大家準備好了嗎？
-140,TEXT_KINGMB105_04884_WAWKESA_000_091,(-髮色豔麗的迎曦之民男性-)烏克·拉瑪特大人！
-141,TEXT_KINGMB105_04884_WAWKESA_000_092,(-髮色豔麗的迎曦之民男性-)太好了，趕上了……<hex:02100103>瑞笛洛珂委託我請您回去。
-142,TEXT_KINGMB105_04884_WAWKESA_000_093,(-髮色豔麗的迎曦之民男性-)她說您有東西忘了拿……
-143,TEXT_KINGMB105_04884_WUKLAMAT_000_094,嗯？有東西忘拿了？有這回事？
-144,TEXT_KINGMB105_04884_WAWKESA_000_095,(-髮色豔麗的迎曦之民男性-)是的，是一件很重要的東西。<hex:02100103>不會花多少時間的，請跟我來。
-145,TEXT_KINGMB105_04884_WUKLAMAT_000_096,雖然不知道是什麼東西，總之我先去看看。<hex:02100103>你們在這稍等一會！
-146,TEXT_KINGMB105_04884_REDIROQ_100_100,哼哧……哼哧……<hex:02100103>迎接新罐子工 做準備很忙！<hex:02100103>不好意思 有事的話 等下再找莫布！
-147,TEXT_KINGMB105_04884_KRILE_000_100,那個人族的髮色好鮮豔……<hex:02100103>唔，這裡應該叫迎曦之民吧。<hex:02100103>好像沒在土陶郡見過這樣的人呢。
-148,TEXT_KINGMB105_04884_ERENVILLE_000_101,恐怕是烏克·拉瑪特偷偷在土陶郡大吃大喝，<hex:02100103>結果又忘記付錢了吧。
-149,TEXT_KINGMB105_04884_ALPHINAUD_000_102,等烏克·拉瑪特回來，我們就繼續向奧闊帕恰山前進。<hex:02100103>雖然聽了不少尤卡巨人族的故事，但還沒親眼見過他們……<hex:02100103>不知是怎樣的部族呢？
-150,TEXT_KINGMB105_04884_ALISAIE_000_103,剛剛那個人，總感覺在哪裡見過……可能是錯覺吧。
-151,TEXT_KINGMB105_04884_KRILE_000_104,還沒回來啊……不過既然說了不會花太多時間，<hex:02100103>我們就再等一會吧。
-152,TEXT_KINGMB105_04884_ALPHINAUD_000_110,……事情比較複雜嗎？<hex:02100103>再等等看吧。
-153,TEXT_KINGMB105_04884_ALISAIE_000_120,時間也太久了，她是不是在回來的途中迷路了？
-154,TEXT_KINGMB105_04884_KRILE_000_121,怎麼會？這條路沒有岔路。
-155,TEXT_KINGMB105_04884_ERENVILLE_000_122,這方面……別太小看烏克·拉瑪特。<hex:02100103>她還是有可能迷路的。
-156,TEXT_KINGMB105_04884_ALPHINAUD_000_123,還好事先給了她通訊珠，<hex:02100103>我來聯繫一下她。
-157,TEXT_KINGMB105_04884_ALPHINAUD_000_124,沒有回應……<hex:02100103>我們回土陶郡看看吧。
-158,TEXT_KINGMB105_04884_ALPHINAUD_000_125,那個人說過，是瑞笛洛珂讓烏克·拉瑪特回去的吧？
-159,TEXT_KINGMB105_04884_KRILE_000_130,沒看到烏克·拉瑪特呢……
-160,TEXT_KINGMB105_04884_ERENVILLE_000_131,我還以為她又像往常一樣莽撞行事了，<hex:02100103>看來這次情況不一樣。
-161,TEXT_KINGMB105_04884_ALPHINAUD_000_132,希望烏克·拉瑪特沒事……
-162,TEXT_KINGMB105_04884_ALISAIE_000_133,我有不好的預感。
-163,TEXT_KINGMB105_04884_REDIROQ_000_134,哼哧……哼哧……<hex:02100103>回來這麼快 找莫布 什麼事？
-164,TEXT_KINGMB105_04884_ALPHINAUD_000_135,我們聽人說你有事找烏克·拉瑪特，<hex:02100103>所以來你這邊找她……
-165,TEXT_KINGMB105_04884_REDIROQ_000_136,莫布 不記得 這種事！<hex:02100103>莫布沒有叫公主回來 公主也沒有來過這裡！
-166,TEXT_KINGMB105_04884_KRILE_000_137,……那叫走她的那個人把她帶到哪裡去了？
-167,TEXT_KINGMB105_04884_THANCRED_000_138,你們還沒走嗎？
-168,TEXT_KINGMB105_04884_KOANA_000_139,拉瑪提呢？她沒和你們一起？
-169,TEXT_KINGMB105_04884_KOANA_000_140,拉瑪提失蹤了？<hex:02100103>你在她身邊，還讓她出了事？
-170,TEXT_KINGMB105_04884_URIANGER_000_141,此時憂心妹妹的安全確實是人之常情，<hex:02100103>但當務之急，還是先尋找她的蹤跡……
-171,TEXT_KINGMB105_04884_KOANA_000_142,……我也來一起找拉瑪提。<hex:02100103>我不想爭奪王位的競爭對手以這種方式落選。
-172,TEXT_KINGMB105_04884_THANCRED_000_143,那我們分頭行動吧。
-173,TEXT_KINGMB105_04884_KOANA_000_144,你們的代表是<hex:022903EB0203>吧。<hex:02100103>就讓<hex:022903EB0203>和我一起行動吧，這樣我們也方便交換情報。
-174,TEXT_KINGMB105_04884_ALPHINAUD_000_145,那剩下的人分頭尋找烏克·拉瑪特。<hex:02100103>如果發現了什麼，及時聯絡。
-175,TEXT_KINGMB105_04884_THANCRED_000_146,我們也去了。
-176,TEXT_KINGMB105_04884_KOANA_000_147,嗯……拜託了。
-177,TEXT_KINGMB105_04884_KOANA_000_148,走吧，去找拉瑪提。
+0,"TEXT_KINGMB105_04884_SEQ_00","Wuk Lamat thinks it time to gather her allies for the road ahead."
+1,"TEXT_KINGMB105_04884_SEQ_01",""
+2,"TEXT_KINGMB105_04884_SEQ_02",""
+3,"TEXT_KINGMB105_04884_SEQ_03",""
+4,"TEXT_KINGMB105_04884_SEQ_04",""
+5,"TEXT_KINGMB105_04884_SEQ_05",""
+6,"TEXT_KINGMB105_04884_SEQ_06",""
+7,"TEXT_KINGMB105_04884_SEQ_07",""
+8,"TEXT_KINGMB105_04884_SEQ_08",""
+9,"TEXT_KINGMB105_04884_SEQ_09",""
+10,"TEXT_KINGMB105_04884_SEQ_10",""
+11,"TEXT_KINGMB105_04884_SEQ_11",""
+12,"TEXT_KINGMB105_04884_SEQ_12",""
+13,"TEXT_KINGMB105_04884_SEQ_13",""
+14,"TEXT_KINGMB105_04884_SEQ_14",""
+15,"TEXT_KINGMB105_04884_SEQ_15",""
+16,"TEXT_KINGMB105_04884_SEQ_16",""
+17,"TEXT_KINGMB105_04884_SEQ_17",""
+18,"TEXT_KINGMB105_04884_SEQ_18",""
+19,"TEXT_KINGMB105_04884_SEQ_19",""
+20,"TEXT_KINGMB105_04884_SEQ_20",""
+21,"TEXT_KINGMB105_04884_SEQ_21",""
+22,"TEXT_KINGMB105_04884_SEQ_22",""
+23,"TEXT_KINGMB105_04884_SEQ_23",""
+24,"TEXT_KINGMB105_04884_TODO_00","Wait at the designated location."
+25,"TEXT_KINGMB105_04884_TODO_01","Travel to Kozama'uka."
+26,"TEXT_KINGMB105_04884_TODO_02","Speak with Wuk Lamat."
+27,"TEXT_KINGMB105_04884_TODO_03","Speak with Wuk Lamat again."
+28,"TEXT_KINGMB105_04884_TODO_04","Wait at the designated location."
+29,"TEXT_KINGMB105_04884_TODO_05","Wait at the designated location again."
+30,"TEXT_KINGMB105_04884_TODO_06","Wait at the designated location once more."
+31,"TEXT_KINGMB105_04884_TODO_07","Speak with Rediroq."
+32,"TEXT_KINGMB105_04884_TODO_08",""
+33,"TEXT_KINGMB105_04884_TODO_09",""
+34,"TEXT_KINGMB105_04884_TODO_10",""
+35,"TEXT_KINGMB105_04884_TODO_11",""
+36,"TEXT_KINGMB105_04884_TODO_12",""
+37,"TEXT_KINGMB105_04884_TODO_13",""
+38,"TEXT_KINGMB105_04884_TODO_14",""
+39,"TEXT_KINGMB105_04884_TODO_15",""
+40,"TEXT_KINGMB105_04884_TODO_16",""
+41,"TEXT_KINGMB105_04884_TODO_17",""
+42,"TEXT_KINGMB105_04884_TODO_18",""
+43,"TEXT_KINGMB105_04884_TODO_19",""
+44,"TEXT_KINGMB105_04884_TODO_20",""
+45,"TEXT_KINGMB105_04884_TODO_21",""
+46,"TEXT_KINGMB105_04884_TODO_22",""
+47,"TEXT_KINGMB105_04884_TODO_23",""
+48,"TEXT_KINGMB105_04884_WUKLAMAT_000_001","I still haven't had one bite of Namikka's food thanks to Papa's nonsense, so I'm going back to finish my plate before I head out."
+49,"TEXT_KINGMB105_04884_WUKLAMAT_000_002","I've otherwise asked everyone to meet at the For'ard Cabins. Come and join us after you've had a moment to recover, eh?"
+50,"TEXT_KINGMB105_04884_WUKLAMAT_000_003","Dammit, Papa..."
+51,"TEXT_KINGMB105_04884_Q1_000_000","Await your companions and continue with the rite of succession?"
+52,"TEXT_KINGMB105_04884_KRILE_000_005",""
+53,"TEXT_KINGMB105_04884_FONJEANTAINE_000_006","Sorry to keep everyone waiting."
+54,"TEXT_KINGMB105_04884_WUKLAMAT_000_007","Is that it? You're all set to go?"
+55,"TEXT_KINGMB105_04884_FONJEANTAINE_000_008","I left Eorzea prepared to travel in search of work, so I had few belongings to begin with. Bidding farewell to my fellow artisans took rather a lot of time, however."
+56,"TEXT_KINGMB105_04884_WUKLAMAT_000_009","Again, I appreciate you making this commitment, Fonjeantaine."
+57,"TEXT_KINGMB105_04884_ALPHINAUD_000_010","Shall we depart for Earthenshire, then?"
+58,"TEXT_KINGMB105_04884_WUKEVU_000_011","(-???-)A word before you go."
+59,"TEXT_KINGMB105_04884_WUKLAMAT_000_012","Wuk Evu, what are you doing here?"
+60,"TEXT_KINGMB105_04884_WUKEVU_000_013","Ahhh! I spend my days correcting manners, and here I am perpetrating the grave offense of delaying the Third Promise's departure!"
+61,"TEXT_KINGMB105_04884_WUKEVU_000_014","Please, take up your axe and rend my flesh unto taco meat!"
+62,"TEXT_KINGMB105_04884_WUKLAMAT_000_015","Must your demands be so gruesome!? Besides, I told you that kind of thing doesn't bother me!"
+63,"TEXT_KINGMB105_04884_WUKEVU_000_016","All right, then. I won't let it bother me either."
+64,"TEXT_KINGMB105_04884_ALISAIE_000_017","What was that all about...?"
+65,"TEXT_KINGMB105_04884_WUKEVU_000_018","I'd come to the city to purchase supplies when I spotted your entourage getting ready to leave. You seek the city of gold, if I'm not mistaken?"
+66,"TEXT_KINGMB105_04884_WUKLAMAT_000_019","That's right─it's the final step of the rite of succession. If you know anything about the subject, I'd love to hear it."
+67,"TEXT_KINGMB105_04884_WUKEVU_000_020","Then allow me to be of service. As you know, legends of the golden city have been passed down in Tural for a thousand years."
+68,"TEXT_KINGMB105_04884_WUKEVU_000_021","Yet when it comes to describing the place itself, the stories do not always agree. Some portray it as one might expect: a glittering metropolis of golden towers. Others suggest it is more unassuming and owes the name to a fabulous treasure hidden at its heart."
+69,"TEXT_KINGMB105_04884_WUKEVU_000_022","Every telling, however, has a common thread: those who go in search of the golden city do not return."
+70,"TEXT_KINGMB105_04884_WUKEVU_000_023","The lesson to be learned from this, Third Promise, is that to seek the legend is to court death. I must implore you to proceed with the utmost care."
+71,"TEXT_KINGMB105_04884_WUKEVU_000_024","That is all I wished to say. I shall pray for your safe journey."
+72,"TEXT_KINGMB105_04884_WUKLAMAT_000_025","Thank you, Wuk Evu."
+73,"TEXT_KINGMB105_04884_ERENVILLE_000_026","What are we to make of these cautionary tales? If every expedition has ended in tragedy, how then did the Dawnservant find the city and return without incident?"
+74,"TEXT_KINGMB105_04884_KRILE_000_027","It seems the legend originated with the Yok Huy. Speaking with them remains our strongest lead, I feel."
+75,"TEXT_KINGMB105_04884_ALPHINAUD_000_028","A lead we shall follow in time. But first, let us see Fonjeantaine safely into the Moblins' care."
+76,"TEXT_KINGMB105_04884_WUKLAMAT_000_030","We're back, and we've brought with us a willing potsworn. This is Fonjeantaine, a talented goldsmith who once worked at Eshtaime's Aesthetics in Ul'dah."
+77,"TEXT_KINGMB105_04884_REDIROQ_000_031","Wonderful! Impressive! You are first to return, Third Promise!"
+78,"TEXT_KINGMB105_04884_REDIROQ_000_032","And with an artisan from across the salt, no less! We welcome you and your unique skills to Earthenshire. Helphand will show you to the Workpot."
+79,"TEXT_KINGMB105_04884_FONJEANTAINE_100_032","This is it, then. I look forward to hearing you proclaimed Dawnservant!"
+80,"TEXT_KINGMB105_04884_WUKLAMAT_000_033","Thank you, Fonjeantaine. I'll be sure not to disappoint you."
+81,"TEXT_KINGMB105_04884_REDIROQ_000_034","You have reachmet the requirements of the Feat of Pots. Rediroq presents your keystone with joysmiles and wellwishing!"
+82,"TEXT_KINGMB105_04884_WUKLAMAT_000_035","That makes three..."
+83,"TEXT_KINGMB105_04884_REDIROQ_000_036","Pfff... Pfffkohhh... More potsworn candidates!? Come, come, tell Rediroq your tales!"
+84,"TEXT_KINGMB105_04884_KOANA_000_037","Another feat accomplished, another keystone acquired."
+85,"TEXT_KINGMB105_04884_SAREELJA_000_038","Ohohoho, you <hex:021A020203>are<hex:021A020103> doing well. I expected nothing less of Zoraal Ja's esteemed siblings."
+86,"TEXT_KINGMB105_04884_SAREELJA_000_039","Your cleverness in particular is most admirable, Second Promise. We must have you apply that Sharlayan knowledge you so cherish, and arm Tural with weapons of magitek design."
+87,"TEXT_KINGMB105_04884_SAREELJA_000_040","...In your role as the new Dawnservant's chief advisor, of course."
+88,"TEXT_KINGMB105_04884_KOANA_000_041","The tools of war hold no interest for me. I wish only to improve our nation through practical innovations."
+89,"TEXT_KINGMB105_04884_KOANA_000_042","Foreign powers will think twice about testing our strength once Tuliyollal is known for its advanced technology."
+90,"TEXT_KINGMB105_04884_KOANA_000_043","Just as the Garlean Empire was deterred from invading Sharlayan."
+91,"TEXT_KINGMB105_04884_SAREELJA_000_044","That may well be true... But how long will it take Tuliyollal to progress to this advanced state? How many years?"
+92,"TEXT_KINGMB105_04884_KOANA_000_045","With a collective commitment to education and hard work, it should not take so very─"
+93,"TEXT_KINGMB105_04884_ZORAALJA_000_046","Your way is too slow."
+94,"TEXT_KINGMB105_04884_ZORAALJA_000_047","Easier to expand our territory...and swallow Sharlayan whole."
+95,"TEXT_KINGMB105_04884_THANCRED_000_048","Conquer other nations through force of arms, and you're looking at a future of uprisings and bloodshed. Yours wouldn't be the first failed empire."
+96,"TEXT_KINGMB105_04884_ZORAALJA_000_049","Then we keep fighting, until the mounting costs convince them to lay down their weapons. Until all have grown tired of loss."
+97,"TEXT_KINGMB105_04884_WUKLAMAT_000_050","How would such an outcome bring anyone joy!? What you propose is a mockery of peace!"
+98,"TEXT_KINGMB105_04884_REDIROQ_000_051","Pfff... Pfffkohhh... Rediroq is reminded of days long ago."
+99,"TEXT_KINGMB105_04884_REDIROQ_000_052","In the time before Tuliyollal, there were no potpacts for the potsworn. It was normal to grabsnatch artisans, and force them to work for Mobbies."
+100,"TEXT_KINGMB105_04884_REDIROQ_000_053","Until the day Gulool Ja Ja arrived. The families of the grabsnatched pleaded with him, and so he came to Earthenshire."
+101,"TEXT_KINGMB105_04884_REDIROQ_000_054","Mobbies are not a warmake people. We feared death had come for us, but Gulool Ja Ja just wanted to talk!"
+102,"TEXT_KINGMB105_04884_GULOOLJAJA_000_055","(-Vow of Reason Gulool Ja Ja-)Be at ease. We are here to trade words, not blows."
+103,"TEXT_KINGMB105_04884_GULOOLJAJA_000_056","(-Vow of Reason Gulool Ja Ja-)The goldwork crafted in this village is superb. One can tell at a glance the quality of materials used; the mastery of technique employed."
+104,"TEXT_KINGMB105_04884_GULOOLJAJA_000_057","(-Vow of Reason Gulool Ja Ja-)Yet it does not stir the heart. A goblet shaped by bound hands and broken spirit is devoid of luster."
+105,"TEXT_KINGMB105_04884_GULOOLJAJA_000_058","(-Vow of Reason Gulool Ja Ja-)Compare that now to the works of a joyful artisan. She pours her very soul into her creations, and they shine like the newly risen sun. Have you not seen this to be true?"
+106,"TEXT_KINGMB105_04884_REDIROQ_000_059","And so began the custom of goodliving. Happy potsworn make good works, and good works make Mobbies happy!"
+107,"TEXT_KINGMB105_04884_REDIROQ_000_060","Gulool Ja Ja's words were wise! Joysmiles did indeed bring fine craft and much jinglyshine!"
+108,"TEXT_KINGMB105_04884_KOANA_000_061","So the Head of Reason was behind the forging of potpacts..."
+109,"TEXT_KINGMB105_04884_REDIROQ_000_062","Yes! Reason and cleverthink changed Mobbies' way of life!"
+110,"TEXT_KINGMB105_04884_ZORAALJA_000_063","Hmph."
+111,"TEXT_KINGMB105_04884_SAREELJA_000_064","The First Promise tires of your talk of olden days. He would rather look to the future, and the next feat."
+112,"TEXT_KINGMB105_04884_KOANA_000_065","We should be getting on as well."
+113,"TEXT_KINGMB105_04884_ALISAIE_000_066","Bakool Ja Ja never did come back, did he?"
+114,"TEXT_KINGMB105_04884_RAKOROK_000_067","Pfff... Pfffkohhh... Do you have a moment, Third Promise?"
+115,"TEXT_KINGMB105_04884_RAKOROK_000_068","Rakorok would repay you for handhelping with Kaahe. He brings a tale of the golden city!"
+116,"TEXT_KINGMB105_04884_WUKLAMAT_000_069","Really? I'd love to hear it!"
+117,"TEXT_KINGMB105_04884_RAKOROK_000_070","The towers, the streets, all fashioned from gold. Everywhere you look, every splendor you can imagine!"
+118,"TEXT_KINGMB105_04884_RAKOROK_000_071","The young, the old, and everyone in between, they live in golden happiness. A city of eternal bliss, forever perched above the clouds!"
+119,"TEXT_KINGMB105_04884_WUKLAMAT_000_072","Everything fashioned from gold, eh? And just imagine everyone living in golden happiness─now that's a city I'd like to visit!"
+120,"TEXT_KINGMB105_04884_KRILE_000_073","Excuse me, Rakorok, where did you hear that particular tale?"
+121,"TEXT_KINGMB105_04884_RAKOROK_000_074","From our longtime Yok Huy friends! They live up in the mountains, in Urqopacha."
+122,"TEXT_KINGMB105_04884_KRILE_000_075","The giants again..."
+123,"TEXT_KINGMB105_04884_WUKLAMAT_000_076","Seems everything is pointing us their way!"
+124,"TEXT_KINGMB105_04884_WUKLAMAT_000_077","This feat and everything leading up to it has taught me much about the Moblin way of life. I'll be sad to leave Earthenshire and your joysmiles behind!"
+125,"TEXT_KINGMB105_04884_ERENVILLE_000_080","These tales raise many questions... Let us hope the giants have answers."
+126,"TEXT_KINGMB105_04884_KRILE_000_081","The stories describe a place of boundless happiness, but are also rife with dire warnings of seekers who did not return. What are we to make of this...?"
+127,"TEXT_KINGMB105_04884_ALPHINAUD_000_082","It unsettles me that Zoraal Ja is even a claimant in the first place. Surely his father cannot condone his violent ambitions..."
+128,"TEXT_KINGMB105_04884_ALISAIE_000_083","The Head of Reason in Rediroq's story sounds so different from the Head of Resolve. They share the same body, yet their personalities are wholly distinct."
+129,"TEXT_KINGMB105_04884_REDIROQ_000_084","Worry not for potsworn Fonjeantaine! He is in good helphands!"
+130,"TEXT_KINGMB105_04884_WUKLAMAT_000_085","Right, we should go and see the giants next!"
+131,"TEXT_KINGMB105_04884_ERENVILLE_000_086","Agreed. Golden mysteries notwithstanding, their village is featured prominently in the saga and is not to be ignored."
+132,"TEXT_KINGMB105_04884_ERENVILLE_000_087","The Urqopacha highlands should be easy enough to reach from here."
+133,"TEXT_KINGMB105_04884_ERENVILLE_000_088","If we leave Earthenshire from the west, there's a road which leads up into the mountains. Let's find that first."
+134,"TEXT_KINGMB105_04884_ERENVILLE_100_089","This road will take us through the mountains to the Urqopacha highlands. An exhausting route, perhaps, but a straightforward one."
+135,"TEXT_KINGMB105_04884_KRILE_200_089","We're to meet with the Yok Huy at last..."
+136,"TEXT_KINGMB105_04884_ALPHINAUD_300_089","The highlands are where the Lay of Proof took place─that being Gulool Ja Ja's encounter with the Yok Huy."
+137,"TEXT_KINGMB105_04884_ALPHINAUD_500_089","But 'tis also the stage for the Lay of Ice, where heroes fought the monstrous Valigarmanda. I am most curious to know what the rite will demand of us there..."
+138,"TEXT_KINGMB105_04884_ALISAIE_600_089","One day we're sailing up rivers, and the next we're hiking up mountains."
+139,"TEXT_KINGMB105_04884_WUKLAMAT_000_090","Looks like the trail is going to get steep from here on in. I hope everyone is ready for some climbing!"
+140,"TEXT_KINGMB105_04884_WAWKESA_000_091","(-Bright-haired Tonawawtan Man-)Third Promise!"
+141,"TEXT_KINGMB105_04884_WAWKESA_000_092","(-Bright-haired Tonawawtan Man-)I'm glad I caught you... Rediroq asked me to bring you back to the village."
+142,"TEXT_KINGMB105_04884_WAWKESA_000_093","(-Bright-haired Tonawawtan Man-)She says there's something she forgot to give you."
+143,"TEXT_KINGMB105_04884_WUKLAMAT_000_094","Huh...? Something other than the keystone?"
+144,"TEXT_KINGMB105_04884_WAWKESA_000_095","(-Bright-haired Tonawawtan Man-)Yes, an item of great importance, or so I was told. It shouldn't take long, if you would please follow me."
+145,"TEXT_KINGMB105_04884_WUKLAMAT_000_096","I wonder what this is all about? Well, no need for everyone to come─I'll be back in a little while!"
+146,"TEXT_KINGMB105_04884_REDIROQ_100_100","Pfff... Pfffkohhh... Moblins are busy ensuring goodliving for new potsworn! Rediroq has no time for idle tongueflaps!"
+147,"TEXT_KINGMB105_04884_KRILE_000_100","He had rather interesting hair for a Hyur...or should I say Tonawawta? In any case, strange that I never noticed him while we were in Earthenshire."
+148,"TEXT_KINGMB105_04884_ERENVILLE_000_101","Knowing Wuk Lamat, she was probably eating sweets behind our backs and forgot to pay the shopkeeper or something equally careless."
+149,"TEXT_KINGMB105_04884_ALPHINAUD_000_102","I'm eager to continue to the highlands and meet a Yok Huy face-to-face. We've heard much about them, but I'm not entirely sure what to expect."
+150,"TEXT_KINGMB105_04884_ALISAIE_000_103","That man seemed familiar somehow... But I just can't place him."
+151,"TEXT_KINGMB105_04884_KRILE_000_104","This is taking quite a while... Just keep waiting for now, I suppose."
+152,"TEXT_KINGMB105_04884_ALPHINAUD_000_110","Perhaps there were complications? Well, let us wait a little longer."
+153,"TEXT_KINGMB105_04884_ALISAIE_000_120","This is getting a little ridiculous. Did she get lost on the way back to find us?"
+154,"TEXT_KINGMB105_04884_KRILE_000_121","But how? There's only the one road."
+155,"TEXT_KINGMB105_04884_ERENVILLE_000_122","I wouldn't underestimate Wuk Lamat's sense of direction...or lack thereof."
+156,"TEXT_KINGMB105_04884_ALPHINAUD_000_123","Fortunately, she has a linkpearl. Let's see what's keeping her, shall we?"
+157,"TEXT_KINGMB105_04884_ALPHINAUD_000_124","She's not responding... Perhaps we should all return to Earthenshire."
+158,"TEXT_KINGMB105_04884_ALPHINAUD_000_125","'Twas Rediroq who had business with her, yes?"
+159,"TEXT_KINGMB105_04884_KRILE_000_130","She doesn't seem to be here..."
+160,"TEXT_KINGMB105_04884_ERENVILLE_000_131","I'd thought Wuk Lamat was just being her usual impulsive self, but now I'm not so certain..."
+161,"TEXT_KINGMB105_04884_ALPHINAUD_000_132","I pray naught untoward has befallen the Third Promise."
+162,"TEXT_KINGMB105_04884_ALISAIE_000_133","Something's not right. I can feel it..."
+163,"TEXT_KINGMB105_04884_REDIROQ_000_134","Pfff... Pfffkohhh... Back again so soon?"
+164,"TEXT_KINGMB105_04884_ALPHINAUD_000_135","We've come looking for Wuk Lamat. Did you not send someone to fetch her?"
+165,"TEXT_KINGMB105_04884_REDIROQ_000_136","Rediroq did not! Neither has she seen the Third Promise since you were last here."
+166,"TEXT_KINGMB105_04884_KRILE_000_137","Then who was that man who came for her...?"
+167,"TEXT_KINGMB105_04884_THANCRED_000_138","Oh? I thought you'd left already."
+168,"TEXT_KINGMB105_04884_KOANA_000_139","Where is Lamaty'i? Is she not with you?"
+169,"TEXT_KINGMB105_04884_KOANA_000_140","You don't <hex:021A020203>know<hex:021A020103> where she is? How could you let this happen!?"
+170,"TEXT_KINGMB105_04884_URIANGER_000_141","That thou shouldst worry for thy sister is understandable. Yet rather than assign blame, thine energies are better spent on locating her."
+171,"TEXT_KINGMB105_04884_KOANA_000_142","I will help you search. This is not how I'd wish a fellow claimant to lose the contest─my sister least of all."
+172,"TEXT_KINGMB105_04884_THANCRED_000_143","In that case, dividing our forces will allow us to cover more ground."
+173,"TEXT_KINGMB105_04884_KOANA_000_144","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> and I should work together at least, the better to facilitate communication between our groups."
+174,"TEXT_KINGMB105_04884_ALPHINAUD_000_145","Then the rest of us will split up. Report in should you find anything."
+175,"TEXT_KINGMB105_04884_THANCRED_000_146","We'll be on our way as well."
+176,"TEXT_KINGMB105_04884_KOANA_000_147","Right. Keep in touch."
+177,"TEXT_KINGMB105_04884_KOANA_000_148","Come─we should begin our search."

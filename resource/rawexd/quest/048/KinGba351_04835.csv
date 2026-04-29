@@ -2,138 +2,138 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_KINGBA351_04835_SEQ_00,赤誠組營房附近的庫伊奇有事想告訴冒險者。
-1,TEXT_KINGBA351_04835_SEQ_01,和庫伊奇交談時，其日娜來了。據她說，五月雨在太陽神草原現身了。冒險者為了順著糾紛爭吵的源頭找到五月雨，在太陽神草原的重逢集市收集情報。
-2,TEXT_KINGBA351_04835_SEQ_02,收集了情報，得知近期瑪格奈行為反常。和重逢集市的庫伊奇談談。
-3,TEXT_KINGBA351_04835_SEQ_03,和庫伊奇進行了交談。她打聽到瑪格奈獨自前往了巴兒達木霸道，庫伊奇認為這個瑪格奈是五月雨假扮的。冒險者決定和庫伊奇一同前往巴兒達木霸道。做好戰鬥準備，和重逢集市的庫伊奇談談。
-4,TEXT_KINGBA351_04835_SEQ_04,和庫伊奇進行了交談，和她一同去了巴兒達木霸道。在那裡發現五月雨擬態成了紗都，瑪格奈險些被騙。五月雨打暈了瑪格奈，露出真面目向冒險者一行發起襲擊。配合庫伊奇打倒五月雨。
-5,TEXT_KINGBA351_04835_SEQ_05,五月雨想要再次逃跑，但庫伊奇射出的箭成功命中了他。瑪格奈羈押了五月雨。庫伊奇雖然成功為伊陶喀報仇，且奪回了祭器，但對回到村子一事感到歉疚和不安。和太陽神草原巴兒達木霸道入口的庫伊奇談談。
-6,TEXT_KINGBA351_04835_SEQ_06,和庫伊奇進行了交談。冒險者決定和她一起回程報告成功奪回了祭器一事。和圖萊尤拉貝殼亭的夏賽帕談談。
-7,TEXT_KINGBA351_04835_SEQ_07,和夏賽帕進行了交談。庫伊奇說明了伊陶喀的死及成功奪回祭器之後，表示自己沒有重返家鄉的資格。但夏賽帕否定了她的說法，並表示村中的大家都很擔心她。庫伊奇決定回到故鄉。她向冒險者表達了自己的感謝，並說多虧了冒險者自己才能真正成為一名獵人。與冒險者約好有緣再會後，她啟程返回了家鄉。
-8,TEXT_KINGBA351_04835_SEQ_08,
-9,TEXT_KINGBA351_04835_SEQ_09,
-10,TEXT_KINGBA351_04835_SEQ_10,
-11,TEXT_KINGBA351_04835_SEQ_11,
-12,TEXT_KINGBA351_04835_SEQ_12,
-13,TEXT_KINGBA351_04835_SEQ_13,
-14,TEXT_KINGBA351_04835_SEQ_14,
-15,TEXT_KINGBA351_04835_SEQ_15,
-16,TEXT_KINGBA351_04835_SEQ_16,
-17,TEXT_KINGBA351_04835_SEQ_17,
-18,TEXT_KINGBA351_04835_SEQ_18,
-19,TEXT_KINGBA351_04835_SEQ_19,
-20,TEXT_KINGBA351_04835_SEQ_20,
-21,TEXT_KINGBA351_04835_SEQ_21,
-22,TEXT_KINGBA351_04835_SEQ_22,
-23,TEXT_KINGBA351_04835_SEQ_23,
-24,TEXT_KINGBA351_04835_TODO_00,在重逢集市收集情報
-25,TEXT_KINGBA351_04835_TODO_01,和庫伊奇對話
-26,TEXT_KINGBA351_04835_TODO_02,再次和庫伊奇對話
-27,TEXT_KINGBA351_04835_TODO_03,再次和庫伊奇對話
-28,TEXT_KINGBA351_04835_TODO_04,進一步和庫伊奇對話
-29,TEXT_KINGBA351_04835_TODO_05,和圖萊尤拉的夏賽帕對話
-30,TEXT_KINGBA351_04835_TODO_06,
-31,TEXT_KINGBA351_04835_TODO_07,
-32,TEXT_KINGBA351_04835_TODO_08,
-33,TEXT_KINGBA351_04835_TODO_09,
-34,TEXT_KINGBA351_04835_TODO_10,
-35,TEXT_KINGBA351_04835_TODO_11,
-36,TEXT_KINGBA351_04835_TODO_12,
-37,TEXT_KINGBA351_04835_TODO_13,
-38,TEXT_KINGBA351_04835_TODO_14,
-39,TEXT_KINGBA351_04835_TODO_15,
-40,TEXT_KINGBA351_04835_TODO_16,
-41,TEXT_KINGBA351_04835_TODO_17,
-42,TEXT_KINGBA351_04835_TODO_18,
-43,TEXT_KINGBA351_04835_TODO_19,
-44,TEXT_KINGBA351_04835_TODO_20,
-45,TEXT_KINGBA351_04835_TODO_21,
-46,TEXT_KINGBA351_04835_TODO_22,
-47,TEXT_KINGBA351_04835_TODO_23,
-48,TEXT_KINGBA351_04835_KUIYKI_000_000,<hex:022903EB0203>！你來得正是時候！<hex:02100103>正好有個你認識的人來這裡找你。
-49,TEXT_KINGBA351_04835_KUIYKI_000_001,而且看她的意思，這事還和五月雨有關係，<hex:02100103>她正在我借宿的地方等你，我這就請她過來。
-50,TEXT_KINGBA351_04835_CIRINA_000_002,抱歉<hex:022903EB0203>，突然跑到這裡來找你，<hex:02100103>實在是有件事必須讓你立刻知道。
-51,TEXT_KINGBA351_04835_Q2_000_000,要說什麼？
-52,TEXT_KINGBA351_04835_A2_000_001,我們在重逢集市初遇時你在買什麼？
-53,TEXT_KINGBA351_04835_A2_000_002,我們挑戰巴兒達木霸道的前一天晚上吃了什麼肉？
-54,TEXT_KINGBA351_04835_CIRINA_000_003,我記得是……芹菜吧。<hex:02100103>當時我手裡沒有足夠的錢，多虧了有你幫忙。
-55,TEXT_KINGBA351_04835_CIRINA_000_004,應該是……狼獾的肉吧？<hex:02100103>那時候你還和飛燕先生他們比賽誰打到的獵物最好呢。
-56,TEXT_KINGBA351_04835_CIRINA_000_005,你這樣子，是在警惕冒牌貨吧，<hex:02100103>我想要和你說的也是這件事。
-57,TEXT_KINGBA351_04835_CIRINA_000_006,前幾天，你來到模兒衣樓警告我，<hex:02100103>說飛燕先生髮狂了，<hex:02100103>多瑪的大軍已經盯上了太陽神草原。
-58,TEXT_KINGBA351_04835_CIRINA_000_007,所幸我們早前已經收到了多瑪方面的警告，<hex:02100103>得知有能擬態成他人的煽動者正在四下活動，<hex:02100103>因此才沒有上當受騙。
-59,TEXT_KINGBA351_04835_CIRINA_000_008,可惜的是，我們雖然識破了假貨，<hex:02100103>但當我們想要抓住他的時候，<hex:02100103>那個冒牌貨卻變成了羊，鑽進羊群跑沒影了。
-60,TEXT_KINGBA351_04835_CIRINA_000_009,我將此事轉告多瑪那邊的時候，<hex:02100103>從一位戰士口中得知，你正滯留黃金港追捕這個煽動者，<hex:02100103>於是我就決定過來一趟。
-61,TEXT_KINGBA351_04835_KUIYKI_000_010,五月雨那混蛋……<hex:02100103>又在那胡言亂語想要挑起戰爭！<hex:02100103>我們得立刻把他找出來，阻止他繼續作惡！
-62,TEXT_KINGBA351_04835_CIRINA_000_011,太陽神草原的大家都在盡力收集犯人的行蹤，<hex:02100103>你們可以去重逢集市打聽一番。
-63,TEXT_KINGBA351_04835_CIRINA_000_012,我會負責轉告其他部族，讓大家都當心那個冒牌貨，<hex:02100103>你們行動時也請務必小心！
-64,TEXT_KINGBA351_04835_KUIYKI_000_013,那我們就去太陽神草原的重逢集市吧，<hex:02100103>到那裡跟人打聽一番，看看有沒有人見過可疑的傢伙！
-65,TEXT_KINGBA351_04835_KUIYKI_000_020,這裡的感覺和薩卡圖拉爾好像啊，<hex:02100103>這種人和自然共生的感覺就像是回家了一樣。
-66,TEXT_KINGBA351_04835_CIRINA_000_021,我會負責轉告其他部族，讓大家都當心那個冒牌貨，<hex:02100103>你們行動時也請務必小心！
-67,TEXT_KINGBA351_04835_BOTOKHUI_000_030,引誘他人爭鬥的煽動者？<hex:02100103>我們太陽神草原的部族之間……<hex:02100103>不是天天在吵來吵去嗎？
-68,TEXT_KINGBA351_04835_BOTOKHUI_000_031,抱歉，你還是去問問別人吧，<hex:02100103>我得繼續招呼客人了。
-69,TEXT_KINGBA351_04835_SUVD_000_032,重逢集市這邊禁止動手，<hex:02100103>我的部族則和平常一樣安寧。
-70,TEXT_KINGBA351_04835_SUVD_000_033,話說回來，我好像聽到一些傳聞，<hex:02100103>奧羅尼部的長兄瑪格奈最近有些奇怪，<hex:02100103>說不定和你想知道的事情有關係。
-71,TEXT_KINGBA351_04835_KUIYKI_000_034,太陽神草原上時常發生糾紛，<hex:02100103>但我好像有段時間沒聽到有人真的動手了……
-72,TEXT_KINGBA351_04835_KUIYKI_000_035,說到這個，你聽說了嗎？<hex:02100103>奧羅尼部的瑪格奈最近偷偷溜出了晨曦王座，<hex:02100103>也不知道他到底是去哪了……
-73,TEXT_KINGBA351_04835_BOTOKHUI_000_037,我們太陽神草原的部族之間……<hex:02100103>不是天天在吵來吵去嗎？<hex:02100103>抱歉，你還是去問問別人吧。
-74,TEXT_KINGBA351_04835_SUVD_000_038,我好像聽到一些傳聞，<hex:02100103>奧羅尼部的長兄瑪格奈最近有些奇怪，<hex:02100103>說不定和你想知道的事情有關係。
-75,TEXT_KINGBA351_04835_KUIYKI_000_039,你聽說了嗎？<hex:02100103>奧羅尼部的瑪格奈最近偷偷溜出了晨曦王座，<hex:02100103>也不知道他到底是去哪了……
-76,TEXT_KINGBA351_04835_KUIYKI_000_040,怎麼樣？你打聽到什麼消息了嗎？
-77,TEXT_KINGBA351_04835_KUIYKI_000_041,我這裡也是，傳聞都是關於這個瑪格奈的。<hex:02100103>根據剛才打聽的消息，據說他獨自跑了出去，<hex:02100103>目的地是一個叫巴兒達木霸道的地方。
-78,TEXT_KINGBA351_04835_KUIYKI_000_042,說不定這個瑪格奈就是五月雨擬態的。
-79,TEXT_KINGBA351_04835_KUIYKI_000_043,總之，我們去巴兒達木霸道看看吧，<hex:02100103>這次要做好準備，不能再讓那傢伙跑了。
-80,TEXT_KINGBA351_04835_KUIYKI_000_050,你準備好了嗎？<hex:02100103>我們和五月雨戰鬥的時候，<hex:02100103>他肯定會擬態成強大的戰士或者兇猛的魔獸。
-81,TEXT_KINGBA351_04835_KUIYKI_100_050,想必他也做好了調查，<hex:02100103>掌握了擬態目標擁有的能力，<hex:02100103>應該會是一場艱難的戰鬥。
-82,TEXT_KINGBA351_04835_KUIYKI_100_051,不過，我也不再是從前那個墊底獵人了。<hex:02100103>只要你我齊心協力，不管是什麼樣的敵人都不在話下！
-83,TEXT_KINGBA351_04835_KUIYKI_100_052,走，我們去巴兒達木霸道。<hex:02100103>為伊陶喀報仇！奪回祭器！
-84,TEXT_KINGBA351_04835_SAMIDARE_000_300,我其實……<hex:02100103>一直都對你有好感。
-85,TEXT_KINGBA351_04835_MAGNAI_000_301,什、什麼，這是什麼可怕的謊話……<hex:02100103>我懂了，你是想趁我慌亂的時候，趁機害我！
-86,TEXT_KINGBA351_04835_SAMIDARE_000_302,我怎麼可能會這麼做？<hex:02100103>雖然過去我們之間發生了很多事情，<hex:02100103>但這其實都是我用另一種方法在表達對你的喜歡。
-87,TEXT_KINGBA351_04835_SAMIDARE_000_303,可直到我所不希望的婚姻強加在我的身上，<hex:02100103>我才意識到了自己真正的想法。<hex:02100103>所以，我克服了自己心中的羞怯，將自己的心意告訴你。
-88,TEXT_KINGBA351_04835_MAGNAI_000_304,等會兒，婚姻？<hex:02100103>你這瘋狗一樣的女人誰要娶你？
-89,TEXT_KINGBA351_04835_SAMIDARE_000_305,是多瑪的飛燕！<hex:02100103>我掌握著強大的部族，<hex:02100103>他希望通過娶我來獲得掌控太陽神草原的權力。
-90,TEXT_KINGBA351_04835_MAGNAI_000_306,這該死的飛燕，竟敢做出這種事情！
-91,TEXT_KINGBA351_04835_MAGNAI_000_307,你、你剛才說的胡話，我可以考慮……考慮考慮！<hex:02100103>你也並非沒有成為我月神的可能性。
-92,TEXT_KINGBA351_04835_MAGNAI_000_308,不過，比起這個，現在最重要的是集結兵力……<hex:02100103>帶兵攻入多瑪，幹掉飛燕那個不知廉恥的傢伙！
-93,TEXT_KINGBA351_04835_Q1_000_000,要說什麼？
-94,TEXT_KINGBA351_04835_A1_000_001,那個紗都是冒牌貨！
-95,TEXT_KINGBA351_04835_A1_000_002,那不是你的月神！
-96,TEXT_KINGBA351_04835_MAGNAI_000_309,你、你是……你怎麼在這裡……？
-97,TEXT_KINGBA351_04835_SAMIDARE_000_310,他們也是飛燕一夥的，這你都不明白嗎？！<hex:02100103>快，把他們幹掉！
-98,TEXT_KINGBA351_04835_MAGNAI_000_311,但……但是……
-99,TEXT_KINGBA351_04835_SAMIDARE_000_312,沒想到你們竟然追到這裡來礙我的事……<hex:02100103>我本來還想盡可能避開你們，<hex:02100103>這樣看來，只有一戰了。
-100,TEXT_KINGBA351_04835_SAMIDARE_000_313,就讓我擬態成以前見過的強者來解決你們吧！
-101,TEXT_KINGBA351_04835_SAMIDARE_000_314,先來試試她吧！
-102,TEXT_KINGBA351_04835_KUIYKI_000_315,就算你變得再怎麼像伊陶喀，也不過是個冒牌貨！<hex:02100103>我要為她報仇！
-103,TEXT_KINGBA351_04835_SAMIDARE_000_400,怎、怎麼可能！
-104,TEXT_KINGBA351_04835_KUIYKI_000_401,伊陶喀……我為你報仇了……
-105,TEXT_KINGBA351_04835_MAGNAI_000_402,我怎麼會在這種地方？<hex:02100103>我好像做了個很奇怪的夢……
-106,TEXT_KINGBA351_04835_ORONIRIMERCHANTA04835_100_402,(-奧羅尼部的劍術師-)呃……這個的話……
-107,TEXT_KINGBA351_04835_ORONIRIMERCHANTB04835_100_403,(-奧羅尼部的戰士-)就、就是這個卑鄙的傢伙，趁著偉大的長兄你不注意，<hex:02100103>把你打暈了！
-108,TEXT_KINGBA351_04835_MAGNAI_000_403,原來如此，就是因為你這個傢伙我才會做那麼可怕的夢！<hex:02100103>竟敢讓神之子蒙受此等苦難！領受我的憤怒吧！<hex:02100103>我一定會讓你明明白白地知道自己犯下了多大錯誤！
-109,TEXT_KINGBA351_04835_KUIYKI_000_404,多虧了有你在，<hex:02100103>我才能替伊陶喀報仇，追回祭器。<hex:02100103>真的很感謝你一直以來的幫助。
-110,TEXT_KINGBA351_04835_KUIYKI_000_405,可是……在部族裡的大家的期待當中，<hex:02100103>帶著祭器回去的人應該是伊陶喀……
-111,TEXT_KINGBA351_04835_KUIYKI_000_406,最厲害的獵人死了，我這種人卻回到了家鄉……<hex:02100103>也不知道大家能不能接受。
-112,TEXT_KINGBA351_04835_CIRINA_000_450,我聽說你們解決冒牌貨那件事了。<hex:02100103>太好了，這下大家也都能放心了。<hex:02100103>謝謝你！
-113,TEXT_KINGBA351_04835_MAGNAI_100_451,巴兒達木霸道發生的一切都是夢。<hex:02100103>是夢……對吧？
-114,TEXT_KINGBA351_04835_CIRINA_000_451,
-115,TEXT_KINGBA351_04835_KUIYKI_000_500,總之，為了奪回祭器而開始的旅途到這裡就結束了。<hex:02100103>能回家本該是件開心的事情，可我心裡總覺得不太舒服。
-116,TEXT_KINGBA351_04835_KUIYKI_000_501,你接受了夏賽帕的委託，應該也要去向她報告吧。<hex:02100103>我們可以一起回圖萊尤拉。
-117,TEXT_KINGBA351_04835_SHASHEPYA_000_510,你回來了！<hex:02100103>怎麼樣？拿回鳳蝶的祭器了嗎？
-118,TEXT_KINGBA351_04835_SHASHEPYA_000_511,咦？伊陶喀沒和你一起回來嗎？
-119,TEXT_KINGBA351_04835_SHASHEPYA_000_512,庫伊奇？！<hex:02100103>你還活著！太好了！
-120,TEXT_KINGBA351_04835_SHASHEPYA_000_513,伊陶喀已經不在了啊……
-121,TEXT_KINGBA351_04835_KUIYKI_000_514,是，部族裡最厲害的獵人死了，<hex:02100103>而我這個害得祭器丟失的墊底獵人卻活了下來。
-122,TEXT_KINGBA351_04835_KUIYKI_000_515,祭器就由你帶回村子的聖所吧，<hex:02100103>我已經沒資格回去了……
-123,TEXT_KINGBA351_04835_SHASHEPYA_100_516,你在說什麼傻話啊！
-124,TEXT_KINGBA351_04835_SHASHEPYA_000_516,庫伊奇你生來就是我們的家人！<hex:02100103>回自己的家要什麼資格！
-125,TEXT_KINGBA351_04835_SHASHEPYA_000_517,因為你總是責任感很強，發現你不見了之後，<hex:02100103>大家都擔心壞了，害怕你想不開，<hex:02100103>所以我們找了你三天三夜呢！森林和湖邊我們都找遍了！
-126,TEXT_KINGBA351_04835_SHASHEPYA_000_518,更何況庫伊奇你把祭器帶回來了。<hex:02100103>這時候伊陶喀的魂靈肯定也在天上的森林裡為你驕傲呢！
-127,TEXT_KINGBA351_04835_SHASHEPYA_000_519,如果非要覺得伊陶喀的死有你一份責任，<hex:02100103>那你就該肩負起這個責任，<hex:02100103>代替她守護我們的村子。
-128,TEXT_KINGBA351_04835_SHASHEPYA_100_519,有了你這次帶回來的寶貝眼鏡，你也可以做到了不是嗎？
-129,TEXT_KINGBA351_04835_KUIYKI_000_520,……謝謝。
-130,TEXT_KINGBA351_04835_SHASHEPYA_000_521,那麼，我們趕快回村子吧。<hex:02100103>大家都擔心壞了，你回去了也好讓大家安心。
-131,TEXT_KINGBA351_04835_SHASHEPYA_000_522,我也得好好謝謝你。<hex:02100103>謝謝你幫助庫伊奇奪回了祭器！
-132,TEXT_KINGBA351_04835_KUIYKI_000_523,像我這樣靠不住的傢伙就算是假裝成厲害的獵人，<hex:02100103>結果也只是個冒牌貨。
-133,TEXT_KINGBA351_04835_KUIYKI_100_523,但多虧了有你。<hex:02100103>現在我雖然稱不上是最厲害的，但也姑且能算個靠譜的獵人了。<hex:02100103>我真的不知道該如何感謝你才好！
-134,TEXT_KINGBA351_04835_KUIYKI_000_524,謝謝你！<hex:022903EB0203>！<hex:02100103>我們有緣再見吧！
+0,"TEXT_KINGBA351_04835_SEQ_00","Kuiyki is eager to discuss new developments with you."
+1,"TEXT_KINGBA351_04835_SEQ_01","Kuiyki informs you that an old friend, Cirina, has come to visit you. The hunter brings the Mol maiden before you, but even you have grown wary of impostors, and attempt to prove her identity with a simple question. She provides a satisfactory answer, then explains the reason for her visit: Samidare appeared in the Azim Steppe, once more assuming your form in an attempt to incite war between the tribes and Doma. While his initial scheme failed, you and Kuiyki suspect he may still be in the area, and Cirina encourages a visit to Reunion to gather information."
+2,"TEXT_KINGBA351_04835_SEQ_02","You speak with a number of merchants, and learn one interesting tidbit of information: Magnai has been acting strangely. Kuiyki will wish to hear of this."
+3,"TEXT_KINGBA351_04835_SEQ_03","You soon learn Kuiyki has also heard similar rumors, including one that Magnai was recently seen entering Bardam's Mettle. It seems beyond doubt that Samidare now wears Magnai's face, and is unquestionably up to no good. Kuiyki cautions you to see to your preparations, as once you enter, the final battle will ensue."
+4,"TEXT_KINGBA351_04835_SEQ_04","You make for Bardam's Mettle, yet nothing in all the shards combined could have prepared you for the sight that greets your eyes: Sadu and Magnai engaging in what appears to be a disturbing tryst. As you watch, you notice that each word Sadu utters is more unnatural than the last, and quickly discern that Samidare has taken on her form. You attempt to alert Magnai to this fact, but he is knocked out from behind before he has a chance to react. Samidare has lost patience with your frequent interventions, and takes on the late I'toca's form as you engage in battle."
+5,"TEXT_KINGBA351_04835_SEQ_05","Despite transforming into a series of fearsome fighters and finally the guardian of Doma herself, Samidare is no match for you and the sharp-eyed Kuiyki. Seeing victory is out of the cards, he attempts to flee, but is shot down by Kuiyki, who at long last fulfills her promise to I'toca. Magnai, meanwhile, intends to make sure Samidare is punished for his crimes─and the shadow of shame he has cast over the Sun. With the Dreamweave Cocoon reclaimed at last, Kuiyki knows that the long journey home must begin─though she is uncertain how she will be greeted."
+6,"TEXT_KINGBA351_04835_SEQ_06","As it was Shashepya who originally requested your aid, Kuiyki suggests you return to Tuliyollal together to let her know the cocoon has been reclaimed."
+7,"TEXT_KINGBA351_04835_SEQ_07","Shashepya is surprised to see you return alone, but soon Kuiyki arrives to explain all. Shashepya is dismayed to learn of what befell I'toca, but is relieved Kuiyki has returned safely with the cocoon in hand. Yet Kuiyki insists her accomplishments will never bring I'toca back, nor pardon her failures, and so vows to exile herself. Shashepya rejects this immediately, reassuring Kuiyki that the forest is her home. Kuiyki eventually acquiesces to Shashepya, and thanks you for all you have done. She may not be her village's greatest hunter, but she is at least a hunter now worthy of the title. With the hope that your paths may one day cross again, she sets off with Shashepya to make her long overdue return home."
+8,"TEXT_KINGBA351_04835_SEQ_08",""
+9,"TEXT_KINGBA351_04835_SEQ_09",""
+10,"TEXT_KINGBA351_04835_SEQ_10",""
+11,"TEXT_KINGBA351_04835_SEQ_11",""
+12,"TEXT_KINGBA351_04835_SEQ_12",""
+13,"TEXT_KINGBA351_04835_SEQ_13",""
+14,"TEXT_KINGBA351_04835_SEQ_14",""
+15,"TEXT_KINGBA351_04835_SEQ_15",""
+16,"TEXT_KINGBA351_04835_SEQ_16",""
+17,"TEXT_KINGBA351_04835_SEQ_17",""
+18,"TEXT_KINGBA351_04835_SEQ_18",""
+19,"TEXT_KINGBA351_04835_SEQ_19",""
+20,"TEXT_KINGBA351_04835_SEQ_20",""
+21,"TEXT_KINGBA351_04835_SEQ_21",""
+22,"TEXT_KINGBA351_04835_SEQ_22",""
+23,"TEXT_KINGBA351_04835_SEQ_23",""
+24,"TEXT_KINGBA351_04835_TODO_00","Gather information in Reunion."
+25,"TEXT_KINGBA351_04835_TODO_01","Speak with Kuiyki."
+26,"TEXT_KINGBA351_04835_TODO_02","Speak with Kuiyki."
+27,"TEXT_KINGBA351_04835_TODO_03","Speak with Kuiyki."
+28,"TEXT_KINGBA351_04835_TODO_04","Speak with Kuiyki."
+29,"TEXT_KINGBA351_04835_TODO_05","Speak with Shashepya in Tuliyollal."
+30,"TEXT_KINGBA351_04835_TODO_06",""
+31,"TEXT_KINGBA351_04835_TODO_07",""
+32,"TEXT_KINGBA351_04835_TODO_08",""
+33,"TEXT_KINGBA351_04835_TODO_09",""
+34,"TEXT_KINGBA351_04835_TODO_10",""
+35,"TEXT_KINGBA351_04835_TODO_11",""
+36,"TEXT_KINGBA351_04835_TODO_12",""
+37,"TEXT_KINGBA351_04835_TODO_13",""
+38,"TEXT_KINGBA351_04835_TODO_14",""
+39,"TEXT_KINGBA351_04835_TODO_15",""
+40,"TEXT_KINGBA351_04835_TODO_16",""
+41,"TEXT_KINGBA351_04835_TODO_17",""
+42,"TEXT_KINGBA351_04835_TODO_18",""
+43,"TEXT_KINGBA351_04835_TODO_19",""
+44,"TEXT_KINGBA351_04835_TODO_20",""
+45,"TEXT_KINGBA351_04835_TODO_21",""
+46,"TEXT_KINGBA351_04835_TODO_22",""
+47,"TEXT_KINGBA351_04835_TODO_23",""
+48,"TEXT_KINGBA351_04835_KUIYKI_000_000","Your timing could not have been more impeccable, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! A person claiming to be an acquaintance of yours stopped by just moments ago, wishing to have a word─about Samidare, no less."
+49,"TEXT_KINGBA351_04835_KUIYKI_000_001","They're presently waiting in my room, so give me just a moment and I'll bring them here."
+50,"TEXT_KINGBA351_04835_CIRINA_000_002","You look well, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Forgive me for eschewing pleasantries, but there is an urgent matter I wish to discuss."
+51,"TEXT_KINGBA351_04835_Q2_000_000","What will you say?"
+52,"TEXT_KINGBA351_04835_A2_000_001","When we first met in Reunion, what did you purchase at the market?"
+53,"TEXT_KINGBA351_04835_A2_000_002","What did we eat the night before our trial in Bardam's Mettle?"
+54,"TEXT_KINGBA351_04835_CIRINA_000_003","Kinsai, as I recall. I had insufficient funds to purchase it myself, so you helped me gather whisperroot to trade for it instead."
+55,"TEXT_KINGBA351_04835_CIRINA_000_004","Ah, I believe we feasted on gulo gulo meat. You and Hien competed to see who could bring back the greater haul."
+56,"TEXT_KINGBA351_04835_CIRINA_000_005","It would seem you, too, have grown wary of impostors. Then we can proceed straight into the heart of the matter."
+57,"TEXT_KINGBA351_04835_CIRINA_000_006","<hex:021A020203>You<hex:021A020103> appeared in Mol Iloh a few days ago, claiming Hien had been driven to madness. That he was assembling an army in Doma with plans to conquer the Azim Steppe."
+58,"TEXT_KINGBA351_04835_CIRINA_000_007","For a blessing, we'd already received word from a Doman envoy that an agitator was mimicking others, and saw the ruse for what it was."
+59,"TEXT_KINGBA351_04835_CIRINA_000_008","Unfortunately, when we attempted to capture them, the impostor transformed into a sheep and disappeared among the bands grazing on the plains."
+60,"TEXT_KINGBA351_04835_CIRINA_000_009","When I informed our friends in Doma of the incident, I was told you have been using Kugane as a base to track down the perpetrator, and thought it best I apprise you of this happening."
+61,"TEXT_KINGBA351_04835_KUIYKI_000_010","Samidare... He won't relent. His schemes won't end until we make them end."
+62,"TEXT_KINGBA351_04835_CIRINA_000_011","You may discover a clue as to his whereabouts in Reunion. If anyone in the Steppe has seen him, that is where they will be."
+63,"TEXT_KINGBA351_04835_CIRINA_000_012","Now, I must alert the other tribes to this threat. May the winds speed your way."
+64,"TEXT_KINGBA351_04835_KUIYKI_000_013","Off to the Azim Steppe, then. With any luck, someone in Reunion will have insight to offer."
+65,"TEXT_KINGBA351_04835_KUIYKI_000_020","Once more am I reminded of Xak Tural. I cannot help but feel at home among those who also live alongside nature."
+66,"TEXT_KINGBA351_04835_CIRINA_000_021","Samidare will find the Azim Steppe unreceptive to his overtures for war."
+67,"TEXT_KINGBA351_04835_BOTOKHUI_000_030","Someone stirring up trouble? A quarrel among the tribes is as common as the rising sun. Not a day goes by without it."
+68,"TEXT_KINGBA351_04835_BOTOKHUI_000_031","Now, if you will excuse me, I have goods to sell. Kindly continue your inquiries elsewhere."
+69,"TEXT_KINGBA351_04835_SUVD_000_032","Conflict is forbidden in Reunion. This is known. As for my tribe, all is at peace. "
+70,"TEXT_KINGBA351_04835_SUVD_000_033","I heard a rumor of interest, however. It seems Magnai of the Oronir has been behaving strangely of late. Perhaps that is related to the matter you are investigating?"
+71,"TEXT_KINGBA351_04835_KUIYKI_000_034","Conflict? Naught besides the normal quarrels between tribes. Certainly no disputes on the scale you speak of."
+72,"TEXT_KINGBA351_04835_KUIYKI_000_035","But I <hex:021A020203>have<hex:021A020103> heard rumors that Magnai has been sneaking out from the Dawn Throne. Where could he be going, and to do what, I wonder...?"
+73,"TEXT_KINGBA351_04835_BOTOKHUI_000_037","Stories of quarrels in this land are as common as grazing sheep. Perhaps someone else can help you."
+74,"TEXT_KINGBA351_04835_SUVD_000_038","Consider looking into the rumors about Magnai. You may find what you're looking for at the end of that trail."
+75,"TEXT_KINGBA351_04835_KUIYKI_000_039","What could Magnai be up to, I wonder..."
+76,"TEXT_KINGBA351_04835_KUIYKI_000_040","Were you able to learn anything of interest?"
+77,"TEXT_KINGBA351_04835_KUIYKI_000_041","I've also heard the rumors pertaining to this Magnai. One person even stated they saw him headed towards a place called Bardam's Mettle not long ago."
+78,"TEXT_KINGBA351_04835_KUIYKI_000_042","Mayhap his is the form Samidare has chosen to take on."
+79,"TEXT_KINGBA351_04835_KUIYKI_000_043","Whatever the case may be, we'll find the answer at Bardam's Mettle. We can't allow Samidare's depravities to go on any longer. Steel yourself, for when next we face him, we're putting an end to all of this."
+80,"TEXT_KINGBA351_04835_KUIYKI_000_050","Good, you're ready. Once the battle begins, there's no telling which form Samidare might take. An eminent warrior, a fearsome beast...or worse."
+81,"TEXT_KINGBA351_04835_KUIYKI_100_050","He's also shown more scrupulous behavior in his preparations of late. Whatever his form, we would do best to assume that he has thoroughly studied its strengths, and will use them to full effect."
+82,"TEXT_KINGBA351_04835_KUIYKI_100_051","Yet I am not the feeble hunter I was before. Together, with your martial might and my exacting eye, we will defeat him!"
+83,"TEXT_KINGBA351_04835_KUIYKI_100_052","At long last, I'toca shall have her vengeance, and my village shall see the cocoon returned!"
+84,"TEXT_KINGBA351_04835_SAMIDARE_000_300","My beautiful, bright sun... I would bask in your warmth till my flesh returns to the earth."
+85,"TEXT_KINGBA351_04835_MAGNAI_000_301","H-Has the feral dog gone rabid!? You speak these honeyed words to lure me into your cot, only to slit my throat as I sleep!"
+86,"TEXT_KINGBA351_04835_SAMIDARE_000_302","Hush, fool. I am your Nhaama. Though we've had our disagreements in the past, I've come to understand my actions were born of love."
+87,"TEXT_KINGBA351_04835_SAMIDARE_000_303","Yet only now that I am forced to wed do I realize this. Despite my shame, I wished to confess my feelings before it's too late."
+88,"TEXT_KINGBA351_04835_MAGNAI_000_304","Wed? A Dotharli beast like you? To whom? To <hex:021A020203>what<hex:021A020103>?"
+89,"TEXT_KINGBA351_04835_SAMIDARE_000_305","Hien of Doma. By becoming kin, he seeks to leverage the influence of the Dotharl to claim dominion over the Steppe."
+90,"TEXT_KINGBA351_04835_MAGNAI_000_306","The Doman knows no shame..."
+91,"TEXT_KINGBA351_04835_MAGNAI_000_307","V-Very well, I will consider your proposal. Far-fetched though it may be, I cannot overlook the possibility that you are my Nhaama."
+92,"TEXT_KINGBA351_04835_MAGNAI_000_308","But first, we must gather our warriors. The Doman's impudence cannot go unpunished. We march for Doma come morrow's dawn."
+93,"TEXT_KINGBA351_04835_Q1_000_000","What will you say?"
+94,"TEXT_KINGBA351_04835_A1_000_001","That's not Sadu!"
+95,"TEXT_KINGBA351_04835_A1_000_002","That is not your moon!"
+96,"TEXT_KINGBA351_04835_MAGNAI_000_309","You... What are you doing here?"
+97,"TEXT_KINGBA351_04835_SAMIDARE_000_310","Is it not obvious? They are spies of Doma, come to quash any thought of resistance. You must kill them. Quickly."
+98,"TEXT_KINGBA351_04835_MAGNAI_000_311","But...<hex:02080CE905FF04>she<hex:FF03>he<hex:03> is the khagan..."
+99,"TEXT_KINGBA351_04835_SAMIDARE_000_312","You two are quite the persistent pair. I had hoped to strike at your backs from the shadows, but now you've forced my hand."
+100,"TEXT_KINGBA351_04835_SAMIDARE_000_313","I will select from my repertoire the greatest warriors I have witnessed, and use their strength to give you the death you so crave."
+101,"TEXT_KINGBA351_04835_SAMIDARE_000_314","Beginning with her!"
+102,"TEXT_KINGBA351_04835_KUIYKI_000_315","How dare you!? When my arrow pierces your breast, I'toca will finally know peace!"
+103,"TEXT_KINGBA351_04835_SAMIDARE_000_400","N-No!"
+104,"TEXT_KINGBA351_04835_KUIYKI_000_401","I'toca... It's finally done."
+105,"TEXT_KINGBA351_04835_MAGNAI_000_402","What am I doing here? I feel as though I have just woken from the strangest dream..."
+106,"TEXT_KINGBA351_04835_ORONIRIMERCHANTA04835_100_402","(-Timid Swordsman-)E-Erm... Well, you see..."
+107,"TEXT_KINGBA351_04835_ORONIRIMERCHANTB04835_100_403","(-Daring Warrior-)Th-This cowardly cur assaulted you from behind, and knocked you unconscious!"
+108,"TEXT_KINGBA351_04835_MAGNAI_000_403","You have shown the Sun disgrace this day. You will feel his scorn impressed upon your flesh. You shall forget the warmth of his radiance. In the shadows will you scream, yet none will hear. Prepare yourself."
+109,"TEXT_KINGBA351_04835_KUIYKI_000_404","Death would have been too good a fate for him. He deserves to spend the rest of his days feeling the weight of his crimes. Now we've honored I'toca's memory, and reclaimed the cocoon. No words can express my gratitude, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>."
+110,"TEXT_KINGBA351_04835_KUIYKI_000_405","I can finally go home... But my community awaits our foremost hunter's triumphant return."
+111,"TEXT_KINGBA351_04835_KUIYKI_000_406","What expression will come over their faces when the village disgrace arrives instead? I don't know if I can bear to see..."
+112,"TEXT_KINGBA351_04835_CIRINA_000_450","I am told the Oronir have the aggravator imprisoned within the Dawn's Throne. It is heartening news, and I thank you for your part in his capture."
+113,"TEXT_KINGBA351_04835_MAGNAI_100_451","What you witnessed inside Bardam's Mettle was a dream. None of it was real. Understand?"
+114,"TEXT_KINGBA351_04835_CIRINA_000_451",""
+115,"TEXT_KINGBA351_04835_KUIYKI_000_500","Our journey to reclaim the Dreamweave Cocoon has come to an end at long last. Would that I could return home in high spirits."
+116,"TEXT_KINGBA351_04835_KUIYKI_000_501","As I recall, you said Shashepya is the one who requested your help, yes? Let us make the journey back to Tuliyollal, and report to her all that has happened."
+117,"TEXT_KINGBA351_04835_SHASHEPYA_000_510","You're back! Were you able to retrieve the Dreamweave Cocoon?"
+118,"TEXT_KINGBA351_04835_SHASHEPYA_000_511","I'toca isn't with you?"
+119,"TEXT_KINGBA351_04835_SHASHEPYA_000_512","Kuiyki!? Thank goodness, you're alive!"
+120,"TEXT_KINGBA351_04835_SHASHEPYA_000_513","May her soul rest in the cocoon's embrace. I can't believe I'toca is gone..."
+121,"TEXT_KINGBA351_04835_KUIYKI_000_514","Yes. Our village's greatest hunter is lost to us, while its greatest failure survives."
+122,"TEXT_KINGBA351_04835_KUIYKI_000_515","Here, take the cocoon back where it belongs─home. I have no right to return."
+123,"TEXT_KINGBA351_04835_SHASHEPYA_100_516","Don't be ridiculous!"
+124,"TEXT_KINGBA351_04835_SHASHEPYA_000_516","You are a child of the forest─you are our dear sister! You can always, always come home!"
+125,"TEXT_KINGBA351_04835_SHASHEPYA_000_517","The entire village has been worried sick about you. We all saw how crestfallen you were, so when you suddenly disappeared, we feared you took your life... For three days and three nights, we scoured land and water to find you."
+126,"TEXT_KINGBA351_04835_SHASHEPYA_000_518","Yet look at you now, Kuiyki. Not only are you hale and whole, but you have reclaimed the cocoon too. I'm sure that I'toca's spirit, hunting in the forests above, is smiling down at you with pride."
+127,"TEXT_KINGBA351_04835_SHASHEPYA_000_519","And she would much rather you take up her mantle and protect the village than wallow in guilt over her death."
+128,"TEXT_KINGBA351_04835_SHASHEPYA_100_519","Nothing escapes your gaze now, after all. Isn't that right?"
+129,"TEXT_KINGBA351_04835_KUIYKI_000_520","...Thank you, Shashepya."
+130,"TEXT_KINGBA351_04835_SHASHEPYA_000_521","It's settled. You will return home with me, and finally our village can breathe a sigh of relief."
+131,"TEXT_KINGBA351_04835_SHASHEPYA_000_522","And it would be remiss of me not to thank you properly, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. For assisting Kuiyki in reclaiming the Dreamweave Cocoon, you have my heartfelt gratitude!"
+132,"TEXT_KINGBA351_04835_KUIYKI_000_523","I was little more than a liar and a hypocrite when we first met."
+133,"TEXT_KINGBA351_04835_KUIYKI_100_523","But during our time together, I discovered that I'm so much more than that. That with the right tools, even I could become a hunter worthy of following in I'toca's footsteps. I'm truly grateful to you for helping me to see that."
+134,"TEXT_KINGBA351_04835_KUIYKI_000_524","Farewell for now, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. I hope that one day, our paths may cross again."

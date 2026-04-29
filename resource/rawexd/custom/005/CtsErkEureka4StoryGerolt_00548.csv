@@ -2,18 +2,18 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_CTSERKEUREKA4STORYGEROLT_00548_GEROLT_000_000,嘿，你來了啊。<hex:02100103>這回我也為你準備了好東西。<hex:02100103>不過在我給你說明之前，你得先去找可露兒小姐談談。
-1,TEXT_CTSERKEUREKA4STORYGEROLT_00548_GEROLT_000_010,喲，你來了啊。<hex:02100103>這回我也為你準備了好東西。<hex:02100103>你就把耳朵掏乾淨了聽我說明吧！
-2,TEXT_CTSERKEUREKA4STORYGEROLT_00548_GEROLT_000_011,首先是關於文理融合器的事情。<hex:02100103>因為保存技術有了進展，所以藥品的可持有數量也就變多了。<hex:02100103>關於這個的詳細情況你得去問調查隊的煉金術士。
-3,TEXT_CTSERKEUREKA4STORYGEROLT_00548_GEROLT_000_012,然後就是魔素板可以進一步改良了。<hex:02100103>這次可以嵌入第7個魔素石了。<hex:02100103>關於這件事，和上次一樣你得去問調查隊的技師。
-4,TEXT_CTSERKEUREKA4STORYGEROLT_00548_GEROLT_000_013,最後要講的是關於武器的強化。<hex:02100103>這個嘛，當然是由我來負責的。<hex:02100103>你要是想進行強化，就一會再來找我。
-5,TEXT_CTSERKEUREKA4STORYGEROLT_00548_GEROLT_100_013,啊，還有那個順便……
-6,TEXT_CTSERKEUREKA4STORYGEROLT_00548_GEROLT_110_013,德雷克，你來說明一下那件事！
-7,TEXT_CTSERKEUREKA4STORYGEROLT_00548_DRAKE_120_013,我有事情向冒險者彙報。<hex:02100103>在這個豐水地帶發現了新種類的文理碎晶。
-8,TEXT_CTSERKEUREKA4STORYGEROLT_00548_DRAKE_130_013,將之前的文理碎晶與發現的新種類文理碎晶進行融合的話，<hex:02100103>沒準能提取出從未見過的記憶。<hex:02100103>如果你能拿到的話，就請你試試看吧。
-9,TEXT_CTSERKEUREKA4STORYGEROLT_00548_GEROLT_000_014,……你的探索任務馬上就快結束了吧。<hex:02100103>我之前可沒少幫過你。<hex:02100103>你可一定要成功啊！
-10,TEXT_CTSERKEUREKA4STORYGEROLT_00548_DRAKE_100_014,我也會聲援你的，<hex:02100103>請你加油吧！
-11,TEXT_CTSERKEUREKA4STORYGEROLT_00548_GEROLT_000_015,好了，我想說的都跟你說完了。<hex:02100103>你要是對強化武器沒有興趣的話，<hex:02100103>就回去找可露兒小姐吧。
-12,TEXT_CTSERKEUREKA4STORYGEROLT_00548_SYSTEM_100_015,當記錄的「文理技能」達到56種以上時，<hex:02100103>可以與中點的德雷克對話，<hex:02100103>開放新的道具交換。
-13,TEXT_CTSERKEUREKA4STORYGEROLT_00548_SYSTEM_150_015,另外，如果要想開放新的道具交換，<hex:02100103>需要先找北點的調查隊的工匠，<hex:02100103>開放元素防具的交換之後才能進行。
-14,TEXT_CTSERKEUREKA4STORYGEROLT_00548_TALK_ACTOR,
+0,"TEXT_CTSERKEUREKA4STORYGEROLT_00548_GEROLT_000_000","Ah, was wonderin' when ye'd come swaggerin' up. I've been bustin' a gut to make yer life easier, but before I get into the juicy details, go an' let Krile know yer here, eh?"
+1,"TEXT_CTSERKEUREKA4STORYGEROLT_00548_GEROLT_000_010","Everythin' sorted with Krile? Good, good. As before, I've got a bunch o' things to catch ye up on. Prick up yer ears an' listen."
+2,"TEXT_CTSERKEUREKA4STORYGEROLT_00548_GEROLT_000_011","First, regardin' the logos manipulator. We've improved the vials we use to store transubstantiated mnemes, meanin' ye can carry around more o' the stuff. The expedition alchemist can tell ye all about it."
+3,"TEXT_CTSERKEUREKA4STORYGEROLT_00548_GEROLT_000_012","Next, yer magia board. If ye was already impressed with six pieces o' magicite─rejoice! We can now augment the thing to hold <hex:021A020203>seven<hex:021A020103> stones. If ye talk to the expedition engineer, he'll fix ye up rightwise."
+4,"TEXT_CTSERKEUREKA4STORYGEROLT_00548_GEROLT_000_013","An' last but not least, me favorite topic.<hex:02100103>...No, not me godsdamned debts, ye cheeky bloody sod. Weapons! I've found a way to make yer weapons even stronger. If this tickles yer fancy, ye jus' let me know."
+5,"TEXT_CTSERKEUREKA4STORYGEROLT_00548_GEROLT_100_013","Ah, an' while yer here..."
+6,"TEXT_CTSERKEUREKA4STORYGEROLT_00548_GEROLT_110_013","Drake! Get yer arse over here an' tell the <hex:02080FE905FF06>woman<hex:FF04>man<hex:03> about the logograms!"
+7,"TEXT_CTSERKEUREKA4STORYGEROLT_00548_DRAKE_120_013","<hex:02080FE905FF06>Madam<hex:FF04>Sir<hex:03>, I am pleased to inform you that we have discovered new varieties of logograms here in Hydatos."
+8,"TEXT_CTSERKEUREKA4STORYGEROLT_00548_DRAKE_130_013","Certain combinations of these may yield heretofore unseen mnemes, and I encourage you to experiment with the logograms you come upon."
+9,"TEXT_CTSERKEUREKA4STORYGEROLT_00548_GEROLT_000_014","...So, this is lookin' to be the final stage o' the expedition. I've stuck with ye all this way, so don't go disappointin' me now, eh? See the job finished!"
+10,"TEXT_CTSERKEUREKA4STORYGEROLT_00548_DRAKE_100_014","From myself as well, <hex:02080FE905FF06>madam<hex:FF04>sir<hex:03>, I wish you the best of luck in your endeavors here!"
+11,"TEXT_CTSERKEUREKA4STORYGEROLT_00548_GEROLT_000_015","Right, everythin' what needed sayin's been said. If ye want to know about weapon enhancement, we can talk now. Otherwise ye can piss off back to Krile."
+12,"TEXT_CTSERKEUREKA4STORYGEROLT_00548_SYSTEM_100_015","Upon recording fifty-six or more unique entries in your Logos Action Log and speaking with Drake, you will be able to acquire new items."
+13,"TEXT_CTSERKEUREKA4STORYGEROLT_00548_SYSTEM_150_015","Please be advised that these items will only become available after you have gained access to the Eureka armor offered by the expedition artisan in Northpoint."
+14,"TEXT_CTSERKEUREKA4STORYGEROLT_00548_TALK_ACTOR",""

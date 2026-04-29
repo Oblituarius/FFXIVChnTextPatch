@@ -1,18 +1,18 @@
-﻿key,0
-#,Name
-offset,0
-int32,str
-0,
-1,戰鬥
-2,玩家對戰
-3,角色
-4,道具
-5,製作&採集
-6,採集
-7,
-8,任務
-9,
-10,
-11,探索
-12,大國防聯軍
-13,遺產
+﻿key,0,1
+#,Name,Order
+offset,0,4
+int32,str,byte
+0,"",0
+1,"Battle",1
+2,"PvP",2
+3,"Character",3
+4,"Items",4
+5,"Crafting & Gathering",5
+6,"Gathering",0
+7,"",0
+8,"Quests",6
+9,"",0
+10,"",0
+11,"Exploration",7
+12,"Grand Company",8
+13,"Legacy",9

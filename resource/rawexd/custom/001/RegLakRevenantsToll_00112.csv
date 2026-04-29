@@ -2,15 +2,15 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_REGLAKREVENANTSTOLL_00112_ALISON_000_000,哎呀，你有什麼事嗎？<hex:02100103>我會盡我所能幫你的。
-1,TEXT_REGLAKREVENANTSTOLL_00112_ALISON_000_010,我是被冒險者公會派遣到這裡的冒險者。<hex:02100103>幫助斯拉佛伯恩，為來到摩杜納的冒險者提供支援。
-2,TEXT_REGLAKREVENANTSTOLL_00112_ALISON_000_011,你也是冒險者公會的吧？<hex:02100103>一直奔波來往於各個國家對吧。
-3,TEXT_REGLAKREVENANTSTOLL_00112_ALISON_000_012,繆恩、巴德龍還有莫莫蒂他們都還好嗎？<hex:02100103>雖然他們應該不會有什麼問題，<hex:02100103>不過還是有些掛念啊。
-4,TEXT_REGLAKREVENANTSTOLL_00112_ALISON_000_020,這裡是冒險者公會建立的活動據點。<hex:02100103>這個據點原本是建立在再往西一點的地方的，<hex:02100103>不過因為5年前的靈災被毀掉了。
-5,TEXT_REGLAKREVENANTSTOLL_00112_ALISON_000_021,在那之後，隨著乙太之光移動網的重新編整，<hex:02100103>就在這裡重新建造了據點。
-6,TEXT_REGLAKREVENANTSTOLL_00112_ALISON_000_022,再加上在靈災前，這附近發生過帝國飛空戰艦墜落事件，<hex:02100103>當時把這旁邊的一個村落毀掉了。
-7,TEXT_REGLAKREVENANTSTOLL_00112_ALISON_000_023,也是因為這件悲劇，這裡才命名為喪靈鐘的。<hex:02100103>所謂亡者為亡者敲響晚鐘之地……
-8,TEXT_REGLAKREVENANTSTOLL_00112_Q1_000_000,想了解什麼？
-9,TEXT_REGLAKREVENANTSTOLL_00112_A1_000_001,你是做什麼的？
-10,TEXT_REGLAKREVENANTSTOLL_00112_A1_000_002,這裡是什麼地方？
-11,TEXT_REGLAKREVENANTSTOLL_00112_A1_000_003,取消
+0,"TEXT_REGLAKREVENANTSTOLL_00112_ALISON_000_000","Well met, friend, and welcome to Revenant's Toll. Is there aught you wish to know?"
+1,"TEXT_REGLAKREVENANTSTOLL_00112_ALISON_000_010","I am an adventurer like yourself, here at the guild's behest to provide support to those who mean to brave the wilds of Mor Dhona."
+2,"TEXT_REGLAKREVENANTSTOLL_00112_ALISON_000_011","If I might ask, where did you first get your start? <hex:020924E947FF0E>Limsa Lominsa<hex:FF09>Gridania<hex:FF07>Ul'dah<hex:03>, you say? Well, you may congratulate yourself for having come this far. It takes a seasoned adventurer to make the journey unscathed."
+3,"TEXT_REGLAKREVENANTSTOLL_00112_ALISON_000_012","Yet seasoned though you may be, I would advise you to tread warily in these parts. A single misstep could cost you your life. If you were to turn up a corpse, <hex:02091DE947FF08>Baderon<hex:FF08>Miounne<hex:FF07>Momodi<hex:03> would never let me hear the end of it."
+4,"TEXT_REGLAKREVENANTSTOLL_00112_ALISON_000_020","This facility was established under the auspices of the Adventurers' Guild. It used to be situated a short distance to the west, but the Calamity laid the original camp to waste."
+5,"TEXT_REGLAKREVENANTSTOLL_00112_ALISON_000_021","When the reconstruction of aetheryte camps began across Eorzea, it was decided that Revenant's Toll would be relocated to where we now stand."
+6,"TEXT_REGLAKREVENANTSTOLL_00112_ALISON_000_022","Ah, mayhap you wonder where the camp got its name. Well, some years before the Sixth Astral Era ended, an imperial airship fell from the skies and crashed here."
+7,"TEXT_REGLAKREVENANTSTOLL_00112_ALISON_000_023","The impact was such that an entire settlement was annihilated in the blink of an eye. When the camp was built, it was named in remembrance of those poor souls who died in the tragedy."
+8,"TEXT_REGLAKREVENANTSTOLL_00112_Q1_000_000","What will you ask?"
+9,"TEXT_REGLAKREVENANTSTOLL_00112_A1_000_001","What do you do here?"
+10,"TEXT_REGLAKREVENANTSTOLL_00112_A1_000_002","What kind of place is this?"
+11,"TEXT_REGLAKREVENANTSTOLL_00112_A1_000_003","Nothing."

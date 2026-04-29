@@ -2,94 +2,94 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_STMBDA620_02546_SEQ_00,寒爐村的勞班有話想要對冒險者說。
-1,TEXT_STMBDA620_02546_SEQ_01,雖然基本已經佔領了帝國白山堡，但因為阿莉塞負傷，莉瑟看上去有些消沉。接受勞班的邀請，來到了寒爐村。莉瑟在其父親卡提斯留下的話語「自由或是死亡」前立下了誓言。和寒爐村的勞班談談。
-2,TEXT_STMBDA620_02546_SEQ_02,聽取了勞班的想法。和寒爐村的莉瑟談談。
-3,TEXT_STMBDA620_02546_SEQ_03,和莉瑟一起離開了寒爐村。再次和寒爐村附近的莉瑟談談。
-4,TEXT_STMBDA620_02546_SEQ_04,莉瑟說感覺在被人盯著。在約恩山尋找監視者，如遭到襲擊，則將其討伐。
-5,TEXT_STMBDA620_02546_SEQ_05,成功討伐了可疑的年輕人。和基拉巴尼亞山區帝國白山堡附近的莉瑟談談。
-6,TEXT_STMBDA620_02546_SEQ_06,莉瑟也被疑似是當地居民的人襲擊了。和基拉巴尼亞山區輻射村的梅·娜格談談。
-7,TEXT_STMBDA620_02546_SEQ_07,據梅·娜格所說，阿莉塞等人暫且沒事。輻射村的大多數居民都為能得到解放而感到開心，但是在這些長年生活在帝國統治下的居民中，也有一些害怕違背帝國的人在。用這場戰鬥的勝利，來向他們傳達他們未曾體會到的自由的價值。
-8,TEXT_STMBDA620_02546_SEQ_08,
-9,TEXT_STMBDA620_02546_SEQ_09,
-10,TEXT_STMBDA620_02546_SEQ_10,
-11,TEXT_STMBDA620_02546_SEQ_11,
-12,TEXT_STMBDA620_02546_SEQ_12,
-13,TEXT_STMBDA620_02546_SEQ_13,
-14,TEXT_STMBDA620_02546_SEQ_14,
-15,TEXT_STMBDA620_02546_SEQ_15,
-16,TEXT_STMBDA620_02546_SEQ_16,
-17,TEXT_STMBDA620_02546_SEQ_17,
-18,TEXT_STMBDA620_02546_SEQ_18,
-19,TEXT_STMBDA620_02546_SEQ_19,
-20,TEXT_STMBDA620_02546_SEQ_20,
-21,TEXT_STMBDA620_02546_SEQ_21,
-22,TEXT_STMBDA620_02546_SEQ_22,
-23,TEXT_STMBDA620_02546_SEQ_23,
-24,TEXT_STMBDA620_02546_TODO_00,和勞班對話
-25,TEXT_STMBDA620_02546_TODO_01,和莉瑟對話
-26,TEXT_STMBDA620_02546_TODO_02,再次和莉瑟對話
-27,TEXT_STMBDA620_02546_TODO_03,尋找監視者 對方發起攻擊的話就將其討伐
-28,TEXT_STMBDA620_02546_TODO_04,和莉瑟對話
-29,TEXT_STMBDA620_02546_TODO_05,和梅·娜格對話
-30,TEXT_STMBDA620_02546_TODO_06,
-31,TEXT_STMBDA620_02546_TODO_07,
-32,TEXT_STMBDA620_02546_TODO_08,
-33,TEXT_STMBDA620_02546_TODO_09,
-34,TEXT_STMBDA620_02546_TODO_10,
-35,TEXT_STMBDA620_02546_TODO_11,
-36,TEXT_STMBDA620_02546_TODO_12,
-37,TEXT_STMBDA620_02546_TODO_13,
-38,TEXT_STMBDA620_02546_TODO_14,
-39,TEXT_STMBDA620_02546_TODO_15,
-40,TEXT_STMBDA620_02546_TODO_16,
-41,TEXT_STMBDA620_02546_TODO_17,
-42,TEXT_STMBDA620_02546_TODO_18,
-43,TEXT_STMBDA620_02546_TODO_19,
-44,TEXT_STMBDA620_02546_TODO_20,
-45,TEXT_STMBDA620_02546_TODO_21,
-46,TEXT_STMBDA620_02546_TODO_22,
-47,TEXT_STMBDA620_02546_TODO_23,
-48,TEXT_STMBDA620_02546_RAUBAHN_100_001,我叫你們來這裡是有原因的。<hex:02100103>等莉瑟過來，我一起跟你們聊一聊吧……
-49,TEXT_STMBDA620_02546_LYSE_100_005,這個村子好冷清啊……<hex:02100103>而且田地裡的莊稼也好少，沒有一點活力……
-50,TEXT_STMBDA620_02546_SERPENTOFFICER_100_010,我聽說你們有個同伴受傷了……<hex:02100103>如果有什麼我們能幫得上忙的，就儘管說。
-51,TEXT_STMBDA620_02546_LYSE_000_001,自由或是死亡……<hex:02100103>這是父親在20年前寫下的啊……
-52,TEXT_STMBDA620_02546_RAUBAHN_000_010,在帝國白山堡一戰之後，<hex:02100103>莉瑟有些和往常不一樣了。
-53,TEXT_STMBDA620_02546_RAUBAHN_000_011,因為同胞的死，她肩負上了領導阿拉米格解放軍的重任，<hex:02100103>不管她願不願意，都背負著眾多的生命。<hex:02100103>當她看到阿莉塞小姐受傷後，下意識地切實感受到了這一點吧。
-54,TEXT_STMBDA620_02546_RAUBAHN_000_012,再加上從芙朵拉那裡聽到的，<hex:02100103>那些生長在帝國支配下的一代所抱有的苦惱……<hex:02100103>就算對於我來說，那種情感也是很難理清的。
-55,TEXT_STMBDA620_02546_RAUBAHN_000_013,指揮軍隊，從另一種層面來說就如同揪著士兵們的性命扔到火堆一般。<hex:02100103>不管你有再豐富的戰鬥經驗，一旦背負起他人的性命，<hex:02100103>就要肩負上更加沉重的責任……
-56,TEXT_STMBDA620_02546_RAUBAHN_000_014,在我直面人生的困苦和難題時，<hex:02100103>一直都是靠「自由或是死亡」這句話支撐著的。
-57,TEXT_STMBDA620_02546_RAUBAHN_000_015,我相信，莉瑟在得知這句話和她父親的信念後，<hex:02100103>一定能夠向前邁出一大步的……
-58,TEXT_STMBDA620_02546_RAUBAHN_000_016,好了，我再稍微在故鄉轉一下就回去。<hex:02100103>你們就先去和部隊匯合吧。<hex:02100103>莉瑟就……拜託你了。
-59,TEXT_STMBDA620_02546_RAUBAHN_000_020,20年前，我還和那傢伙肩並肩站在一起……<hex:02100103>我們到底是從什麼時候開始走向了不同的方向呢……<hex:02100103>抱歉，我只是在自言自語而已。
-60,TEXT_STMBDA620_02546_LYSE_000_030,讓我們先回去嗎？<hex:02100103>好的，畢竟勞班總帥也是時隔多年才又回到了故鄉。<hex:02100103>就讓他一個人待一會吧。
-61,TEXT_STMBDA620_02546_LYSE_000_031,好，那我們出發吧！
-62,TEXT_STMBDA620_02546_LYSE_000_040,……小心。<hex:02100103>我覺得有人在盯著我們……
-63,TEXT_STMBDA620_02546_LYSE_000_041,不知道是帝國兵還是盜賊，<hex:02100103>不過我從兩個方向都感受到了可疑的氣息。
-64,TEXT_STMBDA620_02546_LYSE_000_042,<hex:022903EB0203>，你去西北邊的背陰處查看一下。<hex:02100103>我去東北邊看一下。<hex:02100103>一定要小心啊。
-65,TEXT_STMBDA620_02546_LYSE_000_045,（★未使用／削除予定★）
-66,TEXT_STMBDA620_02546_HIGHLANDER_000_050,嘁……被發現了麼！<hex:02100103>但是，論人數我們這邊可是佔上風！<hex:02100103>只要把這傢伙交給帝國軍，我們就能有市民權了……受死吧！
-67,TEXT_STMBDA620_02546_POP_MESSAGE,敵人發起了攻擊！
-68,TEXT_STMBDA620_02546_LYSE_000_060,果然你也被襲擊了啊？<hex:02100103>我這邊也是。<hex:02100103>不過，如你所見，我已經狠狠教訓他們了一頓……
-69,TEXT_STMBDA620_02546_LYSE_000_061,看樣子不是帝國兵，像是當地的居民。<hex:02100103>不過這人我好像在哪裡見過……
-70,TEXT_STMBDA620_02546_LYSE_000_062,啊，我想起來了！<hex:02100103>在輻射村找絲塔克·沃德的時候我見到過這些男的！
-71,TEXT_STMBDA620_02546_LYSE_000_063,這麼說，這些傢伙是在帝國軍手下做事的……<hex:02100103>是想襲擊我們，把我們交給帝國邀功嗎？
-72,TEXT_STMBDA620_02546_LYSE_000_064,既然這樣，那阿莉塞和阿爾菲諾會有危險！<hex:02100103>我們趕緊到輻射村去吧！<hex:02100103>找護衛他們的梅·娜格確認一下情況！
-73,TEXT_STMBDA620_02546_MNAAGO_000_070,你、你們怎麼了？<hex:02100103>怎麼那麼慌張……
-74,TEXT_STMBDA620_02546_LYSE_000_071,我們被輻射村的村民襲擊了。<hex:02100103>他們恐怕是想要把我們交給帝國軍。<hex:02100103>你們沒事吧？
-75,TEXT_STMBDA620_02546_MNAAGO_000_072,嗯，目前我們這邊沒什麼問題。<hex:02100103>絲塔克·沃德把房間借給了我們，<hex:02100103>阿莉塞現在正在熟睡呢。
-76,TEXT_STMBDA620_02546_MNAAGO_000_073,不過，我們明明拼上性命戰鬥，<hex:02100103>讓這裡從帝國的統治下得到解放……為什麼他們還要做這種事！
-77,TEXT_STMBDA620_02546_STARKWOAD_000_074,抱歉，莉瑟、<hex:022903EB0203>……<hex:02100103>我剛剛聽到你們談話了。
-78,TEXT_STMBDA620_02546_STARKWOAD_000_075,襲擊你們的確是這個村子裡的年輕人。
-79,TEXT_STMBDA620_02546_STARKWOAD_000_076,那些孩子在帝國的支配下出生長大，<hex:02100103>一直以來都被當做牲畜一般對待。
-80,TEXT_STMBDA620_02546_STARKWOAD_000_077,當然其中也有想要抗爭，而投身反帝國運動的人。<hex:02100103>就像我和你們這樣……
-81,TEXT_STMBDA620_02546_MNAAGO_100_077,但是……<hex:02100103>明明阿拉米格的解放就近在眼前了！
-82,TEXT_STMBDA620_02546_STARKWOAD_000_078,……人啊，在被無數次毆打和折磨，在被幾乎餓成乾屍的時候，<hex:02100103>一點點食物，就能讓他們淪落為像狗一樣的奴隸。<hex:02100103>在壓倒性的暴力面前，根本沒法懷抱一絲一毫反抗的心理。
-83,TEXT_STMBDA620_02546_MNAAGO_100_078,這、這……
-84,TEXT_STMBDA620_02546_STARKWOAD_000_079,特別是在輻射村，這種靠帝國僱傭而生存的村落。<hex:02100103>在這裡出生長大的孩子為了活下去，成為了帝國的走狗。<hex:02100103>可即便如此，我也無法責備什麼。
-85,TEXT_STMBDA620_02546_STARKWOAD_000_080,能斷言說，那些傢伙就是垃圾的人，<hex:02100103>一定是沒有經受過毫無理由的毆打、過著被強制的生活、<hex:02100103>沒有體驗過幾乎快要聞到死亡味道的飢餓。
-86,TEXT_STMBDA620_02546_STARKWOAD_000_081,這個村子裡的大部分人都因為得到解放而歡呼雀躍，<hex:02100103>從心底裡感謝你們。
-87,TEXT_STMBDA620_02546_STARKWOAD_100_081,但是，也有人被心底深處的恐懼所吞噬。<hex:02100103>我不要求你們能原諒這些人，但是請記住還有這樣的人。
-88,TEXT_STMBDA620_02546_ALPHINAUD_000_082,這就是加雷馬帝國的階級社會所帶來的扭曲麼……
-89,TEXT_STMBDA620_02546_LYSE_000_083,我已經不再迷茫了。
-90,TEXT_STMBDA620_02546_LYSE_000_084,就算現在沒辦法立刻互相理解……<hex:02100103>就算被憎恨……那我們也要把帝國趕出去。<hex:02100103>這樣，至少可以一點一點地得到改變。
+0,"TEXT_STMBDA620_02546_SEQ_00","Raubahn would share with you a story."
+1,"TEXT_STMBDA620_02546_SEQ_01","Lyse, having but recently assumed leadership of the Ala Mhigan Resistance, continues to struggle with the weight of her new responsibilities. Seeing this, Raubahn invites the two of you to accompany him to Coldhearth, a poor village of little consequence, which he reveals to be his childhood home. There he tells you of his life before the imperial occupation, when a soldier sent away from the front to mend first heard the words of a revolutionary firebrand...<hex:02100103><hex:02100103>Adrift in a memory of decades past, you observe Lyse's father deliver a speech to a crowd of cheering Ala Mhigans─among them, Raubahn Aldynn and Ilberd Feare, then dear friends. Afterwards, the revolutionary meets with Raubahn and counsels him to remember that freedom should not be an end in of itself, for it is but a chance to build something better...and the work is never finished.<hex:02100103><hex:02100103>""Liberty or Death,“ Raubahn repeats; the creed of Curtis Hext and his comrades. Solemnly, he asks Lyse if she will swear by these words, and she does so─though she is quick to add that the liberty she craves must be for every son and daughter of Ala Mhigo, even those who reject the cause. The nation they build must serve as a home for them all, she insists, and Raubahn can only agree."
+2,"TEXT_STMBDA620_02546_SEQ_02","The Flame General explains that he could see Lyse wasn't herself, and that he brought her to Coldhearth to remind her why she chose the path she now walks. Satisfied that she has found her resolve once more, he grants you leave to return without him, for he would remain awhile longer..."
+3,"TEXT_STMBDA620_02546_SEQ_03","Lyse knows well the feeling of returning home after a long absence, and is more than willing to leave General Aldynn alone with his thoughts. Together you depart Coldhearth and journey north."
+4,"TEXT_STMBDA620_02546_SEQ_04","Lyse pulls you aside for a moment, sensing that you are being watched. She suggests that you split up and each head towards Radiata, while keeping your eyes peeled for suspicious characters."
+5,"TEXT_STMBDA620_02546_SEQ_05","The gang of Ala Mhigan youths observing you and Lyse from a distance panic at your approach, snatching up weapons and charging, apparently intent on killing or subduing you. It is the last mistake they will ever make."
+6,"TEXT_STMBDA620_02546_SEQ_06","You find Lyse standing over the corpses of several young men not unlike the ones you were forced to kill. With a start, she recognizes them from Radiata, and concludes that they must have marked you as insurgents when you were searching for Stark Woad. Fearing for Alphinaud and Alisaie's safety, she sprints off towards the nearby settlement as fast as her legs will carry her."
+7,"TEXT_STMBDA620_02546_SEQ_07","In Radiata, M'naago assures you that the twins are in no danger, and Alphinaud soon arrives with Stark Woad, putting your fears conclusively to rest. The Alliance agent explains that many youths who have only ever known the occupation are unwilling to place their faith in the Resistance, and would sooner attempt to curry favor with the imperials by capturing or killing enemies of the Empire. Alas, until you march on Ala Mhigo and defeat Zenos once and for all, such desperate individuals will remain a threat to you and yours."
+8,"TEXT_STMBDA620_02546_SEQ_08",""
+9,"TEXT_STMBDA620_02546_SEQ_09",""
+10,"TEXT_STMBDA620_02546_SEQ_10",""
+11,"TEXT_STMBDA620_02546_SEQ_11",""
+12,"TEXT_STMBDA620_02546_SEQ_12",""
+13,"TEXT_STMBDA620_02546_SEQ_13",""
+14,"TEXT_STMBDA620_02546_SEQ_14",""
+15,"TEXT_STMBDA620_02546_SEQ_15",""
+16,"TEXT_STMBDA620_02546_SEQ_16",""
+17,"TEXT_STMBDA620_02546_SEQ_17",""
+18,"TEXT_STMBDA620_02546_SEQ_18",""
+19,"TEXT_STMBDA620_02546_SEQ_19",""
+20,"TEXT_STMBDA620_02546_SEQ_20",""
+21,"TEXT_STMBDA620_02546_SEQ_21",""
+22,"TEXT_STMBDA620_02546_SEQ_22",""
+23,"TEXT_STMBDA620_02546_SEQ_23",""
+24,"TEXT_STMBDA620_02546_TODO_00","Speak with Raubahn."
+25,"TEXT_STMBDA620_02546_TODO_01","Speak with Lyse."
+26,"TEXT_STMBDA620_02546_TODO_02","Follow Lyse."
+27,"TEXT_STMBDA620_02546_TODO_03","Look out for suspicious individuals on the way to Radiata."
+28,"TEXT_STMBDA620_02546_TODO_04","Rendezvous with Lyse."
+29,"TEXT_STMBDA620_02546_TODO_05","Speak with M'naago."
+30,"TEXT_STMBDA620_02546_TODO_06",""
+31,"TEXT_STMBDA620_02546_TODO_07",""
+32,"TEXT_STMBDA620_02546_TODO_08",""
+33,"TEXT_STMBDA620_02546_TODO_09",""
+34,"TEXT_STMBDA620_02546_TODO_10",""
+35,"TEXT_STMBDA620_02546_TODO_11",""
+36,"TEXT_STMBDA620_02546_TODO_12",""
+37,"TEXT_STMBDA620_02546_TODO_13",""
+38,"TEXT_STMBDA620_02546_TODO_14",""
+39,"TEXT_STMBDA620_02546_TODO_15",""
+40,"TEXT_STMBDA620_02546_TODO_16",""
+41,"TEXT_STMBDA620_02546_TODO_17",""
+42,"TEXT_STMBDA620_02546_TODO_18",""
+43,"TEXT_STMBDA620_02546_TODO_19",""
+44,"TEXT_STMBDA620_02546_TODO_20",""
+45,"TEXT_STMBDA620_02546_TODO_21",""
+46,"TEXT_STMBDA620_02546_TODO_22",""
+47,"TEXT_STMBDA620_02546_TODO_23",""
+48,"TEXT_STMBDA620_02546_RAUBAHN_100_001","<hex:0208B6E1E93501FF11><hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203><hex:FF9E><hex:02089AE1E93601FF11><hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203><hex:FF82><hex:022B7EFF7C><hex:020825E1E93501FF1D><hex:022819FF14>GCRankLimsaMaleText<hex:E9350903><hex:FF01><hex:03><hex:020828E1E93601FF20><hex:02281CFF17>GCRankGridaniaMaleText<hex:E9360903><hex:FF01><hex:03><hex:020825E1E93701FF1D><hex:022819FF14>GCRankUldahMaleText<hex:E9370903><hex:FF01><hex:03><hex:03><hex:03><hex:03>, Lyse─I brought you both here for a reason..."
+49,"TEXT_STMBDA620_02546_LYSE_100_005","I don't think I know this village. It's so small..."
+50,"TEXT_STMBDA620_02546_SERPENTOFFICER_100_010","I am told one of your comrades was injured during the operation. If there is aught we can do to help, pray do not hesitate to ask."
+51,"TEXT_STMBDA620_02546_LYSE_000_001","""Liberty or death.“ Has it really been twenty years since he wrote those words...?"
+52,"TEXT_STMBDA620_02546_RAUBAHN_000_010","Even a blind man could see that Lyse wasn't herself. Not that I don't understand."
+53,"TEXT_STMBDA620_02546_RAUBAHN_000_011","To be thrust into a position of authority under such circumstances─to be made responsible for the lives of so many... It isn't easy. And when you see your friend get cut down before your eyes, it only gets harder. I'll wager she thought Alisaie was dead for a moment back there."
+54,"TEXT_STMBDA620_02546_RAUBAHN_000_012","'Tis one thing to risk your life for a cause. But to risk that of another is a burden no soldier is ever truly ready to shoulder."
+55,"TEXT_STMBDA620_02546_RAUBAHN_000_013","The fear, the guilt─it weighs on her. And that's good. It will make her a better commander."
+56,"TEXT_STMBDA620_02546_RAUBAHN_000_014","But first she needs to learn to carry it. To not let it break her. To remember that some causes are worth fighting for."
+57,"TEXT_STMBDA620_02546_RAUBAHN_000_015","""Liberty or death.“ Her father's words gave me strength once. Mayhap they'll do the same for her now."
+58,"TEXT_STMBDA620_02546_RAUBAHN_000_016","Right, then. I think I've said enough. The two of you can head back. I mean to stay a bit longer..."
+59,"TEXT_STMBDA620_02546_RAUBAHN_000_020","...Twenty godsforsaken years. <sigh> It didn't have to be like this. We could have walked this road together..."
+60,"TEXT_STMBDA620_02546_LYSE_000_030","...I understand. He's been away for a long time, and he probably wants to be alone for a while."
+61,"TEXT_STMBDA620_02546_LYSE_000_031","Let's head back to Radiata."
+62,"TEXT_STMBDA620_02546_LYSE_000_040","Wait... Am I the only one who feels like I'm being watched?"
+63,"TEXT_STMBDA620_02546_LYSE_000_041","I don't know if it's imperials or bandits, but I know there's more than one of them."
+64,"TEXT_STMBDA620_02546_LYSE_000_042","Let's split up. You head northwest, and I'll head northeast. Maybe I'm wrong, but I don't think so..."
+65,"TEXT_STMBDA620_02546_LYSE_000_045",""
+66,"TEXT_STMBDA620_02546_HIGHLANDER_000_050","Seven hells, <hex:020810E905FF06>she's<hex:FF05>he's<hex:03> seen us! Sod it─dead's as good as alive to the imperials!"
+67,"TEXT_STMBDA620_02546_POP_MESSAGE","You sense a desperate presence!"
+68,"TEXT_STMBDA620_02546_LYSE_000_060","They attacked you too, didn't they? I...I had no choice..."
+69,"TEXT_STMBDA620_02546_LYSE_000_061","They're Ala Mhigan─not even conscripts, by the look of them. Barely adults. In fact, some of their faces look familiar..."
+70,"TEXT_STMBDA620_02546_LYSE_000_062","Wait, I remember. They're from Radiata! They must have seen us when we were looking for Stark!"
+71,"TEXT_STMBDA620_02546_LYSE_000_063","They probably thought the imperials would reward them if they captured or killed─"
+72,"TEXT_STMBDA620_02546_LYSE_000_064","Oh gods... Alisaie and Alphinaud could be in danger too! We have to get back to Radiata and find Naago!"
+73,"TEXT_STMBDA620_02546_MNAAGO_000_070","What's all this about? You two look ready for a fight."
+74,"TEXT_STMBDA620_02546_LYSE_000_071","We were ambushed by villagers outside of Radiata, and thought they might try to attack you too. Are you all right?"
+75,"TEXT_STMBDA620_02546_MNAAGO_000_072","Aye, we're fine. The twins are at Stark's. Alisaie was asleep, last I checked."
+76,"TEXT_STMBDA620_02546_MNAAGO_000_073","I'm sorry, did you say you were ambushed by <hex:021A020203>villagers<hex:021A020103>? Not soldiers? Did they not see what we just did to Castrum Abania? Godsdamned fools!"
+77,"TEXT_STMBDA620_02546_STARKWOAD_000_074","Lyse, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. We overheard you talking..."
+78,"TEXT_STMBDA620_02546_STARKWOAD_000_075","The ones that attacked you. They were young? Less than twenty summers?"
+79,"TEXT_STMBDA620_02546_STARKWOAD_000_076","Aye, I thought so. It's always the young ones─the ones who have only ever known the occupation. They're the ones you've got to look out for."
+80,"TEXT_STMBDA620_02546_STARKWOAD_000_077","See, the only decent work to be found in Radiata is for the imperials, and everyone knows it. Children grow up knowing it. They have it pounded into their skulls that the best they can hope for is to serve an imperial officer."
+81,"TEXT_STMBDA620_02546_MNAAGO_100_077","Bloody fools! After everything they've seen us accomplish! They ought to be begging to fight for the Resistance, not against us!"
+82,"TEXT_STMBDA620_02546_STARKWOAD_000_078","They've been living in the shadow of a castrum their whole lives. A few victories won't change that. Aye, you get some who can't wait to spit in a soldier's eye, but they get beaten for their trouble, or worse..."
+83,"TEXT_STMBDA620_02546_MNAAGO_100_078","Even so..."
+84,"TEXT_STMBDA620_02546_STARKWOAD_000_079","...And the ones that don't fight back but refuse to beg, well, they just starve. Beat the dog that bites his master's hand, and ignore the dog that refuses to do his bidding, see?"
+85,"TEXT_STMBDA620_02546_STARKWOAD_000_080","In the end, the ones that learn to abide are the ones that survive."
+86,"TEXT_STMBDA620_02546_STARKWOAD_000_081","Now, you may say that's all about to change, and I believe you. Many here do."
+87,"TEXT_STMBDA620_02546_STARKWOAD_100_081","But a young man or woman who grew up only knowing what he knows has got every reason to doubt. Remember that. Do what you have to, if it comes to it, but remember that."
+88,"TEXT_STMBDA620_02546_ALPHINAUD_000_082","The sooner we liberate Ala Mhigo and bring an end to the occupation, the better. Only then can we show these youths that things do not have to be this way."
+89,"TEXT_STMBDA620_02546_LYSE_000_083","...Only then will they know what it means to live free."
+90,"TEXT_STMBDA620_02546_LYSE_000_084","We're going to build a new home for ourselves. Together. A better home than they've ever known."

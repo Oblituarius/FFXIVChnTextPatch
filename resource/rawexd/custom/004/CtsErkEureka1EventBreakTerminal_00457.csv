@@ -2,40 +2,40 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_SYSTEM_000_001,中繼乙太之晶看上去完好無損，<hex:02100103>但已經完全停止了運轉。
-1,TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_KRILE_000_002,(-可露兒的聲音-)<hex:022903EB0203>……是我，可露兒。<hex:02100103>我想你應該差不多已經確認完中繼乙太之晶的狀態了，<hex:02100103>所以就來聯繫你了，乙太之晶的狀態如何？
-2,TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_KRILE_000_003,(-可露兒的聲音-)……是嗎？沒有任何破損卻沒有啟動啊。<hex:02100103>恐怕是傳送目的地的乙太之光出現了故障吧。
-3,TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_KRILE_000_004,(-可露兒的聲音-)既然這樣，就試試強制啟動吧。<hex:02100103>請你將大量的乙太注入到中繼乙太之晶中，<hex:02100103>讓其內部的乙太飽和，促使其再次啟動。
-4,TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_KRILE_000_005,(-可露兒的聲音-)問題的關鍵是乙太的來源啊……就使用<hex:02280BFF05>Item<hex:F2552B0103>吧。<hex:02100103>只要將<hex:022003E80203>個<hex:02280BFF05>Item<hex:F2552B0103>的乙太注入其中的話，<hex:02100103>就應該會有效果了。
-5,TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_KRILE_000_006,(-可露兒的聲音-)等你準備好<hex:022003E80203>個<hex:02280BFF05>Item<hex:F2552B0103>之後，<hex:02100103>就去確認一下中繼乙太之晶吧。<hex:02100103>如果沒什麼問題的話，請試著強制啟動它。
-6,TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_SYSTEM_100_010,推進劇情需要消耗<hex:022003E80203>個<hex:02280BFF05>Item<hex:F2552B0103>。
-7,TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_SYSTEM_100_011,推進劇情需要消耗<hex:022003E80203>個<hex:02280BFF05>Item<hex:F2552B0103>。<hex:02100103>確定要使用嗎？
-8,TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_KRILE_000_010,(-可露兒的聲音-)怎麼樣了？做好強制啟動的準備了嗎？
-9,TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_KRILE_000_011,(-可露兒的聲音-)……是嗎，看來沒問題啊。<hex:02100103>那就利用魔素板的屬性轉換機能，<hex:02100103>將<hex:02280BFF05>Item<hex:F2552B0103>的乙太注入到中繼乙太之晶內吧！
-10,TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_EUREKAPERSON_000_100,我乃……力量……<hex:02100103>乃除惡……之力……<hex:02100103>汝、是否尋求力量？
-11,TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_Q1_000_000,如何作答？
-12,TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_A1_000_001,想要力量！
-13,TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_A1_000_002,……
-14,TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_EUREKAPERSON_000_110,汝……尋求力量之人……<hex:02100103>憎恨邪惡……消滅邪惡的戰士啊……嗚？！
-15,TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_EUREKAPERSON_000_120,汝……否定力量嗎……<hex:02100103>若放棄抵抗……則是對惡的肯定……嗚？！
-16,TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_EUREKAPERSON_000_130,哦哦……哦哦！<hex:02100103>我看見了……汝體內的光芒！
-17,TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_EUREKAPERSON_000_131,擁有光芒之人……<hex:02100103>傾聽我聲之人……<hex:02100103>我還記得……我記得汝……汝的光芒！
-18,TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_EUREKAYOUNGK_000_200,……果然只能進行封印了嗎。
-19,TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_EUREKAYOUNGZ_000_201,這東西擁有的乙太實在是太過龐大。<hex:02100103>就算我們戰鬥到壽命結束前的最後一刻，<hex:02100103>恐怕也不能將其完全消滅吧。
-20,TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_EUREKAYOUNGG_000_202,所以在找到能夠削減這東西擁有的乙太的方法前，<hex:02100103>就只能先將其封印了。<hex:02100103>……大家都沒有異議吧？
-21,TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_EUREKAYOUNGD_000_203,嗯，我就不再反對了。<hex:02100103>既然這樣，那就先進行封印吧。<hex:02100103>但總有一天我會找到徹底消滅這東西的方法！
-22,TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_EUREKAYOUNGZ_000_204,好了，既然處置方法已經定下來了，<hex:02100103>那麼接下來就得找出一個用來封印的場所。
-23,TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_EUREKAYOUNGK_000_205,畢竟也不能就這麼將其封印在這座殖民城市裡，<hex:02100103>如果能有正合適的偏僻地方就好了……
-24,TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_EUREKAYOUNGD_000_206,……喂，加拉夫。<hex:02100103>是你先提出的方案，你就沒有什麼主意嗎？
-25,TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_EUREKAYOUNGG_000_207,(-被稱為加拉夫的青年-)你問得正好！<hex:02100103>實際上距離薩雷安本島稍微有點距離的地方，<hex:02100103>有一座適合用來封印的無人島……
-26,TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_KRILE_000_021,(-可露兒的聲音-)……中繼乙太之晶的情況如何？
-27,TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_KRILE_000_022,(-可露兒的聲音-)太好了，已經啟動了啊！<hex:02100103>我已經和瓦爾島全區域的乙太之光共鳴過了，<hex:02100103>如果沒問題的話，我應該能夠傳送到你那邊去……讓我試試看。
-28,TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_KRILE_000_023,……成功了呢。<hex:02100103>從據點傳送到這裡看來是沒問題了。<hex:02100103>但是要想傳送到別的區域，應該還需要進行調整。
-29,TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_KRILE_000_024,……話說回來，啟動好像花了很長時間，<hex:02100103>出了什麼問題嗎？
-30,TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_KRILE_000_025,加拉夫……在回溯過去的情景中，<hex:02100103>真的出現了一位叫加拉夫的人嗎？！
-31,TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_KRILE_000_026,包括狼人族在內的4個男人的過去……<hex:02100103>還有……神秘男子……<hex:02100103>難道……是爺爺……
-32,TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_KRILE_000_027,……啊。<hex:02100103>抱、抱歉，我發呆了。<hex:02100103>具體情況咱們回據點說吧。
-33,TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_SYSTEM_000_030,中繼乙太之晶已啟動。<hex:02100103>想要傳送到其他區域，還需要進行調整……
-34,TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_SYSTEM_000_040,中繼乙太之晶經過了調整，目前正在運轉中。<hex:02100103>已經可以傳送到其他區域。
-35,TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_SYSTEM_000_041,退出「<hex:02281CFF17>ContentFinderCondition<hex:E8022C03>」任務後，<hex:02100103>和黃金港的羅德尼對話，<hex:02100103>可以前往其他區域。
-36,TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_TALK_ACTOR,
+0,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_SYSTEM_000_001","Though the relay bears no visible signs of damage, it does not appear to be functioning at the moment..."
+1,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_KRILE_000_002","(-Krile-)This is Krile. Call it an educated guess, but I thought you might have arrived at Aethernet Control by now. If so, how does it look?"
+2,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_KRILE_000_003","(-Krile-)...Well, at least it wasn't smashed to pieces. If your assessment is correct, we may be able to reintegrate it into the Aethernet."
+3,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_KRILE_000_004","(-Krile-)This may not sound like the most elegant solution, but sixty percent of the time it works every time. Right─we're going to flood the relay with a massive amount of aether to “wake” it up, as it were."
+4,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_KRILE_000_005","(-Krile-)To that end, we're going to need to amass a substantial quantity of Anemos crystals. Ninety-nine crystals, assuming my calculations are correct."
+5,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_KRILE_000_006","(-Krile-)I know it's a lot to ask, but I believe this is our best bet. Once you have them, bring them to Aethernet Control and I'll walk you through the process."
+6,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_SYSTEM_100_010","To flood the Aethernet relay and continue the Eureka expedition, you will need to procure ninety-nine Anemos crystals. Please note that these crystals will be consumed in the process."
+7,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_SYSTEM_100_011","Use the ninety-nine Anemos crystals to flood the relay with aether?"
+8,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_KRILE_000_010","(-Krile-)This is it, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Are you ready?"
+9,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_KRILE_000_011","(-Krile-)Rechecking measurements... Right. Listen carefully. To flood the relay with aether, we will need to repurpose your magia board as an elemental converter..."
+10,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_EUREKAPERSON_000_100","Seekest thou...power? Power to smite thine enemies?<hex:02100103>To cast down the wicked and raise up the righteous?"
+11,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_Q1_000_000","What will you say?"
+12,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_A1_000_001","All that and more..."
+13,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_A1_000_002","..."
+14,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_EUREKAPERSON_000_110","A warrior, then! Coveter of strength!<hex:02100103>Blessed art thou, arbiter of vengeance!"
+15,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_EUREKAPERSON_000_120","Art thou a pawn, then!? Content to surrender to the whim of fate─<hex:02100103>to bid welcome to the wicked and the dark!?"
+16,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_EUREKAPERSON_000_130","And within...within... A light burning, radiant, resplendent!"
+17,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_EUREKAPERSON_000_131","Lo, in light <hex:02080CE905FF04>she<hex:FF03>he<hex:03> walketh...and in light <hex:02080CE905FF04>she<hex:FF03>he<hex:03> abideth. Thus will I remember thee."
+18,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_EUREKAYOUNGK_000_200","...There is no other way."
+19,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_EUREKAYOUNGZ_000_201","Aye. Even if we fought the damned thing to our dying breaths, it'd endure. It's as though it has a nigh-bottomless wellspring of aether to draw upon..."
+20,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_EUREKAYOUNGG_000_202","Until such time as a permanent solution is found, it shall be sealed away. If any among you yet harbor doubts, speak them now."
+21,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_EUREKAYOUNGD_000_203","You'll hear none from me. Let's do it and be done with it."
+22,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_EUREKAYOUNGZ_000_204","Right, then. The matter of what to do may have been resolved, but we've still the matter of where to do it."
+23,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_EUREKAYOUNGK_000_205","Not in the colony. That much is plain. The location must be remote─far from prying eyes and covetous men."
+24,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_EUREKAYOUNGD_000_206","Well, Galuf? This was your idea. Got any suggestions?"
+25,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_EUREKAYOUNGG_000_207","(-Galuf-)As a matter of fact, I do. An island not far from the motherland. Deserted. Dangerous. The perfect place to build a prison..."
+26,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_KRILE_000_021","(-Krile-)...<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>? <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>? What happened? Please respond."
+27,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_KRILE_000_022","(-Krile-)Worked, did it? Glad to hear it. Our readings suggested as much, but I wanted your confirmation before I performed the final test..."
+28,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_KRILE_000_023","Well! I appear to have arrived with all my bits intact. I believe that constitutes a success. Very good. I'll have to perform various adjustments and measurements before we can risk teleportation to other regions, but this is nevertheless a significant accomplishment."
+29,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_KRILE_000_024","By the way, you took an awfully long time to respond after initiating the process. Did something happen?"
+30,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_KRILE_000_025","Galuf!? You're certain that's the name you heard spoken in the vision?"
+31,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_KRILE_000_026","Four men, one of them a Lupin. And this masked man you met. If they were Grandfather's... Then would that make him..."
+32,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_KRILE_000_027","Ah, forgive me. Neither the time nor the place. Let us return to Port Surgate."
+33,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_SYSTEM_000_030","Though the Aethernet relay appears to be fully operational at a glance, you recall Krile saying that it would require further adjustments before travel to other regions would be possible..."
+34,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_SYSTEM_000_040","The Aethernet relay appears to be functioning somewhat more efficiently than before, likely due to Krile's adjustments. Travel to other regions should no longer pose significant risk."
+35,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_SYSTEM_000_041","To continue the expedition elsewhere, you must depart <hex:02281CFF17>ContentFinderCondition<hex:E8022C03> and speak with Rodney at Pier #1 in Kugane."
+36,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_TALK_ACTOR",""

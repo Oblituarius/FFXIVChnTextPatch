@@ -2,141 +2,141 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_GAIUSE118_01192_SEQ_00,沙之家的敏菲利亞有事情想要委託冒險者。
-1,TEXT_GAIUSE118_01192_SEQ_01,終於做好了遷移拂曉本部的準備。將此事傳達給沙之家的於里昂熱。
-2,TEXT_GAIUSE118_01192_SEQ_02,在和於里昂熱交談的途中，聽見了敏菲利亞的尖叫聲。原來一個白袍無影出現在她的面前。白袍無影應該往黃昏灣去了，追上他。
-3,TEXT_GAIUSE118_01192_SEQ_03,發現了白袍無影。繼續追蹤白袍無影，並打倒3隻<hex:02280FFF09>BNpcName<hex:F202B40103>。
-4,TEXT_GAIUSE118_01192_SEQ_04,成功打倒了<hex:02280FFF09>BNpcName<hex:F202B40103>。繼續追蹤白袍無影，並打倒<hex:02280FFF09>BNpcName<hex:F202B50103>。
-5,TEXT_GAIUSE118_01192_SEQ_05,成功打倒了<hex:02280FFF09>BNpcName<hex:F202B50103>。繼續追蹤白袍無影，並打倒2隻<hex:02280FFF09>BNpcName<hex:F202B60103>。
-6,TEXT_GAIUSE118_01192_SEQ_06,成功打倒了<hex:02280FFF09>BNpcName<hex:F202B60103>。繼續追蹤白袍無影，並打倒<hex:02280FFF09>BNpcName<hex:F202B70103>和<hex:02280FFF09>BNpcName<hex:F202B90103>各2名。
-7,TEXT_GAIUSE118_01192_SEQ_07,成功打倒了無影們。和逃到帕拉塔安息地的白袍無影談談。
-8,TEXT_GAIUSE118_01192_SEQ_08,艾里迪布斯說一切都將恢復應有的姿態。而且他強調自己和那些黑袍無影不同……回到沙之家，向敏菲利亞報告。
-9,TEXT_GAIUSE118_01192_SEQ_09,向敏菲利亞報告完畢。敏菲利亞告訴冒險者，她會調查有關艾里迪布斯的事情，和他所說的話。
-10,TEXT_GAIUSE118_01192_SEQ_10,
-11,TEXT_GAIUSE118_01192_SEQ_11,
-12,TEXT_GAIUSE118_01192_SEQ_12,
-13,TEXT_GAIUSE118_01192_SEQ_13,
-14,TEXT_GAIUSE118_01192_SEQ_14,
-15,TEXT_GAIUSE118_01192_SEQ_15,
-16,TEXT_GAIUSE118_01192_SEQ_16,
-17,TEXT_GAIUSE118_01192_SEQ_17,
-18,TEXT_GAIUSE118_01192_SEQ_18,
-19,TEXT_GAIUSE118_01192_SEQ_19,
-20,TEXT_GAIUSE118_01192_SEQ_20,
-21,TEXT_GAIUSE118_01192_SEQ_21,
-22,TEXT_GAIUSE118_01192_SEQ_22,
-23,TEXT_GAIUSE118_01192_SEQ_23,
-24,TEXT_GAIUSE118_01192_TODO_00,和於里昂熱對話
-25,TEXT_GAIUSE118_01192_TODO_01,追蹤白袍無影
-26,TEXT_GAIUSE118_01192_TODO_02,追蹤白袍無影 打倒3隻<hex:02280FFF09>BNpcName<hex:F202B40103>
-27,TEXT_GAIUSE118_01192_TODO_03,追蹤白袍無影 打倒<hex:02280FFF09>BNpcName<hex:F202B50103>
-28,TEXT_GAIUSE118_01192_TODO_04,追蹤白袍無影 打倒2隻<hex:02280FFF09>BNpcName<hex:F202B60103>
-29,TEXT_GAIUSE118_01192_TODO_05,追蹤白袍無影 打倒<hex:02280FFF09>BNpcName<hex:F202B70103>和<hex:02280FFF09>BNpcName<hex:F202B90103>各2名
-30,TEXT_GAIUSE118_01192_TODO_06,和白袍無影對話
-31,TEXT_GAIUSE118_01192_TODO_07,向沙之家的敏菲利亞報告
-32,TEXT_GAIUSE118_01192_TODO_08,
-33,TEXT_GAIUSE118_01192_TODO_09,
-34,TEXT_GAIUSE118_01192_TODO_10,
-35,TEXT_GAIUSE118_01192_TODO_11,
-36,TEXT_GAIUSE118_01192_TODO_12,
-37,TEXT_GAIUSE118_01192_TODO_13,
-38,TEXT_GAIUSE118_01192_TODO_14,
-39,TEXT_GAIUSE118_01192_TODO_15,
-40,TEXT_GAIUSE118_01192_TODO_16,
-41,TEXT_GAIUSE118_01192_TODO_17,
-42,TEXT_GAIUSE118_01192_TODO_18,
-43,TEXT_GAIUSE118_01192_TODO_19,
-44,TEXT_GAIUSE118_01192_TODO_20,
-45,TEXT_GAIUSE118_01192_TODO_21,
-46,TEXT_GAIUSE118_01192_TODO_22,
-47,TEXT_GAIUSE118_01192_TODO_23,
-48,TEXT_GAIUSE118_01192_MINFILIA_000_000,現在得到了格里達尼亞的支援，<hex:02100103>看來一切已經準備就緒了。<hex:02100103>這些全都是通過你的努力得來的。
-49,TEXT_GAIUSE118_01192_MINFILIA_000_001,我們準備分成幾組人，<hex:02100103>分別入駐喪靈鐘。
-50,TEXT_GAIUSE118_01192_MINFILIA_000_002,因為組成大部隊一起行動的話，<hex:02100103>很容易被某些人或魔物盯上。
-51,TEXT_GAIUSE118_01192_MINFILIA_000_003,除了小組的護衛人員和非戰鬥人員以外，<hex:02100103>其他人都要分頭獨自前往喪靈鐘。<hex:02100103>身為光之戰士的你……當然屬於後者了。
-52,TEXT_GAIUSE118_01192_MINFILIA_000_004,等我們轉移後，準備開放這個沙之家，<hex:02100103>讓這裡成為隸屬「拂曉」的冒險者們的聚集地。<hex:02100103>於里昂熱先生接下來會擔任這裡的主管。
-53,TEXT_GAIUSE118_01192_MINFILIA_000_005,雖然我已經極力說服他一起去喪靈鐘……<hex:02100103>但是於里昂熱先生提出了強烈的要求。
-54,TEXT_GAIUSE118_01192_MINFILIA_000_006,他似乎是想身兼這裡的主管的同時，<hex:02100103>專心調查如何解決蠻神問題。
-55,TEXT_GAIUSE118_01192_MINFILIA_000_007,而且，他說這裡還有沒完成的工作。<hex:02100103>一定是關於阿莉塞的事情吧……
-56,TEXT_GAIUSE118_01192_MINFILIA_000_008,他還表示如果我們發生什麼問題的話，他便會馬上趕過來。<hex:02100103>所以這裡就交給他管理，我們放心出發吧。
-57,TEXT_GAIUSE118_01192_MINFILIA_000_009,好了，可以請你去跟於里昂熱先生說聲我們已經準備就緒了嗎？<hex:02100103>你剛才可能正巧沒碰見他，估計他還在原來的位置上。
-58,TEXT_GAIUSE118_01192_URIANGER_000_010,準備工作……一切盡悉。<hex:02100103>本部遷移後，還有訪客來這裡時，<hex:02100103>我會將他們引導至喪靈鐘……
-59,TEXT_GAIUSE118_01192_URIANGER_000_011,我有話要送給即將踏上旅途的你。<hex:02100103>……歷史依存於人的記憶之中。<hex:02100103>反之，人也是如此。
-60,TEXT_GAIUSE118_01192_URIANGER_000_012,無法依存於記憶中的東西，<hex:02100103>會像薄紗一樣在暮色中搖曳。<hex:02100103>最終與黑暗融為一體。
-61,TEXT_GAIUSE118_01192_URIANGER_000_013,雖然薄紗依舊在黑暗中漂浮。<hex:02100103>但其無法留存於歷史和人的記憶之中。
-62,TEXT_GAIUSE118_01192_URIANGER_000_014,呵呵，今天我就為了你，<hex:02100103>說得更簡單易懂一些吧。<hex:02100103>請你不要忘記這個沙之家……
-63,TEXT_GAIUSE118_01192_MINFILIA_000_020,啊！！
-64,TEXT_GAIUSE118_01192_URIANGER_000_021,剛才的尖叫聲是……敏菲利亞的？！
-65,TEXT_GAIUSE118_01192_MINFILIA_000_022,我、我沒事……
-66,TEXT_GAIUSE118_01192_MINFILIA_000_030,要帶走的東西只剩這件了呢。<hex:02100103>路易索瓦大人，裡面可能會有點窄小，<hex:02100103>請忍耐一下。
-67,TEXT_GAIUSE118_01192_ELIDIBUSANCIENT_000_031,(-？？？？-)<hex:024804F2022303>那就是賢人路易索瓦的名杖——「天命杖」麼。<hex:0248020103>
-68,TEXT_GAIUSE118_01192_MINFILIA_000_032,紅色面具……你難道是無影？！
-69,TEXT_GAIUSE118_01192_ELIDIBUSANCIENT_000_033,(-？？？？-)<hex:024804F2022303>呵呵，竟然能意識到我的存在。<hex:02100103>你果然擁有「超越之力」。<hex:0248020103>
-70,TEXT_GAIUSE118_01192_MINFILIA_000_034,但你為什麼穿的是白袍……
-71,TEXT_GAIUSE118_01192_ELIDIBUSANCIENT_000_035,(-？？？？-)<hex:024804F2022303>我的事情沒有被流傳下來麼？<hex:02100103>算了，畢竟我也幾千年沒來這個世界了。<hex:02100103>這也是沒辦法的事。<hex:0248020103>
-72,TEXT_GAIUSE118_01192_ELIDIBUSEORZEA_000_036,(-？？？？-)稍安勿躁，我是調停者。<hex:02100103>我和那些黑袍的傢伙不一樣，並不打算與你們戰鬥。
-73,TEXT_GAIUSE118_01192_MINFILIA_000_037,黑袍……你是在說拉哈布雷亞？！
-74,TEXT_GAIUSE118_01192_ELIDIBUSEORZEA_000_038,(-？？？？-)看來你們給他造成了重創啊。<hex:02100103>讓他十分不甘心。
-75,TEXT_GAIUSE118_01192_ELIDIBUSEORZEA_000_039,(-？？？？-)不過，這也算給那些傢伙提了個醒吧。
-76,TEXT_GAIUSE118_01192_MINFILIA_000_040,不甘心……這是怎麼回事！<hex:02100103>拉哈布雷亞應該已經被那個人打倒了啊？！
-77,TEXT_GAIUSE118_01192_ELIDIBUSEORZEA_000_041,(-？？？？-)我還以為擊敗了深淵祭司的你們，<hex:02100103>多少能對我們的事情有些了解呢……
-78,TEXT_GAIUSE118_01192_ELIDIBUSEORZEA_000_042,(-？？？？-)我們是不死之身。<hex:02100103>即使你們破壞了作為依附於人的媒介——暗之水晶，<hex:02100103>我們也不會被消滅。
-79,TEXT_GAIUSE118_01192_MINFILIA_000_043,怎麼會這樣……
-80,TEXT_GAIUSE118_01192_TATARU_000_044,敏菲利亞，運送行李的準備已經就緒，<hex:02100103>差不多可以出發了。
-81,TEXT_GAIUSE118_01192_TATARU_000_045,你怎麼了？
-82,TEXT_GAIUSE118_01192_TATARU_000_046,你是不是身體不舒服啊？<hex:02100103>這段時間為了遷移的事忙裡忙外的，累壞了吧？
-83,TEXT_GAIUSE118_01192_TATARU_000_047,你先休息一下。<hex:02100103>運送行李的事就交給我吧。
-84,TEXT_GAIUSE118_01192_ELIDIBUSEORZEA_000_048,(-？？？？-)你在因為那個人看不見我而感到驚訝麼。<hex:02100103>因為那個人……她沒有「意識」到我的存在。
-85,TEXT_GAIUSE118_01192_MINFILIA_000_049,……意識？
-86,TEXT_GAIUSE118_01192_ELIDIBUSEORZEA_000_050,(-？？？？-)因為我們沒有肉體這種陳舊的容器。<hex:02100103>一般人無法理解我們的存在。
-87,TEXT_GAIUSE118_01192_ELIDIBUSEORZEA_000_051,(-？？？？-)時而如亡靈一般。<hex:02100103>時而如無形之人一般。<hex:02100103>我們在不同人的眼中，形態千變萬化。
-88,TEXT_GAIUSE118_01192_ELIDIBUSEORZEA_000_052,(-？？？？-)更何況我的事情沒有被流傳於世。<hex:02100103>所以對於你們而言，我根本就不存在。
-89,TEXT_GAIUSE118_01192_MINFILIA_000_053,居然有這種事……
-90,TEXT_GAIUSE118_01192_ELIDIBUSEORZEA_000_054,(-？？？？-)但擁有超越之力的人卻不同。<hex:02100103>超越之力可以使人打破這層壁障。<hex:02100103>只需要一個小小的契機，就可以意識到我們的真正姿態。
-91,TEXT_GAIUSE118_01192_MINFILIA_000_055,超越之力……<hex:02100103>這力量到底是……
-92,TEXT_GAIUSE118_01192_ELIDIBUSEORZEA_000_056,(-？？？？-)你們還無法發揮出超越之力真正的力量。<hex:02100103>去接受它吧……
-93,TEXT_GAIUSE118_01192_MINFILIA_000_057,接受？
-94,TEXT_GAIUSE118_01192_ELIDIBUSEORZEA_000_058,(-？？？？-)等到那時，我們和你們將會結為志同道合的同志。<hex:02100103>那樣的話，就不會再有爭端了吧。
-95,TEXT_GAIUSE118_01192_ELIDIBUSEORZEA_000_059,(-？？？？-)我是調停者……並不打算與你們戰鬥。<hex:02100103>今天我只是來告訴你們這件事情，再會吧。
-96,TEXT_GAIUSE118_01192_MINFILIA_000_060,等、等等！
-97,TEXT_GAIUSE118_01192_MINFILIA_000_062,啊！！
-98,TEXT_GAIUSE118_01192_ELIDIBUSANCIENT_000_063,(-？？？？-)<hex:024804F2022303>果然對擁有超越之力的人沒有效果了麼……<hex:0248020103>
-99,TEXT_GAIUSE118_01192_ELIDIBUSANCIENT_000_064,(-？？？？-)<hex:024804F2022303>可以考慮使用「激熱」了麼。<hex:0248020103>
-100,TEXT_GAIUSE118_01192_MINFILIA_000_070,看你的樣子……是看見剛才發生的事了吧？<hex:02100103>那也省得我說明了……
-101,TEXT_GAIUSE118_01192_MINFILIA_000_071,那個人似乎沒打算殺我……<hex:02100103>我已經沒事了。
-102,TEXT_GAIUSE118_01192_TATARU_000_072,敏菲利亞！你沒事吧？！<hex:02100103>剛才的尖叫聲是怎麼回事？！
-103,TEXT_GAIUSE118_01192_TATARU_000_073,是頭暈嗎？還是突然起身引起的暈眩？<hex:02100103>你要是累了的話，就請喝塔塔露的特製藥茶……
-104,TEXT_GAIUSE118_01192_MINFILIA_000_074,於里昂熱先生，我有件事要拜託你。<hex:02100103>請你聯絡委員會，申請「禁書」的閱覽許可！
-105,TEXT_GAIUSE118_01192_MINFILIA_000_075,我們必須要更了解無影……<hex:02100103>了解他們的事情……
-106,TEXT_GAIUSE118_01192_URIANGER_000_076,難道說，剛才的尖叫聲是因為無影？
-107,TEXT_GAIUSE118_01192_URIANGER_000_077,剛才趕往這裡的途中……<hex:02100103>我察覺到有股氣息向街道那邊移動。莫非那就是無影？
-108,TEXT_GAIUSE118_01192_MINFILIA_000_078,<hex:022903EB0203>，快追上去！<hex:02100103>那個白袍無影給人一種很不好的感覺！
-109,TEXT_GAIUSE118_01192_URIANGER_000_079,塔塔露小姐……我需要你的協助。
-110,TEXT_GAIUSE118_01192_MINFILIA_000_090,那個白袍無影給人一種很不好的感覺！<hex:02100103>就像是要發生不好事情的前兆，<hex:02100103>……不，倒不如說他就是前兆。
-111,TEXT_GAIUSE118_01192_MINFILIA_000_091,<hex:022903EB0203>！<hex:02100103>請你追上那個白袍無影！
-112,TEXT_GAIUSE118_01192_TATARU_000_095,總感覺忐忑不安的。<hex:02100103>不會是要發生什麼可怕的事情吧？
-113,TEXT_GAIUSE118_01192_URIANGER_000_100,這裡交給我……<hex:02100103>你快去追上那個白袍男子。<hex:02100103>那個人剛才往黃昏灣跑去了。
-114,TEXT_GAIUSE118_01192_ELIDIBUSEORZEA_000_105,(-？？？？-)用不著這麼提防我……
-115,TEXT_GAIUSE118_01192_ELIDIBUSEORZEA_000_110,(-？？？？-)來了麼，冒險者。
-116,TEXT_GAIUSE118_01192_ELIDIBUSEORZEA_000_111,(-？？？？-)我為你準備了些節目。<hex:02100103>想追上我的話，就先打倒我的僕人們吧。
-117,TEXT_GAIUSE118_01192_ELIDIBUSEORZEA_000_112,(-？？？？-)讓我看看你的實力是不是貨真價實的吧。
-118,TEXT_GAIUSE118_01192_ELIDIBUSEORZEA_000_115,(-？？？？-)呵呵……很強大的力量。
-119,TEXT_GAIUSE118_01192_ELIDIBUSEORZEA_000_120,我特意準備的節目，<hex:02100103>對你來說只不過是熱身罷了。
-120,TEXT_GAIUSE118_01192_ELIDIBUSEORZEA_000_121,看來你真的很有本事。<hex:02100103>不愧是擊敗深淵祭司的冒險者……
-121,TEXT_GAIUSE118_01192_ELIDIBUSEORZEA_000_122,你還真是銳氣逼人啊。<hex:02100103>是因為看見她剛才發生的事情了嗎？
-122,TEXT_GAIUSE118_01192_ELIDIBUSEORZEA_000_123,我不打算與你戰鬥。<hex:02100103>只是想看看勇敢的你到底長什麼樣子。
-123,TEXT_GAIUSE118_01192_ELIDIBUSEORZEA_000_124,拉哈布雷亞是黑袍中的佼佼者……<hex:02100103>雖說你得到了光之加護，<hex:02100103>但沒想到真有「人」能夠打倒我們。
-124,TEXT_GAIUSE118_01192_ELIDIBUSEORZEA_000_125,海德林的光之使徒……<hex:02100103>你也感覺到了吧，<hex:02100103>來自海德林的干涉正漸漸減弱……
-125,TEXT_GAIUSE118_01192_ELIDIBUSEORZEA_000_126,海德林馬上就會消失了。<hex:02100103>……不，應該說是恢復原本的姿態。
-126,TEXT_GAIUSE118_01192_ELIDIBUSEORZEA_000_127,不僅是海德林。<hex:02100103>星球、世界、人類……<hex:02100103>一切都將恢復應有的姿態。
-127,TEXT_GAIUSE118_01192_ELIDIBUSEORZEA_000_128,我和那些黑袍不同。<hex:02100103>我只是運用法則，將一切引導至正確的道路上。
-128,TEXT_GAIUSE118_01192_ELIDIBUSEORZEA_000_129,(-艾里迪布斯-)我是艾里迪布斯。<hex:02100103>是真神與人類間的調停者……
-129,TEXT_GAIUSE118_01192_ELIDIBUSEORZEA_000_130,(-艾里迪布斯-)等有機會再好好聊吧。<hex:02100103>在不會被任何人打擾的地方……
-130,TEXT_GAIUSE118_01192_MINFILIA_000_140,你平安回來真是太好了……<hex:02100103>我叫你去追後，就一直很擔心你。
-131,TEXT_GAIUSE118_01192_MINFILIA_000_141,真的很抱歉，<hex:022903EB0203>。<hex:02100103>雖說我當時被嚇得驚慌失措，但不應該貿然讓你以身犯險。<hex:02100103>不過……後來那個白袍無影怎麼樣了？
-132,TEXT_GAIUSE118_01192_MINFILIA_000_142,他說海德林會恢復原本的姿態？<hex:02100103>星球、世界、人類也都將恢復應有的姿態？<hex:02100103>這到底是什麼意思……
-133,TEXT_GAIUSE118_01192_MINFILIA_000_143,艾里迪布斯……他的行為和黑袍無影有所不同，<hex:02100103>但從他說的那些話上推斷，那個人果然不是站在我們這一邊。
-134,TEXT_GAIUSE118_01192_MINFILIA_000_144,總之，我這邊會調查關於他的事情。<hex:02100103>你先好好休息，從戰鬥的疲憊中恢復過來。<hex:02100103>謝謝你了，<hex:022903EB0203>。
-135,TEXT_GAIUSE118_01192_TATARU_000_150,<hex:022903EB0203>！還好你沒事！<hex:02100103>敏菲利亞正等著你呢。
-136,TEXT_GAIUSE118_01192_URIANGER_000_155,友朋歸來不亦樂乎。<hex:02100103>好了，快到拂曉之間去吧……
-137,TEXT_GAIUSE118_01192_POP_MESSAGE,察覺到了敵人的氣息！
+0,"TEXT_GAIUSE118_01192_SEQ_00","The time has come at last to leave Vesper Bay, and Minfilia would apprise you of the final details of the move."
+1,"TEXT_GAIUSE118_01192_SEQ_01","Rather than leaving en masse, the Scions will travel to Mor Dhona in several small groups. You are to remain with Minfilia until all the rest have gone. While you await your turn to depart, the Antecedent explains that Urianger will not be joining you at Revenant's Toll, and bids you inquire of him if anything has been left undone."
+2,"TEXT_GAIUSE118_01192_SEQ_02","While discussing the future of the Waking Sands with Urianger, you hear a cry from the solar which could only be Minfilia's. After bursting through the doors, you find the Antecedent collapsed upon the floor, alive─thank the gods─but unmoving. Wielding the power of the Echo, you learn that an Ascian robed in white was present mere moments before, having infiltrated the Scions' inner sanctum unnoticed. As the vision unfolds, the trespasser proclaims himself an emissary, and speaks cryptically of the Echo and its power, asserting that mastery of this gift could end hostilities between the Ascians and the children of Hydaelyn forever. Back in the present, Minfilia rises to her feet, disoriented but unharmed, and commands you to search Vesper Bay for the Ascian, who she suspects may still be lurking nearby."
+3,"TEXT_GAIUSE118_01192_SEQ_03","You are shocked to find the Ascian standing in the center of Vesper Bay, making no attempt to conceal his presence. Although he recognizes you as the one who bested Lahabrea in the Praetorium, he expresses some doubt as to your true capabilities. After declaring that he will walk north, he adds that you may follow, but warns that you will be waylaid should you choose to do so."
+4,"TEXT_GAIUSE118_01192_SEQ_04","A trio of imps ambush you outside the gates of Vesper Bay, precisely as the Ascian predicted. Though he does not appear to be present, you cannot shake the sensation that you are being watched..."
+5,"TEXT_GAIUSE118_01192_SEQ_05","You are soon waylaid by another voidsent─a gargoyle, this time─which you duly slay. As before, you feel certain that the battle was observed..."
+6,"TEXT_GAIUSE118_01192_SEQ_06","Upon entering Parata's Peace, you are assailed by a pair of gnarled gargoyles, but they are unable to stop you from pressing forward. To the north, you spy the white-robed Ascian standing motionless, as if daring you to approach. Oblige him."
+7,"TEXT_GAIUSE118_01192_SEQ_07","As the white-robed figure watches in silence, four black-clad Ascians appear and engage you in combat. Wielding dire magicks, they push you to your mortal limits, but in the end you claim victory. As the last one falls, you see what looks like a grin flash across the face of your observer. Accost him and find out what he has to say."
+8,"TEXT_GAIUSE118_01192_SEQ_08","""As it was, so shall it be again.“ The words of Elidibus linger in your memory, simultaneously inviting and eluding interpretation. Intriguingly, the Ascian emissary claims to serve the same god as Lahabrea, yet he appears to bear no ill will towards you and your fellow Scions. Quite why this should be is unclear─if, indeed, it is even true... Return to the Waking Sands and report all that has transpired to Minfilia."
+9,"TEXT_GAIUSE118_01192_SEQ_09","Your tale serves only to confound an already troubled Minfilia, who is at a loss to explain Elidibus's actions. Though it would seem that the white-robed Ascian is no friend to Lahabrea, everything else about him remains a mystery."
+10,"TEXT_GAIUSE118_01192_SEQ_10",""
+11,"TEXT_GAIUSE118_01192_SEQ_11",""
+12,"TEXT_GAIUSE118_01192_SEQ_12",""
+13,"TEXT_GAIUSE118_01192_SEQ_13",""
+14,"TEXT_GAIUSE118_01192_SEQ_14",""
+15,"TEXT_GAIUSE118_01192_SEQ_15",""
+16,"TEXT_GAIUSE118_01192_SEQ_16",""
+17,"TEXT_GAIUSE118_01192_SEQ_17",""
+18,"TEXT_GAIUSE118_01192_SEQ_18",""
+19,"TEXT_GAIUSE118_01192_SEQ_19",""
+20,"TEXT_GAIUSE118_01192_SEQ_20",""
+21,"TEXT_GAIUSE118_01192_SEQ_21",""
+22,"TEXT_GAIUSE118_01192_SEQ_22",""
+23,"TEXT_GAIUSE118_01192_SEQ_23",""
+24,"TEXT_GAIUSE118_01192_TODO_00","Speak with Urianger."
+25,"TEXT_GAIUSE118_01192_TODO_01","Search for the white-robed Ascian."
+26,"TEXT_GAIUSE118_01192_TODO_02","Follow the white-robed Ascian."
+27,"TEXT_GAIUSE118_01192_TODO_03","Follow the white-robed Ascian."
+28,"TEXT_GAIUSE118_01192_TODO_04","Follow the white-robed Ascian."
+29,"TEXT_GAIUSE118_01192_TODO_05","Approach the white-robed Ascian."
+30,"TEXT_GAIUSE118_01192_TODO_06","Speak with the white-robed Ascian."
+31,"TEXT_GAIUSE118_01192_TODO_07","Report to Minfilia at the Waking Sands."
+32,"TEXT_GAIUSE118_01192_TODO_08",""
+33,"TEXT_GAIUSE118_01192_TODO_09",""
+34,"TEXT_GAIUSE118_01192_TODO_10",""
+35,"TEXT_GAIUSE118_01192_TODO_11",""
+36,"TEXT_GAIUSE118_01192_TODO_12",""
+37,"TEXT_GAIUSE118_01192_TODO_13",""
+38,"TEXT_GAIUSE118_01192_TODO_14",""
+39,"TEXT_GAIUSE118_01192_TODO_15",""
+40,"TEXT_GAIUSE118_01192_TODO_16",""
+41,"TEXT_GAIUSE118_01192_TODO_17",""
+42,"TEXT_GAIUSE118_01192_TODO_18",""
+43,"TEXT_GAIUSE118_01192_TODO_19",""
+44,"TEXT_GAIUSE118_01192_TODO_20",""
+45,"TEXT_GAIUSE118_01192_TODO_21",""
+46,"TEXT_GAIUSE118_01192_TODO_22",""
+47,"TEXT_GAIUSE118_01192_TODO_23",""
+48,"TEXT_GAIUSE118_01192_MINFILIA_000_000","Owing to the tireless efforts of all concerned, we are, at long last, ready to bid farewell to Vesper Bay."
+49,"TEXT_GAIUSE118_01192_MINFILIA_000_001","So as to avoid drawing undue attention, we shall make the journey to Revenant's Toll in small groups, departing at irregular intervals."
+50,"TEXT_GAIUSE118_01192_MINFILIA_000_002","Lest you doubt, it is still my intention to conduct future operations openly, but on this particular occasion, the need for caution overrides all other concerns. To move north as one ponderous caravan would only serve to invite attack."
+51,"TEXT_GAIUSE118_01192_MINFILIA_000_003","It seemed only right that I should be the last to leave, and I would have you remain with me until the end, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>."
+52,"TEXT_GAIUSE118_01192_MINFILIA_000_004","Upon my departure, the Waking Sands will formally cease to be our headquarters, and the premises will be given into the care of Urianger."
+53,"TEXT_GAIUSE118_01192_MINFILIA_000_005","I had thought to relinquish the property, but he was quite adamant, and I had not the heart to disagree. These walls have borne witness to some of the brightest...and darkest moments in our order's history. Mayhap it is best that we do not forsake them entirely."
+54,"TEXT_GAIUSE118_01192_MINFILIA_000_006","Urianger shall remain here and devote his energies to studying the nature of primals. By the grace of the Twelve, he will one day discover the permanent solution that we have sought for so long."
+55,"TEXT_GAIUSE118_01192_MINFILIA_000_007","Of course, he will not be alone─Alisaie shall continue to work closely with him as well."
+56,"TEXT_GAIUSE118_01192_MINFILIA_000_008","Should they require our assistance, I have their assurances that they will not hesitate to contact us."
+57,"TEXT_GAIUSE118_01192_MINFILIA_000_009","Speaking of Urianger─would you inquire of him if any tasks remain undone? I cannot escape the feeling that I have forgotten something. Something important."
+58,"TEXT_GAIUSE118_01192_URIANGER_000_010","Thou art ever welcome, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, but I require no assistance. Pray take thy leave unburdened by concern for my well-being."
+59,"TEXT_GAIUSE118_01192_URIANGER_000_011","Verily, thy countenance bespeaks a desire to quit this place without further delay. Hm. Mayhap thou thinkest this chapter of our tale concluded─that these halls should rightly be consigned to the annals of history...?"
+60,"TEXT_GAIUSE118_01192_URIANGER_000_012","In man's eagerness to seize the future, how readily he doth set down the past."
+61,"TEXT_GAIUSE118_01192_URIANGER_000_013","Full many a proud pioneer hath bravely stridden into the great unknown, only to find there the banner of his ancestor, faded by the eons. And <hex:021A020203>still<hex:021A020103> man glorieth in his discoveries. 'Tis through his pride that wisdom doth ever give way to ignorance, while they who lurk in shadow remain hidden, lost no sooner than they are found."
+62,"TEXT_GAIUSE118_01192_URIANGER_000_014","<sigh> Be not offended, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Thy conduct hath ever been beyond reproach. Despite thy surpassing strength, and all thy many victories, thou hast never been so convinced of thine own greatness as to imagine thyself above the failings of thy forebears. Mayhap it is the Echo which hath opened thine eyes to the lessons of history. Would that the same could be said of─"
+63,"TEXT_GAIUSE118_01192_MINFILIA_000_020","Aaaaaahhh!"
+64,"TEXT_GAIUSE118_01192_URIANGER_000_021","Whence came that cry!? The solar! Twelve forfend─the Antecedent!"
+65,"TEXT_GAIUSE118_01192_MINFILIA_000_022","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>... Y-You...you must..."
+66,"TEXT_GAIUSE118_01192_MINFILIA_000_030","Tell me, Louisoix... Would you have done the same?"
+67,"TEXT_GAIUSE118_01192_ELIDIBUSANCIENT_000_031","(-???-)<hex:024804F2022303>...Louisoix Leveilleur was a remarkable man. Wise beyond mortal measure. Would that I had met him prior to his passing.<hex:0248020103>"
+68,"TEXT_GAIUSE118_01192_MINFILIA_000_032","An Ascian, here!? How─!?"
+69,"TEXT_GAIUSE118_01192_ELIDIBUSANCIENT_000_033","(-???-)<hex:024804F2022303>How readily you see. You are indeed gifted, Antecedent.<hex:0248020103>"
+70,"TEXT_GAIUSE118_01192_MINFILIA_000_034","But you... You are not like the others. Your robes..."
+71,"TEXT_GAIUSE118_01192_ELIDIBUSANCIENT_000_035","(-???-)<hex:024804F2022303>Gifted─but ignorant. Yet I shall not judge you harshly. The fault lies with your forebears. It has been...millennia.<hex:0248020103>"
+72,"TEXT_GAIUSE118_01192_ELIDIBUSEORZEA_000_036","(-???-)Mine are the robes of an emissary. Unlike he who came before, I have no quarrel with you."
+73,"TEXT_GAIUSE118_01192_MINFILIA_000_037","He who─ You speak of Lahabrea?"
+74,"TEXT_GAIUSE118_01192_ELIDIBUSEORZEA_000_038","(-???-)Lahabrea is a warrior. He fought. He fell."
+75,"TEXT_GAIUSE118_01192_ELIDIBUSEORZEA_000_039","(-???-)He may yet learn from his mistakes."
+76,"TEXT_GAIUSE118_01192_MINFILIA_000_040","Then he...he is still..."
+77,"TEXT_GAIUSE118_01192_ELIDIBUSEORZEA_000_041","(-???-)Come. I only confirm that which you already knew."
+78,"TEXT_GAIUSE118_01192_ELIDIBUSEORZEA_000_042","(-???-)There is no cessation, no oblivion. Only expulsion."
+79,"TEXT_GAIUSE118_01192_MINFILIA_000_043","You... What are...?"
+80,"TEXT_GAIUSE118_01192_TATARU_000_044","We're ready when you are, my lady! If there's nothing else..."
+81,"TEXT_GAIUSE118_01192_TATARU_000_045","...Is something the matter?"
+82,"TEXT_GAIUSE118_01192_TATARU_000_046","Ah...I feel the same way. After everything that's happened here, it feels strange to leave. But I'm sure we'll soon get used to Revenant's Toll."
+83,"TEXT_GAIUSE118_01192_TATARU_000_047","Well...I'll let you say your good-byes. Take as long as you like, my lady. We shall depart whenever you're ready."
+84,"TEXT_GAIUSE118_01192_ELIDIBUSEORZEA_000_048","(-???-)It is only to be expected. She lacks the gift and the knowledge both. To her, we are indistinct."
+85,"TEXT_GAIUSE118_01192_MINFILIA_000_049","I...I do not understand."
+86,"TEXT_GAIUSE118_01192_ELIDIBUSEORZEA_000_050","(-???-)Shadowless, fleshless, formless... What truth there is in each tale is diluted by time and telling."
+87,"TEXT_GAIUSE118_01192_ELIDIBUSEORZEA_000_051","(-???-)Knowledge dictates expectation, and expectation colors perception. Thus did she perceive naught."
+88,"TEXT_GAIUSE118_01192_ELIDIBUSEORZEA_000_052","(-???-)So it is with all but a chosen few. Even you, when young, could not yet see with eyes unclouded."
+89,"TEXT_GAIUSE118_01192_MINFILIA_000_053","You know nothing about me. <hex:021A020203>Nothing<hex:021A020103>."
+90,"TEXT_GAIUSE118_01192_ELIDIBUSEORZEA_000_054","(-???-)The gift grants you clarity; it grants you focus. With it, you may in time come to see us as we are, rather than this crude approximation."
+91,"TEXT_GAIUSE118_01192_MINFILIA_000_055","Lahabrea did not think so highly of the Echo."
+92,"TEXT_GAIUSE118_01192_ELIDIBUSEORZEA_000_056","(-???-)Lahabrea is wrong about a great many things. The Echo is indeed a gift─albeit one you have yet to master."
+93,"TEXT_GAIUSE118_01192_MINFILIA_000_057","And if we did?"
+94,"TEXT_GAIUSE118_01192_ELIDIBUSEORZEA_000_058","(-???-)There would be no strife between our peoples─for we would be of one mind."
+95,"TEXT_GAIUSE118_01192_ELIDIBUSEORZEA_000_059","(-???-)I leave, as I came, in peace, Antecedent. May we meet again as friends."
+96,"TEXT_GAIUSE118_01192_MINFILIA_000_060","Wait! Stay where you are!"
+97,"TEXT_GAIUSE118_01192_MINFILIA_000_062","Aaaaaahhh!"
+98,"TEXT_GAIUSE118_01192_ELIDIBUSANCIENT_000_063","(-???-)<hex:024804F2022303>Mayhap I was indelicate... 'Tis a mercy She shields Her children from His grace with such resolve.<hex:0248020103>"
+99,"TEXT_GAIUSE118_01192_ELIDIBUSANCIENT_000_064","(-???-)<hex:024804F2022303>Was it also by Her hand that you survived the Ardor, I wonder?<hex:0248020103>"
+100,"TEXT_GAIUSE118_01192_MINFILIA_000_070","<groan> I...I take it there is no need to explain."
+101,"TEXT_GAIUSE118_01192_MINFILIA_000_071","Save your concern. He did me no lasting harm. Whatever his intention was, it was not to kill."
+102,"TEXT_GAIUSE118_01192_TATARU_000_072","I heard a cry! What happened!? Are you all right?"
+103,"TEXT_GAIUSE118_01192_TATARU_000_073","You look faint─do you need to lie down? I could fetch you a flask of my special tonic─"
+104,"TEXT_GAIUSE118_01192_MINFILIA_000_074","Urianger, send word to the Students of Baldesion. Tell them to scour the archives─the forbidden tomes in particular."
+105,"TEXT_GAIUSE118_01192_MINFILIA_000_075","If there is <hex:021A020203>any<hex:021A020103> reference to an Ascian robed in white, however oblique, I would know of it."
+106,"TEXT_GAIUSE118_01192_URIANGER_000_076","...An Ascian, my lady? Was that what gave you cause to cry out?"
+107,"TEXT_GAIUSE118_01192_URIANGER_000_077","I did but moments ago glimpse a figure clad in white set forth from the Waking Sands. Yet Ascians are wont to employ teleportation magicks─why would one be so brazen?"
+108,"TEXT_GAIUSE118_01192_MINFILIA_000_078","I know not and care not. Find him, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! Turn every stone in Vesper Bay if you have to!"
+109,"TEXT_GAIUSE118_01192_URIANGER_000_079","Pray attend me, Tataru."
+110,"TEXT_GAIUSE118_01192_MINFILIA_000_090","He speaks of peace, but I <hex:021A020203>know<hex:021A020103> his words belie his true intent."
+111,"TEXT_GAIUSE118_01192_MINFILIA_000_091","Quickly, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>─do not let him escape!"
+112,"TEXT_GAIUSE118_01192_TATARU_000_095","Tell me he's gone, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Tell me we're safe. We <hex:021A020203>are<hex:021A020103> safe, aren't we...?"
+113,"TEXT_GAIUSE118_01192_URIANGER_000_100","What this visitation doth portend, I cannot say. But that thou must pursue the Ascian is clear. Scour thee Vesper Bay for signs of his passing. And fear not for the Antecedent's well-being─should the fiend be so imprudent as to return to the Waking Sands, he shall not find us unprepared a second time."
+114,"TEXT_GAIUSE118_01192_ELIDIBUSEORZEA_000_105","(-???-)Approach when you will. I shall wait."
+115,"TEXT_GAIUSE118_01192_ELIDIBUSEORZEA_000_110","(-???-)I am told that you are the Warrior of Light. But I would know for myself."
+116,"TEXT_GAIUSE118_01192_ELIDIBUSEORZEA_000_111","(-???-)I shall walk north, and you may choose to follow."
+117,"TEXT_GAIUSE118_01192_ELIDIBUSEORZEA_000_112","(-???-)Know, however, that you will be waylaid if you do─you may even perish. Should you survive, we shall speak anon."
+118,"TEXT_GAIUSE118_01192_ELIDIBUSEORZEA_000_115","(-???-)I see you live. Good. But your trial is not yet at an end."
+119,"TEXT_GAIUSE118_01192_ELIDIBUSEORZEA_000_120","(-???-)Remarkable. Truly remarkable. I thank you for granting me this indulgence."
+120,"TEXT_GAIUSE118_01192_ELIDIBUSEORZEA_000_121","(-???-)None save <hex:02080CE905FF04>she<hex:FF03>he<hex:03> who bested Lahabrea could endure such an examination."
+121,"TEXT_GAIUSE118_01192_ELIDIBUSEORZEA_000_122","(-???-)Have the laws of man grown so twisted in my absence that it is now permitted to lay hands upon an emissary?"
+122,"TEXT_GAIUSE118_01192_ELIDIBUSEORZEA_000_123","(-???-)You bore witness to my audience with the Antecedent, did you not? Then you know I acted only in self-defense."
+123,"TEXT_GAIUSE118_01192_ELIDIBUSEORZEA_000_124","(-???-)I realize the same cannot be said of Lahabrea. Even amongst his brethren, he is considered...unique. Nevertheless, I cannot wholly condemn his misdeeds, for through them we discovered you─one so strong in the gift that <hex:02080CE905FF04>she<hex:FF03>he<hex:03> could cast us out."
+124,"TEXT_GAIUSE118_01192_ELIDIBUSEORZEA_000_125","(-???-)Your Mother favors you still, that much is plain. But surely you must feel it? Her influence wanes, and Her strength shall soon be spent."
+125,"TEXT_GAIUSE118_01192_ELIDIBUSEORZEA_000_126","(-???-)These lands, these people, this world─all shall soon change."
+126,"TEXT_GAIUSE118_01192_ELIDIBUSEORZEA_000_127","(-???-)As it was, so shall it be again. As it should always have been."
+127,"TEXT_GAIUSE118_01192_ELIDIBUSEORZEA_000_128","(-???-)Doubt my claims and question my motives if you will."
+128,"TEXT_GAIUSE118_01192_ELIDIBUSEORZEA_000_129","(-???-)Only believe me when I say this..."
+129,"TEXT_GAIUSE118_01192_ELIDIBUSEORZEA_000_130","(-Elidibus-)I am Elidibus, emissary─bearer of the word of the one true god. And we shall meet again."
+130,"TEXT_GAIUSE118_01192_MINFILIA_000_140","Thank the gods you've returned, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! After you left, I began to worry that I might have sent you to your doom. I take it our visitor proved elusive?"
+131,"TEXT_GAIUSE118_01192_MINFILIA_000_141","Beg pardon? He was <hex:021A020203>waiting<hex:021A020103> for you!? What did you do? What did he say?"
+132,"TEXT_GAIUSE118_01192_MINFILIA_000_142","""As it was, so shall it be again“? ...Of when does he speak? And of what, exactly?"
+133,"TEXT_GAIUSE118_01192_MINFILIA_000_143","The words of this Elidibus portend much but reveal nothing─save perhaps a measure of disdain for Lahabrea."
+134,"TEXT_GAIUSE118_01192_MINFILIA_000_144","<sigh> I had hoped for answers, but it seems I shall have to be content with a wealth of additional questions."
+135,"TEXT_GAIUSE118_01192_TATARU_000_150","Where were you, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>!? Did you find the man in white? Oh, what am I doing─the Antecedent is waiting for you!"
+136,"TEXT_GAIUSE118_01192_URIANGER_000_155","By the Twelve's good grace, thou hast returned. The Antecedent waiteth for thee. Hie thee to her side without further delay."
+137,"TEXT_GAIUSE118_01192_POP_MESSAGE","You are being judged... "

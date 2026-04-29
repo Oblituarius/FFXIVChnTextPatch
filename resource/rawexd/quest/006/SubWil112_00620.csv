@@ -2,75 +2,75 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_SUBWIL112_00620_SEQ_00,枯骨營地的領頭人伊桑巴德想要介紹冒險者去祭司所在的教會。
-1,TEXT_SUBWIL112_00620_SEQ_01,想要和祭司交談的話，伊桑巴德建議冒險者去「聖阿達瑪·蘭達瑪教會」，並託付了埋葬遺體的工作。關於埋葬的事情，可以詢問守墓人馬爾克斯。
-2,TEXT_SUBWIL112_00620_SEQ_02,依照馬爾克斯的指示，將準備下葬的遺體搬運到下葬地點。
-3,TEXT_SUBWIL112_00620_SEQ_03,抵達下葬地點，將準備下葬的遺體埋葬。
-4,TEXT_SUBWIL112_00620_SEQ_04,順利埋葬了遺體。回去向馬爾克斯報告。
-5,TEXT_SUBWIL112_00620_SEQ_05,馬爾克斯對貧民的事情不怎麼了解。去問問教會裡的奧爾森祭司。
-6,TEXT_SUBWIL112_00620_SEQ_06,據奧爾森所說，貧民們貌似只有對祭司才會敞開心扉。回到枯骨營地，和伊桑巴德談談。
-7,TEXT_SUBWIL112_00620_SEQ_07,依照桑克瑞德的見解，能不引人注目地引導貧民的只有奧爾森祭司。但伊桑巴德說她是個好人……
-8,TEXT_SUBWIL112_00620_SEQ_08,
-9,TEXT_SUBWIL112_00620_SEQ_09,
-10,TEXT_SUBWIL112_00620_SEQ_10,
-11,TEXT_SUBWIL112_00620_SEQ_11,
-12,TEXT_SUBWIL112_00620_SEQ_12,
-13,TEXT_SUBWIL112_00620_SEQ_13,
-14,TEXT_SUBWIL112_00620_SEQ_14,
-15,TEXT_SUBWIL112_00620_SEQ_15,
-16,TEXT_SUBWIL112_00620_SEQ_16,
-17,TEXT_SUBWIL112_00620_SEQ_17,
-18,TEXT_SUBWIL112_00620_SEQ_18,
-19,TEXT_SUBWIL112_00620_SEQ_19,
-20,TEXT_SUBWIL112_00620_SEQ_20,
-21,TEXT_SUBWIL112_00620_SEQ_21,
-22,TEXT_SUBWIL112_00620_SEQ_22,
-23,TEXT_SUBWIL112_00620_SEQ_23,
-24,TEXT_SUBWIL112_00620_TODO_00,和馬爾克斯對話
-25,TEXT_SUBWIL112_00620_TODO_01,將準備下葬的遺體搬運到下葬地點
-26,TEXT_SUBWIL112_00620_TODO_02,將準備下葬的遺體埋葬
-27,TEXT_SUBWIL112_00620_TODO_03,向馬爾克斯報告
-28,TEXT_SUBWIL112_00620_TODO_04,和奧爾森對話
-29,TEXT_SUBWIL112_00620_TODO_05,和伊桑巴德對話
-30,TEXT_SUBWIL112_00620_TODO_06,
-31,TEXT_SUBWIL112_00620_TODO_07,
-32,TEXT_SUBWIL112_00620_TODO_08,
-33,TEXT_SUBWIL112_00620_TODO_09,
-34,TEXT_SUBWIL112_00620_TODO_10,
-35,TEXT_SUBWIL112_00620_TODO_11,
-36,TEXT_SUBWIL112_00620_TODO_12,
-37,TEXT_SUBWIL112_00620_TODO_13,
-38,TEXT_SUBWIL112_00620_TODO_14,
-39,TEXT_SUBWIL112_00620_TODO_15,
-40,TEXT_SUBWIL112_00620_TODO_16,
-41,TEXT_SUBWIL112_00620_TODO_17,
-42,TEXT_SUBWIL112_00620_TODO_18,
-43,TEXT_SUBWIL112_00620_TODO_19,
-44,TEXT_SUBWIL112_00620_TODO_20,
-45,TEXT_SUBWIL112_00620_TODO_21,
-46,TEXT_SUBWIL112_00620_TODO_22,
-47,TEXT_SUBWIL112_00620_TODO_23,
-48,TEXT_SUBWIL112_00620_ISEMBARD_000_1,你想要找祭司大人談談的話，<hex:02100103>就到「聖阿達瑪·蘭達瑪教會」去吧。<hex:02100103>那是家小教會，就在這個村落的西邊不遠處。
-49,TEXT_SUBWIL112_00620_ISEMBARD_000_2,你要去的話，能順便帶一具「準備下葬的遺體」過去嗎？<hex:02100103>正好有一件請求埋葬的委託。
-50,TEXT_SUBWIL112_00620_ISEMBARD_000_3,你找教會的守墓人「馬爾克斯」問一下，<hex:02100103>他會告訴你該葬在哪裡的。
-51,TEXT_SUBWIL112_00620_MARQUEZ_000_10,……我是馬爾克斯。<hex:02100103>你是想要打聽貧民的情報，<hex:02100103>同時還把準備下葬的遺體運過來的冒險者？
-52,TEXT_SUBWIL112_00620_MARQUEZ_000_11,……那麼我們先來給遺體下葬吧。<hex:02100103>空的墓穴就在左邊這個坡上。<hex:02100103>安置完遺體後，要用心地把土掩好哦。
-53,TEXT_SUBWIL112_00620_MARQUEZ_000_15,比起打聽事情……我們還是優先給遺體下葬吧。<hex:02100103>他的墓就在左手邊的這個坡上。
-54,TEXT_SUBWIL112_00620_MARQUEZ_000_20,遺體埋好了嗎？<hex:02100103>埋得不仔細的話，可是會變成土狗的餌食的。
-55,TEXT_SUBWIL112_00620_MARQUEZ_000_21,已經埋葬好了嗎？真是幫了大忙了。<hex:02100103>……那麼，你是在尋找貧民的下落嗎？<hex:02100103>很不巧，我對此一無所知。
-56,TEXT_SUBWIL112_00620_MARQUEZ_000_22,……不過，奧爾森祭司大人和貧民們很親近，<hex:02100103>去問問她的話大概能有所收穫。
-57,TEXT_SUBWIL112_00620_MARQUEZ_000_23,她就在教會裡面，你直接過去問問吧。<hex:02100103>……我反正派不上用場，就不跟去添亂了。
-58,TEXT_SUBWIL112_00620_MARQUEZ_028,……我反正派不上用場，就不跟去添亂了。
-59,TEXT_SUBWIL112_00620_OURCEN_000_30,您是來送遺體下葬的嗎，真是非常感謝您的所作所為。<hex:02100103>請您轉告枯骨營地的伊桑巴德先生，<hex:02100103>我會為你們祈禱的。
-60,TEXT_SUBWIL112_00620_OURCEN_000_31,……正如馬爾克斯所說，<hex:02100103>我一直都在傾聽貧民們的話語。<hex:02100103>他們現在也依然會對侍奉於神的人敞開心扉。
-61,TEXT_SUBWIL112_00620_OURCEN_000_32,對了，馬爾克斯沒做出什麼失禮的事情吧？<hex:02100103>他只是因為在第七靈災中心靈受到了很大的創傷，<hex:02100103>有點害怕和人接觸而已。
-62,TEXT_SUBWIL112_00620_OURCEN_000_33,之前也對一位叫做桑克瑞德的先生很沒禮貌……<hex:02100103>之後我會好好地說說他的。
-63,TEXT_SUBWIL112_00620_OURCEN_000_40,請您轉告枯骨營地的伊桑巴德先生，<hex:02100103>我會為你們祈禱的。
-64,TEXT_SUBWIL112_00620_ISEMBARD_000_50,感謝你給遺體下葬。<hex:02100103>得到想要的情報了嗎？
-65,TEXT_SUBWIL112_00620_THANCRED_000_51,喲，<hex:022903EB0203>，看起來你很賣力嘛。
-66,TEXT_SUBWIL112_00620_THANCRED_000_52,初次見面，伊桑巴德先生。<hex:02100103>我叫桑克瑞德，<hex:02100103>是跟<hex:022903EB0203>一起調查這個事件的人。
-67,TEXT_SUBWIL112_00620_THANCRED_000_53,我也再三找商人安古斯特打聽過，<hex:02100103>貧民只會對「侍奉於神的人」卸下心防，<hex:02100103>看來這件事他倒是沒有說錯。
-68,TEXT_SUBWIL112_00620_THANCRED_000_54,能不引人注目地拐走貧民們……<hex:02100103>現階段好像只有奧爾森祭司能夠辦得到啊。
-69,TEXT_SUBWIL112_00620_ISEMBARD_000_55,奧爾森祭司大人？！<hex:02100103>她可是位非常溫柔的女性……怎麼可能。
-70,TEXT_SUBWIL112_00620_THANCRED_000_56,美麗的花都會帶刺。<hex:02100103>我覺得注意下她的行動比較好。
-71,TEXT_SUBWIL112_00620_THANCRED_000_57,……不過，那個守墓人馬爾克斯，<hex:02100103>我總覺得在哪裡見過他……
+0,"TEXT_SUBWIL112_00620_SEQ_00","Isembard would like you to learn what you can from the clergy."
+1,"TEXT_SUBWIL112_00620_SEQ_01","Isembard has asked that you visit the Church of Saint Adama Landama to inter a corpse he has prepared for burial, and to speak to the priests about the missing commonfolk. Seek out Marques in the lichyard."
+2,"TEXT_SUBWIL112_00620_SEQ_02","Marques has directed you to an empty grave atop the nearby ridge. Bear the embalmed corpse to the gravesite."
+3,"TEXT_SUBWIL112_00620_SEQ_03","You have gently placed the embalmed body at the foot of the grave. Perform one final duty for the deceased and provide him a proper burial."
+4,"TEXT_SUBWIL112_00620_SEQ_04","You have interred the dearly departed as Isembard requested. Return to Marques and tell him the deed is done."
+5,"TEXT_SUBWIL112_00620_SEQ_05","Marques admits to knowing little of the commonfolk. He suggests you speak to Sister Ourcen within the church."
+6,"TEXT_SUBWIL112_00620_SEQ_06","Sister Ourcen informs you that while the commonfolk confide a great many things in her, she has not heard anything that might help your investigation. Return to Camp Drybone and speak to Isembard once more."
+7,"TEXT_SUBWIL112_00620_SEQ_07","Upon your return to Isembard at Camp Drybone, the ever-dashing Thancred appears to greet you. To Isembard's dismay, he suspects that the only person who could take the vigilant commonfolk by surprise is the very Sister Ourcen who takes their confession. Isembard, however, is not so easily convinced."
+8,"TEXT_SUBWIL112_00620_SEQ_08",""
+9,"TEXT_SUBWIL112_00620_SEQ_09",""
+10,"TEXT_SUBWIL112_00620_SEQ_10",""
+11,"TEXT_SUBWIL112_00620_SEQ_11",""
+12,"TEXT_SUBWIL112_00620_SEQ_12",""
+13,"TEXT_SUBWIL112_00620_SEQ_13",""
+14,"TEXT_SUBWIL112_00620_SEQ_14",""
+15,"TEXT_SUBWIL112_00620_SEQ_15",""
+16,"TEXT_SUBWIL112_00620_SEQ_16",""
+17,"TEXT_SUBWIL112_00620_SEQ_17",""
+18,"TEXT_SUBWIL112_00620_SEQ_18",""
+19,"TEXT_SUBWIL112_00620_SEQ_19",""
+20,"TEXT_SUBWIL112_00620_SEQ_20",""
+21,"TEXT_SUBWIL112_00620_SEQ_21",""
+22,"TEXT_SUBWIL112_00620_SEQ_22",""
+23,"TEXT_SUBWIL112_00620_SEQ_23",""
+24,"TEXT_SUBWIL112_00620_TODO_00","Speak with Marques outside the Church of Saint Adama Landama."
+25,"TEXT_SUBWIL112_00620_TODO_01","Lay the embalmed corpse at the gravesite."
+26,"TEXT_SUBWIL112_00620_TODO_02","Bury the embalmed corpse."
+27,"TEXT_SUBWIL112_00620_TODO_03","Report back to Marques."
+28,"TEXT_SUBWIL112_00620_TODO_04","Speak with Sister Ourcen."
+29,"TEXT_SUBWIL112_00620_TODO_05","Speak with Isembard at Camp Drybone."
+30,"TEXT_SUBWIL112_00620_TODO_06",""
+31,"TEXT_SUBWIL112_00620_TODO_07",""
+32,"TEXT_SUBWIL112_00620_TODO_08",""
+33,"TEXT_SUBWIL112_00620_TODO_09",""
+34,"TEXT_SUBWIL112_00620_TODO_10",""
+35,"TEXT_SUBWIL112_00620_TODO_11",""
+36,"TEXT_SUBWIL112_00620_TODO_12",""
+37,"TEXT_SUBWIL112_00620_TODO_13",""
+38,"TEXT_SUBWIL112_00620_TODO_14",""
+39,"TEXT_SUBWIL112_00620_TODO_15",""
+40,"TEXT_SUBWIL112_00620_TODO_16",""
+41,"TEXT_SUBWIL112_00620_TODO_17",""
+42,"TEXT_SUBWIL112_00620_TODO_18",""
+43,"TEXT_SUBWIL112_00620_TODO_19",""
+44,"TEXT_SUBWIL112_00620_TODO_20",""
+45,"TEXT_SUBWIL112_00620_TODO_21",""
+46,"TEXT_SUBWIL112_00620_TODO_22",""
+47,"TEXT_SUBWIL112_00620_TODO_23",""
+48,"TEXT_SUBWIL112_00620_ISEMBARD_000_1","If we would know what the commonfolk speak of to their gods, we've no better place to ask than at the Church of Saint Adama Landama. It is a small and humble church, found to the northwest of here."
+49,"TEXT_SUBWIL112_00620_ISEMBARD_000_2","And so long as you are headed there...might I ask you to deliver this embalmed corpse? A morbid request, I grant you, but it must be borne to burial, and I trust none more than you to see it done."
+50,"TEXT_SUBWIL112_00620_ISEMBARD_000_3","Seek out a man named Marques─he tends the graves of the lichyard. He will tell you where the body is to be interred."
+51,"TEXT_SUBWIL112_00620_MARQUEZ_000_10","I am Marques, yes. A body? Of course...<hex:02100103>There...there have been...so many bodies of late..."
+52,"TEXT_SUBWIL112_00620_MARQUEZ_000_11","I... I apologize, <hex:02080EE905FF05>miss<hex:FF04>sir<hex:03>. If you seek a place of burial, then there is an empty grave atop the ridge. Take the path and lay him to rest there."
+53,"TEXT_SUBWIL112_00620_MARQUEZ_000_15","Bury him well and give his soul peace. Then we will talk."
+54,"TEXT_SUBWIL112_00620_MARQUEZ_000_20","Did you bury him? You must pack the earth tight, or they will come... The mongrels will come and defile the body..."
+55,"TEXT_SUBWIL112_00620_MARQUEZ_000_21","May they all walk in Thal's realm...<hex:02100103>...What? Missing people? I...I'm afraid I cannot help you."
+56,"TEXT_SUBWIL112_00620_MARQUEZ_000_22","But maybe Sister Ourcen can. She has been kind to me. Everyone...everyone has been so kind."
+57,"TEXT_SUBWIL112_00620_MARQUEZ_000_23","I don't know why, though. I...<hex:02100103>Pardon me. You will find Sister Ourcen within the church walls."
+58,"TEXT_SUBWIL112_00620_MARQUEZ_028","It's all wrong. I...I should have..."
+59,"TEXT_SUBWIL112_00620_OURCEN_000_30","I hear you have done us the service of burying a fallen soul. Please accept our gratitude, and extend it to Isembard when next you see him."
+60,"TEXT_SUBWIL112_00620_OURCEN_000_31","Hm? You seek knowledge of missing Drybone inhabitants? It is true I am closer to the people than any other of the Order. I confide in them, and they in me. When they wish to speak to their keeper, Thal, I am the medium through which they do."
+61,"TEXT_SUBWIL112_00620_OURCEN_000_32","Should I learn anything pertinent, I will be sure to share the information with you. <sigh> I only wish Marques would be more helpful in the matter. I pray he did nothing to offend. He saw...terrible things during the Calamity... His scars run deep. Indeed, he seems to now prefer the company of the dead over the living."
+62,"TEXT_SUBWIL112_00620_OURCEN_000_33","While tragic, I fear such behavior ill befits the church. I received word not long ago that one of our recent visitors─a man called Thancred, I believe─took offense at his conduct. I must have words with Marques, and soon."
+63,"TEXT_SUBWIL112_00620_OURCEN_000_40","Please extend my gratitude to Isembard on behalf of the Order."
+64,"TEXT_SUBWIL112_00620_ISEMBARD_000_50","Thank you, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. A burial is no easy thing─even when the departed is a stranger. Were you able to learn aught of the missing commonfolk?"
+65,"TEXT_SUBWIL112_00620_THANCRED_000_51","You've been keeping yourself rather busy of late, haven't you, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>?"
+66,"TEXT_SUBWIL112_00620_THANCRED_000_52","A pleasure, my dear Isembard. The name is Thancred, and I share a passion with you and our mutual friend here for learning what has become of these missing persons and why."
+67,"TEXT_SUBWIL112_00620_THANCRED_000_53","I, too, spoke with Ungust─more times than I care to count. There seems to be some truth to this notion of the commonfolk speaking their secrets only to those in service to the gods."
+68,"TEXT_SUBWIL112_00620_THANCRED_000_54","Prostration, prayer, penance. Abject deeds done behind closed doors, away from prying eyes. Who better to take the pious unawares than she who takes confession─the good Sister Ourcen herself?"
+69,"TEXT_SUBWIL112_00620_ISEMBARD_000_55","Ourcen!? She wouldn't... She <hex:021A020203>couldn't<hex:021A020103>!"
+70,"TEXT_SUBWIL112_00620_THANCRED_000_56","Even the most beautiful roses have thorns, my friend. And you would be wise to keep an eye to <hex:021A020203>this<hex:021A020103> rose."
+71,"TEXT_SUBWIL112_00620_THANCRED_000_57","Still, the lichkeeper Marques... I'd swear to the Twelve I've seen that face elsewhere before..."

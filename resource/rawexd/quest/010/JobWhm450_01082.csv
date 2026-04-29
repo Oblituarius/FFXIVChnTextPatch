@@ -2,81 +2,81 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_JOBWHM450_01082_SEQ_00,恬靜路營地的拉雅·奧·神納，有事情想要告訴冒險者。
-1,TEXT_JOBWHM450_01082_SEQ_01,接受了拉雅·奧·神納的委託。前往西拉諾西亞的海蛇巢穴附近，對<hex:02280CFF05>EObj<hex:F61E8DDC0103>使用情感動作「祈禱」，並獲取鎮撫裝束。前往摩杜納的糾纏沼澤林附近，對<hex:02280CFF05>EObj<hex:F61E8DDD0103>使用情感動作「祈禱」，並獲取鎮撫裝束。前往北薩納蘭的勞班緩衝地附近，對<hex:02280CFF05>EObj<hex:F61E8DDE0103>使用情感動作「祈禱」，並獲取鎮撫裝束。
-2,TEXT_JOBWHM450_01082_SEQ_02,對<hex:02280CFF05>EObj<hex:F61E8DDC0103>使用了情感動作「祈禱」，並獲得了鎮撫裝束。對<hex:02280CFF05>EObj<hex:F61E8DDD0103>使用了情感動作「祈禱」，並獲得了鎮撫裝束。對<hex:02280CFF05>EObj<hex:F61E8DDE0103>使用了情感動作「祈禱」，並獲得了鎮撫裝束。前往南部林區的恬靜路營地，和拉雅·奧·神納談談。
-3,TEXT_JOBWHM450_01082_SEQ_03,和拉雅·奧·神納進行了交談。前往北部林區的榮耀溪附近，調查<hex:02280CFF05>EObj<hex:F61E8DDF0103>。
-4,TEXT_JOBWHM450_01082_SEQ_04,調查了<hex:02280CFF05>EObj<hex:F61E8DDF0103>。前往南部林區的恬靜路營地，將<hex:022811FF0A>EventItem<hex:F61E882F0103>交給拉雅·奧·神納。
-5,TEXT_JOBWHM450_01082_SEQ_05,將<hex:022811FF0A>EventItem<hex:F61E882F0103>交給了拉雅·奧·神納。前往拉諾西亞外地的地靈軍試掘地附近，對<hex:02280CFF05>EObj<hex:F61E8DE00103>使用情感動作「祈禱」，並獲取鎮撫裝束。
-6,TEXT_JOBWHM450_01082_SEQ_06,對<hex:02280CFF05>EObj<hex:F61E8DE00103>使用了情感動作「祈禱」，並獲得了鎮撫裝束。前往南部林區的恬靜路營地，向拉雅·奧·神納報告。
-7,TEXT_JOBWHM450_01082_SEQ_07,向拉雅·奧·神納報告完畢。盜墓者的行為令拉雅·奧·神納感到十分憤怒。她發誓一定要揪出盜墓者，並奪回阿·拓瓦·坎特的聖櫃。作為阿·拓瓦·坎特的繼承人，繼續努力修行，並協助拉雅·奧·神納搜查犯人。
-8,TEXT_JOBWHM450_01082_SEQ_08,
-9,TEXT_JOBWHM450_01082_SEQ_09,
-10,TEXT_JOBWHM450_01082_SEQ_10,
-11,TEXT_JOBWHM450_01082_SEQ_11,
-12,TEXT_JOBWHM450_01082_SEQ_12,
-13,TEXT_JOBWHM450_01082_SEQ_13,
-14,TEXT_JOBWHM450_01082_SEQ_14,
-15,TEXT_JOBWHM450_01082_SEQ_15,
-16,TEXT_JOBWHM450_01082_SEQ_16,
-17,TEXT_JOBWHM450_01082_SEQ_17,
-18,TEXT_JOBWHM450_01082_SEQ_18,
-19,TEXT_JOBWHM450_01082_SEQ_19,
-20,TEXT_JOBWHM450_01082_SEQ_20,
-21,TEXT_JOBWHM450_01082_SEQ_21,
-22,TEXT_JOBWHM450_01082_SEQ_22,
-23,TEXT_JOBWHM450_01082_SEQ_23,
-24,TEXT_JOBWHM450_01082_TODO_00,對海蛇巢穴的<hex:02280CFF05>EObj<hex:F61E8DDC0103>使用情感動作「祈禱」並獲取鎮撫裝束
-25,TEXT_JOBWHM450_01082_TODO_01,對糾纏沼澤林的<hex:02280CFF05>EObj<hex:F61E8DDD0103>使用情感動作「祈禱」並獲取鎮撫裝束
-26,TEXT_JOBWHM450_01082_TODO_02,對勞班緩衝地的<hex:02280CFF05>EObj<hex:F61E8DDE0103>使用情感動作「祈禱」並獲取鎮撫裝束
-27,TEXT_JOBWHM450_01082_TODO_03,和恬靜路營地的拉雅·奧·神納對話
-28,TEXT_JOBWHM450_01082_TODO_04,調查榮耀溪的<hex:02280CFF05>EObj<hex:F61E8DDF0103>
-29,TEXT_JOBWHM450_01082_TODO_05,將<hex:022811FF0A>EventItem<hex:F61E882F0103>交給恬靜路營地的拉雅·奧·神納
-30,TEXT_JOBWHM450_01082_TODO_06,對地靈軍試掘地的<hex:02280CFF05>EObj<hex:F61E8DE00103>使用情感動作「祈禱」並獲取鎮撫裝束
-31,TEXT_JOBWHM450_01082_TODO_07,向恬靜路營地的拉雅·奧·神納報告
-32,TEXT_JOBWHM450_01082_TODO_08,
-33,TEXT_JOBWHM450_01082_TODO_09,
-34,TEXT_JOBWHM450_01082_TODO_10,
-35,TEXT_JOBWHM450_01082_TODO_11,
-36,TEXT_JOBWHM450_01082_TODO_12,
-37,TEXT_JOBWHM450_01082_TODO_13,
-38,TEXT_JOBWHM450_01082_TODO_14,
-39,TEXT_JOBWHM450_01082_TODO_15,
-40,TEXT_JOBWHM450_01082_TODO_16,
-41,TEXT_JOBWHM450_01082_TODO_17,
-42,TEXT_JOBWHM450_01082_TODO_18,
-43,TEXT_JOBWHM450_01082_TODO_19,
-44,TEXT_JOBWHM450_01082_TODO_20,
-45,TEXT_JOBWHM450_01082_TODO_21,
-46,TEXT_JOBWHM450_01082_TODO_22,
-47,TEXT_JOBWHM450_01082_TODO_23,
-48,TEXT_JOBWHM450_01082_RAYAOSENNA_000_000,<hex:022903EB0203>，是時候開始鎮撫儀式的事前準備了。
-49,TEXT_JOBWHM450_01082_RAYAOSENNA_000_001,在和長老樹的大元靈進行共鳴時，為了能承受住其強大的力量，<hex:02100103>需要裝備特別的裝束，所以我希望你先去準備下。
-50,TEXT_JOBWHM450_01082_RAYAOSENNA_000_002,這是我為你準備的裝束。<hex:02100103>但這副裝束現在沒有任何力量。
-51,TEXT_JOBWHM450_01082_RAYAOSENNA_000_003,我希望你將力量注入裝束中，<hex:02100103>讓其成為「鎮撫裝束」。<hex:02100103>為此你要巡遊艾歐澤亞各地。
-52,TEXT_JOBWHM450_01082_RAYAOSENNA_000_004,阿·拓瓦大人是個很特別的角尊，<hex:02100103>他離開森林，長期在外進行治癒之旅。<hex:02100103>在他去世後，骨灰分別被安葬在各因緣地中。
-53,TEXT_JOBWHM450_01082_RAYAOSENNA_000_005,<hex:022903EB0203>，你作為繼承人，<hex:02100103>去巡遊阿·拓瓦大人位於各地的墓碑，<hex:02100103>獻上祈禱，獲取力量吧！
-54,TEXT_JOBWHM450_01082_RAYAOSENNA_000_006,首先，<hex:02280CFF05>EObj<hex:F61E8DDC0103>在西拉諾西亞的海岸。<hex:02100103>但現在那裡已經成為海盜「海蛇之舌」的基地，人稱海蛇巢穴。
-55,TEXT_JOBWHM450_01082_RAYAOSENNA_000_007,而<hex:02280CFF05>EObj<hex:F61E8DDD0103>在摩杜納的糾纏沼澤林。<hex:02100103>那裡濕氣重，而且很潮濕，<hex:02100103>不知道墓碑有沒有受到損壞……
-56,TEXT_JOBWHM450_01082_RAYAOSENNA_000_008,還有就是北薩納蘭的<hex:02280CFF05>EObj<hex:F61E8DDE0103>，<hex:02100103>那一帶現在被稱作勞班緩衝地。<hex:02100103>那裡離帝國軍的基地很近，你要多加小心了。
-57,TEXT_JOBWHM450_01082_SYSTEM_000_009,這裡好像是阿·拓瓦·坎特的墓碑。
-58,TEXT_JOBWHM450_01082_RAYAOSENNA_000_010,你順利從那3個地方的墓碑中獲得了力量，<hex:02100103>讓裝備成為了鎮撫裝束呢。
-59,TEXT_JOBWHM450_01082_RAYAOSENNA_000_011,阿·拓瓦·坎特大人的骨灰分別被安葬於各地的墓中。
-60,TEXT_JOBWHM450_01082_RAYAOSENNA_000_012,一般傳言是說，<hex:02100103>阿·拓瓦大人在拉諾西亞的奧·哥摩羅火山口附近失蹤了……<hex:02100103>但實際上，有一名阿·拓瓦大人的隨員將遺體回收了回來。
-61,TEXT_JOBWHM450_01082_RAYAOSENNA_000_013,據說那個隨員抱著必死的覺悟，<hex:02100103>帶著阿·拓瓦大人遺體，<hex:02100103>突破了地靈族密集的奧·哥摩羅火山口。
-62,TEXT_JOBWHM450_01082_RAYAOSENNA_000_014,但遺憾的是，<hex:02100103>坎特家的傳家寶名杖「酒神杖」也在那時候丟失了。
-63,TEXT_JOBWHM450_01082_RAYAOSENNA_000_015,總之……阿·拓瓦大人的遺體最終得以回歸格里達尼亞，<hex:02100103>後由隨員分別安葬在了他生前熱愛的各片土地上。
-64,TEXT_JOBWHM450_01082_RAYAOSENNA_000_016,你已經去了3個安葬地點，但那還不是全部。<hex:02100103>還有一處在黑衣森林的榮耀溪附近……<hex:02100103><hex:02280CFF05>EObj<hex:F61E8DDF0103>應該就在那裡。
-65,TEXT_JOBWHM450_01082_SYSTEM_000_017,<hex:02280CFF05>EObj<hex:F61E8DDF0103>被破壞了……<hex:02100103>有人奪走了裡面的東西。
-66,TEXT_JOBWHM450_01082_SYSTEM_000_018,現在無法將力量注入<hex:022811FF0A>EventItem<hex:F61E882F0103>。<hex:02100103>回到恬靜路營地，將<hex:022811FF0A>EventItem<hex:F61E882F0103>交還給拉雅·奧·神納，<hex:02100103>並聽從她的指示。
-67,TEXT_JOBWHM450_01082_RAYAOSENNA_000_020,阿·拓瓦大人的墓被盜墓者破壞了？！<hex:02100103>你……你說的是真的麼？！
-68,TEXT_JOBWHM450_01082_RAYAOSENNA_000_021,居然有這種事……<hex:02100103>膽敢破壞角尊的墓！竟然存在如此歹人！<hex:02100103>做出這種事的人已經喪心病狂了……
-69,TEXT_JOBWHM450_01082_RAYAOSENNA_000_022,既然已經被破壞了，再煩惱也無濟於事。<hex:02100103>我會去查明盜墓者的真實身份，<hex:02100103>你就去最後一處墓碑吧。
-70,TEXT_JOBWHM450_01082_RAYAOSENNA_000_023,地點位於拉諾西亞外地的地靈軍試掘地附近。<hex:02100103>是的……最後的墓碑就在阿·拓瓦大人去世的地方，<hex:02100103>奧·哥摩羅火山口附近。
-71,TEXT_JOBWHM450_01082_RAYAOSENNA_000_030,你回來啦，<hex:022903EB0203>。<hex:02100103>跑了那麼一趟遠路，一定累壞了吧？
-72,TEXT_JOBWHM450_01082_RAYAOSENNA_000_031,但是，你去過的那些墓碑地，<hex:02100103>那裡也佈滿了阿·拓瓦·坎特大人的足跡。
-73,TEXT_JOBWHM450_01082_RAYAOSENNA_000_032,阿·拓瓦大人雖身為角尊，但卻離開了黑衣森林，<hex:02100103>到世界各地旅行……並壽終於旅途之中。
-74,TEXT_JOBWHM450_01082_RAYAOSENNA_000_033,作為阿·拓瓦大人的繼承人，<hex:02100103>你要繼承的不僅僅是他的力量。<hex:02100103>我還希望你了解他的思想，和他眼中的事物。
-75,TEXT_JOBWHM450_01082_RAYAOSENNA_000_034,話說回來……<hex:02100103>沒想到格里達尼亞竟會出現盜墓者這樣的無恥之徒……
-76,TEXT_JOBWHM450_01082_RAYAOSENNA_000_035,……不，或許正因為是格里達尼亞人……<hex:02100103>正是因為知道角尊墓的珍貴，所以才去破壞……
-77,TEXT_JOBWHM450_01082_RAYAOSENNA_000_036,總之這件事情不能不管。<hex:02100103>我發誓一定要把盜墓者揪出來！
+0,"TEXT_JOBWHM450_01082_SEQ_00","Raya–O–Senna would send you on a pilgrimage."
+1,"TEXT_JOBWHM450_01082_SEQ_01","Raya–O–Senna explains that in order to withstand the fury of the great one while performing the Quieting, you must clad yourself in garb imbued with the powers of your forebear. Take the items of clothing she has given you and /pray before three of A–Towa–Cant's resting places─in the Serpent's Tongue, the Tangle, and Raubahn's Push─that you might obtain the great mage's blessing."
+2,"TEXT_JOBWHM450_01082_SEQ_02","Your prayers have been answered, and you have received the blessing of A–Towa–Cant for the three pieces of garb entrusted to you. Return to Camp Tranquil and speak with Raya–O–Senna."
+3,"TEXT_JOBWHM450_01082_SEQ_03","Pleased by your success, Raya–O–Senna goes on to tell you of a fourth location where an urn of A–Towa-Cant's ashes has been laid to rest. Take the fresh set of white mage's robes you've been given, and pay your respects to the grave near Proud Creek in the North Shroud."
+4,"TEXT_JOBWHM450_01082_SEQ_04","The grave by Proud Creek has been defiled and A–Towa–Cant's remains stolen, leaving you unable to obtain the great mage's blessing. Return the unenchanted robe to Raya–O–Senna."
+5,"TEXT_JOBWHM450_01082_SEQ_05","Incensed upon hearing that A–Towa–Cant's grave has been robbed, Raya–O–Senna nevertheless sends you on the last leg of your pilgrimage. Travel to the Kobold Dig in outer La Noscea, where the great mage is said to have perished."
+6,"TEXT_JOBWHM450_01082_SEQ_06","After bowing your head in solemn prayer one last time, you have received another of the great Padjal's blessings, making the healer's circlet yours. Head back to Raya–O–Senna at Camp Tranquil and inform her of your progress."
+7,"TEXT_JOBWHM450_01082_SEQ_07","Raya–O–Senna explains her reasons for sending you on the pilgrimage. It was not merely for the purpose of enchanting your ritual garb, but also because she wished for you to see with your own eyes the beauty and suffering of the realm, as A–Towa–Cant once did. Angered by the defilement of the great mage's resting place, she has vowed to find the culprit."
+8,"TEXT_JOBWHM450_01082_SEQ_08",""
+9,"TEXT_JOBWHM450_01082_SEQ_09",""
+10,"TEXT_JOBWHM450_01082_SEQ_10",""
+11,"TEXT_JOBWHM450_01082_SEQ_11",""
+12,"TEXT_JOBWHM450_01082_SEQ_12",""
+13,"TEXT_JOBWHM450_01082_SEQ_13",""
+14,"TEXT_JOBWHM450_01082_SEQ_14",""
+15,"TEXT_JOBWHM450_01082_SEQ_15",""
+16,"TEXT_JOBWHM450_01082_SEQ_16",""
+17,"TEXT_JOBWHM450_01082_SEQ_17",""
+18,"TEXT_JOBWHM450_01082_SEQ_18",""
+19,"TEXT_JOBWHM450_01082_SEQ_19",""
+20,"TEXT_JOBWHM450_01082_SEQ_20",""
+21,"TEXT_JOBWHM450_01082_SEQ_21",""
+22,"TEXT_JOBWHM450_01082_SEQ_22",""
+23,"TEXT_JOBWHM450_01082_SEQ_23",""
+24,"TEXT_JOBWHM450_01082_TODO_00","/pray before the grave of A–Towa–Cant in the Serpent's Tongue."
+25,"TEXT_JOBWHM450_01082_TODO_01","/pray before the grave of A–Towa–Cant in the Tangle."
+26,"TEXT_JOBWHM450_01082_TODO_02","/pray before the grave of A–Towa–Cant in Raubahn's Push."
+27,"TEXT_JOBWHM450_01082_TODO_03","Speak with Raya–O–Senna at Camp Tranquil."
+28,"TEXT_JOBWHM450_01082_TODO_04","Examine the grave of A–Towa–Cant near Proud Creek."
+29,"TEXT_JOBWHM450_01082_TODO_05","Return the unenchanted robe to Raya–O–Senna."
+30,"TEXT_JOBWHM450_01082_TODO_06","/pray before the grave of A–Towa–Cant near the Kobold Dig."
+31,"TEXT_JOBWHM450_01082_TODO_07","Report to Raya–O–Senna at Camp Tranquil."
+32,"TEXT_JOBWHM450_01082_TODO_08",""
+33,"TEXT_JOBWHM450_01082_TODO_09",""
+34,"TEXT_JOBWHM450_01082_TODO_10",""
+35,"TEXT_JOBWHM450_01082_TODO_11",""
+36,"TEXT_JOBWHM450_01082_TODO_12",""
+37,"TEXT_JOBWHM450_01082_TODO_13",""
+38,"TEXT_JOBWHM450_01082_TODO_14",""
+39,"TEXT_JOBWHM450_01082_TODO_15",""
+40,"TEXT_JOBWHM450_01082_TODO_16",""
+41,"TEXT_JOBWHM450_01082_TODO_17",""
+42,"TEXT_JOBWHM450_01082_TODO_18",""
+43,"TEXT_JOBWHM450_01082_TODO_19",""
+44,"TEXT_JOBWHM450_01082_TODO_20",""
+45,"TEXT_JOBWHM450_01082_TODO_21",""
+46,"TEXT_JOBWHM450_01082_TODO_22",""
+47,"TEXT_JOBWHM450_01082_TODO_23",""
+48,"TEXT_JOBWHM450_01082_RAYAOSENNA_000_000","Your command of white magic has advanced considerably, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Yes, the time draws near─let us begin our preparations for the Quieting."
+49,"TEXT_JOBWHM450_01082_RAYAOSENNA_000_001","At its roots, the ritual is no different from the acts of pacifying that you have already performed. The difference lies only in the difficulty of the effort─the great one possesses a power unfathomably more immense than the elementals you have communed with thus far."
+50,"TEXT_JOBWHM450_01082_RAYAOSENNA_000_002","Power so immense that a mage might be easily overwhelmed by the sheer force of its will. To prevent such a catastrophic fate, our tradition decrees that especial garb must be donned before performing the ritual."
+51,"TEXT_JOBWHM450_01082_RAYAOSENNA_000_003","I have prepared for you these pieces, but I fear they will not avail you in their current state. So it is that I would send you on a journey."
+52,"TEXT_JOBWHM450_01082_RAYAOSENNA_000_004","I trust you know the story of A–Towa–Cant. Rare among the Padjal, he left the forest behind to travel the realm, healing the land and its people. As tribute to his wanderlust, after he passed, his ashes were divided among several urns, which were in turn carried to the far reaches of the realm."
+53,"TEXT_JOBWHM450_01082_RAYAOSENNA_000_005","And it was there, in the distant lands that the great mage so loved, that his ashes were buried, and monuments erected in his honor. You are to go on a pilgrimage to these sites, and receive the blessings of your forebear. Only then will the garb I've gifted you be imbued with his divine powers."
+54,"TEXT_JOBWHM450_01082_RAYAOSENNA_000_006","Mind you, you will find that these places are not as welcoming as they might have been in Master A–Towa's time. The first site is on the shores of western La Noscea, in a place now feared as the Serpent's Tongue, home to a band of vile pirates."
+55,"TEXT_JOBWHM450_01082_RAYAOSENNA_000_007","The next is to be found in Mor Dhona, in that overgrown labyrinth of roots and vines so affectionately known as the Tangle. I do hope that Master A–Towa's ashes have survived those most oppressive environs."
+56,"TEXT_JOBWHM450_01082_RAYAOSENNA_000_008","The third site I would have you visit is perhaps the most treacherous location of the lot─Raubahn's Push in northern Thanalan, a stone's throw from an imperial stronghold. I urge you to exercise extreme caution."
+57,"TEXT_JOBWHM450_01082_SYSTEM_000_009","The gravestone is inscribed with an epitaph paying tribute to the life and deeds of the great mage, A–Towa–Cant."
+58,"TEXT_JOBWHM450_01082_RAYAOSENNA_000_010","Your safe return heartens me, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. I can feel newfound power emanating from the garb I gave you. I trust that this stage of your pilgrimage was a success."
+59,"TEXT_JOBWHM450_01082_RAYAOSENNA_000_011","Now that you have traveled the realm and seen the land as Master A–Towa did, I would share with you the rest of his tale. The histories claim that A–Towa–Cant disappeared in the mountains of O'Ghomoro, the kobold motherland. This is not untrue, but there is more to the story."
+60,"TEXT_JOBWHM450_01082_RAYAOSENNA_000_012","When the great mage did not return from his journey, one of his most devoted students went in search of him. As the legends have it, the young mage single-handedly fought off veritable legions of kobolds while scouring the mountains for any sign of his master."
+61,"TEXT_JOBWHM450_01082_RAYAOSENNA_000_013","Sadly, it was as all had feared. Though the young mage eventually found his master, the great A–Towa–Cant lived no more."
+62,"TEXT_JOBWHM450_01082_RAYAOSENNA_000_014","As if the death of the man were not enough, Thyrus─A–Towa–Cant's great staff, a mighty relic passed down by his ancestors─was lost to the shadows."
+63,"TEXT_JOBWHM450_01082_RAYAOSENNA_000_015","Undeterred, the young mage fought off the kobold hordes to carry his master's remains back to the surface. A ceremony was held to honor Master A–Towa's life and deeds, and urns housing his ashes were carried off to the far-reaching frontiers of which he was so fond in his living years."
+64,"TEXT_JOBWHM450_01082_RAYAOSENNA_000_016","All the urns, that is, except for one. Yes, though the precise location is known to only a few, Master A–Towa also rests closer to home. Here in the Twelveswood, not far from Proud Creek, you will find yet another monument to the great mage.<hex:02100103>Take with you this habit, and pay your respects as before. If you keep pure intentions in your heart and in your mind, then the healer's robe shall be your reward."
+65,"TEXT_JOBWHM450_01082_SYSTEM_000_017","The grave has been defiled, and its contents appear to have been stolen."
+66,"TEXT_JOBWHM450_01082_SYSTEM_000_018","The power of A–Towa–Cant has been lost here. Return to Camp Tranquil and seek counsel from Raya–O–Senna."
+67,"TEXT_JOBWHM450_01082_RAYAOSENNA_000_020","The urn holding Master A–Towa's ashes was stolen!? This cannot be!"
+68,"TEXT_JOBWHM450_01082_RAYAOSENNA_000_021","Grave robbery is a damnable enough crime in itself, but what manner of scoundrel would dare defile the resting place of a Padjal?"
+69,"TEXT_JOBWHM450_01082_RAYAOSENNA_000_022","Rest assured that I will investigate this heinous crime immediately. In the meantime, your pilgrimage demands you travel to one last destination."
+70,"TEXT_JOBWHM450_01082_RAYAOSENNA_000_023","This final leg of your journey will take you to the very place that Master A–Towa drew his last breath: O'Ghomoro, the homeland of the kobolds in outer La Noscea. It is there, in plain sight of the Kobold Dig, that the student of whom I spoke did erect a monument to his fallen master."
+71,"TEXT_JOBWHM450_01082_RAYAOSENNA_000_030","Welcome back, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. The journey was not an easy one, I trust, and yet I knew that Master A–Towa would guide you safely back to me."
+72,"TEXT_JOBWHM450_01082_RAYAOSENNA_000_031","In your travels, you have received the blessings of our great ancestor. And yet, this was not the sole reason I sent you on this pilgrimage. Perhaps you sensed something of my intentions during your trip."
+73,"TEXT_JOBWHM450_01082_RAYAOSENNA_000_032","Yes, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. As <hex:02080CE905FF04>she<hex:FF03>he<hex:03> who would inherit Master A–Towa's legacy, I wanted you to truly walk in his footsteps."
+74,"TEXT_JOBWHM450_01082_RAYAOSENNA_000_033","To see the realm─in both its beauty and its suffering─with your own eyes, as the great mage did so long ago."
+75,"TEXT_JOBWHM450_01082_RAYAOSENNA_000_034","And yet it is strange, no? A pirate's lair, a rampant jungle, mountains of fire─of all the hostile environs to which you journeyed, the single grave despoiled was that which rests right here in our forest home."
+76,"TEXT_JOBWHM450_01082_RAYAOSENNA_000_035","I suspect this was the handiwork of no witless grave robber, but rather someone who knew all too well the value of that which was buried within."
+77,"TEXT_JOBWHM450_01082_RAYAOSENNA_000_036","We must uncover the truth behind this crime and return Master A–Towa's ashes to their rightful resting place, and quickly. You are with me, yes?"

@@ -2,143 +2,143 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_LUCKLZ001_03242_SEQ_00,中庸工藝館的卡特莉絲有事想要傳達給冒險者。
-1,TEXT_LUCKLZ001_03242_SEQ_01,和卡特莉絲進行了交談。時隔100年世界再次迎來了黑夜，本來是一件值得歡慶的事情，可是有一些孩子們無法適應突然而來的變化。卡特莉絲想委託冒險者尋找一下有沒有可以讓孩子們安心的辦法。和水晶都的孩子們談談。
-2,TEXT_LUCKLZ001_03242_SEQ_02,從水晶都的孩子們那裡聽取了詳情。孩子們好像仍然沒有適應夜晚房間中沒有光亮，走廊一片漆黑的情況。向水晶都中庸工藝館的卡特莉絲報告。
-3,TEXT_LUCKLZ001_03242_SEQ_03,和卡特莉絲進行了交談。與中庸工藝館的5個部門齊心協力，幫忙解決孩子們的困擾。分別與5個部門的代表——伊奧拉、圖楠、貝斯里克、科希·芮、弗里斯利克談談，思考一下需要準備什麼東西。
-4,TEXT_LUCKLZ001_03242_SEQ_04,和5個部門的工匠們進行了交談。全員異口同聲說要靠自己來思考需要準備什麼東西。
-5,TEXT_LUCKLZ001_03242_SEQ_05,向卡特莉絲進行了報告。在水晶都圓頂區的<hex:02280CFF05>EObj<hex:F61EAD920103>等待，見證5個人拿出各自的方案。
-6,TEXT_LUCKLZ001_03242_SEQ_06,在<hex:02280CFF05>EObj<hex:F61EAD920103>等待後，卡特莉絲和各個部門的工匠，還有水晶都的孩子們過來了。5個工匠製作的東西都散發著能夠照亮夜晚黑暗的美麗光輝。看見閃亮光輝的孩子們意識到正是因為夜晚的回歸才會體現出光的美麗，這改變了他們對夜晚黑暗的認知。見到孩子們開心的樣子，卡特莉絲開始覺得失去了丈夫和孩子之後，作為中庸工藝館的館長為了水晶都一直努力工作是一個正確的選擇，感覺一切都有回報。今後卡特莉絲也會作為中庸工藝館的館長繼續努力工作照亮人們的生活。
-7,TEXT_LUCKLZ001_03242_SEQ_07,
-8,TEXT_LUCKLZ001_03242_SEQ_08,
-9,TEXT_LUCKLZ001_03242_SEQ_09,
-10,TEXT_LUCKLZ001_03242_SEQ_10,
-11,TEXT_LUCKLZ001_03242_SEQ_11,
-12,TEXT_LUCKLZ001_03242_SEQ_12,
-13,TEXT_LUCKLZ001_03242_SEQ_13,
-14,TEXT_LUCKLZ001_03242_SEQ_14,
-15,TEXT_LUCKLZ001_03242_SEQ_15,
-16,TEXT_LUCKLZ001_03242_SEQ_16,
-17,TEXT_LUCKLZ001_03242_SEQ_17,
-18,TEXT_LUCKLZ001_03242_SEQ_18,
-19,TEXT_LUCKLZ001_03242_SEQ_19,
-20,TEXT_LUCKLZ001_03242_SEQ_20,
-21,TEXT_LUCKLZ001_03242_SEQ_21,
-22,TEXT_LUCKLZ001_03242_SEQ_22,
-23,TEXT_LUCKLZ001_03242_SEQ_23,
-24,TEXT_LUCKLZ001_03242_TODO_00,和水晶都的孩子們對話
-25,TEXT_LUCKLZ001_03242_TODO_01,向卡特莉絲報告
-26,TEXT_LUCKLZ001_03242_TODO_02,和伊奧拉對話
-27,TEXT_LUCKLZ001_03242_TODO_03,和圖楠對話
-28,TEXT_LUCKLZ001_03242_TODO_04,和貝斯里克對話
-29,TEXT_LUCKLZ001_03242_TODO_05,和科希·芮對話
-30,TEXT_LUCKLZ001_03242_TODO_06,和弗里斯利克對話
-31,TEXT_LUCKLZ001_03242_TODO_07,向卡特莉絲報告
-32,TEXT_LUCKLZ001_03242_TODO_08,在<hex:02280CFF05>EObj<hex:F61EAD920103>等待
-33,TEXT_LUCKLZ001_03242_TODO_09,
-34,TEXT_LUCKLZ001_03242_TODO_10,
-35,TEXT_LUCKLZ001_03242_TODO_11,
-36,TEXT_LUCKLZ001_03242_TODO_12,
-37,TEXT_LUCKLZ001_03242_TODO_13,
-38,TEXT_LUCKLZ001_03242_TODO_14,
-39,TEXT_LUCKLZ001_03242_TODO_15,
-40,TEXT_LUCKLZ001_03242_TODO_16,
-41,TEXT_LUCKLZ001_03242_TODO_17,
-42,TEXT_LUCKLZ001_03242_TODO_18,
-43,TEXT_LUCKLZ001_03242_TODO_19,
-44,TEXT_LUCKLZ001_03242_TODO_20,
-45,TEXT_LUCKLZ001_03242_TODO_21,
-46,TEXT_LUCKLZ001_03242_TODO_22,
-47,TEXT_LUCKLZ001_03242_TODO_23,
-48,TEXT_LUCKLZ001_03242_KATLISS_000_001,哎呀哎呀……我還以為是誰呢。<hex:02100103>原來是為世界取回了黑夜的英雄——暗之戰士啊！
-49,TEXT_LUCKLZ001_03242_KATLISS_000_002,聽說你不僅擊退了靈光衛，<hex:02100103>還打倒了元兇？<hex:02100103>水晶都的市民都在感謝你呢。
-50,TEXT_LUCKLZ001_03242_KATLISS_000_003,不過，我還有別的事要感謝你，<hex:02100103>聽說你好像作為一名工匠，<hex:02100103>幫助了我們中庸工藝館的所有部門？
-51,TEXT_LUCKLZ001_03242_KATLISS_000_004,我作為工藝館的館長，<hex:02100103>對你的協助再次表示感謝。
-52,TEXT_LUCKLZ001_03242_KATLISS_000_005,同時，我還有件事想找你商量，<hex:02100103>不為別的，正是關於時隔100年再次降臨的黑暗夜晚。
-53,TEXT_LUCKLZ001_03242_KATLISS_000_006,世界再次有了黑夜當然是好事，<hex:02100103>不過，有些孩子對突然的變化感到疑惑，<hex:02100103>無法適應黑暗，而對夜晚的到來感到恐懼。
-54,TEXT_LUCKLZ001_03242_KATLISS_000_007,我想告訴這些孩子，黑夜絕對不是什麼可怕的事物，<hex:02100103>所以抱歉，能不能請你幫忙呢？
-55,TEXT_LUCKLZ001_03242_KATLISS_000_008,給你添麻煩了。<hex:02100103>只不過我們都是光之泛濫以後出生的，<hex:02100103>所以想不到一個可以讓孩子們安心的方法。
-56,TEXT_LUCKLZ001_03242_KATLISS_000_009,能請你先去跟水晶都孩子們談談，<hex:02100103>尋找一下解決辦法嗎？
-57,TEXT_LUCKLZ001_03242_ELFGIRL03242_000_050,<hex:020819E905FF0A>大姐姐<hex:FF0A>大哥哥<hex:03>找我有什麼事嗎？
-58,TEXT_LUCKLZ001_03242_ELFGIRL03242_000_051,誒？害不害怕夜晚？
-59,TEXT_LUCKLZ001_03242_ELFGIRL03242_000_052,當然害怕！<hex:02100103>以前就算拉上窗簾，<hex:02100103>房間裡也不會什麼都看不見啊！
-60,TEXT_LUCKLZ001_03242_ELFGIRL03242_000_053,所以……<hex:02100103>在睡覺的時候總會感到不安呢。
-61,TEXT_LUCKLZ001_03242_HUMEBOY03242_000_054,找我有什麼事嗎？
-62,TEXT_LUCKLZ001_03242_HUMEBOY03242_000_055,嗯？你問我害怕不害怕黑暗的夜晚？
-63,TEXT_LUCKLZ001_03242_HUMEBOY03242_000_056,哼，只不過是天空變暗了而已，有什麼可怕的！<hex:02100103>而且大人們都在慶祝黑夜的回歸啊！
-64,TEXT_LUCKLZ001_03242_HUMEBOY03242_000_057,只不過夜裡想去上廁所的時候，<hex:02100103>走廊裡太暗有點不方便……<hex:02100103>……我不是害怕……是真的！
-65,TEXT_LUCKLZ001_03242_DRAHNGIRL03242_000_058,有事要問我？
-66,TEXT_LUCKLZ001_03242_DRAHNGIRL03242_000_059,嗯——夜晚的天空非常漂亮我很喜歡……<hex:02100103>可是在漆黑的房間裡一個人睡覺，總覺得有點害怕。
-67,TEXT_LUCKLZ001_03242_DRAHNGIRL03242_000_060,因為就算有了什麼響聲，<hex:02100103>你也不知道到底發生了什麼……<hex:02100103>弟弟翻個身，我都覺得可能是有幽靈出現了呢。
-68,TEXT_LUCKLZ001_03242_KATLISS_000_065,能請你先去跟水晶都孩子們談談，<hex:02100103>尋找一下解決辦法嗎？
-69,TEXT_LUCKLZ001_03242_KATLISS_000_100,你回來了啊。<hex:02100103>孩子們都是怎麼說的呀？
-70,TEXT_LUCKLZ001_03242_KATLISS_000_101,嗯——原來如此。<hex:02100103>確實以前就算拉上窗簾，<hex:02100103>也無法遮擋來自天空的光亮，哪怕在夜裡室內也是很亮的。
-71,TEXT_LUCKLZ001_03242_KATLISS_000_102,可是在黑暗的夜晚，<hex:02100103>正是因為看不清東西，所以一些聲響就會引發想像力。<hex:02100103>特別是越小的孩子越會聯想到一些不好的東西。
-72,TEXT_LUCKLZ001_03242_KATLISS_000_103,好了！<hex:02100103>那就讓中庸工藝館的所有部門一起想辦法，<hex:02100103>為孩子們打造出在夜晚也能讓他們安心的東西吧！
-73,TEXT_LUCKLZ001_03242_Q1_000_000,要對卡特莉絲說什麼？
-74,TEXT_LUCKLZ001_03242_A1_000_001,真是不錯的想法
-75,TEXT_LUCKLZ001_03242_A1_000_002,真是夠大方啊
-76,TEXT_LUCKLZ001_03242_KATLISS_000_105,中庸工藝館之前為了防止食罪靈的襲擊，<hex:02100103>而佔用了眾多的人手和資源。
-77,TEXT_LUCKLZ001_03242_KATLISS_000_106,不過，現在食罪靈已經構不成威脅，<hex:02100103>所以我想把精力都放在繼承未來的孩子們身上，<hex:02100103>為他們做出能派上用場的東西。
-78,TEXT_LUCKLZ001_03242_KATLISS_000_107,夜晚的來臨會使環境發生巨大的改變。<hex:02100103>為了對應這種改變，我想這個選擇應該是不錯的一步。
-79,TEXT_LUCKLZ001_03242_KATLISS_000_108,……好了，既然這樣決定了，<hex:02100103>就讓伊奧拉、圖楠、貝斯里克、科希·芮、弗里斯利克<hex:02100103>也來幫忙好了。
-80,TEXT_LUCKLZ001_03242_KATLISS_000_109,麻煩你去動員一下他們，<hex:02100103>和他們聊聊，等決定好要準備什麼了的話，<hex:02100103>就向我報告一聲……拜託你了！
-81,TEXT_LUCKLZ001_03242_ELFGIRL03242_000_110,以前就算拉上窗簾，<hex:02100103>房間裡也不會什麼都看不見啊！
-82,TEXT_LUCKLZ001_03242_HUMEBOY03242_000_115,夜裡想去上廁所的時候，<hex:02100103>走廊裡太暗有點不方便……<hex:02100103>……我不是害怕……是真的！
-83,TEXT_LUCKLZ001_03242_DRAHNGIRL03242_000_120,弟弟翻個身，我都覺得可能是有幽靈出現了呢。
-84,TEXT_LUCKLZ001_03242_IOLA_000_150,哎呀哎呀，<hex:022903EB0203>。<hex:02100103>這麼快就開始想我了嗎？
-85,TEXT_LUCKLZ001_03242_IOLA_000_151,呵呵，要為了害怕夜晚的小孩子們努把力啊……<hex:02100103>卡特莉絲姐，真偉大！
-86,TEXT_LUCKLZ001_03242_IOLA_000_152,我不是不明白小孩子們的心情。<hex:02100103>就連我這個成熟的女性有時候都對夜晚的黑暗感到害怕。<hex:02100103>那就為小孩子們貢獻出我的一份力量吧。
-87,TEXT_LUCKLZ001_03242_IOLA_000_153,不過具體要製作什麼，就由我來定了哦！<hex:02100103>我也想讓你看看自從那件事之後我成長了多少！
-88,TEXT_LUCKLZ001_03242_IOLA_000_154,由我這個黑鐵工房的美麗而又有名的經營者伊奧拉<hex:02100103>親自製作的產品，你就懷著激動的心情等待著吧！
-89,TEXT_LUCKLZ001_03242_KATLISS_000_160,麻煩你去動員一下他們，<hex:02100103>和他們聊聊，等決定好要準備什麼了的話，<hex:02100103>就向我報告一聲……拜託你了！
-90,TEXT_LUCKLZ001_03242_THIUNA_000_200,哎呀，<hex:022903EB0203>！<hex:02100103>呵呵，你來見我了呀，真是讓人好高興哦！<hex:02100103>是不是有什麼需要我修復的東西啊？
-91,TEXT_LUCKLZ001_03242_THIUNA_000_201,原來如此……孩子們的想像力的確是非常豐富的，<hex:02100103>總在想黑暗中沒準會出現什麼，感到害怕也很正常。<hex:02100103>這件事我當然會幫忙的。
-92,TEXT_LUCKLZ001_03242_THIUNA_000_202,對了，待會我還得吩咐一下實錄系統，<hex:02100103>讓它別在夜裡來回徘徊！<hex:02100103>要不然孩子們都沒法去廁所了。
-93,TEXT_LUCKLZ001_03242_THIUNA_000_203,嗯……關於要做出什麼東西，能不能讓我來決定？<hex:02100103>之前全都是依靠著你，<hex:02100103>這次我想給你看看我的手藝！
-94,TEXT_LUCKLZ001_03242_THIUNA_000_204,好了好了，<hex:022903EB0203>你就找個地方喝口茶，<hex:02100103>靜等我的好消息吧！
-95,TEXT_LUCKLZ001_03242_BETHRIC_000_250,哎呀，親愛的<hex:022903EB0203>！<hex:02100103>今日有何貴幹啊？<hex:02100103>難道是來和我一起暢談關於阿馬羅的事情嗎？
-96,TEXT_LUCKLZ001_03242_BETHRIC_000_251,嗯……孩子們對黑夜感到很害怕……<hex:02100103>很有意思……弄不好在阿馬羅中也有害怕黑夜的個體，<hex:02100103>之後得找跳跳問問。
-97,TEXT_LUCKLZ001_03242_BETHRIC_000_252,哎呀，不好意思，話題扯遠了！<hex:02100103>咱們要談的是關於阿馬羅所持遺傳性狀的顯隱性來著？
-98,TEXT_LUCKLZ001_03242_BETHRIC_000_253,呵呵呵，開玩笑的！<hex:02100103>……啊，你別這麼看我啊！
-99,TEXT_LUCKLZ001_03242_BETHRIC_000_254,關於要製作什麼就全交給我好了！<hex:02100103>別看現在我是這樣，但我也是有過童年的。<hex:02100103>我一定會製作出讓孩子們期待夜晚來臨的、溫馨的東西！
-100,TEXT_LUCKLZ001_03242_QESHIRAE_000_300,這不是<hex:022903EB0203>嘛！<hex:02100103>你難道是來跟我聊聊珍稀動植物的話題嗎？<hex:02100103>我這邊一直在處理雜務，正感到厭煩呢！
-101,TEXT_LUCKLZ001_03242_QESHIRAE_000_301,你說孩子們會害怕夜晚？！<hex:02100103>這明明是可以了解夜行性動植物原本生態的大好機會，<hex:02100103>真是可惜了！
-102,TEXT_LUCKLZ001_03242_QESHIRAE_000_302,看來得讓孩子們好好體會體會才行！<hex:02100103>當然我說的是博物學的有趣之處！
-103,TEXT_LUCKLZ001_03242_QESHIRAE_000_303,不過……嗯……<hex:02100103>孩子們居然會害怕夜晚的黑暗啊。<hex:02100103>那如果能夠引起他們的興趣……
-104,TEXT_LUCKLZ001_03242_QESHIRAE_000_304,嗯，行得通！<hex:02100103>我有辦法了，嗚呵呵呵！<hex:02100103>那我就準備一下去採集了！
-105,TEXT_LUCKLZ001_03242_FRITHRIK_000_350,啊，<hex:022903EB0203>！我很高興你能過來！<hex:02100103>你是找水生資源部有事？還是找我有事？
-106,TEXT_LUCKLZ001_03242_FRITHRIK_000_351,原來如此，孩子們需要在夜裡也能安心的東西啊？<hex:02100103>這樣的話，之前我在捕魚時找到的……<hex:02100103>那個應該很合適！
-107,TEXT_LUCKLZ001_03242_FRITHRIK_000_352,不過因為是天然的東西，所以可能不是那麼的光鮮奪目……<hex:02100103>但只要加工一下的話，我想孩子們一定會喜歡的。
-108,TEXT_LUCKLZ001_03242_FRITHRIK_000_353,我去準備那個東西，請你等一會好嗎？<hex:02100103>至於那個東西是什麼……還是讓我先保密吧。<hex:02100103>我也想給你一個驚喜，你就期待一下吧。
-109,TEXT_LUCKLZ001_03242_KATLISS_000_400,你和那5個人商量好要準備什麼東西了嗎？
-110,TEXT_LUCKLZ001_03242_KATLISS_000_401,嘿，他們幾個都不打算依靠你，想要拿出各自的答卷嗎？<hex:02100103>看來他們都成長了啊。<hex:02100103>不對，應該說是與你的相遇使他們成長了吧……
-111,TEXT_LUCKLZ001_03242_KATLISS_000_402,那麼，雖然不知道他們能拿出什麼東西來，<hex:02100103>不過在差不多的時候，就叫孩子們去圓頂區好了。
-112,TEXT_LUCKLZ001_03242_KATLISS_000_403,當然你也要過來，<hex:02100103>我希望你能見證那5個人究竟會拿出什麼樣的答卷。
-113,TEXT_LUCKLZ001_03242_IOLA_000_405,由我這個黑鐵工房的美麗而又有名的經營者伊奧拉<hex:02100103>親自製作的產品，你就懷著激動的心情等待著吧！
-114,TEXT_LUCKLZ001_03242_THIUNA_000_410,好了好了，<hex:022903EB0203>你就找個地方喝口茶，<hex:02100103>靜等我的好消息吧！
-115,TEXT_LUCKLZ001_03242_BETHRIC_000_415,我一定會製作出讓孩子們期待夜晚來臨的、溫馨的東西！
-116,TEXT_LUCKLZ001_03242_QESHIRAE_000_420,等我準備好了，就立刻前去採集！<hex:02100103>得讓孩子們好好體會體會博物學的有趣之處才行！
-117,TEXT_LUCKLZ001_03242_FRITHRIK_000_425,至於我會拿什麼過去……讓我先保密吧。<hex:02100103>我也想給你一個驚喜，你就期待一下吧。
-118,TEXT_LUCKLZ001_03242_ELFGIRL03242_000_450,哇——好漂亮！
-119,TEXT_LUCKLZ001_03242_IOLA_000_451,啊哈哈哈！<hex:02100103>我們黑鐵工房可是擁有著雷克蘭德數一數二的工匠們，<hex:02100103>這點事情不費吹灰之力！
-120,TEXT_LUCKLZ001_03242_HUMEBOY03242_000_452,我喜歡這個！<hex:02100103>光是看著就能感覺很平靜！
-121,TEXT_LUCKLZ001_03242_BETHRIC_000_453,你們能開心就好。<hex:02100103>我試著調配了一下煉金藥，讓它散發出合適的光亮！<hex:02100103>而且不會很熱，也可以用在阿馬羅休息的地方！
-122,TEXT_LUCKLZ001_03242_DRAHNGIRL03242_000_454,雖然是第一次見到這種東西，<hex:02100103>不過這個也很可愛！
-123,TEXT_LUCKLZ001_03242_THIUNA_000_455,呵呵，可愛吧？<hex:02100103>要是哪一天壞掉了就來找我，<hex:02100103>姐姐會幫你們修好的！
-124,TEXT_LUCKLZ001_03242_HUMEGIRL03242_000_456,快來看，快來看！<hex:02100103>這朵花在發光啊！
-125,TEXT_LUCKLZ001_03242_QESHIRAE_000_457,嗚呵呵呵呵，厲害吧，漂亮吧！<hex:02100103>你以後要不要來我們大地資源部？<hex:02100103>可以見到許多珍奇的植物哦！
-126,TEXT_LUCKLZ001_03242_HUMEBOY03242_000_458,(-塵族少年-)好厲害！<hex:02100103>從來沒見過這樣的東西！
-127,TEXT_LUCKLZ001_03242_FRITHRIK_000_459,這是生長在海裡面的一種具有發光性的海藻。<hex:02100103>我在珂露西亞島的沿岸捕魚時採集到的，<hex:02100103>這種海藻偶爾會浮在海面上哦。
-128,TEXT_LUCKLZ001_03242_KATLISS_000_460,……呵呵呵。<hex:02100103>孩子們看上去很高興就好，<hex:02100103>他們幾個幹得都不錯啊。
-129,TEXT_LUCKLZ001_03242_ELFBOY03242_000_461,我不想讓歡喜迎接夜晚到來的父親知道……<hex:02100103>其實我還是害怕天空變得一片漆黑……
-130,TEXT_LUCKLZ001_03242_ELFGIRL03242_000_462,快看快看。<hex:02100103>這夜晚看到的光亮與覆蓋在天空的白光完全不一樣，<hex:02100103>看起來真的很美麗啊！
-131,TEXT_LUCKLZ001_03242_ELFBOY03242_000_463,是啊……你說得對。<hex:02100103>要是沒有夜晚的來臨，我也無法理解光是有多麼的美麗，<hex:02100103>夜晚能夠到來是一件好事呢！
-132,TEXT_LUCKLZ001_03242_HUMEGIRL03242_100_463,好厲害！<hex:02100103>那個大大的漂亮的光芒是什麼呀？<hex:02100103>我從來沒見過！
-133,TEXT_LUCKLZ001_03242_KATLISS_200_463,哈哈哈，意外吧？<hex:02100103>我準備了你們故鄉那邊才有的煙花。<hex:02100103>不過是水晶公出的主意。
-134,TEXT_LUCKLZ001_03242_KATLISS_000_464,在經歷了丈夫和孩子先我一步離去之後，<hex:02100103>我作為中庸工藝館的館長，一直在為水晶都工作著，<hex:02100103>想用這種繁忙掩蓋我對他們的思念。
-135,TEXT_LUCKLZ001_03242_KATLISS_000_465,雖然不知道我的做法究竟對不對，<hex:02100103>但看著那樣歡喜的孩子們，我還是稍微感到了些欣慰。
-136,TEXT_LUCKLZ001_03242_KATLISS_000_466,只不過……真想把眼前的情景……也給那兩個人看看……
-137,TEXT_LUCKLZ001_03242_KATLISS_000_467,啊，我可不能淨說些喪氣話啊。<hex:02100103>畢竟我是負責照亮人們生活的中庸工藝館的館長呢。
-138,TEXT_LUCKLZ001_03242_KATLISS_000_500,那麼，雖然不知道他們能拿出什麼東西來，<hex:02100103>不過在差不多的時候，就叫孩子們去圓頂區好了。
-139,TEXT_LUCKLZ001_03242_KATLISS_000_501,當然你也要過來啊。<hex:02100103>我希望你能見證那5個人究竟會拿出什麼樣的答卷。
+0,"TEXT_LUCKLZ001_03242_SEQ_00","Katliss has a special request for the Crystalline Mean's most esteemed benefactor."
+1,"TEXT_LUCKLZ001_03242_SEQ_01","While the restoration of the night sky has been celebrated throughout the Crystarium, a few of its youngest inhabitants remain unsure how they feel about this new state of affairs. Precisely why the children mislike the night is unclear, but if you ask them directly they will surely be happy to explain."
+2,"TEXT_LUCKLZ001_03242_SEQ_02","The deepest darkness is the ideal canvas for the mind's paintbrush, and unfortunately the children of the Crystarium find it all too easy to imagine their worst fears lurking in the shadows. How Katliss intends to address these concerns is anyone's guess..."
+3,"TEXT_LUCKLZ001_03242_SEQ_03","Rather than dictate the approach herself, Katliss would have you speak with the five leaders of the Crystalline Mean's facets, explain the situation, and offer them whatever assistance they require to formulate and manufacture solutions. Iola, Thiuna, Bethric, Qeshi-Rae, and Frithrik should all be capable and willing to join in this endeavor."
+4,"TEXT_LUCKLZ001_03242_SEQ_04","While all five leaders are eager to help the children, each has resolved to develop an individual solution. Moreover, all insisted that your services would not be required, as they feel confident in their ability to deliver and wish to seize the opportunity to demonstrate how far they have come thanks to your constant support."
+5,"TEXT_LUCKLZ001_03242_SEQ_05","Katliss is somewhat surprised but pleased to hear of the leaders' responses. She bids you wait with the children in the Rotunda for the artisans to complete and present their work for the gathered audience, while Katliss herself takes a moment to prepare a special surprise..."
+6,"TEXT_LUCKLZ001_03242_SEQ_06","The children are delighted by the myriad solutions presented to them by each of the facet's leaders, who leveraged their unique strengths to prepare a variety of items to serve as light sources for the children. The night sky is further illuminated by a flurry of fireworks, courtesy of Katliss, and as all look on in awe, she takes a moment to reminisce about the family she lost and the family she gained. Though the legacy of the dead will always weigh on her heart, she believes that the best way to honor them is to live well─and so you shall."
+7,"TEXT_LUCKLZ001_03242_SEQ_07",""
+8,"TEXT_LUCKLZ001_03242_SEQ_08",""
+9,"TEXT_LUCKLZ001_03242_SEQ_09",""
+10,"TEXT_LUCKLZ001_03242_SEQ_10",""
+11,"TEXT_LUCKLZ001_03242_SEQ_11",""
+12,"TEXT_LUCKLZ001_03242_SEQ_12",""
+13,"TEXT_LUCKLZ001_03242_SEQ_13",""
+14,"TEXT_LUCKLZ001_03242_SEQ_14",""
+15,"TEXT_LUCKLZ001_03242_SEQ_15",""
+16,"TEXT_LUCKLZ001_03242_SEQ_16",""
+17,"TEXT_LUCKLZ001_03242_SEQ_17",""
+18,"TEXT_LUCKLZ001_03242_SEQ_18",""
+19,"TEXT_LUCKLZ001_03242_SEQ_19",""
+20,"TEXT_LUCKLZ001_03242_SEQ_20",""
+21,"TEXT_LUCKLZ001_03242_SEQ_21",""
+22,"TEXT_LUCKLZ001_03242_SEQ_22",""
+23,"TEXT_LUCKLZ001_03242_SEQ_23",""
+24,"TEXT_LUCKLZ001_03242_TODO_00","Speak with the children of the Crystarium."
+25,"TEXT_LUCKLZ001_03242_TODO_01","Speak with Katliss."
+26,"TEXT_LUCKLZ001_03242_TODO_02","Speak with Iola."
+27,"TEXT_LUCKLZ001_03242_TODO_03","Speak with Thiuna."
+28,"TEXT_LUCKLZ001_03242_TODO_04","Speak with Bethric."
+29,"TEXT_LUCKLZ001_03242_TODO_05","Speak with Qeshi-Rae."
+30,"TEXT_LUCKLZ001_03242_TODO_06","Speak with Frithrik."
+31,"TEXT_LUCKLZ001_03242_TODO_07","Speak with Katliss."
+32,"TEXT_LUCKLZ001_03242_TODO_08","Wait in the Rotunda."
+33,"TEXT_LUCKLZ001_03242_TODO_09",""
+34,"TEXT_LUCKLZ001_03242_TODO_10",""
+35,"TEXT_LUCKLZ001_03242_TODO_11",""
+36,"TEXT_LUCKLZ001_03242_TODO_12",""
+37,"TEXT_LUCKLZ001_03242_TODO_13",""
+38,"TEXT_LUCKLZ001_03242_TODO_14",""
+39,"TEXT_LUCKLZ001_03242_TODO_15",""
+40,"TEXT_LUCKLZ001_03242_TODO_16",""
+41,"TEXT_LUCKLZ001_03242_TODO_17",""
+42,"TEXT_LUCKLZ001_03242_TODO_18",""
+43,"TEXT_LUCKLZ001_03242_TODO_19",""
+44,"TEXT_LUCKLZ001_03242_TODO_20",""
+45,"TEXT_LUCKLZ001_03242_TODO_21",""
+46,"TEXT_LUCKLZ001_03242_TODO_22",""
+47,"TEXT_LUCKLZ001_03242_TODO_23",""
+48,"TEXT_LUCKLZ001_03242_KATLISS_000_001","There I was thinking that today would be a wonderful day, and who should appear before me but the Warrior of Darkness <hex:020815E905FF08>herself<hex:FF08>himself<hex:03>!"
+49,"TEXT_LUCKLZ001_03242_KATLISS_000_002","You've been keeping busy killing eaters and Wardens. We've heard all about it and been singing your praises the whole while."
+50,"TEXT_LUCKLZ001_03242_KATLISS_000_003","Though you've not been content to make a difference that way alone, have you? You've been indispensable to all five facets from what the artisans have been telling me."
+51,"TEXT_LUCKLZ001_03242_KATLISS_000_004","Speaking for the Crystalline Mean, believe me when I say that we cannot thank you enough, my friend."
+52,"TEXT_LUCKLZ001_03242_KATLISS_000_005","If compliments put you off, then why don't I trouble you with a request instead? An odd but inevitable one, given that it's been a century since we've had the privilege of a proper night sky."
+53,"TEXT_LUCKLZ001_03242_KATLISS_000_006","It's great and grand, to be sure, but some of the children aren't taking to the change well. The dark is a strange and unfamiliar thing, and they see their worst fears hiding in the deeper shadows."
+54,"TEXT_LUCKLZ001_03242_KATLISS_000_007","So I've a mind to show them that they needn't fear the night. Interested in lending us a hand, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>?"
+55,"TEXT_LUCKLZ001_03242_KATLISS_000_008","That's wonderful, because I haven't any inkling how to proceed. I myself was born after the Flood, so I've honestly no idea how people used to deal with this sort of thing..."
+56,"TEXT_LUCKLZ001_03242_KATLISS_000_009","Why don't you start by speaking with some of the children I mentioned? Ask them what it is about the night that bothers them, and we'll take it from there."
+57,"TEXT_LUCKLZ001_03242_ELFGIRL03242_000_050","Hey, <hex:020811E905FF05>miss<hex:FF07>mister<hex:03>. There something you want to say?"
+58,"TEXT_LUCKLZ001_03242_ELFGIRL03242_000_051","Do I think the night is scary...?"
+59,"TEXT_LUCKLZ001_03242_ELFGIRL03242_000_052","Of course it's scary! Even if you closed the curtains when you were indoors it never got as dark as it does now!"
+60,"TEXT_LUCKLZ001_03242_ELFGIRL03242_000_053","It's so hard to go to sleep now, not knowing what might be out there..."
+61,"TEXT_LUCKLZ001_03242_HUMEBOY03242_000_054","Huh? What do you want?"
+62,"TEXT_LUCKLZ001_03242_HUMEBOY03242_000_055","Am <hex:021A020203>I<hex:021A020103> afraid of the night? Me?"
+63,"TEXT_LUCKLZ001_03242_HUMEBOY03242_000_056","It's just the sky getting dark─what's so scary about that!? All the adults are happy about it, too, so if they're not worried, why should I be!?"
+64,"TEXT_LUCKLZ001_03242_HUMEBOY03242_000_057","I mean, er, um...it's not easy walking in the dark when you need to take a piss...but that's only 'cause I'm afraid of bumping into something! It's not like I'm terrified of some evil monster grabbing me when I'm not looking! Nope!"
+65,"TEXT_LUCKLZ001_03242_DRAHNGIRL03242_000_058","Hmm? What is it, <hex:020811E905FF05>miss<hex:FF07>mister<hex:03>?"
+66,"TEXT_LUCKLZ001_03242_DRAHNGIRL03242_000_059","I don't know... The night sky is pretty to look at, I suppose, but I have my own room, you see, and when I have to go to sleep in it by myself, it's...a little scary."
+67,"TEXT_LUCKLZ001_03242_DRAHNGIRL03242_000_060","And when you hear something out in the dark, you can't always tell who or what it is, you know? Like if it's my little brother...or a ghost..."
+68,"TEXT_LUCKLZ001_03242_KATLISS_000_065","Since the children are the ones struggling to adapt to the new normal, it only makes sense that you go and ask them what exactly bothers them about the night."
+69,"TEXT_LUCKLZ001_03242_KATLISS_000_100","Back already? So, what did our little ones have to say?"
+70,"TEXT_LUCKLZ001_03242_KATLISS_000_101","Hmm... That all makes sense, I'll admit. Even the heaviest curtains never quite shut out the light, so we haven't been sleeping in true darkness for a good long while now. "
+71,"TEXT_LUCKLZ001_03242_KATLISS_000_102","At their age, it's all too easy for your imagination to run wild and put strange ideas in your head. Every little noise could be attributed to a slavering beast or worse."
+72,"TEXT_LUCKLZ001_03242_KATLISS_000_103","Right, then! I think we know enough to put our people to work. It's time for the dedicated artisans of the Crystalline Mean to come together and create new products to put our children's minds at ease."
+73,"TEXT_LUCKLZ001_03242_Q1_000_000","What will you say?"
+74,"TEXT_LUCKLZ001_03242_A1_000_001","That sounds like a wonderful idea!"
+75,"TEXT_LUCKLZ001_03242_A1_000_002","Wouldn't want to spoil the little ones too much..."
+76,"TEXT_LUCKLZ001_03242_KATLISS_000_105","Up to now we've devoted the bulk of our resources and manpower to shoring up our defenses against sin eaters."
+77,"TEXT_LUCKLZ001_03242_KATLISS_000_106","But now that the danger posed by that menace is much reduced, I think we can afford to diversify our efforts. After all, it'll be the children who build upon our legacy in this new world of ours."
+78,"TEXT_LUCKLZ001_03242_KATLISS_000_107","Besides, I imagine the solutions we'll develop will serve just as well to aid adults in living and working through the night."
+79,"TEXT_LUCKLZ001_03242_KATLISS_000_108","First order of business will be to inform the leaders of the respective facets: Iola, Thiuna, Bethric, Qeshi-Rae, and Frithrik."
+80,"TEXT_LUCKLZ001_03242_KATLISS_000_109","Brief them on the task at hand, and offer them whatever assistance they require."
+81,"TEXT_LUCKLZ001_03242_ELFGIRL03242_000_110","I've slept in the dark before, but not the dark dark. Not like this..."
+82,"TEXT_LUCKLZ001_03242_HUMEBOY03242_000_115","Don't tell me you don't wonder sometimes too! Weird noises in the night could be all sorts of things! It's normal! I'm normal!"
+83,"TEXT_LUCKLZ001_03242_DRAHNGIRL03242_000_120","I've never met a ghost, but I'm afraid that I might really really soon..."
+84,"TEXT_LUCKLZ001_03242_IOLA_000_150","Hey there, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. To what do I owe the pleasure? Don't tell me you're getting sweet on me?"
+85,"TEXT_LUCKLZ001_03242_IOLA_000_151","Well, well, well. So Katliss wants us all to pitch in and find a way to comfort the little ones jumping at shadows? Good for her!"
+86,"TEXT_LUCKLZ001_03242_IOLA_000_152","It's not as though I don't understand. Even big, strong adults like you and me have imaginations that can run wild, especially in the dark of night."
+87,"TEXT_LUCKLZ001_03242_IOLA_000_153","No need to consult with the others, though. I'll take the lead in this! Aye, I've a mind to show you and her what we can do, so you just sit back and wait."
+88,"TEXT_LUCKLZ001_03242_IOLA_000_154","You'll see, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>─the only thing more beautiful and impressive than yours truly is the masterpiece we'll forge for the children!"
+89,"TEXT_LUCKLZ001_03242_KATLISS_000_160","If you could speak with the leaders of each facet and brief them on the situation, I'd be grateful. Hopefully they won't need much assistance from you, if any..."
+90,"TEXT_LUCKLZ001_03242_THIUNA_000_200","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, how does this <hex:020839E3E90C0DFF1B><hex:020817E3E90C05FF08>evening<hex:FF08>morning<hex:03><hex:FF17><hex:020813E3E90C12FF04>day<hex:FF08>evening<hex:03><hex:03> find you? Is this a social call, or do you have a commission to make?"
+91,"TEXT_LUCKLZ001_03242_THIUNA_000_201","I see... Indeed, the creativity of a child's imagination is unrivaled, and the darkness makes for quite the canvas. I'm sure they've thought up all manner of terrifying creatures..."
+92,"TEXT_LUCKLZ001_03242_THIUNA_000_202","That reminds me─I've got to tell Noddy again to stop roaming about at night. If the children keep bumping into it, they're going to be too terrified to relieve themselves at night! Or so terrified they do it before they make it to the facilities."
+93,"TEXT_LUCKLZ001_03242_THIUNA_000_203","But back to this project of ours. Honestly, I think we can handle this all by ourselves. I know Katliss asked you to help us out, but after everything you've done for us, I think it's past time we proved how far we've come."
+94,"TEXT_LUCKLZ001_03242_THIUNA_000_204","I mean it, really! Head to the Stairs, have a cup of tea─or a pint of ale, even! Relax and leave the labor to someone else for a change."
+95,"TEXT_LUCKLZ001_03242_BETHRIC_000_250","Well met, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! How wonderful it is to see you again. Come to while away the quiet hours discussing amaro husbandry?"
+96,"TEXT_LUCKLZ001_03242_BETHRIC_000_251","The children are afraid of the night? Interesting, very interesting. I wonder if some of the younger amaro are of similar mind? I shall have to consult with Skip just in case..."
+97,"TEXT_LUCKLZ001_03242_BETHRIC_000_252","Wait─what were we talking about again...? Ah, yes! The key factors which determine whether or not certain recessive traits manifest in a given amaro!"
+98,"TEXT_LUCKLZ001_03242_BETHRIC_000_253","'Twas a joke, a joke! When you give me that look, it's a joke..."
+99,"TEXT_LUCKLZ001_03242_BETHRIC_000_254","Rest assured that this project to allay the children's fears shall have my undivided attention! I should think myself more than capable of determining and crafting the perfect solution to their problem. I was a child once, after all─and indeed, I am arguably still a child at heart!"
+100,"TEXT_LUCKLZ001_03242_QESHIRAE_000_300","The good captain returns! Come to rescue me from a life of monotonous toil and drudgery? Thank the gods for that. Precious few people are so skilled in the art of conversation as you, my friend."
+101,"TEXT_LUCKLZ001_03242_QESHIRAE_000_301","The children are afraid of the dark? But the dark affords such ample opportunities for the creatures of the night to hunt and─ Ah, now that I think on it, that could well be the problem, couldn't it?"
+102,"TEXT_LUCKLZ001_03242_QESHIRAE_000_302","On the other hand, if we can help the children overcome their fears, they will surely delight in these new opportunities to study countless nocturnal creatures!"
+103,"TEXT_LUCKLZ001_03242_QESHIRAE_000_303","The question is, how best to go about it..."
+104,"TEXT_LUCKLZ001_03242_QESHIRAE_000_304","Hah, well, never you mind the minutiae! I'll come up with my own unique approach soon enough. No need for you to trouble yourself further!"
+105,"TEXT_LUCKLZ001_03242_FRITHRIK_000_350","Hullo hullo, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! Got business with the Facet of Fishing, or with me personally?"
+106,"TEXT_LUCKLZ001_03242_FRITHRIK_000_351","Something to put the little one's minds at ease in the dark, eh? It so happens I might have come across something ideal for this very purpose."
+107,"TEXT_LUCKLZ001_03242_FRITHRIK_000_352","I'd need to cobble together this and that first, though it'd still be a largely natural solution─but one I'm confident the children will enjoy."
+108,"TEXT_LUCKLZ001_03242_FRITHRIK_000_353","Yes...yes, I think this just might work. I'll not need long, though I will need to... Oh! I should say no more. Better to surprise everyone, I think. I promise you won't be disappointed!"
+109,"TEXT_LUCKLZ001_03242_KATLISS_000_400","Did you manage to speak with everyone?"
+110,"TEXT_LUCKLZ001_03242_KATLISS_000_401","Hmm, I didn't intend for them to develop individual solutions. It's sounding more like a competition than a collaborative effort. On the other hand, if they're so motivated to demonstrate their abilities, who are we to deny them...?"
+111,"TEXT_LUCKLZ001_03242_KATLISS_000_402","This is your fault, really. If only you hadn't gone and inspired them, hah! Anyway, let's call the children to gather in the Rotunda for the unveiling."
+112,"TEXT_LUCKLZ001_03242_KATLISS_000_403","You'll wait with them too, won't you? I think the artisans are doing this as much for you as they are for them."
+113,"TEXT_LUCKLZ001_03242_IOLA_000_405","Go about your business, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Let us have this opportunity to show off for a change."
+114,"TEXT_LUCKLZ001_03242_THIUNA_000_410","Your assistance will not be needed today, friend. You really ought to go and have that drink at the Stairs as I suggested. Tea or ale, as you like."
+115,"TEXT_LUCKLZ001_03242_BETHRIC_000_415","'Twould be a shame if the children were unable to appreciate the night as we can. We must do everything in our power to bring them comfort!"
+116,"TEXT_LUCKLZ001_03242_QESHIRAE_000_420","You needn't fuss over me and mine, friend! We have matters well in hand. As soon as our little project is finished, I shall present it to the children myself!"
+117,"TEXT_LUCKLZ001_03242_FRITHRIK_000_425","Curious, are we? I don't blame you. But pestering me for hints will avail you naught. You'll know when it's ready and not a moment sooner!"
+118,"TEXT_LUCKLZ001_03242_ELFGIRL03242_000_450","It's so pretty!"
+119,"TEXT_LUCKLZ001_03242_IOLA_000_451","'Course it is! For the finest smiths in all of Lakeland─all of Norvrandt, I'd wager─a little project like this is less troublesome than breaking in a new pair of boots!"
+120,"TEXT_LUCKLZ001_03242_HUMEBOY03242_000_452","I like the light of this one. It's nice and warm."
+121,"TEXT_LUCKLZ001_03242_BETHRIC_000_453","I see you are a young man of refined tastes. The light is the product of an alchemical reaction that can be sustained with minimal effort, generating a softer light that will not inconvenience the amaro in our care."
+122,"TEXT_LUCKLZ001_03242_DRAHNGIRL03242_000_454","I think this one's the best!"
+123,"TEXT_LUCKLZ001_03242_THIUNA_000_455","Cute, isn't it? And if it stops working, you need only bring it to me, and I'll get it back in working order straightaway!"
+124,"TEXT_LUCKLZ001_03242_HUMEGIRL03242_000_456","A glowing flower! I've never seen one of those!"
+125,"TEXT_LUCKLZ001_03242_QESHIRAE_000_457","I'll bet you've never seen something so amazing before, have you? But this is only the beginning─if you like, I can teach you about all kinds of rare and wondrous plants..."
+126,"TEXT_LUCKLZ001_03242_HUMEBOY03242_000_458","(-Tough-talking Boy-)Talk about things you've never seen before. How does it glow like that?"
+127,"TEXT_LUCKLZ001_03242_FRITHRIK_000_459","Believe it or not, it's seaweed─a unique variety that glows in the dark. I first discovered it when fishing off the coast of Kholusia."
+128,"TEXT_LUCKLZ001_03242_KATLISS_000_460","Curious methods notwithstanding, what matters is that the children all seem delighted, don't you think...?"
+129,"TEXT_LUCKLZ001_03242_ELFBOY03242_000_461","My father looked so happy when he saw the night sky, so even though deep down I was scared, I didn't want to say anything..."
+130,"TEXT_LUCKLZ001_03242_ELFGIRL03242_000_462","It's not so bad, though, so long as we've got all those little lights up there and ours down here. It's like a whole new world when the sun's not out!"
+131,"TEXT_LUCKLZ001_03242_ELFBOY03242_000_463","A new world...with new things to see and places to explore. And we wouldn't have it if the night never came in the first place, would we?"
+132,"TEXT_LUCKLZ001_03242_HUMEGIRL03242_100_463","Wow, what are those!? So many explosions! They're like flowers blooming!"
+133,"TEXT_LUCKLZ001_03242_KATLISS_200_463","A little surprise I cooked up for the children with the Exarch's help─fireworks. And a taste of home for you, I'm told?"
+134,"TEXT_LUCKLZ001_03242_KATLISS_000_464","The Mean was all I had after I lost my own child, along with my husband. All the love I would've given them I poured into my work for the Crystarium instead, hoping to fill the hole in my heart, or at least help me to pretend it wasn't there..."
+135,"TEXT_LUCKLZ001_03242_KATLISS_000_465","Whether it was right or wise to try, I don't know...but seeing these little one's faces lit up in the dark, I feel I can finally say I don't regret it."
+136,"TEXT_LUCKLZ001_03242_KATLISS_000_466","Those two would've enjoyed this, I reckon..."
+137,"TEXT_LUCKLZ001_03242_KATLISS_000_467","...But they'd want us to enjoy it for ourselves, too─as would all our other loved ones who couldn't be with us here today. Remember, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>: the best way to honor the dead is to live."
+138,"TEXT_LUCKLZ001_03242_KATLISS_000_500","I'm just as excited to see what our artisans come up with as you, I'm sure. It's out of our hands, in any case─all you need do is wait in the Rotunda with the children."
+139,"TEXT_LUCKLZ001_03242_KATLISS_000_501","I may have a special surprise of my own, but don't hold me to that..."

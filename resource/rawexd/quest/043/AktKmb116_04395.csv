@@ -2,206 +2,206 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_AKTKMB116_04395_SEQ_00,碎璃營地的露琪亞看到冒險者平安歸來鬆了一口氣。
-1,TEXT_AKTKMB116_04395_SEQ_01,與露琪亞一行人一同制定了巴別塔的進攻計劃。和帝都開放廣場的莉瑟談談。
-2,TEXT_AKTKMB116_04395_SEQ_02,和突擊部隊的夥伴匯合了。和帝都恩塞拉都斯魔導工廠的皮平談談。
-3,TEXT_AKTKMB116_04395_SEQ_03,皮平讓冒險者在行動開始之前稍待片刻。在恩塞拉都斯魔導工廠貨物站的<hex:02280CFF05>EObj<hex:F61EB3D00103>等待。<hex:02100103>在恩塞拉都斯魔導工廠的蓮天之淚的救援隊員的引導下前往貨物站。
-4,TEXT_AKTKMB116_04395_SEQ_04,作戰行動開始。與伊爾薩巴德救援隊的夥伴們一起突破巴別塔。<hex:02100103><hex:02100103>※通過和進入點附近的同伴對話並選擇「編成小隊」，或選擇快捷指令裡的「劇情輔助器」，可以和非玩家同伴一同進入副本。<hex:02100103>※和玩家一同進入時請通過任務搜尋器參加。
-5,TEXT_AKTKMB116_04395_SEQ_05,打倒了巴別塔中的阿尼瑪。繼續向上層前進，尋找芝諾斯和法丹尼爾。若是離開了巴別塔，恩塞拉都斯魔導工廠前的蓮天之淚的救援隊員會帶領冒險者前往巴別塔。
-6,TEXT_AKTKMB116_04395_SEQ_06,終於追上了終末使徒二人組，卻被他們逃往了月球。和巴別塔神門之間的阿爾菲諾談談。
-7,TEXT_AKTKMB116_04395_SEQ_07,冒險者與阿爾菲諾互為彼此加油。在佐迪亞克突破封印之前，阻止終末使徒！
-8,TEXT_AKTKMB116_04395_SEQ_08,
-9,TEXT_AKTKMB116_04395_SEQ_09,
-10,TEXT_AKTKMB116_04395_SEQ_10,
-11,TEXT_AKTKMB116_04395_SEQ_11,
-12,TEXT_AKTKMB116_04395_SEQ_12,
-13,TEXT_AKTKMB116_04395_SEQ_13,
-14,TEXT_AKTKMB116_04395_SEQ_14,
-15,TEXT_AKTKMB116_04395_SEQ_15,
-16,TEXT_AKTKMB116_04395_SEQ_16,
-17,TEXT_AKTKMB116_04395_SEQ_17,
-18,TEXT_AKTKMB116_04395_SEQ_18,
-19,TEXT_AKTKMB116_04395_SEQ_19,
-20,TEXT_AKTKMB116_04395_SEQ_20,
-21,TEXT_AKTKMB116_04395_SEQ_21,
-22,TEXT_AKTKMB116_04395_SEQ_22,
-23,TEXT_AKTKMB116_04395_SEQ_23,
-24,TEXT_AKTKMB116_04395_TODO_00,和莉瑟對話
-25,TEXT_AKTKMB116_04395_TODO_01,和皮平對話
-26,TEXT_AKTKMB116_04395_TODO_02,在恩塞拉都斯魔導工廠貨物站的<hex:02280CFF05>EObj<hex:F61EB3D00103>等待
-27,TEXT_AKTKMB116_04395_TODO_03,突破魔導神門巴別塔
-28,TEXT_AKTKMB116_04395_TODO_04,突破魔導神門巴別塔
-29,TEXT_AKTKMB116_04395_TODO_05,和阿爾菲諾對話
-30,TEXT_AKTKMB116_04395_TODO_06,
-31,TEXT_AKTKMB116_04395_TODO_07,
-32,TEXT_AKTKMB116_04395_TODO_08,
-33,TEXT_AKTKMB116_04395_TODO_09,
-34,TEXT_AKTKMB116_04395_TODO_10,
-35,TEXT_AKTKMB116_04395_TODO_11,
-36,TEXT_AKTKMB116_04395_TODO_12,
-37,TEXT_AKTKMB116_04395_TODO_13,
-38,TEXT_AKTKMB116_04395_TODO_14,
-39,TEXT_AKTKMB116_04395_TODO_15,
-40,TEXT_AKTKMB116_04395_TODO_16,
-41,TEXT_AKTKMB116_04395_TODO_17,
-42,TEXT_AKTKMB116_04395_TODO_18,
-43,TEXT_AKTKMB116_04395_TODO_19,
-44,TEXT_AKTKMB116_04395_TODO_20,
-45,TEXT_AKTKMB116_04395_TODO_21,
-46,TEXT_AKTKMB116_04395_TODO_22,
-47,TEXT_AKTKMB116_04395_TODO_23,
-48,TEXT_AKTKMB116_04395_ALPHINAUD_000_000,不再休息一會嗎？<hex:02100103>雅·修特拉說的沒錯，<hex:02100103>你的身體是最重要的。
-49,TEXT_AKTKMB116_04395_ALISAIE_000_005,趕緊召開作戰會議吧！<hex:02100103>我不想再看到有人因為那群混蛋受害了！
-50,TEXT_AKTKMB116_04395_THANCRED_000_010,我明白，不用說了。<hex:02100103>被敵人佔據身體，傷害同伴的事可不只有你經歷過。
-51,TEXT_AKTKMB116_04395_URIANGER_000_015,你醒了就好……<hex:02100103>有沒有覺得哪裡不適？
-52,TEXT_AKTKMB116_04395_YSHTOLA_000_020,因為巴別塔放射出的強烈乙太，<hex:02100103>我的視野也受到了影響……
-53,TEXT_AKTKMB116_04395_YSHTOLA_000_021,抱歉，沒能及時發現你的不對勁。
-54,TEXT_AKTKMB116_04395_GRAHATIA_000_025,太好了……<hex:02100103>我熟悉的英雄終於回來了。
-55,TEXT_AKTKMB116_04395_ESTINIEN_000_030,這次事發突然，<hex:02100103>你可別怪我太粗暴啊。
-56,TEXT_AKTKMB116_04395_MAXIMA_000_035,之前你使用過的帝國兵的身體沒過多久就冰冷了……<hex:02100103>也許是因為本該回到身體的靈魂不復存在了吧。
-57,TEXT_AKTKMB116_04395_MAXIMA_000_036,我們已經將遺體妥善安葬了。<hex:02100103>不知他因何被那些惡徒利用，<hex:02100103>現在只希望他能夠安息……
-58,TEXT_AKTKMB116_04395_LUCIA_000_040,那我們開始討論吧……<hex:02100103>閣下的遭遇我只是略知一二，<hex:02100103>能請您道明原委嗎？
-59,TEXT_AKTKMB116_04395_LUCIA_000_041,利用瓦厲斯皇帝的遺體召喚了蠻神阿尼瑪，<hex:02100103>這可真是……
-60,TEXT_AKTKMB116_04395_YSHTOLA_000_042,這麼說，之前疑似巴別塔放射出的乙太，<hex:02100103>實際上是由其中的阿尼瑪放射出的。
-61,TEXT_AKTKMB116_04395_YSHTOLA_000_043,然後，你在和芝諾斯他們說話時聽到了阿尼瑪的吼聲……
-62,TEXT_AKTKMB116_04395_YSHTOLA_000_044,看來你被擄去的地方就是他們的大本營巴別塔無誤。
-63,TEXT_AKTKMB116_04395_LUCIA_000_045,接下來就由我來說吧。
-64,TEXT_AKTKMB116_04395_LUCIA_000_046,在和諸位一同推進帝都市民的庇護計劃的同時，<hex:02100103>我根據桑克瑞德閣下率領的偵察隊獲得的情報<hex:02100103>制定了一個攻入巴別塔的作戰計劃。
-65,TEXT_AKTKMB116_04395_LUCIA_000_047,塔內除了眾多魔導兵器外，<hex:02100103>還有大量的被精煉者……
-66,TEXT_AKTKMB116_04395_LUCIA_000_048,只是，帝都中的道路大多都已被破壞，<hex:02100103>所有人一同出動的話很難通行。
-67,TEXT_AKTKMB116_04395_MAXIMA_000_049,因此，我決定將我們目前的戰力一分為二，<hex:02100103>分別負責佯攻和突擊。
-68,TEXT_AKTKMB116_04395_MAXIMA_000_050,佯攻部隊就由比較熟悉攻守戰的伊修加德和格里達尼亞的諸位<hex:02100103>以及利姆薩·羅敏薩的工匠們組成。
-69,TEXT_AKTKMB116_04395_MAXIMA_000_051,由佯攻部隊架設臨時橋樑，<hex:02100103>作出準備從正面攻入巴別塔的假象……<hex:02100103>我想敵人一定不會對此毫無反應。
-70,TEXT_AKTKMB116_04395_MAXIMA_000_052,趁敵方被佯攻部隊吸引的間隙，<hex:02100103>就由阿拉米格、烏爾達哈和東方聯盟的精銳組成的突擊部隊<hex:02100103>嘗試從別的路線攻入塔內。
-71,TEXT_AKTKMB116_04395_THANCRED_000_053,大家看看這個。<hex:02100103>這是以目前偵查取得的情報為基礎製作的地圖。
-72,TEXT_AKTKMB116_04395_THANCRED_000_054,紅點標示的地點是恩塞拉都斯魔導工廠，<hex:02100103>這座魔導兵器的工廠如今已化為廢墟。
-73,TEXT_AKTKMB116_04395_THANCRED_000_055,工廠地下有一條通往魔導城的鐵道，<hex:02100103>以前應該是用來運送兵器的。
-74,TEXT_AKTKMB116_04395_THANCRED_000_056,在佯攻部隊成功吸引敵人的注意力之後，<hex:02100103>突擊部隊就從這條鐵道攻入巴別塔。
-75,TEXT_AKTKMB116_04395_THANCRED_000_057,不過，有一點比較麻煩。<hex:02100103>目前仍有魔導列車在使用這條鐵道。
-76,TEXT_AKTKMB116_04395_THANCRED_000_058,應該是那些被精煉的人<hex:02100103>在用它運送維護巴別塔所需的物資。
-77,TEXT_AKTKMB116_04395_ALPHINAUD_000_059,這麼說來，我們不用沿著鐵道走，<hex:02100103>只要潛入列車……就能順利進入巴別塔了。
-78,TEXT_AKTKMB116_04395_LUCIA_000_060,就請拂曉的諸位這次與突擊部隊一同行動。<hex:02100103>讓我們竭盡全力，一舉打破那些終末使徒的計劃！
-79,TEXT_AKTKMB116_04395_Q1_000_061,要說什麼？
-80,TEXT_AKTKMB116_04395_A1_000_062,讓加雷馬和世界重歸和平！
-81,TEXT_AKTKMB116_04395_A1_000_063,是時候找他們算算佔用我身體的賬了！
-82,TEXT_AKTKMB116_04395_A1_000_064,結束這一切吧
-83,TEXT_AKTKMB116_04395_ALPHINAUD_000_065,嗯，為了讓尤盧斯他們和被困在各地塔中的人們<hex:02100103>能夠重新綻放笑臉……
-84,TEXT_AKTKMB116_04395_ALISAIE_000_066,沒錯！就是這種氣勢！<hex:02100103>我現在還沒消氣呢！
-85,TEXT_AKTKMB116_04395_ALPHINAUD_000_067,沒錯，不能再讓任何人因為他們犧牲了。
-86,TEXT_AKTKMB116_04395_YSHTOLA_000_068,準備好開始作戰了嗎？
-87,TEXT_AKTKMB116_04395_YSHTOLA_000_069,如果法丹尼爾說的都是真的，<hex:02100103>塔已經積攢了足夠的能量，足以開啟「真正的末日」，<hex:02100103>那我們恐怕沒有多少時間了。
-88,TEXT_AKTKMB116_04395_GRAHATIA_000_070,說起巴別塔這一詞，曾經在亞蒙的時代……<hex:02100103>古亞拉戈的文獻中提到過。
-89,TEXT_AKTKMB116_04395_GRAHATIA_000_071,巴別意為「神之門」。<hex:02100103>始皇帝召喚妖異時打開的門也曾用過類似的名字。
-90,TEXT_AKTKMB116_04395_GRAHATIA_000_072,如今再次建立一座「神之門」，<hex:02100103>再加上法丹尼爾口中的「最古老最強大的蠻神」……<hex:02100103>我有一個不好的猜想。
-91,TEXT_AKTKMB116_04395_LUCIA_000_073,我已經向救援隊傳達了本次作戰計劃。<hex:02100103>目前隊員們已經在進行準備了。
-92,TEXT_AKTKMB116_04395_LUCIA_000_074,請拂曉的諸位先行與負責確認線路的突擊部隊匯合。<hex:02100103>莉瑟閣下應該已經在北邊的開放廣場等著了。
-93,TEXT_AKTKMB116_04395_YSHTOLA_000_075,不愧是她，動作真快啊。
-94,TEXT_AKTKMB116_04395_YSHTOLA_000_076,準備好了吧？<hex:02100103>走吧，一起去集合地。
-95,TEXT_AKTKMB116_04395_LUCIA_000_080,請拂曉的諸位先行與負責確認線路的突擊部隊隊員匯合，<hex:02100103>集合地就在北邊的開放廣場。
-96,TEXT_AKTKMB116_04395_LUCIA_000_081,我們一定要成功完成作戰，<hex:02100103>消除終末使徒的威脅。<hex:02100103>願我們彼此……旗開得勝！
-97,TEXT_AKTKMB116_04395_MAXIMA_000_085,除了佯攻部隊和突擊部隊，<hex:02100103>營地還留了部分人手看守飛空艇。
-98,TEXT_AKTKMB116_04395_MAXIMA_000_086,隊員們一定會守住各位的據點和退路，<hex:02100103>請不要有後顧之憂，全力應對眼前的戰鬥吧！
-99,TEXT_AKTKMB116_04395_CIRINA_000_090,啊，<hex:022903EB0203>！<hex:02100103>我這次也加入突擊部隊和你一起行動。<hex:02100103>還請多多指教！
-100,TEXT_AKTKMB116_04395_SADU_000_095,阿嚏！
-101,TEXT_AKTKMB116_04395_MAGNAI_000_100,居然讓我執行潛入任務，真是難為人。<hex:02100103>身為太陽神阿吉木的代言人，<hex:02100103>不論做什麼都應該堂堂正正的才對……
-102,TEXT_AKTKMB116_04395_LYSE_000_110,你們來了！<hex:02100103>終於要開始進攻巴別塔了！
-103,TEXT_AKTKMB116_04395_Q2_000_111,要說什麼？
-104,TEXT_AKTKMB116_04395_A2_000_112,你的防寒服呢？
-105,TEXT_AKTKMB116_04395_A2_000_113,不、不冷嗎……
-106,TEXT_AKTKMB116_04395_LYSE_000_114,畢竟要決戰了，在室內作戰的話，這樣比較方便。<hex:02100103>雖然現在特別冷……動起來馬上就暖和了！
-107,TEXT_AKTKMB116_04395_LYSE_000_115,哈哈，確實很冷……<hex:02100103>不過畢竟要決戰了，在室內作戰的話，這樣比較方便。<hex:02100103>沒關係，動起來馬上就暖和了！
-108,TEXT_AKTKMB116_04395_MAGNAI_000_116,在草原上嬉戲打鬧的孩子都知道在冬天要多穿點……<hex:02100103>這麼冷的天在雪原上穿成這樣，<hex:02100103>你是某個瘋狗家的小狗嗎？
-109,TEXT_AKTKMB116_04395_SADU_000_117,哈？<hex:02100103>你又想找碴打架了？
-110,TEXT_AKTKMB116_04395_MAGNAI_000_118,我只是實話實說。<hex:02100103>之後不管你說什麼，我都不會把毛皮借給你。<hex:02100103>說不定我會在路上邂逅凍得楚楚可憐的月神呢。
-111,TEXT_AKTKMB116_04395_SADU_000_119,別做夢了，小毛孩。<hex:02100103>就算真能遇到，人家也不稀罕你那臭烘烘的毛皮。<hex:02100103>不過要是遇到了不錯的戰士，我倒是願意敞開懷抱提供溫暖。
-112,TEXT_AKTKMB116_04395_CIRINA_000_120,好啦好啦……<hex:02100103>你們都冷靜一下。<hex:02100103>放心吧，我已經準備好救助用的毛毯了。
-113,TEXT_AKTKMB116_04395_YSHTOLA_000_121,哎呀，看來我們想到一起了呢。
-114,TEXT_AKTKMB116_04395_LYSE_000_122,修特拉！大家也都來了！<hex:02100103>連衣服都換好了呀！
-115,TEXT_AKTKMB116_04395_YSHTOLA_000_123,嗯，也順便確認了一下準備工作。<hex:02100103>不說閒話了，目前狀況如何？
-116,TEXT_AKTKMB116_04395_LYSE_000_124,目前皮平已經帶著幾個人<hex:02100103>前去確保恩塞拉都斯魔導工廠了。
-117,TEXT_AKTKMB116_04395_LYSE_000_125,我們先出發與他們會合，然後在那裡等待佯攻部隊的信號。<hex:02100103>等他們與那些被精煉者開始交戰後，<hex:02100103>我們就潛入魔導列車前往巴別塔。
-118,TEXT_AKTKMB116_04395_CIRINA_000_126,中途如果遇到被精煉者或者需要救助的人，<hex:02100103>就交給我們來應對吧。
-119,TEXT_AKTKMB116_04395_CIRINA_000_127,身為主要戰力的拂曉的諸位，<hex:02100103>還請繼續向前突進。
-120,TEXT_AKTKMB116_04395_THANCRED_000_128,先去恩塞拉都斯魔導工廠集合啊，<hex:02100103>這麼多人一起走太扎眼了，<hex:02100103>我們各自散開與皮平他們會合吧。
-121,TEXT_AKTKMB116_04395_ALPHINAUD_000_130,（★未使用／削除予定★）
-122,TEXT_AKTKMB116_04395_ALISAIE_000_135,（★未使用／削除予定★）
-123,TEXT_AKTKMB116_04395_THANCRED_000_140,（★未使用／削除予定★）
-124,TEXT_AKTKMB116_04395_URIANGER_000_145,（★未使用／削除予定★）
-125,TEXT_AKTKMB116_04395_YSHTOLA_000_150,（★未使用／削除予定★）
-126,TEXT_AKTKMB116_04395_GRAHATIA_000_155,（★未使用／削除予定★）
-127,TEXT_AKTKMB116_04395_ESTINIEN_000_160,（★未使用／削除予定★）
-128,TEXT_AKTKMB116_04395_LYSE_000_165,好了，大家準備出發與皮平他們會合吧！<hex:02100103>從這裡向北方前進，就是恩塞拉都斯魔導工廠的位置！
-129,TEXT_AKTKMB116_04395_CIRINA_000_170,那、那個……<hex:02100103>如果拂曉的各位需要毛毯的話，請務必告訴我。<hex:02100103>特別是那邊的於里昂熱先生……
-130,TEXT_AKTKMB116_04395_MAGNAI_000_175,可以在懷裡焐熱嗎……<hex:02100103>原來還能這樣啊……
-131,TEXT_AKTKMB116_04395_SADU_000_180,我沒空陪小毛孩做白日夢。<hex:02100103>比起這個……快出發吧，我已經迫不及待想幹架了！
-132,TEXT_AKTKMB116_04395_LENTESTEARSGATEKEEPER_000_185,目前正在確認移動路線的安全，<hex:02100103>請先聽取皮平閣下的報告。
-133,TEXT_AKTKMB116_04395_PIPIN_000_190,你來了。<hex:02100103>露琪亞閣下在報告中說你暈倒了……<hex:02100103>不過你看起來已經沒有大礙，這我就放心了。
-134,TEXT_AKTKMB116_04395_PIPIN_000_191,我已經確認過了工廠內的情況。<hex:02100103>在我們前往巴別塔時，這裡也要留下一些人手確保撤退路線。
-135,TEXT_AKTKMB116_04395_PIPIN_000_192,現在只要確認我們的人都到齊，<hex:02100103>等待佯攻部隊的信號就行。
-136,TEXT_AKTKMB116_04395_PIPIN_000_193,你去跟蓮天之淚的救援隊員打聲招呼，<hex:02100103>她會帶你去地下的貨物站待機。<hex:02100103>我留在這裡繼續給其他人指路。
-137,TEXT_AKTKMB116_04395_PIPIN_000_200,蓮天之淚的救援隊員可以帶你去貨物站，<hex:02100103>我們就在那裡集合。
-138,TEXT_AKTKMB116_04395_LENTESTEARSGATEKEEPER_000_205,您來了，<hex:02100103>要前往地下的貨物站嗎？
-139,TEXT_AKTKMB116_04395_Q3_000_206,要前往恩塞拉都斯魔導工廠的貨物站嗎？
-140,TEXT_AKTKMB116_04395_PIPIN_000_210,好了，大家都到齊了吧。
-141,TEXT_AKTKMB116_04395_CIRINA_000_211,佯攻部隊已經開始行動了！
-142,TEXT_AKTKMB116_04395_PIPIN_000_212,好，那我們也乘上下一班魔導列車，<hex:02100103>進攻巴別塔。
-143,TEXT_AKTKMB116_04395_ALPHINAUD_000_213,我們的首要目標是打倒終末使徒……
-144,TEXT_AKTKMB116_04395_ALPHINAUD_000_214,另外，如果在中途遇到了蠻神阿尼瑪，<hex:02100103>我們要想辦法將其討伐。
-145,TEXT_AKTKMB116_04395_ALPHINAUD_000_215,如果世界各地的塔都是阿尼瑪的終端，<hex:02100103>那麼一旦阿尼瑪被消滅，各地的塔很有可能會隨之消失。
-146,TEXT_AKTKMB116_04395_ALPHINAUD_000_216,而且……深受帝國人民敬仰的瓦厲斯皇帝的身體<hex:02100103>也不該成為終末使徒實現野心的道具。<hex:02100103>所以……
-147,TEXT_AKTKMB116_04395_LYSE_000_217,我們都明白的，阿爾菲諾。<hex:02100103>大家都經歷過那個和他們一起度過的夜晚……
-148,TEXT_AKTKMB116_04395_LYSE_000_218,所以我們一定要成功！<hex:02100103>不論遇到什麼，都要讓拂曉的諸位繼續前進，<hex:02100103>大家朝著期許的終點，全力奔跑吧！
-149,TEXT_AKTKMB116_04395_ALPHINAUD_000_219,嗯，一言為定！
-150,TEXT_AKTKMB116_04395_PIPIN_000_220,快，各位做好攻塔前的最終確認！<hex:02100103>下一班列車到達後，進攻巴別塔的作戰就要開始了！
-151,TEXT_AKTKMB116_04395_Q4_000_230,要做什麼？
-152,TEXT_AKTKMB116_04395_A4_000_231,對話
-153,TEXT_AKTKMB116_04395_A4_000_232,編成小隊
-154,TEXT_AKTKMB116_04395_A4_000_233,取消
-155,TEXT_AKTKMB116_04395_ALPHINAUD_000_240,即使是現在，我也無法將麗茜妮婭她們的悲劇<hex:02100103>完全歸咎於終末使徒的惡行。
-156,TEXT_AKTKMB116_04395_ALPHINAUD_000_241,就算我如今的想法被認為是偽善也好、自私也好，<hex:02100103>我都無法反駁。
-157,TEXT_AKTKMB116_04395_ALPHINAUD_000_242,不過我已經想通了，<hex:02100103>即使不被人承認，我也會貫徹自己的信念。<hex:02100103>我們一定要在巴別塔做一個了結！
-158,TEXT_AKTKMB116_04395_ALISAIE_000_245,來到帝都後，我遇到很多令人懊悔、生氣的事情。<hex:02100103>……尤其對自己的無能深感不甘。
-159,TEXT_AKTKMB116_04395_ALISAIE_000_246,但是，我不會把這種憤怒撒在別人身上，<hex:02100103>我會以此為動力，<hex:02100103>用自己的劍親自打倒終末使徒。
-160,TEXT_AKTKMB116_04395_ALISAIE_000_247,那次和阿爾菲諾討論過後，我又產生了這個想法。<hex:02100103>我會將它銘記於心，迎接這次的戰鬥！
-161,TEXT_AKTKMB116_04395_THANCRED_000_250,雖然我們已經確認這條鐵道通往巴別塔內部，<hex:02100103>但短時間內還無法完全掌握塔內構造。
-162,TEXT_AKTKMB116_04395_THANCRED_000_251,聽法丹尼爾的口氣，我們已經沒有多少時間了。<hex:02100103>我們相信你的直覺，<hex:02100103>你就活用以往的經驗，一口氣攻上去吧。
-163,TEXT_AKTKMB116_04395_URIANGER_000_255,雖然由我來說可能有些僭越，<hex:02100103>但看著阿爾菲諾少爺和阿莉塞小姐一路走來，<hex:02100103>遇到新的事物，並因此煩惱、成長……
-164,TEXT_AKTKMB116_04395_URIANGER_000_256,作為看著他們從小長大的人，我感慨頗多。<hex:02100103>希望今後他們也能平安成長。
-165,TEXT_AKTKMB116_04395_URIANGER_000_257,路易索瓦老師，<hex:02100103>請您保佑他們二人……
-166,TEXT_AKTKMB116_04395_YSHTOLA_000_260,法丹尼爾的目的是利用最古老、最強大的蠻神佐迪亞克<hex:02100103>來引發與古代末日同等的災難……
-167,TEXT_AKTKMB116_04395_YSHTOLA_000_261,不過，這只是他自己的想法，<hex:02100103>他的所作所為早已從根本上偏離了無影的思想。
-168,TEXT_AKTKMB116_04395_YSHTOLA_000_262,佐迪亞克是從「想要拯救世界」的願望中誕生的神。<hex:02100103>如今法丹尼爾卻想利用佐迪亞克的力量來破壞他們熱愛的世界，<hex:02100103>真是惡劣至極。
-169,TEXT_AKTKMB116_04395_GRAHATIA_000_265,如果法丹尼爾就是人稱天才魔科學家的亞蒙，<hex:02100103>那能夠創造超越人類智慧的「神之門」也說得通了。
-170,TEXT_AKTKMB116_04395_GRAHATIA_000_266,我有不好的預感……<hex:02100103><hex:022903EB0203>，我們一定要在這裡阻止他們。
-171,TEXT_AKTKMB116_04395_ESTINIEN_000_270,芝諾斯殺害瓦厲斯皇帝時，<hex:02100103>蓋烏斯怒不可遏地立刻拔劍衝了過去。
-172,TEXT_AKTKMB116_04395_ESTINIEN_000_271,那個一向沉著冷靜的男人如此激動……<hex:02100103>他對皇帝的忠心可見一斑。<hex:02100103>決定不參加此次行動時，他內心一定非常苦澀吧。
-173,TEXT_AKTKMB116_04395_ESTINIEN_000_272,雖然我不敢說完全了解那傢伙的想法，<hex:02100103>不過我會用這柄槍好好替他盡一份力的。
-174,TEXT_AKTKMB116_04395_PIPIN_000_280,據偵察隊提供的情報來看，下一班列車馬上就要到站了。<hex:02100103>看來要維持塔的運轉，依然需要不斷地輸送物資。
-175,TEXT_AKTKMB116_04395_PIPIN_000_281,我們隱藏行跡，<hex:02100103>等那些被精煉者忙著卸貨時潛入列車內。
-176,TEXT_AKTKMB116_04395_LYSE_000_285,對於阿尼瑪來說，我們毫無疑問是入侵到塔內的異物……<hex:02100103>即使有佯攻部隊的掩護，<hex:02100103>我們在進攻時也很有可能被它察覺。
-177,TEXT_AKTKMB116_04395_LYSE_000_286,那比起東躲西藏，<hex:02100103>我們還是穩步迅速地逐個控制所有區域，<hex:02100103>確保周圍的安全比較好！
-178,TEXT_AKTKMB116_04395_CIRINA_000_290,真是不可思議……<hex:02100103>明明正面臨著比那達慕大會還要殘酷許多的戰鬥，<hex:02100103>我的心態卻比那時要沉穩多了。
-179,TEXT_AKTKMB116_04395_CIRINA_000_291,一定是看到大家齊心協力的緣故。<hex:02100103>就算是之前一直互相較勁的紗都小姐和瑪格奈先生，<hex:02100103>這次也和其他同伴一起加入了我們。
-180,TEXT_AKTKMB116_04395_CIRINA_000_292,還有那些不在身邊卻必須守護的人，<hex:02100103>為了他們，我們必須獲勝。<hex:02100103>這個信念使我變得更加強大。
-181,TEXT_AKTKMB116_04395_SADU_000_295,只要破壞掉那些叫什麼魔導兵器的鐵疙瘩就行了吧？<hex:02100103>放心交給我吧，我會把它們都燒成渣的！
-182,TEXT_AKTKMB116_04395_MAGNAI_000_300,聽說你在之前的夜宴上被拐走了？<hex:02100103>難道說這地方也有布都嘎部那種到處擄人的傢伙嗎……
-183,TEXT_AKTKMB116_04395_MAGNAI_000_301,沒辦法。<hex:02100103>身為慷慨大方的阿吉木之子，等這次獲勝，<hex:02100103>我會為你舉辦一場更盛大的宴會。
-184,TEXT_AKTKMB116_04395_ANIMA_000_310,加雷馬……帝國……萬歲……
-185,TEXT_AKTKMB116_04395_LENTESTEARSGATEKEEPER_000_320,目前的路線已經確認完畢，<hex:02100103>要出發前往巴別塔最上層嗎？
-186,TEXT_AKTKMB116_04395_Q5_000_321,要前往神門之間嗎？
-187,TEXT_AKTKMB116_04395_A5_000_322,（★未使用／削除予定★）
-188,TEXT_AKTKMB116_04395_A5_000_323,（★未使用／削除予定★）
-189,TEXT_AKTKMB116_04395_A5_000_324,（★未使用／削除予定★）
-190,TEXT_AKTKMB116_04395_ALISAIE_000_330,<hex:022903EB0203>，等一下。
-191,TEXT_AKTKMB116_04395_ALISAIE_000_331,……好了。<hex:02100103>我已經將大家的祝福和好運都託付給了你。<hex:02100103>你一定可以順利解決這一切的！
-192,TEXT_AKTKMB116_04395_THANCRED_000_335,我們也會馬上離開這裡與救援隊匯合，<hex:02100103>你就放心前進吧。
-193,TEXT_AKTKMB116_04395_URIANGER_000_340,可露兒小姐就交給我們來照料吧……<hex:02100103>你快繼續前進吧。<hex:02100103>還請多加保重……
-194,TEXT_AKTKMB116_04395_YSHTOLA_000_345,她消耗了太多的乙太。<hex:02100103>而且，看殘留的痕跡……<hex:02100103>恐怕是強行使用傳送魔法來到這裡的。
-195,TEXT_AKTKMB116_04395_YSHTOLA_000_346,看來情況緊急到無論是海德林<hex:02100103>還是可露兒都別無選擇的地步了……<hex:02100103>我們一定要阻止這一切。
-196,TEXT_AKTKMB116_04395_GRAHATIA_000_350,那個傳送裝置果然是……
-197,TEXT_AKTKMB116_04395_ESTINIEN_000_355,沒有時間為已成定局的事情後悔了，<hex:02100103>趕緊做個了結吧，夥伴。
-198,TEXT_AKTKMB116_04395_KRILE_000_360,……
-199,TEXT_AKTKMB116_04395_ALPHINAUD_000_370,如果阿尼瑪的命令已經傳達給了所有被它精煉的人，<hex:02100103>那麼尤盧斯恐怕也……
-200,TEXT_AKTKMB116_04395_ALPHINAUD_000_371,……不，無論他變成什麼樣，我都一定要救下他。<hex:02100103>我以我的信念向你發誓。
-201,TEXT_AKTKMB116_04395_ALPHINAUD_000_372,希望我們都能順利……<hex:022903EB0203>！
-202,TEXT_AKTKMB116_04395_SYSTEM_000_373,可以與非玩家同伴的幻體一同攻略「魔導神門巴別塔」了！<hex:02100103>通過任務情報的「親信戰友」即可發起挑戰。
+0,"TEXT_AKTKMB116_04395_SEQ_00","Now that you've recovered, Lucia would have a word with you."
+1,"TEXT_AKTKMB116_04395_SEQ_01","As you recount what befell you whilst Zenos was occupying your body, it becomes clear to those present that both the primal Anima and the Telophoroi are based in the Tower of Babil─as suspected─so it is there that you must go to confront them. Fortunately, contingent scouts have identified a viable route of ingress, and Lucia has a plan of attack already prepared. While others create a diversion above ground, you are to slip into the tower via an underground tunnel alongside the Scions and some few allies."
+2,"TEXT_AKTKMB116_04395_SEQ_02","Your meeting with Lyse and company at Forum Patens to review your roles in the coming operation proceeds smoothly, with no more than the usual amount of bickering amongst the Azim Steppe delegation. So as not to attract attention, the group will need to travel separately until you reach the Enceladeum, where the entrance to the tunnel can be found."
+3,"TEXT_AKTKMB116_04395_SEQ_03","Pipin greets you at the Enceladeum, unaware of the details of your possession but nevertheless pleased to see you recovered enough to take part in the battle to come. He directs you to the representative from Lente's Tears who will serve as your guide to the underground station, promising to send your other comrades along when they arrive."
+4,"TEXT_AKTKMB116_04395_SEQ_04","You enter the underground station, where you are soon joined by your remaining comrades. A ruckus can be heard from above ground─your cue to board the train and infiltrate the Tower of Babil.<hex:02100103><hex:02100103>※To enlist your companion NPCs for this duty, speak with them near the entrance or access Duty Support via the main menu. Use the Duty Finder if you wish to complete the instance alongside fellow players."
+5,"TEXT_AKTKMB116_04395_SEQ_05","Fighting past tempered soldiers and all manner of monstrosities, you succeed in breaching the top of the tower, where you come face-to-face with the terrifying primal known as Anima. Demonstrating your might is more fearsome than any would-be god of empire, you succeed in putting the soul of His Radiance, Varis zos Galvus, to rest at last. Now nothing stands between you and the long-awaited confrontation with the Telophoroi's commanders."
+6,"TEXT_AKTKMB116_04395_SEQ_06","Though you catch Zenos and Fandaniel in the act, they have already harnessed much of the tower's aether and nearly succeeded in freeing Zodiark from His imprisonment. Suddenly, Krile appears, her body acting as a conduit for Hydaelyn, who is able to preserve the remaining shackles that bind Her ancient foe. For a moment, it appears that Fandaniel's plan has failed when the last of the tower's aether is exhausted, but he quickly changes tack and teleports himself and Zenos to the moon, that they might destroy the protective barrier in person. As a parting gift, they reveal that Anima, as its final act, issued an order to the tempered throughout Garlemald to fight unto their dying breath, and this diversion is enough to allow the Telophoroi to utilize their gate and make their escape. For a mercy, Hydaelyn manages to divert their aether current far from their destination, giving you a chance to travel to the moon yourself and forestall Zodiark's release."
+7,"TEXT_AKTKMB116_04395_SEQ_07","Alphinaud and the other Scions vow to prevent the situation in Garlemald from escalating and spare the tempered a terrible fate. Meanwhile, you alone must pursue the Telophoroi to the moon, and stop them ere it is too late."
+8,"TEXT_AKTKMB116_04395_SEQ_08",""
+9,"TEXT_AKTKMB116_04395_SEQ_09",""
+10,"TEXT_AKTKMB116_04395_SEQ_10",""
+11,"TEXT_AKTKMB116_04395_SEQ_11",""
+12,"TEXT_AKTKMB116_04395_SEQ_12",""
+13,"TEXT_AKTKMB116_04395_SEQ_13",""
+14,"TEXT_AKTKMB116_04395_SEQ_14",""
+15,"TEXT_AKTKMB116_04395_SEQ_15",""
+16,"TEXT_AKTKMB116_04395_SEQ_16",""
+17,"TEXT_AKTKMB116_04395_SEQ_17",""
+18,"TEXT_AKTKMB116_04395_SEQ_18",""
+19,"TEXT_AKTKMB116_04395_SEQ_19",""
+20,"TEXT_AKTKMB116_04395_SEQ_20",""
+21,"TEXT_AKTKMB116_04395_SEQ_21",""
+22,"TEXT_AKTKMB116_04395_SEQ_22",""
+23,"TEXT_AKTKMB116_04395_SEQ_23",""
+24,"TEXT_AKTKMB116_04395_TODO_00","Speak with Lyse."
+25,"TEXT_AKTKMB116_04395_TODO_01","Speak with Pipin."
+26,"TEXT_AKTKMB116_04395_TODO_02","Wait at the destination inside the station."
+27,"TEXT_AKTKMB116_04395_TODO_03","Enter the Tower of Babil."
+28,"TEXT_AKTKMB116_04395_TODO_04","Clear the Tower of Babil."
+29,"TEXT_AKTKMB116_04395_TODO_05","Speak with Alphinaud."
+30,"TEXT_AKTKMB116_04395_TODO_06",""
+31,"TEXT_AKTKMB116_04395_TODO_07",""
+32,"TEXT_AKTKMB116_04395_TODO_08",""
+33,"TEXT_AKTKMB116_04395_TODO_09",""
+34,"TEXT_AKTKMB116_04395_TODO_10",""
+35,"TEXT_AKTKMB116_04395_TODO_11",""
+36,"TEXT_AKTKMB116_04395_TODO_12",""
+37,"TEXT_AKTKMB116_04395_TODO_13",""
+38,"TEXT_AKTKMB116_04395_TODO_14",""
+39,"TEXT_AKTKMB116_04395_TODO_15",""
+40,"TEXT_AKTKMB116_04395_TODO_16",""
+41,"TEXT_AKTKMB116_04395_TODO_17",""
+42,"TEXT_AKTKMB116_04395_TODO_18",""
+43,"TEXT_AKTKMB116_04395_TODO_19",""
+44,"TEXT_AKTKMB116_04395_TODO_20",""
+45,"TEXT_AKTKMB116_04395_TODO_21",""
+46,"TEXT_AKTKMB116_04395_TODO_22",""
+47,"TEXT_AKTKMB116_04395_TODO_23",""
+48,"TEXT_AKTKMB116_04395_ALPHINAUD_000_000","I realize that my sister is...eager to proceed, but please be sure that you've fully recovered before you throw caution to the wind."
+49,"TEXT_AKTKMB116_04395_ALISAIE_000_005","So, how shall we strike them down?"
+50,"TEXT_AKTKMB116_04395_THANCRED_000_010","...I suppose your experience was a bit different, though. Unlike you, I had the pleasure of being stuck with Lahabrea while he went gallivanting about doing a poor impression of me. It adds another layer to the insult, believe you me."
+51,"TEXT_AKTKMB116_04395_URIANGER_000_015","Full glad am I to see thee awake and restored to thine own flesh once more."
+52,"TEXT_AKTKMB116_04395_YSHTOLA_000_020","Hm, yes...'tis still you..."
+53,"TEXT_AKTKMB116_04395_YSHTOLA_000_021","My apologies─I realized too late that the aether emanating from the tower was distorting my perception. 'Twas likely a temporary effect, but I remain wary."
+54,"TEXT_AKTKMB116_04395_GRAHATIA_000_025","Thank heavens you're you again. Gave me quite a fright."
+55,"TEXT_AKTKMB116_04395_ESTINIEN_000_030","Whatever that was, let's not do it again, eh?"
+56,"TEXT_AKTKMB116_04395_MAXIMA_000_035","The body that you were forced to inhabit turned cold and stiff the moment you were returned to your own. Perhaps the soul it belonged to is long gone..."
+57,"TEXT_AKTKMB116_04395_MAXIMA_000_036","Let us pray it is so, for I doubt it would be better off in the care of Zenos or Fandaniel."
+58,"TEXT_AKTKMB116_04395_LUCIA_000_040","Are you well enough to make your report?"
+59,"TEXT_AKTKMB116_04395_LUCIA_000_041","This “Anima” was summoned with the corpse of Emperor Varis? Does their depravity know no bounds?"
+60,"TEXT_AKTKMB116_04395_YSHTOLA_000_042","It seems not. More to the point, we can surmise that wave of aether issued not from the Tower of Babil, but from the primal lurking within it..."
+61,"TEXT_AKTKMB116_04395_YSHTOLA_000_043","A primal whose cry rang rather more loudly in your ears than ours."
+62,"TEXT_AKTKMB116_04395_YSHTOLA_000_044","If you were taken to the tower itself, then this proves beyond a shadow of a doubt that it is the beating heart of the Telophoroi's machinations."
+63,"TEXT_AKTKMB116_04395_LUCIA_000_045","In which case, we have some highly relevant information."
+64,"TEXT_AKTKMB116_04395_LUCIA_000_046","As many of you know, ever since we dispatched troops to free the Leveilleurs, we've been developing a plan to infiltrate the tower."
+65,"TEXT_AKTKMB116_04395_LUCIA_000_047","According to Thancred and his scouts, the main structure is lousy with tempered and enemy magitek."
+66,"TEXT_AKTKMB116_04395_LUCIA_000_048","Furthermore, the road leading to it has collapsed, making it difficult to approach in numbers."
+67,"TEXT_AKTKMB116_04395_MAXIMA_000_049","Thus do we propose dividing our forces into two parties─one to distract, and one to infiltrate."
+68,"TEXT_AKTKMB116_04395_MAXIMA_000_050","The diversionary force will be comprised of the Ishgardian, Gridanian, and Lominsan delegations."
+69,"TEXT_AKTKMB116_04395_MAXIMA_000_051","They will begin the construction of bridges, to make the Telophoroi believe we are marching upon the tower."
+70,"TEXT_AKTKMB116_04395_MAXIMA_000_052","Meanwhile, the best suited of our Ala Mhigan, Ul'dahn, and Eastern comrades will use a different method of ingress."
+71,"TEXT_AKTKMB116_04395_THANCRED_000_053","Look here."
+72,"TEXT_AKTKMB116_04395_THANCRED_000_054","The facility marked in red is the Enceladeum, a vast magitek manufactory. In ruins now, of course."
+73,"TEXT_AKTKMB116_04395_THANCRED_000_055","But the freight tunnel connecting it to the erstwhile imperial palace remains intact."
+74,"TEXT_AKTKMB116_04395_THANCRED_000_056","While the Telophoroi's attention is elsewhere, our infiltration force can use it to enter the tower undetected."
+75,"TEXT_AKTKMB116_04395_THANCRED_000_057","Be aware, however, that the underground rail network remains very much operational."
+76,"TEXT_AKTKMB116_04395_THANCRED_000_058","The tempered are using it to bring supplies to the tower even now."
+77,"TEXT_AKTKMB116_04395_ALPHINAUD_000_059","...If it can carry their materiel, it can carry us too, providing we sneak aboard unseen."
+78,"TEXT_AKTKMB116_04395_LUCIA_000_060","The Scions will lead the infiltration party. Once inside, you must locate and dispatch Fandaniel and Zenos."
+79,"TEXT_AKTKMB116_04395_Q1_000_061","What will you say?"
+80,"TEXT_AKTKMB116_04395_A1_000_062","We will save the people of Garlemald─and those who suffer the world over."
+81,"TEXT_AKTKMB116_04395_A1_000_063","I'll have my vengeance yet."
+82,"TEXT_AKTKMB116_04395_A1_000_064","It's time we ended this, once and for all."
+83,"TEXT_AKTKMB116_04395_ALPHINAUD_000_065","Aye. Jullus and so many others have lost much to the Telophoroi. We shall ensure they lose no more."
+84,"TEXT_AKTKMB116_04395_ALISAIE_000_066","We'll get our fill─you and me both."
+85,"TEXT_AKTKMB116_04395_ALPHINAUD_000_067","Aye. There will be no more casualties of the Telophoroi's maniacal ambition."
+86,"TEXT_AKTKMB116_04395_YSHTOLA_000_068","How quickly can we enact this plan?"
+87,"TEXT_AKTKMB116_04395_YSHTOLA_000_069","Fandaniel made it quite clear that haste is a priority."
+88,"TEXT_AKTKMB116_04395_GRAHATIA_000_070","Of paramount concern, even, assuming he didn't name the tower “Babil” on a whim."
+89,"TEXT_AKTKMB116_04395_GRAHATIA_000_071","In Amon's time, it meant “gateway of the gods.” Xande used it to refer to a voidgate, but in this case, it almost certainly alludes to something altogether greater..."
+90,"TEXT_AKTKMB116_04395_GRAHATIA_000_072","...The eldest and most powerful of primals."
+91,"TEXT_AKTKMB116_04395_LUCIA_000_073","All the more reason to act now. The rest of the contingent is aware of the plan, and are ready to move at a moment's notice."
+92,"TEXT_AKTKMB116_04395_LUCIA_000_074","You are to proceed north to Forum Patens. Lyse's group will meet you there."
+93,"TEXT_AKTKMB116_04395_YSHTOLA_000_075","As ever, we are grateful for your foresight."
+94,"TEXT_AKTKMB116_04395_YSHTOLA_000_076","This is the moment we've been waiting for. Spare no effort in your preparations."
+95,"TEXT_AKTKMB116_04395_LUCIA_000_080","Lyse's party ought to have secured the tunnel by now. Rendezvous with them and make your way inside."
+96,"TEXT_AKTKMB116_04395_LUCIA_000_081","May the Fury guide you...and us all."
+97,"TEXT_AKTKMB116_04395_MAXIMA_000_085","Those not taking part in the assault will defend this camp and the airships, as well as safeguard your escape route from the tower."
+98,"TEXT_AKTKMB116_04395_MAXIMA_000_086","You need not worry about what comes after─so fight with all you have."
+99,"TEXT_AKTKMB116_04395_CIRINA_000_090","I am to accompany you into the tower. It is an honor, as ever!"
+100,"TEXT_AKTKMB116_04395_SADU_000_095","<sneeze> Damn these frigid lands. <snort>"
+101,"TEXT_AKTKMB116_04395_MAGNAI_000_100","The Sun does not <hex:021A020203>sneak<hex:021A020103>. ...However, he will travel this path of yours, and those who walk with him will bask in his radiance."
+102,"TEXT_AKTKMB116_04395_LYSE_000_110","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! The way into the tunnel is clear. We've made sure of it."
+103,"TEXT_AKTKMB116_04395_Q2_000_111","What will you say?"
+104,"TEXT_AKTKMB116_04395_A2_000_112","I wish you'd made sure to bring a coat instead."
+105,"TEXT_AKTKMB116_04395_A2_000_113","Then we'd best get in there before we freeze. Especially you."
+106,"TEXT_AKTKMB116_04395_LYSE_000_114","Oh, I'll warm up when I throw a punch or two."
+107,"TEXT_AKTKMB116_04395_LYSE_000_115","Oh, the shoe will be on the other foot once we're in, believe you me. A good fight should warm us right up!"
+108,"TEXT_AKTKMB116_04395_MAGNAI_000_116","Hmph. Barely enough cloth to swaddle a newborn. Clearly, you have spent too long around this feral dog of a Dotharl."
+109,"TEXT_AKTKMB116_04395_SADU_000_117","Watch your tongue, fool, lest I feed it to the crows!"
+110,"TEXT_AKTKMB116_04395_MAGNAI_000_118","We will see who is the fool when you freeze to death. Expect me not to warm your ill-prepared hide─these furs are for myself and my Nhaama alone, should I be blessed to meet her this day."
+111,"TEXT_AKTKMB116_04395_SADU_000_119","As if any woman of worth would wish to be warmed by you, “little sun.” Should we find such a warrior within, she will bask in <hex:021A020203>my<hex:021A020103> glorious flame."
+112,"TEXT_AKTKMB116_04395_CIRINA_000_120","Stop, both of you! Save your fire for the enemy. As for extra furs, I have plenty to spare!"
+113,"TEXT_AKTKMB116_04395_YSHTOLA_000_121","As do we."
+114,"TEXT_AKTKMB116_04395_LYSE_000_122","Hello, everyone! All set for battle, I see."
+115,"TEXT_AKTKMB116_04395_YSHTOLA_000_123","Yes, free of unnecessary encumbrances, if rather more susceptible to the cold. Let us review our strategy─quickly, if you don't mind."
+116,"TEXT_AKTKMB116_04395_LYSE_000_124","Pipin's group has gone ahead to the Enceladeum. We are to meet them there."
+117,"TEXT_AKTKMB116_04395_LYSE_000_125","We wait until the tempered's attention is drawn by our diversionary force, then we sneak onto the train. Next stop: the Tower of Babil!"
+118,"TEXT_AKTKMB116_04395_CIRINA_000_126","If any─tempered included─are injured, we Xaela will tend to them."
+119,"TEXT_AKTKMB116_04395_CIRINA_000_127","You Scions must press on, no matter what."
+120,"TEXT_AKTKMB116_04395_THANCRED_000_128","We should avoid moving as a group until we're underground, so we'll need to make our own ways to the Enceladeum. See you there."
+121,"TEXT_AKTKMB116_04395_ALPHINAUD_000_130","We'll stagger our departures so as not to raise suspicion. You go on ahead."
+122,"TEXT_AKTKMB116_04395_ALISAIE_000_135","Who could possibly be cold at a time like this? My pulse is pounding with anticipation!"
+123,"TEXT_AKTKMB116_04395_THANCRED_000_140","...I think it's time I was off. If I look at Urianger for one more moment I'm liable to freeze solid."
+124,"TEXT_AKTKMB116_04395_URIANGER_000_145","C-C-Cold? N-N-Nay, I feel nary a thing..."
+125,"TEXT_AKTKMB116_04395_YSHTOLA_000_150","Fear not─no serious wounds have gone untreated. Nor will I stand for being left behind while the rest of you rush headlong into danger, so you needn't bother suggesting it."
+126,"TEXT_AKTKMB116_04395_GRAHATIA_000_155","...And you're one-hundred percent certain you're alright? No odd specters haunting your wake? Nothing feels...tingly?"
+127,"TEXT_AKTKMB116_04395_ESTINIEN_000_160","I am unfamiliar with this route. The entrance Gaius and I used was demolished in the construction of that towering monstrosity."
+128,"TEXT_AKTKMB116_04395_LYSE_000_165","Just head north, and you'll reach the Enceladeum soon enough!"
+129,"TEXT_AKTKMB116_04395_CIRINA_000_170","The Scions are welcome to our spare furs as well! Erm, you might mention that to Urianger..."
+130,"TEXT_AKTKMB116_04395_MAGNAI_000_175","A “glorious flame”...? Nay, I would have seen it, were it so..."
+131,"TEXT_AKTKMB116_04395_SADU_000_180","I crave battle, not this insipid chatter."
+132,"TEXT_AKTKMB116_04395_LENTESTEARSGATEKEEPER_000_185","Apologies, but we need a moment more to finish our sweep of the station. Wouldn't want to leave anything to chance."
+133,"TEXT_AKTKMB116_04395_PIPIN_000_190","Hail! It's good to see you, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>."
+134,"TEXT_AKTKMB116_04395_PIPIN_000_191","We heard that you collapsed, but were given only the most cursory explanation. I'm glad you've recovered─and quickly enough to take part in the operation, at that."
+135,"TEXT_AKTKMB116_04395_PIPIN_000_192","As you will have heard, we've secured the way in. Some few are to remain behind to keep your escape route clear."
+136,"TEXT_AKTKMB116_04395_PIPIN_000_193","Our comrade from Lente's Tears will lead the way into the station. I'll join you soon."
+137,"TEXT_AKTKMB116_04395_PIPIN_000_200","I will send the others to meet you in the station below."
+138,"TEXT_AKTKMB116_04395_LENTESTEARSGATEKEEPER_000_205","The station is right this way. Tread lightly, now."
+139,"TEXT_AKTKMB116_04395_Q3_000_206","Proceed to the station?"
+140,"TEXT_AKTKMB116_04395_PIPIN_000_210","This is everyone."
+141,"TEXT_AKTKMB116_04395_CIRINA_000_211","Consider the enemy well and truly distracted!"
+142,"TEXT_AKTKMB116_04395_PIPIN_000_212","Time to go."
+143,"TEXT_AKTKMB116_04395_ALPHINAUD_000_213","Our primary objective is, of course, the Telophoroi's leaders."
+144,"TEXT_AKTKMB116_04395_ALPHINAUD_000_214","But should we be presented with an opportunity to vanquish Anima, we must seize it."
+145,"TEXT_AKTKMB116_04395_ALPHINAUD_000_215","If it is indeed the force behind the towers, destroying it will deliver our allies from the Telophoroi's reign of terror."
+146,"TEXT_AKTKMB116_04395_ALPHINAUD_000_216","And I, for one, would not see the Garlean people manipulated any longer, be it by primal, Ascian, or anything else."
+147,"TEXT_AKTKMB116_04395_LYSE_000_217","Hear, hear. There's been enough of that."
+148,"TEXT_AKTKMB116_04395_LYSE_000_218","We came to help the people of Garlemald, and that's what we're going to do. Together!"
+149,"TEXT_AKTKMB116_04395_ALPHINAUD_000_219","Till the very end."
+150,"TEXT_AKTKMB116_04395_PIPIN_000_220","The train should be along any moment now. Prepare to board, everyone!"
+151,"TEXT_AKTKMB116_04395_Q4_000_230","What will you do?"
+152,"TEXT_AKTKMB116_04395_A4_000_231","Small talk."
+153,"TEXT_AKTKMB116_04395_A4_000_232","Form a party and enter the Tower of Babil."
+154,"TEXT_AKTKMB116_04395_A4_000_233","Nothing."
+155,"TEXT_AKTKMB116_04395_ALPHINAUD_000_240","I'm only too aware that our intervention may not be what many of Garlemald's people want or need right now."
+156,"TEXT_AKTKMB116_04395_ALPHINAUD_000_241","Not every tragedy can be laid at the feet of the Telophoroi. Certainly not that of Licinia and her sister."
+157,"TEXT_AKTKMB116_04395_ALPHINAUD_000_242","Nevertheless, we must follow our conscience, and mine has led me here."
+158,"TEXT_AKTKMB116_04395_ALISAIE_000_245","Much as I'd like to be the one to wipe the grin off Fandaniel's smug little face, I haven't lost sight of why we're here."
+159,"TEXT_AKTKMB116_04395_ALISAIE_000_246","Our ultimate goal is to prevent the Telophoroi from doing any further harm, no matter how."
+160,"TEXT_AKTKMB116_04395_ALISAIE_000_247","But if I <hex:021A020203>do<hex:021A020103> get the chance to introduce my fist to his jaw─and gods, do I hope I do─I won't turn it down!"
+161,"TEXT_AKTKMB116_04395_THANCRED_000_250","We were only able to ascertain that the tunnel connects to the tower. I fear I have little to offer as to the details of the interior or present situation therein."
+162,"TEXT_AKTKMB116_04395_THANCRED_000_251","If Fandaniel is to be believed, we don't have the luxury of time to scout ahead, so we'll have to trust in your instincts. They've served us well enough thus far."
+163,"TEXT_AKTKMB116_04395_URIANGER_000_255","'Tis no meager delight to watch Alisaie and Alphinaud grow more resolute in mind and heart."
+164,"TEXT_AKTKMB116_04395_URIANGER_000_256","And remarkable though their accomplishments may be, I doubt not that they are destined for still greater things."
+165,"TEXT_AKTKMB116_04395_URIANGER_000_257","Grant them thy protection, Master Louisoix. I implore thee..."
+166,"TEXT_AKTKMB116_04395_YSHTOLA_000_260","Assuming Fandaniel intends to make Zodiark serve as a catalyst for the Final Days..."
+167,"TEXT_AKTKMB116_04395_YSHTOLA_000_261","One cannot but wonder if he willingly parted ways with the other Ascians long ago."
+168,"TEXT_AKTKMB116_04395_YSHTOLA_000_262","Surely they would not have permitted the very god they created to forestall the world's end to be used in such a way."
+169,"TEXT_AKTKMB116_04395_GRAHATIA_000_265","If Fandaniel truly is Amon, to create a gate through which a primal may pass will not be beyond him."
+170,"TEXT_AKTKMB116_04395_GRAHATIA_000_266","From what I gather, he was utterly brilliant─and utterly mad."
+171,"TEXT_AKTKMB116_04395_ESTINIEN_000_270","When Zenos murdered Varis, Gaius was upon him in an instant. Seldom have I seen such fury."
+172,"TEXT_AKTKMB116_04395_ESTINIEN_000_271","I won't pretend to know the bond they shared, but pain, fear, rage...I know them well. I know what can drive a man to drown in them."
+173,"TEXT_AKTKMB116_04395_ESTINIEN_000_272","Though his homeland may have wished for his blade, my lance will roar in its stead."
+174,"TEXT_AKTKMB116_04395_PIPIN_000_280","The train we're boarding is meant to carry supplies and armaments and the like."
+175,"TEXT_AKTKMB116_04395_PIPIN_000_281","With any luck, we can slip past the tempered as they go about loading the freight."
+176,"TEXT_AKTKMB116_04395_LYSE_000_285","It's likely that Anima, at least, will notice when we enter the tower. There's no point in trying to stay hidden after that."
+177,"TEXT_AKTKMB116_04395_LYSE_000_286","So when the time comes, I say don't overthink it, and cut a path straight through!"
+178,"TEXT_AKTKMB116_04395_CIRINA_000_290","Strange. Though this will be a more fearsome fight than any Naadam, I feel at peace..."
+179,"TEXT_AKTKMB116_04395_CIRINA_000_291","Maybe it is because I have Sadu, Magnai, and you at my side."
+180,"TEXT_AKTKMB116_04395_CIRINA_000_292","Maybe it is because we fight for all Xaela, and more peoples besides. There is but one path─that which leads to victory!"
+181,"TEXT_AKTKMB116_04395_SADU_000_295","Aye, aye, kill no man. I have not forgotten your instruction. I must settle for crushing the ironmen's toys. Their blue blood will feed my flames!"
+182,"TEXT_AKTKMB116_04395_MAGNAI_000_300","Your comrades tell me that the Telophoroi abducted you on the selfsame eve they so rudely interrupted our meal. A brazen feat that would make a Buduga proud."
+183,"TEXT_AKTKMB116_04395_MAGNAI_000_301","But even had it not ended poorly, it was a disappointment in many respects. I have decided that when we return triumphant, the Oronir will hold a far grander feast on the Azim Steppe. You have permission to attend."
+184,"TEXT_AKTKMB116_04395_ANIMA_000_310","Glory... Glory... Glory...be..."
+185,"TEXT_AKTKMB116_04395_LENTESTEARSGATEKEEPER_000_320","The area is secure. May I escort you to the top of the tower?"
+186,"TEXT_AKTKMB116_04395_Q5_000_321","Proceed to the Nethergate?"
+187,"TEXT_AKTKMB116_04395_A5_000_322","Return to the Enceladeum."
+188,"TEXT_AKTKMB116_04395_A5_000_323","Proceed to the Nethergate."
+189,"TEXT_AKTKMB116_04395_A5_000_324","Cancel."
+190,"TEXT_AKTKMB116_04395_ALISAIE_000_330","Stand there for just a moment, please."
+191,"TEXT_AKTKMB116_04395_ALISAIE_000_331","...A prayer for good luck. Now you can't possibly fail!"
+192,"TEXT_AKTKMB116_04395_THANCRED_000_335","We're moving out to rendezvous with the remainder of the contingent. Leave everything here to us."
+193,"TEXT_AKTKMB116_04395_URIANGER_000_340","Fear not for Krile. Go forth...and return, I prithee."
+194,"TEXT_AKTKMB116_04395_YSHTOLA_000_345","She channeled a dangerous amount of aether. And that's to say nothing of the teleportation magick she must have used to get here."
+195,"TEXT_AKTKMB116_04395_YSHTOLA_000_346","Yet Krile and Hydaelyn both were clearly willing to take the risk. Hmm."
+196,"TEXT_AKTKMB116_04395_GRAHATIA_000_350","As I suspected..."
+197,"TEXT_AKTKMB116_04395_ESTINIEN_000_355","We've no time for worrying over what's done. Let's go."
+198,"TEXT_AKTKMB116_04395_KRILE_000_360","..."
+199,"TEXT_AKTKMB116_04395_ALPHINAUD_000_370","If all of the tempered are affected, Jullus and his comrades likely put up quite the struggle."
+200,"TEXT_AKTKMB116_04395_ALPHINAUD_000_371","We'll find a way to save them─we must. I only pray we are not too late."
+201,"TEXT_AKTKMB116_04395_ALPHINAUD_000_372","In the meantime...may the Twelve carry you to victory."
+202,"TEXT_AKTKMB116_04395_SYSTEM_000_373","You may now enter the Tower of Babil with a party of NPC avatars. To make use of this feature, open the <hex:024804F201F403><hex:024904F201F503>Trust<hex:0249020103><hex:0248020103> interface located under <hex:024804F201F403><hex:024904F201F503>Duty<hex:0249020103><hex:0248020103> in the main menu."

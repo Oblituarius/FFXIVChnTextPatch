@@ -2,68 +2,68 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_GAIUSB410_00866_SEQ_00,石綠湖營地療養院的管理人魯庫薩·琺魯薩，看上去十分煩惱。
-1,TEXT_GAIUSB410_00866_SEQ_01,這個村落本是傷兵進行療養的場所，不知為何雕金匠造訪了這裡。從<hex:02280FFF09>BNpcName<hex:F201870103>身上獲得4瓶量可以乾燥傷患部位的<hex:022811FF0A>EventItem<hex:F61E87210103>。
-2,TEXT_GAIUSB410_00866_SEQ_02,獲得了4瓶量的<hex:022811FF0A>EventItem<hex:F61E87210103>。讓石綠湖營地的雕金匠查看。
-3,TEXT_GAIUSB410_00866_SEQ_03,將<hex:022811FF0A>EventItem<hex:F61E87210103>撒滿戈德伯特全身。
-4,TEXT_GAIUSB410_00866_SEQ_04,再次將<hex:022811FF0A>EventItem<hex:F61E87210103>撒滿戈德伯特全身。
-5,TEXT_GAIUSB410_00866_SEQ_05,將<hex:022811FF0A>EventItem<hex:F61E87210103>塗遍戈德伯特全身。
-6,TEXT_GAIUSB410_00866_SEQ_06,再次將<hex:022811FF0A>EventItem<hex:F61E87210103>塗遍戈德伯特全身。
-7,TEXT_GAIUSB410_00866_SEQ_07,將<hex:022811FF0A>EventItem<hex:F61E87210103>塗遍了戈德伯特全身。向石綠湖營地的魯庫薩·琺魯薩報告。
-8,TEXT_GAIUSB410_00866_SEQ_08,魯庫薩·琺魯薩無法理解烏爾達哈有錢人的想法。戈德伯特真是一個不可思議的人物。
-9,TEXT_GAIUSB410_00866_SEQ_09,
-10,TEXT_GAIUSB410_00866_SEQ_10,
-11,TEXT_GAIUSB410_00866_SEQ_11,
-12,TEXT_GAIUSB410_00866_SEQ_12,
-13,TEXT_GAIUSB410_00866_SEQ_13,
-14,TEXT_GAIUSB410_00866_SEQ_14,
-15,TEXT_GAIUSB410_00866_SEQ_15,
-16,TEXT_GAIUSB410_00866_SEQ_16,
-17,TEXT_GAIUSB410_00866_SEQ_17,
-18,TEXT_GAIUSB410_00866_SEQ_18,
-19,TEXT_GAIUSB410_00866_SEQ_19,
-20,TEXT_GAIUSB410_00866_SEQ_20,
-21,TEXT_GAIUSB410_00866_SEQ_21,
-22,TEXT_GAIUSB410_00866_SEQ_22,
-23,TEXT_GAIUSB410_00866_SEQ_23,
-24,TEXT_GAIUSB410_00866_TODO_00,從<hex:02280FFF09>BNpcName<hex:F201870103>身上獲取<hex:022811FF0A>EventItem<hex:F61E87210103>
-25,TEXT_GAIUSB410_00866_TODO_01,讓戈德伯特查看<hex:022811FF0A>EventItem<hex:F61E87210103>
-26,TEXT_GAIUSB410_00866_TODO_02,對戈德伯特使用<hex:022811FF0A>EventItem<hex:F61E87210103>
-27,TEXT_GAIUSB410_00866_TODO_03,再次對戈德伯特使用<hex:022811FF0A>EventItem<hex:F61E87210103>
-28,TEXT_GAIUSB410_00866_TODO_04,給戈德伯特塗<hex:022811FF0A>EventItem<hex:F61E87210103>
-29,TEXT_GAIUSB410_00866_TODO_05,再次給戈德伯特塗<hex:022811FF0A>EventItem<hex:F61E87210103>
-30,TEXT_GAIUSB410_00866_TODO_06,向魯庫薩·琺魯薩報告
-31,TEXT_GAIUSB410_00866_TODO_07,
-32,TEXT_GAIUSB410_00866_TODO_08,
-33,TEXT_GAIUSB410_00866_TODO_09,
-34,TEXT_GAIUSB410_00866_TODO_10,
-35,TEXT_GAIUSB410_00866_TODO_11,
-36,TEXT_GAIUSB410_00866_TODO_12,
-37,TEXT_GAIUSB410_00866_TODO_13,
-38,TEXT_GAIUSB410_00866_TODO_14,
-39,TEXT_GAIUSB410_00866_TODO_15,
-40,TEXT_GAIUSB410_00866_TODO_16,
-41,TEXT_GAIUSB410_00866_TODO_17,
-42,TEXT_GAIUSB410_00866_TODO_18,
-43,TEXT_GAIUSB410_00866_TODO_19,
-44,TEXT_GAIUSB410_00866_TODO_20,
-45,TEXT_GAIUSB410_00866_TODO_21,
-46,TEXT_GAIUSB410_00866_TODO_22,
-47,TEXT_GAIUSB410_00866_TODO_23,
-48,TEXT_GAIUSB410_00866_RUKUSAFARUSA_000_000,石綠湖營地是提供給傷兵進行療養，<hex:02100103>用溫泉治療傷痛的場所。<hex:02100103>但卻有一位雕金匠大人到來了……
-49,TEXT_GAIUSB410_00866_RUKUSAFARUSA_000_001,他前來尋求能夠乾燥傷患部的<hex:022811FF0A>EventItem<hex:F61E87210103>，<hex:02100103>但不巧的是，我們這剛好沒有庫存了。
-50,TEXT_GAIUSB410_00866_RUKUSAFARUSA_000_002,冒險者，如果可以的話，<hex:02100103>能麻煩你去從<hex:02280FFF09>BNpcName<hex:F201870103>身上，得到4瓶量的<hex:022811FF0A>EventItem<hex:F61E87210103>，<hex:02100103>並將其交給那位客人嗎？
-51,TEXT_GAIUSB410_00866_DUMMY_000_010,從魔物身上得到3個<hex:022811FF0A>EventItem<hex:F61E87210103>
-52,TEXT_GAIUSB410_00866_TODO_000_010,（未使用/預計刪除）
-53,TEXT_GAIUSB410_00866_GODBERT_000_020,哦！你把<hex:022811FF0A>EventItem<hex:F61E87210103>拿來了啊？！
-54,TEXT_GAIUSB410_00866_GODBERT_000_021,為了籌備大角，我單憑一把手鋸便前去挑戰巨大的水牛，<hex:02100103>一大意，就弄得遍體鱗傷了！
-55,TEXT_GAIUSB410_00866_GODBERT_000_022,我戈德伯特身為艾歐澤亞最強的雕金匠……<hex:02100103>竟搞成這樣，真是慚愧……
-56,TEXT_GAIUSB410_00866_GODBERT_000_023,你快動手吧！千萬別客氣！<hex:02100103>把<hex:022811FF0A>EventItem<hex:F61E87210103>抹到我身上來吧！<hex:02100103>胸肌！背肌！腹肌！一處都不要落下！
-57,TEXT_GAIUSB410_00866_GODBERT_000_024,還沒抹好<hex:022811FF0A>EventItem<hex:F61E87210103>嗎？！
-58,TEXT_GAIUSB410_00866_GODBERT_000_030,哈！再來一次！
-59,TEXT_GAIUSB410_00866_GODBERT_000_035,哈！真是舒爽！<hex:02100103>你快來把它們塗勻吧！
-60,TEXT_GAIUSB410_00866_GODBERT_000_036,哈！真是舒爽！<hex:02100103>你快來把它們塗勻吧！
-61,TEXT_GAIUSB410_00866_GODBERT_000_025,哈！真是爽啊！
-62,TEXT_GAIUSB410_00866_GODBERT_000_050,哎呀……<hex:02100103>你的手藝真是不錯！<hex:02100103>我戈德伯特差點就舒服得睡著了！
-63,TEXT_GAIUSB410_00866_GODBERT_000_051,稍微休息一下，<hex:02100103>然後再去泡上8個小時吧！<hex:02100103>閃閃發亮！柔滑細嫩！啊哈哈！
-64,TEXT_GAIUSB410_00866_RUKUSAFARUSA_000_070,謝謝你。<hex:02100103>烏、烏爾達哈的有錢人，一個個都很怪呢……<hex:02100103>不管怎麼說，謝謝你幫了我大忙！
+0,"TEXT_GAIUSB410_00866_SEQ_00","Rukusa Farusa is a man much tried."
+1,"TEXT_GAIUSB410_00866_SEQ_01","Rukusa Farusa confides that a tourist has taken up residence in his infirmary. The man in question, a wealthy goldsmith, requires salamander oil for his hurts. Draw four vials' worth from salamanders nearby."
+2,"TEXT_GAIUSB410_00866_SEQ_02","After some deft work, you have four vials' worth of salamander oil. Show it to the goldsmith."
+3,"TEXT_GAIUSB410_00866_SEQ_03","The work is more hands-on than you were led to expect. Pour the salamander oil on Godbert, and remember that generosity is a virtue."
+4,"TEXT_GAIUSB410_00866_SEQ_04","Fortunately, you still have plenty of salamander oil. Unfortunately, there is still plenty more of Godbert in need of oiling. Keep pouring it onto the weary goldsmith."
+5,"TEXT_GAIUSB410_00866_SEQ_05","You may as well finish what you started. Knead the oil into Godbert's weary flesh. This too is a virtue, though one less well defined."
+6,"TEXT_GAIUSB410_00866_SEQ_06","Your work is far from over. Keep working those knots out of Godbert's tense muscles."
+7,"TEXT_GAIUSB410_00866_SEQ_07","Godbert has reached a heightened state of bliss thanks to your expert ministrations. Report your success to Rukusa Farusa."
+8,"TEXT_GAIUSB410_00866_SEQ_08","Rukusa Farusa tells that the Ul'dahn artisan is under a misapprehension. Or perhaps, it is the nature of those both wealthy and seeking to believe as they like."
+9,"TEXT_GAIUSB410_00866_SEQ_09",""
+10,"TEXT_GAIUSB410_00866_SEQ_10",""
+11,"TEXT_GAIUSB410_00866_SEQ_11",""
+12,"TEXT_GAIUSB410_00866_SEQ_12",""
+13,"TEXT_GAIUSB410_00866_SEQ_13",""
+14,"TEXT_GAIUSB410_00866_SEQ_14",""
+15,"TEXT_GAIUSB410_00866_SEQ_15",""
+16,"TEXT_GAIUSB410_00866_SEQ_16",""
+17,"TEXT_GAIUSB410_00866_SEQ_17",""
+18,"TEXT_GAIUSB410_00866_SEQ_18",""
+19,"TEXT_GAIUSB410_00866_SEQ_19",""
+20,"TEXT_GAIUSB410_00866_SEQ_20",""
+21,"TEXT_GAIUSB410_00866_SEQ_21",""
+22,"TEXT_GAIUSB410_00866_SEQ_22"," "
+23,"TEXT_GAIUSB410_00866_SEQ_23",""
+24,"TEXT_GAIUSB410_00866_TODO_00","Slay salamanders and obtain salamander oil."
+25,"TEXT_GAIUSB410_00866_TODO_01","Show the salamander oil to Godbert."
+26,"TEXT_GAIUSB410_00866_TODO_02","Use the salamander oil on Godbert."
+27,"TEXT_GAIUSB410_00866_TODO_03","Use the salamander oil on Godbert again."
+28,"TEXT_GAIUSB410_00866_TODO_04","Massage the oil into Godbert's weary flesh."
+29,"TEXT_GAIUSB410_00866_TODO_05","Continue massaging Godbert's tense muscles."
+30,"TEXT_GAIUSB410_00866_TODO_06","Report to Rukusa Farusa."
+31,"TEXT_GAIUSB410_00866_TODO_07",""
+32,"TEXT_GAIUSB410_00866_TODO_08",""
+33,"TEXT_GAIUSB410_00866_TODO_09",""
+34,"TEXT_GAIUSB410_00866_TODO_10",""
+35,"TEXT_GAIUSB410_00866_TODO_11",""
+36,"TEXT_GAIUSB410_00866_TODO_12",""
+37,"TEXT_GAIUSB410_00866_TODO_13",""
+38,"TEXT_GAIUSB410_00866_TODO_14",""
+39,"TEXT_GAIUSB410_00866_TODO_15",""
+40,"TEXT_GAIUSB410_00866_TODO_16",""
+41,"TEXT_GAIUSB410_00866_TODO_17",""
+42,"TEXT_GAIUSB410_00866_TODO_18",""
+43,"TEXT_GAIUSB410_00866_TODO_19",""
+44,"TEXT_GAIUSB410_00866_TODO_20",""
+45,"TEXT_GAIUSB410_00866_TODO_21",""
+46,"TEXT_GAIUSB410_00866_TODO_22",""
+47,"TEXT_GAIUSB410_00866_TODO_23",""
+48,"TEXT_GAIUSB410_00866_RUKUSAFARUSA_000_000","As you know from your prior visits, we treat the wounded from the front with all our arts, and with the healing waters of the hot springs. We serve soldiers, but for some unaccountable reason, we have a...a <hex:021A020203>goldsmith<hex:021A020103> here at the present."
+49,"TEXT_GAIUSB410_00866_RUKUSAFARUSA_000_001","He simply showed up, and we could hardly turn him away. And now he is asking for salamander oil, but we cannot spare any."
+50,"TEXT_GAIUSB410_00866_RUKUSAFARUSA_000_002","I find the entire situation awkward in the extreme. Will you extract four vials' worth of oil from the salamanders roaming nearby and give them to the goldsmith?"
+51,"TEXT_GAIUSB410_00866_DUMMY_000_010",""
+52,"TEXT_GAIUSB410_00866_TODO_000_010",""
+53,"TEXT_GAIUSB410_00866_GODBERT_000_020","Most kind, you are most kind to bring me the oil of salamander!"
+54,"TEXT_GAIUSB410_00866_GODBERT_000_021","I had a need of a large horn and made the grievous error of visiting a great buffalo with a handsaw. He liked it not and I sustained a most horrific scratch."
+55,"TEXT_GAIUSB410_00866_GODBERT_000_022","It smarted so, and the ache!<hex:02100103>...Oh no, I was not thrown, I am not so green as that! No, when the beast shook its head, I stepped backwards, slipped, and fell. Then I fell again later, strolling back to the dogcart."
+56,"TEXT_GAIUSB410_00866_GODBERT_000_023","No need to be shy, you are an adventurer and I am a goldsmith! The body is simply an instrument, in occasional need of oiling! Oil, <hex:02080FE905FF06>madam<hex:FF04>sir<hex:03>, oil, I say!"
+57,"TEXT_GAIUSB410_00866_GODBERT_000_024","Come! My body awaits your ministrations."
+58,"TEXT_GAIUSB410_00866_GODBERT_000_030","The relief! Again, I say!"
+59,"TEXT_GAIUSB410_00866_GODBERT_000_035","Ahhh, I can feel soothing fingers working into every knot─that is your cue, <hex:02080FE905FF06>madam<hex:FF04>sir<hex:03>, soothing fingers now, please!"
+60,"TEXT_GAIUSB410_00866_GODBERT_000_036","By the Twelve, that feels good. Now quickly, with the rubbing!"
+61,"TEXT_GAIUSB410_00866_GODBERT_000_025","Ah, the healing tingle!"
+62,"TEXT_GAIUSB410_00866_GODBERT_000_050","Zzz... Ah, pardon me. Your skill was so great that I was quite transported. Truly, no Ul'dahn attendant could have done better. Sublime!"
+63,"TEXT_GAIUSB410_00866_GODBERT_000_051","I shall now have a brief drowse, then soak in the springs until sundown. After that, a humble meal with white wine from my own stock, and perhaps peaches..."
+64,"TEXT_GAIUSB410_00866_RUKUSAFARUSA_000_070","Thank you for your service, adventurer. It seems he believes Bronze Lake to be some sort of a retreat for the rich. He paid a very handsome fee for his stay thus far and profusely complimented us on our...asceticism."

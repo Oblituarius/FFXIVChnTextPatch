@@ -2,116 +2,116 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_FESGSC201_03133_SEQ_00,※本任務是特定期間內的任務。<hex:02100103><hex:02100103>烏爾達哈的害怕的女性有事情想要拜託冒險者。
-1,TEXT_FESGSC201_03133_SEQ_01,※本任務只有在季節活動開放期間才能接受和進行。<hex:02100103>　季節活動結束後無法進行，敬請注意。<hex:02100103>　詳情請參見官方網站。<hex:02100103><hex:02100103>據害怕的女性所言，目前金碟遊樂場中有不明物體遊蕩。為了聽取詳情，前往金碟遊樂場的戈德伯特處。
-2,TEXT_FESGSC201_03133_SEQ_02,從戈德伯特處打聽到了謎之白色物體的詳情。在演出廣場尋找目擊情報。
-3,TEXT_FESGSC201_03133_SEQ_03,從想要一夜暴富的男人那裡打聽到了謎之白色物體的消息。謎之白色物體已經逃走了。在奇妙廣場尋找目擊情報。
-4,TEXT_FESGSC201_03133_SEQ_04,從泰爾比·凱斯爾比那裡打聽到了謎之白色物體的消息。不久之前他看到了謎之白色物體經過。在圓形廣場尋找謎之白色物體。
-5,TEXT_FESGSC201_03133_SEQ_05,發現了兩隻莫古力。和成年莫古力談談。
-6,TEXT_FESGSC201_03133_SEQ_06,原來引發騷動的就是莫古力們。將真相告訴戈德伯特。
-7,TEXT_FESGSC201_03133_SEQ_07,向戈德伯特告知了真相，騷動終於平息了下來。成年莫古力十分感謝冒險者的幫助。一邊享受金碟嘉年華，一邊守護莫古力族們吧。
-8,TEXT_FESGSC201_03133_SEQ_08,
-9,TEXT_FESGSC201_03133_SEQ_09,
-10,TEXT_FESGSC201_03133_SEQ_10,
-11,TEXT_FESGSC201_03133_SEQ_11,
-12,TEXT_FESGSC201_03133_SEQ_12,
-13,TEXT_FESGSC201_03133_SEQ_13,
-14,TEXT_FESGSC201_03133_SEQ_14,
-15,TEXT_FESGSC201_03133_SEQ_15,
-16,TEXT_FESGSC201_03133_SEQ_16,
-17,TEXT_FESGSC201_03133_SEQ_17,
-18,TEXT_FESGSC201_03133_SEQ_18,
-19,TEXT_FESGSC201_03133_SEQ_19,
-20,TEXT_FESGSC201_03133_SEQ_20,
-21,TEXT_FESGSC201_03133_SEQ_21,
-22,TEXT_FESGSC201_03133_SEQ_22,
-23,TEXT_FESGSC201_03133_SEQ_23,
-24,TEXT_FESGSC201_03133_TODO_00,和金碟遊樂場的戈德伯特對話
-25,TEXT_FESGSC201_03133_TODO_01,在演出廣場尋找看到過謎之物體的人
-26,TEXT_FESGSC201_03133_TODO_02,在奇妙廣場尋找看到過謎之物體的人
-27,TEXT_FESGSC201_03133_TODO_03,在圓形廣場的<hex:02280CFF05>EObj<hex:F61EA9D20103>張望
-28,TEXT_FESGSC201_03133_TODO_04,和成年莫古力對話
-29,TEXT_FESGSC201_03133_TODO_05,向戈德伯特報告
-30,TEXT_FESGSC201_03133_TODO_06,
-31,TEXT_FESGSC201_03133_TODO_07,
-32,TEXT_FESGSC201_03133_TODO_08,
-33,TEXT_FESGSC201_03133_TODO_09,
-34,TEXT_FESGSC201_03133_TODO_10,
-35,TEXT_FESGSC201_03133_TODO_11,
-36,TEXT_FESGSC201_03133_TODO_12,
-37,TEXT_FESGSC201_03133_TODO_13,
-38,TEXT_FESGSC201_03133_TODO_14,
-39,TEXT_FESGSC201_03133_TODO_15,
-40,TEXT_FESGSC201_03133_TODO_16,
-41,TEXT_FESGSC201_03133_TODO_17,
-42,TEXT_FESGSC201_03133_TODO_18,
-43,TEXT_FESGSC201_03133_TODO_19,
-44,TEXT_FESGSC201_03133_TODO_20,
-45,TEXT_FESGSC201_03133_TODO_21,
-46,TEXT_FESGSC201_03133_TODO_22,
-47,TEXT_FESGSC201_03133_TODO_23,
-48,TEXT_FESGSC201_03133_FRIGHTENEDWOMAN03133_000_000,啊——別過來！<hex:02100103>快走開！
-49,TEXT_FESGSC201_03133_FRIGHTENEDWOMAN03133_000_001,啊……對不起，吵到你了吧。<hex:02100103>我剛才在金碟遊樂場看到了很恐怖的東西，<hex:02100103>剛從那裡慌慌張張地逃回來……
-50,TEXT_FESGSC201_03133_FRIGHTENEDWOMAN03133_000_002,我看到了哦……<hex:02100103>有小小的白色的東西在空中飄蕩……<hex:02100103>而且還時隱時現的……真的好可怕啊！
-51,TEXT_FESGSC201_03133_FRIGHTENEDWOMAN03133_000_003,那肯定是輸了九宮幻卡<hex:02100103>或陸行鳥競賽的人們的怨念聚集起來的怨靈！
-52,TEXT_FESGSC201_03133_FRIGHTENEDWOMAN03133_000_004,看你這樣子……難道你是冒險者？<hex:02100103>拜託你了，請驅散那個怨靈！<hex:02100103>要是不能平息騷動，我會太害怕不敢去玩的。
-53,TEXT_FESGSC201_03133_FRIGHTENEDWOMAN03133_000_005,金碟遊樂場的戈德伯特<hex:02100103>也在為了平息事態而忙得不可開交。<hex:02100103>要不你去問問他吧。
-54,TEXT_FESGSC201_03133_FRIGHTENEDWOMAN03133_000_006,要是你沒去過金碟遊樂場的話，<hex:02100103>就和那邊的揮金如土的年輕人談談吧。<hex:02100103>他看上去很大方，應該會給你去金碟遊樂場的票。
-55,TEXT_FESGSC201_03133_SYSTEM_000_007,若要領取或繼續推進本任務，需要在烏爾達哈現世迴廊領取<hex:02100103>15級才能領取的任務「前往遊樂場」。
-56,TEXT_FESGSC201_03133_FRIGHTENEDWOMAN03133_000_007,金碟遊樂場的所有者戈德伯特就在遊樂場裡。<hex:02100103>詳細的情況你要不去問問他吧。
-57,TEXT_FESGSC201_03133_FRIGHTENEDWOMAN03133_000_008,要是你沒去過金碟遊樂場的話，<hex:02100103>就和那邊的揮金如土的年輕人談談吧。<hex:02100103>他看上去很大方，應該會給你去金碟遊樂場的票。
-58,TEXT_FESGSC201_03133_SYSTEM_000_009,若要領取或繼續推進本任務，需要在烏爾達哈現世迴廊領取<hex:02100103>15級才能領取的任務「前往遊樂場」。
-59,TEXT_FESGSC201_03133_GODBERT_000_010,這不是兒子的友人<hex:022903EB0203>閣下嘛！<hex:02100103>你也是趁金碟嘉年華期間來玩的啊！
-60,TEXT_FESGSC201_03133_GODBERT_000_011,這不是塗蠑螈油的高手<hex:022903EB0203>閣下嘛！<hex:02100103>你也是趁金碟嘉年華期間來玩的啊！
-61,TEXT_FESGSC201_03133_GODBERT_000_012,你是位冒險者吧。<hex:02100103>是趁金碟嘉年華期間來玩的嗎？
-62,TEXT_FESGSC201_03133_GODBERT_000_013,不過看你的神情，<hex:02100103>比起來玩，更像是來問我那個詭異的傳聞的呢？
-63,TEXT_FESGSC201_03133_GODBERT_000_014,這可真是雪中送炭。<hex:02100103>正如傳聞一樣，金碟遊樂場現在<hex:02100103>看到了謎之白色物體的說法一個接著一個地冒出來。
-64,TEXT_FESGSC201_03133_GODBERT_000_015,那東西忽隱忽現地讓人沒法搞清楚到底是什麼，<hex:02100103>還有人說看上去長著臉。<hex:02100103>客人和工作人員都很害怕。
-65,TEXT_FESGSC201_03133_GODBERT_000_016,再這樣下去會拉低人們對金碟遊樂場的評價。<hex:02100103>怎麼樣？你願意幫忙查明謎之白色物體的真身嗎？
-66,TEXT_FESGSC201_03133_GODBERT_000_017,我從工作人員那裡打聽到，<hex:02100103>剛才有人在演出廣場看到了那個。<hex:02100103>麻煩你先去那邊打聽一下！
-67,TEXT_FESGSC201_03133_GODBERT_000_018,據說有人在演出廣場看到了謎之白色物體。<hex:02100103>請去打聽一下吧。
-68,TEXT_FESGSC201_03133_LOSER03133_000_020,啊？<hex:02100103>你也在找那個謎之物體嗎？
-69,TEXT_FESGSC201_03133_LOSER03133_000_021,我為了培育競賽陸行鳥花了不少錢……<hex:02100103>要是能抓住那傢伙，賣給馬戲團的話，<hex:02100103>肯定能大賺一筆！
-70,TEXT_FESGSC201_03133_LOSER03133_000_022,我在這找了半天了也沒找到，<hex:02100103>可能已經逃去奇妙廣場了吧。<hex:02100103>喂，你要是找到了的話記得給我分成啊！
-71,TEXT_FESGSC201_03133_LOSER03133_000_023,你去奇妙廣場找找看有沒有其他人目擊到那個謎之物體。
-72,TEXT_FESGSC201_03133_TELBIKESULBI_000_025,謎之白色物體？<hex:02100103>剛才好像有從我眼前飄過去。<hex:02100103>我看那個好像飄去圓形廣場了……
-73,TEXT_FESGSC201_03133_TELBIKESULBI_000_026,比起那個，你有看到我女朋友嗎？<hex:02100103>我們約好在這見面，<hex:02100103>她一直沒來……
-74,TEXT_FESGSC201_03133_TELBIKESULBI_000_027,我看到謎之白色物體<hex:02100103>飄去圓形廣場了。<hex:02100103>好奇的話追上去看看不就行了……
-75,TEXT_FESGSC201_03133_SYSTEM_000_030,發現了兩隻莫古力。<hex:02100103>他們可能就是傳聞中的謎之白色物體。<hex:02100103>去跟他們確認一下吧。
-76,TEXT_FESGSC201_03133_GIRLMOOGLE03133_000_031,這個人一直盯著這邊看好可怕啊庫啵……<hex:02100103>難道<hex:02080DE905FF04>她<hex:FF04>他<hex:03>能看到莫古們？
-77,TEXT_FESGSC201_03133_YOUNGMOOGLE03133_000_040,咿！人類來搭話了庫啵！<hex:02100103>你先走！莫古殿後庫啵！
-78,TEXT_FESGSC201_03133_GIRLMOOGLE03133_000_041,你冷靜點庫啵！<hex:02100103>剛才不是重新施過隱身魔法了嗎庫啵。<hex:02100103><hex:02080DE905FF04>她<hex:FF04>他<hex:03>不可能看得到莫古們的庫啵！
-79,TEXT_FESGSC201_03133_YOUNGMOOGLE03133_000_042,是、是哦庫啵……<hex:02100103>那那個人看向這邊肯定只是偶然而已庫啵！<hex:02100103>嚇死莫古了庫啵。
-80,TEXT_FESGSC201_03133_Q1_000_000,如何搭話？
-81,TEXT_FESGSC201_03133_A1_000_001,看得到哦
-82,TEXT_FESGSC201_03133_A1_000_002,拔了你的絨球哦
-83,TEXT_FESGSC201_03133_YOUNGMOOGLE03133_000_043,庫、庫啵？！<hex:02100103>為什麼你能看到庫啵！
-84,TEXT_FESGSC201_03133_YOUNGMOOGLE03133_000_044,庫啵——！<hex:02100103>饒命啊庫啵噢噢噢噢！
-85,TEXT_FESGSC201_03133_GIRLMOOGLE03133_000_045,你、你該不會是那個能看到莫古們的特別的冒險者庫啵？！<hex:02100103>莫古聽說過好多你的厲害的事跡庫啵！
-86,TEXT_FESGSC201_03133_YOUNGMOOGLE03133_000_046,厲、厲害的人類庫啵！<hex:02100103>那麼厲害的人類有話要問莫古們嗎庫啵？
-87,TEXT_FESGSC201_03133_YOUNGMOOGLE03133_000_047,時隱時現的白色物體庫啵？<hex:02100103>那一定是在說莫古們了庫啵……<hex:02100103>請你聽莫古說庫啵。
-88,TEXT_FESGSC201_03133_YOUNGMOOGLE03133_000_048,莫古們對人類的文化很感興趣，<hex:02100103>所以就跑到正在舉辦嘉年華的金碟遊樂場來約會了庫啵……
-89,TEXT_FESGSC201_03133_YOUNGMOOGLE03133_000_049,（★未使用／削除予定★）
-90,TEXT_FESGSC201_03133_YOUNGMOOGLE03133_000_050,但是莫古們是第一次來這麼熱鬧的地方，太緊張了，<hex:02100103>導致隱身魔法時有時無庫啵……<hex:02100103>結果被好多人看到，嚇了他們一跳，還被他們追趕……
-91,TEXT_FESGSC201_03133_YOUNGMOOGLE03133_000_051,莫古們好害怕，逃了半天才跑到這裡來庫啵。<hex:02100103>這邊人比較少，<hex:02100103>莫古們想重新給自己施隱身魔法庫啵！
-92,TEXT_FESGSC201_03133_GIRLMOOGLE03133_000_052,真是的，被人看到簡直沒法做莫古力了庫啵。
-93,TEXT_FESGSC201_03133_YOUNGMOOGLE03133_000_053,嗚嗚，對不起庫啵……<hex:02100103>莫古們都不知道自己的約會<hex:02100103>搞出了這麼大的事情庫啵。
-94,TEXT_FESGSC201_03133_YOUNGMOOGLE03133_000_054,莫古想向所有者道歉，<hex:02100103>冒險者你能幫忙說明一下嗎？<hex:02100103>莫古們突然在他面前現身肯定會嚇到他的。
-95,TEXT_FESGSC201_03133_YOUNGMOOGLE03133_000_055,遊樂場的所有者戈德伯特先生<hex:02100103>就在入口廣場吧庫啵？<hex:02100103>莫古們先過去了，你也快點過來庫啵！
-96,TEXT_FESGSC201_03133_GODBERT_000_060,<hex:022903EB0203>閣下！<hex:02100103>你找到那個可疑的物體了嗎？
-97,TEXT_FESGSC201_03133_YOUNGMOOGLE03133_000_061,所有者先生！<hex:02100103>請聽莫古們說庫啵！
-98,TEXT_FESGSC201_03133_GODBERT_000_062,嚯？！這是活的莫古力族？！<hex:02100103>第一次見！
-99,TEXT_FESGSC201_03133_GODBERT_000_063,白白的圓圓的，多麼充滿魅力的形狀！<hex:02100103>雕金匠的創作欲正在膨脹！<hex:02100103>總之能先讓我揉一揉嗎？！
-100,TEXT_FESGSC201_03133_GIRLMOOGLE03133_000_064,揉、揉一揉就免了吧庫啵……<hex:02100103>莫古們有事要跟你說庫啵！
-101,TEXT_FESGSC201_03133_YOUNGMOOGLE03133_000_065,這位冒險者告訴莫古們，<hex:02100103>莫古們引起了大騷動庫啵。<hex:02100103>引發騷動真是對不起庫啵……
-102,TEXT_FESGSC201_03133_GODBERT_000_066,原來如此，謎之白色物體就是你們啊！<hex:02100103>別擔心。<hex:02100103>既然知道了原因就沒關係了！
-103,TEXT_FESGSC201_03133_GODBERT_000_067,我會向客人們說明這是金碟嘉年華演出的一部分的！
-104,TEXT_FESGSC201_03133_GODBERT_000_068,而且比起這個，莫古力族來我這金碟遊樂場玩<hex:02100103>作為老闆來說真是無上的光榮！
-105,TEXT_FESGSC201_03133_GODBERT_000_069,我會通知工作人員，讓你們即使隱身也能遊玩的！
-106,TEXT_FESGSC201_03133_YOUNGMOOGLE03133_000_070,太感謝了庫啵！<hex:02100103>莫古剛剛在女伴面前丟了臉，<hex:02100103>現在正好一起再去約會一次庫啵！
-107,TEXT_FESGSC201_03133_YOUNGMOOGLE03133_000_071,能看到莫古的冒險者，莫古有事想拜託庫啵。<hex:02100103>之後請聽聽莫古的請求庫啵！
-108,TEXT_FESGSC201_03133_GODBERT_000_072,那我就先失禮了！<hex:02100103>我去告訴特別紀念品兌換員那邊的工作人員們<hex:02100103>事情已經處理完了！
-109,TEXT_FESGSC201_03133_GODBERT_000_073,大家還請放輕鬆，<hex:02100103>盡情享受金碟嘉年華吧！<hex:02100103>嚯嚯嚯——！
-110,TEXT_FESGSC201_03133_SYSTEM_000_074,可以在特別紀念品兌換員處兌換紀念品了！<hex:02100103>只有在季節活動開放期間才能兌換紀念品。<hex:02100103>詳情請參見官方網站。
-111,TEXT_FESGSC201_03133_GIRLMOOGLE03133_000_080,莫古會在戈德伯特先生面前顯出身影並道歉，<hex:02100103>但在那之前莫古們都想盡量隱藏自己的身影庫啵。<hex:02100103>所以解除隱身魔法的時機很重要呢庫啵。
-112,TEXT_FESGSC201_03133_YOUNGMOOGLE03133_000_081,那個人就是所有者庫啵？<hex:02100103>長得好嚇人庫啵。<hex:02100103>要是他生氣了可怎麼辦庫啵……
+0,"TEXT_FESGSC201_03133_SEQ_00","This dismayed maiden has a horrifying story to tell about the Gold Saucer.<hex:02100103>※This quest is available for a limited time only."
+1,"TEXT_FESGSC201_03133_SEQ_01","Still trembling from her brush with the paranormal, a dismayed maiden tells you the Gold Saucer is now host to spirits from beyond. Fearing such a disturbance could force the establishment to close down, she pleads with you to seek out Godbert Manderville, owner of the Gold Saucer, and lend him your aid to deal with this otherworldly threat.<hex:02100103><hex:02100103>※Please note that you will be unable to complete this quest after the seasonal event has ended. For details, please check the Lodestone."
+2,"TEXT_FESGSC201_03133_SEQ_02","Godbert offers you a warm welcome, but quickly takes note of your grave expression. He wastes no time in telling you what he knows of the apparitions that have taken residence in the Saucer. Though he has yet to attain an accurate description of them, his staff claim they were last seen at Event Square. "
+3,"TEXT_FESGSC201_03133_SEQ_03","A nearby patron, seemingly down on his luck, tells you of his plan to catch, not ghosts, but faeries he claims are hiding in the Saucer. He claims to have seen them heading in the direction of Wonder Square."
+4,"TEXT_FESGSC201_03133_SEQ_04","You find yet another patron whose story is more confusing than the last. He claims to have seen a pair of balloons traversing the halls toward Round Square in a rather lively fashion."
+5,"TEXT_FESGSC201_03133_SEQ_05","As you enter Round Square, you see a most unexpected sight. Not ghosts, faeries, or balloons, but moogles. Perhaps now you can ascertain the truth behind the Gold Saucer's troubles."
+6,"TEXT_FESGSC201_03133_SEQ_06","The moogles were, in fact, the otherworldly creatures that had both patrons and staff in a panic. Taking a keen interest in cultures other than their own, they could not resist the temptation of a festival at the Gold Saucer. They soon rush off to Entrance Square to apologize for the trouble they have caused."
+7,"TEXT_FESGSC201_03133_SEQ_07","You return to Entrance Square, the moogles in tow. Thankfully Godbert is not angry for their presence─far from it. He considers the moogles to be honored guests, and intends to waive away the recent happenings at the Saucer as part of the festival. He then takes his leave to inform the staff of their arrival, so that they may enjoy a day of mirth and merriment."
+8,"TEXT_FESGSC201_03133_SEQ_08",""
+9,"TEXT_FESGSC201_03133_SEQ_09",""
+10,"TEXT_FESGSC201_03133_SEQ_10",""
+11,"TEXT_FESGSC201_03133_SEQ_11",""
+12,"TEXT_FESGSC201_03133_SEQ_12",""
+13,"TEXT_FESGSC201_03133_SEQ_13",""
+14,"TEXT_FESGSC201_03133_SEQ_14",""
+15,"TEXT_FESGSC201_03133_SEQ_15",""
+16,"TEXT_FESGSC201_03133_SEQ_16",""
+17,"TEXT_FESGSC201_03133_SEQ_17",""
+18,"TEXT_FESGSC201_03133_SEQ_18",""
+19,"TEXT_FESGSC201_03133_SEQ_19",""
+20,"TEXT_FESGSC201_03133_SEQ_20",""
+21,"TEXT_FESGSC201_03133_SEQ_21",""
+22,"TEXT_FESGSC201_03133_SEQ_22",""
+23,"TEXT_FESGSC201_03133_SEQ_23",""
+24,"TEXT_FESGSC201_03133_TODO_00","Speak with Godbert."
+25,"TEXT_FESGSC201_03133_TODO_01","Search Event Square for signs of a disturbance."
+26,"TEXT_FESGSC201_03133_TODO_02","Search Wonder Square for signs of a disturbance."
+27,"TEXT_FESGSC201_03133_TODO_03","Survey Round Square at the destination specified for signs of a disturbance."
+28,"TEXT_FESGSC201_03133_TODO_04","Speak to the moogle suitor."
+29,"TEXT_FESGSC201_03133_TODO_05","Report to Godbert."
+30,"TEXT_FESGSC201_03133_TODO_06",""
+31,"TEXT_FESGSC201_03133_TODO_07",""
+32,"TEXT_FESGSC201_03133_TODO_08",""
+33,"TEXT_FESGSC201_03133_TODO_09",""
+34,"TEXT_FESGSC201_03133_TODO_10",""
+35,"TEXT_FESGSC201_03133_TODO_11",""
+36,"TEXT_FESGSC201_03133_TODO_12",""
+37,"TEXT_FESGSC201_03133_TODO_13",""
+38,"TEXT_FESGSC201_03133_TODO_14",""
+39,"TEXT_FESGSC201_03133_TODO_15",""
+40,"TEXT_FESGSC201_03133_TODO_16",""
+41,"TEXT_FESGSC201_03133_TODO_17",""
+42,"TEXT_FESGSC201_03133_TODO_18",""
+43,"TEXT_FESGSC201_03133_TODO_19",""
+44,"TEXT_FESGSC201_03133_TODO_20",""
+45,"TEXT_FESGSC201_03133_TODO_21",""
+46,"TEXT_FESGSC201_03133_TODO_22",""
+47,"TEXT_FESGSC201_03133_TODO_23",""
+48,"TEXT_FESGSC201_03133_FRIGHTENEDWOMAN03133_000_000","Ahhh! Please, stay away!"
+49,"TEXT_FESGSC201_03133_FRIGHTENEDWOMAN03133_000_001","Oh, forgive me, I...I had a rather frightful experience at the Gold Saucer not long ago. Only now have I managed to catch my breath from running."
+50,"TEXT_FESGSC201_03133_FRIGHTENEDWOMAN03133_000_002","As I was making for Wonder Square, I was assaulted by a pair of ghastly white creatures careening down the hallway. I glimpsed them but only for a moment before they vanished into thin air!"
+51,"TEXT_FESGSC201_03133_FRIGHTENEDWOMAN03133_000_003","I'm convinced the place is haunted. No doubt the poor souls of gamblers who lost one too many turns of Cuff-a-Cur."
+52,"TEXT_FESGSC201_03133_FRIGHTENEDWOMAN03133_000_004","Judging by your dress, I take it you're an adventurer, am I right? Please, you must go and purge the Gold Saucer of those spirits. With such frightful specters lurking about, it could spell the end of the establishment as we know it."
+53,"TEXT_FESGSC201_03133_FRIGHTENEDWOMAN03133_000_005","Even as we speak, Lord Manderville is doing all he can to get the situation under control, but I fear he is at his wit's end. You must hurry, before it is too late."
+54,"TEXT_FESGSC201_03133_FRIGHTENEDWOMAN03133_000_006","If you've yet to visit the Gold Saucer, you will need a ticket for admission. Perhaps you could try speaking with that young man over there. He's been gloating of his winnings and seems to be in a generous mood. Perhaps you can persuade him to offer you one."
+55,"TEXT_FESGSC201_03133_SYSTEM_000_007","In order to undertake this quest, you must first complete the quest “It Could Happen to You,” which can be undertaken at level 15."
+56,"TEXT_FESGSC201_03133_FRIGHTENEDWOMAN03133_000_007","Lord Manderville is likely at the Gold Saucer deliberating on how to rid the Gold Saucer of its otherworldly infestation. Please, you must help him."
+57,"TEXT_FESGSC201_03133_FRIGHTENEDWOMAN03133_000_008","If you've yet to visit the Gold Saucer, you will need a ticket for admission. Perhaps you could try speaking with that young man over there. He's been gloating of his winnings and seems to be in a generous mood. Perhaps you can persuade him to offer you one."
+58,"TEXT_FESGSC201_03133_SYSTEM_000_009","In order to undertake this quest, you must first complete the quest “It Could Happen to You,” which can be undertaken at level 15."
+59,"TEXT_FESGSC201_03133_GODBERT_000_010","Well, well, if it isn't my beloved son's faithful companion, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! I presume it was word of our festival that guided your steps to the Gold Saucer?"
+60,"TEXT_FESGSC201_03133_GODBERT_000_011","I remember you. Yes, the <hex:020825E905FF0C>lovely lady<hex:FF14>strapping gentleman<hex:03> with the strong-yet-tender fingers─<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. I presume it was word of our festival that guided your steps to the Gold Saucer?"
+61,"TEXT_FESGSC201_03133_GODBERT_000_012","Ah, an adventurer. And well traveled judging by your garb. I presume it was word of our festival that guided your steps to the Gold Saucer this day?"
+62,"TEXT_FESGSC201_03133_GODBERT_000_013","Hmmm. No, your stern expression would suggest business of some other sort. No doubt it was the rumors of apparitions haunting the Gold Saucer, then."
+63,"TEXT_FESGSC201_03133_GODBERT_000_014","Then perhaps your arrival will mark the end to our misfortune. Indeed, there is truth to the talebearings that brought you here. My staff have reported sightings of strange, ghost-like figures floating about the halls as recently as <hex:020853E3E90C0DFF25><hex:020821E3E90C05FF0F>this afternoon<hex:FF0B>last night<hex:03><hex:FF27><hex:020823E3E90C12FF0D>this morning<hex:FF0F>this afternoon<hex:03><hex:03>."
+64,"TEXT_FESGSC201_03133_GODBERT_000_015","They seem to vanish as quickly as they appear. As such, we have yet to ascertain an accurate description of these supposed spirits. But regardless of their appearance, both my staff and patrons are beside themselves with fright. "
+65,"TEXT_FESGSC201_03133_GODBERT_000_016","These disturbances bode ill for the Gold Saucer. Might I call upon your assistance in sleuthing out the truth behind these sightings?"
+66,"TEXT_FESGSC201_03133_GODBERT_000_017","They were last seen at Event Square, but there seems to be no rhyme nor reason to the comings and goings of these spirits. Tread lightly, my friend. These halls are not as safe as they once were."
+67,"TEXT_FESGSC201_03133_GODBERT_000_018","Whatever it is that stalks the halls of the Gold Saucer, it never lingers about in the same location for long. I would suggest you make haste to Event Square 'ere they vanish again into the aether."
+68,"TEXT_FESGSC201_03133_LOSER03133_000_020","Spirits running about the Gold Saucer? I don't rightly know what they are, but I mean to catch them."
+69,"TEXT_FESGSC201_03133_LOSER03133_000_021","Raising a chocobo for the races exhausted all of my savings, you see. But if I had those flying faeries or whatever they are, I could sell them to make up for my losses and then some."
+70,"TEXT_FESGSC201_03133_LOSER03133_000_022","I've searched everywhere, from the Cuff-a-Curs to the Cactpot cashier counter, and nothing. I had considered giving up, but just as you arrived, I thought I saw something in the hallway here. ...You don't think they've gone off to Wonder Square, do you?"
+71,"TEXT_FESGSC201_03133_LOSER03133_000_023","If you find anything, you won't forget about me, will you? The man who tipped you off to the faeries' whereabouts."
+72,"TEXT_FESGSC201_03133_TELBIKESULBI_000_025","Have I seen anything strange? Well, I thought I saw two white balloons floating down the hall─rather fancifully, mind you─toward Round Square. When I blinked they were gone. Likely my eyes playing tricks on me."
+73,"TEXT_FESGSC201_03133_TELBIKESULBI_000_026","I hate to change the subject, but... What do you think of the fragrance I'm wearing? My companion promised to meet me here, but she's nowhere to be seen! I fear my choice of aroma has driven her away."
+74,"TEXT_FESGSC201_03133_TELBIKESULBI_000_027","<sigh> Oh my dear, sweet, companion. Where ever could she be?"
+75,"TEXT_FESGSC201_03133_SYSTEM_000_030","You eye what appears to be a pair of bickering moogles, the likely cause of panic and distress in the Gold Saucer. Perhaps you should speak with them and see why they have strayed so far from the Shroud."
+76,"TEXT_FESGSC201_03133_GIRLMOOGLE03133_000_031","Hm? If I didn't know better, I'd swear this <hex:02280AFF05>Race<hex:E9480103> was looking right at us. But that's silly. <hex:02080CE905FF04>She<hex:FF03>He<hex:03> couldn't possibly see us... Could <hex:02080CE905FF04>she<hex:FF03>he<hex:03>?"
+77,"TEXT_FESGSC201_03133_YOUNGMOOGLE03133_000_040","Aaahhh! My sweet! This <hex:02280AFF05>Race<hex:E9480103> is looking <hex:021A020203>right<hex:021A020103> at us. What do we do!?"
+78,"TEXT_FESGSC201_03133_GIRLMOOGLE03133_000_041","Settle down, my little pomkin. So long as you stay relaxed, <hex:02080CE905FF04>she<hex:FF03>he<hex:03> can't possibly see us, kupo."
+79,"TEXT_FESGSC201_03133_YOUNGMOOGLE03133_000_042","Yes... Yes, of course, kupo! As if any of these simpletons could possibly detect us. Hahaha."
+80,"TEXT_FESGSC201_03133_Q1_000_000","What will you say?"
+81,"TEXT_FESGSC201_03133_A1_000_001","Actually, I can."
+82,"TEXT_FESGSC201_03133_A1_000_002","This <hex:021A020203>simpleton<hex:021A020103> is about to tear your pom off."
+83,"TEXT_FESGSC201_03133_YOUNGMOOGLE03133_000_043","<gasp> You <hex:021A020203>can<hex:021A020103> see us!?"
+84,"TEXT_FESGSC201_03133_YOUNGMOOGLE03133_000_044","Gaaahhh! I-I didn't mean it. I swear! Please say you'll forgive me. Oh pretty please!"
+85,"TEXT_FESGSC201_03133_GIRLMOOGLE03133_000_045","You must be that adventurer we've heard so much about, with the ability to perceive that which others cannot. "
+86,"TEXT_FESGSC201_03133_YOUNGMOOGLE03133_000_046","Ah! You're <hex:021A020203>that<hex:021A020103> adventurer? Oh my, this is such an honor. What business would the realm's greatest hero have with the likes of us?"
+87,"TEXT_FESGSC201_03133_YOUNGMOOGLE03133_000_047","A pair of white specters appearing and disappearing all about the Gold Saucer? Oh dear, I fear the fault for everyone's fright falls with us. Allow me to explain."
+88,"TEXT_FESGSC201_03133_YOUNGMOOGLE03133_000_048","My sugar plum and I have always had a great interest in the culture of your kind. When I heard about this place, and that it was holding a festival, I could think of no better place to court her."
+89,"TEXT_FESGSC201_03133_YOUNGMOOGLE03133_000_049",""
+90,"TEXT_FESGSC201_03133_YOUNGMOOGLE03133_000_050","But with all these lights, and music, and throngs of people─it was such a shock, we inadvertently made ourselves visible to everyone here. There was screaming and poking─some even tried to catch us like playthings, kupo!"
+91,"TEXT_FESGSC201_03133_YOUNGMOOGLE03133_000_051","We've been blinking about searching for a place to relax, and eventually made our way here."
+92,"TEXT_FESGSC201_03133_GIRLMOOGLE03133_000_052","It was absolutely awful. I've never been so embarrassed."
+93,"TEXT_FESGSC201_03133_YOUNGMOOGLE03133_000_053","Now, now, my little moogleypoo. We had no way of knowing what to expect when we got here."
+94,"TEXT_FESGSC201_03133_YOUNGMOOGLE03133_000_054","I think we'll be fine now, but we really should go and speak with the owner here. Mister Manderville, I think his name was. It may be best if you accompany us, kupo. Lest we cause another unwanted surprise."
+95,"TEXT_FESGSC201_03133_YOUNGMOOGLE03133_000_055","I bet he's back at the entrance, apologizing to his poor guests. Let's hurry and set things straight."
+96,"TEXT_FESGSC201_03133_GODBERT_000_060","You are returned. With some clue as to the source of our troubles, I should hope."
+97,"TEXT_FESGSC201_03133_YOUNGMOOGLE03133_000_061","Ahem. I believe we are the source of the distress you speak of, sir."
+98,"TEXT_FESGSC201_03133_GODBERT_000_062","Moogles! My, what a most unexpected surprise. Let me have a better look at you."
+99,"TEXT_FESGSC201_03133_GODBERT_000_063","Simply marvelous! Milky white fur like pearls, with forms as perfectly round. And your poms. They glow like crimson jewels, yet they seem so soft. If I may, would you permit me to inspect them more closely?"
+100,"TEXT_FESGSC201_03133_GIRLMOOGLE03133_000_064","I would much prefer that you didn't, kupo..."
+101,"TEXT_FESGSC201_03133_YOUNGMOOGLE03133_000_065","This adventurer told us of the confusion we unwittingly caused, and we came to apologize."
+102,"TEXT_FESGSC201_03133_GODBERT_000_066","I see! You are the spirits that allegedly haunt the halls of the Gold Saucer. Knowing now the source of the problem, we need only look around us to see the solution."
+103,"TEXT_FESGSC201_03133_GODBERT_000_067","The likeness of moogles is a common sight here in the Gold Saucer. To say your presence was requested as part of the festival should more than suffice to explain what was seen here today."
+104,"TEXT_FESGSC201_03133_GODBERT_000_068","Misunderstandings aside, it is an honor to have you as guests."
+105,"TEXT_FESGSC201_03133_GODBERT_000_069","I will inform the staff, and see to it you are able to make use of our facilities even should you choose not to reveal yourselves to anyone else."
+106,"TEXT_FESGSC201_03133_YOUNGMOOGLE03133_000_070","Thank you, Mister Manderville, thank you! At last, another chance to woo─Ahem. To work on my aim at the monster toss. Yes, that's it, kupo!"
+107,"TEXT_FESGSC201_03133_YOUNGMOOGLE03133_000_071","Before that, though, I have a favor to ask of you. If it's not too much trouble, of course."
+108,"TEXT_FESGSC201_03133_GODBERT_000_072","I shall leave you three to your merrymaking, then. The staff must be made aware of our special guests."
+109,"TEXT_FESGSC201_03133_GODBERT_000_073","Pray, enjoy the delights of the Gold Saucer to your hearts' content."
+110,"TEXT_FESGSC201_03133_SYSTEM_000_074","You can now purchase seasonal items from the campaign attendant. Please note that you will be unable to do so after the seasonal event has ended. For details, please check the Lodestone."
+111,"TEXT_FESGSC201_03133_GIRLMOOGLE03133_000_080","We won't reveal ourselves until we're absolutely sure it's safe. We don't want any more trouble."
+112,"TEXT_FESGSC201_03133_YOUNGMOOGLE03133_000_081","He's certainly an imposing figure, isn't he? I hope he isn't cross with us, kupo."

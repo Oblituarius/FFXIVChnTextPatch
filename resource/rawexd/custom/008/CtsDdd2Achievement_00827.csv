@@ -2,23 +2,23 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_CTSDDD2ACHIEVEMENT_00827_DD2FORMERLEADER_000_000,你找我這個老頭有什麼事啊？<hex:02100103>我看你現在並不需要老朽說些什麼。
-1,TEXT_CTSDDD2ACHIEVEMENT_00827_DD2FORMERLEADER_000_010,願意接受羅生委託的人就是你啊。<hex:02100103>原來如此，確實是一副英傑之相……<hex:02100103>等你成功挑戰完30層以後，再來找老朽吧。
-2,TEXT_CTSDDD2ACHIEVEMENT_00827_DD2FORMERLEADER_000_020,聽說你打倒了蛭子啊。<hex:02100103>如果你還打算繼續挑戰31層之後的迷宮，<hex:02100103>老朽有事想要拜託給你。
-3,TEXT_CTSDDD2ACHIEVEMENT_00827_DD2FORMERLEADER_000_021,只有到達天之御柱頂層的人才能得到的4種<hex:02100103>真正英雄之證……<hex:02100103>老朽我想親眼看看這些英雄之證。
-4,TEXT_CTSDDD2ACHIEVEMENT_00827_DD2FORMERLEADER_000_022,當然老朽也不會讓你白跑。<hex:02100103>如果你能夠達成老朽我的願望，作為報酬老朽就把我的寶貝給你吧。<hex:02100103>……我可等著你了哦，英雄閣下。
-5,TEXT_CTSDDD2ACHIEVEMENT_00827_DD2FORMERLEADER_000_030,厲害、厲害啊。<hex:02100103>看來你到達天之御柱的頂層了啊。<hex:02100103>像老朽這樣沒能成為英雄的半吊子，真是沒法跟你比啊。
-6,TEXT_CTSDDD2ACHIEVEMENT_00827_DD2FORMERLEADER_000_031,你就趁著這股勢頭，把所有的真正英雄之證集齊後，<hex:02100103>給老朽我看看吧。<hex:02100103>我等著你哦，英雄閣下！
-7,TEXT_CTSDDD2ACHIEVEMENT_00827_SYSTEM_000_032,將<hex:02280BFF05>Item<hex:F25A890103>交給海賊眾的資材負責人，<hex:02100103>可以用來交換4種飾品。
-8,TEXT_CTSDDD2ACHIEVEMENT_00827_SYSTEM_000_033,在持有或者裝備上述全部飾品後，<hex:02100103>和年邁的海盜對話，<hex:02100103>可以獲得成就和特別的道具。
-9,TEXT_CTSDDD2ACHIEVEMENT_00827_DD2FORMERLEADER_000_040,你得到全部的真正英雄之證了啊！<hex:02100103>那麼老朽也遵守約定，將我的寶貝……<hex:02100103>雖然想這麼說，不過看來你的行李已經滿了啊。
-10,TEXT_CTSDDD2ACHIEVEMENT_00827_DD2FORMERLEADER_000_041,等你整理完行李以後，再跟老朽打聲招呼吧？<hex:02100103>你放心，比起之前所等待的時間，<hex:02100103>這點程度的等待根本算不上什麼。
-11,TEXT_CTSDDD2ACHIEVEMENT_00827_SYSTEM_000_042,和年邁的海盜對話，<hex:02100103>要想獲得成就和特別的道具，<hex:02100103>需要背包保留1格以上的空位。
-12,TEXT_CTSDDD2ACHIEVEMENT_00827_DD2FORMERLEADER_000_050,哦哦，你得到全部的真正英雄之證了啊！<hex:02100103>你真是、真是、幹得太好了……<hex:02100103>你的武勇說不定超過了那位典膳！
-13,TEXT_CTSDDD2ACHIEVEMENT_00827_DD2FORMERLEADER_000_051,那麼請你收下報酬。<hex:02100103>這是老朽我的寶貝，也是海賊眾的初代首領得到的，<hex:02100103>並且由代代當過首領的人繼承下來的寶貝。
-14,TEXT_CTSDDD2ACHIEVEMENT_00827_DD2FORMERLEADER_000_052,我的使命就是繼承寶貝之後，等真正的英雄出現時託付給他。<hex:02100103>說白了就是讓出首領的寶座以後，得到的名譽職位。<hex:02100103>沒想到老朽我居然達成了這個使命。
-15,TEXT_CTSDDD2ACHIEVEMENT_00827_DD2FORMERLEADER_000_053,哈哈哈，在老朽我死之前可算有話題跟別人聊聊了。<hex:02100103>感謝你啊，真正的英雄閣下。<hex:02100103>請你收下這個吧。
-16,TEXT_CTSDDD2ACHIEVEMENT_00827_DD2FORMERLEADER_000_060,……嗯，你行李太多了吧？<hex:02100103>現在的狀態沒法拿走寶貝。<hex:02100103>等你整理完行李再來找我吧。
-17,TEXT_CTSDDD2ACHIEVEMENT_00827_DD2FORMERLEADER_000_070,根據只在歷代的首領之間口耳相傳的傳說中所說，<hex:02100103>「典膳驅鬼」的主人公典膳也曾經挑戰過天之御柱的試煉。
-18,TEXT_CTSDDD2ACHIEVEMENT_00827_DD2FORMERLEADER_000_071,只不過，據說這位大英雄雖然到達了頂層，<hex:02100103>但是沒有拿到所有的英雄之證。
-19,TEXT_CTSDDD2ACHIEVEMENT_00827_DD2FORMERLEADER_000_072,究竟因為他是像傳說中的那樣前去驅鬼了，<hex:02100103>還是有別的理由呢……<hex:02100103>這還真是不為人知。
+0,"TEXT_CTSDDD2ACHIEVEMENT_00827_DD2FORMERLEADER_000_000","What's the matter, <hex:02080EE905FF05>lass<hex:FF04>lad<hex:03>? Are you lost?"
+1,"TEXT_CTSDDD2ACHIEVEMENT_00827_DD2FORMERLEADER_000_010","Helping Rasho and that Kyusei fellow, are you? Once you've finished running their errands─and by that I mean conquered the thirtieth floor─you come and see me. Oh? I suppose you're wondering how I'd know a thing like that. Heh! Your little secret isn't as secret as you thought."
+2,"TEXT_CTSDDD2ACHIEVEMENT_00827_DD2FORMERLEADER_000_020","So you've met Hiruko and lived to tell the tale? And you're hungry for more adventures in the tower? In that case, I've a favor to ask."
+3,"TEXT_CTSDDD2ACHIEVEMENT_00827_DD2FORMERLEADER_000_021","I'll bet that Rasho and Kyusei never told you, but there are four treasures that only those who have reached the highest level of Heaven–on–High are fit to own. If I could see them all together, it'd mean the world to me."
+4,"TEXT_CTSDDD2ACHIEVEMENT_00827_DD2FORMERLEADER_000_022","'Course, I wouldn't ask you to bring them to me out of the goodness of your heart, although you seem like the sort that might. I've got a treasure of my own, see, and it's yours if you show me those baubles. I'll be waiting here. Just don't get yourself killed!"
+5,"TEXT_CTSDDD2ACHIEVEMENT_00827_DD2FORMERLEADER_000_030","So you climbed all the way to the top? I guess that makes you more of a warrior than I ever was. Yes, I once tried to scale the tower, but I didn't get as far as you."
+6,"TEXT_CTSDDD2ACHIEVEMENT_00827_DD2FORMERLEADER_000_031","Since you managed to reach the pinnacle, you should be able to lay your hands on the four treasures I mentioned. Once you've got them all, come and see me!"
+7,"TEXT_CTSDDD2ACHIEVEMENT_00827_SYSTEM_000_032","You can exchange empyrean reliquaries for four types of accessories by speaking to the Confederate custodian."
+8,"TEXT_CTSDDD2ACHIEVEMENT_00827_SYSTEM_000_033","If you speak to the cast-off Confederate with all four of these accessories equipped or in your inventory, you will earn an achievement and a rare item."
+9,"TEXT_CTSDDD2ACHIEVEMENT_00827_DD2FORMERLEADER_000_040","What's that you have there? One, two, three, four! All those pretty treasures, but what will you do with this lovely reward I have for you? Unless you plan to jam it where the sun doesn't shine, I suggest you make a bit of space!"
+10,"TEXT_CTSDDD2ACHIEVEMENT_00827_DD2FORMERLEADER_000_041","Considering that you climbed to the top of Heaven–on–High, I'd say making room between all those knickknacks of yours shouldn't be too taxing."
+11,"TEXT_CTSDDD2ACHIEVEMENT_00827_SYSTEM_000_042","To collect your reward, ensure you have sufficient inventory space and speak with the cast-off Confederate once more."
+12,"TEXT_CTSDDD2ACHIEVEMENT_00827_DD2FORMERLEADER_000_050","Ah, the treasures, the treasures! I never thought I'd live to see them all together like this. If you keep up these heroic exploits of yours, you might end up surpassing Tenzen himself!"
+13,"TEXT_CTSDDD2ACHIEVEMENT_00827_DD2FORMERLEADER_000_051","It seems only fitting that I give you one of these. There are but a few in existence and have been passed down from the time of the first Confederate leader. Think of them as marks of honor."
+14,"TEXT_CTSDDD2ACHIEVEMENT_00827_DD2FORMERLEADER_000_052","You see, when the head of the Confederacy relinquishes his seat, he looks after these horns and awaits warriors truly deserving of them."
+15,"TEXT_CTSDDD2ACHIEVEMENT_00827_DD2FORMERLEADER_000_053","I hope you don't mind if I tell your tale to any who'll listen. And here's payment for a fine story. You've earned it."
+16,"TEXT_CTSDDD2ACHIEVEMENT_00827_DD2FORMERLEADER_000_060","But wait just a moment, <hex:02080EE905FF05>lass<hex:FF04>lad<hex:03>. How can you expect to carry it if you're weighed down like a pack horsebird? Come back when you've lightened your burden!"
+17,"TEXT_CTSDDD2ACHIEVEMENT_00827_DD2FORMERLEADER_000_070","Not many people know this, but the great Tenzen is said to have climbed Heaven–on–High."
+18,"TEXT_CTSDDD2ACHIEVEMENT_00827_DD2FORMERLEADER_000_071","The strange thing is, even though he reached the very highest level, he never actually brought all four of the treasures together."
+19,"TEXT_CTSDDD2ACHIEVEMENT_00827_DD2FORMERLEADER_000_072","Whether he had to go and slay some foul beasts elsewhere, nobody knows. One thing's for certain, you managed a feat that not even the legendary Tenzen accomplished! You should be proud."

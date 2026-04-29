@@ -1,0 +1,13 @@
+﻿key,0,1,2,3,4,5,6,7,8,9,10,11
+#,Masculine,Feminine,RSE{M}{Body},RSE{M}{Hands},RSE{M}{Legs},RSE{M}{Feet},RSE{F}{Body},RSE{F}{Hands},RSE{F}{Legs},RSE{F}{Feet},,ExPac
+offset,0,4,,,,,,,,,,
+int32,str,str,Item,Item,Item,Item,Item,Item,Item,Item,byte,ExVersion
+0,,,,,,,,,,,0,
+1,Hyur,Hyur,,Guantes hyur,Braies hyur,Cuissardes hyur,Camisola hyur,Mitones hyur,Falda hyur,Botas largas hyur,2,Un Reino Renacido
+2,Elezen,Elezen,,Guantes elezen,Braccae elezen,Botas militares elezen,Vestido elezen,Mitones elezen,Mallas elezen,Zapatos elezen,2,Un Reino Renacido
+3,Lalafell,Lalafell,,Muñequeras lalafell,Gregüescos lalafell,Botines lalafell,Caftán lalafell,Muñequeras lalafell,Bombachos lalafell,Botines lalafell,1,Un Reino Renacido
+4,Miqo'te,Miqo'te,,Guanteletes miqo'te,Zaragüelles miqo'te,Botas largas miqo'te,Vestidura miqo'te,Guantes miqo'te,Taparrabos miqo'te,Zapatos miqo'te,2,Un Reino Renacido
+5,Roegadyn,Roegadyn,,Brazales roegadyn,Braies roegadyn,Botas roegadyn,Corpiño roegadyn,Braceras roegadyn,Correas roegadyn,Sandalias roegadyn,3,Un Reino Renacido
+6,Au Ra,Au Ra,,Braceras auri,Braies auri,Sandalias auri,Cubrepecho auri,Mitones auri,Pantaletas auri,Borceguí auri,2,Hacia el Firmamento
+7,Hrothgar,Hrothgar,,Muñequeras hrothgar,Subligar hrothgar,Sandalias hrothgar,Chaleco hrothgar,Brazales hrothgar,Mallas hrothgar,Cáligas hrothgar,3,Portadores de las Sombras
+8,Viera,Viera,,Braceras viera,Gregüescos viera,Escarpes viera,Envoltura viera,Brazaletes viera,Pantaletas viera,Sandalias viera,2,Portadores de las Sombras

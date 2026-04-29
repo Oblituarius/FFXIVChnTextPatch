@@ -2,97 +2,97 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_STMBDD105_03074_SEQ_00,歸燕館的飛燕準備啟程參加儀式。
-1,TEXT_STMBDD105_03074_SEQ_01,交換儀式終於要開始了。為了前往舉辦儀式的帝國河畔堡設施，和延夏無二江流域的海賊眾的船頭談談。
-2,TEXT_STMBDD105_03074_SEQ_02,在海賊眾的船頭的帶領下來到了帝國河畔堡的設施，準備進行交換儀式。如果離開了設施，延夏無二江流域的海賊眾的船頭可以帶領冒險者重返帝國河畔堡的設施。
-3,TEXT_STMBDD105_03074_SEQ_03,恢復記憶的夜露出現在了交換儀式上。她利用手中的神器與藏在貨箱中的水晶，將夜神月讀請到了自己身上。為了俘虜們能平安回家，討伐夜神月讀。<hex:02100103><hex:02100103>※可以通過任務搜尋器參加。
-4,TEXT_STMBDD105_03074_SEQ_04,戰勝了月讀。和帝國河畔堡設施的同伴們匯合。
-5,TEXT_STMBDD105_03074_SEQ_05,召喚了月讀的夜露使用最後的力量誅殺朝陽後斷氣。冒險者通過超越之力發現已死的芝諾斯居然出現在帝國。阿爾菲諾懷疑是有無影在帝國活動，隨同馬克西馬遠赴帝國。和帝國河畔堡設施的飛燕談談。
-6,TEXT_STMBDD105_03074_SEQ_06,和飛燕交談後返回了多瑪飛地。見證返鄉士兵們與家人團聚。
-7,TEXT_STMBDD105_03074_SEQ_07,分享了士兵們與家人團聚的喜悅。豪雪落髮為僧，獨自出發去雲遊各地，欲為所有逝去的犧牲者祈福。和多瑪飛地的飛燕談談。
-8,TEXT_STMBDD105_03074_SEQ_08,飛燕想正式向大家道謝。和歸燕館的飛燕談談。
-9,TEXT_STMBDD105_03074_SEQ_09,飛燕感謝了大家此番對多瑪的幫助。雖然夜露斃命、豪雪離去，但他相信露兒與豪雪共度了一段溫馨幸福的時光……
-10,TEXT_STMBDD105_03074_SEQ_10,
-11,TEXT_STMBDD105_03074_SEQ_11,
-12,TEXT_STMBDD105_03074_SEQ_12,
-13,TEXT_STMBDD105_03074_SEQ_13,
-14,TEXT_STMBDD105_03074_SEQ_14,
-15,TEXT_STMBDD105_03074_SEQ_15,
-16,TEXT_STMBDD105_03074_SEQ_16,
-17,TEXT_STMBDD105_03074_SEQ_17,
-18,TEXT_STMBDD105_03074_SEQ_18,
-19,TEXT_STMBDD105_03074_SEQ_19,
-20,TEXT_STMBDD105_03074_SEQ_20,
-21,TEXT_STMBDD105_03074_SEQ_21,
-22,TEXT_STMBDD105_03074_SEQ_22,
-23,TEXT_STMBDD105_03074_SEQ_23,
-24,TEXT_STMBDD105_03074_TODO_00,和無二江流域的海賊眾的船頭對話
-25,TEXT_STMBDD105_03074_TODO_01,和無二江流域的海賊眾的船頭對話
-26,TEXT_STMBDD105_03074_TODO_02,討伐蠻神月讀
-27,TEXT_STMBDD105_03074_TODO_03,討伐蠻神月讀
-28,TEXT_STMBDD105_03074_TODO_04,和飛燕對話
-29,TEXT_STMBDD105_03074_TODO_05,和飛燕對話
-30,TEXT_STMBDD105_03074_TODO_06,和多瑪飛地的飛燕對話
-31,TEXT_STMBDD105_03074_TODO_07,和歸燕館的飛燕對話
-32,TEXT_STMBDD105_03074_TODO_08,
-33,TEXT_STMBDD105_03074_TODO_09,
-34,TEXT_STMBDD105_03074_TODO_10,
-35,TEXT_STMBDD105_03074_TODO_11,
-36,TEXT_STMBDD105_03074_TODO_12,
-37,TEXT_STMBDD105_03074_TODO_13,
-38,TEXT_STMBDD105_03074_TODO_14,
-39,TEXT_STMBDD105_03074_TODO_15,
-40,TEXT_STMBDD105_03074_TODO_16,
-41,TEXT_STMBDD105_03074_TODO_17,
-42,TEXT_STMBDD105_03074_TODO_18,
-43,TEXT_STMBDD105_03074_TODO_19,
-44,TEXT_STMBDD105_03074_TODO_20,
-45,TEXT_STMBDD105_03074_TODO_21,
-46,TEXT_STMBDD105_03074_TODO_22,
-47,TEXT_STMBDD105_03074_TODO_23,
-48,TEXT_STMBDD105_03074_ALISAIE_000_000,阿爾菲諾那邊好像也完成調查了，<hex:02100103>不過他看起來有點魂不守舍，不知道是什麼原因。
-49,TEXT_STMBDD105_03074_ALPHINAUD_000_001,帝國的設施裡果然空無一人，<hex:02100103>調、調查撤離路線時沒有遇到什麼阻礙。
-50,TEXT_STMBDD105_03074_YUGIRI_000_002,被遺棄的無人設施非常陰森。<hex:02100103>阿爾菲諾閣下看起來精神狀態不太好……是在下的錯覺嗎？
-51,TEXT_STMBDD105_03074_KIENKANGATEKEEPER03028_100_003,要進飛燕大人的歸燕館嗎？
-52,TEXT_STMBDD105_03074_EVENTAREA_WARP_100_004,要進入歸燕館嗎？
-53,TEXT_STMBDD105_03074_HIEN_000_010,現在準備工作都已完成。<hex:02100103>我方俘虜的帝國兵會由白狼押送過去。
-54,TEXT_STMBDD105_03074_HIEN_000_011,我們先行出發，去河畔堡附近的河岸和海賊眾的小船匯合吧。
-55,TEXT_STMBDD105_03074_HIEN_000_015,交換儀式就在河對岸的那座設施裡舉行。<hex:02100103>是時候看看帝國的大使閣下究竟有什麼陰謀了……
-56,TEXT_STMBDD105_03074_ALPHINAUD_000_016,摸不清朝陽的陰謀確實是個問題，<hex:02100103>但我方的準備很周全，你也無需太過擔心。
-57,TEXT_STMBDD105_03074_ALISAIE_000_017,不管朝陽用出什麼手段，我們都不會讓他輕易得逞的。
-58,TEXT_STMBDD105_03074_YUGIRI_000_018,無論發生什麼，在下都一定會將俘虜們平安帶回來，<hex:02100103>完成主公心願。
-59,TEXT_STMBDD105_03074_RASHO_000_019,儀式終於要開始了。<hex:02100103>我派了湛水去擔任關船的船頭。
-60,TEXT_STMBDD105_03074_BOATMAN03074_000_020,恭候多時，諸位人都到齊了吧。
-61,TEXT_STMBDD105_03074_HIEN_000_021,嗯，我最後再重申一次。<hex:02100103>交換儀式在河對岸的設施舉行。<hex:02100103>帝國的大使恐怕會耍一些手段。
-62,TEXT_STMBDD105_03074_HIEN_100_021,但我們無論如何也要將多瑪的士兵們全都平安接回家。<hex:02100103>如果朝陽真的撕破了臉，夕霧……帶人撤離的任務就交給你了！
-63,TEXT_STMBDD105_03074_YUGIRI_000_022,遵命！
-64,TEXT_STMBDD105_03074_ALPHINAUD_000_023,我們拂曉也會傾力協助。
-65,TEXT_STMBDD105_03074_RASHO_000_024,關船會停在設施的運貨口待機。<hex:02100103>不論發生什麼都一定將人送到多瑪飛地。
-66,TEXT_STMBDD105_03074_HIEN_000_025,嗯，拜託了。<hex:02100103>那麼各位，不要放鬆警惕，我們出發！
-67,TEXT_STMBDD105_03074_BOATMAN03074_000_026,要前往河對岸的帝國河畔堡設施嗎？
-68,TEXT_STMBDD105_03074_EVENTAREA_WARP_000_027,要前往帝國河畔堡設施嗎？
-69,TEXT_STMBDD105_03074_ALISAIE_000_030,阿爾菲諾可真是的……<hex:02100103>有了自己想法之後別人怎麼勸都聽不進去……<hex:02100103>這點跟我一模一樣……
-70,TEXT_STMBDD105_03074_YUGIRI_000_031,豪雪不顧病情趕來，不想見到的卻是夜露的屍體……<hex:02100103>在下愚鈍，實在想不出該說些什麼安慰他。
-71,TEXT_STMBDD105_03074_GOSETSU_000_032,（★未使用／削除予定★）
-72,TEXT_STMBDD105_03074_HIEN_000_040,真沒想到朝陽的陰謀居然是召喚蠻神。<hex:02100103>還好有你在，感謝你出面擊敗了蠻神！
-73,TEXT_STMBDD105_03074_HIEN_000_041,而且夜露居然親自進行了請神……<hex:02100103>豪雪離開時異常沉默，不過想想他的心情，也是沒有辦法的事。
-74,TEXT_STMBDD105_03074_YUGIRI_100_041,豪雪划著自己來時乘的小船回多瑪飛地了。<hex:02100103>俘虜大部分都已經乘著海賊眾的關船撤離，<hex:02100103>剩下少數沒趕上的人正在河岸等待。
-75,TEXT_STMBDD105_03074_HIEN_000_042,好，我們跟剩下的那些人一起返回多瑪飛地，<hex:02100103>共同分享家人團聚的喜悅吧。
-76,TEXT_STMBDD105_03074_ALISAIE_000_045,豪雪的離去讓大家很是傷感。<hex:02100103>對了，海賊眾那個見習船匠的父親也平安回來了，<hex:02100103>你要不要去打個招呼？
-77,TEXT_STMBDD105_03074_YUGIRI_000_046,豪雪的光頭實在有些出人意料，<hex:02100103>不過如此乾脆的退隱方式確實很有他的風範。<hex:02100103>在下會努力填補上他離開後的空缺……
-78,TEXT_STMBDD105_03074_IHANASHI_000_047,你是與飛燕大人一起幫忙檢查關船的那位吧？<hex:02100103>托你的福，我的父親平安回來了！
-79,TEXT_STMBDD105_03074_IHANASHI_000_048,而且頭兒還同意讓我退出海賊眾……<hex:02100103>今後我要和父親一起在多瑪生活！<hex:02100103>幸福來得太突然，簡直像是做夢一樣……
-80,TEXT_STMBDD105_03074_HIEN_000_050,豪雪他……走了……
-81,TEXT_STMBDD105_03074_HIEN_000_051,這次也多虧了有你幫忙。<hex:02100103>請來歸燕館一敘吧，我想正式向你道謝。
-82,TEXT_STMBDD105_03074_ALISAIE_000_055,這下多瑪算是穩定下來了。<hex:02100103>得將發生的這些事情都告訴同伴們才行。
-83,TEXT_STMBDD105_03074_YUGIRI_000_056,對主公來說，豪雪是自己的劍術導師，一路陪伴著自己長大。<hex:02100103>雖然主公臉上笑著與豪雪道了別，<hex:02100103>但他藏在心中的感情無人能夠看穿。
-84,TEXT_STMBDD105_03074_HIEN_000_060,在諸位的鼎力相助下，俘虜們平安回到了故鄉，<hex:02100103>多瑪的重建也將迎來一波新的熱潮。<hex:02100103>真是萬分感謝。
-85,TEXT_STMBDD105_03074_HIEN_000_061,朝陽背後那個冒充芝諾斯的人不知還會有什麼動作，<hex:02100103>不過這件事還是先等阿爾菲諾傳回消息後再議吧。<hex:02100103>眼下我準備好好興建這個國家，不能讓豪雪失望。
-86,TEXT_STMBDD105_03074_HIEN_000_062,豪雪他現在離開了，有一件事我也不必再做隱瞞。<hex:02100103>其實他之所以那麼護著失憶的夜露……
-87,TEXT_STMBDD105_03074_HIEN_000_063,是因為25年前豪雪在帝國的侵略中失去了自己的妻子和女兒。<hex:02100103>他從失憶的夜露身上看到了自己女兒的影子。
-88,TEXT_STMBDD105_03074_HIEN_000_064,失去妻女後，豪雪將自己的一切都奉獻給了國家，<hex:02100103>燃盡了全部的精神與力量……
-89,TEXT_STMBDD105_03074_HIEN_000_066,雖然並沒有將露兒當成豪雪女兒替代品的意思，<hex:02100103>但我真的希望豪雪能夠在露兒的陪伴下在多瑪安度餘生……
-90,TEXT_STMBDD105_03074_YUGIRI_000_067,如果說夜露的死是天命所歸……<hex:02100103>那為什麼老天之前又要放過她一次，讓她失去記憶？
-91,TEXT_STMBDD105_03074_HIEN_000_068,我想不明白……<hex:02100103>老天爺的想法不是我一介凡人能夠猜得到的……
-92,TEXT_STMBDD105_03074_HIEN_000_069,不過我能夠斷言，<hex:02100103>雖然時間短暫，但名為露兒的女孩確實存在過。
-93,TEXT_STMBDD105_03074_HIEN_000_070,而豪雪則是和露兒一起度過了一段溫馨幸福的時光……
+0,"TEXT_STMBDD105_03074_SEQ_00","Hien is ready to proceed with the prisoner exchange."
+1,"TEXT_STMBDD105_03074_SEQ_01","Satisfied that all possible precautions have been taken, Hien declares that it is time to proceed with the prisoner exchange. Meet with your Confederate allies on the bank of the One River."
+2,"TEXT_STMBDD105_03074_SEQ_02","Determined to bring the conscripts home come what may, Hien goes through the contingency plan one last time. Roles confirmed, your party boards the Confederate ship, and you cast off for the imposing structure across the water...<hex:02100103><hex:02100103>※In the event that you leave Castrum Fluminis, you may re-enter by speaking with the Confederate skipper in the Glittering Basin in Yanxia."
+3,"TEXT_STMBDD105_03074_SEQ_03","At Castrum Fluminis, you meet with the Populares delegation, and as Hien and Asahi set about trading pleasantries, you wonder for a moment if your apprehension was unwarranted...only for Yotsuyu to appear. Declaring her intent to rule over Doma once more, she holds aloft a Kojin relic, and begins to draw upon crystals hidden within the surrounding supply crates, transforming at last into the primal Tsukuyomi.<hex:02100103><hex:02100103>With no hope of besting such a foe, Hien ruefully turns his attention to evacuating the Doman conscripts, leaving you to face Yotsuyu's vengeful avatar alone. Put Tsuyu from your mind, and strike true, for if you hesitate, Doma may never again see the light of day.<hex:02100103><hex:02100103>※Castrum Fluminis can be accessed via the Duty Finder."
+4,"TEXT_STMBDD105_03074_SEQ_04","Yotsuyu lies humbled at your feet, bereft of her celestial majesty. Rejoin your companions and discuss what is to be done with her."
+5,"TEXT_STMBDD105_03074_SEQ_05","Before you have even registered his presence, Asahi appears behind your defeated foe and shoots her in cold blood, seemingly bent on finishing what you began. His triumph is short-lived, however, as Yotsuyu summons the last of her strength to run her hated stepbrother through. While the youth lies dying, you are treated to a vision of an encounter with Zenos, and are disturbed to see the “late” crown prince injured but very much alive.<hex:02100103><hex:02100103>Even as you ponder how to break the news of this troubling development, Maxima hails Lord Hien from afar, and for a moment it seems that the battle is not over. But to the relief of all present, it soon becomes clear that he has come to trade words and not blows. In the ensuing exchange, the acting ambassador declares his intention to honor the original agreement between Doma and the Empire, while confirming your worst fears: Zenos is alive. Suspecting Ascian involvement, Alphinaud offers to accompany Maxima back to Garlemald, and he duly accepts. And so you bid them farewell, your relief at salvaging a chance for peace tempered by a sense of deep foreboding..."
+6,"TEXT_STMBDD105_03074_SEQ_06","Though Hien expected treachery, he is nevertheless stunned that Asahi would resort to summoning. After thanking you for delivering Doma from the wrath of Yotsuyu's avenging primal, he makes for the sekibune, eager to escort the conscripts across the river and into the arms of their long-lost loved ones."
+7,"TEXT_STMBDD105_03074_SEQ_07","Upon your return to the enclave, thoughts of Zenos's resurrection and untold Ascian devilment are briefly banished by scenes of joyous reunion. You are further distracted by the appearance of a shaven-headed Gosetsu, apparently resolved to devote his remaining days to pilgrimage. And just like that, you find yourself bidding farewell to yet another companion. Feeling somewhat bereft, you turn to see Hien standing before the Kienkan, staring into the distance after his departed friend..."
+8,"TEXT_STMBDD105_03074_SEQ_08","Hien bids you join him in his hall, that he might express his gratitude with all due ceremony."
+9,"TEXT_STMBDD105_03074_SEQ_09","In time-honored fashion, you stand before Doma's young lord and smile as he thanks you with a bow on behalf of his people. Then, formalities observed, his manner softens, and he proceeds to share his thoughts on how Gosetsu came to show the broken Yotsuyu such kindness. Though the old samurai is forever changed and Tsuyu now no more than a memory, Hien concludes that their time together, however brief, offered a priceless respite from the bitterness of life."
+10,"TEXT_STMBDD105_03074_SEQ_10",""
+11,"TEXT_STMBDD105_03074_SEQ_11",""
+12,"TEXT_STMBDD105_03074_SEQ_12",""
+13,"TEXT_STMBDD105_03074_SEQ_13",""
+14,"TEXT_STMBDD105_03074_SEQ_14",""
+15,"TEXT_STMBDD105_03074_SEQ_15",""
+16,"TEXT_STMBDD105_03074_SEQ_16",""
+17,"TEXT_STMBDD105_03074_SEQ_17",""
+18,"TEXT_STMBDD105_03074_SEQ_18",""
+19,"TEXT_STMBDD105_03074_SEQ_19",""
+20,"TEXT_STMBDD105_03074_SEQ_20",""
+21,"TEXT_STMBDD105_03074_SEQ_21",""
+22,"TEXT_STMBDD105_03074_SEQ_22",""
+23,"TEXT_STMBDD105_03074_SEQ_23",""
+24,"TEXT_STMBDD105_03074_TODO_00","Speak with the Confederate skipper in the Glittering Basin."
+25,"TEXT_STMBDD105_03074_TODO_01","Speak with the Confederate skipper in the Glittering Basin."
+26,"TEXT_STMBDD105_03074_TODO_02","Confront Tsukuyomi in Castrum Fluminis."
+27,"TEXT_STMBDD105_03074_TODO_03","Confront Tsukuyomi in Castrum Fluminis."
+28,"TEXT_STMBDD105_03074_TODO_04","Speak with Hien."
+29,"TEXT_STMBDD105_03074_TODO_05","Speak with Hien."
+30,"TEXT_STMBDD105_03074_TODO_06","Speak with Hien at the Doman Enclave."
+31,"TEXT_STMBDD105_03074_TODO_07","Speak with Hien."
+32,"TEXT_STMBDD105_03074_TODO_08",""
+33,"TEXT_STMBDD105_03074_TODO_09",""
+34,"TEXT_STMBDD105_03074_TODO_10",""
+35,"TEXT_STMBDD105_03074_TODO_11",""
+36,"TEXT_STMBDD105_03074_TODO_12",""
+37,"TEXT_STMBDD105_03074_TODO_13",""
+38,"TEXT_STMBDD105_03074_TODO_14",""
+39,"TEXT_STMBDD105_03074_TODO_15",""
+40,"TEXT_STMBDD105_03074_TODO_16",""
+41,"TEXT_STMBDD105_03074_TODO_17",""
+42,"TEXT_STMBDD105_03074_TODO_18",""
+43,"TEXT_STMBDD105_03074_TODO_19",""
+44,"TEXT_STMBDD105_03074_TODO_20",""
+45,"TEXT_STMBDD105_03074_TODO_21",""
+46,"TEXT_STMBDD105_03074_TODO_22",""
+47,"TEXT_STMBDD105_03074_TODO_23",""
+48,"TEXT_STMBDD105_03074_ALISAIE_000_000","Alphinaud tells me they had little trouble finding a suitable route out of the castrum, but he won't say much more than that. If I didn't know better, I'd think he was hiding something...though I can't imagine what."
+49,"TEXT_STMBDD105_03074_ALPHINAUD_000_001","The castrum was deserted. Quite deserted. 'Twas a simple matter to plot the surest path out. H-Hence our swiftness."
+50,"TEXT_STMBDD105_03074_YUGIRI_000_002","We found the castrum's tower unoccupied, and betraying no signs of recent activity. Only shadows and echoes awaited us there. Alphinaud seemed oddly reluctant to linger, but I saw naught to concern us."
+51,"TEXT_STMBDD105_03074_KIENKANGATEKEEPER03028_100_003","Lord Hien is expecting you. May I show you in?"
+52,"TEXT_STMBDD105_03074_EVENTAREA_WARP_100_004","Enter the Kienkan?"
+53,"TEXT_STMBDD105_03074_HIEN_000_010","While we were putting our contingency plans in place, I left Hakuro in charge of organizing transport for the imperial prisoners."
+54,"TEXT_STMBDD105_03074_HIEN_000_011","He will see they arrive at the appointed hour, leaving us free to rendezvous with our Confederate allies. Come, they await us on the riverbank not far from the castrum."
+55,"TEXT_STMBDD105_03074_HIEN_000_015","The tower rather spoils the view across the river, does it not. I concede, we might perhaps have chosen a less ominous place to conduct the exchange..."
+56,"TEXT_STMBDD105_03074_ALPHINAUD_000_016","Would that we had some hint as to the ambassador's intentions...<hex:02100103>Had we not prepared for the worst, I should be wary of going through with this at all."
+57,"TEXT_STMBDD105_03074_ALISAIE_000_017","No matter what Asahi throws at us, we cannot let that monster have his way."
+58,"TEXT_STMBDD105_03074_YUGIRI_000_018","My only concern is the safe return of our people. That is what my lord wishes, and that is what shall be done."
+59,"TEXT_STMBDD105_03074_RASHO_000_019","Do not worry about the ship. It will be where it needs to be. And with Tansui at the helm."
+60,"TEXT_STMBDD105_03074_BOATMAN03074_000_020","Your party is assembled, then?"
+61,"TEXT_STMBDD105_03074_HIEN_000_021","Aye, and ready for what lies ahead, I trust. Lest there be any confusion, though... The tower across the water is to be the scene of the exchange─that, and whatever else Asahi has planned."
+62,"TEXT_STMBDD105_03074_HIEN_100_021","But regardless of the ambassador's intentions, we <hex:021A020203>will<hex:021A020103> bring our people home. Yugiri─you are to evacuate the conscripts at the first sign of trouble."
+63,"TEXT_STMBDD105_03074_YUGIRI_000_022","Yes, my lord."
+64,"TEXT_STMBDD105_03074_ALPHINAUD_000_023","We, meanwhile, shall cover their escape, and lend what support we can."
+65,"TEXT_STMBDD105_03074_RASHO_000_024","Your ship awaits you at the castrum's loading docks. She will see you safely home."
+66,"TEXT_STMBDD105_03074_HIEN_000_025","Then all stand ready to play their part. Come! Let us be about it!"
+67,"TEXT_STMBDD105_03074_BOATMAN03074_000_026","Are you ready to depart for the castrum, <hex:02080FE905FF06>madam<hex:FF04>sir<hex:03>?"
+68,"TEXT_STMBDD105_03074_EVENTAREA_WARP_000_027","Travel to Castrum Fluminis?"
+69,"TEXT_STMBDD105_03074_ALISAIE_000_030","Ah, Alphinaud...you impulsive fool.<hex:02100103>I thought about trying to talk him out of it, but I know what I would say if the roles were reversed. Stubbornness is something of a family trait."
+70,"TEXT_STMBDD105_03074_YUGIRI_000_031","Gosetsu dragged himself here from his sickbed, only to be greeted by the sight of Yotsuyu's corpse. I had not the words to comfort him..."
+71,"TEXT_STMBDD105_03074_GOSETSU_000_032",""
+72,"TEXT_STMBDD105_03074_HIEN_000_040","I knew Asahi was planning some manner of treachery, but a <hex:021A020203>summoning<hex:021A020103>...? Thank the kami you were here, my friend. None of us would have escaped Yotsuyu's vengeance had you not intervened."
+73,"TEXT_STMBDD105_03074_HIEN_000_041","She was a pawn, aye, but she still had a choice, and she chose to submit to the ambassador's plan. 'Tis little wonder Gosetsu departed in silence."
+74,"TEXT_STMBDD105_03074_YUGIRI_100_041","I gather he left the same way he came: alone aboard a rowing boat. As for the conscripts, most made it to the sekibune before the battle began in earnest, but the vessel yet waits on the riverbank for those who did not flee in time."
+75,"TEXT_STMBDD105_03074_HIEN_000_042","Then I suggest we put this doleful place behind us, and make for the enclave together. 'Twould be a shame to miss the joyous reunion!"
+76,"TEXT_STMBDD105_03074_ALISAIE_000_045","It will be far too quiet without Gosetsu around. I wonder if we'll ever see him again...<hex:02100103>Oh, speaking of reunions, have you spoken with Ihanashi? It turns out his father <hex:021A020203>was<hex:021A020103> among the returning conscripts."
+77,"TEXT_STMBDD105_03074_YUGIRI_000_046","Gosetsu relinquished his duties with a grace befitting a samurai lord. I only hope that I can fill the void which he has left behind..."
+78,"TEXT_STMBDD105_03074_IHANASHI_000_047","Thank the kami you spotted that cracked plank! That ship ended up bringing my father home!"
+79,"TEXT_STMBDD105_03074_IHANASHI_000_048","And the captain said─ Well, let's just say I'm not a pirate anymore. I'm going to live in Doma with my father. We're free!"
+80,"TEXT_STMBDD105_03074_HIEN_000_050","Ah, Gosetsu... Fair journey to you, my friend."
+81,"TEXT_STMBDD105_03074_HIEN_000_051","A bittersweet occasion...but there is yet ample cause to be grateful! Pray join us in the Kienkan. I would thank you properly."
+82,"TEXT_STMBDD105_03074_ALISAIE_000_055","With all of that out of the way, Doma <hex:021A020203>should<hex:021A020103> be able to look forward to a period of relative calm. As for us...well, we have an intriguing story to tell everyone back at the Rising Stones."
+83,"TEXT_STMBDD105_03074_YUGIRI_000_056","Lord Hien trained under Gosetsu from the day he was old enough to hold a sword. Though he smiled through all the farewells, none will feel his absence more keenly."
+84,"TEXT_STMBDD105_03074_HIEN_000_060","Our brothers and sisters are returned to us, and the dream of Doma's restoration is that much closer to being realized. It is a day that will live long in memory, and one that would never have dawned without the courageous actions of the Scions. On behalf of Doma and her people, we give you our deepest thanks."
+85,"TEXT_STMBDD105_03074_HIEN_000_061","Lest you think me complacent, I assure you, I have not forgotten the dark cloud on the horizon. That Zenos lives is a source of grave concern─mayhap the gravest─yet there is little to be done but wait for Alphinaud to send word. Until then, I plan to devote myself to fulfilling the promise I made to Gosetsu, by building a nation in which none need live in fear."
+86,"TEXT_STMBDD105_03074_HIEN_000_062","<sigh> I confess, I miss him already. But the thought that he has at last found peace goes some way to softening the blow.<hex:02100103>I wonder, did you ever stop to ask yourself why he showed Yotsuyu such kindness?"
+87,"TEXT_STMBDD105_03074_HIEN_000_063","I believe the answer lies in past tragedy─specifically, the death of his wife and daughter during the invasion. Though he hid it well, they were never far from his thoughts, and in Yotsuyu's childlike mien, I believe he saw not a fallen tyrant, but the little girl who was lost to him."
+88,"TEXT_STMBDD105_03074_HIEN_000_064","After the loss of his family, Gosetsu devoted himself wholly to the service of his country. He suffered any hardship, strove beyond the limits of endurance without hesitation or complaint."
+89,"TEXT_STMBDD105_03074_HIEN_000_066","Though Tsuyu could never truly replace his daughter, I had hoped that with her at his side, he might live out the remainder of his days in relative contentment..."
+90,"TEXT_STMBDD105_03074_YUGIRI_000_067","Would that the kami had been so minded. Even now, I labor to discern any meaning in Yotsuyu's fate. To deliver her from certain death, with no memory of her sins, only to leave her at the mercy of her stepbrother? Can that truly have been their will?"
+91,"TEXT_STMBDD105_03074_HIEN_000_068","That I cannot tell you. The will of the kami is not for us to know."
+92,"TEXT_STMBDD105_03074_HIEN_000_069","But what I <hex:021A020203>do<hex:021A020103> know is that for a brief moment, a girl known as “Tsuyu” lived among us..."
+93,"TEXT_STMBDD105_03074_HIEN_000_070","...And that she brought with her a whisper of respite for a grieving heart."

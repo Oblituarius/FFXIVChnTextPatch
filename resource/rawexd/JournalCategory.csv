@@ -1,136 +1,136 @@
-﻿key,0
-#,Name
-offset,0
-int32,str
-0,無效分類
-1,重生之境主線任務
-2,第七星曆主線任務
-3,蒼穹之禁城主線任務
-4,龍詩戰爭終章主線任務
-5,龍詩戰爭尾聲主線任務
-6,紅蓮之狂潮主線任務
-7,解放戰爭戰後主線任務
-8,暗影之逆焰主線任務
-9,拂曉回歸主線任務
-10,末日序曲主線任務
-11,曉月之終途主線任務
-12,嶄新的冒險主線任務
-13,金曦之遺輝主線任務
-14,金曦之遺輝終章主線任務
-15,凌冬會的密謀主線任務
-16,第七星曆編年史：蠻神
-17,第七星曆編年史：巴哈姆特
-18,第七星曆編年史：水晶塔
-19,第七星曆編年史：亞歷山大
-20,第七星曆編年史：上古眾神
-21,第七星曆編年史：瑪哈之影
-22,第七星曆編年史：歐米茄
-23,第七星曆編年史：重返伊瓦利斯
-24,第七星曆編年史：四聖獸奇譚
-25,第七星曆編年史：伊甸
-26,寄葉異聞：暗黑天啟
-27,第七星曆編年史：維爾利特戰役
-28,第七星曆編年史：萬魔殿
-29,第七星曆編年史：艾歐澤亞神話
-30,第七星曆編年史：阿卡狄亞
-31,第七星曆編年史：瓦納·迪爾的迴響
-32,尤卡巨人族任務
-33,輝鱗族任務
-34,佩魯佩魯族任務
-35,各族盟友任務
-36,蜥蜴人族任務
-37,妖精族任務
-38,地靈族任務
-39,魚人族任務
-40,鳥人族任務
-41,瓦努族任務
-42,骨頜族任務
-43,莫古力族任務
-44,甲人族任務
-45,阿難陀族任務
-46,鯰魚精族任務
-47,仙子族任務
-48,奇塔利族任務
-49,矮人族任務
-50,悌陽象族任務
-51,奧密克戎族任務
-52,兔兔族任務
-53,各族盟友任務
-54,主線劇情外傳任務
-55,非著名調查員支線任務
-56,武器強化支線任務
-57,特殊內容支線任務
-58,支線劇情任務
-59,拉諾西亞支線任務
-60,黑衣森林支線任務
-61,薩納蘭支線任務
-62,庫爾札斯支線任務
-63,摩杜納支線任務
-64,伊修加德支線任務
-65,阿巴拉提亞支線任務
-66,龍堡支線任務
-67,魔大陸支線任務
-68,基拉巴尼亞支線任務
-69,奧薩德支線任務
-70,遠東之國支線任務
-71,雷克蘭德支線任務
-72,珂露西亞島支線任務
-73,安穆·艾蘭支線任務
-74,伊爾美格支線任務
-75,拉凱提卡大森林支線任務
-76,黑風海支線任務
-77,薩雷安支線任務
-78,薩維奈島支線任務
-79,加雷馬支線任務
-80,嘆息海支線任務
-81,厄爾庇斯支線任務
-82,天外天垓支線任務
-83,尤卡圖拉爾支線任務
-84,薩卡圖拉爾支線任務
-85,無失世界支線任務
-86,戰鬥菁英職業任務
-87,魔法導師職業任務
-88,能工巧匠職業任務
-89,大地使者職業任務
-90,中庸工藝館交易職業任務
-91,薩雷安魔法大學交易職業任務
-92,珠串萬貨街交易職業任務
-93,戰鬥菁英特職任務
-94,魔法導師特職任務
-95,職能任務
-96,軍隊任務
-97,季節活動
-98,其他任務
-99,傭兵理符
-100,採礦理符
-101,園藝理符
-102,釣魚理符
-103,木工理符
-104,鍛冶理符
-105,鑄甲理符
-106,雕金理符
-107,製革理符
-108,裁縫理符
-109,煉金理符
-110,烹調理符
-111,神殿騎士團傭兵理符
-112,神殿騎士團採礦理符
-113,神殿騎士團園藝理符
-114,神殿騎士團釣魚理符
-115,神殿騎士團木工理符
-116,神殿騎士團鍛冶理符
-117,神殿騎士團鑄甲理符
-118,神殿騎士團雕金理符
-119,神殿騎士團製革理符
-120,神殿騎士團裁縫理符
-121,神殿騎士團煉金理符
-122,神殿騎士團烹調理符
-123,特殊部隊理符
-124,軍隊理符
-125,副本任務：重生之境
-126,副本任務：蒼穹之禁城
-127,副本任務：紅蓮之狂潮
-128,副本任務：暗影之逆焰
-129,副本任務：曉月之終途
-130,副本任務：金曦之遺輝
-131,遺產任務
+﻿key,0,1,2,3,4
+#,Name,SeparateType,DataType,JournalSection,
+offset,0,4,5,6,7
+int32,str,byte,byte,JournalSection,byte
+0,"Sephiroth Missions",0,0,255,0
+1,"Seventh Umbral Era Main Scenario Quests",1,1,0,0
+2,"Seventh Astral Era Main Scenario Quests",1,1,0,0
+3,"Heavensward Main Scenario Quests",1,1,0,0
+4,"Dragonsong Main Scenario Quests",1,1,0,0
+5,"Post-Dragonsong Main Scenario Quests",1,1,0,0
+6,"Stormblood Main Scenario Quests",1,1,0,0
+7,"Post-Stormblood Main Scenario Quests",1,1,0,0
+8,"Shadowbringers Main Scenario Quests",1,1,0,0
+9,"Post-Shadowbringers Main Scenario Quests",1,1,0,0
+10,"Post-Shadowbringers Main Scenario Quests II",1,1,0,0
+11,"Endwalker Main Scenario Quests",1,1,0,0
+12,"Post-Endwalker Main Scenario Quests",1,1,0,0
+13,"Dawntrail Main Scenario Quests",1,1,1,0
+14,"Post-Dawntrail Main Scenario Quests",1,1,1,0
+15,"Post-Dawntrail Main Scenario Quests II",1,1,1,0
+16,"Chronicles of a New Era - Primals",1,1,2,0
+17,"Chronicles of a New Era - Bahamut",1,1,2,0
+18,"Chronicles of a New Era - The Crystal Tower",1,1,2,0
+19,"Chronicles of a New Era - Alexander",1,1,2,0
+20,"Chronicles of a New Era - The Warring Triad",1,1,2,0
+21,"Chronicles of a New Era - The Shadow of Mhach",1,1,2,0
+22,"Chronicles of a New Era - Omega",2,1,2,0
+23,"Chronicles of a New Era - Return to Ivalice",1,1,2,0
+24,"Chronicles of a New Era - The Four Lords",1,1,2,0
+25,"Chronicles of a New Era - Eden",1,1,2,0
+26,"YoRHa: Dark Apocalypse",1,1,2,0
+27,"Chronicles of a New Era - The Sorrow of Werlyt",1,1,2,0
+28,"Chronicles of a New Era - Pandæmonium",2,1,2,0
+29,"Chronicles of a New Era - Myths of the Realm",1,1,2,0
+30,"Chronicles of a New Era - The Arcadion",1,1,2,0
+31,"Chronicles of a New Era - Echoes of Vana'diel",1,1,2,0
+32,"Yok Huy Quests",2,1,5,0
+33,"Mamool Ja Quests",2,1,5,0
+34,"Pelupelu Quests",2,1,5,0
+35,"Intersocietal Quests",2,1,5,0
+36,"Amalj'aa Quests",2,1,4,0
+37,"Sylph Quests",2,1,4,0
+38,"Kobold Quests",2,1,4,0
+39,"Sahagin Quests",2,1,4,0
+40,"Ixal Quests",2,1,4,0
+41,"Vanu Vanu Quests",2,1,4,0
+42,"Vath Quests",2,1,4,0
+43,"Moogle Quests",2,1,4,0
+44,"Kojin Quests",2,1,4,0
+45,"Ananta Quests",2,1,4,0
+46,"Namazu Quests",2,1,4,0
+47,"Pixie Quests",2,1,4,0
+48,"Qitari Quests",2,1,4,0
+49,"Dwarf Quests",2,1,4,0
+50,"Arkasodara Quests",2,1,4,0
+51,"Omicron Quests",2,1,4,0
+52,"Loporrit Quests",2,1,4,0
+53,"Intersocietal Quests",2,1,4,0
+54,"Chronicles of Light",2,1,3,0
+55,"Hildibrand Sidequests",2,1,3,0
+56,"Weapon Enhancement Sidequests",2,1,3,0
+57,"Records of Unusual Endeavors",2,1,3,0
+58,"Side Story Quests",2,1,3,0
+59,"Lominsan Sidequests",3,1,3,0
+60,"Gridanian Sidequests",3,1,3,0
+61,"Ul'dahn Sidequests",3,1,3,0
+62,"Coerthan Sidequests",3,1,3,0
+63,"Mor Dhonan Sidequests",3,1,3,0
+64,"Ishgardian Sidequests",3,1,3,0
+65,"Abalathian Sidequests",3,1,3,0
+66,"Dravanian Sidequests",3,1,3,0
+67,"Azys Lla Sidequests",3,1,3,0
+68,"Gyr Abanian Sidequests",3,1,3,0
+69,"Othardian Sidequests",3,1,3,0
+70,"Hingan Sidequests",3,1,3,0
+71,"Lakeland Sidequests",3,1,3,0
+72,"Kholusian Sidequests",3,1,3,0
+73,"Amh Araeng Sidequests",3,1,3,0
+74,"Il Mheg Sidequests",3,1,3,0
+75,"Rak'tika Sidequests",3,1,3,0
+76,"Tempest Sidequests",3,1,3,4
+77,"Sharlayan Sidequests",3,1,3,0
+78,"Thavnairian Sidequests",3,1,3,0
+79,"Garlean Sidequests",3,1,3,0
+80,"Mare Lamentorum Sidequests",3,1,3,7
+81,"Elpis Sidequests",3,1,3,9
+82,"Ultima Thule Sidequests",3,1,3,8
+83,"Yok Tural Sidequests",3,1,3,0
+84,"Xak Tural Sidequests",3,1,3,0
+85,"Unlost World Sidequests",3,1,3,27
+86,"Disciple of War Quests",2,1,6,0
+87,"Disciple of Magic Quests",2,1,6,0
+88,"Disciple of the Hand Quests",2,1,6,0
+89,"Disciple of the Land Quests",2,1,6,0
+90,"Crystalline Mean Quests",2,1,6,0
+91,"Studium Quests",2,1,6,0
+92,"Wachumeqimeqi Quests",2,1,6,0
+93,"Disciple of War Job Quests",2,1,6,0
+94,"Disciple of Magic Job Quests",2,1,6,0
+95,"Role Quests",2,1,6,0
+96,"Grand Company Quests",2,1,7,0
+97,"Seasonal Events",2,1,7,0
+98,"Special Quests",2,1,7,0
+99,"Battlecraft Leves",3,2,8,0
+100,"Mining Leves",3,2,8,0
+101,"Botany Leves",3,2,8,0
+102,"Fishing Leves",3,2,8,0
+103,"Carpentry Leves",3,2,8,0
+104,"Blacksmithing Leves",3,2,8,0
+105,"Armoring Leves",3,2,8,0
+106,"Goldsmithing Leves",3,2,8,0
+107,"Leatherworking Leves",3,2,8,0
+108,"Clothcrafting Leves",3,2,8,0
+109,"Alchemy Leves",3,2,8,0
+110,"Cooking Leves",3,2,8,0
+111,"Ishgardian Battlecraft Leves",3,2,8,0
+112,"Ishgardian Mining Leves",3,2,8,0
+113,"Ishgardian Botany Leves",3,2,8,0
+114,"Ishgardian Fishing Leves",3,2,8,0
+115,"Ishgardian Carpentry Leves",3,2,8,0
+116,"Ishgardian Blacksmithing Leves",3,2,8,0
+117,"Ishgardian Armoring Leves",3,2,8,0
+118,"Ishgardian Goldsmithing Leves",3,2,8,0
+119,"Ishgardian Leatherworking Leves",3,2,8,0
+120,"Ishgardian Clothcrafting Leves",3,2,8,0
+121,"Ishgardian Alchemy Leves",3,2,8,0
+122,"Ishgardian Cooking Leves",3,2,8,0
+123,"Faction Leves",2,2,8,0
+124,"Company Leves",2,2,8,0
+125,"A Realm Reborn Duties",2,3,9,0
+126,"Heavensward Duties",2,3,9,0
+127,"Stormblood Duties",2,3,9,0
+128,"Shadowbringers Duties",2,3,9,0
+129,"Endwalker Duties",2,3,9,0
+130,"Dawntrail Duties",2,3,9,0
+131,"Legacy Quests",2,4,7,0

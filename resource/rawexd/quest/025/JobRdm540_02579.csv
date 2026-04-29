@@ -2,111 +2,111 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_JOBRDM540_02579_SEQ_00,足跡谷的西·如恩·提亞正在等待聯絡。
-1,TEXT_JOBRDM540_02579_SEQ_01,查明了收容暗殺者的商船要停靠的目的地。前往西拉諾西亞的小麥酒港，和西·如恩·提亞匯合。
-2,TEXT_JOBRDM540_02579_SEQ_02,和西·如恩匯合完畢。在小麥酒港收集有關那艘商船的情報。
-3,TEXT_JOBRDM540_02579_SEQ_03,收集了商船的情報。和西·如恩·提亞談談。
-4,TEXT_JOBRDM540_02579_SEQ_04,和西·如恩進行了交談。商船是暗殺團的海上據點，很有可能與加雷馬帝國有所接觸。在小麥酒港調查<hex:02280CFF05>EObj<hex:F61EA49D0103>，打倒襲擊過來的敵人。
-5,TEXT_JOBRDM540_02579_SEQ_05,冒險者不僅在貨物中發現了與帝國有關的證據，還撿到了保護貨箱的暗殺者掉落的鑰匙。將<hex:022811FF0A>EventItem<hex:F61E8D060103>拿給小麥酒港的西·如恩·提亞查看。
-6,TEXT_JOBRDM540_02579_SEQ_06,讓西·如恩查看了鑰匙。對小麥酒港崖壁的<hex:02280CFF05>EObj<hex:F61EA4A70103>使用<hex:022811FF0A>EventItem<hex:F61E8D060103>。
-7,TEXT_JOBRDM540_02579_SEQ_07,在貨箱中發現了失憶的少女艾莉亞。在小麥酒港的旅館和西·如恩·提亞談談。
-8,TEXT_JOBRDM540_02579_SEQ_08,和西·如恩進行了交談。艾莉亞因為鬆了一口氣，再加上疲憊，已經睡著了。在旅館外再次和西·如恩·提亞談談。
-9,TEXT_JOBRDM540_02579_SEQ_09,再次和西·如恩進行了交談。黃衫隊雖然展開了調查，但還是讓載有暗殺團的商船逃掉了。同時，西·如恩也慰勞了將艾莉亞從暗殺團的魔手中拯救出來的冒險者。<hex:02100103><hex:02100103>※赤魔法師的等級達到56級以上時，可以從小麥酒港的西·如恩·提亞那裡領取下一個赤魔法師任務。
-10,TEXT_JOBRDM540_02579_SEQ_10,
-11,TEXT_JOBRDM540_02579_SEQ_11,
-12,TEXT_JOBRDM540_02579_SEQ_12,
-13,TEXT_JOBRDM540_02579_SEQ_13,
-14,TEXT_JOBRDM540_02579_SEQ_14,
-15,TEXT_JOBRDM540_02579_SEQ_15,
-16,TEXT_JOBRDM540_02579_SEQ_16,
-17,TEXT_JOBRDM540_02579_SEQ_17,
-18,TEXT_JOBRDM540_02579_SEQ_18,
-19,TEXT_JOBRDM540_02579_SEQ_19,
-20,TEXT_JOBRDM540_02579_SEQ_20,
-21,TEXT_JOBRDM540_02579_SEQ_21,
-22,TEXT_JOBRDM540_02579_SEQ_22,
-23,TEXT_JOBRDM540_02579_SEQ_23,
-24,TEXT_JOBRDM540_02579_TODO_00,在小麥酒港和西·如恩·提亞匯合
-25,TEXT_JOBRDM540_02579_TODO_01,在小麥酒港收集商船的情報
-26,TEXT_JOBRDM540_02579_TODO_02,和西·如恩·提亞對話
-27,TEXT_JOBRDM540_02579_TODO_03,調查<hex:02280CFF05>EObj<hex:F61EA49D0103>並打倒襲擊過來的敵人
-28,TEXT_JOBRDM540_02579_TODO_04,將<hex:022811FF0A>EventItem<hex:F61E8D060103>交給西·如恩·提亞查看
-29,TEXT_JOBRDM540_02579_TODO_05,對<hex:02280CFF05>EObj<hex:F61EA4A70103>使用<hex:022811FF0A>EventItem<hex:F61E8D060103>
-30,TEXT_JOBRDM540_02579_TODO_06,和西·如恩·提亞對話
-31,TEXT_JOBRDM540_02579_TODO_07,再次和西·如恩·提亞對話
-32,TEXT_JOBRDM540_02579_TODO_08,
-33,TEXT_JOBRDM540_02579_TODO_09,
-34,TEXT_JOBRDM540_02579_TODO_10,
-35,TEXT_JOBRDM540_02579_TODO_11,
-36,TEXT_JOBRDM540_02579_TODO_12,
-37,TEXT_JOBRDM540_02579_TODO_13,
-38,TEXT_JOBRDM540_02579_TODO_14,
-39,TEXT_JOBRDM540_02579_TODO_15,
-40,TEXT_JOBRDM540_02579_TODO_16,
-41,TEXT_JOBRDM540_02579_TODO_17,
-42,TEXT_JOBRDM540_02579_TODO_18,
-43,TEXT_JOBRDM540_02579_TODO_19,
-44,TEXT_JOBRDM540_02579_TODO_20,
-45,TEXT_JOBRDM540_02579_TODO_21,
-46,TEXT_JOBRDM540_02579_TODO_22,
-47,TEXT_JOBRDM540_02579_TODO_23,
-48,TEXT_JOBRDM540_02579_XRHUNTIA_000_000,那些暗殺者……不，應該叫他們暗殺團，<hex:02100103>我已經請拂曉血盟幫我們調查了，<hex:02100103>如果有什麼收穫，他們應該就會聯繫我。
-49,TEXT_JOBRDM540_02579_XRHUNTIA_100_000,那些暗殺者……不，應該叫他們暗殺團，<hex:02100103>我已經請朋友幫我們調查了，<hex:02100103>如果有什麼收穫，他們應該就會聯繫我。
-50,TEXT_JOBRDM540_02579_XRHUNTIA_000_001,啊，這就來了！<hex:02100103>……我是西·如恩，怎麼樣了？<hex:02100103>原來如此……到底是你們厲害，謝啦！
-51,TEXT_JOBRDM540_02579_XRHUNTIA_000_002,朋友已經幫我查到了，那艘收容暗殺者的商船<hex:02100103>接下來的停靠地是西拉諾西亞的小麥酒港。<hex:02100103>我們這就過去吧！
-52,TEXT_JOBRDM540_02579_XRHUNTIA_000_030,不好意思啊，拉著你東跑西跑的！<hex:02100103>我們要跟的那艘商船應該就停靠在這邊的近海。
-53,TEXT_JOBRDM540_02579_XRHUNTIA_000_031,我還想再收集一些有關商船的情報。<hex:02100103>能麻煩你四處打聽打聽嗎？<hex:02100103>等我們都收集完情報後，就在這裡匯合吧！
-54,TEXT_JOBRDM540_02579_TRADER02579_000_060,唔……那艘停在近海的商船嗎？<hex:02100103>我的確聽說了一些傳言，不過說實話，感覺都挺詭異的。
-55,TEXT_JOBRDM540_02579_TRADER02579_000_061,那艘船應該是與近東的拉札罕交易的商船吧，<hex:02100103>只不過據跟他們交易的人說，船上的人都格外沉默。<hex:02100103>而且他們還不讓任何人看貨箱裡的東西，估計不是什麼正經商船。
-56,TEXT_JOBRDM540_02579_SAILOR02579_000_070,近海的商船？<hex:02100103>……啊，我什麼都不知道，是真的啦！<hex:02100103>船員都是些神神秘秘的傢伙，連招呼都不跟別人打一聲！
-57,TEXT_JOBRDM540_02579_SAILOR02579_000_071,而且，我聽說黃衫隊已經盯上了那艘船，<hex:02100103>我可不想跟他們扯上關係，要是黃衫隊把我當成他們的同夥就慘了。<hex:02100103>算我拜託你，別連累我！
-58,TEXT_JOBRDM540_02579_PIRATE02579_000_080,啊？你想知道停在近海的那艘商船的事？<hex:02100103>那艘船啊……肯定有問題！<hex:02100103>有人看到他們和加雷馬的船接觸過！
-59,TEXT_JOBRDM540_02579_PIRATE02579_000_081,不過我也不知道他們運的是什麼貨啦……<hex:02100103>有可能是在走私大批艾歐澤亞的違禁品？<hex:02100103>……但願只是普通的「違禁品」！
-60,TEXT_JOBRDM540_02579_XRHUNTIA_000_090,辛苦你打聽消息了！<hex:02100103>原來如此……你那邊的情報跟我收集到的基本一致。<hex:02100103>停在近海的商船不僅貨物不明，船員也都很神秘。
-61,TEXT_JOBRDM540_02579_XRHUNTIA_000_091,那艘商船恐怕就是暗殺團的海上據點。<hex:02100103>他們之所以能逃過有關部門的監視，<hex:02100103>就是因為沒把據點建在陸地上吧。
-62,TEXT_JOBRDM540_02579_XRHUNTIA_000_092,我在黃衫隊的朋友也調查了他們……<hex:02100103>那艘船表面上是與近東的拉札罕交易的商船，<hex:02100103>實際上卻好像在海上與加雷馬帝國的船有所接觸。
-63,TEXT_JOBRDM540_02579_XRHUNTIA_000_093,只不過，因為他們也按申報的那樣跟別人做交易，<hex:02100103>黃衫隊沒有能夠介入調查的有力憑證，<hex:02100103>所以就一直沒法動手……
-64,TEXT_JOBRDM540_02579_XRHUNTIA_000_094,……既然不能毫無理由地進去調查，<hex:02100103>那麼只要讓決定性的「證據」自己暴露出來就行了吧？
-65,TEXT_JOBRDM540_02579_XRHUNTIA_000_095,沒錯，由我們把那些貨物打開！<hex:02100103>……我們這就去分頭調查那些傢伙裝卸的貨箱吧。
-66,TEXT_JOBRDM540_02579_XRHUNTIA_000_100,我正在調查這裡的貨物，但卻發現有一個箱子打不開，<hex:02100103>看樣子得有備用鑰匙才行……
-67,TEXT_JOBRDM540_02579_SYSTEM_000_120,裡面好像是加雷馬帝國製造的青磷水儲存罐……
-68,TEXT_JOBRDM540_02579_POP_MESSAGE,敵人發起了攻擊！
-69,TEXT_JOBRDM540_02579_XRHUNTIA_000_150,辛苦了……沒受傷吧？<hex:02100103>我那邊調查的貨物也是帝國製造的青磷水儲存罐和口糧。<hex:02100103>這絕對是板上釘釘的證據，沒跑了！
-70,TEXT_JOBRDM540_02579_XRHUNTIA_000_151,只要我們把這件事告發，他們馬上就得被捕。<hex:02100103>嗯……其他還有什麼發現嗎？
-71,TEXT_JOBRDM540_02579_XRHUNTIA_000_160,暗殺者掉了一個類似<hex:022811FF0A>EventItem<hex:F61E8D060103>的東西？<hex:02100103>說起來，那邊的確是有個鎖得很嚴實的箱子……
-72,TEXT_JOBRDM540_02579_XRHUNTIA_000_161,……我去聯繫黃衫隊。<hex:02100103>你就試試用那把鑰匙能不能打開<hex:02280CFF05>EObj<hex:F61EA75C0103>吧！
-73,TEXT_JOBRDM540_02579_SYSTEM_000_180,<hex:02280CFF05>EObj<hex:F61EA75C0103>裡好像能聽到微弱的呻吟聲……
-74,TEXT_JOBRDM540_02579_ARYA_000_190,(-？？？？-)……這是……哪？<hex:02100103>……大海？
-75,TEXT_JOBRDM540_02579_ARYA_000_191,(-？？？？-)我……睡著了？就在這箱子裡？<hex:02100103>……為什麼？不行……什麼也想不起來……
-76,TEXT_JOBRDM540_02579_Q1_000_200,要跟她說什麼？
-77,TEXT_JOBRDM540_02579_A1_000_201,……你不記得了嗎？
-78,TEXT_JOBRDM540_02579_A1_000_202,……你叫什麼？
-79,TEXT_JOBRDM540_02579_ARYA_000_210,(-？？？？-)……是的……<hex:02100103>啊……不過……
-80,TEXT_JOBRDM540_02579_ARYA_000_211,我的腦中……有一個詞……<hex:02100103>……「艾莉亞」……這是我的名字？
-81,TEXT_JOBRDM540_02579_ARYA_000_220,嗯……「艾莉亞」？
-82,TEXT_JOBRDM540_02579_ARYA_000_221,我的腦中……冒出了這個詞……<hex:02100103>……這是……我的名字？
-83,TEXT_JOBRDM540_02579_Q2_000_230,如何作答？
-84,TEXT_JOBRDM540_02579_A2_000_231,……應該是吧
-85,TEXT_JOBRDM540_02579_A2_000_232,很好聽的名字
-86,TEXT_JOBRDM540_02579_ARYA_000_240,……聽你這麼說……我也覺得應該是。<hex:02100103>請問……
-87,TEXT_JOBRDM540_02579_ARYA_000_250,……聽你這麼說……我覺得有點開心呢。<hex:02100103>請問……
-88,TEXT_JOBRDM540_02579_ARYA_000_260,你叫<hex:022903EB0203>？<hex:02100103>……謝謝你救了我！
-89,TEXT_JOBRDM540_02579_XRHUNTIA_000_261,<hex:022903EB0203>……你沒事吧！<hex:02100103>出什麼事了嗎！
-90,TEXT_JOBRDM540_02579_XRHUNTIA_000_262,這女孩在貨箱裡？<hex:02100103>偷渡的……不對，是被暗殺團綁架的年輕人嗎……
-91,TEXT_JOBRDM540_02579_XRHUNTIA_000_263,把你綁架來的人可能就在附近，<hex:02100103>總之，我們先離開這裡……
-92,TEXT_JOBRDM540_02579_XRHUNTIA_000_264,……喂喂，幹嘛像個怯生生的小動物一樣看著我啊。<hex:02100103><hex:022903EB0203>，你也幫我說幾句話。
-93,TEXT_JOBRDM540_02579_Q3_000_270,對艾莉亞說什麼？
-94,TEXT_JOBRDM540_02579_A3_000_271,這是個很溫柔的哥哥哦
-95,TEXT_JOBRDM540_02579_A3_000_272,這個大叔超可怕的
-96,TEXT_JOBRDM540_02579_ARYA_000_280,是……這樣嗎……<hex:02100103>不過，既然<hex:022903EB0203>這樣說，<hex:02100103>那應該就沒錯了吧……
-97,TEXT_JOBRDM540_02579_XRHUNTIA_000_281,她怎麼跟你這麼親啊，真是奇怪。<hex:02100103>總之……我們先去旅館吧？
-98,TEXT_JOBRDM540_02579_XRHUNTIA_000_290,喂！你把她嚇得更害怕了！<hex:02100103>總之……先想辦法把她帶到旅館去吧，<hex:02100103>她看上去跟你還挺親的。
-99,TEXT_JOBRDM540_02579_SYSTEM_000_360,艾莉亞正在熟睡……
-100,TEXT_JOBRDM540_02579_XRHUNTIA_000_370,那孩子……一進房間就倒頭睡著了，<hex:02100103>看來是精神一下子放鬆，疲勞感就爆發出來了吧。
-101,TEXT_JOBRDM540_02579_XRHUNTIA_000_371,我還想跟你談一下那個暗殺團……<hex:02100103>算了，這裡不方便，我們出去說吧。
-102,TEXT_JOBRDM540_02579_XRHUNTIA_000_380,我先告訴你那艘商船的後續好了。<hex:02100103>黃衫隊的人得知後，立即採取了行動……
-103,TEXT_JOBRDM540_02579_XRHUNTIA_000_381,……可惜的是，讓那艘商船搶先一步逃走了。<hex:02100103>不過他們也討不了好，估計以後的行動會很受限制！
-104,TEXT_JOBRDM540_02579_XRHUNTIA_000_382,問題在於那孩子……艾莉亞。<hex:02100103>她說自己失憶了……但她的嘴邊卻散發著些微的藥味。
-105,TEXT_JOBRDM540_02579_XRHUNTIA_000_383,恐怕有人給她聞過破壞記憶的特殊藥物，<hex:02100103>如果我們發現得再晚點……她應該就會被刻上「咒印」，<hex:02100103>變成暗殺團的傀儡了。
-106,TEXT_JOBRDM540_02579_XRHUNTIA_000_384,能把她救出來，真是大功一件！<hex:02100103>接下來就希望她能恢復記憶了……
-107,TEXT_JOBRDM540_02579_XRHUNTIA_000_385,……現在我們就先等艾莉亞康復吧。<hex:02100103>等她恢復了記憶，我們也好打聽她的身份，<hex:02100103>說不定還能弄清楚她被綁架的經過！
+0,"TEXT_JOBRDM540_02579_SEQ_00","X'rhun awaits word of the merchantman's destination."
+1,"TEXT_JOBRDM540_02579_SEQ_01","X'rhun receives news from a distant contact that the ship to which the surviving assassin was ferried has been spotted weighing anchor in western La Noscea. Make your way to Aleport and rendezvous with the Crimson Duelist."
+2,"TEXT_JOBRDM540_02579_SEQ_02","Unsure of the significance of the merchantman, X'rhun proposes a circuit of the port to gossip with the locals. Speak with the people of Aleport, and uncover what information you can regarding the unknown vessel."
+3,"TEXT_JOBRDM540_02579_SEQ_03","You have questioned several locals and formed an impression of the ship and its crew. Report your findings to X'rhun."
+4,"TEXT_JOBRDM540_02579_SEQ_04","After hearing that your discoveries largely match his own, X'rhun seems convinced that the merchantman serves the assassins as a floating base. Despite rumors that the ship's trading route brings it into contact with imperial vessels, however, a lack of evidence has discouraged authorities from conducting a full investigation. Examine the cargo belonging to the merchantman, and search for proof of the crew's unlawful deeds."
+5,"TEXT_JOBRDM540_02579_SEQ_05","In addition to the discovery of a trove of imperial supplies, your eventful investigation of the ship's cargo has also left you in possession of a large key. Seek out X'rhun Tia, and share what you have found."
+6,"TEXT_JOBRDM540_02579_SEQ_06","X'rhun examines the key, and wonders if it might open the one box he was unable to open. Try the key on the locked crate whilst X'rhun presents the incriminating evidence to the authorities."
+7,"TEXT_JOBRDM540_02579_SEQ_07","You open the crate to find a befuddled young woman. She appears to suffer from memory loss, and hesitantly identifies herself as “Arya.” Seeking to conceal her escape from the merchantman's crew, X'rhun suggests finding lodgings at the nearby inn."
+8,"TEXT_JOBRDM540_02579_SEQ_08","Exhausted by her ordeal, Arya has collapsed into a deep sleep. X'rhun ushers you outside that you might discuss the fate of the assassins and their ship."
+9,"TEXT_JOBRDM540_02579_SEQ_09","X'rhun reports that the Yellowjackets acted immediately upon confirming his evidence, but by the time their soldiers arrived at the docks the merchantman was already fleeing to open water. Although not the perfect outcome, you have freed Arya from the clutches of the cabal and a fate as a mindless puppet. You wonder what tales she might have to tell once the fog clouding her memory has lifted...<hex:02100103><hex:02100103>※The next red mage quest will be available from X'rhun Tia upon reaching level 56."
+10,"TEXT_JOBRDM540_02579_SEQ_10",""
+11,"TEXT_JOBRDM540_02579_SEQ_11",""
+12,"TEXT_JOBRDM540_02579_SEQ_12",""
+13,"TEXT_JOBRDM540_02579_SEQ_13",""
+14,"TEXT_JOBRDM540_02579_SEQ_14",""
+15,"TEXT_JOBRDM540_02579_SEQ_15",""
+16,"TEXT_JOBRDM540_02579_SEQ_16",""
+17,"TEXT_JOBRDM540_02579_SEQ_17",""
+18,"TEXT_JOBRDM540_02579_SEQ_18",""
+19,"TEXT_JOBRDM540_02579_SEQ_19",""
+20,"TEXT_JOBRDM540_02579_SEQ_20",""
+21,"TEXT_JOBRDM540_02579_SEQ_21",""
+22,"TEXT_JOBRDM540_02579_SEQ_22",""
+23,"TEXT_JOBRDM540_02579_SEQ_23",""
+24,"TEXT_JOBRDM540_02579_TODO_00","Join X'rhun Tia in Aleport."
+25,"TEXT_JOBRDM540_02579_TODO_01","Gather information about the merchantman."
+26,"TEXT_JOBRDM540_02579_TODO_02","Speak with X'rhun Tia."
+27,"TEXT_JOBRDM540_02579_TODO_03","Examine the mystery cargo and defeat any foes that appear."
+28,"TEXT_JOBRDM540_02579_TODO_04","Show the bulky key to X'rhun Tia."
+29,"TEXT_JOBRDM540_02579_TODO_05","Use the bulky key on the locked crate."
+30,"TEXT_JOBRDM540_02579_TODO_06","Speak with X'rhun Tia."
+31,"TEXT_JOBRDM540_02579_TODO_07","Speak with X'rhun Tia."
+32,"TEXT_JOBRDM540_02579_TODO_08",""
+33,"TEXT_JOBRDM540_02579_TODO_09",""
+34,"TEXT_JOBRDM540_02579_TODO_10",""
+35,"TEXT_JOBRDM540_02579_TODO_11",""
+36,"TEXT_JOBRDM540_02579_TODO_12",""
+37,"TEXT_JOBRDM540_02579_TODO_13",""
+38,"TEXT_JOBRDM540_02579_TODO_14",""
+39,"TEXT_JOBRDM540_02579_TODO_15",""
+40,"TEXT_JOBRDM540_02579_TODO_16",""
+41,"TEXT_JOBRDM540_02579_TODO_17",""
+42,"TEXT_JOBRDM540_02579_TODO_18",""
+43,"TEXT_JOBRDM540_02579_TODO_19",""
+44,"TEXT_JOBRDM540_02579_TODO_20",""
+45,"TEXT_JOBRDM540_02579_TODO_21",""
+46,"TEXT_JOBRDM540_02579_TODO_22",""
+47,"TEXT_JOBRDM540_02579_TODO_23",""
+48,"TEXT_JOBRDM540_02579_XRHUNTIA_000_000","I've asked some friends of mine in the Scions of the Seventh Dawn to keep an eye out for that ship. We should know if the assassins seek to enter any of the major ports..."
+49,"TEXT_JOBRDM540_02579_XRHUNTIA_100_000","I've asked some friends of mine to keep an eye out for that ship. We should know if the assassins seek to enter any of the major ports..."
+50,"TEXT_JOBRDM540_02579_XRHUNTIA_000_001","Ah, my La Noscean contact!<hex:02100103>Aye, this is X'rhun. ...And they are still there? Excellent, thank you!"
+51,"TEXT_JOBRDM540_02579_XRHUNTIA_000_002","It seems the assassins' merchantman has been spotted sailing into Aleport. Come, we've no time to lose!"
+52,"TEXT_JOBRDM540_02579_XRHUNTIA_000_030","My apologies for dragging you halfway across the realm, but I did promise you a journey! Now, as for the merchantman, I'm told it's anchored a short distance offshore."
+53,"TEXT_JOBRDM540_02579_XRHUNTIA_000_031","We need to know more about the connection between this ship and our foe. They may have simply paid for passage, but there is something about that vessel... I say we wander the port and see what gossip there is to be had!"
+54,"TEXT_JOBRDM540_02579_TRADER02579_000_060","Hm? Nay, me <hex:02080EE905FF05>lass<hex:FF04>lad<hex:03>, I've not much to tell ye about that ship."
+55,"TEXT_JOBRDM540_02579_TRADER02579_000_061","They say she's a tradin' vessel what brings goods from Radz–at–Han, but her crew's a sullen lot. Askin' a friendly question about what they was haulin' got me naught but blank stares an' silence..."
+56,"TEXT_JOBRDM540_02579_SAILOR02579_000_070","The merchantman what just sailed in? I don't know buggery about it, not even the bleedin' name! All I know is her crew's about as lively as a cabin full o' corpses. It ain't natural..."
+57,"TEXT_JOBRDM540_02579_SAILOR02579_000_071","There's a rumor goin' round that the Yellowjackets've taken an interest in their dealin's, so I'd rather keep me distance, anyroad. Aye, I'm finished answerin' yer questions, now off with ye!"
+58,"TEXT_JOBRDM540_02579_PIRATE02579_000_080","That ship's naught but trouble, ye mark me words! I've mates what swear they've seen her pullin' alongside imperial vessels!"
+59,"TEXT_JOBRDM540_02579_PIRATE02579_000_081","Only the gods know what's hidin' in that hold o' hers. Could be weapons. Could be prisoners. Just the bleedin' sight o' her makes me whiskers twitch..."
+60,"TEXT_JOBRDM540_02579_XRHUNTIA_000_090","Were you able to learn aught of interest? ...Strange crew? Mystery cargo? Ship's name unknown? Aye, I heard much the same."
+61,"TEXT_JOBRDM540_02579_XRHUNTIA_000_091","I'm beginning to think that our assassins use the vessel as a floating base. With no permanent camp on land, it would certainly be easier to avoid the attention of local forces, not to mention curious adventurers."
+62,"TEXT_JOBRDM540_02579_XRHUNTIA_000_092","I also spoke with an acquaintance in the Yellowjackets, and he confirmed the ship's official status as a trader to and from Radz–at–Han...even if rumors of her dealings with Garlean agents in open water are rife."
+63,"TEXT_JOBRDM540_02579_XRHUNTIA_000_093","As long as the merchantman appears to trade within the law, however, officials are reluctant to force their way on board and cause an incident. They've yet to uncover enough evidence, it seems..."
+64,"TEXT_JOBRDM540_02579_XRHUNTIA_000_094","Well, if a solid reason to investigate is lacking, then mayhap we should help them find one, eh?"
+65,"TEXT_JOBRDM540_02579_XRHUNTIA_000_095","Let's have ourselves a look in some of their crates on the docks. Just a little innocent curiosity is all!"
+66,"TEXT_JOBRDM540_02579_XRHUNTIA_000_100","I've been peeking in the cargo here, but there's one box secured with a lock. Smashing crates open may be taking things a bit too far, I'm afraid..."
+67,"TEXT_JOBRDM540_02579_SYSTEM_000_120","The crate contains a ceruleum tank of imperial design..."
+68,"TEXT_JOBRDM540_02579_POP_MESSAGE","You are under attack!"
+69,"TEXT_JOBRDM540_02579_XRHUNTIA_000_150","How did your investigations fare? I've found a veritable bounty of military supplies: ceruleum tanks, imperial rations, imperial insignias on everything!"
+70,"TEXT_JOBRDM540_02579_XRHUNTIA_000_151","The authorities will be most interested to hear of this, I'll wager.<hex:02100103>...What's that you have there?"
+71,"TEXT_JOBRDM540_02579_XRHUNTIA_000_160","Well, well. Dropped by one of the ship's crew members, you say? And I just so happened to have found a most inconveniently locked box."
+72,"TEXT_JOBRDM540_02579_XRHUNTIA_000_161","I shall go and relay our findings to the Yellowjackets. I'm sure you'll think of some use for that key of yours!"
+73,"TEXT_JOBRDM540_02579_SYSTEM_000_180","You hear a faint groan coming from inside the box..."
+74,"TEXT_JOBRDM540_02579_ARYA_000_190","(-???-)What─ Where am I...?"
+75,"TEXT_JOBRDM540_02579_ARYA_000_191","(-???-)Was I sleeping? ...In a box? What an odd thing for me to do..."
+76,"TEXT_JOBRDM540_02579_Q1_000_200","What will you say?"
+77,"TEXT_JOBRDM540_02579_A1_000_201","Don't you remember anything?"
+78,"TEXT_JOBRDM540_02579_A1_000_202","Does a girl have a name?"
+79,"TEXT_JOBRDM540_02579_ARYA_000_210","(-???-)Of course, I─ ...Oh. Perhaps not."
+80,"TEXT_JOBRDM540_02579_ARYA_000_211","No, wait, I remember something! Arya! My name is Arya...I think. Is it?"
+81,"TEXT_JOBRDM540_02579_ARYA_000_220","Arya..."
+82,"TEXT_JOBRDM540_02579_ARYA_000_221","Yes, that's it. That's my name. ...Or is it?"
+83,"TEXT_JOBRDM540_02579_Q2_000_230","What will you say?"
+84,"TEXT_JOBRDM540_02579_A2_000_231","...It could be."
+85,"TEXT_JOBRDM540_02579_A2_000_232","It's a lovely name."
+86,"TEXT_JOBRDM540_02579_ARYA_000_240","Well, I guess it will have to do for now. And what do I call you...?"
+87,"TEXT_JOBRDM540_02579_ARYA_000_250","...Do you think so? Then I suppose it will do for now. And what does a girl call you?"
+88,"TEXT_JOBRDM540_02579_ARYA_000_260","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. I'll try to remember that. Thank you for letting me out!"
+89,"TEXT_JOBRDM540_02579_XRHUNTIA_000_261","What happened here? Is aught amiss?"
+90,"TEXT_JOBRDM540_02579_XRHUNTIA_000_262","...This lass was <hex:021A020203>inside<hex:021A020103> the box? I might suspect a stowaway, but it was more likely she was kidnapped."
+91,"TEXT_JOBRDM540_02579_XRHUNTIA_000_263","The people who took you may be lurking nearby. We should probably put some distance─"
+92,"TEXT_JOBRDM540_02579_XRHUNTIA_000_264","Come now, you needn't fear me so. <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, please, say something reassuring, would you?"
+93,"TEXT_JOBRDM540_02579_Q3_000_270","What will you say?"
+94,"TEXT_JOBRDM540_02579_A3_000_271","He's as gentle as a kitten."
+95,"TEXT_JOBRDM540_02579_A3_000_272","He's a powerful mage!"
+96,"TEXT_JOBRDM540_02579_ARYA_000_280","...He is? If you say so, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, then I suppose it must be true..."
+97,"TEXT_JOBRDM540_02579_XRHUNTIA_000_281","Well, you seem to have made a new friend. Let's see about arranging some lodgings for now, and we can discuss where to go from here."
+98,"TEXT_JOBRDM540_02579_XRHUNTIA_000_290","You've gone and frightened her even more now! Never mind. Let's see about arranging some lodgings for now, and we can discuss where to go from here."
+99,"TEXT_JOBRDM540_02579_SYSTEM_000_360","Arya appears to be sleeping soundly..."
+100,"TEXT_JOBRDM540_02579_XRHUNTIA_000_370","The poor girl was asleep within moments. This entire ordeal must have left her exhausted..."
+101,"TEXT_JOBRDM540_02579_XRHUNTIA_000_371","As for the results of our efforts with the cargo, I suggest we continue this conversation outside."
+102,"TEXT_JOBRDM540_02579_XRHUNTIA_000_380","I presented our findings to the Yellowjackets, and the evidence was indeed sufficiently damning to spark a full-scale investigation."
+103,"TEXT_JOBRDM540_02579_XRHUNTIA_000_381","...Regretfully, it appears the assassins caught wind of the coming storm─a squad of soldiers was dispatched to the docks only to witness the merchantman sailing away with all hands on board. Not quite the outcome we'd hoped for, but at the very least they'll no longer find a warm welcome in Eorzea's ports!"
+104,"TEXT_JOBRDM540_02579_XRHUNTIA_000_382","The other issue we face now is what to do with young Arya. Her breath carries a faint aroma that may account for her memory loss..."
+105,"TEXT_JOBRDM540_02579_XRHUNTIA_000_383","I suspect she was subjected to a certain incense which, when inhaled, can cloud a person's mind. The next step was likely to brand her with one of those vile sigils, and effect the permanent destruction of her free will."
+106,"TEXT_JOBRDM540_02579_XRHUNTIA_000_384","It was fortunate that you released her when you did! Arya remains muddled, but her condition should improve with time..."
+107,"TEXT_JOBRDM540_02579_XRHUNTIA_000_385","And once her memories have returned, we can learn exactly who she is and─just as importantly, perhaps─the circumstances which led to her capture."

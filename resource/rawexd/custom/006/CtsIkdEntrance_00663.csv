@@ -2,32 +2,32 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_CTSIKDENTRANCE_00663_DRYSKTHOTA_000_000,這裡是捕魚人公會運營的大型漁船「努力號」的乘船登記窗口，<hex:02100103>如果有興趣的話，請先拜訪捕魚人公會！
-1,TEXT_CTSIKDENTRANCE_00663_DRYSKTHOTA_000_010,歡迎來到捕魚人公會引以為傲的大型漁船……<hex:02100103>你是想要乘坐「努力號」嗎？
-2,TEXT_CTSIKDENTRANCE_00663_SYSTEM_000_005,乘船登記中
-3,TEXT_CTSIKDENTRANCE_00663_SYSTEM_000_010,非乘船登記時間<hex:02100103>下次開始登記時間： <hex:020858E1E80301FF28><hex:022003E80303>小時<hex:020815E1E80402FF0D><hex:022003E80403>分鐘<hex:FF01><hex:03>後<hex:FF29><hex:020825E1E80402FF10><hex:022003E80403>分鐘後<hex:FF0E>1分鐘以內<hex:03><hex:03>
-4,TEXT_CTSIKDENTRANCE_00663_Q1_000_000,進行乘船登記
-5,TEXT_CTSIKDENTRANCE_00663_Q1_000_001,查看「航運表」
-6,TEXT_CTSIKDENTRANCE_00663_Q1_000_002,確認「出海垂釣」的詳細情報
-7,TEXT_CTSIKDENTRANCE_00663_Q1_000_003,取消
-8,TEXT_CTSIKDENTRANCE_00663_STM_TITLE,要乘坐哪條航線？
-9,TEXT_CTSIKDENTRANCE_00663_STM_001,乘坐<hex:02280EFF09>IKDRoute<hex:E8020C03>。
-10,TEXT_CTSIKDENTRANCE_00663_SYSTEM_000_020,確定要乘坐<hex:02280EFF09>IKDRoute<hex:E8020C03>嗎？
-11,TEXT_CTSIKDENTRANCE_00663_SYSTEM_000_025,要乘坐<hex:02280EFF09>IKDRoute<hex:E8020C03>嗎？<hex:02100103><hex:024804F201FA03><hex:024904F201FB03>※如果有小隊成員未完成「紅蓮之狂潮主線任務」的話，<hex:02100103>將無法乘坐這條航線。<hex:0249020103><hex:0248020103>
-12,TEXT_CTSIKDENTRANCE_00663_DRYSKTHOTA_000_200,哎呀，你難道是忘帶魚竿了嗎？<hex:02100103>努力號是捕魚人專用的大型漁船，<hex:02100103>所以歡迎你作為捕魚人前來乘坐！
-13,TEXT_CTSIKDENTRANCE_00663_SYSTEM_000_205,僅限捕魚人能夠乘坐努力號。<hex:02100103>想要進行乘船登記時，請切換到捕魚人職業後，<hex:02100103>再次與德瑞斯庫托塔交談。
-14,TEXT_CTSIKDENTRANCE_00663_DRYSKTHOTA_000_300,非常抱歉！乘船登記時間已經結束……<hex:02100103>船隻已經出海了。<hex:02100103>請等待下次的航海。
-15,TEXT_CTSIKDENTRANCE_00663_SYSTEM_000_305,乘船登記的時間已經結束，<hex:02100103>因此無法乘船。
-16,TEXT_CTSIKDENTRANCE_00663_DRYSKTHOTA_000_500,現在還沒到乘船登記的時間！<hex:02100103>請耐心等待下次的登記時間。
-17,TEXT_CTSIKDENTRANCE_00663_SYSTEM_000_505,現在不是乘船登記時間，無法進行登記。<hex:02100103>下次乘船登記的開始時間可以從「航運表」進行確認。
-18,TEXT_CTSIKDENTRANCE_00663_DRYSKTHOTA_000_600,非常抱歉！<hex:02100103>船隻還沒有準備好，目前無法乘船。<hex:02100103>請等待下次的航海。
-19,TEXT_CTSIKDENTRANCE_00663_SYSTEM_000_605,因中途退出了上次的出海垂釣，所以無法進行登記。<hex:02100103>下次乘船登記的開始時間可以從「航運表」進行確認。
-20,TEXT_CTSIKDENTRANCE_00663_TALK_ACTOR,
-21,TEXT_CTSIKDENTRANCE_00663_PROG_TEST_005,
-22,TEXT_CTSIKDENTRANCE_00663_PROG_TEST_010,
-23,TEXT_CTSIKDENTRANCE_00663_PROG_TEST_Q1_000,
-24,TEXT_CTSIKDENTRANCE_00663_PROG_TEST_Q1_001,
-25,TEXT_CTSIKDENTRANCE_00663_PROG_TEST_Q1_002,
-26,TEXT_CTSIKDENTRANCE_00663_PROG_TEST_Q1_010,
-27,TEXT_CTSIKDENTRANCE_00663_PROG_TEST_001,
-28,TEXT_CTSIKDENTRANCE_00663_PROG_TEST_000,非乘船登記時間（距離下次登記開始還有：<hex:022003E80203>秒）
+0,"TEXT_CTSIKDENTRANCE_00663_DRYSKTHOTA_000_000","Welcome to the <hex:021A020203>Endeavor<hex:021A020103>, pride and joy of the Fishermen's Guild. If the thought of embarking on a voyage to the high seas piques your interest, you may be pleased to know we are currently recruiting crew members. Any interested parties are welcome to report to the guild at Limsa Lominsa."
+1,"TEXT_CTSIKDENTRANCE_00663_DRYSKTHOTA_000_010","Welcome to the <hex:021A020203>Endeavor<hex:021A020103>! Will you be boarding the ship?"
+2,"TEXT_CTSIKDENTRANCE_00663_SYSTEM_000_005","Now accepting crew members."
+3,"TEXT_CTSIKDENTRANCE_00663_SYSTEM_000_010","No longer accepting crew members.<hex:02100103>Recruitment will start again in <hex:0208ACE1E80301FF66><hex:022003E80303> <hex:020812E4E80302FF05>hour<hex:FF06>hours<hex:03><hex:02081AE1E80301FF12><hex:02080EE1E80401FF06> and <hex:FF01><hex:03><hex:FF01><hex:03><hex:020829E1E80401FF21><hex:022003E80403> <hex:020816E4E80402FF07>minute<hex:FF08>minutes<hex:03><hex:FF01><hex:03><hex:FF3F><hex:02083BE1E80401FF21><hex:022003E80403> <hex:020816E4E80402FF07>minute<hex:FF08>minutes<hex:03><hex:FF13>less than 1 minute<hex:03><hex:03>."
+4,"TEXT_CTSIKDENTRANCE_00663_Q1_000_000","Register to board."
+5,"TEXT_CTSIKDENTRANCE_00663_Q1_000_001","View sailing schedule."
+6,"TEXT_CTSIKDENTRANCE_00663_Q1_000_002","Learn more about ocean fishing."
+7,"TEXT_CTSIKDENTRANCE_00663_Q1_000_003","Cancel."
+8,"TEXT_CTSIKDENTRANCE_00663_STM_TITLE","Which route will you embark upon?"
+9,"TEXT_CTSIKDENTRANCE_00663_STM_001","Embark to the <hex:02280EFF09>IKDRoute<hex:E8020C03>."
+10,"TEXT_CTSIKDENTRANCE_00663_SYSTEM_000_020","Embark to the <hex:02280EFF09>IKDRoute<hex:E8020C03>?"
+11,"TEXT_CTSIKDENTRANCE_00663_SYSTEM_000_025","Embark to the <hex:02280EFF09>IKDRoute<hex:E8020C03>?<hex:02100103><hex:024804F201FA03><hex:024904F201FB03>※Party members who have not completed the main scenario quest “<hex:022816FF06>Quest<hex:E803FF0B>QUEST_NAME<hex:03>” cannot embark upon this route.<hex:0249020103><hex:0248020103>"
+12,"TEXT_CTSIKDENTRANCE_00663_DRYSKTHOTA_000_200","Hold on. Where is your fishing rod? I would have you know that this is no pleasure craft─the captain is deadly serious about his sport, and expects everyone aboard to be of like mind. Approach with rod in hand, however, and we shall welcome you aboard with open arms."
+13,"TEXT_CTSIKDENTRANCE_00663_SYSTEM_000_205","Only fishers may board the <hex:021A020203>Endeavor<hex:021A020103>. If you wish to register as a crew member, speak with Dryskthota after changing your class to fisher."
+14,"TEXT_CTSIKDENTRANCE_00663_DRYSKTHOTA_000_300","I regret to inform you that we are no longer recruiting crew members. And even if we were, well, the ship has already sailed. If you would but wait until it returns, I am sure there will be room for you on the next voyage."
+15,"TEXT_CTSIKDENTRANCE_00663_SYSTEM_000_305","The voyage is no longer accepting crew members."
+16,"TEXT_CTSIKDENTRANCE_00663_DRYSKTHOTA_000_500","I regret to inform you that we are no longer recruiting crew members. Do not despair, however, for there is always another voyage on the horizon."
+17,"TEXT_CTSIKDENTRANCE_00663_SYSTEM_000_505","Registrations for new crew members are no longer being accepted. Departure times can be viewed from the Sailing Schedule."
+18,"TEXT_CTSIKDENTRANCE_00663_DRYSKTHOTA_000_600","I am sorry, but we cannot allow you back on board the ship until it returns for the next voyage. If we let people hop on and off at will, our carefully prepared schedule would fall to pieces!"
+19,"TEXT_CTSIKDENTRANCE_00663_SYSTEM_000_605","You have recently abandoned a voyage and are unable to board until the next registration period. Departure times can be viewed from the Sailing Schedule."
+20,"TEXT_CTSIKDENTRANCE_00663_TALK_ACTOR",""
+21,"TEXT_CTSIKDENTRANCE_00663_PROG_TEST_005",""
+22,"TEXT_CTSIKDENTRANCE_00663_PROG_TEST_010",""
+23,"TEXT_CTSIKDENTRANCE_00663_PROG_TEST_Q1_000",""
+24,"TEXT_CTSIKDENTRANCE_00663_PROG_TEST_Q1_001",""
+25,"TEXT_CTSIKDENTRANCE_00663_PROG_TEST_Q1_002",""
+26,"TEXT_CTSIKDENTRANCE_00663_PROG_TEST_Q1_010",""
+27,"TEXT_CTSIKDENTRANCE_00663_PROG_TEST_001",""
+28,"TEXT_CTSIKDENTRANCE_00663_PROG_TEST_000","No longer accepting crew members (Registration opens again in <hex:022003E80203>s)"

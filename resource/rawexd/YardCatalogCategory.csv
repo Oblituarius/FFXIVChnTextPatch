@@ -1,13 +1,13 @@
-﻿key,0
-#,Category
-offset,0
-int32,str
-0,植物
-1,照明
-2,功能庭具
-3,桌子
-4,椅子
-5,腳下
-6,其他
-7,水池
-8,店鋪
+﻿key,0,1,2
+#,Category,,
+offset,0,4,6
+int32,str,uint16,byte
+0,"Plants",17,4
+1,"Lighting",17,3
+2,"Interactive Furnishings",17,8
+3,"Tables",17,1
+4,"Chairs ",17,2
+5,"Stepping Stones/Stepladders",17,5
+6,"Miscellaneous",17,9
+7,"Ponds/Fountains",17,6
+8,"Stalls",17,7

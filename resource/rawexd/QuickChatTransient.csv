@@ -2,43 +2,43 @@
 #,Text{Output}
 offset,0
 int32,str
-0,
-1,該指令只能在「水晶衝突」中使用。<hex:02100103>使用後會在小隊頻道中顯示固定的發言內容。<hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>「大家好！」<hex:021C020103><hex:021B020203><hex:021302EC03>
-2,該指令只能在「水晶衝突」中使用。<hex:02100103>使用後會在小隊頻道中顯示固定的發言內容。<hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>「辛苦了！」<hex:021C020103><hex:021B020203><hex:021302EC03>
-3,該指令只能在「水晶衝突」中使用。<hex:02100103>使用後會在小隊頻道中顯示固定的發言內容。<hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>「謝謝！」<hex:021C020103><hex:021B020203><hex:021302EC03>
-4,該指令只能在「水晶衝突」中使用。<hex:02100103>使用後會在小隊頻道中顯示固定的發言內容。<hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>「漂亮！」<hex:021C020103><hex:021B020203><hex:021302EC03>
-5,該指令只能在「群狼盛宴」中使用。<hex:02100103>使用後會在小隊頻道中顯示對戰用額外技能1的可使用情況。<hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>「『技能名』準備就緒！」<hex:02100103>「『技能名』還有『剩餘時間』秒才能使用！」<hex:021C020103><hex:021B020203><hex:021302EC03>
-6,該指令只能在「水晶衝突」中使用。<hex:02100103>使用後會根據情況在小隊頻道中顯示發言內容。<hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>「特職名」：「極限技準備就緒！」<hex:02100103>「特職名」：「極限技充能『當前數值』%！」<hex:021C020103><hex:021B020203><hex:021302EC03>
-7,該指令只能在「群狼盛宴」中使用。<hex:02100103>使用後會在小隊頻道中顯示固定的發言內容。<hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>「我來瞄準攻擊補給箱！」<hex:021C020103><hex:021B020203><hex:021302EC03>
-8,該指令只能在「群狼盛宴」中使用。<hex:02100103>使用後會在小隊頻道中顯示固定的發言內容。<hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>「我來瞄準防禦補給箱！」<hex:021C020103><hex:021B020203><hex:021302EC03>
-9,該指令只能在「群狼盛宴」中使用。<hex:02100103>使用後會在小隊頻道中顯示固定的發言內容。<hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>「我來瞄準奮戰補給箱！」<hex:021C020103><hex:021B020203><hex:021302EC03>
-10,該指令只能在「群狼盛宴」中使用。<hex:02100103>使用後會在小隊頻道中顯示固定的發言內容。<hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>「我來瞄準狼心！」<hex:021C020103><hex:021B020203><hex:021302EC03>
-11,該指令只能在「群狼盛宴」中使用。<hex:02100103>使用後會在小隊頻道中顯示固定的發言內容。<hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>「我來攻擊防護職業！」<hex:021C020103><hex:021B020203><hex:021302EC03>
-12,該指令只能在「群狼盛宴」中使用。<hex:02100103>使用後會在小隊頻道中顯示固定的發言內容。<hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>「我來攻擊治療職業！」<hex:021C020103><hex:021B020203><hex:021302EC03>
-13,該指令只能在「群狼盛宴」中使用。<hex:02100103>使用後會在小隊頻道中顯示固定的發言內容。<hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>「我來攻擊近戰職業！」<hex:021C020103><hex:021B020203><hex:021302EC03>
-14,該指令只能在「群狼盛宴」中使用。<hex:02100103>使用後會在小隊頻道中顯示固定的發言內容。<hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>「我來攻擊遠程職業！」<hex:021C020103><hex:021B020203><hex:021302EC03>
-15,該指令只能在「群狼盛宴」中使用。<hex:02100103>使用後會在小隊頻道中顯示固定的發言內容。<hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>「我來拖住防護職業！」<hex:021C020103><hex:021B020203><hex:021302EC03>
-16,該指令只能在「群狼盛宴」中使用。<hex:02100103>使用後會在小隊頻道中顯示固定的發言內容。<hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>「我來拖住治療職業！」<hex:021C020103><hex:021B020203><hex:021302EC03>
-17,該指令只能在「群狼盛宴」中使用。<hex:02100103>使用後會在小隊頻道中顯示固定的發言內容。<hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>「我來拖住近戰職業！」<hex:021C020103><hex:021B020203><hex:021302EC03>
-18,該指令只能在「群狼盛宴」中使用。<hex:02100103>使用後會在小隊頻道中顯示固定的發言內容。<hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>「我來拖住遠程職業！」<hex:021C020103><hex:021B020203><hex:021302EC03>
-19,該指令只能在「群狼盛宴」中使用。<hex:02100103>使用後會在小隊頻道中顯示固定的發言內容。<hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>「我來拾取戰章！」<hex:021C020103><hex:021B020203><hex:021302EC03>
-20,該指令只能在「群狼盛宴」中使用。<hex:02100103>使用後會在小隊頻道中顯示固定的發言內容。<hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>「請去拾取戰章！」<hex:021C020103><hex:021B020203><hex:021302EC03>
-21,該指令只能在「水晶衝突」中使用。<hex:02100103>使用後會在小隊頻道中顯示固定的發言內容。<hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>「大家一起進攻！」<hex:021C020103><hex:021B020203><hex:021302EC03>
-22,該指令只能在「水晶衝突」中使用。<hex:02100103>使用後會在小隊頻道中顯示固定的發言內容。<hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>「大家先撤退！」<hex:021C020103><hex:021B020203><hex:021302EC03>
-23,該指令只能在「水晶衝突」中使用。<hex:02100103>使用後會根據情況在小隊頻道中顯示發言內容。<hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>「我的魔力還有『當前數值』%！」<hex:021C020103><hex:021B020203><hex:021302EC03>
-24,該指令只能在「群狼盛宴」中使用。<hex:02100103>使用後會根據情況在小隊頻道中顯示發言內容。<hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>「我的技力還有『當前數值』%！」<hex:021C020103><hex:021B020203><hex:021302EC03>
-25,該指令只能在「水晶衝突」中使用。<hex:02100103>選中對戰對手時使用，會在小隊頻道中顯示以該對象為目標的戰術指示。<hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>「我來攻擊『特職名』！」<hex:021C020103><hex:021B020203><hex:021302EC03>
-26,該指令只能在「水晶衝突」中使用。<hex:02100103>選中對戰對手時使用，會在小隊頻道中顯示以該對象為目標的戰術指示。<hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>「我來干擾『特職名』！」<hex:021C020103><hex:021B020203><hex:021302EC03>
-27,該指令只能在「群狼盛宴」中使用。<hex:02100103>使用後會在小隊頻道中顯示對戰用額外技能2的可使用情況。<hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>「『技能名』準備就緒！」<hex:02100103>「『技能名』還有『剩餘時間』秒才能使用！」<hex:021C020103><hex:021B020203><hex:021302EC03>
-28,該指令只能在「群狼盛宴」中使用。<hex:02100103>選中對戰對手時使用，會標記對象並進行倒數，同時在小隊頻道中顯示以該對象為目標的戰術指示。<hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>「集中攻擊『職業名』！」<hex:021C020103><hex:021B020203><hex:021302EC03>
-29,該指令只能在「群狼盛宴」中使用。<hex:02100103>中斷「開始集中攻擊」並在小隊頻道中顯示戰術指示。<hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>「停止集中攻擊！」<hex:021C020103><hex:021B020203><hex:021302EC03>
-30,該指令只能在「水晶衝突」中使用。<hex:02100103>使用後會在小隊頻道中顯示固定的發言內容。<hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>「是我的錯！」<hex:021C020103><hex:021B020203><hex:021302EC03>
-31,該指令只能在「水晶衝突」中使用。<hex:02100103>使用後會在小隊頻道中顯示固定的發言內容。<hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>「我上了！」<hex:021C020103><hex:021B020203><hex:021302EC03>
-32,該指令只能在「水晶衝突」中使用。<hex:02100103>使用後會在小隊頻道中顯示固定的發言內容。<hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>「我先退後調整！」<hex:021C020103><hex:021B020203><hex:021302EC03>
-33,該指令只能在「水晶衝突」中使用。<hex:02100103>使用後會根據情況在小隊頻道中顯示發言內容。<hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>「特職名」：「我來押運戰術水晶！」<hex:021C020103><hex:021B020203><hex:021302EC03>
-34,該指令只能在「水晶衝突」中使用。<hex:02100103>使用後會在小隊頻道中顯示固定的發言內容。<hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>「請去押運戰術水晶！」<hex:021C020103><hex:021B020203><hex:021302EC03>
-35,該指令只能在「水晶衝突」中使用。<hex:02100103>選中小隊成員時使用，會在小隊頻道中顯示以該對象為目標的戰術指示。<hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>「我來掩護『特職名』！」<hex:021C020103><hex:021B020203><hex:021302EC03>
-36,該指令只能在「水晶衝突」中使用。<hex:02100103>使用後會根據情況在小隊頻道中顯示發言內容。<hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>「特職名」：「我要發動極限技了！」<hex:021C020103><hex:021B020203><hex:021302EC03>
-37,該指令只能在「水晶衝突」中使用。<hex:02100103>使用後會在小隊頻道中顯示固定的發言內容。<hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>「我們集合吧！」<hex:021C020103><hex:021B020203><hex:021302EC03>
-38,該指令只能在「水晶衝突」中使用。<hex:02100103>使用後會在小隊頻道中顯示淨化的可使用情況。<hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>「淨化準備就緒！」<hex:02100103>「淨化還有『剩餘時間』秒才能使用！」<hex:021C020103><hex:021B020203><hex:021302EC03>
-39,該指令只能在「水晶衝突」中使用。<hex:02100103>使用後會在小隊頻道中顯示防禦的可使用情況。<hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>「防禦準備就緒！」<hex:02100103>「防禦還有『剩餘時間』秒才能使用！」<hex:021C020103><hex:021B020203><hex:021302EC03>
+0,""
+1,"Fixed phrase available only during Crystalline Conflict.<hex:02100103><hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>Hello.<hex:021C020103><hex:021B020203><hex:021302EC03>"
+2,"Fixed phrase available only during Crystalline Conflict.<hex:02100103><hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>Good match!<hex:021C020103><hex:021B020203><hex:021302EC03>"
+3,"Fixed phrase available only during Crystalline Conflict.<hex:02100103><hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>Thank you.<hex:021C020103><hex:021B020203><hex:021302EC03>"
+4,"Fixed phrase available only during Crystalline Conflict.<hex:02100103><hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>Nice job!<hex:021C020103><hex:021B020203><hex:021302EC03>"
+5,"Variable phrase available only during the Feast.<hex:02100103>Uses name and recast time of action in <hex:024804F201F403><hex:024904F201F503>additional action<hex:0249020103><hex:0248020103> slot 1.<hex:02100103><hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>[Purify] ready!<hex:021C020103><hex:021B020203><hex:021302EC03><hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>[Purify] ready in [5]s!<hex:021C020103><hex:021B020203><hex:021302EC03>"
+6,"Variable phrase available only during Crystalline Conflict.<hex:02100103>Displays current job and limit gauge progress.<hex:02100103><hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>[White mage]: Limit break ready!<hex:021C020103><hex:021B020203><hex:021302EC03><hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>[White mage]: Limit break at [99]%!<hex:021C020103><hex:021B020203><hex:021302EC03>"
+7,"Fixed phrase available only during the Feast.<hex:02100103><hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>Collecting offensive supplies!<hex:021C020103><hex:021B020203><hex:021302EC03>"
+8,"Fixed phrase available only during the Feast.<hex:02100103><hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>Collecting defensive supplies!<hex:021C020103><hex:021B020203><hex:021302EC03>"
+9,"Fixed phrase available only during the Feast.<hex:02100103><hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>Collecting adrenaline supplies!<hex:021C020103><hex:021B020203><hex:021302EC03>"
+10,"Fixed phrase available only during the Feast.<hex:02100103><hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>Collecting wolf's heart!<hex:021C020103><hex:021B020203><hex:021302EC03>"
+11,"Fixed phrase available only during the Feast.<hex:02100103><hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>Attacking tank!<hex:021C020103><hex:021B020203><hex:021302EC03>"
+12,"Fixed phrase available only during the Feast.<hex:02100103><hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>Attacking healer!<hex:021C020103><hex:021B020203><hex:021302EC03>"
+13,"Fixed phrase available only during the Feast.<hex:02100103><hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>Attacking melee DPS!<hex:021C020103><hex:021B020203><hex:021302EC03>"
+14,"Fixed phrase available only during the Feast.<hex:02100103><hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>Attacking ranged DPS!<hex:021C020103><hex:021B020203><hex:021302EC03>"
+15,"Fixed phrase available only during the Feast.<hex:02100103><hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>Stopping tank!<hex:021C020103><hex:021B020203><hex:021302EC03>"
+16,"Fixed phrase available only during the Feast.<hex:02100103><hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>Stopping healer!<hex:021C020103><hex:021B020203><hex:021302EC03>"
+17,"Fixed phrase available only during the Feast.<hex:02100103><hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>Stopping melee DPS!<hex:021C020103><hex:021B020203><hex:021302EC03>"
+18,"Fixed phrase available only during the Feast.<hex:02100103><hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>Stopping ranged DPS!<hex:021C020103><hex:021B020203><hex:021302EC03>"
+19,"Fixed phrase available only during the Feast.<hex:02100103><hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>Collecting medals!<hex:021C020103><hex:021B020203><hex:021302EC03>"
+20,"Fixed phrase available only during the Feast.<hex:02100103><hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>Get the medals!<hex:021C020103><hex:021B020203><hex:021302EC03>"
+21,"Fixed phrase available only during Crystalline Conflict.<hex:02100103><hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>Everyone, attack!<hex:021C020103><hex:021B020203><hex:021302EC03>"
+22,"Fixed phrase available only during Crystalline Conflict.<hex:02100103><hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>Fall back and regroup!<hex:021C020103><hex:021B020203><hex:021302EC03>"
+23,"Variable phrase available only during Crystalline Conflict.<hex:02100103>Displays percentage of MP remaining.<hex:02100103><hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>MP at [69]%.<hex:021C020103><hex:021B020203><hex:021302EC03>"
+24,"Variable phrase available only during the Feast.<hex:02100103>Displays percentage of TP remaining.<hex:02100103><hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>TP at [41]%.<hex:021C020103><hex:021B020203><hex:021302EC03>"
+25,"Variable phrase available only during Crystalline Conflict.<hex:02100103>Uses current target. <hex:02100103><hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>Attacking [white mage]!<hex:021C020103><hex:021B020203><hex:021302EC03>"
+26,"Variable phrase available only during Crystalline Conflict.<hex:02100103>Uses current target. <hex:02100103><hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>Blocking [white mage]!<hex:021C020103><hex:021B020203><hex:021302EC03>"
+27,"Variable phrase available only during the Feast.<hex:02100103>Uses name and recast time of action in <hex:024804F201F403><hex:024904F201F503>additional action<hex:0249020103><hex:0248020103> slot 2.<hex:02100103><hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>[Purify] ready!<hex:021C020103><hex:021B020203><hex:021302EC03><hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>[Purify] ready in [5]s!<hex:021C020103><hex:021B020203><hex:021302EC03>"
+28,"Variable phrase available only during the Feast.<hex:02100103>Uses current target and adds a countdown time above their head.<hex:02100103><hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>Focus on the [white mage]!<hex:021C020103><hex:021B020203><hex:021302EC03>"
+29,"Fixed phrase available only during the Feast.<hex:02100103><hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>End focused attack!<hex:021C020103><hex:021B020203><hex:021302EC03>"
+30,"Fixed phrase available only during Crystalline Conflict.<hex:02100103><hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>Sorry!<hex:021C020103><hex:021B020203><hex:021302EC03>"
+31,"Fixed phrase available only during Crystalline Conflict.<hex:02100103><hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>I'm going on ahead!<hex:021C020103><hex:021B020203><hex:021302EC03>"
+32,"Fixed phrase available only during Crystalline Conflict.<hex:02100103><hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>Falling back!<hex:021C020103><hex:021B020203><hex:021302EC03>"
+33,"Variable phrase available only during Crystalline Conflict.<hex:02100103><hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>[White mage]: Moving the crystal now!<hex:021C020103><hex:021B020203><hex:021302EC03>"
+34,"Fixed phrase available only during Crystalline Conflict.<hex:02100103><hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>Push the crystal!<hex:021C020103><hex:021B020203><hex:021302EC03>"
+35,"Variable phrase available only during Crystalline Conflict.<hex:02100103>Applies to targeted party member.<hex:02100103><hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>Covering [white mage]!<hex:021C020103><hex:021B020203><hex:021302EC03>"
+36,"Variable phrase available only during Crystalline Conflict.<hex:02100103>Displays current job.<hex:02100103><hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>[White mage]: Executing a limit break!<hex:021C020103><hex:021B020203><hex:021302EC03>"
+37,"Fixed phrase available only during Crystalline Conflict.<hex:02100103><hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>Everyone, group up!<hex:021C020103><hex:021B020203><hex:021302EC03>"
+38,"Variable phrase available only during Crystalline Conflict.<hex:02100103>Informs party of availability of Purify.<hex:02100103><hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>[Purify] ready!<hex:021C020103><hex:021B020203><hex:021302EC03><hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>[Purify] ready in [5]s!<hex:021C020103><hex:021B020203><hex:021302EC03>"
+39,"Variable phrase available only during Crystalline Conflict.<hex:02100103>Informs party of availability of Guard.<hex:02100103><hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>[Guard] ready!<hex:021C020103><hex:021B020203><hex:021302EC03><hex:02100103><hex:021303E91103><hex:021B020103><hex:021C020203>[Guard] ready in [5]s!<hex:021C020103><hex:021B020203><hex:021302EC03>"

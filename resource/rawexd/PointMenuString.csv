@@ -2,92 +2,100 @@
 #,
 offset,0
 int32,str
-0,
-1,
-2,
-3,粗魯的霍比格族
-4,休息中的霍比格族
-5,大汗淋漓的朵普羅族
-6,不安的霍比格族
-7,瑪布露
-8,友之石塔
-9,食之石塔
-10,葦之石塔
-11,罐之石塔
-12,金之石塔
-13,墓之石塔
-14,封之石塔
-15,空白的石塔
-16,烏克·拉瑪特
-17,粉色的半固體
-18,裝有液體的小包
-19,細長的固體
-20,裝有糊狀物的小包
-21,也許是食品罐頭的物體
-22,
-23,
-24,
-25,
-26,
-27,迎曦之民盜賊
-28,眾陽之民採集家
-29,迎曦之民探險家
-30,阿爾夏爾
-31,普利修
-32,巴庫加加
-33,管家之王
-34,小黃鶯的忠實擁護者
-35,流沙屋的店員
-36,皮科特
-37,藍紫色巨大仙人掌
-38,藍色灌木叢
-39,圓形巨大蘑菇
-40,焰火狀枝條的植物？
-41,長了粉色苔蘚的地面
-42,命名威
-43,烏克·拉瑪特和市民
-44,聯合商城
-45,地場節點·九
-46,政府區域
-47,0
-48,1
-49,2
-50,3
-51,4
-52,5
-53,6
-54,7
-55,8
-56,9
-57,確認輸入的內容
-58,清除
-59,確定
-60,退出
-61,藍寶石
-62,石榴石
-63,亞歷山大石
-64,手寫體的文字
-65,退出
-66,長著很多刺的玻璃樹
-67,長花的灌木
-68,頂著粉色傘蓋的大樹？
-69,像玻璃工藝品一樣的花
-70,如同彩虹色階梯的山坡
-71,命名威
-72,
-73,
-74,
-75,
-76,
-77,
-78,
-79,
-80,
-81,
-82,
-83,
-84,
-85,
-86,
-87,
-88,
+0,""
+1,""
+2,""
+3,"Hard-bitten Hoobigo"
+4,"Resting Hoobigo"
+5,"Sweaty Doppro"
+6,"Disconcerted Hoobigo"
+7,"Mablu"
+8,"Lay of the Brotherhood"
+9,"Lay of Repast"
+10,"Lay of Reeds"
+11,"Lay of Pots"
+12,"Lay of Gold"
+13,"Lay of Proof"
+14,"Lay of Ice"
+15,"Blank Pillar"
+16,"Wuk Lamat"
+17,"Slab of Pink Hexagons"
+18,"Liquid-filled Pouch"
+19,"Long Rectangular Bar"
+20,"Hexagon-patterned Bag"
+21,"Black and Yellow Tin"
+22,""
+23,""
+24,""
+25,""
+26,""
+27,"Tonawawtan Thief"
+28,"Shetona Collector"
+29,"Tonawawtan Explorer"
+30,"Alxaal"
+31,"Prishe"
+32,"Bakool Ja Ja"
+33,"Royal Seneschal"
+34,"Songbirds Fans"
+35,"Quicksand Employee"
+36,"Picot"
+37,"Vaguely Familiar Cactus"
+38,"Bright Blue Bush"
+39,"Massive Mushroom Mound"
+40,"Tree with Exploding Blooms?"
+41,"Spongy Pink Carpet"
+42,"Namingway"
+43,"Wuk Lamat and the Alexandrian Citizen"
+44,"Nexus Arcade"
+45,"Leynode Nine"
+46,"Government Sector"
+47,"0"
+48,"1"
+49,"2"
+50,"3"
+51,"4"
+52,"5"
+53,"6"
+54,"7"
+55,"8"
+56,"9"
+57,"View Current Input"
+58,"Clear"
+59,"Confirm "
+60,"Cancel"
+61,"Sapphire"
+62,"Garnet"
+63,"Alexandrite"
+64,"Scrawled Phrase"
+65,"Cancel"
+66,"Spiky Crystalline Tree"
+67,"Flowery Shrub"
+68,"Tree with Purple Canopy?"
+69,"Seemingly Glassblown Bloom"
+70,"Iridescent Terrain"
+71,"Namingway"
+72,""
+73,""
+74,""
+75,""
+76,"Carpet"
+77,"Tea Set"
+78,"Fair Maiden"
+79,"Magic Sigil"
+80,"Y'nazqha"
+81,"Shadefleet"
+82,"Ominous Anomaly"
+83,"Twisted Tree"
+84,"Buoyant Tentacled Lump"
+85,"Flowers in Full Bloom"
+86,"Glowing Gems"
+87,"Floating Fragments"
+88,"Namingway"
+89,""
+90,""
+91,""
+92,""
+93,""
+94,""
+95,""
+96,""

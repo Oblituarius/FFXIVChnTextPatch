@@ -2,168 +2,168 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_JOBBRD700_02894_SEQ_00,蛇巢司令部的吉德洛一直在等待雙蛇黨的協商結果。
-1,TEXT_JOBBRD700_02894_SEQ_01,司令部下達了捨棄桑松正牙尉的指示，冒險者等人拒絕服從該命令，決定獨自救出桑松。向格里達尼亞弓箭手公會的呂西安娜和槍術師公會的伊維因尋求協助。
-2,TEXT_JOBBRD700_02894_SEQ_02,從兩個公會那裡都得到了協助。和蛇巢司令部的沃爾賽勒正牙校談談。
-3,TEXT_JOBBRD700_02894_SEQ_03,得知了努爾瓦爾等人的所在地。前往北部林區的榿木泉，和吉德洛匯合。
-4,TEXT_JOBBRD700_02894_SEQ_04,為了救出桑松正牙尉，打倒了努爾瓦爾。返回北部林區。
-5,TEXT_JOBBRD700_02894_SEQ_05,聽了桑松正牙尉的話後，努爾瓦爾似乎認識到了自己的過錯。和榿木泉的桑松正牙尉談談。
-6,TEXT_JOBBRD700_02894_SEQ_06,努爾瓦爾接受了桑松正牙尉的決心。接下來輪到大家向雙蛇黨表明想法了。返回蛇巢司令部，和沃爾賽勒正牙校談談。
-7,TEXT_JOBBRD700_02894_SEQ_07,沃爾賽勒正牙校答應一定會將桑松正牙尉的想法轉告給高層。為了傳達桑松正牙尉平安歸來的事，和南部林區石場水車西邊的讓泰爾談談。
-8,TEXT_JOBBRD700_02894_SEQ_08,讓泰爾希望努爾瓦爾能夠洗心革面，重新振作，同時希望萬舍隆的真正願望可以被世人所知。只要有桑松正牙尉和吉德洛開闢道路，他的願望總有一天會實現。<hex:02100103><hex:02100103>※滿足下列條件後，可以從石場水車西邊的讓泰爾那裡領取新的特職任務。<hex:02100103>1.完成「暗影之逆焰主線任務」中「暗影之逆焰」。<hex:02100103>2.完成物理進攻職業的「職能任務：暗影之章」。
-9,TEXT_JOBBRD700_02894_SEQ_09,
-10,TEXT_JOBBRD700_02894_SEQ_10,
-11,TEXT_JOBBRD700_02894_SEQ_11,
-12,TEXT_JOBBRD700_02894_SEQ_12,
-13,TEXT_JOBBRD700_02894_SEQ_13,
-14,TEXT_JOBBRD700_02894_SEQ_14,
-15,TEXT_JOBBRD700_02894_SEQ_15,
-16,TEXT_JOBBRD700_02894_SEQ_16,
-17,TEXT_JOBBRD700_02894_SEQ_17,
-18,TEXT_JOBBRD700_02894_SEQ_18,
-19,TEXT_JOBBRD700_02894_SEQ_19,
-20,TEXT_JOBBRD700_02894_SEQ_20,
-21,TEXT_JOBBRD700_02894_SEQ_21,
-22,TEXT_JOBBRD700_02894_SEQ_22,
-23,TEXT_JOBBRD700_02894_SEQ_23,
-24,TEXT_JOBBRD700_02894_TODO_00,和弓箭手公會的呂西安娜對話
-25,TEXT_JOBBRD700_02894_TODO_01,和槍術師公會的伊維因對話
-26,TEXT_JOBBRD700_02894_TODO_02,和沃爾賽勒正牙校對話
-27,TEXT_JOBBRD700_02894_TODO_03,和榿木泉的吉德洛匯合
-28,TEXT_JOBBRD700_02894_TODO_04,和榿木泉的吉德洛匯合
-29,TEXT_JOBBRD700_02894_TODO_05,和榿木泉的桑松正牙尉對話
-30,TEXT_JOBBRD700_02894_TODO_06,和蛇巢司令部的沃爾賽勒正牙校對話
-31,TEXT_JOBBRD700_02894_TODO_07,和石場水車西邊的讓泰爾對話
-32,TEXT_JOBBRD700_02894_TODO_08,
-33,TEXT_JOBBRD700_02894_TODO_09,
-34,TEXT_JOBBRD700_02894_TODO_10,
-35,TEXT_JOBBRD700_02894_TODO_11,
-36,TEXT_JOBBRD700_02894_TODO_12,
-37,TEXT_JOBBRD700_02894_TODO_13,
-38,TEXT_JOBBRD700_02894_TODO_14,
-39,TEXT_JOBBRD700_02894_TODO_15,
-40,TEXT_JOBBRD700_02894_TODO_16,
-41,TEXT_JOBBRD700_02894_TODO_17,
-42,TEXT_JOBBRD700_02894_TODO_18,
-43,TEXT_JOBBRD700_02894_TODO_19,
-44,TEXT_JOBBRD700_02894_TODO_20,
-45,TEXT_JOBBRD700_02894_TODO_21,
-46,TEXT_JOBBRD700_02894_TODO_22,
-47,TEXT_JOBBRD700_02894_TODO_23,
-48,TEXT_JOBBRD700_02894_GUYDELOT_000_000,啊，你來得正好。<hex:02100103>努爾瓦爾發來了給雙蛇黨的通知……
-49,TEXT_JOBBRD700_02894_GUYDELOT_000_001,他說「如果想讓我們放了桑松，就把那本書的內容公開」。<hex:02100103>看來他是想把萬舍隆的真正死因告訴格里達尼亞人民，<hex:02100103>從而煽動人們對阿拉米格的不信任感。
-50,TEXT_JOBBRD700_02894_GUYDELOT_000_002,雙蛇黨的高層們現在正在商討對策，<hex:02100103>我們就等他們做出決定吧。
-51,TEXT_JOBBRD700_02894_VORSAILE_000_010,<hex:02085EE1E93601FF50><hex:02084CE3E93680FF3E><hex:022903EB0203><hex:020834E1E93601FF2C><hex:020828E3E93680FF20><hex:02281CFF17>GCRankGridaniaMaleText<hex:E9360103><hex:FF01><hex:03><hex:FF01><hex:03><hex:FF07><hex:022903EB0203><hex:03><hex:FF07><hex:022903EB0203><hex:03>、吉德洛，<hex:02100103>司令部經過協商，已經得出了結論。
-52,TEXT_JOBBRD700_02894_VORSAILE_000_011,……對不起，<hex:02100103>雙蛇黨堅決不接受敵人的要求，<hex:02100103>並決定立即殲滅努爾瓦爾及其同黨。
-53,TEXT_JOBBRD700_02894_GUYDELOT_000_012,等、等一下！！<hex:02100103>連要求釋放人質的談判都沒有嗎？這種決定是什麼意思？！
-54,TEXT_JOBBRD700_02894_VORSAILE_000_013,努爾瓦爾等人這是在威脅國家，<hex:02100103>所以雙蛇黨高層根本就沒打算和他們談判……<hex:02100103>還有，高層還要求你們立即將那本書提交給司令部。
-55,TEXT_JOBBRD700_02894_GUYDELOT_000_015,……開什麼玩笑。<hex:02100103>桑松怎麼辦……你想讓自己的部下白白送死嗎！
-56,TEXT_JOBBRD700_02894_GUYDELOT_000_016,而且那個萬舍隆對你們來說難道不是英雄嗎！<hex:02100103>你們不僅逃避責任，不去理解那位英雄的後人為何會這麼想不開，<hex:02100103>甚至還要對部下見死不救……開什麼玩笑！！
-57,TEXT_JOBBRD700_02894_GUYDELOT_000_017,我雖然對抓走桑松的努爾瓦爾非常火大，<hex:02100103>也認為他的做法不可取……<hex:02100103>可是你們的決定，也毫無風情可言！！
-58,TEXT_JOBBRD700_02894_Q1_000_000,對沃爾賽勒說些什麼？
-59,TEXT_JOBBRD700_02894_A1_000_001,吉德洛說得對，毫無風情
-60,TEXT_JOBBRD700_02894_A1_000_002,我看錯雙蛇黨了
-61,TEXT_JOBBRD700_02894_VORSAILE_100_018,……你們冷靜點，先別急。<hex:02100103>我現在只是把司令部的協商結果告訴你們而已……<hex:02100103>而且，這件事還沒有上報給嘉恩·艾大人呢。
-62,TEXT_JOBBRD700_02894_VORSAILE_100_019,沒錯，正如吉德洛和<hex:02085EE1E93601FF50><hex:02084CE3E93680FF3E><hex:022903EB0203><hex:020834E1E93601FF2C><hex:020828E3E93680FF20><hex:02281CFF17>GCRankGridaniaMaleText<hex:E9360103><hex:FF01><hex:03><hex:FF01><hex:03><hex:FF07><hex:022903EB0203><hex:03><hex:FF07><hex:022903EB0203><hex:03>所說，<hex:02100103>這麼沒有風情的決定……不聽也罷！
-63,TEXT_JOBBRD700_02894_VORSAILE_100_020,這次的決定只是因為一部分高層膽小罷了，<hex:02100103>從他們沒有上報給嘉恩·艾大人這一點就能看得出來。
-64,TEXT_JOBBRD700_02894_VORSAILE_100_021,我已經在各大公會安排了可以協助我們的人，<hex:02100103>只要你們過去找他們，應該就可以立即出發。<hex:02100103>當然了，是瞞著雙蛇黨的！
-65,TEXT_JOBBRD700_02894_GUYDELOT_100_022,喂喂……你這個人很有風情嘛！<hex:02100103>原來雙蛇黨裡也有沃爾先生這樣的人啊！
-66,TEXT_JOBBRD700_02894_VORSAILE_100_023,……能、能不能別叫我沃爾先生？<hex:02100103>好了，接下來就要跟時間賽跑了！<hex:02100103>吉德洛，你去把事情的始末告訴讓泰爾吧。
-67,TEXT_JOBBRD700_02894_VORSAILE_100_024,<hex:02085EE1E93601FF50><hex:02084CE3E93680FF3E><hex:022903EB0203><hex:020834E1E93601FF2C><hex:020828E3E93680FF20><hex:02281CFF17>GCRankGridaniaMaleText<hex:E9360103><hex:FF01><hex:03><hex:FF01><hex:03><hex:FF07><hex:022903EB0203><hex:03><hex:FF07><hex:022903EB0203><hex:03>，不好意思，<hex:02100103>請你去一趟弓箭手公會和槍術師公會。<hex:02100103>我已經將事情通知這兩個公會的會長了！
-68,TEXT_JOBBRD700_02894_VORSAILE_100_025,等公會那邊準備好之後，你盡快再過來一趟。<hex:02100103>一旦查明敵人的藏身之處，雙蛇黨應該也會行動吧，<hex:02100103>我們沒有那麼多時間了！
-69,TEXT_JOBBRD700_02894_VORSAILE_000_030,能請你去找弓箭手公會和槍術師公會的會長，<hex:02100103>呂西安娜和伊維因申請支援嗎？<hex:02100103>我會假裝服從上面的決定，暗中收集情報的。
-70,TEXT_JOBBRD700_02894_LUCIANE_000_040,我已經聽說了。<hex:02100103>你會到這裡來，就表示我們馬上要出發了吧？<hex:02100103>不過話說回來，沒想到原來紅葉戰爭還有這樣的秘密啊……
-71,TEXT_JOBBRD700_02894_LUCIANE_000_041,身為愛弓之人，我不僅認識你，<hex:02100103>跟吉德洛和讓泰爾也有幾分交情。<hex:02100103>我們很快就可以做好出發的準備！
-72,TEXT_JOBBRD700_02894_YWAIN_000_050,……我已經聽沃爾賽勒說過事情經過了。<hex:02100103>桑松也是曾在我們公會學習過槍術的人，<hex:02100103>居然這麼輕易就被敵人抓走，真是丟人！
-73,TEXT_JOBBRD700_02894_YWAIN_000_055,既然是老朋友沃爾賽勒的委託，<hex:02100103>那我們也會為救出過去的門生出一份力的。<hex:02100103>用不了多久就可以出發。
-74,TEXT_JOBBRD700_02894_YWAIN_000_060,既然是老朋友沃爾賽勒……還有你的委託，<hex:02100103>那我們也會為救出過去的門生出一份力的。<hex:02100103>用不了多久就可以出發。
-75,TEXT_JOBBRD700_02894_LUCIANE_000_070,具體要採取的行動<hex:02100103>只需要等沃爾賽勒正牙校的消息就行了是吧？<hex:02100103>在此之前，我會帶領弓箭手們做好出發的準備的。
-76,TEXT_JOBBRD700_02894_YWAIN_000_075,我已經選好一同前往的槍術師了，<hex:02100103>他們都是即使知道了萬舍隆大人的真正死因後也能保持冷靜的人。<hex:02100103>你就先回沃爾賽勒那裡去吧。
-77,TEXT_JOBBRD700_02894_VORSAILE_000_080,事情有進展了！<hex:02100103>雙蛇黨收到了有關努爾瓦爾等人所在地的情報，<hex:02100103>他們好像已經回到黑衣森林了。
-78,TEXT_JOBBRD700_02894_VORSAILE_000_081,據說他們現在正在北部林區衛月碎片的附近……<hex:02100103>那塊平時沒人會去的地方，<hex:02100103>等著雙蛇黨最後的決定。
-79,TEXT_JOBBRD700_02894_VORSAILE_000_082,我會負責聯絡吉德洛和公會裡要去協助你們的人，<hex:02100103>你準備好之後也快趕過去吧！<hex:02100103>要在司令部派遣的部隊趕到之前在那集合！
-80,TEXT_JOBBRD700_02894_VORSAILE_000_083,我留下來拖住雙蛇黨的行動。<hex:02100103>快去榿木泉吧，敵人就在那附近！
-81,TEXT_JOBBRD700_02894_LUCIANE_000_090,敵人在榿木泉啊……
-82,TEXT_JOBBRD700_02894_YWAIN_000_095,我們負責對付周圍的雜兵，<hex:02100103>救桑松的事就交給你們了。
-83,TEXT_JOBBRD700_02894_VORSAILE_000_100,敵人就在榿木泉附近。<hex:02100103>一切就拜託你們了！
-84,TEXT_JOBBRD700_02894_GUYDELOT_000_110,呼……總算是趕上了……<hex:02100103>差一點就被司令部的派遣部隊搶先了。
-85,TEXT_JOBBRD700_02894_GUYDELOT_000_111,公會的人會幫我們對付周圍的嘍囉，<hex:02100103>我們只要順利找到努爾瓦爾，<hex:02100103>把那傢伙揍飛就行了！
-86,TEXT_JOBBRD700_02894_NOURVAL_000_120,哎呀呀，你們二位到這裡來有何貴幹啊？<hex:02100103>難不成是雙蛇黨派你們來給格里達尼亞傳話的？
-87,TEXT_JOBBRD700_02894_GUYDELOT_000_121,嘿，你這個做事不講半點風情的蠢貨！<hex:02100103>真不巧，我們根本不想管你那些破爛要求。
-88,TEXT_JOBBRD700_02894_NOURVAL_000_122,……莫非你們不是雙蛇黨派來救人的，只是單純地想來鬧事？<hex:02100103>我還以為你們是聰明人呢……<hex:02100103>別忘了人質的命還攥在我的手裡哦？
-89,TEXT_JOBBRD700_02894_GUYDELOT_000_123,喔……有本事你就動他試試。<hex:02100103>如果沒等到雙蛇黨的回覆就把桑松殺了，<hex:02100103>你可以談條件的籌碼就完全沒有了喲？
-90,TEXT_JOBBRD700_02894_NOURVAL_000_124,……原來如此，你們是有恃無恐啊。<hex:02100103>不過，如果你們打不贏我，也就只是單純的鬧事罷了……
-91,TEXT_JOBBRD700_02894_GUYDELOT_000_125,用你廢話！<hex:02100103>像你們這種性格扭曲一意孤行不解風情的傢伙，<hex:02100103>只有狠狠教訓一頓才能清醒過來了！
-92,TEXT_JOBBRD700_02894_GUYDELOT_000_126,你的想法根本就是錯的……<hex:02100103>等我們揍完你，就創作一支狂想曲出來，<hex:02100103>好好唱給你聽！
-93,TEXT_JOBBRD700_02894_NOURVAL_000_200,嗚……為什麼！為什麼你們不明白！<hex:02100103>像阿拉米格那樣卑鄙的國家，我們為什麼要幫助他們！
-94,TEXT_JOBBRD700_02894_GUYDELOT_000_201,<hex:021A020203>拿起槍～化身和平的先鋒～<hex:02100103>拉開弓～防禦森林被燒毀～<hex:02100103>最後～為了讓大家展顏歡笑～<hex:021A020103>
-95,TEXT_JOBBRD700_02894_NOURVAL_000_202,這、這首歌……<hex:02100103>為什麼你會唱這首歌！
-96,TEXT_JOBBRD700_02894_GUYDELOT_000_203,我找讓泰爾老爺子<hex:02100103>帶我去了你們一族一直守護的萬舍隆之墓。
-97,TEXT_JOBBRD700_02894_GUYDELOT_000_204,這真是首美妙的歌啊，<hex:02100103>它就刻在墓碑上……<hex:02100103>是你們的祖先萬舍隆深愛的歌。
-98,TEXT_JOBBRD700_02894_GUYDELOT_000_205,這首歌唱的……就是要為了和平而拿起武器對吧？<hex:02100103>你知道嗎……紅葉戰爭時代寫出的戰歌，<hex:02100103>大多數都是為了讚揚萬舍隆，是由他所說的話而寫成的。
-99,TEXT_JOBBRD700_02894_GUYDELOT_000_206,並且，以萬舍隆說過的話為原型創作出來的這些戰歌，<hex:02100103>幾乎全都帶有兩個詞語……<hex:02100103>那就是「和平」與「合作」。
-100,TEXT_JOBBRD700_02894_NOURVAL_000_207,……那又怎樣？<hex:02100103>你這種人沒資格跟我講萬舍隆大人！<hex:02100103>我們一族為了給萬舍隆大人洗刷屈辱，一直……
-101,TEXT_JOBBRD700_02894_JEHANTEL_000_208,唯一一個從暗殺現場逃得性命的人——萬舍隆之子朗德雷內爾大人，<hex:02100103>我想他應該是你的曾祖父吧……<hex:02100103>你猜他為什麼沒有把父親的真正死因告訴大家？
-102,TEXT_JOBBRD700_02894_JEHANTEL_000_209,……因為他很清楚，<hex:02100103>自己的父親萬舍隆是多麼渴望和平！
-103,TEXT_JOBBRD700_02894_JEHANTEL_000_210,如果人們得知英雄遭到了暗殺，<hex:02100103>那麼大家的願望就不會停留在將敵人趕出森林，<hex:02100103>而會喊著要消滅阿拉米格吧。
-104,TEXT_JOBBRD700_02894_JEHANTEL_000_211,一旦事態發展到這種地步，戰爭就會拖得更久，<hex:02100103>最終只會以淒慘的結局收場。而萬舍隆大人渴望的和平<hex:02100103>就會化為夢幻泡影。正因為他想到了這個後果，他才……
-105,TEXT_JOBBRD700_02894_NOURVAL_000_212,……我才、我才不要聽你們這種小兒科的謊話！<hex:02100103>萬舍隆大人一定希望能消滅阿拉米格！
-106,TEXT_JOBBRD700_02894_JEHANTEL_000_213,……萬舍隆大人的墓地應該只有你們一族的人才知道，<hex:02100103>可你知道我為什麼也會知道嗎？<hex:02100103>因為我曾經見過朗德雷內爾大人啊……
-107,TEXT_JOBBRD700_02894_JEHANTEL_000_214,他跟你一樣，<hex:02100103>以父親萬舍隆大人為驕傲，<hex:02100103>包括他渴望「和平」的信念。
-108,TEXT_JOBBRD700_02894_NOURVAL_000_215,不……不會的，我不信！<hex:02100103>現在才來跟我說這些……
-109,TEXT_JOBBRD700_02894_NOURVAL_000_216,我的祖先應該都恨著阿拉米格才對，<hex:02100103>一定是……一定都深深地恨著！<hex:02100103>否則我究竟……
-110,TEXT_JOBBRD700_02894_SANSON_000_217,……我不強迫你原諒他們的祖先犯下的過錯，<hex:02100103>不過我向你保證……<hex:02100103>我不會讓萬舍隆大人死亡的真相被歷史掩埋。
-111,TEXT_JOBBRD700_02894_SANSON_000_218,不管是萬舍隆大人的意志還是你的夙願，都由我們來傳承。<hex:02100103>我絕對不會讓一切都像沒發生過，<hex:02100103>我一定會把他死亡的真相公之於眾！
-112,TEXT_JOBBRD700_02894_SANSON_000_220,所以，能請你相信我們創造的未來嗎？<hex:02100103>不是阿拉米格也不是格里達尼亞，而是我們自己創造的未來。
-113,TEXT_JOBBRD700_02894_LUCIANE_000_300,能順利把他救出來真是太好了！
-114,TEXT_JOBBRD700_02894_YWAIN_000_305,原來努爾瓦爾是那麼厲害的槍術師啊，<hex:02100103>希望他有一天能想通，再重新站起來。
-115,TEXT_JOBBRD700_02894_VORSAILE_000_310,桑松正牙尉沒事吧？
-116,TEXT_JOBBRD700_02894_GUYDELOT_000_315,被上頭責罵的就我們幾個得了，<hex:02100103>我已經讓其他人先回去了。
-117,TEXT_JOBBRD700_02894_SANSON_000_320,謝謝你<hex:022903EB0203>，多虧了你我才能得救，<hex:02100103>還有吉德洛也是……
-118,TEXT_JOBBRD700_02894_SANSON_000_321,不過，還剩下一件重要的工作等著我去做……<hex:02100103>我得回蛇巢司令部兌現剛才的諾言。<hex:02100103>好了，我們一起回去吧。
-119,TEXT_JOBBRD700_02894_SANSON_000_330,……讓大家久等了，<hex:02100103>我已經把記有紅葉戰爭秘密的書帶來了。<hex:02100103>我可以把這本書上交……只不過我有一個條件。
-120,TEXT_JOBBRD700_02894_SANSON_000_331,條件就是……在切切實實地檢驗過書中內容的真偽後，<hex:02100103>雙蛇黨要承認努爾瓦爾的主張和歷史的真相，<hex:02100103>並且在將來把這些公之於眾。
-121,TEXT_JOBBRD700_02894_VORSAILE_000_332,桑松正牙尉，我答應你的要求，<hex:02100103>我一定會把這些話轉告雙蛇黨的高層，<hex:02100103>畢竟我跟你們的想法一樣。
-122,TEXT_JOBBRD700_02894_VORSAILE_000_333,只不過，光靠我自己一個人<hex:02100103>一直跟司令部唱反調也太艱辛了……<hex:02100103>我得快點提拔你，好讓你跟我並肩作戰啊！
-123,TEXT_JOBBRD700_02894_SANSON_000_334,……咦？提、提拔我嗎？<hex:02100103>可是我那麼輕易就被敵人抓走，太不成熟了……
-124,TEXT_JOBBRD700_02894_VORSAILE_100_334,的確，這次的任務要是沒有<hex:02085EE1E93601FF50><hex:02084CE3E93680FF3E><hex:022903EB0203><hex:020834E1E93601FF2C><hex:020828E3E93680FF20><hex:02281CFF17>GCRankGridaniaMaleText<hex:E9360103><hex:FF01><hex:03><hex:FF01><hex:03><hex:FF07><hex:022903EB0203><hex:03><hex:FF07><hex:022903EB0203><hex:03>的話，<hex:02100103>大概是無法順利完成的吧……<hex:02100103>我們要好好感謝<hex:02080DE905FF04>她<hex:FF04>他<hex:03>啊。
-125,TEXT_JOBBRD700_02894_VORSAILE_000_335,……不過，不成熟的部分只要今後繼續成長就好了。<hex:02100103>而且，雖說過程中有些許失敗，但這次的任務……<hex:02100103>你們不還是順利完成了嘛！
-126,TEXT_JOBBRD700_02894_GUYDELOT_000_336,嘿嘿……不愧是沃爾先生！<hex:02100103>我們把記有紅葉戰爭真相的書帶回來了，<hex:02100103>的確是不折不扣地完成了任務啊！
-127,TEXT_JOBBRD700_02894_GUYDELOT_000_337,喂，別因為得到了領導的期待就發傻！<hex:02100103>為了讓這個國家的未來變得更有風情，<hex:02100103>你得好好努力啊……桑松隊長！
-128,TEXT_JOBBRD700_02894_SANSON_000_338,……你說得對。<hex:02100103>為了提高部隊的地位，為了與努爾瓦爾的約定，<hex:02100103>我不能止步不前！
-129,TEXT_JOBBRD700_02894_SANSON_000_339,<hex:022903EB0203>，不好意思，<hex:02100103>我還要去寫這次任務的報告書，先行告退了！
-130,TEXT_JOBBRD700_02894_SANSON_100_339,真的很感謝你的協助。<hex:02100103>我一定會向你看齊，爭取成為一名合格的隊長。<hex:02100103>將來我的部隊演奏的戰歌，一定會成為激勵這座森林之都的力量！
-131,TEXT_JOBBRD700_02894_GUYDELOT_000_340,跟打了雞血似的，<hex:02100103>算了……看他那麼有幹勁，估計傷勢也沒什麼要緊。
-132,TEXT_JOBBRD700_02894_GUYDELOT_000_341,我要去追桑鬆了，能麻煩你告訴讓泰爾老爺子，<hex:02100103>我們已經平安回到格里達尼亞了嗎？<hex:02100103>等我們安頓好後也會去跟他打聲招呼的。
-133,TEXT_JOBBRD700_02894_GUYDELOT_000_342,……不過，沒想到讓泰爾老爺子<hex:02100103>居然連萬舍隆的兒子都見過……<hex:02100103>果然沒白活這麼久！
-134,TEXT_JOBBRD700_02894_VORSAILE_000_350,那就麻煩你聯繫讓泰爾先生了。<hex:02100103>不過……吉德洛能不能別叫我沃爾先生了啊，<hex:02100103>被傳開的話我的一世英名就……
-135,TEXT_JOBBRD700_02894_JEHANTEL_000_360,這樣啊……桑松他們有可能會遭到高層的冷遇吧，<hex:02100103>不過他們卻得到了無比寶貴的幫手。<hex:02100103>那群年輕人們披荊斬棘的模樣真是太耀眼了。
-136,TEXT_JOBBRD700_02894_JEHANTEL_000_361,但願努爾瓦爾也能像他們那樣，<hex:02100103>不再沉湎於過去，積極面對未來……
-137,TEXT_JOBBRD700_02894_JEHANTEL_000_362,當年教會我弓箭與詩歌的就是那位善良的老人……<hex:02100103>他一直固執地守著紅葉戰爭的英雄——自己父親的墓。<hex:02100103>我曾經也受過他不少關照啊……
-138,TEXT_JOBBRD700_02894_JEHANTEL_000_363,雖然萬舍隆大人和朗德雷內爾大人的心願在努爾瓦爾這代<hex:02100103>並沒有得到繼承，甚至還遭到了扭曲……但我相信，經過了這件事，<hex:02100103>正確的歷史與他們的心願一定會為世人所知。
-139,TEXT_JOBBRD700_02894_SYSTEM_100_364,「吟遊詩人」的故事到此告一段落！<hex:02100103>要開始接下來的「吟遊詩人」特職任務，<hex:02100103>需要滿足以下條件。
-140,TEXT_JOBBRD700_02894_SYSTEM_100_365,1.完成「暗影之逆焰主線任務」中的「暗影之逆焰」。
-141,TEXT_JOBBRD700_02894_SYSTEM_100_366,2.完成物理進攻職業的「職能任務：暗影之章」。
-142,TEXT_JOBBRD700_02894_SYSTEM_100_367,滿足條件後，和石場水車西邊的讓泰爾對話，<hex:02100103>即可開始新的特職任務！
-143,TEXT_JOBBRD700_02894_QIB_001_TODO_1,打倒努爾瓦爾！
-144,TEXT_JOBBRD700_02894_NOURVAL_BATTLETALK_001_001,我饒不了你們！<hex:02100103>阻礙我達成夙願的人，全都要死！！
-145,TEXT_JOBBRD700_02894_GUYDELOT_BATTLETALK_001_002,嘖！他完全被過去束縛住了！<hex:02100103>我們來讓他清醒過來吧！！
-146,TEXT_JOBBRD700_02894_NOURVAL_BATTLETALK_002_001,有兩下子！不過，我……<hex:02100103>可不會在夙願未完的時候便中途倒下！！
-147,TEXT_JOBBRD700_02894_GUYDELOT_BATTLETALK_002_002,嗚，好強大的氣勢！<hex:02100103>讓我能清晰地感受到他的鬥志……
-148,TEXT_JOBBRD700_02894_GUYDELOT_BATTLETALK_002_003,我們也不能輸！<hex:02100103><hex:022903EB0203>，讓我的歌聲點燃你的鬥志吧！！
-149,TEXT_JOBBRD700_02894_NOURVAL_BATTLETALK_003_001,別再唱了！你的歌聲真是刺耳！！
-150,TEXT_JOBBRD700_02894_GUYDELOT_BATTLETALK_003_002,嗚啊！可惡，動不了……<hex:02100103>抱歉，<hex:022903EB0203>，幫我弄斷這個鎖鏈！！
-151,TEXT_JOBBRD700_02894_NOURVAL_BATTLETALK_004_001,你們可真是糾纏不休！<hex:02100103>既然這麼想死，我就用這招送你們下地獄吧！
-152,TEXT_JOBBRD700_02894_GUYDELOT_BATTLETALK_004_002,小心，他好像要出什麼大招了！！
-153,TEXT_JOBBRD700_02894_GUYDELOT_BATTLETALK_004_003,嗚哇！聚在一起有點不妙啊……<hex:02100103><hex:022903EB0203>，我們分散作戰吧！
-154,TEXT_JOBBRD700_02894_GUYDELOT_G_DEAD_001_001,可惡，對不住啊……<hex:02100103>要麻煩你了……
-155,TEXT_JOBBRD700_02894_NOURVAL_G_DEAD_001_002,哼……吉德洛先生看來要不行了，<hex:02100103>你也該趁早死心了吧！！
-156,TEXT_JOBBRD700_02894_VORSAILE_000_018,（★未使用／削除予定★）
-157,TEXT_JOBBRD700_02894_VORSAILE_000_019,（★未使用／削除予定★）
-158,TEXT_JOBBRD700_02894_VORSAILE_000_020,（★未使用／削除予定★）
-159,TEXT_JOBBRD700_02894_GUYDELOT_000_021,（★未使用／削除予定★）
-160,TEXT_JOBBRD700_02894_VORSAILE_000_022,（★未使用／削除予定★）
-161,TEXT_JOBBRD700_02894_GUYDELOT_000_023,（★未使用／削除予定★）
-162,TEXT_JOBBRD700_02894_GUYDELOT_000_024,（★未使用／削除予定★）
-163,TEXT_JOBBRD700_02894_GUYDELOT_000_025,（★未使用／削除予定★）
-164,TEXT_JOBBRD700_02894_VORSAILE_000_026,（★未使用／削除予定★）
+0,"TEXT_JOBBRD700_02894_SEQ_00","Guydelot is keenly waiting to see how the Order of the Twin Adder will move."
+1,"TEXT_JOBBRD700_02894_SEQ_01","The Order of the Twin Adder has made its will known: they refuse to negotiate with Nourval, effectively abandoning Sanson to his fate. As Guydelot lets vent his fury at the heartless decision, Commander Heuloix emerges as an ally, revealing that he has already recruited the aid of Gridania's martial guilds for Sanson's rescue. Speak with Luciane and Ywain at the Archers' and Lancers' Guilds respectively, and inform them that the mission will soon commence."
+2,"TEXT_JOBBRD700_02894_SEQ_02","Both the archers and the lancers are ready to strike out. Take word back to Commander Heuloix at the Adders' Nest."
+3,"TEXT_JOBBRD700_02894_SEQ_03","In urgent tones, Commander Heuloix informs you that the Order of the Twin Adder has ascertained Nourval's hideout, and will soon deploy troops for an assault. Unless you get there first, Sanson is as good as dead. Make haste to the North Shroud, and join Guydelot at Alder Springs."
+4,"TEXT_JOBBRD700_02894_SEQ_04","With help from your allies, you succeed in subduing Nourval and liberating Sanson. Rejoin your comrades in the North Shroud."
+5,"TEXT_JOBBRD700_02894_SEQ_05","At first, Nourval clings to his hatred for Ala Mhigo, but confronted with the truth of his ancestors' hearts, he is forced to concede the error of his ways. Reaching out to his erstwhile captor, Sanson swears to see to it that Vainchelon's sacrifice is not forgotten. With the situation now under control, turn your attention to Sanson and ensure that he is well."
+6,"TEXT_JOBBRD700_02894_SEQ_06","Thanking you for his preservation, Sanson declares his intent to make good on his promise to Nourval. Return with your comrades to Gridania, and seek out Commander Heuloix at the Adders' Nest."
+7,"TEXT_JOBBRD700_02894_SEQ_07","Commander Heuloix listens intently as Sanson states his terms for surrendering Gylbarde's journal: when the time is right, the Order of the Twin Adder must release the truth of Vainchelon's death to the public. The commander promises to do all within his power to make it so, and encourages Sanson to rise through the ranks that he, too, might join his voice to the cause. While Guydelot keeps watch over his recovering chief, seek out Jehantel at his campsite west of Quarrymill, and report the conclusion of events."
+8,"TEXT_JOBBRD700_02894_SEQ_08","Jehantel expresses his hopes that Nourval will find a new path─one that leads to peace in the world and in his heart. With you and yours leading the way, the ideals of peace and harmony may yet be restored to Vainchelon's line, made bolder still by a true remembrance of the past.<hex:02100103><hex:02100103>※The next bard quest will be available from Jehantel once you have met the following requirements:<hex:02100103>※You must have completed the main scenario quest “Shadowbringers.”<hex:02100103>※You must have completed the role quest “Courage Born of Fear.”"
+9,"TEXT_JOBBRD700_02894_SEQ_09",""
+10,"TEXT_JOBBRD700_02894_SEQ_10",""
+11,"TEXT_JOBBRD700_02894_SEQ_11",""
+12,"TEXT_JOBBRD700_02894_SEQ_12",""
+13,"TEXT_JOBBRD700_02894_SEQ_13",""
+14,"TEXT_JOBBRD700_02894_SEQ_14",""
+15,"TEXT_JOBBRD700_02894_SEQ_15",""
+16,"TEXT_JOBBRD700_02894_SEQ_16",""
+17,"TEXT_JOBBRD700_02894_SEQ_17",""
+18,"TEXT_JOBBRD700_02894_SEQ_18",""
+19,"TEXT_JOBBRD700_02894_SEQ_19",""
+20,"TEXT_JOBBRD700_02894_SEQ_20",""
+21,"TEXT_JOBBRD700_02894_SEQ_21",""
+22,"TEXT_JOBBRD700_02894_SEQ_22",""
+23,"TEXT_JOBBRD700_02894_SEQ_23",""
+24,"TEXT_JOBBRD700_02894_TODO_00","Speak with Luciane at the Archers' Guild. "
+25,"TEXT_JOBBRD700_02894_TODO_01","Speak with Ywain at the Lancers' Guild."
+26,"TEXT_JOBBRD700_02894_TODO_02","Speak with Vorsaile Heuloix."
+27,"TEXT_JOBBRD700_02894_TODO_03","Rendezvous with Guydelot at Alder Springs. "
+28,"TEXT_JOBBRD700_02894_TODO_04","Rendezvous with Guydelot at Alder Springs."
+29,"TEXT_JOBBRD700_02894_TODO_05","Speak with Sanson."
+30,"TEXT_JOBBRD700_02894_TODO_06","Speak with Vorsaile Heuloix at the Adders' Nest."
+31,"TEXT_JOBBRD700_02894_TODO_07","Speak with Jehantel to the west of Quarrymill."
+32,"TEXT_JOBBRD700_02894_TODO_08",""
+33,"TEXT_JOBBRD700_02894_TODO_09",""
+34,"TEXT_JOBBRD700_02894_TODO_10",""
+35,"TEXT_JOBBRD700_02894_TODO_11",""
+36,"TEXT_JOBBRD700_02894_TODO_12",""
+37,"TEXT_JOBBRD700_02894_TODO_13",""
+38,"TEXT_JOBBRD700_02894_TODO_14",""
+39,"TEXT_JOBBRD700_02894_TODO_15",""
+40,"TEXT_JOBBRD700_02894_TODO_16",""
+41,"TEXT_JOBBRD700_02894_TODO_17",""
+42,"TEXT_JOBBRD700_02894_TODO_18",""
+43,"TEXT_JOBBRD700_02894_TODO_19",""
+44,"TEXT_JOBBRD700_02894_TODO_20",""
+45,"TEXT_JOBBRD700_02894_TODO_21",""
+46,"TEXT_JOBBRD700_02894_TODO_22",""
+47,"TEXT_JOBBRD700_02894_TODO_23",""
+48,"TEXT_JOBBRD700_02894_GUYDELOT_000_000","Good timing, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Nourval's demands've just arrived at the Adders' Nest."
+49,"TEXT_JOBBRD700_02894_GUYDELOT_000_001","In exchange for Sanson's freedom, we're to release the contents of Gylbarde's journal to the public. Bastard won't be satisfied until all Gridanians hate all Ala Mhigans' guts."
+50,"TEXT_JOBBRD700_02894_GUYDELOT_000_002","The brass hats're deliberating a course of action as we speak. Not much we can do now but wait."
+51,"TEXT_JOBBRD700_02894_VORSAILE_000_010","Command has made its decision."
+52,"TEXT_JOBBRD700_02894_VORSAILE_000_011","You will not wish to hear this...but the order rejects Nourval's demands. He and his band are to be summarily eliminated."
+53,"TEXT_JOBBRD700_02894_GUYDELOT_000_012","What!? H-Hold on just a second! You won't even <hex:021A020203>try<hex:021A020103> to negotiate Sanson's release!?"
+54,"TEXT_JOBBRD700_02894_VORSAILE_000_013","As a nation, we cannot bow to acts of intimidation; I'm afraid negotiation was never an option. And here I must repeat the order for you to relinquish the journal at once."
+55,"TEXT_JOBBRD700_02894_GUYDELOT_000_015","So what you're saying is, you're abandoning Sanson! You're gonna let him die!"
+56,"TEXT_JOBBRD700_02894_GUYDELOT_000_016","Here's the great Vainchelon, hero to all Gridanians, but you won't even lend an ear to his descendant! Oh no, instead you choose the easy way out! Just kill everyone, even your own man! Wash away the bloody past with more blood!"
+57,"TEXT_JOBBRD700_02894_GUYDELOT_000_017","Just to be clear, I ain't siding with Nourval─there's no excusing his method! But there's no excusing yours either! It's bullshite, that's what it is!"
+58,"TEXT_JOBBRD700_02894_Q1_000_000","What will you say?"
+59,"TEXT_JOBBRD700_02894_A1_000_001","Aye, it's bullshite."
+60,"TEXT_JOBBRD700_02894_A1_000_002","I've lost faith in the order."
+61,"TEXT_JOBBRD700_02894_VORSAILE_100_018","Now, now, pray do not so be so quick to despair, for I was simply relaying the outcome of command's deliberation. A deliberation in which the Elder Seedseer had no part."
+62,"TEXT_JOBBRD700_02894_VORSAILE_100_019","As you say, Guydelot, the orders are “bullshite”─not the words I would have chosen, but you speak the truth nonetheless. And I, for one, have no intention of abiding by them."
+63,"TEXT_JOBBRD700_02894_VORSAILE_100_020","The decision was largely influenced by a small handful of our leadership, and not the boldest handful, if I may add. 'Tis plain from the fact that they did not think to bring the matter before the Elder Seedseer."
+64,"TEXT_JOBBRD700_02894_VORSAILE_100_021","Captain Smyth is a dear comrade; like you, I would spare no aid in any effort to rescue him. And I am pleased to say that we are not alone in this sentiment. As a matter of fact, I have already reached out to my lancer and archer acquaintances, and they stand ready to aid our cause."
+65,"TEXT_JOBBRD700_02894_GUYDELOT_100_022","Oho, now we're talking! There's still hope for the order if it has good blokes like you, Vorsie!"
+66,"TEXT_JOBBRD700_02894_VORSAILE_100_023","...I would thank you not to call me that. Now, the order will move as soon as they ascertain the enemy's location, so time is of the essence. Guydelot, pray take word of these developments to Jehantel."
+67,"TEXT_JOBBRD700_02894_VORSAILE_100_024","Meanwhile, <hex:0208C7E1E93501FF11><hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203><hex:FFAF><hex:0208ABE1E93601FF93><hex:022B7EFF7C><hex:020825E1E93501FF1D><hex:022819FF14>GCRankLimsaMaleText<hex:E9350903><hex:FF01><hex:03><hex:020828E1E93601FF20><hex:02281CFF17>GCRankGridaniaMaleText<hex:E9360903><hex:FF01><hex:03><hex:020825E1E93701FF1D><hex:022819FF14>GCRankUldahMaleText<hex:E9370903><hex:FF01><hex:03><hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303><hex:FF11><hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203><hex:03><hex:03>, I need you to bear word to the two guildmasters, Luciane and Ywain."
+68,"TEXT_JOBBRD700_02894_VORSAILE_100_025","Tell them that the time is nigh, and pray return here swiftly."
+69,"TEXT_JOBBRD700_02894_VORSAILE_000_030","Make haste and bear word to the two guildmasters, Luciane and Ywain. I shall pretend to go along with official orders, all the while gathering what intelligence I can."
+70,"TEXT_JOBBRD700_02894_LUCIANE_000_040","The time is nigh, then? Very well, we shall make ready to depart at once."
+71,"TEXT_JOBBRD700_02894_LUCIANE_000_041","When the call came, full many here offered their bows. There is not a soul here who knows not of you and Jehantel and Guydelot. Together, let us rescue Sanson."
+72,"TEXT_JOBBRD700_02894_YWAIN_000_050","Aye, Vorsaile has briefed me on the situation. Sanson once trained in these very halls, and I should like to hear his excuse for being captured so easily."
+73,"TEXT_JOBBRD700_02894_YWAIN_000_055","At any rate, you may count on our lances. That Sanson was one of our own is reason enough; this request comes from my longtime friend Vorsaile himself."
+74,"TEXT_JOBBRD700_02894_YWAIN_000_060","At any rate, you may count on our lances. That Sanson was one of our own is reason enough; this request comes from both you and my longtime friend Vorsaile himself."
+75,"TEXT_JOBBRD700_02894_LUCIANE_000_070","Commander Vorsaile will send further instructions, aye? I shall see to it that we archers are ready to depart at a moment's notice."
+76,"TEXT_JOBBRD700_02894_YWAIN_000_075","You may inform Vorsaile that the lancers stand ready. I've already handpicked those of our ranks who can keep their heads above unsettling truths."
+77,"TEXT_JOBBRD700_02894_VORSAILE_000_080","There you are, and not a moment too soon. Things have begun to move. Our scouts report that Nourval and his band have since returned to the Twelveswood."
+78,"TEXT_JOBBRD700_02894_VORSAILE_000_081","They have made their lair in the North Shroud, near the shards of Dalamud. Even as we speak, the order mobilizes a unit for an assault. We must be there ahead of them."
+79,"TEXT_JOBBRD700_02894_VORSAILE_000_082","Set out at once, and make first for Alder Springs; I shall instruct the others to join you there."
+80,"TEXT_JOBBRD700_02894_VORSAILE_000_083","I will remain here to stall our forces as long as I can. Godsspeed!"
+81,"TEXT_JOBBRD700_02894_LUCIANE_000_090","We have received word. We shall strike out forthwith for Alder Springs."
+82,"TEXT_JOBBRD700_02894_YWAIN_000_095","Focus on extricating Sanson. My lancers and I shall keep your way clear."
+83,"TEXT_JOBBRD700_02894_VORSAILE_000_100","Set out at once for Alder Springs; I shall instruct the others to join you there."
+84,"TEXT_JOBBRD700_02894_GUYDELOT_000_110","Whew, we're ahead of the Twin Adder crew. Let's keep it that way and get right to work."
+85,"TEXT_JOBBRD700_02894_GUYDELOT_000_111","Our guild friends will take down the sentries and secure the area. We're free to get close to Nourval and give him the thrashing he deserves."
+86,"TEXT_JOBBRD700_02894_NOURVAL_000_120","Well, well, I was not expecting you two. Here to deliver the Gridanians' answer, are we?"
+87,"TEXT_JOBBRD700_02894_GUYDELOT_000_121","You wish, you craven whoreson! Whatever your demands are, it ain't got nothing to do with us!"
+88,"TEXT_JOBBRD700_02894_NOURVAL_000_122","So you are acting alone. I thought you had some wits. Or do you care that little for your friend?"
+89,"TEXT_JOBBRD700_02894_GUYDELOT_000_123","Kill Sanson before you get your answer, and all deals are off─everything you've worked for up in smoke. Or do you care that little for your goal?"
+90,"TEXT_JOBBRD700_02894_NOURVAL_000_124","Hmph, mayhap you have some wits after all. But clever though your ploy may be, have you the strength to back it up?"
+91,"TEXT_JOBBRD700_02894_GUYDELOT_000_125","Oh, don't you worry on that score. We're gonna knock you around so hard, all the scales will fall from your eyes."
+92,"TEXT_JOBBRD700_02894_GUYDELOT_000_126","And if that ain't enough to make you see clearly, I'll even slap in a song─something lively to wake you up from your misguided beliefs!"
+93,"TEXT_JOBBRD700_02894_NOURVAL_000_200","Why!? Why do you not understand!? Why do you not see the Ala Mhigans for the filth they are!?"
+94,"TEXT_JOBBRD700_02894_GUYDELOT_000_201","Let each spear be thrust for everlasting peace.♪<hex:02100103>Let each arrow be loosed for the forest and the trees.♪<hex:02100103>And the greatest rule of all, for all men to embrace:♪<hex:02100103>Let each life be lived for smiles on every face.♪"
+95,"TEXT_JOBBRD700_02894_NOURVAL_000_202","Th-That song... How do you know it!?"
+96,"TEXT_JOBBRD700_02894_GUYDELOT_000_203","I learned it just recently, with a spot of help from Jehantel here. He showed me Vainchelon's grave, which I understand your family's been tending for generations."
+97,"TEXT_JOBBRD700_02894_GUYDELOT_000_204","The song was engraved on the headstone. It's a fine piece, and it ain't hard to see why your ancestor loved it."
+98,"TEXT_JOBBRD700_02894_GUYDELOT_000_205","Taking up arms that we might have peace, so the words go. Words that came from Vainchelon himself, as a matter of fact."
+99,"TEXT_JOBBRD700_02894_GUYDELOT_000_206","The Autumn War gave birth to a good many anthems, and a good many of 'em borrowed his words. Take a look, and you'll notice a recurring theme: peace and harmony."
+100,"TEXT_JOBBRD700_02894_NOURVAL_000_207","How dare you preach to me of my ancestor!? For generations, my family has sought justice for Lord Vainchelon! You couldn't possibly comprehend our pain!"
+101,"TEXT_JOBBRD700_02894_JEHANTEL_000_208","Not us, perhaps, but I daresay your great-grandsire, Lord Landrenel, could comprehend it better than any man. He witnessed his own sire murdered before his eyes. He knew the painful truth, yet he chose to keep it a secret. Why was this, do you suppose?"
+102,"TEXT_JOBBRD700_02894_JEHANTEL_000_209","It was because he knew that, above all else, his sire desired peace."
+103,"TEXT_JOBBRD700_02894_JEHANTEL_000_210","Had it been made known that their hero was struck down by treachery, ordinary Gridanians would not have been satisfied with protecting their homes. Nay, they would have demanded justice. They would have demanded blood."
+104,"TEXT_JOBBRD700_02894_JEHANTEL_000_211","The war would have raged on, leaving yet more death and destruction in its wake. And the peace that Lord Vainchelon dreamed of would have gone up in smoke. Knowing this, Lord Landrenel..."
+105,"TEXT_JOBBRD700_02894_NOURVAL_000_212","Spare me your lies! Lord Vainchelon desired Ala Mhigo's destruction! You cannot tell me otherwise!"
+106,"TEXT_JOBBRD700_02894_JEHANTEL_000_213","Tell me, young man, did it not strike you as odd that I knew of Lord Vainchelon's grave? That which your family has kept secret all these years? The explanation is simple: I had the honor of knowing Lord Landrenel."
+107,"TEXT_JOBBRD700_02894_JEHANTEL_000_214","Like you, he admired Lord Vainchelon and everything he stood for. And what he stood for, first of all, was peace and harmony. If you would honor both their memories, you would do well to honor these ideals."
+108,"TEXT_JOBBRD700_02894_NOURVAL_000_215","No... Th-This cannot be..."
+109,"TEXT_JOBBRD700_02894_NOURVAL_000_216","My ancestors despised Ala Mhigans. Y-Yes, they <hex:021A020203>all<hex:021A020103> did. If not, everything I've labored for...all the blood and tears...have been for naught..."
+110,"TEXT_JOBBRD700_02894_SANSON_000_217","I ask not that you forgive. But know that neither will we forget."
+111,"TEXT_JOBBRD700_02894_SANSON_000_218","When the time is right, I will see to it that all know of Lord Vainchelon's great sacrifice. This I swear in Nophica's name."
+112,"TEXT_JOBBRD700_02894_SANSON_000_220","I ask only that you believe, as your ancestors fervently did, in a brighter future─one of our own shaping, undarkened by shadows of the past."
+113,"TEXT_JOBBRD700_02894_LUCIANE_000_300","No thanks are necessary. That your friend is safe and well is reward enough."
+114,"TEXT_JOBBRD700_02894_YWAIN_000_305","Nourval plainly inherited his ancestor's skill at arms. I pray that he will be given the chance to use his talents for good."
+115,"TEXT_JOBBRD700_02894_VORSAILE_000_310","Sanson is safe? Praise be to the Matron!"
+116,"TEXT_JOBBRD700_02894_GUYDELOT_000_315","I sent the others back. We can deal with the rest ourselves."
+117,"TEXT_JOBBRD700_02894_SANSON_000_320","Worry not, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, I am quite well. Thanks to you and Guydelot, it ended with only a few cuts and bruises."
+118,"TEXT_JOBBRD700_02894_SANSON_000_321","But ere I may rest, I must see to one last task: making good on my promise to Nourval. Come, let us return to the Adders' Nest."
+119,"TEXT_JOBBRD700_02894_SANSON_000_330","My apologies for keeping you waiting, Commander. I have Gylbarde's journal with me, and I will surrender it on one condition."
+120,"TEXT_JOBBRD700_02894_SANSON_000_331","Once the veracity of the tome's contents is ascertained, the order must make the truth public knowledge when the time is right."
+121,"TEXT_JOBBRD700_02894_VORSAILE_000_332","On this we are of a mind, Captain Smyth. Not only will I relay your terms to our leaders, I will speak strongly in favor of them."
+122,"TEXT_JOBBRD700_02894_VORSAILE_000_333","But know that mine is but one voice, and more shall be needed if we are to strengthen our cause. As such, you must rise through the ranks swiftly to stand with me."
+123,"TEXT_JOBBRD700_02894_SANSON_000_334","S-Stand with you? I fear it will take me a while to attain that honor. To be fooled and taken captive so easily... I am still green as summer grass."
+124,"TEXT_JOBBRD700_02894_VORSAILE_100_334","'Tis true that the success of this mission is owed much to <hex:0208C7E1E93501FF11><hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203><hex:FFAF><hex:0208ABE1E93601FF93><hex:022B7EFF7C><hex:020825E1E93501FF1D><hex:022819FF14>GCRankLimsaMaleText<hex:E9350903><hex:FF01><hex:03><hex:020828E1E93601FF20><hex:02281CFF17>GCRankGridaniaMaleText<hex:E9360903><hex:FF01><hex:03><hex:020825E1E93701FF1D><hex:022819FF14>GCRankUldahMaleText<hex:E9370903><hex:FF01><hex:03><hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303><hex:FF11><hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203><hex:03><hex:03>, and you would do well to give <hex:02080DE905FF04>her<hex:FF04>him<hex:03> your profuse thanks."
+125,"TEXT_JOBBRD700_02894_VORSAILE_000_335","However, I suggest that you also give yourself more credit. You may have much to learn, but you will learn them in good time. This time, you were faced with numerous trials, yet did you not accomplish your mission in spite of them?"
+126,"TEXT_JOBBRD700_02894_GUYDELOT_000_336","Aye, listen to Vorsie! We came back with the tome─no one can say we didn't do our jobs!"
+127,"TEXT_JOBBRD700_02894_GUYDELOT_000_337","Look at you─a bit of praise, and you're a stunned marmot? That won't do at all! If you're gonna shape the future of our nation, you're gonna have to shape up!"
+128,"TEXT_JOBBRD700_02894_SANSON_000_338","You are right, Guydelot. From leading our unit to fulfilling my promise to Nourval, much rests upon my shoulders. Come what may, I will ever stand tall and forge on."
+129,"TEXT_JOBBRD700_02894_SANSON_000_339","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, I must needs go to file my report, but ere I leave, allow me to offer you my heartfelt thanks. Not only for your invaluable aid, but for being an example to me."
+130,"TEXT_JOBBRD700_02894_SANSON_100_339","By following your lead, I shall strive to become the best leader I can be, that my unit's song might one day serve to rouse all Gridania!"
+131,"TEXT_JOBBRD700_02894_GUYDELOT_000_340","And off he goes. Good that he's hale and hearty, at any rate."
+132,"TEXT_JOBBRD700_02894_GUYDELOT_000_341","I'll stick with Sanson for a while, make sure he don't tear open any stitches. In the meantime, would you go and let Jehantel know we're returned? I'll be along myself soon enough."
+133,"TEXT_JOBBRD700_02894_GUYDELOT_000_342","But speaking of the old man, to think that he knew Vainchelon's son! You don't get to that age and not rub shoulders with a legend or two, eh?"
+134,"TEXT_JOBBRD700_02894_VORSAILE_000_350","My regards to Jehantel. And...I would thank you not to take up the habit of calling me “Vorsie.” Ahem."
+135,"TEXT_JOBBRD700_02894_JEHANTEL_000_360","...I see. My thanks for bearing word. Though Sanson and Guydelot may not have endeared themselves to the Twin Adder leadership, they have found a stout ally in Commander Heuloix. I must say, it truly stirs the spirit to see the younger generation blaze a new path."
+136,"TEXT_JOBBRD700_02894_JEHANTEL_000_361","And I pray that Nourval, too, will find his own path to walk─one that is paved not with hatred, but with hope. That leads to peace both in the world and in his heart. 'Tis what his ancestors would have wished."
+137,"TEXT_JOBBRD700_02894_JEHANTEL_000_362","In him I see them, and it calls to mind my days spent learning bow and song under his great-grandsire. A kindly old man who tirelessly tended his father's grave, never forgetting the ideals he stood for..."
+138,"TEXT_JOBBRD700_02894_JEHANTEL_000_363","Somewhere along Lord Vainchelon's line, those ideals had faded away. But thanks to you and yours, they may yet be restored, and made bolder still by a true remembrance of the past. And the world shall be a better place for it."
+139,"TEXT_JOBBRD700_02894_SYSTEM_100_364","This concludes the bard quests for FINAL FANTASY XIV: Stormblood. In order to undertake the next series of quests, you must first meet the following requirements:"
+140,"TEXT_JOBBRD700_02894_SYSTEM_100_365","※You must have completed the main scenario quest “Shadowbringers.”"
+141,"TEXT_JOBBRD700_02894_SYSTEM_100_366","※You must have completed the role quest “Courage Born of Fear.”"
+142,"TEXT_JOBBRD700_02894_SYSTEM_100_367","Once you have done so, the next bard quest will be available from Jehantel."
+143,"TEXT_JOBBRD700_02894_QIB_001_TODO_1","Defeat Nourval!"
+144,"TEXT_JOBBRD700_02894_NOURVAL_BATTLETALK_001_001","I will suffer none to stand in the way of my ambition!"
+145,"TEXT_JOBBRD700_02894_GUYDELOT_BATTLETALK_001_002","Your ambition's shite, an' we're gonna make you see sense even if it means beatin' you senseless!"
+146,"TEXT_JOBBRD700_02894_NOURVAL_BATTLETALK_002_001","Hmph, you're strong... But I cannot fall! Not until my goal is realized!"
+147,"TEXT_JOBBRD700_02894_GUYDELOT_BATTLETALK_002_002","Ugh, he's got spirit, I'll give him that..."
+148,"TEXT_JOBBRD700_02894_GUYDELOT_BATTLETALK_002_003","But so do we, and we ain't gonna take it lying down! Time to fire things up with song!"
+149,"TEXT_JOBBRD700_02894_NOURVAL_BATTLETALK_003_001","Enough with that detestable noise!"
+150,"TEXT_JOBBRD700_02894_GUYDELOT_BATTLETALK_003_002","Gah! I-I can't move... Break me out of this, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>!"
+151,"TEXT_JOBBRD700_02894_NOURVAL_BATTLETALK_004_001","Stubborn fools! If you are so eager for death, I will give it to you!"
+152,"TEXT_JOBBRD700_02894_GUYDELOT_BATTLETALK_004_002","What's this now? Keep your guard up!"
+153,"TEXT_JOBBRD700_02894_GUYDELOT_BATTLETALK_004_003","S-Seven hells! Spread out or he'll skewer us both!"
+154,"TEXT_JOBBRD700_02894_GUYDELOT_G_DEAD_001_001","Ugh, bugger me... Finish it off, will you?"
+155,"TEXT_JOBBRD700_02894_NOURVAL_G_DEAD_001_002","Master Guydelot has given up. It's past time you gave up too."
+156,"TEXT_JOBBRD700_02894_VORSAILE_000_018",""
+157,"TEXT_JOBBRD700_02894_VORSAILE_000_019",""
+158,"TEXT_JOBBRD700_02894_VORSAILE_000_020",""
+159,"TEXT_JOBBRD700_02894_GUYDELOT_000_021",""
+160,"TEXT_JOBBRD700_02894_VORSAILE_000_022",""
+161,"TEXT_JOBBRD700_02894_GUYDELOT_000_023",""
+162,"TEXT_JOBBRD700_02894_GUYDELOT_000_024",""
+163,"TEXT_JOBBRD700_02894_GUYDELOT_000_025",""
+164,"TEXT_JOBBRD700_02894_VORSAILE_000_026",""

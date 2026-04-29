@@ -2,155 +2,155 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_GAIUSE316_01457_SEQ_00,石之家的阿爾菲諾想要冒險者幫忙。
-1,TEXT_GAIUSE316_01457_SEQ_01,阿爾菲諾準備創立一個新組織，以此作為將來團結全艾歐澤亞的聯軍雛形。為了招攬願意加入組織的人才，前往利姆薩·羅敏薩的工事大廳，和阿爾菲諾匯合。
-2,TEXT_GAIUSE316_01457_SEQ_02,阿爾菲諾委託冒險者去招攬人才。在利姆薩·羅敏薩的上層甲板，和候選人們談談。
-3,TEXT_GAIUSE316_01457_SEQ_03,招攬之後，里奧爾答應了加入組織。在利姆薩·羅敏薩飛艇坪和阿爾菲諾匯合。
-4,TEXT_GAIUSE316_01457_SEQ_04,和阿爾菲諾匯合，向他報告了招攬的收穫。接下來前往格里達尼亞的豐饒神祭壇，和阿爾菲諾匯合。
-5,TEXT_GAIUSE316_01457_SEQ_05,阿爾菲諾委託冒險者去招攬人才。在格里達尼亞舊街，和候選人們談談。
-6,TEXT_GAIUSE316_01457_SEQ_06,招攬之後，勞倫修斯和阿麗亞娜答應了加入組織。在格里達尼亞飛艇坪和阿爾菲諾匯合。
-7,TEXT_GAIUSE316_01457_SEQ_07,和阿爾菲諾匯合，向他報告了招攬的收穫。接下來前往烏爾達哈的御道，和阿爾菲諾匯合。
-8,TEXT_GAIUSE316_01457_SEQ_08,阿爾菲諾委託冒險者去招攬人才。在烏爾達哈來生迴廊，和候選人們談談。
-9,TEXT_GAIUSE316_01457_SEQ_09,招攬之後，威爾雷德答應了加入組織。返回御道，和阿爾菲諾匯合。
-10,TEXT_GAIUSE316_01457_SEQ_10,和阿爾菲諾匯合，向他報告了招攬的收穫。返回喪靈鐘的石之家，和阿爾菲諾談談。
-11,TEXT_GAIUSE316_01457_SEQ_11,在石之家和阿爾菲諾進行了交談。在三國的招攬完成得還算比較順利。招攬到人才，並且得到各國盟主的承認後，組織的設立就算正式上軌道了。在發布成立宣言之前，繼續幫助敏菲利亞。
-12,TEXT_GAIUSE316_01457_SEQ_12,
-13,TEXT_GAIUSE316_01457_SEQ_13,
-14,TEXT_GAIUSE316_01457_SEQ_14,
-15,TEXT_GAIUSE316_01457_SEQ_15,
-16,TEXT_GAIUSE316_01457_SEQ_16,
-17,TEXT_GAIUSE316_01457_SEQ_17,
-18,TEXT_GAIUSE316_01457_SEQ_18,
-19,TEXT_GAIUSE316_01457_SEQ_19,
-20,TEXT_GAIUSE316_01457_SEQ_20,
-21,TEXT_GAIUSE316_01457_SEQ_21,
-22,TEXT_GAIUSE316_01457_SEQ_22,
-23,TEXT_GAIUSE316_01457_SEQ_23,
-24,TEXT_GAIUSE316_01457_TODO_00,和利姆薩·羅敏薩的阿爾菲諾對話
-25,TEXT_GAIUSE316_01457_TODO_01,在上層甲板招賢納士
-26,TEXT_GAIUSE316_01457_TODO_02,和利姆薩·羅敏薩飛艇坪的阿爾菲諾對話
-27,TEXT_GAIUSE316_01457_TODO_03,和格里達尼亞的阿爾菲諾對話
-28,TEXT_GAIUSE316_01457_TODO_04,在舊街招賢納士
-29,TEXT_GAIUSE316_01457_TODO_05,和格里達尼亞飛艇坪的阿爾菲諾對話
-30,TEXT_GAIUSE316_01457_TODO_06,和烏爾達哈的阿爾菲諾對話
-31,TEXT_GAIUSE316_01457_TODO_07,在來生迴廊招賢納士
-32,TEXT_GAIUSE316_01457_TODO_08,和御道的阿爾菲諾對話
-33,TEXT_GAIUSE316_01457_TODO_09,和石之家的阿爾菲諾對話
-34,TEXT_GAIUSE316_01457_TODO_10,
-35,TEXT_GAIUSE316_01457_TODO_11,
-36,TEXT_GAIUSE316_01457_TODO_12,
-37,TEXT_GAIUSE316_01457_TODO_13,
-38,TEXT_GAIUSE316_01457_TODO_14,
-39,TEXT_GAIUSE316_01457_TODO_15,
-40,TEXT_GAIUSE316_01457_TODO_16,
-41,TEXT_GAIUSE316_01457_TODO_17,
-42,TEXT_GAIUSE316_01457_TODO_18,
-43,TEXT_GAIUSE316_01457_TODO_19,
-44,TEXT_GAIUSE316_01457_TODO_20,
-45,TEXT_GAIUSE316_01457_TODO_21,
-46,TEXT_GAIUSE316_01457_TODO_22,
-47,TEXT_GAIUSE316_01457_TODO_23,
-48,TEXT_GAIUSE316_01457_ALPHINAUD_000_000,好了……關於創設統一組織一事，<hex:02100103>有些情況必須要告訴你。
-49,TEXT_GAIUSE316_01457_ALPHINAUD_000_001,我以前應該提過……<hex:02100103>進入第七星曆後，<hex:02100103>三國的盟主們一直在討論著創設一個艾歐澤亞的統一組織。
-50,TEXT_GAIUSE316_01457_ALPHINAUD_000_002,面對一國難以解決的蠻神和帝國問題，<hex:02100103>集結全艾歐澤亞的力量來應對……<hex:02100103>這就是組織成立的目的。
-51,TEXT_GAIUSE316_01457_ALPHINAUD_000_003,雖說是以這樣的大義名分為前提，<hex:02100103>但三國之間的商議卻遲遲沒能得出結果……
-52,TEXT_GAIUSE316_01457_ALPHINAUD_000_004,這樣下去，統一之事怕是要胎死腹中。<hex:02100103>我有感於此，就先提出了一個妥協方案，<hex:02100103>作為將來統一組織的雛形，先組建一個先鋒隊。
-53,TEXT_GAIUSE316_01457_ALPHINAUD_000_005,簡單來說就是個縮小版的統一組織。<hex:02100103>雖然規模較小，但是也要進行超越國界的活動。<hex:02100103>這對人們來說也會是個不錯的刺激。
-54,TEXT_GAIUSE316_01457_ALPHINAUD_000_006,我想讓這個先鋒隊在拂曉血盟的主導下建立。
-55,TEXT_GAIUSE316_01457_ALPHINAUD_000_007,現在的拂曉是名副其實的艾歐澤亞救星。
-56,TEXT_GAIUSE316_01457_ALPHINAUD_000_008,但是在先前的難民暴動中，你也看到了，<hex:02100103>拂曉能夠對應的情況有限。
-57,TEXT_GAIUSE316_01457_ALPHINAUD_000_009,所以我想讓先鋒隊在拂曉的領導下活動，<hex:02100103>就可以在不增加你和賢人們負擔的情況下，<hex:02100103>解決更多的問題了。
-58,TEXT_GAIUSE316_01457_ALPHINAUD_000_010,無論是成立艾歐澤亞統一組織，還是拂曉進行的救濟活動，<hex:02100103>最終的目的都是相同的。
-59,TEXT_GAIUSE316_01457_ALPHINAUD_000_011,敏菲利亞和三國的盟主對這個提議都表示了理解，<hex:02100103>接下來就等盟主們的最終許可了。
-60,TEXT_GAIUSE316_01457_ALPHINAUD_000_012,為此，我還要去三國轉上一圈，<hex:02100103>我想邀你同行，招攬可以加入先鋒隊的人才。<hex:02100103>你願意接受嗎？
-61,TEXT_GAIUSE316_01457_ALPHINAUD_000_013,多謝了，一直以來都麻煩你了。<hex:02100103>有你協助，我對這件事也更有信心了。
-62,TEXT_GAIUSE316_01457_ALPHINAUD_000_014,那我們就先去利姆薩·羅敏薩，<hex:02100103>在工事大廳匯合吧。
-63,TEXT_GAIUSE316_01457_ALPHINAUD_000_020,你來啦。<hex:02100103>我接下來要去拜訪梅爾維布提督，<hex:02100103>獲取建立先鋒隊的最終許可。
-64,TEXT_GAIUSE316_01457_ALPHINAUD_000_021,在這之間，<hex:02100103>你就在利姆薩·羅敏薩招賢納士吧。
-65,TEXT_GAIUSE316_01457_ALPHINAUD_000_022,我已經發出了招募情報，<hex:02100103>不過好像還有很多人不太清楚組織的情況……<hex:02100103>接下來你就以你自己的判斷來進行吧。
-66,TEXT_GAIUSE316_01457_ALPHINAUD_000_023,如果他們志向與我們相同，就算已經加入了其他組織也沒有關係。<hex:02100103>胡亂瞎找也不是辦法，<hex:02100103>我看還是從上層甲板開始找吧。
-67,TEXT_GAIUSE316_01457_ALPHINAUD_000_024,完事後就在飛艇坪匯合吧。<hex:02100103>這邊就拜託你了。
-68,TEXT_GAIUSE316_01457_RIOL_000_030,啊，這不是<hex:022903EB0203>嘛！<hex:02100103>你還記得我嗎？在你去挑戰蠻神泰坦時，<hex:02100103>告訴你蠻風乙太之光情報的就是我啊！
-69,TEXT_GAIUSE316_01457_RIOL_000_031,沒錯！石綠湖的三聲口哨！<hex:02100103>應聲而來的就是原海雄旅團的里奧爾大爺！<hex:02100103>好久不見！我偶爾會來利姆薩·羅敏薩喝幾杯。
-70,TEXT_GAIUSE316_01457_RIOL_000_032,哦？先鋒隊嗎？<hex:02100103>聽起來很有意思嘛。
-71,TEXT_GAIUSE316_01457_RIOL_000_033,那就算我一份吧。<hex:02100103>雖然海雄旅團解散了，我可還是活蹦亂跳的哦。<hex:02100103>你是得到五英傑承認的人，為了你我就豁出去了！
-72,TEXT_GAIUSE316_01457_REYNER_000_040,先鋒隊啊……<hex:02100103>我倒是聽說過要創設這麼個組織的消息。
-73,TEXT_GAIUSE316_01457_REYNER_000_041,不過，我畢竟是黃衫隊的一員。<hex:02100103>為了守護利姆薩·羅敏薩的百姓，我不能離開。
-74,TEXT_GAIUSE316_01457_REYNER_000_050,我畢竟是黃衫隊的一員。<hex:02100103>為了守護利姆薩·羅敏薩的百姓，我不能離開。
-75,TEXT_GAIUSE316_01457_CARVALLAIN_000_060,先鋒隊嗎……聽起來倒是很有意思。
-76,TEXT_GAIUSE316_01457_CARVALLAIN_000_061,不過請容我再觀察一段時期。<hex:02100103>我們「百鬼夜行」最擅長的就是判斷時勢。<hex:02100103>現在好像還不是出手的好時機。
-77,TEXT_GAIUSE316_01457_CARVALLAIN_000_070,請容我再觀察一段時期。<hex:02100103>在我看來現在好像還不是出手的好時機。
-78,TEXT_GAIUSE316_01457_RHOSWEN_000_080,啊？你在說什麼胡話？<hex:02100103>我們可是海盜，怎麼可能加入那種溫存和睦的組織！<hex:02100103>我看只有卡爾瓦蘭那種沒出息的才會答應吧！
-79,TEXT_GAIUSE316_01457_RHOSWEN_000_090,我們可是海盜，怎麼可能加入那種溫存和睦的組織！<hex:02100103>我看只有卡爾瓦蘭那種沒出息的才會答應吧！
-80,TEXT_GAIUSE316_01457_HNAANZA_000_100,先鋒隊……這種志氣真是不錯，<hex:02100103>不過我身兼總經理和公會會長兩職，已經走不開啦。
-81,TEXT_GAIUSE316_01457_HNAANZA_000_101,雖然不能加入你們，<hex:02100103>但是有什麼需要的話儘管來找我。<hex:02100103>訂單更是隨時歡迎！
-82,TEXT_GAIUSE316_01457_HNAANZA_000_110,雖然不能加入你們，<hex:02100103>但是有什麼需要的話儘管來找我。<hex:02100103>訂單更是隨時歡迎！
-83,TEXT_GAIUSE316_01457_ALPHINAUD_000_120,辛苦你了，招攬的情況怎樣？<hex:02100103>利姆薩·羅敏薩聚集著很多粗魯的傢伙們……<hex:02100103>你有從中找到不錯的人才嗎？
-84,TEXT_GAIUSE316_01457_ALPHINAUD_000_121,什麼，居然找來了一個海雄旅團出身的人？<hex:02100103>這可真是只有你才能招攬到的人才啊。
-85,TEXT_GAIUSE316_01457_ALPHINAUD_000_122,我也已經和梅爾維布提督談妥了。<hex:02100103>下一站是去格里達尼亞會見嘉恩·艾大人。<hex:02100103>我們在豐饒神祭壇碰面吧。
-86,TEXT_GAIUSE316_01457_ALPHINAUD_000_130,我這就去見嘉恩·艾大人。<hex:02100103>你就跟在利姆薩·羅敏薩時一樣去招攬人才吧。
-87,TEXT_GAIUSE316_01457_ALPHINAUD_000_131,這次就在這舊街找人吧。<hex:02100103>事情完成後我們在飛艇坪見。
-88,TEXT_GAIUSE316_01457_LAURENTIUS_000_140,啊，是你！<hex:02100103>這可真是的，<hex:02100103>被放出來後第一個碰到的居然就是你……
-89,TEXT_GAIUSE316_01457_LAURENTIUS_000_141,呃，你看起來好像不記得了？<hex:02100103>我是勞倫修斯啊。<hex:02100103>就是那個被你教訓過的巴斯卡隆酒家的常客……
-90,TEXT_GAIUSE316_01457_Q1_000_142,還記得勞倫修斯嗎？
-91,TEXT_GAIUSE316_01457_A1_000_143,我想起來了！
-92,TEXT_GAIUSE316_01457_A1_000_144,是誰來著？
-93,TEXT_GAIUSE316_01457_A1_000_145,……
-94,TEXT_GAIUSE316_01457_LAURENTIUS_000_146,我就說嘛！<hex:02100103>我服刑結束，造型變了不少，還擔心大家都不認識我了。<hex:02100103>不過我可沒有盼著大家趕緊認出我哦……
-95,TEXT_GAIUSE316_01457_LAURENTIUS_000_147,是我啦！就是那個私下裡把物資交給帝國，<hex:02100103>最後被你和偷獵者們教訓了一頓的那個人！<hex:02100103>……你不是故意讓我親口說出來的吧？
-96,TEXT_GAIUSE316_01457_LAURENTIUS_000_148,喂，別沉默啊！<hex:02100103>沉默是什麼意思啊？<hex:02100103>你是說根本不想去回想嗎？！
-97,TEXT_GAIUSE316_01457_LAURENTIUS_000_149,算了，我的事就別提了……<hex:02100103>你在這裡做什麼呢？
-98,TEXT_GAIUSE316_01457_LAURENTIUS_000_150,先鋒隊嗎……聽起來不錯，<hex:02100103>不知我可以參加嗎？
-99,TEXT_GAIUSE316_01457_LAURENTIUS_000_151,那個……嗯，你也知道……<hex:02100103>我丟了鬼哭隊的飯碗，也要找事情做，<hex:02100103>幫你們一把也不錯嘛。
-100,TEXT_GAIUSE316_01457_LAURENTIUS_000_152,在喪靈鐘集合嗎？<hex:02100103>好，也算是還巴斯卡隆老爹的人情，<hex:02100103>這次就讓我也為了正義而戰吧！
-101,TEXT_GAIUSE316_01457_ALIANNE_000_160,爺爺，我看就這麼算了吧！<hex:02100103>你的腰已經不行了，<hex:02100103>還是快點回去找奶奶吧！
-102,TEXT_GAIUSE316_01457_ALIANNE_000_161,啊，你是<hex:022903EB0203>吧？<hex:02100103>很久以前我們在沙斯塔夏溶洞還有塔姆·塔拉墓園見過面。
-103,TEXT_GAIUSE316_01457_ALIANNE_000_162,那會兒覺得你只是個初出茅廬的冒險者呢……<hex:02100103>不過後來從繆恩小姐那裡聽說你居然討伐了漆黑的王狼，<hex:02100103>真是嚇了我一跳！
-104,TEXT_GAIUSE316_01457_ALIANNE_000_163,你在幫先鋒隊招人啊？<hex:02100103>嗯，如果是這種組織嚴密的隊伍，<hex:02100103>分開後也應該能讓爺爺放心吧……
-105,TEXT_GAIUSE316_01457_ALIANNE_000_164,決定了，我要參加！<hex:02100103>我要讓自己在冒險經歷中學到的本領派上用場，<hex:02100103>把爺爺送回老家後我就去跟你們匯合！
-106,TEXT_GAIUSE316_01457_ALIANNE_000_170,我要參加先鋒隊！<hex:02100103>等我把爺爺送回老家後就去跟你們匯合！
-107,TEXT_GAIUSE316_01457_ISILDAURE_000_175,我、我還撐得住！<hex:02100103>直到我站不住了，我的探求之路才會結束。<hex:02100103>哎呀……好疼……好疼啊。
-108,TEXT_GAIUSE316_01457_CEINGULED_000_180,先鋒隊的志向是很好，<hex:02100103>但是活動的內容有些欠缺具體性……<hex:02100103>在看清楚這點之前，我暫無參加的打算。
-109,TEXT_GAIUSE316_01457_CEINGULED_000_190,先鋒隊的志向是很好，<hex:02100103>但是活動的內容有些欠缺具體性……<hex:02100103>在看清楚這點之前，我暫無參加的打算。
-110,TEXT_GAIUSE316_01457_URSANDEL_000_200,要邀請我參加你們的新組織？<hex:02100103>哎呀……真虧你們能看得上我這把老骨頭。
-111,TEXT_GAIUSE316_01457_URSANDEL_000_201,不過，我已經發過誓，<hex:02100103>餘生都要在這裡為小姐的過錯贖罪。<hex:02100103>請原諒我拒絕你們的邀請。
-112,TEXT_GAIUSE316_01457_URSANDEL_000_210,我已經發過誓，<hex:02100103>餘生都要在這裡為小姐的過錯贖罪。<hex:02100103>請原諒我拒絕你們的邀請。
-113,TEXT_GAIUSE316_01457_ALPHINAUD_000_220,我已經徵求到嘉恩·艾大人的批准了。<hex:02100103>你那邊看來也有收穫嘛。
-114,TEXT_GAIUSE316_01457_ALPHINAUD_000_221,原鬼哭隊的隊員，還有個經驗豐富的冒險者……<hex:02100103>兩邊都有一定的戰鬥力，收穫不錯啊。
-115,TEXT_GAIUSE316_01457_ALPHINAUD_000_222,好，讓我們一鼓作氣，只剩下烏爾達哈了。<hex:02100103>取得最後的批准後，目的就算達成了。<hex:02100103>我們在御道匯合吧。
-116,TEXT_GAIUSE316_01457_ALPHINAUD_000_230,這裡就是最後了。<hex:02100103>我會盡最大的努力爭取娜娜莫陛下的同意。<hex:02100103>你就繼續去招攬人才吧。
-117,TEXT_GAIUSE316_01457_ALPHINAUD_000_231,你就在這來生迴廊招人吧。<hex:02100103>台階下人很多，從中挑選我們的同志吧。
-118,TEXT_GAIUSE316_01457_ALPHINAUD_000_232,完成後就還是來御道找我吧。<hex:02100103>希望我們都能順利。
-119,TEXT_GAIUSE316_01457_WILRED_000_240,啊……你是去過小阿拉米格的冒險者吧？<hex:02100103>我記得你當時在追蹤唆使我們的那些面具男。
-120,TEXT_GAIUSE316_01457_WILRED_000_241,那時候給你添麻煩了。<hex:02100103>我至今難忘你從蜥蜴人軍手中救下我們的恩情。
-121,TEXT_GAIUSE316_01457_WILRED_000_242,我在那之後思考了很多……祖國阿拉米格的未來，<hex:02100103>還有身為外來者卻伸出援手的你這樣的冒險者……<hex:02100103>最後，我覺得我應該出來多長長見識。
-122,TEXT_GAIUSE316_01457_WILRED_000_243,超越國境幫助人們的先鋒隊？<hex:02100103>你們是認真的嗎？
-123,TEXT_GAIUSE316_01457_WILRED_000_244,請你也讓我加入。<hex:02100103>我想要見證這個理想能否實現。<hex:02100103>我已經不再軟弱了，一定能派上用場的！
-124,TEXT_GAIUSE316_01457_OURCEN_000_250,啊，你是以前救過我的那個冒險者……<hex:02100103>許久不見，我是聖阿達瑪·蘭達瑪教會的奧爾森。
-125,TEXT_GAIUSE316_01457_OURCEN_000_251,那個時候假祭司欺騙貧民們，引起了大騷動……<hex:02100103>在了解了事情經過後，我一直想要向你們道謝。<hex:02100103>你今天也在跟那個桑……桑德瑞德先生一起調查事情嗎？
-126,TEXT_GAIUSE316_01457_OURCEN_000_0252,原來是在給新組織招賢納士啊。<hex:02100103>不過我還有教會和孩子們要照顧，<hex:02100103>無法加入你們了。
-127,TEXT_GAIUSE316_01457_OURCEN_000_260,不、不行，怎麼連恩人的名字都記不清楚了……<hex:02100103>桑……桑德……桑克……桑克雷？
-128,TEXT_GAIUSE316_01457_SYNTGOHT_000_270,超越國境限制的組織……<hex:02100103>自己的事都顧不來，還要主動幫鄰國分憂？<hex:02100103>真不懂你們……
-129,TEXT_GAIUSE316_01457_SYNTGOHT_000_280,超越國境限制的組織……<hex:02100103>自己的事都顧不來，還要主動幫鄰國分憂？<hex:02100103>真不懂你們……
-130,TEXT_GAIUSE316_01457_LANDEBERT_000_290,
-131,TEXT_GAIUSE316_01457_LANDEBERT_000_291,先鋒隊？我倒是聽說過傳聞，<hex:02100103>你跟那組織有關係嗎？
-132,TEXT_GAIUSE316_01457_LANDEBERT_000_292,我勸你還是退出吧。<hex:02100103>據說那組織的資金都是沙蠍眾提供的，<hex:02100103>跟他們有關係的組織有何正義可言……
-133,TEXT_GAIUSE316_01457_LANDEBERT_000_300,先鋒隊什麼的……<hex:02100103>據說他們的資金都是沙蠍眾提供的，<hex:02100103>跟他們有關係的組織有何正義可言……
-134,TEXT_GAIUSE316_01457_YELLOWMOON_000_310,什麼？需要我的力量？<hex:02100103>討厭，這莫非是告白？
-135,TEXT_GAIUSE316_01457_YELLOWMOON_000_311,討厭！耶蘿·姆恩好煩惱嘸～嗯！<hex:02100103>可是人家的心裡只有親愛的！<hex:02100103>抱歉啦！
-136,TEXT_GAIUSE316_01457_YELLOWMOON_000_320,可是人家的心裡只有親愛的！<hex:02100103>抱歉啦！
-137,TEXT_GAIUSE316_01457_ALPHINAUD_000_330,辛苦了。<hex:02100103>都招呼過了嗎？
-138,TEXT_GAIUSE316_01457_ALPHINAUD_000_331,哦……只有一個阿拉米格的年輕人願意加入啊。<hex:02100103>雖然人數不是太理想，但是作為起步來說也算不錯了。
-139,TEXT_GAIUSE316_01457_ALPHINAUD_000_332,現在是靈災後的困難時代……<hex:02100103>「拯救艾歐澤亞」聽起來確實像是個不著邊際的理想。
-140,TEXT_GAIUSE316_01457_ALPHINAUD_000_333,但是……確實有為此而奮起的人。<hex:02100103>你用雙手贏回的勝利，切實地帶給了人們希望。
-141,TEXT_GAIUSE316_01457_ALPHINAUD_000_334,多謝你了，<hex:022903EB0203>。<hex:02100103>作為先鋒隊的創設者，<hex:02100103>你幫忙招來的這些人手，我會善加利用的。
-142,TEXT_GAIUSE316_01457_ALPHINAUD_000_335,我也順利獲得了娜娜莫陛下的批准。<hex:02100103>這樣一來，三國的批准就都拿到了。
-143,TEXT_GAIUSE316_01457_ALPHINAUD_000_336,現在我們也有了基本的人手，<hex:02100103>財政上也準備充分。<hex:02100103>組織終於可以正式起步了。
-144,TEXT_GAIUSE316_01457_ALPHINAUD_000_337,啊，你擔心沙蠍眾提供的資金嗎？<hex:02100103>這方面也沒有問題。<hex:02100103>我是在詳加調查之後，從值得信賴的人那裡接收的。
-145,TEXT_GAIUSE316_01457_ALPHINAUD_000_338,畢竟組織規模一大，<hex:02100103>只靠我萊韋耶勒爾家的資產果然還是不夠……
-146,TEXT_GAIUSE316_01457_ALPHINAUD_000_339,先鋒隊今後要面臨的問題還有很多。<hex:02100103>現在外界必然是有些不好的傳聞，<hex:02100103>大概會讓人們有所懷疑吧。
-147,TEXT_GAIUSE316_01457_ALPHINAUD_000_340,我們也只能腳踏實地做出成績，<hex:02100103>來慢慢獲得人們的信賴了。
-148,TEXT_GAIUSE316_01457_ALPHINAUD_000_341,為此，我們也沒多少可以磨蹭的時間了。<hex:02100103>趕緊回石之家，準備下一步工作吧！
-149,TEXT_GAIUSE316_01457_ALPHINAUD_000_350,呼……一次跑完三國，<hex:02100103>真虧我能堅持下來。
-150,TEXT_GAIUSE316_01457_ALPHINAUD_000_351,不過現在也只剩下成立宣言了。<hex:02100103>我還是一鼓作氣立即準備比較好。<hex:02100103>感謝你的幫助。
-151,TEXT_GAIUSE316_01457_ALPHINAUD_000_352,拂曉那邊也應該很忙。<hex:02100103>你先去協助敏菲利亞吧。
+0,"TEXT_GAIUSE316_01457_SEQ_00","Alphinaud wishes to request your assistance for his new endeavor."
+1,"TEXT_GAIUSE316_01457_SEQ_01","Alphinaud lays before you the plan to establish a realm-wide Grand Company. The Scion goes on to lament that though the three nations' leaders are not opposed to the idea itself, endless deliberations over its implementation have slowed progress to a crawl. In order to demonstrate the efficacy of such a company and thus encourage the leaders to come to an agreement, Alphinaud explains that he has proposed the creation of a smaller, precursor organization─the vanguard to a future united Eorzea. The young Elezen requests that you join him on his journey to each of the three nations that you might begin scouting potential members for this trial company while he is engaged with finalizing the bureaucratic formalities. Head first to Limsa Lominsa and rendezvous with Alphinaud at Bulwark Hall."
+2,"TEXT_GAIUSE316_01457_SEQ_02","After giving you a brief explanation on the recruitment process, Alphinaud heads up to the Bridge to speak with the Admiral. Make your way to the upper decks and begin scouting for potential company members."
+3,"TEXT_GAIUSE316_01457_SEQ_03","You speak with a number of possible candidates for the trial organization, but are only successful in gaining the interest of Riol, a member of the now defunct Company of Heroes. Head to the airship landing and report to Alphinaud."
+4,"TEXT_GAIUSE316_01457_SEQ_04","You have reported the fruits of your labor to the young Scion. He is impressed by the caliber of your first recruit, and bids you join him on the second leg of his journey. Travel next to Gridania, and find Alphinaud at Nophica's Altar."
+5,"TEXT_GAIUSE316_01457_SEQ_05","You meet with Alphinaud just as he is due to begin his audience with Kan–E–Senna. Continue your recruiting efforts within Old Gridania while the determined Elezen speaks with the Elder Seedseer."
+6,"TEXT_GAIUSE316_01457_SEQ_06","You succeed in recruiting Laurentius and Alianne to the trial company. Make your way to the airship ticket counter and report to Alphinaud."
+7,"TEXT_GAIUSE316_01457_SEQ_07","The young Scion appears curious but nevertheless pleased at the addition of a former Wood Wailer and a seasoned adventurer to the ranks. Travel next to Ul'dah, and rendezvous with Alphinaud at the Royal Promenade."
+8,"TEXT_GAIUSE316_01457_SEQ_08","Alphinaud is ready to bow before Sultana Nanamo Ul Namo and ask her permission to operate freely within Ul'dah's borders. Make your way to the lower level of the Steps of Thal, and complete the initial stage of the trial company's recruitment efforts."
+9,"TEXT_GAIUSE316_01457_SEQ_09","Though your efforts to recruit any native Ul'dahns have failed, you are able to capture the interest of the young Ala Mhigan Wilred. Return to the Royal Promenade and report to Alphinaud."
+10,"TEXT_GAIUSE316_01457_SEQ_10","Somewhat disappointed but otherwise unsurprised by the overall number of recruits, Alphinaud is genuinely grateful for the few valuable members you were able to secure. After reporting his own success with the sultana and attempting to dispel any doubt you might have over the Syndicate's involvement, the young Scion suggests a swift return to Revenant's Toll. Make your way back to the Rising Stones and speak with Alphinaud."
+11,"TEXT_GAIUSE316_01457_SEQ_11","Upon returning to the Scions' headquarters, you find Alphinaud exhausted from the journey but eager to begin preparations for his trial company's inaugural ceremony. He thanks you for your recruiting efforts, and hints that the Antecedent may wish to assign you new duties. Speak with Minfilia and learn what events have transpired in Revenant's Toll in your absence."
+12,"TEXT_GAIUSE316_01457_SEQ_12",""
+13,"TEXT_GAIUSE316_01457_SEQ_13",""
+14,"TEXT_GAIUSE316_01457_SEQ_14",""
+15,"TEXT_GAIUSE316_01457_SEQ_15",""
+16,"TEXT_GAIUSE316_01457_SEQ_16",""
+17,"TEXT_GAIUSE316_01457_SEQ_17",""
+18,"TEXT_GAIUSE316_01457_SEQ_18",""
+19,"TEXT_GAIUSE316_01457_SEQ_19",""
+20,"TEXT_GAIUSE316_01457_SEQ_20",""
+21,"TEXT_GAIUSE316_01457_SEQ_21",""
+22,"TEXT_GAIUSE316_01457_SEQ_22",""
+23,"TEXT_GAIUSE316_01457_SEQ_23",""
+24,"TEXT_GAIUSE316_01457_TODO_00","Speak with Alphinaud at Bulwark Hall."
+25,"TEXT_GAIUSE316_01457_TODO_01","Scout for potential recruits on the upper decks."
+26,"TEXT_GAIUSE316_01457_TODO_02","Speak with Alphinaud at the airship landing in Limsa Lominsa."
+27,"TEXT_GAIUSE316_01457_TODO_03","Speak with Alphinaud at Nophica's Altar."
+28,"TEXT_GAIUSE316_01457_TODO_04","Scout for potential recruits in Old Gridania."
+29,"TEXT_GAIUSE316_01457_TODO_05","Speak with Alphinaud at the airship landing in Gridania."
+30,"TEXT_GAIUSE316_01457_TODO_06","Speak with Alphinaud at the Royal Promenade."
+31,"TEXT_GAIUSE316_01457_TODO_07","Scout for potential recruits on the Steps of Thal."
+32,"TEXT_GAIUSE316_01457_TODO_08","Speak with Alphinaud at the Royal Promenade."
+33,"TEXT_GAIUSE316_01457_TODO_09","Speak with Alphinaud at the Rising Stones."
+34,"TEXT_GAIUSE316_01457_TODO_10",""
+35,"TEXT_GAIUSE316_01457_TODO_11",""
+36,"TEXT_GAIUSE316_01457_TODO_12",""
+37,"TEXT_GAIUSE316_01457_TODO_13",""
+38,"TEXT_GAIUSE316_01457_TODO_14",""
+39,"TEXT_GAIUSE316_01457_TODO_15",""
+40,"TEXT_GAIUSE316_01457_TODO_16",""
+41,"TEXT_GAIUSE316_01457_TODO_17",""
+42,"TEXT_GAIUSE316_01457_TODO_18",""
+43,"TEXT_GAIUSE316_01457_TODO_19",""
+44,"TEXT_GAIUSE316_01457_TODO_20",""
+45,"TEXT_GAIUSE316_01457_TODO_21",""
+46,"TEXT_GAIUSE316_01457_TODO_22",""
+47,"TEXT_GAIUSE316_01457_TODO_23",""
+48,"TEXT_GAIUSE316_01457_ALPHINAUD_000_000","Pray forgive me if I tread over old ground, but I would first speak of the grand plan."
+49,"TEXT_GAIUSE316_01457_ALPHINAUD_000_001","Since the advent of the Seventh Astral Era, the leaders of the three nations have been deliberating over an accord that seeks to bring the disparate forces of Eorzea together into a single entity."
+50,"TEXT_GAIUSE316_01457_ALPHINAUD_000_002","A realm-wide Grand Company, if you will. The military might of such an institution would be drawn from every corner of the land, and directed against threats that no single nation could hope to overcome alone."
+51,"TEXT_GAIUSE316_01457_ALPHINAUD_000_003","Yet while the purpose of this hypothetical organization is undisputed, the logistics of its formation have become the source of endless debate..."
+52,"TEXT_GAIUSE316_01457_ALPHINAUD_000_004","And the longer these discussions continue, the more I sense the impetus towards unification draining away. Thus have I been campaigning for the creation of what might be considered a trial company."
+53,"TEXT_GAIUSE316_01457_ALPHINAUD_000_005","It will be on a much smaller scale than what we hope to eventually achieve, but capable of the same manner of unrestricted operation accorded to the Scions. 'Tis my hope that the successful utilization of such a force will lend momentum to the lagging deliberations."
+54,"TEXT_GAIUSE316_01457_ALPHINAUD_000_006","Also, being a primarily military outfit, I mean to assuage fears of its misuse by placing the fledgling organization under the authority of the Antecedent."
+55,"TEXT_GAIUSE316_01457_ALPHINAUD_000_007","The Scions work tirelessly to protect Eorzea and its people."
+56,"TEXT_GAIUSE316_01457_ALPHINAUD_000_008","...But as you yourself have witnessed with the refugee revolt, there are limitations to what even we can achieve."
+57,"TEXT_GAIUSE316_01457_ALPHINAUD_000_009","With this new company under the Scions' command, however, we will be capable of responding to a wider range of difficulties without straining our resources or overtaxing your formidable talents."
+58,"TEXT_GAIUSE316_01457_ALPHINAUD_000_010","The goals of my proposed organization and those of the Scions are ultimately identical─a point conceded by all concerned."
+59,"TEXT_GAIUSE316_01457_ALPHINAUD_000_011","But before I can move forward with establishing this precursor to the true, border-spanning Grand Company, 'tis yet necessary that I visit the three leaders and gain their official approval."
+60,"TEXT_GAIUSE316_01457_ALPHINAUD_000_012","A tiresome and time-consuming task... Which is why I would ask that you accompany me on the journey, and attend to the business of recruiting our inaugural members while I am otherwise engaged with bureaucratic formalities."
+61,"TEXT_GAIUSE316_01457_ALPHINAUD_000_013","...Thank you. 'Tis reassuring indeed to know that the Bringer of Light and <hex:02080DE905FF04>her<hex:FF04>his<hex:03> discerning eye will be selecting our future allies."
+62,"TEXT_GAIUSE316_01457_ALPHINAUD_000_014","Our first destination will be Limsa Lominsa. Let us rendezvous at Bulwark Hall."
+63,"TEXT_GAIUSE316_01457_ALPHINAUD_000_020","Ah, there you are. I am ready to ascend to the Bridge and speak with Admiral Bloefhiswyn."
+64,"TEXT_GAIUSE316_01457_ALPHINAUD_000_021","While the Admiral and I are finalizing permissory boundaries and signing parchments, I would have you begin the recruitment process in earnest."
+65,"TEXT_GAIUSE316_01457_ALPHINAUD_000_022","I have, of course, endeavored to spread the word of our organization through various channels, but I believe a personal approach will reach many who may otherwise remain ignorant of the opportunity."
+66,"TEXT_GAIUSE316_01457_ALPHINAUD_000_023","As for potential members, 'tis of no matter should they already be pledged to another institution, only that they are willing to lend their strength when the situation demands it. And you needn't range into the countryside─the upper decks alone are populated with sufficient candidates to suit our purpose."
+67,"TEXT_GAIUSE316_01457_ALPHINAUD_000_024","Once you are satisfied with your recruiting efforts, meet me at the airship ticket counter that we might prepare for the next leg of our journey."
+68,"TEXT_GAIUSE316_01457_RIOL_000_030","Well, if it ain't <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! I'd not forget a 'venturer brave enough─or daft enough─to seek the shortcut into Titan's bedchamber!"
+69,"TEXT_GAIUSE316_01457_RIOL_000_031","Ye remember ol' Riol, don't ye? Formerly o' the Company of Heroes? Three whistles at Bronze Lake? Aye, it ain't often I drag me arse out to Limsa for a drink, but I'm right glad I did! How fare ye these days?"
+70,"TEXT_GAIUSE316_01457_RIOL_000_032","Hm? Yer lookin' to put together a new crew? Top-tier work? Hah, sounds like a right lark, it does!"
+71,"TEXT_GAIUSE316_01457_RIOL_000_033","Alrighty, <hex:02080EE905FF05>lass<hex:FF04>lad<hex:03>, count me in. The Heroes may've gone their separate ways, but I ain't ready to climb into me grave just yet!"
+72,"TEXT_GAIUSE316_01457_REYNER_000_040","Master Alphinaud's new organization? Yes, I had heard the formation of his trial company was in the offing."
+73,"TEXT_GAIUSE316_01457_REYNER_000_041","'Tis with regret, however, that I must decline your invitation. As commander of the Yellowjackets, the protection of Limsa Lominsa must needs receive my full attention."
+74,"TEXT_GAIUSE316_01457_REYNER_000_050","I wish you well in your endeavors, but the Yellowjackets─and the defense of Limsa Lominsa's people─must remain my sole priority."
+75,"TEXT_GAIUSE316_01457_CARVALLAIN_000_060","An organization with the freedom to operate with territorial impunity? I must say, your proposal intrigues me."
+76,"TEXT_GAIUSE316_01457_CARVALLAIN_000_061","But the Krakens well know that there is a time to act, and a time to watch. And I'm afraid this...“trial company” of yours falls into the latter category."
+77,"TEXT_GAIUSE316_01457_CARVALLAIN_000_070","The Krakens do not stir before the currents can be read. For the present, my answer must be a respectful “no.”"
+78,"TEXT_GAIUSE316_01457_RHOSWEN_000_080","Eh? Who in the bloody 'ells do ye think yer talkin' to, drylander!? I'm a pirate, not some soddin' knight in shinin' plate! If yer lookin' fer a self-righteous fop, try knockin' on that dandy Carvallain's door!"
+79,"TEXT_GAIUSE316_01457_RHOSWEN_000_090","Do I need to fetch me hook? I told ye, go bother Carvallain with yer talk o' do-goodin'."
+80,"TEXT_GAIUSE316_01457_HNAANZA_000_100","A precursor to a united Eorzean Grand Company? Hmmm. While I do admire the scope of your ambition, my responsibilities here at Naldiq & Vymelli's keep me close to the forge."
+81,"TEXT_GAIUSE316_01457_HNAANZA_000_101","I have not the time to be traipsing hither and yon across the realm. Should you require my skills as an armorer, however, I might be willing to accept some special commissions..."
+82,"TEXT_GAIUSE316_01457_HNAANZA_000_110","As noble as your cause may be, I have a duty to Naldiq & Vymelli's, and to the forge. I can, however, be persuaded to furnish you with any metalwork you might require. Come back with a list of materiel, and we'll talk."
+83,"TEXT_GAIUSE316_01457_ALPHINAUD_000_120","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, your recruiting went well, I trust? I am curious as to how my proposal was received by the rough-and-ready folk of Limsa Lominsa."
+84,"TEXT_GAIUSE316_01457_ALPHINAUD_000_121","Ah, a member of the legendary Company of Heroes indicated his interest? Astonishing. I knew enlisting your aid was the right choice─few could boast the acquaintance of such an elusive character."
+85,"TEXT_GAIUSE316_01457_ALPHINAUD_000_122","I, too, was successful in my task: the Admiral consented to sign all the documents requiring her approval. I can only hope that my visit with the Elder Seedseer proceeds as smoothly. Pray continue on to Gridania at your own pace─I shall await your arrival at Nophica's Altar."
+86,"TEXT_GAIUSE316_01457_ALPHINAUD_000_130","My audience with the Elder Seedseer is due to commence momentarily. I would be grateful if you would once more see to the task of recruitment here in Gridania."
+87,"TEXT_GAIUSE316_01457_ALPHINAUD_000_131","After you deem the well of potential candidates has run dry, let us rendezvous at the airship ticket counter as before."
+88,"TEXT_GAIUSE316_01457_LAURENTIUS_000_140","Oh gods, can it truly be <hex:021A020203>you<hex:021A020103>!? By what fickle fortune must the first face I see upon my release be yours!?"
+89,"TEXT_GAIUSE316_01457_LAURENTIUS_000_141","...Eh? Could it be that you don't remember me? It is I, Laurentius, the man whose crimes you exposed. I was a Wailer, and a regular patron at Buscarron's..."
+90,"TEXT_GAIUSE316_01457_Q1_000_142","Do you remember Laurentius?"
+91,"TEXT_GAIUSE316_01457_A1_000_143","Yes, now I remember!"
+92,"TEXT_GAIUSE316_01457_A1_000_144","...Who?"
+93,"TEXT_GAIUSE316_01457_A1_000_145","..."
+94,"TEXT_GAIUSE316_01457_LAURENTIUS_000_146","Well, of course you do! I was beginning to wonder if gaol had changed me more than I realized. ...Not that I have any particular wish to be recognized after my shameful conduct."
+95,"TEXT_GAIUSE316_01457_LAURENTIUS_000_147","Laurentius! I...I was selling maps and supplies to the Garleans, before you and those Redbelly poachers mopped the forest floor with my erstwhile employers. ...Here now, just how many criminals have you dealt with that my ignominious tale ignites not the slightest flicker of recognition!?"
+96,"TEXT_GAIUSE316_01457_LAURENTIUS_000_148","Will you say nothing!? Does my presence disgust you so? Or do you simply not care to remember our encounter at all?"
+97,"TEXT_GAIUSE316_01457_LAURENTIUS_000_149","Hmph. The less said of my past, the better, I suppose. And what of you, adventurer? What business brings you to this part of Gridania?"
+98,"TEXT_GAIUSE316_01457_LAURENTIUS_000_150","Recruiting, eh? And what is your policy on reformed convicts?"
+99,"TEXT_GAIUSE316_01457_LAURENTIUS_000_151","As matters stand, the Wood Wailers will have naught more to do with me. This...this may be just the second chance I was looking for..."
+100,"TEXT_GAIUSE316_01457_LAURENTIUS_000_152","Revenant's Toll, you say? I shall leave at once! You shall not regret this, I promise you! I am a changed man!"
+101,"TEXT_GAIUSE316_01457_ALIANNE_000_160","Grandfather, you must call it a day! Let us return to the guild and rest ere your tormented back gives up on you for good!"
+102,"TEXT_GAIUSE316_01457_ALIANNE_000_161","I'm terribly sorry, we were just─ Oh, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, isn't it? It has been some time since our paths crossed outside of Copperbell Mines."
+103,"TEXT_GAIUSE316_01457_ALIANNE_000_162","Why, you were barely more than a novice adventurer then, but look how far you've come... Mother Miounne tells me 'twas you who felled the fearsome Black Wolf!"
+104,"TEXT_GAIUSE316_01457_ALIANNE_000_163","And now you seek stout-hearted souls to fill the ranks of a new order? Hmmm, well your cause is undoubtedly just, and my old companion here would be much relieved to see me in good hands..."
+105,"TEXT_GAIUSE316_01457_ALIANNE_000_164","Yes. Yes, I'll do it! This is the very thing I've spent my entire adventuring career working towards! I shall join your company just as soon as I've seen Isildaure safely home."
+106,"TEXT_GAIUSE316_01457_ALIANNE_000_170","If you would have me, I would be glad to join your new company. I shall make for Revenant's Toll once I've escorted my dear friend back home."
+107,"TEXT_GAIUSE316_01457_ISILDAURE_000_175","My back is perfectly fine, I tell you! You'll have to tie me to my bed if you think to prevent me from─ <gasp> Ow. Well, mayhaps I will rest for just a short while..."
+108,"TEXT_GAIUSE316_01457_CEINGULED_000_180","Hmmm. 'Tis not often a guild officer such as myself gets recruited. And this company of yours certainly sounds to have some promise... But its duties appear less than focused. I must refuse your invitation until such time as your organization is more...organized."
+109,"TEXT_GAIUSE316_01457_CEINGULED_000_190","While I find sympathy with your cause, I must confess to some confusion as to this company's place in the grand scheme of things. For the moment, I prefer to devote my energies to the clear-cut responsibilities of the Wailers."
+110,"TEXT_GAIUSE316_01457_URSANDEL_000_200","...You would offer this old man a place in your company of champions? I am both puzzled and honored by your invitation."
+111,"TEXT_GAIUSE316_01457_URSANDEL_000_201","Pray forgive me, <hex:020821E905FF0F>young mistress<hex:FF0D>young master<hex:03>, but I cannot accept. I have sworn to abide here for whatever scant years remain to me, and bear responsibility for the evils my lady has wrought upon this land..."
+112,"TEXT_GAIUSE316_01457_URSANDEL_000_210","I must respectfully refuse your invitation. Your proposal promises new beginnings, but I am shackled to the sins of the past. By my own oath am I made prisoner, my chains forged of guilt and unforgivable cowardice..."
+113,"TEXT_GAIUSE316_01457_ALPHINAUD_000_220","What news, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>? For my part, the Elder Seedseer was most amenable to our requirements."
+114,"TEXT_GAIUSE316_01457_ALPHINAUD_000_221","...A former Wood Wailer, and a seasoned adventurer? Our company will not lack for variety, that much is certain. An interesting harvest, indeed."
+115,"TEXT_GAIUSE316_01457_ALPHINAUD_000_222","Shall we strike into Ul'dah whilst the iron is hot? Let us meet at the Royal Promenade and endeavor to conclude our remaining business. Our journey draws to a close..."
+116,"TEXT_GAIUSE316_01457_ALPHINAUD_000_230","Ul'dah, the gilded city, where one's fortune defines one's worth. I hope some manner of fortune is with us, and that this final leg proves as successful as the previous two."
+117,"TEXT_GAIUSE316_01457_ALPHINAUD_000_231","Might I suggest descending to the lower level before beginning your recruitment efforts? I do not think the sultana will take kindly to us poaching from her personal guard."
+118,"TEXT_GAIUSE316_01457_ALPHINAUD_000_232","Let us meet back here at the Promenade when our respective tasks are complete. Good hunting, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>."
+119,"TEXT_GAIUSE316_01457_WILRED_000_240","Hm? Wait, you're the <hex:02080EE905FF05>lady<hex:FF04>man<hex:03> who came to Little Ala Mhigo looking for that masked devil."
+120,"TEXT_GAIUSE316_01457_WILRED_000_241","Who knows what might've happened if you hadn't... I'd probably be dead, and a whole lot more of my friends besides. We were such fools."
+121,"TEXT_GAIUSE316_01457_WILRED_000_242","Anyroad, that disaster really got me to thinking─about our homeland, and about the outsider who saved us from ourselves. I realized how easily I'd been manipulated, and vowed to make of myself a more worldly man. So here I am."
+122,"TEXT_GAIUSE316_01457_WILRED_000_243","...A new company of champions? And you say it will take me to all corners of the realm?"
+123,"TEXT_GAIUSE316_01457_WILRED_000_244","That sounds exactly like the kind of opportunity I need. And don't worry: I'm not the same stripling you met in Little Ala Mhigo. I've prepared myself to fight the evil I now <hex:021A020203>know<hex:021A020103> is out there."
+124,"TEXT_GAIUSE316_01457_OURCEN_000_250","Oh, what a happy coincidence! Do you remember me, perchance? I am Ourcen, of the Church of Saint Adama Landama. Thank you again for your timely rescue."
+125,"TEXT_GAIUSE316_01457_OURCEN_000_251","And I must also thank you for preventing that fraudulent priest from preying on Drybone's less fortunate. A most upsetting business. Are you here with your companion─Thancred, wasn't it?"
+126,"TEXT_GAIUSE316_01457_OURCEN_000_0252","...Ah, 'tis new companions you seek, then. Your proposed organization sounds a powerful force for good, but my place is at the church with the children. Nevertheless, I wish you well in this undertaking."
+127,"TEXT_GAIUSE316_01457_OURCEN_000_260","I could never abandon the children, or my work at the lichyard. I will, however, pray for your success."
+128,"TEXT_GAIUSE316_01457_SYNTGOHT_000_270","A company that looks to cure the ills of the realm entire? Listen, friend, I can scarce bear the complaints of the next stall over, let alone the conundrums of a neighboring nation!"
+129,"TEXT_GAIUSE316_01457_SYNTGOHT_000_280","I cannot help you. My fortunes have fallen far enough without investing in a company with no margin for profit."
+130,"TEXT_GAIUSE316_01457_LANDEBERT_000_290",""
+131,"TEXT_GAIUSE316_01457_LANDEBERT_000_291","...Aye, you'd be surprised what rumors drift down to Pearl Lane. I know of this glorious new company of yours, and just how far I'd go to avoid getting involved with it."
+132,"TEXT_GAIUSE316_01457_LANDEBERT_000_292","Whispers on the street say your organization is funded by corrupt coin─by <hex:021A020203>Syndicate<hex:021A020103> money. If you think you're recruiting for a just cause, then you're a bigger fool than I took you for."
+133,"TEXT_GAIUSE316_01457_LANDEBERT_000_300","My advice, soldier? Cut your ties and run. Your shining company'll be naught but a puppet that dances to the Syndicate's tune."
+134,"TEXT_GAIUSE316_01457_YELLOWMOON_000_310","I'm sorry? You wish to “recruit” me? Is this some new-fashioned manner of propositioning a lady?"
+135,"TEXT_GAIUSE316_01457_YELLOWMOON_000_311","Well, I'm afraid you are wasting your time─<hex:021A020203>this<hex:021A020103> lady is already spoken for! Good day to you, <hex:02080EE905FF05>miss<hex:FF04>sir<hex:03>!"
+136,"TEXT_GAIUSE316_01457_YELLOWMOON_000_320","Pray take your crude affections elsewhere! Bitter Snow's is the only love I require!"
+137,"TEXT_GAIUSE316_01457_ALPHINAUD_000_330","How fared you, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>? What hidden gems did the streets of Ul'dah offer up to your unrelenting gaze?"
+138,"TEXT_GAIUSE316_01457_ALPHINAUD_000_331","Hmmm... A single Ala Mhigan youth? Well, you've certainly given us an admirable start, even if our ranks are yet somewhat thin."
+139,"TEXT_GAIUSE316_01457_ALPHINAUD_000_332","In these troubled years following the Calamity, talk of Eorzea's salvation must seem akin to grasping at clouds."
+140,"TEXT_GAIUSE316_01457_ALPHINAUD_000_333","But there are those who have risen to the challenge, nonetheless. And the hope that inspires these people was born in no small part from the victories you yourself have won."
+141,"TEXT_GAIUSE316_01457_ALPHINAUD_000_334","Thank you, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. I will not squander the precious gift you have placed into my keeping─these recruits will become the foundation of a new beginning."
+142,"TEXT_GAIUSE316_01457_ALPHINAUD_000_335","And yes, we are free to begin. As you have no doubt surmised, the sultana also graced my trial company with her blessings."
+143,"TEXT_GAIUSE316_01457_ALPHINAUD_000_336","Our first wave of recruitment is over, the documents signed, and the finances secure. There is naught to prevent me from taking the next step."
+144,"TEXT_GAIUSE316_01457_ALPHINAUD_000_337","...You are concerned by the Syndicate's involvement? As was I. Thus was the origin of every coin of their contribution carefully scrutinized and recorded. This organization will not be built on corruption."
+145,"TEXT_GAIUSE316_01457_ALPHINAUD_000_338","Naturally, I would prefer not to rely upon outside sources at all, but even my family's substantial coffers could not sustain a venture of this magnitude."
+146,"TEXT_GAIUSE316_01457_ALPHINAUD_000_339","And as for the rumors and doubt surrounding this enterprise... Well, such things shall plague us until the company has had a chance to prove its worth."
+147,"TEXT_GAIUSE316_01457_ALPHINAUD_000_340","It will not be an easy process, but we will earn people's trust one success at a time."
+148,"TEXT_GAIUSE316_01457_ALPHINAUD_000_341","...Speaking of time, we should waste no more of it. Let us return to the Rising Stones, and lay the first stone for a united Eorzea!"
+149,"TEXT_GAIUSE316_01457_ALPHINAUD_000_350","<sigh> ...That is not a journey I soon wish to repeat."
+150,"TEXT_GAIUSE316_01457_ALPHINAUD_000_351","But I cannot pause to rest─the culmination of all our effort is at hand. I must see to the preparations for the inaugural ceremony."
+151,"TEXT_GAIUSE316_01457_ALPHINAUD_000_352","Thank you for allowing me to monopolize your services, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. I am certain the Antecedent will be relieved to see you free for other duties."

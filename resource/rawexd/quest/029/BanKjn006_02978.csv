@@ -2,148 +2,148 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_BANKJN006_02978_SEQ_00,<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整（限定職業）<hex:0249020103><hex:0248020103><hex:02100103>碧玉水的武盔在等待冒險者。
-1,TEXT_BANKJN006_02978_SEQ_01,※本任務為<hex:024804F201FC03><hex:024904F201FD03><hex:0249020103><hex:0248020103> 等級調整（限定職業）任務，<hex:02100103>　需要與接受任務時的職業相同才可繼續進行任務。<hex:02100103><hex:02100103>武盔委託冒險者隨同拜訪和付喪一起結緣的人們。和延夏弓束官邸的魚形交談。
-2,TEXT_BANKJN006_02978_SEQ_02,和魚形進行了交談。他忘記了付喪的事。也許是因為當時受到紅甲族襲擊，在驚嚇中失去了記憶。和太陽神草原重逢集市的兀赤金交談。
-3,TEXT_BANKJN006_02978_SEQ_03,和兀赤金父子進行了交談，他們也忘記了付喪的事。武盔感到不安，於是前去拜訪把付喪贈送給自己的潮海。和黃金港小鍛冶屋的潮海交談。
-4,TEXT_BANKJN006_02978_SEQ_04,和潮海進行了交談。她記得付喪的事，卻完全想不起來付喪活動起來並說話的事情。和紅玉海碧玉水的文鎮交談。
-5,TEXT_BANKJN006_02978_SEQ_05,和文鎮進行了交談，也向尋寶眾進行了確認。大家果然都不記得付喪曾經會跑會跳會說話。不過，文鎮說他自己也曾經歷過類似的事。對武盔而言，付喪是真實存在過的，而現今的緣分和寶物，都是付喪的饋贈。武盔決心珍惜寶貴的緣分，和同伴一起為增加寶物而努力。
-6,TEXT_BANKJN006_02978_SEQ_06,
-7,TEXT_BANKJN006_02978_SEQ_07,
-8,TEXT_BANKJN006_02978_SEQ_08,
-9,TEXT_BANKJN006_02978_SEQ_09,
-10,TEXT_BANKJN006_02978_SEQ_10,
-11,TEXT_BANKJN006_02978_SEQ_11,
-12,TEXT_BANKJN006_02978_SEQ_12,
-13,TEXT_BANKJN006_02978_SEQ_13,
-14,TEXT_BANKJN006_02978_SEQ_14,
-15,TEXT_BANKJN006_02978_SEQ_15,
-16,TEXT_BANKJN006_02978_SEQ_16,
-17,TEXT_BANKJN006_02978_SEQ_17,
-18,TEXT_BANKJN006_02978_SEQ_18,
-19,TEXT_BANKJN006_02978_SEQ_19,
-20,TEXT_BANKJN006_02978_SEQ_20,
-21,TEXT_BANKJN006_02978_SEQ_21,
-22,TEXT_BANKJN006_02978_SEQ_22,
-23,TEXT_BANKJN006_02978_SEQ_23,
-24,TEXT_BANKJN006_02978_TODO_00,和弓束官邸的魚形對話
-25,TEXT_BANKJN006_02978_TODO_01,和重逢集市的兀赤金對話
-26,TEXT_BANKJN006_02978_TODO_02,和黃金港的潮海對話
-27,TEXT_BANKJN006_02978_TODO_03,和碧玉水的文鎮對話
-28,TEXT_BANKJN006_02978_TODO_04,
-29,TEXT_BANKJN006_02978_TODO_05,
-30,TEXT_BANKJN006_02978_TODO_06,
-31,TEXT_BANKJN006_02978_TODO_07,
-32,TEXT_BANKJN006_02978_TODO_08,
-33,TEXT_BANKJN006_02978_TODO_09,
-34,TEXT_BANKJN006_02978_TODO_10,
-35,TEXT_BANKJN006_02978_TODO_11,
-36,TEXT_BANKJN006_02978_TODO_12,
-37,TEXT_BANKJN006_02978_TODO_13,
-38,TEXT_BANKJN006_02978_TODO_14,
-39,TEXT_BANKJN006_02978_TODO_15,
-40,TEXT_BANKJN006_02978_TODO_16,
-41,TEXT_BANKJN006_02978_TODO_17,
-42,TEXT_BANKJN006_02978_TODO_18,
-43,TEXT_BANKJN006_02978_TODO_19,
-44,TEXT_BANKJN006_02978_TODO_20,
-45,TEXT_BANKJN006_02978_TODO_21,
-46,TEXT_BANKJN006_02978_TODO_22,
-47,TEXT_BANKJN006_02978_TODO_23,
-48,TEXT_BANKJN006_02978_KABUTO_000_000,<hex:022903EB0203>閣下，歡迎——<hex:02100103>等你許久了——
-49,TEXT_BANKJN006_02978_KABUTO_000_001,自從付喪停止活動後，<hex:02100103>鄙人心懷付喪的教誨，努力和同伴協作——<hex:02100103>也結下了新的緣分——
-50,TEXT_BANKJN006_02978_KABUTO_000_002,夥伴們真是可靠啊——<hex:02100103>他們看鄙人總是不休息，<hex:02100103>想讓鄙人去度個假——
-51,TEXT_BANKJN006_02978_KABUTO_000_003,可是，鄙人真的不知道該幹什麼……<hex:02100103>思來想去，鄙人覺得應該去拜訪一下<hex:02100103>從前咱們三人一起去結下了緣分的人們——
-52,TEXT_BANKJN006_02978_KABUTO_000_004,希望你能陪同鄙人前往——<hex:02100103>咱們先去延夏，拜訪魚形閣下吧——
-53,TEXT_BANKJN006_02978_KABUTO_000_009,好久沒來延夏了……<hex:02100103>那個帶來不幸的罐子，似乎並沒有回來——
-54,TEXT_BANKJN006_02978_GYOKEI_000_010,噗噗噗，好久不見噗！<hex:02100103>近況如何？！
-55,TEXT_BANKJN006_02978_KABUTO_000_011,如你所見，我們很好——<hex:02100103>多虧魚形閣下的關照，寶物殿的寶物又變多了——<hex:02100103>今天，特地來道謝——
-56,TEXT_BANKJN006_02978_GYOKEI_000_012,這邊也多虧各位關照，生意棒棒噗——<hex:02100103>那個罐子再沒有回來，我每天都過得非常開心噗——<hex:02100103>充滿神氣的寶物殿可真是功德無量噗！
-57,TEXT_BANKJN006_02978_KABUTO_000_013,看來付喪沒有說謊——<hex:02100103>不過，付喪不再活動了——<hex:02100103>此次拜訪也是為了來傳達此事的——
-58,TEXT_BANKJN006_02978_GYOKEI_000_014,噗噗噗？！<hex:02100103>「付喪」是什麼？！<hex:02100103>某種美味的海藻嗎噗？
-59,TEXT_BANKJN006_02978_KABUTO_000_015,難、難道說，你忘記了付喪——？！<hex:02100103>就是那個聲音尖利，能說會道的甲人族人偶啊——
-60,TEXT_BANKJN006_02978_GYOKEI_000_016,會說話的人偶？<hex:02100103>要是真有那種東西，怎麼會忘記噗？！<hex:02100103>從頭到尾只見過你們兩個噗！
-61,TEXT_BANKJN006_02978_KABUTO_000_017,唔……<hex:02100103><hex:022903EB0203>閣下，你怎麼看——？
-62,TEXT_BANKJN006_02978_Q1_000_000,如何作答？
-63,TEXT_BANKJN006_02978_A1_000_001,可能是因為當時受到了驚嚇吧
-64,TEXT_BANKJN006_02978_A1_000_002,……
-65,TEXT_BANKJN006_02978_KABUTO_000_018,也是，那時候魚形閣下正在遭受紅甲族襲擊——<hex:02100103>肯定是受到了驚嚇，記憶變得模糊了——
-66,TEXT_BANKJN006_02978_KABUTO_000_019,<hex:022903EB0203>閣下也不明白啊——<hex:02100103>那時候魚形閣下正在遭受紅甲族襲擊——<hex:02100103>肯定是受到了驚嚇，記憶變得模糊了吧——
-67,TEXT_BANKJN006_02978_KABUTO_000_020,鄙人有時候也會在戰鬥之後，<hex:02100103>出現記憶模糊的情況——
-68,TEXT_BANKJN006_02978_KABUTO_000_021,咱們還是不要硬揭魚形閣下的傷疤了吧——<hex:02100103>先告辭好了——
-69,TEXT_BANKJN006_02978_KABUTO_000_022,不管怎樣，碧玉水歡迎魚形閣下來做買賣——<hex:02100103>今後，請繼續和我們維持緣分——
-70,TEXT_BANKJN006_02978_GYOKEI_000_023,噗噗噗！<hex:02100103>當然噗！<hex:02100103>我也很想去你們的寶物殿看看噗！
-71,TEXT_BANKJN006_02978_KABUTO_000_024,那麼，<hex:022903EB0203>閣下，<hex:02100103>接下來，就到重逢集市，拜訪兀赤金吧——！
-72,TEXT_BANKJN006_02978_GYOKEI_000_029,噗噗噗，保重噗！<hex:02100103>說回來，會說話的人偶……<hex:02100103>倒是真想見識一下噗！
-73,TEXT_BANKJN006_02978_KABUTO_000_029,太陽神草原好遠啊——<hex:02100103>即便如此，在決戰之日，<hex:02100103>枕頭還是跑到了這裡啊——
-74,TEXT_BANKJN006_02978_UCHIKINPAPA_000_028,……
-75,TEXT_BANKJN006_02978_SYSTEM_000_029,兀赤金的父親滿面微笑地相迎。<hex:02100103>似乎在歡迎<hex:022903EB0203>和武盔的到訪。
-76,TEXT_BANKJN006_02978_UCHIKIN_000_030,(-兀赤金及其父-)……
-77,TEXT_BANKJN006_02978_KABUTO_000_031,二位似乎都很高興再見到我們——<hex:02100103>鄙人剛才看了看集市那邊，<hex:02100103>據說兀赤金的弓術又有長進啊——
-78,TEXT_BANKJN006_02978_UCHIKIN_000_032,(-兀赤金及其父-)……
-79,TEXT_BANKJN006_02978_KABUTO_000_033,不用感謝啦——！<hex:02100103>在奪回付喪的時候，多虧了凱蘇提爾部的武器，<hex:02100103>我們大獲全勝——
-80,TEXT_BANKJN006_02978_KABUTO_000_034,……說起來，第一次來重逢集市的時候，<hex:02100103>還是付喪為沉默寡言的凱蘇提爾部傳達心聲的呢——
-81,TEXT_BANKJN006_02978_UCHIKIN_000_035,(-兀赤金及其父-)……
-82,TEXT_BANKJN006_02978_KABUTO_000_036,嗚，為什麼二位都一副不明所以的樣子啊——？<hex:02100103>付喪就是那個說話聲很尖利的甲人族人偶啊——<hex:02100103>難道你們都忘記了——？
-83,TEXT_BANKJN006_02978_UCHIKIN_000_037,(-兀赤金及其父-)……
-84,TEXT_BANKJN006_02978_KABUTO_000_038,<hex:022903EB0203>閣下，這到底是？<hex:02100103>難道連兀赤金父子都忘記付喪了——？
-85,TEXT_BANKJN006_02978_KABUTO_000_039,咱們去問問黃金港的潮海閣下吧——<hex:02100103>給鄙人付喪的潮海閣下總會記得吧——？
-86,TEXT_BANKJN006_02978_KABUTO_000_040,那鄙人先告辭了——<hex:02100103>今後請多關照——！
-87,TEXT_BANKJN006_02978_UCHIKIN_000_041,(-兀赤金及其父-)……
-88,TEXT_BANKJN006_02978_UCHIKIN000_046,……
-89,TEXT_BANKJN006_02978_SYSTEM_000_047,看上去感到十分抱歉。<hex:02100103>不過，還是想不起付喪的事。
-90,TEXT_BANKJN006_02978_UCHIKINPAPA_000_048,……
-91,TEXT_BANKJN006_02978_SYSTEM_000_049,似乎為與武盔和冒險者的重逢而高興，<hex:02100103>也為二人的旅途送上祝福。
-92,TEXT_BANKJN006_02978_KABUTO_000_049,潮海閣下為鄙人將付喪心靈的結晶鑲嵌到了武士盔上，<hex:02100103>她一定記得付喪的事……！
-93,TEXT_BANKJN006_02978_SHIHOUMI_000_050,呀，二位親自來拜訪，我受寵若驚呀！<hex:02100103>武盔閣下似乎很不安……發生了什麼？
-94,TEXT_BANKJN006_02978_KABUTO_000_051,潮海閣下……你是否記得，<hex:02100103>鄙人頭盔上的這塊寶玉——？
-95,TEXT_BANKJN006_02978_SHIHOUMI_000_052,當然記得！<hex:02100103>這是我鑲上去的！
-96,TEXT_BANKJN006_02978_KABUTO_000_053,哦哦，果然還記得！<hex:02100103>那也應該記得這塊寶玉原先的主人，<hex:02100103>甲人族人偶付喪的事吧——？
-97,TEXT_BANKJN006_02978_SHIHOUMI_000_054,您真會說笑。<hex:02100103>那個人偶不是我給您的謝禮嗎？
-98,TEXT_BANKJN006_02978_KABUTO_000_055,哦哦，對對，就是那個——！
-99,TEXT_BANKJN006_02978_SHIHOUMI_000_056,明明是古舊又不會動的人偶，可武盔閣下還是收下了它，<hex:02100103>而且還起了個名字，我好感動。<hex:02100103>正因如此，我才把從人偶身上掉出來的寶玉……鑲到……咦？
-100,TEXT_BANKJN006_02978_SHIHOUMI_000_057,好奇怪……<hex:02100103>為什麼會有寶玉從人偶身上掉出來呢？<hex:02100103>它身上明明不應該有這種部件才對……
-101,TEXT_BANKJN006_02978_KABUTO_000_058,這個寶玉就是付喪心靈的結晶，<hex:02100103>這不是你自己說的嗎——？<hex:02100103>難道你忘記了——？
-102,TEXT_BANKJN006_02978_SHIHOUMI_000_059,我說過這種話？！<hex:02100103>您是不是因為這顆寶玉而記憶混亂了？
-103,TEXT_BANKJN006_02978_KABUTO_000_060,不不，付喪確實活動過——！<hex:02100103>付喪為鄙人代言了心聲，<hex:02100103>幫助鄙人和很多人結了緣的——！
-104,TEXT_BANKJN006_02978_SHIHOUMI_000_061,看武盔閣下的樣子，似乎並不是精神錯亂。<hex:02100103>我也確實隱約感覺有某些很重要的緣分與那個人偶相關……<hex:02100103>但抱歉……我還是想不起來……
-105,TEXT_BANKJN006_02978_KABUTO_000_062,<hex:022903EB0203>閣下，<hex:02100103>這實在太奇怪了——
-106,TEXT_BANKJN006_02978_KABUTO_000_063,莫非連碧玉水的人們也都忘記了——？！<hex:02100103>我們趕緊回到碧玉水確認一下吧——！
-107,TEXT_BANKJN006_02978_KABUTO_000_064,潮海閣下，無論是寶玉還是人偶，都是鄙人的至寶——<hex:02100103>鄙人很感謝你——<hex:02100103>今後也會繼續珍視這份緣分的——！
-108,TEXT_BANKJN006_02978_SHIHOUMI_000_065,那是自然。<hex:02100103>願您能找到真相……
-109,TEXT_BANKJN006_02978_KABUTO_000_066,那就趕緊回到碧玉水，跟長老確認一下——！
-110,TEXT_BANKJN006_02978_SHIHOUMI_000_069,我也覺得有過很重要的緣分……<hex:02100103>可是，就是想不起來……<hex:02100103>希望武盔閣下能找到他所尋找的真相！
-111,TEXT_BANKJN006_02978_KABUTO_000_069,<hex:022903EB0203>閣下，你來了啊——<hex:02100103>一想到長老可能也忘記了付喪，鄙人就感到害怕，<hex:02100103>一直不敢去問啊——
-112,TEXT_BANKJN006_02978_BUNCHIN_000_070,嚯嚯嚯……<hex:02100103>你們兩個怎麼了啊——？
-113,TEXT_BANKJN006_02978_KABUTO_000_071,是這樣，現在發生了奇怪的事件，<hex:02100103>所以想來確認一下情況——
-114,TEXT_BANKJN006_02978_MAKURA_000_073,(-枕頭的聲音-)喂——！武盔——！<hex:02100103>我把碧玉尋寶眾帶來了——<hex:02100103>要說什麼事啊——？
-115,TEXT_BANKJN006_02978_KABUTO_000_074,鄙人召集大家，其實是為了一件事——<hex:02100103>碧玉尋寶眾努力將碧玉水的寶物殿填滿了寶物，<hex:02100103>而這個團隊是由付喪發起組織的，你們都沒忘記吧——？
-116,TEXT_BANKJN006_02978_BUNCHIN_000_075,你說得好奇怪哦——<hex:02100103>付喪大人不是你獲得，<hex:02100103>並放在寶物殿中央的寶物嗎——？
-117,TEXT_BANKJN006_02978_KABUTO_000_076,哦哦，對，對，就是那個——！<hex:02100103>大家果然還記得——！
-118,TEXT_BANKJN006_02978_BUNCHIN_000_077,可是，武盔……<hex:02100103>付喪大人結成碧玉尋寶眾又是怎麼說的？<hex:02100103>做這事的，不是你嗎——？
-119,TEXT_BANKJN006_02978_KABUTO_000_078,啊——？<hex:02100103>難道大家都忘記付喪曾經會動的事了——？！<hex:02100103>那個尖利的聲音、靈巧的動作，都忘了——？
-120,TEXT_BANKJN006_02978_KABUTO_000_079,<hex:022903EB0203>閣下……<hex:02100103>你和鄙人還有付喪一同周遊了各地——
-121,TEXT_BANKJN006_02978_KABUTO_000_080,所以，鄙人一直沒有問，<hex:02100103>不過，你應該沒有忘記吧——？
-122,TEXT_BANKJN006_02978_Q2_000_000,如何作答？
-123,TEXT_BANKJN006_02978_A2_000_001,記得
-124,TEXT_BANKJN006_02978_A2_000_002,你在說什麼？
-125,TEXT_BANKJN006_02978_KABUTO_000_081,太好了……鄙人放心了——<hex:02100103>鄙人還以為自己在做夢，<hex:02100103>還好付喪確實存在過，並指引了鄙人——！
-126,TEXT_BANKJN006_02978_BUNCHIN_000_082,嚯嚯嚯……<hex:02100103>看來結成尋寶眾的功臣，<hex:02100103>是一個只有你們兩個知道的神秘友人啊——？
-127,TEXT_BANKJN006_02978_BUNCHIN_000_083,那也許可以這樣想——<hex:02100103>一位付喪神大人為了指引武盔而寄宿在了那個人偶裡——<hex:02100103>因此，也只有你記得它的存在——
-128,TEXT_BANKJN006_02978_BUNCHIN_000_084,不過，客人似乎有著不可思議的力量——<hex:02100103>所以，也看到了付喪神大人——
-129,TEXT_BANKJN006_02978_KABUTO_000_085,怎、怎麼會……鄙人不相信！<hex:02100103>雖然曾懷疑這是不是夢，但鄙人現在堅信付喪存在過！<hex:02100103>而且為了填滿寶物殿物而指引了鄙人——！
-130,TEXT_BANKJN006_02978_BUNCHIN_000_086,嚯嚯嚯……<hex:02100103>看來結成尋寶眾的功臣，<hex:02100103>是一個只有你知道的神秘友人啊——？
-131,TEXT_BANKJN006_02978_BUNCHIN_000_087,那也許可以這樣想——<hex:02100103>一位付喪神大人為了指引武盔而寄宿在了那個人偶裡——<hex:02100103>因此，也只有你記得它的存在——
-132,TEXT_BANKJN006_02978_KABUTO_000_088,怎麼會這樣……那個囉裡吧嗦的付喪……<hex:02100103>產生出鄙人頭盔上這顆寶玉的付喪……<hex:02100103>只是鄙人妄想的產物——？！
-133,TEXT_BANKJN006_02978_BUNCHIN_000_089,不，我曾經也有過類似的經歷——<hex:02100103>我一直沒說，因為反正也沒人信——
-134,TEXT_BANKJN006_02978_BUNCHIN_000_090,寄身在人偶身上的，<hex:02100103>一定是只屬於武盔的付喪神——
-135,TEXT_BANKJN006_02978_BUNCHIN_000_091,（★未使用／預定刪除★）
-136,TEXT_BANKJN006_02978_MAKURA_000_092,能見到只屬於自己的付喪神啊，<hex:02100103>好羨慕哦——
-137,TEXT_BANKJN006_02978_BUNCHIN_000_093,嗯，看來武盔獲得了很棒的緣分啊——
-138,TEXT_BANKJN006_02978_KABUTO_000_094,鄙人曾憧憬著<hex:022903EB0203>閣下，<hex:02100103>明明希望能共同行動，卻拚命壓抑了自己的心聲——<hex:02100103>心裡想要保護同伴，實則卻是疏遠了同伴——
-139,TEXT_BANKJN006_02978_KABUTO_000_095,不過，付喪把鄙人指引到了正途——<hex:02100103>現在，鄙人已經不會再壓抑自己——<hex:02100103>從今往後，要隨心所願，獲得並珍視緣分和寶物——！
-140,TEXT_BANKJN006_02978_BUNCHIN_000_096,很好——這樣才能正視自己與同伴——<hex:02100103>違背自己的內心，如何能夠和他人結緣——？<hex:02100103>這正是你的付喪神要教給你的東西——
-141,TEXT_BANKJN006_02978_KABUTO_000_097,<hex:022903EB0203>閣下、尋寶眾……<hex:02100103>鄙人身邊的一切，都是付喪給鄙人的饋贈——
-142,TEXT_BANKJN006_02978_KABUTO_000_098,所以，鄙人今後要將它們全都保護好，<hex:02100103>並繼續獲得更多緣分與寶物——！
-143,TEXT_BANKJN006_02978_SYSTEM_000_100,與甲人族「碧玉尋寶眾」之間的關係程度到達了「血誓」，<hex:02100103>冒險者的活躍表現，加固了與他們之間的情誼！
-144,TEXT_BANKJN006_02978_SYSTEM_000_101,今後，甲人族「碧玉尋寶眾」的友好部族日常任務中<hex:02100103>可獲得的經驗值加成大幅增加了。
+0,"TEXT_BANKJN006_02978_SEQ_00","Kabuto appears to be in better spirits than when you last met.<hex:02100103>※The difficulty of this quest will be synced to your current level."
+1,"TEXT_BANKJN006_02978_SEQ_01","Though Tsukumo is gone, Kabuto has labored tirelessly to carry out the Divine Circle's duty of searching for treasure. So much so, his brothers insist he take a rest. With his newly acquired free time, Kabuto has chosen to visit the various peoples of Othard who made contributions to the treasure vault, and wants you to accompany him. He decides to begin his journey with a visit to Gyokei in Yanxia.<hex:02100103><hex:02100103>※Please note that the difficulty of this quest has been synced to your current level. Furthermore, you may not proceed with a class or job that is different from when you accepted this quest."
+2,"TEXT_BANKJN006_02978_SEQ_02","Kabuto is happy to hear that all is well with Gyokei. He grows concerned, however, when mention of Tsukumo is met with a look of bewilderment. In the end, Kabuto surmises his lack of memory stems from the trauma of being attacked by the Red Kojin. He bids Gyokei farewell and makes for the Azim Steppe to meet with Uchikin and his father."
+3,"TEXT_BANKJN006_02978_SEQ_03","The Qestiri father and son are glad for Kabuto's visit, thanking him again for his help retrieving Uchikin's bow. As he struggles to communicate, Kabuto makes mention of Tsukumo, who was quite adept at interpreting their gestures. Uchikin and his father can only shrug in response. It soon dawns on Kabuto that they too have no recollection of his divine companion. Concerned now that everyone has forgotten Tsukumo, he rushes to Kugane to speak with the one person who is certain to remember him─Shihoumi."
+4,"TEXT_BANKJN006_02978_SEQ_04","Kabuto is relieved to hear that Shihoumi does, in fact, remember gifting him Tsukumo. His worry returns when it becomes clear she has no memory of the doll ever being animate. The only ones left likely to remember are his fellow Kojin. He returns to Tamamizu to speak with the other members of the Divine Circle, fearful of what they might say."
+5,"TEXT_BANKJN006_02978_SEQ_05","With his brothers assembled, Kabuto asks them if they remember Tsukumo, the kami that founded the Divine Circle. While they do remember Tsukumo, they are dumbfounded by the claim that a doll was the founder of their order. As far as they can recall, it was Kabuto who brought them together. Kabuto is baffled by the notion and insists it was Tsukumo. Hearing the conviction in his voice, Bunchin is reminded of a similar experience from his past. He relays this story to Kabuto, explaining that Tsukumo's purpose was to guide him on a journey of enlightenment that only he was meant to remember. The once reclusive warrior is now an affable leader, more determined than ever to see his people prosper."
+6,"TEXT_BANKJN006_02978_SEQ_06",""
+7,"TEXT_BANKJN006_02978_SEQ_07",""
+8,"TEXT_BANKJN006_02978_SEQ_08",""
+9,"TEXT_BANKJN006_02978_SEQ_09",""
+10,"TEXT_BANKJN006_02978_SEQ_10",""
+11,"TEXT_BANKJN006_02978_SEQ_11",""
+12,"TEXT_BANKJN006_02978_SEQ_12",""
+13,"TEXT_BANKJN006_02978_SEQ_13",""
+14,"TEXT_BANKJN006_02978_SEQ_14",""
+15,"TEXT_BANKJN006_02978_SEQ_15",""
+16,"TEXT_BANKJN006_02978_SEQ_16",""
+17,"TEXT_BANKJN006_02978_SEQ_17",""
+18,"TEXT_BANKJN006_02978_SEQ_18",""
+19,"TEXT_BANKJN006_02978_SEQ_19",""
+20,"TEXT_BANKJN006_02978_SEQ_20",""
+21,"TEXT_BANKJN006_02978_SEQ_21",""
+22,"TEXT_BANKJN006_02978_SEQ_22",""
+23,"TEXT_BANKJN006_02978_SEQ_23",""
+24,"TEXT_BANKJN006_02978_TODO_00","Speak with Gyokei at Yuzuka Manor."
+25,"TEXT_BANKJN006_02978_TODO_01","Speak with Uchikin in Reunion."
+26,"TEXT_BANKJN006_02978_TODO_02","Speak with Shihoumi in Kugane."
+27,"TEXT_BANKJN006_02978_TODO_03","Speak with Bunchin in Tamamizu."
+28,"TEXT_BANKJN006_02978_TODO_04",""
+29,"TEXT_BANKJN006_02978_TODO_05",""
+30,"TEXT_BANKJN006_02978_TODO_06",""
+31,"TEXT_BANKJN006_02978_TODO_07",""
+32,"TEXT_BANKJN006_02978_TODO_08",""
+33,"TEXT_BANKJN006_02978_TODO_09",""
+34,"TEXT_BANKJN006_02978_TODO_10",""
+35,"TEXT_BANKJN006_02978_TODO_11",""
+36,"TEXT_BANKJN006_02978_TODO_12",""
+37,"TEXT_BANKJN006_02978_TODO_13",""
+38,"TEXT_BANKJN006_02978_TODO_14",""
+39,"TEXT_BANKJN006_02978_TODO_15",""
+40,"TEXT_BANKJN006_02978_TODO_16",""
+41,"TEXT_BANKJN006_02978_TODO_17",""
+42,"TEXT_BANKJN006_02978_TODO_18",""
+43,"TEXT_BANKJN006_02978_TODO_19",""
+44,"TEXT_BANKJN006_02978_TODO_20",""
+45,"TEXT_BANKJN006_02978_TODO_21",""
+46,"TEXT_BANKJN006_02978_TODO_22",""
+47,"TEXT_BANKJN006_02978_TODO_23",""
+48,"TEXT_BANKJN006_02978_KABUTO_000_000","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. I was hoping you would visit."
+49,"TEXT_BANKJN006_02978_KABUTO_000_001","Things have not been quite the same since we lost Tsukumo, but I've taken his words to heart. My every waking moment has been devoted to seeking treasures for our vault."
+50,"TEXT_BANKJN006_02978_KABUTO_000_002","We've made great progress, but the others insist I take a break if only for a short while."
+51,"TEXT_BANKJN006_02978_KABUTO_000_003","Rather than sit idle here in Tamamizu, I thought my time would be better spent visiting the good people of Othard who made contributions to the treasure vault."
+52,"TEXT_BANKJN006_02978_KABUTO_000_004","It will be a wonderful trip, made all the better by your company. If you would join me, come to Yanxia. I plan to start by paying a visit to Gyokei."
+53,"TEXT_BANKJN006_02978_KABUTO_000_009","It's been too long since I've come to Yanxia. Judging by the lack of birds overhead, he's no longer plagued by that cursed vase."
+54,"TEXT_BANKJN006_02978_GYOKEI_000_010","My, what a surprise. I trust all has been well since your last visit, yes, yes?"
+55,"TEXT_BANKJN006_02978_KABUTO_000_011","Quite well, thank you. Trade with you and the other Namazu has been a boon. I came today to offer you thanks on behalf of the Blue Kojin."
+56,"TEXT_BANKJN006_02978_GYOKEI_000_012","No, no, it is I who should be thanking you. Once more I can enjoy sunny days and blue skies clear of birds and their unsavory gifts. Yes, yes, life has never been better."
+57,"TEXT_BANKJN006_02978_KABUTO_000_013","Ah, so the curse was lifted as Tsukumo predicted. A pity he could not come with us to hear the good news."
+58,"TEXT_BANKJN006_02978_GYOKEI_000_014","Tsukumo? Who is that? It sounds more like a flavorful dish than a person."
+59,"TEXT_BANKJN006_02978_KABUTO_000_015","Come now, Gyokei. Surely you remember the talking doll that accompanied me when we first met?"
+60,"TEXT_BANKJN006_02978_GYOKEI_000_016","What a silly, silly Kojin you are. As if I would forget something so remarkable as that. There was no such thing present when I met the two of you, no, no."
+61,"TEXT_BANKJN006_02978_KABUTO_000_017","What in the kami's name is going on?"
+62,"TEXT_BANKJN006_02978_Q1_000_000","What will you say?"
+63,"TEXT_BANKJN006_02978_A1_000_001","Perhaps the stress of that day affected his memory."
+64,"TEXT_BANKJN006_02978_A1_000_002","..."
+65,"TEXT_BANKJN006_02978_KABUTO_000_018","I suppose that's possible. It's not uncommon for one's memory to become hazy when thinking back on traumatic experiences. "
+66,"TEXT_BANKJN006_02978_KABUTO_000_019","I suppose being attacked by Hirumaki was a rather traumatic experience. Perhaps the stress of it all has affected his memory."
+67,"TEXT_BANKJN006_02978_KABUTO_000_020","When a foe is truly formidable, even I cannot clearly recall what happened when we exchanged blows."
+68,"TEXT_BANKJN006_02978_KABUTO_000_021","At any rate, it would be unkind to make him relive his meeting with the Red."
+69,"TEXT_BANKJN006_02978_KABUTO_000_022","We won't keep you any longer, Gyokei. Take care, and may the blessings of the kami be upon you."
+70,"TEXT_BANKJN006_02978_GYOKEI_000_023","Farewell, my friends. Next time I will go to visit you in Tamamizu, yes, yes."
+71,"TEXT_BANKJN006_02978_KABUTO_000_024","What say we visit Reunion next? Uchikin is likely a master of marksmanship by now."
+72,"TEXT_BANKJN006_02978_GYOKEI_000_029","If you happen to come across that talking doll Kabuto spoke of, I would like to see it very, very much."
+73,"TEXT_BANKJN006_02978_KABUTO_000_029","The road to the Azim Steppe was longer than I thought. I can scarcely believe Makura traveled all this way before our battle on the Isle of Zekki."
+74,"TEXT_BANKJN006_02978_UCHIKINPAPA_000_028","..."
+75,"TEXT_BANKJN006_02978_SYSTEM_000_029","Uchikin's father welcomes you with a warm smile. He seems quite glad for your visit."
+76,"TEXT_BANKJN006_02978_UCHIKIN_000_030","..."
+77,"TEXT_BANKJN006_02978_KABUTO_000_031","It is good to see you both. Talk of your prowess is still hot on the lips of every merchant in Reunion. Your father must be proud."
+78,"TEXT_BANKJN006_02978_UCHIKIN_000_032","..."
+79,"TEXT_BANKJN006_02978_KABUTO_000_033","Please, there is no need to thank us. No, it is I who should be thanking you. If not for your generosity, we never would have had the means to rescue our dear Tsukumo from the Red Kojin."
+80,"TEXT_BANKJN006_02978_KABUTO_000_034","That...was a bow to thank us, yes? Would that Tsukumo were here. He was quite adept at interpreting your expressions."
+81,"TEXT_BANKJN006_02978_UCHIKIN_000_035","..."
+82,"TEXT_BANKJN006_02978_KABUTO_000_036","Does that mean you don't remember Tsukumo? A talking doll no higher than my knee, in the likeness of a Kojin?"
+83,"TEXT_BANKJN006_02978_UCHIKIN_000_037","..."
+84,"TEXT_BANKJN006_02978_KABUTO_000_038","First Gyokei and now these two. I don't know what's going on here but it can't be good."
+85,"TEXT_BANKJN006_02978_KABUTO_000_039","Perhaps we should go and visit Shihoumi. Surely she of all people would remember Tsukumo."
+86,"TEXT_BANKJN006_02978_KABUTO_000_040","Thank you for your time, but we must be leaving. Blessings of the kami be upon you."
+87,"TEXT_BANKJN006_02978_UCHIKIN_000_041","..."
+88,"TEXT_BANKJN006_02978_UCHIKIN000_046","..."
+89,"TEXT_BANKJN006_02978_SYSTEM_000_047","Uchikin seems very apologetic. Unable to recall Tsukumo, perhaps he believes he has given offense."
+90,"TEXT_BANKJN006_02978_UCHIKINPAPA_000_048","..."
+91,"TEXT_BANKJN006_02978_SYSTEM_000_049","Uchikin's father gestures enthusiastically, as if to wish you safe travels."
+92,"TEXT_BANKJN006_02978_KABUTO_000_049","Shihoumi was the one who offered me Tsukumo as a gift. That she could forget him is unthinkable."
+93,"TEXT_BANKJN006_02978_SHIHOUMI_000_050","<hex:020854E3E90C0DFF25><hex:020821E3E90C05FF0D>Good evening<hex:FF0D>Good morning<hex:03><hex:FF28><hex:020824E3E90C12FF10>Good day to you<hex:FF0D>Good evening<hex:03><hex:03>, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Kabuto. To what do I owe the pleasure of this visit?"
+94,"TEXT_BANKJN006_02978_KABUTO_000_051","I realize this is sudden, but... Do you recognize the jewel on my helmet?"
+95,"TEXT_BANKJN006_02978_SHIHOUMI_000_052","Of course. I was the one who set it for you."
+96,"TEXT_BANKJN006_02978_KABUTO_000_053","Oh, thank the kami! Then you also remember Tsukumo, the doll from whence it came?"
+97,"TEXT_BANKJN006_02978_SHIHOUMI_000_054","You mean the karakuri puppet I gave you as a gift for rescuing me?"
+98,"TEXT_BANKJN006_02978_KABUTO_000_055","The very same."
+99,"TEXT_BANKJN006_02978_SHIHOUMI_000_056","Yes, I remember. It was so old and worn. I was honestly quite surprised you were so taken with it. The way you would clutch it in your arms, and you named it Tsukumo. I thought it was quite touching."
+100,"TEXT_BANKJN006_02978_SHIHOUMI_000_057","Though I must say, it was quite peculiar to see materia produced from a doll. It usually comes from arms or armor after a great deal of use."
+101,"TEXT_BANKJN006_02978_KABUTO_000_058","But you claimed this is what brought Tsukumo to life!"
+102,"TEXT_BANKJN006_02978_SHIHOUMI_000_059","What? I said no such thing. I know not whose spirit gave form to that materia, but I fear affixing it to your helmet has clouded your memory."
+103,"TEXT_BANKJN006_02978_KABUTO_000_060","No! Tsukumo was alive, I tell you! He was always there to say what I could not, and he helped me establish relations with a great many people. "
+104,"TEXT_BANKJN006_02978_SHIHOUMI_000_061","I'm sorry, Kabuto. I do not question this puppet meant a great deal to you, but if it truly was able to walk or talk, I was not witness to it."
+105,"TEXT_BANKJN006_02978_KABUTO_000_062","Have I gone mad, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>? How can no one remember? After everything we've accomplished."
+106,"TEXT_BANKJN006_02978_KABUTO_000_063","Do you suppose my brothers have forgotten him as well? No one has spoken of Tsukumo since the battle on the Isle of Zekki, but I'm beginning to suspect it's not to save me grief."
+107,"TEXT_BANKJN006_02978_KABUTO_000_064","Sorry to have troubled you. I only meant to come and give thanks for the puppet and your wonderful work on my helmet. Take care, Shihoumi."
+108,"TEXT_BANKJN006_02978_SHIHOUMI_000_065","I pray the kami guide you to the answers you seek."
+109,"TEXT_BANKJN006_02978_KABUTO_000_066","Let us return to Tamamizu. I would have a word with the elder."
+110,"TEXT_BANKJN006_02978_SHIHOUMI_000_069","There must be something special about that puppet to excite Kabuto so. If only I could remember what..."
+111,"TEXT_BANKJN006_02978_KABUTO_000_069","The mere thought of my brothers forgetting Tsukumo is too much to bear."
+112,"TEXT_BANKJN006_02978_BUNCHIN_000_070","What brings the two of you here? By all rights you should be resting, Kabuto."
+113,"TEXT_BANKJN006_02978_KABUTO_000_071","A question has been weighing on my mind for some time now, and...well..."
+114,"TEXT_BANKJN006_02978_MAKURA_000_073","There you are! I've assembled the Divine Circle as you asked. What is it you wished to discuss?"
+115,"TEXT_BANKJN006_02978_KABUTO_000_074","Thank you all for coming. No one has spoken of him since he was lost to us, but I wished to speak with you all about Tsukumo."
+116,"TEXT_BANKJN006_02978_BUNCHIN_000_075","Tsukumo...? Ah, do you mean the puppet you enshrined in the treasure vault?"
+117,"TEXT_BANKJN006_02978_KABUTO_000_076","So you do remember! I was beginning to fear everyone had forgotten the founder of our fellowship."
+118,"TEXT_BANKJN006_02978_BUNCHIN_000_077","What are you saying, Kabuto? It was you who formed the Divine Circle."
+119,"TEXT_BANKJN006_02978_KABUTO_000_078","No... No, it was Tsukumo. Why can none of you remember?"
+120,"TEXT_BANKJN006_02978_KABUTO_000_079","I didn't think to ask, seeing as you accompanied me on my travels about Othard, but now I fear I must."
+121,"TEXT_BANKJN006_02978_KABUTO_000_080","Tell me true, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>─do you remember Tsukumo?"
+122,"TEXT_BANKJN006_02978_Q2_000_000","What will you say?"
+123,"TEXT_BANKJN006_02978_A2_000_001","Of course I remember."
+124,"TEXT_BANKJN006_02978_A2_000_002","I'm sorry, but I don't."
+125,"TEXT_BANKJN006_02978_KABUTO_000_081","Oh, what a relief. I thought I was losing my mind."
+126,"TEXT_BANKJN006_02978_BUNCHIN_000_082","Curious that only the two of you can recall Tsukumo as more than a mere doll."
+127,"TEXT_BANKJN006_02978_BUNCHIN_000_083","But perhaps this is not without reason. I believe the kami was meant to guide you on a journey of enlightenment. A journey only you were meant to remember."
+128,"TEXT_BANKJN006_02978_BUNCHIN_000_084","Yet it seems our friend <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> here possesses a rare gift, one that allows <hex:02080DE905FF04>her<hex:FF04>him<hex:03> to recall that which others cannot. "
+129,"TEXT_BANKJN006_02978_KABUTO_000_085","That can't be! I've seen him speak with you. With all of you."
+130,"TEXT_BANKJN006_02978_BUNCHIN_000_086","Curious that only you can recall Tsukumo as more than a mere doll."
+131,"TEXT_BANKJN006_02978_BUNCHIN_000_087","But perhaps this is not without reason. I believe this spirit was meant to guide you on a journey of enlightenment. A journey only you were meant to remember."
+132,"TEXT_BANKJN006_02978_KABUTO_000_088","You needn't mince words, Elder. You think this all a figment of my imagination, don't you?"
+133,"TEXT_BANKJN006_02978_BUNCHIN_000_089","Not at all. In fact, I had a similar experience many years ago. At the time I assumed no one would believe me, and so I have kept it to myself all this time."
+134,"TEXT_BANKJN006_02978_BUNCHIN_000_090","There are myriad kami in this world, each with their own will, their own purpose. In the end, it would seem this kami was meant not for the Divine Circle, but for you."
+135,"TEXT_BANKJN006_02978_BUNCHIN_000_091",""
+136,"TEXT_BANKJN006_02978_MAKURA_000_092","I would be lying if I said I wasn't jealous. Oh, what I wouldn't give for such divine guidance. "
+137,"TEXT_BANKJN006_02978_BUNCHIN_000_093","This is not the time for envy, Makura, but praise. The kami saw fit to make Kabuto a fine leader, and the Blue have gained new allies because of it."
+138,"TEXT_BANKJN006_02978_KABUTO_000_094","Truth be told, I can scarcely believe how far I've come. Looking back I can see how foolish I was to think protecting my brothers meant having to push them away."
+139,"TEXT_BANKJN006_02978_KABUTO_000_095","Tsukumo taught me the bonds we share are worth more than any treasure."
+140,"TEXT_BANKJN006_02978_BUNCHIN_000_096","Heed well the lessons you have learned here, Kabuto. I sense the path before you leads to a great many things. "
+141,"TEXT_BANKJN006_02978_KABUTO_000_097","Wherever the path may lead, we will walk it together. It's what Tsukumo would have wanted."
+142,"TEXT_BANKJN006_02978_KABUTO_000_098","Our quest for treasure begins anew. For the Blue!"
+143,"TEXT_BANKJN006_02978_SYSTEM_000_100","You have achieved <hex:024804F201F403><hex:024904F201F503>Bloodsworn<hex:0249020103><hex:0248020103> reputation with the Kojin."
+144,"TEXT_BANKJN006_02978_SYSTEM_000_101","You will receive an experience point bonus upon completion of the Kojin society daily quests."

@@ -1,17 +1,17 @@
-﻿key,1
-#,SongName
-offset,0
-int32,str
-0,
-1,輝光飛散
-2,走向世界
-3,午後的片刻
-4,愜意
-5,極樂
-6,英雄凱旋
-7,自然的禮物
-8,黑渦軍令部
-9,蛇巢司令部
-10,恆輝作戰總部
-11,非著名調查員
-12,戀愛的季節
+﻿key,0,1
+#,Song,SongName
+offset,4,0
+int32,BGM,str
+0,0,""
+1,106,"Falling Shards"
+2,89,"A World Apart"
+3,222,"The Twelfth Bell"
+4,87,"Daring Dalliances"
+5,88,"Bliss"
+6,82,"Return of the Hero"
+7,105,"Nature's Bounty"
+8,64,"Maelstrom Command"
+9,63,"Into the Adder's Den"
+10,65,"The Hall of Flames"
+11,103,"Agent of Inquiry"
+12,196,"Seasons"

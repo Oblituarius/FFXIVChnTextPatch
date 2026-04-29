@@ -2,68 +2,68 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_SUBSEA106_00403_SEQ_00,雨燕塔殖民地的衛兵弗雷洛夫，想要調查釀酒師燈塔燈火變弱的原因。
-1,TEXT_SUBSEA106_00403_SEQ_01,燈火變弱有可能會影響船隻的航行。前往釀酒師燈塔，向燈塔守衛康希斯詢問詳情。
-2,TEXT_SUBSEA106_00403_SEQ_02,在渡渡鳥巢營的中央、有稻草人的附近設定篝火鐵籠。
-3,TEXT_SUBSEA106_00403_SEQ_03,在篝火鐵籠中點燃燈火，打倒被火焰吸引過來的炬光爆彈怪，獲取爆彈怪的小指。
-4,TEXT_SUBSEA106_00403_SEQ_04,得到了作為光源的爆彈怪的小指。去交給釀酒師燈塔的康希斯。
-5,TEXT_SUBSEA106_00403_SEQ_05,雖然燈塔的燈火再次被點燃了，但是加入爆彈怪的小指的爐子壞掉了，需要進行修理。向雨燕塔殖民地的衛兵弗雷洛夫報告。
-6,TEXT_SUBSEA106_00403_SEQ_06,弗雷洛夫會聯繫有關各處，告知燈塔爐子的問題。不過，爐子的修理還是需要直接委託。拜訪鑄甲匠公會的會長赫·納恩薩，委託其修理。
-7,TEXT_SUBSEA106_00403_SEQ_07,向鑄甲匠公會的赫·納恩薩提出了釀酒師燈塔爐的修理委託。赫·納恩薩說，出問題的爐子是剛剛修理過的。很有可能是因為放入爐子裡的爆彈怪太過活躍造成的，但真相到底是怎樣的呢？
-8,TEXT_SUBSEA106_00403_SEQ_08,
-9,TEXT_SUBSEA106_00403_SEQ_09,
-10,TEXT_SUBSEA106_00403_SEQ_10,
-11,TEXT_SUBSEA106_00403_SEQ_11,
-12,TEXT_SUBSEA106_00403_SEQ_12,
-13,TEXT_SUBSEA106_00403_SEQ_13,
-14,TEXT_SUBSEA106_00403_SEQ_14,
-15,TEXT_SUBSEA106_00403_SEQ_15,
-16,TEXT_SUBSEA106_00403_SEQ_16,
-17,TEXT_SUBSEA106_00403_SEQ_17,
-18,TEXT_SUBSEA106_00403_SEQ_18,
-19,TEXT_SUBSEA106_00403_SEQ_19,
-20,TEXT_SUBSEA106_00403_SEQ_20,
-21,TEXT_SUBSEA106_00403_SEQ_21,
-22,TEXT_SUBSEA106_00403_SEQ_22,
-23,TEXT_SUBSEA106_00403_SEQ_23,
-24,TEXT_SUBSEA106_00403_TODO_00,和康希斯談談
-25,TEXT_SUBSEA106_00403_TODO_01,在指定地點設定篝火鐵籠
-26,TEXT_SUBSEA106_00403_TODO_02,在篝火鐵籠中點燃燈火 打倒炬光爆彈怪獲取爆彈怪的小指
-27,TEXT_SUBSEA106_00403_TODO_03,將爆彈怪的小指交給康希斯
-28,TEXT_SUBSEA106_00403_TODO_04,向弗雷洛夫報告
-29,TEXT_SUBSEA106_00403_TODO_05,向利姆薩·羅敏薩的赫·納恩薩報告
-30,TEXT_SUBSEA106_00403_TODO_06,
-31,TEXT_SUBSEA106_00403_TODO_07,
-32,TEXT_SUBSEA106_00403_TODO_08,
-33,TEXT_SUBSEA106_00403_TODO_09,
-34,TEXT_SUBSEA106_00403_TODO_10,
-35,TEXT_SUBSEA106_00403_TODO_11,
-36,TEXT_SUBSEA106_00403_TODO_12,
-37,TEXT_SUBSEA106_00403_TODO_13,
-38,TEXT_SUBSEA106_00403_TODO_14,
-39,TEXT_SUBSEA106_00403_TODO_15,
-40,TEXT_SUBSEA106_00403_TODO_16,
-41,TEXT_SUBSEA106_00403_TODO_17,
-42,TEXT_SUBSEA106_00403_TODO_18,
-43,TEXT_SUBSEA106_00403_TODO_19,
-44,TEXT_SUBSEA106_00403_TODO_20,
-45,TEXT_SUBSEA106_00403_TODO_21,
-46,TEXT_SUBSEA106_00403_TODO_22,
-47,TEXT_SUBSEA106_00403_TODO_23,
-48,TEXT_SUBSEA106_00403_SYSTEM_100_000,需要先放棄進行中的主線任務才可領取此任務。<hex:02100103>請在快捷指令的任務情報中打開日誌，然後放棄該任務。
-49,TEXT_SUBSEA106_00403_FRAELOEF_000_1,能聽我說件事嗎？<hex:02100103>我一邊在這裡進行警備，一邊眺望著釀酒師燈塔。<hex:02100103>但是我覺得燈塔的燈火實在是太微弱了。
-50,TEXT_SUBSEA106_00403_FRAELOEF_000_2,這樣可能會對船隻的航行造成障礙。<hex:02100103>不過，我又不能擅離職守，<hex:02100103>丟下乙太之光的警備工作。
-51,TEXT_SUBSEA106_00403_FRAELOEF_000_3,所以你能代替我去一趟釀酒師燈塔，<hex:02100103>問問燈塔的守衛康希斯到底發生了什麼嗎？
-52,TEXT_SUBSEA106_00403_KHANSWYS_000_11,……是黃衫隊讓你來的？<hex:02100103>哼，是想問燈塔燈火變暗的事情吧？
-53,TEXT_SUBSEA106_00403_KHANSWYS_000_12,其實是因為炬光爆彈怪逃走了，<hex:02100103>它是被放在爐子裡作為燈塔光源來使用的。<hex:02100103>看來不想辦法把燈火調亮是不行了……
-54,TEXT_SUBSEA106_00403_KHANSWYS_000_13,你既然身為冒險者，那就幫我個忙吧。<hex:02100103>你只要去將逃走的炬光爆彈怪打倒，<hex:02100103>再把爆彈怪的小指拔下來就行了。
-55,TEXT_SUBSEA106_00403_KHANSWYS_000_14,你在渡渡鳥巢營的中央……有稻草人的附近，<hex:02100103>設定上篝火鐵籠，你再點燃篝火的話，<hex:02100103>逃走的爆彈怪應該就會靠近。
-56,TEXT_SUBSEA106_00403_FRAELOEF_000_31,原來是這樣，那可不是件小事。<hex:02100103>好，我會和各方聯繫的。<hex:02100103>不過，爐子的修理工作還是直接委託比較快。
-57,TEXT_SUBSEA106_00403_FRAELOEF_000_32,如箭在弦，還請你再跑一趟。<hex:02100103>麻煩你去利姆薩·羅敏薩的鑄甲匠公會，<hex:02100103>把這件事告訴公會會長赫·納恩薩。
-58,TEXT_SUBSEA106_00403_HNAANZA_000_41,什麼？！你說釀酒師燈塔的爐子壞了？<hex:02100103>太奇怪了，明明是剛剛修過的。<hex:02100103>是因為放在裡面的炬光爆彈怪太生龍活虎了嗎？
-59,TEXT_SUBSEA106_00403_HNAANZA_000_42,總之，情況我已經了解了，我會馬上派人去修理的。<hex:02100103>感謝你前來報告，辛苦了。
-60,TEXT_SUBSEA106_00403_KHANSWYS_000_21,你只要把逃走的炬光爆彈怪打倒，<hex:02100103>再將爆彈怪的小指拔下來就可以了。
-61,TEXT_SUBSEA106_00403_KHANSWYS_000_22,哇哦，真不愧是冒險者。<hex:02100103>接下來，作為應急措施，將這個扔進爐子裡，<hex:02100103>這樣船隻的航行就暫時不會受到影響了。
-62,TEXT_SUBSEA106_00403_KHANSWYS_000_23,你不在的這段時間，我稍微調查了一下。<hex:02100103>看樣子應該是因為爐子壞了，所以炬光爆彈怪才會逃掉的。
-63,TEXT_SUBSEA106_00403_KHANSWYS_000_24,這我可就沒轍了。<hex:02100103>得把這情況通知給有關各處，<hex:02100103>所以請你去將這件事傳達給雨燕塔殖民地的弗雷洛夫。
-64,TEXT_SUBSEA106_00403_POP_MESSAGE,察覺到了敵人的氣息！
+0,"TEXT_SUBSEA106_00403_SEQ_00","Fraeloef, a Yellowjacket on guard duty in Swiftperch, wants you to visit the Brewer's Beacon and investigate the reason behind the waning light."
+1,"TEXT_SUBSEA106_00403_SEQ_01","With the lighthouse beam having grown dangerously dim, the ships on the water could soon find themselves sailing into unseen hazards. Visit the Brewer's Beacon and discover what has befallen Khanswys, the lighthouse keeper."
+2,"TEXT_SUBSEA106_00403_SEQ_02","Locate the scarecrow in the middle of the dodo nesting grounds known as “the Flock,” and set the iron brazier down on the ground nearby."
+3,"TEXT_SUBSEA106_00403_SEQ_03","Light a fire in the brazier to attract the attention of the runaway bomb. Defeat the torchlight and obtain a bomb claw from its remains."
+4,"TEXT_SUBSEA106_00403_SEQ_04","You have obtained the bomb claw Khanswys needs to fuel her furnace. Return to the Brewer's Beacon and deliver the smoldering digit to the lighthouse keeper."
+5,"TEXT_SUBSEA106_00403_SEQ_05","Though the bomb claw is able to power the lighthouse beacon for the time being, Khanswys is dubious about the quality of her makeshift repairs. Return to Swiftperch and report the situation to Fraeloef."
+6,"TEXT_SUBSEA106_00403_SEQ_06","Fraeloef intends to file reports regarding the incident at the lighthouse, but is concerned about the fragile state of the furnace. The Yellowjacket requests that you make haste to the Armorers' Guild and ask Forgemaster H'naanza to oversee the necessary repairs."
+7,"TEXT_SUBSEA106_00403_SEQ_07","After hearing your request, Forgemaster H'naanza agrees to have the faulty furnace repaired. The armorer mentions, with some irritation, that the furnace was only just recently fixed. It seems that the bomb trapped inside may have been overly volatile, but could there be another reason for the device's failure...?"
+8,"TEXT_SUBSEA106_00403_SEQ_08",""
+9,"TEXT_SUBSEA106_00403_SEQ_09",""
+10,"TEXT_SUBSEA106_00403_SEQ_10",""
+11,"TEXT_SUBSEA106_00403_SEQ_11",""
+12,"TEXT_SUBSEA106_00403_SEQ_12",""
+13,"TEXT_SUBSEA106_00403_SEQ_13",""
+14,"TEXT_SUBSEA106_00403_SEQ_14",""
+15,"TEXT_SUBSEA106_00403_SEQ_15",""
+16,"TEXT_SUBSEA106_00403_SEQ_16",""
+17,"TEXT_SUBSEA106_00403_SEQ_17",""
+18,"TEXT_SUBSEA106_00403_SEQ_18",""
+19,"TEXT_SUBSEA106_00403_SEQ_19",""
+20,"TEXT_SUBSEA106_00403_SEQ_20",""
+21,"TEXT_SUBSEA106_00403_SEQ_21",""
+22,"TEXT_SUBSEA106_00403_SEQ_22",""
+23,"TEXT_SUBSEA106_00403_SEQ_23",""
+24,"TEXT_SUBSEA106_00403_TODO_00","Speak with Khanswys."
+25,"TEXT_SUBSEA106_00403_TODO_01","Set the iron brazier on the ground near the scarecrow."
+26,"TEXT_SUBSEA106_00403_TODO_02","Light the brazier, and obtain a bomb claw from the torchlight that is drawn in by the flames."
+27,"TEXT_SUBSEA106_00403_TODO_03","Deliver the bomb claw to Khanswys."
+28,"TEXT_SUBSEA106_00403_TODO_04","Return to Swiftperch and report to Fraeloef."
+29,"TEXT_SUBSEA106_00403_TODO_05","Speak with Forgemaster H'naanza in Limsa Lominsa."
+30,"TEXT_SUBSEA106_00403_TODO_06",""
+31,"TEXT_SUBSEA106_00403_TODO_07",""
+32,"TEXT_SUBSEA106_00403_TODO_08",""
+33,"TEXT_SUBSEA106_00403_TODO_09",""
+34,"TEXT_SUBSEA106_00403_TODO_10",""
+35,"TEXT_SUBSEA106_00403_TODO_11",""
+36,"TEXT_SUBSEA106_00403_TODO_12",""
+37,"TEXT_SUBSEA106_00403_TODO_13",""
+38,"TEXT_SUBSEA106_00403_TODO_14",""
+39,"TEXT_SUBSEA106_00403_TODO_15",""
+40,"TEXT_SUBSEA106_00403_TODO_16",""
+41,"TEXT_SUBSEA106_00403_TODO_17",""
+42,"TEXT_SUBSEA106_00403_TODO_18",""
+43,"TEXT_SUBSEA106_00403_TODO_19",""
+44,"TEXT_SUBSEA106_00403_TODO_20",""
+45,"TEXT_SUBSEA106_00403_TODO_21",""
+46,"TEXT_SUBSEA106_00403_TODO_22",""
+47,"TEXT_SUBSEA106_00403_TODO_23",""
+48,"TEXT_SUBSEA106_00403_SYSTEM_100_000","To accept this quest, you must abandon the current main scenario quest. Open the corresponding entry in the journal or duty list and select “Abandon.”"
+49,"TEXT_SUBSEA106_00403_FRAELOEF_000_1","You there. Adventurer. Cast your eyes towards the Brewer's Beacon. Does the light not seem uncommonly weak?"
+50,"TEXT_SUBSEA106_00403_FRAELOEF_000_2","It cannot possibly be bright enough to guide the ships sailing in the bay. I would march over to the lighthouse and investigate myself, but I am duty-bound to remain at my post."
+51,"TEXT_SUBSEA106_00403_FRAELOEF_000_3","I would consider it a favor if you could make a visit to the Brewer's Beacon and see if aught has befallen Khanswys, the lighthouse keeper."
+52,"TEXT_SUBSEA106_00403_KHANSWYS_000_11","Ye say a Yellowjacket sent ye here? Eh? Me light's grown dim, has it? Well, o' course it bloody has!"
+53,"TEXT_SUBSEA106_00403_KHANSWYS_000_12","The bomb what fuels me furnace has up an' buggered off, ye see. If I don't get that beacon fixed up soon, there'll be trouble on the water..."
+54,"TEXT_SUBSEA106_00403_KHANSWYS_000_13","I know yer just the messenger, <hex:02080EE905FF05>lass<hex:FF04>lad<hex:03>, but I can tell a 'venturer when I see one. I'm goin' to need ye to chase down that bomb an' bring back a claw what ye ripped from its smolderin' corpse."
+55,"TEXT_SUBSEA106_00403_KHANSWYS_000_14","Take this here iron brazier an' set her down in the middle o' the Flock─somewhere near the scarecrow, I'd say. Ye get a nice fire goin', an' that frisky bomb'll soon be about. Watch ye don't singe yer eyebrows, <hex:02080EE905FF05>lass<hex:FF04>lad<hex:03>."
+56,"TEXT_SUBSEA106_00403_FRAELOEF_000_31","The furnace is damaged, is it? Very well, I shall write up the relevant reports, but these repairs must needs be effected without delay."
+57,"TEXT_SUBSEA106_00403_FRAELOEF_000_32","It seems I have another favor to ask of you, adventurer. Take yourself straightway to the Armorers' Guild in Limsa Lominsa and explain the situation to Forgemaster H'naanza."
+58,"TEXT_SUBSEA106_00403_HNAANZA_000_41","The furnace in the Brewer's Beacon needs repairs? Byregot's beard, I just sent someone out to tinker with it not a week past. Mayhap the bomb Khanswys had trapped in there was a touch too volatile...?"
+59,"TEXT_SUBSEA106_00403_HNAANZA_000_42","I'll have an artisan visit the lighthouse and pay special attention to reinforcing the casing of that furnace. Your work is done here, adventurer. May the Navigator guide you on your journeys."
+60,"TEXT_SUBSEA106_00403_KHANSWYS_000_21","All ye need do is take down that runaway bomb an' bring me one of its little claws."
+61,"TEXT_SUBSEA106_00403_KHANSWYS_000_22","Ah, ye got the ashy bastard, did ye? Once I put this little firecracker in the furnace, that should keep things runnin' for a while."
+62,"TEXT_SUBSEA106_00403_KHANSWYS_000_23","I had meself a bit of a look while ye was gone, an' Llymlaen curse me if the furnace weren't all bent an' broken. Small wonder the bloody bomb was able to escape."
+63,"TEXT_SUBSEA106_00403_KHANSWYS_000_24","I patched things up as best I could, but I ain't no smitty. Ye might want to have a chat with that Yellowjacket friend o' yers in Swiftperch, an' have him pass the word back to someone in Limsa."
+64,"TEXT_SUBSEA106_00403_POP_MESSAGE","You sense a hostile presence!"

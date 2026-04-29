@@ -2,171 +2,171 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_KINGBZ001_05188_SEQ_00,貝殼亭的拉爾·瑪玖恩有新的工作想委託給冒險者。
-1,TEXT_KINGBZ001_05188_SEQ_01,和拉爾·瑪玖恩進行了交談，冒險者決定潛入自由之門。在烏爾達哈的來生迴廊收集關於幹部面試的情報。
-2,TEXT_KINGBZ001_05188_SEQ_02,和烏爾達哈的市民們進行了交談，得知有可疑的人活動。前往烏爾達哈的市場布告板，在標記處做情感動作「不滿」。
-3,TEXT_KINGBZ001_05188_SEQ_03,可疑的男人邀請了冒險者參加自由之門的第二代幹部面試。將<hex:022811FF0A>EventItem<hex:F61E92FA0103>交給烏爾達哈黃金廣場的自由之門的成員。
-4,TEXT_KINGBZ001_05188_SEQ_04,冒險者表達了自己想要參加面試的意願。在自由之門的成員的帶領下進入臨時面試會場。
-5,TEXT_KINGBZ001_05188_SEQ_05,參加了面試並通過了第一次審查。和黃金廣場的自由之門的成員談談。
-6,TEXT_KINGBZ001_05188_SEQ_06,看起來面試還沒有結束。向自由之門的成員打聽一下後續的審查內容吧。
-7,TEXT_KINGBZ001_05188_SEQ_07,
-8,TEXT_KINGBZ001_05188_SEQ_08,
-9,TEXT_KINGBZ001_05188_SEQ_09,
-10,TEXT_KINGBZ001_05188_SEQ_10,
-11,TEXT_KINGBZ001_05188_SEQ_11,
-12,TEXT_KINGBZ001_05188_SEQ_12,
-13,TEXT_KINGBZ001_05188_SEQ_13,
-14,TEXT_KINGBZ001_05188_SEQ_14,
-15,TEXT_KINGBZ001_05188_SEQ_15,
-16,TEXT_KINGBZ001_05188_SEQ_16,
-17,TEXT_KINGBZ001_05188_SEQ_17,
-18,TEXT_KINGBZ001_05188_SEQ_18,
-19,TEXT_KINGBZ001_05188_SEQ_19,
-20,TEXT_KINGBZ001_05188_SEQ_20,
-21,TEXT_KINGBZ001_05188_SEQ_21,
-22,TEXT_KINGBZ001_05188_SEQ_22,
-23,TEXT_KINGBZ001_05188_SEQ_23,
-24,TEXT_KINGBZ001_05188_TODO_00,在烏爾達哈收集情報
-25,TEXT_KINGBZ001_05188_TODO_01,在市場布告板的標記處做「不滿」的情感動作
-26,TEXT_KINGBZ001_05188_TODO_02,將<hex:022811FF0A>EventItem<hex:F61E92FA0103>交給自由之門的成員
-27,TEXT_KINGBZ001_05188_TODO_03,將<hex:022811FF0A>EventItem<hex:F61E92FA0103>交給自由之門的成員
-28,TEXT_KINGBZ001_05188_TODO_04,和自由之門的成員對話
-29,TEXT_KINGBZ001_05188_TODO_05,
-30,TEXT_KINGBZ001_05188_TODO_06,
-31,TEXT_KINGBZ001_05188_TODO_07,
-32,TEXT_KINGBZ001_05188_TODO_08,
-33,TEXT_KINGBZ001_05188_TODO_09,
-34,TEXT_KINGBZ001_05188_TODO_10,
-35,TEXT_KINGBZ001_05188_TODO_11,
-36,TEXT_KINGBZ001_05188_TODO_12,
-37,TEXT_KINGBZ001_05188_TODO_13,
-38,TEXT_KINGBZ001_05188_TODO_14,
-39,TEXT_KINGBZ001_05188_TODO_15,
-40,TEXT_KINGBZ001_05188_TODO_16,
-41,TEXT_KINGBZ001_05188_TODO_17,
-42,TEXT_KINGBZ001_05188_TODO_18,
-43,TEXT_KINGBZ001_05188_TODO_19,
-44,TEXT_KINGBZ001_05188_TODO_20,
-45,TEXT_KINGBZ001_05188_TODO_21,
-46,TEXT_KINGBZ001_05188_TODO_22,
-47,TEXT_KINGBZ001_05188_TODO_23,
-48,TEXT_KINGBZ001_05188_RRALMAJUN_000_000,<hex:022903EB0203>！你來得正好！
-49,TEXT_KINGBZ001_05188_RRALMAJUN_000_001,謝謝你幫忙找回了被盜的祭器！<hex:02100103>最近勇連隊找到我，<hex:02100103>囑託我在下次見到你的時候，跟你講講各地回報的近況。
-50,TEXT_KINGBZ001_05188_RRALMAJUN_000_002,包括在戰鬥中下落不明的幾人在內，<hex:02100103>當局已經將組織的五名幹部全部緝拿歸案了。<hex:02100103>之後會依照各國法律對他們做出相應的懲處。
-51,TEXT_KINGBZ001_05188_RRALMAJUN_000_003,但事還沒完……<hex:02100103>剛才我聽見店裡客人又在聊自由之門，<hex:02100103>而且還提到了「新幹部」……！
-52,TEXT_KINGBZ001_05188_RRALMAJUN_000_004,可惜當時店裡太忙了，<hex:02100103>等我想去問個究竟的時候，他們早走了……<hex:02100103>不過我已經把情況報告給了勇連隊。
-53,TEXT_KINGBZ001_05188_BRUKEVU_000_005,沒記錯的話，那組織應該還有一個叫阿帕西的首領。<hex:02100103>如果不能把她捉拿歸案，就沒法終結組織的行動，<hex:02100103>沒準還會有人盯上祭器。
-54,TEXT_KINGBZ001_05188_BRUKEVU_000_006,你在奪回祭器的過程中收集過一些情報吧，<hex:02100103>有沒有首領或組織結構的線索？
-55,TEXT_KINGBZ001_05188_Q6_000_000,要說什麼？
-56,TEXT_KINGBZ001_05188_A6_000_001,組織會從世界各地招募幹部
-57,TEXT_KINGBZ001_05188_A6_000_002,首領好像有一個最終目標
-58,TEXT_KINGBZ001_05188_A6_000_003,組織的資金是維剌贊提供的
-59,TEXT_KINGBZ001_05188_A6_000_004,當時發生的事我都忘得差不多了……
-60,TEXT_KINGBZ001_05188_BRUKEVU_000_008,哦？幹部竟然是通過面試挑出來的？<hex:02100103>照這麼說，他們很可能還會用這個法子招募人手。
-61,TEXT_KINGBZ001_05188_BRUKEVU_000_009,
-62,TEXT_KINGBZ001_05188_RRALMAJUN_100_009,你一說我也想起來了，勇連隊也提到過。<hex:02100103>被捕的幹部中有人說，<hex:02100103>為他們提供資金的商會就藏在一個叫烏爾達哈的國家。
-63,TEXT_KINGBZ001_05188_BRUKEVU_000_010,什麼？有一個幹部無意中提到過這種事？<hex:02100103>那人看起來確實大大咧咧的，<hex:02100103>還真像是會隨口說出重要機密的樣子。
-64,TEXT_KINGBZ001_05188_BRUKEVU_100_010,說是這麼說，腦子不好使並不影響他們惹事，<hex:02100103>就怕他們手裡有了足夠的活動資金之後，又要出來為非作歹。
-65,TEXT_KINGBZ001_05188_RRALMAJUN_200_010,你一說我也想起來了，勇連隊也提到過。<hex:02100103>被捕的幹部裡有人說，<hex:02100103>為他們提供資金的商會就藏在一個叫烏爾達哈的國家。
-66,TEXT_KINGBZ001_05188_RRALMAJUN_000_011,你一說我也想起來了，勇連隊也提到過。<hex:02100103>被捕的幹部裡有人說，<hex:02100103>為他們提供資金的商會就藏在一個叫烏爾達哈的國家。
-67,TEXT_KINGBZ001_05188_RRALMAJUN_000_012,
-68,TEXT_KINGBZ001_05188_BRUKEVU_000_013,組織的首領如果還有活動資金，<hex:02100103>肯定還會招募有能力的幹部，繼續為非作歹。
-69,TEXT_KINGBZ001_05188_RRALMAJUN_100_013,這麼說我倒是想起來一件事。<hex:02100103>勇連隊也提到過，被捕的幹部裡有人說，<hex:02100103>為他們提供資金的商會就藏在一個叫烏爾達哈的國家。
-70,TEXT_KINGBZ001_05188_BRUKEVU_000_014,組織的首領如果還有活動資金，<hex:02100103>肯定還會招募有能力的幹部，繼續為非作歹。
-71,TEXT_KINGBZ001_05188_RRALMAJUN_000_015,那……我有個主意。<hex:02100103>如果那個首領阿帕西正在招募人手重建組織，<hex:02100103>我們能不能假裝成想當幹部的人打入敵人內部？
-72,TEXT_KINGBZ001_05188_BRUKEVU_000_016,這需要找一個她沒見過的人……<hex:02100103>正好她從來沒見過<hex:022903EB0203>。<hex:02100103>這可真是個好主意。
-73,TEXT_KINGBZ001_05188_BRUKEVU_000_017,你只需要隨便糊弄他們幾句，騙出他們的情報就行，<hex:02100103>不會真的讓你去當壞蛋的。<hex:02100103>……你看怎麼樣？
-74,TEXT_KINGBZ001_05188_Q7_000_000,如何作答？
-75,TEXT_KINGBZ001_05188_A7_000_001,我願意試試
-76,TEXT_KINGBZ001_05188_A7_000_002,為了抓住組織的首領，也只能這樣了……
-77,TEXT_KINGBZ001_05188_RRALMAJUN_000_019,謝謝你！<hex:02100103>不過……有一件事你必須要記得。
-78,TEXT_KINGBZ001_05188_RRALMAJUN_000_020,我們所知道的被盜祭器一共有五件，<hex:02100103>並不代表他們只有這些。<hex:02100103>必須以阿帕西擁有十分危險的力量為前提，小心行事。
-79,TEXT_KINGBZ001_05188_RRALMAJUN_000_021,
-80,TEXT_KINGBZ001_05188_RRALMAJUN_000_022,所以你需要在調查對方是否還持有祭器的同時，<hex:02100103>探明對方的目的，再將組織一網打盡……<hex:02100103>在查明一切之前，切忌輕率行動。
-81,TEXT_KINGBZ001_05188_BRUKEVU_000_023,對了，之前祭器被盜的那些人也都很在意自由之門的動向，<hex:02100103>追查首領一事也跟他們溝通一下吧。
-82,TEXT_KINGBZ001_05188_RRALMAJUN_000_024,那麼就麻煩你去一趟那個叫烏爾達哈的國家了！<hex:02100103>我想只要找那些對現狀不滿，可能會被遊說去當幹部的人聊聊，<hex:02100103>就能知道阿帕西有沒有在搞陰謀詭計。
-83,TEXT_KINGBZ001_05188_RRALMAJUN_000_025,
-84,TEXT_KINGBZ001_05188_BRUKEVU_000_030,
-85,TEXT_KINGBZ001_05188_SIBOLD_000_100,以顛覆國家為目標的邪惡組織的首領？<hex:02100103>我可不認識這種人。<hex:02100103>不過你要說對國家不滿，這大家或多或少都有一點吧？
-86,TEXT_KINGBZ001_05188_SIBOLD_000_101,比如說，有些人就覺得市場手續費太高了，<hex:02100103>天天在那抱怨個不停。<hex:02100103>我也不好說他們會不會跟這種事有關係呢……
-87,TEXT_KINGBZ001_05188_LANDEBERT_000_102,有沒有奇奇怪怪的人來遊說過我？<hex:02100103>之前我覺得銅刃團做事太粗暴了，<hex:02100103>忍不住當眾抱怨了幾句。
-88,TEXT_KINGBZ001_05188_LANDEBERT_000_103,結果有一個可疑的男人來找我，<hex:02100103>邀請我參加一場……為渴望真正自由的人舉辦的聚會。<hex:02100103>當然，我是肯定不會去的。
-89,TEXT_KINGBZ001_05188_WOMAN05188_000_104,雖然不知道你說的阿帕西是誰，<hex:02100103>但我這段時間發現有個男的一直目不轉睛地盯著街上的人看，<hex:02100103>他可能就是你說的那個邪惡的秘密組織的成員。
-90,TEXT_KINGBZ001_05188_WOMAN05188_000_105,我剛才還在市場布告板那邊看見他了呢。<hex:02100103>真是的，想想就起雞皮疙瘩……
-91,TEXT_KINGBZ001_05188_SYSTEM_000_106,有可疑的男人正在嘗試接觸心懷不滿的人。<hex:02100103>在市場布告板附近表達「不滿」，<hex:02100103>吸引男人注意。
-92,TEXT_KINGBZ001_05188_SIBOLD_000_110,那得是對國家非常不滿意，<hex:02100103>才做上了邪惡組織的首領吧。
-93,TEXT_KINGBZ001_05188_LANDEBERT_000_115,我在人多的地方表達了不滿之後，有個可疑的男人來找我搭話。<hex:02100103>當然，我可不會跟他走。
-94,TEXT_KINGBZ001_05188_WOMAN05188_000_120,有個可疑的男人一直盯著街上往來的人看呢。<hex:02100103>剛才我還在市場布告板邊上看見他了。
-95,TEXT_KINGBZ001_05188_SYSTEM_100_200,在市場布告板附近表達「不滿」，<hex:02100103>就可能吸引自由之門的注意。<hex:02100103>使用「不滿」的表情動作吧。
-96,TEXT_KINGBZ001_05188_MAN05188_000_200,我說你，對，就是你，你有時間嗎？
-97,TEXT_KINGBZ001_05188_MAN05188_000_201,你是不是對這個國家和富裕階層很不滿啊？<hex:02100103>既然如此，要不要加入我們自由之門，一起戰鬥？
-98,TEXT_KINGBZ001_05188_MAN05188_000_202,最近，一些神秘事件在各個國家接連發生。<hex:02100103>其實這些都是我們的同志為了顛覆國家，<hex:02100103>使用了一種叫祭器的魔具製造出來的。
-99,TEXT_KINGBZ001_05188_MAN05188_000_203,為了實現更高的偉業，<hex:02100103>自由之門正在擴招志同道合的夥伴。
-100,TEXT_KINGBZ001_05188_Q8_000_000,要說什麼？
-101,TEXT_KINGBZ001_05188_A8_000_001,我要當幹部！
-102,TEXT_KINGBZ001_05188_A8_000_002,祭器歸我的話就加入
-103,TEXT_KINGBZ001_05188_MAN05188_000_205,嚯……口氣不小啊。<hex:02100103>有這膽子誇下海口，說不定真是個當幹部的料。
-104,TEXT_KINGBZ001_05188_MAN05188_000_206,那這個機會就是為你準備的！<hex:02100103>快來參加第二代幹部的面試吧！
-105,TEXT_KINGBZ001_05188_MAN05188_000_207,我的同伴在黃金廣場，<hex:02100103>你找到人之後把這張傳單拿給他看，<hex:02100103>他就會帶你去面試會場了。
-106,TEXT_KINGBZ001_05188_GUIDE05188_100_300,……有何貴幹？
-107,TEXT_KINGBZ001_05188_GUIDE05188_100_301,原來如此，你也想走上這條為非作歹的康莊大道是吧？
-108,TEXT_KINGBZ001_05188_GUIDE05188_100_302,歡迎，但要想加入可沒那麼容易，<hex:02100103>你必須接受最苛刻、最嚴格的審查。<hex:02100103>怎麼樣，做好心理準備了嗎？
-109,TEXT_KINGBZ001_05188_GUIDE05188_100_303,太好了！<hex:02100103>跟我來，我帶你去會場。
-110,TEXT_KINGBZ001_05188_GUIDE05188_200_303,準備好了？<hex:02100103>跟我來，我帶你去會場。
-111,TEXT_KINGBZ001_05188_GUIDE05188_000_300,舉行面試的房間就是這裡。<hex:02100103>注意了，我們的審查在壞人裡可是出了名的嚴格，<hex:02100103>誰也不能保證你能通過……我很期待你的表現。
-112,TEXT_KINGBZ001_05188_JUDGE05188A_000_301,(-男性的聲音-)進來。
-113,TEXT_KINGBZ001_05188_JUDGE05188A_000_302,(-？？？？-)聽！<hex:02100103>是無畏幼童的痛哭！
-114,TEXT_KINGBZ001_05188_JUDGE05188B_000_303,(-？？？？-)看！<hex:02100103>是青空振翅的飛鳥！
-115,TEXT_KINGBZ001_05188_JUDGE05188C_000_304,(-？？？？-)為腐朽的規則畫上句號！<hex:02100103>讓世界回歸應有的形態！
-116,TEXT_KINGBZ001_05188_JUDGE05188A_000_305,(-？？？？-)讓我們開啟通往明天的大道！<hex:02100103>向著自由之門前進！
-117,TEXT_KINGBZ001_05188_JUDGE05188A_000_306,(-？？？？-)咳咳……<hex:02100103>那麼，現在開始面試組織的第二代幹部。<hex:02100103>人事部的各位，請各自就坐。
-118,TEXT_KINGBZ001_05188_JUDGE05188A_000_307,東張西望什麼呢？
-119,TEXT_KINGBZ001_05188_JUDGE05188A_000_308,哈哈。<hex:02100103>我知道了，你不會以為能在這裡見到首領吧？<hex:02100103>很遺憾，那樣的大人物可不是這麼好見的。
-120,TEXT_KINGBZ001_05188_JUDGE05188A_000_309,現在還是先來繼續面試吧。<hex:02100103>姓名？
-121,TEXT_KINGBZ001_05188_Q1_000_000,如何作答？
-122,TEXT_KINGBZ001_05188_A1_000_001,自報家門說真名
-123,TEXT_KINGBZ001_05188_A1_000_002,拒絕回答
-124,TEXT_KINGBZ001_05188_JUDGE05188A_000_311,<hex:022903EB0203>？你認真的嗎？
-125,TEXT_KINGBZ001_05188_JUDGE05188A_000_312,我懂了，是用大英雄的名字招搖撞騙的騙子是吧？<hex:02100103>你又不能像第一代幹部裡的五月雨那樣變身成對方的樣子，<hex:02100103>這種沒意義的角色扮演就到此為止吧。
-126,TEXT_KINGBZ001_05188_JUDGE05188A_000_313,不錯，很上道。<hex:02100103>我們自由之門畢竟是邪惡的秘密組織……<hex:02100103>真名這東西就得藏到最關鍵的那一刻啊！
-127,TEXT_KINGBZ001_05188_JUDGE05188A_000_314,……那麼，下一個問題。<hex:02100103>你為什麼要加入我們？
-128,TEXT_KINGBZ001_05188_Q2_000_000,如何作答？
-129,TEXT_KINGBZ001_05188_A2_000_001,我要改變這個世界
-130,TEXT_KINGBZ001_05188_A2_000_002,我很崇拜前代的幹部
-131,TEXT_KINGBZ001_05188_A2_000_003,我陪朋友來的
-132,TEXT_KINGBZ001_05188_JUDGE05188A_000_316,要真是這麼想的那早該行動了。<hex:02100103>像你這種沒有任何成果的純新人，我們不太推薦你直接當幹部。
-133,TEXT_KINGBZ001_05188_JUDGE05188A_000_317,你這說法聽起來更像是想當小跟班啊……<hex:02100103>我們需要的幹部必須有自己的想法，<hex:02100103>要有為組織帶來變革的雄心壯志。
-134,TEXT_KINGBZ001_05188_JUDGE05188A_000_318,我明白了，你是在巧合中發現了能展現自己才華的機會。<hex:02100103>很好，有眼光也是一種才能啊，我們就需要這樣的幹部。
-135,TEXT_KINGBZ001_05188_JUDGE05188B_000_319,那你說說……<hex:02100103>你都有什麼本事啊？
-136,TEXT_KINGBZ001_05188_Q3_000_000,如何作答？
-137,TEXT_KINGBZ001_05188_A3_000_001,打架從來沒輸過
-138,TEXT_KINGBZ001_05188_A3_000_002,製作和採集的本領無人能及
-139,TEXT_KINGBZ001_05188_A3_000_003,我是多瑪方城戰高手！
-140,TEXT_KINGBZ001_05188_JUDGE05188B_000_321,這也太平平無奇了……你知道我們的對手是一整個國家吧？<hex:02100103>說實話，個人的影響力在這個層面上趨近於無，<hex:02100103>我們需要的是能領導大軍取得勝利的統帥能力。
-141,TEXT_KINGBZ001_05188_JUDGE05188B_000_322,後勤的事情讓手下去幹不就行了。<hex:02100103>你真要靠這個，就得像第一代幹部裡的艾爾蕾特那樣<hex:02100103>活用自己的技能在第一線衝鋒陷陣才行。
-142,TEXT_KINGBZ001_05188_JUDGE05188B_000_323,這個好啊！你很懂嘛！<hex:02100103>料敵制勝的眼力、欺騙對手的戰術、一決勝負的勇氣……<hex:02100103>當幹部需要的就是你在多瑪方城戰中取勝時展現出的這些能力。
-143,TEXT_KINGBZ001_05188_JUDGE05188C_000_324,啊嗚啊嗚，那好，提問就到這裡吧……<hex:02100103>接下來我們要考驗一下你是否有成為幹部、與國家為敵的覺悟。
-144,TEXT_KINGBZ001_05188_JUDGE05188C_000_325,這個人是把組織的情報洩露給國家的叛徒。<hex:02100103>你在這裡把他殺了吧。
-145,TEXT_KINGBZ001_05188_JUDGE05188C_000_326,啊嗚啊嗚，怎麼了？<hex:02100103>不會做不到吧？
-146,TEXT_KINGBZ001_05188_Q4_000_000,要做什麼？
-147,TEXT_KINGBZ001_05188_A4_000_001,下定決心拿起武器
-148,TEXT_KINGBZ001_05188_A4_000_002,靜靜地搖頭拒絕
-149,TEXT_KINGBZ001_05188_JUDGE05188C_000_328,哇！真是魄力驚人！<hex:02100103>看到你有這個心就夠了，<hex:02100103>這只是個小測試而已。
-150,TEXT_KINGBZ001_05188_JUDGE05188C_000_329,哎呀，被你看穿這是個測試啦。<hex:02100103>真是可怕的洞察力。
-151,TEXT_KINGBZ001_05188_JUDGE05188C_000_330,那個演叛徒的！辛苦了！<hex:02100103>你可以出去了。
-152,TEXT_KINGBZ001_05188_JUDGE05188C_000_331,啊嗚啊嗚，啊對……<hex:02100103>最後再給我擺一個最能代表你的亮相動作吧！
-153,TEXT_KINGBZ001_05188_Q5_000_000,要做什麼？
-154,TEXT_KINGBZ001_05188_A5_000_001,展示美貌
-155,TEXT_KINGBZ001_05188_A5_000_002,展示力量
-156,TEXT_KINGBZ001_05188_A5_000_003,展示舞蹈
-157,TEXT_KINGBZ001_05188_JUDGE05188C_000_333,哇！這撲面而來的自信！<hex:02100103>好像在發光！
-158,TEXT_KINGBZ001_05188_JUDGE05188A_000_334,那麼，接下來公布審查的結果……
-159,TEXT_KINGBZ001_05188_JUDGE05188A_000_335,你獨樹一幟的個性和與眾不同的魅力打動了我們。<hex:02100103>因此，我宣布，你通過了第一次審查！
-160,TEXT_KINGBZ001_05188_JUDGE05188A_000_336,你的抗壓能力尤其出眾，<hex:02100103>直到最後都沒有敗給我們的壓力，很好地展現出了自己的風采。<hex:02100103>連第一代幹部裡的沙爾托菲特都不如你。
-161,TEXT_KINGBZ001_05188_JUDGE05188A_000_337,之後該怎麼做，你出去之後外面那位帶路的成員會告訴你。
-162,TEXT_KINGBZ001_05188_JUDGE05188A_000_345,
-163,TEXT_KINGBZ001_05188_JUDGE05188B_000_350,
-164,TEXT_KINGBZ001_05188_JUDGE05188C_000_355,
-165,TEXT_KINGBZ001_05188_GUIDE05188_000_400,哎？你以為這就結束了？<hex:02100103>當幹部可沒有這麼容易。
-166,TEXT_KINGBZ001_05188_GUIDE05188_000_401,順帶一提，如果你沒通過這邊的審查，<hex:02100103>我就會推薦你去參加下級戰鬥員的培訓班。<hex:02100103>能通過第一次審查的人可不多，你很了不起了！
-167,TEXT_KINGBZ001_05188_GUIDE05188_000_402,之後也要繼續加油啊！
+0,"TEXT_KINGBZ001_05188_SEQ_00","Rral Majun has new tidings about an old adversary."
+1,"TEXT_KINGBZ001_05188_SEQ_01","While the Passage of the Unbound has been dealt a grievous blow, apparently the organization lives on, for Rral Majun and Br'uk Evu inform you that their founder Apyaahi seeks new leaders. The pair implore you to feign interest in joining her cause so you might find a way to bring her to justice. Knowing that her funds are based in Ul'dah, they bid you travel there and ask around to see if her agents have been sighted among the dusty streets."
+2,"TEXT_KINGBZ001_05188_SEQ_02","Your conversations with Ul'dah's citizenry reveal that a strange man has been lurking around the city and attempting to recruit disgruntled individuals. He was last sighted near the market board and may approach if you appear sufficiently angered by your circumstances."
+3,"TEXT_KINGBZ001_05188_SEQ_03","As expected, your bout of anger summons a sketchy man, who invites you to the Passage of the Unbound. After you express a desire to become one of their leaders, he gives you a handbill and instructs you to give it to an agent waiting in the Gold Court. There you will undergo an audition, but as of yet you know not what it entails."
+4,"TEXT_KINGBZ001_05188_SEQ_04","You find the agent waiting in front of a nondescript door, and his brusque attitude lightens after you give him the handbill. He invites you into the audience hall."
+5,"TEXT_KINGBZ001_05188_SEQ_05","Once inside the audience chamber, you find yourself before three judges, each more eccentric than the last. After a series of questions sensible and nonsensical both, they announce that you have passed their audition with flying colors. They encourage you to speak with the agent outside to receive your next set of instructions."
+6,"TEXT_KINGBZ001_05188_SEQ_06","The agent congratulates you on your success, but warns that the next step will be even more trying than the last. Once your heart is ready, he will tell you where you must go."
+7,"TEXT_KINGBZ001_05188_SEQ_07",""
+8,"TEXT_KINGBZ001_05188_SEQ_08",""
+9,"TEXT_KINGBZ001_05188_SEQ_09",""
+10,"TEXT_KINGBZ001_05188_SEQ_10",""
+11,"TEXT_KINGBZ001_05188_SEQ_11",""
+12,"TEXT_KINGBZ001_05188_SEQ_12",""
+13,"TEXT_KINGBZ001_05188_SEQ_13",""
+14,"TEXT_KINGBZ001_05188_SEQ_14",""
+15,"TEXT_KINGBZ001_05188_SEQ_15",""
+16,"TEXT_KINGBZ001_05188_SEQ_16",""
+17,"TEXT_KINGBZ001_05188_SEQ_17",""
+18,"TEXT_KINGBZ001_05188_SEQ_18",""
+19,"TEXT_KINGBZ001_05188_SEQ_19",""
+20,"TEXT_KINGBZ001_05188_SEQ_20",""
+21,"TEXT_KINGBZ001_05188_SEQ_21",""
+22,"TEXT_KINGBZ001_05188_SEQ_22",""
+23,"TEXT_KINGBZ001_05188_SEQ_23",""
+24,"TEXT_KINGBZ001_05188_TODO_00","Gather information in Ul'dah."
+25,"TEXT_KINGBZ001_05188_TODO_01","Show everyone at the marketplace how /angry you are."
+26,"TEXT_KINGBZ001_05188_TODO_02","Give the audition handbill to the Unbound agent."
+27,"TEXT_KINGBZ001_05188_TODO_03","Give the audition handbill to the Unbound agent."
+28,"TEXT_KINGBZ001_05188_TODO_04","Speak with the Unbound agent."
+29,"TEXT_KINGBZ001_05188_TODO_05",""
+30,"TEXT_KINGBZ001_05188_TODO_06",""
+31,"TEXT_KINGBZ001_05188_TODO_07",""
+32,"TEXT_KINGBZ001_05188_TODO_08",""
+33,"TEXT_KINGBZ001_05188_TODO_09",""
+34,"TEXT_KINGBZ001_05188_TODO_10",""
+35,"TEXT_KINGBZ001_05188_TODO_11",""
+36,"TEXT_KINGBZ001_05188_TODO_12",""
+37,"TEXT_KINGBZ001_05188_TODO_13",""
+38,"TEXT_KINGBZ001_05188_TODO_14",""
+39,"TEXT_KINGBZ001_05188_TODO_15",""
+40,"TEXT_KINGBZ001_05188_TODO_16",""
+41,"TEXT_KINGBZ001_05188_TODO_17",""
+42,"TEXT_KINGBZ001_05188_TODO_18",""
+43,"TEXT_KINGBZ001_05188_TODO_19",""
+44,"TEXT_KINGBZ001_05188_TODO_20",""
+45,"TEXT_KINGBZ001_05188_TODO_21",""
+46,"TEXT_KINGBZ001_05188_TODO_22",""
+47,"TEXT_KINGBZ001_05188_TODO_23",""
+48,"TEXT_KINGBZ001_05188_RRALMAJUN_000_000","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, so good to see you! I was hoping you would pay us a visit."
+49,"TEXT_KINGBZ001_05188_RRALMAJUN_000_001","The Landsguard received word from the various nations you visited in your search for the treasures and requested that we inform you of the latest tidings. They also send their earnest gratitude for your efforts!"
+50,"TEXT_KINGBZ001_05188_RRALMAJUN_000_002","It seems each of the five criminals has been brought into custody, although some had to be tracked down after you trounced them. They now await the judgment of the governments they wronged."
+51,"TEXT_KINGBZ001_05188_RRALMAJUN_000_003","I thought all was well...until I overheard some customers saying that the Passage of the Unbound had new leaders!"
+52,"TEXT_KINGBZ001_05188_RRALMAJUN_000_004","The shop was so busy that I couldn't find a chance to speak with them before they left, but I felt compelled to report what I heard to the Landsguard."
+53,"TEXT_KINGBZ001_05188_BRUKEVU_000_005","It was a sobering reminder that as long as their leader Apyaahi is free, she can rebuild and scheme again."
+54,"TEXT_KINGBZ001_05188_BRUKEVU_000_006","You must've learned about the organization's workings during your search. Do you remember anything that might help us find out what she's up to?"
+55,"TEXT_KINGBZ001_05188_Q6_000_000","What will you say?"
+56,"TEXT_KINGBZ001_05188_A6_000_001","Each of her leaders was carefully selected from different regions."
+57,"TEXT_KINGBZ001_05188_A6_000_002","Apyaahi orchestrated everything for some greater purpose."
+58,"TEXT_KINGBZ001_05188_A6_000_003","Their funds were coming from Virazahn."
+59,"TEXT_KINGBZ001_05188_A6_000_004","Honestly, it was all a haze..."
+60,"TEXT_KINGBZ001_05188_BRUKEVU_000_008","I see. So there was a method to her recruitment. It stands to reason she might rely on it again..."
+61,"TEXT_KINGBZ001_05188_BRUKEVU_000_009",""
+62,"TEXT_KINGBZ001_05188_RRALMAJUN_100_009","The Landsguard also managed to dig up information. One of those apprehended said the Passage of the Unbound received their funds from a shady mercantile outfit located in Ul'dah."
+63,"TEXT_KINGBZ001_05188_BRUKEVU_000_010","Huh, I see Apyaahi didn't care if her leaders could keep secrets. Considering what we know of her, I doubt she was a good judge of character in that respect."
+64,"TEXT_KINGBZ001_05188_BRUKEVU_100_010","But even a fool can do harm with enough coin. We'd do best not to underestimate her."
+65,"TEXT_KINGBZ001_05188_RRALMAJUN_200_010","The Landsguard also managed to dig up information. One of those apprehended said the Passage of the Unbound received their funds from a shady mercantile outfit located in Ul'dah."
+66,"TEXT_KINGBZ001_05188_RRALMAJUN_000_011","Were they, now? The Landsguard dug up some information that might be related. One of those apprehended said the Passage of the Unbound received their funds from a shady mercantile outfit located in Ul'dah."
+67,"TEXT_KINGBZ001_05188_RRALMAJUN_000_012",""
+68,"TEXT_KINGBZ001_05188_BRUKEVU_000_013","If Apyaahi still has monetary means, it wouldn't take much to recruit new leaders for new schemes. Evil deeds come all too cheap."
+69,"TEXT_KINGBZ001_05188_RRALMAJUN_100_013","That's too bad... Luckily, the Landsguard managed to dig up information. One of those apprehended said the Passage of the Unbound received their funds from a shady mercantile outfit located in Ul'dah."
+70,"TEXT_KINGBZ001_05188_BRUKEVU_000_014","If Apyaahi still has monetary means, it wouldn't take much to recruit new leaders for new schemes. Evil deeds come all too cheap."
+71,"TEXT_KINGBZ001_05188_RRALMAJUN_000_015","I have an idea. If Apyaahi really is recruiting new members, we could feign interest in her cause to get close to her."
+72,"TEXT_KINGBZ001_05188_BRUKEVU_000_016","You might be onto something. We even know a <hex:02080FE905FF06>woman<hex:FF04>man<hex:03> she's never had the pleasure of meeting: <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>."
+73,"TEXT_KINGBZ001_05188_BRUKEVU_000_017","I know we're asking a lot from you, but any information you extract from Apyaahi and her new cohorts could prevent further incidents. What do you say?"
+74,"TEXT_KINGBZ001_05188_Q7_000_000","What will you say?"
+75,"TEXT_KINGBZ001_05188_A7_000_001","I can do that."
+76,"TEXT_KINGBZ001_05188_A7_000_002","Desperate times, I suppose..."
+77,"TEXT_KINGBZ001_05188_RRALMAJUN_000_019","We're very grateful! A small warning, however..."
+78,"TEXT_KINGBZ001_05188_RRALMAJUN_000_020","We know five treasures were stolen, but there could be more. Whatever you do, don't treat Apyaahi lightly."
+79,"TEXT_KINGBZ001_05188_RRALMAJUN_000_021",""
+80,"TEXT_KINGBZ001_05188_RRALMAJUN_000_022","I suggest finding out what power she has at her disposal and what her goals are before making your move."
+81,"TEXT_KINGBZ001_05188_BRUKEVU_000_023","Which reminds me─those you aided are most eager to see Apyaahi apprehended. We'll tell them you're hot on her tail."
+82,"TEXT_KINGBZ001_05188_RRALMAJUN_000_024","For now, why don't you travel to Ul'dah and ask around? Perhaps our quarry has already tried to recruit the disillusioned into her ranks."
+83,"TEXT_KINGBZ001_05188_RRALMAJUN_000_025",""
+84,"TEXT_KINGBZ001_05188_BRUKEVU_000_030",""
+85,"TEXT_KINGBZ001_05188_SIBOLD_000_100","Villains who wish to topple the nations of the world? I'm afraid I haven't heard of such a group, but there are no shortage of complaints about the sultanate."
+86,"TEXT_KINGBZ001_05188_SIBOLD_000_101","Most common are gripes about market fees. To hear the merchants tell it, every one of them is a single bad bargain away from an empty coinpurse. I can't say they'd go so far as treason, though..."
+87,"TEXT_KINGBZ001_05188_LANDEBERT_000_102","Shifty-eyed blokes? More shifty than usual, you mean? Well, just so happens a strange man tried to strike up a conversation with me not too long ago. Said he liked how eagerly I gave those bastards in the Brass Blades a piece of my mind. "
+88,"TEXT_KINGBZ001_05188_LANDEBERT_000_103","He invited me to a gathering of people who sought “true freedom,” as he put it. I didn't like the smell of it, hence you find me here."
+89,"TEXT_KINGBZ001_05188_WOMAN05188_000_104","I don't know the name Apyaahi, but I do know of a strange man. Each day he stands aloof, staring at passersby with these dead eyes."
+90,"TEXT_KINGBZ001_05188_WOMAN05188_000_105","Last I saw him, he was near the market board. Oh, it makes my stomach churn just to imagine he might still be there..."
+91,"TEXT_KINGBZ001_05188_SYSTEM_000_106","It seems a suspicious man has been recruiting disgruntled citizens for unknown purposes. Perhaps you can get his attention by showing how <hex:024804F201F403><hex:024904F201F503>angry<hex:0249020103><hex:0248020103> you are near the market boards."
+92,"TEXT_KINGBZ001_05188_SIBOLD_000_110","If such an organization does exist, then their leader must bear a deep grudge indeed..."
+93,"TEXT_KINGBZ001_05188_LANDEBERT_000_115","All it took was a bit of complaining to catch the interest of that odd man. And while I appreciate a sympathetic ear, something about him made me certain I'd regret going to this gathering of his."
+94,"TEXT_KINGBZ001_05188_WOMAN05188_000_120","I'm sure he's still at the market boards now, scaring people away with that unsettling gaze..."
+95,"TEXT_KINGBZ001_05188_SYSTEM_100_200","The Passage of the Unbound seems to target the <hex:024804F201F403><hex:024904F201F503>angry<hex:0249020103><hex:0248020103>. Based on your findings, their agent may be near the market boards.  "
+96,"TEXT_KINGBZ001_05188_MAN05188_000_200","You there. Mind lettin' me bend your ear?"
+97,"TEXT_KINGBZ001_05188_MAN05188_000_201","I sense in you a kindred spirit. One who's tired of bein' trampled on by the high and mighty. I think there's a place for you in our organization─the Passage of the Unbound."
+98,"TEXT_KINGBZ001_05188_MAN05188_000_202","You might've heard tell of mysterious artifacts bein' used to incite unrest across the world. That was our doin'─the oppressed finally strikin' back at the oppressors to win back the freedom they took from us. "
+99,"TEXT_KINGBZ001_05188_MAN05188_000_203","But we mean to aim even higher, and for that we need more good men and women to lead us. <hex:02080FE905FF06>Women<hex:FF04>Men<hex:03> like <hex:021A020203>you<hex:021A020103>."
+100,"TEXT_KINGBZ001_05188_Q8_000_000","What will you say?"
+101,"TEXT_KINGBZ001_05188_A8_000_001","Down with the oppressors!"
+102,"TEXT_KINGBZ001_05188_A8_000_002","As long as I get my own artifact, I'm in."
+103,"TEXT_KINGBZ001_05188_MAN05188_000_205","Heh, I like your gusto. Mayhap you have what it takes."
+104,"TEXT_KINGBZ001_05188_MAN05188_000_206","Mayhap you don't. Either way, you'll have to pass the audition first. You want a seat at the table, prove you're worth our while."
+105,"TEXT_KINGBZ001_05188_MAN05188_000_207","One of our own is standin' by at the Gold Court. Show him this handbill, and he'll lead you to where you need to go."
+106,"TEXT_KINGBZ001_05188_GUIDE05188_100_300","Hmm? What do you want?"
+107,"TEXT_KINGBZ001_05188_GUIDE05188_100_301","So you wish to lead others upon the Passage, eh? You're welcome to try."
+108,"TEXT_KINGBZ001_05188_GUIDE05188_100_302","But fair warning: this may be the hardest trial you've ever had to endure. Are your loins properly girded?"
+109,"TEXT_KINGBZ001_05188_GUIDE05188_100_303","That enthusiasm will take you far! Now then, follow me."
+110,"TEXT_KINGBZ001_05188_GUIDE05188_200_303","Your heart is steeled and your loins are girded? Good, now follow me."
+111,"TEXT_KINGBZ001_05188_GUIDE05188_000_300","The audition will be held in this room. Even those with the blackest hearts have balked at what we put our potential leaders through, so I'll be listening to your progress with great interest."
+112,"TEXT_KINGBZ001_05188_JUDGE05188A_000_301","(-Gruff Voice-)Enter."
+113,"TEXT_KINGBZ001_05188_JUDGE05188A_000_302","(-???-)Can you hear it? The cry of a child too young to know fear."
+114,"TEXT_KINGBZ001_05188_JUDGE05188B_000_303","(-???-)Can you see it? A black bird in flight, its wings staining the azure skies."
+115,"TEXT_KINGBZ001_05188_JUDGE05188C_000_304","(-???-)Can you feel it? The shape of the world as it should be, molded by hands free of fetters."
+116,"TEXT_KINGBZ001_05188_JUDGE05188A_000_305","(-???-)The passage to a new morrow lies before you─the Passage of the Unbound!"
+117,"TEXT_KINGBZ001_05188_JUDGE05188A_000_306","(-???-)Ehem. And with that, let us begin the audition for our new round of leaders. May the selection committee please take their seats."
+118,"TEXT_KINGBZ001_05188_JUDGE05188A_000_307","You look disappointed somehow."
+119,"TEXT_KINGBZ001_05188_JUDGE05188A_000_308","Haha, I understand. You expected to meet our founder. My apologies, but you'll need to prove yourself ere you are granted such an audience."
+120,"TEXT_KINGBZ001_05188_JUDGE05188A_000_309","Now, tell us your name."
+121,"TEXT_KINGBZ001_05188_Q1_000_000","What will you do?"
+122,"TEXT_KINGBZ001_05188_A1_000_001","Say your true name."
+123,"TEXT_KINGBZ001_05188_A1_000_002","Refuse to answer."
+124,"TEXT_KINGBZ001_05188_JUDGE05188A_000_311","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>? <hex:021A020203>The<hex:021A020103> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>?"
+125,"TEXT_KINGBZ001_05188_JUDGE05188A_000_312","You would play at being one of the realm's most beloved heroes? Take this as honest criticism: your capacity for deception is hardly equal to Samidare's, so I suggest a more humble alter ego."
+126,"TEXT_KINGBZ001_05188_JUDGE05188A_000_313","Well done. The Passage of the Unbound works in the shadows, and our true names must remain hidden until their revelation can have the most dramatic impact."
+127,"TEXT_KINGBZ001_05188_JUDGE05188A_000_314","...On to the next question. Why do you wish to join us?"
+128,"TEXT_KINGBZ001_05188_Q2_000_000","What will you say?"
+129,"TEXT_KINGBZ001_05188_A2_000_001","I want to change the world."
+130,"TEXT_KINGBZ001_05188_A2_000_002","I was impressed by your previous leaders."
+131,"TEXT_KINGBZ001_05188_A2_000_003","My friend joined up, so I thought “Why not?”"
+132,"TEXT_KINGBZ001_05188_JUDGE05188A_000_316","If you truly desired that, you would have done something noteworthy by now. We would be ill-advised to recommend a novice for a position of leadership."
+133,"TEXT_KINGBZ001_05188_JUDGE05188A_000_317","Spoken like someone whose only ambition is to serve. We require hearts bold enough to remake our organization in their own image."
+134,"TEXT_KINGBZ001_05188_JUDGE05188A_000_318","I see. So you spied opportunity in a chance occurrence, and sought to grasp it for yourself. We require such qualities in our leaders."
+135,"TEXT_KINGBZ001_05188_JUDGE05188B_000_319","Enough about your ambitions. What can you <hex:021A020203>do<hex:021A020103>?"
+136,"TEXT_KINGBZ001_05188_Q3_000_000","What will you say?"
+137,"TEXT_KINGBZ001_05188_A3_000_001","I can take on anyone─or anything─in a fight."
+138,"TEXT_KINGBZ001_05188_A3_000_002","No one can craft and gather like me."
+139,"TEXT_KINGBZ001_05188_A3_000_003","I'm a devil at Doman mahjong!"
+140,"TEXT_KINGBZ001_05188_JUDGE05188B_000_321","Anyone can fight. You do know we're trying to topple nations here, don't you? We don't need someone with muscles─we need someone who can grasp the reins of leadership and lead us to victory."
+141,"TEXT_KINGBZ001_05188_JUDGE05188B_000_322","Even a novice can support us from the back lines. If you're going to lead, you have to be willing to leap into the thick of things─like Ellerete did."
+142,"TEXT_KINGBZ001_05188_JUDGE05188B_000_323","Ah, a <hex:02080FE905FF06>woman<hex:FF04>man<hex:03> after my own heart! Doman mahjong is a game of prudent foresight, deceptive tactics, and bold attacks. Any leader of ours must be as feared at the gaming table as they are away of it."
+143,"TEXT_KINGBZ001_05188_JUDGE05188C_000_324","That's enough questions for now, methinks. Let's see if this one has the guts to stand against an entire nation."
+144,"TEXT_KINGBZ001_05188_JUDGE05188C_000_325","This traitorous cur sold us out to our enemies. Chop off his head for us, will you?"
+145,"TEXT_KINGBZ001_05188_JUDGE05188C_000_326","Oh? What's wrong? Having second thoughts?"
+146,"TEXT_KINGBZ001_05188_Q4_000_000","What will you do?"
+147,"TEXT_KINGBZ001_05188_A4_000_001","Take the weapon in hand."
+148,"TEXT_KINGBZ001_05188_A4_000_002","Refuse the order."
+149,"TEXT_KINGBZ001_05188_JUDGE05188C_000_328","Oh my, look at those eyes! A killer's eyes! Well, I'm convinced. You can put that down now. This was all but a ruse, you see."
+150,"TEXT_KINGBZ001_05188_JUDGE05188C_000_329","So you saw through our little ruse. How insightful."
+151,"TEXT_KINGBZ001_05188_JUDGE05188C_000_330","You played the traitor most convincingly, my boy! And now, you may leave."
+152,"TEXT_KINGBZ001_05188_JUDGE05188C_000_331","Hmm, let's see... Oh, yes. Your final task. Strike a pose that captures your essence. Go!"
+153,"TEXT_KINGBZ001_05188_Q5_000_000","What will you do?"
+154,"TEXT_KINGBZ001_05188_A5_000_001","Capture your beauty."
+155,"TEXT_KINGBZ001_05188_A5_000_002","Capture your strength."
+156,"TEXT_KINGBZ001_05188_A5_000_003","Do a little dance."
+157,"TEXT_KINGBZ001_05188_JUDGE05188C_000_333","Oh my, such confidence! Such grace! They quite literally emanate from you!"
+158,"TEXT_KINGBZ001_05188_JUDGE05188A_000_334","I believe we're ready to make our decision..."
+159,"TEXT_KINGBZ001_05188_JUDGE05188A_000_335","You truly are singular among the other applicants. We can confidently say you've passed the first audition!"
+160,"TEXT_KINGBZ001_05188_JUDGE05188A_000_336","Even hard-boiled Chalteaufite nearly cracked under the pressure of our inquiries, but you remained composed throughout. Congratulations on your impressive feat."
+161,"TEXT_KINGBZ001_05188_JUDGE05188A_000_337","Our agent awaits without to guide you on to the next step."
+162,"TEXT_KINGBZ001_05188_JUDGE05188A_000_345",""
+163,"TEXT_KINGBZ001_05188_JUDGE05188B_000_350",""
+164,"TEXT_KINGBZ001_05188_JUDGE05188C_000_355",""
+165,"TEXT_KINGBZ001_05188_GUIDE05188_000_400","You thought we'd welcome you into the fold after a single audition? I'll have you know our standards are higher than that."
+166,"TEXT_KINGBZ001_05188_GUIDE05188_000_401","By the way, if you had failed back there, I'd be guiding you to combat training right now. Can never have too much fodder for the cause, after all. Not many have been where you're going."
+167,"TEXT_KINGBZ001_05188_GUIDE05188_000_402","But don't celebrate just yet. The hardest part is still to come..."

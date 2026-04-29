@@ -2,80 +2,80 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_LUCKMD112_03617_SEQ_00,努貝依舊礦山的古斯約恩準備履行約定。
-1,TEXT_LUCKMD112_03617_SEQ_01,
-2,TEXT_LUCKMD112_03617_SEQ_02,
-3,TEXT_LUCKMD112_03617_SEQ_03,
-4,TEXT_LUCKMD112_03617_SEQ_04,
-5,TEXT_LUCKMD112_03617_SEQ_05,
-6,TEXT_LUCKMD112_03617_SEQ_06,
-7,TEXT_LUCKMD112_03617_SEQ_07,
-8,TEXT_LUCKMD112_03617_SEQ_08,
-9,TEXT_LUCKMD112_03617_SEQ_09,
-10,TEXT_LUCKMD112_03617_SEQ_10,
-11,TEXT_LUCKMD112_03617_SEQ_11,
-12,TEXT_LUCKMD112_03617_SEQ_12,
-13,TEXT_LUCKMD112_03617_SEQ_13,
-14,TEXT_LUCKMD112_03617_SEQ_14,
-15,TEXT_LUCKMD112_03617_SEQ_15,
-16,TEXT_LUCKMD112_03617_SEQ_16,
-17,TEXT_LUCKMD112_03617_SEQ_17,
-18,TEXT_LUCKMD112_03617_SEQ_18,
-19,TEXT_LUCKMD112_03617_SEQ_19,
-20,TEXT_LUCKMD112_03617_SEQ_20,
-21,TEXT_LUCKMD112_03617_SEQ_21,
-22,TEXT_LUCKMD112_03617_SEQ_22,
-23,TEXT_LUCKMD112_03617_SEQ_23,
-24,TEXT_LUCKMD112_03617_TODO_00,和古斯約恩對話
-25,TEXT_LUCKMD112_03617_TODO_01,從<hex:02280CFF05>EObj<hex:F61EAB990103>獲取<hex:022811FF0A>EventItem<hex:F61E8E820103>
-26,TEXT_LUCKMD112_03617_TODO_02,將<hex:022811FF0A>EventItem<hex:F61E8E820103>放在<hex:02280CFF05>EObj<hex:F61EAB3C0103>
-27,TEXT_LUCKMD112_03617_TODO_03,調查<hex:02280CFF05>EObj<hex:F61EACA20103> 從敲石蟲身上獲取<hex:022811FF0A>EventItem<hex:F61E8E830103>
-28,TEXT_LUCKMD112_03617_TODO_04,將<hex:022811FF0A>EventItem<hex:F61E8E830103>交給古斯約恩
-29,TEXT_LUCKMD112_03617_TODO_05,
-30,TEXT_LUCKMD112_03617_TODO_06,
-31,TEXT_LUCKMD112_03617_TODO_07,
-32,TEXT_LUCKMD112_03617_TODO_08,
-33,TEXT_LUCKMD112_03617_TODO_09,
-34,TEXT_LUCKMD112_03617_TODO_10,
-35,TEXT_LUCKMD112_03617_TODO_11,
-36,TEXT_LUCKMD112_03617_TODO_12,
-37,TEXT_LUCKMD112_03617_TODO_13,
-38,TEXT_LUCKMD112_03617_TODO_14,
-39,TEXT_LUCKMD112_03617_TODO_15,
-40,TEXT_LUCKMD112_03617_TODO_16,
-41,TEXT_LUCKMD112_03617_TODO_17,
-42,TEXT_LUCKMD112_03617_TODO_18,
-43,TEXT_LUCKMD112_03617_TODO_19,
-44,TEXT_LUCKMD112_03617_TODO_20,
-45,TEXT_LUCKMD112_03617_TODO_21,
-46,TEXT_LUCKMD112_03617_TODO_22,
-47,TEXT_LUCKMD112_03617_TODO_23,
-48,TEXT_LUCKMD112_03617_THANCRED_000_000,太好了！<hex:02100103>我的運氣就放在之後……<hex:02100103>用在找獅目石好了。
-49,TEXT_LUCKMD112_03617_GUTHJON_000_010,按照約定，我來告訴你們尋找獅目石的方法……
-50,TEXT_LUCKMD112_03617_GUTHJON_000_011,不過在這不方便說，<hex:02100103>我們去外面……
-51,TEXT_LUCKMD112_03617_THANCRED_000_020,刺眼嗎？<hex:02100103>用了散瞳藥之後會對光線比較敏感。<hex:02100103>最好不要直視光源。
-52,TEXT_LUCKMD112_03617_GUTHJON_000_030,哈……真刺眼……<hex:02100103>所以我才不喜歡從礦山裡出來……
-53,TEXT_LUCKMD112_03617_GUTHJON_000_031,不過約定就是約定，<hex:02100103>我們無計可施時才會使用這個方法，<hex:02100103>這次就讓你們試試吧。
-54,TEXT_LUCKMD112_03617_GUTHJON_000_032,……你們知不知道有一種附在礦石表面的叫岩蟲的蟲子？
-55,TEXT_LUCKMD112_03617_THANCRED_000_033,礦爬蟲……這附近是叫做<hex:02100103>敲石蟲來著？
-56,TEXT_LUCKMD112_03617_GUTHJON_000_034,嗯，也有人這麼叫，<hex:02100103>我們一般叫岩蟲……
-57,TEXT_LUCKMD112_03617_GUTHJON_000_035,這種蟲子喜歡躲在人無法進入的岩石縫隙之中，<hex:02100103>現在肯定都在禁止進入的坑道深處。
-58,TEXT_LUCKMD112_03617_GUTHJON_000_036,那種傢伙身上會黏著稀有礦石……
-59,TEXT_LUCKMD112_03617_THANCRED_000_037,比如說獅目石？！
-60,TEXT_LUCKMD112_03617_GUTHJON_000_038,嗯，偶爾……<hex:02100103>話是這麼說，實際上大概也就是<hex:02100103>幾十塊垃圾石頭裡能找到一兩塊碎片的程度。
-61,TEXT_LUCKMD112_03617_THANCRED_000_039,但這也比沒有任何依據悶頭挖要好得多了。<hex:02100103>要怎麼吸引到岩蟲？
-62,TEXT_LUCKMD112_03617_GUTHJON_000_040,在那邊的<hex:02280CFF05>EObj<hex:F61EAB990103>，有<hex:022811FF0A>EventItem<hex:F61E8E820103>。<hex:02100103>把它拿去分散放在坑道裡，<hex:02100103>讓坑道充滿煙氣。
-63,TEXT_LUCKMD112_03617_GUTHJON_000_041,那樣一來岩蟲就會從<hex:02280CFF05>EObj<hex:F61EACA20103>跑出來。<hex:02100103>打倒岩蟲然後把它身上的石頭取下來就行。
-64,TEXT_LUCKMD112_03617_GUTHJON_000_042,我也說過，獲得獅目石的可能性很低。<hex:02100103>所以得調查所有的<hex:02280CFF05>EObj<hex:F61EACA20103>，討伐所有出現的岩蟲，<hex:02100103>盡量多收集一些<hex:022811FF0A>EventItem<hex:F61E8E830103>。
-65,TEXT_LUCKMD112_03617_GUTHJON_000_043,收集夠了就拿到我這裡來，<hex:02100103>我給你們鑑定有沒有獅目石。
-66,TEXT_LUCKMD112_03617_THANCRED_000_044,好，我們分頭去弄。<hex:02100103>我在地圖上做了標記，這三處就交給你了，<hex:02100103>剩下的我來。
-67,TEXT_LUCKMD112_03617_GUTHJON_000_050,先去<hex:02280CFF05>EObj<hex:F61EAB990103>取來<hex:022811FF0A>EventItem<hex:F61E8E820103>。
-68,TEXT_LUCKMD112_03617_GUTHJON_000_060,你拿到<hex:022811FF0A>EventItem<hex:F61E8E820103>了吧。<hex:02100103>然後把它放到坑道裡的那3個位置上。
-69,TEXT_LUCKMD112_03617_GUTHJON_000_061,等到煙充滿了坑道，就去調查<hex:02280CFF05>EObj<hex:F61EACA20103>，<hex:02100103>打倒出現的岩蟲。<hex:02100103>全部都打倒之後把<hex:022811FF0A>EventItem<hex:F61E8E830103>拿過來。
-70,TEXT_LUCKMD112_03617_SYSTEM_000_070,煙霧開始在坑道內擴散……<hex:02100103>調查<hex:02280CFF05>EObj<hex:F61EACA20103>，打倒岩蟲。
-71,TEXT_LUCKMD112_03617_SYSTEM_000_080,敲石蟲出現了！
-72,TEXT_LUCKMD112_03617_THANCRED_000_090,我也剛回來。<hex:02100103>情況……不知道怎麼樣，數量倒是不少……
-73,TEXT_LUCKMD112_03617_GUTHJON_000_100,如何？收集了多少<hex:022811FF0A>EventItem<hex:F61E8E830103>？
-74,TEXT_LUCKMD112_03617_GUTHJON_000_101,哦哦……這挺多的了。<hex:02100103>我這就鑑定一下你們兩個拿過來的這些。
-75,TEXT_LUCKMD112_03617_GUTHJON_000_102,這個數量得費點工夫，<hex:02100103>你們去那邊找個地方休息會吧。
-76,TEXT_LUCKMD112_03617_SYSTEM_000_081,（★未使用／削除予定★）
+0,"TEXT_LUCKMD112_03617_SEQ_00","Luckily for you, Guthjon is a man of his word."
+1,"TEXT_LUCKMD112_03617_SEQ_01",""
+2,"TEXT_LUCKMD112_03617_SEQ_02",""
+3,"TEXT_LUCKMD112_03617_SEQ_03",""
+4,"TEXT_LUCKMD112_03617_SEQ_04",""
+5,"TEXT_LUCKMD112_03617_SEQ_05",""
+6,"TEXT_LUCKMD112_03617_SEQ_06",""
+7,"TEXT_LUCKMD112_03617_SEQ_07",""
+8,"TEXT_LUCKMD112_03617_SEQ_08",""
+9,"TEXT_LUCKMD112_03617_SEQ_09",""
+10,"TEXT_LUCKMD112_03617_SEQ_10",""
+11,"TEXT_LUCKMD112_03617_SEQ_11",""
+12,"TEXT_LUCKMD112_03617_SEQ_12",""
+13,"TEXT_LUCKMD112_03617_SEQ_13",""
+14,"TEXT_LUCKMD112_03617_SEQ_14",""
+15,"TEXT_LUCKMD112_03617_SEQ_15",""
+16,"TEXT_LUCKMD112_03617_SEQ_16",""
+17,"TEXT_LUCKMD112_03617_SEQ_17",""
+18,"TEXT_LUCKMD112_03617_SEQ_18",""
+19,"TEXT_LUCKMD112_03617_SEQ_19",""
+20,"TEXT_LUCKMD112_03617_SEQ_20",""
+21,"TEXT_LUCKMD112_03617_SEQ_21",""
+22,"TEXT_LUCKMD112_03617_SEQ_22",""
+23,"TEXT_LUCKMD112_03617_SEQ_23",""
+24,"TEXT_LUCKMD112_03617_TODO_00","Speak with Guthjon."
+25,"TEXT_LUCKMD112_03617_TODO_01","Obtain the smoke bombs from the nearby shack."
+26,"TEXT_LUCKMD112_03617_TODO_02","Place the smoke bombs at the designated locations inside the mine."
+27,"TEXT_LUCKMD112_03617_TODO_03","Inspect the rubble and slay any knockers that appear to acquire glittering rocks."
+28,"TEXT_LUCKMD112_03617_TODO_04","Deliver the glittering rocks to Guthjon."
+29,"TEXT_LUCKMD112_03617_TODO_05",""
+30,"TEXT_LUCKMD112_03617_TODO_06",""
+31,"TEXT_LUCKMD112_03617_TODO_07",""
+32,"TEXT_LUCKMD112_03617_TODO_08",""
+33,"TEXT_LUCKMD112_03617_TODO_09",""
+34,"TEXT_LUCKMD112_03617_TODO_10",""
+35,"TEXT_LUCKMD112_03617_TODO_11",""
+36,"TEXT_LUCKMD112_03617_TODO_12",""
+37,"TEXT_LUCKMD112_03617_TODO_13",""
+38,"TEXT_LUCKMD112_03617_TODO_14",""
+39,"TEXT_LUCKMD112_03617_TODO_15",""
+40,"TEXT_LUCKMD112_03617_TODO_16",""
+41,"TEXT_LUCKMD112_03617_TODO_17",""
+42,"TEXT_LUCKMD112_03617_TODO_18",""
+43,"TEXT_LUCKMD112_03617_TODO_19",""
+44,"TEXT_LUCKMD112_03617_TODO_20",""
+45,"TEXT_LUCKMD112_03617_TODO_21",""
+46,"TEXT_LUCKMD112_03617_TODO_22",""
+47,"TEXT_LUCKMD112_03617_TODO_23",""
+48,"TEXT_LUCKMD112_03617_THANCRED_000_000","Perhaps our luck really is starting to turn around."
+49,"TEXT_LUCKMD112_03617_GUTHJON_000_010","To be honest, I wasn't sure you could pull it off."
+50,"TEXT_LUCKMD112_03617_GUTHJON_000_011","But you did, and I'm a man of my word. Come with me."
+51,"TEXT_LUCKMD112_03617_THANCRED_000_020","I hope you waited for the sundrops to wear off. They work wonders in the dark, but in the light of day they'll only bring you pain."
+52,"TEXT_LUCKMD112_03617_GUTHJON_000_030","<sigh> Every time I step out of those mines the sky seems to get brighter. I'd never leave them if the air weren't so stale..."
+53,"TEXT_LUCKMD112_03617_GUTHJON_000_031","But you're not come to hear my grievances. You're after leonine."
+54,"TEXT_LUCKMD112_03617_GUTHJON_000_032","First, I have to ask─you ever heard of rockworms?"
+55,"TEXT_LUCKMD112_03617_THANCRED_000_033","Rockworms? I know them by another name, though I'm fairly certain the locals call them knockers."
+56,"TEXT_LUCKMD112_03617_GUTHJON_000_034","Aye, that they do. Whatever you want to call them, those little bastards may be the answer to your troubles."
+57,"TEXT_LUCKMD112_03617_GUTHJON_000_035","They can fit through cracks and crevices down where we could never hope to reach."
+58,"TEXT_LUCKMD112_03617_GUTHJON_000_036","And, on occasion, they come back with something valuable."
+59,"TEXT_LUCKMD112_03617_THANCRED_000_037","They dig up leonine in the mines?"
+60,"TEXT_LUCKMD112_03617_GUTHJON_000_038","It's a rare occurrence, but yes. That said, it usually amounts to no more than a few flakes."
+61,"TEXT_LUCKMD112_03617_THANCRED_000_039","Well our only other option sounds tantamount to suicide. So how can we draw out these rockworms?"
+62,"TEXT_LUCKMD112_03617_GUTHJON_000_040","Over by that shack you'll find a bag full of smoke bombs. Set off a few in the mines and you'll flush them out in no time."
+63,"TEXT_LUCKMD112_03617_GUTHJON_000_041","Once they're out in the open, knock 'em senseless and check their backs."
+64,"TEXT_LUCKMD112_03617_GUTHJON_000_042","I should warn you this method of <hex:021A020203>mining<hex:021A020103>, if you can even call it that, is used as a last resort on account of what little they're like to bring back. You'll want to cover as much ground as you can if you hope to find anything of value."
+65,"TEXT_LUCKMD112_03617_GUTHJON_000_043","Assuming you do find something, bring it here and I'll have a look."
+66,"TEXT_LUCKMD112_03617_THANCRED_000_044","We should split up if we're to cover more ground as he suggests. If you can cover these three areas on your map, I'll see to the parts between them."
+67,"TEXT_LUCKMD112_03617_GUTHJON_000_050","The smoke bombs are on top of the crates next to the shack just over yonder. You can't miss them."
+68,"TEXT_LUCKMD112_03617_GUTHJON_000_060","I see you've got the smoke bombs, but they'll do you no good out here."
+69,"TEXT_LUCKMD112_03617_GUTHJON_000_061","Light them in the mines and the rockworms will come scampering out before long."
+70,"TEXT_LUCKMD112_03617_SYSTEM_000_070","The air in the mines grows thick with smoke. Nearby you hear the soft rumbling of stones."
+71,"TEXT_LUCKMD112_03617_SYSTEM_000_080","You sense a hostile presence beneath the rubble!"
+72,"TEXT_LUCKMD112_03617_THANCRED_000_090","I found my fair share of rocks. Hopefully there's leonine among them."
+73,"TEXT_LUCKMD112_03617_GUTHJON_000_100","There you are. Find anything promising?"
+74,"TEXT_LUCKMD112_03617_GUTHJON_000_101","Between the two of you I'd say you've got quite the haul."
+75,"TEXT_LUCKMD112_03617_GUTHJON_000_102","Best get comfortable, friends. It's going to take time for me to sift through all this."
+76,"TEXT_LUCKMD112_03617_SYSTEM_000_081",""

@@ -2,182 +2,182 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_LUCKUN001_03986_SEQ_00,彷徨階梯亭的塞埃拉似乎想起了什麼。
-1,TEXT_LUCKUN001_03986_SEQ_01,和塞埃拉進行了交談。她很擔心第十三世界的英雄候補——蛇心。和石之家的蛇心談談。
-2,TEXT_LUCKUN001_03986_SEQ_02,和蛇心進行了交談。在聽聞了第一世界發生的事情之後，為了見到席爾瓦，蛇心希望可以前往第一世界。為此需要藉助於里昂熱的力量，將蛇心的靈魂注入吸魂晶。在拂曉之間的<hex:02280CFF05>EObj<hex:F61EB09E0103>等待於里昂熱的作業完成。
-3,TEXT_LUCKUN001_03986_SEQ_03,待於里昂熱的作業完成，獲得了<hex:022811FF0A>EventItem<hex:F61E90690103>。將<hex:022811FF0A>EventItem<hex:F61E90690103>交給水晶都博物陳列館的拜克·拉各。
-4,TEXT_LUCKUN001_03986_SEQ_04,將<hex:022811FF0A>EventItem<hex:F61E90690103>交給了拜克·拉各。和水晶都彷徨階梯亭的塞埃拉談談。
-5,TEXT_LUCKUN001_03986_SEQ_05,在和塞埃拉交談的過程中，與蛇心還有拜克·拉各匯合了。在拜克·拉各的提議下，眾人決定嘗試觀測第十三世界。和彷徨階梯亭的緹納談談。
-6,TEXT_LUCKUN001_03986_SEQ_06,和緹納進行了交談。為了打開時空狹縫，蛇心決定要進行修行。
-7,TEXT_LUCKUN001_03986_SEQ_07,
-8,TEXT_LUCKUN001_03986_SEQ_08,
-9,TEXT_LUCKUN001_03986_SEQ_09,
-10,TEXT_LUCKUN001_03986_SEQ_10,
-11,TEXT_LUCKUN001_03986_SEQ_11,
-12,TEXT_LUCKUN001_03986_SEQ_12,
-13,TEXT_LUCKUN001_03986_SEQ_13,
-14,TEXT_LUCKUN001_03986_SEQ_14,
-15,TEXT_LUCKUN001_03986_SEQ_15,
-16,TEXT_LUCKUN001_03986_SEQ_16,
-17,TEXT_LUCKUN001_03986_SEQ_17,
-18,TEXT_LUCKUN001_03986_SEQ_18,
-19,TEXT_LUCKUN001_03986_SEQ_19,
-20,TEXT_LUCKUN001_03986_SEQ_20,
-21,TEXT_LUCKUN001_03986_SEQ_21,
-22,TEXT_LUCKUN001_03986_SEQ_22,
-23,TEXT_LUCKUN001_03986_SEQ_23,
-24,TEXT_LUCKUN001_03986_TODO_00,和石之家的蛇心對話
-25,TEXT_LUCKUN001_03986_TODO_01,在<hex:02280CFF05>EObj<hex:F61EB09E0103>等待
-26,TEXT_LUCKUN001_03986_TODO_02,將<hex:022811FF0A>EventItem<hex:F61E90690103>交給博物陳列館的拜克·拉各
-27,TEXT_LUCKUN001_03986_TODO_03,和塞埃拉對話
-28,TEXT_LUCKUN001_03986_TODO_04,和緹納對話
-29,TEXT_LUCKUN001_03986_TODO_05,
-30,TEXT_LUCKUN001_03986_TODO_06,
-31,TEXT_LUCKUN001_03986_TODO_07,
-32,TEXT_LUCKUN001_03986_TODO_08,
-33,TEXT_LUCKUN001_03986_TODO_09,
-34,TEXT_LUCKUN001_03986_TODO_10,
-35,TEXT_LUCKUN001_03986_TODO_11,
-36,TEXT_LUCKUN001_03986_TODO_12,
-37,TEXT_LUCKUN001_03986_TODO_13,
-38,TEXT_LUCKUN001_03986_TODO_14,
-39,TEXT_LUCKUN001_03986_TODO_15,
-40,TEXT_LUCKUN001_03986_TODO_16,
-41,TEXT_LUCKUN001_03986_TODO_17,
-42,TEXT_LUCKUN001_03986_TODO_18,
-43,TEXT_LUCKUN001_03986_TODO_19,
-44,TEXT_LUCKUN001_03986_TODO_20,
-45,TEXT_LUCKUN001_03986_TODO_21,
-46,TEXT_LUCKUN001_03986_TODO_22,
-47,TEXT_LUCKUN001_03986_TODO_23,
-48,TEXT_LUCKUN001_03986_CYELLA_000_001,看著你和賞金獵人們，我突然想到，<hex:02100103>阿爾博特他們那些光之戰士也是相互信任，<hex:02100103>彌補著彼此之間的不足。
-49,TEXT_LUCKUN001_03986_CYELLA_000_002,如果我也能擁有那樣的同伴的話……<hex:02100103>或許在第十三世界的戰爭當中就能夠守護故鄉……<hex:02100103>算了，說這些假設的話也沒有任何意義。
-50,TEXT_LUCKUN001_03986_CYELLA_000_003,說起來，我記得你也見過蛇心吧？
-51,TEXT_LUCKUN001_03986_Q1_000_000,如何作答？
-52,TEXT_LUCKUN001_03986_A1_000_001,曾經跟在艾里迪布斯身邊的那個少年？
-53,TEXT_LUCKUN001_03986_A1_000_002,是誰來著……？
-54,TEXT_LUCKUN001_03986_CYELLA_000_005,沒錯。<hex:02100103>他跟我一樣是第十三世界的英雄候補，<hex:02100103>原本是必死的命運，後被艾里迪布斯所救。
-55,TEXT_LUCKUN001_03986_CYELLA_000_006,他跟我一樣是第十三世界的英雄候補，<hex:02100103>原本是必死的命運，後被艾里迪布斯所救。<hex:02100103>之後作為其使者，應該前往了原初世界……
-56,TEXT_LUCKUN001_03986_CYELLA_000_007,在從死亡的深淵被救上來之後，我和他談了談，<hex:02100103>我認為我們要盡力拯救其他世界的生命，<hex:02100103>在不同的世界達成未完的使命。
-57,TEXT_LUCKUN001_03986_CYELLA_000_008,總之，曾經的主人艾里迪布斯如今已經被封印，<hex:02100103>我有點在意他現在究竟過得怎麼樣。<hex:02100103>希望他能夠像我一樣發現新的使命……
-58,TEXT_LUCKUN001_03986_CYELLA_000_009,如果方便的話，希望你回到原初世界的時候，<hex:02100103>可以聽聽他的想法，並給他出出主意。
-59,TEXT_LUCKUN001_03986_UNUKALHAI_000_050,好久不見啊。<hex:02100103>找我有事嗎？
-60,TEXT_LUCKUN001_03986_UNUKALHAI_000_051,你去往第一世界之後的事情，<hex:02100103>我已經從於里昂熱那裡聽說了……
-61,TEXT_LUCKUN001_03986_UNUKALHAI_000_052,沒想到你居然能夠遇到她……
-62,TEXT_LUCKUN001_03986_UNUKALHAI_000_053,我把她當成是和自己有著相同境遇的同伴。<hex:02100103>生前我們並不知道彼此的存在，只是各自對抗著毀滅的命運，<hex:02100103>只可惜最終未能成功……
-63,TEXT_LUCKUN001_03986_UNUKALHAI_000_054,在被無影從死亡的深淵中救上來之後，<hex:02100103>我們在時空狹縫中以不滅之人的身份相遇。<hex:02100103>之後我們共享了相同的悔恨和希望……
-64,TEXT_LUCKUN001_03986_UNUKALHAI_000_055,我曾經將自己未能拯救世界的原因<hex:02100103>歸於自己太過年輕實力不足……但其實不是的。<hex:02100103>那只是為了欺騙自己的借口。
-65,TEXT_LUCKUN001_03986_UNUKALHAI_000_056,正如她所說，如果能像第一世界的英雄們那樣<hex:02100103>擁有可以相互信賴的同伴的話，或許我們也能……
-66,TEXT_LUCKUN001_03986_UNUKALHAI_000_057,跟三鬪神的戰鬥結束後，我一直在思考。<hex:02100103>為了成為拯救世界的英雄，自己能夠做些什麼。<hex:02100103>如果能見到席爾瓦的話，我感覺就能找到答案了。
-67,TEXT_LUCKUN001_03986_UNUKALHAI_000_058,就沒有什麼能夠前往第一世界的方法嗎？
-68,TEXT_LUCKUN001_03986_Q2_000_000,如何作答？
-69,TEXT_LUCKUN001_03986_A2_000_001,使用吸魂晶的話……
-70,TEXT_LUCKUN001_03986_A2_000_002,如果是像賢人們那樣只帶走靈魂的話……
-71,TEXT_LUCKUN001_03986_UNUKALHAI_000_060,保存靈魂和記憶的魔具——吸魂晶。<hex:02100103>賢人們就是使用那個回到了原初世界啊。
-72,TEXT_LUCKUN001_03986_UNUKALHAI_100_060,按照你的說法，即便擁有吸魂晶，<hex:02100103>賢人們能夠在世界之間穿梭也幾乎可以稱得上是奇蹟。<hex:02100103>通常來說，想要再次實現是不可能的吧……
-73,TEXT_LUCKUN001_03986_UNUKALHAI_200_060,不過得益於艾里迪布斯，<hex:02100103>擁有了「不死性」的我或許……！
-74,TEXT_LUCKUN001_03986_UNUKALHAI_300_060,<hex:022903EB0203>，拜託了！<hex:02100103>可以助我一臂之力嗎？
-75,TEXT_LUCKUN001_03986_Q2_100_000,要做什麼？
-76,TEXT_LUCKUN001_03986_A2_100_001,聯繫於里昂熱
-77,TEXT_LUCKUN001_03986_A2_100_002,說到吸魂晶就想到……
-78,TEXT_LUCKUN001_03986_URIANGER_000_061,久等了。<hex:02100103>聽聞事態緊急，我便火速趕來了……
-79,TEXT_LUCKUN001_03986_URIANGER_000_062,嗯……<hex:02100103>這個少年的確擁有超越之力，<hex:02100103>而且也從無影那裡習得了作為「不滅之人」的轉生之術……
-80,TEXT_LUCKUN001_03986_URIANGER_000_063,但即便如此也不能保證能夠順利來往於兩個世界之間。<hex:02100103>一旦失敗，不知道你的靈魂會怎樣……
-81,TEXT_LUCKUN001_03986_UNUKALHAI_000_064,即使是這樣我也要前往第一世界！<hex:02100103>為了成為英雄，我需要去找到自己力所能及之事！<hex:02100103>所以於里昂熱……拜託了！！
-82,TEXT_LUCKUN001_03986_URIANGER_000_065,如果是為了尋找你的生存之道，<hex:02100103>我當然願意幫這個忙。
-83,TEXT_LUCKUN001_03986_URIANGER_000_066,<hex:022903EB0203>請在這裡稍候。
-84,TEXT_LUCKUN001_03986_CYELLA_000_070,希望他就像我這個在酒館裡成為了英雄故事的訴說者一樣，<hex:02100103>也可以找到屬於自己的生存理由。<hex:02100103>可以去聽聽蛇心的想法嗎？
-85,TEXT_LUCKUN001_03986_URIANGER_000_100,久等了。<hex:02100103>準備工作已經順利完成，<hex:02100103>這樣就可以把那個少年的靈魂帶到第一世界了。
-86,TEXT_LUCKUN001_03986_URIANGER_000_101,他就像是第一世界的我們，屬於靈魂的實體化。<hex:02100103>所以他跟吸魂晶很匹配。
-87,TEXT_LUCKUN001_03986_URIANGER_000_102,帶到第一世界之後，需要將靈魂從吸魂晶中取出，<hex:02100103>再次進行實體化……
-88,TEXT_LUCKUN001_03986_URIANGER_000_103,說起來無影在顯現之時必須要依附在人的身上，<hex:02100103>如果讓他以靈魂狀態持續活動的話，想必會有一定的風險。<hex:02100103>就像當初在第一世界的我們，數年間就迎來了極限一樣……
-89,TEXT_LUCKUN001_03986_URIANGER_000_104,所以不管怎麼說，一定要找到<hex:02100103>讓那個少年獲取肉體的方法……
-90,TEXT_LUCKUN001_03986_URIANGER_000_105,總之關於在第一世界的靈魂實體化一事，<hex:02100103>還是找靈魂方面的專家拜克·拉各閣下探討一下比較好。<hex:02100103>他應該是一直泡在水晶都的博物陳列館裡。
-91,TEXT_LUCKUN001_03986_URIANGER_000_106,那麼我就回到自己的任務中去了。<hex:02100103>預祝他旅途順利……
-92,TEXT_LUCKUN001_03986_BEQLUGG_000_150,我還以為是誰呢，原來是你啊。<hex:02100103>你這麼快就開始想念這個世界所以回來了嗎？
-93,TEXT_LUCKUN001_03986_BEQLUGG_000_151,什麼！<hex:02100103>你想讓從原初世界帶來的靈魂實體化？！
-94,TEXT_LUCKUN001_03986_BEQLUGG_000_152,就在前不久為了讓你的同伴們回到原初世界，<hex:02100103>我可沒少費心，<hex:02100103>這次你居然跟我說又帶來了新的？！
-95,TEXT_LUCKUN001_03986_Q3_000_000,要說什麼？
-96,TEXT_LUCKUN001_03986_A3_000_001,對不起
-97,TEXT_LUCKUN001_03986_A3_000_002,快點實體化
-98,TEXT_LUCKUN001_03986_BEQLUGG_000_154,唔……算了。<hex:02100103>既然是你帶來的，想必肯定是有原因的。
-99,TEXT_LUCKUN001_03986_BEQLUGG_000_155,喂！就算再要好的關係也要講分寸的知道嗎？<hex:02100103>算了……既然是你帶來的，<hex:02100103>想必肯定是有原因的。
-100,TEXT_LUCKUN001_03986_BEQLUGG_000_156,將大家的靈魂實體化的方法，<hex:02100103>我已經從水晶公那裡聽說了。
-101,TEXT_LUCKUN001_03986_BEQLUGG_000_157,不過要進行實體化的話，出現的會是一絲不掛的姿態。<hex:02100103>不論對方是什麼人，全裸登場肯定都會難為情吧。<hex:02100103>所以希望你可以找個地方等一下……
-102,TEXT_LUCKUN001_03986_BEQLUGG_000_158,嗯，想要介紹給彷徨階梯亭的服務員認識嗎？<hex:02100103>那你就去那個叫塞埃拉的人那裡等著吧。
-103,TEXT_LUCKUN001_03986_CYELLA_000_200,什麼？<hex:02100103>有想介紹給我認識的人？
-104,TEXT_LUCKUN001_03986_CYELLA_000_201,然後呢？<hex:02100103>那個人什麼時候出現？
-105,TEXT_LUCKUN001_03986_BEQLUGG_000_202,讓你們久等了。<hex:02100103>沒想到搭配衣服會花那麼久。
-106,TEXT_LUCKUN001_03986_CYELLA_000_203,恩莫族……？<hex:02100103>這就是你想介紹給我認識的人嗎？
-107,TEXT_LUCKUN001_03986_UNUKALHAI_000_204,呀，你就是席爾瓦吧。
-108,TEXT_LUCKUN001_03986_CYELLA_000_205,難道……是蛇心嗎？
-109,TEXT_LUCKUN001_03986_UNUKALHAI_000_206,是的。<hex:02100103>真沒想到會以這樣的方式重逢。
-110,TEXT_LUCKUN001_03986_CYELLA_000_207,說的是呢。<hex:02100103>沒有無影介入要想穿過時空狹縫，<hex:02100103>並不是件容易的事。
-111,TEXT_LUCKUN001_03986_Q3_100_000,要說什麼？
-112,TEXT_LUCKUN001_03986_A3_100_001,不戴面具沒問題嗎？
-113,TEXT_LUCKUN001_03986_A3_100_002,讓別人看到真容沒問題嗎？
-114,TEXT_LUCKUN001_03986_UNUKALHAI_100_207,我想在這個世界找到自己能做的事情。<hex:02100103>並非是受誰的命令，而是自己所希望的……！
-115,TEXT_LUCKUN001_03986_UNUKALHAI_200_207,所以我已經不需要隱藏內心的面具了。
-116,TEXT_LUCKUN001_03986_BEQLUGG_000_208,走在半路上的時候<hex:02100103>我已經從少年那裡了解了事情的大概……<hex:02100103>酒館的服務員居然是異世界的英雄候補，真是讓我大吃一驚。
-117,TEXT_LUCKUN001_03986_BEQLUGG_100_208,真沒想到會是那時的冒險者……
-118,TEXT_LUCKUN001_03986_CYELLA_100_209,對啊……<hex:02100103>你就是在孚布特王國的城堡中見過的……
-119,TEXT_LUCKUN001_03986_BEQLUGG_200_208,像我們這般長壽的話，<hex:02100103>那些想忘也忘不掉的回憶只會越來越多。
-120,TEXT_LUCKUN001_03986_BEQLUGG_400_208,但是，最近的我開始覺得……<hex:02100103>這也不一定都是壞事……
-121,TEXT_LUCKUN001_03986_CYELLA_500_209,或許……吧……
-122,TEXT_LUCKUN001_03986_BEQLUGG_300_208,抱歉跑題了。<hex:02100103>那就進入正題吧。<hex:02100103>關於第十三世界，可以跟我們詳細介紹一下嗎？
-123,TEXT_LUCKUN001_03986_CYELLA_200_209,
-124,TEXT_LUCKUN001_03986_CYELLA_000_209,在第十三世界中，除了我以外，還有很多位英雄候補。<hex:02100103>但是他們為了輕鬆獲得力量，染指了封印著蠻神之力的「聖石」，<hex:02100103>結果接連被黑暗所吞噬。
-125,TEXT_LUCKUN001_03986_CYELLA_000_210,雖然一部分人選擇了繼續抵抗，<hex:02100103>但我們並不知道彼此的存在，所以只能孤軍奮戰最終落敗。<hex:02100103>而戰死的靈魂後來被無影所救……
-126,TEXT_LUCKUN001_03986_CYELLA_000_211,如果當時就能有可以相互信賴的朋友，<hex:02100103>可以相互依靠的同伴的話，結果可能就會不一樣了。
-127,TEXT_LUCKUN001_03986_UNUKALHAI_000_212,我聽說在第一世界中被光之泛濫吞噬的空無大地<hex:02100103>正在逐漸重生。
-128,TEXT_LUCKUN001_03986_UNUKALHAI_000_213,我聽說在第一世界中被代表著停滯的光芒籠罩的世界<hex:02100103>如今已經重新奪回了黑夜。
-129,TEXT_LUCKUN001_03986_UNUKALHAI_000_214,既然如此，那被暗之泛濫所侵蝕的第十三世界，<hex:02100103>應該也有希望重生吧？
-130,TEXT_LUCKUN001_03986_CYELLA_000_215,可是就連那些無影，也將第十三世界稱為壞掉的垃圾，<hex:02100103>將其置於鏡像世界合併的計劃之外不是嗎？
-131,TEXT_LUCKUN001_03986_CYELLA_000_216,要想讓這樣的世界重生……可能嗎……？<hex:02100103>你怎麼看？
-132,TEXT_LUCKUN001_03986_Q4_000_000,如何作答？
-133,TEXT_LUCKUN001_03986_A4_000_001,有可能！
-134,TEXT_LUCKUN001_03986_A4_000_002,暗之世界的樣子可慘了
-135,TEXT_LUCKUN001_03986_CYELLA_000_218,被你這樣一說，我也突然覺得有希望了。<hex:02100103>阿爾博特當初也是這樣煽動我們的……
-136,TEXT_LUCKUN001_03986_CYELLA_000_219,你也去過第十三世界嗎？！<hex:02100103>這、這樣啊……還真是哪裡都有你的足跡啊……
-137,TEXT_LUCKUN001_03986_BEQLUGG_000_220,嗯，身為外人的我看來，<hex:02100103>如果不能正確把握現狀，是無法制定對策的。<hex:02100103>要不要先去看看這個第十三世界？
-138,TEXT_LUCKUN001_03986_Q5_000_000,如何作答？
-139,TEXT_LUCKUN001_03986_A5_000_001,你有什麼線索嗎？
-140,TEXT_LUCKUN001_03986_A5_000_002,用水晶塔的力量打開虛無界之門！
-141,TEXT_LUCKUN001_03986_BEQLUGG_000_222,關於那座塔，我調查過記錄有所了解，<hex:02100103>如果那樣做的話，這個世界會遭到魔王級妖異的侵略的！！
-142,TEXT_LUCKUN001_03986_BEQLUGG_000_223,這第一世界曾經有過一夥人，<hex:02100103>打穿了次元的壁壘並研究召喚魔物的法術。
-143,TEXT_LUCKUN001_03986_Q6_000_000,要說什麼？
-144,TEXT_LUCKUN001_03986_A6_000_001,我對其殘黨有印象
-145,TEXT_LUCKUN001_03986_A6_000_002,你是說緹納嗎？
-146,TEXT_LUCKUN001_03986_UNUKALHAI_000_225,沒錯！<hex:02100103>如果借用那個名為緹納的少年的力量的話，<hex:02100103>或許就能觀測第十三世界了吧！
-147,TEXT_LUCKUN001_03986_BEQLUGG_000_226,那我就去研究一下具體的觀測方法好了……<hex:02100103>我把這個私語草給你們用於聯絡，<hex:02100103>如果有什麼進展的話就呼叫我吧。
-148,TEXT_LUCKUN001_03986_UNUKALHAI_100_226,拜克·拉各先生，謝謝你。<hex:02100103>我也會努力做好力所能及之事的。
-149,TEXT_LUCKUN001_03986_BEQLUGG_000_230,想要介紹給彷徨階梯亭的服務員認識嗎？<hex:02100103>那你就去那個叫塞埃拉的人那裡等著吧。
-150,TEXT_LUCKUN001_03986_TAYNOR_000_250,咦，<hex:022903EB0203>，今天有什麼事嗎？
-151,TEXT_LUCKUN001_03986_CERIGG_000_251,站在你旁邊的是服務員姐姐和……<hex:02100103>沒見過的少年啊。
-152,TEXT_LUCKUN001_03986_UNUKALHAI_000_252,其實……我不是這個世界的人。<hex:02100103>我是來……
-153,TEXT_LUCKUN001_03986_TAYNOR_000_253,原來如此……<hex:02100103>我曾經的確是修行過在次元的壁壘上打洞，<hex:02100103>並從遙遠的世界召喚魔物之術。
-154,TEXT_LUCKUN001_03986_TAYNOR_000_254,結果卻被吸入了名為空洞的洞穴裡，<hex:02100103>從而被關在了時空狹縫中。
-155,TEXT_LUCKUN001_03986_UNUKALHAI_000_255,那還能打開通往第十三世界的大門嗎……！
-156,TEXT_LUCKUN001_03986_TAYNOR_000_256,僅憑我的魔力是無法打開能通往異世界的洞穴的。<hex:02100103>當初是因為和奈貝爾特一起，二人合力才成功的。<hex:02100103>如今他不在了，已經……
-157,TEXT_LUCKUN001_03986_UNUKALHAI_000_257,那要不要試一下我的力量？<hex:02100103>目測我和緹納無論是肉體年齡還是魔力儲量都很接近。<hex:02100103>只要多加練習配合的話，說不定能成功！
-158,TEXT_LUCKUN001_03986_TAYNOR_000_258,但是想要立刻開始也很困難……<hex:02100103>我和奈貝爾特在成功使用那個法術之前<hex:02100103>不知道積累了多少修行……
-159,TEXT_LUCKUN001_03986_UNUKALHAI_100_258,突然出現還說要借用你的力量，<hex:02100103>我知道這樣做的確很失禮。
-160,TEXT_LUCKUN001_03986_UNUKALHAI_200_258,但是對於現在的我來說，<hex:02100103>唯有依靠你和大家的力量了……！<hex:02100103>這都是為了奪回故鄉……
-161,TEXT_LUCKUN001_03986_CYELLA_000_259,抱歉打擾一下……
-162,TEXT_LUCKUN001_03986_CYELLA_000_260,寄存在我這裡的英雄們的水晶中，<hex:02100103>還留有微弱的他們的記憶殘渣。<hex:02100103>想必其中凝聚著光之戰士們強烈的情感吧。
-163,TEXT_LUCKUN001_03986_CYELLA_000_261,話說蛇心，<hex:02100103>我記得你好像擁有讀取蠻神思維的能力對吧？
-164,TEXT_LUCKUN001_03986_UNUKALHAI_000_262,……原來是這樣！<hex:02100103>我可以通過乙太來讀取意識和記憶，<hex:02100103>那殘留在水晶中的東西不也一樣……！
-165,TEXT_LUCKUN001_03986_CYELLA_000_263,那我這就去準備水晶。
-166,TEXT_LUCKUN001_03986_UNUKALHAI_000_264,這就是第一世界的英雄的記憶……
-167,TEXT_LUCKUN001_03986_CYELLA_000_265,如何？有關於法術的記憶嗎？
-168,TEXT_LUCKUN001_03986_UNUKALHAI_000_266,這、這是……！<hex:02100103>多麼……多麼強烈的情感……！
-169,TEXT_LUCKUN001_03986_UNUKALHAI_000_267,從結論來看，術式是作為記憶深深地烙印在其中。<hex:02100103>和想要拯救唯一的朋友……也就是緹納<hex:02100103>這一強烈的想法一起……
-170,TEXT_LUCKUN001_03986_TAYNOR_000_268,奈貝爾特……
-171,TEXT_LUCKUN001_03986_TAYNOR_000_269,我明白了……如果你們不介意，我願意幫忙。<hex:02100103>不，是請允許我來幫忙。
-172,TEXT_LUCKUN001_03986_UNUKALHAI_100_269,緹納，謝謝你……
-173,TEXT_LUCKUN001_03986_CERIGG_000_270,雖然魔法方面的話題我依然搞不懂……<hex:02100103>不過不要做出過於危險的事哦？
-174,TEXT_LUCKUN001_03986_CERIGG_000_271,嗯，有你在我就放心多了。<hex:02100103>既然他本人如此有幹勁，<hex:02100103>那我也不好再說什麼。
-175,TEXT_LUCKUN001_03986_CYELLA_000_272,修行如果有了進展記得告訴我。<hex:02100103>我也不能一直放著酒館那邊的工作不管。
-176,TEXT_LUCKUN001_03986_UNUKALHAI_000_275,不過真沒想到席爾瓦居然會當酒館的服務員……
-177,TEXT_LUCKUN001_03986_CYELLA_000_280,蛇心的樣貌看起來依然如此年幼，<hex:02100103>大概是將靈魂實體化的緣故吧。
-178,TEXT_LUCKUN001_03986_BEQLUGG_000_285,我去研究一下第十三世界的觀測方法。<hex:02100103>如果有什麼進展的話，就用那個用於聯絡的私語草呼叫我吧。
+0,"TEXT_LUCKUN001_03986_SEQ_00","Cyella is not finished with you yet."
+1,"TEXT_LUCKUN001_03986_SEQ_01","Cyella speaks to you of Unukalhai, a fellow lost soul from the Thirteenth shard. Though he formerly served Elidibus, with the emissary gone, he will be wanting for purpose─a feeling Cyella knows all too well. Concerned for the boy's well-being, she asks that you offer him your support when next you meet in the Source."
+2,"TEXT_LUCKUN001_03986_SEQ_02","You find Unukalhai in the Rising Stones. It seems he too remembers Cyella─who he knows as Cylva─fondly from their meeting after the fall of the Thirteenth, and is indeed at a loose end as she speculated. In light of both of these truths, he wonders if he mightn't seek her counsel as to what course he should pursue next. The two of you ask the opinion of Urianger, who confirms that this could theoretically be accomplished with the use of a spirit vessel, and agrees to perform the necessary magicks."
+3,"TEXT_LUCKUN001_03986_SEQ_03","After only a short wait, Urianger presents you with Unukalhai's spirit vessel. He mentions that transferring the boy into the vessel posed little problem, as he─much like the Ascians with whom you have become so familiar─is a spirit without permanent corporeal form, but cautions you that this very state may pose a problem for Unukalhai at some point in the future."
+4,"TEXT_LUCKUN001_03986_SEQ_04","After crossing to the First, you seek out Beq Lugg. Though they are a bit put out by your recklessness in bringing another soul across the rift, they confirm that they can draw Unukalhai from the vessel and reconstitute him. At your insistence, they also agree to meet you at the Wandering Stairs when the task is accomplished, that you might drop a hint to Cyella in the meantime."
+5,"TEXT_LUCKUN001_03986_SEQ_05","You keep Cyella waiting in suspense for longer than intended before Beq Lugg and Unukalhai make their appearance. When the discussion turns to the history of the Thirteenth, he wonders aloud if it might not be possible to restore balance to that world in the same way you did for the First. Beq Lugg suggests that a thorough understanding of the state of affairs there is necessary to truly know one way or the other. For that, however, you will need to open a gate to the void."
+6,"TEXT_LUCKUN001_03986_SEQ_06","Taynor, resident expert on hollows and the creation thereof, is thankfully not far away, and Unukalhai wastes no time in asking him if he can open a voidgate. Taynor is initially reticent, pointing out that he is unable to perform a spell of the necessary power without assistance, and that it took him and Nyelbert years of training before they were able to do any such thing─but Cyella suggests that Unukalhai use his talent to intuit via aether the memories and emotions that remain in Nyelbert's crystal. This enables him to understand much of what is required for the technique, as well as how badly Nyelbert wanted to save Taynor from his accidental exile. Moved by his friend's dedication, Taynor is inspired to join hands with Unukalhai and put the power to create hollows to good use at last."
+7,"TEXT_LUCKUN001_03986_SEQ_07",""
+8,"TEXT_LUCKUN001_03986_SEQ_08",""
+9,"TEXT_LUCKUN001_03986_SEQ_09",""
+10,"TEXT_LUCKUN001_03986_SEQ_10",""
+11,"TEXT_LUCKUN001_03986_SEQ_11",""
+12,"TEXT_LUCKUN001_03986_SEQ_12",""
+13,"TEXT_LUCKUN001_03986_SEQ_13",""
+14,"TEXT_LUCKUN001_03986_SEQ_14",""
+15,"TEXT_LUCKUN001_03986_SEQ_15",""
+16,"TEXT_LUCKUN001_03986_SEQ_16",""
+17,"TEXT_LUCKUN001_03986_SEQ_17",""
+18,"TEXT_LUCKUN001_03986_SEQ_18",""
+19,"TEXT_LUCKUN001_03986_SEQ_19",""
+20,"TEXT_LUCKUN001_03986_SEQ_20",""
+21,"TEXT_LUCKUN001_03986_SEQ_21",""
+22,"TEXT_LUCKUN001_03986_SEQ_22",""
+23,"TEXT_LUCKUN001_03986_SEQ_23",""
+24,"TEXT_LUCKUN001_03986_TODO_00","Speak with Unukalhai in the Rising Stones."
+25,"TEXT_LUCKUN001_03986_TODO_01","Find a decent spot to await Urianger's return."
+26,"TEXT_LUCKUN001_03986_TODO_02","Deliver Unukalhai's spirit vessel to Beq Lugg at the Cabinet of Curiosity."
+27,"TEXT_LUCKUN001_03986_TODO_03","Speak with Cyella."
+28,"TEXT_LUCKUN001_03986_TODO_04","Speak with Taynor."
+29,"TEXT_LUCKUN001_03986_TODO_05",""
+30,"TEXT_LUCKUN001_03986_TODO_06",""
+31,"TEXT_LUCKUN001_03986_TODO_07",""
+32,"TEXT_LUCKUN001_03986_TODO_08",""
+33,"TEXT_LUCKUN001_03986_TODO_09",""
+34,"TEXT_LUCKUN001_03986_TODO_10",""
+35,"TEXT_LUCKUN001_03986_TODO_11",""
+36,"TEXT_LUCKUN001_03986_TODO_12",""
+37,"TEXT_LUCKUN001_03986_TODO_13",""
+38,"TEXT_LUCKUN001_03986_TODO_14",""
+39,"TEXT_LUCKUN001_03986_TODO_15",""
+40,"TEXT_LUCKUN001_03986_TODO_16",""
+41,"TEXT_LUCKUN001_03986_TODO_17",""
+42,"TEXT_LUCKUN001_03986_TODO_18",""
+43,"TEXT_LUCKUN001_03986_TODO_19",""
+44,"TEXT_LUCKUN001_03986_TODO_20",""
+45,"TEXT_LUCKUN001_03986_TODO_21",""
+46,"TEXT_LUCKUN001_03986_TODO_22",""
+47,"TEXT_LUCKUN001_03986_TODO_23",""
+48,"TEXT_LUCKUN001_03986_CYELLA_000_001","Seeing the lot of you together like that─it reminds me of the old days. Ardbert and the rest, drinking and bickering and laughing... Drove each other half-mad at times, but there was never any question of who'd be there when times got tough."
+49,"TEXT_LUCKUN001_03986_CYELLA_000_002","Can't help but wonder, can I? If I'd had companions like that back home, could it have been saved?"
+50,"TEXT_LUCKUN001_03986_CYELLA_000_003","I'm not the only one who tried, though each of us stood alone. There was Unukalhai..."
+51,"TEXT_LUCKUN001_03986_Q1_000_000","What will you say?"
+52,"TEXT_LUCKUN001_03986_A1_000_001","We've met. He was working with Elidibus at the time."
+53,"TEXT_LUCKUN001_03986_A1_000_002","That nigh-unpronounceable name sounds familiar..."
+54,"TEXT_LUCKUN001_03986_CYELLA_000_005","Yes... He, too, was one would-be savior of the Thirteenth, and was spared his fated demise by Ascian devices."
+55,"TEXT_LUCKUN001_03986_CYELLA_000_006","Another would-be savior of the Thirteenth─a young man. He was plucked from the jaws of death by Elidibus, and last I knew, had gone to the Source to serve as his herald."
+56,"TEXT_LUCKUN001_03986_CYELLA_000_007","We spoke once, after the destruction of our world. If the others could be saved, we thought, we yet had parts to play."
+57,"TEXT_LUCKUN001_03986_CYELLA_000_008","What he's up to now that Elidibus is gone, though, I have no idea. Has he found himself a new role, as I have? Or does he feel as adrift as we were back then?"
+58,"TEXT_LUCKUN001_03986_CYELLA_000_009","If you encounter him in the Source, I ask that you help him find a way forward─just as you have helped all of us here."
+59,"TEXT_LUCKUN001_03986_UNUKALHAI_000_050","Well met, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. What brings you here today?"
+60,"TEXT_LUCKUN001_03986_UNUKALHAI_000_051","Urianger did apprise me of your travels in the First. And of what became of Elidibus, at long last..."
+61,"TEXT_LUCKUN001_03986_UNUKALHAI_000_052","But I was not aware that you were working with Cylva."
+62,"TEXT_LUCKUN001_03986_UNUKALHAI_000_053","I consider her a comrade of sorts, though our time together was short. Looking upon the twisted remains of the world you tried to save creates a bond that few can understand."
+63,"TEXT_LUCKUN001_03986_UNUKALHAI_000_054","At that time, we spoke of what we could hope to achieve with our newfound immortality...and of our regrets."
+64,"TEXT_LUCKUN001_03986_UNUKALHAI_000_055","Though I then believed what had happened to be the natural result of my age and inexperience, I now think this was merely the least painful explanation I could offer myself."
+65,"TEXT_LUCKUN001_03986_UNUKALHAI_000_056","Cylva is right─we ought to have sought each other out before it was too late."
+66,"TEXT_LUCKUN001_03986_UNUKALHAI_000_057","I would not make the same mistake again. With the Warring Triad gone, I am indeed in need of new purpose. But to seek it alone is folly."
+67,"TEXT_LUCKUN001_03986_UNUKALHAI_000_058","I should like to speak with Cylva─assuming such a thing is possible. As I mentioned, she understands how I feel more than any other."
+68,"TEXT_LUCKUN001_03986_Q2_000_000","What will you say?"
+69,"TEXT_LUCKUN001_03986_A2_000_001","There may be a way..."
+70,"TEXT_LUCKUN001_03986_A2_000_002","Of course. All I require is <hex:021A020203>your soul<hex:021A020103>..."
+71,"TEXT_LUCKUN001_03986_UNUKALHAI_000_060","You speak of the spirit vessel, correct? The means by which the Scions returned to the Source."
+72,"TEXT_LUCKUN001_03986_UNUKALHAI_100_060","If I understand the principles at work correctly, then it was a near miracle that you succeeded in bringing them back without killing them."
+73,"TEXT_LUCKUN001_03986_UNUKALHAI_200_060","If Elidibus is to be believed, however, my current state makes me something of an exception in matters of life and death!"
+74,"TEXT_LUCKUN001_03986_UNUKALHAI_300_060","In which case, there is naught to be lost from making the attempt. Please, say you'll help."
+75,"TEXT_LUCKUN001_03986_Q2_100_000","What will you say?"
+76,"TEXT_LUCKUN001_03986_A2_100_001","We need an expert in spirit vessels."
+77,"TEXT_LUCKUN001_03986_A2_100_002","I have absolutely no idea what I'm doing!"
+78,"TEXT_LUCKUN001_03986_URIANGER_000_061","Pray forgive the delay. Thou didst seek my council?"
+79,"TEXT_LUCKUN001_03986_URIANGER_000_062","Aye, the gifts granted young Unukalhai by Hydaelyn and the Ascians may prove a boon in easing the transition."
+80,"TEXT_LUCKUN001_03986_URIANGER_000_063","However, I know not to what extent, nor what might befall thy spirit should it be lost betwixt worlds."
+81,"TEXT_LUCKUN001_03986_UNUKALHAI_000_064","Nevertheless...I know that this is my path forward. Please, Urianger."
+82,"TEXT_LUCKUN001_03986_URIANGER_000_065","Very well. If thou believest that thou shalt find new purpose in the First, I will do all in my power to see thee safely there."
+83,"TEXT_LUCKUN001_03986_URIANGER_000_066","We shall be but a few moments. Mayhap a worthy tome might keep thee occupied whilst I perform the necessary magicks?"
+84,"TEXT_LUCKUN001_03986_CYELLA_000_070","Obviously the boy can't take up work in a tavern, but there must be some means to start him toward a new goal."
+85,"TEXT_LUCKUN001_03986_URIANGER_000_100","'Tis done. Pray guard his vessel well."
+86,"TEXT_LUCKUN001_03986_URIANGER_000_101","Unukalhai is as I and the other Scions were on the First─a soul with form, yet no true body. Thus 'twas a simple matter to transfer him to the vessel using the selfsame process as before."
+87,"TEXT_LUCKUN001_03986_URIANGER_000_102","To withdraw his essence once across the rift ought to prove similarly straightforward. However..."
+88,"TEXT_LUCKUN001_03986_URIANGER_000_103","I fear that such an existence cannot sustain itself indefinitely. Look to the Ascians' example─their persistent use of flesh-and-blood vessels surely hath cause."
+89,"TEXT_LUCKUN001_03986_URIANGER_000_104","Be it danger akin to that which would have befallen us had we not returned to the Source, I know not─but the time may come when the boy requireth a fully corporeal form."
+90,"TEXT_LUCKUN001_03986_URIANGER_000_105","Should this come to pass, I trust that thou shalt come to his aid."
+91,"TEXT_LUCKUN001_03986_URIANGER_000_106","For the moment, however, thou needst only convey the spirit vessel to Beq Lugg. Farewell...both of thee."
+92,"TEXT_LUCKUN001_03986_BEQLUGG_000_150","Back again, are you? I'm flattered that you've grown so fond of Norvrandt─or I would be, but you have that expression you lot always wear when you're about to ask me for something..."
+93,"TEXT_LUCKUN001_03986_BEQLUGG_000_151","You did <hex:021A020203>what<hex:021A020103>!?"
+94,"TEXT_LUCKUN001_03986_BEQLUGG_000_152","After all of the perils your friends faced, and the labors we undertook to return them to your world, you've brought another soul across the rift? Have you no common sense?"
+95,"TEXT_LUCKUN001_03986_Q3_000_000","What will you say?"
+96,"TEXT_LUCKUN001_03986_A3_000_001","Nope!"
+97,"TEXT_LUCKUN001_03986_A3_000_002","It's fiiine. Just work your magic! Magicks. Whichever."
+98,"TEXT_LUCKUN001_03986_BEQLUGG_000_154","...Clearly. Nevertheless, for my own peace of mind, I'll assume you have a compelling reason for this."
+99,"TEXT_LUCKUN001_03986_BEQLUGG_000_155","There had better be a very compelling reason for all of this, whelp."
+100,"TEXT_LUCKUN001_03986_BEQLUGG_000_156","Removing spirit from vessel will be easy enough, I suppose."
+101,"TEXT_LUCKUN001_03986_BEQLUGG_000_157","However, it requires a few moments without your breathing down my neck. Also, your friend is unlikely to materialize with clothes on, so I doubt they'll want an audience. You should wait here─perhaps take the opportunity for some self-reflection?"
+102,"TEXT_LUCKUN001_03986_BEQLUGG_000_158","Oh, very well. At least I tried. We'll find you at the Wandering Stairs directly, then."
+103,"TEXT_LUCKUN001_03986_CYELLA_000_200","You want me to speak with someone? Very well─you've done the same at my request often enough."
+104,"TEXT_LUCKUN001_03986_CYELLA_000_201","How long are we meant to wait for this friend of yours? I do have work to do, you know."
+105,"TEXT_LUCKUN001_03986_BEQLUGG_000_202","Ah, here you are. Pardon the delay─it took some time to acquire robes of an appropriate size."
+106,"TEXT_LUCKUN001_03986_CYELLA_000_203","Is this them?"
+107,"TEXT_LUCKUN001_03986_UNUKALHAI_000_204","Cylva!"
+108,"TEXT_LUCKUN001_03986_CYELLA_000_205","Wh─ Unukalhai!?"
+109,"TEXT_LUCKUN001_03986_UNUKALHAI_000_206","Indeed, it is I. Trust me─I can hardly believe that I'm here myself!"
+110,"TEXT_LUCKUN001_03986_CYELLA_000_207","I should think so! When I sent <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> to ask after you, it never occurred to me that you might be able to cross the rift without Ascian aid..."
+111,"TEXT_LUCKUN001_03986_Q3_100_000","What will you say?"
+112,"TEXT_LUCKUN001_03986_A3_100_001","No mysterious mask?"
+113,"TEXT_LUCKUN001_03986_A3_100_002","Lost your taste for subterfuge, I see."
+114,"TEXT_LUCKUN001_03986_UNUKALHAI_100_207","My choices and my reasons are my own, now."
+115,"TEXT_LUCKUN001_03986_UNUKALHAI_200_207","If I am to have faith in them─in myself─I cannot hide who I am."
+116,"TEXT_LUCKUN001_03986_BEQLUGG_000_208","Speaking of which..."
+117,"TEXT_LUCKUN001_03986_BEQLUGG_100_208","Unukalhai was kind enough to fill me in─unlike <hex:021A020203>some<hex:021A020103>─and I was interested to hear of an erstwhile hero of the Thirteenth serving libations at the Wandering Stairs. But that this hero should be <hex:021A020203>you<hex:021A020103> surpasses the scope of even my considerable imaginings!"
+118,"TEXT_LUCKUN001_03986_CYELLA_100_209","Was that you at Gruenes Licht? So long ago?"
+119,"TEXT_LUCKUN001_03986_BEQLUGG_200_208","Not so long to me...or you, mayhap. Though I had thought I might at last put those days behind me."
+120,"TEXT_LUCKUN001_03986_BEQLUGG_400_208","...But perhaps this is for the best. They're not all bad memories."
+121,"TEXT_LUCKUN001_03986_CYELLA_500_209","They never are."
+122,"TEXT_LUCKUN001_03986_BEQLUGG_300_208","I should very much like to hear <hex:021A020203>your<hex:021A020103> story─should you be willing to share it."
+123,"TEXT_LUCKUN001_03986_CYELLA_200_209","（★未使用／削除予定★）"
+124,"TEXT_LUCKUN001_03986_CYELLA_000_209","Our world, like this one, had its share of would-be heroes, myself and Unukalhai among them. Unlike your Warriors of Light, however, each was unaware of─or unconcerned with─our fellows."
+125,"TEXT_LUCKUN001_03986_CYELLA_000_210","But to fight alone is to fall alone, and the insidious aether of the auracite used to seal primals corrupted once-noble souls and turned them, one by one, to Darkness."
+126,"TEXT_LUCKUN001_03986_CYELLA_000_211","Even those who resisted this fate could not escape its consequences─no surprise, perhaps, as we continued to struggle in solitude. We were spared by Ascian machinations...but only as our world met its death."
+127,"TEXT_LUCKUN001_03986_UNUKALHAI_000_212","...But what if that death could be undone? I was told that much of the First was consumed by Light, as our home was by Darkness, yet balance and life are being restored to even that scoured land they call “the Empty.”"
+128,"TEXT_LUCKUN001_03986_UNUKALHAI_000_213","...But what if that death could be undone? I was told that much of the First was consumed by Light, as our home was by Darkness, yet the night has returned to this world."
+129,"TEXT_LUCKUN001_03986_UNUKALHAI_000_214","If such a thing is possible, then why not the reverse? Could we not bring Light back to the Thirteenth?"
+130,"TEXT_LUCKUN001_03986_CYELLA_000_215","Even the Ascians considered the Thirteenth lost. Thus was it excluded from the Rejoining..."
+131,"TEXT_LUCKUN001_03986_CYELLA_000_216","But what say you? You have a way of making miracles happen."
+132,"TEXT_LUCKUN001_03986_Q4_000_000","What will you say?"
+133,"TEXT_LUCKUN001_03986_A4_000_001","Anything is possible."
+134,"TEXT_LUCKUN001_03986_A4_000_002","The World of Darkness was not in a state I'd consider salvageable."
+135,"TEXT_LUCKUN001_03986_CYELLA_000_218","That doesn't sound like an empty platitude, coming from you. It was the same with Ardbert..."
+136,"TEXT_LUCKUN001_03986_CYELLA_000_219","You speak almost as though you've really seen it. Wait..."
+137,"TEXT_LUCKUN001_03986_BEQLUGG_000_220","Pardon the interruption, but might I suggest a closer examination of conditions on the Thirteenth before we form any conclusions?"
+138,"TEXT_LUCKUN001_03986_Q5_000_000","What will you say?"
+139,"TEXT_LUCKUN001_03986_A5_000_001","How would we go about that safely?"
+140,"TEXT_LUCKUN001_03986_A5_000_002","We could use the Crystal Tower to open a voidgate, couldn't we? Please?"
+141,"TEXT_LUCKUN001_03986_BEQLUGG_000_222","Have you lost your head!? The Crystal Tower is <hex:021A020203>not<hex:021A020103> a toy, and you are <hex:021A020203>not<hex:021A020103> to use it to unleash great and terrible voidsent upon this world!"
+142,"TEXT_LUCKUN001_03986_BEQLUGG_000_223","According to the records, there was a group who worked out how to open small voidgates, through which to summon minor fell beasts and the like. Magicks of that nature should work, though I am unsure if any with knowledge of the original technique yet live..."
+143,"TEXT_LUCKUN001_03986_Q6_000_000","What will you say?"
+144,"TEXT_LUCKUN001_03986_A6_000_001","That sounds familiar..."
+145,"TEXT_LUCKUN001_03986_A6_000_002","There's one right over there."
+146,"TEXT_LUCKUN001_03986_UNUKALHAI_000_225","How fortunate! Let us inquire with this “Taynor” immediately."
+147,"TEXT_LUCKUN001_03986_BEQLUGG_000_226","Yes, you do that. In the meantime, I will ready a means for peering into the depths of the void without endangering ourselves. Use these to contact me when you're prepared to open the gate."
+148,"TEXT_LUCKUN001_03986_UNUKALHAI_100_226","We shall─at the very first opportunity, I promise!"
+149,"TEXT_LUCKUN001_03986_BEQLUGG_000_230","If you've no inclination to explain yourself further, begone with you."
+150,"TEXT_LUCKUN001_03986_TAYNOR_000_250","It's always a pleasure, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>."
+151,"TEXT_LUCKUN001_03986_CERIGG_000_251","Aye. But who's your friend? I don't believe we've met."
+152,"TEXT_LUCKUN001_03986_UNUKALHAI_000_252","We have not, as I'm not from this world. The situation is rather complicated, but I hope that you might be willing to assist me..."
+153,"TEXT_LUCKUN001_03986_TAYNOR_000_253","Hmm. It is true that we had the means to open such portals."
+154,"TEXT_LUCKUN001_03986_TAYNOR_000_254","We call them “hollows,” and it was through one of these that I was drawn into the rift..."
+155,"TEXT_LUCKUN001_03986_UNUKALHAI_000_255","So it is possible!"
+156,"TEXT_LUCKUN001_03986_TAYNOR_000_256","Not with my power alone. I understand the greatness of your need, and were Nyelbert still at my side, I should be glad to make the attempt, but the technique required the combined force of our energies in resonance."
+157,"TEXT_LUCKUN001_03986_UNUKALHAI_000_257","If one person's magicks are insufficient, perhaps I could assist. From what I can sense, our aetherial reserves are roughly equivalent, and our physical similarities suggest that our energies are not incompatible..."
+158,"TEXT_LUCKUN001_03986_TAYNOR_000_258","I fear you underestimate the difficulty of the task. Nyelbert and I were born for this, and even so, it took us years before our efforts were perfectly in step."
+159,"TEXT_LUCKUN001_03986_UNUKALHAI_100_258","I realize that it's a lot to ask considering that we've just met, but could we not at least attempt it?"
+160,"TEXT_LUCKUN001_03986_UNUKALHAI_200_258","Yours is the only such magic I've ever heard of, and if we might actually be able to save my home..."
+161,"TEXT_LUCKUN001_03986_CYELLA_000_259","May I interject?"
+162,"TEXT_LUCKUN001_03986_CYELLA_000_260","You will recall that the crystals in my possession preserve the memories of the former Warriors of Light, including Nyelbert's, in aetherial form."
+163,"TEXT_LUCKUN001_03986_CYELLA_000_261","And Unukalhai here has a particular talent for interpreting the minds and motives of aetherial beings─the primals."
+164,"TEXT_LUCKUN001_03986_UNUKALHAI_000_262","If I could apply the same principles to interpret Nyelbert's crystal..."
+165,"TEXT_LUCKUN001_03986_CYELLA_000_263","An experiment worth trying, at the least. I'll fetch it."
+166,"TEXT_LUCKUN001_03986_UNUKALHAI_000_264","Speak to me, Nyelbert..."
+167,"TEXT_LUCKUN001_03986_CYELLA_000_265","Do his memories of training with Taynor remain?"
+168,"TEXT_LUCKUN001_03986_UNUKALHAI_000_266","They do... And such strong sentiment with them..."
+169,"TEXT_LUCKUN001_03986_UNUKALHAI_000_267","Taynor... You should know that Nyelbert desired nothing so much as to rescue you, his dearest friend. He held so fiercely to his memories of the technique you mastered together because he hoped they might be your salvation."
+170,"TEXT_LUCKUN001_03986_TAYNOR_000_268","Oh, Nyelbert. I..."
+171,"TEXT_LUCKUN001_03986_TAYNOR_000_269","...I won't let them go to waste. I will do what I can to help see the Thirteenth restored."
+172,"TEXT_LUCKUN001_03986_UNUKALHAI_100_269","Thank you."
+173,"TEXT_LUCKUN001_03986_CERIGG_000_270","I won't pretend I understand the half of what's going on here. Just keep them from running headlong into anything too dangerous, will you?"
+174,"TEXT_LUCKUN001_03986_CERIGG_000_271","Nothing to worry about so long as you're around, I'm sure."
+175,"TEXT_LUCKUN001_03986_CYELLA_000_272","Wicked white! I nearly forgot─I've half a dozen orders to fill. You know where to find me when you've made progress with the gate."
+176,"TEXT_LUCKUN001_03986_UNUKALHAI_000_275","What a fascinating place to spend one's days. I should love to hear more about the patrons that have passed through."
+177,"TEXT_LUCKUN001_03986_CYELLA_000_280","He really hasn't aged a day! Not that it should surprise me, of all people, but..."
+178,"TEXT_LUCKUN001_03986_BEQLUGG_000_285","I do so enjoy a new project..."

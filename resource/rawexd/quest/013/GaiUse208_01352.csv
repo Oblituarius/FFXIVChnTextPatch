@@ -2,128 +2,128 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_GAIUSE208_01352_SEQ_00,黃昏灣的寶山想要出發前往烏爾達哈。
-1,TEXT_GAIUSE208_01352_SEQ_01,多瑪難民已經準備向烏爾達哈出發了。和黃昏灣的人族車夫談談。
-2,TEXT_GAIUSE208_01352_SEQ_02,聽說前往烏爾達哈的道路上出現了魔物。為了確保安全，前往西薩納蘭的金錘台地，在<hex:02280CFF05>EObj<hex:F61E92750103>進行張望，討伐出現的魔物。
-3,TEXT_GAIUSE208_01352_SEQ_03,成功討伐了魔物，確保了通行道路的安全。前往西薩納蘭的地平關，向人族車夫報告。
-4,TEXT_GAIUSE208_01352_SEQ_04,多瑪難民的第一批人已經到達烏爾達哈了。前往烏爾達哈的流沙屋，向阿爾菲諾報告。
-5,TEXT_GAIUSE208_01352_SEQ_05,將難民已經到達的消息報告給阿爾菲諾了。難民們接下來會在沙鐘旅亭休養生息。
-6,TEXT_GAIUSE208_01352_SEQ_06,
-7,TEXT_GAIUSE208_01352_SEQ_07,
-8,TEXT_GAIUSE208_01352_SEQ_08,
-9,TEXT_GAIUSE208_01352_SEQ_09,
-10,TEXT_GAIUSE208_01352_SEQ_10,
-11,TEXT_GAIUSE208_01352_SEQ_11,
-12,TEXT_GAIUSE208_01352_SEQ_12,
-13,TEXT_GAIUSE208_01352_SEQ_13,
-14,TEXT_GAIUSE208_01352_SEQ_14,
-15,TEXT_GAIUSE208_01352_SEQ_15,
-16,TEXT_GAIUSE208_01352_SEQ_16,
-17,TEXT_GAIUSE208_01352_SEQ_17,
-18,TEXT_GAIUSE208_01352_SEQ_18,
-19,TEXT_GAIUSE208_01352_SEQ_19,
-20,TEXT_GAIUSE208_01352_SEQ_20,
-21,TEXT_GAIUSE208_01352_SEQ_21,
-22,TEXT_GAIUSE208_01352_SEQ_22,
-23,TEXT_GAIUSE208_01352_SEQ_23,
-24,TEXT_GAIUSE208_01352_TODO_00,和人族車夫對話
-25,TEXT_GAIUSE208_01352_TODO_01,在金錘台地的<hex:02280CFF05>EObj<hex:F61E92750103>張望 討伐出現的魔物
-26,TEXT_GAIUSE208_01352_TODO_02,和地平關的人族車夫對話
-27,TEXT_GAIUSE208_01352_TODO_03,和流沙屋的阿爾菲諾對話
-28,TEXT_GAIUSE208_01352_TODO_04,
-29,TEXT_GAIUSE208_01352_TODO_05,
-30,TEXT_GAIUSE208_01352_TODO_06,
-31,TEXT_GAIUSE208_01352_TODO_07,
-32,TEXT_GAIUSE208_01352_TODO_08,
-33,TEXT_GAIUSE208_01352_TODO_09,
-34,TEXT_GAIUSE208_01352_TODO_10,
-35,TEXT_GAIUSE208_01352_TODO_11,
-36,TEXT_GAIUSE208_01352_TODO_12,
-37,TEXT_GAIUSE208_01352_TODO_13,
-38,TEXT_GAIUSE208_01352_TODO_14,
-39,TEXT_GAIUSE208_01352_TODO_15,
-40,TEXT_GAIUSE208_01352_TODO_16,
-41,TEXT_GAIUSE208_01352_TODO_17,
-42,TEXT_GAIUSE208_01352_TODO_18,
-43,TEXT_GAIUSE208_01352_TODO_19,
-44,TEXT_GAIUSE208_01352_TODO_20,
-45,TEXT_GAIUSE208_01352_TODO_21,
-46,TEXT_GAIUSE208_01352_TODO_22,
-47,TEXT_GAIUSE208_01352_TODO_23,
-48,TEXT_GAIUSE208_01352_SYSTEM_100_000,需要先放棄進行中的主線任務才可領取此任務。<hex:02100103>請在快捷指令的任務情報中打開日誌，然後放棄該任務。
-49,TEXT_GAIUSE208_01352_HOUZAN_000_000,多虧了你，孩子們到都齊了。<hex:02100103>我家老父親寶明雖然不甚適應國外環境，<hex:02100103>但也已經把行李收拾妥當。
-50,TEXT_GAIUSE208_01352_HOUZAN_000_001,只是因為人數眾多，不得不採用分批移動之法。<hex:02100103>第一批人裡有老人和小孩，還有負責照顧大家的我。
-51,TEXT_GAIUSE208_01352_HOUZAN_000_002,他們應該已經在黃昏灣的入口處集合了。<hex:02100103>你也和我們一起來吧，請你轉告篷車的車夫，<hex:02100103>告訴他可以出發了。
-52,TEXT_GAIUSE208_01352_HOUMEI_000_005,這就是外國的交通工具嗎……<hex:02100103>真沒想到有一天會坐上鳥拉的車。
-53,TEXT_GAIUSE208_01352_GYOSHA01348_000_010,哎呀，已經做好出發的準備了嗎？<hex:02100103>但很遺憾，現在還不能立馬出發。
-54,TEXT_GAIUSE208_01352_GYOSHA01348_000_011,聽說前方那座橋的附近出現了魔物，<hex:02100103>而平常這一帶根本是見不到那種魔物的。<hex:02100103>剛才銅刃團的人告訴我要提高警惕呢。
-55,TEXT_GAIUSE208_01352_GYOSHA01348_000_012,如果載滿小孩和老人的篷車被襲擊的話，後果不堪設想啊……<hex:02100103>這麼說來，你不是很有實力麼。<hex:02100103>請你先去探路，確保前方的安全吧。
-56,TEXT_GAIUSE208_01352_GYOSHA01348_000_013,你去金錘台地的<hex:02280CFF05>EObj<hex:F61E92750103>進行張望，<hex:02100103>如果有發現魔物，就立即將其討伐。<hex:02100103>在得知安全之前，我會一直在附近等著。
-57,TEXT_GAIUSE208_01352_GYOSHA01348_000_015,你去金錘台地的<hex:02280CFF05>EObj<hex:F61E92750103>進行張望，<hex:02100103>如果有發現魔物，就立即將其討伐。<hex:02100103>在得知安全之前，我會一直在附近等著。
-58,TEXT_GAIUSE208_01352_HOUZAN_000_015,第一批人已經準備就緒。<hex:02100103>現在隨時都能出發了……<hex:02100103>但卻出現了麻煩事。
-59,TEXT_GAIUSE208_01352_HOUMEI_000_015,陸行鳥可真夠臭的，不過還好有口罩可戴。<hex:02100103>接下來要去的烏爾達哈……會是個什麼樣的地方呢……
-60,TEXT_GAIUSE208_01352_YOUZAN_000_015,陸行鳥真臭啊！<hex:02100103>坐這個還不如坐船呢！
-61,TEXT_GAIUSE208_01352_KOHARU_000_015,陸行鳥的羽毛好濃密啊，真可愛！
-62,TEXT_GAIUSE208_01352_HOUMEI_000_020,陸行鳥可真夠臭的，不過還好有口罩可戴。<hex:02100103>接下來要去的烏爾達哈……會是個什麼樣的地方呢……
-63,TEXT_GAIUSE208_01352_HOUZAN_000_020,終於要出發前往烏爾達哈了。<hex:02100103>感謝你對我們的幫助。
-64,TEXT_GAIUSE208_01352_YOUZAN_000_020,沒想到陸行鳥篷車坐著比馬車還舒服！
-65,TEXT_GAIUSE208_01352_KOHARU_000_020,陸行鳥篷車坐著還挺舒服的！
-66,TEXT_GAIUSE208_01352_GYOSHA01348_100_020,你已經討伐了魔物啊，幫大忙了！<hex:02100103>好了，差不多可以出發了。
-67,TEXT_GAIUSE208_01352_HOUZAN_000_021,感謝你討伐了魔物。<hex:02100103>這樣一來，我們就可以順利前往烏爾達哈了。
-68,TEXT_GAIUSE208_01352_HOUMEI_000_022,像你這樣的人叫做冒險者吧？<hex:02100103>竟然能毫無懼色地與魔物戰鬥。<hex:02100103>哎呀呀，真是了不起啊。
-69,TEXT_GAIUSE208_01352_HOUZAN_000_023,在我們的故鄉，沒有冒險者這樣的職業。<hex:02100103>如果有你們這樣的勇者在的話，<hex:02100103>多瑪或許就不會被……
-70,TEXT_GAIUSE208_01352_HOUZAN_000_024,不……這種想法太天真了。<hex:02100103>對加雷馬帝國發動起義戰爭，並且敗北，<hex:02100103>這一切都是我們多瑪人自己的責任……
-71,TEXT_GAIUSE208_01352_HOUMEI_000_025,領導人夕霧大人在之前的戰鬥中，失去了許多的同胞。<hex:02100103>即便如此，她還是率領著我們戰鬥至最後一刻。
-72,TEXT_GAIUSE208_01352_HOUMEI_000_026,而且，在到達這片土地之後，<hex:02100103>她也依然為了我們，四處尋找住處和工作。<hex:02100103>我們真是愧對那位大人啊……
-73,TEXT_GAIUSE208_01352_HOUZAN_000_027,接下來輪到我們表現了。<hex:02100103>這次要加入開拓團，好好活躍一番。
-74,TEXT_GAIUSE208_01352_HOUZAN_000_028,聽說喪靈鐘是個充滿活力的地方。<hex:02100103>我們多瑪人民要發揮出全力，<hex:02100103>努力將那裡建設成更加熱鬧的村落。
-75,TEXT_GAIUSE208_01352_YOUZAN_000_029,<hex:020813E905FF07>姐姐<hex:FF07>哥哥<hex:03>，你是冒險者吧？！<hex:02100103>為什麼、為什麼成為冒險者呢？
-76,TEXT_GAIUSE208_01352_Q1_000_000,為什麼成為冒險者？
-77,TEXT_GAIUSE208_01352_A1_000_001,追求力量
-78,TEXT_GAIUSE208_01352_A1_000_002,追求名聲
-79,TEXT_GAIUSE208_01352_A1_000_003,追求財富
-80,TEXT_GAIUSE208_01352_A1_000_004,不回答
-81,TEXT_GAIUSE208_01352_YOUZAN_000_030,果然麼？！<hex:02100103>我也覺得冒險者很強！<hex:02100103><hex:020813E905FF07>姐姐<hex:FF07>哥哥<hex:03>真厲害！
-82,TEXT_GAIUSE208_01352_YOUZAN_000_031,名聲？我知道了，就是「義」吧？！<hex:02100103>我們多瑪人也是忠義之民！<hex:02100103><hex:020813E905FF07>姐姐<hex:FF07>哥哥<hex:03>真厲害！
-83,TEXT_GAIUSE208_01352_YOUZAN_000_032,財富？財富指的就是金錢嗎？<hex:02100103>我家爺爺也最喜歡錢了！大人們都很喜歡錢呢！<hex:02100103><hex:020813E905FF07>姐姐<hex:FF07>哥哥<hex:03>真厲害！
-84,TEXT_GAIUSE208_01352_YOUZAN_000_033,什麼啊，為什麼不告訴我啊！<hex:02100103>算了……我一會兒問我爸爸去！
-85,TEXT_GAIUSE208_01352_KOHARU_000_034,接下來換我！<hex:02100103><hex:020813E905FF07>姐姐<hex:FF07>哥哥<hex:03>，你告訴我……<hex:02100103>喪靈鐘是個什麼樣的地方？
-86,TEXT_GAIUSE208_01352_Q2_000_000,喪靈鐘是個什麼樣的地方？
-87,TEXT_GAIUSE208_01352_A2_000_000,那裡聚集著很多冒險者
-88,TEXT_GAIUSE208_01352_A2_000_001,那裡有很多岩石
-89,TEXT_GAIUSE208_01352_A2_000_002,那裡有石之家
-90,TEXT_GAIUSE208_01352_A2_000_003,不回答
-91,TEXT_GAIUSE208_01352_KOHARU_000_035,冒險者是指<hex:020813E905FF07>姐姐<hex:FF07>哥哥<hex:03>這樣的人吧？<hex:02100103>冒險者都很強嗎……我好期待啊！
-92,TEXT_GAIUSE208_01352_KOHARU_000_036,有那麼多的岩石嗎？<hex:02100103>也有花兒的話就好了……
-93,TEXT_GAIUSE208_01352_KOHARU_000_037,石之家？是指用岩石建造的房子嗎？<hex:02100103>雖然不知道是什麼樣的，但我好期待啊！
-94,TEXT_GAIUSE208_01352_KOHARU_000_038,什麼嘛……不告訴我嗎？小氣！<hex:02100103>哼，等到了喪靈鐘，我會自己去轉轉的！
-95,TEXT_GAIUSE208_01352_YOUZAN_000_039,這次換我！<hex:02100103><hex:020813E905FF07>姐姐<hex:FF07>哥哥<hex:03>真的好強啊，<hex:02100103>是如何變得這麼強大的呢？
-96,TEXT_GAIUSE208_01352_Q3_000_000,如何變得這麼強大的？
-97,TEXT_GAIUSE208_01352_A3_000_001,通過冒險
-98,TEXT_GAIUSE208_01352_A3_000_002,通過打倒魔物
-99,TEXT_GAIUSE208_01352_A3_000_003,通過訓練
-100,TEXT_GAIUSE208_01352_A3_000_004,不回答
-101,TEXT_GAIUSE208_01352_YOUZAN_000_040,果然是通過冒險麼！<hex:02100103>那一定去過很多地方了吧！<hex:02100103><hex:020813E905FF07>姐姐<hex:FF07>哥哥<hex:03>好厲害啊！
-102,TEXT_GAIUSE208_01352_YOUZAN_000_041,是通過打倒剛才那樣的魔物嗎？！<hex:02100103>那一定打倒過很多魔物吧！<hex:02100103><hex:020813E905FF07>姐姐<hex:FF07>哥哥<hex:03>好厲害啊！
-103,TEXT_GAIUSE208_01352_YOUZAN_000_042,訓練！果然是通過訓練嗎？！<hex:02100103>爸爸也說過「男兒當自強」！<hex:02100103><hex:020813E905FF07>姐姐<hex:FF07>哥哥<hex:03>好厲害啊！
-104,TEXT_GAIUSE208_01352_YOUZAN_000_043,果然是秘密麼……<hex:02100103>也是呢，怎麼能告訴未來「強敵」變強的秘訣呢……
-105,TEXT_GAIUSE208_01352_HOUZAN_000_044,喂喂，我說你們，別老是問問題啊。<hex:02100103><hex:020813E905FF07>姐姐<hex:FF07>哥哥<hex:03>會困擾的哦。
-106,TEXT_GAIUSE208_01352_KOHARU_000_045,怎麼這樣……<hex:02100103>我還有好多問題想問呢。
-107,TEXT_GAIUSE208_01352_YOUZAN_000_046,<hex:020813E905FF07>姐姐<hex:FF07>哥哥<hex:03>，最後問你一個問題！<hex:02100103>我們也能像<hex:020813E905FF07>姐姐<hex:FF07>哥哥<hex:03>那樣，<hex:02100103>成為帥氣的冒險者嗎？！
-108,TEXT_GAIUSE208_01352_YOUZAN_000_047,真的？！太好了！<hex:02100103>我長大後要成為冒險者！
-109,TEXT_GAIUSE208_01352_KOHARU_000_048,我也是！<hex:02100103>成為像<hex:020813E905FF07>姐姐<hex:FF07>哥哥<hex:03>那樣的冒險者！
-110,TEXT_GAIUSE208_01352_YOUZAN_000_049,對了，我想到了個好點子！<hex:02100103>等到達喪靈鐘之後，<hex:02100103>我們組建個「多瑪冒險者團」吧！
-111,TEXT_GAIUSE208_01352_YOUZAN_000_050,多瑪冒險者團是從壞蛋手中保護多瑪人民的正義集團！<hex:02100103>替天行道，懲罰壞傢伙們！
-112,TEXT_GAIUSE208_01352_KOHARU_000_051,好棒！我贊成！<hex:02100103>接下來要去召集些夥伴們！
-113,TEXT_GAIUSE208_01352_HOUZAN_000_052,好了，我們出發吧。<hex:02100103>你也和我們一起前往烏爾達哈吧。
-114,TEXT_GAIUSE208_01352_HOUMEI_000_060,烏爾達哈麼……<hex:02100103>會是個什麼樣的地方呢……
-115,TEXT_GAIUSE208_01352_HOUZAN_000_060,這就是烏爾達哈麼……<hex:02100103>聽說要我們去流沙屋，<hex:02100103>待我們稍作調整後就去。
-116,TEXT_GAIUSE208_01352_YOUZAN_000_060,有好多圓圓的塔啊……
-117,TEXT_GAIUSE208_01352_KOHARU_000_060,有好多台階……<hex:02100103>這……必須要爬上去嗎……
-118,TEXT_GAIUSE208_01352_GYOSHA01348_000_060,好了，我們到達烏爾達哈了。<hex:02100103>聽說阿爾菲諾在流沙屋。<hex:02100103>你先去跟他通報聲，就說難民已經到了。
-119,TEXT_GAIUSE208_01352_YUGIRI_000_060,同胞們會暫時停留在烏爾達哈。<hex:02100103>這裡的風土人情和多瑪有很大差異……<hex:02100103>希望大家能夠適應啊。
-120,TEXT_GAIUSE208_01352_KSASAGI_000_060,第一批難民已經順利到達烏爾達哈了，<hex:02100103>這還得歸功於你的幫助。謝謝你……
-121,TEXT_GAIUSE208_01352_KIKYOU_000_060,第一批難民到達烏爾達哈後，<hex:02100103>夕霧大人肩上的擔子也輕了些。<hex:02100103>不過，還有很多問題等著我們解決。
-122,TEXT_GAIUSE208_01352_ALPHINAUD_000_060,看來第一批人已經順利到達了。<hex:02100103>大家都平安無事……辛苦你了。
-123,TEXT_GAIUSE208_01352_ALPHINAUD_000_061,沙鐘旅亭也準備就緒了。<hex:02100103>就盡快讓多瑪人民進屋休息吧。<hex:02100103>不好意思，現在我想讓你去一趟喪靈鐘。
-124,TEXT_GAIUSE208_01352_POP_MESSAGE,察覺到了敵人的氣息！
+0,"TEXT_GAIUSE208_01352_SEQ_00","At long last, Hozan and his group are ready to leave Vesper Bay."
+1,"TEXT_GAIUSE208_01352_SEQ_01","The road to Ul'dah may be regularly patrolled by the Brass Blades, but Hozan craves the peace of mind your presence would bring, and has thus requested that you accompany his party to Ul'dah. Speak with the coachman when you are ready to leave."
+2,"TEXT_GAIUSE208_01352_SEQ_02","The coachman is concerned about recent sightings of a fearsome beast near the bridge to Hammerlea, and asks that you travel ahead of the carriage to survey the area. Should you encounter the creature in question, you are to assess the threat it poses, and take appropriate action."
+3,"TEXT_GAIUSE208_01352_SEQ_03","Thanks to you, the road is now safe for travel once more. Retrace your steps and look for the carriage and its coachman outside Horizon."
+4,"TEXT_GAIUSE208_01352_SEQ_04","As Hozan and Homei wax poetical about the debt they owe Yugiri, Yozan and Koharu push the two adults aside and begin peppering you with questions. Your motivations, your experiences, your secrets─they would know them all and more. Fortunately, Hozan intervenes before they have a chance to ask you anything too embarrassing. Plainly fascinated by your chosen way of life, the two children resolve there and then to form a Doman Adventurers' Guild once they reach Revenant's Toll. First, however, they must rest awhile in Ul'dah. Report the group's safe arrival to Alphinaud in the Quicksand."
+5,"TEXT_GAIUSE208_01352_SEQ_05","In a manner you have long since grown accustomed to, Alphinaud begins to speak of your next assignment having scarcely acknowledged the completion of the last. Stifle the sigh that longs to be set free and ask your fellow Scion for further details."
+6,"TEXT_GAIUSE208_01352_SEQ_06",""
+7,"TEXT_GAIUSE208_01352_SEQ_07",""
+8,"TEXT_GAIUSE208_01352_SEQ_08",""
+9,"TEXT_GAIUSE208_01352_SEQ_09",""
+10,"TEXT_GAIUSE208_01352_SEQ_10",""
+11,"TEXT_GAIUSE208_01352_SEQ_11",""
+12,"TEXT_GAIUSE208_01352_SEQ_12",""
+13,"TEXT_GAIUSE208_01352_SEQ_13",""
+14,"TEXT_GAIUSE208_01352_SEQ_14",""
+15,"TEXT_GAIUSE208_01352_SEQ_15",""
+16,"TEXT_GAIUSE208_01352_SEQ_16",""
+17,"TEXT_GAIUSE208_01352_SEQ_17",""
+18,"TEXT_GAIUSE208_01352_SEQ_18",""
+19,"TEXT_GAIUSE208_01352_SEQ_19",""
+20,"TEXT_GAIUSE208_01352_SEQ_20",""
+21,"TEXT_GAIUSE208_01352_SEQ_21",""
+22,"TEXT_GAIUSE208_01352_SEQ_22",""
+23,"TEXT_GAIUSE208_01352_SEQ_23",""
+24,"TEXT_GAIUSE208_01352_TODO_00","Speak with the Hyuran coachman."
+25,"TEXT_GAIUSE208_01352_TODO_01","Survey the road to Ul'dah for any dangerous beasts."
+26,"TEXT_GAIUSE208_01352_TODO_02","Speak with the Hyuran coachman outside Horizon."
+27,"TEXT_GAIUSE208_01352_TODO_03","Speak with Alphinaud at the Quicksand."
+28,"TEXT_GAIUSE208_01352_TODO_04",""
+29,"TEXT_GAIUSE208_01352_TODO_05",""
+30,"TEXT_GAIUSE208_01352_TODO_06",""
+31,"TEXT_GAIUSE208_01352_TODO_07",""
+32,"TEXT_GAIUSE208_01352_TODO_08",""
+33,"TEXT_GAIUSE208_01352_TODO_09",""
+34,"TEXT_GAIUSE208_01352_TODO_10",""
+35,"TEXT_GAIUSE208_01352_TODO_11",""
+36,"TEXT_GAIUSE208_01352_TODO_12",""
+37,"TEXT_GAIUSE208_01352_TODO_13",""
+38,"TEXT_GAIUSE208_01352_TODO_14",""
+39,"TEXT_GAIUSE208_01352_TODO_15",""
+40,"TEXT_GAIUSE208_01352_TODO_16",""
+41,"TEXT_GAIUSE208_01352_TODO_17",""
+42,"TEXT_GAIUSE208_01352_TODO_18",""
+43,"TEXT_GAIUSE208_01352_TODO_19",""
+44,"TEXT_GAIUSE208_01352_TODO_20",""
+45,"TEXT_GAIUSE208_01352_TODO_21",""
+46,"TEXT_GAIUSE208_01352_TODO_22",""
+47,"TEXT_GAIUSE208_01352_TODO_23",""
+48,"TEXT_GAIUSE208_01352_SYSTEM_100_000","To accept this quest, you must abandon the current main scenario quest. Open the corresponding entry in the journal or duty list and select “Abandon.”"
+49,"TEXT_GAIUSE208_01352_HOUZAN_000_000","The first caravan is due to depart shortly, followed by the rest at regular intervals. My family and I─including my stubborn old father Homei─will be traveling in the lead carriage together with young Koharu, whom I believe you've already met."
+50,"TEXT_GAIUSE208_01352_HOUZAN_000_001","Though I understand the road to Ul'dah is regularly patrolled by your Brass Blades, it would give us great comfort if you would agree to accompany us on our journey..."
+51,"TEXT_GAIUSE208_01352_HOUZAN_000_002","Once again, I thank you for your kindness. When you are ready to leave, please inform our coachman."
+52,"TEXT_GAIUSE208_01352_HOUMEI_000_005","A giant bird that one rides as if it were a horse? What a curious creature..."
+53,"TEXT_GAIUSE208_01352_GYOSHA01348_000_010","Eager to be off, are ye? Aye, well, I was meanin' to have a word with ye about that. Runner from the Blades says we might have a problem."
+54,"TEXT_GAIUSE208_01352_GYOSHA01348_000_011","A fierce-lookin' beastie's been sighted south of the bridge to Hammerlea. Might be as someone's eyes are playin' tricks on 'em, o' course, but it don't pay to gamble in this business."
+55,"TEXT_GAIUSE208_01352_GYOSHA01348_000_012","Now I know ye can handle yerself in a fight, but this lot here's another story. So I was thinkin' ye might go on ahead an' have a quick look around─make sure the area's safe, like. An' if ye come across anythin' dangerous, ye know what to do."
+56,"TEXT_GAIUSE208_01352_GYOSHA01348_000_013","When yer satisfied the way's clear, meet us outside Horizon. The Blades tell me the road there's safe, so I reckon we can make it that far on our own─assumin' the selfsame bastards don't try to rob us, that is."
+57,"TEXT_GAIUSE208_01352_GYOSHA01348_000_015","You go on ahead, <hex:02080EE905FF05>miss<hex:FF04>son<hex:03>, an' meet us in Horizon when yer satisfied our beastie problem's solved. We'll be on our way soon enough."
+58,"TEXT_GAIUSE208_01352_HOUZAN_000_015","These reports of a great beast on the road to Ul'dah are most troubling..."
+59,"TEXT_GAIUSE208_01352_HOUMEI_000_015","Fascinating creatures... Whence did they come?"
+60,"TEXT_GAIUSE208_01352_YOUZAN_000_015","Ugh, Grandfather is so lucky. These─<hex:021A020203>hurk<hex:021A020103>!─horsebirds smell terrible!"
+61,"TEXT_GAIUSE208_01352_KOHARU_000_015","Ohh, it's just so...<hex:021A020203>fluffy<hex:021A020103>!"
+62,"TEXT_GAIUSE208_01352_HOUMEI_000_020","I must say, that was a surprisingly pleasant ride! Mayhap the journey to Revenant's Toll will not be so bad after all."
+63,"TEXT_GAIUSE208_01352_HOUZAN_000_020","It pleases me to see you well. Come, let the coachman know we can continue onward to Ul'dah."
+64,"TEXT_GAIUSE208_01352_YOUZAN_000_020","Which do you think would win in a race? A horse or a horsebird?"
+65,"TEXT_GAIUSE208_01352_KOHARU_000_020","They have wings, so does that mean they can fly? And does that mean <hex:021A020203>we<hex:021A020103> can fly if we ride one!?"
+66,"TEXT_GAIUSE208_01352_GYOSHA01348_100_020","So there <hex:021A020203>was<hex:021A020103> a beastie! “Was” bein' the operative word, eh!? Hah hah!"
+67,"TEXT_GAIUSE208_01352_HOUZAN_000_021","Well fought, <hex:02080FE905FF06>madam<hex:FF04>sir<hex:03>, well fought! Ah, if only I were in better health, I should have been proud to stand at your side!"
+68,"TEXT_GAIUSE208_01352_HOUMEI_000_022","Pay my son no mind. He forgets that his responsibilities preclude acts of derring-do."
+69,"TEXT_GAIUSE208_01352_HOUZAN_000_023","Hmph. Be that as it may, I cannot help but envy you. Had we been able to call upon heroes of your strength and skill in Doma, things would have been very different."
+70,"TEXT_GAIUSE208_01352_HOUZAN_000_024","<sigh> But we cannot change the past. Those who fought─and fell─are forever lost to us."
+71,"TEXT_GAIUSE208_01352_HOUMEI_000_025","Lost but not forgotten─Lady Yugiri's kinsmen least of all. They fought fiercest, though they knew full well it was in vain."
+72,"TEXT_GAIUSE208_01352_HOUMEI_000_026","She had every right to walk away, yet she chose to stay. Food, shelter, the promise of a better life─all this and more we owe to her. How does one even begin to repay such a debt?"
+73,"TEXT_GAIUSE208_01352_HOUZAN_000_027","In kind, Father. To she who has given everything, we shall give our all."
+74,"TEXT_GAIUSE208_01352_HOUZAN_000_028","Whatever work there is to be done we shall do without question. Ditch digging, bricklaying, it matters not─Revenant's Toll will grow and prosper by our hands."
+75,"TEXT_GAIUSE208_01352_YOUZAN_000_029","Hey, <hex:020811E905FF05>Miss<hex:FF07>Mister<hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! Koharu and I want to know why you became an adventurer!"
+76,"TEXT_GAIUSE208_01352_Q1_000_000","Why did you become an adventurer?"
+77,"TEXT_GAIUSE208_01352_A1_000_001","To gain power."
+78,"TEXT_GAIUSE208_01352_A1_000_002","To win glory."
+79,"TEXT_GAIUSE208_01352_A1_000_003","To amass a fortune."
+80,"TEXT_GAIUSE208_01352_A1_000_004","To go whither the <hex:021A020203>wild rose<hex:021A020103> blooms."
+81,"TEXT_GAIUSE208_01352_YOUZAN_000_030","I <hex:021A020203>knew<hex:021A020103> it! That's what I told Koharu, but she didn't believe me."
+82,"TEXT_GAIUSE208_01352_YOUZAN_000_031","Glory? Ah, like bringing honor to your family, you mean!? Yes, Father always goes on about that."
+83,"TEXT_GAIUSE208_01352_YOUZAN_000_032","Money, eh? Yes, I want money, too. I could do a lot of things if I had some─well, <hex:021A020203>any<hex:021A020103>..."
+84,"TEXT_GAIUSE208_01352_YOUZAN_000_033","So...you like roses? I think I understand... I mean, they're nice and everything... But don't they grow in lots of places?"
+85,"TEXT_GAIUSE208_01352_KOHARU_000_034","It's <hex:021A020203>my<hex:021A020103> turn now! Excuse me, <hex:020811E905FF05>Miss<hex:FF07>Mister<hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! I've got a question! What's Revenant's Toll like? Is it pretty?"
+86,"TEXT_GAIUSE208_01352_Q2_000_000","How would you describe Revenant's Toll?"
+87,"TEXT_GAIUSE208_01352_A2_000_000","It is a bustling outpost frequented by countless adventurers."
+88,"TEXT_GAIUSE208_01352_A2_000_001","It is a bastion of civilization in a harsh and unforgiving wilderness."
+89,"TEXT_GAIUSE208_01352_A2_000_002","It is home to the Scions of the Seventh Dawn."
+90,"TEXT_GAIUSE208_01352_A2_000_003","It is...a stone's throw from an imperial castrum?"
+91,"TEXT_GAIUSE208_01352_KOHARU_000_035","You mean...there are lots of people there who are just as strong as you!? Oh, I can't wait!"
+92,"TEXT_GAIUSE208_01352_KOHARU_000_036","So...there are lots of rocks and things? It sounds a bit scary...but you'll be there too, won't you?"
+93,"TEXT_GAIUSE208_01352_KOHARU_000_037","Oh, so you live there with your friends! That means you'll always be there to protect us!"
+94,"TEXT_GAIUSE208_01352_KOHARU_000_038","Ha! You can't fool me! No one would <hex:021A020203>ever<hex:021A020103> live that close to a castrum. Liar, liar, breeches on fire!"
+95,"TEXT_GAIUSE208_01352_YOUZAN_000_039","Enough, Koharu! It's my turn again! <hex:020811E905FF05>Miss<hex:FF07>Mister<hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>─when I'm older, I want to be strong like you. What do I have to do?"
+96,"TEXT_GAIUSE208_01352_Q3_000_000","What is the best way to become more powerful?"
+97,"TEXT_GAIUSE208_01352_A3_000_001","Seek out new experiences and adventures."
+98,"TEXT_GAIUSE208_01352_A3_000_002","Fight ferocious beasts."
+99,"TEXT_GAIUSE208_01352_A3_000_003","Train every day."
+100,"TEXT_GAIUSE208_01352_A3_000_004","Buy weapons and armor from Rowena."
+101,"TEXT_GAIUSE208_01352_YOUZAN_000_040","Of course! To be a better adventurer, you need to go <hex:021A020203>adventuring<hex:021A020103>!"
+102,"TEXT_GAIUSE208_01352_YOUZAN_000_041","Like that thing you fought earlier, you mean? Right, right!"
+103,"TEXT_GAIUSE208_01352_YOUZAN_000_042","Aha! So my father was right! How do you do it, then? Come on, tell me! And don't leave anything out!"
+104,"TEXT_GAIUSE208_01352_YOUZAN_000_043","Rowena? Is she nice? Are her weapons cheap? I don't have any money at the moment, but my father might. I'll have to ask him."
+105,"TEXT_GAIUSE208_01352_HOUZAN_000_044","All right, all right─ That's enough questions for <hex:020811E905FF05>Miss<hex:FF07>Mister<hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>."
+106,"TEXT_GAIUSE208_01352_KOHARU_000_045","That's not fair! Why does Yozan get to ask two questions? I want to know about adventuring just as much as he does..."
+107,"TEXT_GAIUSE208_01352_YOUZAN_000_046","Just one more─please! Do you think I could be an adventurer like you one day?"
+108,"TEXT_GAIUSE208_01352_YOUZAN_000_047","Really!? Then I will! Thanks for the advice, <hex:020811E905FF05>Miss<hex:FF07>Mister<hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. I won't forget it!"
+109,"TEXT_GAIUSE208_01352_KOHARU_000_048","I'm going to be an adventurer too!"
+110,"TEXT_GAIUSE208_01352_YOUZAN_000_049","When we get to Revenant's Toll, let's make an Adventurers' Guild for Domans!"
+111,"TEXT_GAIUSE208_01352_YOUZAN_000_050","We'll protect our friends and punish the wicked─just like <hex:020811E905FF05>Miss<hex:FF07>Mister<hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> and Lady Yugiri!"
+112,"TEXT_GAIUSE208_01352_KOHARU_000_051","Yeah! Just like <hex:020811E905FF05>Miss<hex:FF07>Mister<hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> and Lady Yugiri!"
+113,"TEXT_GAIUSE208_01352_HOUZAN_000_052","We can talk more about it in the carriage on the way. Will you be joining us?"
+114,"TEXT_GAIUSE208_01352_HOUMEI_000_060","Would you look at that..."
+115,"TEXT_GAIUSE208_01352_HOUZAN_000_060","It will be good to sleep in a proper bed for a change, even if it's only for a night."
+116,"TEXT_GAIUSE208_01352_YOUZAN_000_060","I bet they could keep out an entire legion with those walls!"
+117,"TEXT_GAIUSE208_01352_KOHARU_000_060","How many steps are there? A hundred? I'm going to count!"
+118,"TEXT_GAIUSE208_01352_GYOSHA01348_000_060","Mind lettin' Master Alphinaud know we're here? I need to stay with the birds."
+119,"TEXT_GAIUSE208_01352_YUGIRI_000_060","I pray they do not grow too accustomed to this treatment. It is a welcome respite, to be sure, but a far cry from what we can expect in Revenant's Toll."
+120,"TEXT_GAIUSE208_01352_KSASAGI_000_060","We welcome your return, <hex:020815E905FF09>Mistress<hex:FF07>Master<hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303>."
+121,"TEXT_GAIUSE208_01352_KIKYOU_000_060","Has the first group arrived already? Wonderful! Pray inform Master Alphinaud at once."
+122,"TEXT_GAIUSE208_01352_ALPHINAUD_000_060","Ah, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. I take it the first group has arrived? Excellent."
+123,"TEXT_GAIUSE208_01352_ALPHINAUD_000_061","Hm? Is there aught else? No, no. I have matters well in hand here. You and Lady Yugiri should travel to Revenant's Toll forthwith."
+124,"TEXT_GAIUSE208_01352_POP_MESSAGE","You feel an eye upon you..."

@@ -2,79 +2,79 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_KINGZD004_05093_SEQ_00,<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整<hex:0249020103><hex:0248020103><hex:02100103>氣球起降所的夏斯·歐伽對年輕人的工作狀態感到無語。
-1,TEXT_KINGZD004_05093_SEQ_01,
-2,TEXT_KINGZD004_05093_SEQ_02,
-3,TEXT_KINGZD004_05093_SEQ_03,
-4,TEXT_KINGZD004_05093_SEQ_04,
-5,TEXT_KINGZD004_05093_SEQ_05,
-6,TEXT_KINGZD004_05093_SEQ_06,
-7,TEXT_KINGZD004_05093_SEQ_07,
-8,TEXT_KINGZD004_05093_SEQ_08,
-9,TEXT_KINGZD004_05093_SEQ_09,
-10,TEXT_KINGZD004_05093_SEQ_10,
-11,TEXT_KINGZD004_05093_SEQ_11,
-12,TEXT_KINGZD004_05093_SEQ_12,
-13,TEXT_KINGZD004_05093_SEQ_13,
-14,TEXT_KINGZD004_05093_SEQ_14,
-15,TEXT_KINGZD004_05093_SEQ_15,
-16,TEXT_KINGZD004_05093_SEQ_16,
-17,TEXT_KINGZD004_05093_SEQ_17,
-18,TEXT_KINGZD004_05093_SEQ_18,
-19,TEXT_KINGZD004_05093_SEQ_19,
-20,TEXT_KINGZD004_05093_SEQ_20,
-21,TEXT_KINGZD004_05093_SEQ_21,
-22,TEXT_KINGZD004_05093_SEQ_22,
-23,TEXT_KINGZD004_05093_SEQ_23,
-24,TEXT_KINGZD004_05093_TODO_00,尋找年輕的氣球機械師
-25,TEXT_KINGZD004_05093_TODO_01,將<hex:022811FF0A>EventItem<hex:F61E92E00103>交給年輕的氣球機械師
-26,TEXT_KINGZD004_05093_TODO_02,和夏斯·歐伽對話
-27,TEXT_KINGZD004_05093_TODO_03,
-28,TEXT_KINGZD004_05093_TODO_04,
-29,TEXT_KINGZD004_05093_TODO_05,
-30,TEXT_KINGZD004_05093_TODO_06,
-31,TEXT_KINGZD004_05093_TODO_07,
-32,TEXT_KINGZD004_05093_TODO_08,
-33,TEXT_KINGZD004_05093_TODO_09,
-34,TEXT_KINGZD004_05093_TODO_10,
-35,TEXT_KINGZD004_05093_TODO_11,
-36,TEXT_KINGZD004_05093_TODO_12,
-37,TEXT_KINGZD004_05093_TODO_13,
-38,TEXT_KINGZD004_05093_TODO_14,
-39,TEXT_KINGZD004_05093_TODO_15,
-40,TEXT_KINGZD004_05093_TODO_16,
-41,TEXT_KINGZD004_05093_TODO_17,
-42,TEXT_KINGZD004_05093_TODO_18,
-43,TEXT_KINGZD004_05093_TODO_19,
-44,TEXT_KINGZD004_05093_TODO_20,
-45,TEXT_KINGZD004_05093_TODO_21,
-46,TEXT_KINGZD004_05093_TODO_22,
-47,TEXT_KINGZD004_05093_TODO_23,
-48,TEXT_KINGZD004_05093_XAXOGAW_000_000,啊，這位旅行者，<hex:02100103>很抱歉要為自家的事麻煩你，<hex:02100103>可以請你去給鐵架塔那邊的一位年輕人送點東西嗎？
-49,TEXT_KINGZD004_05093_XAXOGAW_000_001,我是一位氣球機械師，<hex:02100103>檢查鐵架塔也是工作之一。<hex:02100103>尤其是暴風雨過後，得仔細檢查每個角落是否受到了影響。
-50,TEXT_KINGZD004_05093_XAXOGAW_000_002,這次我把這項工作交給了年輕人……<hex:02100103>可那傢伙卻把最重要的修補材料給忘記了……
-51,TEXT_KINGZD004_05093_XAXOGAW_000_004,鐵架塔在烏托姆地平線一共設定了3處，<hex:02100103>那位年輕人應該就在其中一處進行檢查呢。<hex:02100103>真是不好意思，那就拜託你了。
-52,TEXT_KINGZD004_05093_XAXOGAW_000_008,請把修補材料交給鐵架塔那邊的年輕人。<hex:02100103>鐵架塔在烏托姆地平線一共設定了3處，<hex:02100103>那位年輕人應該就在其中一處進行檢查呢。
-53,TEXT_KINGZD004_05093_SYSTEM_000_010,周圍沒有人影。<hex:02100103>不過附近的塵土有翻新的痕跡，最近應該有誰來過。
-54,TEXT_KINGZD004_05093_SYSTEM_000_011,周圍沒有人影。<hex:02100103>南側的道路上有新的足跡。
-55,TEXT_KINGZD004_05093_NEWMANBALOON05093_000_012,你在找氣球機械師？<hex:02100103>我就是。
-56,TEXT_KINGZD004_05093_NEWMANBALOON05093_100_012,你找我有什麼事嗎？
-57,TEXT_KINGZD004_05093_NEWMANBALOON05093_000_013,你是受大叔所託來給我送修補材料的？<hex:02100103>哎呀，我給忘了。<hex:02100103>謝謝你。
-58,TEXT_KINGZD004_05093_NEWMANBALOON05093_000_014,為了表示感謝，我就告訴你一個只有村裡的人知道的秘密吧。<hex:02100103>這個鐵架塔被稱作「守夜人的睨視」，<hex:02100103>本是用來監視下面森林的輝鱗族的設施。
-59,TEXT_KINGZD004_05093_NEWMANBALOON05093_000_015,過去的戰爭時期還有一些戰士常駐在這裡，<hex:02100103>如今則是獵人們在使用，<hex:02100103>主要用來監視森林裡的動物和魔物的動向。
-60,TEXT_KINGZD004_05093_NEWMANBALOON05093_000_016,但是你看這景色！<hex:02100103>我是因為喜歡廣闊的天空才選擇成為了氣球機械師，<hex:02100103>來到這裡工作真的是樂趣無窮啊！
-61,TEXT_KINGZD004_05093_NEWMANBALOON05093_000_018,哎呀，我得趕緊回去工作了。<hex:02100103>我會用你送來的修補材料認真工作的，<hex:02100103>就請你回去代我跟大叔問個好吧。
-62,TEXT_KINGZD004_05093_NEWMANBALOON05093_000_025,我會用你送來的修補材料認真工作的，<hex:02100103>就請你回去代我跟大叔問個好吧。
-63,TEXT_KINGZD004_05093_XAXOGAW_000_030,謝謝你的付出，真是給你添麻煩了。<hex:02100103>哎呀……這個年輕人感覺連性格都跟氣球一樣飄飄然的。
-64,TEXT_KINGZD004_05093_XAXOGAW_000_031,不過他工作起來還是很認真的，對氣球的喜愛也是貨真價實的。<hex:02100103>我也想著有朝一日把他培養成一名出色的繼承人……<hex:02100103>但得先把他丟三落四的壞毛病糾正過來才行。
-65,TEXT_KINGZD004_05093_XAXOGAW_000_032,總之這次謝謝你了！<hex:02100103>我們最愛的這片森林的美景，<hex:02100103>希望你也能夠喜歡！
-66,TEXT_KINGZD004_05093_VETERANBALLOON05093_000_000,
-67,TEXT_KINGZD004_05093_VETERANBALLOON05093_000_001,
-68,TEXT_KINGZD004_05093_VETERANBALLOON05093_000_002,
-69,TEXT_KINGZD004_05093_VETERANBALLOON05093_000_003,
-70,TEXT_KINGZD004_05093_VETERANBALLOON05093_000_004,
-71,TEXT_KINGZD004_05093_VETERANBALLOON05093_000_008,
-72,TEXT_KINGZD004_05093_NEWMANBALOON05093_000_017,
-73,TEXT_KINGZD004_05093_VETERANBALLOON05093_000_030,
-74,TEXT_KINGZD004_05093_VETERANBALLOON05093_000_031,
-75,TEXT_KINGZD004_05093_VETERANBALLOON05093_000_032,
+0,"TEXT_KINGZD004_05093_SEQ_00","<hex:024804F201FC03><hex:024904F201FD03> Quest Sync<hex:0249020103><hex:0248020103><hex:02100103>Xax Ogaw needs someone to mend the mistake of a forgetful apprentice."
+1,"TEXT_KINGZD004_05093_SEQ_01",""
+2,"TEXT_KINGZD004_05093_SEQ_02",""
+3,"TEXT_KINGZD004_05093_SEQ_03",""
+4,"TEXT_KINGZD004_05093_SEQ_04",""
+5,"TEXT_KINGZD004_05093_SEQ_05",""
+6,"TEXT_KINGZD004_05093_SEQ_06",""
+7,"TEXT_KINGZD004_05093_SEQ_07",""
+8,"TEXT_KINGZD004_05093_SEQ_08",""
+9,"TEXT_KINGZD004_05093_SEQ_09",""
+10,"TEXT_KINGZD004_05093_SEQ_10",""
+11,"TEXT_KINGZD004_05093_SEQ_11",""
+12,"TEXT_KINGZD004_05093_SEQ_12",""
+13,"TEXT_KINGZD004_05093_SEQ_13",""
+14,"TEXT_KINGZD004_05093_SEQ_14",""
+15,"TEXT_KINGZD004_05093_SEQ_15",""
+16,"TEXT_KINGZD004_05093_SEQ_16",""
+17,"TEXT_KINGZD004_05093_SEQ_17",""
+18,"TEXT_KINGZD004_05093_SEQ_18",""
+19,"TEXT_KINGZD004_05093_SEQ_19",""
+20,"TEXT_KINGZD004_05093_SEQ_20",""
+21,"TEXT_KINGZD004_05093_SEQ_21",""
+22,"TEXT_KINGZD004_05093_SEQ_22",""
+23,"TEXT_KINGZD004_05093_SEQ_23",""
+24,"TEXT_KINGZD004_05093_TODO_00","Search for the absent-minded engineer."
+25,"TEXT_KINGZD004_05093_TODO_01","Deliver the watchtower repair supplies to the absent-minded engineer."
+26,"TEXT_KINGZD004_05093_TODO_02","Report to Xax Ogaw."
+27,"TEXT_KINGZD004_05093_TODO_03",""
+28,"TEXT_KINGZD004_05093_TODO_04",""
+29,"TEXT_KINGZD004_05093_TODO_05",""
+30,"TEXT_KINGZD004_05093_TODO_06",""
+31,"TEXT_KINGZD004_05093_TODO_07",""
+32,"TEXT_KINGZD004_05093_TODO_08",""
+33,"TEXT_KINGZD004_05093_TODO_09",""
+34,"TEXT_KINGZD004_05093_TODO_10",""
+35,"TEXT_KINGZD004_05093_TODO_11",""
+36,"TEXT_KINGZD004_05093_TODO_12",""
+37,"TEXT_KINGZD004_05093_TODO_13",""
+38,"TEXT_KINGZD004_05093_TODO_14",""
+39,"TEXT_KINGZD004_05093_TODO_15",""
+40,"TEXT_KINGZD004_05093_TODO_16",""
+41,"TEXT_KINGZD004_05093_TODO_17",""
+42,"TEXT_KINGZD004_05093_TODO_18",""
+43,"TEXT_KINGZD004_05093_TODO_19",""
+44,"TEXT_KINGZD004_05093_TODO_20",""
+45,"TEXT_KINGZD004_05093_TODO_21",""
+46,"TEXT_KINGZD004_05093_TODO_22",""
+47,"TEXT_KINGZD004_05093_TODO_23",""
+48,"TEXT_KINGZD004_05093_XAXOGAW_000_000","You there, keen to do a good deed? I need to get a delivery to one of my apprentices, and none of my own are free to handle the task."
+49,"TEXT_KINGZD004_05093_XAXOGAW_000_001","We maintain the dirigibles in these parts, but my crew is also in charge of makin' sure the watchtowers are in top shape. Since the great storm we've had to take special care to ensure they stay upright."
+50,"TEXT_KINGZD004_05093_XAXOGAW_000_002","I asked one of my new recruits to do a round of the towers, but he forgot to take his damned supplies. Hasn't been the first time, either..."
+51,"TEXT_KINGZD004_05093_XAXOGAW_000_004","Anyroad, there're three towers spread across the Ut'ohmu Horizon, and doubtless the lad is near one of them. It'll be a bit of a trek, but who doesn't like a bit of fresh air, eh?"
+52,"TEXT_KINGZD004_05093_XAXOGAW_000_008","Go find the lad and give him the supplies he needs to do his work. He should be near one of three towers overlookin' the area."
+53,"TEXT_KINGZD004_05093_SYSTEM_000_010","There isn't a soul to be seen, but the dirt nearby has been recently disturbed."
+54,"TEXT_KINGZD004_05093_SYSTEM_000_011","There is no one in sight, but you see fresh footprints following the road heading south."
+55,"TEXT_KINGZD004_05093_NEWMANBALOON05093_000_012","You're looking for someone from the dirigible crew? Well, <hex:021A020203>I'm<hex:021A020103> someone from the dirigible crew, as luck would have it."
+56,"TEXT_KINGZD004_05093_NEWMANBALOON05093_100_012","Did you need something from me?"
+57,"TEXT_KINGZD004_05093_NEWMANBALOON05093_000_013","Supplies from the old man? Damn, I forgot them again! I haven't had a reason to use them yet, so I didn't even notice they were missing. Thank you for coming all the way out here..."
+58,"TEXT_KINGZD004_05093_NEWMANBALOON05093_000_014","I don't have any coin to give you, but I know a few things an outsider wouldn't. For instance, this tower is called the “Nightstalker's Shadow,” and was built so we could keep an eye on the Mamool Ja in the valley below. "
+59,"TEXT_KINGZD004_05093_NEWMANBALOON05093_000_015","It used to be garrisoned by warriors, but these days hunters use it to get a lay of the land and sight potential prey."
+60,"TEXT_KINGZD004_05093_NEWMANBALOON05093_000_016","But I don't care about all that─I'm just here for the view! I joined the dirigible crew in the first place so I could spend my days under the open sky, and coming to this tower is always the high point of my day!"
+61,"TEXT_KINGZD004_05093_NEWMANBALOON05093_000_018","...That being said, I still have to do my work if I want to stay on Xax Ogaw's good side, especially after forgetting those supplies again. I won't return until this tower's as good as new─it'll make the view all the sweeter!"
+62,"TEXT_KINGZD004_05093_NEWMANBALOON05093_000_025","Those supplies will help me make this tower as good as the day it was built. Tell the old man I won't be back until my work is perfect."
+63,"TEXT_KINGZD004_05093_XAXOGAW_000_030","There you are. Hope you didn't have to go from one end of the horizon to the other in your search. He's a good lad, but I always say he doesn't need to ride a dirigible on account of his head already bein' in the clouds."
+64,"TEXT_KINGZD004_05093_XAXOGAW_000_031","But when he can focus, his work is solid, and I can't deny he loves the dirigibles as much as any of us. Even has the potential to take over for me in time, if he can stop bein' so careless."
+65,"TEXT_KINGZD004_05093_XAXOGAW_000_032","But enough about that─I'm sure you're eager for your reward, eh? Take this, and if you ever want to behold the forest in all its beauty, you're welcome to take a voyage into the skies!"
+66,"TEXT_KINGZD004_05093_VETERANBALLOON05093_000_000",""
+67,"TEXT_KINGZD004_05093_VETERANBALLOON05093_000_001",""
+68,"TEXT_KINGZD004_05093_VETERANBALLOON05093_000_002",""
+69,"TEXT_KINGZD004_05093_VETERANBALLOON05093_000_003",""
+70,"TEXT_KINGZD004_05093_VETERANBALLOON05093_000_004",""
+71,"TEXT_KINGZD004_05093_VETERANBALLOON05093_000_008",""
+72,"TEXT_KINGZD004_05093_NEWMANBALOON05093_000_017",""
+73,"TEXT_KINGZD004_05093_VETERANBALLOON05093_000_030",""
+74,"TEXT_KINGZD004_05093_VETERANBALLOON05093_000_031",""
+75,"TEXT_KINGZD004_05093_VETERANBALLOON05093_000_032",""

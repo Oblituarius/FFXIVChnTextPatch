@@ -2,17 +2,17 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_REGSAK6SOLUTIONNINE_00879_UBUYU_000_000,哎呀，你居然會主動與我搭話。<hex:02100103>有什麼需要幫忙的嗎？
-1,TEXT_REGSAK6SOLUTIONNINE_00879_Q1_000_000,想了解什麼？
-2,TEXT_REGSAK6SOLUTIONNINE_00879_A1_000_001,你是做什麼的？
-3,TEXT_REGSAK6SOLUTIONNINE_00879_A1_000_002,這裡是什麼地方？
-4,TEXT_REGSAK6SOLUTIONNINE_00879_A1_000_003,取消
-5,TEXT_REGSAK6SOLUTIONNINE_00879_UBUYU_000_010,我嘛……是住在這裡的一位母親。<hex:02100103>我的孩子收到政府的推薦外出工作了，<hex:02100103>所以我現在應該就是個普普通通的大媽吧。
-6,TEXT_REGSAK6SOLUTIONNINE_00879_UBUYU_000_011,我的工作也被年輕人繼承下來有一段時間了，<hex:02100103>現在變得非常清閒……<hex:02100103>所以才會在這裡跟經過的路人閒聊。
-7,TEXT_REGSAK6SOLUTIONNINE_00879_UBUYU_000_020,此刻所在的住宅區名為九號解決方案……<hex:02100103>在塔裡全部十二層當中，這裡也是屈指可數的大區域。
-8,TEXT_REGSAK6SOLUTIONNINE_00879_UBUYU_000_021,這裡有各類設施。<hex:02100103>包括政府部門，各類商品應有盡有的市場，<hex:02100103>以及琳瑯滿目的商業街。
-9,TEXT_REGSAK6SOLUTIONNINE_00879_UBUYU_000_022,據說那裡還會涉及到一些非法商品……<hex:02100103>不管怎樣，這下應該沒有什麼解決不了的事情了吧？<hex:02100103>所以這一層的名字中才會帶有「解決」二字。
-10,TEXT_REGSAK6SOLUTIONNINE_00879_UBUYU_000_030,清潔工們的工作範圍也會涉及到這一層，<hex:02100103>所以這裡的生活環境非常愜意。<hex:02100103>你要不要也考慮一下移居到這裡？
-11,TEXT_REGSAK6SOLUTIONNINE_00879_UBUYU_000_040,開玩笑啦，其實我現在也感到有些空虛。<hex:02100103>真沒想到武王佐拉加居然會襲擊這裡。<hex:02100103>我們究竟該如何面對這份傷痛呢……
-12,TEXT_REGSAK6SOLUTIONNINE_00879_UBUYU_000_050,雖然發生了很多事，但我不想讓這個名字變成一個謊言。<hex:02100103>如果一堆問題的話，我想斯菲因大人也一定會很擔心的。<hex:02100103>無論是過去現在還是將來，都希望這裡是能解決一切的地方。
-13,TEXT_REGSAK6SOLUTIONNINE_00879_TALK_ACTOR,
+0,"TEXT_REGSAK6SOLUTIONNINE_00879_UBUYU_000_000","Well, this is a pleasure indeed. Care for a little chat, stranger?"
+1,"TEXT_REGSAK6SOLUTIONNINE_00879_Q1_000_000","What will you ask?"
+2,"TEXT_REGSAK6SOLUTIONNINE_00879_A1_000_001","What do you do here?"
+3,"TEXT_REGSAK6SOLUTIONNINE_00879_A1_000_002","What kind of place is this?"
+4,"TEXT_REGSAK6SOLUTIONNINE_00879_A1_000_003","Nothing."
+5,"TEXT_REGSAK6SOLUTIONNINE_00879_UBUYU_000_010","Me? I am but a simple mother and housekeeper here in the city. Well, since my children were awarded government positions and promptly flew the nest, there's not a whole lot of mothering left to do..."
+6,"TEXT_REGSAK6SOLUTIONNINE_00879_UBUYU_000_011","Since I retired, I seem to have altogether too much time on my hands... So I while away the days chatting with passersby such as yourself."
+7,"TEXT_REGSAK6SOLUTIONNINE_00879_UBUYU_000_020","This place is known as Solution Nine. An impressively large feat of engineering, even when compared to Everkeep's eleven other levels."
+8,"TEXT_REGSAK6SOLUTIONNINE_00879_UBUYU_000_021","The city is home to all sorts of facilities: civic advisory services, bustling markets, countless shops and retailers─the list goes on."
+9,"TEXT_REGSAK6SOLUTIONNINE_00879_UBUYU_000_022","Apparently, there's even a sector where you can find, ahem...<hex:021A020203>less-than-official<hex:021A020103> goods. Either way, for we citizens, there's nary a problem that lacks a solution─hence the name."
+10,"TEXT_REGSAK6SOLUTIONNINE_00879_UBUYU_000_030","The cleaners do a marvelous job of keeping the streets tidy, and all our needs are met. Solution Nine really is a spectacular place to live. Perhaps you'd consider making the city your home too?"
+11,"TEXT_REGSAK6SOLUTIONNINE_00879_UBUYU_000_040","Even now, the whole ordeal feels like a dream. To think that Zoraal Ja would be capable of such a despicable act... There seems to be no way of resolving the lasting pain he inflicted."
+12,"TEXT_REGSAK6SOLUTIONNINE_00879_UBUYU_000_050","The city has faced much hardship in recent days, but we citizens must strive together as one, and ensure the name “Solution” still rings true in years to come. That strikes me as a fitting way to honor the memory of Queen Sphene."
+13,"TEXT_REGSAK6SOLUTIONNINE_00879_TALK_ACTOR",""

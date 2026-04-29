@@ -2,139 +2,139 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_HEAVNE106_02346_SEQ_00,瞭望陣營地的阿爾菲諾似乎心神不寧。
-1,TEXT_HEAVNE106_02346_SEQ_01,阿爾菲諾委託冒險者向布魯艾丁傳達捷報。和瞭望陣營地的布魯艾丁協漩校談談。
-2,TEXT_HEAVNE106_02346_SEQ_02,布魯艾丁協漩校十分感謝冒險者討伐了蠻神泰坦。當天晚上，和阿莉塞聊了至今為止發生的事情。和瞭望陣營地的阿爾菲諾談談。
-3,TEXT_HEAVNE106_02346_SEQ_03,阿爾菲諾決定出發。在瞭望陣營地尋找阿莉塞。
-4,TEXT_HEAVNE106_02346_SEQ_04,找到了阿莉塞。他們決定將嘎埠託付給黑渦團。在重新堅定了決心之後，前往黃昏灣的沙之家。
-5,TEXT_HEAVNE106_02346_SEQ_05,在沙之家和於里昂熱進行了交談。獲得了有關世界的合併和走私召喚蠻神水晶的情報。和沙之家的阿爾菲諾談談。
-6,TEXT_HEAVNE106_02346_SEQ_06,和阿爾菲諾進行了交談。他覺得阿莉塞對於里昂熱的態度似乎有些奇怪。和南薩納蘭小阿拉米格的阿莉塞談談。
-7,TEXT_HEAVNE106_02346_SEQ_07,和阿莉塞進行了交談。她似乎和於里昂熱發生了什麼。總之先就水晶走私一案收集情報。
-8,TEXT_HEAVNE106_02346_SEQ_08,
-9,TEXT_HEAVNE106_02346_SEQ_09,
-10,TEXT_HEAVNE106_02346_SEQ_10,
-11,TEXT_HEAVNE106_02346_SEQ_11,
-12,TEXT_HEAVNE106_02346_SEQ_12,
-13,TEXT_HEAVNE106_02346_SEQ_13,
-14,TEXT_HEAVNE106_02346_SEQ_14,
-15,TEXT_HEAVNE106_02346_SEQ_15,
-16,TEXT_HEAVNE106_02346_SEQ_16,
-17,TEXT_HEAVNE106_02346_SEQ_17,
-18,TEXT_HEAVNE106_02346_SEQ_18,
-19,TEXT_HEAVNE106_02346_SEQ_19,
-20,TEXT_HEAVNE106_02346_SEQ_20,
-21,TEXT_HEAVNE106_02346_SEQ_21,
-22,TEXT_HEAVNE106_02346_SEQ_22,
-23,TEXT_HEAVNE106_02346_SEQ_23,
-24,TEXT_HEAVNE106_02346_TODO_00,和布魯艾丁協漩校對話
-25,TEXT_HEAVNE106_02346_TODO_01,和阿爾菲諾對話
-26,TEXT_HEAVNE106_02346_TODO_02,尋找阿莉塞
-27,TEXT_HEAVNE106_02346_TODO_03,前往黃昏灣的沙之家
-28,TEXT_HEAVNE106_02346_TODO_04,和阿爾菲諾對話
-29,TEXT_HEAVNE106_02346_TODO_05,和阿莉塞對話
-30,TEXT_HEAVNE106_02346_TODO_06,
-31,TEXT_HEAVNE106_02346_TODO_07,
-32,TEXT_HEAVNE106_02346_TODO_08,
-33,TEXT_HEAVNE106_02346_TODO_09,
-34,TEXT_HEAVNE106_02346_TODO_10,
-35,TEXT_HEAVNE106_02346_TODO_11,
-36,TEXT_HEAVNE106_02346_TODO_12,
-37,TEXT_HEAVNE106_02346_TODO_13,
-38,TEXT_HEAVNE106_02346_TODO_14,
-39,TEXT_HEAVNE106_02346_TODO_15,
-40,TEXT_HEAVNE106_02346_TODO_16,
-41,TEXT_HEAVNE106_02346_TODO_17,
-42,TEXT_HEAVNE106_02346_TODO_18,
-43,TEXT_HEAVNE106_02346_TODO_19,
-44,TEXT_HEAVNE106_02346_TODO_20,
-45,TEXT_HEAVNE106_02346_TODO_21,
-46,TEXT_HEAVNE106_02346_TODO_22,
-47,TEXT_HEAVNE106_02346_TODO_23,
-48,TEXT_HEAVNE106_02346_ALISAIE_000_000,不管怎麼說，嘎埠召喚出了蠻神。<hex:02100103>人們很難接受一個有可能被精煉了的蠻族……
-49,TEXT_HEAVNE106_02346_GABU_000_005,……
-50,TEXT_HEAVNE106_02346_ALPHINAUD_000_010,在考慮下一步行動之前……<hex:02100103>雖然我將之前的情況傳達給黑渦團了，<hex:02100103>不過能請你再去報告一下我們已經平安歸還的消息嗎？
-51,TEXT_HEAVNE106_02346_ALPHINAUD_000_011,布魯艾丁協漩校很擔心你。<hex:02100103>經歷了這麼多事你一定也很累了，<hex:02100103>不過還是去露個臉，向他報告你平安無事吧。
-52,TEXT_HEAVNE106_02346_ALPHINAUD_000_020,你能去向布魯艾丁協漩校報告一下我們已經平安歸還的消息嗎？<hex:02100103>他可是翹首以盼你平安歸來呢。
-53,TEXT_HEAVNE106_02346_BLOEIDIN_000_030,你回來了啊！<hex:02100103>也就是說，蠻神泰坦已經被……
-54,TEXT_HEAVNE106_02346_BLOEIDIN_000_031,這樣啊，辛苦你了！<hex:02100103>托你的福，我和部下們都能鬆口氣了。
-55,TEXT_HEAVNE106_02346_BLOEIDIN_000_032,老實說，就算是不完全的召喚，<hex:02100103>在離營地這麼近的地方有蠻神被召喚出來，也夠讓人發愁了。
-56,TEXT_HEAVNE106_02346_BLOEIDIN_000_033,雖說我們部隊都是些有實力的傢伙，<hex:02100103>但真和蠻神打起來，難免會出現死傷。<hex:02100103>……真的十分感謝你。
-57,TEXT_HEAVNE106_02346_BLOEIDIN_000_034,好，今晚要舉行宴會！<hex:02100103>你也累了吧，今晚就在這裡好好休息！<hex:02100103>雖然只能用粗茶淡飯來招待你，哈哈哈哈！
-58,TEXT_HEAVNE106_02346_BLOEIDIN_000_040,如何，休息得好嗎？
-59,TEXT_HEAVNE106_02346_ALPHINAUD_000_050,<hex:022903EB0203>，休息得還好嗎？<hex:02100103>我們差不多該出發了。
-60,TEXT_HEAVNE106_02346_ALPHINAUD_000_051,其實，我剛才接到了桑克瑞德的聯絡。<hex:02100103>在他和雅·修特拉的調查中，<hex:02100103>也發現了刻有伊修加德刻印的木箱。
-61,TEXT_HEAVNE106_02346_ALPHINAUD_000_052,看來，有人在無影的安排下，<hex:02100103>將先前皇都決戰時收集的水晶倒賣給了蠻族。
-62,TEXT_HEAVNE106_02346_ALPHINAUD_000_053,現在，根據艾默里克閣下的指揮，神殿騎士團也在全力追查此事，<hex:02100103>桑克瑞德說抓到犯人也只是時間問題。
-63,TEXT_HEAVNE106_02346_ALPHINAUD_000_054,既然如此，我們最好再調查一下還有沒有其他走私的水晶。<hex:02100103>我想再去找下於里昂熱，順便向他報告這次的事情。
-64,TEXT_HEAVNE106_02346_ALPHINAUD_000_055,……嗯，阿莉塞不見了呢。<hex:02100103><hex:022903EB0203>，你要是看到她麻煩告訴她我們要出發了。
-65,TEXT_HEAVNE106_02346_ALPHINAUD_000_060,阿莉塞去哪裡了……嘎埠也不見了呢。<hex:02100103>他們剛才還在這附近，應該還在營地裡才對……
-66,TEXT_HEAVNE106_02346_GABU_000_065,……
-67,TEXT_HEAVNE106_02346_ALISAIE_000_070,是<hex:022903EB0203>啊。<hex:02100103>已經到出發的時間了嗎？
-68,TEXT_HEAVNE106_02346_ALISAIE_000_071,這樣啊。<hex:02100103>又讓你來找我，不好意思。<hex:02100103>我已經準備好了，隨時可以出發。
-69,TEXT_HEAVNE106_02346_ALPHINAUD_000_072,……你打算怎麼安排嘎埠？
-70,TEXT_HEAVNE106_02346_ALISAIE_000_073,阿爾菲諾……<hex:02100103>你和布魯艾丁一起來找我，說明你已經有想法了吧？
-71,TEXT_HEAVNE106_02346_ALISAIE_000_074,自那之後，他就一言不發。<hex:02100103>也沒有睡過覺，身體應該相當疲倦了。<hex:02100103>總不能這樣帶著他到處奔波。
-72,TEXT_HEAVNE106_02346_ALISAIE_000_075,嘎埠就交給黑渦團照顧了。
-73,TEXT_HEAVNE106_02346_ALISAIE_000_076,這孩子的內心一定十分掙扎。<hex:02100103>因悲傷和絕望，想要將一切都獻給蠻神來得到救贖，<hex:02100103>但又無法原諒奪去父母性命的蠻神信仰……
-74,TEXT_HEAVNE106_02346_ALISAIE_000_077,在他恢復正常之前，<hex:02100103>請將他當做友好的獸人對待。
-75,TEXT_HEAVNE106_02346_BLOEIDIN_000_078,當然可以。在我們利姆薩·羅敏薩，獸人和人類都是平等的。<hex:02100103>多虧了這小傢伙說出水晶所在之處，才減少了損失。<hex:02100103>我也會和上面說幾句好話的。
-76,TEXT_HEAVNE106_02346_ALISAIE_000_079,嘎埠……<hex:02100103>我覺得我能理解你的心情。<hex:02100103>我和阿爾菲諾也曾失去了祖父。
-77,TEXT_HEAVNE106_02346_ALISAIE_000_080,那時的我們也很痛苦，很絕望，很憤怒……<hex:02100103>也許你現在聽不進去任何話，但我只想告訴你一點。
-78,TEXT_HEAVNE106_02346_ALISAIE_000_081,未來的某一天，你心中的憤怒和悲傷終會平息，<hex:02100103>在此之前，都不要自暴自棄。
-79,TEXT_HEAVNE106_02346_ALISAIE_000_082,你的心不能被空虛的信仰所吞噬。<hex:02100103>它是你活在世上，愛著父母的證明。<hex:02100103>如果你在這裡認輸了，我也會很傷心的……
-80,TEXT_HEAVNE106_02346_BLOEIDIN_000_083,那麼，我帶他走了。
-81,TEXT_HEAVNE106_02346_GABU_000_084,……愛……不會忘記……<hex:02100103>謝謝……謝謝……
-82,TEXT_HEAVNE106_02346_GABU_000_085,……
-83,TEXT_HEAVNE106_02346_ALPHINAUD_000_086,嘎埠會好起來的。<hex:02100103>我相信我們的思念一定能傳達到。
-84,TEXT_HEAVNE106_02346_ALPHINAUD_000_087,這下能更加深刻認識到，<hex:02100103>請神……蠻神的降臨到底會帶來些什麼。
-85,TEXT_HEAVNE106_02346_ALISAIE_000_088,走吧。<hex:02100103>必須要揪出這次事件的幕後黑手，<hex:02100103>不狠狠教訓他們一頓難消我心頭之恨。
-86,TEXT_HEAVNE106_02346_BLOEIDIN_000_090,那個小不點就交給我們吧。<hex:02100103>我也會和上面說幾句好話的……<hex:02100103>希望他沒有被精煉成信徒。
-87,TEXT_HEAVNE106_02346_URIANGER_000_100,你們終於回來了……<hex:02100103>看到你們平安無事，我也放心了……
-88,TEXT_HEAVNE106_02346_ALPHINAUD_000_101,雖然很難說作戰非常成功，<hex:02100103>但也算挫敗了無影的陰謀。<hex:02100103>我們已經在暗之戰士介入前將蠻神收拾掉了。
-89,TEXT_HEAVNE106_02346_URIANGER_000_102,那真是太好了……<hex:02100103>我這邊也有一個稱不上是好消息的消息，要報告給大家……
-90,TEXT_HEAVNE106_02346_URIANGER_000_103,首先，是關於阿莉塞小姐所說的，<hex:02100103>「世界的合併」的調查結果……
-91,TEXT_HEAVNE106_02346_URIANGER_000_104,根據偽典的記載，在我們的原初世界外，還存在著十三個鏡像世界。<hex:02100103>每當原初世界爆發靈災時，都會有某個鏡像世界隨之消失，<hex:02100103>而消失的鏡像世界，則會和原初世界合併……
-92,TEXT_HEAVNE106_02346_ALPHINAUD_000_105,也就是說，由於過去發生的七次靈災，<hex:02100103>第一世界到第十三世界中的某七個世界，<hex:02100103>已經被原初世界合併了嗎……
-93,TEXT_HEAVNE106_02346_URIANGER_000_106,沒錯……<hex:02100103>雖然這只是我從其他賢人那裡得到的情報……<hex:02100103>但和行星的代言人敏菲利亞所說的話相吻合。
-94,TEXT_HEAVNE106_02346_URIANGER_000_107,那麼，至於世界的合併具體是什麼樣的……<hex:02100103>偽典«格倫神諭»裡面曾這麼描述：
-95,TEXT_HEAVNE106_02346_URIANGER_000_108,世界合併，即被選中的鏡像世界裡的所有生命，<hex:02100103>都將變回乙太……注入原初的世界。
-96,TEXT_HEAVNE106_02346_ALISAIE_000_109,什麼！<hex:02100103>那也就是說，即使暗之戰士達成他們的目的，<hex:02100103>就結果而言第一世界的所有生命還是會消失？！
-97,TEXT_HEAVNE106_02346_URIANGER_000_110,至少，肉體和個體的概念會消失……<hex:02100103>這也就是我們一般意義上所指的「死亡」吧……
-98,TEXT_HEAVNE106_02346_URIANGER_000_111,但是，現在第一世界也面臨著光之泛濫的危機……<hex:02100103>如果放任不管，就會變成如同虛無界一般被「無」吞噬的世界，<hex:02100103>那樣的話甚至連生命的乙太都無法存在。
-99,TEXT_HEAVNE106_02346_URIANGER_000_112,在一切生命歸於「無」之前……<hex:02100103>至少讓第一世界的生命乙太在原初的世界獲得新生。<hex:02100103>我認為這才是暗之戰士的真正意圖。
-100,TEXT_HEAVNE106_02346_ALPHINAUD_000_113,也就是說，<hex:02100103>他們已經被逼得走投無路了。
-101,TEXT_HEAVNE106_02346_URIANGER_000_114,……此外還有另外一個消息。<hex:02100103>和各位所關心的暗之戰士下一步行動有關……
-102,TEXT_HEAVNE106_02346_URIANGER_000_115,就在剛剛……南薩納蘭的小阿拉米格那裡傳來消息，<hex:02100103>說是有大量走私水晶被運到了阿拉米格人手上……
-103,TEXT_HEAVNE106_02346_ALPHINAUD_000_116,阿拉米格人？<hex:02100103>不是蠻族……<hex:02100103>真的是無影在暗中操縱的嗎？
-104,TEXT_HEAVNE106_02346_URIANGER_000_117,情報應該準確無誤……<hex:02100103>過去也有發生過無影煽動小阿拉米格的年輕人，<hex:02100103>試圖召喚出破壞神拉爾戈的先例……
-105,TEXT_HEAVNE106_02346_URIANGER_000_118,再加上走私水晶的實行犯，<hex:02100103>似乎是和難民問題有密切關聯的人……
-106,TEXT_HEAVNE106_02346_URIANGER_000_119,各位曾經逮捕的原恆輝隊員艾莉娜·羅阿耶……<hex:02100103>她手下的走私組織的餘黨也曾經參加過難民暴動，<hex:02100103>現在則在暗中幫助無影……
-107,TEXT_HEAVNE106_02346_ALPHINAUD_000_120,怎麼會這樣！<hex:02100103>但仔細想想，艾莉娜·羅阿耶的老家正好是伊修加德。<hex:02100103>她的走私組織和無影有關也並非沒有可能……
-108,TEXT_HEAVNE106_02346_ALPHINAUD_000_121,<hex:022903EB0203>，阿莉塞，<hex:02100103>為了摸清事實真相，我們有必要親自前往小阿拉米格。
-109,TEXT_HEAVNE106_02346_ALISAIE_000_122,……說的沒錯。<hex:02100103>有必要親自去一趟呢。
-110,TEXT_HEAVNE106_02346_URIANGER_000_123,……一路請多加小心。
-111,TEXT_HEAVNE106_02346_THANCRED_000_124,阿爾菲諾大人，阿莉塞小姐，還有<hex:022903EB0203>。<hex:02100103>聽得見嗎？
-112,TEXT_HEAVNE106_02346_THANCRED_000_125,我這邊剛得到消息，<hex:02100103>說是艾默里克閣下已經抓到了和無影聯手走私水晶的犯人。<hex:02100103>而且他們坦白了是受黑色長袍的男人唆使。
-113,TEXT_HEAVNE106_02346_ALPHINAUD_000_126,這可真是好消息！<hex:02100103>這麼說，目前已經切斷了無影暗中操作的水晶供給嗎？
-114,TEXT_HEAVNE106_02346_THANCRED_000_127,是的……<hex:02100103>不過，根據走私犯的口供稱，<hex:02100103>他們之前已經完成了另一單走私水晶的買賣。
-115,TEXT_HEAVNE106_02346_THANCRED_000_128,走私的對象是阿拉米格人。<hex:02100103>似乎在南薩納蘭……小阿拉米格周邊。
-116,TEXT_HEAVNE106_02346_THANCRED_000_129,從走私犯嘴裡也問不出更多情報了。<hex:02100103>所以我打算去現場調查一下。
-117,TEXT_HEAVNE106_02346_ALPHINAUD_000_130,其實我們也得到了同樣的消息，正準備向那裡出發。<hex:02100103>我們就在小阿拉米格匯合，聯手調查吧。
-118,TEXT_HEAVNE106_02346_THANCRED_000_131,什麼嘛，已經知道了嗎？<hex:02100103>天才雙胞胎和英雄一起出馬就是不一樣。
-119,TEXT_HEAVNE106_02346_THANCRED_000_132,……但是，這個情報你們還不知道吧？<hex:02100103>其實，走私水晶的實行犯裡有個我看著很眼熟的人。<hex:02100103>我仔細回憶了一下，想起了他是誰。
-120,TEXT_HEAVNE106_02346_THANCRED_000_133,他是和艾莉娜·羅阿耶關係密切的男人。<hex:02100103>恐怕是這傢伙把她的走私團伙重新聚集在一起，<hex:02100103>在暗中繼續做著什麼見不得人的勾當。
-121,TEXT_HEAVNE106_02346_ALPHINAUD_100_133,啊，這個情報我們剛才已經……
-122,TEXT_HEAVNE106_02346_ALISAIE_000_134,……剛才的情報，你還告訴過誰嗎？
-123,TEXT_HEAVNE106_02346_THANCRED_000_135,嗯？除了你們還沒跟別人講過……<hex:02100103>要告訴誰比較好嗎？
-124,TEXT_HEAVNE106_02346_ALISAIE_000_136,不必了。<hex:02100103>……和於里昂熱說的一樣。
-125,TEXT_HEAVNE106_02346_URIANGER_000_140,這是我從個人渠道獲得的情報，恐怕不會有錯。<hex:02100103>各位路上請務必小心……
-126,TEXT_HEAVNE106_02346_ALPHINAUD_000_150,阿莉塞和於里昂熱之間發生了什麼嗎？<hex:02100103>總覺得最近她對於里昂熱的態度有點奇怪……
-127,TEXT_HEAVNE106_02346_ALPHINAUD_000_151,於里昂熱是祖父的得意門生。<hex:02100103>經常會來我們家，對我和阿莉塞來說如同親人。
-128,TEXT_HEAVNE106_02346_ALPHINAUD_000_152,特別是阿莉塞，她和於里昂熱以及祖父經常在一起。
-129,TEXT_HEAVNE106_02346_ALPHINAUD_000_153,……算了，以後再問她吧。<hex:02100103>也和桑克瑞德確認過情報了，<hex:02100103>我們就盡快動身去小阿拉米格吧。
-130,TEXT_HEAVNE106_02346_ALPHINAUD_000_160,桑克瑞德好像還沒到。
-131,TEXT_HEAVNE106_02346_ALISAIE_000_170,於里昂熱……你到底在計劃著什麼？
-132,TEXT_HEAVNE106_02346_ALISAIE_000_171,啊，<hex:022903EB0203>。<hex:02100103>抱歉，我在想事情沒有注意到你。
-133,TEXT_HEAVNE106_02346_ALISAIE_000_172,和於里昂熱之間發生了什麼？<hex:02100103>嗯……只是有些在意的地方，但還不確定……<hex:02100103>他的想法一直都很難懂呢。
-134,TEXT_HEAVNE106_02346_ALISAIE_000_173,如果……如果他走上歪路的話，<hex:02100103>我一定會盡全力阻止他。<hex:02100103>就是為了應對這種事情，我才學會了那個絕技……
-135,TEXT_HEAVNE106_02346_ALISAIE_000_174,比起這些，現在應該先追查走私的水晶吧？<hex:02100103>桑克瑞德看樣子還沒到，我們先開始收集情報吧。
+0,"TEXT_HEAVNE106_02346_SEQ_00","Alphinaud would rather not worry about what may or may not come to pass."
+1,"TEXT_HEAVNE106_02346_SEQ_01","Disinclined to dwell on the unpleasant question of Ga Bu's fate, Alphinaud bids you apprise the Maelstrom of your victory over Titan. Yet as pleased as Commander Bloeidin will be to hear the news, he will inevitably demand that a decision be made..."
+2,"TEXT_HEAVNE106_02346_SEQ_02","Commander Bloeidin is greatly relieved to hear that you have spared him the burden of sending good men to their deaths. In a show of gratitude, he invites you to stay the night and celebrate with the Maelstrom forces, and you accept─yet as the evening wears on, you become aware that Alisaie is nowhere to be seen. You find her outside the camp enjoying a moment of quiet solitude with Ga Bu, and after joining her, she tells you of her struggle to understand her grandfather's motivations and to find her own path having parted ways with her brother. The story of her journey seems more than a little familiar, as does the answer she found at the end of it: that in a world where high-minded ideals and earnest efforts all too often fall short, where the good suffer and the evil prosper, one must nevertheless aspire to a higher ideal. Her heart thus unburdened, Alisaie bids you share some tales of your time in the north, and you duly recount an adventure near and dear to your heart. Looking up into the starry night, you reflect on your own journey and what drives you to carry on..."
+3,"TEXT_HEAVNE106_02346_SEQ_03","In the morning, you find Alphinaud packed and ready to depart. He reveals that he has been in contact with Thancred and Y'shtola, both of whom have apparently discovered crates bearing defaced Ishgardian seals during the course of their investigations. Armed with this information, Alphinaud thinks it prudent to consult with Urianger once more, and is eager to take to the road. Alisaie, however, is nowhere to be found─and neither, you realize, is Ga Bu."
+4,"TEXT_HEAVNE106_02346_SEQ_04","No child should be forced to confront death firsthand, much less that of a parent. Though she knows she can never truly understand the depths of his despair, Alisaie takes a moment to comfort Ga Bu one final time. Having given up hope of eliciting a response, she surrenders him into Commander Bloeidin's care, entreating him to show the young kobold every kindness. But in that instant, the child breaks his silence, thanking Alisaie for everything she has done. All is not lost─Ga Bu may one day recover from his trauma. With hope in your hearts, you set forth for Thanalan."
+5,"TEXT_HEAVNE106_02346_SEQ_05","Back at the Waking Sands, Urianger shares his latest findings. Per Alisaie's request, he has studied <hex:021A020203>The Gerun Oracles<hex:021A020103> and discovered a passage which suggests that a Rejoining would result in the deaths of all those living upon a reflection of the Source. Yet in death there is seemingly life as their souls would then be returned to the Source, where they might be reborn anew. Drastic as it sounds, Urianger speculates this may yet be preferable to the alternative, for it is possible that a world which falls to transcendent Light or Dark may ultimately be transformed into an unfathomable void.<hex:02100103><hex:02100103>Even as you pause to contemplate the implications of these theories, Urianger reveals that the Ishgardian smugglers supplying the beast tribes with crystals have been identified as remnants of the criminal network established by Eline Roaille─the infamous Garlean spymaster, the Ivy. What is more, the group has recently supplied crystals to another party: refugees devoted to the cause of Ala Mhigan liberation. Wasting no time, Alphinaud bids you and Alisaie accompany him to Little Ala Mhigo to track down the shipment's recipients and find out what they intend.<hex:02100103><hex:02100103>As you round the corner and head for the exit, you and the twins are contacted via linkpearl by Thancred, who proudly informs you of the latest developments in Ishgard. When he subsequently hears that you have obtained the same information, however, his disappointment is palpable. A troubled Alisaie then confirms that the raid on the smugglers' hideout was conducted less than an hour before, and that only a select few should know the group's true identity, and the destination of their final shipment..."
+6,"TEXT_HEAVNE106_02346_SEQ_06","Alphinaud is unsure what to make of his sister's recent behavior towards Urianger, the two of them having always been quite close. As one of Louisoix's most dedicated pupils, Urianger was practically a member of the family. Yet her treatment of the Archon during your past several visits has suggested nothing of the sort. On the contrary, her words and actions seem to indicate a deep-seated suspicion. But why?"
+7,"TEXT_HEAVNE106_02346_SEQ_07","Having spent the journey to Little Ala Mhigo turning the mystery over and over in your mind, you press Alisaie for an explanation, but find her reluctant to say anything more than that she is prepared “to do what must be done.” Whatever has passed between her and Urianger remains unclear for now, but you sense it will not be long before the truth comes out─for better or for worse."
+8,"TEXT_HEAVNE106_02346_SEQ_08",""
+9,"TEXT_HEAVNE106_02346_SEQ_09",""
+10,"TEXT_HEAVNE106_02346_SEQ_10",""
+11,"TEXT_HEAVNE106_02346_SEQ_11",""
+12,"TEXT_HEAVNE106_02346_SEQ_12",""
+13,"TEXT_HEAVNE106_02346_SEQ_13",""
+14,"TEXT_HEAVNE106_02346_SEQ_14",""
+15,"TEXT_HEAVNE106_02346_SEQ_15",""
+16,"TEXT_HEAVNE106_02346_SEQ_16",""
+17,"TEXT_HEAVNE106_02346_SEQ_17",""
+18,"TEXT_HEAVNE106_02346_SEQ_18",""
+19,"TEXT_HEAVNE106_02346_SEQ_19",""
+20,"TEXT_HEAVNE106_02346_SEQ_20",""
+21,"TEXT_HEAVNE106_02346_SEQ_21",""
+22,"TEXT_HEAVNE106_02346_SEQ_22",""
+23,"TEXT_HEAVNE106_02346_SEQ_23",""
+24,"TEXT_HEAVNE106_02346_TODO_00","Speak with Bloeidin."
+25,"TEXT_HEAVNE106_02346_TODO_01","Speak with Alphinaud."
+26,"TEXT_HEAVNE106_02346_TODO_02","Search for Alisaie."
+27,"TEXT_HEAVNE106_02346_TODO_03","Return to the Waking Sands."
+28,"TEXT_HEAVNE106_02346_TODO_04","Speak with Alphinaud."
+29,"TEXT_HEAVNE106_02346_TODO_05","Speak with Alisaie in Little Ala Mhigo."
+30,"TEXT_HEAVNE106_02346_TODO_06",""
+31,"TEXT_HEAVNE106_02346_TODO_07",""
+32,"TEXT_HEAVNE106_02346_TODO_08",""
+33,"TEXT_HEAVNE106_02346_TODO_09",""
+34,"TEXT_HEAVNE106_02346_TODO_10",""
+35,"TEXT_HEAVNE106_02346_TODO_11",""
+36,"TEXT_HEAVNE106_02346_TODO_12",""
+37,"TEXT_HEAVNE106_02346_TODO_13",""
+38,"TEXT_HEAVNE106_02346_TODO_14",""
+39,"TEXT_HEAVNE106_02346_TODO_15",""
+40,"TEXT_HEAVNE106_02346_TODO_16",""
+41,"TEXT_HEAVNE106_02346_TODO_17",""
+42,"TEXT_HEAVNE106_02346_TODO_18",""
+43,"TEXT_HEAVNE106_02346_TODO_19",""
+44,"TEXT_HEAVNE106_02346_TODO_20",""
+45,"TEXT_HEAVNE106_02346_TODO_21",""
+46,"TEXT_HEAVNE106_02346_TODO_22",""
+47,"TEXT_HEAVNE106_02346_TODO_23",""
+48,"TEXT_HEAVNE106_02346_ALISAIE_000_000","I know what happened. Gods help me, I was <hex:021A020203>there<hex:021A020103>. But the thought that we might have to... Seven hells, he's just a child!"
+49,"TEXT_HEAVNE106_02346_GABU_000_005","..."
+50,"TEXT_HEAVNE106_02346_ALPHINAUD_000_010","There is naught to be gained from dwelling on an eventuality over which we have no control, much less one which may never even come to pass. Let us tend to more immediate matters─informing Commander Bloeidin of Titan's demise, for example."
+51,"TEXT_HEAVNE106_02346_ALPHINAUD_000_011","You may be certain that he will be glad of the news. Would you be so kind as to break it to him?"
+52,"TEXT_HEAVNE106_02346_ALPHINAUD_000_020","I expect the commander would enjoy hearing the tale of Titan's defeat from the <hex:02080FE905FF06>woman<hex:FF04>man<hex:03> responsible, don't you?"
+53,"TEXT_HEAVNE106_02346_BLOEIDIN_000_030","Ah, you're a sight for sore eyes! When the others came back without you, I feared the worst, but they said you had matters well in hand."
+54,"TEXT_HEAVNE106_02346_BLOEIDIN_000_031","All settled then, is it? I'm glad to hear it. But not half as glad as my men'll be, believe you me!"
+55,"TEXT_HEAVNE106_02346_BLOEIDIN_000_032","Regardless of whether or not he was summoned properly, a primal's a primal. And there ain't a soul in the Maelstrom that hasn't lost a friend to one."
+56,"TEXT_HEAVNE106_02346_BLOEIDIN_000_033","Don't get me wrong, like─we were all prepared to do our part. But we weren't so naive as to think we'd live to tell the tale."
+57,"TEXT_HEAVNE106_02346_BLOEIDIN_000_034","Thankfully, of course, it didn't come to that─which, my friend, sounds to me like cause for celebration! Now, I know you lot have places to be, but why not stay the night? We'd be honored to raise a glass to the triumphant return of Titan's Bane!"
+58,"TEXT_HEAVNE106_02346_BLOEIDIN_000_040","Ahh, I haven't slept that well in weeks!"
+59,"TEXT_HEAVNE106_02346_ALPHINAUD_000_050","What ho, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. I trust you had a good night's rest?"
+60,"TEXT_HEAVNE106_02346_ALPHINAUD_000_051","I was but this moment speaking with Thancred and Y'shtola via linkpearl. They had some interesting news to share."
+61,"TEXT_HEAVNE106_02346_ALPHINAUD_000_052","Apparently, during the course of their respective investigations, both came across crates which had once borne Ishgardian seals. 'Twould seem that someone in the capital has been very busy indeed."
+62,"TEXT_HEAVNE106_02346_ALPHINAUD_000_053","Accordingly, the Temple Knights have launched a full-scale investigation. Ser Aymeric believes that it is only a matter of time before the culprits are found, but we shall have to wait and see."
+63,"TEXT_HEAVNE106_02346_ALPHINAUD_000_054","In the meantime, it seems only prudent to look into the recent activities of the other tribes, in case they too are flush with Ishgardian crystals. And with that in mind, I suggest we pay Urianger another─"
+64,"TEXT_HEAVNE106_02346_ALPHINAUD_000_055","Wait. Where is Alisaie? She was here a moment ago...with Ga Bu."
+65,"TEXT_HEAVNE106_02346_ALPHINAUD_000_060","Would you be so kind as to look for my sister? She is doubtless somewhere in the camp, but... Well, I am sure you will find her."
+66,"TEXT_HEAVNE106_02346_GABU_000_065","..."
+67,"TEXT_HEAVNE106_02346_ALISAIE_000_070","Ah, let me guess: it's time to leave, isn't it?"
+68,"TEXT_HEAVNE106_02346_ALISAIE_000_071","My apologies for disappearing again. If it is any consolation, I have already packed my things."
+69,"TEXT_HEAVNE106_02346_ALPHINAUD_000_072","...How is he?"
+70,"TEXT_HEAVNE106_02346_ALISAIE_000_073","Brother. Commander Bloeidin. Something tells me you are not solely here out of concern for his welfare."
+71,"TEXT_HEAVNE106_02346_ALISAIE_000_074","But to answer your question, there has been no change. He will not speak or eat─I'm not even sure if he slept. If he did, he seems none the better for it. He just...shuffles about with that same expression on his face..."
+72,"TEXT_HEAVNE106_02346_ALISAIE_000_075","You <hex:021A020203>will<hex:021A020103> look after him, won't you, Commander─and treat him with <hex:021A020203>every kindness<hex:021A020103>?"
+73,"TEXT_HEAVNE106_02346_ALISAIE_000_076","He's still in there. I know it. Beneath the anguish and the despair, he's still fighting with all his heart."
+74,"TEXT_HEAVNE106_02346_ALISAIE_000_077","He deserves to be given that chance. Until he comes back to us─until we know for <hex:021A020203>certain<hex:021A020103> what has become of him."
+75,"TEXT_HEAVNE106_02346_BLOEIDIN_000_078","Aye, aye, you needn't worry. If he hadn't risked his neck to warn us and help you secure the better part of the crystals, this could've turned out a damn sight worse than it did. We'll not soon forget that, and nor will Maelstrom Command."
+76,"TEXT_HEAVNE106_02346_ALISAIE_000_079","I'm so sorry, Ga Bu. I truly am. You should never have been made to... And I know I cannot possibly understand..."
+77,"TEXT_HEAVNE106_02346_ALISAIE_000_080","Mayhap there is nothing I can do or say. The pain, the anger...the helplessness..."
+78,"TEXT_HEAVNE106_02346_ALISAIE_000_081","...Hold fast to the memories of better times. Remember them as they were."
+79,"TEXT_HEAVNE106_02346_ALISAIE_000_082","And when it hurts so much your heart feels fit to burst, let it burst. Let it burst, and fill up again with your love for them. And never, ever forget."
+80,"TEXT_HEAVNE106_02346_BLOEIDIN_000_083","...Come along, little one."
+81,"TEXT_HEAVNE106_02346_GABU_000_084","I...I will remember them. And you, Alisaie. Thank you..."
+82,"TEXT_HEAVNE106_02346_GABU_000_085","..."
+83,"TEXT_HEAVNE106_02346_ALPHINAUD_000_086","Have faith, Sister. Your words have reached him. In time, he will recover..."
+84,"TEXT_HEAVNE106_02346_ALPHINAUD_000_087","And those who orchestrated these events will be made to answer for their crimes."
+85,"TEXT_HEAVNE106_02346_ALISAIE_000_088","A thousand times over, aye. There will be a reckoning."
+86,"TEXT_HEAVNE106_02346_BLOEIDIN_000_090","Judgin' by what the little feller said, I doubt he's been corrupted. Sayin' that, we'll keep him close till we've heard a bit more─just to be on the safe side."
+87,"TEXT_HEAVNE106_02346_URIANGER_000_100","We have heard the glad tidings from O'Ghomoro, my friends. By the grace of the Twelve and your most valiant efforts, the people of Limsa Lominsa may rest easy."
+88,"TEXT_HEAVNE106_02346_ALPHINAUD_000_101","I should like to think so, yes. Though we failed to prevent the Lord of Crags from manifesting, we did succeed in weakening him, enabling our friend to dispatch him before the Warriors of Darkness could make matters worse. 'Twas by no means an unmitigated success, but it will have to suffice."
+89,"TEXT_HEAVNE106_02346_URIANGER_000_102","Then let us speak of another matter─one which weigheth heavy on my lady's mind."
+90,"TEXT_HEAVNE106_02346_URIANGER_000_103","As thou didst request, I sought out <hex:021A020203>The Gerun Oracles<hex:021A020103>, that we might better understand the aims of the Warriors of Darkness."
+91,"TEXT_HEAVNE106_02346_URIANGER_000_104","Though their copious use of allegory defieth any single interpretation, the oracles paint a most disturbing picture─one of worlds parallel to our own, apart yet linked, reduced to ruin with every Umbral Calamity..."
+92,"TEXT_HEAVNE106_02346_ALPHINAUD_000_105","""Seven times have they succeeded.“ Then of ten and three, only six worlds remain."
+93,"TEXT_HEAVNE106_02346_URIANGER_000_106","Aye. All is as my lady Minfilia spake unto thee."
+94,"TEXT_HEAVNE106_02346_URIANGER_000_107","As for what becometh of these reflections when they and the Source are rejoined..."
+95,"TEXT_HEAVNE106_02346_URIANGER_000_108","""Frail flesh undone in Umbral fires,<hex:02100103>Each soul surrend'reth to Her call,<hex:02100103>To flow unto the endless sea,<hex:02100103>There to endure as one and none.“"
+96,"TEXT_HEAVNE106_02346_ALISAIE_000_109","Then...then if the Warriors of Darkness succeed, everyone in their world will <hex:021A020203>die<hex:021A020103>?"
+97,"TEXT_HEAVNE106_02346_URIANGER_000_110","In essence, aye. The verse speaketh of the renunciation of the flesh, and subsequent return to the Lifestream."
+98,"TEXT_HEAVNE106_02346_URIANGER_000_111","However, this fate may yet be preferable to the alternative, for if the First were to fall to transcendent Light in the manner the Warriors of Darkness described, it would give way unto a void wherein none may know either life or death."
+99,"TEXT_HEAVNE106_02346_URIANGER_000_112","Far better to die, they reason─for in death there is life. The essence of a soul which returneth unto the Source may be born anew. Saved. Such, at least, is their belief, I surmise."
+100,"TEXT_HEAVNE106_02346_ALPHINAUD_000_113","If that is true, then... Gods. No one should ever have to make such a choice."
+101,"TEXT_HEAVNE106_02346_URIANGER_000_114","...Ere we speak further on this subject, I would share with thee another recent discovery."
+102,"TEXT_HEAVNE106_02346_URIANGER_000_115","'Twould seem that several sizable shipments of crystals have been delivered into the hands of certain Ala Mhigan parties."
+103,"TEXT_HEAVNE106_02346_ALPHINAUD_000_116","Ala Mhigans? Strange... And you believe this to be the work of the same Ishgardian smugglers who supplied the beast tribes?"
+104,"TEXT_HEAVNE106_02346_URIANGER_000_117","I know beyond a shadow of a doubt. And lest thou wonder at their motive, I would remind you that the Ascians did once attempt to bring about the summoning of <hex:021A020203>Rhalgr<hex:021A020103>."
+105,"TEXT_HEAVNE106_02346_URIANGER_000_118","The individuals who took receipt of these shipments are refugees belonging to a group devoted to the cause of Ala Mhigan liberation."
+106,"TEXT_HEAVNE106_02346_URIANGER_000_119","It may also interest thee to know that their Ishgardian suppliers appear to be none other than the remnants of Eline Roaille's network of spies."
+107,"TEXT_HEAVNE106_02346_ALPHINAUD_000_120","Surely you jest... And yet...it is not so surprising. Bereft of leadership and hunted by the Alliance, I can well imagine such villains being desperate enough to conspire with the Ascians. Assuming they even know─or care─who their new employers are."
+108,"TEXT_HEAVNE106_02346_ALPHINAUD_000_121","All of which is irrelevant. Forgive me. We must seek out the Resistance group which received the crystals without delay. <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, Alisaie─will you come with me to Little Ala Mhigo?"
+109,"TEXT_HEAVNE106_02346_ALISAIE_000_122","Yes, of course. I should like to hear what they have to say for themselves. Firsthand."
+110,"TEXT_HEAVNE106_02346_URIANGER_000_123","May you ever walk in the light of the Crystal."
+111,"TEXT_HEAVNE106_02346_THANCRED_000_124","Alphinaud, Alisaie, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>─are you three listening? Good. I have tidings."
+112,"TEXT_HEAVNE106_02346_THANCRED_000_125","The Temple Knights raided the smugglers' warehouse less than an hour ago. A cursory interrogation of the prisoners yielded confirmation that they were in the employ of─and I hope you are sitting down─a man in black robes."
+113,"TEXT_HEAVNE106_02346_ALPHINAUD_000_126","Then you have them? And the crystals too?"
+114,"TEXT_HEAVNE106_02346_THANCRED_000_127","What few remained, aye. Regrettably, it would seem they dispatched one final shipment in the hours before we struck."
+115,"TEXT_HEAVNE106_02346_THANCRED_000_128","'Twas bound for Little Ala Mhigo, we are told, where it will be received by members of a local Resistance group."
+116,"TEXT_HEAVNE106_02346_THANCRED_000_129","Since Ser Aymeric's men no longer have need of my services, I have a mind to head that way."
+117,"TEXT_HEAVNE106_02346_ALPHINAUD_000_130","As do we, by happy coincidence. We learned of the shipments but a few moments ago."
+118,"TEXT_HEAVNE106_02346_THANCRED_000_131","Hah! And there I was thinking I might finally be one step ahead of the Warrior of Light and <hex:02080DE905FF04>her<hex:FF04>his<hex:03> little helpers."
+119,"TEXT_HEAVNE106_02346_THANCRED_000_132","...Ah! Wait a moment! There is more! And I defy you not to be surprised by <hex:021A020203>this<hex:021A020103> revelation."
+120,"TEXT_HEAVNE106_02346_THANCRED_000_133","The leader of the Ishgardian smugglers was formerly in the employ of one Eline Roaille─the infamous Ivy herself!"
+121,"TEXT_HEAVNE106_02346_ALPHINAUD_100_133","Once again, Thancred, I fear I must inform you that─"
+122,"TEXT_HEAVNE106_02346_ALISAIE_000_134","Thancred─with whom else have you shared this information?"
+123,"TEXT_HEAVNE106_02346_THANCRED_000_135","About the smugglers? No one. As I think I mentioned, the raid was less than an hour ago. I was planning to contact Y'shtola next, but is there someone else you would have me notify first?"
+124,"TEXT_HEAVNE106_02346_ALISAIE_000_136","No...there isn't."
+125,"TEXT_HEAVNE106_02346_URIANGER_000_140","Pray proceed with all due caution. To what end these refugees covet crystals remaineth to be seen."
+126,"TEXT_HEAVNE106_02346_ALPHINAUD_000_150","What in the world has gotten into her? It is twice now that we have sought Urianger's aid, and twice she has treated him as if he were a stranger."
+127,"TEXT_HEAVNE106_02346_ALPHINAUD_000_151","The Archon was one of Grandfather's most dedicated pupils, and spent as much time at the Leveilleur estate as we did. He's practically a member of the family!"
+128,"TEXT_HEAVNE106_02346_ALPHINAUD_000_152","Truth be told, I struggle to recall a day from my childhood when I did not see the three of them laughing together."
+129,"TEXT_HEAVNE106_02346_ALPHINAUD_000_153","If this continues, I may have to raise the matter. Later, though─Little Ala Mhigo awaits."
+130,"TEXT_HEAVNE106_02346_ALPHINAUD_000_160","Still no sign of Thancred..."
+131,"TEXT_HEAVNE106_02346_ALISAIE_000_170","I will get to the bottom of this..."
+132,"TEXT_HEAVNE106_02346_ALISAIE_000_171","Oh, forgive me. I was... It has been a long day. Did you have something to say?"
+133,"TEXT_HEAVNE106_02346_ALISAIE_000_172","Urianger? Oh, I... I've always struggled to understand what's going on in his head. Now more than ever."
+134,"TEXT_HEAVNE106_02346_ALISAIE_000_173","Listen, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>─if anything should happen, it should be me who... Just know that I am prepared to do what must be done."
+135,"TEXT_HEAVNE106_02346_ALISAIE_000_174","Right, then. To more pressing matters. Since we have no idea when Thancred might arrive, I suggest we see what information we can gather in his absence."

@@ -2,74 +2,74 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_SUBSEA075_00487_SEQ_00,沉溺海豚亭的格雷戈里有話要對冒險者說。
-1,TEXT_SUBSEA075_00487_SEQ_01,格雷戈里建議冒險者向其他冒險者問好。和沉溺海豚亭的妮妮雅談談。
-2,TEXT_SUBSEA075_00487_SEQ_02,和妮妮雅進行了交談。妮妮雅問冒險者是不是來向她問好的。將聊天頻道設定為「說話」頻道後，使用鍵盤或軟鍵盤輸入「你好！」，向沉溺海豚亭的妮妮雅問好。
-3,TEXT_SUBSEA075_00487_SEQ_03,向妮妮雅問好了。妮妮雅稱讚了冒險者充滿活力的問候，並要求冒險者再次向她問好。將聊天頻道設定為「說話」頻道後，這次使用定型文輸入「<hex:0212023703>你好！<hex:0212023803>」，再次向沉溺海豚亭的妮妮雅問好。
-4,TEXT_SUBSEA075_00487_SEQ_04,再次向妮妮雅問好了。妮妮雅讓冒險者向難以溝通的興英·斯托姆克勞德問好。和沉溺海豚亭的興英·斯托姆克勞德談談。
-5,TEXT_SUBSEA075_00487_SEQ_05,和興英·斯托姆克勞德進行了交談，被詢問為何找她。將聊天頻道設定為「說話」頻道後，使用鍵盤或軟鍵盤輸入「你好！」，向沉溺海豚亭的興英·斯托姆克勞德問好。
-6,TEXT_SUBSEA075_00487_SEQ_06,向興英·斯托姆克勞德問好後，她並沒有表現出難以溝通的樣子，反而很禮貌地問候了冒險者。而且，她還忠告冒險者不要被妮妮雅騙了。將聊天頻道設定為「說話」頻道後，這次使用定型文輸入「<hex:0212023703>謝謝你。<hex:0212023803>」，向沉溺海豚亭的興英·斯托姆克勞德表示感謝。
-7,TEXT_SUBSEA075_00487_SEQ_07,向興英·斯托姆克勞德表示了感謝。興英·斯托姆克勞德讚揚了冒險者的真誠。並表示會支持冒險者，希望冒險者今後也能保持一顆真誠的心，繼續鍛鍊。
-8,TEXT_SUBSEA075_00487_SEQ_08,
-9,TEXT_SUBSEA075_00487_SEQ_09,
-10,TEXT_SUBSEA075_00487_SEQ_10,
-11,TEXT_SUBSEA075_00487_SEQ_11,
-12,TEXT_SUBSEA075_00487_SEQ_12,
-13,TEXT_SUBSEA075_00487_SEQ_13,
-14,TEXT_SUBSEA075_00487_SEQ_14,
-15,TEXT_SUBSEA075_00487_SEQ_15,
-16,TEXT_SUBSEA075_00487_SEQ_16,
-17,TEXT_SUBSEA075_00487_SEQ_17,
-18,TEXT_SUBSEA075_00487_SEQ_18,
-19,TEXT_SUBSEA075_00487_SEQ_19,
-20,TEXT_SUBSEA075_00487_SEQ_20,
-21,TEXT_SUBSEA075_00487_SEQ_21,
-22,TEXT_SUBSEA075_00487_SEQ_22,
-23,TEXT_SUBSEA075_00487_SEQ_23,
-24,TEXT_SUBSEA075_00487_TODO_00,和妮妮雅對話
-25,TEXT_SUBSEA075_00487_TODO_01,在「說話」頻道下輸入「你好！」<hex:02100103>（I come in peace.）向妮妮雅問好
-26,TEXT_SUBSEA075_00487_TODO_02,在「說話」頻道下輸入定型文「<hex:0212023703>你好！<hex:0212023803>」<hex:02100103>再次向妮妮雅問好
-27,TEXT_SUBSEA075_00487_TODO_03,和興英·斯托姆克勞德對話
-28,TEXT_SUBSEA075_00487_TODO_04,在「說話」頻道下輸入「你好！」<hex:02100103>向興英·斯托姆克勞德問好<hex:02100103>（Greetings and salutations!）
-29,TEXT_SUBSEA075_00487_TODO_05,在「說話」頻道下輸入定型文「<hex:0212023703>謝謝你。<hex:0212023803>」<hex:02100103>向興英·斯托姆克勞德表示感謝
-30,TEXT_SUBSEA075_00487_TODO_06,
-31,TEXT_SUBSEA075_00487_TODO_07,
-32,TEXT_SUBSEA075_00487_TODO_08,
-33,TEXT_SUBSEA075_00487_TODO_09,
-34,TEXT_SUBSEA075_00487_TODO_10,
-35,TEXT_SUBSEA075_00487_TODO_11,
-36,TEXT_SUBSEA075_00487_TODO_12,
-37,TEXT_SUBSEA075_00487_TODO_13,
-38,TEXT_SUBSEA075_00487_TODO_14,
-39,TEXT_SUBSEA075_00487_TODO_15,
-40,TEXT_SUBSEA075_00487_TODO_16,
-41,TEXT_SUBSEA075_00487_TODO_17,
-42,TEXT_SUBSEA075_00487_TODO_18,
-43,TEXT_SUBSEA075_00487_TODO_19,
-44,TEXT_SUBSEA075_00487_TODO_20,
-45,TEXT_SUBSEA075_00487_TODO_21,
-46,TEXT_SUBSEA075_00487_TODO_22,
-47,TEXT_SUBSEA075_00487_TODO_23,
-48,TEXT_SUBSEA075_00487_GREGORY_000_000,喲，冒險者！<hex:02100103>我看見了哦，你好像得到巴德龍的認可了。<hex:02100103>正好，那我教你些海都的冒險者應該做的事情吧。
-49,TEXT_SUBSEA075_00487_GREGORY_000_001,那就是要向其他的冒險者問好！<hex:02100103>為了和前輩、夥伴搞好關係，這一步可是很重要的。
-50,TEXT_SUBSEA075_00487_GREGORY_000_002,首先去找那些熱心的傢伙，和他們熟悉一下吧。<hex:02100103>對了，你就去找妮妮雅問好吧。<hex:02100103>她應該會教你很多事情。
-51,TEXT_SUBSEA075_00487_NINIYA_000_010,哎呀，怎麼了？<hex:02100103>你是來向身為前輩的我問好嗎？
-52,TEXT_SUBSEA075_00487_SYSTEM_000_011,妮妮雅希望冒險者向她問好……
-53,TEXT_SUBSEA075_00487_SYSTEM_100_011,將聊天頻道設定為「說話」頻道後，<hex:02100103>使用鍵盤或軟鍵盤輸入「你好！」，<hex:02100103>向妮妮雅問好。
-54,TEXT_SUBSEA075_00487_SYSTEM_000_012,I come in peace.
-55,TEXT_SUBSEA075_00487_NINIYA_000_020,嗯！你好！<hex:02100103>呵呵，你的問候真有活力啊。<hex:02100103>可以再向我問候一次嗎？
-56,TEXT_SUBSEA075_00487_SYSTEM_000_021,妮妮雅希望冒險者再次向她問好……
-57,TEXT_SUBSEA075_00487_SYSTEM_100_021,將聊天頻道設定為「說話」頻道後，<hex:02100103>這次使用定型文輸入「<hex:0212023703>你好！<hex:0212023803>」，<hex:02100103>再次向妮妮雅問好。
-58,TEXT_SUBSEA075_00487_NINIYA_000_022,嗯嗯！你好！有活力真好啊！<hex:02100103>不過呢，這世上不光只有我這樣平易近人的冒險者，<hex:02100103>難以溝通的冒險者也是有的哦。
-59,TEXT_SUBSEA075_00487_NINIYA_000_023,比如那邊的興英·斯托姆克勞德。<hex:02100103>你要不信的話，就去向她問好試試。
-60,TEXT_SUBSEA075_00487_SINGINGSTORMCLOUD_000_030,你是巴德龍認可的冒險者吧……<hex:02100103>找我什麼事？
-61,TEXT_SUBSEA075_00487_SYSTEM_000_031,興英·斯托姆克勞德問冒險者為什麼找她……
-62,TEXT_SUBSEA075_00487_SYSTEM_100_031,將聊天頻道設定為「說話」頻道後，<hex:02100103>使用鍵盤或軟鍵盤輸入「你好！」，<hex:02100103>向興英·斯托姆克勞德問好。
-63,TEXT_SUBSEA075_00487_SYSTEM_000_032,Greetings and salutations!
-64,TEXT_SUBSEA075_00487_SINGINGSTORMCLOUD_000_040,你好，這麼禮貌的問候，我可不敢當。<hex:02100103>既然巴德龍認可你了，那你也就是我們的同伴了。<hex:02100103>今後請你多多關照。
-65,TEXT_SUBSEA075_00487_SINGINGSTORMCLOUD_000_041,就當是為同伴好，我給你個忠告吧。<hex:02100103>作為一名冒險者，想活得久點的話，<hex:02100103>就不要盲目聽從他人所言。
-66,TEXT_SUBSEA075_00487_SINGINGSTORMCLOUD_000_042,妮妮雅肯定說我難以溝通了吧？<hex:02100103>那傢伙會對陌生人灌輸一些有的沒的事情。<hex:02100103>你可不要輕易被騙了，當心點。
-67,TEXT_SUBSEA075_00487_SYSTEM_000_043,興英·斯托姆克勞德忠告了冒險者……
-68,TEXT_SUBSEA075_00487_SYSTEM_100_043,將聊天頻道設定為「說話」頻道後，<hex:02100103>使用定型文輸入「<hex:0212023703>謝謝你。<hex:0212023803>」，<hex:02100103>向興英·斯托姆克勞德表示感謝。
-69,TEXT_SUBSEA075_00487_SINGINGSTORMCLOUD_000_044,嗯，我喜歡你的這種真誠。<hex:02100103>懷著一顆真誠的心，不斷積累經驗的話，<hex:02100103>你一定能成為一名成功的冒險者。
-70,TEXT_SUBSEA075_00487_SINGINGSTORMCLOUD_000_045,作為在海都一同奮鬥的同伴！<hex:02100103>我會支持你的！
+0,"TEXT_SUBSEA075_00487_SEQ_00","There is no shortage of free advice or cheap hangovers at the Drowning Wench, and Gregory is happy to provide the guidance if not the grog."
+1,"TEXT_SUBSEA075_00487_SEQ_01","Gregory advises you to go pay your respects to other adventurers, as is the custom in Limsa Lominsa. For your first test, he targets Niniya as the recipient of your obeisance. A curious choice, but then again, Gregory is a curious man."
+2,"TEXT_SUBSEA075_00487_SEQ_02","Niniya asks what your business is, and you find yourself momentarily at a loss for words. With the chat mode firmly in <hex:024804F201F403><hex:024904F201F503>Say<hex:0249020103><hex:0248020103>, enter “I come in peace.” with all the dignity you can muster."
+3,"TEXT_SUBSEA075_00487_SEQ_03","While Niniya does not seem displeased by your greeting, she voices a preference for more common parlance. Take a deep breath, relax your shoulders, and with the chat mode in <hex:024804F201F403><hex:024904F201F503>Say<hex:0249020103><hex:0248020103>, enter the auto–translate option <hex:0212023703>Hello!<hex:0212023803> to greet Niniya again."
+4,"TEXT_SUBSEA075_00487_SEQ_04","Niniya is pleased, though you cannot tell whether it is by your greeting or your docility. She urges you to save your more formal utterances for the likes of Singing Stormcloud, and what better time than now?"
+5,"TEXT_SUBSEA075_00487_SEQ_05","The Roegadyn with the fine contralto has heard of you, and would know more. With the chat mode in <hex:024804F201F403><hex:024904F201F503>Say<hex:0249020103><hex:0248020103>, follow Niniya's advice and greet the decorous adventurer by entering “Greetings and salutations!”"
+6,"TEXT_SUBSEA075_00487_SEQ_06","Niniya's advice may have been given in jest, but if your reputation had not preceded you, Singing Stormcloud would likely have taken offense. The bluff adventurer tells you to observe Niniya's deeds and not her words, and such sound counsel deserves a <hex:0212023703>Thank you.<hex:0212023803>"
+7,"TEXT_SUBSEA075_00487_SEQ_07","After thanking Singing Stormcloud for her advice, she seems more amenable to your forthrightness. Will she be as good as her word and summon you back one day for a worthy cause? Or will nothing more come of this encounter? Only time will tell."
+8,"TEXT_SUBSEA075_00487_SEQ_08",""
+9,"TEXT_SUBSEA075_00487_SEQ_09",""
+10,"TEXT_SUBSEA075_00487_SEQ_10",""
+11,"TEXT_SUBSEA075_00487_SEQ_11",""
+12,"TEXT_SUBSEA075_00487_SEQ_12",""
+13,"TEXT_SUBSEA075_00487_SEQ_13",""
+14,"TEXT_SUBSEA075_00487_SEQ_14",""
+15,"TEXT_SUBSEA075_00487_SEQ_15",""
+16,"TEXT_SUBSEA075_00487_SEQ_16",""
+17,"TEXT_SUBSEA075_00487_SEQ_17",""
+18,"TEXT_SUBSEA075_00487_SEQ_18",""
+19,"TEXT_SUBSEA075_00487_SEQ_19",""
+20,"TEXT_SUBSEA075_00487_SEQ_20",""
+21,"TEXT_SUBSEA075_00487_SEQ_21",""
+22,"TEXT_SUBSEA075_00487_SEQ_22",""
+23,"TEXT_SUBSEA075_00487_SEQ_23",""
+24,"TEXT_SUBSEA075_00487_TODO_00","Speak with Niniya."
+25,"TEXT_SUBSEA075_00487_TODO_01","With the chat mode in <hex:024804F201F403><hex:024904F201F503>Say<hex:0249020103><hex:0248020103>, enter “I come in peace.” to greet Niniya."
+26,"TEXT_SUBSEA075_00487_TODO_02","With the chat mode in <hex:024804F201F403><hex:024904F201F503>Say<hex:0249020103><hex:0248020103>, enter the auto–translate option <hex:0212023703>Hello!<hex:0212023803>."
+27,"TEXT_SUBSEA075_00487_TODO_03","Speak with Singing Stormcloud."
+28,"TEXT_SUBSEA075_00487_TODO_04","With the chat mode in <hex:024804F201F403><hex:024904F201F503>Say<hex:0249020103><hex:0248020103>, enter “Greetings and salutations!” to greet Singing Stormcloud."
+29,"TEXT_SUBSEA075_00487_TODO_05","With the chat mode in <hex:024804F201F403><hex:024904F201F503>Say<hex:0249020103><hex:0248020103>, enter the auto–translate option <hex:0212023703>Thank you.<hex:0212023803>."
+30,"TEXT_SUBSEA075_00487_TODO_06",""
+31,"TEXT_SUBSEA075_00487_TODO_07",""
+32,"TEXT_SUBSEA075_00487_TODO_08",""
+33,"TEXT_SUBSEA075_00487_TODO_09",""
+34,"TEXT_SUBSEA075_00487_TODO_10",""
+35,"TEXT_SUBSEA075_00487_TODO_11",""
+36,"TEXT_SUBSEA075_00487_TODO_12",""
+37,"TEXT_SUBSEA075_00487_TODO_13",""
+38,"TEXT_SUBSEA075_00487_TODO_14",""
+39,"TEXT_SUBSEA075_00487_TODO_15",""
+40,"TEXT_SUBSEA075_00487_TODO_16",""
+41,"TEXT_SUBSEA075_00487_TODO_17",""
+42,"TEXT_SUBSEA075_00487_TODO_18",""
+43,"TEXT_SUBSEA075_00487_TODO_19",""
+44,"TEXT_SUBSEA075_00487_TODO_20",""
+45,"TEXT_SUBSEA075_00487_TODO_21",""
+46,"TEXT_SUBSEA075_00487_TODO_22",""
+47,"TEXT_SUBSEA075_00487_TODO_23",""
+48,"TEXT_SUBSEA075_00487_GREGORY_000_000","Ah, adventurer, I see that you received the approbation of Baderon himself. What a pity it would be to mar such a promising start for simple want of knowledge about local customs."
+49,"TEXT_SUBSEA075_00487_GREGORY_000_001","Allow me to show you the ropes. It is the way of adventurers who ply their trade in Limsa Lominsa to seek out others of their kind and pay their respects. I am told this is a carryover from our neighbors of the pirate persuasion."
+50,"TEXT_SUBSEA075_00487_GREGORY_000_002","Now, let's see... Who might you...? Ah, Niniya! She will do. Sally forth and pay her your respects<hex:02092AE947FF22>...whether she's deserving or not<hex:FF01><hex:FF01><hex:03>."
+51,"TEXT_SUBSEA075_00487_NINIYA_000_010","Well, well, well, I see a stormy petrel under my cozy roof. Come to say hello, have you?"
+52,"TEXT_SUBSEA075_00487_SYSTEM_000_011","Niniya is waiting for you to answer."
+53,"TEXT_SUBSEA075_00487_SYSTEM_100_011","With the chat mode in <hex:024804F201F403><hex:024904F201F503>Say<hex:0249020103><hex:0248020103>, use your keyboard or the software keyboard to enter “I come in peace.”"
+54,"TEXT_SUBSEA075_00487_SYSTEM_000_012","I come in peace."
+55,"TEXT_SUBSEA075_00487_NINIYA_000_020","Never occurred to me things were otherwise, but I've heard worse greetings. Might you have something less...ponderous to say?"
+56,"TEXT_SUBSEA075_00487_SYSTEM_000_021","Niniya would like you to greet her again."
+57,"TEXT_SUBSEA075_00487_SYSTEM_100_021","With the chat mode in <hex:024804F201F403><hex:024904F201F503>Say<hex:0249020103><hex:0248020103>, enter the auto–translate option <hex:0212023703>Hello!<hex:0212023803>."
+58,"TEXT_SUBSEA075_00487_NINIYA_000_022","Oh, that was nice! I prefer not to stand on ceremony, unlike some adventurers. But still, we must adopt different ways if we wish to adventure widely and be paid handsomely."
+59,"TEXT_SUBSEA075_00487_NINIYA_000_023","Speaking of different ways, have you paid your respects to Singing Stormcloud? She's one to appreciate a ceremony or three, if you know what I mean."
+60,"TEXT_SUBSEA075_00487_SINGINGSTORMCLOUD_000_030","Ye'll be the 'venturer Baderon was singin' the praises of? What do ye want with me, eh?"
+61,"TEXT_SUBSEA075_00487_SYSTEM_000_031","Singing Stormcloud is waiting for you to answer."
+62,"TEXT_SUBSEA075_00487_SYSTEM_100_031","With the chat mode in <hex:024804F201F403><hex:024904F201F503>Say<hex:0249020103><hex:0248020103>, use your keyboard or the software keyboard to enter “Greetings and salutations!”"
+63,"TEXT_SUBSEA075_00487_SYSTEM_000_032","Greetings and salutations!"
+64,"TEXT_SUBSEA075_00487_SINGINGSTORMCLOUD_000_040","I thank ye kindly for that most peculiar greetin'. Tread softly, though, 'venturer. If ye didn't have the nod from Baderon himself, I might o' taken that for impudence and given you what for."
+65,"TEXT_SUBSEA075_00487_SINGINGSTORMCLOUD_000_041","Now, ye don't seem the cheeky sort, and not an Easterlin' neither. So what─or who─brings ye to a Roegadyn testy from a night o' losin' at the tables?"
+66,"TEXT_SUBSEA075_00487_SINGINGSTORMCLOUD_000_042","A wicked little thing in a black hood is my guess. Niniya does like her little lies. I'll not tell ye to disbelieve her. Just watch what her words bring to folk. That's all ye can do for anyone."
+67,"TEXT_SUBSEA075_00487_SYSTEM_000_043","Singing Stormcloud has given you sound counsel."
+68,"TEXT_SUBSEA075_00487_SYSTEM_100_043","With the chat mode in <hex:024804F201F403><hex:024904F201F503>Say<hex:0249020103><hex:0248020103>, enter the auto–translate option <hex:0212023703>Thank you.<hex:0212023803>"
+69,"TEXT_SUBSEA075_00487_SINGINGSTORMCLOUD_000_044","Ye seem to have sense enough not to go trustin' words o'er deeds. Ye should have no trouble navigatin' the waters 'round here, I reckon."
+70,"TEXT_SUBSEA075_00487_SINGINGSTORMCLOUD_000_045","Be seein' ye, 'venturer! And mayhap I'll come callin' when I've a need for a sensible sort of <hex:02080EE905FF05>lass<hex:FF04>lad<hex:03>!"

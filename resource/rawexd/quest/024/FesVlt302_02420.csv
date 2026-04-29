@@ -2,143 +2,143 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_FESVLT302_02420_SEQ_00,※本任務是特定期間內的任務。<hex:02100103><hex:02100103>米·凱特露天劇場的奧爾特芬斯想向冒險者提一個建議。
-1,TEXT_FESVLT302_02420_SEQ_01,※本任務只有在季節活動開放期間才能接受和進行。<hex:02100103>　季節活動結束後無法進行，敬請注意。<hex:02100103>　詳情請參見官方網站。<hex:02100103><hex:02100103>接受了奧爾特芬斯的建議，向冒險者公會的總管們表達愛意，順便再熟悉一下方法。先去格里達尼亞的魔女咖啡館，對總管使用情感動作「表達愛意」。
-2,TEXT_FESVLT302_02420_SEQ_02,對魔女咖啡館的總管表達了愛意。接下來去烏爾達哈的流沙屋，對總管使用情感動作「表達愛意」。
-3,TEXT_FESVLT302_02420_SEQ_03,對流沙屋的總管表達了愛意。最後去利姆薩·羅敏薩的沉溺海豚亭，對總管使用情感動作「表達愛意」。
-4,TEXT_FESVLT302_02420_SEQ_04,對沉溺海豚亭的總管表達了愛意。向米·凱特露天劇場的奧爾特芬斯報告。
-5,TEXT_FESVLT302_02420_SEQ_05,向奧爾特芬斯報告完畢。在戀人節期間，如果有時間可以再向總管們表達愛意。
-6,TEXT_FESVLT302_02420_SEQ_06,
-7,TEXT_FESVLT302_02420_SEQ_07,
-8,TEXT_FESVLT302_02420_SEQ_08,
-9,TEXT_FESVLT302_02420_SEQ_09,
-10,TEXT_FESVLT302_02420_SEQ_10,
-11,TEXT_FESVLT302_02420_SEQ_11,
-12,TEXT_FESVLT302_02420_SEQ_12,
-13,TEXT_FESVLT302_02420_SEQ_13,
-14,TEXT_FESVLT302_02420_SEQ_14,
-15,TEXT_FESVLT302_02420_SEQ_15,
-16,TEXT_FESVLT302_02420_SEQ_16,
-17,TEXT_FESVLT302_02420_SEQ_17,
-18,TEXT_FESVLT302_02420_SEQ_18,
-19,TEXT_FESVLT302_02420_SEQ_19,
-20,TEXT_FESVLT302_02420_SEQ_20,
-21,TEXT_FESVLT302_02420_SEQ_21,
-22,TEXT_FESVLT302_02420_SEQ_22,
-23,TEXT_FESVLT302_02420_SEQ_23,
-24,TEXT_FESVLT302_02420_TODO_00,對魔女咖啡館的總管做「表達愛意」的情感動作
-25,TEXT_FESVLT302_02420_TODO_01,對流沙屋的總管做「表達愛意」的情感動作
-26,TEXT_FESVLT302_02420_TODO_02,對沉溺海豚亭的總管做「表達愛意」的情感動作
-27,TEXT_FESVLT302_02420_TODO_03,向奧爾特芬斯報告
-28,TEXT_FESVLT302_02420_TODO_04,
-29,TEXT_FESVLT302_02420_TODO_05,
-30,TEXT_FESVLT302_02420_TODO_06,
-31,TEXT_FESVLT302_02420_TODO_07,
-32,TEXT_FESVLT302_02420_TODO_08,
-33,TEXT_FESVLT302_02420_TODO_09,
-34,TEXT_FESVLT302_02420_TODO_10,
-35,TEXT_FESVLT302_02420_TODO_11,
-36,TEXT_FESVLT302_02420_TODO_12,
-37,TEXT_FESVLT302_02420_TODO_13,
-38,TEXT_FESVLT302_02420_TODO_14,
-39,TEXT_FESVLT302_02420_TODO_15,
-40,TEXT_FESVLT302_02420_TODO_16,
-41,TEXT_FESVLT302_02420_TODO_17,
-42,TEXT_FESVLT302_02420_TODO_18,
-43,TEXT_FESVLT302_02420_TODO_19,
-44,TEXT_FESVLT302_02420_TODO_20,
-45,TEXT_FESVLT302_02420_TODO_21,
-46,TEXT_FESVLT302_02420_TODO_22,
-47,TEXT_FESVLT302_02420_TODO_23,
-48,TEXT_FESVLT302_02420_HORTEFENSE_000_000,雖然你現在已經學會了表達愛意的方法，<hex:02100103>但想要對自己最心愛的人使用，還是需要勇氣的吧？<hex:02100103>我正好有一個建議。
-49,TEXT_FESVLT302_02420_HORTEFENSE_000_001,先對平時關照自己的那些人表達愛意作為感謝如何？<hex:02100103>還可以順便熟悉一下用法。
-50,TEXT_FESVLT302_02420_HORTEFENSE_000_002,嗯……你既然是冒險者，<hex:02100103>那麼最適合你表達愛意的對象，就是冒險者公會的總管了吧。
-51,TEXT_FESVLT302_02420_HORTEFENSE_000_004,就先從最近的魔女咖啡館的總管開始好了，<hex:02100103>然後再去流沙屋、沉溺海豚亭。<hex:02100103>等你回來的時候，應該就成為一名了不起的愛意表達者了！
-52,TEXT_FESVLT302_02420_HORTEFENSE_000_010,莫非你還擔心對心愛的人表達不好自己的愛意嗎？<hex:02100103>那就再帶著感激之情向總管們表達一次愛意吧。
-53,TEXT_FESVLT302_02420_HORTEFENSE_000_011,想要表達自己的感情，最重要的就是不斷重覆，熟能生巧。<hex:02100103>那麼就按照上次那樣，先從魔女咖啡館的總管開始，<hex:02100103>再去流沙屋和沉溺海豚亭吧。
-54,TEXT_FESVLT302_02420_HORTEFENSE_000_020,去向三國的冒險者公會的總管們表達愛意吧，<hex:02100103>就當是感謝他們平時對你的照顧。<hex:02100103>等你回來的時候，應該就不會再不安了吧。
-55,TEXT_FESVLT302_02420_MIOUNNE_000_021,戀人節啊……<hex:02100103>這個節日跟我沒什麼關係，不過你就未必了吧？<hex:02100103>要好好跟自己心愛的人表達愛意哦。
-56,TEXT_FESVLT302_02420_BADERON_000_022,我是因為工作才到格里達尼亞來的，<hex:02100103>怎麼說呢，這裡草木的香氣實在太濃烈了，熏得我夠嗆。<hex:02100103>我還是最喜歡利姆薩·羅敏薩海風的清香。
-57,TEXT_FESVLT302_02420_MOMODI_000_023,我剛才品嘗了繆恩沖泡的紅茶，真是太好喝了。<hex:02100103>雖然我只是來這裡辦事的，但總覺得自己賺到了。
-58,TEXT_FESVLT302_02420_MIOUNNE_000_030,咦？！你怎麼突然……<hex:02100103>為什麼要向我表達愛意？！
-59,TEXT_FESVLT302_02420_MIOUNNE_000_031,啊，原來想向我表示感謝啊……嚇了我一大跳。<hex:02100103>既然是感謝，那我就卻之不恭了。
-60,TEXT_FESVLT302_02420_MIOUNNE_000_040,不過，我真的沒做什麼，<hex:02100103>反倒是我該多感謝你才是。<hex:02100103>謝謝你，今後也要請你多多指教，<hex:022903EB0203>！
-61,TEXT_FESVLT302_02420_MIOUNNE_000_050,不過，我真的沒做什麼，<hex:02100103>反倒是我該多感謝你才是。<hex:02100103>謝謝你，今後也要請你多多指教，冒險者！
-62,TEXT_FESVLT302_02420_BADERON_000_060,哇？！<hex:02100103>你、你、你這是幹什麼？！<hex:02100103>為什麼突然對我表達愛意，是在開玩笑嗎？！
-63,TEXT_FESVLT302_02420_BADERON_000_061,哦……原來是表示感謝啊……<hex:02100103>原來如此，白白嚇了我一跳。
-64,TEXT_FESVLT302_02420_BADERON_000_062,不過，沒想到我出來辦個事居然還會被你感謝，<hex:02100103>這可真是個難忘的回憶，謝啦。
-65,TEXT_FESVLT302_02420_BADERON_000_063,那我還有事要辦，就先走了。<hex:02100103>等你下次到利姆薩·羅敏薩，記得來沉溺海豚亭坐坐。
-66,TEXT_FESVLT302_02420_MOMODI_000_070,我還以為是誰呢，原來是<hex:022903EB0203>啊。<hex:02100103>你怎麼想到對我表達愛意了，<hex:02100103>這是吹的哪門子風呀？
-67,TEXT_FESVLT302_02420_MOMODI_000_071,哎呀，原來是想對我表示感謝啊。<hex:02100103>能收到你的感謝，我真是太開心了！
-68,TEXT_FESVLT302_02420_MOMODI_000_072,呵呵呵……看來這次的工作可以有個好心情了。<hex:02100103>謝謝你，<hex:022903EB0203>。
-69,TEXT_FESVLT302_02420_MOMODI_000_073,那麼，我接下來還有事要做，就先告辭了。<hex:02100103>我在流沙屋等著你，如果有空的話隨時可以來找我。
-70,TEXT_FESVLT302_02420_MIOUNNE_000_080,雖然我因為工作來過烏爾達哈好多次，<hex:02100103>但現在還是不習慣這裡的酷熱與塵沙。<hex:02100103>看來我只適合住在格里達尼亞啊。
-71,TEXT_FESVLT302_02420_BADERON_000_081,流沙屋的飯菜在烏爾達哈是首屈一指的。<hex:02100103>每次我過來辦事，都一定要在這裡吃。<hex:02100103>莫莫蒂真是找了個好廚子啊。
-72,TEXT_FESVLT302_02420_MOMODI_000_082,向別人表達愛意是非常重要的哦，<hex:02100103>現在正好是戀人節，趁著這個大好機會，<hex:02100103>你也要好好向自己心愛的人傳達自己的心意喲？
-73,TEXT_FESVLT302_02420_BADERON_000_090,咦？！你怎麼突然……<hex:02100103>為什麼要向我表達愛意？！
-74,TEXT_FESVLT302_02420_MIOUNNE_000_091,啊，原來想向我表示感謝啊……嚇了我一大跳。<hex:02100103>既然是感謝，那我就卻之不恭了。
-75,TEXT_FESVLT302_02420_MIOUNNE_000_092,呵呵……在外地工作的時候居然會發生這麼令人開心的事。<hex:02100103>你可真是的，總能讓我嚇一跳呢。<hex:02100103>能遇到這樣的冒險者，我這個總管真的非常高興。
-76,TEXT_FESVLT302_02420_MIOUNNE_000_093,那我就先告辭了，一會還要去別的地方辦事。<hex:02100103>下次在魔女咖啡館再見吧。
-77,TEXT_FESVLT302_02420_MIOUNNE_000_100,啊，是你啊。<hex:02100103>這是向我……表示感謝嗎？<hex:02100103>開心是很開心，但總覺得有點不好意思呢……
-78,TEXT_FESVLT302_02420_MIOUNNE_000_101,我覺得自己並沒有做什麼特別的事，<hex:02100103>不過，能讓你這樣感謝，我真是沒白當這個總管。<hex:02100103>以後我也會繼續努力的，不會讓你失望。
-79,TEXT_FESVLT302_02420_MIOUNNE_000_102,我現在得走了，之後還有麻煩的工作要處理呢。<hex:02100103>那麼，再會。
-80,TEXT_FESVLT302_02420_BADERON_000_110,怎麼，你又來感謝我了？<hex:02100103>再怎麼討好我我也沒有獎勵給你喲？
-81,TEXT_FESVLT302_02420_BADERON_000_111,而且我根本沒做什麼讓你這麼感謝的事，<hex:02100103>你總是這樣謝我，會讓我有種坐立不安的感覺。<hex:02100103>這可不是在害羞哦？
-82,TEXT_FESVLT302_02420_BADERON_000_112,啊，不好意思，就先聊到這裡吧。<hex:02100103>我還有其他工作要做，得先走了。<hex:02100103>那麼下次再見。
-83,TEXT_FESVLT302_02420_MOMODI_000_120,我還以為是誰呢，原來是<hex:022903EB0203>啊。<hex:02100103>你怎麼想到對我表達愛意了，<hex:02100103>這是吹的哪門子風呀？
-84,TEXT_FESVLT302_02420_MOMODI_000_121,哎呀，原來是想對我表示感謝啊。<hex:02100103>能收到你的感謝，我真是太開心了！
-85,TEXT_FESVLT302_02420_MOMODI_000_122,不過，我也想感謝你呢。<hex:02100103>在你的精彩表現之下，許多人都勇敢了起來。<hex:02100103>所以我要好好謝謝你啊，今後也請你多多關照了。
-86,TEXT_FESVLT302_02420_MOMODI_000_130,怎麼，你又來向我表達愛意啦。<hex:02100103>我知道你是在表示感謝，<hex:02100103>可是你總這樣做的話，我會誤會的哦。
-87,TEXT_FESVLT302_02420_MOMODI_000_131,呵呵……不逗你了，<hex:02100103>能讓你如此感謝是我的榮幸啊。<hex:02100103>今後我可以幹勁十足地去工作了。
-88,TEXT_FESVLT302_02420_MOMODI_000_132,嗯，我不會辜負你的感謝與信任。<hex:02100103>今後也要請你多多關照我和流沙屋，還有聚集在這裡的冒險者了。
-89,TEXT_FESVLT302_02420_MIOUNNE_000_140,沉溺海豚亭的飯菜跟我們那邊的口味不同。<hex:02100103>所以我每次到利姆薩·羅敏薩辦事，<hex:02100103>都會參考一下這裡的烹飪風格。
-90,TEXT_FESVLT302_02420_BADERON_000_141,我對戀人節倒是沒意見，<hex:02100103>但是員工們一個個都興奮地要去表達自己的愛意，<hex:02100103>真是的，能不能好好幹活啊……
-91,TEXT_FESVLT302_02420_MOMODI_000_142,這裡的風與薩納蘭的熱風不同，<hex:02100103>充滿了濕氣與大海的氣味。<hex:02100103>讓人一聞就覺得來到了利姆薩·羅敏薩。
-92,TEXT_FESVLT302_02420_MIOUNNE_000_150,怎麼，又來向我表達愛意了？<hex:02100103>被你如此感謝，我反倒覺得有點過意不去啊。<hex:02100103>因為自己好像並沒有做什麼值得你感謝的事……
-93,TEXT_FESVLT302_02420_MIOUNNE_000_151,啊，不過這種想法對你而言太失禮了。<hex:02100103>嗯……我就大大方方地接受你的感謝吧。<hex:02100103>今後我也會繼續努力，不會讓你失望的。
-94,TEXT_FESVLT302_02420_MIOUNNE_000_152,雖然還想再跟你聊聊，但我得走了。<hex:02100103>我在魔女咖啡館等……不，不久之後再見吧。
-95,TEXT_FESVLT302_02420_BADERON_000_160,哇？！<hex:02100103>你、你、你這是幹什麼？！<hex:02100103>為什麼突然對我表達愛意，是在開玩笑嗎？！
-96,TEXT_FESVLT302_02420_BADERON_000_161,哦……原來是表達感謝啊……<hex:02100103>原來如此，白白嚇了我一跳。
-97,TEXT_FESVLT302_02420_BADERON_000_162,啊……抱歉抱歉，<hex:02100103>我並不是在挑剔你的感謝，<hex:02100103>怎麼說呢，那個……今後也請你多指教了。
-98,TEXT_FESVLT302_02420_BADERON_000_170,怎麼，你又來感謝我了？<hex:02100103>再怎麼討好我我也沒有獎勵給你喲？
-99,TEXT_FESVLT302_02420_BADERON_000_171,而且我根本沒做什麼讓你這麼感謝我的事，<hex:02100103>你總是這樣謝我，會讓我有種坐立不安的感覺。<hex:02100103>這可不是在害羞哦？
-100,TEXT_FESVLT302_02420_BADERON_000_172,不，我也不是討厭你這種行為，<hex:02100103>正如你感謝我一樣，我也很感謝你。<hex:02100103>謝謝你能到我們店裡來。
-101,TEXT_FESVLT302_02420_BADERON_000_180,喂喂，你這傢伙也夠奇怪的了，<hex:02100103>居然好幾次向我表達愛意……<hex:02100103>你應該有其他要傳達心意的對象吧？
-102,TEXT_FESVLT302_02420_BADERON_000_181,不過，被你感謝我也覺得很自豪。<hex:02100103>這表示我所做的事都是正確的。<hex:02100103>今後我也會繼續保持，絕不辜負你的期待。
-103,TEXT_FESVLT302_02420_BADERON_000_182,我會一直在這裡等你來的。<hex:02100103>你什麼時候想來，隨時都可以過來。<hex:02100103>不過……偶爾由我過去找你可能也不錯？
-104,TEXT_FESVLT302_02420_MOMODI_000_200,怎麼，你又來向我表達愛意啦。<hex:02100103>我知道你是在表示感謝，<hex:02100103>可是你總這樣做的話，我會誤會的哦。
-105,TEXT_FESVLT302_02420_MOMODI_000_201,呵呵……不逗你了，<hex:02100103>能讓你如此感謝是我的榮幸啊。<hex:02100103>一會我可以幹勁十足地去工作了。
-106,TEXT_FESVLT302_02420_MOMODI_000_202,好了，為了不辜負你的感謝，我也得去努力工作了。<hex:02100103>下次在那個人見人愛的流沙屋再見吧，<hex:022903EB0203>。
-107,TEXT_FESVLT302_02420_MOMODI_000_210,真是的……你向我表示感謝我雖然很高興，<hex:02100103>可是比起向我表達愛意，<hex:02100103>應該還有更值得你傳達自己心意的人吧？
-108,TEXT_FESVLT302_02420_MOMODI_000_211,難不成……你和某人之間出了什麼問題？<hex:02100103>如果真是這樣的話，你隨時都可以找我傾訴哦。<hex:02100103>我一定會盡全力幫你解決戀愛煩惱的！
-109,TEXT_FESVLT302_02420_MOMODI_000_212,那我差不多要回去工作了，<hex:02100103>我們在流沙屋再見吧。<hex:02100103>別忘了隨時都可以去那裡找我商量哦。
-110,TEXT_FESVLT302_02420_HORTEFENSE_000_220,冒險者，你回來啦！<hex:02100103>看來你已經向公會的總管們表達過自己的愛意了。
-111,TEXT_FESVLT302_02420_HORTEFENSE_000_221,那麼，接下來終於要來真格的了。<hex:02100103>去向你心愛的人表達愛意吧。<hex:02100103>你可要好好傳達自己的心意，加深你們之間的愛哦！
-112,TEXT_FESVLT302_02420_MIOUNNE_000_230,嗨，你也來了啊。<hex:02100103>我正在想事情……不自覺就走到這裡來了。
-113,TEXT_FESVLT302_02420_MIOUNNE_000_231,不過，可能是因為你向我表達了愛意吧，<hex:02100103>這讓我陷入了沉思，思考一些平時沒怎麼思考過的事情，<hex:02100103>比如……要怎麼回應你的愛。
-114,TEXT_FESVLT302_02420_MIOUNNE_000_232,不過，這根本沒什麼可思考的。<hex:02100103>因為我能做的，只有好好守護魔女咖啡館，<hex:02100103>並隨時為旅行者們奉上最美味的紅茶而已。
-115,TEXT_FESVLT302_02420_MIOUNNE_000_233,我一直都這樣為旅行者們準備可以暫時停靠的地方。<hex:02100103>以前是，以後也是……<hex:02100103>這就是我自己表達愛意的方式了。
-116,TEXT_FESVLT302_02420_MIOUNNE_000_234,說了這麼久，我得回店裡去了。<hex:02100103>如果有時間的話，你也去我那裡坐坐吧，<hex:02100103>順便看我是怎麼表達自己愛意的。
-117,TEXT_FESVLT302_02420_BADERON_000_240,嗨，你在這啊。<hex:02100103>因為你向我表達了愛意，讓我總覺得惦記些什麼，<hex:02100103>所以就趁工作的時候過來了。
-118,TEXT_FESVLT302_02420_BADERON_000_241,不過，戀人節這種酸甜的氣氛<hex:02100103>對我這個中年單身男人來說真是肉麻極了。<hex:02100103>我是不是也該認認真真地找個老婆了呢……
-119,TEXT_FESVLT302_02420_BADERON_000_242,喂，這有什麼可吃驚的。<hex:02100103>你是想像不出我成家之後會是什麼樣子吧，<hex:02100103>其實我自己也想像不出啦……
-120,TEXT_FESVLT302_02420_BADERON_000_243,畢竟我現在是冒險者公會的總管，<hex:02100103>必須要照看到店裡來的新冒險者們……<hex:02100103>對現在的我來說，他們就是我的家人。
-121,TEXT_FESVLT302_02420_BADERON_000_244,當然，身為冒險者的你也是其中之一哦？<hex:02100103>既然如此，比起找老婆，<hex:02100103>守護我們的家——沉溺海豚亭才是更適合我的表達愛意的方式吧。
-122,TEXT_FESVLT302_02420_BADERON_000_245,那我就先回利姆薩·羅敏薩了。<hex:02100103>店裡交給絲·赫茱碧他們也挺讓人放心不下的。<hex:02100103>期待你再回店裡來。
-123,TEXT_FESVLT302_02420_MOMODI_000_250,哎呀，你也來了嗎？<hex:02100103>看到你那麼熱烈地表達愛意，讓我不由得有些在意，<hex:02100103>所以就趁工作的時候到這裡來看看……真是巧啊。
-124,TEXT_FESVLT302_02420_MOMODI_000_251,說實話……我有時候會感到很不安。<hex:02100103>擔心自己正在做的事是不是錯的，<hex:02100103>會不會又像那個人那樣白費工夫。
-125,TEXT_FESVLT302_02420_MOMODI_000_252,不過，看到你這樣感謝我，<hex:02100103>我覺得自己就可以堂堂正正地站在流沙屋的櫃檯前，<hex:02100103>繼續守護著大家了。
-126,TEXT_FESVLT302_02420_MOMODI_000_253,對我來說，這或許就是我表達愛意的方式吧。<hex:02100103>所以，真的很對不起，我不能只接受你一個人……<hex:02100103>噗，開玩笑的啦！
-127,TEXT_FESVLT302_02420_MOMODI_000_254,聊了這麼多，我得回去工作了。<hex:02100103>下次在流沙屋再見吧。
-128,TEXT_FESVLT302_02420_HORTEFENSE_000_260,對了，我突然想到一個好主意！<hex:02100103>你稍微等我一下，我馬上回來！
-129,TEXT_FESVLT302_02420_LISETTE_000_261,咦，冒險者在這裡耶！<hex:02100103>你說找人家有事，現在人家過來了，到底有什麼事呀？
-130,TEXT_FESVLT302_02420_HORTEFENSE_000_262,我的聖女莉賽特小姐！<hex:02100103>我想讓這位冒險者看看我們是如何表達愛意的！
-131,TEXT_FESVLT302_02420_LISETTE_000_263,……啊？
-132,TEXT_FESVLT302_02420_HORTEFENSE_000_264,只要看到我們表達愛意的樣子，<hex:02100103><hex:02080DE905FF04>她<hex:FF04>他<hex:03>就可以以此為參考學會怎麼向他人表達愛意了！<hex:02100103>怎麼樣，莉賽特小姐！
-133,TEXT_FESVLT302_02420_LISETTE_000_265,不、不不、不怎麼樣，你給我等一下！<hex:02100103>誰會陪你在這裡犯蠢啊！<hex:02100103>而且你讓冒險者看這些，人家也會覺得困擾的好嗎！
-134,TEXT_FESVLT302_02420_HORTEFENSE_000_266,哈哈哈，這有什麼可害羞的啊，莉賽特小姐！<hex:02100103>我們可是永結同心的關係啊！<hex:02100103>還、還是說……你已經討厭我了？
-135,TEXT_FESVLT302_02420_LISETTE_000_267,怎麼可能！<hex:02100103>那個……這個……我、我……<hex:02100103>愛……奧爾特芬斯……哦……
-136,TEXT_FESVLT302_02420_HORTEFENSE_000_268,莉賽特小姐！<hex:02100103>我也是！我比世界上任何一個人都更愛你！
-137,TEXT_FESVLT302_02420_HORTEFENSE_000_269,哎呀，不好意思，我們有點忘乎所以了。<hex:02100103>不過話說回來，你看上去好像很累啊。<hex:02100103>既然這樣，練習就到此為止吧……
-138,TEXT_FESVLT302_02420_HORTEFENSE_000_270,雖然很遺憾，但這也是沒辦法的。<hex:02100103>那我們就先告辭了，<hex:02100103>祝願你能快點熟練地表達自己的愛意哦。
-139,TEXT_FESVLT302_02420_HORTEFENSE_000_003,（★未使用／削除予定★）
+0,"TEXT_FESVLT302_02420_SEQ_00","Hortefense has the look of a man with a plan.<hex:02100103>※This quest is available for a limited time only."
+1,"TEXT_FESVLT302_02420_SEQ_01","Hortefense encourages you to practice your newly acquired smooching skills on the proprietors of each Adventurers' Guild, in the hope that the experience will ready you for your one true love. You make tracks for the Carline Canopy, to share some festive feelings with friends─although your method of expressing said sentiments may not be quite what they were expecting.<hex:02100103><hex:02100103>※Please note that you will be unable to complete this quest after the seasonal event has ended. For details, please check the Lodestone."
+2,"TEXT_FESVLT302_02420_SEQ_02","Upon arriving at the Carline Canopy, you promptly set about blowing a barrage of kisses at your guildmaster of choice. Unsurprisingly, this doesn't go down quite as smoothly as a simple handshake might have. Nevertheless, you are confident the message was received and set off for your next destination: the Quicksand."
+3,"TEXT_FESVLT302_02420_SEQ_03","Much like in Gridania, the guildmaster you express your gratitude to in the Quicksand is somewhat confounded, but ultimately flattered by your actions. It is up to you whether or not you decide to think up a slightly more conventional way of sharing your thanks, or simply double down on blowing kisses. You ponder this weighty issue as you head for the Drowning Wench."
+4,"TEXT_FESVLT302_02420_SEQ_04","Love is more than a feeling, which is something the guildmasters well and truly know by this point. Some of them even begin to wonder if you haven't gone a bit strange in the head, but all misunderstandings are sorted out in the end. Having visited all three proprietors' establishments, you return to Mih Khetto's Amphitheatre to regale Hortefense with tales of your oh-so-romantic travels."
+5,"TEXT_FESVLT302_02420_SEQ_05","Hortefense is delighted to hear that you have gone to great pains to master the time-honored House Valentione art of doting, and declares you free to go forth and capture the heart of your special someone. If you still don't feel confident in your ability to dote, mayhap you should try visiting your favored guildmaster─or masters─again before the season comes to a close."
+6,"TEXT_FESVLT302_02420_SEQ_06",""
+7,"TEXT_FESVLT302_02420_SEQ_07",""
+8,"TEXT_FESVLT302_02420_SEQ_08",""
+9,"TEXT_FESVLT302_02420_SEQ_09",""
+10,"TEXT_FESVLT302_02420_SEQ_10",""
+11,"TEXT_FESVLT302_02420_SEQ_11",""
+12,"TEXT_FESVLT302_02420_SEQ_12",""
+13,"TEXT_FESVLT302_02420_SEQ_13",""
+14,"TEXT_FESVLT302_02420_SEQ_14",""
+15,"TEXT_FESVLT302_02420_SEQ_15",""
+16,"TEXT_FESVLT302_02420_SEQ_16",""
+17,"TEXT_FESVLT302_02420_SEQ_17",""
+18,"TEXT_FESVLT302_02420_SEQ_18",""
+19,"TEXT_FESVLT302_02420_SEQ_19",""
+20,"TEXT_FESVLT302_02420_SEQ_20",""
+21,"TEXT_FESVLT302_02420_SEQ_21",""
+22,"TEXT_FESVLT302_02420_SEQ_22",""
+23,"TEXT_FESVLT302_02420_SEQ_23",""
+24,"TEXT_FESVLT302_02420_TODO_00","/dote on a guildmaster in the Carline Canopy."
+25,"TEXT_FESVLT302_02420_TODO_01","/dote on a guildmaster in the Quicksand."
+26,"TEXT_FESVLT302_02420_TODO_02","/dote on a guildmaster in the Drowning Wench."
+27,"TEXT_FESVLT302_02420_TODO_03","Report to Hortefense."
+28,"TEXT_FESVLT302_02420_TODO_04",""
+29,"TEXT_FESVLT302_02420_TODO_05",""
+30,"TEXT_FESVLT302_02420_TODO_06",""
+31,"TEXT_FESVLT302_02420_TODO_07",""
+32,"TEXT_FESVLT302_02420_TODO_08",""
+33,"TEXT_FESVLT302_02420_TODO_09",""
+34,"TEXT_FESVLT302_02420_TODO_10",""
+35,"TEXT_FESVLT302_02420_TODO_11",""
+36,"TEXT_FESVLT302_02420_TODO_12",""
+37,"TEXT_FESVLT302_02420_TODO_13",""
+38,"TEXT_FESVLT302_02420_TODO_14",""
+39,"TEXT_FESVLT302_02420_TODO_15",""
+40,"TEXT_FESVLT302_02420_TODO_16",""
+41,"TEXT_FESVLT302_02420_TODO_17",""
+42,"TEXT_FESVLT302_02420_TODO_18",""
+43,"TEXT_FESVLT302_02420_TODO_19",""
+44,"TEXT_FESVLT302_02420_TODO_20",""
+45,"TEXT_FESVLT302_02420_TODO_21",""
+46,"TEXT_FESVLT302_02420_TODO_22",""
+47,"TEXT_FESVLT302_02420_TODO_23",""
+48,"TEXT_FESVLT302_02420_HORTEFENSE_000_000","Now that you have learned the art of doting, 'tis time you put it to good use. As you may know, blowing a kiss in the direction of the apple of your eye requires unspeakable courage─which is why I propose you practice first!"
+49,"TEXT_FESVLT302_02420_HORTEFENSE_000_001","To that end, I suggest you visit those who have supported you on your adventures thus far and express your appreciation. I speak of the three proprietors of Eorzea's Adventurers' Guild, of course! I know I certainly would never have found true love if not for the encouragement of mine own friends!"
+50,"TEXT_FESVLT302_02420_HORTEFENSE_000_002","Surely, naught could go amiss were you to give your favorite guildmaster or mistress a kiss─or two, or even three!─as an expression of your gratitude. Yes, I can imagine no way they could possibly misconstrue your actions. "
+51,"TEXT_FESVLT302_02420_HORTEFENSE_000_004","To begin with, why not head to the Carline Canopy? It's right in the neighborhood, and I hear that Baderon and Momodi have joined Mother Miounne there to partake in the festivities. Word has it that they shall also be heading to the Quicksand and the Drowning Wench later."
+52,"TEXT_FESVLT302_02420_HORTEFENSE_000_010","Are you perchance still feeling too shy to share your innermost feelings with your true love? If you feel you are in need of more practice, why not pay another visit to the proprietors of the Adventurers' Guilds? They may appreciate the continued display of affection."
+53,"TEXT_FESVLT302_02420_HORTEFENSE_000_011","Take heart, friend! Keep at it and eventually it will become second nature. Now, go forth once more and deliver some seasonal cheer to the guildmasters."
+54,"TEXT_FESVLT302_02420_HORTEFENSE_000_020","Why do you tarry, friend? There is a whole new world of ardor and affection just waiting for you out there! Go and practice sharing your deepest emotions with your friends, that one day you will be prepared to share your soul with the one you hold dearest."
+55,"TEXT_FESVLT302_02420_MIOUNNE_000_021","Ah, is it truly that time of year once more? I cannot say I have had much occasion to celebrate Valentione's Day in recent years, but there certainly is something to be said for sharing your feelings with those dearest to you."
+56,"TEXT_FESVLT302_02420_BADERON_000_022","'Ad to come 'ere to sort out some guild business, but bloody 'ells those trees sure let ye know yer in Gridania. Really clogged up me nose, they 'ave. Aye, there's no doubt in me mind─I'm a Limsa man and ever will be!"
+57,"TEXT_FESVLT302_02420_MOMODI_000_023","I'm just here to handle some guild matters, but I managed to snag a pipin' hot cup of tea from Mother Miounne on the side. It's the little things in life!"
+58,"TEXT_FESVLT302_02420_MIOUNNE_000_030","Why, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! Whatever has gotten into you? I know 'tis the season for love, but I had always thought our own relationship to be more...professional."
+59,"TEXT_FESVLT302_02420_MIOUNNE_000_031","It was simply an expression of your appreciation, you say? I must admit, you startled me somewhat, but I am touched by the sentiment."
+60,"TEXT_FESVLT302_02420_MIOUNNE_000_040","Though truly, I have done nothing so significant to be deserving of such...profuse affection. On the contrary, it is <hex:021A020203>I<hex:021A020103> who should thank <hex:021A020203>you<hex:021A020103> for all you have done on behalf of Gridania and our realm. I hope we can continue to count on you for years to come, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>."
+61,"TEXT_FESVLT302_02420_MIOUNNE_000_050","Though truly, I have done nothing so significant to be deserving of such...profuse affection. On the contrary, it is <hex:021A020203>I<hex:021A020103> who should thank <hex:021A020203>you<hex:021A020103> for all you have done on behalf of Gridania and our realm. I hope we can continue to count on you for years to come."
+62,"TEXT_FESVLT302_02420_BADERON_000_060","Oi! What in the 'ells do ye think yer doin'!? Did I look like I was standin' 'ere just waiting for a big sloppy one!?"
+63,"TEXT_FESVLT302_02420_BADERON_000_061","Just yer way o' sayin' <hex:021A020203>thanks<hex:021A020103>, ye say? Well, I guess it is the season fer it... Didn't 'alf startle me clean out of me boots, mind ye!"
+64,"TEXT_FESVLT302_02420_BADERON_000_062","Not that I'm complainin' that someone finally decided to thank me for doin' this job. Yer a good <hex:02080EE905FF05>lass<hex:FF04>lad<hex:03>, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>."
+65,"TEXT_FESVLT302_02420_BADERON_000_063","Anyroad, I best be on me way. Got a guild meeting to attend, as it 'appens. Do pop in the Drowning Wench next time yer in Limsa."
+66,"TEXT_FESVLT302_02420_MOMODI_000_070","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>...? Are you feelin' quite all right? If I didn't know better, I could've sworn you just tried to <hex:021A020203>kiss<hex:021A020103> me!"
+67,"TEXT_FESVLT302_02420_MOMODI_000_071","Your way of sayin' <hex:021A020203>thanks<hex:021A020103>!? Listen, it's not that I don't appreciate the sentiment, but don't you think the season's gone to your head a bit?"
+68,"TEXT_FESVLT302_02420_MOMODI_000_072","Mind you, it has given me a nice little boost─and somethin' to smile about once the day's done! You may have an odd way of expressin' yourself, but I could get used to being thanked every now and then."
+69,"TEXT_FESVLT302_02420_MOMODI_000_073","Anyroad, it's about time for me to head off! Got a guild meeting scheduled, and you know they can't start without Ul'dah's most fiery desert rose."
+70,"TEXT_FESVLT302_02420_MIOUNNE_000_080","My duties with the guild frequently bring me to Ul'dah. 'Tis a fine city indeed, but this heat can be quite trying compared to the more temperate climes of Gridania. Yes, the forest will ever be my home."
+71,"TEXT_FESVLT302_02420_BADERON_000_081","I always stop off 'ere to scoff some grub whenever I'm in Ul'dah. 'Aven't the faintest who Momodi 'as workin' the kitchens, but she chose well, I reckon."
+72,"TEXT_FESVLT302_02420_MOMODI_000_082","Your, ah...<hex:021A020203>creative<hex:021A020103> gesture of thanks back there got me thinkin'─there's somethin' to be said for takin' the time to express our true feelings to those around us. And I reckon Valentione's Day's as good a time as any to do it. Don't suppose you'd happen to have anyone in mind?"
+73,"TEXT_FESVLT302_02420_BADERON_000_090","Why, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! Whatever 'as gotten into you? I know 'tis the season for love, but I 'ad always thought our own relationship to be more...professional."
+74,"TEXT_FESVLT302_02420_MIOUNNE_000_091","It was simply an expression of your appreciation, you say? I must admit, you startled me somewhat, but I am touched by the sentiment."
+75,"TEXT_FESVLT302_02420_MIOUNNE_000_092","It warms my heart that we can count an adventurer as delightful as yourself among our ranks. Pray continue to grace us with your charming presence."
+76,"TEXT_FESVLT302_02420_MIOUNNE_000_093","I would love to stay and chat a while longer, but alas, I have a guild meeting I must attend. I look forward to seeing you again at the Canopy in the not-too-distant future, friend!"
+77,"TEXT_FESVLT302_02420_MIOUNNE_000_100","Why, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! I do not mean to spurn your gratitude, but you are making me blush..."
+78,"TEXT_FESVLT302_02420_MIOUNNE_000_101","Truly, I have done naught so special as to deserve such a grand display of thanks. It is an honor being able to serve adventurers such as yourself─an honor I hope to continue to be blessed with for many years to come."
+79,"TEXT_FESVLT302_02420_MIOUNNE_000_102","Speaking of which, there is one last guild meeting for me to attend before the <hex:020831E3E90C0DFF15><hex:020811E3E90C05FF06>night<hex:FF04>day<hex:03><hex:FF15><hex:020811E3E90C12FF04>day<hex:FF06>night<hex:03><hex:03> is over. Farewell for now."
+80,"TEXT_FESVLT302_02420_BADERON_000_110","Again!? Look, I get that yer grateful, I really do, but if yer expectin' me to treat you to a tankard o' me finest on the house, ye can think again!"
+81,"TEXT_FESVLT302_02420_BADERON_000_111","The guild's me job, after all, an' it's adventurers like you what do the dirty work. If ye really must show your appreciation, what say ye buy ol' Baderon a flagon of ale next time?"
+82,"TEXT_FESVLT302_02420_BADERON_000_112","Anyroad, I'd best be movin' on. Plenty o' guild dealin's still to be done, and someone 'as to do the doin'. Till next time, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>."
+83,"TEXT_FESVLT302_02420_MOMODI_000_120","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>...? Are you feelin' quite all right? If I didn't know better, I could've sworn you just tried to <hex:021A020203>kiss<hex:021A020103> me!"
+84,"TEXT_FESVLT302_02420_MOMODI_000_121","Your way of sayin' <hex:021A020203>thanks<hex:021A020103>!? Listen, it's not that I don't appreciate the sentiment, but don't you think the season's gone to your head a bit?"
+85,"TEXT_FESVLT302_02420_MOMODI_000_122","You won't find me blowin' kisses in your direction, but don't get me wrong─I'm grateful to you all the same. You're a shinin' star to adventurers the realm over, and I hope you'll continue to shine bright for years to come."
+86,"TEXT_FESVLT302_02420_MOMODI_000_130","Look, now. The sentiment's touchin' and all, but do you think you could find a more...<hex:021A020203>subtle<hex:021A020103> way of expressin' it? People might get the wrong idea."
+87,"TEXT_FESVLT302_02420_MOMODI_000_131","It is nice though, bein' thanked now and then, and your timin' is spot on given the season! You know what, you might be onto something here..."
+88,"TEXT_FESVLT302_02420_MOMODI_000_132","Think up a slightly more <hex:021A020203>normal<hex:021A020103> way of showin' your gratitude and I'd be more than glad to be thanked a hundred times over! You'd be setting a good example for all the other adventurers in the Quicksand too. You know, maybe it wouldn't hurt if you stopped by a little more often."
+89,"TEXT_FESVLT302_02420_MIOUNNE_000_140","The food at the Drowning Wench really has a special something to it, don't you think? I always make a point of stopping by when business brings me to Limsa Lominsa. The cuisine truly spurs me on to better the Canopy's dishes."
+90,"TEXT_FESVLT302_02420_BADERON_000_141","Valentione's Day is great an' all, but it doesn' 'alf distract me workers from the task at 'and. I ain't payin' ye people to wander around in a lovey-dovey stupor!"
+91,"TEXT_FESVLT302_02420_MOMODI_000_142","The climate here is a welcome change to the swelterin' winds of Thanalan, for sure. Although I can't say I'm too keen on that smell of what I'm guessing is...rotting fish?"
+92,"TEXT_FESVLT302_02420_MIOUNNE_000_150","I suppose they do say the third time's a charm, but you're starting to make me feel somewhat flustered. Have I truly done enough to warrant all these displays of gratitude?"
+93,"TEXT_FESVLT302_02420_MIOUNNE_000_151","Not that I meant to say your gesture is unwelcome. It is up to me to prove that I am worthy of your thanks."
+94,"TEXT_FESVLT302_02420_MIOUNNE_000_152","Speaking of which, I must get back to the Canopy. I have no doubt there will be plenty of adventurers there waiting for a nice hot cup of tea. Well, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, I suppose I shall see you again sometime soon."
+95,"TEXT_FESVLT302_02420_BADERON_000_160","Oi! What in the 'ells do ye think yer doin'!? Did I look like I was standin' 'ere just waiting for a big sloppy one!?"
+96,"TEXT_FESVLT302_02420_BADERON_000_161","Just yer way o' sayin' <hex:021A020203>thanks<hex:021A020103>, ye say? Well, I guess it is the season fer it... Didn't 'alf startle me clean out of me boots, mind ye!"
+97,"TEXT_FESVLT302_02420_BADERON_000_162","Not that I mean to belittle yer gesture, o' course! It's nice that someone finally decided to thank me for doin' this job. Much obliged, <hex:02080EE905FF05>lass<hex:FF04>lad<hex:03>. I look forward to yer continued patronage o' the Wench."
+98,"TEXT_FESVLT302_02420_BADERON_000_170","Again!? Look, I get that yer grateful, I really do, but if yer expectin' me to treat you to a tankard o' me finest on the house, ye can think again!"
+99,"TEXT_FESVLT302_02420_BADERON_000_171","The guild's me job, after all, an' it's adventurers like you what do the dirty work. If ye really must show your appreciation, what say ye buy ol' Baderon a flagon of ale next time?"
+100,"TEXT_FESVLT302_02420_BADERON_000_172","And I would 'ave ye know, I'm just as grateful for ye too─even though I might not be the best at showin' it. Just remember, there'll always be a seat for ye in me tavern, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Ye can count on that."
+101,"TEXT_FESVLT302_02420_BADERON_000_180","I could've sworn we agreed ye'd treat me to some ale the last time we met. More importantly, don't ye 'ave anyone else ye fancy showerin' with yer love fer a change? Honestly, seems yer gratitude is as bottomless as the flagons at this very tavern!"
+102,"TEXT_FESVLT302_02420_BADERON_000_181","Which ain't to say I don't appreciate the sentiment. Yer sheer tenacity shows I must be doin' somethin' right─and I'll do me best to make sure I keep it up!"
+103,"TEXT_FESVLT302_02420_BADERON_000_182","Stop by whenever yer thirsty for the realm's finest ale, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! Heck, maybe if yer lucky, I'll bump into ye on the road somewhere."
+104,"TEXT_FESVLT302_02420_MOMODI_000_200","Look, now. The sentiment's touchin' and all, but do you think you could find a more...<hex:021A020203>subtle<hex:021A020103> way of expressin' it? People might get the wrong idea."
+105,"TEXT_FESVLT302_02420_MOMODI_000_201","It is nice though, to be thanked now and then─and your timin' is spot on given the season! You know what, think up a slightly more <hex:021A020203>normal<hex:021A020103> way of showin' your gratitude, and I'd be more than glad to be thanked a hundred times over!"
+106,"TEXT_FESVLT302_02420_MOMODI_000_202","It's time I was on my way, anyroad. Plenty of guild matters to get to! No doubt I'll be seeing you in the Quicksand again soon─no one can resist its call for too long!"
+107,"TEXT_FESVLT302_02420_MOMODI_000_210","Look, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, I appreciate the attention and all, but are you seriously tellin' me there ain't anyone else out there you should be thankin'?"
+108,"TEXT_FESVLT302_02420_MOMODI_000_211","Let me guess...you've not been so lucky in love lately? Don't feel like you can't open up to me about your worries─I know a thing or two when it comes to matters of the heart!"
+109,"TEXT_FESVLT302_02420_MOMODI_000_212","Sadly I can't help you <hex:021A020203>right<hex:021A020103> now, as work calls, dear <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! But don't forget, I'm always around if you need someone to talk to."
+110,"TEXT_FESVLT302_02420_HORTEFENSE_000_220","Welcome back, adventurer! The rosy hue of your cheeks gives me the most tantalizing of glimpses into the journey of romance and passion you have embarked upon."
+111,"TEXT_FESVLT302_02420_HORTEFENSE_000_221","But this is no time to be resting on your laurels! The moment you have been working towards is finally at hand. Go forth and lay your heart bare to the one for whom you pine!"
+112,"TEXT_FESVLT302_02420_MIOUNNE_000_230","Oh...<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. I was hoping I might find you here. Your displays of gratitude gave me pause for thought, and before I knew it, I was making my way to this very spot."
+113,"TEXT_FESVLT302_02420_MIOUNNE_000_231","I could not help myself from wondering how best to prove that I am worthy of your thanks. It is somewhat embarrassing to admit, but it has even distracted me from my duties at the guild."
+114,"TEXT_FESVLT302_02420_MIOUNNE_000_232","And yet the answer was staring me in the face the whole time. Or should I say, its aroma wafting up gently into my nose. I speak of tea, of course. I can think of no way more natural for me to support the guild's adventurers."
+115,"TEXT_FESVLT302_02420_MIOUNNE_000_233","I simply need to make sure the Canopy continues to exist as a space where all those traveling through Eorzea may take respite. That is how it has always been and I pray it will never change."
+116,"TEXT_FESVLT302_02420_MIOUNNE_000_234","Speaking of which, I should be getting back to the Canopy. Do stop by again when you feel in need of some respite from the road. I'll see to it you're served with a hot cup of tea which warms your heart, just as you have warmed mine."
+117,"TEXT_FESVLT302_02420_BADERON_000_240","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! Just the <hex:02080EE905FF05>lass<hex:FF04>lad<hex:03> I was 'opin' to find. I'd been tryin' to make sense of all yer gestures o' thanks today and figured I'd just come and talk to ye meself."
+118,"TEXT_FESVLT302_02420_BADERON_000_241","It 'as to be said though, being a middle-aged bloke on Valentione's Day can make ye feel a lot like ye've been left at sea.<hex:02100103>...Mayhap it's time I found meself a comely wench to settle down with."
+119,"TEXT_FESVLT302_02420_BADERON_000_242","Oi, don't ye give me that look, now! The thought of a bloody litter o' little Baderons runnin' about scares me just as much as anyone, believe you me."
+120,"TEXT_FESVLT302_02420_BADERON_000_243","Besides, I already 'ave a family bein' in charge of this guild as it is! Aye, me 'ands are plenty full with green adventurers wanderin' in every day─never mind actual bloody children."
+121,"TEXT_FESVLT302_02420_BADERON_000_244","And never forget that ye too are part of me adventurer family! Wenches are all well an' good, but I reckon that the most important one 'as been mine all along. Aye, she may be drownin', but we ain't all perfect."
+122,"TEXT_FESVLT302_02420_BADERON_000_245","And I'll do me very best to make sure she's the finest of 'omes for all me adventurin' family. Speakin' o' the Wench, 'bout time I were 'eadin' back. I've left the pub in the 'ands of S'dhodjbi, and it's makin' me sweat to say the least. Don't forget to stop by again sometime soon, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>!"
+123,"TEXT_FESVLT302_02420_MOMODI_000_250","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! Just the person I was looking for! I was havin' a chuckle recallin' all your gestures today and decided I'd come pay you a visit─see if you hadn't thought up any new ways of showin' your gratitude."
+124,"TEXT_FESVLT302_02420_MOMODI_000_251","It might not look like it, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, but believe it or not I do worry sometimes. I wonder whether or not all that I do is truly makin' a difference in the world, and that sort of thing."
+125,"TEXT_FESVLT302_02420_MOMODI_000_252","But then I see the huge smiles on the faces of so many adventurers, just like you, and I think of all the good you do for the realm."
+126,"TEXT_FESVLT302_02420_MOMODI_000_253","That's why I'm goin' to keep expressing my love through the Quicksand. In short: sorry, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, but if you felt anythin' other than gratitude for me, you'll have to give up─there's far too many other adventurers that need my attention!"
+127,"TEXT_FESVLT302_02420_MOMODI_000_254","And on that note, it really is time I headed back. Lookin' forward to seein' your novel new way of expressin' your thanks the next time you visit me!"
+128,"TEXT_FESVLT302_02420_HORTEFENSE_000_260","Although, judging by the look on your face, mayhap you are yet to discover your special someone? Pray wait a short while, dear adventurer, I have an idea. I shall return posthaste!"
+129,"TEXT_FESVLT302_02420_LISETTE_000_261","Well, if it isn't House Valentione's favorite adventurer! Truly, we are ever in your debt for all you have done to help spread love across the land. Is there something you would ask of me?"
+130,"TEXT_FESVLT302_02420_HORTEFENSE_000_262","Dearest Lissie, as you know, I have been trying to teach our friend how best to express the love that lies deep within. As I began to wonder if my earlier instructions were not somewhat lacking, it hit me─what better way to show <hex:02080DE905FF04>her<hex:FF04>him<hex:03> how it is done than with a demonstration of <hex:021A020203>our<hex:021A020103> love!?"
+131,"TEXT_FESVLT302_02420_LISETTE_000_263","...Sorry, <hex:021A020203>what<hex:021A020103>?"
+132,"TEXT_FESVLT302_02420_HORTEFENSE_000_264","We must needs have <hex:02080DE905FF04>her<hex:FF04>him<hex:03> see the romantic passion between us as it bubbles to the surface, before erupting, covering all in love's lava! Do you not agree, Lisette?"
+133,"TEXT_FESVLT302_02420_LISETTE_000_265","Do you really think for one second I would do such a bleedin' ridiculous thing!? Are you sure just one adventurer's enough? Why don't we invite all of Eorzea to watch!?"
+134,"TEXT_FESVLT302_02420_HORTEFENSE_000_266","'Tis no time to be getting cold feet, Lissie! The two of us have been bonded for eternity, to be one forevermore!<hex:02100103>Or could it be─heavens, no! Has our love's candle had its ferocious flame <hex:021A020203>extinguished<hex:021A020103>?"
+135,"TEXT_FESVLT302_02420_LISETTE_000_267","What are you saying, you absolute nincompoop! Only someone as dull-witted as you would think such ridiculous things!<hex:02100103>You know you're my...handsomest honeysuckle."
+136,"TEXT_FESVLT302_02420_HORTEFENSE_000_268","Oh, Lissie! My love for you is as the waves crashing ceaselessly against the shore─nothing shall remain untouched by our sea of passion!"
+137,"TEXT_FESVLT302_02420_HORTEFENSE_000_269","...Oh, still there, are you? My apologies for getting caught up in the moment. But heavens, you look like you've seen a ghost! As I have little else to teach you, mayhap 'tis time we put an end to this lesson. Let Menphina draw the curtain, as it were."
+138,"TEXT_FESVLT302_02420_HORTEFENSE_000_270","But do not fret, bold adventurer! We shall ever be there for you if you find yourself wanting for more succor. Fare thee well!"
+139,"TEXT_FESVLT302_02420_HORTEFENSE_000_003",""

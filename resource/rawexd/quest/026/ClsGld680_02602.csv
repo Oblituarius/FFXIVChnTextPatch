@@ -2,129 +2,129 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_CLSGLD680_02602_SEQ_00,神拳痕的艾美洛絲似乎正在等某個聯絡。
-1,TEXT_CLSGLD680_02602_SEQ_01,和艾美洛絲進行了交談。學徒們的技術得到了認可，看來冒險者的指導有了結果。和神拳痕脈輪大瀑布附近的嘉·凱碧卡談談。
-2,TEXT_CLSGLD680_02602_SEQ_02,和嘉·凱碧卡進行了交談，她表示想報答娜娜莫女王。和烏爾達哈艾斯泰姆珠寶店的馬塞爾談談。
-3,TEXT_CLSGLD680_02602_SEQ_03,和馬塞爾進行了交談。和烏爾達哈藍玉大街國際市場的嘉·凱碧卡、維德、哈爾談談。
-4,TEXT_CLSGLD680_02602_SEQ_04,和學徒們進行了交談。得知了長得像娜娜莫女王的姑娘經常去的店的地址。在藍玉大街國際市場的<hex:02280CFF05>EObj<hex:F61EA38C0103>等待。
-5,TEXT_CLSGLD680_02602_SEQ_05,得知了娜娜莫女王想要一件小巧可愛的管弦樂琴。回到神拳痕，和艾美洛絲談談。
-6,TEXT_CLSGLD680_02602_SEQ_06,決定為初次挑戰製作精密機械的學徒們提供可以當樣本的檯鐘。用<hex:02280BFF05>Item<hex:F245F10103>製作<hex:02280DFF07>ItemHQ<hex:F245F20103>，並將其交給神拳痕的艾美洛絲。<hex:02100103><hex:02100103>※如果<hex:02280BFF05>Item<hex:F245F10103>不足的話，就和勘刹娜對話，即可重獲材料，並再次進行挑戰。
-7,TEXT_CLSGLD680_02602_SEQ_07,將檯鐘交給了艾美洛絲。因為找到了目標，學徒們的士氣也大大提高。為了以後能繼續做學徒們的好榜樣，為阿拉米格做貢獻，繼續磨練自己的雕金技術。<hex:02100103><hex:02100103>※雕金匠的等級達到70級以上時，可以從神拳痕的艾美洛絲那裡領取下一個雕金匠任務。
-8,TEXT_CLSGLD680_02602_SEQ_08,
-9,TEXT_CLSGLD680_02602_SEQ_09,
-10,TEXT_CLSGLD680_02602_SEQ_10,
-11,TEXT_CLSGLD680_02602_SEQ_11,
-12,TEXT_CLSGLD680_02602_SEQ_12,
-13,TEXT_CLSGLD680_02602_SEQ_13,
-14,TEXT_CLSGLD680_02602_SEQ_14,
-15,TEXT_CLSGLD680_02602_SEQ_15,
-16,TEXT_CLSGLD680_02602_SEQ_16,
-17,TEXT_CLSGLD680_02602_SEQ_17,
-18,TEXT_CLSGLD680_02602_SEQ_18,
-19,TEXT_CLSGLD680_02602_SEQ_19,
-20,TEXT_CLSGLD680_02602_SEQ_20,
-21,TEXT_CLSGLD680_02602_SEQ_21,
-22,TEXT_CLSGLD680_02602_SEQ_22,
-23,TEXT_CLSGLD680_02602_SEQ_23,
-24,TEXT_CLSGLD680_02602_TODO_00,和嘉·凱碧卡對話
-25,TEXT_CLSGLD680_02602_TODO_01,和烏爾達哈的馬塞爾對話
-26,TEXT_CLSGLD680_02602_TODO_02,和嘉·凱碧卡對話
-27,TEXT_CLSGLD680_02602_TODO_03,和維德對話
-28,TEXT_CLSGLD680_02602_TODO_04,和哈爾對話
-29,TEXT_CLSGLD680_02602_TODO_05,在<hex:02280CFF05>EObj<hex:F61EA38C0103>等待
-30,TEXT_CLSGLD680_02602_TODO_06,和神拳痕的艾美洛絲對話
-31,TEXT_CLSGLD680_02602_TODO_07,<hex:020861E3E802E803FF33>製作筆記 職業任務：製作<hex:02280DFF07>ItemHQ<hex:F245F20103><hex:FF26>將<hex:02280DFF07>ItemHQ<hex:F245F20103>交給艾美洛絲<hex:03>
-32,TEXT_CLSGLD680_02602_TODO_08,
-33,TEXT_CLSGLD680_02602_TODO_09,
-34,TEXT_CLSGLD680_02602_TODO_10,
-35,TEXT_CLSGLD680_02602_TODO_11,
-36,TEXT_CLSGLD680_02602_TODO_12,
-37,TEXT_CLSGLD680_02602_TODO_13,
-38,TEXT_CLSGLD680_02602_TODO_14,
-39,TEXT_CLSGLD680_02602_TODO_15,
-40,TEXT_CLSGLD680_02602_TODO_16,
-41,TEXT_CLSGLD680_02602_TODO_17,
-42,TEXT_CLSGLD680_02602_TODO_18,
-43,TEXT_CLSGLD680_02602_TODO_19,
-44,TEXT_CLSGLD680_02602_TODO_20,
-45,TEXT_CLSGLD680_02602_TODO_21,
-46,TEXT_CLSGLD680_02602_TODO_22,
-47,TEXT_CLSGLD680_02602_TODO_23,
-48,TEXT_CLSGLD680_02602_EMELOTH_000_030,老師，你好。<hex:02100103>學徒們最近很熱衷於學習。<hex:02100103>還主動舉辦學習活動什麼的，真是幹勁十足……
-49,TEXT_CLSGLD680_02602_EMELOTH_000_031,抱歉，請稍等一下。<hex:02100103>馬塞爾，怎麼了……什麼，真的嗎？！<hex:02100103>謝謝你特地告訴我！
-50,TEXT_CLSGLD680_02602_EMELOTH_000_032,其實我把學徒們的作品送到艾斯泰姆珠寶店的馬塞爾那裡了，<hex:02100103>剛剛一直都在等他的回信。
-51,TEXT_CLSGLD680_02602_EMELOTH_000_033,他將這些飾品拿給其他的珠寶商看過，<hex:02100103>沒想到竟然大受好評，說有幾家想要合作呢！
-52,TEXT_CLSGLD680_02602_EMELOTH_000_034,也有珠寶商表示要放在店頭看看客人喜不喜歡，<hex:02100103>雖然量少，不過我們拿到了一些訂單。<hex:02100103>看來我們有必要直接去烏爾達哈當面談一下！
-53,TEXT_CLSGLD680_02602_KANCHANA_000_035,嘶——這個好消息由老師你親口告訴學徒們，<hex:02100103>會讓他們更高興吧？
-54,TEXT_CLSGLD680_02602_EMELOTH_000_036,我也覺得這樣做比較好。<hex:02100103>不過沒想到竟然這麼快就有了訂單……<hex:02100103>他們的成長速度真是令人驚訝。
-55,TEXT_CLSGLD680_02602_KANCHANA_000_037,嘶——學徒們應該在脈輪大瀑布附近。<hex:02100103>他們好像偷偷摸摸聚在一起討論些什麼……
-56,TEXT_CLSGLD680_02602_EMELOTH_000_040,竟然可以把學徒們的作品放在烏爾達哈的珠寶店裡展示。<hex:02100103>老師，能請你親自告訴他們嗎？
-57,TEXT_CLSGLD680_02602_KANCHANA_000_050,嘶——學徒們應該在脈輪大瀑布附近。<hex:02100103>他們好像偷偷摸摸聚在一起討論些什麼……
-58,TEXT_CLSGLD680_02602_WIDO_000_060,不好意思，現在我們有點忙……<hex:02100103>咦，這不是老師嗎？！<hex:02100103>你怎麼知道我們在這裡？
-59,TEXT_CLSGLD680_02602_HAL_000_070,咦，老師？！<hex:02100103>我們可沒有事瞞著你啊！
-60,TEXT_CLSGLD680_02602_MARCEL_000_080,我已經看過王冠寶石工房學徒們的作品了。<hex:02100103>沒想到做得那麼棒，真是令人驚訝的成長速度。
-61,TEXT_CLSGLD680_02602_MARCEL_000_081,雖然和艾斯泰姆珠寶店經營的高級商品相比還有差距，<hex:02100103>但足以在一般珠寶店作為商品流通了吧。
-62,TEXT_CLSGLD680_02602_JKHEBICA_000_120,老師，你為什麼會在這裡？！<hex:02100103>不是，你找我們有什麼事嗎？
-63,TEXT_CLSGLD680_02602_JKHEBICA_000_121,咦！<hex:02100103>我們收到了珠寶店的訂單？！<hex:02100103>真、真的嗎！
-64,TEXT_CLSGLD680_02602_WIDO_000_122,真的嗎……我還以為要再過幾年呢。
-65,TEXT_CLSGLD680_02602_HAL_000_123,都是老師指導有方……謝謝你！<hex:02100103>我們會繼續努力的！
-66,TEXT_CLSGLD680_02602_JKHEBICA_000_124,老師，其實我們是在商量要給娜娜莫陛下送什麼禮物。<hex:02100103>畢竟這個工房之所以能建立，都是多虧了陛下。<hex:02100103>而且陛下甚至還拿出了她母后留給她的王冠。
-67,TEXT_CLSGLD680_02602_WIDO_000_125,既然我們的水平已經可以接到工作了，<hex:02100103>那也是時候報答陛下了！
-68,TEXT_CLSGLD680_02602_HAL_000_126,但是我們並不清楚娜娜莫陛下喜歡什麼……<hex:02100103>雖然剛剛商量了一下，<hex:02100103>想用王冠上剩下的寶石做點什麼……
-69,TEXT_CLSGLD680_02602_JKHEBICA_000_127,對了，老師！<hex:02100103>我們會去烏爾達哈和馬塞爾先生商談吧？
-70,TEXT_CLSGLD680_02602_JKHEBICA_000_128,正好，到時候我們就問問他娜娜莫陛下喜歡什麼！
-71,TEXT_CLSGLD680_02602_HAL_000_129,對，希望老師也能替我們跟馬塞爾說兩句。
-72,TEXT_CLSGLD680_02602_HAL_000_130,這是王冠寶石工房的第一份工作，<hex:02100103>我們一定要打起精神加油！
-73,TEXT_CLSGLD680_02602_EMELOTH_000_150,學徒們已經去烏爾達哈了。<hex:02100103>他們看起來很高興！
-74,TEXT_CLSGLD680_02602_EMELOTH_000_151,他們好像想要送娜娜莫陛下禮物，<hex:02100103>打算在和馬塞爾碰頭的時候順便問問他的意見。<hex:02100103>如果老師能幫他們說兩句一定會起到作用的。
-75,TEXT_CLSGLD680_02602_KANCHANA_000_160,嘶——原來學徒們在商量給娜娜莫陛下送禮物。<hex:02100103>我還以為他們在策劃什麼壞事呢……
-76,TEXT_CLSGLD680_02602_JKHEBICA_000_170,老師，你來了！<hex:02100103>維德和哈爾在市場購買材料呢！
-77,TEXT_CLSGLD680_02602_MARCEL_000_210,這不是<hex:022903EB0203>嗎。<hex:02100103>工房和訂單的會議剛開完，<hex:02100103>聽學徒們講，你有事要跟我商量？
-78,TEXT_CLSGLD680_02602_MARCEL_000_211,原來如此，想送禮報答娜娜莫陛下的恩情啊。<hex:02100103>要用王冠上的寶石製作禮物啊，這主意真不錯！<hex:02100103>不過，我也想不出做什麼東西好。
-79,TEXT_CLSGLD680_02602_MARCEL_000_212,而且也不能隨便亂說顧客的隱私。<hex:02100103>不過我聽說了一個傳聞。
-80,TEXT_CLSGLD680_02602_MARCEL_000_213,最近在藍玉大街國際市場，<hex:02100103>有一位很像陛下的小姐經常去一家店。<hex:02100103>如果那位小姐真的是陛下，那陛下可能在尋找某樣物品。
-81,TEXT_CLSGLD680_02602_MARCEL_000_214,<hex:022903EB0203>之前見過陛下微服私訪的樣子，<hex:02100103>如果是你的話，一定能分辨出是不是本人……
-82,TEXT_CLSGLD680_02602_JKHEBICA_000_215,……有調查的價值呢！<hex:02100103>正好維德和哈爾在市場採購，<hex:02100103>我們叫上他們一起去確認一下傳聞吧！
-83,TEXT_CLSGLD680_02602_JKHEBICA_000_216,就拜託老師來辨認一下那位小姐是不是娜娜莫陛下了！<hex:02100103>知道陛下要去哪家店以後我們就埋伏她！<hex:02100103>謝謝馬塞爾！
-84,TEXT_CLSGLD680_02602_MARCEL_000_250,<hex:022903EB0203>也曾經為了做出讓客人滿意的商品，<hex:02100103>甚至不遠萬里前往阿巴拉提亞雲海啊。
-85,TEXT_CLSGLD680_02602_MARCEL_000_251,學徒們為報答娜娜莫陛下而迸發出的那種熱情，<hex:02100103>莫非也是老師言傳身教？
-86,TEXT_CLSGLD680_02602_JKHEBICA_000_270,老師，謝謝你的幫助！<hex:02100103>我打聽到剛才有人看到<hex:02100103>一位很像娜娜莫陛下的小姐帶著老侍者到處探訪！
-87,TEXT_CLSGLD680_02602_JKHEBICA_000_271,雖然只是說了很像，<hex:02100103>不過如果是真的，現在正是好機會！<hex:02100103>要是知道他們去了哪家店就好了……
-88,TEXT_CLSGLD680_02602_WIDO_000_280,讓老師幫到這個地步，真是不好意思……<hex:02100103>不過，我剛剛得到了一個重要情報，<hex:02100103>是關於那位和娜娜莫陛下很像的小姐的！
-89,TEXT_CLSGLD680_02602_WIDO_000_281,聽說那位小姐經常去武器店對面的雜貨店。<hex:02100103>說到藍玉大街的雜貨店，就只有一個。<hex:02100103>我們只要藏在那附近就行了！
-90,TEXT_CLSGLD680_02602_HAL_000_290,老師，我去打聽了！最新消息！<hex:02100103>據說那個傳聞的出處正是武器店的捷勒斯·加格諾特！
-91,TEXT_CLSGLD680_02602_HAL_000_291,這說明那位長得像娜娜莫陛下的小姐拜訪的也是武器店附近的店，<hex:02100103>那我們只要藏在武器店的角落裡等著就行了！<hex:02100103>我去告訴另外兩人！
-92,TEXT_CLSGLD680_02602_JKHEBICA_000_330,我打聽到剛才有人看到<hex:02100103>一位很像娜娜莫陛下的小姐帶著老侍者到處探訪！<hex:02100103>只要知道他們具體去的是哪裡就行了！
-93,TEXT_CLSGLD680_02602_WIDO_000_340,聽說那位小姐經常去武器店對面的雜貨店。<hex:02100103>說到藍玉大街的雜貨店，就只有一個。<hex:02100103>我們只要藏在那附近就行了！
-94,TEXT_CLSGLD680_02602_HAL_000_350,傳聞的出處正是武器店的捷勒斯·加格諾特！<hex:02100103>只要我們藏在那附近也許就能等到娜娜莫陛下！
-95,TEXT_CLSGLD680_02602_JKHEBICA_000_360,不愧是老師！沒想到你已經到了！<hex:02100103>根據維德和哈爾說的，只要在這裡等，<hex:02100103>說不定就能見到那位很像娜娜莫陛下的小姐……
-96,TEXT_CLSGLD680_02602_JKHEBICA_000_361,快看那邊！
-97,TEXT_CLSGLD680_02602_PAPASHAN_000_362,(-眼熟的管家-)您還在煩惱管弦樂琴的事嗎。<hex:02100103>莉莉菈小姐……
-98,TEXT_CLSGLD680_02602_NANAMOULNAMO_000_363,(-眼熟的小姐-)雖然這裡的管弦樂琴非常好，但對朕……對我的臥室來說太大了。<hex:02100103>有沒有更小巧可愛一點的呢……
-99,TEXT_CLSGLD680_02602_PAPASHAN_000_364,(-眼熟的管家-)不知這烏爾達哈有沒有符合小姐要求的<hex:02100103>小巧可愛的管弦樂琴呢？
-100,TEXT_CLSGLD680_02602_JKHEBICA_000_365,老師……剛才那兩人，難道是？！
-101,TEXT_CLSGLD680_02602_JKHEBICA_100_365,果然是娜娜莫陛下！<hex:02100103>原來陛下想要小巧可愛的管弦樂琴……<hex:02100103>那我們的禮物就決定是這個了！
-102,TEXT_CLSGLD680_02602_JKHEBICA_000_366,我們趕緊回神拳痕的工房吧！<hex:02100103>也希望老師能給我們一些建議。<hex:02100103>我們會先去和馬塞爾道謝的！
-103,TEXT_CLSGLD680_02602_KANCHANA_000_400,嘶——我聽說你們為了得知娜娜莫陛下的喜好，<hex:02100103>在烏爾達哈跟蹤她？<hex:02100103>不是麼……難道我聽錯了嗎？
-104,TEXT_CLSGLD680_02602_MARCEL_000_410,學徒們向我報告說決定好送什麼了！<hex:02100103>看來會是一個完美的禮物，真是太好了。
-105,TEXT_CLSGLD680_02602_JKHEBICA_000_420,老師，謝謝你在烏爾達哈幫了我們！<hex:02100103>我現在恨不得馬上做出給娜娜莫陛下的禮物！
-106,TEXT_CLSGLD680_02602_WIDO_000_430,娜娜莫陛下原來也會微服私訪啊……<hex:02100103>我以為她一直都在王宮裡待著，嚇到我了。
-107,TEXT_CLSGLD680_02602_HAL_000_440,老師，不好了！<hex:02100103>我聽大哥說娜娜莫陛下要偷偷來神拳痕！
-108,TEXT_CLSGLD680_02602_HAL_000_441,咦？<hex:02100103>難道說我又被大哥騙了？
-109,TEXT_CLSGLD680_02602_EMELOTH_000_480,我聽學徒們說他們想做可愛的管弦樂琴<hex:02100103>作為回禮送給女王陛下。
-110,TEXT_CLSGLD680_02602_EMELOTH_000_481,雖然市面上都是由刻木匠們製作的大型管弦樂琴，<hex:02100103>不過的確也可以活用雕金技術，製作可以放在桌上的小型管弦樂琴。<hex:02100103>再加上王冠上的寶石作為裝飾，用來獻給陛下一定會讓她很高興的！
-111,TEXT_CLSGLD680_02602_EMELOTH_100_481,但是，作為初出茅廬的雕金匠，雖說他們已經接到了工作，<hex:02100103>但製作管弦樂琴這樣精巧的機械，經驗還是稍顯不足。
-112,TEXT_CLSGLD680_02602_EMELOTH_000_482,所以，我想拜託學徒們先嘗試製作一下複雜的機械。
-113,TEXT_CLSGLD680_02602_EMELOTH_000_483,從至今為止的教學來看，比起我來教，<hex:02100103>還是老師製作的精美樣品更能激起他們學習的動力。<hex:02100103>這次也拜託你製作一個樣品可以嗎？
-114,TEXT_CLSGLD680_02602_EMELOTH_000_484,這次的課題是可以放在桌子上的鐘錶……也就是檯鐘。<hex:02100103>當然所需的材料我們會準備好。
-115,TEXT_CLSGLD680_02602_JKHEBICA_000_500,先用檯鐘練手？<hex:02100103>我明白了，我會加油的！
-116,TEXT_CLSGLD680_02602_WIDO_000_510,在製作管弦樂琴之前先用檯鐘練手嗎……<hex:02100103>好，來吧！
-117,TEXT_CLSGLD680_02602_HAL_000_520,前不久的我可是想都沒想過自己可以製作鐘錶或是管弦樂琴。<hex:02100103>能得到老師的指導真是太好了！
-118,TEXT_CLSGLD680_02602_KANCHANA_000_530,嘶——製作檯鐘的材料不夠的話告訴我就行。
-119,TEXT_CLSGLD680_02602_KANCHANA_000_540,嘶——檯鐘已經做好了嗎？<hex:02100103>趕緊給艾美洛絲看看吧，她一定會很高興的。
-120,TEXT_CLSGLD680_02602_EMELOTH_000_560,檯鐘的製作還順利嗎？<hex:02100103>學徒們也很期待老師親手製作的<hex:02280DFF07>ItemHQ<hex:F245F20103>呢。
-121,TEXT_CLSGLD680_02602_EMELOTH_000_570,和往常一樣出色的樣品，<hex:02100103>簡直嘆為觀止。
-122,TEXT_CLSGLD680_02602_EMELOTH_000_571,就請各位參考這個樣品製作檯鐘。<hex:02100103>一定能為製作管弦樂琴提供參考的。
-123,TEXT_CLSGLD680_02602_JKHEBICA_000_572,讓我們做這樣的精密機械……真是太有挑戰性了。<hex:02100103>真是越鑽研雕金就越能明白老師的厲害之處！
-124,TEXT_CLSGLD680_02602_JKHEBICA_000_573,老師真是雕金之神！<hex:02100103>為了能接近老師的水平，<hex:02100103>我們三個人會一起加油的！
-125,TEXT_CLSGLD680_02602_EMELOTH_000_574,雖然我覺得學徒們已經進步很大了……<hex:02100103>總之先讓他們做檯鐘，提升手藝以後再開始進行管弦樂琴的製作吧。
+0,"TEXT_CLSGLD680_02602_SEQ_00","Emeloth is expecting a call on her linkpearl any moment now."
+1,"TEXT_CLSGLD680_02602_SEQ_01","No sooner do you begin conversing with Emeloth than she receives a call on her linkpearl from Marcel. It appears the apprentices' handiwork has been well received in Ul'dah, and Marcel would have them come to Ul'dah to meet with clients. Bear the good tidings to your students, who have gathered by Chakra Falls to the north."
+2,"TEXT_CLSGLD680_02602_SEQ_02","Your apprentices are ecstatic to learn that their crafting skills have met with approval. They go on to reveal that they wish to repay the sultana's kindness, but are struggling to determine what manner of item would make for a suitable tribute. J'khebica proposes consulting Marcel on the matter, and begs you to put in a word on their behalf when they travel to Ul'dah for the meeting."
+3,"TEXT_CLSGLD680_02602_SEQ_03","Though unable to provide an insight into a tribute, Marcel shares with you a rumor that a disguised Nanamo has been frequenting a certain shop. If you can but observe her visiting the shop in question, you may be able to discover the object of her fancy. This is good enough for J'khebica, who rushes off to investigate the rumor at the Sapphire Avenue Exchange with her fellow apprentices. Join them there and be on hand to identify the sultana should she make an appearance."
+4,"TEXT_CLSGLD680_02602_SEQ_04","Your apprentices have managed to learn that the shop Nanamo frequents is a sundry goods store situated opposite the arms vendor Jealous Juggernaut. All that remains, then, is to plant yourself at a suitable spot and play the waiting game."
+5,"TEXT_CLSGLD680_02602_SEQ_05","After a short while standing watch, a maiden not unlike Nanamo appears at the shop accompanied by a man not unlike Papashan. Their conversation reveals that Nanamo is extremely smitten with an orchestrion on display there, but it is too big to fit in her bedchamber. With that, the tribute is decided: an elegant and compact orchestrion. Join your apprentices back at Rhalgr's and report all that has come to pass to Emeloth."
+6,"TEXT_CLSGLD680_02602_SEQ_06","While Emeloth appreciates the apprentices' enthusiasm, she believes that they are not quite ready to make an orchestrion. To prepare them for the challenge, she proposes having them practice by crafting a tabletop chronometer, a similarly complex apparatus, and it falls to you once more to craft a sample for your apprentices.<hex:02100103><hex:02100103>※In the event you lose the materials or the synthesis ends in failure, you may try again by speaking with Kanchana."
+7,"TEXT_CLSGLD680_02602_SEQ_07","Your tabletop chronometer impresses Emeloth to no end and leaves your apprentices in awe of your skills yet again. As they go about honing their skills for the task ahead, see to it that you do not neglect your own, for yours are the hands that shape these young goldsmiths.<hex:02100103><hex:02100103>※The next goldsmith quest will be available from Emeloth upon reaching level 70."
+8,"TEXT_CLSGLD680_02602_SEQ_08",""
+9,"TEXT_CLSGLD680_02602_SEQ_09",""
+10,"TEXT_CLSGLD680_02602_SEQ_10",""
+11,"TEXT_CLSGLD680_02602_SEQ_11",""
+12,"TEXT_CLSGLD680_02602_SEQ_12",""
+13,"TEXT_CLSGLD680_02602_SEQ_13",""
+14,"TEXT_CLSGLD680_02602_SEQ_14",""
+15,"TEXT_CLSGLD680_02602_SEQ_15",""
+16,"TEXT_CLSGLD680_02602_SEQ_16",""
+17,"TEXT_CLSGLD680_02602_SEQ_17",""
+18,"TEXT_CLSGLD680_02602_SEQ_18",""
+19,"TEXT_CLSGLD680_02602_SEQ_19",""
+20,"TEXT_CLSGLD680_02602_SEQ_20",""
+21,"TEXT_CLSGLD680_02602_SEQ_21",""
+22,"TEXT_CLSGLD680_02602_SEQ_22",""
+23,"TEXT_CLSGLD680_02602_SEQ_23",""
+24,"TEXT_CLSGLD680_02602_TODO_00","Speak with J'khebica."
+25,"TEXT_CLSGLD680_02602_TODO_01","Speak with Marcel in Ul'dah."
+26,"TEXT_CLSGLD680_02602_TODO_02","Speak with J'khebica."
+27,"TEXT_CLSGLD680_02602_TODO_03","Speak with Wido."
+28,"TEXT_CLSGLD680_02602_TODO_04","Speak with Hal."
+29,"TEXT_CLSGLD680_02602_TODO_05","Wait at the designated location."
+30,"TEXT_CLSGLD680_02602_TODO_06","Speak with Emeloth at Rhalgr's Reach."
+31,"TEXT_CLSGLD680_02602_TODO_07","<hex:02086EE3E802E803FF2E>Synthesize a sample chronometer <hex:02280AFF06>Addon<hex:0A0103><hex:FF38>Deliver the sample chronometer <hex:02280AFF06>Addon<hex:0A0103> to Emeloth<hex:03>."
+32,"TEXT_CLSGLD680_02602_TODO_08",""
+33,"TEXT_CLSGLD680_02602_TODO_09",""
+34,"TEXT_CLSGLD680_02602_TODO_10",""
+35,"TEXT_CLSGLD680_02602_TODO_11",""
+36,"TEXT_CLSGLD680_02602_TODO_12",""
+37,"TEXT_CLSGLD680_02602_TODO_13",""
+38,"TEXT_CLSGLD680_02602_TODO_14",""
+39,"TEXT_CLSGLD680_02602_TODO_15",""
+40,"TEXT_CLSGLD680_02602_TODO_16",""
+41,"TEXT_CLSGLD680_02602_TODO_17",""
+42,"TEXT_CLSGLD680_02602_TODO_18",""
+43,"TEXT_CLSGLD680_02602_TODO_19",""
+44,"TEXT_CLSGLD680_02602_TODO_20",""
+45,"TEXT_CLSGLD680_02602_TODO_21",""
+46,"TEXT_CLSGLD680_02602_TODO_22",""
+47,"TEXT_CLSGLD680_02602_TODO_23",""
+48,"TEXT_CLSGLD680_02602_EMELOTH_000_030","Schoolmaster, I trust you've been keeping well. It pleases me to say that our apprentices are making sound progress. Such is their dedication, they've even formed a study group of their own volition."
+49,"TEXT_CLSGLD680_02602_EMELOTH_000_031","Pray excuse me a moment.<hex:02100103>...Ah, Master Marcel, good <hex:020838E3E90C0DFF1A><hex:020816E3E90C05FF08>evening<hex:FF07>morrow<hex:03><hex:FF17><hex:020813E3E90C12FF04>day<hex:FF08>evening<hex:03><hex:03> to you. ...Truly!? We are in your debt!"
+50,"TEXT_CLSGLD680_02602_EMELOTH_000_032","You will recall that I have been looking for willing outlets for our apprentices' handiwork. To that end, I sent some samples to Master Marcel to present to merchants."
+51,"TEXT_CLSGLD680_02602_EMELOTH_000_033","Well, that was Master Marcel reporting on the results, and it seems the samples were very well received! No few outlets have expressed their interest, with some willing to stock our wares on a trial basis."
+52,"TEXT_CLSGLD680_02602_EMELOTH_000_034","Though it's low volume still, orders have already come in, and Master Marcel asks that the apprentices come to Eshtaime's for a meeting with the clients. To reach this stage in so short a time is a tremendous achievement, and they may rightly feel proud."
+53,"TEXT_CLSGLD680_02602_KANCHANA_000_035","Speaking of the apprenticesss, they shall be glad for the tidingsss. Mayhap the ssschoolmaster would care to be the bearer?"
+54,"TEXT_CLSGLD680_02602_EMELOTH_000_036","There is no denying the news would be sweeter coming from you, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Might I trouble you to tell them?"
+55,"TEXT_CLSGLD680_02602_KANCHANA_000_037","You will find them gathered by Chakra Falls to the north. Engaging in some furtive enterprissse, if I might add."
+56,"TEXT_CLSGLD680_02602_EMELOTH_000_040","The news would be sweeter coming from you, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Please go and tell our apprentices."
+57,"TEXT_CLSGLD680_02602_KANCHANA_000_050","You will find the apprenticesss gathered by Chakra Falls to the north, whissspering up a storm."
+58,"TEXT_CLSGLD680_02602_WIDO_000_060","Can't you see we're─ Ch-Chief!? H-How did you know we was here?"
+59,"TEXT_CLSGLD680_02602_HAL_000_070","Uwaaah! W-We ain't doin' nothin' suspicious, I swear!"
+60,"TEXT_CLSGLD680_02602_MARCEL_000_080","Ah, yes, I had the pleasure of inspecting your apprentices' works, and I must say they surpassed all my expectations."
+61,"TEXT_CLSGLD680_02602_MARCEL_000_081","To be sure, they are not of a quality to grace Eshtaime's shelves, but nor will they look amiss at your average shop."
+62,"TEXT_CLSGLD680_02602_JKHEBICA_000_120","S-Schoolmaster <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303>!? What are you doing─ I-I mean, what can we do for you!?"
+63,"TEXT_CLSGLD680_02602_JKHEBICA_000_121","What? Did I hear you right and you just told us we've received <hex:021A020203>real<hex:021A020103> orders from <hex:021A020203>real<hex:021A020103> clients!?"
+64,"TEXT_CLSGLD680_02602_WIDO_000_122","Huh, an' there I thought we was years away from makin' sellable stuff."
+65,"TEXT_CLSGLD680_02602_HAL_000_123","It's all thanks to you an' Miss Emeloth! We'll put out our best work an' make you proud, you'll see!"
+66,"TEXT_CLSGLD680_02602_JKHEBICA_000_124","Um, sooo...you're probably wondering why we're gathered like this and talking secret talk. You see, we want to do something to show our gratitude to the sultana for granting us this opportunity to become goldsmiths and contribute to Ala Mhigo's future."
+67,"TEXT_CLSGLD680_02602_WIDO_000_125","Aye, she even sacrificed her mother's crown. An' seein' as our wares're now fit for the market, it's time we repaid her kindness."
+68,"TEXT_CLSGLD680_02602_HAL_000_126","Problem is we can't decide how to go about it, what to give her. We was thinkin' maybe we could use the crown's remainin' gems to make somethin', but beyond that..."
+69,"TEXT_CLSGLD680_02602_JKHEBICA_000_127","Oh, I've an idea! The meeting with the clients will take place at Eshtaime's and Master Marcel will be on hand, am I right?"
+70,"TEXT_CLSGLD680_02602_JKHEBICA_000_128","Well, if anyone knows a suitable tribute it would be him, so perhaps we could consult him on it while we're there and it would give us heart if you were present as well."
+71,"TEXT_CLSGLD680_02602_HAL_000_129","Yeah, what she said. We'd feel a lot better havin' you with us."
+72,"TEXT_CLSGLD680_02602_HAL_000_130","Anyway, we'd best be off! C'mon, you two, we've got some orders to receive!"
+73,"TEXT_CLSGLD680_02602_EMELOTH_000_150","The apprentices departed for Ul'dah in high spirits. Ere they left, they told me their plan of a tribute for Her Grace."
+74,"TEXT_CLSGLD680_02602_EMELOTH_000_151","'Tis a fine idea, and I pray that your meeting with Master Marcel will provide some insights."
+75,"TEXT_CLSGLD680_02602_KANCHANA_000_160","So the young onesss were simply discussing a tribute for the sssultana. That is a good thing, unlike some of the other possibilitiesss I entertained."
+76,"TEXT_CLSGLD680_02602_JKHEBICA_000_170","Schoolmaster <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303>, thank you ever so much for coming! We've already spoken with our clients and Wido and Hal have since gone off to the markets to procure supplies, but we can ask Master Marcel about the you-know-what whenever you're ready."
+77,"TEXT_CLSGLD680_02602_MARCEL_000_210","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303>, I am pleased to report that the meeting went smoothly and the clients left feeling confident. Now then, your apprentices say you have a consultation for me?"
+78,"TEXT_CLSGLD680_02602_MARCEL_000_211","Ho, a tribute for the sultana, and one which makes use of the gems from her lady mother's crown! An inspired idea!<hex:02100103>...Alas, I have none of mine own to offer; naught likely is coming to mind."
+79,"TEXT_CLSGLD680_02602_MARCEL_000_212","As I'm sure you will appreciate, I am honor-bound to protect my patrons' confidentiality...but it should not infringe upon my code of conduct to share with you such rumors as are commonly heard in town."
+80,"TEXT_CLSGLD680_02602_MARCEL_000_213","If the whispers are to be believed, a maiden who shares an uncanny resemblance to the sultana has been observed frequenting a certain shop. If the maiden in question is in fact Her Grace, it may well be that something has taken her fancy. And that something may offer an answer to your question."
+81,"TEXT_CLSGLD680_02602_MARCEL_000_214","You've seen the sultana in disguise on a number of occasions, I believe. You ought to be able to recognize her easily enough."
+82,"TEXT_CLSGLD680_02602_JKHEBICA_000_215","Well, this all sounds promising and it just so happens Hal and Wido are at the Sapphire Avenue Exchange so I'll fetch them and we'll investigate the rumor together!"
+83,"TEXT_CLSGLD680_02602_JKHEBICA_000_216","Once we've got a name for the shop, we'll lie in wait for the sultana and we'll need you to be on hand to identify her. See you in a bit, Schoolmaster─and thank you for your kind help, Master Marcel!"
+84,"TEXT_CLSGLD680_02602_MARCEL_000_250","Well do I recall the time you journeyed all the way to the Sea of Clouds for the sake of your patron─a testament to your surpassing dedication."
+85,"TEXT_CLSGLD680_02602_MARCEL_000_251","Seeing your apprentices go to such lengths for their own patron, I daresay that dedication has filtered through to them."
+86,"TEXT_CLSGLD680_02602_JKHEBICA_000_270","Schoolmaster, a short while ago there was a sighting of a maiden who looks not unlike Her Grace accompanied by a person who looks not unlike an old man."
+87,"TEXT_CLSGLD680_02602_JKHEBICA_000_271","It's secondhand information, to be sure, but if it's true it's not unlike a golden chance and we just need to find out what this shop is that the sultana visits."
+88,"TEXT_CLSGLD680_02602_WIDO_000_280","Sorry for makin' you run around with us like this, Chief. But it won't take much longer, I promise─we've got good info on the shop what's mentioned in the rumors."
+89,"TEXT_CLSGLD680_02602_WIDO_000_281","It's a sundry goods store opposite an arms vendor, an' there's only so many of those at the Sapphire Avenue Exchange."
+90,"TEXT_CLSGLD680_02602_HAL_000_290","No time for supplies, we've got the sultana to find. You'll be pleased to hear I've narrowed down the arms vendor. It's a place owned by one Jealous Juggernaut."
+91,"TEXT_CLSGLD680_02602_HAL_000_291","Which means the sultana's favored shop's just across the way. Keep watch there long enough, an' she's bound to appear!"
+92,"TEXT_CLSGLD680_02602_JKHEBICA_000_330","A short while ago there was a sighting of a maiden who looks not unlike Her Grace accompanied by a person who looks not unlike an old man, and we just need to find out where they're going."
+93,"TEXT_CLSGLD680_02602_WIDO_000_340","The place the sultana frequents, it's a sundry goods store opposite an arms vendor. There's only so many of those at the Sapphire Avenue Exchange."
+94,"TEXT_CLSGLD680_02602_HAL_000_350","The sultana's favored shop's across from Jealous Juggernaut's place. Keep watch there long enough, an' she's bound to appear!"
+95,"TEXT_CLSGLD680_02602_JKHEBICA_000_360","Based on Wido and Hal's information, this is where the sultana-esque maiden appears..."
+96,"TEXT_CLSGLD680_02602_JKHEBICA_000_361","<gasp> Look!"
+97,"TEXT_CLSGLD680_02602_PAPASHAN_000_362","(-Papashan-esque Man-)To come and see this orchestrion fairly every day... You truly are taken by it, Lady Lilira."
+98,"TEXT_CLSGLD680_02602_NANAMOULNAMO_000_363","(-Nanamo-esque Maiden-)Oh, it is perfect in all ways...save for its size. Would that it were small enough to fit in my bedchamber. <sigh> Does an elegant and compact orchestrion not exist?"
+99,"TEXT_CLSGLD680_02602_PAPASHAN_000_364","(-Papashan-esque Man-)Such an item would suit my lady very well indeed, but I fear it will prove elusive to find even in our great city."
+100,"TEXT_CLSGLD680_02602_JKHEBICA_000_365","S-Schoolmaster, was that...was that who I think it is?"
+101,"TEXT_CLSGLD680_02602_JKHEBICA_100_365","And she desires an elegant and compact orchestrion, Byregot be praised!"
+102,"TEXT_CLSGLD680_02602_JKHEBICA_000_366","Now that we know what to make, we must back to Rhalgr's Reach so you can get to work right away and needless to say we'll be needing your help. Oh, we ought to say our thanks to Master Marcel again, but me and the others can take care of that so please go on ahead."
+103,"TEXT_CLSGLD680_02602_KANCHANA_000_400","Is it true that you were ssstalking the sssultana all over Ul'dah? ...No? Then perhapsss I misheard."
+104,"TEXT_CLSGLD680_02602_MARCEL_000_410","Your apprentices paid me a very excited visit earlier. I'm pleased to learn that my information proved useful and you have settled on a gift for the sultana."
+105,"TEXT_CLSGLD680_02602_JKHEBICA_000_420","We're truly grateful for your help in finding out what Her Grace desires and we're ready when you are to begin work on the orchestrion!"
+106,"TEXT_CLSGLD680_02602_WIDO_000_430","You'd think the sultana would have the run o' her own country, but I guess it ain't that simple."
+107,"TEXT_CLSGLD680_02602_HAL_000_440","S-Schoolmaster! Is it true!? The sultana's on her way here <hex:021A020203>right now<hex:021A020103>!?"
+108,"TEXT_CLSGLD680_02602_HAL_000_441","...She isn't? B-But Wido said─ Oh, godsdammit, not again!"
+109,"TEXT_CLSGLD680_02602_EMELOTH_000_480","Our apprentices have told me all. They wish to present Her Grace with an elegant and compact orchestrion. 'Tis a fine choice for a tribute, and made finer still with the gems from her lady mother's crown."
+110,"TEXT_CLSGLD680_02602_EMELOTH_000_481","While large machines fashioned by carpenters are the norm, I believe it is well within the realm of possibility to produce a miniaturized version with our goldsmithing techniques."
+111,"TEXT_CLSGLD680_02602_EMELOTH_100_481","But by our techniques, I mean yours and mine, Schoolmaster. Though our apprentices have become capable enough to fill the odd order, they yet lack the skill needed to craft precision instruments, and orchestrions demand no small degree of precision."
+112,"TEXT_CLSGLD680_02602_EMELOTH_000_482","But seeing as they are determined, it falls to us to prepare them for the challenge. To that end, I've a mind to test them on a similarly complex apparatus: a tabletop chronometer."
+113,"TEXT_CLSGLD680_02602_EMELOTH_000_483","From past experience, rather than being taken by the hand, I believe our apprentices learn best by following your example. And so I would ask that you perform another demonstration."
+114,"TEXT_CLSGLD680_02602_EMELOTH_000_484","Pray begin whenever you are ready, Schoolmaster, and let Kanchana know if you have need of additional materials."
+115,"TEXT_CLSGLD680_02602_JKHEBICA_000_500","So we're to practice by making a chronometer? Whatever you and Miss Emeloth think best, of course, and of course we'll do our best!"
+116,"TEXT_CLSGLD680_02602_WIDO_000_510","If an orchestrion's as hard as you say, makes sense to cut our teeth on a chronometer first. Bring it on, Chief!"
+117,"TEXT_CLSGLD680_02602_HAL_000_520","Feels like only yesterday I was barely able to make a ring, but now I'm about to make a clock. I couldn't have made it this far without you an' Miss Emeloth."
+118,"TEXT_CLSGLD680_02602_KANCHANA_000_530","Should you lack componentsss for the chronometer, do not hesssitate to tell me."
+119,"TEXT_CLSGLD680_02602_KANCHANA_000_540","Sssuch a fine chronometer you have made. Emeloth is sssure to be impressed."
+120,"TEXT_CLSGLD680_02602_EMELOTH_000_560","How fares the crafting effort, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>? Both the apprentices and I eagerly await your finished chronometer."
+121,"TEXT_CLSGLD680_02602_EMELOTH_000_570","This, Schoolmaster, is absolutely flawless. My breath fairly caught in my throat. My expectations of you are high as a matter of course, but you manage to transcend them every time."
+122,"TEXT_CLSGLD680_02602_EMELOTH_000_571","Apprentices, you are not like to find a finer example of a chronometer. Study it well and reproduce it as best you can, and you shall acquire the requisite knowledge and techniques for making an orchestrion."
+123,"TEXT_CLSGLD680_02602_JKHEBICA_000_572","We're supposed to reproduce <hex:021A020203>that<hex:021A020103>? Oh, dear, my hands are starting to shake, but it's not out of dread but the excitement of tackling the task! The more I learn goldsmithing, the more I'm made to appreciate the schoolmaster's brilliance and keenly feel how utterly unpolished I am next to <hex:02080DE905FF04>her<hex:FF04>him<hex:03>."
+124,"TEXT_CLSGLD680_02602_JKHEBICA_000_573","You're like a god among goldsmiths, up in your own place in the heavens while we're bumbling down here on the ground, and though we may never get to where you are, we'll keep on climbing every mountain in the hopes that one day we will!"
+125,"TEXT_CLSGLD680_02602_EMELOTH_000_574","'Tis well that they are motivated, for this will be the steepest mountain yet. But when they have climbed it, they will be all the more prepared to climb all the others to come."

@@ -2,20 +2,20 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_REGSEAMORABYDRYDOCKS_00044_AHTBYRM_000_1,「勝利號」的建造正在穩步進行。<hex:02100103>再過不久，應該就可以迎來下水典禮了。<hex:02100103>機會難得，你就把它現在的樣子印在腦海裡吧。
-1,TEXT_REGSEAMORABYDRYDOCKS_00044_Q1_000_1,想了解什麼？
-2,TEXT_REGSEAMORABYDRYDOCKS_00044_A1_000_1,你是做什麼的？
-3,TEXT_REGSEAMORABYDRYDOCKS_00044_A1_000_2,這裡是做什麼的？
-4,TEXT_REGSEAMORABYDRYDOCKS_00044_A1_000_3,取消
-5,TEXT_REGSEAMORABYDRYDOCKS_00044_AHTBYRM_000_10,我是納爾迪克&威米利作坊的首席造船師，<hex:02100103>目前負責指揮「勝利號」的建造工作。<hex:02100103>那是靈災後建造的第一艘新船。
-6,TEXT_REGSEAMORABYDRYDOCKS_00044_AHTBYRM_000_11,我將畢生的造船知識投入到了這艘船的設計工作中。<hex:02100103>
-7,TEXT_REGSEAMORABYDRYDOCKS_00044_AHTBYRM_000_12,剩下的任務就是按計劃將這艘象徵著<hex:02100103>利姆薩·羅敏薩復興的黑渦團最強軍艦建造出來。
-8,TEXT_REGSEAMORABYDRYDOCKS_00044_AHTBYRM_000_13,為此，我必須得憑我的實力，<hex:02100103>想辦法管理好這些脾氣古怪的造船師們。
-9,TEXT_REGSEAMORABYDRYDOCKS_00044_AHTBYRM_000_20,這家莫拉比造船廠是負責建造或維修<hex:02100103>納爾迪克&威米利作坊接到訂單的船隻。
-10,TEXT_REGSEAMORABYDRYDOCKS_00044_AHTBYRM_000_21,當然，黑渦團的軍艦也由我們參與建造……<hex:02100103>曾經，為防止軍事機密洩露，<hex:02100103>這裡是嚴禁非相關人員入內的。
-11,TEXT_REGSEAMORABYDRYDOCKS_00044_AHTBYRM_000_22,不過因為第七靈災的復興工作，<hex:02100103>各地都在爭搶勞動力。
-12,TEXT_REGSEAMORABYDRYDOCKS_00044_AHTBYRM_000_23,我們這裡也陷入人手不足的情況，<hex:02100103>所以才允許冒險者進入的。
-13,TEXT_REGSEAMORABYDRYDOCKS_00044_AHTBYRM_000_030,嗯……是你啊。<hex:02100103>之前那件事給你添麻煩了……
-14,TEXT_REGSEAMORABYDRYDOCKS_00044_AHTBYRM_000_100,我啊……<hex:02100103>因為之前老爹引起的那件事，<hex:02100103>我心裡還是有點亂。
-15,TEXT_REGSEAMORABYDRYDOCKS_00044_AHTBYRM_000_101,不過，我身為首席造船師，有必須要履行的職責。<hex:02100103>不能因為個人的事情停滯不前。
-16,TEXT_REGSEAMORABYDRYDOCKS_00044_AHTBYRM_000_102,我會努力的。<hex:02100103>因為我也想完成那艘你拯救下來的勝利號。
+0,"TEXT_REGSEAMORABYDRYDOCKS_00044_AHTBYRM_000_1","Have you ever seen anything so grand? It pains me that I'll have to let her go one day..."
+1,"TEXT_REGSEAMORABYDRYDOCKS_00044_Q1_000_1","Select a topic."
+2,"TEXT_REGSEAMORABYDRYDOCKS_00044_A1_000_1","Tell me about yourself."
+3,"TEXT_REGSEAMORABYDRYDOCKS_00044_A1_000_2","What are you building?"
+4,"TEXT_REGSEAMORABYDRYDOCKS_00044_A1_000_3","Nothing."
+5,"TEXT_REGSEAMORABYDRYDOCKS_00044_AHTBYRM_000_10","The name's Ahtbyrm. I serve as foremost shipwright on the <hex:021A020203>Victory<hex:021A020103>─the vessel that lies here before us. She's Naldiq & Vymelli's first endeavor since the Calamity, and my personal pride and joy."
+6,"TEXT_REGSEAMORABYDRYDOCKS_00044_AHTBYRM_000_11","From the moment of her conception, I have stood beside her, watching as she grew to where she is now."
+7,"TEXT_REGSEAMORABYDRYDOCKS_00044_AHTBYRM_000_12","When the girl is finally seaworthy, not only will she be the most powerful ship in the Maelstrom armada, but she'll serve as a symbol of Limsa Lominsa's return to nautical supremacy."
+8,"TEXT_REGSEAMORABYDRYDOCKS_00044_AHTBYRM_000_13","Which is why I cannot take my eyes off these lazy dogs for even a moment. Give the lot a single ilm, and the <hex:021A020203>Victory<hex:021A020103> would probably be in flames before I could blink."
+9,"TEXT_REGSEAMORABYDRYDOCKS_00044_AHTBYRM_000_20","Here at the Moraby Drydocks, we build and repair ships at the behest of Naldiq & Vymelli's."
+10,"TEXT_REGSEAMORABYDRYDOCKS_00044_AHTBYRM_000_21","It used to be that no one outside the Armorers' Guild was allowed within a malm of the facilities. This was mainly to prevent the thalassocracy's enemies from sabotaging her ships."
+11,"TEXT_REGSEAMORABYDRYDOCKS_00044_AHTBYRM_000_22","The flames of the Calamity, however, changed all that. Now, we must look to adventurers, freelancers, even pirates to see that all the work is completed."
+12,"TEXT_REGSEAMORABYDRYDOCKS_00044_AHTBYRM_000_23","And it is my job to make certain that everyone remains in line...which, in the case of adventurers, freelancers, and pirates, is rarely ever."
+13,"TEXT_REGSEAMORABYDRYDOCKS_00044_AHTBYRM_000_030","Ah, good to see you again, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. You did me and the Maelstrom both a great service, salvaging the <hex:021A020203>Victory<hex:021A020103> as you did."
+14,"TEXT_REGSEAMORABYDRYDOCKS_00044_AHTBYRM_000_100","If I told you I'd made my peace with my Da─or myself─after the incident, I'd be either a liar or a fool."
+15,"TEXT_REGSEAMORABYDRYDOCKS_00044_AHTBYRM_000_101","Still, I've chosen my path─the path of the shipwright. I've plotted my course and set sail, and this is no time to think about returning to harbor."
+16,"TEXT_REGSEAMORABYDRYDOCKS_00044_AHTBYRM_000_102","For the Maelstrom needs the <hex:021A020203>Victory<hex:021A020103>, and the <hex:021A020203>Victory<hex:021A020103> needs me. Worry not, friend, I'll see that your brave deeds do not go in vain."

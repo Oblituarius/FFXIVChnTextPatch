@@ -2,132 +2,132 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_FESHLW402_03012_SEQ_00,※本任務是特定期間內的任務。<hex:02100103><hex:02100103>格力達尼亞的團長想要確認冒險者的外觀。
-1,TEXT_FESHLW402_03012_SEQ_01,※本任務只有在季節活動開放期間才能接受和進行。<hex:02100103>　季節活動結束後無法進行，敬請注意。<hex:02100103>　詳情請參見官方網站。<hex:02100103><hex:02100103>團長想要看看穿上扮裝衣服的冒險者。裝備上<hex:02280BFF05>Item<hex:F252190103>，<hex:02280BFF05>Item<hex:F2521A0103>，<hex:02280BFF05>Item<hex:F2521B0103>，<hex:02280BFF05>Item<hex:F2521C0103>和米·凱特露天劇場裡的團長對話。
-2,TEXT_FESHLW402_03012_SEQ_02,團長看到穿著扮裝衣服的冒險者後嚇了一大跳。這樣也能用來嚇唬別人了，爪牙對此也很滿足。和去嚇唬格里達尼亞市民的米·凱特露天劇場附近的爪牙談談。
-3,TEXT_FESHLW402_03012_SEQ_03,和爪牙談過後，決定先來嚇唬一下眼前的這個男人。將聊天頻道設定為「說話」頻道後，使用鍵盤或軟鍵盤輸入「嗷嗚」，嚇唬米·凱特露天劇場附近的爽朗的格里達尼亞市民。
-4,TEXT_FESHLW402_03012_SEQ_04,把爽朗的格里達尼亞市民嚇了一跳。爪牙對成功嚇到人感到很高興，提議分頭行動去嚇人。將聊天頻道設定為「說話」頻道後，使用鍵盤或軟鍵盤輸入「嗷嗚」，嚇唬舊街的三位居民。
-5,TEXT_FESHLW402_03012_SEQ_05,把格里達尼亞市民們嚇了一跳。和口哨磨坊附近的爪牙匯合。
-6,TEXT_FESHLW402_03012_SEQ_06,和爪牙匯合了。通過嚇唬人，來讓人們高興，這使得因看到爪牙的外表而感到害怕的人減少了。為了確認還要嚇唬幾個人，和米·凱特露天劇場裡的團長談談。
-7,TEXT_FESHLW402_03012_SEQ_07,聽團長說，多虧冒險者和爪牙，想要體驗入團的人數增加了。團長滿足地對冒險者與爪牙的正式入團給予了許可，但爪牙拒絕了。爪牙和艾歐澤亞的人們加深了友誼，感到很滿足。向米·凱特露天劇場附近的冒險者公會的調查員報告。
-8,TEXT_FESHLW402_03012_SEQ_08,向冒險者公會的調查員進行了報告，這使得調查員放下了心。為即將開始的奇妙的舞會做準備！
-9,TEXT_FESHLW402_03012_SEQ_09,
-10,TEXT_FESHLW402_03012_SEQ_10,
-11,TEXT_FESHLW402_03012_SEQ_11,
-12,TEXT_FESHLW402_03012_SEQ_12,
-13,TEXT_FESHLW402_03012_SEQ_13,
-14,TEXT_FESHLW402_03012_SEQ_14,
-15,TEXT_FESHLW402_03012_SEQ_15,
-16,TEXT_FESHLW402_03012_SEQ_16,
-17,TEXT_FESHLW402_03012_SEQ_17,
-18,TEXT_FESHLW402_03012_SEQ_18,
-19,TEXT_FESHLW402_03012_SEQ_19,
-20,TEXT_FESHLW402_03012_SEQ_20,
-21,TEXT_FESHLW402_03012_SEQ_21,
-22,TEXT_FESHLW402_03012_SEQ_22,
-23,TEXT_FESHLW402_03012_SEQ_23,
-24,TEXT_FESHLW402_03012_TODO_00,裝扮成狼和團長對話
-25,TEXT_FESHLW402_03012_TODO_01,和爪牙對話
-26,TEXT_FESHLW402_03012_TODO_02,在「說話」頻道下輸入「嗷嗚」<hex:02100103>嚇唬爽朗的格里達尼亞市民。 (GRRR!)
-27,TEXT_FESHLW402_03012_TODO_03,在「說話」頻道下輸入「嗷嗚」<hex:02100103>嚇唬市民們 (GRRR!)
-28,TEXT_FESHLW402_03012_TODO_04,和爪牙匯合
-29,TEXT_FESHLW402_03012_TODO_05,和團長對話
-30,TEXT_FESHLW402_03012_TODO_06,向冒險者公會的調查員報告
-31,TEXT_FESHLW402_03012_TODO_07,
-32,TEXT_FESHLW402_03012_TODO_08,
-33,TEXT_FESHLW402_03012_TODO_09,
-34,TEXT_FESHLW402_03012_TODO_10,
-35,TEXT_FESHLW402_03012_TODO_11,
-36,TEXT_FESHLW402_03012_TODO_12,
-37,TEXT_FESHLW402_03012_TODO_13,
-38,TEXT_FESHLW402_03012_TODO_14,
-39,TEXT_FESHLW402_03012_TODO_15,
-40,TEXT_FESHLW402_03012_TODO_16,
-41,TEXT_FESHLW402_03012_TODO_17,
-42,TEXT_FESHLW402_03012_TODO_18,
-43,TEXT_FESHLW402_03012_TODO_19,
-44,TEXT_FESHLW402_03012_TODO_20,
-45,TEXT_FESHLW402_03012_TODO_21,
-46,TEXT_FESHLW402_03012_TODO_22,
-47,TEXT_FESHLW402_03012_TODO_23,
-48,TEXT_FESHLW402_03012_IMPHEAD_000_000,冒險者，你拿到狼外觀的扮裝衣服了吧？<hex:02100103>那就快在這裡穿上試試吧。<hex:02100103>我來親眼看看到底有多嚇人！
-49,TEXT_FESHLW402_03012_SYSTEM_000_001,裝備上<hex:02280BFF05>Item<hex:F252190103>、<hex:02280BFF05>Item<hex:F2521A0103>、<hex:02100103><hex:02280BFF05>Item<hex:F2521B0103>、<hex:02280BFF05>Item<hex:F2521C0103>4件後，<hex:02100103>再和團長談談吧。
-50,TEXT_FESHLW402_03012_SYSTEM_000_002,這些裝備，<hex:02100103>可以通過使用<hex:020823E905FF0F><hex:02280BFF05>Item<hex:F252710103><hex:FF0F><hex:02280BFF05>Item<hex:F252700103><hex:03>獲得。
-51,TEXT_FESHLW402_03012_SYSTEM_000_003,如果沒有這些裝備，<hex:02100103>可以從報酬管理人那裡購買。
-52,TEXT_FESHLW402_03012_SOGA_000_005,連扮裝衣服都有，準備得真周到！<hex:02100103><hex:022903EB0203>也快點穿上，<hex:02100103>多多地嚇人，來讓他們開心吧！
-53,TEXT_FESHLW402_03012_INVESTIGATOR03011_000_006,（★未使用／削除予定★）
-54,TEXT_FESHLW402_03012_IMPHEAD_000_010,怎麼了啊，冒險者？<hex:02100103>快點穿上狼外觀的扮裝衣服來給我看看吧。
-55,TEXT_FESHLW402_03012_IMPHEAD_000_011,呃、啊——<hex:02100103>你、你還真是了不得的人才啊！
-56,TEXT_FESHLW402_03012_IMPHEAD_000_012,不、不愧是為了報酬而殺戮無數的冒險者！<hex:02100103>至今為止你打倒的無數敵人的怨念，就像都纏繞在身上一般！<hex:02100103>看到你這扮相，任誰都會嚇一跳吧！
-57,TEXT_FESHLW402_03012_SOGA_000_013,太好了，<hex:022903EB0203>！<hex:02100103>既然團長都這麼說了，就可以放心地出去嚇人了吧！
-58,TEXT_FESHLW402_03012_IMPHEAD_000_014,嗚……嚇得我都不小心哭出來了……<hex:02100103>那麼，我要回去準備舞會了，<hex:02100103>努力去嚇人吧。
-59,TEXT_FESHLW402_03012_SOGA_000_015,<hex:022903EB0203>，真是適合你！<hex:02100103>我倒是覺得沒那麼嚇人，<hex:02100103>是因為你看起來和我差不多嗎？
-60,TEXT_FESHLW402_03012_SOGA_000_016,這樣一來就準備好了！<hex:02100103>我們兩匹狼，<hex:02100103>就多多地去嚇唬格里達尼亞的人類們吧！
-61,TEXT_FESHLW402_03012_PUMPKIN_000_017,(-？？？？-)呼呼……呼呼……<hex:02100103>真是可愛的狼呢……<hex:02100103>能夠順利地嚇住別人麼……
-62,TEXT_FESHLW402_03012_SOGA_000_020,你來了啊，<hex:022903EB0203>！<hex:02100103>我正等你來一起嚇人呢！
-63,TEXT_FESHLW402_03012_SOGA_000_021,這樣吧……艾歐澤亞的人類們，還沒有習慣狼人族，<hex:02100103>這裡就裝成狼的樣子，「嗷嗚」的嚎一聲吧！<hex:02100103>肯定會嚇他一跳的！
-64,TEXT_FESHLW402_03012_SYSTEM_000_022,將聊天頻道設定為「說話」頻道後，<hex:02100103>使用鍵盤或軟鍵盤輸入「嗷嗚」，<hex:02100103>嚇爽朗的格里達尼亞市民一跳吧。
-65,TEXT_FESHLW402_03012_FRIENDLYMAN03012_000_025,怎、怎麼突然有獸人跑出來？！<hex:02100103>……嗯？要嚇唬我？<hex:02100103>你們究竟要做什麼……
-66,TEXT_FESHLW402_03012_SAYTODO_000_030,GRRR!
-67,TEXT_FESHLW402_03012_FRIENDLYMAN03012_000_031,哦，哦哦？！<hex:02100103>哎呀呀，嚇了我一跳！
-68,TEXT_FESHLW402_03012_SOGA_100_031,哈哈哈，嚇了一跳吧！<hex:02100103>我們作為大陸馬戲團的團員，<hex:02100103>正在通過嚇人，來讓大家盡興！
-69,TEXT_FESHLW402_03012_FRIENDLYMAN03012_000_032,哎呀哎呀，竟然口吐人言了！這又嚇了我一跳。<hex:02100103>雖然外表很嚇人，卻是兩個能開玩笑的有意思的人呢。
-70,TEXT_FESHLW402_03012_FRIENDLYMAN03012_000_033,（★未使用／削除予定★）
-71,TEXT_FESHLW402_03012_SOGA_000_034,我搭檔的扮裝衣服也很驚人呢！<hex:02100103>在大陸馬戲團體驗入團之後，<hex:02100103>就得到了這件稍微有些嚇人但卻很可愛的狼外觀衣服呢！
-72,TEXT_FESHLW402_03012_FRIENDLYMAN03012_000_035,是這樣啊……體驗入團嗎，還真是挺有意思的活動呢。<hex:02100103>能拿到那麼好的東西的話，要不我也參加看看吧。
-73,TEXT_FESHLW402_03012_SOGA_000_036,<hex:022903EB0203>，成功嚇了他一跳呢！<hex:02100103>而且我也正常的和人說上話了，馬戲團的人手也可能會更加充實！<hex:02100103>和你一起行動，淨是會發生好事呢！
-74,TEXT_FESHLW402_03012_SOGA_000_037,那麼接下來，我們就分頭行動去嚇人吧！<hex:02100103>在街上嚇唬3個人以後再來集合吧！
-75,TEXT_FESHLW402_03012_SYSTEM_000_045,將聊天頻道設定為「說話」頻道後，<hex:02100103>使用鍵盤或軟鍵盤輸入「嗷嗚」來嚇他一跳吧。
-76,TEXT_FESHLW402_03012_SOGA_000_046,難得裝扮成了狼的樣子，<hex:02100103>就「嗷嗚」的叫一聲，嚇這個人類一跳吧！
-77,TEXT_FESHLW402_03012_TOUGHWOMAN03012_000_050,哎呀，突然被嚇了一跳，<hex:02100103>仔細一看，你還挺<hex:020819E905FF0A>可愛的<hex:FF0A>帥氣的<hex:03>呀！<hex:02100103>為什麼要做這種事呢？
-78,TEXT_FESHLW402_03012_TOUGHWOMAN03012_000_051,你說是大陸馬戲團的體驗入團？<hex:02100103>而且，還能拿到狼造型的衣服，<hex:02100103>我得快去參加！
-79,TEXT_FESHLW402_03012_COWARDLYMAN03012_000_052,嗚哇，你幹什麼啊！<hex:02100103>竟然突然嚇人，幹嘛要做這種事啊！
-80,TEXT_FESHLW402_03012_COWARDLYMAN03012_000_053,都是因為那個馬戲團，在舉行什麼體驗入團的錯！<hex:02100103>既然這樣的話，我也乾脆去嚇別人好了！
-81,TEXT_FESHLW402_03012_OLDWOMAN03012_000_054,哎呀哎呀，真嚇人真嚇人。<hex:02100103>這對婆婆我來說刺激太強了。
-82,TEXT_FESHLW402_03012_OLDWOMAN03012_000_055,剛剛，我就看到有獸人在嚇唬人，<hex:02100103>現在流行這種玩法嗎？<hex:02100103>雖然挺不可思議的，不過開心就好吧……
-83,TEXT_FESHLW402_03012_SOGA_000_065,嗷嗚！<hex:02100103>……哎，不害怕？
-84,TEXT_FESHLW402_03012_TMARITAA_000_066,哇——毛絨絨的！<hex:02100103>叔叔你的嘴，為什麼這麼大呢？
-85,TEXT_FESHLW402_03012_TDANAFA_000_067,突然就靠了過來，我還在想他要幹什麼呢，<hex:02100103>之後，他就一直在逗我家孩子玩呢。<hex:02100103>真是人不可貌相。
-86,TEXT_FESHLW402_03012_TMARITAA_100_066,（★未使用／削除予定★）
-87,TEXT_FESHLW402_03012_TDANAFA_100_067,（★未使用／削除予定★）
-88,TEXT_FESHLW402_03012_CHILD03012_000_066,（★未使用／削除予定★）
-89,TEXT_FESHLW402_03012_MUM03012_000_067,（★未使用／削除予定★）
-90,TEXT_FESHLW402_03012_TOUGHWOMAN03012_000_068,嗯？怎麼了，<hex:020813E905FF07>小姐<hex:FF07>小哥<hex:03>？<hex:02100103>找姐姐我有事？
-91,TEXT_FESHLW402_03012_SYSTEM_100_068,將聊天頻道設定為「說話」頻道後，<hex:02100103>使用鍵盤或軟鍵盤輸入「嗷嗚」來嚇唬人吧。
-92,TEXT_FESHLW402_03012_COWARDLYMAN03012_000_069,我的心臟還在砰砰直跳……<hex:02100103>那個獸人……竟然突然嚇人……
-93,TEXT_FESHLW402_03012_OLDWOMAN03012_100_069,哎呀，這次也能看到守護天節的慶典真是太好了。<hex:02100103>看到大家都這麼開心，<hex:02100103>是最讓我高興的事了。
-94,TEXT_FESHLW402_03012_SOGA_000_070,<hex:022903EB0203>，你成功嚇到許多人了嗎？<hex:02100103>我這邊也不知道到底是算不算嚇到了人，<hex:02100103>不過倒是讓人們挺高興的！
-95,TEXT_FESHLW402_03012_SOGA_000_071,而且他們看到我，也都不再害怕了。<hex:02100103>這也都是多虧了你和我一起去嚇唬他們，謝謝！
-96,TEXT_FESHLW402_03012_SOGA_000_072,說起來，沒有問過具體要讓幾個人開心呢。<hex:02100103>趁現在我們回團長那裡去問問看吧！
-97,TEXT_FESHLW402_03012_TMARITAA_000_075,狼叔叔，讓我摸他毛絨絨的毛皮了！
-98,TEXT_FESHLW402_03012_TDANAFA_000_076,我家孩子，好像好像很喜歡狼先生。<hex:02100103>……我也可以用手摸摸看嗎？
-99,TEXT_FESHLW402_03012_TMARITAA_100_075,（★未使用／削除予定★）
-100,TEXT_FESHLW402_03012_TDANAFA_100_076,（★未使用／削除予定★）
-101,TEXT_FESHLW402_03012_CHILD03012_000_075,（★未使用／削除予定★）
-102,TEXT_FESHLW402_03012_MUM03012_000_076,（★未使用／削除予定★）
-103,TEXT_FESHLW402_03012_IMPHEAD_000_080,呀呀呀！狼人朋友還有冒險者！<hex:02100103>多虧了你們，想要體驗入團的人增加了好多！
-104,TEXT_FESHLW402_03012_IMPHEAD_000_081,馬戲團一下子就不用再為缺乏人手而發愁了！<hex:02100103>大家都在努力著到處去嚇人。
-105,TEXT_FESHLW402_03012_IMPHEAD_000_082,有這麼多人的話，積土成山，就能夠收集到莫大的力量了！<hex:02100103>然後，魔人之夜就能……
-106,TEXT_FESHLW402_03012_SOGA_000_083,「魔人之夜」……是什麼？
-107,TEXT_FESHLW402_03012_IMPHEAD_000_084,沒，沒事，你不用在意。<hex:02100103>只是我的自言自語……嘻嘻！
-108,TEXT_FESHLW402_03012_IMPHEAD_000_085,總而言之，你們做得很好！<hex:02100103>我作為團長，准許你們正式入團！
-109,TEXT_FESHLW402_03012_IMPHEAD_000_086,但是，因為現在要做發給大家的衣服所以忙不開。<hex:02100103>一會兒之後，請你們在合同上簽字。<hex:0219020203>那麼我先走了。
-110,TEXT_FESHLW402_03012_FRIENDLYMAN03012_000_087,(-？？？？-)嗷嗚！
-111,TEXT_FESHLW402_03012_FRIENDLYMAN03012_000_089,哎呀，嚇了一跳嗎？<hex:02100103>自那之後，我也來參加體驗入團了！
-112,TEXT_FESHLW402_03012_FRIENDLYMAN03012_000_090,嗷嗚的這麼一叫，感覺好像真的變成了狼一樣有趣。<hex:02100103>扮裝衣服也做得很棒，<hex:02100103>得好好感謝想出這麼棒的玩法的馬戲團！
-113,TEXT_FESHLW402_03012_FRIENDLYMAN03012_000_091,那麼，我繼續出去嚇人了。<hex:02100103>你們也好好享受守護天節吧！
-114,TEXT_FESHLW402_03012_SOGA_000_092,原來如此……我明白了！<hex:02100103>我明白團長接納我這個獸人的真正原因是什麼了！
-115,TEXT_FESHLW402_03012_SOGA_000_093,大陸馬戲團想要推行的那個魔人之夜……<hex:02100103>其實就是為了讓大家都能友好相處，<hex:02100103>想要讓外觀與人類不同的獸人也為大家所熟知！
-116,TEXT_FESHLW402_03012_SOGA_000_094,而且，大家都是狼的外觀的話，<hex:02100103>獸人也就不再顯眼，也就更容易親近大家了……<hex:02100103>也就是說，這個遊戲也是為我考慮而設計的！
-117,TEXT_FESHLW402_03012_SOGA_000_095,多虧了團長和<hex:022903EB0203>你，<hex:02100103>我和艾歐澤亞的人類們搞好關係的目標達成了！<hex:02100103>真是太感謝你們了！
-118,TEXT_FESHLW402_03012_SOGA_000_096,然後，正式入團的邀請，我打算拒絕。<hex:02100103>為了和更多的人類搞好關係，之後我會再次踏上旅程！<hex:02100103>不過守護天節期間我還會留在這裡幫忙的。
-119,TEXT_FESHLW402_03012_SOGA_000_097,對了，也讓冒險者公會的調查員擔心了，<hex:02100103>之後得好好去向他道歉才行……不好意思，<hex:02100103>能請你先幫我帶句話，告訴他我不會正式入團，請他放心嗎？
-120,TEXT_FESHLW402_03012_WITCH03012_000_105,扮裝衣服我會依序發放的，請大家排好隊！<hex:02100103>所，所以說，大家快排好隊！
-121,TEXT_FESHLW402_03012_SOGA_000_106,想扮成狼的人類，好像有好多啊！<hex:02100103>這真是我在多瑪都沒有見過的光景！
-122,TEXT_FESHLW402_03012_INVESTIGATOR03011_000_110,冒險者，歡迎回來！<hex:02100103>總覺得，好像到處都能見到穿著狼外觀衣服的人……<hex:02100103>發生什麼了？
-123,TEXT_FESHLW402_03012_INVESTIGATOR03011_000_111,原來如此，是這麼回事啊……<hex:02100103>不知道馬戲團究竟有沒有考慮到這麼多，<hex:02100103>總之，爪牙他不會正式入團真是太好了！
-124,TEXT_FESHLW402_03012_INVESTIGATOR03011_000_112,而且，通過這種遊戲，讓人們習慣驚嚇的話，<hex:02100103>也能夠使魔物們通過從人身上收集恐懼之力<hex:02100103>而再現魔人之夜的企圖受挫，真是再方便不過了。
-125,TEXT_FESHLW402_03012_INVESTIGATOR03011_000_113,而且，它們所準備的奇妙的舞會也是，<hex:02100103>人們也會明白那是刺激性的演出之一，而做好心理準備吧。
-126,TEXT_FESHLW402_03012_INVESTIGATOR03011_100_113,當然，我們也不會放鬆對它們的監視！<hex:02100103>那麼，多謝你的幫助！
-127,TEXT_FESHLW402_03012_PUMPKIN_000_114,呼呼……呼呼……這叫聲真是動聽呢……<hex:02100103>無精打采地耷拉著毛的狼，也在高興地搖著尾巴呢。<hex:02100103>無論是人類還是魔物還是獸人，大家都最喜歡高興的夜晚了呢……
-128,TEXT_FESHLW402_03012_SOGA_000_115,也讓冒險者公會的調查員擔心了，<hex:02100103>之後得好好去向他道歉才行……不好意思，<hex:02100103>能請你先幫我帶句話，告訴他我不會正式入團，請他放心嗎？
+0,"TEXT_FESHLW402_03012_SEQ_00","The Impresario's eyes gleam with hungry expectation.<hex:02100103>※This quest is available for a limited time only."
+1,"TEXT_FESHLW402_03012_SEQ_01","That you may strike fear into the hearts of the people of Gridania more effectively, the Impresario has furnished you with a guise of the wolf. Before you can begin your campaign of terror, he asks that you present yourself to him in your full wolflike splendor. To wit, you must equip a werewolf head, a werewolf body, a pair of werewolf arms, and a pair of werewolf bottoms, which may be obtained from a werewolf attire coffer.<hex:02100103><hex:02100103>※Please note that you will be unable to complete this quest after the seasonal event has ended. For details, please check the Lodestone."
+2,"TEXT_FESHLW402_03012_SEQ_02","The Impresario declares you to be a hideous, monstrous abomination, with a true gift for horror. With his blessing, you may now go forth and spread terror together with Soga."
+3,"TEXT_FESHLW402_03012_SEQ_03","If you wish to do something right, you must give it your very all. So believes Soga, who encourages you to make a feral growl of some sort to maximize your fear potential. With the chat mode in <hex:024804F201F403><hex:024904F201F503>Say<hex:0249020103><hex:0248020103>, use your keyboard or the software keyboard to enter “GRRR!” to frighten your first victim."
+4,"TEXT_FESHLW402_03012_SEQ_04","Soga's suggestion works like a charm, and the man is duly frightened by your growl. Emboldened, the Lupin proposes that you make a game of it by attempting to scare three more Gridanians apiece. Once again, with the chat mode in <hex:024804F201F403><hex:024904F201F503>Say<hex:0249020103><hex:0248020103>, use your keyboard or the software keyboard to enter “GRRR!” to frighten three more residents of the city."
+5,"TEXT_FESHLW402_03012_SEQ_05","Sneaking up behind people and growling in their general direction has proven to be a reliable way of eliciting a terrified response─at least in your experience. But has Soga enjoyed the same success as you?"
+6,"TEXT_FESHLW402_03012_SEQ_06","It would seem that Soga had more and more difficulty scaring the people of Gridania as time went on, perhaps because they had grown more accustomed to his Lupin features. In any event, the many people with whom you interacted expressed an interest in acquiring werewolf costumes of their own, which should doubtless please the Impresario."
+7,"TEXT_FESHLW402_03012_SEQ_07","The Impresario is delighted to have received so many Gridanians eager to join in the revels by dressing as wolves like you did. When Soga overhears him speaking of a “Night of Devilry,” however, the Impresario asserts that he was only speaking of the “Light of Equality”─a rather nebulous ideal or some such─and quickly takes his leave, assuring you and Soga that he will provide formal contracts for you both to join the Continental Circus at some point in the near future. Whatever the troupe's true objectives, the people of Gridania and Soga seem to be satisfied. One can only hope that the Adventurers' Guild investigator will be as well."
+8,"TEXT_FESHLW402_03012_SEQ_08","Regardless of the circumstances which led to this particular resolution, the investigator is glad to hear that Soga is no longer interested in joining the Continental Circus, and that the people of Gridania are no longer fearful of wolfmen. While the haunted manor is still of concern, the investigator promises that he and his comrades will keep an eye on it and ensure that no Nights of Devilry come to pass."
+9,"TEXT_FESHLW402_03012_SEQ_09",""
+10,"TEXT_FESHLW402_03012_SEQ_10",""
+11,"TEXT_FESHLW402_03012_SEQ_11",""
+12,"TEXT_FESHLW402_03012_SEQ_12",""
+13,"TEXT_FESHLW402_03012_SEQ_13",""
+14,"TEXT_FESHLW402_03012_SEQ_14",""
+15,"TEXT_FESHLW402_03012_SEQ_15",""
+16,"TEXT_FESHLW402_03012_SEQ_16",""
+17,"TEXT_FESHLW402_03012_SEQ_17",""
+18,"TEXT_FESHLW402_03012_SEQ_18",""
+19,"TEXT_FESHLW402_03012_SEQ_19",""
+20,"TEXT_FESHLW402_03012_SEQ_20",""
+21,"TEXT_FESHLW402_03012_SEQ_21",""
+22,"TEXT_FESHLW402_03012_SEQ_22",""
+23,"TEXT_FESHLW402_03012_SEQ_23",""
+24,"TEXT_FESHLW402_03012_TODO_00","Dress in your All Saints' best and speak with the Impresario."
+25,"TEXT_FESHLW402_03012_TODO_01","Speak with Soga."
+26,"TEXT_FESHLW402_03012_TODO_02","With the chat mode in <hex:024804F201F403><hex:024904F201F503>Say<hex:0249020103><hex:0248020103>, enter “GRRR!” to frighten the good-humored Gridanian."
+27,"TEXT_FESHLW402_03012_TODO_03","With the chat mode in <hex:024804F201F403><hex:024904F201F503>Say<hex:0249020103><hex:0248020103>, enter “GRRR!” to frighten the people of Gridania."
+28,"TEXT_FESHLW402_03012_TODO_04","Speak with Soga."
+29,"TEXT_FESHLW402_03012_TODO_05","Speak with the Impresario."
+30,"TEXT_FESHLW402_03012_TODO_06","Speak with the Adventurers' Guild investigator."
+31,"TEXT_FESHLW402_03012_TODO_07",""
+32,"TEXT_FESHLW402_03012_TODO_08",""
+33,"TEXT_FESHLW402_03012_TODO_09",""
+34,"TEXT_FESHLW402_03012_TODO_10",""
+35,"TEXT_FESHLW402_03012_TODO_11",""
+36,"TEXT_FESHLW402_03012_TODO_12",""
+37,"TEXT_FESHLW402_03012_TODO_13",""
+38,"TEXT_FESHLW402_03012_TODO_14",""
+39,"TEXT_FESHLW402_03012_TODO_15",""
+40,"TEXT_FESHLW402_03012_TODO_16",""
+41,"TEXT_FESHLW402_03012_TODO_17",""
+42,"TEXT_FESHLW402_03012_TODO_18",""
+43,"TEXT_FESHLW402_03012_TODO_19",""
+44,"TEXT_FESHLW402_03012_TODO_20",""
+45,"TEXT_FESHLW402_03012_TODO_21",""
+46,"TEXT_FESHLW402_03012_TODO_22",""
+47,"TEXT_FESHLW402_03012_TODO_23",""
+48,"TEXT_FESHLW402_03012_IMPHEAD_000_000","You have the means at your disposal. Come, dress yourself in the guise of the werewolf, and let us see how terrifying you truly are!"
+49,"TEXT_FESHLW402_03012_SYSTEM_000_001","Equip a werewolf head, a werewolf body, a pair of werewolf arms, and a pair of werewolf bottoms, and then speak with the Impresario."
+50,"TEXT_FESHLW402_03012_SYSTEM_000_002","You may use a werewolf attire coffer to acquire these items. However, please note that this item cannot be used outside large settlements."
+51,"TEXT_FESHLW402_03012_SYSTEM_000_003","If you do not have a werewolf head, a werewolf body, a pair of werewolf arms, and a pair of werewolf bottoms in your possession, you can purchase them from a Calamity salvager."
+52,"TEXT_FESHLW402_03012_SOGA_000_005","How generous they are to furnish you with a costume. We shall have much fun together, you and I!"
+53,"TEXT_FESHLW402_03012_INVESTIGATOR03011_000_006",""
+54,"TEXT_FESHLW402_03012_IMPHEAD_000_010","Hm? Why do you hesitate, my friend? I pray you present yourself to me in your full wolflike splendor!"
+55,"TEXT_FESHLW402_03012_IMPHEAD_000_011","By the Twelve, what a hideous, monstrous abomination! You have a true gift for horror!"
+56,"TEXT_FESHLW402_03012_IMPHEAD_000_012","But such is to be expected of an adventurer, is it not? One who would slaughter twenty men for a sack of gil and kill a twenty-first for fun. Oh, how your enemies must have feared you─how their spirits must cry out for vengeance!"
+57,"TEXT_FESHLW402_03012_SOGA_000_013","Uh...I think that means you have his approval, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>!"
+58,"TEXT_FESHLW402_03012_IMPHEAD_000_014","Yes, indeed. So frightened was I that I nearly wept and soiled myself. Clearly there is naught I have to teach you, so I bid you go forth and spread fear!"
+59,"TEXT_FESHLW402_03012_SOGA_000_015","You are quite good at this, aren't you? I wonder if it will come as easily to me, though..."
+60,"TEXT_FESHLW402_03012_SOGA_000_016","Well, there is only one way to find out! As the Impresario said, we must go forth and spread fear to the people of Gridania!"
+61,"TEXT_FESHLW402_03012_PUMPKIN_000_017","(-Disembodied Voice-)Yes, yes, that's the spirit, little wolves..."
+62,"TEXT_FESHLW402_03012_SOGA_000_020","('Twould be foolish to begin without first settling upon a strategy, yes? Let us then consider how we might most effectively frighten the people of Gridania.)"
+63,"TEXT_FESHLW402_03012_SOGA_000_021","(Hmm...the people of Eorzea are wholly unfamiliar with my kind, so let us play to their worst fears. A feral growl of some sort should do nicely. “GRRR!” or some such, perhaps?)"
+64,"TEXT_FESHLW402_03012_SYSTEM_000_022","With the chat mode in <hex:024804F201F403><hex:024904F201F503>Say<hex:0249020103><hex:0248020103>, use your keyboard or the software keyboard to enter “GRRR!” to frighten the man."
+65,"TEXT_FESHLW402_03012_FRIENDLYMAN03012_000_025","Oh! Where did you come from, stranger? And what strange garments are you wearing? Is this some sort of prank? If it is, you're not doing a very good job of it..."
+66,"TEXT_FESHLW402_03012_SAYTODO_000_030","GRRR!"
+67,"TEXT_FESHLW402_03012_FRIENDLYMAN03012_000_031","Gaaaaaaaaahhhhhh!!! What in the seven hells is that!?"
+68,"TEXT_FESHLW402_03012_SOGA_100_031","Hahaha, such a face you made! But now I pray you be at ease, good sir. We are members of the Continental Circus, on a quest to spread joy through fear to the people of Gridania!"
+69,"TEXT_FESHLW402_03012_FRIENDLYMAN03012_000_032","Bugger me, is that a talking wolf...man? And with a sense of humor besides... Huh. I suppose I ought to be glad you're not a feral beast here to kill me."
+70,"TEXT_FESHLW402_03012_FRIENDLYMAN03012_000_033",""
+71,"TEXT_FESHLW402_03012_SOGA_000_034","Indeed! It is all in good fun, as you can see. What is more, if you too are interested in taking part, the Continental Circus will gladly furnish you with your own guise of the werewolf for free!"
+72,"TEXT_FESHLW402_03012_FRIENDLYMAN03012_000_035","Heh, is that so? Well, the price is certainly right. I think I might just go and get one!"
+73,"TEXT_FESHLW402_03012_SOGA_000_036","That went splendidly, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! I daresay we make a fine team."
+74,"TEXT_FESHLW402_03012_SOGA_000_037","Still, we shouldn't be too dependent on one another. Why don't we split up and try to scare three more Gridanians apiece? Afterwards, we can regroup and decide what to do next."
+75,"TEXT_FESHLW402_03012_SYSTEM_000_045","With the chat mode in <hex:024804F201F403><hex:024904F201F503>Say<hex:0249020103><hex:0248020103>, use your keyboard or the software keyboard to enter “GRRR!” to strike fear into the hearts of hapless Gridanians."
+76,"TEXT_FESHLW402_03012_SOGA_000_046","(Remember that the guise alone will not be enough to scare most people. You have to play the part with a hearty “GRRR!”)"
+77,"TEXT_FESHLW402_03012_TOUGHWOMAN03012_000_050","Nice try, little wolf, but I'm not so easily scared! Heh, look at you, spreading fear and terror while wearing such an adorable outfit."
+78,"TEXT_FESHLW402_03012_TOUGHWOMAN03012_000_051","Eh? You say the Continental Circus is giving them away for free to anyone willing to go around trying to frighten people like you are? Why didn't you say so from the first?"
+79,"TEXT_FESHLW402_03012_COWARDLYMAN03012_000_052","M-M-Matron's teats, don't do that! I'm no good with wolves...or bears...or rabbits..."
+80,"TEXT_FESHLW402_03012_COWARDLYMAN03012_000_053","...So, to summarize: you're offering me a chance to dress up like a buffoon and get revenge on all the people who ever wronged me? Heh heh, don't mind if I do!"
+81,"TEXT_FESHLW402_03012_OLDWOMAN03012_000_054","My oh my, aren't you scary! It's almost more than I can bear..."
+82,"TEXT_FESHLW402_03012_OLDWOMAN03012_000_055","At first there was just the one wolfman walking around, but now I see that you're everywhere. Can't say I entirely understand, but if this is the way the wind is blowing, then let no one say I don't also blow!"
+83,"TEXT_FESHLW402_03012_SOGA_000_065","GRRR!<hex:02100103>...Huh, that usually works."
+84,"TEXT_FESHLW402_03012_TMARITAA_000_066","Your fur looks so soft! And my, what a big mouth you have! The better to eat me with, right?"
+85,"TEXT_FESHLW402_03012_TDANAFA_000_067","For a moment there I feared I might have to summon the Wailers, but then I realized what you were about. Just goes to show you shouldn't judge people by appearances, eh?"
+86,"TEXT_FESHLW402_03012_TMARITAA_100_066",""
+87,"TEXT_FESHLW402_03012_TDANAFA_100_067",""
+88,"TEXT_FESHLW402_03012_CHILD03012_000_066",""
+89,"TEXT_FESHLW402_03012_MUM03012_000_067",""
+90,"TEXT_FESHLW402_03012_TOUGHWOMAN03012_000_068","...Well? What is it? Or are you just going to stare at me in silence?"
+91,"TEXT_FESHLW402_03012_SYSTEM_100_068","With the chat mode in <hex:024804F201F403><hex:024904F201F503>Say<hex:0249020103><hex:0248020103>, use your keyboard or the software keyboard to enter “GRRR!” to strike fear into the hearts of hapless Gridanians."
+92,"TEXT_FESHLW402_03012_COWARDLYMAN03012_000_069","All these wolfmen prowling our fair city... Maybe if I go and hide behind some shrubbery they'll leave me be..."
+93,"TEXT_FESHLW402_03012_OLDWOMAN03012_100_069","Such a lovely tradition, All Saints' Wake. I do so look forward to the festivities every year."
+94,"TEXT_FESHLW402_03012_SOGA_000_070","Scared your three, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>? I did as well, though I thought to keep going until you arrived."
+95,"TEXT_FESHLW402_03012_SOGA_000_071","I have to say, too, that I have had more and more trouble as time went on. It would seem that word has spread of our activities, and the citizenry have grown somewhat...accustomed to my features?"
+96,"TEXT_FESHLW402_03012_SOGA_000_072","Be that as it may, I should like to think the Impresario will be pleased with the many people we sent his way."
+97,"TEXT_FESHLW402_03012_TMARITAA_000_075","He's so fluffy!"
+98,"TEXT_FESHLW402_03012_TDANAFA_000_076","...Would it be all right if I asked to touch his fur as well, you think?"
+99,"TEXT_FESHLW402_03012_TMARITAA_100_075",""
+100,"TEXT_FESHLW402_03012_TDANAFA_100_076",""
+101,"TEXT_FESHLW402_03012_CHILD03012_000_075",""
+102,"TEXT_FESHLW402_03012_MUM03012_000_076",""
+103,"TEXT_FESHLW402_03012_IMPHEAD_000_080","Hahaha! How wonderful, how fantastic! Would you believe there has been no end to the stream of Gridanians clamoring for a guise of the werewolf to call their own?"
+104,"TEXT_FESHLW402_03012_IMPHEAD_000_081","We owe it all to you two and your tireless efforts. Marvelous, marvelous work!"
+105,"TEXT_FESHLW402_03012_IMPHEAD_000_082","Heh heh...with every innocent that embraces their bestial nature, with every soul that delights in the darkness, we creep ever closer to the Night of Devilry..."
+106,"TEXT_FESHLW402_03012_SOGA_000_083","Um, what was that you said just now? Something about a “Night of Devilry”?"
+107,"TEXT_FESHLW402_03012_IMPHEAD_000_084","Wh-What? Oh, no! I said the, uh...the “Light of Equality”! Ever closer do we, uh, creep to it. Yes, that will do nicely."
+108,"TEXT_FESHLW402_03012_IMPHEAD_000_085","Anyway, once again I must commend you both on a job well done! I should be glad to welcome you to the Continental Circus!"
+109,"TEXT_FESHLW402_03012_IMPHEAD_000_086","That said, it may take rather a long time to make it official─proper paperwork and procedure and so forth─and we really do have our hands full at the moment. I'll have the contracts ready for you to sign soon enough, though, don't you worry!"
+110,"TEXT_FESHLW402_03012_FRIENDLYMAN03012_000_087","(-???-)GRRR!"
+111,"TEXT_FESHLW402_03012_FRIENDLYMAN03012_000_089","Got you two good, eh? Nearly scared you to death! Oh, this is too much─and I owe it all to you two!"
+112,"TEXT_FESHLW402_03012_FRIENDLYMAN03012_000_090","I usually come to these popular things late, you know? Was running around a couple of years back with a bedsheet over my head, like a ghost, but no one was paying me any mind─but not this time!"
+113,"TEXT_FESHLW402_03012_FRIENDLYMAN03012_000_091","It's a great way to strike up a conversation with a lady too, heh heh. Aye, I've got a feeling that this is gonna be a good All Saints' Wake for me, and in more ways than one!"
+114,"TEXT_FESHLW402_03012_SOGA_000_092","...So that is why he welcomed me with open arms. At last I understand you, Impresario..."
+115,"TEXT_FESHLW402_03012_SOGA_000_093","You sought only to aid me in befriending the people of Gridania! To help them to understand that I was not some strange, otherworldly creature, but a kindred spirit!"
+116,"TEXT_FESHLW402_03012_SOGA_000_094","In dressing themselves in the guise of the werewolf, they have come to realize that beneath this fur beats a heart no different from theirs! Oh, how deep and meaningful this game has proven to be!"
+117,"TEXT_FESHLW402_03012_SOGA_000_095","But I mustn't be content with my lot here in Gridania, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. No─I must go unto all the peoples of Eorzea and endeavor to befriend each and every one! Surely that is what the Impresario would want?"
+118,"TEXT_FESHLW402_03012_SOGA_000_096","Then it is settled. With regret I will decline his invitation, though I shall remain until the festivities are concluded. And then I shall embark on a new journey!"
+119,"TEXT_FESHLW402_03012_SOGA_000_097","A final favor to ask of you, if I may, my friend. If you happen to cross paths with that other adventurer, would you thank him for me, and tell him of my decision?"
+120,"TEXT_FESHLW402_03012_WITCH03012_000_105","Now, now, there's no need for shoving! We have enough guises for everyone!"
+121,"TEXT_FESHLW402_03012_SOGA_000_106","Never did I think I would see so many people wishing to become a wolf! I wonder what my kinsmen in Doma would think..."
+122,"TEXT_FESHLW402_03012_INVESTIGATOR03011_000_110","I've seen an awful lot of people running around the city dressed as wolves of late. I don't suppose you and Soga had anything to do with that?"
+123,"TEXT_FESHLW402_03012_INVESTIGATOR03011_000_111","...That's not the conclusion I would have drawn, but the important thing is that Soga decided not to join the Continental Circus."
+124,"TEXT_FESHLW402_03012_INVESTIGATOR03011_000_112","Perhaps more importantly, the people of Gridania seem to have grown accustomed to our wolfman friend, as well as the guises the troupe has been distributing to the mischievous. Aye, it'll take more than that to terrify the average Gridanian!"
+125,"TEXT_FESHLW402_03012_INVESTIGATOR03011_000_113","...Like that haunted manor of theirs, I suppose. Yes, that is still a problem..."
+126,"TEXT_FESHLW402_03012_INVESTIGATOR03011_100_113","But we'll keep an eye on that, we will! There'll be no Night of Devilry on our watch, no sir!"
+127,"TEXT_FESHLW402_03012_PUMPKIN_000_114","Heh heh heh... When brought into the light, the wolf can seem less fearsome. But in the dark man and monster are as equals. As friends. Won't you come and join us?"
+128,"TEXT_FESHLW402_03012_SOGA_000_115","Forgive me, my friend, but I fear I do not have the time to seek out that adventurer who was so worried for my well-being before. Should you chance to see him again, please let him know that I am well."

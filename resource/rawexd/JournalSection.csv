@@ -1,14 +1,14 @@
-﻿key,0
-#,Name
-offset,0
-int32,str
-0,主線任務1（重生/蒼穹/紅蓮/暗影/曉月）
-1,主線任務2（金曦之遺輝）
-2,編年史任務
-3,支線任務
-4,友好部族任務1（重生/蒼穹/紅蓮/暗影/曉月）
-5,友好部族任務2（金曦之遺輝）
-6,職業任務
-7,其它
-8,理符
-9,副本任務
+﻿key,0,1,2
+#,Name,,
+offset,0,4,4
+int32,str,bit&01,bit&02
+0,"Main Scenario (A Realm Reborn through Endwalker)",True,True
+1,"Main Scenario (Dawntrail)",True,True
+2,"Chronicles of a New Era",True,True
+3,"Sidequests",True,True
+4,"Allied Society Quests (A Realm Reborn through Endwalker)",True,True
+5,"Allied Society Quests (Dawntrail)",True,True
+6,"Class & Job Quests",True,True
+7,"Other Quests",True,True
+8,"Levequests",True,False
+9,"Duty",False,True

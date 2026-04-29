@@ -2,97 +2,97 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_JOBNIN450_00232_SEQ_00,朧好像準備了什麼東西。
-1,TEXT_JOBNIN450_00232_SEQ_01,朧特地為冒險者申請了一套忍者裝束。前往中拉諾西亞的德內維爾關，和形跡可疑的運貨人談談。
-2,TEXT_JOBNIN450_00232_SEQ_02,擊敗了突然開始襲擊冒險者的運貨人。和旁邊鬼鬼祟祟的運貨人談談。
-3,TEXT_JOBNIN450_00232_SEQ_03,質問鬼鬼祟祟的運貨人時，鴉現身了。他聲稱為了鍛鍊冒險者而準備了收集忍者裝束的修行。前往拉諾西亞低地的赤血雄雞農場附近，找出並討伐鴉的部下，收集忍者裝束。
-4,TEXT_JOBNIN450_00232_SEQ_04,擊敗了形跡可疑的農婦。調查<hex:02280CFF05>EObj<hex:F61E980E0103>。
-5,TEXT_JOBNIN450_00232_SEQ_05,獲得了東方的忍者裝束。接下來前往東拉諾西亞的太陽海岸，找出並討伐鴉的部下。
-6,TEXT_JOBNIN450_00232_SEQ_06,擊敗了形跡可疑的女性。調查<hex:02280CFF05>EObj<hex:F61E980E0103>。
-7,TEXT_JOBNIN450_00232_SEQ_07,獲得了東方的忍者裝束。接下來前往拉諾西亞高地的吉吉盧恩交易站，找出並討伐鴉的部下。
-8,TEXT_JOBNIN450_00232_SEQ_08,擊敗了形跡可疑的捕魚人。調查<hex:02280CFF05>EObj<hex:F61E980E0103>。
-9,TEXT_JOBNIN450_00232_SEQ_09,獲得了東方的忍者裝束。接下來前往拉諾西亞外地的瞭望陣營地，找出並討伐鴉的部下。
-10,TEXT_JOBNIN450_00232_SEQ_10,擊敗了形跡可疑的商人。調查<hex:02280CFF05>EObj<hex:F61E980E0103>。
-11,TEXT_JOBNIN450_00232_SEQ_11,集齊了4件東方的忍者裝束。前往德內維爾關的<hex:02280CFF05>EObj<hex:F61E97C40103>處，尋找鴉。
-12,TEXT_JOBNIN450_00232_SEQ_12,鴉沒有等來，卻等來了擔心冒險者而趕來的朧。朧發現了鴉的留言，上面寫著最後的貨物會為您送貨上門。要立刻趕回去才行，燕有危險！
-13,TEXT_JOBNIN450_00232_SEQ_13,
-14,TEXT_JOBNIN450_00232_SEQ_14,
-15,TEXT_JOBNIN450_00232_SEQ_15,
-16,TEXT_JOBNIN450_00232_SEQ_16,
-17,TEXT_JOBNIN450_00232_SEQ_17,
-18,TEXT_JOBNIN450_00232_SEQ_18,
-19,TEXT_JOBNIN450_00232_SEQ_19,
-20,TEXT_JOBNIN450_00232_SEQ_20,
-21,TEXT_JOBNIN450_00232_SEQ_21,
-22,TEXT_JOBNIN450_00232_SEQ_22,
-23,TEXT_JOBNIN450_00232_SEQ_23,
-24,TEXT_JOBNIN450_00232_TODO_00,和德內維爾關形跡可疑的運貨人對話
-25,TEXT_JOBNIN450_00232_TODO_01,和鬼鬼祟祟的運貨人對話
-26,TEXT_JOBNIN450_00232_TODO_02,在赤血雄雞農場附近找出並討伐鴉的部下
-27,TEXT_JOBNIN450_00232_TODO_03,調查<hex:02280CFF05>EObj<hex:F61E980E0103>
-28,TEXT_JOBNIN450_00232_TODO_04,在太陽海岸找出並討伐鴉的部下
-29,TEXT_JOBNIN450_00232_TODO_05,調查<hex:02280CFF05>EObj<hex:F61E980E0103>
-30,TEXT_JOBNIN450_00232_TODO_06,在吉吉盧恩交易站找出並討伐鴉的部下
-31,TEXT_JOBNIN450_00232_TODO_07,調查<hex:02280CFF05>EObj<hex:F61E980E0103>
-32,TEXT_JOBNIN450_00232_TODO_08,在瞭望陣營地找出並討伐鴉的部下
-33,TEXT_JOBNIN450_00232_TODO_09,調查<hex:02280CFF05>EObj<hex:F61E980E0103>
-34,TEXT_JOBNIN450_00232_TODO_10,在德內維爾關的<hex:02280CFF05>EObj<hex:F61E97C40103>處尋找鴉
-35,TEXT_JOBNIN450_00232_TODO_11,
-36,TEXT_JOBNIN450_00232_TODO_12,
-37,TEXT_JOBNIN450_00232_TODO_13,
-38,TEXT_JOBNIN450_00232_TODO_14,
-39,TEXT_JOBNIN450_00232_TODO_15,
-40,TEXT_JOBNIN450_00232_TODO_16,
-41,TEXT_JOBNIN450_00232_TODO_17,
-42,TEXT_JOBNIN450_00232_TODO_18,
-43,TEXT_JOBNIN450_00232_TODO_19,
-44,TEXT_JOBNIN450_00232_TODO_20,
-45,TEXT_JOBNIN450_00232_TODO_21,
-46,TEXT_JOBNIN450_00232_TODO_22,
-47,TEXT_JOBNIN450_00232_TODO_23,
-48,TEXT_JOBNIN450_00232_OBORO_000_000,<hex:022903EB0203>。<hex:02100103>你的心成長得越發堅韌、無懈可擊了。<hex:02100103>為了慶祝你的成長，我準備了一件禮物給你。
-49,TEXT_JOBNIN450_00232_OBORO_000_001,前陣子，我們得到雙劍師公會的協助，向忍村寄去了一封信。<hex:02100103>信裡有委託村子寄一套忍者裝束過來。<hex:02100103>而現在，是時候該到貨了。
-50,TEXT_JOBNIN450_00232_OBORO_000_002,因為不能讓貨直接送上門來，<hex:02100103>所以是定在了德內維爾關附近收貨。<hex:02100103>能請你去找運貨人收貨嗎？
-51,TEXT_JOBNIN450_00232_OBORO_000_003,我和燕要去一趟雙劍師公會道謝。<hex:02100103>……期待你穿上忍者裝束的樣子。
-52,TEXT_JOBNIN450_00232_TSUBAME_000_005,總算是漸漸習慣艾歐澤亞的生活了。<hex:02100103>但還是有點想早些完成任務回村子去……
-53,TEXT_JOBNIN450_00232_JACKE_000_006,之前委託你調查的可疑人士……是叫朧來著吧？<hex:02100103>他來上門拜訪、請求幫助了。
-54,TEXT_JOBNIN450_00232_JACKE_000_007,雖然有些麻煩，<hex:02100103>不過看在是為你準備東西的面子上，我就幫了他一把。<hex:02100103>……記得好好感謝他和我哦？
-55,TEXT_JOBNIN450_00232_PORTER00232_000_40,你誰？<hex:02100103>……你來接收從遠東之國寄來的奇怪貨物？<hex:02100103>這可奇了怪了……
-56,TEXT_JOBNIN450_00232_PORTER00232_000_41,剛剛有個黑色長髮、紅色服裝的奇怪男子把東西領走了呀。
-57,TEXT_JOBNIN450_00232_PORTER00232_000_42,……咦？！那是你的貨物嗎？！<hex:02100103>這真傷腦筋了……
-58,TEXT_JOBNIN450_00232_PORTER00232_000_43,因為呀……那個奇怪的男子呀……<hex:02100103>可是交代我說如果有人來這找貨物，<hex:02100103>就把來人殺掉呢！！
-59,TEXT_JOBNIN450_00232_PORTERB00232_000_35,咿嘻嘻……
-60,TEXT_JOBNIN450_00232_BALOON_000_36,不要怪我！
-61,TEXT_JOBNIN450_00232_PORTERB00232_000_60,啊——<hex:02100103>他沒說來收貨的人有這麼強呀！<hex:02100103>只能先撤退……等下次機會了！
-62,TEXT_JOBNIN450_00232_KARASU_000_61,嘖嘖嘖，不行哦。<hex:02100103>怯懦的忍者可沒有下次機會呢。
-63,TEXT_JOBNIN450_00232_KARASU_000_62,你好呀，小雛鳥。<hex:02100103>……不用這麼緊張。
-64,TEXT_JOBNIN450_00232_KARASU_000_63,駐紮在多瑪的帝國軍部隊發來密報說有貨物運來了艾歐澤亞。<hex:02100103>我這不只是先撒下網拿了過來而已嘛。
-65,TEXT_JOBNIN450_00232_KARASU_000_64,嗚噗噗，你知道貨物運送的是什麼嗎？<hex:02100103>居然是一套新的忍者裝束呢，笑死我了。<hex:02100103>對小雛鳥來說，是不是還太早了呢？
-66,TEXT_JOBNIN450_00232_KARASU_000_66,所以我特地為你準備了試煉喲！<hex:02100103>名為「忍者裝束收集大會」！
-67,TEXT_JOBNIN450_00232_KARASU_000_67,在赤血雄雞農場、太陽海岸，<hex:02100103>還有吉吉盧恩交易站和瞭望陣營地附近，<hex:02100103>各有一個我的小棄子拿著一件忍者裝束。
-68,TEXT_JOBNIN450_00232_KARASU_000_68,去找出他們，奪回你的忍者裝束吧。<hex:02100103>那幾個小棄子還是不錯的，<hex:02100103>太過小看他們的話……也許你會死得很慘哦？
-69,TEXT_JOBNIN450_00232_KARASU_000_69,集齊了四個之後可以召喚神……不對，集齊後有獎品哦！<hex:02100103>記得要回來我這裡領獎。<hex:02100103>那麼，加油吧！啊哈哈哈哈！
-70,TEXT_JOBNIN450_00232_BATTLEA00232_000_90,哦？找我有事嗎？
-71,TEXT_JOBNIN450_00232_BATTLEA00232_000_91,……騙你的！<hex:02100103>這都是鴉大人的命令，不要怨我。
-72,TEXT_JOBNIN450_00232_BATTLEA00232_000_92,(-形跡可疑的農婦-)那個箱子是別人交給我保管的，<hex:02100103>能請你不要亂碰嗎？
-73,TEXT_JOBNIN450_00232_BALOON_000_93,受死！
-74,TEXT_JOBNIN450_00232_BATTLEB00232_000_95,這海景確實也望得有些膩了呢……<hex:02100103>謝謝你來向我搭訕。
-75,TEXT_JOBNIN450_00232_BATTLEB00232_000_96,……就讓我殺掉你以示感謝吧。
-76,TEXT_JOBNIN450_00232_BATTLEB00232_000_97,(-形跡可疑的女性-)居然隨便碰女性的行李……你這人真是沒禮貌呢。
-77,TEXT_JOBNIN450_00232_BALOON_000_98,啊哈哈！
-78,TEXT_JOBNIN450_00232_BATTLEC00232_000_100,怎麼了？你臉色很差呀。<hex:02100103>是遇到什麼麻煩了麼？
-79,TEXT_JOBNIN450_00232_BATTLEC00232_000_101,還是說你在怕……死？！
-80,TEXT_JOBNIN450_00232_BATTLEC00232_000_102,(-形跡可疑的捕魚人-)喂喂，那是別人寄存在我這的貴重品。<hex:02100103>不要隨便碰！
-81,TEXT_JOBNIN450_00232_BALOON_000_103,我這就讓你解脫！
-82,TEXT_JOBNIN450_00232_BATTLED00232_000_105,真是的，居然跑來這種破地方做買賣，我還真不走運……<hex:02100103>好想離開這滿是硫磺臭味的地方，<hex:02100103>回到我溫暖的寢室呀。
-83,TEXT_JOBNIN450_00232_BATTLED00232_000_106,你把命留下，我就能回去了！
-84,TEXT_JOBNIN450_00232_BATTLED00232_000_107,(-形跡可疑的商人-)喂，別碰我的貨。<hex:02100103>不知道講文明懂禮貌嗎？
-85,TEXT_JOBNIN450_00232_BALOON_000_108,死吧！
-86,TEXT_JOBNIN450_00232_OBORO_000_200,……<hex:022903EB0203>！太好了……<hex:02100103>我辦完事後一直等不到你回來，還以為出了什麼事。
-87,TEXT_JOBNIN450_00232_OBORO_000_201,……你撞到鴉了？！<hex:02100103>沒想到這次他盯上的是你……
-88,TEXT_JOBNIN450_00232_OBORO_000_202,但他卻沒有直接和你動手，<hex:02100103>而是讓你去找忍者裝束然後回來這裡……<hex:02100103>究竟是為了什麼……你有什麼頭緒嗎？
-89,TEXT_JOBNIN450_00232_OBORO_000_203,這是……<hex:02100103>鴉的留言？！
-90,TEXT_JOBNIN450_00232_OBORO_000_204,我看看寫的是什麼……<hex:02100103>「最後的貨物會為您送貨上門」？<hex:02100103>難、難道說據點的位置暴露了？！
-91,TEXT_JOBNIN450_00232_OBORO_000_205,碼頭小屋那邊現在只有燕一個人在……<hex:02100103>要立刻趕回去才行！
-92,TEXT_JOBNIN450_00232_OBORO_000_206,可能馬上就會見到鴉了，<hex:02100103>下次戰鬥恐怕就是死鬥……<hex:02100103>雖然有些早，但我只好提前將第三個印傳授給你了。
-93,TEXT_JOBNIN450_00232_OBORO_000_207,第三印為人之印……它可以調動你體內的乙太。<hex:02100103>……並且，這也是我能傳授給你的最後一個印了。
+0,"TEXT_JOBNIN450_00232_SEQ_00","Oboro would bequeath to you that which you have earned."
+1,"TEXT_JOBNIN450_00232_SEQ_01","Oboro believes that you have proven yourself worthy of inheriting his people's traditional garb, and has thusly ordered a full set to be delivered from his village. As such a shipment would arouse suspicion at the docks, he has arranged for the goods to be delivered to the De Nevelle Checkpoint in middle La Noscea."
+2,"TEXT_JOBNIN450_00232_SEQ_02","That which awaited you at the checkpoint was not the delivery you sought, but a surprise attack at the hands of a suspicious porter, who you subsequently dispatched. Speak with the shadowy porter cowering beside his compatriot's limp body in hopes of finding out just what manner of skullduggery is going on here."
+3,"TEXT_JOBNIN450_00232_SEQ_03","Your questioning of the shadowy porter reaches an abrupt end when none other than Karasu appears to silence the tongues of his own men. Karasu claims that the measures he has taken are for your own benefit, as he would see you truly consummate your training before you inherit the garb of the shinobi. To this end, he has entrusted the various pieces to four of his “shadows” that he has deemed expendable. You are to traverse the land and defeat each in single combat to earn what you would claim as yours. Your first challenge awaits at the Red Rooster Stead."
+4,"TEXT_JOBNIN450_00232_SEQ_04","You dispatch a minion of Karasu's disguised as a milkmaid. Open the crate beside her to claim the piece of ninja garb she had been guarding."
+5,"TEXT_JOBNIN450_00232_SEQ_05","You lay claim to your first piece of ninja garb. Travel on to Costa del Sol, where your next challenge awaits."
+6,"TEXT_JOBNIN450_00232_SEQ_06","You dispatch another minion of Karasu's. Open the crate beside her to claim the piece of ninja garb she had been guarding."
+7,"TEXT_JOBNIN450_00232_SEQ_07","You claim your second piece of ninja garb. Continue on to Jijiroon's Trading Post, where yet another challenge awaits."
+8,"TEXT_JOBNIN450_00232_SEQ_08","You have dispatched yet another minion of Karasu's, this time disguised as a fisherman. Open the crate beside him to claim the piece of ninja garb he had been guarding."
+9,"TEXT_JOBNIN450_00232_SEQ_09","You have claimed a third piece of ninja garb. Proceed on to Camp Overlook, where your fourth and final challenge awaits!"
+10,"TEXT_JOBNIN450_00232_SEQ_10","You defeat the last of Karasu's underlings, this one disguised as a trader. Open the crate to collect yet one more piece of ninja garb."
+11,"TEXT_JOBNIN450_00232_SEQ_11","You obtain the fourth piece of ninja garb, which leaves but one piece remaining to complete the set. Return to the De Nevelle Checkpoint, where Karasu has promised to give you a little something extra."
+12,"TEXT_JOBNIN450_00232_SEQ_12","It was not Karasu, but Oboro who greeted you back at the checkpoint, along with a letter stating that the promised surprise will be delivered straight to your doorstep. Oboro fears that this is little more than a thinly veiled threat. Hurry back to the docks and deliver Tsubame from danger!"
+13,"TEXT_JOBNIN450_00232_SEQ_13",""
+14,"TEXT_JOBNIN450_00232_SEQ_14",""
+15,"TEXT_JOBNIN450_00232_SEQ_15",""
+16,"TEXT_JOBNIN450_00232_SEQ_16",""
+17,"TEXT_JOBNIN450_00232_SEQ_17",""
+18,"TEXT_JOBNIN450_00232_SEQ_18",""
+19,"TEXT_JOBNIN450_00232_SEQ_19",""
+20,"TEXT_JOBNIN450_00232_SEQ_20",""
+21,"TEXT_JOBNIN450_00232_SEQ_21",""
+22,"TEXT_JOBNIN450_00232_SEQ_22",""
+23,"TEXT_JOBNIN450_00232_SEQ_23",""
+24,"TEXT_JOBNIN450_00232_TODO_00","Speak with the suspicious-looking porter at the De Nevelle Checkpoint."
+25,"TEXT_JOBNIN450_00232_TODO_01","Speak with the shadowy porter."
+26,"TEXT_JOBNIN450_00232_TODO_02","Seek out and eliminate any of Karasu's minions at the Red Rooster Stead."
+27,"TEXT_JOBNIN450_00232_TODO_03","Examine the weathered crate."
+28,"TEXT_JOBNIN450_00232_TODO_04","Seek out and eliminate any of Karasu's minions at Costa del Sol."
+29,"TEXT_JOBNIN450_00232_TODO_05","Examine the weathered crate."
+30,"TEXT_JOBNIN450_00232_TODO_06","Seek out and eliminate any of Karasu's minions at Jijiroon's Trading Post."
+31,"TEXT_JOBNIN450_00232_TODO_07","Examine the weathered crate."
+32,"TEXT_JOBNIN450_00232_TODO_08","Seek out and eliminate any of Karasu's minions at Camp Overlook."
+33,"TEXT_JOBNIN450_00232_TODO_09","Examine the weathered crate."
+34,"TEXT_JOBNIN450_00232_TODO_10","Return to the De Nevelle Checkpoint and look for Karasu."
+35,"TEXT_JOBNIN450_00232_TODO_11",""
+36,"TEXT_JOBNIN450_00232_TODO_12",""
+37,"TEXT_JOBNIN450_00232_TODO_13",""
+38,"TEXT_JOBNIN450_00232_TODO_14",""
+39,"TEXT_JOBNIN450_00232_TODO_15",""
+40,"TEXT_JOBNIN450_00232_TODO_16",""
+41,"TEXT_JOBNIN450_00232_TODO_17",""
+42,"TEXT_JOBNIN450_00232_TODO_18",""
+43,"TEXT_JOBNIN450_00232_TODO_19",""
+44,"TEXT_JOBNIN450_00232_TODO_20",""
+45,"TEXT_JOBNIN450_00232_TODO_21",""
+46,"TEXT_JOBNIN450_00232_TODO_22",""
+47,"TEXT_JOBNIN450_00232_TODO_23",""
+48,"TEXT_JOBNIN450_00232_OBORO_000_000","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. I look into your eyes today, and see a mind unclouded by worldly cares. The time has come─I would pass on to you the ancestral garb of the shinobi."
+49,"TEXT_JOBNIN450_00232_OBORO_000_001","Knowing that this day was close at hand, I have already made the necessary arrangements. With Karasu watching our every move, I cannot act freely, so I asked your friends at the Rogues' Guild to send word to my village and arrange for the delivery of a set."
+50,"TEXT_JOBNIN450_00232_OBORO_000_002","Needless to say, this location must remain a secret. I have arranged for the goods to be delivered in secret to the De Nevelle Checkpoint. A porter there will be expecting you."
+51,"TEXT_JOBNIN450_00232_OBORO_000_003","Tsubame and I must express our thanks to your Captain Jacke. Be mindful in your travels, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. We eagerly await your return."
+52,"TEXT_JOBNIN450_00232_TSUBAME_000_005","Oboro may beg to differ, but I find myself enjoying life here more and more with each passing day. Of course, I still look back fondly on my days in Doma, but I have come to consider Eorzea a second home."
+53,"TEXT_JOBNIN450_00232_JACKE_000_006","That mate o' yers─O'borro, was it?─came by here not long ago to pay his respects. Seems like an upright type, a real bene cull, and that dimber mort's right easy on the eyes. Almost made me feel bad for doubtin' 'em─but doubtin's what we do, aye?"
+54,"TEXT_JOBNIN450_00232_JACKE_000_007","'Twasn't easy, mind ye, sending a little gods-know-how-many thousands o' malms across the sea. But he said it was for you, and I couldn't right refuse, eh?"
+55,"TEXT_JOBNIN450_00232_PORTER00232_000_40","Expectin' a shipment of goods, ye say?"
+56,"TEXT_JOBNIN450_00232_PORTER00232_000_41","Now that strikes me as right curious, on account of how a scraggly fellow came by not long ago to claim them."
+57,"TEXT_JOBNIN450_00232_PORTER00232_000_42","They were actually <hex:021A020203>yours<hex:021A020103>, ye say? Well, ain't that a bloody coincidence!"
+58,"TEXT_JOBNIN450_00232_PORTER00232_000_43","See, the fellow I talked to said that someone was like to come by sayin' just that... And that if <hex:02080CE905FF04>she<hex:FF03>he<hex:03> did, he'd pay good coin for me to gut <hex:02080DE905FF04>her<hex:FF04>him<hex:03> good an' proper."
+59,"TEXT_JOBNIN450_00232_PORTERB00232_000_35","<gulp> ...Y-Yes?"
+60,"TEXT_JOBNIN450_00232_BALOON_000_36","It's just business, eh?"
+61,"TEXT_JOBNIN450_00232_PORTERB00232_000_60","H-Have mercy! If I knew you were this strong, I never would have taken his money!"
+62,"TEXT_JOBNIN450_00232_KARASU_000_61","And if <hex:021A020203>I<hex:021A020103> knew <hex:021A020203>you<hex:021A020103> were this incompetent, I would have put you out of your misery long ago."
+63,"TEXT_JOBNIN450_00232_KARASU_000_62","Well, if it isn't my favorite chirping little horsebird. Oh, come now, I'm not <hex:021A020203>that<hex:021A020103> scary...am I?"
+64,"TEXT_JOBNIN450_00232_KARASU_000_63","I heard from a little bird in Doma of a shipment en route to Eorzea in secret. I surmised─I'm quite good at that, you see─that it might have something to do with you and your friends, and I just <hex:021A020203>had<hex:021A020103> to know what was inside."
+65,"TEXT_JOBNIN450_00232_KARASU_000_64","Lo and behold, what did I find but a shiny set of shinobi garb! Why did you not <hex:021A020203>tell<hex:021A020103> me it was your nameday, little chick? I would have bought you something far more fitting─like a sack of gysahl greens! Ahahaha!"
+66,"TEXT_JOBNIN450_00232_KARASU_000_66","No, I fear Brother Dim and Sister Swallow are mistaken─you are not quite ready for such an honor. But this is no fault of your own─after all, the student is only as good as <hex:02080DE905FF04>her<hex:FF04>his<hex:03> teacher."
+67,"TEXT_JOBNIN450_00232_KARASU_000_67","But today is your lucky day, little chick, for a true master has come to take you under his wing."
+68,"TEXT_JOBNIN450_00232_KARASU_000_68","Four crates, scattered to the winds, each containing one of the items you seek. Four of my shadows, guarding each piece with their lives. A test, one where failure will mean your death."
+69,"TEXT_JOBNIN450_00232_KARASU_000_69","Red Rooster Stead. Costa del Sol. Jijiroon's Trading Post. Camp Overlook. Claim that which you seek by your own hand, or die in the act─it is of little matter to me. If by some chance you survive, return here. You just might find a <hex:021A020203>very<hex:021A020103> special present awaits you. Now shoo, shoo, I say!"
+70,"TEXT_JOBNIN450_00232_BATTLEA00232_000_90","Pardon me, <hex:020813E905FF07>milady<hex:FF07>milord<hex:03>. Have you seen my aldgoats anywhere?"
+71,"TEXT_JOBNIN450_00232_BATTLEA00232_000_91","...Oh, it's you. Don't worry, this won't hurt...much."
+72,"TEXT_JOBNIN450_00232_BATTLEA00232_000_92","(-Suspicious-looking Milkmaid-)Oh, there's nothing in there but aldgoat milk. Rich and creamy aldgoat milk, to be sure, but aldgoat milk just the same."
+73,"TEXT_JOBNIN450_00232_BALOON_000_93","Die, scum!"
+74,"TEXT_JOBNIN450_00232_BATTLEB00232_000_95","Oh, dear heavens! I must have fallen asleep while sunbathing. How can I ever thank you for rousing me from slumber?"
+75,"TEXT_JOBNIN450_00232_BATTLEB00232_000_96","What say I slit your throat and we call it even, eh?"
+76,"TEXT_JOBNIN450_00232_BATTLEB00232_000_97","(-Suspicious Midwife-)Didn't your mother teach you not to touch a lady's personal belongings?"
+77,"TEXT_JOBNIN450_00232_BALOON_000_98","For Karasu!"
+78,"TEXT_JOBNIN450_00232_BATTLEC00232_000_100","What's with the dour face, <hex:02080EE905FF05>lass<hex:FF04>lad<hex:03>? Fish just not bitin' today?"
+79,"TEXT_JOBNIN450_00232_BATTLEC00232_000_101","Maybe they know you're already a dead <hex:02080FE905FF06>woman<hex:FF04>man<hex:03>...?"
+80,"TEXT_JOBNIN450_00232_BATTLEC00232_000_102","I ain't runnin' a charity here, <hex:02080EE905FF05>lass<hex:FF04>lad<hex:03>. Get your own rod and lure!"
+81,"TEXT_JOBNIN450_00232_BALOON_000_103","This'll be over quick!"
+82,"TEXT_JOBNIN450_00232_BATTLED00232_000_105","Whatever possessed me to set up shop in this ungodly place!? I'm like to drop dead from the fumes before I see a single gil in profit!"
+83,"TEXT_JOBNIN450_00232_BATTLED00232_000_106","...'Course, if I bring yer head back to Karasu, I'll be set for life!"
+84,"TEXT_JOBNIN450_00232_BATTLED00232_000_107","(-Suspicious-looking Trader-)Whoa there, now! Are you familiar with the concept of <hex:021A020203>trade<hex:021A020103>? It's quite simple, really: it involves you giving me coin before you put your grubby little paws on my goods."
+85,"TEXT_JOBNIN450_00232_BALOON_000_108","Die!"
+86,"TEXT_JOBNIN450_00232_OBORO_000_200","...<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. I am relieved to see you safe. When you did not return, I feared the worst."
+87,"TEXT_JOBNIN450_00232_OBORO_000_201","Karasu did <hex:021A020203>what<hex:021A020103>!? Forgive me... I never suspected he would target you on your own. It is clear now that his treachery knows no bounds."
+88,"TEXT_JOBNIN450_00232_OBORO_000_202","And yet, it is curious. Again, he chose to test you rather than dispatch you by his own hand. His intentions remain as inscrutable as ever... Hm. What's this?"
+89,"TEXT_JOBNIN450_00232_OBORO_000_203","...Karasu!"
+90,"TEXT_JOBNIN450_00232_OBORO_000_204","“Welcome back, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! And hullo to you as well, Oboro. I left the present I promised you on your doorstep. Such a shame that you weren't at home...”"
+91,"TEXT_JOBNIN450_00232_OBORO_000_205","Th-The docks! Tsubame... Byakubu... Yomei... We must hurry!"
+92,"TEXT_JOBNIN450_00232_OBORO_000_206","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, I realize it is far too early in your training for this, but the situation is grim. Our only hope of surviving the battle ahead is for you to learn the mudra Jin."
+93,"TEXT_JOBNIN450_00232_OBORO_000_207","This is the mudra that will allow you to harness the energies of your fellow man. It is also the final mudra that I can teach you."

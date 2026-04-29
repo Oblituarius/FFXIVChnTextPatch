@@ -2,174 +2,174 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_FESANX102_05298_SEQ_00,※本任務是特定期間內的任務。<hex:02100103><hex:02100103>暴風陸門的爾·夏似乎充滿了幹勁。
-1,TEXT_FESANX102_05298_SEQ_01,※本任務只有在季節活動開放期間才能接受和進行。<hex:02100103>　季節活動結束後無法進行，敬請注意。<hex:02100103>　詳情請參見官方網站。<hex:02100103><hex:02100103>和爾·夏進行了交談，並開始了一場以奧修昂火炬為終點的小冒險。和拉諾西亞低地錯亂橋附近的爾·夏談談。
-2,TEXT_FESANX102_05298_SEQ_02,和阿悠悠進行了交談，一行人從錯亂橋動身向南出發。和奧修昂大橋的爾·夏談談。
-3,TEXT_FESANX102_05298_SEQ_03,和爾·夏進行了交談，得知她隱瞞了一部分此行的目的。和神握角的阿悠悠談談。
-4,TEXT_FESANX102_05298_SEQ_04,和阿悠悠進行了交談，聽爾·夏講述了關於雙親的情況。和神握角的爾·夏談談。
-5,TEXT_FESANX102_05298_SEQ_05,和爾·夏進行了交談，了解了靈災時的狀況。和奧修昂火炬的燈塔守衛羅斯特恩扎赫談談。
-6,TEXT_FESANX102_05298_SEQ_06,和羅斯特恩扎赫進行了交談，了解了爾·夏的隱情。和利姆薩·羅敏薩艦尾樓的爾·夏談談。
-7,TEXT_FESANX102_05298_SEQ_07,和阿悠悠進行了交談，並向爾·夏告別。前往利姆薩·羅敏薩的艦尾樓，將事情經過告訴異國的詩人。
-8,TEXT_FESANX102_05298_SEQ_08,和異國的詩人進行了交談。凝望著點亮新一天的絢爛煙花，冒險者再次踏上了自己的旅程。
-9,TEXT_FESANX102_05298_SEQ_09,
-10,TEXT_FESANX102_05298_SEQ_10,
-11,TEXT_FESANX102_05298_SEQ_11,
-12,TEXT_FESANX102_05298_SEQ_12,
-13,TEXT_FESANX102_05298_SEQ_13,
-14,TEXT_FESANX102_05298_SEQ_14,
-15,TEXT_FESANX102_05298_SEQ_15,
-16,TEXT_FESANX102_05298_SEQ_16,
-17,TEXT_FESANX102_05298_SEQ_17,
-18,TEXT_FESANX102_05298_SEQ_18,
-19,TEXT_FESANX102_05298_SEQ_19,
-20,TEXT_FESANX102_05298_SEQ_20,
-21,TEXT_FESANX102_05298_SEQ_21,
-22,TEXT_FESANX102_05298_SEQ_22,
-23,TEXT_FESANX102_05298_SEQ_23,
-24,TEXT_FESANX102_05298_TODO_00,和爾·夏對話
-25,TEXT_FESANX102_05298_TODO_01,再次和爾·夏對話
-26,TEXT_FESANX102_05298_TODO_02,和阿悠悠對話
-27,TEXT_FESANX102_05298_TODO_03,和爾·夏對話
-28,TEXT_FESANX102_05298_TODO_04,和羅斯特恩扎赫對話
-29,TEXT_FESANX102_05298_TODO_05,和利姆薩·羅敏薩的爾·夏對話
-30,TEXT_FESANX102_05298_TODO_06,和異國的詩人對話
-31,TEXT_FESANX102_05298_TODO_07,
-32,TEXT_FESANX102_05298_TODO_08,
-33,TEXT_FESANX102_05298_TODO_09,
-34,TEXT_FESANX102_05298_TODO_10,
-35,TEXT_FESANX102_05298_TODO_11,
-36,TEXT_FESANX102_05298_TODO_12,
-37,TEXT_FESANX102_05298_TODO_13,
-38,TEXT_FESANX102_05298_TODO_14,
-39,TEXT_FESANX102_05298_TODO_15,
-40,TEXT_FESANX102_05298_TODO_16,
-41,TEXT_FESANX102_05298_TODO_17,
-42,TEXT_FESANX102_05298_TODO_18,
-43,TEXT_FESANX102_05298_TODO_19,
-44,TEXT_FESANX102_05298_TODO_20,
-45,TEXT_FESANX102_05298_TODO_21,
-46,TEXT_FESANX102_05298_TODO_22,
-47,TEXT_FESANX102_05298_TODO_23,
-48,TEXT_FESANX102_05298_WANDERINGMINSTREL_000_001,唔，既然決定要去燈塔，<hex:02100103>總得有人去通知巴德龍先生他們才行。
-49,TEXT_FESANX102_05298_AYOYO_000_002,說真的，我從沒聽說過燈塔鬧鬼。<hex:02100103>爾·夏為什麼這麼在意這個傳聞呢，<hex:02100103>總覺得另有隱情……
-50,TEXT_FESANX102_05298_RTCHA_000_003,<hex:022903EB0203><hex:02080DE905FF04>姐<hex:FF04>哥<hex:03>，阿悠悠姐，<hex:02100103>我們該出發了吧？
-51,TEXT_FESANX102_05298_WANDERINGMINSTREL_000_004,雖然很想和你們同行，<hex:02100103>但現在我還是先回沉溺海豚亭吧。<hex:02100103>畢竟得向巴德龍先生他們說明情況。
-52,TEXT_FESANX102_05298_WANDERINGMINSTREL_000_005,你們的所見、所聞、所感……<hex:02100103>之後聽你講述應該也很有意思。<hex:02100103>祝你們一路順風。
-53,TEXT_FESANX102_05298_AYOYO_000_006,好了，那我們先往東走，去岔路口的錯亂橋吧。<hex:02100103>對這孩子來說這種外出的機會可不多，<hex:02100103>路上要是看到什麼有趣的，也可以慢慢看。
-54,TEXT_FESANX102_05298_AYOYO_000_007,爾·夏，前面是個斜坡，<hex:02100103>小心別摔倒了。
-55,TEXT_FESANX102_05298_RTCHA_000_008,這點路不算什麼！<hex:02100103>目標燈塔，冒險開始嘍！
-56,TEXT_FESANX102_05298_AYOYO_000_009,到錯亂橋了呢。<hex:02100103>往北走就是赤血雄雞農場，<hex:02100103>而我們的目的地在反方向。
-57,TEXT_FESANX102_05298_AYOYO_000_010,錯亂橋是維繫海都物流的重要通道，<hex:02100103>但再往前走會有危險的魔物和盜賊出沒，<hex:02100103>所以才起了這麼個名字來警告孩子們。
-58,TEXT_FESANX102_05298_RTCHA_000_011,哇——有河！<hex:02100103>快看快看，<hex:022903EB0203><hex:02080DE905FF04>姐<hex:FF04>哥<hex:03>，還有個怪東西！
-59,TEXT_FESANX102_05298_AYOYO_000_012,走到這一帶的話，<hex:02100103>偶爾也能看到跟著父母來玩的孩子。<hex:02100103>爾·夏來過這裡嗎？
-60,TEXT_FESANX102_05298_RTCHA_000_013,嗯，很久以前來過！<hex:02100103>但爸爸媽媽都在靈災時死了，<hex:02100103>所以後來人家就很少來這邊了。
-61,TEXT_FESANX102_05298_RTCHA_000_014,啊，不過現在和孤兒院的大家在一起，<hex:02100103>每天都過得很開心哦！
-62,TEXT_FESANX102_05298_AYOYO_000_015,孤兒院指的是利姆萊茵園吧？<hex:02100103>那裡確實總是充滿朝氣呢。
-63,TEXT_FESANX102_05298_AYOYO_000_016,海都有家孤兒院名為利姆萊茵園，<hex:02100103>是由前紅血聖女團成員經營的。<hex:02100103>爾·夏就是那裡的孩子吧。
-64,TEXT_FESANX102_05298_AYOYO_000_017,既然如此，我用通訊珠聯繫一下，<hex:02100103>讓同事幫忙報個信好了。<hex:02100103>去燈塔的路還遠，回去太晚會讓孤兒院擔心的。
-65,TEXT_FESANX102_05298_AYOYO_000_018,好了爾·夏，接下來要爬坡去奧修昂大橋了哦。<hex:02100103>直衝猛跑容易累，還是慢點走吧！
-66,TEXT_FESANX102_05298_AYOYO_000_019,這一帶都有黃衫隊的同事在巡邏警戒呢。<hex:02100103>嘻嘻，他們都知道我不是在偷懶，<hex:02100103>所以不用替我操心啦。
-67,TEXT_FESANX102_05298_RTCHA_000_020,哇——好高！好大！好厲害——！！
-68,TEXT_FESANX102_05298_AYOYO_000_021,我懂我懂，第一次站在橋上看風景的時候，<hex:02100103>我也忍不住想要喊一句「太厲害啦——」呢。
-69,TEXT_FESANX102_05298_AYOYO_000_022,這座橋橫跨在被大浪分隔的陸地上。<hex:02100103>是海都人民喊著「絕不認輸」的口號，<hex:02100103>齊心協力對抗無情靈災的見證。
-70,TEXT_FESANX102_05298_RTCHA_000_023,嘿嘿，這就是所謂的「反抗精神」吧？<hex:02100103>院長說，利姆薩·羅敏薩的人之所以奮力拚搏，<hex:02100103>就是因為滿懷不甘失去、熱愛工作的心態。
-71,TEXT_FESANX102_05298_RTCHA_100_023,<hex:022903EB0203><hex:02080DE905FF04>姐<hex:FF04>哥<hex:03>也喜歡冒險者的工作嗎？
-72,TEXT_FESANX102_05298_Q50_000_001,如何作答？
-73,TEXT_FESANX102_05298_A50_000_002,當然喜歡
-74,TEXT_FESANX102_05298_A50_000_003,看情況吧
-75,TEXT_FESANX102_05298_A50_000_004,如果可以根本不想工作
-76,TEXT_FESANX102_05298_RTCHA_000_024,果然是這樣！<hex:02100103>不愧是<hex:022903EB0203><hex:02080DE905FF04>姐<hex:FF04>哥<hex:03>，真成熟！
-77,TEXT_FESANX102_05298_RTCHA_000_025,唔……好深奧啊。<hex:02100103>不過院長也說過，大人就是這樣呢。
-78,TEXT_FESANX102_05298_RTCHA_000_026,誒？！都大人了怎麼還……？！<hex:02100103>不過院長也說過，大人偶爾也會這樣啦。
-79,TEXT_FESANX102_05298_RTCHA_000_027,爸爸媽媽也一定很熱愛工作的。<hex:02100103>院長也說過，他們是勇敢對抗靈災的英雄。
-80,TEXT_FESANX102_05298_RTCHA_000_028,但人家還是不太明白，<hex:02100103>因為他們最後都沒能回來……<hex:02100103>院長總是說「以後會告訴你」敷衍過去，所以人家才……
-81,TEXT_FESANX102_05298_RTCHA_000_029,唔……人家也不知道該怎麼表達。<hex:02100103>既然是委託人就得好好說明才行，<hex:02100103>讓人家在路上仔細想想！
-82,TEXT_FESANX102_05298_AYOYO_000_030,看來那孩子果然還有沒能說出的心事呢。<hex:02100103>或許爾·夏在意的不是傳聞的真假……<hex:02100103>還是先不要臆測了，現在先前往燈塔吧。
-83,TEXT_FESANX102_05298_AYOYO_000_031,（★未使用／削除予定★）
-84,TEXT_FESANX102_05298_RTCHA_000_032,看到燈塔了……！
-85,TEXT_FESANX102_05298_AYOYO_000_033,爾·夏，你知道嗎？<hex:02100103>遠處那座燈塔就是奧修昂火炬，<hex:02100103>冠以神之名的兩座燈塔中的一座。
-86,TEXT_FESANX102_05298_AYOYO_000_034,那裡有位燈塔守衛，名叫羅斯特恩扎赫。<hex:02100103>不管是鬧鬼傳聞還是什麼，到了之後先問問他吧。
-87,TEXT_FESANX102_05298_RTCHA_000_035,燈塔守衛……
-88,TEXT_FESANX102_05298_RTCHA_000_036,<hex:022903EB0203><hex:02080DE905FF04>姐<hex:FF04>哥<hex:03>，阿悠悠姐，<hex:02100103>人家還沒說過為什麼那麼在意鬼魂的傳聞吧。
-89,TEXT_FESANX102_05298_RTCHA_000_037,其實，人家的爸爸媽媽……曾經就是燈塔守衛。<hex:02100103>但在發生靈災時沒能回來，之後就……
-90,TEXT_FESANX102_05298_RTCHA_000_038,所以人家一聽說燈塔守衛的鬼魂，就在想……<hex:02100103>說不定那會是爸爸媽媽……
-91,TEXT_FESANX102_05298_AYOYO_000_039,原來如此，所以你才會想確認傳聞的真假啊。<hex:02100103>如果逝去的父母真的出現，還在做可怕的事……<hex:02100103>那確實會讓人在意，也想否定吧。
-92,TEXT_FESANX102_05298_RTCHA_000_040,嗯，但是啊……同樣地，<hex:02100103>人家也忍不住在想，如果他們真的在那裡就好了。<hex:02100103>因為還有很多想問的事，想說的話。
-93,TEXT_FESANX102_05298_RTCHA_000_041,總之，很快就能知道真相了吧？<hex:02100103>那人家更要努力走下去了！
-94,TEXT_FESANX102_05298_AYOYO_000_042,想見到已經不在的人——這種心情我很理解。<hex:02100103>哪怕只是鬼魂也好，哪怕只能說一句話……<hex:02100103>這世上一定有很多人都懷著這樣的念想吧。
-95,TEXT_FESANX102_05298_RTCHA_000_050,哇，海水凝固成奇怪的形狀了……？<hex:02100103>那是什麼啊，好厲害！
-96,TEXT_FESANX102_05298_AYOYO_000_051,這一帶受靈災影響很嚴重，<hex:02100103>海嘯改變了地形。<hex:02100103>那片「砂鹽灘」據說就是那時形成的。
-97,TEXT_FESANX102_05298_AYOYO_000_052,太複雜的原理我也不是很明白，<hex:02100103>據說是衛月碎片墜落導致周圍的乙太結晶化……
-98,TEXT_FESANX102_05298_RTCHA_000_053,這樣啊……靈災發生的時候，<hex:02100103>人家是和媽媽的朋友——院長一起避難來著。<hex:02100103>那時候只是覺得很害怕，什麼都不明白……
-99,TEXT_FESANX102_05298_RTCHA_000_054,原來所謂的靈災，<hex:02100103>是連大地和海洋都會面目全非的，<hex:02100103>這麼可怕的事情啊……
-100,TEXT_FESANX102_05298_RTCHA_000_055,爸爸媽媽當時……究竟是什麼樣的心情呢。<hex:02100103>原來是這樣，人家想要的是……
-101,TEXT_FESANX102_05298_AYOYO_000_056,所謂燈塔守衛，就是受政府委派管理燈塔的人。<hex:02100103>羅斯特恩扎赫先生自靈災之後一直獨守在這裡，<hex:02100103>我聽說他是個相當怕寂寞的人呢。
-102,TEXT_FESANX102_05298_RTCHA_000_057,不管有沒有鬼魂，人家都……
-103,TEXT_FESANX102_05298_ROSTNZEH_000_058,……這種地方居然會有客人來。<hex:02100103>怎麼了，有事嗎？
-104,TEXT_FESANX102_05298_ROSTNZEH_000_060,燈塔守衛的鬼魂？我在這住了這麼久，從沒見過那玩意。<hex:02100103>八成是把夜裡巡邏的我或者晾的衣服錯認成鬼魂了吧……<hex:02100103>不過這裡確實像個會鬧鬼的地方，小孩子傳謠也不奇怪。
-105,TEXT_FESANX102_05298_RTCHA_000_061,這樣啊……謝謝你告訴人家。<hex:02100103>爸爸媽媽的鬼魂果然不存在呢……
-106,TEXT_FESANX102_05298_ROSTNZEH_000_062,不過真讓人吃驚，小姑娘你是爾·艾托的女兒啊。<hex:02100103>你父母是燈塔守衛的前輩，我曾受過他們不少照顧呢。
-107,TEXT_FESANX102_05298_ROSTNZEH_000_063,爾·艾托夫婦當年管理著對岸的利姆萊茵燈塔。<hex:02100103>那地方現在看著是個小島，靈災前可是連接大陸的半島……<hex:02100103>還有個名字叫遺孀崖，是個兇惡魔物橫行的險地。
-108,TEXT_FESANX102_05298_ROSTNZEH_000_064,光是運送物資就得僱傭老練的冒險者護送。<hex:02100103>你父母就是在那種嚴酷之地守護燈塔的。
-109,TEXT_FESANX102_05298_RTCHA_000_065,大叔，要是知道的話，請告訴人家！<hex:02100103>關於爸爸媽媽的事……
-110,TEXT_FESANX102_05298_RTCHA_000_066,靈災時，他們把人家託付給了院長，<hex:02100103>然後一直堅守在燈塔的崗位上……後來被巨浪捲走了。<hex:02100103>這些人家都聽說過，但是……
-111,TEXT_FESANX102_05298_RTCHA_000_067,明明知道那麼危險，為什麼還要……？<hex:02100103>人家想知道，他們究竟想做什麼、<hex:02100103>當時懷著怎樣的心情……！
-112,TEXT_FESANX102_05298_ROSTNZEH_000_068,我當時在別的駐地，只看過通訊記錄和資料……<hex:02100103>靈災發生時，爾·艾托夫婦似乎試圖用土袋和木材阻擋巨浪，<hex:02100103>保護利姆萊茵燈塔。
-113,TEXT_FESANX102_05298_ROSTNZEH_000_069,大概是想分流緩衝水量吧……<hex:02100103>但那種規模的海嘯，根本不是人力能抗衡的。
-114,TEXT_FESANX102_05298_ROSTNZEH_000_070,拉諾西亞被毀得不成樣子，失蹤者不計其數……<hex:02100103>軍隊和冒險者連日開展搜救。<hex:02100103>我也自願參加了爾·艾托夫婦的搜索，但……
-115,TEXT_FESANX102_05298_ROSTNZEH_100_070,（★未使用／削除予定★）
-116,TEXT_FESANX102_05298_ROSTNZEH_000_071,可你要知道，靈災那天……要不是你父母死守燈塔，<hex:02100103>海上那麼多船隻就會失去歸航的坐標。<hex:02100103>多虧了他們，眾多船員才能得救啊。
-117,TEXT_FESANX102_05298_RTCHA_000_072,原來……是這樣。<hex:02100103>爸爸媽媽是為了保護別人……<hex:02100103>院長說他們是英雄，原來是這個意思啊。
-118,TEXT_FESANX102_05298_RTCHA_000_073,可是……可是啊，<hex:02100103>人家寧願不要別人的稱讚，只要他們能活著……
-119,TEXT_FESANX102_05298_ROSTNZEH_000_074,我有個提議……如果你們願意，<hex:02100103>聽我講講爾·艾托夫婦生前的事如何？
-120,TEXT_FESANX102_05298_ROSTNZEH_000_075,雖然也就是些燈塔守衛的日常工作，<hex:02100103>還有夫婦兩人的生活瑣事之類的……<hex:02100103>但這大概是我能做的為數不多的事了。
-121,TEXT_FESANX102_05298_RTCHA_000_076,真的嗎？！人家要聽！<hex:02100103>人家想要知道爸爸媽媽更多的事情！
-122,TEXT_FESANX102_05298_RTCHA_000_100,早上好，<hex:022903EB0203><hex:02080DE905FF04>姐<hex:FF04>哥<hex:03>！
-123,TEXT_FESANX102_05298_RTCHA_100_100,嘿嘿……人家早起去看燈塔了。<hex:02100103>靈災發生之前，爸爸媽媽就在那裡工作呢……
-124,TEXT_FESANX102_05298_RTCHA_000_101,在這之前，人家一直覺得心裡堵得慌。<hex:02100103>總覺得……像是被他們拋棄了一樣。
-125,TEXT_FESANX102_05298_RTCHA_000_102,所以，如果能見到他們……<hex:02100103>人家想把「為什麼丟下人家去工作」「好寂寞」「最喜歡你們了」<hex:02100103>這些堆在心裡的話，全都傾訴出來。
-126,TEXT_FESANX102_05298_Q52_000_001,要說什麼？
-127,TEXT_FESANX102_05298_A52_000_002,我能理解
-128,TEXT_FESANX102_05298_A52_000_003,得知鬼魂不存在，很失望嗎？
-129,TEXT_FESANX102_05298_RTCHA_000_103,嗯，雖然沒見到鬼魂，<hex:02100103>但聽到了好多關於爸爸媽媽的事呢。
-130,TEXT_FESANX102_05298_RTCHA_000_104,唔……有一點吧。<hex:02100103>不過，雖然沒見到鬼魂，<hex:02100103>但聽到了好多關於爸爸媽媽的事呢。
-131,TEXT_FESANX102_05298_RTCHA_000_105,所以人家在想……總有一天，人家也要像爸爸媽媽一樣，<hex:02100103>還要像<hex:022903EB0203><hex:02080DE905FF04>姐<hex:FF04>哥<hex:03>你們一樣，<hex:02100103>去做一份能扶持別人「當下」的工作……所以……
-132,TEXT_FESANX102_05298_RTCHA_000_106,所以，能來這裡真是太好了！<hex:02100103>謝謝你帶人家來這裡……<hex:02100103>讓人家看到了新的風景！
-133,TEXT_FESANX102_05298_AYOYO_000_107,雖然這一趟很辛苦，但收穫也不小。<hex:02100103><hex:020813E905FF07>小姐<hex:FF07>小哥<hex:03>也辛苦了。
-134,TEXT_FESANX102_05298_RTCHA_000_108,<hex:022903EB0203><hex:02080DE905FF04>姐<hex:FF04>哥<hex:03>，阿悠悠姐，謝謝你們的陪伴！<hex:02100103>雖然快累死了，但解開了心結感覺舒暢多了！
-135,TEXT_FESANX102_05298_AYOYO_000_109,不用謝啦，以後再有事就來找我吧。<hex:02100103>啊……不過下次你可別再偷偷溜出城了！<hex:02100103>這種危險的事情不許再做了！
-136,TEXT_FESANX102_05298_RTCHA_000_110,那、人家就回孤兒院啦！<hex:02100103>院長他們應該……<hex:02100103>呃……大概沒太擔心吧！
-137,TEXT_FESANX102_05298_AYOYO_000_111,啊對了，<hex:020813E905FF07>小姐<hex:FF07>小哥<hex:03>還要彙報情況吧？<hex:02100103>我聽同事說異國的詩人就在艦尾樓，<hex:02100103>你可以去那邊看看。
-138,TEXT_FESANX102_05298_AYOYO_000_112,我先送爾·夏回去好了。<hex:02100103>等會還有大型煙花表演呢，<hex:02100103>那可是新生慶典的招牌，你倆要是有空就來看吧。
-139,TEXT_FESANX102_05298_RTCHA_000_113,再見啦，<hex:022903EB0203><hex:02080DE905FF04>姐<hex:FF04>哥<hex:03>！<hex:02100103>拜拜，下次見！
-140,TEXT_FESANX102_05298_WANDERINGMINSTREL_000_120,啊，你回來了。<hex:02100103>情況如何？爾·夏小妹妹有確認到鬼魂傳聞的真相嗎？
-141,TEXT_FESANX102_05298_WANDERINGMINSTREL_000_121,原來如此，她前往燈塔的真正理由，<hex:02100103>是想確認在靈災中逝去的雙親的事啊。
-142,TEXT_FESANX102_05298_WANDERINGMINSTREL_000_122,……當某人因思念某人而行動時，故事便由此誕生。<hex:02100103>這存在於每個人、每個日常的瞬間，<hex:02100103>而我們能觸及的，不過是無數故事中的零星片段。
-143,TEXT_FESANX102_05298_WANDERINGMINSTREL_000_123,但有時候，這樣微小的故事也會傳遞到某人的心中吧。<hex:02100103>就像那對燈塔守衛夫婦守護的燈火，<hex:02100103>穿越時光，如今正映照著他們孩子的側顏。
-144,TEXT_FESANX102_05298_WANDERINGMINSTREL_000_124,感謝你的協助。<hex:02100103>你不僅實現了爾·夏小妹妹的願望，<hex:02100103>也完美達成了我尋求創作靈感的委託。
-145,TEXT_FESANX102_05298_WANDERINGMINSTREL_100_124,托你的福，我似乎能寫出不錯的詩歌。<hex:02100103>若你願意，在大型煙花表演開始前，<hex:02100103>可否再與我聊聊？
-146,TEXT_FESANX102_05298_WANDERINGMINSTREL_000_500,正值新生慶典大型煙花即將綻放，人群漸聚之時……<hex:02100103>我腦海中有了靈感，能請你聽聽嗎？<hex:02100103>這首獻給所有平凡前行者的，通往明天的詩歌。
-147,TEXT_FESANX102_05298_YOSHIDANAOKI_000_600,(-？？？？-)歡迎，光之戰士……
-148,TEXT_FESANX102_05298_YOSHIDANAOKI_000_602,(-？？？？-)這裡是有別於現世的異世界……<hex:02100103>你眼中看到的一切也許是真實的，<hex:02100103>也許只是夢境與幻想。
-149,TEXT_FESANX102_05298_YOSHIDANAOKI_000_603,初次見面，我的名字是「吉田直樹」。<hex:02100103>很抱歉，是否讓你受到了驚嚇？今天我是想向你表示感謝，<hex:02100103>所以才在時空的狹縫安排了這樣一場相遇。
-150,TEXT_FESANX102_05298_YOSHIDANAOKI_000_604,喲，我們又見面了，我的名字是「吉田直樹」。<hex:02100103>很抱歉，是否讓你受到了驚嚇？今天我是想向你表示感謝，<hex:02100103>所以才在時空的狹縫安排了這樣一場相遇。
-151,TEXT_FESANX102_05298_YOSHIDANAOKI_000_605,歷經漫漫星霜……<hex:02100103>我們得以與你共同跋涉在這條冒險之路上。
-152,TEXT_FESANX102_05298_YOSHIDANAOKI_000_606,同行的旅程永無終點，<hex:02100103>今日如此，明日亦然，<hex:02100103>這份不變的日常仍將延續下去。
-153,TEXT_FESANX102_05298_YOSHIDANAOKI_000_607,雖然我總是努力向前邁進……
-154,TEXT_FESANX102_05298_YOSHIDANAOKI_000_608,但最近愈發明白：<hex:02100103>偶爾也該駐足回望，<hex:02100103>細數旅途獲得的歷練與智慧。
-155,TEXT_FESANX102_05298_YOSHIDANAOKI_000_609,或許這麼說有些奇怪——我大概也成長了些許吧。
-156,TEXT_FESANX102_05298_YOSHIDANAOKI_000_610,成功失敗皆為養分，<hex:02100103>願滿懷誠意繼續前行……
-157,TEXT_FESANX102_05298_YOSHIDANAOKI_100_610,此刻，我願重拾旅程伊始的誓言，<hex:02100103>以赤子之心再度踐行。
-158,TEXT_FESANX102_05298_YOSHIDANAOKI_200_610,殷盼你能繼續與我們並肩同行。
-159,TEXT_FESANX102_05298_YOSHIDANAOKI_300_610,願母水晶永遠祝福光之戰士<hex:022903EB0203>，<hex:02100103>以及我們這場名為人生的旅途。
-160,TEXT_FESANX102_05298_YOSHIDANAOKI_000_611,好了，不能讓忙碌的你在這裡久留。<hex:02100103>這個幻象也該結束了。<hex:02100103>是時候從夢中甦醒了。
-161,TEXT_FESANX102_05298_YOSHIDANAOKI_000_612,這個世界的故事，仍將延續下去……<hex:02100103>所以請允許我祈願：<hex:02100103>願我們的道路，能在未來的旅途中再度交匯。
-162,TEXT_FESANX102_05298_YOSHIDANAOKI_000_613,在那天來臨之前，請務必珍重。<hex:02100103>願你接下來的旅程，充滿光明。
-163,TEXT_FESANX102_05298_WANDERINGMINSTREL_000_701,生活在這世間的人們所編織的種種故事……<hex:02100103>其中大多，想必都與世界的命運毫無瓜葛。<hex:02100103>縱使無人知曉，平凡的日子仍會靜靜流淌。
-164,TEXT_FESANX102_05298_WANDERINGMINSTREL_000_702,但你卻連這樣的故事也悉心拾取，時而將其傳遞給他人。<hex:02100103>請允許我懷著感激之情，再獻上一首……<hex:02100103>贈予你，這首祈願旅途豐饒的詩歌。
-165,TEXT_FESANX102_05298_WANDERINGMINSTREL_000_703,金光燦燦，天陽高升，無垠的蒼穹向旅人發出邀請。<hex:02100103>銀風凌凌，塵世穿行，無盡的白漠為旅人鋪墊前程。
-166,TEXT_FESANX102_05298_WANDERINGMINSTREL_000_704,此方所見乃人之燈火，雖尚不可及，卻也非遠在天邊。<hex:02100103>彼方所現為星之命焰，其傳遞溫暖，低聲將希望點燃。<hex:02100103>我們將始終在此守候，願記憶的旋律為你指引，助你揚帆。
-167,TEXT_FESANX102_05298_WANDERINGMINSTREL_000_706,爾·夏小妹妹和阿悠悠，當然還有你，<hex:02100103>今後必定會編織出更多故事吧。
-168,TEXT_FESANX102_05298_WANDERINGMINSTREL_000_707,不過你的故事，或許會比旁人稍顯波瀾壯闊，<hex:02100103>偶爾也可能遭遇巨大的艱險。<hex:02100103>但請你務必銘記——
-169,TEXT_FESANX102_05298_WANDERINGMINSTREL_000_708,無論前路被何等深重的黑暗籠罩，<hex:02100103>你所收集的故事，永遠都是你的夥伴。<hex:02100103>它們終有一日，會成為指引你的明燈。
-170,TEXT_FESANX102_05298_SYSTEM_000_800,可在各國旅館客房內的「玩具箱」玩小遊戲。
+0,"TEXT_FESANX102_05298_SEQ_00","R'tcha is champing at the bit to set forth.<hex:02100103>※This quest is available for a limited time only."
+1,"TEXT_FESANX102_05298_SEQ_01","At young R'tcha's word, your little adventure to Oschon's Torch begins. Ayoyo suggests first striking east to Madman Bridge, and thither do you make your way.<hex:02100103><hex:02100103>※Please note that you will be unable to complete this quest after the seasonal event has ended. For details, please check the Lodestone."
+2,"TEXT_FESANX102_05298_SEQ_02","As you take in the sights at Madman Bridge, R'tcha reveals that her parents died in the Calamity, and she lives at an orphanage. After taking a moment to digest this revelation, your party continues on south, to Oschon's Embrace."
+3,"TEXT_FESANX102_05298_SEQ_03","At the dizzying heights of Oschon's Embrace, R'tcha again brings up the subject of her parents, but struggles to express herself. As she wrestles with her thoughts, she presses on to the Gods' Grip, with you and Ayoyo following after her."
+4,"TEXT_FESANX102_05298_SEQ_04","At length Oschon's Torch comes into view, and the mention of its keeper spurs R'tcha to divulge more about her parents. The two were lighthouse keepers who went missing when the Calamity struck, and R'tcha had been torn between wanting to disprove the rumor that they had become vengeful spirits and meeting them again. Seemingly finding courage in voicing her feelings, she continues resolutely on her way."
+5,"TEXT_FESANX102_05298_SEQ_05","Further along the road, your party makes a brief stop at a vantage point to marvel at the impossible landscape wrought by the Calamity. The view impresses upon R'tcha the scale of the destruction, and she cannot help but wonder how her parents had felt that fateful day. Without further word, she sets off for the lighthouse ahead, there to speak with its keeper Rostnzeh and come face-to-face with the truth."
+6,"TEXT_FESANX102_05298_SEQ_06","It is with mixed feelings that R'tcha learns from Rostnzeh that no ghosts haunt any lighthouse he knows. The man had been acquainted with R'tcha's parents, however, and he gladly shares what he remembers of them. When the Calamity unleashed a monstrous tidal wave on Vylbrand, the couple had fought desperately to protect their lighthouse. Though they lost their lives in the trying, they saved full many by doing their duty to the last. The knowledge serves to comfort R'tcha, and at Rostnzeh's invitation, you stay the night to hear more tales about her parents. So it is that R'tcha attains closure, and inspired by her parents' bravery, she resolves to become someone who helps others."
+7,"TEXT_FESANX102_05298_SEQ_07","Back at the Aftcastle, you bid a fond farewell to your companions. Ayoyo informs you that the wandering minstrel has taken himself to the Anchor Yard, and you seek him out to report on the success of your excursion."
+8,"TEXT_FESANX102_05298_SEQ_08","The minstrel listens intently as you recount your adventure with young R'tcha. The tale provides him with the inspiration he sought, and he proceeds to compose a verse in your presence. No sooner does he strum out a chord on his harp than you find yourself whisked away to a mysterious place, where you are greeted by the enigmatic Naoki Yoshida. The man thanks you for the stories you have woven, and expresses his excitement for those you have yet to weave, before returning you to the Anchor Yard. There, as spectacular fireworks fill the night sky with vibrant color, the minstrel performs his new song─a song of journeys fulfilling, which he dedicates to you, who bring joy through the stories you gather and deliver. No matter how great your burdens, these same stories shall be your strength─a beacon to light your way in the darkness."
+9,"TEXT_FESANX102_05298_SEQ_09",""
+10,"TEXT_FESANX102_05298_SEQ_10",""
+11,"TEXT_FESANX102_05298_SEQ_11",""
+12,"TEXT_FESANX102_05298_SEQ_12",""
+13,"TEXT_FESANX102_05298_SEQ_13",""
+14,"TEXT_FESANX102_05298_SEQ_14",""
+15,"TEXT_FESANX102_05298_SEQ_15",""
+16,"TEXT_FESANX102_05298_SEQ_16",""
+17,"TEXT_FESANX102_05298_SEQ_17",""
+18,"TEXT_FESANX102_05298_SEQ_18",""
+19,"TEXT_FESANX102_05298_SEQ_19",""
+20,"TEXT_FESANX102_05298_SEQ_20",""
+21,"TEXT_FESANX102_05298_SEQ_21",""
+22,"TEXT_FESANX102_05298_SEQ_22",""
+23,"TEXT_FESANX102_05298_SEQ_23",""
+24,"TEXT_FESANX102_05298_TODO_00","Speak with R'tcha."
+25,"TEXT_FESANX102_05298_TODO_01","Speak with R'tcha again."
+26,"TEXT_FESANX102_05298_TODO_02","Speak with Ayoyo."
+27,"TEXT_FESANX102_05298_TODO_03","Speak with R'tcha."
+28,"TEXT_FESANX102_05298_TODO_04","Speak with Rostnzeh."
+29,"TEXT_FESANX102_05298_TODO_05","Speak with R'tcha in Limsa Lominsa."
+30,"TEXT_FESANX102_05298_TODO_06","Speak with the wandering minstrel."
+31,"TEXT_FESANX102_05298_TODO_07",""
+32,"TEXT_FESANX102_05298_TODO_08",""
+33,"TEXT_FESANX102_05298_TODO_09",""
+34,"TEXT_FESANX102_05298_TODO_10",""
+35,"TEXT_FESANX102_05298_TODO_11",""
+36,"TEXT_FESANX102_05298_TODO_12",""
+37,"TEXT_FESANX102_05298_TODO_13",""
+38,"TEXT_FESANX102_05298_TODO_14",""
+39,"TEXT_FESANX102_05298_TODO_15",""
+40,"TEXT_FESANX102_05298_TODO_16",""
+41,"TEXT_FESANX102_05298_TODO_17",""
+42,"TEXT_FESANX102_05298_TODO_18",""
+43,"TEXT_FESANX102_05298_TODO_19",""
+44,"TEXT_FESANX102_05298_TODO_20",""
+45,"TEXT_FESANX102_05298_TODO_21",""
+46,"TEXT_FESANX102_05298_TODO_22",""
+47,"TEXT_FESANX102_05298_TODO_23",""
+48,"TEXT_FESANX102_05298_WANDERINGMINSTREL_000_001","If young R'tcha is heading to Oschon's Torch, then someone should report as much to Baderon."
+49,"TEXT_FESANX102_05298_AYOYO_000_002","As I said, I'd never 'eard about ghosts appearin' at the lighthouse. Wonder why R'tcha's so interested in 'em..."
+50,"TEXT_FESANX102_05298_RTCHA_000_003","Are you ready to go, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>?"
+51,"TEXT_FESANX102_05298_WANDERINGMINSTREL_000_004","As much as I would like to accompany you, someone should return to the Drowning Wench to apprise Baderon of these developments."
+52,"TEXT_FESANX102_05298_WANDERINGMINSTREL_000_005","Besides, to hear your accounts afterwards─what you learned and felt─will also bring unique inspiration. I wish you an enjoyable and insightful excursion."
+53,"TEXT_FESANX102_05298_AYOYO_000_006","Right, to begin with, 'ow about we 'ead east to Madman Bridge? It'd give R'tcha a chance to see the sights."
+54,"TEXT_FESANX102_05298_AYOYO_000_007","The path can be steep in places, so take care ye don't take a tumble, now."
+55,"TEXT_FESANX102_05298_RTCHA_000_008","I'll be fine, don't worry! Let the adventure begin!"
+56,"TEXT_FESANX102_05298_AYOYO_000_009","An' 'ere it is─Madman Bridge. If ye 'ead north, ye'll get to the Red Rooster Stead, but our destination takes us south."
+57,"TEXT_FESANX102_05298_AYOYO_000_010","A vital route fer trade, is the bridge, but it prowls with bandits an' fiends beyond. That's why it was given its name, as a warnin' to younglings."
+58,"TEXT_FESANX102_05298_RTCHA_000_011","Look, a river! And there's some sort of strange animal!"
+59,"TEXT_FESANX102_05298_AYOYO_000_012","We sometimes see children out this way with their folks, but I take it ye've never been?"
+60,"TEXT_FESANX102_05298_RTCHA_000_013","Actually, I have. It was a long time ago, though. Before my parents died in the Calamity."
+61,"TEXT_FESANX102_05298_RTCHA_000_014","It's alright. I like it at the orphanage. Everyone's really nice, and I have lots of fun."
+62,"TEXT_FESANX102_05298_AYOYO_000_015","That'd be Llymlaen's Shoals, I take it?"
+63,"TEXT_FESANX102_05298_AYOYO_000_016","It's an orphanage run by a former Sanguine Siren, in case ye wasn't aware. A fine place by all accounts."
+64,"TEXT_FESANX102_05298_AYOYO_000_017","If that's where R'tcha's from, I'll 'ave one o' me comrades contact 'er caretakers. Wouldn't do to let 'em think she's missin'."
+65,"TEXT_FESANX102_05298_AYOYO_000_018","Right then, next we'll make fer Oschon's Embrace, up this 'ere 'ill. Take it slow so ye don't wear yerself down."
+66,"TEXT_FESANX102_05298_AYOYO_000_019","Me fellow Yellowjackets patrol these parts. Lest ye worry, they know I ain't on some pleasure jaunt."
+67,"TEXT_FESANX102_05298_RTCHA_000_020","Whoa! We're so high up! This is amazing!"
+68,"TEXT_FESANX102_05298_AYOYO_000_021","Hehe, I felt the same way when I looked out from 'ere fer the first time."
+69,"TEXT_FESANX102_05298_AYOYO_000_022","This bridge was built where a tidal wave sundered the land durin' the Calamity. It's a symbol o' our people's determination to rise above tragedy."
+70,"TEXT_FESANX102_05298_RTCHA_000_023","Miss Dorathia─that's the headmistress─said that we Lominsans work hard because we hate to lose and like what we do."
+71,"TEXT_FESANX102_05298_RTCHA_100_023","What about you, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>? Do you like being an adventurer?"
+72,"TEXT_FESANX102_05298_Q50_000_001","What will you say?"
+73,"TEXT_FESANX102_05298_A50_000_002","I wouldn't want to be anything else."
+74,"TEXT_FESANX102_05298_A50_000_003","It depends on the work."
+75,"TEXT_FESANX102_05298_A50_000_004","I'd rather not work at all, to be honest."
+76,"TEXT_FESANX102_05298_RTCHA_000_024","Hehe, that's what I thought. When I grow up, I hope I'll like what I do as well!"
+77,"TEXT_FESANX102_05298_RTCHA_000_025","Really? I guess it's not so simple..."
+78,"TEXT_FESANX102_05298_RTCHA_000_026","Really!? I guess it's not so simple..."
+79,"TEXT_FESANX102_05298_RTCHA_000_027","My parents liked what they did, I think. When the Calamity struck, they didn't run away. They were noble souls, Miss Dorathia said."
+80,"TEXT_FESANX102_05298_RTCHA_000_028","She promised to tell me everything one day, but I don't know how to feel when they're gone, and..."
+81,"TEXT_FESANX102_05298_RTCHA_000_029","Ungh, I can't find the words. I want to be a good client, though, so I'll think on it."
+82,"TEXT_FESANX102_05298_AYOYO_000_030","Seems R'tcha's got somethin' she needs to get off 'er chest. In wantin' to verify the rumor, mayhap she... Ah, but there's no use speculatin'. Come, let's press on."
+83,"TEXT_FESANX102_05298_AYOYO_000_031","To be deleted."
+84,"TEXT_FESANX102_05298_RTCHA_000_032","I see the lighthouse!"
+85,"TEXT_FESANX102_05298_AYOYO_000_033","That there's Oschon's Torch, one o' two lighthouses 'ere what are named fer gods."
+86,"TEXT_FESANX102_05298_AYOYO_000_034","The lighthouse keeper's a bloke named Rostnzeh. Ye can ask 'im about ghosts an' anythin' else ye like."
+87,"TEXT_FESANX102_05298_RTCHA_000_035","Lighthouse keeper..."
+88,"TEXT_FESANX102_05298_RTCHA_000_036","So, about the reason why I want to know about the ghosts..."
+89,"TEXT_FESANX102_05298_RTCHA_000_037","My father and mother were lighthouse keepers, you see. But they disappeared during the Calamity and were never found."
+90,"TEXT_FESANX102_05298_RTCHA_000_038","When I heard the rumor, I thought that maybe─just maybe─they were the ones haunting the lighthouse."
+91,"TEXT_FESANX102_05298_AYOYO_000_039","So that's why ye want to prove the rumor wrong. Ye couldn't stand people thinkin' yer parents were doin' terrible things."
+92,"TEXT_FESANX102_05298_RTCHA_000_040","Aye... But a part of me wishes that the rumor was true. Then I'd be able to talk to my parents again. There's so many things I'd like to ask them..."
+93,"TEXT_FESANX102_05298_RTCHA_000_041","Well, whatever the truth is, we'll find out soon. Let's keep going!"
+94,"TEXT_FESANX102_05298_AYOYO_000_042","I can understand the desire to see those who're gone─to say words to them ye couldn't in life. It's a feelin' everyone knows at some point."
+95,"TEXT_FESANX102_05298_RTCHA_000_050","Whoa, the sea's frozen in a splash! Amazing!"
+96,"TEXT_FESANX102_05298_AYOYO_000_051","This area was 'ard 'it by the Calamity. On top o' the tidal wave washin' away big swaths o' land, a piece o' Dalamud came crashin' down yonder."
+97,"TEXT_FESANX102_05298_AYOYO_000_052","They say it caused aether to gush out o' the land an' crystallize all at once."
+98,"TEXT_FESANX102_05298_RTCHA_000_053","At that time, I was with Miss Dorathia. She was my mother's friend, and she took me to a safe place."
+99,"TEXT_FESANX102_05298_RTCHA_000_054","I was very little then. I didn't fully understand what was happening. But the Calamity really was a frightful thing..."
+100,"TEXT_FESANX102_05298_RTCHA_000_055","I can't imagine how it was for Father and Mother..."
+101,"TEXT_FESANX102_05298_AYOYO_000_056","Rostnzeh's been 'ere since the Calamity. It's lonely work, an' 'e's always glad to 'ave guests."
+102,"TEXT_FESANX102_05298_RTCHA_000_057","Even if there aren't any ghosts, I..."
+103,"TEXT_FESANX102_05298_ROSTNZEH_000_058","Well now, if it ain't guests. What brings ye to the Torch?"
+104,"TEXT_FESANX102_05298_ROSTNZEH_000_060","Ghosts durin' the Risin'... For all me years as a keeper, I've not seen nor heard about such things at any lighthouse I know. It's certainly the sort of place as children might believe haunted, though. Might be as someone mistook me or some laundry for a specter."
+105,"TEXT_FESANX102_05298_RTCHA_000_061","So Father and Mother weren't ghosts after all..."
+106,"TEXT_FESANX102_05298_ROSTNZEH_000_062","But I must say, it's a surprise to see R'atoh's little girl here. Yer parents showed me the ropes when I was startin' out as a keeper."
+107,"TEXT_FESANX102_05298_ROSTNZEH_000_063","They had charge o' Llymlaen's Ring yonder. Nowadays it's on a little isle, but there used to be a stretch o' land connectin' it."
+108,"TEXT_FESANX102_05298_ROSTNZEH_000_064","A dangerous stretch it was, rife with nasty beasts. Ye needed to hire adventurers, and grizzled ones at that, just to deliver supplies."
+109,"TEXT_FESANX102_05298_RTCHA_000_065","If you knew my parents, please tell me about them!"
+110,"TEXT_FESANX102_05298_RTCHA_000_066","They left me in Limsa Lominsa during the Calamity and died in the tidal wave."
+111,"TEXT_FESANX102_05298_RTCHA_000_067","Why did they go out there even though it was so dangerous? What was going through their minds? I want to know..."
+112,"TEXT_FESANX102_05298_ROSTNZEH_000_068","I was stationed elsewhere at the time, so I only read this in a report...but your folks did everythin' they could to protect Llymlaen's Ring."
+113,"TEXT_FESANX102_05298_ROSTNZEH_000_069","They built a breakwater, usin' anythin' and everythin' they had on hand. But in the end there was no stoppin' such a monstrous wave."
+114,"TEXT_FESANX102_05298_ROSTNZEH_000_070","Countless souls went missin' when it struck, an' the Maelstrom mounted search and rescue operations. I joined in the effort, but I'm afraid they were never found..."
+115,"TEXT_FESANX102_05298_ROSTNZEH_100_070","To be deleted."
+116,"TEXT_FESANX102_05298_ROSTNZEH_000_071","Know, though, that yer folks didn't die in vain. By manning their lighthouse to the very end that day, they guided many vessels safely to shore and saved many lives."
+117,"TEXT_FESANX102_05298_RTCHA_000_072","I see... They really were noble souls, like Miss Dorathia said."
+118,"TEXT_FESANX102_05298_RTCHA_000_073","But if I could choose, I wish that they were still here..."
+119,"TEXT_FESANX102_05298_ROSTNZEH_000_074","This is just a thought, but how'd ye like to stay the night and hear more about yer folks?"
+120,"TEXT_FESANX102_05298_ROSTNZEH_000_075","It'd only be the mundane, everyday things, but what I know, I'd be glad to share with ye."
+121,"TEXT_FESANX102_05298_RTCHA_000_076","I'd like that! I'd like that very much!"
+122,"TEXT_FESANX102_05298_RTCHA_000_100","Good morning, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>!"
+123,"TEXT_FESANX102_05298_RTCHA_100_100","I got up early to look at the lighthouse. Where my father and mother used to be..."
+124,"TEXT_FESANX102_05298_RTCHA_000_101","For the longest time, I'd felt as though they'd abandoned me."
+125,"TEXT_FESANX102_05298_RTCHA_000_102","I wanted to see them one more time so I could ask them why they had to go. And to tell them that I miss them."
+126,"TEXT_FESANX102_05298_Q52_000_001","What will you say?"
+127,"TEXT_FESANX102_05298_A52_000_002","I understand how you feel."
+128,"TEXT_FESANX102_05298_A52_000_003","Are you disappointed there weren't any ghosts?"
+129,"TEXT_FESANX102_05298_RTCHA_000_103","In the end, there weren't any ghosts. Still, I'm glad I could learn about my parents."
+130,"TEXT_FESANX102_05298_RTCHA_000_104","Maybe a little. Still, I'm glad I could learn about my parents."
+131,"TEXT_FESANX102_05298_RTCHA_000_105","It made me realize that I want to become someone who helps others. Like them and like you."
+132,"TEXT_FESANX102_05298_RTCHA_000_106","So thank you! For bringing me here!"
+133,"TEXT_FESANX102_05298_AYOYO_000_107","Well, it ended up bein' a longer jaunt than expected, but I'm glad we did it."
+134,"TEXT_FESANX102_05298_RTCHA_000_108","Thank you so much for coming with me, both of you!"
+135,"TEXT_FESANX102_05298_AYOYO_000_109","Yer very welcome, dearie. Ye can always come to me if ye need anythin'. Just no more tryin' to sneak out, ye 'ear?"
+136,"TEXT_FESANX102_05298_RTCHA_000_110","Well, I better get back to the orphanage. Hopefully Miss Dorathia won't be too mad at me..."
+137,"TEXT_FESANX102_05298_AYOYO_000_111","Ye'll be wantin' to report to the minstrel, I expect? In which case, a comrade o' mine tells me 'e's at the Anchor Yard."
+138,"TEXT_FESANX102_05298_AYOYO_000_112","I'll see to it R'tcha gets 'ome safely. Be sure to catch the special fireworks afterwards, eh?"
+139,"TEXT_FESANX102_05298_RTCHA_000_113","Be seeing you, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>!"
+140,"TEXT_FESANX102_05298_WANDERINGMINSTREL_000_120","Ah, welcome back, my friend. Was young R'tcha able to find that which she sought?"
+141,"TEXT_FESANX102_05298_WANDERINGMINSTREL_000_121","So her true purpose was to see if the ghosts were her parents who were taken by the Calamity..."
+142,"TEXT_FESANX102_05298_WANDERINGMINSTREL_000_122","A tale is born when someone acts in the name of another. As there are so many tales out there, it is impossible for us to know every single one."
+143,"TEXT_FESANX102_05298_WANDERINGMINSTREL_000_123","Yet a tale may occasionally find its way to those who need it most. Such as that of the lighthouse keepers, whose courage and sacrifice have come to guide their child years after their passing."
+144,"TEXT_FESANX102_05298_WANDERINGMINSTREL_000_124","Thank you, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Not only for granting R'tcha's wish, but for providing me with inspiration as well."
+145,"TEXT_FESANX102_05298_WANDERINGMINSTREL_100_124","While we wait for the special fireworks to begin, might you tell me more of your excursion?"
+146,"TEXT_FESANX102_05298_WANDERINGMINSTREL_000_500","Yes, it comes to me... A verse for all who strive onwards, this day and every day..."
+147,"TEXT_FESANX102_05298_YOSHIDANAOKI_000_600","(-???-)Greetings, Warrior of Light."
+148,"TEXT_FESANX102_05298_YOSHIDANAOKI_000_602","(-???-)This is a world that exists outside your reality. Could it be a dream? A flight of fancy conjured by your weary mind? Perhaps...or perhaps not."
+149,"TEXT_FESANX102_05298_YOSHIDANAOKI_000_603","'Tis a pleasure to make your acquaintance. My name is Naoki Yoshida, and I have beckoned you here that I might express my gratitude."
+150,"TEXT_FESANX102_05298_YOSHIDANAOKI_000_604","'Tis a pleasure to meet you again. As I have in the past, I have beckoned you here that I might express my gratitude."
+151,"TEXT_FESANX102_05298_YOSHIDANAOKI_000_605","For long years, we have walked together with you on this grand adventure."
+152,"TEXT_FESANX102_05298_YOSHIDANAOKI_000_606","It is a never-ending journey, one that shall continue tomorrow as surely as it does today. The most natural of things."
+153,"TEXT_FESANX102_05298_YOSHIDANAOKI_000_607","Along the way, I have endeavored to keep my gaze firmly fixed upon the future."
+154,"TEXT_FESANX102_05298_YOSHIDANAOKI_000_608","Of late, however, I have been keenly reminded that we must occasionally look back upon the path we walked, that we might remember the lessons learned."
+155,"TEXT_FESANX102_05298_YOSHIDANAOKI_000_609","In the course of our adventures, it seems that I too have grown."
+156,"TEXT_FESANX102_05298_YOSHIDANAOKI_000_610","To learn from successes and failures both, and forge ahead with humility and sincerity..."
+157,"TEXT_FESANX102_05298_YOSHIDANAOKI_100_610","This is what I had resolved to do at journey's beginning, and I resolve to do so anew."
+158,"TEXT_FESANX102_05298_YOSHIDANAOKI_200_610","Nothing would please us more than to continue having you at our side on the road ahead."
+159,"TEXT_FESANX102_05298_YOSHIDANAOKI_300_610","And I pray that, upon this journey of life that we have the honor to share, the light of the Crystal shall ever shine!"
+160,"TEXT_FESANX102_05298_YOSHIDANAOKI_000_611","...Now, the time has come for this vision to end; time for your eyes to open from this waking dream."
+161,"TEXT_FESANX102_05298_YOSHIDANAOKI_000_612","This world shall yet endure. And as we continue to make our way, I pray that we shall have occasion to meet again."
+162,"TEXT_FESANX102_05298_YOSHIDANAOKI_000_613","Till that day, I wish you the happiest of journeys. Fare you well."
+163,"TEXT_FESANX102_05298_WANDERINGMINSTREL_000_701","Most happenings in our lives have no bearing on the fate of the world. More often than not, they go unobserved and unremarked."
+164,"TEXT_FESANX102_05298_WANDERINGMINSTREL_000_702","But you, my friend, gather up such forgotten tales and see them delivered. In so doing you bring joy, and as a token of my gratitude, I dedicate to you this song─a song of journeys fulfilling."
+165,"TEXT_FESANX102_05298_WANDERINGMINSTREL_000_703","In gleaming gold the sun does rise,<hex:02100103>The boundless sky it calls.♪<hex:02100103>In silver pale the path of men,<hex:02100103>A white and endless pall.♪"
+166,"TEXT_FESANX102_05298_WANDERINGMINSTREL_000_704","So far away the guiding light,<hex:02100103>That you do now espy.♪<hex:02100103>But flames of life their warmth impart,<hex:02100103>To comfort and inspire.♪<hex:02100103>Take heart, my friend, for here we stand,<hex:02100103>And so we shall remain.♪<hex:02100103>Your destination reach you shall,<hex:02100103>By memory's refrain.♪"
+167,"TEXT_FESANX102_05298_WANDERINGMINSTREL_000_706","I have no doubt that you, R'tcha, and Ayoyo shall give rise to a great many more tales."
+168,"TEXT_FESANX102_05298_WANDERINGMINSTREL_000_707","Your tales, in particular, may be more varied than those of others. There may be times when you face great hardships, and the weight is more than you can bear."
+169,"TEXT_FESANX102_05298_WANDERINGMINSTREL_000_708","In such a time, I bid you remember this: no matter how great your burdens, the tales that you have gathered shall ever be your strength─a beacon to light your way in the darkness."
+170,"TEXT_FESANX102_05298_SYSTEM_000_800","You have unlocked the toy chest. Open the toy chest found in any inn room to play mini-games."

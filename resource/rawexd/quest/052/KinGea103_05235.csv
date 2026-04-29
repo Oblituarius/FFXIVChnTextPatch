@@ -2,180 +2,180 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_KINGEA103_05235_SEQ_00,朱諾下層的阿爾夏爾正在關心普利修。
-1,TEXT_KINGEA103_05235_SEQ_01,冒險者決定離開朱諾下層。和前往了亞克特爾樹海瑪穆克的巴庫加加談談。
-2,TEXT_KINGEA103_05235_SEQ_02,和巴庫加加進行了交談。在圖萊尤拉氣球起降所的<hex:02280BFF05>EObj<hex:F51EBD0103>等待。
-3,TEXT_KINGEA103_05235_SEQ_03,普利修一行人抵達了圖萊尤拉。和普利修談談。
-4,TEXT_KINGEA103_05235_SEQ_04,冒險者決定帶領普利修和阿爾夏爾在圖萊尤拉觀光。帶著二人前往圖萊尤拉的緹姨家的塔可餅，和同行的普利修談談。<hex:02100103><hex:02100103>※同行狀態被解除時，再次與普利修或阿爾夏爾對話便可進入同行狀態。
-5,TEXT_KINGEA103_05235_SEQ_05,在緹姨家的塔可餅享用了美食。和普利修談談。
-6,TEXT_KINGEA103_05235_SEQ_06,和普利修進行了交談。巴庫加加打算再次前往朱諾下層，冒險者決定與他一同前往。
-7,TEXT_KINGEA103_05235_SEQ_07,
-8,TEXT_KINGEA103_05235_SEQ_08,
-9,TEXT_KINGEA103_05235_SEQ_09,
-10,TEXT_KINGEA103_05235_SEQ_10,
-11,TEXT_KINGEA103_05235_SEQ_11,
-12,TEXT_KINGEA103_05235_SEQ_12,
-13,TEXT_KINGEA103_05235_SEQ_13,
-14,TEXT_KINGEA103_05235_SEQ_14,
-15,TEXT_KINGEA103_05235_SEQ_15,
-16,TEXT_KINGEA103_05235_SEQ_16,
-17,TEXT_KINGEA103_05235_SEQ_17,
-18,TEXT_KINGEA103_05235_SEQ_18,
-19,TEXT_KINGEA103_05235_SEQ_19,
-20,TEXT_KINGEA103_05235_SEQ_20,
-21,TEXT_KINGEA103_05235_SEQ_21,
-22,TEXT_KINGEA103_05235_SEQ_22,
-23,TEXT_KINGEA103_05235_SEQ_23,
-24,TEXT_KINGEA103_05235_TODO_00,和瑪穆克的巴庫加加對話
-25,TEXT_KINGEA103_05235_TODO_01,在圖萊尤拉的<hex:02280BFF05>EObj<hex:F51EBD0103>等待
-26,TEXT_KINGEA103_05235_TODO_02,和普利修對話進入同行狀態
-27,TEXT_KINGEA103_05235_TODO_03,帶著兩位同行者前往緹姨家的塔可餅<hex:02100103>在指定地點和普利修對話
-28,TEXT_KINGEA103_05235_TODO_04,和普利修對話
-29,TEXT_KINGEA103_05235_TODO_05,
-30,TEXT_KINGEA103_05235_TODO_06,
-31,TEXT_KINGEA103_05235_TODO_07,
-32,TEXT_KINGEA103_05235_TODO_08,
-33,TEXT_KINGEA103_05235_TODO_09,
-34,TEXT_KINGEA103_05235_TODO_10,
-35,TEXT_KINGEA103_05235_TODO_11,
-36,TEXT_KINGEA103_05235_TODO_12,
-37,TEXT_KINGEA103_05235_TODO_13,
-38,TEXT_KINGEA103_05235_TODO_14,
-39,TEXT_KINGEA103_05235_TODO_15,
-40,TEXT_KINGEA103_05235_TODO_16,
-41,TEXT_KINGEA103_05235_TODO_17,
-42,TEXT_KINGEA103_05235_TODO_18,
-43,TEXT_KINGEA103_05235_TODO_19,
-44,TEXT_KINGEA103_05235_TODO_20,
-45,TEXT_KINGEA103_05235_TODO_21,
-46,TEXT_KINGEA103_05235_TODO_22,
-47,TEXT_KINGEA103_05235_TODO_23,
-48,TEXT_KINGEA103_05235_PRISHE_000_001,……
-49,TEXT_KINGEA103_05235_BAKOOLJAJA_000_005,(-巴庫加加勇戰之頭-)話說回來，薩瑞加那個混蛋……<hex:02100103>繼佐拉加之後，又成了前任聯王幻影的跟班。<hex:02100103>實在是丟人丟到家了。
-50,TEXT_KINGEA103_05235_ALXAAL_000_020,我現在根本回想不起自己的過去，<hex:02100103>即便想要反駁薩瑞加的那套說辭，也沒有任何證據。
-51,TEXT_KINGEA103_05235_ALXAAL_000_021,可普利修不同，<hex:02100103>她之前走過的路、經歷過的事情都被薩瑞加全盤否定……
-52,TEXT_KINGEA103_05235_BAKOOLJAJA_000_022,(-巴庫加加勇戰之頭-)現在不是該傷感的時候，至少我們得先換個地方。<hex:02100103>這裡可是薩瑞加創造出的空間，<hex:02100103>待久了誰知道會出什麼狀況。
-53,TEXT_KINGEA103_05235_BAKOOLJAJA_100_022,(-巴庫加加御魔之頭-)從那邊或許能夠出去……
-54,TEXT_KINGEA103_05235_BAKOOLJAJA_000_023,(-巴庫加加勇戰之頭-)這兩個人我負責帶出去，<hex:02100103>等回到亞克特爾樹海以後，我們就在瑪穆克會合吧。<hex:02100103>順便我也想跟母親說明一下情況。
-55,TEXT_KINGEA103_05235_PRISHE_000_024,……
-56,TEXT_KINGEA103_05235_ALXAAL_000_025,仔細一看，這裡的確不是瓦納·迪爾的瑪穆克。
-57,TEXT_KINGEA103_05235_MIILALJA_000_026,看到你和巴庫加加都沒事，我就放心了。<hex:02100103>話說這個女孩子是……？
-58,TEXT_KINGEA103_05235_BAKOOLJAJA_000_100,(-巴庫加加勇戰之頭-)你來了啊。<hex:02100103>你也跟我母親說明一下情況吧。
-59,TEXT_KINGEA103_05235_MIILALJA_000_101,阿爾夏爾不是外國的來客，而是來自其他的世界……<hex:02100103>怪不得說的事情都對不上呢。
-60,TEXT_KINGEA103_05235_ALXAAL_000_102,這些天給你們添麻煩了。<hex:02100103>非常感謝你們的照顧。
-61,TEXT_KINGEA103_05235_ALXAAL_000_103,雖說你來自另一個世界，<hex:02100103>但我們之間還是有共通之處的，<hex:02100103>瑪穆克和輝鱗族就是個好例子。
-62,TEXT_KINGEA103_05235_ALXAAL_000_104,或許這個世界與瓦納·迪爾有著什麼特殊的聯繫。
-63,TEXT_KINGEA103_05235_MIILALJA_000_105,沒想到其他的世界也有輝鱗族，真是令我驚訝。<hex:02100103>你那裡的輝鱗族是什麼樣子的呢？
-64,TEXT_KINGEA103_05235_ALXAAL_000_106,樣貌很相似，但通過和你們接觸，<hex:02100103>我認為你們和他們並不相同。
-65,TEXT_KINGEA103_05235_ALXAAL_000_107,在我們的世界中，過去人類也曾和輝鱗族共存過。
-66,TEXT_KINGEA103_05235_ALXAAL_100_107,可是伴隨著擁有絕對力量的僭主出世，<hex:02100103>他們開始向我們發動了侵略戰爭。
-67,TEXT_KINGEA103_05235_MIILALJA_000_108,某種意義上，這與我們又何其的相似。<hex:02100103>直到不久之前，我們還依靠著雙頭的力量凌駕於其他部族之上。
-68,TEXT_KINGEA103_05235_BAKOOLJAJA_100_111,(-巴庫加加御魔之頭-)但那已經是過去了，<hex:02100103>我們正在努力做出改變。
-69,TEXT_KINGEA103_05235_BAKOOLJAJA_110_111,(-巴庫加加勇戰之頭-)不過，如果讓薩瑞加那樣的傢伙坐上王位，<hex:02100103>那一切努力都將付之東流。<hex:02100103>我們必須阻止他的陰謀。
-70,TEXT_KINGEA103_05235_ALXAAL_000_112,他將會是你們變革之路上的阻礙……<hex:02100103>那我也不能置之不顧。
-71,TEXT_KINGEA103_05235_BAKOOLJAJA_000_113,(-巴庫加加勇戰之頭-)呵，看你的表情，是下定決心了啊。
-72,TEXT_KINGEA103_05235_ALXAAL_000_114,嗯，就算我沒有記憶，<hex:02100103>但靈魂會告訴我該去怎麼做。
-73,TEXT_KINGEA103_05235_ALXAAL_000_115,為了阻止薩瑞加的陰謀，<hex:02100103>我作為瓦納·迪爾的冒險者，也要與你們並肩作戰！
-74,TEXT_KINGEA103_05235_PRISHE_000_116,冒險者嗎……<hex:02100103>如果那傢伙也在這裡的話，或許也會和阿爾夏爾一樣，<hex:02100103>選擇為他人而戰吧……
-75,TEXT_KINGEA103_05235_PRISHE_000_117,好了！
-76,TEXT_KINGEA103_05235_PRISHE_000_118,想了也是白想，我是不是真的一點也不重要！<hex:02100103>比起這個，現在更應該思考自己該做什麼！
-77,TEXT_KINGEA103_05235_PRISHE_000_119,薩瑞加那個混蛋，<hex:02100103>竟敢肆意妄為地利用瓦納·迪爾同胞們的記憶，<hex:02100103>簡直不可饒恕！
-78,TEXT_KINGEA103_05235_PRISHE_000_120,所以我也要出一份力！
-79,TEXT_KINGEA103_05235_BAKOOLJAJA_000_121,(-巴庫加加勇戰之頭-)看你們聊得這麼起勁，該不會是把我給忘了吧？<hex:02100103>亞克特爾樹海這裡發生的異變可是歸我這個勇連隊隊員管！
-80,TEXT_KINGEA103_05235_BAKOOLJAJA_000_122,(-巴庫加加御魔之頭-)我們現在雖然無法掌握薩瑞加的行蹤，<hex:02100103>但那傢伙肯定會為了挑選迴響的殘滓，<hex:02100103>出現在<hex:022903EB0203>面前。
-81,TEXT_KINGEA103_05235_BAKOOLJAJA_000_123,(-巴庫加加御魔之頭-)屆時為了能順利展開行動，<hex:02100103>你們兩個最好還是熟悉一下這個世界。
-82,TEXT_KINGEA103_05235_BAKOOLJAJA_000_124,(-巴庫加加勇戰之頭-)我說老弟，要不帶他們到圖萊尤拉轉轉吧。<hex:02100103>正好也要為戰鬥做些準備。
-83,TEXT_KINGEA103_05235_BAKOOLJAJA_000_125,(-巴庫加加御魔之頭-)我和大哥為他們帶路，<hex:02100103>你去圖萊尤拉的氣球起降所等著我們就行。
-84,TEXT_KINGEA103_05235_PRISHE_000_200,呼，終於到了嗎。<hex:02100103>習慣了坐飛空艇，這種氣球飄飄蕩蕩的感覺很是新奇啊！
-85,TEXT_KINGEA103_05235_PRISHE_000_201,這裡就是圖萊尤拉嗎！
-86,TEXT_KINGEA103_05235_PRISHE_000_210,對了，我忘問了。<hex:02100103>之前聽你的語氣，好像認得我。<hex:02100103>難不成你想起什麼了？
-87,TEXT_KINGEA103_05235_ALXAAL_000_211,唔……
-88,TEXT_KINGEA103_05235_ALXAAL_000_212,我並沒有想起你的事。<hex:02100103>既然你不認識我，那我們應該沒有見過面。<hex:02100103>或許我只是聽別人提起過你。
-89,TEXT_KINGEA103_05235_PRISHE_000_213,是嗎？<hex:02100103>既然你這樣說，我也就不多問了。
-90,TEXT_KINGEA103_05235_BAKOOLJAJA_000_214,(-巴庫加加勇戰之頭-)那該從哪裡開始為你們介紹呢？
-91,TEXT_KINGEA103_05235_BAKOOLJAJA_000_215,(-巴庫加加御魔之頭-)等等，大哥！<hex:02100103>在那之前，可別忘了向勇連隊報告！<hex:02100103>要是遲了，不知道會被理王說些什麼呢！
-92,TEXT_KINGEA103_05235_BAKOOLJAJA_000_216,(-巴庫加加勇戰之頭-)嘖……我可受不了被柯納國王念叨。<hex:02100103>沒辦法，我們先去兵站吧。
-93,TEXT_KINGEA103_05235_BAKOOLJAJA_000_217,(-巴庫加加勇戰之頭-)對不住，你先陪他們去吃個飯，等著我們回來吧。
-94,TEXT_KINGEA103_05235_BAKOOLJAJA_000_218,(-巴庫加加勇戰之頭-)……說來之前把你的夾餅弄掉了。<hex:02100103>這次就由我來請客，當做是賠償。
-95,TEXT_KINGEA103_05235_BAKOOLJAJA_100_218,(-巴庫加加勇戰之頭-)我也沒想著能讓你原諒我以前做過的事，<hex:02100103>就算今後我做再多的好事，也無法掩蓋住自己的罪過。<hex:02100103>但是呢……路就在腳下，走下去便是了。
-96,TEXT_KINGEA103_05235_BAKOOLJAJA_000_219,(-巴庫加加勇戰之頭-)好了，你就帶他們去吃緹姨家的塔可餅吧，<hex:02100103>點單時報我的名字就行。<hex:02100103>過一會再見了。
-97,TEXT_KINGEA103_05235_ALXAAL_000_220,她不認識我……<hex:02100103>那我究竟是誰……
-98,TEXT_KINGEA103_05235_PRISHE_000_300,緹姨家的塔可餅？是賣夾餅的店對吧？
-99,TEXT_KINGEA103_05235_PRISHE_000_301,果然是啊！<hex:02100103>我在故鄉也經常吃夾餅，不知和這邊的味道一樣不。<hex:02100103>那就麻煩你帶路吧。
-100,TEXT_KINGEA103_05235_PRISHE_000_302,不過你要是願意帶我們到處看看也行。<hex:02100103>說不定阿爾夏爾會想起來什麼。
-101,TEXT_KINGEA103_05235_SYSTEM_000_303,接下來將和普利修等人同行。<hex:02100103>在執行任務時，需要同行者處於附近位置。
-102,TEXT_KINGEA103_05235_SYSTEM_000_304,在同行狀態下，切換區域或選擇「解除同行狀態」，<hex:02100103>都將會解除同行的狀態。
-103,TEXT_KINGEA103_05235_SYSTEM_000_305,同行狀態解除後，<hex:02100103>只要和回到了起點的同行者對話，就能再次進入同行狀態。
-104,TEXT_KINGEA103_05235_SYSTEM_000_307,同行者還沒過來。<hex:02100103>迎接並帶他們來到附近，一起前往目的地吧。
-105,TEXT_KINGEA103_05235_Q2_000_000,要做什麼？
-106,TEXT_KINGEA103_05235_A2_000_001,對話
-107,TEXT_KINGEA103_05235_A2_000_002,解除同行狀態
-108,TEXT_KINGEA103_05235_A2_000_003,<hex:024804F2022403>關於戈尼特魯珂寶灘<hex:0248020103>
-109,TEXT_KINGEA103_05235_A2_000_004,<hex:024804F2022403>關於海岸鳥群市場<hex:0248020103>
-110,TEXT_KINGEA103_05235_A2_000_005,<hex:024804F2022403>關於羊駝<hex:0248020103>
-111,TEXT_KINGEA103_05235_A2_000_006,取消
-112,TEXT_KINGEA103_05235_PRISHE_000_309,圖萊尤拉生活著各式各樣的人，有許多種族我在瓦納·迪爾都沒見過。<hex:02100103>不過光是看大家和平相處的光景，<hex:02100103>就能知道這裡是個不錯的國家。
-113,TEXT_KINGEA103_05235_ALXAAL_000_310,就算沒有記憶，但漫步在陌生的城市，心情依然會有些興奮。<hex:02100103>看來我真的是個冒險者。
-114,TEXT_KINGEA103_05235_Q4_000_000,確定要解除同行狀態嗎？
-115,TEXT_KINGEA103_05235_PRISHE_000_311,喂，你走了，那夾餅怎麼辦啊？！<hex:02100103>沒辦法，我們先回氣球那裡等你，<hex:02100103>拜託你可要快點回來，我太饞了！
-116,TEXT_KINGEA103_05235_ALXAAL_000_312,好吧，不過普利修看上去一副快要餓暈過去的樣子……<hex:02100103>等你辦完事就在氣球起降所附近會合吧。
-117,TEXT_KINGEA103_05235_PRISHE_000_313,你可終於回來了，<hex:02100103>我們快點去緹姨家的塔可餅吧！<hex:02100103>我已經快餓昏了！
-118,TEXT_KINGEA103_05235_ALXAAL_000_314,目的地是緹姨家的塔可餅吧。<hex:02100103>就有勞你帶路了。
-119,TEXT_KINGEA103_05235_PRISHE_000_315,我的故鄉周圍也是大海，<hex:02100103>天氣晴朗的日子，景色那可是很不錯的哦。
-120,TEXT_KINGEA103_05235_PRISHE_000_316,不過由於會遇見魔物或獸人，<hex:02100103>所以沒法像你們這裡一樣悠閒地漫步。<hex:02100103>說真的，這點很讓我羨慕。
-121,TEXT_KINGEA103_05235_ALXAAL_000_317,望著這個沙灘，讓我回想起來了一件往事。
-122,TEXT_KINGEA103_05235_ALXAAL_000_318,那時我為了向一位老人請教新的戰法，<hex:02100103>不得不替他收集了寄生蟲、蟹臍還有頭蓋骨。<hex:02100103>你既然也是冒險者，想必也有過類似的經歷吧？
-123,TEXT_KINGEA103_05235_PRISHE_000_319,圖萊尤拉的人們都會在這裡購物啊。<hex:02100103>這麼多人，看得我有點眼暈。
-124,TEXT_KINGEA103_05235_PRISHE_000_320,話說這裡的水果可真誘人……<hex:02100103>不行不行，一會有夾餅等著我呢。
-125,TEXT_KINGEA103_05235_ALXAAL_000_321,途中看到的哥布林族讓我想起來，<hex:02100103>在瓦納·迪爾，他們也是和人類生活在一起的。
-126,TEXT_KINGEA103_05235_ALXAAL_000_322,只不過城市外面也有凶暴的個體。<hex:02100103>在剛成為冒險者時，我曾被哥布林族追趕，<hex:02100103>拼了命才逃進了城裡。
-127,TEXT_KINGEA103_05235_PRISHE_000_330,我還從來沒有見過那種生物！<hex:02100103>不過看它背上裝著鞍，應該是可以用來騎的吧。
-128,TEXT_KINGEA103_05235_PRISHE_000_331,在我們瓦納·迪爾那邊都是騎一種名叫陸行鳥的巨大鳥類。<hex:02100103>如果這邊的世界也有陸行鳥，我還真想看看。
-129,TEXT_KINGEA103_05235_ALXAAL_000_332,那種白色的騎乘獸讓我回想起來，<hex:02100103>對於瓦納·迪爾的冒險者來說，<hex:02100103>陸行鳥是不可或缺的重要夥伴。
-130,TEXT_KINGEA103_05235_ALXAAL_000_333,冒險的旅途漫漫，<hex:02100103>我騎著陸行鳥去過世界各地。
-131,TEXT_KINGEA103_05235_PRISHE_000_323,這裡就是緹姨家的塔可餅嗎！<hex:02100103>烤肉的焦香直衝我的鼻腔，我的肚子已經咕咕叫了！<hex:02100103>快點下單吧！
-132,TEXT_KINGEA103_05235_PRISHE_000_324,你就是緹姨吧？<hex:02100103>是巴庫加加介紹我們來的，麻煩你給我們每人來一份！
-133,TEXT_KINGEA103_05235_TIISOLJA_000_325,好嘞，我這就給你們做世界上最美味的夾餅，<hex:02100103>你們先找個位子坐下等會！
-134,TEXT_KINGEA103_05235_PRISHE_000_400,這就是這個世界的夾餅嗎！<hex:02100103>真令人食指大動啊！
-135,TEXT_KINGEA103_05235_PRISHE_000_401,嗯——！
-136,TEXT_KINGEA103_05235_PRISHE_000_402,故鄉的夾餅通常夾的是海鮮，<hex:02100103>這邊撒滿香料的烤肉夾餅也讓人欲罷不能啊！
-137,TEXT_KINGEA103_05235_Q1_000_000,要說什麼？
-138,TEXT_KINGEA103_05235_A1_000_001,放開了吃吧
-139,TEXT_KINGEA103_05235_A1_000_002,巴庫加加結賬！隨便吃！
-140,TEXT_KINGEA103_05235_ALXAAL_000_405,那我們也開動吧。
-141,TEXT_KINGEA103_05235_PRISHE_000_406,哎呀，飽了飽了！<hex:02100103>謝謝你帶我們來吃好吃的。
-142,TEXT_KINGEA103_05235_PRISHE_000_407,這夾餅，讓我想起了故鄉塔布納基亞……
-143,TEXT_KINGEA103_05235_PRISHE_000_408,正好現在還有些時間，<hex:02100103>你想不想聽聽瓦納·迪爾的事情？
-144,TEXT_KINGEA103_05235_PRISHE_000_409,20年前，瓦納·迪爾爆發了一場人類與獸人的水晶大戰，<hex:02100103>曾為侯國的塔布納基亞也遭受了獸人軍的攻擊。
-145,TEXT_KINGEA103_05235_PRISHE_000_410,當時獸人用秘密兵器<hex:02100103>破壞了我們國家所在的半島與大陸的連接。
-146,TEXT_KINGEA103_05235_PRISHE_000_411,幸運的是有不少的人活了下來。<hex:02100103>包括我在內，倖存者們在塔布納基亞地下壕頑強地生活。
-147,TEXT_KINGEA103_05235_PRISHE_000_412,不好意思，聊著聊著就變成這麼沉重的話題了。
-148,TEXT_KINGEA103_05235_PRISHE_000_413,對了，你也是冒險者對吧？<hex:02100103>那能不能講講你的冒險經歷？
-149,TEXT_KINGEA103_05235_PRISHE_000_414,你不僅去過鏡像世界，<hex:02100103>還從絕望中拯救過這顆星球啊。
-150,TEXT_KINGEA103_05235_PRISHE_000_415,照你這麼說，你簡直就是一個活著的傳說啊！
-151,TEXT_KINGEA103_05235_ALXAAL_000_416,拯救世界的英雄嗎……
-152,TEXT_KINGEA103_05235_BAKOOLJAJA_000_417,(-巴庫加加勇戰之頭-)讓你們久等了。
-153,TEXT_KINGEA103_05235_BAKOOLJAJA_000_418,(-巴庫加加御魔之頭-)布涅瓦族的咒法創造出的古魯加加大人的幻影、<hex:02100103>亞克特爾樹海出現的通往異界的裂縫，<hex:02100103>還有罪魁禍首是銷聲匿跡的薩瑞加……
-154,TEXT_KINGEA103_05235_BAKOOLJAJA_000_419,(-巴庫加加御魔之頭-)我們已經將經歷的一連串事件<hex:02100103>向勇連隊做了彙報。
-155,TEXT_KINGEA103_05235_BAKOOLJAJA_000_420,(-巴庫加加御魔之頭-)裂縫的傳聞似乎已經在圖萊尤拉傳開，<hex:02100103>甚至已經有不法之徒和探險家<hex:02100103>爭先恐後地趕向裂縫尋寶了。
-156,TEXT_KINGEA103_05235_BAKOOLJAJA_000_421,(-巴庫加加勇戰之頭-)上次讓薩瑞加給跑了，<hex:02100103>也不知道他什麼時候會帶著他那個什麼迴響的殘滓一起冒出來。
-157,TEXT_KINGEA103_05235_BAKOOLJAJA_000_422,(-巴庫加加勇戰之頭-)我先回一趟朱諾，<hex:02100103>趕走那些來瞎湊熱鬧的傢伙們。
-158,TEXT_KINGEA103_05235_PRISHE_000_423,那我們也一起去吧！<hex:02100103>乖乖地在原地等著，可不是我的作風！
-159,TEXT_KINGEA103_05235_BAKOOLJAJA_000_450,(-巴庫加加勇戰之頭-)下回也得叫上烏克·拉瑪特和可露兒。
-160,TEXT_KINGEA103_05235_ALXAAL_000_451,我也吃過塔布納基亞風味的夾餅。<hex:02100103>印象中那是一種補充體力的美食。
-161,TEXT_KINGEA103_05235_PRISHE_000_500,不僅吃到了美味的夾餅，<hex:02100103>還對你有了進一步的了解，真是不虛此行啊！
-162,TEXT_KINGEA103_05235_ALXAAL_000_109,
-163,TEXT_KINGEA103_05235_ALXAAL_000_110,
-164,TEXT_KINGEA103_05235_ALXAAL_000_111,
-165,TEXT_KINGEA103_05235_BAKOOLJAJA_000_202,
-166,TEXT_KINGEA103_05235_PRISHE_000_203,
-167,TEXT_KINGEA103_05235_Q3_000_000,
-168,TEXT_KINGEA103_05235_A3_000_001,
-169,TEXT_KINGEA103_05235_A3_000_002,
-170,TEXT_KINGEA103_05235_PRISHE_000_205,
-171,TEXT_KINGEA103_05235_PRISHE_000_206,
-172,TEXT_KINGEA103_05235_PRISHE_000_207,
-173,TEXT_KINGEA103_05235_ALXAAL_000_208,
-174,TEXT_KINGEA103_05235_BAKOOLJAJA_000_209,
-175,TEXT_KINGEA103_05235_SYSTEM_000_306,
-176,TEXT_KINGEA103_05235_ALXAAL_000_404,
+0,"TEXT_KINGEA103_05235_SEQ_00","Alxaal regards Prishe with a pained look in his eyes."
+1,"TEXT_KINGEA103_05235_SEQ_01","The group is still shaken by Sareel Ja's revelations, but there is no time to be disheartened, nor to linger. Bakool Ja Ja suggests returning to Mamook to regroup and consider your next course of action."
+2,"TEXT_KINGEA103_05235_SEQ_02","Until Sareel Ja elects to reveal himself, there is naught to do but wait and prepare. Eyeing an opportunity for Prishe and Alxaal to learn more of your world, Bakool Ja Ja suggests they tend to their preparations in Tuliyollal. They will need to travel by dirigible, and so he asks that you go ahead and await them at the city's landing site."
+3,"TEXT_KINGEA103_05235_SEQ_03","No sooner do the three arrive than Bakool Ja Ja remembers he must first go and apprise the Landsguard of all that has happened. Thinking of how you might occupy the intervening time, food immediately springs to mind─more specifically, Aunt Tii's tacos. He offers you coin to cover the meal, then promptly takes his leave."
+4,"TEXT_KINGEA103_05235_SEQ_04","Together with Prishe and Alxaal, you set off for Aunt Tii's Tacos, the myriad sights along the way evoking memories of Vana'diel. It will not be long before you arrive at your destination, much to the delight of a famished Prishe.<hex:02100103><hex:02100103>※You must be accompanied by Prishe and Alxaal to complete this task. Speak with either of them again should you become separated."
+5,"TEXT_KINGEA103_05235_SEQ_05","You gorge yourselves on tacos, with time enough left over for Prishe to tell you of her home, Tavnazia, and for you to share a few stories of your own. Bakool Ja Ja arrives soon after, his thoughts fixed squarely on Jeuno and the threat it poses. Rumor has it that misguided adventurers are actively seeking out the city's portal, believing it to contain untold treasure. He intends to keep them out, and Prishe and Alxaal are eager to assist."
+6,"TEXT_KINGEA103_05235_SEQ_06","Prishe appears wholly satisfied with her meal and grateful for your company. But all good things must come to an end, for now you must set your sights on Jeuno."
+7,"TEXT_KINGEA103_05235_SEQ_07",""
+8,"TEXT_KINGEA103_05235_SEQ_08",""
+9,"TEXT_KINGEA103_05235_SEQ_09",""
+10,"TEXT_KINGEA103_05235_SEQ_10",""
+11,"TEXT_KINGEA103_05235_SEQ_11",""
+12,"TEXT_KINGEA103_05235_SEQ_12",""
+13,"TEXT_KINGEA103_05235_SEQ_13",""
+14,"TEXT_KINGEA103_05235_SEQ_14",""
+15,"TEXT_KINGEA103_05235_SEQ_15",""
+16,"TEXT_KINGEA103_05235_SEQ_16",""
+17,"TEXT_KINGEA103_05235_SEQ_17",""
+18,"TEXT_KINGEA103_05235_SEQ_18",""
+19,"TEXT_KINGEA103_05235_SEQ_19",""
+20,"TEXT_KINGEA103_05235_SEQ_20",""
+21,"TEXT_KINGEA103_05235_SEQ_21",""
+22,"TEXT_KINGEA103_05235_SEQ_22",""
+23,"TEXT_KINGEA103_05235_SEQ_23",""
+24,"TEXT_KINGEA103_05235_TODO_00","Speak with Bakool Ja Ja in Mamook."
+25,"TEXT_KINGEA103_05235_TODO_01","Wait at the designated location near the dirigible landing."
+26,"TEXT_KINGEA103_05235_TODO_02","Speak with Prishe and have her and Alxaal accompany you."
+27,"TEXT_KINGEA103_05235_TODO_03","Accompany Prishe and Alxaal to Aunt Tii's Tacos and then speak with Prishe."
+28,"TEXT_KINGEA103_05235_TODO_04","Speak with Prishe."
+29,"TEXT_KINGEA103_05235_TODO_05",""
+30,"TEXT_KINGEA103_05235_TODO_06",""
+31,"TEXT_KINGEA103_05235_TODO_07",""
+32,"TEXT_KINGEA103_05235_TODO_08",""
+33,"TEXT_KINGEA103_05235_TODO_09",""
+34,"TEXT_KINGEA103_05235_TODO_10",""
+35,"TEXT_KINGEA103_05235_TODO_11",""
+36,"TEXT_KINGEA103_05235_TODO_12",""
+37,"TEXT_KINGEA103_05235_TODO_13",""
+38,"TEXT_KINGEA103_05235_TODO_14",""
+39,"TEXT_KINGEA103_05235_TODO_15",""
+40,"TEXT_KINGEA103_05235_TODO_16",""
+41,"TEXT_KINGEA103_05235_TODO_17",""
+42,"TEXT_KINGEA103_05235_TODO_18",""
+43,"TEXT_KINGEA103_05235_TODO_19",""
+44,"TEXT_KINGEA103_05235_TODO_20",""
+45,"TEXT_KINGEA103_05235_TODO_21",""
+46,"TEXT_KINGEA103_05235_TODO_22",""
+47,"TEXT_KINGEA103_05235_TODO_23",""
+48,"TEXT_KINGEA103_05235_PRISHE_000_001","..."
+49,"TEXT_KINGEA103_05235_BAKOOLJAJA_000_005","(-Bakool Ja Ja the Mighty-)First he served that tyrant Zoraal Ja, and now he would dare usurp the throne for this pale imitation of the Dawnservant. Sniveling wretch."
+50,"TEXT_KINGEA103_05235_ALXAAL_000_020","Try as I might, I can recall nothing of my past to refute Sareel Ja's claims."
+51,"TEXT_KINGEA103_05235_ALXAAL_000_021","Prishe, on the other hand, seems to know everything of her past and who she is. Yet to be told the memories of your life are not your own... I can only imagine how she must feel."
+52,"TEXT_KINGEA103_05235_BAKOOLJAJA_000_022","(-Bakool Ja Ja the Mighty-)Now's not the time to be disheartened. At least, not here, anyway. I wouldn't trust anything made by Sareel Ja to be safe for long."
+53,"TEXT_KINGEA103_05235_BAKOOLJAJA_100_022","(-Bakool Ja Ja the Mystic-)Or to remain functional..."
+54,"TEXT_KINGEA103_05235_BAKOOLJAJA_000_023","(-Bakool Ja Ja the Mighty-)Let's return to Mamook, while we still can. My mother will want to know of what we've seen here."
+55,"TEXT_KINGEA103_05235_PRISHE_000_024","..."
+56,"TEXT_KINGEA103_05235_ALXAAL_000_025","Now that we're returned, I can see now this isn't the Mamook that I know."
+57,"TEXT_KINGEA103_05235_MIILALJA_000_026","I am glad to see you and Bakool Ja Ja returned safely. And you've brought a new guest."
+58,"TEXT_KINGEA103_05235_BAKOOLJAJA_000_100","(-Bakool Ja Ja the Mighty-)There you are. I thought you should be the one to explain what happened out there in Yak T'el."
+59,"TEXT_KINGEA103_05235_MIILALJA_000_101","Not simply from another territory, but another world entirely? That explains much of the initial confusion between us."
+60,"TEXT_KINGEA103_05235_ALXAAL_000_102","My apologies for any trouble I may have caused. And thank you for taking me in."
+61,"TEXT_KINGEA103_05235_ALXAAL_000_103","Different worlds, and yet we seem to have so much in common."
+62,"TEXT_KINGEA103_05235_ALXAAL_000_104","I cannot help but wonder what it is that links the two together."
+63,"TEXT_KINGEA103_05235_MIILALJA_000_105","What indeed... You mistook us for the Mamool Ja of your Vana'diel when we first met. May I ask what they are like?"
+64,"TEXT_KINGEA103_05235_ALXAAL_000_106","Nothing at all like you and yours, even if they do bear a striking resemblance."
+65,"TEXT_KINGEA103_05235_ALXAAL_000_107","There was a time when all the peoples of Vana'diel, the Mamool Ja included, knew peace."
+66,"TEXT_KINGEA103_05235_ALXAAL_100_107","But a tyrant possessed of a terrible power claimed rulership over the Mamool Ja, and turned them against us. Before we realized it, we were at war."
+67,"TEXT_KINGEA103_05235_MIILALJA_000_108","A tale similar to ours, in a way. The rare few of us born with two heads grow to be immensely powerful. That power was used to justify our preeminence over all others."
+68,"TEXT_KINGEA103_05235_BAKOOLJAJA_100_111","(-Bakool Ja Ja the Mystic-)But that is not who we are anymore. We can be better than our forebears. We <hex:021A020203>will<hex:021A020103> be better."
+69,"TEXT_KINGEA103_05235_BAKOOLJAJA_110_111","(-Bakool Ja Ja the Mighty-)All of our hard work will be for nothing if Sareel Ja succeeds in seizing the throne."
+70,"TEXT_KINGEA103_05235_ALXAAL_000_112","Well, you'll not want for aid in stopping him. I promise you that."
+71,"TEXT_KINGEA103_05235_BAKOOLJAJA_000_113","(-Bakool Ja Ja the Mighty-)Oho! Keen to lend a hand, are you?"
+72,"TEXT_KINGEA103_05235_ALXAAL_000_114","I don't need to know who I am to know the right thing to do."
+73,"TEXT_KINGEA103_05235_ALXAAL_000_115","My blade is yours. On my honor as an adventurer of Vana'diel, we will put an end to Sareel Ja's schemes!"
+74,"TEXT_KINGEA103_05235_PRISHE_000_116","If <hex:021A020203><hex:02080CE905FF04>she<hex:FF03>he<hex:03><hex:021A020103> were here, I'm sure <hex:02080CE905FF04>she<hex:FF03>he<hex:03>'d have done the same."
+75,"TEXT_KINGEA103_05235_PRISHE_000_117","Right, then!"
+76,"TEXT_KINGEA103_05235_PRISHE_000_118","We can worry about whether or not I'm real another day."
+77,"TEXT_KINGEA103_05235_PRISHE_000_119","I'm not going to stand around and let this Sareel Ja piss all over the memories of my home!"
+78,"TEXT_KINGEA103_05235_PRISHE_000_120","So you can count me in, too!"
+79,"TEXT_KINGEA103_05235_BAKOOLJAJA_000_121","(-Bakool Ja Ja the Mighty-)Don't think you can forget about <hex:021A020203>us<hex:021A020103>. This all started in Yak T'el, and we have a duty to keep our forest safe."
+80,"TEXT_KINGEA103_05235_BAKOOLJAJA_000_122","(-Bakool Ja Ja the Mystic-)Sareel Ja has left us without a trail to follow, but it's only a matter of time before he reveals himself to challenge <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> once more. "
+81,"TEXT_KINGEA103_05235_BAKOOLJAJA_000_123","(-Bakool Ja Ja the Mystic-)If you're to be ready, I think it prudent the two of you learn more of our world."
+82,"TEXT_KINGEA103_05235_BAKOOLJAJA_000_124","(-Bakool Ja Ja the Mighty-)An excellent idea, Brother. We should start with Tuliyollal, and see to our own preparations while we're there."
+83,"TEXT_KINGEA103_05235_BAKOOLJAJA_000_125","(-Bakool Ja Ja the Mystic-)If you would meet us at the dirigible landing, we will see Prishe and Alxaal to Tuliyollal."
+84,"TEXT_KINGEA103_05235_PRISHE_000_200","Those balloon-powered airships are really something. I didn't expect the flight to be so smooth!"
+85,"TEXT_KINGEA103_05235_PRISHE_000_201","So this is Tuliyollal."
+86,"TEXT_KINGEA103_05235_PRISHE_000_210","Before I forget, I couldn't help but notice how much you seem to know about me. Is there anything else you remember?"
+87,"TEXT_KINGEA103_05235_ALXAAL_000_211","Hmmm..."
+88,"TEXT_KINGEA103_05235_ALXAAL_000_212","I'm afraid I don't. And as you don't recognize me either, perhaps we weren't acquaintances after all. What I know of you was likely overheard in a tavern somewhere─patrons sharing stories of your famed exploits."
+89,"TEXT_KINGEA103_05235_PRISHE_000_213","I see... Well, I'll leave it at that, then."
+90,"TEXT_KINGEA103_05235_BAKOOLJAJA_000_214","(-Bakool Ja Ja the Mighty-)Now, where to begin?"
+91,"TEXT_KINGEA103_05235_BAKOOLJAJA_000_215","(-Bakool Ja Ja the Mystic-)Brother. Would it not be wise to first apprise the Landsguard of what's happened? Or would you prefer another stern lecture from the Vow of Reason?"
+92,"TEXT_KINGEA103_05235_BAKOOLJAJA_000_216","(-Bakool Ja Ja the Mighty-)Ugh, I'd sooner rip off our tail... Fine."
+93,"TEXT_KINGEA103_05235_BAKOOLJAJA_000_217","(-Bakool Ja Ja the Mighty-)Could you keep them occupied while we see to the Landsguard? Maybe take them to eat or something."
+94,"TEXT_KINGEA103_05235_BAKOOLJAJA_000_218","(-Bakool Ja Ja the Mighty-)Ah, I know. Take them to Aunt Tii's to sample her tacos. Here─for that first meal of yours we spoiled."
+95,"TEXT_KINGEA103_05235_BAKOOLJAJA_100_218","(-Bakool Ja Ja the Mighty-)And just so we're clear, we're not expecting to earn your forgiveness. No amount of good deeds will ever undo our past, but there's always time to build a better future."
+96,"TEXT_KINGEA103_05235_BAKOOLJAJA_000_219","(-Bakool Ja Ja the Mighty-)When you get there, tell her we sent you. She'll see that they're taken care of."
+97,"TEXT_KINGEA103_05235_ALXAAL_000_220","I hoped she might remember me, but she doesn't even seem to <hex:021A020203>know<hex:021A020103> me. Gods, who am I...?"
+98,"TEXT_KINGEA103_05235_PRISHE_000_300","Aunt Tii's Tacos, eh? Let me guess: they serve tacos?"
+99,"TEXT_KINGEA103_05235_PRISHE_000_301","Oh, I can hardly wait! I ate tacos all the time back home."
+100,"TEXT_KINGEA103_05235_PRISHE_000_302","Though I suppose it wouldn't hurt to take a more scenic route. Maybe something along the way will help jog Alxaal's memory."
+101,"TEXT_KINGEA103_05235_SYSTEM_000_303","Prishe and Alxaal are now accompanying you. Keep them at your side in order to proceed with quest objectives."
+102,"TEXT_KINGEA103_05235_SYSTEM_000_304","You can leave your quest companions behind by entering a different area, or by speaking with them and selecting the option to part ways."
+103,"TEXT_KINGEA103_05235_SYSTEM_000_305","If you wish to have your companions accompany you again, return and speak with them at the original location."
+104,"TEXT_KINGEA103_05235_SYSTEM_000_307","Your companions have yet to arrive. Be sure they are at your side before attempting to continue."
+105,"TEXT_KINGEA103_05235_Q2_000_000","What will you do?"
+106,"TEXT_KINGEA103_05235_A2_000_001","Talk."
+107,"TEXT_KINGEA103_05235_A2_000_002","Part ways."
+108,"TEXT_KINGEA103_05235_A2_000_003","<hex:024804F2022403>Discuss the Gornitruq Gleamsands.<hex:0248020103>"
+109,"TEXT_KINGEA103_05235_A2_000_004","<hex:024804F2022403>Discuss Bayside Bevy.<hex:0248020103>"
+110,"TEXT_KINGEA103_05235_A2_000_005","<hex:024804F2022403>Discuss alpacas.<hex:0248020103>"
+111,"TEXT_KINGEA103_05235_A2_000_006","Nothing."
+112,"TEXT_KINGEA103_05235_PRISHE_000_309","The diversity of the people here is unlike anything I've ever seen in Vana'diel. I can't tell you what a relief it is to know everyone here can get along."
+113,"TEXT_KINGEA103_05235_ALXAAL_000_310","Walking the streets of an unfamiliar city, it feels like I'm back on another adventure."
+114,"TEXT_KINGEA103_05235_Q4_000_000","Are you sure you wish to part ways with Prishe and Alxaal?"
+115,"TEXT_KINGEA103_05235_PRISHE_000_311","What? But our tacos! Oh, all right... We'll wait for you back near the airships, but you better hurry back─I'm starving!"
+116,"TEXT_KINGEA103_05235_ALXAAL_000_312","Prishe seems convinced she'll starve to death if we don't eat soon, but if you have other business, who are we to stop you? Go on, friend. We'll wait for you at the landing."
+117,"TEXT_KINGEA103_05235_PRISHE_000_313","My stomach demands sustenance, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Onward, to Aunt Tii's Tacos!"
+118,"TEXT_KINGEA103_05235_ALXAAL_000_314","So we're finally off to Aunt Tii's, eh? Lead the way."
+119,"TEXT_KINGEA103_05235_PRISHE_000_315","My home is surrounded by ocean too, you know. It has the most beautiful views on a clear day."
+120,"TEXT_KINGEA103_05235_PRISHE_000_316","Not without the occasional monster, though. It's nice being able to walk around like this without your guard up all the time."
+121,"TEXT_KINGEA103_05235_ALXAAL_000_317","I cannot say why, but I've remembered something looking out at the sand dunes."
+122,"TEXT_KINGEA103_05235_ALXAAL_000_318","There was a man out on the docks who claimed he could teach me new battle arts. But he would only agree on the condition that I retrieved for him a damselfly worm, an apron, and a magicked skull. I don't suppose you've met anyone on your travels who's made such queer requests?"
+123,"TEXT_KINGEA103_05235_PRISHE_000_319","So these are the markets of Tuliyollal. There are so many stands, I wouldn't know where to begin. It's enough to make my head spin."
+124,"TEXT_KINGEA103_05235_PRISHE_000_320","Some fruit would sure hit the spot right about now... No, Prishe. Remember─you're about to eat tacos."
+125,"TEXT_KINGEA103_05235_ALXAAL_000_321","I happened to spy a few goblins on the way to the market. I remember them living in the major cities of Vana'diel as well."
+126,"TEXT_KINGEA103_05235_ALXAAL_000_322","Of course, there was no shortage of the unscrupulous sort living in the wilds as well. They would gather in droves and give chase to adventurers, forcing anyone and everyone to retreat back to the safety of town."
+127,"TEXT_KINGEA103_05235_PRISHE_000_330","What in Altana's name is that!? Do people actually ride those things?"
+128,"TEXT_KINGEA103_05235_PRISHE_000_331","Chocobos are the only beasts I've ever seen used for riding in Vana'diel. If they have any, I'd sure like to see them."
+129,"TEXT_KINGEA103_05235_ALXAAL_000_332","Those creatures remind me of the chocobos in Vana'diel. To say we adventurers found them indispensable would be no exaggeration."
+130,"TEXT_KINGEA103_05235_ALXAAL_000_333","From shore to shore, they were our faithful companions wheresoever the roads might lead us."
+131,"TEXT_KINGEA103_05235_PRISHE_000_323","This is the place, right? I can smell the savory meats already!"
+132,"TEXT_KINGEA103_05235_PRISHE_000_324","And you must be Aunt Tii. Bakool Ja Ja recommended we sample your tacos, so...we'll have three of your finest, please!"
+133,"TEXT_KINGEA103_05235_TIISOLJA_000_325","Bakool Ja Ja sent you, did he? Take a seat, and I'll be right over with a tray of our world-famous fare!"
+134,"TEXT_KINGEA103_05235_PRISHE_000_400","Tacos at long last! Oh, how I've waited for this moment!"
+135,"TEXT_KINGEA103_05235_PRISHE_000_401","Mmmmmm!"
+136,"TEXT_KINGEA103_05235_PRISHE_000_402","I thought nothing could match the rich flavor of our tacos back home, but the spicy seasoning of this meat is something else!"
+137,"TEXT_KINGEA103_05235_Q1_000_000","What will you say?"
+138,"TEXT_KINGEA103_05235_A1_000_001","Eat as many as you'd like."
+139,"TEXT_KINGEA103_05235_A1_000_002","This meal's on Bakool Ja Ja, so don't hold back!"
+140,"TEXT_KINGEA103_05235_ALXAAL_000_405","Prishe has taken the lead, but we won't be outdone, surely?"
+141,"TEXT_KINGEA103_05235_PRISHE_000_406","Phew, I couldn't eat another bite. Thanks for treating us."
+142,"TEXT_KINGEA103_05235_PRISHE_000_407","It was almost like a taste of home. Tavnazia..."
+143,"TEXT_KINGEA103_05235_PRISHE_000_408","Seeing as we still have a little extra time to ourselves, care to hear more about Vana'diel?"
+144,"TEXT_KINGEA103_05235_PRISHE_000_409","Twenty years ago, the land was gripped by a terrible conflict─the Crystal War, they called it─and it wasn't long before my home, Tavnazia, was drawn into the struggle."
+145,"TEXT_KINGEA103_05235_PRISHE_000_410","During their assault on the peninsula, the beastmen launched a weapon so powerful, it sundered the land connecting us to the mainland."
+146,"TEXT_KINGEA103_05235_PRISHE_000_411","Those who survived fled to the Tavnazian Safehold. It wasn't much, but we were able to piece together a modest living down in those caves."
+147,"TEXT_KINGEA103_05235_PRISHE_000_412","Sorry. I'm spoiling the mood, aren't I?"
+148,"TEXT_KINGEA103_05235_PRISHE_000_413","You're an adventurer too, aren't you? Have any tales of daring you can share with us?"
+149,"TEXT_KINGEA103_05235_PRISHE_000_414","Traveling to other worlds, and saving this one from the very embodiment of despair."
+150,"TEXT_KINGEA103_05235_PRISHE_000_415","Wait, really!? You're not just an adventurer, you're a godsdamned living legend!"
+151,"TEXT_KINGEA103_05235_ALXAAL_000_416","A hero. And living legend..."
+152,"TEXT_KINGEA103_05235_BAKOOLJAJA_000_417","(-Bakool Ja Ja the Mighty-)Sorry for the wait."
+153,"TEXT_KINGEA103_05235_BAKOOLJAJA_000_418","(-Bakool Ja Ja the Mystic-)There was much to apprise the Landsguard of, as you well know."
+154,"TEXT_KINGEA103_05235_BAKOOLJAJA_000_419","(-Bakool Ja Ja the Mystic-)That Sareel Ja was behind the stolen relics and the sightings of Gulool Ja Ja was understandably difficult for them to hear."
+155,"TEXT_KINGEA103_05235_BAKOOLJAJA_000_420","(-Bakool Ja Ja the Mighty-)And yet there are others enticed by the rumors of a strange portal in the woods. I've heard some foolhardy treasure seekers have even gone off looking for it."
+156,"TEXT_KINGEA103_05235_BAKOOLJAJA_000_421","(-Bakool Ja Ja the Mighty-)A dangerous thought, knowing Sareel Ja could show up at any time with more of those echoes."
+157,"TEXT_KINGEA103_05235_BAKOOLJAJA_000_422","(-Bakool Ja Ja the Mighty-)Which is why I'm going back to Jeuno to make sure our people stay out of there."
+158,"TEXT_KINGEA103_05235_PRISHE_000_423","If you're going, then so are we! It beats sitting around waiting."
+159,"TEXT_KINGEA103_05235_BAKOOLJAJA_000_450","(-Bakool Ja Ja the Mighty-)Maybe we should bring Wuk Lamat and that other friend of yours. Krile, was it?"
+160,"TEXT_KINGEA103_05235_ALXAAL_000_451","I'm fairly sure I've had Tavnazian tacos before. They were famous for their heartiness and helped stave off fatigue, perfect for those who often found themselves on the defensive in battle."
+161,"TEXT_KINGEA103_05235_PRISHE_000_500","Gods, those tacos were bloody brilliant. There's nothing better than good food and good company to pass the time."
+162,"TEXT_KINGEA103_05235_ALXAAL_000_109",""
+163,"TEXT_KINGEA103_05235_ALXAAL_000_110",""
+164,"TEXT_KINGEA103_05235_ALXAAL_000_111",""
+165,"TEXT_KINGEA103_05235_BAKOOLJAJA_000_202",""
+166,"TEXT_KINGEA103_05235_PRISHE_000_203",""
+167,"TEXT_KINGEA103_05235_Q3_000_000",""
+168,"TEXT_KINGEA103_05235_A3_000_001",""
+169,"TEXT_KINGEA103_05235_A3_000_002",""
+170,"TEXT_KINGEA103_05235_PRISHE_000_205",""
+171,"TEXT_KINGEA103_05235_PRISHE_000_206",""
+172,"TEXT_KINGEA103_05235_PRISHE_000_207",""
+173,"TEXT_KINGEA103_05235_ALXAAL_000_208",""
+174,"TEXT_KINGEA103_05235_BAKOOLJAJA_000_209",""
+175,"TEXT_KINGEA103_05235_SYSTEM_000_306",""
+176,"TEXT_KINGEA103_05235_ALXAAL_000_404",""

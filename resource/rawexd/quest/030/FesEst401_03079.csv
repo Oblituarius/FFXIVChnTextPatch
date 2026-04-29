@@ -2,178 +2,178 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_FESEST401_03079_SEQ_00,※本任務是特定期間內的任務。<hex:02100103><hex:02100103>米·凱特露天劇場的諾諾塔有事想要拜託冒險者幫忙。
-1,TEXT_FESEST401_03079_SEQ_01,※本任務只有在季節活動開放期間才能接受和進行。<hex:02100103>　季節活動結束後無法進行，敬請注意。<hex:02100103>　詳情請參見官方網站。<hex:02100103><hex:02100103>和諾諾塔進行了交談。這次的活動吉莉·阿里亞珀沒有做不可思議的夢，所以原本預定要把裝飾彩蛋藏在街上，來讓大家去找。但是，準備好的裝飾彩蛋卻被偷走了。冒險者決定幫助她尋找消失的裝飾彩蛋。和格雷洛姆農場附近的另一位幫手「戴蛋殼帽的獵人」談談。
-2,TEXT_FESEST401_03079_SEQ_02,和戴蛋殼帽的獵人進行了交談。開始尋找裝飾彩蛋。在園藝工公會附近尋找偷彩蛋的竊賊所留下的痕跡。
-3,TEXT_FESEST401_03079_SEQ_03,發現了偷彩蛋的竊賊留下的痕跡。將<hex:022811FF0A>EventItem<hex:F61E8E1E0103>與<hex:022811FF0A>EventItem<hex:F61E8E1F0103>交給園藝工公會附近的戴蛋殼帽的獵人。
-4,TEXT_FESEST401_03079_SEQ_04,向戴蛋殼帽的獵人展示了偷彩蛋的竊賊留下的痕跡。根據痕跡，追蹤嫌疑犯魔石精。和格里達尼亞黃蛇門附近的戴蛋殼帽的獵人談談。
-5,TEXT_FESEST401_03079_SEQ_05,來到了黃蛇門，發現戴蛋殼帽的獵人抓住了疑似是彩蛋竊賊的魔石精。之後一位貓魅族幻術師慌忙趕到，並稱被抓到的魔石精里吉並不是偷彩蛋的竊賊。聽從幻術師的建議，與里吉合作，回收被盜的裝飾彩蛋。做好準備之後，為了挑戰「彩蛋獵手里吉」，和黃蛇門附近的貓魅族幻術師談談。
-6,TEXT_FESEST401_03079_SEQ_06,對里吉進行指示，順利回收了裝飾彩蛋。將<hex:022811FF0A>EventItem<hex:F61E8E200103>交給米·凱特露天劇場的諾諾塔。
-7,TEXT_FESEST401_03079_SEQ_07,將裝飾彩蛋交給了諾諾塔，本以為這次盜竊案是壞魔石精所為，但是，在和戴蛋殼帽的獵人整理事件的過程中，明白了事件的黑幕就是吉莉·阿里亞珀。吉莉為了遇到令人驚喜的邂逅，根據不可思議的夢的指示進行了行動。為了遇到更多邂逅，在享受彩蛋狩獵活動的同時，繼續給她幫忙吧。
-8,TEXT_FESEST401_03079_SEQ_08,
-9,TEXT_FESEST401_03079_SEQ_09,
-10,TEXT_FESEST401_03079_SEQ_10,
-11,TEXT_FESEST401_03079_SEQ_11,
-12,TEXT_FESEST401_03079_SEQ_12,
-13,TEXT_FESEST401_03079_SEQ_13,
-14,TEXT_FESEST401_03079_SEQ_14,
-15,TEXT_FESEST401_03079_SEQ_15,
-16,TEXT_FESEST401_03079_SEQ_16,
-17,TEXT_FESEST401_03079_SEQ_17,
-18,TEXT_FESEST401_03079_SEQ_18,
-19,TEXT_FESEST401_03079_SEQ_19,
-20,TEXT_FESEST401_03079_SEQ_20,
-21,TEXT_FESEST401_03079_SEQ_21,
-22,TEXT_FESEST401_03079_SEQ_22,
-23,TEXT_FESEST401_03079_SEQ_23,
-24,TEXT_FESEST401_03079_TODO_00,和戴蛋殼帽的獵人對話
-25,TEXT_FESEST401_03079_TODO_01,尋找偷彩蛋的竊賊留下的痕跡
-26,TEXT_FESEST401_03079_TODO_02,將<hex:022811FF0A>EventItem<hex:F61E8E1E0103>與<hex:022811FF0A>EventItem<hex:F61E8E1F0103>交給戴蛋殼帽的獵人
-27,TEXT_FESEST401_03079_TODO_03,和戴蛋殼帽的獵人對話
-28,TEXT_FESEST401_03079_TODO_04,與貓魅族幻術師對話 挑戰彩蛋獵手里吉
-29,TEXT_FESEST401_03079_TODO_05,將<hex:022811FF0A>EventItem<hex:F61E8E200103>交給諾諾塔
-30,TEXT_FESEST401_03079_TODO_06,
-31,TEXT_FESEST401_03079_TODO_07,
-32,TEXT_FESEST401_03079_TODO_08,
-33,TEXT_FESEST401_03079_TODO_09,
-34,TEXT_FESEST401_03079_TODO_10,
-35,TEXT_FESEST401_03079_TODO_11,
-36,TEXT_FESEST401_03079_TODO_12,
-37,TEXT_FESEST401_03079_TODO_13,
-38,TEXT_FESEST401_03079_TODO_14,
-39,TEXT_FESEST401_03079_TODO_15,
-40,TEXT_FESEST401_03079_TODO_16,
-41,TEXT_FESEST401_03079_TODO_17,
-42,TEXT_FESEST401_03079_TODO_18,
-43,TEXT_FESEST401_03079_TODO_19,
-44,TEXT_FESEST401_03079_TODO_20,
-45,TEXT_FESEST401_03079_TODO_21,
-46,TEXT_FESEST401_03079_TODO_22,
-47,TEXT_FESEST401_03079_TODO_23,
-48,TEXT_FESEST401_03079_NONOTTA_000_000,彩蛋～彩蛋～彩蛋蛋～<hex:02100103>……啊，那邊那位冒險者！<hex:02100103>請你務必給彩蛋狩獵活動幫忙！
-49,TEXT_FESEST401_03079_NONOTTA_000_001,一位名叫吉莉的女孩子，在靈災迫近之時，<hex:02100103>曾做過一個不可思議的夢。而所謂的彩蛋狩獵，<hex:02100103>正是以這個夢為契機開始舉辦的，以彩蛋為主題的活動！
-50,TEXT_FESEST401_03079_NONOTTA_000_002,附近的彩蛋收集師會對你說明詳細情況的！<hex:02100103>簡單來說，就是按照小吉莉夢中的指引來製作裝飾彩蛋，<hex:02100103>大家一起高興遊玩的活動。
-51,TEXT_FESEST401_03079_NONOTTA_000_003,彩蛋～彩蛋～彩蛋蛋～<hex:02100103>……啊，冒險者，好久不見了！<hex:02100103>諾諾塔正在找能給彩蛋狩獵活動幫忙的人。
-52,TEXT_FESEST401_03079_NONOTTA_000_004,如你所知，彩蛋狩獵就是按照小吉莉夢中的指引來製作裝飾彩蛋，<hex:02100103>大家一起高興遊玩的活動。
-53,TEXT_FESEST401_03079_NONOTTA_000_005,但是但是！<hex:02100103>小吉莉這次什麼也沒有夢到！<hex:02100103>還是第一次出現這種情況，真讓人傷腦筋……
-54,TEXT_FESEST401_03079_NONOTTA_000_006,只是，小吉莉本人卻還是不慌不忙，<hex:02100103>積極地提議說把裝飾彩蛋藏在街上，<hex:02100103>來讓大家去找。
-55,TEXT_FESEST401_03079_NONOTTA_000_007,這樣一來也確實能夠成為一次愉快的活動了，<hex:02100103>諾諾塔也打起精神做了準備……
-56,TEXT_FESEST401_03079_NONOTTA_000_008,可是一波未平一波又起！<hex:02100103>拚命做好的裝飾彩蛋，<hex:02100103>竟然被偷了！
-57,TEXT_FESEST401_03079_NONOTTA_000_009,冒險者！<hex:02100103>請你幫幫我們，<hex:02100103>尋找消失的裝飾彩蛋！！
-58,TEXT_FESEST401_03079_Q1_000_000,如何作答？
-59,TEXT_FESEST401_03079_A1_000_001,交給我吧！
-60,TEXT_FESEST401_03079_A1_000_002,真沒辦法……
-61,TEXT_FESEST401_03079_NONOTTA_000_010,太感謝你了！！<hex:02100103>冒險者你能幫忙的話，就十拿九穩了！
-62,TEXT_FESEST401_03079_NONOTTA_000_011,不好意思……麻煩你了！<hex:02100103>冒險者你能幫忙的話，就十拿九穩了！
-63,TEXT_FESEST401_03079_NONOTTA_000_012,對了，幫我們尋找消失的裝飾彩蛋的人，<hex:02100103>其實還有一位。
-64,TEXT_FESEST401_03079_NONOTTA_000_013,那位戴蛋殼帽的獵人，<hex:02100103>現在應該就在格雷洛姆農場附近，<hex:02100103>請你和她合作，一起尋找消失的彩蛋吧！
-65,TEXT_FESEST401_03079_LEIHALIAPOH_000_020,哦，你也是被諾諾塔拜託來的吧？<hex:02100103>那麼就請你多多關照了。
-66,TEXT_FESEST401_03079_LEIHALIAPOH_000_021,你是叫……<hex:022903EB0203>是吧。<hex:02100103>我的名字就請你不要問了。
-67,TEXT_FESEST401_03079_LEIHALIAPOH_000_022,雖說是接受了委託，就算是在節日當中，<hex:02100103>可被迫戴上這種帽子也太羞恥了吧……<hex:02100103>我可不想被同事知道。
-68,TEXT_FESEST401_03079_LEIHALIAPOH_000_023,就算今後再在哪裡碰到你，<hex:02100103>我也會裝作不認識的！
-69,TEXT_FESEST401_03079_LEIHALIAPOH_000_024,……誒，這不是<hex:022903EB0203>嗎！<hex:02100103>你可別說不記得我了啊！<hex:02100103>我是你的師姐蕾伊·阿里亞珀啊。
-70,TEXT_FESEST401_03079_LEIHALIAPOH_000_025,……不，現在還是不記得我比較好吧。<hex:02100103>雖說是接受了委託，可就算是在節日當中，<hex:02100103>被迫戴上這種帽子也太羞恥了吧……
-71,TEXT_FESEST401_03079_LEIHALIAPOH_000_026,你聽好，這件事是我們兩個人之間的秘密，<hex:02100103>要是讓那個森林主義者知道了，一定會被他笑話死的，<hex:02100103>就算是在公會見到了，也絕對不能說啊！
-72,TEXT_FESEST401_03079_LEIHALIAPOH_000_027,……招呼就打到這，<hex:02100103>開始搜索吧。
-73,TEXT_FESEST401_03079_LEIHALIAPOH_000_028,裝飾彩蛋之前就被保管在這附近的小屋裡。<hex:02100103>也就是說，沿著這條路走的話，應該能找到什麼線索。
-74,TEXT_FESEST401_03079_LEIHALIAPOH_000_029,總之，如果你發現了什麼讓你覺得有些不對勁的東西，<hex:02100103>就拿來給我看……我來判斷是否與事件有關。<hex:02100103>那就開始行動吧！
-75,TEXT_FESEST401_03079_NONOTTA_000_035,戴蛋殼帽的獵人，<hex:02100103>現在就在格雷洛姆農場附近呢，<hex:02100103>請你和她合作，一起尋找消失的彩蛋吧！
-76,TEXT_FESEST401_03079_SYSTEM_000_042,壞掉的木箱上，沾著一束黑毛……<hex:02100103>是一束粗糙的、硬硬的毛。<hex:02100103>和偷彩蛋的竊賊有關係嗎？
-77,TEXT_FESEST401_03079_SYSTEM_000_048,找到了一塊閃閃發光的石片……<hex:02100103>和偷彩蛋的竊賊有關係嗎？
-78,TEXT_FESEST401_03079_SYSTEM_000_049,有什麼人曾經從這裡通過……<hex:02100103>但卻無法判斷出其真實身份。
-79,TEXT_FESEST401_03079_NONOTTA_000_045,你和獵人對彩蛋的搜尋還順利嗎？
-80,TEXT_FESEST401_03079_LEIHALIAPOH_100_045,還好這附近很少有人通過。<hex:02100103>仔細看看，這裡有一些令人在意的足跡。
-81,TEXT_FESEST401_03079_EGGHUNTINGSTAFFA03079_000_040,（★未使用／削除予定★）
-82,TEXT_FESEST401_03079_EGGHUNTINGSTAFFA03079_000_041,（★未使用／削除予定★）
-83,TEXT_FESEST401_03079_EGGHUNTINGSTAFFB03079_000_043,（★未使用／削除予定★）
-84,TEXT_FESEST401_03079_EGGHUNTINGSTAFFA03079_000_046,（★未使用／削除予定★）
-85,TEXT_FESEST401_03079_EGGHUNTINGSTAFFB03079_000_047,（★未使用／削除予定★）
-86,TEXT_FESEST401_03079_LEIHALIAPOH_000_050,<hex:022903EB0203>，你找到線索了嗎？<hex:02100103>給我也看看吧。
-87,TEXT_FESEST401_03079_LEIHALIAPOH_000_051,首先是，這塊石片……<hex:02100103>這好像不是一般的石頭。而是秘銀礦的碎片。<hex:02100103>秘銀礦無法在黑衣森林中自然開採到，這一點讓我很在意……
-88,TEXT_FESEST401_03079_LEIHALIAPOH_000_052,然後是，這邊的黑色硬毛……<hex:02100103>它曾黏在保管彩蛋的箱子上的話，<hex:02100103>就有可能是犯人留下的……幸虧被你發現了！
-89,TEXT_FESEST401_03079_LEIHALIAPOH_000_053,好，那麼我也把發現的線索告訴你吧。<hex:02100103>我在地面上發現了許多足跡。
-90,TEXT_FESEST401_03079_LEIHALIAPOH_000_054,哎呀，你是想說你也看見了吧。<hex:02100103>但是，就算是外行人看起來只是被踩得亂七八糟的地面，<hex:02100103>從中也能得到許多有用的資訊。
-91,TEXT_FESEST401_03079_LEIHALIAPOH_000_055,我所發現的足跡共有三種。<hex:02100103>根據足跡的大小與間距來判斷，其中一種是來自貓魅族女性……<hex:02100103>腳步沒有任何猶豫，可以推測出是把彩蛋放到這裡來的吉莉留下的。
-92,TEXT_FESEST401_03079_LEIHALIAPOH_100_054,第二種是稍小的拉拉菲爾族的足跡。<hex:02100103>像是吃了一驚般地在周圍四處走動，<hex:02100103>應該是發現彩蛋不見了的諾諾塔留下的吧。
-93,TEXT_FESEST401_03079_LEIHALIAPOH_100_055,問題是，第三種更小的足跡……<hex:02100103>一眼看去像是野獸的足跡，卻又像是用雙足行走的樣子。<hex:02100103>這樣一來關於犯人你也差不多有數了吧？
-94,TEXT_FESEST401_03079_Q2_000_000,如何作答？
-95,TEXT_FESEST401_03079_A2_000_001,犯人是拉拉菲爾族！
-96,TEXT_FESEST401_03079_A2_000_002,犯人是貓魅族！
-97,TEXT_FESEST401_03079_A2_000_003,犯人是魔石精！
-98,TEXT_FESEST401_03079_LEIHALIAPOH_000_056,喂喂，開什麼玩笑。<hex:02100103>有那種硬毛小腳的拉拉菲爾族的話，<hex:02100103>可要比森林中的妖異還要嚇人了。
-99,TEXT_FESEST401_03079_LEIHALIAPOH_000_057,喂喂，怎麼會得出那種結論？<hex:02100103>難道說你在懷疑我？<hex:02100103>現在不是開玩笑的時候吧！
-100,TEXT_FESEST401_03079_LEIHALIAPOH_000_058,哎，不錯，你對痕跡的特徵掌握得很好嘛！<hex:02100103>我也這麼認為。
-101,TEXT_FESEST401_03079_LEIHALIAPOH_000_059,……如果和我想得一樣的話，犯人應該就是魔石精不會錯。<hex:02100103>雖然動機不明，但現場所留下的痕跡已經很明顯了。
-102,TEXT_FESEST401_03079_LEIHALIAPOH_000_060,說到這附近的魔石精巢穴的話，是在中央林區嗎……<hex:02100103>從足跡來判斷的話，很可能往黃蛇門那邊去了。<hex:02100103>那麼我們就追上去看看吧！
-103,TEXT_FESEST401_03079_LEIHALIAPOH_000_070,你來了啊，<hex:022903EB0203>！<hex:02100103>如你所見，我用弓箭擊倒了拿著彩蛋的魔石精，<hex:02100103>抓住了它！
-104,TEXT_FESEST401_03079_LEIHALIAPOH_000_071,當然，我並沒有幹掉它，<hex:02100103>還得找它問出被盜的裝飾彩蛋的下落呢。<hex:02100103>這樣就算大功告成了吧！
-105,TEXT_FESEST401_03079_JIHLIALIAPOH_000_072,(-？？？？-)那個孩子不是犯人！！
-106,TEXT_FESEST401_03079_JIHLIALIAPOH_000_073,小里吉，對不起……我這就給你治療……
-107,TEXT_FESEST401_03079_LEIHALIAPOH_000_074,這到底是怎麼回事？<hex:02100103>我們是在追偷彩蛋的犯人呢。<hex:02100103>你看起來是個幻術師，似乎知道些什麼，可以告訴我們嗎？
-108,TEXT_FESEST401_03079_JIHLIALIAPOH_000_075,看起來你們也在找消失的裝飾彩蛋呢。
-109,TEXT_FESEST401_03079_JIHLIALIAPOH_000_076,其實，我們看到了<hex:02100103>喜歡惡作劇的壞魔石精偷裝飾彩蛋的瞬間！
-110,TEXT_FESEST401_03079_LEIHALIAPOH_000_077,你說什麼？！<hex:02100103>我是聽說沒有目擊者來著……<hex:02100103>還有，這隻魔石精是怎麼回事？
-111,TEXT_FESEST401_03079_JIHLIALIAPOH_000_078,這孩子是小里吉。<hex:02100103>是個好魔石精，它追著偷彩蛋的竊賊們，<hex:02100103>從它們的巢穴中找回了一個彩蛋！
-112,TEXT_FESEST401_03079_RIGGY_100_078,里吉、好孩幾！<hex:02100103>拿回惹、一個、采旦！
-113,TEXT_FESEST401_03079_JIHLIALIAPOH_000_079,但是，通往巢穴的獸道非常狹窄，<hex:02100103>看起來人是無法通過的……<hex:02100103>而且好像還有許多魔物，讓它受驚了……
-114,TEXT_FESEST401_03079_LEIHALIAPOH_000_080,要是只有這個小不點能進入竊賊的巢穴，<hex:02100103>我們就只能在這裡給它加油嗎？<hex:02100103>喂，開什麼玩笑。
-115,TEXT_FESEST401_03079_JIHLIALIAPOH_000_081,……你說得對！<hex:02100103>我這裡有通訊珠，我們用它來告訴里吉對付魔物的方法，<hex:02100103>以此來支援它，讓它拿回好多彩蛋吧！
-116,TEXT_FESEST401_03079_RIGGY_100_081,里吉、要加由！<hex:02100103>裡們來、機援！
-117,TEXT_FESEST401_03079_LEIHALIAPOH_000_082,就算你這麼說……<hex:02100103>交給這個小不點，真的沒問題嗎？<hex:02100103><hex:022903EB0203>，你怎麼想？
-118,TEXT_FESEST401_03079_Q3_000_000,如何作答？
-119,TEXT_FESEST401_03079_A3_000_001,可以相信它
-120,TEXT_FESEST401_03079_A3_000_002,不能相信它
-121,TEXT_FESEST401_03079_JIHLIALIAPOH_000_083,<hex:022903EB0203>，謝謝你！<hex:02100103>那麼就快點試試看吧！
-122,TEXT_FESEST401_03079_JIHLIALIAPOH_000_084,不要這麼說嘛！<hex:02100103>小里吉肯定辦得到的，<hex:02100103>就試試看嘛！
-123,TEXT_FESEST401_03079_RIGGY_000_085,里吉、要加由！<hex:02100103>旯來、好多、采旦！
-124,TEXT_FESEST401_03079_RIGGY_000_075,（★未使用／削除予定★）
-125,TEXT_FESEST401_03079_SYSTEM_000_095,（★未使用／削除予定★）
-126,TEXT_FESEST401_03079_JIHLIALIAPOH_000_100,小里吉好像已經做好準備了。<hex:02100103>遺憾的是，我還沒有掌握對付魔物的方法……<hex:02100103>所以就由你代替我們，使用通訊珠來支援它吧！
-127,TEXT_FESEST401_03079_SYSTEM_000_101,開始攻略彩蛋獵手里吉。<hex:02100103>操作方法如下。<hex:02082EE4E95101FF26><hex:02100103>（未變更設定的情況下）<hex:FF01><hex:03>
-128,TEXT_FESEST401_03079_SYSTEM_000_102,<hex:0208F20112E4E95101FFB2>［A］鍵、向左拖動滑鼠：向左移動<hex:02100103>［D］鍵、向右拖動滑鼠：向右移動<hex:02100103>［<hex:020813E4E94F04FF06>space<hex:FF06>Space<hex:03>］鍵、滑鼠左鍵：跳躍、2段跳躍<hex:FF5A><hex:021E020403>：向左移動<hex:02100103><hex:021E020503>：向右移動<hex:02100103><hex:021E020A03>鍵、<hex:021E020903>鍵：跳躍、2段跳躍<hex:03>
-129,TEXT_FESEST401_03079_SYSTEM_000_103,回收15個以上的裝飾彩蛋，小遊戲則會成功。<hex:02100103>碰到障礙物，或是受到魔物的攻擊的話，彩蛋將會掉落，<hex:02100103>注意小心前進！
-130,TEXT_FESEST401_03079_JIHLIALIAPOH_000_105,裝飾彩蛋，回收的數量不太夠呢……<hex:02100103>但是下次一定會成功的！<hex:02100103>等你冷靜下來再來找我吧！
-131,TEXT_FESEST401_03079_JIHLIALIAPOH_000_106,順利回收了不少裝飾彩蛋呢！<hex:02100103>謝謝你還有小里吉！
-132,TEXT_FESEST401_03079_LEIHALIAPOH_100_106,幹得好，小不點！<hex:02100103>剛才還把你當成犯人，真是對不住了。<hex:02100103>我對你刮目相看了！
-133,TEXT_FESEST401_03079_RIGGY_100_107,咿嘰嘰！里吉、好開森！<hex:02100103>蟹蟹、蟹蟹！
-134,TEXT_FESEST401_03079_JIHLIALIAPOH_000_107,那麼，<hex:022811FF0A>EventItem<hex:F61E8E200103>就交給你了。<hex:02100103>請你拿去交給露天劇場的小諾，<hex:02100103>她一定會很高興的！
-135,TEXT_FESEST401_03079_LEIHALIAPOH_000_108,嗯？是說諾諾塔吧，我們有提到過她嗎？
-136,TEXT_FESEST401_03079_JIHLIALIAPOH_000_109,誒、啊，我是小諾的朋友！<hex:02100103>之前幫助她做過彩蛋狩獵的準備！
-137,TEXT_FESEST401_03079_JIHLIALIAPOH_000_110,那、那麼我和小里吉就去找找看<hex:02100103>有沒有落下的裝飾彩蛋！<hex:02100103>再見了！
-138,TEXT_FESEST401_03079_LEIHALIAPOH_000_111,那個幻術師可真是個怪人，雖然魔石精也很怪。<hex:02100103>不過裝飾彩蛋算是找回來了。<hex:02100103>我們回諾諾塔那裡去，把裝飾彩蛋交給她吧。
-139,TEXT_FESEST401_03079_LEIHALIAPOH_000_115,現在只能相信這個叫里吉的魔石精了吧。<hex:02100103>我才剛剛攻擊過它，我來支援的話有些尷尬，<hex:02100103><hex:022903EB0203>，拜託你了。
-140,TEXT_FESEST401_03079_RIGGY_000_116,里吉、坐過、大西頭！<hex:02100103>里吉、加由、西頭向、下來了！！
-141,TEXT_FESEST401_03079_RIGGY_000_117,里吉、還要、再加由！<hex:02100103>旯來、好多、采旦！
-142,TEXT_FESEST401_03079_NONOTTA_000_120,啊，冒險者！<hex:02100103>諾諾塔聽獵人說，裝飾彩蛋找到了！<hex:02100103>快給諾諾塔看看吧！
-143,TEXT_FESEST401_03079_NONOTTA_000_121,這確實是諾諾塔和其他人製作的裝飾彩蛋！<hex:02100103>真是太感謝了！
-144,TEXT_FESEST401_03079_NONOTTA_000_122,啊，小吉莉！<hex:02100103>裝飾彩蛋找到了哦！
-145,TEXT_FESEST401_03079_JIHLIALIAPOH_000_123,太好了！<hex:02100103>那麼，裝飾彩蛋是在哪找到的呢？
-146,TEXT_FESEST401_03079_NONOTTA_000_124,是這樣啊……那麼，<hex:02100103>犯人就是喜歡惡作劇的壞魔石精是吧？
-147,TEXT_FESEST401_03079_Q4_000_000,如何作答？
-148,TEXT_FESEST401_03079_A4_000_001,不，犯人是拉拉菲爾族！
-149,TEXT_FESEST401_03079_A4_000_002,不，犯人是貓魅族！
-150,TEXT_FESEST401_03079_A4_000_003,對，犯人是魔石精！
-151,TEXT_FESEST401_03079_LEIHALIAPOH_000_125,喂喂，別再開玩笑了！<hex:02100103>……不過，魔石精不是犯人這點我倒是同意。
-152,TEXT_FESEST401_03079_LEIHALIAPOH_000_126,……你也察覺到了啊，不錯嘛。
-153,TEXT_FESEST401_03079_LEIHALIAPOH_000_127,某種意義上你是對的。<hex:02100103>不過，魔石精只是共犯。
-154,TEXT_FESEST401_03079_LEIHALIAPOH_000_128,也就是說，魔石精不過是盜竊案的執行者，<hex:02100103>黑幕其實另有其人……
-155,TEXT_FESEST401_03079_LEIHALIAPOH_100_128,沒錯吧，吉莉·阿里亞珀？
-156,TEXT_FESEST401_03079_LEIHALIAPOH_000_129,你身為活動的主辦者，親自策劃了這起事件。<hex:02100103>而且，剛才給魔石精療傷的幻術師也是你吧？！
-157,TEXT_FESEST401_03079_JIHLIALIAPOH_000_130,……竟然看穿到這種程度，好厲害！
-158,TEXT_FESEST401_03079_JIHLIALIAPOH_000_131,沒錯，這件事全都是我的自導自演。<hex:02100103>但卻絕不是為了欺騙你們。
-159,TEXT_FESEST401_03079_JIHLIALIAPOH_000_132,其實，這次我也同樣做了不可思議的夢。<hex:02100103>夢裡說，自己把裝飾彩蛋藏起來的話，會帶來令人驚喜的邂逅。
-160,TEXT_FESEST401_03079_LEIHALIAPOH_100_132,也就是說，這次的事件，<hex:02100103>是為了要再現你夢中的內容嗎。<hex:02100103>難怪你會擔心里吉啊。
-161,TEXT_FESEST401_03079_JIHLIALIAPOH_000_134,抱歉瞞著你們。<hex:02100103>但是，也多虧如此，<hex:02100103><hex:022903EB0203>才會遇到小里吉，享受尋找彩蛋的過程吧？
-162,TEXT_FESEST401_03079_JIHLIALIAPOH_000_135,說到邂逅的話，還有一個……<hex:02100103>你們找回的裝飾彩蛋，裡面放著魔法人偶！<hex:02100103>我把它當做禮物送給你，請帶著它去散步吧。
-163,TEXT_FESEST401_03079_JIHLIALIAPOH_000_136,除此以外，還有一個邂逅。<hex:02100103>我邂逅了你……蕾伊·阿里亞珀。
-164,TEXT_FESEST401_03079_JIHLIALIAPOH_000_137,最近，我在家裡的倉庫中發現了一本古舊的日記。<hex:02100103>那是身為一位優秀治癒者的，<hex:02100103>我的母親彌莉的日記。
-165,TEXT_FESEST401_03079_JIHLIALIAPOH_000_138,日記中記載了作為一位獵人生活在森林中的母親的妹妹，<hex:02100103>……我的姨媽的事。
-166,TEXT_FESEST401_03079_LEIHALIAPOH_000_139,喂，難道說那是……
-167,TEXT_FESEST401_03079_JIHLIALIAPOH_000_140,我的姨媽生下了一個女孩子。<hex:02100103>女孩子的名字叫做「蕾伊」。<hex:02100103>是個雖然說話不好聽，但卻很擅長狩獵的女孩子。
-168,TEXT_FESEST401_03079_LEIHALIAPOH_000_141,……竟然有這種事。<hex:02100103>竟然會在這種地方遇到互不相識的表姐妹，<hex:02100103>只能說是令人驚喜的邂逅了吧。
-169,TEXT_FESEST401_03079_JIHLIALIAPOH_000_142,<hex:022903EB0203>，多謝你的幫助。<hex:02100103>我也沒有想到，<hex:02100103>竟然會有這種邂逅等待著我。
-170,TEXT_FESEST401_03079_JIHLIALIAPOH_000_143,方便的話，希望之後你能幫我隱藏裝飾彩蛋。<hex:02100103>一定會再次引發這樣的美好邂逅的。
-171,TEXT_FESEST401_03079_SYSTEM_000_144,為紀念彩蛋狩獵，<hex:02100103>小遊戲「彩蛋獵手里吉」開放了。
-172,TEXT_FESEST401_03079_SYSTEM_000_145,可在各國旅館客房內的「玩具箱」玩小遊戲。
-173,TEXT_FESEST401_03079_LEIHALIAPOH_000_145,我把裝飾彩蛋找到了的消息告訴諾諾塔了。<hex:02100103>你把裝飾彩蛋交給她吧。
-174,TEXT_FESEST401_03079_JIHLIALIAPOH_000_133,（★未使用／削除予定★）
+0,"TEXT_FESEST401_03079_SEQ_00","Nonotta needs your assistance in solving a Hatching–tide hiccup.<hex:02100103>※This quest is available for a limited time only."
+1,"TEXT_FESEST401_03079_SEQ_01","Nonotta recruits you to help her with a Hatching–tide conundrum. According to the distressed Lalafell, Jihli has been denied her customary prophetic dream this year and thus the Dreamers have settled for arranging an egg hunt around town. The festival eggs in question, however, appear to have been stolen. Join forces with the Hatching–tide hunter near the Greatloam Growery, and see what can be done to save the celebrations.<hex:02100103><hex:02100103>※Please note that you will not be able to complete this quest after the seasonal event has ended. For details, check the Lodestone."
+2,"TEXT_FESEST401_03079_SEQ_02","You meet with the Hatching–tide hunter, and launch an investigation into the missing eggs. Follow the festival cap-bedecked tracker's advice, and begin your search for clues in the vicinity of the Botanists' Guild."
+3,"TEXT_FESEST401_03079_SEQ_03","You have uncovered several traces of the egg thief. Rendezvous with the Hatching–tide hunter, and deliver the material clues you recovered from the scene."
+4,"TEXT_FESEST401_03079_SEQ_04","After reviewing the evidence at hand, the Hatching–tide hunter seems convinced that a spriggan is responsible for the missing festival eggs. Follow on the heels of your fellow investigator, and head in the direction the tracks appear to lead: the Yellow Serpent Gate."
+5,"TEXT_FESEST401_03079_SEQ_05","You arrive at the Yellow Serpent Gate to find that the tracker has already captured a suspicious, egg-carrying spriggan. Even as you discuss the need for further interrogation, however, a Miqo'te mender arrives and vehemently insists that <hex:021A020203>this<hex:021A020103> spriggan is innocent. Following a brief explanation of their own efforts to retrieve the stolen goods, the conjurer convinces you to guide “Riggy” on another foray into the true thief's lair. Speak with the Miqo'te mender again when you are ready to attempt her linkpearl strategy."
+6,"TEXT_FESEST401_03079_SEQ_06","Thanks to your expert guidance, Riggy's raid on the spriggan lair is a resounding success. Take your spoils, and deliver them to the waiting Nonotta at Mih Khetto's Amphitheatre."
+7,"TEXT_FESEST401_03079_SEQ_07","You make your egg delivery to Nonotta, and it seems at first that the case has been brought to a close. But while a spriggan was indeed responsible for spiriting away the eggs, the Hatching–tide hunter deduces that the true mastermind behind the events was none other than Jihli Aliapoh herself! Jihli happily confesses to the crime, and explains how her deceit was in fact inspired by one of her prophetic dreams. Recreating her vision this year is a door to unexpected encounters, and she would have your assistance in organizing the egg hunt which is to follow..."
+8,"TEXT_FESEST401_03079_SEQ_08",""
+9,"TEXT_FESEST401_03079_SEQ_09",""
+10,"TEXT_FESEST401_03079_SEQ_10",""
+11,"TEXT_FESEST401_03079_SEQ_11",""
+12,"TEXT_FESEST401_03079_SEQ_12",""
+13,"TEXT_FESEST401_03079_SEQ_13",""
+14,"TEXT_FESEST401_03079_SEQ_14",""
+15,"TEXT_FESEST401_03079_SEQ_15",""
+16,"TEXT_FESEST401_03079_SEQ_16",""
+17,"TEXT_FESEST401_03079_SEQ_17",""
+18,"TEXT_FESEST401_03079_SEQ_18",""
+19,"TEXT_FESEST401_03079_SEQ_19",""
+20,"TEXT_FESEST401_03079_SEQ_20",""
+21,"TEXT_FESEST401_03079_SEQ_21",""
+22,"TEXT_FESEST401_03079_SEQ_22",""
+23,"TEXT_FESEST401_03079_SEQ_23",""
+24,"TEXT_FESEST401_03079_TODO_00","Speak with the Hatching–tide hunter."
+25,"TEXT_FESEST401_03079_TODO_01","Search for traces of the egg thief."
+26,"TEXT_FESEST401_03079_TODO_02","Show the wiry black hair and shiny rock splinter to the Hatching–tide hunter."
+27,"TEXT_FESEST401_03079_TODO_03","Speak with the Hatching–tide hunter."
+28,"TEXT_FESEST401_03079_TODO_04","Speak with the Miqo'te mender and guide Riggy's efforts."
+29,"TEXT_FESEST401_03079_TODO_05","Deliver the armful of reclaimed eggs to Nonotta."
+30,"TEXT_FESEST401_03079_TODO_06",""
+31,"TEXT_FESEST401_03079_TODO_07",""
+32,"TEXT_FESEST401_03079_TODO_08",""
+33,"TEXT_FESEST401_03079_TODO_09",""
+34,"TEXT_FESEST401_03079_TODO_10",""
+35,"TEXT_FESEST401_03079_TODO_11",""
+36,"TEXT_FESEST401_03079_TODO_12",""
+37,"TEXT_FESEST401_03079_TODO_13",""
+38,"TEXT_FESEST401_03079_TODO_14",""
+39,"TEXT_FESEST401_03079_TODO_15",""
+40,"TEXT_FESEST401_03079_TODO_16",""
+41,"TEXT_FESEST401_03079_TODO_17",""
+42,"TEXT_FESEST401_03079_TODO_18",""
+43,"TEXT_FESEST401_03079_TODO_19",""
+44,"TEXT_FESEST401_03079_TODO_20",""
+45,"TEXT_FESEST401_03079_TODO_21",""
+46,"TEXT_FESEST401_03079_TODO_22",""
+47,"TEXT_FESEST401_03079_TODO_23",""
+48,"TEXT_FESEST401_03079_NONOTTA_000_000","Greetings, friend! You're just in time to lend us a hand with the Hatching–tide festivities!"
+49,"TEXT_FESEST401_03079_NONOTTA_000_001","Do you know much about our egg-centric festival? It all began with our founder─Jihli Aliapoh─and her prophetic dreams."
+50,"TEXT_FESEST401_03079_NONOTTA_000_002","We've found that recreating Jihli's yearly visions leads to the most delightful of celebrations. Decorating eggs is part of it, of course, but there is so much more─one of our egg collectors will be happy to give you the whole story."
+51,"TEXT_FESEST401_03079_NONOTTA_000_003","Oh, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, how wonderful to see you! Just in time to lend us a hand with the Hatching–tide festivities..."
+52,"TEXT_FESEST401_03079_NONOTTA_000_004","You <hex:021A020203>do<hex:021A020103> remember how it all works, don't you? Jihli's prophetic dreams? The egg decorating? The joyous laughter of child and adult alike?"
+53,"TEXT_FESEST401_03079_NONOTTA_000_005","Everything has been going to plan. ...Everything, that is, aside from one tiny, unexpected detail: the Dreamer has not had her dream this year!"
+54,"TEXT_FESEST401_03079_NONOTTA_000_006","Jihli herself seems unperturbed, and suggested we go ahead with hiding eggs around town for people to find."
+55,"TEXT_FESEST401_03079_NONOTTA_000_007","And an egg hunt is, of course, a perfectly enjoyable event all by itself. Thus did we straighten our egg caps, and turn our efforts to the preparations..."
+56,"TEXT_FESEST401_03079_NONOTTA_000_008","But now disaster has struck yet again! The eggs we so painstakingly crafted have been viciously and maliciously <hex:021A020203>stolen<hex:021A020103>!"
+57,"TEXT_FESEST401_03079_NONOTTA_000_009","Please, adventurer! You must help us retrieve our Hatching–tide treasures!"
+58,"TEXT_FESEST401_03079_Q1_000_000","What will you say?"
+59,"TEXT_FESEST401_03079_A1_000_001","Leave it to me!"
+60,"TEXT_FESEST401_03079_A1_000_002","If I must..."
+61,"TEXT_FESEST401_03079_NONOTTA_000_010","Oh, thank you! Having a hero like you on the job could make all the difference!"
+62,"TEXT_FESEST401_03079_NONOTTA_000_011","Your cooperation is much appreciated. Having a hero like you on the job could make all the difference!"
+63,"TEXT_FESEST401_03079_NONOTTA_000_012","And you won't be working alone─I've also secured the services of a talented tracker."
+64,"TEXT_FESEST401_03079_NONOTTA_000_013","If you head off right now, you should find her investigating the scene near the Greatloam Growery. She'll be the one shouldering a bow and wearing a decidedly fetching egg cap!"
+65,"TEXT_FESEST401_03079_LEIHALIAPOH_000_020","Nonotta sent you to help, did she? Good, I could use a second set of eyes."
+66,"TEXT_FESEST401_03079_LEIHALIAPOH_000_021","...<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, is it? You'll forgive me if I don't offer a name."
+67,"TEXT_FESEST401_03079_LEIHALIAPOH_000_022","When I accepted the job, Nonotta insisted I wear this ridiculous hat to be “in the spirit of things”...and I'd rather not have my colleagues hear about it. Ever."
+68,"TEXT_FESEST401_03079_LEIHALIAPOH_000_023","So if we happen to cross paths again in the future, you don't know me and I don't know you. Are we clear?"
+69,"TEXT_FESEST401_03079_LEIHALIAPOH_000_024","...Oh, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, it's you! And surely you remember me! Leih Aliapoh?"
+70,"TEXT_FESEST401_03079_LEIHALIAPOH_000_025","Ah, but maybe it would've been better had you forgotten. When I accepted the job, Nonotta insisted I wear this ridiculous hat. To be “in the spirit of things,” she said..."
+71,"TEXT_FESEST401_03079_LEIHALIAPOH_000_026","Let's keep this festive garb between the two of us, all right? If that thrice-damned Wildwood finds out, I'll never hear the end of it. And that means no talking about it back at the guild, either!"
+72,"TEXT_FESEST401_03079_LEIHALIAPOH_000_027","Right. Now that that's settled, we can focus on the task at hand."
+73,"TEXT_FESEST401_03079_LEIHALIAPOH_000_028","The eggs were apparently stored in a nearby hut. If we start from there and make our way down the path, we should find traces of the culprit."
+74,"TEXT_FESEST401_03079_LEIHALIAPOH_000_029","Should you come across <hex:021A020203>anything<hex:021A020103> out of the ordinary, bring it to me and I'll see if it has any relation to the crime. Let's catch ourselves an egg thief!"
+75,"TEXT_FESEST401_03079_NONOTTA_000_035","Did you try visiting the Greatloam Growery? Our tracker should still be there, suitably adorned in a festive egg cap!"
+76,"TEXT_FESEST401_03079_SYSTEM_000_042","You find a tuft of black hair caught on the edge of a broken plank. The strands are unusually thick and wiry. Might it have belonged to the egg thief...?"
+77,"TEXT_FESEST401_03079_SYSTEM_000_048","You spy a splinter of some shiny type of rock. Might this have something to do with the egg thief...?"
+78,"TEXT_FESEST401_03079_SYSTEM_000_049","You see evidence of someone passing through this area...but cannot tell who made the tracks."
+79,"TEXT_FESEST401_03079_NONOTTA_000_045","How fares your investigation? Any sign of our egg thief?"
+80,"TEXT_FESEST401_03079_LEIHALIAPOH_100_045","We're fortunate this path has seen little passage. I can make out several distinct tracks..."
+81,"TEXT_FESEST401_03079_EGGHUNTINGSTAFFA03079_000_040",""
+82,"TEXT_FESEST401_03079_EGGHUNTINGSTAFFA03079_000_041",""
+83,"TEXT_FESEST401_03079_EGGHUNTINGSTAFFB03079_000_043",""
+84,"TEXT_FESEST401_03079_EGGHUNTINGSTAFFA03079_000_046",""
+85,"TEXT_FESEST401_03079_EGGHUNTINGSTAFFB03079_000_047",""
+86,"TEXT_FESEST401_03079_LEIHALIAPOH_000_050","Found some promising clues, have you? Let me have a closer look."
+87,"TEXT_FESEST401_03079_LEIHALIAPOH_000_051","We'll start with the shiny stone...<hex:02100103>Hm, this seems to be a flake of mythril ore. Odd, since to the best of my knowledge, mythril deposits aren't naturally occurring in the Twelveswood."
+88,"TEXT_FESEST401_03079_LEIHALIAPOH_000_052","Then we have this black tuft of...hair? Fur? It's awfully coarse. Considering where you found it, it may very well belong to the thief. Nice work!"
+89,"TEXT_FESEST401_03079_LEIHALIAPOH_000_053","Now it's my turn to share. If you look carefully, you'll notice the tracks on the ground here."
+90,"TEXT_FESEST401_03079_LEIHALIAPOH_000_054","Oho, marked those for yourself already, did you? But what do they tell you? Aside from “someone passed this way,” of course."
+91,"TEXT_FESEST401_03079_LEIHALIAPOH_000_055","I can make out three distinct sets. From the size and gait, the first one was likely a female Miqo'te. The steps are deep and deliberate, thus I suspect they were made by Jihli when she came to place the eggs."
+92,"TEXT_FESEST401_03079_LEIHALIAPOH_100_054","As for the second set, they belong to a smaller-than-average Lalafell. Judging by the wide and random path of the steps, I believe they were made by a panicked Nonotta when she discovered the eggs had gone missing."
+93,"TEXT_FESEST401_03079_LEIHALIAPOH_100_055","The true mystery here lies with the third, and smallest, set of tracks. At first glance I considered a beastkin, but the creature obviously walks on two legs. Putting together the evidence thus far, would you hazard a guess as to who─or what─is our culprit?"
+94,"TEXT_FESEST401_03079_Q2_000_000","Who─or what─is the culprit?"
+95,"TEXT_FESEST401_03079_A2_000_001","It's a Lalafell!"
+96,"TEXT_FESEST401_03079_A2_000_002","It's a Miqo'te!"
+97,"TEXT_FESEST401_03079_A2_000_003","It's a spriggan!"
+98,"TEXT_FESEST401_03079_LEIHALIAPOH_000_056","Must you jest? Any Lalafell with feet that small and hair that wiry would be a terrifying sight to behold!"
+99,"TEXT_FESEST401_03079_LEIHALIAPOH_000_057","Are you making light of the situation? Or are you simply not listening? Either way, can we be serious for a moment here?"
+100,"TEXT_FESEST401_03079_LEIHALIAPOH_000_058","Ah, very good. I see the evidence at hand has led us to the same conclusion."
+101,"TEXT_FESEST401_03079_LEIHALIAPOH_000_059","...Our egg thief is almost certainly a spriggan. And whilst the motive is yet unclear, we at least have a suspect to chase."
+102,"TEXT_FESEST401_03079_LEIHALIAPOH_000_060","The spriggans of the Twelveswood lair in the Central Shroud...<hex:02100103>Based on these tracks, the egg thief was very likely headed towards the Yellow Serpent Gate. Let's follow the spoor, shall we?"
+103,"TEXT_FESEST401_03079_LEIHALIAPOH_000_070","You were a moment too late, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. I spotted a spriggan cradling an egg and took him down with my bow!"
+104,"TEXT_FESEST401_03079_LEIHALIAPOH_000_071","I didn't aim for anything vital, of course─we need him alive if we're to find out where he hid the rest of the eggs."
+105,"TEXT_FESEST401_03079_JIHLIALIAPOH_000_072","(-???-)You have the wrong spriggan!"
+106,"TEXT_FESEST401_03079_JIHLIALIAPOH_000_073","Oh, Riggy, my poor friend. Lie still, and I'll have you mended in a moment..."
+107,"TEXT_FESEST401_03079_LEIHALIAPOH_000_074","Your “poor friend”? Would you kindly explain what in the Matron's name is going on here?"
+108,"TEXT_FESEST401_03079_JIHLIALIAPOH_000_075","From your actions, I assume the two of you are on the trail of the missing eggs?"
+109,"TEXT_FESEST401_03079_JIHLIALIAPOH_000_076","As fortune would have it, Riggy and I witnessed the crime itself! We watched, aghast, even as an egg-laden spriggan joined others of his kin and made off with his Hatching–tide spoils!"
+110,"TEXT_FESEST401_03079_LEIHALIAPOH_000_077","You were there!? But I was told there were no witnesses. And what's the story behind <hex:021A020203>this<hex:021A020103> spriggan, then?"
+111,"TEXT_FESEST401_03079_JIHLIALIAPOH_000_078","Oh, Riggy here? This honorable and forthright soul pursued his brethren into their very lair, and escaped with one of the stolen treasures!"
+112,"TEXT_FESEST401_03079_RIGGY_100_078","Riggy is good spriggy! Bring back eggy!"
+113,"TEXT_FESEST401_03079_JIHLIALIAPOH_000_079","Unfortunately, however, the trail leading into the spriggan nest is too narrow for folk of ordinary size. And that's not even considering the woodland monsters which lurk along the way. Apparently they gave Riggy quite a scare..."
+114,"TEXT_FESEST401_03079_LEIHALIAPOH_000_080","What, so our only recourse is to encourage “Riggy” to make another foray on our behalf? We'd best say our farewells to those eggs..."
+115,"TEXT_FESEST401_03079_JIHLIALIAPOH_000_081","...I have an idea! What if we furnish Riggy with a linkpearl? Then we can lend him support during his expedition─give advice on how to deal with monsters, cheer him on, that sort of thing!"
+116,"TEXT_FESEST401_03079_RIGGY_100_081","Riggy try again! Listen to shiny speakyyy!"
+117,"TEXT_FESEST401_03079_LEIHALIAPOH_000_082","...Forgive me if I'm not filled with confidence. What say you, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>?"
+118,"TEXT_FESEST401_03079_Q3_000_000","What will you say?"
+119,"TEXT_FESEST401_03079_A3_000_001","Let's give him a chance!"
+120,"TEXT_FESEST401_03079_A3_000_002","I don't know..."
+121,"TEXT_FESEST401_03079_JIHLIALIAPOH_000_083","Thank you, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! I know he can do this!"
+122,"TEXT_FESEST401_03079_JIHLIALIAPOH_000_084","Please, just give him a chance! I promise you, Riggy will give this his all!"
+123,"TEXT_FESEST401_03079_RIGGY_000_085","Riggy is readyyy! Jumpy, springy, and grab many eggyyy!"
+124,"TEXT_FESEST401_03079_RIGGY_000_075",""
+125,"TEXT_FESEST401_03079_SYSTEM_000_095",""
+126,"TEXT_FESEST401_03079_JIHLIALIAPOH_000_100","I do believe we've restored Riggy's enthusiasm for the task. Now, if only I knew a little more about fighting mon─ Oh! You're an adventurer, aren't you? You should be in charge of the linkpearl!"
+127,"TEXT_FESEST401_03079_SYSTEM_000_101","The following controls can be used to navigate Egg Hunter Riggy<hex:02081CE4E95101FF14> (default settings)<hex:FF01><hex:03>:"
+128,"TEXT_FESEST401_03079_SYSTEM_000_102","<hex:0208F0D7E4E95101FF86>A or move cursor left: Move Left<hex:02100103>D or move cursor right: Move Right<hex:02100103>[<hex:020816E4E94F04FF06>space<hex:FF09>Spacebar<hex:03>] or : Jump, Double Jump<hex:FF4B><hex:021E020403>: Move Left<hex:02100103><hex:021E020503>: Move Right<hex:02100103><hex:021E020903> or <hex:021E020A03>: Jump, Double Jump<hex:03>"
+129,"TEXT_FESEST401_03079_SYSTEM_000_103","Collect 15 or more eggs to win the game. Hitting obstacles or being struck by enemy attacks will cause you to drop eggs, so do your best to avoid any danger!"
+130,"TEXT_FESEST401_03079_JIHLIALIAPOH_000_105","Oh dear, we seem to have missed a few eggs...<hex:02100103>But never mind! Take a deep breath, calm your mind, and we can try again!"
+131,"TEXT_FESEST401_03079_JIHLIALIAPOH_000_106","Oh, look at all these eggs! Well done, you two!"
+132,"TEXT_FESEST401_03079_LEIHALIAPOH_100_106","Nice work, little one! I have to admit, I was wrong about you...and I'm sorry about the whole “shooting you with an arrow” thing, as well."
+133,"TEXT_FESEST401_03079_RIGGY_100_107","Riggy not angry! Riggy happy everyone happyyy! "
+134,"TEXT_FESEST401_03079_JIHLIALIAPOH_000_107","Here, you should take these eggs and deliver them to Nonotta─she will be thrilled to hear we've tracked them down."
+135,"TEXT_FESEST401_03079_LEIHALIAPOH_000_108","...Hm? I don't recall mentioning Nonotta's name."
+136,"TEXT_FESEST401_03079_JIHLIALIAPOH_000_109","Oh! Well, you see, I...I'm a good friend of hers! And this isn't the first time I've helped out with an egg hunt."
+137,"TEXT_FESEST401_03079_JIHLIALIAPOH_000_110","Ahem! Anyway, Riggy and I shall have another look around to see if we've missed any of those precious eggs! Fare you well, friends!"
+138,"TEXT_FESEST401_03079_LEIHALIAPOH_000_111","That spriggan is an odd character, but it's the conjurer who makes my tail twitch. I suppose we have some good news for Nonotta, at least. Shall we?"
+139,"TEXT_FESEST401_03079_LEIHALIAPOH_000_115","It seems we have no choice but to trust in this spriggan. And seeing as I, uh, put an arrow in him earlier, it might be best if you take the lead on this linkpearl strategy."
+140,"TEXT_FESEST401_03079_RIGGY_000_116","Riggy ride biggy rock! Riggy springy down!"
+141,"TEXT_FESEST401_03079_RIGGY_000_117","Riggy try again! Jumpy, springy, and grab many eggyyy!"
+142,"TEXT_FESEST401_03079_NONOTTA_000_120","Ah, there you are! I heard from our tracker friend that the eggs have been found! May I see them, please?"
+143,"TEXT_FESEST401_03079_NONOTTA_000_121","Yes, this is one I decorated myself! Thank you so very much!"
+144,"TEXT_FESEST401_03079_NONOTTA_000_122","Jihli, look! We have our eggs back!"
+145,"TEXT_FESEST401_03079_JIHLIALIAPOH_000_123","That's wonderful! We must have searched everywhere... Wherever did you find them?"
+146,"TEXT_FESEST401_03079_NONOTTA_000_124","...In a spriggan nest, you say!? So the culprit was a spriggan all along?"
+147,"TEXT_FESEST401_03079_Q4_000_000","What will you say?"
+148,"TEXT_FESEST401_03079_A4_000_001","Nay, 'twas a Lalafell!"
+149,"TEXT_FESEST401_03079_A4_000_002","Nay, 'twas a Miqo'te!"
+150,"TEXT_FESEST401_03079_A4_000_003","Aye, 'twas a spriggan!"
+151,"TEXT_FESEST401_03079_LEIHALIAPOH_000_125","Wha─? You've a strange sense of humor, friend, but I have to agree that the one responsible for this crime was no spriggan."
+152,"TEXT_FESEST401_03079_LEIHALIAPOH_000_126","...I see you share my suspicions."
+153,"TEXT_FESEST401_03079_LEIHALIAPOH_000_127","Ah, well, that's true in part. But the spriggans were merely accomplices to the crime."
+154,"TEXT_FESEST401_03079_LEIHALIAPOH_000_128","There was a mastermind behind this entire affair..."
+155,"TEXT_FESEST401_03079_LEIHALIAPOH_100_128","Isn't that right, Jihli?"
+156,"TEXT_FESEST401_03079_LEIHALIAPOH_000_129","You might be this festival's organizer, but I suspect you planned the theft from the start! The conjurer who so conveniently appeared to heal Riggy...that was you!"
+157,"TEXT_FESEST401_03079_JIHLIALIAPOH_000_130","...Clever girl!"
+158,"TEXT_FESEST401_03079_JIHLIALIAPOH_000_131","Yes, 'twas I who arranged for the eggs to “disappear.” But it was not my intent to deceive or distress you."
+159,"TEXT_FESEST401_03079_JIHLIALIAPOH_000_132","You see, I actually <hex:021A020203>did<hex:021A020103> have my prophetic dream this year. And the vision implied that if I hid the eggs myself, then the ensuing chain of events would lead to encounters both unexpected and wondrous."
+160,"TEXT_FESEST401_03079_LEIHALIAPOH_100_132","So everything that took place was an effort to recreate the details of your dream? No wonder you were so anxious to mend the spriggan's hurts..."
+161,"TEXT_FESEST401_03079_JIHLIALIAPOH_000_134","I apologize for my trickery. But tell me, did you not enjoy meeting the charming Riggy, or the manner in which you recovered the lost eggs?"
+162,"TEXT_FESEST401_03079_JIHLIALIAPOH_000_135","Speaking of which, there was a gift for you hiding inside one of the reclaimed treasures─a magical doll! 'Tis ever so adorable when they toddle along in your wake."
+163,"TEXT_FESEST401_03079_JIHLIALIAPOH_000_136","Ah yes, there is one more encounter we have yet to celebrate...<hex:02100103>Yours and mine, Leih Aliapoh."
+164,"TEXT_FESEST401_03079_JIHLIALIAPOH_000_137","Some few days ago, I was cleaning out a storage closet and came across an old journal. It belonged to my mother, Mihli, a talented pratictioner of the healing arts."
+165,"TEXT_FESEST401_03079_JIHLIALIAPOH_000_138","In its pages she made mention of her sister, and the life her sibling led as a hunter in the depths of the Twelveswood."
+166,"TEXT_FESEST401_03079_LEIHALIAPOH_000_139","(-Leih Aliapoh-)You can't mean..."
+167,"TEXT_FESEST401_03079_JIHLIALIAPOH_000_140","My aunt was said to have given birth to a single daughter. The girl grew to be quite a handful, plain-spoken and proud, with a knack for the bow... I think you know her name."
+168,"TEXT_FESEST401_03079_LEIHALIAPOH_000_141","(-Leih Aliapoh-)Well, I'll be a spriggan's second cousin. And a first cousin to you, it seems! Now that <hex:021A020203>is<hex:021A020103> an unexpected wonder."
+169,"TEXT_FESEST401_03079_JIHLIALIAPOH_000_142","I thank you for your cooperation in this, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Even I was unaware of the surprise that would greet me this day."
+170,"TEXT_FESEST401_03079_JIHLIALIAPOH_000_143","If you aren't too weary, might you be interested in helping me hide the eggs once more? We may just witness a few more special encounters!"
+171,"TEXT_FESEST401_03079_SYSTEM_000_144","You have unlocked the Egg Hunter Riggy mini-game."
+172,"TEXT_FESEST401_03079_SYSTEM_000_145","Open the toy chest in any inn room to take another turn at this activity."
+173,"TEXT_FESEST401_03079_LEIHALIAPOH_000_145","I let Nonotta know that her eggs are safe and sound. All you need do is make the delivery."
+174,"TEXT_FESEST401_03079_JIHLIALIAPOH_000_133",""

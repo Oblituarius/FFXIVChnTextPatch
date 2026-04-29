@@ -2,26 +2,26 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_CMNDEFRELICWEAPON020TRADE_00165_JALZAHN_000_000,我可以使用「魂晶」讓你的武器變得更加強大！<hex:02100103>你想要強化哪件「上古武器」？<hex:02100103>……拿來讓我看看。
-1,TEXT_CMNDEFRELICWEAPON020TRADE_00165_MENU_TITLE,請選擇想要強化的「上古武器·天極」
-2,TEXT_CMNDEFRELICWEAPON020TRADE_00165_MENU_CHOICES,<hex:020843E4E802F21871FF26>強化<hex:02280BFF05>Item<hex:F218710103>和<hex:02280BFF05>Item<hex:F2187A0103><hex:FF14>強化<hex:02280AFF05>Item<hex:E8020103><hex:03>
-3,TEXT_CMNDEFRELICWEAPON020TRADE_00165_MENU_CANCEL,取消
-4,TEXT_CMNDEFRELICWEAPON020TRADE_00165_YESNO_MESSAGE,<hex:020861E4E802F21871FF35>確定要強化<hex:02280BFF05>Item<hex:F218710103>和<hex:02280BFF05>Item<hex:F2187A0103>嗎？<hex:FF23>確定要強化<hex:02280AFF05>Item<hex:E8020103>嗎？<hex:03>
-5,TEXT_CMNDEFRELICWEAPON020TRADE_00165_YESNO_YES,是
-6,TEXT_CMNDEFRELICWEAPON020TRADE_00165_YESNO_NO,否
-7,TEXT_CMNDEFRELICWEAPON020TRADE_00165_JALZAHN_000_020,咦……我沒看到你想要強化的上古武器啊。<hex:02100103>快拿給我看一下。
-8,TEXT_CMNDEFRELICWEAPON020TRADE_00165_SYSTEM_100_020,在得到12種「魂晶」之後，<hex:02100103>將待強化的上古武器·天極交給加爾贊，可以進行強化。
-9,TEXT_CMNDEFRELICWEAPON020TRADE_00165_SYSTEM_100_025,另外，需要卸下待強化的上古武器，<hex:02100103>並放在兵裝庫或背包中，再和加爾贊對話。
-10,TEXT_CMNDEFRELICWEAPON020TRADE_00165_JALZAHN_100_030,（★未使用／削除予定★）
-11,TEXT_CMNDEFRELICWEAPON020TRADE_00165_JALZAHN_000_030,如果你還有其他想要強化的上古武器，<hex:02100103>可以再拿12種「魂晶」來找我。
-12,TEXT_CMNDEFRELICWEAPON020TRADE_00165_SYSTEM_000_035,裝備上「上古武器·天極」後，<hex:02100103>參加指定區域的危命任務，<hex:02100103>可以偶爾獲得被稱為「魂晶」的道具。
-13,TEXT_CMNDEFRELICWEAPON020TRADE_00165_SYSTEM_000_036,把12種「魂晶」和「上古武器·天極」交給加爾贊之後，<hex:02100103>可以將武器強化為「上古武器·魂晶」。
-14,TEXT_CMNDEFRELICWEAPON020TRADE_00165_SYSTEM_100_036,不過，「騎士」需要準備劍與盾兩樣「上古武器·天極」。
-15,TEXT_CMNDEFRELICWEAPON020TRADE_00165_SYSTEM_000_037,另外，可以打開「日誌」的「已完成」，選擇「武器強化支線任務」，<hex:02100103>在任務「尋找英雄的武器」中再次查看所需「魂晶」的情報。
-16,TEXT_CMNDEFRELICWEAPON020TRADE_00165_JALZAHN_000_040,如果你能找來12種「魂晶」，<hex:02100103>那麼我就可以給你強化「上古武器」。
-17,TEXT_CMNDEFRELICWEAPON020TRADE_00165_JALZAHN_000_050,沒錯，就是這些……沒想到你真的收集齊了，幹得不錯！<hex:02100103>就讓我用這12種「魂晶」，<hex:02100103>給你的上古武器賦予更強的力量！
-18,TEXT_CMNDEFRELICWEAPON020TRADE_00165_JALZAHN_000_051,接下來就交給我的秘術吧……<hex:02100103>黃道武器啊，賜予我偉大的力量吧！<hex:02100103>……好了，收下吧。
-19,TEXT_CMNDEFRELICWEAPON020TRADE_00165_JALZAHN_000_056,成功將靈魂的碎片和上古武器融合……<hex:02100103>這就是你的新武器……<hex:02280AFF05>Item<hex:E8020103>！
-20,TEXT_CMNDEFRELICWEAPON020TRADE_00165_JALZAHN_000_057,成功將靈魂的碎片和上古武器融合……<hex:02100103>這就是<hex:02280BFF05>Item<hex:F21E900103>……<hex:02100103>還有<hex:02280BFF05>Item<hex:F21E990103>！
-21,TEXT_CMNDEFRELICWEAPON020TRADE_00165_SYSTEM_100_059,成功將「上古武器·天極」強化為「上古武器·魂晶」！
-22,TEXT_CMNDEFRELICWEAPON020TRADE_00165_SYSTEM_000_060,如果還有其他想要強化的上古武器·天極，<hex:02100103>可以再次收集12種「魂晶」，<hex:02100103>然後和武器一併交給加爾贊。
+0,"TEXT_CMNDEFRELICWEAPON020TRADE_00165_JALZAHN_000_000","Through the power of atma, I shall imbue your relic with such might as it has never known. Lend me the object you wish enhanced, and I shall see the deed done."
+1,"TEXT_CMNDEFRELICWEAPON020TRADE_00165_MENU_TITLE","Select the relic you wish to enhance."
+2,"TEXT_CMNDEFRELICWEAPON020TRADE_00165_MENU_CHOICES","<hex:020843E4E802F21871FF2C><hex:022B13FF11><hex:02310DFF05>Item<hex:03F21871020203><hex:03> and <hex:02310DFF05>Item<hex:04F2187A020203><hex:FF0E><hex:02280AFF05>Item<hex:E8020A03><hex:03>"
+3,"TEXT_CMNDEFRELICWEAPON020TRADE_00165_MENU_CANCEL","Cancel"
+4,"TEXT_CMNDEFRELICWEAPON020TRADE_00165_YESNO_MESSAGE","Have <hex:02083FE4E802F21871FF26><hex:02310DFF05>Item<hex:03F21871020203> and <hex:02310DFF05>Item<hex:03F2187A020203><hex:FF10><hex:02310CFF05>Item<hex:03E802020203><hex:03> enhanced?"
+5,"TEXT_CMNDEFRELICWEAPON020TRADE_00165_YESNO_YES","Yes"
+6,"TEXT_CMNDEFRELICWEAPON020TRADE_00165_YESNO_NO","No"
+7,"TEXT_CMNDEFRELICWEAPON020TRADE_00165_JALZAHN_000_020","Where is the relic? Perchance you forgot to bring it?"
+8,"TEXT_CMNDEFRELICWEAPON020TRADE_00165_SYSTEM_100_020","To have Jalzahn enhance a relic weapon zenith, you must be in possession of twelve unique varieties of atma."
+9,"TEXT_CMNDEFRELICWEAPON020TRADE_00165_SYSTEM_100_025","Furthermore, please ensure that the relic you wish to enhance is placed in your Armoury Chest or inventory before speaking with Jalzahn."
+10,"TEXT_CMNDEFRELICWEAPON020TRADE_00165_JALZAHN_100_030","I cannot well perform my work until you make room among your mess of possessions."
+11,"TEXT_CMNDEFRELICWEAPON020TRADE_00165_JALZAHN_000_030","If there are any other relics you wish enhanced, bring me twelve unique varieties of atma as before, and I shall see the deed done."
+12,"TEXT_CMNDEFRELICWEAPON020TRADE_00165_SYSTEM_000_035","By participating in certain FATEs while equipped with a relic weapon zenith, you may obtain an atma crystal."
+13,"TEXT_CMNDEFRELICWEAPON020TRADE_00165_SYSTEM_000_036","Once you have obtained twelve unique varieties of atma, you may present them to Jalzahn to have a relic weapon zenith enhanced."
+14,"TEXT_CMNDEFRELICWEAPON020TRADE_00165_SYSTEM_100_036","Paladins must possess both Curtana Zenith and the Holy Shield Zenith."
+15,"TEXT_CMNDEFRELICWEAPON020TRADE_00165_SYSTEM_000_037","This information can be reviewed in the completed journal for the quest “Up in Arms,” which can be found under “Weapon Enhancement Sidequests.”"
+16,"TEXT_CMNDEFRELICWEAPON020TRADE_00165_JALZAHN_000_040","How fare your efforts at procuring atma? Once you have twelve pieces in your possession, bring them hither, and I shall infuse their power into a relic of your choosing."
+17,"TEXT_CMNDEFRELICWEAPON020TRADE_00165_JALZAHN_000_050","Ah, twelve unique varieties of atma! You have done well, my dear adventurer."
+18,"TEXT_CMNDEFRELICWEAPON020TRADE_00165_JALZAHN_000_051","Pray leave the rest to me. I require but a moment."
+19,"TEXT_CMNDEFRELICWEAPON020TRADE_00165_JALZAHN_000_056","...It is done! True to my theory, the souls housed within the atma have merged with your relic! Take it up once more, adventurer, and savor the newfound power that courses through it!"
+20,"TEXT_CMNDEFRELICWEAPON020TRADE_00165_JALZAHN_000_057","...It is done! True to my theory, the souls housed within the atma have merged with your blade and shield! Take them up once more, adventurer, and savor the newfound power that courses through them!"
+21,"TEXT_CMNDEFRELICWEAPON020TRADE_00165_SYSTEM_100_059","<hex:02088AE4E802F21871FF3E>Your relics zenith have been reborn through the power of atma<hex:FF43>Your relic weapon zenith has been reborn through the power of atma<hex:03>!"
+22,"TEXT_CMNDEFRELICWEAPON020TRADE_00165_SYSTEM_000_060","If you wish to have another relic weapon zenith enhanced, you may do so by repeating the process of obtaining twelve unique pieces of atma, and then presenting the objects to Jalzahn."

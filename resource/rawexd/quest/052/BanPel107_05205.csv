@@ -2,86 +2,86 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_BANPEL107_05205_SEQ_00,<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整（限定職業）<hex:0249020103><hex:0248020103><hex:02100103>※本任務需要與接受任務時的職業相同才可繼續進行任務。<hex:02100103><hex:02100103>水果碼頭的玉畢利正在為哈努族尋找練習做嚮導的幫手。
-1,TEXT_BANPEL107_05205_SEQ_01,
-2,TEXT_BANPEL107_05205_SEQ_02,
-3,TEXT_BANPEL107_05205_SEQ_03,
-4,TEXT_BANPEL107_05205_SEQ_04,
-5,TEXT_BANPEL107_05205_SEQ_05,
-6,TEXT_BANPEL107_05205_SEQ_06,
-7,TEXT_BANPEL107_05205_SEQ_07,
-8,TEXT_BANPEL107_05205_SEQ_08,
-9,TEXT_BANPEL107_05205_SEQ_09,
-10,TEXT_BANPEL107_05205_SEQ_10,
-11,TEXT_BANPEL107_05205_SEQ_11,
-12,TEXT_BANPEL107_05205_SEQ_12,
-13,TEXT_BANPEL107_05205_SEQ_13,
-14,TEXT_BANPEL107_05205_SEQ_14,
-15,TEXT_BANPEL107_05205_SEQ_15,
-16,TEXT_BANPEL107_05205_SEQ_16,
-17,TEXT_BANPEL107_05205_SEQ_17,
-18,TEXT_BANPEL107_05205_SEQ_18,
-19,TEXT_BANPEL107_05205_SEQ_19,
-20,TEXT_BANPEL107_05205_SEQ_20,
-21,TEXT_BANPEL107_05205_SEQ_21,
-22,TEXT_BANPEL107_05205_SEQ_22,
-23,TEXT_BANPEL107_05205_SEQ_23,
-24,TEXT_BANPEL107_05205_TODO_00,和練習做嚮導的哈努族對話
-25,TEXT_BANPEL107_05205_TODO_01,和玉畢利對話
-26,TEXT_BANPEL107_05205_TODO_02,
-27,TEXT_BANPEL107_05205_TODO_03,
-28,TEXT_BANPEL107_05205_TODO_04,
-29,TEXT_BANPEL107_05205_TODO_05,
-30,TEXT_BANPEL107_05205_TODO_06,
-31,TEXT_BANPEL107_05205_TODO_07,
-32,TEXT_BANPEL107_05205_TODO_08,
-33,TEXT_BANPEL107_05205_TODO_09,
-34,TEXT_BANPEL107_05205_TODO_10,
-35,TEXT_BANPEL107_05205_TODO_11,
-36,TEXT_BANPEL107_05205_TODO_12,
-37,TEXT_BANPEL107_05205_TODO_13,
-38,TEXT_BANPEL107_05205_TODO_14,
-39,TEXT_BANPEL107_05205_TODO_15,
-40,TEXT_BANPEL107_05205_TODO_16,
-41,TEXT_BANPEL107_05205_TODO_17,
-42,TEXT_BANPEL107_05205_TODO_18,
-43,TEXT_BANPEL107_05205_TODO_19,
-44,TEXT_BANPEL107_05205_TODO_20,
-45,TEXT_BANPEL107_05205_TODO_21,
-46,TEXT_BANPEL107_05205_TODO_22,
-47,TEXT_BANPEL107_05205_TODO_23,
-48,TEXT_BANPEL107_05205_YUBLI_000_000,負責做嚮導的哈努族<hex:02100103>想要在實際面對客人之前找人練習一下。
-49,TEXT_BANPEL107_05205_YUBLI_000_001,雖然他說自己對要介紹的地方和知識有自信，<hex:02100103>但不確定自己能不能說清楚……<hex:02100103>能請你這位特別顧問去和他配合，練習一次嗎？
-50,TEXT_BANPEL107_05205_YUBLI_000_002,練習做嚮導的哈努族又提出了委託，想要再練習練習。<hex:02100103>能請你這位特別顧問再幫幫忙，陪他練習嗎？
-51,TEXT_BANPEL107_05205_GUIDETRAINING05205_000_010,你、你是……特別顧問？！<hex:02100103>難、難道說，你是來陪我練習的？<hex:02100103>好、好緊張……但我會加油的！
-52,TEXT_BANPEL107_05205_GUIDETRAINING05205_000_011,特、特別顧問！<hex:02100103>你又來陪我練習啦……我、我會加油的！
-53,TEXT_BANPEL107_05205_GUIDETRAINING05205_000_012,那麼……<hex:02100103>呃，接下來，我為你介紹一下你眼前的河，<hex:02100103>這條河叫活船水路。
-54,TEXT_BANPEL107_05205_GUIDETRAINING05205_000_013,活船水路的上游有很多瀑布……<hex:02100103>其中有三處，在水流多年的沖刷下，<hex:02100103>形成了我們現在看到的秘境洞窟。
-55,TEXT_BANPEL107_05205_GUIDETRAINING05205_100_013,這三處瀑布各有各的名字……<hex:02100103>這些名字，聽起來還挺嚇人的。
-56,TEXT_BANPEL107_05205_GUIDETRAINING05205_000_014,比如頭的……哦不對！是首的……抱歉！抱歉！
-57,TEXT_BANPEL107_05205_GUIDETRAINING05205_000_015,比如說這裡就叫首的血流，<hex:02100103>除此以外還有「腿的血流」、「臂的血流」……<hex:02100103>這些都是從我們祖先……呃、的身體？……呃，什麼來著……
-58,TEXT_BANPEL107_05205_Q1_000_000,要說什麼？
-59,TEXT_BANPEL107_05205_A1_000_001,得一口氣說完啊！
-60,TEXT_BANPEL107_05205_A1_000_002,冷靜！要對自己有信心！
-61,TEXT_BANPEL107_05205_A1_000_003,好有意思！快再講講！
-62,TEXT_BANPEL107_05205_GUIDETRAINING05205_000_020,啊呀，真是不好意思。<hex:02100103>我太、太緊張了！
-63,TEXT_BANPEL107_05205_GUIDETRAINING05205_000_021,謝、謝謝你。<hex:02100103>是，這個故事我能保證大家會感興趣的……我要冷靜一點！
-64,TEXT_BANPEL107_05205_GUIDETRAINING05205_000_022,那個，呃……<hex:02100103>很久很久以前，尤卡巨人族統治著此地時，<hex:02100103>我們的祖先嘗試反抗他們，但卻不幸失敗遭到了處刑。
-65,TEXT_BANPEL107_05205_GUIDETRAINING05205_000_023,尤卡巨人將他們的遺體撕成碎片扔進了河裡……<hex:02100103>碎片順著不同的瀑布掉了下來，因此讓瀑布有了現在的名字。<hex:02100103>在我們哈努族眼裡，這片聖地的美象徵著祖先的英勇反抗。
-66,TEXT_BANPEL107_05205_GUIDETRAINING05205_000_024,……秘境洞窟和三處瀑布的介紹就到這裡了。<hex:02100103>感謝你聽我介紹這些。
-67,TEXT_BANPEL107_05205_GUIDETRAINING05205_000_042,呃，那……<hex:02100103>那我來介紹一下我們哈努族生活的哈努聚落吧。
-68,TEXT_BANPEL107_05205_GUIDETRAINING05205_000_043,我想你能看到，我們的村子周圍都是水田……<hex:02100103>我們哈努族賴以為生的蘆葦就種植在那裡。<hex:02100103>除了用來吃之外，我們還會用蘆葦造房子和製作生活用品。
-69,TEXT_BANPEL107_05205_GUIDETRAINING05205_000_044,這裡有一些土特產，我想推薦大家看看……<hex:02100103>這個是我們用做建材的蘆葦切下來的邊角料做的人偶。<hex:02100103>孩子們都喜歡……不過，也有些人不喜歡玩人偶……
-70,TEXT_BANPEL107_05205_Q2_000_000,要說什麼？
-71,TEXT_BANPEL107_05205_A2_000_001,推薦商品的時候表現得要再大方一點！
-72,TEXT_BANPEL107_05205_A2_000_002,講得很好！自信一點！
-73,TEXT_BANPEL107_05205_A2_000_003,遇到這類客人，可以再推薦點別的
-74,TEXT_BANPEL107_05205_GUIDETRAINING05205_000_050,啊哇哇哇，對不起！<hex:02100103>我突然有點沒自信……
-75,TEXT_BANPEL107_05205_GUIDETRAINING05205_000_051,謝、謝謝你！<hex:02100103>對啊，我還有其他好東西能推薦呢！
-76,TEXT_BANPEL107_05205_GUIDETRAINING05205_000_052,還有、呃……<hex:02100103>就是，想買土特產的話請從乙太之光向北走，<hex:02100103>那邊有很多店，各位去了肯定能找到心儀的商品。
-77,TEXT_BANPEL107_05205_GUIDETRAINING05205_000_053,我們還有很多種釣魚工具，<hex:02100103>如果感興趣的話，請一定要嘗試一下釣魚體驗活動！
-78,TEXT_BANPEL107_05205_GUIDETRAINING05205_000_054,……哈努族的介紹就到這裡了！<hex:02100103>感謝你聽我介紹這些！
-79,TEXT_BANPEL107_05205_GUIDETRAINING05205_000_055,雖然現在還不是很流暢……<hex:02100103>但只要再練習一下，我肯定能成為優秀嚮導的！<hex:02100103>特別顧問！謝謝你陪我練習！
-80,TEXT_BANPEL107_05205_GUIDETRAINING05205_000_056,雖然現在還不是很流暢……<hex:02100103>但只要再練習一下，我肯定能成為優秀嚮導的！<hex:02100103>特別顧問！謝謝你陪我練習！
-81,TEXT_BANPEL107_05205_YUBLI_000_060,看來他的練習很成功啊。<hex:02100103>再多積累一些經驗，他肯定能成為優秀的嚮導。
-82,TEXT_BANPEL107_05205_YUBLI_000_061,謝謝你抽時間陪他練習。<hex:02100103>以後要是有機會，還請再幫幫他。
+0,"TEXT_BANPEL107_05205_SEQ_00","Yubli would have you join one of the trainee guides for a spot of practice.<hex:02100103><hex:02100103>※Please note that the difficulty of this quest has been synced to your current level. Furthermore, you may not proceed with a class or job that is different from when you accepted this quest."
+1,"TEXT_BANPEL107_05205_SEQ_01",""
+2,"TEXT_BANPEL107_05205_SEQ_02",""
+3,"TEXT_BANPEL107_05205_SEQ_03",""
+4,"TEXT_BANPEL107_05205_SEQ_04",""
+5,"TEXT_BANPEL107_05205_SEQ_05",""
+6,"TEXT_BANPEL107_05205_SEQ_06",""
+7,"TEXT_BANPEL107_05205_SEQ_07",""
+8,"TEXT_BANPEL107_05205_SEQ_08",""
+9,"TEXT_BANPEL107_05205_SEQ_09",""
+10,"TEXT_BANPEL107_05205_SEQ_10",""
+11,"TEXT_BANPEL107_05205_SEQ_11",""
+12,"TEXT_BANPEL107_05205_SEQ_12",""
+13,"TEXT_BANPEL107_05205_SEQ_13",""
+14,"TEXT_BANPEL107_05205_SEQ_14",""
+15,"TEXT_BANPEL107_05205_SEQ_15",""
+16,"TEXT_BANPEL107_05205_SEQ_16",""
+17,"TEXT_BANPEL107_05205_SEQ_17",""
+18,"TEXT_BANPEL107_05205_SEQ_18",""
+19,"TEXT_BANPEL107_05205_SEQ_19",""
+20,"TEXT_BANPEL107_05205_SEQ_20",""
+21,"TEXT_BANPEL107_05205_SEQ_21",""
+22,"TEXT_BANPEL107_05205_SEQ_22",""
+23,"TEXT_BANPEL107_05205_SEQ_23",""
+24,"TEXT_BANPEL107_05205_TODO_00","Speak with the guide-in-training."
+25,"TEXT_BANPEL107_05205_TODO_01","Speak with Yubli."
+26,"TEXT_BANPEL107_05205_TODO_02",""
+27,"TEXT_BANPEL107_05205_TODO_03",""
+28,"TEXT_BANPEL107_05205_TODO_04",""
+29,"TEXT_BANPEL107_05205_TODO_05",""
+30,"TEXT_BANPEL107_05205_TODO_06",""
+31,"TEXT_BANPEL107_05205_TODO_07",""
+32,"TEXT_BANPEL107_05205_TODO_08",""
+33,"TEXT_BANPEL107_05205_TODO_09",""
+34,"TEXT_BANPEL107_05205_TODO_10",""
+35,"TEXT_BANPEL107_05205_TODO_11",""
+36,"TEXT_BANPEL107_05205_TODO_12",""
+37,"TEXT_BANPEL107_05205_TODO_13",""
+38,"TEXT_BANPEL107_05205_TODO_14",""
+39,"TEXT_BANPEL107_05205_TODO_15",""
+40,"TEXT_BANPEL107_05205_TODO_16",""
+41,"TEXT_BANPEL107_05205_TODO_17",""
+42,"TEXT_BANPEL107_05205_TODO_18",""
+43,"TEXT_BANPEL107_05205_TODO_19",""
+44,"TEXT_BANPEL107_05205_TODO_20",""
+45,"TEXT_BANPEL107_05205_TODO_21",""
+46,"TEXT_BANPEL107_05205_TODO_22",""
+47,"TEXT_BANPEL107_05205_TODO_23",""
+48,"TEXT_BANPEL107_05205_YUBLI_000_000","One of our newly recruited tour guides wishes to rehearse before beginning their duties in earnest."
+49,"TEXT_BANPEL107_05205_YUBLI_000_001","When it comes to local knowledge, you couldn't ask for a better guide. Alas, they struggle with public speaking... Perhaps you could offer some advice and encouragement?"
+50,"TEXT_BANPEL107_05205_YUBLI_000_002","Our guide-in-training seeks further practice. Can I count on your help again?"
+51,"TEXT_BANPEL107_05205_GUIDETRAINING05205_000_010","Y-You're the agency's special advisor! Did Yubli send you to help me practice? F-Forgive me if I'm a little nervous..."
+52,"TEXT_BANPEL107_05205_GUIDETRAINING05205_000_011","H-Hello, Special Advisor! Thanks for helping out again. I shall do my best!"
+53,"TEXT_BANPEL107_05205_GUIDETRAINING05205_000_012","A-Ahem. Let's see. Ah, yes, the waterway right in front of us... It's a tributary of Miyakabek'zu."
+54,"TEXT_BANPEL107_05205_GUIDETRAINING05205_000_013","The river itself splits into several waterfalls... As a matter of fact, Cave Kikitola was formed over millennia by three of those very same falls. At least, that's what people say."
+55,"TEXT_BANPEL107_05205_GUIDETRAINING05205_100_013","Each of the waterfalls has a name, and well, the names are quite...vivid."
+56,"TEXT_BANPEL107_05205_GUIDETRAINING05205_000_014","For example, Xopek'...ah, no, that's not it! S-Sorry!"
+57,"TEXT_BANPEL107_05205_GUIDETRAINING05205_000_015","Xopik' means “necksblood,” and Xo'onu means “armsblood.” Then there's Xodune, which means “legsblood.” Each name relates to, er, you see, the blood spilled, as it were, by our forebears..."
+58,"TEXT_BANPEL107_05205_Q1_000_000","What will you say?"
+59,"TEXT_BANPEL107_05205_A1_000_001","Try to maintain your rhythm until the very end!"
+60,"TEXT_BANPEL107_05205_A1_000_002","No need to be so nervous!"
+61,"TEXT_BANPEL107_05205_A1_000_003","A fascinating account!"
+62,"TEXT_BANPEL107_05205_GUIDETRAINING05205_000_020","Aaah! I'm so sorry! I let my nerves get the better of me..."
+63,"TEXT_BANPEL107_05205_GUIDETRAINING05205_000_021","Th-Thank you! I just need to stay calm and let the trivia do the talking..."
+64,"TEXT_BANPEL107_05205_GUIDETRAINING05205_000_022","Where was I? Ah, yes. Back when the giants still ruled Kozama'uka, Hanu who refused to submit to their tyranny were put to death and dismembered."
+65,"TEXT_BANPEL107_05205_GUIDETRAINING05205_000_023","Their mutilated bodies were thrown into the river, and from there flowed piecemeal over the separate waterfalls... Although the falls are a beautiful sight to behold, they also remind we Hanu of the sacrifices made by those before us."
+66,"TEXT_BANPEL107_05205_GUIDETRAINING05205_000_024","And that concludes my introduction to the three falls of Cave Kikitola. Thank you for listening!"
+67,"TEXT_BANPEL107_05205_GUIDETRAINING05205_000_042","Ahem. On this tour, I shall be explaining all about Ok'hanu─one of our villages."
+68,"TEXT_BANPEL107_05205_GUIDETRAINING05205_000_043","The settlement is surrounded by paddies, and the reeds grown there have been our livelihood for generations. The crop has many different uses. Not only are the reeds edible, but artisans use them in all manner of crafts."
+69,"TEXT_BANPEL107_05205_GUIDETRAINING05205_000_044","I personally recommend the dolls they make with reed offcuts. They're especially popular with young Hanu! Ah, I suppose some of our guests won't be interested in toys..."
+70,"TEXT_BANPEL107_05205_Q2_000_000","What will you say?"
+71,"TEXT_BANPEL107_05205_A2_000_001","Try to really sell your recommendation!"
+72,"TEXT_BANPEL107_05205_A2_000_002","You're doing just fine. Keep it up!"
+73,"TEXT_BANPEL107_05205_A2_000_003","You could prepare another tidbit to share with customers uninterested in dolls."
+74,"TEXT_BANPEL107_05205_GUIDETRAINING05205_000_050","M-My apologies! I was feeling so anxious..."
+75,"TEXT_BANPEL107_05205_GUIDETRAINING05205_000_051","Th-Thank you! Of course, there are plenty of keepsakes I can recommend besides!"
+76,"TEXT_BANPEL107_05205_GUIDETRAINING05205_000_052","Er, let's see... If you wish to make a purchase, please head to the northern side of the aetheryte plaza. There are plenty of stalls to browse, so I'm sure you'll find something to suit your tastes."
+77,"TEXT_BANPEL107_05205_GUIDETRAINING05205_000_053","And for the anglers, there's no shortage of fishing supplies. As a matter of fact, we even offer a special fishing tour for those looking to make the most of the local waterways."
+78,"TEXT_BANPEL107_05205_GUIDETRAINING05205_000_054","Thank you for listening. I hope you've learnt a great deal about Ok'hanu!"
+79,"TEXT_BANPEL107_05205_GUIDETRAINING05205_000_055","I stumbled over my words here and there, but as long as I keep practicing, I know I can succeed! Thank you for your help!"
+80,"TEXT_BANPEL107_05205_GUIDETRAINING05205_000_056","I know I'm capable of being an excellent guide─I just need to build up my confidence. Thanks again for all your insight!"
+81,"TEXT_BANPEL107_05205_YUBLI_000_060","Sounds like our guide-in-training benefited from the rehearsal. With a little more practice, they'll soon be ready for their first customer."
+82,"TEXT_BANPEL107_05205_YUBLI_000_061","Thank you. Perhaps you can offer some more advice the next time you find yourself at a loose end!"

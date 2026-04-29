@@ -2,129 +2,129 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_FESHLW203_02151_SEQ_00,※本任務是特定期間內的任務。<hex:02100103><hex:02100103>林場水車的冒險者公會的調查員又掌握到了新的情報。
-1,TEXT_FESHLW203_02151_SEQ_01,※本任務只有在季節活動開放期間才能接受和進行。<hex:02100103>　季節活動結束後無法進行，敬請注意。<hex:02100103>　詳情請參見官方網站。<hex:02100103><hex:02100103>和冒險者公會的調查員進行了交談。據說有人在彎枝牧場目擊到了向孩子們搭話的奇術師們。前往中央林區彎枝牧場，和冒險者公會的調查員對話。
-2,TEXT_FESHLW203_02151_SEQ_02,和冒險者公會的調查員進行了交談。雖然沒有變身成魔物的孩子，但如果不尋找抵抗變身魔法的方法的話，是無法避免悲慘事態的發生的。在彎枝牧場尋找不知從哪裡傳來的聲音的主人。
-3,TEXT_FESHLW203_02151_SEQ_03,和聲音的主人——南瓜頭女人進行了交談。騎上<hex:022811FF0A>EventItem<hex:F61E8BE90103>施加清掃魔咒的話，就可以令變身魔法失效了。騎上<hex:022811FF0A>EventItem<hex:F61E8BE90103>，向彎枝牧場的妖異的小魔精們施加清掃魔咒。
-4,TEXT_FESHLW203_02151_SEQ_04,向彎枝牧場的妖異的小魔精們施加了清掃魔咒，成功令變身魔法失效了。向彎枝牧場的冒險者公會的調查員報告。
-5,TEXT_FESHLW203_02151_SEQ_05,向冒險者公會的調查員報告完畢。還有一個孩子被變身成了魔物。和彎枝牧場的南瓜頭女人談談。
-6,TEXT_FESHLW203_02151_SEQ_06,和彎枝牧場的南瓜頭女人進行了交談。據說<hex:022811FF0A>EventItem<hex:F61E8BE80103>只有在被變身後短時間內吃下才有效果，而現在重新烤已經來不及了。不過，如果燒掉<hex:022811FF0A>EventItem<hex:F61E8BE90103>，將灰燼撒在身上的話就可以恢復原樣。用彎枝牧場的<hex:02280CFF05>EObj<hex:F61E9E410103>燒掉<hex:022811FF0A>EventItem<hex:F61E8BE90103>，獲取<hex:022811FF0A>EventItem<hex:F61E8BEA0103>。
-7,TEXT_FESHLW203_02151_SEQ_07,燒掉<hex:022811FF0A>EventItem<hex:F61E8BE90103>獲得了<hex:022811FF0A>EventItem<hex:F61E8BEA0103>。在彎枝牧場尋找束手無策的小魔精，使用<hex:022811FF0A>EventItem<hex:F61E8BEA0103>。
-8,TEXT_FESHLW203_02151_SEQ_08,對束手無策的小魔精使用了<hex:022811FF0A>EventItem<hex:F61E8BEA0103>，成功讓孩子恢復了原樣。向彎枝牧場的冒險者公會的調查員報告。
-9,TEXT_FESHLW203_02151_SEQ_09,向冒險者公會的調查員報告完畢。茶·瑪麗塔被她的母親茶·達娜法狠狠訓斥了一番，認識到了自己的錯誤。大陸馬戲團也意識到有人能夠解除變身魔法，不會再有什麼新動作了。騎上南瓜頭女人贈予的<hex:022811FF0A>EventItem<hex:F61E8BE90103>，好好享受守護天節。
-10,TEXT_FESHLW203_02151_SEQ_10,
-11,TEXT_FESHLW203_02151_SEQ_11,
-12,TEXT_FESHLW203_02151_SEQ_12,
-13,TEXT_FESHLW203_02151_SEQ_13,
-14,TEXT_FESHLW203_02151_SEQ_14,
-15,TEXT_FESHLW203_02151_SEQ_15,
-16,TEXT_FESHLW203_02151_SEQ_16,
-17,TEXT_FESHLW203_02151_SEQ_17,
-18,TEXT_FESHLW203_02151_SEQ_18,
-19,TEXT_FESHLW203_02151_SEQ_19,
-20,TEXT_FESHLW203_02151_SEQ_20,
-21,TEXT_FESHLW203_02151_SEQ_21,
-22,TEXT_FESHLW203_02151_SEQ_22,
-23,TEXT_FESHLW203_02151_SEQ_23,
-24,TEXT_FESHLW203_02151_TODO_00,在彎枝牧場和冒險者公會的調查員對話
-25,TEXT_FESHLW203_02151_TODO_01,尋找聲音的主人
-26,TEXT_FESHLW203_02151_TODO_02,在彎枝牧場對妖異的小魔精施加清掃魔咒
-27,TEXT_FESHLW203_02151_TODO_03,向冒險者公會的調查員報告
-28,TEXT_FESHLW203_02151_TODO_04,和南瓜頭女人對話
-29,TEXT_FESHLW203_02151_TODO_05,用<hex:02280CFF05>EObj<hex:F61E9E410103>燒掉<hex:022811FF0A>EventItem<hex:F61E8BE90103> 獲取<hex:022811FF0A>EventItem<hex:F61E8BEA0103>
-30,TEXT_FESHLW203_02151_TODO_06,對束手無策的小魔精使用<hex:022811FF0A>EventItem<hex:F61E8BEA0103>
-31,TEXT_FESHLW203_02151_TODO_07,向冒險者公會的調查員報告
-32,TEXT_FESHLW203_02151_TODO_08,
-33,TEXT_FESHLW203_02151_TODO_09,
-34,TEXT_FESHLW203_02151_TODO_10,
-35,TEXT_FESHLW203_02151_TODO_11,
-36,TEXT_FESHLW203_02151_TODO_12,
-37,TEXT_FESHLW203_02151_TODO_13,
-38,TEXT_FESHLW203_02151_TODO_14,
-39,TEXT_FESHLW203_02151_TODO_15,
-40,TEXT_FESHLW203_02151_TODO_16,
-41,TEXT_FESHLW203_02151_TODO_17,
-42,TEXT_FESHLW203_02151_TODO_18,
-43,TEXT_FESHLW203_02151_TODO_19,
-44,TEXT_FESHLW203_02151_TODO_20,
-45,TEXT_FESHLW203_02151_TODO_21,
-46,TEXT_FESHLW203_02151_TODO_22,
-47,TEXT_FESHLW203_02151_TODO_23,
-48,TEXT_FESHLW203_02151_GUARDIAN02151_000_006,隔壁太太家的孩子回來了，<hex:02100103>然後她隔壁的那個小大人也回來了……<hex:02100103>看來大家都回來了……
-49,TEXT_FESHLW203_02151_GODRIQUELAIN_000_000,本以為孩子們回來後就可以告一段落了，<hex:02100103>不過我剛剛又從冒險者公會得到了消息！
-50,TEXT_FESHLW203_02151_GODRIQUELAIN_000_001,據說有人在中央林區的彎枝牧場，<hex:02100103>也目擊到了向孩子們搭話的奇術師們。
-51,TEXT_FESHLW203_02151_GODRIQUELAIN_000_002,如果放任不管的話，孩子們又會被變成魔物的！<hex:02100103>我們得馬上趕到那裡！
-52,TEXT_FESHLW203_02151_GUARDIAN02151_000_003,……請、請等一下。<hex:02100103>你們找回了孩子們，還請接受我的謝意……<hex:02100103>真的是很謝謝你們！
-53,TEXT_FESHLW203_02151_GODRIQUELAIN_000_004,不用那麼客氣的，也請告訴孩子們，<hex:02100103>以後要小心那種糖衣砲彈啊。
-54,TEXT_FESHLW203_02151_GODRIQUELAIN_000_005,那我們就前往彎枝牧場吧！
-55,TEXT_FESHLW203_02151_GODRIQUELAIN_000_010,你到了啊！<hex:02100103>我查看了一下周邊的情況，看來有幾個奇術師在這裡。
-56,TEXT_FESHLW203_02151_GODRIQUELAIN_000_011,孩子們對奇術師很感興趣……<hex:02100103>看來不太容易能把孩子們從那些傢伙身邊拉開。<hex:02100103>如果有什麼抵抗變身魔法的方法就好了……
-57,TEXT_FESHLW203_02151_PUMPKIN_000_012,(-？？？？-)呼呼……呼呼……<hex:02100103>……煩惱的人啊，來這邊。
-58,TEXT_FESHLW203_02151_GODRIQUELAIN_000_013,……啊？我沒說話啊，<hex:02100103>而且我也沒聽到什麼聲音……<hex:02100103>唉，怎麼才能抵抗變身呢……
-59,TEXT_FESHLW203_02151_GODRIQUELAIN_000_014,唉，怎麼才能抵抗變身呢……
-60,TEXT_FESHLW203_02151_PUMPKIN_000_020,呼呼……呼呼……你又有煩心事了吧。<hex:02100103>不要煩惱，我把這個借給你……
-61,TEXT_FESHLW203_02151_PUMPKIN_100_020,這<hex:022811FF0A>EventItem<hex:F61E8BE90103>是一把魔法掃帚。<hex:02100103>不管是討厭的事、想要忘記的回憶，還是變身魔法，<hex:02100103>它都可以統統掃乾淨，是一把非常非常愛乾淨的掃帚。
-62,TEXT_FESHLW203_02151_PUMPKIN_000_021,騎上掃帚的話可以使用「清掃魔咒」。<hex:02100103>將這種魔咒施加在魔物身上，哎呀呀好神奇，<hex:02100103>魔物忽然就沒法使用變身魔法了。
-63,TEXT_FESHLW203_02151_PUMPKIN_000_022,好了，你快騎上<hex:022811FF0A>EventItem<hex:F61E8BE90103>吧。<hex:02100103>不過話說回來，竟然想要變身成魔物……<hex:02100103>小孩子還真是有意思……呼呼……
-64,TEXT_FESHLW203_02151_PUMPKIN_000_023,你想再次騎上<hex:022811FF0A>EventItem<hex:F61E8BE90103>？<hex:02100103>好啊，請……呼呼……
-65,TEXT_FESHLW203_02151_CIRCUSMEMBERA02151_000_030,稍微等一下下哦。<hex:02100103>我現在就給你變身！
-66,TEXT_FESHLW203_02151_CHILDA02151_000_031,哇、哇，快點讓我變身！
-67,TEXT_FESHLW203_02151_CIRCUSMEMBERA02151_000_032,那麼來了！嗯……好奇怪啊……<hex:02100103>咦……使不出變身魔法了？！<hex:02100103>可惡，暫時撤退！
-68,TEXT_FESHLW203_02151_CHILDA02151_000_033,咦……明明要讓我變身的，怎麼走了啊。<hex:02100103>嘁，真沒勁！<hex:02100103>反正也沒事幹，回去好了。
-69,TEXT_FESHLW203_02151_CIRCUSMEMBERB02151_000_034,抱歉讓你久等了！<hex:02100103>我馬上給你化妝哦！
-70,TEXT_FESHLW203_02151_CHILDB02151_000_035,喂喂，還沒好嗎？<hex:02100103>我都累了。
-71,TEXT_FESHLW203_02151_CIRCUSMEMBERB02151_000_036,那麼，我這就……咦、咦，怎麼使不出魔法……<hex:02100103>抱、抱歉……我下次再給你化妝！
-72,TEXT_FESHLW203_02151_CHILDB02151_000_037,哎，讓我等那麼久，你怎麼就這麼走了啊？！<hex:02100103>真是的，我還是放了別人的鴿子過來的……
-73,TEXT_FESHLW203_02151_CIRCUSMEMBERC02151_000_038,好，我這就給你變身！
-74,TEXT_FESHLW203_02151_CHILDC02151_000_039,哇，好期待哦！
-75,TEXT_FESHLW203_02151_CIRCUSMEMBERC02151_000_040,那麼這就來了……嘿！<hex:02100103>……咦，使不出魔法？！<hex:02100103>……團、團長大人！
-76,TEXT_FESHLW203_02151_CHILDC02151_000_041,喂，馬戲團的人！別走啊！<hex:02100103>走掉了……白高興一場了。
-77,TEXT_FESHLW203_02151_CIRCUSMEMBERD02151_000_042,別著急，馬上就開始了哦。<hex:02100103>不過話說回來，最近的小孩子還真是不懂禮貌……
-78,TEXT_FESHLW203_02151_CHILDD02151_000_043,喂，還不能變身嗎？<hex:02100103>我可是很忙的，你動作能快點嗎？
-79,TEXT_FESHLW203_02151_CIRCUSMEMBERD02151_000_044,讓你久等了，那麼開始了哦！<hex:02100103>……咦、咦，好奇怪……使不出魔法？<hex:02100103>……對、對不起！！
-80,TEXT_FESHLW203_02151_CHILDD02151_000_045,喂，等一下啊！<hex:02100103>……怎麼回事啊，原來說能變身全是騙人的啊。<hex:02100103>賠我寶貴的時間！
-81,TEXT_FESHLW203_02151_CIRCUSMEMBERE02151_000_046,好了好了，待會就會給你糖果的！<hex:02100103>等你變身後一定會給的！<hex:02100103>……這孩子是多喜歡糖果啊。
-82,TEXT_FESHLW203_02151_CHILDA02151_000_047,喂，快點給我糖果嘛！<hex:02100103>糖果！糖果！糖果果！！
-83,TEXT_FESHLW203_02151_CIRCUSMEMBERE02151_000_048,那麼我要施加魔法了哦！<hex:02100103>……咦，魔法……使不出？<hex:02100103>……糖、糖果還是等下次吧！
-84,TEXT_FESHLW203_02151_CHILDA02151_000_049,怎麼這樣！<hex:02100103>你不是說了會給我糖果的嘛！<hex:02100103>唉……我還是回家吃糖果吧。
-85,TEXT_FESHLW203_02151_CIRCUSMEMBERF02151_000_050,那麼，我這就施加變身魔咒，請稍等一下哦。<hex:02100103>……哎，最近的孩子都這麼早熟嗎？<hex:02100103>真希望有誰能代替我……
-86,TEXT_FESHLW203_02151_CHILDF02151_000_051,我是來確認一下是不是真的可以變身。<hex:02100103>你快施加魔法吧。
-87,TEXT_FESHLW203_02151_CIRCUSMEMBERF02151_000_052,讓你久等了，那麼這就開始施加魔咒……<hex:02100103>咦……怎麼使不出來？<hex:02100103>……非常抱歉，我下次再給你表演！
-88,TEXT_FESHLW203_02151_CHILDF02151_000_053,……果然是虛張聲勢。<hex:02100103>怎麼可能變身嘛。<hex:02100103>算了，反正也是為了招攬客人才撒的謊吧。
-89,TEXT_FESHLW203_02151_GODRIQUELAIN_100_050,……什麼？！你已經把奇術師都趕跑了？！<hex:02100103>到、到底什麼時候做的啊……<hex:02100103>真是厲害，果然能幹的冒險者就是不一樣……
-90,TEXT_FESHLW203_02151_GODRIQUELAIN_100_051,啊，對了，這位女性的女兒失蹤了。<hex:02100103>考慮到林場水車的事，<hex:02100103>很有可能是已經被那些傢伙變成了魔物。
-91,TEXT_FESHLW203_02151_PARENTMIQOTE02151_100_051,我是和女兒一起從烏爾達哈過來玩的，<hex:02100103>沒想到卻發生了這種事……
-92,TEXT_FESHLW203_02151_GODRIQUELAIN_100_052,必須得找到她的女兒，解除變身……<hex:02100103>不過，已經沒有<hex:022811FF0A>EventItem<hex:F61E8BE80103>了吧？<hex:02100103>……嗯，得想想解決辦法。
-93,TEXT_FESHLW203_02151_GODRIQUELAIN_100_053,你能去和之前那個南瓜頭談談嗎？<hex:02100103>要是能再要到那種餅乾的話也行啊……<hex:02100103>拜託你去試試吧！
-94,TEXT_FESHLW203_02151_GODRIQUELAIN_100_054,你能去和之前那個南瓜頭談談嗎？<hex:02100103>要是能再要到那種餅乾的話也行啊……<hex:02100103>拜託你去試試吧！
-95,TEXT_FESHLW203_02151_PUMPKIN_000_060,呼呼……呼呼……<hex:02100103>好不容易掃乾淨了變身魔法，<hex:02100103>你怎麼又在煩惱呀？
-96,TEXT_FESHLW203_02151_PUMPKIN_000_061,……原來是有孩子被變成了魔物啊。<hex:02100103>不過……那種餅乾只有在被施加魔法之後立刻吃下去才有用。
-97,TEXT_FESHLW203_02151_PUMPKIN_000_062,而我已經把餅乾全都給你了，<hex:02100103>現在也沒有時間重新烤……<hex:02100103>對了，那這樣吧。
-98,TEXT_FESHLW203_02151_PUMPKIN_000_063,你把這把掃帚……這把<hex:022811FF0A>EventItem<hex:F61E8BE90103>燒掉，<hex:02100103>然後用燒成的灰撒在變身的孩子身上，<hex:02100103>這樣那孩子就能恢復原樣了。
-99,TEXT_FESHLW203_02151_PUMPKIN_000_064,不過，這樣的話這把掃帚就沒法再用了。<hex:02100103>你確定要這麼做嗎？
-100,TEXT_FESHLW203_02151_CHOICE2Q1_100_0,要燒掉<hex:022811FF0A>EventItem<hex:F61E8BE90103>嗎？
-101,TEXT_FESHLW203_02151_CHOICE2A1_101_0,是
-102,TEXT_FESHLW203_02151_CHOICE2A2_102_0,否
-103,TEXT_FESHLW203_02151_PUMPKIN_000_065,這樣啊……那你就不要指望那孩子恢復原樣了。<hex:02100103>就讓她以魔物的身份活下去吧。<hex:02100103>呼呼……呼呼……
-104,TEXT_FESHLW203_02151_PUMPKIN_000_066,……我明白了，那你把這掃帚拿去吧。<hex:02100103>希望一切能順利……呼呼……
-105,TEXT_FESHLW203_02151_SYSTEM_100_070,<hex:022811FF0A>EventItem<hex:F61E8BE90103>瞬間燒成了灰燼……<hex:02100103>尋找變身成魔物的孩子，將掃帚的灰燼撒在她身上。
-106,TEXT_FESHLW203_02151_GUARDIAN02151_000_070,我們為孩子們準備了取暖的地方。
-107,TEXT_FESHLW203_02151_CHILDMIQOTE02151_000_080,啊，我說了我真的不是魔物嘛！<hex:02100103>我不會襲擊人的，誰能來幫幫我啊！
-108,TEXT_FESHLW203_02151_CHILDMIQOTE02151_000_081,<hex:020819E905FF0A>大姐姐<hex:FF0A>大哥哥<hex:03>，你不怕我嗎？<hex:02100103>咦？可以讓我恢復原樣？！
-109,TEXT_FESHLW203_02151_CHILDMIQOTE02151_000_082,啊！解除變身了！<hex:02100103>太好了、太好了！
-110,TEXT_FESHLW203_02151_CHILDMIQOTE02151_000_083,……嗯，也讓媽媽擔心了！<hex:02100103>我這就回去！<hex:02100103>謝謝你，<hex:020819E905FF0A>大姐姐<hex:FF0A>大哥哥<hex:03>！
-111,TEXT_FESHLW203_02151_CHILDMIQOTE02151_100_090,啊，剛剛那位<hex:020819E905FF0A>大姐姐<hex:FF0A>大哥哥<hex:03>！<hex:02100103>非常感謝你的幫助！
-112,TEXT_FESHLW203_02151_PARENTMIQOTE02151_000_090,這孩子給你添了那麼多麻煩，實在是很不好意思……<hex:02100103>開始我以為真的沒辦法了呢，<hex:02100103>她能回來真是多虧了你的幫助，太謝謝你了。
-113,TEXT_FESHLW203_02151_PARENTMIQOTE02151_000_091,……還有你，怎麼能那麼不懂事！<hex:02100103>都說了多少次不能跟不認識的人走！
-114,TEXT_FESHLW203_02151_CHILDMIQOTE02151_000_092,對、對不起……
-115,TEXT_FESHLW203_02151_CHILDMIQOTE02151_000_093,剛變身的時候我還是很開心的，<hex:02100103>可是過了好久都沒有變回來，我就開始害怕了……<hex:02100103><hex:020819E905FF0A>大姐姐<hex:FF0A>大哥哥<hex:03>，真是謝謝你了！
-116,TEXT_FESHLW203_02151_IMPHEAD_000_094,……為什麼變身的魔法被解除了呢？
-117,TEXT_FESHLW203_02151_WITCH02150_000_095,我、我也不知道是怎麼回事……<hex:02100103>……難、難道說有人察覺到了我們的計劃？！
-118,TEXT_FESHLW203_02151_IMPHEAD_000_096,嗯……要是這樣的話就不好辦了……<hex:02100103>既然對方知道如何解除變身，<hex:02100103>那麼我們的真實身份可能也已經暴露了……
-119,TEXT_FESHLW203_02151_WITCH02150_100_096,那可不得了……<hex:02100103>我們好不容易才隱瞞住身份的！
-120,TEXT_FESHLW203_02151_WITCH02150_000_097,如果有可以解除變身的人存在，<hex:02100103>那我們要怎麼辦？！
-121,TEXT_FESHLW203_02151_IMPHEAD_000_098,沒辦法了……<hex:02100103>我們只能裝成真正的馬戲團，瞞混過去了。
-122,TEXT_FESHLW203_02151_IMPHEAD_000_099,哎……真是諸事不順啊……
-123,TEXT_FESHLW203_02151_GODRIQUELAIN_000_100,哎呀，那些傢伙還以為自己沒有暴露呢。<hex:02100103>不過這樣一來，那些傢伙也能老實上一段時間了。<hex:02100103>以防萬一，我還是會繼續監視它們的。
-124,TEXT_FESHLW203_02151_PUMPKIN_000_101,呼呼……呼呼……<hex:02100103>變來變去好熱鬧啊。<hex:02100103>這樣一來，守護天節就可以迎來愉快的夜晚了。
-125,TEXT_FESHLW203_02151_PUMPKIN_100_101,我就把這把掃帚，送給守護了愉快夜晚的你……<hex:02100103>這樣一來，天上也會變得熱鬧起來了呢……呼呼……
+0,"TEXT_FESHLW203_02151_SEQ_00","The investigator appears to have new information concerning the Continental Circus's mischief.<hex:02100103>※This quest is available for a limited time only."
+1,"TEXT_FESHLW203_02151_SEQ_01","The investigator shares with you the reports of his fellows in the Central Shroud─it would appear that the Continental Circus's wicked scheme was not restricted to Hyrstmill. Make your way to Bentbranch Meadows, and rendezvous with the Adventurers' Guild investigator.<hex:02100103><hex:02100103>※Please note that you will be unable to complete this quest after the seasonal event has ended. For details, please check the Lodestone."
+2,"TEXT_FESHLW203_02151_SEQ_02","You join the investigator in Bentbranch, and he grimly explains the situation. Though no children have yet been transformed, it will only be a matter of time before they fall prey to the charms─and curses─of the wily imps. Even as the adventurer contemplates a means by which you might shield the younglings from the illusionists' sinister spells, you hear a voice beckoning you hither. Leave the investigator to his desperate deliberations, and search for the owner of the disembodied voice."
+3,"TEXT_FESHLW203_02151_SEQ_03","You locate the owner of the voice─the pumpkin-headed stranger─and she once more provides a solution to your occult quandary. She offers you the use of an enchanted broom, whose magic will allow you to sweep away the ability to fling transfiguration curses. Ride the witch's broom around Bentbranch Meadows, and cast Silencing Cant on all the unusual imps you can find."
+4,"TEXT_FESHLW203_02151_SEQ_04","You find all the imps lurking around Bentbranch Meadows, and use the broom's magic to sweep away their power to curse. Report your deed to the Adventurers' Guild investigator."
+5,"TEXT_FESHLW203_02151_SEQ_05","The investigator is impressed by your unexpected solution, but laments that it came too late to save one little girl. Considering the case in Hyrstmill, he muses, it is likely that the missing Miqo'te has already been subjected to a fiendish transformation. Speak with the pumpkin-headed apparition once more, and request another batch of curse-breaking cookies."
+6,"TEXT_FESHLW203_02151_SEQ_06","You bring your request to the pumpkin-headed stranger, and she explains that her cookies must be eaten soon after the transformation takes place to have any effect. She sadly concludes that by the time another batch was baked it would be far too late. It is then that the apparition presents you with another possibility: if you were to burn the witch's broom and sprinkle its ashes over the girl, then the curse would be broken. Look for a fire in which to cast the broom, and then gather its sooty remains."
+7,"TEXT_FESHLW203_02151_SEQ_07","You burn the witch's broom in a convenient campfire, and gather together its precious ashes. Find the transfigured Miqo'te girl, and use the ash to dispel her monstrous visage."
+8,"TEXT_FESHLW203_02151_SEQ_08","You find an imp wailing in distress, and shower the creature with the broom ash. Almost instantly, the little girl is restored to her normal form. Return to the Adventurers' Guild investigator and report your success."
+9,"TEXT_FESHLW203_02151_SEQ_09","You return to the investigator to find a relieved T'danafa reunited with her daughter. She thanks you profusely for rescuing T'maritaa, before turning to scold her wayward child. Meanwhile, the lead conspirators of the Continental Circus begin to suspect that someone has learned the trick of dispelling their transformation magicks. Fearing that their identities will be exposed, they choose to abandon their malefic plot and focus on maintaining their entertainers' masquerade.<hex:02100103><hex:02100103>The pumpkin-headed apparition heralds you as the savior of All Saints' Wake, and rewards you with a new witch's broom. Ride your new prize to the clouds and beyond as you enjoy the remainder of the festival!"
+10,"TEXT_FESHLW203_02151_SEQ_10",""
+11,"TEXT_FESHLW203_02151_SEQ_11",""
+12,"TEXT_FESHLW203_02151_SEQ_12",""
+13,"TEXT_FESHLW203_02151_SEQ_13",""
+14,"TEXT_FESHLW203_02151_SEQ_14",""
+15,"TEXT_FESHLW203_02151_SEQ_15",""
+16,"TEXT_FESHLW203_02151_SEQ_16",""
+17,"TEXT_FESHLW203_02151_SEQ_17",""
+18,"TEXT_FESHLW203_02151_SEQ_18",""
+19,"TEXT_FESHLW203_02151_SEQ_19",""
+20,"TEXT_FESHLW203_02151_SEQ_20",""
+21,"TEXT_FESHLW203_02151_SEQ_21",""
+22,"TEXT_FESHLW203_02151_SEQ_22",""
+23,"TEXT_FESHLW203_02151_SEQ_23",""
+24,"TEXT_FESHLW203_02151_TODO_00","Speak with the Adventurers' Guild investigator at Bentbranch Meadows."
+25,"TEXT_FESHLW203_02151_TODO_01","Locate the source of the disembodied voice."
+26,"TEXT_FESHLW203_02151_TODO_02","Use Silencing Cant on unusual imps."
+27,"TEXT_FESHLW203_02151_TODO_03","Report to the Adventurers' Guild investigator."
+28,"TEXT_FESHLW203_02151_TODO_04","Consult with the pumpkin-headed apparition."
+29,"TEXT_FESHLW203_02151_TODO_05","Burn the witch's broom in the campfire and obtain the broom ash."
+30,"TEXT_FESHLW203_02151_TODO_06","Use the broom ash on the imposing imp."
+31,"TEXT_FESHLW203_02151_TODO_07","Report to the Adventurers' Guild investigator."
+32,"TEXT_FESHLW203_02151_TODO_08",""
+33,"TEXT_FESHLW203_02151_TODO_09",""
+34,"TEXT_FESHLW203_02151_TODO_10",""
+35,"TEXT_FESHLW203_02151_TODO_11",""
+36,"TEXT_FESHLW203_02151_TODO_12",""
+37,"TEXT_FESHLW203_02151_TODO_13",""
+38,"TEXT_FESHLW203_02151_TODO_14",""
+39,"TEXT_FESHLW203_02151_TODO_15",""
+40,"TEXT_FESHLW203_02151_TODO_16",""
+41,"TEXT_FESHLW203_02151_TODO_17",""
+42,"TEXT_FESHLW203_02151_TODO_18",""
+43,"TEXT_FESHLW203_02151_TODO_19",""
+44,"TEXT_FESHLW203_02151_TODO_20",""
+45,"TEXT_FESHLW203_02151_TODO_21",""
+46,"TEXT_FESHLW203_02151_TODO_22",""
+47,"TEXT_FESHLW203_02151_TODO_23",""
+48,"TEXT_FESHLW203_02151_GUARDIAN02151_000_006","The parents all assure me that their little ones are home with them now. What a horrible feeling, thinking that I'd lost them..."
+49,"TEXT_FESHLW203_02151_GODRIQUELAIN_000_000","I've received word from the guild that more wickedness is brewing!"
+50,"TEXT_FESHLW203_02151_GODRIQUELAIN_000_001","We sent people to the Central Shroud to watch for possible mischief, and it's fortunate that we did─they've reported seeing the Circus's illusionists approaching children at Bentbranch Meadows."
+51,"TEXT_FESHLW203_02151_GODRIQUELAIN_000_002","If we leave these fiends to work their vile magicks, yet more innocents may be cursed into monstrous forms! Let us away at once!"
+52,"TEXT_FESHLW203_02151_GUARDIAN02151_000_003","P-Please, I've yet to... That is to say, I was so overcome with relief, I almost forgot to thank you. You've done a wonderful thing this day!"
+53,"TEXT_FESHLW203_02151_GODRIQUELAIN_000_004","All in a day's work, good madam. Pray pass on a message to those younglings: beware the stranger whose words are sweeter than All Saints' treats."
+54,"TEXT_FESHLW203_02151_GODRIQUELAIN_000_005","Now, we really must press on to Bentbranch!"
+55,"TEXT_FESHLW203_02151_GODRIQUELAIN_000_010","The situation is grim, my friend. By my count, there are at least half a dozen of those devilish enchanters prowling about."
+56,"TEXT_FESHLW203_02151_GODRIQUELAIN_000_011","The children, of course, find these affable fiends to be absolutely fascinating─it will be next to impossible to convince the little ones to keep their distance. If only there was some way to shield them from the illusionists' sinister spells..."
+57,"TEXT_FESHLW203_02151_PUMPKIN_000_012","(-Disembodied Voice-)Heh heh heh... Come to me, troubled soul."
+58,"TEXT_FESHLW203_02151_GODRIQUELAIN_000_013","...Hm? Nay, I heard no voice. I fear I am deaf to all but the rising panic within my mind..."
+59,"TEXT_FESHLW203_02151_GODRIQUELAIN_000_014","We must find a way to protect the younglings... A talisman of some kind? Nay, there is not the time to craft them..."
+60,"TEXT_FESHLW203_02151_PUMPKIN_000_020","Heh heh heh... Once again I find you plagued with worry, and that will not do. That will not do at all. Here, you must take this."
+61,"TEXT_FESHLW203_02151_PUMPKIN_100_020","'Tis an enchanted broom. If you so command, it will sweep away whatever you desire: a bad memory, a nagging doubt, the ability to cast a particular spell..."
+62,"TEXT_FESHLW203_02151_PUMPKIN_000_021","All you need do is sit astride the handle, and its special cant will be yours to intone. Cast the cant on an imp, for instance, and poof! No more transfiguration curses!"
+63,"TEXT_FESHLW203_02151_PUMPKIN_000_022","Hop on, then, and off you go! ...Ah, children─so eager to become the things that grown men are wont to fear. Such odd little creatures."
+64,"TEXT_FESHLW203_02151_PUMPKIN_000_023","You wish to ride the broom again? Heh heh heh... Be my guest!"
+65,"TEXT_FESHLW203_02151_CIRCUSMEMBERA02151_000_030","Just a moment more, then I will help you into your new, uh, costume!"
+66,"TEXT_FESHLW203_02151_CHILDA02151_000_031","Hurry, hurry! I want to go scare my sister!"
+67,"TEXT_FESHLW203_02151_CIRCUSMEMBERA02151_000_032","Now, child, hold very still...<hex:02100103>Hm? My magic!? Why isn't it working!? Curses and calamities! Y-You haven't seen the last of me!"
+68,"TEXT_FESHLW203_02151_CHILDA02151_000_033","Hey! What about my costume!? Hmph. I guess I'll just go home..."
+69,"TEXT_FESHLW203_02151_CIRCUSMEMBERB02151_000_034","Here we are: a nice secluded spot."
+70,"TEXT_FESHLW203_02151_CHILDB02151_000_035","Can I have my costume now? I'm tired of walkin'..."
+71,"TEXT_FESHLW203_02151_CIRCUSMEMBERB02151_000_036","Your wish is my command! Aaand...hah! Huh? Did I flick my wrist the wrong way? Um, we'll try this again later, okay?"
+72,"TEXT_FESHLW203_02151_CHILDB02151_000_037","Wait! But you said... Great, now I've shirked my chores for nothin'."
+73,"TEXT_FESHLW203_02151_CIRCUSMEMBERC02151_000_038","Are you ready for your costume now?"
+74,"TEXT_FESHLW203_02151_CHILDC02151_000_039","Yay! Yes, please!"
+75,"TEXT_FESHLW203_02151_CIRCUSMEMBERC02151_000_040","Very well. Witness your new form, and despair! Ahem, I said DESPAIR! ...Er, a little help, Impresario? IMPRESARIO!"
+76,"TEXT_FESHLW203_02151_CHILDC02151_000_041","Mister Imp, where are you going!? ...Oh, he's gone. What a strange little monster."
+77,"TEXT_FESHLW203_02151_CIRCUSMEMBERD02151_000_042","Yes, yes, all will soon be in readiness. You would do well to show some humility before a denizen of the void, child..."
+78,"TEXT_FESHLW203_02151_CHILDD02151_000_043","Where. Is. My. Costume!? I'm going to be late for the festival!"
+79,"TEXT_FESHLW203_02151_CIRCUSMEMBERD02151_000_044","Writhe under my eternal curse, mortal!<hex:02100103>I... Why are you not writhing? Did the spell backfire? Oh, the embarrassment!"
+80,"TEXT_FESHLW203_02151_CHILDD02151_000_045","Wha─ Hey, come back here! You said you could do magic! Hmph. What a waste of time."
+81,"TEXT_FESHLW203_02151_CIRCUSMEMBERE02151_000_046","You'll have your treats soon enough, child─<hex:021A020203>after<hex:021A020103> we complete your transformation."
+82,"TEXT_FESHLW203_02151_CHILDA02151_000_047","Where are the sweets you promised me? Sweets! Sweets! <hex:021A020203>Sweeeeeets<hex:021A020103>!"
+83,"TEXT_FESHLW203_02151_CIRCUSMEMBERE02151_000_048","Right! Let's dress you up for the celebrations, shall we?<hex:02100103>...Wait, why can't I─ Oh dear. I'll just...go fetch your sweets!"
+84,"TEXT_FESHLW203_02151_CHILDA02151_000_049","Okay! Don't be long!<hex:02100103>...I don't think he's coming back."
+85,"TEXT_FESHLW203_02151_CIRCUSMEMBERF02151_000_050","I shall now harness my dark energies! Your transformation is at hand!"
+86,"TEXT_FESHLW203_02151_CHILDF02151_000_051","Can you really change me into a monster? This better not be a trick!"
+87,"TEXT_FESHLW203_02151_CIRCUSMEMBERF02151_000_052","Behold! The sinister power...of...the...void? Hmmm. I may have to work my magic on you another time!"
+88,"TEXT_FESHLW203_02151_CHILDF02151_000_053","I knew it. It's all fake. These performers are just putting on a show to draw in the crowds..."
+89,"TEXT_FESHLW203_02151_GODRIQUELAIN_100_050","You...what!? The illusionists are gone from Bentbranch!? I don't know how you chased off those imps without drawing a blade, but consider me duly impressed."
+90,"TEXT_FESHLW203_02151_GODRIQUELAIN_100_051","I am afraid that your actions, however, may have come too late for poor T'danafa here─her young daughter has gone missing. Considering the case in Hyrstmill, we must consider the possibility that the girl has fallen victim to the Circus imps and their transformation magicks."
+91,"TEXT_FESHLW203_02151_PARENTMIQOTE02151_100_051","My daughter and I journeyed here from Ul'dah, thinking we might celebrate All Saints' Wake in Gridania for a change. This “transformation” you speak of was not the kind of change we were looking for..."
+92,"TEXT_FESHLW203_02151_GODRIQUELAIN_100_052","We must track down this missing Miqo'te lass, and break the curse upon her. Ah, if only you had some more of those special cookies..."
+93,"TEXT_FESHLW203_02151_GODRIQUELAIN_100_053","Might you try speaking with that pumpkin-headed stranger again? Perhaps she could provide you with another batch of baked miracles..."
+94,"TEXT_FESHLW203_02151_GODRIQUELAIN_100_054","Even should we manage to locate the missing lass, we have no way of returning her to her normal form. Pray speak with the pumpkin-headed stranger once more, and prevail upon her to bake another batch of those curse-breaking cookies!"
+95,"TEXT_FESHLW203_02151_PUMPKIN_000_060","Heh heh heh... You have swept this place clean of curse-flinging imps, and still your face is as dark as an autumn storm. What more is there to be done?"
+96,"TEXT_FESHLW203_02151_PUMPKIN_000_061","...Ah, so the Circus claimed a victim here after all. As for my cookies, well, they must be eaten soon after the transformation takes place, or their meager magicks will have no effect."
+97,"TEXT_FESHLW203_02151_PUMPKIN_000_062","Unfortunately, the three cookies I gave you were all I had left, and by the time I baked more it would be too late for the girl. Such is the fickle nature of counter-spells. But there is another way..."
+98,"TEXT_FESHLW203_02151_PUMPKIN_000_063","The curse can also be broken by burning this witch's broom and sprinkling the ash on the transfigured child."
+99,"TEXT_FESHLW203_02151_PUMPKIN_000_064","...This means, of course, that you will never be able to ride the broom again. Are you willing to make that sacrifice?"
+100,"TEXT_FESHLW203_02151_CHOICE2Q1_100_0","Will you burn the broom?"
+101,"TEXT_FESHLW203_02151_CHOICE2A1_101_0","Yes."
+102,"TEXT_FESHLW203_02151_CHOICE2A2_102_0","No."
+103,"TEXT_FESHLW203_02151_PUMPKIN_000_065","Then you'd best forget about breaking the curse. I hope the little girl enjoys her new life as a hideous fiend..."
+104,"TEXT_FESHLW203_02151_PUMPKIN_000_066","Then take it. Find a nice, hot fire, and cast the broom into the flames!"
+105,"TEXT_FESHLW203_02151_SYSTEM_100_070","The witch's broom immediately catches fire and burns down to ash within moments."
+106,"TEXT_FESHLW203_02151_GUARDIAN02151_000_070","I thought we'd make a nice cheery fire for the children. Lovely and warm!"
+107,"TEXT_FESHLW203_02151_CHILDMIQOTE02151_000_080","<sob> ...But I don't want to be a monster forever! Someone, please, help me!"
+108,"TEXT_FESHLW203_02151_CHILDMIQOTE02151_000_081","You... You're not afraid of me? Are you going to change me back!?"
+109,"TEXT_FESHLW203_02151_CHILDMIQOTE02151_000_082","You did it! I'm not a horrible, scaly <hex:021A020203>thing<hex:021A020103> anymore!"
+110,"TEXT_FESHLW203_02151_CHILDMIQOTE02151_000_083","...Oh gods, my mother must be so angry! I have to go find her! Thank you so much, <hex:020811E905FF05>miss<hex:FF07>mister<hex:03>!"
+111,"TEXT_FESHLW203_02151_CHILDMIQOTE02151_100_090","Oh, it's the nice <hex:02080EE905FF05>lady<hex:FF04>man<hex:03> with the magic dust!"
+112,"TEXT_FESHLW203_02151_PARENTMIQOTE02151_000_090","After hearing your tales I was frantic, thinking I'd never have my darling T'maritaa back again...but here she is, safe and sound. You have my eternal gratitude."
+113,"TEXT_FESHLW203_02151_PARENTMIQOTE02151_000_091","...And as for you, young lady! How many times have I told you not to wander off with strange beings from the void!?"
+114,"TEXT_FESHLW203_02151_CHILDMIQOTE02151_000_092","I'm sorry, Mother..."
+115,"TEXT_FESHLW203_02151_CHILDMIQOTE02151_000_093","It seemed like such a good idea to be turned into a monster, and it <hex:021A020203>was<hex:021A020103> really fun at first... But when I didn't change back, I thought I'd be stuck in that ugly body for the rest of my life. Thank you again for saving me!"
+116,"TEXT_FESHLW203_02151_IMPHEAD_000_094","Why have our curses failed to take hold?"
+117,"TEXT_FESHLW203_02151_WITCH02150_000_095","I cannot understand it, Impresario... Could it be that someone has caught wind of our true intentions!?"
+118,"TEXT_FESHLW203_02151_IMPHEAD_000_096","Hmmm... A troublesome thought. And if this meddler has learned the secret of dispelling our transfiguration magicks, then our true identities are at risk..."
+119,"TEXT_FESHLW203_02151_WITCH02150_100_096","But we've been so clever with our deceit!"
+120,"TEXT_FESHLW203_02151_WITCH02150_000_097","If there truly is someone who can undo our transformations, then what is to become of our carefully laid plans!? What of the Night of Devilry!?"
+121,"TEXT_FESHLW203_02151_IMPHEAD_000_098","I am afraid it is not to be. We must exercise caution, and spend the remainder of All Saints' Wake maintaining our entertainers' masquerade."
+122,"TEXT_FESHLW203_02151_IMPHEAD_000_099","<sigh> Another year, another failure..."
+123,"TEXT_FESHLW203_02151_GODRIQUELAIN_000_100","...Do they honestly believe they've kept their true nature a secret? Well, at least they'll be causing decidedly less trouble for the time being. Not that I won't be keeping an eye on them, of course!"
+124,"TEXT_FESHLW203_02151_PUMPKIN_000_101","Heh heh heh... Betwixt monstrous children and childish monsters, it has been a tempestuous time indeed. At last, however, it seems that we might pass All Saints' Wake with laughter and revelry rather than screams and horror."
+125,"TEXT_FESHLW203_02151_PUMPKIN_100_101","For your part in this, our All Saints' savior, you must have a reward.<hex:02100103>Even the heavens will not be spared the heights of this celebration..."

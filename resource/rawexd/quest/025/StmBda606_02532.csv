@@ -2,85 +2,85 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_STMBDA606_02532_SEQ_00,勇巢的伐折羅在等待冒險者等人做好準備。
-1,TEXT_STMBDA606_02532_SEQ_01,越過威羅迪納基地後，冒險者一行來到了對等石。這時，傳來了阿難陀族的伽黎亞派請神的消息。決定在拂曉的同伴和毗羅派的阿難陀族的協助下，對此展開應對。前往基拉巴尼亞邊區的真諦之路，和伐折羅談談。
-2,TEXT_STMBDA606_02532_SEQ_02,伐折羅告訴了冒險者前往地下神殿的方法。和位於基拉巴尼亞邊區天母寢宮的<hex:02280CFF05>EObj<hex:F61EA4880103>共鳴。
-3,TEXT_STMBDA606_02532_SEQ_03,和<hex:02280CFF05>EObj<hex:F61EA4880103>進行了共鳴。立刻前往天母寢宮地下祭壇。
-4,TEXT_STMBDA606_02532_SEQ_04,和美神吉祥天女進行了交流。和天母寢宮地下祭壇的阿莉塞談談。
-5,TEXT_STMBDA606_02532_SEQ_05,懷揣著阿莉塞託付的思念，討伐美神吉祥天女，斬斷悲劇的鎖鏈！<hex:02100103><hex:02100103>※可以通過任務搜尋器參加。
-6,TEXT_STMBDA606_02532_SEQ_06,成功討伐了吉祥天女。回到基拉巴尼亞邊區，和同伴們匯合。
-7,TEXT_STMBDA606_02532_SEQ_07,被伽黎亞派趕了出來，離開了地下神殿。和真諦之路的莉瑟談談。
-8,TEXT_STMBDA606_02532_SEQ_08,和莉瑟進行了交談。雖然沒有完全和伽黎亞派和解，但是毗羅派暫時也能確保安全了。不知何時才能迎來兩派之間的和解……
-9,TEXT_STMBDA606_02532_SEQ_09,
-10,TEXT_STMBDA606_02532_SEQ_10,
-11,TEXT_STMBDA606_02532_SEQ_11,
-12,TEXT_STMBDA606_02532_SEQ_12,
-13,TEXT_STMBDA606_02532_SEQ_13,
-14,TEXT_STMBDA606_02532_SEQ_14,
-15,TEXT_STMBDA606_02532_SEQ_15,
-16,TEXT_STMBDA606_02532_SEQ_16,
-17,TEXT_STMBDA606_02532_SEQ_17,
-18,TEXT_STMBDA606_02532_SEQ_18,
-19,TEXT_STMBDA606_02532_SEQ_19,
-20,TEXT_STMBDA606_02532_SEQ_20,
-21,TEXT_STMBDA606_02532_SEQ_21,
-22,TEXT_STMBDA606_02532_SEQ_22,
-23,TEXT_STMBDA606_02532_SEQ_23,
-24,TEXT_STMBDA606_02532_TODO_00,和伐折羅對話
-25,TEXT_STMBDA606_02532_TODO_01,和<hex:02280CFF05>EObj<hex:F61EA4880103>共鳴
-26,TEXT_STMBDA606_02532_TODO_02,和<hex:02280CFF05>EObj<hex:F61EA4880103>共鳴
-27,TEXT_STMBDA606_02532_TODO_03,和阿莉塞對話
-28,TEXT_STMBDA606_02532_TODO_04,討伐蠻神吉祥天女
-29,TEXT_STMBDA606_02532_TODO_05,討伐蠻神吉祥天女
-30,TEXT_STMBDA606_02532_TODO_06,和莉瑟對話
-31,TEXT_STMBDA606_02532_TODO_07,
-32,TEXT_STMBDA606_02532_TODO_08,
-33,TEXT_STMBDA606_02532_TODO_09,
-34,TEXT_STMBDA606_02532_TODO_10,
-35,TEXT_STMBDA606_02532_TODO_11,
-36,TEXT_STMBDA606_02532_TODO_12,
-37,TEXT_STMBDA606_02532_TODO_13,
-38,TEXT_STMBDA606_02532_TODO_14,
-39,TEXT_STMBDA606_02532_TODO_15,
-40,TEXT_STMBDA606_02532_TODO_16,
-41,TEXT_STMBDA606_02532_TODO_17,
-42,TEXT_STMBDA606_02532_TODO_18,
-43,TEXT_STMBDA606_02532_TODO_19,
-44,TEXT_STMBDA606_02532_TODO_20,
-45,TEXT_STMBDA606_02532_TODO_21,
-46,TEXT_STMBDA606_02532_TODO_22,
-47,TEXT_STMBDA606_02532_TODO_23,
-48,TEXT_STMBDA606_02532_ALISAIE_000_001,一想起嘎埠，我就……覺得自己必須要做點什麼。
-49,TEXT_STMBDA606_02532_ALPHINAUD_000_005,祈求死去的女兒復活的伽黎亞族長，<hex:02100103>還有祈求與死去父母再會的嘎埠……<hex:02100103>這次的事總會讓人想起當時在奧·哥摩羅發生的事情。
-50,TEXT_STMBDA606_02532_LYSE_000_010,阿莉塞那熾熱的情感也感染了我，<hex:02100103>自然而然地就鬥志高昂起來。
-51,TEXT_STMBDA606_02532_VAJRA_000_020,嘶——看來你已經準備好了。<hex:02100103>那我們這就出發吧。
-52,TEXT_STMBDA606_02532_VAJRA_000_021,供奉美神吉祥天女的地下神殿，<hex:02100103>在伽黎亞派的據點天母寢宮內部。<hex:02100103>我來給你們帶路吧……
-53,TEXT_STMBDA606_02532_ALISAIE_000_025,順利接近目的地了。<hex:02100103>希望接下來也能順順利利的……
-54,TEXT_STMBDA606_02532_ALPHINAUD_000_030,我想盡量避免和阿難陀族交戰。<hex:02100103>說到底，這次的目的只是處理蠻神的問題……
-55,TEXT_STMBDA606_02532_LYSE_000_035,就交給我來支援阿爾菲諾和阿莉塞吧。<hex:02100103>你就做好和吉祥天女戰鬥的準備，<hex:02100103>盡量保存體力。
-56,TEXT_STMBDA606_02532_VAJRA_000_040,嘶——繼續向東前進，<hex:02100103>就能看到建在高台上的巨大建築物。<hex:02100103>那就是天母寢宮。
-57,TEXT_STMBDA606_02532_VAJRA_000_041,可以利用入口處的乙太之光傳送到地下神殿。<hex:02100103>人類之子應該也是可以使用的。
-58,TEXT_STMBDA606_02532_ALPHINAUD_000_042,明白了，非常感謝你為我們帶路。<hex:02100103>那麼各位……我們就一鼓作氣，接近天母寢宮，<hex:02100103>使用天母乙太之光突破進去！
-59,TEXT_STMBDA606_02532_VAJRA_000_050,可以利用入口處的乙太之光傳送到地下神殿。<hex:02100103>人類之子應該也是可以使用的。
-60,TEXT_STMBDA606_02532_ALPHINAUD_000_070,阿莉塞衝出來的時候嚇得我心臟都要停止了。<hex:02100103>多虧有你在……謝謝了。
-61,TEXT_STMBDA606_02532_LYSE_000_075,難道就沒有什麼方法能夠讓我們避免被精煉嘛。<hex:02100103>要是有的話就能跟你一起痛快戰鬥了！
-62,TEXT_STMBDA606_02532_ALISAIE_000_080,抱歉，我太亂來了……<hex:02100103>因為我無論如何都想告訴伽黎亞族長，<hex:02100103>不要再依賴於蠻神了。
-63,TEXT_STMBDA606_02532_ALISAIE_000_081,（★未使用／削除予定★）
-64,TEXT_STMBDA606_02532_ALISAIE_000_082,但是……好不甘心，我的話語沒能傳達到。<hex:02100103>沒能改變伽黎亞族長的想法……
-65,TEXT_STMBDA606_02532_ALISAIE_000_083,（★未使用／削除予定★）
-66,TEXT_STMBDA606_02532_Q1_000_150,要對她說什麼？
-67,TEXT_STMBDA606_02532_A1_000_151,阿莉塞，就交給我吧！
-68,TEXT_STMBDA606_02532_A1_000_152,阿莉塞說得對！
-69,TEXT_STMBDA606_02532_A1_000_153,最終只能去討伐蠻神了
-70,TEXT_STMBDA606_02532_ALISAIE_000_084,<hex:022903EB0203>……謝謝你……
-71,TEXT_STMBDA606_02532_ALISAIE_100_084,<hex:022903EB0203>……謝謝你……<hex:02100103>可是最終，我們還是要依靠你的力量……
-72,TEXT_STMBDA606_02532_ALISAIE_200_084,是啊……但是，這都多少次了……<hex:02100103>最後還是只能依靠擁有超越之力的你。<hex:02100103>真的是十分抱歉……
-73,TEXT_STMBDA606_02532_ALISAIE_300_084,不過，一定也有我能夠做到的事……<hex:02100103>在你和美神戰鬥的期間，我會和阿爾菲諾還有莉瑟一起，<hex:02100103>處理阿難陀族儲備的水晶。
-74,TEXT_STMBDA606_02532_ALISAIE_400_084,所以拜託了……<hex:02100103>請你、請你一定要活著回來！
-75,TEXT_STMBDA606_02532_ALISAIE_000_085,我會和阿爾菲諾還有莉瑟一起處理掉儲備的水晶。<hex:02100103>為了防止美神被你打倒之後再被召喚出來。
-76,TEXT_STMBDA606_02532_SCENE00015_EVENTAREA_WARP_YESNO_TITLE,要前往天母寢宮地下祭壇嗎？
-77,TEXT_STMBDA606_02532_ALPHINAUD_000_110,我們已經把阿難陀族儲備的水晶處理了。<hex:02100103>雖然阿莉塞的手段有點野蠻……
-78,TEXT_STMBDA606_02532_ALISAIE_000_115,……辛苦了。<hex:02100103>我很高興能看到你平安回來。
-79,TEXT_STMBDA606_02532_VAJRA_000_120,嘶——看你遲遲不回，我還有些擔心。<hex:02100103>能夠再次看到活著的你，我很開心。
-80,TEXT_STMBDA606_02532_LYSE_000_130,這樣一來，毗羅派暫時也能安全了……
-81,TEXT_STMBDA606_02532_LYSE_000_131,為了今後不再重覆發生這種悲劇，<hex:02100103>我們也要把帝國軍從基拉巴尼亞趕出去……<hex:02100103>我會加油的，<hex:022903EB0203>！
+0,"TEXT_STMBDA606_02532_SEQ_00","Vajra is ready to guide you to Djanan Qhat."
+1,"TEXT_STMBDA606_02532_SEQ_01","Upon witnessing her daughter's death at the hands of Fordola and her Skulls, the Qalyana broodmother cried out to the heavens in despair...and a primal answered. Sri Lakshmi, patron deity of the Ananta, came forth from the aether, and the imperials were put to flight. Alas, the tale did not end there, for now the Qalyana demand that the Vira come and pay tribute to the goddess. And so it falls to you and your comrades to journey unto the Qalyana stronghold of Djanan Qhat, where Sri Lakshmi now holds court."
+2,"TEXT_STMBDA606_02532_SEQ_02","Vajra leads you to the edge of the Qalyana settlement and tells you of the aetheryte within, which will deliver you to the heart of Djanan Qhat. However, given what they have heard of the primal's reclusive behavior, your comrades have expressed reservations. Must all primals be slain? Are they truly beyond reason?"
+3,"TEXT_STMBDA606_02532_SEQ_03","Fortunately, as is often the case, simply attuning with the aetheryte is enough to grant you and your comrades access to the inner sanctum. Caution is the order of the day, and so you will refrain from a direct assault and instead attempt to gain a better understanding of the situation surreptitiously."
+4,"TEXT_STMBDA606_02532_SEQ_04","You look on in silence as Sri Lakshmi impassively explains to the distraught Qalyana broodmother that while her daughter's flesh has been restored to life, her soul is forever lost. Watching the forlorn spectacle, you are reminded once more of Ga Bu, the kobold boy whom you could not save, and of the cycle of misery perpetuated by the primals. But the anger you feel is naught to that of Alisaie, who, forsaking all concealment, proceeds to loudly decry Sri Lakshmi for her empty promises, before begging the Qalyana to see her for the false god she is. Alas, the broodmother will not listen, and the primal soon takes umbrage. With a wave of her hand, she sends orbs of energy towards you as a warning. Leave her lands and her dreamers be."
+5,"TEXT_STMBDA606_02532_SEQ_05","Twice has Alisaie watched helplessly as those consumed by tragedy have turned to primals for succor. Yet though she could do no more for the broodmother than she could for Ga Bu, she had to try...did she not? Either way, her failure has left you with no recourse but to meet the primal in single combat─ably abetted by the goodly adventurers who you had the wisdom and foresight to summon to Djanan Qhat in anticipation of this outcome. Sri Lakshmi must be slain.<hex:02100103><hex:02100103>※Emanation can be accessed via the Duty Finder."
+6,"TEXT_STMBDA606_02532_SEQ_06","With a flash of light, the Lady of Bliss departs, and with her whatever succor her dreamers may have enjoyed. Naught remains to keep you here..."
+7,"TEXT_STMBDA606_02532_SEQ_07","As you tell Lyse of the primal's passing, the Qalyana broodmother appears, bereft at the death of her god. Though Lyse tries to reason with the grieving mother, she condemns you and your actions, demanding at last that you leave her to mourn. And so you do."
+8,"TEXT_STMBDA606_02532_SEQ_08","Though the Vira will not soon forget your deeds this day, neither will the Qalyana. Was there another way you could have resolved the situation? Perhaps...but you will never know."
+9,"TEXT_STMBDA606_02532_SEQ_09",""
+10,"TEXT_STMBDA606_02532_SEQ_10",""
+11,"TEXT_STMBDA606_02532_SEQ_11",""
+12,"TEXT_STMBDA606_02532_SEQ_12",""
+13,"TEXT_STMBDA606_02532_SEQ_13",""
+14,"TEXT_STMBDA606_02532_SEQ_14",""
+15,"TEXT_STMBDA606_02532_SEQ_15",""
+16,"TEXT_STMBDA606_02532_SEQ_16",""
+17,"TEXT_STMBDA606_02532_SEQ_17",""
+18,"TEXT_STMBDA606_02532_SEQ_18",""
+19,"TEXT_STMBDA606_02532_SEQ_19",""
+20,"TEXT_STMBDA606_02532_SEQ_20",""
+21,"TEXT_STMBDA606_02532_SEQ_21",""
+22,"TEXT_STMBDA606_02532_SEQ_22",""
+23,"TEXT_STMBDA606_02532_SEQ_23",""
+24,"TEXT_STMBDA606_02532_TODO_00","Follow Vajra."
+25,"TEXT_STMBDA606_02532_TODO_01","Attune to the aetheryte at Djanan Qhat."
+26,"TEXT_STMBDA606_02532_TODO_02","Attune to the aetheryte in Djanan Qhat."
+27,"TEXT_STMBDA606_02532_TODO_03","Speak with Alisaie."
+28,"TEXT_STMBDA606_02532_TODO_04","Confront Sri Lakshmi in Emanation."
+29,"TEXT_STMBDA606_02532_TODO_05","Confront Sri Lakshmi in Emanation."
+30,"TEXT_STMBDA606_02532_TODO_06","Speak with Lyse."
+31,"TEXT_STMBDA606_02532_TODO_07",""
+32,"TEXT_STMBDA606_02532_TODO_08",""
+33,"TEXT_STMBDA606_02532_TODO_09",""
+34,"TEXT_STMBDA606_02532_TODO_10",""
+35,"TEXT_STMBDA606_02532_TODO_11",""
+36,"TEXT_STMBDA606_02532_TODO_12",""
+37,"TEXT_STMBDA606_02532_TODO_13",""
+38,"TEXT_STMBDA606_02532_TODO_14",""
+39,"TEXT_STMBDA606_02532_TODO_15",""
+40,"TEXT_STMBDA606_02532_TODO_16",""
+41,"TEXT_STMBDA606_02532_TODO_17",""
+42,"TEXT_STMBDA606_02532_TODO_18",""
+43,"TEXT_STMBDA606_02532_TODO_19",""
+44,"TEXT_STMBDA606_02532_TODO_20",""
+45,"TEXT_STMBDA606_02532_TODO_21",""
+46,"TEXT_STMBDA606_02532_TODO_22",""
+47,"TEXT_STMBDA606_02532_TODO_23",""
+48,"TEXT_STMBDA606_02532_ALISAIE_000_001","We were too late for him in Limsa, but this time...this time..."
+49,"TEXT_STMBDA606_02532_ALPHINAUD_000_005","I am reminded of the tragedy we bore witness to beneath O'Ghomoro, when poor Ga Bu cried out in despair and rage, and Titan came forth in answer..."
+50,"TEXT_STMBDA606_02532_LYSE_000_010","I'm not sure why Alisaie's so eager to face this primal all of a sudden, but you won't hear me complaining!"
+51,"TEXT_STMBDA606_02532_VAJRA_000_020","You are ready? Hm. You look ready."
+52,"TEXT_STMBDA606_02532_VAJRA_000_021","Djanan Qhat. There you find the Qalyana's cryssstals, and Sri Lakshmi. Follow me."
+53,"TEXT_STMBDA606_02532_ALISAIE_000_025","I expected more resistance. Let us pray our luck holds..."
+54,"TEXT_STMBDA606_02532_ALPHINAUD_000_030","It would be in our best interest to avoid any confrontation unless absolutely necessary. The primal and the crystals are our primary objectives."
+55,"TEXT_STMBDA606_02532_LYSE_000_035","We should follow their lead and let them do any fighting for now. You'll need your strength when the time comes."
+56,"TEXT_STMBDA606_02532_VAJRA_000_040","Djanan Qhat. The path leads to an entrance above."
+57,"TEXT_STMBDA606_02532_VAJRA_000_041","Within is an aetheryte. You must use it to enter."
+58,"TEXT_STMBDA606_02532_ALPHINAUD_000_042","Understood. With me, everyone!"
+59,"TEXT_STMBDA606_02532_VAJRA_000_050","The aetheryte is within. I will go no further. Good luck, eikon-slayer."
+60,"TEXT_STMBDA606_02532_ALPHINAUD_000_070","(I knew things were not going to end well the moment she stepped out of hiding...)"
+61,"TEXT_STMBDA606_02532_LYSE_000_075","Ugh... Is there really no way we can fight alongside you without being turned into one of her dreamers?"
+62,"TEXT_STMBDA606_02532_ALISAIE_000_080","I know, I know, it was stupid and foolish but...but I had to try, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. I had to."
+63,"TEXT_STMBDA606_02532_ALISAIE_000_081",""
+64,"TEXT_STMBDA606_02532_ALISAIE_000_082","I had to try...and I failed. So you have to fight. There is no other way."
+65,"TEXT_STMBDA606_02532_ALISAIE_000_083",""
+66,"TEXT_STMBDA606_02532_Q1_000_150","What will you say?"
+67,"TEXT_STMBDA606_02532_A1_000_151","I'll wake them from the dream."
+68,"TEXT_STMBDA606_02532_A1_000_152","Never stop trying."
+69,"TEXT_STMBDA606_02532_A1_000_153","Primals cannot be suffered to live. You know this."
+70,"TEXT_STMBDA606_02532_ALISAIE_000_084","Thank you, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. I know you will."
+71,"TEXT_STMBDA606_02532_ALISAIE_100_084","It means a lot to hear you say that. It does. But it doesn't make it any easier to have to ask you to face that...that thing."
+72,"TEXT_STMBDA606_02532_ALISAIE_200_084","Maybe so, but every time we must turn to you and others like you to do what we cannot. I just wish there was another way..."
+73,"TEXT_STMBDA606_02532_ALISAIE_300_084","We can but do that which is within our power. Lyse, Alphinaud, and I will go and seize their crystal stores. This will not happen again."
+74,"TEXT_STMBDA606_02532_ALISAIE_400_084","And you... When it is finished...we will be waiting for you."
+75,"TEXT_STMBDA606_02532_ALISAIE_000_085","We came too late for Ga Bu, but perhaps, this time, when the primal is no more..."
+76,"TEXT_STMBDA606_02532_SCENE00015_EVENTAREA_WARP_YESNO_TITLE","Proceed into Emanation?"
+77,"TEXT_STMBDA606_02532_ALPHINAUD_000_110","We had to use force to secure the crystals. Alisaie...was not gentle."
+78,"TEXT_STMBDA606_02532_ALISAIE_000_115","You've finished, then. Good. I'm glad it's over."
+79,"TEXT_STMBDA606_02532_VAJRA_000_120","Hm. You yet live... I had my doubtsss. Welcome back."
+80,"TEXT_STMBDA606_02532_LYSE_000_130","I wish we could have left on better terms, but that was never going to happen. It could be a problem if they get their hands on any more crystals, though..."
+81,"TEXT_STMBDA606_02532_LYSE_000_131","Never mind. We'll deal with that when the time comes."

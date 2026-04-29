@@ -2,105 +2,105 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_LUCKMI105_03775_SEQ_00,露天席大廣場的桑克瑞德打算開始行動。
-1,TEXT_LUCKMI105_03775_SEQ_01,桑克瑞德委託冒險者與雅·修特拉匯合。和珂露西亞島溫蒙特造船廠的空閒造船師談談。
-2,TEXT_LUCKMI105_03775_SEQ_02,空閒造船師同意出船到阿尼德羅所在的海域。若是離開了阿尼德羅，溫蒙特造船廠的空閒造船師會再次讓冒險者乘船出海。
-3,TEXT_LUCKMI105_03775_SEQ_03,找到了雅·修特拉，但她卻被帶走了。調查概念之間的<hex:02280CFF05>EObj<hex:F61EAFCD0103>，追上艾里迪布斯。
-4,TEXT_LUCKMI105_03775_SEQ_04,向艾里迪布斯展示了實力。在亞馬烏羅提嘗試再次與雅·修特拉匯合。
-5,TEXT_LUCKMI105_03775_SEQ_05,和雅·修特拉再次相聚，得知了艾里迪布斯的真實身份。和國會議事堂的雅·修特拉談談。
-6,TEXT_LUCKMI105_03775_SEQ_06,和雅·修特拉進行了交談。她打算去取留在阿尼德羅的行李。
-7,TEXT_LUCKMI105_03775_SEQ_07,
-8,TEXT_LUCKMI105_03775_SEQ_08,
-9,TEXT_LUCKMI105_03775_SEQ_09,
-10,TEXT_LUCKMI105_03775_SEQ_10,
-11,TEXT_LUCKMI105_03775_SEQ_11,
-12,TEXT_LUCKMI105_03775_SEQ_12,
-13,TEXT_LUCKMI105_03775_SEQ_13,
-14,TEXT_LUCKMI105_03775_SEQ_14,
-15,TEXT_LUCKMI105_03775_SEQ_15,
-16,TEXT_LUCKMI105_03775_SEQ_16,
-17,TEXT_LUCKMI105_03775_SEQ_17,
-18,TEXT_LUCKMI105_03775_SEQ_18,
-19,TEXT_LUCKMI105_03775_SEQ_19,
-20,TEXT_LUCKMI105_03775_SEQ_20,
-21,TEXT_LUCKMI105_03775_SEQ_21,
-22,TEXT_LUCKMI105_03775_SEQ_22,
-23,TEXT_LUCKMI105_03775_SEQ_23,
-24,TEXT_LUCKMI105_03775_TODO_00,和溫蒙特造船廠的空閒造船師對話
-25,TEXT_LUCKMI105_03775_TODO_01,和溫蒙特造船廠的空閒造船師對話
-26,TEXT_LUCKMI105_03775_TODO_02,調查<hex:02280CFF05>EObj<hex:F61EAFCD0103>
-27,TEXT_LUCKMI105_03775_TODO_03,調查<hex:02280CFF05>EObj<hex:F61EAFCD0103>
-28,TEXT_LUCKMI105_03775_TODO_04,和雅·修特拉對話
-29,TEXT_LUCKMI105_03775_TODO_05,
-30,TEXT_LUCKMI105_03775_TODO_06,
-31,TEXT_LUCKMI105_03775_TODO_07,
-32,TEXT_LUCKMI105_03775_TODO_08,
-33,TEXT_LUCKMI105_03775_TODO_09,
-34,TEXT_LUCKMI105_03775_TODO_10,
-35,TEXT_LUCKMI105_03775_TODO_11,
-36,TEXT_LUCKMI105_03775_TODO_12,
-37,TEXT_LUCKMI105_03775_TODO_13,
-38,TEXT_LUCKMI105_03775_TODO_14,
-39,TEXT_LUCKMI105_03775_TODO_15,
-40,TEXT_LUCKMI105_03775_TODO_16,
-41,TEXT_LUCKMI105_03775_TODO_17,
-42,TEXT_LUCKMI105_03775_TODO_18,
-43,TEXT_LUCKMI105_03775_TODO_19,
-44,TEXT_LUCKMI105_03775_TODO_20,
-45,TEXT_LUCKMI105_03775_TODO_21,
-46,TEXT_LUCKMI105_03775_TODO_22,
-47,TEXT_LUCKMI105_03775_TODO_23,
-48,TEXT_LUCKMI105_03775_ALPHINAUD_000_000,……我記得以前，祖父決定前往艾歐澤亞的時候，<hex:02100103>阿莉塞曾經有一回對著我又哭又鬧還發了脾氣，<hex:02100103>說我只是「裝成很懂事的樣子」。
-49,TEXT_LUCKMI105_03775_ALPHINAUD_000_001,我很理解被指責的一方的心情，<hex:02100103>所以我無法贊同她的憤慨。<hex:02100103>只不過……比起那時，現在的我更能理解她的心情。
-50,TEXT_LUCKMI105_03775_ALISAIE_000_005,……抱歉，我擅自走開了。<hex:02100103>我也清楚我的想法有點過於孩子氣。<hex:02100103>啊……真是……得換個角度思考才行！
-51,TEXT_LUCKMI105_03775_RYNE_000_010,等吸魂晶完成之後……<hex:02100103>我和大家就要……
-52,TEXT_LUCKMI105_03775_RYNE_000_011,沒什麼，不管怎樣都得先確保大家平安無事才行。<hex:02100103>水晶公他們的實驗要是能成功就好了。
-53,TEXT_LUCKMI105_03775_URIANGER_000_015,剛才跟你說的那段話，水晶公自己當然也清楚。<hex:02100103>即便如此他還是像那樣避開了這個話題，<hex:02100103>我猜他應該是認為現在不是討論的時候，又或是……
-54,TEXT_LUCKMI105_03775_THANCRED_000_020,好了……<hex:02100103>水晶公為了讓我們回歸，在各種意義上都傾注了自己心血。<hex:02100103>我們也為了在離開時不留下任何遺憾，做好能做的事情吧。
-55,TEXT_LUCKMI105_03775_ALPHINAUD_000_021,也就是說要想辦法對付無影艾里迪布斯對吧。<hex:02100103>我認為首先要排除掉那些<hex:02100103>有可能受他指使而行動的手下們……
-56,TEXT_LUCKMI105_03775_THANCRED_000_022,是啊，沒錯。<hex:02100103>除此之外還有一件事要完成。
-57,TEXT_LUCKMI105_03775_THANCRED_000_023,<hex:022903EB0203>，能不能請你和雅·修特拉匯合呢？<hex:02100103>她一直在阿尼德羅獨自進行後續調查。
-58,TEXT_LUCKMI105_03775_THANCRED_000_024,畢竟她的身體也有可能發生了異常……<hex:02100103>雖然我也不是不能去，<hex:02100103>但萬一我們兩人同時倒下了就糟了。
-59,TEXT_LUCKMI105_03775_THANCRED_000_025,抱歉，她就拜託給你了。<hex:02100103>在這期間，我們去除掉那些黑面具的無影們。
-60,TEXT_LUCKMI105_03775_THANCRED_000_026,事情辦完後我們會立刻前往游末邦。<hex:02100103>你和雅·修特拉也在調查告一段落之後過去吧。
-61,TEXT_LUCKMI105_03775_ALPHINAUD_000_027,既然如此，那你就先去珂露西亞島的溫蒙特造船廠吧，<hex:02100103>只要拜託一下那裡的造船師，<hex:02100103>他們應該就能派出前往阿尼德羅所在海域的船隻了。
-62,TEXT_LUCKMI105_03775_THANCRED_000_028,那就開始行動吧，<hex:02100103>希望我們都能平安回來。
-63,TEXT_LUCKMI105_03775_Q1_000_029,要說什麼？
-64,TEXT_LUCKMI105_03775_A1_000_030,出發之前我有東西要給你們
-65,TEXT_LUCKMI105_03775_A1_000_031,有你們的包裹庫啵
-66,TEXT_LUCKMI105_03775_THANCRED_000_032,塔塔露送的包裹？<hex:02100103>裡面裝的是什麼啊？
-67,TEXT_LUCKMI105_03775_THANCRED_000_033,好一個貼心的郵遞員呢。<hex:02100103>塔塔露送的包裹……<hex:02100103>裡面裝的是什麼啊？
-68,TEXT_LUCKMI105_03775_URIANGER_000_034,哦？這不是賢人麵包嗎？<hex:02100103>的確是……很令人懷念的食物呢。
-69,TEXT_LUCKMI105_03775_RYNE_000_035,這是一種什麼樣的麵包啊？<hex:02100103>如果可以的話，我也想嘗一嘗……
-70,TEXT_LUCKMI105_03775_URIANGER_000_036,嗯，當然沒問題。<hex:02100103>至於味道嘛……我是覺得還不錯。
-71,TEXT_LUCKMI105_03775_THANCRED_000_037,……我勸你不要過度期待它的味道。
-72,TEXT_LUCKMI105_03775_ALPHINAUD_000_038,雖然這種麵包基本沒怎麼上過我家的餐桌，<hex:02100103>不過我對這個還是很熟悉的。<hex:02100103>畢竟魔法大學時期的朋友們幾乎每天都在吃這個……
-73,TEXT_LUCKMI105_03775_ALISAIE_000_039,等一下，阿爾菲諾。<hex:02100103>雖然這話不應該由我來說，不過我還是奉勸你一句，<hex:02100103>要是再說下去，你可就該成為全體學生的公敵了……
-74,TEXT_LUCKMI105_03775_THANCRED_000_040,總之，塔塔露的心意我們收下了。<hex:02100103>看來我們得在她奇怪的兼職增加之前，<hex:02100103>盡快平安無事地回去才行啊。
-75,TEXT_LUCKMI105_03775_ALISAIE_000_041,那就出發吧，<hex:02100103>路上別忘了找個地方弄點飲料喝。
-76,TEXT_LUCKMI105_03775_SHIPWRIGHT03775_000_050,哦，這不是傳聞中的「暗之戰士」大人嗎！<hex:02100103>怎麼了，來這裡有什麼事情嗎？
-77,TEXT_LUCKMI105_03775_SHIPWRIGHT03775_000_051,嗯，原來你是想乘船出海啊。<hex:02100103>既然是你的請求，那我當然義不容辭！
-78,TEXT_LUCKMI105_03775_Q2_000_052,要前往阿尼德羅嗎？
-79,TEXT_LUCKMI105_03775_SHIPWRIGHT03775_000_060,怎麼了？<hex:02100103>想乘船再次出海嗎？
-80,TEXT_LUCKMI105_03775_ELIDIBUS_000_070,歡迎來到我同胞遺留下的幻影之都。
-81,TEXT_LUCKMI105_03775_ELIDIBUS_000_071,我留給你的任務十分簡單。<hex:02100103>那就是一路打倒我準備的敵人，朝著國會議事堂前進。<hex:02100103>等你到了那裡，我就把她還給你。
-82,TEXT_LUCKMI105_03775_Q3_000_072,要說什麼？
-83,TEXT_LUCKMI105_03775_A3_000_073,給我適可而止吧！
-84,TEXT_LUCKMI105_03775_A3_000_074,我受夠你了
-85,TEXT_LUCKMI105_03775_ELIDIBUS_000_075,……我真搞不懂。<hex:02100103>你們和我說話的口吻為什麼聽起來都有些失望？
-86,TEXT_LUCKMI105_03775_ELIDIBUS_000_076,我們……你們這群廢物與我們無影……<hex:02100103>從最初到現在就一直是擁有著不同理想的敵人。<hex:02100103>只要相遇，就只有你死我活。
-87,TEXT_LUCKMI105_03775_ELIDIBUS_000_077,還是說……<hex:02100103>只要裝作理解的樣子，心懷假惺惺的同情，<hex:02100103>就能將自己的所作所為正當化嗎？
-88,TEXT_LUCKMI105_03775_ELIDIBUS_000_078,屠戮我們的英雄……踐踏我們的未來……<hex:02100103>讓我們的家園就這麼消逝於歷史中，再無重建的一天……
-89,TEXT_LUCKMI105_03775_ELIDIBUS_000_079,那我也更改一下這個任務的初衷，<hex:02100103>讓你好好體會一下，你從我們這裡奪走的事物吧！
-90,TEXT_LUCKMI105_03775_ELIDIBUS_000_080,我無需被理解……<hex:02100103>而我，也不會原諒你。
-91,TEXT_LUCKMI105_03775_ELIDIBUS_000_090,感謝你陪我玩了這麼久，<hex:02100103>畢竟我還有點摸不透你的實力。
-92,TEXT_LUCKMI105_03775_ELIDIBUS_000_091,雖然剛才的戰鬥應該已經讓你拿出相當的實力了，<hex:02100103>不過既然打倒了愛梅特賽爾克，<hex:02100103>那想必你的力量還不止於此吧？
-93,TEXT_LUCKMI105_03775_ELIDIBUS_000_092,接下來就讓我直接測試一下你的實力好了。
-94,TEXT_LUCKMI105_03775_ELIDIBUS_000_093,就用刻於這具身體中的力量……
-95,TEXT_LUCKMI105_03775_ELIDIBUS_000_094,(-阿爾博特-)放馬過來吧……<hex:02100103>我來當你的對手！
-96,TEXT_LUCKMI105_03775_YSHTOLA_000_100,……呼。<hex:02100103>剛起來就被迫做了一場艱難的交涉。
-97,TEXT_LUCKMI105_03775_YSHTOLA_000_101,不過……看來我並沒有搞錯。<hex:02100103>剛才你聽到的內容就是我調查阿尼德羅後獲得的成果。
-98,TEXT_LUCKMI105_03775_YSHTOLA_000_102,然後呢，你那邊最近的情況如何？<hex:02100103>既然你來到了這邊，那就代表……
-99,TEXT_LUCKMI105_03775_YSHTOLA_000_103,……原來如此。<hex:02100103>艾里迪布斯離開時所說的話也的確令人在意，<hex:02100103>總之先回到地上，前往游末邦與大家匯合吧。
-100,TEXT_LUCKMI105_03775_YSHTOLA_000_104,只不過……抱歉，在那之前能給我點時間嗎？<hex:02100103>畢竟我醒來的時候就已經在這個國會議事堂了，<hex:02100103>可行李還在阿尼德羅那裡。
-101,TEXT_LUCKMI105_03775_YSHTOLA_000_105,將你送到這裡的乙太奔流可能還殘存著痕跡。<hex:02100103>我試著追蹤一下這個痕跡，馬上就把行李拿回來。
+0,"TEXT_LUCKMI105_03775_SEQ_00","Thancred is eager to get to work."
+1,"TEXT_LUCKMI105_03775_SEQ_01","While he and the others tend to the black-masked Ascians, Thancred bids you join Y'shtola at Anamnesis Anyder as a precautionary measure. To get there, you will need to secure a boat at Venmont Yards─just as soon as you've doled out Tataru's bread, that is."
+2,"TEXT_LUCKMI105_03775_SEQ_02","At Venmont Yards, a shipwright recognizes you at once and happily agrees to ready a boat for you.<hex:02100103><hex:02100103>※In the event that you leave the instance, you may re-enter by speaking with the idle shipwright."
+3,"TEXT_LUCKMI105_03775_SEQ_03","To your dismay, you arrive at Anyder to find Y'shtola unconscious. Before you can go to her aid, however, Elidibus appears and spirits her away. If you want your comrade back, it seems you must treat the Ascian to a demonstration of your strength. With no other recourse, you grit your teeth and prepare to enter the aetherial stream."
+4,"TEXT_LUCKMI105_03775_SEQ_04","You ride the aether to emerge in Emet-Selch's phantom Amaurot, where Elidibus instructs you to fight your way to the Capitol. The trial pits you against recreations of myriad faces from your past, and at the last the Ascian himself enters the fray in the guise of Ardbert─yet it soon becomes plain that even he is overmatched."
+5,"TEXT_LUCKMI105_03775_SEQ_05","No sooner does your trial conclude than Y'shtola arrives at your side, having apparently freed herself. Gazing upon Elidibus with a mixture of pity and scorn, she proceeds to expose him for what he truly is: a primal, granted strength by the desire for salvation. Thus has he sought to inspire the masses to rise up as Warriors of Light. Unmoved, the Ascian coolly confirms Y'shtola's theories, but when she subsequently questions whether the many voices that sustain him have irrevocably changed his own, his expression hardens. No matter how much he should forget, he declares, he will always remember his duty. With that, he vanishes, but not before serving notice of his intent to gain the power to defeat you."
+6,"TEXT_LUCKMI105_03775_SEQ_06","The danger now passed, you finally have the chance to apprise Y'shtola of recent events. Having listened to your tale, she goes to collect her possessions from Anyder in preparation for your journey to Eulmore."
+7,"TEXT_LUCKMI105_03775_SEQ_07",""
+8,"TEXT_LUCKMI105_03775_SEQ_08",""
+9,"TEXT_LUCKMI105_03775_SEQ_09",""
+10,"TEXT_LUCKMI105_03775_SEQ_10",""
+11,"TEXT_LUCKMI105_03775_SEQ_11",""
+12,"TEXT_LUCKMI105_03775_SEQ_12",""
+13,"TEXT_LUCKMI105_03775_SEQ_13",""
+14,"TEXT_LUCKMI105_03775_SEQ_14",""
+15,"TEXT_LUCKMI105_03775_SEQ_15",""
+16,"TEXT_LUCKMI105_03775_SEQ_16",""
+17,"TEXT_LUCKMI105_03775_SEQ_17",""
+18,"TEXT_LUCKMI105_03775_SEQ_18",""
+19,"TEXT_LUCKMI105_03775_SEQ_19",""
+20,"TEXT_LUCKMI105_03775_SEQ_20",""
+21,"TEXT_LUCKMI105_03775_SEQ_21",""
+22,"TEXT_LUCKMI105_03775_SEQ_22",""
+23,"TEXT_LUCKMI105_03775_SEQ_23",""
+24,"TEXT_LUCKMI105_03775_TODO_00","Speak with the idle shipwright at Venmont Yards."
+25,"TEXT_LUCKMI105_03775_TODO_01","Speak with the idle shipwright at Venmont Yards."
+26,"TEXT_LUCKMI105_03775_TODO_02","Enter the aetherial stream."
+27,"TEXT_LUCKMI105_03775_TODO_03","Enter the aetherial stream."
+28,"TEXT_LUCKMI105_03775_TODO_04","Speak with Y'shtola."
+29,"TEXT_LUCKMI105_03775_TODO_05",""
+30,"TEXT_LUCKMI105_03775_TODO_06",""
+31,"TEXT_LUCKMI105_03775_TODO_07",""
+32,"TEXT_LUCKMI105_03775_TODO_08",""
+33,"TEXT_LUCKMI105_03775_TODO_09",""
+34,"TEXT_LUCKMI105_03775_TODO_10",""
+35,"TEXT_LUCKMI105_03775_TODO_11",""
+36,"TEXT_LUCKMI105_03775_TODO_12",""
+37,"TEXT_LUCKMI105_03775_TODO_13",""
+38,"TEXT_LUCKMI105_03775_TODO_14",""
+39,"TEXT_LUCKMI105_03775_TODO_15",""
+40,"TEXT_LUCKMI105_03775_TODO_16",""
+41,"TEXT_LUCKMI105_03775_TODO_17",""
+42,"TEXT_LUCKMI105_03775_TODO_18",""
+43,"TEXT_LUCKMI105_03775_TODO_19",""
+44,"TEXT_LUCKMI105_03775_TODO_20",""
+45,"TEXT_LUCKMI105_03775_TODO_21",""
+46,"TEXT_LUCKMI105_03775_TODO_22",""
+47,"TEXT_LUCKMI105_03775_TODO_23",""
+48,"TEXT_LUCKMI105_03775_ALPHINAUD_000_000","When our grandfather first decided to journey to Eorzea, Alisaie did not take kindly to my silence on the subject. “Don't pretend to understand things you don't,” she said...or rather shouted."
+49,"TEXT_LUCKMI105_03775_ALPHINAUD_000_001","Having oft been the object of her scorn, I am predisposed to sympathize with the Exarch, but I do understand how she feels─better now than ever I did, certainly."
+50,"TEXT_LUCKMI105_03775_ALISAIE_000_005","I'm sorry, I know it was childish to storm off like that. And probably to feel the way I do as well. Agh, pull yourself together, Alisaie!"
+51,"TEXT_LUCKMI105_03775_RYNE_000_010","It's stupid, but I've never really stopped to think about what would happen once the vessels were complete. And now..."
+52,"TEXT_LUCKMI105_03775_RYNE_000_011","No. There's no point. I...I hope the test is a success. Truly."
+53,"TEXT_LUCKMI105_03775_URIANGER_000_015","Lest there be any doubt, the Exarch hath long been aware of the possibilities he but recently unfolded to us. Wherefore he did refrain from sharing them until now, I cannot say."
+54,"TEXT_LUCKMI105_03775_THANCRED_000_020","Right then! While the Exarch literally pours his own sweat and blood into his allotted task, it seems only fair that we attend to our own."
+55,"TEXT_LUCKMI105_03775_ALPHINAUD_000_021","Dealing with Elidibus and his minions."
+56,"TEXT_LUCKMI105_03775_THANCRED_000_022","Just so. And there is one other matter."
+57,"TEXT_LUCKMI105_03775_THANCRED_000_023","In light of our deteriorating health, Y'shtola should not be left alone at Anyder. Might I trouble you to visit her, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>? See that all is well?"
+58,"TEXT_LUCKMI105_03775_THANCRED_000_024","I would go myself, but I think she might be safer in the hands of one less prone to collapsing."
+59,"TEXT_LUCKMI105_03775_THANCRED_000_025","My thanks. You may leave the Ascians to us."
+60,"TEXT_LUCKMI105_03775_THANCRED_000_026","Once they are out of the way, we will retire to Eulmore. And when Y'shtola has finished plumbing the depths, I'd like the two of you to join us there."
+61,"TEXT_LUCKMI105_03775_ALPHINAUD_000_027","If you are bound for Anyder, I suggest you go via Venmont Yards. Our friends there will be glad to provide a boat for you."
+62,"TEXT_LUCKMI105_03775_THANCRED_000_028","Let us be on our way, then. Don't do anything I wouldn't do."
+63,"TEXT_LUCKMI105_03775_Q1_000_029","What will you say?"
+64,"TEXT_LUCKMI105_03775_A1_000_030","Wait, I have a gift for you, from Tataru."
+65,"TEXT_LUCKMI105_03775_A1_000_031","I have a delivery from the Source, kupo! Courtesy of one Tataru Taru."
+66,"TEXT_LUCKMI105_03775_THANCRED_000_032","From Tataru, you say? Whatever could it be...?"
+67,"TEXT_LUCKMI105_03775_THANCRED_000_033","You're a long way from home, moogle. And this is from Tataru, is it? Whatever could it be...?"
+68,"TEXT_LUCKMI105_03775_URIANGER_000_034","<hex:021A020203>Archon loaf<hex:021A020103>, thou sayest? Why, even to hear the name doth transport me to times long past..."
+69,"TEXT_LUCKMI105_03775_RYNE_000_035","Bread from another world!? May I try some?"
+70,"TEXT_LUCKMI105_03775_URIANGER_000_036","Mayest thou, child? Thou <hex:021A020203>must<hex:021A020103>! ...That said, though I personally disagree with the consensus, I do nonetheless advise thee to temper thine expectations."
+71,"TEXT_LUCKMI105_03775_THANCRED_000_037","Wiser words have never been uttered."
+72,"TEXT_LUCKMI105_03775_ALPHINAUD_000_038","Though it rarely darkened our dining table at home, I can attest that it was standard fare at the Studium. Indeed, a slice was never far from our peers' hands."
+73,"TEXT_LUCKMI105_03775_ALISAIE_000_039","Alphinaud, you really are an unbearable snob sometimes, do you know that?"
+74,"TEXT_LUCKMI105_03775_THANCRED_000_040","What I believe my colleagues are <hex:021A020203>trying<hex:021A020103> to say is that we appreciate the gesture. Tell Tataru we'll do our best to return before she's forced to seek further supplementary employment."
+75,"TEXT_LUCKMI105_03775_ALISAIE_000_041","Right, let's really be off now. We can find a drink to wash down the bread on the way."
+76,"TEXT_LUCKMI105_03775_SHIPWRIGHT03775_000_050","Oho, if it ain't the Warrior of Darkness <hex:020815E905FF08>herself<hex:FF08>himself<hex:03>! What brings you to these parts?"
+77,"TEXT_LUCKMI105_03775_SHIPWRIGHT03775_000_051","Headin' out to sea, eh? But of course we'd be happy to help! Just say the word, and I'll ready a boat."
+78,"TEXT_LUCKMI105_03775_Q2_000_052","Travel to Anyder?"
+79,"TEXT_LUCKMI105_03775_SHIPWRIGHT03775_000_060","Oh, you're back. Headin' out again, are you?"
+80,"TEXT_LUCKMI105_03775_ELIDIBUS_000_070","You are familiar with this place, I believe. This...remembered Amaurot."
+81,"TEXT_LUCKMI105_03775_ELIDIBUS_000_071","Proceed to the Capitol. I shall return your comrade to you there."
+82,"TEXT_LUCKMI105_03775_Q3_000_072","What will you say?"
+83,"TEXT_LUCKMI105_03775_A3_000_073","Enough of this!"
+84,"TEXT_LUCKMI105_03775_A3_000_074","I tire of your games."
+85,"TEXT_LUCKMI105_03775_ELIDIBUS_000_075","You speak as if you were disappointed in me. Why?"
+86,"TEXT_LUCKMI105_03775_ELIDIBUS_000_076","I am your enemy, and you mine. Our goals are in conflict, and we are fated to clash."
+87,"TEXT_LUCKMI105_03775_ELIDIBUS_000_077","Or had you hoped that feigned sympathy and false understanding would cast your crimes in a less reprehensible light? That I would come to look upon you as a <hex:021A020203>friend<hex:021A020103>?"
+88,"TEXT_LUCKMI105_03775_ELIDIBUS_000_078","You who have slaughtered my people. Who would tear down everything we have built."
+89,"TEXT_LUCKMI105_03775_ELIDIBUS_000_079","You do not deny it, then. Very well, let us change the cast of this trial. You will know what you have stolen from us."
+90,"TEXT_LUCKMI105_03775_ELIDIBUS_000_080","But do not imagine I crave remorse. Only justice."
+91,"TEXT_LUCKMI105_03775_ELIDIBUS_000_090","An impressive show of strength."
+92,"TEXT_LUCKMI105_03775_ELIDIBUS_000_091","But surely no more than a foretaste of that which Emet-Selch's conqueror is capable."
+93,"TEXT_LUCKMI105_03775_ELIDIBUS_000_092","Such might requires a fairer measure. To compare like with like. Yes..."
+94,"TEXT_LUCKMI105_03775_ELIDIBUS_000_093","I shall just have to test you myself."
+95,"TEXT_LUCKMI105_03775_ELIDIBUS_000_094","(-Ardbert-)Come on, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! Show me what you can do!"
+96,"TEXT_LUCKMI105_03775_YSHTOLA_000_100","It has been an eventful morning─if indeed it <hex:021A020203>is<hex:021A020103> morning. I've no idea how long I was unconscious."
+97,"TEXT_LUCKMI105_03775_YSHTOLA_000_101","Regardless, I am gratified to see that my efforts at Anyder have borne fruit. We have confirmed the nature of our foe and his plot."
+98,"TEXT_LUCKMI105_03775_YSHTOLA_000_102","Now then, what news from the surface?"
+99,"TEXT_LUCKMI105_03775_YSHTOLA_000_103","I see. Then let us make for Eulmore at once. We have much to share with our comrades, Elidibus's parting threat not least of all."
+100,"TEXT_LUCKMI105_03775_YSHTOLA_000_104","Ah, but forgive me. It would seem my belongings did not accompany me here. I will need to retrieve them from Anyder."
+101,"TEXT_LUCKMI105_03775_YSHTOLA_000_105","With luck, the aetherial stream you traversed still lingers. I won't be long."

@@ -2,148 +2,148 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_BANPEL004_05196_SEQ_00,<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整（限定職業）<hex:0249020103><hex:0248020103><hex:02100103>水果碼頭的利普露似乎在煩惱著什麼。
-1,TEXT_BANPEL004_05196_SEQ_01,※本任務為<hex:024804F201FC03><hex:024904F201FD03><hex:0249020103><hex:0248020103> 等級調整（限定職業）任務，<hex:02100103>　需要與接受任務時的職業相同才可繼續進行任務。<hex:02100103><hex:02100103>和利普露進行了交談，她打算聘用對克扎瑪烏卡濕地非常熟悉的強盜做工作人員。到克扎瑪烏卡濕地朋友的燈火了解有關強盜的近況。
-2,TEXT_BANPEL004_05196_SEQ_02,和人們交談後，收集了有關強盜的情報。和朋友的燈火的利普露談談。
-3,TEXT_BANPEL004_05196_SEQ_03,和利普露進行了交談，傳達了獲得的情報。在克扎瑪烏卡濕地露草河岸的<hex:02280CFF05>EObj<hex:F61EBCE00103>張望。
-4,TEXT_BANPEL004_05196_SEQ_04,撞見了回程的強盜瓦克薩，他倉皇地跑掉了。和露草河岸的利普露談談。
-5,TEXT_BANPEL004_05196_SEQ_05,和利普露進行了交談。她表示想和瓦克薩談談，為回應她的要求，在附近尋找瓦克薩。
-6,TEXT_BANPEL004_05196_SEQ_06,抓住了瓦克薩。和露草河岸的利普露談談。
-7,TEXT_BANPEL004_05196_SEQ_07,和利普露進行了交談，聽瓦克薩講述了他的過去。成為強盜也有他的苦衷。和水果碼頭的利普露談談。
-8,TEXT_BANPEL004_05196_SEQ_08,再次和利普露進行了交談。水果碼頭的旅行公司增設了食堂，瓦克薩和有強盜前科的人們開始在這裡工作了。今後也協助他們一起讓旅行公司興隆起來吧！
-9,TEXT_BANPEL004_05196_SEQ_09,
-10,TEXT_BANPEL004_05196_SEQ_10,
-11,TEXT_BANPEL004_05196_SEQ_11,
-12,TEXT_BANPEL004_05196_SEQ_12,
-13,TEXT_BANPEL004_05196_SEQ_13,
-14,TEXT_BANPEL004_05196_SEQ_14,
-15,TEXT_BANPEL004_05196_SEQ_15,
-16,TEXT_BANPEL004_05196_SEQ_16,
-17,TEXT_BANPEL004_05196_SEQ_17,
-18,TEXT_BANPEL004_05196_SEQ_18,
-19,TEXT_BANPEL004_05196_SEQ_19,
-20,TEXT_BANPEL004_05196_SEQ_20,
-21,TEXT_BANPEL004_05196_SEQ_21,
-22,TEXT_BANPEL004_05196_SEQ_22,
-23,TEXT_BANPEL004_05196_SEQ_23,
-24,TEXT_BANPEL004_05196_TODO_00,在朋友的燈火收集情報
-25,TEXT_BANPEL004_05196_TODO_01,和利普露對話
-26,TEXT_BANPEL004_05196_TODO_02,在<hex:02280CFF05>EObj<hex:F61EBCE00103>張望
-27,TEXT_BANPEL004_05196_TODO_03,和利普露對話
-28,TEXT_BANPEL004_05196_TODO_04,尋找瓦克薩
-29,TEXT_BANPEL004_05196_TODO_05,和利普露對話
-30,TEXT_BANPEL004_05196_TODO_06,再次和利普露對話
-31,TEXT_BANPEL004_05196_TODO_07,
-32,TEXT_BANPEL004_05196_TODO_08,
-33,TEXT_BANPEL004_05196_TODO_09,
-34,TEXT_BANPEL004_05196_TODO_10,
-35,TEXT_BANPEL004_05196_TODO_11,
-36,TEXT_BANPEL004_05196_TODO_12,
-37,TEXT_BANPEL004_05196_TODO_13,
-38,TEXT_BANPEL004_05196_TODO_14,
-39,TEXT_BANPEL004_05196_TODO_15,
-40,TEXT_BANPEL004_05196_TODO_16,
-41,TEXT_BANPEL004_05196_TODO_17,
-42,TEXT_BANPEL004_05196_TODO_18,
-43,TEXT_BANPEL004_05196_TODO_19,
-44,TEXT_BANPEL004_05196_TODO_20,
-45,TEXT_BANPEL004_05196_TODO_21,
-46,TEXT_BANPEL004_05196_TODO_22,
-47,TEXT_BANPEL004_05196_TODO_23,
-48,TEXT_BANPEL004_05196_LIPLU_000_000,唔……怎麼辦才好呢，<hex:02100103>找不到合適的人選啊……
-49,TEXT_BANPEL004_05196_LIPLU_000_001,哎呀呀，這不是<hex:022903EB0203>嗎！<hex:02100103>咱們真是心有靈犀啊，每次我想到你的時候你就出現了！<hex:02100103>其實啊，我現在有個發愁的事情……
-50,TEXT_BANPEL004_05196_LIPLU_000_002,啊，但是旅行公司進展挺順利的哦，<hex:02100103>來上游水域觀光的遊客們也是好評多多，<hex:02100103>只要保持住現在的客流量，之前的投資就都能賺回來啦！
-51,TEXT_BANPEL004_05196_LIPLU_100_002,問題就是……正因為上游水域的觀光太過火爆，<hex:02100103>導致了人手不足的情況。
-52,TEXT_BANPEL004_05196_LIPLU_000_003,這可是嚴重的問題，在大家撐不住之前必須要做點什麼才行。<hex:02100103>我們必須募集人手，最好是很熟悉那邊環境的求職者……
-53,TEXT_BANPEL004_05196_Q1_000_000,要說什麼？
-54,TEXT_BANPEL004_05196_A1_000_001,拜託哈努族的各位吧
-55,TEXT_BANPEL004_05196_A1_000_002,拜託莫布林族的各位吧
-56,TEXT_BANPEL004_05196_A1_000_003,說起來，我在上游水域碰到過強盜……
-57,TEXT_BANPEL004_05196_LIPLU_000_004,唔……熟悉上游水域的哈努族很少。<hex:02100103>而且基本都已經在我們這裡工作了。<hex:02100103>不好意思，你還有其他頭緒嗎？
-58,TEXT_BANPEL004_05196_LIPLU_000_005,莫布林族雖然是合適的人選……<hex:02100103>但是他們的主要工作是照顧罐子工，已經很忙碌了，<hex:02100103>我們也不好再要求他們兼顧其他事情啊……
-59,TEXT_BANPEL004_05196_LIPLU_000_006,誒？！參與綁架了烏克·拉瑪特大人的強盜？！<hex:02100103>這倒是能說挺熟悉上游水域的，但是……
-60,TEXT_BANPEL004_05196_LIPLU_000_007,不過說起來，我之前在圖萊尤拉聽說過……<hex:02100103>在繼位儀式之後，一部分強盜們向勇連隊自首了，<hex:02100103>之後被假釋了。
-61,TEXT_BANPEL004_05196_LIPLU_000_008,如果他們有洗心革面的想法，<hex:02100103>還想從頭再來的話……
-62,TEXT_BANPEL004_05196_LIPLU_000_009,嗯！我心裡的算盤告訴我，<hex:02100103>交流溝通才是一切的開始！
-63,TEXT_BANPEL004_05196_LIPLU_100_009,而且，如果能請他們來幫忙的話，<hex:02100103>不僅能緩解人手不足的現狀，還能讓這片地區重新煥發活力！<hex:02100103>一定能開拓我們旅行公司的新道路！
-64,TEXT_BANPEL004_05196_LIPLU_000_010,所以呢，要是<hex:022903EB0203>願意的話，<hex:02100103>要不要和我一起找找那位強盜先生呢？
-65,TEXT_BANPEL004_05196_LIPLU_000_011,好耶好耶！謝謝你！<hex:02100103>那麼，我們就先去朋友的燈火那裡收集情報吧！
-66,TEXT_BANPEL004_05196_LIPLU_000_012,請問你有沒有頭緒？<hex:02100103>他們最近應該剛剛獲得假釋……
-67,TEXT_BANPEL004_05196_MOB05196A_000_013,嚯嚯 想知道 強盜的情報？<hex:02100103>遺憾 莫布可 不清楚<hex:02100103>這裡最近 天下太平 盡享釣魚好時光～
-68,TEXT_BANPEL004_05196_MOB05196A_000_014,……說起來 看到了 怪事情<hex:02100103>在奸臣的展示台 附近<hex:02100103>看到了 憔悴的釣魚人～
-69,TEXT_BANPEL004_05196_MOB05196A_000_015,是個髮色誇張的 迎曦之民<hex:02100103>那到底 是誰啊～
-70,TEXT_BANPEL004_05196_MOB05196B_000_016,確實有幾個 自首的強盜在 你想知道他們的事？<hex:02100103>他們幾個 原本只是些 小毛賊。
-71,TEXT_BANPEL004_05196_MOB05196B_000_017,偷偷 潛入聚落 偷些食物<hex:02100103>以前 可讓人 頭疼不已。
-72,TEXT_BANPEL004_05196_MOB05196B_000_018,最近 同伴們說 又見到了他們 嚇了一大跳！<hex:02100103>他們回來 莫布們擔心 故態復萌。
-73,TEXT_BANPEL004_05196_MOB05196B_000_019,既然抓到了 那就要讓他們<hex:02100103>徹徹底底 洗心革面 自力更生！<hex:02100103>至少莫布這個老婆子 是這麼想的。
-74,TEXT_BANPEL004_05196_PELUPELUPEDDLER05196_000_020,嗨嗨！是你呀！<hex:02100103>上次你和柯納大人一起來問過我遇襲的情況，<hex:02100103>這次想問點什麼啊？
-75,TEXT_BANPEL004_05196_PELUPELUPEDDLER05196_000_021,瓦克薩為首的強盜團的後續情況啊……<hex:02100103>我聽說他們向勇連隊自首了。
-76,TEXT_BANPEL004_05196_PELUPELUPEDDLER05196_000_022,據說他們向勇連隊坦白了贓物所在地，<hex:02100103>還表現出了歸還贓物的意願……<hex:02100103>事實上我們之前被搶的東西確實也被還回來了。
-77,TEXT_BANPEL004_05196_PELUPELUPEDDLER05196_000_023,鑒於他們的態度比較端正，<hex:02100103>一部分受害者也申請為他們減刑，<hex:02100103>新武王上任之後，念及振興這片地區也就同意了假釋。
-78,TEXT_BANPEL004_05196_PELUPELUPEDDLER05196_000_024,現在怎麼樣我不太清楚……<hex:02100103>但是他們大概已經不會再幹回老本行了吧。
-79,TEXT_BANPEL004_05196_PELUPELUPEDDLER05196_000_025,我在奧闊帕恰山還有商談，要先走一步了。<hex:02100103>要是還能在哪裡見到你就好啦。
-80,TEXT_BANPEL004_05196_LIPLU_000_030,<hex:022903EB0203>，怎麼樣？<hex:02100103>打聽到什麼情報了嗎？
-81,TEXT_BANPEL004_05196_LIPLU_000_031,自首之後歸還了贓物，<hex:02100103>在假釋之後就回到了這片森林啊……<hex:02100103>不過，聽起來似乎沒再做壞事呢。
-82,TEXT_BANPEL004_05196_LIPLU_000_032,既然有人在南邊見到過他們，那我們就去看看吧，<hex:02100103>說不定還能碰到為首的瓦克薩呢！
-83,TEXT_BANPEL004_05196_LIPLU_000_033,雖然是我自己提出來的，<hex:02100103>但有點害怕也是真的……<hex:02100103>不過沒關係！還有<hex:022903EB0203>陪著我呢！
-84,TEXT_BANPEL004_05196_WAWKESA_000_034,可惡啊，結果什麼都沒釣上來。<hex:02100103>我已經受夠吃漿果果腹了，這下可怎麼辦才好……
-85,TEXT_BANPEL004_05196_WAWKESA_000_035,噫——？！<hex:02100103>你、你是那時候那個強得可怕的冒險者？！
-86,TEXT_BANPEL004_05196_WAWKESA_000_036,事到如今你還想怎麼樣啊！<hex:02100103>我在那之後已經投案自首、還把贓物都還回去了！<hex:02100103>也沒再做壞事，你不用再追我了吧……！
-87,TEXT_BANPEL004_05196_Q2_000_004,要說什麼？
-88,TEXT_BANPEL004_05196_A2_000_001,有個對你來說不錯的事
-89,TEXT_BANPEL004_05196_A2_000_002,我找你有點「私事」
-90,TEXT_BANPEL004_05196_A2_000_003,這次倒不是我找你
-91,TEXT_BANPEL004_05196_WAWKESA_000_037,噫……我信你個鬼！<hex:02100103>你是想找我來報復綁架公主那件事的吧？！
-92,TEXT_BANPEL004_05196_LIPLU_000_038,<hex:022903EB0203>說的是真的，<hex:02100103>我們這次找你，是想和你商量個事。<hex:02100103>哦，我叫做利普露，請多關照啦！
-93,TEXT_BANPEL004_05196_WAWKESA_000_039,噫——？！<hex:02100103>你、你還特地追過來報仇啊？！
-94,TEXT_BANPEL004_05196_LIPLU_000_040,不不不，不是那樣的！<hex:02100103>我們這次找你，是想和你商量個事。<hex:02100103>我叫做利普露，請多關照啦！
-95,TEXT_BANPEL004_05196_LIPLU_000_041,是呀是呀，<hex:02080DE905FF04>她<hex:FF04>他<hex:03>是陪我來的。<hex:02100103>我能稱呼你為瓦克薩先生嗎？<hex:02100103>我叫做利普露，這次是來找你商量事情的！
-96,TEXT_BANPEL004_05196_LIPLU_000_042,我就開門見山了，瓦克薩先生。<hex:02100103>你要是想洗心革面重新做人的話，<hex:02100103>要不要來我們公司……圖拉爾旅行公司工作？
-97,TEXT_BANPEL004_05196_WAWKESA_000_043,工、工作？！<hex:02100103>我知道了……你們是想把我騙走，<hex:02100103>拐回礦山裡是不是？！
-98,TEXT_BANPEL004_05196_WAWKESA_000_044,想得美！<hex:02100103>我拼了命才逃到這尤卡圖拉爾的，<hex:02100103>我才不想再回去呢！
-99,TEXT_BANPEL004_05196_LIPLU_000_045,誒、你等等……
-100,TEXT_BANPEL004_05196_LIPLU_000_046,看來是沒想到我們會這樣說，直接嚇跑了吧……<hex:02100103>看他的樣子，難道是遇到過什麼事……？<hex:02100103>拐回礦山是怎麼回事啊……？
-101,TEXT_BANPEL004_05196_LIPLU_000_047,哎，<hex:022903EB0203>，<hex:02100103>我想趁這個機會打聽下他的事情，<hex:02100103>只要解開了誤會，我們就能好好溝通了吧。
-102,TEXT_BANPEL004_05196_LIPLU_000_048,不用管我啦，你可以先去把瓦克薩先生帶回來嗎？<hex:02100103>雖然他跑得挺快的……<hex:02100103>但是你一定能把他帶回來的！
-103,TEXT_BANPEL004_05196_LIPLU_000_049,不好意思啊，還要麻煩你一趟……<hex:02100103>可以請你把瓦克薩先生帶回來嗎？<hex:02100103>他一定還沒跑遠呢。
-104,TEXT_BANPEL004_05196_WAWKESA_000_050,呼……呼……只要逃到這來，<hex:02100103>就算是他們應該也沒法輕易找到我……
-105,TEXT_BANPEL004_05196_WAWKESA_000_051,嗚哇——出現了——？！
-106,TEXT_BANPEL004_05196_WAWKESA_000_052,不是吧？！我明明拼了命地跑啊跑的，這就被追上了？！<hex:02100103>可惡……這下跑不掉了，全完了……
-107,TEXT_BANPEL004_05196_WAWKESA_000_053,哎……你行行好吧，我真的錯了，算我求你了……<hex:02100103>我們被抓了之後就發誓再也不幹壞事了，<hex:02100103>今後也打算老老實實地過日子，你就放過我們吧……
-108,TEXT_BANPEL004_05196_WAWKESA_000_054,是我誤會了？要我和你們談談……？<hex:02100103>唉，反正我也跑不掉了……<hex:02100103>行吧，我放棄了，就跟你回去吧。
-109,TEXT_BANPEL004_05196_WAWKESA_000_060,我已經不會再跑了，<hex:02100103>你有話想說就說吧。
-110,TEXT_BANPEL004_05196_LIPLU_000_061,瓦克薩先生，不好意思嚇到你了，<hex:02100103>我並沒想把你嚇成這樣的……<hex:02100103>你可不可以告訴我，為什麼一提工作就跑了呢？
-111,TEXT_BANPEL004_05196_WAWKESA_000_062,在這之前，我先問你一下，<hex:02100103>你們真的不是來把我們抓回礦山的吧？
-112,TEXT_BANPEL004_05196_WAWKESA_000_063,是嗎……那……
-113,TEXT_BANPEL004_05196_WAWKESA_000_064,其實，我們這一夥人，<hex:02100103>是從薩卡圖拉爾的黑心礦山老闆那邊一起逃到這來的。
-114,TEXT_BANPEL004_05196_WAWKESA_000_065,自從幾年前發掘出青磷水之後，<hex:02100103>夏勞尼荒野就蓬勃發展起來了，這你們也知道吧？
-115,TEXT_BANPEL004_05196_WAWKESA_000_066,但是，獲得了發掘權的礦山老闆之中，<hex:02100103>也有連貧困村莊的小孩都不放過，抓來當苦力想一夜暴富的混賬。<hex:02100103>……我們的僱主就是其中之一。
-116,TEXT_BANPEL004_05196_WAWKESA_000_067,我們每天都累得要死，實在是無法忍受了，<hex:02100103>再給他打工，我們就連命都沒了。<hex:02100103>於是我們就帶著虛弱的同伴們藏進裝青磷水的桶裡逃到了圖萊尤拉。
-117,TEXT_BANPEL004_05196_WAWKESA_000_068,之後你們也能想像到了吧。<hex:02100103>我們避開礦山老闆的追兵，一路跑到克扎瑪烏卡濕地附近，<hex:02100103>就以強盜為生了。
-118,TEXT_BANPEL004_05196_WAWKESA_000_069,為了活下來，我們也不惜髒了手幹壞事，<hex:02100103>之前都是這麼打算的，但是武王在繼位儀式上關照了我們，<hex:02100103>聽說了這回事之後……我們就自首了。
-119,TEXT_BANPEL004_05196_WAWKESA_000_070,不久前，她還施恩於我們，恩准了假釋……<hex:02100103>但是不管怎麼說，我們還是怕被礦山老闆追回去，<hex:02100103>所以我就逃跑了。
-120,TEXT_BANPEL004_05196_LIPLU_000_071,謝謝你願意和我們坦白，<hex:02100103>我理解你的苦衷了。
-121,TEXT_BANPEL004_05196_LIPLU_000_072,那……為了能安心活下去，<hex:02100103>我想重新向你提議……<hex:02100103>你想不想來我們圖拉爾旅行公司工作？
-122,TEXT_BANPEL004_05196_WAWKESA_000_073,那、那當然是求之不得了。<hex:02100103>但是，要是我們給你工作的事被礦山老闆知道了……<hex:02100103>他派人來抓我們，也會給你們添麻煩的。
-123,TEXT_BANPEL004_05196_LIPLU_000_074,我稍微調查了一下，感覺不用擔心。<hex:02100103>夏勞尼荒野在自警團和荒野黎明的活躍表現之下，<hex:02100103>形勢已經和以前大不一樣啦。
-124,TEXT_BANPEL004_05196_LIPLU_000_075,而且，我還打算聯繫下智理院那邊……<hex:02100103>請他們協助強盜們回歸社會！<hex:02100103>新的聯王大人們一定會幫助你們的！
-125,TEXT_BANPEL004_05196_WAWKESA_000_076,我明白了……倒不如說我們才是有求於你們的那一方。<hex:02100103>我們這些人已經無路可走了，<hex:02100103>請讓我們到圖拉爾旅行公司工作吧！
-126,TEXT_BANPEL004_05196_WAWKESA_000_077,不過，我們幹點什麼才好啊？<hex:02100103>我們能做的也就是些力氣活，要不就是在這周圍帶帶路……<hex:02100103>我自己的話，在礦山那邊的炊事班幹過挺長時間的，還能做飯！
-127,TEXT_BANPEL004_05196_LIPLU_000_078,做飯好啊！<hex:02100103>有這門專業技術的話，我們還可以試著開個食堂，<hex:02100103>沒準還能成為觀光的新銷路呢！
-128,TEXT_BANPEL004_05196_LIPLU_100_078,然後，你的同伴們那邊就要看他們各人的長處因材施教，<hex:02100103>要是再學些護衛的本領，能為遊客們做嚮導就再好不過啦。<hex:02100103>我正愁找不到熟悉上游水域的強者呢！
-129,TEXT_BANPEL004_05196_LIPLU_000_079,總之，我們得快點回去做準備啦。<hex:02100103>瓦克薩先生就先回到同伴們身邊和他們轉達這個消息吧，<hex:02100103>之後我們再在水果碼頭的事務所集合！
-130,TEXT_BANPEL004_05196_WAWKESA_000_080,正經的工作……<hex:02100103>這對我和我的同伴們來說都是最後的機會了，<hex:02100103>決不能搞砸了。
-131,TEXT_BANPEL004_05196_LIPLU_000_081,歡迎回來，<hex:022903EB0203>！<hex:02100103>我問了智理院那邊，情況和我之前說的差不多，<hex:02100103>瓦克薩先生心裡的石頭可以放下啦！
-132,TEXT_BANPEL004_05196_LIPLU_100_081,青磷水採掘地的情況在這幾年間已經大變樣了！<hex:02100103>荒野黎明的成立解救了那些被抓去當苦力的孩子，<hex:02100103>自警團的建立也改善了濫用槍械進行決鬥的混亂情況。
-133,TEXT_BANPEL004_05196_LIPLU_200_081,而瓦克薩先生他們所害怕的缺德礦山老闆，<hex:02100103>也早就被荒野黎明扳倒啦。
-134,TEXT_BANPEL004_05196_LIPLU_000_082,當然了，智理院為了維護夏勞尼荒野的治安，<hex:02100103>也會一直監管著那些壞老闆們。<hex:02100103>所以瓦克薩先生，你們沒有後顧之憂了，儘管在我們這工作吧！
-135,TEXT_BANPEL004_05196_WAWKESA_000_083,實在是太感謝了……
-136,TEXT_BANPEL004_05196_WAWKESA_000_084,那我們也就只有全力工作了！<hex:02100103>這樣一來，也能拿薪水向那些被我們打劫過的人好好贖罪了！
-137,TEXT_BANPEL004_05196_LIPLU_000_085,很好很好！就要這個勁頭！<hex:02100103>今後就請多多關照啦！
-138,TEXT_BANPEL004_05196_SYSTEM_000_500,在利普露和<hex:022903EB0203>的努力之下，<hex:02100103>瓦克薩及其同伴們加入了圖拉爾旅行公司！<hex:02100103>上游水域的人手短缺應該也得以解決了。
-139,TEXT_BANPEL004_05196_SYSTEM_000_501,圖拉爾旅行公司還增設了食堂，<hex:02100103>能夠為前來觀光的遊客們提供更加地道的美食了。<hex:02100103>今後也繼續讓旅行公司更加興隆吧！
-140,TEXT_BANPEL004_05196_SYSTEM_000_105,與佩魯佩魯族「圖拉爾旅行公司」之間的關係程度到達了「名譽」。<hex:02100103>冒險者協助他們增加了新的同伴，贏得了他們的信賴。
-141,TEXT_BANPEL004_05196_SYSTEM_000_106,今後可以在水果碼頭的玉畢利處，<hex:02100103>接受新的友好部族日常任務。
-142,TEXT_BANPEL004_05196_SYSTEM_000_107,同時，作為獎勵，<hex:02100103>友好關係等級提升的當天，<hex:02100103>可從玉畢利處接受的友好部族日常任務數量追加3個。
-143,TEXT_BANPEL004_05196_SYSTEM_000_108,領取完所有友好關係等級提升前發行的友好部族日常任務後，<hex:02100103>將會發行作為獎勵的追加任務。<hex:02100103>受理限額未達到上限即可接受追加任務。
-144,TEXT_BANPEL004_05196_SYSTEM_000_109,並且可以在「帕弗利」處購入要求「關係程度：名譽」的商品。<hex:02100103>在今後的冒險裡善加利用吧！
+0,"TEXT_BANPEL004_05196_SEQ_00","Something seems to be weighing heavily on Liplu's mind.<hex:02100103>※The difficulty of this quest will be synced to your current level."
+1,"TEXT_BANPEL004_05196_SEQ_01","Due to a shortage of guides familiar with upstream Kozama'uka, the Turali Travel Agency is struggling to make the most of its recent expansion into Earthenshire. When you posit that a certain bandit gang might make for potential recruits, Liplu balks at first, given that they kidnapped Vow Wuk Lamat herself. However, the Pelu then recalls that they not only turned themselves in, but were later released on parole. As they may be interested in making a fresh start, she requests your help in tracking them down, and suggests you begin by taking a trip to Many Fires and inquiring among the locals.<hex:02100103><hex:02100103>※Please note that the difficulty of this quest has been synced to your current level. Furthermore, you may not proceed with a class or job that is different from when you accepted this quest."
+2,"TEXT_BANPEL004_05196_SEQ_02","After speaking with the townsfolk in Many Fires, you learn that Wawkesa and his crew were pardoned by Vow Wuk Lamat herself. Recent sightings suggest the Tonawawtan leader has been eking out a law-abiding existence in the wilds outside the settlement. Liplu will wish to hear what you have learned."
+3,"TEXT_BANPEL004_05196_SEQ_03","Having heard your findings, Liplu is convinced there is merit in approaching Wawkesa with an offer of employment. You make for the Dewspun Bank, close to the former bandit's alleged hideout."
+4,"TEXT_BANPEL004_05196_SEQ_04","In the wilds, you encounter a downtrodden Wawkesa trudging back from a fruitless attempt at fishing. Mistaking Liplu's proposal as a ploy to drag him back into some past servitude, the terrified Tonawawta flees the scene. It would be prudent to regroup and discuss your next move with Liplu."
+5,"TEXT_BANPEL004_05196_SEQ_05","Before running off, the erstwhile bandit spoke of mines from which he escaped and resolved never to return to. As this was clearly a traumatic experience, Liplu is keen not only to hear the full story, but to clear up the misunderstanding, and to that end she asks you to find Wawkesa and bring him back."
+6,"TEXT_BANPEL004_05196_SEQ_06","You come across the Tonawawta gasping for breath in the lee of a rocky outcrop. Resigned to whatever fate lies in store for him, Wawkesa agrees to speak with Liplu. You prepare to reconvene with the pair in the Dewspun Bank."
+7,"TEXT_BANPEL004_05196_SEQ_07","Convinced at last that Liplu's proposal was genuine, the Tonawawta shares the harrowing tale of his past. Having been forced to toil in Shaaloani mines as children for many years, Wawkesa and his comrades one day realized they would need to escape or die beneath the earth. Though they made good their escape, their foreman attempted to hunt them down, and it was only by fleeing to Kozama'uka and turning to crime that they managed to evade recapture. Hearing this, Liplu reassures Wawkesa that she does not wish to bind or send him back, and once again extends him and his crew an invitation to earn an honest living at the Turali Travel Agency. Though he is unsure how precisely they may be of service, he is willing to accept, and so all leave to discuss matters further at Dock Poga."
+8,"TEXT_BANPEL004_05196_SEQ_08","Back at the agency, Liplu is quick to assuage Wawkesa's concerns about returning to public life. Emboldened, he and his comrades resolve to do their part and give back to the community, with Wawkesa taking charge of the brand-new eatery. When queues of hungry visitors inevitably clamor to sample the local cuisine, Liplu and company will yet again have need of their special advisor."
+9,"TEXT_BANPEL004_05196_SEQ_09",""
+10,"TEXT_BANPEL004_05196_SEQ_10",""
+11,"TEXT_BANPEL004_05196_SEQ_11",""
+12,"TEXT_BANPEL004_05196_SEQ_12",""
+13,"TEXT_BANPEL004_05196_SEQ_13",""
+14,"TEXT_BANPEL004_05196_SEQ_14",""
+15,"TEXT_BANPEL004_05196_SEQ_15",""
+16,"TEXT_BANPEL004_05196_SEQ_16",""
+17,"TEXT_BANPEL004_05196_SEQ_17",""
+18,"TEXT_BANPEL004_05196_SEQ_18",""
+19,"TEXT_BANPEL004_05196_SEQ_19",""
+20,"TEXT_BANPEL004_05196_SEQ_20",""
+21,"TEXT_BANPEL004_05196_SEQ_21",""
+22,"TEXT_BANPEL004_05196_SEQ_22",""
+23,"TEXT_BANPEL004_05196_SEQ_23",""
+24,"TEXT_BANPEL004_05196_TODO_00","Gather information in Many Fires."
+25,"TEXT_BANPEL004_05196_TODO_01","Speak with Liplu."
+26,"TEXT_BANPEL004_05196_TODO_02","Survey the designated location."
+27,"TEXT_BANPEL004_05196_TODO_03","Speak with Liplu."
+28,"TEXT_BANPEL004_05196_TODO_04","Search for Wawkesa."
+29,"TEXT_BANPEL004_05196_TODO_05","Speak with Liplu."
+30,"TEXT_BANPEL004_05196_TODO_06","Speak with Liplu again."
+31,"TEXT_BANPEL004_05196_TODO_07",""
+32,"TEXT_BANPEL004_05196_TODO_08",""
+33,"TEXT_BANPEL004_05196_TODO_09",""
+34,"TEXT_BANPEL004_05196_TODO_10",""
+35,"TEXT_BANPEL004_05196_TODO_11",""
+36,"TEXT_BANPEL004_05196_TODO_12",""
+37,"TEXT_BANPEL004_05196_TODO_13",""
+38,"TEXT_BANPEL004_05196_TODO_14",""
+39,"TEXT_BANPEL004_05196_TODO_15",""
+40,"TEXT_BANPEL004_05196_TODO_16",""
+41,"TEXT_BANPEL004_05196_TODO_17",""
+42,"TEXT_BANPEL004_05196_TODO_18",""
+43,"TEXT_BANPEL004_05196_TODO_19",""
+44,"TEXT_BANPEL004_05196_TODO_20",""
+45,"TEXT_BANPEL004_05196_TODO_21",""
+46,"TEXT_BANPEL004_05196_TODO_22",""
+47,"TEXT_BANPEL004_05196_TODO_23",""
+48,"TEXT_BANPEL004_05196_LIPLU_000_000","What am I going to do... I can't seem to find anyone up to the task."
+49,"TEXT_BANPEL004_05196_LIPLU_000_001","Oh, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! You have the wonderful habit of appearing exactly when I need you! I've got a problem on my hands..."
+50,"TEXT_BANPEL004_05196_LIPLU_000_002","Don't worry, the agency's doing just fine. The Earthenshire tours have been a runaway success, and if bookings stay steady, we'll soon recoup all the recent outlays."
+51,"TEXT_BANPEL004_05196_LIPLU_100_002","Well, that's actually the problem. The upper reaches of Kozama'uka are proving <hex:021A020203>too<hex:021A020103> popular─we're struggling to meet demand with our current number of tour guides."
+52,"TEXT_BANPEL004_05196_LIPLU_000_003","I want to address the issue before the burden starts wearing the staff down... You aren't aware of anyone in need of work who knows the region like the back of their hand, are you?"
+53,"TEXT_BANPEL004_05196_Q1_000_000","What will you say?"
+54,"TEXT_BANPEL004_05196_A1_000_001","How about asking the Hanuhanu?"
+55,"TEXT_BANPEL004_05196_A1_000_002","Sounds like a job for the Moblins."
+56,"TEXT_BANPEL004_05196_A1_000_003","A certain bandit gang comes to mind..."
+57,"TEXT_BANPEL004_05196_LIPLU_000_004","Hmmm. There are only a handful of Hanu who know the region around Earthenshire, and they're already on the payroll! Sorry to dismiss your suggestion, but do you have any other ideas?"
+58,"TEXT_BANPEL004_05196_LIPLU_000_005","That would be ideal, but the Moblins have the potsworn to attend to... I'd be loath to ask any more of them. Do you have any other suggestions?"
+59,"TEXT_BANPEL004_05196_LIPLU_000_006","You don't mean the bandits who kidnapped Dawnservant Wuk Lamat during the rite of succession!? I'm sure they know the area well, but..."
+60,"TEXT_BANPEL004_05196_LIPLU_000_007","Ah, hold on... I do remember hearing about a group of miscreants who turned themselves in to the Landsguard not long after the ascension ceremony. Apparently, they were later released on parole."
+61,"TEXT_BANPEL004_05196_LIPLU_000_008","I suppose if they're willing to atone for their crimes and genuinely wish to make a fresh start..."
+62,"TEXT_BANPEL004_05196_LIPLU_000_009","My inner abacus is clacking away! It says we should speak with them, at the very least!"
+63,"TEXT_BANPEL004_05196_LIPLU_100_009","Reduce the strain on our staff, have former bandits give back to the communities they wronged... Yes, yes─everyone stands to gain much from a potential arrangement!"
+64,"TEXT_BANPEL004_05196_LIPLU_000_010","Would you be willing to help track down these bandits?"
+65,"TEXT_BANPEL004_05196_LIPLU_000_011","I knew I could count on you! Let's head to Many Fires and see what we can glean from the locals!"
+66,"TEXT_BANPEL004_05196_LIPLU_000_012","I'm looking for a group of recently pardoned bandits... Does that ring any bells?"
+67,"TEXT_BANPEL004_05196_MOB05196A_000_013","Has Mobbie heard windtalk of bandits? I'm afraid not. These parts have been peaceful of late. Plenty of time to fish!"
+68,"TEXT_BANPEL004_05196_MOB05196A_000_014","Although I did eyecatch a scrawny fisher in the woods not far from Deceiver's Mantel..."
+69,"TEXT_BANPEL004_05196_MOB05196A_000_015","A Tonawawta with crazyhair as bright as jinglyshine! I wonder who he was..."
+70,"TEXT_BANPEL004_05196_MOB05196B_000_016","Ah, you seek news of the bandits let out on parole? Sneakytakers, the lot of them!"
+71,"TEXT_BANPEL004_05196_MOB05196B_000_017","They spread many badfeels in the village with their crimes. Cheese was not for them!"
+72,"TEXT_BANPEL004_05196_MOB05196B_000_018","Apparently, they were eyecatched not so long ago. Mobbie dreads to think about the inevitable recidivism..."
+73,"TEXT_BANPEL004_05196_MOB05196B_000_019","I hope they've had time to reflect on the wrongness of dirtytaking and are ready to make an honest living!"
+74,"TEXT_BANPEL004_05196_PELUPELUPEDDLER05196_000_020","My goodness, it's you! You came here with Dawnservant Koana seeking information about the bandit that waylaid me. Is there anything I can help you with this time?"
+75,"TEXT_BANPEL004_05196_PELUPELUPEDDLER05196_000_021","Ah, you wish to know what happened to Wawkesa and his band of brigands after all that? Well, I gather they surrendered to the Landsguard."
+76,"TEXT_BANPEL004_05196_PELUPELUPEDDLER05196_000_022","They even confessed the whereabouts of their stolen goods, that everything might be returned to their rightful owners. Sure enough, my merchandise made its way back to me."
+77,"TEXT_BANPEL004_05196_PELUPELUPEDDLER05196_000_023","Apparently, some of their victims were so moved by the gesture that they petitioned the Landsguard for a more lenient sentence. Perhaps that's why Vow Wuk Lamat granted them parole."
+78,"TEXT_BANPEL004_05196_PELUPELUPEDDLER05196_000_024","I don't know how they've fared thence, but I've heard nothing to suggest they've been causing trouble."
+79,"TEXT_BANPEL004_05196_PELUPELUPEDDLER05196_000_025","Anyhow, you'll have to excuse me. I must meet with a client in Urqopacha. I do hope we meet again someday!"
+80,"TEXT_BANPEL004_05196_LIPLU_000_030","Any news of our bandits?"
+81,"TEXT_BANPEL004_05196_LIPLU_000_031","Hmmm. So they turned themselves in, returned the stolen goods, and are now living in the wilds after being pardoned. What's more, it seems they haven't fallen back into old habits..."
+82,"TEXT_BANPEL004_05196_LIPLU_000_032","Let's make for the woods to the south. That's where the angler spotted Wawkesa, right? Hopefully we'll run into him there!"
+83,"TEXT_BANPEL004_05196_LIPLU_000_033","I must admit, I regret being so bold... But then again, what do I have to fear with you by my side!"
+84,"TEXT_BANPEL004_05196_WAWKESA_000_034","Starting to think I'm not cut out for fishing...and a man can't live off scrounging berries forever. What to do..."
+85,"TEXT_BANPEL004_05196_WAWKESA_000_035","Aaagh! Y-You're that salted devil of a sellsword!"
+86,"TEXT_BANPEL004_05196_WAWKESA_000_036","L-Listen, I turned myself in─even gave back what I stole! Put that life behind me for good. What more could you possibly want from me!?"
+87,"TEXT_BANPEL004_05196_Q2_000_004","What will you say?"
+88,"TEXT_BANPEL004_05196_A2_000_001","I have a proposition for you."
+89,"TEXT_BANPEL004_05196_A2_000_002","I came to <hex:021A020203>personally<hex:021A020103> ensure you got what you deserve."
+90,"TEXT_BANPEL004_05196_A2_000_003","Oh, <hex:021A020203>I<hex:021A020103> don't want anything from you..."
+91,"TEXT_BANPEL004_05196_WAWKESA_000_037","And why should I trust you!? You're here to get revenge for the kidnapping, aren't you!?"
+92,"TEXT_BANPEL004_05196_LIPLU_000_038","I assure you, as my associate says, we really do have a proposition for you. I'm Liplu. It's a pleasure to meet you."
+93,"TEXT_BANPEL004_05196_WAWKESA_000_039","Y-You came to get revenge for the kidnapping!?"
+94,"TEXT_BANPEL004_05196_LIPLU_000_040","Quite the opposite. We've come with a business proposal. My name's Liplu, by the way. It's a pleasure to meet you."
+95,"TEXT_BANPEL004_05196_LIPLU_000_041","You're Wawkesa, yes? My name's Liplu, and I have an exciting business proposal for you!"
+96,"TEXT_BANPEL004_05196_LIPLU_000_042","I'll get straight to the point. If you're serious about keeping to the strait and narrow, and making amends for your past crimes, perhaps you'd like to work with us...at the Turali Travel Agency!"
+97,"TEXT_BANPEL004_05196_WAWKESA_000_043","Work for you!? Hah─I see your scheme! Plotting to haul me off to the mines under the guise of “employment,” aren't you!?"
+98,"TEXT_BANPEL004_05196_WAWKESA_000_044","Curse you blackhearts! I ate dirt to survive after I escaped! I won't set foot inside another mine while there's still breath in my lungs!"
+99,"TEXT_BANPEL004_05196_LIPLU_000_045","Wait!"
+100,"TEXT_BANPEL004_05196_LIPLU_000_046","...That was unexpected. And all that talk of mines... He seemed genuinely traumatized."
+101,"TEXT_BANPEL004_05196_LIPLU_000_047","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, I want to find out what happened to him. Hopefully, that way, we can clear up this misunderstanding and have a proper discussion."
+102,"TEXT_BANPEL004_05196_LIPLU_000_048","I hate to ask, but could you find Wawkesa and bring him back here? He was awfully fast, but I doubt he could outrun you!"
+103,"TEXT_BANPEL004_05196_LIPLU_000_049","If you could bring Wawkesa back, it would be much appreciated! I'm sure he's still nearby."
+104,"TEXT_BANPEL004_05196_WAWKESA_000_050","<wheeze> I don't care how fast they are... <wheeze> They'll never find me here..."
+105,"TEXT_BANPEL004_05196_WAWKESA_000_051","Whaaat!? How!?"
+106,"TEXT_BANPEL004_05196_WAWKESA_000_052","Unbelievable. I ran full pelt, and yet... Ah, what's the use."
+107,"TEXT_BANPEL004_05196_WAWKESA_000_053","Listen, I know what we did was inexcusable, but after it came to a head, we made an oath─an oath to never walk that path again. I won't bother another soul, I'll live out my days on the fringes... Please, just leave me be!"
+108,"TEXT_BANPEL004_05196_WAWKESA_000_054","You're saying this is all a misunderstanding...? Well, it's clear there's no escaping you regardless. Fine, I'll hear her out...and put my fate in your hands."
+109,"TEXT_BANPEL004_05196_WAWKESA_000_060","Don't worry, I'm not going anywhere. Your associate says she wants to talk, and I'm prepared to listen."
+110,"TEXT_BANPEL004_05196_LIPLU_000_061","I apologize if we frightened you, Wawkesa. That wasn't our intention. Are you willing to tell us why you fled?"
+111,"TEXT_BANPEL004_05196_WAWKESA_000_062","Before we get to that, I want you to be honest. Do you <hex:021A020203>really<hex:021A020103> have a proposition for me that doesn't involve dragging me back to those godsforsaken mines?"
+112,"TEXT_BANPEL004_05196_WAWKESA_000_063","Hmph. In that case..."
+113,"TEXT_BANPEL004_05196_WAWKESA_000_064","I'll be honest with <hex:021A020203>you<hex:021A020103>. Me and the rest of the gang first came here after fleeing Xak Tural."
+114,"TEXT_BANPEL004_05196_WAWKESA_000_065","I'm sure I don't need to tell you, but Shaaloani's been a hotbed of development since they found blue gold beneath the plains."
+115,"TEXT_BANPEL004_05196_WAWKESA_000_066","Among the folk that got their hands on a drilling permit, there were more than a few looking to get rich quick. The kind of despicable bastards who didn't think twice about sending kids into the tunnels. And we, well...we worked for the worst of the worst."
+116,"TEXT_BANPEL004_05196_WAWKESA_000_067","Day after day, toiling and wasting away. Till we died or escaped, we eventually realized. So we smuggled ourselves out in empty ceruleum barrels."
+117,"TEXT_BANPEL004_05196_WAWKESA_000_068","You can imagine what happened next. That vidraal of a foreman tried to hunt us down, so we fled to Kozama'uka and took to banditry, as much to conceal our identities as to make ends meet."
+118,"TEXT_BANPEL004_05196_WAWKESA_000_069","Right or wrong be damned, we would survive. But...when we heard that Dawnservant Wuk Lamat spoke of our plight during the ascension ceremony, we decided to turn ourselves in."
+119,"TEXT_BANPEL004_05196_WAWKESA_000_070","After a time, she showed us mercy and gave us a pardon. Even so...there's still that fear of what might happen if the foreman or his lackeys were to find us..."
+120,"TEXT_BANPEL004_05196_LIPLU_000_071","Thank you for sharing your story, and telling me of the struggles you and your friends have experienced."
+121,"TEXT_BANPEL004_05196_LIPLU_000_072","Let me assure you that I do not wish to bind you with contracts or chains. I offer only the opportunity for you and your comrades to provide for yourselves. To make an honest living on your own terms. So...how about it? How does working at the Turali Travel Agency sound? "
+122,"TEXT_BANPEL004_05196_WAWKESA_000_073","Th-That's more than any of us dared hope for. But what if word gets back to the foreman? If someone shows up to haul us away, and we drag you into our affairs..."
+123,"TEXT_BANPEL004_05196_LIPLU_000_074","I'll need to look into it to be sure, but I honestly don't think there's much chance of that happening. Thanks to the efforts of the Dustwatch and the Daybreakers, Shaaloani's no longer the lawless place it used to be."
+124,"TEXT_BANPEL004_05196_LIPLU_000_075","Besides, I've been working on a plan to help reintegrate former outlaws into society. I'll be sounding out the Wing of Reflection to see if they can't support the initiative. I'm sure the new Dawnservants will give their blessing!"
+125,"TEXT_BANPEL004_05196_WAWKESA_000_076","Incredible! But, you know, it feels like we should be begging you for the opportunity... We've burned so many bridges. I'll make damn sure you don't regret this!"
+126,"TEXT_BANPEL004_05196_WAWKESA_000_077","That said, what exactly are we supposed to do for you? About all we're good for is manual labor and pathfinding. Though I do also know my way around a cookfire after feeding miners for all those years."
+127,"TEXT_BANPEL004_05196_LIPLU_000_078","Hmmm...This wasn't part of the plan, per se, but I think your culinary skills might come in handy! A restaurant on-site could be a real earner!"
+128,"TEXT_BANPEL004_05196_LIPLU_100_078","As for your comrades, we've been looking for individuals with an intimate knowledge of upstream Kozama'uka who are also capable of handling themselves! My plan was to employ them as guides-turned-protectors after a thorough assessment and proper training."
+129,"TEXT_BANPEL004_05196_LIPLU_000_079","I'd say it's about time we got back and continued preparations. Wawkesa can meet us back at the agency in Dock Poga once he contacts his friends!"
+130,"TEXT_BANPEL004_05196_WAWKESA_000_080","Real, honest work... Something tells we won't get another chance like this."
+131,"TEXT_BANPEL004_05196_LIPLU_000_081","Welcome back, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! I reached out to the Wing of Reflection, and it was just as I thought. It seems Wawkesa's fears were unfounded."
+132,"TEXT_BANPEL004_05196_LIPLU_100_081","The situation in the ceruleum fields has changed dramatically in the past few years. Groups like the Daybreakers have put an end to the practice of child labor, and the Dustwatch have all but stamped out the violent duels that used to be so common."
+133,"TEXT_BANPEL004_05196_LIPLU_200_081","As for the company you and your comrades worked for, they have long since been shut down by the Daybreakers."
+134,"TEXT_BANPEL004_05196_LIPLU_000_082","For its part, the Wing of Reflection is committed to the restoration and preservation of law and order in Shaaloani. Any new unscrupulous drilling operations are swiftly dealt with. You needn't worry about anyone coming after you!"
+135,"TEXT_BANPEL004_05196_WAWKESA_000_083","Thank the heavens for that!"
+136,"TEXT_BANPEL004_05196_WAWKESA_000_084","In that case, we can commit to doing our part and repaying our debts! We've decided to set aside some of our earnings and repay folk for all the hurt we caused, you see."
+137,"TEXT_BANPEL004_05196_LIPLU_000_085","Wonderful! Simply wonderful! It's a pleasure to have you on board!"
+138,"TEXT_BANPEL004_05196_SYSTEM_000_500","Thanks to the efforts of Liplu and her special advisor, Wawkesa and his comrades have agreed to join the Turali Travel Agency! With this influx of new recruits, the shortage of staff that had threatened to curtail expansion into Earthenshire has been resolved."
+139,"TEXT_BANPEL004_05196_SYSTEM_000_501","While his former crewmates begin their training as guides, Wawkesa himself will be devising a menu of delicious local dishes as head chef of the agency's brand-new eatery. Be sure to assist him and his crew of former brigands on their road to rehabilitation!"
+140,"TEXT_BANPEL004_05196_SYSTEM_000_105","You have achieved <hex:024804F201F403><hex:024904F201F503>Honored<hex:0249020103><hex:0248020103> reputation with the Turali Travel Agency."
+141,"TEXT_BANPEL004_05196_SYSTEM_000_106","New Pelupelu society daily quests are now available from Yubli at Dock Poga."
+142,"TEXT_BANPEL004_05196_SYSTEM_000_107","Furthermore, you will be able to undertake three additional quests from Yubli as a reputation bonus. This bonus is available until the daily reset time for allied society quests."
+143,"TEXT_BANPEL004_05196_SYSTEM_000_108","These additional quests will become available after accepting all current daily quests from Yubli. Please be advised that you cannot undertake these quests if you have no remaining allowances."
+144,"TEXT_BANPEL004_05196_SYSTEM_000_109","You now have access to a wider selection of wares from Pavli."

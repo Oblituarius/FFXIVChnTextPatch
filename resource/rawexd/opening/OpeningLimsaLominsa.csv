@@ -2,17 +2,17 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_OPENINGLIMSALOMINSA_RYSSFLOH_000_02,喂，你上哪去？！<hex:02100103>快，來這邊！
-1,TEXT_OPENINGLIMSALOMINSA_FZHUMII_000_03,等一下。<hex:02100103>想去巴德龍所在的沉溺海豚亭的話，<hex:02100103>就去和古雷海法爾談談吧。
-2,TEXT_OPENINGLIMSALOMINSA_AHLDSKYF_000_05,喂，你等一下。<hex:02100103>和沉溺海豚亭的巴德龍聊過了嗎？<hex:02100103>想在利姆薩·羅敏薩活動的話，最好先和他談談。
-3,TEXT_OPENINGLIMSALOMINSA_ABYLFARR_000_07,你、你完成冒險者的註冊了嗎？<hex:02100103>如果還沒有，就去跟沉溺海豚亭的巴德龍談談。
-4,TEXT_OPENINGLIMSALOMINSA_SDHODJBI_000_09,我說你，快回來。<hex:02100103>看樣子你是新人冒險者吧？<hex:02100103>是的話，就去和巴德龍談談。
-5,TEXT_OPENINGLIMSALOMINSA_QUENTENAIN_000_11,喂，等等。<hex:02100103>想在利姆薩·羅敏薩活動的話，<hex:02100103>得先去和巴德龍老闆談談。
-6,TEXT_OPENINGLIMSALOMINSA_SKAENRAEL_000_13,你等一下。<hex:02100103>你先去向周圍的人確認一下，是否已經完成必要的談話。<hex:02100103>熟悉城市的事情，稍後再去也不遲。
-7,TEXT_OPENINGLIMSALOMINSA_SEA_SYSTEM_000_20,現在將開始遊戲的基礎教學。
-8,TEXT_OPENINGLIMSALOMINSA_SEA_SYSTEM_000_21,請先看操作說明，試試操作鏡頭以及移動角色。
-9,TEXT_OPENINGLIMSALOMINSA_SEA_SYSTEM_000_22,熟悉操作後請移動到叫你的利斯弗洛那裡。
-10,TEXT_OPENINGLIMSALOMINSA_FST_SYSTEM_000_23,請選擇遊戲的操作模式。
-11,TEXT_OPENINGLIMSALOMINSA_FST_SYSTEM_Q_01,請選擇要使用的操作模式。
-12,TEXT_OPENINGLIMSALOMINSA_FST_SYSTEM_A_01,鍵盤滑鼠模式
-13,TEXT_OPENINGLIMSALOMINSA_FST_SYSTEM_A_02,<hex:020818E1E94C02FF0A>控制器<hex:FF07>手把<hex:03>模式
+0,"TEXT_OPENINGLIMSALOMINSA_RYSSFLOH_000_02","Hey, where in the bleedin' hells do you think you're goin'!? I told you to get over here!"
+1,"TEXT_OPENINGLIMSALOMINSA_FZHUMII_000_03","Halt right there, adventurer. If it is Baderon and the Drowning Wench you seek, then you'd best speak with Grehfarr."
+2,"TEXT_OPENINGLIMSALOMINSA_AHLDSKYF_000_05","That's far enough, <hex:02080EE905FF05>lass<hex:FF04>lad<hex:03>. You want to adventure in Limsa Lominsa─and survive your first day─then I strongly suggest you visit the Wench and speak with Baderon first."
+3,"TEXT_OPENINGLIMSALOMINSA_ABYLFARR_000_07","Signed yourself up at the Adventurers' Guild, have you? I didn't think so. Turn around and march yourself over to the Crow's Lift. Baderon'll want a word with you."
+4,"TEXT_OPENINGLIMSALOMINSA_SDHODJBI_000_09","I don't mean to be rude, <hex:020811E905FF05>miss<hex:FF07>mister<hex:03>, but I know a green adventurer when I see one. Trust me when I say you'd be better off having a chat with all the folk here before you start wandering the city like some wide-eyed farmer's get."
+5,"TEXT_OPENINGLIMSALOMINSA_QUENTENAIN_000_11","'Old up there, <hex:02080EE905FF05>lass<hex:FF04>lad<hex:03>. Afore ye trot out the door an' straight into some scrag's ambush, ye might want to partake of the Wench's wisdom─proprietor and patrons both."
+6,"TEXT_OPENINGLIMSALOMINSA_SKAENRAEL_000_13","Bit premature for you to leave, don't you think? Or have you already heard everything that shady bloke behind the big desk had to say? If so, then you should know it's only polite to spare a moment for those in need─like the Lalafellin lass at the table who's staring at you right now."
+7,"TEXT_OPENINGLIMSALOMINSA_SEA_SYSTEM_000_20","Welcome to Limsa Lominsa, a bustling city–state filled with scoundrels and brigands, the rough-cut diamond of the Rhotano Sea."
+8,"TEXT_OPENINGLIMSALOMINSA_SEA_SYSTEM_000_21","Follow the instructions to move your character and adjust the position of the camera."
+9,"TEXT_OPENINGLIMSALOMINSA_SEA_SYSTEM_000_22","When you are ready to proceed, speak to Ryssfloh."
+10,"TEXT_OPENINGLIMSALOMINSA_FST_SYSTEM_000_23","Please select the control scheme you wish to use."
+11,"TEXT_OPENINGLIMSALOMINSA_FST_SYSTEM_Q_01","Select a control scheme."
+12,"TEXT_OPENINGLIMSALOMINSA_FST_SYSTEM_A_01","Mouse/Keyboard."
+13,"TEXT_OPENINGLIMSALOMINSA_FST_SYSTEM_A_02","<hex:02081AE1E94C02FF0B>Controller<hex:FF08>Gamepad<hex:03>."

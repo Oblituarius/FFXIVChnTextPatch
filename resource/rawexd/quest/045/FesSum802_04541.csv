@@ -2,142 +2,142 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_FESSUM802_04541_SEQ_00,※本任務是特定期間內的任務。<hex:02100103><hex:02100103>太陽海岸的爾·弗爾·提亞十分消沉。
-1,TEXT_FESSUM802_04541_SEQ_01,※本任務只有在季節活動開放期間才能接受和進行。<hex:02100103>　季節活動結束後無法進行，敬請注意。<hex:02100103>　詳情請參見官方網站。<hex:02100103><hex:02100103>即使向爾·弗爾·提亞搭話，他也沒什麼反應。對爾·弗爾·提亞做情感動作「安慰」。
-2,TEXT_FESSUM802_04541_SEQ_02,在冒險者和博德富安的勸告下，爾·弗爾·提亞重新振作起來，打算認認真真地一雪前恥。為了給爾·弗爾·提亞做出榜樣，冒險者決定挑戰魔城。和魔城挑戰登記負責人博德富安談談。
-3,TEXT_FESSUM802_04541_SEQ_03,開始挑戰魔城。和魔城中繼檢查點負責人希爾德拉娜談談。
-4,TEXT_FESSUM802_04541_SEQ_04,成功到達中繼地點。和魔城終點負責人佩·歐碧雅諾談談。
-5,TEXT_FESSUM802_04541_SEQ_05,冒險者成功地挑戰了魔城。爾·弗爾·提亞也盡最大的努力完成了挑戰。和爾·瑪嘉談談。
-6,TEXT_FESSUM802_04541_SEQ_06,端正了態度的爾·弗爾·提亞與後輩們和好了。向紅蓮節執行委員長荷爾瑪伽報告。
-7,TEXT_FESSUM802_04541_SEQ_07,向荷爾瑪伽進行了報告。今後的爾·弗爾·提亞應當能夠獨當一面了。收下報酬，享受紅蓮節吧。
-8,TEXT_FESSUM802_04541_SEQ_08,
-9,TEXT_FESSUM802_04541_SEQ_09,
-10,TEXT_FESSUM802_04541_SEQ_10,
-11,TEXT_FESSUM802_04541_SEQ_11,
-12,TEXT_FESSUM802_04541_SEQ_12,
-13,TEXT_FESSUM802_04541_SEQ_13,
-14,TEXT_FESSUM802_04541_SEQ_14,
-15,TEXT_FESSUM802_04541_SEQ_15,
-16,TEXT_FESSUM802_04541_SEQ_16,
-17,TEXT_FESSUM802_04541_SEQ_17,
-18,TEXT_FESSUM802_04541_SEQ_18,
-19,TEXT_FESSUM802_04541_SEQ_19,
-20,TEXT_FESSUM802_04541_SEQ_20,
-21,TEXT_FESSUM802_04541_SEQ_21,
-22,TEXT_FESSUM802_04541_SEQ_22,
-23,TEXT_FESSUM802_04541_SEQ_23,
-24,TEXT_FESSUM802_04541_TODO_00,對爾·弗爾·提亞做「安慰」的情感動作
-25,TEXT_FESSUM802_04541_TODO_01,和魔城挑戰登記負責人博德富安對話
-26,TEXT_FESSUM802_04541_TODO_02,和魔城中繼檢查點負責人希爾德拉娜對話
-27,TEXT_FESSUM802_04541_TODO_03,和魔城終點負責人佩·歐碧雅諾對話
-28,TEXT_FESSUM802_04541_TODO_04,和爾·瑪嘉對話
-29,TEXT_FESSUM802_04541_TODO_05,向紅蓮節執行委員長荷爾瑪伽報告
-30,TEXT_FESSUM802_04541_TODO_06,
-31,TEXT_FESSUM802_04541_TODO_07,
-32,TEXT_FESSUM802_04541_TODO_08,
-33,TEXT_FESSUM802_04541_TODO_09,
-34,TEXT_FESSUM802_04541_TODO_10,
-35,TEXT_FESSUM802_04541_TODO_11,
-36,TEXT_FESSUM802_04541_TODO_12,
-37,TEXT_FESSUM802_04541_TODO_13,
-38,TEXT_FESSUM802_04541_TODO_14,
-39,TEXT_FESSUM802_04541_TODO_15,
-40,TEXT_FESSUM802_04541_TODO_16,
-41,TEXT_FESSUM802_04541_TODO_17,
-42,TEXT_FESSUM802_04541_TODO_18,
-43,TEXT_FESSUM802_04541_TODO_19,
-44,TEXT_FESSUM802_04541_TODO_20,
-45,TEXT_FESSUM802_04541_TODO_21,
-46,TEXT_FESSUM802_04541_TODO_22,
-47,TEXT_FESSUM802_04541_TODO_23,
-48,TEXT_FESSUM802_04541_RMAJHA_100_002,<hex:020819E905FF0A>大姐姐<hex:FF0A>大哥哥<hex:03>，可以拜託你和哥哥說說話嗎？<hex:02100103>他現在情緒很低落，請幫幫他，讓他打起精神吧！
-49,TEXT_FESSUM802_04541_RFHULTIA_000_000,為、為什麼啊……<hex:02100103>我做錯什麼了嗎……
-50,TEXT_FESSUM802_04541_RMAJHA_000_001,唔……看來光說話沒用呢……
-51,TEXT_FESSUM802_04541_RMAJHA_100_001,<hex:020819E905FF0A>大姐姐<hex:FF0A>大哥哥<hex:03>，你「安慰」一下哥哥吧！<hex:02100103>哥哥很崇拜你，有你安慰他，一定能讓他打起精神來！
-52,TEXT_FESSUM802_04541_RMAJHA_000_002,請「安慰」一下哥哥吧，拜託了！
-53,TEXT_FESSUM802_04541_RFHULTIA_000_010,為什麼……為什麼啊……嗚嗚……
-54,TEXT_FESSUM802_04541_SYSTEM_000_011,爾·弗爾·提亞情緒十分低落。<hex:02100103>對他做「安慰」的情感動作。
-55,TEXT_FESSUM802_04541_RFHULTIA_000_011,謝謝你的安慰……<hex:02100103>但是我想不明白，他們為什麼對我失望了啊？<hex:02100103>是因為看到我挑戰失敗後的醜態所以才會那樣嗎……？
-56,TEXT_FESSUM802_04541_RMAJHA_000_012,不是的！<hex:02100103>哥哥完全沒有意識到自己的問題！
-57,TEXT_FESSUM802_04541_RFHULTIA_000_013,誒，什麼意思……？<hex:02100103>不是因為我出糗嗎？
-58,TEXT_FESSUM802_04541_RFHULTIA_100_013,<hex:022903EB0203>，你能告訴我嗎？
-59,TEXT_FESSUM802_04541_Q1_000_000,要說什麼？
-60,TEXT_FESSUM802_04541_A1_000_001,因為你失敗了
-61,TEXT_FESSUM802_04541_A1_000_002,因為態度不端正
-62,TEXT_FESSUM802_04541_A1_000_003,因為你想將自己的失敗敷衍過去
-63,TEXT_FESSUM802_04541_RMAJHA_000_014,哥哥確實失敗了，但原因不是這個！<hex:02100103>因為哥哥態度太不端正了！
-64,TEXT_FESSUM802_04541_RMAJHA_000_015,就是這個，<hex:020819E905FF0A>大姐姐<hex:FF0A>大哥哥<hex:03>說得沒錯！<hex:02100103>因為哥哥態度太不端正了！
-65,TEXT_FESSUM802_04541_RMAJHA_000_016,雖然不太明白敷衍是什麼意思……但應該就是這個！<hex:02100103>因為哥哥態度太不端正了！
-66,TEXT_FESSUM802_04541_RFHULTIA_000_017,態、態度不端正？<hex:02100103>可就算我認真挑戰，也完全不帥啊？<hex:02100103>我想讓後輩們看到我帥氣的一面……
-67,TEXT_FESSUM802_04541_RMAJHA_000_018,哥哥真是太笨了！<hex:02100103>你這種不認真的態度一點都不帥！<hex:02100103>但只要哥哥肯擺正態度認真挑戰，就算失敗了也很帥！
-68,TEXT_FESSUM802_04541_RMAJHA_100_018,哥哥居然連這個都想不明白！<hex:02100103>那不如換我來挑戰魔城，<hex:02100103>讓哥哥看看什麼是端正的態度吧！
-69,TEXT_FESSUM802_04541_BEAUDEFOIN_000_019,(-？？？？-)喂喂，小姑娘！等一等。<hex:02100103>雖然你的決心值得欽佩，不過考慮到安全問題，<hex:02100103>永夏魔城可不支持小孩子參與挑戰哦！
-70,TEXT_FESSUM802_04541_BEAUDEFOIN_000_020,(-博德富安-)行了，事情我都聽說了。<hex:02100103>爾·弗爾·提亞，<hex:02100103>如今的你遠遠稱不上一名成熟的冒險者。
-71,TEXT_FESSUM802_04541_RFHULTIA_000_021,對、對不起……<hex:02100103>博德富安先生明明教了我那麼多東西，<hex:02100103>卻讓您看到了我淒慘失敗的樣子……
-72,TEXT_FESSUM802_04541_BEAUDEFOIN_000_022,(-博德富安-)你還沒意識到問題所在嗎？<hex:02100103>你小子就是太愛耍酷裝樣子了，<hex:02100103>你還記得作為冒險者最重要的是什麼嗎？
-73,TEXT_FESSUM802_04541_BEAUDEFOIN_000_023,(-博德富安-)你好好想想吧。<hex:02100103>我和荷爾瑪伽教你的那些東西，<hex:02100103>還有你為什麼會崇拜<hex:022903EB0203>。
-74,TEXT_FESSUM802_04541_RFHULTIA_000_024,啊……我、我明白了，我真是大錯特錯……<hex:02100103>光想著在後輩面前樹立形象，<hex:02100103>不知不覺就誤入歧途……
-75,TEXT_FESSUM802_04541_RFHULTIA_000_025,我、我辜負了他們的信任！<hex:02100103>我怎麼還好意思說自己是獨當一面的冒險者啊……<hex:02100103>得找機會向他們道歉才行。
-76,TEXT_FESSUM802_04541_RMAJHA_000_026,那就再認真地挑戰一次永夏魔城吧！<hex:02100103>穩穩噹噹地前進！<hex:02100103>他們一定也能看到的！
-77,TEXT_FESSUM802_04541_RFHULTIA_000_027,挑戰魔城？<hex:02100103>但、但哥哥一次都沒成功過。<hex:02100103>如果再失敗的話，我……
-78,TEXT_FESSUM802_04541_Q2_000_000,要說什麼？
-79,TEXT_FESSUM802_04541_A2_000_001,成功與失敗都不是關鍵！
-80,TEXT_FESSUM802_04541_A2_000_002,讓他們看到你認真的態度啊，冒險者！
-81,TEXT_FESSUM802_04541_RFHULTIA_000_028,<hex:022903EB0203>……我明白了，謝謝你。<hex:02100103>我差點就犯了同樣的錯誤……<hex:02100103>好！我會摒棄雜念專注於眼前的挑戰，認真試上一試！
-82,TEXT_FESSUM802_04541_RFHULTIA_000_029,認真……對，認真！<hex:02100103>無論成功與否，都要認真對待！<hex:02100103>將注意力都放到挑戰魔城上！
-83,TEXT_FESSUM802_04541_RFHULTIA_000_030,抱歉，<hex:022903EB0203>。<hex:02100103>能請你再幫幫我嗎？<hex:02100103>我希望你給我做個示範，挑戰永夏魔城。
-84,TEXT_FESSUM802_04541_RFHULTIA_000_031,有你作出示範，我一定能重燃鬥志。<hex:02100103>拜託了，請讓我追逐你的背影，重回正確的道路吧！
-85,TEXT_FESSUM802_04541_RFHULTIA_000_032,謝謝你，<hex:022903EB0203>！<hex:02100103>我一定會全力追逐你的背影的！
-86,TEXT_FESSUM802_04541_RMAJHA_000_033,<hex:020819E905FF0A>大姐姐<hex:FF0A>大哥哥<hex:03>加油呀！
-87,TEXT_FESSUM802_04541_RFHULTIA_000_034,請讓我追逐你的背影，重回正確的道路吧！<hex:02100103>拜託你先行做個示範，挑戰永夏魔城！
-88,TEXT_FESSUM802_04541_BEAUDEFOIN_000_040,呼——等你好久了。<hex:02100103>多謝你引導爾·弗爾·提亞，<hex:02100103>快乘上噴流開始挑戰吧！
-89,TEXT_FESSUM802_04541_SYSTEM_100_040,如果認為挑戰難度過高，<hex:02100103>可以和永夏的冒險者談談！
-90,TEXT_FESSUM802_04541_BEAUDEFOIN_000_041,挑戰時就別想那小子的事了，<hex:02100103>好好享受挑戰的快樂就好。<hex:02100103>這樣才是給他最好的示範。
-91,TEXT_FESSUM802_04541_ADVENTURERA04541_000_042,哦？來了個不得了的傢伙啊。<hex:02100103>像你這樣的冒險者，就算閉著眼也能輕鬆完成魔城挑戰吧。<hex:02100103>怎麼樣，要試試看嗎？
-92,TEXT_FESSUM802_04541_SYSTEM_000_043,如果選擇閉目狀態下挑戰魔城，<hex:02100103>則會移動至中繼地點。
-93,TEXT_FESSUM802_04541_Q4_000_000,要以閉目狀態挑戰魔城嗎？
-94,TEXT_FESSUM802_04541_Q5_000_001,要前往中繼地點嗎？
-95,TEXT_FESSUM802_04541_HILDELANA_000_050,博德富安把事情都告訴我了。<hex:02100103>看了你挑戰魔城的樣子，一定可以讓爾·弗爾·提亞重燃鬥志！
-96,TEXT_FESSUM802_04541_HILDELANA_000_051,距離終點還有一半距離。<hex:02100103>雖然我說這話可能有些多餘了，還請加油！
-97,TEXT_FESSUM802_04541_SYSTEM_100_051,如果認為挑戰難度過高，<hex:02100103>可以和永夏的冒險者談談！
-98,TEXT_FESSUM802_04541_HILDELANA_000_052,距離終點還有一半距離。<hex:02100103>雖然我說這話可能有些多餘了，還請加油！
-99,TEXT_FESSUM802_04541_ADVENTURERB04541_000_053,呵呵呵……我就等你這樣的冒險者來呢。<hex:02100103>怎麼樣，要試著閉上眼挑戰永夏魔城嗎？
-100,TEXT_FESSUM802_04541_SYSTEM_000_054,如果選擇閉目狀態下挑戰魔城，<hex:02100103>則會移動至終點。
-101,TEXT_FESSUM802_04541_Q6_000_000,要在閉目狀態下挑戰魔城嗎？
-102,TEXT_FESSUM802_04541_Q7_000_001,要前往終點嗎？
-103,TEXT_FESSUM802_04541_POBYANO_000_060,恭喜挑戰成功！事情原委我都聽說了。<hex:02100103>他現在也以你為榜樣認真前進呢！<hex:02100103>現在應該……啊，你看後面！
-104,TEXT_FESSUM802_04541_Q3_000_000,要喊什麼？
-105,TEXT_FESSUM802_04541_A3_000_001,讓他們看到你認真的樣子！！
-106,TEXT_FESSUM802_04541_A3_000_002,別害怕，衝啊！
-107,TEXT_FESSUM802_04541_RFHULTIA_000_061,我成功了，<hex:022903EB0203>！<hex:02100103>果然之前是我太過浮躁了！<hex:02100103>多謝你點醒我，以後無論什麼事我都會認真對待的！
-108,TEXT_FESSUM802_04541_RFHULTIA_000_062,不過剛剛精神高度集中，一放鬆下來就覺得有點累了……<hex:02100103>抱歉，我再休息一會就回去，<hex:02100103>能麻煩你先把結果告訴瑪嘉嗎？
-109,TEXT_FESSUM802_04541_BEAUDEFOIN_000_063,呼——看來你順利完成挑戰了！<hex:02100103>不過像你這樣的冒險者，肯定會成功的。<hex:02100103>不論如何，辛苦了！
-110,TEXT_FESSUM802_04541_HILDELANA_000_064,你挑戰魔城的樣子真是太完美了！<hex:02100103>呵呵，不愧是身經百戰的冒險者！<hex:02100103>爾·弗爾·提亞進行得似乎也很順利呢！
-111,TEXT_FESSUM802_04541_POBYANO_000_065,看著你挑戰魔城的身影，真是讓我激動不已！<hex:02100103>爾·弗爾·提亞認真挑戰的樣子也令人欣慰！<hex:02100103>畢竟凡事都要認真對待是冒險者的要義嘛！
-112,TEXT_FESSUM802_04541_RFHULTIA_000_066,哈……抱歉，我還需要休息一下喘口氣再回去，<hex:02100103>能麻煩你先把結果告訴瑪嘉嗎？
-113,TEXT_FESSUM802_04541_RMAJHA_000_070,<hex:020819E905FF0A>大姐姐<hex:FF0A>大哥哥<hex:03>挑戰成功了嗎？<hex:02100103>雖然大叔也給我講了一些挑戰的情況，<hex:02100103>但還不知道結果呢……
-114,TEXT_FESSUM802_04541_RMAJHA_000_071,太好了！<hex:020819E905FF0A>大姐姐<hex:FF0A>大哥哥<hex:03>和哥哥都成功了！<hex:02100103>好厲害！瑪嘉好開心！
-115,TEXT_FESSUM802_04541_RMAJHA_000_072,哥哥！我都聽說了，你挑戰成功了呢！<hex:02100103>恭喜你！哥哥好厲害呀！
-116,TEXT_FESSUM802_04541_RFHULTIA_000_073,哈哈，這也是多虧有<hex:022903EB0203>啊。<hex:02100103>不過也是因為我認真去對待這次挑戰，才總算成功了！
-117,TEXT_FESSUM802_04541_ADVENTURERB04541_000_074,不好意思，爾·弗爾·提亞前輩……<hex:02100103>可以打擾你一會嗎？
-118,TEXT_FESSUM802_04541_ADVENTURERA04541_000_075,我、我們之前說了很過分的話……<hex:02100103>然後，剛剛看到你成功挑戰魔城……
-119,TEXT_FESSUM802_04541_ADVENTURERA04541_100_075,所以……那個……
-120,TEXT_FESSUM802_04541_RFHULTIA_000_075,我來說吧。<hex:02100103>該道歉的應該是我才對，之前是我態度不端正，<hex:02100103>讓你們見笑了。
-121,TEXT_FESSUM802_04541_RFHULTIA_000_076,我急切地想成為一個成熟的冒險者，<hex:02100103>總想著出風頭裝酷，卻忘記了最重要的事情。<hex:02100103>我那個樣子，你們失望也不奇怪。
-122,TEXT_FESSUM802_04541_RFHULTIA_000_077,所以，我打算重新開始，<hex:02100103>作為一個普通的冒險者一步一個腳印地走下去！<hex:02100103>那個……你們願意原諒我嗎？
-123,TEXT_FESSUM802_04541_ADVENTURERB04541_000_078,雖然之前的挑戰慘敗，<hex:02100103>但前輩認真起來重新挑戰的樣子真的很帥氣。<hex:02100103>讓我想起了剛遇到前輩時的情景。
-124,TEXT_FESSUM802_04541_ADVENTURERA04541_000_079,所以，也請前輩原諒我們。<hex:02100103>請讓我們再次追隨前輩，一起努力吧。
-125,TEXT_FESSUM802_04541_RFHULTIA_000_080,當然沒問題，我們3個一起重新開始！
-126,TEXT_FESSUM802_04541_RMAJHA_000_081,謝謝你，<hex:020819E905FF0A>大姐姐<hex:FF0A>大哥哥<hex:03>！<hex:02100103>多虧有你幫忙，哥哥才能和同伴和好！
-127,TEXT_FESSUM802_04541_RMAJHA_000_082,這次也讓大家跟著擔心了，<hex:02100103>可以麻煩<hex:020819E905FF0A>大姐姐<hex:FF0A>大哥哥<hex:03>去「報告」一下沒事了嗎？<hex:02100103>哥哥說過，「報告」很重要。
-128,TEXT_FESSUM802_04541_RFHULTIA_000_083,即使我一時走上歧途，<hex:02100103>你也能剛柔並濟地將我點醒。<hex:02100103>真不愧是我崇拜的冒險者！
-129,TEXT_FESSUM802_04541_ADVENTURERA04541_000_084,你是指導過大哥的人……<hex:02100103>那我就叫你一聲導師吧！<hex:02100103>嘿嘿，能認識你是我這輩子最幸運的事！
-130,TEXT_FESSUM802_04541_ADVENTURERB04541_000_085,雖然很多人都說我過於冷漠無情，<hex:02100103>但看到前輩和你的時候，我的心中就覺得十分溫暖。<hex:02100103>你們就是我嚮往的冒險者。
-131,TEXT_FESSUM802_04541_RMAJHA_000_086,多謝冒險者<hex:020819E905FF0A>大姐姐<hex:FF0A>大哥哥<hex:03>幫忙！<hex:02100103>「報告」也麻煩了！
-132,TEXT_FESSUM802_04541_BEAUDEFOIN_000_087,呼——完美收場，真不錯啊！<hex:02100103>好了，你也把這個結果<hex:02100103>向紅蓮節執行委員長荷爾瑪伽報告一下吧。
-133,TEXT_FESSUM802_04541_HAERMAGA_000_090,辛苦了，雖然我也在這邊看了個大概……<hex:02100103>不過還是麻煩你詳細講講吧。
-134,TEXT_FESSUM802_04541_HAERMAGA_000_091,爾·弗爾·提亞認識到了自己的錯誤，<hex:02100103>和後輩們也和好了啊……<hex:02100103>不愧是身經百戰的冒險者，完美完成任務！
-135,TEXT_FESSUM802_04541_HAERMAGA_000_092,這下他也真的可以稱得上獨當一面了，<hex:02100103>我也可以放心把新人們交給他了。<hex:02100103>哈哈，也是託了你這個厲害前輩的福啊。
-136,TEXT_FESSUM802_04541_HAERMAGA_000_093,好了，這位完成任務的前輩，<hex:02100103>這是你的報酬。<hex:02100103>接下來就好好享受紅蓮節吧！
-137,TEXT_FESSUM802_04541_HAERMAGA_100_000,（★未使用／削除予定★）
-138,TEXT_FESSUM802_04541_BEAUDEFOIN_100_001,（★未使用／削除予定★）
+0,"TEXT_FESSUM802_04541_SEQ_00","R'fhul Tia is mired in the depths of despair.<hex:02100103>※This quest is available for a limited time only."
+1,"TEXT_FESSUM802_04541_SEQ_01","R'fhul is unresponsive to the sound of your voice. He may need a bigger gesture to wake him from his stupor, such as an attempt to /comfort him.<hex:02100103><hex:02100103>※Please note that you will be unable to complete this quest after the seasonal event has ended. For details, please check the Lodestone."
+2,"TEXT_FESSUM802_04541_SEQ_02","After speaking with you and Beaudefoin, R'fhul Tia finally understands where he went wrong in his initial attempt through the Eorzean Nimble Warrior course. To inspire him to do his best, you have opted to join him in tackling the course this time. Speak with Beaudefoin to get started."
+3,"TEXT_FESSUM802_04541_SEQ_03","You have begun your attempt through the Eorzean Nimble Warrior course. Speak with Hildelana upon reaching the halfway point."
+4,"TEXT_FESSUM802_04541_SEQ_04","You have made it past the halfway point. Speak with P'obyano upon reaching the end of the course."
+5,"TEXT_FESSUM802_04541_SEQ_05","After completing the course, you proudly watch on from ahead as R'fhul Tia, following your example, tries his best to complete the course─and successfully manages to do so. Seeking a moment to rest, he suggests you take this opportunity to give R'mahja the good news."
+6,"TEXT_FESSUM802_04541_SEQ_06","After seeing their mentor try his best, R'fhul Tia and his impassioned pair of apprentices were able to make up. Your work concluded, it's time to report the day's events to Haermaga."
+7,"TEXT_FESSUM802_04541_SEQ_07","You have reported everything that happened to Haermaga. For the time being, it seems there is no need to worry about R'fhul Tia and his apprentices. It's time to relax, don your reward, and enjoy the festivities."
+8,"TEXT_FESSUM802_04541_SEQ_08",""
+9,"TEXT_FESSUM802_04541_SEQ_09",""
+10,"TEXT_FESSUM802_04541_SEQ_10",""
+11,"TEXT_FESSUM802_04541_SEQ_11",""
+12,"TEXT_FESSUM802_04541_SEQ_12",""
+13,"TEXT_FESSUM802_04541_SEQ_13",""
+14,"TEXT_FESSUM802_04541_SEQ_14",""
+15,"TEXT_FESSUM802_04541_SEQ_15",""
+16,"TEXT_FESSUM802_04541_SEQ_16",""
+17,"TEXT_FESSUM802_04541_SEQ_17",""
+18,"TEXT_FESSUM802_04541_SEQ_18",""
+19,"TEXT_FESSUM802_04541_SEQ_19",""
+20,"TEXT_FESSUM802_04541_SEQ_20",""
+21,"TEXT_FESSUM802_04541_SEQ_21",""
+22,"TEXT_FESSUM802_04541_SEQ_22",""
+23,"TEXT_FESSUM802_04541_SEQ_23",""
+24,"TEXT_FESSUM802_04541_TODO_00","/comfort R'fhul Tia."
+25,"TEXT_FESSUM802_04541_TODO_01","Speak with Beaudefoin."
+26,"TEXT_FESSUM802_04541_TODO_02","Speak with Hildelana."
+27,"TEXT_FESSUM802_04541_TODO_03","Speak with P'obyano."
+28,"TEXT_FESSUM802_04541_TODO_04","Speak with R'mahja."
+29,"TEXT_FESSUM802_04541_TODO_05","Report to Haermaga."
+30,"TEXT_FESSUM802_04541_TODO_06",""
+31,"TEXT_FESSUM802_04541_TODO_07",""
+32,"TEXT_FESSUM802_04541_TODO_08",""
+33,"TEXT_FESSUM802_04541_TODO_09",""
+34,"TEXT_FESSUM802_04541_TODO_10",""
+35,"TEXT_FESSUM802_04541_TODO_11",""
+36,"TEXT_FESSUM802_04541_TODO_12",""
+37,"TEXT_FESSUM802_04541_TODO_13",""
+38,"TEXT_FESSUM802_04541_TODO_14",""
+39,"TEXT_FESSUM802_04541_TODO_15",""
+40,"TEXT_FESSUM802_04541_TODO_16",""
+41,"TEXT_FESSUM802_04541_TODO_17",""
+42,"TEXT_FESSUM802_04541_TODO_18",""
+43,"TEXT_FESSUM802_04541_TODO_19",""
+44,"TEXT_FESSUM802_04541_TODO_20",""
+45,"TEXT_FESSUM802_04541_TODO_21",""
+46,"TEXT_FESSUM802_04541_TODO_22",""
+47,"TEXT_FESSUM802_04541_TODO_23",""
+48,"TEXT_FESSUM802_04541_RMAJHA_100_002","Please <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, you have to do something! I've never seen my brother like this..."
+49,"TEXT_FESSUM802_04541_RFHULTIA_000_000","Wh-Why... What did I do wrong?"
+50,"TEXT_FESSUM802_04541_RMAJHA_000_001","He's too upset to listen..."
+51,"TEXT_FESSUM802_04541_RMAJHA_100_001","Maybe you could try to <hex:024804F201F403><hex:024904F201F503>comfort<hex:0249020103><hex:0248020103> him? You're his hero, so if that doesn't work, I don't know what will!"
+52,"TEXT_FESSUM802_04541_RMAJHA_000_002","Please <hex:024804F201F403><hex:024904F201F503>comfort<hex:0249020103><hex:0248020103> him, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>!"
+53,"TEXT_FESSUM802_04541_RFHULTIA_000_010","<sniff> How could this happen... I don't understand..."
+54,"TEXT_FESSUM802_04541_SYSTEM_000_011","R'fhul Tia is gravely despondent. Perhaps <hex:024804F201F403><hex:024904F201F503>comfort<hex:0249020103><hex:0248020103> from the person he admires will lift his spirits."
+55,"TEXT_FESSUM802_04541_RFHULTIA_000_011","Thank you for showing me such kindness, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. I'm still trying to wrap my head around why those two left. Is it because I failed the course? Because I looked pathetic?"
+56,"TEXT_FESSUM802_04541_RMAJHA_000_012","No, silly, that's not it at all!"
+57,"TEXT_FESSUM802_04541_RFHULTIA_000_013","Really? It's <hex:021A020203>not<hex:021A020103> because I looked pathetic?"
+58,"TEXT_FESSUM802_04541_RFHULTIA_100_013","Erm... Say, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, do you have any idea why?"
+59,"TEXT_FESSUM802_04541_Q1_000_000","What will you say?"
+60,"TEXT_FESSUM802_04541_A1_000_001","It's because you failed. Miserably."
+61,"TEXT_FESSUM802_04541_A1_000_002","You weren't taking it seriously."
+62,"TEXT_FESSUM802_04541_A1_000_003","You tried to hide from your mistakes."
+63,"TEXT_FESSUM802_04541_RMAJHA_000_014","That's true, but that's not the point! It's because he wasn't taking it seriously!"
+64,"TEXT_FESSUM802_04541_RMAJHA_000_015","Exactly, <hex:02080CE905FF04>she<hex:FF03>he<hex:03>'s exactly right! You didn't take the challenge seriously at all!"
+65,"TEXT_FESSUM802_04541_RMAJHA_000_016","Hide...from a mistake? I don't quite understand, but it sounds wise! You didn't look like you were taking it seriously, Fhul!"
+66,"TEXT_FESSUM802_04541_RFHULTIA_000_017","I wasn't taking it seriously...? So what? Even if I had, I would've failed all the same. I thought if I did it on purpose, then maybe..."
+67,"TEXT_FESSUM802_04541_RMAJHA_000_018","Ugh! Who would admire someone who gives up before they've even started? The brother I look up to always does his best, no matter how he looks or what others think of him!"
+68,"TEXT_FESSUM802_04541_RMAJHA_100_018","If you can't understand that, maybe I'll try the course myself and show you what I mean!"
+69,"TEXT_FESSUM802_04541_BEAUDEFOIN_000_019","(-???-)My, that is some <hex:021A020203>remarkable<hex:021A020103> gumption you have there little miss! Alas, I'm afraid children may not, under absolutely any circumstances, participate in the competition."
+70,"TEXT_FESSUM802_04541_BEAUDEFOIN_000_020","(-Beaudefoin-)I hope you don't mind, but I overheard your conversation. My opinion? You're a pathetic excuse for an adventurer, R'fhul. Just awful."
+71,"TEXT_FESSUM802_04541_RFHULTIA_000_021","...Y-You're right. You taught me so much, yet I put on such a miserable performance. Everyone must think I'm so very pitiful..."
+72,"TEXT_FESSUM802_04541_BEAUDEFOIN_000_022","(-Beaudefoin-)Just listen to yourself, lad. You want to know what your problem is? Vanity. You've lost sight of what's truly important."
+73,"TEXT_FESSUM802_04541_BEAUDEFOIN_000_023","(-Beaudefoin-)Think back. Try to recall what Haermaga and I taught you─what it was that you admired about <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> in the first place."
+74,"TEXT_FESSUM802_04541_RFHULTIA_000_024","I...I think I finally understand. I was so focused on trying to impress my apprentices that I didn't fully commit myself to overcoming the challenge, and stopped being an adventurer in so doing... Aye, I became a coward instead."
+75,"TEXT_FESSUM802_04541_RFHULTIA_000_025","I─I betrayed their trust, and now they've seen me for what I truly am. There's no way I could make it up to them..."
+76,"TEXT_FESSUM802_04541_RMAJHA_000_026","What if you tried the course again, but took it seriously this time? I bet those two would watch!"
+77,"TEXT_FESSUM802_04541_RFHULTIA_000_027","Again? But I've never actually succeeded. If I were to fail once more, I'd lose their respect forever..."
+78,"TEXT_FESSUM802_04541_Q2_000_000","What will you say?"
+79,"TEXT_FESSUM802_04541_A2_000_001","It doesn't matter if you fail or succeed. What matters is that you try."
+80,"TEXT_FESSUM802_04541_A2_000_002","Show us what you're made of, adventurer."
+81,"TEXT_FESSUM802_04541_RFHULTIA_000_028","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>... Thank you! I nearly made the same mistake all over again. This time, I promise you, I will do my best!"
+82,"TEXT_FESSUM802_04541_RFHULTIA_000_029","Adventurer... You're right─I'm an adventurer! I need only focus on the challenge ahead!"
+83,"TEXT_FESSUM802_04541_RFHULTIA_000_030","I'm sorry to ask more of you when you've already done so much, but can I ask you to serve as my inspiration once more? If possible, I would like you to go through the course ahead of me."
+84,"TEXT_FESSUM802_04541_RFHULTIA_000_031","Seeing you test your mettle would rekindle my aspirations of becoming a great adventurer. Please, help me to reclaim that dream─let me follow in your footsteps!"
+85,"TEXT_FESSUM802_04541_RFHULTIA_000_032","You doing this─it means the world to me, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. I will follow after you with everything I have! "
+86,"TEXT_FESSUM802_04541_RMAJHA_000_033","You can do it, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>!"
+87,"TEXT_FESSUM802_04541_RFHULTIA_000_034","I know I can do my best if I'm following after you. When you begin your run through the course, I'll be there, right behind you."
+88,"TEXT_FESSUM802_04541_BEAUDEFOIN_000_040","I appreciate you looking out for R'fhul like this. If you're ready to go, the jet of water yonder is roaring in anticipation of your arrival!"
+89,"TEXT_FESSUM802_04541_SYSTEM_100_040","Should completing the Eorzean Nimble Warrior course prove difficult, seek out a faire adventurer for assistance."
+90,"TEXT_FESSUM802_04541_BEAUDEFOIN_000_041","Forget about R'fhul while you're jumping through obstacles, dodging explosions, and what have you─just relax, and have a good time! That will prove more fruitful to the lad in the end, anyway."
+91,"TEXT_FESSUM802_04541_ADVENTURERA04541_000_042","You look like you've seen your share of adventure. Hells, I wager you could get through a silly ol' course like this with your eyes closed. That would be something to see─care to show the amateurs how it's done?"
+92,"TEXT_FESSUM802_04541_SYSTEM_000_043","Choosing to close your eyes will take you directly to the end of the first platforming section."
+93,"TEXT_FESSUM802_04541_Q4_000_000","Amaze onlookers and yourself by undertaking the course with your eyes closed?"
+94,"TEXT_FESSUM802_04541_Q5_000_001","Proceed to the end of the first platforming section?"
+95,"TEXT_FESSUM802_04541_HILDELANA_000_050","Beaudefoin's kept me abreast of the situation, and after seeing the way you've carried yourself through the course so far, R'fhul's <hex:021A020203>gotta<hex:021A020103> be fired up!"
+96,"TEXT_FESSUM802_04541_HILDELANA_000_051","You're already at the halfway point, so it's not like you need to hear it from me, but good luck!"
+97,"TEXT_FESSUM802_04541_SYSTEM_100_051","Should completing the Eorzean Nimble Warrior course prove difficult, seek out a faire adventurer for assistance."
+98,"TEXT_FESSUM802_04541_HILDELANA_000_052","Just halfway to go! I'll be watching how you and R'fhul manage from here!"
+99,"TEXT_FESSUM802_04541_ADVENTURERB04541_000_053","Well, well, well, what do we have here...an adventurer head and shoulders above the rest. If the remaining obstacles are to prove a challenge, I believe a handicap is in order. Why not do the rest of the course blind? You're not afraid of a little danger...are you?"
+100,"TEXT_FESSUM802_04541_SYSTEM_000_054","Choosing to close your eyes will take you directly to the end of the course."
+101,"TEXT_FESSUM802_04541_Q6_000_000","Prove your courage to the cheeky faire adventurer by undertaking the course with your eyes closed?"
+102,"TEXT_FESSUM802_04541_Q7_000_001","Proceed to the end of the course?"
+103,"TEXT_FESSUM802_04541_POBYANO_000_060","Congratulations on making it to the end! Ah, I should mention that I've heard about the situation with R'fhul. He pursued you the entire time, never giving up despite the fear in his eyes. Even now...hey, look behind you!"
+104,"TEXT_FESSUM802_04541_Q3_000_000","What will you shout?"
+105,"TEXT_FESSUM802_04541_A3_000_001","Come on, adventurer!"
+106,"TEXT_FESSUM802_04541_A3_000_002","Do not waver! You can do this!"
+107,"TEXT_FESSUM802_04541_RFHULTIA_000_061","I did it, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! I really did it! Thank you for leading the way!"
+108,"TEXT_FESSUM802_04541_RFHULTIA_000_062","Hah, now that I've made it to the end, I suddenly feel lightheaded... Forgive me, I will return after I've had a moment to catch my breath. Would you mind relaying the good news to Mahja?"
+109,"TEXT_FESSUM802_04541_BEAUDEFOIN_000_063","Bravo, bravo! A job well done─though I expected no less."
+110,"TEXT_FESSUM802_04541_HILDELANA_000_064","Expertly done, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! Seems R'fhul managed to keep behind you the whole way. A seasoned adventurer like you can bring out the best in anyone, eh?"
+111,"TEXT_FESSUM802_04541_POBYANO_000_065","I was absolutely moved by─well, the way you moved through the course! But I must admit, it was even more touching to see R'fhul gain confidence as he pushed on. Truly, this is the way adventurers are meant to be!"
+112,"TEXT_FESSUM802_04541_RFHULTIA_000_066","Sorry I couldn't keep up with you to the very end. My heart may very well burst out of my chest if it beats any faster, so I'm going to rest here for a bit... In the meantime, please let Mahja know what happened."
+113,"TEXT_FESSUM802_04541_RMAJHA_000_070","Oh, you're back! How'd it go? Beaudefoin and Haermaga were “comment-trading,” but I want to hear about it from you!"
+114,"TEXT_FESSUM802_04541_RMAJHA_000_071","He did it─he really did it! I always believed Fhul could, but he never believed it himself. I'm so happy..."
+115,"TEXT_FESSUM802_04541_RMAJHA_000_072","Fhul! <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> told me <hex:021A020203>everything<hex:021A020103>. I'm so proud of you!"
+116,"TEXT_FESSUM802_04541_RFHULTIA_000_073","Oh, I didn't do much. Just followed after <hex:02080DE905FF04>her<hex:FF04>him<hex:03>, really. Still...it felt good to try, and finally succeed at something."
+117,"TEXT_FESSUM802_04541_ADVENTURERB04541_000_074","Please excuse us for interrupting, R'fhul. Do you have a moment?"
+118,"TEXT_FESSUM802_04541_ADVENTURERA04541_000_075","We... We judged you too quickly, and too harshly. It was only when we saw you making your way through the course that it dawned on us how wrong we'd been."
+119,"TEXT_FESSUM802_04541_ADVENTURERA04541_100_075","That's why..."
+120,"TEXT_FESSUM802_04541_RFHULTIA_000_075","You don't have to finish that sentence. I'm the one in the wrong here, after all. I...I am so very sorry, both of you!"
+121,"TEXT_FESSUM802_04541_RFHULTIA_000_076","I let my desire for recognition cloud my judgment, and lost sight of myself in the process. It's little wonder you both reacted the way you did."
+122,"TEXT_FESSUM802_04541_RFHULTIA_000_077","That's why I'm starting over. This time, I will not waver from the path─nay, I shall follow wherever it leads, as a true adventurer should! With that said...do you think you could forgive me?"
+123,"TEXT_FESSUM802_04541_ADVENTURERB04541_000_078","I'll be honest─you were a dismal sight up there at first, looking as if you might collapse at any moment. But you didn't. You pushed through like a true champion, and now we are keen to see how far you'll go. Just like when we first met you."
+124,"TEXT_FESSUM802_04541_ADVENTURERA04541_000_079","Aye, that's why we want you to forgive us...for losing faith, instead of believing in you like we should've. Given the circumstances, I understand if you say no, but... Would you consent to being our mentor once again?"
+125,"TEXT_FESSUM802_04541_RFHULTIA_000_080","Like you even have to ask. I couldn't be happier to have you both at my side!"
+126,"TEXT_FESSUM802_04541_RMAJHA_000_081","Thank you for bringing Fhul back to his senses, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! If you hadn't, these three never would've made up, and I would still be really sad. So...thank you, so, so much! "
+127,"TEXT_FESSUM802_04541_RMAJHA_000_082","I think we'll be okay now, so maybe you can do that “report” thing that Fhul always talks about? I don't really get it, but it seems important. And don't you worry about Fhul─I'll be watching him carefully!"
+128,"TEXT_FESSUM802_04541_RFHULTIA_000_083","This whole ordeal started because of my own foolishness, yet you still held your hand out to me. I've said it before, and I'll say it again─you, my friend, are my inspiration!"
+129,"TEXT_FESSUM802_04541_ADVENTURERA04541_000_084","Our mentor's mentor... Does that make you our grandmentor? It's like we're all one big family!"
+130,"TEXT_FESSUM802_04541_ADVENTURERB04541_000_085","My entire life, everyone around me has called me cold...but watching you and R'fhul tackle the course lit a fire inside of me. I know now what I aspire to be."
+131,"TEXT_FESSUM802_04541_RMAJHA_000_086","Did my brother thank you properly? Well, let me thank you again just to be safe! Oh, and please don't forget about the “report” thing!"
+132,"TEXT_FESSUM802_04541_BEAUDEFOIN_000_087","My, what a satisfying conclusion to this tale! You simply <hex:021A020203>must<hex:021A020103> regale it to Haermaga in all its glory!"
+133,"TEXT_FESSUM802_04541_HAERMAGA_000_090","I could roughly see what happened from here, but I'd appreciate it if you filled in the blanks."
+134,"TEXT_FESSUM802_04541_HAERMAGA_000_091","So the lad finally came to his senses in the end, eh? And he made up with those greenhorns while he was at it, too. You did well, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. I was right to count on you."
+135,"TEXT_FESSUM802_04541_HAERMAGA_000_092","With that, he's truly made his first step as a proper adventurer─and better yet, I don't have to feel anxious about leaving the three of them to their own devices anymore."
+136,"TEXT_FESSUM802_04541_HAERMAGA_000_093","Speaking of adventurers, I owe you a reward, don't I? Please, take this. You've more than earned it. And do try to enjoy the Moonfire Faire while it's around."
+137,"TEXT_FESSUM802_04541_HAERMAGA_100_000","（★未使用／削除予定★）"
+138,"TEXT_FESSUM802_04541_BEAUDEFOIN_100_001","（★未使用／削除予定★）"

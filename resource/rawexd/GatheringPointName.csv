@@ -1,31 +1,31 @@
-﻿key,0,2
-#,Singular,Plural
-offset,0,4
-int32,str,str
-0,,
-1,礦脈,
-2,石場,
-3,良材,
-4,草場,
-5,未知的礦脈,
-6,未知的石場,
-7,未知的良材,
-8,未知的草場,
-9,限時的礦脈,
-10,限時的石場,
-11,限時的良材,
-12,限時的草場,
-13,傳說的礦脈,
-14,傳說的石場,
-15,傳說的良材,
-16,傳說的草場,
-17,隱藏的礦脈,
-18,隱藏的石場,
-19,隱藏的良材,
-20,隱藏的草場,
-21,漁場,
-22,魚影,
-23,夢幻的礦脈,
-24,夢幻的石場,
-25,夢幻的良材,
-26,夢幻的草場,
+﻿key,0,1,2,3,4,5,6,7
+#,Singular,Adjective,Plural,PossessivePronoun,StartsWithVowel,,Pronoun,Article
+offset,0,8,4,9,10,11,12,13
+int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte
+0,"",0,"",0,0,1,0,0
+1,"mineral deposit",0,"mineral deposits",0,0,0,0,0
+2,"rocky outcrop",0,"rocky outcrops",0,0,0,0,0
+3,"mature tree",0,"mature trees",0,0,0,0,0
+4,"lush vegetation patch",0,"lush vegetation patch",0,0,0,0,0
+5,"unspoiled mineral deposit",0,"unspoiled mineral deposits",0,1,0,0,0
+6,"unspoiled rocky outcrop",0,"unspoiled rocky outcrops",0,1,0,0,0
+7,"unspoiled mature tree",0,"unspoiled mature trees",0,1,0,0,0
+8,"unspoiled lush vegetation patch",0,"unspoiled lush vegetation patches",0,1,0,0,0
+9,"ephemeral mineral deposit",0,"ephemeral mineral deposits",0,1,0,0,0
+10,"ephemeral rocky outcrop",0,"ephemeral rocky outcrops",0,1,0,0,0
+11,"ephemeral mature tree",0,"ephemeral mature trees",0,1,0,0,0
+12,"ephemeral lush vegetation patch",0,"ephemeral lush vegetation patches",0,1,0,0,0
+13,"legendary mineral deposit",0,"legendary mineral deposits",0,0,0,0,0
+14,"legendary rocky outcrop",0,"legendary rocky outcrops",0,0,0,0,0
+15,"legendary mature tree",0,"legendary mature trees",0,0,0,0,0
+16,"legendary lush vegetation patch",0,"legendary lush vegetation patches",0,0,0,0,0
+17,"concealed mineral deposit",0,"concealed mineral deposits",0,0,0,0,0
+18,"concealed rocky outcrop",0,"concealed rocky outcrops",0,0,0,0,0
+19,"concealed mature tree",0,"concealed mature trees",0,0,0,0,0
+20,"concealed lush vegetation patch",0,"concealed lush vegetation patches",0,0,0,0,0
+21,"teeming waters",1,"teeming waters",0,0,0,0,0
+22,"swimming shadows",1,"swimming shadows",0,0,0,0,0
+23,"clouded mineral deposit",0,"clouded mineral deposits",0,0,0,0,0
+24,"clouded rocky outcrop",0,"clouded rocky outcrops",0,0,0,0,0
+25,"clouded mature tree",0,"clouded mature trees",0,0,0,0,0
+26,"clouded lush vegetation patch",0,"clouded lush vegetation patches",0,0,0,0,0

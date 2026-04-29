@@ -2,96 +2,96 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_LUCKMA308_03298_SEQ_00,上路客店的泰絲琳試著轉換心情。
-1,TEXT_LUCKMA308_03298_SEQ_01,和泰絲琳等人一起進餐時，被告知哈爾裡克行蹤不明了。和上路客店的泰絲琳談談。
-2,TEXT_LUCKMA308_03298_SEQ_02,和泰絲琳進行了交談。在上路客店附近的<hex:02280CFF05>EObj<hex:F61EAB020103>張望，尋找哈爾裡克。
-3,TEXT_LUCKMA308_03298_SEQ_03,沒能找到哈爾裡克。在上路客店附近的第2處<hex:02280CFF05>EObj<hex:F61EAB030103>張望，尋找哈爾裡克。
-4,TEXT_LUCKMA308_03298_SEQ_04,沒能找到哈爾裡克，遭遇了食罪靈的襲擊。在上路客店附近的第3處<hex:02280CFF05>EObj<hex:F61EAB040103>張望，尋找哈爾裡克。
-5,TEXT_LUCKMA308_03298_SEQ_05,找到了哈爾裡克，但泰絲琳已經遭了食罪靈的毒手。和上路客店的阿莉塞談談。
-6,TEXT_LUCKMA308_03298_SEQ_06,和阿莉塞進行了交談。和上路客店的看護人們談談。
-7,TEXT_LUCKMA308_03298_SEQ_07,和看護人們進行了交談。和上路客店的哈爾裡克談談。
-8,TEXT_LUCKMA308_03298_SEQ_08,和哈爾裡克進行了交談，還是一如既往地沒有反應。失去泰絲琳的悲傷來得太過突然，上路客店陷入了沉寂……
-9,TEXT_LUCKMA308_03298_SEQ_09,
-10,TEXT_LUCKMA308_03298_SEQ_10,
-11,TEXT_LUCKMA308_03298_SEQ_11,
-12,TEXT_LUCKMA308_03298_SEQ_12,
-13,TEXT_LUCKMA308_03298_SEQ_13,
-14,TEXT_LUCKMA308_03298_SEQ_14,
-15,TEXT_LUCKMA308_03298_SEQ_15,
-16,TEXT_LUCKMA308_03298_SEQ_16,
-17,TEXT_LUCKMA308_03298_SEQ_17,
-18,TEXT_LUCKMA308_03298_SEQ_18,
-19,TEXT_LUCKMA308_03298_SEQ_19,
-20,TEXT_LUCKMA308_03298_SEQ_20,
-21,TEXT_LUCKMA308_03298_SEQ_21,
-22,TEXT_LUCKMA308_03298_SEQ_22,
-23,TEXT_LUCKMA308_03298_SEQ_23,
-24,TEXT_LUCKMA308_03298_TODO_00,和泰絲琳對話
-25,TEXT_LUCKMA308_03298_TODO_01,在<hex:02280CFF05>EObj<hex:F61EAB020103>張望
-26,TEXT_LUCKMA308_03298_TODO_02,在第2處<hex:02280CFF05>EObj<hex:F61EAB030103>張望
-27,TEXT_LUCKMA308_03298_TODO_03,在第3處<hex:02280CFF05>EObj<hex:F61EAB040103>張望
-28,TEXT_LUCKMA308_03298_TODO_04,和阿莉塞對話
-29,TEXT_LUCKMA308_03298_TODO_05,和上路客店的看護人們對話
-30,TEXT_LUCKMA308_03298_TODO_06,和哈爾裡克對話
-31,TEXT_LUCKMA308_03298_TODO_07,
-32,TEXT_LUCKMA308_03298_TODO_08,
-33,TEXT_LUCKMA308_03298_TODO_09,
-34,TEXT_LUCKMA308_03298_TODO_10,
-35,TEXT_LUCKMA308_03298_TODO_11,
-36,TEXT_LUCKMA308_03298_TODO_12,
-37,TEXT_LUCKMA308_03298_TODO_13,
-38,TEXT_LUCKMA308_03298_TODO_14,
-39,TEXT_LUCKMA308_03298_TODO_15,
-40,TEXT_LUCKMA308_03298_TODO_16,
-41,TEXT_LUCKMA308_03298_TODO_17,
-42,TEXT_LUCKMA308_03298_TODO_18,
-43,TEXT_LUCKMA308_03298_TODO_19,
-44,TEXT_LUCKMA308_03298_TODO_20,
-45,TEXT_LUCKMA308_03298_TODO_21,
-46,TEXT_LUCKMA308_03298_TODO_22,
-47,TEXT_LUCKMA308_03298_TODO_23,
-48,TEXT_LUCKMA308_03298_ALISAIE_000_000,……謝謝你幫我把東西交給她。
-49,TEXT_LUCKMA308_03298_TESLEEN_000_010,畢竟不是現在立馬就會發生，<hex:02100103>所以我也得轉換一下心情，不然連病人們都會感到不安的！
-50,TEXT_LUCKMA308_03298_TESLEEN_000_011,該給大家做飯了！<hex:02100103>當然不會少了你的份，一起吃吧！
-51,TEXT_LUCKMA308_03298_ALISAIE_000_015,怎麼回事？！
-52,TEXT_LUCKMA308_03298_JOURNEYSHEADNURSE_000_020,有幾個病人的狀況突然變得很奇怪，<hex:02100103>我忙著照顧沒能顧及到他……<hex:02100103>對不起！
-53,TEXT_LUCKMA308_03298_TESLEEN_000_060,<hex:022903EB0203>、阿莉塞！<hex:02100103>請和我們一起去找哈爾裡克！
-54,TEXT_LUCKMA308_03298_TESLEEN_000_061,雖然不知道他為什麼會到外面去，<hex:02100103>但一旦出去了就有可能被食罪靈和野獸攻擊……<hex:02100103>必須得快點找到他才行！
-55,TEXT_LUCKMA308_03298_ALISAIE_000_062,我明白，我們分頭找。<hex:02100103>你知不知道他有可能會去哪？
-56,TEXT_LUCKMA308_03298_TESLEEN_000_063,這我還真不清楚……<hex:02100103>其他的病人們不知道為什麼突然吵吵嚷嚷的。<hex:02100103>不知道是不是出現了什麼只有他們能明白的事情……
-57,TEXT_LUCKMA308_03298_TESLEEN_000_064,總之他失蹤還沒多久，<hex:02100103>先在客店附近找找看吧！<hex:02100103>我去東面！
-58,TEXT_LUCKMA308_03298_TESLEEN_000_065,拜託了……可千萬不要有事啊，哈爾裡克！
-59,TEXT_LUCKMA308_03298_ALISAIE_000_066,那我去西北邊。<hex:02100103>南邊就……交給你了！
-60,TEXT_LUCKMA308_03298_PAWNIL_000_067,……啊……在、找……新的……
-61,TEXT_LUCKMA308_03298_TODDEN_000_068,……啊……
-62,TEXT_LUCKMA308_03298_VOYNE_000_069,啊……啊……這是什麼……什……嗚嗚……
-63,TEXT_LUCKMA308_03298_SYSTEM_000_070,沒有看到哈爾裡克。<hex:02100103>去別處找找吧。
-64,TEXT_LUCKMA308_03298_SYSTEM_000_080,沒有看到哈爾裡克。<hex:02100103>……食罪靈出現了！
-65,TEXT_LUCKMA308_03298_HALRIC_000_090,……
-66,TEXT_LUCKMA308_03298_PAWNIL_000_095,……啊……遠去、了……
-67,TEXT_LUCKMA308_03298_TODDEN_000_100,……嗚……嗚嗚嗚。
-68,TEXT_LUCKMA308_03298_VOYNE_000_105,足夠了……足夠了……新的……足夠了……
-69,TEXT_LUCKMA308_03298_ALISAIE_000_130,……
-70,TEXT_LUCKMA308_03298_ALISAIE_000_131,抱歉，<hex:022903EB0203>……<hex:02100103>我已經告訴看護人們了……
-71,TEXT_LUCKMA308_03298_ALISAIE_000_132,之後……就稍微拜託你一下了……
-72,TEXT_LUCKMA308_03298_ALISAIE_000_135,……
-73,TEXT_LUCKMA308_03298_CASSANA_000_140,……我無法相信。
-74,TEXT_LUCKMA308_03298_CASSANA_000_141,泰絲琳那麼開朗，總是抽空和病人們聊天，<hex:02100103>彷彿是在告訴他們沒什麼好怕的，不會痛苦的。
-75,TEXT_LUCKMA308_03298_CASSANA_000_142,這樣的人……為什麼……<hex:02100103>會落得如此結局！
-76,TEXT_LUCKMA308_03298_CASSANA_000_143,就像你為大家祈願的一樣……<hex:02100103>我們也不希望你痛苦啊。<hex:02100103>泰絲琳……
-77,TEXT_LUCKMA308_03298_WILLFORT_000_144,……你們也很震驚吧。<hex:02100103>還來安慰我們，謝謝了。
-78,TEXT_LUCKMA308_03298_WILLFORT_000_145,我此刻的心情難以言喻……<hex:02100103>如果失去人形，就連建墓哀悼都做不到了。<hex:02100103>明明對此最痛心的人就是你啊……泰絲琳……
-79,TEXT_LUCKMA308_03298_WILLFORT_000_146,我得先冷靜一下。<hex:02100103>……病人們的生命還託付在我們手中。
-80,TEXT_LUCKMA308_03298_HALRIC_000_150,……
-81,TEXT_LUCKMA308_03298_SYSTEM_000_151,哈爾裡克依舊毫無反應，<hex:02100103>只是呆呆望著食罪靈飛走的方向……
-82,TEXT_LUCKMA308_03298_CASSANA_300_025,（★未使用／削除予定★）
-83,TEXT_LUCKMA308_03298_CASSANA_000_110,（★未使用／削除予定★）
-84,TEXT_LUCKMA308_03298_PAWNIL_300_010,（★未使用／削除予定★）
-85,TEXT_LUCKMA308_03298_TODDEN_300_015,（★未使用／削除予定★）
-86,TEXT_LUCKMA308_03298_VOYNE_300_020,（★未使用／削除予定★）
-87,TEXT_LUCKMA308_03298_LAMON_300_030,（★未使用／削除予定★）
-88,TEXT_LUCKMA308_03298_WILLFORT_300_035,（★未使用／削除予定★）
-89,TEXT_LUCKMA308_03298_WRENRIC_300_040,（★未使用／削除予定★）
-90,TEXT_LUCKMA308_03298_LAMON_000_115,（★未使用／削除予定★）
-91,TEXT_LUCKMA308_03298_WILLFORT_000_120,（★未使用／削除予定★）
-92,TEXT_LUCKMA308_03298_WRENRIC_000_125,（★未使用／削除予定★）
+0,"TEXT_LUCKMA308_03298_SEQ_00","Tesleen makes an effort to smile brightly."
+1,"TEXT_LUCKMA308_03298_SEQ_01","Determined not to inflict her own feelings of gloom on the patients, Tesleen suggests a meal to lighten the mood. You are duly treated to a delicious stew, which does much to restore your spirits. Even as you consider a second helping, however, a frantic carer rushes up to report that Halric has gone missing..."
+2,"TEXT_LUCKMA308_03298_SEQ_02","Time being of the essence, Alisaie suggests assigning search areas, and Tesleen claims the territory to the east. Alisaie herself volunteers to take the north and the west, leaving you to scour everything to the south."
+3,"TEXT_LUCKMA308_03298_SEQ_03","You find no sign of the missing Halric. There are, however, still plenty of other places to the south of the Inn where a young boy might wander unseen..."
+4,"TEXT_LUCKMA308_03298_SEQ_04","As you scan your surroundings in search of Halric, you stray into the path of a ravenous sin eater. But the predator is soon made to regret its choice of prey, and you resume seeking the Inn's wayward patient."
+5,"TEXT_LUCKMA308_03298_SEQ_05","A short while later, you stumble into a breathless Alisaie, whose own search has proven similarly fruitless. As you wonder where to look next, a large sin eater flies overhead, and you decide to give chase in the hope that the creature might lead you to your quarry...as indeed it does. Alas, you arrive too late to prevent Tesleen from sacrificing herself to save the boy, and so bear witness to her horrifying transformation. The road back to the Inn is a somber one indeed..."
+6,"TEXT_LUCKMA308_03298_SEQ_06","With Alisaie still reeling from the loss of her friend, it falls to you to console the Inn's surviving carers."
+7,"TEXT_LUCKMA308_03298_SEQ_07","Tesleen's colleagues are understandably devastated by the news of her fate, but they seem comforted by your stoic presence nonetheless. This does little to assuage your guilt at failing to prevent the atrocity, however. You wonder what Halric must be feeling beneath that silent mask..."
+8,"TEXT_LUCKMA308_03298_SEQ_08","As before, your attempts to engage the boy are met with a blank stare and nothing more. This sudden tragedy has cast a pall of hopelessness over the Inn and its residents─everywhere you turn, you see faces etched with grief and sadness."
+9,"TEXT_LUCKMA308_03298_SEQ_09",""
+10,"TEXT_LUCKMA308_03298_SEQ_10",""
+11,"TEXT_LUCKMA308_03298_SEQ_11",""
+12,"TEXT_LUCKMA308_03298_SEQ_12",""
+13,"TEXT_LUCKMA308_03298_SEQ_13",""
+14,"TEXT_LUCKMA308_03298_SEQ_14",""
+15,"TEXT_LUCKMA308_03298_SEQ_15",""
+16,"TEXT_LUCKMA308_03298_SEQ_16",""
+17,"TEXT_LUCKMA308_03298_SEQ_17",""
+18,"TEXT_LUCKMA308_03298_SEQ_18",""
+19,"TEXT_LUCKMA308_03298_SEQ_19",""
+20,"TEXT_LUCKMA308_03298_SEQ_20",""
+21,"TEXT_LUCKMA308_03298_SEQ_21",""
+22,"TEXT_LUCKMA308_03298_SEQ_22",""
+23,"TEXT_LUCKMA308_03298_SEQ_23",""
+24,"TEXT_LUCKMA308_03298_TODO_00","Speak with Tesleen."
+25,"TEXT_LUCKMA308_03298_TODO_01","Search the area for Halric."
+26,"TEXT_LUCKMA308_03298_TODO_02","Continue searching for Halric."
+27,"TEXT_LUCKMA308_03298_TODO_03","Continue searching for Halric."
+28,"TEXT_LUCKMA308_03298_TODO_04","Speak with Alisaie."
+29,"TEXT_LUCKMA308_03298_TODO_05","Speak with the carers."
+30,"TEXT_LUCKMA308_03298_TODO_06","Speak with Halric."
+31,"TEXT_LUCKMA308_03298_TODO_07",""
+32,"TEXT_LUCKMA308_03298_TODO_08",""
+33,"TEXT_LUCKMA308_03298_TODO_09",""
+34,"TEXT_LUCKMA308_03298_TODO_10",""
+35,"TEXT_LUCKMA308_03298_TODO_11",""
+36,"TEXT_LUCKMA308_03298_TODO_12",""
+37,"TEXT_LUCKMA308_03298_TODO_13",""
+38,"TEXT_LUCKMA308_03298_TODO_14",""
+39,"TEXT_LUCKMA308_03298_TODO_15",""
+40,"TEXT_LUCKMA308_03298_TODO_16",""
+41,"TEXT_LUCKMA308_03298_TODO_17",""
+42,"TEXT_LUCKMA308_03298_TODO_18",""
+43,"TEXT_LUCKMA308_03298_TODO_19",""
+44,"TEXT_LUCKMA308_03298_TODO_20",""
+45,"TEXT_LUCKMA308_03298_TODO_21",""
+46,"TEXT_LUCKMA308_03298_TODO_22",""
+47,"TEXT_LUCKMA308_03298_TODO_23",""
+48,"TEXT_LUCKMA308_03298_ALISAIE_000_000","Thank you for understanding..."
+49,"TEXT_LUCKMA308_03298_TESLEEN_000_010","Well, nothing is going to happen for a little while yet, so let's see if we can't lighten the mood. We don't want our gloomy faces worrying the patients!"
+50,"TEXT_LUCKMA308_03298_TESLEEN_000_011","I think it's time for that welcome meal, don't you? Take a seat, and I'll make us a nice stew!"
+51,"TEXT_LUCKMA308_03298_ALISAIE_000_015","Where could he have gone!?"
+52,"TEXT_LUCKMA308_03298_JOURNEYSHEADNURSE_000_020","This is my fault. The patients were acting strangely, and I let it distract me..."
+53,"TEXT_LUCKMA308_03298_TESLEEN_000_060","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, Alisaie─we have to go look for Halric!"
+54,"TEXT_LUCKMA308_03298_TESLEEN_000_061","I don't know what's gotten into him, but if he's wandering out there alone..."
+55,"TEXT_LUCKMA308_03298_ALISAIE_000_062","We'll assign search areas and split up. Any idea where he might be headed?"
+56,"TEXT_LUCKMA308_03298_TESLEEN_000_063","No, he's never done anything like this before. But it can't be a coincidence that the other patients are suddenly so agitated. They can sense something..."
+57,"TEXT_LUCKMA308_03298_TESLEEN_000_064","In any case, let's keep the search close to the Inn. Halric isn't very sure on his feet, so he won't have gone far. I'll search the east side!"
+58,"TEXT_LUCKMA308_03298_TESLEEN_000_065","Please, Halric... Please be all right...!"
+59,"TEXT_LUCKMA308_03298_ALISAIE_000_066","I'll cover the north and west, then. You take everything from here to the south!"
+60,"TEXT_LUCKMA308_03298_PAWNIL_000_067","They come... Come for new kin..."
+61,"TEXT_LUCKMA308_03298_TODDEN_000_068","Ahhh..."
+62,"TEXT_LUCKMA308_03298_VOYNE_000_069","I don't...? This isn't... Ugh..."
+63,"TEXT_LUCKMA308_03298_SYSTEM_000_070","You see no sign of Halric. Maybe he went further west..."
+64,"TEXT_LUCKMA308_03298_SYSTEM_000_080","You scan your surroundings in search of Halric...and suddenly find yourself under attack!"
+65,"TEXT_LUCKMA308_03298_HALRIC_000_090","......"
+66,"TEXT_LUCKMA308_03298_PAWNIL_000_095","Going away, now... Further and further..."
+67,"TEXT_LUCKMA308_03298_TODDEN_000_100","Uhhh..."
+68,"TEXT_LUCKMA308_03298_VOYNE_000_105","Claimed... A new one..."
+69,"TEXT_LUCKMA308_03298_ALISAIE_000_130","I..."
+70,"TEXT_LUCKMA308_03298_ALISAIE_000_131","I'm sorry, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. I tried to tell the carers what happened, but..."
+71,"TEXT_LUCKMA308_03298_ALISAIE_000_132","...I can't be the shoulder they lean on. Not like this."
+72,"TEXT_LUCKMA308_03298_ALISAIE_000_135","......"
+73,"TEXT_LUCKMA308_03298_CASSANA_000_140","<sob> ...It's just so <hex:021A020203>unfair<hex:021A020103>."
+74,"TEXT_LUCKMA308_03298_CASSANA_000_141","Tesleen was always so cheery with the patients, telling them not to be scared, that there wouldn't be any pain..."
+75,"TEXT_LUCKMA308_03298_CASSANA_000_142","Of all the people in the world to suffer such a fate!"
+76,"TEXT_LUCKMA308_03298_CASSANA_000_143","Oh, Tesleen... You thought only of others...and this was your reward."
+77,"TEXT_LUCKMA308_03298_WILLFORT_000_144","I imagine you're just as shocked as the rest of us, so I appreciate what you're doing here."
+78,"TEXT_LUCKMA308_03298_WILLFORT_000_145","Me? I can barely... I don't have the words. Without a body, we can't even give her a proper burial! And she <hex:021A020203>cared<hex:021A020103> about that sort of thing─about giving people the chance to say their good-byes..."
+79,"TEXT_LUCKMA308_03298_WILLFORT_000_146","We'll manage, somehow. Someone needs to care for the patients. We're all they've got..."
+80,"TEXT_LUCKMA308_03298_HALRIC_000_150","......"
+81,"TEXT_LUCKMA308_03298_SYSTEM_000_151","Halric is as unresponsive as ever. He stands motionless, staring up into the sky where the sin eaters made their escape..."
+82,"TEXT_LUCKMA308_03298_CASSANA_300_025",""
+83,"TEXT_LUCKMA308_03298_CASSANA_000_110",""
+84,"TEXT_LUCKMA308_03298_PAWNIL_300_010",""
+85,"TEXT_LUCKMA308_03298_TODDEN_300_015",""
+86,"TEXT_LUCKMA308_03298_VOYNE_300_020",""
+87,"TEXT_LUCKMA308_03298_LAMON_300_030",""
+88,"TEXT_LUCKMA308_03298_WILLFORT_300_035",""
+89,"TEXT_LUCKMA308_03298_WRENRIC_300_040",""
+90,"TEXT_LUCKMA308_03298_LAMON_000_115",""
+91,"TEXT_LUCKMA308_03298_WILLFORT_000_120",""
+92,"TEXT_LUCKMA308_03298_WRENRIC_000_125",""

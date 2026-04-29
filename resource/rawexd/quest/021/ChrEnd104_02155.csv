@@ -2,138 +2,138 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_CHREND104_02155_SEQ_00,聖恩達利姆神學院的布里亞迪安有些事情想要仔細調查一下。
-1,TEXT_CHREND104_02155_SEQ_01,布里亞迪安想要調查有關退學的學生和«正教法大全11卷»的事情。另一方面，薩圖努瓦有話想對冒險者說。和伊修加德砥柱層的薩圖努瓦談談。
-2,TEXT_CHREND104_02155_SEQ_02,和薩圖努瓦進行了交談。他們似乎想要和阿爾雄巴丹對抗。冒險者決定和特奧莫桑一起勸說克拉姆瓦。和伊修加德砥柱層的特奧莫桑談談。
-3,TEXT_CHREND104_02155_SEQ_03,和特奧莫桑一起勸說了克拉姆瓦，但是他沒有同意。和伊修加德基礎層的特奧莫桑談談。
-4,TEXT_CHREND104_02155_SEQ_04,克拉姆瓦被家族領地的民眾綁架了。為了救他，特奧莫桑提出要代替他被抓。和伊修加德基礎層的克拉姆瓦談談。
-5,TEXT_CHREND104_02155_SEQ_05,克拉姆瓦說他家有隱藏財產。前往庫爾札斯西部高地的第九錫杖附近，與克拉姆瓦匯合。
-6,TEXT_CHREND104_02155_SEQ_06,和克拉姆瓦匯合了。在他挖掘隱藏財產的這段時間，在附近的<hex:02280CFF05>EObj<hex:F61E9E4B0103>監視。
-7,TEXT_CHREND104_02155_SEQ_07,觀察周圍的情況時，發現並討伐了魔物。克拉姆瓦好像還在挖掘隱藏財產。再次在<hex:02280CFF05>EObj<hex:F61E9E590103>監視。
-8,TEXT_CHREND104_02155_SEQ_08,克拉姆瓦挖掘出了隱藏財產。和伊修加德基礎層妖豔的女性談談。
-9,TEXT_CHREND104_02155_SEQ_09,和妖豔的女性進行了接觸，救出了特奧莫桑。克拉姆瓦雖然失去了一直以來的目標，但為了實現新的目標，他決心幫助平民學生們。和聖雷馬諾大聖堂的布里亞迪安談談。
-10,TEXT_CHREND104_02155_SEQ_10,和布里亞迪安進行了交談。想要復學的烏拉好像失蹤了。另一方面，她喜歡的«正教法大全11卷»好像又丟失了。這些事情或許為煽動學院內貴族與平民對立的人所為……
-11,TEXT_CHREND104_02155_SEQ_11,
-12,TEXT_CHREND104_02155_SEQ_12,
-13,TEXT_CHREND104_02155_SEQ_13,
-14,TEXT_CHREND104_02155_SEQ_14,
-15,TEXT_CHREND104_02155_SEQ_15,
-16,TEXT_CHREND104_02155_SEQ_16,
-17,TEXT_CHREND104_02155_SEQ_17,
-18,TEXT_CHREND104_02155_SEQ_18,
-19,TEXT_CHREND104_02155_SEQ_19,
-20,TEXT_CHREND104_02155_SEQ_20,
-21,TEXT_CHREND104_02155_SEQ_21,
-22,TEXT_CHREND104_02155_SEQ_22,
-23,TEXT_CHREND104_02155_SEQ_23,
-24,TEXT_CHREND104_02155_TODO_00,和砥柱層的薩圖努瓦對話
-25,TEXT_CHREND104_02155_TODO_01,和特奧莫桑對話
-26,TEXT_CHREND104_02155_TODO_02,和基礎層的特奧莫桑對話
-27,TEXT_CHREND104_02155_TODO_03,和克拉姆瓦對話
-28,TEXT_CHREND104_02155_TODO_04,和庫爾札斯西部高地的克拉姆瓦對話
-29,TEXT_CHREND104_02155_TODO_05,在<hex:02280CFF05>EObj<hex:F61E9E4B0103>監視
-30,TEXT_CHREND104_02155_TODO_06,再次在<hex:02280CFF05>EObj<hex:F61E9E590103>監視
-31,TEXT_CHREND104_02155_TODO_07,和基礎層妖豔的女性對話
-32,TEXT_CHREND104_02155_TODO_08,和聖雷馬諾大聖堂的布里亞迪安對話
-33,TEXT_CHREND104_02155_TODO_09,
-34,TEXT_CHREND104_02155_TODO_10,
-35,TEXT_CHREND104_02155_TODO_11,
-36,TEXT_CHREND104_02155_TODO_12,
-37,TEXT_CHREND104_02155_TODO_13,
-38,TEXT_CHREND104_02155_TODO_14,
-39,TEXT_CHREND104_02155_TODO_15,
-40,TEXT_CHREND104_02155_TODO_16,
-41,TEXT_CHREND104_02155_TODO_17,
-42,TEXT_CHREND104_02155_TODO_18,
-43,TEXT_CHREND104_02155_TODO_19,
-44,TEXT_CHREND104_02155_TODO_20,
-45,TEXT_CHREND104_02155_TODO_21,
-46,TEXT_CHREND104_02155_TODO_22,
-47,TEXT_CHREND104_02155_TODO_23,
-48,TEXT_CHREND104_02155_GAETELLE_000_000,烏拉確實是申請退學了……<hex:02100103>但是克拉姆瓦也不像在說謊。
-49,TEXT_CHREND104_02155_SATURNOIS_000_000,拿出成果的學生僅有5人……<hex:02100103>多數人都聽從了宿舍長的指示，<hex:02100103>把活動的成果交給了宿舍長他們。
-50,TEXT_CHREND104_02155_BRIARDIEN_000_000,<hex:022903EB0203>，<hex:02100103>你和剛才所說的名叫烏拉的女學生交談過嗎？
-51,TEXT_CHREND104_02155_GAETELLE_000_001,英雄您也確定烏拉有復學的想法啊……<hex:02100103>那麼她為什麼採取了完全相反的行動呢？
-52,TEXT_CHREND104_02155_SATURNOIS_000_002,是和<hex:022903EB0203>分開以後，<hex:02100103>立刻改變了心意嗎？
-53,TEXT_CHREND104_02155_BRIARDIEN_000_003,看來，有人正骯髒地互相扯後腿啊。<hex:02100103>«正教法大全11卷»可能是對立產生的原因。<hex:02100103>我調查一下這方面的事情。
-54,TEXT_CHREND104_02155_SATURNOIS_000_004,那麼，<hex:022903EB0203>。<hex:02100103>我有話想跟你說，能借用一點時間嗎？<hex:02100103>我在聖雷馬諾大聖堂正面的廣場等你。
-55,TEXT_CHREND104_02155_THEOMOCENT_000_009,阿爾雄巴丹果然好厲害啊……<hex:02100103>我也必須把更多的心力投入到賑濟活動中去。
-56,TEXT_CHREND104_02155_LEIGH_000_009,特奧比較遲鈍，<hex:02100103>所以察覺不到那個陰險的宿舍長針對平民組的行為有多過分。<hex:02100103>薩圖努瓦祭司大人才是我們平民學生有力的同伴。
-57,TEXT_CHREND104_02155_GAETELLE_000_009,無論如何我都想知道烏拉的真實心意啊……
-58,TEXT_CHREND104_02155_SATURNOIS_000_010,<hex:022903EB0203>，你來了啊。<hex:02100103>在這裡的都是平民出身的學生，<hex:02100103>他們都有成為第一名的願望和能力。
-59,TEXT_CHREND104_02155_SATURNOIS_000_011,宿舍長阿爾雄巴丹一邊否定掙分數的行為，<hex:02100103>一邊又在暗地裡欺凌不合他心意的學生。<hex:02100103>想要自己的貴族一夥獨佔前三位。
-60,TEXT_CHREND104_02155_SATURNOIS_000_012,克拉姆瓦雖然是貴族，<hex:02100103>但是沒有遵從宿舍長的想法，所以被陷害了吧。<hex:02100103>如果這樣的話，平民學生就得不到公正的評價了。
-61,TEXT_CHREND104_02155_SATURNOIS_000_013,……因此我們集結懷抱著同一理想的夥伴，<hex:02100103>計劃與宿舍長率領的貴族組對抗。<hex:02100103>我們要埋葬扭曲的秩序，孕育出神聖的新秩序。
-62,TEXT_CHREND104_02155_LEIGH_000_014,但是，平民出身的人是不會響應我們的吧……<hex:02100103>大家吃盡苦頭好不容易進入了神學院，<hex:02100103>都害怕因為反抗貴族組而被切斷成為聖職者的道路啊。
-63,TEXT_CHREND104_02155_SATURNOIS_000_015,所以，我們需要那些不害怕宿舍長的迫害、<hex:02100103>懷有不屈精神的學生。<hex:02100103><hex:022903EB0203>，你有什麼人選嗎？
-64,TEXT_CHREND104_02155_Q1_000_001,能成為同伴的學生是？
-65,TEXT_CHREND104_02155_A1_000_001,克拉姆瓦
-66,TEXT_CHREND104_02155_A1_000_002,……
-67,TEXT_CHREND104_02155_THEOMOCENT_000_016,……我也這樣認為！<hex:02100103>他雖然是貴族，但總是爽朗地跟我說話，<hex:02100103>臉上總帶著笑容，是個好人！
-68,TEXT_CHREND104_02155_THEOMOCENT_000_017,……我覺得克拉姆瓦是個很好的人選。<hex:02100103>他雖然是貴族，但總是爽朗地跟我說話，<hex:02100103>臉上總帶著笑容，是個好人！
-69,TEXT_CHREND104_02155_LEIGH_000_018,你、你說什麼？！<hex:02100103>那種成天只會嬉皮笑臉的輕浮男！<hex:02100103>我堅決反對，完全沒法信任那種人！
-70,TEXT_CHREND104_02155_SATURNOIS_000_019,……但是，他確實有反抗宿舍長的想法啊。<hex:02100103>說不定他會幫助我們的。
-71,TEXT_CHREND104_02155_LEIGH_000_020,貴族什麼的根本無法信任！<hex:02100103>我要按自己的想法去找那些有骨氣的平民學生。<hex:02100103>……輕浮男就交給你們了。
-72,TEXT_CHREND104_02155_SATURNOIS_000_021,<hex:022903EB0203>，我有事想拜託你。<hex:02100103>能不能和我們一起募集同伴一段時間？<hex:02100103>貴族組如果搗亂的話，我們需要證人。
-73,TEXT_CHREND104_02155_THEOMOCENT_000_021,非常感謝，<hex:022903EB0203>。<hex:02100103>那麼，馬上去找克拉姆瓦談談吧。<hex:02100103>他應該在老地方。
-74,TEXT_CHREND104_02155_CRAMMEVOIX_000_029,喂，<hex:020813E905FF07>小姐<hex:FF07>小哥<hex:03>，來得正是時候！<hex:02100103>小雀斑太煩人了，我正發愁呢。<hex:02100103>能把他帶到別處去嗎？
-75,TEXT_CHREND104_02155_RYOUMIN2154_000_029,你也想打擾我和他的甜蜜時光嗎？！
-76,TEXT_CHREND104_02155_THEOMOCENT_000_030,啊，<hex:022903EB0203>。<hex:02100103>克拉姆瓦根本聽不進我的話。<hex:02100103>能請您幫忙說說嗎？
-77,TEXT_CHREND104_02155_RYOUMIN2154_000_031,真是的，又來了個奇怪的傢伙！<hex:02100103>你也是這個小雀斑的同伴啊？！<hex:02100103>他很煩你們，快走開啦！
-78,TEXT_CHREND104_02155_CRAMMEVOIX_000_032,沒錯沒錯，麻煩事還是饒了我吧，<hex:02100103>我只想每天像過節一樣笑著度過。
-79,TEXT_CHREND104_02155_THEOMOCENT_000_033,把我撫養長大的祭司大人也說過同樣的話。<hex:02100103>所以我覺得你是和我們擁有同樣想法的人！
-80,TEXT_CHREND104_02155_CRAMMEVOIX_000_034,啊哈哈哈，<hex:02100103>小雀斑還真的總是這麼單純呢。<hex:02100103>如果你是女孩子的話，我都想把你緊緊抱在懷裡了。
-81,TEXT_CHREND104_02155_RYOUMIN2154_000_035,喂，有完沒完！<hex:02100103>克拉姆瓦，我們去沒有人搗亂的地方！
-82,TEXT_CHREND104_02155_CRAMMEVOIX_000_036,那就這樣，我走啦。<hex:02100103>小雀斑，好好地掙分數哦。<hex:02100103>因為說不定你、說不定你可以的哦。
-83,TEXT_CHREND104_02155_THEOMOCENT_000_037,啊，他走掉了……<hex:02100103>克拉姆瓦好像朝基礎層去了……<hex:02100103><hex:022903EB0203>，我們追上去吧！
-84,TEXT_CHREND104_02155_CRAMMEVOIX_000_039,啊哈哈，這真是咎由自取啊……
-85,TEXT_CHREND104_02155_RYOUMIN2154_000_039,嘁！真是糾纏不休。<hex:02100103>立刻從這裡消失的話我就放你們一馬。<hex:02100103>當然，你們現在看見的事不許跟任何人說！
-86,TEXT_CHREND104_02155_THEOMOCENT_000_040,<hex:022903EB0203>，怎麼辦？！<hex:02100103>為什麼會發生這種事？！
-87,TEXT_CHREND104_02155_RYOUMIN2154_000_041,再靠近的話，這個傢伙就沒命了！
-88,TEXT_CHREND104_02155_CRAMMEVOIX_000_042,真沒想到你們會跟過來……<hex:02100103><hex:020813E905FF07>小姐<hex:FF07>小哥<hex:03>，現在馬上帶著小雀斑逃走。
-89,TEXT_CHREND104_02155_THEOMOCENT_000_043,我、我、我、我去叫神殿騎士過來！
-90,TEXT_CHREND104_02155_CRAMMEVOIX_000_044,不用去了！<hex:02100103>這個人是我們領地的民眾，是來向我算賬的。<hex:02100103>但是，我能拿出來的，也只有自己的命了。
-91,TEXT_CHREND104_02155_THEOMOCENT_000_045,不、不可以放棄！
-92,TEXT_CHREND104_02155_CRAMMEVOIX_000_046,喂喂，別露出那種表情啊。<hex:02100103>我希望眼前的人都露出笑容啊。
-93,TEXT_CHREND104_02155_CRAMMEVOIX_000_047,但是，我最想看見的是父親的笑容，他卻已經去世了……<hex:02100103>被父親拋棄的我，作為他的子嗣，<hex:02100103>如果能夠代替他肩負起責任的話，非常光榮。
-94,TEXT_CHREND104_02155_THEOMOCENT_000_048,……你是想要錢吧？！
-95,TEXT_CHREND104_02155_THEOMOCENT_100_048,克拉姆瓦，快去籌錢！<hex:02100103>這段時間，我來代替你被她綁在這裡！
-96,TEXT_CHREND104_02155_CRAMMEVOIX_000_049,為……為什麼你要這麼做？！<hex:02100103>這是我家的問題啊。<hex:02100103>跟小雀斑你沒有關係吧？！
-97,TEXT_CHREND104_02155_THEOMOCENT_000_050,怎麼沒有關係！！<hex:02100103>你是和我們懷有同樣理想的夥伴啊！！
-98,TEXT_CHREND104_02155_THEOMOCENT_000_051,我希望你以後能像想讓你父親露出笑容一樣，<hex:02100103>讓遇到的所有人都露出笑容啊！
-99,TEXT_CHREND104_02155_CRAMMEVOIX_000_052,啊哈哈……我都忘記小雀斑你有多單純了。<hex:02100103>但是正是這樣……才讓人想回應你的期待啊……
-100,TEXT_CHREND104_02155_CRAMMEVOIX_000_053,……我想藉助你們兩個的力量！<hex:02100103>能讓領地的民眾接受的方法只有一個！
-101,TEXT_CHREND104_02155_CRAMMEVOIX_000_054,接下來，讓大家露出笑容的慶典開始啦！
-102,TEXT_CHREND104_02155_THEOMOCENT_000_059,不用擔心我。<hex:02100103>能幫上克拉姆瓦的忙，我很開心……
-103,TEXT_CHREND104_02155_RYOUMIN2154_000_059,唔哇，這個小鬼是怎麼回事。<hex:02100103>命都快沒了，居然還在笑……
-104,TEXT_CHREND104_02155_CRAMMEVOIX_000_060,其實，在庫爾札斯西部高地埋藏著我們家族的隱藏財產。<hex:02100103>應該有很大一筆，這樣的話你就能接受了吧？
-105,TEXT_CHREND104_02155_RYOUMIN2154_000_061,這還差不多……<hex:02100103>好吧，但是如果你不回來的話，他可就沒命了！
-106,TEXT_CHREND104_02155_CRAMMEVOIX_000_062,謝謝你答應這個條件。<hex:02100103>小雀斑……你稍微忍耐一下，我馬上就回來。
-107,TEXT_CHREND104_02155_CRAMMEVOIX_000_063,我想委託<hex:020813E905FF07>小姐<hex:FF07>小哥<hex:03>做我的護衛。<hex:02100103>在我挖掘隱藏財產的時候，希望你能監視四周的情況。<hex:02100103>那麼，我先過去等你了！
-108,TEXT_CHREND104_02155_CRAMMEVOIX_000_070,<hex:020813E905FF07>小姐<hex:FF07>小哥<hex:03>，謝謝你幫我。<hex:02100103>財產就埋在這前面。<hex:02100103>我現在就開始挖，警戒就交給你了。
-109,TEXT_CHREND104_02155_CRAMMEVOIX_000_069,在我的記憶中，應該就在這附近……
-110,TEXT_CHREND104_02155_CRAMMEVOIX_000_075,<hex:020813E905FF07>小姐<hex:FF07>小哥<hex:03>，麻煩你了。<hex:02100103>已經把想要的東西挖出來了，趕緊回到小雀斑那裡吧！
-111,TEXT_CHREND104_02155_RYOUMIN2154_000_080,哦？你居然沒逃走，佩服。<hex:02100103>趕緊把領主藏起來的錢都交出來！
-112,TEXT_CHREND104_02155_CRAMMEVOIX_000_081,這些是我們家族留下的全部隱藏財產了。<hex:02100103>請給那些被父親徵兵、戰死沙場的士兵的家屬們多分一些。<hex:02100103>請原諒我們家族的所作所為……
-113,TEXT_CHREND104_02155_LEIGH_000_082,特奧，你沒事吧？！<hex:02100103>我聽說了你的事情就飛奔過來了。<hex:02100103>你又亂來了！
-114,TEXT_CHREND104_02155_THEOMOCENT_000_083,克拉姆瓦很快就回來了，<hex:02100103>所以我一點事情都沒有！
-115,TEXT_CHREND104_02155_CRAMMEVOIX_000_084,抱歉，給你添麻煩了……<hex:02100103>殺死我家人的那些人雖然可恨，<hex:02100103>但是能替父親贖罪是我的驕傲，謝謝你。
-116,TEXT_CHREND104_02155_THEOMOCENT_000_085,我、我什麼都沒……<hex:02100103>你很崇拜你過世的父親吧……
-117,TEXT_CHREND104_02155_CRAMMEVOIX_000_086,父親為了建功立業，征了很多兵，<hex:02100103>致力於與龍族作戰。<hex:02100103>但是因此犧牲了很多人，招致了大家的反感。
-118,TEXT_CHREND104_02155_CRAMMEVOIX_000_087,然後，知道了真相的民眾憤而起義……<hex:02100103>我的父親和五個兄長都被殺了。<hex:02100103>我能得救，是因為被扔進了神學院的緣故。
-119,TEXT_CHREND104_02155_CRAMMEVOIX_000_088,領地的財政吃緊，而我一直被父親當成麻煩，<hex:02100103>我一心想讓父親開心才來到了這裡……<hex:02100103>然而這個願望，已經永遠無法實現了。
-120,TEXT_CHREND104_02155_CRAMMEVOIX_000_089,所以，小雀斑……不，特奧。<hex:02100103>我也想幫你們掙分數！<hex:02100103>為了把每天都變成慶典、為了讓所有的人露出笑容。
-121,TEXT_CHREND104_02155_SATURNOIS_000_090,克拉姆瓦……你說得真對。<hex:02100103>為了不讓悲劇重演，我們一起改變正教吧！
-122,TEXT_CHREND104_02155_LEIGH_000_091,為了對抗陰險的宿舍長，需要更多的同伴吧？<hex:02100103>但是，能成為高位聖職者的人只有三個。<hex:02100103>會有明知如此還幫助我們的老好人嗎？
-123,TEXT_CHREND104_02155_CRAMMEVOIX_000_092,雷伊……我們還有時間嘛，<hex:02100103>畢業這種很久以後的事情到時候再考慮唄。
-124,TEXT_CHREND104_02155_LEIGH_000_093,祭司！<hex:02100103>這個人果然只是個輕浮的混蛋！！
-125,TEXT_CHREND104_02155_SATURNOIS_000_094,好啦好啦，大家要好好相處。<hex:02100103>克拉姆瓦說的沒錯，現在的當務之急是募集同伴。<hex:02100103>我們差不多該回學院了。
-126,TEXT_CHREND104_02155_SATURNOIS_000_095,<hex:022903EB0203>，謝謝你的幫助。<hex:02100103>你也把情況轉告給布里亞迪安吧。<hex:02100103>他應該在大聖堂那裡。
-127,TEXT_CHREND104_02155_BRIARDIEN_000_099,你回來了啊，<hex:022903EB0203>。<hex:02100103>你那邊有什麼進展嗎？
-128,TEXT_CHREND104_02155_BRIARDIEN_000_100,真是的，又發生了這麼危險的事嗎？<hex:02100103>幸虧有你在。
-129,TEXT_CHREND104_02155_BRIARDIEN_000_101,我這邊的調查也進行得不太順利啊……<hex:02100103>克拉姆瓦勸回來復學的那個叫烏拉的學生失蹤了。
-130,TEXT_CHREND104_02155_BRIARDIEN_000_102,而且，她喜歡的«正教法大全11卷»，<hex:02100103>也從神學院的書架上消失了……<hex:02100103>講述平等的書籍……這本書的丟失到底意味著什麼……
-131,TEXT_CHREND104_02155_BRIARDIEN_000_103,雖然有很多疑點，但是還串聯不成線索……<hex:02100103>果然是有什麼人在煽動學生之間的對立嗎？
-132,TEXT_CHREND104_02155_BRIARDIEN_000_104,沒有了教皇，皇都的積疾全都暴露出來了。<hex:02100103>但是這持續了千年的病症，已經侵蝕到了全身，<hex:02100103>現在神學院正在努力不被歷史的膿液吞噬。
-133,TEXT_CHREND104_02155_BRIARDIEN_000_105,切去腐肉、縫合傷口，讓神學院回歸到應有的姿態。<hex:02100103>這就是我們調查員的使命！
-134,TEXT_CHREND104_02155_SYSTEM_000_106,正教的光芒消散在迷霧中 能阻止這一切的人還沒有出現<hex:02100103>在那時 神學生們所得到的戰神哈羅妮的指引到底是……
+0,"TEXT_CHREND104_02155_SEQ_00","Briardien glances at you, adjusting his spectacles."
+1,"TEXT_CHREND104_02155_SEQ_01","Briardien has a hunch that the missing volume eleven of the <hex:021A020203>Articles of Halonic Polity<hex:021A020103> and Ulaa's sudden withdrawal are somehow connected, and decides to find the girl to ask her what─or who caused her to change her mind. In the meantime, Saturnois has asked to meet with you in private in the plaza next to Saint Reymanaud's Cathedral."
+2,"TEXT_CHREND104_02155_SEQ_02","At the plaza, Saturnois introduces Theomocent and Leigh as the students whom he is counseling to obtain Trinity seats. He also expresses his concerns about Archombadin and Lebrassoir, and their blatant discrimination of lowborn peers. In their pursuit to prove their virtue, Theomocent and Leigh discuss finding like-minded individuals with whom they could ally, and Crammevoix is mentioned as a possible candidate. As Leigh is unenthusiastic in approaching any of the highborn, Saturnois asks you to accompany Theomocent to the Pillars to find Crammevoix."
+3,"TEXT_CHREND104_02155_SEQ_03","While Theomocent tries his best to persuade Crammevoix to join his cause, it would appear that his timing is unfortunate as the suave seminarian is preoccupied with a beautiful young woman who had been vying for his attention. Laughing at Theomocent's cluelessness in the situation, the highborn student attempts to brush aside his resolve, and leaves elsewhere with the lady. But Theomocent refuses to give up just yet, and urges you to follow him to Foundation."
+4,"TEXT_CHREND104_02155_SEQ_04","Unexpectedly, Theomocent discovers Crammevoix tied up by his now knife-wielding lady friend. Despite his peril, he warns the timid seminarian not to interfere with his house's affairs, explaining that the woman is one of the smallfolk of his lands, who has rightfully come to seek recompense for his father's sins; he assumes he will most likely pay with his life, as his father had. Theomocent emotionally objects, and tries to convince the woman to accept coin instead of committing a sin herself. He then offers to exchange his life until Crammevoix can return, a gesture that the highborn is moved by."
+5,"TEXT_CHREND104_02155_SEQ_05","Trusting that Crammevoix will pay her his house's fortune, the woman reluctantly exchanges her prisoner, with Theomocent bound in his stead. Crammevoix promises to return soon after retrieving the coffer from its hidden place in Coerthas. With Theomocent assuring you he will be fine, Crammevoix asks you to accompany him to ensure bandits do not ambush him on the way back. Make haste to western Coerthas, before the knife-wielding woman loses her patience."
+6,"TEXT_CHREND104_02155_SEQ_06","You join Crammevoix in the western highlands, and he asks you to stand watch while he retrieves the family fortune. Ensure nothing will catch him unawares."
+7,"TEXT_CHREND104_02155_SEQ_07","As you wait for Crammevoix to search for the coffer, a group of hungry archaeornis seemingly appears out of nowhere. You dispatch the beasts and continue your watch."
+8,"TEXT_CHREND104_02155_SEQ_08","After what felt like an eternity, Crammevoix finally produces his family's fortune. He bids you both return to Ishgard, and hopes that Theomocent is still alive and well."
+9,"TEXT_CHREND104_02155_SEQ_09","Satisfied with the amount of monetary compensation for the war dead, the woman leaves without a word. Leigh and Saturnois arrive moments later, and Crammevoix reveals to all his father's sin; that he sought honor with the Holy See, and bought it with the blood of the smallfolk and eventually his own. After being left adrift in Ishgard since the murders of his family, Crammevoix is inspired by Theomocent's will to leave the sins of the past behind, declaring himself a friend and ally in their cause. Meanwhile, Saturnois tells you that Briardien has been waiting for you at the cathedral with some new information."
+10,"TEXT_CHREND104_02155_SEQ_10","You meet with Briardien, who tells you some concerning news about his investigation. Looking to inquire of Ulaa as to why she felt compelled to leave the scholasticate, he discovers that the girl has vanished altogether. Along with the missing volume eleven, Briardien comments that someone may indeed be trying to turn the situation to their advantage, and your duty as inspectors is to seek out the malicious forces at work."
+11,"TEXT_CHREND104_02155_SEQ_11",""
+12,"TEXT_CHREND104_02155_SEQ_12",""
+13,"TEXT_CHREND104_02155_SEQ_13",""
+14,"TEXT_CHREND104_02155_SEQ_14",""
+15,"TEXT_CHREND104_02155_SEQ_15",""
+16,"TEXT_CHREND104_02155_SEQ_16",""
+17,"TEXT_CHREND104_02155_SEQ_17",""
+18,"TEXT_CHREND104_02155_SEQ_18",""
+19,"TEXT_CHREND104_02155_SEQ_19",""
+20,"TEXT_CHREND104_02155_SEQ_20",""
+21,"TEXT_CHREND104_02155_SEQ_21",""
+22,"TEXT_CHREND104_02155_SEQ_22",""
+23,"TEXT_CHREND104_02155_SEQ_23",""
+24,"TEXT_CHREND104_02155_TODO_00","Speak with Saturnois in the Pillars."
+25,"TEXT_CHREND104_02155_TODO_01","Speak with Theomocent."
+26,"TEXT_CHREND104_02155_TODO_02","Speak with Theomocent in Foundation."
+27,"TEXT_CHREND104_02155_TODO_03","Speak with Crammevoix."
+28,"TEXT_CHREND104_02155_TODO_04","Rendezvous with Crammevoix in the Coerthas western highlands."
+29,"TEXT_CHREND104_02155_TODO_05","Wait for Crammevoix to return."
+30,"TEXT_CHREND104_02155_TODO_06","Wait for Crammevoix to return."
+31,"TEXT_CHREND104_02155_TODO_07","Speak with the lascivious lass in Foundation."
+32,"TEXT_CHREND104_02155_TODO_08","Speak with Briardien in Saint Reymanaud's Cathedral."
+33,"TEXT_CHREND104_02155_TODO_09",""
+34,"TEXT_CHREND104_02155_TODO_10",""
+35,"TEXT_CHREND104_02155_TODO_11",""
+36,"TEXT_CHREND104_02155_TODO_12",""
+37,"TEXT_CHREND104_02155_TODO_13",""
+38,"TEXT_CHREND104_02155_TODO_14",""
+39,"TEXT_CHREND104_02155_TODO_15",""
+40,"TEXT_CHREND104_02155_TODO_16",""
+41,"TEXT_CHREND104_02155_TODO_17",""
+42,"TEXT_CHREND104_02155_TODO_18",""
+43,"TEXT_CHREND104_02155_TODO_19",""
+44,"TEXT_CHREND104_02155_TODO_20",""
+45,"TEXT_CHREND104_02155_TODO_21",""
+46,"TEXT_CHREND104_02155_TODO_22",""
+47,"TEXT_CHREND104_02155_TODO_23",""
+48,"TEXT_CHREND104_02155_GAETELLE_000_000","It is true that Ulaa had signed the paperwork to formally withdraw from her studies, but knowing her passion for study of scripture, I feel something is amiss..."
+49,"TEXT_CHREND104_02155_SATURNOIS_000_000","The five pupils who brought back the truants are no doubt vying for the highest marks. But it would seem the dormitory prefects came out on top this time..."
+50,"TEXT_CHREND104_02155_BRIARDIEN_000_000","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, were you present when Crammevoix spoke with Ulaa?"
+51,"TEXT_CHREND104_02155_GAETELLE_000_001","...So she was indeed enthusiastic about returning to the scholasticate."
+52,"TEXT_CHREND104_02155_SATURNOIS_000_002","Then why did she instead decide to withdraw?"
+53,"TEXT_CHREND104_02155_BRIARDIEN_000_003","Crammevoix all but accused Archombadin of having a hand in it, as well as the disappearance of this volume eleven. Naught more than slander spoken in anger, perhaps, but the situation does merit further investigation."
+54,"TEXT_CHREND104_02155_SATURNOIS_000_004","We look forward to your results, Inspector.<hex:02100103><hex:020815E905FF09>Mistress<hex:FF07>Master<hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303>─if I might have a word with you in private? Pray meet with me near the plaza in front of Saint Reymanaud's Cathedral."
+55,"TEXT_CHREND104_02155_THEOMOCENT_000_009","Archombadin and Lebrassoir are truly impressive! That they were able to bring the most students back to the scholasticate, they surely have a way with words! Would that I had such skill..."
+56,"TEXT_CHREND104_02155_LEIGH_000_009","Theo can be so thickheaded sometimes. He doesn't realize that all those students Archombadin and Lebrassoir brought back will make our lives a living hell. At least Father Saturnois understands the stakes."
+57,"TEXT_CHREND104_02155_GAETELLE_000_009","Whatever her reasons, it is our loss. Ulaa was an excellent student."
+58,"TEXT_CHREND104_02155_SATURNOIS_000_010","Thank you for coming, <hex:020815E905FF09>Mistress<hex:FF07>Master<hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303>. You are already acquainted with my two best students, Theomocent and Leigh?"
+59,"TEXT_CHREND104_02155_SATURNOIS_000_011","They have sought my counsel in their quest to obtain the Trinity seats, and I have been more than willing to oblige them out of a desire to ensure that all students are given equal opportunity. I am not blind to the machinations of our highborn students, after all."
+60,"TEXT_CHREND104_02155_SATURNOIS_000_012","I know not what Archombadin and Lebrassoir have said to you, but I advise you to weigh it carefully. You witnessed their treatment of a fellow highborn student, did you not? Then it should come as no surprise that they regard their lowborn peers far more harshly, discriminating against them with whatever means at their disposal."
+61,"TEXT_CHREND104_02155_SATURNOIS_000_013","Those two believe that less fortunate students lack the potential to become great clergymen. But, if Theomocent and Leigh can obtain the highest marks and secure their places within the Trinity through their hard work and virtue, then these misguided beliefs would be proved wrong."
+62,"TEXT_CHREND104_02155_LEIGH_000_014","Even if we were to succeed, what difference would it make? Those who disagree will not be so easily swayed, and those who sympathize will be reluctant to speak out for fear of reprisals."
+63,"TEXT_CHREND104_02155_SATURNOIS_000_015","Then you must find allies who are fearless─who do not flinch in the face of threats. <hex:020815E905FF09>Mistress<hex:FF07>Master<hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303>, have you come across any who fit that description?"
+64,"TEXT_CHREND104_02155_Q1_000_001","What will you say?"
+65,"TEXT_CHREND104_02155_A1_000_001","What about Crammevoix?"
+66,"TEXT_CHREND104_02155_A1_000_002","..."
+67,"TEXT_CHREND104_02155_THEOMOCENT_000_016","I thought so as well! He seems to treat everyone the same. And he defended Ulaa's honor at the assembly."
+68,"TEXT_CHREND104_02155_THEOMOCENT_000_017","Um, what about Crammevoix? He seems to treat everyone the same. And he defended Ulaa's honor at the assembly."
+69,"TEXT_CHREND104_02155_LEIGH_000_018","The highborn lecher? Who skips out on sessions and can't even stay awake for the ones he attends? Theo, are you daft? If he did decide to help us, I wouldn't even want it!"
+70,"TEXT_CHREND104_02155_SATURNOIS_000_019","No need to dismiss him out of hand, Leigh. As Theomocent said, he spoke out openly against Archombadin and Lebrassoir on behalf of Ulaa. He might be willing to do the same for you two."
+71,"TEXT_CHREND104_02155_LEIGH_000_020","Absolutely not. I don't trust any of the highborn!<hex:02100103>...Look, I'll help with finding others, but you're on your own with Crammevoix."
+72,"TEXT_CHREND104_02155_SATURNOIS_000_021","Very well. <hex:020815E905FF09>Mistress<hex:FF07>Master<hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303>, will you accompany Theomocent? One cannot be too careful, especially with the rise in assaults on the clergy."
+73,"TEXT_CHREND104_02155_THEOMOCENT_000_021","Thank you. I am certain we can find him in the Pillars, in his usual spot."
+74,"TEXT_CHREND104_02155_CRAMMEVOIX_000_029","While I appreciate a scholarly debate as much as anyone, your bespectacled friend does not seem to understand that this is neither the time nor the place."
+75,"TEXT_CHREND104_02155_RYOUMIN2154_000_029","Ugh, and I was so close. I'm not going to get <hex:021A020203>anywhere<hex:021A020103> at this rate."
+76,"TEXT_CHREND104_02155_THEOMOCENT_000_030","I thought he would be more receptive to my appeal, but instead he seems rather annoyed..."
+77,"TEXT_CHREND104_02155_RYOUMIN2154_000_031","Can't you and Freckles see we're busy? Leave us be!"
+78,"TEXT_CHREND104_02155_CRAMMEVOIX_000_032","<hex:021A020203>Freckles<hex:021A020103>! You certainly have a way with words, my dear! She is quite right, you know. We have more pressing matters to attend to."
+79,"TEXT_CHREND104_02155_THEOMOCENT_000_033","Crammevoix, please, will you not help our cause? I believe us to be like-minded individuals, those who desire a new path for the church, one based on principles of─"
+80,"TEXT_CHREND104_02155_CRAMMEVOIX_000_034","Ahahaha, so earnest and forthright! How <hex:021A020203>adorable<hex:021A020103>! I can hardly resist pinching those soft, supple cheeks!"
+81,"TEXT_CHREND104_02155_RYOUMIN2154_000_035","Oh, for the love of─ Come, darling. Let us go somewhere that will afford us <hex:021A020203>privacy<hex:021A020103>."
+82,"TEXT_CHREND104_02155_CRAMMEVOIX_000_036","Mmm, an offer that I dare not refuse! Good luck with...whatever it is you're about, Freckles!"
+83,"TEXT_CHREND104_02155_THEOMOCENT_000_037","He's gone... No! I cannot give up! The future of the church depends on us! I was not given an opportunity to explain in full, so I will not leave his side until he hears me out!"
+84,"TEXT_CHREND104_02155_CRAMMEVOIX_000_039","This is, um...this is not what you think."
+85,"TEXT_CHREND104_02155_RYOUMIN2154_000_039","Aren't we persistent. Well, if you value his life, I suggest you listen to me <hex:021A020203>this<hex:021A020103> time and leave us be."
+86,"TEXT_CHREND104_02155_THEOMOCENT_000_040","N-Now, let's not get too hasty. I'm sure we can resolve this matter peacefully..."
+87,"TEXT_CHREND104_02155_RYOUMIN2154_000_041","Agreed─so long as you don't try something stupid and give me cause to cut his throat."
+88,"TEXT_CHREND104_02155_CRAMMEVOIX_000_042","Did I not tell you I was preoccupied? You there─take Freckles and get out of here."
+89,"TEXT_CHREND104_02155_THEOMOCENT_000_043","Release him at once or I'll summon the watch!"
+90,"TEXT_CHREND104_02155_CRAMMEVOIX_000_044","Don't you dare. The affairs of House Maintigny are none of your concern! She demands recompense, and rightly so. If I must pay with my life, then so be it."
+91,"TEXT_CHREND104_02155_THEOMOCENT_000_045","I will not allow it!"
+92,"TEXT_CHREND104_02155_CRAMMEVOIX_000_046","Oh, do not look so glum. If I must look upon your freckled face before I ascend to Halone's halls, I would rather you favored me with a smile or some such."
+93,"TEXT_CHREND104_02155_CRAMMEVOIX_000_047","...Father's sins are mine alone to bear now─mine alone to answer for. Mayhap in death our house shall at last be redeemed."
+94,"TEXT_CHREND104_02155_THEOMOCENT_000_048","If it is recompense you desire, then you shall have it. But not with his life!"
+95,"TEXT_CHREND104_02155_THEOMOCENT_100_048","The Fury forgives not those who kill their fellow man for wanton purpose. Permit him to address your grievances with coin, and you may have your justice without sin! Furthermore, I offer myself to you as a hostage in his place, that he might be free to secure sufficient ransom!"
+96,"TEXT_CHREND104_02155_CRAMMEVOIX_000_049","Have you gone mad!? I told you, this is none of your─"
+97,"TEXT_CHREND104_02155_THEOMOCENT_000_050","I will not abandon such a pious soul─one who shares my desire to make the world a better place!"
+98,"TEXT_CHREND104_02155_THEOMOCENT_000_051","We are not so different, Crammevoix. We have the chance to make amends for the sins of our fathers─to make Ishgard whole again. I cannot do it without you!"
+99,"TEXT_CHREND104_02155_CRAMMEVOIX_000_052","...Heh, you really are something else. Making a bloody speech about changing the world at a time like this."
+100,"TEXT_CHREND104_02155_CRAMMEVOIX_000_053","I offer the wealth of House Maintigny as ransom. If the lady agrees to these terms, then I will go and retrieve it at once."
+101,"TEXT_CHREND104_02155_CRAMMEVOIX_000_054","I'll take her silence as a yes. Now then, come─I've always wanted to tie someone up."
+102,"TEXT_CHREND104_02155_THEOMOCENT_000_059","You need not worry about me. I promise I will not move an ilm!"
+103,"TEXT_CHREND104_02155_RYOUMIN2154_000_059","I can't believe I agreed to this. You had better hope that no one walks this way, or else your friend will pay the price. Understand?"
+104,"TEXT_CHREND104_02155_CRAMMEVOIX_000_060","We will have to travel to my family's old estates in the western highlands to retrieve your ransom. I presume you will wait here until I return?"
+105,"TEXT_CHREND104_02155_RYOUMIN2154_000_061","For now. But if you do not come back quickly─and with a great deal of money besides─this one's life is forfeit. Is that clear?"
+106,"TEXT_CHREND104_02155_CRAMMEVOIX_000_062","Quite. As for you, Freckles─do not do anything else reckless!"
+107,"TEXT_CHREND104_02155_CRAMMEVOIX_000_063","<hex:020815E905FF09>Mistress<hex:FF07>Master<hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303>, I must ask that you come with me. It would not do to go through all this trouble only to be waylaid by bandits on my way back. Let us make haste!"
+108,"TEXT_CHREND104_02155_CRAMMEVOIX_000_070","Forgive me─my family's fortune is buried not far from here, but I...I would rather retrieve it alone. Pray remain here a moment and keep watch for bandits and wild beasts."
+109,"TEXT_CHREND104_02155_CRAMMEVOIX_000_069","Didn't I ask you to let me do this myself? Please, leave me be!"
+110,"TEXT_CHREND104_02155_CRAMMEVOIX_000_075","I have what we came for. Now then, let us pray that Freckles is still alive and well..."
+111,"TEXT_CHREND104_02155_RYOUMIN2154_000_080","It's about time. I'm <hex:021A020203>freezing<hex:021A020103>, and had half a mind to skin this one to keep warm. Now then. Hand it over."
+112,"TEXT_CHREND104_02155_CRAMMEVOIX_000_081","Here you are. The entire fortune that was bequeathed unto me. Share it with your people as recompense, starting with the families of the bereaved. On behalf of House Maintigny, I am truly sorry."
+113,"TEXT_CHREND104_02155_LEIGH_000_082","Theo! Fury forfend, what have you gotten yourself into this time? I swear, I leave you alone for but a moment─"
+114,"TEXT_CHREND104_02155_THEOMOCENT_000_083","I was never in any danger, Leigh. I prayed to the Fury, and by Her hand was Crammevoix returned to me."
+115,"TEXT_CHREND104_02155_CRAMMEVOIX_000_084","I am terribly sorry to have involved you in my personal affairs. I should have known that the lives of my family would not be enough to sate the smallfolk's thirst for vengeance."
+116,"TEXT_CHREND104_02155_THEOMOCENT_000_085","Think nothing of it. I too lost my father, so if you ever have need to speak about it, you can confide in me as a friend."
+117,"TEXT_CHREND104_02155_CRAMMEVOIX_000_086","My father sought to curry favor with the Holy See, and so he raised great levies to send to the front lines. Honor was his prize, but it was bought with the blood of his subjects. And eventually, his own."
+118,"TEXT_CHREND104_02155_CRAMMEVOIX_000_087","The smallfolk had come to resent his demands for service, and when the truth of the war was revealed, they revolted. The mob overran the manor guard, and my father and five brothers...perished at their hands. Had I not been sent away, I would have surely died with them."
+119,"TEXT_CHREND104_02155_CRAMMEVOIX_000_088","Our fortunes had grown poor following the Calamity, you see, and since I was the youngest, Father bid me leave to make my own way. So I enrolled in the scholasticate with hopes of becoming a bishop, to bring honor to myself and my house. But now..."
+120,"TEXT_CHREND104_02155_CRAMMEVOIX_000_089","No, there's no use dwelling on what could have been. We must look to the future, and do what we can to make Ishgard whole again. Every moment is sacred, and you helped me to see that, Theo. Consider me your friend and ally!"
+121,"TEXT_CHREND104_02155_SATURNOIS_000_090","Well said, Crammevoix, well said. Together, you may yet bring about lasting change."
+122,"TEXT_CHREND104_02155_LEIGH_000_091","Let's not get ahead of ourselves. Without the endorsement of the scholasticate and the support of our peers, no one will listen to us. What's more, I still haven't heard anyone explain how we're supposed to get seats on the Trinity!"
+123,"TEXT_CHREND104_02155_CRAMMEVOIX_000_092","Ishgard wasn't built in a day, Leigh. Besides, we still have plenty of time to work something out."
+124,"TEXT_CHREND104_02155_LEIGH_000_093","See!? I knew he wouldn't take this seriously!"
+125,"TEXT_CHREND104_02155_SATURNOIS_000_094","Calm yourself, Leigh, and keep an open mind. Now, let us return and discuss our next course of action."
+126,"TEXT_CHREND104_02155_SATURNOIS_000_095","Oh, I nearly forgot. Inspector Briardien was looking for you at the cathedral. He wished to speak with you regarding his investigation, I believe."
+127,"TEXT_CHREND104_02155_BRIARDIEN_000_099","Well then, my associate. Have you anything to report?"
+128,"TEXT_CHREND104_02155_BRIARDIEN_000_100","A former subject of House Maintigny demanding recompense for the misdeeds of Crammevoix's father? How fortunate that the situation was resolved peacefully."
+129,"TEXT_CHREND104_02155_BRIARDIEN_000_101","My investigation has been less productive, unfortunately. I thought to speak with Ulaa, the student who withdrew from the scholasticate, but I cannot find her anywhere."
+130,"TEXT_CHREND104_02155_BRIARDIEN_000_102","The same must be said of the infamous volume eleven, which contains passages extolling the virtues of equality. Like the girl, it has vanished without a trace."
+131,"TEXT_CHREND104_02155_BRIARDIEN_000_103","The circumstances surrounding these incidents suggest deliberate intent. Someone may be attempting to turn this tenuous state of affairs to their advantage, but if so, then to what end?"
+132,"TEXT_CHREND104_02155_BRIARDIEN_000_104","For one thousand years, a sickness has ravaged our city. It has festered within the hearts and minds of our citizens, and in our clergy especially. Treating it will be a long and arduous process─but an altogether necessary one."
+133,"TEXT_CHREND104_02155_BRIARDIEN_000_105","Our role in that process is clear: to diagnose the root of the scholasticate's ailments. If there are malicious forces at work, then it is our duty to see justice done!"
+134,"TEXT_CHREND104_02155_SYSTEM_000_106","In a time of unrest, when the light of truth was lost to the righteous, <hex:02100103>the children looked to one another for guidance, that they might walk in Her grace..."

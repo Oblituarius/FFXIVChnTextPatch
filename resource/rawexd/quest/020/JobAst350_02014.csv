@@ -2,89 +2,89 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_JOBAST350_02014_SEQ_00,聖岡里奧爾占星院的雅內基納爾想要邀請冒險者進行新的修練。
-1,TEXT_JOBAST350_02014_SEQ_01,從雅內基納爾處聽取了關於新修練的說明。和東薩納蘭最終祈禱紀念地的蕾薇瓦談談。
-2,TEXT_JOBAST350_02014_SEQ_02,和蕾薇瓦進行了交談。在東薩納蘭最終祈禱紀念地的<hex:02280CFF05>EObj<hex:F61E9D2A0103>仰望天空。
-3,TEXT_JOBAST350_02014_SEQ_03,打開了炎天座之門。為了繼續修練，和南薩納蘭小阿拉米格的蕾薇瓦談談。
-4,TEXT_JOBAST350_02014_SEQ_04,和蕾薇瓦進行了交談。在小阿拉米格的<hex:02280CFF05>EObj<hex:F61E9D2A0103>仰望天空。
-5,TEXT_JOBAST350_02014_SEQ_05,打開了雷天座之門。和小阿拉米格的蕾薇瓦談談。
-6,TEXT_JOBAST350_02014_SEQ_06,和蕾薇瓦進行了交談。和聖岡里奧爾占星院的雅內基納爾談談。
-7,TEXT_JOBAST350_02014_SEQ_07,和雅內基納爾進行了交談。為了能夠憑藉自身的力量解決困難，繼續努力進行修練。<hex:02100103><hex:02100103>※占星術士的等級達到40級以上時，可以從聖岡里奧爾占星院的雅內基納爾那裡領取下一個占星術士任務。
-8,TEXT_JOBAST350_02014_SEQ_08,
-9,TEXT_JOBAST350_02014_SEQ_09,
-10,TEXT_JOBAST350_02014_SEQ_10,
-11,TEXT_JOBAST350_02014_SEQ_11,
-12,TEXT_JOBAST350_02014_SEQ_12,
-13,TEXT_JOBAST350_02014_SEQ_13,
-14,TEXT_JOBAST350_02014_SEQ_14,
-15,TEXT_JOBAST350_02014_SEQ_15,
-16,TEXT_JOBAST350_02014_SEQ_16,
-17,TEXT_JOBAST350_02014_SEQ_17,
-18,TEXT_JOBAST350_02014_SEQ_18,
-19,TEXT_JOBAST350_02014_SEQ_19,
-20,TEXT_JOBAST350_02014_SEQ_20,
-21,TEXT_JOBAST350_02014_SEQ_21,
-22,TEXT_JOBAST350_02014_SEQ_22,
-23,TEXT_JOBAST350_02014_SEQ_23,
-24,TEXT_JOBAST350_02014_TODO_00,和最終祈禱紀念地的蕾薇瓦對話
-25,TEXT_JOBAST350_02014_TODO_01,在<hex:02280CFF05>EObj<hex:F61E9D2A0103>張望
-26,TEXT_JOBAST350_02014_TODO_02,和小阿拉米格的蕾薇瓦對話
-27,TEXT_JOBAST350_02014_TODO_03,在<hex:02280CFF05>EObj<hex:F61E9D2A0103>張望
-28,TEXT_JOBAST350_02014_TODO_04,和蕾薇瓦對話
-29,TEXT_JOBAST350_02014_TODO_05,和雅內基納爾對話
-30,TEXT_JOBAST350_02014_TODO_06,
-31,TEXT_JOBAST350_02014_TODO_07,
-32,TEXT_JOBAST350_02014_TODO_08,
-33,TEXT_JOBAST350_02014_TODO_09,
-34,TEXT_JOBAST350_02014_TODO_10,
-35,TEXT_JOBAST350_02014_TODO_11,
-36,TEXT_JOBAST350_02014_TODO_12,
-37,TEXT_JOBAST350_02014_TODO_13,
-38,TEXT_JOBAST350_02014_TODO_14,
-39,TEXT_JOBAST350_02014_TODO_15,
-40,TEXT_JOBAST350_02014_TODO_16,
-41,TEXT_JOBAST350_02014_TODO_17,
-42,TEXT_JOBAST350_02014_TODO_18,
-43,TEXT_JOBAST350_02014_TODO_19,
-44,TEXT_JOBAST350_02014_TODO_20,
-45,TEXT_JOBAST350_02014_TODO_21,
-46,TEXT_JOBAST350_02014_TODO_22,
-47,TEXT_JOBAST350_02014_TODO_23,
-48,TEXT_JOBAST350_02014_JANNEQUINARD_000_000,<hex:022903EB0203>，別來無恙。<hex:02100103>看來你有在遵循蕾薇瓦老師的教導，努力磨練技藝啊。<hex:02100103>那麼，差不多該進行下一階段的修練了。
-49,TEXT_JOBAST350_02014_JANNEQUINARD_000_001,聽老師說，這次的修練也是要打開六天座的門。<hex:02100103>……話說，你知道六天座的由來嗎？
-50,TEXT_JOBAST350_02014_JANNEQUINARD_000_002,據傳，在艾歐澤亞一共有七個天界。<hex:02100103>對應著火、水、風、冰、雷、土這六大屬性的「六天」，<hex:02100103>以及在它們上方閃耀著，對應星極性的「星天」……
-51,TEXT_JOBAST350_02014_JANNEQUINARD_000_003,世間普遍認為其中的「六天」之門，<hex:02100103>就是圍繞著北極星的6個星座……<hex:02100103>這6個星座就被稱為「六天座」。
-52,TEXT_JOBAST350_02014_JANNEQUINARD_000_004,占星魔法是藉助星座之力的魔法體系。<hex:02100103>通過在合適的地點仰望六天座並打開天座之門，<hex:02100103>以此來加強與星座間的聯繫，是非常重要的。
-53,TEXT_JOBAST350_02014_JANNEQUINARD_000_005,蕾薇瓦老師為了尋找開門的合適地點而四處奔走，<hex:02100103>最終在東薩納蘭找到了符合條件的地點。<hex:02100103>我們也快去東薩納蘭的最終祈禱紀念地，和老師匯合吧。
-54,TEXT_JOBAST350_02014_JANNEQUINARD_000_009,打開天界之門，會讓你與星辰之間的聯繫更加緊密。
-55,TEXT_JOBAST350_02014_JANNEQUINARD_000_010,我也是第一次來這裡。
-56,TEXT_JOBAST350_02014_QUIMPERAIN_000_010,我們剛到這裡就受到了強盜的襲擊。<hex:02100103>周邊的警戒工作就交給在下，<hex:02100103>還請您心無旁騖地進行修練。
-57,TEXT_JOBAST350_02014_LEVEVA_000_011,<hex:022903EB0203>，你平安到達了就好。<hex:02100103>我們剛一到這裡就被賊人襲擊了。<hex:02100103>不過多虧了坎佩蘭，沒出什麼大事。
-58,TEXT_JOBAST350_02014_JANNEQUINARD_000_012,……大概是些專門襲擊朝聖秘石者的野盜之流吧。<hex:02100103>總之必須得多加小心。
-59,TEXT_JOBAST350_02014_LEVEVA_000_013,修練之路並不太平，卻是必須要走的道路。<hex:02100103>而且，你遭遇的所有事情一定有它發生的意義……<hex:02100103>就把這當做對自己的試煉吧。
-60,TEXT_JOBAST350_02014_JANNEQUINARD_000_014,是……那麼就繼續進行開啟六天之門的莊嚴修練吧。
-61,TEXT_JOBAST350_02014_LEVEVA_000_015,不用著急……<hex:02100103>首先要等待夜空中的星座最為閃耀的那一刻到來。<hex:02100103><hex:022903EB0203>，你就站在那裡保持仰望天空就好。
-62,TEXT_JOBAST350_02014_LEVEVA_000_019,首先要等待夜空中的星座最為閃耀的那一刻到來。<hex:02100103><hex:022903EB0203>，你就站在那裡保持仰望天空就好。
-63,TEXT_JOBAST350_02014_LEVEVA_000_020,那麼，<hex:022903EB0203>！<hex:02100103>與烈焰般燃燒著的炎天座心意相通，<hex:02100103>打開它的大門吧！
-64,TEXT_JOBAST350_02014_LEVEVA_000_021,相傳在火之天界——炎天之上，<hex:02100103>有著商貿神納爾札爾運用地底的知識構築起的城市。<hex:02100103>而太陽神阿澤瑪就居於其中，手持黃金扇，向世人降下制裁。
-65,TEXT_JOBAST350_02014_LEVEVA_000_022,因此我們將象徵著炎天座祝福的奧秘之力稱為「均衡」。<hex:02100103>通過使用「均衡」的能力，<hex:02100103>來獲得足以裁決正邪的巨大力量。
-66,TEXT_JOBAST350_02014_LEVEVA_000_023,好了，這樣一來炎天之門就被打開了。<hex:02100103>在這赤色星座的指引下，<hex:02100103>你一定能夠跨越一切艱難險阻。
-67,TEXT_JOBAST350_02014_LEVEVA_000_024,那麼，接下來的修練地在南薩納蘭的小阿拉米格。<hex:02100103>我會在那裡幫你打開下一道六天之門。
-68,TEXT_JOBAST350_02014_LEVEVA_000_029,好了，<hex:022903EB0203>，<hex:02100103>你就站在那裡，保持仰望天空，<hex:02100103>等待夜空中的星座最為閃耀的那一刻到來就好。
-69,TEXT_JOBAST350_02014_QUIMPERAIN_000_029,也差不多習慣了這種混著沙土的空氣了……
-70,TEXT_JOBAST350_02014_LEVEVA_000_030,那麼，<hex:022903EB0203>！<hex:02100103>與閃耀著閃電般光芒的雷天座心意相通，<hex:02100103>打開它的大門吧！
-71,TEXT_JOBAST350_02014_LEVEVA_000_031,相傳在雷之天界——雷天之上，<hex:02100103>聳立著工藝神比爾格以機械工藝所建造的機械塔，<hex:02100103>不斷地從破壞神拉爾戈所粉碎的彗星中吸收雷電之力。
-72,TEXT_JOBAST350_02014_LEVEVA_000_032,因此我們將象徵著雷天座祝福的奧秘之力稱為「巨塔」。<hex:02100103>通過使用「巨塔」的能力，<hex:02100103>就能像這座堅固的塔一般獲得強大的守護之力。
-73,TEXT_JOBAST350_02014_LEVEVA_000_033,雷天座正是代表著雷天之門的星座……<hex:02100103>現在，這扇門已為你而打開……
-74,TEXT_JOBAST350_02014_LEVEVA_000_034,星座會根據觀察的地點不同而呈現出不同的樣子。<hex:02100103>所以不同的星座都分別有著<hex:02100103>開啟相對應六天之門的最佳地點。
-75,TEXT_JOBAST350_02014_JANNEQUINARD_000_039,明明是同樣的星空，<hex:02100103>在不同的地方仰望的話，<hex:02100103>給人的印象也會變化呢……
-76,TEXT_JOBAST350_02014_LEVEVA_000_040,我在為了尋找修練之地而周遊艾歐澤亞的過程中，<hex:02100103>發現正如傳聞中那樣，<hex:02100103>艾歐澤亞各地確實是爭端不斷啊。
-77,TEXT_JOBAST350_02014_LEVEVA_000_041,在這小阿拉米格，<hex:02100103>因為戰爭而失去故鄉的人們終日生活在痛苦之中。<hex:02100103>而在伊修加德，與龍族跨越千年的戰爭也從未停息……
-78,TEXT_JOBAST350_02014_LEVEVA_000_042,你們可以選擇將這樣的痛苦視為命運而棄之不理。<hex:02100103>但是只要掌握了占星術的智慧，<hex:02100103>就能以自己的力量來面對困難，開拓命運。
-79,TEXT_JOBAST350_02014_LEVEVA_000_043,自己的所學究竟應該用在哪裡？<hex:02100103>對於剛剛成為占星術士的你們而言，<hex:02100103>這是需要你們去認真思考的一個重要命題。
-80,TEXT_JOBAST350_02014_JANNEQUINARD_000_044,……的確如此，只要對占星魔法善加利用，<hex:02100103>就能解救和引導因戰爭而痛苦不堪的人們。<hex:02100103>但是在薩雷安，擁有這樣的想法的人應該並不多……
-81,TEXT_JOBAST350_02014_LEVEVA_000_045,正如你所言。<hex:02100103>「薩雷安的使命是觀測歷史，所以不應該介入其中」。<hex:02100103>……雖然很遺憾，但在薩雷安，這樣的想法才是主流。
-82,TEXT_JOBAST350_02014_LEVEVA_000_046,這也是雅內基納爾關於派遣指導者的請求<hex:02100103>多年來都沒有得到回應的理由。<hex:02100103>但是，我為了貫徹自己的信念，來到了這片土地……
-83,TEXT_JOBAST350_02014_LEVEVA_000_047,好了，在薩納蘭的修練是時候結束了。<hex:02100103>回皇都去吧。
-84,TEXT_JOBAST350_02014_JANNEQUINARD_000_050,<hex:022903EB0203>，歡迎回來。<hex:02100103>蕾薇瓦老師回來沒待一會就又出發去尋找新的修練地了。
-85,TEXT_JOBAST350_02014_JANNEQUINARD_000_051,老師說今後開啟六天之門時也需要你一同前往，<hex:02100103>希望你堅持鍛鍊，為了今後的修練做好準備。
+0,"TEXT_JOBAST350_02014_SEQ_00","Jannequinard believes you and he are ready for the next step in your training."
+1,"TEXT_JOBAST350_02014_SEQ_01","Jannequinard reveals that Leveva awaits you both at the Final Prayer in eastern Thanalan. There you are to attempt an opening of the second heaven's gate."
+2,"TEXT_JOBAST350_02014_SEQ_02","Leveva insists that you must be patient when waiting for the constellations to ascend into midheaven. Stand in the location specified by your instructor and survey the skies until the stars have risen."
+3,"TEXT_JOBAST350_02014_SEQ_03","You succeeded in attuning with the Balance. The next gate lies beneath the skies of Little Ala Mhigo. Meet with Leveva at the camp, and hearken to her instructions."
+4,"TEXT_JOBAST350_02014_SEQ_04","Leveva surprises you by suggesting that you and Jannequinard are ready to open the third heaven's gate. Stand in the specified location and survey the skies until the stars ascend."
+5,"TEXT_JOBAST350_02014_SEQ_05","You have attuned with the Spire. Could it be that you are ready for the fourth gate? Speak with Leveva and find out."
+6,"TEXT_JOBAST350_02014_SEQ_06","Leveva appears drained from her journey and has suggested that you take some time to further hone your astrological prowess before moving on to the fourth gate. She believes that Jannequinard, of all people, might be able to help you. Return to the Athenaeum to learn about the “royal road” of arcana reading."
+7,"TEXT_JOBAST350_02014_SEQ_07","Jannequinard, in his own awkward way, has passed on knowledge that might be useful in your training. Continue applying yourself to better perform in battle, and return to Jannequinard once you have gained further confidence in your abilities.<hex:02100103><hex:02100103>※The next astrologian quest will be available from Jannequinard upon reaching level 40."
+8,"TEXT_JOBAST350_02014_SEQ_08",""
+9,"TEXT_JOBAST350_02014_SEQ_09",""
+10,"TEXT_JOBAST350_02014_SEQ_10",""
+11,"TEXT_JOBAST350_02014_SEQ_11",""
+12,"TEXT_JOBAST350_02014_SEQ_12",""
+13,"TEXT_JOBAST350_02014_SEQ_13",""
+14,"TEXT_JOBAST350_02014_SEQ_14",""
+15,"TEXT_JOBAST350_02014_SEQ_15",""
+16,"TEXT_JOBAST350_02014_SEQ_16",""
+17,"TEXT_JOBAST350_02014_SEQ_17",""
+18,"TEXT_JOBAST350_02014_SEQ_18",""
+19,"TEXT_JOBAST350_02014_SEQ_19",""
+20,"TEXT_JOBAST350_02014_SEQ_20",""
+21,"TEXT_JOBAST350_02014_SEQ_21",""
+22,"TEXT_JOBAST350_02014_SEQ_22",""
+23,"TEXT_JOBAST350_02014_SEQ_23",""
+24,"TEXT_JOBAST350_02014_TODO_00","Speak with Leveva at the Final Prayer."
+25,"TEXT_JOBAST350_02014_TODO_01","Survey the skies at the destination specified by Leveva."
+26,"TEXT_JOBAST350_02014_TODO_02","Speak with Leveva outside Little Ala Mhigo."
+27,"TEXT_JOBAST350_02014_TODO_03","Survey the skies at the destination specified by Leveva."
+28,"TEXT_JOBAST350_02014_TODO_04","Speak with Leveva."
+29,"TEXT_JOBAST350_02014_TODO_05","Speak with Jannequinard in Ishgard."
+30,"TEXT_JOBAST350_02014_TODO_06",""
+31,"TEXT_JOBAST350_02014_TODO_07",""
+32,"TEXT_JOBAST350_02014_TODO_08",""
+33,"TEXT_JOBAST350_02014_TODO_09",""
+34,"TEXT_JOBAST350_02014_TODO_10",""
+35,"TEXT_JOBAST350_02014_TODO_11",""
+36,"TEXT_JOBAST350_02014_TODO_12",""
+37,"TEXT_JOBAST350_02014_TODO_13",""
+38,"TEXT_JOBAST350_02014_TODO_14",""
+39,"TEXT_JOBAST350_02014_TODO_15",""
+40,"TEXT_JOBAST350_02014_TODO_16",""
+41,"TEXT_JOBAST350_02014_TODO_17",""
+42,"TEXT_JOBAST350_02014_TODO_18",""
+43,"TEXT_JOBAST350_02014_TODO_19",""
+44,"TEXT_JOBAST350_02014_TODO_20",""
+45,"TEXT_JOBAST350_02014_TODO_21",""
+46,"TEXT_JOBAST350_02014_TODO_22",""
+47,"TEXT_JOBAST350_02014_TODO_23",""
+48,"TEXT_JOBAST350_02014_JANNEQUINARD_000_000","Greetings, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! The stars tell me you have been rigorously following Leveva's training regimen...though I harbor doubts that “go out and do things while I traipse about the realm” constitutes a regimen."
+49,"TEXT_JOBAST350_02014_JANNEQUINARD_000_001","Still, she is all we have, so I suppose we have to make do. And, as the stars would have it, she has just sent word that she is ready for us to attempt the opening of the second heaven's gate."
+50,"TEXT_JOBAST350_02014_JANNEQUINARD_000_002","You are aware of the seven heavens, are you not? Just as there are seven realms of the underworld, so too are there seven realms of the firmament. Each of the first six represent one of the six basic elements─earth, ice, water, wind, lightning, and fire─the seventh and final heaven representing the elements' astral polarity."
+51,"TEXT_JOBAST350_02014_JANNEQUINARD_000_003","The first six heavens are represented by the six constellations which each revolve around the pole star."
+52,"TEXT_JOBAST350_02014_JANNEQUINARD_000_004","Astrologians of the Sharlayan school draw on the aether contained in the celestial bodies represented in the constellations by “unlocking” or “opening” the gate to heaven that constellation is correlated with. There is no <hex:021A020203>actual<hex:021A020103> gate...think of it as more a portal to the soul. You are opening your mind, allowing for attunement with these distant bodies, much like one attunes with an aetheryte, but on a far grander scale."
+53,"TEXT_JOBAST350_02014_JANNEQUINARD_000_005","Now this may come as a revelation, but Hydaelyn is not flat like most believe. It is, in fact, a sphere so large, that when we walk upon it, it only <hex:021A020203>appears<hex:021A020103> to be flat. Because it is a sphere, there are some locations better suited than others for observing certain constellations. That is what Leveva is doing right now─finding a location in which the next heaven's gate will rise to a position directly in midheaven, where it will be easiest to attune with. And it seems she has found one...near the Final Prayer in eastern Thanalan."
+54,"TEXT_JOBAST350_02014_JANNEQUINARD_000_009","Oh, I harbor no ill feelings toward you regarding Professor Mace's decision to choose you over me as his successor. To tell you the truth, I was even sort of relieved. The successor to the greatest astrologian in Sharlayan? Think of all the responsibility..."
+55,"TEXT_JOBAST350_02014_JANNEQUINARD_000_010","I don't believe my travels have ever taken me this far south. A tad dusty for my tastes. And warm. And dry. And brown."
+56,"TEXT_JOBAST350_02014_QUIMPERAIN_000_010","The journey here was uneventful, but the moment we arrived, we were set upon by bandits. I had no trouble driving them away, but I fear they may return again in numbers. Focus on your training, <hex:020813E905FF07>milady<hex:FF07>milord<hex:03>, and I shall keep watch."
+57,"TEXT_JOBAST350_02014_LEVEVA_000_011","Here at last, I see. Bandits have kept poor Quimperain busy, harrying our camp since we arrived. I do believe the old man enjoys the excitement, however. I'm certain it beats wiping the arse of a noble brat whoring away his uncle's fortune while dreaming of becoming a <hex:021A020203>real<hex:021A020103> astrologian."
+58,"TEXT_JOBAST350_02014_JANNEQUINARD_000_012","I am very well capable of wiping my own arse, thank you very much. And Quimperain has never once complained of his duties."
+59,"TEXT_JOBAST350_02014_LEVEVA_000_013","Of course he hasn't. Your uncle pays him to smile and nod, and I'm sure a comfortable position in the Pillars beats chasing after cloud rats in the Brume to flavor his soup."
+60,"TEXT_JOBAST350_02014_JANNEQUINARD_000_014","Are we here to trade banter, my lady, because I was led to believe we'd be unlocking a celestial gate? You will find Quimperain has a good many uses, and I haven't the faintest doubt that he will most ably handle any ruffians who happen to come stumbling about looking for prey."
+61,"TEXT_JOBAST350_02014_LEVEVA_000_015","Now <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>...and Jannequinard. We must be patient and wait for the constellation to reach its highest and brightest point─a point at which its flow of aether is the strongest in relation to Hydaelyn."
+62,"TEXT_JOBAST350_02014_LEVEVA_000_019","Be patient, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. We are at the mercy of the stars and their movements. Only a fool believes <hex:02080CE905FF04>she<hex:FF03>he<hex:03> can manipulate the heavens. It is the heavens which manipulate us. We merely take cues from the hints they leave behind."
+63,"TEXT_JOBAST350_02014_LEVEVA_000_020","There, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! The Balance! Focus on the constellation and attune to its power."
+64,"TEXT_JOBAST350_02014_LEVEVA_000_021","The Balance represents the heaven of fire─a realm made prosperous by the blessing of the Traders, but at the same time, one whose equilibrium is maintained by the divine judgment of Azeyma, the Warden."
+65,"TEXT_JOBAST350_02014_LEVEVA_000_022","Azeyma's might will empower those who would take up their blades and mete divine punishment in the name of the sun goddess."
+66,"TEXT_JOBAST350_02014_LEVEVA_000_023","And thus has the Balance burned crimson in your heart, unlocking the gate to the second heaven."
+67,"TEXT_JOBAST350_02014_LEVEVA_000_024","Now, let us speed ourselves to the next location─Little Ala Mhigo. Hm? Why so soon, you ask? Would you rather that I had you to commit yourself to another several moons of using malefics to put down hedgemoles? I thought not."
+68,"TEXT_JOBAST350_02014_LEVEVA_000_029","Be patient, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Allow the stars to make their ascent into midheaven. Once they have, survey the skies and let the power run through you."
+69,"TEXT_JOBAST350_02014_QUIMPERAIN_000_029","Lord Jannequinard complains of the sand, but only because he sees it as a nuisance. The sand can be a wonderful thing, if you know of its benefits. For example, it can be used to polish your mail, or cover your body at night to stave off the desert cold... Ah. Am I boring you, <hex:020813E905FF07>milady<hex:FF07>milord<hex:03>?"
+70,"TEXT_JOBAST350_02014_LEVEVA_000_030","Raise your eyes to the stars, and witness the violet glow of the Spire!"
+71,"TEXT_JOBAST350_02014_LEVEVA_000_031","In the third heaven rises an iron tower of spinning gears and taut springs constructed by the Builder Himself. It is assailed without cease by the jealous Rhalgr, but the Destroyer's mighty levinbolts only serve to power the spire's clockwork soul."
+72,"TEXT_JOBAST350_02014_LEVEVA_000_032","It is through the blessings of both creation and destruction that strength is granted to <hex:02080CE905FF04>she<hex:FF03>he<hex:03> who sees <hex:02080DE905FF04>her<hex:FF04>his<hex:03> stars rise under this sign."
+73,"TEXT_JOBAST350_02014_LEVEVA_000_033","You have now opened the gate, and its power is yours to command."
+74,"TEXT_JOBAST350_02014_LEVEVA_000_034","Using the arcana to draw upon the powers of the stars they represent. This path we walk as astrologians is called the royal road. It can be treacherous and fraught with peril, but it can lead men<hex:020813E905FF0D>...and women<hex:FF01><hex:03> to greatness."
+75,"TEXT_JOBAST350_02014_JANNEQUINARD_000_039","One gate in my first seventeen years...and now look at me. Perhaps my previous methods of training were not the most efficient."
+76,"TEXT_JOBAST350_02014_LEVEVA_000_040","Your realm is...quite the paradox. On one hand, it is full of life, magic, and wonder─one of the richest lands on all Hydaelyn. On the other, it is literally brimming over with strife."
+77,"TEXT_JOBAST350_02014_LEVEVA_000_041","Take Little Ala Mhigo─the wretched souls displaced from their homes by the flames of war. Or Ishgard─mired in its own pointless conflict with an enemy so old it does not even remember why it fights."
+78,"TEXT_JOBAST350_02014_LEVEVA_000_042","The foolish believe that it is their fate to suffer, and so they turn their gaze away from the stars, when those selfsame stars have the power to show people there are many paths."
+79,"TEXT_JOBAST350_02014_LEVEVA_000_043","But that power can only be channeled by the few. Those like me and you...and to a lesser extent Jannequinard. And it is our duty to use that power to benefit those who remain lost or misguided. Remember that, and maybe one day you will truly become my grandfather's successor."
+80,"TEXT_JOBAST350_02014_JANNEQUINARD_000_044","That is exactly what I have been trying to tell the astrologians of my home nation. Why disregard something that has the power to grant succor to the wounded, the power to uplift the downtrodden, to strengthen the weak?"
+81,"TEXT_JOBAST350_02014_LEVEVA_000_045","The answer to that is easy. Empowering those without power lessens the power of those who already have it. Heal the weak so they might rise up and topple those who made them weak? Why would anyone in a position of power do that? Even our great nation of learning is corrupted by this manner of thought. We hoard our knowledge so that we might remain the brightest."
+82,"TEXT_JOBAST350_02014_LEVEVA_000_046","Why do you think that it took so long for Professor Mace to visit you, Jannequinard? Yes, I know what he <hex:021A020203>told<hex:021A020103> you, but that was not the whole of it. Those of the Ruling Quarter did their damndest to stand in the way of my grandfather, worried that his passion for his field would kindle widespread interest in Sharlayan astrology. They only allowed him his recent trip, knowing he was now too old to do aught of the sort. Fortunately, the Ruling Quarter did not realize I would be accompanying my grandfather."
+83,"TEXT_JOBAST350_02014_LEVEVA_000_047","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, these past turns of the sun have been most fruitful. Yet while you have opened half the heavens' gates, there is still much of what we like to refer to as the “royal road” ahead of you. Take what you have learned here in the southern deserts and transform that knowledge into strength. If you wish to know more of the royal road, I suggest that you discuss it with Jannequinard back in Ishgard. If my grandfather is to be believed, his time transcribing tomes back at the Studium scriptorium should have left him more than capable of handling that task."
+84,"TEXT_JOBAST350_02014_JANNEQUINARD_000_050","You wish to know more of the royal road? I...uh...well..."
+85,"TEXT_JOBAST350_02014_JANNEQUINARD_000_051","I...ah, seem to recall it had something to do with reassessing the attribution of an arcanum before reading it, which would result in a slight alteration of predestination... Or perhaps it had something to do with the kings and queens on the minor arcana. It <hex:021A020203>was<hex:021A020103> over a decade ago..."

@@ -2,17 +2,17 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_REGSEABEGINNERDPSGUIDE_00338_DPSCOACH00338_000_000,我在教新人冒險者如何與同伴共同戰鬥。<hex:02100103>不過你看起來實力還不太夠啊。<hex:02100103>再一個人出去多闖闖、多練練吧！
-1,TEXT_REGSEABEGINNERDPSGUIDE_00338_SYSTEM_000_000,只有15級以上的戰鬥菁英或魔法導師<hex:02100103>才能接受初學者學堂的訓練。
-2,TEXT_REGSEABEGINNERDPSGUIDE_00338_DPSCOACH00338_000_010,我在教新人冒險者如何與同伴共同戰鬥。<hex:02100103>就等著你這樣有前途的冒險者來學習呢。<hex:02100103>如果你想接受訓練，就去找冒險者指導教官吧。
-3,TEXT_REGSEABEGINNERDPSGUIDE_00338_DPSCOACH00338_000_020,你是不是找錯人了？<hex:02100103>我好像教不了你啊。
-4,TEXT_REGSEABEGINNERDPSGUIDE_00338_DPSCOACH00338_000_030,歡迎，你是來學習如何掌握進攻職業的吧？<hex:02100103>只要你樂意，我隨時都能陪你一起訓練！<hex:02100103>你先去找一下裡面的冒險者指導教官吧。
-5,TEXT_REGSEABEGINNERDPSGUIDE_00338_DPSCOACH00338_000_040,這不是<hex:022903EB0203>嘛！<hex:02100103>在最終訓練中合格後，學過的東西肯定能在實戰中派上用場的。<hex:02100103>你要不要來複習一下啊？
-6,TEXT_REGSEABEGINNERDPSGUIDE_00338_Q1_000_000,想了解什麼？
-7,TEXT_REGSEABEGINNERDPSGUIDE_00338_A1_000_001,和同伴協作時要注意什麼？
-8,TEXT_REGSEABEGINNERDPSGUIDE_00338_A1_000_002,敵人的增援來了要怎麼辦？
-9,TEXT_REGSEABEGINNERDPSGUIDE_00338_A1_000_003,在戰場上發現陷阱要怎麼辦？
-10,TEXT_REGSEABEGINNERDPSGUIDE_00338_A1_000_004,取消
-11,TEXT_REGSEABEGINNERDPSGUIDE_00338_DPSCOACH00338_000_100,在與同伴協作時，要注意攻擊的目標。<hex:02100103>與同伴攻擊相同的敵人，切記不可一個人胡亂攻擊。
-12,TEXT_REGSEABEGINNERDPSGUIDE_00338_DPSCOACH00338_000_110,如果敵人的增援出現，需要格外留心！<hex:02100103>特別是在和強敵戰鬥時，<hex:02100103>推薦你先迅速解決掉增援。
-13,TEXT_REGSEABEGINNERDPSGUIDE_00338_DPSCOACH00338_000_120,如果在戰場上發現陷阱，要對其進行積極利用。<hex:02100103>冷靜分析情況，巧妙利用陷阱，<hex:02100103>就能令戰況對自己有利。
+0,"TEXT_REGSEABEGINNERDPSGUIDE_00338_DPSCOACH00338_000_000","I am the Master of Arms, and it is my duty to instruct fledgling adventurers in the fundamentals of party combat. Hmmm. You, my friend, are mayhap a touch fresh from the egg. Return to me once your feathers have grown in a little fuller!"
+1,"TEXT_REGSEABEGINNERDPSGUIDE_00338_SYSTEM_000_000","To undertake Hall of the Novice training, you must be a Disciple of War or Magic of level 15 or higher."
+2,"TEXT_REGSEABEGINNERDPSGUIDE_00338_DPSCOACH00338_000_010","I am the Master of Arms, and it is my duty to instruct fledgling adventurers in the fundamentals of party combat. And you, my friend, are exactly the kind of strapping young hero for whom I have been waiting. Convey your interest to the Smith over yonder, and we can begin your training immediately!"
+3,"TEXT_REGSEABEGINNERDPSGUIDE_00338_DPSCOACH00338_000_020","My field is focused strictly upon damage, and the judicious infliction thereof. Should you be more concerned with preventing or mending said damage, mayhap one of my colleagues would be better equipped to meet your needs."
+4,"TEXT_REGSEABEGINNERDPSGUIDE_00338_DPSCOACH00338_000_030","Come for training, have you? Speak with the Smith to arrange a lesson, and I shall meet you on the practice field!"
+5,"TEXT_REGSEABEGINNERDPSGUIDE_00338_DPSCOACH00338_000_040","Ah, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! One of our prize students! I have no doubt that you shall put our lessons to good use on the battlefield. Should you ever wish any further instruction, you need only say the word!"
+6,"TEXT_REGSEABEGINNERDPSGUIDE_00338_Q1_000_000","What will you ask?"
+7,"TEXT_REGSEABEGINNERDPSGUIDE_00338_A1_000_001","What should I remember when fighting alongside allies?"
+8,"TEXT_REGSEABEGINNERDPSGUIDE_00338_A1_000_002","How should I handle enemy reinforcements?"
+9,"TEXT_REGSEABEGINNERDPSGUIDE_00338_A1_000_003","What should I do with levers and the like?"
+10,"TEXT_REGSEABEGINNERDPSGUIDE_00338_A1_000_004","Nothing."
+11,"TEXT_REGSEABEGINNERDPSGUIDE_00338_DPSCOACH00338_000_100","When fighting alongside allies, pray consider well your choice of opponent. Rather than spreading attacks amongst several enemies, it is often far more efficient for the whole party to focus upon defeating one foe at a time!"
+12,"TEXT_REGSEABEGINNERDPSGUIDE_00338_DPSCOACH00338_000_110","New enemies appearing in the midst of a battle can sow chaos and confusion! Should you be fighting an opponent of considerable strength, I would suggest breaking away to eliminate any pesky reinforcements!"
+13,"TEXT_REGSEABEGINNERDPSGUIDE_00338_DPSCOACH00338_000_120","You would be wise to explore the nature of any levers or devices you discover on the battlefield. Prudent use of such mechanisms may provide just the advantage you require to seize victory."

@@ -2,85 +2,85 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_CMNGSCGATEHIDDENOBJECT_00248_Q1_000_000,請選擇要檢查的部位
-1,TEXT_CMNGSCGATEHIDDENOBJECT_00248_A1_000_001,檢查頭部
-2,TEXT_CMNGSCGATEHIDDENOBJECT_00248_A1_000_002,檢查身體
-3,TEXT_CMNGSCGATEHIDDENOBJECT_00248_A1_000_003,檢查腳部
-4,TEXT_CMNGSCGATEHIDDENOBJECT_00248_A1_000_004,檢查全身
-5,TEXT_CMNGSCGATEHIDDENOBJECT_00248_A1_000_005,取消
-6,TEXT_CMNGSCGATEHIDDENOBJECT_00248_A1_000_006,從後方檢查
-7,TEXT_CMNGSCGATEHIDDENOBJECT_00248_A1_000_007,從前方檢查
-8,TEXT_CMNGSCGATEHIDDENOBJECT_00248_SYSTEM_700_050,請仔細觀察妖異獵人的造型，加以牢記。
-9,TEXT_CMNGSCGATEHIDDENOBJECT_00248_SYSTEM_700_051,請仔細檢查是否和妖異獵人相同。
-10,TEXT_CMNGSCGATEHIDDENOBJECT_00248_MIDLANDERM01_000_000,要好好觀察細節，記住我的造型啊！
-11,TEXT_CMNGSCGATEHIDDENOBJECT_00248_MIDLANDERM01_000_001,好，去找出那隻小魔精吧！<hex:02100103>還想確認細節的話，再和我說一聲！
-12,TEXT_CMNGSCGATEHIDDENOBJECT_00248_MIDLANDERM02_000_005,為了找出小魔精，需要檢查我的身形對吧……
-13,TEXT_CMNGSCGATEHIDDENOBJECT_00248_MIDLANDERM02_000_006,如何，已經完全記住了嗎？<hex:02100103>那就拜託你找出小魔精了！
-14,TEXT_CMNGSCGATEHIDDENOBJECT_00248_MIDLANDERM03_000_010,好——好地檢查我身上的一分一毫吧！<hex:02100103>為了把小魔精找出來，我會無條件地協助你的！
-15,TEXT_CMNGSCGATEHIDDENOBJECT_00248_MIDLANDERM03_000_011,已經確認好了？<hex:02100103>那就拜託你啦！
-16,TEXT_CMNGSCGATEHIDDENOBJECT_00248_MIDLANDERM04_000_015,喔，想要檢查我的身體細節嗎？<hex:02100103>我很欣賞你這種穩妥的做法啊！
-17,TEXT_CMNGSCGATEHIDDENOBJECT_00248_MIDLANDERM04_000_016,那就拜託你去找出小魔精了！<hex:02100103>還想再看的時候，就來和我說一聲！
-18,TEXT_CMNGSCGATEHIDDENOBJECT_00248_MIDLANDERM05_000_020,你是來對照我的身體細節的吧。<hex:02100103>來來來不要害羞，盡情地看個夠吧！
-19,TEXT_CMNGSCGATEHIDDENOBJECT_00248_MIDLANDERM05_000_021,在那隻變成我的樣子的小魔精搗亂之前，<hex:02100103>要趕緊把它找出來！
-20,TEXT_CMNGSCGATEHIDDENOBJECT_00248_MIDLANDERF01_100_000,是想看看我的身形對吧？
-21,TEXT_CMNGSCGATEHIDDENOBJECT_00248_MIDLANDERF01_100_001,如果你真能抓住搗亂的小魔精就太好了……<hex:02100103>那就拜託你啦！
-22,TEXT_CMNGSCGATEHIDDENOBJECT_00248_MIDLANDERF02_100_005,想要檢查我的身形嗎？<hex:02100103>可以啊……請仔細地看看吧。
-23,TEXT_CMNGSCGATEHIDDENOBJECT_00248_MIDLANDERF02_100_006,那麼請你去找出小魔精吧！<hex:02100103>只要和我說一聲，隨時都可以再來確認。
-24,TEXT_CMNGSCGATEHIDDENOBJECT_00248_MIDLANDERF03_100_010,你找到那個模仿犯了嗎？<hex:02100103>誒？想要檢查我的身形……
-25,TEXT_CMNGSCGATEHIDDENOBJECT_00248_MIDLANDERF03_100_011,那就拜託你了……<hex:02100103>它的變身能夠以假亂真，請你一定要留心。
-26,TEXT_CMNGSCGATEHIDDENOBJECT_00248_MIDLANDERF04_100_015,哎呀，不好意思，我可是貨真價實的本人。<hex:02100103>還是說，你只是來檢查我的身形的？
-27,TEXT_CMNGSCGATEHIDDENOBJECT_00248_MIDLANDERF04_100_016,已經確認好了？<hex:02100103>那就請你去揪出小魔精吧！
-28,TEXT_CMNGSCGATEHIDDENOBJECT_00248_MIDLANDERF05_100_020,你是來檢查我的身形嗎？<hex:02100103>好的，還請你細細地看個清楚……
-29,TEXT_CMNGSCGATEHIDDENOBJECT_00248_MIDLANDERF05_100_021,我決不允許那隻小魔精用我的身形胡作非為……<hex:02100103>請你一定要將它抓住。
-30,TEXT_CMNGSCGATEHIDDENOBJECT_00248_HIGHLANDER01_200_000,好！你是準備對照著我來抓到我吧？<hex:02100103>嘖，怎麼感覺這句話說出來很怪呢……
-31,TEXT_CMNGSCGATEHIDDENOBJECT_00248_HIGHLANDER01_200_001,那就拜託你抓到我……不對，抓到小魔精了！
-32,TEXT_CMNGSCGATEHIDDENOBJECT_00248_HIGHLANDER02_200_005,要是認錯人可就麻煩了……<hex:02100103>要好好記住我的身體細節啊！
-33,TEXT_CMNGSCGATEHIDDENOBJECT_00248_HIGHLANDER02_200_006,很好，你就去漂亮地識破它的偽裝吧！
-34,TEXT_CMNGSCGATEHIDDENOBJECT_00248_HIGHLANDER03_200_010,你來找我有什麼事嗎……<hex:02100103>唔，是要檢查我的身形？
-35,TEXT_CMNGSCGATEHIDDENOBJECT_00248_HIGHLANDER03_200_011,這小東西的變身可是有模有樣呢……<hex:02100103>要好好分辨真假啊！
-36,TEXT_CMNGSCGATEHIDDENOBJECT_00248_HIGHLANDER04_200_015,竟然變成我的樣子？嚯，真是讓人火大！<hex:02100103>你好好記住我的樣子，非得抓住它不可！
-37,TEXT_CMNGSCGATEHIDDENOBJECT_00248_HIGHLANDER04_200_016,那隻討厭的小魔精……給我抓到了有它好看的！<hex:02100103>你就幫我把它找出來吧！
-38,TEXT_CMNGSCGATEHIDDENOBJECT_00248_HIGHLANDER05_200_020,我都開始懷疑起自己的長相了……<hex:02100103>你也幫我好好看看吧。
-39,TEXT_CMNGSCGATEHIDDENOBJECT_00248_HIGHLANDER05_200_021,怎麼感覺和我一模一樣的人變多了……<hex:02100103>以防萬一，連我的衣服也一起看個仔細吧！
-40,TEXT_CMNGSCGATEHIDDENOBJECT_00248_SEEKEROFTHESUN01_300_000,嗯……你想要檢查我的身形嗎？
-41,TEXT_CMNGSCGATEHIDDENOBJECT_00248_SEEKEROFTHESUN01_300_001,感覺長得像我的人好像很多……<hex:02100103>加油找吧，靠你啦！
-42,TEXT_CMNGSCGATEHIDDENOBJECT_00248_SEEKEROFTHESUN02_300_005,你找到模仿我的傢伙了？<hex:02100103>不是啊……那就是來檢查我的身形的吧？
-43,TEXT_CMNGSCGATEHIDDENOBJECT_00248_SEEKEROFTHESUN02_300_006,從頭到腳都和我完全一樣的一定就是小魔精！<hex:02100103>請你揪出它吧！
-44,TEXT_CMNGSCGATEHIDDENOBJECT_00248_SEEKEROFTHESUN03_300_010,嗚嗚……要是它還沒有搗什麼亂就好了……<hex:02100103>只要能找出小魔精，什麼忙我都會幫的！
-45,TEXT_CMNGSCGATEHIDDENOBJECT_00248_SEEKEROFTHESUN03_300_011,已經檢查完了嗎？<hex:02100103>如果還要再檢查，記得告訴我！
-46,TEXT_CMNGSCGATEHIDDENOBJECT_00248_SEEKEROFTHESUN04_300_015,好想蹲下來休息會兒啊……<hex:02100103>嗯？想檢查我的身形？
-47,TEXT_CMNGSCGATEHIDDENOBJECT_00248_SEEKEROFTHESUN04_300_016,一直站著簡直累死了……<hex:02100103>都怪那隻小魔精到處亂跑啦！
-48,TEXT_CMNGSCGATEHIDDENOBJECT_00248_SEEKEROFTHESUN05_300_020,先謝謝你的幫助……<hex:02100103>有什麼我能做到的，請儘管說吧！
-49,TEXT_CMNGSCGATEHIDDENOBJECT_00248_SEEKEROFTHESUN05_300_021,這附近有不少的貓魅族……<hex:02100103>找起來也許很困難，但還是請你加油！
-50,TEXT_CMNGSCGATEHIDDENOBJECT_00248_WILDWOOD01_400_000,你找到那隻變身搗亂的小魔精了嗎？！<hex:02100103>什麼……首先要確認我的身形？
-51,TEXT_CMNGSCGATEHIDDENOBJECT_00248_WILDWOOD01_400_001,這裡有許多人和我非常地相似。<hex:02100103>我很期待你是如何抓住真正的小魔精的！
-52,TEXT_CMNGSCGATEHIDDENOBJECT_00248_WILDWOOD02_400_005,竟然對我這絕世美女說想要仔細地檢查……<hex:02100103>好吧——這是特別優待哦？
-53,TEXT_CMNGSCGATEHIDDENOBJECT_00248_WILDWOOD02_400_006,雖然她們都遠不及我……<hex:02100103>但是這附近還有許多可愛的女孩子呢，千萬別找錯哦？
-54,TEXT_CMNGSCGATEHIDDENOBJECT_00248_WILDWOOD03_400_010,你想要檢查我的身形嗎？<hex:02100103>好的……請你隨意檢查。
-55,TEXT_CMNGSCGATEHIDDENOBJECT_00248_WILDWOOD03_400_011,希望你能盡快地找到小魔精……
-56,TEXT_CMNGSCGATEHIDDENOBJECT_00248_WILDWOOD04_400_015,請你仔細檢查，好好記住我的身形吧！
-57,TEXT_CMNGSCGATEHIDDENOBJECT_00248_WILDWOOD04_400_016,只能拜託你了……<hex:02100103>請一定要找出那隻小魔精！
-58,TEXT_CMNGSCGATEHIDDENOBJECT_00248_WILDWOOD05_400_020,一直被人直勾勾地盯著看，事到如今已經沒什麼好怕的了……<hex:02100103>好吧，請你徹底地將我檢查個清楚吧！
-59,TEXT_CMNGSCGATEHIDDENOBJECT_00248_WILDWOOD05_400_021,那隻小魔精到底都做了什麼惡作劇……<hex:02100103>請你一定要將它抓到！
-60,TEXT_CMNGSCGATEHIDDENOBJECT_00248_SEAWOLF01_500_000,喔喔！從頭到腳，好好把我的樣子記在腦袋裡吧！
-61,TEXT_CMNGSCGATEHIDDENOBJECT_00248_SEAWOLF01_500_001,咦嘻嘻嘻！等抓到那傢伙，我要狠狠撓它的癢！<hex:02100103>拜託你把它找出來吧！
-62,TEXT_CMNGSCGATEHIDDENOBJECT_00248_SEAWOLF02_500_005,你想將我的強大與美麗深深地鐫刻在你的腦海裡？<hex:02100103>好，我同意了！
-63,TEXT_CMNGSCGATEHIDDENOBJECT_00248_SEAWOLF02_500_006,已經記住了？很好。<hex:02100103>為了找出變化成本美男子瀟灑模樣的可悲小魔精，<hex:02100103>你可要好好出力才行啊！
-64,TEXT_CMNGSCGATEHIDDENOBJECT_00248_SEAWOLF03_500_010,怎麼回事……感覺到處都是長得相似的傢伙！<hex:02100103>算了，你先好好檢查我的身形吧。
-65,TEXT_CMNGSCGATEHIDDENOBJECT_00248_SEAWOLF03_500_011,已經記住了？！你的記憶力真好啊……<hex:02100103>如果不小心忘記了，再回來我這裡吧！
-66,TEXT_CMNGSCGATEHIDDENOBJECT_00248_SEAWOLF04_500_015,我要是身體再強一些就好了……<hex:02100103>既然有求於人，我能幫的忙一定盡力去做！
-67,TEXT_CMNGSCGATEHIDDENOBJECT_00248_SEAWOLF04_500_016,若是有你這樣的腳力和眼力……<hex:02100103>一定馬上就能找出那隻小魔精的！
-68,TEXT_CMNGSCGATEHIDDENOBJECT_00248_SEAWOLF05_500_020,滿地都是像我一樣高大的人在到處晃悠，所以需要檢查？<hex:02100103>哈哈，這世上還真是無奇不有……
-69,TEXT_CMNGSCGATEHIDDENOBJECT_00248_SEAWOLF05_500_021,不要被身高所迷惑，<hex:02100103>好好對照長相和服裝，找出真正的小魔精吧！
-70,TEXT_CMNGSCGATEHIDDENOBJECT_00248_HELLSGUARD01_600_000,你想要檢查我的身形？
-71,TEXT_CMNGSCGATEHIDDENOBJECT_00248_HELLSGUARD01_600_001,趁著小魔精還沒開始搗亂，趕快把它揪出來吧！
-72,TEXT_CMNGSCGATEHIDDENOBJECT_00248_HELLSGUARD02_600_005,完蛋了完蛋了！<hex:02100103>到處都是和我一個模子刻出來的傢伙，搞糊塗了……<hex:02100103>喂，你可得看清楚我的身形啊！
-73,TEXT_CMNGSCGATEHIDDENOBJECT_00248_HELLSGUARD02_600_006,要是它變成我的樣子，去點了什麼稀有菜餚名貴酒水……<hex:02100103>哎喲完蛋了！請你趕快把它找出來吧！
-74,TEXT_CMNGSCGATEHIDDENOBJECT_00248_HELLSGUARD03_600_010,喔，你是要檢查我的身形吧……<hex:02100103>老、老實說，這樣站得筆直的真是要命……
-75,TEXT_CMNGSCGATEHIDDENOBJECT_00248_HELLSGUARD03_600_011,這……這人流簡直要把我擠飛了……<hex:02100103>就拜託你……去找出小魔精了……
-76,TEXT_CMNGSCGATEHIDDENOBJECT_00248_HELLSGUARD04_600_015,怎麼到處都有魯加族的人在走動……<hex:02100103>總之，先檢查一下我的身形吧！
-77,TEXT_CMNGSCGATEHIDDENOBJECT_00248_HELLSGUARD04_600_016,已經結束了？<hex:02100103>如果還有啥不清楚的，再來找我啊！
-78,TEXT_CMNGSCGATEHIDDENOBJECT_00248_HELLSGUARD05_600_020,你願意相信我？<hex:02100103>為了不和其他相似的冒險者搞錯，先檢查一下我吧。
-79,TEXT_CMNGSCGATEHIDDENOBJECT_00248_HELLSGUARD05_600_021,只要還有你相信我，我就覺得很放心了。<hex:02100103>小魔精就拜託你去找出來了！
-80,TEXT_CMNGSCGATEHIDDENOBJECT_00248_TALK_ACTOR,（★未使用／削除予定★）
-81,TEXT_CMNGSCGATEHIDDENOBJECT_00248_TALK_ACTOR1,（★未使用／削除予定★）
+0,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_Q1_000_000","What will you do?"
+1,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_A1_000_001","Inspect the adventurer's head."
+2,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_A1_000_002","Inspect the adventurer's upper body."
+3,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_A1_000_003","Inspect the adventurer's lower body."
+4,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_A1_000_004","Inspect the adventurer's entire body."
+5,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_A1_000_005","Nothing."
+6,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_A1_000_006","Inspect the adventurer from behind."
+7,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_A1_000_007","Inspect the adventurer from the front."
+8,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_SYSTEM_700_050","Take note of any distinguishing features. Many adventurers may look alike at a glance."
+9,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_SYSTEM_700_051","Make certain that the adventurer is your client's exact double before you act!"
+10,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_MIDLANDERM01_000_000","You wish to inspect me more closely? Good, be my guest!"
+11,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_MIDLANDERM01_000_001","I trust you've seen what you need to see? Then I'll leave you to it!"
+12,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_MIDLANDERM02_000_005","Ah, of course. You'll want to take a good look at me if you're to find that mischief-making monster."
+13,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_MIDLANDERM02_000_006","Well? Have you all the details you need? Then pray track down that imp!"
+14,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_MIDLANDERM03_000_010","Ye...ye want to take a long, hard look at me? Well, if it's to catch the imp... But keep yer eyes away from me...me tender regions!"
+15,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_MIDLANDERM03_000_011","Gotten an eyeful, have ye? Then go and catch the bloody imp!"
+16,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_MIDLANDERM04_000_015","You wish to have a proper look at me before you leave? What a marvelous idea!"
+17,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_MIDLANDERM04_000_016","I wish you luck on your search, friend. You're more than welcome to inspect me again should the need arise."
+18,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_MIDLANDERM05_000_020","Yes, yes. Take a good look. <hex:021A020203>He<hex:021A020103> is in every way, shape, and form identical to <hex:021A020203>me<hex:021A020103>, so it is essential that you memorize my─and, in turn, his─every feature."
+19,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_MIDLANDERM05_000_021","And do not leave without inspecting my garments, for they are <hex:021A020203>his<hex:021A020103> garments as well!"
+20,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_MIDLANDERF01_100_000","Do what you must, but pray be quick about it! Even as we speak, that fiend could be doing horrible things in my name!"
+21,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_MIDLANDERF01_100_001","You <hex:021A020203>will<hex:021A020103> find him, will you not? I dare not consider the alternative..."
+22,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_MIDLANDERF02_100_005","Oh, would you care to see how I'm dressed and such? That should help you find that awful demon."
+23,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_MIDLANDERF02_100_006","Well, then, I'll leave you to it! Feel free to come back if you need another look!"
+24,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_MIDLANDERF03_100_010","Have you found that bleedin' imp yet? Wait, you want to take a look at <hex:021A020203>me<hex:021A020103>!?"
+25,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_MIDLANDERF03_100_011","Keep your eyes peeled, love─a <hex:020810E905FF05>maid<hex:FF06>bloke<hex:03>'s mum couldn't tell <hex:02080DE905FF04>her<hex:FF04>him<hex:03> an' the imp apart!"
+26,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_MIDLANDERF04_100_015","Wait, no! Put that down. I'm the real me, I swear! In fact, why not take a closer look before you go? Can't have you harassing innocent patrons with brightash, now can we?"
+27,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_MIDLANDERF04_100_016","I hope you find that horrible imp, and find him quick. Goodness knows I can't have my reputation sullied before the big tournament."
+28,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_MIDLANDERF05_100_020","Take a close look. Closer now. I wouldn't have you mistaking some disheveled commoner for the second-most beautiful woman in the Saucer."
+29,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_MIDLANDERF05_100_021","Some say the impostor is an <hex:021A020203>exact<hex:021A020103> double, but that would be ridiculous, for we all know by the definition of <hex:021A020203>exact<hex:021A020103> that there is room for variation."
+30,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_HIGHLANDER01_200_000","You want to take a good look at me so you can find me? Gods, why didn't I think of that? Look, then─<hex:021A020203>look<hex:021A020103>!"
+31,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_HIGHLANDER01_200_001","I'm counting on you to stop him─to stop <hex:021A020203>me<hex:021A020103>─before it's too late!"
+32,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_HIGHLANDER02_200_005","We don't want you throwing brightash at the wrong man. Here, you'd best take note of what I'm wearing."
+33,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_HIGHLANDER02_200_006","Done? Good hunting, then!"
+34,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_HIGHLANDER03_200_010","Very well. To catch an imp, I will submit myself to your investigation."
+35,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_HIGHLANDER03_200_011","The voidsent's guise is perfect, my friend. Do not let it make a fool of you."
+36,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_HIGHLANDER04_200_015","Though my purloined good looks should be unmistakable in a crowd, might I suggest you take one last look at me?"
+37,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_HIGHLANDER04_200_016","I hope that imp gets everything that's coming to him. One cannot steal this beautiful face without repercussions, you know."
+38,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_HIGHLANDER05_200_020","Gawp all ye want, but keep them dirty dukes to yerself."
+39,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_HIGHLANDER05_200_021","Alright! Alright! That's enough. Any more gazin' into me orbs and people might start talkin'."
+40,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_SEEKEROFTHESUN01_300_000","Well, if you must. But don't take too long─we haven't much time!"
+41,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_SEEKEROFTHESUN01_300_001","Take care not to throw it at the first Seeker of the Sun you see. There are more than a few here <hex:020839E3E90C0DFF19><hex:020815E3E90C05FF08>tonight<hex:FF06>today<hex:03><hex:FF19><hex:020815E3E90C12FF06>today<hex:FF08>tonight<hex:03><hex:03> wearing outfits similar to mine."
+42,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_SEEKEROFTHESUN02_300_005","Have you found that impish imitator? Or did you wish to appreciate my fine sense of fashion first?"
+43,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_SEEKEROFTHESUN02_300_006","The creature copied my style from the top of my head to the tip of my claws, so it shouldn't be too hard to find!"
+44,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_SEEKEROFTHESUN03_300_010","You want to <hex:021A020203>what<hex:021A020103>? I hardly think I of all people should be subject to your prying eyes.<hex:02100103>...But do as you must."
+45,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_SEEKEROFTHESUN03_300_011","Are you satisfied? Good. Now kindly go and find the imp!"
+46,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_SEEKEROFTHESUN04_300_015","If you think it would help, you're more than welcome to another look. Anything to help catch that horrible little monster."
+47,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_SEEKEROFTHESUN04_300_016","I'm counting on you to teach that imp a lesson. If you need another look at my outfit, I'll be here waiting for you."
+48,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_SEEKEROFTHESUN05_300_020","If it means finding that imp, you can eye me all you like!"
+49,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_SEEKEROFTHESUN05_300_021","Do take care when using that brightash, however. It seems I am not the only Seeker of the Sun who believes her identity stolen by the imp."
+50,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_WILDWOOD01_400_000","Did you find him already? What!? You're only here to inspect my garments?"
+51,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_WILDWOOD01_400_001","Admittedly, I have been told on several occasions that I resemble someone else, so your caution may be warranted. Still, time is of the essence..."
+52,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_WILDWOOD02_400_005","I am accustomed to lingering stares, but must you gaze with such intensity? I suppose I must endure the attention if it will aid you in banishing that upstart impostor..."
+53,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_WILDWOOD02_400_006","You may find yourself drawn to other, lesser beauties, but I assure you, none have quite reached the same pinnacle of loveliness as I."
+54,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_WILDWOOD03_400_010","You would like to take a closer look at my figure? By all means, my friend."
+55,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_WILDWOOD03_400_011","Is there aught else you would see? No? Then may the Twelve aid you in finding the fiend."
+56,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_WILDWOOD04_400_015","If you're going to catch that little monster, you had best take a closer look at my clothing. The last thing we want is to be thrown out for harassing our fellow patrons."
+57,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_WILDWOOD04_400_016","Imps are a crafty lot, so be careful."
+58,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_WILDWOOD05_400_020","Commit my features to memory if you must, but be quick about it. My creditors are not the most patient of people."
+59,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_WILDWOOD05_400_021","Finished? Then off with you."
+60,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_SEAWOLF01_500_000","Huh? Er... Ye want me to strike a pose or summat?"
+61,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_SEAWOLF01_500_001","Satisfied? Off with ye, then! That imp ain't goin' to catch himself!"
+62,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_SEAWOLF02_500_005","Ye need to sear me ugly face into yer brain, do ye? Take a good long look, then."
+63,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_SEAWOLF02_500_006","Remembered all me bumps an' crags? All right, matey. Ye take me smoke bomb an' crack that voidsent bastard right 'twixt the eyes!"
+64,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_SEAWOLF03_500_010","What strange tide landed all these folk what could be me twin here?<hex:02100103>Eh? Ye need to look me over? Look away, mate, look away!"
+65,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_SEAWOLF03_500_011","That's...that's all? Well, I've no intent to leave if ye need another look."
+66,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_SEAWOLF04_500_015","I reckon you'd be too fast to keep up with. Least I can do, though, is give you a look at my clothes before you go."
+67,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_SEAWOLF04_500_016","I'll wait here, in case he slips by you. Good luck!"
+68,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_SEAWOLF05_500_020","Like I told ye, the imp has me eyes, me nose, me scars. Hells, the little devil even had the damned decency to monkey me turnout."
+69,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_SEAWOLF05_500_021","Ye find him for me, eh? I don't know how much longer I can take this."
+70,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_HELLSGUARD01_600_000","Ahhh, I knew there was a reason I chose you! Kind <hex:021A020203>and<hex:021A020103> clever!"
+71,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_HELLSGUARD01_600_001","Just hold my image in your mind's eye! I know you can do it!"
+72,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_HELLSGUARD02_600_005","I never paid much attention before, but there's more than a few lads in here that could pass for me at a glance. You've only got one shot, so you'd best be sure of your target."
+73,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_HELLSGUARD02_600_006","You'll find that imp, won't you? What if it's out there right now, ordering lunch for a hundred...?"
+74,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_HELLSGUARD03_600_010","Want to look me over, eh? Fine. But not a word about my posture."
+75,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_HELLSGUARD03_600_011","People... Too many people.<hex:02100103>Get that imp, so I can get out of here!"
+76,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_HELLSGUARD04_600_015","Making a mental note of my appearance should help you track the beast down."
+77,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_HELLSGUARD04_600_016","Well, I'll leave you to it, then. If you need anything, you know where to find me."
+78,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_HELLSGUARD05_600_020","Ah, a <hex:02080FE905FF06>woman<hex:FF04>man<hex:03> after my own heart. You, too, then realize that only through observation can one answer the riddles of the world. Observe away, my friend."
+79,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_HELLSGUARD05_600_021","I wish you the best of luck...even though my studies have found that luck plays little part in the outcome of events such as these."
+80,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_TALK_ACTOR",""
+81,"TEXT_CMNGSCGATEHIDDENOBJECT_00248_TALK_ACTOR1",""

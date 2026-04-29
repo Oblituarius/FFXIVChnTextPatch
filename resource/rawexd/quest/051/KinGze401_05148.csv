@@ -2,106 +2,106 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_KINGZE401_05148_SEQ_00,<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整<hex:0249020103><hex:0248020103><hex:02100103>謝申內青磷泉的卡亞梅內想讓冒險者幫忙進行調查。
-1,TEXT_KINGZE401_05148_SEQ_01,※本任務為<hex:024804F201FC03><hex:024904F201FD03><hex:0249020103><hex:0248020103> 等級調整任務。<hex:02100103><hex:02100103>和卡亞梅內進行了交談。遺石似乎是在尤艾卡峽谷的某處採集到的。前往夏勞尼荒野的尤艾卡峽谷，和卡亞梅內談談。
-2,TEXT_KINGZE401_05148_SEQ_02,和卡亞梅內進行了交談。決定分頭行動尋找遺石的線索。前往尤艾卡峽谷，調查令人在意的地方。
-3,TEXT_KINGZE401_05148_SEQ_03,調查了尤艾卡峽谷，發現了<hex:022811FF0A>EventItem<hex:F61E92E60103>。交給尤艾卡峽谷的卡亞梅內。
-4,TEXT_KINGZE401_05148_SEQ_04,和卡亞梅內進行了交談。似乎沒有足夠的資金挖掘疑似遺石的化石。和夏勞尼荒野胡薩塔伊驛鎮的基特誇談談。
-5,TEXT_KINGZE401_05148_SEQ_05,和基特誇進行了交談。決定先去和卡亞梅內見面。再次和胡薩塔伊驛鎮酒館前的基特誇談談。
-6,TEXT_KINGZE401_05148_SEQ_06,和基特誇進行了交談。為了還欠冒險者的人情，基特誇想要積極探討融資的事情。為了和社長直接進行談判，回到謝申內青磷泉和卡亞梅內談談。
-7,TEXT_KINGZE401_05148_SEQ_07,和卡亞梅內進行了交談。成功讓社長了解到了藍疙瘩的危險性以及遺石的效果。社長理解了這個問題遲早會涉及到整個荒野、需要立刻採取措施的重要性，於是通過了遺石挖掘計劃。再次和謝申內青磷泉的卡亞梅內談談。
-8,TEXT_KINGZE401_05148_SEQ_08,卡亞梅內等人向著荒野的光明未來成功地邁出了第一步。相信即使荒野的危機迫在眉睫，大家也可以團結一心，共同面對。
-9,TEXT_KINGZE401_05148_SEQ_09,
-10,TEXT_KINGZE401_05148_SEQ_10,
-11,TEXT_KINGZE401_05148_SEQ_11,
-12,TEXT_KINGZE401_05148_SEQ_12,
-13,TEXT_KINGZE401_05148_SEQ_13,
-14,TEXT_KINGZE401_05148_SEQ_14,
-15,TEXT_KINGZE401_05148_SEQ_15,
-16,TEXT_KINGZE401_05148_SEQ_16,
-17,TEXT_KINGZE401_05148_SEQ_17,
-18,TEXT_KINGZE401_05148_SEQ_18,
-19,TEXT_KINGZE401_05148_SEQ_19,
-20,TEXT_KINGZE401_05148_SEQ_20,
-21,TEXT_KINGZE401_05148_SEQ_21,
-22,TEXT_KINGZE401_05148_SEQ_22,
-23,TEXT_KINGZE401_05148_SEQ_23,
-24,TEXT_KINGZE401_05148_TODO_00,和卡亞梅內對話
-25,TEXT_KINGZE401_05148_TODO_01,調查尤艾卡峽谷內
-26,TEXT_KINGZE401_05148_TODO_02,將<hex:022811FF0A>EventItem<hex:F61E92E60103>交給卡亞梅內
-27,TEXT_KINGZE401_05148_TODO_03,和基特誇對話
-28,TEXT_KINGZE401_05148_TODO_04,再次和基特誇對話
-29,TEXT_KINGZE401_05148_TODO_05,和卡亞梅內對話
-30,TEXT_KINGZE401_05148_TODO_06,再次和卡亞梅內對話
-31,TEXT_KINGZE401_05148_TODO_07,
-32,TEXT_KINGZE401_05148_TODO_08,
-33,TEXT_KINGZE401_05148_TODO_09,
-34,TEXT_KINGZE401_05148_TODO_10,
-35,TEXT_KINGZE401_05148_TODO_11,
-36,TEXT_KINGZE401_05148_TODO_12,
-37,TEXT_KINGZE401_05148_TODO_13,
-38,TEXT_KINGZE401_05148_TODO_14,
-39,TEXT_KINGZE401_05148_TODO_15,
-40,TEXT_KINGZE401_05148_TODO_16,
-41,TEXT_KINGZE401_05148_TODO_17,
-42,TEXT_KINGZE401_05148_TODO_18,
-43,TEXT_KINGZE401_05148_TODO_19,
-44,TEXT_KINGZE401_05148_TODO_20,
-45,TEXT_KINGZE401_05148_TODO_21,
-46,TEXT_KINGZE401_05148_TODO_22,
-47,TEXT_KINGZE401_05148_TODO_23,
-48,TEXT_KINGZE401_05148_KAYAMENE_000_001,<hex:022903EB0203>！<hex:02100103>我準備前往尤艾卡峽谷，調查能驅趕藍疙瘩的遺石。
-49,TEXT_KINGZE401_05148_KAYAMENE_000_002,不過我在搜索這方面是個外行……<hex:02100103>方便的話，可以請你幫忙進行調查嗎？
-50,TEXT_KINGZE401_05148_KAYAMENE_000_003,謝謝你！<hex:02100103>尤艾卡峽谷位於魯瓦特尼亞薩的西邊，<hex:02100103>我們這就過去吧！
-51,TEXT_KINGZE401_05148_KAYAMENE_000_004,我記得遺石是散發著白光對吧……<hex:02100103>我們就邊走邊找有沒有類似的東西吧！<hex:02100103>等你調查完之後再來找我！
-52,TEXT_KINGZE401_05148_KAYAMENE_000_005,遺石是散發著白光。<hex:02100103>希望能在這裡找到更多……
-53,TEXT_KINGZE401_05148_SYSTEM_000_006,普通的石子。<hex:02100103>並沒有像遺石那樣發光。
-54,TEXT_KINGZE401_05148_SYSTEM_000_007,美麗的砂岩。<hex:02100103>除此之外沒什麼值得注意的點。
-55,TEXT_KINGZE401_05148_SYSTEM_000_008,埋在地裡的一部分骨頭已經寶石化了。<hex:02100103>隱隱發光的樣子和遺石很像……
-56,TEXT_KINGZE401_05148_KAYAMENE_000_010,嗯，感覺很難能找到類似的東西呢……<hex:02100103><hex:022903EB0203>那邊有沒有什麼發現？
-57,TEXT_KINGZE401_05148_KAYAMENE_000_011,這、這個和遺石的顏色如出一轍！<hex:02100103>你是在哪裡找到的？
-58,TEXT_KINGZE401_05148_KAYAMENE_000_012,原來如此……我以前聽老奶奶說過！<hex:02100103>長期埋在地裡的化石，<hex:02100103>有一些會與大地相融合，逐漸寶石化。
-59,TEXT_KINGZE401_05148_KAYAMENE_000_013,據說在這些寶石當中，<hex:02100103>寄宿著變成化石前的生物的魔力……
-60,TEXT_KINGZE401_05148_KAYAMENE_000_014,如果那塊遺石也是一種變成了寶石的化石，<hex:02100103>或許就是其中的魔力趕走了藍疙瘩！
-61,TEXT_KINGZE401_05148_KAYAMENE_000_015,但如果這不是單純的礦石的話……<hex:02100103>想要採集所需的數量，肯定需要大量的人手。
-62,TEXT_KINGZE401_05148_KAYAMENE_000_016,連派個護送運輸的護衛都如此吝嗇的公司，<hex:02100103>會願意為此投入那麼多財力嗎……
-63,TEXT_KINGZE401_05148_Q2_000_000,要說什麼？
-64,TEXT_KINGZE401_05148_A2_000_000,如果是財物方面的談判，我知道一個靠譜的人
-65,TEXT_KINGZE401_05148_A2_000_001,要不要找人幫幫忙？
-66,TEXT_KINGZE401_05148_KAYAMENE_000_017,<hex:022903EB0203>，<hex:02100103>你在富人這方面也有人脈資源嗎？！<hex:02100103>真不愧是巡遊各地經驗豐富的高手啊！
-67,TEXT_KINGZE401_05148_KAYAMENE_000_018,有道理，希望有可以靠得住的人……<hex:02100103><hex:022903EB0203>你有推薦的人選嗎？
-68,TEXT_KINGZE401_05148_KAYAMENE_000_019,以放債為生的基特誇啊！<hex:02100103>那我們趕緊前往胡薩塔伊驛鎮，<hex:02100103>去他常光顧的酒館找他吧！
-69,TEXT_KINGZE401_05148_KAYAMENE_000_021,我沒見過基特誇，<hex:02100103>可以在這裡等著嗎？
-70,TEXT_KINGZE401_05148_ZITEKKWA_000_022,喲，這不是<hex:022903EB0203>嘛。<hex:02100103>你看起來挺精神的啊……<hex:02100103>話說找我有什麼事嗎？
-71,TEXT_KINGZE401_05148_ZITEKKWA_000_024,嗯……既然是你的請求，那我沒有理由拒絕。<hex:02100103>我對委託內容也很感興趣，<hex:02100103>我們就去見見那個叫卡亞梅內的人吧。
-72,TEXT_KINGZE401_05148_KAYAMENE_000_030,這位就是基特誇啊！<hex:02100103>感謝你幫忙把他叫來！
-73,TEXT_KINGZE401_05148_ZITEKKWA_000_031,這位小姑娘就是卡亞梅內啊。<hex:02100103>聽說你需要挖掘遺石的資金……
-74,TEXT_KINGZE401_05148_ZITEKKWA_000_033,情況我已經大致都了解了。<hex:02100103>那我們就趕緊去你的公司具體聊聊吧。
-75,TEXT_KINGZE401_05148_KAYAMENE_000_034,可、可以嗎？！<hex:02100103>居然這麼爽快地就答應了……
-76,TEXT_KINGZE401_05148_ZITEKKWA_000_035,當然了，我可是欠這位<hex:020813E905FF07>小姐<hex:FF07>小哥<hex:03>一份大大的人情呢。<hex:02100103>現在機會來了，我可得趕緊還上。<hex:02100103>更何況這似乎關乎著整個荒野的未來。
-77,TEXT_KINGZE401_05148_KAYAMENE_000_036,太感謝了！<hex:02100103>我們公司的事務所就在謝申內青磷泉，<hex:02100103>請二位抓緊時間過去吧！
-78,TEXT_KINGZE401_05148_ZITEKKWA_000_040,我在謝申內青磷泉還是有不少熟人的。<hex:02100103>這裡的不少勞動者都會前往胡薩塔伊驛鎮消費。
-79,TEXT_KINGZE401_05148_KAYAMENE_000_041,你們來啦！<hex:02100103>韋薩恩佩前輩馬上就會帶著社長過來了，<hex:02100103>請二位稍等片刻！
-80,TEXT_KINGZE401_05148_TAWZENZA_000_042,讓各位久等了。<hex:02100103>我是青磷水相關行業的事務所社長塔澤恩扎。<hex:02100103>聽說你們有事找我？
-81,TEXT_KINGZE401_05148_KAYAMENE_000_043,塔澤恩扎社長，我們就開門見山了。<hex:02100103>我們這次來是想找你商量關於藍疙瘩的威脅以及應對之策的……
-82,TEXT_KINGZE401_05148_TAWZENZA_000_044,原來如此，因為遺石，那個叫……藍疙瘩的魔物<hex:02100103>無法靠近山謝亞的大口的火焰是吧。<hex:02100103>不過這都是很久以前的傳說了，真的這麼有效果嗎？
-83,TEXT_KINGZE401_05148_WESANPE_000_045,我之前不是報告過最近遭到了藍疙瘩襲擊的事嗎？<hex:02100103>當時幸好是卡亞梅內帶著遺石及時出現，<hex:02100103>才嚇退了它們。
-84,TEXT_KINGZE401_05148_WESANPE_000_046,所以我就想著多挖掘一些這種遺石，<hex:02100103>把它們配備在適當的位置，<hex:02100103>應該就可以讓青磷水設施遠離火焰的侵害……
-85,TEXT_KINGZE401_05148_TAWZENZA_000_047,不過……挖掘工作會需要大量的資金。<hex:02100103>這樣一來，我司今後就必須得從青磷水設備的修繕<hex:02100103>以及新建水塔等方面分出一部分預算了……
-86,TEXT_KINGZE401_05148_ZITEKKWA_000_048,這方面就交給我吧。
-87,TEXT_KINGZE401_05148_TAWZENZA_000_049,不好意思，你是……？
-88,TEXT_KINGZE401_05148_ZITEKKWA_000_050,我叫基特誇，<hex:02100103>是一名來自胡薩塔伊驛鎮的放債人。
-89,TEXT_KINGZE401_05148_ZITEKKWA_000_051,關於藍疙瘩的事我已經聽說了。<hex:02100103>雖然目前問題只出現在了謝申內青磷泉一帶，<hex:02100103>但如果情況屬實的話，相信今後必然會危及到整個荒野。
-90,TEXT_KINGZE401_05148_ZITEKKWA_000_052,青磷水目前在夏勞尼站當作燃料使用，<hex:02100103>荒野的居民們在日常生活中也會燃燒青磷水。<hex:02100103>使用估計用不了多久，藍疙瘩就會遍布整個荒野。
-91,TEXT_KINGZE401_05148_ZITEKKWA_000_053,其實我有一名顧客是鐵道公司的員工，<hex:02100103>他就曾經在列車行駛途中看到過藍疙瘩……<hex:02100103>所以對於我們來說，事情已經到了迫在眉睫的地步。
-92,TEXT_KINGZE401_05148_ZITEKKWA_000_054,如果貴公司實在是沒有多餘資金的話，我可以借給你們。<hex:02100103>當然我會制定出一個合適的每月還款額，<hex:02100103>不會對你們的事業造成什麼影響。
-93,TEXT_KINGZE401_05148_ZITEKKWA_000_055,況且你那邊已經有兩名員工受到了藍疙瘩的襲擊，<hex:02100103>再不行動起來，以後情況只會愈演愈烈。<hex:02100103>是時候下定決心了，老闆。
-94,TEXT_KINGZE401_05148_KAYAMENE_000_056,拜託了，塔澤恩扎社長！<hex:02100103>請支持遺石挖掘計劃吧！
-95,TEXT_KINGZE401_05148_TAWZENZA_000_057,卡亞梅內，我很感謝你這充滿勇氣的行動……<hex:02100103>真沒想到你能調查得如此深入，還做了這麼多準備。<hex:02100103>還有基特誇閣下，也感謝你的建議。
-96,TEXT_KINGZE401_05148_TAWZENZA_000_058,為了守護荒野的和平，<hex:02100103>我司決定支持遺石挖掘計劃！
-97,TEXT_KINGZE401_05148_KAYAMENE_000_059,謝謝你，社長！
-98,TEXT_KINGZE401_05148_TAWZENZA_000_060,那接下來可就有的忙了。<hex:02100103>卡亞梅內，韋薩恩佩，<hex:02100103>就由你們兩個來負責此次的計劃吧。
-99,TEXT_KINGZE401_05148_TAWZENZA_000_061,我會和基特誇閣下正式簽訂契約。<hex:02100103>請移步事務所吧。
-100,TEXT_KINGZE401_05148_ZITEKKWA_000_062,那麼我就要在此與你別過了。<hex:02100103>我欠你的人情還沒還完呢，<hex:02100103>歡迎你隨時再來找我。
-101,TEXT_KINGZE401_05148_KAYAMENE_000_063,在去社長那裡之前……<hex:02100103>我想先感謝你此次提供的幫助。<hex:02100103>正因為有了你，我們才能走到這一步。
-102,TEXT_KINGZE401_05148_KAYAMENE_000_064,雖然現在荒野仍有不少問題需要解決，<hex:02100103>但我們會一步一個腳印慢慢來的！<hex:02100103>希望你也可以一同見證荒野的未來！
+0,"TEXT_KINGZE401_05148_SEQ_00","<hex:024804F201FC03><hex:024904F201FD03> Quest Sync<hex:0249020103><hex:0248020103><hex:02100103>Kayamene asks for your continued assistance in finding a way to counter the blue blobs' bane."
+1,"TEXT_KINGZE401_05148_SEQ_01","As Neshtezi told it, the stones her ancestors placed in the Maw of Sansheya to ward away the blue blobs were mined from Yowekwa Canyon. Kayamene asks that you accompany her there to try to find more of the same stone.<hex:02100103><hex:02100103>※Please note that the difficulty of this quest has been synced to your current level."
+2,"TEXT_KINGZE401_05148_SEQ_02","You join Kayamene in the canyon and split up to search it for similar stones to the ones you found in the Maw."
+3,"TEXT_KINGZE401_05148_SEQ_03","On examining what appears to be a bone protruding from the sand, you find that it is in fact a calcified fossil that bears a striking resemblance to the warding stone. Kayamene will no doubt be curious to see what you have found."
+4,"TEXT_KINGZE401_05148_SEQ_04","Kayamene examines the fossil and remembers another old legend that provides a possible explanation for its blob-repelling properties. Alas, such fossils are few and far between, and mining them in sufficient quantities to keep her company's operations safe would require a significant outlay─one the overseer is unlikely to be willing to lay out. Zitekkwa, however, may prove more pliable."
+5,"TEXT_KINGZE401_05148_SEQ_05","You meet with Zitekkwa in the Hhusatahwi saloon. He is eager to hear more of Kayamene's proposal and heads downstairs to meet with her."
+6,"TEXT_KINGZE401_05148_SEQ_06","Feeling that he owes you a debt for your previous assistance, Zitekkwa agrees to finance the mining operation. Kayamene invites you both to Sheshenewezi Springs, that together, you might win over her parsimonious overseer."
+7,"TEXT_KINGZE401_05148_SEQ_07","After hearing the testimony of his two employees, the overseer reluctantly agrees that the blue blobs do indeed pose a threat to his company. However, it is Zitekkwa's prediction that they will pose a threat to all Shaaloani if left unchecked, together with his willingness to provide the funds necessary to see the mining operation established, that finally convinces him to agree to Kayamene's plan. While the others head inside to discuss the terms of Zitekkwa's loan, Kayamene remains behind to offer you a word of thanks for supporting her till the end."
+8,"TEXT_KINGZE401_05148_SEQ_08","Thanks to you, life in the wilds has become a little more livable. Perhaps one day, it will be a place where people can not merely survive, but thrive."
+9,"TEXT_KINGZE401_05148_SEQ_09",""
+10,"TEXT_KINGZE401_05148_SEQ_10",""
+11,"TEXT_KINGZE401_05148_SEQ_11",""
+12,"TEXT_KINGZE401_05148_SEQ_12",""
+13,"TEXT_KINGZE401_05148_SEQ_13",""
+14,"TEXT_KINGZE401_05148_SEQ_14",""
+15,"TEXT_KINGZE401_05148_SEQ_15",""
+16,"TEXT_KINGZE401_05148_SEQ_16",""
+17,"TEXT_KINGZE401_05148_SEQ_17",""
+18,"TEXT_KINGZE401_05148_SEQ_18",""
+19,"TEXT_KINGZE401_05148_SEQ_19",""
+20,"TEXT_KINGZE401_05148_SEQ_20",""
+21,"TEXT_KINGZE401_05148_SEQ_21",""
+22,"TEXT_KINGZE401_05148_SEQ_22",""
+23,"TEXT_KINGZE401_05148_SEQ_23",""
+24,"TEXT_KINGZE401_05148_TODO_00","Speak with Kayamene."
+25,"TEXT_KINGZE401_05148_TODO_01","Search the canyon for warding stones."
+26,"TEXT_KINGZE401_05148_TODO_02","Deliver the stone you found to Kayamene."
+27,"TEXT_KINGZE401_05148_TODO_03","Speak with Zitekkwa."
+28,"TEXT_KINGZE401_05148_TODO_04","Speak with Zitekkwa."
+29,"TEXT_KINGZE401_05148_TODO_05","Speak with Kayamene."
+30,"TEXT_KINGZE401_05148_TODO_06","Speak with Kayamene."
+31,"TEXT_KINGZE401_05148_TODO_07",""
+32,"TEXT_KINGZE401_05148_TODO_08",""
+33,"TEXT_KINGZE401_05148_TODO_09",""
+34,"TEXT_KINGZE401_05148_TODO_10",""
+35,"TEXT_KINGZE401_05148_TODO_11",""
+36,"TEXT_KINGZE401_05148_TODO_12",""
+37,"TEXT_KINGZE401_05148_TODO_13",""
+38,"TEXT_KINGZE401_05148_TODO_14",""
+39,"TEXT_KINGZE401_05148_TODO_15",""
+40,"TEXT_KINGZE401_05148_TODO_16",""
+41,"TEXT_KINGZE401_05148_TODO_17",""
+42,"TEXT_KINGZE401_05148_TODO_18",""
+43,"TEXT_KINGZE401_05148_TODO_19",""
+44,"TEXT_KINGZE401_05148_TODO_20",""
+45,"TEXT_KINGZE401_05148_TODO_21",""
+46,"TEXT_KINGZE401_05148_TODO_22",""
+47,"TEXT_KINGZE401_05148_TODO_23",""
+48,"TEXT_KINGZE401_05148_KAYAMENE_000_001","Ah, there you are. Are you ready to go?"
+49,"TEXT_KINGZE401_05148_KAYAMENE_000_002","Yowekwa Canyon's to the south of town, near Luwateninyawawsa. Remember, we're looking for more of that stone we found in the ceruleum pits. Understood?"
+50,"TEXT_KINGZE401_05148_KAYAMENE_000_003","Alright! Then let's head out!"
+51,"TEXT_KINGZE401_05148_KAYAMENE_000_004","The warding stones were a lot paler and more crystalline than the rest of the rock around here. Let's split up again─give me a shout if you find anything that looks like the stuff we found in the pits."
+52,"TEXT_KINGZE401_05148_KAYAMENE_000_005","Find anything yet? No, me neither. Keep your eyes peeled for anything pale and shiny."
+53,"TEXT_KINGZE401_05148_SYSTEM_000_006","An interestingly shaped stone among the pile catches your attention, but alas, there is nothing pale nor shiny about it."
+54,"TEXT_KINGZE401_05148_SYSTEM_000_007","The sandstone wall is made up of layers of a hundred hues: red, ocher, and gold. Alas, none is of quite the same shade as the warding stone."
+55,"TEXT_KINGZE401_05148_SYSTEM_000_008","You pull one of the bones from the sand, and a chunk breaks off─a surprisingly heavy, surprisingly crystalline chunk, whose resemblance to the stone you found in the Maw of Sansheya is unmistakable."
+56,"TEXT_KINGZE401_05148_KAYAMENE_000_010","No use. I've looked and looked, but all I can see is sand. Well, that and sandstone. Did you have any better luck?"
+57,"TEXT_KINGZE401_05148_KAYAMENE_000_011","This is it! The same stuff as the warding stone! Where did you find it?"
+58,"TEXT_KINGZE401_05148_KAYAMENE_000_012","...A bone, you say? I remember my grammy telling me about something like that. She said that when an animal dies in the desert and its bones are swallowed by the sand, they take on the aspect of the earth below, gradually turning to stone."
+59,"TEXT_KINGZE401_05148_KAYAMENE_000_013","But if it's a great beast─a powerful beast─it's the earth that takes on the animal's aspect instead, and the sands around it become imbued with its aether."
+60,"TEXT_KINGZE401_05148_KAYAMENE_000_014","That must be why the blue blobs stay away from the Maw of Sansheya. They can yet sense the beast whose bones these once were, and they're afraid of it!"
+61,"TEXT_KINGZE401_05148_KAYAMENE_000_015","But if we want to keep all of our operations safe, we're going to need a lot more stones like this, and that's going to take a lot of digging."
+62,"TEXT_KINGZE401_05148_KAYAMENE_000_016","If the overseer's not willing to pay for a few guards, I doubt he'd give us the gil to open up a whole new dig site..."
+63,"TEXT_KINGZE401_05148_Q2_000_000","What will you say?"
+64,"TEXT_KINGZE401_05148_A2_000_000","If it's gil you need, I know someone who might be able to lend you it."
+65,"TEXT_KINGZE401_05148_A2_000_001","Don't look at me. I'm a fighter, not a financier."
+66,"TEXT_KINGZE401_05148_KAYAMENE_000_017","You do!? Friends in high places, eh? Suppose you make a lot of them in your line of business, helping folk out as you do. Anyone I know?"
+67,"TEXT_KINGZE401_05148_KAYAMENE_000_018","Heh. If you were, I doubt you'd be here, scrabbling in the dust with me. Still, you go around doing favors for folk, right? Anyone with particularly deep pockets owe you a debt you could pass onto us?"
+68,"TEXT_KINGZE401_05148_KAYAMENE_000_019","...Zitekkwa, the moneylender? I know him, if only by reputation─but what a reputation it is! Let's head on over to Hhusatahwi and ask if he can help!"
+69,"TEXT_KINGZE401_05148_KAYAMENE_000_021","You should be the one to talk to Zitekkwa. I'd only get in the way."
+70,"TEXT_KINGZE401_05148_ZITEKKWA_000_022","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! It's so good to see you again. Can I buy you a drink?"
+71,"TEXT_KINGZE401_05148_ZITEKKWA_000_024","...You'd prefer a <hex:021A020203>mine<hex:021A020103>? Well, the least I can do is hear you out, after all you did for me. Your friend's downstairs, you say? Then what are we waiting for─let's talk business."
+72,"TEXT_KINGZE401_05148_KAYAMENE_000_030","Thanks for introducing us, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! I gave Zitekkwa the gist of things. He says he's thinking about it..."
+73,"TEXT_KINGZE401_05148_ZITEKKWA_000_031","So, if I understand the situation correctly, Kayamene here needs to mine fossilized beast bones, but her management's too tight to foot the bill..."
+74,"TEXT_KINGZE401_05148_ZITEKKWA_000_033","All right, then. Let's go and have a little talk with this overseer of yours. See if we can come to some arrangement."
+75,"TEXT_KINGZE401_05148_KAYAMENE_000_034","R-Really? You don't need to hear anything more?"
+76,"TEXT_KINGZE401_05148_ZITEKKWA_000_035","What more is there to hear? If <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> vouches for you, that's good enough for me. I owe <hex:02080DE905FF04>her<hex:FF04>him<hex:03> a debt, and I mean to pay it. Besides, this proposal of yours sounds like it could be of benefit to the whole of the wilds."
+77,"TEXT_KINGZE401_05148_KAYAMENE_000_036","Thank you! In that case, let's head over to the Springs right away! You too, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>!"
+78,"TEXT_KINGZE401_05148_ZITEKKWA_000_040","I see many familiar faces here. The laborers may earn their coin in the Springs, but they spend it in Hhusatahwi."
+79,"TEXT_KINGZE401_05148_KAYAMENE_000_041","Just in time. Wesanpe's gone to fetch the overseer. He'll be out in a moment."
+80,"TEXT_KINGZE401_05148_TAWZENZA_000_042","Sorry to keep you waiting, folks. I'm Tawzenza, the man in charge of ceruleum operations around these parts. I understand you have a proposition for me?"
+81,"TEXT_KINGZE401_05148_KAYAMENE_000_043","Yes, sir, we do. It's about the beasts that have been prowling around the plants..."
+82,"TEXT_KINGZE401_05148_TAWZENZA_000_044","...And you're sure these stones really do ward the “blue blobs” away? How do we know this old legend you're basing everything on isn't just idle talk?"
+83,"TEXT_KINGZE401_05148_WESANPE_000_045","They do, sir. I'm sure of it. Three of the things had me cornered, till Kayamene showed up holding one of those stones. They were afraid, and not of her."
+84,"TEXT_KINGZE401_05148_WESANPE_000_046","There's no doubt in my mind that if we can mine more of this stuff and scatter it around the ceruleum works, just like her ancestors did with the Maw, we can keep the whole operation safe."
+85,"TEXT_KINGZE401_05148_TAWZENZA_000_047","If there's any operation left to <hex:021A020203>keep<hex:021A020103> safe. We're already in deep with the banks for the new rigs and the plant refit. Until production ramps up, where am I going to get the gil to open up a whole new dig site?"
+86,"TEXT_KINGZE401_05148_ZITEKKWA_000_048","I believe that's where I come in."
+87,"TEXT_KINGZE401_05148_TAWZENZA_000_049","I'm sorry, you are...?"
+88,"TEXT_KINGZE401_05148_ZITEKKWA_000_050","Zitekkwa. Moneylender by trade, working out of Hhusatahwi."
+89,"TEXT_KINGZE401_05148_ZITEKKWA_000_051","Your colleagues told me of the difficulties they've been having with these blue blobs. While they've only been sighted around Sheshenewezi Springs thus far, I am of the firm belief that they could soon pose a threat to all Shaaloani."
+90,"TEXT_KINGZE401_05148_ZITEKKWA_000_052","After all, if these creatures are attracted to the scent of burning ceruleum, it isn't only your wells that are in danger. The station, too, could soon find itself under attack."
+91,"TEXT_KINGZE401_05148_ZITEKKWA_000_053","Indeed, I confirmed with one of my clients who works for the railroad that creatures fitting the description I gave him have been sighted along the tracks. So you see that I have a personal stake in this."
+92,"TEXT_KINGZE401_05148_ZITEKKWA_000_054","I would be more than willing to lend you whatever funds you need to put your colleagues' plan into action─and on terms that don't interfere with the daily running of your company, naturally."
+93,"TEXT_KINGZE401_05148_ZITEKKWA_000_055","Lest you forget, two of your workers have already been attacked. If ensuring the survival of your company is your primary concern─as I agree it must be─I urge you to act now."
+94,"TEXT_KINGZE401_05148_KAYAMENE_000_056","Please, sir! I don't want to lose my life, or my job!"
+95,"TEXT_KINGZE401_05148_TAWZENZA_000_057","How much do I pay you, Kayamene? It clearly isn't anywhere near enough. I ask you to drive your wagon for us, and you come up with a plan to save the whole damned wilds..."
+96,"TEXT_KINGZE401_05148_TAWZENZA_000_058","Offer accepted. Let's get those bones out of the ground and keep our people safe!"
+97,"TEXT_KINGZE401_05148_KAYAMENE_000_059","Thank you, sir! You won't regret this!"
+98,"TEXT_KINGZE401_05148_TAWZENZA_000_060","Wesanpe, Kayamene─you're off portering duties. I'm putting you in charge of this project."
+99,"TEXT_KINGZE401_05148_TAWZENZA_000_061","Mister Zitekkwa, if you wouldn't mind stepping inside the office a moment, we can discuss the terms of the loan."
+100,"TEXT_KINGZE401_05148_ZITEKKWA_000_062","Looks like this is where we part ways. Farewell for now, my friend. This may go some way to repaying the debt I owe you, but I still consider myself to be well in arrears. If there's ever anything else I can do for you, you know where to find me."
+101,"TEXT_KINGZE401_05148_KAYAMENE_000_063","I should probably join them. But before I do, I wanted to thank you again. If it weren't for you, none of this could have happened."
+102,"TEXT_KINGZE401_05148_KAYAMENE_000_064","There are still a lot of dangers out there in the wilds─some we know about, a lot we don't─but bit by bit, we're overcoming the obstacles they throw before us. And with a little help from folk like you, I know that one day, we'll make this a place where people can not just survive, but thrive!"

@@ -2,96 +2,96 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_AKTKZA101_04480_SEQ_00,<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整<hex:0249020103><hex:0248020103><hex:02100103>梅麗奧爾實驗農場的軟弱的管理人看起來不知所措。
-1,TEXT_AKTKZA101_04480_SEQ_01,※本任務為<hex:024804F201FC03><hex:024904F201FD03><hex:0249020103><hex:0248020103> 等級調整任務。<hex:02100103><hex:02100103>受恩·威利·提亞委託，要去尋找從公堂保管院逃走的樣品。前往迷津第三十三期擴建坑道的<hex:02280CFF05>EObj<hex:F61EB6350103>進行張望。
-2,TEXT_AKTKZA101_04480_SEQ_02,未找到樣品。前往迷津第三十三期擴建坑道的<hex:02280CFF05>EObj<hex:F61EB6360103>再次進行張望。
-3,TEXT_AKTKZA101_04480_SEQ_03,未發現樣品。和公堂保管院的恩·威利·提亞匯合。
-4,TEXT_AKTKZA101_04480_SEQ_04,恩·威利·提亞表示聽到了關於樣品的目擊證言。和迷津朝露林的恩·威利·提亞談談。
-5,TEXT_AKTKZA101_04480_SEQ_05,恩·威利·提亞發現了樣品的痕跡。在朝露林尋找小毛球，如果遭到其他生物襲擊就將其擊退。
-6,TEXT_AKTKZA101_04480_SEQ_06,發現小毛球時遭到<hex:02280FFF09>BNpcName<hex:F22AF10103>的襲擊並成功將其擊退。救助朝露林的小毛球。
-7,TEXT_AKTKZA101_04480_SEQ_07,正在和恩·威利·提亞交談時，小毛球說話了。看樣子是個有智慧的巨魔，似乎只有擁有超越之力的冒險者才能聽懂它的話。小毛球正在為如何應對被帶進公堂保管院的竊蠹而奔走。
-8,TEXT_AKTKZA101_04480_SEQ_08,
-9,TEXT_AKTKZA101_04480_SEQ_09,
-10,TEXT_AKTKZA101_04480_SEQ_10,
-11,TEXT_AKTKZA101_04480_SEQ_11,
-12,TEXT_AKTKZA101_04480_SEQ_12,
-13,TEXT_AKTKZA101_04480_SEQ_13,
-14,TEXT_AKTKZA101_04480_SEQ_14,
-15,TEXT_AKTKZA101_04480_SEQ_15,
-16,TEXT_AKTKZA101_04480_SEQ_16,
-17,TEXT_AKTKZA101_04480_SEQ_17,
-18,TEXT_AKTKZA101_04480_SEQ_18,
-19,TEXT_AKTKZA101_04480_SEQ_19,
-20,TEXT_AKTKZA101_04480_SEQ_20,
-21,TEXT_AKTKZA101_04480_SEQ_21,
-22,TEXT_AKTKZA101_04480_SEQ_22,
-23,TEXT_AKTKZA101_04480_SEQ_23,
-24,TEXT_AKTKZA101_04480_TODO_00,在<hex:02280CFF05>EObj<hex:F61EB6350103>張望
-25,TEXT_AKTKZA101_04480_TODO_01,在<hex:02280CFF05>EObj<hex:F61EB6360103>再次張望
-26,TEXT_AKTKZA101_04480_TODO_02,和恩·威利·提亞匯合
-27,TEXT_AKTKZA101_04480_TODO_03,和恩·威利·提亞對話
-28,TEXT_AKTKZA101_04480_TODO_04,尋找小毛球 如果遭到其他生物襲擊就將其擊退
-29,TEXT_AKTKZA101_04480_TODO_05,救助小毛球
-30,TEXT_AKTKZA101_04480_TODO_06,
-31,TEXT_AKTKZA101_04480_TODO_07,
-32,TEXT_AKTKZA101_04480_TODO_08,
-33,TEXT_AKTKZA101_04480_TODO_09,
-34,TEXT_AKTKZA101_04480_TODO_10,
-35,TEXT_AKTKZA101_04480_TODO_11,
-36,TEXT_AKTKZA101_04480_TODO_12,
-37,TEXT_AKTKZA101_04480_TODO_13,
-38,TEXT_AKTKZA101_04480_TODO_14,
-39,TEXT_AKTKZA101_04480_TODO_15,
-40,TEXT_AKTKZA101_04480_TODO_16,
-41,TEXT_AKTKZA101_04480_TODO_17,
-42,TEXT_AKTKZA101_04480_TODO_18,
-43,TEXT_AKTKZA101_04480_TODO_19,
-44,TEXT_AKTKZA101_04480_TODO_20,
-45,TEXT_AKTKZA101_04480_TODO_21,
-46,TEXT_AKTKZA101_04480_TODO_22,
-47,TEXT_AKTKZA101_04480_TODO_23,
-48,TEXT_AKTKZA101_04480_NWELHITIA_000_000,啊，怎麼辦怎麼辦……
-49,TEXT_AKTKZA101_04480_NWELHITIA_000_001,我可愛的小毛球……<hex:02100103>咳咳，保管院的樣品逃走了！
-50,TEXT_AKTKZA101_04480_NWELHITIA_000_002,那個，不仔細說明一下你應該沒聽懂吧。<hex:02100103>我叫恩·威利·提亞，<hex:02100103>是公堂保管院的管理人。
-51,TEXT_AKTKZA101_04480_NWELHITIA_000_003,(-恩·威利·提亞-)保管院是負責保管<hex:02100103>來自世界各地的各種資料的設施。<hex:02100103>然而其中的一個樣品如今卻逃掉了……
-52,TEXT_AKTKZA101_04480_NWELHITIA_000_004,(-恩·威利·提亞-)而且這個樣品還是個弱小的小巨魔，<hex:02100103>所以我很擔心它會被周圍的肉食野獸襲擊……<hex:02100103>慌慌張張地一直找到了這裡，卻始終沒找到。
-53,TEXT_AKTKZA101_04480_NWELHITIA_000_005,(-恩·威利·提亞-)你是外面來的吧？<hex:02100103>我會支付給你報酬的……<hex:02100103>請、請幫忙尋找樣品吧！
-54,TEXT_AKTKZA101_04480_NWELHITIA_000_006,(-恩·威利·提亞-)非常感謝。<hex:02100103>我接下來準備去酪農場找找看，<hex:02100103>第三十三期擴建坑道那邊就拜託你了。
-55,TEXT_AKTKZA101_04480_NWELHITIA_100_006,(-恩·威利·提亞-)不論最後有沒有找到小巨魔，<hex:02100103>我們都在公堂保管院匯合。<hex:02100103>那就拜託了！
-56,TEXT_AKTKZA101_04480_SYSTEM_100_007,沒有找到小巨魔……<hex:02100103>去其他地方找找看吧。
-57,TEXT_AKTKZA101_04480_SYSTEM_100_008,果然還是沒有找到小巨魔……<hex:02100103>前往公堂保管院和恩·威利·提亞匯合。
-58,TEXT_AKTKZA101_04480_NWELHITIA_100_009,是嗎？連坑道那邊也沒有啊。<hex:02100103>很可惜，這邊也是毫無收穫。
-59,TEXT_AKTKZA101_04480_NWELHITIA_100_010,不過，我聽說有人在朝露林目擊到了樣品。<hex:02100103>我想再去那邊找找看，<hex:02100103>麻煩你再陪我一下吧！
-60,TEXT_AKTKZA101_04480_NWELHITIA_000_010,這、這小小的足跡……<hex:02100103>確定是小毛球的足跡無疑了！
-61,TEXT_AKTKZA101_04480_NWELHITIA_000_011,咳咳，發現樣品的足跡了。<hex:02100103>它一定就在前面。<hex:02100103>如果遭到其他生物襲擊的話，請儘管將其擊退！
-62,TEXT_AKTKZA101_04480_NWELHITIA_000_015,啊，糟了！<hex:02100103>小毛球受到了狂暴巨魔的襲擊！<hex:02100103>快去幫幫它吧！
-63,TEXT_AKTKZA101_04480_LITTLETROLL_000_020,
-64,TEXT_AKTKZA101_04480_NWELHITIA_100_020,非常感謝。<hex:02100103>快去救救小毛球吧。
-65,TEXT_AKTKZA101_04480_NWELHITIA_000_030,謝謝你的幫助。<hex:02100103>啊，小毛球能平安無事真是太好了……
-66,TEXT_AKTKZA101_04480_NWELHITIA_000_031,小毛球，已經沒事了。<hex:02100103>跟我一起回家吧。
-67,TEXT_AKTKZA101_04480_LITTLETROLL_000_032,唔唔……唔唔……閉嘴……<hex:02100103>……唔唔……笨蛋！
-68,TEXT_AKTKZA101_04480_LITTLETROLL_000_033,唔唔……保管院的資料正面臨著危機！<hex:02100103>我必須得做點什麼才行！
-69,TEXT_AKTKZA101_04480_Q1_000_000,要說什麼？
-70,TEXT_AKTKZA101_04480_A1_000_001,你會說話啊？
-71,TEXT_AKTKZA101_04480_A1_000_002,保管院的危機是？
-72,TEXT_AKTKZA101_04480_NWELHITIA_000_034,唔唔！<hex:02100103>你能聽懂我說話嗎？！
-73,TEXT_AKTKZA101_04480_NWELHITIA_000_035,那、那個……<hex:02100103>難道你是在跟這個孩子說話嗎？
-74,TEXT_AKTKZA101_04480_NWELHITIA_000_036,不會吧！<hex:02100103>小毛球居然擁有能與人交流的智慧嗎？！
-75,TEXT_AKTKZA101_04480_NWELHITIA_000_037,這隻小巨魔是在迷津出生的，<hex:02100103>但是卻被生母拋棄，身體一度非常虛弱。
-76,TEXT_AKTKZA101_04480_NWELHITIA_000_038,後來被管理局的職員撫養長大，<hex:02100103>與其他巨魔相比，顯示出了頗具智慧的一面。<hex:02100103>為了調查是否存在人工培養帶來的影響，便將其當作了樣品。
-77,TEXT_AKTKZA101_04480_NWELHITIA_000_039,雖然它經常會在保管院閱讀資料，<hex:02100103>但我也只是覺得它是在模仿人類的行為而已。<hex:02100103>沒想到它居然真的能理解人類的語言……
-78,TEXT_AKTKZA101_04480_NWELHITIA_000_040,但是我卻聽不懂它說的話。<hex:02100103>為什麼你能聽懂？
-79,TEXT_AKTKZA101_04480_Q2_000_000,如何作答？
-80,TEXT_AKTKZA101_04480_A2_000_001,因為我有特殊能力
-81,TEXT_AKTKZA101_04480_A2_000_002,秘密……
-82,TEXT_AKTKZA101_04480_NWELHITIA_000_041,這、這樣啊……<hex:02100103>總之真的很羨慕你能和它交流！
-83,TEXT_AKTKZA101_04480_LITTLETROLL_000_042,唔唔……你擁有超越之力啊？<hex:02100103>我因為喉嚨結構的原因，不能正常地說出人類的語言，<hex:02100103>是你的特殊能力讓你能理解了我的意思……
-84,TEXT_AKTKZA101_04480_LITTLETROLL_000_043,這也是我通過公堂保管院了解到的。<hex:02100103>而那個笨蛋明明處在那麼好的環境，<hex:02100103>卻完全沒有發現這些貴重資料的價值……
-85,TEXT_AKTKZA101_04480_LITTLETROLL_000_044,唔唔……總之，能有人可以交流真是太好了。<hex:02100103>繼續剛才的話題，保管院的資料如今面臨著危機！
-86,TEXT_AKTKZA101_04480_LITTLETROLL_000_045,有粗心的拾穗人把竊蠹帶進了保管院。<hex:02100103>竊蠹是一種會吞食紙和木材的害蟲。<hex:02100103>如果放任不管，貴重的資料會遭受毀滅性的損失！
-87,TEXT_AKTKZA101_04480_LITTLETROLL_000_046,我拚命地想把這個消息告訴別人，可是那個笨蛋卻完全無法理解。<hex:02100103>所以我想賭一把，跑出來向同族尋求幫助，<hex:02100103>結果就變成了現在這個樣子……
-88,TEXT_AKTKZA101_04480_NWELHITIA_000_047,這孩子在說些什麼啊？
-89,TEXT_AKTKZA101_04480_NWELHITIA_000_048,什、什麼？保管院裡有害蟲？！<hex:02100103>所以它是為了解決這個危機才跑出來的嗎……
-90,TEXT_AKTKZA101_04480_NWELHITIA_100_048,真是個努力的小毛球！
-91,TEXT_AKTKZA101_04480_NWELHITIA_000_049,咳咳，總、總之這樣可不妙啊！<hex:02100103>看來只是把樣品帶回保管院，<hex:02100103>並不能解決問題啊……
-92,TEXT_AKTKZA101_04480_NWELHITIA_000_050,只有你能理解這孩子在說什麼……<hex:02100103>不好意思，我會追加報酬的，<hex:02100103>能請你繼續幫忙嗎？
+0,"TEXT_AKTKZA101_04480_SEQ_00","<hex:024804F201FC03><hex:024904F201FD03> Quest Sync<hex:0249020103><hex:0248020103><hex:02100103>The distracted archivist seems troubled."
+1,"TEXT_AKTKZA101_04480_SEQ_01","N'welhi Tia asks for your help in reclaiming a certain specimen that has fled the Archeion. You agree to search the thirty-third facet for any tiny trolls gone astray.<hex:02100103><hex:02100103>※Please note that the difficulty of this quest has been synced to your current level."
+2,"TEXT_AKTKZA101_04480_SEQ_02","You fail to find the troll, but you have yet to search the entirety of the tunnel. You continue on, just in case."
+3,"TEXT_AKTKZA101_04480_SEQ_03","Having scrutinized the facet, it is evident the troll is nowhere to be seen. Perhaps he stayed nearer the Archeion."
+4,"TEXT_AKTKZA101_04480_SEQ_04","N'welhi Tia tells you he's met someone who claims to have spotted the specimen. According to this eyewitness report, a troll of diminutive size is lurking in Mornveil Forest."
+5,"TEXT_AKTKZA101_04480_SEQ_05","N'welhi Tia informs you that he's found a set of tracks which belong to the missing specimen. The troll must be somewhere nearby..."
+6,"TEXT_AKTKZA101_04480_SEQ_06","You locate Shaggles, only to find him under attack from his fellow trolls. As they are exponentially larger, it is a fight that Shaggles could not win alone. Fortunately, you are there to protect him, and have hopefully taught the older trolls to pick on someone their own size."
+7,"TEXT_AKTKZA101_04480_SEQ_07","Unlike N'welhi Tia, you soon realize you are able to understand Shaggles when he speaks. He is, in fact, rather knowledgeable, and remarks that you are likely able to understand him due to the Echo. He quickly explains that he had set out to try and prevent woodworms from overrunning the Archeion and, upon learning this, N'welhi Tia requests your continued aid in ridding the facility of said pests."
+8,"TEXT_AKTKZA101_04480_SEQ_08",""
+9,"TEXT_AKTKZA101_04480_SEQ_09",""
+10,"TEXT_AKTKZA101_04480_SEQ_10",""
+11,"TEXT_AKTKZA101_04480_SEQ_11",""
+12,"TEXT_AKTKZA101_04480_SEQ_12",""
+13,"TEXT_AKTKZA101_04480_SEQ_13",""
+14,"TEXT_AKTKZA101_04480_SEQ_14",""
+15,"TEXT_AKTKZA101_04480_SEQ_15",""
+16,"TEXT_AKTKZA101_04480_SEQ_16",""
+17,"TEXT_AKTKZA101_04480_SEQ_17",""
+18,"TEXT_AKTKZA101_04480_SEQ_18",""
+19,"TEXT_AKTKZA101_04480_SEQ_19",""
+20,"TEXT_AKTKZA101_04480_SEQ_20",""
+21,"TEXT_AKTKZA101_04480_SEQ_21",""
+22,"TEXT_AKTKZA101_04480_SEQ_22",""
+23,"TEXT_AKTKZA101_04480_SEQ_23",""
+24,"TEXT_AKTKZA101_04480_TODO_00","Search for the specimen at the designated location."
+25,"TEXT_AKTKZA101_04480_TODO_01","Search for the specimen at the designated location."
+26,"TEXT_AKTKZA101_04480_TODO_02","Rendezvous with N'welhi Tia."
+27,"TEXT_AKTKZA101_04480_TODO_03","Speak with N'welhi Tia."
+28,"TEXT_AKTKZA101_04480_TODO_04","Search for Shaggles and slay his attackers."
+29,"TEXT_AKTKZA101_04480_TODO_05","Aid Shaggles."
+30,"TEXT_AKTKZA101_04480_TODO_06",""
+31,"TEXT_AKTKZA101_04480_TODO_07",""
+32,"TEXT_AKTKZA101_04480_TODO_08",""
+33,"TEXT_AKTKZA101_04480_TODO_09",""
+34,"TEXT_AKTKZA101_04480_TODO_10",""
+35,"TEXT_AKTKZA101_04480_TODO_11",""
+36,"TEXT_AKTKZA101_04480_TODO_12",""
+37,"TEXT_AKTKZA101_04480_TODO_13",""
+38,"TEXT_AKTKZA101_04480_TODO_14",""
+39,"TEXT_AKTKZA101_04480_TODO_15",""
+40,"TEXT_AKTKZA101_04480_TODO_16",""
+41,"TEXT_AKTKZA101_04480_TODO_17",""
+42,"TEXT_AKTKZA101_04480_TODO_18",""
+43,"TEXT_AKTKZA101_04480_TODO_19",""
+44,"TEXT_AKTKZA101_04480_TODO_20",""
+45,"TEXT_AKTKZA101_04480_TODO_21",""
+46,"TEXT_AKTKZA101_04480_TODO_22",""
+47,"TEXT_AKTKZA101_04480_TODO_23",""
+48,"TEXT_AKTKZA101_04480_NWELHITIA_000_000","Oh deary me..."
+49,"TEXT_AKTKZA101_04480_NWELHITIA_000_001","My sweetest Shaggles─ Er, one of the Archeion's precious samples has fled!"
+50,"TEXT_AKTKZA101_04480_NWELHITIA_000_002","(-N'welhi Tia-)...You have no idea what I'm talking about, do you? My apologies. I'm N'welhi Tia, an archivist."
+51,"TEXT_AKTKZA101_04480_NWELHITIA_000_003","(-N'welhi Tia-)The Archeion is home to various samples collected from all across the star, and one such specimen has just escaped!"
+52,"TEXT_AKTKZA101_04480_NWELHITIA_000_004","(-N'welhi Tia-)A young troll, to be specific. Oh, I hope he hasn't been set upon by the local predators."
+53,"TEXT_AKTKZA101_04480_NWELHITIA_000_005","(-N'welhi Tia-)Listen─I promise to compensate you, so could you please help me retrieve the specimen?"
+54,"TEXT_AKTKZA101_04480_NWELHITIA_000_006","(-N'welhi Tia-)My thanks! I will continue my search of this area. I'd like you to check the thirty-third facet."
+55,"TEXT_AKTKZA101_04480_NWELHITIA_100_006","(-N'welhi Tia-)Once you've had a comprehensive look about, please meet me at the Archeion to report your findings."
+56,"TEXT_AKTKZA101_04480_SYSTEM_100_007","You see no trolls great or small. Perhaps a bit further in..."
+57,"TEXT_AKTKZA101_04480_SYSTEM_100_008","The errant troll is nowhere to be seen. N'welhi Tia may have had better luck."
+58,"TEXT_AKTKZA101_04480_NWELHITIA_100_009","I see. I was unable to find the specimen either..."
+59,"TEXT_AKTKZA101_04480_NWELHITIA_100_010","However, I did meet someone who claimed to have seen it in Mornveil Forest. Let us head there and see if we can track it down."
+60,"TEXT_AKTKZA101_04480_NWELHITIA_000_010","Yes, there can be no doubt. These are Shaggles's footprints."
+61,"TEXT_AKTKZA101_04480_NWELHITIA_000_011","Ahem. I have uncovered the specimen's trail. It should be close. If you find it under threat from the local fauna, you may dispatch its assailants."
+62,"TEXT_AKTKZA101_04480_NWELHITIA_000_015","Oh no! Poor Shaggles has been set upon by trolls. Trolls! Quick, to the rescue!"
+63,"TEXT_AKTKZA101_04480_LITTLETROLL_000_020",""
+64,"TEXT_AKTKZA101_04480_NWELHITIA_100_020","We must tend to Shaggles."
+65,"TEXT_AKTKZA101_04480_NWELHITIA_000_030","Oh, I'm so glad you're unharmed."
+66,"TEXT_AKTKZA101_04480_NWELHITIA_000_031","You're all safe now. Come on, let's go home, sweetie."
+67,"TEXT_AKTKZA101_04480_LITTLETROLL_000_032","Grrrlence, buffoon! Grrr..."
+68,"TEXT_AKTKZA101_04480_LITTLETROLL_000_033","The Archeion is under threat! I must do something. Grrr!"
+69,"TEXT_AKTKZA101_04480_Q1_000_000","What will you say?"
+70,"TEXT_AKTKZA101_04480_A1_000_001","You can talk?"
+71,"TEXT_AKTKZA101_04480_A1_000_002","What is this threat?"
+72,"TEXT_AKTKZA101_04480_NWELHITIA_000_034","Grrr! You can understand me?"
+73,"TEXT_AKTKZA101_04480_NWELHITIA_000_035","Wait, are you able to communicate with him?"
+74,"TEXT_AKTKZA101_04480_NWELHITIA_000_036","Incredible! I've never met someone with such a skill before."
+75,"TEXT_AKTKZA101_04480_NWELHITIA_000_037","This bundle of joy was born in Labyrinthos. However, he was abandoned by his mother and in quite the state by the time we found him."
+76,"TEXT_AKTKZA101_04480_NWELHITIA_000_038","He possesses remarkable intelligence for one of his kind. We've elected to use him as part of a study into the effects of growing up in an artificial environment."
+77,"TEXT_AKTKZA101_04480_NWELHITIA_000_039","I had seen him making gestures that indicated he'd been reading the tomes here, but I thought he was just copying those around him. To think he actually understands speech..."
+78,"TEXT_AKTKZA101_04480_NWELHITIA_000_040","Though I do wonder exactly why you are able to understand him and I am not."
+79,"TEXT_AKTKZA101_04480_Q2_000_000","What will you say?"
+80,"TEXT_AKTKZA101_04480_A2_000_001","I'm sort of special."
+81,"TEXT_AKTKZA101_04480_A2_000_002","It's a secret."
+82,"TEXT_AKTKZA101_04480_NWELHITIA_000_041","Really? Oh, what I wouldn't give to understand him too..."
+83,"TEXT_AKTKZA101_04480_LITTLETROLL_000_042","Grrr... You possess the Echo, don't you? I find it difficult to grrr the way your kind do, but I suppose it makes sense that you understand my general sentiments."
+84,"TEXT_AKTKZA101_04480_LITTLETROLL_000_043","I happened to learn of said power from the tomes in the Archeion. Honestly, that buffoon over there is surrounded by a sea of knowledge and he makes no effort to engage with it. Grrr!"
+85,"TEXT_AKTKZA101_04480_LITTLETROLL_000_044","At any rate, I'm glad to finally have someone to talk to. As I was saying earlier, the Archeion is in grave danger."
+86,"TEXT_AKTKZA101_04480_LITTLETROLL_000_045","Some grrrless gleaner managed to bring woodworms in with them during a visit. If we leave them be, they're bound to cause irreparable damage to the materials at the facility!"
+87,"TEXT_AKTKZA101_04480_LITTLETROLL_000_046","I tried my best to tell that buffoon, but it was no use. That's why I took a chance and went in search of some of my own kind to see if they would help, but you saw how that turned out..."
+88,"TEXT_AKTKZA101_04480_NWELHITIA_000_047","Well, what is he saying?"
+89,"TEXT_AKTKZA101_04480_NWELHITIA_000_048","Oh deary me!"
+90,"TEXT_AKTKZA101_04480_NWELHITIA_100_048","Still, it was most courageous of him to try and solve the issue on his own."
+91,"TEXT_AKTKZA101_04480_NWELHITIA_000_049","Now that we're aware of it, we need to sort out this pest problem at once."
+92,"TEXT_AKTKZA101_04480_NWELHITIA_000_050","Would you mind helping out a little longer? You're the only one who can understand him, after all, and he seems malms ahead of us with regard to the situation at hand..."

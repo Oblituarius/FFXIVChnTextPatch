@@ -2,23 +2,23 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_FESXMSSHOP2013_00142_SEIBOH_000_000,星芒節快樂！<hex:02100103>值此佳節，星光分外璀璨，<hex:02100103>你過得開心嗎？
-1,TEXT_FESXMSSHOP2013_00142_SEIBOH_000_001,我是冒險者公會的星芒節執行委員長。<hex:02100103>星芒節是給孩子們贈送來自星星的禮物的節日，<hex:02100103>我正在為慶祝節日做準備。
-2,TEXT_FESXMSSHOP2013_00142_SEIBOH_000_002,可是發生了一件麻煩的事……<hex:02100103>我從庫爾札斯運來雪，為孩子們製作了雪人，<hex:02100103>可那個雪人突然不見了。
-3,TEXT_FESXMSSHOP2013_00142_SEIBOH_000_003,據目擊者說，搗蛋鬼小魔精想要融化雪人，<hex:02100103>然後雪人就逃到了城外……
-4,TEXT_FESXMSSHOP2013_00142_SEIBOH_000_004,……看你的表情，不大相信呢。<hex:02100103>不過，那也不是完全沒有可能。
-5,TEXT_FESXMSSHOP2013_00142_SEIBOH_000_005,為了使雪人不易融化，<hex:02100103>它的體內裝有冰之水晶製成的魔法結晶——「永久冰晶」。<hex:02100103>所以它才能逃跑。
-6,TEXT_FESXMSSHOP2013_00142_SEIBOH_000_006,這個魔法結晶和「巨像兵之核」一樣，<hex:02100103>能給雪人的身體賦予短暫的生命。<hex:02100103>總之，至少要取回「永久冰晶」……
-7,TEXT_FESXMSSHOP2013_00142_SEIBOH_000_010,如果你在城外發現了雪人，<hex:02100103>請從想要用火融化它的小魔精手中保護它。
-8,TEXT_FESXMSSHOP2013_00142_SEIBOH_000_011,我猜雪人現在是由我們冒險者公會訓練過的守護樹精保護著。
-9,TEXT_FESXMSSHOP2013_00142_SEIBOH_000_012,樹精會投雪球來保護雪人。<hex:02100103>雪人則故意被雪球砸中，讓全身沾滿雪。<hex:02100103>對付用火的小魔精時，這是個有利的戰術。
-10,TEXT_FESXMSSHOP2013_00142_SEIBOH_000_013,如果你成功保護了雪人，回收了永久冰晶，<hex:02100103>請把它交給星芒節執行委員。<hex:02100103>可以兌換禮品哦。
-11,TEXT_FESXMSSHOP2013_00142_SEIBOH_000_020,很久以前，艾歐澤亞各國之間紛爭不斷……<hex:02100103>那時，在戰爭中失去父母的孤兒們，<hex:02100103>流落在伊修加德的街道上，數著天上的星星忍耐嚴寒。
-12,TEXT_FESXMSSHOP2013_00142_SEIBOH_000_021,看到他們的伊修加德衛兵違背了軍規，<hex:02100103>把自己的緋色外套給孤兒們穿上，招待他們進營房。
-13,TEXT_FESXMSSHOP2013_00142_SEIBOH_000_022,這樁美談，經過時代的變遷演化為了「星芒節」。<hex:02100103>在這個天寒地凍的節日裡，大人們扮成衛兵，<hex:02100103>給孩子們贈送來自星星的禮物。
-14,TEXT_FESXMSSHOP2013_00142_Q1_000_1,想了解什麼？
-15,TEXT_FESXMSSHOP2013_00142_A1_000_1,你在這裡是做什麼的？
-16,TEXT_FESXMSSHOP2013_00142_A1_000_2,發現雪人後怎麼辦？
-17,TEXT_FESXMSSHOP2013_00142_A1_000_3,什麼是「星芒節」？
-18,TEXT_FESXMSSHOP2013_00142_A1_000_4,取消
-19,TEXT_FESXMSSHOP2013_00142_TALK_ACTOR,ダミー（翻訳不要）
+0,"TEXT_FESXMSSHOP2013_00142_SEIBOH_000_000","Good day to you, <hex:02080EE905FF05>miss<hex:FF04>sir<hex:03>. I trust you've met with no grief during this year's Starlight Celebration?"
+1,"TEXT_FESXMSSHOP2013_00142_SEIBOH_000_001","I've been sent by the Adventurers' Guild to oversee this year's festivities. There was to be a special surprise for the children, but I fear our plans may not come to fruition."
+2,"TEXT_FESXMSSHOP2013_00142_SEIBOH_000_002","In case you were unaware, the Starlight Celebration originated in Ishgard. The climate of Coerthas may be harsh, but one cannot deny that there is joy to be had rollicking in the snow. We wished to bring that joy to the children here, ordering snow from Coerthas for the construction of snowmen."
+3,"TEXT_FESXMSSHOP2013_00142_SEIBOH_000_003","The problem, however, is a number of our snowmen have vanished. Locals claim that a group of mischievous imps snuck into town in an attempt to melt them, forcing the snowmen to flee."
+4,"TEXT_FESXMSSHOP2013_00142_SEIBOH_000_004","You appear perplexed, and I do not blame you. Were I in your shoes, I would also doubt my own words. But I assure you, there is a perfectly plausible explanation for why the snowmen developed sentience and acted in self-preservation."
+5,"TEXT_FESXMSSHOP2013_00142_SEIBOH_000_005","You see, to prevent the snowmen from melting in warmer climates beyond the snowy fields of Coerthas, they were given special cores known as <hex:021A020203>eternal ice<hex:021A020103>. Forged from ice crystals, eternal ice functions in the same manner as a golem's heart."
+6,"TEXT_FESXMSSHOP2013_00142_SEIBOH_000_006","And that, my friend, is why the snowmen came to life. If we cannot find the snowmen, at the very least we must retrieve the cores. It would take moons to forge them anew, and without them, new snowmen are out of the question."
+7,"TEXT_FESXMSSHOP2013_00142_SEIBOH_000_010","I doubt they could have gotten far. If you should find them near town, please keep them safe from those diabolical imps."
+8,"TEXT_FESXMSSHOP2013_00142_SEIBOH_000_011","The snowmen should be accompanied by unusually decorative treants, but no need to fear. They've been especially trained to take part in the holiday festivities, and if need be, supply the snowmen with additional snow. In the event of an emergency, they will also defend the snowmen."
+9,"TEXT_FESXMSSHOP2013_00142_SEIBOH_000_012","The imps have cast some manner of fiery enchantment upon themselves, rendering them invulnerable to most attacks. Fortunately, there is a way past this. While <hex:021A020203>you<hex:021A020103> may not be able to attack them on your own, the treants can. Covered in their snow, you may stand a chance.<hex:02100103>I must warn you, however, that the treants will not hand over their snow to strangers. I daresay you will need to suffer a pelting or two."
+10,"TEXT_FESXMSSHOP2013_00142_SEIBOH_000_013","The Adventurers' Guild would be ever so grateful for any eternal ice you can retrieve. Bring any that you find to the Starlight suppliers, and they will see that you are duly compensated."
+11,"TEXT_FESXMSSHOP2013_00142_SEIBOH_000_020","The Starlight Celebration can be traced back to ancient Ishgard. Long ago, a terrible battle claimed countless lives, leaving thousands of children orphaned in the harsh cold weather of Coerthas."
+12,"TEXT_FESXMSSHOP2013_00142_SEIBOH_000_021","Unable to bear their suffering, Ishgardian knights would offer these children board and lodging within their barracks. Of course, this was expressly forbidden, but the knights devised a plan to sneak them in, disguising the children in jackets of their scarlet uniforms."
+13,"TEXT_FESXMSSHOP2013_00142_SEIBOH_000_022","Owing to their generosity, the children survived the winter and lived to pay forward the kindness they had received. The former orphans would adorn themselves in scarlet uniforms, delivering gifts to children on the coldest week of the year. Thus, the Starlight Celebration was born."
+14,"TEXT_FESXMSSHOP2013_00142_Q1_000_1","What will you ask?"
+15,"TEXT_FESXMSSHOP2013_00142_A1_000_1","What do you do here?"
+16,"TEXT_FESXMSSHOP2013_00142_A1_000_2","Where can I find the sentient snowmen?"
+17,"TEXT_FESXMSSHOP2013_00142_A1_000_3","What is the Starlight Celebration?"
+18,"TEXT_FESXMSSHOP2013_00142_A1_000_4","Nothing."
+19,"TEXT_FESXMSSHOP2013_00142_TALK_ACTOR",""

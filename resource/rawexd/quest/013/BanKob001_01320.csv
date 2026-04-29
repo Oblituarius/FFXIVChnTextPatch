@@ -2,129 +2,129 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_BANKOB001_01320_SEQ_00,黑渦軍令部的特拉哈雷特協漩尉有事情想要委託給冒險者。
-1,TEXT_BANKOB001_01320_SEQ_01,黑渦團搬運的人造硝石被奪走了。前往西拉諾西亞的雨燕塔殖民地調查，並和斯凱特希斯協漩尉談談。
-2,TEXT_BANKOB001_01320_SEQ_02,接受了斯凱特希斯的委託，去尋找犯人留下的線索。調查雨燕塔殖民地內部，尋找證據。
-3,TEXT_BANKOB001_01320_SEQ_03,在殖民地裡發現了犯人留下的線索。讓雨燕塔殖民地的斯凱特希斯查看<hex:022811FF0A>EventItem<hex:F61E89500103>。
-4,TEXT_BANKOB001_01320_SEQ_04,據冒險者和斯凱特希斯推斷，此事應該是地靈族所為。去拉諾西亞外地的瞭望陣營地，和布魯艾丁協漩校談談，他對地靈族十分了解。
-5,TEXT_BANKOB001_01320_SEQ_05,通過和布魯艾丁談話，以及從被逮捕的地靈族的證詞分析，得知犯人很可能是第789洞穴團採礦地的地靈族一夥。前往拉諾西亞外地的第789洞穴團採礦地，尋找人造硝石的下落。
-6,TEXT_BANKOB001_01320_SEQ_06,在第789洞穴團採礦地發現了被搶奪的人造硝石。但犯人的舉止有些奇怪。向同行至第789洞穴團採礦地的斯凱特希斯詢問詳情。
-7,TEXT_BANKOB001_01320_SEQ_07,斯凱特希斯將會收回被奪走的人造硝石。她拜託冒險者去詢問地靈族的犯案動機。向第789洞穴團採礦地的代表——第789團採集員基古詢問詳情。
-8,TEXT_BANKOB001_01320_SEQ_08,第789團採集員基古很後悔偷了人造硝石。他們之所以會搶奪硝石，背後是有一定原因的……
-9,TEXT_BANKOB001_01320_SEQ_09,
-10,TEXT_BANKOB001_01320_SEQ_10,
-11,TEXT_BANKOB001_01320_SEQ_11,
-12,TEXT_BANKOB001_01320_SEQ_12,
-13,TEXT_BANKOB001_01320_SEQ_13,
-14,TEXT_BANKOB001_01320_SEQ_14,
-15,TEXT_BANKOB001_01320_SEQ_15,
-16,TEXT_BANKOB001_01320_SEQ_16,
-17,TEXT_BANKOB001_01320_SEQ_17,
-18,TEXT_BANKOB001_01320_SEQ_18,
-19,TEXT_BANKOB001_01320_SEQ_19,
-20,TEXT_BANKOB001_01320_SEQ_20,
-21,TEXT_BANKOB001_01320_SEQ_21,
-22,TEXT_BANKOB001_01320_SEQ_22,
-23,TEXT_BANKOB001_01320_SEQ_23,
-24,TEXT_BANKOB001_01320_TODO_00,和雨燕塔殖民地的斯凱特希斯對話
-25,TEXT_BANKOB001_01320_TODO_01,在雨燕塔殖民地尋找犯人的線索
-26,TEXT_BANKOB001_01320_TODO_02,讓斯凱特希斯查看<hex:022811FF0A>EventItem<hex:F61E89500103>
-27,TEXT_BANKOB001_01320_TODO_03,和瞭望陣營地的布魯艾丁對話
-28,TEXT_BANKOB001_01320_TODO_04,在第789洞穴團採礦地尋找人造硝石的下落
-29,TEXT_BANKOB001_01320_TODO_05,和斯凱特希斯對話
-30,TEXT_BANKOB001_01320_TODO_06,和第789團採集員基古對話
-31,TEXT_BANKOB001_01320_TODO_07,
-32,TEXT_BANKOB001_01320_TODO_08,
-33,TEXT_BANKOB001_01320_TODO_09,
-34,TEXT_BANKOB001_01320_TODO_10,
-35,TEXT_BANKOB001_01320_TODO_11,
-36,TEXT_BANKOB001_01320_TODO_12,
-37,TEXT_BANKOB001_01320_TODO_13,
-38,TEXT_BANKOB001_01320_TODO_14,
-39,TEXT_BANKOB001_01320_TODO_15,
-40,TEXT_BANKOB001_01320_TODO_16,
-41,TEXT_BANKOB001_01320_TODO_17,
-42,TEXT_BANKOB001_01320_TODO_18,
-43,TEXT_BANKOB001_01320_TODO_19,
-44,TEXT_BANKOB001_01320_TODO_20,
-45,TEXT_BANKOB001_01320_TODO_21,
-46,TEXT_BANKOB001_01320_TODO_22,
-47,TEXT_BANKOB001_01320_TODO_23,
-48,TEXT_BANKOB001_01320_TRACHRAET_000_001,嗯？你是冒險者吧？<hex:02100103>看樣子是個很有能力的冒險者嘛，<hex:02100103>你願不願意幫我辦件事？
-49,TEXT_BANKOB001_01320_TRACHRAET_000_002,這件事你一定要保密……<hex:02100103>是這樣的，幾天前，我們黑渦團負責運輸的人造硝石被奪走了。
-50,TEXT_BANKOB001_01320_TRACHRAET_000_003,人造硝石是火藥的原材料，<hex:02100103>現在硝石被大量掠奪……事態實在是太嚴峻了。<hex:02100103>如果被壞人利用，很可能會釀成慘劇，傷亡慘重。
-51,TEXT_BANKOB001_01320_TRACHRAET_000_004,可我們還沒查明是誰搶走了硝石。<hex:02100103>為解決此事，軍令部派出了特務隊員，<hex:02100103>但尚未找到任何線索。
-52,TEXT_BANKOB001_01320_TRACHRAET_000_005,那個特務隊員是我的老朋友，<hex:02100103>雖然我也很想幫她，但我還有自己的任務要去完成……
-53,TEXT_BANKOB001_01320_TRACHRAET_000_006,因此，我想請冒險者來協助我們！<hex:02100103>請你趕往雨燕塔殖民地，去幫幫我的朋友。<hex:02100103>她叫斯凱特希斯，正在那裡調查。
-54,TEXT_BANKOB001_01320_TRACHRAET_000_007,請你趕往雨燕塔殖民地，去幫幫我的朋友。<hex:02100103>她叫斯凱特希斯，正在那裡調查。
-55,TEXT_BANKOB001_01320_SKAETSWYS_000_010,哎喲……怎麼辦啊……怎麼辦才好啊……<hex:02100103>簡直是謎團重重，無法解決……<hex:02100103>……嗯？你是誰啊？
-56,TEXT_BANKOB001_01320_SKAETSWYS_000_011,哦？特拉哈雷特叫你來幫忙的嗎？<hex:02100103>那傢伙還挺會來事的嘛。<hex:02100103>我是黑渦團特務部隊的斯凱特希斯協漩尉。
-57,TEXT_BANKOB001_01320_SKAETSWYS_000_012,他已經跟你說了吧？<hex:02100103>我們黑渦團負責從利姆薩·羅敏薩往小麥酒港陸運人造硝石，<hex:02100103>而硝石卻被盜了。
-58,TEXT_BANKOB001_01320_SKAETSWYS_000_013,就是在這裡被盜的！<hex:02100103>運輸兵們那時在這裡休息，並且沒安排人站崗，<hex:02100103>結果賊人就趁此機會偷走了物資。
-59,TEXT_BANKOB001_01320_SKAETSWYS_000_014,因為人造硝石的量很大，所以估計犯人不止一名。<hex:02100103>殖民地門口常年都有看守，<hex:02100103>因此犯人肯定另有入侵、逃跑的途徑。
-60,TEXT_BANKOB001_01320_SKAETSWYS_000_015,冒險者，請你和我一起去尋找線索。<hex:02100103>肯定能在這個村落裡找到！
-61,TEXT_BANKOB001_01320_SKAETSWYS_000_016,哎喲……竟然能神不知鬼不覺短時間內偷走那麼多人造硝石，<hex:02100103>犯人一定都是慣犯！
-62,TEXT_BANKOB001_01320_KOKKADANA01320_000_017,哎喲……這下完了……<hex:02100103>丟了這麼重要的物資……<hex:02100103>會不會扣我薪水啊……還是說……我會被開除？！
-63,TEXT_BANKOB001_01320_KOKKADANB01320_000_018,我一個沒注意……就……<hex:02100103>真是對不起……因為目的地近在眼前了……<hex:02100103>所以我就放鬆警惕，疏忽大意了。
-64,TEXT_BANKOB001_01320_SKAETSWYS_000_030,冒險者……對了，還沒問你叫什麼呢。<hex:02100103><hex:022903EB0203>是吧？<hex:02100103>……你找到線索了麼？
-65,TEXT_BANKOB001_01320_SKAETSWYS_000_031,什麼？！在疑似是逃跑路線的地方發現了這玩意？<hex:02100103>……這、這是！<hex:02100103>沒錯，這肯定就是犯人遺留下來的東西。
-66,TEXT_BANKOB001_01320_SKAETSWYS_000_032,但這<hex:022811FF0A>EventItem<hex:F61E89500103>……<hex:02100103>不論從形狀還是大小來說，都好奇怪啊。<hex:02100103>怎麼看都不像是人類所使用的工具。
-67,TEXT_BANKOB001_01320_SKAETSWYS_000_033,等等！既然不像是人類所使用的工具……<hex:02100103>那也就是說犯人不是人類？
-68,TEXT_BANKOB001_01320_SKAETSWYS_000_034,<hex:022903EB0203>！<hex:02100103>你覺得除了人類，<hex:02100103>誰會使用這種大小的工具？
-69,TEXT_BANKOB001_01320_Q1_000_000,謎團全部解開了！犯人就是……
-70,TEXT_BANKOB001_01320_A1_000_001,魯加族？
-71,TEXT_BANKOB001_01320_A1_000_002,地靈族！
-72,TEXT_BANKOB001_01320_SKAETSWYS_000_035,太聰明了！答得好！<hex:02100103>沒錯！像我這樣的魯加族會這麼使用這工具……<hex:02100103>開什麼國際玩笑啊！
-73,TEXT_BANKOB001_01320_SKAETSWYS_000_036,你有沒有過腦子啊！<hex:02100103>都說了犯人不是人類了！<hex:02100103><hex:0209F201E0E948FF3A>別看我長這樣，也是個正經八百的人類啊！<hex:FF3A>別看我長這樣，也是個正經八百的人類啊！<hex:FF3A>別看我長這樣，也是個正經八百的人類啊！<hex:FF3A>別看我長這樣，也是個正經八百的人類啊！<hex:FF40>難道你認為魯加族不是人類麼？太自虐了吧？！<hex:FF3A>別看我長這樣，也是個正經八百的人類啊！<hex:FF3A>別看我長這樣，也是個正經八百的人類啊！<hex:FF3A>別看我長這樣，也是個正經八百的人類啊！<hex:03>
-74,TEXT_BANKOB001_01320_SKAETSWYS_000_037,……<hex:022903EB0203>也是這麼想的吧？<hex:02100103>我也和你想法一樣。
-75,TEXT_BANKOB001_01320_SKAETSWYS_000_038,也就是說，犯人是地靈族！<hex:02100103>他們在採礦時會使用鋤頭，<hex:02100103>而且也使用爆炸物，有充分的作案動機。
-76,TEXT_BANKOB001_01320_SKAETSWYS_000_039,哼哼，這下全查明了！<hex:02100103>好！那我就去聯繫一下了解地靈族的同伴，<hex:02100103>繼續追蹤犯人！
-77,TEXT_BANKOB001_01320_SKAETSWYS_000_040,在拉諾西亞外地的瞭望陣營地，有個叫布魯艾丁的協漩校，<hex:02100103>他應該很了解地靈族。
-78,TEXT_BANKOB001_01320_SKAETSWYS_000_041,那裡是防禦地靈族進攻的前線基地，<hex:02100103>因此駐紮在那裡的協漩校肯定對地靈族的行動、生態了如指掌。<hex:02100103>肯定能從他那裡獲得有力情報。
-79,TEXT_BANKOB001_01320_SKAETSWYS_000_042,事不宜遲，我們馬上前往瞭望陣營地！<hex:02100103>……你肯定會跟我一起去的吧，<hex:022903EB0203>！
-80,TEXT_BANKOB001_01320_KOBOLDA01320_000_043,放開我 混蛋！<hex:02100103>解開 繩子！
-81,TEXT_BANKOB001_01320_BLOEIDIN_000_050,幹嘛？我忙著呢。<hex:02100103>正在審問剛逮捕的地靈族！
-82,TEXT_BANKOB001_01320_KOBOLDA01320_000_051,可惡 放開我 解開 繩子！<hex:02100103>我的同伴 不會 就此罷休的！
-83,TEXT_BANKOB001_01320_BLOEIDIN_000_052,閉嘴，你這臭鼴鼠！<hex:02100103>快招！你們地靈族正在預謀著什麼？！
-84,TEXT_BANKOB001_01320_KOBOLDA01320_000_053,予 牟？你在說什麼？<hex:02100103>我 聽不懂！
-85,TEXT_BANKOB001_01320_BLOEIDIN_000_054,別跟我裝傻！<hex:02100103>最近武伽瑪羅武裝礦山這麼熱鬧，<hex:02100103>肯定是因為你們在暗中搗鬼。
-86,TEXT_BANKOB001_01320_SKAETSWYS_000_055,協漩校，好久不見。<hex:02100103>特殊戰教練一事受您照顧了！
-87,TEXT_BANKOB001_01320_BLOEIDIN_000_056,噢！這不是斯凱特希斯麼！<hex:02100103>你來瞭望陣營地幹什麼呀？
-88,TEXT_BANKOB001_01320_SKAETSWYS_000_057,我想問問您關於地靈族的事情……<hex:02100103>運輸中的人造硝石在西拉諾西亞被搶走了，<hex:02100103>這事您知道吧？
-89,TEXT_BANKOB001_01320_KOBOLDA01320_000_058,硝石 搶走？！<hex:02100103>哎呀 被發現了麼！
-90,TEXT_BANKOB001_01320_BLOEIDIN_000_059,什麼？！<hex:02100103>你果然知道些什麼！
-91,TEXT_BANKOB001_01320_KOBOLDA01320_000_060,哎呀 不知道 什麼都不知道！<hex:02100103>而且 不是我們 不是我們幹的！<hex:02100103>是他們 他們！
-92,TEXT_BANKOB001_01320_SKAETSWYS_000_061,……他們？<hex:02100103>他們是誰？
-93,TEXT_BANKOB001_01320_KOBOLDA01320_000_062,他們 就是 他們！<hex:02100103>懸崖下的採礦地裡的 他們！
-94,TEXT_BANKOB001_01320_BLOEIDIN_000_063,懸崖下的採礦地？<hex:02100103>這麼說來，我的確聽說，<hex:02100103>地靈族開始在瞭望陣的懸崖下挖掘新洞穴了……
-95,TEXT_BANKOB001_01320_KOBOLDA01320_000_064,我們才不想 和那些傢伙 有來往！<hex:02100103>第789洞穴團採礦地的 傢伙們 太差勁了！<hex:02100103>他們 好恐怖！
-96,TEXT_BANKOB001_01320_SKAETSWYS_000_065,布魯艾丁閣下，<hex:02100103>我們要去他說的那採礦地看看，<hex:02100103>那裡的傢伙……很有可能就是犯人！
-97,TEXT_BANKOB001_01320_BLOEIDIN_000_066,嗯。斯凱特希斯，你要多加小心啊！<hex:02100103>地靈族雖然長得小，但是很難對付！<hex:02100103>況且他們還飼養、操控著危險的爆彈怪！
-98,TEXT_BANKOB001_01320_SKAETSWYS_000_067,謝謝您的提醒！<hex:02100103>願利姆萊茵女神保佑您！<hex:02100103>直至大海吞噬一切！
-99,TEXT_BANKOB001_01320_SKAETSWYS_000_068,<hex:022903EB0203>，你準備好了麼？<hex:02100103>沒準要和地靈族打上一仗哦！<hex:02100103>這種時候還是冒險者可靠啊！尤其是像你這樣的冒險者！
-100,TEXT_BANKOB001_01320_BLOEIDIN_000_069,聽好了，可別小看地靈族。<hex:02100103>他們力大無窮，堪比我們魯加族！<hex:02100103>而且還能自由操控爆彈怪，是很危險的蠻族！
-101,TEXT_BANKOB001_01320_KOBOLDA01320_000_070,你們要去 第789洞穴團採礦地？<hex:02100103>我勸你們 最好別去！<hex:02100103>絕對會 後悔的 相信我！
-102,TEXT_BANKOB001_01320_SKAETSWYS_000_080,這是……被盜的黑渦團物資……<hex:02100103>終於讓我給找到了！
-103,TEXT_BANKOB001_01320_SKAETSWYS_000_081,鐵證在此，<hex:02100103>犯人果然是地靈族……
-104,TEXT_BANKOB001_01320_SKAETSWYS_000_082,嗯？
-105,TEXT_BANKOB001_01320_KOBOLDB01320_000_083,
-106,TEXT_BANKOB001_01320_KOBOLDC01320_000_084,
-107,TEXT_BANKOB001_01320_KOBOLDD01320_000_085,
-108,TEXT_BANKOB001_01320_SKAETSWYS_000_086,
-109,TEXT_BANKOB001_01320_SKAETSWYS_000_087,這數量……<hex:02100103>小心點，<hex:022903EB0203>！
-110,TEXT_BANKOB001_01320_SKAETSWYS_000_088,放馬過來啊！<hex:02100103>我才不會輸給區區蠻族呢！
-111,TEXT_BANKOB001_01320_GIGU_000_089,(-地靈族首領-)對不起！<hex:02100103>我們 再也 不偷了！
-112,TEXT_BANKOB001_01320_SKAETSWYS_000_090,……啊？
-113,TEXT_BANKOB001_01320_KOBOLD01320_000_091,(-第789洞穴團的地靈族-)對不起。<hex:02100103>對不起。
-114,TEXT_BANKOB001_01320_SKAETSWYS_000_092,……這是怎麼回事？
-115,TEXT_BANKOB001_01320_SKAETSWYS_000_100,……雖然不明白是怎麼回事，<hex:02100103>不過他們貌似願意還給我們物資，<hex:02100103>事件……大概就算解決了吧？
-116,TEXT_BANKOB001_01320_SKAETSWYS_000_101,我都做好大戰一場的準備了……<hex:02100103>但地靈族好像沒有敵意……<hex:02100103>……有種白忙活一場的感覺啊。
-117,TEXT_BANKOB001_01320_SKAETSWYS_000_102,總之，我先回瞭望陣營地報告，再安排人來回收物資。<hex:02100103>在這期間，你能向這裡的地靈族們了解下情況嗎？
-118,TEXT_BANKOB001_01320_SKAETSWYS_000_103,採礦地深處的第789團採集員基古貌似是他們的首領。<hex:02100103>那就拜託你了。
-119,TEXT_BANKOB001_01320_GIGU_000_104,唔 是人類 好恐怖 人類來了……<hex:02100103>不能 從人類那裡偷東西……<hex:02100103>對不起……
-120,TEXT_BANKOB001_01320_GIGU_000_110,哇 對 對不起！<hex:02100103>我們不會再犯了 我們沒有惡意！<hex:02100103>所以 不要打我！
-121,TEXT_BANKOB001_01320_GIGU_000_111,嗯 我 我是第789團採集員基古。<hex:02100103>是這 第789洞穴團採礦地 的負責人……
-122,TEXT_BANKOB001_01320_GIGU_000_112,偷人造硝石 有什麼企圖？<hex:02100103>我們 沒有 企圖！<hex:02100103>我們 哪敢 跟人類作對！
-123,TEXT_BANKOB001_01320_GIGU_000_113,這件事 有很深的 緣由……<hex:02100103>我們 十分 需要硝石。
-124,TEXT_BANKOB001_01320_GIGU_000_114,那個 我們 到處找硝石……<hex:02100103>然後就 往海邊跑了……<hex:02100103>結果 看到了好多硝石 堆在那裡 於是就起了歹心……
-125,TEXT_BANKOB001_01320_GIGU_000_115,冒險者 對不起。<hex:02100103>在你回去之前 能聽聽我們的請求嗎？<hex:02100103>求求你了 求求你了！
+0,"TEXT_BANKOB001_01320_SEQ_00","Trachraet seeks an adventurer with superior sleuthing skills."
+1,"TEXT_BANKOB001_01320_SEQ_01","Lieutenant Trachraet reveals to you a troubling development: a Maelstrom convoy was recently intercepted, the unidentified perpetrators absconding with a vital shipment of saltpeter. He beseeches your aid, asking you to travel to Swiftperch in western La Noscea to assist Lieutenant Skaetswys, the officer tasked with leading the investigation."
+2,"TEXT_BANKOB001_01320_SEQ_02","Lieutenant Skaetswys is grateful for your assistance, as her subordinates have thus far not demonstrated much in the way of investigative skills. Search Swiftperch for the evidence which has thus far eluded her grasp."
+3,"TEXT_BANKOB001_01320_SEQ_03","A thorough scouring of Swiftperch has turned up a misshapen pickaxe of curious make. Could this be a tool left behind by the saltpeter thieves? Present it to Lieutenant Skaetswys in hopes that it sheds light on her inquiry."
+4,"TEXT_BANKOB001_01320_SEQ_04","Upon a close examination of the pick, Skaetswys is now convinced that the ambush of the convoy was carried out by a band of kobolds. Accompany Skaetswys to Camp Overlook and seek out Commander Bloeidin, whose vast knowledge of the tunnel-dwelling beastmen will prove vital in determining a proper course of action."
+5,"TEXT_BANKOB001_01320_SEQ_05","Upon your arrival at Camp Overlook, a captive kobold under interrogation by Commander Bloeidin is quick to confess that a notorious order of his kin, the 789th, were the masterminds behind the saltpeter theft. Exercising due caution, infiltrate their den of villainy and rendezvous once more with Skaetswys."
+6,"TEXT_BANKOB001_01320_SEQ_06","No sooner do you arrive at the dig and locate the stolen supplies than does the 789th Order sniff out your presence, quickly surrounding you. The mystery then deepens, however, when the vicious kobolds surrender the stolen goods with nary a fight. Speak with Skaetswys again, that the two of you might puzzle out exactly what has transpired."
+7,"TEXT_BANKOB001_01320_SEQ_07","Thoroughly confused by the kobolds' behavior, Skaetswys nonetheless elects to put off any further pondering until the supplies are safely conveyed to their original destination. Before setting off for Camp Overlook, she encourages you to explore the dig and seek out the leader of the 789th, that you might glean some knowledge of the surprisingly nonconfrontational kobolds."
+8,"TEXT_BANKOB001_01320_SEQ_08","The foreman of the 789th, an uninspiring kobold by the name of Gi Gu, sheepishly expresses his remorse for his order's actions, while insisting that they only stooped to common thievery due to extenuating circumstances. It would seem there is more to these kobolds' plight than meets the eye..."
+9,"TEXT_BANKOB001_01320_SEQ_09",""
+10,"TEXT_BANKOB001_01320_SEQ_10",""
+11,"TEXT_BANKOB001_01320_SEQ_11",""
+12,"TEXT_BANKOB001_01320_SEQ_12",""
+13,"TEXT_BANKOB001_01320_SEQ_13",""
+14,"TEXT_BANKOB001_01320_SEQ_14",""
+15,"TEXT_BANKOB001_01320_SEQ_15",""
+16,"TEXT_BANKOB001_01320_SEQ_16",""
+17,"TEXT_BANKOB001_01320_SEQ_17",""
+18,"TEXT_BANKOB001_01320_SEQ_18",""
+19,"TEXT_BANKOB001_01320_SEQ_19",""
+20,"TEXT_BANKOB001_01320_SEQ_20",""
+21,"TEXT_BANKOB001_01320_SEQ_21",""
+22,"TEXT_BANKOB001_01320_SEQ_22",""
+23,"TEXT_BANKOB001_01320_SEQ_23",""
+24,"TEXT_BANKOB001_01320_TODO_00","Speak with Skaetswys at Swiftperch."
+25,"TEXT_BANKOB001_01320_TODO_01","Search Swiftperch and the vicinity for clues."
+26,"TEXT_BANKOB001_01320_TODO_02","Deliver the crooked pickaxe to Skaetswys."
+27,"TEXT_BANKOB001_01320_TODO_03","Speak with Bloeidin at Camp Overlook."
+28,"TEXT_BANKOB001_01320_TODO_04","Speak with Skaetswys at the 789th Order Dig."
+29,"TEXT_BANKOB001_01320_TODO_05","Speak with Skaetswys."
+30,"TEXT_BANKOB001_01320_TODO_06","Speak with 789th Order Pickman Gi Gu."
+31,"TEXT_BANKOB001_01320_TODO_07",""
+32,"TEXT_BANKOB001_01320_TODO_08",""
+33,"TEXT_BANKOB001_01320_TODO_09",""
+34,"TEXT_BANKOB001_01320_TODO_10",""
+35,"TEXT_BANKOB001_01320_TODO_11",""
+36,"TEXT_BANKOB001_01320_TODO_12",""
+37,"TEXT_BANKOB001_01320_TODO_13",""
+38,"TEXT_BANKOB001_01320_TODO_14",""
+39,"TEXT_BANKOB001_01320_TODO_15",""
+40,"TEXT_BANKOB001_01320_TODO_16",""
+41,"TEXT_BANKOB001_01320_TODO_17",""
+42,"TEXT_BANKOB001_01320_TODO_18",""
+43,"TEXT_BANKOB001_01320_TODO_19",""
+44,"TEXT_BANKOB001_01320_TODO_20",""
+45,"TEXT_BANKOB001_01320_TODO_21",""
+46,"TEXT_BANKOB001_01320_TODO_22",""
+47,"TEXT_BANKOB001_01320_TODO_23",""
+48,"TEXT_BANKOB001_01320_TRACHRAET_000_001","<hex:0208C7E1E93501FF93><hex:022B7EFF7C><hex:020825E1E93501FF1D><hex:022819FF14>GCRankLimsaMaleText<hex:E9350903><hex:FF01><hex:03><hex:020828E1E93601FF20><hex:02281CFF17>GCRankGridaniaMaleText<hex:E9360903><hex:FF01><hex:03><hex:020825E1E93701FF1D><hex:022819FF14>GCRankUldahMaleText<hex:E9370903><hex:FF01><hex:03><hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303><hex:FF2D><hex:020829E1E93601FF11><hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203><hex:FF11><hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203><hex:03><hex:03>! I know not what brings ye to Maelstrom Command this day, but I can 'ardly fault yer timin'. Aye, we've a situation on our 'ands, we do."
+49,"TEXT_BANKOB001_01320_TRACHRAET_000_002","Not days ago, a convoy of ours was ambushed en route to Limsa, and a goodly shipment of saltpeter plundered from our very 'ands. The scurvy dogs responsible for the act struck swiftly and under darkness, so we've yet to figure out who they are─much less bring them to justice."
+50,"TEXT_BANKOB001_01320_TRACHRAET_000_003","Saltpeter, as ye may know, is a key ingredient in fashionin' firesand. Whatever our foe might be plottin', like as not it involves an 'earty share o' fiery death and destruction."
+51,"TEXT_BANKOB001_01320_TRACHRAET_000_004","Command has dispatched an elite regiment to the field to investigate, but clues 'ave proved 'arder to come by than an 'alf-decent pint of ale at sea."
+52,"TEXT_BANKOB001_01320_TRACHRAET_000_005","Leadin' the investigation is a good comrade of mine. While I'd like nothin' more than to lend me strength to 'er search, I can't very well shirk me duties 'ere."
+53,"TEXT_BANKOB001_01320_TRACHRAET_000_006","If ye find yerself itchin' for adventure, ye could do worse than to make for Swiftperch and seek out one Lieutenant Skaetswys. Just say that Trachraet sent ye."
+54,"TEXT_BANKOB001_01320_TRACHRAET_000_007","A dear old comrade of mine leads the search for our missin' shipment of saltpeter. If ye be itchin' for adventure, make for Swiftperch and seek out one Lieutenant Skaetswys. Just say that Trachraet sent ye."
+55,"TEXT_BANKOB001_01320_SKAETSWYS_000_010","Llymlaen take the lot of ye! Ye'd 'ave me believe that there's not a single piece of evidence in this entire godsforsaken 'amlet!?"
+56,"TEXT_BANKOB001_01320_SKAETSWYS_000_011","And who might <hex:021A020203>you<hex:021A020103> be? An adventurer come on behalf of ol' Trachraet? Who said I was lookin' for 'elp, anyway?"
+57,"TEXT_BANKOB001_01320_SKAETSWYS_000_012","Trachraet did? Hah! I'll 'ave ye both know that it's all clear skies and smooth sailin' 'ere. Aye, I was just about to file my report to─"
+58,"TEXT_BANKOB001_01320_SKAETSWYS_000_013","...Eh, I ain't foolin' no one. A good tonze o' saltpeter's been snatched from our 'ands, like as not by someone who'd use it to sink our fair Limsa to the bottom o' the sea. All right, I'll share with ye what me men 'ave gleaned, though I warn ye─it ain't much."
+59,"TEXT_BANKOB001_01320_SKAETSWYS_000_014","Given the scope o' the act, we believe it was a coordinated effort by a well-trained group. What's more, given the sheer speed with which the scurvy thieves vanished from our sight, I reckon that they 'ave knowledge o' passages unknown to us."
+60,"TEXT_BANKOB001_01320_SKAETSWYS_000_015","I 'ad me 'opes up that my men would've found <hex:021A020203>somethin'<hex:021A020103>, but they 'ad no such luck. What say ye? Care to take a look around and see if ye can find the evidence me 'alf-blind and thrice-daft subordinates couldn't?"
+61,"TEXT_BANKOB001_01320_SKAETSWYS_000_016","To steal off with all those crates with even our best men catchin' nary a glimpse... We're dealin' with a criminal band o' surpassin' skill an' chicanery."
+62,"TEXT_BANKOB001_01320_KOKKADANA01320_000_017","<sigh> I'm in for a demotion for sure. How will I ever face me wife and kids again...?"
+63,"TEXT_BANKOB001_01320_KOKKADANB01320_000_018","Me eyes never left the wagon─I swear on me mother's grave! Well, I mean...maybe they did. Just for a moment... But Aleport was in clear sight! Can ye blame me for thinkin' we were safe?"
+64,"TEXT_BANKOB001_01320_SKAETSWYS_000_030","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, was it? Well? Find any evidence that could shed some light on our investigation?"
+65,"TEXT_BANKOB001_01320_SKAETSWYS_000_031","Hmmm...what 'ave we here? A pickaxe, and a rather sorry-lookin' one, at that. Do ye reckon this was left behind by the perpetrators?"
+66,"TEXT_BANKOB001_01320_SKAETSWYS_000_032","In my time with the Maelstrom, I've confronted just about every pirate, brigand, and 'ighwayman in these parts, but I've not known any of 'em to employ a tool like this."
+67,"TEXT_BANKOB001_01320_SKAETSWYS_000_033","No, I'd wager more than a round at the Wench that our band o' grubby little thieves ain't no ordinary men. Aye, it's all becomin' clear to me..."
+68,"TEXT_BANKOB001_01320_SKAETSWYS_000_034","...And yerself, no doubt. Tell me, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>─might ye be thinkin' what I'm thinkin'?"
+69,"TEXT_BANKOB001_01320_Q1_000_000","Are you thinking what Skaetswys is thinking? The culprit is..."
+70,"TEXT_BANKOB001_01320_A1_000_001","...A rogue Roegadyn!?"
+71,"TEXT_BANKOB001_01320_A1_000_002","...Those conniving kobolds!"
+72,"TEXT_BANKOB001_01320_SKAETSWYS_000_035","None other! Aye, only a Roegadyn of abundant physical and mental talents─such as meself─could fashion and employ such an exquisite piece o'..."
+73,"TEXT_BANKOB001_01320_SKAETSWYS_000_036","...Do ye 'ave barnacles where yer brains should be, adventurer!? 'Cause if yer so much as <hex:021A020203>implyin'<hex:021A020103> that I staged the robbery meself, ye'll be takin' a long walk off a short pier the second you set foot back in Limsa!"
+74,"TEXT_BANKOB001_01320_SKAETSWYS_000_037","...I knew ye were a sharp one. Aye, the moment I laid eyes on that pickaxe ye found, me mind was convinced."
+75,"TEXT_BANKOB001_01320_SKAETSWYS_000_038","The primitive make o' this tool, an all–too–'ealthy interest in explosives─all signs point to those rat–faced rapscallions bein' behind all this."
+76,"TEXT_BANKOB001_01320_SKAETSWYS_000_039","It's so bloody obvious now that I could almost kick meself─and me good–for–nothin' men─for not comin' to this conclusion sooner."
+77,"TEXT_BANKOB001_01320_SKAETSWYS_000_040","But this is 'ardly a time for whingin'. No, we must strike quickly if we mean to reclaim what's ours."
+78,"TEXT_BANKOB001_01320_SKAETSWYS_000_041","Camp Overlook is our front line o' defense against those tunnel-burrowin' thieves. If anyone 'as a notion o' where they've taken the saltpeter and 'ow they plan to use it, it'll be Commander Bloeidin."
+79,"TEXT_BANKOB001_01320_SKAETSWYS_000_042","I'm off to deliver me report, but I've an 'unch our job has only begun. What say you come along, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>? You're the first capable <hex:02080FE905FF06>woman<hex:FF04>man<hex:03> I've worked with today."
+80,"TEXT_BANKOB001_01320_KOBOLDA01320_000_043","Release me at once─free me, unhand me, release me!"
+81,"TEXT_BANKOB001_01320_BLOEIDIN_000_050","Hm? Make it quick, adventurer. As ye can see, I've got me hands full with our little friend here."
+82,"TEXT_BANKOB001_01320_KOBOLDA01320_000_051","This is an outrage─a farce, an atrocity, an outrage! This is an insult, and we kobolds will not stand for it. No, no, stand no more!"
+83,"TEXT_BANKOB001_01320_BLOEIDIN_000_052","Ye'll not have legs to stand on if ye don't quit blabberin' an' spill the truth about whatever it is ye scurvy rats are plottin'!"
+84,"TEXT_BANKOB001_01320_KOBOLDA01320_000_053","Plotting? There is no plotting! No, no, we plot nothing─naught, nil, nothing!"
+85,"TEXT_BANKOB001_01320_BLOEIDIN_000_054","Enough! Unlike you and yer ilk, I've a workin' pair of eyes and at least half me wits about me. Ye think I've not seen you lot blastin' and scurryin' around U'Ghamaro of late!?"
+86,"TEXT_BANKOB001_01320_SKAETSWYS_000_055","Commander Bloeidin, sir!"
+87,"TEXT_BANKOB001_01320_BLOEIDIN_000_056","Skaetswys? Aye, it's a treat to see me old trainee, but I fear a brewin' kobold plot demands me attention..."
+88,"TEXT_BANKOB001_01320_SKAETSWYS_000_057","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> 'ere and I just might be able to 'elp ye with that, Commander. I trust ye've 'eard the news of our missin' shipment of saltpeter?"
+89,"TEXT_BANKOB001_01320_KOBOLDA01320_000_058","So soon she knows!? This cannot be! No, no, it cannot be!"
+90,"TEXT_BANKOB001_01320_BLOEIDIN_000_059","Hah, I knew it! Yer endless tongue-waggin' has finally dug yer own grave!"
+91,"TEXT_BANKOB001_01320_KOBOLDA01320_000_060","It was not us! No, no, not us. It was <hex:021A020203>them<hex:021A020103>─yes, yes, <hex:021A020203>them<hex:021A020103>!"
+92,"TEXT_BANKOB001_01320_SKAETSWYS_000_061","What nonsense is this? Beady eyes, frizzy tail, a penchant for causin' us trouble─a kobold's a kobold!"
+93,"TEXT_BANKOB001_01320_KOBOLDA01320_000_062","This is not so! No, no, not so! There are kobolds, and then there are kobolds, and then there are kobolds still. It is the low ones who stole your precious saltpeter─the ones who live down, beneath, below!"
+94,"TEXT_BANKOB001_01320_BLOEIDIN_000_063","Beneath and below? ...Come to think of it, me scouts did mention a particularly scraggy band of kobolds what seem to have made their home at the cliff base."
+95,"TEXT_BANKOB001_01320_KOBOLDA01320_000_064","Yes, yes! That is the place! That is the home, the home of the 789th. They are the worst─the worst of the worst. They are most stinky─smelly, scummy, stinky─and ugly, too!"
+96,"TEXT_BANKOB001_01320_SKAETSWYS_000_065","Commander! As the presidin' officer in this investigation, I request permission to go below and investigate the so-called 789th. Furthermore, I would enlist this adventurer to join me─<hex:02080CE905FF04>she<hex:FF03>'e<hex:03>'s proven <hex:020815E905FF08>'erself<hex:FF08>'imself<hex:03> capable, and it would seem we go up against a worthy foe."
+97,"TEXT_BANKOB001_01320_BLOEIDIN_000_066","As ye please, Lieutenant. But I warn ye, be careful down there. The sight of a kobold won't strike fear into anyone's heart, but their bite─and their bombs─are a fair sight worse than their bark."
+98,"TEXT_BANKOB001_01320_SKAETSWYS_000_067","Understood, Commander─we'll not let ye down. And with that, I take my leave. Till sea swallows all!"
+99,"TEXT_BANKOB001_01320_SKAETSWYS_000_068","Well, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>? Are ye ready to take on the scurviest band o' kobolds in La Noscea? Ye'd best be, because I'm countin' on ye to make yerself useful."
+100,"TEXT_BANKOB001_01320_BLOEIDIN_000_069","Kobolds might look like little more than overgrown wharf rats, but their minds are as sharp as their claws. If you ever find yerself surrounded by 'em, ye'd best be ready for the fight o' yer life."
+101,"TEXT_BANKOB001_01320_KOBOLDA01320_000_070","No good can come from dealing with the 789th. No good, no good at all. Ignore my words, and you are a fool─a dunce, a <hex:020815E905FF09>madwoman<hex:FF07>madman<hex:03>, a fool."
+102,"TEXT_BANKOB001_01320_SKAETSWYS_000_080","Well, well... What 'ave we 'ere?"
+103,"TEXT_BANKOB001_01320_SKAETSWYS_000_081","One, two...aye, three crates o' saltpeter. It would seem our kobold informant spoke true."
+104,"TEXT_BANKOB001_01320_SKAETSWYS_000_082","What the─!?"
+105,"TEXT_BANKOB001_01320_KOBOLDB01320_000_083",""
+106,"TEXT_BANKOB001_01320_KOBOLDC01320_000_084",""
+107,"TEXT_BANKOB001_01320_KOBOLDD01320_000_085",""
+108,"TEXT_BANKOB001_01320_SKAETSWYS_000_086",""
+109,"TEXT_BANKOB001_01320_SKAETSWYS_000_087","Surrounded!? Stand ready, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>!"
+110,"TEXT_BANKOB001_01320_SKAETSWYS_000_088","Are ye just goin' to stand there squeakin' at me all <hex:020831E3E90C0DFF15><hex:020811E3E90C05FF06>night<hex:FF04>day<hex:03><hex:FF15><hex:020811E3E90C12FF04>day<hex:FF06>night<hex:03><hex:03>!? Fight with 'onor, or die like the rats ye are!"
+111,"TEXT_BANKOB001_01320_GIGU_000_089","(-Unimposing Kobold-)Ah, er...are there no alternatives─ch-choices, options, alternatives? Such as perhaps...surrender? Yes, yes, surrender! We surrender!"
+112,"TEXT_BANKOB001_01320_SKAETSWYS_000_090","Did you just say...surrender?"
+113,"TEXT_BANKOB001_01320_KOBOLD01320_000_091","(-789th Order Kobolds-)Yes, yes, we surrender─yield, submit, surrender!"
+114,"TEXT_BANKOB001_01320_SKAETSWYS_000_092","What in the seven hells...?"
+115,"TEXT_BANKOB001_01320_SKAETSWYS_000_100","I 'aven't an inklin' as to the whys and wherefores, but it seems the notorious 789th is keen to return their plunder without so much as a fight."
+116,"TEXT_BANKOB001_01320_SKAETSWYS_000_101","I, for one, wouldn't 'ave been opposed to crackin' a few kobold skulls, but considerin' the strained relations between Limsa and the little buggers these days, who can argue with good diplomacy?"
+117,"TEXT_BANKOB001_01320_SKAETSWYS_000_102","Anyroad, I'll report back to Commander Bloeidin and arrange for the transport o' the supplies─aye, and with a reliable escort this time."
+118,"TEXT_BANKOB001_01320_SKAETSWYS_000_103","In the meantime, why don't ye ask around and see what ye can learn about our new neighbors? After all, they don't seem 'alf as imposin' as I expected─their leader least of all... Best of luck, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Till sea swallows all!"
+119,"TEXT_BANKOB001_01320_GIGU_000_104","Is the scary woman gone yet? Oh please, please say she is! You must forgive Gi Gu. Yes, Gi Gu and his friends naughty─wicked, nasty, naughty!"
+120,"TEXT_BANKOB001_01320_GIGU_000_110","Y-You are still here!? We have surrendered, yes? Yielded, submitted, surrendered? You will not hurt us, yes?"
+121,"TEXT_BANKOB001_01320_GIGU_000_111","...Phew. I am relieved─reassured, relaxed, relieved. And who I am, you ask?"
+122,"TEXT_BANKOB001_01320_GIGU_000_112","I am Gi Gu, and Gi Gu is foreman of the 789th. Leader in name, yes, but no more. No, no, no more. For in truth, no one listens to Gi Gu. Gi Gu is ignored─invisible, insulted, ignored...incompetent, too."
+123,"TEXT_BANKOB001_01320_GIGU_000_113","The 789th stole your precious boompowder? Yes, yes, we did. And yet, we had good cause for doing so─an excuse, a reason, a cause."
+124,"TEXT_BANKOB001_01320_GIGU_000_114","Ours is a peaceful order by nature. The 789th troubled no one, and no one troubled us. No, not until now. Now we are driven from the tunnels, exiled to this place that stinks of soil and seawater."
+125,"TEXT_BANKOB001_01320_GIGU_000_115","But you are a stranger, and I ramble too much, too soon. No, no, I will speak no more. Go now, and leave Gi Gu to his suffering─his pain, his shame, his suffering."

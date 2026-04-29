@@ -2,163 +2,163 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_FESVLT401_03082_SEQ_00,※本任務是特定期間內的任務。<hex:02100103><hex:02100103>米·凱特露天劇場的莉賽特·德·瓦倫提昂有話想要對冒險者說。
-1,TEXT_FESVLT401_03082_SEQ_01,※本任務只有在季節活動開放期間才能接受和進行。<hex:02100103>　季節活動結束後無法進行，敬請注意。<hex:02100103>　詳情請參見官方網站。<hex:02100103><hex:02100103>和莉賽特進行了交談。她委託冒險者去給見習愛情傳道士幫忙。和米·凱特露天劇場附近的阿絲特麗德談談。
-2,TEXT_FESVLT401_03082_SEQ_02,和阿絲特麗德進行了交談。據她所說，負責布置心緣鑑定會場的莫古力放棄工作走掉了。在格里達尼亞舊街尋找放棄工作的3名莫古力。
-3,TEXT_FESVLT401_03082_SEQ_03,聽了放棄工作的莫古力們的辯解。向米·凱特露天劇場附近的阿絲特麗德報告。
-4,TEXT_FESVLT401_03082_SEQ_04,向阿絲特麗德報告完畢。她參考莫古力們的建議，決定對心緣鑑定進行改善。為了討論改善的方法，和米·凱特露天劇場附近的庫普魯·庫姆談談。
-5,TEXT_FESVLT401_03082_SEQ_05,和庫普魯·庫姆進行了交談。他會來幫忙對心緣鑑定進行改善。和格里達尼亞製革匠公會附近的偷懶的莫古力交談。
-6,TEXT_FESVLT401_03082_SEQ_06,和偷懶的莫古力他們進行了交談。和米·凱特露天劇場附近的阿絲特麗德談談。
-7,TEXT_FESVLT401_03082_SEQ_07,和阿絲特麗德進行了交談。她委託冒險者體驗改良過後的心緣鑑定。和米·凱特露天劇場的瓦倫提昂家的侍從交談，完成「良緣儀式」，將得到的<hex:02280BFF05>Item<hex:F257830103>作為完成後的證明交給米·凱特露天劇場附近的阿絲特麗德確認。
-8,TEXT_FESVLT401_03082_SEQ_08,將<hex:02280BFF05>Item<hex:F257830103>交給了阿絲特麗德確認。她決定開始向公眾開放良緣儀式。向米·凱特露天劇場的莉賽特·德·瓦倫提昂報告。
-9,TEXT_FESVLT401_03082_SEQ_09,向莉賽特報告完畢。她對幫助了阿絲特麗德的冒險者表示感謝。通過此事摘掉見習稱號的阿絲特麗德一定會成為優秀的愛情傳道士。
-10,TEXT_FESVLT401_03082_SEQ_10,
-11,TEXT_FESVLT401_03082_SEQ_11,
-12,TEXT_FESVLT401_03082_SEQ_12,
-13,TEXT_FESVLT401_03082_SEQ_13,
-14,TEXT_FESVLT401_03082_SEQ_14,
-15,TEXT_FESVLT401_03082_SEQ_15,
-16,TEXT_FESVLT401_03082_SEQ_16,
-17,TEXT_FESVLT401_03082_SEQ_17,
-18,TEXT_FESVLT401_03082_SEQ_18,
-19,TEXT_FESVLT401_03082_SEQ_19,
-20,TEXT_FESVLT401_03082_SEQ_20,
-21,TEXT_FESVLT401_03082_SEQ_21,
-22,TEXT_FESVLT401_03082_SEQ_22,
-23,TEXT_FESVLT401_03082_SEQ_23,
-24,TEXT_FESVLT401_03082_TODO_00,和阿絲特麗德對話
-25,TEXT_FESVLT401_03082_TODO_01,尋找放棄工作的莫古力
-26,TEXT_FESVLT401_03082_TODO_02,向阿絲特麗德報告
-27,TEXT_FESVLT401_03082_TODO_03,和庫普魯·庫姆對話
-28,TEXT_FESVLT401_03082_TODO_04,和偷懶的莫古力對話
-29,TEXT_FESVLT401_03082_TODO_05,和阿絲特麗德對話
-30,TEXT_FESVLT401_03082_TODO_06,完成良緣儀式<hex:02100103>將<hex:02280BFF05>Item<hex:F257830103>交給阿絲特麗德確認
-31,TEXT_FESVLT401_03082_TODO_07,向莉賽特·德·瓦倫提昂報告
-32,TEXT_FESVLT401_03082_TODO_08,
-33,TEXT_FESVLT401_03082_TODO_09,
-34,TEXT_FESVLT401_03082_TODO_10,
-35,TEXT_FESVLT401_03082_TODO_11,
-36,TEXT_FESVLT401_03082_TODO_12,
-37,TEXT_FESVLT401_03082_TODO_13,
-38,TEXT_FESVLT401_03082_TODO_14,
-39,TEXT_FESVLT401_03082_TODO_15,
-40,TEXT_FESVLT401_03082_TODO_16,
-41,TEXT_FESVLT401_03082_TODO_17,
-42,TEXT_FESVLT401_03082_TODO_18,
-43,TEXT_FESVLT401_03082_TODO_19,
-44,TEXT_FESVLT401_03082_TODO_20,
-45,TEXT_FESVLT401_03082_TODO_21,
-46,TEXT_FESVLT401_03082_TODO_22,
-47,TEXT_FESVLT401_03082_TODO_23,
-48,TEXT_FESVLT401_03082_LISETTE_000_000,冒險者，你好！<hex:02100103>人家是愛情傳道士，莉賽特·德·瓦倫提昂，<hex:02100103>大伙都叫人家小莉呢！
-49,TEXT_FESVLT401_03082_LISETTE_000_010,啊！你是之前幫過人家的冒險者！<hex:02100103>好久不見啦，你過得怎麼樣啊？<hex:02100103>這次也要麻煩你啦！
-50,TEXT_FESVLT401_03082_LISETTE_000_020,現在正在舉辦「戀人節」哦！<hex:02100103>戀人節起源於人家的祖先阿拉貝爾·德·瓦倫提昂伯爵，<hex:02100103>由於祖先對愛情忠貞不渝，才有了現在這個浪漫的節日！
-51,TEXT_FESVLT401_03082_LISETTE_000_021,沿襲著那位為愛而生的祖先遺留的傳統，<hex:02100103>我們從好遠好遠的伊修加德來到這裡，<hex:02100103>全都是為了幫助大家收穫美好的愛情！
-52,TEXT_FESVLT401_03082_LISETTE_000_022,這次的內容竟然是——效仿永結同心的誓約，<hex:02100103>來幫大家傳達愛意！
-53,TEXT_FESVLT401_03082_LISETTE_000_023,我們得到了十二神大聖堂的協助，<hex:02100103>準備幫互相有意的璧人們進行心緣鑑定！<hex:02100103>請抱著輕鬆的心態來積極參加哦！
-54,TEXT_FESVLT401_03082_LISETTE_000_024,雖然很想這麼說……<hex:02100103>我看中你是優秀的冒險者，<hex:02100103>能不能——接受我的委託呀？
-55,TEXT_FESVLT401_03082_LISETTE_000_025,我希望你能夠悄悄地去幫助一下<hex:02100103>負責戀人節活動的見習愛情傳道士。<hex:02100103>對了，不要說出去是我委託你的哦！
-56,TEXT_FESVLT401_03082_LISETTE_000_026,那個孩子叫阿絲特麗德，<hex:02100103>性格有點太過認真不知道變通，<hex:02100103>所以我有點擔心她。
-57,TEXT_FESVLT401_03082_LISETTE_000_027,如果你看見阿絲特麗德有什麼麻煩的話，<hex:02100103>就幫幫她吧！<hex:02100103>那就拜託你了哦！
-58,TEXT_FESVLT401_03082_LISETTE_000_030,阿絲特麗德要是有什麼麻煩的話，<hex:02100103>就幫幫她吧！<hex:02100103>那就拜託你了哦！
-59,TEXT_FESVLT401_03082_HORTEFENSE_000_031,喲，冒險者。<hex:02100103>你是不是從我的聖女莉賽特小姐那裡<hex:02100103>接到了關於阿絲特麗德的委託？
-60,TEXT_FESVLT401_03082_HORTEFENSE_000_032,其實我也想幫忙來著，<hex:02100103>但是好像她討厭我，所以一直不順利……<hex:02100103>真是對不住，她的事情就全交給你了。
-61,TEXT_FESVLT401_03082_ASTRID_000_040,怎麼辦才好啊……這樣下去就全泡湯了……<hex:02100103>難得姐姐把工作交給了我來做……
-62,TEXT_FESVLT401_03082_ASTRID_000_041,哇，冒險者？！<hex:02100103>你想進行心緣鑑定的話，目前還在準備中……
-63,TEXT_FESVLT401_03082_ASTRID_000_042,對、對了，姐姐說過有麻煩的時候要去找冒險者。<hex:02100103>請你作為見習愛情傳道士的助手來幫幫我吧！
-64,TEXT_FESVLT401_03082_ASTRID_000_043,姐姐……小、小莉把舉辦心緣鑑定的活動交給了我來辦。<hex:02100103>但是在準備期間中出現了問題。
-65,TEXT_FESVLT401_03082_ASTRID_000_044,問題其實是委託布置活動會場的莫古力們，<hex:02100103>突然說出了「這工作幹不下去了庫啵！」，<hex:02100103>然後就放棄工作不知道去了哪裡……
-66,TEXT_FESVLT401_03082_ASTRID_000_045,我只是為了愛在努力而已啊……<hex:02100103>我真的不知道自己到底做錯了什麼，現在正發愁呢。
-67,TEXT_FESVLT401_03082_ASTRID_000_046,拜託你了，冒險者。<hex:02100103>麻煩你去尋找在舊街的莫古力們，<hex:02100103>問問他們放棄工作走掉的詳細理由。
-68,TEXT_FESVLT401_03082_ASTRID_000_050,麻煩你去尋找在舊街的莫古力們，<hex:02100103>問問他們放棄工作走掉的詳細理由。<hex:02100103>就拜託身為見習愛情傳道士的助手你了！
-69,TEXT_FESVLT401_03082_MOOGLEA03082_000_060,哼哼哼哼庫啵！果然過度勞累是不對的庫啵！<hex:02100103>大家應該忘記工作——一起來偷懶啊庫啵！
-70,TEXT_FESVLT401_03082_MOOGLEA03082_100_060,……啊，你是誰庫啵？！
-71,TEXT_FESVLT401_03082_MOOGLEA03082_000_061,啊，是阿絲特麗德讓你來的……庫啵？<hex:02100103>那莫古就詳細地告訴你理由吧庫啵。<hex:02100103>……順便說一句，剛才唱的歌詞都是玩笑庫啵。
-72,TEXT_FESVLT401_03082_MOOGLEA03082_000_062,莫古們逃離工作……中斷工作的理由，<hex:02100103>是因為心緣鑑定真的很無聊庫啵。<hex:02100103>照那樣的話，根本就沒法鑑定出心緣的結果庫啵。
-73,TEXT_FESVLT401_03082_MOOGLEA03082_000_063,要是按現在這樣布置的話，活動肯定會大失敗的庫啵。<hex:02100103>所以莫古們選擇了出逃庫啵！<hex:02100103>請你將莫古們逃走的理由轉告給阿絲特麗德庫啵！
-74,TEXT_FESVLT401_03082_MOOGLEB03082_000_070,呼——不用工作就吃到的庫啵果格外好吃庫啵。<hex:02100103>所以才說偷懶停不住啊庫啵。
-75,TEXT_FESVLT401_03082_MOOGLEB03082_100_070,……嗯，人類找莫古有什麼事嗎庫啵？
-76,TEXT_FESVLT401_03082_MOOGLEB03082_000_071,想、想知道莫古放棄工作的理由嗎庫啵？<hex:02100103>那可是有很深的原因庫啵！
-77,TEXT_FESVLT401_03082_MOOGLEB03082_000_072,莫古們是對永結同心的誓約感到光榮才去工作的庫啵。<hex:02100103>但是這次的心緣鑑定莫古感受不到什麼心緣庫啵。<hex:02100103>只感到在被一味地說教庫啵。
-78,TEXT_FESVLT401_03082_MOOGLEB03082_000_073,莫古們的士氣一落千丈庫啵。<hex:02100103>莫古們偷懶也是沒有辦法的事情庫啵。<hex:02100103>就是這麼回事，請回去傳達給阿絲特麗德吧庫啵！
-79,TEXT_FESVLT401_03082_MOOGLEC03082_000_080,啊——能邊休息邊觀察著忙碌不停的人類，<hex:02100103>真是愉快愉快，莫古都快笑出來了庫啵。
-80,TEXT_FESVLT401_03082_MOOGLEC03082_100_080,嗯？有人類跟莫古搭話來了庫啵？！
-81,TEXT_FESVLT401_03082_MOOGLEC03082_000_081,想知道莫古為什麼休息庫啵？<hex:02100103>當然是不想幹活……沒有這事啦，<hex:02100103>只是阿絲特麗德的心緣鑑定活動存在問題庫啵。
-82,TEXT_FESVLT401_03082_MOOGLEC03082_000_082,那麼無聊的話，活動就根本沒意義了庫啵。<hex:02100103>鑑定心緣的過程<hex:02100103>就會讓永結同心的誓約產生裂痕的庫啵！
-83,TEXT_FESVLT401_03082_MOOGLEC03082_000_083,所以莫古的罷工也包含有抗議的意思庫啵。<hex:02100103>絕不是想偷懶才偷懶的，請你搞清楚這個問題庫啵！<hex:02100103>希望你能好好轉達給阿絲特麗德庫啵。
-84,TEXT_FESVLT401_03082_ASTRID_000_090,歡迎回來！<hex:02100103>請問你跟莫古力們談過了嗎？
-85,TEXT_FESVLT401_03082_ASTRID_000_091,我、我策劃的心緣鑑定活動的內容才是最根本的原因？！<hex:02100103>我為了愛那麼認真地想出來的方案，<hex:02100103>居然完全不行……怎麼會……
-86,TEXT_FESVLT401_03082_ASTRID_000_092,助、助手……我該怎麼辦啊？
-87,TEXT_FESVLT401_03082_Q1_000_000,如何作答？
-88,TEXT_FESVLT401_03082_A1_000_001,應該接受莫古力的建議
-89,TEXT_FESVLT401_03082_A1_000_002,應該無視莫古力的建議
-90,TEXT_FESVLT401_03082_ASTRID_000_100,接受莫古力們的建議，<hex:02100103>將問題進行改善就行了吧？！
-91,TEXT_FESVLT401_03082_ASTRID_000_101,如果愛情出現問題的話，那解決問題還得靠愛情傳道士，<hex:02100103>姐姐也曾經這麼說過！<hex:02100103>確實要是在這裡放棄的話，就不配當見習愛情傳道士呢！
-92,TEXT_FESVLT401_03082_ASTRID_000_110,你說莫古力們只是想偷懶才放棄工作的，<hex:02100103>所以不用採納他們的建議？！<hex:02100103>……不行，這樣的話就根本沒有任何進展……
-93,TEXT_FESVLT401_03082_ASTRID_000_111,助手和莫古力是在試探我的覺悟吧。<hex:02100103>放心吧……我絕不會放棄愛的！<hex:02100103>趕快對心緣鑑定的問題進行改善吧！
-94,TEXT_FESVLT401_03082_ASTRID_000_120,話是這麼說，但是莫古力們指出的問題點，<hex:02100103>像是說教而且還死板沒有意思……<hex:02100103>到底要怎麼樣才能改善呢？
-95,TEXT_FESVLT401_03082_HORTEFENSE_000_121,(-？？？？-)哎呀，阿絲特麗德和冒險者。<hex:02100103>不好意思，讓我聽到了你們的交談。
-96,TEXT_FESVLT401_03082_ASTRID_000_122,……你真的是很失禮啊，奧爾特芬斯。<hex:02100103>我又沒叫你來，還請你回到姐姐身邊去。
-97,TEXT_FESVLT401_03082_HORTEFENSE_000_123,請不要這樣嫌棄地對待和你姐姐……<hex:02100103>和莉賽特小姐永結同心的人啊。<hex:02100103>或許正因為和莉賽特小姐永結同心了，所以你才討厭我……
-98,TEXT_FESVLT401_03082_HORTEFENSE_000_124,嗨，不管了！<hex:02100103>既然你不搭理我，那我就把建議告訴冒險者吧。<hex:02100103>莫古力的事情就要去問莫古力才對……告辭了！
-99,TEXT_FESVLT401_03082_ASTRID_000_125,建議什麼的，真是多此一舉……<hex:02100103>但是不愉快歸不愉快，那傢伙說的倒是有道理。
-100,TEXT_FESVLT401_03082_ASTRID_000_126,在聖堂的聖歌隊擔任隊長的莫古力，<hex:02100103>庫普魯·庫姆應該在附近呢，找他商量商量吧。<hex:02100103>為了詳細說明情況，請助手你也一起過來。
-101,TEXT_FESVLT401_03082_LISETTE_000_130,阿絲特麗德為什麼那麼單方面地討厭奧爾特芬斯呢？
-102,TEXT_FESVLT401_03082_LISETTE_000_131,當然不是說奧爾特芬斯本身沒有一點問題。<hex:02100103>但他是個好人，在關鍵時刻也挺帥的，<hex:02100103>劍術又不錯，而且還很重視我……
-103,TEXT_FESVLT401_03082_LISETTE_000_132,……剛才這條算我沒說！<hex:02100103>你也什麼都沒聽到！<hex:02100103>全部給我忘掉！
-104,TEXT_FESVLT401_03082_HORTEFENSE_000_133,阿絲特麗德一直很討厭我，<hex:02100103>所以她就交給你了。
-105,TEXT_FESVLT401_03082_ASTRID_100_134,為了改善問題點，先跟庫普魯·庫姆商量一下吧。
-106,TEXT_FESVLT401_03082_KUPLUKUMU_000_140,庫啵？<hex:02100103>是阿絲特麗德和冒險者庫啵？<hex:02100103>找莫古有什麼事嗎庫啵？
-107,TEXT_FESVLT401_03082_ASTRID_000_141,其實是我負責的心緣鑑定活動出現了問題，<hex:02100103>所以想要找你商量一下。
-108,TEXT_FESVLT401_03082_KUPLUKUMU_000_142,原來如此庫啵。<hex:02100103>莫古也覺得心緣鑑定很可能會出問題庫啵。
-109,TEXT_FESVLT401_03082_ASTRID_000_143,果然是這樣啊……
-110,TEXT_FESVLT401_03082_KUPLUKUMU_000_144,雖然愛這種感情是非常重要且神聖的，<hex:02100103>但是對於每個人都有不一樣的形式，並沒有明確的答案庫啵！<hex:02100103>而且這種感情應該是讓人心跳不已……庫啵庫啵的庫啵！
-111,TEXT_FESVLT401_03082_ASTRID_000_145,雖然不知道你說的庫啵庫啵的是什麼……<hex:02100103>但心跳不已的那種感覺我還是能理解的。<hex:02100103>可是像我這樣只有認真是優點的人，怎能辦好那種快樂的活動……
-112,TEXT_FESVLT401_03082_KUPLUKUMU_000_146,呵呵呵庫啵。<hex:02100103>快樂的事情是莫古力最擅長的庫啵。<hex:02100103>莫古也來幫助你們解決問題庫啵！
-113,TEXT_FESVLT401_03082_ASTRID_000_147,非常感謝！
-114,TEXT_FESVLT401_03082_KUPLUKUMU_000_148,在幫忙之前，那幾個莫古力放棄工作可是個問題庫啵。<hex:02100103>那些傢伙在進行永結同心準備的時候也總是找借口偷懶庫啵。
-115,TEXT_FESVLT401_03082_KUPLUKUMU_000_150,應該是在和天上的莫古力一起玩時被帶壞了庫啵。<hex:02100103>看來需要給那些傢伙們一些教訓了庫啵……
-116,TEXT_FESVLT401_03082_KUPLUKUMU_000_160,如果只是對莫古造成的麻煩，那以後有的是時間算賬庫啵。<hex:02100103>但給人類都添麻煩了的話，<hex:02100103>是時候該給那些傢伙們一些教訓了庫啵……
-117,TEXT_FESVLT401_03082_KUPLUKUMU_000_170,莫古就先和阿絲特麗德討論改善問題的方法庫啵。<hex:02100103>冒險者就趁現在去把那些傢伙叫過來吧庫啵。
-118,TEXT_FESVLT401_03082_KUPLUKUMU_000_171,莫古覺得偷懶的莫古力們現在應該在製革匠公會附近偷懶呢庫啵。<hex:02100103>要是那些傢伙不配合的話，就對他們說「碾碎絨球」，保證管用庫啵！
-119,TEXT_FESVLT401_03082_MOOGLEB03082_000_180,莫古們並不是在偷懶庫啵。<hex:02100103>只是現在在養精蓄銳而已庫啵。<hex:02100103>從明天開始認真幹活庫啵。
-120,TEXT_FESVLT401_03082_MOOGLEC03082_000_181,就算莫古們休息了，世界也還是照樣轉庫啵。<hex:02100103>人生只要工作了就算輸了庫啵。
-121,TEXT_FESVLT401_03082_MOOGLEA03082_000_190,庫啵？！<hex:02100103>庫普魯·庫姆在叫莫古們過去庫啵？<hex:02100103>但、但是現在是休息時間，過一會再去庫啵……
-122,TEXT_FESVLT401_03082_Q2_000_000,要說什麼？
-123,TEXT_FESVLT401_03082_A2_000_001,阿絲特麗德想要解決問題
-124,TEXT_FESVLT401_03082_A2_000_002,碾碎絨球！
-125,TEXT_FESVLT401_03082_MOOGLEA03082_000_200,是真的嗎庫啵？<hex:02100103>那現在可不是偷懶的時候了庫啵！
-126,TEXT_FESVLT401_03082_MOOGLEA03082_000_210,哇——你在說什麼呢庫啵！<hex:02100103>這可是莫古力史上最恐怖最差勁的獵奇發言庫啵！<hex:02100103>莫古知道了庫啵，立刻就去庫啵！
-127,TEXT_FESVLT401_03082_MOOGLEA03082_000_220,工、工作幹得太多，全身疼啊庫啵，<hex:02100103>但是心情倒是有那麼點愉快庫啵……<hex:02100103>呼呼呼……勞動萬歲……庫啵……
-128,TEXT_FESVLT401_03082_MOOGLEB03082_000_221,要是1個月不讓莫古吃庫啵果，莫古絕對不要啊庫啵……<hex:02100103>為了庫啵果莫古要努力工作庫啵……<hex:02100103>工作庫啵……工作庫啵……工作……庫啵……
-129,TEXT_FESVLT401_03082_MOOGLEC03082_000_222,總算在冒險者過來之前完成了庫啵。<hex:02100103>也遵守了期限，不用受罰了庫啵。<hex:02100103>莫古要休息了，現在誰也沒法指責莫古了庫啵……呼……
-130,TEXT_FESVLT401_03082_ASTRID_000_230,啊，助手歡迎回來！<hex:02100103>多虧庫普魯·庫姆跟我一起進行了討論，<hex:02100103>我們順利完成了心緣鑑定的改善工作！
-131,TEXT_FESVLT401_03082_ASTRID_000_231,也多虧了趕回來的莫古力們玩命地工作，<hex:02100103>活動會場頃刻之間就已經布置好了！
-132,TEXT_FESVLT401_03082_ASTRID_000_232,庫普魯·庫姆說給莫古力們施加了能提起幹勁的咒語。<hex:02100103>真的好厲害啊，莫古力族的咒語！
-133,TEXT_FESVLT401_03082_ASTRID_000_233,這樣一來，新生心緣鑑定……<hex:02100103>其名為良緣儀式，已經準備完成！<hex:02100103>就差實際去試試看了……
-134,TEXT_FESVLT401_03082_ASTRID_100_233,作為幫助過我的助手，<hex:02100103>就請你第一個體驗一下！<hex:02100103>能拜託你嗎？！
-135,TEXT_FESVLT401_03082_ASTRID_000_234,謝謝你！<hex:02100103>想要前往會場的時候請和瓦倫提昂家的侍從交談，<hex:02100103>他會帶你過去的。
-136,TEXT_FESVLT401_03082_ASTRID_000_235,等你回來之後，<hex:02100103>就把最後交給你的<hex:02280BFF05>Item<hex:F257830103>拿給我確認一下，<hex:02100103>那就麻煩你了！
-137,TEXT_FESVLT401_03082_SYSTEM_000_236,可以挑戰良緣儀式了！<hex:02100103>和米·凱特露天劇場<hex:02100103>或新街橡子樂園的瓦倫提昂家的侍從對話後可以參加任務。
-138,TEXT_FESVLT401_03082_SYSTEM_000_237,良緣儀式是2人小隊參加的季節活動任務。<hex:02100103>無等級限制，可以使用任意戰鬥職業進行挑戰。
-139,TEXT_FESVLT401_03082_SYSTEM_000_238,如果單獨進行任務參加申請的話，<hex:02100103>系統會自動匹配，組成2人小隊進行挑戰。
-140,TEXT_FESVLT401_03082_ASTRID_000_240,助手，我一直在等你回來！<hex:02100103>良緣儀式怎麼樣啊？
-141,TEXT_FESVLT401_03082_ASTRID_000_241,……這是<hex:02280BFF05>Item<hex:F257830103>啊。<hex:02100103>看你的樣子應該是沒什麼問題了。<hex:02100103>那麼就趕緊面向公眾開放吧！
-142,TEXT_FESVLT401_03082_ASTRID_000_242,不知道市民們是否會對活動感到滿意，我實在有點不安……<hex:02100103>但是有助手你和莫古力們的幫忙，肯定會一切順利的！
-143,TEXT_FESVLT401_03082_ASTRID_000_243,哈哈……我已經沒事了。<hex:02100103>謝謝助手你的幫忙！
-144,TEXT_FESVLT401_03082_HORTEFENSE_000_250,看來阿絲特麗德的心緣鑑定進展的很順利啊。<hex:02100103>這也是多虧了冒險者的幫忙，真是非常感謝你！
-145,TEXT_FESVLT401_03082_ASTRID_000_251,不知道市民們是否會對活動感到滿意，我實在有點不安……<hex:02100103>應該會一切順利的！謝謝助手你的幫忙！
-146,TEXT_FESVLT401_03082_LISETTE_000_260,辛苦你了冒險者！<hex:02100103>看來你為了阿絲特麗德四處奔波來著呢！<hex:02100103>具體做了什麼講給我聽聽好嗎？
-147,TEXT_FESVLT401_03082_LISETTE_000_261,哎——真是的總算解決了啊。<hex:02100103>給你也添麻煩了。<hex:02100103>謝謝你幫我。
-148,TEXT_FESVLT401_03082_LISETTE_000_262,你真是木訥啊……現在我不是作為「小莉」，<hex:02100103>而是作為莉賽特·德·瓦倫提昂個人，<hex:02100103>在向你道謝。
-149,TEXT_FESVLT401_03082_LISETTE_000_263,我也曾想過不靠你，自己去幫助阿絲特麗德，<hex:02100103>但那孩子畢竟是「小莉」的繼承人候補……<hex:02100103>我不能總是去伸手幫她。
-150,TEXT_FESVLT401_03082_LISETTE_000_264,雖然給你添麻煩了，<hex:02100103>但是對於那個孩子來說是一次難得的經驗。<hex:02100103>……她將來一定會成為優秀的愛情傳道士吧。
-151,TEXT_FESVLT401_03082_ASTRID_000_265,姐姐、姐姐，我來進行報告了！
-152,TEXT_FESVLT401_03082_LISETTE_000_266,不、行、啦——阿絲特麗德！<hex:02100103>冒險者也在呢，要叫人家小莉才對呀！
-153,TEXT_FESVLT401_03082_ASTRID_000_267,對、對不起，小莉！<hex:02100103>但助手也在的話正好。
-154,TEXT_FESVLT401_03082_ASTRID_000_268,小莉交給我舉辦的心緣鑑定活動，<hex:02100103>在向公眾開放以後，大家都很喜歡，<hex:02100103>贏得了一致好評！
-155,TEXT_FESVLT401_03082_LISETTE_000_269,……呵呵，太好了！<hex:02100103>這樣一來你也從見習畢業了呢！
-156,TEXT_FESVLT401_03082_ASTRID_000_270,是真的嗎？姐姐！
-157,TEXT_FESVLT401_03082_LISETTE_000_271,我已經從冒險者那裡聽說了，<hex:02100103>聽說你得到了很多的幫助？<hex:02100103>那麼在最後，作為愛情傳道士怎能不道謝呢！
-158,TEXT_FESVLT401_03082_ASTRID_000_272,嗯，謝謝你的幫忙……
-159,TEXT_FESVLT401_03082_ASTRID_000_273,……咳咳。<hex:02100103>助手謝謝你的幫忙啦！<hex:02100103>今後也請多關照愛情傳道士阿絲啦！
+0,"TEXT_FESVLT401_03082_SEQ_00","Lisette de Valentione requires help with a matter close to her heart.<hex:02100103>※This quest is available for a limited time only."
+1,"TEXT_FESVLT401_03082_SEQ_01","Valentione's Day, that celebration of ardor and affection, is come to Eorzea once more, and the indomitable Lisette de Valentione has returned to spread the message of love across the land. This year, she and her crew are collaborating with the Sanctum of the Twelve to deliver an all-new experience in matchmaking, and she cordially invites you to participate before seamlessly transitioning into a request. She asks that you lend a hand to a trainee named Astrid, whom she worries is too sober and rational to discharge her duties. If you have a mind to oblige, you will find the girl nearby at Mih Khetto's Amphitheatre.<hex:02100103><hex:02100103>※Please note that you will be unable to complete this quest after the seasonal event has ended. For details, please check the Lodestone."
+2,"TEXT_FESVLT401_03082_SEQ_02","A few sentences into your acquaintance, Astrid reveals that her preparation for the affinity test has stalled. The three moogles tasked with setting up the venue have abandoned their work, and at this rate the event cannot begin. It falls to you to seek out the moogles and discover the reason behind their untimely desertion."
+3,"TEXT_FESVLT401_03082_SEQ_03","You speak with each of the moogles in turn, and they all blame their lack of motivation on Astrid's affinity test, which they complain is “stiff and dry,” “all remonstrance and no romance,” and “dull and uninspired.” Yet in spite of their insistence─or perhaps because of it─you cannot shake the sense that laziness is also a factor. Thus informed, you turn your steps back to Astrid."
+4,"TEXT_FESVLT401_03082_SEQ_04","Astrid is distraught to learn that her affinity test is looked upon so unfavorably by her own helpers. Nevertheless, she is determined to rectify the issues raised and make the test fit for public enjoyment. Here, Hortefense shamelessly maneuvers himself into the conversation and suggests that you turn to a moogle for advice. Though loath to accept any sort of help from her brother-in-law, Astrid concedes that he speaks true, and together you set off to find Kuplu Kumu, the leader of the Sanctum choir."
+5,"TEXT_FESVLT401_03082_SEQ_05","Upon being apprised of the situation, Kuplu Kumu confesses that he had anticipated a problem with the affinity test. Whereas Astrid attempted to bring tangibility to love, love is anything but tangible. From the moogle's words, Astrid comes to understand that what her test needs is a dose of fun. While she and Kuplu Kumu discuss ways to improve it, you are tasked with rounding up the three lazy moogles. They are like to be found over by the Leatherworkers' Guild, their preferred place for being unproductive."
+6,"TEXT_FESVLT401_03082_SEQ_06","Though initially uncooperative, the moogles respond well to your magic words. Together they flutter off back to Mih Khetto's Amphitheatre, and you follow in their wingbeats."
+7,"TEXT_FESVLT401_03082_SEQ_07","Astrid happily reports that, thanks to Kuplu Kumu's input, her affinity test has been brought up to acceptable standards of fun. Furthermore, the three moogles have returned and promptly completed their work on the venue. All that remains, then, is to have a couple actually trial the test, henceforth known as the Valentione's Ceremony, and Astrid would have you and your chosen partner do the honors. When you are ready, the House Valentione servant will escort you to the venue. At the ceremony's conclusion, you will receive a Valentione's Day chocolate, which Astrid bids you bring to her."
+8,"TEXT_FESVLT401_03082_SEQ_08","The trial ceremony is concluded, and you return to Astrid with the Valentione's Day chocolate. Satisfied with the results, she declares the ceremony ready to be opened to the public. Offering you her heartfelt thanks, Astrid assures you that she will be fine from here on. Your work is done; time to report back to Lisette."
+9,"TEXT_FESVLT401_03082_SEQ_09","Lisette is pleased to hear that all has gone well with her little sister, whom she wishes to be independent. And when Astrid returns with news of the ceremony's positive reception, Lisette takes the opportunity to declare her traineeship complete. Astrid's experiences this day will doubtless make her into a fine emissary, and you take pride in the knowledge that you were a part of her journey. May she succeed in her mission to till the fields of love within people's hearts."
+10,"TEXT_FESVLT401_03082_SEQ_10",""
+11,"TEXT_FESVLT401_03082_SEQ_11",""
+12,"TEXT_FESVLT401_03082_SEQ_12",""
+13,"TEXT_FESVLT401_03082_SEQ_13",""
+14,"TEXT_FESVLT401_03082_SEQ_14",""
+15,"TEXT_FESVLT401_03082_SEQ_15",""
+16,"TEXT_FESVLT401_03082_SEQ_16",""
+17,"TEXT_FESVLT401_03082_SEQ_17",""
+18,"TEXT_FESVLT401_03082_SEQ_18",""
+19,"TEXT_FESVLT401_03082_SEQ_19",""
+20,"TEXT_FESVLT401_03082_SEQ_20",""
+21,"TEXT_FESVLT401_03082_SEQ_21",""
+22,"TEXT_FESVLT401_03082_SEQ_22",""
+23,"TEXT_FESVLT401_03082_SEQ_23",""
+24,"TEXT_FESVLT401_03082_TODO_00","Speak with Astrid."
+25,"TEXT_FESVLT401_03082_TODO_01","Find the missing moogles."
+26,"TEXT_FESVLT401_03082_TODO_02","Report to Astrid."
+27,"TEXT_FESVLT401_03082_TODO_03","Speak with Kuplu Kumu."
+28,"TEXT_FESVLT401_03082_TODO_04","Speak with the slack moogle."
+29,"TEXT_FESVLT401_03082_TODO_05","Speak with Astrid."
+30,"TEXT_FESVLT401_03082_TODO_06","Complete the Valentione's Ceremony and show the Valentione's Day chocolate to Astrid."
+31,"TEXT_FESVLT401_03082_TODO_07","Report to Lisette."
+32,"TEXT_FESVLT401_03082_TODO_08",""
+33,"TEXT_FESVLT401_03082_TODO_09",""
+34,"TEXT_FESVLT401_03082_TODO_10",""
+35,"TEXT_FESVLT401_03082_TODO_11",""
+36,"TEXT_FESVLT401_03082_TODO_12",""
+37,"TEXT_FESVLT401_03082_TODO_13",""
+38,"TEXT_FESVLT401_03082_TODO_14",""
+39,"TEXT_FESVLT401_03082_TODO_15",""
+40,"TEXT_FESVLT401_03082_TODO_16",""
+41,"TEXT_FESVLT401_03082_TODO_17",""
+42,"TEXT_FESVLT401_03082_TODO_18",""
+43,"TEXT_FESVLT401_03082_TODO_19",""
+44,"TEXT_FESVLT401_03082_TODO_20",""
+45,"TEXT_FESVLT401_03082_TODO_21",""
+46,"TEXT_FESVLT401_03082_TODO_22",""
+47,"TEXT_FESVLT401_03082_TODO_23",""
+48,"TEXT_FESVLT401_03082_LISETTE_000_000","Greetings, adventurer. Are you a lonely soul yearning for affection, or blissfully bonded to your beloved? Mayhap somewhere in between, or nowhere at all? Well, however you should identify, I, Lisette de Valentione, wish you all the blessings of love this Valentione's Day!"
+49,"TEXT_FESVLT401_03082_LISETTE_000_010","...Oh, 'tis you, dear friend! You have grown even more fetching since last we met, it took me a moment to recognize you. I am not surprised that fate should reunite us so, yet know that I am no less pleased for it."
+50,"TEXT_FESVLT401_03082_LISETTE_000_020","As you can see, the festivities are in full swing. Would that my esteemed ancestor, Lady Arabelle, could be here to witness the fruits of her legacy. A legacy born of the simplest of truths: all are deserving of ardor and affection."
+51,"TEXT_FESVLT401_03082_LISETTE_000_021","To ensure that her spirit lives on, my faithful retainers and I have journeyed forth from frosty Ishgard, that we might instill hearts the realm over with the warmth of truest love."
+52,"TEXT_FESVLT401_03082_LISETTE_000_022","And this year, I am proud to say that we have joined hands with the Sanctum of the Twelve, those purveyors of eternal love─a union forged in the very heavens!"
+53,"TEXT_FESVLT401_03082_LISETTE_000_023","For our inaugural collaboration, we are offering couples the chance to test their affinity for one another. I cordially invite you to participate with the object of your ardor and affection!"
+54,"TEXT_FESVLT401_03082_LISETTE_000_024","...And here is where I send most people on their way. But you are not most people. Nay, for a capable adventurer such as you, I have a special request."
+55,"TEXT_FESVLT401_03082_LISETTE_000_025","You see, this year I've brought a trainee to help with the event, but she herself would benefit from some help."
+56,"TEXT_FESVLT401_03082_LISETTE_000_026","Her name is Astrid, and she is a little bit too...sober. Too rational. Yet where love is concerned, there is no surer guide than one's heart. Is this not so?"
+57,"TEXT_FESVLT401_03082_LISETTE_000_027","I should be grateful if you would watch over her and lend her a hand when necessary. Oh, and pray keep the fact that you act at my behest between us."
+58,"TEXT_FESVLT401_03082_LISETTE_000_030","Remember, her name is Astrid. Pray watch over her and lend her a hand when necessary."
+59,"TEXT_FESVLT401_03082_HORTEFENSE_000_031","Well met, my friend. I believe my lady fairest has tasked you with watching over Astrid."
+60,"TEXT_FESVLT401_03082_HORTEFENSE_000_032","I myself tried to help the lass, but she was not welcoming of my assistance, and that is putting it rather mildly. I wish you better luck than I had."
+61,"TEXT_FESVLT401_03082_ASTRID_000_040","Oh, what am I to do? Sister placed her faith in me. I can't afford to fail. But at this rate..."
+62,"TEXT_FESVLT401_03082_ASTRID_000_041","Eeeeeek! Er...I mean, if you're here for the affinity test, I'm afraid we aren't quite ready yet."
+63,"TEXT_FESVLT401_03082_ASTRID_000_042","No, wait. You're one of those adventurers, aren't you? Sister says that you and yours are ever willing to aid those in need. Well, I'm in direst need of aid right now!"
+64,"TEXT_FESVLT401_03082_ASTRID_000_043","You see, I've been charged with devising and organizing a new affinity test for the Valentione's Day celebration, but there's been a little problem..."
+65,"TEXT_FESVLT401_03082_ASTRID_000_044","Oh, who am I fooling? It's a huge problem! The moogles tasked with setting up the venue have all abandoned me, muttering moogle profanities as they fluttered off."
+66,"TEXT_FESVLT401_03082_ASTRID_000_045","I know not what I did to offend them. I only wished to do my part for the event─for love."
+67,"TEXT_FESVLT401_03082_ASTRID_000_046","I'm at a loss, adventurer. I beg you, find the moogles for me. And when you do, ask them what caused them to leave."
+68,"TEXT_FESVLT401_03082_ASTRID_000_050","Please hurry and find the moogles for me. And when you do, ask them what caused them to leave."
+69,"TEXT_FESVLT401_03082_MOOGLEA03082_000_060","Ahhh, this is more like it. Working too much─no, working <hex:021A020203>at all<hex:021A020103> is bad for the heart. Sometimes you just have to say, “Bugger this, I'm going home!”"
+70,"TEXT_FESVLT401_03082_MOOGLEA03082_100_060","...Uwaaah! Wh-What is it, kupo!?"
+71,"TEXT_FESVLT401_03082_MOOGLEA03082_000_061","Astrid wants to know why we up and left? First things first: lest there be any misunderstandings, what I said just now was─ahem─just a jest. We're definitely not being slack, kupo."
+72,"TEXT_FESVLT401_03082_MOOGLEA03082_000_062","On the contrary, we care about the event. A lot. So when we saw what was being planned for the affinity test, well, we simply couldn't abide by it. It's all so stiff and dry, cracks are like to form between couples, kupo."
+73,"TEXT_FESVLT401_03082_MOOGLEA03082_000_063","We wanted no part of that, and that's why we left. You can say as much to Astrid, kupo."
+74,"TEXT_FESVLT401_03082_MOOGLEB03082_000_070","<munch> <munch> Mmmmmm, if there's one thing that tastes better than kupo nuts you've earned, it's kupo nuts you <hex:021A020203>haven't<hex:021A020103> earned."
+75,"TEXT_FESVLT401_03082_MOOGLEB03082_100_070","...Hm? You need something, kupo?"
+76,"TEXT_FESVLT401_03082_MOOGLEB03082_000_071","Astrid sent you, did she? Doesn't understand why we abandoned her? Well, the reason's quite complicated, kupo."
+77,"TEXT_FESVLT401_03082_MOOGLEB03082_000_072","We moogles were working hard. No, really─we were toiling our little wings off in the name of eternal love. But we had no confidence in Astrid's affinity test, kupo."
+78,"TEXT_FESVLT401_03082_MOOGLEB03082_000_073","No, her approach was all remonstrance and no romance. You can't expect couples to get in the mood for love that way, nor us to get in the mood for work. I'm motivationally challenged as it is, and this didn't help matters, kupo."
+79,"TEXT_FESVLT401_03082_MOOGLEC03082_000_080","<sigh> Is there a finer feeling than taking a nap while people around you work? Look at the poor fools, scurrying about, day in and day out. All that vain effort makes me want to laugh, kupohoho... Kupohohoho─!"
+80,"TEXT_FESVLT401_03082_MOOGLEC03082_100_080","...Er, can I help you?"
+81,"TEXT_FESVLT401_03082_MOOGLEC03082_000_081","What, Astrid wishes to know why we abandoned our work? Why, it's because we couldn't be bothe─ahem, I mean, her affinity test is the problem, kupo."
+82,"TEXT_FESVLT401_03082_MOOGLEC03082_000_082","It's so dull and uninspired, couples are liable to fall asleep on the spot. Now, I'm usually all for sleep, but even I know that isn't the time and place for it, kupo."
+83,"TEXT_FESVLT401_03082_MOOGLEC03082_000_083","Seeing this, we decided to leave. It's our way of protesting. And if we get to laze about in the bargain, well then, it's two birds with one stone!<hex:02100103>...It's mostly about the protest, though. Make sure Astrid knows that, kupo."
+84,"TEXT_FESVLT401_03082_ASTRID_000_090","There you are! Were you able to find the moogles? What did they have to say?"
+85,"TEXT_FESVLT401_03082_ASTRID_000_091","What? My affinity test...is to blame? But I poured my heart into it. That it should be so terrible as to drive our helpers away..."
+86,"TEXT_FESVLT401_03082_ASTRID_000_092","Oh, whatever should I do?"
+87,"TEXT_FESVLT401_03082_Q1_000_000","What will you say?"
+88,"TEXT_FESVLT401_03082_A1_000_001","Heed the moogles."
+89,"TEXT_FESVLT401_03082_A1_000_002","Ignore the moogles."
+90,"TEXT_FESVLT401_03082_ASTRID_000_100","So you agree with the moogles' assessment, and I should try to address the issues they raised?"
+91,"TEXT_FESVLT401_03082_ASTRID_000_101","Yes... Yes! Sister has ever said that, wherever there is an obstacle to love, it falls to us to clear the way. And if my own test poses an obstacle, then by the Fury, I will improve it!"
+92,"TEXT_FESVLT401_03082_ASTRID_000_110","So you think the moogles are simply making excuses for their laziness, and I should ignore their words? Even so, this gets us nowhere..."
+93,"TEXT_FESVLT401_03082_ASTRID_000_111","...Wait. You're testing my resolve, aren't you? Well, know that I shan't give up on love so easily! The moogles have the right of it, I can see that now. My affinity test is far from ideal, and by the Fury, I will improve it!"
+94,"TEXT_FESVLT401_03082_ASTRID_000_120","So, um...how should I go about this? Let's see: there was “stiff and dry” and “all remonstrance and no romance” and “dull and uninspired.” There are so many issues, I'm not sure where to begin..."
+95,"TEXT_FESVLT401_03082_HORTEFENSE_000_121","(-???-)Ahem! Pray forgive me, but I chanced to be passing by, and couldn't help but overhear your conversation."
+96,"TEXT_FESVLT401_03082_ASTRID_000_122","Hmph, a likely story. As I've said a dozen times, Hortefense, your opinion is not needed. Scurry back to Sister."
+97,"TEXT_FESVLT401_03082_HORTEFENSE_000_123","Now, now, is that any tone of voice to take with your brother-in-law? You must know that I only have your best interests at heart."
+98,"TEXT_FESVLT401_03082_HORTEFENSE_000_124","But I am not one to overstay my welcome. I take my leave...and leave with our adventurer friend a piece of advice. For problems pertaining to moogles, one would do well to consult a moogle."
+99,"TEXT_FESVLT401_03082_ASTRID_000_125","He just can't help himself. Yet, loath though I am to admit it, he's right. It's best that we consult a moogle."
+100,"TEXT_FESVLT401_03082_ASTRID_000_126","Kuplu Kumu is nearby. He's the leader of the Sanctum choir. Let us go and seek his advice."
+101,"TEXT_FESVLT401_03082_LISETTE_000_130","I know not why Astrid dislikes Hortefense so. He is far from perfect, to be sure, but the bad is far outweighed by the good."
+102,"TEXT_FESVLT401_03082_LISETTE_000_131","He is possessed of a good heart. And a handsome face. And a toned body. And I'd be remiss not to mention his skillful swordsmanship, and I speak not only of combat, mmmmmm..."
+103,"TEXT_FESVLT401_03082_LISETTE_000_132","<cough> <sputter> Y-You didn't hear any of that!"
+104,"TEXT_FESVLT401_03082_HORTEFENSE_000_133","As you have witnessed, Astrid does not take kindly to my...existence. Prithee look after her in my stead."
+105,"TEXT_FESVLT401_03082_ASTRID_100_134","This is Kuplu Kumu. Let us ask him for his advice."
+106,"TEXT_FESVLT401_03082_KUPLUKUMU_000_140","Well, if it isn't young Astrid. And I see you have brought a friend. Is there something you require, kupo?"
+107,"TEXT_FESVLT401_03082_ASTRID_000_141","Yes, Kuplu Kumu. I seek your counsel with regards to my affinity test."
+108,"TEXT_FESVLT401_03082_KUPLUKUMU_000_142","I see, I see. Truth be told, I had anticipated such a problem, kupo."
+109,"TEXT_FESVLT401_03082_ASTRID_000_143","You did? <sigh> It seems everyone foresaw issues except me..."
+110,"TEXT_FESVLT401_03082_KUPLUKUMU_000_144","Do not be hard on yourself. You meant well in trying to bring tangibility to love. Yet love is anything but tangible, kupo. No, it transcends the rational, living in our hearts rather than our heads, assuming as many forms as there are couples. It is that which evokes fuzzy-wuzzy feelings of excitation and─and <hex:021A020203>kupolation<hex:021A020103>, kupo."
+111,"TEXT_FESVLT401_03082_ASTRID_000_145","Excitation, I understand. Kupolation...not so much. But it's beginning to become clear to me now. What my affinity test needs is a dose of fun. And yet, fun has never been my forte. I'm afraid my definition of the word would fall flat with others."
+112,"TEXT_FESVLT401_03082_KUPLUKUMU_000_146","Well, it just so happens that we moogles are the foremost authorities on fun and frivolity! I will help you, kupo!"
+113,"TEXT_FESVLT401_03082_ASTRID_000_147","Truly!? Thank you so much!"
+114,"TEXT_FESVLT401_03082_KUPLUKUMU_000_148","Now then, we must also do something about those three layabouts. Their indolent ways are well known to me. Even at the Sanctum, they find excuses to avoid work at every turn, kupo."
+115,"TEXT_FESVLT401_03082_KUPLUKUMU_000_150","I suspect they have learned some bad habits from our sky-dwelling brethren. A spot of punishment wouldn't go astray, kupo."
+116,"TEXT_FESVLT401_03082_KUPLUKUMU_000_160","Their behavior reflects poorly upon our kind and cannot be tolerated. A spot of punishment wouldn't go astray, kupo."
+117,"TEXT_FESVLT401_03082_KUPLUKUMU_000_170","Adventurer, I will discuss how to improve the affinity test with Astrid. Meanwhile, will you go and round up the three moogles, kupo?"
+118,"TEXT_FESVLT401_03082_KUPLUKUMU_000_171","They will be over by the Leatherworkers' Guild, their preferred place for being unproductive. If you find them uncooperative, just say that you will squash their poms, kupo."
+119,"TEXT_FESVLT401_03082_MOOGLEB03082_000_180","We're not being lazy, we're conserving our motivation. Should have enough saved up by tomorrow. No wait, make that next week. Safer to err on the side of conservative, kupo."
+120,"TEXT_FESVLT401_03082_MOOGLEC03082_000_181","Work is for the weak, sleep is for the strong. You're strong like me, so you should understand this, kupo."
+121,"TEXT_FESVLT401_03082_MOOGLEA03082_000_190","The chief summoned us, you say!? But...we're busy at the moment. Yes, lots of dawdling and dallying to do. We'll go a little later, kupo."
+122,"TEXT_FESVLT401_03082_Q2_000_000","What will you say?"
+123,"TEXT_FESVLT401_03082_A2_000_001","Astrid means to take your advice. "
+124,"TEXT_FESVLT401_03082_A2_000_002","Come right now, or I'll squash your poms."
+125,"TEXT_FESVLT401_03082_MOOGLEA03082_000_200","Really? She took our advice to heart? Well then, we have work to do! Let's go, kupo!"
+126,"TEXT_FESVLT401_03082_MOOGLEA03082_000_210","Nooo, not the pom! Anything but the pom! We'll go at once, kupo!"
+127,"TEXT_FESVLT401_03082_MOOGLEA03082_000_220","<pant> Never worked...so hard in my life... <pant> But it felt sort of good, kupo..."
+128,"TEXT_FESVLT401_03082_MOOGLEB03082_000_221","The chief threatened to withhold our kupo nuts for a month. A <hex:021A020203>month<hex:021A020103>! I...I did what I had to do, kupo... <sob>"
+129,"TEXT_FESVLT401_03082_MOOGLEC03082_000_222","My work is done, kupo... Now I shall slumber for all eternity... Zzzzzzzzz..."
+130,"TEXT_FESVLT401_03082_ASTRID_000_230","Ah, there you are! I'm pleased to say that, with Kuplu Kumu's sage counsel, we've managed to bring the affinity test up to acceptable standards of fun!"
+131,"TEXT_FESVLT401_03082_ASTRID_000_231","Moreover, the three moogles returned and resumed setting up the venue. They worked with such enthusiasm, all was made ready in the blinking of an eye!"
+132,"TEXT_FESVLT401_03082_ASTRID_000_232","Kuplu Kumu tells me he cast an enchantment on them that bestows motivation. Such practical magicks the moogles have!"
+133,"TEXT_FESVLT401_03082_ASTRID_000_233","Now then, all that remains is to have a couple actually trial the affinity test."
+134,"TEXT_FESVLT401_03082_ASTRID_100_233","Adventurer, I could not have come this far without your help. Would you and your chosen do the honor of being the first souls to undertake the Valentione's Ceremony?"
+135,"TEXT_FESVLT401_03082_ASTRID_000_234","Thank you! When you are ready, let the House Valentione servant yonder know, and you shall be escorted to the venue."
+136,"TEXT_FESVLT401_03082_ASTRID_000_235","At the ceremony's conclusion, you will receive a Valentione's Day chocolate. Be sure to return hither and show it to me."
+137,"TEXT_FESVLT401_03082_SYSTEM_000_236","You now have access to the Valentione's Ceremony seasonal instance! To enter the venue, speak with the House Valentione servant at Mih Khetto's Amphitheatre."
+138,"TEXT_FESVLT401_03082_SYSTEM_000_237","The Valentione's Ceremony is an instance designed for a party of two. There are no class, job, or level requirements for participation."
+139,"TEXT_FESVLT401_03082_SYSTEM_000_238","In the event that you register for the ceremony alone, your partner will be found via the matching system."
+140,"TEXT_FESVLT401_03082_ASTRID_000_240","You're back! Have...have you completed the ceremony?"
+141,"TEXT_FESVLT401_03082_ASTRID_000_241","...A Valentione's Day chocolate! Everything went smoothly, then? Excellent! With this, the ceremony is ready to be opened to the public!"
+142,"TEXT_FESVLT401_03082_ASTRID_000_242","If truth be told, I shall be a nervous wreck until the festivities come to a close. But I have confidence that the ceremony will be a success. How could it not be, with the assistance I've received from you and the moogles both?"
+143,"TEXT_FESVLT401_03082_ASTRID_000_243","I shall be fine by myself from here on. Thank you, adventurer. For everything."
+144,"TEXT_FESVLT401_03082_HORTEFENSE_000_250","Full glad am I to see that Astrid's efforts have borne fruit, and it was doubtless in no small part due to you. Allow me to offer you my heartfelt thanks."
+145,"TEXT_FESVLT401_03082_ASTRID_000_251","I have confidence that the ceremony will be a success. Thank you, adventurer. For everything."
+146,"TEXT_FESVLT401_03082_LISETTE_000_260","Ah, welcome back, my friend. I understand you have been kept on your feet, but the road of love was ever a long and winding one. Now, pray do not keep me in suspense─tell me how Astrid fared."
+147,"TEXT_FESVLT401_03082_LISETTE_000_261","Well, that's a godsdamned relief. Well-intentioned as she is, the girl can be a right pain in the arse. I'd say I'm sorry for subjecting you to her quirks, but I'm not. I knew you would guide her true, and I shall leave it at a thank you."
+148,"TEXT_FESVLT401_03082_LISETTE_000_262","...What? Can't a woman let her mask slip from time to time? It's weary business, you know, this Valentione's Day thing."
+149,"TEXT_FESVLT401_03082_LISETTE_000_263","That's not why I thrust Astrid on you, though. No, I would've liked to help her myself, but I can't be there to prop her up forever. No, she needs to learn how to survive without me."
+150,"TEXT_FESVLT401_03082_LISETTE_000_264","Though you ended up shouldering much of the burden, I reckon Astrid has learned a great deal from her experience. Given time, she'll make a fine emissary."
+151,"TEXT_FESVLT401_03082_ASTRID_000_265","Sister, Sister! I have tidings!"
+152,"TEXT_FESVLT401_03082_LISETTE_000_266","Sister? Who is this sister? My name is Lisette de Valentione, and my mission is to spread boundless love across the land!"
+153,"TEXT_FESVLT401_03082_ASTRID_000_267","Oh...er, right! F-Forgive me, Lisette. If it please you, I wish to make a report on the affinity test."
+154,"TEXT_FESVLT401_03082_ASTRID_000_268","The people are participating in droves, and by all accounts, they are enjoying themselves tremendously. Full many couples are said to be departing the venue flush with excitement, love writ plain upon their faces."
+155,"TEXT_FESVLT401_03082_LISETTE_000_269","Well, I believe we may declare the event a rousing success! This is proof positive of your progress, my dear. There is naught more for me to teach you. Your traineeship is complete."
+156,"TEXT_FESVLT401_03082_ASTRID_000_270","T-Truly!?"
+157,"TEXT_FESVLT401_03082_LISETTE_000_271","Now, I understand you owe much and more to our adventurer friend here. Do remember to express your gratitude. And even if you already have, no one has ever died from a glut of appreciation, is this not so?"
+158,"TEXT_FESVLT401_03082_ASTRID_000_272","Thank you for your kind help, adventurer."
+159,"TEXT_FESVLT401_03082_ASTRID_000_273","Er... K-Kind and fair adventurer, you have helped me more than you shall ever know. W-With every fiber of my being, I thank you, and...er, p-pray for your continued support as I strive to...to till the fields of love within people's hearts!"

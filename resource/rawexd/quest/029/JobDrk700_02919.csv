@@ -2,170 +2,170 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_JOBDRK700_02919_SEQ_00,忘憂騎士亭的希德勒格正在等待密斯托回來。
-1,TEXT_JOBDRK700_02919_SEQ_01,決定和希德勒格、莉艾勒一起尋找密斯托的蹤跡。在神拳痕收集情報。
-2,TEXT_JOBDRK700_02919_SEQ_02,收集了有關密斯托的情報。和神拳痕的希德勒格匯合。
-3,TEXT_JOBDRK700_02919_SEQ_03,和希德勒格匯合，決定去追密斯托。和基拉巴尼亞山區啟程迴廊的希德勒格談談。
-4,TEXT_JOBDRK700_02919_SEQ_04,和希德勒格進行了交談，決定分頭尋找密斯托。在基拉巴尼亞山區林梢附近的<hex:02280CFF05>EObj<hex:F61EA65D0103>進行張望。
-5,TEXT_JOBDRK700_02919_SEQ_05,沒有發現密斯托的蹤跡。和啟程迴廊南邊的希德勒格談談。
-6,TEXT_JOBDRK700_02919_SEQ_06,希德勒格他們被力量增強了的密斯托襲擊了。和弗雷齊心協力擊退了擁有了實體的強敵們。和啟程迴廊附近的密斯托談談。
-7,TEXT_JOBDRK700_02919_SEQ_07,接受了密斯托的心意。和伊修加德忘憂騎士亭的希德勒格談談。
-8,TEXT_JOBDRK700_02919_SEQ_08,和希德勒格進行了交談。最後，前往伊修加德終衛要塞的<hex:02280CFF05>EObj<hex:F61EA7350103>。
-9,TEXT_JOBDRK700_02919_SEQ_09,在<hex:02280CFF05>EObj<hex:F61EA7350103>遇見了埃德蒙。就算會失去，暗黑騎士依然會繼續前進，保護別人。而相伴其身的，則是愛。將密斯托的心意謹記於心，今後繼續用這把大劍斬斷悲傷和別離。<hex:02100103><hex:02100103>※滿足下列條件後，可以從忘憂騎士亭的希德勒格那裡領取新的特職任務。<hex:02100103>1.完成「暗影之逆焰主線任務」中「暗影之逆焰」。<hex:02100103>2.完成防護職業的「職能任務：暗影之章」。
-10,TEXT_JOBDRK700_02919_SEQ_10,
-11,TEXT_JOBDRK700_02919_SEQ_11,
-12,TEXT_JOBDRK700_02919_SEQ_12,
-13,TEXT_JOBDRK700_02919_SEQ_13,
-14,TEXT_JOBDRK700_02919_SEQ_14,
-15,TEXT_JOBDRK700_02919_SEQ_15,
-16,TEXT_JOBDRK700_02919_SEQ_16,
-17,TEXT_JOBDRK700_02919_SEQ_17,
-18,TEXT_JOBDRK700_02919_SEQ_18,
-19,TEXT_JOBDRK700_02919_SEQ_19,
-20,TEXT_JOBDRK700_02919_SEQ_20,
-21,TEXT_JOBDRK700_02919_SEQ_21,
-22,TEXT_JOBDRK700_02919_SEQ_22,
-23,TEXT_JOBDRK700_02919_SEQ_23,
-24,TEXT_JOBDRK700_02919_TODO_00,在神拳痕收集情報
-25,TEXT_JOBDRK700_02919_TODO_01,和希德勒格匯合
-26,TEXT_JOBDRK700_02919_TODO_02,和啟程迴廊的希德勒格對話
-27,TEXT_JOBDRK700_02919_TODO_03,在<hex:02280CFF05>EObj<hex:F61EA65D0103>張望
-28,TEXT_JOBDRK700_02919_TODO_04,和希德勒格對話
-29,TEXT_JOBDRK700_02919_TODO_05,和希德勒格對話
-30,TEXT_JOBDRK700_02919_TODO_06,和伊修加德的希德勒格對話
-31,TEXT_JOBDRK700_02919_TODO_07,前往終衛要塞的<hex:02280CFF05>EObj<hex:F61EA7350103>
-32,TEXT_JOBDRK700_02919_TODO_08,
-33,TEXT_JOBDRK700_02919_TODO_09,
-34,TEXT_JOBDRK700_02919_TODO_10,
-35,TEXT_JOBDRK700_02919_TODO_11,
-36,TEXT_JOBDRK700_02919_TODO_12,
-37,TEXT_JOBDRK700_02919_TODO_13,
-38,TEXT_JOBDRK700_02919_TODO_14,
-39,TEXT_JOBDRK700_02919_TODO_15,
-40,TEXT_JOBDRK700_02919_TODO_16,
-41,TEXT_JOBDRK700_02919_TODO_17,
-42,TEXT_JOBDRK700_02919_TODO_18,
-43,TEXT_JOBDRK700_02919_TODO_19,
-44,TEXT_JOBDRK700_02919_TODO_20,
-45,TEXT_JOBDRK700_02919_TODO_21,
-46,TEXT_JOBDRK700_02919_TODO_22,
-47,TEXT_JOBDRK700_02919_TODO_23,
-48,TEXT_JOBDRK700_02919_SYSTEM_000_005,若要領取或繼續推進本任務，<hex:02100103>需完成「紅蓮之狂潮主線任務」中的「梅弗里德的任務」。
-49,TEXT_JOBDRK700_02919_SIDURGU_000_010,密斯托還沒回來。<hex:02100103>看來是遭遇了什麼不測，或者是不想回來。
-50,TEXT_JOBDRK700_02919_SIDURGU_100_010,還差最後一次，所有乙太就能回到你的靈魂水晶中了，<hex:02100103>但密斯托說過最後一次幫助別人是賭上他自身……
-51,TEXT_JOBDRK700_02919_SIDURGU_110_010,為了得知他這句話的意思，我們也得找到他。<hex:02100103>我雖然傷還沒全好，但也會幫忙的……<hex:02100103>我們去找他吧。
-52,TEXT_JOBDRK700_02919_SIDURGU_000_011,你最後一次見到他是在基拉巴尼亞的神拳痕吧。<hex:02100103>我們先去那裡看看。
-53,TEXT_JOBDRK700_02919_RIELLE_000_012,也帶上我吧！<hex:02100103>希德勒格的傷還沒好……<hex:02100103>只是找人的話，我也可以幫上忙。
-54,TEXT_JOBDRK700_02919_SIDURGU_000_20,總之，我們先收集一下有關密斯托的情報吧。
-55,TEXT_JOBDRK700_02919_RIELLE_000_025,你最後見到密斯托就是在這裡吧？
-56,TEXT_JOBDRK700_02919_GILOW_000_030,今天還真是有很多稀客。
-57,TEXT_JOBDRK700_02919_GATEKEEPER02919_000_040,有沒有看到過藍色長髮的少年？<hex:02100103>嗯……這麼顯眼的特徵，如果我看到了絕對不會忘記，<hex:02100103>但我沒見過啊。
-58,TEXT_JOBDRK700_02919_GATEKEEPER02919_000_041,跟我接班的人也沒說過這件事……<hex:02100103>也許他沒有經過這裡。
-59,TEXT_JOBDRK700_02919_GATEKEEPER02919_000_042,你在找的少年也許沒有經過這裡。
-60,TEXT_JOBDRK700_02919_ORELLA_000_045,你說的孩子來過這裡。<hex:02100103>他向幻術師詢問了很多有關乙太的問題……
-61,TEXT_JOBDRK700_02919_ORELLA_000_046,他長得真漂亮，不知是不是對幻術有興趣？
-62,TEXT_JOBDRK700_02919_BREEDER02919_000_050,長髮穿長袍的孩子？！<hex:02100103>我也正在找他！
-63,TEXT_JOBDRK700_02919_BREEDER02919_000_051,昨天深夜我去巡邏陸行鳥房，<hex:02100103>聽到有人在說「對不起」，然後看到你所說的那個孩子逃走了。
-64,TEXT_JOBDRK700_02919_BREEDER02919_000_052,我去查看了一下異常安靜的陸行鳥們，<hex:02100103>本來以為它們都睡著了，結果竟然死了……<hex:02100103>而且沒有任何外傷，就像被人抽走了靈魂一樣。
-65,TEXT_JOBDRK700_02919_BREEDER02919_000_053,這一定是小鬼的惡作劇！<hex:02100103>等我找到了那個小鬼，一定要他好好賠償！
-66,TEXT_JOBDRK700_02919_BREEDER02919_000_054,難道說你是他的監護人？<hex:02100103>你代替他賠償也行啊。
-67,TEXT_JOBDRK700_02919_RIELLE_000_060,我有一種不祥的預感。<hex:02100103>密斯托不會有事吧……
-68,TEXT_JOBDRK700_02919_SIDURGU_000_070,怎麼樣，你找到有關密斯托的線索了嗎？
-69,TEXT_JOBDRK700_02919_SIDURGU_000_071,這麼說那傢伙果然自己選擇留在了這裡。<hex:02100103>但到底是為了什麼？
-70,TEXT_JOBDRK700_02919_SIDURGU_000_072,比起收集情報，我們還是直接找他問清楚比較快。<hex:02100103>正好這個衛兵見到了長得像密斯托的傢伙。
-71,TEXT_JOBDRK700_02919_SIDURGU_000_073,聽說他前往基拉巴尼亞山區了。<hex:02100103>我們趕緊追上去吧。
-72,TEXT_JOBDRK700_02919_RIELLE_000_080,<hex:022903EB0203>……這些屍體……有點奇怪……
-73,TEXT_JOBDRK700_02919_SIDURGU_000_090,和你打聽到的陸行鳥一樣是沒有外傷的屍體。<hex:02100103>粗略檢查一下，也不像病死的。
-74,TEXT_JOBDRK700_02919_SIDURGU_000_091,如果那個人說的是真的，那這很有可能是密斯托幹的。<hex:02100103>但是密斯托明明連戰鬥都做不到……
-75,TEXT_JOBDRK700_02919_SIDURGU_000_092,等等。<hex:02100103>他可以抽取乙太，<hex:02100103>就像第一次遇到時，從你的靈魂水晶中把乙太抽走……
-76,TEXT_JOBDRK700_02919_RIELLE_000_093,密斯托，為什麼要做這種事……
-77,TEXT_JOBDRK700_02919_SIDURGU_000_094,我也不明白。<hex:02100103>不過在事態繼續惡化之前，我們必須趕緊找到他。
-78,TEXT_JOBDRK700_02919_SIDURGU_000_095,我們去南邊，你去東邊尋找密斯托的蹤跡。<hex:02100103>如果走一段路還找不到他的話，我們就先匯合一次。
-79,TEXT_JOBDRK700_02919_SYSTEM_000_100,這邊找不到密斯托的行蹤……<hex:02100103>和在南邊尋找的希德勒格他們匯合吧。
-80,TEXT_JOBDRK700_02919_RIELLE_000_110,嗚……
-81,TEXT_JOBDRK700_02919_SIDURGU_000_120,你來了……<hex:02100103>看來我們選擇了正確的路線……
-82,TEXT_JOBDRK700_02919_SIDURGU_000_121,別以為那是以前和我們在一起的密斯托。<hex:02100103>他吸收了過多的乙太，結果變成了這種怪物……
-83,TEXT_JOBDRK700_02919_SIDURGU_000_122,那已經不是為了別人的幸福而使用的力量了……<hex:02100103>他旁邊的伊斯特里德也是為了排除我們而實體化的。
-84,TEXT_JOBDRK700_02919_SIDURGU_000_123,莉艾勒心中的黑暗，恐怖和苦澀的記憶變成了實體。<hex:02100103>她的恐懼形成的怪物<hex:02100103>甚至比我們在現實中曾經消滅掉的本體還要強！
-85,TEXT_JOBDRK700_02919_MYSTE_000_124,希德勒格，好嚇人……<hex:02100103>所以我就做了點惡作劇……<hex:02100103>對不起……
-86,TEXT_JOBDRK700_02919_Q1_000_125,要說什麼？
-87,TEXT_JOBDRK700_02919_A1_000_126,你到底是什麼
-88,TEXT_JOBDRK700_02919_A1_000_127,為什麼要做這種事
-89,TEXT_JOBDRK700_02919_MYSTE_000_128,我是……密斯托啊？<hex:02100103>不過……我可能並不配擁有名字……
-90,TEXT_JOBDRK700_02919_MYSTE_000_129,你問為什麼……<hex:02100103>我要做的事情一直都沒變啊。
-91,TEXT_JOBDRK700_02919_MYSTE_000_130,<hex:022903EB0203>……<hex:02100103>我是從你的暗黑騎士靈魂水晶的乙太中誕生的生命。
-92,TEXT_JOBDRK700_02919_MYSTE_000_131,你覺得靈魂水晶中有什麼？<hex:02100103>沒錯，是數百年的歷代暗黑騎士的記憶和思念。
-93,TEXT_JOBDRK700_02919_MYSTE_000_132,靈魂水晶本身就是巨大乙太和思念的集合……<hex:02100103>這兩樣東西在一起，能產生什麼你應該知道。
-94,TEXT_JOBDRK700_02919_MYSTE_000_133,放心吧……<hex:02100103>我的存在還沒強大到可以被人命名的地步。<hex:02100103>只是一個微小的存在……
-95,TEXT_JOBDRK700_02919_MYSTE_000_134,就算這樣，我也繼承了大家的思念。<hex:02100103>不想失去重要的人，想保護重要的人……<hex:02100103>「所有」暗黑騎士的思念……
-96,TEXT_JOBDRK700_02919_MYSTE_000_135,所以，我必須實現……<hex:02100103>創造一個不會再有「失去」和「別離」的世界。<hex:02100103>為了做到這點，我吸收了需要的乙太……
-97,TEXT_JOBDRK700_02919_SIDURGU_000_136,甚至不惜奪走其它生命嗎？<hex:02100103>哼，只保護想要保護的東西，<hex:02100103>真是任性，不愧是我們暗黑騎士的化身……
-98,TEXT_JOBDRK700_02919_SIDURGU_100_136,但是，要創造一個沒有「失去」和「別離」的世界？<hex:02100103>你打算讓人們依賴虛幻的空想活下去嗎？<hex:02100103>這種事情怎麼可能是我們暗黑騎士的願望！
-99,TEXT_JOBDRK700_02919_SIDURGU_110_136,命運是無情的，世界是殘酷的……<hex:02100103>因此我們在嘆息無常，憎恨邪惡。
-100,TEXT_JOBDRK700_02919_SIDURGU_000_137,但是我們還沒墮落到依靠虛幻的空想活下去的地步！<hex:02100103>所以大家才選擇了這把大劍！<hex:02100103>乖乖回到<hex:022903EB0203>的靈魂水晶裡去吧！
-101,TEXT_JOBDRK700_02919_MYSTE_000_138,不要！<hex:02100103>我明明聽見了寂寞的悲嘆！<hex:02100103>這雙眼睛，這頭髮也正是某人思念中的「你」！
-102,TEXT_JOBDRK700_02919_MYSTE_100_138,只要我足夠強大，就可以消除世上的一切悲傷……<hex:02100103>你們失去的東西全部由我來創造。<hex:02100103>這樣就不會再有人悲傷了！
-103,TEXT_JOBDRK700_02919_MYSTE_000_139,對吧，<hex:022903EB0203>……<hex:02100103>我會加油讓你和大家都不再寂寞……<hex:02100103>你會高興嗎？
-104,TEXT_JOBDRK700_02919_MYSTE_000_140,怎麼會這樣……<hex:02100103>不過就算阻礙我的人是你，我也不會手軟的。<hex:02100103>你要阻擋我，我就會打倒你。
-105,TEXT_JOBDRK700_02919_MYSTE_000_141,我已經不是那個只有最後一點乙太的我了……<hex:02100103>已經不是那個只能製造出人們希望的東西的我了……<hex:02100103>現在的我，甚至可以隨意觸碰到你心底的黑暗！
-106,TEXT_JOBDRK700_02919_MYSTE_000_400,還是不要和我作對了吧？<hex:02100103>如果是經歷了那麼多悲傷的你一定可以理解……
-107,TEXT_JOBDRK700_02919_MYSTE_000_401,只要繼續戰鬥，就會失去同伴……
-108,TEXT_JOBDRK700_02919_MYSTE_000_402,就算從戰鬥中保護了他們，在你那無盡的旅途中，<hex:02100103>大家也會離你遠去……
-109,TEXT_JOBDRK700_02919_MYSTE_000_403,愛明明是你的力量之源……<hex:02100103>但只要每前進一步就會失去。
-110,TEXT_JOBDRK700_02919_MYSTE_000_404,多麼痛苦……多麼悲傷……<hex:02100103>你明明才是……
-111,TEXT_JOBDRK700_02919_MYSTE_000_405,早就是……孤單一人了……
-112,TEXT_JOBDRK700_02919_Q3_000_406,就算如此……
-113,TEXT_JOBDRK700_02919_A3_000_407,回顧走過的路，我並不孤單
-114,TEXT_JOBDRK700_02919_A3_000_408,我的心裡還有大家託付給我的東西！
-115,TEXT_JOBDRK700_02919_FRAY_000_409,(-？？？？-)的確……前行的人是孤獨的。<hex:02100103>因為人只有靠自己才能前進。
-116,TEXT_JOBDRK700_02919_FRAY_000_410,(-？？？？-)但是……<hex:02100103>如果有擦身而過的人的幾句鼓勵，<hex:02100103>如果有人在體力不支時伸出援手……
-117,TEXT_JOBDRK700_02919_FRAY_000_411,(-？？？？-)正是這些微小的奇蹟匯聚成了<hex:02080DE905FF04>她<hex:FF04>他<hex:03>的動力，<hex:02100103><hex:02080DE905FF04>她<hex:FF04>他<hex:03>已經用自己的經歷證明了。
-118,TEXT_JOBDRK700_02919_SIDURGU_000_412,難道是……弗雷？！
-119,TEXT_JOBDRK700_02919_FRAY_000_413,我只是幻影。<hex:02100103>全靠<hex:022903EB0203>的那份苦澀的記憶<hex:02100103>加上密斯托的力量才擁有了實體。
-120,TEXT_JOBDRK700_02919_FRAY_000_414,但我不可能成為你的敵人。<hex:02100103>因為我就是你，你就是我。
-121,TEXT_JOBDRK700_02919_FRAY_000_415,準備好了嗎？
-122,TEXT_JOBDRK700_02919_SIDURGU_000_416,用這把劍。<hex:02100103>你要是再用鈍劍戰鬥結果輸了，我可不原諒你。
-123,TEXT_JOBDRK700_02919_MYSTE_000_417,怎麼會這樣……不要啊……<hex:02100103>不要再逞強了！
-124,TEXT_JOBDRK700_02919_MYSTE_000_418,記憶會變模糊……回憶無法觸摸……<hex:02100103>明明永遠在一起才是最好的……永遠不會結束才是最好的……<hex:02100103>只有永生才是最好的，我會保護你們！
-125,TEXT_JOBDRK700_02919_FRAY_000_419,這的確也是我的想法。
-126,TEXT_JOBDRK700_02919_FRAY_000_420,所以，你才會在這裡受挫。<hex:02100103>在肩負著痛苦踏上旅程的我們面前……<hex:02100103>在我們的……強大面前！
-127,TEXT_JOBDRK700_02919_MYSTE_000_430,對不起……對不起……大家……<hex:02100103>我明明說過要讓大家永遠在一起……
-128,TEXT_JOBDRK700_02919_MYSTE_000_431,別離……果然很寂寞……
-129,TEXT_JOBDRK700_02919_FRAY_000_432,沒錯……<hex:02100103>別離很痛苦很悲傷。<hex:02100103>甚至會讓人感到無比沉重，停下前進的腳步。
-130,TEXT_JOBDRK700_02919_FRAY_000_433,但是人類總會跨越悲傷，繼續前進。
-131,TEXT_JOBDRK700_02919_MYSTE_000_434,是因為忘記了離去的人們？
-132,TEXT_JOBDRK700_02919_RIELLE_000_435,不對。<hex:02100103>悲傷的別離總是讓我歷歷在目。
-133,TEXT_JOBDRK700_02919_RIELLE_000_436,但是，就算經歷了別離，<hex:02100103>以後也會經歷新的相遇。
-134,TEXT_JOBDRK700_02919_RIELLE_000_437,我們就是這樣手牽著手才能前進。<hex:02100103>為了將已經失去之人的記憶和希望傳達給未來！
-135,TEXT_JOBDRK700_02919_SIDURGU_000_438,能夠承受悲傷，同時向前前進才是人類的強大之處……<hex:02100103>你已經親身體會到了吧。
-136,TEXT_JOBDRK700_02919_FRAY_000_439,我承認你的想法，能再次回到現世對我來說也是奇蹟。<hex:02100103>但是做法過火了。你很喜歡暗黑騎士和他們的理想吧？
-137,TEXT_JOBDRK700_02919_MYSTE_000_440,嗯……<hex:02100103>我最喜歡了……是我的榮耀……
-138,TEXT_JOBDRK700_02919_MYSTE_000_441,給你們添麻煩了，對不起……<hex:02100103>你的乙太應該已經全部回去了，<hex:02100103>希望你也可以接受我的思念……
-139,TEXT_JOBDRK700_02919_MYSTE_000_442,我是從孤高的救濟中誕生之人。<hex:02100103>是拒絕悲傷和別離之人。<hex:02100103>希望你也能這樣……
-140,TEXT_JOBDRK700_02919_RIELLE_000_450,歡迎回來。
-141,TEXT_JOBDRK700_02919_SIDURGU_000_460,你回來了嗎……<hex:02100103>一聲不吭先回來很對不起。<hex:02100103>但我那時實在無法輕易向你搭話……
-142,TEXT_JOBDRK700_02919_SIDURGU_000_461,我並不知道你背負了多大的思念。<hex:02100103>你的痛苦和孤獨只有你自己知道。
-143,TEXT_JOBDRK700_02919_SIDURGU_000_462,但是我欠你人情，<hex:02100103>也很尊敬你……<hex:02100103>所以這次才會幫你。
-144,TEXT_JOBDRK700_02919_SIDURGU_000_463,你只要記住這點就好。<hex:02100103>可惡，這次都被你這後輩搶了風頭了。
-145,TEXT_JOBDRK700_02919_RIELLE_000_464,密斯托是在靈魂水晶碎掉的時候誕生的吧。<hex:02100103>為什麼會是那個時候呢？
-146,TEXT_JOBDRK700_02919_SIDURGU_000_465,天知道……<hex:02100103>至少我們是搞不懂了。<hex:02100103>現在乙太已經全部回到了靈魂水晶之中，密斯托也回去了。
-147,TEXT_JOBDRK700_02919_SIDURGU_000_466,就算在暗黑騎士之中，<hex:022903EB0203>的人生也可謂波瀾壯闊。<hex:02100103>密斯托會從他的靈魂水晶中誕生也沒什麼可奇怪的。<hex:02100103>再加上有什麼契機……呃。
-148,TEXT_JOBDRK700_02919_RIELLE_000_467,希德勒格，你的傷口又裂開了……<hex:02100103>快坐下，我給你治療。
-149,TEXT_JOBDRK700_02919_RIELLE_000_468,<hex:022903EB0203>也好好休息吧。<hex:02100103>也有人希望守護別人的暗黑騎士不要倒下呢。
-150,TEXT_JOBDRK700_02919_SIDURGU_100_468,你這小鬼越來越會說話了。<hex:02100103>不過我們終於回收了所有乙太，這件事也算告一段落了。
-151,TEXT_JOBDRK700_02919_SIDURGU_000_469,雖然不知道是什麼契機讓密斯托現身……<hex:02100103>你就權當休息散心，再去和他相遇的地方看看吧。<hex:02100103>不過說不定，你心中早已知道答案了。
-152,TEXT_JOBDRK700_02919_SIDURGU_000_470,真是如同夢幻般的事件。<hex:02100103>可惡，我身上受的傷倒是挺真實的。<hex:02100103>這證明了密斯托確實存在過。
-153,TEXT_JOBDRK700_02919_RIELLE_000_475,就算不能永遠在一起，只要和平了，悲傷的別離也會減少。<hex:02100103>希望有一天密斯托想要創造的世界可以到來。
-154,TEXT_JOBDRK700_02919_EDMONT_000_480,(-？？？？-)咦……<hex:02100103>您在這裡做什麼？
-155,TEXT_JOBDRK700_02919_EDMONT_000_481,這裡很冷吧。<hex:02100103>既然來到這附近，去家裡坐坐多好。
-156,TEXT_JOBDRK700_02919_EDMONT_000_482,大家也一定會歡迎<hex:022903EB0203>閣下的到來。<hex:02100103>就算沒有事情要辦，沒有事情要談……<hex:02100103>您時常在遠方旅行，偶爾能來露個臉也好。
-157,TEXT_JOBDRK700_02919_EDMONT_000_483,您現在依然是我們重要的客人……<hex:02100103>無可替代的朋友。
-158,TEXT_JOBDRK700_02919_EDMONT_000_484,您該不會因為不經常來這裡了，<hex:02100103>就覺得我們之間疏遠了吧？
-159,TEXT_JOBDRK700_02919_EDMONT_000_485,開個玩笑。<hex:02100103>我剛剛在整理回憶錄，也想和您敘敘舊了。
-160,TEXT_JOBDRK700_02919_EDMONT_000_486,我想起了我的兒子，想起了他和您一同旅行的事情……<hex:02100103>說出口來簡直歷歷在目。
-161,TEXT_JOBDRK700_02919_EDMONT_000_487,只要您有時間請常過來看看。<hex:02100103>福爾唐家的暖爐會為您常備爐火。<hex:02100103>那麼，再見……
-162,TEXT_JOBDRK700_02919_SYSTEM_100_500,「暗黑騎士」的故事到此告一段落！<hex:02100103>要開始接下來的「暗黑騎士」特職任務，<hex:02100103>需要滿足以下條件。
-163,TEXT_JOBDRK700_02919_SYSTEM_100_501,1.完成「暗影之逆焰主線任務」中的「暗影之逆焰」。
-164,TEXT_JOBDRK700_02919_SYSTEM_100_502,2.完成防護職業的「職能任務：暗影之章」。
-165,TEXT_JOBDRK700_02919_SYSTEM_100_503,滿足條件後，和忘憂騎士亭的希德勒格對話，<hex:02100103>即可開始新的特職任務！
-166,TEXT_JOBDRK700_02919_RIELLE_000_000,（★未使用／削除予定★）
+0,"TEXT_JOBDRK700_02919_SEQ_00","You knew from the first that there was only one way this could end."
+1,"TEXT_JOBDRK700_02919_SEQ_01","Sid has at last accepted that Myste is not coming back to Ishgard, and that if we are to reclaim the remainder of our stolen aether, we will need to take the initiative. Rhalgr's Reach was the last place you spoke, and so that is where we will go."
+2,"TEXT_JOBDRK700_02919_SEQ_02","In speaking with the people of Rhalgr's Reach, we learn that Myste stayed there for a time, asking questions of a conjurer regarding aether and perhaps being responsible for the mysterious deaths of several chocobos. He's been naughty, to say the least."
+3,"TEXT_JOBDRK700_02919_SEQ_03","Sid is unsure what to make of what we learned, though it seems fairly obvious to me what mischief the boy's been about. And you too, I hope. Anyway, it would seem that Myste was seen leaving the Reach and heading towards the Peaks. The hunt is on!"
+4,"TEXT_JOBDRK700_02919_SEQ_04","Two beasts, dead, with no discernable injuries. Now where have we heard that before? Sid finally realizes that the boy must have sucked them dry of their aether, in the same way that he stole our aether. Needless to say, he is far, far more dangerous than he appears. A pity it took you all this long to see it."
+5,"TEXT_JOBDRK700_02919_SEQ_05","Wrong way, wrong way! He'll kill Sid and Rielle if we don't hurry!"
+6,"TEXT_JOBDRK700_02919_SEQ_06","And now, the betrayal. Myste believes that the only way we can atone for our sins is to “undo” them with his simulacra. Every life we took, every death that weighs upon our soul, he would make amends for it all with his beautiful lies. I can end this charade, godsdammit, I can end it! Now is the time! You need me! YOU NEED ME!"
+7,"TEXT_JOBDRK700_02919_SEQ_07","...So it goes. If you would not forsake me, then of course you would not forsake him. And so...neither can I. He is a fool, but he is our little fool. The little <hex:02080EE905FF05>girl<hex:FF04>boy<hex:03> who wanted to make this cruel, twisted world a better place, futile as that is. <hex:02080CE905FF04>She<hex:FF03>He<hex:03>'s going to get us killed one of these days...but what can I say? I love <hex:02080DE905FF04>her<hex:FF04>him<hex:03>. I forgive <hex:02080DE905FF04>her<hex:FF04>him<hex:03>. And you..."
+8,"TEXT_JOBDRK700_02919_SEQ_08","Do you recall how we came to this place? At a friend's behest, in the midst of a raging blizzard? As we drew closer the gates faded into vision, and the towering spires...the man bowed low and bade us follow him, up the winding stair, from still smoldering ruin to untouched splendor. There we found a warm home and warm hearth, and warm hearts..."
+9,"TEXT_JOBDRK700_02919_SEQ_09","At the Last Vigil, as you reflect once more on the path you have walked, you are surprised by Lord Edmont, who greets you warmly. News of your exploits is delivered to Fortemps Manor daily, and you remain always in the thoughts of the former count and his family. Though a part of him wishes that you would remain in Ishgard, he knows that your destiny leads you elsewhere, for you are still a hero. You are still a good person.<hex:02100103><hex:02100103>※The next dark knight quest will be available from Sidurgu once you have met the following requirements:<hex:02100103>※You must have completed the main scenario quest “Shadowbringers.”<hex:02100103>※You must have completed the role quest “To Have Loved and Lost.”"
+10,"TEXT_JOBDRK700_02919_SEQ_10",""
+11,"TEXT_JOBDRK700_02919_SEQ_11",""
+12,"TEXT_JOBDRK700_02919_SEQ_12",""
+13,"TEXT_JOBDRK700_02919_SEQ_13",""
+14,"TEXT_JOBDRK700_02919_SEQ_14",""
+15,"TEXT_JOBDRK700_02919_SEQ_15",""
+16,"TEXT_JOBDRK700_02919_SEQ_16",""
+17,"TEXT_JOBDRK700_02919_SEQ_17",""
+18,"TEXT_JOBDRK700_02919_SEQ_18",""
+19,"TEXT_JOBDRK700_02919_SEQ_19",""
+20,"TEXT_JOBDRK700_02919_SEQ_20",""
+21,"TEXT_JOBDRK700_02919_SEQ_21",""
+22,"TEXT_JOBDRK700_02919_SEQ_22",""
+23,"TEXT_JOBDRK700_02919_SEQ_23",""
+24,"TEXT_JOBDRK700_02919_TODO_00","Gather information in Rhalgr's Reach."
+25,"TEXT_JOBDRK700_02919_TODO_01","Speak with Sidurgu."
+26,"TEXT_JOBDRK700_02919_TODO_02","Follow Sidurgu."
+27,"TEXT_JOBDRK700_02919_TODO_03","Search the Last Forest for Myste."
+28,"TEXT_JOBDRK700_02919_TODO_04","Search for Sidurgu."
+29,"TEXT_JOBDRK700_02919_TODO_05","Search for Sidurgu."
+30,"TEXT_JOBDRK700_02919_TODO_06","Speak with Sidurgu in Ishgard."
+31,"TEXT_JOBDRK700_02919_TODO_07","Return to where it all began."
+32,"TEXT_JOBDRK700_02919_TODO_08",""
+33,"TEXT_JOBDRK700_02919_TODO_09",""
+34,"TEXT_JOBDRK700_02919_TODO_10",""
+35,"TEXT_JOBDRK700_02919_TODO_11",""
+36,"TEXT_JOBDRK700_02919_TODO_12",""
+37,"TEXT_JOBDRK700_02919_TODO_13",""
+38,"TEXT_JOBDRK700_02919_TODO_14",""
+39,"TEXT_JOBDRK700_02919_TODO_15",""
+40,"TEXT_JOBDRK700_02919_TODO_16",""
+41,"TEXT_JOBDRK700_02919_TODO_17",""
+42,"TEXT_JOBDRK700_02919_TODO_18",""
+43,"TEXT_JOBDRK700_02919_TODO_19",""
+44,"TEXT_JOBDRK700_02919_TODO_20",""
+45,"TEXT_JOBDRK700_02919_TODO_21",""
+46,"TEXT_JOBDRK700_02919_TODO_22",""
+47,"TEXT_JOBDRK700_02919_TODO_23",""
+48,"TEXT_JOBDRK700_02919_SYSTEM_000_005","In order to undertake this quest, you must first complete the main scenario quest “A Familiar Face Forgotten.”"
+49,"TEXT_JOBDRK700_02919_SIDURGU_000_010","...Godsdammit, Myste. We're going to have to track him down and make him return the remainder of the aether he stole from you, aren't we?"
+50,"TEXT_JOBDRK700_02919_SIDURGU_100_010","He said that when this was finished, naught would remain of him. Bloody vague and ominous, to say the least..."
+51,"TEXT_JOBDRK700_02919_SIDURGU_110_010","We'll just have to press him for answers when we find him."
+52,"TEXT_JOBDRK700_02919_SIDURGU_000_011","You last saw him at Rhalgr's Reach in Gyr Abania, yes? We'll start there."
+53,"TEXT_JOBDRK700_02919_RIELLE_000_012","I'm going too, and I won't take no for an answer. Sid's gotten better, but he's a long way from fully recovered. Besides, you'll need someone else to help you do the talking. Sid's no good at it."
+54,"TEXT_JOBDRK700_02919_SIDURGU_000_20","What are you waiting for? Clearly I'm no good at making small talk, so you and Rielle will have to ask after Myste."
+55,"TEXT_JOBDRK700_02919_RIELLE_000_025","Someone here has to know something that can lead us to Myste..."
+56,"TEXT_JOBDRK700_02919_GILOW_000_030","Lot of unusual folks coming through the Reach these days..."
+57,"TEXT_JOBDRK700_02919_GATEKEEPER02919_000_040","Looking for a young boy with long blue hair, you say? Reckon I would remember someone like that if they were to come this way. And I don't."
+58,"TEXT_JOBDRK700_02919_GATEKEEPER02919_000_041","Spoke with the fella before me during the changing of the guard, as we do, and he made no mention of anyone matching that description either..."
+59,"TEXT_JOBDRK700_02919_GATEKEEPER02919_000_042","I'm not saying the boy didn't come this way, but I'd be surprised if he had. Someone would have noted his passing and told the others."
+60,"TEXT_JOBDRK700_02919_ORELLA_000_045","...Ah, yes, I remember the long-haired boy. Very curious, with many questions about the nature of aether. He conversed with one of the Adder conjurers for a time. I know not what they discussed, but from his expression I gathered it was important."
+61,"TEXT_JOBDRK700_02919_ORELLA_000_046","Very mature for his age, the boy. And somehow ethereal..."
+62,"TEXT_JOBDRK700_02919_BREEDER02919_000_050","Hm? What's that!? You're looking for that boy too, are you!?"
+63,"TEXT_JOBDRK700_02919_BREEDER02919_000_051","I was watching some birds late the other night when I hear someone skulking about behind me. “Forgive me, forgive me,” I hear him saying, before he runs off and disappears into the dark."
+64,"TEXT_JOBDRK700_02919_BREEDER02919_000_052","Then I realize it's quiet─too quiet, aye? Sleeping birds make noise, and mine ain't. 'Cause they're dead. Every last one of them. No wounds or any other obvious marks, but there they lay, like the life was sucked right out of them!"
+65,"TEXT_JOBDRK700_02919_BREEDER02919_000_053","I don't know how or why he did it, but there's no denying that he did! I demand recompense! If you find him, you bring him to me!"
+66,"TEXT_JOBDRK700_02919_BREEDER02919_000_054","Wait─are you that boy's keeper? Are you responsible for him!? 'Cause if you are, you owe me an explanation!"
+67,"TEXT_JOBDRK700_02919_RIELLE_000_060","I have a bad feeling about this. I hope Myste hasn't done something stupid..."
+68,"TEXT_JOBDRK700_02919_SIDURGU_000_070","Our inspector returns. Tell us, have you learned aught of Myste's whereabouts?"
+69,"TEXT_JOBDRK700_02919_SIDURGU_000_071","...Seen conversing with a conjurer and possibly killing chocobos? Not sure what to make of that. Though we <hex:021A020203>can<hex:021A020103> be sure he stayed here for a time."
+70,"TEXT_JOBDRK700_02919_SIDURGU_000_072","But perhaps no longer. We learned but moments ago from Gilow here that a boy matching Myste's description was seen leaving the Reach."
+71,"TEXT_JOBDRK700_02919_SIDURGU_000_073","He is for the Peaks. And so are we."
+72,"TEXT_JOBDRK700_02919_RIELLE_000_080","They're dead. Just...dead. Like the chocobos in the story you heard."
+73,"TEXT_JOBDRK700_02919_SIDURGU_000_090","No visible injuries, no bleeding. Aye, it is as Rielle says: these beasts died for no discernable reason. Just like the chocobos that man in the Reach claims Myste somehow killed."
+74,"TEXT_JOBDRK700_02919_SIDURGU_000_091","But it doesn't add up. Other than his singular magick, Myste was utterly helpless. Unless...was he always capable of this?"
+75,"TEXT_JOBDRK700_02919_SIDURGU_000_092","...But we know the answer already. He stole your aether when we first met."
+76,"TEXT_JOBDRK700_02919_RIELLE_000_093","Even if he could do it, even if he did do it...why?"
+77,"TEXT_JOBDRK700_02919_SIDURGU_000_094","We'll ask him when we find him. And this time, you'll let <hex:021A020203>me<hex:021A020103> do the talking."
+78,"TEXT_JOBDRK700_02919_SIDURGU_000_095","Search the east. Rielle and I will head south. We'll meet in between if we find naught, and if we do...either you will come to our aid, or we to yours."
+79,"TEXT_JOBDRK700_02919_SYSTEM_000_100","As you survey your surroundings, you observe naught out of the ordinary...but on the edge of hearing, you hear a whisper to the southwest..."
+80,"TEXT_JOBDRK700_02919_RIELLE_000_110","No... Mother..."
+81,"TEXT_JOBDRK700_02919_SIDURGU_000_120","Seven hells, I hate being right..."
+82,"TEXT_JOBDRK700_02919_SIDURGU_000_121","On your guard. Myste has shown his true colors. The aether or whatever else he took from those beasts has given him tremendous strength..."
+83,"TEXT_JOBDRK700_02919_SIDURGU_000_122","Contrary to his earlier warnings, conjuring another simulacrum wasn't the end of him. And of all the wonderful people he had to pluck from our memories, he chose Ystride de Caulignont."
+84,"TEXT_JOBDRK700_02919_SIDURGU_000_123","He knows why we're here, and this is his answer. He summoned the monster that haunts Rielle in her dreams and sends her screaming from her bed."
+85,"TEXT_JOBDRK700_02919_MYSTE_000_124","Forgive me, Sid, but you gave me no choice..."
+86,"TEXT_JOBDRK700_02919_Q1_000_125","What will you say?"
+87,"TEXT_JOBDRK700_02919_A1_000_126","Say your name. Your <hex:021A020203>real<hex:021A020103> name!"
+88,"TEXT_JOBDRK700_02919_A1_000_127","There is always a choice."
+89,"TEXT_JOBDRK700_02919_MYSTE_000_128","...Shall I ask you the same? Who holds the reins? Though it matters not.<hex:02100103>We are complicit, you and I."
+90,"TEXT_JOBDRK700_02919_MYSTE_000_129","...No. There isn't. Not really."
+91,"TEXT_JOBDRK700_02919_MYSTE_000_130","Can you even remember why you came here? Can you even remember how many you killed? How many lives shattered, how many stories ended?"
+92,"TEXT_JOBDRK700_02919_MYSTE_000_131","Upon the surface of the crystal are carved the sins of dark knights past...and yours are beyond counting. Beyond fathoming. Without end."
+93,"TEXT_JOBDRK700_02919_MYSTE_000_132","Justice is an excuse. Nobility is a lie. Murder is murder!"
+94,"TEXT_JOBDRK700_02919_MYSTE_000_133","And though we are most definitely not without fault, it is this cruel, indifferent world which has made murderers of us all."
+95,"TEXT_JOBDRK700_02919_MYSTE_000_134","But we need suffer no longer. I sought to make these broken souls whole, one by one, when in truth the solution was much more simple."
+96,"TEXT_JOBDRK700_02919_MYSTE_000_135","A world beyond pain and suffering and anguish and despair─a world beyond death! A world in which we never need bid farewell to our dearest friends."
+97,"TEXT_JOBDRK700_02919_SIDURGU_000_136","And how many beasts will you need to <hex:021A020203>kill<hex:021A020103> to make this world of yours? How much aether will you consume to see it through? Bloody self-righteous sophistry from a mewling whelp..."
+98,"TEXT_JOBDRK700_02919_SIDURGU_100_136","So your brilliant plan is to fill the world with simulacra of the dead, is it? And somehow that's supposed to make everyone happy?"
+99,"TEXT_JOBDRK700_02919_SIDURGU_110_136","Well, you're right about one thing, I'll grant you that. This world is brutal, uncaring, without logic or justice..."
+100,"TEXT_JOBDRK700_02919_SIDURGU_000_137","No justice but that which we make for ourselves! And I'll be damned if I give it up so you can force your illusions upon us to assuage your guilt!"
+101,"TEXT_JOBDRK700_02919_MYSTE_000_138","Did you not find comfort in your reunion with your master!? Even though you knew it was a lie, did it not help you to unburden your soul? To find a measure of peace in this madness!?"
+102,"TEXT_JOBDRK700_02919_MYSTE_100_138","I am not your enemy. Not then or now. I will not fight you. All I ask is that you leave me to do my duty."
+103,"TEXT_JOBDRK700_02919_MYSTE_000_139","It's never too late to turn back. You are still a good person.<hex:02100103>You can still be...a good person..."
+104,"TEXT_JOBDRK700_02919_MYSTE_000_140","So this is your answer..."
+105,"TEXT_JOBDRK700_02919_MYSTE_000_141","Maybe you cannot accept what needs to be done. But I can. Good-bye."
+106,"TEXT_JOBDRK700_02919_MYSTE_000_400","So many broken by this world, and then by you. So, so many..."
+107,"TEXT_JOBDRK700_02919_MYSTE_000_401","Woe betide the man who stands opposed to the Weapon of Light, for death will be his reward. Death for him and his kin and all that he holds dear."
+108,"TEXT_JOBDRK700_02919_MYSTE_000_402","Woe betide the man who stands with the Weapon of Light, for death will be his reward. Death for him and his kin and all that he holds dear."
+109,"TEXT_JOBDRK700_02919_MYSTE_000_403","Like sands through the hourglass, everything we fight so desperately to protect slips through our fingers...and what remains...what remains..."
+110,"TEXT_JOBDRK700_02919_MYSTE_000_404","...Is us. Only us, and the memory of our sin."
+111,"TEXT_JOBDRK700_02919_MYSTE_000_405","To walk this path is to suffer. To sacrifice..."
+112,"TEXT_JOBDRK700_02919_Q3_000_406","(Listen to my voice. Listen to our heartbeat...)"
+113,"TEXT_JOBDRK700_02919_A3_000_407","...Justice demands no less."
+114,"TEXT_JOBDRK700_02919_A3_000_408","I tire of this charade."
+115,"TEXT_JOBDRK700_02919_FRAY_000_409","(-???-)Serve... Save... Slave... Slay... I've sins aplenty, aye, but regrets? Not so much."
+116,"TEXT_JOBDRK700_02919_FRAY_000_410","(-???-)And if <hex:02080CE905FF04>she<hex:FF03>he<hex:03> wouldn't listen to me, the embodiment of good sense and pragmatism, then what hope could you possibly have?"
+117,"TEXT_JOBDRK700_02919_FRAY_000_411","(-???-)A house divided cannot stand, you know. This childish rebellion ends now."
+118,"TEXT_JOBDRK700_02919_SIDURGU_000_412","What in the seven hells is this!?"
+119,"TEXT_JOBDRK700_02919_FRAY_000_413","...A compromise, I suppose? Our dear friend here refused to let me take the reins, but I wasn't about to stand idly by while that imbecile tries to do...whatever it was he was trying to do."
+120,"TEXT_JOBDRK700_02919_FRAY_000_414","No hard feelings about Whitebrim, eh? Promise not to stab you in the back."
+121,"TEXT_JOBDRK700_02919_FRAY_000_415","It'll be just like old times."
+122,"TEXT_JOBDRK700_02919_SIDURGU_000_416","A dark knight needs a sword. Take mine."
+123,"TEXT_JOBDRK700_02919_MYSTE_000_417","No... No... This is wrong... This is all wrong..."
+124,"TEXT_JOBDRK700_02919_MYSTE_000_418","I offer you peace! Restitution! A chance to make amends! Do not think you are above it! Do not think that a reckoning will be postponed indefinitely!"
+125,"TEXT_JOBDRK700_02919_FRAY_000_419","When it comes, I shall welcome it with open arms..."
+126,"TEXT_JOBDRK700_02919_FRAY_000_420","But today will not be the day, and you will not be the judge!"
+127,"TEXT_JOBDRK700_02919_MYSTE_000_430","Forgive me, forgive me... I ask, I beg, I pray, but it never comes..."
+128,"TEXT_JOBDRK700_02919_MYSTE_000_431","Again they go to join the multitude in the black oblivion of the abyss..."
+129,"TEXT_JOBDRK700_02919_FRAY_000_432","Such is our lot. Such is the fate of all who are born─to suffer and to die."
+130,"TEXT_JOBDRK700_02919_FRAY_000_433","Do not seek forgiveness, for it will not ease the burden. It weighs as it should."
+131,"TEXT_JOBDRK700_02919_MYSTE_000_434","But what of the lost? Do they not deserve to live again?"
+132,"TEXT_JOBDRK700_02919_RIELLE_000_435","They do. In our hearts and our souls and our memories."
+133,"TEXT_JOBDRK700_02919_RIELLE_000_436","No one likes having to say good-bye. But it's...it's a part of life. That's what makes the time we share together so precious..."
+134,"TEXT_JOBDRK700_02919_RIELLE_000_437","You can't obsess over the mistakes of the past, or you'll lose sight of the future. Of the people still with us, who need us more than ever."
+135,"TEXT_JOBDRK700_02919_SIDURGU_000_438","The greatest strength is born of the flame in the abyss..."
+136,"TEXT_JOBDRK700_02919_FRAY_000_439","Listen to my voice. Listen to our heartbeat. Listen...<hex:02100103>I forgive you. I forgive you. I forgive you..."
+137,"TEXT_JOBDRK700_02919_MYSTE_000_440","Thank you. That is...that is all I ever wanted..."
+138,"TEXT_JOBDRK700_02919_MYSTE_000_441","So...this is it. One last parting. One final farewell...after a fashion."
+139,"TEXT_JOBDRK700_02919_MYSTE_000_442","In your darkest hour, in the blackest night...think of me...and I will be with you. Always. For where else could I go? Who else could I love but you?"
+140,"TEXT_JOBDRK700_02919_RIELLE_000_450","Ah...you're back. Welcome home...?"
+141,"TEXT_JOBDRK700_02919_SIDURGU_000_460","You'll forgive us for returning to Ishgard ahead of you, I hope. I, uh...needed some time to think on everything that happened in Gyr Abania."
+142,"TEXT_JOBDRK700_02919_SIDURGU_000_461","I won't pretend to know everything you've been through in your life. A man can never truly understand what's in another's heart...and probably not their own, for that matter..."
+143,"TEXT_JOBDRK700_02919_SIDURGU_000_462","I'm pretty much rambling at this point, but...I suppose what I'm trying to say is that I'm grateful for everything you've done for me and Rielle. I like you. I respect you. And I'll always be here for you, if you need me."
+144,"TEXT_JOBDRK700_02919_SIDURGU_000_463","We're fellow walkers of the path, after all. And friends, I'd like to think."
+145,"TEXT_JOBDRK700_02919_RIELLE_000_464","I've been wondering... Myste appeared at the same time the soul crystal cracked, yes? But which happened first? And why then and there?"
+146,"TEXT_JOBDRK700_02919_SIDURGU_000_465","Damned if I know. Does anyone truly understand how soul crystals work? What matters is that the crystal and <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> have been made whole."
+147,"TEXT_JOBDRK700_02919_SIDURGU_000_466","That said... “A heart bleeds, a man weeps, a soul burns. Thence comes the darkness, to consume.” And few hearts have bled as much as <hex:02080EE905FF05>hers<hex:FF04>his<hex:03>..."
+148,"TEXT_JOBDRK700_02919_RIELLE_000_467","Speaking of bleeding, I think your wounds have reopened. If you would sit, it would be much easier for me to tend to them..."
+149,"TEXT_JOBDRK700_02919_RIELLE_000_468","You should get some rest too, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Not all wounds are so obvious."
+150,"TEXT_JOBDRK700_02919_SIDURGU_100_468","Out of the mouths of babes and sucklings─praise Halone! She's right, though. No need to overdo it by running off to the next battle just yet."
+151,"TEXT_JOBDRK700_02919_SIDURGU_000_469","If you must put one foot in front of the other, though, why don't you go back to where this whole damn mess began? Maybe you'll have an epiphany."
+152,"TEXT_JOBDRK700_02919_SIDURGU_000_470","Part of me can't help but think this was all a fever dream. And then I take a deep breath and feel the pain in my ribs..."
+153,"TEXT_JOBDRK700_02919_RIELLE_000_475","It's nice to dream of a world without pain and suffering. But the world is what it is, and dreams will only carry you so far. That's why we've got swords."
+154,"TEXT_JOBDRK700_02919_EDMONT_000_480","(-???-)Hm? What troubles you, <hex:020815E905FF09>Mistress<hex:FF07>Master<hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303>?"
+155,"TEXT_JOBDRK700_02919_EDMONT_000_481","Ah, but of course. 'Tis bitterly cold this day. At times like these, one should be warming themselves by the fire."
+156,"TEXT_JOBDRK700_02919_EDMONT_000_482","Not a day goes by without your name being spoken, you know. The soldiers and merchants often bring us news of your latest exploits. That said, to hear it from the hero <hex:020815E905FF08>herself<hex:FF08>himself<hex:03> would be much preferable..."
+157,"TEXT_JOBDRK700_02919_EDMONT_000_483","But there would be no expectation were you to call on us. The pleasure of your company alone would be more than enough."
+158,"TEXT_JOBDRK700_02919_EDMONT_000_484","Rare though I expect it will be in the days to come... But your destiny was never to remain here, was it? Though a part of me wishes that you would..."
+159,"TEXT_JOBDRK700_02919_EDMONT_000_485","Forgive me. I find myself growing more and more sentimental in my old age...and in working on my memoirs, I have had to reflect on the darker chapters of my life..."
+160,"TEXT_JOBDRK700_02919_EDMONT_000_486","Haurchefant...lived his to the fullest...and if his story is preserved for generations to come, then I...I should be glad of it..."
+161,"TEXT_JOBDRK700_02919_EDMONT_000_487","You will always have a place here, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. For you are family. Now, go! Do not let me keep you from your labors. The world waits for none─not even you."
+162,"TEXT_JOBDRK700_02919_SYSTEM_100_500","This concludes the dark knight quests for FINAL FANTASY XIV: Stormblood. In order to undertake the next series of quests, you must first meet the following requirements:"
+163,"TEXT_JOBDRK700_02919_SYSTEM_100_501","※You must have completed the main scenario quest “Shadowbringers.”"
+164,"TEXT_JOBDRK700_02919_SYSTEM_100_502","※You must have completed the role quest “To Have Loved and Lost.”"
+165,"TEXT_JOBDRK700_02919_SYSTEM_100_503","Once you have done so, the next dark knight quest will be available from Sidurgu."
+166,"TEXT_JOBDRK700_02919_RIELLE_000_000",""

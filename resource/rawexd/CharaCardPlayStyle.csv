@@ -1,38 +1,40 @@
-﻿key,2
-#,Name
-offset,0
-int32,str
-0,未設定
-1,迷宮挑戰
-2,討伐殲滅戰
-3,大型任務
-4,絕境戰
-5,深層迷宮
-6,特殊場景探索
-7,玩家對戰
-8,青魔法師
-9,尋寶
-10,怪物狩獵
-11,製作
-12,採礦/園藝
-13,釣魚
-14,主線任務
-15,金碟遊樂場
-16,隨機任務
-17,練級
-18,角色扮演
-19,硬核玩家
-20,休閒玩家
-21,新人
-22,指導者
-23,賺錢
-24,集體動作
-25,武具投影
-26,樂器演奏
-27,聊天
-28,房屋
-29,玩家自辦活動
-30,成就收集
-31,特殊迷宮探索
-32,多瑪方城戰
-33,開拓無人島
+﻿key,0,1,2
+#,Icon,SortKey,Name
+offset,4,8,0
+int32,Image,byte,str
+0,61762,0,"None"
+1,61801,20,"Dungeons"
+2,61804,21,"Trials"
+3,61802,22,"Raids"
+4,61832,23,"Ultimate Raids"
+5,61824,30,"Deep Dungeons"
+6,61837,31,"Field Operations"
+7,61806,40,"PvP"
+8,61836,51,"Blue Mage"
+9,61808,60,"Treasure Hunts"
+10,61819,61,"The Hunt"
+11,61816,100,"Crafting"
+12,61755,101,"Botany/Mining"
+13,61756,102,"Fishing"
+14,61757,10,"Main Scenario"
+15,61820,62,"Gold Saucer"
+16,61807,50,"Duty Roulette"
+17,61752,150,"Leveling"
+18,61751,151,"Role-playing"
+19,61754,153,"Hardcore"
+20,61753,152,"Casual"
+21,61823,154,"New Adventurer"
+22,61760,155,"Mentor"
+23,61758,200,"Making Gil"
+24,61764,205,"Group Pose"
+25,61759,204,"Glamour"
+26,61763,203,"Performance Mode"
+27,61765,206,"Player Chat"
+28,61761,202,"Housing"
+29,61766,207,"Community Events"
+30,61767,201,"Achievements"
+31,61846,32,"V&C Dungeons"
+32,61768,63,"Doman Mahjong"
+33,61847,64,"Island Sanctuary"
+34,60810,65,"Cosmic Exploration"
+35,0,0,""

@@ -2,32 +2,32 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_REGWILINN_00061_OTOPAPOTTOPA_000,這裡是沙鐘旅亭。<hex:02100103>……不過，我們不向初出茅廬的冒險者開放。
-1,TEXT_REGWILINN_00061_OTOPAPOTTOPA_001,如果您能在烏爾達哈取得出色表現，獲得周圍人的信賴，<hex:02100103>那麼莫莫蒂大人或許就會允許您使用客房。<hex:02100103>所以您還是先努力工作吧。
-2,TEXT_REGWILINN_00061_Q1_000_1,想了解什麼？
-3,TEXT_REGWILINN_00061_A1_000_1,什麼是「沙鐘旅亭」？
-4,TEXT_REGWILINN_00061_A1_000_2,取消
-5,TEXT_REGWILINN_00061_OTOPAPOTTOPA_010,沙鐘旅亭是烏爾達哈最有名的住宿設施。
-6,TEXT_REGWILINN_00061_OTOPAPOTTOPA_011,從適合富商下榻的最高級客房，<hex:02100103>到適合旅行者投宿的平民價格的客房，都應有盡有。<hex:02100103>我們會為各階層的客人提供適合他們的服務。
-7,TEXT_REGWILINN_00061_OTOPAPOTTOPA_012,當然也有面向冒險者的客房。<hex:02100103>不過靈災過後，治安稍微有些混亂……<hex:02100103>所以我們只把房間借給信得過的客人。
-8,TEXT_REGWILINN_00061_OTOPAPOTTOPA_013,等您得到莫莫蒂大人的認可，<hex:02100103>允許您使用客房之後，再來光顧吧。
-9,TEXT_REGWILINN_00061_OTOPAPOTTOPA_020,這裡是沙鐘旅亭。<hex:02100103>請問您有什麼需要幫忙的嗎？
-10,TEXT_REGWILINN_00061_Q2_000_1,要做什麼？
-11,TEXT_REGWILINN_00061_A2_000_1,去客房
-12,TEXT_REGWILINN_00061_A2_000_2,詢問有關在客房內的休息效果
-13,TEXT_REGWILINN_00061_A2_000_3,詢問有關客房內的禁止事項
-14,TEXT_REGWILINN_00061_A2_000_4,詢問有關「沙鐘旅亭」的事情
-15,TEXT_REGWILINN_00061_A2_000_5,取消
-16,TEXT_REGWILINN_00061_OTOPAPOTTOPA_030,您要住宿啊，<hex:02100103>那麼請好好休息。
-17,TEXT_REGWILINN_00061_OTOPAPOTTOPA_040,在沙鐘旅亭的床上好好睡一覺，<hex:02100103>可以將您累積的疲憊一掃而光。
-18,TEXT_REGWILINN_00061_OTOPAPOTTOPA_041,您在這附近結束工作後，<hex:02100103>可以回到這裡休息一下。
-19,TEXT_REGWILINN_00061_SYSTEM_000_13,當你在旅店客房休息的時候可以積攢「休息獎勵」。<hex:02100103>在客房內登出遊戲後也可以繼續積攢「休息獎勵」。
-20,TEXT_REGWILINN_00061_SYSTEM_000_14,在積攢「休息獎勵」的狀態下<hex:02100103>進行「戰鬥」「製作」「採集」時，<hex:02100103>獲得的經驗值將提高至1.5倍。
-21,TEXT_REGWILINN_00061_SYSTEM_000_15,在積攢「休息獎勵」的狀態下獲得的經驗值，<hex:02100103>會消耗相應的「休息獎勵」。
-22,TEXT_REGWILINN_00061_SYSTEM_000_16,當積攢的「休息獎勵」全部被消耗後，<hex:02100103>「休息獎勵」的效果將會結束。
-23,TEXT_REGWILINN_00061_OTOPAPOTTOPA_050,非常抱歉，沙鐘旅亭的客房內是禁止「製作」的。
-24,TEXT_REGWILINN_00061_OTOPAPOTTOPA_051,因為製作時發出的聲響會影響到其他客人的休息。<hex:02100103>為了確保客人們能夠更好地休息，<hex:02100103>還望敬請諒解。
-25,TEXT_REGWILINN_00061_SYSTEM_000_18,在旅店客房內，<hex:02100103>是不能進行「製作」「修理」「鑲嵌魔晶石」的。
-26,TEXT_REGWILINN_00061_OTOPAPOTTOPA_060,沙鐘旅亭是烏爾達哈最有名的住宿設施。
-27,TEXT_REGWILINN_00061_OTOPAPOTTOPA_061,從適合富商下榻的最高級客房，<hex:02100103>到適合旅行者投宿的平民價格的客房，都應有盡有。<hex:02100103>我們會為各階層的客人提供適合他們的服務。
-28,TEXT_REGWILINN_00061_OTOPAPOTTOPA_062,當然也有專為冒險者準備的客房。<hex:02100103>請您好好休息吧。
+0,"TEXT_REGWILINN_00061_OTOPAPOTTOPA_000","<hex:02084CE3E90C0DFF24><hex:020820E3E90C05FF0D>Good evening<hex:FF0C>Good morrow<hex:03><hex:FF21><hex:02081DE3E90C12FF09>Good day<hex:FF0D>Good evening<hex:03><hex:03> to you, adventurer. Do you seek lodgings at the Hourglass?"
+1,"TEXT_REGWILINN_00061_OTOPAPOTTOPA_001","Pardon me, what was your name again? <hex:022903EB0203>? Hmmm...I've heard nothing from Mistress Momodi about this. Alas, without her express permission, I cannot permit you to stay."
+2,"TEXT_REGWILINN_00061_Q1_000_1","What would you like to do?"
+3,"TEXT_REGWILINN_00061_A1_000_1","Ask about the Hourglass."
+4,"TEXT_REGWILINN_00061_A1_000_2","Nothing."
+5,"TEXT_REGWILINN_00061_OTOPAPOTTOPA_010","The Hourglass is only the most famous inn on the Merchant Strip."
+6,"TEXT_REGWILINN_00061_OTOPAPOTTOPA_011","We have accommodations to satisfy every client's tastes, from lavish suites to simple rooms."
+7,"TEXT_REGWILINN_00061_OTOPAPOTTOPA_012","Were circumstances different, I would gladly invite you to make use of our facilities. However, we have had to enact certain policies in the wake of the Calamity and the unpleasantness that followed. Only those who have proven themselves trustworthy are permitted to stay."
+8,"TEXT_REGWILINN_00061_OTOPAPOTTOPA_013","Should Mistress Momodi deem you one such individual, you may enjoy our hospitality at will."
+9,"TEXT_REGWILINN_00061_OTOPAPOTTOPA_020","<hex:02084CE3E90C0DFF24><hex:020820E3E90C05FF0D>Good evening<hex:FF0C>Good morrow<hex:03><hex:FF21><hex:02081DE3E90C12FF09>Good day<hex:FF0D>Good evening<hex:03><hex:03> to you, adventurer. How may I serve you?"
+10,"TEXT_REGWILINN_00061_Q2_000_1","What would you like to do?"
+11,"TEXT_REGWILINN_00061_A2_000_1","Retire to an inn room."
+12,"TEXT_REGWILINN_00061_A2_000_2","Ask about <hex:024804F201F403><hex:024904F201F503>resting<hex:0249020103><hex:0248020103>."
+13,"TEXT_REGWILINN_00061_A2_000_3","Ask about inn rules."
+14,"TEXT_REGWILINN_00061_A2_000_4","Ask about the Hourglass."
+15,"TEXT_REGWILINN_00061_A2_000_5","Nothing."
+16,"TEXT_REGWILINN_00061_OTOPAPOTTOPA_030","As you wish, <hex:02080FE905FF06>madam<hex:FF04>sir<hex:03>. Right this way."
+17,"TEXT_REGWILINN_00061_OTOPAPOTTOPA_040","The key to leading a productive life is to maintain one's health, and to do that you must needs make time to rest and recover."
+18,"TEXT_REGWILINN_00061_OTOPAPOTTOPA_041","There are few things more rejuvenating than a good night's sleep after a hard day's work."
+19,"TEXT_REGWILINN_00061_SYSTEM_000_13","Entering an inn room grants a <hex:024804F201F403><hex:024904F201F503>resting<hex:0249020103><hex:0248020103> status. This indicates that you are gradually accumulating a <hex:024804F201F403><hex:024904F201F503>rested bonus<hex:0249020103><hex:0248020103>. Should you log out from inside an inn room, the process will continue while you are offline."
+20,"TEXT_REGWILINN_00061_SYSTEM_000_14","While a rested bonus is in effect, experience points earned through combat, synthesis, and gathering are increased by 50%."
+21,"TEXT_REGWILINN_00061_SYSTEM_000_15","When you gain experience, your rested bonus will decrease proportionally."
+22,"TEXT_REGWILINN_00061_SYSTEM_000_16","Once your accumulated rested bonus disappears completely, the amount of experience you gain will revert to normal."
+23,"TEXT_REGWILINN_00061_OTOPAPOTTOPA_050","I'm afraid our facilities are intended only for rest and relaxation, so a number of activities are expressly forbidden."
+24,"TEXT_REGWILINN_00061_OTOPAPOTTOPA_051","Even if you are an acclaimed artisan, we must insist that you refrain from practicing your trade. The sound may disturb our guests who desire to rest."
+25,"TEXT_REGWILINN_00061_SYSTEM_000_18","Synthesis, repairs, and materia melding cannot be performed inside inn rooms."
+26,"TEXT_REGWILINN_00061_OTOPAPOTTOPA_060","The Hourglass is only the most famous inn on the Merchant Strip."
+27,"TEXT_REGWILINN_00061_OTOPAPOTTOPA_061","We have accommodations to satisfy every client's tastes, from lavish suites to simple rooms."
+28,"TEXT_REGWILINN_00061_OTOPAPOTTOPA_062","Per Mistress Momodi's request, you are free to enjoy our hospitality at will. If you wish to rest, it would be my pleasure to show you to a room."

@@ -2,93 +2,93 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_CLSCUL301_00266_SEQ_00,烹調師公會的林格薩斯，有件事想要委託給冒險者。
-1,TEXT_CLSCUL301_00266_SEQ_01,口味挑剔的美食家羅羅力特要來俾斯麥餐廳。有無數招惹了羅羅力特的店鋪都被其擊潰。然而，林格薩斯的手受傷了，因此將由冒險者來代替他製作菜餚。為了調查羅羅力特的喜好，去和烏爾達哈出身的黛文·達芙談談。
-2,TEXT_CLSCUL301_00266_SEQ_02,黛文·達芙說，羅羅力特的管家諾諾佩薩現在就在俾斯麥餐廳。去問問坐在俾斯麥餐廳露天座位的管家諾諾佩薩。
-3,TEXT_CLSCUL301_00266_SEQ_03,諾諾佩薩說，羅羅力特喜歡吃肉。籌備1道<hex:02280DFF07>ItemHQ<hex:F212250103>，交給俾斯麥餐廳露天座位的管家諾諾佩薩。
-4,TEXT_CLSCUL301_00266_SEQ_04,將<hex:02280DFF07>ItemHQ<hex:F212250103>交給了諾諾佩薩。因為菜餚製作得十分完美，諾諾佩薩保證說羅羅力特一定會滿意。將情況報告給烹調師公會的林格薩斯。
-5,TEXT_CLSCUL301_00266_SEQ_05,製作出的精美菜餚讓俾斯麥餐廳順利地渡過了這次難關，冒險者也因此深得林格薩斯的信賴。林格薩斯說，要不遺餘力地支持冒險者的成長。為了回報他的期待，繼續作為烹調師努力鑽研。<hex:02100103><hex:02100103>※烹調師的等級達到35級以上時，可以從林格薩斯那裡領取下一個烹調師任務。
-6,TEXT_CLSCUL301_00266_SEQ_06,
-7,TEXT_CLSCUL301_00266_SEQ_07,
-8,TEXT_CLSCUL301_00266_SEQ_08,
-9,TEXT_CLSCUL301_00266_SEQ_09,
-10,TEXT_CLSCUL301_00266_SEQ_10,
-11,TEXT_CLSCUL301_00266_SEQ_11,
-12,TEXT_CLSCUL301_00266_SEQ_12,
-13,TEXT_CLSCUL301_00266_SEQ_13,
-14,TEXT_CLSCUL301_00266_SEQ_14,
-15,TEXT_CLSCUL301_00266_SEQ_15,
-16,TEXT_CLSCUL301_00266_SEQ_16,
-17,TEXT_CLSCUL301_00266_SEQ_17,
-18,TEXT_CLSCUL301_00266_SEQ_18,
-19,TEXT_CLSCUL301_00266_SEQ_19,
-20,TEXT_CLSCUL301_00266_SEQ_20,
-21,TEXT_CLSCUL301_00266_SEQ_21,
-22,TEXT_CLSCUL301_00266_SEQ_22,
-23,TEXT_CLSCUL301_00266_SEQ_23,
-24,TEXT_CLSCUL301_00266_TODO_00,和黛文·達芙對話
-25,TEXT_CLSCUL301_00266_TODO_01,和諾諾佩薩對話
-26,TEXT_CLSCUL301_00266_TODO_02,將<hex:02280DFF07>ItemHQ<hex:F212250103>交給諾諾佩薩
-27,TEXT_CLSCUL301_00266_TODO_03,和林格薩斯對話
-28,TEXT_CLSCUL301_00266_TODO_04,
-29,TEXT_CLSCUL301_00266_TODO_05,
-30,TEXT_CLSCUL301_00266_TODO_06,
-31,TEXT_CLSCUL301_00266_TODO_07,
-32,TEXT_CLSCUL301_00266_TODO_08,
-33,TEXT_CLSCUL301_00266_TODO_09,
-34,TEXT_CLSCUL301_00266_TODO_10,
-35,TEXT_CLSCUL301_00266_TODO_11,
-36,TEXT_CLSCUL301_00266_TODO_12,
-37,TEXT_CLSCUL301_00266_TODO_13,
-38,TEXT_CLSCUL301_00266_TODO_14,
-39,TEXT_CLSCUL301_00266_TODO_15,
-40,TEXT_CLSCUL301_00266_TODO_16,
-41,TEXT_CLSCUL301_00266_TODO_17,
-42,TEXT_CLSCUL301_00266_TODO_18,
-43,TEXT_CLSCUL301_00266_TODO_19,
-44,TEXT_CLSCUL301_00266_TODO_20,
-45,TEXT_CLSCUL301_00266_TODO_21,
-46,TEXT_CLSCUL301_00266_TODO_22,
-47,TEXT_CLSCUL301_00266_TODO_23,
-48,TEXT_CLSCUL301_00266_LYNGSATH_000_1,好疼……該死的，給我動起來啊！<hex:02100103>我的手臂被貨車和牆壁夾了一下，暫時動不了了。
-49,TEXT_CLSCUL301_00266_LYNGSATH_000_2,這樣根本沒辦法好好做菜……<hex:02100103>偏偏是在今天，真是傷腦筋。
-50,TEXT_CLSCUL301_00266_LYNGSATH_000_3,今天有位不速之客要來俾斯麥餐廳。<hex:02100103>他是世界上所有烹調師的敵人！
-51,TEXT_CLSCUL301_00266_LYNGSATH_000_4,那人是烏爾達哈的大富豪，<hex:02100103>也是掌權者之一，是個有名的毒舌美食家。<hex:02100103>那傢伙是要進行貿易談判，所以來到了這座城邦。
-52,TEXT_CLSCUL301_00266_LYNGSATH_000_5,他對所有菜餚都是雞蛋裡挑骨頭，<hex:02100103>還用難聽的話語進行貶低。<hex:02100103>都不知道有多少家店被他這樣毀掉了。
-53,TEXT_CLSCUL301_00266_LYNGSATH_000_6,如果在菜餚上出了差錯，讓那傢伙給了差評，<hex:02100103>就算是艾歐澤亞首屈一指的俾斯麥餐廳也會就此玩完的。<hex:02100103>所以每次都是由我來親自應對的……
-54,TEXT_CLSCUL301_00266_LYNGSATH_000_7,因為我也沒法忍受別人說我臨陣脫逃。<hex:02100103>哎？等等……對啊，不是還有你嘛！
-55,TEXT_CLSCUL301_00266_LYNGSATH_000_8,喂，<hex:022903EB0203>。<hex:02100103>你……能代替我來做菜嗎？！
-56,TEXT_CLSCUL301_00266_LYNGSATH_000_9,一切後果由我承擔！<hex:02100103>不過如果是交給你的話，我相信一定沒問題的。
-57,TEXT_CLSCUL301_00266_LYNGSATH_000_10,首先，你先去向烏爾達哈出身的黛文·達芙<hex:02100103>打聽下那傢伙的情報。<hex:02100103>那傢伙的名字是……對，是羅羅力特！
-58,TEXT_CLSCUL301_00266_DIVINGDOVE_000_20,羅羅力特的事情我已經聽說了。<hex:02100103>會長也真是倒霉，偏偏在這種時候受傷。
-59,TEXT_CLSCUL301_00266_DIVINGDOVE_000_21,羅羅力特是東阿爾迪納德商會會長，<hex:02100103>那商會旗下有艾斯泰姆珠寶店、太陽絲綢服裝店。<hex:02100103>所以那個老爺子被人稱為是「百億富翁」。
-60,TEXT_CLSCUL301_00266_DIVINGDOVE_000_22,不僅是財力上獨霸一方，<hex:02100103>他也是掌握烏爾達哈實權的「沙蠍眾」的一員。<hex:02100103>只不過沒聽他們做過什麼好事。
-61,TEXT_CLSCUL301_00266_DIVINGDOVE_000_23,不管怎麼說，他的舌頭對美味的辨別的確靈敏。<hex:02100103>但也只是用來擊垮烹調師了。
-62,TEXT_CLSCUL301_00266_DIVINGDOVE_000_24,我聽說人在吃到真正好吃的食物時，<hex:02100103>就說不出什麼話了。
-63,TEXT_CLSCUL301_00266_DIVINGDOVE_000_25,幸運的是，<hex:02100103>現在羅羅力特的管家諾諾佩薩正好來到了店裡。
-64,TEXT_CLSCUL301_00266_DIVINGDOVE_000_26,你可以從坐在露天座位的諾諾佩薩那裡，<hex:02100103>打聽下羅羅力特的喜好。<hex:02100103>如果端出他喜歡吃的東西，那得到好評的可能性也會大一些吧？
-65,TEXT_CLSCUL301_00266_NONOPESA_000_30,你是代替林格薩斯大人製作菜餚的人？<hex:02100103>所以才想要知道羅羅力特大人喜歡的口味啊。<hex:02100103>那我就看在你對羅羅力特大人盡心盡力的份上告訴你吧。
-66,TEXT_CLSCUL301_00266_NONOPESA_000_31,雖然那位大人年歲已高，但精神還好得很呢。<hex:02100103>他很喜歡吃肉，特別是<hex:022811FF05>Item<hex:FF08>　4767<hex:0103>。
-67,TEXT_CLSCUL301_00266_NONOPESA_000_32,你只要端出1道烤得軟硬適中、<hex:02100103>熟度恰到好處的<hex:02280DFF07>ItemHQ<hex:F212250103>，<hex:02100103>說不定就能讓羅羅力特大人心滿意足。
-68,TEXT_CLSCUL301_00266_NONOPESA_000_33,
-69,TEXT_CLSCUL301_00266_NONOPESA_000_34,好了……羅羅力特大人的貿易談判也快要結束了。<hex:02100103>你在這之前把菜餚準備好為妙。<hex:02100103>如果一回來就可以吃上飯，這樣也會增加好印象吧。
-70,TEXT_CLSCUL301_00266_NONOPESA_000_35,你把準備好的菜餚交給我就可以。<hex:02100103>我會把它端到羅羅力特大人的房間。
-71,TEXT_CLSCUL301_00266_SYSTEM_000_36,試著製作「優質道具」吧。<hex:02100103>在製作過程中，通過提升「品質」，<hex:02100103>能大大提高優質道具的完成率。
-72,TEXT_CLSCUL301_00266_SYSTEM_000_37,
-73,TEXT_CLSCUL301_00266_NONOPESA_000_40,要製作出最高級別的<hex:02280DFF07>ItemHQ<hex:F212250103>。<hex:02100103>那樣的菜餚才是羅羅力特大人現在所追求的美食。<hex:02100103>相信管家我是不會有錯的。
-74,TEXT_CLSCUL301_00266_NONOPESA_001_41,你完成了嗎？<hex:02100103>那麼，讓我們換個地方進行最終確認。<hex:02100103>如果端出不合格的菜餚，我也難辭其咎。
-75,TEXT_CLSCUL301_00266_NONOPESA_000_41,這……這可真是人間美味啊！<hex:02100103>只恨我沒資格品嘗一口。
-76,TEXT_CLSCUL301_00266_NONOPESA_000_42,首先這香味，立刻就可以勾起人的食慾！<hex:02100103><hex:022811FF05>Item<hex:FF08>　4767<hex:0103>本身的腥味也用<hex:022811FF05>Item<hex:FF08>　4811<hex:0103>去掉了，<hex:02100103>竟然能把這一難點克服，真是了不起。
-77,TEXT_CLSCUL301_00266_NONOPESA_000_43,然後因為使用了<hex:022811FF05>Item<hex:FF08>　4857<hex:0103>，<hex:02100103>菜餚的光澤讓人一看就想大快朵頤，<hex:02100103>所謂色香味俱全……
-78,TEXT_CLSCUL301_00266_NONOPESA_000_44,至今，各地有許多烹調師都為羅羅力特大人準備過飯菜……<hex:02100103>但我還是第一次見到如此美妙的熏製菜餚。
-79,TEXT_CLSCUL301_00266_NONOPESA_000_45,你的廚藝不遜於林格薩斯大人。<hex:02100103>我能夠理解那位大人推薦你的理由了。
-80,TEXT_CLSCUL301_00266_NONOPESA_000_46,羅羅力特大人的舌頭和我這種凡夫俗子不同，<hex:02100103>他可以品味出我們根本察覺不到的細微妥協。
-81,TEXT_CLSCUL301_00266_NONOPESA_000_47,不過，這道<hex:02280DFF07>ItemHQ<hex:F212250103><hex:02100103>說不定可以俘獲羅羅力特大人的舌頭。
-82,TEXT_CLSCUL301_00266_NONOPESA_000_48,……那麼，我差不多該把這道菜餚<hex:02100103>端到羅羅力特大人的房間了。
-83,TEXT_CLSCUL301_00266_NONOPESA_000_49,羅羅力特大人品嘗過這道菜餚之後，<hex:02100103>想必會再次拜訪烹調師公會的。
-84,TEXT_CLSCUL301_00266_NONOPESA_000_50,我想你可以盡情期待。<hex:02100103>那麼，請代我向林格薩斯大人問好。
-85,TEXT_CLSCUL301_00266_LYNGSATH_000_60,我聽說了，<hex:022903EB0203>！<hex:02100103>諾諾佩薩讚不絕口呢，幹得真是不錯！
-86,TEXT_CLSCUL301_00266_LYNGSATH_000_61,常年跟著羅羅力特的諾諾佩薩都誇到那個份上了，<hex:02100103>看來不用擔心羅羅力特那傢伙會不喜歡了。
-87,TEXT_CLSCUL301_00266_LYNGSATH_000_62,你的表現超乎我的想像啊。<hex:02100103>簡直就是我的……左手。
-88,TEXT_CLSCUL301_00266_LYNGSATH_000_63,左手是拿平底鍋的手，<hex:02100103>是烹調師最信任的夥伴。
-89,TEXT_CLSCUL301_00266_LYNGSATH_000_64,好了，再接再厲吧，<hex:022903EB0203>。<hex:02100103>你是個很有才能的人，<hex:02100103>所以我會不遺餘力支持你的。
+0,"TEXT_CLSCUL301_00266_SEQ_00","Lyngsath wants you to cook for a distinguished guest in his stead."
+1,"TEXT_CLSCUL301_00266_SEQ_01","You learn that Lord Lolorito, one of Ul'dah's most powerful men, has announced his intention to dine at the Bismarck. Apparently, the man is a self-styled food critic, notorious for using his influence to ruin restaurants that fail to satisfy his rarefied needs. In an unfortunate turn of events, Lyngsath has injured his hand, and it falls to you to represent the Bismarck in his stead. In order to learn more about your distinguished guest, the guildmaster recommends you speak with Diving Dove, a native of Ul'dah."
+2,"TEXT_CLSCUL301_00266_SEQ_02","You learn from Diving Dove that Lolorito's butler, a fellow by the name of Nonopesa, is presently at the Bismarck. Seek him out and endeavor to discover what manner of cuisine his master may be craving."
+3,"TEXT_CLSCUL301_00266_SEQ_03","For a blessing, Nonopesa turns out to be a personable fellow, and you learn from him that Lolorito currently has a hankering for a hearty meal of meat. As per the butler's recommendation, prepare a haunch of smoked raptor of the finest quality, and deliver it to him."
+4,"TEXT_CLSCUL301_00266_SEQ_04","Nonopesa is deeply impressed by your smoked raptor. You, in turn, are deeply impressed by his ability to judge food without taking a single bite. What was it that Diving Dove said about Ul'dahn cuisine...? At any rate, it would seem your cooking will satisfy even the exacting requirements of the great Lord Lolorito. Bear the glad tidings to Lyngsath."
+5,"TEXT_CLSCUL301_00266_SEQ_05","Nonopesa's high opinion of your food serves to put Lyngsath at ease. The guildmaster thanks you for safeguarding the future of the guild, and proceeds to liken you to his trusty left hand. Keep up your efforts, and you may yet become one of the realm's finest culinarians.<hex:02100103><hex:02100103>※The next culinarian quest will be available from Lyngsath upon reaching level 35."
+6,"TEXT_CLSCUL301_00266_SEQ_06",""
+7,"TEXT_CLSCUL301_00266_SEQ_07",""
+8,"TEXT_CLSCUL301_00266_SEQ_08",""
+9,"TEXT_CLSCUL301_00266_SEQ_09",""
+10,"TEXT_CLSCUL301_00266_SEQ_10",""
+11,"TEXT_CLSCUL301_00266_SEQ_11",""
+12,"TEXT_CLSCUL301_00266_SEQ_12",""
+13,"TEXT_CLSCUL301_00266_SEQ_13",""
+14,"TEXT_CLSCUL301_00266_SEQ_14",""
+15,"TEXT_CLSCUL301_00266_SEQ_15",""
+16,"TEXT_CLSCUL301_00266_SEQ_16",""
+17,"TEXT_CLSCUL301_00266_SEQ_17",""
+18,"TEXT_CLSCUL301_00266_SEQ_18",""
+19,"TEXT_CLSCUL301_00266_SEQ_19",""
+20,"TEXT_CLSCUL301_00266_SEQ_20",""
+21,"TEXT_CLSCUL301_00266_SEQ_21",""
+22,"TEXT_CLSCUL301_00266_SEQ_22",""
+23,"TEXT_CLSCUL301_00266_SEQ_23",""
+24,"TEXT_CLSCUL301_00266_TODO_00","Speak with Diving Dove."
+25,"TEXT_CLSCUL301_00266_TODO_01","Speak with Nonopesa."
+26,"TEXT_CLSCUL301_00266_TODO_02","Deliver a haunch of smoked raptor <hex:02280AFF06>Addon<hex:0A0103> to Nonopesa."
+27,"TEXT_CLSCUL301_00266_TODO_03","Speak with Lyngsath."
+28,"TEXT_CLSCUL301_00266_TODO_04",""
+29,"TEXT_CLSCUL301_00266_TODO_05",""
+30,"TEXT_CLSCUL301_00266_TODO_06",""
+31,"TEXT_CLSCUL301_00266_TODO_07",""
+32,"TEXT_CLSCUL301_00266_TODO_08",""
+33,"TEXT_CLSCUL301_00266_TODO_09",""
+34,"TEXT_CLSCUL301_00266_TODO_10",""
+35,"TEXT_CLSCUL301_00266_TODO_11",""
+36,"TEXT_CLSCUL301_00266_TODO_12",""
+37,"TEXT_CLSCUL301_00266_TODO_13",""
+38,"TEXT_CLSCUL301_00266_TODO_14",""
+39,"TEXT_CLSCUL301_00266_TODO_15",""
+40,"TEXT_CLSCUL301_00266_TODO_16",""
+41,"TEXT_CLSCUL301_00266_TODO_17",""
+42,"TEXT_CLSCUL301_00266_TODO_18",""
+43,"TEXT_CLSCUL301_00266_TODO_19",""
+44,"TEXT_CLSCUL301_00266_TODO_20",""
+45,"TEXT_CLSCUL301_00266_TODO_21",""
+46,"TEXT_CLSCUL301_00266_TODO_22",""
+47,"TEXT_CLSCUL301_00266_TODO_23",""
+48,"TEXT_CLSCUL301_00266_LYNGSATH_000_1","Bollocks! Me 'and! 'Ow in the seven 'ells am I meant to cook with one bloody 'and!? Gah! Of all the godsdamned times I could've 'urt it, why'd it 'ave to be <hex:021A020203>now<hex:021A020103>!?"
+49,"TEXT_CLSCUL301_00266_LYNGSATH_000_2","Forgive me language, <hex:02080EE905FF05>lass<hex:FF04>son<hex:03>. Don't worry─it ain't serious.<hex:02100103>...Well, it is a <hex:021A020203>bit<hex:021A020103> serious, to tell the truth."
+50,"TEXT_CLSCUL301_00266_LYNGSATH_000_3","I've gone an' knackered me 'and tryin' to catch a fallin' crate, see. It'll 'eal an' all, but it 'urts like a bastard. Can't so much as scratch me arse with it, never mind 'old a skillet. Wouldn't be so bad, but we got usselves a bigwig comin' to dine today─one o' the most powerful men in Ul'dah!"
+51,"TEXT_CLSCUL301_00266_LYNGSATH_000_4","Now, I've been in the business fer decades, an' I ain't no stranger to coddled dignitaries what whine about the color of the bloody crockery, an' 'ow there's too much parsley garnish on top o' their soup. But this ain't no ordinary coddled dignitary we're dealin' with."
+52,"TEXT_CLSCUL301_00266_LYNGSATH_000_5","This one fancies 'imself as a food critic, an' 'e's <hex:021A020203>always<hex:021A020103> out to find fault, real or not."
+53,"TEXT_CLSCUL301_00266_LYNGSATH_000_6","An' that ain't the worst of it. Owin' to 'is influence, 'e's driven more'n a few respectable establishments into the ground. Fer this 'e's earned 'imself the name o' “Chefsbane” in culinary circles."
+54,"TEXT_CLSCUL301_00266_LYNGSATH_000_7","Each time the man's dined at the Bismarck, I've personally done the cookin' so as to avert disaster."
+55,"TEXT_CLSCUL301_00266_LYNGSATH_000_8","Don't get me wrong─I've got complete trust in all me chefs, but if the Bismarck goes under, the guild goes with it. An' that ain't a burden I can put on just anyone's shoulders."
+56,"TEXT_CLSCUL301_00266_LYNGSATH_000_9","But this time, someone else's gonna 'ave to fill in fer me...an' I wants that someone to be <hex:021A020203>you<hex:021A020103>, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Ye've proven yerself more than capable, an' in 'igh-pressure situations besides. I'm confident ye won't let us down."
+57,"TEXT_CLSCUL301_00266_LYNGSATH_000_10","Ye'd do well to begin by talkin' with Divin' Dove. Bein' a native of Ul'dah, might be as she knows somethin' o' the Chefsba─I mean, <hex:021A020203>Lord Lolorito<hex:021A020103>."
+58,"TEXT_CLSCUL301_00266_DIVINGDOVE_000_20","Aye, I'm aware of the situation. But don't panic─though the guildmaster is indisposed, all is not yet lost."
+59,"TEXT_CLSCUL301_00266_DIVINGDOVE_000_21","In case you're unfamiliar with our distinguished guest, he is the head of the East Aldenard Trading Company. Though you may not have heard that name before, you will almost certainly have heard of the many famous brands it owns, such as Eshtaime's Lapidaries and Sunsilk Tapestries."
+60,"TEXT_CLSCUL301_00266_DIVINGDOVE_000_22","Lord Lolorito's countless successes have made him the wealthiest man in Ul'dah─a place where wealth and influence are synonymous. It goes without saying that he has a seat on the Syndicate, the cabal that rules the sultanate. Ah, lest you wonder, Ul'dah is only notionally a sultanate these days..."
+61,"TEXT_CLSCUL301_00266_DIVINGDOVE_000_23","<hex:021A020203>Anyway<hex:021A020103>, as is often the way with men of means, Lord Lolorito is a lover of fine cuisine. And as the guildmaster doubtless mentioned, he's made a name for himself as a ruthless food critic."
+62,"TEXT_CLSCUL301_00266_DIVINGDOVE_000_24","The man has a penchant for making life miserable for us chefs. Indeed, he <hex:021A020203>never<hex:021A020103> places an order, but demands instead that you “impress him.” And therein lies our first dilemma: what to serve?"
+63,"TEXT_CLSCUL301_00266_DIVINGDOVE_000_25","Lest you think the fates unduly mischievous, I'm happy to report that the odds are not <hex:021A020203>wholly<hex:021A020103> stacked against us. It just so happens that Lolorito's butler, a fellow by the name of Nonopesa, is dining at the Bismarck at this very moment."
+64,"TEXT_CLSCUL301_00266_DIVINGDOVE_000_26","This is a golden chance to learn what manner of dish Lolorito craves. Go to Nonopesa on the terrace, and try to coax the information out of him. Good luck!"
+65,"TEXT_CLSCUL301_00266_NONOPESA_000_30","I'm sorry? I think I may have misheard. Did you say that <hex:021A020203>you<hex:021A020103> would be preparing Lord Lolorito's meal? Well...this is rather unexpected. But if Master Lyngsath saw fit to entrust the task to you, then you must not be without skill."
+66,"TEXT_CLSCUL301_00266_NONOPESA_000_31","Hm? You wish to know what my master desires to eat? Hah hah hah! <hex:021A020203>Finally<hex:021A020103> it occurs to someone to ask me that question!"
+67,"TEXT_CLSCUL301_00266_NONOPESA_000_32","It is my duty to see that my lord never wants for comfort, and naught pleases me more than to see Lord Lolorito in high spirits. As such, I should be glad to share with you what I know."
+68,"TEXT_CLSCUL301_00266_NONOPESA_000_33","To be deleted."
+69,"TEXT_CLSCUL301_00266_NONOPESA_000_34","Shortly prior to arriving in Limsa Lominsa, my master spoke of being seized by a craving for a hearty meal of meat. Though he did not mention a specific dish, I happen to know that smoked raptor is a particular favorite of his. Needless to say, a man of such refined taste as he would expect no less than the <hex:021A020203>finest<hex:021A020103> sample of the dish. I hope this information serves you well."
+70,"TEXT_CLSCUL301_00266_NONOPESA_000_35","Lord Lolorito is due to conclude his business negotiations presently, and will desire to take his meal thereafter. Once the smoked raptor is ready, pray bring it to me. I shall see it delivered to my master."
+71,"TEXT_CLSCUL301_00266_SYSTEM_000_36","The higher the <hex:024804F201F403><hex:024904F201F503>quality<hex:0249020103><hex:0248020103> achieved during synthesis, the greater the chance that the finished item will be of a higher grade (<hex:024804F201F403><hex:024904F201F503>HQ<hex:0249020103><hex:0248020103>)."
+72,"TEXT_CLSCUL301_00266_SYSTEM_000_37","To be deleted."
+73,"TEXT_CLSCUL301_00266_NONOPESA_000_40","Remember: Lord Lolorito will accept nothing less than the best. Your smoked raptor must be the finest example of the dish, prepared with the utmost skill."
+74,"TEXT_CLSCUL301_00266_NONOPESA_001_41","Ah, the smoked raptor is ready? Good. Now, I trust you won't object to an inspection. Lest you worry about your handiwork being defaced, my years serving Lord Lolorito have taught me how to taste with sight and smell alone."
+75,"TEXT_CLSCUL301_00266_NONOPESA_000_41","By the gods... This raptor is <hex:021A020203>sublime<hex:021A020103>!"
+76,"TEXT_CLSCUL301_00266_NONOPESA_000_42","The marriage of cracked pepper and sun lemon begets an irresistible fragrance that perfectly complements the aroma of the meat."
+77,"TEXT_CLSCUL301_00266_NONOPESA_000_43","The flavor is rounded out with the mellow fruitiness of olive oil, which also lends the shank a lustrous sheen that tantalizes the eye."
+78,"TEXT_CLSCUL301_00266_NONOPESA_000_44","I have presided over Lord Lolorito's dining table for many years..."
+79,"TEXT_CLSCUL301_00266_NONOPESA_000_45","And I can say without reservation that this is the most delectable smoked raptor I have ever had the pleasure of <hex:021A020203>not<hex:021A020103> eating!"
+80,"TEXT_CLSCUL301_00266_NONOPESA_000_46","It is of little wonder that Master Lyngsath deemed you fit to cook in his stead─I doubt that even he could have delivered a better rendition of my master's favorite dish. You, <hex:02080FE905FF06>madam<hex:FF04>sir<hex:03>, are quite a culinarian."
+81,"TEXT_CLSCUL301_00266_NONOPESA_000_47","...Ah, but I sense you are more relieved than flattered. Hardly surprising, I suppose. Much and more is said of my lord's “uncompromising” approach to cuisine."
+82,"TEXT_CLSCUL301_00266_NONOPESA_000_48","While I will not refute the rumors, you may rest assured that the Bismarck has no cause to worry."
+83,"TEXT_CLSCUL301_00266_NONOPESA_000_49","Now then, if you will excuse me, I must see my lord's meal delivered to him."
+84,"TEXT_CLSCUL301_00266_NONOPESA_000_50","You may look forward to hearing his judgment anon─and entirely without trepidation, if my senses do not fail me. Pray send Master Lyngsath my compliments."
+85,"TEXT_CLSCUL301_00266_LYNGSATH_000_60","Ye did it, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! You impressed the pants off Lolorito's butler!"
+86,"TEXT_CLSCUL301_00266_LYNGSATH_000_61","Nonopesa knows 'is master's tastes better'n 'is own, an' 'is approval's all the assurance I need. The guild's safe, an' it's all thanks to you!"
+87,"TEXT_CLSCUL301_00266_LYNGSATH_000_62","Ye never cease to amaze me, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Ye came to us with nary any knowledge of cookin', an' now yer like a second left 'and!"
+88,"TEXT_CLSCUL301_00266_LYNGSATH_000_63","...Well, that didn't come out right. What I meant to say was, yer as useful to me as the 'and I 'old me skillet with─summat no culinarian can do without."
+89,"TEXT_CLSCUL301_00266_LYNGSATH_000_64","Ye've got it in ye to be one o' the finest chefs in the realm, an' I would see ye fulfill yer potential. Promise me ye'll keep at yer cookin'."

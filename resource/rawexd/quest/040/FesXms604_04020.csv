@@ -2,91 +2,91 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_FESXMS604_04020_SEQ_00,※本任務是特定期間內的任務。<hex:02100103><hex:02100103>米·凱特露天劇場的阿姆·加蘭基正在為慶祝星芒節做準備。
-1,TEXT_FESXMS604_04020_SEQ_01,※本任務只有在季節活動開放期間才能接受和進行。<hex:02100103>　季節活動結束後無法進行，敬請注意。<hex:02100103>　詳情請參見官方網站。<hex:02100103><hex:02100103>繼續準備工作。經過碧企鵝瀑布，在前往北邊名人居住區的路上，和從容的星芒節執行委員談談。
-2,TEXT_FESXMS604_04020_SEQ_02,和從容的星芒節執行委員進行了交談。為了不讓雪人融化，需要進行保冷處理。對北邊名人居住區前的嶄新的雪人使用永久冰晶。
-3,TEXT_FESXMS604_04020_SEQ_03,對嶄新的雪人使用了永久冰晶。和槍術師公會附近的從容的星芒節執行委員談談。
-4,TEXT_FESXMS604_04020_SEQ_04,和從容的星芒節執行委員進行了交談。和米·凱特露天劇場附近的卡姆利特·哈利特談談。
-5,TEXT_FESXMS604_04020_SEQ_05,和卡姆利特·哈利特進行了交談。向米·凱特露天劇場的阿姆·加蘭基報告。
-6,TEXT_FESXMS604_04020_SEQ_06,向米·凱特露天劇場的阿姆·加蘭基報告完畢，打開禮物箱獲得了獎勵。就照這樣繼續進行準備工作吧。
-7,TEXT_FESXMS604_04020_SEQ_07,
-8,TEXT_FESXMS604_04020_SEQ_08,
-9,TEXT_FESXMS604_04020_SEQ_09,
-10,TEXT_FESXMS604_04020_SEQ_10,
-11,TEXT_FESXMS604_04020_SEQ_11,
-12,TEXT_FESXMS604_04020_SEQ_12,
-13,TEXT_FESXMS604_04020_SEQ_13,
-14,TEXT_FESXMS604_04020_SEQ_14,
-15,TEXT_FESXMS604_04020_SEQ_15,
-16,TEXT_FESXMS604_04020_SEQ_16,
-17,TEXT_FESXMS604_04020_SEQ_17,
-18,TEXT_FESXMS604_04020_SEQ_18,
-19,TEXT_FESXMS604_04020_SEQ_19,
-20,TEXT_FESXMS604_04020_SEQ_20,
-21,TEXT_FESXMS604_04020_SEQ_21,
-22,TEXT_FESXMS604_04020_SEQ_22,
-23,TEXT_FESXMS604_04020_SEQ_23,
-24,TEXT_FESXMS604_04020_TODO_00,和從容的星芒節執行委員對話
-25,TEXT_FESXMS604_04020_TODO_01,對嶄新的雪人使用永久冰晶
-26,TEXT_FESXMS604_04020_TODO_02,和從容的星芒節執行委員對話
-27,TEXT_FESXMS604_04020_TODO_03,和卡姆利特·哈利特對話
-28,TEXT_FESXMS604_04020_TODO_04,向阿姆·加蘭基報告 開啟禮物箱
-29,TEXT_FESXMS604_04020_TODO_05,
-30,TEXT_FESXMS604_04020_TODO_06,
-31,TEXT_FESXMS604_04020_TODO_07,
-32,TEXT_FESXMS604_04020_TODO_08,
-33,TEXT_FESXMS604_04020_TODO_09,
-34,TEXT_FESXMS604_04020_TODO_10,
-35,TEXT_FESXMS604_04020_TODO_11,
-36,TEXT_FESXMS604_04020_TODO_12,
-37,TEXT_FESXMS604_04020_TODO_13,
-38,TEXT_FESXMS604_04020_TODO_14,
-39,TEXT_FESXMS604_04020_TODO_15,
-40,TEXT_FESXMS604_04020_TODO_16,
-41,TEXT_FESXMS604_04020_TODO_17,
-42,TEXT_FESXMS604_04020_TODO_18,
-43,TEXT_FESXMS604_04020_TODO_19,
-44,TEXT_FESXMS604_04020_TODO_20,
-45,TEXT_FESXMS604_04020_TODO_21,
-46,TEXT_FESXMS604_04020_TODO_22,
-47,TEXT_FESXMS604_04020_TODO_23,
-48,TEXT_FESXMS604_04020_KAMLITOHALITO_000_000,我要在這裡再想一下。<hex:02100103>你先去準備下個工作吧。
-49,TEXT_FESXMS604_04020_AMHGARANJY_000_010,那麼還麻煩你繼續下一項準備工作。<hex:02100103>請你經過碧企鵝瀑布，在前往北邊名人居住區的路上，<hex:02100103>找到「從容的星芒節執行委員」，聽他說明情況吧。
-50,TEXT_FESXMS604_04020_ISAINNE_000_020,我一直覺得好神奇！雪人為什麼不會融化呢？<hex:02100103>幫忙的時候可以學到新東西，好開心！
-51,TEXT_FESXMS604_04020_COMMITTEE04020_000_030,哎呀，你也來這邊幫忙了啊。<hex:02100103>在星芒節舉辦期間，為了讓雪人能夠長時間不融化，<hex:02100103>需要用這樣的永久冰晶來施加魔法哦。
-52,TEXT_FESXMS604_04020_COMMITTEE04020_000_031,請你去北邊名人居住區的門口為雪人施法吧。<hex:02100103>我和伊塞娜妹妹就負責槍術師公會那邊好了。<hex:02100103>你搞定了之後就來找我們吧。
-53,TEXT_FESXMS604_04020_AMHGARANJY_000_040,接下來是要為雪人保冷嗎。<hex:02100103>不仔細做的話，雪人可是會在節日中化掉的。
-54,TEXT_FESXMS604_04020_COMMITTEE04020_000_041,請你去北邊名人居住區的門口為雪人施法吧。<hex:02100103>搞定了之後就來找我們吧。
-55,TEXT_FESXMS604_04020_ISAINNE_000_042,這邊的雪人就交給我吧！
-56,TEXT_FESXMS604_04020_COMMITTEE04020_000_050,好，那我們這邊就完成啦！
-57,TEXT_FESXMS604_04020_ISAINNE_000_051,好耶！
-58,TEXT_FESXMS604_04020_COMMITTEE04020_000_052,你那邊也做完了嗎？<hex:02100103>保險起見，我還要去別的地方檢查一下，<hex:02100103>就請你們兩位去和阿姆·加蘭基報告一下吧。
-59,TEXT_FESXMS604_04020_ISAINNE_000_053,那個，冒險者，星芒節開始之後，<hex:02100103>你要和別人一起逛逛嗎？
-60,TEXT_FESXMS604_04020_Q1_000_000,如何作答？
-61,TEXT_FESXMS604_04020_A1_000_001,當然了
-62,TEXT_FESXMS604_04020_A1_000_002,沒什麼計劃
-63,TEXT_FESXMS604_04020_ISAINNE_000_054,這樣啊！<hex:02100103>那一定要布置得漂漂亮亮的，讓你的朋友開心呢！
-64,TEXT_FESXMS604_04020_ISAINNE_000_055,這樣啊。<hex:02100103>也是啦，這個是小孩子的節日嘛。
-65,TEXT_FESXMS604_04020_ISAINNE_000_056,我以前都會和爸爸媽媽一起來的，但是這次不行了……<hex:02100103>所以想像這樣，通過幫大家的忙感受星芒節的氣氛，<hex:02100103>只是這樣我也很開心了。
-66,TEXT_FESXMS604_04020_ISAINNE_000_057,難得能來幫忙，我就想著要做一個超級大的雪人，<hex:02100103>讓爸爸他們也來看一看，<hex:02100103>但是他們不能出門，也看不到慶典的樣子……
-67,TEXT_FESXMS604_04020_ISAINNE_000_058,啊，我們得趕緊回去！<hex:02100103>那我先走啦！
-68,TEXT_FESXMS604_04020_SYSTEM_000_059,不知道卡姆利特·哈利特那邊還順利嗎？<hex:02100103>他應該在米·凱特露天劇場附近的雪人那裡。<hex:02100103>過去看看吧。
-69,TEXT_FESXMS604_04020_AMHGARANJY_000_060,你問卡姆利特？<hex:02100103>他好像就在露天劇場出口附近的雪人那裡哦。
-70,TEXT_FESXMS604_04020_ISAINNE_000_061,哇……雪人變多了！
-71,TEXT_FESXMS604_04020_KAMLITOHALITO_000_070,啊、嗨、伊塞娜。<hex:02100103>我在旁邊也堆了一個雪人……你覺得怎麼樣？
-72,TEXT_FESXMS604_04020_ISAINNE_000_071,好棒好厲害！<hex:02100103>我之前一直覺得雪人孤孤單單的，好可憐呢。<hex:02100103>那個那個，可不可以再堆一個呀！
-73,TEXT_FESXMS604_04020_KAMLITOHALITO_000_072,什麼，再堆一個？！
-74,TEXT_FESXMS604_04020_KAMLITOHALITO_000_073,算了，反正我要的裝飾素材也還沒送來。<hex:02100103>好——那就再堆一個吧！
-75,TEXT_FESXMS604_04020_KAMLITOHALITO_000_074,呵呵，這樣看來，我們的工作還結束不了啊。<hex:02100103>你的工作已經完成了？<hex:02100103>那就麻煩你去向阿姆·加蘭基報告一下吧？
-76,TEXT_FESXMS604_04020_ISAINNE_000_080,絕對是再堆一個比較好！
-77,TEXT_FESXMS604_04020_AMHGARANJY_000_090,歡迎回來！<hex:02100103>那麼，請收下這次的獎勵吧！<hex:02100103>剩下的工作已經不多了呢！
-78,TEXT_FESXMS604_04020_KAMLITOHALITO_000_100,那個……不好意思，我之前多要的雪人裝飾，<hex:02100103>還可以再給我一些嗎？<hex:02100103>我還想再堆一個雪人。
-79,TEXT_FESXMS604_04020_AMHGARANJY_000_101,當然，沒有問題！<hex:02100103>那就由我這邊來安排吧。
-80,TEXT_FESXMS604_04020_AMHGARANJY_000_102,話說回來，卡姆利特你是不是對星芒節的準備工作<hex:02100103>逐漸樂在其中了？
-81,TEXT_FESXMS604_04020_KAMLITOHALITO_000_103,這個嘛，啊哈哈……
-82,TEXT_FESXMS604_04020_KAMLITOHALITO_000_104,之前，對於分配給我的裝飾工作，<hex:02100103>我都只通過字面意義，將其理解為「錦上添花」罷了。
-83,TEXT_FESXMS604_04020_KAMLITOHALITO_000_105,但是現在，每完成一項準備工作，每打開一個格子，<hex:02100103>我都能感到，正是這些微小的工作，<hex:02100103>組成了最後盛大的慶典。
-84,TEXT_FESXMS604_04020_KAMLITOHALITO_000_106,所以，我現在布置什麼都要認真思考，<hex:02100103>不讓自己滿意決不罷休。<hex:02100103>這下反倒是因為太仔細而完不成工作了呢。
-85,TEXT_FESXMS604_04020_AMHGARANJY_000_107,呵呵，這樣也沒關係啊！<hex:02100103>就是因為這樣，大家才會每次都磨蹭到最後！<hex:02100103>卡姆利特能明白這種心情就太好了。
-86,TEXT_FESXMS604_04020_AMHGARANJY_000_108,準備工作還剩一點點了，現在更不能馬虎，<hex:02100103>大家一起仔細布置，創造出最棒的星芒節吧！
-87,TEXT_FESXMS604_04020_SYSTEM_000_109,又收到了新的賀卡。<hex:02100103>去找露天劇場內的貝恩費爾德查看吧。
+0,"TEXT_FESXMS604_04020_SEQ_00","Amh Garanjy is determined to make miracles happen this Starlight season.<hex:02100103>※This quest is available for a limited time only."
+1,"TEXT_FESXMS604_04020_SEQ_01","Amh Garanjy welcomes you back, eager to accept your aid in continuing the preparations for the impending Starlight Celebration. Your task, if you choose to accept it: help ensure that the delightfully decorative snowmen adorning the town stay intact until the season has come and gone. You strike off to hear the details of the task from the less animated of the chief celebrant's associates.<hex:02100103><hex:02100103>※Please note that you will be unable to complete this quest after the seasonal event has ended. For details, please check the Lodestone."
+2,"TEXT_FESXMS604_04020_SEQ_02","Subdued in manner yet nonetheless grateful for your aid, the celebrant outfits you with a shard of the miraculous substance known as eternal ice, the arcane contrivance which gives the snowmen their remarkable staying power. Bidding you to attend to the snowmen on the way to the manor district to the north, he sets off with young Isainne to see to the remaining ones."
+3,"TEXT_FESXMS604_04020_SEQ_03","The eternal ice shard now safely housed inside the snowman's breast, you rest easy that it will not melt away too soon and break some poor child's heart. Return to the vicinity of the Lancers' Guild, that you might inform the celebrant that your task is complete."
+4,"TEXT_FESXMS604_04020_SEQ_04","Back at the Lancers' Guild, the celebrant thanks you for your efforts before heading off to see to yet another stage in the preparations. You share a moment with Isainne, who laments that─for reasons she seems hesitant to divulge in detail─her dear mother and father will be unable to join her for Starlight this year. As she rushes off to tackle her next task, your mind inexplicably turns to your colleague Kamlito Halito. Head back to the amphitheatre and see whether or not the spirit of the season has truly taken hold in the young man's heart."
+5,"TEXT_FESXMS604_04020_SEQ_05","Back at the amphitheatre, you come upon an uncharacteristically unenthusiastic Kamlito Halito hard at work building snowmen, with Isainne cheerfully encouraging him alongside. When the girl suggests that the snowmen would appreciate having some friends, the now-motivated youth is more than happy to oblige, and asks that you go on ahead and report to Amh Garanjy, that he might remain behind until the job is done to his satisfaction."
+6,"TEXT_FESXMS604_04020_SEQ_06","You return to Amh Garanjy, who is once more encouraged by the thoroughness with which you have completed your tasks, as well as with Kamlito Halito's change of heart. Confident that there are still more miracles to be had this Starlight, all present resolve to redouble their efforts to see that no child goes unsmiling this season."
+7,"TEXT_FESXMS604_04020_SEQ_07",""
+8,"TEXT_FESXMS604_04020_SEQ_08",""
+9,"TEXT_FESXMS604_04020_SEQ_09",""
+10,"TEXT_FESXMS604_04020_SEQ_10",""
+11,"TEXT_FESXMS604_04020_SEQ_11",""
+12,"TEXT_FESXMS604_04020_SEQ_12",""
+13,"TEXT_FESXMS604_04020_SEQ_13",""
+14,"TEXT_FESXMS604_04020_SEQ_14",""
+15,"TEXT_FESXMS604_04020_SEQ_15",""
+16,"TEXT_FESXMS604_04020_SEQ_16",""
+17,"TEXT_FESXMS604_04020_SEQ_17",""
+18,"TEXT_FESXMS604_04020_SEQ_18",""
+19,"TEXT_FESXMS604_04020_SEQ_19",""
+20,"TEXT_FESXMS604_04020_SEQ_20",""
+21,"TEXT_FESXMS604_04020_SEQ_21",""
+22,"TEXT_FESXMS604_04020_SEQ_22",""
+23,"TEXT_FESXMS604_04020_SEQ_23",""
+24,"TEXT_FESXMS604_04020_TODO_00","Speak with the saturnine Starlight celebrant."
+25,"TEXT_FESXMS604_04020_TODO_01","Use the fragment of eternal ice on the scintillating snowmen."
+26,"TEXT_FESXMS604_04020_TODO_02","Speak with the saturnine Starlight celebrant."
+27,"TEXT_FESXMS604_04020_TODO_03","Speak with Kamlito Halito."
+28,"TEXT_FESXMS604_04020_TODO_04","Report to Amh Garanjy and open the twinklebox."
+29,"TEXT_FESXMS604_04020_TODO_05",""
+30,"TEXT_FESXMS604_04020_TODO_06",""
+31,"TEXT_FESXMS604_04020_TODO_07",""
+32,"TEXT_FESXMS604_04020_TODO_08",""
+33,"TEXT_FESXMS604_04020_TODO_09",""
+34,"TEXT_FESXMS604_04020_TODO_10",""
+35,"TEXT_FESXMS604_04020_TODO_11",""
+36,"TEXT_FESXMS604_04020_TODO_12",""
+37,"TEXT_FESXMS604_04020_TODO_13",""
+38,"TEXT_FESXMS604_04020_TODO_14",""
+39,"TEXT_FESXMS604_04020_TODO_15",""
+40,"TEXT_FESXMS604_04020_TODO_16",""
+41,"TEXT_FESXMS604_04020_TODO_17",""
+42,"TEXT_FESXMS604_04020_TODO_18",""
+43,"TEXT_FESXMS604_04020_TODO_19",""
+44,"TEXT_FESXMS604_04020_TODO_20",""
+45,"TEXT_FESXMS604_04020_TODO_21",""
+46,"TEXT_FESXMS604_04020_TODO_22",""
+47,"TEXT_FESXMS604_04020_TODO_23",""
+48,"TEXT_FESXMS604_04020_KAMLITOHALITO_000_000","There is more I would consider before returning to my duties. Pray go on ahead for the time being."
+49,"TEXT_FESXMS604_04020_AMHGARANJY_000_010","Starlight waits for no one! Without further ado, I would entrust you with the next most vital task in preparing for the festivities. Simply speak to my colleague stationed past Apkallu Falls on the way to the residential district to the north."
+50,"TEXT_FESXMS604_04020_ISAINNE_000_020","I always wondered why the snowmen never melted, and now I know! Being able to see behind the magic of Starlight is a miracle in itself!"
+51,"TEXT_FESXMS604_04020_COMMITTEE04020_000_030","Back to offer your aid? Well, I suppose we could put you to use. Perhaps you've seen the snowmen around the area? Well, the truth is, we employ a little bit of sorcery to make sure they don't go melting in the event of untimely warm weather."
+52,"TEXT_FESXMS604_04020_COMMITTEE04020_000_031","To that end, I'd task you with stuffing one of these here fragments of what we call eternal ice inside each one of them. If you could see to the ones near the manor district north of here, Isainne and I will take care of those by the Lancers' Guild. Pray meet us there when you're done."
+53,"TEXT_FESXMS604_04020_AMHGARANJY_000_040","Why, just think of how devastated the children would be if those charming snowmen melted into nothing before Starlight was over! You're doing the saint's own work, my friend."
+54,"TEXT_FESXMS604_04020_COMMITTEE04020_000_041","How goes the task? Once you've seen to the snowmen near the manor district, return here that I might know your work is done."
+55,"TEXT_FESXMS604_04020_ISAINNE_000_042","Don't worry, Mister Snowman! I'll see that you stay with us till the very end!"
+56,"TEXT_FESXMS604_04020_COMMITTEE04020_000_050","...And with that, I do believe our job is done."
+57,"TEXT_FESXMS604_04020_ISAINNE_000_051","Hooray!"
+58,"TEXT_FESXMS604_04020_COMMITTEE04020_000_052","I trust you've seen to your snowmen as well? Excellent. I'll survey the area one last time to make sure we haven't overlooked anything, so pray go on ahead of me and report back to Amh Garanjy."
+59,"TEXT_FESXMS604_04020_ISAINNE_000_053","Say, <hex:020813E905FF07>Missus<hex:FF07>Mister<hex:03> Adventurer...is there a special someone you'll be spending Starlight season with this year?"
+60,"TEXT_FESXMS604_04020_Q1_000_000","What will you say?"
+61,"TEXT_FESXMS604_04020_A1_000_001","I have someone in mind."
+62,"TEXT_FESXMS604_04020_A1_000_002","I'm not the celebrating type..."
+63,"TEXT_FESXMS604_04020_ISAINNE_000_054","Oh, is that so? Then we'd best make the decorations extra pretty just for them, yes?"
+64,"TEXT_FESXMS604_04020_ISAINNE_000_055","Oh, that's a shame. Well, I guess Starlight's more for children like me, after all..."
+65,"TEXT_FESXMS604_04020_ISAINNE_000_056","I always used to come with Mother and Father, but they...um, are busy this year. That's why I decided to make myself useful and help out with the preparations."
+66,"TEXT_FESXMS604_04020_ISAINNE_000_057","I had a mind to make a giant snowman, just for them, that we could all come see together! But I think they'll need to stay at home, so... Well, I guess it doesn't matter anymore..."
+67,"TEXT_FESXMS604_04020_ISAINNE_000_058","Oh, but I should get back to work! See you around, <hex:020813E905FF07>Missus<hex:FF07>Mister<hex:03> Adventurer!"
+68,"TEXT_FESXMS604_04020_SYSTEM_000_059","As Isainne races off, your mind drifts to Kamlito Halito, who you believe you last saw at Mih Khetto's Amphitheatre. How does he fare with his allotted task?"
+69,"TEXT_FESXMS604_04020_AMHGARANJY_000_060","Looking for Kamlito, you say? I last saw him examining the snowmen around Mih Khetto's Amphitheatre. Now that you mention it, I'd be much obliged if you could check in on him. Sometimes I worry the boy is too serious for his own good."
+70,"TEXT_FESXMS604_04020_ISAINNE_000_061","Wow, just look at all of them!"
+71,"TEXT_FESXMS604_04020_KAMLITOHALITO_000_070","Wh-Why, hello there, Isainne. I was just putting together another snowman of my own. What do you think...have I redeemed myself?"
+72,"TEXT_FESXMS604_04020_ISAINNE_000_071","Oh, it's wonderful! I was just thinking how this snowman looked so lonely, and now he has a friend! Let's make one more!"
+73,"TEXT_FESXMS604_04020_KAMLITOHALITO_000_072","Yet <hex:021A020203>another<hex:021A020103>, you say!?"
+74,"TEXT_FESXMS604_04020_KAMLITOHALITO_000_073","Indeed...I suppose we've nothing better to do until the next delivery of ornaments arrives. Very well, then─to work!"
+75,"TEXT_FESXMS604_04020_KAMLITOHALITO_000_074","Well, it appears I'll be occupied for a while here, yet. You've completed your task, yes? If you would be so kind, I would ask that you report to Amh Garanjy for the both of us."
+76,"TEXT_FESXMS604_04020_ISAINNE_000_080","The more, the merrier! Let's make another!"
+77,"TEXT_FESXMS604_04020_AMHGARANJY_000_090","Another task completed? And in spectacular fashion, I have no doubt! Just think of how many smiles you've put on the children's faces today. Take your reward, friend─I daresay you've earned it."
+78,"TEXT_FESXMS604_04020_KAMLITOHALITO_000_100","If it would not be too much to ask, we are in need of more snowman decorations. I have─ahem─made an <hex:021A020203>executive decision<hex:021A020103> to build one more."
+79,"TEXT_FESXMS604_04020_AMHGARANJY_000_101","With pleasure! I shall see that the necessary supplies are procured straightaway!"
+80,"TEXT_FESXMS604_04020_AMHGARANJY_000_102","That said, color me surprised, Kamlito. Could it be that you've finally gotten into the spirit of the season after all?"
+81,"TEXT_FESXMS604_04020_KAMLITOHALITO_000_103","Heh. One could say that, I suppose..."
+82,"TEXT_FESXMS604_04020_KAMLITOHALITO_000_104","At first, I simply saw all this decorating as menial labor─trifling tasks far beneath one of my station."
+83,"TEXT_FESXMS604_04020_KAMLITOHALITO_000_105","And yet, seeing the twinkle in young Isainne's eyes every time I make a snowman or hang up a glittering star, I began to sense that I was part of something far larger than I had ever imagined. Before long, I realized the truth─that every one of my actions, no matter how humble, were indispensable in bringing good cheer to the hearts of the children in this realm."
+84,"TEXT_FESXMS604_04020_KAMLITOHALITO_000_106","And, perhaps more importantly, that such acts were diminished if performed without similar sentiments in my own heart. Yet I fear that in realizing this, I have been consumed by the sheer responsibility of these tasks, to the point that I feel almost petrified with a desire to get everything <hex:021A020203>just<hex:021A020103> right..."
+85,"TEXT_FESXMS604_04020_AMHGARANJY_000_107","Ohoho! Worry not, my friend. There's still plenty of time to polish your creations to perfection before the festivities kick off in earnest. So long as you've got that Starlight spirit in you, you're more than fine in my book!"
+86,"TEXT_FESXMS604_04020_AMHGARANJY_000_108","At any rate, our job is almost done─but that's all the more reason we can't afford to slack off or compromise until we've seen to the last of the preparations. The children are counting on us, my friends!"
+87,"TEXT_FESXMS604_04020_SYSTEM_000_109","Another thank-you letter has arrived from one of your many admirers. Speak to Baenfaeld in Mih Khetto's Amphitheatre to see what it says."

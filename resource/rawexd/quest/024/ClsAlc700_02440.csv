@@ -2,157 +2,157 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_CLSALC700_02440_SEQ_00,珀珀庫利非常失落。
-1,TEXT_CLSALC700_02440_SEQ_01,珀珀庫利表示安索伯特已經放棄了這間倉庫。在烏爾達哈的藍玉大街國際市場尋找安索伯特的侍女。
-2,TEXT_CLSALC700_02440_SEQ_02,憂鬱的侍女提供了關於安索伯特的奇怪傳聞。前往烏爾達哈的艾拉里格墓地，和憂鬱的侍女談談。
-3,TEXT_CLSALC700_02440_SEQ_03,憂鬱的侍女證明在城外被撿到的屍體正是她失蹤的友人。為了追緝安索伯特，前往摩杜納的喪靈鐘和珀珀庫利談談。
-4,TEXT_CLSALC700_02440_SEQ_04,安索伯特承認了自己殺人棄屍的罪行。接下來問題就剩下該如何使用心臟之刃讓涅爾弗雷納解脫了。前往煉金術士公會，和塞文利安談談。
-5,TEXT_CLSALC700_02440_SEQ_05,塞文利安表示只要讓心臟之刃從世上消失，就能解開刃上的詛咒。用<hex:02280BFF05>Item<hex:F2460B0103>製作<hex:02280DFF07>ItemHQ<hex:F2460C0103>，並將其交給艾拉里格墓地的古雷因法爾。<hex:02100103><hex:02100103>※如果<hex:02280BFF05>Item<hex:F2460B0103>不足，可以與塞文利安對話重新獲得材料，並再次進行挑戰。
-6,TEXT_CLSALC700_02440_SEQ_06,將<hex:02280DFF07>ItemHQ<hex:F2460C0103>交給了古雷因法爾。從心臟之刃的詛咒中解脫出來的涅爾弗雷納與遇害的侍女化作乙太消失了。和古雷因法爾談談。
-7,TEXT_CLSALC700_02440_SEQ_07,和古雷因法爾進行了交談。返回煉金術士公會和塞文利安談談，轉達芙·拉敏等人的謝意。
-8,TEXT_CLSALC700_02440_SEQ_08,塞文利安表示如果失去了珍視之人，不可以選擇逃避，心中再痛也要堅強地走下去。這就是做人、這就是活著。他留下這些話，轉頭回去工作了。這次案件圓滿結束，塞文利安變得更加信賴冒險者了。今後再發生什麼時，也許還會接到他的委託。
-9,TEXT_CLSALC700_02440_SEQ_09,
-10,TEXT_CLSALC700_02440_SEQ_10,
-11,TEXT_CLSALC700_02440_SEQ_11,
-12,TEXT_CLSALC700_02440_SEQ_12,
-13,TEXT_CLSALC700_02440_SEQ_13,
-14,TEXT_CLSALC700_02440_SEQ_14,
-15,TEXT_CLSALC700_02440_SEQ_15,
-16,TEXT_CLSALC700_02440_SEQ_16,
-17,TEXT_CLSALC700_02440_SEQ_17,
-18,TEXT_CLSALC700_02440_SEQ_18,
-19,TEXT_CLSALC700_02440_SEQ_19,
-20,TEXT_CLSALC700_02440_SEQ_20,
-21,TEXT_CLSALC700_02440_SEQ_21,
-22,TEXT_CLSALC700_02440_SEQ_22,
-23,TEXT_CLSALC700_02440_SEQ_23,
-24,TEXT_CLSALC700_02440_TODO_00,尋找安索伯特的侍女
-25,TEXT_CLSALC700_02440_TODO_01,和艾拉里格墓地的憂鬱的侍女對話
-26,TEXT_CLSALC700_02440_TODO_02,和喪靈鐘的珀珀庫利對話
-27,TEXT_CLSALC700_02440_TODO_03,和煉金術士公會的塞文利安對話
-28,TEXT_CLSALC700_02440_TODO_04,<hex:020879E3E802E803FF33>製作筆記 職業任務：製作<hex:02280DFF07>ItemHQ<hex:F2460C0103><hex:FF3E>將<hex:02280DFF07>ItemHQ<hex:F2460C0103>交給艾拉里格墓地的古雷因法爾<hex:03>
-29,TEXT_CLSALC700_02440_TODO_05,和古雷因法爾對話
-30,TEXT_CLSALC700_02440_TODO_06,和煉金術士公會的塞文利安對話
-31,TEXT_CLSALC700_02440_TODO_07,
-32,TEXT_CLSALC700_02440_TODO_08,
-33,TEXT_CLSALC700_02440_TODO_09,
-34,TEXT_CLSALC700_02440_TODO_10,
-35,TEXT_CLSALC700_02440_TODO_11,
-36,TEXT_CLSALC700_02440_TODO_12,
-37,TEXT_CLSALC700_02440_TODO_13,
-38,TEXT_CLSALC700_02440_TODO_14,
-39,TEXT_CLSALC700_02440_TODO_15,
-40,TEXT_CLSALC700_02440_TODO_16,
-41,TEXT_CLSALC700_02440_TODO_17,
-42,TEXT_CLSALC700_02440_TODO_18,
-43,TEXT_CLSALC700_02440_TODO_19,
-44,TEXT_CLSALC700_02440_TODO_20,
-45,TEXT_CLSALC700_02440_TODO_21,
-46,TEXT_CLSALC700_02440_TODO_22,
-47,TEXT_CLSALC700_02440_TODO_23,
-48,TEXT_CLSALC700_02440_POPOKKULI_000_001,<hex:022903EB0203>，對不起……<hex:02100103>我們沒能抓住安索伯特。
-49,TEXT_CLSALC700_02440_POPOKKULI_000_002,塞塞魯卡叫來銅刃團的人後，我們一起闖進了倉庫裡面，<hex:02100103>但在裡面並沒有發現任何人……<hex:02100103>之後我們輪流在這蹲守，也沒見有人回來過。
-50,TEXT_CLSALC700_02440_POPOKKULI_000_003,不過既然已經知道兇手是誰，<hex:02100103>想抓他就容易多了。
-51,TEXT_CLSALC700_02440_POPOKKULI_000_004,塞塞魯卡發現了安索伯特手下的侍女。<hex:02100103>她現在正在國際市場購物。
-52,TEXT_CLSALC700_02440_POPOKKULI_000_005,我們也在藍玉大街國際市場找找安索伯特的侍女吧。
-53,TEXT_CLSALC700_02440_MAID02440_000_010,我確實是在為安索伯特大人服務……<hex:02100103>各位有什麼事嗎？
-54,TEXT_CLSALC700_02440_POPOKKULI_000_011,你的主人涉嫌一起命案。<hex:02100103>最近他身邊有什麼反常的事情嗎？
-55,TEXT_CLSALC700_02440_MAID02440_000_012,什麼？安索伯特大人他竟然？！<hex:02100103>……這麼說起來，和我同期的一名侍女最近突然不來上班了，<hex:02100103>我想盡辦法也聯繫不上她。
-56,TEXT_CLSALC700_02440_MAID02440_000_013,主人說她盜用錢款所以被解僱了。<hex:02100103>但我和她關係很好，知道她不是那種人。
-57,TEXT_CLSALC700_02440_MAID02440_000_014,還有就是，有傳聞說主人都是僱傭沒什麼背景的貧民女子做侍女。<hex:02100103>我有時覺得他看我們的眼神非常可怕……
-58,TEXT_CLSALC700_02440_POPOKKULI_000_015,嗯，有這些情報就足夠了。<hex:02100103>能請你跟我們去一趟艾拉里格墓地嗎？<hex:02100103>有件事想讓你幫忙確認。
-59,TEXT_CLSALC700_02440_MAID02440_000_016,……好。<hex:02100103>如果能知道她的下落，<hex:02100103>哪裡我都跟你們去。
-60,TEXT_CLSALC700_02440_POPOKKULI_000_020,<hex:022903EB0203>，你也來啦！<hex:02100103>快看看能從侍女口中打聽到什麼情報吧。
-61,TEXT_CLSALC700_02440_SESERUKKA_000_025,可惡的安索伯特……<hex:02100103>你逃到天涯海角我也要把你找出來！
-62,TEXT_CLSALC700_02440_MAID02440_000_030,我確認好了……<hex:02100103>棺中沉睡的女孩，確實是我那個朋友……<hex:02100103>看來主人說她盜用錢款是騙人的……
-63,TEXT_CLSALC700_02440_POPOKKULI_000_031,我知道現在你心裡不好受，<hex:02100103>但我們需要將你的主人緝拿歸案。<hex:02100103>能告訴我們他現在在哪嗎？
-64,TEXT_CLSALC700_02440_MAID02440_000_032,據說是去喪靈鐘和新的生意夥伴進行交易了。
-65,TEXT_CLSALC700_02440_POPOKKULI_000_033,好，我們也到喪靈鐘去吧。<hex:02100103>這次一定要抓住安索伯特！
-66,TEXT_CLSALC700_02440_POPOKKULI_000_035,都怪我，才讓她不得不親自確認自己友人的屍體，<hex:02100103>接受這殘酷的現實……<hex:02100103>我一定會為她報仇的！
-67,TEXT_CLSALC700_02440_POPOKKULI_000_040,我調查了一下有關安索伯特的事。<hex:02100103>據說他是最近嶄露頭角的暴發戶商人，<hex:02100103>賺錢靠的都是些骯髒的下作手段。
-68,TEXT_CLSALC700_02440_POPOKKULI_100_050,我們就在這等，那傢伙一定會出現的。<hex:02100103><hex:022903EB0203>，請你做好準備，這次我們一定要抓住他！
-69,TEXT_CLSALC700_02440_ANSOBERT_000_050,你、你們要做什麼？
-70,TEXT_CLSALC700_02440_POPOKKULI_000_051,我們發現了你手下侍女的屍體，<hex:02100103>想找你了解一下情況。
-71,TEXT_CLSALC700_02440_ANSOBERT_000_052,不不、不知道！<hex:02100103>跟我沒一點關係！
-72,TEXT_CLSALC700_02440_SESERUKKA_000_053,我們已經查到就是你傷了我們的同伴！<hex:02100103>快老實交代！
-73,TEXT_CLSALC700_02440_ANSOBERT_000_054,我都說了我不知道！<hex:02100103>你、你們要是再糾纏我，<hex:02100103>就別怪我不客氣了！
-74,TEXT_CLSALC700_02440_GREINFARR_000_055,(-？？？？-)哈，你想怎麼個不客氣法，<hex:02100103>說出來讓我也聽聽？
-75,TEXT_CLSALC700_02440_MERCENARYA02440_000_056,你、你是？！<hex:02100103>不可能，你明明被刺中了心臟才對！！
-76,TEXT_CLSALC700_02440_SESERUKKA_000_057,古雷因法爾！<hex:02100103>你沒事了嗎？！
-77,TEXT_CLSALC700_02440_GREINFARR_000_058,我可是長年輾轉在生死線上的搏命劍鬥士。<hex:02100103>就算是被偷襲，也能下意識錯開要害。
-78,TEXT_CLSALC700_02440_GREINFARR_000_059,刺傷我的究竟是哪個混蛋呢？<hex:02100103>我記得是在右手上給開了個口子對吧？
-79,TEXT_CLSALC700_02440_ANSOBERT_000_060,嘖……沒辦法了。把他們全宰了！<hex:02100103>你們幾個，上！
-80,TEXT_CLSALC700_02440_MERCENARYA02440_000_061,古雷因法爾？！難道是那個古雷因法爾？！<hex:02100103>烏爾達哈鬥技場中與嘉·莫爾巴並稱的最強鬥士？！
-81,TEXT_CLSALC700_02440_MERCENARYB02440_000_062,跟這種人打有多少條命都不夠死啊！<hex:02100103>不好意思我不幹了！
-82,TEXT_CLSALC700_02440_GREINFARR_000_063,看來從前的名聲現在也還能派上些用場嘛。<hex:02100103>安索伯特，聽過坦白從寬抗拒從嚴沒？
-83,TEXT_CLSALC700_02440_ANSOBERT_000_064,……都、都是那個女人的錯！<hex:02100103>她竟敢不顧我撿她回來的恩情，拒絕我的示愛！
-84,TEXT_CLSALC700_02440_ANSOBERT_000_065,最後她甚至還說要將我強迫她的事情告發出去！！<hex:02100103>為了堵上她的嘴，我才一不小心……
-85,TEXT_CLSALC700_02440_GREINFARR_000_066,呵，我們的目的可不是治你的罪。<hex:02100103>心臟之刃在你手上吧？<hex:02100103>交出來。
-86,TEXT_CLSALC700_02440_POPOKKULI_000_067,我們會負責將你轉交給銅刃團。<hex:02100103>就算途中你因為某些不測而身亡，<hex:02100103>我們也會盡責把你已死的消息帶過去的。你大可以放心好了。
-87,TEXT_CLSALC700_02440_GREINFARR_000_068,這就是真正的心臟之刃嗎……<hex:02100103>確實和我從前偷來的假貨不太一樣……<hex:02100103>之後就差讓涅爾弗雷納解脫的方法了……
-88,TEXT_CLSALC700_02440_GREINFARR_000_069,讓煉金術士公會的塞文利安看看吧。<hex:02100103>也許他會有什麼辦法。<hex:02100103>畢竟有傳聞說他曾經進行過復活死者的研究。
-89,TEXT_CLSALC700_02440_ROWENA_000_070,你這是想在我的地盤上搞事情？
-90,TEXT_CLSALC700_02440_ROWENA_000_071,也罷，安索伯特那傢伙我也看不怎麼順眼……<hex:02100103>你想鬧就鬧吧，我會讓守衛裝作沒看到的。
-91,TEXT_CLSALC700_02440_ROWENA_000_072,叫我一會不論發生什麼都別在意？
-92,TEXT_CLSALC700_02440_WILTWAEK_000_073,哈哈，雖然不知道你想要做些什麼，<hex:02100103>不過我會在這安靜看好戲的。
-93,TEXT_CLSALC700_02440_FLHAMINN_000_075,終於要開始了……
-94,TEXT_CLSALC700_02440_SESERUKKA_000_076,看他這次還怎麼逃！
-95,TEXT_CLSALC700_02440_MAID02440_000_074,她慘遭殺害後還被人誣陷，<hex:02100103>一定死不瞑目……<hex:02100103>請你們務必將兇手繩之於法。
-96,TEXT_CLSALC700_02440_GREINFARR_000_080,請告訴我們解開這玩意詛咒的辦法。
-97,TEXT_CLSALC700_02440_SEVERIAN_000_081,我還以為你們一大幫人一起過來是有什麼事……<hex:02100103>這就是那件傳聞中的咒具——心臟之刃嗎……
-98,TEXT_CLSALC700_02440_SEVERIAN_000_082,果然如此……我知道是怎麼回事了。
-99,TEXT_CLSALC700_02440_SEVERIAN_000_083,心臟之刃並不是一把用來讓死者復活的寶劍。<hex:02100103>它上面附帶的是能將人變成殭屍的死靈術，實在有夠惡趣味。
-100,TEXT_CLSALC700_02440_SEVERIAN_000_084,死靈術是以劍柄上寶石內的魔力為媒介而發動的。
-101,TEXT_CLSALC700_02440_SEVERIAN_000_085,不過另一邊的寶石不知什麼原因不見了蹤影。<hex:02100103>這樣死靈術就會因缺少足夠的魔力而變得不完整。
-102,TEXT_CLSALC700_02440_SEVERIAN_000_086,也虧了這一點，涅爾弗雷納和棄屍案的被害者才沒有變成殭屍。<hex:02100103>不過死靈術畢竟發動了一半，作為代價，<hex:02100103>他們的靈魂被困在了肉體當中。
-103,TEXT_CLSALC700_02440_SEVERIAN_000_087,由於靈魂還留在肉體中，他們的屍首才不會腐朽。<hex:02100103>只要解開心臟之刃的死靈術，他們的靈魂就會被釋放出來，<hex:02100103>回歸到乙太界了。
-104,TEXT_CLSALC700_02440_FLHAMINN_000_088,……如何才能解開這個死靈術？
-105,TEXT_CLSALC700_02440_SEVERIAN_000_089,想解開心臟之刃的死靈術，<hex:02100103>只要將作為魔力來源的媒介破壞掉就可以了。
-106,TEXT_CLSALC700_02440_SEVERIAN_000_090,別衝動。<hex:02100103>把劍打碎是沒用的，<hex:02100103>必須用強效的溶解液將它完全溶解掉才行。
-107,TEXT_CLSALC700_02440_SEVERIAN_000_091,在本大煉金術士和其助手面前，<hex:02100103>這都是小菜一碟而已……我說得對吧？
-108,TEXT_CLSALC700_02440_SEVERIAN_000_092,哈哈，這才是我的好助手。
-109,TEXT_CLSALC700_02440_GREINFARR_000_093,沒想到最後還是要靠你幫忙……<hex:02100103>按道理說，明明應該由我們幾個<hex:02100103>犯下錯誤的人自己想辦法才對……
-110,TEXT_CLSALC700_02440_GREINFARR_000_094,我知道這樣很不要臉，但還是只能麻煩你了……<hex:02100103>拜託了，請做出解除心臟之刃死靈術的藥劑！<hex:02100103>我們在艾拉里格墓地等你。
-111,TEXT_CLSALC700_02440_SEVERIAN_000_095,助手呀，在不知不覺間，<hex:02100103>你已經變成了一個深受大家信賴的人了嘛。
-112,TEXT_CLSALC700_02440_SEVERIAN_000_096,好了，還是快點精製一下用來溶解<hex:02100103>那個惡趣味咒具的溶解液吧。<hex:02100103>材料我為你提供。
-113,TEXT_CLSALC700_02440_SEVERIAN_000_097,以你的水平想做出超強效的溶解液應該很容易吧。<hex:02100103>材料不夠可以找我要。快點做好給古雷因法爾拿去吧。
-114,TEXT_CLSALC700_02440_GREINFARR_000_100,好，讓我們開始吧。
-115,TEXT_CLSALC700_02440_GREINFARR_000_101,自你死後，我就一直在逃避……<hex:02100103>我改名換姓變成布隆茲·布爾，<hex:02100103>逃離了我自己，也逃離了我的劍。
-116,TEXT_CLSALC700_02440_GREINFARR_000_102,從今以後，我決定不再逃避，<hex:02100103>邁開停滯的步伐，向前走下去。<hex:02100103>這次能親自送你一程，真是太好了。
-117,TEXT_CLSALC700_02440_GREINFARR_000_103,今後的事你也無須擔心……<hex:02100103>你犯下的過錯，我來替你承擔……<hex:02100103>去吧，涅爾弗雷納……
-118,TEXT_CLSALC700_02440_POPOKKULI_000_104,涅爾弗雷納……
-119,TEXT_CLSALC700_02440_FLHAMINN_000_105,涅爾弗雷納！
-120,TEXT_CLSALC700_02440_FLHAMINN_000_106,這次是真的要和你分別了……<hex:02100103>與你共度的時光，我永遠都不會忘記。
-121,TEXT_CLSALC700_02440_FLHAMINN_000_107,我永遠……愛你。
-122,TEXT_CLSALC700_02440_FLHAMINN_000_108,永別了，我愛的人……
-123,TEXT_CLSALC700_02440_SEVERIAN_000_109,看來你已經做出需要的溶解液了。<hex:02100103>不愧是我的助手，快去拿給古雷因法爾吧。
-124,TEXT_CLSALC700_02440_FLHAMINN_000_110,我一直在盼著這一天到來……<hex:02100103>但這也意味著我們將真正分離……
-125,TEXT_CLSALC700_02440_POPOKKULI_000_115,沒想到真會等來這一天。<hex:02100103>都是多虧了你的幫助。
-126,TEXT_CLSALC700_02440_SESERUKKA_000_120,涅爾弗雷納……
-127,TEXT_CLSALC700_02440_GREINFARR_000_125,怎樣，藥劑做好了嗎？
-128,TEXT_CLSALC700_02440_GREINFARR_000_130,<hex:022903EB0203>……<hex:02100103>真不知該如何感謝你才好。
-129,TEXT_CLSALC700_02440_GREINFARR_000_131,（★未使用／削除予定★）
-130,TEXT_CLSALC700_02440_FLHAMINN_100_131,都是多虧了你才讓涅爾弗雷納得以解脫。<hex:02100103>真的非常感謝你……
-131,TEXT_CLSALC700_02440_SESERUKKA_000_132,涅爾弗雷納……
-132,TEXT_CLSALC700_02440_POPOKKULI_000_133,塞塞魯卡，抬起頭來！
-133,TEXT_CLSALC700_02440_GREINFARR_000_134,啊，沒錯。<hex:02100103>這不是結束。<hex:02100103>這對我們來說，是一個新的開始。
-134,TEXT_CLSALC700_02440_FLHAMINN_000_135,是啊……多虧了很多人的幫助，我們才能走到今天。<hex:02100103>你的師父塞文利安也幫了我們很大的忙。<hex:02100103>請你也代我們向他道謝吧。
-135,TEXT_CLSALC700_02440_FLHAMINN_000_140,我也不能再在原地踏步，要前進才行啊……
-136,TEXT_CLSALC700_02440_POPOKKULI_000_145,安息吧，我的朋友。
-137,TEXT_CLSALC700_02440_SESERUKKA_000_150,涅爾弗雷納，嗚嗚嗚……
-138,TEXT_CLSALC700_02440_SEVERIAN_000_160,助手你回來啦。<hex:02100103>怎麼樣，將心臟之刃處理掉了嗎？
-139,TEXT_CLSALC700_02440_SEVERIAN_000_161,是嗎……這樣就好。
-140,TEXT_CLSALC700_02440_SEVERIAN_000_162,那麼作為本大煉金術士的助手，這裡有一個問題需要你來回答。<hex:02100103>如果你珍視的人死去了，而復活死者的手段就在眼前……<hex:02100103>你會怎麼做？
-141,TEXT_CLSALC700_02440_Q1_00,如何作答？
-142,TEXT_CLSALC700_02440_A1_01,復活
-143,TEXT_CLSALC700_02440_A1_02,不復活
-144,TEXT_CLSALC700_02440_SEVERIAN_000_163,……這樣啊。
-145,TEXT_CLSALC700_02440_SEVERIAN_000_164,嗯……果然你和我是不一樣的啊。<hex:02100103>你比我高尚、勇敢得多。
-146,TEXT_CLSALC700_02440_SEVERIAN_000_165,想必你也清楚失去珍視的人究竟有多不好受。
-147,TEXT_CLSALC700_02440_SEVERIAN_000_166,真的會讓人覺得只要能讓逝者回到自己身邊，<hex:02100103>就算用有違自然規律的手段又何妨……
-148,TEXT_CLSALC700_02440_SEVERIAN_000_167,就算是我，也未能免俗。<hex:02100103>雖然我沒能追回從前幸福美好的時光，<hex:02100103>但至少我贏得了與她告別的機會……想想我已經很是幸運了。
-149,TEXT_CLSALC700_02440_SEVERIAN_000_168,失去了珍視之人的我們，<hex:02100103>不可以選擇逃避，心中再痛也要堅強地走下去……<hex:02100103>這就是做人、這就是活著……
-150,TEXT_CLSALC700_02440_SEVERIAN_000_169,好了，解決心臟之刃的事時又堆積了很多工作，<hex:02100103>都還等著我去處理。
-151,TEXT_CLSALC700_02440_SEVERIAN_000_170,這次也辛苦你了，助手。<hex:02100103>你果然非常可靠，<hex:02100103>今後再發生什麼事時，依舊要靠你啦。
-152,TEXT_CLSALC700_02440_GREINFARR_000_175,我的心已經很久很久沒有如現在這般平靜。<hex:02100103>這都是你的功勞。
-153,TEXT_CLSALC700_02440_SYSTEM_000_171,作為煉金術士揭開了被隱藏的真相，<hex:02100103>學會了新的技能「魔匠的閃念」！
+0,"TEXT_CLSALC700_02440_SEQ_00","Popokkuli appears to be greatly disappointed."
+1,"TEXT_CLSALC700_02440_SEQ_01","Popokkuli tells you that Ansobert has escaped from his warehouse. Travel to the Sapphire Avenue Exchange, and there search for the merchant's lady attendant."
+2,"TEXT_CLSALC700_02440_SEQ_02","Ansobert's distressed attendant reveals that there is a strange rumor surrounding her master. Travel to Erralig's Burial Chamber and speak with her once more."
+3,"TEXT_CLSALC700_02440_SEQ_03","The distressed attendant confesses to you that the remains found outside the city walls were those of her friend who had gone missing. To continue the hunt for Ansobert, travel to Revenant's Toll and speak with Popokkuli."
+4,"TEXT_CLSALC700_02440_SEQ_04","Ansobert confesses to the crime of murdering the woman whose corpse was found outside the city. You have seized Heartstrike, and all that remains now is to use it to free Niellefresne from the blade's curse. Return to the Alchemists' Guild to speak with Severian."
+5,"TEXT_CLSALC700_02440_SEQ_05","Severian informs you that the curse on Niellefresne can only be broken by destroying Heartstrike and leaving not a trace of it behind. Use a set of dissolvent ingredients to mix a vial of potent dissolvent, and then deliver it to Greinfarr at Erralig's Burial Chamber.<hex:02100103><hex:02100103>※In the event you lose the ingredients or the synthesis ends in failure, you may try again by speaking with Severian."
+6,"TEXT_CLSALC700_02440_SEQ_06","You have seen the vial of potent dissolvent to Greinfarr's hands. Freed at last from the curse of Heartstrike, the remains of Niellefresne and the young lady glow the color of aether before disappearing entirely. Speak once more with Greinfarr."
+7,"TEXT_CLSALC700_02440_SEQ_07","Greinfarr has spoken his piece. Return to the Alchemists' Guild and relay to Severian the deep gratitude of F'lhaminn and her friends."
+8,"TEXT_CLSALC700_02440_SEQ_08","Before returning to his alchemical duties, Severian leaves you with the wisdom that learning to live with the loss of loved ones forces us to face our own weaknesses, and that it is an inevitable part of life itself. His trust and confidence in you have grown by the resolution of this affair at your hands. No doubt your adventures together are far from over."
+9,"TEXT_CLSALC700_02440_SEQ_09",""
+10,"TEXT_CLSALC700_02440_SEQ_10",""
+11,"TEXT_CLSALC700_02440_SEQ_11",""
+12,"TEXT_CLSALC700_02440_SEQ_12",""
+13,"TEXT_CLSALC700_02440_SEQ_13",""
+14,"TEXT_CLSALC700_02440_SEQ_14",""
+15,"TEXT_CLSALC700_02440_SEQ_15",""
+16,"TEXT_CLSALC700_02440_SEQ_16",""
+17,"TEXT_CLSALC700_02440_SEQ_17",""
+18,"TEXT_CLSALC700_02440_SEQ_18",""
+19,"TEXT_CLSALC700_02440_SEQ_19",""
+20,"TEXT_CLSALC700_02440_SEQ_20",""
+21,"TEXT_CLSALC700_02440_SEQ_21",""
+22,"TEXT_CLSALC700_02440_SEQ_22",""
+23,"TEXT_CLSALC700_02440_SEQ_23",""
+24,"TEXT_CLSALC700_02440_TODO_00","Search for Ansobert's lady attendant."
+25,"TEXT_CLSALC700_02440_TODO_01","Speak with the heartsore handmaiden at Erralig's Burial Chamber."
+26,"TEXT_CLSALC700_02440_TODO_02","Speak with Popokkuli at Revenant's Toll."
+27,"TEXT_CLSALC700_02440_TODO_03","Speak with Severian at the Alchemists' Guild."
+28,"TEXT_CLSALC700_02440_TODO_04","<hex:02089BE3E802E803FF35>Synthesize a vial of potent dissolvent <hex:02280AFF06>Addon<hex:0A0103><hex:FF5E>Deliver the vial of potent dissolvent <hex:02280AFF06>Addon<hex:0A0103> to Greinfarr at Erralig's Burial Chamber.<hex:03>"
+29,"TEXT_CLSALC700_02440_TODO_05","Speak with Greinfarr."
+30,"TEXT_CLSALC700_02440_TODO_06","Speak with Severian."
+31,"TEXT_CLSALC700_02440_TODO_07",""
+32,"TEXT_CLSALC700_02440_TODO_08",""
+33,"TEXT_CLSALC700_02440_TODO_09",""
+34,"TEXT_CLSALC700_02440_TODO_10",""
+35,"TEXT_CLSALC700_02440_TODO_11",""
+36,"TEXT_CLSALC700_02440_TODO_12",""
+37,"TEXT_CLSALC700_02440_TODO_13",""
+38,"TEXT_CLSALC700_02440_TODO_14",""
+39,"TEXT_CLSALC700_02440_TODO_15",""
+40,"TEXT_CLSALC700_02440_TODO_16",""
+41,"TEXT_CLSALC700_02440_TODO_17",""
+42,"TEXT_CLSALC700_02440_TODO_18",""
+43,"TEXT_CLSALC700_02440_TODO_19",""
+44,"TEXT_CLSALC700_02440_TODO_20",""
+45,"TEXT_CLSALC700_02440_TODO_21",""
+46,"TEXT_CLSALC700_02440_TODO_22",""
+47,"TEXT_CLSALC700_02440_TODO_23",""
+48,"TEXT_CLSALC700_02440_POPOKKULI_000_001","Forgive me, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. I've failed all of you. Ansobert has made his escape."
+49,"TEXT_CLSALC700_02440_POPOKKULI_000_002","By the time Seserukka arrived with the Brass Blades and we entered the warehouse, he was already gone. We kept watch in shifts after that, but he did not return. No doubt he was onto us."
+50,"TEXT_CLSALC700_02440_POPOKKULI_000_003","But the more we learn of our prey, the more likely we are to succeed in our hunt."
+51,"TEXT_CLSALC700_02440_POPOKKULI_000_004","Seserukka found a woman in the employ of Ansobert─an attendant. We've gotten word she is out to the market as we speak."
+52,"TEXT_CLSALC700_02440_POPOKKULI_000_005","Come with us. We mean to search for this attendant at the Sapphire Avenue Exchange."
+53,"TEXT_CLSALC700_02440_MAID02440_000_010","Yes, that is correct. I am in the employ of the merchant Ansobert. May I inquire as to what business this is about?"
+54,"TEXT_CLSALC700_02440_POPOKKULI_000_011","We've reason to believe your master is involved in a murder. Tell us, have you noticed anything strange about him or his estate of late?"
+55,"TEXT_CLSALC700_02440_MAID02440_000_012","Master Ansobert? Well, now that you mention it... There was another young lady who began work as his attendant around the same time as myself. But one day, with not word of any sort, she simply up and vanished. I never saw her come to work again after that."
+56,"TEXT_CLSALC700_02440_MAID02440_000_013","Master Ansobert claimed she was stealing valuables from his home, and that he had no choice but to discharge her. But I grew to know her in the time we spent together. She never would have done such a thing!"
+57,"TEXT_CLSALC700_02440_MAID02440_000_014","I came to hear a rumor not long after. People say that Master Ansobert only hires as his attendants women of humble means. And I...I confess, at times I find his gazes quite...discomforting."
+58,"TEXT_CLSALC700_02440_POPOKKULI_000_015","It's alright. You're safe now. But I must ask, will you come with us to Erralig's Burial Chamber? There is something we need to know, and only you can tell us."
+59,"TEXT_CLSALC700_02440_MAID02440_000_016","If it will in some way help you to learn what happened to that girl, then yes. I will follow wherever you ask."
+60,"TEXT_CLSALC700_02440_POPOKKULI_000_020","There you are, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! Come, let us hear what this lady attendant has to say."
+61,"TEXT_CLSALC700_02440_SESERUKKA_000_025","Gods damn you, Ansobert! Run as much as you like. We'll find you all the same! We'll find you and end you!"
+62,"TEXT_CLSALC700_02440_MAID02440_000_030","Yes, it... It is her. The girl at rest in that coffin is the same that worked beside me at Mast─at Ansobert's estate. I know now, as I suspected then, that his accusations of her thievery were lies. He did this to her."
+63,"TEXT_CLSALC700_02440_POPOKKULI_000_031","We must capture Ansobert before he harms anyone else. I'm sorry, I know this is not an easy time, but I must ask. Where is he now?"
+64,"TEXT_CLSALC700_02440_MAID02440_000_032","I know only that some dealings with a new client had taken him to Revenant's Toll."
+65,"TEXT_CLSALC700_02440_POPOKKULI_000_033","Then let us make for Revenant's Toll. The hunt is on again!"
+66,"TEXT_CLSALC700_02440_POPOKKULI_000_035","It was no easy thing to have this lady identify the remains of her friend, but it had to be done. The pieces are coming together, and we now know where to find Ansobert!"
+67,"TEXT_CLSALC700_02440_POPOKKULI_000_040","I looked more into Ansobert's doings. It seems his name is well known in mercantile circles. But there are those who say his rise came only after many ill-done deeds. "
+68,"TEXT_CLSALC700_02440_POPOKKULI_100_050","He'll come here before long. We need only wait. Make ready to show Ansobert the vengeance of the dead!"
+69,"TEXT_CLSALC700_02440_ANSOBERT_000_050","Who in the hells are you lot?"
+70,"TEXT_CLSALC700_02440_POPOKKULI_000_051","We're here to ask about the corpse of a young lady known to have been in your employ─one of your lady attendants."
+71,"TEXT_CLSALC700_02440_ANSOBERT_000_052","I know nothing of such things, and resent the implication. I've no business with you, and you've none with me."
+72,"TEXT_CLSALC700_02440_SESERUKKA_000_053","We know you attacked our friend as well. The evidence all points to you. Confess now. The penalty you will pay will only grow if you don't."
+73,"TEXT_CLSALC700_02440_ANSOBERT_000_054","I told you, I know nothing of such things! I urge you to relent in this. A merchant such as myself has means of dealing with such harassment."
+74,"TEXT_CLSALC700_02440_GREINFARR_000_055","Do you, now? And what means are those? I'm eager to hear."
+75,"TEXT_CLSALC700_02440_MERCENARYA02440_000_056","Y-You!? Impossible! You were stabbed... Through your very heart!"
+76,"TEXT_CLSALC700_02440_SESERUKKA_000_057","Greinfarr! You are well again!"
+77,"TEXT_CLSALC700_02440_GREINFARR_000_058","What sort of warrior do you take me for? I've spent years cheating death by sword and spell. Did you think some common blade in an alley would be the end of me?"
+78,"TEXT_CLSALC700_02440_GREINFARR_000_059","Now then, which of you was it? My sword left a nasty bite of its own. Let us have a look at those hands of yours."
+79,"TEXT_CLSALC700_02440_ANSOBERT_000_060","Well, it would seem you've left me no recourse but to kill you all! Send these fools to meet their maker!"
+80,"TEXT_CLSALC700_02440_MERCENARYA02440_000_061","D-Didn't you hear him!? That's Greinfarr! The Bronze Bull! He's a bleedin' legend of the Coliseum, up there with the likes of the Hellfire Phoenix!"
+81,"TEXT_CLSALC700_02440_MERCENARYB02440_000_062","You're not paying us enough for this, merchant. If you have a fight with the Bronze Bull, that fight is yours alone."
+82,"TEXT_CLSALC700_02440_GREINFARR_000_063","I thought my past behind me, but perhaps I am not behind it. No matter. What say you then, Ansobert? Are you prepared to confess your crimes?"
+83,"TEXT_CLSALC700_02440_ANSOBERT_000_064","The girl... It was her fault. She forgot her station! The debt she owed me for taking her in! She had no right to refuse me!"
+84,"TEXT_CLSALC700_02440_ANSOBERT_000_065","In the end, I forced myself upon her, but to no avail. She swore she would tell all of Ul'dah of my improprieties. That she would tarnish my reputation. Ruin me! I... I could not abide that. So I...silenced her."
+85,"TEXT_CLSALC700_02440_GREINFARR_000_066","We are not here to judge you for your crimes. That task will fall to others. We are here for Heartstrike. You have it still, yes? Surrender it."
+86,"TEXT_CLSALC700_02440_POPOKKULI_000_067","We'll take him back to Ul'dah and the Brass Blades. And fear not─should we come under attack and he die along the way, well, we'll be sure he receives a proper burial. Hah!"
+87,"TEXT_CLSALC700_02440_GREINFARR_000_068","So this is the true Heartstrike... And the blade I stole was nothing more than a fake. Now we must find a way to release Niellefresne from the curse that binds him."
+88,"TEXT_CLSALC700_02440_GREINFARR_000_069","We should show it to Severian. There are rumors he's dabbled in raising the dead before. Perhaps he knows something we do not."
+89,"TEXT_CLSALC700_02440_ROWENA_000_070","What trouble have you brought to my gardens here?"
+90,"TEXT_CLSALC700_02440_ROWENA_000_071","Well, Ansobert has always been an acquired taste, and I have never acquired it. I will tell the gate guard to look the other way─no matter what transpires."
+91,"TEXT_CLSALC700_02440_ROWENA_000_072","Hm? I'm to ignore whatever comes to pass here this day?"
+92,"TEXT_CLSALC700_02440_WILTWAEK_000_073","...I know not what you mean to do, but enjoy yourself in doing it."
+93,"TEXT_CLSALC700_02440_FLHAMINN_000_075","The time is nearly here."
+94,"TEXT_CLSALC700_02440_SESERUKKA_000_076","Ansobert can leave here as a corpse or in custody. Either is fine by me."
+95,"TEXT_CLSALC700_02440_MAID02440_000_074","She was sent to her grave still bearing the false accusations thrown upon her. I fear her soul is unable to rest in peace. Please, deliver her to the other side."
+96,"TEXT_CLSALC700_02440_GREINFARR_000_080","We must find a way to break the curse of this blade."
+97,"TEXT_CLSALC700_02440_SEVERIAN_000_081","Well, what a most pleasant surprise. I heard a horde approaching and thought I'd be inconvenienced by some daft clientele. Ahhh, now this is a rare treat indeed. Heartstrike, I presume?"
+98,"TEXT_CLSALC700_02440_SEVERIAN_000_082","How foolish Lord Lolorito must have felt when he realized his blade was false, and Mumuepo's was genuine. And now I too see it for what it truly is."
+99,"TEXT_CLSALC700_02440_SEVERIAN_000_083","Heartstrike is not, and never was, a blade with the glorious power to turn death to life. It is, and ever was, a blade with the hellish power to turn death to undeath. It is, in all ways, a tool of the most detestable of those who practice the dark arts."
+100,"TEXT_CLSALC700_02440_SEVERIAN_000_084","When the blade punctures the flesh of the dead, the magic contained within this jewel here commands to action the deathly forces that grip a corpse."
+101,"TEXT_CLSALC700_02440_SEVERIAN_000_085","And yet, behold, the other side. There is no such jewel embedded here. I would hazard it was dislodged at some point in all the exchanging of hands and violent stabbing this weapon has seen over the years. Without the other stone, there is not enough power to fully render death to undeath."
+102,"TEXT_CLSALC700_02440_SEVERIAN_000_086","By that grace alone do Niellefresne and the young lady continue to lie in their perfectly preserved state. Had both stones remained, they would have risen as monsters─not as they were known in life, and not truly living. With the power it was still able to muster, Heartstrike simply fettered their spirits to their bodies."
+103,"TEXT_CLSALC700_02440_SEVERIAN_000_087","That, in turn, explains wondrously well why their flesh has never set to rot. Now, or at any point hence, the undoing of Heartstrike's magic will serve to unbind their spirits. Then, and only then, will they be free to return in peace to the aetherial realm."
+104,"TEXT_CLSALC700_02440_FLHAMINN_000_088","How? How do we undo what it has done?"
+105,"TEXT_CLSALC700_02440_SEVERIAN_000_089","I daresay it is far more simple than you might imagine. You need only destroy the source of the magic."
+106,"TEXT_CLSALC700_02440_SEVERIAN_000_090","Stay your sword, fool. You will not break the magic by breaking the blade. We must obliterate Heartstrike, and leave nary a trace of its physical existence. To that end, we require a powerful agent─an acid, a dissolvent of some sort."
+107,"TEXT_CLSALC700_02440_SEVERIAN_000_091","And that being the case, you have done yourself a great service in coming here. Such a concoction shall prove no feat at all for myself and my prodigious pupil here. Is that not right, pupil?"
+108,"TEXT_CLSALC700_02440_SEVERIAN_000_092","Indeed not! I would expect nothing less of you."
+109,"TEXT_CLSALC700_02440_GREINFARR_000_093","And so in the end we turn to you, friend. The wrongs of our past were our own. And I hoped to right them by our own hands. But it seems that was not meant to be."
+110,"TEXT_CLSALC700_02440_GREINFARR_000_094","That shame is ours to bear. For now, take your time. Steady your hand. Make us what we need to undo what Heartstrike has done. We will await you at Erralig's Burial Chamber."
+111,"TEXT_CLSALC700_02440_SEVERIAN_000_095","Look at how far you've come. Without me even realizing it, you've grown to be quite the dependable assistant."
+112,"TEXT_CLSALC700_02440_SEVERIAN_000_096","But enough praise. It does not become me. Come, let us see to the task at hand. We are in need of a solution that will dissolve this accursed blade."
+113,"TEXT_CLSALC700_02440_SEVERIAN_000_097","Do not try and create the dissolvent. That is impossible. Instead, try only to realize that you are mixing the ingredients, and that <hex:021A020203>they<hex:021A020103> create the dissolvent. Should you fail in your attempt, I have more materials for you to try again. See this done, and deliver the vial to Greinfarr."
+114,"TEXT_CLSALC700_02440_GREINFARR_000_100","Let us put this to the test, then."
+115,"TEXT_CLSALC700_02440_GREINFARR_000_101","I've run from your death ever since it took you. I was the Bronze Bull, but from that day to this day, I've run from myself. From the blade that is my very life."
+116,"TEXT_CLSALC700_02440_GREINFARR_000_102","But now, at last, I can move forward. I can see you sound to the other side, and live as I should. As I was meant to."
+117,"TEXT_CLSALC700_02440_GREINFARR_000_103","Be at peace now, friend. Lay down the heavy sins of that day. I will carry them. Yours and mine both."
+118,"TEXT_CLSALC700_02440_POPOKKULI_000_104","Niellefresne..."
+119,"TEXT_CLSALC700_02440_FLHAMINN_000_105","Nielle!"
+120,"TEXT_CLSALC700_02440_FLHAMINN_000_106","This is it, then. The end... The very end. Never will I forget you or our time together. The days I spent in your arms. In your love. Never."
+121,"TEXT_CLSALC700_02440_FLHAMINN_000_107","I love you, my sweet. Then. Now. Always."
+122,"TEXT_CLSALC700_02440_FLHAMINN_000_108","Farewell, my darling Nielle."
+123,"TEXT_CLSALC700_02440_SEVERIAN_000_109","Now that looks to be a fine vial of potent dissolvent. I daresay I'm not quite sure if I could have done better myself. But, yes, now that I think on it, I probably could have. Never mind that. Greinfarr awaits. Deliver your vial to him with all haste."
+124,"TEXT_CLSALC700_02440_FLHAMINN_000_110","I have waited for this for a long, long time. Today is the day that we say our final farewell."
+125,"TEXT_CLSALC700_02440_POPOKKULI_000_115","I never thought we'd have this day. This chance. And it is all thanks to you."
+126,"TEXT_CLSALC700_02440_SESERUKKA_000_120","Niellefresne..."
+127,"TEXT_CLSALC700_02440_GREINFARR_000_125","How did you fare, friend? Is the mixture made?"
+128,"TEXT_CLSALC700_02440_GREINFARR_000_130","There are no words, friend. No words. I owe you more than I could ever hope to repay."
+129,"TEXT_CLSALC700_02440_GREINFARR_000_131",""
+130,"TEXT_CLSALC700_02440_FLHAMINN_100_131","By your toils, my dearest Nielle is now at peace. I know not what to say but this─thank you. A thousand times, thank you."
+131,"TEXT_CLSALC700_02440_SESERUKKA_000_132","Niellefresne..."
+132,"TEXT_CLSALC700_02440_POPOKKULI_000_133","Chin up, Seserukka."
+133,"TEXT_CLSALC700_02440_GREINFARR_000_134","This is an end, but not the end. There is still a path before each of us that we must walk."
+134,"TEXT_CLSALC700_02440_FLHAMINN_000_135","You are right. And there will be those who we lean upon, just as we have to get here. Your mentor Severian is one such soul. Please, do tell him how grateful we are for all he has done."
+135,"TEXT_CLSALC700_02440_FLHAMINN_000_140","I must move forward as well. My life must go on."
+136,"TEXT_CLSALC700_02440_POPOKKULI_000_145","Sleep well, friend. Sleep well."
+137,"TEXT_CLSALC700_02440_SESERUKKA_000_150","Good-bye, Niellefresne."
+138,"TEXT_CLSALC700_02440_SEVERIAN_000_160","Welcome back, my intrepid cadet. Tell me, did all go well? Is Heartstrike no more?"
+139,"TEXT_CLSALC700_02440_SEVERIAN_000_161","Then your dissolvent did as dissolvents do. That is good."
+140,"TEXT_CLSALC700_02440_SEVERIAN_000_162","I am eager to move on to our next lesson. I put to you, a fledgling yet great alchemical mind, this quandary. Should you be faced with the death of one whom you loved more than life itself, and had at your means the method to resurrect him or her, would you?"
+141,"TEXT_CLSALC700_02440_Q1_00","What will you say?"
+142,"TEXT_CLSALC700_02440_A1_01","Yes, without hesitation."
+143,"TEXT_CLSALC700_02440_A1_02","No, I would not tamper with the natural order."
+144,"TEXT_CLSALC700_02440_SEVERIAN_000_163","Is that so?"
+145,"TEXT_CLSALC700_02440_SEVERIAN_000_164","Hmph, then you and I are very different people indeed. You are far braver, and far more noble."
+146,"TEXT_CLSALC700_02440_SEVERIAN_000_165","I venture that you, as most, know the pain of losing someone very dear to you."
+147,"TEXT_CLSALC700_02440_SEVERIAN_000_166","There are those who would do anything to bring back those they held torturingly and unyieldingly dear. Were the path to do so presented to them, many would find the temptation to tread it too great to resist."
+148,"TEXT_CLSALC700_02440_SEVERIAN_000_167","And I daresay I must count myself among their number. I did what I could to undo the death of my beloved, yet in the end, her breast never swelled with the breath of life again. We were able to say our farewells, however, and for that I consider myself blessed."
+149,"TEXT_CLSALC700_02440_SEVERIAN_000_168","In the face of such loss, we can do naught but confront our own weakness and carry on with our lives. That act itself is a central pillar of this miracle we call life."
+150,"TEXT_CLSALC700_02440_SEVERIAN_000_169","Well, enough of this Heartstrike business. It is done and behind us. And while we busied ourselves with it, many chores have amassed at the Phrontistery. There is much to be done."
+151,"TEXT_CLSALC700_02440_SEVERIAN_000_170","You did well, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. And you are among the finest alchemists I have ever had the honor to train. Come and see me again whenever you find yourself in need of help."
+152,"TEXT_CLSALC700_02440_GREINFARR_000_175","It has been longer than I can remember since I knew such quiet and calm─such peace. This, too, I owe to you, friend."
+153,"TEXT_CLSALC700_02440_SYSTEM_000_171","In delving deeper into the mystical truths that govern all matter, you have learned “Stroke of Genius”!"

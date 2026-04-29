@@ -2,173 +2,173 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_BANANA002_03037_SEQ_00,<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整（限定職業）<hex:0249020103><hex:0248020103><hex:02100103>威羅迪納基地的阿露帕有事想找冒險者商量。
-1,TEXT_BANANA002_03037_SEQ_01,※本任務為<hex:024804F201FC03><hex:024904F201FD03><hex:0249020103><hex:0248020103> 等級調整（限定職業）任務，<hex:02100103>　需要與接受任務時的職業相同才可繼續進行任務。<hex:02100103><hex:02100103>和阿露帕進行了交談。根據耶夏娜的報告，現在薩利夏的皮膚正處於順滑期。一些人認為威羅迪納基地是帝國支配的象徵，叫嚷著要爆破基地，為了平息他們的怒火，決定對這座橋添加阿拉米格風格的裝飾。和基拉巴尼亞邊區帝國東方堡的塔拉·莫爾酷協牙尉談談。
-2,TEXT_BANANA002_03037_SEQ_02,和塔拉·莫爾酷協牙尉進行了交談。和神拳痕的基弗談談。
-3,TEXT_BANANA002_03037_SEQ_03,和基弗進行了交談。和威羅迪納基地的阿露帕談談。
-4,TEXT_BANANA002_03037_SEQ_04,和阿露帕進行了交談。阿露帕一心想要建造美麗的獅鷲像。對於她能否表現出獅鷲強而有力的表情，基弗表示懷疑。阿露帕則表示為了建造出完美的雕像，想要親身體驗獅鷲在狩獵的時候對獵物放出的突風。和威羅迪納基地的基弗談談。
-5,TEXT_BANANA002_03037_SEQ_05,和基弗進行了交談。騎著獅鷲，對威羅迪納基地的阿露帕使用突風。
-6,TEXT_BANANA002_03037_SEQ_06,對阿露帕放出了突風。但是，因為突風比阿露帕想像中的激烈，阿露帕沒有看到獅鷲的表情。再次騎著獅鷲，對威羅迪納基地的阿露帕使用突風。
-7,TEXT_BANANA002_03037_SEQ_07,再次對阿露帕放出了突風。阿露帕雖然仍為突風的氣勢所震驚，卻沒有看漏獅鷲盯著獵物時的銳利眼神。再一次騎著獅鷲，對威羅迪納基地的阿露帕使用突風。
-8,TEXT_BANANA002_03037_SEQ_08,再一次對阿露帕放出了突風。阿露帕看到賭上性命進行狩獵時的獅鷲的躍動感，從中掌握到了什麼。和威羅迪納基地的阿露帕談談。
-9,TEXT_BANANA002_03037_SEQ_09,和阿露帕進行了交談。基弗看到成對的獅鷲像後，對國境警備隊另眼相看了。今後也繼續幫助阿露帕，為國境線的發展出力吧。
-10,TEXT_BANANA002_03037_SEQ_10,
-11,TEXT_BANANA002_03037_SEQ_11,
-12,TEXT_BANANA002_03037_SEQ_12,
-13,TEXT_BANANA002_03037_SEQ_13,
-14,TEXT_BANANA002_03037_SEQ_14,
-15,TEXT_BANANA002_03037_SEQ_15,
-16,TEXT_BANANA002_03037_SEQ_16,
-17,TEXT_BANANA002_03037_SEQ_17,
-18,TEXT_BANANA002_03037_SEQ_18,
-19,TEXT_BANANA002_03037_SEQ_19,
-20,TEXT_BANANA002_03037_SEQ_20,
-21,TEXT_BANANA002_03037_SEQ_21,
-22,TEXT_BANANA002_03037_SEQ_22,
-23,TEXT_BANANA002_03037_SEQ_23,
-24,TEXT_BANANA002_03037_TODO_00,和帝國東方堡的塔拉·莫爾酷協牙尉對話
-25,TEXT_BANANA002_03037_TODO_01,和神拳痕的基弗對話
-26,TEXT_BANANA002_03037_TODO_02,和威羅迪納基地的阿露帕對話
-27,TEXT_BANANA002_03037_TODO_03,和基弗對話
-28,TEXT_BANANA002_03037_TODO_04,騎著獅鷲對阿露帕使用突風
-29,TEXT_BANANA002_03037_TODO_05,騎著獅鷲再次對阿露帕使用突風
-30,TEXT_BANANA002_03037_TODO_06,騎著獅鷲再一次對阿露帕使用突風
-31,TEXT_BANANA002_03037_TODO_07,和阿露帕對話
-32,TEXT_BANANA002_03037_TODO_08,
-33,TEXT_BANANA002_03037_TODO_09,
-34,TEXT_BANANA002_03037_TODO_10,
-35,TEXT_BANANA002_03037_TODO_11,
-36,TEXT_BANANA002_03037_TODO_12,
-37,TEXT_BANANA002_03037_TODO_13,
-38,TEXT_BANANA002_03037_TODO_14,
-39,TEXT_BANANA002_03037_TODO_15,
-40,TEXT_BANANA002_03037_TODO_16,
-41,TEXT_BANANA002_03037_TODO_17,
-42,TEXT_BANANA002_03037_TODO_18,
-43,TEXT_BANANA002_03037_TODO_19,
-44,TEXT_BANANA002_03037_TODO_20,
-45,TEXT_BANANA002_03037_TODO_21,
-46,TEXT_BANANA002_03037_TODO_22,
-47,TEXT_BANANA002_03037_TODO_23,
-48,TEXT_BANANA002_03037_ALPA_100_001,嘶——<hex:022903EB0203>啊，你來得正好。<hex:02100103>耶夏娜送來了一份報告書，上面寫了母親蛻皮的情況。<hex:02100103>我現在正要確認看看。
-49,TEXT_BANANA002_03037_JOLHMYN_100_001,那我念了啊。
-50,TEXT_BANANA002_03037_JOLHMYN_200_001,那個，現在的領導者的蛻皮情況是……「順滑期」？<hex:02100103>這是什麼意思？
-51,TEXT_BANANA002_03037_ALPA_300_001,是這樣啊，順滑期嗎。<hex:02100103>那麼暫時可以安心了呢。<hex:02100103>如果是瘙癢期的話情況就不同了。
-52,TEXT_BANANA002_03037_JOLHMYN_400_001,不，我們完全不知道你在說什麼。
-53,TEXT_BANANA002_03037_ALPA_000_001,嘶——那麼，<hex:022903EB0203>啊，<hex:02100103>我們現在遇到了一個麻煩的問題，<hex:02100103>近期之內這個關口可能會被破壞掉。
-54,TEXT_BANANA002_03037_JOLHMYN_100_002,喂喂，還不一定會那樣吧。<hex:02100103>要從頭開始好好對<hex:022903EB0203>說明啊。
-55,TEXT_BANANA002_03037_ALPA_000_002,如你所知，這裡原本是帝國軍的補給基地。<hex:02100103>聳立在中央的塔是用於飛空艇起降的，雖然看起來毫無美感，<hex:02100103>可是上面的視野很好，能起到監視的作用。
-56,TEXT_BANANA002_03037_JOLHMYN_000_003,但是，在解放軍中，有不少人認為這裡是帝國支配的象徵，<hex:02100103>想要立即把這裡爆破掉……<hex:02100103>這座大橋可是交通要道，竟然有人想要把它破壞掉，真是愚蠢。
-57,TEXT_BANANA002_03037_JOLHMYN_000_004,現在我們並沒有把它重建成阿拉米格樣式的時間與資金。<hex:02100103>那些激進派放著不管的話，也不知道會幹出什麼來……
-58,TEXT_BANANA002_03037_JOLHMYN_050_004,你準備怎麼做，阿露帕？
-59,TEXT_BANANA002_03037_ALPA_100_004,嘶——當然不能讓他們破壞這座橋。<hex:02100103>變成那樣的話，都不用等到母親蛻皮，<hex:02100103>我就會被抓回去了吧。
-60,TEXT_BANANA002_03037_ALPA_000_005,因此，為了讓反對繼續利用這座橋的傢伙們閉嘴，我有個好主意。<hex:02100103>我們毗羅派的巢為了和伽黎亞派有所區別，<hex:02100103>在建築的風格上做了些改變。
-61,TEXT_BANANA002_03037_ALPA_000_006,在這裡使用同樣的方法的話，我想就算不用重建，<hex:02100103>給人帶來的印象也會發生改變！
-62,TEXT_BANANA002_03037_JOLHMYN_000_007,還不錯嘛？<hex:02100103>不過具體要怎麼做呢？
-63,TEXT_BANANA002_03037_ALPA_000_008,嘶——果然還是應該融入阿拉米格的文化吧。<hex:02100103>但是，我不太了解人類的文化……<hex:02100103>奧爾敏，你有什麼方案嗎？
-64,TEXT_BANANA002_03037_JOLHMYN_000_009,說到阿拉米格風格的話，<hex:02100103>我最先想到的是國旗上面畫著的獅鷲。
-65,TEXT_BANANA002_03037_JOLHMYN_000_010,但是，獅鷲同時也是施行暴政的舊王家的紋章，<hex:02100103>可能會讓人覺得不快吧……<hex:02100103>不行，我想不出來。
-66,TEXT_BANANA002_03037_ALPA_000_011,嗯，要找出能使所有阿拉米格人都能接受的風格的話，<hex:02100103>需要能夠從外部看待阿拉米格的客觀視角。
-67,TEXT_BANANA002_03037_ALPA_100_011,<hex:022903EB0203>……<hex:02100103>在你的熟人裡，有沒有非阿拉米格出身，<hex:02100103>卻對這個國家的歷史很熟悉的人呢？
-68,TEXT_BANANA002_03037_Q1_000_000,如何作答？
-69,TEXT_BANANA002_03037_A1_000_001,我在雙蛇黨戰史科有個認識的人
-70,TEXT_BANANA002_03037_A1_000_002,沒什麼印象
-71,TEXT_BANANA002_03037_ALPA_000_013,嘶——像你這樣在各地奔波的冒險者的話，<hex:02100103>至少也能想到一個的吧？<hex:02100103>你再好好想想……
-72,TEXT_BANANA002_03037_ALPA_000_014,嘶——駐紮在帝國東方堡的<hex:02100103>雙蛇黨戰史科的塔拉·莫爾酷協牙尉是嗎。<hex:02100103>好！那就快去找那個人問問看吧！
-73,TEXT_BANANA002_03037_TAHLAMOLKOH_000_020,哎呀，這不是英雄「面具殺手」嗎！<hex:02100103>再次見到你我很高興！
-74,TEXT_BANANA002_03037_TAHLAMOLKOH_100_020,我之前一直在處理「黑玫瑰」那件事，<hex:02100103>才剛剛回到這座基地。
-75,TEXT_BANANA002_03037_ALPA_000_021,嘶——英雄「面具殺手」是什麼意思？
-76,TEXT_BANANA002_03037_JOLHMYN_000_022,……我們也應該這麼稱呼你嗎？
-77,TEXT_BANANA002_03037_TAHLAMOLKOH_000_023,你也用不著這麼討厭吧……
-78,TEXT_BANANA002_03037_ALPA_000_024,嘶——初次見面，我叫阿露帕。<hex:02100103>現任國境警備隊的隊長。<hex:02100103>今天我到這來是有事想和塔拉·莫爾酷協牙尉你商量。
-79,TEXT_BANANA002_03037_TAHLAMOLKOH_000_025,哦，雖然不知道我能不能幫得上忙，<hex:02100103>不過還是先聽你詳細說說看吧。
-80,TEXT_BANANA002_03037_ALPA_000_026,嘶——這事說來話長……
-81,TEXT_BANANA002_03037_TAHLAMOLKOH_000_027,是這樣啊……我明白了。<hex:02100103>國家的大門如果一直都是帝國製的話，確實讓人提不起勁呢。
-82,TEXT_BANANA002_03037_TAHLAMOLKOH_000_028,說到阿拉米格的象徵，<hex:02100103>果然還是國旗上面畫的獅鷲了吧。
-83,TEXT_BANANA002_03037_JOLHMYN_000_029,這個我們當然也想到了。<hex:02100103>但是，我又覺得舊王家的紋章恐怕會讓有些人不快。<hex:02100103>不然我們也不會求助於格里達尼亞人了。
-84,TEXT_BANANA002_03037_TAHLAMOLKOH_000_030,請你聽我說完。<hex:02100103>並不是單純的獅鷲，而是兩隻成對的獅鷲。
-85,TEXT_BANANA002_03037_JOLHMYN_000_031,（★未使用／削除予定★）
-86,TEXT_BANANA002_03037_TAHLAMOLKOH_100_031,獅鷲是一種會和伴侶相濡以沫同甘共苦的生物，<hex:02100103>基拉巴尼亞自古以來就將其視為團結的象徵。<hex:02100103>因此，阿拉米格正門上的獅鷲像也是成對的。
-87,TEXT_BANANA002_03037_ALPA_000_032,嘶——只要造成對的獅鷲像就可以了吧！<hex:02100103>並不是作為王家的象徵，而是基拉巴尼亞活著的人們團結的象徵！<hex:02100103>嗯，好主意！
-88,TEXT_BANANA002_03037_ALPA_000_033,塔拉·莫爾酷協牙尉，我向你致謝！<hex:02100103>等你有空的時候，就到關口來玩吧！
-89,TEXT_BANANA002_03037_TAHLAMOLKOH_000_034,我會的。<hex:02100103>警備隊長，你也要加油啊。
-90,TEXT_BANANA002_03037_JOLHMYN_000_035,那我就去找可以作材料的金屬了。<hex:02100103>要造成對的獅鷲像的話，收集需要的金屬估計要花不少時間。<hex:02100103>在此期間，阿露帕隊長就去調集擅長冶煉金屬的阿難陀族們吧。
-91,TEXT_BANANA002_03037_JOLHMYN_100_035,<hex:022903EB0203>，就麻煩你去找來用作原型的成對的獅鷲吧。
-92,TEXT_BANANA002_03037_JOLHMYN_000_036,我記得解放軍中負責飼育獅鷲的<hex:02100103>是一位名叫基弗的馴獸人，<hex:02100103>能請你去神拳痕找他了解一下情況嗎？
-93,TEXT_BANANA002_03037_ALPA_000_040,（★未使用／削除予定★）
-94,TEXT_BANANA002_03037_JOLHMYN_000_045,（★未使用／削除予定★）
-95,TEXT_BANANA002_03037_GIFF_000_050,你找我有事？
-96,TEXT_BANANA002_03037_GIFF_000_051,你是被熟人所託，來借成對的獅鷲的？<hex:02100103>沒問題，畢竟你是我們解放軍的恩人。<hex:02100103>然後呢，要我牽去給誰？
-97,TEXT_BANANA002_03037_GIFF_000_052,威羅迪納基地？<hex:02100103>難道說，要借獅鷲的是最新成立的國境警備隊嗎？<hex:02100103>那種帝國的遺物不如趕緊破壞掉……
-98,TEXT_BANANA002_03037_GIFF_000_053,……算了，我明白了，我這就去準備。<hex:02100103>你先回威羅迪納基地去吧，<hex:02100103>和那個叫阿露帕的一起等我一會。
-99,TEXT_BANANA002_03037_TAHLAMOLKOH_000_055,英雄「面具殺手」這次去給國境警備隊幫忙了啊。<hex:02100103>我還期待著你什麼時候去和下一個戴面具的人戰鬥呢……
-100,TEXT_BANANA002_03037_ALPA_100_061,你回來了啊，<hex:022903EB0203>。<hex:02100103>你借到獅鷲了嗎？
-101,TEXT_BANANA002_03037_GIFF_000_060,……久等了嗎？<hex:02100103>在路上碰到了同盟軍中的熟人，耽擱了些時間。<hex:02100103>我把你們要的獅鷲送過來了。
-102,TEXT_BANANA002_03037_ALPA_000_061,嘶——哦哦，謝謝你！<hex:02100103>就以它為原型，造出漂亮的雕像來吧！
-103,TEXT_BANANA002_03037_GIFF_100_061,你說要造雕像？！<hex:02100103>到底怎麼回事？
-104,TEXT_BANANA002_03037_ALPA_200_061,嗯，我們要讓這座關口成為新的阿拉米格的大門，<hex:02100103>為此需要與之相稱的象徵，<hex:02100103>所以要用你的獅鷲作為原型建造美麗的雕像！
-105,TEXT_BANANA002_03037_GIFF_300_061,哼，無聊！我還以為要用獅鷲幹什麼，竟然是造雕像？<hex:02100103>你這小丫頭隊長，還挺閒是吧？<hex:02100103>趕緊砸掉這座橋，回勇巢去如何？
-106,TEXT_BANANA002_03037_ESHANA_410_062,嘶——等等，你敢侮辱我們隊長，<hex:02100103>我們可不會袖手旁觀。
-107,TEXT_BANANA002_03037_GIFF_420_062,哈，還真是很得人心啊？<hex:02100103>這種小丫頭到底哪裡好啊……
-108,TEXT_BANANA002_03037_ESHANA_430_062,我雖然身為阿難陀族卻不擅長戰鬥。<hex:02100103>因此，剛剛參加解放軍的時候，<hex:02100103>幾乎所有部隊都拒絕我加入，這使我被孤立了。
-109,TEXT_BANANA002_03037_ESHANA_440_062,那個時候，阿露帕隊長邀請我進了工兵隊。<hex:02100103>並且教會了我，除了戰鬥以外，還有別的為解放軍做貢獻的方式。
-110,TEXT_BANANA002_03037_ESHANA_450_062,隊長她雖然看起來年幼，卻是個值得尊敬的人。<hex:02100103>……在你妄加評論之前，不能先看看她工作時候的樣子嗎。
-111,TEXT_BANANA002_03037_ALPA_460_061,耶夏娜……
-112,TEXT_BANANA002_03037_GIFF_470_062,……哼。<hex:02100103>我只是被<hex:022903EB0203>拜託才會到這來的。<hex:02100103>趕緊把事辦完吧。
-113,TEXT_BANANA002_03037_ALPA_480_061,哦哦，感激不盡！
-114,TEXT_BANANA002_03037_GIFF_500_061,但是，光是這麼普通地看，是理解不了它的美的。<hex:02100103>獅鷲只有在使用突風來削弱獵物的時候，<hex:02100103>才會露出最美的強而有力的表情。
-115,TEXT_BANANA002_03037_ALPA_600_061,哦……那我倒真想見識一下。<hex:02100103>不，乾脆，用我的身體來吃一發突風看看吧！
-116,TEXT_BANANA002_03037_GIFF_700_061,你、你是認真的嗎？！
-117,TEXT_BANANA002_03037_ALPA_800_061,嘶——這是自然！
-118,TEXT_BANANA002_03037_GIFF_900_061,真是瘋了……這種事恕我無法奉陪。<hex:02100103>無論如何都要做的話，就由你來吧。
-119,TEXT_BANANA002_03037_ALPA_100_062,這樣啊，我聽說<hex:022903EB0203>也精通騎術！<hex:02100103>那就請你騎上獅鷲，對我放出突風吧！
-120,TEXT_BANANA002_03037_ALPA_200_062,不過在這做會妨礙到別人的。<hex:02100103>我們去門那邊吧。
-121,TEXT_BANANA002_03037_ESHANA_000_063,嘶嘶嘶，她這種強硬的地方，還和那個時候完全一樣啊……
-122,TEXT_BANANA002_03037_ALPA_000_062,（★未使用／削除予定★）
-123,TEXT_BANANA002_03037_GIFF_000_065,你準備好了吧。<hex:02100103>騎上獅鷲之後，就對那個叫阿露帕的小丫頭，<hex:02100103>使用突風吧。
-124,TEXT_BANANA002_03037_GIFF_000_066,如果不小心下來了的話，<hex:02100103>再來找我就行……<hex:02100103>那你就試試吧。
-125,TEXT_BANANA002_03037_ALPA_100_066,（★未使用／削除予定★）
-126,TEXT_BANANA002_03037_ALPA_000_67,嘶——<hex:022903EB0203>啊！<hex:02100103>我聽說你也精通騎術！<hex:02100103>那就請你騎上獅鷲，對我放出突風吧！
-127,TEXT_BANANA002_03037_ALPA_100_070,嘶——快對我放出獅鷲的突風吧！
-128,TEXT_BANANA002_03037_ALPA_000_070,嘶？！
-129,TEXT_BANANA002_03037_ALPA_000_071,……啊，這就是獅鷲的突風嗎……<hex:02100103>比想像中要激烈得多。<hex:02100103>我不由自主地就把頭扭過去了……
-130,TEXT_BANANA002_03037_ALPA_100_071,不好意思，<hex:02100103>請你再一次對我放出獅鷲的突風吧！
-131,TEXT_BANANA002_03037_ALPA_200_071,不好意思，<hex:02100103>請你再一次對我放出獅鷲的突風吧！
-132,TEXT_BANANA002_03037_ALPA_300_071,嘶嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚！！
-133,TEXT_BANANA002_03037_ALPA_400_071,還是這麼驚人的氣勢……<hex:02100103>但是，這次讓我看到了！<hex:02100103>獅鷲盯著獵物時的銳利眼神！
-134,TEXT_BANANA002_03037_ALPA_500_071,<hex:022903EB0203>，這是最後一次！<hex:02100103>再讓我看一次獅鷲使用突風時的雄姿！
-135,TEXT_BANANA002_03037_ALPA_600_071,<hex:022903EB0203>，這是最後一次！<hex:02100103>再讓我看一次獅鷲使用突風時雄姿！
-136,TEXT_BANANA002_03037_ALPA_700_071,（★未使用／削除予定★）
-137,TEXT_BANANA002_03037_ALPA_800_071,嘶啊啊——
-138,TEXT_BANANA002_03037_ALPA_900_071,……看到了……我看到了！！<hex:02100103>賭上性命進行狩獵時的，獅鷲的躍動感！！
-139,TEXT_BANANA002_03037_ALPA_950_072,這樣就準備就緒了！<hex:02100103>謝謝你，<hex:022903EB0203>！你可以下來了！
-140,TEXT_BANANA002_03037_GIFF_100_071,（★未使用／削除予定★）
-141,TEXT_BANANA002_03037_ALPA_000_072,（★未使用／削除予定★）
-142,TEXT_BANANA002_03037_ALPA_000_073,趁著剛才的感覺還在，我們要開始製作雕像了。<hex:02100103>你就暫時等一下吧。
-143,TEXT_BANANA002_03037_GIFF_000_075,你從獅鷲上下來了啊？<hex:02100103>那我就再讓你騎一次吧。
-144,TEXT_BANANA002_03037_GIFF_000_080,這是……好厲害。
-145,TEXT_BANANA002_03037_GIFF_000_081,在這邊境之地能有這種美麗而又強而有力的雕像的話，<hex:02100103>就能向國境內外彰顯阿拉米格的威嚴了吧……
-146,TEXT_BANANA002_03037_GIFF_000_082,……真了不起。<hex:02100103>沒想到光是立起阿拉米格的象徵物，<hex:02100103>就能將帝國的軍事據點轉變成我國的大門……
-147,TEXT_BANANA002_03037_ALPA_000_083,嘶——怎麼樣，很氣派吧？
-148,TEXT_BANANA002_03037_GIFF_000_084,……嗯，你說的沒錯。<hex:02100103>我聽說過阿難陀族會用魔法來冶煉金屬，<hex:02100103>沒想到，竟然能造出這麼氣派的雕像……
-149,TEXT_BANANA002_03037_ALPA_100_084,現在還只是造好了一座。<hex:02100103>接下來必須要造另一座！
-150,TEXT_BANANA002_03037_ALPA_200_084,我們要建造的是成對的獅鷲像……<hex:02100103>是代表基拉巴尼亞居民們的團結，<hex:02100103>與阿拉米格未來的雕像！
-151,TEXT_BANANA002_03037_GIFF_000_085,沒想到你居然為這個國家考慮了這麼多。<hex:02100103>突然覺得只會嚷嚷著破壞破壞的自己，<hex:02100103>簡直就像是什麼都做不到的傻瓜一樣。
-152,TEXT_BANANA002_03037_ALPA_000_086,嘶——沒有那種事，<hex:02100103>你不是把獅鷲養育得很好嗎。
-153,TEXT_BANANA002_03037_ALPA_000_087,這隻獅鷲真的很優秀！<hex:02100103>如果我們隊裡也有獅鷲的話，國境警備就能輕鬆不少吧……
-154,TEXT_BANANA002_03037_GIFF_000_088,……阿露帕，不，阿露帕隊長。<hex:02100103>能讓我們獅鷲騎兵隊也屯駐在這座關口嗎？
-155,TEXT_BANANA002_03037_GIFF_000_089,就像國境警備隊和冒險者們所做的那樣，<hex:02100103>我們也要為阿拉米格的和平做貢獻。
-156,TEXT_BANANA002_03037_ALPA_000_090,嘶——你說的是真的嗎？！
-157,TEXT_BANANA002_03037_ALPA_000_091,哇，太好了！！
-158,TEXT_BANANA002_03037_JOLHMYN_000_092,看來事情總算是圓滿結束了。<hex:02100103>能夠改變基弗的想法的話，<hex:02100103>要將這座橋爆破掉這種意見，早晚也會徹底消失的吧。
-159,TEXT_BANANA002_03037_ALPA_000_093,希望各位今後能繼續為邊區的和平與關口的發展貢獻力量！
-160,TEXT_BANANA002_03037_SYSTEM_000_094,威羅迪納基地現在建起了成對的獅鷲像！
-161,TEXT_BANANA002_03037_SYSTEM_000_095,與阿難陀族「阿露帕國境警備隊」之間的關係程度到達了「信賴」。<hex:02100103>通過對關口的發展提供幫助，贏得了信賴。
-162,TEXT_BANANA002_03037_SYSTEM_000_096,今後可以在威羅迪納基地的耶夏娜處，<hex:02100103>接受新的友好部族日常任務。
-163,TEXT_BANANA002_03037_SYSTEM_000_097,同時，作為獎勵，<hex:02100103>友好關係等級提升的當天，<hex:02100103>可從耶夏娜處接受的友好部族日常任務數量追加3個。
-164,TEXT_BANANA002_03037_SYSTEM_000_098,領取完所有友好關係等級提升前發行的友好部族日常任務後，<hex:02100103>將會發行作為獎勵的追加任務。<hex:02100103>受理限額未達到上限即可接受追加任務。
-165,TEXT_BANANA002_03037_SYSTEM_000_099,並且可以在「摩偷羅」處購入要求「關係程度：信賴」的商品。<hex:02100103>在今後的冒險裡善加利用吧！
-166,TEXT_BANANA002_03037_SYSTEM_000_100,若要繼續進行下一個友好部族劇情任務，<hex:02100103>需完成「紅蓮之狂潮主線任務」中的「前往山岳地帶」。
-167,TEXT_BANANA002_03037_ALPA_000_105,（★未使用／削除予定★）
-168,TEXT_BANANA002_03037_JOLHMYN_000_110,（★未使用／削除予定★）
-169,TEXT_BANANA002_03037_GIFF_100_120,我想知道你會怎麼做，於是過來看了一下，<hex:02100103>沒想到你竟然真的下手了……
+0,"TEXT_BANANA002_03037_SEQ_00","Alpa's plans for Castellum Velodyna are facing opposition.<hex:02100103>※The difficulty of this quest will be synced to your current level."
+1,"TEXT_BANANA002_03037_SEQ_01","Castellum Velodyna looms large over Ala Mhigo, and it is a constant reminder of years of suffering at the hands of the Garleans that many citizens would rather see destroyed. Alpa seeks to placate those who oppose her project by introducing traditional Ala Mhigan designs, but she lacks the knowledge required to make informed choices. You suggest speaking to Tahla Molkoh stationed at Castrum Oriens, who is a wellspring of information on local history.<hex:02100103><hex:02100103>※Please note that the difficulty of this quest has been synced to your current level. Furthermore, you may not proceed with a class or job that is different from when you accepted this quest."
+2,"TEXT_BANANA002_03037_SEQ_02","Tahla Molkoh recommends the traditional motif of a pair of griffins, which symbolizes everlasting loyalty. This gives Alpa the idea of crafting a pair of metal griffin statues to decorate the castellum. Feeling that it would be best to base the sculptures on a real griffin, J'olhmyn suggests consulting Giff the beast trainer at Rhalgr's Reach."
+3,"TEXT_BANANA002_03037_SEQ_03","Giff expresses his opposition to the Gatekeepers and their plans for the castellum, but promises to supply a griffin as thanks for your commitment to the Resistance. He will meet with you and the others in Castellum Velodyna."
+4,"TEXT_BANANA002_03037_SEQ_04","Giff reaches the castellum as promised, but is displeased when he hears that his griffin will be used as a basis for Alpa's statues. Although he is reluctant to help with what he considers to be a pointless endeavor, he agrees all the same. According to Giff, a griffin is at its most dynamic when creating its characteristic gusts of wind, with which they subdue their prey. Much to his surprise, Alpa expresses a desire to experience this powerful attack for herself to better understand the true nature of the winged beast. As Giff refuses to have any further part in this absurd plan, Alpa nominates you to ride the griffin."
+5,"TEXT_BANANA002_03037_SEQ_05","You climb atop the griffin and find that it responds well to your commands. Next, you head in Alpa's direction and prepare to unleash a buffet of wind."
+6,"TEXT_BANANA002_03037_SEQ_06","Though struck with the full force of the blast, Alpa appears to be unscathed. Unfortunately, she instinctively closed her eyes due to the power of the blast. She asks you to make another attempt."
+7,"TEXT_BANANA002_03037_SEQ_07","The griffin whips a second gust of air towards Alpa. Despite making a concerted effort to keep her eyes open, she is only able to catch a glimpse of the creature. She steels herself for one more blast."
+8,"TEXT_BANANA002_03037_SEQ_08","This time, Alpa is able to witness the awe-inspiring spectacle of the griffin as it summons forth a buffet of wind. Her study of the fearsome creature is now complete and she prepares to capture its majesty in metallic form."
+9,"TEXT_BANANA002_03037_SEQ_09","Alpa's skill as a metalworker is something to behold and Giff is quick to shower her with praise. Despite once being vehemently opposed to her plans for Velodyna, he offers the services of the Resistance's griffin riders. The young captain has succeeded in protecting the castellum from demolition and bolstered the ranks of the Gatekeepers in one deft move."
+10,"TEXT_BANANA002_03037_SEQ_10",""
+11,"TEXT_BANANA002_03037_SEQ_11",""
+12,"TEXT_BANANA002_03037_SEQ_12",""
+13,"TEXT_BANANA002_03037_SEQ_13",""
+14,"TEXT_BANANA002_03037_SEQ_14",""
+15,"TEXT_BANANA002_03037_SEQ_15",""
+16,"TEXT_BANANA002_03037_SEQ_16",""
+17,"TEXT_BANANA002_03037_SEQ_17",""
+18,"TEXT_BANANA002_03037_SEQ_18",""
+19,"TEXT_BANANA002_03037_SEQ_19",""
+20,"TEXT_BANANA002_03037_SEQ_20",""
+21,"TEXT_BANANA002_03037_SEQ_21",""
+22,"TEXT_BANANA002_03037_SEQ_22",""
+23,"TEXT_BANANA002_03037_SEQ_23",""
+24,"TEXT_BANANA002_03037_TODO_00","Speak with Tahla Molkoh at Castrum Oriens."
+25,"TEXT_BANANA002_03037_TODO_01","Speak with Giff in Rhalgr's Reach."
+26,"TEXT_BANANA002_03037_TODO_02","Speak with Alpa at Castellum Velodyna."
+27,"TEXT_BANANA002_03037_TODO_03","Speak with Giff."
+28,"TEXT_BANANA002_03037_TODO_04","Use the griffin's Buffet ability on Alpa."
+29,"TEXT_BANANA002_03037_TODO_05","Use the griffin's Buffet ability on Alpa again."
+30,"TEXT_BANANA002_03037_TODO_06","Use the griffin's Buffet ability on Alpa yet again."
+31,"TEXT_BANANA002_03037_TODO_07","Speak with Alpa."
+32,"TEXT_BANANA002_03037_TODO_08",""
+33,"TEXT_BANANA002_03037_TODO_09",""
+34,"TEXT_BANANA002_03037_TODO_10",""
+35,"TEXT_BANANA002_03037_TODO_11",""
+36,"TEXT_BANANA002_03037_TODO_12",""
+37,"TEXT_BANANA002_03037_TODO_13",""
+38,"TEXT_BANANA002_03037_TODO_14",""
+39,"TEXT_BANANA002_03037_TODO_15",""
+40,"TEXT_BANANA002_03037_TODO_16",""
+41,"TEXT_BANANA002_03037_TODO_17",""
+42,"TEXT_BANANA002_03037_TODO_18",""
+43,"TEXT_BANANA002_03037_TODO_19",""
+44,"TEXT_BANANA002_03037_TODO_20",""
+45,"TEXT_BANANA002_03037_TODO_21",""
+46,"TEXT_BANANA002_03037_TODO_22",""
+47,"TEXT_BANANA002_03037_TODO_23",""
+48,"TEXT_BANANA002_03037_ALPA_100_001","Oh, there you are, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. We've just received a report from Eshana."
+49,"TEXT_BANANA002_03037_JOLHMYN_100_001","I'll read it out."
+50,"TEXT_BANANA002_03037_JOLHMYN_200_001","""At present, the broodmother's skin is smooth.“ Wait─What in Rhalgr's name is this?"
+51,"TEXT_BANANA002_03037_ALPA_300_001","Good news, that's what. While it's sssmooth, we still have time before she needs to molt. Once it starts to dry, we'll know the day of the inspection is approaching."
+52,"TEXT_BANANA002_03037_JOLHMYN_400_001","Well, I'll take your word for it! As much as I'd love to spend all day talking about your mother's skin, isn't there something else we were going to discuss?"
+53,"TEXT_BANANA002_03037_ALPA_000_001","Yesss, there is. A problem's come up and I could use your advice. The castellum is under threat of demolition!"
+54,"TEXT_BANANA002_03037_JOLHMYN_100_002","Hold your chocobos─nothing's been decided yet. Perhaps you should start from the beginning for <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>'s sake."
+55,"TEXT_BANANA002_03037_ALPA_000_002","As you know, this was originally an imperial sssupply depot. That great big tower in the middle was built as an airship dock, which we now use for surveying the surrounding area. You can see for malms from up there!"
+56,"TEXT_BANANA002_03037_JOLHMYN_000_003","The trouble is, some of the Resistance members think we should blow the whole thing up! “It's a constant reminder of the days of imperial rule!” they say, but they're letting sentiment cloud their judgment─it's too important to lose."
+57,"TEXT_BANANA002_03037_JOLHMYN_000_004","They're also forgetting that we don't have the time or resources to build a new bridge. And while we mull things over, there's no telling what those lunatics will do!"
+58,"TEXT_BANANA002_03037_JOLHMYN_050_004","Suffice it to say, we're in a bit of a bind."
+59,"TEXT_BANANA002_03037_ALPA_100_004","We can't let anyone tear it down. If the castellum is destroyed, it would mean the end of the Gatekeepers. I'd have no choice but to return to Vira Nilya."
+60,"TEXT_BANANA002_03037_ALPA_000_005","Luckily, I have an idea. We Vira decorate our villages differently to the Qalyana's, which makes them easy to tell apart."
+61,"TEXT_BANANA002_03037_ALPA_000_006","We should be able to do the same thing with this place. If we make something to symbolize that the castellum is part of Ala Mhigo, we won't need to do anything drastic like rebuilding it from scratch."
+62,"TEXT_BANANA002_03037_JOLHMYN_000_007","You know, that's not such a bad idea! But what exactly did you have in mind?"
+63,"TEXT_BANANA002_03037_ALPA_000_008","It needs to be traditional─something distinctly Ala Mhigan. To be honest, I don't know much about ssstriders and their culture. Do you have any suggestions, J'olhmyn?"
+64,"TEXT_BANANA002_03037_JOLHMYN_000_009","I suppose the most obvious thing would be the griffin on the Ala Mhigan flag, but that's no good."
+65,"TEXT_BANANA002_03037_JOLHMYN_000_010","It was also the symbol of the royal family, which includes the mad king Theodoric, of course. I don't think people would appreciate being reminded of him. Sorry Alpa, nothing else springs to mind."
+66,"TEXT_BANANA002_03037_ALPA_000_011","Hmmm... Many peoples live throughout Gyr Abania, and we'll struggle to please them all. We would benefit from an outsider's opinion, sssomeone unbiased towards the needs of any particular group."
+67,"TEXT_BANANA002_03037_ALPA_100_011","They'd need to know a lot about local hissstory too. <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, can you think of anyone?"
+68,"TEXT_BANANA002_03037_Q1_000_000","What will you say?"
+69,"TEXT_BANANA002_03037_A1_000_001","There's an Adder officer at Castrum Oriens who springs to mind."
+70,"TEXT_BANANA002_03037_A1_000_002","Sssorry, no one I know fitsss the bill."
+71,"TEXT_BANANA002_03037_ALPA_000_013","That's a shame. I thought you would've met sssomeone on your travels. Try thinking a bit harder!"
+72,"TEXT_BANANA002_03037_ALPA_000_014","Tahla Molkoh? Right! It's decided. We'll meet you there."
+73,"TEXT_BANANA002_03037_TAHLAMOLKOH_000_020","The mighty Griffin's Bane has descended upon Castrum Oriens once more!"
+74,"TEXT_BANANA002_03037_TAHLAMOLKOH_100_020","We really appreciate your help with that whole Black Rose debacle. We've only just finished cleaning up the mess left behind by the Qalyana."
+75,"TEXT_BANANA002_03037_ALPA_000_021","Did she just say “Griffin's Bane”? What does that mean?"
+76,"TEXT_BANANA002_03037_JOLHMYN_000_022","A title, I'd wager. Maybe we ought to call <hex:02080DE905FF04>her<hex:FF04>him<hex:03> that too?"
+77,"TEXT_BANANA002_03037_TAHLAMOLKOH_000_023","Really now! There's no need to be so coy about it. I can think of no better tribute to your remarkable feats of heroism!"
+78,"TEXT_BANANA002_03037_ALPA_000_024","I think we'll stick to just “<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>” for now. Anyway, I'm Alpa, captain of the Velodyna Gatekeepers. You might be wondering what brings us here. We'd like to asssk your opinion."
+79,"TEXT_BANANA002_03037_TAHLAMOLKOH_000_025","While I cannot guarantee I'll be able to provide the assistance you seek, I'll do my utmost to help nevertheless."
+80,"TEXT_BANANA002_03037_ALPA_000_026","I heard you know a lot about Ala Mhigan hissstory..."
+81,"TEXT_BANANA002_03037_TAHLAMOLKOH_000_027","I see your point. Visitors to Ala Mhigo probably won't think highly of being ushered through a former imperial stronghold upon arrival. I agree that it should celebrate Ala Mhigo's unique culture."
+82,"TEXT_BANANA002_03037_TAHLAMOLKOH_000_028","A griffin design should meet your requirements."
+83,"TEXT_BANANA002_03037_JOLHMYN_000_029","That was our one and only idea. We were worried that using the crest of the old royal family would dredge up a lot of unpleasant memories."
+84,"TEXT_BANANA002_03037_TAHLAMOLKOH_000_030","If it were a single griffin, that may be the case. However, I propose using a pair of griffins."
+85,"TEXT_BANANA002_03037_JOLHMYN_000_031",""
+86,"TEXT_BANANA002_03037_TAHLAMOLKOH_100_031","Once they find a mate they become inseparable. In Gyr Abanian heraldry, a pair of griffins rampant has represented undying loyalty since time immemorial."
+87,"TEXT_BANANA002_03037_ALPA_000_032","In that case, I should use my metalworking skills to craft two griffin sculptures!"
+88,"TEXT_BANANA002_03037_ALPA_000_033","Thanks for your advice, Tahla! Come and visit us at the castellum sssometime!"
+89,"TEXT_BANANA002_03037_TAHLAMOLKOH_000_034","It would be my pleasure! I wish you the best of luck."
+90,"TEXT_BANANA002_03037_JOLHMYN_000_035","I'll start gathering metal for the statues. It might take me a while, especially if we're making two of them. Alpa, you go and find other Ananta to help with the crafting."
+91,"TEXT_BANANA002_03037_JOLHMYN_100_035","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, would you be able to bring us a griffin? I imagine it would be hard to sculpt one without seeing the real thing from up close. Probably best to use a tamed one though."
+92,"TEXT_BANANA002_03037_JOLHMYN_000_036","Giff the griffin handler over at the Reach ought to be able to sort something out. If I were you, I'd start by having a word with him."
+93,"TEXT_BANANA002_03037_ALPA_000_040",""
+94,"TEXT_BANANA002_03037_JOLHMYN_000_045",""
+95,"TEXT_BANANA002_03037_GIFF_000_050","What can I do for you?"
+96,"TEXT_BANANA002_03037_GIFF_000_051","Eh? You've got a friend who wants to “borrow” a griffin? Who do you want me to take it to? "
+97,"TEXT_BANANA002_03037_GIFF_000_052","Alpa? The leader of those damn fools hells-bent on preserving Velodyna? Hmph. You ask me, they ought to blow the bloody thing to smithereens and be done with it!"
+98,"TEXT_BANANA002_03037_GIFF_000_053","But, well...since it's you that's asking, I suppose I can oblige. Go on ahead─I'll meet you there with the griffin."
+99,"TEXT_BANANA002_03037_TAHLAMOLKOH_000_055","So Griffin's Bane is tasked with procuring an actual griffin? I hope you'll treat this one better than the last!"
+100,"TEXT_BANANA002_03037_ALPA_100_061","How did it go?"
+101,"TEXT_BANANA002_03037_GIFF_000_060","Sorry to keep you waiting, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>─I got a bit delayed on the way over. Anyway, here's the griffin as requested."
+102,"TEXT_BANANA002_03037_ALPA_000_061","It's beautiful! The statues should turn out wonderfully if I fashion them in the image of this fine ssspecimen."
+103,"TEXT_BANANA002_03037_GIFF_100_061","Statues? What are you talking about? <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> didn't mention that!"
+104,"TEXT_BANANA002_03037_ALPA_200_061","I want to decorate the entrance with a pair of griffin sssculptures to welcome travelers into Ala Mhigo. They'll be based on your griffin!"
+105,"TEXT_BANANA002_03037_GIFF_300_061","You mean to say me and my griffin came all the way here for some bloody statues? You snot-nosed little gobshite─sod off back to Vira Nilya so we can smash this bridge down!"
+106,"TEXT_BANANA002_03037_ESHANA_410_062","Show sssome respect! She is our captain. We will not allow you to ssspeak to her like that."
+107,"TEXT_BANANA002_03037_GIFF_420_062","Captain, eh? I don't see how anyone could take orders from her─she's just a child!"
+108,"TEXT_BANANA002_03037_ESHANA_430_062","Listen well, ssstrider. When I first volunteered for the Resissstance, every unit I tried to join rejected me. For all my determination, I simply lack the ssstrength needed for frontline warfare. I had no purpose, nowhere to go but back to my village."
+109,"TEXT_BANANA002_03037_ESHANA_440_062","That was until Alpa asked me to work as a weaponsssmith. She showed me that I do not need to be a fighter to contribute."
+110,"TEXT_BANANA002_03037_ESHANA_450_062","She may be young, but she has earned our loyalty."
+111,"TEXT_BANANA002_03037_ALPA_460_061","Eshana, I─"
+112,"TEXT_BANANA002_03037_GIFF_470_062","I couldn't give a Qiqirn's arse! I'm only here because <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> asked me. <sigh> Let's just get this over with."
+113,"TEXT_BANANA002_03037_ALPA_480_061","You'll help? I won't forget this!"
+114,"TEXT_BANANA002_03037_GIFF_500_061","If you're going to make a statue of a griffin, you'd better do a good job of it. They look impressive enough when they're standing still, but have you ever seen one buffet its prey with a blast of wind? Now that's something special."
+115,"TEXT_BANANA002_03037_ALPA_600_061","No, I haven't! I'd like to experience these buffeting winds for myself."
+116,"TEXT_BANANA002_03037_GIFF_700_061","Is...is this some sort of joke?"
+117,"TEXT_BANANA002_03037_ALPA_800_061","Do I look like I'm joking?"
+118,"TEXT_BANANA002_03037_GIFF_900_061","The girl's gone stark raving mad! If she wants to have this griffin attack her with the force of a hurricane, that's her business─just leave me out of it!"
+119,"TEXT_BANANA002_03037_ALPA_100_062","Fine. You're not the only one around here capable of riding a griffin! <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, I hear you're quite experienced with chocobos and whatnot. Why don't you give it a try? Hit me with a buffet of wind!"
+120,"TEXT_BANANA002_03037_ALPA_200_062","We should probably find somewhere else to do this. Our comrades might find being asssaulted by bellowing winds a bit distracting, to put it mildly. I'll be waiting by the gates."
+121,"TEXT_BANANA002_03037_ESHANA_000_063","Ha ha ha! She never ceassses to amaze me."
+122,"TEXT_BANANA002_03037_ALPA_000_062",""
+123,"TEXT_BANANA002_03037_GIFF_000_065","Once you're on the griffin, coax it into sending a gust of wind in the direction of that youngling. Just try not to overdo it, all right?"
+124,"TEXT_BANANA002_03037_GIFF_000_066","If you dismount at any point, come back here. I'll get you back in the saddle."
+125,"TEXT_BANANA002_03037_ALPA_100_066",""
+126,"TEXT_BANANA002_03037_ALPA_000_67","I'll be fine! It takes more than a little wind to rattle an Ananta."
+127,"TEXT_BANANA002_03037_ALPA_100_070","That's it! Make it send a blassst this way!"
+128,"TEXT_BANANA002_03037_ALPA_000_070","Nnnggghhhhhh!"
+129,"TEXT_BANANA002_03037_ALPA_000_071","<pant> That was a lot stronger than I was expecting! Unfortunately, I couldn't help closing my eyes right at the vital moment."
+130,"TEXT_BANANA002_03037_ALPA_100_071","Could you do that again?"
+131,"TEXT_BANANA002_03037_ALPA_200_071","Let's give that another try!"
+132,"TEXT_BANANA002_03037_ALPA_300_071","Hrrrnnngggh!"
+133,"TEXT_BANANA002_03037_ALPA_400_071","It was only a glimpse but I definitely saw it!"
+134,"TEXT_BANANA002_03037_ALPA_500_071","I think one more time should be enough!"
+135,"TEXT_BANANA002_03037_ALPA_600_071","Get ready for one last buffet!"
+136,"TEXT_BANANA002_03037_ALPA_700_071",""
+137,"TEXT_BANANA002_03037_ALPA_800_071","Nnnaaagggh!"
+138,"TEXT_BANANA002_03037_ALPA_900_071","I saw it as clear as day! Now I know how its prey must feel!"
+139,"TEXT_BANANA002_03037_ALPA_950_072","That will do nicely! All right, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, you can get down now!"
+140,"TEXT_BANANA002_03037_GIFF_100_071",""
+141,"TEXT_BANANA002_03037_ALPA_000_072",""
+142,"TEXT_BANANA002_03037_ALPA_000_073","I'd better get to work while it's ssstill fresh in my mind."
+143,"TEXT_BANANA002_03037_GIFF_000_075","You want to get back on? The griffin's ready."
+144,"TEXT_BANANA002_03037_GIFF_000_080","I can't believe my eyes..."
+145,"TEXT_BANANA002_03037_GIFF_000_081","With this incredible statue, no one will doubt that Ala Mhigo is on the path to regaining its former glory."
+146,"TEXT_BANANA002_03037_GIFF_000_082","You've achieved what I thought was impossible. You've transformed this imperial fortress into something our countrymen can be proud of."
+147,"TEXT_BANANA002_03037_ALPA_000_083","Heh heh! I'm quite pleased with the results myself!"
+148,"TEXT_BANANA002_03037_GIFF_000_084","To say I'm impressed would be an understatement. I'd heard the Ananta used magic to shape metal, but to see it for myself... It was breathtaking."
+149,"TEXT_BANANA002_03037_ALPA_100_084","If you think that's impressive, wait until we finish the other one!"
+150,"TEXT_BANANA002_03037_ALPA_200_084","I'm sure you know better than most what a pair of griffins represents."
+151,"TEXT_BANANA002_03037_GIFF_000_085","Everlasting friendship... By Rhalgr, that's perfect! And to think I was going around saying we should tear this place down! Now I realize what a waste that would've been."
+152,"TEXT_BANANA002_03037_ALPA_000_086","Well, I'm glad you sssee things our way. Besides, we couldn't have done this without your griffin!"
+153,"TEXT_BANANA002_03037_ALPA_000_087","Such a majestic creature... If the Gatekeepers had one of these, we could sssoar through the sky, casting a watchful eye over the highways and canyons below."
+154,"TEXT_BANANA002_03037_GIFF_000_088","I was just about to suggest the same thing. Alpa─would you allow us to station a unit of griffin riders here at the castellum?"
+155,"TEXT_BANANA002_03037_GIFF_000_089","Now that the Garleans have been driven out, we've been at something of a loose end. You Gatekeepers have been working hard to keep the border safe, so we should do our bit too. You have our full cooperation!"
+156,"TEXT_BANANA002_03037_ALPA_000_090","Are you ssserious?"
+157,"TEXT_BANANA002_03037_ALPA_000_091","The griffin riders are always welcome here!"
+158,"TEXT_BANANA002_03037_JOLHMYN_000_092","That all turned out rather well, wouldn't you say? Now that Giff has changed his tune about the bridge, the rest are sure to follow."
+159,"TEXT_BANANA002_03037_ALPA_000_093","Yesss, but we've still got a lot of work ahead of us. <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, I'm sure there'll be more chances for you to help in days to come!"
+160,"TEXT_BANANA002_03037_SYSTEM_000_094","A pair of griffin statues have been added to Castellum Velodyna."
+161,"TEXT_BANANA002_03037_SYSTEM_000_095","You have achieved <hex:024804F201F403><hex:024904F201F503>Trusted<hex:0249020103><hex:0248020103> reputation with the Vira."
+162,"TEXT_BANANA002_03037_SYSTEM_000_096","New Vira society daily quests are now available from Eshana at Castellum Velodyna."
+163,"TEXT_BANANA002_03037_SYSTEM_000_097","Furthermore, you will be able to undertake three additional quests from Eshana as a reputation bonus. This bonus is available until the daily reset time for allied society quests."
+164,"TEXT_BANANA002_03037_SYSTEM_000_098","These additional quests will become available after accepting all current daily quests from Eshana. Please be advised that you cannot undertake these quests if you have no remaining allowances."
+165,"TEXT_BANANA002_03037_SYSTEM_000_099","You now have access to a wider selection of wares from Madhura."
+166,"TEXT_BANANA002_03037_SYSTEM_000_100","In order to undertake the next allied society main quest, you must first complete the main scenario quest “The First of Many.”"
+167,"TEXT_BANANA002_03037_ALPA_000_105",""
+168,"TEXT_BANANA002_03037_JOLHMYN_000_110",""
+169,"TEXT_BANANA002_03037_GIFF_100_120","I was keeping an eye on things from a safe distance. But Thal's balls─I didn't think you'd actually go through with it!"

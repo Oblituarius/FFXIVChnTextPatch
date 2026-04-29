@@ -1,12 +1,12 @@
-﻿key,3
-#,
-offset,0
-int32,str
-0,
-1,無設定
-2,全面格子底
-3,圓形格子底
-4,正方形格子底
-5,全麵灰底
-6,圓形灰底
-7,正方形灰底
+﻿key,0,1,2,3
+#,,,,
+offset,10,8,4,0
+int32,bit&01,uint16,uint32,str
+0,False,0,0,""
+1,True,0,240003,"None"
+2,True,1,240004,"Checkered"
+3,True,2,240005,"Checkered (Circular Field)"
+4,True,3,240006,"Checkered (Square Field)"
+5,True,4,240009,"Grey"
+6,True,5,240010,"Grey (Circular Field)"
+7,True,6,240011,"Grey (Square Field)"

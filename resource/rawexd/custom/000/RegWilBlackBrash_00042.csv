@@ -2,14 +2,14 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_REGWILBLACKBRASH_00042_ELURED_000_1,喲，你這個冒險者有什麼事？<hex:02100103>我沒什麼時間，有話快說。
-1,TEXT_REGWILBLACKBRASH_00042_SCENE00000Q,想了解什麼？
-2,TEXT_REGWILBLACKBRASH_00042_SCENE00000A1,你在這裡是做什麼的？
-3,TEXT_REGWILBLACKBRASH_00042_SCENE00000A2,這座設施是做什麼的？
-4,TEXT_REGWILBLACKBRASH_00042_SCENE00000A3,取消
-5,TEXT_REGWILBLACKBRASH_00042_ELURED_000_10,我是這座設施的管理人，<hex:02100103>自從它建成後一直都在這裡。
-6,TEXT_REGWILBLACKBRASH_00042_ELURED_000_11,因為從列車上卸下來的礦石都是混雜在一起的。<hex:02100103>得讓有能力的人按種類區分開來。
-7,TEXT_REGWILBLACKBRASH_00042_ELURED_000_12,我以前也是在冶煉現場工作的……<hex:02100103>但是手在靈災那會兒被弄傷了。
-8,TEXT_REGWILBLACKBRASH_00042_ELURED_000_20,冶煉……也就是說，將金屬從礦石中提煉出來。<hex:02100103>我們主要是冶煉銀、秘銀、銅之類的金屬。
-9,TEXT_REGWILBLACKBRASH_00042_ELURED_000_21,你看屋頂的煙筒裡有煙冒出吧？<hex:02100103>那下面有一座使用火之水晶的冶煉爐，<hex:02100103>那是利用高熱使礦石熔化，然後再進行提煉的。
-10,TEXT_REGWILBLACKBRASH_00042_ELURED_000_22,冶煉出的金屬會送往人氣珠寶店「艾斯泰姆」，<hex:02100103>以及烏爾達哈其他的工房。<hex:02100103>之後這些金屬就會被製作成飾品了。
+0,"TEXT_REGWILBLACKBRASH_00042_ELURED_000_1","I'm a busy man, so state your business or leave me to mine."
+1,"TEXT_REGWILBLACKBRASH_00042_SCENE00000Q","What will you ask?"
+2,"TEXT_REGWILBLACKBRASH_00042_SCENE00000A1","What do you do here?"
+3,"TEXT_REGWILBLACKBRASH_00042_SCENE00000A2","What is the purpose of the station?"
+4,"TEXT_REGWILBLACKBRASH_00042_SCENE00000A3","Nothing."
+5,"TEXT_REGWILBLACKBRASH_00042_ELURED_000_10","I oversee all operations here at Black Brush Station. Have been doing so since it was constructed."
+6,"TEXT_REGWILBLACKBRASH_00042_ELURED_000_11","Shipments of ore arrive daily, and we have to unload and sort it all for the furnaces."
+7,"TEXT_REGWILBLACKBRASH_00042_ELURED_000_12","Takes a strong back and sure hands. I should know─used to be a smelter myself, until the Calamity crippled my arm and put an end to that."
+8,"TEXT_REGWILBLACKBRASH_00042_ELURED_000_20","We extract metal from ore. Bronze, silver, mythril─you name it, we smelt it."
+9,"TEXT_REGWILBLACKBRASH_00042_ELURED_000_21","See all that smoke? It comes from our furnaces. We keep them burning day and night with a steady supply of fire crystals."
+10,"TEXT_REGWILBLACKBRASH_00042_ELURED_000_22","Aye, without me and my boys sweating it out here, the lords and ladies wouldn't be able to deck themselves out in fancy baubles."

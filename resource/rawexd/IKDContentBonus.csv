@@ -1,59 +1,67 @@
-﻿key,0,1
-#,Objective,Requirement
-offset,0,4
-int32,str,str
-0,,
-1,千魚祝福,達成條件：獲得的漁分超過2500。
-2,萬魚賀喜,達成條件：獲得的漁分超過5000。
-3,珍魚,達成條件：釣到一條★★★★魚。
-4,傳說魚,達成條件：釣到一條★★★★★魚。
-5,瞬釣,達成條件：在幻海流中釣到15條魚。
-6,爆釣王,達成條件：在幻海流中釣到35條魚。
-7,豐漁：加拉迪翁灣,達成條件：小隊全體在加拉迪翁灣合計釣到10種以上的魚類。
-8,豐漁：梅爾托爾海峽南,達成條件：小隊全體在梅爾托爾海峽南合計釣到10種以上的魚類。
-9,豐漁：梅爾托爾海峽北,達成條件：小隊全體在梅爾托爾海峽北合計釣到10種以上的魚類。
-10,豐漁：羅塔諾海,達成條件：小隊全體在羅塔諾海合計釣到10種以上的魚類。
-11,傳說中的大漁旗,達成條件：小隊全體合計釣到3條以上★★★★★的魚。
-12,利姆萊茵的寵愛之子,達成條件：由自己引發幻海流。
-13,八爪旅人,達成條件：小隊全體合計釣到150隻以上的章魚類。
-14,捕鯊人,達成條件：小隊全體合計釣到200條以上的鯊魚類。
-15,水母狂魔,達成條件：小隊全體合計釣到150隻以上的水母類。
-16,龍馬驚神,達成條件：小隊全體合計釣到100隻以上的海龍或海馬。
-17,初級海釣師,達成條件：完成1種船上任務。
-18,中級海釣師,達成條件：完成2種船上任務。
-19,上級海釣師,達成條件：完成3種船上任務。
-20,氣魨四海,達成條件：小隊全體合計釣到250隻以上的魨類。
-21,橫路不通,達成條件：小隊全體合計釣到250隻以上的蟹類。
-22,只有我最鰩擺,達成條件：個人合計釣到25隻以上的鰩魚。
-23,豐漁：加拉迪翁灣,達成條件：小隊全體在加拉迪翁灣合計釣到9種以上的魚類。（已根據小隊人數進行調整）
-24,豐漁：加拉迪翁灣,達成條件：小隊全體在加拉迪翁灣合計釣到8種以上的魚類。（已根據小隊人數進行調整）
-25,豐漁：梅爾托爾海峽南,達成條件：小隊全體在梅爾托爾海峽南合計釣到9種以上的魚類。（已根據小隊人數進行調整）
-26,豐漁：梅爾托爾海峽南,達成條件：小隊全體在梅爾托爾海峽南合計釣到8種以上的魚類。（已根據小隊人數進行調整）
-27,豐漁：梅爾托爾海峽北,達成條件：小隊全體在梅爾托爾海峽北合計釣到9種以上的魚類。（已根據小隊人數進行調整）
-28,豐漁：梅爾托爾海峽北,達成條件：小隊全體在梅爾托爾海峽北合計釣到8種以上的魚類。（已根據小隊人數進行調整）
-29,豐漁：羅塔諾海,達成條件：小隊全體在羅塔諾海合計釣到9種以上的魚類。（已根據小隊人數進行調整）
-30,豐漁：羅塔諾海,達成條件：小隊全體在羅塔諾海合計釣到8種以上的魚類。（已根據小隊人數進行調整）
-31,豐漁：謝爾達萊群島,達成條件：小隊全體在謝爾達萊群島合計釣到10種以上的魚類。
-32,豐漁：謝爾達萊群島,達成條件：小隊全體在謝爾達萊群島合計釣到9種以上的魚類。（已根據小隊人數進行調整）
-33,豐漁：謝爾達萊群島,達成條件：小隊全體在謝爾達萊群島合計釣到8種以上的魚類。（已根據小隊人數進行調整）
-34,豐漁：緋汐海,達成條件：小隊全體在緋汐海合計釣到10種以上的魚類。
-35,豐漁：緋汐海,達成條件：小隊全體在緋汐海合計釣到9種以上的魚類。（已根據小隊人數進行調整）
-36,豐漁：緋汐海,達成條件：小隊全體在緋汐海合計釣到8種以上的魚類。（已根據小隊人數進行調整）
-37,豐漁：羅斯利特灣,達成條件：小隊全體在羅斯利特灣合計釣到10種以上的魚類。
-38,豐漁：羅斯利特灣,達成條件：小隊全體在羅斯利特灣合計釣到9種以上的魚類。（已根據小隊人數進行調整）
-39,豐漁：羅斯利特灣,達成條件：小隊全體在羅斯利特灣合計釣到8種以上的魚類。（已根據小隊人數進行調整）
-40,四海大寶貝,達成條件：小隊全體合計釣到350隻以上的貝類。
-41,魷型中隊菁英,達成條件：小隊全體合計釣到400隻以上的魷魚。
-42,大蝦可重新來過,達成條件：個人合計釣到50隻以上的蝦類。
-43,豐漁：妖歌海,達成條件：小隊全體在妖歌海合計釣到10種以上的魚類。
-44,豐漁：妖歌海,達成條件：小隊全體在妖歌海合計釣到9種以上的魚類。（已根據小隊人數進行調整）
-45,豐漁：妖歌海,達成條件：小隊全體在妖歌海合計釣到8種以上的魚類。（已根據小隊人數進行調整）
-46,豐漁：黃金港,達成條件：小隊全體在黃金港合計釣到10種以上的魚類。
-47,豐漁：黃金港,達成條件：小隊全體在黃金港合計釣到9種以上的魚類。（已根據小隊人數進行調整）
-48,豐漁：黃金港,達成條件：小隊全體在黃金港合計釣到8種以上的魚類。（已根據小隊人數進行調整）
-49,豐漁：紅玉海,達成條件：小隊全體在紅玉海合計釣到10種以上的魚類。
-50,豐漁：紅玉海,達成條件：小隊全體在紅玉海合計釣到9種以上的魚類。（已根據小隊人數進行調整）
-51,豐漁：紅玉海,達成條件：小隊全體在紅玉海合計釣到8種以上的魚類。（已根據小隊人數進行調整）
-52,豐漁：無二江,達成條件：小隊全體在無二江合計釣到10種以上的魚類。
-53,豐漁：無二江,達成條件：小隊全體在無二江合計釣到9種以上的魚類。（已根據小隊人數進行調整）
-54,豐漁：無二江,達成條件：小隊全體在無二江合計釣到8種以上的魚類。（已根據小隊人數進行調整）
+﻿key,0,1,2,3,4
+#,Objective,Requirement,,Image,Order
+offset,0,4,12,8,14
+int32,str,str,uint16,Image,byte
+0,"","",100,0,0
+1,"Small Fish in a Big Pond","Requirement: Score 2,500 points or higher.",110,65901,4
+2,"Big Fish in a Small Pond","Requirement: Score 5,000 points or higher.",120,65902,5
+3,"A Rare Catch","Requirement: Catch a ★★★★ fish.",110,65903,6
+4,"Catch of a Lifetime","Requirement: Catch a ★★★★★ fish.",120,65904,7
+5,"Give a Man a Fish","Requirement: Catch 15 or more fish when a spectral current is present.",110,65905,8
+6,"Teach a Man to Fish","Requirement: Catch 35 or more fish when a spectral current is present.",120,65906,9
+7,"Bream Team: Galadion Bay","Requirement: As a party, catch 10 or more different fish in Galadion Bay.",110,65907,10
+8,"Bream Team: Southern Strait of Merlthor","Requirement: As a party, catch 10 or more different fish in the southern Strait of Merlthor.",110,65908,13
+9,"Bream Team: Northern Strait of Merlthor","Requirement: As a party, catch 10 or more different fish in the northern Strait of Merlthor.",110,65909,19
+10,"Bream Team: Rhotano Sea","Requirement: As a party, catch 10 or more different fish in the Rhotano Sea.",110,65910,22
+11,"Fabled Fishers","Requirement: As a party, catch 3 or more ★★★★★ fish.",150,65911,31
+12,"Favored by Llymlaen","Requirement: Cause a spectral current to occur.",110,65912,32
+13,"Octopus Travelers","Requirement: As a party, catch 150 or more octopodes.",120,65913,33
+14,"Certifiable Shark Hunters","Requirement: As a party, catch 200 or more sharks.",130,65914,34
+15,"Jelled Together","Requirement: As a party, catch 150 or more jellyfish.",120,65915,35
+16,"Maritime Dragonslayers","Requirement: As a party, catch 100 or more seahorses.",110,65916,36
+17,"Ocean Fishing Amateur","Requirement: Complete one mission during an ocean fishing voyage.",105,65923,1
+18,"Ocean Fishing Enthusiast","Requirement: Complete two missions during an ocean fishing voyage.",110,65924,2
+19,"Ocean Fishing Fanatic","Requirement: Complete three missions during an ocean fishing voyage.",120,65925,3
+20,"Balloon Catchers","Requirement: As a party, catch 250 or more fugu.",130,65917,37
+21,"Crab Boat Crew","Requirement: As a party, catch 250 or more crabs.",130,65918,38
+22,"Sticking it to the Manta","Requirement: As an individual, catch 25 or more mantas.",120,65919,39
+23,"Bream Team: Galadion Bay","Requirement: As a party, catch 9 or more different fish in Galadion Bay. (Target number adjusted for party size.)",110,65907,11
+24,"Bream Team: Galadion Bay","Requirement: As a party, catch 8 or more different fish in Galadion Bay. (Target number adjusted for party size.)",110,65907,12
+25,"Bream Team: Southern Strait of Merlthor","Requirement: As a party, catch 9 or more different fish in the southern Strait of Merlthor. (Target number adjusted for party size.)",110,65908,14
+26,"Bream Team: Southern Strait of Merlthor","Requirement: As a party, catch 8 or more different fish in the southern Strait of Merlthor. (Target number adjusted for party size.)",110,65908,15
+27,"Bream Team: Northern Strait of Merlthor","Requirement: As a party, catch 9 or more different fish in the northern Strait of Merlthor. (Target number adjusted for party size.)",110,65909,20
+28,"Bream Team: Northern Strait of Merlthor","Requirement: As a party, catch 8 or more different fish in the northern Strait of Merlthor. (Target number adjusted for party size.)",110,65909,21
+29,"Bream Team: Rhotano Sea","Requirement: As a party, catch 9 or more different fish in the Rhotano Sea. (Target number adjusted for party size.)",110,65910,23
+30,"Bream Team: Rhotano Sea","Requirement: As a party, catch 8 or more different fish in the Rhotano Sea. (Target number adjusted for party size.)",110,65910,24
+31,"Bream Team: Cieldalaes","Requirement: As a party, catch 10 or more different fish in the Cieldalaes.",110,65920,16
+32,"Bream Team: Cieldalaes","Requirement: As a party, catch 9 or more different fish in the Cieldalaes. (Target number adjusted for party size.)",110,65920,17
+33,"Bream Team: Cieldalaes","Requirement: As a party, catch 8 or more different fish in the Cieldalaes. (Target number adjusted for party size.)",110,65920,18
+34,"Bream Team: Bloodbrine Sea","Requirement: As a party, catch 10 or more different fish in the Bloodbrine Sea.",110,65921,25
+35,"Bream Team: Bloodbrine Sea","Requirement: As a party, catch 9 or more different fish in the Bloodbrine Sea. (Target number adjusted for party size.)",110,65921,26
+36,"Bream Team: Bloodbrine Sea","Requirement: As a party, catch 8 or more different fish in the Bloodbrine Sea. (Target number adjusted for party size.)",110,65921,27
+37,"Bream Team: Rothlyt Sound","Requirement: As a party, catch 10 or more different fish in Rothlyt Sound.",110,65922,28
+38,"Bream Team: Rothlyt Sound","Requirement: As a party, catch 9 or more different fish in Rothlyt Sound. (Target number adjusted for party size.)",110,65922,29
+39,"Bream Team: Rothlyt Sound","Requirement: As a party, catch 8 or more different fish in Rothlyt Sound. (Target number adjusted for party size.)",110,65922,30
+40,"Maximum Mussel","Requirement: As a party, catch 350 or more shellfish.",130,65930,55
+41,"Squid Squadron","Requirement: As a party, catch 400 or more squid.",130,65931,56
+42,"Shrimp Smorgasbord","Requirement: As an individual, catch 50 or more shrimp.",120,65932,57
+43,"Bream Team: Sirensong Sea","Requirement: As a party, catch 10 or more different fish in the Sirensong Sea.",110,65926,43
+44,"Bream Team: Sirensong Sea","Requirement: As a party, catch 9 or more different fish in the Sirensong Sea. (Target number adjusted for party size.)",110,65926,44
+45,"Bream Team: Sirensong Sea","Requirement: As a party, catch 8 or more different fish in the Sirensong Sea. (Target number adjusted for party size.)",110,65926,45
+46,"Bream Team: Kugane Coast","Requirement: As a party, catch 10 or more different fish at the Kugane coast.",110,65927,46
+47,"Bream Team: Kugane Coast","Requirement: As a party, catch 9 or more different fish at the Kugane coast. (Target number adjusted for party size.)",110,65927,47
+48,"Bream Team: Kugane Coast","Requirement: As a party, catch 8 or more different fish at the Kugane coast. (Target number adjusted for party size.)",110,65927,48
+49,"Bream Team: Ruby Price","Requirement: As a party, catch 10 or more different fish in the Ruby Price.",110,65928,49
+50,"Bream Team: Ruby Price","Requirement: As a party, catch 9 or more different fish in the Ruby Price. (Target number adjusted for party size.)",110,65928,50
+51,"Bream Team: Ruby Price","Requirement: As a party, catch 8 or more different fish in the Ruby Price. (Target number adjusted for party size.)",110,65928,51
+52,"Bream Team: Lower One River","Requirement: As a party, catch 10 or more different fish in the lower One River.",110,65929,52
+53,"Bream Team: Lower One River","Requirement: As a party, catch 9 or more different fish in the lower One River. (Target number adjusted for party size.)",110,65929,53
+54,"Bream Team: Lower One River","Requirement: As a party, catch 8 or more different fish in the lower One River. (Target number adjusted for party size.)",110,65929,54
+55,"Prehistoric Professionals","Requirement: As a party, catch 300 or more prehistoric wavekin.",130,65933,61
+56,"Time Waits for No Mantis","Requirement: As an individual, catch 45 or more mantis shrimp.",120,65934,62
+57,"Bream Team: Unnamed Island","Requirement: As a party, catch 10 or more different fish off the coast of the unnamed island.",110,65935,40
+58,"Bream Team: Unnamed Island","Requirement: As a party, catch 9 or more different fish off the coast of the unnamed island. (Target number adjusted for party size.)",110,65935,41
+59,"Bream Team: Unnamed Island","Requirement: As a party, catch 8 or more different fish off the coast of the unnamed island. (Target number adjusted for party size.)",110,65935,42
+60,"Bream Team: Thavnairian Coast","Requirement: As a party, catch 10 or more different fish off the Thavnairian coast.",110,65936,58
+61,"Bream Team: Thavnairian Coast","Requirement: As a party, catch 9 or more different fish off the Thavnairian coast. (Target number adjusted for party size.)",110,65936,59
+62,"Bream Team: Thavnairian Coast","Requirement: As a party, catch 8 or more different fish off the Thavnairian coast. (Target number adjusted for party size.)",110,65936,60

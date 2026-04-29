@@ -2,105 +2,105 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_GAIUSE408_00075_SEQ_00,白雲崖前哨的德里耶蒙想要再次尋求冒險者的幫助。
-1,TEXT_GAIUSE408_00075_SEQ_01,接受了德里耶蒙的委託，去給指揮搜查隊的艾默里克傳話，讓他們小心異端者的別動隊。前往庫爾札斯中央高地的披雪大冰壁，提醒艾默里克多加小心。
-2,TEXT_GAIUSE408_00075_SEQ_02,提醒了艾默里克小心異端者的別動隊。艾默里克認為，也應該將此事轉達給共同進行搜查的水晶義勇隊。提醒在披雪大冰壁指揮水晶義勇隊的阿爾菲諾多加小心。
-3,TEXT_GAIUSE408_00075_SEQ_03,正要提醒阿爾菲諾之時，他遭到了異端者的襲擊。在及時趕來的伊達和帕帕力莫的幫助下，阿爾菲諾並沒有受傷。此時，一行人接到報告，得知秘密坑道的入口已經被找到。和披雪大冰壁的頑強的神殿騎士談談。
-4,TEXT_GAIUSE408_00075_SEQ_04,大冰壁中確實存在著異端者們的秘密坑道。但其內部狹窄，還很有可能被異端者伏擊。由於大軍一舉攻入將會十分危險，因此眾人決定先派少數菁英前去偵察。冒險者責無旁貸，擔此重任。突破「凜冽洞天披雪大冰壁」，追趕逃走的冰之巫女。<hex:02100103><hex:02100103>※調查進入點選擇「和輔助隊員進入」，或選擇快捷指令裡的「劇情輔助器」，可以和非玩家同伴一同進入副本。<hex:02100103>※和玩家一同進入時請通過任務搜尋器參加。
-5,TEXT_GAIUSE408_00075_SEQ_05,到達了披雪大冰壁的最深處。回到庫爾札斯中央高地。
-6,TEXT_GAIUSE408_00075_SEQ_06,冒險者終於見到了冰之巫女。將在秘密坑道裡調查出的情報，報告給披雪大冰壁的阿爾菲諾。
-7,TEXT_GAIUSE408_00075_SEQ_07,將在披雪大冰壁內部發生的事情向阿爾菲諾報告完畢。為了共商對抗蠻神希瓦之事，敏菲利亞也在趕往庫爾札斯。
-8,TEXT_GAIUSE408_00075_SEQ_08,
-9,TEXT_GAIUSE408_00075_SEQ_09,
-10,TEXT_GAIUSE408_00075_SEQ_10,
-11,TEXT_GAIUSE408_00075_SEQ_11,
-12,TEXT_GAIUSE408_00075_SEQ_12,
-13,TEXT_GAIUSE408_00075_SEQ_13,
-14,TEXT_GAIUSE408_00075_SEQ_14,
-15,TEXT_GAIUSE408_00075_SEQ_15,
-16,TEXT_GAIUSE408_00075_SEQ_16,
-17,TEXT_GAIUSE408_00075_SEQ_17,
-18,TEXT_GAIUSE408_00075_SEQ_18,
-19,TEXT_GAIUSE408_00075_SEQ_19,
-20,TEXT_GAIUSE408_00075_SEQ_20,
-21,TEXT_GAIUSE408_00075_SEQ_21,
-22,TEXT_GAIUSE408_00075_SEQ_22,
-23,TEXT_GAIUSE408_00075_SEQ_23,
-24,TEXT_GAIUSE408_00075_TODO_00,和披雪大冰壁的艾默里克對話
-25,TEXT_GAIUSE408_00075_TODO_01,和阿爾菲諾對話
-26,TEXT_GAIUSE408_00075_TODO_02,和頑強的神殿騎士對話
-27,TEXT_GAIUSE408_00075_TODO_03,突破凜冽洞天披雪大冰壁
-28,TEXT_GAIUSE408_00075_TODO_04,突破凜冽洞天披雪大冰壁
-29,TEXT_GAIUSE408_00075_TODO_05,和阿爾菲諾對話
-30,TEXT_GAIUSE408_00075_TODO_06,
-31,TEXT_GAIUSE408_00075_TODO_07,
-32,TEXT_GAIUSE408_00075_TODO_08,
-33,TEXT_GAIUSE408_00075_TODO_09,
-34,TEXT_GAIUSE408_00075_TODO_10,
-35,TEXT_GAIUSE408_00075_TODO_11,
-36,TEXT_GAIUSE408_00075_TODO_12,
-37,TEXT_GAIUSE408_00075_TODO_13,
-38,TEXT_GAIUSE408_00075_TODO_14,
-39,TEXT_GAIUSE408_00075_TODO_15,
-40,TEXT_GAIUSE408_00075_TODO_16,
-41,TEXT_GAIUSE408_00075_TODO_17,
-42,TEXT_GAIUSE408_00075_TODO_18,
-43,TEXT_GAIUSE408_00075_TODO_19,
-44,TEXT_GAIUSE408_00075_TODO_20,
-45,TEXT_GAIUSE408_00075_TODO_21,
-46,TEXT_GAIUSE408_00075_TODO_22,
-47,TEXT_GAIUSE408_00075_TODO_23,
-48,TEXT_GAIUSE408_00075_DRILLEMONT_000_030,關於異端者的別動隊，<hex:02100103>我會動員我所有的部下，只要發現他們就立即殲滅……<hex:02100103>但問題是，我怕他們得知計劃敗露後會氣急敗壞，濫殺無辜。
-49,TEXT_GAIUSE408_00075_DRILLEMONT_000_031,就算他們人數不多，<hex:02100103>但也很有可能做出草菅人命的事來。
-50,TEXT_GAIUSE408_00075_DRILLEMONT_000_032,我希望你能迅速前往披雪大冰壁，<hex:02100103>向艾默里克閣下報告我們的調查結果，<hex:02100103>並且提醒他多加防範異端者別動隊的襲擊。
-51,TEXT_GAIUSE408_00075_DRILLEMONT_000_040,我希望你能迅速前往披雪大冰壁，<hex:02100103>向艾默里克閣下報告我們的調查結果，<hex:02100103>並且提醒他多加防範異端者別動隊的襲擊。
-52,TEXT_GAIUSE408_00075_AYMERIC_000_050,英雄，您來了啊。<hex:02100103>我們還沒有找到那個秘密坑道，<hex:02100103>異端者的動作比我們預想的要快……
-53,TEXT_GAIUSE408_00075_AYMERIC_000_051,……異端者有別動隊？<hex:02100103>我了解了。我會讓部下們加以防範的。<hex:02100103>謝謝您特地來通知我們。
-54,TEXT_GAIUSE408_00075_AYMERIC_000_052,能不能請您也去和阿爾菲諾閣下說一聲，<hex:02100103>我想讓他率領的水晶義勇隊也知道這個消息。<hex:02100103>畢竟我們在一起調查此事。
-55,TEXT_GAIUSE408_00075_AYMERIC_000_060,能不能請您也去和阿爾菲諾閣下說一聲，<hex:02100103>我想讓他率領的水晶義勇隊也知道這個消息。<hex:02100103>畢竟我們在一起調查此事。
-56,TEXT_GAIUSE408_00075_ALPHINAUD_100_060,你有事要報告給艾默里克閣下？<hex:02100103>那你趕緊去找他吧。
-57,TEXT_GAIUSE408_00075_LUCIA_110_060,(-女神殿騎士-)可惡的異端者，真棘手……
-58,TEXT_GAIUSE408_00075_YUYUHASE_120_060,好……好冷啊……<hex:02100103>我從來沒覺得水晶義勇隊的外套這麼有用過。
-59,TEXT_GAIUSE408_00075_TEMPLER00075_130_060,這麼厚的冰壁裡真的有坑道嗎……<hex:02100103>他們是怎麼做到的？
-60,TEXT_GAIUSE408_00075_ALPHINAUD_000_001,我們正在附近尋找異端者潛伏用的秘密坑道入口。
-61,TEXT_GAIUSE408_00075_ALPHINAUD_000_002,這是伊修加德神殿騎士團和水晶義勇隊的大規模協同作戰。<hex:02100103>剛才伊達和帕帕力莫也趕來幫忙了。
-62,TEXT_GAIUSE408_00075_ALPHINAUD_000_003,但是，異端者利用地形優勢對我們進行阻撓，<hex:02100103>因此作戰進展得並不順利。
-63,TEXT_GAIUSE408_00075_HERETIC02400_000_004,(-異端者-)找到他了！
-64,TEXT_GAIUSE408_00075_HERETIC02400_000_005,(-異端者-)巫女的敵人，都去死吧！
-65,TEXT_GAIUSE408_00075_YDA_000_006,
-66,TEXT_GAIUSE408_00075_HERETIC02400_000_007,
-67,TEXT_GAIUSE408_00075_YDA_000_008,
-68,TEXT_GAIUSE408_00075_YDA_000_009,
-69,TEXT_GAIUSE408_00075_YDA_000_010,阿爾菲諾大人，你沒事吧！<hex:02100103>真是千鈞一髮啊！
-70,TEXT_GAIUSE408_00075_ALPHINAUD_000_011,我沒事……謝謝你救了我，伊達。
-71,TEXT_GAIUSE408_00075_ALPHINAUD_000_012,本以為我們已經控制住了周邊一帶，<hex:02100103>看來還有不為我們所知的「暗道」存在。<hex:02100103>難道就沒有辦法戰勝他們的地理優勢了麼……
-72,TEXT_GAIUSE408_00075_CRYSTALBRAVE02400_000_013,阿爾菲諾總帥，您沒事吧！
-73,TEXT_GAIUSE408_00075_CRYSTALBRAVE02400_000_014,太好了……<hex:02100103>對了！我們發現了進入秘密坑道的方法！<hex:02100103>神殿騎士團的各位現在正在那裡把守！
-74,TEXT_GAIUSE408_00075_ALPHINAUD_000_015,好！這樣我們就能進去了！
-75,TEXT_GAIUSE408_00075_PAPALYMO_000_016,我剛才粗略察看了一下周圍的情況，<hex:02100103>異端者們好像已經聚集了過來。<hex:02100103>肯定是那群散到中央高地的傢伙又回來了。
-76,TEXT_GAIUSE408_00075_PAPALYMO_000_017,他們一定是想要從外部阻止我們侵入冰壁，<hex:02100103>和坑道內的異端者裡應外合，一舉消滅我們！
-77,TEXT_GAIUSE408_00075_ALPHINAUD_000_018,……說得有理。如果我們全軍都進入狹窄的坑道，<hex:02100103>那肯定會被斷後路，遭遇夾擊。
-78,TEXT_GAIUSE408_00075_ALPHINAUD_000_019,我們先去與艾默里克閣下匯合，<hex:02100103>一掃潛伏在周遭的異端者。
-79,TEXT_GAIUSE408_00075_ALPHINAUD_000_020,你率領精銳小隊潛入坑道內……<hex:02100103>去追捕冰之巫女！
-80,TEXT_GAIUSE408_00075_ALPHINAUD_000_021,坑道內乃是敵軍陣地，不知會發生什麼。<hex:02100103>如果你感到不妙就趕快回來。<hex:02100103>千萬要多加小心。
-81,TEXT_GAIUSE408_00075_ALPHINAUD_200_060,被異端者襲擊時，我冷汗都出來了。<hex:02100103>雖然我覺得以你的身手肯定沒問題的，<hex:02100103>但也要小心奇襲與暗算。
-82,TEXT_GAIUSE408_00075_AYMERIC_300_060,阿爾菲諾閣下竟然遭到襲擊……<hex:02100103>我已經提醒部下們加強警備了，<hex:02100103>您要多加小心暗處。
-83,TEXT_GAIUSE408_00075_TEMPLER00075_000_070,我們找到的秘密坑道入口就是這裡。<hex:02100103>那邊的厚冰其實是可以移動的，<hex:02100103>簡直設計得太巧妙了。
-84,TEXT_GAIUSE408_00075_TEMPLER00075_000_071,如果不知道這裡有個入口，<hex:02100103>路人是絕對發現不了的。
-85,TEXT_GAIUSE408_00075_TEMPLER00075_000_072,準備好了麼？<hex:02100103>裡面估計有不少伏兵，<hex:02100103>希望你召集少數菁英，潛入坑道！
-86,TEXT_GAIUSE408_00075_AYMERIC_000_080,聽說您要去偵察秘密坑道？<hex:02100103>感謝您願為我們去執行這麼危險的任務。
-87,TEXT_GAIUSE408_00075_AYMERIC_000_081,為了能讓您毫無後顧之憂地去偵察，<hex:02100103>我們會替您掃清坑道外的敵人的。
-88,TEXT_GAIUSE408_00075_TEMPLER00075_000_100,我們找到的秘密坑道入口就是這裡。<hex:02100103>那邊的厚冰其實是可以移動的，<hex:02100103>簡直設計得太巧妙了。
-89,TEXT_GAIUSE408_00075_TEMPLER00075_000_101,如果不知道這裡有個入口，<hex:02100103>路人是絕對發現不了的。
-90,TEXT_GAIUSE408_00075_ALPHINAUD_000_110,你平安無事地回來了！<hex:02100103>披雪大冰壁內部的情況如何？
-91,TEXT_GAIUSE408_00075_ALPHINAUD_000_111,什麼！你竟然見到了冰之巫女？<hex:02100103>她自稱伊塞勒，<hex:02100103>並利用乙太之光消失了蹤影？
-92,TEXT_GAIUSE408_00075_ALPHINAUD_000_113,原來如此，雖然沒能奪回水晶，<hex:02100103>但發現了異端者使用的乙太之光，<hex:02100103>這也算是個不小的收穫。
-93,TEXT_GAIUSE408_00075_ALPHINAUD_000_114,有你開路，<hex:02100103>神殿騎士團也能對坑道開始正式調查了。
-94,TEXT_GAIUSE408_00075_ALPHINAUD_000_115,而且，<hex:02100103>如果能以此通往被冰層封鎖的庫爾札斯西部高地，<hex:02100103>就能開展對異端者基地的搜索了。
-95,TEXT_GAIUSE408_00075_ALPHINAUD_000_116,再者，對於水晶義勇隊來說，<hex:02100103>能與伊修加德協同作戰，這其中意義重大。<hex:02100103>因為這次作戰可以成為確立與他們的合作體制的契機。
-96,TEXT_GAIUSE408_00075_ALPHINAUD_000_117,就算是為了這個目的，<hex:02100103>也要阻止異端者召喚蠻神希瓦……
-97,TEXT_GAIUSE408_00075_ALPHINAUD_000_118,敏菲利亞也在爭分奪秒地趕往這邊。<hex:02100103>現在情況緊急，沒時間一趟趟回石之家了。
-98,TEXT_GAIUSE408_00075_ALPHINAUD_000_119,我們可以和敏菲利亞還有賢人一起商討應對希瓦的對策，<hex:02100103>因為解決蠻神問題是拂曉血盟最重要的課題。
-99,TEXT_GAIUSE408_00075_AYMERIC_000_120,您沒事就好。<hex:02100103>我會依次投入神殿騎士團的兵力，更加仔細地調查秘密坑道內部的。
-100,TEXT_GAIUSE408_00075_LUCIA_000_130,(-女神殿騎士-)你回來了啊……<hex:02100103>請先去向阿爾菲諾閣下報告吧。
-101,TEXT_GAIUSE408_00075_YUYUHASE_000_140,你有事要向阿爾菲諾總帥報告？<hex:02100103>快去快去！<hex:02100103>真想趕快和這凍死人的地方說再見。
+0,"TEXT_GAIUSE408_00075_SEQ_00","Lord Drillemont recognizes that the situation in Snowcloak is coming to a head and that decisive action must be taken."
+1,"TEXT_GAIUSE408_00075_SEQ_01","Lord Drillemont fears that the heretics may fall upon the allied forces at Snowcloak before reinforcements can reach them. Lest they be taken unawares, he bids you make haste to the frozen wall and warn Ser Aymeric of the danger."
+2,"TEXT_GAIUSE408_00075_SEQ_02","Your warning comes as little surprise to Ser Aymeric, who reveals that he had been anticipating an attack. Keen to reassure you, he pledges to place his knights on high alert. Perhaps Alphinaud will wish to do the same."
+3,"TEXT_GAIUSE408_00075_SEQ_03","Even as Alphinaud laments the search operation's lack of progress, two heretics reveal themselves and charge towards the startled young man. Before you can rise to his defense, Yda appears as if from nowhere and subdues the heretics with a flurry of blows. The battle for Snowcloak has begun, and for a moment, Alphinaud is concerned─until the fortuitous discovery of a promising tunnel serves to brighten his spirits. Alas, the tunnel is rather narrow, and will not accommodate more than a handful of troops at a time. Given that additional numbers may prove more a hindrance than a help, it is decided that the task of charting the tunnel should be entrusted to a small and highly mobile party of seasoned adventurers. Speak with the stalwart Temple Knight to learn the location of the tunnel's entrance."
+4,"TEXT_GAIUSE408_00075_SEQ_04","Were it not for the knight's directions, you would never have found the tunnel's entrance, which even now appears to be nothing more than a continuous piece of ice. What dangers lie within Iceheart's secret fortress? You know only that the heretics are expecting you─and that it would be a pity to disappoint them.<hex:02100103><hex:02100103>※Challenge Snowcloak with other players via the Duty Finder, or with a party of NPCs via Duty Support. Both systems are accessible from the main menu as well as the dungeon's entrance point."
+5,"TEXT_GAIUSE408_00075_SEQ_05","“What we do, we do for the greater good.”<hex:02100103>...The words of a true believer, spoken in all solemnity by the woman once known as Ysayle. It is plain that she will not be swayed from her path. Though weary from your previous encounter, you prepare yourself for battle, only to see your foe make instead for the nearby aetheryte and teleport away. Iceheart has eluded you."
+6,"TEXT_GAIUSE408_00075_SEQ_06","Though you failed to apprehend Iceheart, you have driven the heretics from their lair. Hopefully Alphinaud will take comfort in this partial victory."
+7,"TEXT_GAIUSE408_00075_SEQ_07","Alphinaud receives your report with surprising optimism, turning his thoughts to how recent events might contribute to the Crystal Braves' good repute. Of course, everything is contingent upon the successful prevention of Shiva's summoning. But with the aid of the Scions─and you in particular─the young commander is confident that all will turn out as it should."
+8,"TEXT_GAIUSE408_00075_SEQ_08",""
+9,"TEXT_GAIUSE408_00075_SEQ_09",""
+10,"TEXT_GAIUSE408_00075_SEQ_10",""
+11,"TEXT_GAIUSE408_00075_SEQ_11",""
+12,"TEXT_GAIUSE408_00075_SEQ_12",""
+13,"TEXT_GAIUSE408_00075_SEQ_13",""
+14,"TEXT_GAIUSE408_00075_SEQ_14",""
+15,"TEXT_GAIUSE408_00075_SEQ_15",""
+16,"TEXT_GAIUSE408_00075_SEQ_16",""
+17,"TEXT_GAIUSE408_00075_SEQ_17",""
+18,"TEXT_GAIUSE408_00075_SEQ_18",""
+19,"TEXT_GAIUSE408_00075_SEQ_19",""
+20,"TEXT_GAIUSE408_00075_SEQ_20",""
+21,"TEXT_GAIUSE408_00075_SEQ_21",""
+22,"TEXT_GAIUSE408_00075_SEQ_22",""
+23,"TEXT_GAIUSE408_00075_SEQ_23",""
+24,"TEXT_GAIUSE408_00075_TODO_00","Speak with Aymeric at Snowcloak."
+25,"TEXT_GAIUSE408_00075_TODO_01","Speak with Alphinaud."
+26,"TEXT_GAIUSE408_00075_TODO_02","Speak with the stalwart Temple Knight."
+27,"TEXT_GAIUSE408_00075_TODO_03","Enter Snowcloak."
+28,"TEXT_GAIUSE408_00075_TODO_04","Enter Snowcloak."
+29,"TEXT_GAIUSE408_00075_TODO_05","Report to Alphinaud."
+30,"TEXT_GAIUSE408_00075_TODO_06",""
+31,"TEXT_GAIUSE408_00075_TODO_07",""
+32,"TEXT_GAIUSE408_00075_TODO_08",""
+33,"TEXT_GAIUSE408_00075_TODO_09",""
+34,"TEXT_GAIUSE408_00075_TODO_10",""
+35,"TEXT_GAIUSE408_00075_TODO_11",""
+36,"TEXT_GAIUSE408_00075_TODO_12",""
+37,"TEXT_GAIUSE408_00075_TODO_13",""
+38,"TEXT_GAIUSE408_00075_TODO_14",""
+39,"TEXT_GAIUSE408_00075_TODO_15",""
+40,"TEXT_GAIUSE408_00075_TODO_16",""
+41,"TEXT_GAIUSE408_00075_TODO_17",""
+42,"TEXT_GAIUSE408_00075_TODO_18",""
+43,"TEXT_GAIUSE408_00075_TODO_19",""
+44,"TEXT_GAIUSE408_00075_TODO_20",""
+45,"TEXT_GAIUSE408_00075_TODO_21",""
+46,"TEXT_GAIUSE408_00075_TODO_22",""
+47,"TEXT_GAIUSE408_00075_TODO_23",""
+48,"TEXT_GAIUSE408_00075_DRILLEMONT_000_030","Time is of the essence, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. While my knights make ready to depart, the heretics may take our allies in Snowcloak unawares."
+49,"TEXT_GAIUSE408_00075_DRILLEMONT_000_031","Superior training and equipment will avail them naught if they are cut down ere their swords are drawn. But all is not yet lost. If you leave now, there may still be time to warn them."
+50,"TEXT_GAIUSE408_00075_DRILLEMONT_000_032","Make haste, I beseech you! Fly to Snowcloak and tell Ser Aymeric everything we have discovered."
+51,"TEXT_GAIUSE408_00075_DRILLEMONT_000_040","Ser Aymeric must know of the heretics' plans. Hurry, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, before it is too late!"
+52,"TEXT_GAIUSE408_00075_AYMERIC_000_050","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. This is a welcome surprise─perhaps the only one thus far. As you can see, we have yet to uncover any hidden─"
+53,"TEXT_GAIUSE408_00075_AYMERIC_000_051","...You have my gratitude. Truth be told, we suspected the heretics might be plotting such an attack. Now that we have confirmation, I shall place my knights on high alert."
+54,"TEXT_GAIUSE408_00075_AYMERIC_000_052","Has Commander Leveilleur been informed? The Braves must be made aware."
+55,"TEXT_GAIUSE408_00075_AYMERIC_000_060","Hmm... If Halone is kind, we may chance to espy our foes in the act of emerging from their tunnels... It would be most useful to know where they lead."
+56,"TEXT_GAIUSE408_00075_ALPHINAUD_100_060","Ser Aymeric? He's over there. Have words with the man if you must─we shall speak anon."
+57,"TEXT_GAIUSE408_00075_LUCIA_110_060","(-Taciturn Temple Knight-)We are at a disadvantage here... We should linger no longer than necessary."
+58,"TEXT_GAIUSE408_00075_YUYUHASE_120_060","Gods bless whoever designed this uniform. I would have frozen to death by now if it weren't for this greatcoat!"
+59,"TEXT_GAIUSE408_00075_TEMPLER00075_130_060","How could any man hope to tunnel through ice this thick? It would be the work of years..."
+60,"TEXT_GAIUSE408_00075_ALPHINAUD_000_001","It <hex:021A020203>must<hex:021A020103> be here! I am certain of it! Why else would they go to such lengths to defend Snowcloak?"
+61,"TEXT_GAIUSE408_00075_ALPHINAUD_000_002","'Tis but a pity this discovery comes when our enemy has us at such a disadvantage. Forewarned though we be─the heretics know the terrain far better than we. I dare not think how many are watching us at this very moment..."
+62,"TEXT_GAIUSE408_00075_ALPHINAUD_000_003","Confound it! This is all wrong. Iceheart has us scrambling to save our own skins when we should rightly be straining every sinew to find her, and stop this damnable summoning!"
+63,"TEXT_GAIUSE408_00075_HERETIC02400_000_004","(-???-)There she is!"
+64,"TEXT_GAIUSE408_00075_HERETIC02400_000_005","(-Heretic-)Come here, girl!"
+65,"TEXT_GAIUSE408_00075_YDA_000_006",""
+66,"TEXT_GAIUSE408_00075_HERETIC02400_000_007",""
+67,"TEXT_GAIUSE408_00075_YDA_000_008",""
+68,"TEXT_GAIUSE408_00075_YDA_000_009",""
+69,"TEXT_GAIUSE408_00075_YDA_000_010","That was close! They didn't hurt you, did they?"
+70,"TEXT_GAIUSE408_00075_ALPHINAUD_000_011","...Only my pride, Yda."
+71,"TEXT_GAIUSE408_00075_ALPHINAUD_000_012","There will be others nearby. We must see that they are given a similarly warm welcome."
+72,"TEXT_GAIUSE408_00075_CRYSTALBRAVE02400_000_013","Commander Leveilleur!"
+73,"TEXT_GAIUSE408_00075_CRYSTALBRAVE02400_000_014","There's been a development, sir! Together with the Temple Knights, we have secured the entrances to some half-dozen tunnels, after spotting the enemy breaking the surface. But that is not all, sir─we think that one of them may be important. Certainly, the heretics near flung themselves upon our swords to defend it."
+74,"TEXT_GAIUSE408_00075_ALPHINAUD_000_015","A-<hex:021A020203>ha<hex:021A020103>! Just as I suspected! Amongst this warren of tunnels lies the entrance to Iceheart's lair! Summon the others─we're going in!"
+75,"TEXT_GAIUSE408_00075_PAPALYMO_000_016","A moment, Alphinaud! The tunnel in question is barely wide enough for two men abreast. We cannot say with any certainty where it leads, much less what is waiting for us there."
+76,"TEXT_GAIUSE408_00075_PAPALYMO_000_017","Furthermore, we have no way of knowing how many heretics are still lurking here on the surface! What if they were to converge on this point after we entered the tunnel? For all we know, we could be funneling our forces into a trap!"
+77,"TEXT_GAIUSE408_00075_ALPHINAUD_000_018","...I take your point. If the tunnel is indeed as narrow as you say, greater numbers would be more a hindrance than a help. Should we encounter difficulty, our own allies would become an obstacle to escape."
+78,"TEXT_GAIUSE408_00075_ALPHINAUD_000_019","Ahem! A change of plans. While we rendezvous with Ser Aymeric and keep the heretics at bay here, you will go wherever that tunnel leads."
+79,"TEXT_GAIUSE408_00075_ALPHINAUD_000_020","If you find Iceheart at the end of it─do not let her escape."
+80,"TEXT_GAIUSE408_00075_ALPHINAUD_000_021","You venture into the unknown, so see that you are prepared for anything. I suggest you call upon your allies─though not <hex:021A020203>too<hex:021A020103> many or Papalymo will sulk."
+81,"TEXT_GAIUSE408_00075_ALPHINAUD_200_060","We will hold the line, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. You may concentrate on the task at hand."
+82,"TEXT_GAIUSE408_00075_AYMERIC_300_060","I am informed that Commander Leveilleur has asked you to lead a party down one of the tunnels. A characteristically daring proposition... Yet I can think of no one better qualified for the task. I bid you good fortune."
+83,"TEXT_GAIUSE408_00075_TEMPLER00075_000_070","The entrance to the tunnel, <hex:02080FE905FF06>madam<hex:FF04>sir<hex:03>? It's just over here."
+84,"TEXT_GAIUSE408_00075_TEMPLER00075_000_071","Had we not seen the heretics breaking the surface, we would never have noticed it..."
+85,"TEXT_GAIUSE408_00075_TEMPLER00075_000_072","Per Ser Aymeric's orders, we will stand guard outside. Please be aware that even should you encounter significant resistance, we cannot leave our post."
+86,"TEXT_GAIUSE408_00075_AYMERIC_000_080","We have established a defensive perimeter. You need not worry about attack from the rear."
+87,"TEXT_GAIUSE408_00075_AYMERIC_000_081","May the Fury guide and protect you, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>."
+88,"TEXT_GAIUSE408_00075_TEMPLER00075_000_100","Even knowing what to look for, it's easy to miss. And the covering of ice doesn't take long to reform either."
+89,"TEXT_GAIUSE408_00075_TEMPLER00075_000_101","How many more tunnels like this might there be in Snowcloak? Come to think of it, how many might there be throughout Coerthas?"
+90,"TEXT_GAIUSE408_00075_ALPHINAUD_000_110","That took longer than I expected. What news, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>?"
+91,"TEXT_GAIUSE408_00075_ALPHINAUD_000_111","So <hex:021A020203>Iceheart<hex:021A020103> is but a pseudonym─not that it matters."
+92,"TEXT_GAIUSE408_00075_ALPHINAUD_000_113","That she managed to escape is regrettable, but from your description of that beast, you did well to come as close as you did."
+93,"TEXT_GAIUSE408_00075_ALPHINAUD_000_114","In any case, now that you have cleared a path, the Temple Knights can begin to survey the tunnels in earnest."
+94,"TEXT_GAIUSE408_00075_ALPHINAUD_000_115","Mayhap they will even find a route past the ice wall. Wouldn't that do wonders for their fight against the heretics."
+95,"TEXT_GAIUSE408_00075_ALPHINAUD_000_116","The Crystal Braves would certainly share the credit for it too. Twelve be praised, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>─we may yet turn this situation to our advantage."
+96,"TEXT_GAIUSE408_00075_ALPHINAUD_000_117","...Assuming we stop Iceheart before she summons Shiva, of course."
+97,"TEXT_GAIUSE408_00075_ALPHINAUD_000_118","Needless to say, our fellow Scions have not been idle. Minfilia and Urianger have been busy perusing the archives of House Fortemps, gathering what information they can on Shiva."
+98,"TEXT_GAIUSE408_00075_ALPHINAUD_000_119","Which reminds me, if you were intending to trudge back to Camp Dragonhead to report on the day's events─don't. The Antecedent should be here any minute. I can only assume some people <hex:021A020203>enjoy<hex:021A020103> subjecting themselves to this cold. <shiver>"
+99,"TEXT_GAIUSE408_00075_AYMERIC_000_120","Though I did not doubt that you would return, I am nonetheless relieved to see my judgment validated."
+100,"TEXT_GAIUSE408_00075_LUCIA_000_130","(-Taciturn Temple Knight-)'Tis a blessing you are still with us. Commander Leveilleur took to pacing in your absence."
+101,"TEXT_GAIUSE408_00075_YUYUHASE_000_140","Is it finished? Does that mean we can leave this godsforsaken place? I can't feel my─ Uh, forgive me. I should not keep you from Commander Leveilleur."

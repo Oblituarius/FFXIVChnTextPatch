@@ -2,194 +2,194 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_CTSSFSCHARACTER9_00815_GREETING_ANDEN_000_000,<hex:022903EB0203>!<hex:02100103>我想試著看能不能回想起什麼來，<hex:02100103>如果你能幫忙找來羊倌使用的工具就太好了！
-1,TEXT_CTSSFSCHARACTER9_00815_GREETING_ANDEN_000_001,你來了，<hex:022903EB0203>！<hex:02100103>現在這裡早晚都很冷，能拜託你籌備一些山岳地區的日用品嗎？
-2,TEXT_CTSSFSCHARACTER9_00815_GREETING_ANDEN_000_002,你好，<hex:022903EB0203>！<hex:02100103>每次都麻煩你，真是不好意思。<hex:02100103>你有沒有帶來跟食物相關的東西？
-3,TEXT_CTSSFSCHARACTER9_00815_GREETING_ANDEN_000_003,歡迎，<hex:022903EB0203>！<hex:02100103>最近我已經想起來不少事情了，<hex:02100103>還差一點我就能全想起來了，還請你繼續幫忙！
-4,TEXT_CTSSFSCHARACTER9_00815_GREETING_ANDEN_000_004,見到你真高興，<hex:022903EB0203>！<hex:02100103>感謝你一直以來的幫助。
-5,TEXT_CTSSFSCHARACTER9_00815_TOPMENU_000_000,要做什麼？
-6,TEXT_CTSSFSCHARACTER9_00815_TOPMENU_000_001,交納委託品（<hex:022812FF0D>ENpcResident<hex:E8020103>：剩餘<hex:022003E80303>次）
-7,TEXT_CTSSFSCHARACTER9_00815_TOPMENU_000_002,對安登進行武具投影
-8,TEXT_CTSSFSCHARACTER9_00815_TOPMENU_000_003,詢問有關老主顧交易
-9,TEXT_CTSSFSCHARACTER9_00815_TOPMENU_000_004,取消
-10,TEXT_CTSSFSCHARACTER9_00815_GUIDEMENU_000_000,想了解什麼？
-11,TEXT_CTSSFSCHARACTER9_00815_GUIDEMENU_001_000,關於安登的信賴度
-12,TEXT_CTSSFSCHARACTER9_00815_GUIDEMENU_007_000,關於交納委託品的條件和報酬
-13,TEXT_CTSSFSCHARACTER9_00815_GUIDEMENU_002_000,委託品的獲得方法
-14,TEXT_CTSSFSCHARACTER9_00815_GUIDEMENU_003_000,製作材料的獲得方法
-15,TEXT_CTSSFSCHARACTER9_00815_GUIDEMENU_004_000,提高收藏價值的方法（製作篇）
-16,TEXT_CTSSFSCHARACTER9_00815_GUIDEMENU_005_000,提高收藏價值的方法（採礦/園藝篇）
-17,TEXT_CTSSFSCHARACTER9_00815_GUIDEMENU_006_000,提高收藏價值的方法（捕魚篇）
-18,TEXT_CTSSFSCHARACTER9_00815_GUIDEMENU_CANCEL,取消
-19,TEXT_CTSSFSCHARACTER9_00815_GUIDE_001_000,通過交納委託品，<hex:02100103><hex:022812FF0D>ENpcResident<hex:E8020103>對你的信賴度會漸漸提高。
-20,TEXT_CTSSFSCHARACTER9_00815_GUIDE_001_001,目前的信賴度會顯示在委託品列表上方的信賴槽中，<hex:02100103>如果信賴槽積滿，信賴等級就會提高。<hex:02100103>另外，信賴等級會用心形圖案來表示。
-21,TEXT_CTSSFSCHARACTER9_00815_GUIDE_001_002,每當信賴等級提高，<hex:02100103>就可以看到與<hex:022812FF0D>ENpcResident<hex:E8020103>有關的新故事。
-22,TEXT_CTSSFSCHARACTER9_00815_GUIDE_007_000,交納收藏品需要收藏品對應的職業在80級以上才能進行。
-23,TEXT_CTSSFSCHARACTER9_00815_GUIDE_007_001,交納時，若收藏品所對應的職業等級為100級，<hex:02100103>將會得到工票作為報酬，<hex:02100103>若對應職業未滿100級，將會得到經驗作為報酬。
-24,TEXT_CTSSFSCHARACTER9_00815_GUIDE_002_000,如果想要調查委託品列表中的道具的獲得方法，<hex:02100103>就請活用次級指令與道具說明吧。
-25,TEXT_CTSSFSCHARACTER9_00815_GUIDE_002_001,能工巧匠分類的委託品，只需要在打開列表的狀態下，<hex:02100103>執行次級指令「搜索製作道具的配方」，<hex:02100103>就可以打開製作筆記，看到製作配方。
-26,TEXT_CTSSFSCHARACTER9_00815_GUIDE_002_002,採礦工或園藝工分類的委託品，只需要在打開列表的狀態下，<hex:02100103>執行次級指令「搜索採集方法」，<hex:02100103>就可以打開採集筆記，看到採集地點。
-27,TEXT_CTSSFSCHARACTER9_00815_GUIDE_002_003,捕魚人分類的委託品，<hex:02100103>在打開列表的狀態下執行次級指令「顯示獲取地點」，<hex:02100103>就會顯示出可以獲得該種魚類的釣場或漁場。
-28,TEXT_CTSSFSCHARACTER9_00815_GUIDE_102_003,此外，釣魚時可以使用<hex:02280BFF05>Item<hex:F26FDA0103>作為釣餌。
-29,TEXT_CTSSFSCHARACTER9_00815_GUIDE_002_004,可以交給<hex:022812FF0D>ENpcResident<hex:E8020103>的道具<hex:02100103>分為能工巧匠、採礦工與園藝工、捕魚人三種，<hex:02100103>並且需要所有物品均為「收藏品」。
-30,TEXT_CTSSFSCHARACTER9_00815_GUIDE_003_000,製作委託品的必要材料，<hex:02100103>可以在伊爾美格的群花館前的因克·奧瑟處購買。
-31,TEXT_CTSSFSCHARACTER9_00815_GUIDE_004_000,能工巧匠製作出來的產品的「收藏價值」<hex:02100103>會隨製作時物品品質的提高而上升。<hex:02100103>因此，盡量提高品質後做出成品是尤為重要的。
-32,TEXT_CTSSFSCHARACTER9_00815_GUIDE_004_002,提高品質成功時，<hex:02100103>自身便會附加「內靜」。
-33,TEXT_CTSSFSCHARACTER9_00815_GUIDE_004_003,盡可能地多積攢內靜，<hex:02100103>最後用「比爾格的祝福」等技能<hex:02100103>一口氣提高品質後，就可以完成製作了。
-34,TEXT_CTSSFSCHARACTER9_00815_GUIDE_004_004,除了上述技能之外，還有很多技能可以有效提高品質，<hex:02100103>習慣製作之後，可以進行多種嘗試，<hex:02100103>摸索出適合自己的製作節奏。
-35,TEXT_CTSSFSCHARACTER9_00815_GUIDE_005_000,採集收藏品時，會出現專用的介面。<hex:02100103>這時可以使用各種收藏品採集技能<hex:02100103>提高採集品的收藏價值。
-36,TEXT_CTSSFSCHARACTER9_00815_GUIDE_005_001,採礦工和園藝工想要提高收藏價值的話，<hex:02100103>可以先使用技能「集中檢查」，然後再使用「提純」。<hex:02100103>以上技能循環幾次後，再進行採集。
-37,TEXT_CTSSFSCHARACTER9_00815_GUIDE_005_002,如果想得到較高的收藏價值，<hex:02100103>可以通過調整裝備，提高「獲得力」和「鑑別力」，<hex:02100103>這樣收藏品採集技能帶來的效果也會事半功倍。
-38,TEXT_CTSSFSCHARACTER9_00815_GUIDE_005_003,要是「採集力」不足的話，<hex:02100103>也可以通過調整裝備提高採集力上限。
-39,TEXT_CTSSFSCHARACTER9_00815_GUIDE_006_000,水產品的「收藏價值」通過釣上來的魚的大小來體現。
-40,TEXT_CTSSFSCHARACTER9_00815_GUIDE_006_001,如果想把魚作為收藏品保存起來，就先前往魚所在的釣場，<hex:02100103>使用技能「收藏品採集」，開始釣魚。
-41,TEXT_CTSSFSCHARACTER9_00815_GUIDE_006_002,在使用了技能「耐心II」之後，<hex:02100103>選擇合適的提鉤技能，<hex:02100103>就可以釣到大魚。
-42,TEXT_CTSSFSCHARACTER9_00815_GUIDE_006_003,如果魚的大小無法順利提高的話，<hex:02100103>可以調整裝備提高「鑑別力」。
-43,TEXT_CTSSFSCHARACTER9_00815_TUTORIAL_000_000,可以交給<hex:022812FF0D>ENpcResident<hex:E8020103>的道具<hex:02100103>分為能工巧匠、採礦工與園藝工、捕魚人三種，<hex:02100103>並且需要所有物品均為「收藏品」。
-44,TEXT_CTSSFSCHARACTER9_00815_TUTORIAL_000_008,交納收藏品需要收藏品對應的職業在80級以上才能進行。
-45,TEXT_CTSSFSCHARACTER9_00815_TUTORIAL_000_009,交納時，若收藏品所對應的職業等級為100級，<hex:02100103>將會得到工票作為報酬，<hex:02100103>若對應職業未滿100級，將會得到經驗作為報酬。
-46,TEXT_CTSSFSCHARACTER9_00815_TUTORIAL_000_001,關於交納用的收藏品的獲取方法，<hex:02100103>可以分別通過以下方式調查。
-47,TEXT_CTSSFSCHARACTER9_00815_TUTORIAL_000_002,能工巧匠分類的委託品，只需要在打開列表的狀態下，<hex:02100103>執行次級指令「搜索製作道具的配方」，<hex:02100103>就可以打開製作筆記，看到製作配方。
-48,TEXT_CTSSFSCHARACTER9_00815_TUTORIAL_000_003,製作委託品的必要材料，<hex:02100103>可以在伊爾美格的群花館前的因克·奧瑟處購買。
-49,TEXT_CTSSFSCHARACTER9_00815_TUTORIAL_000_004,採礦工或園藝工分類的委託品，只需要在打開列表的狀態下，<hex:02100103>執行次級指令「搜索採集方法」，<hex:02100103>就可以打開採集筆記，看到採集地點。
-50,TEXT_CTSSFSCHARACTER9_00815_TUTORIAL_000_005,捕魚人分類的委託品，<hex:02100103>在打開列表的狀態下執行次級指令「顯示獲取地點」，<hex:02100103>就會顯示出可以獲得該種魚類的釣場或漁場。
-51,TEXT_CTSSFSCHARACTER9_00815_TUTORIAL_100_005,另外垂釣時推薦使用<hex:02280BFF05>Item<hex:F26FDA0103>作為釣餌。
-52,TEXT_CTSSFSCHARACTER9_00815_TUTORIAL_000_006,所交道具的收藏價值越高，交納時獲得的報酬就越豐厚。
-53,TEXT_CTSSFSCHARACTER9_00815_TUTORIAL_000_007,如果想知道「提高收藏價值的方法」，<hex:02100103>可以去找<hex:022812FF0D>ENpcResident<hex:E8020103>對話，<hex:02100103>選擇「詢問有關老主顧交易」，就可以查看了！
-54,TEXT_CTSSFSCHARACTER9_00815_TUTORIAL_001_000,交納委託品後，<hex:02100103><hex:022812FF0D>ENpcResident<hex:E8020103>開始對你產生信賴。
-55,TEXT_CTSSFSCHARACTER9_00815_TUTORIAL_001_001,交貨時獲得的「信賴度」通過信賴槽來顯示，<hex:02100103>當信賴槽積滿，「信賴等級」就會提高，<hex:02100103>同時可以看到<hex:022812FF0D>ENpcResident<hex:E8020103>的新故事。
-56,TEXT_CTSSFSCHARACTER9_00815_TUTORIAL_001_002,另外，每週最多可以交貨6次。<hex:02100103>積極地交納收藏品，提高信賴等級吧！
-57,TEXT_CTSSFSCHARACTER9_00815_WEEKLYLIMIT_000_000,本週的交貨次數已經全部消耗。<hex:02100103>交貨次數會在每週<hex:020603120303><hex:02093ADDFF07>週日<hex:FF07>週一<hex:FF07>週二<hex:FF07>週三<hex:FF07>週四<hex:FF07>週五<hex:FF07>週六<hex:03>的<hex:020821DBFF1D><hex:020919DB02030405060708090A0B0C0D0E0F10111213141516171803><hex:0103>點（地球時間）被重置。
-58,TEXT_CTSSFSCHARACTER9_00815_KNOWLEDGE_ANDEN_001_000,說到羊倌會使用的東西……大概是剪羊毛的剪刀、<hex:02100103>羊圈的清掃工具、做飯的炊具以及藥品這些吧。<hex:02100103>你會給我帶來什麼樣的東西呢？
-59,TEXT_CTSSFSCHARACTER9_00815_KNOWLEDGE_ANDEN_001_001,山岳地區很冷並且還會降雪，<hex:02100103>在這種地方生活的話，防寒用品果然是不可或缺的呢！
-60,TEXT_CTSSFSCHARACTER9_00815_KNOWLEDGE_ANDEN_001_002,孚布特王國的羊肉菜餚……<hex:02100103>從羊的角度來看，<hex:02100103>草人應該也和羊飼料沒什麼區別吧……
-61,TEXT_CTSSFSCHARACTER9_00815_KNOWLEDGE_ANDEN_001_003,孚布特王國有很多工匠，<hex:02100103>工房每天都會製作出很多武器、防具或是裝飾品！<hex:02100103>會不會有變成草人的傑出工匠呢？
-62,TEXT_CTSSFSCHARACTER9_00815_KNOWLEDGE_ANDEN_001_004,我以前總是會送給艾奧·提兒羊奶和點心，<hex:02100103>但是這次我想送一些你做的禮品。<hex:02100103>不知道你會準備什麼樣的東西？
-63,TEXT_CTSSFSCHARACTER9_00815_KNOWLEDGE_ANDEN_002_000,之前有羊啃食過我的枝葉，<hex:02100103>雖然這很怪，但我很樂意成為它們的食物……<hex:02100103>算、算了，果然飼料還是得用乾草或者岩鹽吧？
-64,TEXT_CTSSFSCHARACTER9_00815_KNOWLEDGE_ANDEN_002_001,為了抵禦山岳地區的嚴寒，石炭和木柴是不可或缺的。<hex:02100103>但我現在是一個草人，我真的怕這些石炭和木柴把我也點了！
-65,TEXT_CTSSFSCHARACTER9_00815_KNOWLEDGE_ANDEN_002_002,這附近的山泉水和土地的品質都非常好，<hex:02100103>非常適合種植作物！<hex:02100103>作為草人，我這茂盛的枝葉便是最好的證明！
-66,TEXT_CTSSFSCHARACTER9_00815_KNOWLEDGE_ANDEN_002_003,說到山岳地區，那一定會有礦產資源，<hex:02100103>再通過畜牧業獲得毛皮就能製作很多東西了！<hex:02100103>也許在冬天之後略微回暖的時期也可以種植棉花。
-67,TEXT_CTSSFSCHARACTER9_00815_KNOWLEDGE_ANDEN_002_004,除了羊奶和點心以外艾奧·提兒會喜歡的東西……<hex:02100103>大概是閃閃發光的石頭或者有著淡淡清香的花朵吧。<hex:02100103>說起這些讓我不禁回想起小時候的妹妹。
-68,TEXT_CTSSFSCHARACTER9_00815_KNOWLEDGE_ANDEN_003_000,雖然大家都以為羊只吃草，<hex:02100103>但考慮的毛色的問題，還要注意給它們餵食別的東西。<hex:02100103>比如海藻之類的。
-69,TEXT_CTSSFSCHARACTER9_00815_KNOWLEDGE_ANDEN_003_001,為了抵禦山岳地區的嚴寒，<hex:02100103>喝一碗熱湯是再合適不過的了！<hex:02100103>如果河水沒有結冰，也許可以用釣來的魚獲煮湯。
-70,TEXT_CTSSFSCHARACTER9_00815_KNOWLEDGE_ANDEN_003_002,雖然這裡離大海很遠，但是山中有河流以及湖泊！<hex:02100103>即使河水結冰，只要鑿一個洞也是可以釣魚的。<hex:02100103>所以就算是在山岳地區也能有美味的魚類菜餚！
-71,TEXT_CTSSFSCHARACTER9_00815_KNOWLEDGE_ANDEN_003_003,工藝品比起美術品要更注重實用性，<hex:02100103>再考慮維護的話，還是想用身邊易獲得的材料。<hex:02100103>有沒有在河邊就獲得的材料呢？
-72,TEXT_CTSSFSCHARACTER9_00815_KNOWLEDGE_ANDEN_003_004,仙子族們喜歡有著漂亮顏色的東西。<hex:02100103>艾奧·提兒也一樣，<hex:02100103>所以如果你有看到顏色漂亮的貝殼，我希望你能帶一些回來！
-73,TEXT_CTSSFSCHARACTER9_00815_JUDGEMENT_ANDEN_000_000,哦哦！<hex:02100103>幫大忙了，<hex:022903EB0203>！<hex:02100103>你帶的東西真是不錯！
-74,TEXT_CTSSFSCHARACTER9_00815_JUDGEMENT_ANDEN_000_001,這麼好的東西，我真的可以收下嗎？<hex:02100103>你太慷慨了，謝謝你！
-75,TEXT_CTSSFSCHARACTER9_00815_JUDGEMENT_ANDEN_000_002,等一下！<hex:02100103>你帶來的東西真是不可多得的精品！<hex:02100103>實在是太感謝你了，<hex:022903EB0203>！
-76,TEXT_CTSSFSCHARACTER9_00815_FULLBAG_000_000,背包已滿，<hex:02100103>無法獲取信賴等級提高的報酬。
-77,TEXT_CTSSFSCHARACTER9_00815_FULLBAG_000_001,請整理背包後再找<hex:022812FF0D>ENpcResident<hex:E8020103>。
-78,TEXT_CTSSFSCHARACTER9_00815_BEFRANKUP_ANDEN_000_000,明明你帶來了這麼多好東西，<hex:02100103>可我還是草人的身體根本無法使用，太可惜了。<hex:02100103>甚至我這樣子還會被羊群們當成飼料啃食！
-79,TEXT_CTSSFSCHARACTER9_00815_BEFRANKUP_ANDEN_000_001,不過既然我覺得可惜，那就說明我至少熟悉這些工具，<hex:02100103>光是看到這些工具，我就感覺記憶變得鮮明了起來！<hex:02100103>感覺我就要想起來什麼來了！
-80,TEXT_CTSSFSCHARACTER9_00815_BEFRANKUP_ANDEN_001_000,說起來我一直在想，如果這裡一直都是嚴寒的天氣，<hex:02100103>我會不會就這麼枯萎掉啊？<hex:02100103>太嚇人了，還好天氣變暖讓我撿了一條命！
-81,TEXT_CTSSFSCHARACTER9_00815_BEFRANKUP_ANDEN_001_001,向把天氣變暖的某人還有一直幫助我的你致以由衷的感謝！<hex:02100103>多虧了你們讓我想起了更多曾經在這裡生活的事情！
-82,TEXT_CTSSFSCHARACTER9_00815_BEFRANKUP_ANDEN_002_000,看到你帶來的東西，<hex:02100103>我想我以前應該很享受每天的飯菜。<hex:02100103>現在每天只能通過陽光和水來獲得營養，實在是太難受了！
-83,TEXT_CTSSFSCHARACTER9_00815_BEFRANKUP_ANDEN_002_001,不行不行，現在可不是嘆氣的時候！<hex:02100103>快想起來，快努力回想起來，<hex:02100103>我之前究竟都會吃些什麼東西！
-84,TEXT_CTSSFSCHARACTER9_00815_BEFRANKUP_ANDEN_003_000,多虧你帶來了這麼多東西，<hex:02100103>我感覺最近越來越容易想起以前的事情了！
-85,TEXT_CTSSFSCHARACTER9_00815_BEFRANKUP_ANDEN_003_001,這麼多材料擺在眼前，<hex:02100103>我已經忍不住要拿來製作些什麼了！<hex:02100103>照這樣下去，我也許可以想起更多。
-86,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_001_001,對了！我想起來了！
-87,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_001_002,就像艾奧·提兒說的一樣！<hex:02100103>我以前是一個羊倌一直在照顧羊群！
-88,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_EOTYR_001_003,呵呵，沒錯！<hex:02100103>你能想起來真是太好了！
-89,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_001_004,原本我生活在山谷對面的山腰附近，<hex:02100103>光之泛濫的時候逃難到這裡……<hex:02100103>我還記得那時我的羊群並不喜歡這裡的羊倌。
-90,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_001_005,不過就算是以前令人懷念的同行們，<hex:02100103>現在也都變成了草人……
-91,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_001_006,還有在我定居在這裡之前曾委託旅行者工作來著，<hex:02100103>結果來幫忙的迦震族還被小羊踢了一腳屁股，<hex:02100103>當時真的是太歡樂了！
-92,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_001_007,嗯？！<hex:02100103>難道說，我變回原來的樣子了嗎？！
-93,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_001_008,為什麼會變回來？<hex:02100103>我還沒有回想起自己的樣子啊，<hex:02100103>最起碼我不應該是迦震族啊？！
-94,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_EOTYR_001_009,呵呵呵！<hex:02100103>安登，你別慌！
-95,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_EOTYR_001_010,我只是用幻惑魔法改變了你的樣子！<hex:02100103>你這蓬鬆的枝葉可是你的魅力所在，如果沒了就太可惜了！<hex:02100103>所以我把你頭上的部分留下來了，怎麼樣好看吧？
-96,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_EOTYR_001_011,而且你越是接近人形，<hex:02100103>我就越是能從你的肢體動作上理解你的反應，<hex:02100103>你不覺得這很有趣嗎？
-97,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_001_012,我承認這有助於交流，<hex:02100103>但是能不能別拿我尋開心啊！
-98,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_EOTYR_001_013,哈哈哈！<hex:02100103>就是這個！<hex:02100103>你的反應實在是太有趣了！
-99,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_001_014,艾奧·提兒真是喜歡惡作劇啊。<hex:02100103>我變成這樣怕不是也會被小羊踢屁股。
-100,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_001_015,等等……<hex:02100103>被我最愛的可愛小羊們踢屁股貌似也挺不錯的？
-101,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_002_001,我想起來了！<hex:02100103>山岳地區到了冬季會非常冷，<hex:02100103>我得趁著工作的間隙去砍柴！
-102,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_EOTYR_002_002,安登真是的，總是萬事羊優先，<hex:02100103>經常會出現木柴儲備不足的情況！<hex:02100103>他在大雪天裡哭著砍柴的樣子我都不知道看了幾次了！
-103,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_002_003,太丟人了！<hex:02100103>我求你別說了，不要別人面前揭我短啊！
-104,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_002_004,總之砍柴的事先放一邊！
-105,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_002_005,孚布特王國附近屬於寒冷地帶，<hex:02100103>羊毛的需求量很高，我也因此不愁生活。
-106,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_002_006,在這個防寒衣服不可或缺的地方，<hex:02100103>自然盛行毛織產業，喜歡編織的人也有很多！<hex:02100103>所以有不少人將羊毛紡成毛線然後拿到城裡去賣。
-107,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_002_007,我認識的菁靈族就非常怕冷，<hex:02100103>作為幫忙的謝禮我都會送對方羊毛做的手套。
-108,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_002_008,為什麼！<hex:02100103>為什麼我的樣子又變了？！
-109,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_EOTYR_002_009,呵呵呵！
-110,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_EOTYR_002_010,變成菁靈族的安登，<hex:02100103>你看起來就像篤學者莊園的於里昂熱！
-111,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_EOTYR_002_011,說起來，於里昂熱是小樹苗的朋友吧？
-112,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_EOTYR_002_012,於里昂熱會滿臉厭惡地將討厭的點心吃掉哦！<hex:02100103>那個表情太有意思了，所以我們經常去找他玩。<hex:02100103>安登的反應也不輸給他，超有趣！
-113,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_002_013,這……這算是打一巴掌給個棗嗎？<hex:02100103>突然誇我，搞得我都不知道如何是好了！
-114,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_003_001,我想起我喜歡的菜了！
-115,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_003_002,城堡下的酒館裡賣的燉羊肉，那可是絕品！<hex:02100103>唯有那道菜，比起自己做我更喜歡在店裡吃！
-116,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_EOTYR_003_003,安登那麼喜歡羊，<hex:02100103>我還以為安登是打死都不會吃羊肉的，<hex:02100103>第一次知道他吃羊肉的時候真是太意外了！
-117,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_003_004,剪羊毛、擠羊奶，到了一定年齡後，<hex:02100103>會將其作為肉羊處理，羊皮也自有用處。<hex:02100103>我不會浪費羊身上的任何東西！
-118,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_003_005,對於將我們從飢餓與寒冷中解救出來的羊心懷感謝，<hex:02100103>所以我發誓要盡我所能，用舒適幸福的生活來回報羊群的犧牲。
-119,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_003_006,說起來，我會用羊奶做乳酪，<hex:02100103>除了自己吃以外還會賣一些給酒館。<hex:02100103>乳酪作為下酒菜可真是太合適了!
-120,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_003_007,之前喝酒時給酒友推薦乳酪來著，<hex:02100103>結果那傢伙喝得比平時要多好多！<hex:02100103>害得我被一起喝酒的矮人族一頓臭罵。
-121,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_003_008,艾奧·提兒……<hex:02100103>將我變來變去的，你是不是很開心？<hex:02100103>真是拿你沒辦法。
-122,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_EOTYR_003_009,呵呵呵！<hex:02100103>誰讓你的反應每一次都那麼有趣！
-123,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_EOTYR_003_010,大個子的安登很帥氣，<hex:02100103>小個子的安登也很可愛，不管是哪個我都好喜歡！
-124,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_003_011,……
-125,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_003_012,你突然間說什麼呢，害羞死了！<hex:02100103>我的小心臟可受不了這些！
-126,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_004_001,這種創作慾望滿溢的感覺……<hex:02100103>我以前一定很喜歡製作工藝品！
-127,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_004_002,宰完羊後，我會用毛皮製作地毯，這裡有這麼多石屋，<hex:02100103>地毯作為防寒用品能賣個好價錢！
-128,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_EOTYR_004_003,安登的家裡也有很多毛絨絨的地毯哦！<hex:02100103>摸起來手感可真是太棒了！
-129,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_004_004,當我回過神來的時候，我已經沉迷於製革的工作了。<hex:02100103>因此我將籌備皮革的工作委託給了貓秘族！<hex:02100103>至於製作的東西一部分我自己在用，也有一部分拿去賣了……
-130,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_004_005,好了，淘氣鬼艾奧·提兒，<hex:02100103>我早就猜到你又要惡作劇了。<hex:02100103>真是拿你沒辦法……
-131,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_EOTYR_004_006,呵呵呵！<hex:02100103>居然已經能猜到我的想法了嗎！
-132,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_EOTYR_004_007,但是你也可以像之前一樣，<hex:02100103>展現出你那有趣的反應哦？
-133,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_004_008,你以為你誇我就沒事了嗎？！<hex:02100103>好吧，你說得對，<hex:02100103>雖然很不甘心，但我已經被你琢磨透了……
-134,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_EOTYR_004_009,說起來，我很久以前聽說過，<hex:02100103>妖靈王有一位身體由水晶構成的貓秘族朋友！<hex:02100103>莫非你和那位貓秘族也是朋友？
-135,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_EOTYR_004_010,真的嗎！<hex:02100103>那個人居然和妖靈王一樣有著美麗的紅色毛髮啊！
-136,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_004_011,朋友？
-137,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_004_012,我應該也有一些稱得上朋友的人……<hex:02100103>他們經常會來幫忙，<hex:02100103>而且和他們在一起我感覺很舒服。
-138,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_004_013,說起來他們好像是旅行者！
-139,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_004_014,迦震族男性和菁靈族女性，<hex:02100103>以及矮人族女性和貓秘族女性……<hex:02100103>好像還有一個……是塵族男性！
-140,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_004_015,想起來了！<hex:02100103>他叫阿爾博特！
-141,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_004_016,你這反應？<hex:02100103>難道你認識阿爾博特他們嗎？
-142,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_004_017,世界真小啊……<hex:02100103>他們四處冒險十分忙碌，不過也在這裡度過了一個冬天！
-143,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_004_018,那時他們完成了很多我委託的工作，<hex:02100103>我們還經常一起吃飯。
-144,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_004_019,雖然剛開始見到我時他們很是驚訝，<hex:02100103>但尷尬之後，他們很快就接受了我，<hex:02100103>並且之後每次路過都會來做客！ 
-145,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_004_020,但最開始他們為什麼會感到驚訝呢？<hex:02100103>有什麼在意的地方嗎？
-146,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_EOTYR_001_100,說起來，安登總是會被毛絨絨的羊們包圍起來，<hex:02100103>看起來非常暖和，不過他現在這個樣子大概會被羊群吃掉？
-147,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_001_101,被你這麼一說，<hex:02100103>我記得以前貌似還抱著小羊取暖來著？
-148,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_001_102,雖然現在這裡滿是鮮花，但這裡不是寒冷地帶嗎？！<hex:02100103>畢竟可是山岳地區啊。
-149,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_001_103,那樣的話，應該會有一些寒冷山區使用的防寒用品！<hex:02100103><hex:022903EB0203>，接下來就從這方面入手吧！
-150,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_EOTYR_002_100,說到吃的，<hex:02100103>安登之前可是吃過羊肉哦！
-151,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_002_101,別這麼說啊，我可是很喜歡羊的哦？<hex:02100103>愛羊，當然也愛吃羊！
-152,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_002_102,不過聽你這麼一說，<hex:02100103>也許我以前喜歡吃用羊肉做的菜？
-153,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_002_103,因為是草人所以吃不了東西，之前一直都沒注意這方面的事情，<hex:02100103>跟吃飯相關的東西也許能刺激我恢復記憶！<hex:02100103>可以拜託你籌備菜品、廚具以及食材嗎？
-154,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_EOTYR_003_100,安登對矮人族的鬍子可感興趣了，<hex:02100103>他們的鬍子有著和羊毛不一樣的柔軟手感！
-155,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_003_101,矮人族的鬍子？<hex:02100103>很長一段時間我都以為他們的鬍子是自然生長的，<hex:02100103>當我知道那只是頭盔上的裝飾時可真是吃了一驚。
-156,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_003_102,那獨特的裝飾物，簡直就是矮人族的工藝品呢，<hex:02100103>能從那鬍鬚中感受到他們獨有的文化！
-157,TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_003_103,說起來，以前大雪紛飛的冬季時，除了照顧羊群以外我很少出門，<hex:02100103>好像一直都是悶在家裡做些什麼來著？<hex:02100103>如果你能找些工藝品或是材料給我，也許我就能想起來了。
-158,TEXT_CTSSFSCHARACTER9_00815_RANKUPINFO_000_000,<hex:022812FF0D>ENpcResident<hex:E8020103>的信賴等級提高了！<hex:02100103>你在<hex:022812FF0D>ENpcResident<hex:E8020103>心中的形象變為了多半是個可以溝通的人！
-159,TEXT_CTSSFSCHARACTER9_00815_RANKUPINFO_000_001,<hex:022812FF0D>ENpcResident<hex:E8020103>的信賴等級提高了！<hex:02100103>你在<hex:022812FF0D>ENpcResident<hex:E8020103>心中的形象變為了大概是個技術不錯的工匠！
-160,TEXT_CTSSFSCHARACTER9_00815_RANKUPINFO_000_002,<hex:022812FF0D>ENpcResident<hex:E8020103>的信賴等級提高了！<hex:02100103>你在<hex:022812FF0D>ENpcResident<hex:E8020103>心中的形象變為了一定是個親切的旅行者！
-161,TEXT_CTSSFSCHARACTER9_00815_RANKUPINFO_000_003,<hex:022812FF0D>ENpcResident<hex:E8020103>的信賴等級提高了！<hex:02100103>你在<hex:022812FF0D>ENpcResident<hex:E8020103>心中的形象變為了總覺得和自己的朋友有點像的人！
-162,TEXT_CTSSFSCHARACTER9_00815_RANKUPINFO_001_001,<hex:022812FF0D>ENpcResident<hex:E8020103>還需要你的幫助。
-163,TEXT_CTSSFSCHARACTER9_00815_RANKUPINFO_001_002,<hex:022812FF0D>ENpcResident<hex:E8020103>有新的委託想要給你。
-164,TEXT_CTSSFSCHARACTER9_00815_AFTRANKUP_000_001,由於接到了新的委託，交貨列表已經更新。<hex:02100103>和<hex:022812FF0D>ENpcResident<hex:E8020103>對話，<hex:02100103>選擇交納委託品，查看交貨列表。
-165,TEXT_CTSSFSCHARACTER9_00815_AFTRANKUP_001_001,可以領取老主顧交易的劇情任務了。<hex:02100103>和伊爾美格的安登對話即可接受任務。<hex:02100103>完成任務後，交貨列表將會更新。
-166,TEXT_CTSSFSCHARACTER9_00815_AFTRANKUP_002_001,
-167,TEXT_CTSSFSCHARACTER9_00815_AFTRANKUP_002_002,
-168,TEXT_CTSSFSCHARACTER9_00815_AFTRANKUP_002_003,
-169,TEXT_CTSSFSCHARACTER9_00815_AFTRANKUP_002_004,
-170,TEXT_CTSSFSCHARACTER9_00815_RANKUP_ANDEN_001_000,<hex:022903EB0203>，謝謝你帶這麼多東西給我！
-171,TEXT_CTSSFSCHARACTER9_00815_RANKUP_ANDEN_001_001,而且能和你聊天我也非常高興！<hex:02100103>畢竟這裡能和我聊天的也只有仙子族，<hex:02100103>別說是聊天了，怕是會被他們一直捉弄。
-172,TEXT_CTSSFSCHARACTER9_00815_RANKUP_ANDEN_002_000,這次你也幫我籌備了很多東西呢，<hex:02100103>謝謝你，<hex:022903EB0203>！
-173,TEXT_CTSSFSCHARACTER9_00815_RANKUP_ANDEN_002_001,雖然可能算不上謝禮，<hex:02100103>但我希望你能去找一兩隻羊抱一抱，<hex:02100103>它們毛絨絨的羊毛一定可以將你的疲勞一掃而空！
-174,TEXT_CTSSFSCHARACTER9_00815_RANKUP_ANDEN_003_000,和<hex:022903EB0203>做生意總是會<hex:02100103>讓我回想起以前在孚布特王國的生活！
-175,TEXT_CTSSFSCHARACTER9_00815_RANKUP_ANDEN_003_001,可能是我平常很少與人打交道，<hex:02100103>所以我在和商人討價還價的時候總是被牽著鼻子走。<hex:02100103>在城堡下的商店做買賣的時候也是，對方的價格簡直黑死了！
-176,TEXT_CTSSFSCHARACTER9_00815_RANKUP_ANDEN_003_002,而在這方面，艾奧·提兒他們的想法就很簡單，<hex:02100103>比起和商人討價還價，和他們做生意更輕鬆！<hex:02100103>怎麼感覺我已經回不到人類世界的生活了……
-177,TEXT_CTSSFSCHARACTER9_00815_RANKUP_ANDEN_004_000,我說<hex:022903EB0203>，<hex:02100103>你是不是很在意平常支付給你的工票是從哪裡來的？
-178,TEXT_CTSSFSCHARACTER9_00815_RANKUP_ANDEN_004_001,其實這些都是羅兒·烏兒給我的，<hex:02100103>似乎是在伊爾美格迷路的人帶來的東西！<hex:02100103>妖靈鄉現在變得太「熱鬧」了。
-179,TEXT_CTSSFSCHARACTER9_00815_RANKUP_ANDEN_004_002,把這些東西當做報酬總讓我有一種說不出的負罪感，<hex:02100103>現在你也知道這些東西的來源了，<hex:02100103>我終於不用一個人背負這股罪惡感了！
-180,TEXT_CTSSFSCHARACTER9_00815_RANKUP_ANDEN_005_000,<hex:022903EB0203>……<hex:02100103>最近艾奧·提兒總是態度強勢地讓我成為他的小樹苗，<hex:02100103>作為這方面的前輩你怎麼看？
-181,TEXT_CTSSFSCHARACTER9_00815_RANKUP_EOTYR_005_001,妖靈王的小樹苗，你聽我說！<hex:02100103>我想和安登簽訂契約，可是安登完全不接受！
-182,TEXT_CTSSFSCHARACTER9_00815_RANKUP_EOTYR_005_002,我一定、一定要趕在其他仙子族前<hex:02100103>讓安登成為我的小樹苗！
-183,TEXT_CTSSFSCHARACTER9_00815_RANKUP_ANDEN_006_000,我一直都待在這裡，<hex:02100103>所以每次<hex:022903EB0203>你來我這裡的時候，<hex:02100103>都會讓我想起阿爾博特他們。
-184,TEXT_CTSSFSCHARACTER9_00815_RANKUP_ANDEN_006_001,最後一次見他們還是在冬季的末尾，<hex:02100103>他們說要到世界各地去看看，回頭再見。<hex:02100103>結果就留下這麼一句話再也沒有了消息！
-185,TEXT_CTSSFSCHARACTER9_00815_RANKUP_ANDEN_006_002,我可是一直在等著他們回來！<hex:02100103>就算世人說他們是引發光之泛濫的元兇，<hex:02100103>但至少我會很高興見到他們並像以前一樣與他們相處。
-186,TEXT_CTSSFSCHARACTER9_00815_RANKUP_ANDEN_006_003,抱歉，向你說這些也不會改變什麼，<hex:02100103>但只要看到你，我總會想起阿爾博特！
-187,TEXT_CTSSFSCHARACTER9_00815_RANKUP_ANDEN_006_004,你也偶爾得去見見你的老朋友，<hex:02100103>對方一定比你想的要更加關心你。
-188,TEXT_CTSSFSCHARACTER9_00815_AFTWEEKLY_000_000,本週向<hex:022812FF0D>ENpcResident<hex:E8020103>的交貨的次數已經全部消耗。<hex:02100103>交貨次數會在每週<hex:020603120303><hex:02093ADDFF07>週日<hex:FF07>週一<hex:FF07>週二<hex:FF07>週三<hex:FF07>週四<hex:FF07>週五<hex:FF07>週六<hex:03>的<hex:020821DBFF1D><hex:020919DB02030405060708090A0B0C0D0E0F10111213141516171803><hex:0103>點（地球時間）被重置。
-189,TEXT_CTSSFSCHARACTER9_00815_ANDEN_000_000,這微妙的感覺，<hex:02100103>我真的好在意啊。
-190,TEXT_CTSSFSCHARACTER9_00815_QUEST_SYSTEM_000_002,若要繼續推進老主顧的劇情任務，<hex:02100103>需要當前職業為大地使者或能工巧匠。
+0,"TEXT_CTSSFSCHARACTER9_00815_GREETING_ANDEN_000_000","Assuming I was a shepherd, seeing items used for tending sheep may help me remember something crucial. At least, I hope it will..."
+1,"TEXT_CTSSFSCHARACTER9_00815_GREETING_ANDEN_000_001","It still gets chilly at nighttime, but these mountains were once frigid. What do you think I used to stave off the cold?"
+2,"TEXT_CTSSFSCHARACTER9_00815_GREETING_ANDEN_000_002","Hello, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. I do hate to keep troubling you, but might I see some items that a person might eat?"
+3,"TEXT_CTSSFSCHARACTER9_00815_GREETING_ANDEN_000_003","Good <hex:020839E3E90C0DFF1B><hex:020817E3E90C05FF08>evening<hex:FF08>morning<hex:03><hex:FF17><hex:020813E3E90C12FF04>day<hex:FF08>evening<hex:03><hex:03>, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>!<hex:02100103>I feel likely to regain the rest of my memories at any moment. Just a little further, and I'm sure to recall my true form."
+4,"TEXT_CTSSFSCHARACTER9_00815_GREETING_ANDEN_000_004","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! Always so good to see you, my friend."
+5,"TEXT_CTSSFSCHARACTER9_00815_TOPMENU_000_000","What will you do?"
+6,"TEXT_CTSSFSCHARACTER9_00815_TOPMENU_000_001","Make a delivery (<hex:022003E80303> remaining)."
+7,"TEXT_CTSSFSCHARACTER9_00815_TOPMENU_000_002","Cast glamour on Anden."
+8,"TEXT_CTSSFSCHARACTER9_00815_TOPMENU_000_003","Learn about custom deliveries."
+9,"TEXT_CTSSFSCHARACTER9_00815_TOPMENU_000_004","Nothing."
+10,"TEXT_CTSSFSCHARACTER9_00815_GUIDEMENU_000_000",""
+11,"TEXT_CTSSFSCHARACTER9_00815_GUIDEMENU_001_000",""
+12,"TEXT_CTSSFSCHARACTER9_00815_GUIDEMENU_007_000",""
+13,"TEXT_CTSSFSCHARACTER9_00815_GUIDEMENU_002_000",""
+14,"TEXT_CTSSFSCHARACTER9_00815_GUIDEMENU_003_000",""
+15,"TEXT_CTSSFSCHARACTER9_00815_GUIDEMENU_004_000",""
+16,"TEXT_CTSSFSCHARACTER9_00815_GUIDEMENU_005_000",""
+17,"TEXT_CTSSFSCHARACTER9_00815_GUIDEMENU_006_000",""
+18,"TEXT_CTSSFSCHARACTER9_00815_GUIDEMENU_CANCEL",""
+19,"TEXT_CTSSFSCHARACTER9_00815_GUIDE_001_000",""
+20,"TEXT_CTSSFSCHARACTER9_00815_GUIDE_001_001",""
+21,"TEXT_CTSSFSCHARACTER9_00815_GUIDE_001_002",""
+22,"TEXT_CTSSFSCHARACTER9_00815_GUIDE_007_000",""
+23,"TEXT_CTSSFSCHARACTER9_00815_GUIDE_007_001",""
+24,"TEXT_CTSSFSCHARACTER9_00815_GUIDE_002_000",""
+25,"TEXT_CTSSFSCHARACTER9_00815_GUIDE_002_001",""
+26,"TEXT_CTSSFSCHARACTER9_00815_GUIDE_002_002",""
+27,"TEXT_CTSSFSCHARACTER9_00815_GUIDE_002_003",""
+28,"TEXT_CTSSFSCHARACTER9_00815_GUIDE_102_003",""
+29,"TEXT_CTSSFSCHARACTER9_00815_GUIDE_002_004",""
+30,"TEXT_CTSSFSCHARACTER9_00815_GUIDE_003_000",""
+31,"TEXT_CTSSFSCHARACTER9_00815_GUIDE_004_000",""
+32,"TEXT_CTSSFSCHARACTER9_00815_GUIDE_004_002",""
+33,"TEXT_CTSSFSCHARACTER9_00815_GUIDE_004_003",""
+34,"TEXT_CTSSFSCHARACTER9_00815_GUIDE_004_004",""
+35,"TEXT_CTSSFSCHARACTER9_00815_GUIDE_005_000",""
+36,"TEXT_CTSSFSCHARACTER9_00815_GUIDE_005_001",""
+37,"TEXT_CTSSFSCHARACTER9_00815_GUIDE_005_002",""
+38,"TEXT_CTSSFSCHARACTER9_00815_GUIDE_005_003",""
+39,"TEXT_CTSSFSCHARACTER9_00815_GUIDE_006_000",""
+40,"TEXT_CTSSFSCHARACTER9_00815_GUIDE_006_001",""
+41,"TEXT_CTSSFSCHARACTER9_00815_GUIDE_006_002",""
+42,"TEXT_CTSSFSCHARACTER9_00815_GUIDE_006_003",""
+43,"TEXT_CTSSFSCHARACTER9_00815_TUTORIAL_000_000","Help Anden achieve his goals by delivering collectables. For more information, speak with him and select <hex:024804F201F403><hex:024904F201F503>Learn about custom deliveries<hex:0249020103><hex:0248020103>."
+44,"TEXT_CTSSFSCHARACTER9_00815_TUTORIAL_000_008",""
+45,"TEXT_CTSSFSCHARACTER9_00815_TUTORIAL_000_009",""
+46,"TEXT_CTSSFSCHARACTER9_00815_TUTORIAL_000_001",""
+47,"TEXT_CTSSFSCHARACTER9_00815_TUTORIAL_000_002",""
+48,"TEXT_CTSSFSCHARACTER9_00815_TUTORIAL_000_003",""
+49,"TEXT_CTSSFSCHARACTER9_00815_TUTORIAL_000_004",""
+50,"TEXT_CTSSFSCHARACTER9_00815_TUTORIAL_000_005",""
+51,"TEXT_CTSSFSCHARACTER9_00815_TUTORIAL_100_005",""
+52,"TEXT_CTSSFSCHARACTER9_00815_TUTORIAL_000_006",""
+53,"TEXT_CTSSFSCHARACTER9_00815_TUTORIAL_000_007",""
+54,"TEXT_CTSSFSCHARACTER9_00815_TUTORIAL_001_000","In making your first successful delivery, you have begun to earn Anden's trust."
+55,"TEXT_CTSSFSCHARACTER9_00815_TUTORIAL_001_001","With each successful delivery, Anden will grow more and more satisfied with your efforts. Fill the gauge completely and Anden's <hex:024804F201F403><hex:024904F201F503>satisfaction level<hex:0249020103><hex:0248020103> will increase, giving you the opportunity to learn more about him."
+56,"TEXT_CTSSFSCHARACTER9_00815_TUTORIAL_001_002","You can make up to six deliveries in a given week. Deliver the items Anden needs, and deliver them often to win the trust and praise of your new leafy acquaintance!"
+57,"TEXT_CTSSFSCHARACTER9_00815_WEEKLYLIMIT_000_000","You have reached the weekly limit for deliveries. You may begin again starting <hex:020603120303><hex:020942DDFF07>Sunday<hex:FF07>Monday<hex:FF08>Tuesday<hex:FF0A>Wednesday<hex:FF09>Thursday<hex:FF07>Friday<hex:FF09>Saturday<hex:03> at <hex:020821DBFF1D><hex:020919DB02030405060708090A0B0C0D02030405060708090A0B0C03><hex:0D03> <hex:020810E0DB0DFF05>p.m.<hex:FF05>a.m.<hex:03> (Earth time)."
+58,"TEXT_CTSSFSCHARACTER9_00815_KNOWLEDGE_ANDEN_001_000","Tending sheep requires food, medicine, trimming shears, cleaning supplies... Oooh, what's that you have there?"
+59,"TEXT_CTSSFSCHARACTER9_00815_KNOWLEDGE_ANDEN_001_001","Mountainous climes are nothing to sneeze at. Rather, they <hex:021A020203>would<hex:021A020103> be without warm clothing or blankets or some such thing."
+60,"TEXT_CTSSFSCHARACTER9_00815_KNOWLEDGE_ANDEN_001_002","Voeburtite cuisine may prominently feature lamb and mutton, but rest assured that sheep cuisine prominently features leafman fronds. What goes around comes around, I suppose... "
+61,"TEXT_CTSSFSCHARACTER9_00815_KNOWLEDGE_ANDEN_001_003","Voeburt once boasted a high population of artisans who crafted armor and weapons and all sorts of little things. I have no doubt a master craftsperson stands somewhere in these flowering fields─a leafman forever dreaming of creation!"
+62,"TEXT_CTSSFSCHARACTER9_00815_KNOWLEDGE_ANDEN_001_004","I've been giving Eo Tyr milk and sweets like I used to, but if you've anything handmade that you think they might enjoy, I'd be most obliged."
+63,"TEXT_CTSSFSCHARACTER9_00815_KNOWLEDGE_ANDEN_002_000","Being chewed on by sheep is not an entirely pleasant sensation, believe you me...but providing for them brings me great satisfaction. However, leaves alone do not a diet make─sheep need hay and a salt lick, at the very least."
+64,"TEXT_CTSSFSCHARACTER9_00815_KNOWLEDGE_ANDEN_002_001","It's natural for people to weather harsh climes by burning fuel for warmth. But once you understand what it means to be potential kindling, you never see fire the same way again!"
+65,"TEXT_CTSSFSCHARACTER9_00815_KNOWLEDGE_ANDEN_002_002","Considering the purity of the streams and quality of the soil, this area may be perfect for cultivating vegetables. It's little wonder why all the leafmen here are so verdant and lush."
+66,"TEXT_CTSSFSCHARACTER9_00815_KNOWLEDGE_ANDEN_002_003","Between mineral resources from the mountains and yields from my flock, supplies for crafting seem more than plentiful here. Do you think the climate might even accommodate for cotton? In the warmer seasons, of course..."
+67,"TEXT_CTSSFSCHARACTER9_00815_KNOWLEDGE_ANDEN_002_004","I asked Eo Tyr what other sorts of things they like, and they said “shiny stones and fragrant flowers.” Rather reminds me of what Tellina used to collect when she was young..."
+68,"TEXT_CTSSFSCHARACTER9_00815_KNOWLEDGE_ANDEN_003_000","These sheep look so content as they graze, but grass alone won't bring out the luster of their wool. A good supplement to their diet might, though... Seaweed, perhaps?"
+69,"TEXT_CTSSFSCHARACTER9_00815_KNOWLEDGE_ANDEN_003_001","Warm soup sounds like a delightful way to stave off the cold─and I daresay freshwater fish would produce some excellent stock."
+70,"TEXT_CTSSFSCHARACTER9_00815_KNOWLEDGE_ANDEN_003_002","The sea seems rather far away, but delicious freshwater creatures are surely plentiful in these rivers and lakes. If the surface freezes? Why, simply cut a hole through the ice!"
+71,"TEXT_CTSSFSCHARACTER9_00815_KNOWLEDGE_ANDEN_003_003","If your handicraft serves a practical purpose, it may very well need repairs at some point. A clever artisan chooses materials readily available to them, and few sources are more reliable than all these lakes and rivers..."
+72,"TEXT_CTSSFSCHARACTER9_00815_KNOWLEDGE_ANDEN_003_004","Pixies seem to have a particular weakness for pretty colors─or, at least, Eo Tyr does. If you happen to find any alluring shells or whatnot, I'd be most grateful to take them off your hands."
+73,"TEXT_CTSSFSCHARACTER9_00815_JUDGEMENT_ANDEN_000_000","Oooh! How lovely. You have my gratitude, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>."
+74,"TEXT_CTSSFSCHARACTER9_00815_JUDGEMENT_ANDEN_000_001","Your generosity is humbling, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Truly, I thank you!"
+75,"TEXT_CTSSFSCHARACTER9_00815_JUDGEMENT_ANDEN_000_002","F-For me!? I cannot fully express how grateful I feel, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>... Oooh, thank you, thank you, and thank you again!"
+76,"TEXT_CTSSFSCHARACTER9_00815_FULLBAG_000_000","Unable to obtain your reward. Your inventory is full."
+77,"TEXT_CTSSFSCHARACTER9_00815_FULLBAG_000_001","To collect your reward, make room in your inventory and speak with Anden once more."
+78,"TEXT_CTSSFSCHARACTER9_00815_BEFRANKUP_ANDEN_000_000","You have brought me so many nice things─it's a shame I can't put any of them to use. I daresay I'm far closer to sheep nourish<hex:021A020203>ment<hex:021A020103> than nourish<hex:021A020203>er<hex:021A020103> in my current state."
+79,"TEXT_CTSSFSCHARACTER9_00815_BEFRANKUP_ANDEN_000_001","But that regret in and of itself feels like a clue─and these items do seem profoundly familiar, somehow. Hmm..."
+80,"TEXT_CTSSFSCHARACTER9_00815_BEFRANKUP_ANDEN_001_000","Come to think of it, if the climate here had stayed as cold as it was, I would have wilted and died straightaway, correct? A chilling thought."
+81,"TEXT_CTSSFSCHARACTER9_00815_BEFRANKUP_ANDEN_001_001","I suppose this floral paradise is my unexpected savior─as are you, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Thanks to you, I think I've remembered something more of my past..."
+82,"TEXT_CTSSFSCHARACTER9_00815_BEFRANKUP_ANDEN_002_000","Water and sunlight provide all the sustenance a plant could ever need, but after looking at these foodstuffs, I can't help but feel a strong affinity for eating. Oooh, yes, I do miss a good chew..."
+83,"TEXT_CTSSFSCHARACTER9_00815_BEFRANKUP_ANDEN_002_001","...No, this is no time for swallowing! Er, wallowing. Just a little more, Anden─remember what once you ate!"
+84,"TEXT_CTSSFSCHARACTER9_00815_BEFRANKUP_ANDEN_003_000","I must say, recently it feels easier than ever to recall details from my former life. I'm all aflutter, and I don't just mean the breeze through my branches."
+85,"TEXT_CTSSFSCHARACTER9_00815_BEFRANKUP_ANDEN_003_001","I have little doubt that it's all thanks to you and these incredibly familiar supplies you've been bringing me. The desire to put my hands on them is overwhelming..."
+86,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_001_001","Oooh! That's it! I-I've remembered something."
+87,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_001_002","You were right, Eo Tyr─I <hex:021A020203>was<hex:021A020103> a shepherd. And I lived here with my sheep and cared for them very, very much."
+88,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_EOTYR_001_003","Yes! That's right, Anden. Go on, go on."
+89,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_001_004","Originally, we lived up on the mountainside, across the lake. But when the Flood came, we were forced to evacuate down here. Oooh, my little flock didn't like the move one bit. They never got along with the local shepherds...though I'm sure they do now that their wardens are tasty leafmen!"
+90,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_001_005","And there was one other they didn't take to, as I remember."
+91,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_001_006","Back before the Flood, a Galdjent traveler once assisted me with some work. Perhaps it was due to his hulking stature, but my sheep couldn't see him but to batter him with their tiny hooves. Heh! I shouldn't laugh, but the sight was really quite charming..."
+92,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_001_007","Wh-What's this? Have I returned to my true form!?"
+93,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_001_008","But I've hardly remembered anything! No, this doesn't feel right─I can say with relative certainty that I was never this gigantic."
+94,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_EOTYR_001_009","Tee hee hee! Ahahaha! So anxious, Anden. No need to fret!"
+95,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_EOTYR_001_010","This is only a glamour─just a teeny-tiny taste of who you might-have-may-have-sort-have been. Or not! Either way, I've kept that fluffy, leafy head of yours for luck. How precious you look!"
+96,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_EOTYR_001_011","I thought you'd feel more comfortable with the appearance of a mortal. And the more limbs you have, the more I can make them flail!"
+97,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_001_012","I-I suppose this does make communication easier in a fashion... But what's this about making me flail!?"
+98,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_EOTYR_001_013","Ahahaha! That's right, just like that. Oh, you are ever so droll!"
+99,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_001_014","Oooh, why must you delight in my discomfort? Thanks to you, I'm bound to be battered to mulch by my adorable charges!"
+100,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_001_015","Which─ Well, I suppose there are worse ways to go..."
+101,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_002_001","I think I remember splitting firewood! And resenting that I had to do so, as I much preferred tending to the sheep."
+102,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_EOTYR_002_002","Yes, yes! You never <hex:021A020203>could<hex:021A020103> tear yourself away from your sweet fluffies, Anden. You'd forget all about your chopping and then have to do it in the middle of the driving snow. You'd be out there shivering and sniffling and muttering such dark words!"
+103,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_002_003","Y-You saw all of that? Oooh..."
+104,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_002_004","W-Well, firewood aside, I do remember enjoying a comfortable life here!"
+105,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_002_005","You see, wool was always in high demand, here in...Voeburt, was it? Yes, Voeburt! That's what this place was called."
+106,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_002_006","I would have my wool spun to yarn in the castle town, and as knitting was a rather popular pastime, people were happy to pay good coin for it. One can never have too many pairs of fuzzy socks, after all."
+107,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_002_007","Speaking of, I remember gifting a pair of woolen gloves to a traveler once. Someone who helped me with an errand... An elf! Yes, I once knew an elf who was rather averse to the cold..."
+108,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_002_008","Oooh? I've changed again. Eo Tyr!?"
+109,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_EOTYR_002_009","Tee hee! Ahahahahahaha!"
+110,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_EOTYR_002_010","Elven Anden! You look just like that Urianger fellow who used to live at the Bookman's Shelves. ...Well, I suppose he wasn't <hex:021A020203>quite<hex:021A020103> so leafy."
+111,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_EOTYR_002_011","He's one of your friends, isn't he, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>?"
+112,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_EOTYR_002_012","Oooh, Urianger was ever so fun to play with. He was too polite to say anything ill, so we would gift him treats he <hex:021A020203>loathed<hex:021A020103> and laugh at his sad face while he ate them. What fun we had! But you're just as entertaining, Anden─don't you fret."
+113,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_002_013","I-Is that supposed to be a good thing? I don't know whether to feel flattered or horrified..."
+114,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_003_001","I've got it! I remember my favorite dish."
+115,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_003_002","There was a tavern in the castle town that served an exquisite lamb stew. Normally, I would prepare my own meals, but that dish in particular I preferred to pay for."
+116,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_EOTYR_003_003","The first time I saw you eat sheep, Anden, I thought I had been thrown into the queerest of dreams. Oooh, to think the good, sweet, gentle shepherd would gobble up his friends with such delectable delight!"
+117,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_003_004","Well, being a shepherd is more than being a <hex:021A020203>friend<hex:021A020103> to sheep. Your duty is to ensure no part of their life goes to waste─you milk them, shear their wool, and one day, yes, see that their skin becomes leather and their bodies nourishment for others."
+118,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_003_005","We shepherds rely on our sheep for survival, especially in such unforgiving climes. So I did my utmost to repay their sacrifice with as happy and comfortable a life as I could provide."
+119,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_003_006","I believe they were happy, anyway. They say happy sheep provide better milk─and indeed, the cheese I made from their yield was quite popular at the tavern."
+120,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_003_007","It paired wonderfully with ale─in fact, I remember one acquaintance of mine downing their weight in drink, so delighted were they by the combination. Their dwarven friend was perfectly appalled, scolded them something awful..."
+121,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_003_008","<hex:021A020203>Eo Tyr<hex:021A020103>! Haven't you had your fun by now!?"
+122,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_EOTYR_003_009","Tee hee heeeeee! Never enough fun, Anden─not when it's with you!"
+123,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_EOTYR_003_010","Oooh, Big Anden was strong and lovely, but Little Anden is <hex:021A020203>adorable<hex:021A020103> and lovely."
+124,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_003_011","A-Adorable?"
+125,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_003_012","Oooh, don't think you can simply flatter your way out of my discontent! ...Even though you very well may!"
+126,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_004_001","Yes, I know these waves of inspiration well. Without a doubt, I passed many a happy evening absorbed in my crafting."
+127,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_004_002","I remember making and selling all sorts of things. Sheepskin rugs, for instance, and they fetched a good price too─nothing warms a stone house better!"
+128,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_EOTYR_004_003","You had a warm, fluffy rug in your house too, Anden. Oooh, it was so very, very soft and lovely for snoozing."
+129,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_004_004","Oooh, I did, didn't I! I remember becoming so absorbed in the finer points of crafting and leatherwork that I once petitioned different sorts of skin from this Mystel hunter I knew. What was their name again..."
+130,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_004_005","<sigh> Yeees, yes. I had a feeling this was coming."
+131,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_EOTYR_004_006","Hee hee hee! You know me so well, Anden."
+132,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_EOTYR_004_007","But you don't have to restrain yourself. I do so love it when you bluster and fluster and wiggle about in delightful confusion. Go on, go on!"
+133,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_004_008","Eh? Be flustered on command? That's not─! How am I supposed to─? ...Oooh, I'm doing it, aren't I?"
+134,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_EOTYR_004_009","That reminds me─they say there's a fiery red Mystel made entirely of crystal who is friends with our king. Any friend of the king must be friends with their sapling, right?"
+135,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_EOTYR_004_010","I knew it. Urianger and the crystal Mystel─what lovely friends you have!"
+136,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_004_011","Friends..."
+137,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_004_012","...Do you suppose I had friends? I remember a particular group of people with whom I associated... Yes, they would help me with work sometimes, and..."
+138,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_004_013","Oooh, that's right! Those people I've been remembering─they were travelers! "
+139,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_004_014","A Galdjent...two elves...a dwarf and a Mystel...eh? There was one more, wasn't there? Who was it... A...Hume?"
+140,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_004_015","Of course! Ardbert!"
+141,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_004_016","Wait, what's that look for? Did you know Ardbert as well?"
+142,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_004_017","What a coincidence! Well, I suppose he <hex:021A020203>did<hex:021A020103> traverse the realm on his various adventures─but he and his comrades spent a winter here, once."
+143,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_004_018","They helped me with all sorts of little requests and errands, and at the end of a long day's work, we often broke bread together."
+144,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_004_019","Our first meeting was rather dramatic, though─I seemed to give them all quite a shock. But after that initial awkwardness, we became fast friends. If ever they ventured nearby, they would always make a point to call."
+145,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_004_020","...Wait, why <hex:021A020203>were<hex:021A020103> they so shocked by me? Something feels odd..."
+146,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_EOTYR_001_100","Now you're sounding more like yourself! You did so love mingling with your sheepies, after all. Snuggling up in a sea of fluffy wool and happy bleating...although I doubt they'd let you snuggle looking like <hex:021A020203>that<hex:021A020103>."
+147,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_001_101","Snuggling... Yes, I must have done, seeing as it was so...cold outside?"
+148,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_001_102","That's right. You wouldn't know it from this blossoming meadow, but these parts used to be far too cold for flowers. We <hex:021A020203>are<hex:021A020103> in the mountains, after all."
+149,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_001_103","I must have warded off the chill somehow─<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, could you bring me something I might have used to that end? Anything you can manage."
+150,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_EOTYR_002_100","Speaking of eating things both lovely and loathsome─have you remembered that you used to eat sheep, Anden?"
+151,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_002_101","What!? I-I had no idea my obsession with sheep extended so far as to...<hex:021A020203>consume<hex:021A020103> them."
+152,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_002_102","But all things considered, I suppose that makes a certain degree of sense. ...It might also explain why I suddenly find myself craving roasted meat. Hmm."
+153,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_002_103","Regardless, while diet is irrelevant to a leafman, I must have put consideration into my meals as a person. Any guess as to what I might have eaten?"
+154,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_EOTYR_003_100","Looking at Little Anden reminds me of how True Anden was once so enraptured by dwarven beards. Do all fluffy things fascinate you, Anden?"
+155,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_003_101","Oooh, the beards! Yes, for the longest time, I assumed they were naturally grown from the chin, so I was surprised to discover that they actually attach at the helm."
+156,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_003_102","As an amateur artisan myself, I cannot help but admire such unique dwarven handicrafts."
+157,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_003_103","...Hm? Why did I say that? <hex:021A020203>Was<hex:021A020103> I an artisan? I do remember sitting before the hearth on snowy days and making...<hex:021A020203>something<hex:021A020103>. Handicrafts of some sort? Does that sound probable to you, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>?"
+158,"TEXT_CTSSFSCHARACTER9_00815_RANKUPINFO_000_000","Anden is pleased with your efforts. He now considers you a <hex:024804F201F403><hex:024904F201F503>Probably Proper Person<hex:0249020103><hex:0248020103>!"
+159,"TEXT_CTSSFSCHARACTER9_00815_RANKUPINFO_000_001","Anden is delighted with your efforts. He now considers you a <hex:024804F201F403><hex:024904F201F503>Tentatively True <hex:02081BE905FF0C>Tradeswoman<hex:FF0A>Tradesman<hex:03><hex:0249020103><hex:0248020103>!"
+160,"TEXT_CTSSFSCHARACTER9_00815_RANKUPINFO_000_002","Anden is overjoyed with your efforts. He now considers you a <hex:024804F201F403><hex:024904F201F503>Just and Generous Journeyer<hex:0249020103><hex:0248020103>!"
+161,"TEXT_CTSSFSCHARACTER9_00815_RANKUPINFO_000_003","Anden could not be happier with your efforts. He now considers you a <hex:024804F201F403><hex:024904F201F503>Familiar Friend-like Face<hex:0249020103><hex:0248020103>!"
+162,"TEXT_CTSSFSCHARACTER9_00815_RANKUPINFO_001_001","And yet there is still much work to be done if he is to regain both his memories and true form. To that end, Anden has a new favor to ask of you..."
+163,"TEXT_CTSSFSCHARACTER9_00815_RANKUPINFO_001_002","Through your efforts, Anden has remembered much and more about his former life. It seems, however, that he has a different sort of question to ask you..."
+164,"TEXT_CTSSFSCHARACTER9_00815_AFTRANKUP_000_001","The Custom Deliveries list for Anden has been updated. To view the new list, speak with Anden and select <hex:024804F201F403><hex:024904F201F503>Make a delivery<hex:0249020103><hex:0248020103>."
+165,"TEXT_CTSSFSCHARACTER9_00815_AFTRANKUP_001_001","A new quest continuing the story of Anden's efforts to regain his true form is now available. Upon its completion, the Custom Deliveries list for Anden will be updated."
+166,"TEXT_CTSSFSCHARACTER9_00815_AFTRANKUP_002_001",""
+167,"TEXT_CTSSFSCHARACTER9_00815_AFTRANKUP_002_002",""
+168,"TEXT_CTSSFSCHARACTER9_00815_AFTRANKUP_002_003",""
+169,"TEXT_CTSSFSCHARACTER9_00815_AFTRANKUP_002_004",""
+170,"TEXT_CTSSFSCHARACTER9_00815_RANKUP_ANDEN_001_000","Thank you for bringing me so many nice things, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>."
+171,"TEXT_CTSSFSCHARACTER9_00815_RANKUP_ANDEN_001_001","It's always so good to chat with another person. These pixies certainly make their own fun, but their games can get rather exhausting at times..."
+172,"TEXT_CTSSFSCHARACTER9_00815_RANKUP_ANDEN_002_000","I truly appreciate your efforts, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Thank you for bringing me so many helpful reminders."
+173,"TEXT_CTSSFSCHARACTER9_00815_RANKUP_ANDEN_002_001","I haven't much to offer in the way of recompense, but please feel free to snuggle a sheep or two before you go. It will both soothe and invigorate you like little else!"
+174,"TEXT_CTSSFSCHARACTER9_00815_RANKUP_ANDEN_003_000","These exchanges of ours rather remind me of doing business in the castle town."
+175,"TEXT_CTSSFSCHARACTER9_00815_RANKUP_ANDEN_003_001","Having spent most of my time either alone or with sheep, driving a hard bargain was never a skill I kept well honed. Oooh, those merchants used to haggle so ruthlessly! I never could get the deal I wanted..."
+176,"TEXT_CTSSFSCHARACTER9_00815_RANKUP_ANDEN_003_002","In that sense, handling Eo Tyr and the others feels far simpler than talking down a merchant thirsty for coin. ...I'm no longer fit for normal society, am I?"
+177,"TEXT_CTSSFSCHARACTER9_00815_RANKUP_ANDEN_004_000","Oooh, I can't bear it anymore. <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! These scrips we keep giving you─do you know where they come from? You <hex:021A020203>want<hex:021A020103> to know, don't you? Of course you do!"
+178,"TEXT_CTSSFSCHARACTER9_00815_RANKUP_ANDEN_004_001","<hex:021A020203>I<hex:021A020103> certainly was curious, so I asked Lor Ul─and they said these scrips were “liberated” from mortals who wandered into Il Mheg. Liberated! What sort of neighborhood is this!?"
+179,"TEXT_CTSSFSCHARACTER9_00815_RANKUP_ANDEN_004_002","I've been positively sick with guilt, watching you accept your recompense with such innocent joy, unaware that it's all been nothing but contraband. Forgive me, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>... Now you share my pain!"
+180,"TEXT_CTSSFSCHARACTER9_00815_RANKUP_ANDEN_005_000","Might I ask for some advice, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>? Recently, Eo Tyr has been absolutely adamant that I become their sapling... As someone who took the leap, what do you think?"
+181,"TEXT_CTSSFSCHARACTER9_00815_RANKUP_EOTYR_005_001","Pity me, royal sapling! I've been offering─offering ever so kindly, without any sort of trickery!─to forge the pact, but cruel, Mean Anden has been so frigid! So cold!"
+182,"TEXT_CTSSFSCHARACTER9_00815_RANKUP_EOTYR_005_002","Oooh, I won't let him get snatched up by anyone else. He's <hex:021A020203>My<hex:021A020103> Anden, and so he shall be from now till forever!"
+183,"TEXT_CTSSFSCHARACTER9_00815_RANKUP_ANDEN_006_000","Whenever you come to visit me, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, I can't help but think of Ardbert."
+184,"TEXT_CTSSFSCHARACTER9_00815_RANKUP_ANDEN_006_001","It was winter's end, the snow melting in the valley... “Back to our journey,” said he. “But sooner than you think, we'll meet again.” ...And that was the last I saw of him!"
+185,"TEXT_CTSSFSCHARACTER9_00815_RANKUP_ANDEN_006_002","As far as I'm concerned, the only real villainy he's guilty of is keeping me waiting here so long! No matter what the rumors claimed, I always hoped to see them all crossing the valley again someday, hale and whole. Laughing together, as once we did..."
+186,"TEXT_CTSSFSCHARACTER9_00815_RANKUP_ANDEN_006_003","Oooh, you didn't come to hear my sorrowful musings! Still, whenever I look at you, I feel as though something of Ardbert is there in your eyes... Heh, what a silly thing to say. My apologies."
+187,"TEXT_CTSSFSCHARACTER9_00815_RANKUP_ANDEN_006_004","Promise me something, though, won't you? Go and visit your old friends from time to time. They miss you more than you could ever imagine."
+188,"TEXT_CTSSFSCHARACTER9_00815_AFTWEEKLY_000_000","You have delivered the weekly maximum of six items to Anden. You may begin making deliveries again starting <hex:020603120303><hex:020942DDFF07>Sunday<hex:FF07>Monday<hex:FF08>Tuesday<hex:FF0A>Wednesday<hex:FF09>Thursday<hex:FF07>Friday<hex:FF09>Saturday<hex:03> at <hex:020821DBFF1D><hex:020919DB02030405060708090A0B0C0D02030405060708090A0B0C03><hex:0D03> <hex:020810E0DB0DFF05>p.m.<hex:FF05>a.m.<hex:03> (Earth time)."
+189,"TEXT_CTSSFSCHARACTER9_00815_ANDEN_000_000","What is this feeling? Not sudden, per se...but new... Hmm..."
+190,"TEXT_CTSSFSCHARACTER9_00815_QUEST_SYSTEM_000_002","In order to undertake the next quest, speak with Anden as a Disciple of the Hand or the Land."

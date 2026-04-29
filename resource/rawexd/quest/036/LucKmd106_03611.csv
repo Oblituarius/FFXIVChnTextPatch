@@ -2,129 +2,129 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_LUCKMD106_03611_SEQ_00,迦利克村的稚恩真很在意情況。
-1,TEXT_LUCKMD106_03611_SEQ_01,
-2,TEXT_LUCKMD106_03611_SEQ_02,
-3,TEXT_LUCKMD106_03611_SEQ_03,
-4,TEXT_LUCKMD106_03611_SEQ_04,
-5,TEXT_LUCKMD106_03611_SEQ_05,
-6,TEXT_LUCKMD106_03611_SEQ_06,
-7,TEXT_LUCKMD106_03611_SEQ_07,
-8,TEXT_LUCKMD106_03611_SEQ_08,
-9,TEXT_LUCKMD106_03611_SEQ_09,
-10,TEXT_LUCKMD106_03611_SEQ_10,
-11,TEXT_LUCKMD106_03611_SEQ_11,
-12,TEXT_LUCKMD106_03611_SEQ_12,
-13,TEXT_LUCKMD106_03611_SEQ_13,
-14,TEXT_LUCKMD106_03611_SEQ_14,
-15,TEXT_LUCKMD106_03611_SEQ_15,
-16,TEXT_LUCKMD106_03611_SEQ_16,
-17,TEXT_LUCKMD106_03611_SEQ_17,
-18,TEXT_LUCKMD106_03611_SEQ_18,
-19,TEXT_LUCKMD106_03611_SEQ_19,
-20,TEXT_LUCKMD106_03611_SEQ_20,
-21,TEXT_LUCKMD106_03611_SEQ_21,
-22,TEXT_LUCKMD106_03611_SEQ_22,
-23,TEXT_LUCKMD106_03611_SEQ_23,
-24,TEXT_LUCKMD106_03611_TODO_00,和桑克瑞德對話
-25,TEXT_LUCKMD106_03611_TODO_01,再次和桑克瑞德對話
-26,TEXT_LUCKMD106_03611_TODO_02,在比朗大礦山收集情報
-27,TEXT_LUCKMD106_03611_TODO_03,和於里昂熱對話
-28,TEXT_LUCKMD106_03611_TODO_04,尋找舉止可疑的青年<hex:02100103>對方發起攻擊的話就將其擊退
-29,TEXT_LUCKMD106_03611_TODO_05,和桑克瑞德對話
-30,TEXT_LUCKMD106_03611_TODO_06,
-31,TEXT_LUCKMD106_03611_TODO_07,
-32,TEXT_LUCKMD106_03611_TODO_08,
-33,TEXT_LUCKMD106_03611_TODO_09,
-34,TEXT_LUCKMD106_03611_TODO_10,
-35,TEXT_LUCKMD106_03611_TODO_11,
-36,TEXT_LUCKMD106_03611_TODO_12,
-37,TEXT_LUCKMD106_03611_TODO_13,
-38,TEXT_LUCKMD106_03611_TODO_14,
-39,TEXT_LUCKMD106_03611_TODO_15,
-40,TEXT_LUCKMD106_03611_TODO_16,
-41,TEXT_LUCKMD106_03611_TODO_17,
-42,TEXT_LUCKMD106_03611_TODO_18,
-43,TEXT_LUCKMD106_03611_TODO_19,
-44,TEXT_LUCKMD106_03611_TODO_20,
-45,TEXT_LUCKMD106_03611_TODO_21,
-46,TEXT_LUCKMD106_03611_TODO_22,
-47,TEXT_LUCKMD106_03611_TODO_23,
-48,TEXT_LUCKMD106_03611_THANCRED_000_000,重新問一下稚恩真<hex:02100103>關於礦車和鐵軌的事情吧。
-49,TEXT_LUCKMD106_03611_RYNE_000_005,有打聽到什麼有用的消息嗎？
-50,TEXT_LUCKMD106_03611_URIANGER_000_010,哦，看來找到了解決方法啊。
-51,TEXT_LUCKMD106_03611_ZHUNZUN_000_020,如何？<hex:02100103>感覺能去拿巴示艾蘭了嗎？
-52,TEXT_LUCKMD106_03611_THANCRED_000_021,關於這件事……<hex:02100103>礦車鐵軌好像可以通往拿巴示艾蘭，<hex:02100103>我們考慮從那裡過去。
-53,TEXT_LUCKMD106_03611_THANCRED_000_022,只是你一開始沒跟我們說這條路線，<hex:02100103>我想知道是有什麼理由嗎？
-54,TEXT_LUCKMD106_03611_ZHUNZUN_000_023,嗯……是啊……<hex:02100103>利用鐵軌的話會在途中碰到機關門……<hex:02100103>我只是覺得很難打開它所以就沒說。
-55,TEXT_LUCKMD106_03611_ZHUNZUN_000_024,那個門應該是通過識別、<hex:02100103>作為礦車動力源的石人偶——塔羅斯來開啟的。
-56,TEXT_LUCKMD106_03611_ZHUNZUN_000_025,然而礦車已經很久沒有使用了、<hex:02100103>我都沒見過帶動礦車的塔羅斯動起來過。
-57,TEXT_LUCKMD106_03611_ZHUNZUN_000_026,你們還是去找知道詳情的人問問吧！<hex:02100103>從這裡向東走可以到比朗大礦山的山腳、<hex:02100103>那裡有個很大的礦車調車場。
-58,TEXT_LUCKMD106_03611_ZHUNZUN_000_027,有時候能看到那裡有人出入……<hex:02100103>去那裡說不定能找到了解情況的人！
-59,TEXT_LUCKMD106_03611_RYNE_000_028,東邊的比朗大礦山啊……<hex:02100103>謝謝你告訴我們這麼多。
-60,TEXT_LUCKMD106_03611_THANCRED_000_029,那我們就過去看看吧。
-61,TEXT_LUCKMD106_03611_RYNE_000_040,……
-62,TEXT_LUCKMD106_03611_RYNE_000_041,啊……抱歉，走吧。
-63,TEXT_LUCKMD106_03611_URIANGER_000_045,這片荒野會讓人覺得如此冷清，<hex:02100103>究竟是因為天空中滿是停滯之光……還是……
-64,TEXT_LUCKMD106_03611_ZHUNZUN_000_050,在村子東面！<hex:02100103>那一片有很多野獸、要小心啊！
-65,TEXT_LUCKMD106_03611_THANCRED_000_060,遠處有很像鐵軌的高架橋……<hex:02100103>朝著那個方嚮應該不會有錯的。<hex:02100103>……走吧。
-66,TEXT_LUCKMD106_03611_RYNE_000_070,好大的操作桿！<hex:02100103>這個要怎麼才能拉動啊？
-67,TEXT_LUCKMD106_03611_URIANGER_000_075,這個是……
-68,TEXT_LUCKMD106_03611_THANCRED_000_080,這裡應該就是比朗大礦山了。<hex:02100103>如稚恩真所言，這裡有一個大型調車場。
-69,TEXT_LUCKMD106_03611_THANCRED_000_081,……然而已經荒廢了。<hex:02100103>就算想打聽也不見人影，<hex:02100103>只能先找找看有沒有什麼線索了……
-70,TEXT_LUCKMD106_03611_THANCRED_000_082,於里昂熱先去裡面了，<hex:02100103>等你轉過一圈之後在那邊匯合吧。
-71,TEXT_LUCKMD106_03611_THANCRED_000_090,稚恩真說這裡偶爾會有人出入，<hex:02100103>所以我們來找找有沒有什麼蹤跡吧。
-72,TEXT_LUCKMD106_03611_SYSTEM_000_100,應該是礦車使用的鐵軌，<hex:02100103>雖然鏽跡斑斑但依舊十分穩固。
-73,TEXT_LUCKMD106_03611_SYSTEM_000_101,礦車的車廂。<hex:02100103>儘管十分陳舊但似乎有人打理。<hex:02100103>上面還有座位，是客車嗎？
-74,TEXT_LUCKMD106_03611_SYSTEM_000_102,一杯沒喝完的紅茶。<hex:02100103>還有點餘溫，倒進杯子應該沒過多久。
-75,TEXT_LUCKMD106_03611_URIANGER_000_110,<hex:022903EB0203>……<hex:02100103>有沒有發現什麼？
-76,TEXT_LUCKMD106_03611_URIANGER_000_111,……原來如此。<hex:02100103>真不愧是嫻熟的冒險者，觀察能力一流。
-77,TEXT_LUCKMD106_03611_URIANGER_000_112,其實，我也發現了一些細微的痕跡，<hex:02100103>等大家都到齊之後就來找出真相吧……
-78,TEXT_LUCKMD106_03611_THANCRED_000_113,也就是說礦車的鐵軌和車體都有人打理，<hex:02100103>屋子裡看上去就像是剛才還有人在，<hex:02100103>還留下了一杯沒喝完的紅茶……
-79,TEXT_LUCKMD106_03611_RYNE_000_114,我看了一下軌道旁邊的設備，看上去也有人維護，<hex:02100103>不過那個操作桿實在是太大了，<hex:02100103>怎麼看都不像人能拉得動的。
-80,TEXT_LUCKMD106_03611_URIANGER_000_115,啊，關於那個……<hex:02100103>拉動操縱桿的應該是這邊的石人偶。
-81,TEXT_LUCKMD106_03611_URIANGER_000_116,在諾弗蘭特人們把它叫做塔羅斯……<hex:02100103>我說它就是一種巨像兵，<hex:02100103>這樣你們比較好懂一點吧。
-82,TEXT_LUCKMD106_03611_URIANGER_000_117,從這裡塔羅斯的殘骸數量和調車場的構造來看，<hex:02100103>這些塔羅斯似乎不只用來驅動礦車，<hex:02100103>還被當成泛用勞動力。
-83,TEXT_LUCKMD106_03611_URIANGER_000_118,問題在於這裡的塔羅斯，<hex:02100103>全部都被過度使用，導致嚴重老化。
-84,TEXT_LUCKMD106_03611_URIANGER_000_119,這樣別說是讓礦車動起來了，<hex:02100103>恐怕連站起來都難……
-85,TEXT_LUCKMD106_03611_THANCRED_000_120,嗯，總結一下就是<hex:02100103>驅動礦車的塔羅斯雖然壞了，<hex:02100103>但車體和鐵軌依然有人維護……
-86,TEXT_LUCKMD106_03611_THANCRED_000_121,其實，從剛才開始就有人躲在暗處戒備著我們，<hex:02100103>多半一直在進行維護的就是這些人了。
-87,TEXT_LUCKMD106_03611_THANCRED_000_122,<hex:022903EB0203>……<hex:02100103>你去西邊小屋的後面看一下，<hex:02100103>那裡應該有1個人……
-88,TEXT_LUCKMD106_03611_THANCRED_000_123,剩下的在南邊，<hex:02100103>交給我們就好……
-89,TEXT_LUCKMD106_03611_THANCRED_000_124,看他們的樣子估計是不會戰鬥的外行，<hex:02100103>但也防不住他們突然偷襲……<hex:02100103>要是他們出手了，就適當地抵擋一下吧。
-90,TEXT_LUCKMD106_03611_THANCRED_000_125,那就……上吧！
-91,TEXT_LUCKMD106_03611_UNSUREMAN03611_000_130,誒？！<hex:02100103>你怎麼知道我在這？！
-92,TEXT_LUCKMD106_03611_UNSUREMAN03611_000_131,可、可惡！<hex:02100103>怎麼能讓你們這些小偷搞亂我們的調車場！
-93,TEXT_LUCKMD106_03611_BALLOON_000_132,不、我不打了……
-94,TEXT_LUCKMD106_03611_RYNE_000_140,你那邊沒問題了嗎？
-95,TEXT_LUCKMD106_03611_URIANGER_000_145,我們發現了這兩位青年，<hex:02100103>然後……桑克瑞德就一拳……過去。
-96,TEXT_LUCKMD106_03611_THAFFE_000_150,可惡……你們這些小偷！
-97,TEXT_LUCKMD106_03611_JERYK_000_155,頭……頭好暈……
-98,TEXT_LUCKMD106_03611_THANCRED_000_160,哦，你那邊也搞定了啊。<hex:02100103>這邊就……如你所見。
-99,TEXT_LUCKMD106_03611_THANCRED_000_161,果然跑來襲擊我們了，<hex:02100103>總之我就先給了他們一拳……
-100,TEXT_LUCKMD106_03611_THAFFE_000_162,可惡……你們到底想要什麼！<hex:02100103>來偷這裡的材料嗎？！<hex:02100103>還是說要在這裡做什麼見不得人的交易！
-101,TEXT_LUCKMD106_03611_THANCRED_000_163,你誤會了……<hex:02100103>我們到底哪裡看上去像小偷了。
-102,TEXT_LUCKMD106_03611_THAFFE_000_164,誒，不是嗎？<hex:02100103>但……
-103,TEXT_LUCKMD106_03611_THAFFE_000_165,……果然還是很可疑啊。<hex:02100103>看上去也不像商人，<hex:02100103>旅行者的話這裡也沒什麼值得看的風景。
-104,TEXT_LUCKMD106_03611_JERYK_000_166,薩夫，我不是說了嗎……<hex:02100103>肯定是那個啦……
-105,TEXT_LUCKMD106_03611_JERYK_000_167,「不知道哪裡的高貴大小姐為了尋找失蹤的戀人，<hex:02100103>帶著兩個專業保鏢和技術高超的魔法師<hex:02100103>偷偷地跑到了這裡來」的那個推測！
-106,TEXT_LUCKMD106_03611_JERYK_000_168,……對吧？！
-107,TEXT_LUCKMD106_03611_THANCRED_000_169,不對……<hex:02100103>我們是保鏢這一點你猜的不算對但也差不多。<hex:02100103>不過這邊的小姑娘可不是什麼大小姐，也沒在尋找失蹤的戀人。
-108,TEXT_LUCKMD106_03611_URIANGER_000_170,……可我確實是技術高超的魔法師啊？
-109,TEXT_LUCKMD106_03611_THANCRED_000_171,是是，你是，求你先別添亂了。
-110,TEXT_LUCKMD106_03611_RYNE_000_172,那個，我們是想要去廢都拿巴示艾蘭！<hex:02100103>聽說如果利用礦車和鐵軌的話可以過去，<hex:02100103>所以才來到了這裡。
-111,TEXT_LUCKMD106_03611_RYNE_000_173,要是你們知道怎麼開動礦車的話，<hex:02100103>能不能幫幫我們！
-112,TEXT_LUCKMD106_03611_JERYK_000_174,開動？
-113,TEXT_LUCKMD106_03611_THAFFE_000_175,礦車？
-114,TEXT_LUCKMD106_03611_JERYK_000_176,什麼嘛，要是這事的話就早點說嘛。<hex:02100103>嗯嗯……礦車很好吧，超棒的！
-115,TEXT_LUCKMD106_03611_JERYK_000_177,(-傑瑞克-)我是礦車實習技師傑瑞克，<hex:02100103>也在這附近的村子裡做修理工。
-116,TEXT_LUCKMD106_03611_THAFFE_000_178,(-薩夫-)我也是礦車實習技師，我叫薩夫。<hex:02100103>不過為了賺錢吃飯，<hex:02100103>採礦現在更像是我的主業……
-117,TEXT_LUCKMD106_03611_JERYK_000_179,(-傑瑞克-)我們兩個和其他幾個同伴，<hex:02100103>正在努力讓琥珀丘的礦車恢復運行。
-118,TEXT_LUCKMD106_03611_JERYK_000_180,(-傑瑞克-)說是恢復運行，也沒啥可運的就是了……<hex:02100103>不過這是我們的夢想啦。<hex:02100103>只要礦車能跑起來我就非常滿足了！
-119,TEXT_LUCKMD106_03611_THANCRED_000_181,嘿，這還真是車到山前必有路啊。<hex:02100103>……結果如何？<hex:02100103>成功讓礦車跑起來了嗎？
-120,TEXT_LUCKMD106_03611_JERYK_000_182,(-傑瑞克-)嗯……這個嘛……還是有點難……呢。
-121,TEXT_LUCKMD106_03611_RYNE_000_183,要是差人手或者缺材料的話我們也來幫忙，<hex:02100103>這樣也不行嗎？
-122,TEXT_LUCKMD106_03611_THAFFE_000_184,(-薩夫-)……其實是有點比較複雜的內情啦。<hex:02100103>非要說到底什麼情況的話，<hex:02100103>還是直接去見見我們的老大會比較好懂。
-123,TEXT_LUCKMD106_03611_THAFFE_000_185,(-薩夫-)願意去的話我給你們帶路……來嗎？
-124,TEXT_LUCKMD106_03611_THANCRED_000_186,行，就接受你的提議，<hex:02100103>帶我們去見你們的老大吧。
-125,TEXT_LUCKMD106_03611_THAFFE_000_187,(-薩夫-)好，那就招待你們去我們的村子……<hex:02100103>絡尾聚落！
+0,"TEXT_LUCKMD106_03611_SEQ_00","Zhun Zun is eyeing you with curiosity."
+1,"TEXT_LUCKMD106_03611_SEQ_01",""
+2,"TEXT_LUCKMD106_03611_SEQ_02",""
+3,"TEXT_LUCKMD106_03611_SEQ_03",""
+4,"TEXT_LUCKMD106_03611_SEQ_04",""
+5,"TEXT_LUCKMD106_03611_SEQ_05",""
+6,"TEXT_LUCKMD106_03611_SEQ_06",""
+7,"TEXT_LUCKMD106_03611_SEQ_07",""
+8,"TEXT_LUCKMD106_03611_SEQ_08",""
+9,"TEXT_LUCKMD106_03611_SEQ_09",""
+10,"TEXT_LUCKMD106_03611_SEQ_10",""
+11,"TEXT_LUCKMD106_03611_SEQ_11",""
+12,"TEXT_LUCKMD106_03611_SEQ_12",""
+13,"TEXT_LUCKMD106_03611_SEQ_13",""
+14,"TEXT_LUCKMD106_03611_SEQ_14",""
+15,"TEXT_LUCKMD106_03611_SEQ_15",""
+16,"TEXT_LUCKMD106_03611_SEQ_16",""
+17,"TEXT_LUCKMD106_03611_SEQ_17",""
+18,"TEXT_LUCKMD106_03611_SEQ_18",""
+19,"TEXT_LUCKMD106_03611_SEQ_19",""
+20,"TEXT_LUCKMD106_03611_SEQ_20",""
+21,"TEXT_LUCKMD106_03611_SEQ_21",""
+22,"TEXT_LUCKMD106_03611_SEQ_22",""
+23,"TEXT_LUCKMD106_03611_SEQ_23",""
+24,"TEXT_LUCKMD106_03611_TODO_00","Speak with Thancred."
+25,"TEXT_LUCKMD106_03611_TODO_01","Speak with Thancred again."
+26,"TEXT_LUCKMD106_03611_TODO_02","Investigate the area."
+27,"TEXT_LUCKMD106_03611_TODO_03","Speak with Urianger."
+28,"TEXT_LUCKMD106_03611_TODO_04","Confront the suspicious man."
+29,"TEXT_LUCKMD106_03611_TODO_05","Speak with Thancred."
+30,"TEXT_LUCKMD106_03611_TODO_06",""
+31,"TEXT_LUCKMD106_03611_TODO_07",""
+32,"TEXT_LUCKMD106_03611_TODO_08",""
+33,"TEXT_LUCKMD106_03611_TODO_09",""
+34,"TEXT_LUCKMD106_03611_TODO_10",""
+35,"TEXT_LUCKMD106_03611_TODO_11",""
+36,"TEXT_LUCKMD106_03611_TODO_12",""
+37,"TEXT_LUCKMD106_03611_TODO_13",""
+38,"TEXT_LUCKMD106_03611_TODO_14",""
+39,"TEXT_LUCKMD106_03611_TODO_15",""
+40,"TEXT_LUCKMD106_03611_TODO_16",""
+41,"TEXT_LUCKMD106_03611_TODO_17",""
+42,"TEXT_LUCKMD106_03611_TODO_18",""
+43,"TEXT_LUCKMD106_03611_TODO_19",""
+44,"TEXT_LUCKMD106_03611_TODO_20",""
+45,"TEXT_LUCKMD106_03611_TODO_21",""
+46,"TEXT_LUCKMD106_03611_TODO_22",""
+47,"TEXT_LUCKMD106_03611_TODO_23",""
+48,"TEXT_LUCKMD106_03611_THANCRED_000_000","Though Zhun Zun didn't mention the trolley before, he's like as not at least heard of the thing. If we remind him, he may recall something of use."
+49,"TEXT_LUCKMD106_03611_RYNE_000_005","I hope you've had more luck than I..."
+50,"TEXT_LUCKMD106_03611_URIANGER_000_010","Shall I take the glimmer in thine eye to mean that thou hast struck upon a promising lead?"
+51,"TEXT_LUCKMD106_03611_ZHUNZUN_000_020","Oh, valued customers! Were the other Mord of help?"
+52,"TEXT_LUCKMD106_03611_THANCRED_000_021","Of a fashion. They told us of a trolley that runs to Nabaath Areng, at least..."
+53,"TEXT_LUCKMD106_03611_THANCRED_000_022","But am I correct in thinking that there was a reason you did not do so yourself, when first we asked?"
+54,"TEXT_LUCKMD106_03611_ZHUNZUN_000_023","Mm, yes... The gate, you see. It is impassable."
+55,"TEXT_LUCKMD106_03611_ZHUNZUN_000_024","Before, there was a hulking thing of stone─the Talos. It opened the gate, they say."
+56,"TEXT_LUCKMD106_03611_ZHUNZUN_000_025","But none operate such a thing now. I do not even know if it yet exists."
+57,"TEXT_LUCKMD106_03611_ZHUNZUN_000_026","I do not know, but... You should travel east to Mount Biran Mines! That is where the trolley controls stand."
+58,"TEXT_LUCKMD106_03611_ZHUNZUN_000_027","I still see miners there from time to time. If anyone knows what happened to the Talos..."
+59,"TEXT_LUCKMD106_03611_RYNE_000_028","...It would be them! Thank you, you've been a great help!"
+60,"TEXT_LUCKMD106_03611_THANCRED_000_029","We're off to Mount Biran, then. Let's hope that someone will be there to answer our questions."
+61,"TEXT_LUCKMD106_03611_RYNE_000_040","What a sight..."
+62,"TEXT_LUCKMD106_03611_RYNE_000_041","Oh, pardon me! It's only... It's a bit daunting, isn't it?"
+63,"TEXT_LUCKMD106_03611_URIANGER_000_045","Mayhap the pall of light is the root of this land's desolation. Or mayhap the fault lies with man and his insatiable greed..."
+64,"TEXT_LUCKMD106_03611_ZHUNZUN_000_050","Watch for beasts in the Hills! I do not like to lose customers."
+65,"TEXT_LUCKMD106_03611_THANCRED_000_060","The scale of the track is impressive, I'll give them that. Now we only need follow it until we come to the mines."
+66,"TEXT_LUCKMD106_03611_RYNE_000_070","This lever can't have been designed for a person to operate..."
+67,"TEXT_LUCKMD106_03611_URIANGER_000_075","...But by what means did they harness the necessary aether?"
+68,"TEXT_LUCKMD106_03611_THANCRED_000_080","Bit of a mess, isn't it? But the mechanisms for dispatching the trolley are here, just as Zhun Zun said."
+69,"TEXT_LUCKMD106_03611_THANCRED_000_081","Unfortunately, anyone who might know how to use them is not. We might wait for Zhun Zun's mysterious miners to appear, or have a look around and see if we can deduce anything useful in their absence. I'm in favor of the latter."
+70,"TEXT_LUCKMD106_03611_THANCRED_000_082","Something near the entrance to the mines proper caught Urianger's eye. Meet us there if you find anything."
+71,"TEXT_LUCKMD106_03611_THANCRED_000_090","As much as I wish we could count on someone conveniently appearing to explain all of this to us, I'm sure you're aware that we don't have the time to waste."
+72,"TEXT_LUCKMD106_03611_SYSTEM_000_100","Flecks of rust adorn the rails, but they nevertheless appear sturdy enough to bear the trolley without issue."
+73,"TEXT_LUCKMD106_03611_SYSTEM_000_101","The benches within suggest that this must have been a passenger car. Oddly enough, though it is clearly old, it appears to be well maintained."
+74,"TEXT_LUCKMD106_03611_SYSTEM_000_102","The cup is slightly warm, and a fair amount of tea─steeped overlong, if the color is any indication─remains within."
+75,"TEXT_LUCKMD106_03611_URIANGER_000_110","Ah, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. What hast thou discerned?"
+76,"TEXT_LUCKMD106_03611_URIANGER_000_111","I see... Indeed, thine observations are consistent with mine own."
+77,"TEXT_LUCKMD106_03611_URIANGER_000_112","But let us refrain from further discussion ere our comrades arrive..."
+78,"TEXT_LUCKMD106_03611_THANCRED_000_113","Ample evidence of recent maintenance, and lukewarm tea besides..."
+79,"TEXT_LUCKMD106_03611_RYNE_000_114","The levers for switching tracks looked like they were in good condition, though I couldn't move them myself. No ordinary person could, I think..."
+80,"TEXT_LUCKMD106_03611_URIANGER_000_115","It is my belief that no <hex:021A020203>person<hex:021A020103> is meant to."
+81,"TEXT_LUCKMD106_03611_URIANGER_000_116","This “Talos” beareth more than a passing resemblance to golems of the Source..."
+82,"TEXT_LUCKMD106_03611_URIANGER_000_117","Nor doth it appear to be the sole example of its kind. The proliferation of Talos fragments, as well as the enormity of the mechanisms here, suggest a considerable number were once in operation."
+83,"TEXT_LUCKMD106_03611_URIANGER_000_118","Alas, this specimen and its fellows now lie lifeless and broken, and I know not how to repair them that they might facilitate our passage through the gate."
+84,"TEXT_LUCKMD106_03611_URIANGER_000_119","And without the aid of the Talos, even if thou wert somehow able to unbar the trolley's path, we would still have no means of propelling it."
+85,"TEXT_LUCKMD106_03611_THANCRED_000_120","We might not know how to repair the Talos, but <hex:021A020203>someone<hex:021A020103> must. Otherwise, why keep everything else in working order? Whoever is maintaining the cars and rails must know something that we don't."
+86,"TEXT_LUCKMD106_03611_THANCRED_000_121","Let's ask them what it is, shall we?"
+87,"TEXT_LUCKMD106_03611_THANCRED_000_122","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, I do believe you'll find a person of some interest skulking in the shadows behind the warehouses on the northwestern side of the tracks."
+88,"TEXT_LUCKMD106_03611_THANCRED_000_123","While you two have a friendly chat, the rest of us will gently encourage those to the south to come out of hiding."
+89,"TEXT_LUCKMD106_03611_THANCRED_000_124","Defend yourselves as necessary, of course, but do try to keep everyone in one piece."
+90,"TEXT_LUCKMD106_03611_THANCRED_000_125","Off we go, then!"
+91,"TEXT_LUCKMD106_03611_UNSUREMAN03611_000_130","Wicked white! Where did you come from?"
+92,"TEXT_LUCKMD106_03611_UNSUREMAN03611_000_131","No, never mind that─you have no business here, of that I'm sure!"
+93,"TEXT_LUCKMD106_03611_BALLOON_000_132","<huff> What <hex:021A020203>are<hex:021A020103> you? Urgh..."
+94,"TEXT_LUCKMD106_03611_RYNE_000_140","I feel a bit bad for them..."
+95,"TEXT_LUCKMD106_03611_URIANGER_000_145","They elected to take up arms against us, though the outcome was plain from the first."
+96,"TEXT_LUCKMD106_03611_THAFFE_000_150","We... We won't let you...<wheeze>"
+97,"TEXT_LUCKMD106_03611_JERYK_000_155","That smarts..."
+98,"TEXT_LUCKMD106_03611_THANCRED_000_160","Good to hear."
+99,"TEXT_LUCKMD106_03611_THANCRED_000_161","These two weren't much trouble either. Let's see what they have to say for themselves."
+100,"TEXT_LUCKMD106_03611_THAFFE_000_162","Us? We're not the brigands come to...to take what isn't ours!"
+101,"TEXT_LUCKMD106_03611_THANCRED_000_163","Do we honestly look like we'd need to steal─what, some rusted bits of iron? Don't be absurd. We're not here to rob you."
+102,"TEXT_LUCKMD106_03611_THAFFE_000_164","A likely story. You look, well..."
+103,"TEXT_LUCKMD106_03611_THAFFE_000_165","You don't look <hex:021A020203>normal<hex:021A020103>, that's for certain. You don't have any wares, so you're clearly not merchants. Travelers never pass this way. The only reason you would come all the way out here is to strip the machinery for parts."
+104,"TEXT_LUCKMD106_03611_JERYK_000_166","Oh, Thaffe, I have an idea! What if, once upon a time..."
+105,"TEXT_LUCKMD106_03611_JERYK_000_167","A lovely lady of noble birth ventured forth in search of her lost love, joined by her two most loyal servants, sworn to follow her unto world's end. On their journey, they met a sorcerer, as ancient as time itself. Moved by the lady's devotion, he offered to be their guide, and they..."
+106,"TEXT_LUCKMD106_03611_JERYK_000_168","...turned up here, somehow!"
+107,"TEXT_LUCKMD106_03611_THANCRED_000_169","...I can only assume that you're being intentionally obtuse, but in the unlikely event that that's a serious conjecture─no. I suppose I am a bodyguard of a sort, but we have rather larger concerns than faerie tale romances."
+108,"TEXT_LUCKMD106_03611_URIANGER_000_170","Though I would fain hear more of this ageless sorcerer and his heroic deeds..."
+109,"TEXT_LUCKMD106_03611_THANCRED_000_171","Gods grant me strength..."
+110,"TEXT_LUCKMD106_03611_RYNE_000_172","Um, if I may─we're actually searching for a means by which to travel to Nabaath Areng. We were hoping that the trolley here might offer a solution."
+111,"TEXT_LUCKMD106_03611_RYNE_000_173","I realize that we haven't gotten off to the best of starts, but if you know anything about how we might get it working again..."
+112,"TEXT_LUCKMD106_03611_JERYK_000_174","The trolley?"
+113,"TEXT_LUCKMD106_03611_THAFFE_000_175","The trolley!"
+114,"TEXT_LUCKMD106_03611_JERYK_000_176","You should have led with that! We're always keen to discuss the trolley!"
+115,"TEXT_LUCKMD106_03611_JERYK_000_177","(-Jeryk-)We're both engineers-in-training, in fact. Jeryk and Thaffe, at your service."
+116,"TEXT_LUCKMD106_03611_THAFFE_000_178","(-Thaffe-)Technically, I'm a miner, and he does repair work. But our true passion is the trolley."
+117,"TEXT_LUCKMD106_03611_JERYK_000_179","(-Jeryk-)We're working with a few other folks to get it up and running again."
+118,"TEXT_LUCKMD106_03611_JERYK_000_180","(-Jeryk-)And before you ask─yes, it's true that there's little in need of transport these days. But that's no reason to consign a miracle of mechanical innovation to dust. The mere sight of it traveling the track once again would make hearts soar, mark my words!"
+119,"TEXT_LUCKMD106_03611_THANCRED_000_181","You'll hear no argument from us. What progress have you made thus far?"
+120,"TEXT_LUCKMD106_03611_JERYK_000_182","(-Jeryk-)Not as much as we'd like, truth be told."
+121,"TEXT_LUCKMD106_03611_RYNE_000_183","Well, is there anything we could do to assist you? We could gather materials, or help put pieces together..."
+122,"TEXT_LUCKMD106_03611_THAFFE_000_184","(-Thaffe-)It's a sight more complicated than that, I'm afraid. If you spoke with Magnus, you'd understand. He's the only one with full knowledge of the trolley's operation."
+123,"TEXT_LUCKMD106_03611_THAFFE_000_185","(-Thaffe-)I suppose you <hex:021A020203>could<hex:021A020103> speak with him, if you like. We'll introduce you."
+124,"TEXT_LUCKMD106_03611_THANCRED_000_186","Very well. Our options are limited, and if this Magnus can explain whatever is preventing the trolley from being restored, I'd like to hear it."
+125,"TEXT_LUCKMD106_03611_THAFFE_000_187","(-Thaffe-)Right. It looks like you'll be following us back to Twine, then!"

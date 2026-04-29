@@ -2,83 +2,83 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_FESNYR002_01293_SEQ_00,※本任務是特定期間內的任務。<hex:02100103><hex:02100103>格里達尼亞的金馬與力想要冒險者協助宣傳活動。
-1,TEXT_FESNYR002_01293_SEQ_01,※本任務只有在季節活動開放期間才能接受和進行。<hex:02100103>　季節活動結束後無法進行，敬請注意。<hex:02100103>　詳情請參見官方網站。<hex:02100103><hex:02100103>金馬與力想要宣傳馬的美。戴上<hex:02280BFF05>Item<hex:F21B340103>，前往中央林區的彎枝牧場，和他的部下金馬同心對話。
-2,TEXT_FESNYR002_01293_SEQ_02,要證明馬比陸行鳥美。繼續戴著<hex:02280BFF05>Item<hex:F21B340103>，在彎枝牧場的標記處做情感動作「擺造型」。
-3,TEXT_FESNYR002_01293_SEQ_03,冒險者擺了造型之後，陸行鳥一陣騷動。繼續戴著<hex:02280BFF05>Item<hex:F21B340103>，和彎枝牧場的鳥欄管理員對話。
-4,TEXT_FESNYR002_01293_SEQ_04,從鳥欄管理員口中獲得了「馬美」的證言。繼續戴著<hex:02280BFF05>Item<hex:F21B340103>，向彎枝牧場的金馬同心報告。
-5,TEXT_FESNYR002_01293_SEQ_05,金馬同心聽到陸行鳥害怕的事，說也要展現馬的心靈美。繼續戴著<hex:02280BFF05>Item<hex:F21B340103>，在彎枝牧場的標記處做情感動作「鼓勵」。
-6,TEXT_FESNYR002_01293_SEQ_06,冒險者做了「鼓勵」之後，陸行鳥很興奮。繼續戴著<hex:02280BFF05>Item<hex:F21B340103>，和彎枝牧場的金馬同心對話。
-7,TEXT_FESNYR002_01293_SEQ_07,金馬同心被冒險者扮馬的姿態感動了。將宣傳成功的證明<hex:022811FF0A>EventItem<hex:F61E88EB0103>交給格里達尼亞的金馬與力。
-8,TEXT_FESNYR002_01293_SEQ_08,金馬與力稱讚了冒險者的功績，贈予了<hex:02280BFF05>Item<hex:F21B360103>。宣傳過馬的美之後，格里達尼亞對馬的需求或許會增加。再去利姆薩·羅敏薩和烏爾達哈協助宣傳，向格里達尼亞的馬奉行報告成果。
-9,TEXT_FESNYR002_01293_SEQ_09,
-10,TEXT_FESNYR002_01293_SEQ_10,
-11,TEXT_FESNYR002_01293_SEQ_11,
-12,TEXT_FESNYR002_01293_SEQ_12,
-13,TEXT_FESNYR002_01293_SEQ_13,
-14,TEXT_FESNYR002_01293_SEQ_14,
-15,TEXT_FESNYR002_01293_SEQ_15,
-16,TEXT_FESNYR002_01293_SEQ_16,
-17,TEXT_FESNYR002_01293_SEQ_17,
-18,TEXT_FESNYR002_01293_SEQ_18,
-19,TEXT_FESNYR002_01293_SEQ_19,
-20,TEXT_FESNYR002_01293_SEQ_20,
-21,TEXT_FESNYR002_01293_SEQ_21,
-22,TEXT_FESNYR002_01293_SEQ_22,
-23,TEXT_FESNYR002_01293_SEQ_23,
-24,TEXT_FESNYR002_01293_TODO_00,戴著<hex:02280BFF05>Item<hex:F21B340103>和彎枝牧場的金馬同心對話
-25,TEXT_FESNYR002_01293_TODO_01,戴著<hex:02280BFF05>Item<hex:F21B340103>在標記處做「擺造型」的情感動作
-26,TEXT_FESNYR002_01293_TODO_02,戴著<hex:02280BFF05>Item<hex:F21B340103>和鳥欄管理員對話
-27,TEXT_FESNYR002_01293_TODO_03,戴著<hex:02280BFF05>Item<hex:F21B340103>和金馬同心對話
-28,TEXT_FESNYR002_01293_TODO_04,戴著<hex:02280BFF05>Item<hex:F21B340103>在標記處做「鼓勵」的情感動作
-29,TEXT_FESNYR002_01293_TODO_05,戴著<hex:02280BFF05>Item<hex:F21B340103>和金馬同心對話
-30,TEXT_FESNYR002_01293_TODO_06,將<hex:022811FF0A>EventItem<hex:F61E88EB0103>交給格里達尼亞的金馬與力
-31,TEXT_FESNYR002_01293_TODO_07,
-32,TEXT_FESNYR002_01293_TODO_08,
-33,TEXT_FESNYR002_01293_TODO_09,
-34,TEXT_FESNYR002_01293_TODO_10,
-35,TEXT_FESNYR002_01293_TODO_11,
-36,TEXT_FESNYR002_01293_TODO_12,
-37,TEXT_FESNYR002_01293_TODO_13,
-38,TEXT_FESNYR002_01293_TODO_14,
-39,TEXT_FESNYR002_01293_TODO_15,
-40,TEXT_FESNYR002_01293_TODO_16,
-41,TEXT_FESNYR002_01293_TODO_17,
-42,TEXT_FESNYR002_01293_TODO_18,
-43,TEXT_FESNYR002_01293_TODO_19,
-44,TEXT_FESNYR002_01293_TODO_20,
-45,TEXT_FESNYR002_01293_TODO_21,
-46,TEXT_FESNYR002_01293_TODO_22,
-47,TEXT_FESNYR002_01293_TODO_23,
-48,TEXT_FESNYR002_01293_YELLOWGENERAL_000_000,哦，你是被馬奉行選中的冒險者吧！<hex:02100103>感謝你來幫忙，我想馬上就藉助馬的……你的力量。
-49,TEXT_FESNYR002_01293_YELLOWGENERAL_000_001,我們現在沒有馬，宣傳活動難以進行。<hex:02100103>來自異鄉的我們遭受冷眼，現狀比想像的更為嚴重。
-50,TEXT_FESNYR002_01293_YELLOWGENERAL_000_002,不過，只要你扮成馬的樣子，形勢就能逆轉了。<hex:02100103>我們一定能向大家證明……馬比陸行鳥更美！
-51,TEXT_FESNYR002_01293_YELLOWGENERAL_000_003,宣傳舞台特地選在了陸行鳥集中的地方——彎枝牧場。<hex:02100103>你戴上頭盔去那個地方，助我的部下一臂之力！
-52,TEXT_FESNYR002_01293_SUBORDINATEA_000_010,腦袋上高高聳立的馬頭……你是來幫我的吧，太好了！<hex:02100103>我不懂這個地方的規矩，正一籌莫展呢。
-53,TEXT_FESNYR002_01293_SUBORDINATEA_000_011,我想要宣傳馬的美，<hex:02100103>可大家一看到我就扭頭避開視線逃走……<hex:02100103>連話都不聽我說。
-54,TEXT_FESNYR002_01293_SUBORDINATEA_000_012,不過，由熟悉的冒險者來扮成馬的話，<hex:02100103>艾歐澤亞的人們也就不會害怕了吧？<hex:02100103>來，擺一個你擅長的造型，展現馬的美！
-55,TEXT_FESNYR002_01293_SUBORDINATEA_000_013,只不過，我們的目的是想證明馬比陸行鳥美……
-56,TEXT_FESNYR002_01293_SUBORDINATEA_000_014,為此，必須要在陸行鳥集中的地方「擺造型」！<hex:02100103>然後去問鳥欄管理員的感想，證明馬更美！
-57,TEXT_FESNYR002_01293_SUBORDINATEA_000_019,我聽說協助宣傳活動的人戴著<hex:02280BFF05>Item<hex:F21B340103>。<hex:02100103>如果你願意協助我們，請一定要戴上它。
-58,TEXT_FESNYR002_01293_CHOCOBO_000_020,咕哎？！<hex:02100103>咕、咕、咕哎——
-59,TEXT_FESNYR002_01293_CHOCOBO_000_021,咕哎？
-60,TEXT_FESNYR002_01293_CHOCOBO_000_029,咕哎？
-61,TEXT_FESNYR002_01293_BREEDER_000_030,喂！喂！<hex:02100103>挑釁陸行鳥的人就是你嗎？<hex:02100103>那些孩子們嚇壞了！
-62,TEXT_FESNYR002_01293_BREEDER_000_031,……啊？你問我覺得馬美不美？<hex:02100103>搞不懂你在說什麼……<hex:02100103>啊，真馬應該挺美的吧。
-63,TEXT_FESNYR002_01293_BREEDER_000_032,好啦好啦，別再搗蛋了哦！<hex:02100103>真是的……難得的降神節，淨給人添亂子。
-64,TEXT_FESNYR002_01293_BREEDER_000_033,抱歉，現在有點忙……<hex:02100103>我正在尋找戴著<hex:02280BFF05>Item<hex:F21B340103>對陸行鳥搗蛋的人。
-65,TEXT_FESNYR002_01293_SUBORDINATEA_000_040,是嗎是嗎，管理員說馬「挺美的」啊！<hex:02100103>連對手都承認了，看來這場戰鬥是我們大獲全勝。
-66,TEXT_FESNYR002_01293_SUBORDINATEA_000_041,……你說什麼？擺了造型之後陸行鳥很害怕？<hex:02100103>在壓倒性的美貌面前，陸行鳥畏懼了啊。<hex:02100103>還真是膽小的鳥類！
-67,TEXT_FESNYR002_01293_SUBORDINATEA_000_042,這樣吧，你去「鼓勵」陸行鳥。<hex:02100103>馬是品性高潔、心地寬容的生物。<hex:02100103>去充分展現馬的心靈美吧！
-68,TEXT_FESNYR002_01293_CHOCOBO_000_050,咕哎！咕哎！！<hex:02100103>咕哎——
-69,TEXT_FESNYR002_01293_SYSTEM_000_051,陸行鳥興奮極了……
-70,TEXT_FESNYR002_01293_SUBORDINATEA_000_060,在你的鼓勵之下陸行鳥振奮的樣子，<hex:02100103>我在這裡確確實實看到了。<hex:02100103>你做得太好了……嗚……嗚嗚……
-71,TEXT_FESNYR002_01293_SUBORDINATEA_000_061,哎，抱歉……<hex:02100103>看到你做「鼓勵」動作時晃動的馬頭，<hex:02100103>我就想起了留在故鄉的愛馬……
-72,TEXT_FESNYR002_01293_SUBORDINATEA_000_062,那可真是一匹德貌兼備的美馬，品性高尚，英姿颯爽。<hex:02100103>我會想起它，正是因為看到你充分展現了馬的美！
-73,TEXT_FESNYR002_01293_SUBORDINATEA_000_063,真的是……嗚嗚……最棒的宣傳。<hex:02100103>作為你理解美宣傳美的證明，給你<hex:022811FF0A>EventItem<hex:F61E88EB0103>。<hex:02100103>回到格里達尼亞，把它交給金馬與力。
-74,TEXT_FESNYR002_01293_YELLOWGENERAL_000_070,宣傳活動辛苦你了。<hex:02100103>和我的部下一起展現馬的美了嗎？
-75,TEXT_FESNYR002_01293_YELLOWGENERAL_000_071,……這是金馬同心的？！<hex:02100103>那位正統的愛馬家竟然看到了馬的幻影……<hex:02100103>莫非，你就是降臨人間的馬神化身？！
-76,TEXT_FESNYR002_01293_YELLOWGENERAL_000_072,……不，<hex:02100103>認真傾聽馬奉行願望的你，擁有純潔無邪的心靈。<hex:02100103>你能發自內心地理解馬的美，也是理所當然的。
-77,TEXT_FESNYR002_01293_YELLOWGENERAL_000_073,再次感謝你的協助。<hex:02100103>這樣一來，馬肯定也能滲透進格里達尼亞人的生活。<hex:02100103>為表敬意，我將頂級的頭盔呈獻給你。
-78,TEXT_FESNYR002_01293_YELLOWGENERAL_000_074,如果忘記了馬的美……忘記了自身的心靈美，<hex:02100103>那麼就看看這個頭盔上明亮的雙眸。<hex:02100103>降神節的美好回憶，一定能溫暖你的心。
-79,TEXT_FESNYR002_01293_YELLOWGENERAL_000_075,那麼，宣傳馬的美的活動就此結束。<hex:02100103>接下來你去其它國家做宣傳，<hex:02100103>將成果彙報給馬奉行。
+0,"TEXT_FESNYR002_01293_SEQ_00","The golden uma yoriki seeks help sharing the joy of horses with a singularly unappreciative audience.<hex:02100103>※This quest is available for a limited time only."
+1,"TEXT_FESNYR002_01293_SEQ_01","The golden uma yoriki would like to advertise the beauty of horses. Wear the uma kabuto and seek out his confederate, the golden uma doshin, at Bentbranch Meadows.<hex:02100103><hex:02100103>※Please note that you will be unable to complete this quest after the seasonal event has ended. For details, please check the Lodestone."
+2,"TEXT_FESNYR002_01293_SEQ_02","The uma doshin would have you do your utmost to prove that horses are more beautiful than chocobos. With your equine head held high, proudly strut into the Moogle's Gift Mounts stables within Bentbranch Meadows and strike a /pose."
+3,"TEXT_FESNYR002_01293_SEQ_03","Your provocative pose has set the chocobos kweh-ing. Speak with the chocobokeep without losing hold of your inner horse."
+4,"TEXT_FESNYR002_01293_SEQ_04","You have successfully maneuvered the chocobokeep into praising the beauty of horses. See that your kabuto is at a rakish angle and report to the golden uma doshin."
+5,"TEXT_FESNYR002_01293_SEQ_05","You have told the doshin that the chocobos are upset. He bids you show the beauty of a horse's nature by donning the kabuto and rousing the nervous birds with a spirited /rally."
+6,"TEXT_FESNYR002_01293_SEQ_06","Your rallying has been met with much avian excitement. With the kabuto on, speak with the doshin."
+7,"TEXT_FESNYR002_01293_SEQ_07","Clearly moved by your horsey antics, the doshin has rewarded you with a carrot. Take this proof of success to the golden uma yoriki back in Mih Khetto's Amphitheatre in Gridania."
+8,"TEXT_FESNYR002_01293_SEQ_08","His mien much thawed, the yoriki presents you with the golden uma kabuto. Gridanians have had their first taste of the beauty of horses. After you have performed the same act for both Limsa Lominsa and Ul'dah, report your success to the uma bugyo."
+9,"TEXT_FESNYR002_01293_SEQ_09",""
+10,"TEXT_FESNYR002_01293_SEQ_10",""
+11,"TEXT_FESNYR002_01293_SEQ_11",""
+12,"TEXT_FESNYR002_01293_SEQ_12",""
+13,"TEXT_FESNYR002_01293_SEQ_13",""
+14,"TEXT_FESNYR002_01293_SEQ_14",""
+15,"TEXT_FESNYR002_01293_SEQ_15",""
+16,"TEXT_FESNYR002_01293_SEQ_16",""
+17,"TEXT_FESNYR002_01293_SEQ_17",""
+18,"TEXT_FESNYR002_01293_SEQ_18",""
+19,"TEXT_FESNYR002_01293_SEQ_19",""
+20,"TEXT_FESNYR002_01293_SEQ_20",""
+21,"TEXT_FESNYR002_01293_SEQ_21",""
+22,"TEXT_FESNYR002_01293_SEQ_22",""
+23,"TEXT_FESNYR002_01293_SEQ_23",""
+24,"TEXT_FESNYR002_01293_TODO_00","While wearing the kabuto, speak with the golden uma doshin at Bentbranch Meadows."
+25,"TEXT_FESNYR002_01293_TODO_01","While wearing the kabuto, strike a /pose within Moogle's Gift Mounts."
+26,"TEXT_FESNYR002_01293_TODO_02","While wearing the kabuto, speak with the chocobokeep."
+27,"TEXT_FESNYR002_01293_TODO_03","While wearing the kabuto, speak with the golden uma doshin."
+28,"TEXT_FESNYR002_01293_TODO_04","While wearing the kabuto, perform a /rally within Moogle's Gift Mounts."
+29,"TEXT_FESNYR002_01293_TODO_05","While wearing the kabuto, speak with the golden uma doshin."
+30,"TEXT_FESNYR002_01293_TODO_06","Deliver the carrot to the golden uma yoriki in Gridania."
+31,"TEXT_FESNYR002_01293_TODO_07",""
+32,"TEXT_FESNYR002_01293_TODO_08",""
+33,"TEXT_FESNYR002_01293_TODO_09",""
+34,"TEXT_FESNYR002_01293_TODO_10",""
+35,"TEXT_FESNYR002_01293_TODO_11",""
+36,"TEXT_FESNYR002_01293_TODO_12",""
+37,"TEXT_FESNYR002_01293_TODO_13",""
+38,"TEXT_FESNYR002_01293_TODO_14",""
+39,"TEXT_FESNYR002_01293_TODO_15",""
+40,"TEXT_FESNYR002_01293_TODO_16",""
+41,"TEXT_FESNYR002_01293_TODO_17",""
+42,"TEXT_FESNYR002_01293_TODO_18",""
+43,"TEXT_FESNYR002_01293_TODO_19",""
+44,"TEXT_FESNYR002_01293_TODO_20",""
+45,"TEXT_FESNYR002_01293_TODO_21",""
+46,"TEXT_FESNYR002_01293_TODO_22",""
+47,"TEXT_FESNYR002_01293_TODO_23",""
+48,"TEXT_FESNYR002_01293_YELLOWGENERAL_000_000","An adventurer of this unkind land who would embrace the horse and assist us? The uma bugyo is a lady most subtle to find such a one."
+49,"TEXT_FESNYR002_01293_YELLOWGENERAL_000_001","How are things, you ask? Quite bad, thank you. Cold shoulders and colder cabbage soup are our rewards for tireless attempts to show the beauty of the horse to these...these ingrates."
+50,"TEXT_FESNYR002_01293_YELLOWGENERAL_000_002","Are they beautiful? What a question, but no matter. I shall have to fill that gaping void in your sensibility that your begetter so unthinkingly left you with. Yes, the horse is more beautiful than your chocobos, and it falls upon you to prove the point."
+51,"TEXT_FESNYR002_01293_YELLOWGENERAL_000_003","Hm? Can we get this show on the road? Do you mean that you are eager to begin the mission? Very good! Don your kabuto and take yourself to Bentbranch Meadows, where the one who serves me with the heart of a son and strength of a brother will guide you."
+52,"TEXT_FESNYR002_01293_SUBORDINATEA_000_010","Judging from the kabuto, I take it you are on our side? Welcome to Bentbranch Meadows. A foolish name, considering most branches are bent! But then again, I am among fools here."
+53,"TEXT_FESNYR002_01293_SUBORDINATEA_000_011","Yes, fools! They have eyes, but will not meet my gaze. They have ears, but will not listen to my petition. The only things they do use in a manner proper are their legs, with which they scurry away like milk-livered children."
+54,"TEXT_FESNYR002_01293_SUBORDINATEA_000_012","To one of their own kind, though, they must turn their gaze and unstopper their ears. So please, good <hex:02080FE905FF06>madam<hex:FF04>sir<hex:03>, strike a <hex:024804F201F403><hex:024904F201F503>pose<hex:0249020103><hex:0248020103> and show these galoots the beauty of the horse!"
+55,"TEXT_FESNYR002_01293_SUBORDINATEA_000_013","I have learned that the way to an Eorzean's single-chambered heart is through the chocobo. If you can show the horse in a light favorable to those overgrown fowls, then perhaps you will succeed where I have not."
+56,"TEXT_FESNYR002_01293_SUBORDINATEA_000_014","But for that, you must sally to where the horsebirds gather, and <hex:024804F201F403><hex:024904F201F503>pose<hex:0249020103><hex:0248020103> amongst them! Let the chocobokeeps witness the pose-off and the truth blast the amber from their eyes and the wax from their ears!"
+57,"TEXT_FESNYR002_01293_SUBORDINATEA_000_019","Don you the uma kabuto, and show this benighted land the fearsome beauty of the horse!"
+58,"TEXT_FESNYR002_01293_CHOCOBO_000_020","Kweh? Kweh, kweh, kweh! KWEEEH!"
+59,"TEXT_FESNYR002_01293_CHOCOBO_000_021","Kweh?"
+60,"TEXT_FESNYR002_01293_CHOCOBO_000_029","Kweh?"
+61,"TEXT_FESNYR002_01293_BREEDER_000_030","Eh now, what are you up to!? You're scarin' them is what! Knock it off!"
+62,"TEXT_FESNYR002_01293_BREEDER_000_031","Eh? Do I think the horse a beautiful creature? Don't rightly know what you mean by that, but sure, I guess the real thing would look fair enough. A sight better than that thing on your head, that's for sure."
+63,"TEXT_FESNYR002_01293_BREEDER_000_032","Are you going to stop horsing around now? It's Heavensturn, and look at all the ruffled feathers! You take yourself off to a tavern like a gods-fearing <hex:02080FE905FF06>woman<hex:FF04>man<hex:03>."
+64,"TEXT_FESNYR002_01293_BREEDER_000_033","Whatever you want, I ha'n't the time for you now. Gots to look for some joker in a fleem-ugly mask who was scarin' the chocobos."
+65,"TEXT_FESNYR002_01293_SUBORDINATEA_000_040","Ha! “Comely,” he called the horse? Out of the mouth of foes comes the greatest of compliments! Bitter has been the battle of Bentbranch Meadows, and sweeter for it the victory!"
+66,"TEXT_FESNYR002_01293_SUBORDINATEA_000_041","Afeared, you say? What craven birds are these, to quail so before the overmastering beauty of the horse..."
+67,"TEXT_FESNYR002_01293_SUBORDINATEA_000_042","But lest I forget, the horse is merciful and generous in victory. More generous than <hex:021A020203>I<hex:021A020103> would be, frankly. Go and <hex:024804F201F403><hex:024904F201F503>rally<hex:0249020103><hex:0248020103> these shrink-clawed chocobos, and show that in beauty of mind too, the horse is superior to the bird."
+68,"TEXT_FESNYR002_01293_CHOCOBO_000_050","Kweh! Kweh! KWEEEH!!!"
+69,"TEXT_FESNYR002_01293_SYSTEM_000_051","The chocobos respond with much excitement."
+70,"TEXT_FESNYR002_01293_SUBORDINATEA_000_060","Yes, adventurer, these are tears you see upon my cheek. Seeing you rally those horsebirds so..."
+71,"TEXT_FESNYR002_01293_SUBORDINATEA_000_061","What a curious land you hail from! You are more discomfited by a man's tears than a man's blood. Yet your masterful rally evokes my beloved steed with all the eloquence of the East..."
+72,"TEXT_FESNYR002_01293_SUBORDINATEA_000_062","As unschooled as you are, you have captured the beauty of the horse. The tears you regard with unease are a testament to your empathy most equine."
+73,"TEXT_FESNYR002_01293_SUBORDINATEA_000_063","Nothing more remains to be done in Bentbranch Meadows, so overmastering has been your achievement. Take this carrot to the golden uma yoriki as proof of your success. May the gods speed your way to Gridania!"
+74,"TEXT_FESNYR002_01293_YELLOWGENERAL_000_070","Would I like to hear your report? Yes, I believe we would both be served by it. Well, what says the doshin? Were you able to instruct those chilly chocobokeeps in the beauty of the horse? "
+75,"TEXT_FESNYR002_01293_YELLOWGENERAL_000_071","The doshin's carrot? He gave you this, and wept in a manner most manly? Most lacking in imagination is that one, and for him to see evocations of that which is most precious to him in life..."
+76,"TEXT_FESNYR002_01293_YELLOWGENERAL_000_072","Your inner horse, my dear adventurer, must be a steed of rare beauty. Perhaps the West is not without its own subtlety."
+77,"TEXT_FESNYR002_01293_YELLOWGENERAL_000_073","I, the golden uma yoriki, thank you for your assistance. When the noble hoofbeats of the horse ring through these woods, know that you are ever remembered. And this kabuto, too, shall remind you of the deed."
+78,"TEXT_FESNYR002_01293_YELLOWGENERAL_000_074","What good is it? Your questions have grown less discomfiting as I warm towards you. What good is this kabuto? You shall ever look upon it and remember this Heavensturn─and the inner horse of great beauty that canters through the chambers of your heart."
+79,"TEXT_FESNYR002_01293_YELLOWGENERAL_000_075","You can do no more to persuade <hex:020950E947FF19>these strange Gridanians<hex:FF18>your strange countrymen<hex:FF19>these strange Gridanians<hex:03> of the beauty of the horse. May you have success as great in other lands, and may the uma bugyo find you not wanting."

@@ -2,103 +2,103 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_JOBWHM540_01721_SEQ_00,巨龍首營地的艾希娃準備好前往下一個調查地了。
-1,TEXT_JOBWHM540_01721_SEQ_01,艾希娃告訴了冒險者淨化之旅的下一個目的地。前往庫爾札斯西部高地的隼巢，和艾希娃談談。
-2,TEXT_JOBWHM540_01721_SEQ_02,決定和艾希娃分頭打聽情報。在隼巢向當地的居民收集情報。
-3,TEXT_JOBWHM540_01721_SEQ_03,從當地居民那裡打聽到了奇怪女性的傳言。和隼巢的艾希娃談談。
-4,TEXT_JOBWHM540_01721_SEQ_04,據艾希娃所說，西北邊有結冰的湖。前往庫爾札斯西部高地的雙子池，與艾希娃匯合。
-5,TEXT_JOBWHM540_01721_SEQ_05,遭遇了名為阿拉嘉的奇怪女性，阿拉嘉一個人離開了。在雙子池尋找<hex:02280CFF05>EObj<hex:F61E9B5F0103>，將其鎮撫淨化。
-6,TEXT_JOBWHM540_01721_SEQ_06,鎮撫淨化了<hex:02280CFF05>EObj<hex:F61E9B5F0103>。向雙子池的艾希娃報告。
-7,TEXT_JOBWHM540_01721_SEQ_07,艾希娃回到了隼巢。和隼巢的艾希娃談談。
-8,TEXT_JOBWHM540_01721_SEQ_08,艾希娃在意阿拉嘉的同時，會繼續調查地下水脈。在此期間繼續鍛鍊自己。<hex:02100103><hex:02100103>※白魔法師的等級達到56級以上時，可以從隼巢的艾希娃那裡領取下一個白魔法師任務。
-9,TEXT_JOBWHM540_01721_SEQ_09,
-10,TEXT_JOBWHM540_01721_SEQ_10,
-11,TEXT_JOBWHM540_01721_SEQ_11,
-12,TEXT_JOBWHM540_01721_SEQ_12,
-13,TEXT_JOBWHM540_01721_SEQ_13,
-14,TEXT_JOBWHM540_01721_SEQ_14,
-15,TEXT_JOBWHM540_01721_SEQ_15,
-16,TEXT_JOBWHM540_01721_SEQ_16,
-17,TEXT_JOBWHM540_01721_SEQ_17,
-18,TEXT_JOBWHM540_01721_SEQ_18,
-19,TEXT_JOBWHM540_01721_SEQ_19,
-20,TEXT_JOBWHM540_01721_SEQ_20,
-21,TEXT_JOBWHM540_01721_SEQ_21,
-22,TEXT_JOBWHM540_01721_SEQ_22,
-23,TEXT_JOBWHM540_01721_SEQ_23,
-24,TEXT_JOBWHM540_01721_TODO_00,和隼巢的艾希娃對話
-25,TEXT_JOBWHM540_01721_TODO_01,在隼巢收集情報
-26,TEXT_JOBWHM540_01721_TODO_02,和艾希娃對話
-27,TEXT_JOBWHM540_01721_TODO_03,和雙子池的艾希娃對話
-28,TEXT_JOBWHM540_01721_TODO_04,找出<hex:02280CFF05>EObj<hex:F61E9B5F0103> 將其鎮撫淨化
-29,TEXT_JOBWHM540_01721_TODO_05,向艾希娃報告
-30,TEXT_JOBWHM540_01721_TODO_06,和艾希娃對話
-31,TEXT_JOBWHM540_01721_TODO_07,
-32,TEXT_JOBWHM540_01721_TODO_08,
-33,TEXT_JOBWHM540_01721_TODO_09,
-34,TEXT_JOBWHM540_01721_TODO_10,
-35,TEXT_JOBWHM540_01721_TODO_11,
-36,TEXT_JOBWHM540_01721_TODO_12,
-37,TEXT_JOBWHM540_01721_TODO_13,
-38,TEXT_JOBWHM540_01721_TODO_14,
-39,TEXT_JOBWHM540_01721_TODO_15,
-40,TEXT_JOBWHM540_01721_TODO_16,
-41,TEXT_JOBWHM540_01721_TODO_17,
-42,TEXT_JOBWHM540_01721_TODO_18,
-43,TEXT_JOBWHM540_01721_TODO_19,
-44,TEXT_JOBWHM540_01721_TODO_20,
-45,TEXT_JOBWHM540_01721_TODO_21,
-46,TEXT_JOBWHM540_01721_TODO_22,
-47,TEXT_JOBWHM540_01721_TODO_23,
-48,TEXT_JOBWHM540_01721_ESCHIVA_000_000,啊，<hex:022903EB0203>，<hex:02100103>等你好久了！
-49,TEXT_JOBWHM540_01721_ESCHIVA_000_010,我之前提出的申請被受理了，<hex:02100103>幻術皇名義的通行證已經下來了！<hex:02100103>這下我們就可以去西部高地進行調查了！
-50,TEXT_JOBWHM540_01721_ESCHIVA_000_020,我這邊已經事先考察好了庫爾札斯西部高地！<hex:02100103>能夠作為據點的地方，我也調查好了哦！
-51,TEXT_JOBWHM540_01721_ESCHIVA_000_030,首先去隼巢看看吧。<hex:02100103>在那裡打聽一下最近有什麼異變沒有！
-52,TEXT_JOBWHM540_01721_ESCHIVA_000_040,這裡就是隼巢啊……<hex:02100103>仔細一看，雖然都是伊修加德的建築物，<hex:02100103>可是卻有著細微的差別……
-53,TEXT_JOBWHM540_01721_ESCHIVA_000_041,爺爺……我的祖父，<hex:02100103>在跟阿·拓瓦大人旅行的時候，看到這些新的事物，<hex:02100103>也曾跟我一樣被它們的美妙所震撼了嗎……
-54,TEXT_JOBWHM540_01721_ESCHIVA_000_042,唔……不能光感慨這些了。<hex:02100103>快向村子裡的人問問最近有沒有什麼異變吧！
-55,TEXT_JOBWHM540_01721_ESCHIVA_000_043,問完後就到北邊的出口集合。<hex:02100103>那麼，一會見！
-56,TEXT_JOBWHM540_01721_FORCHETAIX_100_050,不淨之物？<hex:02100103>雖然不知道和你問的有沒有關係，<hex:02100103>不過最近有個奇怪的事。
-57,TEXT_JOBWHM540_01721_FORCHETAIX_100_051,有個身上散發著腐臭的女性來了隼巢。<hex:02100103>為了查明她的身份，我偷看了她的行李……<hex:02100103>裡面竟然是……呃，想起來就覺得可怕……
-58,TEXT_JOBWHM540_01721_FORCHETAIX_100_052,最後，大傢伙便一起追問她到底是什麼來歷，<hex:02100103>結果那個女人一言不發地向西北邊去了……<hex:02100103>當時那個女人的眼神……讓人直打寒顫……
-59,TEXT_JOBWHM540_01721_TOURCENET_100_060,不淨之物？<hex:02100103>說到這附近的不淨之物，果然還是龍族吧……
-60,TEXT_JOBWHM540_01721_TOURCENET_100_061,說起來，最近有個盯著龍族屍體看的女性出現在了這附近，<hex:02100103>大家懷疑她可能是新的異端者，都在警戒著。
-61,TEXT_JOBWHM540_01721_FORCHETAIX_100_070,之前有個飄著腐臭的女性來過，<hex:02100103>在大家的追問下，那個女性便離開去了西北邊……<hex:02100103>那時候真是，寒顫打不停……
-62,TEXT_JOBWHM540_01721_TOURCENET_100_080,說起來，最近有個盯著龍族屍體看的女性出現在了這附近，<hex:02100103>大家懷疑她可能是新的異端者，都在警戒著。
-63,TEXT_JOBWHM540_01721_ESCHIVA_000_090,看來大家都在說那個奇怪的女性呢。<hex:02100103>不知道她與不淨之物有何關聯……<hex:02100103>只是我有些在意她去的方向。
-64,TEXT_JOBWHM540_01721_ESCHIVA_000_091,我問了一下關於這裡的水源的情況……<hex:02100103>他們告訴我西北邊有一面結冰的湖。<hex:02100103>這與那個女性前去的方向一致……
-65,TEXT_JOBWHM540_01721_ESCHIVA_000_092,尋找不淨之物的話，還是調查水源比較有效率。<hex:02100103>我們這就沿著水源，到雙子池的西北邊去吧。<hex:02100103>想想如果碰到了傳聞的那位女性，還真有點怕呢……
-66,TEXT_JOBWHM540_01721_ESCHIVA_000_100,那邊的那位女性就是……<hex:02100103>不過說起來，好、好臭……<hex:02100103>這是……龍族的腐臭？
-67,TEXT_JOBWHM540_01721_ESCHIVA_100_100,那個，請問你在這裡做什麼？
-68,TEXT_JOBWHM540_01721_ALAQA_000_101,(-飄著腐臭的女性-)……在找某樣東西。
-69,TEXT_JOBWHM540_01721_ALAQA_000_102,(-飄著腐臭的女性-)我只是想要形狀更加完美的東西……<hex:02100103>不過也得到了還算不錯的素材，就這樣吧。<hex:02100103>而且，實驗進行的也非常順利……
-70,TEXT_JOBWHM540_01721_ESCHIVA_000_103,實、實驗？<hex:02100103>你到底……在做什麼？
-71,TEXT_JOBWHM540_01721_ALAQA_000_104,(-飄著腐臭的女性-)我為什麼要告訴你？
-72,TEXT_JOBWHM540_01721_ESCHIVA_000_105,因、因為……<hex:02100103>正常人在這裡不會待那麼久才對……
-73,TEXT_JOBWHM540_01721_ALAQA_000_106,(-飄著腐臭的女性-)正常……因為我不正常，你們就要否定我嗎……
-74,TEXT_JOBWHM540_01721_ESCHIVA_000_107,沒、沒有……<hex:02100103>我沒有那個意思……
-75,TEXT_JOBWHM540_01721_ESCHIVA_000_108,只是，這附近有很多危險的魔物。<hex:02100103>所以，你最好還是把你得到的那個東西的用途告訴別人，<hex:02100103>然後尋求他們的幫助……
-76,TEXT_JOBWHM540_01721_ALAQA_000_109,(-飄著腐臭的女性-)你就是想礙我事……對吧！<hex:02100103>反正誰也不會來幫我……
-77,TEXT_JOBWHM540_01721_ALAQA_000_110,(-飄著腐臭的女性-)我從你身上感受到一股想要排除我的強大魔力……<hex:02100103>是不是有人委託你欺負我，然後把我趕出這裡？<hex:02100103>這世界上就沒有我的容身之地嗎……
-78,TEXT_JOBWHM540_01721_ESCHIVA_000_111,……那、那個！你到底是？
-79,TEXT_JOBWHM540_01721_ALAQA_000_112,……我叫阿拉嘉。<hex:02100103>你們就別再煩我了。
-80,TEXT_JOBWHM540_01721_ESCHIVA_000_113,到底怎麼回事……那個人和傳聞一樣令人毛骨悚然啊。<hex:02100103>她好像說自己叫阿拉嘉……<hex:02100103>還有實驗……到底是什麼實驗？
-81,TEXT_JOBWHM540_01721_ESCHIVA_000_114,……總之，先在這附近找找看有沒有不淨之物的徵兆吧，<hex:02100103>咱們分頭找吧。
-82,TEXT_JOBWHM540_01721_ESCHIVA_000_118,還沒找到不淨之物……<hex:02100103>咱們再在這附近分頭找找看吧。
-83,TEXT_JOBWHM540_01721_ESCHIVA_000_120,你淨化了不淨之物是嗎！<hex:02100103>真是謝謝你，順利淨化完畢真是太好了！
-84,TEXT_JOBWHM540_01721_ESCHIVA_000_121,只是……在和阿拉嘉相遇的這附近<hex:02100103>找到了不淨之物……這會是偶然嗎？
-85,TEXT_JOBWHM540_01721_ESCHIVA_000_122,……在這麼冷的地方腦袋都轉不起來了。<hex:02100103>還是先回隼巢吧。
-86,TEXT_JOBWHM540_01721_ESCHIVA_000_130,這次也辛苦你了。<hex:02100103>通過淨化，使得你感受到了新的力量對吧。
-87,TEXT_JOBWHM540_01721_ESCHIVA_000_131,至今為止的淨化之旅還都算順利。<hex:02100103>照這個勢頭沿著水脈繼續前進的話，<hex:02100103>很快就能查出不淨之物的根源是什麼了。
-88,TEXT_JOBWHM540_01721_ESCHIVA_000_132,只是，先前的那位女性……<hex:02100103>阿拉嘉到底是什麼人？<hex:02100103>真是令人毛骨悚然……
-89,TEXT_JOBWHM540_01721_ESCHIVA_000_133,那面無表情拾取龍族屍骸的身姿……<hex:02100103>太、太可怕了……晚上要做噩夢了……
-90,TEXT_JOBWHM540_01721_ESCHIVA_000_134,總、總之……<hex:02100103>我會繼續做調查的，好查出不淨之物可能出現的地方，<hex:02100103>以及地下水脈幹流的具體位置。
-91,TEXT_JOBWHM540_01721_ESCHIVA_000_135,調查就放心交給我好了，<hex:02100103><hex:022903EB0203>的話就請用這段時間，繼續提高自己的治癒能力。<hex:02100103>當你修行結束後，來這裡找我即可。
-92,TEXT_JOBWHM540_01721_SYSTEM_000_140,（未使用/預計刪除）
-93,TEXT_JOBWHM540_01721_CHOSAIN_000_050,（未使用/預計刪除）
-94,TEXT_JOBWHM540_01721_CHOSAIN_000_051,（未使用/預計刪除）
-95,TEXT_JOBWHM540_01721_CHOSAIN_000_052,（未使用/預計刪除）
-96,TEXT_JOBWHM540_01721_DURENDAIRE_000_060,（未使用/預計刪除）
-97,TEXT_JOBWHM540_01721_DURENDAIRE_000_061,（未使用/預計刪除）
-98,TEXT_JOBWHM540_01721_CHOSAIN_000_070,（未使用/預計刪除）
-99,TEXT_JOBWHM540_01721_DURENDAIRE_000_080,（未使用/預計刪除）
+0,"TEXT_JOBWHM540_01721_SEQ_00","Eschiva is ready to resume the mission to purge the taint."
+1,"TEXT_JOBWHM540_01721_SEQ_01","Eschiva has completed the necessary preparations for the next leg of your mission, which will take you to the western highlands of Coerthas. She suggests that you first make a stop in the hamlet of Falcon's Nest, that you might gather information from the locals."
+2,"TEXT_JOBWHM540_01721_SEQ_02","You rejoin Eschiva at Falcon's Nest. Having mused about her grandfather's journeys, she bids you speak with the locals and ask whether they know anything of the taint."
+3,"TEXT_JOBWHM540_01721_SEQ_03","Much to your chagrin, the locals know nothing of the taint. However, they tell you that a foreign woman reeking of death has come through Falcon's Nest recently. Make your way to the northern entrance of Falcon's Nest and report your findings to Eschiva."
+4,"TEXT_JOBWHM540_01721_SEQ_04","It appears your investigation will take you in the same direction as the foreign woman. Setting aside the question of coincidence in your mind, make your way to the northwestern corner of the western highlands, to the area south of the Slate Mountains, and rejoin Eschiva."
+5,"TEXT_JOBWHM540_01721_SEQ_05","You and Eschiva find the foreign woman crouching over the remains of a dragon. At the end of an awkward conversation, the woman warns you to leave her alone. Who is this Alaqa, and what is her purpose? Though such questions plague you, for now you must focus on your mission. Eschiva believes that the taint has manifested nearby; find it and purify it."
+6,"TEXT_JOBWHM540_01721_SEQ_06","You have succeeded in purifying the second manifestation of the taint. Rejoin Eschiva west of Banepool and relay the good tidings to her."
+7,"TEXT_JOBWHM540_01721_SEQ_07","Eschiva is pleased to hear that the taint corrupts the area no more. Rather than stand out in the cold, she suggests you first return to Falcon's Nest to discuss recent events."
+8,"TEXT_JOBWHM540_01721_SEQ_08","Though shaken by her meeting with the mysterious Alaqa, Eschiva is determined to continue the mission to rid the realm of the taint. While she resumes her investigation of water veins, continue honing your powers of purification, for they will be called upon again before long.<hex:02100103><hex:02100103>※The next white mage quest will be available from Eschiva upon reaching level 56."
+9,"TEXT_JOBWHM540_01721_SEQ_09",""
+10,"TEXT_JOBWHM540_01721_SEQ_10",""
+11,"TEXT_JOBWHM540_01721_SEQ_11",""
+12,"TEXT_JOBWHM540_01721_SEQ_12",""
+13,"TEXT_JOBWHM540_01721_SEQ_13",""
+14,"TEXT_JOBWHM540_01721_SEQ_14",""
+15,"TEXT_JOBWHM540_01721_SEQ_15",""
+16,"TEXT_JOBWHM540_01721_SEQ_16",""
+17,"TEXT_JOBWHM540_01721_SEQ_17",""
+18,"TEXT_JOBWHM540_01721_SEQ_18",""
+19,"TEXT_JOBWHM540_01721_SEQ_19",""
+20,"TEXT_JOBWHM540_01721_SEQ_20",""
+21,"TEXT_JOBWHM540_01721_SEQ_21",""
+22,"TEXT_JOBWHM540_01721_SEQ_22",""
+23,"TEXT_JOBWHM540_01721_SEQ_23",""
+24,"TEXT_JOBWHM540_01721_TODO_00","Speak with Eschiva at Falcon's Nest."
+25,"TEXT_JOBWHM540_01721_TODO_01","Gather information at Falcon's Nest."
+26,"TEXT_JOBWHM540_01721_TODO_02","Speak with Eschiva."
+27,"TEXT_JOBWHM540_01721_TODO_03","Speak with Eschiva south of the Slate Mountains."
+28,"TEXT_JOBWHM540_01721_TODO_04","Find the taint and purify it."
+29,"TEXT_JOBWHM540_01721_TODO_05","Report to Eschiva."
+30,"TEXT_JOBWHM540_01721_TODO_06","Speak with Eschiva."
+31,"TEXT_JOBWHM540_01721_TODO_07",""
+32,"TEXT_JOBWHM540_01721_TODO_08",""
+33,"TEXT_JOBWHM540_01721_TODO_09",""
+34,"TEXT_JOBWHM540_01721_TODO_10",""
+35,"TEXT_JOBWHM540_01721_TODO_11",""
+36,"TEXT_JOBWHM540_01721_TODO_12",""
+37,"TEXT_JOBWHM540_01721_TODO_13",""
+38,"TEXT_JOBWHM540_01721_TODO_14",""
+39,"TEXT_JOBWHM540_01721_TODO_15",""
+40,"TEXT_JOBWHM540_01721_TODO_16",""
+41,"TEXT_JOBWHM540_01721_TODO_17",""
+42,"TEXT_JOBWHM540_01721_TODO_18",""
+43,"TEXT_JOBWHM540_01721_TODO_19",""
+44,"TEXT_JOBWHM540_01721_TODO_20",""
+45,"TEXT_JOBWHM540_01721_TODO_21",""
+46,"TEXT_JOBWHM540_01721_TODO_22",""
+47,"TEXT_JOBWHM540_01721_TODO_23",""
+48,"TEXT_JOBWHM540_01721_ESCHIVA_000_000","I am terribly sorry for the wait, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>."
+49,"TEXT_JOBWHM540_01721_ESCHIVA_000_010","It has taken a while, but our request to pass through Ishgard has been granted. We may now continue on to the western highlands."
+50,"TEXT_JOBWHM540_01721_ESCHIVA_000_020","It has taken a while, but I believe we are now armed with sufficient knowledge of our destination. Let us continue on to the western highlands."
+51,"TEXT_JOBWHM540_01721_ESCHIVA_000_030","First, I suggest we make a brief stop in Falcon's Nest. If there has been an anomaly in the area, the locals may be able to tell us something."
+52,"TEXT_JOBWHM540_01721_ESCHIVA_000_040","So this is Falcon's Nest... To think that architectural styles can differ so even within the same nation..."
+53,"TEXT_JOBWHM540_01721_ESCHIVA_000_041","Going to new places is a veritable <hex:021A020203>feast<hex:021A020103> for the senses. Such wonders Grandfather must have beheld in his journeys with Master A–Towa..."
+54,"TEXT_JOBWHM540_01721_ESCHIVA_000_042","Ah, but such musings must wait─we have a task to do. Let us begin by speaking with the people here."
+55,"TEXT_JOBWHM540_01721_ESCHIVA_000_043","When you have finished, pray come and meet me at the hamlet's northern entrance."
+56,"TEXT_JOBWHM540_01721_FORCHETAIX_100_050","...The taint? Never heard of it. We've had a strange visitor, however─a foreign woman with the stench of death about her."
+57,"TEXT_JOBWHM540_01721_FORCHETAIX_100_051","Suspicious as she was, I decided to steal a peek at her belongings, and─<hex:02100103>Unnngh... Forgive me, but the mere recollection of it is like to bring up my <hex:02083AE3E90C0DFF18><hex:020814E3E90C05FF06>lunch<hex:FF07>supper<hex:03><hex:FF1B><hex:020817E3E90C12FF0A>breakfast<hex:FF06>lunch<hex:03><hex:03>..."
+58,"TEXT_JOBWHM540_01721_FORCHETAIX_100_052","Anyway, after that, some few of us confronted her and demanded to know her purpose, but she refused to say a word. Nay, she looked straight through us with empty eyes and left the hamlet. As I recall, she was headed to the north and west. Wherever it is she has gone, we are well rid of her."
+59,"TEXT_JOBWHM540_01721_TOURCENET_100_060","I am unfamiliar with this taint of which you speak. We do consider dragons unclean, however."
+60,"TEXT_JOBWHM540_01721_TOURCENET_100_061","Speaking of the beasts, lately, there have been reports of a strange woman skulking about their remains. We are on the lookout for her, lest she prove to be a heretic."
+61,"TEXT_JOBWHM540_01721_FORCHETAIX_100_070","The foreign woman who reeked of death? After we confronted her, she left the hamlet and struck out to the north and west. We are well rid of her, I tell you."
+62,"TEXT_JOBWHM540_01721_TOURCENET_100_080","A strange woman has been skulking about dragon remains. Should you catch sight of her, we would thank you to inform us."
+63,"TEXT_JOBWHM540_01721_ESCHIVA_000_090","The rumors of this strange woman are on everyone's lips. This is likely but a coincidence, but it appears we are headed in the same direction as her."
+64,"TEXT_JOBWHM540_01721_ESCHIVA_000_091","There are water sources in the northwestern corner of the region─frozen lakes, to be precise─and I would take our investigation there."
+65,"TEXT_JOBWHM540_01721_ESCHIVA_000_092","I mislike the sound of this woman, and I'd sooner not cross paths with her, but we have a mission to fulfill. Let us keep moving."
+66,"TEXT_JOBWHM540_01721_ESCHIVA_000_100","Good gods! The stench is overpowering, even in this frigid clime!"
+67,"TEXT_JOBWHM540_01721_ESCHIVA_100_100","Um, forgive me for interrupting, but what are you doing?"
+68,"TEXT_JOBWHM540_01721_ALAQA_000_101","(-Malodorous Maiden-)Searching."
+69,"TEXT_JOBWHM540_01721_ALAQA_000_102","(-Malodorous Maiden-)Hmph... Rather more damaged than I would have liked, but it will serve. After all, the experiment proceeds apace."
+70,"TEXT_JOBWHM540_01721_ESCHIVA_000_103","Experiment? What in the heavens are you doing?"
+71,"TEXT_JOBWHM540_01721_ALAQA_000_104","(-Malodorous Maiden-)Why must I justify myself to you?"
+72,"TEXT_JOBWHM540_01721_ESCHIVA_000_105","W-Well, I suppose you have no obligation to do so. It's just not every day that I see someone, er, rummaging through a dragon's corpse."
+73,"TEXT_JOBWHM540_01721_ALAQA_000_106","(-Malodorous Maiden-)So I frighten you, then. You find me repulsive, like the rest of them."
+74,"TEXT_JOBWHM540_01721_ESCHIVA_000_107","N-No, you misunderstand! I didn't mean to give offense!"
+75,"TEXT_JOBWHM540_01721_ESCHIVA_000_108","Whatever you do is your business, to be sure, but it isn't safe to be alone out here."
+76,"TEXT_JOBWHM540_01721_ALAQA_000_109","(-Malodorous Maiden-)What would you suggest, then? That I find a stout protector like your friend? As if anyone would be willing to help me..."
+77,"TEXT_JOBWHM540_01721_ALAQA_000_110","(-Malodorous Maiden-)Hm? This aura you emanate... They sent you to hound me, haven't they? To remind that witch Alaqa that she has no place in the world!"
+78,"TEXT_JOBWHM540_01721_ESCHIVA_000_111","...Alaqa?"
+79,"TEXT_JOBWHM540_01721_ALAQA_000_112","I am warning you: leave me alone."
+80,"TEXT_JOBWHM540_01721_ESCHIVA_000_113","Well, that was certainly queer... I know not what compelled me to speak with that woman─Alaqa, I believed she called herself─but I must confess to being morbidly curious about her experiment. But I mustn't let myself be distracted─we have work to do."
+81,"TEXT_JOBWHM540_01721_ESCHIVA_000_114","Unless I am mistaken, the taint has manifested in this area. Let us split up and search for it."
+82,"TEXT_JOBWHM540_01721_ESCHIVA_000_118","Nothing so far. Keep searching, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>."
+83,"TEXT_JOBWHM540_01721_ESCHIVA_000_120","You found the taint and purified it? Well done!"
+84,"TEXT_JOBWHM540_01721_ESCHIVA_000_121","Though, I cannot help but wonder: is it truly a coincidence that the taint chanced to have manifested where we met Alaqa?"
+85,"TEXT_JOBWHM540_01721_ESCHIVA_000_122","Brrr... Being frozen to the bone isn't conducive to conversation. Let us return to Falcon's Nest and warm ourselves before we discuss matters in earnest."
+86,"TEXT_JOBWHM540_01721_ESCHIVA_000_130","With your most recent effort, I sense that your powers continue to grow. Suffice it to say this is a boon to our cause."
+87,"TEXT_JOBWHM540_01721_ESCHIVA_000_131","The mission proceeds smoothly thus far. If we continue following the water vein, it should lead us to the source of the taint."
+88,"TEXT_JOBWHM540_01721_ESCHIVA_000_132","As for the stranger, Alaqa─never have I felt so unsettled in someone's presence."
+89,"TEXT_JOBWHM540_01721_ESCHIVA_000_133","The thought that she might be connected to the taint also bothers me, but until we know for certain, it avails us naught to dwell upon it."
+90,"TEXT_JOBWHM540_01721_ESCHIVA_000_134","For now, I shall resume my investigation of water veins and try to deduce other locations where the taint might appear."
+91,"TEXT_JOBWHM540_01721_ESCHIVA_000_135","Leave the investigative aspect of the mission to me, and pray continue honing your powers of purification. After all, no one else can purge the taint but you."
+92,"TEXT_JOBWHM540_01721_SYSTEM_000_140",""
+93,"TEXT_JOBWHM540_01721_CHOSAIN_000_050",""
+94,"TEXT_JOBWHM540_01721_CHOSAIN_000_051",""
+95,"TEXT_JOBWHM540_01721_CHOSAIN_000_052",""
+96,"TEXT_JOBWHM540_01721_DURENDAIRE_000_060",""
+97,"TEXT_JOBWHM540_01721_DURENDAIRE_000_061",""
+98,"TEXT_JOBWHM540_01721_CHOSAIN_000_070",""
+99,"TEXT_JOBWHM540_01721_DURENDAIRE_000_080",""

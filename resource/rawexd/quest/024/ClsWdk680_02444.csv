@@ -2,177 +2,177 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_CLSWDK680_02444_SEQ_00,黃金港的琴風有東西想要交給冒險者。
-1,TEXT_CLSWDK680_02444_SEQ_01,從黃金港的琴風那裡收取了奇彌·基恩加爾寄來的信。和延夏茨菰村的奇彌·基恩加爾談談。
-2,TEXT_CLSWDK680_02444_SEQ_02,奇彌·基恩加爾為了完成貝亞坦交給她的課題，正在發奮圖強。在茨菰村尋找有困難的人。
-3,TEXT_CLSWDK680_02444_SEQ_03,靈山希望得到能讓多瑪飛地的人們安心用餐的家具。和茨菰村的居民們談談，調查了解多瑪的飲食文化。
-4,TEXT_CLSWDK680_02444_SEQ_04,據居民們所說，在多瑪飛地，進餐時的模樣是不能被外人看到的。和茨菰村的奇彌·基恩加爾談談。
-5,TEXT_CLSWDK680_02444_SEQ_05,和奇彌·基恩加爾進行了交談，決定了要製作什麼。用<hex:02280BFF05>Item<hex:F245D90103>製作<hex:02280DFF07>ItemHQ<hex:F245DA0103>，並交給茨菰村的靈山。<hex:02100103><hex:02100103>※如果<hex:02280BFF05>Item<hex:F245D90103>不足，可以與奇彌·基恩加爾對話重新獲得材料，並再次進行挑戰。
-6,TEXT_CLSWDK680_02444_SEQ_06,靈山很高興，覺得放置<hex:02280DFF07>ItemHQ<hex:F245DA0103>後，多瑪飛地的居民們就可以安心用餐了。返回格里達尼亞的刻木匠公會。
-7,TEXT_CLSWDK680_02444_SEQ_07,回到刻木匠公會的奇彌·基恩加爾想起了當年為母親做過一張安樂椅的事，這才領悟到了什麼對工匠來說才是最重要的。和刻木匠公會前的奇彌·基恩加爾談談。
-8,TEXT_CLSWDK680_02444_SEQ_08,得到了成長的奇彌·基恩加爾再次啟程。為了親眼見證她改變後的模樣，等待貝亞坦發來委託。<hex:02100103><hex:02100103>※刻木匠的等級達到70級以上時，可以從刻木匠公會的奇彌·基恩加爾那裡領取下一個刻木匠任務。
-9,TEXT_CLSWDK680_02444_SEQ_09,
-10,TEXT_CLSWDK680_02444_SEQ_10,
-11,TEXT_CLSWDK680_02444_SEQ_11,
-12,TEXT_CLSWDK680_02444_SEQ_12,
-13,TEXT_CLSWDK680_02444_SEQ_13,
-14,TEXT_CLSWDK680_02444_SEQ_14,
-15,TEXT_CLSWDK680_02444_SEQ_15,
-16,TEXT_CLSWDK680_02444_SEQ_16,
-17,TEXT_CLSWDK680_02444_SEQ_17,
-18,TEXT_CLSWDK680_02444_SEQ_18,
-19,TEXT_CLSWDK680_02444_SEQ_19,
-20,TEXT_CLSWDK680_02444_SEQ_20,
-21,TEXT_CLSWDK680_02444_SEQ_21,
-22,TEXT_CLSWDK680_02444_SEQ_22,
-23,TEXT_CLSWDK680_02444_SEQ_23,
-24,TEXT_CLSWDK680_02444_TODO_00,和茨菰村的奇彌·基恩加爾對話
-25,TEXT_CLSWDK680_02444_TODO_01,尋找有困難的人
-26,TEXT_CLSWDK680_02444_TODO_02,和茨菰村的居民談談
-27,TEXT_CLSWDK680_02444_TODO_03,和奇彌·基恩加爾對話
-28,TEXT_CLSWDK680_02444_TODO_04,<hex:02085BE3E802E803FF33>製作筆記 職業任務：製作<hex:02280DFF07>ItemHQ<hex:F245DA0103><hex:FF20>將<hex:02280DFF07>ItemHQ<hex:F245DA0103>交給靈山<hex:03>
-29,TEXT_CLSWDK680_02444_TODO_05,返回刻木匠公會
-30,TEXT_CLSWDK680_02444_TODO_06,和奇彌·基恩加爾對話
-31,TEXT_CLSWDK680_02444_TODO_07,
-32,TEXT_CLSWDK680_02444_TODO_08,
-33,TEXT_CLSWDK680_02444_TODO_09,
-34,TEXT_CLSWDK680_02444_TODO_10,
-35,TEXT_CLSWDK680_02444_TODO_11,
-36,TEXT_CLSWDK680_02444_TODO_12,
-37,TEXT_CLSWDK680_02444_TODO_13,
-38,TEXT_CLSWDK680_02444_TODO_14,
-39,TEXT_CLSWDK680_02444_TODO_15,
-40,TEXT_CLSWDK680_02444_TODO_16,
-41,TEXT_CLSWDK680_02444_TODO_17,
-42,TEXT_CLSWDK680_02444_TODO_18,
-43,TEXT_CLSWDK680_02444_TODO_19,
-44,TEXT_CLSWDK680_02444_TODO_20,
-45,TEXT_CLSWDK680_02444_TODO_21,
-46,TEXT_CLSWDK680_02444_TODO_22,
-47,TEXT_CLSWDK680_02444_TODO_23,
-48,TEXT_CLSWDK680_02444_KOTOKAZE_000_001,啊，是<hex:022903EB0203>。<hex:02100103>這裡正好有一封奇彌姑娘寄給你的信……<hex:02100103>喏，你快看看吧。
-49,TEXT_CLSWDK680_02444_CEMIJINJAHLLATTER_000_002,(-奇彌的信-)<hex:022903EB0203>：<hex:02100103>你好，我是奇彌·基恩加爾。<hex:02100103>我現在來到了延夏的一個叫茨菰村的地方。
-50,TEXT_CLSWDK680_02444_CEMIJINJAHLLATTER_000_003,(-奇彌的信-)多瑪的文化真是太迷人了。<hex:02100103>或許是因為他們使用的都是延夏地方特有的素材，<hex:02100103>很多東西我都是第一次見。
-51,TEXT_CLSWDK680_02444_CEMIJINJAHLLATTER_000_004,(-奇彌的信-)尤其是一種被叫做點心的類似包子的食物，<hex:02100103>我非常喜歡！
-52,TEXT_CLSWDK680_02444_CEMIJINJAHLLATTER_000_005,(-奇彌的信-)我也想請<hex:022903EB0203>嘗嘗，<hex:02100103>方便的話就請你到茨菰村來吧。<hex:02100103>食物獵人奇彌·基恩加爾
-53,TEXT_CLSWDK680_02444_CEMIJINJAHL_000_010,哇，<hex:022903EB0203>！<hex:02100103>好久不見！
-54,TEXT_CLSWDK680_02444_CEMIJINJAHL_000_011,<hex:022903EB0203>也是來品嘗多瑪飯菜的嗎？<hex:02100103>我知道一家店做得很好吃，我帶你去！
-55,TEXT_CLSWDK680_02444_CEMIJINJAHL_000_012,討、討厭啦，我只是開個玩笑嘛！<hex:02100103>我已經把多瑪的刻木技術完全學會了！<hex:02100103>只是在休息的時候稍微吃點美食而已……
-56,TEXT_CLSWDK680_02444_CEMIJINJAHL_000_013,嗚！
-57,TEXT_CLSWDK680_02444_CEMIJINJAHL_000_014,好、好了！<hex:02100103>既然<hex:022903EB0203>也到了，<hex:02100103>那我們就快點去尋找有困難的人吧！
-58,TEXT_CLSWDK680_02444_KOTOKAZE_000_015,奇彌姑娘好像對食物很有熱情呢。<hex:02100103>她是烹調師公會的廚師嗎？
-59,TEXT_CLSWDK680_02444_COOK02444_000_020,（★未使用／削除予定★）
-60,TEXT_CLSWDK680_02444_REIZAN_000_020,你問我是不是遇到困難了？<hex:02100103>是啊，被你說對了……
-61,TEXT_CLSWDK680_02444_COOK02444_000_021,（★未使用／削除予定★）
-62,TEXT_CLSWDK680_02444_REIZAN_000_021,在多瑪被佔領之前，我一直都從事廚師的工作。<hex:02100103>現在多瑪好不容易脫離了加雷馬帝國的統治，<hex:02100103>我就想再開一家飯店。
-63,TEXT_CLSWDK680_02444_COOK02444_000_022,（★未使用／削除予定★）
-64,TEXT_CLSWDK680_02444_REIZAN_000_022,在多瑪被佔領之前，我一直都從事廚師的工作。<hex:02100103>現在多瑪好不容易脫離了加雷馬帝國的統治，<hex:02100103>我就想再開一家飯店。
-65,TEXT_CLSWDK680_02444_COOK02444_000_025,（★未使用／削除予定★）
-66,TEXT_CLSWDK680_02444_REIZAN_000_025,你應該也知道，要想開店的話，<hex:02100103>肯定需要置辦椅子之類的家具是吧？<hex:02100103>但我的預算很有限，而且我也找不到手藝好的工匠。
-67,TEXT_CLSWDK680_02444_CEMIJINJAHL_000_030,你的煩惱就由我們格里達尼亞的刻木匠公會來解決吧！<hex:02100103>我一定會打造出包你滿意的家具！
-68,TEXT_CLSWDK680_02444_COOK02444_000_045,（★未使用／削除予定★）
-69,TEXT_CLSWDK680_02444_REIZAN_000_045,哦哦，真是太謝謝了。<hex:02100103>那就拜託你了？
-70,TEXT_CLSWDK680_02444_CEMIJINJAHL_000_050,好的！<hex:02100103>那麼，你想要什麼樣的家具呢？
-71,TEXT_CLSWDK680_02444_COOK02444_000_055,（★未使用／削除予定★）
-72,TEXT_CLSWDK680_02444_REIZAN_000_055,我想在多瑪飛地開店，<hex:02100103>但那裡的用餐禮儀卻有些與眾不同。<hex:02100103>我想要能夠讓他們安心用餐的家具。
-73,TEXT_CLSWDK680_02444_CEMIJINJAHL_000_060,嗯嗯……對了，<hex:022903EB0203>！<hex:02100103>只是我來打造家具的話怪沒意思的，<hex:02100103>不如我們來比一比吧？
-74,TEXT_CLSWDK680_02444_CEMIJINJAHL_000_065,我們把各自打好的家具拿給委託人，<hex:02100103>由委託人來判定誰的家具更勝一籌！
-75,TEXT_CLSWDK680_02444_CEMIJINJAHL_000_070,我到現在還沒能成功完成過一件委託……<hex:02100103>再這樣下去就要被師父拋棄了。<hex:02100103>我希望能有個機會向師父證明我的手藝！
-76,TEXT_CLSWDK680_02444_CEMIJINJAHL_000_075,太棒了！謝謝你！
-77,TEXT_CLSWDK680_02444_COOK02444_000_080,（★未使用／削除予定★）
-78,TEXT_CLSWDK680_02444_REIZAN_000_080,雖然我沒太聽懂你們在說什麼，不過一切就拜託你們了。<hex:02100103>如果你們不知道該打造什麼樣的家具，可以找村裡的居民打聽一下，<hex:02100103>這裡應該也有曾經在多瑪飛地居住過的人。
-79,TEXT_CLSWDK680_02444_CEMIJINJAHL_000_085,<hex:022903EB0203>，如果你決定好了要做什麼，<hex:02100103>就到我這裡來領材料吧！
-80,TEXT_CLSWDK680_02444_CEMIJINJAHL_000_086,有沒有人需要幫助……有沒有人需要幫助……<hex:02100103>……這村子的人也太少了點吧……
-81,TEXT_CLSWDK680_02444_FARMER02444_000_090,（★未使用／削除予定★）
-82,TEXT_CLSWDK680_02444_INAGARA_000_090,多瑪飛地的人比鄉下的村民要文雅多了，<hex:02100103>不知道該說他們是高傲還是高貴……<hex:02100103>總之，我覺得那裡很多人都對禮儀十分講究。
-83,TEXT_CLSWDK680_02444_WOMANYYYY_000_091,（★未使用／削除予定★）
-84,TEXT_CLSWDK680_02444_MANAZURU_000_091,嗯，我以前的確在飛地居住過。<hex:02100103>不過我受不了帝國軍的殘酷統治，所以就逃到這個村子裡來了。
-85,TEXT_CLSWDK680_02444_WOMANYYYY_000_092,（★未使用／削除予定★）
-86,TEXT_CLSWDK680_02444_MANAZURU_000_092,咦？<hex:02100103>你想知道多瑪飛地的人吃飯時是什麼樣子，<hex:02100103>所以想看我們用餐？
-87,TEXT_CLSWDK680_02444_WOMANYYYY_000_093,（★未使用／削除予定★）
-88,TEXT_CLSWDK680_02444_MANAZURU_000_093,我怎麼可能答應這麼不知廉恥的要求！
-89,TEXT_CLSWDK680_02444_FATMAN02444_000_094,（★未使用／削除予定★）
-90,TEXT_CLSWDK680_02444_SLEEPINGCOEURL_000_094,（★未使用／削除予定★）
-91,TEXT_CLSWDK680_02444_MIYAKE_000_094,我是在多瑪飛地出生的……<hex:02100103>這裡的人雖然都很好相處，但卻沒什麼禮儀。<hex:02100103>經常在路邊吃飯，在別人面前喝茶……
-92,TEXT_CLSWDK680_02444_FATMAN02444_000_095,（★未使用／削除予定★）
-93,TEXT_CLSWDK680_02444_SLEEPINGCOEURL_000_095,（★未使用／削除予定★）
-94,TEXT_CLSWDK680_02444_MIYAKE_000_095,我真想大聲告訴他們，<hex:02100103>吃飯這種事是應該跟更親密的人在安靜的地方做的。<hex:02100103>不過我膽子很小，沒有屏風之類的擋著就不敢說……
-95,TEXT_CLSWDK680_02444_COOK02444_000_096,（★未使用／削除予定★）
-96,TEXT_CLSWDK680_02444_REIZAN_000_096,你的同伴可真有精神啊……
-97,TEXT_CLSWDK680_02444_CEMIJINJAHL_000_100,<hex:022903EB0203>，如果你決定好了要做什麼，<hex:02100103>就到我這裡來領材料吧！
-98,TEXT_CLSWDK680_02444_CEMIJINJAHL_000_110,哎呀，<hex:022903EB0203>！<hex:02100103>你決定好要做什麼了嗎？
-99,TEXT_CLSWDK680_02444_Q1_000_000,要製作什麼來一決勝負？
-100,TEXT_CLSWDK680_02444_Q1_000_001,乾脆直接做一個飯店
-101,TEXT_CLSWDK680_02444_Q1_000_002,保護飯菜的木盾
-102,TEXT_CLSWDK680_02444_Q1_000_003,分隔客席的屏風
-103,TEXT_CLSWDK680_02444_CEMIJINJAHL_000_111,咦！！<hex:02100103>不但幫忙打家具，連店也一併給人家建了？！<hex:02100103>這也太豪爽了吧！！
-104,TEXT_CLSWDK680_02444_CEMIJINJAHL_000_112,需要用到盾的飯店？！<hex:02100103>吃飯的時候到底會發生什麼狀況啊……<hex:02100103>我可不想在那種地方吃飯……
-105,TEXT_CLSWDK680_02444_CEMIJINJAHL_000_113,……屏風……是嗎？<hex:02100103>不是什麼更……嗯，別具匠心的家具？
-106,TEXT_CLSWDK680_02444_CEMIJINJAHL_000_114,難、難不成<hex:022903EB0203>你……<hex:02100103>故意想要輸給我？
-107,TEXT_CLSWDK680_02444_CEMIJINJAHL_000_115,沒想到你居然會這麼做！<hex:02100103>我對自己的手藝有著絕對的自信！<hex:02100103>你沒有必要故意讓我！
-108,TEXT_CLSWDK680_02444_CEMIJINJAHL_000_116,也、也是呢……<hex:02100103><hex:022903EB0203>是一流的工匠，<hex:02100103>不可能做這種不公正的事……
-109,TEXT_CLSWDK680_02444_CEMIJINJAHL_000_117,對不起……我希望能盡快得到師父的認同，所乙太急了些……<hex:02100103>恐怕這次是向師父證明自己實力的最後機會了……<hex:02100103>如果得不到認同的話，說不定今後就再也得不到工作了吧……
-110,TEXT_CLSWDK680_02444_CEMIJINJAHL_000_118,我想快點成為合格的工匠，<hex:02100103>拯救財政困難的刻木匠公會……<hex:02100103>為此我要製作稍微複雜一些、精緻一些的高級物品……
-111,TEXT_CLSWDK680_02444_CEMIJINJAHL_000_119,……啊！不好意思！<hex:02100103>你是要製作<hex:02280DFF07>ItemHQ<hex:F245DA0103>所需要的材料是吧？
-112,TEXT_CLSWDK680_02444_CEMIJINJAHL_000_120,給！<hex:02100103>這是我用公會發給我的研究經費購買的，<hex:02100103>請不必客氣，隨便用吧！
-113,TEXT_CLSWDK680_02444_COOK02444_000_121,（★未使用／削除予定★）
-114,TEXT_CLSWDK680_02444_REIZAN_000_121,你的同伴可真有精神啊……
-115,TEXT_CLSWDK680_02444_CEMIJINJAHL_000_122,咦，材料沒了？
-116,TEXT_CLSWDK680_02444_CEMIJINJAHL_000_123,你好從容啊……<hex:02100103>像我們這種經驗不足的人，<hex:02100103>遇到這種情況都慌得不知道怎麼辦才好。
-117,TEXT_CLSWDK680_02444_CEMIJINJAHL_000_124,……不、不好意思……我現在、沒什麼時間……<hex:02100103>給你……素材，請收下吧。
-118,TEXT_CLSWDK680_02444_CEMIJINJAHL_000_125,如果東西做好了，<hex:02100103>就請交給靈山吧。
-119,TEXT_CLSWDK680_02444_COOK02444_000_130,（★未使用／削除予定★）
-120,TEXT_CLSWDK680_02444_REIZAN_000_130,哦哦，這是……
-121,TEXT_CLSWDK680_02444_BEATINE_000_131,請讓為師也看看……
-122,TEXT_CLSWDK680_02444_CEMIJINJAHL_000_132,師、師父？！
-123,TEXT_CLSWDK680_02444_BEATINE_000_133,嘻嘻嘻嘻……很漂亮的餐桌啊……<hex:02100103>完美重現了多瑪文化特有的絢麗裝飾……<hex:02100103>從中能感受到很高的水準，完全不像出自新人之手……
-124,TEXT_CLSWDK680_02444_BEATINE_000_134,接下來是<hex:022903EB0203>的作品……<hex:02100103>嚯……多漂亮的屏風啊……<hex:02100103>巧妙地活用了材料的特性，真是做得太棒了……
-125,TEXT_CLSWDK680_02444_BEATINE_000_135,原來如此……這個也是很出眾的傑作……<hex:02100103>雖然沒有奇彌製作的餐桌那樣繁複的裝飾，<hex:02100103>但卻需要非常高端的技巧才能做出來……
-126,TEXT_CLSWDK680_02444_BEATINE_000_136,我個人的評價……就是這樣……<hex:02100103>不過，作品最終的選擇權在於委託人……<hex:02100103>請你決定要收下哪一個吧……
-127,TEXT_CLSWDK680_02444_COOK02444_000_137,（★未使用／削除予定★）
-128,TEXT_CLSWDK680_02444_REIZAN_000_137,啊，好的。<hex:02100103>我從第一眼就已經決定好要選哪個了。<hex:02100103>這次的委託，我選擇的勝利者是……
-129,TEXT_CLSWDK680_02444_COOK02444_000_138,（★未使用／削除予定★）
-130,TEXT_CLSWDK680_02444_REIZAN_000_138,這邊！
-131,TEXT_CLSWDK680_02444_CEMIJINJAHL_000_139,<hex:022903EB0203>做的屏風的、的確很完美……<hex:02100103>可是……我的水平應該也不差才是！！
-132,TEXT_CLSWDK680_02444_BEATINE_000_140,……委託人，為什麼你要選擇那邊呢？
-133,TEXT_CLSWDK680_02444_COOK02444_000_141,（★未使用／削除予定★）
-134,TEXT_CLSWDK680_02444_REIZAN_000_141,這是因為……多瑪飛地的人們很討厭用餐的時候被他人看到，<hex:02100103>所以我想，如果用這扇屏風把坐席隔開，<hex:02100103>大家就可以安心享用飯菜了。
-135,TEXT_CLSWDK680_02444_COOK02444_000_142,（★未使用／削除予定★）
-136,TEXT_CLSWDK680_02444_REIZAN_000_142,那位小姑娘做的餐桌的確非常漂亮，<hex:02100103>但不管多麼豪華絢麗的餐桌，<hex:02100103>都沒有能讓客人們毫無顧慮進餐的功能。
-137,TEXT_CLSWDK680_02444_BEATINE_000_143,奇彌……<hex:02100103>你接受委託之後，是不是沒去和當地的人們交流，<hex:02100103>只顧著追求豪華且繁瑣的設計呢？
-138,TEXT_CLSWDK680_02444_BEATINE_000_144,你固執地想要證明自己的手藝，<hex:02100103>卻沒有真摯地與委託人進行心靈上的溝通……<hex:02100103>這樣是無法讓委託人滿意的……
-139,TEXT_CLSWDK680_02444_BEATINE_000_145,我想<hex:022903EB0203>一定用自己的雙腳走了很多地方，<hex:02100103>與當地的人們進行了許多交流……
-140,TEXT_CLSWDK680_02444_BEATINE_000_146,這扇屏風能讓人感覺到<hex:022903EB0203>的真心，<hex:02100103>的確是非常優秀的作品……
-141,TEXT_CLSWDK680_02444_BEATINE_000_147,好了，你們兩個學習異國文化的旅程到這裡就結束了……<hex:02100103>跟我回格里達尼亞的刻木匠公會去吧……
-142,TEXT_CLSWDK680_02444_CEMIJINJAHL_000_148,難、難道師父……要拋棄我嗎？<hex:02100103>啊，我完了……
-143,TEXT_CLSWDK680_02444_COOK02444_000_149,（★未使用／削除予定★）
-144,TEXT_CLSWDK680_02444_REIZAN_000_149,雖然我聽不太懂，但還是謝謝你幫我做的這個漂亮的屏風。<hex:02100103>我一定會開一個配得上這個屏風的飯店！
-145,TEXT_CLSWDK680_02444_CEMIJINJAHL_000_150,已經做好了嗎？<hex:02100103>那就請交給靈山吧。<hex:02100103>……我也不能再這麼心浮氣躁下去了……
-146,TEXT_CLSWDK680_02444_COOK02444_000_151,（★未使用／削除予定★）
-147,TEXT_CLSWDK680_02444_REIZAN_000_151,我的夢想就是在多瑪飛地開一家店，<hex:02100103>請助我一臂之力。
-148,TEXT_CLSWDK680_02444_CUSTOMERA02444_000_170,老師，你前陣子去哪了啊！<hex:02100103>你之前幫我做的桌子壞掉了，<hex:02100103>我不能沒有那張桌子啊……能幫我修好嗎？
-149,TEXT_CLSWDK680_02444_BEATINE_000_171,既然你這麼喜歡它，那我很樂意幫你把它修好……<hex:02100103>稍後容我前去拜訪……
-150,TEXT_CLSWDK680_02444_CUSTOMERB02444_000_172,老師，你聽我說啊！<hex:02100103>我兒子加入雙蛇黨了！<hex:02100103>我想送他一支槍作為禮物，能麻煩你幫我做嗎？
-151,TEXT_CLSWDK680_02444_BEATINE_000_173,哦……這可真是件喜事……<hex:02100103>嘻嘻嘻嘻……我一定會準備一支最棒的槍，<hex:02100103>讓令郎可以將自己的使命……貫徹到底……嘻嘻嘻嘻。
-152,TEXT_CLSWDK680_02444_CUSTOMERC02444_000_174,哎呀，我也想委託老師幫我做東西啊，<hex:02100103>不愧是貝亞坦老師，可真是太受歡迎了。
-153,TEXT_CLSWDK680_02444_CEMIJINJAHL_000_175,那個……為什麼師父<hex:02100103>這麼受大家的喜愛呢？
-154,TEXT_CLSWDK680_02444_CUSTOMERC02444_000_176,老師做的東西啊，用一下就馬上明白了，<hex:02100103>這是他為我做的東西。<hex:02100103>他總是這樣，為了別人而製作東西。
-155,TEXT_CLSWDK680_02444_CEMIJINJAHL_000_177,為了別人而製作東西……<hex:02100103>說起來……我一開始也是這樣的……
-156,TEXT_CLSWDK680_02444_CEMIJINJAHL_000_178,我家與富裕兩個字根本不沾邊，<hex:02100103>家裡甚至連家具都備不齊。
-157,TEXT_CLSWDK680_02444_CEMIJINJAHL_000_179,可就算是這樣，母親也要養活我們姐妹幾個，<hex:02100103>她一個女人不停地努力工作，撐起了這個家，<hex:02100103>但卻因此而傷到了腰。
-158,TEXT_CLSWDK680_02444_CEMIJINJAHL_000_180,我非常想幫助母親，<hex:02100103>就在很小的時候用自己全部的能力為母親做了一張安樂椅。
-159,TEXT_CLSWDK680_02444_CEMIJINJAHL_000_181,現在想想，那椅子真的做得非常拙劣，<hex:02100103>但我在做它的時候，滿腦子想的都是母親。<hex:02100103>原來是這樣……要為了某個人而製作東西啊……
-160,TEXT_CLSWDK680_02444_CEMIJINJAHL_000_182,當年的我為了能讓母親輕鬆一些，<hex:02100103>才會焦躁地希望能快點獨擋一面……<hex:02100103>那種心情大概在不知不覺之間被我丟掉了……
-161,TEXT_CLSWDK680_02444_BEATINE_000_183,既然是丟掉了，那只要再撿起來就好……
-162,TEXT_CLSWDK680_02444_BEATINE_000_184,奇彌，以一個工匠來說，你的確迷失了某些重要的東西。<hex:02100103>但是，你現在已經發現了這一點，<hex:02100103>將來的你一定會成為一名優秀的工匠……
-163,TEXT_CLSWDK680_02444_CEMIJINJAHL_000_185,師父！！<hex:02100103>是，我會努力的！！
-164,TEXT_CLSWDK680_02444_CEMIJINJAHL_000_186,我也要謝謝<hex:022903EB0203>，<hex:02100103>你一直支持著這麼不中用的我。<hex:02100103>我一定不會再迷失重要的東西了！
-165,TEXT_CLSWDK680_02444_CEMIJINJAHL_000_187,好，既然已經下定了決心，我就要開始加工木材了！<hex:02100103>奇彌·基恩加爾流派，刻木匠心得第一條！<hex:02100103>好的作品要從好的木材開始！
-166,TEXT_CLSWDK680_02444_BEATINE_000_188,我也要向你道一聲謝……<hex:02100103>我雖然很擅長講述與樹木相關的事情，卻不擅長與人交流……<hex:02100103>你為我做了個很好的榜樣……
-167,TEXT_CLSWDK680_02444_BEATINE_000_189,嘻嘻嘻嘻……那孩子一定沒問題的……<hex:02100103>如果你擔心她的話，就在回來的時候，<hex:02100103>向公會入口的她打個招呼吧……
-168,TEXT_CLSWDK680_02444_REIZAN_000_195,謝謝你們幫了我這麼多。<hex:02100103>等我的店開張了，還請過來玩啊。
-169,TEXT_CLSWDK680_02444_CEMIJINJAHL_000_200,啊，<hex:022903EB0203>！<hex:02100103>最近師父開始向我介紹委託人了！<hex:02100103>我想讓你看看脫胎換骨的我，所以請跟我一起來吧！
-170,TEXT_CLSWDK680_02444_CEMIJINJAHL_000_201,我打算趁著等委託人的時候，<hex:02100103>把遊歷異國見到的東西製作一遍，<hex:02100103>就當作是複習了！
-171,TEXT_CLSWDK680_02444_CEMIJINJAHL_000_202,嘻嘻……不是單純地製作，<hex:02100103>而是要邊想著遇到的人們邊製作……對吧！
-172,TEXT_CLSWDK680_02444_CEMIJINJAHL_000_203,嘻嘻嘻！<hex:02100103>好！鄙人奇彌·基恩加爾，要繼續努力了！！
-173,TEXT_CLSWDK680_02444_BEATINE_000_205,那孩子已經記起了對工匠來說最重要的事，<hex:02100103>她就像一株發芽的小樹苗，<hex:02100103>將來一定會長成一棵筆直的大樹……
+0,"TEXT_CLSWDK680_02444_SEQ_00","Kotokaze eagerly waves you down, letter in hand."
+1,"TEXT_CLSWDK680_02444_SEQ_01","Kotokaze stops you, saying she has a letter for you. Quickly skimming through its contents, you learn that Cemi has arrived at Namai in Yanxia without incident. While she seems to be enjoying her stay there, a great portion of what she writes is dedicated to food. Perhaps it would be best if you were to depart for Namai posthaste and remind her of the purpose of her journey there─to continue her studies on oriental furniture."
+2,"TEXT_CLSWDK680_02444_SEQ_02","While initially Cemi is unable to speak of anything but food, a stern reminder from you is all that is needed to set her back on track. Once more the two of you decide to begin searching for anyone who might be in need of help."
+3,"TEXT_CLSWDK680_02444_SEQ_03","You come across a man by the name of Reizan, who was a chef in pre-imperial Doma. As the Garleans' grip on the lands weaken, he is looking to fulfill his lifelong dream of opening a restaurant. With limited funds, however, it has been difficult for him to acquire the furniture he needs. Cemi jumps at the chance to volunteer, adding that she would like to turn this into a competition between you and her to see who can better satisfy the client. Reizan does not oppose the idea, and requests that you make something to accommodate the dining habits of both enclave and country folk. To determine exactly what that might be, he suggests you speak with the local residents."
+4,"TEXT_CLSWDK680_02444_SEQ_04","Upon speaking with the nearby citizens, you learn that people from the enclave will only dine in a private setting, as they consider it rude to do so before strangers. This information should help you to decide on a suitable item to craft for Reizan. Perhaps now would be a good time to seek out Cemi that you might discuss ideas with her and receive the necessary materials."
+5,"TEXT_CLSWDK680_02444_SEQ_05","Upon hearing that you intend to craft partitions, Cemi begins hurling accusations at you, convinced that you would never deign to create anything that simple unless you were attempting to lose on purpose. A simple explanation quickly calms her, and she apologizes. Handing you the materials you may need, she leaves you to make high-quality ornate partitions for Reizan.<hex:02100103><hex:02100103>※In the event you lose the materials or the synthesis ends in failure, you may try again by speaking with Cemi."
+6,"TEXT_CLSWDK680_02444_SEQ_06","Just as your client is about to decide on a winner, Timbermaster Beatin swoops in and begins offering his expert opinion. Though he declares that both are finely crafted, he refrains from further comment. All of you then turn your attention to Reizan. The chef declares that from the first moment, he knew your creation was the one he preferred, as it fulfills his request for something that would allow both enclave and country folk to dine in comfort. The competition now over, Beatin bids both you and Cemi return to Gridania."
+7,"TEXT_CLSWDK680_02444_SEQ_07","Over the course of her studies in the Far East, Cemi has come to realize the importance of listening to her clients and adapting her furniture to suit their wants and needs. Having this most important of lessons firmly instilled within her, Timbermaster Beatin is confident that she will become a better carpenter for it. He thanks you for inspiring his young apprentice and asks you to speak with her one last time before you leave."
+8,"TEXT_CLSWDK680_02444_SEQ_08","Cemi excitedly tells you that the timbermaster has deemed her worthy of taking on clients. While fulfilling commissions, she also plans to continue practicing making oriental furniture so as not to forget all that she learned during her stay in the Far East. It seems she looks up to you a great deal and hopes that she will one day become a master carpenter like you.<hex:02100103><hex:02100103>※The next carpenter quest will be available from Cemi upon reaching level 70."
+9,"TEXT_CLSWDK680_02444_SEQ_09",""
+10,"TEXT_CLSWDK680_02444_SEQ_10",""
+11,"TEXT_CLSWDK680_02444_SEQ_11",""
+12,"TEXT_CLSWDK680_02444_SEQ_12",""
+13,"TEXT_CLSWDK680_02444_SEQ_13",""
+14,"TEXT_CLSWDK680_02444_SEQ_14",""
+15,"TEXT_CLSWDK680_02444_SEQ_15",""
+16,"TEXT_CLSWDK680_02444_SEQ_16",""
+17,"TEXT_CLSWDK680_02444_SEQ_17",""
+18,"TEXT_CLSWDK680_02444_SEQ_18",""
+19,"TEXT_CLSWDK680_02444_SEQ_19",""
+20,"TEXT_CLSWDK680_02444_SEQ_20",""
+21,"TEXT_CLSWDK680_02444_SEQ_21",""
+22,"TEXT_CLSWDK680_02444_SEQ_22",""
+23,"TEXT_CLSWDK680_02444_SEQ_23",""
+24,"TEXT_CLSWDK680_02444_TODO_00","Speak with Cemi Jinjahl in Namai."
+25,"TEXT_CLSWDK680_02444_TODO_01","Search for troubled villagers."
+26,"TEXT_CLSWDK680_02444_TODO_02","Speak with the residents of Namai."
+27,"TEXT_CLSWDK680_02444_TODO_03","Speak with Cemi Jinjahl."
+28,"TEXT_CLSWDK680_02444_TODO_04","<hex:02086AE3E802E803FF2D>Synthesize an ornate partition <hex:02280AFF06>Addon<hex:0A0103><hex:FF35>Deliver the ornate partition <hex:02280AFF06>Addon<hex:0A0103> to Reizan<hex:03>."
+29,"TEXT_CLSWDK680_02444_TODO_05","Return to the Carpenters' Guild in Gridania."
+30,"TEXT_CLSWDK680_02444_TODO_06","Speak with Cemi Jinjahl."
+31,"TEXT_CLSWDK680_02444_TODO_07",""
+32,"TEXT_CLSWDK680_02444_TODO_08",""
+33,"TEXT_CLSWDK680_02444_TODO_09",""
+34,"TEXT_CLSWDK680_02444_TODO_10",""
+35,"TEXT_CLSWDK680_02444_TODO_11",""
+36,"TEXT_CLSWDK680_02444_TODO_12",""
+37,"TEXT_CLSWDK680_02444_TODO_13",""
+38,"TEXT_CLSWDK680_02444_TODO_14",""
+39,"TEXT_CLSWDK680_02444_TODO_15",""
+40,"TEXT_CLSWDK680_02444_TODO_16",""
+41,"TEXT_CLSWDK680_02444_TODO_17",""
+42,"TEXT_CLSWDK680_02444_TODO_18",""
+43,"TEXT_CLSWDK680_02444_TODO_19",""
+44,"TEXT_CLSWDK680_02444_TODO_20",""
+45,"TEXT_CLSWDK680_02444_TODO_21",""
+46,"TEXT_CLSWDK680_02444_TODO_22",""
+47,"TEXT_CLSWDK680_02444_TODO_23",""
+48,"TEXT_CLSWDK680_02444_KOTOKAZE_000_001","Ah, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! A letter from Cemi has just arrived for you."
+49,"TEXT_CLSWDK680_02444_CEMIJINJAHLLATTER_000_002","(-Letter from Cemi-)<hex:021A020203>Dear <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>,<hex:02100103>I am writing to tell you that I have arrived in a tiny village in Yanxia known as Namai.<hex:021A020103>"
+50,"TEXT_CLSWDK680_02444_CEMIJINJAHLLATTER_000_003","(-Letter from Cemi-)<hex:021A020203>It's such a delightful place. Every day I stumble across something new─whether it be the unusual materials they employ in their construction or the unfamiliar but delicious foods.<hex:021A020103>"
+51,"TEXT_CLSWDK680_02444_CEMIJINJAHLLATTER_000_004","(-Letter from Cemi-)<hex:021A020203>Oh, yes, the food here is exquisite, and their desserts are even better. In fact, the sugar-coated dumplings they have are simply to die for!<hex:021A020103>"
+52,"TEXT_CLSWDK680_02444_CEMIJINJAHLLATTER_000_005","(-Letter from Cemi-)<hex:021A020203>I'll be sure to treat you to some when you come. See you soon.<hex:02100103>Yours truly,<hex:02100103>Cemi<hex:021A020103>"
+53,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_010","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! How wonderful it is to see you. It's been far too long."
+54,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_011","Have you tried any of the local cuisine yet? If you haven't, I know the perfect place for us to start."
+55,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_012","I-I was planning to take you there purely to discuss business, I swear! After all, where better to do that than over food?"
+56,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_013","Gah!"
+57,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_014","All right, all right! Your disapproval has been duly noted. Instead of going for food, let us search out any people who might be in need of our assistance, then."
+58,"TEXT_CLSWDK680_02444_KOTOKAZE_000_015","Ah, the Culinarians' Guild must be extremely proud to have a member as passionate about food as Cemi. She is sure to make a fine chef one day."
+59,"TEXT_CLSWDK680_02444_COOK02444_000_020",""
+60,"TEXT_CLSWDK680_02444_REIZAN_000_020","Help? Yes, I could use some of that."
+61,"TEXT_CLSWDK680_02444_COOK02444_000_021",""
+62,"TEXT_CLSWDK680_02444_REIZAN_000_021","You see, in the days before the Empire held dominion over our lands, I was a chef. While our freedom from them is fleeting, I would nevertheless like to use this opportunity to once again pursue my passion for cooking. As such, I have been thinking to open up my own restaurant."
+63,"TEXT_CLSWDK680_02444_COOK02444_000_022",""
+64,"TEXT_CLSWDK680_02444_REIZAN_000_022","You see, in the days before the Empire held dominion over our lands, I was a chef. I hold out hope that one day, when the imperial forces are driven from our country, I will be free to pursue my passion, once more. When that time comes, I wish to start up my own restaurant."
+65,"TEXT_CLSWDK680_02444_COOK02444_000_025",""
+66,"TEXT_CLSWDK680_02444_REIZAN_000_025","To do so, I would need to procure basic furnishings for my future shop. It is not a simple task. Most of what I have come across is either far too expensive or of poor quality."
+67,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_030","Then you may be pleased to hear, sir, that before you stand two highly skilled members of the Carpenters' Guild in Gridania. We shall see that you receive the furniture you require."
+68,"TEXT_CLSWDK680_02444_COOK02444_000_045",""
+69,"TEXT_CLSWDK680_02444_REIZAN_000_045","You would do this for me?"
+70,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_050","Most certainly. What kind of furnishings do you need?"
+71,"TEXT_CLSWDK680_02444_COOK02444_000_055",""
+72,"TEXT_CLSWDK680_02444_REIZAN_000_055","Apart from tables and chairs, I need something that would allow my guests to feel at ease. Those from the enclave have different dining habits to those of us here in Namai. I would like to create an environment where both would feel equally welcome."
+73,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_060","Please, leave it to us, sir. Now, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, what do you say to making things a tad more interesting? Let's turn this into a competition."
+74,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_065","We will each make something for our client and present the finished product to him. He will then judge them and decide on a winner."
+75,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_070","Pretty, pretty please─won't you do it for me? This is the only way I can show Timbermaster Beatin I'm just as skilled as all the other carpenters in the guild."
+76,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_075","Haha! It's settled then!"
+77,"TEXT_CLSWDK680_02444_COOK02444_000_080",""
+78,"TEXT_CLSWDK680_02444_REIZAN_000_080","Go about making the furniture however you will, but I recommend you speak with the people here before getting started. Some have lived here their entire lives, others once lived in the enclave. With their help you may better understand the subtle differences in our ways."
+79,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_085","Thank you, sir, we'll be sure to do that. <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, once you've decided what you'll be making, come and find me. I'll furnish you with any materials you might need."
+80,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_086","Hello? Is there anyone out there seeking the services of a young carpenter? Anyone at all?"
+81,"TEXT_CLSWDK680_02444_FARMER02444_000_090",""
+82,"TEXT_CLSWDK680_02444_INAGARA_000_090","I would say that the people from the enclave are more elegant than us─never seen one with a hair out of place or in clothes that have not been neatly pressed. They place great importance on rules, manners, and fashion over there."
+83,"TEXT_CLSWDK680_02444_WOMANYYYY_000_091",""
+84,"TEXT_CLSWDK680_02444_MANAZURU_000_091","Yes. I suppose you could say I am from the enclave, though I have lived here for most of my life. When I was young, my family and I fled to this village that we might escape imperial troops."
+85,"TEXT_CLSWDK680_02444_WOMANYYYY_000_092",""
+86,"TEXT_CLSWDK680_02444_MANAZURU_000_092","Wh-What? You would like for me to <hex:021A020203>demonstrate<hex:021A020103> the difference in dining habits!?"
+87,"TEXT_CLSWDK680_02444_WOMANYYYY_000_093",""
+88,"TEXT_CLSWDK680_02444_MANAZURU_000_093","Hmph. I am afraid that is not something I can help you with."
+89,"TEXT_CLSWDK680_02444_FATMAN02444_000_094",""
+90,"TEXT_CLSWDK680_02444_SLEEPINGCOEURL_000_094",""
+91,"TEXT_CLSWDK680_02444_MIYAKE_000_094","The only difference is that table manners are practically nonexistent out here. The people have good hearts, but they have no sense of etiquette. They will eat their food on the streets and sip their tea in front of you!"
+92,"TEXT_CLSWDK680_02444_FATMAN02444_000_095",""
+93,"TEXT_CLSWDK680_02444_SLEEPINGCOEURL_000_095",""
+94,"TEXT_CLSWDK680_02444_MIYAKE_000_095","One should take their meals behind closed doors with family or friends. <sigh> It would be nice if they would at least eat behind a partition of some sort and spare the rest of us the sight..."
+95,"TEXT_CLSWDK680_02444_COOK02444_000_096",""
+96,"TEXT_CLSWDK680_02444_REIZAN_000_096","Your friend─she is full to the brim with energy."
+97,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_100","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, remember to come and pick up your materials from me once you've decided on what you're going to make."
+98,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_110","Ah, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! Have you finally decided on what you'll be making?"
+99,"TEXT_CLSWDK680_02444_Q1_000_000","What will you say?"
+100,"TEXT_CLSWDK680_02444_Q1_000_001","I'll be building the entire restaurant from the ground up!"
+101,"TEXT_CLSWDK680_02444_Q1_000_002","A wooden shield to protect the food from, well, you know..."
+102,"TEXT_CLSWDK680_02444_Q1_000_003","Ornate partitions that can be hung between each of the tables."
+103,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_111","Have you lost your mind? You're an amazing carpenter, but even you wouldn't be able to manage such a feat in so little time."
+104,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_112","Protect the food from what exactly? That doesn't sound like a place anyone would feel comfortable to dine at..."
+105,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_113","...Partitions? But that seems so...dull. That's not what you're <hex:021A020203>really<hex:021A020103> thinking to make is it?"
+106,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_114","...Wait! You're not trying to lose on purpose, are you?"
+107,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_115","While I know I'm not yet as good as you, never did I think that you saw me as so far beneath you that you would feel the need to do <hex:021A020203>this<hex:021A020103>..."
+108,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_116","My apologies. It seems I jumped to conclusions again. I know you're not the type of person to do something like that."
+109,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_117","It's no excuse, but lately I've been on edge. I can't shake the feeling this is my last chance to convince Timbermaster Beatin that I am a capable carpenter, worthy of being called as such. If I don't, he might stop assigning me work, and I may as well leave the guild."
+110,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_118","I shall not let it come to that! No matter what it takes, I must find a way to prove myself."
+111,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_119","Oh, I completely forgot! I'm terribly sorry. I didn't mean to blabber on about my worries. After all, you're here for materials, aren't you?"
+112,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_120","Here you are. Feel free to come back if it's not enough."
+113,"TEXT_CLSWDK680_02444_COOK02444_000_121",""
+114,"TEXT_CLSWDK680_02444_REIZAN_000_121","Is your friend always so...excitable?"
+115,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_122","You misplaced the materials I gave you? <sigh>"
+116,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_123","I guess one of the many perks of being a master carpenter is that you need not be subjected to long lectures when you lose things..."
+117,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_124","Well, here you are. Now I really must return to my work, so please do take care not to misplace your materials again."
+118,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_125","Please, take your partitions to Reizan. I'll also make my way to him shortly."
+119,"TEXT_CLSWDK680_02444_COOK02444_000_130",""
+120,"TEXT_CLSWDK680_02444_REIZAN_000_130","Hm? What have we here?"
+121,"TEXT_CLSWDK680_02444_BEATINE_000_131","Ahem. May I..."
+122,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_132","Timbermaster Beatin!"
+123,"TEXT_CLSWDK680_02444_BEATINE_000_133","This table is exquisite. It is extremely sturdy, yet manages to maintain a sleek elegance. ...And these Doman-style engravings that run up and down the sides of the legs─if I did not know better I would guess they were the work of a more practiced pair of hands than your own, Cemi."
+124,"TEXT_CLSWDK680_02444_BEATINE_000_134","Now, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, let us see yours. Ah... Simple but all the more stunning for it. The lacquer finish is a nice touch─a light gloss that is just enough to enhance the natural blush of the wood, but not overpower it."
+125,"TEXT_CLSWDK680_02444_BEATINE_000_135","While both of these are masterpieces in their own right, I will say this: the detailed engravings on the table are something even a highly skilled artisan would struggle to recreate."
+126,"TEXT_CLSWDK680_02444_BEATINE_000_136","What do you think, sir?"
+127,"TEXT_CLSWDK680_02444_COOK02444_000_137",""
+128,"TEXT_CLSWDK680_02444_REIZAN_000_137","The moment I saw it, I knew which one of these I wanted─desperately needed, even. I choose..."
+129,"TEXT_CLSWDK680_02444_COOK02444_000_138",""
+130,"TEXT_CLSWDK680_02444_REIZAN_000_138","This one!"
+131,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_139","That <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> is a better carpenter than me, I won't deny. That <hex:02080CE905FF04>she<hex:FF03>he<hex:03> has skills I could only ever dream of attaining, I'll also admit... But I...I poured my heart and soul into that table!"
+132,"TEXT_CLSWDK680_02444_BEATINE_000_140","Sir, why is it that you chose <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>'s partitions over Cemi's table?"
+133,"TEXT_CLSWDK680_02444_COOK02444_000_141",""
+134,"TEXT_CLSWDK680_02444_REIZAN_000_141","Simple, really. Doman city folk are a private sort. They would appreciate the way these wooden barriers would hide them from sight as they eat."
+135,"TEXT_CLSWDK680_02444_COOK02444_000_142",""
+136,"TEXT_CLSWDK680_02444_REIZAN_000_142","The young lady's table is magnificent─a work of art, even. However, it does not fulfill the needs of my customers like these partitions do."
+137,"TEXT_CLSWDK680_02444_BEATINE_000_143","It seems the time it took to carve the intricate detailing on this table would have been better spent interviewing the local citizens."
+138,"TEXT_CLSWDK680_02444_BEATINE_000_144","Cemi, do you understand now why it is you lost? You were so focused on demonstrating your own skill that you disregarded the needs of the client."
+139,"TEXT_CLSWDK680_02444_BEATINE_000_145","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, on the other hand, spoke with the residents of this village, which inspired <hex:02080DE905FF04>her<hex:FF04>him<hex:03> to create these partitions─a product that places the customer's needs above all else."
+140,"TEXT_CLSWDK680_02444_BEATINE_000_146","In that sense, the difference between your table and <hex:02080DE905FF04>her<hex:FF04>his<hex:03> partitions is the difference between a decent carpenter and a master of the craft."
+141,"TEXT_CLSWDK680_02444_BEATINE_000_147","That said, this is where your journey ends. I expect to see the both of you back in Gridania shortly after I return."
+142,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_148","No... No, it can't be. Please tell me Timbermaster Beatin hasn't given up on me. Oh, what am I to do?"
+143,"TEXT_CLSWDK680_02444_COOK02444_000_149",""
+144,"TEXT_CLSWDK680_02444_REIZAN_000_149","Is your friend all right? While I cannot claim to understand what any of that was about, I would like to thank you for your wonderful contribution. It is sure to suit my restaurant perfectly."
+145,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_150","You've finished? Already? Well, what are you waiting for─take it to Reizan. I'll join the two of you shortly."
+146,"TEXT_CLSWDK680_02444_COOK02444_000_151",""
+147,"TEXT_CLSWDK680_02444_REIZAN_000_151","Opening up a restaurant has always been a dream of mine. To think that it might soon be within my grasp fills me with joy beyond belief."
+148,"TEXT_CLSWDK680_02444_CUSTOMERA02444_000_170","Timbermaster Beatin, thank the Matron you've returned! The drawers of this desk you made for me are broken. Is there a chance they can be fixed?"
+149,"TEXT_CLSWDK680_02444_BEATINE_000_171","I shall see what can be done. After all, I can hardly say no to someone who has so cherished one of my creations as you have."
+150,"TEXT_CLSWDK680_02444_CUSTOMERB02444_000_172","Timbermaster Beatin, sir. My son─he's just been accepted into the Order of the Twin Adder. To celebrate, I'd like to have you craft him a fine spear."
+151,"TEXT_CLSWDK680_02444_BEATINE_000_173","Order of the Twin Adder... That is quite the accomplishment. Very well. I shall make him a one that will see him through all his battles."
+152,"TEXT_CLSWDK680_02444_CUSTOMERC02444_000_174","Wait, sir! Come back! <sigh> I also had a request for him, but I suppose it'll have to wait. I should have known getting the finest carpenter in all of Gridania to make something for you wasn't going to be an easy task."
+153,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_175","Excuse me. Um... If you don't mind my asking, why is it that all of you like Timbermaster Beatin so much?"
+154,"TEXT_CLSWDK680_02444_CUSTOMERC02444_000_176","When you ask him to make something, he creates that item for you and you alone."
+155,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_177","To make something for that person and that person alone... Thinking back, that's how I first got into carpentry."
+156,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_178","I was born into a family poorer than dirt─one where we couldn't afford to purchase even the most basic of furniture."
+157,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_179","My mother raised us by herself, working from dawn until dusk so that my sisters and I wouldn't go to bed hungry every night. As a result, she pushed herself too hard and one day, the pain in her back became too much to bear."
+158,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_180","Seeing her suffering drove me to make her an armchair in which she could rest from time to time. It was all the young me could think to do."
+159,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_181","While the finished product creaked and buckled under her weight, not for a single moment as I was making it did I lose sight of the fact that I was doing it all for her."
+160,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_182","I've been so preoccupied with myself─with trying to prove my skills─that somewhere along the way I forgot the most important thing..."
+161,"TEXT_CLSWDK680_02444_BEATINE_000_183","It is never too late to remember and begin anew..."
+162,"TEXT_CLSWDK680_02444_BEATINE_000_184","Cemi, the key to harnessing your own potential is to recognize what is holding you back. From here, you can only grow."
+163,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_185","...Yes. Yes, sir! You're absolutely right. There is still hope for me."
+164,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_186","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, thank you for supporting me until now. It is only because of you that I have come this far."
+165,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_187","In fact, I'd go so far as to say that our grand adventures together have made me feel as though I've been born again. I am looking forward to exploring the world of carpentry once more!"
+166,"TEXT_CLSWDK680_02444_BEATINE_000_188","She is not the only one who owes you a debt of gratitude. While I am skilled at working with wood, I am not nearly so adept at dealing with people and their problems. You have helped Cemi in ways I could not."
+167,"TEXT_CLSWDK680_02444_BEATINE_000_189","You are part of the reason I have such high hopes for the girl. With a mentor like you to look up to, she will no doubt flourish. That is why I ask that you speak with her one last time before you leave."
+168,"TEXT_CLSWDK680_02444_REIZAN_000_195","Thank you for all your help. If you ever come back for a visit, do be sure to stop by my new restaurant."
+169,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_200","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, you'll be happy to hear that Timbermaster Beatin has finally deemed my work good enough to begin taking on some of my own clients! Isn't it so exciting?"
+170,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_201","That's not to say I'll forget about my studies or the guild's troubles, however. In between commissions, I'll be spending my time practicing how to make oriental furniture. That way, I can retain all that I learned from our trips to Kugane and Namai."
+171,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_202","But that's not all. I'll be keeping the people we met there in mind. They'll help me to remember that I am making this furniture not for myself, but for those around me."
+172,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_203","You'll see, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. I'm going to work so hard that one day, I'll be as good as you."
+173,"TEXT_CLSWDK680_02444_BEATINE_000_205","Cemi has stumbled across the secret to becoming a true craftsman. While she may be but a seed now, it shall not be long until she begins to bud. I look forward to seeing just how she blossoms."

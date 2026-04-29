@@ -2,105 +2,105 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_GAIUSE302_01443_SEQ_00,流沙屋的阿爾菲諾想調查一件事。
-1,TEXT_GAIUSE302_01443_SEQ_01,冒險者將與阿爾菲諾一同探尋難民暴動的根本原因。和烏爾達哈恆輝作戰總部的勞班談談。
-2,TEXT_GAIUSE302_01443_SEQ_02,和勞班進行了交談。雖然城內的暴動得到了鎮壓，但各地難民紛紛揭竿而起。向恆輝作戰總部的斯威夫特正耀校詢問詳情。
-3,TEXT_GAIUSE302_01443_SEQ_03,向斯威夫特詢問了尚未發生暴動的難民區。前往中薩納蘭的無望流民街，和執勤的銅刃團衛兵談談。
-4,TEXT_GAIUSE302_01443_SEQ_04,和兩名銅刃團衛兵進行了交談。和他們所提到的無望流民街的塞塞瓦卡談談。
-5,TEXT_GAIUSE302_01443_SEQ_05,據塞塞瓦卡說，流民街的難民們被商人帶走了。和無望流民街的顫抖的男人談談。
-6,TEXT_GAIUSE302_01443_SEQ_06,顫抖的男人情緒十分不穩定，無法好好對話。對無望流民街的顫抖的男人做情感動作「安撫」。
-7,TEXT_GAIUSE302_01443_SEQ_07,男人冷靜下來後，向冒險者尋求了幫助。他的難民同伴們被商人煽動，想要發起武裝暴動。接受男人的委託，去阻止難民們。
-8,TEXT_GAIUSE302_01443_SEQ_08,
-9,TEXT_GAIUSE302_01443_SEQ_09,
-10,TEXT_GAIUSE302_01443_SEQ_10,
-11,TEXT_GAIUSE302_01443_SEQ_11,
-12,TEXT_GAIUSE302_01443_SEQ_12,
-13,TEXT_GAIUSE302_01443_SEQ_13,
-14,TEXT_GAIUSE302_01443_SEQ_14,
-15,TEXT_GAIUSE302_01443_SEQ_15,
-16,TEXT_GAIUSE302_01443_SEQ_16,
-17,TEXT_GAIUSE302_01443_SEQ_17,
-18,TEXT_GAIUSE302_01443_SEQ_18,
-19,TEXT_GAIUSE302_01443_SEQ_19,
-20,TEXT_GAIUSE302_01443_SEQ_20,
-21,TEXT_GAIUSE302_01443_SEQ_21,
-22,TEXT_GAIUSE302_01443_SEQ_22,
-23,TEXT_GAIUSE302_01443_SEQ_23,
-24,TEXT_GAIUSE302_01443_TODO_00,和勞班對話
-25,TEXT_GAIUSE302_01443_TODO_01,和斯威夫特對話
-26,TEXT_GAIUSE302_01443_TODO_02,和無望流民街的銅刃團衛兵對話
-27,TEXT_GAIUSE302_01443_TODO_03,和塞塞瓦卡對話
-28,TEXT_GAIUSE302_01443_TODO_04,和顫抖的男人對話
-29,TEXT_GAIUSE302_01443_TODO_05,對顫抖的男人做「安撫」的情感動作
-30,TEXT_GAIUSE302_01443_TODO_06,
-31,TEXT_GAIUSE302_01443_TODO_07,
-32,TEXT_GAIUSE302_01443_TODO_08,
-33,TEXT_GAIUSE302_01443_TODO_09,
-34,TEXT_GAIUSE302_01443_TODO_10,
-35,TEXT_GAIUSE302_01443_TODO_11,
-36,TEXT_GAIUSE302_01443_TODO_12,
-37,TEXT_GAIUSE302_01443_TODO_13,
-38,TEXT_GAIUSE302_01443_TODO_14,
-39,TEXT_GAIUSE302_01443_TODO_15,
-40,TEXT_GAIUSE302_01443_TODO_16,
-41,TEXT_GAIUSE302_01443_TODO_17,
-42,TEXT_GAIUSE302_01443_TODO_18,
-43,TEXT_GAIUSE302_01443_TODO_19,
-44,TEXT_GAIUSE302_01443_TODO_20,
-45,TEXT_GAIUSE302_01443_TODO_21,
-46,TEXT_GAIUSE302_01443_TODO_22,
-47,TEXT_GAIUSE302_01443_TODO_23,
-48,TEXT_GAIUSE302_01443_ALPHINAUD_000_000,你來烏爾達哈調查了啊，<hex:02100103>我也很想知道難民暴動的情況和原因……<hex:02100103>請讓我與你一同去調查。
-49,TEXT_GAIUSE302_01443_ALPHINAUD_000_001,鎮壓暴動的是恆輝隊。<hex:02100103>我們去找正在作戰總部指揮的勞班局長，<hex:02100103>向他了解一下情況。
-50,TEXT_GAIUSE302_01443_RAUBAHN_000_010,……是你啊，<hex:02100103>我們現在很忙，<hex:02100103>你要沒什麼要緊事，就一會再來找我。
-51,TEXT_GAIUSE302_01443_ALPHINAUD_000_011,在您百忙之中還來打擾您，真是過意不去，<hex:02100103>但我們想掌握一些關於暴動的正確情報。
-52,TEXT_GAIUSE302_01443_RAUBAHN_000_012,阿爾菲諾閣下……<hex:02100103>聽說你受傷了，沒什麼大礙吧？
-53,TEXT_GAIUSE302_01443_ALPHINAUD_000_013,我沒事，多虧恆輝隊迅速幫我治療，<hex:02100103>真是感激不盡。
-54,TEXT_GAIUSE302_01443_ALPHINAUD_000_014,……言歸正傳，關於剛才的暴動，<hex:02100103>作為一個被捲入的當事人，我應該有權利了解情況吧？
-55,TEXT_GAIUSE302_01443_RAUBAHN_000_015,……現階段已經鎮壓住了城裡的暴動，<hex:02100103>但因此次事件的影響，<hex:02100103>各地難民都紛紛開始揭竿而起了。
-56,TEXT_GAIUSE302_01443_RAUBAHN_000_016,雖然我們已經派恆輝隊去四處「撲滅火種」了，<hex:02100103>但目前情勢依然十分緊急。
-57,TEXT_GAIUSE302_01443_ALPHINAUD_000_017,多數難民都生活在城外的貧民窟，<hex:02100103>這麼想想，暴動的發生也算是合情合理……<hex:02100103>但不覺得一切都發生得太快了麼？
-58,TEXT_GAIUSE302_01443_ALPHINAUD_000_018,拒收多瑪難民一事煽動了他們的不安情緒，<hex:02100103>這可以想像得到。<hex:02100103>……但事情真的就這麼簡單嗎？
-59,TEXT_GAIUSE302_01443_ALPHINAUD_000_019,如果反抗政府，就更得不到救助物資了。<hex:02100103>烏爾達哈的難民們都懂這個道理，<hex:02100103>所以才在這艱苦的環境下忍耐至今。
-60,TEXT_GAIUSE302_01443_ALPHINAUD_000_020,他們有可能在毫無勝算、不做任何準備的狀況下<hex:02100103>就在各地相繼揭竿而起嗎？
-61,TEXT_GAIUSE302_01443_RAUBAHN_000_021,……你的意思是？
-62,TEXT_GAIUSE302_01443_ALPHINAUD_000_022,我擔心這次暴動，<hex:02100103>是把艾歐澤亞推向水深火熱的陰謀中的一環。
-63,TEXT_GAIUSE302_01443_RAUBAHN_000_023,感謝你的忠告，<hex:02100103>我們也會想盡一切辦法查明真相的。
-64,TEXT_GAIUSE302_01443_RAUBAHN_000_024,……現在必須要爭分奪秒，<hex:02100103>抱歉，我先回去了。
-65,TEXT_GAIUSE302_01443_ALPHINAUD_000_025,還不想告訴我們真相麼……<hex:02100103>這也不怪他，這場暴動對為政者來說，可是件生死攸關的大事。
-66,TEXT_GAIUSE302_01443_ALPHINAUD_000_026,被國民聲討的，並不是拒絕接納多瑪難民的羅羅力特等人，<hex:02100103>而是想盡方法救助難民，卻沒能阻止暴動的局長等王黨派。
-67,TEXT_GAIUSE302_01443_ALPHINAUD_000_027,此事不管是對勞班局長還是對娜娜莫陛下來說，<hex:02100103>都事關重大……
-68,TEXT_GAIUSE302_01443_ALPHINAUD_000_028,那我們也暫且單獨進行調查吧。<hex:02100103>你就好好利用自己冒險者的身份，<hex:02100103>從難民那裡多打聽一些情報。
-69,TEXT_GAIUSE302_01443_ALPHINAUD_000_029,想要和難民們交談，最好是去那些還沒發生暴動的地方。<hex:02100103>你去找恆輝隊的斯威夫特，<hex:02100103>去問問他有哪些難民區比較合適。
-70,TEXT_GAIUSE302_01443_ALPHINAUD_000_030,我正巧有點頭緒，咱們就分開行動吧。<hex:02100103>……你那邊就交給你了。
-71,TEXT_GAIUSE302_01443_SWIFT_000_040,哪裡還未發生暴動？<hex:02100103>你難道想去找難民談話嗎？
-72,TEXT_GAIUSE302_01443_SWIFT_000_041,……好吧，你立下過不少戰功，而且值得信賴，那我就告訴你吧。<hex:02100103>但你可千萬別刺激難民們，<hex:02100103>如果發現他們有異常舉動，一定要馬上向我彙報。
-73,TEXT_GAIUSE302_01443_SWIFT_000_042,提到難民眾多，且尚未發生暴動的地方，<hex:02100103>中薩納蘭的無望流民街就是其中之一。<hex:02100103>你先去那裡，問問執勤的銅刃團衛兵吧。
-74,TEXT_GAIUSE302_01443_SWIFT_000_050,提到難民眾多，且尚未發生暴動的地方，<hex:02100103>中薩納蘭的無望流民街就是其中之一。<hex:02100103>你先去那裡，問問執勤的銅刃團衛兵吧。
-75,TEXT_GAIUSE302_01443_AMALBERGA_000_060,……難民們有沒有什麼異常舉動？<hex:02100103>你是擔心這裡也發生暴動吧？
-76,TEXT_GAIUSE302_01443_AMALBERGA_000_061,這個流民街很安分。<hex:02100103>因為暴動的事，恆輝隊前一陣子剛派人來這裡視察，<hex:02100103>沒發現任何異常，所以他們都回去了。
-77,TEXT_GAIUSE302_01443_AMALBERGA_000_062,再之前……對了，那個商人又來了。<hex:02100103>最近，有個商人經常出入這裡，<hex:02100103>在這種窮兮兮的地方，到底有什麼生意可做的？
-78,TEXT_GAIUSE302_01443_AMALBERGA_000_070,這個流民街很安分。<hex:02100103>因為暴動的事，恆輝隊前一陣子剛派人來這裡視察，<hex:02100103>沒發現任何異常，所以他們都回去了。
-79,TEXT_GAIUSE302_01443_LEOFRIC_000_080,想和難民交談，這隨你的便，<hex:02100103>但現在大多數人都為了找食物和值錢的東西出門了。
-80,TEXT_GAIUSE302_01443_LEOFRIC_000_081,裡面的洞窟裡可能還有個叫塞塞瓦卡的，<hex:02100103>你去問問他吧。<hex:02100103>他還算是可以和外人交流的人了。
-81,TEXT_GAIUSE302_01443_LEOFRIC_000_082,其餘的傢伙過一會兒也該回來了……<hex:02100103>不過今天他們去的時間可真久啊……
-82,TEXT_GAIUSE302_01443_LEOFRIC_000_090,裡面的洞窟裡可能還有個叫塞塞瓦卡的，<hex:02100103>你去問問他吧。<hex:02100103>他還算是可以和外人交流的人了。
-83,TEXT_GAIUSE302_01443_TREMBLEMAN01443_000_095,嗚嗚……嗚嗚嗚……<hex:02100103>完了，這下完了……大伙……大伙……
-84,TEXT_GAIUSE302_01443_ZAZAWAKA_000_100,哇！又是恆輝隊的嗎？！<hex:02100103>不、不管你們怎麼查，我們這裡也一切正常！
-85,TEXT_GAIUSE302_01443_ZAZAWAKA_000_101,……咦？你不是上次那個，<hex:02100103>從聖阿達瑪·蘭達瑪教會給我們送驅蟲香的冒險者嗎？
-86,TEXT_GAIUSE302_01443_ZAZAWAKA_000_102,這麼巧！<hex:02100103>我們這裡遇到了件麻煩事，你來幫幫我們吧！
-87,TEXT_GAIUSE302_01443_ZAZAWAKA_000_103,<hex:02088DE1E93701FF67><hex:020863E3E93780FF3D>……你雖然是恆輝隊隊員，但不是來視察的？<hex:FF1F>原來不是恆輝隊的啊！<hex:03><hex:FF1F>原來不是恆輝隊的啊！<hex:03><hex:02100103>那能不能求你幫幫我們啊？<hex:02100103>我們這裡遇到了件麻煩事。
-88,TEXT_GAIUSE302_01443_ZAZAWAKA_000_104,是這樣的，不久前，有個商人頻繁進出我們這裡，<hex:02100103>那傢伙看起來就很可疑。<hex:02100103>每次來，他都宣洩對烏爾達哈政府的不滿。
-89,TEXT_GAIUSE302_01443_ZAZAWAKA_000_105,今天，他終於召集起了同樣心懷不滿的難民們，<hex:02100103>並把他們悄悄帶走了！<hex:02100103>在這個節骨眼上，不用我說，你也知道他們出去做什麼了！
-90,TEXT_GAIUSE302_01443_ZAZAWAKA_000_106,我想在恆輝隊有所行動之前解決了這件事。<hex:02100103>暴動一定不會成功的……<hex:02100103>只會讓我們的處境變得越來越糟糕。
-91,TEXT_GAIUSE302_01443_ZAZAWAKA_000_107,你去那帳篷後面看看，<hex:02100103>剛才被帶走的人裡，有一個不知是害怕了還是怎的，已經回來了。<hex:02100103>你去問問他，看看他們到底在預謀什麼，然後阻止他們！
-92,TEXT_GAIUSE302_01443_ZAZAWAKA_000_110,你去那帳篷後面看看，<hex:02100103>剛才被帶走的人裡，有一個不知是害怕了還是怎的，已經回來了。<hex:02100103>你去問問他，看看他們到底在預謀什麼，然後阻止他們！
-93,TEXT_GAIUSE302_01443_TREMBLEMAN01443_000_120,啊……啊……嗚嗚……<hex:02100103>不、不是的……我、我只是想讓他們知道……<hex:02100103>只是想……讓他們聽聽我們的聲音！
-94,TEXT_GAIUSE302_01443_TREMBLEMAN01443_000_121,不、不行了……抖、抖得厲害……<hex:02100103>明明不能害怕的……<hex:02100103>必須要自己安撫自己！
-95,TEXT_GAIUSE302_01443_TREMBLEMAN01443_000_130,不、不行了……抖、抖得厲害……<hex:02100103>明明不能害怕的……<hex:02100103>必須要自己安撫自己！
-96,TEXT_GAIUSE302_01443_TREMBLEMAN01443_000_131,呀！！<hex:02100103>啊……對不起……對不起！！
-97,TEXT_GAIUSE302_01443_TREMBLEMAN01443_000_132,嗚嗚……不好意思……謝謝你……<hex:02100103>多虧了你，我冷靜多了……
-98,TEXT_GAIUSE302_01443_TREMBLEMAN01443_000_133,……你猜得沒錯，<hex:02100103>我本來是想去參加暴動的。<hex:02100103>因為那個人說，只要現在反抗，以後就能過上正常人的生活了……
-99,TEXT_GAIUSE302_01443_TREMBLEMAN01443_000_134,煽動我們武裝暴動的，就是經常來這裡的那個商人。<hex:02100103>他說這是翻身的革命，還給了我們武器……<hex:02100103>我們相信了他的話，拿起了武器。
-100,TEXT_GAIUSE302_01443_TREMBLEMAN01443_000_135,但是我全目睹了！<hex:02100103>別的地區的暴動集團，沒一會就被恆輝隊鎮壓了！<hex:02100103>我很害怕……就偷偷逃回來了……
-101,TEXT_GAIUSE302_01443_TREMBLEMAN01443_000_136,你很強吧？<hex:02100103>求你去制止我的同伴們！<hex:02100103>再這樣下去……大家也許都會被殺的！
+0,"TEXT_GAIUSE302_01443_SEQ_00","Alphinaud wishes to investigate the circumstances surrounding the riot."
+1,"TEXT_GAIUSE302_01443_SEQ_01","Suspecting that the riot in which he was injured was not, in fact, a spontaneous outpouring of popular discontent, Alphinaud is eager to discuss the incident with General Raubahn. Follow him to the Hall of Flames and speak with the Flame General."
+2,"TEXT_GAIUSE302_01443_SEQ_02","During your conversation with General Raubahn, Alphinaud observes that the refugees were surprisingly well armed and suggests that the riot may have been instigated by outside forces. Before he can finish his thought, however, the Flame General interjects that the restoration of order is paramount, and that any official investigation will have to wait. Undeterred, Alphinaud resolves to conduct an investigation of his own. He suggests that you begin by finding out which settlements the Flames suspect may be harboring belligerents. Perhaps Commander Swift will be willing to share such information with you."
+3,"TEXT_GAIUSE302_01443_SEQ_03","After a moment's hesitation, Commander Swift reveals that the Brass Blades have reported suspicious activity in the vicinity of Lost Hope. Journey to the settlement in central Thanalan and investigate their claims."
+4,"TEXT_GAIUSE302_01443_SEQ_04","Leofric and Amalberga both make mention of a traveling merchant who recently left Lost Hope accompanied by a band of refugees. Apparently, another refugee by the name of Zazawaka was especially concerned by the merchant's behavior. Speak with him to learn more."
+5,"TEXT_GAIUSE302_01443_SEQ_05","You learn that the merchant was a fanatical revolutionary who came to Lost Hope in search of new recruits. Apparently, he offered the refugees a chance to hold the rulers of Ul'dah to account, and attracted no shortage of volunteers. Zazawaka, however, was unconvinced, and refused to go with the other refugees─a decision vindicated when one of them returned, traumatized by the slaughter he had barely escaped. Zazawaka believes there may be more survivors, and implores you to find them before the Flames do. Ask the terrified refugee if he knows where his comrades are."
+6,"TEXT_GAIUSE302_01443_SEQ_06","The survivor mutters to himself and does not respond to your inquiries. Clearly he is still haunted by the atrocity to which he bore witness. Were you to make an effort to /soothe his suffering, he might become more cooperative."
+7,"TEXT_GAIUSE302_01443_SEQ_07","Restored to lucidity by your soothing touch, the survivor reveals that the merchant furnished his fellows with weapons so that they might defend themselves against Ul'dahn forces, and then split them into two groups. Unfortunately for them, the survivor's group encountered an Immortal Flames patrol, who swiftly gave the refugees cause to rue their lack of training. Recalling that the other group has yet to return to Lost Hope, he begs you to seek them out and convince them to return."
+8,"TEXT_GAIUSE302_01443_SEQ_08",""
+9,"TEXT_GAIUSE302_01443_SEQ_09",""
+10,"TEXT_GAIUSE302_01443_SEQ_10",""
+11,"TEXT_GAIUSE302_01443_SEQ_11",""
+12,"TEXT_GAIUSE302_01443_SEQ_12",""
+13,"TEXT_GAIUSE302_01443_SEQ_13",""
+14,"TEXT_GAIUSE302_01443_SEQ_14",""
+15,"TEXT_GAIUSE302_01443_SEQ_15",""
+16,"TEXT_GAIUSE302_01443_SEQ_16",""
+17,"TEXT_GAIUSE302_01443_SEQ_17",""
+18,"TEXT_GAIUSE302_01443_SEQ_18",""
+19,"TEXT_GAIUSE302_01443_SEQ_19",""
+20,"TEXT_GAIUSE302_01443_SEQ_20",""
+21,"TEXT_GAIUSE302_01443_SEQ_21",""
+22,"TEXT_GAIUSE302_01443_SEQ_22",""
+23,"TEXT_GAIUSE302_01443_SEQ_23",""
+24,"TEXT_GAIUSE302_01443_TODO_00","Speak with Raubahn at the Hall of Flames."
+25,"TEXT_GAIUSE302_01443_TODO_01","Speak with Swift."
+26,"TEXT_GAIUSE302_01443_TODO_02","Speak with the Brass Blades at Lost Hope."
+27,"TEXT_GAIUSE302_01443_TODO_03","Speak with Zazawaka."
+28,"TEXT_GAIUSE302_01443_TODO_04","Speak with the terrified refugee."
+29,"TEXT_GAIUSE302_01443_TODO_05","/soothe the terrified refugee."
+30,"TEXT_GAIUSE302_01443_TODO_06",""
+31,"TEXT_GAIUSE302_01443_TODO_07",""
+32,"TEXT_GAIUSE302_01443_TODO_08",""
+33,"TEXT_GAIUSE302_01443_TODO_09",""
+34,"TEXT_GAIUSE302_01443_TODO_10",""
+35,"TEXT_GAIUSE302_01443_TODO_11",""
+36,"TEXT_GAIUSE302_01443_TODO_12",""
+37,"TEXT_GAIUSE302_01443_TODO_13",""
+38,"TEXT_GAIUSE302_01443_TODO_14",""
+39,"TEXT_GAIUSE302_01443_TODO_15",""
+40,"TEXT_GAIUSE302_01443_TODO_16",""
+41,"TEXT_GAIUSE302_01443_TODO_17",""
+42,"TEXT_GAIUSE302_01443_TODO_18",""
+43,"TEXT_GAIUSE302_01443_TODO_19",""
+44,"TEXT_GAIUSE302_01443_TODO_20",""
+45,"TEXT_GAIUSE302_01443_TODO_21",""
+46,"TEXT_GAIUSE302_01443_TODO_22",""
+47,"TEXT_GAIUSE302_01443_TODO_23",""
+48,"TEXT_GAIUSE302_01443_ALPHINAUD_000_000","As I told you before, it was all but inevitable that an incident of this kind would eventually occur given the rising tensions within the sultanate. Nevertheless, I have reason to believe that this particular riot may not have begun spontaneously."
+49,"TEXT_GAIUSE302_01443_ALPHINAUD_000_001","Have I piqued your curiosity? Good. Then you will accompany me to the Hall of Flames. I would hear what General Raubahn has to say upon the matter."
+50,"TEXT_GAIUSE302_01443_RAUBAHN_000_010","Now is not a good time, <hex:0208C7E1E93701FFAF><hex:0208ABE3E93780FF93><hex:022B7EFF7C><hex:020825E1E93501FF1D><hex:022819FF14>GCRankLimsaMaleText<hex:E9350903><hex:FF01><hex:03><hex:020828E1E93601FF20><hex:02281CFF17>GCRankGridaniaMaleText<hex:E9360903><hex:FF01><hex:03><hex:020825E1E93701FF1D><hex:022819FF14>GCRankUldahMaleText<hex:E9370903><hex:FF01><hex:03><hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303><hex:FF11><hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203><hex:03><hex:FF11><hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203><hex:03>. My hands are full dealing with the refugees."
+51,"TEXT_GAIUSE302_01443_ALPHINAUD_000_011","Precisely the matter we wish to discuss, General."
+52,"TEXT_GAIUSE302_01443_RAUBAHN_000_012","Alphinaud... Back on your feet already?"
+53,"TEXT_GAIUSE302_01443_ALPHINAUD_000_013","You may credit my swift recovery to your chirurgeons."
+54,"TEXT_GAIUSE302_01443_ALPHINAUD_000_014","My memories of the riot are still somewhat muddled. I trust you managed to regain control of the situation?"
+55,"TEXT_GAIUSE302_01443_RAUBAHN_000_015","Not entirely. We secured the city soon enough, but not before the unrest had spread to the surrounding territories. Pockets of resistance remain throughout Thanalan."
+56,"TEXT_GAIUSE302_01443_RAUBAHN_000_016","We have sent what forces we can spare to root out the last of the belligerents, but progress is slow. They are damnably elusive."
+57,"TEXT_GAIUSE302_01443_ALPHINAUD_000_017","I can well imagine. Given that the majority of refugees live outside the walls, it stands to reason that they would know the lay of the land..."
+58,"TEXT_GAIUSE302_01443_ALPHINAUD_000_018","What I do not understand is how they came to be so well prepared. Before my little accident, I observed that several of the refugees were armed─and not with butcher's knives or pitchforks, but with martial weaponry. I need hardly add that such equipment is costly."
+59,"TEXT_GAIUSE302_01443_ALPHINAUD_000_019","None can deny that tensions between the Ul'dahn citizenry and the refugee population have increased since the Domans were turned away, but would that motivate a starving man to purchase arms in lieu of food? I think not."
+60,"TEXT_GAIUSE302_01443_ALPHINAUD_000_020","And what of those who have not even a single gil to spend, who could not survive without the aid provided by the Immortal Flames? Surely they would sooner sell a weapon than bring it to bear against their benefactors."
+61,"TEXT_GAIUSE302_01443_RAUBAHN_000_021","Come to the point."
+62,"TEXT_GAIUSE302_01443_ALPHINAUD_000_022","...Very well. My point, General, is that this powder keg of discontent was not set alight by chance. These events were <hex:021A020203>deliberately<hex:021A020103> set in motion, and─"
+63,"TEXT_GAIUSE302_01443_RAUBAHN_000_023","<hex:021A020203>And now order must be restored.<hex:021A020103> That is my first duty. Until it is done, any investigation can wait."
+64,"TEXT_GAIUSE302_01443_RAUBAHN_000_024","I do not have time to discuss this. My scouts will be returning anon."
+65,"TEXT_GAIUSE302_01443_ALPHINAUD_000_025","The General is no fool. He keeps his own counsel─and with good cause."
+66,"TEXT_GAIUSE302_01443_ALPHINAUD_000_026","Were he to claim, without the necessary proof, that these riots were instigated by outside forces, the Monetarists would accuse him of attempting to shirk responsibility. After all, he and the sultana have been the most outspoken proponents of refugee aid."
+67,"TEXT_GAIUSE302_01443_ALPHINAUD_000_027","Regardless, they will face harsh criticism in the days ahead..."
+68,"TEXT_GAIUSE302_01443_ALPHINAUD_000_028","Our allies may stumble upon the truth in time, but I have far more faith in your abilities, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Therefore, I propose we conduct our own investigation, independent of the authorities."
+69,"TEXT_GAIUSE302_01443_ALPHINAUD_000_029","To that end, I would have you make inquiries in the settlements suspected of harboring belligerents. Commander Swift will know which they are. He may balk at a request for such information, but I've no doubt that you can persuade him with your silver tongue."
+70,"TEXT_GAIUSE302_01443_ALPHINAUD_000_030","I, meanwhile, shall seek answers in my own way, after which we can regroup and share our findings. Well then, shall we?"
+71,"TEXT_GAIUSE302_01443_SWIFT_000_040","You look as though you have something to say, <hex:0208C7E1E93701FFAF><hex:0208ABE3E93780FF93><hex:022B7EFF7C><hex:020825E1E93501FF1D><hex:022819FF14>GCRankLimsaMaleText<hex:E9350903><hex:FF01><hex:03><hex:020828E1E93601FF20><hex:02281CFF17>GCRankGridaniaMaleText<hex:E9360903><hex:FF01><hex:03><hex:020825E1E93701FF1D><hex:022819FF14>GCRankUldahMaleText<hex:E9370903><hex:FF01><hex:03><hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303><hex:FF11><hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203><hex:03><hex:FF11><hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203><hex:03>. Do you?"
+72,"TEXT_GAIUSE302_01443_SWIFT_000_041","What you ask is no simple favor. Were such information to fall into the wrong hands, the lives of countless soldiers would be at risk. Even so...there is wisdom in your words. An able individual<hex:02083DE1E93701FF34><hex:020830E3E93780FF27>─even one with ties to the Flames─<hex:FF02> <hex:03><hex:FF02> <hex:03>may be better suited to this task than a regiment."
+73,"TEXT_GAIUSE302_01443_SWIFT_000_042","Very well. The Brass Blades have reported suspicious activity in the vicinity of Lost Hope. It may be unrelated to recent events, but we doubt it. I suggest you begin by speaking to the Blades posted there."
+74,"TEXT_GAIUSE302_01443_SWIFT_000_050","If you mean to investigate Lost Hope before <hex:02081CE1E93701FF12><hex:02080EE3E93780FF04>our<hex:FF03>my<hex:03><hex:FF03>my<hex:03> comrades arrive, you had best do it quickly. Forces will be dispatched to the region as soon as the situation allows."
+75,"TEXT_GAIUSE302_01443_AMALBERGA_000_060","And what brings you here, adventurer? A search for refugees? Well, then you've come to the right place!"
+76,"TEXT_GAIUSE302_01443_AMALBERGA_000_061","Ah, you mean <hex:021A020203>those<hex:021A020103> refugees! Oh no, you won't find them here. Most of the people of Lost Hope have come to accept their situation, and are content to pass their days in peace and quiet."
+77,"TEXT_GAIUSE302_01443_AMALBERGA_000_062","Outsiders have trouble understanding that─like that merchant who passed through recently. Gregarious fellow, but awfully opinionated. Can't say I was sad to see him go."
+78,"TEXT_GAIUSE302_01443_AMALBERGA_000_070","There's nothing to see here, adventurer. What few troublemakers we have know better than to try anything with Leofric and myself around."
+79,"TEXT_GAIUSE302_01443_LEOFRIC_000_080","<hex:020980E947FF23>A friend of the sultanate, are we?<hex:FF23>A friend of the sultanate, are we?<hex:FF34>I didn't expect them to send you, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>.<hex:03> I take it this means someone has read my report."
+80,"TEXT_GAIUSE302_01443_LEOFRIC_000_081","The refugees who left with the merchant have yet to return, and I am increasingly concerned that Zazawaka's suspicions were correct."
+81,"TEXT_GAIUSE302_01443_LEOFRIC_000_082","...You haven't the foggiest what I'm talking about, do you? Never mind. Speak with Zazawaka. He will explain everything."
+82,"TEXT_GAIUSE302_01443_LEOFRIC_000_090","Do not judge these people too harshly. For them, every day is a struggle. Were you in their position, can you truly say you would have done otherwise?"
+83,"TEXT_GAIUSE302_01443_TREMBLEMAN01443_000_095","B-B-Blood... So much blood..."
+84,"TEXT_GAIUSE302_01443_ZAZAWAKA_000_100","Ah! Don't hurt me! I'm not one of them!"
+85,"TEXT_GAIUSE302_01443_ZAZAWAKA_000_101","Wait, I know your face. Are you not the <hex:02080FE905FF06>woman<hex:FF04>man<hex:03> from the Church of Saint Adama Landama?"
+86,"TEXT_GAIUSE302_01443_ZAZAWAKA_000_102","A thousand pardons, my friend! I mistook you for one of the thugs who have been tormenting us."
+87,"TEXT_GAIUSE302_01443_ZAZAWAKA_000_103","I beg your pardon? <hex:02087AE1E93701FF5F><hex:02085BE3E93780FF40>You're of the Flames, but you're not <hex:021A020203>with<hex:021A020103> the Flames?<hex:FF14>You're not a Flame?<hex:03><hex:FF14>You're not a Flame?<hex:03> I see..."
+88,"TEXT_GAIUSE302_01443_ZAZAWAKA_000_104","If Leofric bid you speak with me, then I take it you've agreed to help. Twelve be praised for that, because we haven't a moment to waste. Everyone knows the Flames are on the march."
+89,"TEXT_GAIUSE302_01443_ZAZAWAKA_000_105","The others have fallen under that fanatic's spell, but not I! Promises of revolution and retribution, of holding the ruling class to account and taking that which is owed─hah! A childish fantasy."
+90,"TEXT_GAIUSE302_01443_ZAZAWAKA_000_106","I did everything I could to dissuade the others from leaving, but few would heed my words. Now that one of our idealists has returned, however, the madness of the merchant's plan is plain for all to see. Look behind yonder tent and you will understand why."
+91,"TEXT_GAIUSE302_01443_ZAZAWAKA_000_107","Even now, he babbles incoherently, so traumatized is he by the bloodshed he witnessed. Try as I might, I can make little sense of his words beyond the fact that he was not alone in surviving. Yet I've no doubt that merchant will lead the remainder to their doom. I beg of you, find them before he does!"
+92,"TEXT_GAIUSE302_01443_ZAZAWAKA_000_110","The man said naught of his surviving comrades' whereabouts─naught I could understand, at least. Mayhap you will be able to extract some sense from him. I wish you good fortune."
+93,"TEXT_GAIUSE302_01443_TREMBLEMAN01443_000_120","Wh-What are you doing? Don't...don't draw. Don't draw, don't draw, don't draw─ DON'T DRAW!"
+94,"TEXT_GAIUSE302_01443_TREMBLEMAN01443_000_121","...Why didn't you run away with me? We could've escaped together. Then you'd be here, with me─be here to <hex:024804F201F403><hex:024904F201F503>soothe<hex:0249020103><hex:0248020103> me. Why...why did you have to stay and leave me alone?"
+95,"TEXT_GAIUSE302_01443_TREMBLEMAN01443_000_130","It's not f-fair. You should be here to <hex:024804F201F403><hex:024904F201F503>soothe<hex:0249020103><hex:0248020103> me. Why didn't you listen to me?"
+96,"TEXT_GAIUSE302_01443_TREMBLEMAN01443_000_131","You didn't have to stay and fight! If you hadn't, you'd be here to <hex:024804F201F403><hex:024904F201F503>soothe<hex:0249020103><hex:0248020103> me, instead of...instead of... <sob>"
+97,"TEXT_GAIUSE302_01443_TREMBLEMAN01443_000_132","Wh-Who are you? What do you want!?"
+98,"TEXT_GAIUSE302_01443_TREMBLEMAN01443_000_133","Aye, it's true. I followed the merchant, and may the gods strike me down for my folly."
+99,"TEXT_GAIUSE302_01443_TREMBLEMAN01443_000_134","“What they will not give, you must take,” he said. When we asked how, he revealed a cache of weapons he had brought and implored us to “seize control of our fates.” I thought about running then and there, but the others were so excited... He split us into two groups, sent us off on our own─"
+100,"TEXT_GAIUSE302_01443_TREMBLEMAN01443_000_135","B-But when the Flames found us, we didn't know what to do! Our leader tried to parley with theirs, but then they started arguing, and then fighting, and then everyone was fighting, and the Flames were shouting to give no quarter, and─"
+101,"TEXT_GAIUSE302_01443_TREMBLEMAN01443_000_136","Oh gods, the other group! They're still out there! If we don't stop them, they'll be massacred like mine was!"

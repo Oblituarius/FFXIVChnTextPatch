@@ -1,20 +1,20 @@
-﻿key,0
-#,
-offset,0
-int32,str
-0,
-1,尺寸
-2,角度
-3,透明度
-4,高度
-5,寬度
-6,範圍角度
-7,環形範圍
-8,顯示數量
-9,縱向數量
-10,橫向數量
-11,高度
-12,尺寸
-13,
-14,
-15,
+﻿key,0,1,2,3,4
+#,,,,,
+offset,0,4,6,8,10
+int32,str,int16,int16,int16,bit&01
+0,"",0,0,0,False
+1,"Size",100,50,200,True
+2,"Angle",0,-180,180,True
+3,"Transparency",0,0,100,True
+4,"Height",128,16,384,False
+5,"Width",128,16,512,False
+6,"Arc Angle",90,5,360,False
+7,"Donut Radius",50,0,240,False
+8,"Display Count",1,1,5,False
+9,"Vertical Count",1,1,5,False
+10,"Horizontal Count",1,1,5,False
+11,"Height",6,2,10,False
+12,"Size",50,10,200,True
+13,"",0,0,0,False
+14,"",0,0,0,False
+15,"",0,0,0,False

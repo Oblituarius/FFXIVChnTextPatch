@@ -2,136 +2,136 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_COMDEFFREECOMPANY_00076_FCSEAOFFICER_000_01,這裡是黑渦團的部隊窗口。
-1,TEXT_COMDEFFREECOMPANY_00076_FCFSTOFFICER_000_02,這裡是雙蛇黨的部隊窗口。
-2,TEXT_COMDEFFREECOMPANY_00076_FCWILOFFICER_000_03,這裡是恆輝隊的部隊窗口。
-3,TEXT_COMDEFFREECOMPANY_00076_Q1_01,有什麼事？
-4,TEXT_COMDEFFREECOMPANY_00076_A1_01,想要了解有關部隊的事情
-5,TEXT_COMDEFFREECOMPANY_00076_A1_02,想要解散部隊
-6,TEXT_COMDEFFREECOMPANY_00076_A1_03,想要轉隊
-7,TEXT_COMDEFFREECOMPANY_00076_A1_04,想要提交部隊組建書
-8,TEXT_COMDEFFREECOMPANY_00076_A1_05,想要組建部隊
-9,TEXT_COMDEFFREECOMPANY_00076_A1_06,取消
-10,TEXT_COMDEFFREECOMPANY_00076_A1_07,想要更改部隊簡稱
-11,TEXT_COMDEFFREECOMPANY_00076_A1_08,想要更改部隊名稱
-12,TEXT_COMDEFFREECOMPANY_00076_Q2_01,想了解什麼？
-13,TEXT_COMDEFFREECOMPANY_00076_A2_01,什麼是部隊
-14,TEXT_COMDEFFREECOMPANY_00076_A2_02,如何組建部隊
-15,TEXT_COMDEFFREECOMPANY_00076_A2_03,如何管理部隊成員
-16,TEXT_COMDEFFREECOMPANY_00076_A2_04,關於部隊的階級與許可權
-17,TEXT_COMDEFFREECOMPANY_00076_A2_05,如何解散部隊
-18,TEXT_COMDEFFREECOMPANY_00076_A2_06,取消
-19,TEXT_COMDEFFREECOMPANY_00076_A2_07,關於自動轉讓部隊長
-20,TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_05,部隊是冒險者之間組建的、類似傭兵團的組織。
-21,TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_06,但與一般傭兵團不同的是，<hex:02100103>部隊必須要與黑渦團、雙蛇黨或恆輝隊<hex:02100103>其中之一的大國防聯軍簽訂專屬契約。
-22,TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_07,這項制度是以5年前的第七靈災為契機制定的。<hex:02100103>當時，參加艾歐澤亞城邦軍事同盟的大國防聯軍損傷慘重，<hex:02100103>出現了大批的戰死者和失蹤者。
-23,TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_08,因此，為了能讓冒險者歸隊工作順利進行的同時，<hex:02100103>徹底對戰鬥力進行重組，所以制定了部隊制度。
-24,TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_100_08,對於大國防聯軍來說，以部隊為單位來委託任務，<hex:02100103>可以在發生特殊情況時，確保一定規模的戰鬥力，<hex:02100103>這也是這項制度最大的優點。
-25,TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_09,因為這項制度是由同盟的防禦條約審議會制定的，<hex:02100103>所以所屬不同大國防聯軍的同志們也可以一起組建部隊。
-26,TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_100_09,另外，在執行以部隊為單位的契約任務時，<hex:02100103>超越個人所屬組織的活動也是被認可的。
-27,TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_10,要想組建部隊，<hex:02100103>需要從我們這裡領取「部隊組建書」，<hex:02100103>並徵集「署名」。
-28,TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_100_10,一個人是無法組建部隊的。<hex:02100103>你需要另外徵集3名部隊初期成員，進行署名。
-29,TEXT_COMDEFFREECOMPANY_00076_FCSEAOFFICER_000_11,將署名後的部隊組建書提交給部隊管理負責人，<hex:02100103>並支付15000金幣，<hex:02100103>之後就可以作為受到承認的黑渦團專屬部隊進行活動了。
-30,TEXT_COMDEFFREECOMPANY_00076_FCFSTOFFICER_100_11,將署名後的部隊組建書提交給部隊管理負責人，<hex:02100103>並支付15000金幣，<hex:02100103>之後就可以作為受到承認的雙蛇黨專屬的部隊進行活動了。
-31,TEXT_COMDEFFREECOMPANY_00076_FCWILOFFICER_200_11,將署名後的部隊組建書提交給部隊管理負責人，<hex:02100103>並支付15000金幣，<hex:02100103>之後就可以作為受到承認的恆輝隊專屬部隊進行活動了。
-32,TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_12,任意職業達到25級時，才可以領取部隊組建書。
-33,TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_13,另外，申請組建部隊時要保證目前沒有所屬部隊，<hex:02100103>並在退出之前所屬部隊後經過了24小時（地球時間）。
-34,TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_14,在徵集「署名」時，選中想要邀請的玩家，<hex:02100103>點擊次級指令中的「邀請組成新部隊」。<hex:02100103>當對方同意後，署名便成立。
-35,TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_15,可以在快捷指令的「部隊」中，<hex:02100103>選擇「部隊組建書」進行署名情況的確認。
-36,TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_16,徵集3個署名之後，向部隊管理負責人提交部隊組建書，<hex:02100103>並支付15000金幣，這樣部隊的組建便能得到承認。
-37,TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_20,成功組建部隊後，便可以「招待」新成員，<hex:02100103>或將部隊所屬成員「除名」。
-38,TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_100_20,部隊所屬成員可以自主「退出」部隊。
-39,TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_21,只有擁有許可權的成員可以執行「招待」和「除名」。<hex:02100103>「退出」則可以憑個人意願自由進行。
-40,TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_22,選中想要邀請的對象，<hex:02100103>點擊次級指令中的「招待加入部隊」，便可以執行「招待」。<hex:02100103>對方在同意後便能夠加入部隊。
-41,TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_23,在部隊選單的成員列表中，<hex:02100103>點擊次級指令中的「從部隊中除名」，<hex:02100103>便可以執行「除名」。
-42,TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_24,招待需要有「招待隊員」的許可權，<hex:02100103>除名需要有「除名隊員」的許可權。
-43,TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_25,想要「退出」部隊時，<hex:02100103>從部隊選單的「情報」中選擇「退出」即可。
-44,TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_26,請注意：在退出部隊後，<hex:02100103>與部隊相關的機能和內容都將會處於未啟動的狀態。
-45,TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_30,為了能夠更加順利地進行部隊管理，<hex:02100103>部隊內可以設定「階級」，制定各種「許可權」。
-46,TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_31,每個部隊可以自由設定「階級」名稱和「許可權」內容。
-47,TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_32,在部隊選單的階級列表中，<hex:02100103>點擊次級指令中的「更改階級設定」，<hex:02100103>可以對階級和許可權進行更改。
-48,TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_33,另外，在部隊選單的階級列表中，<hex:02100103>點擊次級指令的「任命」，<hex:02100103>可以授予成員「階級」。
-49,TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_34,只有擁有許可權的成員可以進行階級的任命和設定。
-50,TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_35,如果想要解散部隊，<hex:02100103>則需由部隊長向大國防聯軍的部隊管理負責人進行申請。
-51,TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_36,在解散部隊時，必須要滿足以下條件。
-52,TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_37,必須要確保部隊儲物櫃為空。<hex:02100103>請從部隊儲物櫃中取出所有道具和金幣。
-53,TEXT_COMDEFFREECOMPANY_00076_SYSTEM_100_37,必須要確保部隊不擁有土地，<hex:02100103>且住宅區管理人那裡沒有代為保管的資產。
-54,TEXT_COMDEFFREECOMPANY_00076_SYSTEM_101_37,請捨棄目前擁有的土地，<hex:02100103>並回收住宅區管理人代為保管的所有資產。
-55,TEXT_COMDEFFREECOMPANY_00076_SYSTEM_102_37,必須要確保部隊中只有部隊長1人。
-56,TEXT_COMDEFFREECOMPANY_00076_SYSTEM_103_37,請對其他成員進行除名，或在其他成員退出後執行。
-57,TEXT_COMDEFFREECOMPANY_00076_SYSTEM_999_37,在滿足上述條件後，<hex:02100103>和大國防聯軍的部隊管理負責人對話，<hex:02100103>便可以執行部隊的解散。
-58,TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_38,另外請注意：部隊在解散後，<hex:02100103>與部隊相關的所有記錄都會被刪除。
-59,TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_40,請注意：部隊在解散後，<hex:02100103>與部隊相關的所有記錄都會被刪除。
-60,TEXT_COMDEFFREECOMPANY_00076_Q3_01,真的要解散部隊嗎？
-61,TEXT_COMDEFFREECOMPANY_00076_A3_01,是
-62,TEXT_COMDEFFREECOMPANY_00076_A3_02,否
-63,TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_45,部隊中只有部隊長1人時才能進行解散。
-64,TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_46,請對其他成員進行除名，或在其他成員退出後，<hex:02100103>在滿足解散條件的情況下，<hex:02100103>再和所屬大國防聯軍的部隊管理負責人對話。
-65,TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_47,要想解散部隊，<hex:02100103>就必須要確保部隊儲物櫃中沒有任何道具和金幣。
-66,TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_48,請從部隊儲物櫃中取出所有道具和金幣後，<hex:02100103>再和所屬大國防聯軍的部隊管理負責人對話。
-67,TEXT_COMDEFFREECOMPANY_00076_SYSTEM_100_48,要想解散部隊，<hex:02100103>就必須要確保部隊擁有的土地已廢棄。
-68,TEXT_COMDEFFREECOMPANY_00076_SYSTEM_101_48,請在捨棄擁有的土地之後，<hex:02100103>再和所屬大國防聯軍的部隊管理負責人對話。
-69,TEXT_COMDEFFREECOMPANY_00076_SYSTEM_102_48,要想解散部隊，<hex:02100103>就必須要確保住宅區管理人那裡，<hex:02100103>沒有代為保管的已拆除的房屋裝潢配件。
-70,TEXT_COMDEFFREECOMPANY_00076_SYSTEM_103_48,請收回由住宅區管理人保管的已拆除的房屋裝潢配件後，<hex:02100103>再和所屬大國防聯軍的部隊管理負責人對話。
-71,TEXT_COMDEFFREECOMPANY_00076_FCSEAOFFICER_000_50,這份組建書不是由黑渦團發行的。<hex:02100103>請將組建書交給發行城邦的部隊管理負責人。
-72,TEXT_COMDEFFREECOMPANY_00076_FCFSTOFFICER_100_50,這份組建書不是由雙蛇黨發行的。<hex:02100103>請將組建書交給發行城邦的部隊管理負責人。
-73,TEXT_COMDEFFREECOMPANY_00076_FCWILOFFICER_200_50,這份組建書不是由恆輝隊發行的。<hex:02100103>請將組建書交給發行城邦的部隊管理負責人。
-74,TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_51,看樣子你已經集齊署名了。<hex:02100103>組建部隊還需要15000金幣。<hex:02100103>你要支付這筆費用，組建部隊嗎？
-75,TEXT_COMDEFFREECOMPANY_00076_Q4_01,要支付15000金幣，組建部隊嗎？
-76,TEXT_COMDEFFREECOMPANY_00076_A4_01,是
-77,TEXT_COMDEFFREECOMPANY_00076_A4_02,否
-78,TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_55,恭喜你！<hex:02100103>你組建的部隊已經得到了認可！
-79,TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_100_55,作為建立紀念，<hex:02100103>賦予你使用部隊儲物櫃的權利！
-80,TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_150_55,部隊成員可以通過部隊儲物櫃來共同使用道具和金幣。<hex:02100103>和部隊成員一起制定好規則後進行活用吧！
-81,TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_56,請你積極地去徵集成員，擴大你的部隊吧。<hex:02100103>期待你能有出色的表現！
-82,TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_60,哎呀……你徵集到的署名還沒有達到組建部隊所需要的人數。<hex:02100103>請徵集3個人的署名後再來。
-83,TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_61,哎呀……你身上的錢貌似不夠啊。<hex:02100103>請確認所持金幣的數量後，再來找我吧。
-84,TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_65,未實裝項目
-85,TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_70,你已經有所屬的部隊了。<hex:02100103>在已有所屬部隊的狀態下是無法組建新部隊的。
-86,TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_71,只有在不屬於任何部隊，<hex:02100103>並在退出部隊經過24小時（地球時間）後才可以組建新部隊。
-87,TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_75,非常抱歉，你退出之前的部隊後，還未經過24小時。<hex:02100103>請過會兒再來吧。
-88,TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_76,只有在不屬於任何部隊，<hex:02100103>並在退出部隊經過24小時（地球時間）後才可以組建新部隊。
-89,TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_80,那麼，就將這份部隊組建書交給你。<hex:02100103>首先，請決定部隊的「名稱」和「簡稱」。<hex:02100103>兩者在之後均可進行修改。
-90,TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_81,一個人是無法組建部隊的。<hex:02100103>你需要另外徵集3名部隊初期成員，進行署名。
-91,TEXT_COMDEFFREECOMPANY_00076_FCSEAOFFICER_000_82,將署名後的部隊組建書提交給部隊管理負責人，<hex:02100103>並支付15000金幣，<hex:02100103>之後就可以作為受到承認的黑渦團專屬部隊進行活動了。
-92,TEXT_COMDEFFREECOMPANY_00076_FCFSTOFFICER_100_82,將署名後的部隊組建書提交給部隊管理負責人，<hex:02100103>並支付15000金幣，<hex:02100103>之後就可以作為受到承認的雙蛇黨專屬部隊進行活動了。
-93,TEXT_COMDEFFREECOMPANY_00076_FCWILOFFICER_200_82,將署名後的部隊組建書提交給部隊管理負責人，<hex:02100103>並支付15000金幣，<hex:02100103>之後就可以作為受到承認的恆輝隊專屬部隊進行活動了。
-94,TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_83,在徵集「署名」時，選中想要邀請的玩家，<hex:02100103>點擊次級指令中的「邀請組成新部隊」。<hex:02100103>當對方同意後，署名便成立。
-95,TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_84,可以在快捷指令的「部隊」中，<hex:02100103>選擇「部隊組建書」進行署名情況的確認。
-96,TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_85,非常抱歉，你作為冒險者的經驗還不足以來組建部隊。<hex:02100103>請繼續磨練本領後再來。
-97,TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_86,任意職業達到25級時，<hex:02100103>才可以申請組建部隊、領取部隊組建書。
-98,TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_90,那麼，請決定部隊的簡稱。
-99,TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_95,部隊原本就隸屬於<hex:020924E802FF0A>黑渦團<hex:FF0A>雙蛇黨<hex:FF0A>恆輝隊<hex:03>啊。<hex:02100103>如果想要轉移到其他大國防聯軍，<hex:02100103>那麼請和該大國防聯軍的部隊管理負責人對話。
-100,TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_96,看上去部隊才剛剛轉籍不久啊，<hex:02100103>請過段時間再來吧。
-101,TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_97,必須要經過24小時（地球時間）後才可再次辦理轉籍。
-102,TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_98,轉籍後與原大國防聯軍的友好度就會下降，<hex:02100103>不過其他參數、資產、權利和狀態保持不變。
-103,TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_99,轉籍後經過24小時（地球時間）才可再次進行轉籍。
-104,TEXT_COMDEFFREECOMPANY_00076_Q5_01,要支付15000金幣的轉籍費用，<hex:02100103>轉到<hex:020924E802FF0A>黑渦團<hex:FF0A>雙蛇黨<hex:FF0A>恆輝隊<hex:03>嗎？
-105,TEXT_COMDEFFREECOMPANY_00076_A5_01,是
-106,TEXT_COMDEFFREECOMPANY_00076_A5_02,否
-107,TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_100,那麼，請決定部隊的新名稱。
-108,TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_98,部隊的名稱一經更改，<hex:02100103>必須要經過30天（地球時間）後才可再次更改，敬請注意。
-109,TEXT_COMDEFFREECOMPANY_00076_UI_01,輸入部隊名介面
-110,TEXT_COMDEFFREECOMPANY_00076_UI_02,請輸入名稱和簡稱
-111,TEXT_COMDEFFREECOMPANY_00076_UI_03,名稱和簡稱中可以使用漢字、字母、數字以及下列符號。
-112,TEXT_COMDEFFREECOMPANY_00076_UI_04,"‘ . , : ; ! ? & - _ ·"
-113,TEXT_COMDEFFREECOMPANY_00076_UI_05,·空格與下劃線無法連續使用。<hex:02100103>·空格無法用在開頭和結尾。<hex:02100103>·無法使用純符號作為名稱。<hex:02100103>
-114,TEXT_COMDEFFREECOMPANY_00076_UI_06,部隊名
-115,TEXT_COMDEFFREECOMPANY_00076_UI_08,簡稱
-116,TEXT_COMDEFFREECOMPANY_00076_UI_50,請輸入部隊簡稱
-117,TEXT_COMDEFFREECOMPANY_00076_UI_51,部隊簡稱
-118,TEXT_COMDEFFREECOMPANY_00076_UI_52,簡稱中可以使用漢字、字母、數字以及下列符號。
-119,TEXT_COMDEFFREECOMPANY_00076_UI_53,"‘ . , : ; ! ? & - _ ·"
-120,TEXT_COMDEFFREECOMPANY_00076_UI_54,·空格與下劃線無法連續使用。<hex:02100103>·空格無法用在開頭和結尾。<hex:02100103>·無法使用純符號作為名稱。<hex:02100103>
-121,TEXT_COMDEFFREECOMPANY_00076_UI_70,請輸入部隊名稱
-122,TEXT_COMDEFFREECOMPANY_00076_UI_71,部隊名稱
-123,TEXT_COMDEFFREECOMPANY_00076_UI_72,名稱中可以使用漢字、字母、數字以及下列符號。
-124,TEXT_COMDEFFREECOMPANY_00076_UI_73,"‘ . , : ; ! ? & - _ ·"
-125,TEXT_COMDEFFREECOMPANY_00076_UI_74,·空格與下劃線無法連續使用。<hex:02100103>·空格無法用在開頭和結尾。<hex:02100103>·無法使用純符號作為名稱。<hex:02100103>
-126,TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_105,在特定條件下，部隊長階級可以自動轉讓給部隊成員。
-127,TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_106,部隊長階級的角色被刪除，<hex:02100103>或是35天（地球時間）未登入原始伺服器時，<hex:02100103>部隊長階級會自動轉讓給其他的成員。
-128,TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_107,另外，接任部隊長階級的成員以以下標準來選定。
-129,TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_108,1.階級序列最高。<hex:02100103>2.加入時間最早。
-130,TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_109,另外，接任部隊長階級的成員需要以下條件。
-131,TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_110,1.地球時間7天內登入過遊戲。<hex:02100103>2.地球時間加入遊戲超過30天。
-132,TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_111,如果沒有滿足條件的成員，<hex:02100103>不會進行部隊長階級的自動接任，<hex:02100103>部隊由此解散。
+0,"TEXT_COMDEFFREECOMPANY_00076_FCSEAOFFICER_000_01","Greetings, adventurer. I am the Maelstrom officer charged with assisting the Order of Independent Companies─or the free companies, as they are commonly known. How may I serve you this day?"
+1,"TEXT_COMDEFFREECOMPANY_00076_FCFSTOFFICER_000_02","Greetings, adventurer. I am the Twin Adder officer charged with assisting the Order of Independent Companies─or the free companies, as they are commonly known. How may I serve you this day?"
+2,"TEXT_COMDEFFREECOMPANY_00076_FCWILOFFICER_000_03","Greetings, adventurer. I am the Immortal Flames officer charged with assisting the Order of Independent Companies─or the free companies, as they are commonly known. How may I serve you this day?"
+3,"TEXT_COMDEFFREECOMPANY_00076_Q1_01","What would you like to do?"
+4,"TEXT_COMDEFFREECOMPANY_00076_A1_01","Learn about free companies."
+5,"TEXT_COMDEFFREECOMPANY_00076_A1_02","Disband free company."
+6,"TEXT_COMDEFFREECOMPANY_00076_A1_03","Change free company allegiance."
+7,"TEXT_COMDEFFREECOMPANY_00076_A1_04","Submit free company petition."
+8,"TEXT_COMDEFFREECOMPANY_00076_A1_05","Found a free company."
+9,"TEXT_COMDEFFREECOMPANY_00076_A1_06","Nothing."
+10,"TEXT_COMDEFFREECOMPANY_00076_A1_07","Change company tag."
+11,"TEXT_COMDEFFREECOMPANY_00076_A1_08","Change company name."
+12,"TEXT_COMDEFFREECOMPANY_00076_Q2_01","What would you like to ask about?"
+13,"TEXT_COMDEFFREECOMPANY_00076_A2_01","Defining a free company."
+14,"TEXT_COMDEFFREECOMPANY_00076_A2_02","Founding a free company."
+15,"TEXT_COMDEFFREECOMPANY_00076_A2_03","Managing company members."
+16,"TEXT_COMDEFFREECOMPANY_00076_A2_04","Hierarchy and authority."
+17,"TEXT_COMDEFFREECOMPANY_00076_A2_05","Disbanding a free company."
+18,"TEXT_COMDEFFREECOMPANY_00076_A2_06","Nothing."
+19,"TEXT_COMDEFFREECOMPANY_00076_A2_07","Automatic transfer of the master rank."
+20,"TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_05","Free companies can be described as mercenary groups formed of adventurers."
+21,"TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_06","They are unique in that they operate under the aegis of the Grand Companies of Eorzea."
+22,"TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_07","The system of free companies was established some five years ago, in the wake of the Calamity."
+23,"TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_08","Having suffered tremendous casualties, the Grand Companies sought to consolidate their strength through the sanctioning of mercenary groups."
+24,"TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_100_08","Unlike individual adventurers and freelancers, such groups guarantee that the Grand Companies have access to sufficient manpower when it is needed."
+25,"TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_09","As the system falls within the provisions of the Eorzean Alliance, free companies transcend political boundaries."
+26,"TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_100_09","To wit, adventurers enlisted with different Grand Companies may come together to found a free company. Likewise, tasks which are contracted out by a Grand Company can be undertaken by all members of a free company regardless of individual allegiance."
+27,"TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_10","In order to found a free company, you must submit a free company petition. Blank petitions are issued here upon request."
+28,"TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_100_10","Next, you must have the petition signed by the three individuals who will form the company's core membership."
+29,"TEXT_COMDEFFREECOMPANY_00076_FCSEAOFFICER_000_11","Once you have done so, please return here with the completed petition. If the paperwork is in order, I will ask you to pay the 15,000-gil registration fee, after which your free company will be sanctioned by the Maelstrom."
+30,"TEXT_COMDEFFREECOMPANY_00076_FCFSTOFFICER_100_11","Once you have done so, please return here with the completed petition. If the paperwork is in order, I will ask you to pay the 15,000-gil registration fee, after which your free company will be sanctioned by the Order of the Twin Adder."
+31,"TEXT_COMDEFFREECOMPANY_00076_FCWILOFFICER_200_11","Once you have done so, please return here with the completed petition. If the paperwork is in order, I will ask you to pay the 15,000-gil registration fee, after which your free company will be sanctioned by the Immortal Flames."
+32,"TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_12","In order to be issued a free company petition, you must have at least one class at level 25 or above."
+33,"TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_13","Furthermore, you cannot presently belong to a free company, or have belonged to one within the past 24 hours (Earth time)."
+34,"TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_14","To request a player to sign the petition, target a player and select <hex:024804F201F403><hex:024904F201F503>Invite to New Company<hex:0249020103><hex:0248020103> from the subcommand menu."
+35,"TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_15","To review the progress of your petition, select <hex:024804F201F403><hex:024904F201F503>Free Company<hex:0249020103><hex:0248020103> under <hex:024804F201F403><hex:024904F201F503>Social<hex:0249020103><hex:0248020103> from the main menu, followed by <hex:024804F201F403><hex:024904F201F503>Free Company Petition<hex:0249020103><hex:0248020103>."
+36,"TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_16","Once you have gathered three signatures, submit the petition to the OIC administrator and pay the 15,000-gil registration fee. Your free company will then be approved."
+37,"TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_20","Once your free company has been founded, you may <hex:024804F201F403><hex:024904F201F503>invite<hex:0249020103><hex:0248020103> more adventurers to join your company as well as <hex:024804F201F403><hex:024904F201F503>discharge<hex:0249020103><hex:0248020103> existing members."
+38,"TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_100_20","Individual members are also at liberty to <hex:024804F201F403><hex:024904F201F503>leave<hex:0249020103><hex:0248020103> the company if they so desire."
+39,"TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_21","Please note that only certain members have the authority to invite or discharge people. On the other hand, anyone may choose to leave the company."
+40,"TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_22","To invite a player to join your company, target a player and select <hex:024804F201F403><hex:024904F201F503>Invite to Company<hex:0249020103><hex:0248020103> from the subcommand menu. If your invitation is accepted, the player will become a member of your company."
+41,"TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_23","To discharge a member from your company, first access the member list in the <hex:024804F201F403><hex:024904F201F503>Free Company<hex:0249020103><hex:0248020103> interface. Next, select the member's name, followed by <hex:024804F201F403><hex:024904F201F503>Discharge<hex:0249020103><hex:0248020103> from the subcommand menu."
+42,"TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_24","Special authority is required to invite players and/or discharge members."
+43,"TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_25","To leave a company, access the member list in the <hex:024804F201F403><hex:024904F201F503>Free Company<hex:0249020103><hex:0248020103> interface and then select <hex:024804F201F403><hex:024904F201F503>Leave<hex:0249020103><hex:0248020103>."
+44,"TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_26","Please be warned: once you leave a company, you will no longer have access to company-related features and content."
+45,"TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_30","In order to ensure the smooth running of free companies, a hierarchy system has been established which allows the granting of special authorities."
+46,"TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_31","Each company is at liberty to determine its own titles and the authority associated with them."
+47,"TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_32","To adjust settings pertaining to hierarchy and authority, access the hierarchy list in the <hex:024804F201F403><hex:024904F201F503>Free Company<hex:0249020103><hex:0248020103> interface and then select <hex:024804F201F403><hex:024904F201F503>Hierarchy Settings<hex:0249020103><hex:0248020103>."
+48,"TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_33","To assign rank to a member, first access the member list in the <hex:024804F201F403><hex:024904F201F503>Free Company<hex:0249020103><hex:0248020103> interface. Next, select the member's name, followed by <hex:024804F201F403><hex:024904F201F503>Promote/Demote<hex:0249020103><hex:0248020103> from the subcommand menu."
+49,"TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_34","Special authority is required to adjust hierarchy settings."
+50,"TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_35","If you wish to disband your company, speak with an OIC administrator after clearing your roster of all other members. Please note that this request can only be made by the company's master."
+51,"TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_36","A company can only be disbanded under the following conditions:"
+52,"TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_37","The company chest must be completely empty. All items and gil must be removed."
+53,"TEXT_COMDEFFREECOMPANY_00076_SYSTEM_100_37","The company must own no land. Any deeds held by the company must be relinquished."
+54,"TEXT_COMDEFFREECOMPANY_00076_SYSTEM_101_37","In the event that a company estate was demolished, all items stored for safekeeping by the resident caretaker must be claimed."
+55,"TEXT_COMDEFFREECOMPANY_00076_SYSTEM_102_37","The company master must be the sole member remaining. All other members must leave or be discharged."
+56,"TEXT_COMDEFFREECOMPANY_00076_SYSTEM_103_37","Once these conditions have been met, the company master may disband the company."
+57,"TEXT_COMDEFFREECOMPANY_00076_SYSTEM_999_37","To initiate the process, speak with an OIC administrator."
+58,"TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_38","Please be warned: once a company is disbanded, all records pertaining to it will be lost."
+59,"TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_40","So you wish to disband your company? Very well, but I must give you fair warning that all records pertaining to its activities will be destroyed. It is simply a matter of good housekeeping."
+60,"TEXT_COMDEFFREECOMPANY_00076_Q3_01","Are you certain you wish to disband your free company?"
+61,"TEXT_COMDEFFREECOMPANY_00076_A3_01","Yes"
+62,"TEXT_COMDEFFREECOMPANY_00076_A3_02","No"
+63,"TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_45","A company can only be disbanded by its master, and only when he or she is the sole member remaining."
+64,"TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_46","Please discharge all your members or request that they leave the company, then speak with an OIC administrator."
+65,"TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_47","A company cannot be disbanded while there are still items or gil remaining in the company chest."
+66,"TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_48","Empty the chest and then speak with an OIC administrator."
+67,"TEXT_COMDEFFREECOMPANY_00076_SYSTEM_100_48","A company cannot be disbanded while it still retains ownership of land."
+68,"TEXT_COMDEFFREECOMPANY_00076_SYSTEM_101_48","Relinquish all deeds held by the company and then speak with an OIC administrator."
+69,"TEXT_COMDEFFREECOMPANY_00076_SYSTEM_102_48","A company cannot be disbanded while its property is still being held by a resident caretaker."
+70,"TEXT_COMDEFFREECOMPANY_00076_SYSTEM_103_48","Retrieve all property being held by resident caretakers and then speak with an OIC administrator."
+71,"TEXT_COMDEFFREECOMPANY_00076_FCSEAOFFICER_000_50","Your petition was not issued by the Maelstrom. I'm afraid I cannot assist you."
+72,"TEXT_COMDEFFREECOMPANY_00076_FCFSTOFFICER_100_50","Your petition was not issued by the Order of the Twin Adder. I'm afraid I cannot assist you."
+73,"TEXT_COMDEFFREECOMPANY_00076_FCWILOFFICER_200_50","Your petition was not issued by the Immortal Flames. I'm afraid I cannot assist you."
+74,"TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_51","The paperwork appears in order. This leaves only the registration fee of 15,000 gil."
+75,"TEXT_COMDEFFREECOMPANY_00076_Q4_01","Pay 15,000 gil and found a free company?"
+76,"TEXT_COMDEFFREECOMPANY_00076_A4_01","Yes"
+77,"TEXT_COMDEFFREECOMPANY_00076_A4_02","No"
+78,"TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_55","It is my pleasure to declare you master of your own fully sanctioned free company!"
+79,"TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_100_55","May it swell with members and be ever bursting with activity!"
+80,"TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_150_55","Please accept this chest as a gift from the Order of Independent Companies."
+81,"TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_56","How you or your company members use it is entirely up to you!"
+82,"TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_60","Alas, it appears you do not have enough signatories. Please gather the three required signatures, and submit your petition again."
+83,"TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_61","Alas, it appears you did not bring enough gil for the registration fee. Please return here again once you have sufficient funds."
+84,"TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_65","Textless"
+85,"TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_70","Our records indicate that you already belong to a free company. I'm afraid you do not qualify to found one of your own."
+86,"TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_71","In order to found a free company, you cannot presently belong to a free company, or have belonged to one within the past 24 hours (Earth time)."
+87,"TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_75","Our records indicate that you have only recently left a free company. I must ask that you wait a while longer."
+88,"TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_76","In order to found a free company, you cannot presently belong to a free company, or have belonged to one within the past 24 hours (Earth time)."
+89,"TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_80","Then I shall issue you a blank petition. So as to avoid complications later on, we ask that you now nominate a name and tag for your company. Please note that, if you should find the name or tag to your disliking at a later date, they may be changed if you so desire."
+90,"TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_81","Very good. Now then, you must have the petition signed by the three individuals who will form the company's core membership."
+91,"TEXT_COMDEFFREECOMPANY_00076_FCSEAOFFICER_000_82","Once you have done so, please return here with the completed petition. If the paperwork is in order, I will ask you to pay the 15,000-gil registration fee, after which your free company will be sanctioned by the Maelstrom."
+92,"TEXT_COMDEFFREECOMPANY_00076_FCFSTOFFICER_100_82","Once you have done so, please return here with the completed petition. If the paperwork is in order, I will ask you to pay the 15,000-gil registration fee, after which your free company will be sanctioned by the Order of the Twin Adder."
+93,"TEXT_COMDEFFREECOMPANY_00076_FCWILOFFICER_200_82","Once you have done so, please return here with the completed petition. If the paperwork is in order, I will ask you to pay the 15,000-gil registration fee, after which your free company will be sanctioned by the Immortal Flames."
+94,"TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_83","To request a player to sign the petition, target a player and select <hex:024804F201F403><hex:024904F201F503>Invite to New Company<hex:0249020103><hex:0248020103> from the subcommand menu."
+95,"TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_84","To review the progress of your petition, select <hex:024804F201F403><hex:024904F201F503>Free Company<hex:0249020103><hex:0248020103> under <hex:024804F201F403><hex:024904F201F503>Social<hex:0249020103><hex:0248020103> from the main menu, followed by <hex:024804F201F403><hex:024904F201F503>Free Company Petition<hex:0249020103><hex:0248020103>."
+96,"TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_85","In the best interests of safety, only those with proven leadership are permitted to found free companies. I'm afraid you do not yet qualify in this regard."
+97,"TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_86","In order to be issued a free company petition, you must have at least one class at level 25 or above."
+98,"TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_90","Please decide on a company tag."
+99,"TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_95","Your company has already pledged its allegiance to the <hex:020938E802FF0A>Maelstrom<hex:FF18>Order of the Twin Adder<hex:FF10>Immortal Flames<hex:03>. If you wish to change your company's allegiance, speak with that Grand Company's OIC administrator."
+100,"TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_96","Your company only but recently changed allegiances. Perhaps you should wait and see if this is truly a decision worth making at this juncture."
+101,"TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_97","Twenty-four hours (Earth time) must pass before you will be allowed to change Grand Company allegiance."
+102,"TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_98","By revoking your allegiance to a Grand Company, your standing with that company will drop, but you will retain all items, actions, and authorizations earned."
+103,"TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_99","Please note that once you have switched allegiances, you may not do so again for twenty-four hours (Earth time)."
+104,"TEXT_COMDEFFREECOMPANY_00076_Q5_01","Pay the 15,000-gil fee to switch your company's allegiance to the <hex:020938E802FF0A>Maelstrom<hex:FF18>Order of the Twin Adder<hex:FF10>Immortal Flames<hex:03>?"
+105,"TEXT_COMDEFFREECOMPANY_00076_A5_01","Yes"
+106,"TEXT_COMDEFFREECOMPANY_00076_A5_02","No"
+107,"TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_100","You are well within your rights to change your free company's name─provided you have not done so recently."
+108,"TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_98","Please note that once you have changed your free company's name, you may not do so again for thirty days (Earth time)."
+109,"TEXT_COMDEFFREECOMPANY_00076_UI_01","Free Company Name"
+110,"TEXT_COMDEFFREECOMPANY_00076_UI_02","Enter free company name and tag."
+111,"TEXT_COMDEFFREECOMPANY_00076_UI_03","Names and tags must be formed from alphanumeric characters. The following punctuation marks are also allowed:"
+112,"TEXT_COMDEFFREECOMPANY_00076_UI_04","'<hex:021D0103>. , : ; ! ? & - _"
+113,"TEXT_COMDEFFREECOMPANY_00076_UI_05","• Double spaces/underscores are not allowed.<hex:02100103>• A space cannot be used before or after the name.<hex:02100103>• Names consisting solely of punctuation marks are prohibited."
+114,"TEXT_COMDEFFREECOMPANY_00076_UI_06","Company Name"
+115,"TEXT_COMDEFFREECOMPANY_00076_UI_08","Company Tag"
+116,"TEXT_COMDEFFREECOMPANY_00076_UI_50","Enter free company tag."
+117,"TEXT_COMDEFFREECOMPANY_00076_UI_51","Company Tag"
+118,"TEXT_COMDEFFREECOMPANY_00076_UI_52","Tags must be formed from alphanumeric characters. The following punctuation marks are also allowed:"
+119,"TEXT_COMDEFFREECOMPANY_00076_UI_53","'<hex:021D0103>. , : ; ! ? & - _"
+120,"TEXT_COMDEFFREECOMPANY_00076_UI_54","• Double spaces/underscores are not allowed.<hex:02100103>• A space cannot be used before or after the name.<hex:02100103>• Names consisting solely of punctuation marks are prohibited."
+121,"TEXT_COMDEFFREECOMPANY_00076_UI_70","Rename your free company."
+122,"TEXT_COMDEFFREECOMPANY_00076_UI_71","Free Company Name"
+123,"TEXT_COMDEFFREECOMPANY_00076_UI_72","Names and tags must be formed from alphanumeric characters. The following punctuation marks are also allowed:"
+124,"TEXT_COMDEFFREECOMPANY_00076_UI_73","'<hex:021D0103>. , : ; ! ? & - _"
+125,"TEXT_COMDEFFREECOMPANY_00076_UI_74","• Double spaces/underscores are not allowed.<hex:02100103>• A space cannot be used before or after the name.<hex:02100103>• Names consisting solely of punctuation marks are prohibited."
+126,"TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_105","Under certain circumstances, the rank of master may be automatically transferred to another free company member."
+127,"TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_106","This occurs when a master character is deleted or has not been logged in on their Home World for 35 days (Earth time)."
+128,"TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_107","The new master is chosen based on the following criteria:"
+129,"TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_108","1. Rank: Holds the highest rank in the free company hierarchy.<hex:02100103>2. Service: Has been a member of the free company longest."
+130,"TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_109","Moreover, the chosen player must also meet the following activity-based criteria:"
+131,"TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_110","1. Has logged in within the past seven days (Earth time).<hex:02100103>2. Has been a member of the free company for at least thirty days (Earth time)."
+132,"TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_111","In the event no free company members meet the above criteria, the free company will be automatically disbanded."

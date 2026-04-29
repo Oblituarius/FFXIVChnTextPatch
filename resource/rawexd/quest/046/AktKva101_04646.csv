@@ -2,151 +2,151 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_AKTKVA101_04646_SEQ_00,列柱廊的莎蘿·摩爾有東西想交給冒險者。
-1,TEXT_AKTKVA101_04646_SEQ_01,和莎蘿·摩爾進行了交談。根據莫莫蒂的信所說，娜娜莫的侍女向冒險者公會發布了一件機密任務。在烏爾達哈的流沙屋附近，和委託人珂珂蘇談談。
-2,TEXT_AKTKVA101_04646_SEQ_02,和珂珂蘇進行了交談。娜娜莫希望能與冒險者一起前往希拉狄哈水道中發現的門扉裡調查。在中薩納蘭的希拉狄哈遺跡前，和負責修復的恆輝隊隊員談談。
-3,TEXT_AKTKVA101_04646_SEQ_03,和負責修復的恆輝隊隊員進行了交談。突破希拉狄哈水道。<hex:02100103><hex:02100103>※多變迷宮需通過專用窗口申請參加。<hex:02100103>※可以通過與負責修復的恆輝隊隊員對話，或選擇快捷指令「任務情報」中的「特殊迷宮探索器」查看專用窗口。
-4,TEXT_AKTKVA101_04646_SEQ_04,突破了希拉狄哈水道。和希拉狄哈遺跡前的負責修復的恆輝隊隊員談談。
-5,TEXT_AKTKVA101_04646_SEQ_05,和負責修復的恆輝隊隊員進行了交談。在最開始的等待地點與珂珂蘇匯合。在流沙屋附近和珂珂蘇談談。
-6,TEXT_AKTKVA101_04646_SEQ_06,和珂珂蘇進行了交談。和舊薩雷安列柱廊的莎蘿·摩爾談談。
-7,TEXT_AKTKVA101_04646_SEQ_07,和莎蘿·摩爾進行了交談。希拉狄哈水道的探險雖然告一段落了，其中卻還留有很多未知。地下水道中究竟還隱藏著多少謎團，等待冒險者與娜娜莫繼續調查。
-8,TEXT_AKTKVA101_04646_SEQ_08,
-9,TEXT_AKTKVA101_04646_SEQ_09,
-10,TEXT_AKTKVA101_04646_SEQ_10,
-11,TEXT_AKTKVA101_04646_SEQ_11,
-12,TEXT_AKTKVA101_04646_SEQ_12,
-13,TEXT_AKTKVA101_04646_SEQ_13,
-14,TEXT_AKTKVA101_04646_SEQ_14,
-15,TEXT_AKTKVA101_04646_SEQ_15,
-16,TEXT_AKTKVA101_04646_SEQ_16,
-17,TEXT_AKTKVA101_04646_SEQ_17,
-18,TEXT_AKTKVA101_04646_SEQ_18,
-19,TEXT_AKTKVA101_04646_SEQ_19,
-20,TEXT_AKTKVA101_04646_SEQ_20,
-21,TEXT_AKTKVA101_04646_SEQ_21,
-22,TEXT_AKTKVA101_04646_SEQ_22,
-23,TEXT_AKTKVA101_04646_SEQ_23,
-24,TEXT_AKTKVA101_04646_TODO_00,在烏爾達哈尋找珂珂蘇
-25,TEXT_AKTKVA101_04646_TODO_01,和希拉狄哈遺跡的負責修復的恆輝隊隊員對話
-26,TEXT_AKTKVA101_04646_TODO_02,突破希拉狄哈水道
-27,TEXT_AKTKVA101_04646_TODO_03,和負責修復的恆輝隊隊員對話
-28,TEXT_AKTKVA101_04646_TODO_04,和烏爾達哈的珂珂蘇對話
-29,TEXT_AKTKVA101_04646_TODO_05,和舊薩雷安的莎蘿·摩爾對話
-30,TEXT_AKTKVA101_04646_TODO_06,
-31,TEXT_AKTKVA101_04646_TODO_07,
-32,TEXT_AKTKVA101_04646_TODO_08,
-33,TEXT_AKTKVA101_04646_TODO_09,
-34,TEXT_AKTKVA101_04646_TODO_10,
-35,TEXT_AKTKVA101_04646_TODO_11,
-36,TEXT_AKTKVA101_04646_TODO_12,
-37,TEXT_AKTKVA101_04646_TODO_13,
-38,TEXT_AKTKVA101_04646_TODO_14,
-39,TEXT_AKTKVA101_04646_TODO_15,
-40,TEXT_AKTKVA101_04646_TODO_16,
-41,TEXT_AKTKVA101_04646_TODO_17,
-42,TEXT_AKTKVA101_04646_TODO_18,
-43,TEXT_AKTKVA101_04646_TODO_19,
-44,TEXT_AKTKVA101_04646_TODO_20,
-45,TEXT_AKTKVA101_04646_TODO_21,
-46,TEXT_AKTKVA101_04646_TODO_22,
-47,TEXT_AKTKVA101_04646_TODO_23,
-48,TEXT_AKTKVA101_04646_SHALLOWMOOR_000_001,<hex:022903EB0203>！<hex:02100103>你現在有時間嗎？
-49,TEXT_AKTKVA101_04646_SHALLOWMOOR_000_002,那正好！<hex:02100103>我這裡有一封莫莫蒂寄給你的信，麻煩你過來看看。<hex:02100103>我好用通訊珠回覆過去。
-50,TEXT_AKTKVA101_04646_MOMODI_000_003,(-莫莫蒂的來信-)<hex:022903EB0203>，你最近過得好嗎？<hex:02100103>很抱歉突然寫信打擾你。<hex:02100103>我這裡有一件雖然不是很急，但是指定需要你去完成的任務。
-51,TEXT_AKTKVA101_04646_MOMODI_000_004,(-莫莫蒂的來信-)這件任務的委託人是娜娜莫陛下身邊的侍女。<hex:02100103>她會負責告知你具體的任務內容。<hex:02100103>如果你有時間的話，就請你來一趟烏爾達哈吧。
-52,TEXT_AKTKVA101_04646_MOMODI_000_005,(-莫莫蒂的來信-)如果你方便來的話，就請拜託莎蘿·摩爾告訴我吧。<hex:02100103>我會提前聯繫那位侍女，讓她準備好盡快和你聊聊任務的事。<hex:02100103>信的內容就是這些了，期待你的回覆。
-53,TEXT_AKTKVA101_04646_SHALLOWMOOR_000_006,看來……是有工作？
-54,TEXT_AKTKVA101_04646_Q1_000_000,要說什麼？
-55,TEXT_AKTKVA101_04646_A1_000_001,莫莫蒂讓我去烏爾達哈
-56,TEXT_AKTKVA101_04646_A1_000_002,莫莫蒂的委託我可沒法拒絕……
-57,TEXT_AKTKVA101_04646_SHALLOWMOOR_000_007,好！明白！<hex:02100103>那我這就回覆莫莫蒂那邊，你稍等一下哦。
-58,TEXT_AKTKVA101_04646_SHALLOWMOOR_000_008,哈哈哈！<hex:02100103>那我就當你是同意了，<hex:02100103>我這就回覆莫莫蒂哦。
-59,TEXT_AKTKVA101_04646_SHALLOWMOOR_000_009,好，我聯繫好了。<hex:02100103>你到那邊之後，立刻就能跟委託任務的侍女會面。
-60,TEXT_AKTKVA101_04646_SHALLOWMOOR_000_010,那位侍女名叫珂珂蘇，<hex:02100103>是一位粉色頭髮，綠色眼睛的拉拉菲爾族女性。
-61,TEXT_AKTKVA101_04646_SHALLOWMOOR_000_011,你到烏爾達哈之後，在流沙屋附近找找她吧。<hex:02100103>祝你一路順風！
-62,TEXT_AKTKVA101_04646_KOKOSHU_000_015,<hex:022903EB0203>閣下，久等了。<hex:02100103>我是珂珂蘇。
-63,TEXT_AKTKVA101_04646_KOKOSHU_000_016,非常抱歉，沒能將實情提前告知你。<hex:02100103>這次的任務，其實並非是我想要委託給你的。
-64,TEXT_AKTKVA101_04646_KOKOSHU_100_016,任務的委託人……<hex:02100103>其實是我的主人娜娜莫陛下。
-65,TEXT_AKTKVA101_04646_KOKOSHU_100_017,我先為你介紹一下我知道的情況吧。<hex:02100103>你可以先聽過之後，再決定是否要接受任務。
-66,TEXT_AKTKVA101_04646_KOKOSHU_000_017,那麼，請允許我先問<hex:022903EB0203>閣下一個問題。<hex:02100103>你還記得烏爾達哈的地下水道嗎？
-67,TEXT_AKTKVA101_04646_KOKOSHU_000_018,對你我來說，這都是件令人不快的回憶。<hex:02100103>我說的地下水道，就是慶功會的事件中，<hex:02100103>拂曉血盟的諸位脫身時經過的那條希拉狄哈水道。
-68,TEXT_AKTKVA101_04646_KOKOSHU_000_019,希拉狄哈水道的一處區域在事件中完全崩塌了，<hex:02100103>後來，水道的修復工作就交由恆輝隊來主導了……
-69,TEXT_AKTKVA101_04646_KOKOSHU_000_020,在這期間，他們在水道中發現了一扇被怪異力量封印的「大門」。
-70,TEXT_AKTKVA101_04646_KOKOSHU_000_021,那是一扇古老、破舊、用途不明的大門。<hex:02100103>娜娜莫陛下對這扇門很感興趣……<hex:02100103>因此表達了想要前往水道，親自調查的意願。
-71,TEXT_AKTKVA101_04646_KOKOSHU_100_021,娜娜莫陛下甚至表示，跟皮平閣下那樣注重陛下的安全的人同行<hex:02100103>實在太掃興了。她竟是想獨自前去調查！<hex:02100103>請恕我實在無法答應她以身犯險。
-72,TEXT_AKTKVA101_04646_KOKOSHU_000_022,因此，我希望能委託冒險者你這樣一位有勇有謀的人<hex:02100103>擔任娜娜莫陛下的護衛……不知你是否願意呢？
-73,TEXT_AKTKVA101_04646_Q2_000_000,如何作答
-74,TEXT_AKTKVA101_04646_A2_000_001,為了娜娜莫女王陛下！
-75,TEXT_AKTKVA101_04646_A2_000_002,我不能保證萬無一失，但我會盡力的……
-76,TEXT_AKTKVA101_04646_KOKOSHU_000_023,謝謝你，<hex:022903EB0203>閣下！<hex:02100103>那我這就去向娜娜莫陛下報告你的答覆。<hex:02100103>還請你在這裡稍作等待。
-77,TEXT_AKTKVA101_04646_NANAMOULNAMO_100_024,久等了，<hex:022903EB0203>。<hex:02100103>感謝你接受了朕的委託。
-78,TEXT_AKTKVA101_04646_NANAMOULNAMO_000_025,朕想，真正吸引你的應該是謎團帶來的冒險吧？<hex:02100103>還請你抖擻精神，協助朕進行調查。
-79,TEXT_AKTKVA101_04646_NANAMOULNAMO_000_030,那麼，大致的情況你應該已經聽珂珂蘇提過了吧？<hex:02100103>那朕就來和你談談那扇門的事吧。
-80,TEXT_AKTKVA101_04646_NANAMOULNAMO_000_031,報告提到，那扇門上有著特殊的花朵紋樣。<hex:02100103>恆輝隊的負責人調查之後並沒找到花紋代表的意思，<hex:02100103>但朕卻知道那花紋代表了什麼。
-81,TEXT_AKTKVA101_04646_NANAMOULNAMO_000_032,朕擁有一把鑰匙，鑰匙上有著和門一樣的花紋。
-82,TEXT_AKTKVA101_04646_NANAMOULNAMO_000_033,那把鑰匙，是朕的父王和母后去世之前留給朕最後的禮物。<hex:02100103>他們把這把鑰匙贈送給朕時曾說，等到朕長大之後，<hex:02100103>會帶朕一起去這把鑰匙鎖住了的門後邊。
-83,TEXT_AKTKVA101_04646_NANAMOULNAMO_000_034,朕仍舊記得父王和母后那時的樣子，他們興致勃勃地猜測著<hex:02100103>朕會在那裡做出怎樣的選擇，最後會走到哪裡去……<hex:02100103>然而在父王和母后離朕而去之前，並沒能兌現這個約定。
-84,TEXT_AKTKVA101_04646_NANAMOULNAMO_000_035,朕也就這樣失去了了解那把鑰匙用途的機會。<hex:02100103>直到最近，竟然找到了有著同樣花紋的大門……
-85,TEXT_AKTKVA101_04646_NANAMOULNAMO_100_035,你說說看，<hex:02100103>朕能把那樣的地方棄之不顧嗎？
-86,TEXT_AKTKVA101_04646_Q3_000_000,如何作答？
-87,TEXT_AKTKVA101_04646_A3_000_001,這麼刺激有趣的地方，怎麼能不去呢？
-88,TEXT_AKTKVA101_04646_A3_000_002,對陛下來說還是太危險了……
-89,TEXT_AKTKVA101_04646_NANAMOULNAMO_000_037,對吧！對吧！<hex:02100103>朕就知道偉大的冒險者<hex:022903EB0203>會這麼想！
-90,TEXT_AKTKVA101_04646_NANAMOULNAMO_100_037,不說別的，光是想到有你同行，朕就覺得一萬個放心。<hex:02100103>這種事情上朕還是最信任你了，帕帕夏恩和皮平要是聽說了這件事，<hex:02100103>肯定只會追著朕叫朕收回成命。
-91,TEXT_AKTKVA101_04646_NANAMOULNAMO_000_038,朕知道你說的沒有錯。<hex:02100103>然而那地方畢竟和朕的父王母后有關，<hex:02100103>朕沒法不去在意。
-92,TEXT_AKTKVA101_04646_NANAMOULNAMO_100_038,話雖如此，若是朕露出了要親自前去調查的意思，<hex:02100103>愛操心的帕帕夏恩和皮平怕是會拚命阻止朕……<hex:02100103>因此，朕才需要你的幫助……不知你是否願意。
-93,TEXT_AKTKVA101_04646_NANAMOULNAMO_000_039,剛才也說了，這件事雖然能繞過那兩個人，<hex:02100103>但有一個人卻是朕必須要告知的。<hex:02100103>珂珂蘇既是朕的侍女，也是朕的替身。
-94,TEXT_AKTKVA101_04646_NANAMOULNAMO_000_040,為了讓她協助朕的計劃，朕告知了她相關資訊，<hex:02100103>她成了這個計劃的知情人之後，卻並不同意朕獨自前去，<hex:02100103>要求朕一定要在護衛的協助下才能出行……
-95,TEXT_AKTKVA101_04646_NANAMOULNAMO_000_041,整件事前後大約就是這樣，很抱歉強拉你做了朕的共犯。<hex:02100103>但實在是難得，朕又有機會和你進行一場冒險，<hex:02100103>總之，一切就都拜託你啦。
-96,TEXT_AKTKVA101_04646_NANAMOULNAMO_000_042,那就出發去中薩納蘭吧！<hex:02100103>朕已經提前跟希拉狄哈遺跡那邊打過招呼了，<hex:02100103>你跟負責修復的恆輝隊隊員說一聲就能進入遺跡了。
-97,TEXT_AKTKVA101_04646_NANAMOULNAMO_000_043,你知道的，希拉狄哈水道與王宮是連在一起的，<hex:02100103>所以出於安全考慮，不管是誰出入都需要向王宮方面遞交報告。<hex:02100103>為了避免留下記錄，朕會從密道這邊進入水道。
-98,TEXT_AKTKVA101_04646_NANAMOULNAMO_000_044,都準備好了就出發吧，<hex:02100103>之後到地方匯合。
-99,TEXT_AKTKVA101_04646_ULDAHMILITARY04646_000_050,<hex:022903EB0203>閣下！<hex:02100103>珂珂蘇已經替你提前打過招呼了，<hex:02100103>你去希拉狄哈遺跡是為了機密任務吧……
-100,TEXT_AKTKVA101_04646_ULDAHMILITARY04646_000_051,難道是之前水道塌方的事情還另有隱情？
-101,TEXT_AKTKVA101_04646_ULDAHMILITARY04646_000_052,啊，不好意思。<hex:02100103>我不該多嘴問這些的。
-102,TEXT_AKTKVA101_04646_ULDAHMILITARY04646_000_053,水道裡頭的碎石瓦礫雖然都已經拆除運走了，<hex:02100103>但畢竟那裡十分昏暗，你進去的時候記得當心腳下！
-103,TEXT_AKTKVA101_04646_ULDAHMILITARY04646_000_055,<hex:022903EB0203>閣下，辛苦了！<hex:02100103>你的工作已經忙完了嗎？
-104,TEXT_AKTKVA101_04646_ULDAHMILITARY04646_000_056,我懂了！<hex:02100103>我這就讓工作人員回去繼續工作。
-105,TEXT_AKTKVA101_04646_ULDAHMILITARY04646_000_057,哦哦，對了！
-106,TEXT_AKTKVA101_04646_ULDAHMILITARY04646_000_058,珂珂蘇留了一句話讓我轉達給你，<hex:02100103>她說會在流沙屋附近跟你匯合。<hex:02100103>回烏爾達哈的時候，記得去見見她吧。
-107,TEXT_AKTKVA101_04646_NANAMOULNAMO_000_065,<hex:022903EB0203>閣下！<hex:02100103>歡迎回來。
-108,TEXT_AKTKVA101_04646_NANAMOULNAMO_000_066,(-娜娜莫·烏爾·娜莫-)……怎麼樣？<hex:02100103>嘿嘿，朕可不是珂珂蘇，朕是娜娜莫。
-109,TEXT_AKTKVA101_04646_NANAMOULNAMO_000_067,(-娜娜莫·烏爾·娜莫-)只要珂珂蘇這樣假扮成朕待在朕的臥室，<hex:02100103>不管進去了多久，都不會有人起疑。
-110,TEXT_AKTKVA101_04646_NANAMOULNAMO_000_068,(-娜娜莫·烏爾·娜莫-)朕想和你聊聊，<hex:02100103>所以假扮成珂珂蘇的樣子跑了出來。
-111,TEXT_AKTKVA101_04646_NANAMOULNAMO_000_069,(-娜娜莫·烏爾·娜莫-)話說回來，這次可真是場厲害的冒險啊。<hex:02100103>最初不過是在好奇心的驅使之下，想去實地看看情況。<hex:02100103>沒想到竟有了這麼多意料之外的收穫……
-112,TEXT_AKTKVA101_04646_NANAMOULNAMO_000_070,(-娜娜莫·烏爾·娜莫-)朕本來是想和父王母后，以及過去的回憶告別的。<hex:02100103>結果事情卻和朕想得完全不一樣。
-113,TEXT_AKTKVA101_04646_NANAMOULNAMO_000_071,(-娜娜莫·烏爾·娜莫-)見到那個鮮花盛開的地方，重新感受到二位留下的痕跡之後……<hex:02100103>朕終於可以直面內心中那個自幼時起一直沉浸在悲傷中的自己了。
-114,TEXT_AKTKVA101_04646_NANAMOULNAMO_000_072,(-娜娜莫·烏爾·娜莫-)雖然沒有對外公開過，<hex:02100103>但烏爾達哈過去確實曾和蜥蜴人族有過合作。<hex:02100103>那座營地，恐怕也是在那個時期建造起來的。
-115,TEXT_AKTKVA101_04646_NANAMOULNAMO_000_073,(-娜娜莫·烏爾·娜莫-)父王和母后想要給朕看到的這一切，朕都會記在心裡。<hex:02100103>烏爾達哈和蜥蜴人的融合才剛開始，還要等著朕繼續推進深化呢……
-116,TEXT_AKTKVA101_04646_NANAMOULNAMO_000_074,(-娜娜莫·烏爾·娜莫-)烏爾達哈是建立在希拉狄哈的犧牲之上的。<hex:02100103>見到那座王宮的廢墟之後，朕對此有了更深刻的認識。
-117,TEXT_AKTKVA101_04646_NANAMOULNAMO_000_075,(-娜娜莫·烏爾·娜莫-)即使勝利者編造了歷史，<hex:02100103>卻也並不能忽視被埋藏在黑暗中的歷史……<hex:02100103>這也許是父王作為烏爾達哈的國王想告訴朕的話吧。
-118,TEXT_AKTKVA101_04646_NANAMOULNAMO_000_076,(-娜娜莫·烏爾·娜莫-)希拉狄哈水道的深處竟然藏著一座倉庫，<hex:02100103>而且還是歷代烏爾達哈王專屬的倉庫，<hex:02100103>朕可真是太驚訝了。
-119,TEXT_AKTKVA101_04646_NANAMOULNAMO_000_077,(-娜娜莫·烏爾·娜莫-)那裡原本很可能是在繼承王位時一同繼承的寶庫。<hex:02100103>但先王……朕的父王因為事故去世得十分突然……<hex:02100103>留下鑰匙和信已經是父王能做到的一切了。
-120,TEXT_AKTKVA101_04646_NANAMOULNAMO_000_078,(-娜娜莫·烏爾·娜莫-)不過，朕最終還是收到了二位留給朕的信。<hex:02100103>二位贈予朕的一切將成為朕的心靈支柱，<hex:02100103>朕作為女兒，作為女王，會在二位的支持下繼續努力前行……
-121,TEXT_AKTKVA101_04646_NANAMOULNAMO_000_079,(-娜娜莫·烏爾·娜莫-)總之，倉庫那邊，先要調查一下內部的狀況再進行維護。<hex:02100103>考慮到這是你與朕一起發現的，<hex:02100103>等調查完之後朕會找機會通過珂珂蘇通知你的。
-122,TEXT_AKTKVA101_04646_NANAMOULNAMO_000_080,(-娜娜莫·烏爾·娜莫-)回過頭來想想……<hex:02100103>父王和母后當時說的是「會選擇哪條路呢」，<hex:02100103>也就是說，除了剛才去過的地方以外，也許還有其他的重要地點……
-123,TEXT_AKTKVA101_04646_NANAMOULNAMO_000_081,(-娜娜莫·烏爾·娜莫-)朕希望，有機會的話能把其中的角角落落都調查清楚。<hex:02100103>就看你是否方便了，如果有時間的話，<hex:02100103>還請繼續和朕一同前去調查。
-124,TEXT_AKTKVA101_04646_NANAMOULNAMO_000_082,(-娜娜莫·烏爾·娜莫-)那麼，朕也該回到政務中去了。<hex:02100103>真正的珂珂蘇似乎也有感謝的話想對你說。<hex:02100103>還請你在這裡等等她吧。
-125,TEXT_AKTKVA101_04646_NANAMOULNAMO_000_083,(-娜娜莫·烏爾·娜莫-)那麼……<hex:02100103>下次再見啦，<hex:022903EB0203>。
-126,TEXT_AKTKVA101_04646_KOKOSHU_000_084,久等了。<hex:02100103>我是真正的珂珂蘇。
-127,TEXT_AKTKVA101_04646_KILFUFU_100_084,你好，初次見面，我是奇爾芙芙。<hex:02100103>是珂珂蘇「工作」時的助手。
-128,TEXT_AKTKVA101_04646_KILFUFU_100_085,我作為幫手之一，<hex:02100103>也是為了表達我的感謝而來。<hex:02100103>謝謝你。
-129,TEXT_AKTKVA101_04646_KOKOSHU_000_085,請允許我們再次感謝你這次為娜娜莫陛下提供的幫助。
-130,TEXT_AKTKVA101_04646_KOKOSHU_000_086,最初聽說娜娜莫陛下要亂來，著實有些不知所措。<hex:02100103>但看到陛下的笑臉之後，就知道我們現在做出的就是最好的選擇了。
-131,TEXT_AKTKVA101_04646_KILFUFU_100_087,<hex:022903EB0203>閣下。<hex:02100103>今後還要麻煩你繼續幫助陛下了。
-132,TEXT_AKTKVA101_04646_KOKOSHU_000_088,我從莫莫蒂那聽說，<hex:02100103>這次的任務是通過拾穗人總會委託給你的吧？
-133,TEXT_AKTKVA101_04646_KOKOSHU_000_089,如果你方便的話，下次去舊薩雷安時，<hex:02100103>還請替我向莎蘿·摩爾閣下，<hex:02100103>轉達我這個委託人的感謝。
-134,TEXT_AKTKVA101_04646_KOKOSHU_000_090,還請替我向莎蘿·摩爾閣下，<hex:02100103>轉達我這個委託人的感謝。
-135,TEXT_AKTKVA101_04646_SHALLOWMOOR_000_095,<hex:022903EB0203>！歡迎回來！<hex:02100103>我從莫莫蒂那收到她的感謝啦！
-136,TEXT_AKTKVA101_04646_SHALLOWMOOR_000_096,那位侍女委託人也讓你轉達謝意了？<hex:02100103>真好呀，能幫上忙真是太好啦！
-137,TEXT_AKTKVA101_04646_SHALLOWMOOR_000_097,啊，對了對了！<hex:02100103>奧斯蒙最近一直都嘀嘀咕咕地坐立難安，<hex:02100103>可以的話，還請你跟他聊聊你在烏爾達哈的冒險吧。
-138,TEXT_AKTKVA101_04646_SHALLOWMOOR_000_098,總之，這次去烏爾達哈的工作！辛苦啦！
-139,TEXT_AKTKVA101_04646_SYSTEM_100_100,快捷指令「任務情報」中的「特殊迷宮探索器」裡<hex:02100103>追加了「希拉狄哈水道探索記」。
-140,TEXT_AKTKVA101_04646_SYSTEM_100_101,隨著多變迷宮希拉狄哈水道的推進，<hex:02100103>希拉狄哈水道探索記將根據完成任務時<hex:02100103>通過的不同路線增加條目。
-141,TEXT_AKTKVA101_04646_KOKOSHU_000_024,（★未使用／削除予定★）
-142,TEXT_AKTKVA101_04646_NANAMOULNAMO_000_026,（★未使用／削除予定★）
-143,TEXT_AKTKVA101_04646_NANAMOULNAMO_000_027,（★未使用／削除予定★）
-144,TEXT_AKTKVA101_04646_NANAMOULNAMO_000_028,（★未使用／削除予定★）
-145,TEXT_AKTKVA101_04646_NANAMOULNAMO_000_029,（★未使用／削除予定★）
-146,TEXT_AKTKVA101_04646_KOKOSHU_000_087,（★未使用／削除予定★）
-147,TEXT_AKTKVA101_04646_ULDAHMILITARY04646_000_059,（★未使用／削除予定★）
+0,"TEXT_AKTKVA101_04646_SEQ_00","Shallow Moor is watching you expectantly."
+1,"TEXT_AKTKVA101_04646_SEQ_01","Acting as the facilitator for the guildship's odd job initiative, Shallow Moor hands you an explanatory missive from Momodi. The letter details a request from one of the sultana's personal attendants, asking you to travel to Thanalan. After confirming your assent, Shallow Moor contacts Momodi to arrange a meeting, and you find yourself scheduled to speak with one “Kokoshu” outside the Quicksand in Ul'dah."
+2,"TEXT_AKTKVA101_04646_SEQ_02","Kokoshu quickly sets the record straight on who your true client is: the sultana, Nanamo Ul Namo. The lady-in-waiting tells you the tale of an unusual gate discovered in the damaged sections of the Sil'dihn aqueducts, and of Nanamo's desire to see it firsthand. Upon your agreement to help the sultana in this endeavor, Kokoshu cedes the meeting to Nanamo herself. Her Royal Majesty elaborates that the symbol on this portal matches the design of a key gifted to her by her parents, and she is adamant that they meant for her to explore whatever lies beyond. As for your part, Nanamo feels that you are her best choice of escort if she wishes to investigate unimpeded by overprotective guards. It seems she has arranged for you to enter the Sil'dihn ruins via the entrance in central Thanalan, whilst she arrives undetected through the palace's secret tunnels..."
+3,"TEXT_AKTKVA101_04646_SEQ_03","The curious-but-dutiful foreman directs you inside the ruins, where you are to rendezvous with Nanamo and her mysterious key. You know not what secrets or perils await you in the subterranean Sil'dihn tunnels, only that opening strange gates often leads to adventure...<hex:02100103><hex:02100103>※The Sil'dihn Subterrane can be accessed via the V&C Dungeon Finder.<hex:02100103>※To open the V&C Dungeon Finder, speak with the Sil'dihn Subterrane foreman or select the option located under Duty in the main menu."
+4,"TEXT_AKTKVA101_04646_SEQ_04","While undoubtedly successful, your expedition into the Sil'dihn Subterrane has raised more questions than it answered. Putting your whirling thoughts aside, you realize the foreman will wish to know that your “assignment” is concluded so that he and his laborers might return to work."
+5,"TEXT_AKTKVA101_04646_SEQ_05","When you inform the foreman that the tunnels are his again, he passes on a message to you from Kokoshu. It seems that Nanamo's lady-in-waiting awaits you near the Quicksand once more."
+6,"TEXT_AKTKVA101_04646_SEQ_06","You speak with Kokoshu─who is actually Nanamo in disguise─and she reflects upon the discoveries you made together during your recent adventure. Convinced that the Sil'dihn Subterrane yet holds far more places of interest to explore, the sultana bids you join her on another foray─when time permits, of course. For now, however, she must return to her usual affairs of state, and it is the real Kokoshu who arrives next to thank you profusely for your cooperation. The circle of gratitude, however, will not be complete until you convey the lady-in-waiting's warm regards to Shallow Moor back in Sharlayan..."
+7,"TEXT_AKTKVA101_04646_SEQ_07","Shallow Moor welcomes you back, seemingly pleased by Kokoshu's sincere appreciation. She encourages you to share your adventure with Osmon, but you wonder if after a single expedition you can call this odd job truly finished. As Nanamo has said, there is likely a great deal more inside the Sil'dihn Subterrane, just waiting to be discovered..."
+8,"TEXT_AKTKVA101_04646_SEQ_08",""
+9,"TEXT_AKTKVA101_04646_SEQ_09",""
+10,"TEXT_AKTKVA101_04646_SEQ_10",""
+11,"TEXT_AKTKVA101_04646_SEQ_11",""
+12,"TEXT_AKTKVA101_04646_SEQ_12",""
+13,"TEXT_AKTKVA101_04646_SEQ_13",""
+14,"TEXT_AKTKVA101_04646_SEQ_14",""
+15,"TEXT_AKTKVA101_04646_SEQ_15",""
+16,"TEXT_AKTKVA101_04646_SEQ_16",""
+17,"TEXT_AKTKVA101_04646_SEQ_17",""
+18,"TEXT_AKTKVA101_04646_SEQ_18",""
+19,"TEXT_AKTKVA101_04646_SEQ_19",""
+20,"TEXT_AKTKVA101_04646_SEQ_20",""
+21,"TEXT_AKTKVA101_04646_SEQ_21",""
+22,"TEXT_AKTKVA101_04646_SEQ_22",""
+23,"TEXT_AKTKVA101_04646_SEQ_23",""
+24,"TEXT_AKTKVA101_04646_TODO_00","Meet with Kokoshu in Ul'dah."
+25,"TEXT_AKTKVA101_04646_TODO_01","Speak with the Sil'dihn Subterrane foreman at the Sil'dih excavation site."
+26,"TEXT_AKTKVA101_04646_TODO_02","Enter the Sil'dihn Subterrane."
+27,"TEXT_AKTKVA101_04646_TODO_03","Speak with the Sil'dihn Subterrane foreman."
+28,"TEXT_AKTKVA101_04646_TODO_04","Speak with Kokoshu in Ul'dah."
+29,"TEXT_AKTKVA101_04646_TODO_05","Speak with Shallow Moor in Old Sharlayan."
+30,"TEXT_AKTKVA101_04646_TODO_06",""
+31,"TEXT_AKTKVA101_04646_TODO_07",""
+32,"TEXT_AKTKVA101_04646_TODO_08",""
+33,"TEXT_AKTKVA101_04646_TODO_09",""
+34,"TEXT_AKTKVA101_04646_TODO_10",""
+35,"TEXT_AKTKVA101_04646_TODO_11",""
+36,"TEXT_AKTKVA101_04646_TODO_12",""
+37,"TEXT_AKTKVA101_04646_TODO_13",""
+38,"TEXT_AKTKVA101_04646_TODO_14",""
+39,"TEXT_AKTKVA101_04646_TODO_15",""
+40,"TEXT_AKTKVA101_04646_TODO_16",""
+41,"TEXT_AKTKVA101_04646_TODO_17",""
+42,"TEXT_AKTKVA101_04646_TODO_18",""
+43,"TEXT_AKTKVA101_04646_TODO_19",""
+44,"TEXT_AKTKVA101_04646_TODO_20",""
+45,"TEXT_AKTKVA101_04646_TODO_21",""
+46,"TEXT_AKTKVA101_04646_TODO_22",""
+47,"TEXT_AKTKVA101_04646_TODO_23",""
+48,"TEXT_AKTKVA101_04646_SHALLOWMOOR_000_001","So, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, does this mean you've found a spare moment in your busy god-slaying agenda?"
+49,"TEXT_AKTKVA101_04646_SHALLOWMOOR_000_002","Wonderful. We actually have a letter addressed to you from Mistress Momodi. Go ahead and read through that, and I'll dig up the linkpearl I'm to use to convey your reply."
+50,"TEXT_AKTKVA101_04646_MOMODI_000_003","(-Missive from Momodi-)<hex:021A020203>Dear <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>,<hex:02100103>I hope this letter finds you well and still taking guild jobs, because we've got one here with your name on it.<hex:021A020103>"
+51,"TEXT_AKTKVA101_04646_MOMODI_000_004","(-Missive from Momodi-)<hex:021A020203>Ordinarily, I wouldn't bother you with something like this, but the client is a personal attendant to Her Royal Majesty Nanamo Ul Namo. And I'm guessing that piqued your curiosity as much as it did mine.<hex:021A020103>"
+52,"TEXT_AKTKVA101_04646_MOMODI_000_005","(-Missive from Momodi-)<hex:021A020203>Let Shallow Moor know if you can make it over to Ul'dah, and I'll set up a meeting with this lady-in-waiting. I'm told it's nothing urgent, so at your earliest convenience!<hex:02100103>Momodi.<hex:021A020103>"
+53,"TEXT_AKTKVA101_04646_SHALLOWMOOR_000_006","What are we thinking? Yea or nay?"
+54,"TEXT_AKTKVA101_04646_Q1_000_000","What will you say?"
+55,"TEXT_AKTKVA101_04646_A1_000_001","Tell Momodi I'm on my way."
+56,"TEXT_AKTKVA101_04646_A1_000_002","One does not simply refuse Mistress Momodi."
+57,"TEXT_AKTKVA101_04646_SHALLOWMOOR_000_007","Understood! I'll call her right away."
+58,"TEXT_AKTKVA101_04646_SHALLOWMOOR_000_008","Hah! I'll take that as assent, then. Let me make the call..."
+59,"TEXT_AKTKVA101_04646_SHALLOWMOOR_000_009","And done! Our tiny taskmaster is making arrangements as we speak."
+60,"TEXT_AKTKVA101_04646_SHALLOWMOOR_000_010","She says the lady you're to meet is a Lalafell by the name of Kokoshu. Light-brown hair, green eyes."
+61,"TEXT_AKTKVA101_04646_SHALLOWMOOR_000_011","She should be awaiting you outside the Quicksand by the time you arrive. Fair fortune and safe travels!"
+62,"TEXT_AKTKVA101_04646_KOKOSHU_000_015","<hex:020815E905FF09>Mistress<hex:FF07>Master<hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303>, I presume? I am Kokoshu."
+63,"TEXT_AKTKVA101_04646_KOKOSHU_000_016","But let us be clear from the outset: I am not your true client."
+64,"TEXT_AKTKVA101_04646_KOKOSHU_100_016","The personage who wishes to engage your services is the sultana, Nanamo Ul Namo herself."
+65,"TEXT_AKTKVA101_04646_KOKOSHU_100_017","Firstly, however, pray allow me to explain the request itself. Then you can decide whether or not you wish to proceed."
+66,"TEXT_AKTKVA101_04646_KOKOSHU_000_017","I trust you recall the tunnels beneath the city of Ul'dah?"
+67,"TEXT_AKTKVA101_04646_KOKOSHU_000_018","I speak of course of the Sil'dihn Subterrane─the passages and waterways through which you made your escape on the day of that ill-fated victory banquet."
+68,"TEXT_AKTKVA101_04646_KOKOSHU_000_019","It seems that one of the tunnel sections collapsed during the commotion, and a crew comprised primarily of Immortal Flames has since been put to work on repairs."
+69,"TEXT_AKTKVA101_04646_KOKOSHU_000_020","In the process of restoring the masonry, however, they have come across an unexpected gate..."
+70,"TEXT_AKTKVA101_04646_KOKOSHU_000_021","It was described as antique in design, inscrutable in purpose, and sealed shut by some mystical force. The report appeared of great interest to the sultana, and she has expressed a desire to investigate this strange portal firsthand."
+71,"TEXT_AKTKVA101_04646_KOKOSHU_100_021","Furthermore, she feels that Master Tarupin and the like are “overprotective” and will prevent her from exploring to her heart's content. But are we then to send Her Royal Majesty into potential peril without a trusted escort? You see my dilemma."
+72,"TEXT_AKTKVA101_04646_KOKOSHU_000_022","As the proven champion of Eorzea and veteran of countless heroic endeavors, it is to you whom we would entrust the sultana's safety. Besides which, she would have it no other way."
+73,"TEXT_AKTKVA101_04646_Q2_000_000","What will you say?"
+74,"TEXT_AKTKVA101_04646_A2_000_001","Her Grace's wish is my command!"
+75,"TEXT_AKTKVA101_04646_A2_000_002","I'm not sure about this, but if that's what the sultana wants..."
+76,"TEXT_AKTKVA101_04646_KOKOSHU_000_023","Thank you, <hex:020815E905FF09>Mistress<hex:FF07>Master<hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303>─it will mean a great deal to Her Grace. Please wait here, and I shall inform the sultana of your decision."
+77,"TEXT_AKTKVA101_04646_NANAMOULNAMO_100_024","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, thank you for coming. I greatly appreciate you indulging this selfish request of mine."
+78,"TEXT_AKTKVA101_04646_NANAMOULNAMO_000_025","I should hope for the sake of your adventurous spirit, however, that the mystery at hand proves more intriguing than odious."
+79,"TEXT_AKTKVA101_04646_NANAMOULNAMO_000_030","Kokoshu spoke broadly of what to expect, yes? Then allow me to add a few details to the story."
+80,"TEXT_AKTKVA101_04646_NANAMOULNAMO_000_031","According to the report, the gate bears an intricate, flowery design. The Flames were unable to ascertain its origin or significance, but I have seen such a motif before..."
+81,"TEXT_AKTKVA101_04646_NANAMOULNAMO_000_032","The very same design adorns a key in my possession─the last gift I was ever to receive from my dear departed parents."
+82,"TEXT_AKTKVA101_04646_NANAMOULNAMO_000_033","I recall the ceremony with which it was presented, and their promises to take me to the place the key unlocked once I had come of age."
+83,"TEXT_AKTKVA101_04646_NANAMOULNAMO_000_034","They spoke excitedly of the choices I might make, of the things I would behold on my chosen path...but they were called away to Thal's halls long before that day would arrive."
+84,"TEXT_AKTKVA101_04646_NANAMOULNAMO_000_035","With Mother and Father gone, I despaired of ever learning the key's purpose. And now this portal is found..."
+85,"TEXT_AKTKVA101_04646_NANAMOULNAMO_100_035","Surely you understand why I cannot leave it unopened?"
+86,"TEXT_AKTKVA101_04646_Q3_000_000","What will you say?"
+87,"TEXT_AKTKVA101_04646_A3_000_001","There could be <hex:021A020203>anything<hex:021A020103> behind that gate!"
+88,"TEXT_AKTKVA101_04646_A3_000_002","There could be <hex:021A020203>anything<hex:021A020103> behind that gate..."
+89,"TEXT_AKTKVA101_04646_NANAMOULNAMO_000_037","You see! I knew I could count on your enthusiasm!"
+90,"TEXT_AKTKVA101_04646_NANAMOULNAMO_100_037","How reassuring it will be to have a veteran adventurer at my side. Not that I distrust Papashan or Pipin, of course, but if I told them, they would only seek to dissuade me from my course."
+91,"TEXT_AKTKVA101_04646_NANAMOULNAMO_000_038","Indeed. But Mother and Father meant for me to see it, and that is what I intend to do."
+92,"TEXT_AKTKVA101_04646_NANAMOULNAMO_100_038","Still, neither Papashan nor Pipin would approve of my plans to investigate in person. I needed someone else I trust, but who trusted my judgment in turn. Will you be that person for me?"
+93,"TEXT_AKTKVA101_04646_NANAMOULNAMO_000_039","As for Kokoshu, she was the first I brought into my confidence."
+94,"TEXT_AKTKVA101_04646_NANAMOULNAMO_000_040","She is, after all, my lady-in-waiting, and serves as my double when I am away. I hadn't wished to involve anyone else, but she flatly refused to cooperate unless I enlisted a reliable escort."
+95,"TEXT_AKTKVA101_04646_NANAMOULNAMO_000_041","Thus here we stand! And though I regret the need to have you complicit in my subterfuge, the idea of exploring with you has me giddy with anticipation!"
+96,"TEXT_AKTKVA101_04646_NANAMOULNAMO_000_042","If you could make your way directly to the excavation site in central Thanalan, the foreman there has been instructed to permit you entrance."
+97,"TEXT_AKTKVA101_04646_NANAMOULNAMO_000_043","Considering the tunnels reach all the way to the palace, security protocols dictate that we receive reports any time someone enters the ruins. I will take that as my signal to join you─via the secret passages, of course."
+98,"TEXT_AKTKVA101_04646_NANAMOULNAMO_000_044","Now, let us make our preparations. We should, as you say, be ready for anything!"
+99,"TEXT_AKTKVA101_04646_ULDAHMILITARY04646_000_050","<hex:020815E905FF09>Mistress<hex:FF07>Master<hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303>. Lady Kokoshu says you are to have unrestricted access to the ruins for some manner of “confidential assignment.”"
+100,"TEXT_AKTKVA101_04646_ULDAHMILITARY04646_000_051","I wonder, does this have anything to do with what they found in that collapsed section, or...?"
+101,"TEXT_AKTKVA101_04646_ULDAHMILITARY04646_000_052","Uh, actually, never mind that. I'm not meant to ask any questions."
+102,"TEXT_AKTKVA101_04646_ULDAHMILITARY04646_000_053","Ahem. The rubble's been mostly cleared away, but please, do watch your footing down there. Wouldn't want you tripping over a loose rock in the gloom!"
+103,"TEXT_AKTKVA101_04646_ULDAHMILITARY04646_000_055","<hex:020815E905FF09>Mistress<hex:FF07>Master<hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303>. All done with your, uh, “assignment,” then?"
+104,"TEXT_AKTKVA101_04646_ULDAHMILITARY04646_000_056","Glad to hear it. I'll inform the workers that they're free to head back into the tunnels."
+105,"TEXT_AKTKVA101_04646_ULDAHMILITARY04646_000_057","Oh, and before I forget!"
+106,"TEXT_AKTKVA101_04646_ULDAHMILITARY04646_000_058","I have a message for you from Lady Kokoshu: she wishes to meet you by the Quicksand upon your return to Ul'dah. Safe travels, <hex:02080EE905FF05>miss<hex:FF04>sir<hex:03>."
+107,"TEXT_AKTKVA101_04646_NANAMOULNAMO_000_065","Welcome back, <hex:020815E905FF09>Mistress<hex:FF07>Master<hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303>."
+108,"TEXT_AKTKVA101_04646_NANAMOULNAMO_000_066","(-Nanamo Ul Namo-)...As Kokoshu might say.<hex:02100103>'Tis I, Nanamo! Did I fool you?"
+109,"TEXT_AKTKVA101_04646_NANAMOULNAMO_000_067","(-Nanamo Ul Namo-)My lady-in-waiting yet plays the role of sultana, but we reasoned it odd if “Kokoshu” were to enter my chambers and never emerge."
+110,"TEXT_AKTKVA101_04646_NANAMOULNAMO_000_068","(-Nanamo Ul Namo-)Thus the disguise. It also affords me a way to speak with you without the usual royal fanfare."
+111,"TEXT_AKTKVA101_04646_NANAMOULNAMO_000_069","(-Nanamo Ul Namo-)As for our expedition, that was...rather more taxing than I had anticipated. What I had planned as a simple sating of curiosity has given me much to consider."
+112,"TEXT_AKTKVA101_04646_NANAMOULNAMO_000_070","(-Nanamo Ul Namo-)I thought I had come to terms with the loss of my parents; that I was content with the few faint memories I had."
+113,"TEXT_AKTKVA101_04646_NANAMOULNAMO_000_071","(-Nanamo Ul Namo-)Yet walking into that beautiful secluded garden, and seeing the traces of themselves they left behind... It forced me to acknowledge the grief I hid away as a child, and carry locked within my heart even now."
+114,"TEXT_AKTKVA101_04646_NANAMOULNAMO_000_072","(-Nanamo Ul Namo-)Few are aware of Ul'dah's historic alliance with the Amalj'aa. The fortifications we saw are undoubtedly remnants from that period of cooperation─a chapter of our past that has long been kept from the light of day."
+115,"TEXT_AKTKVA101_04646_NANAMOULNAMO_000_073","(-Nanamo Ul Namo-)I've been afforded a tangible glimpse into how things once stood between us. And as we continue our struggle to repair ties with the tribes, I am encouraged that they will one day be so harmonious again."
+116,"TEXT_AKTKVA101_04646_NANAMOULNAMO_000_074","(-Nanamo Ul Namo-)Ul'dah was built upon sacrifice─Sil'dihn sacrifice. To know this is one thing, but to actually walk through the decaying ruins of a palace is another."
+117,"TEXT_AKTKVA101_04646_NANAMOULNAMO_000_075","(-Nanamo Ul Namo-)The victors should not seek to bury the price of victory alongside the bodies of the fallen. I feel that Father, wise sultan that he was, wished for me to learn this lesson."
+118,"TEXT_AKTKVA101_04646_NANAMOULNAMO_000_076","(-Nanamo Ul Namo-)I had not, for instance, dreamed our path would lead to a hidden vault─much less one maintained by a succession of sultans."
+119,"TEXT_AKTKVA101_04646_NANAMOULNAMO_000_077","(-Nanamo Ul Namo-)I imagine the appointment of this secret trust would have accompanied one's ascension to the throne, but my father's passing was...sudden. He likely only had opportunity to leave a short letter in the vault, and then bequeath me the key in the hopes that I would find it."
+120,"TEXT_AKTKVA101_04646_NANAMOULNAMO_000_078","(-Nanamo Ul Namo-)And now I have. Even across the years, the faded parchment conveys their love, and I will honor their memory as daughter and sultana both."
+121,"TEXT_AKTKVA101_04646_NANAMOULNAMO_000_079","(-Nanamo Ul Namo-)As for the vault itself, the priority must be to catalog and preserve its contents. You deserve to share in the results of that inspection, thus I will contact you through Kokoshu when I have grasped the extent of our discovery."
+122,"TEXT_AKTKVA101_04646_NANAMOULNAMO_000_080","(-Nanamo Ul Namo-)Such revelations aside, I cannot help but dwell upon the fuss which Mother and Father made of the choices I would make, and the paths I would take... Other places of import yet lurk behind those portals, of that I am certain."
+123,"TEXT_AKTKVA101_04646_NANAMOULNAMO_000_081","(-Nanamo Ul Namo-)Yes, I should very much like to conduct a more thorough exploration─when time and circumstance permit, of course. Aid me in mapping out this underground enigma, and you will find me a very grateful sultana!"
+124,"TEXT_AKTKVA101_04646_NANAMOULNAMO_000_082","(-Nanamo Ul Namo-)In this very moment, however, there are several dreary affairs of state which demand my attention. I believe Kokoshu wishes a word before you depart, so pray abide here a while, if you would."
+125,"TEXT_AKTKVA101_04646_NANAMOULNAMO_000_083","(-Nanamo Ul Namo-)Keep well, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, and we shall meet again soon."
+126,"TEXT_AKTKVA101_04646_KOKOSHU_000_084","Welcome back, <hex:020815E905FF09>Mistress<hex:FF07>Master<hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303>. Ah, lest you wonder, I promise I am the real Kokoshu this time."
+127,"TEXT_AKTKVA101_04646_KILFUFU_100_084","And I am Kilfufu, Kokoshu's assistant and fellow trusted confidant. A pleasure to make your acquaintance."
+128,"TEXT_AKTKVA101_04646_KILFUFU_100_085","As part of Her Grace's, uh, “inner circle,” I simply had to come along to offer my thanks in person."
+129,"TEXT_AKTKVA101_04646_KOKOSHU_000_085","Yes, we are most grateful for your steadfast presence."
+130,"TEXT_AKTKVA101_04646_KOKOSHU_000_086","I worried what would happen when the sultana first laid out her rather reckless plan, yet she has returned to us not only unharmed, but invigorated."
+131,"TEXT_AKTKVA101_04646_KILFUFU_100_087","For the sake of Her Grace's well-being─and our continued peace of mind─we hope that you will agree to further forays at her side."
+132,"TEXT_AKTKVA101_04646_KOKOSHU_000_088","We were also informed by Mistress Momodi that the gleaners' guildship was instrumental in facilitating our request."
+133,"TEXT_AKTKVA101_04646_KOKOSHU_000_089","When next you visit Sharlayan, please do pass on our warmest regards to Shallow Moor."
+134,"TEXT_AKTKVA101_04646_KOKOSHU_000_090","Considering your tendency to range beyond the reach of ordinary mortals, I was not at all certain that our request would reach you. We do appreciate Shallow Moor's zeal in tracking you down!"
+135,"TEXT_AKTKVA101_04646_SHALLOWMOOR_000_095","All finished with the job, then, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>? Mistress Momodi called to thank us, and let us know that you'd arrived in Ul'dah."
+136,"TEXT_AKTKVA101_04646_SHALLOWMOOR_000_096","So, the little lady-in-waiting sends her regards as well, does she? They sure know how to make a girl feel appreciated!"
+137,"TEXT_AKTKVA101_04646_SHALLOWMOOR_000_097","Oh, I should probably give you a nudge in Osmon's direction; he's been scanning the crowd every few moments, hoping you'd be back to regale him with the tale of your odd job adventure."
+138,"TEXT_AKTKVA101_04646_SHALLOWMOOR_000_098","If you've the time, I'm sure he'd be thrilled with any scrap of story you care to share!"
+139,"TEXT_AKTKVA101_04646_SYSTEM_100_100","The <hex:024804F201F403><hex:024904F201F503>Sil'dih Survey Record<hex:0249020103><hex:0248020103> is now available within the V&C Dungeon Finder in the Duty section of the main menu."
+140,"TEXT_AKTKVA101_04646_SYSTEM_100_101","New entries will be added to the log as you complete each possible route through the variant dungeon."
+141,"TEXT_AKTKVA101_04646_KOKOSHU_000_024",""
+142,"TEXT_AKTKVA101_04646_NANAMOULNAMO_000_026",""
+143,"TEXT_AKTKVA101_04646_NANAMOULNAMO_000_027",""
+144,"TEXT_AKTKVA101_04646_NANAMOULNAMO_000_028",""
+145,"TEXT_AKTKVA101_04646_NANAMOULNAMO_000_029",""
+146,"TEXT_AKTKVA101_04646_KOKOSHU_000_087",""
+147,"TEXT_AKTKVA101_04646_ULDAHMILITARY04646_000_059",""

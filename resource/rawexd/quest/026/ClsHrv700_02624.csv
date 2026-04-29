@@ -2,114 +2,114 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_CLSHRV700_02624_SEQ_00,綠地菜園的艾德姬絲有事要告訴冒險者。
-1,TEXT_CLSHRV700_02624_SEQ_01,據艾德姬絲所說，她找到了對抗讓第一代雜交新薯枯死的線蟲的對策。和格里達尼亞園藝工公會的弗弗茶談談。
-2,TEXT_CLSHRV700_02624_SEQ_02,和弗弗茶進行了交談。原來他們準備用煉金藥和共生植物雙管齊下防治害蟲。弗弗茶拜託冒險者去找一種叫破壞神之杖的花。和基拉巴尼亞邊區帝國東方堡的艾德姬絲匯合。
-3,TEXT_CLSHRV700_02624_SEQ_03,和艾德姬絲匯合了。據她所說，在阿拉基利似乎有過破壞神之杖的流通。和基拉巴尼亞山區阿拉基利的艾德姬絲匯合。
-4,TEXT_CLSHRV700_02624_SEQ_04,和艾德姬絲匯合了。在阿拉基利收集破壞神之杖的情報。
-5,TEXT_CLSHRV700_02624_SEQ_05,收集了破壞神之杖的情報。和阿拉基利的艾德姬絲談談。
-6,TEXT_CLSHRV700_02624_SEQ_06,和艾德姬絲進行了交談。破壞神之杖有可能生長在基拉巴尼亞湖區人煙稀少的岩山上。將5個<hex:02280BFF05>Item<hex:F2461C0103>交給田園郡綠地菜園的艾德姬絲。可以在基拉巴尼亞湖區王家獵場的草場上採到<hex:02280BFF05>Item<hex:F2461C0103>。
-7,TEXT_CLSHRV700_02624_SEQ_07,將<hex:02280BFF05>Item<hex:F2461C0103>交給了艾德姬絲，移種到了菜園。雖然品種改良需要大量時間，但被弗弗茶認定為首席園藝工的艾德姬絲一定能成功。
-8,TEXT_CLSHRV700_02624_SEQ_08,
-9,TEXT_CLSHRV700_02624_SEQ_09,
-10,TEXT_CLSHRV700_02624_SEQ_10,
-11,TEXT_CLSHRV700_02624_SEQ_11,
-12,TEXT_CLSHRV700_02624_SEQ_12,
-13,TEXT_CLSHRV700_02624_SEQ_13,
-14,TEXT_CLSHRV700_02624_SEQ_14,
-15,TEXT_CLSHRV700_02624_SEQ_15,
-16,TEXT_CLSHRV700_02624_SEQ_16,
-17,TEXT_CLSHRV700_02624_SEQ_17,
-18,TEXT_CLSHRV700_02624_SEQ_18,
-19,TEXT_CLSHRV700_02624_SEQ_19,
-20,TEXT_CLSHRV700_02624_SEQ_20,
-21,TEXT_CLSHRV700_02624_SEQ_21,
-22,TEXT_CLSHRV700_02624_SEQ_22,
-23,TEXT_CLSHRV700_02624_SEQ_23,
-24,TEXT_CLSHRV700_02624_TODO_00,和園藝工公會的弗弗茶對話
-25,TEXT_CLSHRV700_02624_TODO_01,與帝國東方堡的艾德姬絲匯合
-26,TEXT_CLSHRV700_02624_TODO_02,與阿拉基利的艾德姬絲匯合
-27,TEXT_CLSHRV700_02624_TODO_03,在阿拉基利收集情報
-28,TEXT_CLSHRV700_02624_TODO_04,和艾德姬絲對話
-29,TEXT_CLSHRV700_02624_TODO_05,<hex:02085CE3E802E803FF24>在王家獵場採集<hex:02280BFF05>Item<hex:F2461C0103><hex:FF30>將<hex:02280BFF05>Item<hex:F2461C0103>交給田園郡的艾德姬絲<hex:03>
-30,TEXT_CLSHRV700_02624_TODO_06,
-31,TEXT_CLSHRV700_02624_TODO_07,
-32,TEXT_CLSHRV700_02624_TODO_08,
-33,TEXT_CLSHRV700_02624_TODO_09,
-34,TEXT_CLSHRV700_02624_TODO_10,
-35,TEXT_CLSHRV700_02624_TODO_11,
-36,TEXT_CLSHRV700_02624_TODO_12,
-37,TEXT_CLSHRV700_02624_TODO_13,
-38,TEXT_CLSHRV700_02624_TODO_14,
-39,TEXT_CLSHRV700_02624_TODO_15,
-40,TEXT_CLSHRV700_02624_TODO_16,
-41,TEXT_CLSHRV700_02624_TODO_17,
-42,TEXT_CLSHRV700_02624_TODO_18,
-43,TEXT_CLSHRV700_02624_TODO_19,
-44,TEXT_CLSHRV700_02624_TODO_20,
-45,TEXT_CLSHRV700_02624_TODO_21,
-46,TEXT_CLSHRV700_02624_TODO_22,
-47,TEXT_CLSHRV700_02624_TODO_23,
-48,TEXT_CLSHRV700_02624_SYSTEM_100_000,若要領取或繼續推進本任務，<hex:02100103>需完成「紅蓮之狂潮主線任務」中的「前往山岳地帶」。
-49,TEXT_CLSHRV700_02624_EDGYTH_000_000,冒險者，我找到了！<hex:02100103>找到對付線蟲的方法了！
-50,TEXT_CLSHRV700_02624_EDGYTH_000_001,我現在正要去找弗弗茶大人商量對策！<hex:02100103>請冒險者也一起來，我會等您的！
-51,TEXT_CLSHRV700_02624_EDGYTH_000_002,我等您好久了。<hex:02100103>讓我們趕緊開始吧！
-52,TEXT_CLSHRV700_02624_SAWNEY_000_010,喲，冒險者，你也來了。
-53,TEXT_CLSHRV700_02624_FUFUCHA_000_011,這下所有人都到齊了。<hex:02100103>那我們就開始討論線蟲對策吧。
-54,TEXT_CLSHRV700_02624_SAWNEY_000_012,首先由我開始。<hex:02100103>我從薩雷安的資料中找到了兩種方法，<hex:02100103>分別是使用煉金藥殺蟲和其他植物防治。
-55,TEXT_CLSHRV700_02624_EDGYTH_000_013,煉金藥殺蟲效果雖然強力，但副作用也很明顯。<hex:02100103>使用過度的話，很有可能會把傳播花粉的益蟲也殺滅了。
-56,TEXT_CLSHRV700_02624_FUFUCHA_000_014,既然這樣，那麼同時使用煉金藥和共生植物比較好。<hex:02100103>我可以準備好園藝用煉金藥，<hex:02100103>但共生植物就不了解了。
-57,TEXT_CLSHRV700_02624_SAWNEY_000_014,等等，我有個問題……<hex:02100103>共生植物到底是什麼？
-58,TEXT_CLSHRV700_02624_FUFUCHA_000_015,簡單來說就是和農作物種在一起的植物。<hex:02100103>可以起到促進農作物生長、增加產量、或者是防治蟲害的作用。
-59,TEXT_CLSHRV700_02624_EDGYTH_000_016,根據資料顯示，一種叫做破壞神之杖的花<hex:02100103>可以用於防治線蟲。<hex:02100103>但這種花並沒有保存在聖茉夏娜植物園。
-60,TEXT_CLSHRV700_02624_FUFUCHA_000_017,我們園藝工公會也沒有這種花。<hex:02100103>但是我們可以推測出它大致分布在哪裡。
-61,TEXT_CLSHRV700_02624_FUFUCHA_000_018,這種花的名字來源於阿拉米格的守護神——破壞神拉爾戈。<hex:02100103>在破壞神信仰盛行的基拉巴尼亞，說不定還能找到這種花。
-62,TEXT_CLSHRV700_02624_SAWNEY_000_019,這時候就要輪到冒險者出場了。<hex:02100103>希望你前往基拉巴尼亞，<hex:02100103>找到可以防治蟲害的破壞神之杖。
-63,TEXT_CLSHRV700_02624_EDGYTH_000_020,那個！<hex:02100103>雖然我很沒用，但請讓我同行！
-64,TEXT_CLSHRV700_02624_SAWNEY_000_030,等等，艾德姬絲！<hex:02100103>我聽說基拉巴尼亞雖然已經結束戰爭了。<hex:02100103>但治安還沒有恢復吧？
-65,TEXT_CLSHRV700_02624_SAWNEY_000_040,等等，艾德姬絲！<hex:02100103>基拉巴尼亞還在和帝國打仗。<hex:02100103>你知不知道那裡很危險？
-66,TEXT_CLSHRV700_02624_SAWNEY_000_050,和冒險者去那裡實在是太過莽撞了。<hex:02100103>你只會成為冒險者的累贅。
-67,TEXT_CLSHRV700_02624_EDGYTH_000_051,就算這樣，我也想幫忙！<hex:02100103>就算是沒用的我，收集情報還是能做到的！
-68,TEXT_CLSHRV700_02624_FUFUCHA_000_052,我也拜託你了，<hex:022903EB0203>。<hex:02100103>看在她的熱情的份上，請帶她一起去吧。
-69,TEXT_CLSHRV700_02624_EDGYTH_000_053,太感謝了！<hex:02100103>那麼我就先走一步去帝國東方堡收集情報了！
-70,TEXT_CLSHRV700_02624_FUFUCHA_000_054,我會通知雙蛇黨，傳達艾德姬絲前往帝國東方堡的事宜。<hex:02100103>她就拜託你來照顧了，<hex:022903EB0203>。
-71,TEXT_CLSHRV700_02624_SAWNEY_000_055,我也要拜託你多照看一下艾德姬絲。<hex:02100103>她就像我的妹妹一樣……<hex:02100103>希望你能在力所能及之內保護她。
-72,TEXT_CLSHRV700_02624_FUFUCHA_000_056,尋找破壞神之杖和照看艾德姬絲就拜託你了。<hex:02100103>我相信你一定能做到。
-73,TEXT_CLSHRV700_02624_EDGYTH_000_060,冒險者，我等您很久了！<hex:02100103>我剛從阿拉米格出身的雙蛇黨軍官那裡得到了有用的消息！
-74,TEXT_CLSHRV700_02624_EDGYTH_000_061,聽說以前在叫做阿拉基利的驛站<hex:02100103>有防治蟲害的花流通。<hex:02100103>恐怕這種花就是破壞神之杖吧。
-75,TEXT_CLSHRV700_02624_EDGYTH_000_062,雖然他們說不推薦園藝工前往充滿危險的山岳地帶……<hex:02100103>但我們怎麼能停滯不前！<hex:02100103>現在就出發前往阿拉基利吧！
-76,TEXT_CLSHRV700_02624_EDGYTH_000_070,這裡就是阿拉基利……<hex:02100103>我們趕緊打聽一下破壞神之杖在哪裡吧！
-77,TEXT_CLSHRV700_02624_EDGYTH_000_071,那個，打擾您一下？<hex:02100103>雖然沒用的我這麼佔用您的時間很失禮……
-78,TEXT_CLSHRV700_02624_FRAUNK_000_080,破壞神之杖？<hex:02100103>這種花有獨特的氣味，不能作為觀賞植物。<hex:02100103>自從控制住蟲害以後就沒人做它的生意了。
-79,TEXT_CLSHRV700_02624_GERBOD_000_090,你是說那種為了防治蟲害而從湖區買來的花吧。<hex:02100103>很久沒人做這個生意了，我也不知道怎麼樣了……<hex:02100103>不好意思，你還是問問其他人吧。
-80,TEXT_CLSHRV700_02624_ALDRUTH_000_100,這是很久以前的事了，我也不是記得很清楚。<hex:02100103>這種花大概是長在人煙稀少的山中吧？<hex:02100103>說不定現在還在哪裡有。
-81,TEXT_CLSHRV700_02624_FRAUNK_000_110,我們這裡沒有賣破壞神之杖的……<hex:02100103>自從控制住蟲害以後就沒人做它的生意了。
-82,TEXT_CLSHRV700_02624_GERBOD_000_111,我聽說原本是生長於湖區的花。<hex:02100103>不好意思，我只記得這些了。
-83,TEXT_CLSHRV700_02624_ALDRUTH_000_112,這種花大概是長在人煙稀少的山中吧？<hex:02100103>說不定現在還在哪裡有。
-84,TEXT_CLSHRV700_02624_EDGYTH_000_120,冒險者，辛苦了！<hex:02100103>整理一下得到的情報，<hex:02100103><hex:02280BFF05>Item<hex:F2461C0103>應該還在湖區的某處人煙稀少的山中生長！
-85,TEXT_CLSHRV700_02624_EDGYTH_000_121,我先回田園郡做好移種<hex:02280BFF05>Item<hex:F2461C0103>的準備。<hex:02100103>如果跟您去山裡，恐怕真的會成為累贅……
-86,TEXT_CLSHRV700_02624_EDGYTH_000_122,冒險者，就拜託您去基拉巴尼亞湖區尋找<hex:02280BFF05>Item<hex:F2461C0103>。<hex:02100103>我相信您一定會找到並把它帶回田園郡的！
-87,TEXT_CLSHRV700_02624_EDGYTH_000_130,冒險者，就拜託您去基拉巴尼亞湖區尋找生長在野外的<hex:02280BFF05>Item<hex:F2461C0103>。<hex:02100103>我相信您一定會找到並把它帶回田園郡的！
-88,TEXT_CLSHRV700_02624_EDGYTH_000_131,這就是<hex:02280BFF05>Item<hex:F2461C0103>……<hex:02100103>好厲害，太厲害了，冒險者！<hex:02100103>我都不知道怎麼形容了！
-89,TEXT_CLSHRV700_02624_EDGYTH_000_132,現在還不是感動的時候。<hex:02100103>我已經做好移種的準備了，趕緊把它栽種在田裡吧！
-90,TEXT_CLSHRV700_02624_EDGYTH_000_500,冒險者，辛苦了！<hex:02100103>我們把花種在菜園四周用來防治害蟲，<hex:02100103>還挺漂亮的！
-91,TEXT_CLSHRV700_02624_SAWNEY_000_501,哇，這可真是厲害！<hex:02100103>這花不僅漂亮，味道也很濃烈！<hex:02100103>冒險者，真有您的！
-92,TEXT_CLSHRV700_02624_FUFUCHA_000_502,竟然能夠找到<hex:02280BFF05>Item<hex:F2461C0103>，<hex:02100103>果然拜託<hex:022903EB0203>是正確的。<hex:02100103>除了你以外沒有別人能做到。
-93,TEXT_CLSHRV700_02624_EDGYTH_000_503,咦？<hex:02100103>這難道是！！
-94,TEXT_CLSHRV700_02624_SAWNEY_000_504,真令人驚訝！<hex:02100103>我還以為新薯全部都枯死了，<hex:02100103>沒想到還有存活下來的……
-95,TEXT_CLSHRV700_02624_EDGYTH_000_505,雖然還有芽塊存活下來是僥倖……<hex:02100103>不過有<hex:02280BFF05>Item<hex:F2461C0103>防治線蟲，<hex:02100103>想必這次的新薯一定能健康成長。
-96,TEXT_CLSHRV700_02624_EDGYTH_000_506,不……我一定會讓它健康成長！
-97,TEXT_CLSHRV700_02624_FUFUCHA_000_507,我相信現在的艾德姬絲一定能做到。<hex:02100103>請跟我來，我有禮物要送給你。
-98,TEXT_CLSHRV700_02624_EDGYTH_000_508,這身裝備是只能送給優秀的園藝工的裝備吧？<hex:02100103>像我這樣沒用的園藝工穿著真是浪費……
-99,TEXT_CLSHRV700_02624_FUFUCHA_000_509,改良新薯的工作才踏出了第一步，<hex:02100103>想必今後還有很長的路要走。<hex:02100103>這身衣服在你身上是適逢其主。
-100,TEXT_CLSHRV700_02624_FUFUCHA_000_510,我和<hex:022903EB0203>只能幫你到這裡了。<hex:02100103>接下來就靠你自己去了解自然，探索自然了。<hex:02100103>請多加油，田園郡的首席園藝工。
-101,TEXT_CLSHRV700_02624_EDGYTH_000_511,我會加油的！<hex:02100103>我今後也會作為一直夢想的園藝工和自然打交道，<hex:02100103>然後成功完成新薯的品種改良！！
-102,TEXT_CLSHRV700_02624_SYSTEM_000_600,作為園藝工通過幫助艾德姬絲進行新薯品種改良，<hex:02100103>學會了新的技能「採集力自然恢復量提高」！
-103,TEXT_CLSHRV700_02624_CITIZENA02624_000_080,（★未使用／削除予定★）
-104,TEXT_CLSHRV700_02624_CITIZENB02624_000_090,（★未使用／削除予定★）
-105,TEXT_CLSHRV700_02624_CITIZENC02624_000_100,（★未使用／削除予定★）
-106,TEXT_CLSHRV700_02624_CITIZENA02624_000_110,（★未使用／削除予定★）
-107,TEXT_CLSHRV700_02624_CITIZENB02624_000_111,（★未使用／削除予定★）
-108,TEXT_CLSHRV700_02624_CITIZENC02624_000_112,（★未使用／削除予定★）
-109,TEXT_CLSHRV700_02624_EDGYTH_000_501,（★未使用／削除予定★）
-110,TEXT_CLSHRV700_02624_EDGYTH_000_504,（★未使用／削除予定★）
+0,"TEXT_CLSHRV700_02624_SEQ_00","For once, Edgyth is looking rather cheery."
+1,"TEXT_CLSHRV700_02624_SEQ_01","A jubilant Edgyth explains to you that a cure for the Mudplots' bad case of eelworm has finally been found. She invites you to join her at the Botanists' Guild to discuss this solution with Fufucha and the others. You ready yourself for the journey in the knowledge that the end of this popoto peril is finally in sight."
+2,"TEXT_CLSHRV700_02624_SEQ_02","Once everyone has been accounted for at the guild, Fufucha gives the signal to Sawney to explain his findings. It becomes apparent that there are two solutions to the issue, both recorded in the Sharlayan records Sawney and Edgyth had been examining. It is quickly established that neither alchemy nor companion farming will avail on their own, and Fufucha recommends you utilize a mixture of the two. You are instructed to head to Castrum Oriens in order to search for a flower named Rhalgr's streak that will form a key part of Fufucha's plan."
+3,"TEXT_CLSHRV700_02624_SEQ_03","Edgyth is told by a Twin Adder officer that a flower with strikingly similar characteristics to Rhalgr's streak used to be cultivated in Ala Ghiri. The officer also offers unsolicited advice that the area is “no place for little lady botanists.” Undeterred by the overbearing officer, the two of you make tracks for Ala Ghiri."
+4,"TEXT_CLSHRV700_02624_SEQ_04","Edgyth initially struggles to get the attention of the locals; however, you are confident that the two of you together should be able able to learn something of use."
+5,"TEXT_CLSHRV700_02624_SEQ_05","It seems that Rhalgr's streak was originally brought to Ala Ghiri to deal with a pest problem not unlike your own. While opinions on the flower's scent vary wildly, you learn that it most likely grows in a mountainous part of the Lochs."
+6,"TEXT_CLSHRV700_02624_SEQ_06","Edgyth elects to head back to Greengrub Mudplots to ready them for your return. It is left to you to hunt for Rhalgr's streak alone. You steel yourself for the search ahead."
+7,"TEXT_CLSHRV700_02624_SEQ_07","Upon your return to the Mudplots, you quickly set about planting the Rhalgr's streaks, marking the end of your involvement in Idyllshire's agricultural affairs. Fufucha bestows upon Edgyth not one, but two gifts: the very garb worn by Fufucha herself and a new title. The newly appointed first botanist of Idyllshire is slightly overwhelmed by these gestures at first, but swears she will put Idyllshire on the botanic map."
+8,"TEXT_CLSHRV700_02624_SEQ_08",""
+9,"TEXT_CLSHRV700_02624_SEQ_09",""
+10,"TEXT_CLSHRV700_02624_SEQ_10",""
+11,"TEXT_CLSHRV700_02624_SEQ_11",""
+12,"TEXT_CLSHRV700_02624_SEQ_12",""
+13,"TEXT_CLSHRV700_02624_SEQ_13",""
+14,"TEXT_CLSHRV700_02624_SEQ_14",""
+15,"TEXT_CLSHRV700_02624_SEQ_15",""
+16,"TEXT_CLSHRV700_02624_SEQ_16",""
+17,"TEXT_CLSHRV700_02624_SEQ_17",""
+18,"TEXT_CLSHRV700_02624_SEQ_18",""
+19,"TEXT_CLSHRV700_02624_SEQ_19",""
+20,"TEXT_CLSHRV700_02624_SEQ_20",""
+21,"TEXT_CLSHRV700_02624_SEQ_21",""
+22,"TEXT_CLSHRV700_02624_SEQ_22",""
+23,"TEXT_CLSHRV700_02624_SEQ_23",""
+24,"TEXT_CLSHRV700_02624_TODO_00","Speak with Fufucha in Gridania."
+25,"TEXT_CLSHRV700_02624_TODO_01","Rendezvous with Edgyth at Castrum Oriens."
+26,"TEXT_CLSHRV700_02624_TODO_02","Rendezvous with Edgyth in Ala Ghiri."
+27,"TEXT_CLSHRV700_02624_TODO_03","Gather information in Ala Ghiri."
+28,"TEXT_CLSHRV700_02624_TODO_04","Speak with Edgyth."
+29,"TEXT_CLSHRV700_02624_TODO_05","<hex:020872E3E802E803FF35>Harvest Rhalgr's streak in the Royal Hunting Grounds<hex:FF35>Deliver the Rhalgr's streaks to Edgyth in Idyllshire<hex:03>."
+30,"TEXT_CLSHRV700_02624_TODO_06",""
+31,"TEXT_CLSHRV700_02624_TODO_07",""
+32,"TEXT_CLSHRV700_02624_TODO_08",""
+33,"TEXT_CLSHRV700_02624_TODO_09",""
+34,"TEXT_CLSHRV700_02624_TODO_10",""
+35,"TEXT_CLSHRV700_02624_TODO_11",""
+36,"TEXT_CLSHRV700_02624_TODO_12",""
+37,"TEXT_CLSHRV700_02624_TODO_13",""
+38,"TEXT_CLSHRV700_02624_TODO_14",""
+39,"TEXT_CLSHRV700_02624_TODO_15",""
+40,"TEXT_CLSHRV700_02624_TODO_16",""
+41,"TEXT_CLSHRV700_02624_TODO_17",""
+42,"TEXT_CLSHRV700_02624_TODO_18",""
+43,"TEXT_CLSHRV700_02624_TODO_19",""
+44,"TEXT_CLSHRV700_02624_TODO_20",""
+45,"TEXT_CLSHRV700_02624_TODO_21",""
+46,"TEXT_CLSHRV700_02624_TODO_22",""
+47,"TEXT_CLSHRV700_02624_TODO_23",""
+48,"TEXT_CLSHRV700_02624_SYSTEM_100_000","In order to undertake this quest, you must first complete the main scenario quest “The First of Many.”"
+49,"TEXT_CLSHRV700_02624_EDGYTH_000_000","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! We've done it! We've found a solution to our pest problem at last!"
+50,"TEXT_CLSHRV700_02624_EDGYTH_000_001","I was just about to make my way to the guild to talk with Fufucha! It's only right that you should join us to see the culmination of everyone's hard work."
+51,"TEXT_CLSHRV700_02624_EDGYTH_000_002","It's been weeks since I last got lost on my way here! Aren't you proud?"
+52,"TEXT_CLSHRV700_02624_SAWNEY_000_010","Ah, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, good to see you made it. I was worried you might miss out on the best part!"
+53,"TEXT_CLSHRV700_02624_FUFUCHA_000_011","I see everyone is present and accounted for; let us begin."
+54,"TEXT_CLSHRV700_02624_SAWNEY_000_012","Sounds like my cue! Edgyth and I managed to find a solution─two, actually─to this eelworm infestation. We can choose to put our faith in either alchemy or...what was it called again? Ah yes, companion planting."
+55,"TEXT_CLSHRV700_02624_EDGYTH_000_013","While alchemy is the more potent of the two, it does have its downsides. For one, it has equally potent side effects, and if any concoction we use happens to scatter further than we planned, it could wreak all manner of havoc on the environment."
+56,"TEXT_CLSHRV700_02624_FUFUCHA_000_014","In which case, the only option realistically available to us is to make use of a blend of the two. I know enough about botanic alchemy to cover that aspect, but companion planting may prove somewhat difficult to utilize."
+57,"TEXT_CLSHRV700_02624_SAWNEY_000_014","I don't want to make a fool of myself, but could someone explain to me what companion planting is exactly?"
+58,"TEXT_CLSHRV700_02624_FUFUCHA_000_015","Simply put, it is the process of planting different crops in close proximity, so that they may mutually benefit one another. These benefits vary from stimulating the growth of neighboring crops to increasing yields. Oh, and perhaps most interestingly, it can also help prevent pest damage."
+59,"TEXT_CLSHRV700_02624_EDGYTH_000_016","In the case of eelworm infestation, a flowering plant called Rhalgr's streak is said to be effective. However, sadly for us, there are none left in Saint Mocianne's Arboretum."
+60,"TEXT_CLSHRV700_02624_FUFUCHA_000_017","I can say with confidence that we have never had any at the guild either. However, I do have an idea as to where they may be found."
+61,"TEXT_CLSHRV700_02624_FUFUCHA_000_018","The flower owes its name to Rhalgr, the guardian deity of Ala Mhigo. I daresay you stand a good chance of finding it in Gyr Abania, where faith in the Destroyer has ever been strong. It stands to reason that the flower would grow in the area."
+62,"TEXT_CLSHRV700_02624_SAWNEY_000_019","And that's where you come in, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Do you reckon you'd be up to travelin' to Gyr Abania and trackin' down this elusive plant on our behalf?"
+63,"TEXT_CLSHRV700_02624_EDGYTH_000_020","After all that we've been through together, I have a mind to accompany <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. It's the least I can do!"
+64,"TEXT_CLSHRV700_02624_SAWNEY_000_030","Don't be gettin' ahead of yourself now, young lady. The fightin' may have died down, but there's no guarantee that Gyr Abania's safe enough for civilians to be wanderin' around searching for flowers!"
+65,"TEXT_CLSHRV700_02624_SAWNEY_000_040","Don't be gettin' ahead of yourself now, young lady. Have you any idea how dangerous Gyr Abania is at the moment? Even assumin' you don't get caught up in a battle, it's still hardly a safe place for defenseless botanists!"
+66,"TEXT_CLSHRV700_02624_SAWNEY_000_050","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> may be able to look after <hex:020815E905FF08>herself<hex:FF08>himself<hex:03> just fine, but you're a different story. You would only get in the way!"
+67,"TEXT_CLSHRV700_02624_EDGYTH_000_051","Say what you want; it's my duty to accompany <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! This is the final obstacle standing in our way and I can't very well leave <hex:02080DE905FF04>her<hex:FF04>him<hex:03> to tackle it alone."
+68,"TEXT_CLSHRV700_02624_FUFUCHA_000_052","The final call is yours, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, but in my mind, such passion ought not be hindered."
+69,"TEXT_CLSHRV700_02624_EDGYTH_000_053","Thank you so much, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! This time, I promise you will have no cause to regret allowing me to accompany you. I'll go on ahead and begin asking people about the flower's whereabouts!"
+70,"TEXT_CLSHRV700_02624_FUFUCHA_000_054","I shall take the precaution of informing the Order of the Twin Adder of your visit. The best of luck to you both!"
+71,"TEXT_CLSHRV700_02624_SAWNEY_000_055","Do look after her, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Edgyth's like the little sister I never had. Doesn't bear thinkin' about what I'd do if somethin' happened to her..."
+72,"TEXT_CLSHRV700_02624_FUFUCHA_000_056","You have my full confidence, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. There is no one I would trust more with this."
+73,"TEXT_CLSHRV700_02624_EDGYTH_000_060","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, I was wondering when you'd get here! An Ala Mhigan Twin Adder officer gave me the most scrumptious morsel of information!"
+74,"TEXT_CLSHRV700_02624_EDGYTH_000_061","He claimed to have heard of a plant used to prevent pests being grown in a village named Ala Ghiri. I'm not the only one that thinks this sounds like exactly what we're searching for, am I...?"
+75,"TEXT_CLSHRV700_02624_EDGYTH_000_062","He followed this up by saying its surroundings are fraught with danger and it is no place for little lady botanists to be poking around. Honestly, the cheek of the man! All his words have done is hardened my resolve. Come, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, to Ala Ghiri we go!"
+76,"TEXT_CLSHRV700_02624_EDGYTH_000_070","Well, this seems to be the place. Let's try asking around about Rhalgr's streak."
+77,"TEXT_CLSHRV700_02624_EDGYTH_000_071","Sorry, I know you're all incredibly busy, but would you have time to answer a question or two?"
+78,"TEXT_CLSHRV700_02624_FRAUNK_000_080","Rhalgr's streak? I stocked the stuff for a while, but then the area's pest problem got sorted out and nobody wanted it anymore. The smell wasn't for everyone, you see."
+79,"TEXT_CLSHRV700_02624_GERBOD_000_090","Ah, yes. They were brought here from the Lochs for their pest-preventing qualities. No idea what was done with 'em after the vermin problem had been solved, mind you. You might have better luck asking someone else. Sorry, <hex:02080EE905FF05>lass<hex:FF04>lad<hex:03>."
+80,"TEXT_CLSHRV700_02624_ALDRUTH_000_100","Now that's a name I've not heard in a fair while. Memory's a bit foggy, but I'm pretty sure it was a wildflower found far out in the mountains. Who knows, there could still be a patch of them growing somewhere."
+81,"TEXT_CLSHRV700_02624_FRAUNK_000_110","Oof, just remembering that smell is enough to make my nose close up. Happy to have seen the last of that flower, I am."
+82,"TEXT_CLSHRV700_02624_GERBOD_000_111","From what I've heard it's native to the Lochs. Sad to say that's as far as my knowledge stretches."
+83,"TEXT_CLSHRV700_02624_ALDRUTH_000_112","From what I know, it's a wildflower found on the mountains near the Lochs. If you're in luck, there might still be a patch of them growing somewhere."
+84,"TEXT_CLSHRV700_02624_EDGYTH_000_120","Right, so from what we've heard, odds are that Rhalgr's streak grows on a mountain somewhere in the Lochs, far away from any settlements."
+85,"TEXT_CLSHRV700_02624_EDGYTH_000_121","I'm going to head back to Idyllshire lest I risk truly getting in your way. I'll make sure to prepare the Mudplots for your return; assuming everything goes swimmingly, all you'll need to do is plant the flowers and we'll be well on our way to a pest-free future!"
+86,"TEXT_CLSHRV700_02624_EDGYTH_000_122","Well, I suppose you shall actually have to find the flower first. Although, I don't imagine that will trouble you too much. If you can spot a tiny little eelworm egg, you can surely spot a flower!"
+87,"TEXT_CLSHRV700_02624_EDGYTH_000_130","You should be able to find Rhalgr's streak somewhere in the Lochs. It's time to put those eagle eyes to use once more!"
+88,"TEXT_CLSHRV700_02624_EDGYTH_000_131","This is Rhalgr's streak? It's...it's...beautiful. It's stunningly beautiful, and yet, beautifully stunning. All at the same time!"
+89,"TEXT_CLSHRV700_02624_EDGYTH_000_132","Right, Edgyth, that's enough excitement for now. Think calming thoughts... Sorry for that, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Everything's ready. All that remains is to plant the flowers!"
+90,"TEXT_CLSHRV700_02624_EDGYTH_000_500","Phew! Who knew planting flowers could be such tiring work. I have to say, even though we only planted them to rid ourselves of pests, they've done wonders for the Mudplots' overall image!"
+91,"TEXT_CLSHRV700_02624_SAWNEY_000_501","Ha ha! Now if that ain't a sight for sore eyes! The smell's not half bad either. Fantastic work, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>!"
+92,"TEXT_CLSHRV700_02624_FUFUCHA_000_502","It seems I was right to entrust this task to the guild's finest botanist. I honestly do not know if we could have done this without you, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>."
+93,"TEXT_CLSHRV700_02624_EDGYTH_000_503","I can't believe my eyes..."
+94,"TEXT_CLSHRV700_02624_SAWNEY_000_504","It's one surprise after another today! To think that any of the first batch of popotoes survived. These little guys are tough, that's for sure."
+95,"TEXT_CLSHRV700_02624_EDGYTH_000_505","I was absolutely positive they were all done for... Thank you for staying strong, little ones. It will be all right from now on."
+96,"TEXT_CLSHRV700_02624_EDGYTH_000_506","I shall make sure of it."
+97,"TEXT_CLSHRV700_02624_FUFUCHA_000_507","Having seen how far you have come, I too have the utmost confidence in you, Edgyth. However, allow me to give you a helping hand of sorts."
+98,"TEXT_CLSHRV700_02624_EDGYTH_000_508","But this garb is only given to the most accomplished of botanists! You may say I have grown of late, but I cannot bring myself to believe I am worthy of such an honor."
+99,"TEXT_CLSHRV700_02624_FUFUCHA_000_509","Now, now, do not be so harsh on yourself. It is true that you have only made but the first step on the long road to becoming a great botanist. However, it is precisely with that in mind that I saw fit to furnish you with this gift. Think of it as a sign of my steadfast belief in your future."
+100,"TEXT_CLSHRV700_02624_FUFUCHA_000_510","A future which you are now more than strong enough to cultivate on your own. While <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> and I will no longer be actively helping you, we shall certainly be keeping a watchful eye on your progress. I wish you the best of luck, first botanist of Idyllshire."
+101,"TEXT_CLSHRV700_02624_EDGYTH_000_511","F-F-First... I'm going to pretend I didn't hear that to stop myself from fainting. But I promise you all, I shall work in tandem with nature to carve Idyllshire's name firmly into botanic history, starting with these popotoes!"
+102,"TEXT_CLSHRV700_02624_SYSTEM_000_600","In blazing new trails as a botanist, you have learned “Enhanced GP Regeneration”!"
+103,"TEXT_CLSHRV700_02624_CITIZENA02624_000_080",""
+104,"TEXT_CLSHRV700_02624_CITIZENB02624_000_090",""
+105,"TEXT_CLSHRV700_02624_CITIZENC02624_000_100",""
+106,"TEXT_CLSHRV700_02624_CITIZENA02624_000_110",""
+107,"TEXT_CLSHRV700_02624_CITIZENB02624_000_111",""
+108,"TEXT_CLSHRV700_02624_CITIZENC02624_000_112",""
+109,"TEXT_CLSHRV700_02624_EDGYTH_000_501",""
+110,"TEXT_CLSHRV700_02624_EDGYTH_000_504",""

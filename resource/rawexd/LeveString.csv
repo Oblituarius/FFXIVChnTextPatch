@@ -2,39 +2,39 @@
 #,Objective
 offset,0
 int32,str
-0,
-1,討伐敵人
-2,尋找道具
-3,殲滅敵人
-4,追擊敵人
-5,令敵人弱化，並利用<hex:020833E4E80201FF19>情感動作「安撫」<hex:FF13><hex:02280FFF0A>EventItem<hex:E8020103><hex:03>將其馴服
-6,通過<hex:020827E4E80201FF07>攻擊<hex:FF19>使用<hex:02280FFF0A>EventItem<hex:E8020103><hex:03>來識破敵人的真身並進行討伐
-7,在指定地點巡邏，並擊退敵人
-8,收集«妖異全集»的書頁<hex:02100103>召喚出被封印的魔物並將其打倒
-9,使用情感動作「招手」，將<hex:02280EFF09>BNpcName<hex:E8020103>帶領到目的地
-10,到所有目標地點進行採集<hex:02100103>隨著評價提高會有相應報酬<hex:02100103>320以上　+25%<hex:02100103>303以上　+10%<hex:02100103>286以上　+05%
-11,獲得目標物品
-12,到所有目標地點進行採集，並獲得目標物品
-13,記錄所有目標地點的採集結果<hex:02100103>隨著評價提高會有相應報酬<hex:02100103>160以上　+25%<hex:02100103>152以上　+10%<hex:02100103>143以上　+05%
-14,將委託品設定到目標上
-15,目標物品不足則任務失敗
-16,搜索目標地點
-17,引誘出目標並將其打倒
-18,到所有目標地點進行採集<hex:02100103>隨著評價提高會有相應報酬<hex:02100103>479以上　+25%<hex:02100103>454以上　+10%<hex:02100103>429以上　+05%
-19,記錄所有目標地點的採集結果<hex:02100103>隨著評價提高會有相應報酬<hex:02100103>240以上　+25%<hex:02100103>227以上　+10%<hex:02100103>215以上　+05%
-20,打倒出現的魔物回收«妖異全集»的書頁<hex:02100103>召喚出被封印的魔物並將其打倒
-21,進度
-22,巡邏目的地
-23,過早嘗試馴服會起到相反的效果<hex:02100103>目標會陷入興奮狀態<hex:02100103>打倒馴服目標也會導致任務失敗
-24,使用打倒<hex:02280EFF09>BNpcName<hex:E8020103>後獲得的<hex:02280FFF0A>EventItem<hex:E8030103>，識破魔物的真身
-25,<hex:02280EFF09>BNpcName<hex:E8020103>被打倒則任務失敗
-26,保護目標的同時擊退敵人
-27,在限制時間內盡可能打倒更多的敵人
-28,找到<hex:02280FFF0A>EventItem<hex:E8020103>的持有者<hex:02100103>識破其本體並將其消滅
-29,
-30,打倒呼叫增援的敵人
-31,失敗條件：沒有達到目標數量
-32,打倒對「<hex:020815E4E80202FF07>戳指<hex:FF07>質疑<hex:03>」動作有反應的敵人<hex:02100103>獲得<hex:02280FFF0A>EventItem<hex:E8030103>
-33,失敗條件：失去所有<hex:02280EFF09>BNpcName<hex:E8020103>
-34,從<hex:02280EFF09>BNpcName<hex:E8020103>身上獲得<hex:02280FFF0A>EventItem<hex:E8030103><hex:02100103>並對<hex:02280AFF05>EObj<hex:E8040103>使用<hex:02100103>將<hex:02280EFF09>BNpcName<hex:E8050103>引誘出來
-35,過早嘗試馴服會起到相反的效果<hex:02100103>目標會陷入興奮狀態
+0,""
+1,"Defeat target enemies."
+2,"Obtain target items."
+3,"Eliminate target enemies."
+4,"Pursue and defeat target enemies."
+5,"Weaken target and then pacify it using <hex:02082EE4E80201FF12>the /soothe emote<hex:FF15><hex:023111FF0A>EventItem<hex:03E802020203><hex:03>."
+6,"<hex:02084FE4E80201FF1C>Attack target to reveal its<hex:FF2C>Use <hex:023111FF0A>EventItem<hex:02E802020203> to reveal target's<hex:03> true form, then defeat it."
+7,"Defeat all targets in the locations specified."
+8,"Gather all missing pages of the <hex:021A020203>Necrologos<hex:021A020103> and defeat the creature summoned from within."
+9,"Use the /beckon emote to lead <hex:023110FF09>BNpcName<hex:03E802020203> safely to the specified location."
+10,"Gather items at all the specified locations.<hex:02100103><hex:024804F201F803><hex:024904F201F903>Evaluation Bonus:<hex:0249020103><hex:0248020103><hex:02100103>320～ +25%<hex:02100103>303～ +10%<hex:02100103>286～  +5%"
+11,"Obtain target items."
+12,"Travel to all the specified locations and obtain the target items."
+13,"Survey target areas.<hex:02100103><hex:024804F201F803><hex:024904F201F903>Evaluation Bonus:<hex:0249020103><hex:0248020103><hex:02100103>160～ +25%<hex:02100103>152～ +10%<hex:02100103>143～  +5%"
+14,"Deliver the items to the specified locations."
+15,"Levequest deemed a failure if too few items are obtained."
+16,"Survey target areas."
+17,"Lure target from hiding and slay it."
+18,"Gather items at all the specified locations.<hex:02100103><hex:024804F201F803><hex:024904F201F903>Evaluation Bonus:<hex:0249020103><hex:0248020103><hex:02100103>479～ +25%<hex:02100103>454～ +10%<hex:02100103>429～  +5%"
+19,"Survey target areas.<hex:02100103><hex:024804F201F803><hex:024904F201F903>Evaluation Bonus:<hex:0249020103><hex:0248020103><hex:02100103>240～ +25%<hex:02100103>227～ +10%<hex:02100103>215～  +5%"
+20,"Gather all missing pages of the <hex:021A020203>Necrologos<hex:021A020103> and defeat the creature summoned from within."
+21,"Progress"
+22,"Locations visited"
+23,"Targets will grow frenzied if pacification is attempted too early.<hex:02100103>Levequest deemed a failure if targets accidentally killed."
+24,"Defeat <hex:023110FF09>BNpcName<hex:02E802030203> to obtain glamour-dispelling <hex:023111FF0A>EventItem<hex:02E803030203>."
+25,"Levequest deemed a failure if <hex:023110FF09>BNpcName<hex:03E802020203> is slain."
+26,"Defeat the enemies while protecting your charge."
+27,"Defeat as many enemies as possible within the allotted time."
+28,"Discover who is carrying <hex:023111FF0A>EventItem<hex:03E802030203> and slay the target."
+29,""
+30,"Defeat any enemies summoning reinforcements."
+31,"Objective failed if insufficient number of enemies slain."
+32,"Slay enemies that respond to the <hex:020814E4E80202FF06>/poke<hex:FF07>/doubt<hex:03> emote and collect <hex:023111FF0A>EventItem<hex:02E803030203>."
+33,"Objective failed if all <hex:023110FF09>BNpcName<hex:02E802030203> are lost."
+34,"Use <hex:023111FF0A>EventItem<hex:04E803030203> obtained from <hex:023110FF09>BNpcName<hex:04E802030203> on <hex:02310CFF05>EObj<hex:04E804030203> to lure out <hex:023110FF09>BNpcName<hex:04E805030203>."
+35,"Targets will grow frenzied if pacification is attempted too early."

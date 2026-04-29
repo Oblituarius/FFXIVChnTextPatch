@@ -2,75 +2,75 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_CTSERKEUREKA1SPWEAPON_00450_GEROLT_000_000,喲！冒險者你已經習慣優雷卡的環境了嗎？<hex:02100103>我可是已經巴不得趕緊回去了……
-1,TEXT_CTSERKEUREKA1SPWEAPON_00450_GEROLT_000_001,唉，但是光在這裡抱怨也不能讓我少還一分錢。<hex:02100103>既然這樣，那就只能靠辛勤工作來還債了。<hex:02100103>快點把你的裝備和<hex:02280BFF05>Item<hex:F255290103>交出來。
-2,TEXT_CTSERKEUREKA1SPWEAPON_00450_GEROLT_000_002,作為冒險者所需要的東西……<hex:02100103>發什麼愣啊，我是說要給你製作武器和防具！<hex:02100103>確切的說是用在優雷卡收集到的素材來強化你的裝備。
-3,TEXT_CTSERKEUREKA1SPWEAPON_00450_GEROLT_000_003,因為合同上寫著如果我能在強化過程中做出些值錢的東西，<hex:02100103>就能抵消一部分我的欠款。所以為了我的自由，你就別客氣了！<hex:02100103>來來來，你想要的裝備趕緊隨意下單！
-4,TEXT_CTSERKEUREKA1SPWEAPON_00450_SYSTEM_000_004,開放了禁地兵裝的強化功能！<hex:02100103>可以將<hex:02280BFF05>Item<hex:F255290103>交給蓋羅爾特來強化70級特職專用裝備。
-5,TEXT_CTSERKEUREKA1SPWEAPON_00450_GEROLT_000_010,喲，你來強化裝備嗎？<hex:02100103>先把東西交出來。
-6,TEXT_CTSERKEUREKA1SPWEAPON_00450_Q1_000_000,要做什麼？
-7,TEXT_CTSERKEUREKA1SPWEAPON_00450_A1_000_001,強化裝備（<hex:02280EFF09>ClassJob<hex:E8020103>）
-8,TEXT_CTSERKEUREKA1SPWEAPON_00450_A1_000_002,強化+2武器（<hex:02280EFF09>ClassJob<hex:E8020103>）
-9,TEXT_CTSERKEUREKA1SPWEAPON_00450_A1_000_003,強化裝備（戰鬥菁英）
-10,TEXT_CTSERKEUREKA1SPWEAPON_00450_A1_100_003,強化裝備（魔法導師）
-11,TEXT_CTSERKEUREKA1SPWEAPON_00450_A1_110_003,分解<hex:02280BFF05>Item<hex:F2552B0103>
-12,TEXT_CTSERKEUREKA1SPWEAPON_00450_A1_000_004,聽取說明
-13,TEXT_CTSERKEUREKA1SPWEAPON_00450_A1_000_005,取消
-14,TEXT_CTSERKEUREKA1SPWEAPON_00450_GEROLT_000_020,<hex:02280BFF05>Item<hex:F255290103>作為素材雖然不錯，<hex:02100103>但是要想繼續強化裝備，就有點派不上用場了。<hex:02100103>想要將裝備強化到最終形態，還是缺了點什麼。
-15,TEXT_CTSERKEUREKA1SPWEAPON_00450_GEROLT_000_030,不過反正以你現在的武器，還不是該考慮這個問題的時候。<hex:02100103>在討論最終形態之前，你先把<hex:02280BFF05>Item<hex:F255290103>拿過來再說。
-16,TEXT_CTSERKEUREKA1SPWEAPON_00450_SYSTEM_100_031,要將武器強化到禁地兵裝·常風階段，<hex:02100103>需要持有<hex:02280AFF05>Item<hex:E8020103>和<hex:02280AFF05>Item<hex:E8030103>。
-17,TEXT_CTSERKEUREKA1SPWEAPON_00450_SYSTEM_000_031,要將武器強化到禁地兵裝·常風階段，<hex:02100103>需要持有<hex:02280AFF05>Item<hex:E8020103>。
-18,TEXT_CTSERKEUREKA1SPWEAPON_00450_GEROLT_000_040,你可別來問我具體需要什麼東西啊。<hex:02100103>反正只要是稀少的東西就拿給我看看，<hex:02100103>由我來判斷能不能用來強化武器。
-19,TEXT_CTSERKEUREKA1SPWEAPON_00450_SYSTEM_100_041,強化<hex:02280AFF05>Item<hex:E8020103>和<hex:02280AFF05>Item<hex:E8030103><hex:02100103>需要不同於<hex:02280BFF05>Item<hex:F255290103>的道具。<hex:02100103>請和其他玩家互相交換資訊，努力尋找。
-20,TEXT_CTSERKEUREKA1SPWEAPON_00450_SYSTEM_000_041,強化<hex:02280AFF05>Item<hex:E8020103><hex:02100103>需要不同於<hex:02280BFF05>Item<hex:F255290103>的道具。<hex:02100103>請和其他玩家互相交換資訊，努力尋找。
-21,TEXT_CTSERKEUREKA1SPWEAPON_00450_GEROLT_100_040,……嗯？<hex:02100103>喂，瞧你一臉信心滿滿的樣子，<hex:02100103>好吧，那你就把找到的東西給我看看吧！
-22,TEXT_CTSERKEUREKA1SPWEAPON_00450_GEROLT_110_040,這個是……<hex:02280BFF05>Item<hex:F2552A0103>嗎。<hex:02100103>雖然不錯，但是你手裡的數量完全不夠用來強化……<hex:02100103>好了，別發呆了，快去再弄點過來！
-23,TEXT_CTSERKEUREKA1SPWEAPON_00450_GEROLT_000_050,……嗯？<hex:02100103>喂，瞧你一臉信心滿滿的樣子，<hex:02100103>好吧，快把你需要強化的裝備和那個東西一起拿給我看看！
-24,TEXT_CTSERKEUREKA1SPWEAPON_00450_GEROLT_000_060,只要有了擁有強大魔力的這個的話……<hex:02100103>你等一會，我就這給你做出最好的……<hex:02100103>
-25,TEXT_CTSERKEUREKA1SPWEAPON_00450_GEROLT_000_070,做好了！這就是使用常風地帶的素材，強化出的武器最終形態……<hex:02100103><hex:02280AFF05>Item<hex:E8020103>還有<hex:02280AFF05>Item<hex:E8030103>！
-26,TEXT_CTSERKEUREKA1SPWEAPON_00450_GEROLT_000_080,做好了！這就是使用常風地帶的素材，強化出的武器最終形態……<hex:02100103><hex:02280AFF05>Item<hex:E8020103>！
-27,TEXT_CTSERKEUREKA1SPWEAPON_00450_GEROLT_000_090,呵，不愧是我做的！<hex:02100103>但是光這樣我的欠款減少不了多少，<hex:02100103>就當是幫我一把，你就接著給我下單好了！
-28,TEXT_CTSERKEUREKA1SPWEAPON_00450_Q2_000_000,要強化哪個特職的裝備？
-29,TEXT_CTSERKEUREKA1SPWEAPON_00450_MENU_JOB,<hex:02280EFF09>ClassJob<hex:E8020103>
-30,TEXT_CTSERKEUREKA1SPWEAPON_00450_MENU_CANCEL,返回
-31,TEXT_CTSERKEUREKA1SPWEAPON_00450_Q4_000_000,想了解什麼？
-32,TEXT_CTSERKEUREKA1SPWEAPON_00450_A4_000_001,關於強化裝備
-33,TEXT_CTSERKEUREKA1SPWEAPON_00450_A4_000_002,關於強化+2武器
-34,TEXT_CTSERKEUREKA1SPWEAPON_00450_A4_100_002,關於分解<hex:02280BFF05>Item<hex:F2552B0103>
-35,TEXT_CTSERKEUREKA1SPWEAPON_00450_A4_000_003,返回
-36,TEXT_CTSERKEUREKA1SPWEAPON_00450_GEROLT_000_100,為了能讓你和擁有屬性之力的魔物進行戰鬥，<hex:02100103>我來幫你強化武器和防具！<hex:02100103>只不過需要<hex:02280BFF05>Item<hex:F255290103>……
-37,TEXT_CTSERKEUREKA1SPWEAPON_00450_SYSTEM_000_101,將收集到的特定道具交給蓋羅爾特，<hex:02100103>可以將70級特職專用武器及專用防具進行強化，<hex:02100103>並且最多可以強化4個階段。
-38,TEXT_CTSERKEUREKA1SPWEAPON_00450_SYSTEM_000_102,如果未持有用於強化的舊化裝備，<hex:02100103>可以從利姆薩·羅敏薩、格里達尼亞、烏爾達哈<hex:02100103>各國的失物管理人處進行購買。
-39,TEXT_CTSERKEUREKA1SPWEAPON_00450_GEROLT_000_110,<hex:02280BFF05>Item<hex:F255290103>作為素材雖然不錯，<hex:02100103>但是光靠這個，沒法進一步進行強化。<hex:02100103>看來得想想有沒有別的素材……
-40,TEXT_CTSERKEUREKA1SPWEAPON_00450_SYSTEM_000_111,強化禁地兵裝+2<hex:02100103>需要不同於<hex:02280BFF05>Item<hex:F255290103>的道具。<hex:02100103>請和其他玩家互相交換資訊，努力尋找。
-41,TEXT_CTSERKEUREKA1SPWEAPON_00450_GEROLT_000_120,我可以幫你把不用的<hex:02280BFF05>Item<hex:F2552B0103>分解成<hex:02280BFF05>Item<hex:F255290103>，<hex:02100103>不過能分解出多少你就聽天由命吧！
-42,TEXT_CTSERKEUREKA1SPWEAPON_00450_SYSTEM_000_121,分解<hex:02280BFF05>Item<hex:F2552B0103>可以隨機獲得一定數量的<hex:02280BFF05>Item<hex:F255290103>。
-43,TEXT_CTSERKEUREKA1SPWEAPON_00450_FINAL_NEED_ITEM,（★未使用／削除予定★）
-44,TEXT_CTSERKEUREKA1SPWEAPON_00450_MENU_JOB_WEAPON,（★未使用／削除予定★）
-45,TEXT_CTSERKEUREKA1SPWEAPON_00450_MENU_SHOP_CURRENT_JOB,（★未使用／削除予定★）
-46,TEXT_CTSERKEUREKA1SPWEAPON_00450_MENU_BUILD_CURRENT_JOB,（★未使用／削除予定★）
-47,TEXT_CTSERKEUREKA1SPWEAPON_00450_MENU_NEXT,（★未使用／削除予定★）
-48,TEXT_CTSERKEUREKA1SPWEAPON_00450_MENU_PREV,（★未使用／削除予定★）
-49,TEXT_CTSERKEUREKA1SPWEAPON_00450_A2_000_001,（★未使用／削除予定★）
-50,TEXT_CTSERKEUREKA1SPWEAPON_00450_A2_000_002,（★未使用／削除予定★）
-51,TEXT_CTSERKEUREKA1SPWEAPON_00450_A2_000_003,（★未使用／削除予定★）
-52,TEXT_CTSERKEUREKA1SPWEAPON_00450_A2_000_004,（★未使用／削除予定★）
-53,TEXT_CTSERKEUREKA1SPWEAPON_00450_A2_000_005,（★未使用／削除予定★）
-54,TEXT_CTSERKEUREKA1SPWEAPON_00450_A2_000_006,（★未使用／削除予定★）
-55,TEXT_CTSERKEUREKA1SPWEAPON_00450_A2_000_007,（★未使用／削除予定★）
-56,TEXT_CTSERKEUREKA1SPWEAPON_00450_A2_000_008,（★未使用／削除予定★）
-57,TEXT_CTSERKEUREKA1SPWEAPON_00450_A2_000_009,（★未使用／削除予定★）
-58,TEXT_CTSERKEUREKA1SPWEAPON_00450_Q3_000_000,（★未使用／削除予定★）
-59,TEXT_CTSERKEUREKA1SPWEAPON_00450_A3_000_001,（★未使用／削除予定★）
-60,TEXT_CTSERKEUREKA1SPWEAPON_00450_A3_000_002,（★未使用／削除予定★）
-61,TEXT_CTSERKEUREKA1SPWEAPON_00450_A3_000_003,（★未使用／削除予定★）
-62,TEXT_CTSERKEUREKA1SPWEAPON_00450_A3_000_004,（★未使用／削除予定★）
-63,TEXT_CTSERKEUREKA1SPWEAPON_00450_A3_000_005,（★未使用／削除予定★）
-64,TEXT_CTSERKEUREKA1SPWEAPON_00450_A3_000_006,（★未使用／削除予定★）
-65,TEXT_CTSERKEUREKA1SPWEAPON_00450_A3_000_007,（★未使用／削除予定★）
-66,TEXT_CTSERKEUREKA1SPWEAPON_00450_A3_000_008,（★未使用／削除予定★）
-67,TEXT_CTSERKEUREKA1SPWEAPON_00450_A3_000_009,（★未使用／削除予定★）
-68,TEXT_CTSERKEUREKA1SPWEAPON_00450_A3_000_010,（★未使用／削除予定★）
-69,TEXT_CTSERKEUREKA1SPWEAPON_00450_SYSTEM_000_112,（★未使用／削除予定★）
-70,TEXT_CTSERKEUREKA1SPWEAPON_00450_A1_101_003,（★未使用／削除予定★）
-71,TEXT_CTSERKEUREKA1SPWEAPON_00450_A1_102_003,（★未使用／削除予定★）
+0,"TEXT_CTSERKEUREKA1SPWEAPON_00450_GEROLT_000_000","Settled in, are ye? Good for you. I'd like nothin' more than to board the first boat back to Eorzea, but no use pinin' for liberation what ain't about to come."
+1,"TEXT_CTSERKEUREKA1SPWEAPON_00450_GEROLT_000_001","This debt o' mine'll keep me shackled to this place for the foreseeable future, I reckon. Anyroad, ye got that protean crystal I've been waitin' for? Good."
+2,"TEXT_CTSERKEUREKA1SPWEAPON_00450_GEROLT_000_002","Aye, this'll do...though I'll need more than just the one─an' I'll only be able to work with weapons or gear o' the sort as made for practitioners o' certain powerful arts..."
+3,"TEXT_CTSERKEUREKA1SPWEAPON_00450_GEROLT_000_003","But I'll work like a dog if I have to! For yer sake an' mine! An' then we can both bugger off this bloody rock an' go somewhere every livin' thing ain't tryin' to kill us!"
+4,"TEXT_CTSERKEUREKA1SPWEAPON_00450_SYSTEM_000_004","You may now create and augment Eureka gear and arms. To begin, you will need to provide Gerolt with the requisite level 70 antiquated items and protean crystals."
+5,"TEXT_CTSERKEUREKA1SPWEAPON_00450_GEROLT_000_010","So, what'll it be? Arms or armor?"
+6,"TEXT_CTSERKEUREKA1SPWEAPON_00450_Q1_000_000","What would you like to do?"
+7,"TEXT_CTSERKEUREKA1SPWEAPON_00450_A1_000_001","Create or augment Eureka gear. (<hex:022D14FF1202280EFF09436C6173734A6F62E802010303>)"
+8,"TEXT_CTSERKEUREKA1SPWEAPON_00450_A1_000_002","Augment +2 Eureka weapons. (<hex:022D14FF1202280EFF09436C6173734A6F62E802010303>)"
+9,"TEXT_CTSERKEUREKA1SPWEAPON_00450_A1_000_003","Create or augment Eureka gear. (DoW)"
+10,"TEXT_CTSERKEUREKA1SPWEAPON_00450_A1_100_003","Create or augment Eureka gear. (DoM)"
+11,"TEXT_CTSERKEUREKA1SPWEAPON_00450_A1_110_003","Exchange Anemos crystals."
+12,"TEXT_CTSERKEUREKA1SPWEAPON_00450_A1_000_004","Learn about Eureka weapons and gear."
+13,"TEXT_CTSERKEUREKA1SPWEAPON_00450_A1_000_005","Nothing."
+14,"TEXT_CTSERKEUREKA1SPWEAPON_00450_GEROLT_000_020","Love to oblige ye, but a horde o' protean crystals won't suffice if I'm to cobble together somethin' truly astoundin'."
+15,"TEXT_CTSERKEUREKA1SPWEAPON_00450_GEROLT_000_030","An' besides, ye haven't even got a suitable arm for me to work with! Maybe set yer sights a little lower before shootin' for the stars, aye?"
+16,"TEXT_CTSERKEUREKA1SPWEAPON_00450_SYSTEM_100_031","To proceed, you must first acquire <hex:02310CFF05>Item<hex:02E802020203> and <hex:02310CFF05>Item<hex:02E803020203> to augment."
+17,"TEXT_CTSERKEUREKA1SPWEAPON_00450_SYSTEM_000_031","To proceed, you must first acquire <hex:02310CFF05>Item<hex:02E802020203> to augment."
+18,"TEXT_CTSERKEUREKA1SPWEAPON_00450_GEROLT_000_040","What exactly do I need, ye ask? Can't rightly say, but I'll know it when I see it. Somethin' bleedin' rare, I reckon. Come an' see me when ye think ye've found somethin' suitable."
+19,"TEXT_CTSERKEUREKA1SPWEAPON_00450_SYSTEM_100_041","To augment <hex:02310CFF05>Item<hex:03E802020203> and <hex:02310CFF05>Item<hex:03E803020203>, you will need to procure something other than protean crystals. Speak with other players and share information to discover how to proceed!"
+20,"TEXT_CTSERKEUREKA1SPWEAPON_00450_SYSTEM_000_041","To augment <hex:02310CFF05>Item<hex:03E802020203>, you will need to procure something other than protean crystals. Speak with other players and share information to discover how to proceed!"
+21,"TEXT_CTSERKEUREKA1SPWEAPON_00450_GEROLT_100_040","Don't tell me...ye've found it, haven't ye!? That special thing I've been waitin' for! Give it over─let me see!"
+22,"TEXT_CTSERKEUREKA1SPWEAPON_00450_GEROLT_110_040","...Pazuzu's feathers? Aye, they'll do just fine...but I'll need more than what ye've got. Sorry to get yer hopes up─but at least ye know what yer lookin' for, eh?"
+23,"TEXT_CTSERKEUREKA1SPWEAPON_00450_GEROLT_000_050","Don't tell me...ye've found it, haven't ye!? That special thing I've been waitin' for. An' in sufficient quantities, no less! Give 'em over─the weapon too!"
+24,"TEXT_CTSERKEUREKA1SPWEAPON_00450_GEROLT_000_060","Muahahaha... MUAHAHAHAHAHA! Just you wait, friend! Yer in for a show!"
+25,"TEXT_CTSERKEUREKA1SPWEAPON_00450_GEROLT_000_070","It's done! I've harnessed the essence of Anemos an' created the very pinnacle o' what this bastard region's got to offer! I give ye...<hex:02310CFF05>Item<hex:03E802020203> an' <hex:02310CFF05>Item<hex:03E803020203>!"
+26,"TEXT_CTSERKEUREKA1SPWEAPON_00450_GEROLT_000_080","It's done! I've harnessed the essence of Anemos an' created the very pinnacle o' what this bastard region's got to offer! I give ye...<hex:02310CFF05>Item<hex:03E802020203>!"
+27,"TEXT_CTSERKEUREKA1SPWEAPON_00450_GEROLT_000_090","An' with that, I've discharged a good chunk o' my debt to the harridan! Not nearly enough to get me off this bloody rock but hells, it's somethin'! Huzzah! Huzzah for incremental progress!"
+28,"TEXT_CTSERKEUREKA1SPWEAPON_00450_Q2_000_000","Select a job."
+29,"TEXT_CTSERKEUREKA1SPWEAPON_00450_MENU_JOB","<hex:022B14FF12><hex:02280EFF09>ClassJob<hex:E8020103><hex:03>."
+30,"TEXT_CTSERKEUREKA1SPWEAPON_00450_MENU_CANCEL","Cancel."
+31,"TEXT_CTSERKEUREKA1SPWEAPON_00450_Q4_000_000","What will you ask about?"
+32,"TEXT_CTSERKEUREKA1SPWEAPON_00450_A4_000_001","Creating and augmenting Eureka gear and weapons."
+33,"TEXT_CTSERKEUREKA1SPWEAPON_00450_A4_000_002","Augmenting +2 Eureka weapons."
+34,"TEXT_CTSERKEUREKA1SPWEAPON_00450_A4_100_002","Exchanging Anemos crystals."
+35,"TEXT_CTSERKEUREKA1SPWEAPON_00450_A4_000_003","Nothing."
+36,"TEXT_CTSERKEUREKA1SPWEAPON_00450_GEROLT_000_100","Eh? What's there to ask? If ye want to stand a fightin' chance against the beasties o' this rock, ye'll want me to strengthen yer arms an' armor!"
+37,"TEXT_CTSERKEUREKA1SPWEAPON_00450_SYSTEM_000_101","Gerolt can create Eureka gear and weapons if you provide him with the requisite level 70 antiquated items and protean crystals. He can also augment these creations further with additional protean crystals."
+38,"TEXT_CTSERKEUREKA1SPWEAPON_00450_SYSTEM_000_102","If you do not possess level 70 antiquated gear or weapons, you may purchase them from the Calamity salvagers located in Limsa Lominsa, Gridania, and Ul'dah."
+39,"TEXT_CTSERKEUREKA1SPWEAPON_00450_GEROLT_000_110","Don't go puttin' the cart before the chocobo. If ye want somethin' that bleedin' powerful, ye'll need to provide somethin' bleedin' powerful. An' protean crystals won't be enough either..."
+40,"TEXT_CTSERKEUREKA1SPWEAPON_00450_SYSTEM_000_111","To augment +2 Eureka weapons, you will need to procure something other than protean crystals. Speak with other players and share information to discover how to proceed!"
+41,"TEXT_CTSERKEUREKA1SPWEAPON_00450_GEROLT_000_120","I'll toss a few protean crystals yer way in exchange for any Anemos crystals ye don't need. How many? Well, that's for me to decide after I give 'em a good look. If that's not to yer likin', then piss off."
+42,"TEXT_CTSERKEUREKA1SPWEAPON_00450_SYSTEM_000_121","Gerolt will give you a random quantity of protean crystals in exchange for Anemos crystals."
+43,"TEXT_CTSERKEUREKA1SPWEAPON_00450_FINAL_NEED_ITEM",""
+44,"TEXT_CTSERKEUREKA1SPWEAPON_00450_MENU_JOB_WEAPON",""
+45,"TEXT_CTSERKEUREKA1SPWEAPON_00450_MENU_SHOP_CURRENT_JOB",""
+46,"TEXT_CTSERKEUREKA1SPWEAPON_00450_MENU_BUILD_CURRENT_JOB",""
+47,"TEXT_CTSERKEUREKA1SPWEAPON_00450_MENU_NEXT",""
+48,"TEXT_CTSERKEUREKA1SPWEAPON_00450_MENU_PREV",""
+49,"TEXT_CTSERKEUREKA1SPWEAPON_00450_A2_000_001",""
+50,"TEXT_CTSERKEUREKA1SPWEAPON_00450_A2_000_002",""
+51,"TEXT_CTSERKEUREKA1SPWEAPON_00450_A2_000_003",""
+52,"TEXT_CTSERKEUREKA1SPWEAPON_00450_A2_000_004",""
+53,"TEXT_CTSERKEUREKA1SPWEAPON_00450_A2_000_005",""
+54,"TEXT_CTSERKEUREKA1SPWEAPON_00450_A2_000_006",""
+55,"TEXT_CTSERKEUREKA1SPWEAPON_00450_A2_000_007",""
+56,"TEXT_CTSERKEUREKA1SPWEAPON_00450_A2_000_008",""
+57,"TEXT_CTSERKEUREKA1SPWEAPON_00450_A2_000_009",""
+58,"TEXT_CTSERKEUREKA1SPWEAPON_00450_Q3_000_000",""
+59,"TEXT_CTSERKEUREKA1SPWEAPON_00450_A3_000_001",""
+60,"TEXT_CTSERKEUREKA1SPWEAPON_00450_A3_000_002",""
+61,"TEXT_CTSERKEUREKA1SPWEAPON_00450_A3_000_003",""
+62,"TEXT_CTSERKEUREKA1SPWEAPON_00450_A3_000_004",""
+63,"TEXT_CTSERKEUREKA1SPWEAPON_00450_A3_000_005",""
+64,"TEXT_CTSERKEUREKA1SPWEAPON_00450_A3_000_006",""
+65,"TEXT_CTSERKEUREKA1SPWEAPON_00450_A3_000_007",""
+66,"TEXT_CTSERKEUREKA1SPWEAPON_00450_A3_000_008",""
+67,"TEXT_CTSERKEUREKA1SPWEAPON_00450_A3_000_009",""
+68,"TEXT_CTSERKEUREKA1SPWEAPON_00450_A3_000_010",""
+69,"TEXT_CTSERKEUREKA1SPWEAPON_00450_SYSTEM_000_112",""
+70,"TEXT_CTSERKEUREKA1SPWEAPON_00450_A1_101_003",""
+71,"TEXT_CTSERKEUREKA1SPWEAPON_00450_A1_102_003",""

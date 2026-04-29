@@ -2,111 +2,111 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_AKTKZH201_04515_SEQ_00,<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整<hex:0249020103><hex:0248020103><hex:02100103>創作者之家的麥拉和哥哥有事想找冒險者幫忙。
-1,TEXT_AKTKZH201_04515_SEQ_01,※本任務為<hex:024804F201FC03><hex:024904F201FD03><hex:0249020103><hex:0248020103> 等級調整任務。<hex:02100103><hex:02100103>麥拉的哥哥阿爾卡埃烏斯收到了來自醒悟天測園的救援請求。由於冒險者與園長等人相識，兩兄妹決定和冒險者一起前往醒悟天測園，和索克勒斯園長談談。
-2,TEXT_AKTKZH201_04515_SEQ_02,和索克勒斯園長進行了交談，了解到他希望阿爾卡埃烏斯用時魔法來為被呂卡翁殺死的急速妖鳥們送葬。前往安置亡骸的南風諾托斯的感嘆西南方和索克勒斯談談。
-3,TEXT_AKTKZH201_04515_SEQ_03,在安置亡骸的地方，冒險者接觸到了觀察者們關於送葬的思想。當聊起獻花的文化時，觀察者們表現出了興趣，決定要創造花朵進行獻花。前往南風諾托斯的感嘆和創造花朵的麥拉談談。
-4,TEXT_AKTKZH201_04515_SEQ_04,麥拉在泥土中創造出了用於祭奠的花。前往南風諾托斯的感嘆和麥拉一起收集<hex:022811FF0A>EventItem<hex:F61E916C0103>。
-5,TEXT_AKTKZH201_04515_SEQ_05,集齊了<hex:022811FF0A>EventItem<hex:F61E916C0103>。將<hex:022811FF0A>EventItem<hex:F61E916C0103>交給正在南風諾托斯的感嘆西南方等待的索克勒斯。
-6,TEXT_AKTKZH201_04515_SEQ_06,將<hex:022811FF0A>EventItem<hex:F61E916C0103>交給了索克勒斯，並將花獻給了野獸的亡骸。在原初世界已成慣例的弔唁儀式打動了幾位觀察者。和創作者之家的麥拉談談。
-7,TEXT_AKTKZH201_04515_SEQ_07,觀察者們很感謝冒險者告訴了他們關於弔唁儀式的事，然後就回去繼續工作了。向死者獻花的文化或許就是這樣誕生的。
-8,TEXT_AKTKZH201_04515_SEQ_08,
-9,TEXT_AKTKZH201_04515_SEQ_09,
-10,TEXT_AKTKZH201_04515_SEQ_10,
-11,TEXT_AKTKZH201_04515_SEQ_11,
-12,TEXT_AKTKZH201_04515_SEQ_12,
-13,TEXT_AKTKZH201_04515_SEQ_13,
-14,TEXT_AKTKZH201_04515_SEQ_14,
-15,TEXT_AKTKZH201_04515_SEQ_15,
-16,TEXT_AKTKZH201_04515_SEQ_16,
-17,TEXT_AKTKZH201_04515_SEQ_17,
-18,TEXT_AKTKZH201_04515_SEQ_18,
-19,TEXT_AKTKZH201_04515_SEQ_19,
-20,TEXT_AKTKZH201_04515_SEQ_20,
-21,TEXT_AKTKZH201_04515_SEQ_21,
-22,TEXT_AKTKZH201_04515_SEQ_22,
-23,TEXT_AKTKZH201_04515_SEQ_23,
-24,TEXT_AKTKZH201_04515_TODO_00,和索克勒斯對話
-25,TEXT_AKTKZH201_04515_TODO_01,再次和索克勒斯對話
-26,TEXT_AKTKZH201_04515_TODO_02,和麥拉對話
-27,TEXT_AKTKZH201_04515_TODO_03,收集<hex:022811FF0A>EventItem<hex:F61E916C0103>
-28,TEXT_AKTKZH201_04515_TODO_04,將<hex:022811FF0A>EventItem<hex:F61E916C0103>交給索克勒斯
-29,TEXT_AKTKZH201_04515_TODO_05,和麥拉對話
-30,TEXT_AKTKZH201_04515_TODO_06,
-31,TEXT_AKTKZH201_04515_TODO_07,
-32,TEXT_AKTKZH201_04515_TODO_08,
-33,TEXT_AKTKZH201_04515_TODO_09,
-34,TEXT_AKTKZH201_04515_TODO_10,
-35,TEXT_AKTKZH201_04515_TODO_11,
-36,TEXT_AKTKZH201_04515_TODO_12,
-37,TEXT_AKTKZH201_04515_TODO_13,
-38,TEXT_AKTKZH201_04515_TODO_14,
-39,TEXT_AKTKZH201_04515_TODO_15,
-40,TEXT_AKTKZH201_04515_TODO_16,
-41,TEXT_AKTKZH201_04515_TODO_17,
-42,TEXT_AKTKZH201_04515_TODO_18,
-43,TEXT_AKTKZH201_04515_TODO_19,
-44,TEXT_AKTKZH201_04515_TODO_20,
-45,TEXT_AKTKZH201_04515_TODO_21,
-46,TEXT_AKTKZH201_04515_TODO_22,
-47,TEXT_AKTKZH201_04515_TODO_23,
-48,TEXT_AKTKZH201_04515_MAIRA_000_000,啊，<hex:022903EB0203>。<hex:02100103>你去過醒悟天測園嗎？
-49,TEXT_AKTKZH201_04515_MAIRA_000_001,哦，你見過索克勒斯園長啊！<hex:02100103>其實是園長剛剛向哥哥尋求了幫助，<hex:02100103>我們正準備出去呢。
-50,TEXT_AKTKZH201_04515_ALKAIOS_000_002,既然你認識索克勒斯閣下的話，<hex:02100103>那也一起來吧。<hex:02100103>讓你見識一下難得的工作。
-51,TEXT_AKTKZH201_04515_ALKAIOS_000_003,好，我們一同前往醒悟天測園<hex:02100103>去找索克勒斯閣下吧。
-52,TEXT_AKTKZH201_04515_ALKAIOS_000_005,你還有時間嗎？
-53,TEXT_AKTKZH201_04515_MAIRA_000_010,好久沒來到這座島了。
-54,TEXT_AKTKZH201_04515_ALKAIOS_000_015,會請我過來幫忙就意味著……
-55,TEXT_AKTKZH201_04515_CHARMION_000_020,哎呀，<hex:022903EB0203>？！<hex:02100103>真沒想到你居然會跟阿爾卡埃烏斯他們一起出現！
-56,TEXT_AKTKZH201_04515_SOKLES_000_030,阿爾卡埃烏斯，麥拉，<hex:02100103>還有<hex:022903EB0203>。<hex:02100103>長途跋涉真是辛苦了。
-57,TEXT_AKTKZH201_04515_ALKAIOS_000_031,你居然會親自尋求幫助……<hex:02100103>是發生了什麼事故嗎？
-58,TEXT_AKTKZH201_04515_SOKLES_000_032,沒錯，似乎是呂卡翁失去了控制。<hex:02100103>雖然它們已經回歸了乙太……<hex:02100103>但受其失控影響，急速妖鳥出現了意料之外的死亡。
-59,TEXT_AKTKZH201_04515_SOKLES_000_033,我也想讓它們逐一回歸大地，可惜人手不足。<hex:02100103>所以才想找阿爾卡埃烏斯幫忙。
-60,TEXT_AKTKZH201_04515_CHARMION_000_034,<hex:022903EB0203>你應該不知道吧？<hex:02100103>在厄爾庇斯，為了讓失去靈魂的亡骸加速循環，<hex:02100103>會施加時魔法。
-61,TEXT_AKTKZH201_04515_CHARMION_000_035,通過魔法來推進亡骸的時間……<hex:02100103>從而讓它們成為厄爾庇斯大地的一部分。
-62,TEXT_AKTKZH201_04515_MAIRA_000_036,哥哥很擅長使用時魔法。<hex:02100103>很多創造生物因為意外事故死亡時，<hex:02100103>大家都會找哥哥幫忙。
-63,TEXT_AKTKZH201_04515_SOKLES_000_037,很抱歉在百忙之中把你叫過來。<hex:02100103>亡骸安置在南風諾托斯的感嘆西南方，我帶你們過去。
-64,TEXT_AKTKZH201_04515_MAIRA_000_040,觀察對象突然意外死亡，<hex:02100103>這在觀察研究各類生物的日常當中<hex:02100103>是無法避免的……
-65,TEXT_AKTKZH201_04515_ALKAIOS_000_045,就是這些嗎……
-66,TEXT_AKTKZH201_04515_CHARMION_000_050,是我和索克勒斯園長把這些亡骸搬到這裡的。
-67,TEXT_AKTKZH201_04515_SOKLES_000_060,慘遭呂卡翁毒手的急速妖鳥都在這裡了。
-68,TEXT_AKTKZH201_04515_MAIRA_000_061,它們都還在驗證的過程中吧？<hex:02100103>原本在完成自己的使命後就要回歸星球的，<hex:02100103>結果卻就這樣被奪去了未來，真是可憐……
-69,TEXT_AKTKZH201_04515_ALKAIOS_000_062,但它們的屍骨還能重歸大地。<hex:02100103>只要有我們在，<hex:02100103>就不能讓它們的生命白費。
-70,TEXT_AKTKZH201_04515_CHARMION_000_063,尚未完成使命就倒下的生命實在讓人痛心。<hex:02100103><hex:022903EB0203>，你迄今為止<hex:02100103>應該也見證過不少這樣的場面吧。
-71,TEXT_AKTKZH201_04515_CHARMION_000_064,每當這個時候……<hex:02100103>你都會想什麼，做什麼呢？
-72,TEXT_AKTKZH201_04515_Q1_000_000,如何作答？
-73,TEXT_AKTKZH201_04515_A1_000_001,獻上名為妮美雅百合的花
-74,TEXT_AKTKZH201_04515_A1_000_002,建造墳墓以做弔唁
-75,TEXT_AKTKZH201_04515_CHARMION_000_065,妮美雅百合？<hex:02100103>名字倒是很美，不過頭一次聽說啊。<hex:02100103>是最近剛登記的品種嗎？
-76,TEXT_AKTKZH201_04515_MAIRA_000_066,我們倒是會對活著的人送花……<hex:02100103>但還是頭一次聽說向亡骸獻花。<hex:02100103>雖然拿不出你說的花，但我們可以準備別的美麗的花。
-77,TEXT_AKTKZH201_04515_CHARMION_000_067,作為活過的證明留在碑上？<hex:02100103>如果是這種形式的話的確可以一直保存下去，<hex:02100103>但原本就空間有限的厄爾庇斯只會變得越來越擁擠……
-78,TEXT_AKTKZH201_04515_MAIRA_000_068,不過就像對活人送東西表達心意一樣……<hex:02100103>供奉一些東西應該也挺好的。<hex:02100103>獻花怎麼樣？
-79,TEXT_AKTKZH201_04515_MAIRA_000_069,機會難得，就試一下吧。<hex:02100103><hex:022903EB0203>也一起來吧。
-80,TEXT_AKTKZH201_04515_ALKAIOS_000_080,麥拉那邊忙完了？<hex:02100103>在這裡一個人走散了會很危險的。
-81,TEXT_AKTKZH201_04515_CHARMION_000_085,你可真是個有趣的使魔！<hex:02100103>居然會考慮到我們根本就不會去想的事！
-82,TEXT_AKTKZH201_04515_SOKLES_000_088,去把麥拉準備的花摘來吧。
-83,TEXT_AKTKZH201_04515_MAIRA_000_090,我在這裡創造了花。<hex:02100103>花這種東西，果然還是用泥土培養過的比較好看。<hex:02100103>一起來摘<hex:022811FF0A>EventItem<hex:F61E916C0103>吧。
-84,TEXT_AKTKZH201_04515_MAIRA_000_091,摘完之後就拿去交給索克勒斯吧。
-85,TEXT_AKTKZH201_04515_MAIRA_000_100,<hex:022811FF0A>EventItem<hex:F61E916C0103>是我喜歡的花。<hex:02100103>散發著淡淡的花香，很適合拿來祭奠。<hex:02100103>好了，摘完之後就拿去交給索克勒斯吧。
-86,TEXT_AKTKZH201_04515_MAIRA_000_110,啊，你是在擔心我嗎？真體貼。<hex:02100103>我再摘一些就過去，<hex:02100103>你先回到索克勒斯那裡吧。
-87,TEXT_AKTKZH201_04515_SOKLES_000_120,你把麥拉準備的花摘來了嗎？
-88,TEXT_AKTKZH201_04515_MAIRA_000_121,抱歉讓大家久等了。
-89,TEXT_AKTKZH201_04515_SOKLES_000_122,沒關係，麥拉，感謝你幫忙準備花。
-90,TEXT_AKTKZH201_04515_SOKLES_000_123,阿爾卡埃烏斯，可以開始了嗎？
-91,TEXT_AKTKZH201_04515_ALKAIOS_000_124,尚未完成使命就倒下的軀殼啊，<hex:02100103>回歸大地，孕育新的生命吧。
-92,TEXT_AKTKZH201_04515_MAIRA_000_125,真是不錯的儀式。<hex:02100103>相信回歸星海的它們的靈魂也一定會很開心的，<hex:02100103>這感覺就和給別人送禮物時一模一樣。
-93,TEXT_AKTKZH201_04515_CHARMION_000_126,沒錯，真的呢！<hex:02100103>沒想到使魔你居然擁有<hex:02100103>我們不知道的弔唁儀式！
-94,TEXT_AKTKZH201_04515_SOKLES_000_127,我們必須得回去把這件事記錄一下才行。<hex:02100103>這絕對會成為醒悟天測園歷史性的記錄。
-95,TEXT_AKTKZH201_04515_SOKLES_000_128,阿爾卡埃烏斯，這次也有勞你了。<hex:02100103>非常感謝你的幫助。
-96,TEXT_AKTKZH201_04515_SOKLES_000_129,麥拉，<hex:022903EB0203>。<hex:02100103>多虧了你們，這次弔唁儀式真的很成功。
-97,TEXT_AKTKZH201_04515_CHARMION_000_130,後面的手續就交給我們吧！<hex:02100103>非常感謝你們從創作者之家<hex:02100103>舟車勞頓來到這裡幫助我們！
-98,TEXT_AKTKZH201_04515_CHARMION_000_131,<hex:022903EB0203>，再見啦！
-99,TEXT_AKTKZH201_04515_ALKAIOS_000_132,我們也回創作者之家吧。
-100,TEXT_AKTKZH201_04515_MAIRA_000_133,好的，哥哥。<hex:02100103><hex:022903EB0203>，我們還想向你表示一下謝意，<hex:02100103>可以請你一起過來嗎？
-101,TEXT_AKTKZH201_04515_ALKAIOS_000_140,雖然是第一次經歷那樣的弔唁，<hex:02100103>感覺……嗯，還不錯。
-102,TEXT_AKTKZH201_04515_MAIRA_000_150,你這次能來幫忙真的是太好了。<hex:02100103>正當我們接到委託之際你恰巧到來，<hex:02100103>也必須要感謝這份偶然才行。
-103,TEXT_AKTKZH201_04515_MAIRA_000_151,我們活的時間比較長，<hex:02100103>自以為未知的經驗會越來越少……
-104,TEXT_AKTKZH201_04515_MAIRA_000_152,可自從遇到你之後，<hex:02100103>感覺經歷的都是一些不曾想過的經驗。<hex:02100103>真不愧是阿謝姆大人的使魔。
-105,TEXT_AKTKZH201_04515_ALKAIOS_000_153,是啊，我會將你為我們帶來的體驗<hex:02100103>都靈活運用到今後的工作當中。
-106,TEXT_AKTKZH201_04515_ALKAIOS_000_154,我們也該回去工作了。<hex:02100103>先失陪了。
-107,TEXT_AKTKZH201_04515_MAIRA_000_155,<hex:022903EB0203>，<hex:02100103>希望今後有機會還能相見。<hex:02100103>再見了，我們可愛的朋友。
+0,"TEXT_AKTKZH201_04515_SEQ_00","<hex:024804F201FC03><hex:024904F201FD03> Quest Sync<hex:0249020103><hex:0248020103><hex:02100103>Maira and her brother Alkaios look set to leave on an errand of some kind."
+1,"TEXT_AKTKZH201_04515_SEQ_01","After asking if you've been to Anagnorisis, Maira suggests that you accompany her and Alkaios to meet with your acquaintance, Overseer Sokles. It seems the overseer has summoned the siblings to assist with what promises to be an intriguing duty...<hex:02100103><hex:02100103>※Please note that the difficulty of this quest has been synced to your current level."
+2,"TEXT_AKTKZH201_04515_SEQ_02","Overseer Sokles explains that several creatures have fallen victim to rampaging lykaones. Alkaios, it seems, is often called upon to accelerate the decay of the remains with time magicks, and you have been invited to attend this somewhat solemn service in the southwest of Philomythes Notos."
+3,"TEXT_AKTKZH201_04515_SEQ_03","At the site of the fallen creations, the conversation turns to the subject of mourning and you share with the gathered ancients the traditions with which you are accustomed. Fascinated by the idea of leaving a physical reminder, Maira bids you follow her to a spot where she might prepare an offering of flowers for the deceased."
+4,"TEXT_AKTKZH201_04515_SEQ_04","Maira has manipulated the aether in the soil to produce a number of beautiful blooms. She bids you join her in picking a small bouquet for the service."
+5,"TEXT_AKTKZH201_04515_SEQ_05","Having gathered a small handful of Maira's conjured “krinoi,” you are ready to head back and deliver the offering to the waiting Sokles."
+6,"TEXT_AKTKZH201_04515_SEQ_06","Sokles accepts your offering of flowers and places them with the remains. The simple gesture, alongside Alkaios's solemn words, appears to have stirred the hearts of those present. The Anagnorisis observers express their thanks for your contribution before sending you on your way back to Poieten Oikos."
+7,"TEXT_AKTKZH201_04515_SEQ_07","Although perfectly normal to you, your ideas appear to be a source of great interest and inspiration to the long-lived observers. Again, you are forced to wonder if your presence here will affect how the future of the Source unfolds."
+8,"TEXT_AKTKZH201_04515_SEQ_08",""
+9,"TEXT_AKTKZH201_04515_SEQ_09",""
+10,"TEXT_AKTKZH201_04515_SEQ_10",""
+11,"TEXT_AKTKZH201_04515_SEQ_11",""
+12,"TEXT_AKTKZH201_04515_SEQ_12",""
+13,"TEXT_AKTKZH201_04515_SEQ_13",""
+14,"TEXT_AKTKZH201_04515_SEQ_14",""
+15,"TEXT_AKTKZH201_04515_SEQ_15",""
+16,"TEXT_AKTKZH201_04515_SEQ_16",""
+17,"TEXT_AKTKZH201_04515_SEQ_17",""
+18,"TEXT_AKTKZH201_04515_SEQ_18",""
+19,"TEXT_AKTKZH201_04515_SEQ_19",""
+20,"TEXT_AKTKZH201_04515_SEQ_20",""
+21,"TEXT_AKTKZH201_04515_SEQ_21",""
+22,"TEXT_AKTKZH201_04515_SEQ_22",""
+23,"TEXT_AKTKZH201_04515_SEQ_23",""
+24,"TEXT_AKTKZH201_04515_TODO_00","Speak with Sokles."
+25,"TEXT_AKTKZH201_04515_TODO_01","Speak with Sokles again."
+26,"TEXT_AKTKZH201_04515_TODO_02","Speak with Maira."
+27,"TEXT_AKTKZH201_04515_TODO_03","Gather krinoi."
+28,"TEXT_AKTKZH201_04515_TODO_04","Deliver the krinoi to Sokles."
+29,"TEXT_AKTKZH201_04515_TODO_05","Speak with Maira."
+30,"TEXT_AKTKZH201_04515_TODO_06",""
+31,"TEXT_AKTKZH201_04515_TODO_07",""
+32,"TEXT_AKTKZH201_04515_TODO_08",""
+33,"TEXT_AKTKZH201_04515_TODO_09",""
+34,"TEXT_AKTKZH201_04515_TODO_10",""
+35,"TEXT_AKTKZH201_04515_TODO_11",""
+36,"TEXT_AKTKZH201_04515_TODO_12",""
+37,"TEXT_AKTKZH201_04515_TODO_13",""
+38,"TEXT_AKTKZH201_04515_TODO_14",""
+39,"TEXT_AKTKZH201_04515_TODO_15",""
+40,"TEXT_AKTKZH201_04515_TODO_16",""
+41,"TEXT_AKTKZH201_04515_TODO_17",""
+42,"TEXT_AKTKZH201_04515_TODO_18",""
+43,"TEXT_AKTKZH201_04515_TODO_19",""
+44,"TEXT_AKTKZH201_04515_TODO_20",""
+45,"TEXT_AKTKZH201_04515_TODO_21",""
+46,"TEXT_AKTKZH201_04515_TODO_22",""
+47,"TEXT_AKTKZH201_04515_TODO_23",""
+48,"TEXT_AKTKZH201_04515_MAIRA_000_000","Tell me, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, have you seen much of Anagnorisis?"
+49,"TEXT_AKTKZH201_04515_MAIRA_000_001","Oh, so you've met Overseer Sokles, then! He's sent my brother a request for aid, and we were just on our way to render our assistance."
+50,"TEXT_AKTKZH201_04515_ALKAIOS_000_002","You're welcome to come along, if you like─you may be interested to witness the duty which lies ahead."
+51,"TEXT_AKTKZH201_04515_ALKAIOS_000_003","Come along. We mustn't keep the overseer waiting."
+52,"TEXT_AKTKZH201_04515_ALKAIOS_000_005","Will you accompany us a while longer?"
+53,"TEXT_AKTKZH201_04515_MAIRA_000_010","I've not crossed over to this isle in some time!"
+54,"TEXT_AKTKZH201_04515_ALKAIOS_000_015","There's only one reason they would ask for me by name..."
+55,"TEXT_AKTKZH201_04515_CHARMION_000_020","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>!? You're acquainted with Alkaios and his sister, I see!"
+56,"TEXT_AKTKZH201_04515_SOKLES_000_030","Alkaios. Maira. And <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, as well! Welcome, all of you."
+57,"TEXT_AKTKZH201_04515_ALKAIOS_000_031","A summons from you can only mean one thing... There has been an incident?"
+58,"TEXT_AKTKZH201_04515_SOKLES_000_032","Yes, the lykaones went into a frenzy, and more than a few of our observational projects were prematurely ended."
+59,"TEXT_AKTKZH201_04515_SOKLES_000_033","We began the sending rites, of course, but the task is burdensome for so few. Thus did I hope to secure your particular expertise."
+60,"TEXT_AKTKZH201_04515_CHARMION_000_034","Oh, you wouldn't be aware of the practice, would you, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>? Here in Elpis, we expedite the aetherial dissipation of the deceased by employing time magicks."
+61,"TEXT_AKTKZH201_04515_CHARMION_000_035","The decay of the corporeal remains is accelerated, and absorbed back into the ground upon which we stand."
+62,"TEXT_AKTKZH201_04515_MAIRA_000_036","As you may have guessed, the manipulation of time is Alkaios's specialty. Whenever some unexpected event results in the mass loss of creations, it is him to whom they turn."
+63,"TEXT_AKTKZH201_04515_SOKLES_000_037","That we do. Nevertheless, I do regret tearing you away from your important work. We've prepared a site to the southwest, so if you'll follow me, we can put this unpleasant business behind us in short order."
+64,"TEXT_AKTKZH201_04515_MAIRA_000_040","When you research such an eclectic collection of wildlife, it's almost inevitable that some of them will meet a sudden and unanticipated demise."
+65,"TEXT_AKTKZH201_04515_ALKAIOS_000_045","Okyupetes..."
+66,"TEXT_AKTKZH201_04515_CHARMION_000_050","The overseer and I moved the bodies here, away from the site of violence. It's...easier this way."
+67,"TEXT_AKTKZH201_04515_SOKLES_000_060","This is them─the okyupetes which fell victim to the lykaones."
+68,"TEXT_AKTKZH201_04515_MAIRA_000_061","They were still being evaluated, yes? The poor things, they barely had a chance to fulfill their design..."
+69,"TEXT_AKTKZH201_04515_ALKAIOS_000_062","Their flesh and bones will return to the land. We will ensure that their existence was not in vain."
+70,"TEXT_AKTKZH201_04515_CHARMION_000_063","Seeing life taken mid-purpose can be distressing. Have you witnessed such events before, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>? "
+71,"TEXT_AKTKZH201_04515_CHARMION_000_064","Tell me: how do <hex:021A020203>you<hex:021A020103> express yourself at these times?"
+72,"TEXT_AKTKZH201_04515_Q1_000_000","What will you say?"
+73,"TEXT_AKTKZH201_04515_A1_000_001","With an offering of Nymeia lilies."
+74,"TEXT_AKTKZH201_04515_A1_000_002","By making a grave or cairn for the deceased."
+75,"TEXT_AKTKZH201_04515_CHARMION_000_065","Nymeia lilies? A beautiful name for a flower, but not one I've heard of. I wonder if it was recently registered."
+76,"TEXT_AKTKZH201_04515_MAIRA_000_066","And you offer these lilies to the fallen... Interesting. We do have a custom of gifting flowers to those we love and admire, so I suppose this is not so different. Perhaps I can prepare some blooms to take the place of the ones you mentioned."
+77,"TEXT_AKTKZH201_04515_CHARMION_000_067","A physical reminder of the life that was? An interesting sentiment, but if we practiced such a custom in Elpis, we would eventually run out of places to put them."
+78,"TEXT_AKTKZH201_04515_MAIRA_000_068","I do like the idea of a tangible offering, though. Like a final gift for a friend. What about something organic which would decompose alongside the remains? Say, a bouquet of flowers?"
+79,"TEXT_AKTKZH201_04515_MAIRA_000_069","Come with me, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>─you can help me gather something suitable."
+80,"TEXT_AKTKZH201_04515_ALKAIOS_000_080","Were you finished with helping Maira? It isn't safe to wander alone."
+81,"TEXT_AKTKZH201_04515_CHARMION_000_085","Your thought process truly is amazing. Where do you encounter these notions that have never even occurred to us!?"
+82,"TEXT_AKTKZH201_04515_SOKLES_000_088","I believe Maira will have some flowers for you to pick."
+83,"TEXT_AKTKZH201_04515_MAIRA_000_090","Here, I've made some flowers of our own. Even those fashioned directly of aether tend to sprout with more life and color when you grow them in the soil."
+84,"TEXT_AKTKZH201_04515_MAIRA_000_091","Pick yourself a handful, and we'll take them back to the overseer."
+85,"TEXT_AKTKZH201_04515_MAIRA_000_100","Aren't they lovely? They're called “krinoi”─one of my favorite flowers."
+86,"TEXT_AKTKZH201_04515_MAIRA_000_110","Hm? Oh, I'll be just fine by myself, but it's sweet of you to worry. I'll pick a few more of these krinoi, then join you in a little while."
+87,"TEXT_AKTKZH201_04515_SOKLES_000_120","Maira's creations were acceptable, I trust?"
+88,"TEXT_AKTKZH201_04515_MAIRA_000_121","My apologies─I may have gotten a little carried away with the flowers."
+89,"TEXT_AKTKZH201_04515_SOKLES_000_122","Not at all, Maira. Your effort is much appreciated."
+90,"TEXT_AKTKZH201_04515_SOKLES_000_123","Alkaios, if you would be so kind...?"
+91,"TEXT_AKTKZH201_04515_ALKAIOS_000_124","Vessels within which life once flowed; cheated of purpose, stilled and cold. Unto the land you now return, the fuel 'pon which new life shall burn."
+92,"TEXT_AKTKZH201_04515_MAIRA_000_125","That was a beautiful service. I like to think it brought some joy to their departed souls, much as one feels when receiving a thoughtful gift."
+93,"TEXT_AKTKZH201_04515_CHARMION_000_126","Yes, the flowers were the perfect addition. How fortunate we are to have this knowledgeable familiar in our midst!"
+94,"TEXT_AKTKZH201_04515_SOKLES_000_127","We must return and commit this event to parchment while it remains fresh in our minds─a potential shift in our traditions is a historical moment worth recording."
+95,"TEXT_AKTKZH201_04515_SOKLES_000_128","Thank you again, Alkaios. We are ever grateful for your calming presence."
+96,"TEXT_AKTKZH201_04515_SOKLES_000_129","And our thanks to you, Maira and <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>─not only for attending, but also elevating the proceedings."
+97,"TEXT_AKTKZH201_04515_CHARMION_000_130","Yes, you've contributed more than enough! Allow us to take care of the tedious administrative details."
+98,"TEXT_AKTKZH201_04515_CHARMION_000_131","We hope to see you again soon, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>!"
+99,"TEXT_AKTKZH201_04515_ALKAIOS_000_132","It is time we were headed back ourselves, dear sister."
+100,"TEXT_AKTKZH201_04515_MAIRA_000_133","As you say. Please, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, join us back in Poieten Oikos."
+101,"TEXT_AKTKZH201_04515_ALKAIOS_000_140","That was a different kind of service. I think...yes, we might consider some changes."
+102,"TEXT_AKTKZH201_04515_MAIRA_000_150","What a fortuitous turn of events that you were present when we received the summons to Anagnorisis."
+103,"TEXT_AKTKZH201_04515_MAIRA_000_151","As time marches on, we encounter fewer and fewer of these truly new experiences..."
+104,"TEXT_AKTKZH201_04515_MAIRA_000_152","Yet ever since you appeared, it's been one surprise after another. I suppose we should expect nothing less from one of Azem's creations."
+105,"TEXT_AKTKZH201_04515_ALKAIOS_000_153","And now we have these precious new ideas and perspectives to apply to our duties moving forward."
+106,"TEXT_AKTKZH201_04515_ALKAIOS_000_154","Speaking of which, we really must be returning to our work."
+107,"TEXT_AKTKZH201_04515_MAIRA_000_155","Be well, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, and thank you. May our purposes─or simply our paths─align again in the future!"

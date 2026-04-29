@@ -2,107 +2,107 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_LUCKTA110_03720_SEQ_00,複製工廠廢墟的阿諾古想要徵求旅行者的意見。
-1,TEXT_LUCKTA110_03720_SEQ_01,和阿諾古進行了交談，決定一起去調查遺跡。和複製工廠廢墟的阿諾古談談。
-2,TEXT_LUCKTA110_03720_SEQ_02,和阿諾古進行了交談。再次和複製工廠廢墟的阿諾古談談。
-3,TEXT_LUCKTA110_03720_SEQ_03,再次和阿諾古進行了交談。如果在遺跡中迷路，可以利用箱形傳送裝置返回入口處。探索複製工廠廢墟，如果找到遺物就進行回收。
-4,TEXT_LUCKTA110_03720_SEQ_04,探索了複製工廠廢墟，獲得了<hex:022811FF0A>EventItem<hex:F61E8FDB0103>。交給複製工廠廢墟的阿諾古。
-5,TEXT_LUCKTA110_03720_SEQ_05,將<hex:022811FF0A>EventItem<hex:F61E8FDB0103>交給了阿諾古。阿諾古表示，應該還有其他零件，可以和<hex:022811FF0A>EventItem<hex:F61E8FDB0103>進行組裝，拼成某種裝置。探索複製工廠廢墟，找到遺物進行回收。
-6,TEXT_LUCKTA110_03720_SEQ_06,探索了複製工廠廢墟，獲得了<hex:022811FF0A>EventItem<hex:F61E8FDC0103>、<hex:022811FF0A>EventItem<hex:F61E8FDD0103>、<hex:022811FF0A>EventItem<hex:F61E8FF10103>。交給複製工廠廢墟的阿諾古。
-7,TEXT_LUCKTA110_03720_SEQ_07,將在複製工廠廢墟獲得的遺物交給了阿諾古。正當一行人要結束調查離開機械遺跡坑道時，阿諾古的探查機出現了反應。循著反應一行人來到了遺跡最深處，看到了被2P打倒的人造人少年。阿諾古表示不能將找到少年的事告訴2P。和複製工廠廢墟的阿諾古談談。
-8,TEXT_LUCKTA110_03720_SEQ_08,和阿諾古進行了交談。回到機械遺跡坑道，和阿諾古談談。
-9,TEXT_LUCKTA110_03720_SEQ_09,和阿諾古進行了交談。將遺跡回收到的遺物組裝後，得到了某種裝置。在輔助機分析出是什麼裝置前可能要等上一段時間。和古姆拉村的矮人族老爹談談。
-10,TEXT_LUCKTA110_03720_SEQ_10,和矮人族老爹進行了交談。調查遺跡後，人造人、機械生物等未知事物的謎團變得更深了。現在只能等待輔助機的分析結果了。
-11,TEXT_LUCKTA110_03720_SEQ_11,
-12,TEXT_LUCKTA110_03720_SEQ_12,
-13,TEXT_LUCKTA110_03720_SEQ_13,
-14,TEXT_LUCKTA110_03720_SEQ_14,
-15,TEXT_LUCKTA110_03720_SEQ_15,
-16,TEXT_LUCKTA110_03720_SEQ_16,
-17,TEXT_LUCKTA110_03720_SEQ_17,
-18,TEXT_LUCKTA110_03720_SEQ_18,
-19,TEXT_LUCKTA110_03720_SEQ_19,
-20,TEXT_LUCKTA110_03720_SEQ_20,
-21,TEXT_LUCKTA110_03720_SEQ_21,
-22,TEXT_LUCKTA110_03720_SEQ_22,
-23,TEXT_LUCKTA110_03720_SEQ_23,
-24,TEXT_LUCKTA110_03720_TODO_00,和複製工廠廢墟的阿諾古對話
-25,TEXT_LUCKTA110_03720_TODO_01,再次和阿諾古對話
-26,TEXT_LUCKTA110_03720_TODO_02,探索複製工廠廢墟並回收遺物
-27,TEXT_LUCKTA110_03720_TODO_03,將回收的遺物交給阿諾古
-28,TEXT_LUCKTA110_03720_TODO_04,探索複製工廠廢墟並回收遺物
-29,TEXT_LUCKTA110_03720_TODO_05,將回收的遺物交給阿諾古
-30,TEXT_LUCKTA110_03720_TODO_06,和阿諾古對話
-31,TEXT_LUCKTA110_03720_TODO_07,和機械遺跡坑道的阿諾古對話
-32,TEXT_LUCKTA110_03720_TODO_08,和古姆拉村的矮人族老爹對話
-33,TEXT_LUCKTA110_03720_TODO_09,
-34,TEXT_LUCKTA110_03720_TODO_10,
-35,TEXT_LUCKTA110_03720_TODO_11,
-36,TEXT_LUCKTA110_03720_TODO_12,
-37,TEXT_LUCKTA110_03720_TODO_13,
-38,TEXT_LUCKTA110_03720_TODO_14,
-39,TEXT_LUCKTA110_03720_TODO_15,
-40,TEXT_LUCKTA110_03720_TODO_16,
-41,TEXT_LUCKTA110_03720_TODO_17,
-42,TEXT_LUCKTA110_03720_TODO_18,
-43,TEXT_LUCKTA110_03720_TODO_19,
-44,TEXT_LUCKTA110_03720_TODO_20,
-45,TEXT_LUCKTA110_03720_TODO_21,
-46,TEXT_LUCKTA110_03720_TODO_22,
-47,TEXT_LUCKTA110_03720_TODO_23,
-48,TEXT_LUCKTA110_03720_ANOGG_000_001,看樣子科諾古不是很贊同我……
-49,TEXT_LUCKTA110_03720_ANOGG_000_002,我認為應該幫助那個人造人，<hex:02100103>這座遺跡以及其中的機械生物……還有著很多謎團。
-50,TEXT_LUCKTA110_03720_ANOGG_000_003,所以，這次就分開調查吧。<hex:02100103>你看看是跟我一起調查，<hex:02100103>還是跟科諾古一起調查。
-51,TEXT_LUCKTA110_03720_SYSTEM_000_004,與阿諾古一起調查推進劇情的話，<hex:02100103>將無法進行與科諾古一起調查時的劇情。
-52,TEXT_LUCKTA110_03720_SYSTEM_000_005,此外，無論選擇哪方，需要挑戰的任務<hex:02100103>以及能夠獲得的道具都將完全一樣。<hex:02100103>請根據自己的價值觀進行選擇。
-53,TEXT_LUCKTA110_03720_SYSTEM_000_006,（★未使用／削除予定★）
-54,TEXT_LUCKTA110_03720_Q2_000_000,是要贊同阿諾古的意見，<hex:02100103>與阿諾古一起推進劇情嗎？
-55,TEXT_LUCKTA110_03720_ANOGG_000_007,不愧是身經百戰的勇士，明白事理。<hex:02100103>那麼，就讓我們快點去調查吧。
-56,TEXT_LUCKTA110_03720_ANOGG_000_008,（★未使用／削除予定★）
-57,TEXT_LUCKTA110_03720_ANOGG_000_025,這個叫輔助機的機械，好像一直在這裡……<hex:02100103>總之它會帶咱們飛過去，<hex:02100103>就抓住它飛去對面吧！
-58,TEXT_LUCKTA110_03720_ANOGG_000_050,對了，繼續前進之前，<hex:02100103>先想一下如果迷路了怎麼辦吧。
-59,TEXT_LUCKTA110_03720_ANOGG_000_051,上次來這裡的時候好像用了那個箱子一樣的傳送裝置？<hex:02100103>看起來那個裝置也可以將我們帶回遺跡入口處。<hex:02100103>要回去的時候就用這個裝置進行傳送吧。
-60,TEXT_LUCKTA110_03720_ANOGG_000_052,越是前往深處就越難回到起始地點，<hex:02100103>總之提高警惕進行調查吧。
-61,TEXT_LUCKTA110_03720_ANOGG_000_053,如果在遺跡中發現了奇怪的東西，<hex:02100103>記得把它交給我。<hex:02100103>那麼繼續向前吧。
-62,TEXT_LUCKTA110_03720_ANOGG_000_100,這附近的調查還沒結束，<hex:02100103>你也過來幫幫忙。
-63,TEXT_LUCKTA110_03720_ANOGG_000_200,怎麼了？<hex:02100103>發現什麼了嗎？
-64,TEXT_LUCKTA110_03720_ANOGG_000_201,這是……某種零件？<hex:02100103>看起來缺失了其他部分。
-65,TEXT_LUCKTA110_03720_ANOGG_000_202,如果和其他零件進行組裝的話，<hex:02100103>也許能組成某種裝置。<hex:02100103>好，就去找一下缺失的零件吧。
-66,TEXT_LUCKTA110_03720_ANOGG_000_205,（★未使用／削除予定★）
-67,TEXT_LUCKTA110_03720_ANOGG_000_250,（★未使用／削除予定★）
-68,TEXT_LUCKTA110_03720_ANOGG_000_300,把遺跡中撿到的東西交給我吧。
-69,TEXT_LUCKTA110_03720_ANOGG_000_301,我看看，零件是不是全都集齊了呢……
-70,TEXT_LUCKTA110_03720_ANOGG_100_301,唔唔……這個快要壞掉的機械……<hex:02100103>不是輔助機嗎？！
-71,TEXT_LUCKTA110_03720_KONOGG_000_302,阿諾古……這個機械好像在說些什麼……
-72,TEXT_LUCKTA110_03720_POD_000_303,……修復……機能確認……<hex:02100103>……處理程式……啟動……
-73,TEXT_LUCKTA110_03720_POD_000_304,……檢測到……附近……<hex:02100103>有複數……生命反應。
-74,TEXT_LUCKTA110_03720_ANOGG_000_305,生命反應……是指我們嗎？
-75,TEXT_LUCKTA110_03720_ANOGG_000_306,難道它有認知周圍的機能……
-76,TEXT_LUCKTA110_03720_ANOGG_100_306,雖然看起來破舊不堪，不過應該會有什麼用，<hex:02100103>總之先帶回去吧。
-77,TEXT_LUCKTA110_03720_ANOGG_000_308,對面好像有什麼反應……<hex:02100103>過去看看吧。
-78,TEXT_LUCKTA110_03720_KONOGG_100_309,那、那是！
-79,TEXT_LUCKTA110_03720_KONOGG_000_309,他確確實實從這裡掉下去了……<hex:02100103>難道說憑自己的力量又爬上來了？<hex:02100103>阿諾古……怎麼辦？
-80,TEXT_LUCKTA110_03720_ANOGG_000_310,如果2P知道了的話，<hex:02100103>很可能會說破壞掉……
-81,TEXT_LUCKTA110_03720_ANOGG_000_311,還是調查一下他比較好……<hex:02100103>就把他帶回去，當做咱們的秘密吧。
-82,TEXT_LUCKTA110_03720_KONOGG_000_315,和阿諾古的調查還算順利嗎？<hex:02100103>有經驗豐富的旅行者陪同，應該不用擔心吧。
-83,TEXT_LUCKTA110_03720_ANOGG_000_350,我會與科諾古一起回到據點，<hex:02100103>得快點調查一下在遺跡中發現的東西。
-84,TEXT_LUCKTA110_03720_ANOGG_000_351,等你調查完遺跡後，也來一趟據點吧。
-85,TEXT_LUCKTA110_03720_KONOGG_000_352,謝謝你幫忙一起調查。<hex:02100103>不過，麻煩的事才剛剛開始……<hex:02100103>我們必須解開遺跡的謎團才行。
-86,TEXT_LUCKTA110_03720_ANOGG_000_400,旅行者，你回來了啊。<hex:02100103>我將遺跡中得到的零件組裝起來了……<hex:02100103>這看起來像是某種裝置。
-87,TEXT_LUCKTA110_03720_ANOGG_000_401,也許輔助機會知道些什麼，所以我就讓它查了一下，<hex:02100103>它現在正在進行什麼複合處理程式。
-88,TEXT_LUCKTA110_03720_ANOGG_000_402,……到最後我也不知道那個程式是幹什麼的。<hex:02100103>總之處理起來好像要花很長時間。
-89,TEXT_LUCKTA110_03720_ANOGG_000_403,現在連具體花多久……都還在計算中。
-90,TEXT_LUCKTA110_03720_ANOGG_000_404,如果有進展了我會告訴你的，<hex:02100103>在那之前就先等等看吧。
-91,TEXT_LUCKTA110_03720_ANOGG_000_405,我們接下來準備整理一下調查的結果，<hex:02100103>為了不讓老爹說三道四來搗亂，<hex:02100103>需要你先去為老爹打個預防針。
-92,TEXT_LUCKTA110_03720_ANOGG_000_406,不用擔心，你只要隨便說點好聽的就行了，<hex:02100103>當然，我們發現了什麼的話也會向老爹報告。<hex:02100103>拜託你了。
-93,TEXT_LUCKTA110_03720_ANOGG_000_410,為了不讓老爹說三道四來搗亂，<hex:02100103>需要你先去為老爹打個預防針。<hex:02100103>拜託你了。
-94,TEXT_LUCKTA110_03720_KONOGG_000_415,阿諾古好像有事要跟你說哦。
-95,TEXT_LUCKTA110_03720_POD_000_420,……
-96,TEXT_LUCKTA110_03720_KONOGG_000_425,老爹的事就拜託你了。
-97,TEXT_LUCKTA110_03720_DWARFMASTER03671_000_450,啊，是旅行者嗎。<hex:02100103>抱歉，我這邊手忙腳亂的……<hex:02100103>遺跡那些機械生物四處破壞，處理這件事讓我焦頭爛額……
-98,TEXT_LUCKTA110_03720_DWARFMASTER03671_000_451,說起來，阿諾古和科諾古怎麼樣了？
-99,TEXT_LUCKTA110_03720_Q1_000_000,如何作答？
-100,TEXT_LUCKTA110_03720_A1_000_001,正在整理遺跡的調查結果
-101,TEXT_LUCKTA110_03720_A1_000_002,他們正在努力，就不要打擾他們了
-102,TEXT_LUCKTA110_03720_DWARFMASTER03671_000_453,嗯……<hex:02100103>關於這次的事件，只能等他們的報告了啊。
-103,TEXT_LUCKTA110_03720_DWARFMASTER03671_000_454,也給旅行者你帶來了不少麻煩呢……<hex:02100103>謝謝你為了我們這樣的小村落盡心盡力。<hex:02100103>雖然不是什麼貴重的東西，但還請你收下。
+0,"TEXT_LUCKTA110_03720_SEQ_00","Anogg would dive headfirst into the great unknown."
+1,"TEXT_LUCKTA110_03720_SEQ_01","Anogg asks sharply whether you will support her in following the instructions 2P gave, and continue to cooperate with the android should the so-called “key” you seek restore her to functionality. Though the point is largely moot until such a time arrives, you agree to follow her lead, and you set off to search the ruins without further ado."
+2,"TEXT_LUCKTA110_03720_SEQ_02","You catch up to Anogg, who is considering using the pods to press further into the factory. Reluctant as one might be to place their life in the hands of a contraption described as “Not too murderous, comparatively speaking,” seeing as no alternative has presented itself since your foray with 2P, you have no choice but to cling to one of the pods for dear life and allow it to whisk you away."
+3,"TEXT_LUCKTA110_03720_SEQ_03","Deeper inside the ruins, Anogg helpfully points out that as you are able to use the mysterious tetrahedral devices positioned throughout to teleport to the entrance at any time, there is no need to feel overly trepidatious whilst exploring this new territory. She expects you to take this as a cue to forge ahead heedlessly, it seems, but will likely not object to whatever approach you take so long as you find something of interest."
+4,"TEXT_LUCKTA110_03720_SEQ_04","A cursory search of the factory yields a hunk of metal that you deem worthy of note. It would be best to get a second opinion from Anogg, however, lest you find yourself lugging around a hundred ponzes of useless garbage."
+5,"TEXT_LUCKTA110_03720_SEQ_05","Fortunately, Anogg, too, believes that what you found may be a piece of the all-important key. If you locate the others, she may be able to reassemble it."
+6,"TEXT_LUCKTA110_03720_SEQ_06","Further inspection of the area yields not only what you believe to be two more pieces of the key, but also a pod─albeit one that has seen better days. Anogg will be delighted."
+7,"TEXT_LUCKTA110_03720_SEQ_07","Seeing the array of parts you have collected, Anogg declares them sufficient to bring back for inspection and possible reconstruction. She also takes an interest in the pod, though its sudden return to functionality puts something of a damper on her plans to fiddle with its innards, and a clever device of her own design soon reveals a third exciting discovery─the motionless form of 9S, who, like 2P, must have lost the ability to function after your pitched battle. Though Anogg is willing to cooperate with 2P, that willingness evidently does not extend to outright trust, as she opts to keep 9S both intact and secret from the other android without hesitation."
+8,"TEXT_LUCKTA110_03720_SEQ_08","Now with plenty of new toys to play with, Anogg and Konogg withdraw to the tunnels to examine your finds in greater detail. You may join them whensoever you are convinced that there are no more secrets worth finding in this area of the factory."
+9,"TEXT_LUCKTA110_03720_SEQ_09","In the excavation tunnels, you speak with Anogg, who has been working to piece together the components you gathered. Unfortunately, there is no means of knowing whether her efforts have met with success until the pod has completed its analysis. Stymied, she reluctantly decides to set to work studying the other data collected within the ruins instead, and asks that you ensure that the dig site chief will not interfere with the twins' research."
+10,"TEXT_LUCKTA110_03720_SEQ_10","You speak with the dig site chief, who is shockingly amenable to the idea of letting Anogg and Konogg continue their investigation─perhaps in part because the alternative is getting involved in the messy business himself. Still, he vouches for their technical competence, so you may have confidence that the secrets of the ruins will be revealed in due course."
+11,"TEXT_LUCKTA110_03720_SEQ_11",""
+12,"TEXT_LUCKTA110_03720_SEQ_12",""
+13,"TEXT_LUCKTA110_03720_SEQ_13",""
+14,"TEXT_LUCKTA110_03720_SEQ_14",""
+15,"TEXT_LUCKTA110_03720_SEQ_15",""
+16,"TEXT_LUCKTA110_03720_SEQ_16",""
+17,"TEXT_LUCKTA110_03720_SEQ_17",""
+18,"TEXT_LUCKTA110_03720_SEQ_18",""
+19,"TEXT_LUCKTA110_03720_SEQ_19",""
+20,"TEXT_LUCKTA110_03720_SEQ_20",""
+21,"TEXT_LUCKTA110_03720_SEQ_21",""
+22,"TEXT_LUCKTA110_03720_SEQ_22",""
+23,"TEXT_LUCKTA110_03720_SEQ_23",""
+24,"TEXT_LUCKTA110_03720_TODO_00","Speak with Anogg in the Copied Factory."
+25,"TEXT_LUCKTA110_03720_TODO_01","Speak with Anogg again."
+26,"TEXT_LUCKTA110_03720_TODO_02","Search for artifacts in the factory."
+27,"TEXT_LUCKTA110_03720_TODO_03","Deliver the part to Anogg."
+28,"TEXT_LUCKTA110_03720_TODO_04","Search for more parts in the factory."
+29,"TEXT_LUCKTA110_03720_TODO_05","Deliver the parts and pod to Anogg."
+30,"TEXT_LUCKTA110_03720_TODO_06","Speak with Anogg."
+31,"TEXT_LUCKTA110_03720_TODO_07","Speak with Anogg in the excavation tunnels."
+32,"TEXT_LUCKTA110_03720_TODO_08","Speak with the dig site chief."
+33,"TEXT_LUCKTA110_03720_TODO_09",""
+34,"TEXT_LUCKTA110_03720_TODO_10",""
+35,"TEXT_LUCKTA110_03720_TODO_11",""
+36,"TEXT_LUCKTA110_03720_TODO_12",""
+37,"TEXT_LUCKTA110_03720_TODO_13",""
+38,"TEXT_LUCKTA110_03720_TODO_14",""
+39,"TEXT_LUCKTA110_03720_TODO_15",""
+40,"TEXT_LUCKTA110_03720_TODO_16",""
+41,"TEXT_LUCKTA110_03720_TODO_17",""
+42,"TEXT_LUCKTA110_03720_TODO_18",""
+43,"TEXT_LUCKTA110_03720_TODO_19",""
+44,"TEXT_LUCKTA110_03720_TODO_20",""
+45,"TEXT_LUCKTA110_03720_TODO_21",""
+46,"TEXT_LUCKTA110_03720_TODO_22",""
+47,"TEXT_LUCKTA110_03720_TODO_23",""
+48,"TEXT_LUCKTA110_03720_ANOGG_000_001","Don't fret about Konogg. He'll see that I'm right and come crawling back eventually."
+49,"TEXT_LUCKTA110_03720_ANOGG_000_002","There's so much that we could learn here. About these ruins, living machines... And 2P is the best source of information we've got. We need to seize this opportunity while we can."
+50,"TEXT_LUCKTA110_03720_ANOGG_000_003","So...are you coming, or what?"
+51,"TEXT_LUCKTA110_03720_SYSTEM_000_004","Should you give your support to Anogg's approach, Konogg's path will no longer be available to you."
+52,"TEXT_LUCKTA110_03720_SYSTEM_000_005","Please note, however, that your choice will not affect the rewards and challenges to come."
+53,"TEXT_LUCKTA110_03720_SYSTEM_000_006",""
+54,"TEXT_LUCKTA110_03720_Q2_000_000","Support Anogg's approach?"
+55,"TEXT_LUCKTA110_03720_ANOGG_000_007","I knew it! Fortune favors the bold!"
+56,"TEXT_LUCKTA110_03720_ANOGG_000_008",""
+57,"TEXT_LUCKTA110_03720_ANOGG_000_025","These “pod” devices must be part of this place, but they don't seem to be particularly murderous, as far as things in here go. We should be able to use them to ferry us further in again."
+58,"TEXT_LUCKTA110_03720_ANOGG_000_050","Oh. Right. Before we go any further─you remember these odd boxes? They seem to enable aetheric transference."
+59,"TEXT_LUCKTA110_03720_ANOGG_000_051","If we get lost, it should be a simple matter to teleport back to the entrance using one of these, so don't worry your pretty head about becoming trapped down here. And with that said..."
+60,"TEXT_LUCKTA110_03720_ANOGG_000_052","Throw caution to the wind, and go forth and investigate!"
+61,"TEXT_LUCKTA110_03720_ANOGG_000_053","And the moment─the very <hex:021A020203>instant<hex:021A020103> that you find something of note, make sure that you show it to me! Got it?"
+62,"TEXT_LUCKTA110_03720_ANOGG_000_100","Found anything mysterious yet? Records, or artifacts, or...I don't know, weird puddles of goo?"
+63,"TEXT_LUCKTA110_03720_ANOGG_000_200","You've found something, haven't you? Well!?"
+64,"TEXT_LUCKTA110_03720_ANOGG_000_201","Hmm... I'd bet that whatever this is, it's part of a greater whole."
+65,"TEXT_LUCKTA110_03720_ANOGG_000_202","Let's see if we can find any other pieces. I might be able to reassemble it...if I had any idea what it's meant to be."
+66,"TEXT_LUCKTA110_03720_ANOGG_000_205",""
+67,"TEXT_LUCKTA110_03720_ANOGG_000_250",""
+68,"TEXT_LUCKTA110_03720_ANOGG_000_300","Have you found me some more parts?"
+69,"TEXT_LUCKTA110_03720_ANOGG_000_301","Oh, look at all of these! Hard to say for sure whether we have everything until we take a crack at reassembling it, of course, but it's a start."
+70,"TEXT_LUCKTA110_03720_ANOGG_100_301","And this pod! I've been so wanting to take one of these apart..."
+71,"TEXT_LUCKTA110_03720_KONOGG_000_302","...Do you hear something?"
+72,"TEXT_LUCKTA110_03720_POD_000_303","Function resumed. Initiating repair process."
+73,"TEXT_LUCKTA110_03720_POD_000_304","Alert: multiple lifeforms detected in proximity."
+74,"TEXT_LUCKTA110_03720_ANOGG_000_305","“Lifeforms” would be us, I presume? Interesting."
+75,"TEXT_LUCKTA110_03720_ANOGG_000_306","If it's still functional, there's no need for me to disassemble it. Pity. Still, I say we take it back with us."
+76,"TEXT_LUCKTA110_03720_ANOGG_100_306","Any objections? No, of course not! So let's get on with it."
+77,"TEXT_LUCKTA110_03720_ANOGG_000_308","Oh! What's this?"
+78,"TEXT_LUCKTA110_03720_KONOGG_100_309","It's him! Though how he climbed back up here in that state..."
+79,"TEXT_LUCKTA110_03720_KONOGG_000_309","Well, you're the one who wanted to work with 2P. I'm sure she would say to destroy him for good. What do <hex:021A020203>you<hex:021A020103> say?"
+80,"TEXT_LUCKTA110_03720_ANOGG_000_310","Oh, Brother, you know me too well."
+81,"TEXT_LUCKTA110_03720_ANOGG_000_311","We take him with us, of course. Just in case. It'll be our little secret."
+82,"TEXT_LUCKTA110_03720_KONOGG_000_315","I trust your investigation is going well?"
+83,"TEXT_LUCKTA110_03720_ANOGG_000_350","Konogg and I will be heading back out. I want to perform a proper analysis on these parts as soon as possible."
+84,"TEXT_LUCKTA110_03720_ANOGG_000_351","I don't blame you if you want to look around a bit more first─though you had best share your findings!"
+85,"TEXT_LUCKTA110_03720_KONOGG_000_352","This may be the clue we've been searching for. I only hope it doesn't blow up in our faces...in any sense."
+86,"TEXT_LUCKTA110_03720_ANOGG_000_400","It's about time!"
+87,"TEXT_LUCKTA110_03720_ANOGG_000_401","You know those parts we found? Well, I've managed to cobble them together into a decent approximation of...something."
+88,"TEXT_LUCKTA110_03720_ANOGG_000_402","I was hoping that if I got the basics right, the pod could tell us what it's meant to be, but it won't stop repeating “processing” and beeping at me."
+89,"TEXT_LUCKTA110_03720_ANOGG_000_403","It worked when it was analyzing <hex:021A020203>us<hex:021A020103>, so theoretically it should be up to the task, but it seems we'll have to wait for it to finish...whatever it is that it's doing."
+90,"TEXT_LUCKTA110_03720_ANOGG_000_404","I'm half-tempted to take my tools to it, but if I can't put it back together we'll be back to square one. So─patience it is. Hmph!"
+91,"TEXT_LUCKTA110_03720_ANOGG_000_405","In the meantime, we have quite a bit of other data to analyze. So much, in fact, that I'm certain we will need a considerable amount of time─uninterrupted time─to work. If you take my meaning."
+92,"TEXT_LUCKTA110_03720_ANOGG_000_406","I'm telling you to keep the chief off our backs for a while─I don't care how. Say that his house is on fire, if you like. Or put it to the torch, if you're not comfortable with lying."
+93,"TEXT_LUCKTA110_03720_ANOGG_000_410","We simply don't have the time for half a dozen lectures about “protocol” and “safety” and “ethics,” you understand?"
+94,"TEXT_LUCKTA110_03720_KONOGG_000_415","I thought that “key” was a figure of speech, but...it looks like it could potentially be an unlocking mechanism. If you squint."
+95,"TEXT_LUCKTA110_03720_POD_000_420","<beep> Processing..."
+96,"TEXT_LUCKTA110_03720_KONOGG_000_425","You heard Anogg: we're counting on you to keep the chief occupied so that we don't have to."
+97,"TEXT_LUCKTA110_03720_DWARFMASTER03671_000_450","Lali-mysterious machines from the ruins will kill us all-ho, I suppose."
+98,"TEXT_LUCKTA110_03720_DWARFMASTER03671_000_451","Sorry, it's...been a lot to take in. Did you manage to keep our local miscreants out of trouble?"
+99,"TEXT_LUCKTA110_03720_Q1_000_000","What will you say?"
+100,"TEXT_LUCKTA110_03720_A1_000_001","They're safely studying our discoveries as we speak."
+101,"TEXT_LUCKTA110_03720_A1_000_002","I found them to be surprisingly competent, actually."
+102,"TEXT_LUCKTA110_03720_DWARFMASTER03671_000_453","It's true that when it comes to mechanical contraptions, you'll find none cleverer than those two. Or more obsessive."
+103,"TEXT_LUCKTA110_03720_DWARFMASTER03671_000_454","If anyone's capable of solving the mystery of these ruins, it's them. Much as I hate to say this, we should leave them to their own devices. For now."

@@ -2,105 +2,105 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_GAIUSE203_01347_SEQ_00,地平關的桑克瑞德有事情要告訴冒險者。
-1,TEXT_GAIUSE203_01347_SEQ_01,桑克瑞德將留在地平關，協助弗弗魯帕調查。前往西薩納蘭的黃昏灣，和阿爾菲諾談談。
-2,TEXT_GAIUSE203_01347_SEQ_02,阿爾菲諾說，從東方的邊境城邦多瑪來了些異邦人。前往烏爾達哈的御道，尋找異邦人的領袖。
-3,TEXT_GAIUSE203_01347_SEQ_03,異邦人的領袖請求覲見娜娜莫陛下，但卻吃了閉門羹。阿爾菲諾決定聽下異邦人領袖的請求。前往烏爾達哈的流沙屋，和阿爾菲諾談談。
-4,TEXT_GAIUSE203_01347_SEQ_04,從異邦人的領袖夕霧那裡了解了情況。在阿爾菲諾找勞班詢問難民問題的期間，冒險者承擔起了照看夕霧他們的任務。和流沙屋的夕霧談談。
-5,TEXT_GAIUSE203_01347_SEQ_05,夕霧告訴冒險者，他們離開祖國多瑪後，就沒吃上什麼像樣的伙食。為了讓難民們能夠吃上食物，和流沙屋的莫莫蒂談談。
-6,TEXT_GAIUSE203_01347_SEQ_06,莫莫蒂很快就答應送給難民食物，並寫了封把食物轉送到黃昏灣的委託書。前往烏爾達哈的藍玉大街國際市場，將<hex:022811FF0A>EventItem<hex:F61E89320103>交給弗里德烏里希，將<hex:022811FF0A>EventItem<hex:F61E89330103>交給卡瑟琳。
-7,TEXT_GAIUSE203_01347_SEQ_07,傳達了要將食物轉送黃昏灣的消息。向流沙屋的莫莫蒂報告。
-8,TEXT_GAIUSE203_01347_SEQ_08,向莫莫蒂報告完畢。告訴夕霧食物已經送往黃昏灣。
-9,TEXT_GAIUSE203_01347_SEQ_09,告訴了夕霧食物已經送往黃昏灣後，得到了她的感謝。阿爾菲諾那邊也跟勞班談妥了接納難民的問題。和御道的勞班談談。
-10,TEXT_GAIUSE203_01347_SEQ_10,夕霧順利見到了娜娜莫陛下和沙蠍眾。但是，以羅羅力特為首的沙蠍眾拒絕了接納多瑪難民的提議。
-11,TEXT_GAIUSE203_01347_SEQ_11,
-12,TEXT_GAIUSE203_01347_SEQ_12,
-13,TEXT_GAIUSE203_01347_SEQ_13,
-14,TEXT_GAIUSE203_01347_SEQ_14,
-15,TEXT_GAIUSE203_01347_SEQ_15,
-16,TEXT_GAIUSE203_01347_SEQ_16,
-17,TEXT_GAIUSE203_01347_SEQ_17,
-18,TEXT_GAIUSE203_01347_SEQ_18,
-19,TEXT_GAIUSE203_01347_SEQ_19,
-20,TEXT_GAIUSE203_01347_SEQ_20,
-21,TEXT_GAIUSE203_01347_SEQ_21,
-22,TEXT_GAIUSE203_01347_SEQ_22,
-23,TEXT_GAIUSE203_01347_SEQ_23,
-24,TEXT_GAIUSE203_01347_TODO_00,和黃昏灣的阿爾菲諾對話
-25,TEXT_GAIUSE203_01347_TODO_01,前往御道尋找異邦人的領袖
-26,TEXT_GAIUSE203_01347_TODO_02,和流沙屋的阿爾菲諾對話
-27,TEXT_GAIUSE203_01347_TODO_03,和流沙屋的夕霧對話
-28,TEXT_GAIUSE203_01347_TODO_04,和莫莫蒂對話
-29,TEXT_GAIUSE203_01347_TODO_05,將<hex:022811FF0A>EventItem<hex:F61E89320103>交給弗里德烏里希
-30,TEXT_GAIUSE203_01347_TODO_06,將<hex:022811FF0A>EventItem<hex:F61E89330103>交給卡瑟琳
-31,TEXT_GAIUSE203_01347_TODO_07,和莫莫蒂對話
-32,TEXT_GAIUSE203_01347_TODO_08,和夕霧對話
-33,TEXT_GAIUSE203_01347_TODO_09,和御道的勞班對話
-34,TEXT_GAIUSE203_01347_TODO_10,
-35,TEXT_GAIUSE203_01347_TODO_11,
-36,TEXT_GAIUSE203_01347_TODO_12,
-37,TEXT_GAIUSE203_01347_TODO_13,
-38,TEXT_GAIUSE203_01347_TODO_14,
-39,TEXT_GAIUSE203_01347_TODO_15,
-40,TEXT_GAIUSE203_01347_TODO_16,
-41,TEXT_GAIUSE203_01347_TODO_17,
-42,TEXT_GAIUSE203_01347_TODO_18,
-43,TEXT_GAIUSE203_01347_TODO_19,
-44,TEXT_GAIUSE203_01347_TODO_20,
-45,TEXT_GAIUSE203_01347_TODO_21,
-46,TEXT_GAIUSE203_01347_TODO_22,
-47,TEXT_GAIUSE203_01347_TODO_23,
-48,TEXT_GAIUSE203_01347_THANCRED_000_000,好了，根據盟主大人的英明指示……<hex:02100103>我要留在這裡，繼續調查水晶失竊事件。
-49,TEXT_GAIUSE203_01347_THANCRED_000_001,我打算和弗弗魯帕一起，<hex:02100103>尋找那個消失的衛兵的線索。
-50,TEXT_GAIUSE203_01347_THANCRED_000_002,你就去黃昏灣，和阿爾菲諾大人匯合吧。<hex:02100103>盟主大人希望你能去幫助他，那就拜託你了。
-51,TEXT_GAIUSE203_01347_THANCRED_000_005,你去黃昏灣，和阿爾菲諾大人匯合吧。<hex:02100103>他似乎需要你的幫助，那就拜託你了。
-52,TEXT_GAIUSE203_01347_ALPHINAUD_000_010,<hex:022903EB0203>，你可算來了。<hex:02100103>黃昏灣近海上出現了一艘損壞嚴重的商船，<hex:02100103>其中有幾個人使用這艘小船登陸了。
-53,TEXT_GAIUSE203_01347_ALPHINAUD_000_011,目擊者稱，登陸的都是些異邦人……<hex:02100103>據說是來自東方的邊境城邦「多瑪」的難民。
-54,TEXT_GAIUSE203_01347_ALPHINAUD_000_012,多瑪現在是加雷馬帝國的行省之一。<hex:02100103>從帝國境內逃出難民，此事非同小可啊。<hex:02100103>所以我們現在要充分掌握情況。
-55,TEXT_GAIUSE203_01347_ALPHINAUD_000_013,異邦人一路直指烏爾達哈的王宮。<hex:02100103>我們也趕往烏爾達哈的御道，<hex:02100103>找那個異邦人的領袖談談吧。
-56,TEXT_GAIUSE203_01347_KASASAGI_000_014,我們並非惡人！
-57,TEXT_GAIUSE203_01347_KIKYOU_000_015,至少請聽一下我們的請求吧……
-58,TEXT_GAIUSE203_01347_BARTHOLOMEW_000_016,前方就是神聖的烏爾達哈王宮！<hex:02100103>我不能讓你們進去！沒有得到許可的人，請回去！
-59,TEXT_GAIUSE203_01347_YUGIRI_000_017,希望你能讓在下覲見這個國家的國王。<hex:02100103>只需要聽下我們的請求即可！
-60,TEXT_GAIUSE203_01347_BARTHOLOMEW_000_020,前方就是神聖的烏爾達哈王宮！<hex:02100103>我不能讓你們進去！
-61,TEXT_GAIUSE203_01347_YUGIRI_000_021,(-異邦人的領袖-)就不能請你通融一下嗎？！
-62,TEXT_GAIUSE203_01347_YUGIRI_000_022,(-異邦人的領袖-)我們只是想請這個國家的國王聽一下我們的請求。<hex:02100103>不會浪費多少時間的。
-63,TEXT_GAIUSE203_01347_BARTHOLOMEW_000_023,你說幾遍都沒用，<hex:02100103>身份不明的人不能進去！<hex:02100103>行了，你快回去吧！
-64,TEXT_GAIUSE203_01347_YUGIRI_000_024,(-異邦人的領袖-)這……
-65,TEXT_GAIUSE203_01347_ALPHINAUD_000_025,你們就是在黃昏灣登陸的異邦人吧？<hex:02100103>看樣子發生了些爭執，怎麼回事？
-66,TEXT_GAIUSE203_01347_YUGIRI_000_026,(-異邦人的領袖-)在下請求覲見國王，但被毫不留情地拒絕了……<hex:02100103>在下必須……要得到直接談判的機會！
-67,TEXT_GAIUSE203_01347_ALPHINAUD_000_027,你等下。<hex:02100103>這裡可是王宮，你亂來的話會被關起來的。
-68,TEXT_GAIUSE203_01347_ALPHINAUD_000_028,我是阿爾菲諾，雖不是烏爾達哈的臣民，<hex:02100103>但在這個國家的權力者面前也算有點薄面。<hex:02100103>這也算緣分吧，你不介意的話，就和我談談吧。
-69,TEXT_GAIUSE203_01347_ALPHINAUD_000_029,<hex:022903EB0203>。<hex:02100103>我先帶他們去流沙屋。<hex:02100103>你稍後也跟來吧。
-70,TEXT_GAIUSE203_01347_YUGIRI_000_029,你是阿爾菲諾閣下的同伴吧？<hex:02100103>之前由於在下太過心急，讓你見笑了……
-71,TEXT_GAIUSE203_01347_KASASAGI_000_029,你是阿爾菲諾閣下的同伴啊。<hex:02100103>請你務必幫幫我們……
-72,TEXT_GAIUSE203_01347_KIKYOU_000_029,我的主人自從離開祖國之後，<hex:02100103>經常站在最前線，帶領我們克服了重重苦難。<hex:02100103>我現在很擔心主人的身體情況……
-73,TEXT_GAIUSE203_01347_KASASAGI_000_030,夕霧大人領導著眾多同胞。<hex:02100103>能侍奉夕霧大人是我的榮幸。
-74,TEXT_GAIUSE203_01347_KIKYOU_000_030,夕霧大人自從離開祖國之後，<hex:02100103>經常站在最前線，帶領我們克服了重重苦難。<hex:02100103>我現在很擔心主人的身體情況……
-75,TEXT_GAIUSE203_01347_YUGIRI_000_030,感謝你的關心。<hex:02100103>我們從東洲奧薩德次大陸的邊境城邦「多瑪」出發，<hex:02100103>花了數月時間，才到達此地。
-76,TEXT_GAIUSE203_01347_YUGIRI_000_031,因為這是場緊迫的逃難，沒有時間準備……<hex:02100103>很快食物就消耗完了，出現了許多犧牲者。<hex:02100103>近來我們根本沒有吃上像樣的伙食。
-77,TEXT_GAIUSE203_01347_YUGIRI_000_032,我們想，至少要讓留在船上的孩子們吃上一頓飽飯……<hex:02100103>能否請你拜託這家店的店主，請她幫幫忙呢？
-78,TEXT_GAIUSE203_01347_YUGIRI_000_035,我們想，至少要讓留在船上的孩子們吃上一頓飽飯……<hex:02100103>能否請你拜託這家店的店主，請她幫幫忙呢？
-79,TEXT_GAIUSE203_01347_MOMODI_000_040,啊，居然發生了這種事？他們也吃了不少苦啊……<hex:02100103>正好最近沒有接到什麼大訂單，預定的食物有些多了，<hex:02100103>我很樂意提供給他們。
-80,TEXT_GAIUSE203_01347_MOMODI_000_041,我會寫一封將多餘的食物轉送到黃昏灣的委託書，<hex:02100103>你去來生迴廊的藍玉大街國際市場，<hex:02100103>將委託書交給弗里德烏里希和卡瑟琳。
-81,TEXT_GAIUSE203_01347_YUGIRI_000_060,我們至少想讓留在船上的孩子們吃上頓飽飯……
-82,TEXT_GAIUSE203_01347_FRIDURIH_000_050,莫莫蒂要你來委託我轉送食物？<hex:02100103>啊，是說轉送多餘食物的那件事吧？<hex:02100103>來，給我看看委託書吧。
-83,TEXT_GAIUSE203_01347_FRIDURIH_000_051,我明白了，你告訴莫莫蒂我會辦妥這件事。<hex:02100103>話說回來，烏爾達哈又來了群難民麼……<hex:02100103>希望窮人增多，治安不會有所惡化吧……
-84,TEXT_GAIUSE203_01347_KATHERINE_000_055,莫莫蒂希望轉送多餘的食物？<hex:02100103>到底是怎麼回事啊？<hex:02100103>你把委託書給我看看吧。
-85,TEXT_GAIUSE203_01347_KATHERINE_000_056,是要把食物免費送人麼，莫莫蒂真是個好人啊。<hex:02100103>不過對我來說，商品能賣出去就行了。<hex:02100103>我會照辦的，你回去告訴莫莫蒂吧。
-86,TEXT_GAIUSE203_01347_MOMODI_000_059,你回來啦，已經交付委託書了吧？<hex:02100103>希望食物能順利運送到黃昏灣。<hex:02100103>好了，你快去把這個消息告訴夕霧吧。
-87,TEXT_GAIUSE203_01347_YUGIRI_000_061,竟、竟然已經把食物送到黃昏灣了？！<hex:02100103>太感謝了……大恩大德沒齒難忘。<hex:02100103>稍後在下必須親自向店主道謝才行……
-88,TEXT_GAIUSE203_01347_ALPHINAUD_000_070,總算通過恆輝隊的勞班局長，<hex:02100103>向娜娜莫陛下傳達了消息。
-89,TEXT_GAIUSE203_01347_YUGIRI_000_071,結果如何？！
-90,TEXT_GAIUSE203_01347_ALPHINAUD_000_072,啊，據說答應你們的覲見了。<hex:02100103>娜娜莫陛下也召集了顧問「沙蠍眾」。<hex:02100103>這下可以和這個國家的權力者談判了。
-91,TEXT_GAIUSE203_01347_YUGIRI_000_073,太感謝了，大恩銘記於心。
-92,TEXT_GAIUSE203_01347_ALPHINAUD_000_074,別這樣，舉手之勞而已。<hex:02100103>但是……就如我之前說的那樣，我無法保證結果。<hex:02100103>我不過是想出一份力罷了……
-93,TEXT_GAIUSE203_01347_YUGIRI_000_075,在下明白……<hex:02100103>感謝你為我們爭取到這個機會。
-94,TEXT_GAIUSE203_01347_ALPHINAUD_000_076,那我們去御道吧。<hex:02100103>勞班局長正等著我們呢。
-95,TEXT_GAIUSE203_01347_ALPHINAUD_000_080,至於沙蠍眾會如何對待夕霧他們，<hex:02100103>就看沙蠍眾能否從難民身上找到利用價值了……
-96,TEXT_GAIUSE203_01347_YUGIRI_000_080,聽說烏爾達哈十分重視實際利益。<hex:02100103>如果我們能夠體現出利用價值的話，或許就能……
-97,TEXT_GAIUSE203_01347_KASASAGI_000_080,聽聞烏爾達哈面對帝國也毫不畏懼，是英勇善戰的城邦。<hex:02100103>和我們算是同仇敵愾的同志吧……
-98,TEXT_GAIUSE203_01347_KIKYOU_000_080,希望娜娜莫陛下……<hex:02100103>是一位賢明的君主……
-99,TEXT_GAIUSE203_01347_TELEDJIADELEDJI_000_080,我是「幻象托拉斯」的總裁泰勒吉·阿代勒吉，<hex:02100103>換句話說，也就是游技場白金幻象的所有者。<hex:02100103>你應該有聽說過吧？
-100,TEXT_GAIUSE203_01347_TELEDJIADELEDJI_000_081,財富由良才所生……<hex:02100103>正所謂英雄不問出處，<hex:02100103>即使對難民也要一視同仁。
-101,TEXT_GAIUSE203_01347_RAUBAHN_000_100,都來了麼。<hex:02100103>娜娜莫大人和沙蠍眾都已經在芳香堂等待了。<hex:02100103>我們也進去吧。
+0,"TEXT_GAIUSE203_01347_SEQ_00","Thancred has information on your next assignment."
+1,"TEXT_GAIUSE203_01347_SEQ_01","By way of Minfilia and, in turn, Thancred, Alphinaud has requested your presence in Vesper Bay. Report to young Master Leveilleur at the docks outside the Waking Sands."
+2,"TEXT_GAIUSE203_01347_SEQ_02","Alphinaud informs you that travelers from the eastern nation of Doma arrived in Vesper Bay not long ago, apparently seeking an audience with the rulers of Ul'dah. Believing that they may have valuable information on the current state of affairs within the Empire, he is resolved to seek them out, and wants you on hand to ensure that all proceeds smoothly. Knowing how unaccommodating the Sultansworn can be, he suggests beginning the search on the Royal Promenade in Ul'dah."
+3,"TEXT_GAIUSE203_01347_SEQ_03","As predicted, you find the Doman leader and her assistants fruitlessly petitioning the Sultansworn posted outside the Fragrant Chamber. Sensing an opportunity, Alphinaud approaches the travelers and offers his assistance─on the condition that they first accompany him to the Quicksand and explain their situation. Follow the party to the Quicksand and let Alphinaud know when you are ready to listen to the Domans' tale."
+4,"TEXT_GAIUSE203_01347_SEQ_04","Lady Yugiri, the leader of the refugees, explains that her people have come to Eorzea in search of asylum. After their rebellion against the Empire failed, imperial forces set about razing their homeland of Doma, leaving them no choice but to flee. Moved by her tale, Alphinaud offers to speak to General Raubahn on Yugiri's behalf, and departs for the Hall of Flames, leaving the refugees in your care. Inquire of Yugiri if there is anything she needs."
+5,"TEXT_GAIUSE203_01347_SEQ_05","Supplies on the Doman galleon have run low, and Yugiri asks that you help her secure provisions. As proprietress of the Quicksand and a proven friend to the Scions, Momodi may be the best person to speak with regarding this matter."
+6,"TEXT_GAIUSE203_01347_SEQ_06","It so happens that a wealthy merchant recently canceled his reservation at the Quicksand, leaving Momodi with an excess of foodstuffs. She offers to send them to the Waking Sands for redistribution, and furnishes you with two letters containing instructions for her suppliers, Fridurih and Katherine, who can be found at the Sapphire Avenue Exchange."
+7,"TEXT_GAIUSE203_01347_SEQ_07","You deliver the instructions to the merchants, who make no effort to hide their disapproval of Momodi's actions. Return to the Quicksand and inform Momodi that the shipments are on their way."
+8,"TEXT_GAIUSE203_01347_SEQ_08","Momodi is pleased to hear that the foodstuffs will be put to good use. Share the good tidings with Yugiri."
+9,"TEXT_GAIUSE203_01347_SEQ_09","Not long after you explain Momodi's arrangement to Yugiri, Alphinaud returns to the Quicksand with more good news: the Domans have been granted an audience with the sultana and the Syndicate. What will come of the meeting is anyone's guess, but at least Yugiri will have an opportunity to plead her people's case. Return to the Royal Promenade and speak with Raubahn to proceed into the Fragrant Chamber."
+10,"TEXT_GAIUSE203_01347_SEQ_10","Before the assembled leaders of Ul'dah, Yugiri details the circumstances which compelled her people to seek refuge in Ul'dah. Although the sultana, Raubahn, and Teledji Adeledji are sympathetic to her cause, the most influential member of the Syndicate, Lolorito, persuades the others to refuse the Domans asylum. Thus barred from Ul'dah, Yugiri and her people must look elsewhere for a new home."
+11,"TEXT_GAIUSE203_01347_SEQ_11",""
+12,"TEXT_GAIUSE203_01347_SEQ_12",""
+13,"TEXT_GAIUSE203_01347_SEQ_13",""
+14,"TEXT_GAIUSE203_01347_SEQ_14",""
+15,"TEXT_GAIUSE203_01347_SEQ_15",""
+16,"TEXT_GAIUSE203_01347_SEQ_16",""
+17,"TEXT_GAIUSE203_01347_SEQ_17",""
+18,"TEXT_GAIUSE203_01347_SEQ_18",""
+19,"TEXT_GAIUSE203_01347_SEQ_19",""
+20,"TEXT_GAIUSE203_01347_SEQ_20",""
+21,"TEXT_GAIUSE203_01347_SEQ_21",""
+22,"TEXT_GAIUSE203_01347_SEQ_22",""
+23,"TEXT_GAIUSE203_01347_SEQ_23",""
+24,"TEXT_GAIUSE203_01347_TODO_00","Speak with Alphinaud."
+25,"TEXT_GAIUSE203_01347_TODO_01","Search for the Domans on the Royal Promenade."
+26,"TEXT_GAIUSE203_01347_TODO_02","Speak with Alphinaud at the Quicksand."
+27,"TEXT_GAIUSE203_01347_TODO_03","Speak with Yugiri."
+28,"TEXT_GAIUSE203_01347_TODO_04","Speak with Momodi."
+29,"TEXT_GAIUSE203_01347_TODO_05","Deliver Momodi's letter to Fridurih at the Sapphire Avenue Exchange."
+30,"TEXT_GAIUSE203_01347_TODO_06","Deliver Momodi's letter to Katherine at the Sapphire Avenue Exchange."
+31,"TEXT_GAIUSE203_01347_TODO_07","Speak with Momodi."
+32,"TEXT_GAIUSE203_01347_TODO_08","Speak with Yugiri."
+33,"TEXT_GAIUSE203_01347_TODO_09","Speak with Raubahn on the Royal Promenade."
+34,"TEXT_GAIUSE203_01347_TODO_10",""
+35,"TEXT_GAIUSE203_01347_TODO_11",""
+36,"TEXT_GAIUSE203_01347_TODO_12",""
+37,"TEXT_GAIUSE203_01347_TODO_13",""
+38,"TEXT_GAIUSE203_01347_TODO_14",""
+39,"TEXT_GAIUSE203_01347_TODO_15",""
+40,"TEXT_GAIUSE203_01347_TODO_16",""
+41,"TEXT_GAIUSE203_01347_TODO_17",""
+42,"TEXT_GAIUSE203_01347_TODO_18",""
+43,"TEXT_GAIUSE203_01347_TODO_19",""
+44,"TEXT_GAIUSE203_01347_TODO_20",""
+45,"TEXT_GAIUSE203_01347_TODO_21",""
+46,"TEXT_GAIUSE203_01347_TODO_22",""
+47,"TEXT_GAIUSE203_01347_TODO_23",""
+48,"TEXT_GAIUSE203_01347_THANCRED_000_000","The Antecedent bid me tell you to make for Vesper Bay, where young Alphinaud awaits your coming <hex:021A020203>most<hex:021A020103> eagerly. It was he who requested your assistance."
+49,"TEXT_GAIUSE203_01347_THANCRED_000_001","Some commotion or incident─I am not privy to the details."
+50,"TEXT_GAIUSE203_01347_THANCRED_000_002","While you do whatever it is that Alphinaud has planned for you, I shall endeavor to track down our traitorous Brass Blade. And when I do, you may rest assured that we will have our answers."
+51,"TEXT_GAIUSE203_01347_THANCRED_000_005","You do know Alphinaud hates to be kept waiting, don't you? Ah, but of course you do. Carry on, then."
+52,"TEXT_GAIUSE203_01347_ALPHINAUD_000_010","You are late. No matter─I know where our visitors are headed. From what I have been able to gather, this vessel belongs to a band of Domans who seek an audience with the sultana. You are familiar with Doma, yes? In Othard?"
+53,"TEXT_GAIUSE203_01347_ALPHINAUD_000_011","Well, like the rest of the nations of the eastern continent, it is ruled by the Garlean Empire. Given our visitors' unannounced arrival, as well as the state of their ship, I suspect they did not leave their homeland under the best circumstances. Needless to say, I should be very interested to hear their tale and, more importantly, what they know of the current state of affairs in the Empire. Such information could prove most useful."
+54,"TEXT_GAIUSE203_01347_ALPHINAUD_000_012","We would be fools not to pursue this opportunity, do you not think? Come with me to Ul'dah, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Unless I am mistaken─and I am <hex:021A020203>rarely<hex:021A020103> mistaken─we will find the Domans bickering with a Sultansworn on the Royal Promenade."
+55,"TEXT_GAIUSE203_01347_ALPHINAUD_000_013","...You are uncertain of your role in the proceedings? Insurance. If our guests are not themselves imperial agents, it seems fair to assume that they may be being pursued by some. And if not, who better than you to have on hand in the event of an unforeseen diplomatic incident?<hex:02100103>Besides, I do so enjoy your sparkling repartee. Satisfied? Good. I shall see you in Ul'dah."
+56,"TEXT_GAIUSE203_01347_KASASAGI_000_014","Who are you to address us with such disrespect!?"
+57,"TEXT_GAIUSE203_01347_KIKYOU_000_015","It is imperative that you allow us to enter!"
+58,"TEXT_GAIUSE203_01347_BARTHOLOMEW_000_016","It is as I told you, madam! None shall be granted an audience without the necessary permissions!"
+59,"TEXT_GAIUSE203_01347_YUGIRI_000_017","You comprehend not the pressing nature of our suit, sir. If you would but summon your superior, I could explain..."
+60,"TEXT_GAIUSE203_01347_BARTHOLOMEW_000_020","It matters not how many times you ask! Without the necessary permissions, none shall pass!"
+61,"TEXT_GAIUSE203_01347_YUGIRI_000_021","(-Refugee Leader-)Pray understand, good sir! We have not the leisure to lodge a formal petition. Time is of the essence."
+62,"TEXT_GAIUSE203_01347_YUGIRI_000_022","(-Refugee Leader-)All I ask is that you summon your superior. Allow me to plead my case. Surely you can grant us that small kindness?"
+63,"TEXT_GAIUSE203_01347_BARTHOLOMEW_000_023","Away with you, and darken these doors no longer. I will not ask again!"
+64,"TEXT_GAIUSE203_01347_YUGIRI_000_024","(-Refugee Leader-)You know not what you do..."
+65,"TEXT_GAIUSE203_01347_ALPHINAUD_000_025","I gather your pleas fell upon deaf ears."
+66,"TEXT_GAIUSE203_01347_YUGIRI_000_026","(-Refugee Leader-)A loyal man with a cold heart. I know his kind well."
+67,"TEXT_GAIUSE203_01347_ALPHINAUD_000_027","I hope that you will find me more to your liking. Alphinaud Leveilleur, at your service. A friend."
+68,"TEXT_GAIUSE203_01347_ALPHINAUD_000_028","Which, I believe, makes me very nearly unique─in this part of the world, at least. Few indeed are your allies in Ul'dah. Yet you will need some if you wish to endear yourselves to the wealthy and powerful."
+69,"TEXT_GAIUSE203_01347_ALPHINAUD_000_029","Pray join me and my associate at the Quicksand. There you may explain your situation to us, and we shall see if there is aught we can do to help."
+70,"TEXT_GAIUSE203_01347_YUGIRI_000_029","Master Alphinaud's associate, yes? We have been waiting for you. I trust you are ready to begin?"
+71,"TEXT_GAIUSE203_01347_KASASAGI_000_029","We would be most grateful for any assistance you and Master Alphinaud can offer."
+72,"TEXT_GAIUSE203_01347_KIKYOU_000_029","It has been ever so long since we last set foot on dry land. I truly hope this marks the end of our journey."
+73,"TEXT_GAIUSE203_01347_KASASAGI_000_030","We are grateful beyond measure for this kindness."
+74,"TEXT_GAIUSE203_01347_KIKYOU_000_030","Lady Yugiri labors day and night for the good of our people. She is an inspiration to us all...yet I worry for her health."
+75,"TEXT_GAIUSE203_01347_YUGIRI_000_030","If I may, <hex:02080FE905FF06>madam<hex:FF04>sir<hex:03>─as I said earlier, we have been at sea for some several moons, and our supplies are all but spent."
+76,"TEXT_GAIUSE203_01347_YUGIRI_000_031","I have not the heart to repeat the tales of our tribulations, nor would it please you to listen to them, I think. Suffice it to say, however...sacrifices have been made."
+77,"TEXT_GAIUSE203_01347_YUGIRI_000_032","Though it shames me to beg for more when you have already offered so much, desperation compels me... <hex:02081BE905FF0B>Good madam<hex:FF0B>Gentle sir<hex:03>, if you or your associates could spare any provisions─anything at all─it would go a long way to lessen the suffering of my people."
+78,"TEXT_GAIUSE203_01347_YUGIRI_000_035","Anything you can provide would be welcome. The adults can go without, but the children..."
+79,"TEXT_GAIUSE203_01347_MOMODI_000_040","...Hells, why didn't you say so sooner, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>? 'Course I'll help! You couldn't have picked a better day, to tell the truth! A wealthy merchant an' his entourage were due to have a banquet here on the morrow, see, but just sent word they can't come, meanin' I've got a boatload of foodstuffs an' no one to feed. Best of all, they paid for the lot in advance! Hah hah!"
+80,"TEXT_GAIUSE203_01347_MOMODI_000_041","Go an' call on Fridurih an' Katherine at the Sapphire Avenue Exchange. Tell 'em I said to ship the little prince's order to the Wakin' Sands. Oh, an' if they argue, just show 'em those letters. That should set 'em straight."
+81,"TEXT_GAIUSE203_01347_YUGIRI_000_060","I would not ask if the circumstances were not dire. Please─any provisions you can spare would be greatly appreciated."
+82,"TEXT_GAIUSE203_01347_FRIDURIH_000_050","She's in the business of feedin' refugees now? I ain't normally one to question Mistress Momodi's judgment, but that doesn't seem wise to me."
+83,"TEXT_GAIUSE203_01347_FRIDURIH_000_051","I'll not speak for the children, but if you ask me, any man what can't earn a crust deserves to go hungry."
+84,"TEXT_GAIUSE203_01347_KATHERINE_000_055","My, that's a rather odd request. Mayhap you misheard her instructions?"
+85,"TEXT_GAIUSE203_01347_KATHERINE_000_056","You know, you shouldn't encourage them like this. They'll start to <hex:021A020203>expect<hex:021A020103> it, you mark my words!"
+86,"TEXT_GAIUSE203_01347_MOMODI_000_059","They didn't give you any trouble, did they? Good. Now go an' tell Lady Yugiri it's all in hand."
+87,"TEXT_GAIUSE203_01347_YUGIRI_000_061","I...I dared not hope for such magnanimity, much less expect it! Mistress Momodi is generous indeed... I shall be sure to thank her most humbly."
+88,"TEXT_GAIUSE203_01347_ALPHINAUD_000_070","Lady Yugiri, I briefed the Flame General on your situation. I think you will be pleased with his reply."
+89,"TEXT_GAIUSE203_01347_YUGIRI_000_071","We have been granted an audience?"
+90,"TEXT_GAIUSE203_01347_ALPHINAUD_000_072","Before the sultana and the Syndicate both. We should return to the Royal Promenade at once."
+91,"TEXT_GAIUSE203_01347_YUGIRI_000_073","You have done much for us, Master Alphinaud. I swear we shall return the favor."
+92,"TEXT_GAIUSE203_01347_ALPHINAUD_000_074","Naught is owed, Lady Yugiri, for naught has been given. This small favor, you fairly won with your words. And it is with words that you must win the favor of the Syndicate."
+93,"TEXT_GAIUSE203_01347_YUGIRI_000_075","Then I shall choose them with care."
+94,"TEXT_GAIUSE203_01347_ALPHINAUD_000_076","You will be accompanying us, yes? Good. Your presence may serve to remind the Syndicate of the true meaning of philanthropy─and that nothing so unpalatable will be required of them, assuming the Domans are willing to earn their keep. Come, the Flame General awaits us on the Royal Promenade."
+95,"TEXT_GAIUSE203_01347_ALPHINAUD_000_080","We must take pains to illustrate how accepting the Domans would benefit Ul'dah. Only then might the Syndicate be swayed."
+96,"TEXT_GAIUSE203_01347_YUGIRI_000_080","Bards sing of wars which decided the fates of nations, but a single word spoken within a council chamber is more like to decide that of mine own..."
+97,"TEXT_GAIUSE203_01347_KASASAGI_000_080","If we are all enemies of Garlemald, is it not fitting that we should join forces?"
+98,"TEXT_GAIUSE203_01347_KIKYOU_000_080","I have heard that the sultana is a kind and generous ruler. Of the Syndicate, I have heard less flattering things."
+99,"TEXT_GAIUSE203_01347_TELEDJIADELEDJI_000_080","I wished to greet our guests beforehand and offer my support for their cause. Doman, Ul'dahn, it matters not to me; birthplace does not equate to birthright in mine eyes."
+100,"TEXT_GAIUSE203_01347_TELEDJIADELEDJI_000_081","I take great pride in my establishments for this very reason. The Platinum Mirage, in particular, serves as a showcase for the talents of countless men and women born beyond our borders."
+101,"TEXT_GAIUSE203_01347_RAUBAHN_000_100","A pleasure, <hex:0208C7E1E93501FF11><hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203><hex:FFAF><hex:0208ABE1E93601FF11><hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203><hex:FF93><hex:022B7EFF7C><hex:020825E1E93501FF1D><hex:022819FF14>GCRankLimsaMaleText<hex:E9350903><hex:FF01><hex:03><hex:020828E1E93601FF20><hex:02281CFF17>GCRankGridaniaMaleText<hex:E9360903><hex:FF01><hex:03><hex:020825E1E93701FF1D><hex:022819FF14>GCRankUldahMaleText<hex:E9370903><hex:FF01><hex:03><hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303><hex:03><hex:03>. The others are already inside. Let's not keep them waiting."

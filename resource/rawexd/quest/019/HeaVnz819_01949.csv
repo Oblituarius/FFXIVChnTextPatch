@@ -2,115 +2,115 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_HEAVNZ819_01949_SEQ_00,田園郡的斯洛菲克斯想知道新規矩的影響。
-1,TEXT_HEAVNZ819_01949_SEQ_01,接受了斯洛菲克斯的委託，向居民們詢問新規矩帶來的影響。在田園郡和游擊野營地收集有關德利普威克斯的規矩的情報。
-2,TEXT_HEAVNZ819_01949_SEQ_02,田園郡的居民非常不滿意德利普威克斯制定的新規矩。和田園郡的斯洛菲克斯談談。
-3,TEXT_HEAVNZ819_01949_SEQ_03,在傳達了居民對新規矩的不滿後，德利普威克斯在衝動之下離開了田園郡。接受了斯洛菲克斯的委託，找到德利普威克斯並向他傳話。在龍堡內陸低地的宗匠大工房附近尋找德利普威克斯。
-4,TEXT_HEAVNZ819_01949_SEQ_04,找到了德利普威克斯，但他被青藍之手包圍了。擊退敵人，救助德利普威克斯。
-5,TEXT_HEAVNZ819_01949_SEQ_05,救助了德利普威克斯，並將斯洛菲克斯的話轉達給了他。他委託冒險者，在他和斯洛菲克斯談話時陪在他身邊。前往龍堡內陸低地的游擊野營地西北側，和德利普威克斯談談。
-6,TEXT_HEAVNZ819_01949_SEQ_06,德利普威克斯和斯洛菲克斯成功找回了初心，達成了共識。和田園郡的斯洛菲克斯談談。
-7,TEXT_HEAVNZ819_01949_SEQ_07,和斯洛菲克斯進行了交談。田園郡今後將以「愛護同伴」作為最重要的規矩繼續發展下去。
-8,TEXT_HEAVNZ819_01949_SEQ_08,
-9,TEXT_HEAVNZ819_01949_SEQ_09,
-10,TEXT_HEAVNZ819_01949_SEQ_10,
-11,TEXT_HEAVNZ819_01949_SEQ_11,
-12,TEXT_HEAVNZ819_01949_SEQ_12,
-13,TEXT_HEAVNZ819_01949_SEQ_13,
-14,TEXT_HEAVNZ819_01949_SEQ_14,
-15,TEXT_HEAVNZ819_01949_SEQ_15,
-16,TEXT_HEAVNZ819_01949_SEQ_16,
-17,TEXT_HEAVNZ819_01949_SEQ_17,
-18,TEXT_HEAVNZ819_01949_SEQ_18,
-19,TEXT_HEAVNZ819_01949_SEQ_19,
-20,TEXT_HEAVNZ819_01949_SEQ_20,
-21,TEXT_HEAVNZ819_01949_SEQ_21,
-22,TEXT_HEAVNZ819_01949_SEQ_22,
-23,TEXT_HEAVNZ819_01949_SEQ_23,
-24,TEXT_HEAVNZ819_01949_TODO_00,在游擊野營地收集情報
-25,TEXT_HEAVNZ819_01949_TODO_01,在田園郡收集情報
-26,TEXT_HEAVNZ819_01949_TODO_02,和斯洛菲克斯對話
-27,TEXT_HEAVNZ819_01949_TODO_03,在宗匠大工房附近尋找德利普威克斯
-28,TEXT_HEAVNZ819_01949_TODO_04,救助德利普威克斯
-29,TEXT_HEAVNZ819_01949_TODO_05,和德利普威克斯對話
-30,TEXT_HEAVNZ819_01949_TODO_06,和田園郡的斯洛菲克斯對話
-31,TEXT_HEAVNZ819_01949_TODO_07,
-32,TEXT_HEAVNZ819_01949_TODO_08,
-33,TEXT_HEAVNZ819_01949_TODO_09,
-34,TEXT_HEAVNZ819_01949_TODO_10,
-35,TEXT_HEAVNZ819_01949_TODO_11,
-36,TEXT_HEAVNZ819_01949_TODO_12,
-37,TEXT_HEAVNZ819_01949_TODO_13,
-38,TEXT_HEAVNZ819_01949_TODO_14,
-39,TEXT_HEAVNZ819_01949_TODO_15,
-40,TEXT_HEAVNZ819_01949_TODO_16,
-41,TEXT_HEAVNZ819_01949_TODO_17,
-42,TEXT_HEAVNZ819_01949_TODO_18,
-43,TEXT_HEAVNZ819_01949_TODO_19,
-44,TEXT_HEAVNZ819_01949_TODO_20,
-45,TEXT_HEAVNZ819_01949_TODO_21,
-46,TEXT_HEAVNZ819_01949_TODO_22,
-47,TEXT_HEAVNZ819_01949_TODO_23,
-48,TEXT_HEAVNZ819_01949_SLOWFIX_000_000,呼哧……呼哧……<hex:02100103>哥布非常擔心 德利普威克斯 定的新規矩哥布！
-49,TEXT_HEAVNZ819_01949_SLOWFIX_000_001,哥布只能 拜託你了哥布<hex:02100103>你去問問大家 覺得新規矩怎麼樣哥布！<hex:02100103>哥布這就去 把德利普威克斯 叫回來哥布！
-50,TEXT_HEAVNZ819_01949_SLOWFIX_000_042,哥布只能 拜託你了哥布<hex:02100103>你去問問大家 覺得新規矩怎麼樣哥布！<hex:02100103>哥布這就去 把德利普威克斯 叫回來哥布！
-51,TEXT_HEAVNZ819_01949_DRYDOX_000_010,呼哧……呼哧……<hex:02100103>關於 城市的新規矩<hex:02100103>哥布有 好多好多 話要說。
-52,TEXT_HEAVNZ819_01949_DRYDOX_000_011,租借道具 變得超級麻煩！<hex:02100103>要寫的東西 太多太多。
-53,TEXT_HEAVNZ819_01949_DRYDOX_000_012,因為新規矩 窗口變得 超級混亂！<hex:02100103>大家都 在抱怨 來借東西的人 變少很多！<hex:02100103>根本就 賺不到錢！
-54,TEXT_HEAVNZ819_01949_DRYDOX_000_055,因為新規矩 窗口變得 超級混亂！<hex:02100103>大家都 在抱怨 來借東西的人 變少很多！<hex:02100103>根本就 賺不到錢！
-55,TEXT_HEAVNZ819_01949_TAPKLIX_000_020,呼哧……呼哧……<hex:02100103>想知道 德利普威克斯的 新地圖 好不好用？<hex:02100103>說實話 糟透了！
-56,TEXT_HEAVNZ819_01949_TAPKLIX_000_021,區分領地的線 過於複雜 大家完全 記不住！<hex:02100103>巡視的時候 只顧著看地圖 沒辦法 集中精力！
-57,TEXT_HEAVNZ819_01949_TAPKLIX_000_056,區分領地的線 過於複雜 大家完全 記不住！<hex:02100103>巡視的時候 只顧著看地圖 沒辦法 集中精力！
-58,TEXT_HEAVNZ819_01949_LOUDJOX_000_030,呼哧……呼哧……<hex:02100103>德利普威克斯的 新規矩？<hex:02100103>那種規矩 還不如沒有！
-59,TEXT_HEAVNZ819_01949_LOUDJOX_000_031,到現在為止 大家都 自由自在！<hex:02100103>有了規矩 什麼都不能做 做也做不好！<hex:02100103>這規矩 真的有必要？
-60,TEXT_HEAVNZ819_01949_LOUDJOX_000_057,到現在為止 大家都 自由自在！<hex:02100103>有了規矩 什麼都不能做 做也做不好！<hex:02100103>這規矩 真的有必要？
-61,TEXT_HEAVNZ819_01949_MIDNIGHTDEW_000_040,……德利普威克斯定的新規矩？<hex:02100103>這個真的很難說啊。
-62,TEXT_HEAVNZ819_01949_MIDNIGHTDEW_000_041,若是問需要或者不需要的話，我認為是有必要定個規矩的。<hex:02100103>但是德利普威克斯做得有些過頭了。<hex:02100103>規矩定得太細，只會給人添麻煩。
-63,TEXT_HEAVNZ819_01949_MIDNIGHTDEW_000_058,若是問需要或者不需要的話，我認為是有必要定個規矩的。<hex:02100103>但是德利普威克斯做得有些過頭了。<hex:02100103>規矩定得太細，只會給人添麻煩。
-64,TEXT_HEAVNZ819_01949_DRIPWIX_100_058,呼哧……呼哧……<hex:02100103>哥布的新規矩 反響如何？<hex:02100103>一定能幫上大忙 大家很高興吧！
-65,TEXT_HEAVNZ819_01949_SLOWFIX_000_050,呼哧……呼哧……<hex:02100103>一直在 等你回來哥布！<hex:02100103>新規矩 評價如何 快說說哥布！
-66,TEXT_HEAVNZ819_01949_DRIPWIX_000_051,呼哧……呼哧……<hex:02100103>哥布的 新規矩 很失敗？<hex:02100103>給大家 添了麻煩？
-67,TEXT_HEAVNZ819_01949_DRIPWIX_000_052,那 那麼哥布 重新制定 新的規矩！<hex:02100103>區分領地的線 太複雜 就重新劃分！<hex:02100103>這次一定 精確劃分 不出差錯！
-68,TEXT_HEAVNZ819_01949_SLOWFIX_000_053,呼哧……呼哧……<hex:02100103>德利普威克斯……<hex:02100103>哥布想要 再拜託你 一件事。
-69,TEXT_HEAVNZ819_01949_SLOWFIX_000_054,請你找到 德利普威克斯 轉告他<hex:02100103>哥布會在 能回想起初心的地方 等著他哥布。
-70,TEXT_HEAVNZ819_01949_SLOWFIX_000_063,請你找到 德利普威克斯 轉告他<hex:02100103>哥布會在 能回想起初心的地方 等著他哥布。
-71,TEXT_HEAVNZ819_01949_BALLOOON_000_060,打倒援軍！
-72,TEXT_HEAVNZ819_01949_DRIPWIX_000_070,呼哧……呼哧……<hex:02100103>恩人再一次 救了哥布……<hex:02100103>非常感謝 非常感謝！
-73,TEXT_HEAVNZ819_01949_DRIPWIX_000_071,在能回憶起初心 的地方 等著哥布？<hex:02100103>因為哥布制定的 新規矩 生氣了？
-74,TEXT_HEAVNZ819_01949_DRIPWIX_000_072,恩人也 一起來吧！<hex:02100103>絕對 絕對會 吵起來！<hex:02100103>迫不得已時 麻煩恩人 來勸勸架。
-75,TEXT_HEAVNZ819_01949_DRIPWIX_000_073,斯洛菲克斯 所說的地方<hex:02100103>一定就是 從屯集區 前往田園郡 的途中！
-76,TEXT_HEAVNZ819_01949_SLOWFIX_000_091,呼哧……呼哧……<hex:02100103>這裡的風景 猶如往昔 還是那麼美麗哥布……
-77,TEXT_HEAVNZ819_01949_DRIPWIX_000_080,呼哧……呼哧……<hex:02100103>斯洛菲克斯 你找 找哥布有事？
-78,TEXT_HEAVNZ819_01949_SLOWFIX_000_081,呼哧……呼哧……<hex:02100103>德利普威克斯 還記得嗎哥布？<hex:02100103>哥布們曾經在這裡 做出決定 要建立自由的城市。
-79,TEXT_HEAVNZ819_01949_DRIPWIX_000_082,當然了 哥布記得 很清楚……<hex:02100103>為了大家 發誓要建立 美好的城市……
-80,TEXT_HEAVNZ819_01949_SLOWFIX_000_083,定的規矩 認真過頭 一點都不美好哥布。<hex:02100103>為自由的人民 建立自由的城市 自由的心情 最重要！
-81,TEXT_HEAVNZ819_01949_DRIPWIX_000_084,……這樣看來 是哥布錯了。<hex:02100103>遺忘了 那天的誓言 淨盯著 問題不放。<hex:02100103>斯洛菲克斯 拜託你 揍哥布一頓！
-82,TEXT_HEAVNZ819_01949_SLOWFIX_000_085,……沒有必要 這麼做哥布！<hex:02100103>哥布們 要珍惜同伴！<hex:02100103>當然更要 愛護同伴哥布！
-83,TEXT_HEAVNZ819_01949_DRIPWIX_000_086,斯洛菲克斯……<hex:02100103>這才是哥布們 需要的規矩！！<hex:02100103>「愛護同伴」 就是這個！
-84,TEXT_HEAVNZ819_01949_SLOWFIX_100_086,沒錯沒錯 有了這個 就足夠了哥布！<hex:02100103>除此以外就 看著辦吧哥布！
-85,TEXT_HEAVNZ819_01949_DRYDOX_000_087,呼哧……呼哧……<hex:02100103>斯洛菲克斯 不好了！<hex:02100103>租借出的釣竿 少了一根！
-86,TEXT_HEAVNZ819_01949_DRYDOX_000_088,記錄本上 什麼都沒有寫。<hex:02100103>不知道是誰 擅自拿走了。<hex:02100103>你知道 是誰拿的嗎？
-87,TEXT_HEAVNZ819_01949_SLOWFIX_000_089,呼哧……呼哧……<hex:02100103>……那 那根釣竿 是哥布借的。
-88,TEXT_HEAVNZ819_01949_SLOWFIX_100_089,發現了 大魚的蹤影<hex:02100103>情急之下 就直接借走了哥布！
-89,TEXT_HEAVNZ819_01949_DRIPWIX_000_090,呼哧……呼哧……這個笨蛋！<hex:02100103>果然還是 需要規矩！！
-90,TEXT_HEAVNZ819_01949_SLOWFIX_000_100,呼哧……呼哧……<hex:02100103>徹徹底底 激怒了 德利普威克斯。<hex:02100103>最低限度的規矩 或許還是 有必要的哥布……
-91,TEXT_HEAVNZ819_01949_SLOWFIX_000_101,德利普威克斯 說要制定 最低限度的規矩<hex:02100103>充滿了幹勁 看上去 很有信心哥布！<hex:02100103>下次一定 不會再錯了哥布！
-92,TEXT_HEAVNZ819_01949_SLOWFIX_000_102,總而言之 已經 做出了決定哥布<hex:02100103>只將「愛護同伴」 作為重要的規矩<hex:02100103>把它 推廣下去哥布！
-93,TEXT_HEAVNZ819_01949_SLOWFIX_000_103,你幫了 這麼多忙 非常感謝！<hex:02100103>發自內心地 謝謝你！
-94,TEXT_HEAVNZ819_01949_DRIPWIX_000_001,
-95,TEXT_HEAVNZ819_01949_DRIPWIX_000_042,
-96,TEXT_HEAVNZ819_01949_DRIPWIX_000_057,
-97,TEXT_HEAVNZ819_01949_SLOEFIX_000_050,
-98,TEXT_HEAVNZ819_01949_SLOEFIX_000_053,
-99,TEXT_HEAVNZ819_01949_SLOEFIX_000_054,
-100,TEXT_HEAVNZ819_01949_SLOEFIX_000_063,
-101,TEXT_HEAVNZ819_01949_SLOEFIX_000_091,
-102,TEXT_HEAVNZ819_01949_SLOEFIX_000_081,
-103,TEXT_HEAVNZ819_01949_SLOEFIX_000_083,
-104,TEXT_HEAVNZ819_01949_SLOEFIX_000_085,
-105,TEXT_HEAVNZ819_01949_SLOEFIX_100_086,
-106,TEXT_HEAVNZ819_01949_SLOEFIX_000_089,
-107,TEXT_HEAVNZ819_01949_SLOEFIX_100_089,
-108,TEXT_HEAVNZ819_01949_SLOEFIX_000_100,
-109,TEXT_HEAVNZ819_01949_SLOEFIX_000_101,
-110,TEXT_HEAVNZ819_01949_SLOEFIX_000_102,
-111,TEXT_HEAVNZ819_01949_SLOEFIX_000_103,
+0,"TEXT_HEAVNZ819_01949_SEQ_00","Slowfix is eager to know about the effect of Idyllshire's new rules."
+1,"TEXT_HEAVNZ819_01949_SEQ_01","Slowfix wants to know what sort of effect Dripwix's new rules are having in Idyllshire. Ask the inhabitants of Idyllshire and Bigwest Shortstop for their opinions on these new laws and regulations."
+2,"TEXT_HEAVNZ819_01949_SEQ_02","After speaking with several residents of Idyllshire, you learn that people are generally dissatisfied with the new rules that Dripwix introduced. They are unnecessarily complex and restrictive and they cause more problems than they solve. Relay this disappointing─if not unsurprising─news to Slowfix."
+3,"TEXT_HEAVNZ819_01949_SEQ_03","Upon hearing that his rules were a complete failure, Dripwix becomes upset and leaves, muttering something about redrawing Idyllshire's borders. Concerned about his friend, Slowfix asks you to find Dripwix and pass on a message to the distraught goblin, telling him to meet with Slowfix. If he is redrawing the settlement's borders, he is likely to be near the ill-defined borders with the Illuminati's settlement at the Arkhitekton."
+4,"TEXT_HEAVNZ819_01949_SEQ_04","You find Dripwix under attack by the Illuminati. Slay the attackers and aid Dripwix."
+5,"TEXT_HEAVNZ819_01949_SEQ_05","You assist Dripwix and relay Slowfix's message. Concerned that the meeting will result in conflict, Dripwix asks you to join him, as a mediator. The meeting will be on the road from the Arkhitekton to the Collectors' Quarter. Rendezvous with him there."
+6,"TEXT_HEAVNZ819_01949_SEQ_06","Slowfix reminds Dripwix what prompted them to found the settlement at Idyllshire─the desire for a free and beautiful home for any and all who would choose to live there. As Dripwix begins to realize that his rules are getting in the way of this goal, it is revealed that Slowfix's disregard for the new goblin lending laws has led to a fishing rod going missing. An enraged Dripwix chases his careless friend all the way back to Idyllshire. Meet with them there."
+7,"TEXT_HEAVNZ819_01949_SEQ_07","Slowfix explains that his conversation with Dripwix led to the creation of a new, fundamental law for Idyllshire: always respect friends. Though this one rule alone will not solve the settlement's administrative issues, it encapsulates the spirit in which Idyllshire was founded and will form the basis upon which further rules are established."
+8,"TEXT_HEAVNZ819_01949_SEQ_08",""
+9,"TEXT_HEAVNZ819_01949_SEQ_09",""
+10,"TEXT_HEAVNZ819_01949_SEQ_10",""
+11,"TEXT_HEAVNZ819_01949_SEQ_11",""
+12,"TEXT_HEAVNZ819_01949_SEQ_12",""
+13,"TEXT_HEAVNZ819_01949_SEQ_13",""
+14,"TEXT_HEAVNZ819_01949_SEQ_14",""
+15,"TEXT_HEAVNZ819_01949_SEQ_15",""
+16,"TEXT_HEAVNZ819_01949_SEQ_16",""
+17,"TEXT_HEAVNZ819_01949_SEQ_17",""
+18,"TEXT_HEAVNZ819_01949_SEQ_18",""
+19,"TEXT_HEAVNZ819_01949_SEQ_19",""
+20,"TEXT_HEAVNZ819_01949_SEQ_20",""
+21,"TEXT_HEAVNZ819_01949_SEQ_21",""
+22,"TEXT_HEAVNZ819_01949_SEQ_22",""
+23,"TEXT_HEAVNZ819_01949_SEQ_23",""
+24,"TEXT_HEAVNZ819_01949_TODO_00","Gather information at Bigwest Shortstop."
+25,"TEXT_HEAVNZ819_01949_TODO_01","Gather information in Idyllshire."
+26,"TEXT_HEAVNZ819_01949_TODO_02","Speak with Slowfix."
+27,"TEXT_HEAVNZ819_01949_TODO_03","Search for Dripwix near the Arkhitekton."
+28,"TEXT_HEAVNZ819_01949_TODO_04","Aid Dripwix."
+29,"TEXT_HEAVNZ819_01949_TODO_05","Speak with Dripwix."
+30,"TEXT_HEAVNZ819_01949_TODO_06","Speak with Slowfix."
+31,"TEXT_HEAVNZ819_01949_TODO_07",""
+32,"TEXT_HEAVNZ819_01949_TODO_08",""
+33,"TEXT_HEAVNZ819_01949_TODO_09",""
+34,"TEXT_HEAVNZ819_01949_TODO_10",""
+35,"TEXT_HEAVNZ819_01949_TODO_11",""
+36,"TEXT_HEAVNZ819_01949_TODO_12",""
+37,"TEXT_HEAVNZ819_01949_TODO_13",""
+38,"TEXT_HEAVNZ819_01949_TODO_14",""
+39,"TEXT_HEAVNZ819_01949_TODO_15",""
+40,"TEXT_HEAVNZ819_01949_TODO_16",""
+41,"TEXT_HEAVNZ819_01949_TODO_17",""
+42,"TEXT_HEAVNZ819_01949_TODO_18",""
+43,"TEXT_HEAVNZ819_01949_TODO_19",""
+44,"TEXT_HEAVNZ819_01949_TODO_20",""
+45,"TEXT_HEAVNZ819_01949_TODO_21",""
+46,"TEXT_HEAVNZ819_01949_TODO_22",""
+47,"TEXT_HEAVNZ819_01949_TODO_23",""
+48,"TEXT_HEAVNZ819_01949_SLOWFIX_000_000","Pshhh... Shkohhh...<hex:02100103>Dripwix's new rules are very, very inconvenient."
+49,"TEXT_HEAVNZ819_01949_SLOWFIX_000_001","Uplander, please help. Please ask citizens of Idyllshire for opinions of new rules. Slowfix will fetch Dripwix."
+50,"TEXT_HEAVNZ819_01949_SLOWFIX_000_042","Uplander, please ask Idyllshire citizens for opinions of new rules. Slowfix will fetch Dripwix."
+51,"TEXT_HEAVNZ819_01949_DRYDOX_000_010","Pshhh... Shkohhh...<hex:02100103>Uplander wants to know Drydox's thinking about new rules?"
+52,"TEXT_HEAVNZ819_01949_DRYDOX_000_011","Renting out tools is now big, big, <hex:021A020203>big<hex:021A020103> pain in sittyparts! We must record much too many details!"
+53,"TEXT_HEAVNZ819_01949_DRYDOX_000_012","Recordkeeping takes such long time, customers get angry and leave! Every day is less customers. Every day is less jinglyshine!"
+54,"TEXT_HEAVNZ819_01949_DRYDOX_000_055","Rules make customers leave! Rules mean Slowfix makes no jinglyshine!"
+55,"TEXT_HEAVNZ819_01949_TAPKLIX_000_020","Pshhh... Shkohhh...<hex:02100103>You want to know what watchguards think of Dripwix's new maps? Honestly, they are <hex:021A020203>terrible<hex:021A020103>!"
+56,"TEXT_HEAVNZ819_01949_TAPKLIX_000_021","Borders and lines are too complex, no gobbies can remember them! Watchguards can't watch <hex:021A020203>or<hex:021A020103> guard─they spend whole time looking down at map."
+57,"TEXT_HEAVNZ819_01949_TAPKLIX_000_056","New maps are terrible─much too complex. Watchguards can't remember borderlines. Watchguards spend mission looking at map, not looking for Illuminati."
+58,"TEXT_HEAVNZ819_01949_LOUDJOX_000_030","Pshhh... Shkohhh...<hex:02100103>Dripwix's rules? Things were better before we had rules."
+59,"TEXT_HEAVNZ819_01949_LOUDJOX_000_031","Before, everyone was free! Now, we can't do anything at all─we must check every rule first. Do we really need these rules?"
+60,"TEXT_HEAVNZ819_01949_LOUDJOX_000_057","Before rules, gobbies were free. Now, rules stop us doing things. Are rules truly necessary?"
+61,"TEXT_HEAVNZ819_01949_MIDNIGHTDEW_000_040","Dripwix's rules? There's no simple answer to that question."
+62,"TEXT_HEAVNZ819_01949_MIDNIGHTDEW_000_041","If it's about if we need rules, I'd say we do. But Dripwix has gone too far. His rules are so complicated, they do naught but cause problems."
+63,"TEXT_HEAVNZ819_01949_MIDNIGHTDEW_000_058","I think we need rules, but not like what Dripwix has done. I think he's gone too far."
+64,"TEXT_HEAVNZ819_01949_DRIPWIX_100_058","Pshhh... Shkohhh...<hex:02100103>What does everyone think of Dripwix's rules? Everyone is very helped, yes? Very happy, yes?"
+65,"TEXT_HEAVNZ819_01949_SLOWFIX_000_050","Pshhh... Shkohhh...<hex:02100103>Uplander! We were waiting for you! Please tell us what people think of new rules!"
+66,"TEXT_HEAVNZ819_01949_DRIPWIX_000_051","Pshhh... Shkohhh...<hex:02100103>Everyone hates new rules!? Dripwix...failed? "
+67,"TEXT_HEAVNZ819_01949_DRIPWIX_000_052","Th-Then Dripwix must change rules. Dripwix will start with Idyllshire borders. Borders should be redrawn. This time, Dripwix will get rules right!"
+68,"TEXT_HEAVNZ819_01949_SLOWFIX_000_053","Pshhh... Shkohhh...<hex:02100103>Dripwix!<hex:02100103>...Uplander, Slowfix needs one more hand-lending from you."
+69,"TEXT_HEAVNZ819_01949_SLOWFIX_000_054","Please find Dripwix. Tell him to meet Slowfix at place where we first had idea. Tell him Slowfix will be waiting for him."
+70,"TEXT_HEAVNZ819_01949_SLOWFIX_000_063","Uplander, please find Dripwix. Tell him Slowfix will be waiting for him at place where we first had idea."
+71,"TEXT_HEAVNZ819_01949_BALLOOON_000_060","Reinforcements!? Kill them! Kill!"
+72,"TEXT_HEAVNZ819_01949_DRIPWIX_000_070","Pshhh... Shkohhh...<hex:02100103>Uplander. You saved Dripwix once again. Dripwix owes you great manythanks."
+73,"TEXT_HEAVNZ819_01949_DRIPWIX_000_071","Place where we first had idea...? Is Slowfix angry that Dripwix made rules?"
+74,"TEXT_HEAVNZ819_01949_DRIPWIX_000_072","Uplander, please come with Dripwix. It will definitely, definitely become fight. Please follow, uplander, and be middlethinker."
+75,"TEXT_HEAVNZ819_01949_DRIPWIX_000_073","Place Slowfix speaks of is on road between here and Collectors' Quarter."
+76,"TEXT_HEAVNZ819_01949_SLOWFIX_000_091","Pshhh... Shkohhh...<hex:02100103>View from here is always eye-pleasing."
+77,"TEXT_HEAVNZ819_01949_DRIPWIX_000_080","Pshhh... Shkohhh...<hex:02100103>S-Slowfix... What do you want?"
+78,"TEXT_HEAVNZ819_01949_SLOWFIX_000_081","Pshhh... Shkohhh...<hex:02100103>Dripwix, do you remember? When we decide here to make free nation for free people."
+79,"TEXT_HEAVNZ819_01949_DRIPWIX_000_082","Of course. Dripwix remembers. We make wordbond to make beautiful city for everyone."
+80,"TEXT_HEAVNZ819_01949_SLOWFIX_000_083","Rules that strangle all citizens─that is not beautiful. For citizens of free nation to be free, citizens must <hex:021A020203>feel<hex:021A020103> free!"
+81,"TEXT_HEAVNZ819_01949_DRIPWIX_000_084","Pshhh... Shkohhh...<hex:02100103>It seems Dripwix was wrong. Dripwix see only problems and forget wordbond of that day. Slowfix, you should punch Dripwix. Dripwix deserves it."
+82,"TEXT_HEAVNZ819_01949_SLOWFIX_000_085","That would fix nothing! We must treasure friendship, Dripwix. Slowfix knows to always respect friends."
+83,"TEXT_HEAVNZ819_01949_DRIPWIX_000_086","Slowfix... If we need any rule, it is that─always respect friends."
+84,"TEXT_HEAVNZ819_01949_SLOWFIX_100_086","Yes! That will be only rule in Idyllshire. If we obey that rule, we may otherwise do as we want!"
+85,"TEXT_HEAVNZ819_01949_DRYDOX_000_087","Pshhh... Shkohhh...<hex:02100103>Slowfix! One of fishingrod for lending is missing!"
+86,"TEXT_HEAVNZ819_01949_DRYDOX_000_088","Nothing is written in ledger. Someone took it without asking. Do you know who took it?"
+87,"TEXT_HEAVNZ819_01949_SLOWFIX_000_089","Pshhh... Shkohhh...<hex:02100103>S-Slowfix borrowed it."
+88,"TEXT_HEAVNZ819_01949_SLOWFIX_100_089","Slowfix found such great, beautiful fish. Slowfix was in such rush to catch fish, Slowfix quickly just took fishingrod."
+89,"TEXT_HEAVNZ819_01949_DRIPWIX_000_090","Pshhh... Shkohhh...<hex:02100103>Y-You addlebrain! Dripwix is sure we need rules now!"
+90,"TEXT_HEAVNZ819_01949_SLOWFIX_000_100","Pshhh... Shkohhh...<hex:02100103>Slowfix got big shouting at. Perhaps Idyllshire needs <hex:021A020203>some<hex:021A020103> rules after all."
+91,"TEXT_HEAVNZ819_01949_SLOWFIX_000_101","Dripwix says he will make very basic rules for Idyllshire. He seems very excited. Hopefully he will make good rules this time."
+92,"TEXT_HEAVNZ819_01949_SLOWFIX_000_102","But for now, we have decided on most important, basic rule: always respect friends."
+93,"TEXT_HEAVNZ819_01949_SLOWFIX_000_103","Thank you, uplander, for all your help. Thank you."
+94,"TEXT_HEAVNZ819_01949_DRIPWIX_000_001","deleted"
+95,"TEXT_HEAVNZ819_01949_DRIPWIX_000_042","deleted"
+96,"TEXT_HEAVNZ819_01949_DRIPWIX_000_057","deleted"
+97,"TEXT_HEAVNZ819_01949_SLOEFIX_000_050","deleted"
+98,"TEXT_HEAVNZ819_01949_SLOEFIX_000_053","deleted"
+99,"TEXT_HEAVNZ819_01949_SLOEFIX_000_054","deleted"
+100,"TEXT_HEAVNZ819_01949_SLOEFIX_000_063","deleted"
+101,"TEXT_HEAVNZ819_01949_SLOEFIX_000_091","deleted"
+102,"TEXT_HEAVNZ819_01949_SLOEFIX_000_081","deleted"
+103,"TEXT_HEAVNZ819_01949_SLOEFIX_000_083","deleted"
+104,"TEXT_HEAVNZ819_01949_SLOEFIX_000_085","deleted"
+105,"TEXT_HEAVNZ819_01949_SLOEFIX_100_086","deleted"
+106,"TEXT_HEAVNZ819_01949_SLOEFIX_000_089","deleted"
+107,"TEXT_HEAVNZ819_01949_SLOEFIX_100_089","deleted"
+108,"TEXT_HEAVNZ819_01949_SLOEFIX_000_100","deleted"
+109,"TEXT_HEAVNZ819_01949_SLOEFIX_000_101","deleted"
+110,"TEXT_HEAVNZ819_01949_SLOEFIX_000_102","deleted"
+111,"TEXT_HEAVNZ819_01949_SLOEFIX_000_103","deleted"

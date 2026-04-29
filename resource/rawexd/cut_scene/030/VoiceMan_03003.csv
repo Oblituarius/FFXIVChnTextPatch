@@ -2,410 +2,410 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_VOICEMAN_03003_000010_ALPHINAUD,如果龍族再次攻擊伊修加德的話……<hex:02100103>就算我們能夠擊退龍族，<hex:02100103>伊修加德也將無可避免地受到重大打擊。
-1,TEXT_VOICEMAN_03003_000020_TATARU,那我們怎麼辦？<hex:02100103>龍族根本就聽不進我們的話呢！
-2,TEXT_VOICEMAN_03003_000030_ALPHINAUD,……不，有個人說不定還能談談。
-3,TEXT_VOICEMAN_03003_000040_TATARU,難道是要找冰之巫女嗎？
-4,TEXT_VOICEMAN_03003_000050_ALPHINAUD,你說你在庫爾札斯西部高地遇見冰之巫女時，<hex:02100103>她懺悔了自己的罪孽？
-5,TEXT_VOICEMAN_03003_000060_ALPHINAUD,……那麼，我們還有機會。<hex:02100103>她和龍族有接觸，<hex:02100103>通過她我們說不定能說服尼德霍格放棄進攻。
-6,TEXT_VOICEMAN_03003_000070_ESTINIEN,(-？？？？-)那我也要跟著走這一趟。
-7,TEXT_VOICEMAN_03003_000080_ALPHINAUD,埃斯蒂尼安閣下？！
-8,TEXT_VOICEMAN_03003_000090_ESTINIEN,仇恨使尼德霍格陷入了狂怒，<hex:02100103>我不認為它會接受你們的交涉。<hex:02100103>但是，這至少可以拖延一點時間。
-9,TEXT_VOICEMAN_03003_000100_ESTINIEN,而且光之戰士在這裡，<hex:02100103>再加上我的「龍眼」，<hex:02100103>說不定能就此幹掉它，結束這場戰爭。
-10,TEXT_VOICEMAN_03003_000110_ALPHINAUD,有聞名遐邇的蒼天之龍騎士同行，<hex:02100103>我自然是求之不得。<hex:02100103>不過這次還是要優先交涉，戰鬥是迫不得已時的選擇。
-11,TEXT_VOICEMAN_03003_000120_ESTINIEN,隨你的便。<hex:02100103>即使是對冰之巫女，<hex:02100103>我也不會不問青紅皂白就開打的。
-12,TEXT_VOICEMAN_03003_000130_ESTINIEN,只不過，不要對艾默里克提起此行的詳情。<hex:02100103>可不能把他捲入和異端有關係的事情裡。
-13,TEXT_VOICEMAN_03003_000140_ALPHINAUD,我明白了，埃斯蒂尼安閣下。<hex:02100103>那麼就有勞你同行了。
-14,TEXT_VOICEMAN_03003_000150_ESTINIEN,哈，交給我吧。
-15,TEXT_VOICEMAN_03003_100010_AYMERIC,加強第三區的防禦。<hex:02100103>還有，對龍弩砲的維修也不要鬆懈了。
-16,TEXT_VOICEMAN_03003_100020_YOUNGTEMPLEKNIGHT,(-神殿騎士-)是，屬下遵命！
-17,TEXT_VOICEMAN_03003_100030_AYMERIC,啊，是你們啊。<hex:02100103>我得到消息說龍族正在集結，看來是要再次進攻皇都。<hex:02100103>你們也都聽說了吧？
-18,TEXT_VOICEMAN_03003_100040_ALPHINAUD,真抱歉打擾到您了。<hex:02100103>其實我們找您也是為了這次龍族進攻的事情。<hex:02100103>……我們可能有辦法阻止龍族的進攻。
-19,TEXT_VOICEMAN_03003_100050_ALPHINAUD,現在我們還不好具體說出什麼。<hex:02100103>但是能不能請您說服教皇廳，<hex:02100103>在我們行動時不要對龍族主動發起攻擊。
-20,TEXT_VOICEMAN_03003_100060_AYMERIC,如果你們真能阻止龍族的進攻，我自然是求之不得……<hex:02100103>但是能不能具體解釋一下你們的方法？
-21,TEXT_VOICEMAN_03003_100070_ESTINIEN,我也會一同前往。<hex:02100103>他們的方法能不能成功暫且不論，<hex:02100103>但是至少能削弱敵人的一部分實力，並且拖延一點時間。
-22,TEXT_VOICEMAN_03003_100080_ESTINIEN,教皇廳的主戰派也根本沒什麼勝算吧？<hex:02100103>他們也就喊喊聖戰的口號，<hex:02100103>可從來沒提出過具體的計劃。
-23,TEXT_VOICEMAN_03003_100090_AYMERIC,的確，我本人也是不贊同先發動攻擊的。<hex:02100103>現在的首要任務是加強皇都的防衛。
-24,TEXT_VOICEMAN_03003_100100_AYMERIC,蒼天之龍騎士和光之戰士一同出擊，<hex:02100103>拖延邪龍尼德霍格的攻擊。<hex:02100103>這應該能說服他們……
-25,TEXT_VOICEMAN_03003_100110_AYMERIC,好吧，我大概能猜到你們也是為了我好。<hex:02100103>說服教皇廳就交給我吧，但是你們自己也要小心。
-26,TEXT_VOICEMAN_03003_200010_THORDAN,……何事喧嘩？
-27,TEXT_VOICEMAN_03003_200020_ZEPHIRIN,啟稟陛下。<hex:02100103>阿德內爾占星台敲響了警鐘，<hex:02100103>龍族要再次進攻皇都。
-28,TEXT_VOICEMAN_03003_200030_THORDAN,龍族又有動靜了……
-29,TEXT_VOICEMAN_03003_200040_THORDAN,不過，如今我已獲得聖劍之力，<hex:02100103>僅剩獨眼的尼德霍格已不足為懼。
-30,TEXT_VOICEMAN_03003_200050_THORDAN,那些鬼鬼祟祟的無影還在想利用我們吧……<hex:02100103>就和他們玩一下好了。
-31,TEXT_VOICEMAN_03003_200060_ZEPHIRIN,但是，陛下……<hex:02100103>無影們擁有我們還不知道的力量，<hex:02100103>我們的事情會不會被他們察覺？
-32,TEXT_VOICEMAN_03003_200070_THORDAN,你還真是個慎重的人。<hex:02100103>雖然我欣賞你這種慎重，<hex:02100103>但是作為領袖不只需要心細，還要有膽大。
-33,TEXT_VOICEMAN_03003_200080_THORDAN,我們的目標是徹底解決千年來的禍根。<hex:02100103>為了這個，我已將生死置之度外。
-34,TEXT_VOICEMAN_03003_200090_ZEPHIRIN,那麼，關於蒼天之龍騎士和光之戰士他們的事情也……
-35,TEXT_VOICEMAN_03003_200100_THORDAN,讓他們鬧去。<hex:02100103>每個人都有自己該做的事情。<hex:02100103>……得到了「力量」的你們也一樣。
-36,TEXT_VOICEMAN_03003_200110_ZEPHIRIN,是！<hex:02100103>向托爾丹效忠！
-37,TEXT_VOICEMAN_03003_300010_ICEHEART,果然是你們……
-38,TEXT_VOICEMAN_03003_300020_ICEHEART,我從同伴那裡接到了報告。<hex:02100103>還請原諒他們的無禮。
-39,TEXT_VOICEMAN_03003_300030_ICEHEART,請你們告訴我找我的理由吧。
-40,TEXT_VOICEMAN_03003_Q1_000_1,向伊塞勒說什麼？
-41,TEXT_VOICEMAN_03003_A1_000_1,想阻止尼德霍格的進軍
-42,TEXT_VOICEMAN_03003_A1_000_2,我們來和你談一談
-43,TEXT_VOICEMAN_03003_A1_000_3,（★未使用／削除予定★）
-44,TEXT_VOICEMAN_03003_300040_ICEHEART,原來是這樣……<hex:02100103>你們為了阻止龍族的進攻想和它們談判……<hex:02100103>看來你們並不是在開玩笑。
-45,TEXT_VOICEMAN_03003_300050_ICEHEART,但是你們需要先知道真實，<hex:02100103>那是龍族和人類對立的根本原因。<hex:02100103>否則，你們和龍族是不可能談到一塊的。
-46,TEXT_VOICEMAN_03003_300060_ICEHEART,那我就告訴你們吧。<hex:02100103>那些我看到的過去的事實……
-47,TEXT_VOICEMAN_03003_400010_ICEHEART,那是1200年前的事情……<hex:02100103>有一群精靈族人來到了庫爾札斯之地。
-48,TEXT_VOICEMAN_03003_400020_ICEHEART,一開始，他們和龍族之間不斷有小規模的摩擦發生，<hex:02100103>但是沒過多久就有一位少女成為了兩族之間交流的橋樑。<hex:02100103>她的名字叫「希瓦」。
-49,TEXT_VOICEMAN_03003_400030_ICEHEART,她和聰明理智的龍族進行交流，<hex:02100103>還遇到了七大天龍之一的聖龍赫拉斯瓦爾格，<hex:02100103>並且愛上了它。
-50,TEXT_VOICEMAN_03003_400040_ICEHEART,但是人類和龍族的壽命相差甚遠。<hex:02100103>人類再怎麼長壽也就是區區百年，<hex:02100103>而龍族卻能生存千年、萬年。
-51,TEXT_VOICEMAN_03003_400050_ICEHEART,赫拉斯瓦爾格接受了希瓦的愛情，<hex:02100103>但同時也感到了苦惱。<hex:02100103>因為終會有一天，死亡將拆散他們。
-52,TEXT_VOICEMAN_03003_400060_ICEHEART,所以，希瓦就懇求赫拉斯瓦爾格吃掉自己……<hex:02100103>這樣她就能夠成為靈魂永遠陪伴赫拉斯瓦爾格。
-53,TEXT_VOICEMAN_03003_400070_ICEHEART,就這樣，希瓦的靈魂和赫拉斯瓦爾格成為一體。<hex:02100103>龍族和人類得知此事後，也開始接受對方，<hex:02100103>開始走向了共榮的道路。
-54,TEXT_VOICEMAN_03003_400080_ICEHEART,兩個種族互相合作，在此地建立了美麗的國度。<hex:02100103>但是「龍眼」所擁有的巨大力量對人類來說是個誘惑，<hex:02100103>而龍族和人類的蜜月不到200年就迎來了終結。
-55,TEXT_VOICEMAN_03003_400090_ICEHEART,人類終究沒能壓住自己的慾望，<hex:02100103>他們偷襲了七大天龍，搶奪了龍眼……
-56,TEXT_VOICEMAN_03003_500010_ICEHEART,現在要進攻伊修加德的正是尼德霍格和其手下。<hex:02100103>尼德霍格身為七大天龍之一，<hex:02100103>也因人類的背叛而失去了龍眼。
-57,TEXT_VOICEMAN_03003_500020_ICEHEART,它的目的應該是奪回龍眼。<hex:02100103>如果達不到這個目的，就不可能和你們交涉。
-58,TEXT_VOICEMAN_03003_500030_ESTINIEN,這話我不同意……
-59,TEXT_VOICEMAN_03003_500040_ESTINIEN,你說的過去所發生的事情真假暫且不提，<hex:02100103>尼德霍格以前確實是以龍眼為目標。
-60,TEXT_VOICEMAN_03003_500050_ESTINIEN,所以我才冒著危險帶出了龍眼，<hex:02100103>遠離城市輾轉各地。<hex:02100103>正是打算將它引離皇都。
-61,TEXT_VOICEMAN_03003_500060_ALPHINAUD,這，這個就是龍眼……
-62,TEXT_VOICEMAN_03003_500070_ESTINIEN,以前，尼德霍格都是死盯著我不放，<hex:02100103>但是現在它將伊修加德作為目標。<hex:02100103>它明知道皇都中根本沒有龍眼。
-63,TEXT_VOICEMAN_03003_500080_ICEHEART,那就是另外有什麼原因了？
-64,TEXT_VOICEMAN_03003_500090_ESTINIEN,而且，它奪回龍眼也不會就此罷手。<hex:02100103>我通過這個龍眼感覺到的感情，<hex:02100103>已經不止是憎惡，而是瘋狂了。
-65,TEXT_VOICEMAN_03003_500100_ALPHINAUD,看來尼德霍格是不可能接受談判了，<hex:02100103>那麼我們找聖龍赫拉斯瓦爾格怎麼樣？
-66,TEXT_VOICEMAN_03003_500110_ALPHINAUD,聖龍沒有參與到對伊修加德的進攻，<hex:02100103>也許它現在也希望兩個種族和平共處。
-67,TEXT_VOICEMAN_03003_500120_ICEHEART,化干戈為玉帛……<hex:02100103>好吧，那我也跟著去。
-68,TEXT_VOICEMAN_03003_500130_ICEHEART,被索姆阿爾靈峰所環抱的龍堡，<hex:02100103>那裡就是我和赫拉斯瓦爾格邂逅的地方。<hex:02100103>它就住在其上空的雲海中。
-69,TEXT_VOICEMAN_03003_600010_ALPHINAUD,……你還好吧？
-70,TEXT_VOICEMAN_03003_600020_ALPHINAUD,你可不要太勉強了。<hex:02100103>不過翻過西面的山就是龍堡了，<hex:02100103>我們再加一把勁兒。
-71,TEXT_VOICEMAN_03003_600030_MIDGARDSORMR,……不簡單啊。<hex:02100103>沒想到能擊碎我的龍爪，哪怕是只有那麼一丁點兒。
-72,TEXT_VOICEMAN_03003_600040_MIDGARDSORMR,追求共存、平息混沌，看來你的決心無可動搖。<hex:02100103>這就是人類的意志嗎……<hex:02100103>那我就好好見識一下吧。
-73,TEXT_VOICEMAN_03003_700010_EDMONT,阿巴拉提亞山脈作為「艾歐澤亞的脊椎」<hex:02100103>東西橫貫阿爾迪納德次大陸
-74,TEXT_VOICEMAN_03003_700020_EDMONT,此地位於索姆阿爾靈峰山腳下<hex:02100103>是龍族的大本營
-75,TEXT_VOICEMAN_03003_700030_EDMONT,冒險者一行就這樣踏入了<hex:02100103>龍族支配的領域
-76,TEXT_VOICEMAN_03003_800010_ICEHEART,維德弗尼爾！
-77,TEXT_VOICEMAN_03003_800020_VIDOFNIR,啊，這渺小的人影，原來是伊塞勒你啊。<hex:02100103>我還以為是骨頜族的密探，<hex:02100103>差點就噴火燒死你了。
-78,TEXT_VOICEMAN_03003_800030_ICEHEART,維德弗尼爾，很高興再次見到你。<hex:02100103>請你一定要幫助我們，讓龍族和人類重歸於好。
-79,TEXT_VOICEMAN_03003_800040_VIDOFNIR,看來這次是有要事啊……<hex:02100103>你把事情詳細解釋給我聽聽吧。
-80,TEXT_VOICEMAN_03003_800050_VIDOFNIR,明白了，你們為了和尼德霍格及其眷屬和解，<hex:02100103>想要請我們的祖上赫拉斯瓦爾格幫忙？
-81,TEXT_VOICEMAN_03003_800060_ICEHEART,是的，正是如此。
-82,TEXT_VOICEMAN_03003_800070_VIDOFNIR,但是，渺小的人類啊，你能夠解釋一下嗎？<hex:02100103>為什麼你們當中有人持有尼德霍格的龍眼！
-83,TEXT_VOICEMAN_03003_800080_ESTINIEN,我帶著龍眼，自然是有我自己的考慮。<hex:02100103>……有必要的話，我還會把你的眼睛也挖下來哦？
-84,TEXT_VOICEMAN_03003_800090_ICEHEART,埃斯蒂尼安！<hex:02100103>我們這次來可是為了講和！
-85,TEXT_VOICEMAN_03003_800100_VIDOFNIR,現在吞掉渺小的人類自然是輕而易舉……<hex:02100103>但是我們祖上的願望是寂靜。<hex:02100103>對這兩個互相憎恨的種族，我們不支持任何一方。
-86,TEXT_VOICEMAN_03003_800110_ICEHEART,向聖龍尋求幫助這件事，<hex:02100103>我們自己來做就可以了。
-87,TEXT_VOICEMAN_03003_800120_ICEHEART,還請你打開前往索姆阿爾靈峰的道路，<hex:02100103>留給我們一絲希望！
-88,TEXT_VOICEMAN_03003_800130_VIDOFNIR,渺小的人類啊……<hex:02100103>也好，看在你的份上也不是不能讓你們上靈峰。
-89,TEXT_VOICEMAN_03003_800140_VIDOFNIR,但是骨頜族請下的神在攻擊我們，<hex:02100103>我得保護我的孩子們。<hex:02100103>我不能拋下自己的使命，離開這裡。
-90,TEXT_VOICEMAN_03003_800150_ICEHEART,骨頜族？他們也召喚出了蠻神？！
-91,TEXT_VOICEMAN_03003_800160_ALPHINAUD,那麼，只要我們擊退進犯的骨頜族，<hex:02100103>你就答應幫助我們嗎？
-92,TEXT_VOICEMAN_03003_800170_VIDOFNIR,哼，就憑你們幾個渺小的人類？<hex:02100103>就是我們威猛的龍族，<hex:02100103>也頻頻損兵折將。
-93,TEXT_VOICEMAN_03003_800180_VIDOFNIR,也罷，那就讓你們試一次吧。<hex:02100103>讓我看看你們的決心有多堅定！
-94,TEXT_VOICEMAN_03003_800190_ICEHEART,只能按照阿爾菲諾所說的去做了……<hex:02100103>這也是為了遏止新的紛爭。
-95,TEXT_VOICEMAN_03003_810010_ICEHEART,計劃到目前為止還算順利……
-96,TEXT_VOICEMAN_03003_810020_GNATHPRIEST,偉大的骨頜族群體，<hex:02100103>向開闢未來之神述說！
-97,TEXT_VOICEMAN_03003_810030_GNATHPRIEST,英勇之士、尚武之師、引領群體的神……<hex:02100103>降臨吧，武神羅波那！
-98,TEXT_VOICEMAN_03003_810040_ICEHEART,來了！
-99,TEXT_VOICEMAN_03003_810050_RAVANA,群居之族，<hex:02100103>為何呼喚我！
-100,TEXT_VOICEMAN_03003_810060_GNATHPRIEST,耀眼的武神啊！<hex:02100103>我們捉到了侵犯我們領土的人類！<hex:02100103>請您發落！
-101,TEXT_VOICEMAN_03003_810070_RAVANA,人類進入到骨頜族的領地……
-102,TEXT_VOICEMAN_03003_810080_ICEHEART,骨頜族之神羅波那！<hex:02100103>我們並非是要侵犯骨頜族的領地。
-103,TEXT_VOICEMAN_03003_810090_ICEHEART,我們只是來向骨頜族神祇詢問為何要與龍族戰鬥。
-104,TEXT_VOICEMAN_03003_810100_RAVANA,這還真是奇哉怪也。<hex:02100103>人類居然還要管骨頜族的事情。
-105,TEXT_VOICEMAN_03003_810110_RAVANA,聽說人類也在和龍族戰鬥，<hex:02100103>難道是來和骨頜族結盟？
-106,TEXT_VOICEMAN_03003_810120_ICEHEART,並非如此。<hex:02100103>我們打算阻止人類和龍族的爭鬥，<hex:02100103>因此也不希望骨頜族和龍族戰鬥下去。
-107,TEXT_VOICEMAN_03003_810130_ICEHEART,骨頜族至今為止都過著與世無爭的生活，<hex:02100103>為什麼現在要引起爭端，甚至不惜召喚神靈。
-108,TEXT_VOICEMAN_03003_810140_RAVANA,愚蠢……<hex:02100103>要生活就要戰鬥。
-109,TEXT_VOICEMAN_03003_810150_RAVANA,人類和龍族在爭鬥時，<hex:02100103>骨頜族一直在忍辱負重，暗中培養實力。
-110,TEXT_VOICEMAN_03003_810160_RAVANA,而現在雙方都已疲憊，正是骨頜族不可錯失的良機。<hex:02100103>骨頜族祈求自身的生活不受龍族的威脅，<hex:02100103>我正是應這個祈求誕生的神，是斬龍之武神。
-111,TEXT_VOICEMAN_03003_810170_ICEHEART,……那麼，就只好用武力來解決了！<hex:02100103>武神羅波那，我們要向你挑戰！
-112,TEXT_VOICEMAN_03003_810180_ICEHEART,如果我們勝利了，<hex:02100103>就請你們停止對龍堡的進攻！
-113,TEXT_VOICEMAN_03003_810190_RAVANA,哈哈哈哈！<hex:02100103>沒想到人類中也有這麼剛烈的勇士！
-114,TEXT_VOICEMAN_03003_810200_RAVANA,很好！<hex:02100103>武神羅波那，接受你的挑戰。
-115,TEXT_VOICEMAN_03003_810210_RAVANA,但是我要是贏了，<hex:02100103>就要奪走你們的靈魂，將你們變成我的兵卒！<hex:02100103>你可有異議？
-116,TEXT_VOICEMAN_03003_810220_ICEHEART,沒有問題！<hex:02100103>那先由我來挑戰！
-117,TEXT_VOICEMAN_03003_810230_RAVANA,這是？！<hex:02100103>以人類的身體召喚了神靈！
-118,TEXT_VOICEMAN_03003_810240_ICEHEART,你不會是想爽約了吧？<hex:02100103>武神羅波那。
-119,TEXT_VOICEMAN_03003_810250_RAVANA,哈哈，武神說一不二！<hex:02100103>來吧！
-120,TEXT_VOICEMAN_03003_810260_ICEHEART,沒想到……這麼強……<hex:02100103>是水晶數量不足嗎？
-121,TEXT_VOICEMAN_03003_810270_RAVANA,即使用上神靈的力量，人類終歸也就這樣了。<hex:02100103>……那麼，你要怎麼做呢？
-122,TEXT_VOICEMAN_03003_810280_RAVANA,你還是要堅持戰鬥啊……有骨氣！<hex:02100103>那就放馬過來吧！
-123,TEXT_VOICEMAN_03003_820010_RAVANA,身為人類居然能用武力勝過我！<hex:02100103>你的力量值得讚揚！
-124,TEXT_VOICEMAN_03003_820020_ICEHEART,不愧是光之戰士、人類的希望……<hex:02100103>比起我不知強大了多少。<hex:02100103>我算是見識到了你我之間的差距。
-125,TEXT_VOICEMAN_03003_820030_ICEHEART,我覺得武神羅波那是一個守信用的蠻神。<hex:02100103>他們短時間內應該不會再挑起戰事了。<hex:02100103>我們也回到維德弗尼爾那裡吧。
-126,TEXT_VOICEMAN_03003_820040_IGEYOHRM,<hex:024804F2022303>幹得不錯啊，光之使徒……<hex:02100103>但是記住了，只要還有恐懼和憤怒的感情存在於世上，<hex:02100103>人們就永遠不會放棄呼喚神靈。<hex:0248020103>
-127,TEXT_VOICEMAN_03003_820050_IGEYOHRM,<hex:024804F2022303>神靈之間的戰鬥就要來臨……<hex:02100103>你們將陷到更深的混沌之中……<hex:0248020103>
-128,TEXT_VOICEMAN_03003_900010_EDMONT,冒險者一行登上了索姆阿爾靈峰的頂端
-129,TEXT_VOICEMAN_03003_900020_EDMONT,他們看到的是浮游於雲海的美麗的諸島
-130,TEXT_VOICEMAN_03003_900030_EDMONT,這裡曾經是人類和龍族共同居住的雲上世界<hex:02100103>光之戰士一行正是千年來的第一批來訪者
-131,TEXT_VOICEMAN_03003_A00010_HRAESVELGR,……沒有想到，<hex:02100103>居然還會有人類到這黃昏之地。
-132,TEXT_VOICEMAN_03003_A00020_ALPHINAUD,聖龍赫拉斯瓦爾格……
-133,TEXT_VOICEMAN_03003_A00030_HRAESVELGR,沒錯……我就是赫拉斯瓦爾格。<hex:02100103>現在只是一個靜等滅亡來臨的老龍。<hex:02100103>人類啊，你們離開吧……
-134,TEXT_VOICEMAN_03003_A00031_ALPHINAUD,這……這是怎麼回事？<hex:02100103>這是龍族的語言嗎？！<hex:02100103>但是感覺又像是直接在腦海裡響起。
-135,TEXT_VOICEMAN_03003_A00040_ICEHEART,聖龍啊，您還記得嗎？<hex:02100103>我曾經在龍堡遇到您，得知了一切真實。
-136,TEXT_VOICEMAN_03003_A00050_ICEHEART,同時還理解到了您的摯愛希瓦的心願。
-137,TEXT_VOICEMAN_03003_A00060_HRAESVELGR,人類！你們居然還敢提起希瓦！
-138,TEXT_VOICEMAN_03003_A00070_ICEHEART,我已經召喚了希瓦的靈魂降臨到我的身體裡，<hex:02100103>從而得知了她純潔的心願！
-139,TEXT_VOICEMAN_03003_A00080_HRAESVELGR,愚蠢……<hex:02100103>你們居然將我的摯愛希瓦作為神靈召喚了出來！
-140,TEXT_VOICEMAN_03003_A00090_HRAESVELGR,更甚的是，還自以為理解了希瓦的心願！<hex:02100103>實在是愚不可及……
-141,TEXT_VOICEMAN_03003_A00100_ICEHEART,我也希望龍族和人類能夠和平共存……<hex:02100103>所以才召喚了希瓦！
-142,TEXT_VOICEMAN_03003_A00110_HRAESVELGR,愚蠢的女人啊……<hex:02100103>你藉助光之意志看到了過去發生的事情，<hex:02100103>就自大地以為了解了所有真實。
-143,TEXT_VOICEMAN_03003_A00120_HRAESVELGR,但是，你召喚出來的根本就不是希瓦，<hex:02100103>而只是你心中對希瓦的幻想而已。
-144,TEXT_VOICEMAN_03003_A00130_HRAESVELGR,在很久以前，我的同胞也被暗之使徒所煽動，<hex:02100103>召喚出了已經死亡的龍王。<hex:02100103>而實際上出現的只不過是徒有虛名的神。
-145,TEXT_VOICEMAN_03003_A00140_HRAESVELGR,召喚神靈只是一個創造神靈的行為。<hex:02100103>是弱者依賴於信仰、自欺欺人的把戲。
-146,TEXT_VOICEMAN_03003_A00150_ICEHEART,那、那麼我做的一切……
-147,TEXT_VOICEMAN_03003_A00160_HRAESVELGR,內心軟弱的女人啊……<hex:02100103>你的靈魂已被你創造出的神靈給玷汙了。<hex:02100103>那不是希瓦的靈魂。
-148,TEXT_VOICEMAN_03003_A00170_ALPHINAUD,就算如此，我們也是賭上性命來到這裡的。<hex:02100103>我們的目的就是讓龍族和人類的恩怨有個了結！
-149,TEXT_VOICEMAN_03003_A00180_ALPHINAUD,而這個心願卻是真實的，絕不是什麼自欺欺人！<hex:02100103>神龍，請你幫助我們結束這場無休止的戰爭！
-150,TEXT_VOICEMAN_03003_A00190_HRAESVELGR,人類的本質就是慾望和背叛，<hex:02100103>你卻還在主張共存……
-151,TEXT_VOICEMAN_03003_A00200_HRAESVELGR,那我就給你們講講人類做下的那骯髒勾當……<hex:02100103>然後你們再捫心自問，人類到底還能不能做到共存！
-152,TEXT_VOICEMAN_03003_B00010_HRAESVELGR,那是1200年前的事了。<hex:02100103>當時因我和希瓦之間超越種族的愛情，<hex:02100103>人類和龍族迎來了共存的時代。
-153,TEXT_VOICEMAN_03003_B00020_HRAESVELGR,人類從與龍族的交流當中學習，<hex:02100103>後來得知了七大天龍強大力量的根源在於其龍眼。
-154,TEXT_VOICEMAN_03003_B00030_HRAESVELGR,之後又過了200年，人類終歸是沒能抑制住自己的慾望。<hex:02100103>當時的伊修加德國王名叫托爾丹，<hex:02100103>他抱有野心，想得到龍族的力量。
-155,TEXT_VOICEMAN_03003_B00040_HRAESVELGR,終於，他和其手下的騎士們利用陰謀詭計<hex:02100103>殺害了七龍之一拉塔托斯克！
-156,TEXT_VOICEMAN_03003_B00050_HRAESVELGR,那場景我至今歷歷在目！<hex:02100103>可惡的托爾丹從我妹妹拉塔托斯克那裡奪去了雙眼，<hex:02100103>並和騎士們一同吞食了龍眼！
-157,TEXT_VOICEMAN_03003_B00060_HRAESVELGR,他們吞食了龍眼，獲得了超人的力量。<hex:02100103>貪婪至此，我真的難以想像<hex:02100103>人類居然可以墮落到這種地步……
-158,TEXT_VOICEMAN_03003_B00070_HRAESVELGR,尼德霍格看到了親手足被殺，雙眼又被挖，<hex:02100103>自然是怒髮衝冠，暴跳如雷！
-159,TEXT_VOICEMAN_03003_B00080_HRAESVELGR,但是它擊斃了托爾丹和幾個騎士後，<hex:02100103>也被人類奪走了眼睛，被迫退走……
-160,TEXT_VOICEMAN_03003_B00090_HRAESVELGR,這就是真實……<hex:02100103>這就是龍族和人類戰爭的導火索。
-161,TEXT_VOICEMAN_03003_B00100_HRAESVELGR,持續千年的龍詩戰爭至今還沒有結束，<hex:02100103>而這對我們龍族同樣是無法忘卻的詛咒之詩。
-162,TEXT_VOICEMAN_03003_C00010_ESTINIEN,你以為我們會相信嗎？<hex:02100103>這和我們伊修加德人從小聽到大的千年戰爭完全不同。
-163,TEXT_VOICEMAN_03003_C00020_HRAESVELGR,你們相不相信並不重要。<hex:02100103>對我們龍族來說這就是事實，<hex:02100103>我也只能相信我親眼所見到的事。
-164,TEXT_VOICEMAN_03003_C00030_HRAESVELGR,尼德霍格的目標是國王和騎士們的子孫後代……<hex:02100103>它要世世代代折磨伊修加德的民眾。
-165,TEXT_VOICEMAN_03003_C00040_HRAESVELGR,漫長的戰爭將使人類求生不得求死不能。<hex:02100103>那麼，自然會有一部分人類投靠龍族躲避爭端。
-166,TEXT_VOICEMAN_03003_C00050_ALPHINAUD,……你是說異端者？
-167,TEXT_VOICEMAN_03003_C00060_HRAESVELGR,然後尼德霍格就喂他們喝下龍血。<hex:02100103>吞食拉塔托斯克眼睛的國王和騎士的後代，<hex:02100103>其身體中自然也有一部分龍族的因子。
-168,TEXT_VOICEMAN_03003_C00070_ICEHEART,難、難道……
-169,TEXT_VOICEMAN_03003_C00080_HRAESVELGR,伊修加德人喝了龍血後，<hex:02100103>就會誘發自身包含的龍族因子，變身為龍族的眷屬。<hex:02100103>尼德霍格就是要永遠控制住這些人……
-170,TEXT_VOICEMAN_03003_C00090_ALPHINAUD,我見過異端者變身成龍的模樣！<hex:02100103>原來就是這個原因！
-171,TEXT_VOICEMAN_03003_C00100_ALPHINAUD,……這麼說，我們還有伊修加德所對抗的龍族之中，<hex:02100103>也有變身成龍族的……
-172,TEXT_VOICEMAN_03003_C00110_HRAESVELGR,當然，人類當中也有一部分人抗戰到底。<hex:02100103>就像你們那位龍騎士那樣……
-173,TEXT_VOICEMAN_03003_C00120_HRAESVELGR,但是不管一個人再怎麼抵抗，壽命也不過區區百年。<hex:02100103>再折磨其子孫就是了，龍族等得起。
-174,TEXT_VOICEMAN_03003_C00130_ESTINIEN,我以前總是想不通一個問題……<hex:02100103>尼德霍格要是竭盡全力，<hex:02100103>任何時候都可以將伊修加德一舉摧毀。
-175,TEXT_VOICEMAN_03003_C00140_ESTINIEN,可是它始終沒有這麼做。<hex:02100103>現在明白了，它的目的就是持續戰爭。<hex:02100103>既是為了自己的復仇，也是為了悼念妹妹。
-176,TEXT_VOICEMAN_03003_C00150_HRAESVELGR,你說的沒錯，弒龍者。<hex:02100103>讓尼德霍格停止戰爭是不可能的……
-177,TEXT_VOICEMAN_03003_C00160_ICEHEART,如果事情的起因真是人類的背叛，<hex:02100103>那麼只要我們奉還龍眼，真心謝罪……
-178,TEXT_VOICEMAN_03003_C00170_HRAESVELGR,真是個可憐的女人，你還沒明白嗎？<hex:02100103>龍族和人類，對時間的感受實在是相差太大了。
-179,TEXT_VOICEMAN_03003_C00180_HRAESVELGR,你們要道歉，自然是動動嘴的事情了。<hex:02100103>反正背叛的不是你們，只是歷史上的人物而已。
-180,TEXT_VOICEMAN_03003_C00190_HRAESVELGR,但是對我們龍族……對尼德霍格來說，<hex:02100103>背叛就猶如昨天剛剛發生，至今是心中的痛處。
-181,TEXT_VOICEMAN_03003_C00200_HRAESVELGR,陳年往事就說到這裡吧……<hex:02100103>我已經對人類絕望，<hex:02100103>現在只是和心愛之人的靈魂一同等待毀滅來臨……
-182,TEXT_VOICEMAN_03003_C00210_HRAESVELGR,我沒有被憤怒沖昏頭腦，<hex:02100103>是因為我的身體裡還有希瓦的靈魂。<hex:02100103>……我已經無話對你們說了，離開吧，人類。
-183,TEXT_VOICEMAN_03003_D00010_ESTINIEN,那麼，今後你們要怎麼辦？<hex:02100103>我是打算去東面的……
-184,TEXT_VOICEMAN_03003_D00020_ALPHINAUD,東面？<hex:02100103>那邊有什麼事物嗎？
-185,TEXT_VOICEMAN_03003_D00030_ESTINIEN,我通過龍眼感覺到尼德霍格了。<hex:02100103>尼德霍格所居住的另外一個宮殿應該就在那裡，<hex:02100103>我要前往這個龍巢。
-186,TEXT_VOICEMAN_03003_D00040_ICEHEART,你要做什麼？！
-187,TEXT_VOICEMAN_03003_D00050_ESTINIEN,都到這個地步了，你不會想阻止我吧？<hex:02100103>我已經按照約定幫助你們和赫拉斯瓦爾格對話了。
-188,TEXT_VOICEMAN_03003_D00060_ESTINIEN,現在，你的方法已經失敗了。<hex:02100103>要想拯救皇都就只有打倒尼德霍格這一條路了。
-189,TEXT_VOICEMAN_03003_D00070_ICEHEART,你都聽到了人類所犯下的罪行，<hex:02100103>還要繼續這個該死的「龍詩戰爭」嗎？！
-190,TEXT_VOICEMAN_03003_D00080_ESTINIEN,不，我要徹底結束戰爭……<hex:02100103>我會親手了結尼德霍格。
-191,TEXT_VOICEMAN_03003_D00090_ALPHINAUD,等一等，你這麼做有把握成功嗎？<hex:02100103>你剛才也感受到了赫拉斯瓦爾格那強大的力量……<hex:02100103>尼德霍格可也是七大天龍之一啊！
-192,TEXT_VOICEMAN_03003_D00100_ALPHINAUD,我們在伊修加德加強防守，<hex:02100103>投入全軍對抗它也不敢說一定能取勝。<hex:02100103>可你現在要深入敵陣去挑戰……
-193,TEXT_VOICEMAN_03003_D00110_ESTINIEN,我並不是想要以卵擊石。<hex:02100103>我這裡有龍眼，再有光之戰士的協助，<hex:02100103>勝負可還說不定呢。
-194,TEXT_VOICEMAN_03003_D00120_ESTINIEN,我並不是想要以卵擊石。<hex:02100103>我這裡有龍眼，還有兩位蒼天之龍騎士齊心協力，<hex:02100103>勝負可還說不定呢。
-195,TEXT_VOICEMAN_03003_D00130_ESTINIEN,……不過，首先要找到尼德霍格的去向。<hex:02100103>不管怎麼說，先找到龍巢總是沒有錯的。
-196,TEXT_VOICEMAN_03003_D00140_ALPHINAUD,這還真是一段瘋狂的歷史……<hex:02100103>而且到底還是只能用暴力解決嗎？
-197,TEXT_VOICEMAN_03003_D00150_ESTINIEN,歷史不就是這樣？<hex:02100103>人類自己的歷史也是一樣的……<hex:02100103>我現在能做的就只有這樣了。
-198,TEXT_VOICEMAN_03003_D00160_ICEHEART,我……我什麼也沒做到。<hex:02100103>我以前做的僅僅是自我陶醉？<hex:02100103>這些都只是寒冰的幻想？
-199,TEXT_VOICEMAN_03003_D00170_ESTINIEN,別管她……<hex:02100103>她的意志之槍已經折斷了，<hex:02100103>你再對她說什麼都是於事無補。
-200,TEXT_VOICEMAN_03003_E00010_ALPHINAUD,那是……
-201,TEXT_VOICEMAN_03003_E00020_ESTINIEN,沒錯，那就是龍巢。<hex:02100103>我通過龍眼感受到了，<hex:02100103>這是尼德霍格的怨念！
-202,TEXT_VOICEMAN_03003_E00030_ESTINIEN,看來它也對我們有了戒心……<hex:02100103>用風暴圍住了龍巢。
-203,TEXT_VOICEMAN_03003_E00040_ALPHINAUD,以前，我們曾經突破風神迦樓羅的風暴障壁，<hex:02100103>進入到其居所呢。
-204,TEXT_VOICEMAN_03003_E00050_ALPHINAUD,我們找西德幫忙吧。<hex:02100103>上次能成功，那這次也肯定行得通。
-205,TEXT_VOICEMAN_03003_F00010_WEDGE,你們看好了！<hex:02100103>這就是我們正在建造的飛空艇，<hex:02100103>我們稱之為「破魔艇」！
-206,TEXT_VOICEMAN_03003_F00020_BIGGS,第七星曆宣言之後，我們暫時離開了西德老大身邊，<hex:02100103>製作這艘新式飛空艇。<hex:02100103>這可是作為「小野馬」的接班飛空艇製作的。
-207,TEXT_VOICEMAN_03003_F00030_CID,怎麼樣，這飛空艇不簡單吧？<hex:02100103>看得出這兩個傢伙還是用心設計了基礎部分的。
-208,TEXT_VOICEMAN_03003_F00040_CID,你們還記得偏屬性水晶可以改變乙太的屬性吧？<hex:02100103>這艘飛空艇就是利用這個原理，<hex:02100103>將周圍的乙太轉換為風屬性。
-209,TEXT_VOICEMAN_03003_F00050_CID,然後再用特殊加工過的帆布利用風屬性乙太獲得浮力。<hex:02100103>我聽到這個主意的時候，也不得不佩服。
-210,TEXT_VOICEMAN_03003_F00060_WEDGE,不過，還是有點小小的缺憾……
-211,TEXT_VOICEMAN_03003_F00070_BIGGS,這偏屬性水晶浮游裝置的馬力還不夠強勁……<hex:02100103>如果想托起整個船身，<hex:02100103>就必須在風屬性乙太稠密的地方。
-212,TEXT_VOICEMAN_03003_F00080_WEDGE,簡單來說，<hex:02100103>就是有些地方能飛起來，有些地方飛不起來。
-213,TEXT_VOICEMAN_03003_F00090_CID,而且最近還因為建造伊修加德的大型飛空艇<hex:02100103>而耽擱了一段時間，<hex:02100103>所以還需要一些日子才能完工。
-214,TEXT_VOICEMAN_03003_F00100_TATARU,呵……呵……呵……
-215,TEXT_VOICEMAN_03003_F00110_WEDGE,塔、塔塔露？！<hex:02100103>怎麼這麼急啊？
-216,TEXT_VOICEMAN_03003_F00120_TATARU,大家都在這裡啊！<hex:02100103>我從烏爾達哈得到了天大的消息！<hex:02100103>是關於娜、娜娜莫陛下的！
-217,TEXT_VOICEMAN_03003_F00130_CID,好，破魔艇就交給我們來準備吧，<hex:02100103>放心，突破風暴的裝置我也會準備好的。
-218,TEXT_VOICEMAN_03003_F00140_CID,你們去幫牛老爹他們！
-219,TEXT_VOICEMAN_03003_G00010_RAUBAHN,這次又有勞你們了。
-220,TEXT_VOICEMAN_03003_G00020_ALPHINAUD,您跟我們還客氣什麼。<hex:02100103>倒是您的傷，沒有問題嗎？
-221,TEXT_VOICEMAN_03003_G00030_RAUBAHN,哈，完全沒問題，<hex:02100103>在監獄裡的一段時間消耗的體力也恢復得差不多了。<hex:02100103>這都是多虧了緋桐她們的護理啊。
-222,TEXT_VOICEMAN_03003_G00040_ALPHINAUD,那麼，事情有了什麼新的進展嗎？
-223,TEXT_VOICEMAN_03003_G00050_RAUBAHN,是的，我們得到了娜娜莫陛下相關的幾條新消息。<hex:02100103>杜菈菈報告說，最近有大量的煉金藥搬入王宮。
-224,TEXT_VOICEMAN_03003_G00060_PIPPIN,所以我和帕帕夏恩閣下一起調查了一番，<hex:02100103>發現送往王宮的煉金藥出自福隆戴爾藥學院。
-225,TEXT_VOICEMAN_03003_G00070_PIPPIN,據說是藥學院的上任院長發明的秘藥。<hex:02100103>其效用是可以使陷入長期昏迷狀態的患者保持生存。
-226,TEXT_VOICEMAN_03003_G00080_ALPHINAUD,長期昏迷狀態……<hex:02100103>那麼說娜娜莫陛下果然還活著！
-227,TEXT_VOICEMAN_03003_G00090_RAUBAHN,……沒錯，看來娜娜莫陛下一直在王宮裡的某處昏迷著。<hex:02100103>這也從另一方面證實了杜菈菈的話是可信的。
-228,TEXT_VOICEMAN_03003_G00100_YUGIRI,我們為了找到喚醒娜娜莫陛下的方法，<hex:02100103>一直在追尋那位侍女。<hex:02100103>因為就是她實行的「暗殺」，知道昏迷的原因。
-229,TEXT_VOICEMAN_03003_G00110_YUGIRI,到底是用的何種昏迷藥，<hex:02100103>直接問她就可以了。<hex:02100103>……我們就是打探到其住所，才叫來你們的。
-230,TEXT_VOICEMAN_03003_G00120_RAUBAHN,我們現在就要去找那個侍女！
-231,TEXT_VOICEMAN_03003_G00130_RAUBAHN,但是要注意，她現在在白銀集市。<hex:02100103>那裡雖然是偏僻小村，但是我們也不可能不被人發現。<hex:02100103>而共和派得知我們的行動，必然也會有所行動。
-232,TEXT_VOICEMAN_03003_G00140_RAUBAHN,我現在這副樣子，可不敢擔保此事萬無一失。<hex:02100103>為了謹慎起見，還是要請你這個老手出馬了。<hex:02100103>還請你為了娜娜莫陛下幫助我們。
-233,TEXT_VOICEMAN_03003_G00150_RAUBAHN,謝謝你，冒險者。<hex:02100103>那我們出發！<hex:02100103>去拯救娜娜莫陛下，拯救烏爾達哈！
-234,TEXT_VOICEMAN_03003_H00010_ALPHINAUD,你原來是娜娜莫陛下的侍女吧？<hex:02100103>梅里埃爾。
-235,TEXT_VOICEMAN_03003_H00020_LADYINWAITING2,你認錯人了吧，我根本不認識那人！<hex:02100103>失陪！
-236,TEXT_VOICEMAN_03003_H00030_LADYINWAITING2,勞、勞班大人！
-237,TEXT_VOICEMAN_03003_H00040_RAUBAHN,你還是把所有的真相都說出來吧……
-238,TEXT_VOICEMAN_03003_H00050_LOLORITO,這個問題，由我來回答吧。
-239,TEXT_VOICEMAN_03003_H00060_RAUBAHN,羅羅力特，原來是你！
-240,TEXT_VOICEMAN_03003_H00070_LOLORITO,加爾提諾地下深處的歐米茄……<hex:02100103>你們也知道泰勒吉·阿代勒吉為了得到歐米茄，<hex:02100103>發動了可笑的「前線計劃」。
-241,TEXT_VOICEMAN_03003_H00080_LOLORITO,但是他得知陛下想要廢除君王制度，就中途改變了計劃。<hex:02100103>他放棄暗中操控陛下為傀儡，打算暗殺陛下。<hex:02100103>他認為這樣可以一鼓作氣達到自己的目的。
-242,TEXT_VOICEMAN_03003_H00090_LOLORITO,他不知從何處弄來了繼承索恩皇家血統的小姑娘，<hex:02100103>應該是打算另立新的女王。
-243,TEXT_VOICEMAN_03003_H00100_LOLORITO,泰勒吉·阿代勒吉已經開始成為脫韁的野馬了。<hex:02100103>所以我就準備利用他的暗殺計劃，<hex:02100103>反過來除掉這個不聽使喚的棋子。
-244,TEXT_VOICEMAN_03003_H00110_RAUBAHN,那麼，娜娜莫陛下……
-245,TEXT_VOICEMAN_03003_H00120_LOLORITO,我根本沒理由除掉陛下，<hex:02100103>政商結合可不能失去政治。<hex:02100103>所以我就命令侍女將毒藥偷換成了昏迷藥。
-246,TEXT_VOICEMAN_03003_H00130_LOLORITO,這件事情，你的老朋友伊爾伯德也是知情的。
-247,TEXT_VOICEMAN_03003_H00140_LOLORITO,我讓他故意告訴你陛下被暗殺，<hex:02100103>激你除掉泰勒吉·阿代勒吉……<hex:02100103>不過，我沒想到事情會發展得如此順利。
-248,TEXT_VOICEMAN_03003_H00150_RAUBAHN,你們……<hex:02100103>果然從水晶義勇隊成立之前就是一夥兒的嗎？！
-249,TEXT_VOICEMAN_03003_H00160_LOLORITO,那還用說。<hex:02100103>伊爾伯德是我為了利用水晶義勇隊而準備的一枚棋子。
-250,TEXT_VOICEMAN_03003_H00170_LOLORITO,你也不想想那組織的成立資金是從哪裡來的。<hex:02100103>既然有那麼大批的資金流動，<hex:02100103>我想從中做些手腳，簡直是輕而易舉。
-251,TEXT_VOICEMAN_03003_H00180_LOLORITO,伊爾伯德是個執著於奪回阿拉米格的男子。<hex:02100103>我答應他，待我掌握實權後就支援他奪回祖國。
-252,TEXT_VOICEMAN_03003_H00190_LOLORITO,他說了，<hex:02100103>勞班只懂得討好娜娜莫陛下，根本就是個寵物。<hex:02100103>還說勞班是個拋棄祖國的叛徒……
-253,TEXT_VOICEMAN_03003_H00200_LOLORITO,但是他的執著也膨脹到了異常狀態。<hex:02100103>我根本就沒想殺了你，可是他卻不同。<hex:02100103>……他已經不能算是我的棋子了。
-254,TEXT_VOICEMAN_03003_H00210_LOLORITO,你和娜娜莫陛下都還活著。<hex:02100103>犯人一個死，一個逃，我也準備好給你們洗刷冤屈了。<hex:02100103>……我說勞班啊，不如就此前事一筆勾銷吧。
-255,TEXT_VOICEMAN_03003_H00220_RAUBAHN,什麼！<hex:02100103>你耍了這麼多陰謀詭計，現在說要一筆勾銷？！
-256,TEXT_VOICEMAN_03003_H00230_DEWLALA,勞班閣下，你冷靜一下！<hex:02100103>你沒有經過正式的裁判斬殺泰勒吉·阿代勒吉，<hex:02100103>那可是不爭的事實！
-257,TEXT_VOICEMAN_03003_H00240_DEWLALA,雖說你是因對女王陛下的忠誠而犯下了事，<hex:02100103>但是也不能完全就此推卸責任！
-258,TEXT_VOICEMAN_03003_H00250_DEWLALA,……羅羅力特閣下。
-259,TEXT_VOICEMAN_03003_H00260_LOLORITO,這是能讓娜娜莫陛下醒過來的秘藥。<hex:02100103>也是我對「和解」的誠意……
-260,TEXT_VOICEMAN_03003_H00270_LOLORITO,我已經派人將陛下送回房間裡了。<hex:02100103>你如果信不過，可以拿我當人質去王宮。
-261,TEXT_VOICEMAN_03003_H00280_RAUBAHN,雖然我無法贊成你的做法，但是你也有你的忠誠……<hex:02100103>也許我至少該相信你對陛下的忠誠。
-262,TEXT_VOICEMAN_03003_H00290_DEWLALA,勞班閣下，從今天起你將重新回到恆輝隊總帥的位置上！<hex:02100103>烏爾達哈的人民將再次聚集在娜娜莫陛下周圍，<hex:02100103>一同開拓出新的歷史！
-263,TEXT_VOICEMAN_03003_I00010_NANAMO,嗚……嗯……
-264,TEXT_VOICEMAN_03003_I00020_NANAMO,朕好像做了一個夢……<hex:02100103>一個很長的夢。
-265,TEXT_VOICEMAN_03003_I00030_RAUBAHN,陛下，您醒了。<hex:02100103>薩納蘭今天也是豔陽高照啊。
-266,TEXT_VOICEMAN_03003_J00010_RAUBAHN,娜娜莫陛下醒了過來，<hex:02100103>御醫也說陛下的身體已經無礙了。
-267,TEXT_VOICEMAN_03003_J00020_RAUBAHN,陛下大概還是會堅持為了民眾廢除君王政治。
-268,TEXT_VOICEMAN_03003_J00030_RAUBAHN,我要和娜娜莫陛下好好商量，<hex:02100103>慎重地決定烏爾達哈今後的發展。<hex:02100103>當然，國家的穩定還是要放在首位考慮的。
-269,TEXT_VOICEMAN_03003_J00040_LOLORITO,陛下的一片赤誠之心，我也是明白的……<hex:02100103>不過正如烏爾達哈的紋章上所畫的，<hex:02100103>這個國家需要的是各勢力勢均力敵的狀況。
-270,TEXT_VOICEMAN_03003_J00050_LOLORITO,只有這樣才有商機，才有我們的活路。<hex:02100103>再說現在國家正處於加雷馬帝國的威脅下，<hex:02100103>更不適於突然改變國家的根本。
-271,TEXT_VOICEMAN_03003_J00060_ALPHINAUD,羅羅力特閣下，<hex:02100103>你是不是得知了一些我們不知情的情報？
-272,TEXT_VOICEMAN_03003_J00070_LOLORITO,插在銀淚湖的帝國飛空戰艦，<hex:02100103>是叫阿格里俄斯號吧。<hex:02100103>我聽說帝國建造了其後續艦種，並成功完成了試飛。
-273,TEXT_VOICEMAN_03003_J00080_PIPPIN,那是什麼時候的事情？
-274,TEXT_VOICEMAN_03003_J00090_LOLORITO,也就是這幾天的事情。<hex:02100103>……看來新皇帝瓦厲斯耐不住寂寞，<hex:02100103>很快就會有所行動了。
-275,TEXT_VOICEMAN_03003_J00100_LOLORITO,愛惹事的泰勒吉·阿代勒吉不在了，<hex:02100103>現在是時候鞏固體制，準備對抗帝國的侵略了。
-276,TEXT_VOICEMAN_03003_K00010_ALPHINAUD,娜娜莫陛下能夠醒來真是太好了。<hex:02100103>雖然沙蠍眾內部的爭端還不會馬上消失，<hex:02100103>但是政局至少穩定了下來。
-277,TEXT_VOICEMAN_03003_K00020_ALPHINAUD,烏爾達哈已經走出了這新的一步。<hex:02100103>我也要對自己、對大家有個交代了。
-278,TEXT_VOICEMAN_03003_K00030_ALPHINAUD,我要解散水晶義勇隊。
-279,TEXT_VOICEMAN_03003_K00040_ALPHINAUD,水晶義勇隊裡當然也是有純粹贊同你我信念的人在。<hex:02100103>這些人我會和他們推心置腹地討論今後該怎麼做。
-280,TEXT_VOICEMAN_03003_K00050_ALPHINAUD,艾歐澤亞同盟軍會通緝伊爾伯德<hex:02100103>以及其他正在逃亡的人。<hex:02100103>他們最好是能主動投降……不過看來希望不大。
-281,TEXT_VOICEMAN_03003_K00060_ALPHINAUD,水晶義勇隊想成為大國防聯軍艾歐澤亞的先鋒，<hex:02100103>卻遭人利用，最終土崩瓦解。
-282,TEXT_VOICEMAN_03003_K00070_ALPHINAUD,開始我還覺得是因為背叛才會導致失敗，而心情低落。<hex:02100103>但是後來我覺悟到了，<hex:02100103>這都是我的不成熟以及傲慢招致的必然結果。
-283,TEXT_VOICEMAN_03003_K00080_ALPHINAUD,我還要感謝你。<hex:02100103>是你的堅持不懈給了我勇氣，<hex:02100103>讓我下定決心以自己的力量為理想而戰鬥下去。
-284,TEXT_VOICEMAN_03003_K00090_ALPHINAUD,我們一起找到至今下落不明的敏菲利亞她們，<hex:02100103>再一次燃起拂曉的希望之火吧。
-285,TEXT_VOICEMAN_03003_K00100_ALPHINAUD,任人擺布的水晶義勇隊總帥就此畢業了。<hex:02100103>從現在開始，我要作為拂曉血盟的一員奮鬥下去。
-286,TEXT_VOICEMAN_03003_L00010_ESTINIEN,準備已經就緒了，艾默里克。
-287,TEXT_VOICEMAN_03003_L00020_AYMERIC,明白了。<hex:02100103>那麼你們終於開始了嗎？
-288,TEXT_VOICEMAN_03003_L00030_ALPHINAUD,對不起，我來晚了。<hex:02100103>我中途去了一趟工房，看來破魔艇已經完成了。
-289,TEXT_VOICEMAN_03003_L00040_ESTINIEN,這樣我們就能進入到龍巢了。<hex:02100103>現在我們再來整體回顧一下。
-290,TEXT_VOICEMAN_03003_L00050_ESTINIEN,我們接受了阿爾菲諾的提議，前往龍堡的雲海。<hex:02100103>目的就是和七龍談判，迴避再次發生爭端。
-291,TEXT_VOICEMAN_03003_L00060_ESTINIEN,我們得到了冰之巫女的協助，<hex:02100103>和赫拉斯瓦爾格進行了對話。
-292,TEXT_VOICEMAN_03003_L00070_AYMERIC,你們還真是膽大……<hex:02100103>我事後從埃斯蒂尼安那裡得知後，<hex:02100103>幾乎不敢相信自己的耳朵。
-293,TEXT_VOICEMAN_03003_L00080_ESTINIEN,作為一個伊修加德人，<hex:02100103>和異端者聯手確實是無法想像的。<hex:02100103>但是多虧了如此，我們才撿回了一條命。
-294,TEXT_VOICEMAN_03003_L00090_ALPHINAUD,不過，和聖龍的交涉終歸還是失敗了，<hex:02100103>這可說不上是最好的結果。
-295,TEXT_VOICEMAN_03003_L00100_ESTINIEN,我們至少在途中打倒了尼德霍格的手下，<hex:02100103>把他的注意力吸引了過來。
-296,TEXT_VOICEMAN_03003_L00110_AYMERIC,多謝你們為我們爭取了時間。<hex:02100103>但是對龍弩砲和魔法障壁的普及率還不夠理想。
-297,TEXT_VOICEMAN_03003_L00120_ALPHINAUD,所以，我們這次用破魔艇突襲龍巢才有意義啊。<hex:02100103>埃斯蒂尼安閣下就是這個意思吧？
-298,TEXT_VOICEMAN_03003_L00130_ESTINIEN,尼德霍格可不是普通角色。<hex:02100103>但是這龍眼裡正有它自己的力量，<hex:02100103>只要我們能用龍眼封住它的力量本源，就仍然有勝機。
-299,TEXT_VOICEMAN_03003_L00140_ESTINIEN,當然，打倒眾多蠻神的光之戰士的力量也是必不可少。
-300,TEXT_VOICEMAN_03003_L00150_AYMERIC,那這次我也要去。<hex:02100103>破魔艇應該還有備用的吧？
-301,TEXT_VOICEMAN_03003_L00160_LUCIA,艾默里克大人，這萬萬不可！
-302,TEXT_VOICEMAN_03003_L00170_AYMERIC,英雄作為異邦人都要為伊修加德拼上性命，<hex:02100103>我身為伊修加德人又怎能袖手旁觀。<hex:02100103>我可沒有忘記自己是發誓保衛皇都的騎士！
-303,TEXT_VOICEMAN_03003_L00180_ESTINIEN,艾默里克，龍就要交給龍騎士來處理。<hex:02100103>你自己也有指揮皇都保衛戰的大任在身。
-304,TEXT_VOICEMAN_03003_L00190_ESTINIEN,萬一我們放跑了尼德霍格，可就只能靠你了。<hex:02100103>你說呢，艾默里克？
-305,TEXT_VOICEMAN_03003_L00200_AYMERIC,但是就這麼把重任扔給你們我於心不安啊……
-306,TEXT_VOICEMAN_03003_L00210_ESTINIEN,我和光之戰士誰也沒有能力指揮保衛戰，<hex:02100103>而帶領人民保家衛國正是你的職責。
-307,TEXT_VOICEMAN_03003_L00220_ESTINIEN,這次你可也得留在這裡。<hex:02100103>雖然你還會耍一點魔法，<hex:02100103>不過這次只會拖我們的後腿。
-308,TEXT_VOICEMAN_03003_L00230_ALPHINAUD,你說話還真是不留情面啊。<hex:02100103>不過你說得對，這次只能交給你們了。
-309,TEXT_VOICEMAN_03003_L00240_ESTINIEN,那我們出發吧。<hex:02100103>歷史上第二次屠龍之盛舉，<hex:02100103>我們一定能夠做到！
-310,TEXT_VOICEMAN_03003_M00010_ESTINIEN,我們到了！
-311,TEXT_VOICEMAN_03003_M00020_ESTINIEN,這就是龍巢！<hex:02100103>尼德霍格，快快現身吧！
-312,TEXT_VOICEMAN_03003_M00030_ESTINIEN,來了！
-313,TEXT_VOICEMAN_03003_M00040_ESTINIEN,可惡的邪龍！<hex:02100103>嘗嘗你自己龍眼的力量！
-314,TEXT_VOICEMAN_03003_M00050_NIDHOGG,可惡！<hex:02100103>膽敢利用我的眼睛 你這骯髒的人類！
-315,TEXT_VOICEMAN_03003_N00010_NIDHOGG,居然用我的眼睛來對付我，<hex:02100103>人類還真是卑鄙無恥的種族！
-316,TEXT_VOICEMAN_03003_N00020_NIDHOGG,我記得你，骯髒的龍騎士！<hex:02100103>你曾一度被我的力量所迷惑……<hex:02100103>但是你終究還是無法逃避毀滅的命運！
-317,TEXT_VOICEMAN_03003_N00030_ESTINIEN,命運？那就讓我殺出一條路！！
-318,TEXT_VOICEMAN_03003_N00040_ESTINIEN,這就是人類飽嘗千年的絕望的味道。<hex:02100103>你將在死亡深淵裡永世不得翻身！
-319,TEXT_VOICEMAN_03003_O00010_SYLVETREL,哈爾德拉斯大人！我們終於得手了！
-320,TEXT_VOICEMAN_03003_O00020_HALDRATH,父王的仇算是報了，我們終於打倒了尼德霍格。<hex:02100103>只要失去了作為魔力源泉的龍眼，<hex:02100103>即使是七大天龍也只能就此化作一堆枯骨了吧。
-321,TEXT_VOICEMAN_03003_O00030_HALDRATH,但是我們也付出了巨大的代價。<hex:02100103>父王托爾丹，還有我的騎士摯友們……
-322,TEXT_VOICEMAN_03003_O00040_HALDRATH,我們不惜背叛盟約、殺死拉塔托斯克，<hex:02100103>奪取了龍眼並吞下得到了力量。<hex:02100103>即使如此，我們還是付出了這麼大的犧牲。
-323,TEXT_VOICEMAN_03003_O00050_SYLVETREL,但是龍堡剩下的七大天龍<hex:02100103>就只有一直保持沉默的赫拉斯瓦爾格了。
-324,TEXT_VOICEMAN_03003_O00060_SYLVETREL,少主您又新得到了兩顆龍眼，<hex:02100103>只要您繼任王位，必然是一呼百應。<hex:02100103>伊修加德也將國泰民安！
-325,TEXT_VOICEMAN_03003_O00070_HALDRATH,……不，我不打算繼承王位了。<hex:02100103>即使打倒了尼德霍格，<hex:02100103>但其眷屬龍族的數量依然不可忽視。
-326,TEXT_VOICEMAN_03003_O00080_HALDRATH,而且我還是吞食龍眼的罪人。<hex:02100103>那麼就讓我作為屠龍的龍騎士戰鬥到死。
-327,TEXT_VOICEMAN_03003_O00090_SYLVETREL,少主三思啊！<hex:02100103>王室、王室怎麼辦？！
-328,TEXT_VOICEMAN_03003_O00100_FLAVIEN,您既是我們的主人也是摯友！<hex:02100103>請記得民眾需要國王來指引道路！<hex:02100103>沒有國王，民眾該何去何從！
-329,TEXT_VOICEMAN_03003_O00110_HALDRATH,西爾韋特雷爾、弗拉維安，我意已決……<hex:02100103>而且有你們這樣公正清廉的貴族在，就不會有問題。
-330,TEXT_VOICEMAN_03003_O00120_HALDRATH,如果國家一定需要一個國王的話，<hex:02100103>那就從你們之中選出一位新王也無不可。
-331,TEXT_VOICEMAN_03003_O00130_HALDRATH,再見了，騎士們、我的摯友們……<hex:02100103>父王所犯下的背叛罪孽就由我來肩負，<hex:02100103>我要用這桿槍清算這一切……
-332,TEXT_VOICEMAN_03003_O00140_SYLVETREL,怎麼會這樣……<hex:02100103>我們勝利了，卻要失去我們的國王……
-333,TEXT_VOICEMAN_03003_O00150_FLAVIEN,我們必須遵守主人的吩咐。<hex:02100103>我們剩下的騎士要引領國家和民眾。
-334,TEXT_VOICEMAN_03003_O00160_BRAWNYKNIGHT,我就不跟著你們幹了。<hex:02100103>我發誓效忠的只有哈爾德拉斯大人。<hex:02100103>主君不在，我當這騎士又有什麼意思。
-335,TEXT_VOICEMAN_03003_O00170_SYLVETREL,你怎麼也說這種話……
-336,TEXT_VOICEMAN_03003_O00180_BRAWNYKNIGHT,我就此退出，去當個酒館老闆倒也不錯。<hex:02100103>戰鬥啊，背叛啊什麼的我已經厭倦了……
-337,TEXT_VOICEMAN_03003_O00190_FLAVIEN,只剩下我們4個人了啊……
-338,TEXT_VOICEMAN_03003_O00200_SYLVETREL,福爾唐、艾因哈特、狄蘭達爾還有澤梅爾……
-339,TEXT_VOICEMAN_03003_O00210_SYLVETREL,我們四個家族必須肩負起引領國家的重任。
-340,TEXT_VOICEMAN_03003_O00220_FLAVIEN,那王位怎麼辦？
-341,TEXT_VOICEMAN_03003_O00230_SYLVETREL,國王總有一天會回來的。<hex:02100103>在這段期間內，我們一定要保住伊修加德。
-342,TEXT_VOICEMAN_03003_O00240_SYLVETREL,這場不甚光彩的戰爭，就讓它成為我們之間的秘密吧。<hex:02100103>我們4人要編出新的故事和歷史，引領國家！
-343,TEXT_VOICEMAN_03003_P00010_ESTINIEN,喂，你沒事吧？！
-344,TEXT_VOICEMAN_03003_P00020_ESTINIEN,你看到了尼德霍格過去的記憶？<hex:02100103>那是千年前戰爭的結尾？
-345,TEXT_VOICEMAN_03003_P00030_ESTINIEN,據伊修加德流傳的建國神話所說，<hex:02100103>我們的祖先是由豪膽將軍托爾丹率領來到庫爾札斯的。
-346,TEXT_VOICEMAN_03003_P00040_ESTINIEN,他們在一處山谷受到了尼德霍格的襲擊，<hex:02100103>於是便在托爾丹的領導下和敵人展開了殊死搏鬥。
-347,TEXT_VOICEMAN_03003_P00050_ESTINIEN,托爾丹在這次戰鬥中犧牲，<hex:02100103>但是其兒子征龍將軍哈爾德拉斯打敗了尼德霍格。<hex:02100103>哈爾德拉斯也是歷史上第一位蒼天之龍騎士。
-348,TEXT_VOICEMAN_03003_P00060_ESTINIEN,傳說哈爾德拉斯擊退尼德霍格時奪走了其一隻眼睛。
-349,TEXT_VOICEMAN_03003_P00070_ESTINIEN,伊修加德的至寶、歷代蒼天之龍騎士力量的源泉，<hex:02100103>就是這隻龍眼了。
-350,TEXT_VOICEMAN_03003_P00080_ESTINIEN,但是按照你看到的過去，<hex:02100103>哈爾德拉斯其實把尼德霍格的雙眼都奪走了。
-351,TEXT_VOICEMAN_03003_P00090_ESTINIEN,如果這是真的，<hex:02100103>那麼我剛剛從尼德霍格那裡挖來的這隻龍眼又是怎麼回事？
-352,TEXT_VOICEMAN_03003_P00100_ESTINIEN,看來，這件事情還有些我們所不知道的隱情。
-353,TEXT_VOICEMAN_03003_Q00010_ESTINIEN,這次激戰可真是多虧了你，<hex:02100103>不愧是光之戰士。<hex:02100103>能和你並肩作戰，我以此為榮。
-354,TEXT_VOICEMAN_03003_Q00020_ESTINIEN,我們終於打敗了尼德霍格，<hex:02100103>雖然很想立即回到皇都……
-355,TEXT_VOICEMAN_03003_Q00030_ESTINIEN,不過還是先去一趟赫拉斯瓦爾格那裡吧。<hex:02100103>過去的一些秘密，現在只能向它詢問了。
-356,TEXT_VOICEMAN_03003_R00010_HRAESVELGR,愚不可及。<hex:02100103>人類終究還是選擇了以暴制暴的道路啊。
-357,TEXT_VOICEMAN_03003_R00020_HRAESVELGR,我已經感受到尼德霍格的力量消散了。
-358,TEXT_VOICEMAN_03003_R00030_ESTINIEN,你是通過交給尼德霍格的龍眼感受到的吧？
-359,TEXT_VOICEMAN_03003_R00040_HRAESVELGR,你猜到了啊……<hex:02100103>沒錯，那隻龍眼的確是在很久以前我交給尼德霍格的。
-360,TEXT_VOICEMAN_03003_S00010_HRAESVELGR,這到底是發生了什麼事情？<hex:02100103>我的兄弟、尼德霍格。
-361,TEXT_VOICEMAN_03003_S00020_NIDHOGG,我被卑鄙的人類算計了。<hex:02100103>他們吞食了拉塔托斯克的眼睛，獲得了力量……
-362,TEXT_VOICEMAN_03003_S00030_HRAESVELGR,竟然有這種事情……<hex:02100103>人類怎麼能犯下如此骯髒的背叛罪行！
-363,TEXT_VOICEMAN_03003_S00040_NIDHOGG,我早就警告過你了，<hex:02100103>人類是不值得信任的……
-364,TEXT_VOICEMAN_03003_S00050_NIDHOGG,如果不是你被人類女子所勾引提倡什麼「融合」，<hex:02100103>拉塔托斯克就不會被殺，<hex:02100103>我也不會失去雙眼……
-365,TEXT_VOICEMAN_03003_S00060_HRAESVELGR,希瓦，我的摯愛啊……<hex:02100103>人類為何如此愚蠢啊。
-366,TEXT_VOICEMAN_03003_S00070_NIDHOGG,赫拉斯瓦爾格，是你給龍堡帶來了災難。<hex:02100103>如果你還有點懺悔之心，就把眼睛交給我。
-367,TEXT_VOICEMAN_03003_S00080_HRAESVELGR,尼德霍格……
-368,TEXT_VOICEMAN_03003_S00090_NIDHOGG,我是被人類偷襲才敗下這一陣的。<hex:02100103>只要我能有哪怕一隻眼睛，<hex:02100103>就能讓那群人類世世代代不得安寧。
-369,TEXT_VOICEMAN_03003_S00100_NIDHOGG,快把眼睛交給我！
-370,TEXT_VOICEMAN_03003_S00110_NIDHOGG,復仇開始了！
-371,TEXT_VOICEMAN_03003_T00010_HRAESVELGR,看來你看到了我的過去。
-372,TEXT_VOICEMAN_03003_T00020_ICEHEART,留在尼德霍格身上的眼睛原來是您的！
-373,TEXT_VOICEMAN_03003_T00030_ESTINIEN,尼德霍格失去了雙眼，但仍然保住了性命。<hex:02100103>哈爾德拉斯那群騎士就是在這一點上功虧一簣的啊。
-374,TEXT_VOICEMAN_03003_T00040_HRAESVELGR,尼德霍格身受重傷，但仍然堅持到了我這裡。<hex:02100103>它要求我交出一隻眼睛，<hex:02100103>準備以此對人類進行無止盡的復仇……
-375,TEXT_VOICEMAN_03003_T00050_ICEHEART,將一隻眼睛交給尼德霍格，<hex:02100103>這就是您的贖罪嗎？！<hex:02100103>您明明知道這只會成為永無止境戰亂的開端！
-376,TEXT_VOICEMAN_03003_T00060_HRAESVELGR,我的摯愛所希望的調和，<hex:02100103>被她出身同族的人類同胞所背叛，<hex:02100103>終成為了一場空談。
-377,TEXT_VOICEMAN_03003_T00070_HRAESVELGR,我還因此失去了妹妹拉塔托斯克，<hex:02100103>尼德霍格也被人類逼得陷入了瘋狂。<hex:02100103>……現在，你們人類還要指責我嗎？！
-378,TEXT_VOICEMAN_03003_T00080_HRAESVELGR,人類，你們離開吧……<hex:02100103>是人類的貪得無厭給我們龍族帶來了災難。
-379,TEXT_VOICEMAN_03003_T00090_HRAESVELGR,我現在不殺你們，<hex:02100103>只是因為我的摯愛希瓦最後的願望……<hex:02100103>你們可要記住了！
-380,TEXT_VOICEMAN_03003_U00010_ESTINIEN,我終於得償所願，打倒了尼德霍格。<hex:02100103>可是現在心情一點也不痛快……
-381,TEXT_VOICEMAN_03003_U00020_ICEHEART,你們殺掉了心中只剩下憤怒和怨恨的尼德霍格，<hex:02100103>以此來結束了這場戰爭。
-382,TEXT_VOICEMAN_03003_U00030_ESTINIEN,我的故鄉被尼德霍格所毀，家人被尼德霍格所殺。<hex:02100103>我為了復仇拿起槍桿，為了洩恨戰鬥至今。<hex:02100103>……某種意義上，我和尼德霍格也是同類。
-383,TEXT_VOICEMAN_03003_U00040_ICEHEART,……我不是在指責你，不，我根本就沒資格指責。<hex:02100103>我以大義為借口犧牲了眾多無辜的人們，<hex:02100103>我也是個罪人啊……
-384,TEXT_VOICEMAN_03003_U00050_ESTINIEN,我還是有件事弄不明白。
-385,TEXT_VOICEMAN_03003_U00060_ESTINIEN,我擁有的龍眼的確是原本屬於尼德霍格的，<hex:02100103>但是尼德霍格剩下的獨眼卻是赫拉斯瓦爾格贈予的。<hex:02100103>……那麼它另外一隻眼去了哪裡？
-386,TEXT_VOICEMAN_03003_U00070_ESTINIEN,而且尼德霍格的打算是永遠進行龍詩戰爭，<hex:02100103>世世代代折磨伊修加德的人類。<hex:02100103>為什麼又突然急於攻下皇都，結束戰爭呢？
-387,TEXT_VOICEMAN_03003_U00080_ESTINIEN,是艾默里克啊……<hex:02100103>……我們這邊結束了，尼德霍格已經被解決。
-388,TEXT_VOICEMAN_03003_U00090_ESTINIEN,……什麼？皇都危急？！<hex:02100103>這到底是怎麼回事！
-389,TEXT_VOICEMAN_03003_U00100_ESTINIEN,……我明白了，我們立即回去。<hex:02100103>你要堅持住了。
-390,TEXT_VOICEMAN_03003_U00110_ESTINIEN,皇都發生了大規模騷動。<hex:02100103>好像是下層民眾中的一部分人將異端者放進了城中，<hex:02100103>騷動就是以此為契機發生的，不過具體情況還不清楚。
-391,TEXT_VOICEMAN_03003_U00120_ICEHEART,這怎麼可能？！<hex:02100103>我可沒下過這樣的指示！
-392,TEXT_VOICEMAN_03003_U00130_ESTINIEN,和龍族之間的戰爭好不容易要結束了，<hex:02100103>這回居然人類間發生內亂。<hex:02100103>人類還真是一個無可救藥的生物……
-393,TEXT_VOICEMAN_03003_U00140_ESTINIEN,……我們回去吧。
-394,TEXT_VOICEMAN_03003_U00150_ICEHEART,等一下！<hex:02100103>帶上我一起去吧！
-395,TEXT_VOICEMAN_03003_U00160_ICEHEART,我已經不能忍受這種沒有意義的殘殺了……<hex:02100103>我要阻止侵入到皇都的同伴們！
-396,TEXT_VOICEMAN_03003_U00170_ESTINIEN,那你就跟過來吧。<hex:02100103>這次我們一定要徹底解決這無盡的爭鬥。
-397,TEXT_VOICEMAN_03003_V00010_ZEPHIRIN,下層的一部分平民將異端者帶到了皇都裡。
-398,TEXT_VOICEMAN_03003_V00020_ZEPHIRIN,不過請您不用擔心，我們為了迎擊<hex:02100103>隨時可能進攻的龍族已經準備好了大量的兵力，<hex:02100103>平息這場動亂只是時間的問題而已。
-399,TEXT_VOICEMAN_03003_V00030_THORDAN,看來事情正按計劃進行。
-400,TEXT_VOICEMAN_03003_V00040_ZEPHIRIN,是的。<hex:02100103>民眾見到皇都裡的戰鬥，<hex:02100103>必然會進一步畏懼異端者和龍族。
-401,TEXT_VOICEMAN_03003_V00050_THORDAN,同時他們就會更依賴於我們正教的救贖。
-402,TEXT_VOICEMAN_03003_V00060_THORDAN,好吧……<hex:02100103>那就讓異端者適當撒野一段時間，<hex:02100103>之後再看準時機派遣神殿騎士團鎮壓。
-403,TEXT_VOICEMAN_03003_V00070_ZEPHIRIN,遵命……
-404,TEXT_VOICEMAN_03003_V00080_LAHABREA,……你要開始了嗎？
-405,TEXT_VOICEMAN_03003_V00090_LAHABREA,好吧……<hex:02100103>所有條件都快準備好了。
-406,TEXT_VOICEMAN_03003_V00100_LAHABREA,……是時候收拾光之使徒了。
+0,"TEXT_VOICEMAN_03003_000010_ALPHINAUD","Ishgard cannot well endure another assault. Even should her knights succeed in turning back the Horde, the casualties will be catastrophic."
+1,"TEXT_VOICEMAN_03003_000020_TATARU","But what other choice do we have? It's not like we can talk it over with them. Dragons and men aren't exactly on speaking terms."
+2,"TEXT_VOICEMAN_03003_000030_ALPHINAUD","...With certain notable exceptions."
+3,"TEXT_VOICEMAN_03003_000040_TATARU","You don't mean...Iceheart!?"
+4,"TEXT_VOICEMAN_03003_000050_ALPHINAUD","When last you spoke with her, she lamented her crimes, did she not?"
+5,"TEXT_VOICEMAN_03003_000060_ALPHINAUD","Then there remains a sliver of hope. If we can persuade Iceheart to act as our intermediary, we may yet be able to convince Nidhogg to abandon his bloody course."
+6,"TEXT_VOICEMAN_03003_000070_ESTINIEN","If there is to be a meeting, I would accompany you."
+7,"TEXT_VOICEMAN_03003_000080_ALPHINAUD","...Estinien!?"
+8,"TEXT_VOICEMAN_03003_000090_ESTINIEN","Even with your intermediary, Nidhogg's bloodrage may render him deaf to reason. However, the mere attempt may afford our forces precious time to prepare. "
+9,"TEXT_VOICEMAN_03003_000100_ESTINIEN","Of course...you might also consider a more direct approach to ending this conflict. With the power of the Eye at my disposal, and the vaunted strength of the Warrior of Light, we could conceivably slay the beast outright..."
+10,"TEXT_VOICEMAN_03003_000110_ALPHINAUD","If we are to risk a face-to-face meeting with the dread wyrm, I for one would feel safer in the company of the Azure Dragoon. However, I should only turn to your lance if my words failed to find their mark. Is that clear?"
+11,"TEXT_VOICEMAN_03003_000120_ESTINIEN","Perfectly. I shall assume that Iceheart enjoys similar diplomatic protection until instructed otherwise."
+12,"TEXT_VOICEMAN_03003_000130_ESTINIEN","A word of advice: think carefully before divulging the particulars of this plan to Ser Aymeric. 'Twould not do to have the lord commander accused of consorting with heretics."
+13,"TEXT_VOICEMAN_03003_000140_ALPHINAUD","Indeed. I thank you for your counsel, Estinien. We shall be honored to have you with us."
+14,"TEXT_VOICEMAN_03003_000150_ESTINIEN","I am glad to be of service."
+15,"TEXT_VOICEMAN_03003_100010_AYMERIC","I want the defenses of the outer ward rechecked. See to it that the ballistas are in good repair and supplied with enough ammunition for a prolonged siege."
+16,"TEXT_VOICEMAN_03003_100020_YOUNGTEMPLEKNIGHT","At once, my lord!"
+17,"TEXT_VOICEMAN_03003_100030_AYMERIC","Ah, 'twould seem I have visitors─and unlike those massing beyond our walls, these ones are welcome."
+18,"TEXT_VOICEMAN_03003_100040_ALPHINAUD","Pray forgive us for interrupting you in the midst of your preparations, Ser Aymeric, but our suit concerns the impending assault. To speak plain, we believe there is a chance the invasion might be halted before it even begins."
+19,"TEXT_VOICEMAN_03003_100050_ALPHINAUD","I can divulge little more at this time, but I must nevertheless request that you advise the Holy See to refrain from launching any preemptive sorties whilst we seek to put our plans in motion."
+20,"TEXT_VOICEMAN_03003_100060_AYMERIC","I will gladly lend my support to any endeavor that could spare the blood of my countrymen─but I would know more of the cause you would have me champion. Will you not share aught of this mysterious undertaking?"
+21,"TEXT_VOICEMAN_03003_100070_ESTINIEN","Know that I have offered my lance to aid in this endeavor. I cannot claim that its success is assured, but our actions should serve to delay Nidhogg's advance at the very least."
+22,"TEXT_VOICEMAN_03003_100080_ESTINIEN","Which is more than can be said for the ill-conceived counterattack advocated by the See's more vocal crusaders. They offer glorious death, but little hope of victory."
+23,"TEXT_VOICEMAN_03003_100090_AYMERIC","Aye...their proposal does not inspire confidence. Our resources should rightly be spent shoring up the city's defenses."
+24,"TEXT_VOICEMAN_03003_100100_AYMERIC","Hmmm. The Azure Dragoon and the Warrior of Light, sallying forth together to face the dread wyrm, Nidhogg..."
+25,"TEXT_VOICEMAN_03003_100110_AYMERIC","I must admit, the mere thought of it does much to dispel my misgivings. Go, then─carry out your plan. I shall do what I can for you within the Holy See."
+26,"TEXT_VOICEMAN_03003_200010_THORDAN","Such commotion..."
+27,"TEXT_VOICEMAN_03003_200020_ZEPHIRIN","Yes, Your Eminence. The bells of the Observatorium warn of our enemy's approach..."
+28,"TEXT_VOICEMAN_03003_200030_THORDAN","So...the dragons are coming."
+29,"TEXT_VOICEMAN_03003_200040_THORDAN","Let them come─in their hundreds and their thousands. With the divine blade in our hands, we shall rend their flesh and drown the heretics in their masters' blood. Even Nidhogg and his foul brood shall be powerless to resist us."
+30,"TEXT_VOICEMAN_03003_200050_THORDAN","And when we have rid the world of their pestilence, we shall turn our attention to our Ascian allies─see that they are suitably rewarded for their invaluable assistance."
+31,"TEXT_VOICEMAN_03003_200060_ZEPHIRIN","If I may, Your Eminence. The Paragons wield powers strange and unknowable. Can we be certain that they will not see through our deception?"
+32,"TEXT_VOICEMAN_03003_200070_THORDAN","We can be certain of naught save the righteousness of our cause. If you would be a true leader of men, you must possess conviction as well as caution."
+33,"TEXT_VOICEMAN_03003_200080_THORDAN","We seek to excise the root of an evil that has blighted us for a thousand years. The risk is worth the reward."
+34,"TEXT_VOICEMAN_03003_200090_ZEPHIRIN","And what of Estinien and this Warrior of Light? They have plans of their own..."
+35,"TEXT_VOICEMAN_03003_200100_THORDAN","Leave them to their purpose. We must each play the role we have been given...you and your chosen brothers most of all."
+36,"TEXT_VOICEMAN_03003_200110_ZEPHIRIN","For the glory of King Thordan..."
+37,"TEXT_VOICEMAN_03003_300010_ICEHEART","(-Iceheart-)Ah, I should have known it would be you..."
+38,"TEXT_VOICEMAN_03003_300020_ICEHEART","(-Iceheart-)Word reached me of a struggle with a small but well-armed band of trespassers. Forgive my comrades their hostility─few come here uninvited, and fewer still with good intent."
+39,"TEXT_VOICEMAN_03003_300030_ICEHEART","(-Iceheart-)Now, tell me why you are here."
+40,"TEXT_VOICEMAN_03003_Q1_000_1","What will you say to Lady Iceheart?"
+41,"TEXT_VOICEMAN_03003_A1_000_1","We wish to stop Nidhogg's attack on Ishgard."
+42,"TEXT_VOICEMAN_03003_A1_000_2","We wished to speak with you."
+43,"TEXT_VOICEMAN_03003_A1_000_3","It's a long story..."
+44,"TEXT_VOICEMAN_03003_300040_ICEHEART","(-Iceheart-)So, you seek to stem the Dravanian tide with talk? A romantic notion."
+45,"TEXT_VOICEMAN_03003_300050_ICEHEART","(-Iceheart-)If you but knew the truth─the spark which lit the flames of this animosity─you would understand the futility of your quest."
+46,"TEXT_VOICEMAN_03003_300060_ICEHEART","(-Iceheart-)Shall I relate it to you? The sordid history my gift has shown me? That which the Holy See has taken such pains to suppress?"
+47,"TEXT_VOICEMAN_03003_400010_ICEHEART","(-Iceheart-)'Twas more than a millennium past when an Elezen tribe first sought to claim the lands of Coerthas as its home."
+48,"TEXT_VOICEMAN_03003_400020_ICEHEART","(-Iceheart-)Unfortunately for them, Coerthas was already home to dragonkind, and they were not inclined to make way for the invaders. Thus did a bloody war begin─a war which might well have rumbled on until one or the other side was exterminated, had it not been for the resolve of a single woman. That woman's name was “Shiva.”"
+49,"TEXT_VOICEMAN_03003_400030_ICEHEART","(-Iceheart-)While those around her fought and died, she attempted to parley with the dragons, and in so doing discovered them to be possessed of profound intelligence and reason. The great wyrm Hraesvelgr in particular so enchanted Shiva that she found herself growing to love the creature, whom her people considered a monster."
+50,"TEXT_VOICEMAN_03003_400040_ICEHEART","(-Iceheart-)In the eyes of a near-immortal dragon, however, the fleeting life of an Elezen is as that of a freshly cut rose─scarce has the flower bloomed before it begins to fade and wither."
+51,"TEXT_VOICEMAN_03003_400050_ICEHEART","(-Iceheart-)Such melancholy musings plagued Hraesvelgr, who had found in Shiva an unexpected and beloved soulmate. He knew that all too soon, death would snatch her away from him."
+52,"TEXT_VOICEMAN_03003_400060_ICEHEART","(-Iceheart-)Unable to bear the thought of their separation, the maid bid the wyrm consume her, that their spirits might be entwined for eternity."
+53,"TEXT_VOICEMAN_03003_400070_ICEHEART","(-Iceheart-)...Though loath to perform the deed, Hraesvelgr ultimately gave in to her plea, and soon thereafter, the tale of their ill-fated love spread throughout the two warring factions. No more could they raise blade or claw against one another, knowing that the souls of their kin were so inextricably bound."
+54,"TEXT_VOICEMAN_03003_400080_ICEHEART","(-Iceheart-)In the days that followed, man and dragon learned to live in harmony, and together built a nation unlike any the world had ever known. For two hundred years did this blissful age of peace continue, as it would to this day, had vilest envy not stirred in the hearts of the Elezen."
+55,"TEXT_VOICEMAN_03003_400090_ICEHEART","(-Iceheart-)It is said that wyrms owe their longevity to the boundless reserves of vitality found within their eyes─and 'twas in this belief that a traitorous band of knights deceived their allies of some two centuries, and took by force that which they coveted..."
+56,"TEXT_VOICEMAN_03003_500010_ICEHEART","(-Iceheart-)Nidhogg─he who now stands poised to unleash his wyrmlings upon Ishgard─was the great dragon who lost an eye to Elezen treachery."
+57,"TEXT_VOICEMAN_03003_500020_ICEHEART","(-Iceheart-)And until he prises it from the hands of the traitors' progeny, no amount of conciliatory words will stay his fury."
+58,"TEXT_VOICEMAN_03003_500030_ESTINIEN","You are wrong, Lady Iceheart."
+59,"TEXT_VOICEMAN_03003_500040_ESTINIEN","Lest you misunderstand, I do not doubt your vision of the past─'tis true that Nidhogg greatly desired to reclaim the Eye."
+60,"TEXT_VOICEMAN_03003_500050_ESTINIEN","Indeed, it was for that very reason that I kept it with me as I roamed the land, attempting to draw him away from the city."
+61,"TEXT_VOICEMAN_03003_500060_ALPHINAUD","Good gods..."
+62,"TEXT_VOICEMAN_03003_500070_ESTINIEN","Until recently, Nidhogg seemed unable to resist its allure, and pursued me relentlessly. Needless to say, that is no longer the case. Now, it would seem he has fixed his attention on Ishgard itself, though he knows full well the Eye does not reside there."
+63,"TEXT_VOICEMAN_03003_500080_ICEHEART","(-Iceheart-)You believe he targets the capital for another reason...?"
+64,"TEXT_VOICEMAN_03003_500090_ESTINIEN","I believe reason has all but left him. Through the Eye, I feel much of what Nidhogg feels, and the dragon's thirst for vengeance will not be quenched by aught less than a sea of blood."
+65,"TEXT_VOICEMAN_03003_500100_ALPHINAUD","If Nidhogg is indeed lost to reason, might we not seek an audience with Hraesvelgr instead?"
+66,"TEXT_VOICEMAN_03003_500110_ALPHINAUD","He has thus far shown no inclination to aid in the invasion of Ishgard, and may yet welcome our efforts to broker a peace."
+67,"TEXT_VOICEMAN_03003_500120_ICEHEART","(-Iceheart-)You <hex:021A020203>still<hex:021A020103> believe that a peaceable solution can be found? Very well. I will take you to him."
+68,"TEXT_VOICEMAN_03003_500130_ICEHEART","(-Iceheart-)Our road will lead us to Dravania, the homeland of dragonkind. There we shall ascend unto the clouds, where Hraesvelgr resides..."
+69,"TEXT_VOICEMAN_03003_600010_ALPHINAUD","Is aught amiss, my friend?"
+70,"TEXT_VOICEMAN_03003_600020_ALPHINAUD","I sense the many battles are beginning to take their toll. Rest awhile. And should you lose sight of us─Dravania lies beyond the mountains to the west."
+71,"TEXT_VOICEMAN_03003_600030_MIDGARDSORMR","Curious... The vestiges of thy mistress's blessing are not as faint as once they were..."
+72,"TEXT_VOICEMAN_03003_600040_MIDGARDSORMR","Thy will to succeed grants thee unusual fortitude. But will it be enough...?"
+73,"TEXT_VOICEMAN_03003_700010_EDMONT","Beyond Abalathia's Spine─the great mountain range<hex:02100103>that spans the continent of Aldenard from east to west..."
+74,"TEXT_VOICEMAN_03003_700020_EDMONT","Into the deepening shadows of Sohm Al,<hex:02100103>where lies the ancient home of dragonkind..."
+75,"TEXT_VOICEMAN_03003_700030_EDMONT","To a land where the soil slithers, and the skies seethe<hex:02100103>with sinuous shapes, they came."
+76,"TEXT_VOICEMAN_03003_800010_ICEHEART","Vidofnir!"
+77,"TEXT_VOICEMAN_03003_800020_VIDOFNIR","Ah, 'tis thee, Little One. From above, I did mistake thee for a Gnath. 'Tis well I chanced to look again, or thou wouldst now be ash."
+78,"TEXT_VOICEMAN_03003_800030_ICEHEART","Dear Vidofnir...how I have missed you. Would that I had come sooner...and not out of dire necessity."
+79,"TEXT_VOICEMAN_03003_800040_VIDOFNIR","Thou art troubled. Speak, that I might know thy plight."
+80,"TEXT_VOICEMAN_03003_800050_VIDOFNIR","Thou wouldst have Father admonish his brood-brother?"
+81,"TEXT_VOICEMAN_03003_800060_ICEHEART","I would end this war without further bloodshed."
+82,"TEXT_VOICEMAN_03003_800070_VIDOFNIR","How am I to believe thee, Little One...when thine own companion beareth Nidhogg's stolen eye!?"
+83,"TEXT_VOICEMAN_03003_800080_ESTINIEN","Have care, dragon...or I shall gouge out one of yours."
+84,"TEXT_VOICEMAN_03003_800090_ICEHEART","You forget yourself, ser! We are here on a mission of peace!"
+85,"TEXT_VOICEMAN_03003_800100_VIDOFNIR","My sire's will forbiddeth me from inviting discord to our home... 'Tis for this reason, and no other, that thou still drawest breath, knight."
+86,"TEXT_VOICEMAN_03003_800110_ICEHEART","Vidofnir, please─we must be allowed to convey our intentions to Hraesvelgr in person, with words of our own choosing."
+87,"TEXT_VOICEMAN_03003_800120_ICEHEART","Grant us this favor, and open the way to Sohm Al!"
+88,"TEXT_VOICEMAN_03003_800130_VIDOFNIR","Thou hast ever been welcome, Little One."
+89,"TEXT_VOICEMAN_03003_800140_VIDOFNIR","...But I cannot grant thy wish. I am bound to remain here, and protect my kin from the Gnath's god."
+90,"TEXT_VOICEMAN_03003_800150_ICEHEART","The Gnath have summoned a primal!?"
+91,"TEXT_VOICEMAN_03003_800160_ALPHINAUD","Pray excuse my forwardness, but if we were to eliminate the threat to your territory, would you consent to Lady Ysayle's request?"
+92,"TEXT_VOICEMAN_03003_800170_VIDOFNIR","Ha! Dost thou imagine thyself equal to the task─to succeed where dragons have failed?"
+93,"TEXT_VOICEMAN_03003_800180_VIDOFNIR","'Tis beyond thee, mortal. But thou art welcome to try, nonetheless. Only know that idle promises shall avail thee naught!"
+94,"TEXT_VOICEMAN_03003_800190_ICEHEART","It would seem we have no choice but to make good on Alphinaud's offer. Why must our every bid for peace breed yet more war?"
+95,"TEXT_VOICEMAN_03003_810010_ICEHEART","Now we have but to wait..."
+96,"TEXT_VOICEMAN_03003_810020_GNATHPRIEST","O Lord Ravana! Master of the Sacred Blades! Wrath of the Colony! Conqueror of the World! Hear our prayer!"
+97,"TEXT_VOICEMAN_03003_810030_GNATHPRIEST","Pray grant unto Your devoted children the gift of Your divine presence!"
+98,"TEXT_VOICEMAN_03003_810040_ICEHEART","He comes!"
+99,"TEXT_VOICEMAN_03003_810050_RAVANA","All strength to the colony. Speak and I shall listen!"
+100,"TEXT_VOICEMAN_03003_810060_GNATHPRIEST","O Glorious General! We have captured intruders, and would make unto You an offering of their life's blood..."
+101,"TEXT_VOICEMAN_03003_810070_RAVANA","These feeble fleshlings dared to invade Gnath lands?"
+102,"TEXT_VOICEMAN_03003_810080_ICEHEART","Hear me, Lord Ravana! My companion and I did not come to contest your children's territory."
+103,"TEXT_VOICEMAN_03003_810090_ICEHEART","We wished only to learn the reason you wage war against the dragons."
+104,"TEXT_VOICEMAN_03003_810100_RAVANA","Thou wouldst flirt with death merely to satisfy thy curiosity? Wherefore should the glorious conquests of the Gnath concern thee so, Elezen?"
+105,"TEXT_VOICEMAN_03003_810110_RAVANA","...Ahhh, mayhap thine own kind's struggle against the wyrms fareth poorly, and thou art desirous of a pact."
+106,"TEXT_VOICEMAN_03003_810120_ICEHEART","We crave no alliance, Lord Ravana─only peace. We would bring an end to our war with the dragons. Yet so long as they remain embroiled in this conflict with your children, our goal shall remain out of reach."
+107,"TEXT_VOICEMAN_03003_810130_ICEHEART","Never before have the Gnath risen up in such numbers, and never yet with you at their head. Why do you lead them to war?"
+108,"TEXT_VOICEMAN_03003_810140_RAVANA","Thy question hath no meaning. To live is but to fight."
+109,"TEXT_VOICEMAN_03003_810150_RAVANA","Long have my children waited, gathering their strength in the shadow of thy ceaseless conflict."
+110,"TEXT_VOICEMAN_03003_810160_RAVANA","The Gnath would see the Dravanians slain, and their territory secured─and by such fervent prayers am I now given form and purpose."
+111,"TEXT_VOICEMAN_03003_810170_ICEHEART","As I feared, your very existence is an obstacle to our goal. Since you are so fond of fighting, we challenge you, Lord of the Gnath!"
+112,"TEXT_VOICEMAN_03003_810180_ICEHEART","And should we emerge the victors, I would have you swear to withdraw your soldiers from Dravanian soil!"
+113,"TEXT_VOICEMAN_03003_810190_RAVANA","Gahahaha! Thou art bold indeed to risk thy fleshy hide so readily!"
+114,"TEXT_VOICEMAN_03003_810200_RAVANA","Very well. I, Ravana, fourfold master of the blade, do accept thy challenge!"
+115,"TEXT_VOICEMAN_03003_810210_RAVANA","But should <hex:021A020203>I<hex:021A020103> emerge the victor, I would have thee swear to serve in mine army till thy last breath is spent! Do you accept!?"
+116,"TEXT_VOICEMAN_03003_810220_ICEHEART","I do! And I believe the first bout is mine!"
+117,"TEXT_VOICEMAN_03003_810230_RAVANA","What is this!? A god clad in flesh!?"
+118,"TEXT_VOICEMAN_03003_810240_ICEHEART","Is aught amiss, my lord? Thou wilt not break thy word, I trust."
+119,"TEXT_VOICEMAN_03003_810250_RAVANA","Mine oath is unbending as steel, little goddess! Thy ruse will but add to mine enjoyment!"
+120,"TEXT_VOICEMAN_03003_810260_ICEHEART","I thought myself...stronger... Mayhap with more crystals...?"
+121,"TEXT_VOICEMAN_03003_810270_RAVANA","Be thou god or maid, thou art nothing to me! ...And what of thee, mortal? Art thou warrior or craven?"
+122,"TEXT_VOICEMAN_03003_810280_RAVANA","A warrior, then! Good! Mayhap thou wilt provide more sport than thy feeble companion!"
+123,"TEXT_VOICEMAN_03003_820010_RAVANA","Thus doth the sacred rite of combat proclaim the victor...<hex:02100103>I lay my blades at thy feet, child of man..."
+124,"TEXT_VOICEMAN_03003_820020_ICEHEART","You do not disappoint, Warrior of Light. Would that I had your skill in battle. ...I do begin to see why so many place their faith in you."
+125,"TEXT_VOICEMAN_03003_820030_ICEHEART","For all his savagery, I do not think Ravana one to break his word. Provided the dragons do not trespass upon Gnath lands, they should have little to fear of the primal's biting blades. We have done well, have we not? Come, let us return to Vidofnir and share these glad tidings."
+126,"TEXT_VOICEMAN_03003_820040_IGEYOHRM","<hex:024804F2022303>Once more you achieve the impossible, Bringer of Light... But with every mortal heart that succumbs to fear and fury, another voice is joined to the chorus beseeching divine succor.<hex:0248020103>"
+127,"TEXT_VOICEMAN_03003_820050_IGEYOHRM","<hex:024804F2022303>At their bidding, warring gods will shake the firmament, and your world will be consumed in the swelling storm of chaos...<hex:0248020103>"
+128,"TEXT_VOICEMAN_03003_900010_EDMONT","To the peak of Sohm Al, at the end of a perilous mountain path..."
+129,"TEXT_VOICEMAN_03003_900020_EDMONT","Whence could be seen a string of pearl-like islands,<hex:02100103>floating impossibly atop a sea of clouds."
+130,"TEXT_VOICEMAN_03003_900030_EDMONT","To a domain where dragons and men had once lived in harmony, whose majesty<hex:02100103>no mortal eye had glimpsed for nigh on a thousand years, they came."
+131,"TEXT_VOICEMAN_03003_A00010_HRAESVELGR","Mortals... Why do you disturb my solitude?"
+132,"TEXT_VOICEMAN_03003_A00020_ALPHINAUD","Hraesvelgr..."
+133,"TEXT_VOICEMAN_03003_A00030_HRAESVELGR","Thou speakest the name of a creature that but awaiteth the release of oblivion. Leave me..."
+134,"TEXT_VOICEMAN_03003_A00031_ALPHINAUD","By the Twelve... Mine ears hear the tongue of dragons, yet the meaning rings clear within my mind... How can that be...?"
+135,"TEXT_VOICEMAN_03003_A00040_ICEHEART","Hraesvelgr...do you not remember me? 'Twas I whom you found in Dravania─I who glimpsed the truth."
+136,"TEXT_VOICEMAN_03003_A00050_ICEHEART","The truth about your past, about Shiva─"
+137,"TEXT_VOICEMAN_03003_A00060_HRAESVELGR","Do not speak her name, mortal!"
+138,"TEXT_VOICEMAN_03003_A00070_ICEHEART","But speak it I must! I have summoned Shiva's soul from the beyond, and offered myself as her vessel! She has made her heart known to me!"
+139,"TEXT_VOICEMAN_03003_A00080_HRAESVELGR","Foolish girl. Thinkest thou my beloved's spirit hath descended from the heavens!?"
+140,"TEXT_VOICEMAN_03003_A00090_HRAESVELGR","That the secrets of her heart are thine to know!?"
+141,"TEXT_VOICEMAN_03003_A00100_ICEHEART","I have surrendered mine to her! Do you not see, my love? I am Shiva reborn!"
+142,"TEXT_VOICEMAN_03003_A00110_HRAESVELGR","Gullible fool... The Light but illuminated the past for thee, it did not grant thee omniscience."
+143,"TEXT_VOICEMAN_03003_A00120_HRAESVELGR","The spirit thou hast summoned belongeth not to Shiva─'tis but a shade conjured by thine own fancy."
+144,"TEXT_VOICEMAN_03003_A00130_HRAESVELGR","In an age long past, mine own kin were guilty of like folly. Beguiled by the dark ones' lies, they attempted to resurrect a king amongst wyrms─yet the divinity they called forth merely borrowed the semblance of my fallen brood-brother."
+145,"TEXT_VOICEMAN_03003_A00140_HRAESVELGR","Such gods are not summoned, but created. Phantoms spun from the threads of misplaced faith."
+146,"TEXT_VOICEMAN_03003_A00150_ICEHEART","Then the spirit that answered me..."
+147,"TEXT_VOICEMAN_03003_A00160_HRAESVELGR","...Was but thy dream of Shiva. Thy soul hath been corrupted by a deity of thine own making, child."
+148,"TEXT_VOICEMAN_03003_A00170_ALPHINAUD","Be that as it may, Lord Hraesvelgr, Ysayle's desire to heal the rift between man and dragon is real, and it has borne us this far."
+149,"TEXT_VOICEMAN_03003_A00180_ALPHINAUD","We would spare both our kind and yours the ravages of this senseless war! Pray join your voice to ours in a call for peace and forgiveness!"
+150,"TEXT_VOICEMAN_03003_A00190_HRAESVELGR","The tale of thy kind is one of avarice, treachery, and death─and thou wouldst speak to me of peace?"
+151,"TEXT_VOICEMAN_03003_A00200_HRAESVELGR","Hark thee, mortal, to the naked truth...then tell me thou deservest forgiveness!"
+152,"TEXT_VOICEMAN_03003_B00010_HRAESVELGR","Twelve hundred years ago, my beloved Shiva's sacrifice served to bring an end to the war 'twixt man and dragon, paving the way for an age of peace and cooperation."
+153,"TEXT_VOICEMAN_03003_B00020_HRAESVELGR","Two centuries of harmony were to follow, during which time the Elezen learned much about us, not least that the eyes of a great wyrm are the wellspring of his strength."
+154,"TEXT_VOICEMAN_03003_B00030_HRAESVELGR","'Twas out of the selfish desire to possess this strength that King Thordan then conspired to undo all that our peoples had achieved together."
+155,"TEXT_VOICEMAN_03003_B00040_HRAESVELGR","With the aid of his leal knights, that most noble of Elezen lured my brood-sister Ratatoskr into an ambush, and took from her that which he craved."
+156,"TEXT_VOICEMAN_03003_B00050_HRAESVELGR","Fain would I strike the image from my mind, yet still the scene doth linger─of my brood-sister's tattered corpse, defiled by her Elezen allies. They had torn out her eyes, and feasted upon them in the manner of wild beasts."
+157,"TEXT_VOICEMAN_03003_B00060_HRAESVELGR","Yet that was not all, for from their bloody banquet, the fiends had gained strength beyond that of mortal men... Even now, I labor to comprehend the enormity of their betrayal."
+158,"TEXT_VOICEMAN_03003_B00070_HRAESVELGR","Nidhogg was the first to learn of the atrocity, and he took to the skies, hungry for vengeance."
+159,"TEXT_VOICEMAN_03003_B00080_HRAESVELGR","But though he slew Thordan and some few of his knights, their fellow butchers knew only too well where to aim their spears, and with now-practiced savagery, they set about my brood-brother, sending him flailing from the field..."
+160,"TEXT_VOICEMAN_03003_B00090_HRAESVELGR","Such is the truth the Holy See would keep hidden. Such was the beginning of the Dragonsong War."
+161,"TEXT_VOICEMAN_03003_B00100_HRAESVELGR","'Tis a song my kind shall ne'er forget, e'en should ten thousand years pass and Ishgard crumble into dust."
+162,"TEXT_VOICEMAN_03003_C00010_ESTINIEN","Your tale bears scant resemblance to the one I was taught. How convenient that it should absolve your kind of all responsibility. But tell me, dragon: why should I believe your version of events?"
+163,"TEXT_VOICEMAN_03003_C00020_HRAESVELGR","What thou choosest to believe is immaterial. The betrayal that yet haunts mine every waking moment is no less than the truth to my kind."
+164,"TEXT_VOICEMAN_03003_C00030_HRAESVELGR","And Nidhogg meaneth for Thordan's people to suffer for this sin till the end of days."
+165,"TEXT_VOICEMAN_03003_C00040_HRAESVELGR","That which thou imaginest a war of extinction is but a punishment─a siege of the spirit. Hast thou not seen those who tire of the torment? Those who abandon their own and side with dragonkind?"
+166,"TEXT_VOICEMAN_03003_C00050_ALPHINAUD","Ishgard's so-called heretics..."
+167,"TEXT_VOICEMAN_03003_C00060_HRAESVELGR","Know that all the traitors' progeny bear a trace of Ratatoskr's essence. But a single sip of our blood is enough to awaken it..."
+168,"TEXT_VOICEMAN_03003_C00070_ICEHEART","Then...the seed lies within us...?"
+169,"TEXT_VOICEMAN_03003_C00080_HRAESVELGR","'Tis for this reason that those who abandon their loyalties are rewarded with a drink. And thus are they transformed, to join the ranks of Nidhogg's ever-growing army as newborn dragons. One by one, through death or defection, my brood-brother shall account for all of the betrayers' children..."
+170,"TEXT_VOICEMAN_03003_C00090_ALPHINAUD","Ye gods... I have borne witness to such a transformation! Looked on as a heretic assumed the shape of a dragon... I imagined it some manner of Dravanian enchantment!"
+171,"TEXT_VOICEMAN_03003_C00100_ALPHINAUD","But if any Ishgardian, regardless of allegiance, has such potential within them... Twelve forgive us. To think of all the dragons we've slain...!"
+172,"TEXT_VOICEMAN_03003_C00110_HRAESVELGR","There will always be some, of course, who choose to fight until the bitter end─like thee, dragoon..."
+173,"TEXT_VOICEMAN_03003_C00120_HRAESVELGR","But struggle as thou might, thy youthful vigor will be spent ere thou reachest two score and ten. And Nidhogg shall remain to torment thine offspring."
+174,"TEXT_VOICEMAN_03003_C00130_ESTINIEN","Oft have I wondered why Nidhogg did not simply raze Ishgard to the ground."
+175,"TEXT_VOICEMAN_03003_C00140_ESTINIEN","Now I have my answer. He has no intention of winning the Dragonsong War, for it is no war at all, but vengeance─an eternal requiem sung for his murdered sister."
+176,"TEXT_VOICEMAN_03003_C00150_HRAESVELGR","Thou hast the right of it, dragonslayer. Comprehendest thou now the futility of thy quest?"
+177,"TEXT_VOICEMAN_03003_C00160_ICEHEART","I have not come this far only to admit defeat. We can still return the Eye to Nidhogg, and beg forgiveness for our ancestors' crimes. Mayhap our words will sway him!"
+178,"TEXT_VOICEMAN_03003_C00170_HRAESVELGR","Stubborn child... Thou thinkest in mortal terms. Our perception of time is too broad for thee to grasp."
+179,"TEXT_VOICEMAN_03003_C00180_HRAESVELGR","'Tis a simple matter for thee to offer thine apologies─thou didst not perpetrate the crime. Despite thy visions, the deeds of history seem distant to thee."
+180,"TEXT_VOICEMAN_03003_C00190_HRAESVELGR","For a wyrm such as Nidhogg, however, that history is yet part of his present, as fresh as the blood that did gush from Ratatoskr's wounds. How could he not be driven mad?"
+181,"TEXT_VOICEMAN_03003_C00200_HRAESVELGR","'Tis only by the calming embrace of Shiva's soul that mine own fury hath not consumed me."
+182,"TEXT_VOICEMAN_03003_C00210_HRAESVELGR","But let us speak no more of what is done. My faith in your kind is spent, and I would be alone."
+183,"TEXT_VOICEMAN_03003_D00010_ESTINIEN","Well, what do you propose we do now? I, for one, am intent on continuing to the east..."
+184,"TEXT_VOICEMAN_03003_D00020_ALPHINAUD","What is there to be found in the east?"
+185,"TEXT_VOICEMAN_03003_D00030_ESTINIEN","Nidhogg's lair─the Aery─is said to lie in that direction. And the Eye tells me he is near..."
+186,"TEXT_VOICEMAN_03003_D00040_ICEHEART","You cannot still mean to slay him!?"
+187,"TEXT_VOICEMAN_03003_D00050_ESTINIEN","You cannot still mean to stop me. I have been true to my word, and aided you in this fool's errand with Hraesvelgr."
+188,"TEXT_VOICEMAN_03003_D00060_ESTINIEN","But your efforts at parley have come to naught, Lady Iceheart. I would see Ishgard saved, and for that, Nidhogg must die."
+189,"TEXT_VOICEMAN_03003_D00070_ICEHEART","With the tale of our ancestors' vile betrayal yet ringing in your ears, you speak of continuing this war?"
+190,"TEXT_VOICEMAN_03003_D00080_ESTINIEN","Nay, lady, I would but pierce its vengeful heart. When Nidhogg dies, this war shall die with him."
+191,"TEXT_VOICEMAN_03003_D00090_ALPHINAUD","A moment, Estinien. You yourself spoke of the great wyrm's strength─that you believed him powerful enough to raze your city to the ground. How then are we few to challenge him?"
+192,"TEXT_VOICEMAN_03003_D00100_ALPHINAUD","Even behind the stout walls of Ishgard─with an army of knights manning the defenses─our victory would be hard-won. Yet you propose to contend with the beast in his own lair?"
+193,"TEXT_VOICEMAN_03003_D00110_ESTINIEN","In close combat, this will afford us an advantage. And if the tales are true, the Warrior of Light has bested many an invincible foe."
+194,"TEXT_VOICEMAN_03003_D00120_ESTINIEN","In close combat, this will afford us an advantage. And with two Azure Dragoons working in unison, who can say what might be possible?"
+195,"TEXT_VOICEMAN_03003_D00130_ESTINIEN","But such speculation is meaningless if we cannot even find the wyrm. Our first task must be to seek out Nidhogg's lair."
+196,"TEXT_VOICEMAN_03003_D00140_ALPHINAUD","The story of this nation grows bloodier by the moment. Must death always be answered with more of the same?"
+197,"TEXT_VOICEMAN_03003_D00150_ESTINIEN","Such is the way of things, I fear. I shall consider it a miracle if mine armor is not stained crimson ere this conflict is ended."
+198,"TEXT_VOICEMAN_03003_D00160_ICEHEART","That I should be blinded by my own lies... Everything I believed... Everything I thought I was... Gone... All gone..."
+199,"TEXT_VOICEMAN_03003_D00170_ESTINIEN","Leave her. Your words will not reach her now. And we have not the time to wait for her to gather up the pieces of her shattered faith."
+200,"TEXT_VOICEMAN_03003_E00010_ALPHINAUD","Is that it?"
+201,"TEXT_VOICEMAN_03003_E00020_ESTINIEN","Aye... That would be the Aery. I feel Nidhogg's presence through the Eye─his caustic hatred gnawing at my soul."
+202,"TEXT_VOICEMAN_03003_E00030_ESTINIEN","'Twould seem the death of his consort has put him on guard. Mark how he wards his lair with tempestuous winds."
+203,"TEXT_VOICEMAN_03003_E00040_ALPHINAUD","A similar barrier once barred our entrance to the primal Garuda's domain...until we discovered the means by which it could be penetrated."
+204,"TEXT_VOICEMAN_03003_E00050_ALPHINAUD","Mayhap it is time we called upon Master Garlond. 'Twill be just like the good old days, no?"
+205,"TEXT_VOICEMAN_03003_F00010_WEDGE","Feast your eyes upon our latest and greatest feat of engineering! We call it a “manacutter”!"
+206,"TEXT_VOICEMAN_03003_F00020_BIGGS","After you put down Gaius, Wedge and me struck out on our own for a bit, and started work on the successor to the <hex:021A020203>Tiny Bronco<hex:021A020103>."
+207,"TEXT_VOICEMAN_03003_F00030_CID","Impressive little thing, isn't she? My talent for ship design has plainly rubbed off on them."
+208,"TEXT_VOICEMAN_03003_F00040_CID","They've adapted the principles of corrupted crystal technology, and constructed a mechanism which converts aether from its surroundings into elemental wind. Said wind is then harnessed by the specially engineered sails, providing the craft with propulsion and lift. All in all, a most elegant solution..."
+209,"TEXT_VOICEMAN_03003_F00050_CID","...I'm actually a little upset that I didn't think of it myself."
+210,"TEXT_VOICEMAN_03003_F00060_WEDGE","The design does, however, come with one small flaw..."
+211,"TEXT_VOICEMAN_03003_F00070_BIGGS","The energy conversion ratio's bloody awful. To generate enough power to get you off the ground, you need to be in an area awash with predominantly wind-aspected aether."
+212,"TEXT_VOICEMAN_03003_F00080_WEDGE","In other words, there are a few places you can fly...and lots of places you can't."
+213,"TEXT_VOICEMAN_03003_F00090_CID","The new Ishgardian airship hasn't left the boys much time for tinkering─meaning it may be a while before this particular project takes off, if you'll forgive the pun."
+214,"TEXT_VOICEMAN_03003_F00100_TATARU","Hah...hah...hah..."
+215,"TEXT_VOICEMAN_03003_F00110_WEDGE","Tataru, what's happened!?"
+216,"TEXT_VOICEMAN_03003_F00120_TATARU","I've been looking all over for you! There's been word from Ul'dah! It's about Her Grace, the sultana!"
+217,"TEXT_VOICEMAN_03003_F00130_CID","It seems you're required elsewhere. Leave the manacutter with us. We'll see that she's airworthy and suitably equipped to slice through those winds."
+218,"TEXT_VOICEMAN_03003_F00140_CID","You, meanwhile, should concentrate on providing Raubahn and the sultana whatever help they need!"
+219,"TEXT_VOICEMAN_03003_G00010_RAUBAHN","Thank you for coming."
+220,"TEXT_VOICEMAN_03003_G00020_ALPHINAUD","No thanks are necessary, General. I trust your recuperation continues apace?"
+221,"TEXT_VOICEMAN_03003_G00030_RAUBAHN","I cannot complain. Thanks to Higiri and her ministrations, I've regained much of the strength I lost during my imprisonment."
+222,"TEXT_VOICEMAN_03003_G00040_ALPHINAUD","I gather you have made progress in the search for Her Grace."
+223,"TEXT_VOICEMAN_03003_G00050_RAUBAHN","Aye, some good fortune at last. A few days past, Dewlala informed us that a sizable shipment of alchemical supplies had been delivered to the palace."
+224,"TEXT_VOICEMAN_03003_G00060_PIPPIN","With Papashan's assistance, I set out to ascertain the source and nature of the shipment. My inquiries led me to Frondale's Phrontistery."
+225,"TEXT_VOICEMAN_03003_G00070_PIPPIN","There I learned that an order had been placed for a curious substance designed to sustain patients trapped in deathlike slumber─an invention of the former head alchemist, apparently."
+226,"TEXT_VOICEMAN_03003_G00080_ALPHINAUD","A deathlike slumber...? This cannot be a coincidence!"
+227,"TEXT_VOICEMAN_03003_G00090_RAUBAHN","It lends some weight to Dewlala's claims, aye. Her Grace is likely somewhere within the palace─abed but alive."
+228,"TEXT_VOICEMAN_03003_G00100_YUGIRI","Before making any attempt to extricate the sultana, however, it seemed prudent to learn what manner of substance was used to induce her torpor. To that end, I made inquiries as to the whereabouts of the one most like to have administered it─the lady-in-waiting, Meriel."
+229,"TEXT_VOICEMAN_03003_G00110_YUGIRI","We sent for you as soon as we learned of her location. All that remains is to apprehend the woman."
+230,"TEXT_VOICEMAN_03003_G00120_RAUBAHN","We shall find our cat's-paw in the Silver Bazaar."
+231,"TEXT_VOICEMAN_03003_G00130_RAUBAHN","But we must tread carefully. The market is not the bustling place it once was, and someone is sure to mark our coming. Should they inform the Monetarists, we'll have a fight on our hands."
+232,"TEXT_VOICEMAN_03003_G00140_RAUBAHN","We must be prepared for the worst─and being short an arm, I thought it wise to take another in its stead. What say you, Warrior of Light? Will you lend me yours?"
+233,"TEXT_VOICEMAN_03003_G00150_RAUBAHN","Then I pity the bastard that stands in our way. Come, my friends! For Nanamo...and for Ul'dah!"
+234,"TEXT_VOICEMAN_03003_H00010_ALPHINAUD","You are Meriel, the sultana's former lady-in-waiting?"
+235,"TEXT_VOICEMAN_03003_H00020_LADYINWAITING2","I know no one of that name! Pray excuse me..."
+236,"TEXT_VOICEMAN_03003_H00030_LADYINWAITING2","General Aldynn!?"
+237,"TEXT_VOICEMAN_03003_H00040_RAUBAHN","We will have the truth from you, girl..."
+238,"TEXT_VOICEMAN_03003_H00050_LOLORITO","Mayhap 'twould be better coming from me."
+239,"TEXT_VOICEMAN_03003_H00060_RAUBAHN","Lolorito... You'd best talk fast."
+240,"TEXT_VOICEMAN_03003_H00070_LOLORITO","As you know, Teledji Adeledji's Carteneau Reclamation Bill was no more than a facade─a means to get his grubby little hands on that Allagan monstrosity, Omega."
+241,"TEXT_VOICEMAN_03003_H00080_LOLORITO","When he learned of Nanamo's intention to abdicate, however, he was forced to amend his plans. Suddenly, assassination seemed the most promising way to further his ambitions."
+242,"TEXT_VOICEMAN_03003_H00090_LOLORITO","I am told Teledji had discovered a maid in whose veins ran the blood of House Thorne─a new, more pliable puppet to sit the throne. 'Twould have caused an uproar, of course, but few could have contested her claim."
+243,"TEXT_VOICEMAN_03003_H00100_LOLORITO","'Twas plain that Teledji's wild machinations had outgrown our ability to control them. So I decided to usurp his scheme, and left the fool to seal his own demise."
+244,"TEXT_VOICEMAN_03003_H00110_RAUBAHN","And what of Nanamo?"
+245,"TEXT_VOICEMAN_03003_H00120_LOLORITO","Oh, I have no desire to harm Her Grace─'twould profit me little to destabilize our government. Thus did I employ young Meriel here to administer a potent sleeping potion in place of a poison."
+246,"TEXT_VOICEMAN_03003_H00130_LOLORITO","You should know, General, that your dear friend Ilberd was fully aware of my plan."
+247,"TEXT_VOICEMAN_03003_H00140_LOLORITO","I had him lie about the assassination as a means to prime your rage against Teledji. We weren't entirely sure how you would react, but things went rather better than expected."
+248,"TEXT_VOICEMAN_03003_H00150_RAUBAHN","You conniving little worm... You had your claws in the Crystal Braves before their first recruit had sworn to serve!"
+249,"TEXT_VOICEMAN_03003_H00160_LOLORITO","But of course. When a new game begins, 'tis only prudent to have a piece on the board. Ilberd was mine."
+250,"TEXT_VOICEMAN_03003_H00170_LOLORITO","Truth be told, a significant proportion of the Braves' initial endowment was also mine. With such large sums moving about, 'twas a rather trifling matter to disguise my own contribution."
+251,"TEXT_VOICEMAN_03003_H00180_LOLORITO","Ah, Ilberd... I secured his services with a promise to support his cause once my authority had been solidified. I swear, the man thinks of naught but prising Ala Mhigo from the grasp of the Empire."
+252,"TEXT_VOICEMAN_03003_H00190_LOLORITO","Unlike you, General, the poor fellow seems quite unable to forsake the land of his forefathers. Mayhap that's why he called you a traitor to your people and a disgrace to your homeland...amongst other things. What was it he always compared you to? Oh, yes! “An overgrown lapdog, begging for scraps at the sultana's table!” Oh, how we laughed..."
+253,"TEXT_VOICEMAN_03003_H00200_LOLORITO","Alas, Ilberd's entertaining little outbursts eventually gave way to wearisome tirades, and the zealous brute became rather unruly. I had no wish to see you executed, you understand, but he would not take no for an answer. Rest assured, his employment with me has long since ended."
+254,"TEXT_VOICEMAN_03003_H00210_LOLORITO","...Which brings us neatly to the present. What say you, General? Both you and the sultana are alive; we have one corpse and one fugitive; and preparations have been made to restore your good name. Shall we cry quits and start again with a blank ledger? Hm?"
+255,"TEXT_VOICEMAN_03003_H00220_RAUBAHN","The hells we will! Do you honestly expect me to forgive and forget? After all you've done!? You're guilty of high treason!"
+256,"TEXT_VOICEMAN_03003_H00230_DEWLALA","Stay your blade, Master Aldynn! You yourself are not innocent! Or have you forgotten your <hex:021A020203>own<hex:021A020103> crime in executing Teledji Adeledji without trial!?"
+257,"TEXT_VOICEMAN_03003_H00240_DEWLALA","Though you acted out of loyalty to the sultana, such deeds are in violation of both the word and spirit of the law!"
+258,"TEXT_VOICEMAN_03003_H00250_DEWLALA","...If you would, Lord Lolorito?"
+259,"TEXT_VOICEMAN_03003_H00260_LOLORITO","This potion will wake the sultana from her slumber. Consider it a gesture of conciliation."
+260,"TEXT_VOICEMAN_03003_H00270_LOLORITO","You will find Her Grace resting comfortably within her private chambers. Should you doubt my word, I shall willingly accompany you to the palace as your hostage."
+261,"TEXT_VOICEMAN_03003_H00280_RAUBAHN","I like not your motives, Lolorito...but you saved the sultana's life, and for that you have my gratitude."
+262,"TEXT_VOICEMAN_03003_H00290_DEWLALA","Raubahn Aldynn, you are hereby reinstated as general of the Immortal Flames! The citizens of Ul'dah shall once more be united under Nanamo Ul Namo, and together we shall usher in a new age of prosperity!"
+263,"TEXT_VOICEMAN_03003_I00010_NANAMO","Ugh..."
+264,"TEXT_VOICEMAN_03003_I00020_NANAMO","I was having the longest dream..."
+265,"TEXT_VOICEMAN_03003_I00030_RAUBAHN","'Tis time to wake up, Your Grace. Another day begins in Thanalan, and the sun blazes bright upon the sands."
+266,"TEXT_VOICEMAN_03003_J00010_RAUBAHN","Her Grace is awoken. The palace physician assures me she is none the worse for her slumber."
+267,"TEXT_VOICEMAN_03003_J00020_RAUBAHN","I believe Her Grace will soon resume her plans to place the government of Ul'dah into the hands of its citizens."
+268,"TEXT_VOICEMAN_03003_J00030_RAUBAHN","Whatever path she chooses to take, I shall walk it with her. And we shall tread slowly, lest the nation be unsettled in our wake."
+269,"TEXT_VOICEMAN_03003_J00040_LOLORITO","Her Grace's compassion is a shining beacon to us all...but what our city truly thrives upon is competition."
+270,"TEXT_VOICEMAN_03003_J00050_LOLORITO","'Tis in the struggle against our rivals that opportunities are seized and fortunes made. And with the Empire on the offensive once more, now would hardly seem the time to turn our system of government upon its head."
+271,"TEXT_VOICEMAN_03003_J00060_ALPHINAUD","Are you privy to new intelligence, my lord?"
+272,"TEXT_VOICEMAN_03003_J00070_LOLORITO","I would hardly call it new. Remind me: what was the name of that enormous imperial warship which met its end in Mor Dhona? Wait, I have it! The <hex:021A020203>Agrius<hex:021A020103>. Yes, well, 'twould appear that the Garleans have been hard at work on another such vessel."
+273,"TEXT_VOICEMAN_03003_J00080_PIPPIN","How close are they to completing this ship!? Is it operational!?"
+274,"TEXT_VOICEMAN_03003_J00090_LOLORITO","Its maiden flight was a success, I hear. I should imagine Emperor Varis is eager to see how it performs in battle."
+275,"TEXT_VOICEMAN_03003_J00100_LOLORITO","<hex:02082DE905FF14>My lords and ladies<hex:FF14>My lords...and lady<hex:03>, I move that it is time to repair the damage caused by Teledji Adeledji, and prepare our great nation to repel the Empire once more."
+276,"TEXT_VOICEMAN_03003_K00010_ALPHINAUD","'Tis well that the sultana has awoken. The Syndicate yet needs to put its house in order, but 'twould seem the worst of the confusion has passed."
+277,"TEXT_VOICEMAN_03003_K00020_ALPHINAUD","Ul'dah has taken control of its future...and I must do the same."
+278,"TEXT_VOICEMAN_03003_K00030_ALPHINAUD","I have decided to disband the Crystal Braves."
+279,"TEXT_VOICEMAN_03003_K00040_ALPHINAUD","Among the recruits, there were those who supported our order's goals and convictions with all sincerity. 'Tis my hope that these loyal men and women will choose to remain our allies in the battles to come."
+280,"TEXT_VOICEMAN_03003_K00050_ALPHINAUD","As for those who sided with the traitor, Ilberd, they shall be hunted down and held to account for their crimes. It is my earnest hope that they will surrender themselves peaceably when the time comes...though I think it unlikely."
+281,"TEXT_VOICEMAN_03003_K00060_ALPHINAUD","Ah, my all-conquering Crystal Braves... The model army meant to pave the way for a single, unified Grand Company of Eorzea. That so high an ideal should be brought so low..."
+282,"TEXT_VOICEMAN_03003_K00070_ALPHINAUD","I need not tell you how deeply the betrayal stung me. Yet I see now that it was mine own naivety and pride which allowed the Braves to fall prey to corruption."
+283,"TEXT_VOICEMAN_03003_K00080_ALPHINAUD","As ever, it is to your own shining example that I turn for inspiration. Like you, I mean to stand firm in the face of hardship, and give mine all for the cause."
+284,"TEXT_VOICEMAN_03003_K00090_ALPHINAUD","Let us resume the search for our missing comrades, that we might come together to shine the light of dawn across the realm once more."
+285,"TEXT_VOICEMAN_03003_K00100_ALPHINAUD","The role of Crystal Brave commander suited me ill, and I shall play it no longer. Henceforth, I shall be no more or less than Alphinaud, proud member of the Scions."
+286,"TEXT_VOICEMAN_03003_L00010_ESTINIEN","All stands ready, Lord Commander."
+287,"TEXT_VOICEMAN_03003_L00020_AYMERIC","Ah, the moment has come, then?"
+288,"TEXT_VOICEMAN_03003_L00030_ALPHINAUD","Pray excuse my lateness. I paid a brief visit to the workshop to inquire about the manacutters. The engineers assure me that they are ready."
+289,"TEXT_VOICEMAN_03003_L00040_ESTINIEN","The Aery is now but a short flight away. Yet what a long and winding path we took to reach this point."
+290,"TEXT_VOICEMAN_03003_L00050_ESTINIEN","Were it not for Master Alphinaud's proposal, we never would have attempted to parley with the dragons."
+291,"TEXT_VOICEMAN_03003_L00060_ESTINIEN","Though our negotiations yielded little, our expedition with Lady Iceheart taught us much."
+292,"TEXT_VOICEMAN_03003_L00070_AYMERIC","You took an unimaginable risk... I could scarce believe the tale Estinien told."
+293,"TEXT_VOICEMAN_03003_L00080_ESTINIEN","Aye, 'tis true that many of our countrymen would sooner die than join hands with the heretics' mistress, but 'twas through that most unlikely of alliances that we came to speak with Hraesvelgr."
+294,"TEXT_VOICEMAN_03003_L00090_ALPHINAUD","A conversation that went rather poorly, as I recall."
+295,"TEXT_VOICEMAN_03003_L00100_ESTINIEN","In this instance, the journey was more important than the destination. Had we not slain Nidhogg's consort, Tioman, and put the great wyrm on his guard, the Dravanians would have arrived at Ishgard's walls long ago."
+296,"TEXT_VOICEMAN_03003_L00110_AYMERIC","Aye, that they would. Full grateful am I for every hour of respite your actions have afforded us. Thanks to you, our defenses are much improved. 'Tis but a pity they won't be enough."
+297,"TEXT_VOICEMAN_03003_L00120_ALPHINAUD","Thus you believe an assault upon the Aery represents the city's best chance of survival. Is that not so, Estinien?"
+298,"TEXT_VOICEMAN_03003_L00130_ESTINIEN","I am under no illusions. Nidhogg's might is legendary. But with his eye in my possession, I can stifle his strength at the source."
+299,"TEXT_VOICEMAN_03003_L00140_ESTINIEN","Victory will be hard-won, even so, and I shall be glad indeed to have the Warrior of Light at my side."
+300,"TEXT_VOICEMAN_03003_L00150_AYMERIC","You shall have my blade as well. There are more of these “manacutters” to be had, yes?"
+301,"TEXT_VOICEMAN_03003_L00160_LUCIA","(-Lucia-)Lord Commander, no!"
+302,"TEXT_VOICEMAN_03003_L00170_AYMERIC","How can I, a proud knight of Ishgard, stand by and do naught while an outsider risks life and limb for our homeland? I swore an oath to protect this city!"
+303,"TEXT_VOICEMAN_03003_L00180_ESTINIEN","Pray leave the slaying of dragons to dragoons, ser knight. Your duty to command the city's defense is no less vital."
+304,"TEXT_VOICEMAN_03003_L00190_ESTINIEN","Should we fail, and Nidhogg slip through our grasp, who, then, will hold the walls against him? Will you leave Ishgard in the hands of the Holy See's zealots?"
+305,"TEXT_VOICEMAN_03003_L00200_AYMERIC","There are others─"
+306,"TEXT_VOICEMAN_03003_L00210_ESTINIEN","Who but you has the authority and the standing to orchestrate a citywide defense? I do not, and neither does the Warrior of Light. That is why it is our place to fight, and yours to remain here, Lord Commander."
+307,"TEXT_VOICEMAN_03003_L00220_ESTINIEN","What, you too, Master Alphinaud? By the Fury... You have shown some promise, but this adversary is far beyond your skills."
+308,"TEXT_VOICEMAN_03003_L00230_ALPHINAUD","Your candor is appreciated, ser dragoon. I shall remain, then, and cheer you from afar."
+309,"TEXT_VOICEMAN_03003_L00240_ESTINIEN","Well, my friend, 'twould seem I have discouraged the last of the volunteers, and claimed the task as ours alone. But if any alive can best this wyrm, 'tis surely we two!"
+310,"TEXT_VOICEMAN_03003_M00010_ESTINIEN","We're through!"
+311,"TEXT_VOICEMAN_03003_M00020_ESTINIEN","So, this is the Aery! Where are you Nidhogg!? You have guests!"
+312,"TEXT_VOICEMAN_03003_M00030_ESTINIEN","There!"
+313,"TEXT_VOICEMAN_03003_M00040_ESTINIEN","Greetings, Lord of Dravania! I believe we have something that belongs to you!"
+314,"TEXT_VOICEMAN_03003_M00050_NIDHOGG","Wicked mortals! I shall melt your flesh, and turn your bones to ash!"
+315,"TEXT_VOICEMAN_03003_N00010_NIDHOGG","Thou wouldst use mine own eye against me!? Time hath done naught to dilute thy kind's depravity!"
+316,"TEXT_VOICEMAN_03003_N00020_NIDHOGG","I have not forgotten thee, dragoon! Mine essence claimed thee once...and shall do so again!"
+317,"TEXT_VOICEMAN_03003_N00030_ESTINIEN","No, wyrm! This ends here!"
+318,"TEXT_VOICEMAN_03003_N00040_ESTINIEN","You gifted my people a thousand years of suffering. Now I gift you an eternity in darkness!"
+319,"TEXT_VOICEMAN_03003_O00010_SYLVETREL","They are ours, Lord Haldrath... The eyes of Nidhogg!"
+320,"TEXT_VOICEMAN_03003_O00020_HALDRATH","Aye... The wyrm lies broken and my father is avenged. With the wellspring of his vitality thus denied him, Nidhogg shall not linger long in this world."
+321,"TEXT_VOICEMAN_03003_O00030_HALDRATH","But behold the terrible price we have paid. My sire is dead; so many brother knights slain."
+322,"TEXT_VOICEMAN_03003_O00040_HALDRATH","We traded our honor for the strength which now courses in our veins. And still we are forced to make such sacrifice."
+323,"TEXT_VOICEMAN_03003_O00050_SYLVETREL","But not in vain, my lord. Hraesvelgr is the only great wyrm left in Dravania, and he dares not leave his lair."
+324,"TEXT_VOICEMAN_03003_O00060_SYLVETREL","With Nidhogg's eyes in your possession, who now can challenge the might of Ishgard? Ascend the throne, and take your rightful place as the ruler of our people!"
+325,"TEXT_VOICEMAN_03003_O00070_HALDRATH","Nay, my friend, I must forsake the mantle of king. Though Nidhogg be defeated, his wyrmling horde yet darkens the skies with wings beyond counting."
+326,"TEXT_VOICEMAN_03003_O00080_HALDRATH","As one who partook of Ratatoskr's strength, it shall be my penance to bear a knight's arms until death grants me leave to retire. When that day comes, no prince shall perish, but a hells-bound hunter of dragons..."
+327,"TEXT_VOICEMAN_03003_O00090_SYLVETREL","But Lord Haldrath! What then shall become of the royal line!?"
+328,"TEXT_VOICEMAN_03003_O00100_FLAVIEN","Think of your people, my lord! Without a king, who will the common man turn to in his hour of need? How will he find his way without your benevolent hand to guide him?"
+329,"TEXT_VOICEMAN_03003_O00110_HALDRATH","I thank you, Ser Flavien and Ser Sylvetrel─for dispelling my remaining doubts. With men of such wisdom and compassion in service to the realm, 'tis plain that Ishgard has no need of a king."
+330,"TEXT_VOICEMAN_03003_O00120_HALDRATH","But if you must bow to the demands of tradition, you need look no further than yourselves for one worthy to wear the crown."
+331,"TEXT_VOICEMAN_03003_O00130_HALDRATH","Fare thee well, my brother knights...my loyal friends. On these shoulders shall I bear the weight of my father's sins; with this lance shall I repay the debt accrued through our misdeeds."
+332,"TEXT_VOICEMAN_03003_O00140_SYLVETREL","What cruel jest has fate played upon us...? Have we seized this desperate victory only to lose a king?"
+333,"TEXT_VOICEMAN_03003_O00150_FLAVIEN","We can but act as our lord has bid. We few who remain must divide between us the rulership of Ishgard and her people."
+334,"TEXT_VOICEMAN_03003_O00160_BRAWNYKNIGHT","Not I. My oath was to Lord Haldrath, and he alone. If he is not to be king, then I would hang up my shield, as well."
+335,"TEXT_VOICEMAN_03003_O00170_SYLVETREL","Will you abandon us, too, ser?"
+336,"TEXT_VOICEMAN_03003_O00180_BRAWNYKNIGHT","I would wash my hands of blood and betrayal and take up an honest trade. Mayhap I shall serve ale instead of sharpened steel..."
+337,"TEXT_VOICEMAN_03003_O00190_FLAVIEN","We four, then..."
+338,"TEXT_VOICEMAN_03003_O00200_SYLVETREL","Fortemps, Haillenarte, Durendaire, and Dzemael..."
+339,"TEXT_VOICEMAN_03003_O00210_SYLVETREL","But four houses to rule all of Ishgard..."
+340,"TEXT_VOICEMAN_03003_O00220_FLAVIEN","...And what of the throne?"
+341,"TEXT_VOICEMAN_03003_O00230_SYLVETREL","We keep it empty. Until the day a king rises once more, we must assume the role of stewards."
+342,"TEXT_VOICEMAN_03003_O00240_SYLVETREL","We shall shape our nation anew with a history of our own making─and let the truth of this dark day die here, upon the battlefield."
+343,"TEXT_VOICEMAN_03003_P00010_ESTINIEN","What ails you, friend!? Are you wounded?"
+344,"TEXT_VOICEMAN_03003_P00020_ESTINIEN","You have borne witness to history...to the culmination of the first battle with Nidhogg."
+345,"TEXT_VOICEMAN_03003_P00030_ESTINIEN","The legend of Ishgard's founding tells that our ancestors were led to the land of Coerthas by the valiant King Thordan."
+346,"TEXT_VOICEMAN_03003_P00040_ESTINIEN","In the midst of their journey, they came to a wide chasm, where they were set upon by a great wyrm─Nidhogg. A furious battle then ensued, with Thordan leading the van."
+347,"TEXT_VOICEMAN_03003_P00050_ESTINIEN","Though the brave king was slain defending his people, his son, Haldrath, the first Azure Dragoon, fought on undaunted..."
+348,"TEXT_VOICEMAN_03003_P00060_ESTINIEN","And with a mighty thrust of his lance, he gouged out Nidhogg's eye, forcing the wicked creature into retreat."
+349,"TEXT_VOICEMAN_03003_P00070_ESTINIEN","Thus did this eldritch orb become a sacred treasure of Ishgard, lending its power to every knight deemed worthy to bear the title of Azure Dragoon."
+350,"TEXT_VOICEMAN_03003_P00080_ESTINIEN","A rousing tale, is it not? Would that I could still believe it. But your vision, which we must accept as immutable truth, leaves no room for doubt─save on one point."
+351,"TEXT_VOICEMAN_03003_P00090_ESTINIEN","If Haldrath took both of Nidhogg's eyes, then how came this eye to be lodged in the wyrm's skull?"
+352,"TEXT_VOICEMAN_03003_P00100_ESTINIEN","Beneath every answer we unearth, another question lies buried..."
+353,"TEXT_VOICEMAN_03003_Q00010_ESTINIEN","'Twas a fierce battle, but one I knew we would win. Your fame is well deserved, Warrior of Light. Full proud am I to have fought at your side."
+354,"TEXT_VOICEMAN_03003_Q00020_ESTINIEN","I would fain return with all swiftness to Ishgard to inform the lord commander of our triumph..."
+355,"TEXT_VOICEMAN_03003_Q00030_ESTINIEN","But we must first have words with Hraesvelgr. There are parts of this tale that the wyrm has kept from us, and I would know wherefore..."
+356,"TEXT_VOICEMAN_03003_R00010_HRAESVELGR","Impenitent mortals, ever seeking to bury old wrongs under new."
+357,"TEXT_VOICEMAN_03003_R00020_HRAESVELGR","I did sense the moment of Nidhogg's demise..."
+358,"TEXT_VOICEMAN_03003_R00030_ESTINIEN","You mean the moment I prised your eye from his head?"
+359,"TEXT_VOICEMAN_03003_R00040_HRAESVELGR","'Twould seem thou hast uncovered my secret. Aye. Unto the blinded Nidhogg did I yield one half of my strength..."
+360,"TEXT_VOICEMAN_03003_S00010_HRAESVELGR","Nidhogg... What hath befallen thee?"
+361,"TEXT_VOICEMAN_03003_S00020_NIDHOGG","We are undone by covetous mortals. They did take Ratatoskr's eyes...and glut their appetites upon her essence..."
+362,"TEXT_VOICEMAN_03003_S00030_HRAESVELGR","She is slain, then? What madness hath unmade our peaceful accord!?"
+363,"TEXT_VOICEMAN_03003_S00040_NIDHOGG","Did I not warn thee, brood-brother? They have ever been untrustworthy creatures, these short-lived Elezen."
+364,"TEXT_VOICEMAN_03003_S00050_NIDHOGG","But thou wert enchanted by thy mortal maid. Thy folly hath cost Ratatoskr her life, and me mine eyes..."
+365,"TEXT_VOICEMAN_03003_S00060_HRAESVELGR","Oh, my beloved Shiva... How swiftly are thy kin made bestial by their appetites."
+366,"TEXT_VOICEMAN_03003_S00070_NIDHOGG","Hraesvelgr. 'Twas thy blindness that did invite disaster into our lands. Surrender thee an eye to me, and let that be thy penance."
+367,"TEXT_VOICEMAN_03003_S00080_HRAESVELGR","Nidhogg..."
+368,"TEXT_VOICEMAN_03003_S00090_NIDHOGG","They bested me once, but I was reckless. I shall need but a single eye to inflict enduring torment upon these traitors and every child of their line!"
+369,"TEXT_VOICEMAN_03003_S00100_NIDHOGG","Yield to me thy strength, brood-brother!"
+370,"TEXT_VOICEMAN_03003_S00110_NIDHOGG","My vengeance is begun!"
+371,"TEXT_VOICEMAN_03003_T00010_HRAESVELGR","Thou hast borne witness to a scene from my past."
+372,"TEXT_VOICEMAN_03003_T00020_ICEHEART","It was yours... Your strength that sustained Nidhogg all these years..."
+373,"TEXT_VOICEMAN_03003_T00030_ESTINIEN","Would that Haldrath had dealt the wyrm a killing blow..."
+374,"TEXT_VOICEMAN_03003_T00040_HRAESVELGR","When my brood-brother did appear before me, bloody and blinded, his life was all but spent. He demanded half my vigor, that he might exact his revenge upon the mortals who had wronged us."
+375,"TEXT_VOICEMAN_03003_T00050_ICEHEART","And so you acquiesced! You surrendered your eye to Nidhogg knowing full well the suffering he would inflict!"
+376,"TEXT_VOICEMAN_03003_T00060_HRAESVELGR","The peace my beloved so dearly desired had been shattered by her own kin."
+377,"TEXT_VOICEMAN_03003_T00070_HRAESVELGR","Their treachery claimed my brood-sister's life and my brood-brother's reason! Thinkest thou thy fits of indignation will move me to remorse!?"
+378,"TEXT_VOICEMAN_03003_T00080_HRAESVELGR","Go, mortals! Take your unruly passions and leave this place... Your presence here spelleth naught but misery."
+379,"TEXT_VOICEMAN_03003_T00090_HRAESVELGR","Were it not for Shiva's soothing embrace, I would slay you where you stand. Woe betide you should the bond we share ever weaken!"
+380,"TEXT_VOICEMAN_03003_U00010_ESTINIEN","'Twas my life's goal to slay Nidhogg, but I find there is little joy to be had in its accomplishment."
+381,"TEXT_VOICEMAN_03003_U00020_ICEHEART","But you have rid the world of a hate-filled creature, and ended a bloody war in so doing..."
+382,"TEXT_VOICEMAN_03003_U00030_ESTINIEN","I lost my family to Nidhogg's flames. And 'twas with fury in my heart that I took up the lance. Every blow I struck, I struck in the name of vengeance. We were not so different, he and I."
+383,"TEXT_VOICEMAN_03003_U00040_ICEHEART","I will not judge you for your deeds─I have not the right. Too many innocents have perished in the name of my “greater good.”"
+384,"TEXT_VOICEMAN_03003_U00050_ESTINIEN","Yet even with all that has passed, the tale is incomplete."
+385,"TEXT_VOICEMAN_03003_U00060_ESTINIEN","We are short a great wyrm's eye. Of the pair which Haldrath took from Nidhogg, only one is known to us─the one I bear. What, then, became of the other?"
+386,"TEXT_VOICEMAN_03003_U00070_ESTINIEN","Why did Nidhogg, who had taken such pains to prolong the Dragonsong War, suddenly decide to hurl his entire army against the walls of Ishgard?"
+387,"TEXT_VOICEMAN_03003_U00080_ESTINIEN","Lord Commander... Aye, the deed is done. Nidhogg is slain."
+388,"TEXT_VOICEMAN_03003_U00090_ESTINIEN","What? ...In the city!? A battle with whom!?"
+389,"TEXT_VOICEMAN_03003_U00100_ESTINIEN","At once, Lord Commander. Hold firm till our return."
+390,"TEXT_VOICEMAN_03003_U00110_ESTINIEN","Fighting has broken out in the city. Lord Aymeric was sparse with the particulars, but it seems some commoners threw open the gates to a force of heretics."
+391,"TEXT_VOICEMAN_03003_U00120_ICEHEART","I gave no order to attack!"
+392,"TEXT_VOICEMAN_03003_U00130_ESTINIEN","Are we to mark the end of the Dragonsong War by spilling the blood of our own? Mayhap Hraesvelgr was right about us..."
+393,"TEXT_VOICEMAN_03003_U00140_ESTINIEN","Let us away, Warrior of Light. The people must be saved from themselves."
+394,"TEXT_VOICEMAN_03003_U00150_ICEHEART","Wait! I would join you!"
+395,"TEXT_VOICEMAN_03003_U00160_ICEHEART","There has been enough violence. I will appeal to my people in the city and make them see reason!"
+396,"TEXT_VOICEMAN_03003_U00170_ESTINIEN","Come, then, Lady Iceheart. Let us write the final chapter in this damnable war."
+397,"TEXT_VOICEMAN_03003_V00010_ZEPHIRIN","A small army of heretics has invaded the city, Your Eminence."
+398,"TEXT_VOICEMAN_03003_V00020_ZEPHIRIN","But there is no cause for concern. A sizable contingent of our soldiers is already in place to repel the Dravanian assault, and the intruders will soon find themselves outnumbered and outmatched."
+399,"TEXT_VOICEMAN_03003_V00030_THORDAN","Our plans proceed apace, then."
+400,"TEXT_VOICEMAN_03003_V00040_ZEPHIRIN","Yes, Your Eminence. This unrest shall serve to feed the people's fear of the heretics and the dragons both."
+401,"TEXT_VOICEMAN_03003_V00050_THORDAN","And lend renewed fervor to their prayers for deliverance..."
+402,"TEXT_VOICEMAN_03003_V00060_THORDAN","Very good. Grant our guests what time they need to sow a measure of chaos, then order the Temple Knights to crush them."
+403,"TEXT_VOICEMAN_03003_V00070_ZEPHIRIN","Your will be done."
+404,"TEXT_VOICEMAN_03003_V00080_LAHABREA","The moment is at hand?"
+405,"TEXT_VOICEMAN_03003_V00090_LAHABREA","Excellent. All shall soon be in alignment."
+406,"TEXT_VOICEMAN_03003_V00100_LAHABREA","It is time for the Bringer of Light to die."

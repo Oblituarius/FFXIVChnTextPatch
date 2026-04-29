@@ -2,85 +2,85 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_AKTKLA103_04134_SEQ_00,精製堂的露露夏發現缺少零件。
-1,TEXT_AKTKLA103_04134_SEQ_01,受露露夏委託幫忙製作部件。製作6個<hex:02280DFF07>ItemMP<hex:F28B050103>，然後交給精製堂的露露夏。<hex:02100103><hex:02100103>※收藏價值達到140時才可交納，若交納時收藏價值達到290的話，可以獲得更多報酬。
-2,TEXT_AKTKLA103_04134_SEQ_02,將<hex:02280DFF07>ItemMP<hex:F28B050103>交給了露露夏。圍繞黃金恰塔號無法啟動的原因，耐心等待露露夏的調查結果。
-3,TEXT_AKTKLA103_04134_SEQ_03,
-4,TEXT_AKTKLA103_04134_SEQ_04,
-5,TEXT_AKTKLA103_04134_SEQ_05,
-6,TEXT_AKTKLA103_04134_SEQ_06,
-7,TEXT_AKTKLA103_04134_SEQ_07,
-8,TEXT_AKTKLA103_04134_SEQ_08,
-9,TEXT_AKTKLA103_04134_SEQ_09,
-10,TEXT_AKTKLA103_04134_SEQ_10,
-11,TEXT_AKTKLA103_04134_SEQ_11,
-12,TEXT_AKTKLA103_04134_SEQ_12,
-13,TEXT_AKTKLA103_04134_SEQ_13,
-14,TEXT_AKTKLA103_04134_SEQ_14,
-15,TEXT_AKTKLA103_04134_SEQ_15,
-16,TEXT_AKTKLA103_04134_SEQ_16,
-17,TEXT_AKTKLA103_04134_SEQ_17,
-18,TEXT_AKTKLA103_04134_SEQ_18,
-19,TEXT_AKTKLA103_04134_SEQ_19,
-20,TEXT_AKTKLA103_04134_SEQ_20,
-21,TEXT_AKTKLA103_04134_SEQ_21,
-22,TEXT_AKTKLA103_04134_SEQ_22,
-23,TEXT_AKTKLA103_04134_SEQ_23,
-24,TEXT_AKTKLA103_04134_TODO_00,將<hex:02280DFF07>ItemMP<hex:F28B050103>交給露露夏
-25,TEXT_AKTKLA103_04134_TODO_01,
-26,TEXT_AKTKLA103_04134_TODO_02,
-27,TEXT_AKTKLA103_04134_TODO_03,
-28,TEXT_AKTKLA103_04134_TODO_04,
-29,TEXT_AKTKLA103_04134_TODO_05,
-30,TEXT_AKTKLA103_04134_TODO_06,
-31,TEXT_AKTKLA103_04134_TODO_07,
-32,TEXT_AKTKLA103_04134_TODO_08,
-33,TEXT_AKTKLA103_04134_TODO_09,
-34,TEXT_AKTKLA103_04134_TODO_10,
-35,TEXT_AKTKLA103_04134_TODO_11,
-36,TEXT_AKTKLA103_04134_TODO_12,
-37,TEXT_AKTKLA103_04134_TODO_13,
-38,TEXT_AKTKLA103_04134_TODO_14,
-39,TEXT_AKTKLA103_04134_TODO_15,
-40,TEXT_AKTKLA103_04134_TODO_16,
-41,TEXT_AKTKLA103_04134_TODO_17,
-42,TEXT_AKTKLA103_04134_TODO_18,
-43,TEXT_AKTKLA103_04134_TODO_19,
-44,TEXT_AKTKLA103_04134_TODO_20,
-45,TEXT_AKTKLA103_04134_TODO_21,
-46,TEXT_AKTKLA103_04134_TODO_22,
-47,TEXT_AKTKLA103_04134_TODO_23,
-48,TEXT_AKTKLA103_04134_RURUSHA_000_001,哎呀哎呀，你來了呀。
-49,TEXT_AKTKLA103_04134_BORIC_000_002,啊，太好了……<hex:02100103>我還擔心你要是再也不來了該怎麼辦呢！<hex:02100103>害得我都沒法集中精力幹活了……
-50,TEXT_AKTKLA103_04134_RURUSHA_000_003,博里克，<hex:022903EB0203>可不是那種隨便會在中途放棄的人。
-51,TEXT_AKTKLA103_04134_BORIC_000_004,抱、抱歉！<hex:02100103>我沒有那個意思哦？！<hex:02100103>我只是擔心你會不會不想再幫忙了……
-52,TEXT_AKTKLA103_04134_RURUSHA_000_005,希望你不要在意。<hex:02100103>博里克從以前就是愛瞎操心……
-53,TEXT_AKTKLA103_04134_RURUSHA_000_006,我們還是來談談委託的事情吧。<hex:02100103>這回我想請你製作的是超小型的精密齒輪。
-54,TEXT_AKTKLA103_04134_RURUSHA_000_008,我調查了一下外裝零件的內側為什麼會有損傷，<hex:02100103>結果原來是受損的齒輪在作怪……<hex:02100103>也就說我希望你能夠製作出堅固的齒輪來，你看有問題嗎？
-55,TEXT_AKTKLA103_04134_Q1_000_000,如何作答？
-56,TEXT_AKTKLA103_04134_A1_000_001,沒問題！
-57,TEXT_AKTKLA103_04134_A1_000_002,又要埋頭苦幹了啊……
-58,TEXT_AKTKLA103_04134_RURUSHA_000_009,呵呵，那就麻煩你製作<hex:02280DFF07>ItemMP<hex:F28B050103>了。<hex:02100103>這回也期待你能展現出高超的技巧與專業知識。
-59,TEXT_AKTKLA103_04134_SYSTEM_100_009,
-60,TEXT_AKTKLA103_04134_BORIC_100_010,因為遺物本身就很小巧，所以內部齒輪的尺寸也是相當微小。<hex:02100103>據推測雖然它不是第三星曆亞拉戈文明的產物，<hex:02100103>不過用在這上面的技術力卻一點也不遜色於亞拉戈……
-61,TEXT_AKTKLA103_04134_RURUSHA_000_015,那就麻煩你製作<hex:02280DFF07>ItemMP<hex:F28B050103>了。<hex:02100103>這回也期待你能展現出高超的技巧與專業知識。
-62,TEXT_AKTKLA103_04134_RURUSHA_000_016,感謝幫忙製作出了齒輪。<hex:02100103>你真是一名厲害的工匠……
-63,TEXT_AKTKLA103_04134_RURUSHA_000_017,感謝幫忙製作出了齒輪。<hex:02100103>沒想到這麼微小的零件都能做得這麼精巧……<hex:02100103>由此可看出你的工作態度是多麼的細心縝密。
-64,TEXT_AKTKLA103_04134_RURUSHA_000_020,你製作的齒輪已經嚴絲合縫地嵌套在了一起。<hex:02100103>希望它這樣就能動起來……
-65,TEXT_AKTKLA103_04134_SYSTEM_000_021,黃金恰塔號機械性地動了一下！<hex:02100103>可隨即又沒了動靜。<hex:02100103>看來還有需要修復的地方。
-66,TEXT_AKTKLA103_04134_RURUSHA_000_022,哎呀哎呀，恰塔號真爭氣啊。<hex:02100103>照這樣子的話，用不了多久就應該能成功啟動了。
-67,TEXT_AKTKLA103_04134_BORIC_000_023,等一下，剛才它只是動了一下就立刻又沒反應了啊？！<hex:02100103>露露夏教授，照這樣繼續修復這件遺物真的沒問題嗎？
-68,TEXT_AKTKLA103_04134_BORIC_000_024,周圍人的目光也越來越不友善，<hex:02100103>就連露露夏教授在校內的評價也可能會受到影響啊……<hex:02100103>我已經擔心得快要瘋了！
-69,TEXT_AKTKLA103_04134_RURUSHA_000_025,你也太小題大做了，博里克。<hex:02100103>這孩子是從一位疑似是魔法師的人物的墳墓中發現的陪葬品。<hex:02100103>我認為這在當時應該是一件很重要的物品。
-70,TEXT_AKTKLA103_04134_RURUSHA_000_026,而且從同一個墳墓出土的均是咒具或魔具之類的遺物。<hex:02100103>不論哪一件都是具有魔法效果的實用類物品。<hex:02100103>所以說這個孩子也一定……
-71,TEXT_AKTKLA103_04134_BORIC_000_027,如果非要按可能性來推測的話，<hex:02100103>那這件遺物也有可能只是充滿回憶的紀念品<hex:02100103>或者供品之類的呀……
-72,TEXT_AKTKLA103_04134_BORIC_000_028,再者說，那個把恰塔號賣給教授的拾穗人，<hex:02100103>據說他也曾經倒賣過贗品！<hex:02100103>所以關於他出土情況的證言能不能信還得另說呢……
-73,TEXT_AKTKLA103_04134_RURUSHA_000_029,人總會有犯錯的時候，不要老抓著別人的過錯不放。<hex:02100103>即便這樣你還是不放心的話，<hex:02100103>那至少也要相信我的直覺吧。
-74,TEXT_AKTKLA103_04134_RURUSHA_000_030,博里克說的關於那位拾穗人的事情全都是真的。<hex:02100103>對於交易稀少物品的他們而言，辨識真偽是不可或缺的能力。<hex:02100103>不過不管是誰都會有出錯的時候。
-75,TEXT_AKTKLA103_04134_RURUSHA_000_031,而且就算這孩子萬一是個贗品，<hex:02100103>那頂多也只是我不識貨而已。<hex:02100103>不過我覺得我應該沒搞錯。
-76,TEXT_AKTKLA103_04134_RURUSHA_000_032,要是連自己都不能相信自己的判斷，<hex:02100103>那其他人更不會相信了。<hex:02100103>當然過度的自信也是不可取的。
-77,TEXT_AKTKLA103_04134_RURUSHA_000_033,這個話題先放一邊，<hex:02100103>我會調查一下這回沒能順利啟動的原因。<hex:02100103>所以等你又有了空閒時間的話就再來這裡吧。
-78,TEXT_AKTKLA103_04134_SYSTEM_000_034,考古系的貢獻等級提高了！<hex:02100103>露露夏認為你是修復遺物的客座工匠！
-79,TEXT_AKTKLA103_04134_SYSTEM_000_040,鍛鐵匠、鑄甲匠或雕金匠的等級達到85級以上時，<hex:02100103>可以從精製堂的露露夏那裡領取下一個任務。
-80,TEXT_AKTKLA103_04134_SYSTEM_000_041,
-81,TEXT_AKTKLA103_04134_SYSTEM_000_042,
+0,"TEXT_AKTKLA103_04134_SEQ_00","Rurusha has noticed components are missing from the relic."
+1,"TEXT_AKTKLA103_04134_SEQ_01","Rurusha has tasked you with crafting gold cogs.<hex:02100103><hex:02100103>※Minimum collectability rating for this delivery is 140. Delivering items with a rating of 290 or more will earn greater rewards."
+2,"TEXT_AKTKLA103_04134_SEQ_02","You deliver the gold cogs to Rurusha, but even after their installation, the Golden Dhyata remains largely unresponsive. Rurusha resolves to unravel any lingering problems, and asks that you return when you have time to attempt further repairs."
+3,"TEXT_AKTKLA103_04134_SEQ_03",""
+4,"TEXT_AKTKLA103_04134_SEQ_04",""
+5,"TEXT_AKTKLA103_04134_SEQ_05",""
+6,"TEXT_AKTKLA103_04134_SEQ_06",""
+7,"TEXT_AKTKLA103_04134_SEQ_07",""
+8,"TEXT_AKTKLA103_04134_SEQ_08",""
+9,"TEXT_AKTKLA103_04134_SEQ_09",""
+10,"TEXT_AKTKLA103_04134_SEQ_10",""
+11,"TEXT_AKTKLA103_04134_SEQ_11",""
+12,"TEXT_AKTKLA103_04134_SEQ_12",""
+13,"TEXT_AKTKLA103_04134_SEQ_13",""
+14,"TEXT_AKTKLA103_04134_SEQ_14",""
+15,"TEXT_AKTKLA103_04134_SEQ_15",""
+16,"TEXT_AKTKLA103_04134_SEQ_16",""
+17,"TEXT_AKTKLA103_04134_SEQ_17",""
+18,"TEXT_AKTKLA103_04134_SEQ_18",""
+19,"TEXT_AKTKLA103_04134_SEQ_19",""
+20,"TEXT_AKTKLA103_04134_SEQ_20",""
+21,"TEXT_AKTKLA103_04134_SEQ_21",""
+22,"TEXT_AKTKLA103_04134_SEQ_22",""
+23,"TEXT_AKTKLA103_04134_SEQ_23",""
+24,"TEXT_AKTKLA103_04134_TODO_00","Deliver the gold cogs to Rurusha."
+25,"TEXT_AKTKLA103_04134_TODO_01",""
+26,"TEXT_AKTKLA103_04134_TODO_02",""
+27,"TEXT_AKTKLA103_04134_TODO_03",""
+28,"TEXT_AKTKLA103_04134_TODO_04",""
+29,"TEXT_AKTKLA103_04134_TODO_05",""
+30,"TEXT_AKTKLA103_04134_TODO_06",""
+31,"TEXT_AKTKLA103_04134_TODO_07",""
+32,"TEXT_AKTKLA103_04134_TODO_08",""
+33,"TEXT_AKTKLA103_04134_TODO_09",""
+34,"TEXT_AKTKLA103_04134_TODO_10",""
+35,"TEXT_AKTKLA103_04134_TODO_11",""
+36,"TEXT_AKTKLA103_04134_TODO_12",""
+37,"TEXT_AKTKLA103_04134_TODO_13",""
+38,"TEXT_AKTKLA103_04134_TODO_14",""
+39,"TEXT_AKTKLA103_04134_TODO_15",""
+40,"TEXT_AKTKLA103_04134_TODO_16",""
+41,"TEXT_AKTKLA103_04134_TODO_17",""
+42,"TEXT_AKTKLA103_04134_TODO_18",""
+43,"TEXT_AKTKLA103_04134_TODO_19",""
+44,"TEXT_AKTKLA103_04134_TODO_20",""
+45,"TEXT_AKTKLA103_04134_TODO_21",""
+46,"TEXT_AKTKLA103_04134_TODO_22",""
+47,"TEXT_AKTKLA103_04134_TODO_23",""
+48,"TEXT_AKTKLA103_04134_RURUSHA_000_001","Why, hello there!"
+49,"TEXT_AKTKLA103_04134_BORIC_000_002","Oh, thank the gods you're here. I was so worried you might not return that I couldn't focus on my work..."
+50,"TEXT_AKTKLA103_04134_RURUSHA_000_003","Honestly, Boric. Show a little faith. <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> doesn't strike me as someone who'd go back on <hex:02080DE905FF04>her<hex:FF04>his<hex:03> word."
+51,"TEXT_AKTKLA103_04134_BORIC_000_004","My apologies, I didn't mean anything by it. It's just that we've been turned down by so many others..."
+52,"TEXT_AKTKLA103_04134_RURUSHA_000_005","As you've probably worked out by now, Boric has a penchant to worry far more than he has any right to. Please don't take anything he says <hex:021A020203>too<hex:021A020103> seriously."
+53,"TEXT_AKTKLA103_04134_RURUSHA_000_006","But that's enough of that for now! It's time we got back to discussing our little friend's woes. This time, I would ask you to craft minuscule cogs made of gold."
+54,"TEXT_AKTKLA103_04134_RURUSHA_000_008","While examining the insides of the relic, I discovered that it was missing some, which seems to have caused all the damage we've observed. Whatever you make will need to be tough as a coeurl. Are you up to the task?"
+55,"TEXT_AKTKLA103_04134_Q1_000_000","What will you say?"
+56,"TEXT_AKTKLA103_04134_A1_000_001","Leave it to me!"
+57,"TEXT_AKTKLA103_04134_A1_000_002","Sounds like hard work, but..."
+58,"TEXT_AKTKLA103_04134_RURUSHA_000_009","Oh, it's great to know I can always count on you, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Best of luck!"
+59,"TEXT_AKTKLA103_04134_SYSTEM_100_009",""
+60,"TEXT_AKTKLA103_04134_BORIC_100_010","Any cog that fits inside that relic is going to be absolutely tiny. It's quite impressive technology when you consider it's from the Third Astral Era and not Allagan in origin. "
+61,"TEXT_AKTKLA103_04134_RURUSHA_000_015","I have every confidence your work will be immaculate. Indeed, I very much look forward to seeing what you can do."
+62,"TEXT_AKTKLA103_04134_RURUSHA_000_016","Solid work as always. Thank you!"
+63,"TEXT_AKTKLA103_04134_RURUSHA_000_017","Solid work as always. Look at the detail, too─it's obvious you stand head and shoulders above your peers!"
+64,"TEXT_AKTKLA103_04134_RURUSHA_000_020","The cogs were a perfect fit. Now, I would be even happier if she decided to move for us..."
+65,"TEXT_AKTKLA103_04134_SYSTEM_000_021","The Golden Dhyata flinched ever so slightly! However, it soon returned to its former static state. It appears you still have work to do."
+66,"TEXT_AKTKLA103_04134_RURUSHA_000_022","Oh, well done, little one! We'll have you moving properly in no time, don't worry."
+67,"TEXT_AKTKLA103_04134_BORIC_000_023","Well done? It merely flopped on the table like a dead fish. This is hardly cause for celebration."
+68,"TEXT_AKTKLA103_04134_BORIC_000_024","I'm growing increasingly worried that this will all come to nothing, and your reputation will end up in tatters!"
+69,"TEXT_AKTKLA103_04134_RURUSHA_000_025","Oh, calm down, Boric. Lest you forget, the relic was found buried with the body of what appeared to be a mage, possibly of some repute."
+70,"TEXT_AKTKLA103_04134_RURUSHA_000_026","Their tomb also contained a range of tools used by those highly skilled in the arcane arts. I'm <hex:021A020203>positive<hex:021A020103> that this mammet possesses great power."
+71,"TEXT_AKTKLA103_04134_BORIC_000_027","Well, if we're discussing what it <hex:021A020203>could<hex:021A020103> be, I would say it could just as easily be a trinket or charm they kept on their person."
+72,"TEXT_AKTKLA103_04134_BORIC_000_028","And let us not forget the shady stories we heard about the gleaner who sold it to you in the first place! How are we meant to trust someone with a track record of peddling counterfeit wares?"
+73,"TEXT_AKTKLA103_04134_RURUSHA_000_029","Boric, how many times have I told you not to hold others' pasts against them? Everyone is capable of change, and I for one remain convinced that this relic is worthy of study."
+74,"TEXT_AKTKLA103_04134_RURUSHA_000_030","It is true that a gleaner's livelihood depends on their ability to discern what is a forgery and what is the genuine article. But no one is without error. Not even me."
+75,"TEXT_AKTKLA103_04134_RURUSHA_000_031","If our little friend here does turn out to be a fake, it simply means I've made one such error. Nothing more, nothing less. Although, I don't believe for a moment that I have done so."
+76,"TEXT_AKTKLA103_04134_RURUSHA_000_032","After all, who will believe in me if I don't believe in myself? That's not to say I think myself infallible, mind you."
+77,"TEXT_AKTKLA103_04134_RURUSHA_000_033","Putting that aside for the moment, I shall examine our friend here, and see if I can determine what problems yet remain. When next you have time to spare, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, pray seek us out, and we will set about making further repairs."
+78,"TEXT_AKTKLA103_04134_SYSTEM_000_034","Rurusha is delighted with your efforts. She now considers you a <hex:024804F201F403><hex:024904F201F503>Reasonable Relic Restorer<hex:0249020103><hex:0248020103>!"
+79,"TEXT_AKTKLA103_04134_SYSTEM_000_040","The next quest will be available from Rurusha upon reaching level 85 as a blacksmith, armorer, or goldsmith."
+80,"TEXT_AKTKLA103_04134_SYSTEM_000_041",""
+81,"TEXT_AKTKLA103_04134_SYSTEM_000_042",""

@@ -1,12 +1,12 @@
-﻿key,0
-#,Name
-offset,0
-int32,str
-0,
-1,溺沒海
-2,灰海
-3,翠浪海
-4,妖歌海
-5,紫礁海
-6,南蒼茫洋
-7,北洋
+﻿key,0,1
+#,Name,Image
+offset,0,4
+int32,str,Image
+0,"",0
+1,"Deep-sea Site",63191
+2,"Sea of Ash",63192
+3,"Sea of Jade",63193
+4,"Sirensong Sea",63194
+5,"Lilac Sea",63195
+6,"South Indigo Deep",63196
+7,"The Northern Empty",63197

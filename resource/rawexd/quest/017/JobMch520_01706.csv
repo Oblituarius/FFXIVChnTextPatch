@@ -2,111 +2,111 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_JOBMCH520_01706_SEQ_00,天鋼機工房的斯特凡尼維安有事想拜託冒險者。
-1,TEXT_JOBMCH520_01706_SEQ_01,天鋼機工房的機工士們不得不在缺少喬伊的情況下參加與澤梅爾家的共同作戰。為了進行準備工作，前往摩杜納的帝國中央堡，調查<hex:02280CFF05>EObj<hex:F61E9CFD0103>，取得3個<hex:022811FF0A>EventItem<hex:F61E8B980103>。
-2,TEXT_JOBMCH520_01706_SEQ_02,獲得了<hex:022811FF0A>EventItem<hex:F61E8B980103>。將<hex:022811FF0A>EventItem<hex:F61E8B980103>交給天鋼機工房的斯特凡尼維安。
-3,TEXT_JOBMCH520_01706_SEQ_03,將<hex:022811FF0A>EventItem<hex:F61E8B980103>交給了斯特凡尼維安。趁他進行開發作業時，前往伊修加德基礎層的雲霧街打聽關於厲害的獵人的情報。
-4,TEXT_JOBMCH520_01706_SEQ_04,打聽到了情報。和天鋼機工房的斯特凡尼維安談談。
-5,TEXT_JOBMCH520_01706_SEQ_05,和斯特凡尼維安進行了交談。為了找到喬伊，前往庫爾札斯西部高地的隼巢，在<hex:02280BFF05>EObj<hex:F51E9D0103>進行張望。
-6,TEXT_JOBMCH520_01706_SEQ_06,雖然在隼巢發現了喬伊，但她卻並不打算回到工房。和天鋼機工房的斯特凡尼維安談談。
-7,TEXT_JOBMCH520_01706_SEQ_07,和斯特凡尼維安進行了交談。為了讓與澤梅爾家的共同作戰成功，努力磨練機工士技巧。<hex:02100103><hex:02100103>※機工士的等級達到54級以上時，可以從天鋼機工房的斯特凡尼維安那裡領取下一個機工士任務。
-8,TEXT_JOBMCH520_01706_SEQ_08,
-9,TEXT_JOBMCH520_01706_SEQ_09,
-10,TEXT_JOBMCH520_01706_SEQ_10,
-11,TEXT_JOBMCH520_01706_SEQ_11,
-12,TEXT_JOBMCH520_01706_SEQ_12,
-13,TEXT_JOBMCH520_01706_SEQ_13,
-14,TEXT_JOBMCH520_01706_SEQ_14,
-15,TEXT_JOBMCH520_01706_SEQ_15,
-16,TEXT_JOBMCH520_01706_SEQ_16,
-17,TEXT_JOBMCH520_01706_SEQ_17,
-18,TEXT_JOBMCH520_01706_SEQ_18,
-19,TEXT_JOBMCH520_01706_SEQ_19,
-20,TEXT_JOBMCH520_01706_SEQ_20,
-21,TEXT_JOBMCH520_01706_SEQ_21,
-22,TEXT_JOBMCH520_01706_SEQ_22,
-23,TEXT_JOBMCH520_01706_SEQ_23,
-24,TEXT_JOBMCH520_01706_TODO_00,調查帝國中央堡的<hex:02280CFF05>EObj<hex:F61E9CFD0103><hex:02100103>獲取<hex:022811FF0A>EventItem<hex:F61E8B980103>
-25,TEXT_JOBMCH520_01706_TODO_01,將<hex:022811FF0A>EventItem<hex:F61E8B980103>交給天鋼機工房的斯特凡尼維安
-26,TEXT_JOBMCH520_01706_TODO_02,打聽厲害的獵人的情報
-27,TEXT_JOBMCH520_01706_TODO_03,和斯特凡尼維安對話
-28,TEXT_JOBMCH520_01706_TODO_04,在隼巢的<hex:02280BFF05>EObj<hex:F51E9D0103>張望
-29,TEXT_JOBMCH520_01706_TODO_05,和天鋼機工房的斯特凡尼維安對話
-30,TEXT_JOBMCH520_01706_TODO_06,
-31,TEXT_JOBMCH520_01706_TODO_07,
-32,TEXT_JOBMCH520_01706_TODO_08,
-33,TEXT_JOBMCH520_01706_TODO_09,
-34,TEXT_JOBMCH520_01706_TODO_10,
-35,TEXT_JOBMCH520_01706_TODO_11,
-36,TEXT_JOBMCH520_01706_TODO_12,
-37,TEXT_JOBMCH520_01706_TODO_13,
-38,TEXT_JOBMCH520_01706_TODO_14,
-39,TEXT_JOBMCH520_01706_TODO_15,
-40,TEXT_JOBMCH520_01706_TODO_16,
-41,TEXT_JOBMCH520_01706_TODO_17,
-42,TEXT_JOBMCH520_01706_TODO_18,
-43,TEXT_JOBMCH520_01706_TODO_19,
-44,TEXT_JOBMCH520_01706_TODO_20,
-45,TEXT_JOBMCH520_01706_TODO_21,
-46,TEXT_JOBMCH520_01706_TODO_22,
-47,TEXT_JOBMCH520_01706_TODO_23,
-48,TEXT_JOBMCH520_01706_STEPHANIVIEN_000_000,你來啦，<hex:022903EB0203>。<hex:02100103>根據消息，不僅是喬伊，連喬伊的父親也消失不見了。
-49,TEXT_JOBMCH520_01706_STEPHANIVIEN_000_001,塞萊斯特雖然在查，但還沒有查出確切的情報……<hex:02100103>在等待情報的同時，共同作戰的開始日期也在不斷迫近，<hex:02100103>得開始做一些準備工作了。
-50,TEXT_JOBMCH520_01706_STEPHANIVIEN_000_002,
-51,TEXT_JOBMCH520_01706_STEPHANIVIEN_000_003,現在澤梅爾家在對隼巢進行改建，<hex:02100103>但這一工程受到了龍族的頻繁干擾……
-52,TEXT_JOBMCH520_01706_STEPHANIVIEN_000_004,聽說近期龍族會發起進攻，而本次共同作戰的目的，<hex:02100103>應該就是從進攻的龍族手中保護正在施工的防護牆。<hex:02100103>恐怕，艾因哈特家的戰力恐怕會被分配到最前線去。
-53,TEXT_JOBMCH520_01706_STEPHANIVIEN_000_005,我們幹得好，龍族就會被擊退。<hex:02100103>我們搞砸了，教皇廳對機工士的評價就會降低。<hex:02100103>對提達爾格蘭什來說這可是個只賺不賠的生意。
-54,TEXT_JOBMCH520_01706_STEPHANIVIEN_000_006,但我們卻絕不能失敗。<hex:02100103>為了盡可能提升作戰成功率，我想要進行新兵器的開發。<hex:02100103>希望你能幫我搜集一些材料。
-55,TEXT_JOBMCH520_01706_STEPHANIVIEN_000_007,使用先進的技術最能推動開發進度。<hex:02100103>請你侵入帝國中央堡，<hex:02100103>從<hex:02280CFF05>EObj<hex:F61E9CFD0103>中找3個<hex:022811FF0A>EventItem<hex:F61E8B980103>回來。
-56,TEXT_JOBMCH520_01706_STEPHANIVIEN_000_009,使用先進的技術最能推動開發進度。<hex:02100103>請你侵入帝國中央堡，<hex:02100103>從<hex:02280CFF05>EObj<hex:F61E9CFD0103>中找3個<hex:022811FF0A>EventItem<hex:F61E8B980103>回來。
-57,TEXT_JOBMCH520_01706_STEPHANIVIEN_000_010,現在喬伊不在，我就只能依靠你了。<hex:02100103>請你侵入帝國中央堡，<hex:02100103>從<hex:02280CFF05>EObj<hex:F61E9CFD0103>中找3個<hex:022811FF0A>EventItem<hex:F61E8B980103>回來。
-58,TEXT_JOBMCH520_01706_STEPHANIVIEN_000_011,謝謝，我研究一下這些東西應該就能提高開發速度了。<hex:02100103>之後就剩下等喬伊回來了……<hex:02100103>拜託了，能請你也幫忙去找找她嗎？
-59,TEXT_JOBMCH520_01706_STEPHANIVIEN_000_012,據說塞萊斯特被伊修加德雲霧街的情報網拒之門外了。<hex:02100103>恐怕是有什麼人在背後搞鬼。
-60,TEXT_JOBMCH520_01706_STEPHANIVIEN_000_013,請你也去雲霧街打探一下關於喬伊那個厲害的獵人父親的行蹤吧。
-61,TEXT_JOBMCH520_01706_STEPHANIVIEN_000_019,希望能找到喬伊……
-62,TEXT_JOBMCH520_01706_POOR01706A_000_020,你在找那個厲害的獵人？<hex:02100103>他應該是出遠門去工作了吧。
-63,TEXT_JOBMCH520_01706_POOR01706A_000_021,那傢伙因為從前受了重傷，留下了後遺症，<hex:02100103>所以一直在靠著自己的女兒過活。<hex:02100103>這次他總算是找到了工作，高興得不得了。
-64,TEXT_JOBMCH520_01706_POOR01706A_000_029,他應該是出遠門去工作了吧。
-65,TEXT_JOBMCH520_01706_POOR01706B_000_020,你在找那個厲害的獵人？<hex:02100103>據說他女兒要嫁給隼巢那邊的人，<hex:02100103>他可能也跟著過去了吧。
-66,TEXT_JOBMCH520_01706_POOR01706B_000_029,據說他女兒要嫁給隼巢那邊的人，<hex:02100103>他可能也跟著過去了吧。
-67,TEXT_JOBMCH520_01706_POOR01706C_000_020,啊，那個一直為後遺症困擾的獵人呀。<hex:02100103>可真是羨慕他呀，突然就找到了新工作，女兒的婚事也定下來了。
-68,TEXT_JOBMCH520_01706_POOR01706C_000_021,據說他女兒是要嫁給一個名木匠的弟弟。<hex:02100103>又聽說雖然那人遊手好閒，但是家境殷實。
-69,TEXT_JOBMCH520_01706_POOR01706C_000_028,啊，那個一直為後遺症困擾的獵人呀。<hex:02100103>可真是羨慕他呀，突然就找到了新工作，女兒的婚事也定下來了。
-70,TEXT_JOBMCH520_01706_POOR01706C_000_029,據說他女兒是要嫁給一個名木匠的弟弟。<hex:02100103>又聽說雖然那人遊手好閒，但家境殷實。
-71,TEXT_JOBMCH520_01706_CELESTAUX_000_030,沒想到我竟然被雲霧街的情報網拒之門外了……<hex:02100103>看來是有人提前動了手腳讓所有人都不准向我開口。
-72,TEXT_JOBMCH520_01706_STEPHANIVIEN_000_030,你回來啦，<hex:022903EB0203>。<hex:02100103>在雲霧街打聽到什麼了嗎？
-73,TEXT_JOBMCH520_01706_STEPHANIVIEN_000_031,「厲害的獵人」找到了新工作出遠門了。<hex:02100103>女兒則是嫁給了隼巢一位名木匠的弟弟嗎……
-74,TEXT_JOBMCH520_01706_CELESTAUX_000_032,為了改建防護牆，確實有很多工人都被調動了起來。<hex:02100103>看來有必要往那邊走上一趟了……
-75,TEXT_JOBMCH520_01706_STEPHANIVIEN_000_033,決定了，隼巢確實很是可疑。<hex:02100103>我們去那邊找找喬伊和她的父親吧。
-76,TEXT_JOBMCH520_01706_STEPHANIVIEN_000_039,我們去隼巢找找喬伊和她的父親吧。
-77,TEXT_JOBMCH520_01706_CELESTAUX_000_040,
-78,TEXT_JOBMCH520_01706_STEPHANIVIEN_000_040,會不會在這附近呢……
-79,TEXT_JOBMCH520_01706_STEPHANIVIEN_000_041,如果我的測量器狀態正常的話，應該就是這附近沒錯了……
-80,TEXT_JOBMCH520_01706_JOYE_000_042,少、少爺，為什麼會在這裡？！
-81,TEXT_JOBMCH520_01706_STEPHANIVIEN_000_043,等等！<hex:02100103>喬伊你突然不見了我們真的不知道該如何是好。<hex:02100103>如果方便的話，能請你們夫妻二人一起來工房工作嗎？
-82,TEXT_JOBMCH520_01706_JOYE_000_044,少爺……我做不到。<hex:02100103>為了父親和工房裡大伙的幸福，<hex:02100103>只有喬伊放棄做機工士才是最好的選擇……
-83,TEXT_JOBMCH520_01706_STEPHANIVIEN_000_045,為了他人而放棄做機工士？<hex:02100103>喬伊你真的是這樣想的？！
-84,TEXT_JOBMCH520_01706_JOYE_000_046,喬伊想說……<hex:02100103>喬伊的心願……就是不為有恩於喬伊的人添麻煩。<hex:02100103>不管是撫養喬伊長大的父親，還是幫助了喬伊的老爺……
-85,TEXT_JOBMCH520_01706_JOYE_000_047,少爺能專程找來，喬伊非常開心，<hex:02100103>但恐怕今後都不會再和諸位見面了。<hex:02100103>喬伊會為少爺祈禱，祈禱少爺的夢想能夠實現。
-86,TEXT_JOBMCH520_01706_STEPHANIVIEN_000_048,我一直以為拔出槍的喬伊才是最真實的喬伊。<hex:02100103>但她卻說要為了別人而犧牲自己……
-87,TEXT_JOBMCH520_01706_STEPHANIVIEN_000_049,還是說喬伊根本不想做什麼機工士，<hex:02100103>只是因為我這個貴族的命令，<hex:02100103>所以她才不得不強迫自己嗎？
-88,TEXT_JOBMCH520_01706_STEPHANIVIEN_000_050,我以為讓平民拿上槍，就能將平民從貴族的統治中解放出來……<hex:02100103>這終究只是我自以為是的想法嗎……
-89,TEXT_JOBMCH520_01706_CELESTAUX_000_051,(-塞萊斯特-)唉，看來是相當受打擊呀。<hex:02100103>請你回工房去聽聽工房長要說什麼吧。<hex:02100103>有些事我很在意，要先調查一下再回去。
-90,TEXT_JOBMCH520_01706_CELESTAUX_000_060,你可算回來了……
-91,TEXT_JOBMCH520_01706_STEPHANIVIEN_000_061,你回來啦，<hex:022903EB0203>。<hex:02100103>在回工房的一路上我一直讓測量器全速運轉，<hex:02100103>跳出的答案是今後我應該專心為共同作戰做準備。
-92,TEXT_JOBMCH520_01706_CELESTAUX_000_062,你不想將喬伊找回來了？
-93,TEXT_JOBMCH520_01706_STEPHANIVIEN_000_063,要是共同作戰失敗的話，<hex:02100103>我們在模擬戰贏得的期待就都白費了。<hex:02100103>一切又都會被打回起點……
-94,TEXT_JOBMCH520_01706_CELESTAUX_000_064,等等，我因為稍微有些在意，所以就在隼巢調查了一下，<hex:02100103>但並沒有發現喬伊爸爸的蹤影。<hex:02100103>這中間肯定有某些緣由才對。
-95,TEXT_JOBMCH520_01706_STEPHANIVIEN_000_065,只要喬伊自己並不願意做一名機工士，<hex:02100103>我就不能去強迫她……
-96,TEXT_JOBMCH520_01706_CELESTAUX_000_066,工房長的想法我明白了。<hex:02100103>明明喬伊很可能是出了什麼事，<hex:02100103>你卻因為她現在不再對你言聽計從，就對她棄之不顧了。
-97,TEXT_JOBMCH520_01706_CELESTAUX_000_067,結果你還是和其他貴族一個德行……<hex:02100103>那我也沒有理由繼續留在這裡了。<hex:02100103>我要按我自己的想法去做。
-98,TEXT_JOBMCH520_01706_STEPHANIVIEN_000_068,為什麼……至今積累的一點一滴全都破碎了……<hex:02100103>好不容易才看到了機工士光明的未來……<hex:02100103>結果卻全都只是我的錯覺嗎？
-99,TEXT_JOBMCH520_01706_Q1_000_000,如何作答？
-100,TEXT_JOBMCH520_01706_A1_000_001,沒那回事
-101,TEXT_JOBMCH520_01706_A1_000_002,……
-102,TEXT_JOBMCH520_01706_STEPHANIVIEN_000_069,肯這麼說的人只有你了……<hex:02100103>說起來，我們不是約好用你找來的<hex:022811FF0A>EventItem<hex:F61E8B980103><hex:02100103>為機工兵裝追加新機能的嗎。
-103,TEXT_JOBMCH520_01706_STEPHANIVIEN_000_070,我究竟該如何是好……<hex:02100103>說起來，我們不是約好用你找來的<hex:022811FF0A>EventItem<hex:F61E8B980103><hex:02100103>為機工兵裝追加新機能的嗎。
-104,TEXT_JOBMCH520_01706_STEPHANIVIEN_000_071,……對呀，我們的火槍與兵器確實是在不斷進步。<hex:02100103>進步是技術的積累，並不是錯覺……<hex:02100103>就算它們破碎了，但只要再不斷積累起來就一定能通向未來……
-105,TEXT_JOBMCH520_01706_STEPHANIVIEN_000_072,突然蹦出太多問題，讓我的測量器都短路了。<hex:02100103>我們要射穿的可是那些陳舊的常識，<hex:02100103>不能因為這點困難就止步不前了！
-106,TEXT_JOBMCH520_01706_STEPHANIVIEN_000_073,好，我得打起精神來才行！<hex:02100103>最近工房這麼混亂，還面臨著共同作戰的問題……<hex:02100103>恐怕很多事都只能靠你幫忙了，拜託了！！
-107,TEXT_JOBMCH520_01706_SYSTEM_000_074,
+0,"TEXT_JOBMCH520_01706_SEQ_00","Stephanivien would ask for your assistance in his latest project."
+1,"TEXT_JOBMCH520_01706_SEQ_01","With Joye's departure from the manufactory, Stephanivien seeks another edge to aid the machinists in the upcoming allied operation with House Dzemael. The chief machinist plans to create yet another new device, but explains that the process will be much expedited with the acquisition of existing magitek components. Infiltrate Castrum Centri in Mor Dhona, and salvage warmachina parts from the crates found around the imperial base."
+2,"TEXT_JOBMCH520_01706_SEQ_02","You have salvaged a number of warmachina parts. Return to the Skysteel Manufactory, and deliver the components to Stephanivien."
+3,"TEXT_JOBMCH520_01706_SEQ_03","Stephanivien eagerly accepts the magitek components. Before returning to his inventing, however, he tells you of the troubles Celestaux has encountered in his efforts to locate Joye. It would seem that someone has paid good coin to cover the ex-machinist's trail out of Ishgard. Head into the Brume, and try questioning its inhabitants as to the whereabouts of Joye's father instead."
+4,"TEXT_JOBMCH520_01706_SEQ_04","You have spoken to several residents of the Brume, and learned several vital snippets of information. Return to the Skysteel Manufactory, and share your findings with Stephanivien."
+5,"TEXT_JOBMCH520_01706_SEQ_05","After considering the information you uncovered in the Brume, Stephanivien is convinced that Joye will be found in Falcon's Nest. Travel to the settlement in the Coerthas western highlands, and cast your gaze about for the elusive ex-machinist."
+6,"TEXT_JOBMCH520_01706_SEQ_06","You succeed in locating Joye in Falcon's Nest, but Stephanivien is unable to convince the young lady to return to her former position in the workshop. Return to the Skysteel Manufactory and console the chief machinist."
+7,"TEXT_JOBMCH520_01706_SEQ_07","Celestaux shares his suspicion that Joye's father is being held against his will, thus forcing Joye's decision to abandon her employment in Ishgard. Stephanivien, however, refuses to meddle further in his former employee's affairs, choosing instead to focus on his preparations for the operation with House Dzemael. Accept the chief machinist's latest invention, and continue improving your skills that you might compensate for the workshop's dwindling ranks.<hex:02100103><hex:02100103>※The next machinist quest will be available from Stephanivien upon reaching level 54."
+8,"TEXT_JOBMCH520_01706_SEQ_08",""
+9,"TEXT_JOBMCH520_01706_SEQ_09",""
+10,"TEXT_JOBMCH520_01706_SEQ_10",""
+11,"TEXT_JOBMCH520_01706_SEQ_11",""
+12,"TEXT_JOBMCH520_01706_SEQ_12",""
+13,"TEXT_JOBMCH520_01706_SEQ_13",""
+14,"TEXT_JOBMCH520_01706_SEQ_14",""
+15,"TEXT_JOBMCH520_01706_SEQ_15",""
+16,"TEXT_JOBMCH520_01706_SEQ_16",""
+17,"TEXT_JOBMCH520_01706_SEQ_17",""
+18,"TEXT_JOBMCH520_01706_SEQ_18",""
+19,"TEXT_JOBMCH520_01706_SEQ_19",""
+20,"TEXT_JOBMCH520_01706_SEQ_20",""
+21,"TEXT_JOBMCH520_01706_SEQ_21",""
+22,"TEXT_JOBMCH520_01706_SEQ_22",""
+23,"TEXT_JOBMCH520_01706_SEQ_23",""
+24,"TEXT_JOBMCH520_01706_TODO_00","Inspect imperial crates in Castrum Centri and obtain materials."
+25,"TEXT_JOBMCH520_01706_TODO_01","Deliver the warmachina parts to Stephanivien at the Skysteel Manufactory."
+26,"TEXT_JOBMCH520_01706_TODO_02","Inquire about Joye's father in the Brume."
+27,"TEXT_JOBMCH520_01706_TODO_03","Speak with Stephanivien."
+28,"TEXT_JOBMCH520_01706_TODO_04","Search for Joye in Falcon's Nest."
+29,"TEXT_JOBMCH520_01706_TODO_05","Speak with Stephanivien."
+30,"TEXT_JOBMCH520_01706_TODO_06",""
+31,"TEXT_JOBMCH520_01706_TODO_07",""
+32,"TEXT_JOBMCH520_01706_TODO_08",""
+33,"TEXT_JOBMCH520_01706_TODO_09",""
+34,"TEXT_JOBMCH520_01706_TODO_10",""
+35,"TEXT_JOBMCH520_01706_TODO_11",""
+36,"TEXT_JOBMCH520_01706_TODO_12",""
+37,"TEXT_JOBMCH520_01706_TODO_13",""
+38,"TEXT_JOBMCH520_01706_TODO_14",""
+39,"TEXT_JOBMCH520_01706_TODO_15",""
+40,"TEXT_JOBMCH520_01706_TODO_16",""
+41,"TEXT_JOBMCH520_01706_TODO_17",""
+42,"TEXT_JOBMCH520_01706_TODO_18",""
+43,"TEXT_JOBMCH520_01706_TODO_19",""
+44,"TEXT_JOBMCH520_01706_TODO_20",""
+45,"TEXT_JOBMCH520_01706_TODO_21",""
+46,"TEXT_JOBMCH520_01706_TODO_22",""
+47,"TEXT_JOBMCH520_01706_TODO_23",""
+48,"TEXT_JOBMCH520_01706_STEPHANIVIEN_000_000","Ah, there you are, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. 'Twould seem that 'tis not only Joye, but her father as well who has vanished from the city."
+49,"TEXT_JOBMCH520_01706_STEPHANIVIEN_000_001","Celestaux is out asking questions, but there are few answers to be had. Rather than sit here on our hands whilst we wait for a revelation, however, I would prefer we begin preparations for our engagement alongside House Dzemael."
+50,"TEXT_JOBMCH520_01706_STEPHANIVIEN_000_002","（★未使用／削除予定★）"
+51,"TEXT_JOBMCH520_01706_STEPHANIVIEN_000_003","The Dzemaels have been struggling to restore the township of Falcon's Nest─an enterprise that has been interrupted time and again by marauding Dravanians."
+52,"TEXT_JOBMCH520_01706_STEPHANIVIEN_000_004","The signs─and a steady trickle of scouting reports─suggest that the dragons are massing for a significant assault on the settlement. Its fortifications are not yet complete, and 'twill be the aim of the allied operation to defend these half-finished structures from the ravages of the Horde.<hex:02100103>...I expect House Haillenarte shall be positioned on the front lines of this conflict."
+53,"TEXT_JOBMCH520_01706_STEPHANIVIEN_000_005","Should we fight well, the dragons will be routed; should we fight poorly, our reputation will suffer. From Lord Tedalgrinche's perspective, either result is a victory."
+54,"TEXT_JOBMCH520_01706_STEPHANIVIEN_000_006","For the future of machinistry, however, we cannot afford to fail. Thus, have I focused my energies towards designing an attachment that will improve our chances of success. Now, the problem─which I was hoping you might help me solve─is the acquisition of suitable components."
+55,"TEXT_JOBMCH520_01706_STEPHANIVIEN_000_007","The swiftest way to create new technology is by repurposing the old. To that end, I would have you infiltrate Castrum Centri, and salvage a goodly number of warmachina parts. The Garleans there may take a dim view of your efforts to, uh, <hex:021A020203>liberate<hex:021A020103> their supplies..."
+56,"TEXT_JOBMCH520_01706_STEPHANIVIEN_000_009","If I am to complete my newest invention in time, I must needs take advantage of existing magitek components. Fortunately, I hear that the Garleans have literal crates of the stuff simply lying about in Castrum Centri..."
+57,"TEXT_JOBMCH520_01706_STEPHANIVIEN_000_010","With Joye gone from the workshop, I have no one else to whom I can entrust such duties. 'Tis no simple task, I know, but I must have those components."
+58,"TEXT_JOBMCH520_01706_STEPHANIVIEN_000_011","Splendid! These parts will do much to speed the construction of my invention. Now, if only Joye were returned to us..."
+59,"TEXT_JOBMCH520_01706_STEPHANIVIEN_000_012","Despite Celestaux's most earnest efforts, however, 'twould appear that his contacts in the Brume have elected to spurn his inquiries."
+60,"TEXT_JOBMCH520_01706_STEPHANIVIEN_000_013","I sense an unseen hand─and a sizable purse─behind this sudden rash of reticence. Mayhap if you were to ask after the old hunter's disappearance instead, then the Brume's inhabitants would be more forthcoming."
+61,"TEXT_JOBMCH520_01706_STEPHANIVIEN_000_019","We must learn whither Joye and her father have vanished..."
+62,"TEXT_JOBMCH520_01706_POOR01706A_000_020","Eh? That old hunter fellow? I thought he'd left to start a new job someplace else."
+63,"TEXT_JOBMCH520_01706_POOR01706A_000_021","He was always cursin' how his old wounds kept him from practicin' his trade, but I s'pose he found himself somethin' new..."
+64,"TEXT_JOBMCH520_01706_POOR01706A_000_029","That old hunter fellow? I thought he'd left to start a new job someplace else..."
+65,"TEXT_JOBMCH520_01706_POOR01706B_000_020","Who? You mean the one whose daughter caught herself a husband in Falcon's Nest? He's probably there with her, ain't he?"
+66,"TEXT_JOBMCH520_01706_POOR01706B_000_029","His daughter caught herself a husband in Falcon's Nest. He's probably there with her, ain't he?"
+67,"TEXT_JOBMCH520_01706_POOR01706C_000_020","Oh, aye, the creaky old hunter. I hear he got himself payin' work <hex:021A020203>and<hex:021A020103> saw his little girl get married on the same day."
+68,"TEXT_JOBMCH520_01706_POOR01706C_000_021","The husband's said to be the brother of some famous carpenter, and that he don't even need a job to get by."
+69,"TEXT_JOBMCH520_01706_POOR01706C_000_028","Oh, aye, the creaky old hunter. I hear he got himself payin' work <hex:021A020203>and<hex:021A020103> saw his little girl get married on the same day."
+70,"TEXT_JOBMCH520_01706_POOR01706C_000_029","The husband's said to be the brother of some famous carpenter, and that he don't even need a job to get by."
+71,"TEXT_JOBMCH520_01706_CELESTAUX_000_030","I've never had a fellow commoner refuse to talk to me afore... Is this what it feels like to be an outsider?"
+72,"TEXT_JOBMCH520_01706_STEPHANIVIEN_000_030","Were you able to wring any information from the Brume?"
+73,"TEXT_JOBMCH520_01706_STEPHANIVIEN_000_031","Hmmm, a new job for him, and a new husband for his daughter in Falcon's Nest..."
+74,"TEXT_JOBMCH520_01706_CELESTAUX_000_032","They've been takin' on a good number of laborers and such to help with the town's restoration─even a half-crippled old hunter might find some kind of work for himself there."
+75,"TEXT_JOBMCH520_01706_STEPHANIVIEN_000_033","Yes, my prospectometer points unerringly to the west. We shall head to Falcon's Nest, and seek out Joye and her father."
+76,"TEXT_JOBMCH520_01706_STEPHANIVIEN_000_039","To Falcon's Nest, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! My prospectometer never lies!"
+77,"TEXT_JOBMCH520_01706_CELESTAUX_000_040","（★未使用／削除予定★）"
+78,"TEXT_JOBMCH520_01706_STEPHANIVIEN_000_040","She must be here somewhere..."
+79,"TEXT_JOBMCH520_01706_STEPHANIVIEN_000_041","Any sign of her?"
+80,"TEXT_JOBMCH520_01706_JOYE_000_042","H-His lordship!? What is he doin' here!?"
+81,"TEXT_JOBMCH520_01706_STEPHANIVIEN_000_043","Joye, please! I ask only that you listen a moment! Will you and your husband not consider working for me in the manufactory?"
+82,"TEXT_JOBMCH520_01706_JOYE_000_044","...I can't do that, me lordship. I can't be a machinist no more. It's best for everyone if I leave that life behind..."
+83,"TEXT_JOBMCH520_01706_STEPHANIVIEN_000_045","What do you mean, “best for everyone”!? Is that what is best for <hex:021A020203>you<hex:021A020103>?"
+84,"TEXT_JOBMCH520_01706_JOYE_000_046","All I want for me is a simple life─one what doesn't cause problems for those who've shown me such kindness."
+85,"TEXT_JOBMCH520_01706_JOYE_000_047","I'm glad we could talk this one last time, me lordship. I'll be prayin' that you and your machinists get the recognition you deserve."
+86,"TEXT_JOBMCH520_01706_STEPHANIVIEN_000_048","I always thought Joye was happiest when she had the stock of her flintlock in hand. Will she now sacrifice that happiness for the satisfaction of others?"
+87,"TEXT_JOBMCH520_01706_STEPHANIVIEN_000_049","...Or is it that she never truly wished to be a machinist, and merely suffered the training at my insistence?"
+88,"TEXT_JOBMCH520_01706_STEPHANIVIEN_000_050","By arming the commoners, 'twas my intention to place them on equal footing with the nobles who seek to rule them. But caught in the throes of self-righteous ambition, mayhap I have treated them no better."
+89,"TEXT_JOBMCH520_01706_CELESTAUX_000_051","(-Celestaux-)Seems his lordship is havin' himself a crisis of faith. Might be as you could lend him a sympathetic ear, eh? I'll join you back at the workshop in a bit─there's somethin' I want to look into first."
+90,"TEXT_JOBMCH520_01706_CELESTAUX_000_060","Welcome back."
+91,"TEXT_JOBMCH520_01706_STEPHANIVIEN_000_061","I have run my prospectometer through all possible permutations, but the result is always the same: we focus on preparations for the allied operation."
+92,"TEXT_JOBMCH520_01706_CELESTAUX_000_062","So we just give up on bringin' Joye back?"
+93,"TEXT_JOBMCH520_01706_STEPHANIVIEN_000_063","Should we fail House Dzemael, then the reputation we built at the tourney will crumble into dust. We would have to begin again, brick by painful brick..."
+94,"TEXT_JOBMCH520_01706_CELESTAUX_000_064","A moment, me lord. I lingered behind in Falcon's Nest to see if I could find Joye's father, but he was nowhere to be found. I've got a feelin' somethin' ain't right here."
+95,"TEXT_JOBMCH520_01706_STEPHANIVIEN_000_065","If Joye herself has no wish to be a machinist, then what more can I do? 'Tis not my place to meddle in her affairs."
+96,"TEXT_JOBMCH520_01706_CELESTAUX_000_066","Oh, aye, I see how it is. I'd thought you different from them other nobles, but you're all the same─only interested in helpin' commoners as long as they're doin' your biddin'."
+97,"TEXT_JOBMCH520_01706_CELESTAUX_000_067","Well, I've had enough of takin' orders. It's time I went me own way."
+98,"TEXT_JOBMCH520_01706_STEPHANIVIEN_000_068","My grand plans for the future of machinistry... Have they all been in vain?"
+99,"TEXT_JOBMCH520_01706_Q1_000_000","Have they all been in vain?"
+100,"TEXT_JOBMCH520_01706_A1_000_001","We have come so far."
+101,"TEXT_JOBMCH520_01706_A1_000_002","That is for you to judge."
+102,"TEXT_JOBMCH520_01706_STEPHANIVIEN_000_069","We have, you and I. Speaking of which, I had promised to use those components you brought me to build a new weapon."
+103,"TEXT_JOBMCH520_01706_STEPHANIVIEN_000_070","Do not underestimate your own contributions. Speaking of which, I had promised to use those components you brought me to build a new weapon."
+104,"TEXT_JOBMCH520_01706_STEPHANIVIEN_000_071","If naught else, we have certainly made advances in the field of machinistry. Such a tangible measure of progress cannot be ignored..."
+105,"TEXT_JOBMCH520_01706_STEPHANIVIEN_000_072","Yes! My prospectometer was so overloaded with peripheral problems, I failed to see the practical evidence of our success! The path is steep and our steps are small, but that does not mean the destination is beyond us!"
+106,"TEXT_JOBMCH520_01706_STEPHANIVIEN_000_073","I will ask much of you in the coming days, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, and I shall see that you are the most well-equipped machinist in the short history of machinistry."
+107,"TEXT_JOBMCH520_01706_SYSTEM_000_074","（★未使用／削除予定★）"

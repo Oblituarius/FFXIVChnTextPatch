@@ -2,125 +2,125 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_JOBAOZ580_03735_SEQ_00,烏爾達哈的馬丁希望冒險者陪他進行實證研究。
-1,TEXT_JOBAOZ580_03735_SEQ_01,和馬丁進行了交談，為了對「青魔法師萬能論」進行實證研究，決定前往百臂巨人族出沒的銅鈴銅山。為了和弟子們匯合，與西薩納蘭地平關的馬丁談談。
-2,TEXT_JOBAOZ580_03735_SEQ_02,和馬丁進行了交談，與弟子們匯合了。和西薩納蘭的銅鈴銅山入口附近的馬丁談談。
-3,TEXT_JOBAOZ580_03735_SEQ_03,和馬丁交談後得知他們遇到了在附近沒見過的妖異，並將其打倒了。好像還有其他的妖異，冒險者前去進行討伐。在銅鈴銅山入口附近的<hex:02280CFF05>EObj<hex:F61EAEE10103>張望，討伐出現的妖異。
-4,TEXT_JOBAOZ580_03735_SEQ_04,討伐了妖異。和銅鈴銅山入口附近的馬丁談談。
-5,TEXT_JOBAOZ580_03735_SEQ_05,和馬丁進行交談時遇見了菲厄蓋斯和吉恩貝爾克，隨後蘿伊絲也出現了。原來是菲厄蓋斯將假面狂歡的魔物用作了兵器。蘿伊絲對此感到極度憤慨，結果雙方圍繞著天青鬥場的經營權產生了爭執。馬丁提出在藍色假面對齊格弗里德之戰中一決勝負，菲厄蓋斯接受了這個提案。和密爾瓦內斯禮拜堂附近的馬丁談談。
-6,TEXT_JOBAOZ580_03735_SEQ_06,和馬丁進行了交談。雖然不管怎麼看他都是一個不靠譜的師父，不過在將青魔法師的實力磨鍊到極限，並學會青魔法「蛙腿」之後還是回來拜訪一下他。<hex:02100103><hex:02100103>※青魔法師的等級達到60級以上並學會青魔法「蛙腿」後，可以從密爾瓦內斯禮拜堂附近的馬丁那裡領取下一個青魔法師任務。
-7,TEXT_JOBAOZ580_03735_SEQ_07,
-8,TEXT_JOBAOZ580_03735_SEQ_08,
-9,TEXT_JOBAOZ580_03735_SEQ_09,
-10,TEXT_JOBAOZ580_03735_SEQ_10,
-11,TEXT_JOBAOZ580_03735_SEQ_11,
-12,TEXT_JOBAOZ580_03735_SEQ_12,
-13,TEXT_JOBAOZ580_03735_SEQ_13,
-14,TEXT_JOBAOZ580_03735_SEQ_14,
-15,TEXT_JOBAOZ580_03735_SEQ_15,
-16,TEXT_JOBAOZ580_03735_SEQ_16,
-17,TEXT_JOBAOZ580_03735_SEQ_17,
-18,TEXT_JOBAOZ580_03735_SEQ_18,
-19,TEXT_JOBAOZ580_03735_SEQ_19,
-20,TEXT_JOBAOZ580_03735_SEQ_20,
-21,TEXT_JOBAOZ580_03735_SEQ_21,
-22,TEXT_JOBAOZ580_03735_SEQ_22,
-23,TEXT_JOBAOZ580_03735_SEQ_23,
-24,TEXT_JOBAOZ580_03735_TODO_00,和地平關的馬丁對話
-25,TEXT_JOBAOZ580_03735_TODO_01,和馬丁對話
-26,TEXT_JOBAOZ580_03735_TODO_02,在指定地點張望並討伐妖異
-27,TEXT_JOBAOZ580_03735_TODO_03,和馬丁對話
-28,TEXT_JOBAOZ580_03735_TODO_04,和烏爾達哈的馬丁對話
-29,TEXT_JOBAOZ580_03735_TODO_05,
-30,TEXT_JOBAOZ580_03735_TODO_06,
-31,TEXT_JOBAOZ580_03735_TODO_07,
-32,TEXT_JOBAOZ580_03735_TODO_08,
-33,TEXT_JOBAOZ580_03735_TODO_09,
-34,TEXT_JOBAOZ580_03735_TODO_10,
-35,TEXT_JOBAOZ580_03735_TODO_11,
-36,TEXT_JOBAOZ580_03735_TODO_12,
-37,TEXT_JOBAOZ580_03735_TODO_13,
-38,TEXT_JOBAOZ580_03735_TODO_14,
-39,TEXT_JOBAOZ580_03735_TODO_15,
-40,TEXT_JOBAOZ580_03735_TODO_16,
-41,TEXT_JOBAOZ580_03735_TODO_17,
-42,TEXT_JOBAOZ580_03735_TODO_18,
-43,TEXT_JOBAOZ580_03735_TODO_19,
-44,TEXT_JOBAOZ580_03735_TODO_20,
-45,TEXT_JOBAOZ580_03735_TODO_21,
-46,TEXT_JOBAOZ580_03735_TODO_22,
-47,TEXT_JOBAOZ580_03735_TODO_23,
-48,TEXT_JOBAOZ580_03735_MARTYN_100_000,<hex:022903EB0203>。<hex:02100103>看來你經過了嚴格的訓練啊，<hex:02100103>不過好像你還沒學會青魔法「蛻皮」？
-49,TEXT_JOBAOZ580_03735_SYSTEM_100_001,學會青魔法「蛻皮」之後，<hex:02100103>才能從馬丁那裡領取下一個青魔法師任務。
-50,TEXT_JOBAOZ580_03735_MARTYN_000_000,<hex:022903EB0203>！<hex:02100103>看來你經過了嚴格的訓練，<hex:02100103>並且學會了青魔法「蛻皮」啊。
-51,TEXT_JOBAOZ580_03735_MARTYN_000_001,那你趕緊陪我去做實證研究吧。<hex:02100103>至於具體要做什麼，那就是你跟我還有弟子們，<hex:02100103>咱們這幾個青魔法師一起去勇闖危險地帶。
-52,TEXT_JOBAOZ580_03735_MARTYN_000_002,只要能完成攻略，就能證明我在青魔法師萬能論中提出的<hex:02100103>可以同時擔任進攻、防護、治療三種職能的理論是正確的了。<hex:02100103>當然這對於弟子們來說也是一次不錯的修行。
-53,TEXT_JOBAOZ580_03735_MARTYN_000_003,正好我聽說銅鈴銅山因為有百臂巨人族出沒而引發了騷亂。<hex:02100103>咱們先去地平關和弟子們匯合吧。
-54,TEXT_JOBAOZ580_03735_LATOOLJA_000_004,雖然大師嘴裡、說是為了研究、和訓練弟子、<hex:02100103>其實只是、為了面向比賽、想鍛鍊自己、而已。
-55,TEXT_JOBAOZ580_03735_LATOOLJA_000_005,麻煩你、就陪大師修行、一下吧。
-56,TEXT_JOBAOZ580_03735_LATOOLJA_000_008,<hex:022903EB0203>、麻煩你、就陪大師修行、一下吧。
-57,TEXT_JOBAOZ580_03735_MARTYN_000_010,拉圖加是不是又對你說了些多餘的話？<hex:02100103>不過算了，弟子們也差不多該到了……
-58,TEXT_JOBAOZ580_03735_MARTYN_000_011,喲，我等你們半天了……
-59,TEXT_JOBAOZ580_03735_NUTIBABUNTIBA_000_012,好久不見，<hex:022903EB0203>！<hex:02100103>自從上次之後，我們也學會了許多青魔法！
-60,TEXT_JOBAOZ580_03735_PYANDIH_000_013,<hex:022903EB0203>的青魔法施法方式，<hex:02100103>我也大致上能模仿出來了！
-61,TEXT_JOBAOZ580_03735_MARTYN_000_014,喂喂！別太得意忘形了！<hex:02100103>接下來咱們要去的可是巨人族跋扈的危險地帶！
-62,TEXT_JOBAOZ580_03735_PYANDIH_000_015,有什麼可緊張的嘛，<hex:02100103>這類討伐巨人族的任務，我可是經歷過好幾回了……
-63,TEXT_JOBAOZ580_03735_NUTIBABUNTIBA_000_016,雖然我第一次去，不過倒是從冒險者夥伴那裡打聽過情報，<hex:02100103>事先已經調查好了坑道的內部結構！<hex:02100103>大師你怎麼樣啊？
-64,TEXT_JOBAOZ580_03735_MARTYN_000_017,我、我當然也是第一次去……<hex:02100103>你居然還事先調查了？
-65,TEXT_JOBAOZ580_03735_MARTYN_000_018,那、那你呢，<hex:022903EB0203>？
-66,TEXT_JOBAOZ580_03735_Q1_000_000,要說什麼？
-67,TEXT_JOBAOZ580_03735_A1_000_001,去過無數次了十分簡單！
-68,TEXT_JOBAOZ580_03735_A1_000_002,已經充分做過事先調查了！
-69,TEXT_JOBAOZ580_03735_A1_000_003,……
-70,TEXT_JOBAOZ580_03735_MARTYN_000_019,是、是這樣啊……只有我一個是……<hex:02100103>總、總之出發前往銅鈴銅山吧！
-71,TEXT_JOBAOZ580_03735_MARTYN_000_020,看、看來咱們倆是一樣的啊……<hex:02100103>總、總之出發前往銅鈴銅山吧！
-72,TEXT_JOBAOZ580_03735_NUTIBABUNTIBA_000_026,剛到這裡就被這附近沒見過的妖異襲擊了。
-73,TEXT_JOBAOZ580_03735_PYANDIH_000_027,<hex:022903EB0203>，請多加小心。
-74,TEXT_JOBAOZ580_03735_MARTYN_000_030,<hex:022903EB0203>，突然有妖異襲擊了過來，<hex:02100103>我剛把它打倒……
-75,TEXT_JOBAOZ580_03735_MARTYN_000_031,不過好像有一隻逃出了這個區域。<hex:02100103>麻煩你在那隻妖異傷及無辜之前找到並消滅它。
-76,TEXT_JOBAOZ580_03735_MARTYN_000_036,不過好像有一隻逃出了這個區域。<hex:02100103>麻煩你在那隻妖異傷及無辜之前找到並消滅它。
-77,TEXT_JOBAOZ580_03735_NUTIBABUNTIBA_000_037,你已經打倒它了嗎？<hex:02100103>剛才戰鬥的時候我們完全不是它的對手……
-78,TEXT_JOBAOZ580_03735_PYANDIH_000_038,這麼快就打倒它了嗎？<hex:02100103>真不愧是<hex:022903EB0203>！
-79,TEXT_JOBAOZ580_03735_MARTYN_000_040,辛苦你了……<hex:02100103>不過話說回來，怪不得我看這妖異覺得眼熟，<hex:02100103>這傢伙就是假面狂歡中使用的妖異，絕對沒錯！
-80,TEXT_JOBAOZ580_03735_MARTYN_000_041,可是為什麼會在這種地方？
-81,TEXT_JOBAOZ580_03735_FYRGEISS_000_042,(-？？？？-)你們沒事吧？
-82,TEXT_JOBAOZ580_03735_MARTYN_000_043,你、你是菲厄蓋斯先生……<hex:02100103>還有扮演齊格弗里德的那個人？！
-83,TEXT_JOBAOZ580_03735_FYRGEISS_000_044,哎呀，這不是藍色假面嗎？<hex:02100103>原來逃到外面的妖異是你們幫忙打倒的啊……
-84,TEXT_JOBAOZ580_03735_MARTYN_000_045,這到底是怎麼一回事？
-85,TEXT_JOBAOZ580_03735_ROYSE_000_046,(-？？？？-)我也想問問你們到底要幹什麼！！
-86,TEXT_JOBAOZ580_03735_MARTYN_000_047,這、這次又輪到了蘿伊絲小姐？！
-87,TEXT_JOBAOZ580_03735_ROYSE_000_048,擅自帶走我們鬥場的重要魔物，到底是想幹什麼啊？！<hex:02100103>就算你是出資者，這種行為也不可饒恕！！
-88,TEXT_JOBAOZ580_03735_FYRGEISS_000_049,哎哎，冷靜一下嘛。<hex:02100103>我們協會擁有的銅鈴銅山最近有巨人族出沒，<hex:02100103>所以我就試著把天青鬥場的魔物用作兵器進行了鎮壓。
-89,TEXT_JOBAOZ580_03735_FYRGEISS_000_050,你猜怎麼著，百臂巨人族全都被趕跑了！<hex:02100103>這樣一來就不用派遣鐵燈團或是僱傭冒險者了！
-90,TEXT_JOBAOZ580_03735_FYRGEISS_000_051,艾瑪吉娜礦山協會的設施長年<hex:02100103>受到來自野生魔物、蜥蜴人族等外敵的威脅。<hex:02100103>所以我一直想要一種能夠代替鐵燈團的戰力。
-91,TEXT_JOBAOZ580_03735_ROYSE_000_052,難道你就是為了這個才給我們出資的？<hex:02100103>不過就算是這樣，我也不會原諒你將魔物用作兵器！<hex:02100103>這可是重大的違約行為！
-92,TEXT_JOBAOZ580_03735_FYRGEISS_000_053,哼……什麼違約啊。<hex:02100103>我已經對天青鬥場進行了巨額的融資。<hex:02100103>目前運營費的一半以上都是由我們協會出的資……
-93,TEXT_JOBAOZ580_03735_FYRGEISS_000_054,也就是說我也擁有一半以上的經營權。<hex:02100103>所以包括魔物的利用方法在內，我都有權干涉。
-94,TEXT_JOBAOZ580_03735_ROYSE_000_055,的、的確你沒少出資，<hex:02100103>可是我不記得把天青鬥場賣給你了啊！
-95,TEXT_JOBAOZ580_03735_FYRGEISS_000_056,說什麼傻話呢？！<hex:02100103>出資最多的人自然是老闆不是嗎？！
-96,TEXT_JOBAOZ580_03735_ROYSE_000_057,天青鬥場的老闆是我！<hex:02100103>不管別人怎麼說，這是不可否認的事實！！
-97,TEXT_JOBAOZ580_03735_FYRGEISS_000_058,閉嘴……你這個三流經營者！<hex:02100103>我才是天青鬥場真正的老闆！
-98,TEXT_JOBAOZ580_03735_ROYSE_000_059,拽什麼拽……你這個……落魄的沙蠍眾！！
-99,TEXT_JOBAOZ580_03735_FYRGEISS_000_060,你被開除了！！
-100,TEXT_JOBAOZ580_03735_MARTYN_000_061,那、那個打擾一下……<hex:02100103>既然想要新戰力的話，不如考慮一下我們青魔法師怎麼樣……
-101,TEXT_JOBAOZ580_03735_MARTYN_000_062,我們青魔法師不受防護、攻擊、治療這類職能的限制，<hex:02100103>是一種萬能的戰鬥職業哦。
-102,TEXT_JOBAOZ580_03735_FYRGEISS_000_063,哼……終究不過是個半吊子，哪個都做不好吧？
-103,TEXT_JOBAOZ580_03735_MARTYN_000_064,我想通過我藍色假面與齊格弗里德的決戰，<hex:02100103>一定能夠證明我的說法吧！
-104,TEXT_JOBAOZ580_03735_MARTYN_000_065,既然如此，那你與蘿伊絲小姐之間的爭執<hex:02100103>也通過這次比賽的結果來解決吧？
-105,TEXT_JOBAOZ580_03735_MARTYN_000_066,要是我輸了，天青鬥場的老闆之位就歸你了。<hex:02100103>同時也承認魔物可以作為兵器使用。
-106,TEXT_JOBAOZ580_03735_MARTYN_000_067,不過要是我贏了的話，天青鬥場的老闆就是蘿伊絲小姐。<hex:02100103>同時你也得放棄魔物，並將我們青魔法師作為戰力，<hex:02100103>簽訂業務協議……
-107,TEXT_JOBAOZ580_03735_ROYSE_000_068,等、等一下，你憑什麼擅自做主……
-108,TEXT_JOBAOZ580_03735_FYRGEISS_000_069,有意思啊！<hex:02100103>好吧，我就跟你賭一把！
-109,TEXT_JOBAOZ580_03735_ZIRNBERK_000_070,雖說是為了宣傳，不過我已經不想再給人表演了，<hex:02100103>終於可以來場真格的了……<hex:02100103>我很期待那一天的比賽。
-110,TEXT_JOBAOZ580_03735_MARTYN_000_071,好了，既然銅鈴銅山的巨人族被擺平了，<hex:02100103>也就意味著這次預定的實證研究又得推到下回再說了。
-111,TEXT_JOBAOZ580_03735_MARTYN_000_072,兩位弟子就讓他們繼續去學習青魔法，<hex:02100103>咱們先回烏爾達哈吧。
-112,TEXT_JOBAOZ580_03735_FYRGEISS_000_076,呵呵呵……<hex:02100103>真是對不住啊，天青鬥場將要是我的了。
-113,TEXT_JOBAOZ580_03735_ZIRNBERK_000_077,你就是第二代藍色假面？<hex:02100103>呵呵呵……看起來比初代要強很多啊。
-114,TEXT_JOBAOZ580_03735_ROYSE_000_078,哎……<hex:02100103>事情變得不得了了……
-115,TEXT_JOBAOZ580_03735_LATOOLJA_000_079,歡迎、回來。<hex:02100103>蘿伊絲小姐、難得在、嘆氣。
-116,TEXT_JOBAOZ580_03735_MARTYN_000_080,這樣一來就更不能輸給齊格弗里德了……
-117,TEXT_JOBAOZ580_03735_ROYSE_000_081,事已至此，馬丁你可是唯一的希望了。<hex:02100103>為了假面狂歡，一定要給我贏啊！
-118,TEXT_JOBAOZ580_03735_MARTYN_000_082,你就放心吧！
-119,TEXT_JOBAOZ580_03735_MARTYN_000_083,好了，接下來終於該輪到與齊格弗里德的決戰了。<hex:02100103>你作為後補到時候只能觀戰，<hex:02100103>不過在比賽開始之前誰也不知道究竟會發生什麼。
-120,TEXT_JOBAOZ580_03735_MARTYN_000_084,所以請<hex:022903EB0203>學會青魔法「蛙腿」，<hex:02100103>並將自己作為青魔法師的實力磨鍊到極限後，<hex:02100103>再來這裡找我吧。
-121,TEXT_JOBAOZ580_03735_MARTYN_000_085,第二代藍色假面啊！<hex:02100103>為了比賽，咱們兩個調整到最佳狀態吧！
+0,"TEXT_JOBAOZ580_03735_SEQ_00","Martyn is desperately trying to take his mind off of the impending match with Siegfried."
+1,"TEXT_JOBAOZ580_03735_SEQ_01","Martyn, in spite of his upcoming match with a Coliseum gladiator, has instead thrown himself into researching the applications of blue magic. He is particularly interested to know how well the spells he has mastered will keep a party of blue mages fighting fit while exploring dangerous locations, such as Copperbell Mines, which he plans to visit. A recent increase in hecatoncheir activity has made the mineral excavation site too hazardous for the workers to enter, and Martyn aims to quell the uprising, test his theories, and train P'yandih and Nutiba Buntiba, all in one fell swoop. His two young apprentices have been told to wait for you in the nearby settlement of Horizon, with the mines a short distance away."
+2,"TEXT_JOBAOZ580_03735_SEQ_02","In Horizon, P'yandih explains that she has already visited Copperbell Mines on several occasions. Nutiba Buntiba, on the other hand, lacks her experience, but has made efforts to study the layout of the tunnels. Martyn, meanwhile, has next to no knowledge of the mines, having never been there himself and neglecting to gather any information beforehand. However, Nutiba's motto of “By failing to prepare, you are preparing to fail,” seems to have struck a chord with him. Martyn leads the party across the plains of western Thanalan to the site of the proposed hecatoncheir hunt."
+3,"TEXT_JOBAOZ580_03735_SEQ_03","To the surprise of all, the first opponent to greet the party is not a hecatoncheir, but a winged voidsent. Martyn and his two students have already slain the beast by the time you arrive, and since you were too late to join the battle, you are nominated to search the area for a similar creature that has escaped them and poses a threat to the people of Horizon."
+4,"TEXT_JOBAOZ580_03735_SEQ_04","You soon discover the voidsent hovering ominously a short distance from the mine, and despite its determination to rip you into bite-sized meaty chunks, it finally succumbs to your blue magic. You return to report the outcome of your battle to Martyn and the others, who are still attempting to unravel the mystery of what exactly has occurred here."
+5,"TEXT_JOBAOZ580_03735_SEQ_05","Martyn comes to the realization that the voidsent are identical to those used in the Masked Carnivale, and the question as to how this could have happened is soon answered when Fyrgeiss and his son Zirnberk burst forth from the mine. They had released voidsent into the tunnels as a means of eradicating the hecatoncheires that had invaded Copperbell Mines, a task which would normally fall to the Stone Torches. Having learned of Fyrgeiss's whereabouts from his underlings, Royse arrives on the scene to berate him for taking the voidsent from the Celestium's menagerie. He responds by claiming that his recent investment gives him the right to use the creatures as he pleases. Royse emphasizes that in spite of the financial backing she has received, her position remains unchanged, sparking a vitriolic exchange between her and Fyrgeiss. Martyn interjects to suggest that rather than using voidsent, Amajina & Sons could instead hire the Blue Mages' Guild to protect their property. When this proposal is cruelly thrown back in his face, he quickly changes tack by offering a wager based on the outcome of his match with Zirnberk. In the event that he loses, control of the Celestium would pass to Fyrgeiss, and the use of voidsent as living weapons would be allowed to continue. Should Martyn win the contest, Royse would remain as owner and the Blue Mages' Guild would enter the employ of Amajina & Sons Mineral Concern. Though Royse is aghast at the idea of placing her livelihood in Martyn's less-than-reliable hands, Fyrgeiss willingly accepts, assured that his son will emerge the victor. Having said more than enough for one day, your mentor decides against making the situation any worse than it already is by retiring to Ul'dah to prepare for his highly anticipated battle."
+6,"TEXT_JOBAOZ580_03735_SEQ_06","Back at the Blue Mages' Guild, Martyn's bravado does little to set Royse's mind at ease, and it seems that she is all but resigned to losing the Celestium. Martyn's preparations for the fight seem to extend only to asking that you be ready to stand in for him, in the not-as-unlikely-as-one-might-think event that he would be prevented from participating. Being in the habit of asking you to learn specific blue magic spells, he instructs you to master Frog Legs. Strangely enough, this is a technique for drawing the enemy's attention, which is seldom an issue in the arena, though as Martyn points out, the day may soon arrive that you have a chance to use it, should the guild ever enter the employ of Amajina & Sons.<hex:02100103><hex:02100103>※The next blue mage quest will be available from Martyn upon reaching level 60 and learning Frog Legs."
+7,"TEXT_JOBAOZ580_03735_SEQ_07",""
+8,"TEXT_JOBAOZ580_03735_SEQ_08",""
+9,"TEXT_JOBAOZ580_03735_SEQ_09",""
+10,"TEXT_JOBAOZ580_03735_SEQ_10",""
+11,"TEXT_JOBAOZ580_03735_SEQ_11",""
+12,"TEXT_JOBAOZ580_03735_SEQ_12",""
+13,"TEXT_JOBAOZ580_03735_SEQ_13",""
+14,"TEXT_JOBAOZ580_03735_SEQ_14",""
+15,"TEXT_JOBAOZ580_03735_SEQ_15",""
+16,"TEXT_JOBAOZ580_03735_SEQ_16",""
+17,"TEXT_JOBAOZ580_03735_SEQ_17",""
+18,"TEXT_JOBAOZ580_03735_SEQ_18",""
+19,"TEXT_JOBAOZ580_03735_SEQ_19",""
+20,"TEXT_JOBAOZ580_03735_SEQ_20",""
+21,"TEXT_JOBAOZ580_03735_SEQ_21",""
+22,"TEXT_JOBAOZ580_03735_SEQ_22",""
+23,"TEXT_JOBAOZ580_03735_SEQ_23",""
+24,"TEXT_JOBAOZ580_03735_TODO_00","Speak with Martyn in Horizon."
+25,"TEXT_JOBAOZ580_03735_TODO_01","Speak with Martyn."
+26,"TEXT_JOBAOZ580_03735_TODO_02","Survey the designated location and defeat any voidsent that appear."
+27,"TEXT_JOBAOZ580_03735_TODO_03","Speak with Martyn."
+28,"TEXT_JOBAOZ580_03735_TODO_04","Speak with Martyn in Ul'dah."
+29,"TEXT_JOBAOZ580_03735_TODO_05",""
+30,"TEXT_JOBAOZ580_03735_TODO_06",""
+31,"TEXT_JOBAOZ580_03735_TODO_07",""
+32,"TEXT_JOBAOZ580_03735_TODO_08",""
+33,"TEXT_JOBAOZ580_03735_TODO_09",""
+34,"TEXT_JOBAOZ580_03735_TODO_10",""
+35,"TEXT_JOBAOZ580_03735_TODO_11",""
+36,"TEXT_JOBAOZ580_03735_TODO_12",""
+37,"TEXT_JOBAOZ580_03735_TODO_13",""
+38,"TEXT_JOBAOZ580_03735_TODO_14",""
+39,"TEXT_JOBAOZ580_03735_TODO_15",""
+40,"TEXT_JOBAOZ580_03735_TODO_16",""
+41,"TEXT_JOBAOZ580_03735_TODO_17",""
+42,"TEXT_JOBAOZ580_03735_TODO_18",""
+43,"TEXT_JOBAOZ580_03735_TODO_19",""
+44,"TEXT_JOBAOZ580_03735_TODO_20",""
+45,"TEXT_JOBAOZ580_03735_TODO_21",""
+46,"TEXT_JOBAOZ580_03735_TODO_22",""
+47,"TEXT_JOBAOZ580_03735_TODO_23",""
+48,"TEXT_JOBAOZ580_03735_MARTYN_100_000","I appreciate your enthusiasm, but you can hardly be considered my equal if you haven't even learned Exuviation yet!"
+49,"TEXT_JOBAOZ580_03735_SYSTEM_100_001","The next blue mage quest will be available from Martyn upon learning Exuviation."
+50,"TEXT_JOBAOZ580_03735_MARTYN_000_000","You might be wonderin' why I'd ask you to learn Exuviation of all things."
+51,"TEXT_JOBAOZ580_03735_MARTYN_000_001","Well, it's all part of my research into the versatility of blue mages. You can use it to heal yourself, of course, but I want to see how effective that spell is in keepin' your friends alive and kickin'."
+52,"TEXT_JOBAOZ580_03735_MARTYN_000_002","In fact, I thought we'd take P'yandih and Nutiba out into the field to test a few of my theories. It'll be good trainin' for them, too. I've sent them ahead to Horizon, and from there we'll head to Copperbell Mines, where I hear hecatoncheires are causin' a spot of bother."
+53,"TEXT_JOBAOZ580_03735_MARTYN_000_003","An ongoin' problem, by all accounts. Sounds like the perfect chance to show off our teamwork. Not that we've ever worked as a team before, but this seems a good place to start!"
+54,"TEXT_JOBAOZ580_03735_LATOOLJA_000_004","Latool Ja not sure about this plan. Nutiba and P'yandih probably think this just a training exercise, but hecatoncheires very dangerous!"
+55,"TEXT_JOBAOZ580_03735_LATOOLJA_000_005","Please, try to keep all three from harm. Maybe <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> act as healer, yes?"
+56,"TEXT_JOBAOZ580_03735_LATOOLJA_000_008","Martyn very irresponsible to take new recruits into hecatoncheir-infested mines. Latool Ja say even cave bats too strong for those novices."
+57,"TEXT_JOBAOZ580_03735_MARTYN_000_010","Where the bloody hells are they? Knowin' those two, they're probably gettin' fleeced by some swindler or another. Ahem."
+58,"TEXT_JOBAOZ580_03735_MARTYN_000_011","Oh, look who it is! Finished sightseein', have we?"
+59,"TEXT_JOBAOZ580_03735_NUTIBABUNTIBA_000_012","Master <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! Since last we met, my blue magic has come on leaps and bounds!"
+60,"TEXT_JOBAOZ580_03735_PYANDIH_000_013","And thanks to our last lesson, I'm better at keeping my enemies on the back foot! Or tentacle. Well, whatever it might be."
+61,"TEXT_JOBAOZ580_03735_MARTYN_000_014","Oi! Don't go gettin' ahead of yourselves. You might have a few new spells and a bit more experience, but if you get complacent, those hecatoncheires'll be grindin' your bones before you can say “Flying Sardine”!"
+62,"TEXT_JOBAOZ580_03735_PYANDIH_000_015","Hmph! I'm no stranger to Copperbell Mines, you know. Hecatoncheires don't scare me!"
+63,"TEXT_JOBAOZ580_03735_NUTIBABUNTIBA_000_016","As this is my first time exploring this particular location, I have been asking other adventurers for advice, checking the layout of the tunnels and so forth. “By failing to prepare, you are preparing to fail,” is my motto! How about you, guildmaster?"
+64,"TEXT_JOBAOZ580_03735_MARTYN_000_017","Well, I can't say I've been there myself, but when you're as proficient in the blue arts as I am, you can sort of...play it by ear, so to speak."
+65,"TEXT_JOBAOZ580_03735_MARTYN_000_018","Say, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, you know anythin' about Copperbell Mines?"
+66,"TEXT_JOBAOZ580_03735_Q1_000_000","What will you say?"
+67,"TEXT_JOBAOZ580_03735_A1_000_001","I've been there more times than you've had hot dinners."
+68,"TEXT_JOBAOZ580_03735_A1_000_002","Every nook and cranny is indelibly etched into my memory."
+69,"TEXT_JOBAOZ580_03735_A1_000_003","..."
+70,"TEXT_JOBAOZ580_03735_MARTYN_000_019","Maybe I should let you take the lead, then. Ha ha! Only joking! We all know who the leader is. Blue mages, with me!"
+71,"TEXT_JOBAOZ580_03735_MARTYN_000_020","You're pullin' my leg, ain't you? So, the only one who knows nothin' about the place...is me? Hmph! I've never been the sort to let a complete lack of prior knowledge stop me from doin' anythin' before, and I ain't about to start now. Blue mages, with me!"
+72,"TEXT_JOBAOZ580_03735_NUTIBABUNTIBA_000_026","I wasn't expecting to be attacked before even setting foot in the mine, let alone by a...voidsent? I assume that's what it is. Was, rather."
+73,"TEXT_JOBAOZ580_03735_PYANDIH_000_027","I don't know what it is, but I'm glad it's dead. Wait. Did it just twitch, or am I imagining things?"
+74,"TEXT_JOBAOZ580_03735_MARTYN_000_030","We were waitin' for you to show up when this bloody horrible flyin' bastard came out of nowhere! Even though it caught us off guard, it was no match for the combined might of our blue magic!"
+75,"TEXT_JOBAOZ580_03735_MARTYN_000_031","There was another one that went flappin' off somewhere, but we're too knackered to go after it. Seein' as you missed all the fun, I'm volunteerin' you to go and look for it. And be quick about it! All hells'll break loose if that thing reaches Horizon."
+76,"TEXT_JOBAOZ580_03735_MARTYN_000_036","I need you to track down and kill that voidsent before it gets away!"
+77,"TEXT_JOBAOZ580_03735_NUTIBABUNTIBA_000_037","Voidsent don't simply appear out of thin air. Someone or <hex:021A020203>something<hex:021A020103> must be behind this..."
+78,"TEXT_JOBAOZ580_03735_PYANDIH_000_038","It took all three of us to kill the first voidsent, and then you show up and take down one by yourself! Seems like we've got a lot to learn, including the guildmaster..."
+79,"TEXT_JOBAOZ580_03735_MARTYN_000_040","Nicely done, mate. Now that I think of it, I've seen creatures like this before. They're used in the Masked Carnivale!"
+80,"TEXT_JOBAOZ580_03735_MARTYN_000_041","Which raises the question: what are they doin' here?"
+81,"TEXT_JOBAOZ580_03735_FYRGEISS_000_042","(-???-)They went this way! Quickly!"
+82,"TEXT_JOBAOZ580_03735_MARTYN_000_043","Fyrgeiss! And his son, Zirnfrieg...or was that Siegberk? Bah, whatever his bloody name is!"
+83,"TEXT_JOBAOZ580_03735_FYRGEISS_000_044","Azuro? You and your little friends managed to slay the escaped voidsent? It seems you have spared our blushes."
+84,"TEXT_JOBAOZ580_03735_MARTYN_000_045","Sod all that, just tell us what's goin' on!"
+85,"TEXT_JOBAOZ580_03735_ROYSE_000_046","(-???-)You heard him, Fyrgeiss!"
+86,"TEXT_JOBAOZ580_03735_MARTYN_000_047","Royse as well? Bloody hells, they're all comin' out of the woodwork now."
+87,"TEXT_JOBAOZ580_03735_ROYSE_000_048","I'm lucky your underlings are so loose-lipped, or I would never have tracked you down. You think you can make off with my voidsent and get away with it!? Investor or not, you've crossed the line."
+88,"TEXT_JOBAOZ580_03735_FYRGEISS_000_049","Now, now. I simply borrowed a couple in an attempt to quell the hecatoncheir uprising taking place on Concern property."
+89,"TEXT_JOBAOZ580_03735_FYRGEISS_000_050","I am sure you will be pleased to hear that your vodorigas proved to be most effective! Veritable living weapons! You see, the task seemed a waste of the Stone Torches' talents, and hiring adventurers can be awfully costly."
+90,"TEXT_JOBAOZ580_03735_FYRGEISS_000_051","As a matter of fact, I am considering deploying voidsent elsewhere to protect my interests from roaming beasts, Amalj'aa marauders, and the like, leaving my son and his men free to return to Ul'dah, where their talents could be put to better use."
+91,"TEXT_JOBAOZ580_03735_ROYSE_000_052","So that's what this is all about. It was just a ploy to get your hands on my pit fiends, wasn't it? This is a breach of our agreement!"
+92,"TEXT_JOBAOZ580_03735_FYRGEISS_000_053","Breach? With the vast amount I have invested into it, the Celestium is as good as mine."
+93,"TEXT_JOBAOZ580_03735_FYRGEISS_000_054","I have the right to run it in any way I please. Every last mammet, voidsent, and wild beast in that menagerie belongs to me now."
+94,"TEXT_JOBAOZ580_03735_ROYSE_000_055","I allowed you to invest in the Celestium, not to buy it from under my nose!"
+95,"TEXT_JOBAOZ580_03735_FYRGEISS_000_056","If you think I am the sort to stand back and wait for the coin to come trickling in, you are <hex:021A020203>very<hex:021A020103> much mistaken!"
+96,"TEXT_JOBAOZ580_03735_ROYSE_000_057","I didn't get where I am today by letting blustering fools with more gil than sense push me around. The Celestium is mine, you hear me!?"
+97,"TEXT_JOBAOZ580_03735_FYRGEISS_000_058","Watch your mouth, you second-rate hack!"
+98,"TEXT_JOBAOZ580_03735_ROYSE_000_059","Oh, is that so? Maybe I should ask your friends at the Syndicate who <hex:021A020203>they<hex:021A020103> think is second-rate?"
+99,"TEXT_JOBAOZ580_03735_FYRGEISS_000_060","I'll drive you out of Ul'dah─nay, Eorzea! Everything you own will be mine! Mine!"
+100,"TEXT_JOBAOZ580_03735_MARTYN_000_061","Might I make a suggestion? If you're looking for a substitute for the Stone Torches, perhaps the Blue Mages' Guild is a more...manageable alternative to rampaging beasts."
+101,"TEXT_JOBAOZ580_03735_MARTYN_000_062","Each of our mages comes fully equipped with a comprehensive selection of offensive, defensive, and healing spells, perfect for every occasion."
+102,"TEXT_JOBAOZ580_03735_FYRGEISS_000_063","Every occasion? Come now, we all know that he who embraces too much has a weak grasp. I have no need of pathetic jesters in silly costumes."
+103,"TEXT_JOBAOZ580_03735_MARTYN_000_064","Oi, watch it, grandad! We'll see who's pathetic when I put your boy on his arse!"
+104,"TEXT_JOBAOZ580_03735_MARTYN_000_065","In fact, it seems to me that we could settle this whole dispute with a friendly wager."
+105,"TEXT_JOBAOZ580_03735_MARTYN_000_066","If I lose, the Celestium goes to you, includin' the whole menagerie. You can use all of those voidsent, along with the rest of the pit fiends, however you like."
+106,"TEXT_JOBAOZ580_03735_MARTYN_000_067","But if I win, the Celestium stays with Royse. You'll give up any thought of usin' voidsent and employ the Blue Mages' Guild to defend your property instead."
+107,"TEXT_JOBAOZ580_03735_ROYSE_000_068","You bloody idiot! What do you think you're doing!?"
+108,"TEXT_JOBAOZ580_03735_FYRGEISS_000_069","You have spirit, I'll give you that. Very well, I accept."
+109,"TEXT_JOBAOZ580_03735_ZIRNBERK_000_070","I cannot decide which I am looking forward to most; adding the Celestium to my family's ever-growing collection of businesses, or utterly humiliating you in front of your beloved audience. I will see you in the arena, clown."
+110,"TEXT_JOBAOZ580_03735_MARTYN_000_071","Now that's settled, we might as well get goin'. Thanks to the voidsent, it looks like we won't be huntin' hecatoncheires after all."
+111,"TEXT_JOBAOZ580_03735_MARTYN_000_072","Nutiba, P'yandih, I don't think I'll be able to give any more lessons until after my match, so perhaps you should go and learn some new spells or somethin'. <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> and I will head back to the guild."
+112,"TEXT_JOBAOZ580_03735_FYRGEISS_000_076","That blue-garbed friend of yours certainly has a big mouth when it suits him. His little outburst will cost Royse dearly, you mark my words."
+113,"TEXT_JOBAOZ580_03735_ZIRNBERK_000_077","You must be Azuro the Second, yes? I daresay you are a lot more capable than that cretin you insist on following around."
+114,"TEXT_JOBAOZ580_03735_ROYSE_000_078","<sigh> I can't believe this..."
+115,"TEXT_JOBAOZ580_03735_LATOOLJA_000_079","Latool Ja hear what happened. No wonder Royse look so distraught."
+116,"TEXT_JOBAOZ580_03735_MARTYN_000_080","Ha! Nothin' like raisin' the stakes to make a fight more interestin', wouldn't you say?"
+117,"TEXT_JOBAOZ580_03735_ROYSE_000_081","As much as the very idea of it brings bile to the back of my mouth, the future of the Celestium is in your hands, Martyn. If you lose to Siegfried, I'll throw you to the behemoths!"
+118,"TEXT_JOBAOZ580_03735_MARTYN_000_082","Fear not! I, the Great Azuro, swear to defend your arena with my very life!"
+119,"TEXT_JOBAOZ580_03735_MARTYN_000_083","Like I have a bloody choice... This is another fine mess I've talked myself into. Anyway, like I said before, I'll need you to be ready to stand in for me, on the off chance I eat some dodgy dragon peppers or somethin' and am “unavoidably detained,” if you catch my meanin'."
+120,"TEXT_JOBAOZ580_03735_MARTYN_000_084","Oh, and there's one more spell I want you to learn. It's called Frog Legs, and while it might not be all that useful in the arena, you'll be able to put it to use once we're gettin' paid to protect Amajina & Sons' mines."
+121,"TEXT_JOBAOZ580_03735_MARTYN_000_085","As Azuro the Second, I'm expectin' great things from you. Now go, make your guildmaster proud!"

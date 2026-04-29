@@ -2,133 +2,133 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_JOBBRD501_01713_SEQ_00,南部林區石場水車西面的讓泰爾想向冒險者提一個建議。
-1,TEXT_JOBBRD501_01713_SEQ_01,前情回顧：<hex:02100103>冒險者與居住在黑衣森林的吟遊詩人讓泰爾相遇了。他放不下過去自己導致的慘劇，陷入深深的自責中。在冒險者的幫助下，讓泰爾不再被過去可怕的記憶所困，重新振作了起來。他為了培養自己的繼承者，決定在神勇隊教授弓術。<hex:02100103>　　　　　　　　　　　　*　*　*<hex:02100103>和讓泰爾進行了交談。他想幫助冒險者在吟遊詩人之路上更進一步。和格里達尼亞神勇隊司令部門前的讓泰爾談談。
-2,TEXT_JOBBRD501_01713_SEQ_02,讓泰爾向冒險者介紹了雙蛇黨槍術師桑松正牙尉。桑松計劃建立一個有吟遊詩人參與的特殊部隊。為了出席與反對此計劃的神勇隊之間進行的會談，和格里達尼亞神勇隊司令室的讓泰爾談談。
-3,TEXT_JOBBRD501_01713_SEQ_03,和讓泰爾一起出席了會談。桑松想要踏上尋找傳說中的戰歌「終焉的戰歌」的旅途。神勇隊金牛師團長為了測試桑松的實力命令他去討伐<hex:02280FFF09>BNpcName<hex:F20FEA0103>。和神勇隊司令室的讓泰爾談談。
-4,TEXT_JOBBRD501_01713_SEQ_04,讓泰爾委託冒險者助桑松一臂之力。和東部林區阿馬里賽哨塔的桑松談談。
-5,TEXT_JOBBRD501_01713_SEQ_05,在和桑松交談之時<hex:02280FFF09>BNpcName<hex:F20FEA0103>突然襲來。在阿馬里賽哨塔救助桑松。
-6,TEXT_JOBBRD501_01713_SEQ_06,救助了桑松。魔物再次出現了，但神勇隊的吟遊詩人吉德洛現身打倒了魔物。據吉德洛所說，他受命同桑松一起去尋找「終焉的戰歌」，所以前來參加試煉。和阿馬里賽哨塔的讓泰爾談談。
-7,TEXT_JOBBRD501_01713_SEQ_07,和讓泰爾進行了交談。返回神勇隊司令部，和桑松談談。
-8,TEXT_JOBBRD501_01713_SEQ_08,桑松因平安無事地完成試煉歸來而得到了踏上旅途的許可。和伊修加德基礎層乙太之光廣場的桑松談談。
-9,TEXT_JOBBRD501_01713_SEQ_09,桑松似乎要在伊修加德收集情報。為了對抗更加凶暴的魔物，繼續磨練自己的實力。<hex:02100103><hex:02100103>※吟遊詩人的等級達到52級以上時，可以從伊修加德乙太之光廣場的桑松那裡領取下一個吟遊詩人任務。
-10,TEXT_JOBBRD501_01713_SEQ_10,
-11,TEXT_JOBBRD501_01713_SEQ_11,
-12,TEXT_JOBBRD501_01713_SEQ_12,
-13,TEXT_JOBBRD501_01713_SEQ_13,
-14,TEXT_JOBBRD501_01713_SEQ_14,
-15,TEXT_JOBBRD501_01713_SEQ_15,
-16,TEXT_JOBBRD501_01713_SEQ_16,
-17,TEXT_JOBBRD501_01713_SEQ_17,
-18,TEXT_JOBBRD501_01713_SEQ_18,
-19,TEXT_JOBBRD501_01713_SEQ_19,
-20,TEXT_JOBBRD501_01713_SEQ_20,
-21,TEXT_JOBBRD501_01713_SEQ_21,
-22,TEXT_JOBBRD501_01713_SEQ_22,
-23,TEXT_JOBBRD501_01713_SEQ_23,
-24,TEXT_JOBBRD501_01713_TODO_00,和神勇隊司令部附近的讓泰爾對話
-25,TEXT_JOBBRD501_01713_TODO_01,和神勇隊司令室的讓泰爾對話
-26,TEXT_JOBBRD501_01713_TODO_02,再次和神勇隊司令室的讓泰爾對話
-27,TEXT_JOBBRD501_01713_TODO_03,和阿馬里賽哨塔的桑松對話
-28,TEXT_JOBBRD501_01713_TODO_04,救助桑松
-29,TEXT_JOBBRD501_01713_TODO_05,和阿馬里賽哨塔的讓泰爾對話
-30,TEXT_JOBBRD501_01713_TODO_06,和神勇隊司令部附近的桑松對話
-31,TEXT_JOBBRD501_01713_TODO_07,和伊修加德的桑松對話
-32,TEXT_JOBBRD501_01713_TODO_08,
-33,TEXT_JOBBRD501_01713_TODO_09,
-34,TEXT_JOBBRD501_01713_TODO_10,
-35,TEXT_JOBBRD501_01713_TODO_11,
-36,TEXT_JOBBRD501_01713_TODO_12,
-37,TEXT_JOBBRD501_01713_TODO_13,
-38,TEXT_JOBBRD501_01713_TODO_14,
-39,TEXT_JOBBRD501_01713_TODO_15,
-40,TEXT_JOBBRD501_01713_TODO_16,
-41,TEXT_JOBBRD501_01713_TODO_17,
-42,TEXT_JOBBRD501_01713_TODO_18,
-43,TEXT_JOBBRD501_01713_TODO_19,
-44,TEXT_JOBBRD501_01713_TODO_20,
-45,TEXT_JOBBRD501_01713_TODO_21,
-46,TEXT_JOBBRD501_01713_TODO_22,
-47,TEXT_JOBBRD501_01713_TODO_23,
-48,TEXT_JOBBRD501_01713_JEHANTEL_000_000,呀，你來了啊……<hex:02100103>現在我正在為神勇隊指導弓術……<hex:02100103>我在那裡學到了不少東西，一直想跟你分享一下。
-49,TEXT_JOBBRD501_01713_JEHANTEL_000_001,我通過和年輕的弓箭手們一起行動，<hex:02100103>心中翻湧起了為他們加油鼓勵的信念，<hex:02100103>我所吟唱的戰歌中所蘊含的力量也愈發強大……
-50,TEXT_JOBBRD501_01713_JEHANTEL_000_002,你想不想讓自己的實力更上一層樓？<hex:02100103>如果你有這個想法的話，就到神勇隊司令部前，<hex:02100103>我想為你介紹一個人……
-51,TEXT_JOBBRD501_01713_JEHANTEL_000_005,你想不想讓自己的實力更上一層樓？<hex:02100103>如果你有這個想法的話，就到神勇隊司令部前，<hex:02100103>我想為你介紹一個人……
-52,TEXT_JOBBRD501_01713_SANSON_000_006,你就是<hex:022903EB0203>吧……<hex:02100103>看起來真是一位出色的吟遊詩人！
-53,TEXT_JOBBRD501_01713_JEHANTEL_000_010,他是隸屬於雙蛇黨的桑松正牙尉……<hex:02100103>雖然他是一名槍術師，但卻深信著戰歌的力量。<hex:02100103>他正試圖組建一支編入吟遊詩人的新部隊。
-54,TEXT_JOBBRD501_01713_SANSON_000_011,很高興見到你。<hex:02100103>我常聽讓泰爾說起你。
-55,TEXT_JOBBRD501_01713_SANSON_000_012,戰歌能提高夥伴的能力，如果能靈活運用它的力量，<hex:02100103>應該就能發揮出比原有部隊更強的戰鬥力……<hex:02100103><hex:022903EB0203>，你也是這麼認為的吧？
-56,TEXT_JOBBRD501_01713_SANSON_000_013,……於是我向擁有眾多弓箭手的神勇隊尋求了幫助，<hex:02100103>但遭到了他們的強烈反對。<hex:02100103>他們還是認為弓術至上，這種想法牢牢扎根於他們心中……
-57,TEXT_JOBBRD501_01713_SANSON_000_014,為了想方設法說服那些反對派，<hex:02100103>我一直在對古老的文獻以及莫古力一族進行調查。<hex:02100103>然後我找到了……將戰爭引領至終焉的傳說中的戰歌！
-58,TEXT_JOBBRD501_01713_SANSON_000_015,那首戰歌的名字就叫「終焉的戰歌」……<hex:02100103>一會我要去和神勇隊的幹部進行會談，<hex:02100103>我要把有關這首戰歌的發現作為條件，將他們說服！
-59,TEXT_JOBBRD501_01713_SANSON_000_016,哎呀，會談的時間就要到了……<hex:02100103>那我就先告辭了！
-60,TEXT_JOBBRD501_01713_JEHANTEL_000_017,哎，他有點太著急了……<hex:02100103>我的話還沒說完就走了。
-61,TEXT_JOBBRD501_01713_JEHANTEL_000_018,不管了，我們也去參加會談吧。<hex:02100103>這次的會談多少也會影響到吟遊詩人今後的發展。<hex:02100103>我們快去神勇隊司令室吧。
-62,TEXT_JOBBRD501_01713_SUBLEADER01713_000_020,……你也是吟遊詩人嗎？
-63,TEXT_JOBBRD501_01713_SANSON_000_021,<hex:022903EB0203>！<hex:02100103>你也來參加會談了啊！
-64,TEXT_JOBBRD501_01713_LEWIN_000_022,這不是<hex:022903EB0203>嗎！<hex:02100103>這樣啊，你也是吟遊詩人啊……
-65,TEXT_JOBBRD501_01713_DOORMANSINYU_000_030,您是來參加會談的吧，讓泰爾大人已經告知過我了。<hex:02100103>您要進入神勇隊司令室嗎？
-66,TEXT_JOBBRD501_01713_Q1_000_000,要前往神勇隊司令室嗎？
-67,TEXT_JOBBRD501_01713_A1_000_000,是
-68,TEXT_JOBBRD501_01713_A1_000_001,否
-69,TEXT_JOBBRD501_01713_JEHANTEL_000_040,果然還是無法達成共識啊……<hex:02100103>神勇隊似乎並不想協助建立新的部隊。
-70,TEXT_JOBBRD501_01713_SANSON_000_041,……所以要是能將終焉的戰歌運用在部隊中的話，<hex:02100103>我相信你們一定會改變想法的！
-71,TEXT_JOBBRD501_01713_LEWIN_000_042,沒錯，我對你發現的戰歌十分感興趣……
-72,TEXT_JOBBRD501_01713_SANSON_000_043,根據文獻記載，<hex:02100103>終焉的戰歌流傳在遙遠的庫爾札斯西部地區。<hex:02100103>我要出發去尋找那首戰歌！
-73,TEXT_JOBBRD501_01713_SANSON_000_044,我已經通過雙蛇黨向神勇隊提出了申請，<hex:02100103>請求你們為我派遣能夠一同出發尋找戰歌的吟遊詩人……
-74,TEXT_JOBBRD501_01713_SUBLEADER01713_000_045,我們正在選擇適合的人選……<hex:02100103>不過神勇隊之中習得戰歌的人並不多。<hex:02100103>因為讓泰爾先生才剛剛開始指導他們。
-75,TEXT_JOBBRD501_01713_SUBLEADER01713_000_046,神勇隊的每一個人對我們來說都是寶貴的人才。<hex:02100103>既然你要率領調查隊踏上如此艱險的旅途，<hex:02100103>我希望你能向我證明你擁有足夠的實力帶領調查隊平安歸來……
-76,TEXT_JOBBRD501_01713_SANSON_000_047,……您、您的意思是？
-77,TEXT_JOBBRD501_01713_SUBLEADER01713_000_048,其實我就是想試試你的身手。<hex:02100103>希望你能帶領我學習了戰歌的部下，<hex:02100103>去討伐威脅森林的魔物「<hex:02280FFF09>BNpcName<hex:F20FEA0103>」。
-78,TEXT_JOBBRD501_01713_SUBLEADER01713_000_049,當然，我會盡量派出擁有相當實力的吟遊詩人。<hex:02100103>魔物就在東部林區的阿馬里賽哨塔出沒……<hex:02100103>我很期待你的活躍表現。
-79,TEXT_JOBBRD501_01713_SANSON_000_055,那個師團長明明就是不相信吟遊詩人的力量……
-80,TEXT_JOBBRD501_01713_LEWIN_000_056,他可能是過於嚴格了一些，但神勇隊現在的確人手不足。<hex:02100103>加油吧，預祝你們旗開得勝……
-81,TEXT_JOBBRD501_01713_JEHANTEL_000_060,你知道我想說什麼吧？<hex:02100103>我希望你也去參加桑松的調查隊，助他一臂之力。
-82,TEXT_JOBBRD501_01713_JEHANTEL_000_061,作為吟遊詩人，應該沒有人能超越你的實力了……<hex:02100103>而且，在尋求戰歌的同時你也會得到成長。<hex:02100103>為了達到更高的高度，我希望你去努力鍛鍊自己。
-83,TEXT_JOBBRD501_01713_JEHANTEL_000_062,但是在出發之前必須完成試煉。<hex:02100103>我懷疑那金牛師團長說不定都不會派吟遊詩人過來……<hex:02100103>你就去協助桑松討伐<hex:02280FFF09>BNpcName<hex:F20FEA0103>吧。
-84,TEXT_JOBBRD501_01713_SANSON_000_063,這真是太感謝你了！<hex:02100103><hex:02280FFF09>BNpcName<hex:F20FEA0103>可是個非常可怕的怪物……
-85,TEXT_JOBBRD501_01713_SANSON_000_064,有你來協助我就安心了！<hex:02100103>那麼我們就在東部林區的阿馬里賽哨塔匯合吧。
-86,TEXT_JOBBRD501_01713_SANSON_000_070,那傢伙竟然突然就攻了過來……<hex:02100103>來、來了！！
-87,TEXT_JOBBRD501_01713_GUYDELOT_000_500,(-？？？？-)……那邊的吟遊詩人，你就是<hex:022903EB0203>吧。
-88,TEXT_JOBBRD501_01713_GUYDELOT_100_500,(-謎之青年-)你……還挺厲害。
-89,TEXT_JOBBRD501_01713_PUKNOPOKI_000_501,這種事莫古早就知道了庫啵！<hex:02100103>把吟遊詩人的護身符交給<hex:022903EB0203>的就是莫古庫啵！
-90,TEXT_JOBBRD501_01713_JEHANTEL_000_502,還、還以為是誰呢……原來是吉德洛啊！<hex:02100103>這可是為參加調查任務的人準備的試煉，<hex:02100103>你怎麼能過來摻一腳！
-91,TEXT_JOBBRD501_01713_GUYDELOT_000_503,(-被稱為吉德洛的青年-)喲，老爺子你也在啊。<hex:02100103>我在試煉裡搭把手也沒什麼不可以的吧？<hex:02100103>……我可是奉命加入了調查隊啊。
-92,TEXT_JOBBRD501_01713_PUKNOPOKI_000_504,是真的庫啵，剛才師團長的確任命了他庫啵！<hex:02100103>可是吉德洛卻說「好麻煩，試煉失敗了才好呢」庫啵！
-93,TEXT_JOBBRD501_01713_GUYDELOT_000_505,(-被稱為吉德洛的青年-)喂，你這白毛球……淨說些多餘的話……<hex:02100103>在見識到即將成為我的旅伴的吟遊詩人的實力後，<hex:02100103>我的想法就改變了。
-94,TEXT_JOBBRD501_01713_GUYDELOT_000_506,我是神勇隊金牛師團的吟遊詩人吉德洛。<hex:02100103>我對地位、名譽，還有那什麼終焉的戰歌統統沒興趣……<hex:02100103>但唯獨對你這個厲害的吟遊詩人有點興趣。
-95,TEXT_JOBBRD501_01713_GUYDELOT_000_507,如果能離開森林跟你一起踏上旅途的話倒也不賴。<hex:02100103>作為吟遊詩人，我們可以互相切磋提高水平。
-96,TEXT_JOBBRD501_01713_JEHANTEL_000_508,嚯……這還真是有意思。<hex:02100103>我教導的神勇隊士兵之中他的詩歌天分是最棒的。<hex:02100103>他的能力我可以保證，除此之外就……
-97,TEXT_JOBBRD501_01713_SANSON_000_509,能保證的……只有能力啊。
-98,TEXT_JOBBRD501_01713_SANSON_000_511,我聽說過你的傳聞……神勇隊的「飛箭吉德洛」。<hex:02100103>別人都說你是個「實力不凡，性格糟糕的叛逆青年」！！
-99,TEXT_JOBBRD501_01713_SANSON_000_512,漫長旅途中最重要的就是相處融洽，可偏偏派來個如此叛逆的傢伙！<hex:02100103>哎，我的夢要破碎了……終焉的戰歌也將化為泡影……
-100,TEXT_JOBBRD501_01713_GUYDELOT_000_513,這傢伙怎麼回事，竟然當著我的面說我的壞話！<hex:02100103>老爺子，非得帶著這傢伙去嗎？！<hex:02100103>這一路有我和<hex:022903EB0203>就足夠了！
-101,TEXT_JOBBRD501_01713_SANSON_000_514,我說你啊……離了我你們怎麼可能去得成！<hex:02100103>你以為是誰想出的這個計劃？！是誰？！
-102,TEXT_JOBBRD501_01713_SANSON_000_515,……真是沒轍，我們先回去報告吧。<hex:02100103><hex:022903EB0203>，你也來神勇隊司令部一趟。<hex:02100103>我們之後再見。
-103,TEXT_JOBBRD501_01713_PUKNOPOKI_000_080,<hex:022903EB0203>，好久不見庫啵！<hex:02100103>好想再聽聽你的歌聲啊庫啵。
-104,TEXT_JOBBRD501_01713_JEHANTEL_000_085,那個吉德洛也是我的弟子。<hex:02100103>雖然態度比較差，但他也是神勇隊的一員……
-105,TEXT_JOBBRD501_01713_JEHANTEL_000_086,其實我本來也打算讓你見見吉德洛的……<hex:02100103>我委託了普庫諾·珀奇去找他，但沒想到他會在這裡出現。<hex:02100103>金牛師團長還真是選了個有意思的人……
-106,TEXT_JOBBRD501_01713_JEHANTEL_000_088,不過桑松跟他完全合不來啊……<hex:02100103>兩個人個性正好相反，極易發生矛盾……
-107,TEXT_JOBBRD501_01713_JEHANTEL_000_089,你將和性格迥異的同伴們一起踏上旅途，<hex:02100103>這一路也許會很艱辛，但作為吟遊詩人的你一定會有所成長。<hex:02100103>那兩個人就拜託你了……
-108,TEXT_JOBBRD501_01713_JEHANTEL_000_090,……你就在那兩個人開始吵架之前趕緊去匯合吧。<hex:02100103>回到格里達尼亞的神勇隊司令部去。
-109,TEXT_JOBBRD501_01713_PUKNOPOKI_000_100,氣氛好像很緊張庫啵……
-110,TEXT_JOBBRD501_01713_JEHANTEL_000_101,這旅途勢必不會太平啊……<hex:02100103>不管怎樣，至少證明了他們是經受得住考驗的人才……
-111,TEXT_JOBBRD501_01713_GUYDELOT_000_102,這個叫桑松的傢伙啊，<hex:02100103>就連來這裡的路上都一直叨叨個不停，煩死了……<hex:02100103>我說，還是別帶這傢伙去了吧。
-112,TEXT_JOBBRD501_01713_SUBLEADER01713_000_103,……你們竟然平安無事地回來了啊。
-113,TEXT_JOBBRD501_01713_SANSON_000_110,如您所見，我們順利地討伐了魔物。<hex:02100103>那麼我們可以出發去尋找終焉的戰歌了吧。<hex:02100103>還是說您還有什麼不滿意的地方？
-114,TEXT_JOBBRD501_01713_SUBLEADER01713_000_111,不滿？你想太多了……<hex:02100103>吉德洛一定會幫上你們的忙的。<hex:02100103>我就期待著你們的好消息了……
-115,TEXT_JOBBRD501_01713_SANSON_000_112,把這性格糟糕的傢伙硬塞給我，<hex:02100103>還假惺惺地說著什麼期待我的好消息……
-116,TEXT_JOBBRD501_01713_SANSON_000_120,總之我們這下子是可以出發了。<hex:02100103>我已經通過雙蛇黨申請獲得了進入伊修加德的許可。<hex:02100103>我們就盡快前往該國吧。
-117,TEXT_JOBBRD501_01713_SANSON_000_130,總之我們這下子是可以出發了。<hex:02100103>萬幸的是現在要進入伊修加德已經沒有那麼困難了。<hex:02100103>我們就盡快前往該國吧。
-118,TEXT_JOBBRD501_01713_SANSON_000_140,我們這次行動可以提高吟遊詩人在國內的地位，<hex:02100103>是為吟遊詩人開創嶄新的未來而邁出的第一步。<hex:02100103>我們一定要找到終焉的戰歌！
-119,TEXT_JOBBRD501_01713_GUYDELOT_000_141,……真是個不解風情的傢伙。
-120,TEXT_JOBBRD501_01713_PUKNOPOKI_000_142,庫啵！雖然會很辛苦但你還是要加油啊庫啵！<hex:02100103>努力完成任務，3個人都要平安回來哦庫啵！！
-121,TEXT_JOBBRD501_01713_JEHANTEL_000_143,首先是伊修加德嗎……<hex:02100103>在你們的旅途中究竟會誕生出怎樣的詩歌呢，<hex:02100103>真是充滿期待，我會等著你們的……
-122,TEXT_JOBBRD501_01713_PUKNOPOKI_000_145,庫啵！雖然會很辛苦但你還是要加油啊庫啵！<hex:02100103>努力完成任務，3個人都要平安回來哦庫啵！！
-123,TEXT_JOBBRD501_01713_JEHANTEL_000_146,首先是伊修加德嗎……<hex:02100103>在你們的旅途中究竟會誕生出怎樣的詩歌呢，<hex:02100103>真是充滿期待，我會等著你們的……
-124,TEXT_JOBBRD501_01713_GUYDELOT_000_147,空氣與景色就像被凍住了似的……<hex:02100103>明明這裡和格里達尼亞比起來離天空更近，<hex:02100103>可卻如此陰鬱，讓人喘不過氣……
-125,TEXT_JOBBRD501_01713_SANSON_000_151,嗯……我先在這個城市裡收集些情報。<hex:02100103><hex:022903EB0203>，你是我們旅途中不可或缺的重要戰力……<hex:02100103>為了對付凶暴的魔物，請你繼續努力鍛鍊自己的實力。
-126,TEXT_JOBBRD501_01713_GUYDELOT_000_152,那傢伙在紙上寫什麼呢……<hex:02100103>第一次來這個地方竟然不去四處轉轉感受一下，真夠可以的。<hex:02100103>淨做些不解風情的事。
-127,TEXT_JOBBRD501_01713_GUYDELOT_000_153,現在我們必須要做的就是用心去感受這座城市！<hex:02100103>為此我先去趟酒館啊！
-128,TEXT_JOBBRD501_01713_SYSTEM_000_155,開啟了新的「吟遊詩人」任務。<hex:02100103>吟遊詩人的等級達到52級以上時，<hex:02100103>可以從伊修加德的桑松那裡領取下一個吟遊詩人任務。
-129,TEXT_JOBBRD501_01713_SYSTEM_000_156,可以在已完成的任務日誌中<hex:02100103>確認下一個吟遊詩人特職任務的領取條件。
+0,"TEXT_JOBBRD501_01713_SEQ_00","Jehantel would help you rise to greater heights in your art."
+1,"TEXT_JOBBRD501_01713_SEQ_01","Jehantel tells you of his recent endeavors, namely training the members of the Gods' Quiver. By taking an interest in the development of the younger generation, he feels that his songs have gained in power, and believes that yours could, too. If you have a mind to rise to new heights as a bard, accept Jehantel's invitation and go to Quiver's Hold, where you will be introduced to his acquaintance."
+2,"TEXT_JOBBRD501_01713_SEQ_02","Arriving at Quiver's Hold, you are introduced to a man named Sanson, a captain of the Order of the Twin Adder. Though he is a lancer by training, Sanson believes in the power of song, and is seeking to establish a new unit which incorporates bards. To his frustration, however, thus far the leaders of the Gods' Quiver have not been amenable to his requests for cooperation. Presently, he will meet with them again, and hopes to sway them with the existence of a legendary song said to hold the power to bring battles to a decisive end: the Ballad of Oblivion. Make your way to the Seat of the First Bow and be present for the meeting."
+3,"TEXT_JOBBRD501_01713_SEQ_03","The meeting does not proceed as well as Sanson had hoped. The Gods' Quiver are still unwilling to lend their cooperation, though Lewin allows that he is intrigued by the Ballad of Oblivion. Sanson declares his intent to go on a journey to find this song, but even this endeavor is met with opposition. The leader of the Gold Bull unit─a man who does not think highly of bards─assigns Sanson a trial to test his fitness to embark on his proposed expedition: culling enraged treants in the East Shroud. In this manner, the meeting comes to an end. Speak with Jehantel to hear his thoughts on the trial."
+4,"TEXT_JOBBRD501_01713_SEQ_04","Dubious as to whether the Gods' Quiver actually mean to dispatch a bard, Jehantel bids you aid Sanson in the trial. Make your way to the East Shroud and join the serpent captain at Amarissaix's Spire."
+5,"TEXT_JOBBRD501_01713_SEQ_05","You arrive to find Sanson on his knees and surrounded by enraged treants. Vanquish the creatures and assist your companion."
+6,"TEXT_JOBBRD501_01713_SEQ_06","You defeat the treants and help Sanson to his feet. At that moment, you are almost taken unaware by yet another creature, but before it can do you harm, a mysterious archer appears and puts it down with a barrage of arrows. Introducing himself as Guydelot, the cocksure fellow is revealed to be the bard assigned to your expedition and one of Jehantel's students. Yet in spite of Guydelot's ability, Sanson is unconvinced of his suitability, and makes his displeasure towards the man abundantly clear. Speak with Jehantel to learn what he thinks of this rocky introduction."
+7,"TEXT_JOBBRD501_01713_SEQ_07","Jehantel does not mince words: watching over the conflict between Sanson and Guydelot will be a burden upon you. By the same token, however, he believes that the experience will help you to grow as a bard. Make your way back to Quiver's Hold and join Sanson as he reports the success of his trial."
+8,"TEXT_JOBBRD501_01713_SEQ_08","With the trial's success, Sanson receives official permission to proceed with the expedition. So it is that your journey to find the Ballad of Oblivion begins. For the first leg, make your way to Ishgard, and rejoin your companions at the aetheryte plaza."
+9,"TEXT_JOBBRD501_01713_SEQ_09","Upon arriving in Ishgard, Sanson declares that he will begin by making inquiries. He bids you rest and recover your strength, for it will most certainly be called upon as the journey unfolds.<hex:02100103><hex:02100103>※The next bard quest will be available from Sanson upon reaching level 52."
+10,"TEXT_JOBBRD501_01713_SEQ_10",""
+11,"TEXT_JOBBRD501_01713_SEQ_11",""
+12,"TEXT_JOBBRD501_01713_SEQ_12",""
+13,"TEXT_JOBBRD501_01713_SEQ_13",""
+14,"TEXT_JOBBRD501_01713_SEQ_14",""
+15,"TEXT_JOBBRD501_01713_SEQ_15",""
+16,"TEXT_JOBBRD501_01713_SEQ_16",""
+17,"TEXT_JOBBRD501_01713_SEQ_17",""
+18,"TEXT_JOBBRD501_01713_SEQ_18",""
+19,"TEXT_JOBBRD501_01713_SEQ_19",""
+20,"TEXT_JOBBRD501_01713_SEQ_20",""
+21,"TEXT_JOBBRD501_01713_SEQ_21",""
+22,"TEXT_JOBBRD501_01713_SEQ_22",""
+23,"TEXT_JOBBRD501_01713_SEQ_23",""
+24,"TEXT_JOBBRD501_01713_TODO_00","Speak with Jehantel at Quiver's Hold."
+25,"TEXT_JOBBRD501_01713_TODO_01","Speak with Jehantel at the Seat of the First Bow."
+26,"TEXT_JOBBRD501_01713_TODO_02","Speak with Jehantel."
+27,"TEXT_JOBBRD501_01713_TODO_03","Speak with Sanson at Amarissaix's Spire."
+28,"TEXT_JOBBRD501_01713_TODO_04","Assist Sanson."
+29,"TEXT_JOBBRD501_01713_TODO_05","Speak with Jehantel at Amarissaix's Spire."
+30,"TEXT_JOBBRD501_01713_TODO_06","Speak with Sanson at Quiver's Hold."
+31,"TEXT_JOBBRD501_01713_TODO_07","Speak with Sanson in Ishgard."
+32,"TEXT_JOBBRD501_01713_TODO_08",""
+33,"TEXT_JOBBRD501_01713_TODO_09",""
+34,"TEXT_JOBBRD501_01713_TODO_10",""
+35,"TEXT_JOBBRD501_01713_TODO_11",""
+36,"TEXT_JOBBRD501_01713_TODO_12",""
+37,"TEXT_JOBBRD501_01713_TODO_13",""
+38,"TEXT_JOBBRD501_01713_TODO_14",""
+39,"TEXT_JOBBRD501_01713_TODO_15",""
+40,"TEXT_JOBBRD501_01713_TODO_16",""
+41,"TEXT_JOBBRD501_01713_TODO_17",""
+42,"TEXT_JOBBRD501_01713_TODO_18",""
+43,"TEXT_JOBBRD501_01713_TODO_19",""
+44,"TEXT_JOBBRD501_01713_TODO_20",""
+45,"TEXT_JOBBRD501_01713_TODO_21",""
+46,"TEXT_JOBBRD501_01713_TODO_22",""
+47,"TEXT_JOBBRD501_01713_TODO_23",""
+48,"TEXT_JOBBRD501_01713_JEHANTEL_000_000","Ah, my dear <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Precisely the <hex:02080FE905FF06>woman<hex:FF04>man<hex:03> I wished to see."
+49,"TEXT_JOBBRD501_01713_JEHANTEL_000_001","You will know that I have been training the members of the Gods' Quiver. Well, the experience has proven most insightful. By taking a keen interest in the development of the younger generation, I feel that my songs have gained in power. And yours could, too, my friend."
+50,"TEXT_JOBBRD501_01713_JEHANTEL_000_002","If you have a mind to rise to new heights within our art, I invite you to come to Quiver's Hold. There is an individual to whom I would introduce you."
+51,"TEXT_JOBBRD501_01713_JEHANTEL_000_005","If you have a mind to rise to new heights within our art, I invite you to come to Quiver's Hold. There is an individual to whom I would introduce you."
+52,"TEXT_JOBBRD501_01713_SANSON_000_006","By the Matron, you're <hex:022903EB0203>! I have heard of all your exploits!"
+53,"TEXT_JOBBRD501_01713_JEHANTEL_000_010","Allow me to introduce you to Sanson, a captain of the Order of the Twin Adder. He is a skilled lancer <hex:021A020203>and<hex:021A020103> a fervent believer in the power of song. As a matter of fact, he now seeks to establish a new unit which incorporates bards."
+54,"TEXT_JOBBRD501_01713_SANSON_000_011","'Tis an honor to finally meet you, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Jehantel often speaks of you, and highly."
+55,"TEXT_JOBBRD501_01713_SANSON_000_012","And as you have heard, I seek to establish a new unit. 'Tis my belief that bards would give our forces a tactical advantage. To that end, I went to the Gods' Quiver to request their cooperation."
+56,"TEXT_JOBBRD501_01713_SANSON_000_013","Alas, they were not receptive to my proposal. Many yet remain skeptical of the power of song, and would sooner spend their time bending the bow than plucking the harp. But I was not deterred."
+57,"TEXT_JOBBRD501_01713_SANSON_000_014","I scoured ancient tomes and reached out to the moogles to find decisive proof of a bard's worth in battle. And I am pleased to say that my efforts have finally yielded fruit: there exists a legendary song that is said to bring a battle to an immediate conclusion!"
+58,"TEXT_JOBBRD501_01713_SANSON_000_015","The Ballad of Oblivion, 'tis called. And on the condition that I find it, I shall convince the leaders of the Gods' Quiver that mine is a worthwhile cause."
+59,"TEXT_JOBBRD501_01713_SANSON_000_016","Speaking of which, the meeting is about to begin. I take my leave of you."
+60,"TEXT_JOBBRD501_01713_JEHANTEL_000_017","He left without giving us the chance to bring up our own business..."
+61,"TEXT_JOBBRD501_01713_JEHANTEL_000_018","Actually, why don't we join Sanson in the meeting? As it pertains to bards, I doubt our presence would be taken amiss. Come, let us go to the Seat of the First Bow."
+62,"TEXT_JOBBRD501_01713_SUBLEADER01713_000_020","Another bard, are you?"
+63,"TEXT_JOBBRD501_01713_SANSON_000_021","You would lend your voice to my cause? I am in your debt!"
+64,"TEXT_JOBBRD501_01713_LEWIN_000_022","Well, if it isn't <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! I did not expect to see you here!"
+65,"TEXT_JOBBRD501_01713_DOORMANSINYU_000_030","Jehantel said that you would come. You may enter."
+66,"TEXT_JOBBRD501_01713_Q1_000_000","Proceed to the Seat of the First Bow?"
+67,"TEXT_JOBBRD501_01713_A1_000_000","Yes"
+68,"TEXT_JOBBRD501_01713_A1_000_001","No"
+69,"TEXT_JOBBRD501_01713_JEHANTEL_000_040","The meeting isn't faring well, I'm afraid. The Gods' Quiver are disinclined to cooperate."
+70,"TEXT_JOBBRD501_01713_SANSON_000_041","...Once you bear witness to the ballad's power, you will change your mind! I am certain of it!"
+71,"TEXT_JOBBRD501_01713_LEWIN_000_042","I must allow, such a decisive way to end a battle does pique my interest..."
+72,"TEXT_JOBBRD501_01713_SANSON_000_043","My investigation has revealed that the song originates from the western reaches of Coerthas. It is my intent to journey there and find it."
+73,"TEXT_JOBBRD501_01713_SANSON_000_044","As a matter of fact, I have already submitted papers to the Gods' Quiver requesting a bard to accompany me on this expedition."
+74,"TEXT_JOBBRD501_01713_SUBLEADER01713_000_045","Rest assured we have already handpicked one for you. Not that there were many to choose from, mind you. Jehantel has scarcely commenced his lessons, after all."
+75,"TEXT_JOBBRD501_01713_SUBLEADER01713_000_046","Now, with times as they are, every man of us is precious. Therefore, before we commit one of ours to your cause, I would test your fitness to undertake this expedition."
+76,"TEXT_JOBBRD501_01713_SANSON_000_047","What would you have me do?"
+77,"TEXT_JOBBRD501_01713_SUBLEADER01713_000_048","Demonstrate your martial prowess─simple as that. Enraged treants have been plaguing travelers in the Twelveswood. I would have you and your companion–to–be deal with them."
+78,"TEXT_JOBBRD501_01713_SUBLEADER01713_000_049","Lest you worry, we've assigned you someone capable. I shall have him join you presently at Amarissaix's Spire, near to where said treants lurk. Good fortune to you, Captain."
+79,"TEXT_JOBBRD501_01713_SANSON_000_055","This comes as no surprise. He is among those who doubt the worth of a bard."
+80,"TEXT_JOBBRD501_01713_LEWIN_000_056","Though a trial is a mite contrived, that we have no hands to waste was no lie. I shall pray for your success."
+81,"TEXT_JOBBRD501_01713_JEHANTEL_000_060","With that, we are come to your part in this, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. 'Tis my desire that you accompany Sanson on his expedition."
+82,"TEXT_JOBBRD501_01713_JEHANTEL_000_061","I request this of you because I know no finer bard. Furthermore, I believe that you will gain something from this experience."
+83,"TEXT_JOBBRD501_01713_JEHANTEL_000_062","But first, there is the matter of the trial. I find myself dubious as to whether the Gods' Quiver actually mean to lend Sanson a bard. Pray aid him in dispatching the treants, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>."
+84,"TEXT_JOBBRD501_01713_SANSON_000_063","The creatures are fearsome foes. I would be heartened for your assistance."
+85,"TEXT_JOBBRD501_01713_SANSON_000_064","I shall go on ahead to Amarissaix's Spire. Pray join me there at your earliest convenience."
+86,"TEXT_JOBBRD501_01713_SANSON_000_070","I was caught unawares... B-Be careful!"
+87,"TEXT_JOBBRD501_01713_GUYDELOT_000_500","(-???-)The famous <hex:022903EB0203>, I take it?"
+88,"TEXT_JOBBRD501_01713_GUYDELOT_100_500","(-Assertive Archer-)You're not half bad, <hex:020814E905FF07>sister<hex:FF08>brother<hex:03>."
+89,"TEXT_JOBBRD501_01713_PUKNOPOKI_000_501","“Not half bad”!? <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> is a prodigy, I'll have you know! That's why I gave <hex:02080DE905FF04>her<hex:FF04>him<hex:03> the charm, kupo!"
+90,"TEXT_JOBBRD501_01713_JEHANTEL_000_502","Guydelot! What is the meaning of this interference? They were in the midst of a trial, for gods' sake!"
+91,"TEXT_JOBBRD501_01713_GUYDELOT_000_503","(-Guydelot-)Don't have a fit, old man. It isn't good for your heart. Besides, I wouldn't call it interference, seeing as I'm part of this merry band."
+92,"TEXT_JOBBRD501_01713_PUKNOPOKI_000_504","It's true, kupo! I was present when he received his orders. And I was also present when he said, “What a bloody bother! I hope they botch the trial!”"
+93,"TEXT_JOBBRD501_01713_GUYDELOT_000_505","(-Guydelot-)Aye, well, I did say those words, I'll not deny it. But seeing <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> in action has changed my mind."
+94,"TEXT_JOBBRD501_01713_GUYDELOT_000_506","I'm Guydelot, of the Gold Bulls. I don't care for fame and fortune, and I couldn't give two farts about this Dirge of Deathlike Doomness you're after."
+95,"TEXT_JOBBRD501_01713_GUYDELOT_000_507","I <hex:021A020203>do<hex:021A020103>, however, have an interest in song. I can't pass over the chance to travel with an exceptional bard like yourself. And I promise you won't be poorer for my fine company."
+96,"TEXT_JOBBRD501_01713_JEHANTEL_000_508","Well, things have certainly taken an interesting turn. Know that Guydelot is among my most promising students. I can vouch for his ability."
+97,"TEXT_JOBBRD501_01713_SANSON_000_509","Ability, aye, but naught else."
+98,"TEXT_JOBBRD501_01713_SANSON_000_511","I know about you, Guydelot the Spent. Your reputation as a troublemaker precedes you. You treat authority with contempt, shirk duty at every turn, and make a general nuisance of yourself."
+99,"TEXT_JOBBRD501_01713_SANSON_000_512","That they sent the likes of you means that they <hex:021A020203>want<hex:021A020103> me to fail! My hopes of finding the Ballad of Oblivion... All up in smoke..."
+100,"TEXT_JOBBRD501_01713_GUYDELOT_000_513","Grrr, say it straight to my face, will you? Jehantel, do we really have to travel with this pompous prat? <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> and I alone will do just fine! We don't need anyone else!"
+101,"TEXT_JOBBRD501_01713_SANSON_000_514","<hex:021A020203>Without<hex:021A020103> me, you say? Who do you think is the driving force behind the expedition!?"
+102,"TEXT_JOBBRD501_01713_SANSON_000_515","<sigh> I suppose beggars can't be choosers. <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, I must return to Quiver's Hold with word of the trial's success. Please join me there."
+103,"TEXT_JOBBRD501_01713_PUKNOPOKI_000_080","I'm glad to see you again, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! You must sing for me again, and soon, kupo!"
+104,"TEXT_JOBBRD501_01713_JEHANTEL_000_085","Guydelot may have his failings, but he is not a bad fellow. Truth be told, I had intended to introduce him to you as well."
+105,"TEXT_JOBBRD501_01713_JEHANTEL_000_086","To that end, I asked Pukno Poki to seek him out, only to have him appear as our Quiverman. Fate works in strange ways, does it not?"
+106,"TEXT_JOBBRD501_01713_JEHANTEL_000_088","A pity he and Sanson do not see eye to eye. Their personalities are simply too far apart, and the gulf will not be easily bridged."
+107,"TEXT_JOBBRD501_01713_JEHANTEL_000_089","Though it will be a burden upon you, in watching over these two disparate souls, doubt not but that you will grow as a bard."
+108,"TEXT_JOBBRD501_01713_JEHANTEL_000_090","But come, let us hurry back to Gridania. 'Tis too early still to leave those two unchaperoned."
+109,"TEXT_JOBBRD501_01713_PUKNOPOKI_000_100","The air is taut as a tightly wound harp, kupo..."
+110,"TEXT_JOBBRD501_01713_JEHANTEL_000_101","They may have gotten off on the wrong foot, but these two have proven their readiness for the expedition."
+111,"TEXT_JOBBRD501_01713_GUYDELOT_000_102","That Sanson hasn't shut up since he got here. Seriously, <hex:020814E905FF07>sister<hex:FF08>brother<hex:03>, we'd be well rid of him."
+112,"TEXT_JOBBRD501_01713_SUBLEADER01713_000_103","You are returned. Well, well..."
+113,"TEXT_JOBBRD501_01713_SANSON_000_110","We have done as bade and culled the enraged treants. I trust you have no objections to the expedition."
+114,"TEXT_JOBBRD501_01713_SUBLEADER01713_000_111","None whatsoever. Nor do I have any doubt that Guydelot shall be of great help to you. I shall look forward to good tidings in the days to come."
+115,"TEXT_JOBBRD501_01713_SANSON_000_112","Of great help indeed..."
+116,"TEXT_JOBBRD501_01713_SANSON_000_120","At any rate, 'tis now official─we may proceed with the expedition. Let us depart for the Holy See at once. Lest you wonder, I have already secured us passage into Ishgardian territory."
+117,"TEXT_JOBBRD501_01713_SANSON_000_130","At any rate, 'tis now official─we may proceed with the expedition. Let us depart for the Holy See at once."
+118,"TEXT_JOBBRD501_01713_SANSON_000_140","And remember: we have a golden chance to raise the standing of bards within our nation. Let us succeed in our mission and find the Ballad of Oblivion!"
+119,"TEXT_JOBBRD501_01713_GUYDELOT_000_141","Any stiffer, and he's like to snap in half."
+120,"TEXT_JOBBRD501_01713_PUKNOPOKI_000_142","It'll be a grueling journey, but so long as you work together, you're bound to succeed, kupo!"
+121,"TEXT_JOBBRD501_01713_JEHANTEL_000_143","So it is to Ishgard, then. Safe travels, my friend. I shall await your return, all the while looking forward to hearing such songs as are born of your experience."
+122,"TEXT_JOBBRD501_01713_PUKNOPOKI_000_145","It'll be a grueling journey, but so long as you work together, you're bound to succeed, kupo!"
+123,"TEXT_JOBBRD501_01713_JEHANTEL_000_146","So it is to Ishgard, then. Safe travels, my friend. I shall await your return, all the while looking forward to hearing such songs as are born of your experience."
+124,"TEXT_JOBBRD501_01713_GUYDELOT_000_147","Ack, snow and ice everywhere you look, and it hurts like a bastard to breathe. For all this open sky, it feels gloomier than the closeness of the Twelveswood."
+125,"TEXT_JOBBRD501_01713_SANSON_000_151","First, I shall make inquiries here in Ishgard. As for you, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, pray rest and recover your strength. We will likely have need of it on the road."
+126,"TEXT_JOBBRD501_01713_GUYDELOT_000_152","Godsdammit, man! Here we are in a new place, one that hasn't been open to visitors for over a decade, and you've got your nose buried in a bloody book!"
+127,"TEXT_JOBBRD501_01713_GUYDELOT_000_153","Take a moment to get a feel for the city, I say! And to that end, I'm off to a tavern to get a <hex:021A020203>feel<hex:021A020103> for the locals─the young and female sort. Heh heh heh!"
+128,"TEXT_JOBBRD501_01713_SYSTEM_000_155","The next bard quest will be available from Sanson upon reaching level 52."
+129,"TEXT_JOBBRD501_01713_SYSTEM_000_156","The requirements for undertaking subsequent quests can be reviewed in your journal."

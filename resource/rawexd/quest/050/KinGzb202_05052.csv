@@ -2,100 +2,100 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_KINGZB202_05052_SEQ_00,<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整<hex:0249020103><hex:0248020103><hex:02100103>瓦丘恩佩洛的諾皮利想要制止做黑心交易的貿易商人。
-1,TEXT_KINGZB202_05052_SEQ_01,※本任務為<hex:024804F201FC03><hex:024904F201FD03><hex:0249020103><hex:0248020103> 等級調整任務。<hex:02100103><hex:02100103>和諾皮利進行了交談。見到了艾歐澤亞的貿易商人，決定要詳細刺探一下情報。前往奧闊帕恰山的伊庫烏洛商旅館尋找吉吉莫魯。
-2,TEXT_KINGZB202_05052_SEQ_02,找到了吉吉莫魯。和奧闊帕恰山帕納克佩魯休養所的吉吉莫魯談談。
-3,TEXT_KINGZB202_05052_SEQ_03,和吉吉莫魯進行了交談，差點被對方察覺了自己正在探聽情報的事情。和在溫泉負責照顧吉吉莫魯的帕納克佩魯休養所的卡弗利談談。
-4,TEXT_KINGZB202_05052_SEQ_04,和卡弗利進行了交談。和瓦丘恩佩洛的諾皮利談談。
-5,TEXT_KINGZB202_05052_SEQ_05,向諾皮利報告完畢。諾皮利預感吉吉莫魯的黑心交易會帶來很惡劣的影響。為需要艾歐澤亞當地人協助的諾皮利提供幫助。
-6,TEXT_KINGZB202_05052_SEQ_06,
-7,TEXT_KINGZB202_05052_SEQ_07,
-8,TEXT_KINGZB202_05052_SEQ_08,
-9,TEXT_KINGZB202_05052_SEQ_09,
-10,TEXT_KINGZB202_05052_SEQ_10,
-11,TEXT_KINGZB202_05052_SEQ_11,
-12,TEXT_KINGZB202_05052_SEQ_12,
-13,TEXT_KINGZB202_05052_SEQ_13,
-14,TEXT_KINGZB202_05052_SEQ_14,
-15,TEXT_KINGZB202_05052_SEQ_15,
-16,TEXT_KINGZB202_05052_SEQ_16,
-17,TEXT_KINGZB202_05052_SEQ_17,
-18,TEXT_KINGZB202_05052_SEQ_18,
-19,TEXT_KINGZB202_05052_SEQ_19,
-20,TEXT_KINGZB202_05052_SEQ_20,
-21,TEXT_KINGZB202_05052_SEQ_21,
-22,TEXT_KINGZB202_05052_SEQ_22,
-23,TEXT_KINGZB202_05052_SEQ_23,
-24,TEXT_KINGZB202_05052_TODO_00,尋找吉吉莫魯
-25,TEXT_KINGZB202_05052_TODO_01,和吉吉莫魯對話
-26,TEXT_KINGZB202_05052_TODO_02,和卡弗利對話
-27,TEXT_KINGZB202_05052_TODO_03,和諾皮利對話
-28,TEXT_KINGZB202_05052_TODO_04,
-29,TEXT_KINGZB202_05052_TODO_05,
-30,TEXT_KINGZB202_05052_TODO_06,
-31,TEXT_KINGZB202_05052_TODO_07,
-32,TEXT_KINGZB202_05052_TODO_08,
-33,TEXT_KINGZB202_05052_TODO_09,
-34,TEXT_KINGZB202_05052_TODO_10,
-35,TEXT_KINGZB202_05052_TODO_11,
-36,TEXT_KINGZB202_05052_TODO_12,
-37,TEXT_KINGZB202_05052_TODO_13,
-38,TEXT_KINGZB202_05052_TODO_14,
-39,TEXT_KINGZB202_05052_TODO_15,
-40,TEXT_KINGZB202_05052_TODO_16,
-41,TEXT_KINGZB202_05052_TODO_17,
-42,TEXT_KINGZB202_05052_TODO_18,
-43,TEXT_KINGZB202_05052_TODO_19,
-44,TEXT_KINGZB202_05052_TODO_20,
-45,TEXT_KINGZB202_05052_TODO_21,
-46,TEXT_KINGZB202_05052_TODO_22,
-47,TEXT_KINGZB202_05052_TODO_23,
-48,TEXT_KINGZB202_05052_NOPLI_000_000,對於那個把偏屬性水晶賣給我的黑心貿易商人，<hex:02100103>我不能就這樣放任不管……<hex:02100103>希望你可以繼續幫我！
-49,TEXT_KINGZB202_05052_NOPLI_000_001,我們得抓緊確認對方的動向才行。<hex:02100103>接下來我會去詢問一下村子裡的同胞，<hex:02100103>看看是否有人跟我有相似的遭遇。
-50,TEXT_KINGZB202_05052_NOPLI_000_002,在這期間你去拖住那個貿易商人吧。<hex:02100103>要是在我們行動之前被他跑了那可就沒轍了。
-51,TEXT_KINGZB202_05052_NOPLI_000_003,他應該還在奧闊帕恰山。<hex:02100103>此刻他肯定正拿著從我這裡賺到的大量佩魯幣，<hex:02100103>準備狠狠地掃一批貨以便回到故鄉出售呢吧。
-52,TEXT_KINGZB202_05052_NOPLI_000_004,所以能請你前往一趟伊庫烏洛商旅館，<hex:02100103>尋找拉拉菲爾族貿易商人吉吉莫魯嗎？<hex:02100103>你在與他接觸時先不要暴露和我的關係，多爭取一些時間！
-53,TEXT_KINGZB202_05052_GIGIMOLU_000_010,哎呀……居然能在這裡重逢，真是太有緣了！<hex:02100103>我是之前和你一起乘船來到圖萊尤拉的貿易商人，<hex:02100103>你不記得我了嗎？
-54,TEXT_KINGZB202_05052_GIGIMOLU_000_011,那時都沒來得及自報家門，我叫吉吉莫魯。<hex:02100103>其實自那次一別之後，我的生意順風順水。
-55,TEXT_KINGZB202_05052_GIGIMOLU_000_012,詳細情況不便細說，<hex:02100103>不過有個出手大方的年輕商人讓我大賺了一筆……<hex:02100103>呵呵呵，真是不枉我大老遠來這麼一趟。
-56,TEXT_KINGZB202_05052_GIGIMOLU_000_013,接下來我準備進一批貨，然後就回艾歐澤亞了。<hex:02100103>不過帕納克佩魯休養所的溫泉實在是泡得太舒服了，<hex:02100103>一不小心就沉浸在了愜意的休假中，完全無心工作……
-57,TEXT_KINGZB202_05052_GIGIMOLU_000_014,啊，說著說著我又開始懷念起溫泉了……！<hex:02100103>難得與你重逢卻來去匆匆真是不好意思，<hex:02100103>我又要先行一步了！
-58,TEXT_KINGZB202_05052_CAVLI_000_020,他又來了……
-59,TEXT_KINGZB202_05052_GIGIMOLU_000_025,哎呀……你是一路跟過來的嗎？<hex:02100103>難道說你也對溫泉感興趣……嗝……
-60,TEXT_KINGZB202_05052_GIGIMOLU_000_026,這裡無論是水質還是景色都是最棒的……<hex:02100103>而且僱傭的卡弗利工作能力也是無可挑剔。<hex:02100103>作為我待在這邊時的嚮導，有什麼問題都能找他解決。
-61,TEXT_KINGZB202_05052_GIGIMOLU_000_027,不過你好像很在意我啊……<hex:02100103>該不會你感興趣的不是溫泉而是我吧……開玩笑啦……嗝……
-62,TEXT_KINGZB202_05052_SYSTEM_000_028,再聊下去可能就要被對方察覺真正意圖了。<hex:02100103>接下來把情況告訴負責伺候吉吉莫魯的卡弗利，<hex:02100103>從對方那裡打聽一些情況。
-63,TEXT_KINGZB202_05052_GIGIMOLU_000_030,哎呀，無論是溫泉還是景色都太棒了。<hex:02100103>尤其是花錢雇來的卡弗利，<hex:02100103>有什麼問題交給他就行，自己可以盡情放鬆，真是妙不可言……
-64,TEXT_KINGZB202_05052_CAVLI_000_031,什麼……！<hex:02100103>有同胞被吉吉莫魯騙了錢？！<hex:02100103>我完全不知情，居然有這種事……
-65,TEXT_KINGZB202_05052_CAVLI_000_032,他是最近才來到這裡的。<hex:02100103>出手很闊綽，他待在這裡的這段期間都是由我來伺候他，<hex:02100103>負責他身邊的一切雜事。
-66,TEXT_KINGZB202_05052_CAVLI_000_033,雖然被騙的諾皮利也值得同情，<hex:02100103>不過身為一名佩魯佩魯族，<hex:02100103>我更在意的是吉吉莫魯做生意的方式……
-67,TEXT_KINGZB202_05052_CAVLI_000_034,你知道嗎？<hex:02100103>佩魯佩魯族曾因為個頭矮小，看起來就像小孩子，<hex:02100103>所以經常遭到其他種族的輕視。
-68,TEXT_KINGZB202_05052_CAVLI_000_035,對此十分不甘心的祖先們想要通過虛張聲勢的方式來提升底氣，<hex:02100103>於是他們選擇了戴上最強圖拉爾威爪「豔翼蛇鳥」的可怕面具。
-69,TEXT_KINGZB202_05052_CAVLI_000_036,但如今這個面具的意義發生了變化。<hex:02100103>對於那些聽從了古魯加加大人的建議選擇四處旅行的商人們來說，<hex:02100103>它成為了進行公平交易的「信賴的證明」。
-70,TEXT_KINGZB202_05052_CAVLI_000_037,不能光想著自己掙錢，也要讓交易的對方獲得幸福。<hex:02100103>就在這樣一點點的積累之下，<hex:02100103>如今已經幾乎沒有人會輕視佩魯佩魯族了。
-71,TEXT_KINGZB202_05052_CAVLI_000_038,不過來自外國的吉吉莫魯似乎不是這麼想的。
-72,TEXT_KINGZB202_05052_CAVLI_000_039,好不容易渡海來到這裡做生意，真是可惜。<hex:02100103>這下就算以後吉吉莫魯帶著再好的商品來到圖拉爾大陸，<hex:02100103>也應該不會有人跟他做交易了吧。
-73,TEXT_KINGZB202_05052_CAVLI_000_040,接下來我也會關注著他的一舉一動。<hex:02100103>如果再有類似情況發生引起了騷動的話，那我就不客氣了。
-74,TEXT_KINGZB202_05052_CAVLI_000_041,不過看他現在這個樣子，就算不用一直盯著，<hex:02100103>估計他暫時也不會有什麼行動了吧。
-75,TEXT_KINGZB202_05052_CAVLI_000_042,總之，關於他動向的調查應該也已經很充分了吧。<hex:02100103>要不你先回到瓦丘恩佩洛的諾皮利那裡吧？
-76,TEXT_KINGZB202_05052_GIGIMOLU_000_045,哎呀，真是不好意思……<hex:02100103>明明大家都在努力工作，只有我在休假……呵呵呵……
-77,TEXT_KINGZB202_05052_CAVLI_000_046,就由我來負責盯著他。<hex:02100103>你先回到諾皮利那裡吧？
-78,TEXT_KINGZB202_05052_NOPLI_000_050,什麼？你見到吉吉莫魯之後，發現你倆之前其實見過？！<hex:02100103>這世界還真小……
-79,TEXT_KINGZB202_05052_NOPLI_000_051,總之<hex:022903EB0203>，這次也感謝你的幫助。<hex:02100103>這下就算不刻意去阻止吉吉莫魯，<hex:02100103>他暫時也應該不會有所行動了。
-80,TEXT_KINGZB202_05052_NOPLI_000_052,我這邊經過一番調查，也沒有發現其他受害者。<hex:02100103>貌似就只有我一個……
-81,TEXT_KINGZB202_05052_NOPLI_000_053,但如果他在採購帶回故鄉的商品時，<hex:02100103>又用了什麼骯髒的手段，那就會有更多遭遇不幸的人……<hex:02100103>身為要通過生意帶去幸福的佩魯佩魯族來說，這是絕對無法原諒的。
-82,TEXT_KINGZB202_05052_NOPLI_000_054,關於這一點我有個小想法，<hex:02100103>希望接下來你可以繼續為我提供幫助！
-83,TEXT_KINGZB202_05052_PELUPELUCLERK05052_000_020,
-84,TEXT_KINGZB202_05052_PELUPELUCLERK05052_000_031,
-85,TEXT_KINGZB202_05052_PELUPELUCLERK05052_000_032,
-86,TEXT_KINGZB202_05052_PELUPELUCLERK05052_000_033,
-87,TEXT_KINGZB202_05052_PELUPELUCLERK05052_000_034,
-88,TEXT_KINGZB202_05052_PELUPELUCLERK05052_000_035,
-89,TEXT_KINGZB202_05052_PELUPELUCLERK05052_000_036,
-90,TEXT_KINGZB202_05052_PELUPELUCLERK05052_000_037,
-91,TEXT_KINGZB202_05052_PELUPELUCLERK05052_000_038,
-92,TEXT_KINGZB202_05052_PELUPELUCLERK05052_000_039,
-93,TEXT_KINGZB202_05052_PELUPELUCLERK05052_000_040,
-94,TEXT_KINGZB202_05052_PELUPELUCLERK05052_000_041,
-95,TEXT_KINGZB202_05052_PELUPELUCLERK05052_000_042,
-96,TEXT_KINGZB202_05052_PELUPELUCLERK05052_000_046,
+0,"TEXT_KINGZB202_05052_SEQ_00","<hex:024804F201FC03><hex:024904F201FD03> Quest Sync<hex:0249020103><hex:0248020103><hex:02100103>Nopli is eager to put a stop to the pernicious peddler's malevolent schemes."
+1,"TEXT_KINGZB202_05052_SEQ_01","To prevent anyone else from falling victim to the peddler's deception, Nopli asks that you search for them at Icuvlo's Inn, the man in question described as a Lalafell by the name of Gigimolu.<hex:02100103><hex:02100103>※Please note that the difficulty of this quest has been synced to your current level."
+2,"TEXT_KINGZB202_05052_SEQ_02","You find Gigimolu, but are alarmed to discover that he is in fact the selfsame Dunesfolk merchant you spoke with on your voyage to Tural. You barely exchange a few words before he rushes off to Panaqpelu Retreat. Keeping your assigned task well in mind, you decide to follow him."
+3,"TEXT_KINGZB202_05052_SEQ_03","Once more you speak with Gigimolu, who you find bathing in the hot springs of the retreat. Unfortunately, it is not long before he grows suspicious of your sudden interest. Lest he see through the ruse, you decide to speak with his hired help, Cavli, instead."
+4,"TEXT_KINGZB202_05052_SEQ_04","Cavli is shocked to learn of Gigimolu's duplicitous actions, which call to mind the treatment of his fellow Pelupelu. He promises to keep a watchful eye on the Lalafellin merchant, and asks that you return to Nopli."
+5,"TEXT_KINGZB202_05052_SEQ_05","While he was unable to discover any other victims of Gigimolu's schemes in Wachunpelo, Nopli is certain the merchant is planning to strike again soon. Before that happens, Nopli hopes to enact a plan of his own, and he needs your help to see it through."
+6,"TEXT_KINGZB202_05052_SEQ_06",""
+7,"TEXT_KINGZB202_05052_SEQ_07",""
+8,"TEXT_KINGZB202_05052_SEQ_08",""
+9,"TEXT_KINGZB202_05052_SEQ_09",""
+10,"TEXT_KINGZB202_05052_SEQ_10",""
+11,"TEXT_KINGZB202_05052_SEQ_11",""
+12,"TEXT_KINGZB202_05052_SEQ_12",""
+13,"TEXT_KINGZB202_05052_SEQ_13",""
+14,"TEXT_KINGZB202_05052_SEQ_14",""
+15,"TEXT_KINGZB202_05052_SEQ_15",""
+16,"TEXT_KINGZB202_05052_SEQ_16",""
+17,"TEXT_KINGZB202_05052_SEQ_17",""
+18,"TEXT_KINGZB202_05052_SEQ_18",""
+19,"TEXT_KINGZB202_05052_SEQ_19",""
+20,"TEXT_KINGZB202_05052_SEQ_20",""
+21,"TEXT_KINGZB202_05052_SEQ_21",""
+22,"TEXT_KINGZB202_05052_SEQ_22",""
+23,"TEXT_KINGZB202_05052_SEQ_23",""
+24,"TEXT_KINGZB202_05052_TODO_00","Search for Gigimolu."
+25,"TEXT_KINGZB202_05052_TODO_01","Speak with Gigimolu."
+26,"TEXT_KINGZB202_05052_TODO_02","Speak with Cavli."
+27,"TEXT_KINGZB202_05052_TODO_03","Speak with Nopli."
+28,"TEXT_KINGZB202_05052_TODO_04",""
+29,"TEXT_KINGZB202_05052_TODO_05",""
+30,"TEXT_KINGZB202_05052_TODO_06",""
+31,"TEXT_KINGZB202_05052_TODO_07",""
+32,"TEXT_KINGZB202_05052_TODO_08",""
+33,"TEXT_KINGZB202_05052_TODO_09",""
+34,"TEXT_KINGZB202_05052_TODO_10",""
+35,"TEXT_KINGZB202_05052_TODO_11",""
+36,"TEXT_KINGZB202_05052_TODO_12",""
+37,"TEXT_KINGZB202_05052_TODO_13",""
+38,"TEXT_KINGZB202_05052_TODO_14",""
+39,"TEXT_KINGZB202_05052_TODO_15",""
+40,"TEXT_KINGZB202_05052_TODO_16",""
+41,"TEXT_KINGZB202_05052_TODO_17",""
+42,"TEXT_KINGZB202_05052_TODO_18",""
+43,"TEXT_KINGZB202_05052_TODO_19",""
+44,"TEXT_KINGZB202_05052_TODO_20",""
+45,"TEXT_KINGZB202_05052_TODO_21",""
+46,"TEXT_KINGZB202_05052_TODO_22",""
+47,"TEXT_KINGZB202_05052_TODO_23",""
+48,"TEXT_KINGZB202_05052_NOPLI_000_000","Every moment we leave that peddler to his own devices is another opportunity for some unsuspecting traveler to be hoodwinked. We need to figure out where he's been and where he may go next."
+49,"TEXT_KINGZB202_05052_NOPLI_000_001","I'll ask around in Wachunpelo if anyone else has had similar run-ins with disreputable merchants."
+50,"TEXT_KINGZB202_05052_NOPLI_000_002","In the meantime, I'd like you to find the scoundrel, and keep him in your sights by whatever means necessary. We can't have him leaving before we've had the chance to settle this matter, after all."
+51,"TEXT_KINGZB202_05052_NOPLI_000_003","I expect he's still in Urqopacha, visiting the markets to use his ill-gotten pel to stock up for his return to Eorzea."
+52,"TEXT_KINGZB202_05052_NOPLI_000_004","Like as not, he's inspecting the stalls at Icuvlo's Inn. Ask after a Lalafell by the name of Gigimolu, but be discreet! Once you've found him, try to keep him occupied for as long as you can."
+53,"TEXT_KINGZB202_05052_GIGIMOLU_000_010","Ah, well this is a pleasant surprise. To think we would meet again here of all places. You do recognize me, don't you? The merchant you spoke with on the ship to Tuliyollal?"
+54,"TEXT_KINGZB202_05052_GIGIMOLU_000_011","I neglected to impart my name to you at the time, but I shall happily rectify that now. Gigimolu, at your service. Since my arrival on the continent, I must say business has been booming."
+55,"TEXT_KINGZB202_05052_GIGIMOLU_000_012","I'll spare you the details of my most recent transaction, but suffice it to say, I earned quite a handsome sum from a most generous young merchant. Heh, truly makes the lengthy voyage here feel well worth the trouble."
+56,"TEXT_KINGZB202_05052_GIGIMOLU_000_013","All that remains before I return to Eorzea is to purchase some commodities. Alas, ever since I've felt the soothing waters of Panaqpelu Retreat on my skin, I can think of little else."
+57,"TEXT_KINGZB202_05052_GIGIMOLU_000_014","The mere mention of it has stirred my yearning to avail myself of those hot springs once more... Ahem. It was a pleasure to meet you again my friend, but I must be going. Farewell!"
+58,"TEXT_KINGZB202_05052_CAVLI_000_020","He never tires of this place..."
+59,"TEXT_KINGZB202_05052_GIGIMOLU_000_025","Oh, it's you again... Did you follow me here? <hic> Or perhaps you too have succumbed to the allure of these hot springs?"
+60,"TEXT_KINGZB202_05052_GIGIMOLU_000_026","<hic> The water is the perfect temperature, and the view, <hex:021A020203>ravishing<hex:021A020103>. All my worries seem to just melt away... Though I suppose I've also Cavli to thank for that. He's been the perfect attendant, taking care of my every need."
+61,"TEXT_KINGZB202_05052_GIGIMOLU_000_027","... <hic> I am surprised you're still listening to me ramble on. If I didn't know better, I might think you came not to enjoy these springs, but to speak with <hex:021A020203>me<hex:021A020103>... <hic>"
+62,"TEXT_KINGZB202_05052_SYSTEM_000_028","Gigimolu is growing suspicious of you. Perhaps it would be best to speak with Cavli instead."
+63,"TEXT_KINGZB202_05052_GIGIMOLU_000_030","It is thanks to Cavli that I can relax without a worry in these waters... <hic> Gods, I could get used to this."
+64,"TEXT_KINGZB202_05052_CAVLI_000_031","Gigimolu truly did such an awful thing!? I had no idea..."
+65,"TEXT_KINGZB202_05052_CAVLI_000_032","He only recently began to visit these springs, and hired me to take care of odds and ends for him during his sojourns. I took him to be quite the affluent individual, the way he carries himself."
+66,"TEXT_KINGZB202_05052_CAVLI_000_033","My heart goes out to poor Nopli, but as a Pelupelu, I am quite intrigued by Gigimolu's trading practices."
+67,"TEXT_KINGZB202_05052_CAVLI_000_034","Allow me to explain. Many years ago, we Pelupelu were looked down upon by the other peoples of Tural─both figuratively and literally─due to our diminutive stature."
+68,"TEXT_KINGZB202_05052_CAVLI_000_035","Chagrined, it is said that our ancestors decided to start wearing masks made in the image of the most powerful tural vidraal, Valigarmanda, in order to strike fear into the hearts of all who looked upon them."
+69,"TEXT_KINGZB202_05052_CAVLI_000_036","Today, however, the meaning of the masks has changed. After becoming peddlers at the Dawnservant's suggestion, the masks have come to symbolize fair transactions─indeed, they are now proof of our reputability."
+70,"TEXT_KINGZB202_05052_CAVLI_000_037","Instead of focusing solely on our own profit, we endeavor to make every trade mutually satisfactory. Countless years of doing so has earned us the respect of those around us, and we now very rarely experience any belittlement."
+71,"TEXT_KINGZB202_05052_CAVLI_000_038","Yet it seems Gigimolu wishes only to fill his own coffers, even at the expense of those with whom he does business."
+72,"TEXT_KINGZB202_05052_CAVLI_000_039","It's a shame. After what he's done, no Turali will wish to barter with him again─no matter what quality of import he has at hand."
+73,"TEXT_KINGZB202_05052_CAVLI_000_040","I will keep a close watch on him from now on. I don't want to see anyone else swindled out of their hard-earned pel. "
+74,"TEXT_KINGZB202_05052_CAVLI_000_041","...Though given his present euphoria, I doubt he'll be doing anything of the sort any time soon."
+75,"TEXT_KINGZB202_05052_CAVLI_000_042","That said, I'm sure Nopli must be anxious to hear from you. I have matters here well in hand─why don't you return to him?"
+76,"TEXT_KINGZB202_05052_GIGIMOLU_000_045","<hic> Here I am, enjoying myself, while everyone else is working so hard... How <hex:021A020203>selfish<hex:021A020103> of me. Heh heh heh..."
+77,"TEXT_KINGZB202_05052_CAVLI_000_046","Don't worry, I won't let him out of my sight."
+78,"TEXT_KINGZB202_05052_NOPLI_000_050","<hex:021A020203>What<hex:021A020103>!? You met Gigimolu during your voyage to Tural!? What a small world..."
+79,"TEXT_KINGZB202_05052_NOPLI_000_051","In any case, thank you for lending your assistance once again, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. It's reassuring to know Cavli will be keeping careful watch of him."
+80,"TEXT_KINGZB202_05052_NOPLI_000_052","As for my investigation here, it seems I'm presently Gigimolu's only victim."
+81,"TEXT_KINGZB202_05052_NOPLI_000_053","But I fear I won't be the last. There's no telling what underhanded tricks he'll use to procure those wares you spoke of, and I refuse to let him besmirch all that it means to be a merchant."
+82,"TEXT_KINGZB202_05052_NOPLI_000_054","I have a plan, but I'm going to need your help."
+83,"TEXT_KINGZB202_05052_PELUPELUCLERK05052_000_020",""
+84,"TEXT_KINGZB202_05052_PELUPELUCLERK05052_000_031",""
+85,"TEXT_KINGZB202_05052_PELUPELUCLERK05052_000_032",""
+86,"TEXT_KINGZB202_05052_PELUPELUCLERK05052_000_033",""
+87,"TEXT_KINGZB202_05052_PELUPELUCLERK05052_000_034",""
+88,"TEXT_KINGZB202_05052_PELUPELUCLERK05052_000_035",""
+89,"TEXT_KINGZB202_05052_PELUPELUCLERK05052_000_036",""
+90,"TEXT_KINGZB202_05052_PELUPELUCLERK05052_000_037",""
+91,"TEXT_KINGZB202_05052_PELUPELUCLERK05052_000_038",""
+92,"TEXT_KINGZB202_05052_PELUPELUCLERK05052_000_039",""
+93,"TEXT_KINGZB202_05052_PELUPELUCLERK05052_000_040",""
+94,"TEXT_KINGZB202_05052_PELUPELUCLERK05052_000_041",""
+95,"TEXT_KINGZB202_05052_PELUPELUCLERK05052_000_042",""
+96,"TEXT_KINGZB202_05052_PELUPELUCLERK05052_000_046",""

@@ -2,80 +2,80 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_AKTKZJ014_04350_SEQ_00,<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整<hex:0249020103><hex:0248020103><hex:02100103>半途終旅的衰弱的老龍很在意小龍的情況。
-1,TEXT_AKTKZJ014_04350_SEQ_01,※本任務為<hex:024804F201FC03><hex:024904F201FD03><hex:0249020103><hex:0248020103> 等級調整任務。<hex:02100103><hex:02100103>接受了委託，查看村落外面的小龍的情況。前往半途終旅的西北方，和小龍談談。
-2,TEXT_AKTKZJ014_04350_SEQ_02,和眼神空洞的小龍進行了交談，但對方卻沒有任何反應。和半途終旅的衰弱的老龍談談。
-3,TEXT_AKTKZJ014_04350_SEQ_03,衰弱的老龍的伴侶似乎在村落裡。和半途終旅的疑似伴侶的龍族談談。
-4,TEXT_AKTKZJ014_04350_SEQ_04,老龍處於眼裡只有奄奄一息的小龍的狀態。回到瓦銘癸辛的眼神空洞的小龍那裡。
-5,TEXT_AKTKZJ014_04350_SEQ_05,聽到了小龍面對死去的老龍說出的話。和半途終旅的疑似伴侶的龍族談談。
-6,TEXT_AKTKZJ014_04350_SEQ_06,和疑似伴侶的龍族進行了交談。雖然似乎不太能接受小龍說過話的事實，但是卻很感謝冒險者來照顧伴侶。
-7,TEXT_AKTKZJ014_04350_SEQ_07,
-8,TEXT_AKTKZJ014_04350_SEQ_08,
-9,TEXT_AKTKZJ014_04350_SEQ_09,
-10,TEXT_AKTKZJ014_04350_SEQ_10,
-11,TEXT_AKTKZJ014_04350_SEQ_11,
-12,TEXT_AKTKZJ014_04350_SEQ_12,
-13,TEXT_AKTKZJ014_04350_SEQ_13,
-14,TEXT_AKTKZJ014_04350_SEQ_14,
-15,TEXT_AKTKZJ014_04350_SEQ_15,
-16,TEXT_AKTKZJ014_04350_SEQ_16,
-17,TEXT_AKTKZJ014_04350_SEQ_17,
-18,TEXT_AKTKZJ014_04350_SEQ_18,
-19,TEXT_AKTKZJ014_04350_SEQ_19,
-20,TEXT_AKTKZJ014_04350_SEQ_20,
-21,TEXT_AKTKZJ014_04350_SEQ_21,
-22,TEXT_AKTKZJ014_04350_SEQ_22,
-23,TEXT_AKTKZJ014_04350_SEQ_23,
-24,TEXT_AKTKZJ014_04350_TODO_00,前往瓦銘癸辛尋找小龍
-25,TEXT_AKTKZJ014_04350_TODO_01,和衰弱的老龍對話
-26,TEXT_AKTKZJ014_04350_TODO_02,和疑似伴侶的龍族對話
-27,TEXT_AKTKZJ014_04350_TODO_03,前往眼神空洞的小龍那裡
-28,TEXT_AKTKZJ014_04350_TODO_04,和疑似伴侶的龍族對話
-29,TEXT_AKTKZJ014_04350_TODO_05,
-30,TEXT_AKTKZJ014_04350_TODO_06,
-31,TEXT_AKTKZJ014_04350_TODO_07,
-32,TEXT_AKTKZJ014_04350_TODO_08,
-33,TEXT_AKTKZJ014_04350_TODO_09,
-34,TEXT_AKTKZJ014_04350_TODO_10,
-35,TEXT_AKTKZJ014_04350_TODO_11,
-36,TEXT_AKTKZJ014_04350_TODO_12,
-37,TEXT_AKTKZJ014_04350_TODO_13,
-38,TEXT_AKTKZJ014_04350_TODO_14,
-39,TEXT_AKTKZJ014_04350_TODO_15,
-40,TEXT_AKTKZJ014_04350_TODO_16,
-41,TEXT_AKTKZJ014_04350_TODO_17,
-42,TEXT_AKTKZJ014_04350_TODO_18,
-43,TEXT_AKTKZJ014_04350_TODO_19,
-44,TEXT_AKTKZJ014_04350_TODO_20,
-45,TEXT_AKTKZJ014_04350_TODO_21,
-46,TEXT_AKTKZJ014_04350_TODO_22,
-47,TEXT_AKTKZJ014_04350_TODO_23,
-48,TEXT_AKTKZJ014_04350_WANEDDRAGON04350_000_000,哦哦，我有事想要拜託你……<hex:02100103>可以請你幫我去看看在半途終旅外的我孩子的情況嗎？
-49,TEXT_AKTKZJ014_04350_WANEDDRAGON04350_000_001,雖然我想親自去抱抱它，<hex:02100103>但不知為何我一想離開巢穴，同伴就會發怒。<hex:02100103>說我絕對不能去，還不時伴有侮辱的話語……
-50,TEXT_AKTKZJ014_04350_WANEDDRAGON04350_000_002,我只是想看看自己的孩子，卻要遭到這般強烈的阻撓，<hex:02100103>可我卻也找不到方法前去找我的孩子，只好拜託你了。<hex:02100103>我的孩子應該就在西北方……
-51,TEXT_AKTKZJ014_04350_WANEDDRAGON04350_000_005,我一想去看看我的孩子，同伴就會阻止我。<hex:02100103>不好意思，麻煩你到西北方跑一趟，<hex:02100103>探望一下我的孩子……
-52,TEXT_AKTKZJ014_04350_HOLLOWEYESDRAGON04350_000_010,……
-53,TEXT_AKTKZJ014_04350_SYSTEM_000_011,它用空洞的眼神注視虛空。<hex:02100103>很難確認其肉體中是否還有生命的跡象。
-54,TEXT_AKTKZJ014_04350_HOLLOWEYESDRAGON04350_000_020,……
-55,TEXT_AKTKZJ014_04350_SYSTEM_000_021,這狀態著實不正常。<hex:02100103>去跟衰弱的老龍報告吧。
-56,TEXT_AKTKZJ014_04350_WANEDDRAGON04350_000_030,什麼？你說它眼神空洞，一動不動……
-57,TEXT_AKTKZJ014_04350_WANEDDRAGON04350_000_031,哎呀哎呀，真是可憐……<hex:02100103>估計是因為害怕陌生人，所以嚇得不能動彈了。
-58,TEXT_AKTKZJ014_04350_WANEDDRAGON04350_000_032,果然我還是得親自去一趟。<hex:02100103>可是我一直像這樣被監視著……<hex:02100103>剛才我的伴侶還往我這邊看來著……
-59,TEXT_AKTKZJ014_04350_WANEDDRAGON04350_000_033,我曾經愛它勝過一切，然而這愛情早已成為往日雲煙。<hex:02100103>如今它只是一個時刻對我出言不遜，囉嗦絮叨的龍族罷了……<hex:02100103>不過現在……誰都已經無法阻止我了。
-60,TEXT_AKTKZJ014_04350_WANEDDRAGON04350_000_034,哎呀……你為何面露猶豫躊躇？<hex:02100103>我的伴侶曾經也露出過和你一樣的眼神。<hex:02100103>雖然它現在只會阻撓我……
-61,TEXT_AKTKZJ014_04350_WANEDDRAGON04350_000_035,如果有什麼在意的事就去問我的伴侶吧。<hex:02100103>整個村落最暴躁的龍族就是它了。<hex:02100103>我……必須要去我的孩子那裡……
-62,TEXT_AKTKZJ014_04350_WANEDDRAGON04350_000_050,你也用那樣的眼神看著我啊。<hex:02100103>我的伴侶也經常暴躁地那樣看著我。<hex:02100103>如果你有什麼想問的，就去找它吧……
-63,TEXT_AKTKZJ014_04350_HOLLOWEYESDRAGON04350_000_055,……
-64,TEXT_AKTKZJ014_04350_FRUSTRATEDDRAGON04350_000_070,我和那個衰弱的龍族確實是伴侶。<hex:02100103>不……或許應該說曾經是伴侶。<hex:02100103>但是，那傢伙還在做那種事啊……
-65,TEXT_AKTKZJ014_04350_FRUSTRATEDDRAGON04350_000_071,你見過那隻幾乎死去的小龍了吧？<hex:02100103>之前機械兵攻打這裡時，它被敵人的射線擊中。<hex:02100103>我最後一次見它的時候，它就已經快不行了。
-66,TEXT_AKTKZJ014_04350_FRUSTRATEDDRAGON04350_000_072,不過……<hex:02100103>我中間有一段記憶的空白……等到恢復過來時，<hex:02100103>那隻小龍依然活在這個走向毀滅的星球上！
-67,TEXT_AKTKZJ014_04350_FRUSTRATEDDRAGON04350_000_073,從那之後，那隻小龍……就一直在走向死亡的道路上。<hex:02100103>並未徹底死去，但又不能說是健康地活著。<hex:02100103>就好像是誰重現了小龍死去的瞬間一般。
-68,TEXT_AKTKZJ014_04350_FRUSTRATEDDRAGON04350_000_074,我的伴侶無法面對孩子身處如此的噩夢……因此失去了理智。<hex:02100103>那傢伙現在除了自己的孩子，眼裡已經容不下任何東西了。<hex:02100103>即使是遊蕩在外面的那些亡靈般的同胞也一樣……
-69,TEXT_AKTKZJ014_04350_FRUSTRATEDDRAGON04350_000_075,雖然可能已經來不及了……可以請你去看一下嗎？<hex:02100103>如果我的伴侶前往了眼神空洞的小龍那裡的話，<hex:02100103>你只要去到那裡就能看到它最後的結局了。
-70,TEXT_AKTKZJ014_04350_FRUSTRATEDDRAGON04350_000_090,雖然可能已經來不及了……可以請你去看一下嗎？<hex:02100103>只要去到眼神空洞的小龍那裡，<hex:02100103>就能看到它最後的結局了。
-71,TEXT_AKTKZJ014_04350_SYTEM_000_095,已經沒了氣息……
-72,TEXT_AKTKZJ014_04350_HOLLOWEYESDRAGON04350_000_100,……我摯愛的……<hex:02100103>這份思念……縱使我灰飛煙滅，也不會變……
-73,TEXT_AKTKZJ014_04350_HOLLOWEYESDRAGON04350_000_101,……
-74,TEXT_AKTKZJ014_04350_SYSTEM_000_102,小龍再也沒有多說些什麼。<hex:02100103>將看到的事實告訴疑似伴侶的龍族。
-75,TEXT_AKTKZJ014_04350_FRUSTRATEDDRAGON04350_000_110,什麼！<hex:02100103>那隻小龍居然還能說話，真是難以置信……<hex:02100103>不過它本就超出了一般的理解範圍，這種奇蹟也是有可能發生的。
-76,TEXT_AKTKZJ014_04350_FRUSTRATEDDRAGON04350_000_111,總之我要向你表示感謝。<hex:02100103>說出了心中的苦惱，我也稍微輕鬆了一些。<hex:02100103>能在最後有你為它送行，想必我的伴侶也是幸運的……
+0,"TEXT_AKTKZJ014_04350_SEQ_00","<hex:024804F201FC03><hex:024904F201FD03> Quest Sync<hex:0249020103><hex:0248020103><hex:02100103>This mother worries for her child."
+1,"TEXT_AKTKZJ014_04350_SEQ_01","A distressed dragon requests you check on her daughter's welfare. Though she does not speak to why her brethren prevent her leaving Reah Tahra, she insists that she cannot go herself, so you accede.<hex:02100103><hex:02100103>※Please note that the difficulty of this quest has been synced to your current level."
+2,"TEXT_AKTKZJ014_04350_SEQ_02","Though you locate the dragon's daughter, she seems entirely unable to interact with her environment. Indeed, you are unsure whether she is alive at all."
+3,"TEXT_AKTKZJ014_04350_SEQ_03","You tell the unmoving dragonling's mother what you have witnessed, but she appears incapable of facing the reality of her daughter's condition. She does mention a consort of hers, however, who you duly head off to question."
+4,"TEXT_AKTKZJ014_04350_SEQ_04","In speaking to the mother's consort, you learn that her dragonling took the brunt of some manner of laser-based assault during the machine invasion. For reasons that have escaped memory and understanding, she was seemingly frozen in time at that very instant, and has remained hovering on the border between life and death ever since. Confronted with a sight far too disturbing to bear, her mother became obsessed with her child's condition even while persisting in the denial of its truth─a state of affairs which has now culminated in her slipping away from Reah Tahra while you were absorbed in conversation."
+5,"TEXT_AKTKZJ014_04350_SEQ_05","You follow the mother to the only place she could have gone, and are confronted with the shocking scene of her corpse. More surprising still are the words that then ring forth, seemingly from her still-static daughter."
+6,"TEXT_AKTKZJ014_04350_SEQ_06","The stoic consort finds the daughter's sudden and brief capacity for speech as perplexing as you do. Nevertheless, he believes that your sharing in this tale and its apparent conclusion has brought comfort to all involved."
+7,"TEXT_AKTKZJ014_04350_SEQ_07",""
+8,"TEXT_AKTKZJ014_04350_SEQ_08",""
+9,"TEXT_AKTKZJ014_04350_SEQ_09",""
+10,"TEXT_AKTKZJ014_04350_SEQ_10",""
+11,"TEXT_AKTKZJ014_04350_SEQ_11",""
+12,"TEXT_AKTKZJ014_04350_SEQ_12",""
+13,"TEXT_AKTKZJ014_04350_SEQ_13",""
+14,"TEXT_AKTKZJ014_04350_SEQ_14",""
+15,"TEXT_AKTKZJ014_04350_SEQ_15",""
+16,"TEXT_AKTKZJ014_04350_SEQ_16",""
+17,"TEXT_AKTKZJ014_04350_SEQ_17",""
+18,"TEXT_AKTKZJ014_04350_SEQ_18",""
+19,"TEXT_AKTKZJ014_04350_SEQ_19",""
+20,"TEXT_AKTKZJ014_04350_SEQ_20",""
+21,"TEXT_AKTKZJ014_04350_SEQ_21",""
+22,"TEXT_AKTKZJ014_04350_SEQ_22",""
+23,"TEXT_AKTKZJ014_04350_SEQ_23",""
+24,"TEXT_AKTKZJ014_04350_TODO_00","Search for the dragonling in Ostrakon Deka-okto."
+25,"TEXT_AKTKZJ014_04350_TODO_01","Speak with the unmourning mother."
+26,"TEXT_AKTKZJ014_04350_TODO_02","Speak with the stoic consort."
+27,"TEXT_AKTKZJ014_04350_TODO_03","Search for the empty-eyed dragon."
+28,"TEXT_AKTKZJ014_04350_TODO_04","Speak with the stoic consort."
+29,"TEXT_AKTKZJ014_04350_TODO_05",""
+30,"TEXT_AKTKZJ014_04350_TODO_06",""
+31,"TEXT_AKTKZJ014_04350_TODO_07",""
+32,"TEXT_AKTKZJ014_04350_TODO_08",""
+33,"TEXT_AKTKZJ014_04350_TODO_09",""
+34,"TEXT_AKTKZJ014_04350_TODO_10",""
+35,"TEXT_AKTKZJ014_04350_TODO_11",""
+36,"TEXT_AKTKZJ014_04350_TODO_12",""
+37,"TEXT_AKTKZJ014_04350_TODO_13",""
+38,"TEXT_AKTKZJ014_04350_TODO_14",""
+39,"TEXT_AKTKZJ014_04350_TODO_15",""
+40,"TEXT_AKTKZJ014_04350_TODO_16",""
+41,"TEXT_AKTKZJ014_04350_TODO_17",""
+42,"TEXT_AKTKZJ014_04350_TODO_18",""
+43,"TEXT_AKTKZJ014_04350_TODO_19",""
+44,"TEXT_AKTKZJ014_04350_TODO_20",""
+45,"TEXT_AKTKZJ014_04350_TODO_21",""
+46,"TEXT_AKTKZJ014_04350_TODO_22",""
+47,"TEXT_AKTKZJ014_04350_TODO_23",""
+48,"TEXT_AKTKZJ014_04350_WANEDDRAGON04350_000_000","Thou! Thou canst leave this place!"
+49,"TEXT_AKTKZJ014_04350_WANEDDRAGON04350_000_001","Find my child in my stead, I beg thee. She doubtless wants for her mother's warmth, but my kin permit me not to quit this nest. They feign contrition, but if they truly pitied me, they would allow me to seek my child..."
+50,"TEXT_AKTKZJ014_04350_WANEDDRAGON04350_000_002","Thou must go, and assure me of her safety."
+51,"TEXT_AKTKZJ014_04350_WANEDDRAGON04350_000_005","The last I saw of my child, she was but a short distance from the shallow lake. Ask her how she fares, I beg thee..."
+52,"TEXT_AKTKZJ014_04350_HOLLOWEYESDRAGON04350_000_010","..."
+53,"TEXT_AKTKZJ014_04350_SYSTEM_000_011","The dragonling stares unblinking across the desolate landscape, eyes glassy enough that you cannot be certain she even remains among the living..."
+54,"TEXT_AKTKZJ014_04350_HOLLOWEYESDRAGON04350_000_020","..."
+55,"TEXT_AKTKZJ014_04350_SYSTEM_000_021","Clearly all is not well with this dragon. Her mother would surely wish to know..."
+56,"TEXT_AKTKZJ014_04350_WANEDDRAGON04350_000_030","This cannot be..."
+57,"TEXT_AKTKZJ014_04350_WANEDDRAGON04350_000_031","Thou must have given her a dreadful fright, for her to freeze so! Though she hath never been fond of strangers..."
+58,"TEXT_AKTKZJ014_04350_WANEDDRAGON04350_000_032","'Tis clearer than ever that I must see her myself. If only I could be freed from the watchful eyes of my consort..."
+59,"TEXT_AKTKZJ014_04350_WANEDDRAGON04350_000_033","Not moments ago did I feel his gaze upon me─once so loving, yet now so bitterly cold. How he doth patronize me!"
+60,"TEXT_AKTKZJ014_04350_WANEDDRAGON04350_000_034","...Thine eyes bespeak curiosity. My consort was much the same, in times past─ever desiring to know more. A pity he changed so."
+61,"TEXT_AKTKZJ014_04350_WANEDDRAGON04350_000_035","Nevertheless... He would surely divulge much if thou were to speak with him. Thou needst only seek the least pleasant countenance here."
+62,"TEXT_AKTKZJ014_04350_WANEDDRAGON04350_000_050","Curiosity reigneth in thy mind, is this not so? My consort hath the answers thou seekest..."
+63,"TEXT_AKTKZJ014_04350_HOLLOWEYESDRAGON04350_000_055","..."
+64,"TEXT_AKTKZJ014_04350_FRUSTRATEDDRAGON04350_000_070","Verily, she is─was─my beloved consort...but she is lost to me now."
+65,"TEXT_AKTKZJ014_04350_FRUSTRATEDDRAGON04350_000_071","Thou sought her progeny, didst thou not? Then thou knowest as well as I..."
+66,"TEXT_AKTKZJ014_04350_FRUSTRATEDDRAGON04350_000_072","That dragonling was stripped of all she was by the machines. I recall the battle, the burst of heat and light...her smoldering form."
+67,"TEXT_AKTKZJ014_04350_FRUSTRATEDDRAGON04350_000_073","I know not what occurred then, but when I returned to myself, she was there. Neither dead, nor truly alive...as if imprisoned in her final moments by some cruel deity. And so she hath remained ever since."
+68,"TEXT_AKTKZJ014_04350_FRUSTRATEDDRAGON04350_000_074","When she found us, my consort broke somewhere deep within. She seeth naught beyond her child...though I do not imagine she seeth her true."
+69,"TEXT_AKTKZJ014_04350_FRUSTRATEDDRAGON04350_000_075","And now, she hath gone... Thou knowest whence. 'Twas inevitable..."
+70,"TEXT_AKTKZJ014_04350_FRUSTRATEDDRAGON04350_000_090","Though no hope remaineth in my heart...I should like to know what has become of them."
+71,"TEXT_AKTKZJ014_04350_SYTEM_000_095","The mother lies still, never again to awake."
+72,"TEXT_AKTKZJ014_04350_HOLLOWEYESDRAGON04350_000_100","My dear... I shall love...unto the end of time..."
+73,"TEXT_AKTKZJ014_04350_HOLLOWEYESDRAGON04350_000_101","..."
+74,"TEXT_AKTKZJ014_04350_SYSTEM_000_102","The dragonling speaks no more. Her mother's consort should be informed of what has happened here."
+75,"TEXT_AKTKZJ014_04350_FRUSTRATEDDRAGON04350_000_110","Hmm... 'Tis strange. Though no stranger than the rest, perhaps..."
+76,"TEXT_AKTKZJ014_04350_FRUSTRATEDDRAGON04350_000_111","Thou couldst not change their fates... Yet in learning our tale, thou hast come to share my burden...and theirs as well. I thank thee."

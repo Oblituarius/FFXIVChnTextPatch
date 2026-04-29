@@ -2,90 +2,90 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_STMBDA407_02506_SEQ_00,模兒衣樓的飛燕看上去活力充沛。
-1,TEXT_STMBDA407_02506_SEQ_01,
-2,TEXT_STMBDA407_02506_SEQ_02,
-3,TEXT_STMBDA407_02506_SEQ_03,
-4,TEXT_STMBDA407_02506_SEQ_04,
-5,TEXT_STMBDA407_02506_SEQ_05,
-6,TEXT_STMBDA407_02506_SEQ_06,
-7,TEXT_STMBDA407_02506_SEQ_07,
-8,TEXT_STMBDA407_02506_SEQ_08,
-9,TEXT_STMBDA407_02506_SEQ_09,
-10,TEXT_STMBDA407_02506_SEQ_10,
-11,TEXT_STMBDA407_02506_SEQ_11,
-12,TEXT_STMBDA407_02506_SEQ_12,
-13,TEXT_STMBDA407_02506_SEQ_13,
-14,TEXT_STMBDA407_02506_SEQ_14,
-15,TEXT_STMBDA407_02506_SEQ_15,
-16,TEXT_STMBDA407_02506_SEQ_16,
-17,TEXT_STMBDA407_02506_SEQ_17,
-18,TEXT_STMBDA407_02506_SEQ_18,
-19,TEXT_STMBDA407_02506_SEQ_19,
-20,TEXT_STMBDA407_02506_SEQ_20,
-21,TEXT_STMBDA407_02506_SEQ_21,
-22,TEXT_STMBDA407_02506_SEQ_22,
-23,TEXT_STMBDA407_02506_SEQ_23,
-24,TEXT_STMBDA407_02506_TODO_00,和莉瑟對話
-25,TEXT_STMBDA407_02506_TODO_01,再次和莉瑟對話
-26,TEXT_STMBDA407_02506_TODO_02,在<hex:02280CFF05>EObj<hex:F61EA7610103>張望 對方發起攻擊的話就將其討伐
-27,TEXT_STMBDA407_02506_TODO_03,和飛燕對話
-28,TEXT_STMBDA407_02506_TODO_04,在<hex:02280CFF05>EObj<hex:F61EA7620103>張望 對方發起攻擊的話就將其討伐
-29,TEXT_STMBDA407_02506_TODO_05,和飛燕對話
-30,TEXT_STMBDA407_02506_TODO_06,
-31,TEXT_STMBDA407_02506_TODO_07,
-32,TEXT_STMBDA407_02506_TODO_08,
-33,TEXT_STMBDA407_02506_TODO_09,
-34,TEXT_STMBDA407_02506_TODO_10,
-35,TEXT_STMBDA407_02506_TODO_11,
-36,TEXT_STMBDA407_02506_TODO_12,
-37,TEXT_STMBDA407_02506_TODO_13,
-38,TEXT_STMBDA407_02506_TODO_14,
-39,TEXT_STMBDA407_02506_TODO_15,
-40,TEXT_STMBDA407_02506_TODO_16,
-41,TEXT_STMBDA407_02506_TODO_17,
-42,TEXT_STMBDA407_02506_TODO_18,
-43,TEXT_STMBDA407_02506_TODO_19,
-44,TEXT_STMBDA407_02506_TODO_20,
-45,TEXT_STMBDA407_02506_TODO_21,
-46,TEXT_STMBDA407_02506_TODO_22,
-47,TEXT_STMBDA407_02506_TODO_23,
-48,TEXT_STMBDA407_02506_LYSE_000_000,嗯……<hex:02100103>感覺重新充滿了力量啊！
-49,TEXT_STMBDA407_02506_GOSETSU_000_005,這下老夫確實感受到是真的和公子重逢了。<hex:02100103>好嘞，接下來就全力準備那達慕吧！
-50,TEXT_STMBDA407_02506_CIRINA_000_010,休息好了嗎？<hex:02100103>不知道我們的飯菜是不是合你的胃口，<hex:02100103>如果你能喜歡就再好不過了。
-51,TEXT_STMBDA407_02506_HIEN_000_020,那麼，其日娜。<hex:02100103>你給我們講一下要如何獲得那達慕的參戰資格吧。
-52,TEXT_STMBDA407_02506_CIRINA_000_021,首先，只有成年了的戰士才能參加那達慕。<hex:02100103>而在這一帶，只有成功通過巴兒達木霸道的人，<hex:02100103>才會被視為能夠戰鬥的成年人。
-53,TEXT_STMBDA407_02506_CIRINA_000_022,巴兒達木霸道，顧名思義，<hex:02100103>就是傳說中的英雄巴兒達木曾走過的冒險之路……<hex:02100103>那是通往太陽神草原最古老祭壇的祈禱之路。
-54,TEXT_STMBDA407_02506_CIRINA_000_023,你們需要打倒並馴服棲息在那裡的成年怪鳥「胡鷹」，<hex:02100103>以此作為到達最深處的證明，同時也作為戰士的成人禮。
-55,TEXT_STMBDA407_02506_HIEN_000_024,好的明白了。<hex:02100103>那巴兒達木霸道的入口在哪裡？
-56,TEXT_STMBDA407_02506_CIRINA_000_025,從這裡往西，有一個供奉著偉人恰佳遺骨的建築物，<hex:02100103>名叫恰佳遺骨堂。<hex:02100103>穿過那裡，再往西……
-57,TEXT_STMBDA407_02506_CIRINA_000_026,在一片被稱為喬爾艾恩石環的遺跡群附近，<hex:02100103>有一條山間小道。<hex:02100103>那條小道就是通往巴兒達木霸道的入口。
-58,TEXT_STMBDA407_02506_LYSE_000_027,聽上去有相當一段距離啊……<hex:02100103>感覺光是走到那裡就挺費勁的了。
-59,TEXT_STMBDA407_02506_CIRINA_000_028,是啊，而且現在還是白月節……<hex:02100103>有的部落會為了增強戰鬥力，<hex:02100103>掠奪人口或者是物資。
-60,TEXT_STMBDA407_02506_CIRINA_000_029,請你們一定要小心……<hex:02100103>大家都要平安回來啊。
-61,TEXT_STMBDA407_02506_HIEN_000_030,……你們表情怎麼都那麼嚴肅。<hex:02100103>明明那達慕也好，多瑪的未來也好，<hex:02100103>都和你們沒有直接關係的。
-62,TEXT_STMBDA407_02506_HIEN_000_031,不過，既然到了這一步，我也就不客氣了。<hex:02100103>正是因為前路艱險而困難，<hex:02100103>我才更需要有你們的陪伴和幫助。
-63,TEXT_STMBDA407_02506_HIEN_000_032,說到底，現在我並沒有能力給你們回報。<hex:02100103>只能不斷勝利，邁步向上爬……<hex:02100103>怨言也好，要求也罷，我都只能在這之後再聽了。
-64,TEXT_STMBDA407_02506_HIEN_000_033,那我們就出發吧！<hex:02100103>向西朝著巴兒達木霸道前進！
-65,TEXT_STMBDA407_02506_CIRINA_000_034,啊，差點忘了！<hex:02100103>有個重要的東西要交給你們。
-66,TEXT_STMBDA407_02506_CIRINA_000_035,這是誘鳥笛。<hex:02100103>如果你們吹響這個笛子的時候能喚來胡鷹，<hex:02100103>那就證明成功你們馴服了胡鷹。
-67,TEXT_STMBDA407_02506_LYSE_000_036,知道了。<hex:02100103>我們突破試煉之後，會試著吹響它的。
-68,TEXT_STMBDA407_02506_LYSE_000_037,那我們也出發吧！
-69,TEXT_STMBDA407_02506_CIRINA_000_040,祝你們一路順風，一定要注意安全……<hex:02100103>我當時去挑戰的時候，可是超級狼狽的……
-70,TEXT_STMBDA407_02506_LYSE_000_050,雖然還很遠，<hex:02100103>不過對面那個建築就是其日娜說的恰佳遺骨堂吧。
-71,TEXT_STMBDA407_02506_LYSE_000_051,好，我們先以那裡為目標前進吧！<hex:02100103>飛燕他們已經走了吧？
-72,TEXT_STMBDA407_02506_LYSE_000_060,……<hex:022903EB0203>。<hex:02100103>我感覺到有誰在盯著我們。
-73,TEXT_STMBDA407_02506_LYSE_000_061,其日娜說有部落會拐人或者掠奪物資。<hex:02100103>……我們前進的時候也留意下四周的動向吧。
-74,TEXT_STMBDA407_02506_BALLOON_000_062,這就是那些旅行者嗎？
-75,TEXT_STMBDA407_02506_BALLOON_000_063,把東西都交出來吧……
-76,TEXT_STMBDA407_02506_LYSE_000_070,模兒部的代表色是紅色吧。<hex:02100103>這些人穿著黃色的衣服……
-77,TEXT_STMBDA407_02506_GOSETSU_000_075,哼！<hex:02100103>讓他們明白明白襲擊老夫是件多麼愚蠢的事情！
-78,TEXT_STMBDA407_02506_HIEN_000_080,哦，你也沒事吧？<hex:02100103>我正走著呢，沒想到被這些傢伙襲擊了。<hex:02100103>剛剛姑且把他們打昏過去了。
-79,TEXT_STMBDA407_02506_HIEN_000_081,看來不管哪個部落，都因為那達慕幹勁十足的。<hex:02100103>嗯，我們也不能悠哉悠哉的了！
-80,TEXT_STMBDA407_02506_HIEN_000_082,好，過了這恰佳遺骨堂，沒多遠就是喬爾艾恩石環遺跡群了。<hex:02100103>前面可能還會遭到襲擊，你也不要掉以輕心啊。
-81,TEXT_STMBDA407_02506_BALLOON_000_083,前鋒沒能幹掉他們啊……
-82,TEXT_STMBDA407_02506_LYSE_000_090,接下來就要動真格的了吧！
-83,TEXT_STMBDA407_02506_GOSETSU_000_095,嗯……前面的氛圍的確變得不一樣了。<hex:02100103>有種神聖不可侵犯的神域氣息。
-84,TEXT_STMBDA407_02506_HIEN_000_100,哦，我們人都齊了。<hex:02100103>……看來這前面就是巴兒達木霸道了。
-85,TEXT_STMBDA407_02506_HIEN_000_101,估計在太陽神草原的歷史上，<hex:02100103>還是頭一次有暮暉之民以外的人來挑戰這個試煉吧。<hex:02100103>讓我們完美突破這個試煉，在草原上刻下我們的名字吧。
-86,TEXT_STMBDA407_02506_HIEN_000_102,對於身為暮暉之民的你來說，這是不是理想的儀式啊？<hex:02100103>當然，論幹勁我可是不會輸的。<hex:02100103>讓我們完美突破這個試煉，在草原上刻下我們的名字吧。
+0,"TEXT_STMBDA407_02506_SEQ_00","Hien is ready to become a warrior of the Steppe."
+1,"TEXT_STMBDA407_02506_SEQ_01",""
+2,"TEXT_STMBDA407_02506_SEQ_02",""
+3,"TEXT_STMBDA407_02506_SEQ_03",""
+4,"TEXT_STMBDA407_02506_SEQ_04",""
+5,"TEXT_STMBDA407_02506_SEQ_05",""
+6,"TEXT_STMBDA407_02506_SEQ_06",""
+7,"TEXT_STMBDA407_02506_SEQ_07",""
+8,"TEXT_STMBDA407_02506_SEQ_08",""
+9,"TEXT_STMBDA407_02506_SEQ_09",""
+10,"TEXT_STMBDA407_02506_SEQ_10",""
+11,"TEXT_STMBDA407_02506_SEQ_11",""
+12,"TEXT_STMBDA407_02506_SEQ_12",""
+13,"TEXT_STMBDA407_02506_SEQ_13",""
+14,"TEXT_STMBDA407_02506_SEQ_14",""
+15,"TEXT_STMBDA407_02506_SEQ_15",""
+16,"TEXT_STMBDA407_02506_SEQ_16",""
+17,"TEXT_STMBDA407_02506_SEQ_17",""
+18,"TEXT_STMBDA407_02506_SEQ_18",""
+19,"TEXT_STMBDA407_02506_SEQ_19",""
+20,"TEXT_STMBDA407_02506_SEQ_20",""
+21,"TEXT_STMBDA407_02506_SEQ_21",""
+22,"TEXT_STMBDA407_02506_SEQ_22",""
+23,"TEXT_STMBDA407_02506_SEQ_23",""
+24,"TEXT_STMBDA407_02506_TODO_00","Speak with Lyse."
+25,"TEXT_STMBDA407_02506_TODO_01","Speak with Lyse."
+26,"TEXT_STMBDA407_02506_TODO_02","Survey your surroundings."
+27,"TEXT_STMBDA407_02506_TODO_03","Speak with Hien."
+28,"TEXT_STMBDA407_02506_TODO_04","Survey your surroundings."
+29,"TEXT_STMBDA407_02506_TODO_05","Speak with Hien."
+30,"TEXT_STMBDA407_02506_TODO_06",""
+31,"TEXT_STMBDA407_02506_TODO_07",""
+32,"TEXT_STMBDA407_02506_TODO_08",""
+33,"TEXT_STMBDA407_02506_TODO_09",""
+34,"TEXT_STMBDA407_02506_TODO_10",""
+35,"TEXT_STMBDA407_02506_TODO_11",""
+36,"TEXT_STMBDA407_02506_TODO_12",""
+37,"TEXT_STMBDA407_02506_TODO_13",""
+38,"TEXT_STMBDA407_02506_TODO_14",""
+39,"TEXT_STMBDA407_02506_TODO_15",""
+40,"TEXT_STMBDA407_02506_TODO_16",""
+41,"TEXT_STMBDA407_02506_TODO_17",""
+42,"TEXT_STMBDA407_02506_TODO_18",""
+43,"TEXT_STMBDA407_02506_TODO_19",""
+44,"TEXT_STMBDA407_02506_TODO_20",""
+45,"TEXT_STMBDA407_02506_TODO_21",""
+46,"TEXT_STMBDA407_02506_TODO_22",""
+47,"TEXT_STMBDA407_02506_TODO_23",""
+48,"TEXT_STMBDA407_02506_LYSE_000_000","<yawn> That was just what I needed!"
+49,"TEXT_STMBDA407_02506_GOSETSU_000_005","A new beginning lies beyond the horizon. We have but to seize it with our own two hands."
+50,"TEXT_STMBDA407_02506_CIRINA_000_010","Was the food to your liking? Good, good..."
+51,"TEXT_STMBDA407_02506_HIEN_000_020","Now then, Cirina, if you would tell us of the trial we must undertake that we might participate in the Naadam."
+52,"TEXT_STMBDA407_02506_CIRINA_000_021","Ah, yes! As I mentioned before, to be recognized as warriors of the Steppe, one must follow in the footsteps of the legendary warrior Bardam."
+53,"TEXT_STMBDA407_02506_CIRINA_000_022","He embarked on a great pilgrimage, eschewing cart and horse, and walked for many malms until he came to a holy place, thereafter named Bardam's Mettle. There, at the altar, as he did, you must pray."
+54,"TEXT_STMBDA407_02506_CIRINA_000_023","The altar lies deep within the breeding grounds of the yol. To complete your trial, you must tame one. Only then will your trial be complete."
+55,"TEXT_STMBDA407_02506_HIEN_000_024","Fair enough. And where is the entrance to Bardam's Mettle?"
+56,"TEXT_STMBDA407_02506_CIRINA_000_025","You must journey far, far to the west─beyond Chakha Zoh, where lie the bones of a great and wise woman."
+57,"TEXT_STMBDA407_02506_CIRINA_000_026","Beyond the ruins of Ceol Aen, hidden within the mountains is a narrow pass. Follow it, and you will come to Bardam's Mettle."
+58,"TEXT_STMBDA407_02506_LYSE_000_027","Sounds to me like it'll be a trial just getting to the trial..."
+59,"TEXT_STMBDA407_02506_CIRINA_000_028","More than you may know. On the eve of the Naadam, many strive to improve their fortunes─some by abducting and enslaving the warriors of other tribes."
+60,"TEXT_STMBDA407_02506_CIRINA_000_029","Be ever mindful of your surroundings, lest you be taken as well."
+61,"TEXT_STMBDA407_02506_HIEN_000_030","Hah! What grim expressions you wear while nodding so powerfully! Warriors such as you are not like to fall en route to a mere rite of passage."
+62,"TEXT_STMBDA407_02506_HIEN_000_031","We shall proceed with all due caution, yes, but let us not worry overmuch."
+63,"TEXT_STMBDA407_02506_HIEN_000_032","We will overcome this trial, and the next, and the next, until we stand triumphant. That is all there is to it, no?"
+64,"TEXT_STMBDA407_02506_HIEN_000_033","With me, my friends! To the west! To Bardam's Mettle!"
+65,"TEXT_STMBDA407_02506_CIRINA_000_034","W-Wait, Hien! Oh dear. I knew I would forget."
+66,"TEXT_STMBDA407_02506_CIRINA_000_035","Here─take these whistles. Once tamed, your yol will hearken to their call."
+67,"TEXT_STMBDA407_02506_LYSE_000_036","Thanks. We'll try them out once we've finished the trial."
+68,"TEXT_STMBDA407_02506_LYSE_000_037","Let's catch up to Hien and Gosetsu!"
+69,"TEXT_STMBDA407_02506_CIRINA_000_040","It is indeed a perilous journey, but I know you will succeed─as I once did."
+70,"TEXT_STMBDA407_02506_LYSE_000_050","We still have a long way to go, but I think I can see that monument Cirina talked about."
+71,"TEXT_STMBDA407_02506_LYSE_000_051","I don't see Hien or Gosetsu, though. We should hurry!"
+72,"TEXT_STMBDA407_02506_LYSE_000_060","Hey...I don't know about you, but I can't shake the feeling someone's watching us."
+73,"TEXT_STMBDA407_02506_LYSE_000_061","Cirina did warn us about tribes that kidnap warriors and make them fight for them. Something tells me we're about to meet them..."
+74,"TEXT_STMBDA407_02506_BALLOON_000_062","The foreigners!"
+75,"TEXT_STMBDA407_02506_BALLOON_000_063","Your blood shall water the soil."
+76,"TEXT_STMBDA407_02506_LYSE_000_070","They're wearing yellow. I've seen their clothes somewhere before..."
+77,"TEXT_STMBDA407_02506_GOSETSU_000_075","Is that the best you can do!? Come, villains! Come at me!"
+78,"TEXT_STMBDA407_02506_HIEN_000_080","Ah, there you are. As you can see, they left us little choice."
+79,"TEXT_STMBDA407_02506_HIEN_000_081","I gather you were forced to dispatch a few yourself? So it goes. A few less warriors to face in the Naadam, eh?"
+80,"TEXT_STMBDA407_02506_HIEN_000_082","Ceol Aen is not much further. That said, I should be surprised if our would-be masters do not try to subdue us one final time..."
+81,"TEXT_STMBDA407_02506_BALLOON_000_083","They are here!? To arms!"
+82,"TEXT_STMBDA407_02506_LYSE_000_090","<huff> <puff> This is it! The real trial!"
+83,"TEXT_STMBDA407_02506_GOSETSU_000_095","Tread softly. We are for hallowed ground, and the kami are restless..."
+84,"TEXT_STMBDA407_02506_HIEN_000_100","Right. This must be the pass that leads to Bardam's Mettle."
+85,"TEXT_STMBDA407_02506_HIEN_000_101","They say no foreigners have overcome this trial, but, well, there is a first time for everything, no?"
+86,"TEXT_STMBDA407_02506_HIEN_000_102","Perhaps you do not hail from these lands, but your forefathers did. You do them honor to carry on their legacy this day."

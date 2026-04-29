@@ -2,101 +2,101 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_GAIUSE307_01448_SEQ_00,石之家的敏菲利亞，想和眾人商討一下黑衣森林的異變之事。
-1,TEXT_GAIUSE307_01448_SEQ_01,敏菲利亞告訴眾人，在黑衣森林中，出現了召喚蠻神拉姆的徵兆。接受嘉恩·艾·神納的協助請求，前往格里達尼亞的蛇巢司令部，拜訪沃爾賽勒正牙校。
-2,TEXT_GAIUSE307_01448_SEQ_02,拜訪了沃爾賽勒。前往格里達尼亞的芙蓉圓桌，和嘉恩·艾·神納對話。舊街豐饒神祭壇的寂靜的法師會帶領冒險者前往芙蓉圓桌。
-3,TEXT_GAIUSE307_01448_SEQ_03,和嘉恩·艾·神納進行了交談。蠻神拉姆的確現身於世間了。為了能和蠻神拉姆進行對話，前往東部林區的妖精暫留地，拜訪雙蛇黨副牙尉。
-4,TEXT_GAIUSE307_01448_SEQ_04,和雙蛇黨副牙尉進行了交談。拂曉的賢人們正在妖精領測量乙太，確定蠻神拉姆降臨的位置。做好行動準備，等待測量結果。
-5,TEXT_GAIUSE307_01448_SEQ_05,
-6,TEXT_GAIUSE307_01448_SEQ_06,
-7,TEXT_GAIUSE307_01448_SEQ_07,
-8,TEXT_GAIUSE307_01448_SEQ_08,
-9,TEXT_GAIUSE307_01448_SEQ_09,
-10,TEXT_GAIUSE307_01448_SEQ_10,
-11,TEXT_GAIUSE307_01448_SEQ_11,
-12,TEXT_GAIUSE307_01448_SEQ_12,
-13,TEXT_GAIUSE307_01448_SEQ_13,
-14,TEXT_GAIUSE307_01448_SEQ_14,
-15,TEXT_GAIUSE307_01448_SEQ_15,
-16,TEXT_GAIUSE307_01448_SEQ_16,
-17,TEXT_GAIUSE307_01448_SEQ_17,
-18,TEXT_GAIUSE307_01448_SEQ_18,
-19,TEXT_GAIUSE307_01448_SEQ_19,
-20,TEXT_GAIUSE307_01448_SEQ_20,
-21,TEXT_GAIUSE307_01448_SEQ_21,
-22,TEXT_GAIUSE307_01448_SEQ_22,
-23,TEXT_GAIUSE307_01448_SEQ_23,
-24,TEXT_GAIUSE307_01448_TODO_00,和蛇巢司令部的沃爾賽勒對話
-25,TEXT_GAIUSE307_01448_TODO_01,和芙蓉圓桌的嘉恩·艾·神納對話
-26,TEXT_GAIUSE307_01448_TODO_02,和妖精暫留地的雙蛇黨副牙尉對話
-27,TEXT_GAIUSE307_01448_TODO_03,
-28,TEXT_GAIUSE307_01448_TODO_04,
-29,TEXT_GAIUSE307_01448_TODO_05,
-30,TEXT_GAIUSE307_01448_TODO_06,
-31,TEXT_GAIUSE307_01448_TODO_07,
-32,TEXT_GAIUSE307_01448_TODO_08,
-33,TEXT_GAIUSE307_01448_TODO_09,
-34,TEXT_GAIUSE307_01448_TODO_10,
-35,TEXT_GAIUSE307_01448_TODO_11,
-36,TEXT_GAIUSE307_01448_TODO_12,
-37,TEXT_GAIUSE307_01448_TODO_13,
-38,TEXT_GAIUSE307_01448_TODO_14,
-39,TEXT_GAIUSE307_01448_TODO_15,
-40,TEXT_GAIUSE307_01448_TODO_16,
-41,TEXT_GAIUSE307_01448_TODO_17,
-42,TEXT_GAIUSE307_01448_TODO_18,
-43,TEXT_GAIUSE307_01448_TODO_19,
-44,TEXT_GAIUSE307_01448_TODO_20,
-45,TEXT_GAIUSE307_01448_TODO_21,
-46,TEXT_GAIUSE307_01448_TODO_22,
-47,TEXT_GAIUSE307_01448_TODO_23,
-48,TEXT_GAIUSE307_01448_MESSENGER01447_100_000,嘉恩·艾·神納大人向拂曉血盟發去了支援請求，<hex:02100103>詳情已告知敏菲利亞閣下。
-49,TEXT_GAIUSE307_01448_MINFILIA_000_000,……人都到齊了吧。
-50,TEXT_GAIUSE307_01448_MINFILIA_000_001,方才，我們接到了雙蛇黨的聯絡，<hex:02100103>得知妖精族很有可能進行了請神，召喚了蠻神拉姆。
-51,TEXT_GAIUSE307_01448_THANCRED_000_002,既然是「很有可能」，那也就是說還不確定啊。
-52,TEXT_GAIUSE307_01448_MINFILIA_000_003,據嘉恩·艾·神納大人所說，<hex:02100103>元靈已告知他們蠻神拉姆的顯現。<hex:02100103>但妖精領現階段仍保持沉默。
-53,TEXT_GAIUSE307_01448_PAPALYMO_000_004,與好戰的蠻神迦樓羅不同，<hex:02100103>蠻神拉姆只是一個妖精族的守護者。
-54,TEXT_GAIUSE307_01448_PAPALYMO_000_005,即使拉姆真的降臨於世了，<hex:02100103>只要我們不侵犯妖精族的領域，<hex:02100103>他應該就不會來主動攻擊我們。
-55,TEXT_GAIUSE307_01448_YSHTOLA_000_006,……但這次也有點太唐突了，<hex:02100103>況且，我們早就開始防備他們召喚蠻神了，不是麼？
-56,TEXT_GAIUSE307_01448_YSHTOLA_000_007,伊達、帕帕力莫……<hex:02100103>你們兩個應該會注意到召喚的徵兆呀。
-57,TEXT_GAIUSE307_01448_YDA_000_008,……的確是注意到了。<hex:02100103>雖然我們有預感，他們近期要召喚，<hex:02100103>但沒想到會這麼快呀。
-58,TEXT_GAIUSE307_01448_YSHTOLA_000_009,伊達！<hex:02100103>你明明知道，卻對此隱瞞不報？！
-59,TEXT_GAIUSE307_01448_YDA_000_010,沒、沒報告的確是我不對！<hex:02100103>但我不是隱瞞……只是靜觀其變……<hex:02100103>哎呀！帕、帕帕力莫也是知道的嘛！
-60,TEXT_GAIUSE307_01448_YDA_000_011,再說了，妖精族本來就對外人進入自己森林的事十分敏感。
-61,TEXT_GAIUSE307_01448_YDA_000_012,靈災後，蠻神拉姆只被召喚過一次，<hex:02100103>但那回也是因為加雷馬帝國的傢伙們入侵了森林……
-62,TEXT_GAIUSE307_01448_PAPALYMO_000_013,所以說，只要帝國東方堡還矗立在黑衣森林裡，<hex:02100103>就無法避免妖精族再次進行請神。
-63,TEXT_GAIUSE307_01448_PAPALYMO_000_014,……這就是我和伊達的見解，難得我倆會達成意見統一。<hex:02100103>所以，我們雖是知情人，但也愛莫能助啊。
-64,TEXT_GAIUSE307_01448_PAPALYMO_000_015,不過有一點是超乎了我們的想像的，<hex:02100103>那就是妖精領周遭的環境會在這個時候急速變化。
-65,TEXT_GAIUSE307_01448_PAPALYMO_000_016,烏爾達哈難民的抗議活動與暴動……<hex:02100103>受此影響，有不少人逃到了黑衣森林來。
-66,TEXT_GAIUSE307_01448_PAPALYMO_000_017,流入森林的「異物」……<hex:02100103>妖精族很可能是感受到了威脅，<hex:02100103>因此才需要去依靠蠻神的。
-67,TEXT_GAIUSE307_01448_YSHTOLA_000_018,和蠻神泰坦的時候一樣，<hex:02100103>又是由人引發事端，導致請神的發生。
-68,TEXT_GAIUSE307_01448_PAPALYMO_000_019,……這也只是我們的一個猜想。<hex:02100103>話說回來，這次蠻神拉姆的召喚，對我們來說，<hex:02100103>可能是一個意想不到的機會。
-69,TEXT_GAIUSE307_01448_PAPALYMO_000_020,<hex:022903EB0203>，<hex:02100103>你以前和暫留地的妖精交流過，<hex:02100103>他們應該向你表達過對和平的嚮往。
-70,TEXT_GAIUSE307_01448_PAPALYMO_000_021,因此我認為，<hex:02100103>你或許也能和妖精族的守護者——蠻神拉姆進行對話。
-71,TEXT_GAIUSE307_01448_PAPALYMO_000_022,如果我們能夠互相理解，<hex:02100103>也許就能斬斷召喚蠻神的連鎖，就能與蠻族和平共處了啊！
-72,TEXT_GAIUSE307_01448_YSHTOLA_000_023,……如果真有這種可能，<hex:02100103>人和蠻族之間早就不會有爭端了。
-73,TEXT_GAIUSE307_01448_YDA_000_024,但這次不一樣……
-74,TEXT_GAIUSE307_01448_MINFILIA_000_025,大伙，冷靜一下，<hex:02100103>關於此事，我們也有必要詢問一下格里達尼亞的意見。
-75,TEXT_GAIUSE307_01448_MINFILIA_000_026,嘉恩·艾·神納大人指名要你去支援他們，<hex:02100103>你能馬上去找雙蛇黨的沃爾賽勒嗎？
-76,TEXT_GAIUSE307_01448_MINFILIA_000_027,謝謝你。<hex:02100103>由於可能會和蠻神拉姆發生戰鬥，<hex:02100103>因此也讓大伙和你一起去，你們合力解決問題。
-77,TEXT_GAIUSE307_01448_MINFILIA_000_030,嘉恩·艾·神納大人指名要你去支援他們，<hex:02100103>你能馬上去找雙蛇黨的沃爾賽勒嗎？
-78,TEXT_GAIUSE307_01448_VORSAILE_000_040,等你很久了，<hex:02100103>……想必你也已經聽說蠻神拉姆的事了。
-79,TEXT_GAIUSE307_01448_VORSAILE_000_041,雙蛇黨已做好萬全準備，<hex:02100103>雖然我想讓你馬上出發……<hex:02100103>但在那之前，嘉恩·艾大人有話要親自和你說。
-80,TEXT_GAIUSE307_01448_VORSAILE_000_042,這次和以往的討伐蠻神作戰有所不同，<hex:02100103>總之，你先去豐饒神祭壇，找在那裡等待的法師，<hex:02100103>讓她帶你前往芙蓉圓桌。
-81,TEXT_GAIUSE307_01448_VORSAILE_000_050,嘉恩·艾大人有話要親自和你說。<hex:02100103>總之，你先去豐饒神祭壇，找在那裡等待的法師，<hex:02100103>讓她帶你前往芙蓉圓桌。
-82,TEXT_GAIUSE307_01448_DOORMANLOTUS_000_060,你來了啊。嘉恩·艾大人已經等候多時了。<hex:02100103>拂曉的其他成員也已經到達芙蓉圓桌了，<hex:02100103>……你也趕快進去吧。
-83,TEXT_GAIUSE307_01448_Q1_000_061,要前往芙蓉圓桌嗎？
-84,TEXT_GAIUSE307_01448_A1_000_062,是
-85,TEXT_GAIUSE307_01448_A1_000_063,否
-86,TEXT_GAIUSE307_01448_YDA_000_070,不管嘉恩·艾大人做出怎樣的決定，<hex:02100103>我都幫定你了！<hex:02100103>雅·修特拉肯定也是這麼想的！
-87,TEXT_GAIUSE307_01448_PAPALYMO_000_075,蠻神拉姆的制裁之雷十分恐怖，<hex:02100103>我們要趕快找到事情的突破口，<hex:02100103>避免他把格里達尼亞人民認定成敵人。
-88,TEXT_GAIUSE307_01448_THANCRED_000_080,妖精族好像也派來了使者，<hex:02100103>看來……難道？
-89,TEXT_GAIUSE307_01448_YSHTOLA_000_085,我們去聽聽嘉恩·艾大人準備如何對付蠻神拉姆。
-90,TEXT_GAIUSE307_01448_SYLPH01448_000_090,啊！你是族長的那個朋友吧呼啾！<hex:02100103>來的是個熟人真是太好了呼啾！
-91,TEXT_GAIUSE307_01448_DOORMANLOTUS_000_095,看來你已經和嘉恩·艾大人談過了，<hex:02100103>……希望你能順利完成任務。
-92,TEXT_GAIUSE307_01448_LIEUTENANT01448_000_100,你是拂曉血盟的<hex:022903EB0203>吧？<hex:02100103>感謝你的協助！
-93,TEXT_GAIUSE307_01448_LIEUTENANT01448_000_101,你這次的任務是和蠻神拉姆對話……<hex:02100103>但想要達成這一目標，首先需要確定拉姆降臨的位置。
-94,TEXT_GAIUSE307_01448_LIEUTENANT01448_000_102,現在拂曉的賢人們正潛入妖精領測量乙太、進行位置確定。<hex:02100103>請暫時等候他們的好消息吧。
-95,TEXT_GAIUSE307_01448_SCENE00007_EVENTAREA_WARP_YESNO_TITLE,
-96,TEXT_GAIUSE307_01448_SCENE00007_EVENTAREA_WARP_YESNO_YES,
-97,TEXT_GAIUSE307_01448_SCENE00007_EVENTAREA_WARP_YESNO_NO,
+0,"TEXT_GAIUSE307_01448_SEQ_00","Minfilia wishes to discuss the latest threat to arise in the Black Shroud."
+1,"TEXT_GAIUSE307_01448_SEQ_01","According to Minfilia, the Order of the Twin Adder believes that the primal Ramuh has been summoned within the borders of the Black Shroud. The Antecedent bids you answer the request of the Elder Seedseer, and offer your aid to the people of the forest. Travel to Gridania and report to Serpent Commander Vorsaile Heuloix at the Adders' Nest."
+2,"TEXT_GAIUSE307_01448_SEQ_02","Serpent Commander Heuloix seems much relieved at your arrival. Though eager for you to begin your mission, he asks that you first meet with Kan–E–Senna at the Lotus Stand to discuss diplomatic alternatives. Speak with the silent conjurer at Nophica's Altar to gain admission."
+3,"TEXT_GAIUSE307_01448_SEQ_03","The Elder Seedseer confirms that the primal Ramuh has indeed been summoned forth by the natives of the Sylphlands. Loath to sacrifice the hard-won peace with the sylphs, she asks that you attempt to parley with the Lord of Levin before resorting to force. Travel to Little Solace in the East Shroud and report to the serpent lieutenant who will brief you on how to proceed."
+4,"TEXT_GAIUSE307_01448_SEQ_04","After welcoming you to Little Solace, the serpent lieutenant informs you that an investigation is already underway to determine where the primal Ramuh might be found. Bide your time until such time as the report is delivered, then speak with the lieutenant once more."
+5,"TEXT_GAIUSE307_01448_SEQ_05",""
+6,"TEXT_GAIUSE307_01448_SEQ_06",""
+7,"TEXT_GAIUSE307_01448_SEQ_07",""
+8,"TEXT_GAIUSE307_01448_SEQ_08",""
+9,"TEXT_GAIUSE307_01448_SEQ_09",""
+10,"TEXT_GAIUSE307_01448_SEQ_10",""
+11,"TEXT_GAIUSE307_01448_SEQ_11",""
+12,"TEXT_GAIUSE307_01448_SEQ_12",""
+13,"TEXT_GAIUSE307_01448_SEQ_13",""
+14,"TEXT_GAIUSE307_01448_SEQ_14",""
+15,"TEXT_GAIUSE307_01448_SEQ_15",""
+16,"TEXT_GAIUSE307_01448_SEQ_16",""
+17,"TEXT_GAIUSE307_01448_SEQ_17",""
+18,"TEXT_GAIUSE307_01448_SEQ_18",""
+19,"TEXT_GAIUSE307_01448_SEQ_19",""
+20,"TEXT_GAIUSE307_01448_SEQ_20",""
+21,"TEXT_GAIUSE307_01448_SEQ_21",""
+22,"TEXT_GAIUSE307_01448_SEQ_22",""
+23,"TEXT_GAIUSE307_01448_SEQ_23",""
+24,"TEXT_GAIUSE307_01448_TODO_00","Speak with Vorsaile Heuloix at the Adders' Nest."
+25,"TEXT_GAIUSE307_01448_TODO_01","Speak with Kan–E–Senna at the Lotus Stand."
+26,"TEXT_GAIUSE307_01448_TODO_02","Speak with the serpent lieutenant at Little Solace."
+27,"TEXT_GAIUSE307_01448_TODO_03",""
+28,"TEXT_GAIUSE307_01448_TODO_04",""
+29,"TEXT_GAIUSE307_01448_TODO_05",""
+30,"TEXT_GAIUSE307_01448_TODO_06",""
+31,"TEXT_GAIUSE307_01448_TODO_07",""
+32,"TEXT_GAIUSE307_01448_TODO_08",""
+33,"TEXT_GAIUSE307_01448_TODO_09",""
+34,"TEXT_GAIUSE307_01448_TODO_10",""
+35,"TEXT_GAIUSE307_01448_TODO_11",""
+36,"TEXT_GAIUSE307_01448_TODO_12",""
+37,"TEXT_GAIUSE307_01448_TODO_13",""
+38,"TEXT_GAIUSE307_01448_TODO_14",""
+39,"TEXT_GAIUSE307_01448_TODO_15",""
+40,"TEXT_GAIUSE307_01448_TODO_16",""
+41,"TEXT_GAIUSE307_01448_TODO_17",""
+42,"TEXT_GAIUSE307_01448_TODO_18",""
+43,"TEXT_GAIUSE307_01448_TODO_19",""
+44,"TEXT_GAIUSE307_01448_TODO_20",""
+45,"TEXT_GAIUSE307_01448_TODO_21",""
+46,"TEXT_GAIUSE307_01448_TODO_22",""
+47,"TEXT_GAIUSE307_01448_TODO_23",""
+48,"TEXT_GAIUSE307_01448_MESSENGER01447_100_000","I am come on behalf of the Elder Seedseer to petition the aid of your order. The Antecedent has been apprised of the situation."
+49,"TEXT_GAIUSE307_01448_MINFILIA_000_000","Thank you for responding to my call with such haste."
+50,"TEXT_GAIUSE307_01448_MINFILIA_000_001","Rest assured, I should not have summoned you were it not urgent. To business, then: I have received some most disturbing news from the Order of the Twin Adder. They have reason to believe that the sylphs may have called forth their revered guardian─the primal Ramuh."
+51,"TEXT_GAIUSE307_01448_THANCRED_000_002","I'm sorry, “may have”? Then it is not certain?"
+52,"TEXT_GAIUSE307_01448_MINFILIA_000_003","The Elder Seedseer informs us that the elementals themselves murmur of the Lord of Levin's return to the forest. The Sylphlands, however, display no signs of undue commotion."
+53,"TEXT_GAIUSE307_01448_PAPALYMO_000_004","Forgive me, Antecedent, but that fact need not contradict the elementals' testimony. Unlike his more bellicose compeers─Garuda and so on─Ramuh is reputed to act only in the defense of his children."
+54,"TEXT_GAIUSE307_01448_PAPALYMO_000_005","I imagine he would soon make his presence known if any were foolish enough to directly endanger the sylphs or their territory."
+55,"TEXT_GAIUSE307_01448_YSHTOLA_000_006","The abruptness of this development concerns me. Were we not keeping a close watch on the “touched ones” and their movements?"
+56,"TEXT_GAIUSE307_01448_YSHTOLA_000_007","If preparations for a summoning ritual were indeed underway, 'twould surely not have escaped your notice."
+57,"TEXT_GAIUSE307_01448_YDA_000_008","Oh, it didn't. I was pretty sure it was going to happen─just not this soon."
+58,"TEXT_GAIUSE307_01448_YSHTOLA_000_009","I beg your pardon? You foresaw this eventuality and did naught to prevent it!?"
+59,"TEXT_GAIUSE307_01448_YDA_000_010","I-I told Papalymo! I suppose I <hex:021A020203>could<hex:021A020103> have reported things to Minfilia earlier...but there honestly wasn't much we could do except wait and see."
+60,"TEXT_GAIUSE307_01448_YDA_000_011","You know how the sylphs feel about people poking around in their territory."
+61,"TEXT_GAIUSE307_01448_YDA_000_012","They already summoned Ramuh once right after the Calamity, but that was because the Garleans came tramping through the forest..."
+62,"TEXT_GAIUSE307_01448_PAPALYMO_000_013","...And so long as Castrum Oriens stands, the sylphs cannot be blamed for wishing to have their guardian deity on hand."
+63,"TEXT_GAIUSE307_01448_PAPALYMO_000_014","In short, Yda and I are in agreement. The actions of the forest folk were inevitable and unavoidable."
+64,"TEXT_GAIUSE307_01448_PAPALYMO_000_015","And I maintain that observation would have remained the best policy had it not been for the sudden influx of strangers into the Black Shroud. That, alas, we did not foresee..."
+65,"TEXT_GAIUSE307_01448_PAPALYMO_000_016","By all accounts, the recent violence in Ul'dah drove a number of refugees to seek safety under the concealing canopy of the trees."
+66,"TEXT_GAIUSE307_01448_PAPALYMO_000_017","'Tis like that the sylphs perceived this panicked migration as yet another invasion, and quickened their efforts to summon their god."
+67,"TEXT_GAIUSE307_01448_YSHTOLA_000_018","I am put in mind of Titan and the kobolds. Once again, it is the affairs of men which have paved the way for a primal's coming."
+68,"TEXT_GAIUSE307_01448_PAPALYMO_000_019","Indeed. One cannot help but wonder what manner of place Eorzea would be without the “civilizing influence” of mankind... Be that as it may, this regrettable development <hex:021A020203>does<hex:021A020103> afford us a unique opportunity."
+69,"TEXT_GAIUSE307_01448_PAPALYMO_000_020","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>─through your dealings with the sylphs of Little Solace, you once succeeded in preventing an untimely conflict with Gridania."
+70,"TEXT_GAIUSE307_01448_PAPALYMO_000_021","I wonder...might one who has treated with the sylphs so fruitfully in the past not achieve similar success with their patron deity?"
+71,"TEXT_GAIUSE307_01448_PAPALYMO_000_022","If Ramuh can be convinced of our intentions, it may be the first step to breaking the cycle of primal summoning."
+72,"TEXT_GAIUSE307_01448_YSHTOLA_000_023","...A fond hope. Were such a thing possible, we would not have been at war with the beastmen since time immemorial."
+73,"TEXT_GAIUSE307_01448_YDA_000_024","But maybe this time we can─"
+74,"TEXT_GAIUSE307_01448_MINFILIA_000_025","Let us continue this discussion anon. We must needs first consult with the nation most affected by Ramuh's presence."
+75,"TEXT_GAIUSE307_01448_MINFILIA_000_026","The Elder Seedseer has requested your personal involvement, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Pray report to Commander Heuloix at the Adders' Nest as soon as you are able."
+76,"TEXT_GAIUSE307_01448_MINFILIA_000_027","Steel yourself for the worst. While I hope for a peaceful resolution to this matter, experience suggests that your meeting with the Lord of Levin will prove less than amicable. In such an event, your fellow Scions will of course lend you whatever support you require."
+77,"TEXT_GAIUSE307_01448_MINFILIA_000_030","The Elder Seedseer has asked for you by name. Pray report to Commander Heuloix at the Adders' Nest in Gridania with all haste."
+78,"TEXT_GAIUSE307_01448_VORSAILE_000_040","<hex:0208F0E2E1E93501FF1F><hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> of the Scions<hex:FFBD><hex:0208B9E1E93601FF93><hex:022B7EFF7C><hex:020825E1E93501FF1D><hex:022819FF14>GCRankLimsaMaleText<hex:E9350903><hex:FF01><hex:03><hex:020828E1E93601FF20><hex:02281CFF17>GCRankGridaniaMaleText<hex:E9360903><hex:FF01><hex:03><hex:020825E1E93701FF1D><hex:022819FF14>GCRankUldahMaleText<hex:E9370903><hex:FF01><hex:03><hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303><hex:FF1F><hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> of the Scions<hex:03><hex:03>, your arrival has been most anticipated. The appearance of a primal is ever cause for alarm and unease."
+79,"TEXT_GAIUSE307_01448_VORSAILE_000_041","Though my men stand ready for any eventuality, I know of none more qualified than you to snuff out this threat. Indeed, I would have you do so without delay. The Elder Seedseer, however, would speak with you first."
+80,"TEXT_GAIUSE307_01448_VORSAILE_000_042","She is of the opinion that your diplomatic─rather than martial─skills may better serve our cause. I will leave further explanation to our learned leader. Pray make your way to Nophica's Altar. The conjurer in attendance will admit you to the Lotus Stand."
+81,"TEXT_GAIUSE307_01448_VORSAILE_000_050","The Elder Seedseer wishes to speak with you ere you confront the Lord of Levin. Pray make your way to Nophica's Altar, and a conjurer will admit you to the Lotus Stand."
+82,"TEXT_GAIUSE307_01448_DOORMANLOTUS_000_060","The other Scions have already arrived, <hex:02080FE905FF06>madam<hex:FF04>sir<hex:03>. May I show you in?"
+83,"TEXT_GAIUSE307_01448_Q1_000_061","Proceed to the Lotus Stand?"
+84,"TEXT_GAIUSE307_01448_A1_000_062","Yes"
+85,"TEXT_GAIUSE307_01448_A1_000_063","No"
+86,"TEXT_GAIUSE307_01448_YDA_000_070","Whatever the Elder Seedseer is planning, I want you to know that I'll be right there by your side. And I'm sure Y'shtola won't be far behind─even if she <hex:021A020203>does<hex:021A020103> think everything's mankind's fault!"
+87,"TEXT_GAIUSE307_01448_PAPALYMO_000_075","It is said that once Ramuh passes judgment, his wrath is implacable. 'Twould be best to conclude this discussion ere Gridania and its people are placed upon his scales."
+88,"TEXT_GAIUSE307_01448_THANCRED_000_080","I see the sylphs have sent their own representative. There can be no doubt, then..."
+89,"TEXT_GAIUSE307_01448_YSHTOLA_000_085","I am most curious to hear how the Elder Seedseer means to treat with Lord Ramuh."
+90,"TEXT_GAIUSE307_01448_SYLPH01448_000_090","Oh! Hello, walking one! It is good to see a friend of elder one!"
+91,"TEXT_GAIUSE307_01448_DOORMANLOTUS_000_095","Your meeting with the Elder Seedseer is concluded? Then I wish you good fortune in your task."
+92,"TEXT_GAIUSE307_01448_LIEUTENANT01448_000_100","<hex:0208F0E2E1E93501FF1F><hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> of the Scions<hex:FFBD><hex:0208B9E1E93601FF93><hex:022B7EFF7C><hex:020825E1E93501FF1D><hex:022819FF14>GCRankLimsaMaleText<hex:E9350903><hex:FF01><hex:03><hex:020828E1E93601FF20><hex:02281CFF17>GCRankGridaniaMaleText<hex:E9360903><hex:FF01><hex:03><hex:020825E1E93701FF1D><hex:022819FF14>GCRankUldahMaleText<hex:E9370903><hex:FF01><hex:03><hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303><hex:FF1F><hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> of the Scions<hex:03><hex:03>? I was told to expect you."
+93,"TEXT_GAIUSE307_01448_LIEUTENANT01448_000_101","I understand you go to treat with the primal Ramuh himself─an unenviable task, but one for which I have no doubt you are well suited."
+94,"TEXT_GAIUSE307_01448_LIEUTENANT01448_000_102","I have been told that your fellow Scions are conducting an investigation of the area as we speak, that we might ascertain the location where the Lord of Levin might be found. I would ask that you abide here until they return with their findings."
+95,"TEXT_GAIUSE307_01448_SCENE00007_EVENTAREA_WARP_YESNO_TITLE","（★未使用／削除予定★）"
+96,"TEXT_GAIUSE307_01448_SCENE00007_EVENTAREA_WARP_YESNO_YES","（★未使用／削除予定★）"
+97,"TEXT_GAIUSE307_01448_SCENE00007_EVENTAREA_WARP_YESNO_NO","（★未使用／削除予定★）"

@@ -2,96 +2,96 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_JOBDRG650_02912_SEQ_00,阿德內爾占星台的雅伯里克有事要告訴冒險者。
-1,TEXT_JOBDRG650_02912_SEQ_01,和雅伯里克進行了交談。他告訴冒險者找黃金港望海樓的店主即可與奧恩·凱匯合。和黃金港望海樓的可樂談談。
-2,TEXT_JOBDRG650_02912_SEQ_02,和可樂進行了交談。奧恩·凱居然被裝在了給冒險者的行李裡。為了調查紅玉海怪龍，前往紅玉海的漁村打聽情報。
-3,TEXT_JOBDRG650_02912_SEQ_03,和漁村的曬黑的捕魚人進行了交談。得知了關於紅玉海怪龍的童話。和漁村的年長的老婆婆談談。
-4,TEXT_JOBDRG650_02912_SEQ_04,和年長的老婆婆進行了交談。她表示紅玉海怪龍不是童話，而是實際存在的。在漁村附近的<hex:02280CFF05>EObj<hex:F61EA5E60103>吹響笛子，呼喚奧恩·凱。
-5,TEXT_JOBDRG650_02912_SEQ_05,在<hex:02280CFF05>EObj<hex:F61EA5E60103>喚來了奧恩·凱。為了探明紅玉海怪龍的真相，和前往紅玉海珊瑚台附近的奧恩·凱談談。
-6,TEXT_JOBDRG650_02912_SEQ_06,和奧恩·凱進行了交談。它將新鮮的肉扔進海中後，巨大的魔物出現了。冒險者隨之討伐了出現的魔物。和珊瑚台附近的奧恩·凱談談。
-7,TEXT_JOBDRG650_02912_SEQ_07,和奧恩·凱進行了交談。紅玉海怪龍果然不是法烏涅姆。返回黃金港的望海樓，和奧恩·凱談談。
-8,TEXT_JOBDRG650_02912_SEQ_08,和奧恩·凱進行了交談。這次依舊沒能找到法烏涅姆，但奧恩·凱決定留在黃金港繼續收集情報。等它收集到新的情報後再來露臉。<hex:02100103><hex:02100103>※龍騎士的等級達到68級以上時，可以從望海樓的奧恩·凱那裡領取下一個龍騎士任務。
-9,TEXT_JOBDRG650_02912_SEQ_09,
-10,TEXT_JOBDRG650_02912_SEQ_10,
-11,TEXT_JOBDRG650_02912_SEQ_11,
-12,TEXT_JOBDRG650_02912_SEQ_12,
-13,TEXT_JOBDRG650_02912_SEQ_13,
-14,TEXT_JOBDRG650_02912_SEQ_14,
-15,TEXT_JOBDRG650_02912_SEQ_15,
-16,TEXT_JOBDRG650_02912_SEQ_16,
-17,TEXT_JOBDRG650_02912_SEQ_17,
-18,TEXT_JOBDRG650_02912_SEQ_18,
-19,TEXT_JOBDRG650_02912_SEQ_19,
-20,TEXT_JOBDRG650_02912_SEQ_20,
-21,TEXT_JOBDRG650_02912_SEQ_21,
-22,TEXT_JOBDRG650_02912_SEQ_22,
-23,TEXT_JOBDRG650_02912_SEQ_23,
-24,TEXT_JOBDRG650_02912_TODO_00,和黃金港的可樂對話
-25,TEXT_JOBDRG650_02912_TODO_01,在漁村收集情報
-26,TEXT_JOBDRG650_02912_TODO_02,和年長的老婆婆對話
-27,TEXT_JOBDRG650_02912_TODO_03,在<hex:02280CFF05>EObj<hex:F61EA5E60103>吹響笛子
-28,TEXT_JOBDRG650_02912_TODO_04,和奧恩·凱對話
-29,TEXT_JOBDRG650_02912_TODO_05,和奧恩·凱對話
-30,TEXT_JOBDRG650_02912_TODO_06,和黃金港的奧恩·凱對話
-31,TEXT_JOBDRG650_02912_TODO_07,
-32,TEXT_JOBDRG650_02912_TODO_08,
-33,TEXT_JOBDRG650_02912_TODO_09,
-34,TEXT_JOBDRG650_02912_TODO_10,
-35,TEXT_JOBDRG650_02912_TODO_11,
-36,TEXT_JOBDRG650_02912_TODO_12,
-37,TEXT_JOBDRG650_02912_TODO_13,
-38,TEXT_JOBDRG650_02912_TODO_14,
-39,TEXT_JOBDRG650_02912_TODO_15,
-40,TEXT_JOBDRG650_02912_TODO_16,
-41,TEXT_JOBDRG650_02912_TODO_17,
-42,TEXT_JOBDRG650_02912_TODO_18,
-43,TEXT_JOBDRG650_02912_TODO_19,
-44,TEXT_JOBDRG650_02912_TODO_20,
-45,TEXT_JOBDRG650_02912_TODO_21,
-46,TEXT_JOBDRG650_02912_TODO_22,
-47,TEXT_JOBDRG650_02912_TODO_23,
-48,TEXT_JOBDRG650_02912_SYSTEM_100_000,若要領取或繼續推進本任務，<hex:02100103>需完成「紅蓮之狂潮主線任務」中的「片刻的風平浪靜」。
-49,TEXT_JOBDRG650_02912_ALBERIC_000_010,<hex:022903EB0203>，你來得正是時候。<hex:02100103>我想到了辦法並且已經將奧恩·凱送到黃金港了。
-50,TEXT_JOBDRG650_02912_ALBERIC_000_011,黃金港有個名字叫望海樓的溫泉旅館，<hex:02100103>你去找這家旅店的店主就能和奧恩·凱匯合了。
-51,TEXT_JOBDRG650_02912_ALBERIC_000_012,我給它講了幾條東方關於龍族的傳說。<hex:02100103>你們可以根據那些線索尋找法烏涅姆的下落。
-52,TEXT_JOBDRG650_02912_ALBERIC_000_015,你去黃金港的望海樓和奧恩·凱匯合，<hex:02100103>在東方調查一下關於龍族的傳說吧。<hex:02100103>也許能夠找到法烏涅姆。
-53,TEXT_JOBDRG650_02912_KARAKU_000_020,歡迎光臨望海樓！<hex:02100103>本店設有可以眺望大海的露天溫泉，<hex:02100103>不管是各類外傷還是皮膚病，泡一泡通通都有療效哦！
-54,TEXT_JOBDRG650_02912_KARAKU_000_021,你的名字是……<hex:022903EB0203>？！<hex:02100103>啊，你的行李已經送達了。<hex:02100103>請稍等片刻，我這就給你拿來！
-55,TEXT_JOBDRG650_02912_ORNKHAI_000_022,(-箱子裡傳出的聲音-)唔……有沒有人……誰來……把我放出去……
-56,TEXT_JOBDRG650_02912_ORNKHAI_000_023,噗哈！！<hex:02100103>那個蠢貨前龍騎士！<hex:02100103>說什麼在箱子裡睡一覺就到黃金港了！！
-57,TEXT_JOBDRG650_02912_ORNKHAI_000_024,結果居然把我塞進裝滿冰水晶的箱子海運！<hex:02100103>簡直太太太太過分了！
-58,TEXT_JOBDRG650_02912_ORNKHAI_000_025,龍族進入休眠期確實會睡很久，<hex:02100103>但龍不是熊，不會冬眠！<hex:02100103>放這麼多冰水晶凍死我了！！
-59,TEXT_JOBDRG650_02912_ORNKHAI_000_026,還好我睡了一路，沒費什麼力氣。
-60,TEXT_JOBDRG650_02912_ORNKHAI_000_027,然後關於尋找法烏涅姆阿姨的事情。<hex:02100103>雅伯里克告訴了我幾個東方關於龍族的傳說。
-61,TEXT_JOBDRG650_02912_ORNKHAI_000_028,東方最有名的是一個叫「青龍」的龍，<hex:02100103>它作為守護神廣為人知。
-62,TEXT_JOBDRG650_02912_ORNKHAI_000_029,不過雅伯里克說我們要找的應該不是它……<hex:02100103>因為關於它的傳說太古老了，從好幾千年前就開始流傳，<hex:02100103>應該和千年前才飛向東方的法烏涅姆阿姨沒有關係。
-63,TEXT_JOBDRG650_02912_ORNKHAI_000_030,他還說時間更近一些的傳說——「紅玉海怪龍」<hex:02100103>比較有可能。
-64,TEXT_JOBDRG650_02912_ORNKHAI_000_031,我還和上次一樣飛在你附近。<hex:02100103>你去紅玉海的漁村打聽打聽，有了消息就叫我！<hex:02100103>和之前一樣，吹笛子就行！
-65,TEXT_JOBDRG650_02912_KARAKU_000_035,沒想到你的行李居然是一頭小龍。<hex:02100103>龍是吉祥的象徵，一定能給本店帶來好運！
-66,TEXT_JOBDRG650_02912_ISARIFISHER_000_040,你嚇我一跳……什麼事？<hex:02100103>想打聽紅玉海怪龍？
-67,TEXT_JOBDRG650_02912_ISARIFISHER_000_041,這我當然知道，怪龍的童話在這一帶還是很有名的。<hex:02100103>小時候村裡的婆婆常講給我們聽。
-68,TEXT_JOBDRG650_02912_ISARIFISHER_000_042,嚇唬我們小孩子說如果一個人往大海深處游太遠，<hex:02100103>就會被紅玉海怪龍吃掉……<hex:02100103>具體你可以找年長的老婆婆給你講。
-69,TEXT_JOBDRG650_02912_ISARIFISHER_000_045,沒想到會從外國人嘴裡聽到紅玉海怪龍這個名字……
-70,TEXT_JOBDRG650_02912_ISARIOLDWOMAN_000_050,唔唔……<hex:02100103>你想聽關於紅玉海怪龍的童話？
-71,TEXT_JOBDRG650_02912_ISARIOLDWOMAN_000_051,別說傻話啦，那可不是什麼童話。<hex:02100103>它是真實存在的，就棲息在珊瑚台附近的海域裡，<hex:02100103>是個非常可怕的怪物……
-72,TEXT_JOBDRG650_02912_ISARIOLDWOMAN_000_052,不知道它是鼻子靈還是怎麼回事，反正對血特別敏感。<hex:02100103>聽說從前有海盜打架受了傷掉到海裡，<hex:02100103>結果還沒等爬上船就被它一口吞了！
-73,TEXT_JOBDRG650_02912_ISARIOLDWOMAN_000_055,紅玉海怪龍對血特別敏感。<hex:02100103>聽說從前有海盜打架受了傷掉到海裡，<hex:02100103>結果還沒等爬上船就被它一口吞了！
-74,TEXT_JOBDRG650_02912_ORNKHAI_000_060,打聽到關於紅玉海怪龍的消息了嗎？
-75,TEXT_JOBDRG650_02912_ORNKHAI_000_061,嗯嗯，對血腥味很敏感？<hex:02100103>我打獵的時候也會追蹤動物血的氣味，<hex:02100103>但把人一口吞下去這種事也太野獸派了吧？
-76,TEXT_JOBDRG650_02912_ORNKHAI_000_062,和法烏涅姆阿姨給人的印象不符呀……<hex:02100103>不過也挺有趣的，我們試試好了！
-77,TEXT_JOBDRG650_02912_ORNKHAI_000_063,我去狩獵，將新鮮的野獸肉帶來丟在海上看看能不能把<hex:02100103>紅玉海怪龍引出來！<hex:02100103>我們在珊瑚台匯合吧！
-78,TEXT_JOBDRG650_02912_ORNKHAI_000_070,嘿嘿嘿，我比你到得早！<hex:02100103>而且已經狩獵完，準備好了血淋淋的新鮮獸肉！
-79,TEXT_JOBDRG650_02912_ORNKHAI_000_071,我這就去扔到海上，<hex:02100103>如果出來的是奇怪的東西，就拜託你擊敗了！
-80,TEXT_JOBDRG650_02912_ORNKHAI_000_090,跑出來個好大的傢伙呢！<hex:02100103>真有意思！
-81,TEXT_JOBDRG650_02912_ORNKHAI_000_091,紅玉海怪龍果然不是法烏涅姆阿姨……<hex:02100103>不過這傢伙的肉看起來很好吃，算是值了！
-82,TEXT_JOBDRG650_02912_ORNKHAI_000_092,今天的晚飯也到手了，我們回黃金港吧。<hex:02100103>比比誰先到望海樓！
-83,TEXT_JOBDRG650_02912_ORNKHAI_000_100,嗚姆嗚姆……啊，<hex:022903EB0203>，歡迎回來！<hex:02100103>我先到後嘗了嘗這紅玉海怪龍的肉，<hex:02100103>確實很好吃！
-84,TEXT_JOBDRG650_02912_ORNKHAI_000_101,還剩下不少，我放在裝冰水晶的箱子裡凍起來了。<hex:02100103>冰水晶那麼多，一定能保存很長時間。
-85,TEXT_JOBDRG650_02912_ORNKHAI_000_102,<hex:022903EB0203>，你會不會因為這次也白跑了一趟而覺得很煩躁？
-86,TEXT_JOBDRG650_02912_Q1_000_000,如何作答？
-87,TEXT_JOBDRG650_02912_A1_000_001,煩
-88,TEXT_JOBDRG650_02912_A1_000_002,不煩
-89,TEXT_JOBDRG650_02912_ORNKHAI_000_104,<hex:022903EB0203>真是孩子氣呀，<hex:02100103>快吃點肉順順氣吧。
-90,TEXT_JOBDRG650_02912_ORNKHAI_000_105,不愧是老江湖！<hex:02100103>這詞是雅伯里克用來形容你的，<hex:02100103>他說你歷經了各種磨難，總是受這些苦！
-91,TEXT_JOBDRG650_02912_ORNKHAI_000_106,我們是要找千年前失蹤的龍，<hex:02100103>肯定不會很容易找到。
-92,TEXT_JOBDRG650_02912_ORNKHAI_000_107,我先繼續留在黃金港調查東方關於龍族的傳說好了。<hex:02100103>我們的冒險才剛剛開始！
+0,"TEXT_JOBDRG650_02912_SEQ_00","Ser Alberic plans to try his hand at dragon-smuggling."
+1,"TEXT_JOBDRG650_02912_SEQ_01","Ser Alberic reports that he has succeeded in finding a way to have Orn Khai transported across to Kugane. He neglects to inform you of exactly how the young dragon will be making the journey, but ensures you that you will be able to rendezvous with him if you speak to Karaku, the owner of the Bokaisen Hot Springs."
+2,"TEXT_JOBDRG650_02912_SEQ_02","Upon hearing your name, Karaku hastily rushes off to collect a package he says is addressed to you. It is immediately evident that all is not as it seems when the contents of the crate start demanding to be set free. Orn Khai soon escapes from the confines of the box and informs you that the legend of the Serpent of the Ruby Sea is the tale you shall be investigating next. The two of you make your way to Isari in order to see just how much the locals know."
+3,"TEXT_JOBDRG650_02912_SEQ_03","A local fisherman tells you that he is familiar with a faerie tale that mentions the Serpent of the Ruby Sea. However, as his knowledge does not stretch much beyond that, he bids you talk to one of the village's older inhabitants if you seek more information. You spy an elderly woman nearby and head in her direction to see if she cannot aid your search."
+4,"TEXT_JOBDRG650_02912_SEQ_04","As luck would have it, the elderly lady is well versed in matters concerning the legend. According to her, the serpent is no mere faerie tale; it lurks nearby the Coral Banquet and has been to known to eat men whole. Undeterred, you elect to summon Orn Khai in order to share with him your findings."
+5,"TEXT_JOBDRG650_02912_SEQ_05","After hearing that the serpent commonly eats pirates whole, Orn Khai suggests there is little chance that the creature could be Faunehm. Nonetheless, his curiosity gets the better of him and he requests your assistance in searching for the beast of legend. Orn Khai heads off to hunt the bait required to lure the creature out of hiding, while you head for the Coral Banquet."
+6,"TEXT_JOBDRG650_02912_SEQ_06","Orn Khai hurls the freshly hunted bait into the sea and, lo and behold, a menacing creature rises from the ocean depths. You lock horns with the Serpent of the Ruby Sea."
+7,"TEXT_JOBDRG650_02912_SEQ_07","After a fierce battle you finally succeed in slaying the legendary serpent. Inspired by the creature's size, Orn Khai decides to take its carcass back to Bokaisen Hot Springs for supper."
+8,"TEXT_JOBDRG650_02912_SEQ_08","Upon your return to Bokaisen Hot Springs, Orn Khai greets you with the disheartening news that he has already helped himself to the choice cuts of serpent meat. Putting the issue to one side, it is agreed that Orn Khai will remain in Kugane and search for further leads as to Faunehm's whereabouts.<hex:02100103><hex:02100103>※The next dragoon quest will be available from Orn Khai upon reaching level 68."
+9,"TEXT_JOBDRG650_02912_SEQ_09",""
+10,"TEXT_JOBDRG650_02912_SEQ_10",""
+11,"TEXT_JOBDRG650_02912_SEQ_11",""
+12,"TEXT_JOBDRG650_02912_SEQ_12",""
+13,"TEXT_JOBDRG650_02912_SEQ_13",""
+14,"TEXT_JOBDRG650_02912_SEQ_14",""
+15,"TEXT_JOBDRG650_02912_SEQ_15",""
+16,"TEXT_JOBDRG650_02912_SEQ_16",""
+17,"TEXT_JOBDRG650_02912_SEQ_17",""
+18,"TEXT_JOBDRG650_02912_SEQ_18",""
+19,"TEXT_JOBDRG650_02912_SEQ_19",""
+20,"TEXT_JOBDRG650_02912_SEQ_20",""
+21,"TEXT_JOBDRG650_02912_SEQ_21",""
+22,"TEXT_JOBDRG650_02912_SEQ_22",""
+23,"TEXT_JOBDRG650_02912_SEQ_23",""
+24,"TEXT_JOBDRG650_02912_TODO_00","Speak with Karaku in Kugane."
+25,"TEXT_JOBDRG650_02912_TODO_01","Gather information in Isari."
+26,"TEXT_JOBDRG650_02912_TODO_02","Speak with the wise woman."
+27,"TEXT_JOBDRG650_02912_TODO_03","Summon Orn Khai."
+28,"TEXT_JOBDRG650_02912_TODO_04","Speak with Orn Khai."
+29,"TEXT_JOBDRG650_02912_TODO_05","Speak with Orn Khai."
+30,"TEXT_JOBDRG650_02912_TODO_06","Speak with Orn Khai in Kugane."
+31,"TEXT_JOBDRG650_02912_TODO_07",""
+32,"TEXT_JOBDRG650_02912_TODO_08",""
+33,"TEXT_JOBDRG650_02912_TODO_09",""
+34,"TEXT_JOBDRG650_02912_TODO_10",""
+35,"TEXT_JOBDRG650_02912_TODO_11",""
+36,"TEXT_JOBDRG650_02912_TODO_12",""
+37,"TEXT_JOBDRG650_02912_TODO_13",""
+38,"TEXT_JOBDRG650_02912_TODO_14",""
+39,"TEXT_JOBDRG650_02912_TODO_15",""
+40,"TEXT_JOBDRG650_02912_TODO_16",""
+41,"TEXT_JOBDRG650_02912_TODO_17",""
+42,"TEXT_JOBDRG650_02912_TODO_18",""
+43,"TEXT_JOBDRG650_02912_TODO_19",""
+44,"TEXT_JOBDRG650_02912_TODO_20",""
+45,"TEXT_JOBDRG650_02912_TODO_21",""
+46,"TEXT_JOBDRG650_02912_TODO_22",""
+47,"TEXT_JOBDRG650_02912_TODO_23",""
+48,"TEXT_JOBDRG650_02912_SYSTEM_100_000","In order to undertake this quest, you must first complete the main scenario quest “Tide Goes in, Imperials Go Out.”"
+49,"TEXT_JOBDRG650_02912_ALBERIC_000_010","Ah, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. It pleases me to tell you that I have at last discovered a means to have our young friend safely transported to Kugane."
+50,"TEXT_JOBDRG650_02912_ALBERIC_000_011","I have reached an agreement with the owner of an establishment in the area─I believe its name was Bokaisen Hot Springs. Converse with him once you are arrived in Kugane and he shall tell you Orn Khai's whereabouts."
+51,"TEXT_JOBDRG650_02912_ALBERIC_000_012","I took the liberty of making the little one aware of a few local legends. Hopefully they shall aid you in your search for Faunehm."
+52,"TEXT_JOBDRG650_02912_ALBERIC_000_015","Once you are arrived in Kugane, seek out the onsen known as Bokaisen Hot Springs. The establishment's owner will help you rendezvous with Orn Khai."
+53,"TEXT_JOBDRG650_02912_KARAKU_000_020","Come one, come all! Burns, cuts, embarrassing rashes─there is naught that the mystical waters of the Bokaisen Hot Springs cannot heal!"
+54,"TEXT_JOBDRG650_02912_KARAKU_000_021","Ho, you say your name is <hex:022903EB0203>? Why, a package just arrived for you. I shall fetch it right this instant!"
+55,"TEXT_JOBDRG650_02912_ORNKHAI_000_022","(-Muffled Moaning-)S-Someone, anyone, release me from this icy prison..."
+56,"TEXT_JOBDRG650_02912_ORNKHAI_000_023","Ugh! What was that blasted dragoon thinking!? It is all well and good for him to tell me to simply sleep through the journey─he is not the one stuffed in a crate of ice crystals!"
+57,"TEXT_JOBDRG650_02912_ORNKHAI_000_024","And the boat. Oh, how it rocked!"
+58,"TEXT_JOBDRG650_02912_ORNKHAI_000_025","Admittedly he is right in thinking dragons capable of entering a long sleeplike state, but we are not bears! We do not require freezing cold temperatures to achieve this! Ugh, my fangs are like icicles."
+59,"TEXT_JOBDRG650_02912_ORNKHAI_000_026","That said, I must admit I enjoyed my best sleep for many a year."
+60,"TEXT_JOBDRG650_02912_ORNKHAI_000_027","At any rate, now we are both here, we can resume the search for Faunehm!"
+61,"TEXT_JOBDRG650_02912_ORNKHAI_000_028","Before I was unceremoniously stuffed into that crate, Ser Alberic told me of the legend of Seiryu─a dragon regarded as a guardian of the Far East."
+62,"TEXT_JOBDRG650_02912_ORNKHAI_000_029","Though something tells me we would not have much luck with this tale either. The story has existed for several thousand years; Faunehm only came to these lands a mere millennium ago."
+63,"TEXT_JOBDRG650_02912_ORNKHAI_000_030","Ser Alberic agreed that the story most worth our attention was that of the Serpent of the Ruby Sea. This came into being much more recently."
+64,"TEXT_JOBDRG650_02912_ORNKHAI_000_031","I suggest you visit Isari and try asking the residents if they know anything that might be of help. Whistle for me once you feel you have found something I should know."
+65,"TEXT_JOBDRG650_02912_KARAKU_000_035","I am still struggling to believe my eyes. That was a genuine dragon. A more auspicious omen I could not have wished to see!"
+66,"TEXT_JOBDRG650_02912_ISARIFISHER_000_040","What is that now? Am I familiar with the Serpent of the Ruby Sea?"
+67,"TEXT_JOBDRG650_02912_ISARIFISHER_000_041","You will struggle to find someone here that is not! Not a day of my childhood passed without my grandmother telling me that faerie tale. These days, hearing the opening line of it alone puts me to sleep in an instant."
+68,"TEXT_JOBDRG650_02912_ISARIFISHER_000_042","“All children that dare swim out into the deep blue sea are sure to become the sea serpent's tea.” ...Oh my, I nearly fell asleep there! I imagine that is all any one my age will be able to tell you. Try asking the elderly woman over there if you want to know more."
+69,"TEXT_JOBDRG650_02912_ISARIFISHER_000_045","I never thought that an ijin would come asking about the Serpent of the Ruby Sea!"
+70,"TEXT_JOBDRG650_02912_ISARIOLDWOMAN_000_050","You would have me tell you the faerie tale of the Serpent of the Ruby Sea?"
+71,"TEXT_JOBDRG650_02912_ISARIOLDWOMAN_000_051","Oh, dear child, that is no mere faerie tale. Head on over to the Coral Banquet if you do not believe me. You shall find a horror beyond your wildest nightmares!"
+72,"TEXT_JOBDRG650_02912_ISARIOLDWOMAN_000_052","Its nose misses nothing, especially not the blood of men. There is many a tale of wounded pirates falling overboard and being swallowed alive before they could plant a hand on the ship they fell from."
+73,"TEXT_JOBDRG650_02912_ISARIOLDWOMAN_000_055","You would do well to make sure any cuts you have are fully healed before looking into this further, child. The serpent's nose misses nothing."
+74,"TEXT_JOBDRG650_02912_ORNKHAI_000_060","Does it seem like the serpent could be Faunehm?"
+75,"TEXT_JOBDRG650_02912_ORNKHAI_000_061","Hmm, while it is true we dragons do hunt by following our prey's scent, I have not known our kind to swallow men whole. The idea strikes me as awfully...barbaric."
+76,"TEXT_JOBDRG650_02912_ORNKHAI_000_062","While I doubt this will lead us to Faunehm, my curiosity has been piqued and I cannot simply leave this mystery unsolved!"
+77,"TEXT_JOBDRG650_02912_ORNKHAI_000_063","It is also a brilliant excuse for me to engage in a bit of hunting! We cannot hope to draw out the beast without bait after all. Head to the Coral Banquet and I shall join you shortly."
+78,"TEXT_JOBDRG650_02912_ORNKHAI_000_070","Father never mentioned you were this slow, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! I have already hunted a beast that will doubtless lure out the serpent and I still arrived here long before you."
+79,"TEXT_JOBDRG650_02912_ORNKHAI_000_071","I shall go ahead and hurl the bloody meat into the sea. Pray deal with any hungry creatures that are drawn to us."
+80,"TEXT_JOBDRG650_02912_ORNKHAI_000_090","Well. I do not know about you, but that was somewhat bigger than what I was expecting."
+81,"TEXT_JOBDRG650_02912_ORNKHAI_000_091","We may have failed to find Faunehm, but in her place we have gained a delicious supper!"
+82,"TEXT_JOBDRG650_02912_ORNKHAI_000_092","Now we have the serpent's meat, let us head back to Bokaisen Hot Springs. The last one back has to prepare dinner! "
+83,"TEXT_JOBDRG650_02912_ORNKHAI_000_100","Oh, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, good to see you returned at last. I must confess, I was unable to resist the meat's seductive call and, before I knew it, I had devoured the vast majority of our spoils..."
+84,"TEXT_JOBDRG650_02912_ORNKHAI_000_101","Please do help yourself to whatever is left; I have stored the scra─leftovers in the crate I was sent here in. Pay no attention to anything that may resemble teeth marks, those are indentations created by the ice!"
+85,"TEXT_JOBDRG650_02912_ORNKHAI_000_102","Oh, anyone could see through that lie. I am sorry, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. I do hope my greed has not upset you too much."
+86,"TEXT_JOBDRG650_02912_Q1_000_000","What will you say?"
+87,"TEXT_JOBDRG650_02912_A1_000_001","Why didn't you leave me any good morsels!?"
+88,"TEXT_JOBDRG650_02912_A1_000_002","I was never one for meat."
+89,"TEXT_JOBDRG650_02912_ORNKHAI_000_104","Calm yourself, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Many would count themselves lucky to even have the chance to nibble on the meat of such a majestic beast!"
+90,"TEXT_JOBDRG650_02912_ORNKHAI_000_105","Truly? After hearing of your feats of strength from Ser Alberic, I assumed you must feast upon tonzes of meat everyday!"
+91,"TEXT_JOBDRG650_02912_ORNKHAI_000_106","Regardless, meat is far from our primary concern at the moment. I am beginning to wonder if the day we find Faunehm will ever come."
+92,"TEXT_JOBDRG650_02912_ORNKHAI_000_107","But I must not allow myself to lose heart so easily! There are still plenty of legends for us to look into; hope is far from lost. Pray continue to grant me your support, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>."

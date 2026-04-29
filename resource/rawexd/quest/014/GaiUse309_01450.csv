@@ -2,86 +2,86 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_GAIUSE309_01450_SEQ_00,眼中含淚的二等牙兵將為冒險者說明作戰情況。
-1,TEXT_GAIUSE309_01450_SEQ_01,<hex:024804F2021503><hex:024904F2021603><hex:0212024003>本任務已經過調整。建議放棄本任務，前往妖精暫留地找雙蛇黨副牙尉重新領取。<hex:0249020103><hex:0248020103><hex:02100103><hex:02100103>※接下來的主線任務可以在主線嚮導中進行確認。在快捷指令的系統中可以找到角色設定，打開角色設定後，在介面設定的介面項中可以顯示或隱藏主線嚮導。
-2,TEXT_GAIUSE309_01450_SEQ_02,雖然找到了帕帕力莫，但遭到了<hex:02280FFF09>BNpcName<hex:F20B3C0103>的襲擊。打倒了襲來的<hex:02280FFF09>BNpcName<hex:F20B3C0103>。再次和金葉台附近的帕帕力莫談談。
-3,TEXT_GAIUSE309_01450_SEQ_03,雖然和帕帕力莫進行了交談，但他的狀態很奇怪……和金葉台附近的馬奇希奧談談。
-4,TEXT_GAIUSE309_01450_SEQ_04,馬奇希奧猜測，賢人是壞妖精變的。對金葉台附近的帕帕力莫和伊達使用<hex:022811FF0A>EventItem<hex:F61E89A00103>，如果是壞妖精變的，就打倒他們。
-5,TEXT_GAIUSE309_01450_SEQ_05,順利打倒了變成帕帕力莫和伊達的壞妖精。和金葉台附近的馬奇希奧談談。
-6,TEXT_GAIUSE309_01450_SEQ_06,和馬奇希奧進行交談後，決定去其他的地方尋找賢人們。在妖精領尋找賢人。
-7,TEXT_GAIUSE309_01450_SEQ_07,冒險者找到了伊達和桑克瑞德。但不知他倆是不是本人……對妖精領的伊達和桑克瑞德使用<hex:022811FF0A>EventItem<hex:F61E89A00103>，如果是壞妖精變的，就打倒他們。
-8,TEXT_GAIUSE309_01450_SEQ_08,伊達是本人，而桑克瑞德是壞妖精變的。和真正的伊達談談。
-9,TEXT_GAIUSE309_01450_SEQ_09,伊達根本沒察覺出桑克瑞德是假冒的。她並不知道真正的桑克瑞德去了哪裡……繼續尋找其他的賢人。
-10,TEXT_GAIUSE309_01450_SEQ_10,
-11,TEXT_GAIUSE309_01450_SEQ_11,
-12,TEXT_GAIUSE309_01450_SEQ_12,
-13,TEXT_GAIUSE309_01450_SEQ_13,
-14,TEXT_GAIUSE309_01450_SEQ_14,
-15,TEXT_GAIUSE309_01450_SEQ_15,
-16,TEXT_GAIUSE309_01450_SEQ_16,
-17,TEXT_GAIUSE309_01450_SEQ_17,
-18,TEXT_GAIUSE309_01450_SEQ_18,
-19,TEXT_GAIUSE309_01450_SEQ_19,
-20,TEXT_GAIUSE309_01450_SEQ_20,
-21,TEXT_GAIUSE309_01450_SEQ_21,
-22,TEXT_GAIUSE309_01450_SEQ_22,
-23,TEXT_GAIUSE309_01450_SEQ_23,
-24,TEXT_GAIUSE309_01450_TODO_00,<hex:024804F2021503><hex:024904F2021603><hex:0212024003>本任務已經過調整 建議放棄本任務<hex:02100103>前往妖精暫留地找雙蛇黨副牙尉重新領取<hex:0249020103><hex:0248020103>
-25,TEXT_GAIUSE309_01450_TODO_01,<hex:024804F2021503><hex:024904F2021603><hex:0212024003>本任務已經過調整 建議放棄本任務<hex:02100103>前往妖精暫留地找雙蛇黨副牙尉重新領取<hex:0249020103><hex:0248020103>
-26,TEXT_GAIUSE309_01450_TODO_02,<hex:024804F2021503><hex:024904F2021603><hex:0212024003>本任務已經過調整 建議放棄本任務<hex:02100103>前往妖精暫留地找雙蛇黨副牙尉重新領取<hex:0249020103><hex:0248020103>
-27,TEXT_GAIUSE309_01450_TODO_03,<hex:024804F2021503><hex:024904F2021603><hex:0212024003>本任務已經過調整 建議放棄本任務<hex:02100103>前往妖精暫留地找雙蛇黨副牙尉重新領取<hex:0249020103><hex:0248020103>
-28,TEXT_GAIUSE309_01450_TODO_04,<hex:024804F2021503><hex:024904F2021603><hex:0212024003>本任務已經過調整 建議放棄本任務<hex:02100103>前往妖精暫留地找雙蛇黨副牙尉重新領取<hex:0249020103><hex:0248020103>
-29,TEXT_GAIUSE309_01450_TODO_05,<hex:024804F2021503><hex:024904F2021603><hex:0212024003>本任務已經過調整 建議放棄本任務<hex:02100103>前往妖精暫留地找雙蛇黨副牙尉重新領取<hex:0249020103><hex:0248020103>
-30,TEXT_GAIUSE309_01450_TODO_06,<hex:024804F2021503><hex:024904F2021603><hex:0212024003>本任務已經過調整 建議放棄本任務<hex:02100103>前往妖精暫留地找雙蛇黨副牙尉重新領取<hex:0249020103><hex:0248020103>
-31,TEXT_GAIUSE309_01450_TODO_07,<hex:024804F2021503><hex:024904F2021603><hex:0212024003>本任務已經過調整 建議放棄本任務<hex:02100103>前往妖精暫留地找雙蛇黨副牙尉重新領取<hex:0249020103><hex:0248020103>
-32,TEXT_GAIUSE309_01450_TODO_08,
-33,TEXT_GAIUSE309_01450_TODO_09,
-34,TEXT_GAIUSE309_01450_TODO_10,
-35,TEXT_GAIUSE309_01450_TODO_11,
-36,TEXT_GAIUSE309_01450_TODO_12,
-37,TEXT_GAIUSE309_01450_TODO_13,
-38,TEXT_GAIUSE309_01450_TODO_14,
-39,TEXT_GAIUSE309_01450_TODO_15,
-40,TEXT_GAIUSE309_01450_TODO_16,
-41,TEXT_GAIUSE309_01450_TODO_17,
-42,TEXT_GAIUSE309_01450_TODO_18,
-43,TEXT_GAIUSE309_01450_TODO_19,
-44,TEXT_GAIUSE309_01450_TODO_20,
-45,TEXT_GAIUSE309_01450_TODO_21,
-46,TEXT_GAIUSE309_01450_TODO_22,
-47,TEXT_GAIUSE309_01450_TODO_23,
-48,TEXT_GAIUSE309_01450_MAXIO_000_000,被襲擊的人類也應該恢復得差不多了呼啾。<hex:02100103>我們去向他們打聽一下情況吧呼啾。
-49,TEXT_GAIUSE309_01450_MODAE01449_000_005,可惡，被妖精族擺了一道！<hex:02100103>但我可不會再上當了……
-50,TEXT_GAIUSE309_01450_SEKI01449_000_010,咳咳，咳咳……<hex:02100103>我沒事的，我還能戰鬥！
-51,TEXT_GAIUSE309_01450_NAMIDA01449_000_020,我們在妖精領的入口遭到了敵方妖精族的襲擊……
-52,TEXT_GAIUSE309_01450_NAMIDA01449_000_021,身為護衛，我們上前迎戰，<hex:02100103>而賢人們則趕去測量乙太了。
-53,TEXT_GAIUSE309_01450_NAMIDA01449_000_022,由於被撒了鱗粉，<hex:02100103>我只看到帕帕力莫往東北方向的金葉台去了。
-54,TEXT_GAIUSE309_01450_NAMIDA01449_000_023,請你和馬奇希奧一起去尋找賢人，並和他們匯合。<hex:02100103>敵方已經察覺了我們的入侵，因此要萬分小心。
-55,TEXT_GAIUSE309_01450_NAMIDA01449_000_024,在此期間，我們會盡可能地多吸引敵方妖精族，<hex:02100103>管他三七二十一，先收拾了他們再說！
-56,TEXT_GAIUSE309_01450_MAXIO_000_030,找到賢人了呼啾！<hex:02100103>你快去叫他們過來呼啾。
-57,TEXT_GAIUSE309_01450_DUMMYYDAO01450_000_035,人家走不動了啦！<hex:02100103>不要再破壞森林了，我們回家家吧！
-58,TEXT_GAIUSE309_01450_DUMMYPAPALYMO01450_000_040,哎喲，累死了累死了……<hex:02100103>又累又麻煩，真想回去了！
-59,TEXT_GAIUSE309_01450_DUMMYPAPALYMO01450_000_041,……測量什麼乙太呀？<hex:02100103>你要是想玩的話就和旁邊的傢伙玩嘛。
-60,TEXT_GAIUSE309_01450_DUMMYPAPALYMO01450_000_050,又累又麻煩，真想回去了！<hex:02100103>旁邊的那傢伙也肯定是這麼想的。
-61,TEXT_GAIUSE309_01450_DUMMYPAPALYMO01450_000_060,哎……你怎麼這麼煩人呀！<hex:02100103>不用測量我也懂的，拉姆大人沒有出現啦。
-62,TEXT_GAIUSE309_01450_MAXIO_000_070,怎麼了呼啾？<hex:02100103>……賢人們很奇怪嗎呼啾？
-63,TEXT_GAIUSE309_01450_MAXIO_000_071,嗯嗯……聽你一說的確很古怪啊呼啾……<hex:02100103>難道，他們是壞妖精用「變化咒文」變的假賢人呼啾？
-64,TEXT_GAIUSE309_01450_MAXIO_000_072,這種時候就輪到<hex:022811FF0A>EventItem<hex:F61E89A00103>出場啦呼啾！<hex:02100103>只要對著他們使用這個，就能解開咒文啦呼啾。<hex:02100103>你不要顧慮，使勁朝著他們扔去吧呼啾！
-65,TEXT_GAIUSE309_01450_MAXIO_000_080,你不要顧慮，使勁朝怪賢人扔<hex:022811FF0A>EventItem<hex:F61E89A00103>吧呼啾！<hex:02100103>他們要是壞妖精變的，就馬上會暴露原形啦呼啾。
-66,TEXT_GAIUSE309_01450_MAXIO_000_090,果然是壞妖精變的啊呼啾！<hex:02100103>還以為終於找到賢人了呢呼啾……<hex:02100103>再去其他地方找找吧呼啾。
-67,TEXT_GAIUSE309_01450_MAXIO_000_091,你還有剩餘的<hex:022811FF0A>EventItem<hex:F61E89A00103>嗎呼啾？<hex:02100103>要是再碰見變裝的壞妖精，你就朝他們扔這個呼啾！
-68,TEXT_GAIUSE309_01450_MAXIO_000_100,又找到賢人啦呼啾！<hex:02100103>這回該是真的了吧呼啾……
-69,TEXT_GAIUSE309_01450_DUMMYTHANCRED01450_000_105,好恐怖呀！好害怕呀！<hex:02100103>大家怎麼都朝著我這張帥臉打啊！<hex:02100103>嚇得我動都動不了啦！
-70,TEXT_GAIUSE309_01450_YDA_000_110,啊，<hex:022903EB0203>！<hex:02100103>你追上我們了啊，太好了。
-71,TEXT_GAIUSE309_01450_YDA_000_111,我這邊遇上了點麻煩事啊……<hex:02100103>明明還有測量任務要做的，<hex:02100103>可你看桑克瑞德，嚇得動都動不了了。
-72,TEXT_GAIUSE309_01450_YDA_000_120,到底發生什麼了？
-73,TEXT_GAIUSE309_01450_YDA_000_130,咳咳咳！<hex:02100103>你幹什麼呀！
-74,TEXT_GAIUSE309_01450_YDA_000_140,咳咳咳！<hex:02100103>你幹什麼呀！
-75,TEXT_GAIUSE309_01450_MAXIO_000_145,有一個是真的呼啾！<hex:02100103>趕快去和她聊聊呼啾！
-76,TEXT_GAIUSE309_01450_YDA_000_150,桑克瑞德其實是壞妖精？！<hex:02100103>難道他根本不是桑克瑞德？！
-77,TEXT_GAIUSE309_01450_YDA_000_151,哎呀，我完全沒察覺出來！<hex:02100103>雖然知道妖精會「變化咒文」，但也變得太像了……<hex:02100103>……話說回來，真的桑克瑞德去哪裡了呢？
-78,TEXT_GAIUSE309_01450_POPMESSAGE_000_000,察覺到了敵人的氣息！
-79,TEXT_GAIUSE309_01450_BALLOON_000_000,為什麼會被識破呼啾？！
-80,TEXT_GAIUSE309_01450_BALLOON_000_010,太過分了呼啾！
-81,TEXT_GAIUSE309_01450_BALLOON_000_020,還以為變得很完美呢呼啾……
-82,TEXT_GAIUSE309_01450_POP_MESSAGE,
+0,"TEXT_GAIUSE309_01450_SEQ_00","The teary-eyed private appears ready to explain the fate of your fellow Scions."
+1,"TEXT_GAIUSE309_01450_SEQ_01","<hex:024804F2021503><hex:024904F2021603><hex:0212024003> This quest has been adjusted. Please abandon the quest and restart it by speaking to the serpent lieutenant in Little Solace.<hex:0249020103><hex:0248020103><hex:02100103><hex:02100103>※The Main Scenario Guide shows the next available quest. You can toggle it on and off in Character Configuration, under UI Settings."
+2,"TEXT_GAIUSE309_01450_SEQ_02","You find Papalymo waiting for you at the Goldleaf Dais. Before you can exchange more than a few words with him, however, a fearsome denizen of the forest crashes into view, and you are forced to defend yourself. Needless to say, you have faced worse, and the creature is soon subdued. With the coast apparently clear, resume your conversation with Papalymo."
+3,"TEXT_GAIUSE309_01450_SEQ_03","You speak with Papalymo, but find his manner to be oddly stilted. Plainly, he is not quite himself. Return to Maxio and share your suspicions."
+4,"TEXT_GAIUSE309_01450_SEQ_04","Maxio believes that the touched sylphs are using an enchantment to disguise themselves as your fellow Scions. Accordingly, he provides you with scalebombs that will nullify their illusory magicks. Throw the trueform scalebombs at Papalymo and Yda's doubles, and defeat the devious dissemblers."
+5,"TEXT_GAIUSE309_01450_SEQ_05","You have defeated the touched sylphs who were masquerading as Yda and Papalymo. Report your success to Maxio."
+6,"TEXT_GAIUSE309_01450_SEQ_06","Your sylphic guide suggests continuing the search for your comrades elsewhere. It seems you have no choice but to press on into the Sylphlands."
+7,"TEXT_GAIUSE309_01450_SEQ_07","You locate Yda and Thancred, but have no way of knowing if they are who they seem to be...save one. Make use of the trueform scalebombs given to you by Maxio, and defeat any tricksters you reveal."
+8,"TEXT_GAIUSE309_01450_SEQ_08","Though your scalebombs have no effect on Yda─besides affront and discomfort─they do serve to unmask the sylph posing as Thancred. With the impostor out of the way, you may now speak freely with your fellow Scion."
+9,"TEXT_GAIUSE309_01450_SEQ_09","It would seem that Yda had no inkling of the touched sylph's deception, nor does she know where the real Thancred might be. Give the exasperated pugilist a moment to think before discussing how best to proceed."
+10,"TEXT_GAIUSE309_01450_SEQ_10",""
+11,"TEXT_GAIUSE309_01450_SEQ_11",""
+12,"TEXT_GAIUSE309_01450_SEQ_12",""
+13,"TEXT_GAIUSE309_01450_SEQ_13",""
+14,"TEXT_GAIUSE309_01450_SEQ_14",""
+15,"TEXT_GAIUSE309_01450_SEQ_15",""
+16,"TEXT_GAIUSE309_01450_SEQ_16",""
+17,"TEXT_GAIUSE309_01450_SEQ_17",""
+18,"TEXT_GAIUSE309_01450_SEQ_18",""
+19,"TEXT_GAIUSE309_01450_SEQ_19",""
+20,"TEXT_GAIUSE309_01450_SEQ_20",""
+21,"TEXT_GAIUSE309_01450_SEQ_21",""
+22,"TEXT_GAIUSE309_01450_SEQ_22",""
+23,"TEXT_GAIUSE309_01450_SEQ_23",""
+24,"TEXT_GAIUSE309_01450_TODO_00","<hex:024804F2021503><hex:024904F2021603><hex:0212024003> This quest has been adjusted. Please abandon the quest and restart it by speaking to the serpent lieutenant in Little Solace.<hex:0249020103><hex:0248020103>"
+25,"TEXT_GAIUSE309_01450_TODO_01","<hex:024804F2021503><hex:024904F2021603><hex:0212024003> This quest has been adjusted. Please abandon the quest and restart it by speaking to the serpent lieutenant in Little Solace.<hex:0249020103><hex:0248020103>"
+26,"TEXT_GAIUSE309_01450_TODO_02","<hex:024804F2021503><hex:024904F2021603><hex:0212024003> This quest has been adjusted. Please abandon the quest and restart it by speaking to the serpent lieutenant in Little Solace.<hex:0249020103><hex:0248020103>"
+27,"TEXT_GAIUSE309_01450_TODO_03","<hex:024804F2021503><hex:024904F2021603><hex:0212024003> This quest has been adjusted. Please abandon the quest and restart it by speaking to the serpent lieutenant in Little Solace.<hex:0249020103><hex:0248020103>"
+28,"TEXT_GAIUSE309_01450_TODO_04","<hex:024804F2021503><hex:024904F2021603><hex:0212024003> This quest has been adjusted. Please abandon the quest and restart it by speaking to the serpent lieutenant in Little Solace.<hex:0249020103><hex:0248020103>"
+29,"TEXT_GAIUSE309_01450_TODO_05","<hex:024804F2021503><hex:024904F2021603><hex:0212024003> This quest has been adjusted. Please abandon the quest and restart it by speaking to the serpent lieutenant in Little Solace.<hex:0249020103><hex:0248020103>"
+30,"TEXT_GAIUSE309_01450_TODO_06","<hex:024804F2021503><hex:024904F2021603><hex:0212024003> This quest has been adjusted. Please abandon the quest and restart it by speaking to the serpent lieutenant in Little Solace.<hex:0249020103><hex:0248020103>"
+31,"TEXT_GAIUSE309_01450_TODO_07","<hex:024804F2021503><hex:024904F2021603><hex:0212024003> This quest has been adjusted. Please abandon the quest and restart it by speaking to the serpent lieutenant in Little Solace.<hex:0249020103><hex:0248020103>"
+32,"TEXT_GAIUSE309_01450_TODO_08",""
+33,"TEXT_GAIUSE309_01450_TODO_09",""
+34,"TEXT_GAIUSE309_01450_TODO_10",""
+35,"TEXT_GAIUSE309_01450_TODO_11",""
+36,"TEXT_GAIUSE309_01450_TODO_12",""
+37,"TEXT_GAIUSE309_01450_TODO_13",""
+38,"TEXT_GAIUSE309_01450_TODO_14",""
+39,"TEXT_GAIUSE309_01450_TODO_15",""
+40,"TEXT_GAIUSE309_01450_TODO_16",""
+41,"TEXT_GAIUSE309_01450_TODO_17",""
+42,"TEXT_GAIUSE309_01450_TODO_18",""
+43,"TEXT_GAIUSE309_01450_TODO_19",""
+44,"TEXT_GAIUSE309_01450_TODO_20",""
+45,"TEXT_GAIUSE309_01450_TODO_21",""
+46,"TEXT_GAIUSE309_01450_TODO_22",""
+47,"TEXT_GAIUSE309_01450_TODO_23",""
+48,"TEXT_GAIUSE309_01450_MAXIO_000_000","Coughing and crying ones seem much recovered. Will walking one speak with arrow-shooting ones now?"
+49,"TEXT_GAIUSE309_01450_MODAE01449_000_005","The sylphs win this round, but I shall be prepared the next time they attempt this trick!"
+50,"TEXT_GAIUSE309_01450_SEKI01449_000_010","<cough> 'Tis naught but a tickle in my throat now. I am ready to continue."
+51,"TEXT_GAIUSE309_01450_NAMIDA01449_000_020","As you are aware, our party fell victim to an ambush."
+52,"TEXT_GAIUSE309_01450_NAMIDA01449_000_021","We scouts immediately moved forward to engage the enemy, and bid the Scions to take cover. Then, before we knew what was happening, the air was filled with that stinging, choking dust."
+53,"TEXT_GAIUSE309_01450_NAMIDA01449_000_022","The last thing I saw before my vision clouded was Master Papalymo stumbling northeast, towards the Goldleaf Dais."
+54,"TEXT_GAIUSE309_01450_NAMIDA01449_000_023","I know not what befell the others. The touched sylphs are certainly alerted to our presence in their territory, and I urge you to locate your companions quickly. Maxio, our guide, will be of the greatest help to you in that endeavor."
+55,"TEXT_GAIUSE309_01450_NAMIDA01449_000_024","Meanwhile, my fellow scouts and I will seek to draw the attention of potential ambushers away from you. Their nasty tricks will not find us such easy prey a second time!"
+56,"TEXT_GAIUSE309_01450_MAXIO_000_030","I have found walking one's companions! Wise ones will be happy to see walking one!"
+57,"TEXT_GAIUSE309_01450_DUMMYYDAO01450_000_035","No! <hex:021A020203>I<hex:021A020103> will not walk another step! Let <hex:021A020203>us<hex:021A020103> cease this despoilment of the forest and return home!"
+58,"TEXT_GAIUSE309_01450_DUMMYPAPALYMO01450_000_040","Enough of this! <hex:021A020203>My<hex:021A020103> feet ache, <hex:021A020203>my<hex:021A020103> back hurts, and <hex:021A020203>I<hex:021A020103> wish to leave these <hex:021A020203>sylphs<hex:021A020103> in peace!"
+59,"TEXT_GAIUSE309_01450_DUMMYPAPALYMO01450_000_041","Hm? Aetheric readings? Why don't <hex:021A020203>you<hex:021A020103> let this <hex:021A020203>fellow<hex:021A020103> take <hex:021A020203>your<hex:021A020103> measure!"
+60,"TEXT_GAIUSE309_01450_DUMMYPAPALYMO01450_000_050","Why are <hex:021A020203>we<hex:021A020103> still here? <hex:021A020203>I<hex:021A020103> tire, and wish to depart immediately. <hex:021A020203>My<hex:021A020103> companion feels the same way!"
+61,"TEXT_GAIUSE309_01450_DUMMYPAPALYMO01450_000_060","<sigh> Why do <hex:021A020203>you<hex:021A020103> persist? There is no need to take “measurements.” <hex:021A020203>I<hex:021A020103> can tell <hex:021A020203>you<hex:021A020103> with certainty that Lord Ramuh is nowhere to be found!"
+62,"TEXT_GAIUSE309_01450_MAXIO_000_070","Is something bothering walking one? Wise ones are not acting as wise ones should?"
+63,"TEXT_GAIUSE309_01450_MAXIO_000_071","Hmmm... This one is not sure how wise ones should behave, but this one suspects sneaky ones seek to deceive walking one with skin-changing tricks!"
+64,"TEXT_GAIUSE309_01450_MAXIO_000_072","Walking one must take these trick-breaking scalebombs and throw them at skin-changing sneaky ones. ...Although, this one does not suggest throwing anything unless walking one is sure wise ones are not truly wise ones!"
+65,"TEXT_GAIUSE309_01450_MAXIO_000_080","Throw the trick-breaking scalebombs at strangely acting wise ones. Walking one will soon discover if wise ones were sneaky ones after all!"
+66,"TEXT_GAIUSE309_01450_MAXIO_000_090","Hm? Wise ones were sneaky ones in disguise after all? So this one led walking one into sneaky ones' trap...? Forgive this one. This one will search some more, and so must walking one."
+67,"TEXT_GAIUSE309_01450_MAXIO_000_091","Does walking one still have trick-breaking scalebombs? This one fears more sneaky ones may be lurking nearby..."
+68,"TEXT_GAIUSE309_01450_MAXIO_000_100","This one spies more wise ones! Perhaps even <hex:021A020203>real<hex:021A020103> wise ones!"
+69,"TEXT_GAIUSE309_01450_DUMMYTHANCRED01450_000_105","Oh, woe is <hex:021A020203>me<hex:021A020103>! <hex:021A020203>I<hex:021A020103> cannot go on! It is far too dangerous! What if something were to happen to <hex:021A020203>my<hex:021A020103> beautiful faaace!?"
+70,"TEXT_GAIUSE309_01450_YDA_000_110","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! It's <hex:021A020203>you<hex:021A020103>!<hex:02100103>I was worried you wouldn't find us."
+71,"TEXT_GAIUSE309_01450_YDA_000_111","Seeing as you have, though─do you think you could give me a hand? Thancred's being a bit...difficult. I keep telling him we should be taking readings, but he refuses to move."
+72,"TEXT_GAIUSE309_01450_YDA_000_120","I really don't know what Thancred's so worried about. His face isn't <hex:021A020203>that<hex:021A020103> beautiful."
+73,"TEXT_GAIUSE309_01450_YDA_000_130","<cough> <cough> Ugh! What did you do that for!?"
+74,"TEXT_GAIUSE309_01450_YDA_000_140","<cough> <cough> That was just <hex:021A020203>mean<hex:021A020103>..."
+75,"TEXT_GAIUSE309_01450_MAXIO_000_145","Coughing one is true wise one! Walking one may want to apologize..."
+76,"TEXT_GAIUSE309_01450_YDA_000_150","Thancred turned into a sylph!? ...No? Waaait...you're telling me that was a sylph all along!?"
+77,"TEXT_GAIUSE309_01450_YDA_000_151","Ugh! I can't believe I fell for that! I'd heard about the shape-shifting trick, but that sprite was just so <hex:021A020203>convincing<hex:021A020103>... Hmm... I wonder where the real Thancred has disappeared to?"
+78,"TEXT_GAIUSE309_01450_POPMESSAGE_000_000","You sense a hostile presence!"
+79,"TEXT_GAIUSE309_01450_BALLOON_000_000","How did walking one know!?"
+80,"TEXT_GAIUSE309_01450_BALLOON_000_010","Walking one ruined this one's trick!"
+81,"TEXT_GAIUSE309_01450_BALLOON_000_020","But...this one's disguise was perfect!"
+82,"TEXT_GAIUSE309_01450_POP_MESSAGE","（★未使用／削除予定★）"

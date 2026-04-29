@@ -2,114 +2,114 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_CLSHRV011_00013_SEQ_00,園藝工公會的弗弗茶，想委託給冒險者一份工作。
-1,TEXT_CLSHRV011_00013_SEQ_01,接受了弗弗茶的委託。和格里達尼亞格雷洛姆農場的亞妮談談。
-2,TEXT_CLSHRV011_00013_SEQ_02,和亞妮進行了交談。和庫爾札斯中央高地樹王山莊的園藝工魯瓦泰盧安談談。
-3,TEXT_CLSHRV011_00013_SEQ_03,和魯瓦泰盧安進行了交談。讓庫爾札斯中央高地樹王山莊的魯瓦泰盧安查看3根<hex:022811FF05>Item<hex:FF08>　5395<hex:0103>。<hex:022811FF05>Item<hex:FF08>　5395<hex:0103>可以在庫爾札斯中央高地神意之地的未知的良材上採集。未知的良材會在艾歐澤亞時間上午9點短時間出現。技能「叢林之相」可以在未知的良材出現時將位置顯示在導向地圖上。
-4,TEXT_CLSHRV011_00013_SEQ_04,讓魯瓦泰盧安查看了<hex:022811FF05>Item<hex:FF08>　5395<hex:0103>。在庫爾札斯中央高地阿德內爾占星台的西側尋找困擾的刻木匠。
-5,TEXT_CLSHRV011_00013_SEQ_05,和困擾的刻木匠進行了交談。向格里達尼亞園藝工公會的弗弗茶報告。
-6,TEXT_CLSHRV011_00013_SEQ_06,向弗弗茶報告完畢。弗弗茶回想起了園藝工的職責，因此放棄了引退的想法。她認為，比起自己，冒險者才是一名合格的園藝工，並發誓今後要以冒險者為榜樣，繼續努力。為弗弗茶樹立榜樣，今後也繼續完成園藝工的任務。<hex:02100103><hex:02100103>※滿足下列條件後，可以從園藝工公會的弗弗茶那裡領取新的職業任務。<hex:02100103>完成「第七星曆主線任務」中「希望的燈火」。
-7,TEXT_CLSHRV011_00013_SEQ_07,
-8,TEXT_CLSHRV011_00013_SEQ_08,
-9,TEXT_CLSHRV011_00013_SEQ_09,
-10,TEXT_CLSHRV011_00013_SEQ_10,
-11,TEXT_CLSHRV011_00013_SEQ_11,
-12,TEXT_CLSHRV011_00013_SEQ_12,
-13,TEXT_CLSHRV011_00013_SEQ_13,
-14,TEXT_CLSHRV011_00013_SEQ_14,
-15,TEXT_CLSHRV011_00013_SEQ_15,
-16,TEXT_CLSHRV011_00013_SEQ_16,
-17,TEXT_CLSHRV011_00013_SEQ_17,
-18,TEXT_CLSHRV011_00013_SEQ_18,
-19,TEXT_CLSHRV011_00013_SEQ_19,
-20,TEXT_CLSHRV011_00013_SEQ_20,
-21,TEXT_CLSHRV011_00013_SEQ_21,
-22,TEXT_CLSHRV011_00013_SEQ_22,
-23,TEXT_CLSHRV011_00013_SEQ_23,
-24,TEXT_CLSHRV011_00013_TODO_00,和亞妮對話
-25,TEXT_CLSHRV011_00013_TODO_01,和樹王山莊的魯瓦泰盧安對話
-26,TEXT_CLSHRV011_00013_TODO_02,讓魯瓦泰盧安查看<hex:022811FF05>Item<hex:FF08>　5395<hex:0103>
-27,TEXT_CLSHRV011_00013_TODO_03,尋找困擾的刻木匠
-28,TEXT_CLSHRV011_00013_TODO_04,和園藝工公會的弗弗茶對話
-29,TEXT_CLSHRV011_00013_TODO_05,
-30,TEXT_CLSHRV011_00013_TODO_06,
-31,TEXT_CLSHRV011_00013_TODO_07,
-32,TEXT_CLSHRV011_00013_TODO_08,
-33,TEXT_CLSHRV011_00013_TODO_09,
-34,TEXT_CLSHRV011_00013_TODO_10,
-35,TEXT_CLSHRV011_00013_TODO_11,
-36,TEXT_CLSHRV011_00013_TODO_12,
-37,TEXT_CLSHRV011_00013_TODO_13,
-38,TEXT_CLSHRV011_00013_TODO_14,
-39,TEXT_CLSHRV011_00013_TODO_15,
-40,TEXT_CLSHRV011_00013_TODO_16,
-41,TEXT_CLSHRV011_00013_TODO_17,
-42,TEXT_CLSHRV011_00013_TODO_18,
-43,TEXT_CLSHRV011_00013_TODO_19,
-44,TEXT_CLSHRV011_00013_TODO_20,
-45,TEXT_CLSHRV011_00013_TODO_21,
-46,TEXT_CLSHRV011_00013_TODO_22,
-47,TEXT_CLSHRV011_00013_TODO_23,
-48,TEXT_CLSHRV011_00013_FUFUCHA_000_000,你來啦，<hex:02100103>……我看起來沒什麼精神？<hex:02100103>嗯，其實我打算引退了。
-49,TEXT_CLSHRV011_00013_FUFUCHA_000_001,和鳥人族的戰爭從未平息，<hex:02100103>加雷馬帝國軍也在蠢蠢欲動。<hex:02100103>世間紛爭無數，而森林、自然卻成為戰爭的犧牲品。
-50,TEXT_CLSHRV011_00013_FUFUCHA_000_002,一想到這些，我就十分心痛。<hex:02100103>甚至覺得我以往做的事都很沒有意義。
-51,TEXT_CLSHRV011_00013_FUFUCHA_000_003,亞妮也勸了我很多……<hex:02100103>但我已經沒有自信繼續當一名園藝工了。
-52,TEXT_CLSHRV011_00013_FUFUCHA_000_004,對了，亞妮有事要找你商量。<hex:02100103>雖然我不知道是什麼事，你去找她一趟吧。<hex:02100103>她應該就在格雷洛姆農場。
-53,TEXT_CLSHRV011_00013_YANNIE_000_010,叫你特地來一趟，麻煩了……你也看到弗弗茶那樣子了吧，<hex:02100103>竟然說要引退，作為多年的好友，我真為她感到羞愧。<hex:02100103>因為多虧了她才能有現在的我。
-54,TEXT_CLSHRV011_00013_YANNIE_000_011,她總是幫我準備食材，簡直就是我的恩人。<hex:02100103>因此我不能就這樣眼睜睜看著她引退。<hex:02100103>我一定要想辦法讓弗弗茶振作起來！
-55,TEXT_CLSHRV011_00013_YANNIE_000_012,如果森林和人類間沒有了園藝工這一橋樑，<hex:02100103>那麼森林的確不會遭到人類破壞，能夠長久保持自然的姿態。<hex:02100103>可能治癒受傷的森林的，卻也只有園藝工。
-56,TEXT_CLSHRV011_00013_YANNIE_000_013,再者說，為了從第七靈災的傷害中復興，<hex:02100103>她在世界各地植樹造林，這怎麼能說是沒有意義的呢？<hex:02100103>她的所作所為，都為人與森林的共存做出了貢獻。
-57,TEXT_CLSHRV011_00013_YANNIE_000_014,弗弗茶曾經心懷大志，充滿理想。<hex:02100103>現在，我要讓她再一次記起她的理想。
-58,TEXT_CLSHRV011_00013_YANNIE_000_015,……她以前的徒弟告訴我，<hex:02100103>說庫爾札斯那裡有她種植的森林。<hex:02100103>現在那片森林已茁壯成長，並在為人類造福。
-59,TEXT_CLSHRV011_00013_YANNIE_000_016,她懷著怎樣的心情植樹造林……<hex:02100103>我不是園藝工，所以我無從得知。<hex:02100103>但你是，因此你可以理解她。
-60,TEXT_CLSHRV011_00013_YANNIE_000_017,和我說這些的園藝工名叫瓦泰盧安，<hex:02100103>他就在庫爾札斯中央高地的樹王山莊裡。<hex:02100103>你去和他談談吧……
-61,TEXT_CLSHRV011_00013_YANNIE_100_015,為了給弗弗茶打氣，<hex:02100103>去庫爾札斯中央高地的樹王山莊，找瓦泰盧安談談。
-62,TEXT_CLSHRV011_00013_ROITELOIN_000_020,你就是<hex:022903EB0203>？<hex:02100103>亞妮都跟我說了，<hex:02100103>看來弗弗茶會長是患了心病啊。
-63,TEXT_CLSHRV011_00013_ROITELOIN_000_021,我的恩師弗弗茶會長給了我很多照顧。<hex:02100103>作為庫爾札斯人，我打心底感謝她。<hex:02100103>因此我一定要利用這次的機會報恩。
-64,TEXT_CLSHRV011_00013_ROITELOIN_000_022,我想到了一個辦法……<hex:02100103>……你知道<hex:022811FF05>Item<hex:FF08>　5395<hex:0103>嗎？<hex:02100103>那是一種只有在特定條件下才能採集到的稀有木材。
-65,TEXT_CLSHRV011_00013_ROITELOIN_000_023,它只能在長勢茂盛的森林中生存。<hex:02100103>為了從第七靈災的傷害中復興，<hex:02100103>弗弗茶會長隻身來到庫爾札斯，植樹造林。
-66,TEXT_CLSHRV011_00013_ROITELOIN_000_024,如果能在庫爾札斯的廣大森林中找到<hex:022811FF05>Item<hex:FF08>　5395<hex:0103>，<hex:02100103>那就證明她的努力沒有白費。
-67,TEXT_CLSHRV011_00013_ROITELOIN_000_025,我聽說，想要採到這種木材，<hex:02100103>需要找上個一整天。
-68,TEXT_CLSHRV011_00013_ROITELOIN_000_026,而且光找還不行，<hex:02100103>你還要會「叢林之相」這一園藝工技能。
-69,TEXT_CLSHRV011_00013_ROITELOIN_000_027,<hex:022903EB0203>，請你去尋找未知的良材，<hex:02100103>並交給我3根<hex:022811FF05>Item<hex:FF08>　5395<hex:0103>。<hex:02100103>你一定能做得到的！
-70,TEXT_CLSHRV011_00013_SYSTEM_000_028,<hex:022811FF05>Item<hex:FF08>　5395<hex:0103>可以在未知的良材上採集。<hex:02100103>未知的良材會在艾歐澤亞時間上午9點短時間出現在<hex:02100103>庫爾札斯中央高地的神意之地。
-71,TEXT_CLSHRV011_00013_ROITELOIN_000_030,我需要未知的良材上的<hex:022811FF05>Item<hex:FF08>　5395<hex:0103>。<hex:02100103>請你收集3根，並交給我。
-72,TEXT_CLSHRV011_00013_ROITELOIN_000_031,我聽說要找上一整天才能找到未知的良材……
-73,TEXT_CLSHRV011_00013_ROITELOIN_000_032,因此很需要園藝工的「叢林之相」這一技能。
-74,TEXT_CLSHRV011_00013_ROITELOIN_000_033,真厲害！沒想到你真的能找到！<hex:02100103>雖然我很想讓你馬上把它交給弗弗茶會長……<hex:02100103>不過我還有一個請求。
-75,TEXT_CLSHRV011_00013_ROITELOIN_000_034,<hex:022903EB0203>，你知道庫爾札斯與龍族紛爭不斷吧？
-76,TEXT_CLSHRV011_00013_ROITELOIN_000_035,戰爭愈演愈烈，要塞和村落再三受到重創。<hex:02100103>因此木匠們簡直忙得不可開交。<hex:02100103>這裡的木材大部分都被用去救災了。
-77,TEXT_CLSHRV011_00013_ROITELOIN_000_036,剛才我看見了一位困擾的刻木匠。<hex:02100103>你能不能把<hex:022811FF05>Item<hex:FF08>　5395<hex:0103>分給那困擾的刻木匠一點？
-78,TEXT_CLSHRV011_00013_ROITELOIN_000_037,雖然為弗弗茶會長打氣十分重要，<hex:02100103>但幫助急需木材的人也是園藝工的使命。<hex:02100103>這也是弗弗茶會長教我的。
-79,TEXT_CLSHRV011_00013_MAN_000_50,嗯？你是誰？<hex:02100103>你問我在幹什麼？
-80,TEXT_CLSHRV011_00013_MAN_000_51,我正在找適合做建材的木材呢。<hex:02100103>建築物都被龍族搞得粉碎，我要去修理它們。
-81,TEXT_CLSHRV011_00013_MAN_000_52,我沒有騙你，我們經常因龍族而受災。<hex:02100103>因為這伊修加德在和龍族打仗嘛。
-82,TEXT_CLSHRV011_00013_MAN_000_53,村裡的同伴讓我來收集修房子用的木材。<hex:02100103>但我怎麼也找不到合適的。
-83,TEXT_CLSHRV011_00013_MAN_000_54,我想收集一些好木材……<hex:02100103>你知道在哪裡能找到嗎？
-84,TEXT_CLSHRV011_00013_MAN_000_55,這、這、這！好厲害！太厲害了！<hex:02100103>這也太棒了！我從來沒見過這麼棒的木材！<hex:02100103>快告訴我，你是在哪裡找到它的？
-85,TEXT_CLSHRV011_00013_MAN_000_56,我需要很多！<hex:02100103>快告訴我這樹在哪裡？
-86,TEXT_CLSHRV011_00013_FUFUCHA_000_60,……你需要這木材麼？
-87,TEXT_CLSHRV011_00013_MAN_000_61,對啊……你是誰啊？
-88,TEXT_CLSHRV011_00013_FUFUCHA_000_62,這木材是從我種的樹上伐下來的。<hex:02100103>如果你需要，就去樹王山莊吧。<hex:02100103>那裡有許多木材，不比這根品質差。
-89,TEXT_CLSHRV011_00013_MAN_000_63,真的麼？！<hex:02100103>幫我大忙了，謝謝你！
-90,TEXT_CLSHRV011_00013_FUFUCHA_000_64,我們在這裡走走吧？<hex:02100103>偶爾散散步也不錯。
-91,TEXT_CLSHRV011_00013_FUFUCHA_000_65,亞妮說有東西要讓我看，<hex:02100103>於是我就稀裡糊塗地來到了庫爾札斯……<hex:02100103>她想讓我看的，想必就是這片森林吧。
-92,TEXT_CLSHRV011_00013_FUFUCHA_000_66,她想為我打氣，才讓我來看這片森林的……<hex:02100103><hex:022903EB0203>，你也和她一樣吧？<hex:02100103>所以才想把木材帶給我……
-93,TEXT_CLSHRV011_00013_FUFUCHA_000_67,……只要看看這片森林裡的木材就能明白。<hex:02100103>我傳授給伊修加德的園藝工知識已在這裡生根發芽，<hex:02100103>沒有被白白浪費。
-94,TEXT_CLSHRV011_00013_FUFUCHA_000_68,森林在人的照料下茁壯成長了起來，<hex:02100103>連被譽為幻之木材的雲杉都在此生根，<hex:02100103>人們也都需要這些木材……
-95,TEXT_CLSHRV011_00013_FUFUCHA_000_69,園藝工的職責是植樹造林，並將森林的恩惠帶給人們，<hex:02100103>我又回想起了工作的喜悅……
-96,TEXT_CLSHRV011_00013_FUFUCHA_000_70,剛才那位刻木匠說，<hex:02100103>他想用我種的樹修壞掉的房子。
-97,TEXT_CLSHRV011_00013_FUFUCHA_000_71,這裡的森林也和格里達尼亞一樣，被戰火折磨著……<hex:02100103>但這片森林裡有一股強大的力量，能夠承受戰爭帶來的傷痛。<hex:02100103>森林並不是在被榨取，而是在與人類分享資源……
-98,TEXT_CLSHRV011_00013_FUFUCHA_000_72,你看，這蓬勃的生命力，<hex:02100103>這片森林是我種植的，我為此感到十分自豪！
-99,TEXT_CLSHRV011_00013_FUFUCHA_000_73,我終於想通了。<hex:02100103>這如同樹木吐新芽般的感覺……<hex:02100103>我會一直記在心裡的。
-100,TEXT_CLSHRV011_00013_FUFUCHA_000_74,並且我想與公會裡的大伙一起分享我這感受。<hex:02100103>我們回格里達尼亞吧。<hex:02100103>黑衣森林在等著我們呢！
-101,TEXT_CLSHRV011_00013_FUFUCHA_000_080,這次真的很感謝你。<hex:02100103>多虧了你，我心裡好受多了。
-102,TEXT_CLSHRV011_00013_FUFUCHA_000_081,當然，只要戰爭持續一天，森林就會受傷害。<hex:02100103>人類為了生存下去，為了保護自己，<hex:02100103>就要消耗森林資源。對此我仍然十分心痛。
-103,TEXT_CLSHRV011_00013_FUFUCHA_000_082,但如果這是生存所必需的話……<hex:02100103>我們園藝工就要做到育樹並育人。
-104,TEXT_CLSHRV011_00013_FUFUCHA_000_083,我把這些道理全給忘了，<hex:02100103>僅僅為受傷的森林而悲傷……<hex:02100103>真是丟人啊。
-105,TEXT_CLSHRV011_00013_FUFUCHA_000_084,正因為現在戰爭不斷，<hex:02100103>我們園藝工才更應該治癒受傷的森林，<hex:02100103>讓森林獲得重生。
-106,TEXT_CLSHRV011_00013_FUFUCHA_000_085,現在可不是考慮引退的時候。<hex:02100103>看來我還差得很遠。<hex:02100103>倒是你，真是一個合格的園藝工。
-107,TEXT_CLSHRV011_00013_FUFUCHA_000_086,那我就以你為榜樣，<hex:02100103>向你學習，不是作為首席園藝工，<hex:02100103>而是以一名普通園藝工的身份，繼續努力吧！
-108,TEXT_CLSHRV011_00013_SYSTEM_000_500,「園藝工」的故事到此告一段落！<hex:02100103>要開始接下來的「園藝工」職業任務，<hex:02100103>需要滿足以下條件。
-109,TEXT_CLSHRV011_00013_SYSTEM_000_501,完成「第七星曆主線任務」中「希望的燈火」。
-110,TEXT_CLSHRV011_00013_SYSTEM_000_502,滿足條件後，和園藝工公會的弗弗茶對話，<hex:02100103>即可開始新的職業任務！
+0,"TEXT_CLSHRV011_00013_SEQ_00","Fufucha of the Botanists' Guild has reached a most difficult decision."
+1,"TEXT_CLSHRV011_00013_SEQ_01","Unable to reconcile her conflicting feelings regarding the Botanists' Guild serving the war effort that has brought such turmoil to the once-tranquil Twelveswood, Fufucha has made the grave decision to resign her position as guildmaster. Yannie at the Greatloam Growery would assign you a task in the former guildmaster's stead."
+2,"TEXT_CLSHRV011_00013_SEQ_02","Yannie would convince her friend Fufucha not to abandon the guild, and seeks your aid. Travel to the Timberlord's Lodge, west of Skyfire Locks in the Coerthas central highlands, and seek the counsel of Roiteloin, a former apprentice of Fufucha's."
+3,"TEXT_CLSHRV011_00013_SEQ_03","Roiteloin sympathizes deeply with Fufucha's dilemma, and has devised a plan that he believes will lift her spirits and impel her to reconsider her decision. Gather for him three logs of spruce, a type of lumber still rare in these lands. Use the Truth of Forests technique to identify unspoiled mature trees that appear at 9 a.m. (Eorzea time) to harvest spruce logs."
+4,"TEXT_CLSHRV011_00013_SEQ_04","Roiteloin explains that the spruce logs you gathered are sorely needed by the people of Coerthas, many of whom have had their homes razed to the ground by dragon fire. Head due west from the Observatorium and seek out the carpenter who heads the rebuilding effort."
+5,"TEXT_CLSHRV011_00013_SEQ_05","At Yannie's request, Fufucha journeyed to Coerthas to see with her own eyes the forest she helped grow, and the experience has opened her eyes. Return to the Botanists' Guild and speak with Fufucha."
+6,"TEXT_CLSHRV011_00013_SEQ_06","Having finally come to peace with her role as a botanist in times of strife, Fufucha has decided to remain at the guild. She thanks you for helping her rediscover the sense of purpose she had lost, and applauds you as a model for all botanists to follow.<hex:02100103><hex:02100103>※The next botanist quest will be available from Fufucha once you have completed the main scenario quest “Before the Dawn.”"
+7,"TEXT_CLSHRV011_00013_SEQ_07",""
+8,"TEXT_CLSHRV011_00013_SEQ_08",""
+9,"TEXT_CLSHRV011_00013_SEQ_09",""
+10,"TEXT_CLSHRV011_00013_SEQ_10",""
+11,"TEXT_CLSHRV011_00013_SEQ_11",""
+12,"TEXT_CLSHRV011_00013_SEQ_12",""
+13,"TEXT_CLSHRV011_00013_SEQ_13",""
+14,"TEXT_CLSHRV011_00013_SEQ_14",""
+15,"TEXT_CLSHRV011_00013_SEQ_15",""
+16,"TEXT_CLSHRV011_00013_SEQ_16",""
+17,"TEXT_CLSHRV011_00013_SEQ_17",""
+18,"TEXT_CLSHRV011_00013_SEQ_18",""
+19,"TEXT_CLSHRV011_00013_SEQ_19",""
+20,"TEXT_CLSHRV011_00013_SEQ_20",""
+21,"TEXT_CLSHRV011_00013_SEQ_21",""
+22,"TEXT_CLSHRV011_00013_SEQ_22",""
+23,"TEXT_CLSHRV011_00013_SEQ_23",""
+24,"TEXT_CLSHRV011_00013_TODO_00","Speak with Yannie."
+25,"TEXT_CLSHRV011_00013_TODO_01","Speak with Roiteloin at the Timberlord's Lodge."
+26,"TEXT_CLSHRV011_00013_TODO_02","Present spruce logs to Roiteloin."
+27,"TEXT_CLSHRV011_00013_TODO_03","Find the troubled carpenter."
+28,"TEXT_CLSHRV011_00013_TODO_04","Speak with Fufucha at the Botanists' Guild."
+29,"TEXT_CLSHRV011_00013_TODO_05",""
+30,"TEXT_CLSHRV011_00013_TODO_06",""
+31,"TEXT_CLSHRV011_00013_TODO_07",""
+32,"TEXT_CLSHRV011_00013_TODO_08",""
+33,"TEXT_CLSHRV011_00013_TODO_09",""
+34,"TEXT_CLSHRV011_00013_TODO_10",""
+35,"TEXT_CLSHRV011_00013_TODO_11",""
+36,"TEXT_CLSHRV011_00013_TODO_12",""
+37,"TEXT_CLSHRV011_00013_TODO_13",""
+38,"TEXT_CLSHRV011_00013_TODO_14",""
+39,"TEXT_CLSHRV011_00013_TODO_15",""
+40,"TEXT_CLSHRV011_00013_TODO_16",""
+41,"TEXT_CLSHRV011_00013_TODO_17",""
+42,"TEXT_CLSHRV011_00013_TODO_18",""
+43,"TEXT_CLSHRV011_00013_TODO_19",""
+44,"TEXT_CLSHRV011_00013_TODO_20",""
+45,"TEXT_CLSHRV011_00013_TODO_21",""
+46,"TEXT_CLSHRV011_00013_TODO_22",""
+47,"TEXT_CLSHRV011_00013_TODO_23",""
+48,"TEXT_CLSHRV011_00013_FUFUCHA_000_000","Forgive me if I seemed a bit distant the last time we spoke, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Allow me to get straight to the point. I have not come to this decision easily, but I have come to it all the same: as of today, I have resigned from the Botanists' Guild."
+49,"TEXT_CLSHRV011_00013_FUFUCHA_000_001","Our battle with the Ixal rages on, and there are rumblings from the Empire as well. With each passing day, more people die, the soil is stained deeper with blood, and the Twelveswood weeps..."
+50,"TEXT_CLSHRV011_00013_FUFUCHA_000_002","Meanwhile, I fill orders for the war effort. And for what purpose? That more Ixal may suffer and die than Gridanians? No, if this is what it means to be a botanist in this day and age, I want no more part of it."
+51,"TEXT_CLSHRV011_00013_FUFUCHA_000_003","Yannie, may Nophica bless her dear heart, tried her best to convince me to stay. Still, I fear my heart is settled."
+52,"TEXT_CLSHRV011_00013_FUFUCHA_000_004","Mind you, this decision is mine alone. I would pass no judgment on those who find meaning in their efforts here. Should you wish to continue to serve the guild, I am sure Yannie will have suitable tasks for you. Farewell, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, and may the Twelveswood ever shelter you."
+53,"TEXT_CLSHRV011_00013_YANNIE_000_010","Oh, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. I'm so glad you're here. You spoke to Fufucha, yes? It absolutely breaks my heart to see what's become of my old friend."
+54,"TEXT_CLSHRV011_00013_YANNIE_000_011","Fufucha and I have known each other since we were both knee-high to a funguar, and I assure you, her knowledge of and passion for the flora of this realm is second to none. This guild would be absolutely lost without her guidance."
+55,"TEXT_CLSHRV011_00013_YANNIE_000_012","Of course, I understand her worries─these are not easy times for a true seeker of peace and friend to nature. And yet, I cannot help but feel that her emotions cloud her better judgment─that she is not seeing the forest for the trees, if you will."
+56,"TEXT_CLSHRV011_00013_YANNIE_000_013","Fufucha has convinced herself that she is doing more harm than good to the natural world she so loves. Preposterous! Has she forgotten the countless trees she planted after the Calamity, journeying far and wide to return lush verdure to our shattered realm?"
+57,"TEXT_CLSHRV011_00013_YANNIE_000_014","Someone must remind her of all she has accomplished, and the work that is still left to be done."
+58,"TEXT_CLSHRV011_00013_YANNIE_000_015","To that end, I have made contact with one of Fufucha's former apprentices, a botanist by the name of Roiteloin, who now tends to a forest that Fufucha herself led the planting of many years ago."
+59,"TEXT_CLSHRV011_00013_YANNIE_000_016","My words as a friend will not reach Fufucha now─only a fellow botanist who understands the depths of her worries can heal the wounds in her heart. I beg of you, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, speak with this Roiteloin and seek his counsel."
+60,"TEXT_CLSHRV011_00013_YANNIE_000_017","Roiteloin tends to the forests surrounding the Timberlord's Lodge in the central highlands of Coerthas. Please, go quickly─once Fufucha leaves our guild behind, I fear that she shall never return..."
+61,"TEXT_CLSHRV011_00013_YANNIE_100_015","Roiteloin tends to the forests surrounding the Timberlord's Lodge in the central highlands of Coerthas. Please, go quickly─once Fufucha leaves our guild behind, I fear that she shall never return..."
+62,"TEXT_CLSHRV011_00013_ROITELOIN_000_020","Well met, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Yannie told me to expect you. I am Roiteloin, a humble botanist plying his trade in these bleak lands."
+63,"TEXT_CLSHRV011_00013_ROITELOIN_000_021","Botany is not simply my livelihood. I consider it my true calling─a calling I would never have discovered were it not for Fufucha's guidance. Needless to say, I was devastated to hear the news."
+64,"TEXT_CLSHRV011_00013_ROITELOIN_000_022","All hope is not lost, however, as I have hit upon an idea. Tell me, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, are you familiar with the spruce tree?"
+65,"TEXT_CLSHRV011_00013_ROITELOIN_000_023","I do not blame you if you are not, as it is a rare sight these days. As Fufucha would tell it, in the years before the Calamity, vast forests of spruce would stretch for malms and malms."
+66,"TEXT_CLSHRV011_00013_ROITELOIN_000_024","What spruce trees you see today are the result of Fufucha's efforts to bring the flora of ages past back to Eorzea. Perhaps seeing that her work has borne fruit will convince her not to abandon her life as a botanist."
+67,"TEXT_CLSHRV011_00013_ROITELOIN_000_025","Knowing Fufucha as I do, the gesture would mean the most to her if the spruce were harvested by the hand of an apprentice close to her heart─<hex:021A020203>your<hex:021A020103> hand, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>."
+68,"TEXT_CLSHRV011_00013_ROITELOIN_000_026","Before you set off, be forewarned: spruce is still rare to these parts, and not easily discerned. Only one with knowledge of the Truth of Forests could hope to identify such trees, and then only after straining the eyes from the break of dawn."
+69,"TEXT_CLSHRV011_00013_ROITELOIN_000_027","If your eyes are true, friend, you will come upon mature trees unlike any you have seen before. Harvest from them three spruce logs, and bring them back to me."
+70,"TEXT_CLSHRV011_00013_SYSTEM_000_028","Use the Truth of Forests technique to identify unspoiled mature trees that appear in the Coerthas central highlands at 9 a.m. (Eorzea time) to harvest spruce logs."
+71,"TEXT_CLSHRV011_00013_ROITELOIN_000_030","Should you have difficulty locating the spruce trees, remember: only one with knowledge of the Truth of Forests can see them, and only after waiting from dawn till sundown."
+72,"TEXT_CLSHRV011_00013_ROITELOIN_000_031","If your eyes are true, friend, you will come upon mature trees unlike any you have seen before."
+73,"TEXT_CLSHRV011_00013_ROITELOIN_000_032","Did you follow all that, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>? Very well. Gather three spruce logs, and bring them back here to me."
+74,"TEXT_CLSHRV011_00013_ROITELOIN_000_033","Remarkable gathering, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. I see that Fufucha has trained you well."
+75,"TEXT_CLSHRV011_00013_ROITELOIN_000_034","I had a mind to deliver them to Fufucha straightaway, but I just received some troubling news. You have heard that we here in Coerthas are locked in war with the dragons, have you not?"
+76,"TEXT_CLSHRV011_00013_ROITELOIN_000_035","A recent dragon raid has left many soldiers and settlers without shelter. A carpenter in the area is doing all he can to construct new lodgings, but lumber is in painfully short supply."
+77,"TEXT_CLSHRV011_00013_ROITELOIN_000_036","I share your concern for Fufucha, but I am sure you agree that our first priority as botanists is to help those in need. Why, Fufucha herself taught me as much."
+78,"TEXT_CLSHRV011_00013_ROITELOIN_000_037","Please, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, seek out the carpenter, and deliver to him some spruce logs, that the people of Coerthas need suffer without a roof over their heads for no longer."
+79,"TEXT_CLSHRV011_00013_MAN_000_50","Yes? On the off chance that you're either blind or stupid, I'm a busy man."
+80,"TEXT_CLSHRV011_00013_MAN_000_51","Busy doin' what, you say? Searchin' for lumber, that's what! We've no end of houses that need rebuilt after bein' smashed to bits by those damned dragons."
+81,"TEXT_CLSHRV011_00013_MAN_000_52","...Or haven't you noticed that there's a war goin' on here?"
+82,"TEXT_CLSHRV011_00013_MAN_000_53","Look, I don't mean to be rude, but I've no time for chitchat. Take a look around─these ain't hospitable lands. Without shelter, people will die."
+83,"TEXT_CLSHRV011_00013_MAN_000_54","Damn it all! Is there not a single sturdy log left in all the highlands!?"
+84,"TEXT_CLSHRV011_00013_MAN_000_55","Why, this is...! I've never seen wood like this! Where in the name of the Twelve did you find this?"
+85,"TEXT_CLSHRV011_00013_MAN_000_56","To think that lumber of this quality could be found in these lands. Why, I'll not forget this kindness, friend. Those trees will save lives."
+86,"TEXT_CLSHRV011_00013_FUFUCHA_000_60","Those trees...will save lives?"
+87,"TEXT_CLSHRV011_00013_MAN_000_61","You bet they will, little missy! Er, speakin' o' which, whom do I have the pleasure of addressin'?"
+88,"TEXT_CLSHRV011_00013_FUFUCHA_000_62","My name matters not. I am just a humble botanist, and nothing more. I would bid you speak to my colleague Roiteloin at the Timberlord's Lodge. He will see that you never want for lumber."
+89,"TEXT_CLSHRV011_00013_MAN_000_63","I don't know who you are, miss, but I'm glad we met! The gods are truly watchin' over us today!"
+90,"TEXT_CLSHRV011_00013_FUFUCHA_000_64","Shall we go for a walk, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>?"
+91,"TEXT_CLSHRV011_00013_FUFUCHA_000_65","When Yannie suggested I travel to Coerthas, I had not the slightest idea what she had in mind. The moment I laid eyes on this forest, I remembered."
+92,"TEXT_CLSHRV011_00013_FUFUCHA_000_66","This was your intent, was it not, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>? You, Yannie, and Roiteloin."
+93,"TEXT_CLSHRV011_00013_FUFUCHA_000_67","Your gentle concern for my faltering heart is not lost on me. Nor is the meaning of this forest. The trees themselves speak volumes."
+94,"TEXT_CLSHRV011_00013_FUFUCHA_000_68","The seeds, the art of botany, the love and reverence for nature that we brought to Ishgard have taken root in the lands and the hearts of the people, and grown strong...strong indeed."
+95,"TEXT_CLSHRV011_00013_FUFUCHA_000_69","As strong as the majestic spruces that once more grace these snow–swept highlands."
+96,"TEXT_CLSHRV011_00013_FUFUCHA_000_70","The spruces that will now provide shelter and comfort to those who have been ravaged by war..."
+97,"TEXT_CLSHRV011_00013_FUFUCHA_000_71","Like the Twelveswood, this forest has suffered greatly in these times of strife. And yet...this forest has strength."
+98,"TEXT_CLSHRV011_00013_FUFUCHA_000_72","A strength it has harbored since time immemorial, and one it shares with us. A strength that goes beyond logs we harvest or the herbs we gather."
+99,"TEXT_CLSHRV011_00013_FUFUCHA_000_73","I must never forget the lessons I have learned here today. On the contrary, I must share what I have discovered here, that hope might take root again in the hearts of our countrymen."
+100,"TEXT_CLSHRV011_00013_FUFUCHA_000_74","Let us return to Gridania, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. The Twelveswood is calling us home."
+101,"TEXT_CLSHRV011_00013_FUFUCHA_000_080","Do you hear, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>? The leaves whisper to us, welcoming us home. To think that I almost turned my back on them forever..."
+102,"TEXT_CLSHRV011_00013_FUFUCHA_000_081","The battles rage on, and the forest will not go unscathed. Gridanian and Ixal hack away at innocent branches and uproot flowers and shrubs for their own self-seeking causes."
+103,"TEXT_CLSHRV011_00013_FUFUCHA_000_082","The sadness, the powerlessness is at times too great to bear. And yet, if I were to walk away, who would tend to the wounded forest in my stead?"
+104,"TEXT_CLSHRV011_00013_FUFUCHA_000_083","There is only so much that a lone botanist can accomplish. And yet, every seed that is planted, every tree that takes root brings us one step closer to a future where we live in harmony with the forest."
+105,"TEXT_CLSHRV011_00013_FUFUCHA_000_084","In my pain and frustration, my eyes had been blinded to this truth. Thanks to you, Yannie, and Roiteloin, I see again."
+106,"TEXT_CLSHRV011_00013_FUFUCHA_000_085","Rest easy, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. I will remain here at the Growery. How could I not? The forest needs every friend it can muster in these dark times, and it would seem I still have much to learn."
+107,"TEXT_CLSHRV011_00013_FUFUCHA_000_086","I would be honored to continue to walk the path of the botanist with you. Not as guildmaster and apprentice, but as peers─fellow shepherds of the forest. Be you ever safe in your travels."
+108,"TEXT_CLSHRV011_00013_SYSTEM_000_500","This concludes the botanist quests for FINAL FANTASY XIV: A Realm Reborn. In order to undertake the next series of quests, you must first meet the following requirements:"
+109,"TEXT_CLSHRV011_00013_SYSTEM_000_501","※You must have completed the main scenario quest “Before the Dawn.”"
+110,"TEXT_CLSHRV011_00013_SYSTEM_000_502","Once you have done so, the next botanist quest will be available from Fufucha."

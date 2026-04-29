@@ -2,22 +2,22 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_REGWILNOTORIOUSMONSTERHINTF1_00189_MOBHUNTERW1F1_000_1,你是冒險者吧……<hex:02100103>你也在追捕惡名菁英？
-1,TEXT_REGWILNOTORIOUSMONSTERHINTF1_00189_Q1_000_1,想了解什麼？
-2,TEXT_REGWILNOTORIOUSMONSTERHINTF1_00189_A1_000_1,你是做什麼的？
-3,TEXT_REGWILNOTORIOUSMONSTERHINTF1_00189_A1_000_2,關於B級怪物：礦業廢水——陰溝毒液
-4,TEXT_REGWILNOTORIOUSMONSTERHINTF1_00189_A1_000_3,關於A級怪物：狩獵天才——阿列刻特利昂
-5,TEXT_REGWILNOTORIOUSMONSTERHINTF1_00189_A1_000_4,關於S級怪物：天上的怪物——虛無探索者
-6,TEXT_REGWILNOTORIOUSMONSTERHINTF1_00189_A1_000_5,取消
-7,TEXT_REGWILNOTORIOUSMONSTERHINTF1_00189_MOBHUNTERW1F1_000_10,我是一名怪物獵人，<hex:02100103>專門追捕擾亂地區治安的惡名菁英。
-8,TEXT_REGWILNOTORIOUSMONSTERHINTF1_00189_MOBHUNTERW1F1_000_11,只要討伐成功，<hex:02100103>就能從艾歐澤亞城邦軍事同盟處獲得同盟徽章。
-9,TEXT_REGWILNOTORIOUSMONSTERHINTF1_00189_MOBHUNTERW1F1_000_12,如果你也想挑戰一下，<hex:02100103>我可以告訴你一些這片地區惡名菁英的情報。
-10,TEXT_REGWILNOTORIOUSMONSTERHINTF1_00189_MOBHUNTERW1F1_000_13,順便一說，按危險程度不同，惡名菁英是有等級之分的。<hex:02100103>S級的怪物別說討伐了，就連找都很難找得到。
-11,TEXT_REGWILNOTORIOUSMONSTERHINTF1_00189_MOBHUNTERW1F1_000_20,再開發中的銅鈴銅山流出的廢水，<hex:02100103>孕育出了不淨的魔物。<hex:02100103>採礦工們稱其為陰溝毒液。
-12,TEXT_REGWILNOTORIOUSMONSTERHINTF1_00189_MOBHUNTERW1F1_000_21,雖然艾瑪吉娜礦山公司的自衛隊「鐵燈團」有前去討伐……<hex:02100103>但聽說他們因為刺鼻的劇臭，連接近對方都沒能做到。
-13,TEXT_REGWILNOTORIOUSMONSTERHINTF1_00189_MOBHUNTERW1F1_000_30,你知道席茲類的魔物都是成對狩獵的嗎？<hex:02100103>其一負責發現並驅趕獵物，<hex:02100103>其二則負責埋伏起來將獵物解決。
-14,TEXT_REGWILNOTORIOUSMONSTERHINTF1_00189_MOBHUNTERW1F1_000_31,但阿列刻特利昂卻不去履行驅趕獵物的職責，<hex:02100103>它不斷地單獨完成狩獵，最終餓死了自己的搭檔。<hex:02100103>也可以說，它是席茲中的狩獵天才。
-15,TEXT_REGWILNOTORIOUSMONSTERHINTF1_00189_MOBHUNTERW1F1_000_40,虛無探索者是一種會飛的怪物。<hex:02100103>它數次襲擊了高風飛行社的飛空艇，<hex:02100103>造成了很大的麻煩。
-16,TEXT_REGWILNOTORIOUSMONSTERHINTF1_00189_MOBHUNTERW1F1_000_41,平時它都悠閒地在高空翱翔，不會輕易現身。
-17,TEXT_REGWILNOTORIOUSMONSTERHINTF1_00189_MOBHUNTERW1F1_000_42,但據說它在上空發現下面有閃光的東西時會俯衝下來。<hex:02100103>尤其偏好暗淡的古銅色光輝。
-18,TEXT_REGWILNOTORIOUSMONSTERHINTF1_00189_TALK_ACTOR,
+0,"TEXT_REGWILNOTORIOUSMONSTERHINTF1_00189_MOBHUNTERW1F1_000_1","There's a smile made of sunshine an' steel! Welcome, adventurer, to the elite Hunt!"
+1,"TEXT_REGWILNOTORIOUSMONSTERHINTF1_00189_Q1_000_1","What will you ask?"
+2,"TEXT_REGWILNOTORIOUSMONSTERHINTF1_00189_A1_000_1","What do you do here?"
+3,"TEXT_REGWILNOTORIOUSMONSTERHINTF1_00189_A1_000_2","Tell me about the rank B elite mark. (Sewer Syrup)"
+4,"TEXT_REGWILNOTORIOUSMONSTERHINTF1_00189_A1_000_3","Tell me about the rank A elite mark. (Alectryon)"
+5,"TEXT_REGWILNOTORIOUSMONSTERHINTF1_00189_A1_000_4","Tell me about the rank S elite mark. (Zona Seeker)"
+6,"TEXT_REGWILNOTORIOUSMONSTERHINTF1_00189_A1_000_5","Nothing."
+7,"TEXT_REGWILNOTORIOUSMONSTERHINTF1_00189_MOBHUNTERW1F1_000_10","I'm a hunter of elite marks, just like you! I'm better at it, of course─more learned an' such."
+8,"TEXT_REGWILNOTORIOUSMONSTERHINTF1_00189_MOBHUNTERW1F1_000_11","You should see my haul of Allied Seals. You get a pile of 'em every time you bring down an elite mark. I wouldn't mind if the Alliance just paid us in gil, but I'm not complainin'!"
+9,"TEXT_REGWILNOTORIOUSMONSTERHINTF1_00189_MOBHUNTERW1F1_000_12","Why, sure you've a chance to get some of those seals for yourself! 'Tis natural for the more learned to help the less learned, so ask me what you will!"
+10,"TEXT_REGWILNOTORIOUSMONSTERHINTF1_00189_MOBHUNTERW1F1_000_13","I wasn't so lucky when I started─chased a rank S for days an' not a trace. The ranks show danger an' difficulty both, as I later learned!"
+11,"TEXT_REGWILNOTORIOUSMONSTERHINTF1_00189_MOBHUNTERW1F1_000_20","“Born in the full foulness of the effluent passed by Amajina & Sons' Copperbell Mines, the voidsent Sewer Syrup was so named by the less imaginative among even the fume-addled unfortunates that work the recently expanded mine."
+12,"TEXT_REGWILNOTORIOUSMONSTERHINTF1_00189_MOBHUNTERW1F1_000_21","“Containment attempts by the Stone Torches were foiled by the voidsent's acrid stink. So powerful was the stench that it laid low many of the militiamen, and others still weep blood-tinged tears.”"
+13,"TEXT_REGWILNOTORIOUSMONSTERHINTF1_00189_MOBHUNTERW1F1_000_30","“It is known that ziz hunt in pairs: the driver maneuvers the prey toward the ambusher, and both eat well that day."
+14,"TEXT_REGWILNOTORIOUSMONSTERHINTF1_00189_MOBHUNTERW1F1_000_31","“The elders say Alectryon never knew his place, and correct they were proven when his ambusher was found dead. The latter had starved while the self-styled lone hunter took the game by and for himself, leaving nary a gristle for the other ziz.”"
+15,"TEXT_REGWILNOTORIOUSMONSTERHINTF1_00189_MOBHUNTERW1F1_000_40","“Few have seen Zona Seeker, such is the altitude it keeps in its deadly flight."
+16,"TEXT_REGWILNOTORIOUSMONSTERHINTF1_00189_MOBHUNTERW1F1_000_41","“Its elusiveness would trouble none but the most ardent scholars of airborne monstrosities, were it not for the many airships of Highwind Skyways lost to Zona Seeker's attacks.”"
+17,"TEXT_REGWILNOTORIOUSMONSTERHINTF1_00189_MOBHUNTERW1F1_000_42","The beast near landed on me once. That was a bit of a scare, let me tell you! Flashes of light draw it─must've been the brushed bronze pauldrons I was wearin'."
+18,"TEXT_REGWILNOTORIOUSMONSTERHINTF1_00189_TALK_ACTOR",""

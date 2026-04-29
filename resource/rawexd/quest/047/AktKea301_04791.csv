@@ -2,248 +2,248 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_AKTKEA301_04791_SEQ_00,銀淚湖北岸的迪裡克正在等待巴爾德西昂委員會的二人。
-1,TEXT_AKTKEA301_04791_SEQ_01,前情回顧：<hex:02100103>受到眾神眷顧之地——艾歐澤亞。探險家迪裡克發現了人們口中傳承至今卻從未被踏足過的幻域，於是他委託巴爾德西昂委員會協助進行調查。為了探究艾歐澤亞十二神要求與人類戰鬥的目的以及他們的真實身份，一行人嘗試對神域翁法洛斯的碑文進行解讀。在與土天和冰天的眾神戰鬥過後，得到了眾神的協助，為了解讀碑文踏上了收集十二神秘石的旅程。通過解讀碑文，了解到碑文上銘刻的內容是關於眾神的職責與第十三位無名者。<hex:02100103>　　　　　　　　　　　　*　*　*<hex:02100103>從迪裡克那裡得知可露兒和古·拉哈·提亞還需要一些時間才能回來。去查看翁法洛斯的斯努蓋姆的情況。可以從摩杜納銀淚湖北岸的河畔前往翁法洛斯。
-2,TEXT_AKTKEA301_04791_SEQ_02,斯努蓋姆告訴冒險者，十二神想和冒險者談談。之後這段時間，冒險者可以在翁法洛斯神域之門前呼喚十二神，和他們交流。如果覺得聊夠了，就和翁法洛斯的正在等待可露兒他們的迪裡克談談。
-3,TEXT_AKTKEA301_04791_SEQ_03,和迪裡克交談的途中，可露兒他們回來了。一行人決定去見見月面監視者，他很可能就是碑文中提到的第十三位無名者。在嘆息海的監視者之館前的<hex:02280CFF05>EObj<hex:F61EB90F0103>，和眾人匯合。
-4,TEXT_AKTKEA301_04791_SEQ_04,從月面監視者口中得知十二神亦是海德林創造出來的管理機關。返回翁法洛斯和眾神對峙。
-5,TEXT_AKTKEA301_04791_SEQ_05,返回翁法洛斯後，知識神沙利亞克與海洋神利姆萊茵出現在一行人面前，並且得知迪裡克不過是放浪神奧修昂的另一個身份。為了商量今後的事情，和翁法洛斯的古·拉哈·提亞談談。
-6,TEXT_AKTKEA301_04791_SEQ_06,和古·拉哈·提亞進行了交談，在驚訝於迪裡克真實身份的同時，冒險者決定挑戰剩下的神域。為了實現艾歐澤亞十二神的願望，突破榮華神域塔利亞。<hex:02100103><hex:02100103>※可以通過任務搜尋器參加。
-7,TEXT_AKTKEA301_04791_SEQ_07,突破了榮華神域塔利亞。在祝福天球探明歐羅基亞的目的。如果離開了祝福天球，可以從翁法洛斯前往祝福天球。
-8,TEXT_AKTKEA301_04791_SEQ_08,艾歐澤亞十二神的願望是將自己的力量作為祝福歸還給星球。令人驚訝的是，本以為和其他眾神一起消失了的奧修昂化作迪裡克回歸了。和祝福天球的可露兒談談。
-9,TEXT_AKTKEA301_04791_SEQ_09,和可露兒進行了交談。詳細的事情先拋之腦後，慶賀迪裡克的回歸吧。
-10,TEXT_AKTKEA301_04791_SEQ_10,
-11,TEXT_AKTKEA301_04791_SEQ_11,
-12,TEXT_AKTKEA301_04791_SEQ_12,
-13,TEXT_AKTKEA301_04791_SEQ_13,
-14,TEXT_AKTKEA301_04791_SEQ_14,
-15,TEXT_AKTKEA301_04791_SEQ_15,
-16,TEXT_AKTKEA301_04791_SEQ_16,
-17,TEXT_AKTKEA301_04791_SEQ_17,
-18,TEXT_AKTKEA301_04791_SEQ_18,
-19,TEXT_AKTKEA301_04791_SEQ_19,
-20,TEXT_AKTKEA301_04791_SEQ_20,
-21,TEXT_AKTKEA301_04791_SEQ_21,
-22,TEXT_AKTKEA301_04791_SEQ_22,
-23,TEXT_AKTKEA301_04791_SEQ_23,
-24,TEXT_AKTKEA301_04791_TODO_00,和翁法洛斯的斯努蓋姆對話
-25,TEXT_AKTKEA301_04791_TODO_01,和迪裡克對話
-26,TEXT_AKTKEA301_04791_TODO_02,在監視者之館前的<hex:02280CFF05>EObj<hex:F61EB90F0103>等待
-27,TEXT_AKTKEA301_04791_TODO_03,前往翁法洛斯
-28,TEXT_AKTKEA301_04791_TODO_04,和古·拉哈·提亞對話
-29,TEXT_AKTKEA301_04791_TODO_05,突破榮華神域塔利亞
-30,TEXT_AKTKEA301_04791_TODO_06,突破榮華神域塔利亞
-31,TEXT_AKTKEA301_04791_TODO_07,和祝福天球的可露兒對話
-32,TEXT_AKTKEA301_04791_TODO_08,
-33,TEXT_AKTKEA301_04791_TODO_09,
-34,TEXT_AKTKEA301_04791_TODO_10,
-35,TEXT_AKTKEA301_04791_TODO_11,
-36,TEXT_AKTKEA301_04791_TODO_12,
-37,TEXT_AKTKEA301_04791_TODO_13,
-38,TEXT_AKTKEA301_04791_TODO_14,
-39,TEXT_AKTKEA301_04791_TODO_15,
-40,TEXT_AKTKEA301_04791_TODO_16,
-41,TEXT_AKTKEA301_04791_TODO_17,
-42,TEXT_AKTKEA301_04791_TODO_18,
-43,TEXT_AKTKEA301_04791_TODO_19,
-44,TEXT_AKTKEA301_04791_TODO_20,
-45,TEXT_AKTKEA301_04791_TODO_21,
-46,TEXT_AKTKEA301_04791_TODO_22,
-47,TEXT_AKTKEA301_04791_TODO_23,
-48,TEXT_AKTKEA301_04791_DERYK_000_000,啊，是你啊。<hex:02100103>難得你過來了……<hex:02100103>不過可露兒和古·拉哈·提亞還沒回來呢。
-49,TEXT_AKTKEA301_04791_DERYK_000_001,他們兩位應該還在舊薩雷安整理神域調查的結果。
-50,TEXT_AKTKEA301_04791_DERYK_000_002,不僅有古·拉哈·提亞記錄下的神域狀況，<hex:02100103>還有通過十二神秘石解讀到的碑文……<hex:02100103>恐怕需要耗費相當長的時間吧。
-51,TEXT_AKTKEA301_04791_DERYK_000_003,所以在等他們回來期間，我打算去看看斯努蓋姆的情況。<hex:02100103>畢竟她在翁法洛斯悶頭研究這麼久了。
-52,TEXT_AKTKEA301_04791_DERYK_000_004,<hex:022903EB0203>，如果你不介意，<hex:02100103>就跟我一起去一趟吧。
-53,TEXT_AKTKEA301_04791_DERYK_000_010,斯努蓋姆的研究熱情實在令人驚訝，她每天都來這裡鑽研，<hex:02100103>好像有時忙得連吃飯都顧不上，<hex:02100103>但願她沒有搞壞身體……
-54,TEXT_AKTKEA301_04791_BABYOPOOPO_000_015,嗚唧？
-55,TEXT_AKTKEA301_04791_SNOEGEIM_000_020,<hex:022903EB0203>，迪裡克，歡迎回來！
-56,TEXT_AKTKEA301_04791_SNOEGEIM_000_021,可露兒他們……還沒回來啊。
-57,TEXT_AKTKEA301_04791_DERYK_000_022,嗯，話說你不也是研究者嗎？<hex:02100103>不跟他們一起去薩雷安沒問題嗎？
-58,TEXT_AKTKEA301_04791_SNOEGEIM_000_023,沒關係，我的性格本來就更適合實地探索。<hex:02100103>尤其是十二神的研究，在現場更能得到一些靈感。<hex:02100103>目前我正在反覆研讀碑文的序文……
-59,TEXT_AKTKEA301_04791_SNOEGEIM_000_024,「我等皆由星球意志所孕育，<hex:02100103>會隨世人的祈禱與情感而改變。<hex:02100103>故將桎梏記錄於此。」
-60,TEXT_AKTKEA301_04791_SNOEGEIM_000_025,人們的信仰會對眾神的外表以及性質產生影響的這個理論，<hex:02100103>實在是很有意思。
-61,TEXT_AKTKEA301_04791_SNOEGEIM_000_026,其實我心裡也一直盤算著，<hex:02100103>一直待在這裡說不定能再次遇見眾神……
-62,TEXT_AKTKEA301_04791_SNOEGEIM_000_027,不過自從解讀完碑文後就再也沒見過他們了，<hex:02100103>我猜他們只會在特殊的情況下聚在這裡。
-63,TEXT_AKTKEA301_04791_SNOEGEIM_000_028,但我十分確信肯定還有機會見到眾神。
-64,TEXT_AKTKEA301_04791_SNOEGEIM_000_029,之所以會這麼想，<hex:02100103>是因為在尋找秘石期間我從阿澤瑪大人那裡聽說，<hex:02100103>那幾位和我們戰鬥過的神明有意和你聊聊！
-65,TEXT_AKTKEA301_04791_SNOEGEIM_000_030,如果你在神域之門呼喚他們，<hex:02100103>我想他們大機率會回應你！
-66,TEXT_AKTKEA301_04791_SNOEGEIM_000_031,所以就拜託你了！<hex:02100103>麻煩你去試著跟他們聊聊，<hex:02100103>之後再把談話內容悄悄告訴我吧！
-67,TEXT_AKTKEA301_04791_DERYK_000_032,唔，可露兒他們正好也還沒回來，<hex:02100103>如果你想去就趁現在吧。
-68,TEXT_AKTKEA301_04791_DERYK_000_033,不想去也無妨，<hex:02100103>那就和我們一起在這裡等他們吧。
-69,TEXT_AKTKEA301_04791_SYSTEM_000_034,在與可露兒他們匯合推進劇情之前，<hex:02100103>玩家可以和戰鬥過的神明交流。<hex:02100103>請試著在他們各自的神域之門前呼喚他們吧。
-70,TEXT_AKTKEA301_04791_SYSTEM_000_035,此外，如果認為沒有必要和他們交流，<hex:02100103>可以和翁法洛斯的迪裡克對話，<hex:02100103>推進劇情。
-71,TEXT_AKTKEA301_04791_SNOEGEIM_000_040,眾神出現了嗎？！
-72,TEXT_AKTKEA301_04791_BABYOPOOPO_000_045,嗚唧！嗚唧！
-73,TEXT_AKTKEA301_04791_DERYK_000_050,<hex:022903EB0203>，你打算怎麼辦？<hex:02100103>如果已經和眾神聊夠了，<hex:02100103>要和我們一起等待可露兒他們回來嗎？
-74,TEXT_AKTKEA301_04791_Q1_100_000,要和迪裡克一起等待嗎？
-75,TEXT_AKTKEA301_04791_DERYK_000_051,唔……他們還沒有回來嗎……
-76,TEXT_AKTKEA301_04791_DERYK_000_052,啊，對了。<hex:02100103>我有個問題想問你，你就當是閒聊吧。
-77,TEXT_AKTKEA301_04791_DERYK_000_053,你不是去過很多地方嗎？<hex:02100103>在這個世界上，你最喜歡哪裡？
-78,TEXT_AKTKEA301_04791_Q1_000_000,如何作答？
-79,TEXT_AKTKEA301_04791_A1_000_001,人多熱鬧的城市
-80,TEXT_AKTKEA301_04791_A1_000_002,充滿自然氣息的地方
-81,TEXT_AKTKEA301_04791_A1_000_003,可以結識陌生人的遙遠土地
-82,TEXT_AKTKEA301_04791_A1_000_004,渺無人煙的僻靜之地
-83,TEXT_AKTKEA301_04791_DERYK_000_054,嗯嗯，我就知道你會這麼說，而且我也深有體會。<hex:02100103>我總是獨自旅行，特別喜歡在駐足的城市<hex:02100103>傾聽當地居民那熙熙攘攘的喧鬧聲。
-84,TEXT_AKTKEA301_04791_DERYK_000_055,哦，原來你也喜歡這樣的地方啊。<hex:02100103>一邊感受著自然的氣息，一邊享受著旅途帶來的歡喜，<hex:02100103>我們之間竟然有著這樣的共通點，真是令人欣喜。
-85,TEXT_AKTKEA301_04791_DERYK_000_056,這真像你的作風啊。<hex:02100103>前往遙遠未知的土地時，那種興奮感是無可比擬的，<hex:02100103>對此我深有感受。
-86,TEXT_AKTKEA301_04791_DERYK_000_057,嗯……這個我的確能理解。<hex:02100103>孤身一人待在沒有人煙的地方，<hex:02100103>可以讓心平靜下來……這種感覺也不錯。
-87,TEXT_AKTKEA301_04791_DERYK_100_057,至於我……果然還是喜歡周遊艾歐澤亞吧。<hex:02100103>這片大陸不但乙太充沛，還能看到它的不同風貌。
-88,TEXT_AKTKEA301_04791_DERYK_000_058,我和這個小傢伙也是在黑衣森林的旅途中相遇的呢。<hex:02100103>當時不知道它是不是與族群走散了，<hex:02100103>我看它身上有傷，不忍心就那麼放任不管。
-89,TEXT_AKTKEA301_04791_DERYK_000_059,不過現在它已經徹底康復了，<hex:02100103>我本應該狠下心放它回歸自然……
-90,TEXT_AKTKEA301_04791_DERYK_000_060,但如今看到它不論是面對你們<hex:02100103>還是面對眾神都沒有顯現出絲毫的畏懼，<hex:02100103>我覺得此時此刻這傢伙在這裡一定是某種命運的安排吧。
-91,TEXT_AKTKEA301_04791_DERYK_000_061,可是離別總有一天會到來……
-92,TEXT_AKTKEA301_04791_SNOEGEIM_000_062,<hex:022903EB0203>——！迪裡克——！<hex:02100103>可露兒他們回來啦！
-93,TEXT_AKTKEA301_04791_DERYK_000_063,二位歡迎回來。<hex:02100103>調查進展順利嗎？
-94,TEXT_AKTKEA301_04791_KRILE_000_064,嗯，讓你們久等了。<hex:02100103>我們不僅對至今為止的調查結果進行了整理，<hex:02100103>還在此基礎上探討了今後的方針。
-95,TEXT_AKTKEA301_04791_GRAHATIA_000_065,沒錯，我們發現了一件事關今後調查的事情，<hex:02100103>所以認為應當謹慎地採取行動。
-96,TEXT_AKTKEA301_04791_GRAHATIA_000_066,我不是和你一起前往了神域，<hex:02100103>並用乙太掃描器記錄了那裡的環境乙太嗎？<hex:02100103>這個的分析結果出來了……
-97,TEXT_AKTKEA301_04791_GRAHATIA_000_067,眾神在與人類的戰鬥中會消耗大量的乙太，<hex:02100103>甚至導致他們的存在本身都變得稀薄了。
-98,TEXT_AKTKEA301_04791_KRILE_000_068,當然這件事一點都不怪你。<hex:02100103>是眾神自己要求與人類戰鬥的。
-99,TEXT_AKTKEA301_04791_KRILE_000_069,話雖這麼說，可對於十二神那個只有和人類戰鬥後才能實現的願望，<hex:02100103>我想在我們弄清他們的真實意圖前，<hex:02100103>還是盡量避免與其餘的神明戰鬥比較好。
-100,TEXT_AKTKEA301_04791_KRILE_000_070,為此我想去找碑文上記載的第十三位神明<hex:02100103>「司掌監視之無名者」談談。
-101,TEXT_AKTKEA301_04791_KRILE_000_071,就像以前拉哈提出的假說那樣，<hex:02100103>我覺得居住在嘆息海的月面監視者才最有可能是我們要找的人。
-102,TEXT_AKTKEA301_04791_KRILE_000_072,所以為了前往月球，<hex:02100103>我已經向伊爾薩巴德救援隊提交了巴別塔的使用申請。<hex:02100103>畢竟現在那座塔處於他們的管理之下。
-103,TEXT_AKTKEA301_04791_KRILE_000_073,所以為了前往月球，<hex:02100103>我已經向伊爾薩巴德救援隊提交了巴別塔的使用申請。<hex:02100103>畢竟經過與加雷馬的協定，那座塔現在仍然處於他們的管理之下。
-104,TEXT_AKTKEA301_04791_SNOEGEIM_000_074,也就是說我們真的能去月球了嗎！<hex:02100103>不知道第十三位神明到底是怎樣一位人物……！
-105,TEXT_AKTKEA301_04791_SNOEGEIM_000_075,已經等不及了！<hex:02100103>我們這就準備準備，去見月面監視者吧！
-106,TEXT_AKTKEA301_04791_DERYK_000_076,如果還有什麼想和眾神說的話……就趁現在去跟他們聊聊吧。<hex:02100103>在前往月球之前不要留下什麼遺憾。
-107,TEXT_AKTKEA301_04791_WATCHEROFMOON_000_101,<hex:024804F2022303>你好，<hex:022903EB0203>，<hex:02100103>還有初次到訪的來客們。<hex:0248020103>
-108,TEXT_AKTKEA301_04791_KRILE_000_102,月面監視者，你一定十分熟悉海德林的事情，<hex:02100103>為此我有事情向你請教。
-109,TEXT_AKTKEA301_04791_KRILE_000_103,我們在神域對一個碑文進行了解讀。<hex:02100103>其中記載了十二神各自的職責，<hex:02100103>並在最後提到了第十三位神明「司掌監視之無名者」……
-110,TEXT_AKTKEA301_04791_KRILE_000_104,莫非這指的就是你嗎？
-111,TEXT_AKTKEA301_04791_KRILE_000_105,十二神自世界被分割後就存在了。<hex:02100103>關於他們的事情，如果你知道些什麼，<hex:02100103>還請告訴我們。
-112,TEXT_AKTKEA301_04791_KRILE_000_106,我們想進一步了解他們為何要與人類戰鬥，<hex:02100103>他們的願望到底是什麼。
-113,TEXT_AKTKEA301_04791_DERYK_000_107,……拜託你了。
-114,TEXT_AKTKEA301_04791_WATCHEROFMOON_000_108,<hex:024804F2022303>沒想到人類能成功地走到這一步……<hex:0248020103>
-115,TEXT_AKTKEA301_04791_WATCHEROFMOON_000_109,<hex:024804F2022303>很好，我不會迴避，一定知無不言。<hex:0248020103>
-116,TEXT_AKTKEA301_04791_WATCHEROFMOON_000_110,<hex:024804F2022303>不過，我終究只是海德林創造出來的機關。<hex:02100103>雖然的確繼承了古代人的記憶，但十分不完整，<hex:02100103>還請你們做好心理準備。<hex:0248020103>
-117,TEXT_AKTKEA301_04791_WATCHEROFMOON_000_111,<hex:024804F2022303>首先就像你們推測的那樣，<hex:02100103>碑文上記載的第十三位「司掌監視之無名者」的確指的就是我。<hex:0248020103>
-118,TEXT_AKTKEA301_04791_WATCHEROFMOON_000_112,<hex:024804F2022303>沒錯，你們口中的十二神也和我一樣……<hex:02100103>是由海德林創造出來的機關。<hex:0248020103>
-119,TEXT_AKTKEA301_04791_WATCHEROFMOON_000_113,<hex:024804F2022303>世界被分割後，星球會陷入不穩定的狀態，<hex:02100103>而他們的使命就是保持星球的均衡……<hex:02100103>為此他們分別被賦予了十二種不同的權能。<hex:0248020103>
-120,TEXT_AKTKEA301_04791_WATCHEROFMOON_000_114,<hex:024804F2022303>就像我是以實際存在於過去的學者為原型創造出來的一樣，<hex:02100103>他們也有各自的原型。<hex:0248020103>
-121,TEXT_AKTKEA301_04791_WATCHEROFMOON_000_115,<hex:024804F2022303>這些原型無一例外，<hex:02100103>都是打算在末日結束後將星球託付給新生命的人……<hex:02100103>也就是所謂的維涅斯一派。<hex:0248020103>
-122,TEXT_AKTKEA301_04791_WATCHEROFMOON_000_116,<hex:024804F2022303>雖然我並不記得詳細的過程，<hex:02100103>但維涅斯應該是考慮到人品、能力、經驗等要素，<hex:02100103>由此選出了足以承擔重責的人吧。<hex:0248020103>
-123,TEXT_AKTKEA301_04791_GRAHATIA_000_117,所以眾神才會有著像人類一樣的個性啊……
-124,TEXT_AKTKEA301_04791_WATCHEROFMOON_000_118,<hex:024804F2022303>關於這點，他們的個性不僅會受到原型的影響，<hex:02100103>人類的信仰也同樣會對他們造成很大的影響。<hex:0248020103>
-125,TEXT_AKTKEA301_04791_WATCHEROFMOON_000_119,<hex:024804F2022303>人類獻上祈禱時總會希望神明能夠達成自己的願望，<hex:02100103>並且堅信神明擁有這樣的力量。<hex:0248020103>
-126,TEXT_AKTKEA301_04791_WATCHEROFMOON_000_120,<hex:024804F2022303>也就是說在漫長的時光中，<hex:02100103>神明在人類寄託的這種名為信仰的期待下，<hex:02100103>逐漸變成了人們所希望的樣子。<hex:0248020103>
-127,TEXT_AKTKEA301_04791_KRILE_000_121,意思是說即便祈禱或者祈願的效力微乎其微，<hex:02100103>但仍然會傳達到神明那裡並造成影響……<hex:02100103>看來拉哈的假說是對的。
-128,TEXT_AKTKEA301_04791_WATCHEROFMOON_000_122,<hex:024804F2022303>於是就像這樣，即便處在不斷的變化中，<hex:02100103>十二神仍然遵循著維涅斯的理念，<hex:02100103>避免對人類做出過多的干涉。<hex:0248020103>
-129,TEXT_AKTKEA301_04791_WATCHEROFMOON_000_123,<hex:024804F2022303>哪怕有些時候，<hex:02100103>他們做出的選擇與人類期望的神明職責相背。<hex:0248020103>
-130,TEXT_AKTKEA301_04791_WATCHEROFMOON_000_124,<hex:024804F2022303>如今海德林消逝，末日也得到化解，<hex:02100103>十二神給出了自己的答案。<hex:0248020103>
-131,TEXT_AKTKEA301_04791_WATCHEROFMOON_000_125,<hex:024804F2022303>其中的真意不該由我來訴說。<hex:02100103>不過同為被海德林所創造之人，<hex:02100103>我可以向你們保證他們絕無傷害人類之意。<hex:0248020103>
-132,TEXT_AKTKEA301_04791_SNOEGEIM_000_126,嗯！<hex:02100103>從他們至今為止的言行足以看出對我們的關心，<hex:02100103>這點是毋庸置疑的！
-133,TEXT_AKTKEA301_04791_GRAHATIA_000_127,能夠了解到十二神與你還有海德林的關聯，真是太好了。<hex:02100103>這樣心中的疑問總算是得到了驗證。
-134,TEXT_AKTKEA301_04791_GRAHATIA_000_128,既然如此那就相信他們，陪他們走到最後吧！
-135,TEXT_AKTKEA301_04791_KRILE_000_129,謝謝你，月面監視者。<hex:02100103>我們打算返回翁法洛斯，<hex:02100103>再次傾聽他們的心願。
-136,TEXT_AKTKEA301_04791_WATCHEROFMOON_000_130,<hex:024804F2022303>嗯，我也會在這裡守望你們與十二神的進展，<hex:02100103>希望你們有一個美好的結局。<hex:0248020103>
-137,TEXT_AKTKEA301_04791_WATCHEROFMOON_000_131,<hex:024804F2022303>祝你們一路順風……<hex:0248020103>
-138,TEXT_AKTKEA301_04791_KRILE_000_201,情況有些不對勁。<hex:02100103>眾神的動物化身都不見了……？
-139,TEXT_AKTKEA301_04791_LLYMLEAN_000_202,(-高亢有力的聲音-)一切準備都已經做好了！
-140,TEXT_AKTKEA301_04791_LLYMLEAN_000_203,(-高亢有力的聲音-)啊——你們讓我等得好苦哇！
-141,TEXT_AKTKEA301_04791_THALIAK_000_204,(-柔和充滿知性的聲音-)喂，利姆萊茵。<hex:02100103>人家初次見到我們，<hex:02100103>哪有你這麼說話的？
-142,TEXT_AKTKEA301_04791_LLYMLEAN_000_205,沙利亞克，這有什麼不妥？<hex:02100103>你不是也一直盼著這一天嗎？
-143,TEXT_AKTKEA301_04791_THALIAK_000_206,這倒沒錯。<hex:02100103>但難得輪到我們直接與人類之子對話，<hex:02100103>最好還是注意一下語氣和用詞吧。
-144,TEXT_AKTKEA301_04791_THALIAK_000_207,你們好，人類之子。<hex:02100103>我想你們應該已經從月面監視者那裡<hex:02100103>得知了我們的真實身份吧？
-145,TEXT_AKTKEA301_04791_THALIAK_000_208,沒錯，我們的確是海德林創造出來的輔助星球的機關。
-146,TEXT_AKTKEA301_04791_THALIAK_000_209,我們在乙太豐富的艾歐澤亞各地設定神域，<hex:02100103>並將翁法洛斯建在了地脈彙集的星球中心，<hex:02100103>以此維持著星球亞伊太利斯的均衡。
-147,TEXT_AKTKEA301_04791_GRAHATIA_000_210,嗯，這個事情我們已經從月面監視者那裡聽說了。<hex:02100103>只不過我們還有疑問仍待解答。
-148,TEXT_AKTKEA301_04791_GRAHATIA_000_211,我們分析了上一次記錄的神域環境乙太，<hex:02100103>發現眾神在與人類的戰鬥中消耗了不少乙太。
-149,TEXT_AKTKEA301_04791_GRAHATIA_000_212,身為維持星球均衡的機關，<hex:02100103>你們這樣與人類戰鬥真沒有問題嗎？
-150,TEXT_AKTKEA301_04791_DERYK_000_213,感謝你們的擔心。<hex:02100103>不過沒事的。
-151,TEXT_AKTKEA301_04791_Q2_000_000,要說什麼？
-152,TEXT_AKTKEA301_04791_A2_000_001,怎麼回事？
-153,TEXT_AKTKEA301_04791_A2_000_002,果然迪裡克就是……
-154,TEXT_AKTKEA301_04791_A2_000_003,難道奧猴寶寶就是奧修昂……？
-155,TEXT_AKTKEA301_04791_DERYK_000_215,抱歉，一直瞞著你們……
-156,TEXT_AKTKEA301_04791_DERYK_000_216,……我就知道你早已經察覺到了。
-157,TEXT_AKTKEA301_04791_DERYK_100_216,很遺憾，你猜錯了。
-158,TEXT_AKTKEA301_04791_DERYK_000_217,就在其他眾神選擇神使的動物或魔法生物的外形作為化身時，<hex:02100103>唯獨肩負與人類共享孤獨這一使命的放浪神<hex:02100103>為了混入人群之中選擇化身成人類的外形。
-159,TEXT_AKTKEA301_04791_DERYK_000_218,並且承擔起了引導能夠達成我們心願之人來到翁法洛斯的職責……<hex:02100103>如今這項職責也到此結束。
-160,TEXT_AKTKEA301_04791_DERYK_000_219,(-放浪神奧修昂-)我乃放浪神奧修昂。
-161,TEXT_AKTKEA301_04791_SNOEGEIM_000_220,為、為什麼這麼重要的事情要瞞著我們？！
-162,TEXT_AKTKEA301_04791_DERYK_000_221,(-放浪神奧修昂-)因為我一直擔心人類知道我的真實身份和戰鬥的理由之後……<hex:02100103>就不會答應和我們戰鬥了。
-163,TEXT_AKTKEA301_04791_DERYK_000_222,(-放浪神奧修昂-)不過看來這一切都是我多慮了。<hex:02100103>你們傾聽了我們的話語，感受到了我們的情感，<hex:02100103>在思索中一路前行至此。
-164,TEXT_AKTKEA301_04791_DERYK_000_223,(-放浪神奧修昂-)<hex:022903EB0203>……抱歉，<hex:02100103>這個小傢伙就拜託你了。
-165,TEXT_AKTKEA301_04791_DERYK_000_224,(-放浪神奧修昂-)前往神域的最深處吧，<hex:02100103>我將在那裡告訴你們真相。
-166,TEXT_AKTKEA301_04791_DERYK_000_225,(-放浪神奧修昂-)作為你的守護神，我一直守望著你，<hex:02100103>我等著你的到來。
-167,TEXT_AKTKEA301_04791_DERYK_000_226,(-放浪神奧修昂-)我等著你的到來。
-168,TEXT_AKTKEA301_04791_LLYMLEAN_000_227,作為你的守護神，我可是對你一清二楚。<hex:02100103>做好準備來吧！
-169,TEXT_AKTKEA301_04791_LLYMLEAN_000_228,這次可是我們的華麗舞台！<hex:02100103>做好準備來吧！
-170,TEXT_AKTKEA301_04791_THALIAK_000_229,你既然選擇我作為守護神，我自當敞開胸懷接納你的情感。<hex:02100103>化作奔流向我湧來吧……
-171,TEXT_AKTKEA301_04791_THALIAK_000_230,心愛的孩子們……<hex:02100103>化作奔流向我湧來吧……
-172,TEXT_AKTKEA301_04791_KRILE_000_240,我之前一直感覺迪裡克先生有事瞞著我們。<hex:02100103>想必他很難坦白自己就是神明的化身吧。
-173,TEXT_AKTKEA301_04791_SNOEGEIM_000_245,迪裡克之前都是懷著怎樣的心情旅行的呢……
-174,TEXT_AKTKEA301_04791_BABYOPOOPO_000_250,嗚唧……嗚唧……？
-175,TEXT_AKTKEA301_04791_GRAHATIA_000_260,迪裡克原本是化身為人類、<hex:02100103>在放浪途中與人類共享孤獨的神明嗎……
-176,TEXT_AKTKEA301_04791_GRAHATIA_000_261,為了引導我們進入神域，<hex:02100103>他還扮成探險家將情報提供給了聖寇伊納克財團……
-177,TEXT_AKTKEA301_04791_GRAHATIA_000_262,我並不認為受到了欺騙，<hex:02100103>也沒為此感到難過或者氣憤。<hex:02100103>只不過，該怎麼形容呢……應該是有點失落吧。
-178,TEXT_AKTKEA301_04791_KRILE_000_263,我也能理解拉哈的心情。<hex:02100103>正是因為他和我們的相處一直非常融洽，<hex:02100103>他的突然離去才讓人倍感寂寞……
-179,TEXT_AKTKEA301_04791_KRILE_000_264,如今回想起來，<hex:02100103>他之所以一直努力和他人保持距離，<hex:02100103>或許就是已經預見到我們之間終有一戰吧……
-180,TEXT_AKTKEA301_04791_BABYOPOOPO_000_265,嗚唧……
-181,TEXT_AKTKEA301_04791_KRILE_000_266,嗯，你也同樣感到寂寞對吧……
-182,TEXT_AKTKEA301_04791_SNOEGEIM_000_267,不過既然迪裡克一同陪伴我們走到這一步，<hex:02100103>我們應該回應他……他們的心願對吧。
-183,TEXT_AKTKEA301_04791_KRILE_000_268,嗯，十二神一直守望著生活在這個星球上的人們。
-184,TEXT_AKTKEA301_04791_KRILE_000_269,他們不僅作為輔助星球的機關恪守著自己的職責，<hex:02100103>同時還作為有意志的生命傾聽著人類的情感……
-185,TEXT_AKTKEA301_04791_KRILE_000_270,既然月面監視者也向我們保證過了，<hex:02100103>那我們就將十二神的心願完成到底吧。
-186,TEXT_AKTKEA301_04791_GRAHATIA_000_271,……那接下來我們要做什麼就不必多說了吧。
-187,TEXT_AKTKEA301_04791_GRAHATIA_000_272,這次最先邀請我們的是知識神沙利亞克是吧。<hex:02100103><hex:022903EB0203>，能請你與其他的冒險者一起<hex:02100103>從這裡前往眾神所在的神域嗎？
-188,TEXT_AKTKEA301_04791_GRAHATIA_000_273,目前尚不清楚與十二神戰鬥後會發生什麼。<hex:02100103>以防萬一，我就留下確保這裡的安全好了。
-189,TEXT_AKTKEA301_04791_GRAHATIA_000_274,我相信你一定能行的。<hex:02100103>拜託你了！
-190,TEXT_AKTKEA301_04791_GRAHATIA_000_280,目前尚不清楚與十二神戰鬥後會發生什麼。<hex:02100103>你那邊也一定要小心。
-191,TEXT_AKTKEA301_04791_KRILE_000_285,十二神不惜淡化自己的存在也要達成的心願……<hex:02100103>即便心裡明白這應該是為了星球和人類著想，<hex:02100103>但還是擔心究竟會發生什麼。
-192,TEXT_AKTKEA301_04791_SNOEGEIM_000_290,知識神沙利亞克司掌河流與知識，<hex:02100103>海洋神利姆萊茵司掌海洋與航海，<hex:02100103>放浪神奧修昂司掌山岳與放浪。
-193,TEXT_AKTKEA301_04791_SNOEGEIM_000_291,行星神妮美雅已經和光陰神阿爾基克一起戰鬥過了，<hex:02100103>很可能已經達成了目的。<hex:02100103><hex:022903EB0203>，請你加油吧！
-194,TEXT_AKTKEA301_04791_BABYOPOOPO_000_300,嗚唧……
-195,TEXT_AKTKEA301_04791_GRAHATIA_000_401,<hex:022903EB0203>，你沒事吧？！
-196,TEXT_AKTKEA301_04791_KRILE_000_402,多虧了你的奮鬥，我們也抵達了神域的最深處。<hex:02100103>那個身姿……是十二神吧……？
-197,TEXT_AKTKEA301_04791_THETWELVE_000_403,歡迎你們來到這裡，人類之子。<hex:02100103>那就按照約定，告訴你們真相吧。
-198,TEXT_AKTKEA301_04791_THETWELVE_000_404,我們的願望只有一個……<hex:02100103>那就是將這個身體化作祝福還給星球。
-199,TEXT_AKTKEA301_04791_THETWELVE_000_405,十二神的機關自創造以來已有12000年……<hex:02100103>人們在此期間獻上的祈禱為我們積蓄了巨大的能量。
-200,TEXT_AKTKEA301_04791_THETWELVE_000_406,我們將通過此戰解放自身、回歸星球，<hex:02100103>化為孕育新生命的營養。<hex:02100103>這便是我們贈與這顆璀璨星球的最後的「祝福」。
-201,TEXT_AKTKEA301_04791_SNOEGEIM_000_407,那豈不是意味著你們會消失嗎……？！
-202,TEXT_AKTKEA301_04791_THETWELVE_000_408,的確是這樣，構成機關核心的古代靈魂的碎片會回歸星海，<hex:02100103>重新融入到生命的循環中吧。
-203,TEXT_AKTKEA301_04791_THETWELVE_000_409,不過就算失去了身形，機關本身並不會消失。<hex:02100103>今後仍會繼續維持星球的均衡。
-204,TEXT_AKTKEA301_04791_THETWELVE_000_410,硬要說有什麼變化的話，僅僅是人們祈禱的傳達對象變了。<hex:02100103>今後將由這天球——祝福機關代替十二神接受人們的情感，<hex:02100103>並把它還原成孕育星球的營養。
-205,TEXT_AKTKEA301_04791_GRAHATIA_000_411,可神明是人們心中信仰的支柱，<hex:02100103>你們沒必要消失啊……！
-206,TEXT_AKTKEA301_04791_THETWELVE_000_412,孩子，你的話真的很令我們欣慰。<hex:02100103>這次的確是我們的一廂情願。
-207,TEXT_AKTKEA301_04791_THETWELVE_000_413,這顆星球和以它為家園的人類同舟共濟，渡過了末日劫難。<hex:02100103>雖然我們只是輔助星球的機關，但還是為你們欣喜若狂，<hex:02100103>發自內心地慶幸你們活了下來……
-208,TEXT_AKTKEA301_04791_THETWELVE_000_414,正是因為如此，我們要將這份愛還給生活在這個世界上<hex:02100103>將生命延續至今的所有「人類」……
-209,TEXT_AKTKEA301_04791_THETWELVE_000_415,不必擔心。<hex:02100103>神話本是由人類所編織並傳承下去的。
-210,TEXT_AKTKEA301_04791_THETWELVE_000_416,只要艾歐澤亞十二神的故事還在世間傳頌、為人所愛……<hex:02100103>即便時代變遷，<hex:02100103>人們的情感仍然會化為對我們的信仰流傳下去吧。
-211,TEXT_AKTKEA301_04791_SNOEGEIM_000_417,你、你們這番話真是讓人……
-212,TEXT_AKTKEA301_04791_THETWELVE_000_418,為了讓你們展翅飛向光輝的未來，<hex:02100103>同時讓我們成為那個未來的一部分……<hex:02100103>是時候道別了。
-213,TEXT_AKTKEA301_04791_THETWELVE_000_419,再見了，我們心愛的孩子們。
-214,TEXT_AKTKEA301_04791_ALTHYK_000_420,來接受我們最後的祝福吧。
-215,TEXT_AKTKEA301_04791_BYREGOT_000_421,願人類的創意永不枯竭。
-216,TEXT_AKTKEA301_04791_RHALGR_000_422,無論何種困境，人類之子定能突破。
-217,TEXT_AKTKEA301_04791_AZEYMA_000_423,你們一定要襟懷坦白、抱誠守真哦。
-218,TEXT_AKTKEA301_04791_NALDTHAL_000_424,人類的繁衍生息是有意義的。<hex:02100103>盡情謳歌生命，敬畏死亡吧。
-219,TEXT_AKTKEA301_04791_NOPHICA_000_425,願大地豐饒潤澤，穰穰滿家。
-220,TEXT_AKTKEA301_04791_ALTHYK_000_426,在有限的時光中心懷慈愛吧。
-221,TEXT_AKTKEA301_04791_HALONE_000_427,高潔不屈，為了勝利持續前進吧。
-222,TEXT_AKTKEA301_04791_MENPHINA_000_428,希望你們能夠珍愛自身也珍愛他人……<hex:02100103>同時珍愛這個世界。
-223,TEXT_AKTKEA301_04791_THALIAK_000_429,向先人學習，磨練自己，傳承給後世……<hex:02100103>願滔滔無盡的知識之河永不停息。
-224,TEXT_AKTKEA301_04791_NYMEIA_000_430,願你們開拓的命運中總有未知的美好世界在等待。
-225,TEXT_AKTKEA301_04791_LLYMLEAN_000_431,不管遇到什麼事，只要像大海一樣平穩，一切都會化險為夷的。
-226,TEXT_AKTKEA301_04791_OSCHON_000_432,願自由之風不斷吹向人類……
-227,TEXT_AKTKEA301_04791_HALONE_000_434,(-高亢有力的聲音-)不必勉強，奧修昂。
-228,TEXT_AKTKEA301_04791_NOPHICA_000_435,(-明亮開朗的聲音-)你是想和那幾個孩子在一起對吧？
-229,TEXT_AKTKEA301_04791_OSCHON_000_436,可大家已經決定了要一起回歸星球！
-230,TEXT_AKTKEA301_04791_OSCHON_000_437,從引導他們踏入神域到今日離別之前，<hex:02100103>我從沒想過會與他們這麼難捨難分……
-231,TEXT_AKTKEA301_04791_NALDTHAL_000_438,(-重疊迴響的聲音-)奧修昂，我們的靈魂會在生命的循環中匯合……
-232,TEXT_AKTKEA301_04791_ALTHYK_000_439,(-平靜嚴格的聲音-)從星球的角度來看，人類的一生不過是轉瞬即逝……
-233,TEXT_AKTKEA301_04791_NYMEIA_000_440,(-聰慧美麗的聲音-)或許與人類共赴命運也不錯？
-234,TEXT_AKTKEA301_04791_LLYMLEAN_000_441,(-高亢有力的聲音-)遵循你的內心，踏上旅途……
-235,TEXT_AKTKEA301_04791_MENPHINA_000_442,(-開朗可愛的聲音-)等時刻到了，我們再見吧。
-236,TEXT_AKTKEA301_04791_DERYK_000_443,那就讓我……再旅行一段時間吧。
-237,TEXT_AKTKEA301_04791_DERYK_000_450,沒想到還會回到這裡……<hex:02100103>我自己也感到驚訝。
-238,TEXT_AKTKEA301_04791_GRAHATIA_000_455,要顛覆自己做出的決定，想必需要很大的決心。<hex:02100103>之後得問問他當時到底發生了什麼。
-239,TEXT_AKTKEA301_04791_SNOEGEIM_000_460,迪裡克！<hex:02100103>真高興見到你回來了！
-240,TEXT_AKTKEA301_04791_BABYOPOOPO_000_465,嗚唧！嗚唧！
-241,TEXT_AKTKEA301_04791_KRILE_000_470,真是令人驚訝，<hex:02100103>迪裡克先生居然回來了！
-242,TEXT_AKTKEA301_04791_KRILE_000_471,我們還是先慶祝他的回歸吧。<hex:02100103>詳細的事情等安定下來之後再談。
-243,TEXT_AKTKEA301_04791_SYSTEM_000_34,
-244,TEXT_AKTKEA301_04791_BABYOPOOPO_000_433,
+0,"TEXT_AKTKEA301_04791_SEQ_00","Deryk is awaiting word from Krile."
+1,"TEXT_AKTKEA301_04791_SEQ_01","Outside Revenant's Toll, Deryk informs you that Krile and G'raha Tia are still busy compiling the findings of your investigation of the phantom realm. While awaiting developments, he suggests paying a visit to Snoegeim in the Omphalos, and together you set off."
+2,"TEXT_AKTKEA301_04791_SEQ_02","Snoegeim reveals that, while the Twelve have not appeared since your crew was last gathered, each of them apparently desires to speak with you in private; if you were to call to them before the entrances to their respective heavens, chances are they will answer. Not wanting to miss the opportunity, you begin taking yourself around the Omphalos."
+3,"TEXT_AKTKEA301_04791_SEQ_03","Having spoken with the Twelve to your satisfaction, you join the wait for Krile and G'raha Tia. When they eventually arrive, they share their finding that the deities expended a tremendous amount of aether in the course of battle. Before engaging them further, it is decided that you will seek out the watcher on the moon, who is believed to be the thirteenth unnamed being mentioned by the monument, in order to learn more about their objective. With your course decided, you promptly set off for the Watcher's Palace in Mare Lamentorum."
+4,"TEXT_AKTKEA301_04791_SEQ_04","Having confirmed that he is indeed the unnamed being, the watcher proceeds to explain the nature of the Twelve. Like him, they are entities created by Hydaelyn, charged with watching over the world after reality was sundered. And though he is unable to disclose the truth of their desire, he gives his guarantee that it will not visit harm upon mankind. Thus reassured, you and your companions decide to return to the Omphalos to continue engaging the gods."
+5,"TEXT_AKTKEA301_04791_SEQ_05","No sooner do you arrive in the Omphalos than Llymlaen and Thaliak appear before you. When G'raha Tia expresses to them his concern that doing battle dilutes their being, it is Deryk who answers─thereby revealing himself to be Oschon. The Wanderer promises that the truth will be revealed in the innermost part of their realm, before he and his brethren take their leave in anticipation of your coming."
+6,"TEXT_AKTKEA301_04791_SEQ_06","While saddened by the revelation of Deryk's true identity, you and your companions are determined to do the best you can by the Twelve. As before, the task of confronting the gods in their sanctums falls to you, and you turn to see to your preparations.<hex:02100103><hex:02100103>※Thaleia can be accessed via the Duty Finder."
+7,"TEXT_AKTKEA301_04791_SEQ_07","Fighting your way through breathtaking realms of water and wind, you strike down the three gods in succession before coming face-to-face with the Twelve's combined form. This mighty being, too, must fall by your hand if you are to grant the gods their hearts' desire."
+8,"TEXT_AKTKEA301_04791_SEQ_08","At the end of a furious struggle, you succeed in overcoming your foe, and are joined by your companions just as the Twelve reveal the true nature of their desire: to give themselves unto the star as a blessing. While this means they must fade from existence, their stabilizing influence shall endure in the form of the instrument of blessing, a great contraption which they created to receive of mortal hopes in their stead. So it is that, one by one, the gods bid you farewell and disappear amidst blinding light─all except for Oschon who reappears before you as Deryk."
+9,"TEXT_AKTKEA301_04791_SEQ_09","Like everyone, Krile is surprised that Deryk is standing there. While she is curious as to what happened, above all else, she is overjoyed for a friend returned."
+10,"TEXT_AKTKEA301_04791_SEQ_10",""
+11,"TEXT_AKTKEA301_04791_SEQ_11",""
+12,"TEXT_AKTKEA301_04791_SEQ_12",""
+13,"TEXT_AKTKEA301_04791_SEQ_13",""
+14,"TEXT_AKTKEA301_04791_SEQ_14",""
+15,"TEXT_AKTKEA301_04791_SEQ_15",""
+16,"TEXT_AKTKEA301_04791_SEQ_16",""
+17,"TEXT_AKTKEA301_04791_SEQ_17",""
+18,"TEXT_AKTKEA301_04791_SEQ_18",""
+19,"TEXT_AKTKEA301_04791_SEQ_19",""
+20,"TEXT_AKTKEA301_04791_SEQ_20",""
+21,"TEXT_AKTKEA301_04791_SEQ_21",""
+22,"TEXT_AKTKEA301_04791_SEQ_22",""
+23,"TEXT_AKTKEA301_04791_SEQ_23",""
+24,"TEXT_AKTKEA301_04791_TODO_00","Speak with Snoegeim in the Omphalos."
+25,"TEXT_AKTKEA301_04791_TODO_01","Speak with Deryk."
+26,"TEXT_AKTKEA301_04791_TODO_02","Wait in front of the Watcher's Palace."
+27,"TEXT_AKTKEA301_04791_TODO_03","Enter the Omphalos."
+28,"TEXT_AKTKEA301_04791_TODO_04","Speak with G'raha Tia."
+29,"TEXT_AKTKEA301_04791_TODO_05","Enter Thaleia."
+30,"TEXT_AKTKEA301_04791_TODO_06","Enter Thaleia."
+31,"TEXT_AKTKEA301_04791_TODO_07","Speak with Krile in the Twelve's Embrace."
+32,"TEXT_AKTKEA301_04791_TODO_08",""
+33,"TEXT_AKTKEA301_04791_TODO_09",""
+34,"TEXT_AKTKEA301_04791_TODO_10",""
+35,"TEXT_AKTKEA301_04791_TODO_11",""
+36,"TEXT_AKTKEA301_04791_TODO_12",""
+37,"TEXT_AKTKEA301_04791_TODO_13",""
+38,"TEXT_AKTKEA301_04791_TODO_14",""
+39,"TEXT_AKTKEA301_04791_TODO_15",""
+40,"TEXT_AKTKEA301_04791_TODO_16",""
+41,"TEXT_AKTKEA301_04791_TODO_17",""
+42,"TEXT_AKTKEA301_04791_TODO_18",""
+43,"TEXT_AKTKEA301_04791_TODO_19",""
+44,"TEXT_AKTKEA301_04791_TODO_20",""
+45,"TEXT_AKTKEA301_04791_TODO_21",""
+46,"TEXT_AKTKEA301_04791_TODO_22",""
+47,"TEXT_AKTKEA301_04791_TODO_23",""
+48,"TEXT_AKTKEA301_04791_DERYK_000_000","Oh, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. 'Tis good of you to come, but I'm afraid there is still no word from Krile and G'raha Tia."
+49,"TEXT_AKTKEA301_04791_DERYK_000_001","They're working as fast as they can to compile the findings of our investigation, I shouldn't doubt."
+50,"TEXT_AKTKEA301_04791_DERYK_000_002","But between the phantom realm's aetheric data and the monument's epigraph, they have much and more to review."
+51,"TEXT_AKTKEA301_04791_DERYK_000_003","Now, while awaiting developments, I had a mind to pay Snoegeim a visit in the Omphalos."
+52,"TEXT_AKTKEA301_04791_DERYK_000_004","If you aren't otherwise occupied, you should come too."
+53,"TEXT_AKTKEA301_04791_DERYK_000_010","Snoegeim has become something of a fixture here. So focused is she on her work, she often neglects taking sustenance. I pray her health doesn't suffer..."
+54,"TEXT_AKTKEA301_04791_BABYOPOOPO_000_015","Ook?"
+55,"TEXT_AKTKEA301_04791_SNOEGEIM_000_020","Oh, if it isn't <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> and Deryk!"
+56,"TEXT_AKTKEA301_04791_SNOEGEIM_000_021","But no Krile or Raha, I see..."
+57,"TEXT_AKTKEA301_04791_DERYK_000_022","Unfortunately. Speaking of whom, would you not prefer to be with them in Sharlayan? You're a researcher too, after all."
+58,"TEXT_AKTKEA301_04791_SNOEGEIM_000_023","I find myself much more effective in the field. Being here gives me inspiration, you see, and of late I've been mulling over the opening words of the epigraph."
+59,"TEXT_AKTKEA301_04791_SNOEGEIM_000_024","“As beings who endure by the will of the star, we are susceptible to the influence of hopes and prayers. Thus do we commit our yokes herein, lest we stray from our purpose.”"
+60,"TEXT_AKTKEA301_04791_SNOEGEIM_000_025","The suggestion that faith has shaped the nature of the Twelve paints a truly intriguing picture!"
+61,"TEXT_AKTKEA301_04791_SNOEGEIM_000_026","If truth be told, I was also hoping that I might speak with the gods again..."
+62,"TEXT_AKTKEA301_04791_SNOEGEIM_000_027","But they haven't graced us since the time we solved the mystery of the monument. They only do so on exceptional occasions, it seems."
+63,"TEXT_AKTKEA301_04791_SNOEGEIM_000_028","Be that as it may, I believe there might be another way to see them."
+64,"TEXT_AKTKEA301_04791_SNOEGEIM_000_029","When we journeyed with the gods, Azeyma told me that each of them wished to speak with you in private. <hex:021A020203>You<hex:021A020103>, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>!"
+65,"TEXT_AKTKEA301_04791_SNOEGEIM_000_030","If you were to call them before their heavens, I have a feeling they will answer!"
+66,"TEXT_AKTKEA301_04791_SNOEGEIM_000_031","So...won't you give it a try? And afterwards, let us know what they said?"
+67,"TEXT_AKTKEA301_04791_DERYK_000_032","I for one see no harm in it."
+68,"TEXT_AKTKEA301_04791_DERYK_000_033","But if you are disinclined, then do not feel pressured. It is entirely your decision."
+69,"TEXT_AKTKEA301_04791_SYSTEM_000_034","You now have the opportunity to speak with those of the Twelve whom you have encountered thus far. To do so, call to them before the entrances to their respective heavens."
+70,"TEXT_AKTKEA301_04791_SYSTEM_000_035","You may advance the quest at any time by speaking with Deryk in the Omphalos."
+71,"TEXT_AKTKEA301_04791_SNOEGEIM_000_040","Did the gods appear!?"
+72,"TEXT_AKTKEA301_04791_BABYOPOOPO_000_045","Ook, ook!"
+73,"TEXT_AKTKEA301_04791_DERYK_000_050","Spoken to your satisfaction, have you? Then let us await Krile and G'raha Tia together."
+74,"TEXT_AKTKEA301_04791_Q1_100_000","Wait with Deryk?"
+75,"TEXT_AKTKEA301_04791_DERYK_000_051","Hmmm... Still no sign of them..."
+76,"TEXT_AKTKEA301_04791_DERYK_000_052","Ah, there is something I've been meaning to ask you."
+77,"TEXT_AKTKEA301_04791_DERYK_000_053","As an adventurer, you are better traveled than most. Of the places you have seen, what kind do you like best?"
+78,"TEXT_AKTKEA301_04791_Q1_000_000","What will you say?"
+79,"TEXT_AKTKEA301_04791_A1_000_001","Bustling hubs brimming with activity."
+80,"TEXT_AKTKEA301_04791_A1_000_002","Natural environs unspoiled by man."
+81,"TEXT_AKTKEA301_04791_A1_000_003","Faraway lands where new encounters await."
+82,"TEXT_AKTKEA301_04791_A1_000_004","Quiet places where I can enjoy solitude."
+83,"TEXT_AKTKEA301_04791_DERYK_000_054","Ah yes, I can see the appeal in that. Though I travel alone, I quite enjoy listening to the sounds of life in the cities and towns I visit."
+84,"TEXT_AKTKEA301_04791_DERYK_000_055","So you too enjoy being amidst nature... It gladdens me to know that we have that in common."
+85,"TEXT_AKTKEA301_04791_DERYK_000_056","Ah yes, I can imagine you being given to such. The thrill of visiting unknown places is something I can understand."
+86,"TEXT_AKTKEA301_04791_DERYK_000_057","Is that so... Well do I understand it─the desire to have a place all your own, where you might be with your own thoughts."
+87,"TEXT_AKTKEA301_04791_DERYK_100_057","I myself am partial to wandering Eorzea. So rich in aether, this land, and possessed of so many aspects..."
+88,"TEXT_AKTKEA301_04791_DERYK_000_058","'Twas when I was traveling through the Twelveswood that I encountered this fellow. I knew not how he came to be injured and alone, but I couldn't turn a blind eye."
+89,"TEXT_AKTKEA301_04791_DERYK_000_059","He has long since recovered, and I probably should have returned him to his forest home."
+90,"TEXT_AKTKEA301_04791_DERYK_000_060","But when I see him here, undaunted in the presence of gods, I can't help but feel 'twas fate that delivered him to me."
+91,"TEXT_AKTKEA301_04791_DERYK_000_061","Still, the day will come when we must go our separate ways..."
+92,"TEXT_AKTKEA301_04791_SNOEGEIM_000_062","They're finally here, everyone!"
+93,"TEXT_AKTKEA301_04791_DERYK_000_063","Welcome back. How fared your work?"
+94,"TEXT_AKTKEA301_04791_KRILE_000_064","It took longer than we anticipated, but we managed to compile our findings, and thence deliberated a course of action."
+95,"TEXT_AKTKEA301_04791_GRAHATIA_000_065","Indeed. Hereon, we would do well to tread with caution."
+96,"TEXT_AKTKEA301_04791_GRAHATIA_000_066","The waveforms we recorded with the aetheric analyzer revealed an unsettling occurrence."
+97,"TEXT_AKTKEA301_04791_GRAHATIA_000_067","In the course of fighting us, the gods expended a tremendous amount of their aether. So much so as to dilute their very essence."
+98,"TEXT_AKTKEA301_04791_KRILE_000_068","Lest you worry, you've done no wrong, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. The gods themselves wished to fight, after all."
+99,"TEXT_AKTKEA301_04791_KRILE_000_069","That being said, we should avoid engaging in further battle until we learn more about their true objective."
+100,"TEXT_AKTKEA301_04791_KRILE_000_070","To that end, we will seek out the thirteenth unnamed being, whose duty is to watch unflinching."
+101,"TEXT_AKTKEA301_04791_KRILE_000_071","If Raha is correct, and we have no reason to believe otherwise, said being is the watcher on the moon."
+102,"TEXT_AKTKEA301_04791_KRILE_000_072","You'll be pleased to know I've already acquired permission to use the Tower of Babil from the Ilsabard contingent, who presently oversee the structure."
+103,"TEXT_AKTKEA301_04791_KRILE_000_073","You'll be pleased to know I've already acquired permission to use the Tower of Babil from the Ilsabard contingent, who oversee the structure with the Garlean people's leave."
+104,"TEXT_AKTKEA301_04791_SNOEGEIM_000_074","We...we're really going, then? To the moon? Huzzah!"
+105,"TEXT_AKTKEA301_04791_SNOEGEIM_000_075","Hehe, I wonder what the watcher is like! If there are no other matters, then let us set forth at once!"
+106,"TEXT_AKTKEA301_04791_DERYK_000_076","If you still wish to speak with the gods, best to seek them out now. They may not be there later."
+107,"TEXT_AKTKEA301_04791_WATCHEROFMOON_000_101","<hex:024804F2022303>Greetings, Hydaelyn's champion. You are ever welcome here, as are your companions.<hex:0248020103>"
+108,"TEXT_AKTKEA301_04791_KRILE_000_102","'Tis a pleasure to meet you, watcher. We come hoping that you would answer some questions for us─questions about Hydaelyn."
+109,"TEXT_AKTKEA301_04791_KRILE_000_103","We have deciphered the monument at the heart of the phantom realm. In addition to the names and duties of the Twelve, it speaks of one who is unnamed, who shall watch unflinching."
+110,"TEXT_AKTKEA301_04791_KRILE_000_104","Are we correct in assuming that that individual is you?"
+111,"TEXT_AKTKEA301_04791_KRILE_000_105","The Twelve have existed for eras. If you know aught about them, will you not share your knowledge with us?"
+112,"TEXT_AKTKEA301_04791_KRILE_000_106","They have a desire which they claim can only be fulfilled through battle with mankind. We wish to understand what that is."
+113,"TEXT_AKTKEA301_04791_DERYK_000_107","Please."
+114,"TEXT_AKTKEA301_04791_WATCHEROFMOON_000_108","<hex:024804F2022303>So man has managed to come this far...<hex:0248020103>"
+115,"TEXT_AKTKEA301_04791_WATCHEROFMOON_000_109","<hex:024804F2022303>Very well. You have earned the right to know.<hex:0248020103>"
+116,"TEXT_AKTKEA301_04791_WATCHEROFMOON_000_110","<hex:024804F2022303>Remember, however, that I am but a creation. Though I have been imbued with some memories of the past, they are far from complete.<hex:0248020103>"
+117,"TEXT_AKTKEA301_04791_WATCHEROFMOON_000_111","<hex:024804F2022303>First of all, I am indeed the unnamed being the monument describes.<hex:0248020103>"
+118,"TEXT_AKTKEA301_04791_WATCHEROFMOON_000_112","<hex:024804F2022303>An entity created by Hydaelyn to serve a purpose, alongside the Twelve.<hex:0248020103>"
+119,"TEXT_AKTKEA301_04791_WATCHEROFMOON_000_113","<hex:024804F2022303>Together, they were charged with preserving equilibrium on a sundered and unstable star.<hex:0248020103>"
+120,"TEXT_AKTKEA301_04791_WATCHEROFMOON_000_114","<hex:024804F2022303>Like myself, they were given shape from people who once existed.<hex:0248020103>"
+121,"TEXT_AKTKEA301_04791_WATCHEROFMOON_000_115","<hex:024804F2022303>And like myself, they believed that the world should be entrusted to the new life that had emerged.<hex:0248020103>"
+122,"TEXT_AKTKEA301_04791_WATCHEROFMOON_000_116","<hex:024804F2022303>While I do not possess detailed memories of that time, Venat selected those she deemed best suited to their respective duties.<hex:0248020103>"
+123,"TEXT_AKTKEA301_04791_GRAHATIA_000_117","That would explain why the Twelve appear to have personalities like mortals..."
+124,"TEXT_AKTKEA301_04791_WATCHEROFMOON_000_118","<hex:024804F2022303>The men and women they once were influenced their personalities, yes, but so too did the faith of mortals.<hex:0248020103>"
+125,"TEXT_AKTKEA301_04791_WATCHEROFMOON_000_119","<hex:024804F2022303>Knowingly or no, when men pray, they will the object of their worship to assume a form that can better grant them their heart's desire.<hex:0248020103>"
+126,"TEXT_AKTKEA301_04791_WATCHEROFMOON_000_120","<hex:024804F2022303>In this manner have the Twelve been shaped over eons into images that fit men's ideals.<hex:0248020103>"
+127,"TEXT_AKTKEA301_04791_KRILE_000_121","So you were right, Raha. Hopes and prayers have the power to influence the gods."
+128,"TEXT_AKTKEA301_04791_WATCHEROFMOON_000_122","<hex:024804F2022303>Yet even as they thus changed, at Venat's behest, they would have refrained from intervening in mortal affairs.<hex:0248020103>"
+129,"TEXT_AKTKEA301_04791_WATCHEROFMOON_000_123","<hex:024804F2022303>As a result, there will have been times when they acted in ways that are contrary to your expectations.<hex:0248020103>"
+130,"TEXT_AKTKEA301_04791_WATCHEROFMOON_000_124","<hex:024804F2022303>But now that Hydaelyn is no more and the Final Days averted, the Twelve have arrived at a decision regarding their fate all their own.<hex:0248020103>"
+131,"TEXT_AKTKEA301_04791_WATCHEROFMOON_000_125","<hex:024804F2022303>'Tis not for me to reveal the truth of their desire. I can, however, guarantee that it will not visit harm upon mankind. Nay, far from it.<hex:0248020103>"
+132,"TEXT_AKTKEA301_04791_SNOEGEIM_000_126","Well, I for one never felt that the gods meant us ill. To have your guarantee as well, we couldn't possibly doubt them anymore!"
+133,"TEXT_AKTKEA301_04791_GRAHATIA_000_127","It is most assuring to confirm the connection between you and the Twelve."
+134,"TEXT_AKTKEA301_04791_GRAHATIA_000_128","With this, we may proceed in our quest with easier hearts."
+135,"TEXT_AKTKEA301_04791_KRILE_000_129","Thank you for sharing your knowledge with us. We shall return to the Omphalos and continue engaging with your brethren."
+136,"TEXT_AKTKEA301_04791_WATCHEROFMOON_000_130","<hex:024804F2022303>That is well. As I watch on, I shall pray that the tale comes to a happy conclusion for gods and men alike."
+137,"TEXT_AKTKEA301_04791_WATCHEROFMOON_000_131","<hex:024804F2022303>May your journey be fulfilling...<hex:0248020103>"
+138,"TEXT_AKTKEA301_04791_KRILE_000_201","Something's amiss. The gods' avatars are nowhere to be seen..."
+139,"TEXT_AKTKEA301_04791_LLYMLEAN_000_202","(-Audacious Woman-)That's because our preparations are complete! "
+140,"TEXT_AKTKEA301_04791_LLYMLEAN_000_203","(-Audacious Woman-)Ahhh, I've waited so bloody long for this moment!"
+141,"TEXT_AKTKEA301_04791_THALIAK_000_204","(-Sagely Man-)Tsk-tsk, Llymlaen. Are such uncouth words the first you would speak unto our guests?"
+142,"TEXT_AKTKEA301_04791_LLYMLEAN_000_205","Oh, leave off, Thaliak! You can't tell me you're not as excited as I am!"
+143,"TEXT_AKTKEA301_04791_THALIAK_000_206","I would be the first to admit my joy, but on such a momentous occasion, I would act with due propriety."
+144,"TEXT_AKTKEA301_04791_THALIAK_000_207","Well met, children of man. 'Tis our understanding that you have spoken with the watcher and ascertained our true nature."
+145,"TEXT_AKTKEA301_04791_THALIAK_000_208","Indeed, we were created by Hydaelyn to tend the star."
+146,"TEXT_AKTKEA301_04791_THALIAK_000_209","Having built the Omphalos at its heart, and our sanctums throughout aether-rich Eorzea, we labored to preserve the balance of reality."
+147,"TEXT_AKTKEA301_04791_GRAHATIA_000_210","All of this we have learned, but there is still one thing we do not understand."
+148,"TEXT_AKTKEA301_04791_GRAHATIA_000_211","Our analysis of the phantom realm revealed that you and yours dilute your very selves by fighting us."
+149,"TEXT_AKTKEA301_04791_GRAHATIA_000_212","Would this not impede your ability to carry out your duties?"
+150,"TEXT_AKTKEA301_04791_DERYK_000_213","We appreciate your concern, but you needn't worry."
+151,"TEXT_AKTKEA301_04791_Q2_000_000","What will you say?"
+152,"TEXT_AKTKEA301_04791_A2_000_001","What's going on?"
+153,"TEXT_AKTKEA301_04791_A2_000_002","I knew it─you were <hex:021A020203>him<hex:021A020103> all along."
+154,"TEXT_AKTKEA301_04791_A2_000_003","So...the baby opo-opo was Oschon all along?"
+155,"TEXT_AKTKEA301_04791_DERYK_000_215","I haven't been honest with you, and for that I apologize."
+156,"TEXT_AKTKEA301_04791_DERYK_000_216","Likewise, I knew that you harbored suspicion as to my true identity."
+157,"TEXT_AKTKEA301_04791_DERYK_100_216","Loath though I am to disappoint, it isn't the little fellow."
+158,"TEXT_AKTKEA301_04791_DERYK_000_217","While my brethren used various creatures as their avatars, I chose the form of a man, the better to share in your solitude."
+159,"TEXT_AKTKEA301_04791_DERYK_000_218","And it fell to me... "
+160,"TEXT_AKTKEA301_04791_DERYK_000_219","(-Oschon-)...The Wanderer, to beckon unto the Omphalos they who could grant our wish."
+161,"TEXT_AKTKEA301_04791_SNOEGEIM_000_220","Wh-What? How could you hide such a thing from us!?"
+162,"TEXT_AKTKEA301_04791_DERYK_000_221","(-Oschon-)Had you known my true identity and our purpose, we feared that you would refuse to fight us."
+163,"TEXT_AKTKEA301_04791_DERYK_000_222","(-Oschon-)But our fears were unfounded. You've heeded our request and, despite the hardships, endeavored to grant it."
+164,"TEXT_AKTKEA301_04791_DERYK_000_223","(-Oschon-)Forgive me, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, but I must leave the little fellow in your care."
+165,"TEXT_AKTKEA301_04791_DERYK_000_224","(-Oschon-)In the innermost part of our realm, we shall reveal the truth in its entirety."
+166,"TEXT_AKTKEA301_04791_DERYK_000_225","(-Oschon-)As your patron deity, ever have I watched over you. And now I await your coming with bated breath."
+167,"TEXT_AKTKEA301_04791_DERYK_000_226","(-Oschon-)I await your coming with bated breath."
+168,"TEXT_AKTKEA301_04791_LLYMLEAN_000_227","I know the ones who are mine, and I know you too, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Gird your loins and have at us!"
+169,"TEXT_AKTKEA301_04791_LLYMLEAN_000_228","This is our grandest moment, mortal. Gird your loins and have at us!"
+170,"TEXT_AKTKEA301_04791_THALIAK_000_229","As your patron deity, I shall receive you with my all. Be as a raging torrent, child of man."
+171,"TEXT_AKTKEA301_04791_THALIAK_000_230","I shall receive you with my all. Be as a raging torrent, child of man."
+172,"TEXT_AKTKEA301_04791_KRILE_000_240","I don't blame Deryk for hiding the truth. 'Tis no easy thing to say that you're actually a god."
+173,"TEXT_AKTKEA301_04791_SNOEGEIM_000_245","In his wanderings, I can't help but wonder what Deryk thought and felt..."
+174,"TEXT_AKTKEA301_04791_BABYOPOOPO_000_250","Ook...ook?"
+175,"TEXT_AKTKEA301_04791_GRAHATIA_000_260","So Deryk is the Wanderer, the deity who shares in men's solitude..."
+176,"TEXT_AKTKEA301_04791_GRAHATIA_000_261","And in order to beckon us to the phantom realm, he posed as an explorer and solicited the aid of the Sons of Saint Coinach."
+177,"TEXT_AKTKEA301_04791_GRAHATIA_000_262","In spite of this, I do not feel as though I've been deceived, nor do I harbor any resentment. Rather, I simply feel sad."
+178,"TEXT_AKTKEA301_04791_KRILE_000_263","I understand. 'Tis as if a dear friend were suddenly spirited far away..."
+179,"TEXT_AKTKEA301_04791_KRILE_000_264","In hindsight, perhaps it was in expectation of the coming battle that he had kept men at arm's length."
+180,"TEXT_AKTKEA301_04791_BABYOPOOPO_000_265","Ook..."
+181,"TEXT_AKTKEA301_04791_KRILE_000_266","I imagine it must be even harder for you..."
+182,"TEXT_AKTKEA301_04791_SNOEGEIM_000_267","But to know that one of the Twelve walked among us... It makes me want to do the best we can by them."
+183,"TEXT_AKTKEA301_04791_KRILE_000_268","Aye. Since time immemorial, the Twelve have watched over all who abide on this star."
+184,"TEXT_AKTKEA301_04791_KRILE_000_269","And even as they fulfilled their purpose of maintaining stability, as beings possessed of sentience, they also heeded the hearts of men."
+185,"TEXT_AKTKEA301_04791_KRILE_000_270","So let us likewise heed their hearts, and do our utmost to grant them their desire."
+186,"TEXT_AKTKEA301_04791_GRAHATIA_000_271","Then I believe we all know what comes next."
+187,"TEXT_AKTKEA301_04791_GRAHATIA_000_272","By all indications, this will be the final foray into the gods' sanctum. This task, we entrust to you and your adventurer friends once more, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>."
+188,"TEXT_AKTKEA301_04791_GRAHATIA_000_273","As there's no telling what may happen afterwards, I shall remain on guard here."
+189,"TEXT_AKTKEA301_04791_GRAHATIA_000_274","Twice now you have triumphed, and I have faith that you will do so yet again. Go well, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>!"
+190,"TEXT_AKTKEA301_04791_GRAHATIA_000_280","Worry not, I shall hold the fort here. Pray focus on the battles ahead."
+191,"TEXT_AKTKEA301_04791_KRILE_000_285","Though we're assured that fulfilling the gods' desire won't visit harm upon the star, I cannot help but worry what may come to pass. We must be prepared."
+192,"TEXT_AKTKEA301_04791_SNOEGEIM_000_290","For the coming foray, you should face Thaliak in the Heaven of Water, and Llymlaen and Oschon in the Heaven of Wind."
+193,"TEXT_AKTKEA301_04791_SNOEGEIM_000_291","While Nymeia would also abide in the former, I believe she has already fulfilled her part. Which means an easier time for you...or so I hope!"
+194,"TEXT_AKTKEA301_04791_BABYOPOOPO_000_300","Ook..."
+195,"TEXT_AKTKEA301_04791_GRAHATIA_000_401","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, are you all right!?"
+196,"TEXT_AKTKEA301_04791_KRILE_000_402","Thanks for clearing the way, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. That being, I presume, is the Twelve...?"
+197,"TEXT_AKTKEA301_04791_THETWELVE_000_403","You have done well, children of man. As promised, we shall reveal the truth in its entirety."
+198,"TEXT_AKTKEA301_04791_THETWELVE_000_404","Our desire is simply thus: to give ourselves unto the star as a blessing."
+199,"TEXT_AKTKEA301_04791_THETWELVE_000_405","In the twelve millennia we have existed, we have come to harbor tremendous power through prayers."
+200,"TEXT_AKTKEA301_04791_THETWELVE_000_406","Through battle, our essence shall unravel and return to the star, where it might give rise to new life. Such is our final gift to you."
+201,"TEXT_AKTKEA301_04791_SNOEGEIM_000_407","You mean you'll disappear!?"
+202,"TEXT_AKTKEA301_04791_THETWELVE_000_408","Yes. The fragments of our former souls which serve as the core of our existence shall rejoin the Lifestream."
+203,"TEXT_AKTKEA301_04791_THETWELVE_000_409","Yet though we may fade from sight, our individuality lost, our stabilizing influence shall endure."
+204,"TEXT_AKTKEA301_04791_THETWELVE_000_410","The only thing to change is where your prayers find their way. Henceforth, it shall be this, the instrument of blessing, that receives of mortal hopes─hopes that shall be given back to the star."
+205,"TEXT_AKTKEA301_04791_GRAHATIA_000_411","But your presence brings comfort to mankind. Everyone would wish for you to remain. Must you truly fade away?"
+206,"TEXT_AKTKEA301_04791_THETWELVE_000_412","Such gladdening things you say, child. We must confess, what we do, we also do for ourselves."
+207,"TEXT_AKTKEA301_04791_THETWELVE_000_413","When mankind overcame the Final Days, it so moved us that even we who are but constructs knew the greatest joy."
+208,"TEXT_AKTKEA301_04791_THETWELVE_000_414","You have shown your unfaltering love for the world. In return, we would show our undying love for you."
+209,"TEXT_AKTKEA301_04791_THETWELVE_000_415","Worry not. Myths are wont to be woven and passed down."
+210,"TEXT_AKTKEA301_04791_THETWELVE_000_416","So long as men hold the Twelve in fondness, we shall live on in your faith in us."
+211,"TEXT_AKTKEA301_04791_SNOEGEIM_000_417","Wh-When you say such things... <sob>"
+212,"TEXT_AKTKEA301_04791_THETWELVE_000_418","The moment of parting is come. By our blessing, may you march towards a brighter future."
+213,"TEXT_AKTKEA301_04791_THETWELVE_000_419","Farewell, beloved children."
+214,"TEXT_AKTKEA301_04791_ALTHYK_000_420","When you are ready, brothers and sisters."
+215,"TEXT_AKTKEA301_04791_BYREGOT_000_421","May the font of your ingenuity ever flow."
+216,"TEXT_AKTKEA301_04791_RHALGR_000_422","Yours is the strength to destroy all obstacles."
+217,"TEXT_AKTKEA301_04791_AZEYMA_000_423","Abide in virtue, and hold fast to the truth."
+218,"TEXT_AKTKEA301_04791_NALDTHAL_000_424","There is meaning in your deeds. Celebrate life and embrace death."
+219,"TEXT_AKTKEA301_04791_NOPHICA_000_425","May you flourish, and reap a bountiful harvest."
+220,"TEXT_AKTKEA301_04791_ALTHYK_000_426","In your limited time, have boundless compassion."
+221,"TEXT_AKTKEA301_04791_HALONE_000_427","Carry yourself with honor and forge on, towards victory."
+222,"TEXT_AKTKEA301_04791_MENPHINA_000_428","Harbor love in your heart─for yourself, for others, and for the world."
+223,"TEXT_AKTKEA301_04791_THALIAK_000_429","From past to future the river of knowledge flows. Be part of its nourishing waters."
+224,"TEXT_AKTKEA301_04791_NYMEIA_000_430","May a wonderful new world greet you beyond destiny's horizon."
+225,"TEXT_AKTKEA301_04791_LLYMLEAN_000_431","Be calm as the ocean, and you shall weather any storm."
+226,"TEXT_AKTKEA301_04791_OSCHON_000_432","As the wind blows unfettered, may you be free to follow your heart."
+227,"TEXT_AKTKEA301_04791_HALONE_000_434","(-Halone's Voice-)You needn't agonize so, Oschon."
+228,"TEXT_AKTKEA301_04791_NOPHICA_000_435","(-Nophica's Voice-)Remain with them if that be your desire."
+229,"TEXT_AKTKEA301_04791_OSCHON_000_436","But...this is what we've dreamed of. To return to the star together."
+230,"TEXT_AKTKEA301_04791_OSCHON_000_437","I just... I never imagined that I would grow so fond of them. That parting would be so hard..."
+231,"TEXT_AKTKEA301_04791_NALDTHAL_000_438","(-Nald'thal's Voice-)Long as we have abided in patience to rejoin the Lifestream..."
+232,"TEXT_AKTKEA301_04791_ALTHYK_000_439","(-Althyk's Voice-)For the drop in the river of time that is man's fleeting life..."
+233,"TEXT_AKTKEA301_04791_NYMEIA_000_440","(-Nymeia's Voice-)Why not share your fate with them?"
+234,"TEXT_AKTKEA301_04791_LLYMLEAN_000_441","(-Llymlaen's Voice-)Follow your heart, as you ever have."
+235,"TEXT_AKTKEA301_04791_MENPHINA_000_442","(-Menphina's Voice-)And when the time comes, we shall meet again."
+236,"TEXT_AKTKEA301_04791_DERYK_000_443","I've...decided to continue journeying a while longer."
+237,"TEXT_AKTKEA301_04791_DERYK_000_450","That I'm still here... I can scarce believe it myself."
+238,"TEXT_AKTKEA301_04791_GRAHATIA_000_455","It cannot have been easy for Deryk to break with his decision. I should like to hear what went through his mind."
+239,"TEXT_AKTKEA301_04791_SNOEGEIM_000_460","He's back! He's really back! <sniff>"
+240,"TEXT_AKTKEA301_04791_BABYOPOOPO_000_465","Ook-ook-ook!"
+241,"TEXT_AKTKEA301_04791_KRILE_000_470","Words can't well express my surprise when I opened my eyes to see Deryk standing there."
+242,"TEXT_AKTKEA301_04791_KRILE_000_471","I'm naturally curious as to what happened, but above all, I rejoice for a dear friend returned."
+243,"TEXT_AKTKEA301_04791_SYSTEM_000_34","To be deleted."
+244,"TEXT_AKTKEA301_04791_BABYOPOOPO_000_433","To be deleted."

@@ -2,174 +2,174 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_JOBNIN500_00234_SEQ_00,朧好像已經考慮清楚了。
-1,TEXT_JOBNIN500_00234_SEQ_01,朧委託冒險者照顧受傷的燕。和碼頭小屋的燕對話。
-2,TEXT_JOBNIN500_00234_SEQ_02,燕的傷基本痊癒了。她希望冒險者去看看朧。前往拉諾西亞高地的愚者瀑布，尋找朧。
-3,TEXT_JOBNIN500_00234_SEQ_03,朧想要知道真相，想要知道真正的仇人是誰。燕現了身，和愚者瀑布的燕談談。
-4,TEXT_JOBNIN500_00234_SEQ_04,燕想支持朧的決定。為了確認鴉的遺言，前往拉諾西亞低地的守炬埠頭，和警備兵扎爾梅爾談談。
-5,TEXT_JOBNIN500_00234_SEQ_05,據扎爾梅爾說，黎明時會有一艘小型船入港。在崖上可以俯瞰守炬埠頭，前往<hex:02280CFF05>EObj<hex:F61E97C70103>等待。靜候目標登場。
-6,TEXT_JOBNIN500_00234_SEQ_06,與朧和燕同心協力擊敗了月海。這時詐死的鴉出現，將最後一件東方的忍者裝束交給了冒險者。返回東拉諾西亞的碼頭小屋，和朧談談。
-7,TEXT_JOBNIN500_00234_SEQ_07,朧將生殺予奪傳授給了冒險者，並託付給其最後一件東方的忍者裝束。燕雖然要踏上歸途，但朧為了學習外界的知識，會在艾歐澤亞多停留一段時間。承認自己心中的黑暗並成功將其克服的朧，一定能成為忍村的傑出領導者。<hex:02100103><hex:02100103>※滿足下列條件後，可以從碼頭小屋的朧那裡領取新的特職任務。<hex:02100103>完成「第七星曆主線任務」中「希望的燈火」。
-8,TEXT_JOBNIN500_00234_SEQ_08,
-9,TEXT_JOBNIN500_00234_SEQ_09,
-10,TEXT_JOBNIN500_00234_SEQ_10,
-11,TEXT_JOBNIN500_00234_SEQ_11,
-12,TEXT_JOBNIN500_00234_SEQ_12,
-13,TEXT_JOBNIN500_00234_SEQ_13,
-14,TEXT_JOBNIN500_00234_SEQ_14,
-15,TEXT_JOBNIN500_00234_SEQ_15,
-16,TEXT_JOBNIN500_00234_SEQ_16,
-17,TEXT_JOBNIN500_00234_SEQ_17,
-18,TEXT_JOBNIN500_00234_SEQ_18,
-19,TEXT_JOBNIN500_00234_SEQ_19,
-20,TEXT_JOBNIN500_00234_SEQ_20,
-21,TEXT_JOBNIN500_00234_SEQ_21,
-22,TEXT_JOBNIN500_00234_SEQ_22,
-23,TEXT_JOBNIN500_00234_SEQ_23,
-24,TEXT_JOBNIN500_00234_TODO_00,和燕對話
-25,TEXT_JOBNIN500_00234_TODO_01,在愚者瀑布尋找朧
-26,TEXT_JOBNIN500_00234_TODO_02,和燕對話
-27,TEXT_JOBNIN500_00234_TODO_03,和守炬埠頭的扎爾梅爾對話
-28,TEXT_JOBNIN500_00234_TODO_04,在<hex:02280CFF05>EObj<hex:F61E97C70103>等待
-29,TEXT_JOBNIN500_00234_TODO_05,和碼頭小屋的朧對話
-30,TEXT_JOBNIN500_00234_TODO_06,
-31,TEXT_JOBNIN500_00234_TODO_07,
-32,TEXT_JOBNIN500_00234_TODO_08,
-33,TEXT_JOBNIN500_00234_TODO_09,
-34,TEXT_JOBNIN500_00234_TODO_10,
-35,TEXT_JOBNIN500_00234_TODO_11,
-36,TEXT_JOBNIN500_00234_TODO_12,
-37,TEXT_JOBNIN500_00234_TODO_13,
-38,TEXT_JOBNIN500_00234_TODO_14,
-39,TEXT_JOBNIN500_00234_TODO_15,
-40,TEXT_JOBNIN500_00234_TODO_16,
-41,TEXT_JOBNIN500_00234_TODO_17,
-42,TEXT_JOBNIN500_00234_TODO_18,
-43,TEXT_JOBNIN500_00234_TODO_19,
-44,TEXT_JOBNIN500_00234_TODO_20,
-45,TEXT_JOBNIN500_00234_TODO_21,
-46,TEXT_JOBNIN500_00234_TODO_22,
-47,TEXT_JOBNIN500_00234_TODO_23,
-48,TEXT_JOBNIN500_00234_OBORO_000_000,一直以來受你照顧了，<hex:022903EB0203>。<hex:02100103>如果沒遇到你，恐怕我們也完成不了這次任務。
-49,TEXT_JOBNIN500_00234_OBORO_000_001,我們就快要回村子了……<hex:02100103>畢竟是命我們完成任務後立刻回去。
-50,TEXT_JOBNIN500_00234_OBORO_000_002,鴉留下的情報確實很令我在意。<hex:02100103>但調查老師是否還活著並不是我的任務範疇……
-51,TEXT_JOBNIN500_00234_OBORO_000_003,……我是忍村的忍者。<hex:02100103>我的任務就是服從首領的命令誅殺鴉。<hex:02100103>以自己的心去揮舞刀刃是不被允許的。
-52,TEXT_JOBNIN500_00234_OBORO_000_004,在回村子前，我有個地方想去……<hex:02100103>離開艾歐澤亞前最後的這點時間，讓我四處走走吧。
-53,TEXT_JOBNIN500_00234_OBORO_000_005,在我回來前，希望你能去照看一下燕。<hex:02100103>拜託了。
-54,TEXT_JOBNIN500_00234_TSUBAME_000_010,在那場戰鬥之後，朧大人就一直在煩惱著……<hex:02100103>能請你和他多聊聊嗎。
-55,TEXT_JOBNIN500_00234_TSUBAME_000_020,我已經沒事了……<hex:02100103>本身也沒有受到致命傷。<hex:02100103>鴉的目的，只是為了激怒朧大人而已。
-56,TEXT_JOBNIN500_00234_TSUBAME_000_021,……說來朧大人究竟是去了哪裡？<hex:02100103>馬上就該出發了……
-57,TEXT_JOBNIN500_00234_TSUBAME_000_022,朧大人煩心時會去的地方……<hex:02100103>你有什麼頭緒嗎？
-58,TEXT_JOBNIN500_00234_Q1_000_000,朧會去哪裡？
-59,TEXT_JOBNIN500_00234_A1_000_001,利姆薩·羅敏薩
-60,TEXT_JOBNIN500_00234_A1_000_002,愚者瀑布
-61,TEXT_JOBNIN500_00234_A1_000_003,石綠湖
-62,TEXT_JOBNIN500_00234_TSUBAME_000_030,利姆薩·羅敏薩……<hex:02100103>朧大人不怎麼喜歡去人多的地方。<hex:02100103>換成人少的地方，你有什麼頭緒嗎？
-63,TEXT_JOBNIN500_00234_TSUBAME_000_035,這麼說來，從前你們兩人一起去那裡進行過修行吧？<hex:02100103>應該就是去了那裡沒錯！
-64,TEXT_JOBNIN500_00234_TSUBAME_000_036,<hex:022903EB0203>大人，拜託了。<hex:02100103>能請你去看看朧大人嗎？<hex:02100103>我想有些話他對同鄉的我們反而不好開口。
-65,TEXT_JOBNIN500_00234_TSUBAME_000_037,朧大人做出怎樣的決定我都會支持他。<hex:02100103>所以，請你去從背後輕輕推他一把吧……
-66,TEXT_JOBNIN500_00234_TSUBAME_000_050,石綠湖……<hex:02100103>出發前泡個溫泉嗎……朧大人不像是會那樣做的人。<hex:02100103>他應該會選個更加安靜的場所……
-67,TEXT_JOBNIN500_00234_TSUBAME_000_060,朧大人做出怎樣的決定我都會支持他。<hex:02100103>所以，請你去從背後輕輕推他一把吧……
-68,TEXT_JOBNIN500_00234_OBORO_000_090,我應該有拜託你去照看燕……<hex:02100103>不，正是燕請你來的吧……<hex:02100103>真是愛操心的傢伙……
-69,TEXT_JOBNIN500_00234_OBORO_000_091,不過真虧你能找到這裡呀。<hex:02100103>那次修行後，我就喜歡上了這個瀑布的聲音。<hex:02100103>聽到後，能讓我心情平靜下來……
-70,TEXT_JOBNIN500_00234_OBORO_000_095,……我還真是沒出息。<hex:02100103>想回村子報告，卻又無法下定決心。<hex:02100103>現在我的心、我的刃上都滿是朦朧。
-71,TEXT_JOBNIN500_00234_OBORO_000_096,<hex:022903EB0203>，我想問問並非因為村子，<hex:02100103>而是憑自己的意志成為了忍者的你……<hex:02100103>你是為了什麼，而舉起手中之刃？
-72,TEXT_JOBNIN500_00234_Q2_000_000,手中之刃，為何而舉？
-73,TEXT_JOBNIN500_00234_A2_000_001,為了自己
-74,TEXT_JOBNIN500_00234_A2_000_002,為了力量
-75,TEXT_JOBNIN500_00234_A2_000_003,為了同伴
-76,TEXT_JOBNIN500_00234_A2_000_004,無法回答
-77,TEXT_JOBNIN500_00234_OBORO_000_100,……無一絲迷茫，澄空一般的答案啊。<hex:02100103>你說得沒錯，刃就是為了讓自己能夠活下去而存在。
-78,TEXT_JOBNIN500_00234_OBORO_000_110,……你說得沒錯，強大的刃是強大的力量。<hex:02100103>刃為力量而存在，而力量則是屬於自己的東西……
-79,TEXT_JOBNIN500_00234_OBORO_000_120,為了同伴……<hex:02100103>……真是毫無朦朧，如太陽般耀眼的答案呢。<hex:02100103>你說得沒錯，我也是如此……
-80,TEXT_JOBNIN500_00234_OBORO_000_130,……對不起，問你這種不該問的問題。<hex:02100103>自己的心，確實不該是隨便透露給他人的東西。<hex:02100103>沒錯，你只要自己心裡清楚就好了。
-81,TEXT_JOBNIN500_00234_OBORO_000_140,在先前的戰鬥中我察覺到了……<hex:02100103>因同伴被傷害而心中充滿怒火的我，<hex:02100103>確實發揮出了非同尋常的力量。
-82,TEXT_JOBNIN500_00234_OBORO_000_141,看來我並不是一個對村子來說，<hex:02100103>擁有正確之心的忍者優等生呢……
-83,TEXT_JOBNIN500_00234_OBORO_000_142,我想要找出真正的叛徒，親手報仇雪恨，<hex:02100103>並且相信這種想法、這樣的心是正確的！<hex:02100103>我不在乎任何人的指責！
-84,TEXT_JOBNIN500_00234_OBORO_000_143,我要去了解事件的真相。<hex:02100103>並非以村中忍者的身份，不再被任務所拘束，<hex:02100103>而是由心指引我前進。
-85,TEXT_JOBNIN500_00234_OBORO_000_144,如果老師才是真正的敵人，一場激鬥恐怕在所難免。<hex:02100103>再見了，<hex:022903EB0203>……<hex:02100103>在這遠離故鄉的艾歐澤亞最大的收穫，就是與你相遇。
-86,TEXT_JOBNIN500_00234_TSUBAME_000_145,(-燕-)……<hex:022903EB0203>大人。
-87,TEXT_JOBNIN500_00234_TSUBAME_000_150,因為實在很擔心……<hex:02100103>我就也偷偷跟上來了。
-88,TEXT_JOBNIN500_00234_TSUBAME_000_151,如果幕後黑手真的是月海大人……<hex:02100103>恐怕朧大人就算同歸於盡，也會想盡辦法將對方殺死。
-89,TEXT_JOBNIN500_00234_TSUBAME_000_152,……我的刃是為了守護同伴而存在。<hex:02100103>所以我也要戰鬥，為了守護朧大人。
-90,TEXT_JOBNIN500_00234_TSUBAME_000_153,<hex:022903EB0203>大人，請助我一臂之力吧。<hex:02100103>你那無拘無束，憑藉著一顆自由之心揮刃的強大，<hex:02100103>對這場戰鬥至關重要。
-91,TEXT_JOBNIN500_00234_TSUBAME_000_154,鴉死前提及的守炬埠頭……<hex:02100103>朧大人應該是前往了那裡。<hex:02100103>去看看能不能從那裡的警備兵口中打探到情報吧。
-92,TEXT_JOBNIN500_00234_ZAHRMERL_000_200,要說最近有什麼不同的話……<hex:02100103>黎明時預定會有一艘小船入港。<hex:02100103>除此之外就沒什麼特別的了。
-93,TEXT_JOBNIN500_00234_ZAHRMERL_000_201,啊，對了！<hex:02100103>說起來還有一件。<hex:02100103>之前一個黑頭髮的農夫也問過我同樣的事情。
-94,TEXT_JOBNIN500_00234_TSUBAME_000_203,……原來如此。<hex:02100103>黑頭髮的農夫恐怕是朧大人喬裝的。<hex:02100103>他果然一個人來拚命了。
-95,TEXT_JOBNIN500_00234_TSUBAME_000_204,雖然想和朧大人會合，但敵人是隱秘諜報部隊……<hex:02100103>輕舉妄動太過危險了。<hex:02100103>我們各自藏身，等待月海大人到來吧……
-96,TEXT_JOBNIN500_00234_TSUBAME_000_205,我去西側的海岸附近。<hex:02100103><hex:022903EB0203>大人去崖上等待吧……
-97,TEXT_JOBNIN500_00234_ZAHRMERL_000_210,黎明時預定會有一艘小船入港。<hex:02100103>除此之外就沒什麼特別的了。
-98,TEXT_JOBNIN500_00234_STRANGE00234_000_100,什、什麼人！
-99,TEXT_JOBNIN500_00234_GEKKAI_000_101,(-？？？？-)老鼠嗎……
-100,TEXT_JOBNIN500_00234_OBORO_000_102,閣下便是帝國軍「隱秘諜報部隊」隊長吧。
-101,TEXT_JOBNIN500_00234_HATENA_000_103,(-？？？？-)……嗯，沒錯。
-102,TEXT_JOBNIN500_00234_GEKKAI_000_104,我便是帝國軍引以為豪的隱秘諜報部隊，<hex:02100103>「魔導忍眾」之首，月海。
-103,TEXT_JOBNIN500_00234_GEKKAI_000_105,我以為你已經回村子了呢。<hex:02100103>畢竟聽聞鴉已經死了。
-104,TEXT_JOBNIN500_00234_GEKKAI_000_106,朧喲，你稍微成長了呢……<hex:02100103>但面色很憔悴，有好好休息嗎？<hex:02100103>你一直都太喜歡勉強自己了。
-105,TEXT_JOBNIN500_00234_OBORO_000_107,真的……是老師你嗎？<hex:02100103>……你傳授我們何為忍者之心，<hex:02100103>被村中所有人都認為是理想中的忍者！而究竟為什麼！
-106,TEXT_JOBNIN500_00234_GEKKAI_000_108,不為什麼……<hex:02100103>我只是做出了身為忍者最為正確的選擇而已。<hex:02100103>我心中的刃，只為村子而存。
-107,TEXT_JOBNIN500_00234_GEKKAI_000_109,……忍者永遠是為了保護村子而存在。<hex:02100103>為此，自古以來都是與最適合的勢力交換著契約。
-108,TEXT_JOBNIN500_00234_GEKKAI_000_110,過去是多瑪。<hex:02100103>而由於加雷馬帝國的侵略，情況發生了變化。<hex:02100103>……所以我放棄弱小的主人，轉而投奔了強大的一方。
-109,TEXT_JOBNIN500_00234_GEKKAI_000_111,不然你以為憑什麼多瑪戰敗後，忍村卻能平安無事？<hex:02100103>這一切，都是我的功勞。
-110,TEXT_JOBNIN500_00234_OBORO_000_112,我們的村子一路與多瑪風雨同行！<hex:02100103>多瑪之民也一直相信著我們！<hex:02100103>……他們，是我們應該誓死守護的人！
-111,TEXT_JOBNIN500_00234_OBORO_000_113,你就眼睜睜看著信任我們的多瑪之民一個個死去，<hex:02100103>看著同伴們在帝國的攻勢下一個個被殘殺嗎？！
-112,TEXT_JOBNIN500_00234_GEKKAI_000_114,沒錯……和歷史悠久的忍村相比，<hex:02100103>脆弱的人命沒有任何價值。
-113,TEXT_JOBNIN500_00234_OBORO_000_115,我的心果然是正確的……<hex:02100103>老師……不，月海！<hex:02100103>受死吧！以慰大家在天之靈！
-114,TEXT_JOBNIN500_00234_GEKKAI_000_116,復仇嗎……無聊至極。<hex:02100103>你殺死鴉達成了任務後不返回村子，<hex:02100103>而是跑來追我的理由就是這個嗎……
-115,TEXT_JOBNIN500_00234_GEKKAI_000_117,忍村關於集團行動的教誨都被你忘光了呢。<hex:02100103>居然拋開任務，憑自己的心擅自行動。<hex:02100103>手下可不會因為「心」那種東西跟過來。
-116,TEXT_JOBNIN500_00234_GEKKAI_000_118,帝國軍可真是個好地方。<hex:02100103>冷酷無情、心靈強韌之輩大有人在。<hex:02100103>比你還強的手下我也培育出了好幾個呢。
-117,TEXT_JOBNIN500_00234_GEKKAI_000_119,現在的你，連一個手下都沒有，<hex:02100103>只不過是一隻心亂刃易折的可憐老鼠而已。<hex:02100103>勝負已定了……
-118,TEXT_JOBNIN500_00234_HATENA_000_120,(-？？？？-)確實呢。<hex:02100103>這不是任務，也許「手下」確實不會跟過來。
-119,TEXT_JOBNIN500_00234_TSUBAME_000_121,但是，心同道合的「同志」會跟來！
-120,TEXT_JOBNIN500_00234_OBORO_000_122,燕，你怎麼？！
-121,TEXT_JOBNIN500_00234_TSUBAME_000_123,不光是我呢。<hex:02100103><hex:022903EB0203>大人也很快會趕到。
-122,TEXT_JOBNIN500_00234_GEKKAI_000_124,哈哈哈……同志嗎。<hex:02100103>居然還找來冒險者幫忙，村子的忍者真是墮落了呢。<hex:02100103>連老師的心都無法理解的你們，為何相信他人？！
-123,TEXT_JOBNIN500_00234_TSUBAME_000_125,<hex:022903EB0203>大人心中有刃，是正確的忍者。<hex:02100103>而不是你這種心早就腐爛了的叛忍！
-124,TEXT_JOBNIN500_00234_OBORO_000_126,<hex:022903EB0203>……<hex:02100103>除了感謝，我已經不知該些說什麼了。
-125,TEXT_JOBNIN500_00234_OBORO_000_127,同志們。<hex:02100103>一起斬殺老師……斬殺月海！
-126,TEXT_JOBNIN500_00234_OBORO_000_200,燕、<hex:022903EB0203>。<hex:02100103>謝謝你們成為我心的依靠，謝謝……
-127,TEXT_JOBNIN500_00234_OBORO_000_201,……還有鴉。<hex:02100103>這一切也都是你生前就計劃好的吧。
-128,TEXT_JOBNIN500_00234_KARASU_000_202,(-？？？？-)嗚噗噗，真令人不舒服呢。<hex:02100103>能不能不要擅自就把我殺了呀？
-129,TEXT_JOBNIN500_00234_OBORO_000_203,咦……你、你是鴉？<hex:02100103>你還活著？！咦？怎麼辦到的？！
-130,TEXT_JOBNIN500_00234_KARASU_000_204,我只是作為弟子學會了師父的拿手絕活而已。<hex:02100103>嗚噗噗，詐死可是古式遁術的基礎。
-131,TEXT_JOBNIN500_00234_OBORO_000_205,哦哦哦……原、原來是這樣。<hex:02100103>但你為什麼在這裡？
-132,TEXT_JOBNIN500_00234_KARASU_000_206,……是小雛鳥忘記的東西。
-133,TEXT_JOBNIN500_00234_TSUBAME_000_207,啊，這個是……<hex:02100103><hex:022903EB0203>大人最後的忍者裝束……<hex:02100103>這麼說起來……
-134,TEXT_JOBNIN500_00234_KARASU_000_208,好了，我的送貨「任務」也結束了。<hex:02100103>……拜拜！
-135,TEXT_JOBNIN500_00234_OBORO_000_209,等、等等，鴉！<hex:02100103>……在你的幫助下，我們才成功為村子報仇雪恨。
-136,TEXT_JOBNIN500_00234_OBORO_000_211,忍村的長老們都誤把你當成了叛徒。<hex:02100103>我會去向他們解釋，你不和我們一起回村子嗎？
-137,TEXT_JOBNIN500_00234_KARASU_000_212,嗚哇，這還真是出乎我意料的發言……<hex:02100103>雖然我不是背叛村子的主犯，<hex:02100103>但做的那些，可也不是什麼善事。
-138,TEXT_JOBNIN500_00234_OBORO_000_213,在艾歐澤亞的戰鬥，我們雙方都拼上了自己的性命……<hex:02100103>作為忍者，我們都沒有錯……
-139,TEXT_JOBNIN500_00234_KARASU_000_214,……恕我拒絕。<hex:02100103>我本來就討厭村中的生活。<hex:02100103>那裡太狹小，無法令我全力施展我的才能。
-140,TEXT_JOBNIN500_00234_KARASU_000_215,況且不論真相如何……<hex:02100103>我帶著忍村的情報出逃，<hex:02100103>加上在此地追隨了帝國軍的事實都不會改變。
-141,TEXT_JOBNIN500_00234_KARASU_000_216,你的任務僅僅是殺死我而已……<hex:02100103>要是你沒完成任務就逃回去了的話會發生什麼呢？<hex:02100103>想來會很有趣呢……噗噗噗。
-142,TEXT_JOBNIN500_00234_KARASU_000_217,毫無疑問，你是村子裡的優等生……<hex:02100103>將它帶回去，告訴他們你已經將我殺死了吧。<hex:02100103>這樣我也能活得更加自由。
-143,TEXT_JOBNIN500_00234_OBORO_000_218,……我懂了。<hex:02100103>向你保證，我會作為村裡的優等生出人頭地。<hex:02100103>建造出一個死去的同伴們也會為之驕傲的村子。
-144,TEXT_JOBNIN500_00234_KARASU_000_219,……不錯呢。<hex:02100103>這種煩人的優等生發言，<hex:02100103>讓我有去毀掉村子的衝動了……
-145,TEXT_JOBNIN500_00234_OBORO_000_220,那時我會再次將你殺死的。<hex:02100103>……向我心中的「正確」起誓。
-146,TEXT_JOBNIN500_00234_TSUBAME_000_250,那時<hex:022903EB0203>大人一到場，我瞬間就安心了呢。<hex:02100103>由衷感謝你。
-147,TEXT_JOBNIN500_00234_OBORO_000_300,說來也真是不可思議……<hex:02100103>明明約好由我教你忍術，<hex:02100103>卻反而從你身上學到了忍者該有怎樣的「心」呢。
-148,TEXT_JOBNIN500_00234_OBORO_000_301,……請讓我再次向你道謝。<hex:02100103>托你的福，我才得以認清自己心中的「正確」，<hex:02100103>讓刃變得更加強大。
-149,TEXT_JOBNIN500_00234_OBORO_000_302,你的心與武藝……無疑已經是獨當一面的忍者了。<hex:02100103>我就將我掌握的最後一個技藝傳授給你吧。
-150,TEXT_JOBNIN500_00234_OBORO_000_303,生殺予奪……<hex:02100103>這是操縱體內的氣迅速重整氣勢，從而用出必殺忍術的技巧。<hex:02100103>正如其名，要生要殺皆可隨心而定。
-151,TEXT_JOBNIN500_00234_OBORO_000_304,……這樣一來我們持續了這麼久的交易也已畫上句號。<hex:02100103>我們要回到村子去了，也就是說……要分別了。
-152,TEXT_JOBNIN500_00234_OBORO_000_305,……哈，雖然我想這麼說，<hex:02100103>但為了改善村子，我想多在外地進行學習，<hex:02100103>於是就想了很多點子！
-153,TEXT_JOBNIN500_00234_TSUBAME_000_306,最後決定由我獨自回去向長老們彙報，<hex:02100103>謊稱朧大人在戰鬥中負了傷，不宜長途跋涉……<hex:02100103>因此留下人員看護，痊癒後再回村子。
-154,TEXT_JOBNIN500_00234_OBORO_000_307,只要有鴉的忍者之證作為證據，<hex:02100103>應該就不會有人懷疑任務的成功有假。<hex:02100103>……嗯，完美的策略是也。
-155,TEXT_JOBNIN500_00234_TSUBAME_000_308,嘻嘻嘻……<hex:02100103>朧大人真是的，自從下定決心當個「優等生」，<hex:02100103>就一下變得滑頭起來了呢。
-156,TEXT_JOBNIN500_00234_TSUBAME_000_309,<hex:022903EB0203>大人，請多保重身體……<hex:02100103>相信我們有朝一日定能再次相見……
-157,TEXT_JOBNIN500_00234_TSUBAME_000_310,……<hex:022903EB0203>大人，<hex:02100103>時不時也要指導一下朧大人行禮呢。
-158,TEXT_JOBNIN500_00234_SYSTEM_100_000,「忍者」的故事到此告一段落！<hex:02100103>要開始接下來的「忍者」特職任務，<hex:02100103>需要滿足以下條件。
-159,TEXT_JOBNIN500_00234_SYSTEM_100_001,完成「第七星曆主線任務」中「希望的燈火」。
-160,TEXT_JOBNIN500_00234_SYSTEM_100_002,滿足條件後，和碼頭小屋的朧對話，<hex:02100103>即可開始新的特職任務！
-161,TEXT_JOBNIN500_00234_QIB_001_TODO001,擊敗月海！
-162,TEXT_JOBNIN500_00234_QIB_001_TSUBAME_BATTLETALK_01,我們削減敵方數量，你專心對付月海！
-163,TEXT_JOBNIN500_00234_QIB_001_OBORO_BATTLETALK_01,月海的忍術非同一般……<hex:02100103>但現在的你一定能夠躲開！
-164,TEXT_JOBNIN500_00234_QIB_001_GEKKAI_BATTLETALK_01,區區冒險者……取汝狗頭，就如探囊取物！
-165,TEXT_JOBNIN500_00234_QIB_001_GEKKAI_BATTLETALK_02,愉悅、愉悅……那麼，這招如何？
-166,TEXT_JOBNIN500_00234_QIB_001_GEKKAI_BATTLETALK_03,……哈，該結束了。<hex:02100103>就讓你們開眼見識一下真正強大的忍者之刃吧！
-167,TEXT_JOBNIN500_00234_QIB_001_TSUBAME_BATTLETALK_02,怎、怎麼會……這個忍術是？！
-168,TEXT_JOBNIN500_00234_QIB_001_OBORO_BATTLETALK_02,傳說中的四印忍術？！<hex:02100103>已經超越忍者的極限，掌握了分身之術嗎！
-169,TEXT_JOBNIN500_00234_TSUBAME_BATTLETALK_DEAD,<hex:022903EB0203>大人……你一定要……贏！
-170,TEXT_JOBNIN500_00234_OBORO_BATTLETALK_DEAD,抱歉……後面就託付給你的刃……了……
+0,"TEXT_JOBNIN500_00234_SEQ_00","After much soul-searching, Oboro has reached a resolution."
+1,"TEXT_JOBNIN500_00234_SEQ_01","Oboro politely expresses his gratitude for the assistance you offered in his mission before abruptly informing you that he and his fellow Domans will be journeying on from Eorzea. As a final favor, he has asked you to watch over the recovering Tsubame while he pays one last visit to the place in Eorzea most special to him."
+2,"TEXT_JOBNIN500_00234_SEQ_02","Tsubame's wounds have healed impressively, leading her to surmise that Karasu manipulated his attack on her primarily for visual effect. She is more concerned for Oboro, who she feels is hiding his true feelings from her. Seek him out at his favorite Eorzean haunt, Fool Falls in upper La Noscea."
+3,"TEXT_JOBNIN500_00234_SEQ_03","Initially taken aback at your presence, Oboro soon confesses his true feelings to you. His battle with Karasu has left the shinobi a changed man. No longer willing or able to repress his true self, he has chosen to forsake obligation in favor of following his own heart's desire, which urges him to seek out the truth behind the traitor he hunted for so long. Prepared to face the answer he fears the most, he has resolved to undertake this final mission alone, insisting that Tsubame and you have sacrificed enough on his behalf. No sooner does he leave than Tsubame steps out from the shadows, looking very concerned at his words."
+4,"TEXT_JOBNIN500_00234_SEQ_04","Oboro's words confirm Tsubame's worst fear: that he means to seek out and confront Master Gekkai alone, even if it means sacrificing his life. She explains that she, too, has come to a resolution─to fight at Oboro's side─and has no intention of being denied. Recalling the dying Karasu's last words, Tsubame suggests that you make for Candlekeep Quay and question the guards about any happenings of note in the area."
+5,"TEXT_JOBNIN500_00234_SEQ_05","According to Zahrmerl, everything is quiet on the quay, save for talk of a small private vessel scheduled to arrive in port at the break of dawn. Though it appears that Oboro is already in the area, Tsubame deems it too dangerous to search for him and attempt to make contact at this time, preferring to observe the area from a safe distance until Master Gekkai shows himself. Take up position on the promontory above the quay and keep lookout for any suspicious movements."
+6,"TEXT_JOBNIN500_00234_SEQ_06","Karasu's tale─Oboro's worst fears─is confirmed as true when the Garlean espionage unit commander who sailed into Candlekeep Quay is indeed revealed to be none other than Master Gekkai. Confronted by his former pupil, Gekkai shows no remorse, coolly explaining how he made a simple decision to seek out a stronger master, while at the same time guaranteeing the safety of his village over that of countless Doman commonfolk that were of no import to him. Incensed by his one-time master's callous disdain for the nation he called home, Oboro draws his blade and swears vengeance, and together you, he, and Tsubame defeat the shinobi master. After the battle, Karasu returns from his self-staged death to bequeath to you the final piece of your ninja garb, and to Oboro the soul crystal that will allow him to go home to a hero's welcome, before walking off to parts unknown. His long mission finally at an end, Oboro returns to the dock storehouse. Meet him there to say your farewells."
+7,"TEXT_JOBNIN500_00234_SEQ_07","Upon returning to the storehouse, Oboro imparts to you a final ninjutsu technique, Kassatsu. While the two shinobi initially intended to return home together, Oboro has decided to remain behind to continue his study of Eorzean culture, in hopes of bringing new schools of thought back to his home. From your experiences traveling with Oboro and Tsubame and fighting at their side, it would seem that the future of the village is in good hands.<hex:02100103><hex:02100103>※The next ninja quest will be available from Oboro once you have completed the main scenario quest “Before the Dawn.”"
+8,"TEXT_JOBNIN500_00234_SEQ_08",""
+9,"TEXT_JOBNIN500_00234_SEQ_09",""
+10,"TEXT_JOBNIN500_00234_SEQ_10",""
+11,"TEXT_JOBNIN500_00234_SEQ_11",""
+12,"TEXT_JOBNIN500_00234_SEQ_12",""
+13,"TEXT_JOBNIN500_00234_SEQ_13",""
+14,"TEXT_JOBNIN500_00234_SEQ_14",""
+15,"TEXT_JOBNIN500_00234_SEQ_15",""
+16,"TEXT_JOBNIN500_00234_SEQ_16",""
+17,"TEXT_JOBNIN500_00234_SEQ_17",""
+18,"TEXT_JOBNIN500_00234_SEQ_18",""
+19,"TEXT_JOBNIN500_00234_SEQ_19",""
+20,"TEXT_JOBNIN500_00234_SEQ_20",""
+21,"TEXT_JOBNIN500_00234_SEQ_21",""
+22,"TEXT_JOBNIN500_00234_SEQ_22",""
+23,"TEXT_JOBNIN500_00234_SEQ_23",""
+24,"TEXT_JOBNIN500_00234_TODO_00","Speak with Tsubame."
+25,"TEXT_JOBNIN500_00234_TODO_01","Search for Oboro at Fool Falls."
+26,"TEXT_JOBNIN500_00234_TODO_02","Speak with Tsubame."
+27,"TEXT_JOBNIN500_00234_TODO_03","Speak with Zahrmerl at Candlekeep Quay."
+28,"TEXT_JOBNIN500_00234_TODO_04","Keep watch from the lookout point."
+29,"TEXT_JOBNIN500_00234_TODO_05","Speak with Oboro at the dock storehouse."
+30,"TEXT_JOBNIN500_00234_TODO_06",""
+31,"TEXT_JOBNIN500_00234_TODO_07",""
+32,"TEXT_JOBNIN500_00234_TODO_08",""
+33,"TEXT_JOBNIN500_00234_TODO_09",""
+34,"TEXT_JOBNIN500_00234_TODO_10",""
+35,"TEXT_JOBNIN500_00234_TODO_11",""
+36,"TEXT_JOBNIN500_00234_TODO_12",""
+37,"TEXT_JOBNIN500_00234_TODO_13",""
+38,"TEXT_JOBNIN500_00234_TODO_14",""
+39,"TEXT_JOBNIN500_00234_TODO_15",""
+40,"TEXT_JOBNIN500_00234_TODO_16",""
+41,"TEXT_JOBNIN500_00234_TODO_17",""
+42,"TEXT_JOBNIN500_00234_TODO_18",""
+43,"TEXT_JOBNIN500_00234_TODO_19",""
+44,"TEXT_JOBNIN500_00234_TODO_20",""
+45,"TEXT_JOBNIN500_00234_TODO_21",""
+46,"TEXT_JOBNIN500_00234_TODO_22",""
+47,"TEXT_JOBNIN500_00234_TODO_23",""
+48,"TEXT_JOBNIN500_00234_OBORO_000_000","Ah, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Your return pleases me. I feared I might miss the chance to bid you a proper farewell."
+49,"TEXT_JOBNIN500_00234_OBORO_000_001","Yes, we will be taking our leave from your realm. My mission is complete, and Tsubame's wounds have all but healed. Tradition dictates that we return to our elders to deliver tidings of our success."
+50,"TEXT_JOBNIN500_00234_OBORO_000_002","Redbeak's last words? I will not lie─at first, they weighed heavily on my mind. But in the end, I am a shinobi─I came to this land to perform a role, not out of curiosity or spite. "
+51,"TEXT_JOBNIN500_00234_OBORO_000_003","Mayhap Master Gekkai still lives, mayhap not─it is no longer my concern. Karasu is dead, and with his passing, it is time to close the curtain on this chapter of our lives."
+52,"TEXT_JOBNIN500_00234_OBORO_000_004","Before I leave, I would ask one favor of you. There is a place I would visit before we depart your realm. I would go alone to gather my thoughts."
+53,"TEXT_JOBNIN500_00234_OBORO_000_005","Could you pray look after Tsubame while I am away? Her condition has much improved, but I would not take any chances. Thank you, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>."
+54,"TEXT_JOBNIN500_00234_TSUBAME_000_010","Oboro has not been himself since the two of you returned from your battle with Karasu. He seems strangely...distant. Please speak to him─perhaps your words will reach him where mine have failed."
+55,"TEXT_JOBNIN500_00234_TSUBAME_000_020","Your concern is most touching, but I am quite fine, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. In fact, it would seem that the injuries I suffered were not nearly as grave as they appeared on first glance. It would appear that Karasu meant more to fan the flames of Oboro's ire than to cause true harm."
+56,"TEXT_JOBNIN500_00234_TSUBAME_000_021","Speaking of Oboro, have you seen him about? It is not like him to disappear in the midst of our preparations for departure."
+57,"TEXT_JOBNIN500_00234_TSUBAME_000_022","Alone with his thoughts, you say? Where do you suppose he might have gone?"
+58,"TEXT_JOBNIN500_00234_Q1_000_000","Where might Oboro have traveled?"
+59,"TEXT_JOBNIN500_00234_A1_000_001","Limsa Lominsa."
+60,"TEXT_JOBNIN500_00234_A1_000_002","Fool Falls."
+61,"TEXT_JOBNIN500_00234_A1_000_003","Bronze Lake."
+62,"TEXT_JOBNIN500_00234_TSUBAME_000_030","Truly? Perhaps Eorzeans feel most at peace in a bustling city–state, but that doesn't sound like Oboro at all."
+63,"TEXT_JOBNIN500_00234_TSUBAME_000_035","The place where the two of you practiced, yes? He always has had a fondness for waterfalls. Yes, that is it! It must be!"
+64,"TEXT_JOBNIN500_00234_TSUBAME_000_036","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, Oboro is not himself of late. Perhaps I worry overmuch, but I could never forgive myself if something ill were to befall him. You <hex:021A020203>will<hex:021A020103> go look after him for me, will you?"
+65,"TEXT_JOBNIN500_00234_TSUBAME_000_037","I seek not to change his heart, if his heart is truly made up. I wish only to know his true feelings, that I might support him in whatever humble way I can."
+66,"TEXT_JOBNIN500_00234_TSUBAME_000_050","Bronze Lake? Oboro does enjoy a bath, but the hustle and bustle of that place was not to his liking. Knowing him as I do, I cannot help but feel he would seek out more peaceful environs..."
+67,"TEXT_JOBNIN500_00234_TSUBAME_000_060","I seek not to change Oboro's heart, if his heart is truly made up. I wish only to know his true feelings, that I might support him in whatever humble way I can."
+68,"TEXT_JOBNIN500_00234_OBORO_000_090","What are you doing here, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>? I took you for a <hex:02080FE905FF06>woman<hex:FF04>man<hex:03> of your word..."
+69,"TEXT_JOBNIN500_00234_OBORO_000_091","...Tsubame sent you, didn't she? It looks like I was the fool for thinking I could fool two who know me so well."
+70,"TEXT_JOBNIN500_00234_OBORO_000_095","Ever since that day, this is the only place in the world where I can find a moment's respite from the turmoil that rages within me. And yet, the instant the sound of the crashing waters fade from earshot, it all comes flooding back..."
+71,"TEXT_JOBNIN500_00234_OBORO_000_096","You have proven yourself a true friend to us, and a worthy shinobi in your own right. Answer this for me, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>: for what, for <hex:021A020203>whom<hex:021A020103> do you wield your blade?"
+72,"TEXT_JOBNIN500_00234_Q2_000_000","For whom or what do you fight?"
+73,"TEXT_JOBNIN500_00234_A2_000_001","For myself."
+74,"TEXT_JOBNIN500_00234_A2_000_002","For power."
+75,"TEXT_JOBNIN500_00234_A2_000_003","For those around me."
+76,"TEXT_JOBNIN500_00234_A2_000_004","For reasons I alone shall know."
+77,"TEXT_JOBNIN500_00234_OBORO_000_100","A clear, unwavering answer worthy of you, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Yes─why fight, if not for that which you believe is unquestionably right?"
+78,"TEXT_JOBNIN500_00234_OBORO_000_110","Puissant words from a puissant <hex:02080FE905FF06>woman<hex:FF04>man<hex:03>, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Yes, without true power, how can one hope to stand up for that which you truly believe?"
+79,"TEXT_JOBNIN500_00234_OBORO_000_120","...Yes. I knew you a <hex:02080FE905FF06>woman<hex:FF04>man<hex:03> after my own heart, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Standing here just now, that is the answer that I arrived at as well."
+80,"TEXT_JOBNIN500_00234_OBORO_000_130","Forgive me, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>─it was a fool question. Well do I know that true conviction must come from within. And yet..."
+81,"TEXT_JOBNIN500_00234_OBORO_000_140","I speak in earnest to you, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Our battle with Karasu, his dying words... They left me a changed man, and I can no longer deny what I have become."
+82,"TEXT_JOBNIN500_00234_OBORO_000_141","For so many years, I questioned nothing. Tradition, custom, my mission... I was a shinobi─a blade─and a blade does not think. I shut off the doubts, the emotions that threatened to rise to the surface, and told myself <hex:021A020203>this<hex:021A020103> was true presence of mind."
+83,"TEXT_JOBNIN500_00234_OBORO_000_142","I lie to myself no longer. In confronting Karasu, I confronted myself. Looking upon Tsubame, lying battered and beaten like my countrymen so many years ago, I felt a single, all-consuming desire─to visit retribution upon those who wronged us, and to do so by my own hand."
+84,"TEXT_JOBNIN500_00234_OBORO_000_143","I have made my decision. I shall go and face the truth, for it is only in doing so that my heart will ever know true peace. I will go alone, and I will hear no more of it. You and Tsubame have sacrificed and suffered more than enough─the battle that awaits is mine and mine alone."
+85,"TEXT_JOBNIN500_00234_OBORO_000_144","If it is Master Gekkai I find at the end of my journey, so be it. One or both of us will die─it matters not. Either way, my mind will be at rest. You have been a true friend and ally, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Farewell."
+86,"TEXT_JOBNIN500_00234_TSUBAME_000_145","(-Tsubame-)Oboro..."
+87,"TEXT_JOBNIN500_00234_TSUBAME_000_150","Forgive me, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. It was as if my legs moved of their own accord."
+88,"TEXT_JOBNIN500_00234_TSUBAME_000_151","It is just as I imagined. Oboro means to confront Master Gekkai, even if it costs him his life."
+89,"TEXT_JOBNIN500_00234_TSUBAME_000_152","He has made his decision, and I will not stand in his way. But neither will he stand in the way of mine. Wheresoever Oboro fights, I will fight beside him."
+90,"TEXT_JOBNIN500_00234_TSUBAME_000_153","If it is not too much to ask, pray lend your strength to us this one final time, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. You have proven yourself a true shinobi, and your blade, unfettered by tradition or convention, may just be what turns the tide of battle in our favor."
+91,"TEXT_JOBNIN500_00234_TSUBAME_000_154","Oboro did not say where he was headed, but we already know, don't we? Karasu's last words: Candlekeep Quay. Let us see what the guards there might tell us."
+92,"TEXT_JOBNIN500_00234_ZAHRMERL_000_200","Any unusual happenings of late? Not as such, save for a small private vessel scheduled to dock tomorrow at the crack of dawn. Other than that, it's all pretty quiet around these parts, as it's wont to be."
+93,"TEXT_JOBNIN500_00234_ZAHRMERL_000_201","Funny thing, though. You're not the first one to ask that question. A milkmaid─a fairly comely one at that─came by not minutes ago asking the very same question."
+94,"TEXT_JOBNIN500_00234_TSUBAME_000_203","...Is that so? The milkmaid is one of Oboro's favorite costumes. As we might suspect, he's one step ahead of us."
+95,"TEXT_JOBNIN500_00234_TSUBAME_000_204","If we could rendezvous with him somehow, it would give us the advantage in numbers. And yet, the risk of exposing ourselves to our foe is too great. We should observe from the shadows until Master Gekkai reveals himself."
+96,"TEXT_JOBNIN500_00234_TSUBAME_000_205","I will take up position on the western shoreline. You take to the high ground and keep watch from the promontory over there. Between the two of us, that should cover the entire quay."
+97,"TEXT_JOBNIN500_00234_ZAHRMERL_000_210","Any unusual happenings of late? Not as such, save for a small private vessel scheduled to dock tomorrow at the crack of dawn. Other than that, it's all pretty quiet around these parts, as it's wont to be."
+98,"TEXT_JOBNIN500_00234_STRANGE00234_000_100","Who goes there!? Show yourself!"
+99,"TEXT_JOBNIN500_00234_GEKKAI_000_101","(-???-)I know a rat when I smell one."
+100,"TEXT_JOBNIN500_00234_OBORO_000_102","I trust that I am speaking with the Garlean Empire's chief of espionage and covert operations."
+101,"TEXT_JOBNIN500_00234_HATENA_000_103","(-???-)...None other."
+102,"TEXT_JOBNIN500_00234_GEKKAI_000_104","But you can call me “Master” if you like, young one. For old times' sake..."
+103,"TEXT_JOBNIN500_00234_GEKKAI_000_105","You're full of surprises these days, young one. The Oboro I knew would have been on the first ship back to Doma once Karasu cawed his last caw."
+104,"TEXT_JOBNIN500_00234_GEKKAI_000_106","You look sturdier than I remember, if a bit gaunt in the cheeks. Are you getting enough rest? You always worked just a bit <hex:021A020203>too<hex:021A020103> hard for your own good."
+105,"TEXT_JOBNIN500_00234_OBORO_000_107","All these years...it was you... You, who taught me the way of the shinobi... You, who I loved as a father! Why, Master... Why!?"
+106,"TEXT_JOBNIN500_00234_GEKKAI_000_108","Why else...? For our village, of course. I simply made the choice that any true shinobi would make."
+107,"TEXT_JOBNIN500_00234_GEKKAI_000_109","Don't tell me you require a history lesson, young one. Since the time of our ancestors, the shinobi have served many masters."
+108,"TEXT_JOBNIN500_00234_GEKKAI_000_110","For many years, I served Doma. Then, when the time was right, I chose a more powerful master. Fortunately for me─and for our village─my services were in high demand."
+109,"TEXT_JOBNIN500_00234_GEKKAI_000_111","Have you never wondered <hex:021A020203>why<hex:021A020103>, Oboro? Why, when the Doman rebellion was crushed by the Empire, was our village alone spared Garlemald's wrath? It was because of <hex:021A020203>my<hex:021A020103> actions. <hex:021A020203>I<hex:021A020103> protected us where the entire nation of Doma could not."
+110,"TEXT_JOBNIN500_00234_OBORO_000_112","Protected!? <hex:021A020203>You betrayed us all<hex:021A020103>! The people of Doma trusted us!"
+111,"TEXT_JOBNIN500_00234_OBORO_000_113","Do you know how many Domans died that day!? We swore our lives to protect them, and you sold them into slaughter! Do you feel <hex:021A020203>nothing<hex:021A020103>!? Not even a twinge of remorse at the massacre you brought upon your countrymen?"
+112,"TEXT_JOBNIN500_00234_GEKKAI_000_114","Countrymen? What is Doma to me when weighed against the ancient and glorious history of my fellow <hex:021A020203>shinobi<hex:021A020103>? History is littered with the husks of fragile men who gave their worthless lives to bring glory to their betters."
+113,"TEXT_JOBNIN500_00234_OBORO_000_115","I hoped against hope that Karasu was wrong. That his story was naught but the twisted lies of a sad fool. But no...<hex:021A020203>I<hex:021A020103> was the fool. Master─no, <hex:021A020203>Gekkai<hex:021A020103>, for you are no master of mine... In the name of the souls of the untold thousands whose blood is on your hands, I declare your life forfeit."
+114,"TEXT_JOBNIN500_00234_GEKKAI_000_116","Hahaha... Revenge, is it? Revenge for foot soldiers and peasants? Is <hex:021A020203>that<hex:021A020103> what this is all about? That's why you lingered here like a festering boil after your allotted mission was complete?"
+115,"TEXT_JOBNIN500_00234_GEKKAI_000_117","Forsaking your role for some selfish flight of fancy will not earn you many friends back home, Oboro. Nor here..."
+116,"TEXT_JOBNIN500_00234_GEKKAI_000_118","The more time I spend in Garlemald, the more I realize that the Empire quite suits me. There is something to be said for a culture that values merciless strength above all. I've won over quite a few loyal subordinates..."
+117,"TEXT_JOBNIN500_00234_GEKKAI_000_119","Poor little one... All your lofty words, and here you stand alone. You are alone because you are <hex:021A020203>weak<hex:021A020103>..."
+118,"TEXT_JOBNIN500_00234_HATENA_000_120","(-???-)He has no subordinates, this is true. This isn't an army, after all."
+119,"TEXT_JOBNIN500_00234_TSUBAME_000_121","But Oboro has something you will never have: comrades who believe in him and the ideals for which he fights!"
+120,"TEXT_JOBNIN500_00234_OBORO_000_122","Tsubame! How did you...!?"
+121,"TEXT_JOBNIN500_00234_TSUBAME_000_123","Not just me, Oboro. <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, too, has come to fight at your side."
+122,"TEXT_JOBNIN500_00234_GEKKAI_000_124","<hex:021A020203>Comrades<hex:021A020103>!? You would choose the company of a glorified sellsword over that of the master who made you what you are? Oh, how far my pupils have fallen!"
+123,"TEXT_JOBNIN500_00234_TSUBAME_000_125","<hex:021A020203>You<hex:021A020103> are the one who has fallen, Gekkai. <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> fights with a sense of honor and purpose that you have long forgotten."
+124,"TEXT_JOBNIN500_00234_OBORO_000_126","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>... I cannot begin to express my gratitude."
+125,"TEXT_JOBNIN500_00234_OBORO_000_127","My friends, my comrades─I am honored to fight at your side. Let us show this false master what true strength is!"
+126,"TEXT_JOBNIN500_00234_OBORO_000_200","Tsubame, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>...thank you. It is through your belief in me that I was finally able to believe in myself..."
+127,"TEXT_JOBNIN500_00234_OBORO_000_201","And Karasu... You had a hand in bringing this chapter to a close. You may be gone, but you are not forgotten..."
+128,"TEXT_JOBNIN500_00234_KARASU_000_202","(-???-)Awww, that almost sounds like a eulogy! It almost makes me wish I were actually dead..."
+129,"TEXT_JOBNIN500_00234_OBORO_000_203","K-Karasu! You still live!? But...but how!?"
+130,"TEXT_JOBNIN500_00234_KARASU_000_204","Well, when it comes to playing dead, I did learn from one of the best, you know!"
+131,"TEXT_JOBNIN500_00234_OBORO_000_205","...I see. But why vanish, only to return?"
+132,"TEXT_JOBNIN500_00234_KARASU_000_206","Oh, just an undelivered present."
+133,"TEXT_JOBNIN500_00234_TSUBAME_000_207","This is...the fifth and final piece of <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>'s traditional garb!"
+134,"TEXT_JOBNIN500_00234_KARASU_000_208","Let it never be said that I don't complete my missions. Even if it's just playing delivery boy..."
+135,"TEXT_JOBNIN500_00234_OBORO_000_209","Wait, Karasu! The elders who named you traitor to our village. They were simply blind to the truth, as was I..."
+136,"TEXT_JOBNIN500_00234_OBORO_000_211","If I explain, they will surely see reason. Please, let us return home...together."
+137,"TEXT_JOBNIN500_00234_KARASU_000_212","Wh-What's this now!? Now <hex:021A020203>that<hex:021A020103> wasn't in the script! How soon we forget, Oboro... I was not <hex:021A020203>the<hex:021A020103> traitor, no, but I did follow him. That makes me just as much <hex:021A020203>a<hex:021A020103> traitor, at least in their eyes."
+138,"TEXT_JOBNIN500_00234_OBORO_000_213","...Perhaps so. At the same time, you risked your life for what you believed in. We are not so different, you and I."
+139,"TEXT_JOBNIN500_00234_KARASU_000_214","The sentiment is most touching, but my answer remains no. The village was always a bit too cramped for me. I prefer to spread my wings on a grander stage."
+140,"TEXT_JOBNIN500_00234_KARASU_000_215","The honorable deeds of my present do not erase the terrible crimes of my past. I was a spy and assassin─quite a good one, I might add─and for all the blood Gekkai has on his hands, mine are nearly as red."
+141,"TEXT_JOBNIN500_00234_KARASU_000_216","In the elders' minds, you had one mission, Oboro. Why complicate the matter?"
+142,"TEXT_JOBNIN500_00234_KARASU_000_217","Bring this back, and tell the others what they want to hear─the traitor Karasu Redbeak is no more, slain at your hand. You will be welcomed as a hero, while my fate will be even grander. I will at long last be <hex:021A020203>free<hex:021A020103>!"
+143,"TEXT_JOBNIN500_00234_OBORO_000_218","If that is how you would have it, Karasu, then so it shall be. But this I promise you: slowly but surely, our village will change. I will take what I have learned and build a village that honors all of our fallen. A village <hex:021A020203>you<hex:021A020103> could be proud to call home."
+144,"TEXT_JOBNIN500_00234_KARASU_000_219","Just don't get too cocky, now, or I'll have to come back to put you and your whole village in its place."
+145,"TEXT_JOBNIN500_00234_OBORO_000_220","I look forward to that day. Let us meet again on the battlefield, and pit our ideals against each other as we did that day."
+146,"TEXT_JOBNIN500_00234_TSUBAME_000_250","The flood of emotions I felt when you leaped to our rescue, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>...I have no words to describe it. So I will only say again: thank you for being a friend."
+147,"TEXT_JOBNIN500_00234_OBORO_000_300","It is strange, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>... All this time, I believed I was instructing you in the way of the shinobi, and yet now that all is done, I feel that I should be the one to call you teacher."
+148,"TEXT_JOBNIN500_00234_OBORO_000_301","Thanks to you, I finally achieved true clarity and presence of mind. My blade is stronger for it, and more important still, I now understand what I am truly fighting for."
+149,"TEXT_JOBNIN500_00234_OBORO_000_302","Body or mind─by any measure, you are every bit my equal as a shinobi. Save for one final technique which I will now impart to you: Kassatsu."
+150,"TEXT_JOBNIN500_00234_OBORO_000_303","Use it to rearrange the energies channeled into your body, and unleash powerful ninjutsu techniques one after the next. But be warned. In our tongue, it means quite literally “life and death.” Which one it means for <hex:021A020203>you<hex:021A020103> will depend entirely on your presence of mind."
+151,"TEXT_JOBNIN500_00234_OBORO_000_304","And with this, I believe we have both satisfied the respective sides of our initial agreement. We will return to our village...which means I must bid you farewell."
+152,"TEXT_JOBNIN500_00234_OBORO_000_305","...Though perhaps not this day. I would see my home change for the better, and introduce new ways of thinking to complement the old. But before I can, there is much I still must learn about this land."
+153,"TEXT_JOBNIN500_00234_TSUBAME_000_306","And so I will go on ahead. I will report to our elders the success of Oboro's mission, and inform them that he will return as soon as he recuperates from the wounds he sustained in battle."
+154,"TEXT_JOBNIN500_00234_OBORO_000_307","With the soul crystal that Karasu gave us, no one will doubt the success of our mission. It is a flawless plan, if I do say so myself!"
+155,"TEXT_JOBNIN500_00234_TSUBAME_000_308","Yes, how fortunate we were that <hex:021A020203>I<hex:021A020103> thought of it. Never change, Oboro─promise me that."
+156,"TEXT_JOBNIN500_00234_TSUBAME_000_309","And with that, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, it seems that it is <hex:021A020203>I<hex:021A020103> who will bid you farewell. You've been a true friend, and my heart awaits the day when we shall meet again."
+157,"TEXT_JOBNIN500_00234_TSUBAME_000_310","...But you <hex:021A020203>will<hex:021A020103> return to give Oboro lessons from time to time, yes? I'm not convinced that his bows are as masterful as <hex:021A020203>he<hex:021A020103> seems to think..."
+158,"TEXT_JOBNIN500_00234_SYSTEM_100_000","This concludes the ninja quests for FINAL FANTASY XIV: A Realm Reborn. In order to undertake the next series of quests, you must first meet the following requirements:"
+159,"TEXT_JOBNIN500_00234_SYSTEM_100_001","※You must have completed the main scenario quest “Before the Dawn.”"
+160,"TEXT_JOBNIN500_00234_SYSTEM_100_002","Once you have done so, the next ninja quest will be available from Oboro."
+161,"TEXT_JOBNIN500_00234_QIB_001_TODO001","Defeat Gekkai!"
+162,"TEXT_JOBNIN500_00234_QIB_001_TSUBAME_BATTLETALK_01","Oboro and I will thin the ranks! Make Gekkai feel your blade!"
+163,"TEXT_JOBNIN500_00234_QIB_001_OBORO_BATTLETALK_01","Gekkai's ninjutsu is like nothing I've ever seen... But you can evade them!"
+164,"TEXT_JOBNIN500_00234_QIB_001_GEKKAI_BATTLETALK_01","True talent is wasted on peons like you..."
+165,"TEXT_JOBNIN500_00234_QIB_001_GEKKAI_BATTLETALK_02","How <hex:021A020203>amusing<hex:021A020103>! Now, why don't we try <hex:021A020203>this<hex:021A020103>?"
+166,"TEXT_JOBNIN500_00234_QIB_001_GEKKAI_BATTLETALK_03","I tire of these games. Behold...true...power!"
+167,"TEXT_JOBNIN500_00234_QIB_001_TSUBAME_BATTLETALK_02","This technique... It cannot be...!"
+168,"TEXT_JOBNIN500_00234_QIB_001_OBORO_BATTLETALK_02","The lost fourth mudra!? But it was said to be pure myth!"
+169,"TEXT_JOBNIN500_00234_TSUBAME_BATTLETALK_DEAD","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! Please...fight on!"
+170,"TEXT_JOBNIN500_00234_OBORO_BATTLETALK_DEAD","I can fight...no further... I put my trust...in you..."

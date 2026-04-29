@@ -2,112 +2,112 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_JOBAOZ650_03991_SEQ_00,黃金港的馬丁正擺出一副營業笑容。
-1,TEXT_JOBAOZ650_03991_SEQ_01,到了馬丁與黃金頭巾比試的日期。經過一番調查，馬丁對這場比試充滿了自信。不過在比試開始之前，需要找回被賣掉的藍色假面服裝。為了向魚道打聽衣服的購買人，和黃金港小金街的馬丁談談。
-2,TEXT_JOBAOZ650_03991_SEQ_02,和馬丁進行了交談，從魚道那裡得知衣服是被商人們買走了。和小金街的商人們談談。
-3,TEXT_JOBAOZ650_03991_SEQ_03,和商人們進行了交談，得知衣服剛剛被買走了。和小金街的拉拉菲爾族的男性談談。
-4,TEXT_JOBAOZ650_03991_SEQ_04,拉拉菲爾族的男性正是努提巴·奔提巴。他承認了自己是青色頭巾並道歉，然後將買到的<hex:022811FF0A>EventItem<hex:F61E90670103>交了出來。將藍色假面的服裝交給黃金港異人街城門前的馬丁。
-5,TEXT_JOBAOZ650_03991_SEQ_05,將<hex:022811FF0A>EventItem<hex:F61E90670103>交給了馬丁，馬丁與黃金頭巾的比試開始了。面對還會使用白魔法和黑魔法的黃金頭巾，馬丁不敵被擊敗了。和異人街城門前的馬丁談談。
-6,TEXT_JOBAOZ650_03991_SEQ_06,和馬丁進行了交談，埋伏了黃金頭巾。他表示自己沒有老師，任何人都沒法模仿自己的技能。和第二防波堤的馬丁談談。
-7,TEXT_JOBAOZ650_03991_SEQ_07,和馬丁進行了交談。為了弄清楚黃金頭巾的真實身份，馬丁決定再次與其比試一場。在此期間繼續不懈地努力鍛鍊，學會青魔法「超振動」後，再去找馬丁吧。<hex:02100103><hex:02100103>※青魔法師的等級達到68級以上並學會青魔法「超振動」後，可以從第二防波堤的馬丁那裡領取下一個青魔法師任務。
-8,TEXT_JOBAOZ650_03991_SEQ_08,
-9,TEXT_JOBAOZ650_03991_SEQ_09,
-10,TEXT_JOBAOZ650_03991_SEQ_10,
-11,TEXT_JOBAOZ650_03991_SEQ_11,
-12,TEXT_JOBAOZ650_03991_SEQ_12,
-13,TEXT_JOBAOZ650_03991_SEQ_13,
-14,TEXT_JOBAOZ650_03991_SEQ_14,
-15,TEXT_JOBAOZ650_03991_SEQ_15,
-16,TEXT_JOBAOZ650_03991_SEQ_16,
-17,TEXT_JOBAOZ650_03991_SEQ_17,
-18,TEXT_JOBAOZ650_03991_SEQ_18,
-19,TEXT_JOBAOZ650_03991_SEQ_19,
-20,TEXT_JOBAOZ650_03991_SEQ_20,
-21,TEXT_JOBAOZ650_03991_SEQ_21,
-22,TEXT_JOBAOZ650_03991_SEQ_22,
-23,TEXT_JOBAOZ650_03991_SEQ_23,
-24,TEXT_JOBAOZ650_03991_TODO_00,和馬丁對話
-25,TEXT_JOBAOZ650_03991_TODO_01,和小金街的商人們對話
-26,TEXT_JOBAOZ650_03991_TODO_02,和拉拉菲爾族的男性對話
-27,TEXT_JOBAOZ650_03991_TODO_03,將<hex:022811FF0A>EventItem<hex:F61E90670103>交給馬丁
-28,TEXT_JOBAOZ650_03991_TODO_04,和馬丁對話
-29,TEXT_JOBAOZ650_03991_TODO_05,再次和馬丁對話
-30,TEXT_JOBAOZ650_03991_TODO_06,
-31,TEXT_JOBAOZ650_03991_TODO_07,
-32,TEXT_JOBAOZ650_03991_TODO_08,
-33,TEXT_JOBAOZ650_03991_TODO_09,
-34,TEXT_JOBAOZ650_03991_TODO_10,
-35,TEXT_JOBAOZ650_03991_TODO_11,
-36,TEXT_JOBAOZ650_03991_TODO_12,
-37,TEXT_JOBAOZ650_03991_TODO_13,
-38,TEXT_JOBAOZ650_03991_TODO_14,
-39,TEXT_JOBAOZ650_03991_TODO_15,
-40,TEXT_JOBAOZ650_03991_TODO_16,
-41,TEXT_JOBAOZ650_03991_TODO_17,
-42,TEXT_JOBAOZ650_03991_TODO_18,
-43,TEXT_JOBAOZ650_03991_TODO_19,
-44,TEXT_JOBAOZ650_03991_TODO_20,
-45,TEXT_JOBAOZ650_03991_TODO_21,
-46,TEXT_JOBAOZ650_03991_TODO_22,
-47,TEXT_JOBAOZ650_03991_TODO_23,
-48,TEXT_JOBAOZ650_03991_MARTYN_100_000,<hex:022903EB0203>，<hex:02100103>你的青魔法又精進了不少啊，<hex:02100103>不過你先學會青魔法「嗶哩嗶哩」之後再來找我吧。
-49,TEXT_JOBAOZ650_03991_SYSTEM_100_001,學會青魔法「嗶哩嗶哩」之後，<hex:02100103>才能從馬丁那裡領取下一個青魔法師任務。
-50,TEXT_JOBAOZ650_03991_MARTYN_200_000,<hex:022903EB0203>，你的青魔法又精進了不少啊，<hex:02100103>看來你已經學會青魔法「嗶哩嗶哩」了……
-51,TEXT_JOBAOZ650_03991_MARTYN_000_000,終於到了我與黃金頭巾比試的日子了。<hex:02100103>為了今日，我可是反反覆復調查了蒙面鬥將大會好幾次呢。
-52,TEXT_JOBAOZ650_03991_MARTYN_000_001,我發現黃金頭巾使用的都是蒙面鬥將大會上魔物的技能，<hex:02100103>他肯定是將那些技能以青魔法的形式學習了下來。
-53,TEXT_JOBAOZ650_03991_MARTYN_000_002,哈哈，但是他會用的技能太少了！<hex:02100103>不像我掌握的青魔法種類又多威力又強，<hex:02100103>簡直就是勝券在握！
-54,TEXT_JOBAOZ650_03991_Q1_000_000,如何作答？
-55,TEXT_JOBAOZ650_03991_A1_000_001,先別下定論
-56,TEXT_JOBAOZ650_03991_A1_000_002,不能輕敵
-57,TEXT_JOBAOZ650_03991_MARTYN_000_003,沒事，不用擔心。<hex:02100103>唯一的問題是……
-58,TEXT_JOBAOZ650_03991_MARTYN_000_004,我現在沒有藍色假面那身衣服。<hex:02100103>少了那身衣服，我完全沒法正常發揮。
-59,TEXT_JOBAOZ650_03991_MARTYN_000_005,所以我就想把魚道抓來，打聽一下那身衣服賣給誰了。<hex:02100103>你能幫幫我嗎？
-60,TEXT_JOBAOZ650_03991_MARTYN_000_006,謝謝。<hex:02100103>茶館的工作我已經拜託好同事替班了，<hex:02100103>我們現在就去小金街的巷子裡埋伏魚道吧。
-61,TEXT_JOBAOZ650_03991_MARTYN_000_010,現在就等魚道現身了……
-62,TEXT_JOBAOZ650_03991_GYODO_000_011,賣入場券啦噗！賣入場券啦噗！<hex:02100103>啊、怎麼又是<hex:020813E905FF07>大姐<hex:FF07>大哥<hex:03>你們啊噗！
-63,TEXT_JOBAOZ650_03991_MARTYN_000_012,我有事情想問你。<hex:02100103>你把我那身衣服賣給誰了？<hex:02100103>那是我很重要的一身衣服，現在正急著用呢。
-64,TEXT_JOBAOZ650_03991_GYODO_000_013,唔噗噗……那身衣服並沒有成套出售，<hex:02100103>是分開拍賣給幾個古董商了噗。<hex:02100103>應該是分別被樂座街和小金街的商人買走了噗。
-65,TEXT_JOBAOZ650_03991_GYODO_000_014,現在一定正在各個店裡展示出售呢噗。<hex:02100103>你真的想買回來的話，最好動作快一點噗。
-66,TEXT_JOBAOZ650_03991_MARTYN_000_015,衣服被不同的人買走了啊……<hex:02100103>那我就去樂座街看看吧，<hex:02100103>小金街這邊就麻煩你了。
-67,TEXT_JOBAOZ650_03991_MARTYN_000_016,如果發現了那身衣服就拜託你先買下來，<hex:02100103>然後拿到黃金閣的城門前，我們再算一下錢。<hex:02100103>拜託你了！
-68,TEXT_JOBAOZ650_03991_MARTYN_000_017,（★未使用／削除予定★）
-69,TEXT_JOBAOZ650_03991_MUTO_000_020,你在找從鯰魚精那裡拍賣來的東西？<hex:02100103>你說的是那身進口的藍色衣服吧。<hex:02100103>真是不巧啊，剛剛被買走了。
-70,TEXT_JOBAOZ650_03991_ITTO_000_021,從鯰魚精那裡拍賣來的東西啊……<hex:02100103>你也想買那根進口的稀罕手杖？
-71,TEXT_JOBAOZ650_03991_ITTO_000_022,那根手杖剛剛被一位拉拉菲爾族的男性買走了。<hex:02100103>他應該還在附近吧。
-72,TEXT_JOBAOZ650_03991_MUTO_000_025,（★未使用／削除予定★）
-73,TEXT_JOBAOZ650_03991_ITTO_000_026,（★未使用／削除予定★）
-74,TEXT_JOBAOZ650_03991_NUTIBABUNTIBA_000_030,你、你是！
-75,TEXT_JOBAOZ650_03991_NUTIBABUNTIBA_000_031,(-努提巴·奔提巴-)對不起，下意識就想逃跑了。<hex:02100103>好久不見，我的確是努提巴·奔提巴。
-76,TEXT_JOBAOZ650_03991_NUTIBABUNTIBA_000_032,(-努提巴·奔提巴-)我不想對你撒謊，所以乾脆說開了吧。<hex:02100103>正如馬丁老師所言，我就是青色頭巾。
-77,TEXT_JOBAOZ650_03991_NUTIBABUNTIBA_000_033,(-努提巴·奔提巴-)從老師那裡盜走靈魂水晶、弄出蒙面鬥將大會和青仙術，<hex:02100103>這些都是我幹的。<hex:02100103>我知道自己做了壞事，也不覺得自己能夠被原諒。
-78,TEXT_JOBAOZ650_03991_NUTIBABUNTIBA_000_034,(-努提巴·奔提巴-)但是我這麼做是有原因的，<hex:02100103>只是現在還不能說明……
-79,TEXT_JOBAOZ650_03991_NUTIBABUNTIBA_000_035,(-努提巴·奔提巴-)我看到店鋪裡在售賣藍色假面的衣服，就把它們買下來了，<hex:02100103>請你幫我把它們還給老師吧。<hex:02100103>雖然我覺得這樣做並不能減輕我的罪惡……
-80,TEXT_JOBAOZ650_03991_NUTIBABUNTIBA_000_036,(-努提巴·奔提巴-)之後再會面，就是比試的對手了。<hex:02100103>雖然我祈禱老師能夠驍勇奮戰，但他應該打不過黃金頭巾……<hex:02100103>那麼，再會了。
-81,TEXT_JOBAOZ650_03991_MARTYN_000_040,真是遺憾，我去遲了一步。<hex:02100103>在樂座街出售的衣服都被買走了，你那邊情況如何？
-82,TEXT_JOBAOZ650_03991_MARTYN_000_041,居然全部買到了嗎？！<hex:02100103>太感謝了，這樣我就可以全力發揮了！
-83,TEXT_JOBAOZ650_03991_MARTYN_000_042,什麼，是努提巴·奔提巴給你的？<hex:02100103>他到底想做什麼啊……
-84,TEXT_JOBAOZ650_03991_MARTYN_100_042,算了，現在先把精力集中在與黃金頭巾的決戰上吧，<hex:02100103>分散了注意力的話，說不定原本能取勝的戰鬥也贏不了了呢。
-85,TEXT_JOBAOZ650_03991_MARTYN_000_043,接下來就由我第三代藍色假面<hex:02100103>來裝點這異國的盛大舞台吧！
-86,TEXT_JOBAOZ650_03991_KUGANEMC_000_070,走過路過不要錯過！<hex:02100103>今夜的蒙面鬥將大會即將上演的是<hex:02100103>我們的明星鬥士「黃金頭巾」的公開對戰！
-87,TEXT_JOBAOZ650_03991_KUGANEMC_000_071,而他的對手，則是自西方遠道而來的異人挑戰者！<hex:02100103>其名為——藍色假面！
-88,TEXT_JOBAOZ650_03991_SPECTATORMAN03991_000_072,什麼啊，這不就是在模仿青色頭巾嗎？<hex:02100103>外來的假貨怎麼打得贏黃金頭巾啊！
-89,TEXT_JOBAOZ650_03991_MARTYN_000_073,黃金頭巾，<hex:02100103>就由我這個真正的青魔法師來讓你領教青魔法的威力！
-90,TEXT_JOBAOZ650_03991_MARTYN_000_074,吃我強力一擊！
-91,TEXT_JOBAOZ650_03991_GOGO_000_075,(-黃金頭巾-)吃我強力一擊！
-92,TEXT_JOBAOZ650_03991_MARTYN_000_076,這、這是什麼怪力啊……
-93,TEXT_JOBAOZ650_03991_KUGANEMC_000_077,哦喲，看來挑戰者也會使用不可思議的法術呢，<hex:02100103>我們的黃金頭巾會如何應敵呢？！
-94,TEXT_JOBAOZ650_03991_MARTYN_000_078,讓你見識一下我的魔法必殺技！
-95,TEXT_JOBAOZ650_03991_GOGO_000_079,(-黃金頭巾-)讓你見識一下我的魔法必殺技！
-96,TEXT_JOBAOZ650_03991_MARTYN_000_080,怎、怎麼會這樣……你不是青魔法師嗎？<hex:02100103>你到底是什麼人？
-97,TEXT_JOBAOZ650_03991_KUGANEMC_000_081,啊，藍色假面倒下了！<hex:02100103>我們的黃金頭巾漂亮地贏得了挑戰！
-98,TEXT_JOBAOZ650_03991_MARTYN_000_090,我輸了……真是顏面無光。<hex:02100103>這樣一來，也沒法要求他們停辦蒙面鬥將大會了……
-99,TEXT_JOBAOZ650_03991_MARTYN_000_091,不過比起這個，我更在意黃金頭巾的真實身份。<hex:02100103>在我調查他時，那傢伙只會使用魔物的技能。<hex:02100103>但這次比試中，他卻接連釋放了神聖與核爆。
-100,TEXT_JOBAOZ650_03991_MARTYN_000_092,不僅僅是青魔法，這種連白魔法和黑魔法都可以操控的神秘人物，<hex:02100103>讓我這個魔法學研究者熱血沸騰啊。<hex:02100103>我想直接與黃金頭巾談一談，我們一起在這裡等他出來吧。
-101,TEXT_JOBAOZ650_03991_MARTYN_000_093,黃金頭巾，我承認我完全不是你的對手。<hex:02100103>但你擊敗我所使用的技能，看起來非同一般啊，<hex:02100103>我可以問一問你師承何處嗎？
-102,TEXT_JOBAOZ650_03991_GOGO_000_094,(-黃金頭巾-)我沒有老師，<hex:02100103>我的絕技是獨一無二的……任何人都無法模仿。
-103,TEXT_JOBAOZ650_03991_KAGEYAMA_000_095,喪家犬就趕緊滾吧！<hex:02100103>哈哈哈哈哈哈哈哈哈！
-104,TEXT_JOBAOZ650_03991_MARTYN_000_096,沒有老師……難道這些都是那傢伙自己想出來的？<hex:02100103>到底是怎麼一回事啊……
-105,TEXT_JOBAOZ650_03991_MARTYN_000_097,雖然有些不合時宜，<hex:02100103>不過我也差不多該回茶館交班了。
-106,TEXT_JOBAOZ650_03991_MARTYN_000_100,即便這次輸得很慘，我也不會放棄。<hex:02100103>這已經不僅僅是剽竊的問題了，<hex:02100103>我要再次挑戰黃金頭巾，挽回我們青魔法師的尊嚴！
-107,TEXT_JOBAOZ650_03991_MARTYN_000_101,只要窺破那傢伙技能的秘密，就一定可以找到勝利之機。<hex:02100103>我會試著調查一下黃金頭巾的真實身份。
-108,TEXT_JOBAOZ650_03991_MARTYN_000_102,在這段時間裡，就麻煩你繼續磨鍊身手，<hex:02100103>學會青魔法「超振動」之後再來找我吧。<hex:02100103>就先這樣，我得趕緊工作了。
+0,"TEXT_JOBAOZ650_03991_SEQ_00","Martyn greets you with a confident smile."
+1,"TEXT_JOBAOZ650_03991_SEQ_01","The day of the exhibition match has come, and Martyn proclaims himself ready for the duel. Mostly. Actually, he would feel far more confident if he could somehow reclaim the costume that Gyodo stole and sold off. He invites you along to stalk the back alleys of Kogane Dori, and flush out the unscrupulous Namazu."
+2,"TEXT_JOBAOZ650_03991_SEQ_02","You succeed in accosting Gyodo, only to discover that he auctioned off Martyn's outfit piece by piece. It seems you will need to scour the shops and stalls of Kugane in order to purchase them back. Martyn says he will search the markets of the Rakuza District, and volunteers you to visit the merchants of Kogane Dori."
+3,"TEXT_JOBAOZ650_03991_SEQ_03","Your queries into the whereabouts of Martyn's costume are met with discouraging news: from what you can gather, some Lalafell fellow has been a step ahead of you in purchasing the various articles of blue mage apparel. If you hurry, however, you might still catch the man somewhere nearby..."
+4,"TEXT_JOBAOZ650_03991_SEQ_04","The Lalafell flees at your approach, but after cornering him in an alley, the young man's shoulders slump in resignation. It is Nutiba Buntiba. He mournfully admits to being Bluehood, and confesses his part in stealing the soul crystals and organizing the festival. Unwilling─and seemingly unable─to explain his actions, he nevertheless seeks to make some small amends by putting the full set of the Great Azuro's costume in your hands. Nutiba bids you deliver the outfit to Martyn, who awaits you outside the castle gates near the Ijin District."
+5,"TEXT_JOBAOZ650_03991_SEQ_05","A bemused Martyn accepts the costume from you, and enters the arena for his duel with Golden Goliath. Despite his best efforts, however, the guildmaster finds himself overwhelmed by his opponent's mastery of multiple forms of spellcraft. Thoroughly dejected, but unable to contain his curiosity, Martyn once more lingers by the gates to interrogate the man who thrashed him so soundly."
+6,"TEXT_JOBAOZ650_03991_SEQ_06","In answer to Martyn's incredulous questions, Golden Goliath claims to have had no mentor─that his arts are “inimitable.” Rudely dismissed by the crowing Kageyama, Martyn trudges back to the teahouse once more."
+7,"TEXT_JOBAOZ650_03991_SEQ_07","Aflame with the desire for a rematch, Martyn decides that a more thorough investigation into Golden Goliath's inimitable arts is in order. He then turns his attention back to the teahouse customers, but not before advising you against neglecting your own advanced studies.<hex:02100103><hex:02100103>※The next blue mage quest will be available from Martyn upon reaching level 68 and learning Ultravibration."
+8,"TEXT_JOBAOZ650_03991_SEQ_08",""
+9,"TEXT_JOBAOZ650_03991_SEQ_09",""
+10,"TEXT_JOBAOZ650_03991_SEQ_10",""
+11,"TEXT_JOBAOZ650_03991_SEQ_11",""
+12,"TEXT_JOBAOZ650_03991_SEQ_12",""
+13,"TEXT_JOBAOZ650_03991_SEQ_13",""
+14,"TEXT_JOBAOZ650_03991_SEQ_14",""
+15,"TEXT_JOBAOZ650_03991_SEQ_15",""
+16,"TEXT_JOBAOZ650_03991_SEQ_16",""
+17,"TEXT_JOBAOZ650_03991_SEQ_17",""
+18,"TEXT_JOBAOZ650_03991_SEQ_18",""
+19,"TEXT_JOBAOZ650_03991_SEQ_19",""
+20,"TEXT_JOBAOZ650_03991_SEQ_20",""
+21,"TEXT_JOBAOZ650_03991_SEQ_21",""
+22,"TEXT_JOBAOZ650_03991_SEQ_22",""
+23,"TEXT_JOBAOZ650_03991_SEQ_23",""
+24,"TEXT_JOBAOZ650_03991_TODO_00","Speak with Martyn."
+25,"TEXT_JOBAOZ650_03991_TODO_01","Speak with merchants on Kogane Dori."
+26,"TEXT_JOBAOZ650_03991_TODO_02","Speak with the Lalafell fellow."
+27,"TEXT_JOBAOZ650_03991_TODO_03","Deliver the Azuro costume to Martyn."
+28,"TEXT_JOBAOZ650_03991_TODO_04","Speak with Martyn."
+29,"TEXT_JOBAOZ650_03991_TODO_05","Speak with Martyn once more."
+30,"TEXT_JOBAOZ650_03991_TODO_06",""
+31,"TEXT_JOBAOZ650_03991_TODO_07",""
+32,"TEXT_JOBAOZ650_03991_TODO_08",""
+33,"TEXT_JOBAOZ650_03991_TODO_09",""
+34,"TEXT_JOBAOZ650_03991_TODO_10",""
+35,"TEXT_JOBAOZ650_03991_TODO_11",""
+36,"TEXT_JOBAOZ650_03991_TODO_12",""
+37,"TEXT_JOBAOZ650_03991_TODO_13",""
+38,"TEXT_JOBAOZ650_03991_TODO_14",""
+39,"TEXT_JOBAOZ650_03991_TODO_15",""
+40,"TEXT_JOBAOZ650_03991_TODO_16",""
+41,"TEXT_JOBAOZ650_03991_TODO_17",""
+42,"TEXT_JOBAOZ650_03991_TODO_18",""
+43,"TEXT_JOBAOZ650_03991_TODO_19",""
+44,"TEXT_JOBAOZ650_03991_TODO_20",""
+45,"TEXT_JOBAOZ650_03991_TODO_21",""
+46,"TEXT_JOBAOZ650_03991_TODO_22",""
+47,"TEXT_JOBAOZ650_03991_TODO_23",""
+48,"TEXT_JOBAOZ650_03991_MARTYN_100_000","We need to be ready for anythin', <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. You're right up there in raw power, but don't forget that blue magic's greatest strength is versatility!"
+49,"TEXT_JOBAOZ650_03991_SYSTEM_100_001","The next blue mage quest will be available from Martyn upon learning Tingle."
+50,"TEXT_JOBAOZ650_03991_MARTYN_200_000","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! Been preparin' for the unlikely event I was unfit for the match, then?"
+51,"TEXT_JOBAOZ650_03991_MARTYN_000_000","I appreciate the effort, but as you can see, I'm more than ready to tackle Golden Goliath my own self. Today is the day we go head-to-head, and I've been lurkin' around the festival to study my opponent's fightin' style."
+52,"TEXT_JOBAOZ650_03991_MARTYN_000_001","From what I could gather, old Goldie learned all his spells from the exotic creatures in the festival─techniques I've never even seen or heard of before."
+53,"TEXT_JOBAOZ650_03991_MARTYN_000_002","But that just means his blue magic repertoire is limited. I, on the other hand, have spent many a moon buildin' a diverse arsenal of offensive and defensive marvels. There's no way I can lose!"
+54,"TEXT_JOBAOZ650_03991_Q1_000_000","What will you say?"
+55,"TEXT_JOBAOZ650_03991_A1_000_001","Nothing is certain."
+56,"TEXT_JOBAOZ650_03991_A1_000_002","Let's not get cocky..."
+57,"TEXT_JOBAOZ650_03991_MARTYN_000_003","I'll be fine, trust me! Although there is one tiny problem..."
+58,"TEXT_JOBAOZ650_03991_MARTYN_000_004","I don't have my costume. I know it's silly, but gettin' into character helps me focus my skills."
+59,"TEXT_JOBAOZ650_03991_MARTYN_000_005","I've a mind to string up our friend Gyodo, and find out where he sold my clothes... Feel like comin' along?"
+60,"TEXT_JOBAOZ650_03991_MARTYN_000_006","Good. My fellow teahouse workers agreed to cover my duties, so I have a little time right now. Let's head into the alleys again and see if we can't flush out that fish."
+61,"TEXT_JOBAOZ650_03991_MARTYN_000_010","He's close, I reckon. I can almost <hex:021A020203>smell<hex:021A020103> him..."
+62,"TEXT_JOBAOZ650_03991_GYODO_000_011","Tickets! Get your tick─ Argh, it's you two again!"
+63,"TEXT_JOBAOZ650_03991_MARTYN_000_012","I thought I could live without my old clothes, Gyodo, but it turns out I'm a bit sentimental. I need to know: who did you sell my wardrobe to?"
+64,"TEXT_JOBAOZ650_03991_GYODO_000_013","Your shiny outfit? Oh, I auctioned it off piece by piece through a secondhand dealer, and they were bought up by merchants from the Rakuza District and Kogane Dori."
+65,"TEXT_JOBAOZ650_03991_GYODO_000_014","I don't know which shops have them now, but if you mean to buy your costume back, then you had better hurry along, yes, yes?"
+66,"TEXT_JOBAOZ650_03991_MARTYN_000_015","Hm, well that sounds like a two-mage job. Can I ask you to scour the stores on Kogane Dori? I'll take the Rakuza District."
+67,"TEXT_JOBAOZ650_03991_MARTYN_000_016","Buy any pieces you can find, and we'll settle accounts over at the castle. Hopefully my purse can cover it!"
+68,"TEXT_JOBAOZ650_03991_MARTYN_000_017",""
+69,"TEXT_JOBAOZ650_03991_MUTO_000_020","Auctioned off by Gyodo, you say...? Ah, yes, those foreign garments! I just sold them."
+70,"TEXT_JOBAOZ650_03991_ITTO_000_021","Why, yes, I did purchase something from a Namazu seller recently. You're referring to that unusual scepter, I assume?"
+71,"TEXT_JOBAOZ650_03991_ITTO_000_022","If you're quick, perhaps you can make a deal with the customer who bought it. Young Lalafell, he was, left but a few moments ago."
+72,"TEXT_JOBAOZ650_03991_MUTO_000_025",""
+73,"TEXT_JOBAOZ650_03991_ITTO_000_026",""
+74,"TEXT_JOBAOZ650_03991_NUTIBABUNTIBA_000_030","I... I have to go!"
+75,"TEXT_JOBAOZ650_03991_NUTIBABUNTIBA_000_031","(-Nutiba Buntiba-)Forgive me for running, I just panicked and... <sigh> You've been well, I hope?"
+76,"TEXT_JOBAOZ650_03991_NUTIBABUNTIBA_000_032","(-Nutiba Buntiba-)I've no wish to lie to you of all people, so let me confirm what the guildmaster believes to be true: I <hex:021A020203>am<hex:021A020103> Bluehood."
+77,"TEXT_JOBAOZ650_03991_NUTIBABUNTIBA_000_033","(-Nutiba Buntiba-)Every part of this─stealing the soul crystals, setting up the festival, selling the secrets of blue wizardry─it was all my doing. I knew it was wrong, and I don't expect to be forgiven."
+78,"TEXT_JOBAOZ650_03991_NUTIBABUNTIBA_000_034","(-Nutiba Buntiba-)But you should also know that I had no other choice, for reasons that I cannot presently explain..."
+79,"TEXT_JOBAOZ650_03991_NUTIBABUNTIBA_000_035","(-Nutiba Buntiba-)Here. This hardly begins to make up for what I've done, but I took the liberty of reclaiming Azuro's costume. Please see that it makes it into Martyn's hands."
+80,"TEXT_JOBAOZ650_03991_NUTIBABUNTIBA_000_036","(-Nutiba Buntiba-)He'll need all the edge he can get against Golden Goliath...though I doubt it will do him any good. Fare you well, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>."
+81,"TEXT_JOBAOZ650_03991_MARTYN_000_040","It's gone. Every storekeeper who had a piece of my costume had already sold it. Don't s'pose you had any better luck?"
+82,"TEXT_JOBAOZ650_03991_MARTYN_000_041","You got the whole set!? But how─!?"
+83,"TEXT_JOBAOZ650_03991_MARTYN_000_042","And then Nutiba just <hex:021A020203>gave<hex:021A020103> it to you? I don't understand. What kind of game is he playin' here?"
+84,"TEXT_JOBAOZ650_03991_MARTYN_100_042","Well, let's leave that mystery for later─I have a match to win and I don't need any more distractions."
+85,"TEXT_JOBAOZ650_03991_MARTYN_000_043","It's time for Azuro the Third to prove himself on this Far Eastern stage. I'll see what this Goldie is really made of..."
+86,"TEXT_JOBAOZ650_03991_KUGANEMC_000_070","Ladies and gentlemen! For this evening's entertainment, we bring you an unranked exhibition match featuring the incomparable, the invincible, the inexorable GOLDEN GOLIATH!"
+87,"TEXT_JOBAOZ650_03991_KUGANEMC_000_071","His opponent is a stranger to our shores, a challenger from the distant west who seeks to pit his own formidable skills against our reigning champion! Please welcome, Azuro the Third!"
+88,"TEXT_JOBAOZ650_03991_SPECTATORMAN03991_000_072","Look at him! This fool is just some would-be Bluehood. He'll never beat Golden Goliath!"
+89,"TEXT_JOBAOZ650_03991_MARTYN_000_073","I'll show you how a <hex:021A020203>real<hex:021A020103> practitioner of blue magic fights!"
+90,"TEXT_JOBAOZ650_03991_MARTYN_000_074","Have a taste of this!"
+91,"TEXT_JOBAOZ650_03991_GOGO_000_075","(-Golden Goliath-)<hex:021A020203>Have a taste of this<hex:021A020103>!"
+92,"TEXT_JOBAOZ650_03991_MARTYN_000_076","Bloody hells..."
+93,"TEXT_JOBAOZ650_03991_KUGANEMC_000_077","Oho! The challenger appears to have some tricks up his sleeve, but will they be enough to topple our golden paragon!?"
+94,"TEXT_JOBAOZ650_03991_MARTYN_000_078","There's more where that came from!"
+95,"TEXT_JOBAOZ650_03991_GOGO_000_079","(-Golden Goliath-)<hex:021A020203>There's more where that came from<hex:021A020103>!"
+96,"TEXT_JOBAOZ650_03991_MARTYN_000_080","But... No blue mage can do that...can they?"
+97,"TEXT_JOBAOZ650_03991_KUGANEMC_000_081","And Azuro the Third is down! Victory for Golden Goliath!"
+98,"TEXT_JOBAOZ650_03991_MARTYN_000_090","That's that, then. I've failed. They'll never heed my demands now."
+99,"TEXT_JOBAOZ650_03991_MARTYN_000_091","And what's with those spells Goldie cast at the end there? I swear I only ever saw him usin' monster techniques, then suddenly he's throwin' Flare and Holy at me."
+100,"TEXT_JOBAOZ650_03991_MARTYN_000_092","I tell you, as a longtime student of the arcane arts, it eats me up inside. How can someone wield blue, white, <hex:021A020203>and<hex:021A020103> black magic all at the same bloody time!? I ain't leavin' until I get some answers."
+101,"TEXT_JOBAOZ650_03991_MARTYN_000_093","That was a sound thrashin' you gave me, mate, but I've got to ask: where did you learn to fight like that? Who was your mentor?"
+102,"TEXT_JOBAOZ650_03991_GOGO_000_094","(-Golden Goliath-)Mentor? I had no mentor. My arts are mine alone. They are...inimitable."
+103,"TEXT_JOBAOZ650_03991_KAGEYAMA_000_095","Clear off, you whimpering cur! Find someplace else to whine about your defeat! Gahahaha!"
+104,"TEXT_JOBAOZ650_03991_MARTYN_000_096","No mentor? So he taught <hex:021A020203>himself<hex:021A020103> all that stuff? It just doesn't seem possible..."
+105,"TEXT_JOBAOZ650_03991_MARTYN_000_097","Blast, it's gettin' late. Sorry to rush off, but they'll be needin' me back at the teahouse."
+106,"TEXT_JOBAOZ650_03991_MARTYN_000_100","This ain't about the festival anymore, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>─the reputation of our guild is at stake! I won't let it end in defeat!"
+107,"TEXT_JOBAOZ650_03991_MARTYN_000_101","I'll challenge Goldie to a rematch, don't you worry about that. But first I need to learn more about the man and his “inimitable” art if I'm to have a fightin' chance."
+108,"TEXT_JOBAOZ650_03991_MARTYN_000_102","Oh, and, uh, you shouldn't neglect your studies while this is goin' on. Why don't you take a crack at acquirin' Ultravibration? Now if you'll excuse me, I've got customers to serve..."

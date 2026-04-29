@@ -2,165 +2,165 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_CLSROG101_00126_SEQ_00,雙劍師公會的賈可想要委託給冒險者下一份工作。
-1,TEXT_CLSROG101_00126_SEQ_01,賈可希望冒險者找回那些被賣掉的槍支。在雙劍師公會，和這次工作的搭檔維·凱碧談談。
-2,TEXT_CLSROG101_00126_SEQ_02,和維·凱碧進行了交談，與維·凱碧一起前去收集關於槍支的情報。前往利姆薩·羅敏薩的鏡海魚店，和賣魚人談談。
-3,TEXT_CLSROG101_00126_SEQ_03,賣魚人告訴冒險者，購買槍支的是刀鋒商會。和鏡海魚店的維·凱碧談談。
-4,TEXT_CLSROG101_00126_SEQ_04,和維·凱碧進行了交談。為了獲得更多的情報，前往俾斯麥餐廳、利姆薩·羅敏薩碼頭、東國際商販路使用「隱遁」收集情報。
-5,TEXT_CLSROG101_00126_SEQ_05,收集到了更多的情報。與雙劍師公會門口的維·凱碧匯合。
-6,TEXT_CLSROG101_00126_SEQ_06,與維·凱碧匯合完畢，為了奪回槍支，在棧橋埋伏刀鋒商會的商人。再次和雙劍師公會門口的維·凱碧談談，奪回槍支。
-7,TEXT_CLSROG101_00126_SEQ_07,奪回了槍支，並交還給了黃衫隊。和雙劍師公會門口的維·凱碧談談。
-8,TEXT_CLSROG101_00126_SEQ_08,和維·凱碧交談的途中，賈可出來了。雖然工作順利完成了，可卻又發生了一件圍繞著雞蛋三明治的糾紛……前往雙劍師公會，查看賈可的情況。
-9,TEXT_CLSROG101_00126_SEQ_09,賈可平安歸來。吊打其實是最輕的懲罰。為了今後更加重大的工作，努力磨練自己雙劍師的實力。<hex:02100103><hex:02100103>※雙劍師的等級達到15級以上時，可以從賈可那裡領取下一個雙劍師任務。
-10,TEXT_CLSROG101_00126_SEQ_10,
-11,TEXT_CLSROG101_00126_SEQ_11,
-12,TEXT_CLSROG101_00126_SEQ_12,
-13,TEXT_CLSROG101_00126_SEQ_13,
-14,TEXT_CLSROG101_00126_SEQ_14,
-15,TEXT_CLSROG101_00126_SEQ_15,
-16,TEXT_CLSROG101_00126_SEQ_16,
-17,TEXT_CLSROG101_00126_SEQ_17,
-18,TEXT_CLSROG101_00126_SEQ_18,
-19,TEXT_CLSROG101_00126_SEQ_19,
-20,TEXT_CLSROG101_00126_SEQ_20,
-21,TEXT_CLSROG101_00126_SEQ_21,
-22,TEXT_CLSROG101_00126_SEQ_22,
-23,TEXT_CLSROG101_00126_SEQ_23,
-24,TEXT_CLSROG101_00126_TODO_00,和維·凱碧對話
-25,TEXT_CLSROG101_00126_TODO_01,和鏡海魚店的賣魚人對話
-26,TEXT_CLSROG101_00126_TODO_02,和維·凱碧對話
-27,TEXT_CLSROG101_00126_TODO_03,在俾斯麥餐廳使用「隱遁」收集情報
-28,TEXT_CLSROG101_00126_TODO_04,在利姆薩·羅敏薩碼頭使用「隱遁」收集情報
-29,TEXT_CLSROG101_00126_TODO_05,在東國際商販路使用「隱遁」收集情報
-30,TEXT_CLSROG101_00126_TODO_06,和雙劍師公會門口的維·凱碧對話
-31,TEXT_CLSROG101_00126_TODO_07,和維·凱碧對話 奪回槍支
-32,TEXT_CLSROG101_00126_TODO_08,和雙劍師公會門口的維·凱碧對話
-33,TEXT_CLSROG101_00126_TODO_09,和雙劍師公會的賈可對話
-34,TEXT_CLSROG101_00126_TODO_10,
-35,TEXT_CLSROG101_00126_TODO_11,
-36,TEXT_CLSROG101_00126_TODO_12,
-37,TEXT_CLSROG101_00126_TODO_13,
-38,TEXT_CLSROG101_00126_TODO_14,
-39,TEXT_CLSROG101_00126_TODO_15,
-40,TEXT_CLSROG101_00126_TODO_16,
-41,TEXT_CLSROG101_00126_TODO_17,
-42,TEXT_CLSROG101_00126_TODO_18,
-43,TEXT_CLSROG101_00126_TODO_19,
-44,TEXT_CLSROG101_00126_TODO_20,
-45,TEXT_CLSROG101_00126_TODO_21,
-46,TEXT_CLSROG101_00126_TODO_22,
-47,TEXT_CLSROG101_00126_TODO_23,
-48,TEXT_CLSROG101_00126_JACKE_000_000,<hex:022903EB0203>，你好。<hex:02100103>看來你作為雙劍師的實力又有所提高了。
-49,TEXT_CLSROG101_00126_JACKE_000_001,看在你這麼努力的份上，我決定給你下一份工作。<hex:02100103>準備好了嗎？
-50,TEXT_CLSROG101_00126_JACKE_000_002,這次的工作起因是一群海盜襲擊了利姆薩·羅敏薩的商船，<hex:02100103>他們把船上的槍支一掃而空。
-51,TEXT_CLSROG101_00126_JACKE_000_003,本來，襲擊帝國以外的船隻就是違法的，<hex:02100103>所以黃衫隊們進行了一番搜查，並抓獲了犯人。
-52,TEXT_CLSROG101_00126_JACKE_000_004,……那麼問題來了，雖然犯人被抓獲了，<hex:02100103>可是關鍵的槍支卻已經被賣了……<hex:02100103>為了找回槍支，他們便來委託咱們雙劍師公會了。
-53,TEXT_CLSROG101_00126_JACKE_000_005,在規矩裡，<hex:02100103>不是有一條「不得從利姆薩·羅敏薩人民手裡掠奪財物」嗎？<hex:02100103>所以咱們肯定要找回那些違規賣出的槍支的。
-54,TEXT_CLSROG101_00126_JACKE_000_006,而這次你的工作內容就是找回這批槍支了。
-55,TEXT_CLSROG101_00126_JACKE_000_007,不過那群壞了規矩的海盜已經被關入了牢房，<hex:02100103>所以奪回槍支時，要盡可能保持「隱秘」。<hex:02100103>……為此，我介紹給你一個非常優秀的搭檔。
-56,TEXT_CLSROG101_00126_JACKE_000_008,她叫維·凱碧。<hex:02100103>關於隱秘行動、消除氣息方面，<hex:02100103>在雙劍師公會沒人能比她強。
-57,TEXT_CLSROG101_00126_VKEBBE_000_009,……你好。
-58,TEXT_CLSROG101_00126_JACKE_000_010,……怎麼了？今天沒什麼精神啊。
-59,TEXT_CLSROG101_00126_VKEBBE_000_011,肚子……餓了……<hex:02100103>我期待已久的俾斯麥雞蛋三明治……<hex:02100103>不知道去哪了……
-60,TEXT_CLSROG101_00126_JACKE_000_012,呃？那個三明治，是你的啊……<hex:02100103>我還以為是佩利姆·哈烏利姆的……
-61,TEXT_CLSROG101_00126_JACKE_000_013,……咳咳！<hex:02100103>總、總之先把工作搞定吧……<hex:02100103>三明治的話……我去幫你找回來……好不？
-62,TEXT_CLSROG101_00126_VKEBBE_000_014,……我知道了。
-63,TEXT_CLSROG101_00126_JACKE_000_015,被賣出的槍支本應是黃衫隊收管的。<hex:02100103>所以，奪回槍支後交給黃衫隊就可以了。
-64,TEXT_CLSROG101_00126_VKEBBE_000_020,抱歉，<hex:022903EB0203>……讓你擔心了……<hex:02100103>我沒事的，咱們還是先工作吧。
-65,TEXT_CLSROG101_00126_VKEBBE_000_021,關於被賣出的槍支，有同伴已經收集到了情報。<hex:02100103>咱們先去找她確認一下吧。
-66,TEXT_CLSROG101_00126_VKEBBE_000_022,我和同伴約在鏡海魚店見面，你也一起來吧。
-67,TEXT_CLSROG101_00126_VKEBBE_000_030,那個賣魚的妹子就是收集情報的同伴……<hex:02100103>你去問問她關於被奪走的槍支吧。
-68,TEXT_CLSROG101_00126_THIEF00126_000_040,你就是傳聞中的新人吧。<hex:02100103>別看我穿成這樣，其實我也是雙劍師啦！<hex:02100103>……你想知道關於被奪走的槍支是吧，我已經調查過了哦。
-69,TEXT_CLSROG101_00126_THIEF00126_000_041,買走槍支的是刀鋒商會的人。<hex:02100103>你知道利姆薩·羅敏薩遙遠南方的南洋群島嗎？<hex:02100103>刀鋒商會就是以那裡為據點的武器商會。
-70,TEXT_CLSROG101_00126_THIEF00126_000_042,這幫外資商人，對我國的法律和規矩視而不見，<hex:02100103>就算是違禁品，只要便宜他們就會高興地去買。
-71,TEXT_CLSROG101_00126_THIEF00126_000_043,……據調查，那個刀鋒商會的商人應該還在城內，<hex:02100103>估計是想將槍支和其他商品一同運回去……
-72,TEXT_CLSROG101_00126_THIEF00126_000_044,至於他將這些東西運出城的方法，我就不得而知了。<hex:02100103>那傢伙雇了一堆傭兵，我們根本沒法收集到更多情報。
-73,TEXT_CLSROG101_00126_THIEF00126_000_045,普通的辦法估計很難再收集到什麼情報了……<hex:02100103>總之我會繼續留意的，<hex:02100103>如果有什麼新的發現，我會再聯繫你們的。
-74,TEXT_CLSROG101_00126_VKEBBE_000_050,……原來如此，我知道了。<hex:02100103>刀鋒商會的商人還在城內的話就好說了，<hex:02100103>四處打聽一下估計能收集到更多情報。
-75,TEXT_CLSROG101_00126_VKEBBE_000_051,使用「隱遁」接近別人的話，就能聽到平時聽不到的話題……
-76,TEXT_CLSROG101_00126_VKEBBE_000_052,尤其是去人多的地方比較好……<hex:02100103>就麻煩你去俾斯麥餐廳、利姆薩·羅敏薩碼頭，<hex:02100103>還有東國際商販路收集情報吧……
-77,TEXT_CLSROG101_00126_VKEBBE_000_053,千萬要注意用「隱遁」隱藏自己……<hex:02100103>我去別的地方看看，等收集好情報後就回雙劍師公會集合吧。
-78,TEXT_CLSROG101_00126_SYSTEM_000_054,烹調師黛文·達芙非常不滿地發著牢騷……
-79,TEXT_CLSROG101_00126_DIVINGDOVE_000_055,真是的，剛才那位客人，想想就氣人！<hex:02100103>點了做工繁瑣的菜品，<hex:02100103>卻一直催催催，嚷著「著急走，快上菜！」……
-80,TEXT_CLSROG101_00126_DIVINGDOVE_000_056,我管你什麼南洋群島的商人不商人的，<hex:02100103>那種人肯定是金錢至上，以為有錢就什麼都可以搞定……
-81,TEXT_CLSROG101_00126_DIVINGDOVE_000_057,……不行不行，不能說客人壞話。<hex:02100103>我看看……接下來的單子是……<hex:02100103>雪絨花商會購買的雞蛋三明治……
-82,TEXT_CLSROG101_00126_DIVINGDOVE_000_058,剛才的客人也真是的……
-83,TEXT_CLSROG101_00126_DIVINGDOVE_000_059,……您有什麼事嗎？<hex:02100103>點菜的話請找旁邊的服務員。
-84,TEXT_CLSROG101_00126_SYSTEM_100_059,烹調師黛文·達芙好像有什麼不滿，<hex:02100103>請與她拉開距離，使用「隱遁」後再次接近，<hex:02100103>或許能得到一些情報。
-85,TEXT_CLSROG101_00126_SYSTEM_110_059,烹調師黛文·達芙好像有什麼不滿，<hex:02100103>使用「隱遁」後再接近，或許能得到一些情報……
-86,TEXT_CLSROG101_00126_SYSTEM_000_058,（★未使用／削除予定★）
-87,TEXT_CLSROG101_00126_SYSTEM_000_060,雷雷納斯有些焦躁地說著什麼……
-88,TEXT_CLSROG101_00126_RERENASU_000_061,啊……傷腦筋了……<hex:02100103>早知道這樣就不來這麼早了！
-89,TEXT_CLSROG101_00126_RERENASU_000_062,剛才不小心看到有個船夫從某外國商人那裡收了一大筆金幣……<hex:02100103>肯定是幫忙運輸走私貨物或偷渡離境……
-90,TEXT_CLSROG101_00126_RERENASU_000_063,我應不應該向黃衫隊舉報他們啊……<hex:02100103>不行……萬一搞砸了我自身難保啊……
-91,TEXT_CLSROG101_00126_RERENASU_000_064,真是糟糕了啊……怎麼辦才好啊……
-92,TEXT_CLSROG101_00126_RERENASU_000_065,……你、你好，請問你要去哪裡？<hex:02100103>太陽海岸嗎？還是小麥酒港？
-93,TEXT_CLSROG101_00126_SYSTEM_000_066,雷雷納斯看起來有些焦躁……<hex:02100103>請與他拉開距離，使用「隱遁」後再次接近，<hex:02100103>或許能得到一些情報。
-94,TEXT_CLSROG101_00126_SYSTEM_000_067,雷雷納斯看起來有些焦躁……<hex:02100103>使用「隱遁」後再接近，或許能得到一些情報……
-95,TEXT_CLSROG101_00126_SYSTEM_000_064,（★未使用／削除予定★）
-96,TEXT_CLSROG101_00126_SYSTEM_000_070,美食商蓋爾夫在非常熱情地招攬客人……
-97,TEXT_CLSROG101_00126_GERULF_000_071,這位客人，您可真是好眼光！<hex:02100103>我們店聚集了各地美食，絕對新鮮！<hex:02100103>保證讓您吃過後還想來！
-98,TEXT_CLSROG101_00126_GERULF_000_072,來一杯用拉諾西亞香橙剛榨出來的果汁如何？<hex:02100103>或者嘗嘗這邊的鹽漬鱈魚，<hex:02100103>保證讓您忘掉旅途勞累，心情舒暢！
-99,TEXT_CLSROG101_00126_SYSTEM_000_073,蓋爾夫開始介紹起自己店的美食……<hex:02100103>好像沒有得到有用的情報。
-100,TEXT_CLSROG101_00126_GERULF_000_074,這位客人，您可真是好眼光！<hex:02100103>來嘗嘗這個吧，絕對好吃！
-101,TEXT_CLSROG101_00126_GERULF_000_075,……哎呀哎呀，這邊也有客人呀！<hex:02100103>歡迎光臨，您看看想要點什麼？
-102,TEXT_CLSROG101_00126_SYSTEM_000_076,蓋爾夫開始介紹起自己店的美食……<hex:02100103>請與他拉開距離，使用「隱遁」後再次接近，<hex:02100103>或許能得到一些情報。
-103,TEXT_CLSROG101_00126_SYSTEM_000_077,蓋爾夫好像在說著什麼……<hex:02100103>使用「隱遁」後再接近，或許能得到一些情報……
-104,TEXT_CLSROG101_00126_SYSTEM_000_074,（★未使用／削除予定★）
-105,TEXT_CLSROG101_00126_VKEBBE_000_080,啊……<hex:022903EB0203>……<hex:02100103>使用「隱遁」收集到情報了嗎？
-106,TEXT_CLSROG101_00126_VKEBBE_000_081,隱藏自己對雙劍師來說非常重要，<hex:02100103>消除氣息後行動的話，不僅可以更輕鬆地探索周邊，<hex:02100103>更可以在不經意間偷襲敵人……
-107,TEXT_CLSROG101_00126_VKEBBE_000_082,……但在隱遁狀態時，<hex:02100103>注意不要做一些會吸引對方注意力的事情，<hex:02100103>否則你還是會瞬間暴露。
-108,TEXT_CLSROG101_00126_VKEBBE_000_083,言歸正傳……<hex:02100103>你收集到關於買槍商人的情報了嗎？
-109,TEXT_CLSROG101_00126_VKEBBE_000_084,嗯嗯……有個很可疑的傢伙收買了船夫……<hex:02100103>並且在俾斯麥吃飯的時候非常著急出發……
-110,TEXT_CLSROG101_00126_VKEBBE_000_085,他們果然是想用船逃出利姆薩·羅敏薩。<hex:02100103>我打聽到他們已經退了房準備走人，看來沒錯了……
-111,TEXT_CLSROG101_00126_VKEBBE_000_086,<hex:022903EB0203>，咱們就這麼在棧橋埋伏他們吧。<hex:02100103>為了乘船的話，他們肯定會帶著貨物經過這裡的……<hex:02100103>到時候將他們一網打盡，把槍支奪回！
-112,TEXT_CLSROG101_00126_VKEBBE_000_087,如果能悄無聲息地奪回那批槍支就好了……<hex:02100103>不過據說那個商人僱傭了很多傭兵……<hex:02100103>還是小心點的好，很有可能會發生戰鬥。
-113,TEXT_CLSROG101_00126_VKEBBE_000_090,我已經聯絡好黃衫隊了，<hex:02100103>他們會派人在國際廣場等著收槍。<hex:02100103>奪回槍支後就送過去吧……
-114,TEXT_CLSROG101_00126_VKEBBE_000_091,……目標就快到了……準備好了嗎？
-115,TEXT_CLSROG101_00126_EDGETRADERS00126_000_100,你在那裡幹嘛？<hex:02100103>我可說過，船來之前不准任何人靠近！
-116,TEXT_CLSROG101_00126_EDGETRADERS00126_000_101,嗯？<hex:02100103>好像少了點什麼？
-117,TEXT_CLSROG101_00126_EDGETRADERS00126_000_102,啊——<hex:02100103>槍、槍呢？我明明放這裡了啊！
-118,TEXT_CLSROG101_00126_EDGETRADERS00126_000_103,有、有、有小偷！<hex:02100103>喂，傭兵們，快抓住這傢伙！<hex:02100103>我的槍被偷了！
-119,TEXT_CLSROG101_00126_VKEBBE_000_110,呼……你沒事就好！
-120,TEXT_CLSROG101_00126_VKEBBE_000_111,<hex:022903EB0203>，就在你把槍返還給黃衫隊的時候，<hex:02100103>那個外國商人也撤退了……<hex:02100103>估計他也不想跟黃衫隊有衝突吧……
-121,TEXT_CLSROG101_00126_VKEBBE_000_112,這下工作也算順利完成了……<hex:02100103>回公會向賈可報告一下吧。
-122,TEXT_CLSROG101_00126_JACKE_000_130,外面好像很吵啊……<hex:02100103>怎麼樣？工作進行得還順利嗎？
-123,TEXT_CLSROG101_00126_JACKE_000_131,是嗎是嗎？已經順利將槍支返還給黃衫隊了啊。<hex:02100103>幹得不錯！很好！
-124,TEXT_CLSROG101_00126_VKEBBE_000_132,<hex:022903EB0203>將隱遁掌握得很好，<hex:02100103>將來肯定能成為一名非常優秀的雙劍師……
-125,TEXT_CLSROG101_00126_VKEBBE_000_133,對雙劍師來說，隱蔽自己是非常重要的……<hex:02100103>隱蔽好自己的話，不僅可以避開麻煩的敵人，<hex:02100103>更可以偷偷接近敵人身邊。視情況靈活運用吧。
-126,TEXT_CLSROG101_00126_JACKE_000_134,哦對了……<hex:02100103>我還帶來了一個不幸的消息……
-127,TEXT_CLSROG101_00126_JACKE_000_135,我拚死尋找失蹤了的俾斯麥雞蛋三明治，<hex:02100103>直到最後也沒有找到……
-128,TEXT_CLSROG101_00126_VKEBBE_000_136,不會……吧……<hex:02100103>我的……俾斯麥雞蛋三明治……怎麼會……
-129,TEXT_CLSROG101_00126_VKEBBE_000_137,簡直……太過分了……<hex:02100103>我的肚肚不會同意的！
-130,TEXT_CLSROG101_00126_JACKE_000_138,……我明白！<hex:02100103>我也不忍心看它就此消失……<hex:02100103>所以，我已經做好對策了……
-131,TEXT_CLSROG101_00126_JACKE_000_139,佩利姆·哈烏利姆正在前往俾斯麥，<hex:02100103>他一定會把它帶回來的！
-132,TEXT_CLSROG101_00126_JACKE_000_140,新鮮出爐的雞蛋三明治……
-133,TEXT_CLSROG101_00126_VKEBBE_000_141,新……鮮……出爐……<hex:02100103>真、真的嗎？
-134,TEXT_CLSROG101_00126_JACKE_000_142,嗯，相信我，新鮮出爐的三明治。<hex:02100103>所以，你再忍忍……三明治馬上就到……
-135,TEXT_CLSROG101_00126_PERIMUHAURIMU_000_143,哎？這不是大哥麼！<hex:02100103>三明治……我買回來了！
-136,TEXT_CLSROG101_00126_PERIMUHAURIMU_000_144,真是的，你說你折騰這一趟搞得店家忙得要死……<hex:02100103>下次要注意點，別再隨意吃維·凱碧的三明治了……
-137,TEXT_CLSROG101_00126_PERIMUHAURIMU_000_145,啊……
-138,TEXT_CLSROG101_00126_JACKE_000_146,……
-139,TEXT_CLSROG101_00126_VKEBBE_000_147,……賈可？……你吃……的？
-140,TEXT_CLSROG101_00126_JACKE_000_148,啊……嗯……那個……別生氣……<hex:02100103>這不是給你買新鮮出爐的三明治了嗎？<hex:02100103>原諒我吧……
-141,TEXT_CLSROG101_00126_VKEBBE_000_149,賈可……<hex:02100103>我們的使命不僅僅是奪回被搶走的物品……<hex:02100103>你別忘了，對於壞了規矩的人，給予……懲……罰！
-142,TEXT_CLSROG101_00126_JACKE_000_150,哈哈哈，那個……哈哈……冷、冷靜……<hex:02100103>維·凱碧小姐？……小維維？
-143,TEXT_CLSROG101_00126_JACKE_000_151,啊——！
-144,TEXT_CLSROG101_00126_PERIMUHAURIMU_000_152,哇……吊得真是完美……練過吧……
-145,TEXT_CLSROG101_00126_VKEBBE_000_153,……哼……活該！<hex:02100103><hex:022903EB0203>，你要記住……
-146,TEXT_CLSROG101_00126_VKEBBE_000_154,人與人和平交往是需要遵守某種規矩的……<hex:02100103>如果打破了這種規矩的話，那麼自然就會有人傷心……<hex:02100103>所以才有我們雙劍師存在！
-147,TEXT_CLSROG101_00126_PERIMUHAURIMU_000_155,……真是深入人心啊。<hex:02100103>咱們快回去吧，趁雞蛋三明治還沒涼！
-148,TEXT_CLSROG101_00126_JACKE_000_156,(-賈可-)喂！等等啊！我反省過了！快把我放下來……<hex:02100103>疼！疼疼……繩子勒得疼……
-149,TEXT_CLSROG101_00126_MILALA_000_157,(-黃衫隊警備兵-)沒想到會是由雙劍師公會奪回的槍支……
-150,TEXT_CLSROG101_00126_MILALA_000_158,(-黃衫隊警備兵-)哼……真是不爽！<hex:02100103>那種原海盜的集團，怎麼還不消失！
-151,TEXT_CLSROG101_00126_JACKE_000_160,疼疼疼……總算憑藉著自己的力量掙脫了出來，<hex:02100103>真是遭罪啊……<hex:02100103>沒想到維·凱碧對雞蛋三明治的怨念這麼深……
-152,TEXT_CLSROG101_00126_JACKE_000_161,不過，給我的懲罰還算輕的……僅僅被吊起來而已……<hex:02100103>對於壞了規矩的人，還有著更加恐怖的懲罰……<hex:02100103>等你實力變得再強一些的時候，我會考慮給你這類工作的……
-153,TEXT_CLSROG101_00126_QIB_TODO001,使用隱遁奪回槍支！
-154,TEXT_CLSROG101_00126_QIB_TODO002,將槍支交給國際廣場南面的黃衫隊！
-155,TEXT_CLSROG101_00126_VKEBBE_BATTLETALK_01,目標在棧橋的另一端……<hex:02100103>利用隱遁接近目標，奪回槍支！
-156,TEXT_CLSROG101_00126_VKEBBE_BATTLETALK_02,這樣的話跑不掉的……<hex:02100103>只有先打倒他們了……
-157,TEXT_CLSROG101_00126_VKEBBE_BATTLETALK_03,分開行動吧，我來做誘餌，吸引敵人注意力……<hex:02100103>你趁機將槍支交給國際廣場南邊的黃衫隊！
-158,TEXT_CLSROG101_00126_VKEBBE_BATTLETALK_04,如果還有別的傭兵在附近的話，<hex:02100103>你就用隱遁避開他們的視線……<hex:02100103>完成任務後就在雙劍師公會門口集合……
-159,TEXT_CLSROG101_00126_VKEBBE_BATTLETALK_05,居然會敗在這裡……對不起……
-160,TEXT_CLSROG101_00126_MERCHANT_BATTLETALK_01,可、可惡的小偷！<hex:02100103>誰來抓住這些傢伙！
-161,TEXT_CLSROG101_00126_YEL_DUMMY_BATTLETALK_01,……沒問題，這批槍支就是我們本應收管的槍支……<hex:02100103>非常感謝你的幫忙！
+0,"TEXT_CLSROG101_00126_SEQ_00","Jacke has another assignment for you."
+1,"TEXT_CLSROG101_00126_SEQ_01","Jacke has tasked you with reclaiming a shipment of stolen firearms. The pirates responsible for the theft have been apprehended, but it seems the muskets had already been fenced. Speak with V'kebbe, and discuss how the job should be approached."
+2,"TEXT_CLSROG101_00126_SEQ_02","V'kebbe suggests you check in with one of rogues' spies to see what information can be had regarding the fenced firearms. Speak with the woman posing as a fishmonger at the Hyaline."
+3,"TEXT_CLSROG101_00126_SEQ_03","The “fishmonger” informs you that the pillaged muskets were purchased by a south seas organization known as the Traders of Edge. Speak with V'kebbe at the Hyaline and relay your discoveries."
+4,"TEXT_CLSROG101_00126_SEQ_04","After you tell V'kebbe what the spy knew of the Traders of Edge merchant, she decides that further information gathering is required. Visit the Bismarck, the ferry docks, and East Hawkers' Alley, and use your Hide ability to surreptitiously listen in on any potentially useful mutterings."
+5,"TEXT_CLSROG101_00126_SEQ_05","You have gathered information from your assigned locations. Rendezvous with V'kebbe in front of the Rogues' Guild and share what you have learned."
+6,"TEXT_CLSROG101_00126_SEQ_06","Based on the information you have gathered, V'kebbe deduces that the shady merchant means to depart by ship in the very near future. The Stray proposes her plan: wait for the trader to stack his goods on the pier, then sneak past the hired blades and steal back the Yellowjackets' firearms. Speak with V'kebbe once more when you are ready to begin the operation."
+7,"TEXT_CLSROG101_00126_SEQ_07","You have successfully reclaimed the stolen muskets and returned them to the Yellowjackets. Report to V'kebbe in front of the Rogues' Guild."
+8,"TEXT_CLSROG101_00126_SEQ_08","Jacke joins you outside the Rogues' Guild, and praises you for a job well done. While he is informing V'kebbe of the unfortunate conclusion to the missing sandwich saga, however, his deception is inadvertently revealed by the arrival of an oblivious Perimu Haurimu. V'kebbe then responds as she would to any violation of the code. Head inside the guild and see what has become of its supper-stealing guildmaster."
+9,"TEXT_CLSROG101_00126_SEQ_09","Suffering from several nasty rope burns but otherwise none the worse for wear, Jacke appears sincerely contrite for his act of sandwich larceny. He explains that being strung up is one of the least of the punishments a person might suffer at the hands of the rogues. Return to disciplining your body and mind that you might properly dispense justice to those that defy the code.<hex:02100103><hex:02100103>※The next rogue quest will be available from Jacke upon reaching level 15."
+10,"TEXT_CLSROG101_00126_SEQ_10",""
+11,"TEXT_CLSROG101_00126_SEQ_11",""
+12,"TEXT_CLSROG101_00126_SEQ_12",""
+13,"TEXT_CLSROG101_00126_SEQ_13",""
+14,"TEXT_CLSROG101_00126_SEQ_14",""
+15,"TEXT_CLSROG101_00126_SEQ_15",""
+16,"TEXT_CLSROG101_00126_SEQ_16",""
+17,"TEXT_CLSROG101_00126_SEQ_17",""
+18,"TEXT_CLSROG101_00126_SEQ_18",""
+19,"TEXT_CLSROG101_00126_SEQ_19",""
+20,"TEXT_CLSROG101_00126_SEQ_20",""
+21,"TEXT_CLSROG101_00126_SEQ_21",""
+22,"TEXT_CLSROG101_00126_SEQ_22",""
+23,"TEXT_CLSROG101_00126_SEQ_23",""
+24,"TEXT_CLSROG101_00126_TODO_00","Speak with V'kebbe."
+25,"TEXT_CLSROG101_00126_TODO_01","Speak with the fishmonger girl at the Hyaline."
+26,"TEXT_CLSROG101_00126_TODO_02","Speak with V'kebbe."
+27,"TEXT_CLSROG101_00126_TODO_03","Use Hide to gather information at the Bismarck."
+28,"TEXT_CLSROG101_00126_TODO_04","Use Hide to gather information at the ferry docks."
+29,"TEXT_CLSROG101_00126_TODO_05","Use Hide to gather information in East Hawkers' Alley."
+30,"TEXT_CLSROG101_00126_TODO_06","Speak with V'kebbe in front of the Rogues' Guild."
+31,"TEXT_CLSROG101_00126_TODO_07","Speak with V'kebbe and retrieve the firearms."
+32,"TEXT_CLSROG101_00126_TODO_08","Speak with V'kebbe in front of the Rogues' Guild."
+33,"TEXT_CLSROG101_00126_TODO_09","Speak with Jacke."
+34,"TEXT_CLSROG101_00126_TODO_10",""
+35,"TEXT_CLSROG101_00126_TODO_11",""
+36,"TEXT_CLSROG101_00126_TODO_12",""
+37,"TEXT_CLSROG101_00126_TODO_13",""
+38,"TEXT_CLSROG101_00126_TODO_14",""
+39,"TEXT_CLSROG101_00126_TODO_15",""
+40,"TEXT_CLSROG101_00126_TODO_16",""
+41,"TEXT_CLSROG101_00126_TODO_17",""
+42,"TEXT_CLSROG101_00126_TODO_18",""
+43,"TEXT_CLSROG101_00126_TODO_19",""
+44,"TEXT_CLSROG101_00126_TODO_20",""
+45,"TEXT_CLSROG101_00126_TODO_21",""
+46,"TEXT_CLSROG101_00126_TODO_22",""
+47,"TEXT_CLSROG101_00126_TODO_23",""
+48,"TEXT_CLSROG101_00126_JACKE_000_000","A fine <hex:020839E3E90C0DFF1B><hex:020817E3E90C05FF08>evenin'<hex:FF08>mornin'<hex:03><hex:FF17><hex:020813E3E90C12FF04>day<hex:FF08>evenin'<hex:03><hex:03> to ye, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>."
+49,"TEXT_CLSROG101_00126_JACKE_000_001","An' a fine <hex:020839E3E90C0DFF1B><hex:020817E3E90C05FF08>evenin'<hex:FF08>mornin'<hex:03><hex:FF17><hex:020813E3E90C12FF04>day<hex:FF08>evenin'<hex:03><hex:03> it is for a spot o' work, wouldn't ye agree?"
+50,"TEXT_CLSROG101_00126_JACKE_000_002","This time 'round, it seems some eager buccaneers scampered aboard a local merchantman an' made off with a shipment o' muskets."
+51,"TEXT_CLSROG101_00126_JACKE_000_003","Now, seein' as it ain't lawful to cloy from a Lominsan vessel to begin with, the Yellowjackets fell upon them daft coves afore their boots was even dry."
+52,"TEXT_CLSROG101_00126_JACKE_000_004","Aye, they caught the pirates right there on the docks, but the stolen boomsticks was nowhere to be found─fenced in a longboat deal, I'm thinkin'."
+53,"TEXT_CLSROG101_00126_JACKE_000_005","That's when our guild was officially contracted to retrieve the goods. ...Which weren't really needful, since the code would have had us on the job, anyway. “Ye don't bite the purses o' yer fellow Lominsans,” an' all that."
+54,"TEXT_CLSROG101_00126_JACKE_000_006","So, this's yer assignment, me natty <hex:02080EE905FF05>lass<hex:FF04>lad<hex:03>: find out where them weapons went, an' bite that shipment back."
+55,"TEXT_CLSROG101_00126_JACKE_000_007","Seein' as the cutters as hit that merchantman are already rottin' in irons, ye needn't rush in with yer stabbers a-stabbin'. I want this job handled quick an' quiet, an' I've the perfect partner to show ye how it's done."
+56,"TEXT_CLSROG101_00126_JACKE_000_008","This here's V'kebbe the Stray. Ain't no other rogue what can match her in the arts o' skulkin'."
+57,"TEXT_CLSROG101_00126_VKEBBE_000_009","...A pleasure."
+58,"TEXT_CLSROG101_00126_JACKE_000_010","...There some problem, V'kebbe? Ye seem a bit out o' sorts."
+59,"TEXT_CLSROG101_00126_VKEBBE_000_011","I'm bloody starvin'. I had one o' them finger sandwiches set aside─ye know, those egg-filled tasties they make at the Bismarck─but when I got back from me work, it was bloody gone..."
+60,"TEXT_CLSROG101_00126_JACKE_000_012","(Uh-oh. That was V'kebbe's? I'd thought it was Underfoot's...)"
+61,"TEXT_CLSROG101_00126_JACKE_000_013","<cough> Ahem! Well, ye just head out on the job, an' I'll see if I can't turn up that missin' sandwich by the time ye return!"
+62,"TEXT_CLSROG101_00126_VKEBBE_000_014","...All right, Jacke."
+63,"TEXT_CLSROG101_00126_JACKE_000_015","Ah, one more little detail ye should know: them muskets was meant for the Yellowjackets' armory, so once all is bob, ye can hand the goods to one o' their culls directly."
+64,"TEXT_CLSROG101_00126_VKEBBE_000_020","We can start whenever yer ready, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>."
+65,"TEXT_CLSROG101_00126_VKEBBE_000_021","I've had a colleague keepin' a wattle out for aught that might help us, so I suggest ye have a few whids with her first."
+66,"TEXT_CLSROG101_00126_VKEBBE_000_022","Ye'll find her at the Hyaline, posin' as a fishmonger."
+67,"TEXT_CLSROG101_00126_VKEBBE_000_030","That lass down there─the one stinkin' o' fish an' ocean. Go over an' ask her what the catch o' the day is."
+68,"TEXT_CLSROG101_00126_THIEF00126_000_040","'Ello there, <hex:02080EE905FF05>miss<hex:FF04>sir<hex:03>. We've carp an' trout, lobster an' shrimp...but I 'ear tell ye've been lookin' for a special breed o' fish─the long, shiny kind what's bark'll put a bloke on 'is arse."
+69,"TEXT_CLSROG101_00126_THIEF00126_000_041","We don't sell that kind 'ere, but ye might try them foreign merchants─what was they called again?─ah, the “Traders of Edge.” They 'ail from the south sea isles, an' are known for dealin' in all types o' nasty spitters an' cutters."
+70,"TEXT_CLSROG101_00126_THIEF00126_000_042","I should warn ye: these folk ain't ones for questionin' the source o' their merchandise. In fact, they seem more'n 'appy to pay for goods what came from “belowdecks,” so to speak."
+71,"TEXT_CLSROG101_00126_THIEF00126_000_043","But if yer still keen to get yer 'ands on those rare fish, then ye'd best 'urry─the Edge merchant what's visitin' Limsa is lookin' to load up an' leave the city afore long."
+72,"TEXT_CLSROG101_00126_THIEF00126_000_044","Just 'ow 'e means to transport 'is goods remains a mystery, though. What with all the 'ired blades 'e's got nursin' 'is operation, it makes it 'ard for a girl to get close enough to eyeball the competition, it does!"
+73,"TEXT_CLSROG101_00126_THIEF00126_000_045","I'll be sure to keep an eye peeled on yer behalf, but it might be as ye can learn a little more from the folk 'round town..."
+74,"TEXT_CLSROG101_00126_VKEBBE_000_050","...Traders of Edge, eh? Well, if one o' their merchant's been stayin' in the city, then someone'll know somethin' to point us in the right direction."
+75,"TEXT_CLSROG101_00126_VKEBBE_000_051","The trick is to listen without bein' seen. Ye'd be surprised at how culls'll cackle when they think no one else is about."
+76,"TEXT_CLSROG101_00126_VKEBBE_000_052","We'll focus on places what see plenty o' traffic. Ye can have the Bismarck, the ferry docks, and East Hawkers' Alley."
+77,"TEXT_CLSROG101_00126_VKEBBE_000_053","I'll try me luck at a few other spots, then meet ye in front o' the guild when I'm done. Remember: keep hidden, keep quiet, an' keep yer wattles open."
+78,"TEXT_CLSROG101_00126_SYSTEM_000_054","Diving Dove is grumbling in discontent..."
+79,"TEXT_CLSROG101_00126_DIVINGDOVE_000_055","Ugh! The sneer on that customer's face! Does he think I can command the skillet to cook more swiftly just to meet his pressing departure schedule?"
+80,"TEXT_CLSROG101_00126_DIVINGDOVE_000_056","I don't know how things are done in the south seas, but here in Limsa Lominsa folk <hex:021A020203>appreciate<hex:021A020103> that fine cuisine cannot be rushed!"
+81,"TEXT_CLSROG101_00126_DIVINGDOVE_000_057","...Come now, Dove, you must not speak ill of the patrons. Now, what was next on my list? Ah, another finger sandwich for the Dutiful Sisters. Someone there must be rather fond of eggs..."
+82,"TEXT_CLSROG101_00126_DIVINGDOVE_000_058","Ugh, simply infuriati─"
+83,"TEXT_CLSROG101_00126_DIVINGDOVE_000_059","Yes, <hex:02080EE905FF05>miss<hex:FF04>sir<hex:03>? Pray place your order with one of the servers and we'll prepare your meal with all due alacrity."
+84,"TEXT_CLSROG101_00126_SYSTEM_100_059","Diving Dove appears distressed over some matter. Move some distance away, then approach her again while cloaked by your Hide ability and attempt to eavesdrop on her grumbling."
+85,"TEXT_CLSROG101_00126_SYSTEM_110_059","Diving Dove appears distressed over some matter. Approach her while cloaked by your Hide ability and attempt to eavesdrop on her grumbling."
+86,"TEXT_CLSROG101_00126_SYSTEM_000_058","（★未使用／削除予定★）"
+87,"TEXT_CLSROG101_00126_SYSTEM_000_060","Rerenasu is mumbling anxiously to himself..."
+88,"TEXT_CLSROG101_00126_RERENASU_000_061","Curse my sense of duty... Would that I had stayed at the Wench for that extra pint instead of returning early."
+89,"TEXT_CLSROG101_00126_RERENASU_000_062","I didn't ask to see anyone being bribed! And certainly not my relief pilot! I wonder what that merchant was about? Smuggling? Most likely..."
+90,"TEXT_CLSROG101_00126_RERENASU_000_063","Should I report this to the Yellowjackets? ...But what if I'm being watched? I could end up facedown in the harbor..."
+91,"TEXT_CLSROG101_00126_RERENASU_000_064","What to do, what to do..."
+92,"TEXT_CLSROG101_00126_RERENASU_000_065","Oh! G-Greetings, <hex:02080EE905FF05>miss<hex:FF04>sir<hex:03>! Do you seek passage to Aleport? Or Costa del Sol, perhaps?"
+93,"TEXT_CLSROG101_00126_SYSTEM_000_066","Rerenasu appears distraught. Move some distance away, then approach him again while cloaked by your Hide ability and attempt to eavesdrop on his mumbling."
+94,"TEXT_CLSROG101_00126_SYSTEM_000_067","Rerenasu appears distraught. Approach him while cloaked by your Hide ability and attempt to eavesdrop on his mumbling."
+95,"TEXT_CLSROG101_00126_SYSTEM_000_064","（★未使用／削除予定★）"
+96,"TEXT_CLSROG101_00126_SYSTEM_000_070","Gerulf is hawking his wares to a customer..."
+97,"TEXT_CLSROG101_00126_GERULF_000_071","You have quite an eye for quality, sir! We've a splendid range of produce from every corner of Eorzea, but one simply cannot visit Limsa Lominsa without sampling some of the local specialties!"
+98,"TEXT_CLSROG101_00126_GERULF_000_072","Would you care for some freshly squeezed La Noscean orange juice? Or perhaps our famed salt cod is more to your taste...?"
+99,"TEXT_CLSROG101_00126_SYSTEM_000_073","Gerulf continues to espouse the virtues of his merchandise, but his impassioned urgings appear to have little relevance to your assignment."
+100,"TEXT_CLSROG101_00126_GERULF_000_074","An excellent choice! Might I also direct your gaze to these items on the bottom─"
+101,"TEXT_CLSROG101_00126_GERULF_000_075","Ah! Another customer! Welcome, welcome! Did you see aught you like? Pray stay and browse to your heart's content!"
+102,"TEXT_CLSROG101_00126_SYSTEM_000_076","Gerulf is speaking in a low but lively tone to a nearby customer. Move some distance away, then approach him again while cloaked by your Hide ability and attempt to eavesdrop on his exhortations."
+103,"TEXT_CLSROG101_00126_SYSTEM_000_077","Gerulf is speaking in a low but lively tone to a nearby customer. Approach him while cloaked by your Hide ability and attempt to eavesdrop on his exhortations."
+104,"TEXT_CLSROG101_00126_SYSTEM_000_074","（★未使用／削除予定★）"
+105,"TEXT_CLSROG101_00126_VKEBBE_000_080","Welcome back, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. I hope yer skulkin' went well."
+106,"TEXT_CLSROG101_00126_VKEBBE_000_081","Ye might be an angel o' death with the daggers, <hex:02080FE905FF05>dove<hex:FF05>colt<hex:03>, but any rogue what shuns the shadows is headed for an early grave. A sneaky <hex:02080FE905FF05>mort<hex:FF05>cove<hex:03> can nose about without riskin' a scrap, or slip <hex:020815E905FF08>herself<hex:FF08>himself<hex:03> into the best position to ambush a mark."
+107,"TEXT_CLSROG101_00126_VKEBBE_000_082","Once they've seen ye, though, yer rum fun is done. Hidin' is part concealment an' part distraction, an' ye won't be disappearin' on a cove what already knows yer there."
+108,"TEXT_CLSROG101_00126_VKEBBE_000_083","All right, I'm done prattlin'. What'd ye manage to learn about our musket-buyin' merchant friend?"
+109,"TEXT_CLSROG101_00126_VKEBBE_000_084","Slippin' coin to a ferry pilot, was he? An' by what ye heard from that chef at the Bismarck, this trader means to hop the twig, an' soon."
+110,"TEXT_CLSROG101_00126_VKEBBE_000_085","That matches with me own findin's: he's vacated his rooms at the inn an' paid his dues in full."
+111,"TEXT_CLSROG101_00126_VKEBBE_000_086","Bein' a merchant, we can be sure that he won't be leavin' without his merchandise. So, here's the plan: we wait for him to stack his goods on the pier, then you ghost in an' grabble them firearms."
+112,"TEXT_CLSROG101_00126_VKEBBE_000_087","I'm hopin' we can get the job done quiet an' under cover of darkmans, but it never hurts to be prepared for the worst. Sounds like he's got a small army o' sellswords on the payroll..."
+113,"TEXT_CLSROG101_00126_VKEBBE_000_090","I'll send word to the Yellowjackets, an' have 'em post a cull near Hawkers' Alley. That way ye won't have far to bolt once ye've bitten the goods."
+114,"TEXT_CLSROG101_00126_VKEBBE_000_091","The mark should be along any moment, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Have ye got yer skulkin' boots on?"
+115,"TEXT_CLSROG101_00126_EDGETRADERS00126_000_100","You! You are not supposed to be here! I thought I ordered my hirelings to keep this jetty clear!"
+116,"TEXT_CLSROG101_00126_EDGETRADERS00126_000_101","Hm? ...One...two...three... ...There's one missing."
+117,"TEXT_CLSROG101_00126_EDGETRADERS00126_000_102","My crate of muskets! It's gone!"
+118,"TEXT_CLSROG101_00126_EDGETRADERS00126_000_103","Thief! <hex:021A020203>Stop<hex:021A020103> <hex:02080DE905FF04>her<hex:FF04>him<hex:03>, you useless sluggards! What am I paying you for!?"
+119,"TEXT_CLSROG101_00126_VKEBBE_000_110","That turned hairy, didn't it, <hex:02080FE905FF05>dove<hex:FF05>colt<hex:03>?"
+120,"TEXT_CLSROG101_00126_VKEBBE_000_111","Once ye reached the Yellowjacket, though, the merchant called off his blades. Wise enough to cut his losses, I'll give him that."
+121,"TEXT_CLSROG101_00126_VKEBBE_000_112","I'd say we're all done here. Let's head inside an' tell Jacke the bene news."
+122,"TEXT_CLSROG101_00126_JACKE_000_130","I heard the sounds o' fightin' comin' from outside, an' now I've whiddled the cause of it. ...I thought we were aimin' for “subtle” on this job."
+123,"TEXT_CLSROG101_00126_JACKE_000_131","That many swads, was there? But ye got the Yellowjackets what they wanted, so all's well that ends well, eh?"
+124,"TEXT_CLSROG101_00126_VKEBBE_000_132","Yer on yer way to becomin' a first-class rogue, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>."
+125,"TEXT_CLSROG101_00126_VKEBBE_000_133","Aye, the job didn't unfold exactly as planned, but do ye see the value o' keepin' out o' sight? Skulkin' might seem slow, but it can save ye time─an' a fair amount o' bleedin'─in the long run."
+126,"TEXT_CLSROG101_00126_JACKE_000_134","Ah, speakin' of unexpected developments... I've a bit o' bad news for ye, V'kebbe."
+127,"TEXT_CLSROG101_00126_JACKE_000_135","I searched high an' low, but it seems some unprincipled cove has yaffled yer sandwich. There were naught but crumbs to be found."
+128,"TEXT_CLSROG101_00126_VKEBBE_000_136","No... My sandwich... It was a Bismarck special..."
+129,"TEXT_CLSROG101_00126_VKEBBE_000_137","Do ye know how much I was lookin' forward to that meal!? Me belly's about ready to cave in on itself!"
+130,"TEXT_CLSROG101_00126_JACKE_000_138","'Tis a tragedy o' the highest order, love. An' ye know I can't bear to see me rogues in such distress..."
+131,"TEXT_CLSROG101_00126_JACKE_000_139","So, I gave Underfoot a special assignment─he should be back any moment now..."
+132,"TEXT_CLSROG101_00126_JACKE_000_140","...with a freshly made Bismarck special finger sandwich!"
+133,"TEXT_CLSROG101_00126_VKEBBE_000_141","Ye did that for me!? Yer not japin' with me, are ye, Jacke!?"
+134,"TEXT_CLSROG101_00126_JACKE_000_142","This ain't no japin' matter. 'Tis a guildmaster's responsibility to see that all his coves an' morts are at their best for the job."
+135,"TEXT_CLSROG101_00126_PERIMUHAURIMU_000_143","Ah, Jacke, there ye are! I've got that sandwich ye ordered!"
+136,"TEXT_CLSROG101_00126_PERIMUHAURIMU_000_144","An' didn't the chef give me a wattle-ful when I said we was in a hurry! Maybe next time ye could think twice afore ye yaffle a fellow rogue's sup─"
+137,"TEXT_CLSROG101_00126_PERIMUHAURIMU_000_145","...Oh, bollocks."
+138,"TEXT_CLSROG101_00126_JACKE_000_146","..."
+139,"TEXT_CLSROG101_00126_VKEBBE_000_147","...Jacke. Did you eat my supper?"
+140,"TEXT_CLSROG101_00126_JACKE_000_148","Now, now, lass, let's not be hasty. There's a fresh new sandwich right here for ye. No harm done, eh?"
+141,"TEXT_CLSROG101_00126_VKEBBE_000_149","Ye've cloyed somethin' what belonged to me, Jacke. An' I can't ignore the code..."
+142,"TEXT_CLSROG101_00126_JACKE_000_150","Ahahaha, aye, the code! We mustn't ignore the code! ...Yer havin' a laugh, aren't ye, lass? ...Lass?"
+143,"TEXT_CLSROG101_00126_JACKE_000_151","Aaargh!"
+144,"TEXT_CLSROG101_00126_PERIMUHAURIMU_000_152","...That might be the swiftest string-up I've ever seen."
+145,"TEXT_CLSROG101_00126_VKEBBE_000_153","A punishment to fit the crime. Take a good long look, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>."
+146,"TEXT_CLSROG101_00126_VKEBBE_000_154","The code exists to preserve peace in Limsa─to keep the alleys from runnin' red with blood. This city's me home, an' I'll draw daggers on <hex:021A020203>any<hex:021A020103> cove fool enough to threaten that peace."
+147,"TEXT_CLSROG101_00126_PERIMUHAURIMU_000_155","A pointed lesson. Let's head inside, eh? Yer sandwich'll get cold."
+148,"TEXT_CLSROG101_00126_JACKE_000_156","(-Jacke-)Hey! Do ye mean to leave me here all night!? At least ye gave me a grand view o' the harbor! ...Gods' piss, these ropes are tight!"
+149,"TEXT_CLSROG101_00126_MILALA_000_157","(-Yellowjacket Soldier-)And now we find ourselves indebted to the Rogues' Guild. The <hex:021A020203>Rogues'<hex:021A020103> Guild."
+150,"TEXT_CLSROG101_00126_MILALA_000_158","(-Yellowjacket Soldier-)Hmph, the impropriety of it all. Would that I could see <hex:021A020203>them<hex:021A020103> occupying a cell next to those thieving pirates..."
+151,"TEXT_CLSROG101_00126_JACKE_000_160","Ow... Them ropes'll leave chafe marks for a bleedin' week. I may've wriggled meself free, but that's the last time I let me belly do the thinkin'..."
+152,"TEXT_CLSROG101_00126_JACKE_000_161","An' just think: V'kebbe strung me up over an egg sandwich. Those coves what well an' truly stomp on the code get it far worse. Keep up yer trainin', <hex:02080EE905FF05>lass<hex:FF04>lad<hex:03>, an' ye'll soon be handin' out rogue justice yerself."
+153,"TEXT_CLSROG101_00126_QIB_TODO001","Use the Hide ability to retrieve the stolen firearms."
+154,"TEXT_CLSROG101_00126_QIB_TODO002","Deliver the firearms to the Yellowjacket near Hawkers' Alley."
+155,"TEXT_CLSROG101_00126_VKEBBE_BATTLETALK_01","I've spotted the mark at the end of the pier.<hex:02100103>Sneak over there an' lighten his load."
+156,"TEXT_CLSROG101_00126_VKEBBE_BATTLETALK_02","We've no place to run...<hex:02100103>Time to get yer stabbers out!"
+157,"TEXT_CLSROG101_00126_VKEBBE_BATTLETALK_03","Slink past any other swads in yer way,<hex:02100103>an' get them goods to the Yellowjackets."
+158,"TEXT_CLSROG101_00126_VKEBBE_BATTLETALK_04","I'll lead these culls a merry chase.<hex:02100103>Meet me in front o' the guild once all is bob!"
+159,"TEXT_CLSROG101_00126_VKEBBE_BATTLETALK_05","Bollocks.<hex:02100103>This ain't how the job was meant to end..."
+160,"TEXT_CLSROG101_00126_MERCHANT_BATTLETALK_01","Thieves! Scoundrels!<hex:02100103>A bonus to the one who brings me their hides!"
+161,"TEXT_CLSROG101_00126_YEL_DUMMY_BATTLETALK_01","Aye, these are our stolen muskets.<hex:02100103>The quartermaster will be pleased."

@@ -2,116 +2,116 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_STMBDI204_03092_SEQ_00,艦橋的傑諾米·申·雷克森提爾似乎想和冒險者商量今後的對策。
-1,TEXT_STMBDI204_03092_SEQ_01,根據拉姆薩的調查，黎鐸拉納大燈塔在傳說中伊瓦利斯的時代似乎是一個叫做機工都市高古的地方。突破封閉聖塔黎鐸拉納大燈塔，調查其內部。<hex:02100103><hex:02100103>※可以通過任務搜尋器參加。
-2,TEXT_STMBDI204_03092_SEQ_02,突破了封鎖聖塔黎鐸拉納。返回劇場艇初見號道具間。
-3,TEXT_STMBDI204_03092_SEQ_03,兩條項鏈似乎是用同一塊水晶的碎片加工做成的。邦加莫南的那條項鏈來自於達爾馬斯卡王國的拉斯勒王子。在黃金港飛艇坪前和莉娜·繆里拉談談。
-4,TEXT_STMBDI204_03092_SEQ_04,和莉娜·繆里拉進行了交談。她似乎很在意剛才拉姆薩奇怪的樣子。經過這次調查，證實了伊瓦利斯過去確實存在過。過一段時間再來找莉娜。
-5,TEXT_STMBDI204_03092_SEQ_05,
-6,TEXT_STMBDI204_03092_SEQ_06,
-7,TEXT_STMBDI204_03092_SEQ_07,
-8,TEXT_STMBDI204_03092_SEQ_08,
-9,TEXT_STMBDI204_03092_SEQ_09,
-10,TEXT_STMBDI204_03092_SEQ_10,
-11,TEXT_STMBDI204_03092_SEQ_11,
-12,TEXT_STMBDI204_03092_SEQ_12,
-13,TEXT_STMBDI204_03092_SEQ_13,
-14,TEXT_STMBDI204_03092_SEQ_14,
-15,TEXT_STMBDI204_03092_SEQ_15,
-16,TEXT_STMBDI204_03092_SEQ_16,
-17,TEXT_STMBDI204_03092_SEQ_17,
-18,TEXT_STMBDI204_03092_SEQ_18,
-19,TEXT_STMBDI204_03092_SEQ_19,
-20,TEXT_STMBDI204_03092_SEQ_20,
-21,TEXT_STMBDI204_03092_SEQ_21,
-22,TEXT_STMBDI204_03092_SEQ_22,
-23,TEXT_STMBDI204_03092_SEQ_23,
-24,TEXT_STMBDI204_03092_TODO_00,突破封閉聖塔黎鐸拉納大燈塔
-25,TEXT_STMBDI204_03092_TODO_01,突破封閉聖塔黎鐸拉納大燈塔
-26,TEXT_STMBDI204_03092_TODO_02,和黃金港飛艇坪前的莉娜·繆里拉對話
-27,TEXT_STMBDI204_03092_TODO_03,
-28,TEXT_STMBDI204_03092_TODO_04,
-29,TEXT_STMBDI204_03092_TODO_05,
-30,TEXT_STMBDI204_03092_TODO_06,
-31,TEXT_STMBDI204_03092_TODO_07,
-32,TEXT_STMBDI204_03092_TODO_08,
-33,TEXT_STMBDI204_03092_TODO_09,
-34,TEXT_STMBDI204_03092_TODO_10,
-35,TEXT_STMBDI204_03092_TODO_11,
-36,TEXT_STMBDI204_03092_TODO_12,
-37,TEXT_STMBDI204_03092_TODO_13,
-38,TEXT_STMBDI204_03092_TODO_14,
-39,TEXT_STMBDI204_03092_TODO_15,
-40,TEXT_STMBDI204_03092_TODO_16,
-41,TEXT_STMBDI204_03092_TODO_17,
-42,TEXT_STMBDI204_03092_TODO_18,
-43,TEXT_STMBDI204_03092_TODO_19,
-44,TEXT_STMBDI204_03092_TODO_20,
-45,TEXT_STMBDI204_03092_TODO_21,
-46,TEXT_STMBDI204_03092_TODO_22,
-47,TEXT_STMBDI204_03092_TODO_23,
-48,TEXT_STMBDI204_03092_JENOMISLEXENTALE_000_500,雖然救出邦加莫南越發困難了，<hex:02100103>但我們也不能就此放棄。<hex:02100103>必須想想對策……
-49,TEXT_STMBDI204_03092_ALMALEXENTALE_000_150,居然發生了這種事……<hex:02100103>真是太可怕了……
-50,TEXT_STMBDI204_03092_RAMZALEXENTALE_000_151,我這邊也得到了證實。<hex:02100103>父親你的推測是正確的。
-51,TEXT_STMBDI204_03092_JENOMISLEXENTALE_000_152,噢噢！這麼說，黎鐸拉納大燈塔果然是……
-52,TEXT_STMBDI204_03092_RAMZALEXENTALE_000_153,沒錯，就是傳說中的機工都市高古！
-53,TEXT_STMBDI204_03092_LINAMEWRILAH_000_154,機工都市高古？
-54,TEXT_STMBDI204_03092_MIKOTO_000_155,是在伊瓦利斯傳說中登場的都市。<hex:02100103>據說是最早發明飛空艇和機工兵器的地方。<hex:02100103>這個城市別說具體位置，就連其是否真正存在過都沒有被證實。
-55,TEXT_STMBDI204_03092_JENOMISLEXENTALE_000_156,«杜萊白書»中說，高古是建立在狹小土地上的城市，<hex:02100103>所以是一層層往上蓋的。
-56,TEXT_STMBDI204_03092_JENOMISLEXENTALE_000_157,狹小的土地如果是指小島或者岩礁，<hex:02100103>那都市層層往上蓋這一點就可以理解了。
-57,TEXT_STMBDI204_03092_JENOMISLEXENTALE_000_158,«杜萊白書»還說，<hex:02100103>因為發生了神秘的爆炸事故導致都市上半部分消失，<hex:02100103>高古人民只好撤離這裡。
-58,TEXT_STMBDI204_03092_JENOMISLEXENTALE_000_159,假如就是這場事故導致了海眼的產生呢？<hex:02100103>恐怕伊瓦利斯時代它還只是個小洞，<hex:02100103>隨著日積月累，被瀑布逐漸沖刷變大……
-59,TEXT_STMBDI204_03092_JENOMISLEXENTALE_000_160,這樣想的話，就說得通為什麼«杜萊白書»中<hex:02100103>沒有關於黎鐸拉納的記載了。
-60,TEXT_STMBDI204_03092_RAMZALEXENTALE_000_161,據說加雷馬族原本是由七個部族彙集到一起，<hex:02100103>共同建立了共和制的加雷馬國。<hex:02100103>如果說七個部族其中之一就是高古的人民呢？
-61,TEXT_STMBDI204_03092_RAMZALEXENTALE_000_162,我們之前一直奇怪，為什麼存在於達爾馬斯卡的伊瓦利斯傳說，<hex:02100103>其故事會在加雷馬族流傳。
-62,TEXT_STMBDI204_03092_RAMZALEXENTALE_000_163,但如果擅長機工技術的高古人民正是始祖七部族之一，<hex:02100103>那這個謎題就解開了！
-63,TEXT_STMBDI204_03092_MIKOTO_000_164,而被遺棄的機工都市高古下半部分<hex:02100103>就被後來的達爾馬斯卡王國當做大燈塔利用了起來……<hex:02100103>原來如此，這一推測確實非常合理。
-64,TEXT_STMBDI204_03092_BWAGI_000_165,喂，你……<hex:02100103>那個項鏈是在哪裡得到的？
-65,TEXT_STMBDI204_03092_ALMALEXENTALE_000_166,哪裡？這是我母親的遺物……
-66,TEXT_STMBDI204_03092_BWAGI_000_167,遺物？
-67,TEXT_STMBDI204_03092_JENOMISLEXENTALE_000_167,是我亡故的妻子緹婭一直帶在身邊的東西。<hex:02100103>有什麼問題嗎？
-68,TEXT_STMBDI204_03092_BWAGI_000_168,其實，我們大哥也一直帶著一個和這個很像的項鏈……<hex:02100103>他從不讓項鏈離身，應該是很重要的東西，<hex:02100103>和這條項鏈好像。
-69,TEXT_STMBDI204_03092_RAMZALEXENTALE_000_169,你想說是阿魯瑪偷的？<hex:02100103>我們要怎麼樣才能從你們的首領那裡偷東西？！
-70,TEXT_STMBDI204_03092_BWAGI_000_170,哎哎？！<hex:02100103>我沒這個意思啊？
-71,TEXT_STMBDI204_03092_LINAMEWRILAH_000_171,那孩子還真是性格惡劣到家了。
-72,TEXT_STMBDI204_03092_JENOMISLEXENTALE_000_172,別這樣，拉姆薩。<hex:02100103>他只是在擔心家人。<hex:02100103>就算外表和我們不同，他們也一樣是「人」。
-73,TEXT_STMBDI204_03092_RAMZALEXENTALE_000_173,父親……您這是將加雷馬族的榮耀置於何地……！
-74,TEXT_STMBDI204_03092_JENOMISLEXENTALE_000_174,怎麼，有什麼想說的就說清楚！
-75,TEXT_STMBDI204_03092_RAMZALEXENTALE_000_175,不……沒什麼。
-76,TEXT_STMBDI204_03092_JENOMISLEXENTALE_000_176,那我們就繼續調查黎鐸拉納大燈塔。<hex:02100103>這次一定要找到證明這裡就是高古的證據，<hex:02100103>以此來證實伊瓦利斯的存在！
-77,TEXT_STMBDI204_03092_RAMZALEXENTALE_000_400,這是……母親的遺物？<hex:02100103>不對，應該是他們說的邦加莫南的項鏈。
-78,TEXT_STMBDI204_03092_RAMZALEXENTALE_000_600,阿魯瑪……你在哪，阿魯瑪……
-79,TEXT_STMBDI204_03092_ALMALEXENTALE_000_601,哥哥，我在這裡，就在這裡……
-80,TEXT_STMBDI204_03092_JENOMISLEXENTALE_000_602,雖然水晶的形狀不同，<hex:02100103>但裝飾用的金屬和做工一模一樣……<hex:02100103>為什麼邦加莫南會戴著這個？
-81,TEXT_STMBDI204_03092_MIKOTO_000_603,看起來是同種材質的水晶，<hex:02100103>具體需要進一步調查才能驗證。
-82,TEXT_STMBDI204_03092_MONTBLANC_000_604,這兩個項鏈是用同一個水晶的碎片加工製成的庫啵……<hex:02100103>而且還是那種叫聖石的水晶庫啵。<hex:02100103>莫古能感覺到同樣的乙太庫啵……
-83,TEXT_STMBDI204_03092_JENOMISLEXENTALE_000_605,咦？你說的是真的嗎？
-84,TEXT_STMBDI204_03092_MONTBLANC_000_606,賀迪也能感覺到吧庫啵？
-85,TEXT_STMBDI204_03092_BWAGI_000_607,我說過我們曾經是達爾馬斯卡王國的火槍隊隊員吧？
-86,TEXT_STMBDI204_03092_BWAGI_000_608,大哥的項鏈是那爾比納城塞指揮官拉斯勒王子交給他的……<hex:02100103>原本是希望他將這條項鏈交給雅雪公主……
-87,TEXT_STMBDI204_03092_LINAMEWRILAH_000_609,也就是說項鏈是拉斯勒王子和雅雪公主兩位的遺物囉……
-88,TEXT_STMBDI204_03092_JENOMISLEXENTALE_000_610,對邦加莫南來說，這是他僅存的達爾馬斯卡王國的榮譽了吧……<hex:02100103>說不定就是這兩條項鏈在引導我們雙方前往伊瓦利斯……
-89,TEXT_STMBDI204_03092_RAMZALEXENTALE_000_611,正是如此，父親大人。<hex:02100103>這兩條項鏈在指引我們重返伊瓦利斯！
-90,TEXT_STMBDI204_03092_ALMALEXENTALE_000_612,哥哥……你沒事吧？
-91,TEXT_STMBDI204_03092_RAMZALEXENTALE_000_613,謝謝你，阿魯瑪，我沒事了。
-92,TEXT_STMBDI204_03092_MIKOTO_000_614,原來如此，被用來製作項鏈的水晶是聖石……<hex:02100103>說不定，聖石的主人曾經許下的願望就是「重返伊瓦利斯」？
-93,TEXT_STMBDI204_03092_LINAMEWRILAH_000_615,到底是誰，又為何要這麼做呢？
-94,TEXT_STMBDI204_03092_RAMZALEXENTALE_000_616,拉姆薩·貝奧爾甫……<hex:02100103>被埋葬於歷史暗處的無名英雄……<hex:02100103>恐怕就是他吧。
-95,TEXT_STMBDI204_03092_RAMZALEXENTALE_000_617,當然，他引導我們前往王都勒薩利亞和機工都市高古，<hex:02100103>也並不是單純想帶我們前往伊瓦利斯吧。
-96,TEXT_STMBDI204_03092_RAMZALEXENTALE_000_618,大概是有什麼理由……<hex:02100103>恐怕是為了給予我們試煉。<hex:02100103>要考驗一下，我們是不是有資格重返伊瓦利斯的人！
-97,TEXT_STMBDI204_03092_LINAMEWRILAH_000_619,拉姆薩，你怎麼會知道得這麼清楚？<hex:02100103>簡直好像親眼看到過一樣。
-98,TEXT_STMBDI204_03092_RAMZALEXENTALE_000_620,繆里拉小姐，你會覺得可疑也是當然的。<hex:02100103>不過，我有十分把握。
-99,TEXT_STMBDI204_03092_LINAMEWRILAH_000_621,……繆、繆里拉小姐？
-100,TEXT_STMBDI204_03092_ALMALEXENTALE_000_622,哥哥……你真的是哥哥嗎？
-101,TEXT_STMBDI204_03092_RAMZALEXENTALE_000_623,阿魯瑪，你在說什麼胡話呢。<hex:02100103>抱歉讓你擔心，我已經沒事了。
-102,TEXT_STMBDI204_03092_MONTBLANC_000_624,……乙太混在一起了庫啵。
-103,TEXT_STMBDI204_03092_RAMZALEXENTALE_000_625,父親大人，兩條項鏈彙集到此處正可謂是神的啟示，<hex:02100103>證明了我們的調查和假說！<hex:02100103>只要繼續研究這個歐提斯聖石……
-104,TEXT_STMBDI204_03092_RAMZALEXENTALE_000_626,我突然有點頭暈……<hex:02100103>謝謝你，冒險者。
-105,TEXT_STMBDI204_03092_ALMALEXENTALE_000_627,哥哥，你沒事吧？
-106,TEXT_STMBDI204_03092_RAMZALEXENTALE_000_628,沒關係……我已經沒事了。
-107,TEXT_STMBDI204_03092_LINAMEWRILAH_000_700,多虧了你，機工都市高古的調查也平安結束了。<hex:02100103>不，雖然並不平安……<hex:02100103>邦加莫南的事真是遺憾……
-108,TEXT_STMBDI204_03092_LINAMEWRILAH_000_701,不過，這調查要到什麼時候才算完呢？<hex:02100103>我們已經發現了勒薩利亞和高古，<hex:02100103>這不是足夠證明伊瓦利斯曾經存在過了嗎？
-109,TEXT_STMBDI204_03092_LINAMEWRILAH_000_702,啊，對了。傑諾米並不是想要證明伊瓦利斯的存在，<hex:02100103>而是要為先祖討回名聲。
-110,TEXT_STMBDI204_03092_LINAMEWRILAH_000_703,不過，拉姆薩他好奇怪啊。<hex:02100103>平時都是叫父親的，剛才突然改口叫父親大人，<hex:02100103>說話語氣也變得好奇怪。
-111,TEXT_STMBDI204_03092_LINAMEWRILAH_000_704,還好現在又變回了平時那個討人厭的小孩。<hex:02100103>是因為在黎鐸拉納大燈塔中了什麼毒氣嗎？<hex:02100103>不過他性情大變後反而更像個好人了呢！
-112,TEXT_STMBDI204_03092_LINAMEWRILAH_000_705,總之，這次多謝你前來幫忙！<hex:02100103>下次也拜託你了！
+0,"TEXT_STMBDI204_03092_SEQ_00","A solid plan of action must be devised before facing the Bangaa transformed."
+1,"TEXT_STMBDI204_03092_SEQ_01","A preliminary examination of the lighthouse's exterior has led Ramza to conclude that the structure was built atop the ruins of an ancient metropolis known as the Clockwork City of Goug. Further investigation of the tower's interior is necessary to put the matter beyond doubt.<hex:02100103><hex:02100103>※The Ridorana Lighthouse can be accessed via the Duty Finder."
+2,"TEXT_STMBDI204_03092_SEQ_02","With Yiazmat defeated and Ba'Gamnan's soul returned to the aether, the secrets of the Ridorana Lighthouse have revealed themselves to you and your companions."
+3,"TEXT_STMBDI204_03092_SEQ_03","Back aboard the <hex:021A020203>Prima Vista<hex:021A020103>, Bwagi reveals that a necklace discovered by Ramza at the scene of the battle with Ba'Gamnan once belonged to the late Princess Ashelia of Dalmasca."
+4,"TEXT_STMBDI204_03092_SEQ_04","After your discoveries in Lesalia and now Goug, Lina Mewrilah questions whether you do not already have enough evidence to prove that Ivalice is more than a mere faerie tale. However, she understands that Principal Jenomis and his ever more temperamental son will not stop until they have cleared their family's name."
+5,"TEXT_STMBDI204_03092_SEQ_05",""
+6,"TEXT_STMBDI204_03092_SEQ_06",""
+7,"TEXT_STMBDI204_03092_SEQ_07",""
+8,"TEXT_STMBDI204_03092_SEQ_08",""
+9,"TEXT_STMBDI204_03092_SEQ_09",""
+10,"TEXT_STMBDI204_03092_SEQ_10",""
+11,"TEXT_STMBDI204_03092_SEQ_11",""
+12,"TEXT_STMBDI204_03092_SEQ_12",""
+13,"TEXT_STMBDI204_03092_SEQ_13",""
+14,"TEXT_STMBDI204_03092_SEQ_14",""
+15,"TEXT_STMBDI204_03092_SEQ_15",""
+16,"TEXT_STMBDI204_03092_SEQ_16",""
+17,"TEXT_STMBDI204_03092_SEQ_17",""
+18,"TEXT_STMBDI204_03092_SEQ_18",""
+19,"TEXT_STMBDI204_03092_SEQ_19",""
+20,"TEXT_STMBDI204_03092_SEQ_20",""
+21,"TEXT_STMBDI204_03092_SEQ_21",""
+22,"TEXT_STMBDI204_03092_SEQ_22",""
+23,"TEXT_STMBDI204_03092_SEQ_23",""
+24,"TEXT_STMBDI204_03092_TODO_00","Enter the Ridorana Lighthouse."
+25,"TEXT_STMBDI204_03092_TODO_01","Enter the Ridorana Lighthouse."
+26,"TEXT_STMBDI204_03092_TODO_02","Speak with Lina Mewrilah at Kugane Landing."
+27,"TEXT_STMBDI204_03092_TODO_03",""
+28,"TEXT_STMBDI204_03092_TODO_04",""
+29,"TEXT_STMBDI204_03092_TODO_05",""
+30,"TEXT_STMBDI204_03092_TODO_06",""
+31,"TEXT_STMBDI204_03092_TODO_07",""
+32,"TEXT_STMBDI204_03092_TODO_08",""
+33,"TEXT_STMBDI204_03092_TODO_09",""
+34,"TEXT_STMBDI204_03092_TODO_10",""
+35,"TEXT_STMBDI204_03092_TODO_11",""
+36,"TEXT_STMBDI204_03092_TODO_12",""
+37,"TEXT_STMBDI204_03092_TODO_13",""
+38,"TEXT_STMBDI204_03092_TODO_14",""
+39,"TEXT_STMBDI204_03092_TODO_15",""
+40,"TEXT_STMBDI204_03092_TODO_16",""
+41,"TEXT_STMBDI204_03092_TODO_17",""
+42,"TEXT_STMBDI204_03092_TODO_18",""
+43,"TEXT_STMBDI204_03092_TODO_19",""
+44,"TEXT_STMBDI204_03092_TODO_20",""
+45,"TEXT_STMBDI204_03092_TODO_21",""
+46,"TEXT_STMBDI204_03092_TODO_22",""
+47,"TEXT_STMBDI204_03092_TODO_23",""
+48,"TEXT_STMBDI204_03092_JENOMISLEXENTALE_000_500","Much as I wish it were otherwise...I fear Ba'Gamnan is beyond saving. Yet we cannot suffer what is left of him to become a distraction."
+49,"TEXT_STMBDI204_03092_ALMALEXENTALE_000_150","Father. Is now not the time to abandon this quest? We are meddling with forces beyond─"
+50,"TEXT_STMBDI204_03092_RAMZALEXENTALE_000_151","<hex:021A020203>Enough<hex:021A020103>, Alma. We adults are talking.<hex:02100103>While <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> was searching for the lizard, I inspected an area of exposed foundation at the base of the lighthouse."
+51,"TEXT_STMBDI204_03092_JENOMISLEXENTALE_000_152","And?"
+52,"TEXT_STMBDI204_03092_RAMZALEXENTALE_000_153","And you were right, Father! The lighthouse is built squarely atop the ruins of what can only be...the Clockwork City of Goug!"
+53,"TEXT_STMBDI204_03092_LINAMEWRILAH_000_154","The what-work city of who?"
+54,"TEXT_STMBDI204_03092_MIKOTO_000_155","According to the Zodiac Brave Story, the Clockwork City of Goug was a metallic metropolis wherein airships, automata, and other technological marvels of the age were first conceived. Little is said about its location, however, save that it was far away."
+55,"TEXT_STMBDI204_03092_JENOMISLEXENTALE_000_156","While the Durai Papers do not say a great deal more, they <hex:021A020203>do<hex:021A020103> mention that the land upon which the legendary city was built was severely limited─an inconvenience that forced its inhabitants to build up, rather than out."
+56,"TEXT_STMBDI204_03092_JENOMISLEXENTALE_000_157","Which led me to ask myself: what if the reason land was limited was because the land in question was an <hex:021A020203>is<hex:021A020103>land?"
+57,"TEXT_STMBDI204_03092_JENOMISLEXENTALE_000_158","But that still would not explain the omission of the cataract. It is inconceivable that the authors would neglect to mention so prominent a landmark had it existed. And then I found it─a lone passage regarding Goug's fall. While the particulars were missing, it appears the city was abandoned after an explosion left half of it in ruin."
+58,"TEXT_STMBDI204_03092_JENOMISLEXENTALE_000_159","I believe that this explosion may have undermined a portion of the seabed. It need only have been a small area at first─one that could well have gone unnoticed during the exodus. As time passed, however, the waters would have continued to wear away at the rock, slowly widening the gap until..."
+59,"TEXT_STMBDI204_03092_JENOMISLEXENTALE_000_160","Well, until we have what lies beneath us today. This would explain why there is no mention of Ridorana prior to the present era."
+60,"TEXT_STMBDI204_03092_RAMZALEXENTALE_000_161","...Come, Father─will you not tell them the rest? Of the possibility that we Garleans are descended in part from the displaced citizens of Goug?"
+61,"TEXT_STMBDI204_03092_RAMZALEXENTALE_000_162","It would explain how the Empire was able to forge its armies of iron even before the discovery and application of Allagan technology."
+62,"TEXT_STMBDI204_03092_RAMZALEXENTALE_000_163","And it may <hex:021A020203>also<hex:021A020103> explain why the legend of Ivalice has resonated with our people for centuries, despite the fact that the lost kingdom was, as far as we can tell, in quite a different corner of the world."
+63,"TEXT_STMBDI204_03092_MIKOTO_000_164","An interesting...if somewhat ambitious theory. But to return to your original claim, it is your belief that the Ridorana Lighthouse stands atop what is left of─"
+64,"TEXT_STMBDI204_03092_BWAGI_000_165","That necklace! Where did you get it, girl?"
+65,"TEXT_STMBDI204_03092_ALMALEXENTALE_000_166","Th-This? It was my mother's."
+66,"TEXT_STMBDI204_03092_BWAGI_000_167","Your <hex:021A020203>mother's<hex:021A020103>?"
+67,"TEXT_STMBDI204_03092_JENOMISLEXENTALE_000_167","It was my late wife's most cherished possession. Why do you ask?"
+68,"TEXT_STMBDI204_03092_BWAGI_000_168","Ba'Gamnan had a talisman he would wear beneath his jerkin. He refused to take it off, even when bathing. He said it was...special. I only saw it a few times, but it looked exactly like the one your daughter wears."
+69,"TEXT_STMBDI204_03092_RAMZALEXENTALE_000_169","<hex:021A020203>And<hex:021A020103>? What are you implying, lizard? That my sister stole it? Or my late mother!?"
+70,"TEXT_STMBDI204_03092_BWAGI_000_170","Neither. I spoke of their similarity. That is all."
+71,"TEXT_STMBDI204_03092_LINAMEWRILAH_000_171","Can you believe the nerve of this boy?"
+72,"TEXT_STMBDI204_03092_JENOMISLEXENTALE_000_172","Enough, Ramza. Our guests are merely concerned for the well-being of their kin."
+73,"TEXT_STMBDI204_03092_RAMZALEXENTALE_000_173","But what of <hex:021A020203>our<hex:021A020103> kin!?"
+74,"TEXT_STMBDI204_03092_JENOMISLEXENTALE_000_174","What of them, Ramza!? Do you imagine our kin to be <hex:021A020203>better<hex:021A020103> than theirs in some way? Or anyone else's for that matter!?"
+75,"TEXT_STMBDI204_03092_RAMZALEXENTALE_000_175","I...I apologize, Father."
+76,"TEXT_STMBDI204_03092_JENOMISLEXENTALE_000_176","We have but one purpose, son, and that is to prove the existence of Ivalice and clear our family's name. Do not allow anger or hate to lead you from that path. Now, we have a lost city to explore!"
+77,"TEXT_STMBDI204_03092_RAMZALEXENTALE_000_400","Mother's necklace... But what is it doing here? Unless─"
+78,"TEXT_STMBDI204_03092_RAMZALEXENTALE_000_600","Alma? Alma, are you there?"
+79,"TEXT_STMBDI204_03092_ALMALEXENTALE_000_601","I'm here, Ramza."
+80,"TEXT_STMBDI204_03092_JENOMISLEXENTALE_000_602","Extraordinary. The stones are different, but the craftsmanship is identical. However did it come to be in Ba'Gamnan's possession?"
+81,"TEXT_STMBDI204_03092_MIKOTO_000_603","Hmm...though they are indeed of a different shape, the stones appear to be cut from the same crystal."
+82,"TEXT_STMBDI204_03092_MONTBLANC_000_604","Oh, they are. Auracite."
+83,"TEXT_STMBDI204_03092_JENOMISLEXENTALE_000_605","Auracite? And what makes you say that?"
+84,"TEXT_STMBDI204_03092_MONTBLANC_000_606","Can't you feel it? You can feel it, can't you, Hurdy."
+85,"TEXT_STMBDI204_03092_BWAGI_000_607","Do you recall me telling you that Ba'Gamnan considered the necklace special?"
+86,"TEXT_STMBDI204_03092_BWAGI_000_608","It was special because it was entrusted to him by Prince Rasler. He was to return it to Princess Ashelia upon delivering Her Highness from Nalbina Fortress."
+87,"TEXT_STMBDI204_03092_LINAMEWRILAH_000_609","A family keepsake."
+88,"TEXT_STMBDI204_03092_JENOMISLEXENTALE_000_610","Of course! And each necklace─each <hex:021A020203>auracite<hex:021A020103>─has acted as a lodestone, drawing both of our parties closer and closer to Ivalice."
+89,"TEXT_STMBDI204_03092_RAMZALEXENTALE_000_611","Indeed, Father. The auracite guides us."
+90,"TEXT_STMBDI204_03092_ALMALEXENTALE_000_612","Ramza! Are you recovered?"
+91,"TEXT_STMBDI204_03092_RAMZALEXENTALE_000_613","Thank you, Sister. I am well now."
+92,"TEXT_STMBDI204_03092_MIKOTO_000_614","From what we know of the Duma and the Otius, vestiges of one's will may endure in an auracite. Could it be, then, that the desire of the former owner─or creator─of these necklaces was simply to...<hex:021A020203>return to Ivalice<hex:021A020103>?"
+93,"TEXT_STMBDI204_03092_LINAMEWRILAH_000_615","But who could that have been?"
+94,"TEXT_STMBDI204_03092_RAMZALEXENTALE_000_616","<hex:021A020203>Ramza.<hex:021A020103> Ramza Beoulve. He wanted people to return to his homeland and uncover the truth behind the kingdom's founding!"
+95,"TEXT_STMBDI204_03092_RAMZALEXENTALE_000_617","But then why show us Lesalia and Goug, you ask."
+96,"TEXT_STMBDI204_03092_RAMZALEXENTALE_000_618","Simple. We are being tested. The auracite is measuring our worth─seeing if we are deserving of that truth."
+97,"TEXT_STMBDI204_03092_LINAMEWRILAH_000_619","You say these things as if you knew them. But how could you? Nothing we have uncovered suggests anything of the kind."
+98,"TEXT_STMBDI204_03092_RAMZALEXENTALE_000_620","I know you have your doubts, but I can assure you they are misplaced. For now, I must ask you to trust me, Lady Mewrilah."
+99,"TEXT_STMBDI204_03092_LINAMEWRILAH_000_621","<hex:021A020203>Lady<hex:021A020103> Mewrilah? Since when did you─"
+100,"TEXT_STMBDI204_03092_ALMALEXENTALE_000_622","Ramza, are you feeling quite yourself?"
+101,"TEXT_STMBDI204_03092_RAMZALEXENTALE_000_623","Of course I am, Sister dearest. I have never felt better!"
+102,"TEXT_STMBDI204_03092_MONTBLANC_000_624","I sense a disturbance in the aether..."
+103,"TEXT_STMBDI204_03092_RAMZALEXENTALE_000_625","Father. These necklaces are gifts. Gifts from the old gods who once watched over the Ivalicians. It is proof we have their blessing! With the necklaces and the Otius, we can finally prove─"
+104,"TEXT_STMBDI204_03092_RAMZALEXENTALE_000_626","Thank you, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. I know not what came over me..."
+105,"TEXT_STMBDI204_03092_ALMALEXENTALE_000_627","Ramza, you <hex:021A020203>must<hex:021A020103> rest."
+106,"TEXT_STMBDI204_03092_RAMZALEXENTALE_000_628","Leave me be, Alma. Did I not tell you I'll be fine?"
+107,"TEXT_STMBDI204_03092_LINAMEWRILAH_000_700","Another adventure under our belts, eh, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>? I'd best put pen to page before the details fade."
+108,"TEXT_STMBDI204_03092_LINAMEWRILAH_000_701","Lesalia...and now Goug. One would think our discoveries more than sufficient to prove the Lexentales' claims, at least with regard to Ivalice's existence."
+109,"TEXT_STMBDI204_03092_LINAMEWRILAH_000_702","But something tells me that until Jenomis has proof that his ancestors were not the heretics the church painted them to be, he will not rest."
+110,"TEXT_STMBDI204_03092_LINAMEWRILAH_000_703","And then there is the curious case of Ramza. At Alma's throat one moment, all “sister dearest” the next."
+111,"TEXT_STMBDI204_03092_LINAMEWRILAH_000_704","He was like a different person when he came to, yet I seem to be alone in wondering exactly what happened to him back at the lighthouse. If you ask this “Lady,” he must have taken quite some bump to the head when he fell."
+112,"TEXT_STMBDI204_03092_LINAMEWRILAH_000_705","Then again, it didn't take him long to turn back into his spiteful little self, so...all's well that ends well?"

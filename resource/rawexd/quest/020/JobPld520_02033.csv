@@ -2,91 +2,91 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_JOBPLD520_02033_SEQ_00,烏爾達哈調車庫的帕帕夏恩好像找到了索爾克扎吉爾的線索。
-1,TEXT_JOBPLD520_02033_SEQ_01,據帕帕夏恩所說，索爾克扎吉爾最後一次被目擊的地方是隼巢。前往庫爾札斯西部高地的隼巢，向那裡的居民打聽一下情報。
-2,TEXT_JOBPLD520_02033_SEQ_02,向居民們打聽了情報。有必要收集更多的情報。和隼巢的漢德雷特·艾斯談談。
-3,TEXT_JOBPLD520_02033_SEQ_03,向漢德雷特·艾斯詢問了索爾克扎吉爾的情報。據說索爾克扎吉爾遭強盜殺害，且已經被埋葬了。前往庫爾札斯西部高地的交匯河營地，在附近尋找索爾克扎吉爾之墓。
-4,TEXT_JOBPLD520_02033_SEQ_04,在交匯河尋找墳墓的時候，救助了一名被暗殺組織「隱形毒尾」襲擊的少年。據少年所說，索爾克扎吉爾是被隱形毒尾殺害的。為了獲取更多情報，和隼巢的康斯坦談談。
-5,TEXT_JOBPLD520_02033_SEQ_05,名為康斯坦的這位少年，是索爾克扎吉爾的弟子，也就是冒險者的師弟。他繼承了師父的意志，想要尋找聖劍。與康斯坦一起尋找聖劍。<hex:02100103><hex:02100103>※騎士的等級達到54級以上時，可以從隼巢的康斯坦那裡領取下一個騎士任務。
-6,TEXT_JOBPLD520_02033_SEQ_06,
-7,TEXT_JOBPLD520_02033_SEQ_07,
-8,TEXT_JOBPLD520_02033_SEQ_08,
-9,TEXT_JOBPLD520_02033_SEQ_09,
-10,TEXT_JOBPLD520_02033_SEQ_10,
-11,TEXT_JOBPLD520_02033_SEQ_11,
-12,TEXT_JOBPLD520_02033_SEQ_12,
-13,TEXT_JOBPLD520_02033_SEQ_13,
-14,TEXT_JOBPLD520_02033_SEQ_14,
-15,TEXT_JOBPLD520_02033_SEQ_15,
-16,TEXT_JOBPLD520_02033_SEQ_16,
-17,TEXT_JOBPLD520_02033_SEQ_17,
-18,TEXT_JOBPLD520_02033_SEQ_18,
-19,TEXT_JOBPLD520_02033_SEQ_19,
-20,TEXT_JOBPLD520_02033_SEQ_20,
-21,TEXT_JOBPLD520_02033_SEQ_21,
-22,TEXT_JOBPLD520_02033_SEQ_22,
-23,TEXT_JOBPLD520_02033_SEQ_23,
-24,TEXT_JOBPLD520_02033_TODO_00,在隼巢收集索爾克扎吉爾的情報
-25,TEXT_JOBPLD520_02033_TODO_01,和漢德雷特·艾斯對話
-26,TEXT_JOBPLD520_02033_TODO_02,尋找索爾克扎吉爾之墓
-27,TEXT_JOBPLD520_02033_TODO_03,和康斯坦對話
-28,TEXT_JOBPLD520_02033_TODO_04,
-29,TEXT_JOBPLD520_02033_TODO_05,
-30,TEXT_JOBPLD520_02033_TODO_06,
-31,TEXT_JOBPLD520_02033_TODO_07,
-32,TEXT_JOBPLD520_02033_TODO_08,
-33,TEXT_JOBPLD520_02033_TODO_09,
-34,TEXT_JOBPLD520_02033_TODO_10,
-35,TEXT_JOBPLD520_02033_TODO_11,
-36,TEXT_JOBPLD520_02033_TODO_12,
-37,TEXT_JOBPLD520_02033_TODO_13,
-38,TEXT_JOBPLD520_02033_TODO_14,
-39,TEXT_JOBPLD520_02033_TODO_15,
-40,TEXT_JOBPLD520_02033_TODO_16,
-41,TEXT_JOBPLD520_02033_TODO_17,
-42,TEXT_JOBPLD520_02033_TODO_18,
-43,TEXT_JOBPLD520_02033_TODO_19,
-44,TEXT_JOBPLD520_02033_TODO_20,
-45,TEXT_JOBPLD520_02033_TODO_21,
-46,TEXT_JOBPLD520_02033_TODO_22,
-47,TEXT_JOBPLD520_02033_TODO_23,
-48,TEXT_JOBPLD520_02033_PAPASHAN_000_000,哦哦，<hex:022903EB0203>閣下！<hex:02100103>我找到失去聯絡的索爾克扎吉爾的線索了。
-49,TEXT_JOBPLD520_02033_PAPASHAN_000_001,看起來，他最後出現的地方，<hex:02100103>是伊修加德一個叫隼巢的地方。<hex:02100103>請你到那邊去詳細調查一下吧。
-50,TEXT_JOBPLD520_02033_PAPASHAN_000_002,如果他真發現了守誓之劍的話，<hex:02100103>那麼這件事足以震動整個銀胄團……<hex:02100103>……所以我才會擔心索爾克扎吉爾的安危。
-51,TEXT_JOBPLD520_02033_PAPASHAN_100_002,看起來，他最後出現的地方，<hex:02100103>是伊修加德一個叫隼巢的地方。<hex:02100103>請你到那邊去詳細調查一下吧。
-52,TEXT_JOBPLD520_02033_EMERISSEL_000_010,……你在找異國的騎士啊。<hex:02100103>嗯，說起來確實有個外來的魯加族在這裡待了一陣。
-53,TEXT_JOBPLD520_02033_JOSSELOUX_000_011,……你在找人？說起來前一陣，在某個夜晚，<hex:02100103>我看到一群怪人和一個特別壯的男性在對砍。<hex:02100103>看起來像是異端者們自相殘殺，該不會就是你要找的人吧。
-54,TEXT_JOBPLD520_02033_FORCHETAIX_000_012,……你在找一個叫索爾克扎吉爾的人？<hex:02100103>據說有人僱傭了流浪的魯加族做體力活，<hex:02100103>名字好像是漢德雷特·艾斯。
-55,TEXT_JOBPLD520_02033_FORCHETAIX_000_013,對了，說到流浪者，<hex:02100103>最近還有傳聞說出現了個強盜團伙……<hex:02100103>真是的，都是流浪者，為什麼不多來點有用的。
-56,TEXT_JOBPLD520_02033_HUNDREDEYES_000_020,……嗯？魯加族在這裡工作很稀奇嗎？<hex:02100103>我因為某些原因，流浪到了此地……<hex:02100103>然後便找了些體力活做。
-57,TEXT_JOBPLD520_02033_HUNDREDEYES_000_021,抱歉，你所要找的人不是我。<hex:02100103>不過，我知道索爾克扎吉爾。<hex:02100103>他跟在這裡工作的一名叫康斯坦的少年聊過。
-58,TEXT_JOBPLD520_02033_HUNDREDEYES_100_021,只是，不久前他被一群強盜襲擊，不幸身亡。<hex:02100103>是我埋葬的他，絕對沒錯。<hex:02100103>……他的墳墓就在交匯河附近。
-59,TEXT_JOBPLD520_02033_HUNDREDEYES_100_022,不久前他被一群強盜襲擊，不幸身亡。<hex:02100103>是我埋葬的他，絕對沒錯。<hex:02100103>……他的墳墓就在交匯河附近。
-60,TEXT_JOBPLD520_02033_CONSTAINT_000_030,謝謝你救了我……<hex:02100103>你來這裡，莫非是……
-61,TEXT_JOBPLD520_02033_CONSTAINT_000_031,……莫非你是索爾克扎吉爾的熟人？<hex:02100103>呼，太好了！<hex:02100103>我正愁應該向誰傳達此事呢。
-62,TEXT_JOBPLD520_02033_CONSTAINT_000_032,請告訴認識他的人……<hex:02100103>索爾克扎吉爾被殺了。
-63,TEXT_JOBPLD520_02033_CONSTAINT_000_033,兇手恐怕就是剛剛你打倒的那一夥人……<hex:02100103>也就是一個叫隱形毒尾的組織。
-64,TEXT_JOBPLD520_02033_CONSTAINT_000_034,……這裡大多數的住民都認為他們只是普通的異端者，<hex:02100103>其實他們比異端者更危險！<hex:02100103>該死，他們的活動範圍都已經擴張到這附近了。
-65,TEXT_JOBPLD520_02033_CONSTAINT_000_035,我要回隼巢將這件事告訴大家，<hex:02100103>讓大家警惕起來，做些準備……<hex:02100103>那麼，我先走了。
-66,TEXT_JOBPLD520_02033_PAPASHAN_000_036,(-帕帕夏恩-)<hex:022903EB0203>閣下，<hex:02100103>你找到關於索爾克扎吉爾的情報了嗎？<hex:02100103>……什麼？他死了？
-67,TEXT_JOBPLD520_02033_PAPASHAN_000_037,(-帕帕夏恩-)隱形毒尾……我也有所聽聞，<hex:02100103>據說上次一事敗露後，他們的殘黨被共和派拋棄，<hex:02100103>隨後淪落為了強盜……
-68,TEXT_JOBPLD520_02033_PAPASHAN_000_038,(-帕帕夏恩-)……難道說索爾克扎吉爾是從隱形毒尾手裡找到的守誓之劍？<hex:02100103>所以隱形毒尾為了復仇，將索爾克扎吉爾殺害了？
-69,TEXT_JOBPLD520_02033_PAPASHAN_000_039,(-帕帕夏恩-)<hex:022903EB0203>閣下，<hex:02100103>能否請你向那位少年詢問一下詳情？<hex:02100103>我也會去找一些隱形毒尾的情報的。
-70,TEXT_JOBPLD520_02033_PAPASHAN_100_039,能否請你前往隼巢，<hex:02100103>找那位少年詢問一下詳情？
-71,TEXT_JOBPLD520_02033_CONSTAINT_000_040,啊，是你啊！<hex:02100103>之前謝謝你救了我。
-72,TEXT_JOBPLD520_02033_CONSTAINT_000_041,原來如此，<hex:02100103>你就是索爾克扎吉爾常掛在嘴邊的那位自由騎士啊……<hex:02100103>我還沒做自我介紹呢，我叫康斯坦。
-73,TEXT_JOBPLD520_02033_CONSTAINT_000_042,……以前，我被魔物襲擊過，<hex:02100103>那時候救了我的，正是索爾克扎吉爾，<hex:02100103>我被他的劍技深深吸引了。
-74,TEXT_JOBPLD520_02033_CONSTAINT_000_043,我當時就說要拜他為師，但被他拒絕了。<hex:02100103>後來，我得知他在尋找聖劍，便幫他一起尋找，<hex:02100103>漸漸的，他終於認可了我。
-75,TEXT_JOBPLD520_02033_CONSTAINT_000_044,……可是，索爾克扎吉爾卻在我外出不在的時候被殺了。<hex:02100103>他臨走前說要去取回聖劍，<hex:02100103>誰知這一走就成了不歸人……
-76,TEXT_JOBPLD520_02033_CONSTAINT_000_045,據說他的遺體，是在冰冷的凍雪中找到的。<hex:02100103>……最後也沒能再見他一面。
-77,TEXT_JOBPLD520_02033_CONSTAINT_000_046,你能否與我一起尋找索爾克扎吉爾追尋的聖劍？<hex:02100103>……我決定繼承他的意志。
-78,TEXT_JOBPLD520_02033_CONSTAINT_000_047,我的這個騎士之證……<hex:02100103>是與索爾克扎吉爾最後一次見面時，他給我的。<hex:02100103>並跟我說這東西對我還早。
-79,TEXT_JOBPLD520_02033_CONSTAINT_000_048,雖然我只是初出茅廬的新人，不過也算是名騎士。<hex:02100103>拜託你了！
-80,TEXT_JOBPLD520_02033_CONSTAINT_000_049,太好了！<hex:02100103>謝謝你！
-81,TEXT_JOBPLD520_02033_CONSTAINT_000_050,既然你是索爾克扎吉爾的熟人，<hex:02100103>難道是我的<hex:020813E905FF07>師姐<hex:FF07>師兄<hex:03>？<hex:02100103>今後就拜託你啦！<hex:020813E905FF07>師姐<hex:FF07>師兄<hex:03>！
-82,TEXT_JOBPLD520_02033_CONSTAINT_000_051,我準備調查一下索爾克扎吉爾遺物，<hex:02100103>看看他當時是要準備去哪裡尋找聖劍。<hex:02100103>等調查好了，我會告訴你的！
-83,TEXT_JOBPLD520_02033_POPMESSAGE_000_100,（★未使用／削除予定★）
-84,TEXT_JOBPLD520_02033_VILLAGERA_000_010,
-85,TEXT_JOBPLD520_02033_VILLAGERB_000_011,
-86,TEXT_JOBPLD520_02033_VILLAGERC_000_012,
-87,TEXT_JOBPLD520_02033_VILLAGERC_000_013,
+0,"TEXT_JOBPLD520_02033_SEQ_00","Papashan is relieved to see you."
+1,"TEXT_JOBPLD520_02033_SEQ_01","Papashan has determined that Solkzagyl's last missive was sent from Falcon's Nest in the Coerthas western highlands. Journey to the hamlet and see what you can learn of the missing paladin's whereabouts."
+2,"TEXT_JOBPLD520_02033_SEQ_02","Though you hear mention of a rather large man being attacked by bandits the other night, it remains unclear if it was Solkzagyl. The only other viable lead appears to be Hundred Eyes, a Roegadyn craftsman who has worked with many migrant laborers since the reconstruction of Falcon's Nest began."
+3,"TEXT_JOBPLD520_02033_SEQ_03","To your dismay, you learn from Hundred Eyes that Solkzagyl was indeed the man ambushed in the wastes the other night. The craftsman buried him the next day, in a yard on the ridge by Camp Riversmeet. Journey to the paladin's grave and pay your respects."
+4,"TEXT_JOBPLD520_02033_SEQ_04","You arrive in time to rescue a young boy from a group of bandits curiously intent on ending his life. Afterwards, he explains that he was a friend of Solkzagyl's, and that the men who killed him are the same ones whom you just defeated: Death's Embrace, the assassins who stole Oathkeeper years ago at the behest of the Monetarists. As you watch the boy go, Papashan contacts you via linkpearl, and you inform him of Solkzagyl's death. Aghast and confused, he bids you go after the boy and see what else you can learn of Solkzagyl's final days."
+5,"TEXT_JOBPLD520_02033_SEQ_05","The boy introduces himself as Constaint, friend and former pupil of Solkzagyl. After the former captain saved him from a pack of ravenous wolves, Constaint begged the captain to teach him the ways of the paladin. For a time, Solkzagyl refused, but eventually he relented and accepted the boy as his student. However, he never shared his latest discoveries with Constaint, choosing instead to challenge Death's Embrace when the boy was absent. Though he lacks a master, Constaint is still resolved to become a paladin and reclaim Oathkeeper in Solkzagyl's stead. With your help, he may yet succeed.<hex:02100103><hex:02100103>※The next paladin quest will be available from Constaint upon reaching level 54."
+6,"TEXT_JOBPLD520_02033_SEQ_06",""
+7,"TEXT_JOBPLD520_02033_SEQ_07",""
+8,"TEXT_JOBPLD520_02033_SEQ_08",""
+9,"TEXT_JOBPLD520_02033_SEQ_09",""
+10,"TEXT_JOBPLD520_02033_SEQ_10",""
+11,"TEXT_JOBPLD520_02033_SEQ_11",""
+12,"TEXT_JOBPLD520_02033_SEQ_12",""
+13,"TEXT_JOBPLD520_02033_SEQ_13",""
+14,"TEXT_JOBPLD520_02033_SEQ_14",""
+15,"TEXT_JOBPLD520_02033_SEQ_15",""
+16,"TEXT_JOBPLD520_02033_SEQ_16",""
+17,"TEXT_JOBPLD520_02033_SEQ_17",""
+18,"TEXT_JOBPLD520_02033_SEQ_18",""
+19,"TEXT_JOBPLD520_02033_SEQ_19",""
+20,"TEXT_JOBPLD520_02033_SEQ_20",""
+21,"TEXT_JOBPLD520_02033_SEQ_21",""
+22,"TEXT_JOBPLD520_02033_SEQ_22",""
+23,"TEXT_JOBPLD520_02033_SEQ_23",""
+24,"TEXT_JOBPLD520_02033_TODO_00","Question the people of Falcon's Nest."
+25,"TEXT_JOBPLD520_02033_TODO_01","Speak with Hundred Eyes."
+26,"TEXT_JOBPLD520_02033_TODO_02","Search Camp Riversmeet for Solkzagyl's grave."
+27,"TEXT_JOBPLD520_02033_TODO_03","Speak with Constaint in Falcon's Nest."
+28,"TEXT_JOBPLD520_02033_TODO_04",""
+29,"TEXT_JOBPLD520_02033_TODO_05",""
+30,"TEXT_JOBPLD520_02033_TODO_06",""
+31,"TEXT_JOBPLD520_02033_TODO_07",""
+32,"TEXT_JOBPLD520_02033_TODO_08",""
+33,"TEXT_JOBPLD520_02033_TODO_09",""
+34,"TEXT_JOBPLD520_02033_TODO_10",""
+35,"TEXT_JOBPLD520_02033_TODO_11",""
+36,"TEXT_JOBPLD520_02033_TODO_12",""
+37,"TEXT_JOBPLD520_02033_TODO_13",""
+38,"TEXT_JOBPLD520_02033_TODO_14",""
+39,"TEXT_JOBPLD520_02033_TODO_15",""
+40,"TEXT_JOBPLD520_02033_TODO_16",""
+41,"TEXT_JOBPLD520_02033_TODO_17",""
+42,"TEXT_JOBPLD520_02033_TODO_18",""
+43,"TEXT_JOBPLD520_02033_TODO_19",""
+44,"TEXT_JOBPLD520_02033_TODO_20",""
+45,"TEXT_JOBPLD520_02033_TODO_21",""
+46,"TEXT_JOBPLD520_02033_TODO_22",""
+47,"TEXT_JOBPLD520_02033_TODO_23",""
+48,"TEXT_JOBPLD520_02033_PAPASHAN_000_000","Ah, just the <hex:02080FE905FF06>woman<hex:FF04>man<hex:03> I was hoping to see!"
+49,"TEXT_JOBPLD520_02033_PAPASHAN_000_001","I now know from where Solkzagyl sent his last missive to me. Falcon's Nest, a hamlet in the Coerthas western highlands. It is there I would have you begin your search."
+50,"TEXT_JOBPLD520_02033_PAPASHAN_000_002","Reclaiming Oathkeeper would do much to restore the honor of the Sultansworn. But we must not get ahead of ourselves. First, we must find our missing man."
+51,"TEXT_JOBPLD520_02033_PAPASHAN_100_002","I want nothing more than to join you in the search. However, Jenlyns would take note of my absence, and I do not wish to involve him just yet."
+52,"TEXT_JOBPLD520_02033_EMERISSEL_000_010","A Roegadyn “paladin”? Well...I do recall a traveler who spent several days here, at least..."
+53,"TEXT_JOBPLD520_02033_JOSSELOUX_000_011","There was a pitched battle the other night, out in the wastes. Involved a rather large man and a party of his fellow heretics, to hear the scouts tell it. Naturally, we chose not to intervene. If they wish to kill each other, by all means."
+54,"TEXT_JOBPLD520_02033_FORCHETAIX_000_012","...Solkzagyl? Never heard of him. Was he one of the new craftsmen working with Hundred Eyes?"
+55,"TEXT_JOBPLD520_02033_FORCHETAIX_000_013","Sorry, we see an awful lot of new faces around here. Most don't leave an impression─other than the heretics and bandits, that is."
+56,"TEXT_JOBPLD520_02033_HUNDREDEYES_000_020","Heard you was askin' after a Roegadyn, and in a fashion that might give a man cause to worry."
+57,"TEXT_JOBPLD520_02033_HUNDREDEYES_000_021","Aye, I know Solkzagyl─<hex:021A020203>knew<hex:021A020103>, I should say. Older fellow, spent some time chattin' with the youngblood. He came through, like the rest of us before him, lookin' for the same thing we all do..."
+58,"TEXT_JOBPLD520_02033_HUNDREDEYES_100_021","...Bandits ambushed him in the night, out in the wastes. Buried him with my own two hands the next day, out near Camp Riversmeet. Constaint took it especially hard, close as he was to him."
+59,"TEXT_JOBPLD520_02033_HUNDREDEYES_100_022","I laid him to rest in the yard up on the ridge by Camp Riversmeet, if you've a mind to pay your respects."
+60,"TEXT_JOBPLD520_02033_CONSTAINT_000_030","Halone's blessings be upon you, <hex:02080EE905FF05>miss<hex:FF04>sir<hex:03>. I say, that was a rather frightful experience."
+61,"TEXT_JOBPLD520_02033_CONSTAINT_000_031","Were you a friend of Solkzagyl's, too? Ah, good... Er, that is to say, my condolences."
+62,"TEXT_JOBPLD520_02033_CONSTAINT_000_032","I knew there had to be others who would want to know..."
+63,"TEXT_JOBPLD520_02033_CONSTAINT_000_033","'Twas the work of Death's Embrace, I'd wager. Those fiends you slew just now were sent by them as well."
+64,"TEXT_JOBPLD520_02033_CONSTAINT_000_034","My kinsmen think them but another band of sellswords or heretics. If only they knew what they were truly capable of..."
+65,"TEXT_JOBPLD520_02033_CONSTAINT_000_035","I can only hope that they will heed my warnings this time. If you would excuse me..."
+66,"TEXT_JOBPLD520_02033_PAPASHAN_000_036","(-Papashan-)<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, this is Papashan. Have you found Solkzagyl?"
+67,"TEXT_JOBPLD520_02033_PAPASHAN_000_037","(-Papashan-)Gods almighty, slain by Death's Embrace!? I heard some of those bastards were still skulking about, but I never thought they would try to..."
+68,"TEXT_JOBPLD520_02033_PAPASHAN_000_038","(-Papashan-)Wait─could it be that they were the ones who held Oathkeeper? And that they killed Solkzagyl when he tried to take it back?"
+69,"TEXT_JOBPLD520_02033_PAPASHAN_000_039","(-Papashan-)Damn it all, we've still no answers. Though there is still the boy... Hm. Get after him and find out what he knows."
+70,"TEXT_JOBPLD520_02033_PAPASHAN_100_039","...I appreciate you coming all this way to see me, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, but I think we would be better served by you finding out what else the boy knows about Solkzagyl."
+71,"TEXT_JOBPLD520_02033_CONSTAINT_000_040","A pleasure to see you again, <hex:02080EE905FF05>miss<hex:FF04>sir<hex:03>. Was there something you wished to discuss?"
+72,"TEXT_JOBPLD520_02033_CONSTAINT_000_041","Oh, so you're that free paladin Solkzagyl told me all about! It is an honor to meet you at last, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. That is, for the second time. My name is Constaint. Truly honored, <hex:02080EE905FF05>miss<hex:FF04>sir<hex:03>. Truly, truly honored."
+73,"TEXT_JOBPLD520_02033_CONSTAINT_000_042","Sorry if I'm a bit out of sorts. It's just...I've been thinking about him a lot. About the day we first met, when he saved me. How his sword gleamed as he danced among the wolves..."
+74,"TEXT_JOBPLD520_02033_CONSTAINT_000_043","I begged him to teach me the ways of the paladin, so I could save others like he had saved me. He must have turned me down a dozen times before he finally relented─probably because he caught me asking around about Oathkeeper."
+75,"TEXT_JOBPLD520_02033_CONSTAINT_000_044","But I suppose he didn't think I was strong enough to help him reclaim the sword. Why else would he sneak off to challenge Death's Embrace while I was away?"
+76,"TEXT_JOBPLD520_02033_CONSTAINT_000_045","I should've been there, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. I should've been there!"
+77,"TEXT_JOBPLD520_02033_CONSTAINT_000_046","...I've decided I'm going to take it back. Oathkeeper, I mean."
+78,"TEXT_JOBPLD520_02033_CONSTAINT_000_047","He said I wasn't ready to wield this soul, but what choice do I have now that he's gone?"
+79,"TEXT_JOBPLD520_02033_CONSTAINT_000_048","You want to find it too, don't you? Then help me, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>─please!"
+80,"TEXT_JOBPLD520_02033_CONSTAINT_000_049","You will!? Halone be praised! You won't regret this!"
+81,"TEXT_JOBPLD520_02033_CONSTAINT_000_050","Oh, if Solkzagyl could see us now! Two paladins united in purpose! Well, er, I suppose it's rather premature for me to claim the title, isn't it..."
+82,"TEXT_JOBPLD520_02033_CONSTAINT_000_051","One veteran paladin and one aspiring paladin, then! United in purpose! We shall recover Oathkeeper and bring Solkzagyl's murderers to justice! As...as soon as I uncover new information, that is!"
+83,"TEXT_JOBPLD520_02033_POPMESSAGE_000_100",""
+84,"TEXT_JOBPLD520_02033_VILLAGERA_000_010",""
+85,"TEXT_JOBPLD520_02033_VILLAGERB_000_011",""
+86,"TEXT_JOBPLD520_02033_VILLAGERC_000_012",""
+87,"TEXT_JOBPLD520_02033_VILLAGERC_000_013",""

@@ -2,91 +2,91 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_HEAVNB102_02157_SEQ_00,神殿騎士團總部的阿爾菲諾想要出發前往龍堡參天高地。
-1,TEXT_HEAVNB102_02157_SEQ_01,與阿爾菲諾、露琪亞一起踏上了旅途，前去與維德弗尼爾交涉。首先和龍堡參天高地尾羽集落附近的露琪亞匯合。
-2,TEXT_HEAVNB102_02157_SEQ_02,和露琪亞、阿爾菲諾匯合了。繼續向龍堡參天高地前進，和不潔三塔的維德弗尼爾談談。
-3,TEXT_HEAVNB102_02157_SEQ_03,向維德弗尼爾介紹了露琪亞。為了進行對話，維德弗尼爾會和祖上赫拉斯瓦爾格商談。和不潔三塔的阿爾菲諾談談。
-4,TEXT_HEAVNB102_02157_SEQ_04,為了與塔塔露請來的幫手碰面，就此與露琪亞別過了。對話算是踏出了第一步，露琪亞姑且也可以安心了。
-5,TEXT_HEAVNB102_02157_SEQ_05,
-6,TEXT_HEAVNB102_02157_SEQ_06,
-7,TEXT_HEAVNB102_02157_SEQ_07,
-8,TEXT_HEAVNB102_02157_SEQ_08,
-9,TEXT_HEAVNB102_02157_SEQ_09,
-10,TEXT_HEAVNB102_02157_SEQ_10,
-11,TEXT_HEAVNB102_02157_SEQ_11,
-12,TEXT_HEAVNB102_02157_SEQ_12,
-13,TEXT_HEAVNB102_02157_SEQ_13,
-14,TEXT_HEAVNB102_02157_SEQ_14,
-15,TEXT_HEAVNB102_02157_SEQ_15,
-16,TEXT_HEAVNB102_02157_SEQ_16,
-17,TEXT_HEAVNB102_02157_SEQ_17,
-18,TEXT_HEAVNB102_02157_SEQ_18,
-19,TEXT_HEAVNB102_02157_SEQ_19,
-20,TEXT_HEAVNB102_02157_SEQ_20,
-21,TEXT_HEAVNB102_02157_SEQ_21,
-22,TEXT_HEAVNB102_02157_SEQ_22,
-23,TEXT_HEAVNB102_02157_SEQ_23,
-24,TEXT_HEAVNB102_02157_TODO_00,和尾羽集落的露琪亞匯合
-25,TEXT_HEAVNB102_02157_TODO_01,和不潔三塔的維德弗尼爾對話
-26,TEXT_HEAVNB102_02157_TODO_02,和阿爾菲諾對話
-27,TEXT_HEAVNB102_02157_TODO_03,
-28,TEXT_HEAVNB102_02157_TODO_04,
-29,TEXT_HEAVNB102_02157_TODO_05,
-30,TEXT_HEAVNB102_02157_TODO_06,
-31,TEXT_HEAVNB102_02157_TODO_07,
-32,TEXT_HEAVNB102_02157_TODO_08,
-33,TEXT_HEAVNB102_02157_TODO_09,
-34,TEXT_HEAVNB102_02157_TODO_10,
-35,TEXT_HEAVNB102_02157_TODO_11,
-36,TEXT_HEAVNB102_02157_TODO_12,
-37,TEXT_HEAVNB102_02157_TODO_13,
-38,TEXT_HEAVNB102_02157_TODO_14,
-39,TEXT_HEAVNB102_02157_TODO_15,
-40,TEXT_HEAVNB102_02157_TODO_16,
-41,TEXT_HEAVNB102_02157_TODO_17,
-42,TEXT_HEAVNB102_02157_TODO_18,
-43,TEXT_HEAVNB102_02157_TODO_19,
-44,TEXT_HEAVNB102_02157_TODO_20,
-45,TEXT_HEAVNB102_02157_TODO_21,
-46,TEXT_HEAVNB102_02157_TODO_22,
-47,TEXT_HEAVNB102_02157_TODO_23,
-48,TEXT_HEAVNB102_02157_LUCIA_000_001,看來你們已經把事情處理完了啊。<hex:02100103>我這邊也做好準備了。<hex:02100103>那麼，就拜託你們了。
-49,TEXT_HEAVNB102_02157_ALPHINAUD_000_010,好，那我們這就出發吧。<hex:02100103>先進入龍堡參天高地，到尾羽集落去。
-50,TEXT_HEAVNB102_02157_ALPHINAUD_000_011,雖然我們去過好幾次了，<hex:02100103>但這次肩負著人類與龍族對話的重要使命。<hex:02100103>萬萬不可大意。
-51,TEXT_HEAVNB102_02157_ALPHINAUD_000_020,我們這是第三次到龍堡參天高地了。<hex:02100103>回想起之前的旅行，多少有些傷感。
-52,TEXT_HEAVNB102_02157_LUCIA_000_030,這裡就是龍的領地……龍堡啊。<hex:02100103>在過去，這裡被視為絕對的敵方領地，<hex:02100103>沒想到現在竟然會懷揣著對話的希望，來到這裡……
-53,TEXT_HEAVNB102_02157_ALPHINAUD_000_031,的確……我們第一次來到這裡的時候，<hex:02100103>甚至不知道能不能與龍對話。<hex:02100103>如果沒有伊塞勒的幫助，結果不知道會怎樣呢……
-54,TEXT_HEAVNB102_02157_ALPHINAUD_000_032,對於伊修加德的民眾來說，<hex:02100103>伊塞勒或許依舊是異端的頭目——冰之巫女。
-55,TEXT_HEAVNB102_02157_ALPHINAUD_000_033,但是，時間會為她正名。<hex:02100103>總有一天，人們會記住她是聯繫人和龍的使者，<hex:02100103>並將她的名字傳頌下去。
-56,TEXT_HEAVNB102_02157_LUCIA_000_034,阿爾菲諾閣下還真是善良……<hex:02100103>不過，正是要讓那一天到來，<hex:02100103>所以這次的交涉非常重要……
-57,TEXT_HEAVNB102_02157_ALPHINAUD_000_035,是啊……<hex:02100103>穿過這片森林，就是聖龍的眷屬維德弗尼爾所棲息的不潔三塔。<hex:02100103>我們走吧。
-58,TEXT_HEAVNB102_02157_VIDOFNIR_000_040,哎呀，我還以為是誰呢，<hex:02100103>這不是伊塞勒渺小的人類朋友嗎……
-59,TEXT_HEAVNB102_02157_VIDOFNIR_000_041,不過，那一位可沒見過……<hex:02100103>看起來你們到這裡是有什麼事啊。
-60,TEXT_HEAVNB102_02157_ALPHINAUD_000_042,好久不見了，維德弗尼爾。<hex:02100103>我們今天來這裡，是為了向你介紹這位女性的。<hex:02100103>她是伊修加德的騎士，露琪亞閣下。
-61,TEXT_HEAVNB102_02157_LUCIA_000_043,我是神殿騎士團的副騎士長露琪亞。<hex:02100103>為了傳達目前代替教皇指引伊修加德的<hex:02100103>神殿騎士團總騎士長艾默里克的話語，作為特使前來拜訪。
-62,TEXT_HEAVNB102_02157_VIDOFNIR_000_044,哦，特使……
-63,TEXT_HEAVNB102_02157_LUCIA_000_045,是的……<hex:02100103>我們伊修加德的人民和龍堡的龍族常年持續著龍詩戰爭。
-64,TEXT_HEAVNB102_02157_LUCIA_000_046,如今，我們了解到，這場戰爭的起因，<hex:02100103>是由於古代伊修加德國王托爾丹對龍族的背叛……
-65,TEXT_HEAVNB102_02157_LUCIA_000_047,虛偽的歷史掩蓋了曾經的罪孽，<hex:02100103>由教皇引導了持續千年的戰爭……<hex:02100103>這些真相都是由他們和蒼天之龍騎士，還有你的朋友伊塞勒揭開的。
-66,TEXT_HEAVNB102_02157_LUCIA_000_048,現在，伊修加德的人民正在直面過去的「真相」。<hex:02100103>而由此帶來的衝擊，動搖著我們至今的信仰，民心不安。
-67,TEXT_HEAVNB102_02157_LUCIA_000_049,因此，我們想要邀請你到皇都伊修加德，<hex:02100103>讓民眾們知道……也有不希望看到戰爭的龍族存在。<hex:02100103>進而宣告，重新展開人類和龍族的交流。
-68,TEXT_HEAVNB102_02157_LUCIA_000_050,即使並不能在一朝一夕就可以實現完全的融合，<hex:02100103>但我們依然希望可以展開對話，互相了解對方。
-69,TEXT_HEAVNB102_02157_VIDOFNIR_000_051,……什麼，想要邀請我到人類居住的城市？<hex:02100103>沒想到你們會提出這樣的提議。<hex:02100103>這也是伊塞勒強烈的心願所造就的嗎……
-70,TEXT_HEAVNB102_02157_VIDOFNIR_000_052,你是叫露琪亞吧，我已經清楚你的想法了。<hex:02100103>不過，我還無法立即答覆你是否要接受邀請。
-71,TEXT_HEAVNB102_02157_LUCIA_000_053,我可以問下原因嗎？
-72,TEXT_HEAVNB102_02157_VIDOFNIR_000_054,嗯……如果我前往人類的城市，<hex:02100103>會影響到諸多聖龍的眷屬。<hex:02100103>首先，我需要找我的祖上赫拉斯瓦爾格商談。
-73,TEXT_HEAVNB102_02157_VIDOFNIR_000_055,而且，曾經由於這位勇者的狩神行動而一度安靜下來的骨頜族，<hex:02100103>最近也再次開始活躍了起來。<hex:02100103>這導致我無法輕易離開這裡。
-74,TEXT_HEAVNB102_02157_LUCIA_000_056,我明白了。<hex:02100103>我們也沒想要立刻得到答覆。<hex:02100103>比起持續了千年的戰爭，這點時間簡直是微不足道……
-75,TEXT_HEAVNB102_02157_VIDOFNIR_000_057,你的說法很有趣。<hex:02100103>的確，我不會讓你們等上一千年的，渺小的人類。<hex:02100103>你們的生命如此短暫，我會在它結束之前給你們答覆的。
-76,TEXT_HEAVNB102_02157_LUCIA_000_058,非常感謝……<hex:02100103>我們會期盼著你來到皇都的那一天。<hex:02100103>那我們今天就先告辭了。
-77,TEXT_HEAVNB102_02157_LUCIA_000_060,總算是把我們的想法傳達給它了。<hex:02100103>不過，和只有在戰場上才能見到的龍族，<hex:02100103>這麼近距離地談話，還真是不可思議。
-78,TEXT_HEAVNB102_02157_ALPHINAUD_000_070,這次作為最初的對話還算不錯。
-79,TEXT_HEAVNB102_02157_LUCIA_000_071,是啊，我都已經做好被完全拒絕的心理準備了。<hex:02100103>既然會對我們的提議進行斟酌，與聖龍商談，<hex:02100103>那麼我們要做的也只是等待了。
-80,TEXT_HEAVNB102_02157_LUCIA_000_072,好了，既然難得來到了這裡，在回到皇都之前，<hex:02100103>我想挨個和聖龍的眷屬們交流一下看看。<hex:02100103>你們二位有何打算？
-81,TEXT_HEAVNB102_02157_ALPHINAUD_000_073,我們要去龍堡內陸低地辦點事。<hex:02100103>如果可以的話，我們這就出發了。
-82,TEXT_HEAVNB102_02157_LUCIA_000_074,那麼我們就暫且別過吧。<hex:02100103>非常感謝你們這次的協助，再次謝謝你們。
-83,TEXT_HEAVNB102_02157_ALPHINAUD_000_075,您太客氣了，這是我們應該做的。<hex:02100103>伊塞勒、埃斯蒂尼安閣下，還有奧爾什方閣下……<hex:02100103>眾多同伴將希望託付給我們，我們也想要實現他們所期盼的和平。
-84,TEXT_HEAVNB102_02157_ALPHINAUD_000_076,那麼，等您回到皇都，<hex:02100103>也麻煩您替我們向艾默里克閣下問好。
-85,TEXT_HEAVNB102_02157_LUCIA_000_077,好的，我也會跟塔塔露小姐說一聲的。<hex:02100103>那麼再會了。
-86,TEXT_HEAVNB102_02157_VIDOFNIR_000_080,是否要打破靜寂，再次和人類對話呢……<hex:02100103>我需要和祖上商談一下。
-87,TEXT_HEAVNB102_02157_VIDOFNIR_000_081,不過想到那些討厭的骨頜族就噁心。<hex:02100103>即便是龍族，經受他們的槍林彈雨洗禮後，<hex:02100103>鱗片柔軟的幼龍還是會受到傷害。
+0,"TEXT_HEAVNB102_02157_SEQ_00","Alphinaud is ready to escort Lucia to Anyx Trine."
+1,"TEXT_HEAVNB102_02157_SEQ_01","Alphinaud explains to Lucia that the first leg of your journey will take you from Falcon's Nest to Tailfeather, where you may stop to rest and replenish supplies. Set forth without further ado."
+2,"TEXT_HEAVNB102_02157_SEQ_02","It is said that war makes soldiers of us all─but what peace makes of soldiers is less clear. Though Lucia understands the importance of her mission, it is plain that the thought of treating with the brothers and sisters of her enemies still sits ill with her. Alphinaud too has struggled to reconcile his preconceptions in the past, particularly in relation to Ysayle, whom he once viewed as a murderous fanatic, but later came to see as a noble, if misguided, soul. Perhaps, one day, others will share his opinion..."
+3,"TEXT_HEAVNB102_02157_SEQ_03","Vidofnir greets Lucia rather coolly, but agrees to hear Ser Aymeric's proposal nonetheless. She duly listens as the knight speaks of the Ishgardians' ancient sin, and of the dream that Ysayle held dear, which Ser Aymeric hopes may yet be made reality. Though the dragon's subsequent response is disappointingly noncommittal, you sense that, in her heart of hearts, she harbors the same hope."
+4,"TEXT_HEAVNB102_02157_SEQ_04","While it remains to be seen if your diplomatic efforts will bear fruit, your companions agree that the meeting went as well as could be expected, given the circumstances. Your business in Anyx Trine thus concluded, you bid farewell to Lucia so that you may continue west to Sharlayan and join Y'shtola in welcoming the visiting scholar."
+5,"TEXT_HEAVNB102_02157_SEQ_05",""
+6,"TEXT_HEAVNB102_02157_SEQ_06",""
+7,"TEXT_HEAVNB102_02157_SEQ_07",""
+8,"TEXT_HEAVNB102_02157_SEQ_08",""
+9,"TEXT_HEAVNB102_02157_SEQ_09",""
+10,"TEXT_HEAVNB102_02157_SEQ_10",""
+11,"TEXT_HEAVNB102_02157_SEQ_11",""
+12,"TEXT_HEAVNB102_02157_SEQ_12",""
+13,"TEXT_HEAVNB102_02157_SEQ_13",""
+14,"TEXT_HEAVNB102_02157_SEQ_14",""
+15,"TEXT_HEAVNB102_02157_SEQ_15",""
+16,"TEXT_HEAVNB102_02157_SEQ_16",""
+17,"TEXT_HEAVNB102_02157_SEQ_17",""
+18,"TEXT_HEAVNB102_02157_SEQ_18",""
+19,"TEXT_HEAVNB102_02157_SEQ_19",""
+20,"TEXT_HEAVNB102_02157_SEQ_20",""
+21,"TEXT_HEAVNB102_02157_SEQ_21",""
+22,"TEXT_HEAVNB102_02157_SEQ_22",""
+23,"TEXT_HEAVNB102_02157_SEQ_23",""
+24,"TEXT_HEAVNB102_02157_TODO_00","Rendezvous with Lucia outside Tailfeather."
+25,"TEXT_HEAVNB102_02157_TODO_01"," Speak with Vidofnir in Anyx Trine."
+26,"TEXT_HEAVNB102_02157_TODO_02","Speak with Alphinaud."
+27,"TEXT_HEAVNB102_02157_TODO_03",""
+28,"TEXT_HEAVNB102_02157_TODO_04",""
+29,"TEXT_HEAVNB102_02157_TODO_05",""
+30,"TEXT_HEAVNB102_02157_TODO_06",""
+31,"TEXT_HEAVNB102_02157_TODO_07",""
+32,"TEXT_HEAVNB102_02157_TODO_08",""
+33,"TEXT_HEAVNB102_02157_TODO_09",""
+34,"TEXT_HEAVNB102_02157_TODO_10",""
+35,"TEXT_HEAVNB102_02157_TODO_11",""
+36,"TEXT_HEAVNB102_02157_TODO_12",""
+37,"TEXT_HEAVNB102_02157_TODO_13",""
+38,"TEXT_HEAVNB102_02157_TODO_14",""
+39,"TEXT_HEAVNB102_02157_TODO_15",""
+40,"TEXT_HEAVNB102_02157_TODO_16",""
+41,"TEXT_HEAVNB102_02157_TODO_17",""
+42,"TEXT_HEAVNB102_02157_TODO_18",""
+43,"TEXT_HEAVNB102_02157_TODO_19",""
+44,"TEXT_HEAVNB102_02157_TODO_20",""
+45,"TEXT_HEAVNB102_02157_TODO_21",""
+46,"TEXT_HEAVNB102_02157_TODO_22",""
+47,"TEXT_HEAVNB102_02157_TODO_23",""
+48,"TEXT_HEAVNB102_02157_LUCIA_000_001","If you and Master Alphinaud would be so kind as to lead the way..."
+49,"TEXT_HEAVNB102_02157_ALPHINAUD_000_010","The path is long but known to us. From Falcon's Nest, we shall cross the western highlands and make for Tailfeather in the Dravanian forelands."
+50,"TEXT_HEAVNB102_02157_ALPHINAUD_000_011","There we can stop to rest and replenish our supplies. Questions? If not, then the stables await."
+51,"TEXT_HEAVNB102_02157_ALPHINAUD_000_020","Strange... This is only my third visit to Tailfeather, yet the first feels as though it were a lifetime ago."
+52,"TEXT_HEAVNB102_02157_LUCIA_000_030","I always imagined that the first time I set foot upon Dravanian soil would be at the head of an army. And here I am, ready to treat with the brothers and sisters of mine enemies."
+53,"TEXT_HEAVNB102_02157_ALPHINAUD_000_031","Full well do I know how difficult it can be to set aside the past. Though it was I who first proposed recruiting Ysayle to our cause, I questioned the wisdom of my words almost as soon as I had uttered them...and for a long time after that."
+54,"TEXT_HEAVNB102_02157_ALPHINAUD_000_032","Here was a woman with the blood of innocents on her hands. Men, women, children─all slain in the name of the implacable Lady Iceheart."
+55,"TEXT_HEAVNB102_02157_ALPHINAUD_000_033","Yet she acknowledged her misdeeds and agreed to join us in common cause. At our side, she fought in service to that greater good...even unto her dying breath─and while that does not absolve her of her sins, I...I hope that one day she will be remembered not merely as a heretic, but as a misguided soul who dreamt of peace."
+56,"TEXT_HEAVNB102_02157_LUCIA_000_034","...You ask much, Master Alphinaud. Yet who can say what might come to pass...should our negotiations bear fruit."
+57,"TEXT_HEAVNB102_02157_ALPHINAUD_000_035","Yes─yes, of course. We must press on to Anyx Trine. If you will follow me..."
+58,"TEXT_HEAVNB102_02157_VIDOFNIR_000_040","Thou art ever welcome here, friend of Ysayle."
+59,"TEXT_HEAVNB102_02157_VIDOFNIR_000_041","But this one I do not know."
+60,"TEXT_HEAVNB102_02157_ALPHINAUD_000_042","Pray forgive us this unannounced visit, Vidofnir. May I present to you Lucia, first commander of the Temple Knights of Ishgard─and our trusted friend."
+61,"TEXT_HEAVNB102_02157_LUCIA_000_043","It is an honor to meet you, Vidofnir. I am come as an envoy of Ser Aymeric, lord commander of the Temple Knights and acting leader of the Holy See."
+62,"TEXT_HEAVNB102_02157_VIDOFNIR_000_044","Indeed. You may speak, knight."
+63,"TEXT_HEAVNB102_02157_LUCIA_000_045","For one thousand years, man and dragon have been locked in an endless cycle of bloodshed and sorrow."
+64,"TEXT_HEAVNB102_02157_LUCIA_000_046","To our shame, we long believed your kin to be the architects of this war. But now we know the truth: that King Thordan and his knights twelve did willfully betray and murder the great wyrm Ratatoskr, shattering the peace between our peoples."
+65,"TEXT_HEAVNB102_02157_LUCIA_000_047","For one thousand years, our leaders conspired to conceal this truth─a truth which was at last laid bare by the Warrior of Light, the Azure Dragoon...and Ysayle."
+66,"TEXT_HEAVNB102_02157_LUCIA_000_048","Alas, a deception so intricately wrought cannot be undone in a moment, and our people labor to accept the truth. After an eternity of war, who would dare to dream that peace could at last be within our grasp?"
+67,"TEXT_HEAVNB102_02157_LUCIA_000_049","Yet dream we must, as Ysayle once did. And we must make that dream a reality, as she could not."
+68,"TEXT_HEAVNB102_02157_LUCIA_000_050","We humbly beseech you, Vidofnir: join hands with us in friendship once more, before the eyes of my people, in Ishgard."
+69,"TEXT_HEAVNB102_02157_VIDOFNIR_000_051","...A most unexpected invitation."
+70,"TEXT_HEAVNB102_02157_VIDOFNIR_000_052","I have heard your request, knight. However, I cannot yet give you mine answer."
+71,"TEXT_HEAVNB102_02157_LUCIA_000_053","May I ask why?"
+72,"TEXT_HEAVNB102_02157_VIDOFNIR_000_054","This matter concerneth my sire. He must needs be consulted."
+73,"TEXT_HEAVNB102_02157_VIDOFNIR_000_055","Moreover, the Gnath grow bold, even as they did before, and I would not leave my people at the mercy of the swarm."
+74,"TEXT_HEAVNB102_02157_LUCIA_000_056","Then we will wait. After a thousand years at war, we shall not give up on peace for want of patience."
+75,"TEXT_HEAVNB102_02157_VIDOFNIR_000_057","Ha! Fear not, knight: thou shalt have mine answer within thy lifetime."
+76,"TEXT_HEAVNB102_02157_LUCIA_000_058","So soon? My humble thanks. I shall bear your words to my lord forthwith. Until we meet again."
+77,"TEXT_HEAVNB102_02157_LUCIA_000_060","To face such a creature in battle is one thing, to converse with it quite another..."
+78,"TEXT_HEAVNB102_02157_ALPHINAUD_000_070","Given the circumstances, I would say that went rather well."
+79,"TEXT_HEAVNB102_02157_LUCIA_000_071","To be frank, I am surprised our proposal was not rejected outright. Whether aught will come of it remains to be seen, however..."
+80,"TEXT_HEAVNB102_02157_LUCIA_000_072","Mayhap I should take this opportunity to speak with some of the other dragons...<hex:02100103>Ah, but you need not wait for me. The return journey holds no fears for me now."
+81,"TEXT_HEAVNB102_02157_ALPHINAUD_000_073","Well, if you have no further need of our services, we shall continue on to Sharlayan. We hope to welcome a scholar who has agreed to aid us in the search for our missing comrades."
+82,"TEXT_HEAVNB102_02157_LUCIA_000_074","Then I pray your journey is as swift and uneventful as ours was, and thank you again for sparing the time to assist us, even when such grave matters remain unresolved."
+83,"TEXT_HEAVNB102_02157_ALPHINAUD_000_075","I can think of no graver matter than a thousand-year war─one which our friends gave their lives to see ended."
+84,"TEXT_HEAVNB102_02157_ALPHINAUD_000_076","Suffice it to say, I would willingly make a thousand such journeys to ensure that their sacrifice was not in vain."
+85,"TEXT_HEAVNB102_02157_LUCIA_000_077","Of that I have no doubt, Master Alphinaud. I only hope the fates will not hold you to your word."
+86,"TEXT_HEAVNB102_02157_VIDOFNIR_000_080","Never did I think to see a knight of Ishgard come unto Anyx Trine bearing words instead of steel..."
+87,"TEXT_HEAVNB102_02157_VIDOFNIR_000_081","Would that the Gnath could show the same restraint. Too many children have fallen to their spears and muskets."

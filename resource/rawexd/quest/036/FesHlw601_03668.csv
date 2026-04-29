@@ -2,147 +2,147 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_FESHLW601_03668_SEQ_00,※本任務是特定期間內的任務。<hex:02100103><hex:02100103>格里達尼亞的冒險者公會的調查員正在觀察情況。
-1,TEXT_FESHLW601_03668_SEQ_01,※本任務只有在季節活動開放期間才能接受和進行。<hex:02100103>　季節活動結束後無法進行，敬請注意。<hex:02100103>　詳情請參見官方網站。<hex:02100103><hex:02100103>和冒險者公會的調查員進行了交談。旅行藝人團體大陸馬戲團的團員其實全都是魔物。為了查明他們是否有不可告人的企圖，和米·凱特露天劇場和團長談談。
-2,TEXT_FESHLW601_03668_SEQ_02,和團長對話之時發生了意料之外的事態。看來團員之一的冥鬼之眼逃跑了。在中央林區的翡翠湖濱周邊尋找大陸之眼。
-3,TEXT_FESHLW601_03668_SEQ_03,大陸之眼厭煩了馬戲團的訓練逃了出來。與團長匯合之後，他希望冒險者能幫忙進行特訓。和翡翠湖濱的可疑的馴獸師談談。
-4,TEXT_FESHLW601_03668_SEQ_04,可疑的馴獸師提議讓大陸之眼嚇唬路過的冒險者。騎上大陸之眼，在騎乘狀態下對翡翠湖濱周邊的冒險者使用「恐怖視線？」。<hex:02100103><hex:02100103>※和翡翠湖濱的可疑的馴獸師對話就能騎乘大陸之眼。
-5,TEXT_FESHLW601_03668_SEQ_05,冒險者們都因為想參加守護天節而回到了城裡。向翡翠湖濱的可疑的馴獸師報告。
-6,TEXT_FESHLW601_03668_SEQ_06,可疑的馴獸師對特訓的成果喜出望外。回到米·凱特露天劇場，和團長也報告一下。
-7,TEXT_FESHLW601_03668_SEQ_07,團長他們了解了大陸之眼想跟著冒險者一起走的想法。不知從哪發出的聲音好像也在為大陸之眼的遠行獻上祝福。去米·凱特露天劇場告訴冒險者公會調查員不必擔心。
-8,TEXT_FESHLW601_03668_SEQ_08,冒險者公會的調查員在看到大陸之眼沒有惡意之後也暫時安心下來。與得到認可的大陸之眼繼續旅途，度過人與魔物共享歡樂的守護天節。
-9,TEXT_FESHLW601_03668_SEQ_09,
-10,TEXT_FESHLW601_03668_SEQ_10,
-11,TEXT_FESHLW601_03668_SEQ_11,
-12,TEXT_FESHLW601_03668_SEQ_12,
-13,TEXT_FESHLW601_03668_SEQ_13,
-14,TEXT_FESHLW601_03668_SEQ_14,
-15,TEXT_FESHLW601_03668_SEQ_15,
-16,TEXT_FESHLW601_03668_SEQ_16,
-17,TEXT_FESHLW601_03668_SEQ_17,
-18,TEXT_FESHLW601_03668_SEQ_18,
-19,TEXT_FESHLW601_03668_SEQ_19,
-20,TEXT_FESHLW601_03668_SEQ_20,
-21,TEXT_FESHLW601_03668_SEQ_21,
-22,TEXT_FESHLW601_03668_SEQ_22,
-23,TEXT_FESHLW601_03668_SEQ_23,
-24,TEXT_FESHLW601_03668_TODO_00,和米·凱特露天劇場的團長對話
-25,TEXT_FESHLW601_03668_TODO_01,在翡翠湖濱周邊尋找大陸之眼
-26,TEXT_FESHLW601_03668_TODO_02,和可疑的馴獸師對話
-27,TEXT_FESHLW601_03668_TODO_03,騎上大陸之眼<hex:02100103>對冒險者們使用「恐怖視線？」
-28,TEXT_FESHLW601_03668_TODO_04,向可疑的馴獸師報告
-29,TEXT_FESHLW601_03668_TODO_05,和米·凱特露天劇場的團長對話
-30,TEXT_FESHLW601_03668_TODO_06,向冒險者公會的調查員報告
-31,TEXT_FESHLW601_03668_TODO_07,
-32,TEXT_FESHLW601_03668_TODO_08,
-33,TEXT_FESHLW601_03668_TODO_09,
-34,TEXT_FESHLW601_03668_TODO_10,
-35,TEXT_FESHLW601_03668_TODO_11,
-36,TEXT_FESHLW601_03668_TODO_12,
-37,TEXT_FESHLW601_03668_TODO_13,
-38,TEXT_FESHLW601_03668_TODO_14,
-39,TEXT_FESHLW601_03668_TODO_15,
-40,TEXT_FESHLW601_03668_TODO_16,
-41,TEXT_FESHLW601_03668_TODO_17,
-42,TEXT_FESHLW601_03668_TODO_18,
-43,TEXT_FESHLW601_03668_TODO_19,
-44,TEXT_FESHLW601_03668_TODO_20,
-45,TEXT_FESHLW601_03668_TODO_21,
-46,TEXT_FESHLW601_03668_TODO_22,
-47,TEXT_FESHLW601_03668_TODO_23,
-48,TEXT_FESHLW601_03668_INVESTIGATOR03668_000_000,啊，是冒險者！多次受你照顧了！<hex:02100103>它們這次也來了……
-49,TEXT_FESHLW601_03668_INVESTIGATOR03668_000_001,你……難道是冒險者嗎？<hex:02100103>啊，太好了！<hex:02100103>其實我正想找一個本領高強的冒險者幫忙呢！
-50,TEXT_FESHLW601_03668_INVESTIGATOR03668_000_002,每逢守護天節的時候，<hex:02100103>都會有一夥名叫「大陸馬戲團」的旅行藝人團體不知從哪冒出來。<hex:02100103>雖然他們每次都幫忙把節日舉辦得非常熱鬧……
-51,TEXT_FESHLW601_03668_INVESTIGATOR03668_000_003,但其實那群團員們的真實身份，全都是魔物！<hex:02100103>他們特意化成人類的姿態，也許是在秘密地謀劃著什麼，<hex:02100103>可我怎麼觀察都看不出他們的目的，真是一個神秘的團體。
-52,TEXT_FESHLW601_03668_INVESTIGATOR03668_000_004,雖然我也懷疑過他們是不是只想享受守護天節，<hex:02100103>但要是他們在背地裡打什麼鬼主意可就麻煩了！
-53,TEXT_FESHLW601_03668_INVESTIGATOR03668_000_005,能不能請你和我一起監視他們啊？<hex:02100103>我找的就是那種能在魔物鬧騰起來的時候，<hex:02100103>能站出來把他們胖揍一頓的強大冒險者！
-54,TEXT_FESHLW601_03668_INVESTIGATOR03668_000_006,麻煩你裝作不知情的樣子去米·凱特劇場和團長搭個話！<hex:02100103>我在外面掩護你，你打入他們內部，<hex:02100103>咱們一起看看他們有沒有什麼可疑的地方！
-55,TEXT_FESHLW601_03668_INVESTIGATOR03668_000_010,麻煩你去米·凱特劇場若無其事地和團長搭個話！<hex:02100103>我在外面掩護你，你打入他們內部，<hex:02100103>咱們一起看看他們有沒有什麼可疑的地方！
-56,TEXT_FESHLW601_03668_IMPHEAD_000_020,呀呀呀！<hex:02100103>歡迎你大駕光臨我們的馬戲團！
-57,TEXT_FESHLW601_03668_IMPHEAD_000_021,哎呀……我以前是不是見過你啊？<hex:02100103>看來你很喜歡守護天節的慶典啊！
-58,TEXT_FESHLW601_03668_IMPHEAD_000_022,哎呀……這位看著面生啊……<hex:02100103>是不是第一次參加守護天節的慶典啊？
-59,TEXT_FESHLW601_03668_IMPHEAD_000_023,也許你已經知道了，在守護天節期間，<hex:02100103>聖人們在天上的宮殿裡觥籌交錯，載歌載舞。<hex:02100103>對地上的加護就會變弱，導致群魔亂舞。
-60,TEXT_FESHLW601_03668_IMPHEAD_000_024,曾經的人們只能在家裡老老實實地呆著，<hex:02100103>但現在有了冒險者們的活躍表現，城裡也很安全，<hex:02100103>人們也可以愉快地舉辦慶典了。
-61,TEXT_FESHLW601_03668_IMPHEAD_000_025,這就是現代的守護天節！<hex:02100103>這也是我們在這裡熱熱鬧鬧地巡演的原因！<hex:02100103>我們這次也準備了能讓觀眾目瞪口呆的……
-62,TEXT_FESHLW601_03668_BEASTMASTER03668_000_026,團長！<hex:02100103>不好了，不好了！
-63,TEXT_FESHLW601_03668_BEASTMASTER03668_000_027,展示用的大陸之眼它、它逃走了！<hex:02100103>那可是特地從人類獵人那裡花了大價錢買來的幼體，<hex:02100103>我好不容易才親手把它拉扯大的！
-64,TEXT_FESHLW601_03668_IMPHEAD_000_028,你說什麼，那可糟了！<hex:02100103>哎，都和它說過從馬戲團裡跑出去了的話……<hex:02100103>沒準會被誤會成傷人的魔物！
-65,TEXT_FESHLW601_03668_IMPHEAD_000_029,冒險者啊，求求你解一下我們的燃眉之急吧！<hex:02100103>可不可以幫我們把逃出去的大陸之眼找回來啊！
-66,TEXT_FESHLW601_03668_IMPHEAD_000_030,那是我們倍加疼愛的大陸之眼……<hex:02100103>我一想到那孩子要是被不知情的兇惡冒險者給討伐了，<hex:02100103>我這心裡就……嚶嚶嚶！
-67,TEXT_FESHLW601_03668_BEASTMASTER03668_000_031,真是太謝謝你了！<hex:02100103>那麼就麻煩你在黑衣森林中央林區的翡翠湖濱周圍，<hex:02100103>幫忙找找大陸之眼！
-68,TEXT_FESHLW601_03668_IMPHEAD_000_032,嗯，我們也去別的地方找一找吧。<hex:02100103>得趕在人類對它下毒手之前找到它！
-69,TEXT_FESHLW601_03668_INVESTIGATOR03668_000_040,看來團長好像是有事委託你呢，<hex:02100103>給你添麻煩了真是不好意思，<hex:02100103>但為了不被懷疑，還是請你假裝幫幫忙吧……
-70,TEXT_FESHLW601_03668_PUMPKIN_000_050,呼呼……呼呼……<hex:02100103>我之前也見過你吧……<hex:02100103>雖然不知道你還記不記得……
-71,TEXT_FESHLW601_03668_PUMPKIN_000_051,呼呼……呼呼……<hex:02100103>我和你是第一次見吧？
-72,TEXT_FESHLW601_03668_PUMPKIN_000_052,你看起來……<hex:02100103>不是來討伐這隻大陸之眼的。<hex:02100103>你認識這孩子麼？
-73,TEXT_FESHLW601_03668_PUMPKIN_000_053,呼呼……是這樣啊……<hex:02100103>這孩子雖然在接受馬戲團的訓練，<hex:02100103>但訓練進行得不是很順利，就逃出來了……
-74,TEXT_FESHLW601_03668_PUMPKIN_000_054,好了，乖，沒事的哦。<hex:02100103>不要說自己是個一事無成的半吊子。<hex:02100103>你的大眼睛可是很有魅力的。
-75,TEXT_FESHLW601_03668_PUMPKIN_000_055,就算生來魔力貧弱也沒什麼的。<hex:02100103>這位冒險者一定會幫助你的。<hex:02100103>呼呼……
-76,TEXT_FESHLW601_03668_BEASTMASTER03668_000_056,(-？？？？-)啊——<hex:02100103>團長，找到它了！
-77,TEXT_FESHLW601_03668_IMPHEAD_000_057,冒險者啊，多虧你找到它了！<hex:02100103>找到了就快點回城裡嘛，<hex:02100103>兩位在這幹什麼呢？
-78,TEXT_FESHLW601_03668_Q1_000_000,如何回應？
-79,TEXT_FESHLW601_03668_A1_000_001,在和南瓜頭女人說話
-80,TEXT_FESHLW601_03668_A1_000_002,剛剛，這裡還有一個人……
-81,TEXT_FESHLW601_03668_IMPHEAD_000_058,南瓜頭女人？<hex:02100103>那該不會是傳說中，率領著魔物們橫行肆虐、<hex:02100103>上演魔人之夜的傳說中的魔人？！
-82,TEXT_FESHLW601_03668_IMPHEAD_000_059,你是說，剛剛還在這裡的人消失了麼？<hex:02100103>聽起來簡直是傳說中，率領著魔物們橫行肆虐、<hex:02100103>神出鬼沒的南瓜頭魔人啊！
-83,TEXT_FESHLW601_03668_IMPHEAD_000_060,怎麼會呢！<hex:02100103>那樣的大人物怎麼可能會在這裡呢！<hex:02100103>開玩笑也要有個度嘛！嘻嘻！
-84,TEXT_FESHLW601_03668_IMPHEAD_000_061,嗚哇！<hex:02100103>對不起對不起！<hex:02100103>你就饒了我這條小命吧！
-85,TEXT_FESHLW601_03668_IMPHEAD_000_062,哈……你這目光實在是太可怕了吧！<hex:02100103>連小魔精都要出一身冷汗了！<hex:02100103>沒想到一個人類居然能有這樣的目光……
-86,TEXT_FESHLW601_03668_IMPHEAD_000_063,對、對了！<hex:02100103>你把這個目光，<hex:02100103>傳授給大陸之眼吧！
-87,TEXT_FESHLW601_03668_IMPHEAD_000_064,作為大陸馬戲團的一員，<hex:02100103>就應當擁有令人們陷入無盡的恐怖……啊不是，<hex:02100103>是古靈精怪令人驚奇的能力。
-88,TEXT_FESHLW601_03668_IMPHEAD_000_065,這孩子連冥鬼之眼的得意技能——<hex:02100103>恐怖視線，都沒法好好施展出來。<hex:02100103>有著銳利目光的你太適合做它的師傅了！
-89,TEXT_FESHLW601_03668_IMPHEAD_000_066,不愧是你！真是大人有大量啊！<hex:02100103>來來來，大陸之眼你也快和冒險者好好道謝！
-90,TEXT_FESHLW601_03668_BEASTMASTER03668_000_067,那麼，就請你騎到大陸之眼身上，好好教它吧！<hex:02100103>騎乘方法就由我來教給你，來來，這邊請～
-91,TEXT_FESHLW601_03668_IMPHEAD_000_068,嘻嘻嘻……要是學會了那個目光的話，<hex:02100103>大陸之眼一定會成為人人為之膽寒的恐怖魔物的吧……
-92,TEXT_FESHLW601_03668_IMPHEAD_000_069,只要長此以往收集恐懼之力，<hex:02100103>我等的夙願——魔人之夜就能復活了！<hex:02100103>真希望南瓜頭魔人快一點來率領我們，好好地大鬧一場！
-93,TEXT_FESHLW601_03668_IMPHEAD_000_075,哎呀，這不是冒險者麼！<hex:02100103>大陸之眼的特訓已經結束了麼？
-94,TEXT_FESHLW601_03668_BEASTMASTER03668_000_080,來吧，冒險者！<hex:02100103>快點坐到大陸之眼身上，<hex:02100103>指導它學習恐怖視線吧！
-95,TEXT_FESHLW601_03668_BEASTMASTER03668_000_081,只要在這附近對三個人用「恐怖視線？」的話，<hex:02100103>大陸之眼也差不多能找到訣竅了吧！
-96,TEXT_FESHLW601_03668_BEASTMASTER03668_000_082,等你指導結束了就請盡快回到我這裡哦～<hex:02100103>要是丟下我先回到城裡的話，<hex:02100103>我會悲傷過頭附在你身上的哦……開玩笑的！
-97,TEXT_FESHLW601_03668_BEASTMASTER03668_000_083,要是從大陸之眼身上下來了，<hex:02100103>只要來找我就能讓你再坐上去啦！<hex:02100103>那麼就請你多加油咯～
-98,TEXT_FESHLW601_03668_BEASTMASTER03668_000_090,哎呀？<hex:02100103>你從大陸之眼身上下來了啊？<hex:02100103>那我就再讓你坐上去啦～
-99,TEXT_FESHLW601_03668_ADVENTURERA03668_000_095,我要討伐魔物，成為更聲名遠揚的冒險者！
-100,TEXT_FESHLW601_03668_ADVENTURERB03668_000_096,好像有點餓了，<hex:02100103>要不我們先回城裡去吧。
-101,TEXT_FESHLW601_03668_ADVENTURERC03668_000_097,怎麼？<hex:02100103>你也是冒險者麼？
-102,TEXT_FESHLW601_03668_ADVENTURERA03668_000_100,嗚啊！發生什麼了？！<hex:02100103>是你讓這個魔物來襲擊我的嗎？！<hex:02100103>你這是人幹的事麼！
-103,TEXT_FESHLW601_03668_ADVENTURERA03668_000_101,……等等，誒？<hex:02100103>好像也沒怎麼著。<hex:02100103>而且看你這身打扮……難道是守護天節的活動麼？
-104,TEXT_FESHLW601_03668_ADVENTURERA03668_000_102,什麼啊！你倒是早說啊！<hex:02100103>正好我要回城裡一趟，<hex:02100103>就順便去參加一下吧！
-105,TEXT_FESHLW601_03668_ADVENTURERB03668_000_103,哇！嚇我一跳！<hex:02100103>這隻冥鬼之眼也太可愛了吧！<hex:02100103>這是在宣傳守護天節麼？
-106,TEXT_FESHLW601_03668_ADVENTURERB03668_000_104,守護天節期間好像會推出好多好多甜甜的點心呢……<hex:02100103>餅乾啊，糖果啊，還有南瓜布丁……<hex:02100103>我、我忍不住了，我要回城裡了！
-107,TEXT_FESHLW601_03668_ADVENTURERC03668_000_105,……<hex:02100103>剛才的那是什麼，<hex:02100103>這不痛不癢的恐怖視線……
-108,TEXT_FESHLW601_03668_ADVENTURERC03668_000_106,哦，你是馬戲團的成員啊……<hex:02100103>對了，已經是守護天節的時期了啊……
-109,TEXT_FESHLW601_03668_ADVENTURERC03668_000_107,雖然我看起來不是那樣的人，但我很喜歡守護天節……<hex:02100103>這種詭異新奇的感覺讓人很愉快……<hex:02100103>我得趕緊回去參加了……
-110,TEXT_FESHLW601_03668_BEASTMASTER03668_000_110,嘻嘻嘻，我都看到了哦～<hex:02100103>冒險者們連滾帶爬回到城裡的樣子！<hex:02100103>一定是那恐怖視線把他們嚇得魂不附體了吧！
-111,TEXT_FESHLW601_03668_BEASTMASTER03668_000_111,大陸之眼，<hex:02100103>你這不是學得很快嘛～<hex:02100103>我都對你刮目相看了！
-112,TEXT_FESHLW601_03668_BEASTMASTER03668_000_112,來來，趕緊把大陸之眼的精彩表現報告給團長吧！
-113,TEXT_FESHLW601_03668_BEASTMASTER03668_000_113,冒險者就請先回到米·凱特露天劇場找團長吧！
-114,TEXT_FESHLW601_03668_BEASTMASTER03668_000_120,要是沒有人帶著，魔物可是進不了城裡的！<hex:02100103>所以我和大陸之眼會從後面趕上的～
-115,TEXT_FESHLW601_03668_BEASTMASTER03668_000_121,冒險者就請先回到米·凱特露天劇場找團長吧！
-116,TEXT_FESHLW601_03668_IMPHEAD_000_130,歡迎歡迎，我正等著你們呢！<hex:02100103>訓練的成果如何呀？<hex:02100103>大陸之眼學會恐怖視線了嗎？
-117,TEXT_FESHLW601_03668_BEASTMASTER03668_000_131,簡直太完美了！<hex:02100103>被嚇得戰戰兢兢體若篩糠的冒險者一個個爬回了城裡！<hex:02100103>這絕對會嚇到不少人的！
-118,TEXT_FESHLW601_03668_Q2_000_000,如何回應？
-119,TEXT_FESHLW601_03668_A2_000_001,那個不是在害怕啊……
-120,TEXT_FESHLW601_03668_A2_000_002,那是可疑的馴獸師的錯覺
-121,TEXT_FESHLW601_03668_A2_000_003,嗯，一邊哭著叫媽媽一邊逃跑了
-122,TEXT_FESHLW601_03668_IMPHEAD_000_132,哎呀！你可太謙遜了！<hex:02100103>大陸之眼可是得了你那令人膽寒的目光的真傳，<hex:02100103>他們不是害怕能是什麼呢！
-123,TEXT_FESHLW601_03668_IMPHEAD_000_133,哎呀！你可太謙遜了！<hex:02100103>我都看到他們逃回城裡了！<hex:02100103>那不都是被你們嚇跑的冒險者嗎？
-124,TEXT_FESHLW601_03668_IMPHEAD_000_134,哦哦哦哦哦！真嚇人真嚇人！<hex:02100103>真不愧是冒險者！<hex:02100103>冷血無情窮凶極惡，真是人中極品！
-125,TEXT_FESHLW601_03668_IMPHEAD_000_135,大陸之眼也很不錯嘛，<hex:02100103>居然在這麼短時間之內就有如此的成長！<hex:02100103>你已經是大陸馬戲團裡光榮的一員了！
-126,TEXT_FESHLW601_03668_IMPHEAD_000_136,照這樣下去，一定可以讓更多的市民陷入恐懼……<hex:02100103>啊不是，是被古靈精怪令人驚奇的表演而驚嘆！
-127,TEXT_FESHLW601_03668_BEASTMASTER03668_000_137,哎呀？<hex:02100103>怎麼好像想跟著冒險者一起走呢？
-128,TEXT_FESHLW601_03668_IMPHEAD_000_138,嗯……這也就是說……<hex:02100103>你想跟隨冒險者繼續學習恐怖視線<hex:02100103>並將其修練到極致嗎？！
-129,TEXT_FESHLW601_03668_IMPHEAD_000_139,雖然白白放走一個人才實在令人痛心……<hex:02100103>但你們二位齊心合力令各地都陷入無盡的恐懼中的話，<hex:02100103>就能收集到更多的恐懼之力！
-130,TEXT_FESHLW601_03668_IMPHEAD_000_140,好吧！<hex:02100103>看在這份好勝心的份上，<hex:02100103>我就准許你跟隨冒險者吧！
-131,TEXT_FESHLW601_03668_IMPHEAD_000_141,冒險者啊，我將這孩子的所有權轉讓給你。<hex:02100103>請對更多的人使用恐怖視線吧！
-132,TEXT_FESHLW601_03668_PUMPKIN_000_142,呼呼……迷糊的孩子們啊。<hex:02100103>就算魔人之夜沒有復活，<hex:02100103>我也還是在一直守望著大家啊……
-133,TEXT_FESHLW601_03668_PUMPKIN_000_143,大陸之眼，你聽好哦。<hex:02100103>魔物的生存之道並不只有給人帶去恐懼。<hex:02100103>你就和人類一起，享受新的生活吧。
-134,TEXT_FESHLW601_03668_PUMPKIN_000_144,你看那邊的冒險者公會調查員，<hex:02100103>他還在擔心你有沒有盡情享受守護天節的慶典呢。<hex:02100103>你可要好好地和他報告一下啊。
-135,TEXT_FESHLW601_03668_PUMPKIN_000_145,不論是魔物還是人類還是愉快的夜晚，南瓜頭魔人都很喜歡……<hex:02100103>呼呼……呼呼……
-136,TEXT_FESHLW601_03668_IMPHEAD_000_150,冒險者啊，<hex:02100103>大陸之眼就拜託你多照顧了！<hex:02100103>請對更多的人使用恐怖視線吧！
-137,TEXT_FESHLW601_03668_BEASTMASTER03668_000_155,怎麼也是從小拉扯大的，<hex:02100103>果然還是覺得有些寂寞啊。<hex:02100103>不過這也是為了復活魔人之夜！
-138,TEXT_FESHLW601_03668_INVESTIGATOR03668_000_160,啊，是冒險者！<hex:02100103>大陸馬戲團的動向如何了？<hex:02100103>有沒有在盤算一些不好的事啊？
-139,TEXT_FESHLW601_03668_INVESTIGATOR03668_000_161,什麼，不僅捕獲了逃走的冥鬼之眼，<hex:02100103>還將它招安了麼……真是令人肅然起敬的手段啊！
-140,TEXT_FESHLW601_03668_INVESTIGATOR03668_000_162,既然是魔力貧弱對他人無法造成威脅的魔物的話，<hex:02100103>交給冒險者所有也沒什麼關係。<hex:02100103>作為冒險者公會，就認可你的所有權吧！
-141,TEXT_FESHLW601_03668_INVESTIGATOR03668_000_163,真是非常感謝你協助此次潛入調查！
-142,TEXT_FESHLW601_03668_INVESTIGATOR03668_000_164,不過，由於你平息了冥鬼之眼逃跑引發的騷動，<hex:02100103>大陸馬戲團似乎要開始舉辦化妝舞會了！
-143,TEXT_FESHLW601_03668_INVESTIGATOR03668_000_165,那邊好像也有些可疑的舉動……<hex:02100103>要是可以的話也拜託你去潛入那邊，<hex:02100103>幫忙監視一下他們有沒有作惡啊！
+0,"TEXT_FESHLW601_03668_SEQ_00","The Adventurers' Guild investigator is deeply suspicious about...something.<hex:02100103>※This quest is available for a limited time only."
+1,"TEXT_FESHLW601_03668_SEQ_01","You speak with the Adventurers' Guild investigator, who is─not for the first time─keeping a mistrustful eye on the Continental Circus, a troupe dedicated to celebrating All Saints' Wake. He reasons that, as its members are known to be voidsent fiends in disguise, the troupe must be up to something...though he admits he hasn't a clue as to what that might be. He asks that you inquire with the Impresario directly as to this year's events and ascertain what might be suspicious about them while he continues to skulk about the periphery.<hex:02100103><hex:02100103>※Please note that you will not be able to complete this quest after the seasonal event has ended. For details, check the Lodestone."
+2,"TEXT_FESHLW601_03668_SEQ_02","Though you do speak with the Impresario, his poetic monologue about the terrible delights of All Saints' Wake is interrupted before he can divulge anything of import. The source of said disruption is the troupe's voidtamer─who has discovered that the Circus ahriman has gone missing and is taking it rather personally. The Impresario requests your assistance in tracking it down, and as you certainly have no other investigative leads, you head to the Central Shroud to search."
+3,"TEXT_FESHLW601_03668_SEQ_03","You locate the Circus ahriman near the Jadeite Flood, where it has apparently fled due to anxiety over inadequacies in its job performance. A mysterious pumpkin-headed personage is having some success in comforting it─until the Impresario and troupe voidtamer appear and she vanishes into the shadows. Upon your fixing him with an annoyed glare, the Impresario remarks that you would be a suitable instructor for the ahriman, which must learn to utilize its dread gaze to fearsome effect if it is to perform its role in the Circus. This may as well happen, at this point, so you agree to try your hand at training it."
+4,"TEXT_FESHLW601_03668_SEQ_04","After instructing you to help the ahriman practice its dread gaze on hapless bystanders, the voidtamer assists you in climbing atop its head. Perhaps a bit of friendly encouragement will help it channel its inner horror. Or something.<hex:02100103><hex:02100103>※Speak with the troupe voidtamer in the Jadeite Thick to mount the Circus ahriman."
+5,"TEXT_FESHLW601_03668_SEQ_05","The Circus ahriman casts its somewhat less-than-dreadful gaze upon three adventurers in the Shroud. Though it fails to inspire more than mild surprise, it does serve as a festive reminder of All Saints' Wake, prompting all of them to dash off to celebrate the holiday. Were the Continental Circus's goal actually as straightforward as encouraging seasonal revelry, rather than terrorizing the populace to bring about the return of the Night of Devilry, you imagine the ahriman would make an excellent member of the troupe."
+6,"TEXT_FESHLW601_03668_SEQ_06","You report the training as a success to the voidtamer─which is not technically a lie, depending on one's perspective. Fortunately, he witnessed the three adventurers running past and assumed that they were fleeing in terror, and so is inclined to take you at your word."
+7,"TEXT_FESHLW601_03668_SEQ_07","You speak to the Impresario, who is more than willing to believe the voidtamer's interpretation of events, and at last recognizes the ahriman as a valuable member of the troupe. However, for what is likely a multitude of reasons at this point, it conveys that it would rather stay at your side instead. After some all-too-audible consideration as to whether this would further the Circus's goal of blanketing the realm in terror, he acquiesces."
+8,"TEXT_FESHLW601_03668_SEQ_08","The Adventurers' Guild investigator is pleased to hear that you have liberated one of the Circus's would-be instruments of terror and, understanding that the ahriman's gaze poses no actual threat, authorizes you to keep it. It will make a delightful companion for celebrating All Saints' Wake amongst the smallfolk and monsters both."
+9,"TEXT_FESHLW601_03668_SEQ_09",""
+10,"TEXT_FESHLW601_03668_SEQ_10",""
+11,"TEXT_FESHLW601_03668_SEQ_11",""
+12,"TEXT_FESHLW601_03668_SEQ_12",""
+13,"TEXT_FESHLW601_03668_SEQ_13",""
+14,"TEXT_FESHLW601_03668_SEQ_14",""
+15,"TEXT_FESHLW601_03668_SEQ_15",""
+16,"TEXT_FESHLW601_03668_SEQ_16",""
+17,"TEXT_FESHLW601_03668_SEQ_17",""
+18,"TEXT_FESHLW601_03668_SEQ_18",""
+19,"TEXT_FESHLW601_03668_SEQ_19",""
+20,"TEXT_FESHLW601_03668_SEQ_20",""
+21,"TEXT_FESHLW601_03668_SEQ_21",""
+22,"TEXT_FESHLW601_03668_SEQ_22",""
+23,"TEXT_FESHLW601_03668_SEQ_23",""
+24,"TEXT_FESHLW601_03668_TODO_00","Speak with the Impresario at Mih Khetto's Amphitheatre."
+25,"TEXT_FESHLW601_03668_TODO_01","Search for the Circus ahriman near the Jadeite Flood."
+26,"TEXT_FESHLW601_03668_TODO_02","Speak with the troupe voidtamer."
+27,"TEXT_FESHLW601_03668_TODO_03","Ride the ahriman and cast its Sort-of Dread Gaze upon bystanders."
+28,"TEXT_FESHLW601_03668_TODO_04","Report to the troupe voidtamer."
+29,"TEXT_FESHLW601_03668_TODO_05","Speak with the Impresario at Mih Khetto's Amphitheatre."
+30,"TEXT_FESHLW601_03668_TODO_06","Report to the Adventurers' Guild investigator."
+31,"TEXT_FESHLW601_03668_TODO_07",""
+32,"TEXT_FESHLW601_03668_TODO_08",""
+33,"TEXT_FESHLW601_03668_TODO_09",""
+34,"TEXT_FESHLW601_03668_TODO_10",""
+35,"TEXT_FESHLW601_03668_TODO_11",""
+36,"TEXT_FESHLW601_03668_TODO_12",""
+37,"TEXT_FESHLW601_03668_TODO_13",""
+38,"TEXT_FESHLW601_03668_TODO_14",""
+39,"TEXT_FESHLW601_03668_TODO_15",""
+40,"TEXT_FESHLW601_03668_TODO_16",""
+41,"TEXT_FESHLW601_03668_TODO_17",""
+42,"TEXT_FESHLW601_03668_TODO_18",""
+43,"TEXT_FESHLW601_03668_TODO_19",""
+44,"TEXT_FESHLW601_03668_TODO_20",""
+45,"TEXT_FESHLW601_03668_TODO_21",""
+46,"TEXT_FESHLW601_03668_TODO_22",""
+47,"TEXT_FESHLW601_03668_TODO_23",""
+48,"TEXT_FESHLW601_03668_INVESTIGATOR03668_000_000","Aha! I spy with my keenest of eyes <hex:02080CE905FF04>she<hex:FF03>he<hex:03> who thwarted the evils of yesteryear! What a pleasant surprise it is to see you again. Would that I could say the same for that lot..."
+49,"TEXT_FESHLW601_03668_INVESTIGATOR03668_000_001","You there! I have a keen eye, and you strike me as an adventurer worth <hex:02080DE905FF04>her<hex:FF04>his<hex:03> salt. Might I ask for a moment of your time in putting a stop to evils bent on consuming the realm?"
+50,"TEXT_FESHLW601_03668_INVESTIGATOR03668_000_002","The Continental Circus, you see, has arrived once again─as it does every year when it comes time for All Saints' Wake─bringing ghosts and pumpkins and all manner of revelry to Eorzea."
+51,"TEXT_FESHLW601_03668_INVESTIGATOR03668_000_003","I suspect, however, that the troupe is planning something rather more sinister than the distribution of sweet treats."
+52,"TEXT_FESHLW601_03668_INVESTIGATOR03668_000_004","They're fell fiends in disguise, you understand. It's just what they <hex:021A020203>do<hex:021A020103>."
+53,"TEXT_FESHLW601_03668_INVESTIGATOR03668_000_005","I have been unable to discern the nature of their vile plot as yet, but I am certain that something is afoot. Thus do I ask that you assist in my investigation."
+54,"TEXT_FESHLW601_03668_INVESTIGATOR03668_000_006","I need you to speak with the Impresario. Learn what manner of entertainment the troupe is offering this year, and perhaps trick him into revealing something of what they're really planning. I will continue to observe the other members for any sign of suspicious behavior."
+55,"TEXT_FESHLW601_03668_INVESTIGATOR03668_000_010","After years spent as the guild's official investigator, nothing gets past my discerning eyes. <hex:021A020203>Nothing.<hex:021A020103>"
+56,"TEXT_FESHLW601_03668_IMPHEAD_000_020","A horrifying All Saints' Wake to you, traveler!"
+57,"TEXT_FESHLW601_03668_IMPHEAD_000_021","...But yours is a face that I have seen before. My, it is always such a pleasure to see a soul that so appreciates All Saints' Wake."
+58,"TEXT_FESHLW601_03668_IMPHEAD_000_022","Now...might this be your <hex:021A020203>first<hex:021A020103> All Saints' Wake? Oh, how I envy you! That you may yet experience it for the first time!"
+59,"TEXT_FESHLW601_03668_IMPHEAD_000_023","Oh, All Saints' Wake! Those unhallowed nights when we may feast and frolic, free from prying saintly eyes!"
+60,"TEXT_FESHLW601_03668_IMPHEAD_000_024","Mortals once feared it, it is true, hiding from the creatures that stalked the shadows. But now..."
+61,"TEXT_FESHLW601_03668_IMPHEAD_000_025","Now, it is perfectly safe─all the better to cast your cares aside and enjoy the devilish surprises our troupe has prepared for the occasion!  Why, they're positively <hex:021A020203>dreadful<hex:021A020103>, if I do say so myse─"
+62,"TEXT_FESHLW601_03668_BEASTMASTER03668_000_026","Oh, Impresario! It's dreadful! Dreadful, I say!"
+63,"TEXT_FESHLW601_03668_BEASTMASTER03668_000_027","I raised that ahriman myself! Cared for it ever since it was a beady eye, newly torn from the Void by an unscrupulous peddler of exotic pets! And now it's deserted me! I feel so betrayed..."
+64,"TEXT_FESHLW601_03668_IMPHEAD_000_028","Do you mean to say that the Circus ahriman has gone missing!? ...I suppose you do, as we've only the one."
+65,"TEXT_FESHLW601_03668_IMPHEAD_000_029","This is troubling indeed. My dear <hex:020811E905FF05>lady<hex:FF07>fellow<hex:03>, might I ask that you aid us in searching for the missing creature?"
+66,"TEXT_FESHLW601_03668_IMPHEAD_000_030","I hate to think of what might become of it, were it to be spotted by one who─er, <hex:021A020203>mistook<hex:021A020103> it for an agent of evil..."
+67,"TEXT_FESHLW601_03668_BEASTMASTER03668_000_031","How dreadfully kind of you!"
+68,"TEXT_FESHLW601_03668_IMPHEAD_000_032","Now, were I an ahriman─though I most certainly am not─I believe that I might find the crowds of the city intimidating. In which case, we had best turn our gaze upon the surrounding wilds instead. Perhaps the Central Shroud, to begin with─it can't have gotten far."
+69,"TEXT_FESHLW601_03668_INVESTIGATOR03668_000_040","You're on an errand for the Impresario? Well...I suppose that's one means of investigating what he's up to. Fear not─while you're gone, I will keep an eye on things here."
+70,"TEXT_FESHLW601_03668_PUMPKIN_000_050","Oh, I know you... I know you well."
+71,"TEXT_FESHLW601_03668_PUMPKIN_000_051","Well, now... I don't believe that we've met."
+72,"TEXT_FESHLW601_03668_PUMPKIN_000_052","Are you acquainted with this little one?"
+73,"TEXT_FESHLW601_03668_PUMPKIN_000_053","It tells me that it's been working with the Circus, but it struggles to satisfy the Impresario's demands."
+74,"TEXT_FESHLW601_03668_PUMPKIN_000_054","Oh, sweetheart, you're not a disappointment. And your eye is charming. Yes, it is."
+75,"TEXT_FESHLW601_03668_PUMPKIN_000_055","Perhaps you are somewhat...different, but that's nothing to feel ashamed of. Isn't that right, hero?"
+76,"TEXT_FESHLW601_03668_BEASTMASTER03668_000_056","Impresario! Over here!"
+77,"TEXT_FESHLW601_03668_IMPHEAD_000_057","Ah, you found it! But why did the two of you not return right away?"
+78,"TEXT_FESHLW601_03668_Q1_000_000","What will you say?"
+79,"TEXT_FESHLW601_03668_A1_000_001","What happened to the pumpkin-headed lady?"
+80,"TEXT_FESHLW601_03668_A1_000_002","We were talking to someone a moment ago..."
+81,"TEXT_FESHLW601_03668_IMPHEAD_000_058","A pumpkin-headed woman who disappeared without a trace? Why, you could only be speaking of the legendary leader of the armies of darkness─the Great Gourd herself!"
+82,"TEXT_FESHLW601_03668_IMPHEAD_000_059","A mysterious figure who comes and goes at will? Why, that sounds to me like the ogre pumpkinhead, she who ushers in the Night of Devilry!"
+83,"TEXT_FESHLW601_03668_IMPHEAD_000_060","...I jest, of course! The ogre pumpkinhead would hardly break her silence after all of these years to speak with <hex:021A020203>you<hex:021A020103>!"
+84,"TEXT_FESHLW601_03668_IMPHEAD_000_061","Er... What I meant, of course, is that the Great Gourd is merely a fable! If she were real, I am sure she would be delighted─no, <hex:021A020203>honored<hex:021A020103>─to know you! As are we all!"
+85,"TEXT_FESHLW601_03668_IMPHEAD_000_062","My, you possess a spectacularly spine-chilling glare. It's enough to terrorize a voidsent! I mean...it <hex:021A020203>would<hex:021A020103> be. I assume."
+86,"TEXT_FESHLW601_03668_IMPHEAD_000_063","In fact... It is so very horrific that, were one seeking to train in the art of the dread gaze, there could be no better instructor─not even among fiends!"
+87,"TEXT_FESHLW601_03668_IMPHEAD_000_064","And as it happens, we are in need of just such a tutor. We at the Continental Circus have standards to maintain, you see. To play a part in our troupe, one must be able to project a certain air of...eeriness. All in the name of delighting the public, of course."
+88,"TEXT_FESHLW601_03668_IMPHEAD_000_065","Alas, our friend here's gaze is somewhat...less than dreadful. Which simply will not do─particularly for an ahriman. I'm sure you understand. Under your tutelage, however, it may yet become a valued member of the Circus."
+89,"TEXT_FESHLW601_03668_IMPHEAD_000_066","Marvelous! Then it's decided. Our ahriman shall be your pupil."
+90,"TEXT_FESHLW601_03668_BEASTMASTER03668_000_067","I...suppose. You will need to learn to ride it if you're to train it properly, though. Come, I'll show you."
+91,"TEXT_FESHLW601_03668_IMPHEAD_000_068","And once you mold it into a monster that inspires the deepest dread, a force for evil that renders even the most stalwart of mortals voiceless and trembling...our true work will begin!"
+92,"TEXT_FESHLW601_03668_IMPHEAD_000_069","We shall usher in the Night of Devilry at long last! Recall the Great Gourd from her slumber, and feast as the world cowers before us!"
+93,"TEXT_FESHLW601_03668_IMPHEAD_000_075","How is the ahriman's gaze coming along? It is chilling? Spine-tingling? Enough to kill a man from two-hundred yalms away?"
+94,"TEXT_FESHLW601_03668_BEASTMASTER03668_000_080","The ahriman is well trained─or at least I thought so until it <hex:021A020203>ran off on me<hex:021A020103>. Ahem. In any case, it ought to bear you as a passenger without objection."
+95,"TEXT_FESHLW601_03668_BEASTMASTER03668_000_081","I ask that you help it practice gazing upon unsuspecting fools until it gets the hang of doing so...dreadfully."
+96,"TEXT_FESHLW601_03668_BEASTMASTER03668_000_082","When it has learned to perform to your satisfaction, please accompany it back here to me. I should hate to be abandoned by my own ahriman. Again."
+97,"TEXT_FESHLW601_03668_BEASTMASTER03668_000_083","I understand that it is a bit...round, so if you fall off, return to me and I will help you reseat yourself. Now, up you go!"
+98,"TEXT_FESHLW601_03668_BEASTMASTER03668_000_090","Taken a tumble, have you? Never you mind─I've fallen off of its head and onto mine more times than I can count! Back up you go!"
+99,"TEXT_FESHLW601_03668_ADVENTURERA03668_000_095","There must be fiends around here <hex:021A020203>somewhere<hex:021A020103>... How am I meant to get anyone to call me “Fiendslayer” if I can't find any fiends?"
+100,"TEXT_FESHLW601_03668_ADVENTURERB03668_000_096","Ugh, no one ever told me that adventuring was so tedious. And my feet hurt! And I'm hungry..."
+101,"TEXT_FESHLW601_03668_ADVENTURERC03668_000_097","Another adventurer? Well, you had best find a different place to hunt. And the diremite webs are mine, got it?"
+102,"TEXT_FESHLW601_03668_ADVENTURERA03668_000_100","B-Back, fiend, or you shall taste my blade!"
+103,"TEXT_FESHLW601_03668_ADVENTURERA03668_000_101","Oh, that was...rather festive, actually? And that hat! It's fantastic!"
+104,"TEXT_FESHLW601_03668_ADVENTURERA03668_000_102","Dear me, I had nearly forgotten that the All Saints' Wake season was upon us! Fiend-slaying can wait─I must don my guise posthaste!"
+105,"TEXT_FESHLW601_03668_ADVENTURERB03668_000_103","Oh my! What an adorable giant eyeball you are! And dressed for All Saints' Wake, too!"
+106,"TEXT_FESHLW601_03668_ADVENTURERB03668_000_104","I wish <hex:021A020203>I<hex:021A020103> were celebrating instead of training out here. “Slay three squirrels,” they said. “It'll be a challenge,” they said. You know what? I'm done here. I'm going back to town to stuff myself with pumpkin cookies!"
+107,"TEXT_FESHLW601_03668_ADVENTURERC03668_000_105","Eurgh! Well, that was very...weird of you, but you won't scare me away from my hunting spot that easily!"
+108,"TEXT_FESHLW601_03668_ADVENTURERC03668_000_106","Oh, you're with the Continental Circus? What a coincidence─I love All Saints' Wake! I'm out here hunting for diremite webs to decorate my cottage for the occasion, in fact."
+109,"TEXT_FESHLW601_03668_ADVENTURERC03668_000_107","But if the festivities have already begun... I must hurry back to Gridania! I would hate to miss a single ghost! Or voidsent! Or spider!"
+110,"TEXT_FESHLW601_03668_BEASTMASTER03668_000_110","You must have been terrifying─I saw three people running at such speed that they could only have been desperate to reach the safety of their homes. Extraordinary!"
+111,"TEXT_FESHLW601_03668_BEASTMASTER03668_000_111","I'm ever-so-slightly offended that the ahriman seems to have responded better to your training than mine...but what matters is that it has proven itself useful."
+112,"TEXT_FESHLW601_03668_BEASTMASTER03668_000_112","We can only hope that this is enough to satisfy the Impresario. I don't think either of us could stand another lecture on the “fundamentals of fear.”"
+113,"TEXT_FESHLW601_03668_BEASTMASTER03668_000_113","In any case, he ought to be informed of your progress immediately. He doesn't like to be kept waiting."
+114,"TEXT_FESHLW601_03668_BEASTMASTER03668_000_120","We will meet you at the amphitheatre─voidsent must be escorted by someone with the proper permissions to enter the city."
+115,"TEXT_FESHLW601_03668_BEASTMASTER03668_000_121","...And anyway, I'm not keen on letting it out of my sight again."
+116,"TEXT_FESHLW601_03668_IMPHEAD_000_130","Ah, you've returned! And how did the ahriman fare in its lessons?"
+117,"TEXT_FESHLW601_03668_BEASTMASTER03668_000_131","Splendidly! It sent not merely one, but <hex:021A020203>three<hex:021A020103> souls hastening home to quiver under their blankets. It has clearly learned to wield its dread gaze!"
+118,"TEXT_FESHLW601_03668_Q2_000_000","What will you say?"
+119,"TEXT_FESHLW601_03668_A2_000_001","That's...not entirely accurate."
+120,"TEXT_FESHLW601_03668_A2_000_002","In a manner of speaking..."
+121,"TEXT_FESHLW601_03668_A2_000_003","That is absolutely, positively what happened."
+122,"TEXT_FESHLW601_03668_IMPHEAD_000_132","Ah, but I saw them as well! All three running as if flames were licking at their heels!"
+123,"TEXT_FESHLW601_03668_IMPHEAD_000_133","No need to be modest! If its gaze has become even half as horrific as yours, I have no doubt that it is capable of chilling victims to the bone!"
+124,"TEXT_FESHLW601_03668_IMPHEAD_000_134","Just as I anticipated! The instant you fixed me with your stare, I knew that true evil lay within! I am delighted that you were able to share a bit of that with our ahriman."
+125,"TEXT_FESHLW601_03668_IMPHEAD_000_135","And you, young ahriman─congratulations! You have proven yourself to be a worthy member of the troupe."
+126,"TEXT_FESHLW601_03668_IMPHEAD_000_136","Go forth, and terrorize the masses!"
+127,"TEXT_FESHLW601_03668_BEASTMASTER03668_000_137","You traitorous little─ You want to go with <hex:021A020203><hex:02080DE905FF04>her<hex:FF04>him<hex:03><hex:021A020103>?"
+128,"TEXT_FESHLW601_03668_IMPHEAD_000_138","Hm... I'm not certain we can afford to part with such a valuable asset."
+129,"TEXT_FESHLW601_03668_IMPHEAD_000_139","On the other hand... So long as it continues to terrify, it needn't necessarily remain here to be of assistance. In fact, traveling would bring it into contact with even more victims... "
+130,"TEXT_FESHLW601_03668_IMPHEAD_000_140","Very well! I am moved by your heartfelt plea, ahriman! I will permit you a leave of absence─so long as you continue to emulate your horrifying companion."
+131,"TEXT_FESHLW601_03668_IMPHEAD_000_141","Guide it well, adventurer. I look forward to seeing what horrors you visit upon the realm!"
+132,"TEXT_FESHLW601_03668_PUMPKIN_000_142","My foolish children, ever eager to reclaim what was never truly lost."
+133,"TEXT_FESHLW601_03668_PUMPKIN_000_143","Its devilry takes a different form, but the night goes on─haunted by monster and mortal both."
+134,"TEXT_FESHLW601_03668_PUMPKIN_000_144","And though you may think me absent, my eye is ever upon you..."
+135,"TEXT_FESHLW601_03668_PUMPKIN_000_145","So <hex:021A020203>do<hex:021A020103> have fun."
+136,"TEXT_FESHLW601_03668_IMPHEAD_000_150","I leave our ahriman in your sinister hands!"
+137,"TEXT_FESHLW601_03668_BEASTMASTER03668_000_155","Abandoned, just like that! I can't believe it!"
+138,"TEXT_FESHLW601_03668_INVESTIGATOR03668_000_160","You've returned at last! Did you uncover any unhallowed plots?"
+139,"TEXT_FESHLW601_03668_INVESTIGATOR03668_000_161","They attempted to train an ahriman to terrorize the populace, but it's your friend now? Well!"
+140,"TEXT_FESHLW601_03668_INVESTIGATOR03668_000_162","As long as it poses no risk to others, I don't see the harm in it accompanying you. Though I will make a note of this in the guild records, just in case."
+141,"TEXT_FESHLW601_03668_INVESTIGATOR03668_000_163","I appreciate your willingness to get hands-on with this investigation. Speaking of which..."
+142,"TEXT_FESHLW601_03668_INVESTIGATOR03668_000_164","For my part, I have observed the troupe moving large quantities of supplies and issuing invitations to some manner of gathering."
+143,"TEXT_FESHLW601_03668_INVESTIGATOR03668_000_165","Based on past experience, I cannot help but have a bad feeling about this..."

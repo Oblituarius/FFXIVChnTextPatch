@@ -1,12 +1,12 @@
-﻿key,2
-#,Name
-offset,0
-int32,str
-0,
-1,情報記錄終端機
-2,妖怪大辭典
-3,戰果記錄
-4,風脈儀
-5,隨身見聞錄
-6,莫古莫古指南書
-7,新月島調查筆記
+﻿key,0,1,2
+#,Order,Icon,Name
+offset,8,4,0
+int32,uint16,Image,str
+0,0,0,""
+1,5,26595,"Portable Archive"
+2,3,26995,"Yo-kai Medallium"
+3,6,26602,"Field Record"
+4,4,25948,"Aether Compass"
+5,1,26066,"Unending Codex"
+6,2,26067,"Mogpendium"
+7,7,26075,"Occult Record"

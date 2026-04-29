@@ -1,211 +1,219 @@
-﻿key,1,2,3,4,5,6
-#,Name,Description,,,,
-offset,0,4,8,12,16,20
-int32,str,str,str,str,str,str
-0,,,,,,
-1,碧空,,,,,
-2,晴朗,,,,,
-3,陰雲,,,,,
-4,薄霧,,,,,
-5,微風,,,,,
-6,強風,,,,,
-7,小雨,,,,,
-8,暴雨,,,,,
-9,打雷,,,,,
-10,雷雨,,,,,
-11,揚沙,,,,,
-12,沙塵暴,,,,,
-13,高溫,,,,,
-14,熱浪,,,,,
-15,小雪,,,,,
-16,暴雪,,,,,
-17,妖霧,,,,,
-18,極光,,,,,
-19,黑暗,,,,,
-20,絕命,,,,,
-21,陰雲,,,,,
-22,雷雲,,,,,
-23,暴風雨,,,,,
-24,暴風雨,,,,,
-25,陰沉,,,,,
-26,熱浪,,,,,
-27,妖霧,,,,,
-28,暴風,,,,,
-29,煙霧,,,,,
-30,晴朗,,,,,
-31,晴朗,,,,,
-32,晴朗,,,,,
-33,晴朗,,,,,
-34,晴朗,,,,,
-35,極光,,,,,
-36,輝核,,,,,
-37,輝核,,,,,
-38,輝核,,,,,
-39,輝核,,,,,
-40,灘雲,,,,,
-41,灘雲,,,,,
-42,灘雲,,,,,
-43,灘雲,,,,,
-44,神意,,,,,
-45,神意,,,,,
-46,神意,,,,,
-47,神意,,,,,
-48,神意,,,,,
-49,靈風,,,,,
-50,靈電,,,,,
-51,煙武,,,,,
-52,晴朗,,,,,
-53,獸雷,,,,,
-54,雷波,,,,,
-55,獸雷,,,,,
-56,神意,,,,,
-57,打雷,,,,,
-58,打雷,,,,,
-59,,,,,,
-60,神秘,,,,,
-61,神秘,,,,,
-62,小雨,,,,,
-63,晴朗,,,,,
-64,小雨,,,,,
-65,晴朗,,,,,
-66,邪天,,,,,
-67,邪天,,,,,
-68,晴朗,,,,,
-69,平衡,,,,,
-70,平衡,,,,,
-71,時光,,,,,
-72,時光,,,,,
-73,時光,,,,,
-74,鬼氣,,,,,
-75,鬼氣,,,,,
-76,鬼氣,,,,,
-77,次元,,,,,
-78,次元,,,,,
-79,次元,,,,,
-80,豪雨,,,,,
-81,豪雨,,,,,
-82,極樂,,,,,
-83,極樂,,,,,
-84,龍威,,,,,
-85,龍威,,,,,
-86,豪雨,,,,,
-87,迅雷,,,,,
-88,打雷,,,,,
-89,次元,,,,,
-90,晴朗,,,,,
-91,碧空,,,,,
-92,白旋風,,,,,
-93,白旋風,,,,,
-94,白旋風,,,,,
-95,幻想,,,,,
-96,白旋風,,,,,
-97,月夜,,,,,
-98,月夜,,,,,
-99,月夜,,,,,
-100,月夜,,,,,
-101,紅月下,,,,,
-102,朱炎,,,,,
-103,朱炎,,,,,
-104,朱炎,,,,,
-105,晴朗,,,,,
-106,晴朗,,,,,
-107,晴朗,,,,,
-108,晴朗,,,,,
-109,烈焰,,,,,
-110,海嘯,,,,,
-111,龍捲風,,,,,
-112,地震,,,,,
-113,青空,,,,,
-114,青空,,,,,
-115,青空,,,,,
-116,亂靈流,,,,,
-117,青空,,,,,
-118,無盡光,,,,,
-119,暴風,,,,,
-120,末日,,,,,
-121,末日,,,,,
-122,妖夢,,,,,
-123,妖夢,,,,,
-124,妖夢,,,,,
-125,光天,,,,,
-126,光天,,,,,
-127,末日,,,,,
-128,末日,,,,,
-129,無盡光,,,,,
-130,煙霧,,,,,
-131,末日,,,,,
-132,晴朗,,,,,
-133,靈烈火,,,,,
-134,靈飄塵,,,,,
-135,靈飛電,,,,,
-136,靈罡風,,,,,
-137,流星雨,,,,,
-138,記憶亂流,,,,,
-139,陰雲,,,,,
-140,陰雲,,,,,
-141,極光,,,,,
-142,極光,,,,,
-143,雷雲,,,,,
-144,火風暴,,,,,
-145,幻海流,,,,,
-146,,,,,,
-147,決戰,,,,,
-148,月塵,,,,,
-149,磁暴,,,,,
-150,末日,,,,,
-151,星靈,,,,,
-152,星靈,,,,,
-153,星靈,,,,,
-154,星靈,,,,,
-155,星靈,,,,,
-156,虛擬,,,,,
-157,萬魔殿,,,,,
-158,萬魔殿,,,,,
-159,萬魔殿,,,,,
-160,終極,,,,,
-161,絕望,,,,,
-162,神域,,,,,
-163,神域,,,,,
-164,神域,,,,,
-165,神域,,,,,
-166,神域,,,,,
-167,神域,,,,,
-168,神域,,,,,
-169,神域,,,,,
-170,邪天,,,,,
-171,虛無,,,,,
-172,虛無,,,,,
-173,虛無,,,,,
-174,次元,,,,,
-175,次元,,,,,
-176,次元,,,,,
-177,萬魔殿,,,,,
-178,萬魔殿,,,,,
-179,詩想,,,,,
-180,虛無,,,,,
-181,閾限,,,,,
-182,閾限,,,,,
-183,虛擬,,,,,
-184,虛擬,,,,,
-185,虛擬,,,,,
-186,虛擬,,,,,
-187,記憶,,,,,
-188,戰雲,,,,,
-189,虛擬,,,,,
-190,幻怪,,,,,
-191,幻妖,,,,,
-192,蜃景,,,,,
-193,魔塵,,,,,
-194,流星雨,,,,,
-195,流星雨,,,,,
-196,磁暴,,,,,
-197,孢子霧,,,,,
-198,死氣,,,,,
-199,死氣,,,,,
-200,死氣,,,,,
-201,寒冷氣流,,,,,
-202,玻璃雨,,,,,
-203,打雷,,,,,
-204,打雷,,,,,
-205,,,,,,
-206,,,,,,
+﻿key,0,1,2,3,4,5,6
+#,Icon,Name,Description,,,,
+offset,24,0,4,8,12,16,20
+int32,Image,str,str,str,str,str,str
+0,0,"","","","","",""
+1,60201,"Clear Skies","clear","","","",""
+2,60202,"Fair Skies","fair","","","",""
+3,60203,"Clouds","overcast","","","",""
+4,60204,"Fog","foggy","","","",""
+5,60205,"Wind","windy","","","",""
+6,60206,"Gales","gusty","","","",""
+7,60207,"Rain","rainy","","","",""
+8,60208,"Showers","showery","","","",""
+9,60209,"Thunder","thundery","","","",""
+10,60210,"Thunderstorms","stormy","","","",""
+11,60211,"Dust Storms","dusty","","","",""
+12,60212,"Sandstorms","sandy","","","",""
+13,60213,"Hot Spells","hot","","","",""
+14,60214,"Heat Waves","blistering","","","",""
+15,60215,"Snow","snowy","","","",""
+16,60216,"Blizzards","blizzardy","","","",""
+17,60218,"Gloom","gloomy","","","",""
+18,60217,"Auroras","experiencing auroral activity","","","",""
+19,60251,"Darkness","dark","","","",""
+20,60255,"Tension","crackling with tension","","","",""
+21,60203,"Clouds","overcast","","","",""
+22,60259,"Storm Clouds","threatened by rain","","","",""
+23,60258,"Rough Seas","experiencing rough seas","","","",""
+24,60258,"Rough Seas","experiencing rough seas","","","",""
+25,60257,"Louring","loury","","","",""
+26,60252,"Heat Waves","blistering","","","",""
+27,60256,"Gloom","gloomy","","","",""
+28,60253,"Gales","gusty","","","",""
+29,60254,"Eruptions","erupting","","","",""
+30,60202,"Fair Skies","fair","","","",""
+31,60202,"Fair Skies","fair","","","",""
+32,60202,"Fair Skies","fair","","","",""
+33,60202,"Fair Skies","fair","","","",""
+34,60202,"Fair Skies","fair","","","",""
+35,60260,"Irradiance","irradiant","","","",""
+36,60261,"Core Radiation","radioactive","","","",""
+37,60261,"Core Radiation","radioactive","","","",""
+38,60261,"Core Radiation","radioactive","","","",""
+39,60261,"Core Radiation","radioactive","","","",""
+40,60262,"Shelf Clouds","unnaturally cloudy","","","",""
+41,60262,"Shelf Clouds","unnaturally cloudy","","","",""
+42,60262,"Shelf Clouds","unnaturally cloudy","","","",""
+43,60262,"Shelf Clouds","unnaturally cloudy","","","",""
+44,60264,"Oppression","oppressive","","","",""
+45,60264,"Oppression","oppressive","","","",""
+46,60264,"Oppression","oppressive","","","",""
+47,60264,"Oppression","oppressive","","","",""
+48,60264,"Oppression","oppressive","","","",""
+49,60219,"Umbral Wind","experiencing umbral wind","","","",""
+50,60220,"Umbral Static","experiencing umbral static","","","",""
+51,60263,"Smoke","smoky","","","",""
+52,60202,"Fair Skies","fair","","","",""
+53,60226,"Royal Levin","experiencing royal levin","","","",""
+54,60227,"Hyperelectricity","hyperelectric","","","",""
+55,60226,"Royal Levin","experiencing royal levin","","","",""
+56,60264,"Oppression","oppressive","","","",""
+57,60209,"Thunder","thundery","","","",""
+58,60209,"Thunder","thundery","","","",""
+59,0,"CutScene","CutScenery","","","",""
+60,60265,"Multiplicity","experiencing multiplicity","","","",""
+61,60265,"Multiplicity","experiencing multiplicity","","","",""
+62,60207,"Rain","rainy","","","",""
+63,60202,"Fair Skies","fair","","","",""
+64,60207,"Rain","rainy","","","",""
+65,60202,"Fair Skies","fair","","","",""
+66,60266,"Dragonstorms","unnaturally stormy","","","",""
+67,60266,"Dragonstorms","unnaturally stormy","","","",""
+68,60202,"Subterrain","subterranean","","","",""
+69,60267,"Concordance","concordant","","","",""
+70,60267,"Concordance","concordant","","","",""
+71,60268,"Beyond Time","temporal","","","",""
+72,60268,"Beyond Time","temporal","","","",""
+73,60268,"Beyond Time","temporal","","","",""
+74,60269,"Demonic Infinity","demonically infinite","","","",""
+75,60269,"Demonic Infinity","demonically infinite","","","",""
+76,60269,"Demonic Infinity","demonically infinite","","","",""
+77,60274,"Dimensional Disruption","extradimensional","","","",""
+78,60274,"Dimensional Disruption","extradimensional","","","",""
+79,60274,"Dimensional Disruption","extradimensional","","","",""
+80,60271,"Revelstorms","revelry","","","",""
+81,60271,"Revelstorms","revelry","","","",""
+82,60270,"Eternal Bliss","blissful","","","",""
+83,60270,"Eternal Bliss","blissful","","","",""
+84,60272,"Wyrmstorms","unnaturally stormy","","","",""
+85,60272,"Wyrmstorms","unnaturally stormy","","","",""
+86,60271,"Revelstorms","revelry","","","",""
+87,60273,"Quicklevin","hypervoltaic","","","",""
+88,60209,"Thunder","thundery","","","",""
+89,60274,"Dimensional Disruption","extradimensional","","","",""
+90,60202,"Fair Skies","fair","","","",""
+91,60201,"Clear Skies","clear","","","",""
+92,60275,"White Cyclones","cyclonic","","","",""
+93,60275,"White Cyclones","cyclonic","","","",""
+94,60275,"White Cyclones","cyclonic","","","",""
+95,60277,"Ultimania","ultimaniacal","","","",""
+96,60275,"White Cyclones","cyclonic","","","",""
+97,60276,"Moonlight","moonlit","","","",""
+98,60276,"Moonlight","moonlit","","","",""
+99,60276,"Moonlight","moonlit","","","",""
+100,60276,"Moonlight","moonlit","","","",""
+101,60293,"Red Moon","portentious","","","",""
+102,60278,"Scarlet","scarlet","","","",""
+103,60278,"Scarlet","scarlet","","","",""
+104,60278,"Scarlet","scarlet","","","",""
+105,60202,"Fair Skies","fair","","","",""
+106,60202,"Fair Skies","fair","","","",""
+107,60202,"Fair Skies","fair","","","",""
+108,60202,"Fair Skies","fair","","","",""
+109,60279,"Flames","fiery","","","",""
+110,60280,"Tsunamis","wet","","","",""
+111,60281,"Cyclones","cyclonic","","","",""
+112,60282,"Geostorms","shakey","","","",""
+113,60283,"True Blue","true blue","","","",""
+114,60283,"True Blue","true blue","","","",""
+115,60283,"True Blue","true blue","","","",""
+116,60284,"Umbral Turbulence","umbrally turbulent","","","",""
+117,60283,"True Blue","true blue","","","",""
+118,60221,"Everlasting Light","bright","","","",""
+119,60253,"Gales","gusty","","","",""
+120,60287,"Termination","terminal","","","",""
+121,60287,"Termination","terminal","","","",""
+122,60285,"Dreams","dreamy","","","",""
+123,60285,"Dreams","dreamy","","","",""
+124,60285,"Dreams","dreamy","","","",""
+125,60286,"Brilliance","brilliant","","","",""
+126,60286,"Brilliance","brilliant","","","",""
+127,60287,"Termination","terminal","","","",""
+128,60287,"Termination","terminal","","","",""
+129,60221,"Everlasting Light","bright","","","",""
+130,60254,"Eruptions","erupting","","","",""
+131,60287,"Termination","terminal","","","",""
+132,60202,"Fair Skies","fair","","","",""
+133,60288,"Umbral Flare","darkly burning","","","",""
+134,60289,"Umbral Duststorms","darkly dusty","","","",""
+135,60290,"Umbral Levin","darkly thunderous","","","",""
+136,60291,"Umbral Tempest","darkly tempestuous","","","",""
+137,60296,"Starshower","calamitous","","","",""
+138,60294,"Delirium","delirium","","","",""
+139,60203,"Clouds","overcast","","","",""
+140,60203,"Clouds","overcast","","","",""
+141,60260,"Irradiance","irradiant","","","",""
+142,60260,"Irradiance","irradiant","","","",""
+143,60259,"Storm Clouds","threatened by rain","","","",""
+144,60295,"Firestorms","hellacious","","","",""
+145,60292,"Spectral Current","spectral","","","",""
+146,0,"","","","","",""
+147,60297,"Climactic","climactic","","","",""
+148,60222,"Moon Dust","regolithic","","","",""
+149,60223,"Astromagnetic Storms","astromagnetic","","","",""
+150,60224,"Apocalypse","apocalyptic","","","",""
+151,60298,"Polarization","polarized","","","",""
+152,60298,"Polarization","polarized","","","",""
+153,60298,"Polarization","polarized","","","",""
+154,60298,"Polarization","polarized","","","",""
+155,60298,"Polarization","polarized","","","",""
+156,60225,"Projection","projected","","","",""
+157,60228,"Pandæmonium","demonic","","","",""
+158,60228,"Pandæmonium","demonic","","","",""
+159,60228,"Pandæmonium","demonic","","","",""
+160,60299,"Ultimatum","ultimate","","","",""
+161,60229,"Inevitability","inevitable","","","",""
+162,60230,"Transcendence","transcendent","","","",""
+163,60230,"Transcendence","transcendent","","","",""
+164,60230,"Transcendence","transcendent","","","",""
+165,60230,"Transcendence","transcendent","","","",""
+166,60230,"Transcendence","transcendent","","","",""
+167,60230,"Transcendence","transcendent","","","",""
+168,60230,"Transcendence","transcendent","","","",""
+169,60230,"Transcendence","transcendent","","","",""
+170,60266,"Dragonstorms","unnaturally stormy","","","",""
+171,60231,"Vacuity","vacuous","","","",""
+172,60231,"Vacuity","vacuous","","","",""
+173,60231,"Vacuity","vacuous","","","",""
+174,60274,"Dimensional Disruption","extradimensional","","","",""
+175,60274,"Dimensional Disruption","extradimensional","","","",""
+176,60274,"Dimensional Disruption","extradimensional","","","",""
+177,60228,"Pandæmonium","demonic","","","",""
+178,60228,"Pandæmonium","demonic","","","",""
+179,60232,"Lyrical Catharsis","lyrical","","","",""
+180,60231,"Vacuity","vacuous","","","",""
+181,60233,"Liminality","liminal","","","",""
+182,60233,"Liminality","liminal","","","",""
+183,60234,"Projection","projected","","","",""
+184,60234,"Projection","projected","","","",""
+185,60234,"Projection","projected","","","",""
+186,60234,"Projection","projected","","","",""
+187,60235,"Reminiscence","nostalgic","","","",""
+188,60236,"Ominous Clouds","ominous","","","",""
+189,60234,"Projection","projected","","","",""
+190,60238,"Atmospheric Phantasms","phantasmal","","","",""
+191,60239,"Illusory Disturbances","illusory","","","",""
+192,60240,"Auroral Mirages","auroral","","","",""
+193,60237,"Electrostatic Dust","electrostatic","","","",""
+194,60241,"Meteor Showers","meteoric","","","",""
+195,60241,"Meteor Showers","meteoric","","","",""
+196,60223,"Astromagnetic Storms","astromagnetic","","","",""
+197,60242,"Sporing Mist","unicellular","","","",""
+198,60243,"Dying Breath","deadly","","","",""
+199,60243,"Dying Breath","deadly","","","",""
+200,60243,"Dying Breath","deadly","","","",""
+201,60244,"Annealing Winds","annealing","","","",""
+202,60245,"Glass Storms","vitrescent","","","",""
+203,60209,"Thunder","thundery","","","",""
+204,60209,"Thunder","thundery","","","",""
+205,60246,"Gravitational Flux","anomalous","","","",""
+206,60247,"Bubble Bloom","bubbly","","","",""
+207,0,"","","","","",""
+208,0,"","","","","",""
+209,60201,"Clear Skies","clear","","","",""
+210,60208,"Showers","fair","","","",""
+211,0,"","","","","",""
+212,0,"","","","","",""
+213,0,"","","","","",""
+214,0,"","","","","",""

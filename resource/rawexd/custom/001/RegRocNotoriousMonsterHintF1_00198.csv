@@ -2,22 +2,22 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_REGROCNOTORIOUSMONSTERHINTF1_00198_MOBHUNTERR1F1_000_1,看來你是個冒險者啊……<hex:02100103>你也在追捕惡名菁英嗎？
-1,TEXT_REGROCNOTORIOUSMONSTERHINTF1_00198_Q1_000_1,想了解什麼？
-2,TEXT_REGROCNOTORIOUSMONSTERHINTF1_00198_A1_000_1,你是做什麼的？
-3,TEXT_REGROCNOTORIOUSMONSTERHINTF1_00198_A1_000_2,關於B級怪物：黃龍的使徒——納烏爾
-4,TEXT_REGROCNOTORIOUSMONSTERHINTF1_00198_A1_000_3,關於A級怪物：鋼鱗硬龍——馬拉克
-5,TEXT_REGROCNOTORIOUSMONSTERHINTF1_00198_A1_000_4,關於S級怪物：高空翠龍——薩法特
-6,TEXT_REGROCNOTORIOUSMONSTERHINTF1_00198_A1_000_5,取消
-7,TEXT_REGROCNOTORIOUSMONSTERHINTF1_00198_MOBHUNTERR1F1_000_10,我是一名怪物獵人，<hex:02100103>專門追捕擾亂地區治安的惡名菁英。
-8,TEXT_REGROCNOTORIOUSMONSTERHINTF1_00198_MOBHUNTERR1F1_000_11,只要討伐成功，<hex:02100103>就能從艾歐澤亞城邦軍事同盟處獲得同盟徽章。
-9,TEXT_REGROCNOTORIOUSMONSTERHINTF1_00198_MOBHUNTERR1F1_000_12,如果你也想挑戰一下，<hex:02100103>我可以告訴你一些這片地區惡名菁英的情報。
-10,TEXT_REGROCNOTORIOUSMONSTERHINTF1_00198_MOBHUNTERR1F1_000_13,順便一說，按危險程度不同，惡名菁英是有等級之分的。<hex:02100103>S級的怪物別說討伐了，就連找都很難找得到。
-11,TEXT_REGROCNOTORIOUSMONSTERHINTF1_00198_MOBHUNTERR1F1_000_20,在伊修加德教皇廳的請求下，<hex:02100103>艾歐澤亞同盟軍將納烏爾指定為惡名菁英。
-12,TEXT_REGROCNOTORIOUSMONSTERHINTF1_00198_MOBHUNTERR1F1_000_21,它曾與黃龍斯瓦拉一起襲擊過鋼衛塔，<hex:02100103>將要塞變成廢墟，你知道它有多危險了吧？<hex:02100103>名門艾因哈特家的老三，也是在跟納烏爾的戰鬥中戰死的。
-13,TEXT_REGROCNOTORIOUSMONSTERHINTF1_00198_MOBHUNTERR1F1_000_30,硬龍馬拉克是狄蘭達爾家的仇敵。<hex:02100103>它曾經殺死了十多名狄蘭達爾家的騎兵……
-14,TEXT_REGROCNOTORIOUSMONSTERHINTF1_00198_MOBHUNTERR1F1_000_31,它的身體非常堅硬，就算被對龍加農砲打中，<hex:02100103>身上也不會有半點傷痕。<hex:02100103>如果想要討伐它的話，要做好充分的準備。
-15,TEXT_REGROCNOTORIOUSMONSTERHINTF1_00198_MOBHUNTERR1F1_000_40,翠龍薩法雖然身形巨大，飛翔能力卻出類拔萃。
-16,TEXT_REGROCNOTORIOUSMONSTERHINTF1_00198_MOBHUNTERR1F1_000_41,它平時都會在雲海遨遊，<hex:02100103>可如果聽到了悲鳴，無論在哪，它都會飛過來。<hex:02100103>是個喜歡人們恐懼之心的殘忍的傢伙。
-17,TEXT_REGROCNOTORIOUSMONSTERHINTF1_00198_MOBHUNTERR1F1_000_42,反過來說，利用膽戰心驚的情緒，<hex:02100103>就可以把它引誘出來。<hex:02100103>如果想成為一名屠龍者的話，就去試試吧。
-18,TEXT_REGROCNOTORIOUSMONSTERHINTF1_00198_TALK_ACTOR,(★未使用/削除予定★)
+0,"TEXT_REGROCNOTORIOUSMONSTERHINTF1_00198_MOBHUNTERR1F1_000_1","An adventurer on the trail of an elite mark, if I'm not mistaken. Go on and state your business, <hex:02080EE905FF05>lass<hex:FF04>lad<hex:03>."
+1,"TEXT_REGROCNOTORIOUSMONSTERHINTF1_00198_Q1_000_1","What will you ask?"
+2,"TEXT_REGROCNOTORIOUSMONSTERHINTF1_00198_A1_000_1","What do you do here?"
+3,"TEXT_REGROCNOTORIOUSMONSTERHINTF1_00198_A1_000_2","Tell me about the rank B elite mark. (Naul)"
+4,"TEXT_REGROCNOTORIOUSMONSTERHINTF1_00198_A1_000_3","Tell me about the rank A elite mark. (Marraco)"
+5,"TEXT_REGROCNOTORIOUSMONSTERHINTF1_00198_A1_000_4","Tell me about the rank S elite mark. (Safat)"
+6,"TEXT_REGROCNOTORIOUSMONSTERHINTF1_00198_A1_000_5","Nothing."
+7,"TEXT_REGROCNOTORIOUSMONSTERHINTF1_00198_MOBHUNTERR1F1_000_10","I hunt, I read, and one more thing─I help."
+8,"TEXT_REGROCNOTORIOUSMONSTERHINTF1_00198_MOBHUNTERR1F1_000_11","It's a simple life. If the hunt succeeds, I collect the bounty in Allied Seals. If I fail, well, there are always more books to read."
+9,"TEXT_REGROCNOTORIOUSMONSTERHINTF1_00198_MOBHUNTERR1F1_000_12","Now then, is there anything I can help you with? But of course there is─you adventurers are always getting in over your heads."
+10,"TEXT_REGROCNOTORIOUSMONSTERHINTF1_00198_MOBHUNTERR1F1_000_13","And speaking of “over your head,” never forget that marks are ranked according to danger. You'll not easily find a rank S mark, let alone bag one."
+11,"TEXT_REGROCNOTORIOUSMONSTERHINTF1_00198_MOBHUNTERR1F1_000_20","Ah, yes. You know how Ishgard is about dragons. The Holy See managed to get Naul and a few other dragons on to the elite mark list. A favor to be repaid in kind, I'm sure."
+12,"TEXT_REGROCNOTORIOUSMONSTERHINTF1_00198_MOBHUNTERR1F1_000_21","“The dragons Naul and Svara are best known for their attack on the Steel Vigil, which left the fortress a smoking ruin. Notable casualties include the third son of House Haillenarte...”"
+13,"TEXT_REGROCNOTORIOUSMONSTERHINTF1_00198_MOBHUNTERR1F1_000_30","Every High House of Ishgard has its own dragon in a bonnet, don't they? An enemy without keeps order within. The dragon Marraco is to be hunted for the crime of mistaking almost a dozen of House Durendaire's knights for kindling."
+14,"TEXT_REGROCNOTORIOUSMONSTERHINTF1_00198_MOBHUNTERR1F1_000_31","“An impressive physical specimen by all accounts, the dragon Marraco can easily withstand a direct hit from dragonslayer cannons, thus requiring enterprising hunters to exercise some forethought in their choice of arms.”"
+15,"TEXT_REGROCNOTORIOUSMONSTERHINTF1_00198_MOBHUNTERR1F1_000_40","“A winning combination of size and agility, the dragon Safat spends much of its time winging its way through the Sea of Clouds."
+16,"TEXT_REGROCNOTORIOUSMONSTERHINTF1_00198_MOBHUNTERR1F1_000_41","“A scream or two, however, never fails to bring Safat streaking down to its prey, attuned as the beast is to terror and misery."
+17,"TEXT_REGROCNOTORIOUSMONSTERHINTF1_00198_MOBHUNTERR1F1_000_42","“Some hunters have been known to subject themselves to hair-raising experiences in order to bait the dragon. Results have been mixed.”"
+18,"TEXT_REGROCNOTORIOUSMONSTERHINTF1_00198_TALK_ACTOR",""

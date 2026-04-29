@@ -2,123 +2,123 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_JOBBRD601_02890_SEQ_00,石場水車西邊的讓泰爾看到冒險者後想到了一件事。
-1,TEXT_JOBBRD601_02890_SEQ_01,前情回顧：<hex:02100103>讓泰爾開始為格里達尼亞培養吟遊詩人。雙蛇黨的桑松正牙尉為了設立以吟遊詩人為核心的新部隊，完成名為「終焉的戰歌」的夢幻戰歌，與神勇隊的吟遊詩人吉德洛和冒險者一同踏上了找尋之旅。雖然最後沒有找到「終焉的戰歌」，但他們卻通過旅行得到了寶貴的友情。<hex:02100103>　　　　　　　　　　　　*　*　*<hex:02100103>雙蛇黨的桑松正牙尉終於建立了以吟遊詩人為核心的部隊。前往格里達尼亞的神勇隊司令部，聽聽桑松正牙尉的委託。
-2,TEXT_JOBBRD601_02890_SEQ_02,桑松正牙尉委託冒險者與他們一同參加第一次的任務。為了聽取任務內容，前往格里達尼亞的蛇巢司令部，和沃爾賽勒正牙校談談。
-3,TEXT_JOBBRD601_02890_SEQ_03,雙蛇黨收到了一封信，內容與「記載了紅葉戰爭重大秘密的書」有關。前往東部林區的九藤，和寄信人談談。
-4,TEXT_JOBBRD601_02890_SEQ_04,記載了紅葉戰爭秘密的書似乎在基拉巴尼亞。前往基拉巴尼亞邊區的帝國東方堡，和努爾瓦爾談談。
-5,TEXT_JOBBRD601_02890_SEQ_05,為了調查基拉巴尼亞的現狀，三人決定留在帝國東方堡。在他們收集情報的期間，為將來的找尋工作做好準備。<hex:02100103><hex:02100103>※吟遊詩人的等級達到63級以上時，可以從帝國東方堡的桑松正牙尉那裡領取下一個吟遊詩人任務。
-6,TEXT_JOBBRD601_02890_SEQ_06,
-7,TEXT_JOBBRD601_02890_SEQ_07,
-8,TEXT_JOBBRD601_02890_SEQ_08,
-9,TEXT_JOBBRD601_02890_SEQ_09,
-10,TEXT_JOBBRD601_02890_SEQ_10,
-11,TEXT_JOBBRD601_02890_SEQ_11,
-12,TEXT_JOBBRD601_02890_SEQ_12,
-13,TEXT_JOBBRD601_02890_SEQ_13,
-14,TEXT_JOBBRD601_02890_SEQ_14,
-15,TEXT_JOBBRD601_02890_SEQ_15,
-16,TEXT_JOBBRD601_02890_SEQ_16,
-17,TEXT_JOBBRD601_02890_SEQ_17,
-18,TEXT_JOBBRD601_02890_SEQ_18,
-19,TEXT_JOBBRD601_02890_SEQ_19,
-20,TEXT_JOBBRD601_02890_SEQ_20,
-21,TEXT_JOBBRD601_02890_SEQ_21,
-22,TEXT_JOBBRD601_02890_SEQ_22,
-23,TEXT_JOBBRD601_02890_SEQ_23,
-24,TEXT_JOBBRD601_02890_TODO_00,和神勇隊司令部附近的桑松正牙尉對話
-25,TEXT_JOBBRD601_02890_TODO_01,和蛇巢司令部的沃爾賽勒正牙校對話
-26,TEXT_JOBBRD601_02890_TODO_02,和九藤的寄信人對話
-27,TEXT_JOBBRD601_02890_TODO_03,和帝國東方堡的努爾瓦爾對話
-28,TEXT_JOBBRD601_02890_TODO_04,
-29,TEXT_JOBBRD601_02890_TODO_05,
-30,TEXT_JOBBRD601_02890_TODO_06,
-31,TEXT_JOBBRD601_02890_TODO_07,
-32,TEXT_JOBBRD601_02890_TODO_08,
-33,TEXT_JOBBRD601_02890_TODO_09,
-34,TEXT_JOBBRD601_02890_TODO_10,
-35,TEXT_JOBBRD601_02890_TODO_11,
-36,TEXT_JOBBRD601_02890_TODO_12,
-37,TEXT_JOBBRD601_02890_TODO_13,
-38,TEXT_JOBBRD601_02890_TODO_14,
-39,TEXT_JOBBRD601_02890_TODO_15,
-40,TEXT_JOBBRD601_02890_TODO_16,
-41,TEXT_JOBBRD601_02890_TODO_17,
-42,TEXT_JOBBRD601_02890_TODO_18,
-43,TEXT_JOBBRD601_02890_TODO_19,
-44,TEXT_JOBBRD601_02890_TODO_20,
-45,TEXT_JOBBRD601_02890_TODO_21,
-46,TEXT_JOBBRD601_02890_TODO_22,
-47,TEXT_JOBBRD601_02890_TODO_23,
-48,TEXT_JOBBRD601_02890_JEHANTEL_000_000,你來了啊……<hex:02100103>說起來，前陣子我見到雙蛇黨的桑鬆了。
-49,TEXT_JOBBRD601_02890_JEHANTEL_000_001,他之前一直努力想要建立以吟遊詩人為核心的部隊，<hex:02100103>聽說這個夢想終於實現了，並且得到了第一份任務。<hex:02100103>只不過……在出任務之前，他說想委託你一件事。
-50,TEXT_JOBBRD601_02890_JEHANTEL_000_002,桑松最近為了招攬部隊的人才<hex:02100103>經常會去神勇隊司令部……<hex:02100103>你要不要過去問問他委託的具體內容？
-51,TEXT_JOBBRD601_02890_JEHANTEL_000_005,桑松最近經常會去神勇隊司令部，<hex:02100103>等我把自己的事情處理完，也過去看看吧。
-52,TEXT_JOBBRD601_02890_JEHANTEL_000_010,你問問桑松委託的具體內容是什麼吧。
-53,TEXT_JOBBRD601_02890_SANSON_000_020,啊，這不是<hex:022903EB0203>嗎！<hex:02100103>你聽我說，我的夢想終於實現了！<hex:02100103>上面已經批准我設立由吟遊詩人編成的部隊了！
-54,TEXT_JOBBRD601_02890_SANSON_000_021,而且我還很快就收到了雙蛇黨交給我們的任務！<hex:02100103>只不過新人的水平還不足以完成任務……
-55,TEXT_JOBBRD601_02890_SANSON_000_022,於是……<hex:022903EB0203>，<hex:02100103>我希望你能與我們同行！
-56,TEXT_JOBBRD601_02890_SANSON_000_023,而且，上次與我們一同出行的吉德洛，<hex:02100103>我也已經申請將他調來我們部隊了……<hex:02100103>要想展示吟遊詩人的實力，一開始的表現是很關鍵的！
-57,TEXT_JOBBRD601_02890_SANSON_000_024,我接下來打算前往蛇巢司令部，<hex:02100103>向沃爾賽勒正牙校詢問任務的具體內容……<hex:02100103>如果你願意幫助我們的話，能請你跟我一起去嗎？
-58,TEXT_JOBBRD601_02890_JEHANTEL_000_025,我也很期待看到由吟遊詩人組成的部隊，<hex:02100103><hex:022903EB0203>，我也希望你能幫他們一把……<hex:02100103>你就去蛇巢司令部聽聽吧。
-59,TEXT_JOBBRD601_02890_JEHANTEL_000_030,你就一起去蛇巢司令部聽聽任務的具體內容吧。
-60,TEXT_JOBBRD601_02890_SANSON_000_035,如果能得到你幫助，那我們就會信心百倍了！
-61,TEXT_JOBBRD601_02890_VORSAILE_000_040,哎呀，這不是<hex:02085EE1E93601FF50><hex:02084CE3E93680FF3E><hex:022903EB0203><hex:020834E1E93601FF2C><hex:020828E3E93680FF20><hex:02281CFF17>GCRankGridaniaMaleText<hex:E9360103><hex:FF01><hex:03><hex:FF01><hex:03><hex:FF07><hex:022903EB0203><hex:03><hex:FF07><hex:022903EB0203><hex:03>嗎！<hex:02100103>說起來，上次的報告書上的確是有你的名字。<hex:02100103>你這次也要幫我們嗎！
-62,TEXT_JOBBRD601_02890_VORSAILE_000_041,桑松正牙尉也來了，正好。<hex:02100103>事情是這樣的，雙蛇黨收到了一封可疑的信……<hex:02100103>我希望你們能確認一下封中所寫的內容是真是假。
-63,TEXT_JOBBRD601_02890_SANSON_000_042,(-可疑的信-)「一百年前，格里達尼亞與阿拉米格之間發生了一場紅葉戰爭，<hex:02100103> 戰爭中有一個重大的秘密，而這個秘密就被記載在一本書裡。<hex:02100103> 如果想要這本書，就派身手高強的士兵到九藤來。」
-64,TEXT_JOBBRD601_02890_SANSON_000_043,……這是什麼？<hex:02100103>都過了一百年了才說那場戰爭中有一個重大的秘密……<hex:02100103>真的不是什麼惡劣的玩笑嗎？
-65,TEXT_JOBBRD601_02890_VORSAILE_000_044,雙蛇黨的高層也是這樣想的。<hex:02100103>但是，問題的關鍵在於「紅葉戰爭」……
-66,TEXT_JOBBRD601_02890_VORSAILE_000_045,現在為了解放阿拉米格，<hex:02100103>我們雙蛇黨不是也參加了艾歐澤亞同盟軍嗎？<hex:02100103>其實，因為過去的一些事，這個決定遭到了一部分國民的反對。
-67,TEXT_JOBBRD601_02890_VORSAILE_000_050,為了援助脫離了帝國支配的阿拉米格，<hex:02100103>我們雙蛇黨不是也參加了艾歐澤亞同盟軍嗎？<hex:02100103>其實，因為過去的一些事，這個決定遭到了一部分國民的反對。
-68,TEXT_JOBBRD601_02890_VORSAILE_000_055,紅葉戰爭已經結束了一百年……換言之，才只過了一百年。<hex:02100103>因此，不少守舊派的人民都表示，<hex:02100103>不理解我們為什麼要對過去的敵國伸出援救之手。
-69,TEXT_JOBBRD601_02890_VORSAILE_000_056,我不想因為紅葉戰爭的事刺激森林之都的人民……<hex:02100103>所以才希望你們能去見一下寄信的人，確認這件事的真假。
-70,TEXT_JOBBRD601_02890_GUYDELOT_000_057,(-熟悉的美聲-)這個任務真是毫無風情可言，<hex:02100103>換句話說，就是單純的跑腿嘛……<hex:02100103>因為人手不足，所以才會找剛建成的部隊是不是？
-71,TEXT_JOBBRD601_02890_GUYDELOT_000_059,而且，如果那個什麼紅葉戰爭的秘密是真的，<hex:02100103>內容又對格里達尼亞不利的話，你打算怎麼辦？<hex:02100103>該不會要跟我們的功績一起銷毀吧。
-72,TEXT_JOBBRD601_02890_SANSON_000_060,吉……吉德洛！你也是雙蛇黨的士兵！<hex:02100103>這是對長官說話的語氣嗎！
-73,TEXT_JOBBRD601_02890_VORSAILE_000_061,哦，原來你就是吉德洛啊……<hex:02100103>放心吧，不管這個秘密是真是假，<hex:02100103>只要你們做出了成績，我就一定會公正地評價。
-74,TEXT_JOBBRD601_02890_GUYDELOT_000_062,很好，這可是你說的。<hex:02100103>我和<hex:022903EB0203>好久沒有一起行動了，<hex:02100103>我可不想被攪和到多餘的糾紛裡去！
-75,TEXT_JOBBRD601_02890_JEHANTEL_000_064,紅葉戰爭……很多老人對這場戰爭都有自己的見解……<hex:02100103>不僅如此，據說這場戰爭還有<hex:02100103>跟我們吟遊詩人一樣唱著戰歌的弓箭手參加。
-76,TEXT_JOBBRD601_02890_JEHANTEL_000_065,身為吟遊詩人，說不定會以這次的任務為契機<hex:02100103>有什麼新的靈感。<hex:02100103>你們三個人都要好好幹啊。
-77,TEXT_JOBBRD601_02890_SANSON_000_066,寄信人指定的地點是東部林區的九藤，<hex:02100103>我們這就出發吧……趁著吉德洛還沒幹出什麼更無禮的事。
-78,TEXT_JOBBRD601_02890_VORSAILE_000_070,寄信人似乎在九藤，<hex:02100103>不知道對方是什麼人，你們千萬不要大意。
-79,TEXT_JOBBRD601_02890_SANSON_000_075,看上去……他就是寄信人吧。
-80,TEXT_JOBBRD601_02890_GUYDELOT_000_080,讓我們看看是何方神聖吧。
-81,TEXT_JOBBRD601_02890_NOURVAL_000_080,(-努爾瓦爾-)你們好，你們已經看過信了是吧。<hex:02100103>我叫努爾瓦爾，是森林之都的居民……
-82,TEXT_JOBBRD601_02890_SANSON_000_081,你就是寄信的人？<hex:02100103>好吧，請把你說的記載了紅葉戰爭秘密的書交出來。
-83,TEXT_JOBBRD601_02890_NOURVAL_000_082,(-努爾瓦爾-)……呵呵呵，真不巧，它不在我的手裡。<hex:02100103>信上並沒有寫書在我這裡吧？
-84,TEXT_JOBBRD601_02890_SANSON_000_083,……啥？<hex:02100103>可你不是說想要書的話就到這裡來……
-85,TEXT_JOBBRD601_02890_NOURVAL_000_084,(-努爾瓦爾-)別急……先聽我說。<hex:02100103>事情是這樣的，我的祖先曾經參加過紅葉戰爭，<hex:02100103>戰爭結束後，他碰巧得知了那本書。
-86,TEXT_JOBBRD601_02890_NOURVAL_000_085,(-努爾瓦爾-)我從父母那裡聽說了這件事之後，<hex:02100103>就一直希望能親眼看看那本書……<hex:02100103>不過因為書好像在阿拉米格領內，所以我只好放棄了。
-87,TEXT_JOBBRD601_02890_NOURVAL_000_086,(-努爾瓦爾-)但是，艾歐澤亞同盟軍現在不是已經控制住了巴埃薩長城嗎？<hex:02100103>我一聽說這件事，就重新燃起了幼時的願望，<hex:02100103>希望能親手找到那本書！
-88,TEXT_JOBBRD601_02890_NOURVAL_000_087,(-努爾瓦爾-)……可是，單憑我一個人<hex:02100103>想要在硝煙瀰漫的地方尋找書實在太不現實了……<hex:02100103>因此，我才希望雙蛇黨的人能協助我。
-89,TEXT_JOBBRD601_02890_NOURVAL_000_088,(-努爾瓦爾-)拜託你們，能帶我一起去尋找書嗎？<hex:02100103>我可以用祖先的話為你們提供線索，<hex:02100103>鎖定有可能藏書的地點。
-90,TEXT_JOBBRD601_02890_NOURVAL_000_089,(-努爾瓦爾-)……這對你們來說不是什麼壞事吧？<hex:02100103>鑒於現在的邦交情況，格里達尼亞應該也想<hex:02100103>在那本書被心懷不軌的人看到之前得到它吧？
-91,TEXT_JOBBRD601_02890_SANSON_000_090,你的要求很強人所難啊，<hex:02100103>如果想找到那本書，就要帶你一起去……
-92,TEXT_JOBBRD601_02890_GUYDELOT_000_091,……哼，你用關於書的情報把我們引誘過來，<hex:02100103>其實自己根本就沒有書……有意思！<hex:02100103>你的行為還挺有風情的。
-93,TEXT_JOBBRD601_02890_SANSON_000_092,……我說你啊，能不能正經一點。<hex:02100103>我們現在跟被他威脅沒兩樣啊。
-94,TEXT_JOBBRD601_02890_GUYDELOT_000_093,話雖如此，但那本有關紅葉戰爭的書，<hex:02100103>努爾瓦爾是從自己祖先那裡聽說的，我們可沒聽說過啊……<hex:02100103><hex:022903EB0203>，你對他有什麼看法？
-95,TEXT_JOBBRD601_02890_Q1_000_000,如何作答？
-96,TEXT_JOBBRD601_02890_A1_000_001,這個人不可信，但現在別無他法
-97,TEXT_JOBBRD601_02890_A1_000_002,是個很有意思的傢伙
-98,TEXT_JOBBRD601_02890_SANSON_100_093,你說得對，現在有線索的就只有努爾瓦爾自己……<hex:02100103>看來我們只能像<hex:022903EB0203>說的那樣，<hex:02100103>帶他一起去了。
-99,TEXT_JOBBRD601_02890_SANSON_101_093,不是吧，居然連<hex:022903EB0203>都跟吉德洛說一樣的話！<hex:02100103>有沒有意思對吟遊詩人來說真這麼重要嗎？
-100,TEXT_JOBBRD601_02890_SANSON_000_094,……好吧，那你就跟我們一起走吧。<hex:02100103>只不過，請不要擅自行動啊？
-101,TEXT_JOBBRD601_02890_NOURVAL_000_095,(-努爾瓦爾-)當然，讓我跟著你們就好！<hex:02100103>只要我們聯手，一定可以找到那本書。
-102,TEXT_JOBBRD601_02890_SANSON_000_096,……那我們就先去艾歐澤亞同盟軍駐紮的帝國東方堡吧。<hex:02100103>那裡對我和吉德洛來說也是全然未知的領域。
-103,TEXT_JOBBRD601_02890_SYSTEM_000_097,若要前往帝國東方堡，<hex:02100103>需完成「紅蓮之狂潮主線任務」中的「跨越長城」。
-104,TEXT_JOBBRD601_02890_SANSON_000_100,這裡就是黑衣森林的最東側，東境混交林……<hex:02100103>幸好我找了你來幫我們。
-105,TEXT_JOBBRD601_02890_GUYDELOT_000_105,這裡匯聚了各個城邦的軍人是嗎？<hex:02100103>真是個聽到各地歌聲與見聞的好機會！
-106,TEXT_JOBBRD601_02890_NOURVAL_000_110,哎呀，這可真是壯觀。<hex:02100103>在艾歐澤亞同盟軍的名下，居然聚集了這麼多四大城邦的人。
-107,TEXT_JOBBRD601_02890_SANSON_000_111,……那麼，我們接下來應該去哪裡？
-108,TEXT_JOBBRD601_02890_NOURVAL_000_113,先不要著急……<hex:02100103>我們可是第一次來到基拉巴尼亞的領地啊，<hex:02100103>如果不先弄清周圍的情況，搜索也不會順利的。
-109,TEXT_JOBBRD601_02890_NOURVAL_000_114,還好我們有雙蛇黨成員桑松先生你在。<hex:02100103>我覺得我們應該先拿到暫留在這裡的許可，<hex:02100103>然後弄清目前的情況吧……
-110,TEXT_JOBBRD601_02890_SANSON_000_115,……弄清周圍的情況<hex:02100103>跟尋找記錄紅葉戰爭秘密的書有關嗎？
-111,TEXT_JOBBRD601_02890_SANSON_000_116,……好吧。<hex:02100103>我去聯絡司令部，申請留在這裡的許可。
-112,TEXT_JOBBRD601_02890_GUYDELOT_000_117,也就是說，我們暫時可以自由活動了是吧！<hex:02100103>那我就去邀請這裡的人喝個酒，<hex:02100103>比比看四大城邦的美酒與詩歌吧！
-113,TEXT_JOBBRD601_02890_NOURVAL_000_118,……哎呀呀，吉德洛先生可真是個有趣的人。
-114,TEXT_JOBBRD601_02890_SANSON_000_119,抱歉，他就是那副德性……<hex:02100103>那我們就留在這裡收集情報吧。<hex:02100103>你可要老實一點哦，別妨礙到我們。
-115,TEXT_JOBBRD601_02890_SANSON_000_120,收集情報的事就交給我和吉德洛吧，<hex:02100103>拜託<hex:022903EB0203>準備搜索的事宜。<hex:02100103>這次的任務要麻煩你了！
-116,TEXT_JOBBRD601_02890_SYSTEM_000_200,開啟了新的「吟遊詩人」任務。<hex:02100103>吟遊詩人的等級達到63級以上時，<hex:02100103>可以從帝國東方堡的桑松正牙尉那裡領取下一個吟遊詩人任務。
-117,TEXT_JOBBRD601_02890_SYSTEM_000_201,可以在已完成的任務日誌中<hex:02100103>確認下一個吟遊詩人特職任務的領取條件。
-118,TEXT_JOBBRD601_02890_GUYDELOT_100_093,（★未使用／削除予定★）
-119,TEXT_JOBBRD601_02890_GUYDELOT_101_093,（★未使用／削除予定★）
+0,"TEXT_JOBBRD601_02890_SEQ_00","Jehantel's eyes light up at the sight of you."
+1,"TEXT_JOBBRD601_02890_SEQ_01","His voice brimming with delight, Jehantel informs you that Sanson, with whom you previously journeyed, has succeeded in gaining official approval for his bard unit. Even now, the young serpent captain rounds up members for its maiden mission, in relation to which he apparently has a favor to ask of you. Take yourself to Quiver's Hold in Gridania and see what your friend requires."
+2,"TEXT_JOBBRD601_02890_SEQ_02","Greeting you warmly, Sanson requests your participation in his unit's first outing. If you would lend him your aid, join him at the Adders' Nest, where he will receive his orders from Commander Vorsaile Heuloix."
+3,"TEXT_JOBBRD601_02890_SEQ_03","An anonymous letter has arrived at the Adders' Nest, which claims the existence of a tome bearing a damning secret pertaining to the Autumn War. In order to curb the growing anti-Ala Mhigan sentiment among Gridanians, the Order of the Twin Adder has decided to dispatch Sanson's newly formed unit to investigate. Head to Nine Ivies in the East Shroud and seek out the letter's mysterious sender."
+4,"TEXT_JOBBRD601_02890_SEQ_04","At Nine Ivies, you make contact with the letter's sender, a native of Gridania named Nourval. The young man claims to be descended from a soldier who fought in the Autumn War, and based on his parents' account, the tome in question is to be found somewhere in Gyr Abania. He offers to assist in the search on the condition that he is permitted to join it, and Sanson relents. Make your way now to Castrum Oriens, which lies on the region's fringes."
+5,"TEXT_JOBBRD601_02890_SEQ_05","At Nourval's recommendation, Sanson decides that the unit will remain in Castrum Oriens for a while to gather information. Take a rest for now, and be ready to depart when your comrades are done making their respective inquiries.<hex:02100103><hex:02100103>※The next bard quest will be available from Sanson upon reaching level 63."
+6,"TEXT_JOBBRD601_02890_SEQ_06",""
+7,"TEXT_JOBBRD601_02890_SEQ_07",""
+8,"TEXT_JOBBRD601_02890_SEQ_08",""
+9,"TEXT_JOBBRD601_02890_SEQ_09",""
+10,"TEXT_JOBBRD601_02890_SEQ_10",""
+11,"TEXT_JOBBRD601_02890_SEQ_11",""
+12,"TEXT_JOBBRD601_02890_SEQ_12",""
+13,"TEXT_JOBBRD601_02890_SEQ_13",""
+14,"TEXT_JOBBRD601_02890_SEQ_14",""
+15,"TEXT_JOBBRD601_02890_SEQ_15",""
+16,"TEXT_JOBBRD601_02890_SEQ_16",""
+17,"TEXT_JOBBRD601_02890_SEQ_17",""
+18,"TEXT_JOBBRD601_02890_SEQ_18",""
+19,"TEXT_JOBBRD601_02890_SEQ_19",""
+20,"TEXT_JOBBRD601_02890_SEQ_20",""
+21,"TEXT_JOBBRD601_02890_SEQ_21",""
+22,"TEXT_JOBBRD601_02890_SEQ_22",""
+23,"TEXT_JOBBRD601_02890_SEQ_23",""
+24,"TEXT_JOBBRD601_02890_TODO_00","Speak with Sanson at Quiver's Hold."
+25,"TEXT_JOBBRD601_02890_TODO_01","Speak with Vorsaile Heuloix at the Adders' Nest."
+26,"TEXT_JOBBRD601_02890_TODO_02","Speak with the letter's sender at Nine Ivies."
+27,"TEXT_JOBBRD601_02890_TODO_03","Speak with Nourval at Castrum Oriens."
+28,"TEXT_JOBBRD601_02890_TODO_04",""
+29,"TEXT_JOBBRD601_02890_TODO_05",""
+30,"TEXT_JOBBRD601_02890_TODO_06",""
+31,"TEXT_JOBBRD601_02890_TODO_07",""
+32,"TEXT_JOBBRD601_02890_TODO_08",""
+33,"TEXT_JOBBRD601_02890_TODO_09",""
+34,"TEXT_JOBBRD601_02890_TODO_10",""
+35,"TEXT_JOBBRD601_02890_TODO_11",""
+36,"TEXT_JOBBRD601_02890_TODO_12",""
+37,"TEXT_JOBBRD601_02890_TODO_13",""
+38,"TEXT_JOBBRD601_02890_TODO_14",""
+39,"TEXT_JOBBRD601_02890_TODO_15",""
+40,"TEXT_JOBBRD601_02890_TODO_16",""
+41,"TEXT_JOBBRD601_02890_TODO_17",""
+42,"TEXT_JOBBRD601_02890_TODO_18",""
+43,"TEXT_JOBBRD601_02890_TODO_19",""
+44,"TEXT_JOBBRD601_02890_TODO_20",""
+45,"TEXT_JOBBRD601_02890_TODO_21",""
+46,"TEXT_JOBBRD601_02890_TODO_22",""
+47,"TEXT_JOBBRD601_02890_TODO_23",""
+48,"TEXT_JOBBRD601_02890_JEHANTEL_000_000","Ah, my dear <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. How good of you to pay me a visit, and a timely one at that. Our friend Sanson, with whom you journeyed─I met with him but recently, and it pleases me to say that his labors have finally borne fruit."
+49,"TEXT_JOBBRD601_02890_JEHANTEL_000_001","Aye, his proposal for a unit incorporating bards has received formal approval. Even as we speak, he is rounding up members for the unit's inaugural mission."
+50,"TEXT_JOBBRD601_02890_JEHANTEL_000_002","Now, during our conversation, Sanson mentioned that he had a favor to ask of you. In case you haven't yet heard from him, mayhap you could seek him out first. You are like to find him at Quiver's Hold."
+51,"TEXT_JOBBRD601_02890_JEHANTEL_000_005","In case you haven't yet heard from Sanson, mayhap you could seek him out first. You are like to find him at Quiver's Hold."
+52,"TEXT_JOBBRD601_02890_JEHANTEL_000_010","I wasn't otherwise engaged, so I thought I would come along. Go on and see what it is Sanson requires of you."
+53,"TEXT_JOBBRD601_02890_SANSON_000_020","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, it's so good to see you! Our hard work has paid off, my friend: I've received permission to establish my bard unit! Moreover, we've already been assigned our first mission!"
+54,"TEXT_JOBBRD601_02890_SANSON_000_021","I couldn't be more pleased...save for one practical concern: our new recruits yet lack the experience to embark on an honest-to-gods mission."
+55,"TEXT_JOBBRD601_02890_SANSON_000_022","In seeking to fill our ranks, I immediately thought of you, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. You are an exemplary among bards, and I should be greatly heartened for your participation in our maiden outing."
+56,"TEXT_JOBBRD601_02890_SANSON_000_023","I've also taken the liberty of requesting Guydelot's transfer to the unit. With your combined experience and skill, we are bound to leave a splendid first impression!"
+57,"TEXT_JOBBRD601_02890_SANSON_000_024","Now then, I will go to receive my orders from Commander Heuloix. May I assume that you will join me?"
+58,"TEXT_JOBBRD601_02890_JEHANTEL_000_025","May I say that I, too, have a vested interest in young Sanson's success. I should be personally grateful were you to lend him your aid, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>."
+59,"TEXT_JOBBRD601_02890_JEHANTEL_000_030","Let us see what manner of mission the commander has in store."
+60,"TEXT_JOBBRD601_02890_SANSON_000_035","With you on board, our success is all but assured."
+61,"TEXT_JOBBRD601_02890_VORSAILE_000_040","If it isn't <hex:0208C7E1E93501FF11><hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203><hex:FFAF><hex:0208ABE1E93601FF93><hex:022B7EFF7C><hex:020825E1E93501FF1D><hex:022819FF14>GCRankLimsaMaleText<hex:E9350903><hex:FF01><hex:03><hex:020828E1E93601FF20><hex:02281CFF17>GCRankGridaniaMaleText<hex:E9360903><hex:FF01><hex:03><hex:020825E1E93701FF1D><hex:022819FF14>GCRankUldahMaleText<hex:E9370903><hex:FF01><hex:03><hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303><hex:FF11><hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203><hex:03><hex:03>. By all accounts, you were instrumental in the success of Captain Smyth's previous expedition. We are glad for your cooperation."
+62,"TEXT_JOBBRD601_02890_VORSAILE_000_041","Now then, allow me to brief you on the mission. Our order has received an anonymous letter, one that makes certain...claims. We would have your unit verify the truth of it."
+63,"TEXT_JOBBRD601_02890_SANSON_000_042","(-Anonymous Letter-)There is a tome that holds a damning secret pertaining to the Autumn War. Should you desire it, send your most capable to Nine Ivies. I will be waiting."
+64,"TEXT_JOBBRD601_02890_SANSON_000_043","...The war between Gridania and Ala Mhigo? But that ended a hundred years ago. I labor to imagine what secret could exist that should be so damning even now. Might this not be an ill-conceived prank, Commander?"
+65,"TEXT_JOBBRD601_02890_VORSAILE_000_044","Our leadership believes it likely, to be sure, but it is not a risk they are willing to take. Nay, not with the winds of public sentiment blowing as they are."
+66,"TEXT_JOBBRD601_02890_VORSAILE_000_045","You all know that our order is involved in the Alliance's campaign to liberate Ala Mhigo."
+67,"TEXT_JOBBRD601_02890_VORSAILE_000_050","You all know that our order is involved in the Alliance's relief efforts for the recently liberated Ala Mhigo."
+68,"TEXT_JOBBRD601_02890_VORSAILE_000_055","Well, there are those among the citizenry that disapprove, a small but determined faction that refuses to forget the wrongs of a century past. They still view Ala Mhigo as the enemy, and ardently oppose our reaching out a hand of succor."
+69,"TEXT_JOBBRD601_02890_VORSAILE_000_056","Naught potentially incendiary can be allowed to stoke the people's discontent, and we must move quickly. Your mission is to make contact with the letter's sender and ascertain the nature of the secret."
+70,"TEXT_JOBBRD601_02890_GUYDELOT_000_057","(-Familiar Voice-)...You call that a mission? A bloody errand, more like. Couldn't be arsed to handle it yourselves, so you foist it on the eager new unit."
+71,"TEXT_JOBBRD601_02890_GUYDELOT_000_059","And if the secret proves inconvenient for Gridania, what then? Will you sweep it under the rug, along with all our hard work?"
+72,"TEXT_JOBBRD601_02890_SANSON_000_060","Guydelot, mind your tongue! You are addressing a superior officer!"
+73,"TEXT_JOBBRD601_02890_VORSAILE_000_061","Ah, so you are the famous Guydelot. Worry not, my friend. Whatever the secret turns out to be, I give you my personal assurance that you and yours will receive due credit for its discovery."
+74,"TEXT_JOBBRD601_02890_GUYDELOT_000_062","That's good enough for me. It's been forever since me and <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> last performed together, and I just want to enjoy the moment─no complicating factors, you know?"
+75,"TEXT_JOBBRD601_02890_JEHANTEL_000_064","The Autumn War is an emotional subject for Gridanians, the older generation especially. And for us bards, it is also notable for the involvement of singing archers."
+76,"TEXT_JOBBRD601_02890_JEHANTEL_000_065","In the course of your mission, I daresay there will be much to reflect upon and many opportunities to grow. I wish the three of you the best of luck."
+77,"TEXT_JOBBRD601_02890_SANSON_000_066","Without further ado, let us make haste to Nine Ivies...before Guydelot can exercise any more indiscretion."
+78,"TEXT_JOBBRD601_02890_VORSAILE_000_070","There is no telling who─or what─awaits at Camp Nine Ivies. See to it you spare no preparation."
+79,"TEXT_JOBBRD601_02890_SANSON_000_075","Unless I'm mistaken, this is our mysterious sender."
+80,"TEXT_JOBBRD601_02890_GUYDELOT_000_080","This our man, you reckon?"
+81,"TEXT_JOBBRD601_02890_NOURVAL_000_080","(-Nourval-)Well met, friends. I'm Nourval, a humble citizen of Gridania, and I see you received my letter."
+82,"TEXT_JOBBRD601_02890_SANSON_000_081","We've come as you bid. The tome, if you would be so kind."
+83,"TEXT_JOBBRD601_02890_NOURVAL_000_082","(-Nourval-)Ah, but I never said that I had it. And to be clear, I do not."
+84,"TEXT_JOBBRD601_02890_SANSON_000_083","What? Then why did you summon us here?"
+85,"TEXT_JOBBRD601_02890_NOURVAL_000_084","(-Nourval-)Patience, my friends. I will explain. You see, like many Gridanians, I have an ancestor who fought in the Autumn War. 'Twas he who first learned of the tome in question, after the fighting had ended."
+86,"TEXT_JOBBRD601_02890_NOURVAL_000_085","(-Nourval-)In turn, I learned of it from my parents, and since then I've dreamed of poring over its pages. Alas, as it lies deep within Ala Mhigan territory, I was resigned never to have the chance."
+87,"TEXT_JOBBRD601_02890_NOURVAL_000_086","(-Nourval-)But then the brave soldiers of the Alliance took Baelsar's Wall, and the way was made clear. When I heard the tidings, the flames of my boyhood passion were rekindled. Finally, I can fulfill my dream!"
+88,"TEXT_JOBBRD601_02890_NOURVAL_000_087","(-Nourval-)...Or so I told myself, before I thought better of it. I'm no soldier, you see, and the prospect of wandering a war-ravaged land in search of a tome is, frankly, unrealistic. That's why I decided to reach out to your order for cooperation."
+89,"TEXT_JOBBRD601_02890_NOURVAL_000_088","(-Nourval-)Based on my parents' account, I'm confident that I can track down the tome. And I will help you to find it. I ask only that you take me with you."
+90,"TEXT_JOBBRD601_02890_NOURVAL_000_089","(-Nourval-)...So what say you? I'm but a commoner and know little of the ways of nations, but it seems to me such secrets as the tome conceals could be harmful to diplomatic relations. Is this not so?"
+91,"TEXT_JOBBRD601_02890_SANSON_000_090","So if we wish to find the tome, we must agree to your company. Quite a demand to make of your nation."
+92,"TEXT_JOBBRD601_02890_GUYDELOT_000_091","Heh, you've got stones, that's for sure. I like it!"
+93,"TEXT_JOBBRD601_02890_SANSON_000_092","Are you serious? A civilian is essentially holding us to ransom, and you praise him for his stones?"
+94,"TEXT_JOBBRD601_02890_GUYDELOT_000_093","Look at it this way: we didn't know the tome existed, nor have we the faintest where to look for it. Better to have help than to fumble about blind, I reckon. Come on, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, back me up here."
+95,"TEXT_JOBBRD601_02890_Q1_000_000","What will you say?"
+96,"TEXT_JOBBRD601_02890_A1_000_001","Seems we have no choice."
+97,"TEXT_JOBBRD601_02890_A1_000_002","He sure has stones."
+98,"TEXT_JOBBRD601_02890_SANSON_100_093","I suppose you have the right of it. Whether we like it or not, we would struggle without Nourval's knowledge."
+99,"TEXT_JOBBRD601_02890_SANSON_101_093","You, too, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>? Are appearances truly that important to a bard? <sigh> Setting aside this talk of stones for a moment, I'll not deny that we would struggle without Nourval's knowledge."
+100,"TEXT_JOBBRD601_02890_SANSON_000_094","Very well, we agree to your terms. And here is ours: you must obey our orders at all times."
+101,"TEXT_JOBBRD601_02890_NOURVAL_000_095","(-Nourval-)To the letter, sir! You shan't regret bringing me on!"
+102,"TEXT_JOBBRD601_02890_SANSON_000_096","First, we will make for Castrum Oriens, presently held by the Order of the Twin Adder. Thence we shall make our way into the unknown."
+103,"TEXT_JOBBRD601_02890_SYSTEM_000_097","In order to continue this quest, you must first undertake the main scenario quest “Beyond the Great Wall.”"
+104,"TEXT_JOBBRD601_02890_SANSON_000_100","And here we are, at the easternmost reaches of the Twelveswood. The journey has scarcely begun, but already I am keenly grateful for your company, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>."
+105,"TEXT_JOBBRD601_02890_GUYDELOT_000_105","Soldiers from all nations, all in one place─a veritable gold mine of songs and stories if I've ever seen one!"
+106,"TEXT_JOBBRD601_02890_NOURVAL_000_110","(-Nourval-)The armies of the four nations, united under one banner and one purpose. A sight to stir the spirit!"
+107,"TEXT_JOBBRD601_02890_SANSON_000_111","Well? Where to now?"
+108,"TEXT_JOBBRD601_02890_NOURVAL_000_113","(-Nourval-)Pray do not be hasty, Master Sanson. Before we venture into the wilds of Gyr Abania, we would do well to acquaint ourselves with the lay of the land."
+109,"TEXT_JOBBRD601_02890_NOURVAL_000_114","(-Nourval-)As a serpent captain, it should be a simple matter for you to secure permission for us to remain here. Just long enough to get our bearings."
+110,"TEXT_JOBBRD601_02890_SANSON_000_115","Hmmm, I suppose it would only be prudent..."
+111,"TEXT_JOBBRD601_02890_SANSON_000_116","Very well, I will request permission of command."
+112,"TEXT_JOBBRD601_02890_GUYDELOT_000_117","And I'll get right to bonding with the locals! Always wanted to compare songs from the four nations...and the liquor besides, hehehe!"
+113,"TEXT_JOBBRD601_02890_NOURVAL_000_118","(-Nourval-)Master Guydelot is quite a character, isn't he?"
+114,"TEXT_JOBBRD601_02890_SANSON_000_119","Aye, that he is. Pay him no mind. Now then, I will make my own inquiries. In the meantime, you are to lay low and refrain from bothering the garrison. Understood?"
+115,"TEXT_JOBBRD601_02890_SANSON_000_120","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, Guydelot and I shall tend to business here. Pray take your ease until we are ready to depart."
+116,"TEXT_JOBBRD601_02890_SYSTEM_000_200","The next bard quest will be available from Sanson upon reaching level 63."
+117,"TEXT_JOBBRD601_02890_SYSTEM_000_201","The requirements for undertaking subsequent quests can be reviewed in your journal."
+118,"TEXT_JOBBRD601_02890_GUYDELOT_100_093",""
+119,"TEXT_JOBBRD601_02890_GUYDELOT_101_093",""

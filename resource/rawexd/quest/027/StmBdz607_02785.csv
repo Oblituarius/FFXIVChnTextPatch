@@ -2,94 +2,94 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_STMBDZ607_02785_SEQ_00,也速根想要和者勒蔑重歸於好。
-1,TEXT_STMBDZ607_02785_SEQ_01,和也速根進行了交談。也速根很想和者勒蔑重歸於好，但他必須先定下宴會菜單。代替也速根，將<hex:022811FF0A>EventItem<hex:F61E8DBC0103>交給晨曦王座的者勒蔑。
-2,TEXT_STMBDZ607_02785_SEQ_02,將<hex:022811FF0A>EventItem<hex:F61E8DBC0103>交給了者勒蔑。者勒蔑收下了，但其兄長苦哲可身體狀況欠佳，者勒蔑由於很擔心而沒有心思享用零食。向晨曦王座的也速根報告從者勒蔑那裡聽到的消息。
-3,TEXT_STMBDZ607_02785_SEQ_03,向也速根報告完畢。苦哲可和也速根是第一戰對手。也速根動搖了，盤算著可以趁現在苦哲可狀態不佳戰勝他，進而脫離小弟身份，不過受到了冒險者的呵責。也速根因此清醒了過來，決定為苦哲可烹製強身健體的菜餚。冒險者則受委託收集肉類。為吸引<hex:02280FFF09>BNpcName<hex:F217110103>，在晨曦王座東方的<hex:02280CFF05>EObj<hex:F61EA7230103>放置<hex:022811FF0A>EventItem<hex:F61E8DBD0103>。
-4,TEXT_STMBDZ607_02785_SEQ_04,使用了<hex:022811FF0A>EventItem<hex:F61E8DBD0103>。在晨曦王座東方的<hex:02280CFF05>EObj<hex:F61EA7240103>等待，討伐出現的<hex:02280FFF09>BNpcName<hex:F217110103>，獲得<hex:022811FF0A>EventItem<hex:F61E8DBE0103>。
-5,TEXT_STMBDZ607_02785_SEQ_05,討伐了<hex:02280FFF09>BNpcName<hex:F217110103>，獲得了<hex:02280FFF09>BNpcName<hex:F217110103>的胸肉。將<hex:022811FF0A>EventItem<hex:F61E8DBE0103>交給晨曦王座的也速根。
-6,TEXT_STMBDZ607_02785_SEQ_06,將<hex:022811FF0A>EventItem<hex:F61E8DBE0103>交給了也速根。者勒蔑聽說也速根正在為苦哲可做菜，表示感激不盡。和者勒蔑一起觀看烹飪後，和晨曦王座的也速根談談。
-7,TEXT_STMBDZ607_02785_SEQ_07,和也速根進行了交談。儘管自己的行為讓敵人恢復了精力，但也速根似乎心情很舒暢。也速根重新認識到了菜餚的效果，表示今後會繼續享受烹飪菜餚。雖然沒能變強，但由於冒險者的助力，也速根的內心發生了明顯變化。也速根今後會如何，敬請期待。
-8,TEXT_STMBDZ607_02785_SEQ_08,
-9,TEXT_STMBDZ607_02785_SEQ_09,
-10,TEXT_STMBDZ607_02785_SEQ_10,
-11,TEXT_STMBDZ607_02785_SEQ_11,
-12,TEXT_STMBDZ607_02785_SEQ_12,
-13,TEXT_STMBDZ607_02785_SEQ_13,
-14,TEXT_STMBDZ607_02785_SEQ_14,
-15,TEXT_STMBDZ607_02785_SEQ_15,
-16,TEXT_STMBDZ607_02785_SEQ_16,
-17,TEXT_STMBDZ607_02785_SEQ_17,
-18,TEXT_STMBDZ607_02785_SEQ_18,
-19,TEXT_STMBDZ607_02785_SEQ_19,
-20,TEXT_STMBDZ607_02785_SEQ_20,
-21,TEXT_STMBDZ607_02785_SEQ_21,
-22,TEXT_STMBDZ607_02785_SEQ_22,
-23,TEXT_STMBDZ607_02785_SEQ_23,
-24,TEXT_STMBDZ607_02785_TODO_00,將<hex:022811FF0A>EventItem<hex:F61E8DBC0103>交給者勒蔑
-25,TEXT_STMBDZ607_02785_TODO_01,向也速根報告
-26,TEXT_STMBDZ607_02785_TODO_02,在<hex:02280CFF05>EObj<hex:F61EA7230103>放置<hex:022811FF0A>EventItem<hex:F61E8DBD0103>
-27,TEXT_STMBDZ607_02785_TODO_03,在<hex:02280CFF05>EObj<hex:F61EA7240103>等待<hex:02100103>討伐出現的<hex:02280FFF09>BNpcName<hex:F217110103>並獲取<hex:022811FF0A>EventItem<hex:F61E8DBE0103>
-28,TEXT_STMBDZ607_02785_TODO_04,將<hex:022811FF0A>EventItem<hex:F61E8DBE0103>交給也速根
-29,TEXT_STMBDZ607_02785_TODO_05,和也速根對話
-30,TEXT_STMBDZ607_02785_TODO_06,
-31,TEXT_STMBDZ607_02785_TODO_07,
-32,TEXT_STMBDZ607_02785_TODO_08,
-33,TEXT_STMBDZ607_02785_TODO_09,
-34,TEXT_STMBDZ607_02785_TODO_10,
-35,TEXT_STMBDZ607_02785_TODO_11,
-36,TEXT_STMBDZ607_02785_TODO_12,
-37,TEXT_STMBDZ607_02785_TODO_13,
-38,TEXT_STMBDZ607_02785_TODO_14,
-39,TEXT_STMBDZ607_02785_TODO_15,
-40,TEXT_STMBDZ607_02785_TODO_16,
-41,TEXT_STMBDZ607_02785_TODO_17,
-42,TEXT_STMBDZ607_02785_TODO_18,
-43,TEXT_STMBDZ607_02785_TODO_19,
-44,TEXT_STMBDZ607_02785_TODO_20,
-45,TEXT_STMBDZ607_02785_TODO_21,
-46,TEXT_STMBDZ607_02785_TODO_22,
-47,TEXT_STMBDZ607_02785_TODO_23,
-48,TEXT_STMBDZ607_02785_ESUGEN_000_000,雖然很想馬上和者勒蔑重歸於好……<hex:02100103>可是我現在得盡快確定好<hex:02100103>在兄弟鬥技之後的宴會上的菜單。
-49,TEXT_STMBDZ607_02785_ESUGEN_000_001,如果不提前把要用的食材告訴大家，他們就又會對我擺臉色了……<hex:02100103>不過琢磨菜單需要一些時間，<hex:02100103>麻煩你代我把這個送給者勒蔑吧。
-50,TEXT_STMBDZ607_02785_ESUGEN_000_002,這是一種叫<hex:022811FF0A>EventItem<hex:F61E8DBC0103>的零食。<hex:02100103>雖然有點哄小孩子的感覺，<hex:02100103>不過我相信他一定會喜歡的……
-51,TEXT_STMBDZ607_02785_ESUGEN_000_003,確定好菜單後，我也會親自去道歉的。<hex:02100103>現在就拜託你把<hex:022811FF0A>EventItem<hex:F61E8DBC0103>交給者勒蔑了！
-52,TEXT_STMBDZ607_02785_JELME_000_010,咦，你是叔叔的朋友……<hex:02100103>怎麼了？
-53,TEXT_STMBDZ607_02785_JELME_000_011,呀，是<hex:022811FF0A>EventItem<hex:F61E8DBC0103>，好開心啊。<hex:02100103>其實，我已經不生氣了。<hex:02100103>……可是，我現在沒有心情吃零食呢。
-54,TEXT_STMBDZ607_02785_JELME_000_012,是這樣的，苦哲可哥哥鍛鍊得太拚命，<hex:02100103>發了很嚴重的燒......<hex:02100103>這樣下去，哥哥會輸掉比賽的……
-55,TEXT_STMBDZ607_02785_JELME_000_013,啊，對不起，耽誤你時間了。<hex:02100103>謝謝你把零食送過來。<hex:02100103>那，我要繼續照看哥哥了……
-56,TEXT_STMBDZ607_02785_ESUGEN_000_015,確定好菜單後，我也會親自去道歉的。<hex:02100103>現在就拜託你把<hex:022811FF0A>EventItem<hex:F61E8DBC0103>交給者勒蔑了！
-57,TEXT_STMBDZ607_02785_ESUGEN_000_020,<hex:022903EB0203>，<hex:02100103>者勒蔑還生氣嗎？
-58,TEXT_STMBDZ607_02785_ESUGEN_000_021,什、什麼？！<hex:02100103>他哥哥苦哲可是我第一場比賽的對手啊！<hex:02100103>這、這可如何是好……
-59,TEXT_STMBDZ607_02785_ESUGEN_000_022,不、不過……既然他身體不適，<hex:02100103>我是不是就能贏過他了？<hex:02100103>然後我就可以擺脫「小弟」這個身份……
-60,TEXT_STMBDZ607_02785_ESUGEN_000_023,而且苦哲可一直嘲笑我……<hex:02100103>這豈不是太陽神阿吉木賜予我的絕好機會？
-61,TEXT_STMBDZ607_02785_Q1_000_000,如何作答？
-62,TEXT_STMBDZ607_02785_A1_000_001,者勒蔑會傷心的
-63,TEXT_STMBDZ607_02785_A1_000_002,這絕不是什麼好機會
-64,TEXT_STMBDZ607_02785_A1_000_003,這的確是好機會
-65,TEXT_STMBDZ607_02785_ESUGEN_000_024,……！<hex:02100103>是啊，他一直都在支持我，我不能讓他傷心。<hex:02100103>而且，在這種情況下贏得戰鬥，也不足以服人心。
-66,TEXT_STMBDZ607_02785_ESUGEN_000_025,……不是好機會？<hex:02100103>也對，戰勝生病的對手，<hex:02100103>實在稱不上是光彩的行為。
-67,TEXT_STMBDZ607_02785_ESUGEN_000_026,……不，看你的眼神，我想通了。<hex:02100103>你真正想說的是，即便戰勝了生病的苦哲可，<hex:02100103>我自己也不會有任何變化……是吧？
-68,TEXT_STMBDZ607_02785_ESUGEN_000_027,抱歉，讓你看到我耍小聰明的一面了。<hex:02100103>不過，我已經清醒過來了。<hex:02100103>就算是為了者勒蔑，我也要盡力而為。
-69,TEXT_STMBDZ607_02785_ESUGEN_000_028,……對了，給苦哲可做點強身健體的菜餚好了！<hex:02100103>再怎麼說，為大家做菜都是我的本分。
-70,TEXT_STMBDZ607_02785_ESUGEN_000_029,我想想……從延夏遷徙來的<hex:02280FFF09>BNpcName<hex:F217110103>的肉，<hex:02100103>再配上藥草，煮一鍋湯應該就很不錯。<hex:02100103>不過，沒時間等大家去狩獵了……
-71,TEXT_STMBDZ607_02785_ESUGEN_000_030,<hex:022903EB0203>！<hex:02100103>這是我最後的委託了，能請你去討伐<hex:02280FFF09>BNpcName<hex:F217110103>，<hex:02100103>把<hex:022811FF0A>EventItem<hex:F61E8DBE0103>帶回來嗎？
-72,TEXT_STMBDZ607_02785_ESUGEN_000_031,謝謝！<hex:02280FFF09>BNpcName<hex:F217110103>最喜歡這個<hex:022811FF0A>EventItem<hex:F61E8DBD0103>。<hex:02100103>把它放到東邊的岩石上，<hex:02100103>如果<hex:02280FFF09>BNpcName<hex:F217110103>被吸引過來，就把它打倒！
-73,TEXT_STMBDZ607_02785_ESUGEN_000_032,我會利用這段時間收集藥草的。<hex:02100103>得到<hex:022811FF0A>EventItem<hex:F61E8DBE0103>後，就回到這裡吧！
-74,TEXT_STMBDZ607_02785_ESUGEN_000_035,把<hex:022811FF0A>EventItem<hex:F61E8DBD0103>放到東方的岩石後等待片刻，<hex:02100103>就會有<hex:02280FFF09>BNpcName<hex:F217110103>被吸引過來。<hex:02100103>打倒它就可以獲得<hex:022811FF0A>EventItem<hex:F61E8DBE0103>了。
-75,TEXT_STMBDZ607_02785_ESUGEN_000_040,得到<hex:022811FF0A>EventItem<hex:F61E8DBE0103>了嗎？<hex:02100103>藥草已經準備好了！
-76,TEXT_STMBDZ607_02785_ESUGEN_000_041,對，就是這種肉！<hex:02100103>謝謝你！<hex:02100103>我這就去煮湯！
-77,TEXT_STMBDZ607_02785_JELME_000_042,咦，叔叔在做菜嗎？<hex:02100103>還沒到吃飯的時候呢，怎麼了？
-78,TEXT_STMBDZ607_02785_JELME_000_043,啊？在為苦哲可哥哥做湯嗎？！<hex:02100103>可、可是，叔叔的第一個對手就是哥哥啊。<hex:02100103>我就是因為知道這個，才沒有找叔叔……
-79,TEXT_STMBDZ607_02785_JELME_000_044,叔叔明明知道，如果哥哥好起來，<hex:02100103>他就又要被嘲笑了，可他還是……<hex:02100103>叔叔真是太善良了……
-80,TEXT_STMBDZ607_02785_ESUGEN_000_050,<hex:02280FFF09>BNpcName<hex:F217110103>湯藥做好了！<hex:02100103>這是我用燉得很爛的胸肉和8種草藥熬製而成的。<hex:02100103>喝掉這個，燒很快就會退去，體力也會恢復！
-81,TEXT_STMBDZ607_02785_ESUGEN_000_051,來，快拿去給哥哥喝了吧，<hex:02100103>趁現在還熱乎呢。
-82,TEXT_STMBDZ607_02785_JELME_000_052,叔叔……謝謝你！<hex:02100103>我會告訴哥哥這是叔叔做的！
-83,TEXT_STMBDZ607_02785_ESUGEN_000_053,……好了，這下我是脫離不了廚房了。<hex:02100103>苦哲可每次鬥技的成績都排在前幾名，<hex:02100103>估計他一下子就能把我撂倒，哈哈哈！
-84,TEXT_STMBDZ607_02785_ESUGEN_000_054,啊，這可不是違心的笑啊。<hex:02100103>我只是想到自己瞬間就輸的樣子，感覺很好笑。
-85,TEXT_STMBDZ607_02785_ESUGEN_000_055,不過，多虧有你，我現在心情很舒暢！<hex:02100103>做菜的時候也比平時高興了很多。
-86,TEXT_STMBDZ607_02785_ESUGEN_000_056,看來，我還是適合在廚房工作啊。<hex:02100103>能為大家效勞，又能讓大家歡笑，<hex:02100103>即便體質虛弱也可以做到，何樂而不為呢？
-87,TEXT_STMBDZ607_02785_ESUGEN_000_057,多虧了你還有那孩子，我終於發現這一點了。<hex:02100103>真的非常感謝。
-88,TEXT_STMBDZ607_02785_ESUGEN_000_058,對了，我也為你做了點東西，請享用吧。<hex:02100103>我只能用這種方式表達謝意。<hex:02100103>雖然賣相一般，但我可以保證味道很好。
-89,TEXT_STMBDZ607_02785_ESUGEN_000_059,好了，我也去看望一下苦哲可吧！<hex:02100103>還要根據病狀，準備不同的飯菜給他呢。<hex:02100103>那麼，再會！
-90,TEXT_STMBDZ607_02785_JELME_000_065,叔叔做菜的時候，看著比平時更開心。<hex:02100103>這是為什麼呢？
+0,"TEXT_STMBDZ607_02785_SEQ_00","Esugen wants to smooth things over with Jelme."
+1,"TEXT_STMBDZ607_02785_SEQ_01","Esugen asks you to deliver boortsog─a delicious fried sweet─to Jelme as an apology for what occurred earlier. While he intends to also later seek the boy's forgiveness in person, he must first see to preparations for the main banquet, which is to take place after the tournament."
+2,"TEXT_STMBDZ607_02785_SEQ_02","Jelme accepts the gift and tells you that he has long forgiven Esugen. At the moment he has a far more pressing matter on his mind: Kuzuku has fallen ill. The tournament is just around the corner and he worries for his brother's health and status. Asking that you thank Esugen on his behalf, he then scurries off to tend to Kuzuku."
+3,"TEXT_STMBDZ607_02785_SEQ_03","Esugen learns from you that Kuzuku, who is to be his first opponent in the upcoming tournament, has taken ill. While initially tempted to take advantage of the situation, the elderly culinarian eventually decides against it for fear of hurting Jelme. Instead, he vows to help speed along Kuzuku's recovery by making him a medicinal stew. Promising this will be the last thing he asks of you, he hands you a sheep bone for bait and requests that you procure some circling bi fang breast meat."
+4,"TEXT_STMBDZ607_02785_SEQ_04","As per Esugen's instructions, you place the sheep bone upon a boulder to the east of the Dawn Throne. Now all that is left for you to do is lie in wait and pounce upon the circling bi fang that appears."
+5,"TEXT_STMBDZ607_02785_SEQ_05","You successfully slay the bi fang that swooped in from the skies. Esugen will no doubt be pleased by the beautiful cuts of breast meat you have obtained."
+6,"TEXT_STMBDZ607_02785_SEQ_06","Upon receiving the meat, Esugen immediately sets to work and soon a pungent smell fills the air. Handing the potent herbal stew off to Jelme, he tells the young boy to go and feed it to Kuzuku while it is still hot. The young boy thanks the culinarian and rushes off to do just that."
+7,"TEXT_STMBDZ607_02785_SEQ_07","Esugen tells you that even though he knows he will place last in the upcoming tournament, he is happy he decided to help Kuzuku. He goes on to say that your and Jelme's friendships mean a great deal to him and is what allowed him to realize his talents and revive his passion for cooking. Handing you some food he made specially for you, he sends you off with a smile."
+8,"TEXT_STMBDZ607_02785_SEQ_08",""
+9,"TEXT_STMBDZ607_02785_SEQ_09",""
+10,"TEXT_STMBDZ607_02785_SEQ_10",""
+11,"TEXT_STMBDZ607_02785_SEQ_11",""
+12,"TEXT_STMBDZ607_02785_SEQ_12",""
+13,"TEXT_STMBDZ607_02785_SEQ_13",""
+14,"TEXT_STMBDZ607_02785_SEQ_14",""
+15,"TEXT_STMBDZ607_02785_SEQ_15",""
+16,"TEXT_STMBDZ607_02785_SEQ_16",""
+17,"TEXT_STMBDZ607_02785_SEQ_17",""
+18,"TEXT_STMBDZ607_02785_SEQ_18",""
+19,"TEXT_STMBDZ607_02785_SEQ_19",""
+20,"TEXT_STMBDZ607_02785_SEQ_20",""
+21,"TEXT_STMBDZ607_02785_SEQ_21",""
+22,"TEXT_STMBDZ607_02785_SEQ_22",""
+23,"TEXT_STMBDZ607_02785_SEQ_23",""
+24,"TEXT_STMBDZ607_02785_TODO_00","Deliver the boortsog to Jelme."
+25,"TEXT_STMBDZ607_02785_TODO_01","Report to Esugen."
+26,"TEXT_STMBDZ607_02785_TODO_02","Place the sheep bone at the destination."
+27,"TEXT_STMBDZ607_02785_TODO_03","Lie in wait for circling bi fang and slay any that appear for their breast meat."
+28,"TEXT_STMBDZ607_02785_TODO_04","Deliver the cut of circling bi fang breast meat to Esugen."
+29,"TEXT_STMBDZ607_02785_TODO_05","Speak with Esugen."
+30,"TEXT_STMBDZ607_02785_TODO_06",""
+31,"TEXT_STMBDZ607_02785_TODO_07",""
+32,"TEXT_STMBDZ607_02785_TODO_08",""
+33,"TEXT_STMBDZ607_02785_TODO_09",""
+34,"TEXT_STMBDZ607_02785_TODO_10",""
+35,"TEXT_STMBDZ607_02785_TODO_11",""
+36,"TEXT_STMBDZ607_02785_TODO_12",""
+37,"TEXT_STMBDZ607_02785_TODO_13",""
+38,"TEXT_STMBDZ607_02785_TODO_14",""
+39,"TEXT_STMBDZ607_02785_TODO_15",""
+40,"TEXT_STMBDZ607_02785_TODO_16",""
+41,"TEXT_STMBDZ607_02785_TODO_17",""
+42,"TEXT_STMBDZ607_02785_TODO_18",""
+43,"TEXT_STMBDZ607_02785_TODO_19",""
+44,"TEXT_STMBDZ607_02785_TODO_20",""
+45,"TEXT_STMBDZ607_02785_TODO_21",""
+46,"TEXT_STMBDZ607_02785_TODO_22",""
+47,"TEXT_STMBDZ607_02785_TODO_23",""
+48,"TEXT_STMBDZ607_02785_ESUGEN_000_000","Argh! I dearly wish to set things right with Jelme, but between training and preparing for the after-tournament banquet, I have not a moment to spare!"
+49,"TEXT_STMBDZ607_02785_ESUGEN_000_001","I was hoping, however, that you might. Do you think you could deliver this to the boy for me?"
+50,"TEXT_STMBDZ607_02785_ESUGEN_000_002","What you are holding is boortsog─one of his favorite treats. It is sweet, soft, and savory."
+51,"TEXT_STMBDZ607_02785_ESUGEN_000_003","I know, I know. It is not the ideal way to apologize, but worry not! Once I finish all my tasks, I intend to go and say sorry to him in person."
+52,"TEXT_STMBDZ607_02785_JELME_000_010","Hello, <hex:020811E905FF05>Miss<hex:FF07>Mister<hex:03>. What brings you here?"
+53,"TEXT_STMBDZ607_02785_JELME_000_011","Boortsog? It was incredibly kind of Mister Esugen to make this for me, but I am not in the mood for sweets right now."
+54,"TEXT_STMBDZ607_02785_JELME_000_012","You see, Kuzuku has fallen ill. He is running a fever and has grown so weak he can barely walk. If he does not recover soon, he will not stand a chance in the upcoming competition."
+55,"TEXT_STMBDZ607_02785_JELME_000_013","<sigh> My brother needs me so I must return now. Please tell Mister Esugen thank you for the sweets and that I am not angry at him anymore."
+56,"TEXT_STMBDZ607_02785_ESUGEN_000_015","Please see that the boortsog makes it to Jelme. In the meantime, I shall begin readying the menu for the banquet."
+57,"TEXT_STMBDZ607_02785_ESUGEN_000_020","Ah, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, how is Jelme doing? Is he feeling better?"
+58,"TEXT_STMBDZ607_02785_ESUGEN_000_021","What!? Kuzuku is ill? But he is to be my first opponent in the upcoming tournament!"
+59,"TEXT_STMBDZ607_02785_ESUGEN_000_022","Wait a minute... This is perfect! If he is too feeble to freely move about that means even <hex:021A020203>I<hex:021A020103>, the weakest Oronir, might have a chance at defeating him! "
+60,"TEXT_STMBDZ607_02785_ESUGEN_000_023","Mayhap this is the work of Father Azim himself─a reward for the years of ridicule from Kuzuku that I was forced to endure! If that is the case, it would be wrong of me <hex:021A020203>not<hex:021A020103> to take advantage of this opportunity. ...Right?"
+61,"TEXT_STMBDZ607_02785_Q1_000_000","What will you say?"
+62,"TEXT_STMBDZ607_02785_A1_000_001","I think Jelme would be sad to hear that."
+63,"TEXT_STMBDZ607_02785_A1_000_002","I doubt Father Azim played any part in this."
+64,"TEXT_STMBDZ607_02785_A1_000_003","Yes, this is your chance! Embrace it with open arms."
+65,"TEXT_STMBDZ607_02785_ESUGEN_000_024","You are right. There is little glory to be had in defeating a defenseless man and hurting a friend in the process."
+66,"TEXT_STMBDZ607_02785_ESUGEN_000_025","<sigh> You are right. It is shameful of me to even have thought that. Our Father would never condone such selfish actions."
+67,"TEXT_STMBDZ607_02785_ESUGEN_000_026","Your words say one thing but your eyes and lips say another. <sigh> Upon further consideration, perhaps it was wrong of me to think such thoughts. There is little glory to be had in winning against a defenseless opponent."
+68,"TEXT_STMBDZ607_02785_ESUGEN_000_027","...I am sorry you had to see that. I do not know what got into me. For everyone's sake, it would probably be best if I blocked out all thoughts of the tournament from my mind and instead focused on helping the one person who has stood beside me this entire time─Jelme."
+69,"TEXT_STMBDZ607_02785_ESUGEN_000_028","Aha! An idea comes to me! Perhaps I can make Kuzuku something to combat his fever and speed along his recovery. That is certain to put a smile on the young boy's face!"
+70,"TEXT_STMBDZ607_02785_ESUGEN_000_029","In fact, I have the perfect food in mind─a soup of Yanxian origin made with medicinal herbs and circling bi fang meat."
+71,"TEXT_STMBDZ607_02785_ESUGEN_000_030","I would, however, first need to procure all the necessary ingredients. <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, I swear upon our Father's name that this shall be the last request I make of you. Please, could you hunt down a bi fang and bring a slab of its breast meat back to me?"
+72,"TEXT_STMBDZ607_02785_ESUGEN_000_031","Thank you! These winged creatures have a fondness for sheep bones. Here─take this. If you lay it out on one of the boulders to the east, it will not be long until one of them swoops down from the skies. When it does, you simply pounce upon it."
+73,"TEXT_STMBDZ607_02785_ESUGEN_000_032","While you take care of the meat, I shall go and gather the herbs. Let us meet back here when we are finished."
+74,"TEXT_STMBDZ607_02785_ESUGEN_000_035","Simply place the sheep bone on top of a boulder to the east and soon a circling bi fang will come swooping down from the skies."
+75,"TEXT_STMBDZ607_02785_ESUGEN_000_040","So, how did the hunt go, my friend?"
+76,"TEXT_STMBDZ607_02785_ESUGEN_000_041","Haha! That is it! This is exactly what I needed. Now that I have everything, I might finally begin making the stew!"
+77,"TEXT_STMBDZ607_02785_JELME_000_042","Why is Mister Esugen still cooking? We just ate <hex:02083BE3E90C0DFF1C><hex:020818E3E90C05FF07>dinner<hex:FF0A>breakfast<hex:03><hex:FF18><hex:020814E3E90C12FF06>lunch<hex:FF07>dinner<hex:03><hex:03>."
+78,"TEXT_STMBDZ607_02785_JELME_000_043","He is making something for my brother, you say!? But Kuzuku is his first opponent in the tournament!"
+79,"TEXT_STMBDZ607_02785_JELME_000_044","If he recovers in time for the match, Mister Esugen will surely lose again. ...That means he will remain a culinarian forever and everyone will continue to make fun of him!"
+80,"TEXT_STMBDZ607_02785_ESUGEN_000_050","Haha! Do you smell that? The circling bi fang stew is ready! It has been prepared with eight strong medicinal herbs. While rather pungent, it should be extremely effective!"
+81,"TEXT_STMBDZ607_02785_ESUGEN_000_051","Jelme, you must deliver this to your brother and make him eat it before it goes cold."
+82,"TEXT_STMBDZ607_02785_JELME_000_052","Thank you, Mister Esugen! I shall do that straightaway and will also be sure to tell him that you made it."
+83,"TEXT_STMBDZ607_02785_ESUGEN_000_053","And so he goes...taking my dreams of victory with him. Kuzuku is one of our strongest warriors. He always lands a spot in the top. One swift strike is all it will take for him to knock me out of the running. Hahaha!"
+84,"TEXT_STMBDZ607_02785_ESUGEN_000_054","Ah, and before you ask─I am not laughing to mask my pain. The idea of me being eliminated from the tournament in a matter of seconds simply strikes me as funny."
+85,"TEXT_STMBDZ607_02785_ESUGEN_000_055","Truth be told, I have not felt this good in a long time. I am glad I helped Kuzuku. Not only am I proud of myself for doing the right thing, but this little incident has also allowed me to rediscover my passion for cooking."
+86,"TEXT_STMBDZ607_02785_ESUGEN_000_056","While I shall never be a warrior and people will continue to occasionally poke fun at me, I am quite satisfied with the hand fate has dealt me. There is no greater joy than cooking for me. "
+87,"TEXT_STMBDZ607_02785_ESUGEN_000_057","In addition to that, I have been blessed with two truly wonderful friends. You and Jelme have brought me much happiness, and it is only because of you that I was able to embrace my shortcomings and realize my strengths."
+88,"TEXT_STMBDZ607_02785_ESUGEN_000_058","Here. I have made a little something for you. Though it is nothing fancy, I am sure you will enjoy it. It has, after all, been tested on and approved by the entire tribe!"
+89,"TEXT_STMBDZ607_02785_ESUGEN_000_059","Now, I am sure you are eager to set out upon your next great adventure, so I will not keep you any longer. Farewell, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, and remember to come and visit your old friend Esugen from time to time!"
+90,"TEXT_STMBDZ607_02785_JELME_000_065","Mister Esugen always looks happiest when he is cooking. I wonder why that is..."

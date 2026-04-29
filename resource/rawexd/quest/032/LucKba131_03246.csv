@@ -2,138 +2,138 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_LUCKBA131_03246_SEQ_00,鼴靈集市的格蘭遜似乎有事要告訴冒險者。
-1,TEXT_LUCKBA131_03246_SEQ_01,和格蘭遜進行了交談。他從被義德變成食罪靈的那位拾荒者的家人口中得知了有關項鏈的情報。一年前，進入伊爾美格的拾荒者們帶走了孚布特王國流傳下來的三種國寶中的雙頭狼之牙和雙頭狼之眼。可是，他們豁出性命帶出來的兩件國寶卻落入義德手中，而與此有關的人也都走上了悲慘的末路。格蘭遜為了追蹤義德的行跡，想要得到目前還沉睡在伊爾美格的最後國寶——名為雙頭狼之爪的戒指。前往伊爾美格的群花館，和格蘭遜談談。
-2,TEXT_LUCKBA131_03246_SEQ_02,和格蘭遜進行了交談。從普拉恩尼茸洞的恩莫族那裡收集雙頭狼之爪的情報。
-3,TEXT_LUCKBA131_03246_SEQ_03,從普拉恩尼茸洞的恩莫族那裡收集了雙頭狼之爪的情報。和格蘭遜談談。
-4,TEXT_LUCKBA131_03246_SEQ_04,和格蘭遜進行了交談。和普拉恩尼茸洞的蘇兒·歐兒談談。
-5,TEXT_LUCKBA131_03246_SEQ_05,和蘇兒·歐兒進行了交談。蘇兒·歐兒是一名恩莫族，以前曾經在孚布特王國工作過。當時，他與名為光之戰士的一位英雄布蘭登以及孚布特王國的公主紹爾迪雅一起追查人類變成魔物的案件。要想從蘇兒·歐兒口中打聽到雙頭狼之爪的情報，需要支付相應的代價。在孚布特堡的<hex:02280CFF05>EObj<hex:F61EAB5A0103>張望，討伐出現的魔物。
-6,TEXT_LUCKBA131_03246_SEQ_06,在<hex:02280CFF05>EObj<hex:F61EAB5A0103>張望，討伐了出現的魔物。和普拉恩尼茸洞的蘇兒·歐兒談談。
-7,TEXT_LUCKBA131_03246_SEQ_07,和蘇兒·歐兒進行了交談。暫且等待格蘭遜完成他需要支付的代價。<hex:02100103><hex:02100103>※任意防護職業的等級達到78級以上時，可以從普拉恩尼茸洞的蘇兒·歐兒那裡領取下一個防護職能任務。
-8,TEXT_LUCKBA131_03246_SEQ_08,
-9,TEXT_LUCKBA131_03246_SEQ_09,
-10,TEXT_LUCKBA131_03246_SEQ_10,
-11,TEXT_LUCKBA131_03246_SEQ_11,
-12,TEXT_LUCKBA131_03246_SEQ_12,
-13,TEXT_LUCKBA131_03246_SEQ_13,
-14,TEXT_LUCKBA131_03246_SEQ_14,
-15,TEXT_LUCKBA131_03246_SEQ_15,
-16,TEXT_LUCKBA131_03246_SEQ_16,
-17,TEXT_LUCKBA131_03246_SEQ_17,
-18,TEXT_LUCKBA131_03246_SEQ_18,
-19,TEXT_LUCKBA131_03246_SEQ_19,
-20,TEXT_LUCKBA131_03246_SEQ_20,
-21,TEXT_LUCKBA131_03246_SEQ_21,
-22,TEXT_LUCKBA131_03246_SEQ_22,
-23,TEXT_LUCKBA131_03246_SEQ_23,
-24,TEXT_LUCKBA131_03246_TODO_00,和群花館的格蘭遜對話
-25,TEXT_LUCKBA131_03246_TODO_01,在普拉恩尼茸洞收集情報
-26,TEXT_LUCKBA131_03246_TODO_02,和格蘭遜對話
-27,TEXT_LUCKBA131_03246_TODO_03,和蘇兒·歐兒對話
-28,TEXT_LUCKBA131_03246_TODO_04,在<hex:02280CFF05>EObj<hex:F61EAB5A0103>張望並討伐魔物
-29,TEXT_LUCKBA131_03246_TODO_05,和蘇兒·歐兒對話
-30,TEXT_LUCKBA131_03246_TODO_06,
-31,TEXT_LUCKBA131_03246_TODO_07,
-32,TEXT_LUCKBA131_03246_TODO_08,
-33,TEXT_LUCKBA131_03246_TODO_09,
-34,TEXT_LUCKBA131_03246_TODO_10,
-35,TEXT_LUCKBA131_03246_TODO_11,
-36,TEXT_LUCKBA131_03246_TODO_12,
-37,TEXT_LUCKBA131_03246_TODO_13,
-38,TEXT_LUCKBA131_03246_TODO_14,
-39,TEXT_LUCKBA131_03246_TODO_15,
-40,TEXT_LUCKBA131_03246_TODO_16,
-41,TEXT_LUCKBA131_03246_TODO_17,
-42,TEXT_LUCKBA131_03246_TODO_18,
-43,TEXT_LUCKBA131_03246_TODO_19,
-44,TEXT_LUCKBA131_03246_TODO_20,
-45,TEXT_LUCKBA131_03246_TODO_21,
-46,TEXT_LUCKBA131_03246_TODO_22,
-47,TEXT_LUCKBA131_03246_TODO_23,
-48,TEXT_LUCKBA131_03246_SYSTEM_100_001,若要領取或繼續推進本任務，<hex:02100103>需完成「暗影之逆焰主線任務」中的「需要等價交換」。
-49,TEXT_LUCKBA131_03246_GRANSON_000_001,嗨，搭檔。
-50,TEXT_LUCKBA131_03246_GRANSON_000_002,在那之後，<hex:02100103>我和項鏈主人的妻子見了面，<hex:02100103>把事情的始末告訴了她。
-51,TEXT_LUCKBA131_03246_GRANSON_000_003,得知丈夫死亡的她雖然心慌意亂，<hex:02100103>但還是將自己知道的有關項鏈的情報都告訴了我。
-52,TEXT_LUCKBA131_03246_GRANSON_000_004,大概在一年前……<hex:02100103>一群不要命的拾荒者去了妖靈族的地盤伊爾美格。
-53,TEXT_LUCKBA131_03246_GRANSON_000_005,目標是孚布特王國的遺產，<hex:02100103>他們想從還沒被人動過的廢墟中挖出寶物。<hex:02100103>然而大部分參與者都因妖靈族的襲擊而死了。
-54,TEXT_LUCKBA131_03246_GRANSON_000_006,而小部分幸運的生還者<hex:02100103>則帶回了孚布特王國流傳下來的三種國寶中的兩種，<hex:02100103>也就是那個手鐲和項鏈。
-55,TEXT_LUCKBA131_03246_GRANSON_000_007,拿到手鐲——雙頭狼之牙的人<hex:02100103>為了錢財而把東西賣給了游末邦的古董商。<hex:02100103>大概就是你見過的那個男人。
-56,TEXT_LUCKBA131_03246_GRANSON_000_008,而雙頭狼之牙，你也知道，<hex:02100103>古董商為了修復它將它交給了工匠村的米琳達，<hex:02100103>最後卻遇到了義德的襲擊，被義德搶走了。
-57,TEXT_LUCKBA131_03246_GRANSON_000_009,至於項鏈雙頭狼之眼……<hex:02100103>當初拿到它的男人一直貼身攜帶著，以備在不時之需時<hex:02100103>可以將它賣掉，最後也跟手鐲一樣被那個混蛋搶走了。
-58,TEXT_LUCKBA131_03246_GRANSON_000_010,她告訴我的就這麼多。
-59,TEXT_LUCKBA131_03246_GRANSON_000_011,如果這些都是真的，那麼我想……<hex:02100103>義德的目的就是得到孚布特王國的國寶。
-60,TEXT_LUCKBA131_03246_GRANSON_000_012,既然如此，那我們只要找到最後的國寶——雙頭狼之爪，<hex:02100103>或許就能把那個混蛋引到我們這邊來。
-61,TEXT_LUCKBA131_03246_GRANSON_000_013,但伊爾美格是妖靈族的地盤，十分危險。<hex:02100103>當初拾荒者都沒能把國寶都帶出來，<hex:02100103>我們要怎麼安全地找到它呢？
-62,TEXT_LUCKBA131_03246_Q1_000_000,如何作答？
-63,TEXT_LUCKBA131_03246_A1_000_001,我去過伊爾美格
-64,TEXT_LUCKBA131_03246_A1_000_002,我在妖靈族有朋友
-65,TEXT_LUCKBA131_03246_GRANSON_000_015,真的假的？<hex:02100103>那豈不是說妖靈族會同意我們進入？
-66,TEXT_LUCKBA131_03246_GRANSON_000_016,真的假的？<hex:02100103>既然你已經得到了妖靈族的認可，那就好辦了。
-67,TEXT_LUCKBA131_03246_GRANSON_000_017,好，那我們要做的事就只有一件：<hex:02100103>前往伊爾美格，向妖靈族們收集戒指的情報。
-68,TEXT_LUCKBA131_03246_GRANSON_000_050,到這裡的一路倒還算平安無事……<hex:02100103>接下來就看出現的是鬼還是神了……<hex:02100103>啊，要出現也是出現妖靈族吧。
-69,TEXT_LUCKBA131_03246_GRANSON_000_051,我記得妖靈族中的恩莫族<hex:02100103>與孚布特王國的人關係匪淺。<hex:02100103>你知道他們的村落在哪嗎？
-70,TEXT_LUCKBA131_03246_Q2_000_000,如何作答？
-71,TEXT_LUCKBA131_03246_A2_000_001,回答有關普拉恩尼茸洞的事
-72,TEXT_LUCKBA131_03246_A2_000_002,不記得了
-73,TEXT_LUCKBA131_03246_GRANSON_000_053,從這裡往北的普拉恩尼茸洞嗎……<hex:02100103>明白了，就去那裡收集情報吧。
-74,TEXT_LUCKBA131_03246_GRANSON_000_054,我現在只能靠你了。<hex:02100103>拜託，快想一想！
-75,TEXT_LUCKBA131_03246_YOUNGNUMOU03246_000_100,（★未使用／削除予定★）
-76,TEXT_LUCKBA131_03246_IALAOUL_100_100,有事嗎？
-77,TEXT_LUCKBA131_03246_YOUNGNUMOU03246_000_101,（★未使用／削除予定★）
-78,TEXT_LUCKBA131_03246_IALAOUL_100_101,你在找個名叫雙頭狼之爪的戒指？<hex:02100103>這名字我倒是聽說過，但不知道具體是個什麼東西。
-79,TEXT_LUCKBA131_03246_YOUNGNUMOU03246_000_102,（★未使用／削除予定★）
-80,TEXT_LUCKBA131_03246_IALAOUL_100_102,不過，以前曾經服侍過孚布特王國公主的蘇兒·歐兒<hex:02100103>說不定會知道些什麼，他是個很怪的老人，<hex:02100103>願不願意配合你我就不清楚了。
-81,TEXT_LUCKBA131_03246_OLDNUMOU03246_000_103,（★未使用／削除予定★）
-82,TEXT_LUCKBA131_03246_DAENKENN_100_103,怎麼了，你好像有事想問我？
-83,TEXT_LUCKBA131_03246_OLDNUMOU03246_000_104,（★未使用／削除予定★）
-84,TEXT_LUCKBA131_03246_DAENKENN_100_104,你問我知不知道孚布特王國的國寶戒指？<hex:02100103>嗯，我知道啊，<hex:02100103>是叫雙頭狼之爪吧？
-85,TEXT_LUCKBA131_03246_OLDNUMOU03246_000_105,（★未使用／削除予定★）
-86,TEXT_LUCKBA131_03246_DAENKENN_100_105,不過孚布特王國已經滅亡了，<hex:02100103>我可不知道那戒指現在在哪啊。
-87,TEXT_LUCKBA131_03246_GRANSON_000_110,他們就是恩莫族啊……<hex:02100103>看外表完全認不出究竟是人還是狗……<hex:02100103>不說這些了，還是先收集雙頭狼之爪的情報吧。
-88,TEXT_LUCKBA131_03246_YOUNGNUMOU03246_000_115,（★未使用／削除予定★）
-89,TEXT_LUCKBA131_03246_IALAOUL_100_115,以前曾經服侍過孚布特王國公主的蘇兒·歐兒<hex:02100103>說不定會知道些什麼，他是個很怪的老人，<hex:02100103>願不願意配合你我就不清楚了。
-90,TEXT_LUCKBA131_03246_OLDNUMOU03246_000_120,（★未使用／削除予定★）
-91,TEXT_LUCKBA131_03246_DAENKENN_100_120,孚布特王國已經滅亡了，<hex:02100103>我可不知道那戒指現在在哪啊。
-92,TEXT_LUCKBA131_03246_GRANSON_000_150,嗨，搭檔，<hex:02100103>有人知道雙頭狼之爪嗎？
-93,TEXT_LUCKBA131_03246_GRANSON_000_151,哦？有個叫蘇兒·歐兒的恩莫族<hex:02100103>以前曾經服侍過孚布特王國的公主啊……<hex:02100103>好，我們就去找他問問吧。
-94,TEXT_LUCKBA131_03246_SULOUL_000_200,嗯？你們找我有事？
-95,TEXT_LUCKBA131_03246_SULOUL_000_201,你們應該也聽說了，前幾天出現了第五位犧牲者。<hex:02100103>變成魔物的似乎是個還未成年的少女。
-96,TEXT_LUCKBA131_03246_BRANDEN_000_202,最近發生的孚布特王國的百姓<hex:02100103>突然變成魔物襲擊他人的一連串案件……<hex:02100103>原因依然不明嗎？
-97,TEXT_LUCKBA131_03246_TADRIC_000_203,我們調查了變成魔物之人的屍首，感覺留有魔力殘渣。<hex:02100103>肯定是什麼人濫用魔法導致的，但是……<hex:02100103>目前還沒有鎖定兇手。
-98,TEXT_LUCKBA131_03246_TADRIC_000_204,不過我們宮廷魔法師一定會把他揪出來的。<hex:02100103>在此之前，希望身為騎士的你能幫忙解決變成魔物的人。
-99,TEXT_LUCKBA131_03246_BRANDEN_000_205,可他們原本都是人類啊？！<hex:02100103>真的不能讓他們恢復原貌嗎？
-100,TEXT_LUCKBA131_03246_TADRIC_000_206,我理解你的心情，我們也是無奈之下才出此下策。<hex:02100103>王國騎士團的理念是「為弱者行使正義」，<hex:02100103>為了保護百姓，有些決斷是不得不做的。
-101,TEXT_LUCKBA131_03246_SULOUL_000_207,而且，萬一王族們也面臨危險，<hex:02100103>身為騎士的你處境也將堪憂啊。
-102,TEXT_LUCKBA131_03246_SAULDIA_000_208,(-？？？？-)不需要你們擔心！
-103,TEXT_LUCKBA131_03246_SAULDIA_000_209,這次的案子，就由孚布特王國的第一公主，<hex:02100103>本人紹爾迪雅親自解決給你們看！
-104,TEXT_LUCKBA131_03246_SULOUL_000_210,您在說什麼啊，公主殿下！<hex:02100103>請不要做這麼危險的事！
-105,TEXT_LUCKBA131_03246_SAULDIA_000_211,哦？我不能做危險的事，那就可以把百姓置於危險的境地了？<hex:02100103>你是想讓我獨自待在安全的地方看著他們一個個被害嗎？
-106,TEXT_LUCKBA131_03246_SULOUL_000_212,可、可是……
-107,TEXT_LUCKBA131_03246_SAULDIA_000_213,你就是布蘭登吧。<hex:02100103>我聽騎士團長說了，你雖然是個新人，但能力很出眾。<hex:02100103>就由你來當我的劍，輔助我調查吧。
-108,TEXT_LUCKBA131_03246_BRANDEN_000_214,您、您說什麼？！
-109,TEXT_LUCKBA131_03246_SAULDIA_000_215,我不希望有更多無辜的百姓犧牲了。<hex:02100103>即使拼上自己的性命，我也要保護他們。
-110,TEXT_LUCKBA131_03246_SAULDIA_100_215,布蘭登，不要怕……一切為了正義！
-111,TEXT_LUCKBA131_03246_BRANDEN_000_216,紹爾迪雅殿下……遵命。<hex:02100103>向我的劍起誓，我必定會守護您與百姓。
-112,TEXT_LUCKBA131_03246_SAULDIA_000_217,謝謝你，布蘭登。<hex:02100103>期待你的表現。
-113,TEXT_LUCKBA131_03246_SAULDIA_000_218,那我們這就開始著手調查吧。<hex:02100103>先要做的就是收集情報！
-114,TEXT_LUCKBA131_03246_BRANDEN_000_219,紹……紹爾迪雅殿下！請等等我！
-115,TEXT_LUCKBA131_03246_SULOUL_000_220,真是個風風火火的公主……一旦有了主意就不聽勸。<hex:02100103>就拜託你好好看著她了，布蘭登。
-116,TEXT_LUCKBA131_03246_GRANSON_000_221,喂喂，你沒事吧？
-117,TEXT_LUCKBA131_03246_SULOUL_000_222,怎麼一見到我就抱住了腦袋，<hex:02100103>什麼意思啊？
-118,TEXT_LUCKBA131_03246_SULOUL_000_223,為什麼你會知道我曾經服侍過紹爾迪雅公主？<hex:02100103>難不成你……<hex:02100103>跟布蘭登一樣擁有回溯過去的能力嗎！
-119,TEXT_LUCKBA131_03246_GRANSON_000_224,……你說什麼？
-120,TEXT_LUCKBA131_03246_SULOUL_000_225,唔，我有點感興趣了。<hex:02100103>來說說你們找我有什麼事吧。
-121,TEXT_LUCKBA131_03246_SULOUL_000_226,想讓我告訴你們有關雙頭狼之爪的事？<hex:02100103>唔……你們應該清楚我們恩莫族的規矩吧，<hex:02100103>有事拜託我們，就必須支付相應的代價。
-122,TEXT_LUCKBA131_03246_SULOUL_000_227,在我們當作飲水站使用的孚布特堡河流附近<hex:02100103>長年棲息著魔物，希望你能打倒它們。
-123,TEXT_LUCKBA131_03246_SULOUL_000_228,在此期間，我有另一件事交給你去做。
-124,TEXT_LUCKBA131_03246_GRANSON_000_230,看來他就是那個蘇兒·歐兒了，<hex:02100103>快去找他問問吧。
-125,TEXT_LUCKBA131_03246_GRANSON_000_250,雖然我有很多話想問，<hex:02100103>但還是先完成蘇兒·歐兒的任務吧。
-126,TEXT_LUCKBA131_03246_GRANSON_000_255,（★未使用／削除予定★）
-127,TEXT_LUCKBA131_03246_SULOUL_000_260,在我們當作飲水站使用的孚布特堡河流附近<hex:02100103>長年棲息著魔物，希望你能打倒它們。
-128,TEXT_LUCKBA131_03246_SULOUL_000_300,你打倒飲水站的魔物了嗎？
-129,TEXT_LUCKBA131_03246_SULOUL_000_301,是嗎……<hex:02100103>其實那魔物就是你看到的過去中<hex:02100103>發生的魔物化案件的犧牲者……由人類變成的魔物。
-130,TEXT_LUCKBA131_03246_GRANSON_000_302,人類變異成魔物的現象嗎……<hex:02100103>這跟食罪靈化不一樣？
-131,TEXT_LUCKBA131_03246_SULOUL_000_303,想讓我回答你，就得先完成我給你的任務。
-132,TEXT_LUCKBA131_03246_SULOUL_000_304,<hex:022903EB0203>早已與我們結下過緣分也就算了，<hex:02100103>但你的付出並不值得我講出有關雙頭狼之爪的情報。<hex:02100103>你還是先多幹幹活吧。
-133,TEXT_LUCKBA131_03246_GRANSON_000_305,唉……<hex:02100103>我可是有一肚子的問題想問啊，<hex:02100103>不管是對蘇兒·歐兒……還是對搭檔……
-134,TEXT_LUCKBA131_03246_SULOUL_000_306,總之，在他支付相應的代價之前我不想回答任何問題，<hex:02100103>你就先等等吧。
+0,"TEXT_LUCKBA131_03246_SEQ_00","Granson has had his fill of Mord Souq."
+1,"TEXT_LUCKBA131_03246_SEQ_01","After consoling the widow of the scavenger killed by Dikaiosyne, Granson has learned that the man had taken part in a doomed expedition to Il Mheg over a year ago. The scavengers had hoped to come away with priceless Voeburtite treasures, but the majority were slaughtered or driven mad by the fae folk. Those who survived managed to escape with two of three sacred treasures of the royal family: the Fangs and Eyes of Orthus. The third, the Claws of Orthus, is presumably still where the others were found, and Granson surmises that if Dikaiosyne is driven to seek it out as he did the other treasures, then it could conceivably be used to lure the Virtue out of hiding. Thus is it decided that a trip to the Kingdom of Rainbows is in order."
+2,"TEXT_LUCKBA131_03246_SEQ_02","Granson is ill at ease in Il Mheg, as most outsiders are. However, as this is not your first time, you are able to direct him to Pla Enni, home to many Nu Mou, who were a part of Voeburtite society and may know the location of the relic you seek."
+3,"TEXT_LUCKBA131_03246_SEQ_03","Though some have heard of the Claws of Orthus, none know where it may be found. However, you learn of a Nu Mou named Sul Oul, who once served the royal family and will surely be of greater help than others."
+4,"TEXT_LUCKBA131_03246_SEQ_04","Granson, still ill at ease in the presence of the fae folk, is relieved to hear of your progress, and bids you lead the way to Sul Oul."
+5,"TEXT_LUCKBA131_03246_SEQ_05","As you approach Sul Oul, the power of the Echo imparts to you a vision of the elder's past. You behold Branden, the fallen Warrior of Light, in a time before he joined with his fellow adventurers and was instead a knight sworn to serve the people of Voeburt. As a young recruit, he caught the eye of the princess Sauldia, who handpicked him to serve as her protector as she embarked on an investigation into a series of mysterious incidents in which innocent souls were irrevocably transformed into malformed beasts...<hex:02100103><hex:02100103>As you return to the present, the Nu Mou correctly deduces that you have the selfsame gift Branden had...prompting Granson to regard you with a sudden suspicion. However, once you explain your purpose in coming─the hunt for Dikaiosyne and the Claws of Orthus─you find yourself charged with yet another task to prove your martial prowess, this time by the retainer. They bid you journey to a nearby river where the Nu Mou used to bathe and dispatch a number of beasts. For Granson, however, they have a different request in mind..."
+6,"TEXT_LUCKBA131_03246_SEQ_06","As usual, the beasts you are asked to dispatch pose no challenge whatsoever, leaving you somewhat bemused and wondering what it was all for."
+7,"TEXT_LUCKBA131_03246_SEQ_07","Sul Oul is satisfied by your performance, but a belligerent Granson has yet to indulge the Nu Mou's other request. Alas, until he does, your hunt must be put on hold...<hex:02100103><hex:02100103>※The next role quest will be available from Sul Oul upon reaching level 78 in any tank class."
+8,"TEXT_LUCKBA131_03246_SEQ_08",""
+9,"TEXT_LUCKBA131_03246_SEQ_09",""
+10,"TEXT_LUCKBA131_03246_SEQ_10",""
+11,"TEXT_LUCKBA131_03246_SEQ_11",""
+12,"TEXT_LUCKBA131_03246_SEQ_12",""
+13,"TEXT_LUCKBA131_03246_SEQ_13",""
+14,"TEXT_LUCKBA131_03246_SEQ_14",""
+15,"TEXT_LUCKBA131_03246_SEQ_15",""
+16,"TEXT_LUCKBA131_03246_SEQ_16",""
+17,"TEXT_LUCKBA131_03246_SEQ_17",""
+18,"TEXT_LUCKBA131_03246_SEQ_18",""
+19,"TEXT_LUCKBA131_03246_SEQ_19",""
+20,"TEXT_LUCKBA131_03246_SEQ_20",""
+21,"TEXT_LUCKBA131_03246_SEQ_21",""
+22,"TEXT_LUCKBA131_03246_SEQ_22",""
+23,"TEXT_LUCKBA131_03246_SEQ_23",""
+24,"TEXT_LUCKBA131_03246_TODO_00","Rendezvous with Granson in Il Mheg."
+25,"TEXT_LUCKBA131_03246_TODO_01","Question the residents of Pla Enni."
+26,"TEXT_LUCKBA131_03246_TODO_02","Speak with Granson."
+27,"TEXT_LUCKBA131_03246_TODO_03","Search for Sul Oul."
+28,"TEXT_LUCKBA131_03246_TODO_04","Stand watch for wild beasts."
+29,"TEXT_LUCKBA131_03246_TODO_05","Speak with Sul Oul."
+30,"TEXT_LUCKBA131_03246_TODO_06",""
+31,"TEXT_LUCKBA131_03246_TODO_07",""
+32,"TEXT_LUCKBA131_03246_TODO_08",""
+33,"TEXT_LUCKBA131_03246_TODO_09",""
+34,"TEXT_LUCKBA131_03246_TODO_10",""
+35,"TEXT_LUCKBA131_03246_TODO_11",""
+36,"TEXT_LUCKBA131_03246_TODO_12",""
+37,"TEXT_LUCKBA131_03246_TODO_13",""
+38,"TEXT_LUCKBA131_03246_TODO_14",""
+39,"TEXT_LUCKBA131_03246_TODO_15",""
+40,"TEXT_LUCKBA131_03246_TODO_16",""
+41,"TEXT_LUCKBA131_03246_TODO_17",""
+42,"TEXT_LUCKBA131_03246_TODO_18",""
+43,"TEXT_LUCKBA131_03246_TODO_19",""
+44,"TEXT_LUCKBA131_03246_TODO_20",""
+45,"TEXT_LUCKBA131_03246_TODO_21",""
+46,"TEXT_LUCKBA131_03246_TODO_22",""
+47,"TEXT_LUCKBA131_03246_TODO_23",""
+48,"TEXT_LUCKBA131_03246_SYSTEM_100_001","In order to undertake this quest, you must first complete the main scenario quest “A Fitting Payment.”"
+49,"TEXT_LUCKBA131_03246_GRANSON_000_001","Hey there, sinner."
+50,"TEXT_LUCKBA131_03246_GRANSON_000_002","I broke the bad news to the widow of that scavenger while you were away."
+51,"TEXT_LUCKBA131_03246_GRANSON_000_003","She took it about as well as you'd expect. After she'd cried herself hoarse, I started asking her about the choker and where her husband had got it."
+52,"TEXT_LUCKBA131_03246_GRANSON_000_004","Seems he and his mates took a trip to Il Mheg a year or so back..."
+53,"TEXT_LUCKBA131_03246_GRANSON_000_005","Hoping to cart off all the Voeburtite treasures they could carry from an untouched ruin they'd learned about. Of course, in their greed they neglected to account for the fae folk, who killed or drove mad most of 'em."
+54,"TEXT_LUCKBA131_03246_GRANSON_000_006","Those who survived didn't come away empty-handed, though. In fact, they'd stumbled upon a remarkable find: three sacred treasures of the royal family."
+55,"TEXT_LUCKBA131_03246_GRANSON_000_007","They escaped with two─the Fangs of Orthus being one of them─which was sold by another scavenger to a Eulmoran. Either that merchant you met at the Beehive or an agent of his, I'd wager."
+56,"TEXT_LUCKBA131_03246_GRANSON_000_008","So the merchant gives it over to Milinda for restoration, after which Dikaiosyne attacks Wright, presumably 'cause he's after it as well..."
+57,"TEXT_LUCKBA131_03246_GRANSON_000_009","Meanwhile, the scavenger here in Mord Souq keeps the choker─the Eyes of Orthus─locked away for safekeeping, and when he finally decides to sell it, the sinless bastard shows up again..."
+58,"TEXT_LUCKBA131_03246_GRANSON_000_010","...Which brings us to the here and now."
+59,"TEXT_LUCKBA131_03246_GRANSON_000_011","Damned if I know why, but at this point there's no denying that Dikaiosyne's been hunting the royal relics."
+60,"TEXT_LUCKBA131_03246_GRANSON_000_012","And so, assuming he hasn't already claimed the third one─the Claws of Orthus─then I say we should get our hands on it first and then use it to lure him out of hiding."
+61,"TEXT_LUCKBA131_03246_GRANSON_000_013","But to that end, we'll have to venture into the faerie kingdom ourselves. Those scavengers didn't receive the warmest welcome, and we're not like to be treated any better..."
+62,"TEXT_LUCKBA131_03246_Q1_000_000","What will you say?"
+63,"TEXT_LUCKBA131_03246_A1_000_001","I've traveled to Il Mheg before."
+64,"TEXT_LUCKBA131_03246_A1_000_002","I was away with the fae for a time."
+65,"TEXT_LUCKBA131_03246_GRANSON_000_015","Have you now? And the little devils let you go? I can only assume they've taken a liking to you..."
+66,"TEXT_LUCKBA131_03246_GRANSON_000_016","...Why does that not surprise me. Well, if you and the fae have an understanding, perhaps we can traverse their lands without worry..."
+67,"TEXT_LUCKBA131_03246_GRANSON_000_017","That settles it, then. We'll head to Il Mheg and ask after this Voeburtite ring."
+68,"TEXT_LUCKBA131_03246_GRANSON_000_050","What a remarkably uneventful trip. I kept jumping at shadows, waiting for eaters or foul demons or worse to attack...though that might be preferable to the fae, frankly."
+69,"TEXT_LUCKBA131_03246_GRANSON_000_051","Still, we're going to have to deal with them eventually if we're going to find this ring. After all, the Nu Mou were part of Voeburtite society, and without their help I'm not sure where to even begin our search. Perhaps there's a village of some sort you can guide us to?"
+70,"TEXT_LUCKBA131_03246_Q2_000_000","What will you say?"
+71,"TEXT_LUCKBA131_03246_A2_000_001","Well, there's Pla Enni."
+72,"TEXT_LUCKBA131_03246_A2_000_002","Not that I recall."
+73,"TEXT_LUCKBA131_03246_GRANSON_000_053","Pla Enni, eh? Very well. Lead on, sinner."
+74,"TEXT_LUCKBA131_03246_GRANSON_000_054","What? I thought you'd spent time here. Think harder!"
+75,"TEXT_LUCKBA131_03246_YOUNGNUMOU03246_000_100",""
+76,"TEXT_LUCKBA131_03246_IALAOUL_100_100","Oh, hello there. You have questions for me?"
+77,"TEXT_LUCKBA131_03246_YOUNGNUMOU03246_000_101",""
+78,"TEXT_LUCKBA131_03246_IALAOUL_100_101","The Claws of Orthus... It is a ring, you say? The name I have heard before, but I know nothing save that..."
+79,"TEXT_LUCKBA131_03246_YOUNGNUMOU03246_000_102",""
+80,"TEXT_LUCKBA131_03246_IALAOUL_100_102","Oh! Sul Oul served the royal family before the Flood. Somewhat temperamental they are, but surely they will have knowledge of this treasure you seek."
+81,"TEXT_LUCKBA131_03246_OLDNUMOU03246_000_103",""
+82,"TEXT_LUCKBA131_03246_DAENKENN_100_103","Something about your demeanor bespeaks a question unasked. Have I the right of it?"
+83,"TEXT_LUCKBA131_03246_OLDNUMOU03246_000_104",""
+84,"TEXT_LUCKBA131_03246_DAENKENN_100_104","A ring that belonged to the royal family of Voeburt... And it was called the Claws of Orthus... Hmm..."
+85,"TEXT_LUCKBA131_03246_OLDNUMOU03246_000_105",""
+86,"TEXT_LUCKBA131_03246_DAENKENN_100_105","But Voeburt is long gone, as are the caretakers of the ring you seek. Who can say where it might have got to?"
+87,"TEXT_LUCKBA131_03246_GRANSON_000_110","Oh, I...I am working up the nerve to question our dog-faced friends. Odd little things, aren't they? Can't rightly gauge their ages either..."
+88,"TEXT_LUCKBA131_03246_YOUNGNUMOU03246_000_115",""
+89,"TEXT_LUCKBA131_03246_IALAOUL_100_115","If I were you, I would speak with Sul Oul. They were a servant of...the princess, as I recall? If this ring was indeed a royal treasure, they would surely know of it."
+90,"TEXT_LUCKBA131_03246_OLDNUMOU03246_000_120",""
+91,"TEXT_LUCKBA131_03246_DAENKENN_100_120","Weep not for Voeburt, for they had their time in the shade. All fades to white in the end, and we are no exception."
+92,"TEXT_LUCKBA131_03246_GRANSON_000_150","Had yourself a conversation or three? Learn anything interesting?"
+93,"TEXT_LUCKBA131_03246_GRANSON_000_151","So this Sul Oul is the one we ought to speak with, eh? A former servant of the royal family...which would mean they've lived well over a century. Bugger me..."
+94,"TEXT_LUCKBA131_03246_SULOUL_000_200","I do not know you, yet you seem to know me..."
+95,"TEXT_LUCKBA131_03246_SULOUL_000_201","The fifth was discovered yesterday. A young girl not yet of age...transformed into a misshapen beast like the others before her..."
+96,"TEXT_LUCKBA131_03246_BRANDEN_000_202","As if we needed more proof of a pattern. At this rate, any citizen could be next. Tell me you at least learned something from this one."
+97,"TEXT_LUCKBA131_03246_TADRIC_000_203","I studied her remains myself. 'Twas plain a powerful magick had been employed─vestiges of the enchantment lingered long after. The culprit I think is not a man to be trifled with..."
+98,"TEXT_LUCKBA131_03246_TADRIC_000_204","That is all I can say for now, but you may rest assured that I will ascertain their identity ere long. On my honor as court mage, I swear it. Until I do, however, I would implore you and your fellow knights to dispatch any who turn or show signs─without hesitation."
+99,"TEXT_LUCKBA131_03246_BRANDEN_000_205","But these are our kith and kin! Should we not try to keep them alive until a way to reverse their transformation can be found?"
+100,"TEXT_LUCKBA131_03246_TADRIC_000_206","Your mercy would place countless others at risk. As a knight of Voeburt, did you not vow to serve <hex:021A020203>all<hex:021A020103> her people? “Justice for the weakest among us,” was it not? How many such innocents will die before you do what must needs be done?"
+101,"TEXT_LUCKBA131_03246_SULOUL_000_207","It pains me deeply, Branden...but the safety of the royal family is paramount. I fear that to take anything less than the most drastic measures would be to invite death into this castle..."
+102,"TEXT_LUCKBA131_03246_SAULDIA_000_208","(-???-)Death is already here! Surely you must see that!"
+103,"TEXT_LUCKBA131_03246_SAULDIA_000_209","I will not let it be whispered that Princess Sauldia turned a blind eye to her people's suffering. These crimes are a tragedy that weighs upon every Voeburtite's soul─mine most of all! And that is why I will take charge of the investigation myself!"
+104,"TEXT_LUCKBA131_03246_SULOUL_000_210","My lady, be reasonable! You cannot put yourself in harm's way─you have a responsibility to your subjects!"
+105,"TEXT_LUCKBA131_03246_SAULDIA_000_211","So I am to gamble with their lives instead? Let them shield me while I alone take shelter and look down on them from on high!?"
+106,"TEXT_LUCKBA131_03246_SULOUL_000_212","Yes, exactly! You are their princess─"
+107,"TEXT_LUCKBA131_03246_SAULDIA_000_213","You are Branden, yes? The new recruit? A rather promising one, from what the captain has told me. You will attend me personally."
+108,"TEXT_LUCKBA131_03246_BRANDEN_000_214","My lady!?"
+109,"TEXT_LUCKBA131_03246_SAULDIA_000_215","You heard me. I will not stand idly by when I have the power to make a difference."
+110,"TEXT_LUCKBA131_03246_SAULDIA_100_215","Together we will see justice done for all─as your vow and your princess demand!"
+111,"TEXT_LUCKBA131_03246_BRANDEN_000_216","Lady Sauldia, I... I understand. Forgive me my hesitation. My life and my sword are yours to command."
+112,"TEXT_LUCKBA131_03246_SAULDIA_000_217","I have great expectations for you. I trust you will not disappoint me."
+113,"TEXT_LUCKBA131_03246_SAULDIA_000_218","Right! There is no telling when our culprit will strike again, so we must begin our investigation at once! There are witnesses to be questioned, clues to be gathered! Come, come!"
+114,"TEXT_LUCKBA131_03246_BRANDEN_000_219","N-Now!? Lady Sauldia! Lady Sauldia!"
+115,"TEXT_LUCKBA131_03246_SULOUL_000_220","Ever the stubborn child. I wish you the best of luck, Branden. You will need it and more..."
+116,"TEXT_LUCKBA131_03246_GRANSON_000_221","Hey! Hey! Are you all right?"
+117,"TEXT_LUCKBA131_03246_SULOUL_000_222","The way you were holding your head, as if wracked by a terrible pain... What happened to you just now?"
+118,"TEXT_LUCKBA131_03246_SULOUL_000_223","Lady Sauldia? You saw her with your mind's eye!? Then...then it is as I suspected! You have the gift too! You are like Branden!"
+119,"TEXT_LUCKBA131_03246_GRANSON_000_224","...What do you mean <hex:02080CE905FF04>she<hex:FF03>he<hex:03>'s like Branden?"
+120,"TEXT_LUCKBA131_03246_SULOUL_000_225","Why have you come to me? What is it that you seek?"
+121,"TEXT_LUCKBA131_03246_SULOUL_000_226","...I see. And for this “hunt” of yours you have come to Il Mheg in search of the Claws of Orthus. Hmm...I am afraid this is no simple matter. First, I would know that you are capable of facing the eater you seek."
+122,"TEXT_LUCKBA131_03246_SULOUL_000_227","There is a spot in a river not far from here in which I used to bathe, until a number of beasts grew equally fond of it. If you are the warrior you claim to be, they should pose no challenge whatsoever."
+123,"TEXT_LUCKBA131_03246_SULOUL_000_228","As for you...I have questions..."
+124,"TEXT_LUCKBA131_03246_GRANSON_000_230","We've found our Nu Mou. Of late you've proven yourself to be a skilled conversationalist, so why don't you explain the situation?"
+125,"TEXT_LUCKBA131_03246_GRANSON_000_250","...See to the beasts, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Sul Oul and I have a few things to discuss."
+126,"TEXT_LUCKBA131_03246_GRANSON_000_255",""
+127,"TEXT_LUCKBA131_03246_SULOUL_000_260","You will have no difficulty finding my favorite bathing spot. Why, once you lay eyes upon it, I should be surprised if you too were not tempted to take a dip!"
+128,"TEXT_LUCKBA131_03246_SULOUL_000_300","The beasts are no more, then?"
+129,"TEXT_LUCKBA131_03246_SULOUL_000_301","Good, good. I hadn't the heart to do it myself, for they were no ordinary beasts, but old friends who had survived the Flood. Victims of the curse you heard us speak of in your vision."
+130,"TEXT_LUCKBA131_03246_GRANSON_000_302","So this curse transforms people into monsters? Like how sin eaters can spawn more of their own kind?"
+131,"TEXT_LUCKBA131_03246_SULOUL_000_303","I will speak no more of this or other matters until after you have completed the task I set before you."
+132,"TEXT_LUCKBA131_03246_SULOUL_000_304","This is not negotiable, Granson. <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> accepted my terms, and so must you."
+133,"TEXT_LUCKBA131_03246_GRANSON_000_305","Hmph. So secretive...the both of you. Can't we all just speak plain?"
+134,"TEXT_LUCKBA131_03246_SULOUL_000_306","Your comrade refuses to acknowledge his situation. This may take time, but I am patient. Indeed, I have dealt with many a stubborn child in my life..."

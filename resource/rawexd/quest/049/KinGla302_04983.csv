@@ -2,86 +2,86 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_KINGLA302_04983_SEQ_00,珠串萬貨街的謝榮加想要立刻開始試製果汁。
-1,TEXT_KINGLA302_04983_SEQ_01,受謝榮加委託幫忙試製果汁。製作6杯<hex:02280DFF07>ItemMP<hex:F2AB770103>，然後交給珠串萬貨街的謝榮加。<hex:02100103><hex:02100103>※收藏價值達到170時才可交納，若交納時收藏價值達到340的話，可以獲得更多報酬。
-2,TEXT_KINGLA302_04983_SEQ_02,將<hex:02280DFF07>ItemMP<hex:F2AB770103>交給了謝榮加。為了下一次試製果汁，繼續磨鍊技藝。
-3,TEXT_KINGLA302_04983_SEQ_03,
-4,TEXT_KINGLA302_04983_SEQ_04,
-5,TEXT_KINGLA302_04983_SEQ_05,
-6,TEXT_KINGLA302_04983_SEQ_06,
-7,TEXT_KINGLA302_04983_SEQ_07,
-8,TEXT_KINGLA302_04983_SEQ_08,
-9,TEXT_KINGLA302_04983_SEQ_09,
-10,TEXT_KINGLA302_04983_SEQ_10,
-11,TEXT_KINGLA302_04983_SEQ_11,
-12,TEXT_KINGLA302_04983_SEQ_12,
-13,TEXT_KINGLA302_04983_SEQ_13,
-14,TEXT_KINGLA302_04983_SEQ_14,
-15,TEXT_KINGLA302_04983_SEQ_15,
-16,TEXT_KINGLA302_04983_SEQ_16,
-17,TEXT_KINGLA302_04983_SEQ_17,
-18,TEXT_KINGLA302_04983_SEQ_18,
-19,TEXT_KINGLA302_04983_SEQ_19,
-20,TEXT_KINGLA302_04983_SEQ_20,
-21,TEXT_KINGLA302_04983_SEQ_21,
-22,TEXT_KINGLA302_04983_SEQ_22,
-23,TEXT_KINGLA302_04983_SEQ_23,
-24,TEXT_KINGLA302_04983_TODO_00,將<hex:02280DFF07>ItemMP<hex:F2AB770103>交給謝榮加
-25,TEXT_KINGLA302_04983_TODO_01,
-26,TEXT_KINGLA302_04983_TODO_02,
-27,TEXT_KINGLA302_04983_TODO_03,
-28,TEXT_KINGLA302_04983_TODO_04,
-29,TEXT_KINGLA302_04983_TODO_05,
-30,TEXT_KINGLA302_04983_TODO_06,
-31,TEXT_KINGLA302_04983_TODO_07,
-32,TEXT_KINGLA302_04983_TODO_08,
-33,TEXT_KINGLA302_04983_TODO_09,
-34,TEXT_KINGLA302_04983_TODO_10,
-35,TEXT_KINGLA302_04983_TODO_11,
-36,TEXT_KINGLA302_04983_TODO_12,
-37,TEXT_KINGLA302_04983_TODO_13,
-38,TEXT_KINGLA302_04983_TODO_14,
-39,TEXT_KINGLA302_04983_TODO_15,
-40,TEXT_KINGLA302_04983_TODO_16,
-41,TEXT_KINGLA302_04983_TODO_17,
-42,TEXT_KINGLA302_04983_TODO_18,
-43,TEXT_KINGLA302_04983_TODO_19,
-44,TEXT_KINGLA302_04983_TODO_20,
-45,TEXT_KINGLA302_04983_TODO_21,
-46,TEXT_KINGLA302_04983_TODO_22,
-47,TEXT_KINGLA302_04983_TODO_23,
-48,TEXT_KINGLA302_04983_HALNARUK_000_000,哼哧……哼哧……<hex:02100103>莫布 沒有 意見……
-49,TEXT_KINGLA302_04983_XEEROLJA_000_005,首先我想製作面向我們輝鱗族的健康果汁。
-50,TEXT_KINGLA302_04983_XEEROLJA_000_006,因為圖萊尤拉與我們故鄉的森林相比日照較強，<hex:02100103>不少來到這裡的輝鱗族都出現了皮膚髮癢、鱗片脫落的狀況。<hex:02100103>我自己偶爾也覺得身上有些發癢。
-51,TEXT_KINGLA302_04983_XEEROLJA_000_007,對此，我想用一種叫冷園果的水果來解決這些問題。<hex:02100103>我聽佩魯佩魯族的商人說，這種從奧闊帕恰山採集的果實<hex:02100103>具有美容養顏的效果。
-52,TEXT_KINGLA302_04983_XEEROLJA_000_008,但我們輝鱗族卻並不怎麼吃冷園果。<hex:02100103>原因也很簡單，這種果實凹凸不平的表皮和柔軟的觸感<hex:02100103>與我們的鱗片很相似，實在是沒法激發食慾……
-53,TEXT_KINGLA302_04983_XEEROLJA_000_009,雖然將果肉攪碎做成果汁就能解決這個問題，<hex:02100103>但這樣一來，難免會破壞它原本的口感和味道。
-54,TEXT_KINGLA302_04983_XEEROLJA_000_011,這裡就需要<hex:022903EB0203>來研究改善這個問題的方法，<hex:02100103>試製可口的<hex:02280DFF07>ItemMP<hex:F2AB770103>。
-55,TEXT_KINGLA302_04983_XEEROLJA_100_011,圖萊尤拉的雜用商人那裡就有出售冷園果，<hex:02100103>辛苦你跑一趟，從那邊買一些。
-56,TEXT_KINGLA302_04983_XEEROLJA_000_012,因為不止要品嘗味道，還要確認一下它的功效，<hex:02100103>所以需要你準備6杯果汁，拜託你了！
-57,TEXT_KINGLA302_04983_SYSTEM_000_013,開始向謝榮加鮮榨果藝交納物品！<hex:02100103>請將委託的物品交給謝榮加，<hex:02100103>積極地做出貢獻吧！
-58,TEXT_KINGLA302_04983_SYSTEM_100_013,此外，交納的委託品需要擁有一定的收藏價值，<hex:02100103>交納高收藏價值的物品時會得到更多的報酬。<hex:02100103>現在先確認委託品列表吧！
-59,TEXT_KINGLA302_04983_HALNARUK_000_014,哼哧……哼哧……<hex:02100103>在試作品 順利完成前 莫布在這等……
-60,TEXT_KINGLA302_04983_XEEROLJA_000_015,請你用合適的調製方法，<hex:02100103>試製<hex:02280DFF07>ItemMP<hex:F2AB770103>。<hex:02100103>拜託你了！
-61,TEXT_KINGLA302_04983_XEEROLJA_000_016,好棒的果汁！我果然沒看錯人。<hex:02100103>聞起來好香啊……
-62,TEXT_KINGLA302_04983_XEEROLJA_000_017,這品質比我想的還要出色！<hex:02100103>連我周圍的空氣都充滿了甜蜜的香味！<hex:02100103>真想立刻就喝一口嘗嘗！
-63,TEXT_KINGLA302_04983_SYSTEM_000_018,交納了委託品，<hex:02100103>謝榮加實際感受到你做出了貢獻。
-64,TEXT_KINGLA302_04983_SYSTEM_000_019,今後也請繼續交納委託品，<hex:02100103>積累貢獻度！
-65,TEXT_KINGLA302_04983_XEEROLJA_000_020,你真是太棒了，<hex:022903EB0203>！<hex:02100103>試製<hex:02280DFF07>ItemMP<hex:F2AB770103>順利完成了！
-66,TEXT_KINGLA302_04983_XEEROLJA_000_021,這就是面向輝鱗族的果汁。<hex:02100103>就讓我這個輝鱗族來親自確認一下味道！
-67,TEXT_KINGLA302_04983_XEEROLJA_000_022,太、太可口了！<hex:02100103>這個果汁完美展現了冷園果濃郁甘甜的味道……<hex:02100103>不，甚至比原本的味道更好！
-68,TEXT_KINGLA302_04983_XEEROLJA_000_023,不瞞你說，我原本對冷園果也有些抵觸。<hex:02100103>它的表皮與我們輝鱗族的鱗片實在相似，因此就算知道它的功效，<hex:02100103>我也從未想過食用它。
-69,TEXT_KINGLA302_04983_XEEROLJA_000_024,不過把冷園果做成果汁，就沒有這個問題了。<hex:02100103>這樣美味又養顏的果汁，我都想每天來一杯！
-70,TEXT_KINGLA302_04983_XEEROLJA_000_025,這就是<hex:022903EB0203>作為工匠的高超技術……！<hex:02100103>請務必教我這種果汁的做法！
-71,TEXT_KINGLA302_04983_XEEROLJA_000_026,嗯嗯，原來如此……<hex:02100103>謝謝你，等下我會把製作方法記在筆記上，<hex:02100103>這樣以後我也可以製作這種果汁了。
-72,TEXT_KINGLA302_04983_XEEROLJA_100_026,對了，哈雷納魯坷要不要也來一杯嘗嘗？<hex:02100103>我也想聽聽莫布林族的感想。
-73,TEXT_KINGLA302_04983_HALNARUK_000_027,莫布 想快點 完成工作……<hex:02100103>所以不喝 也沒有意見……<hex:02100103>快點結束 採集材料……
-74,TEXT_KINGLA302_04983_XEEROLJA_000_028,唉……<hex:02100103>我是不是說錯話了？
-75,TEXT_KINGLA302_04983_XEEROLJA_000_029,讓你見笑了，<hex:02100103>一遇到這種情況，我就會懷疑是不是自己做錯了什麼。
-76,TEXT_KINGLA302_04983_XEEROLJA_100_029,他之前都拒絕過了我還這樣問，估計會覺得我有點煩人吧。<hex:02100103>但你做的果汁這麼好喝，我實在忍不住想推薦一下……
-77,TEXT_KINGLA302_04983_XEEROLJA_000_030,不論如何，這次的試製品非常圓滿！<hex:02100103>作為商品出售完全沒問題！
-78,TEXT_KINGLA302_04983_XEEROLJA_000_031,雖然我不擅長給冷園果去皮，<hex:02100103>但一想到客人們嘗到果汁的情景，就充滿了幹勁！
-79,TEXT_KINGLA302_04983_XEEROLJA_000_032,下次就要製作面向其他種族的健康果汁了。<hex:02100103><hex:022903EB0203>也多熟悉熟悉圖拉爾大陸的食材，<hex:02100103>繼續磨鍊技術，為下次試製果汁做準備吧！
-80,TEXT_KINGLA302_04983_SYSTEM_000_033,謝榮加鮮榨果藝的貢獻等級提高了！<hex:02100103>謝榮加認為你是異國的優秀調合工匠！
-81,TEXT_KINGLA302_04983_SYSTEM_000_040,另外，煉金術士或烹調師的等級達到93級以上時，<hex:02100103>可以從珠串萬貨街的謝榮加那裡領取下一個任務。
-82,TEXT_KINGLA302_04983_XEEROLJA_000_010,（★未使用／削除予定★）
+0,"TEXT_KINGLA302_04983_SEQ_00","Xeerol Ja is excited to get juicing."
+1,"TEXT_KINGLA302_04983_SEQ_01","Xeerol Ja has tasked you with creating cherimoya juice.<hex:02100103><hex:02100103>※Minimum collectability rating for this delivery is 170. Delivering items with a rating of 340 or more will earn greater rewards."
+2,"TEXT_KINGLA302_04983_SEQ_02","You deliver the cherimoya juice to Xeerol Ja. She tells you to continue familiarizing with the local agriculture while she considers her next concoction."
+3,"TEXT_KINGLA302_04983_SEQ_03",""
+4,"TEXT_KINGLA302_04983_SEQ_04",""
+5,"TEXT_KINGLA302_04983_SEQ_05",""
+6,"TEXT_KINGLA302_04983_SEQ_06",""
+7,"TEXT_KINGLA302_04983_SEQ_07",""
+8,"TEXT_KINGLA302_04983_SEQ_08",""
+9,"TEXT_KINGLA302_04983_SEQ_09",""
+10,"TEXT_KINGLA302_04983_SEQ_10",""
+11,"TEXT_KINGLA302_04983_SEQ_11",""
+12,"TEXT_KINGLA302_04983_SEQ_12",""
+13,"TEXT_KINGLA302_04983_SEQ_13",""
+14,"TEXT_KINGLA302_04983_SEQ_14",""
+15,"TEXT_KINGLA302_04983_SEQ_15",""
+16,"TEXT_KINGLA302_04983_SEQ_16",""
+17,"TEXT_KINGLA302_04983_SEQ_17",""
+18,"TEXT_KINGLA302_04983_SEQ_18",""
+19,"TEXT_KINGLA302_04983_SEQ_19",""
+20,"TEXT_KINGLA302_04983_SEQ_20",""
+21,"TEXT_KINGLA302_04983_SEQ_21",""
+22,"TEXT_KINGLA302_04983_SEQ_22",""
+23,"TEXT_KINGLA302_04983_SEQ_23",""
+24,"TEXT_KINGLA302_04983_TODO_00","Deliver cherimoya juice to Xeerol Ja."
+25,"TEXT_KINGLA302_04983_TODO_01",""
+26,"TEXT_KINGLA302_04983_TODO_02",""
+27,"TEXT_KINGLA302_04983_TODO_03",""
+28,"TEXT_KINGLA302_04983_TODO_04",""
+29,"TEXT_KINGLA302_04983_TODO_05",""
+30,"TEXT_KINGLA302_04983_TODO_06",""
+31,"TEXT_KINGLA302_04983_TODO_07",""
+32,"TEXT_KINGLA302_04983_TODO_08",""
+33,"TEXT_KINGLA302_04983_TODO_09",""
+34,"TEXT_KINGLA302_04983_TODO_10",""
+35,"TEXT_KINGLA302_04983_TODO_11",""
+36,"TEXT_KINGLA302_04983_TODO_12",""
+37,"TEXT_KINGLA302_04983_TODO_13",""
+38,"TEXT_KINGLA302_04983_TODO_14",""
+39,"TEXT_KINGLA302_04983_TODO_15",""
+40,"TEXT_KINGLA302_04983_TODO_16",""
+41,"TEXT_KINGLA302_04983_TODO_17",""
+42,"TEXT_KINGLA302_04983_TODO_18",""
+43,"TEXT_KINGLA302_04983_TODO_19",""
+44,"TEXT_KINGLA302_04983_TODO_20",""
+45,"TEXT_KINGLA302_04983_TODO_21",""
+46,"TEXT_KINGLA302_04983_TODO_22",""
+47,"TEXT_KINGLA302_04983_TODO_23",""
+48,"TEXT_KINGLA302_04983_HALNARUK_000_000","Pfff... Pfffkohhh... What?"
+49,"TEXT_KINGLA302_04983_XEEROLJA_000_005","For our first juice, I'd like to try mixing up a blend for my fellow Mamool Ja."
+50,"TEXT_KINGLA302_04983_XEEROLJA_000_006","Tuliyollal gets far more sunlight than our native lands, so we find ourselves prone to dry, itchy scales. It can be sheer torture some days!"
+51,"TEXT_KINGLA302_04983_XEEROLJA_000_007","Luckily, the cherimoya fruit harvested from Urqopacha may offer a solution. According to Pelupelu merchants, regular consumption does wonders for dry skin."
+52,"TEXT_KINGLA302_04983_XEEROLJA_000_008","The only complication is that, in appearance and texture, cherimoya very much resembles Mamool Ja scales. Hard to garner appetite for something that looks like a piece of your body."
+53,"TEXT_KINGLA302_04983_XEEROLJA_000_009","If it were any other fruit, I'd think to extract the liquid from within─but not only is most of cherimoya's flavor kept in its pulp, its nutrients are as well. "
+54,"TEXT_KINGLA302_04983_XEEROLJA_000_011","Perhaps you can find a way around this conundrum, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>? See if you can't make a cherimoya juice both healing and appetizing to Mamool Ja!"
+55,"TEXT_KINGLA302_04983_XEEROLJA_100_011","Now, I'm afraid I don't keep cherimoya on hand─the sight alone is enough to make me queasy─but I've seen it for sale in Bayside Bevy."
+56,"TEXT_KINGLA302_04983_XEEROLJA_000_012","We'll be testing for flavor and efficacy both, so make a big batch if you can─six glasses or so. Thank you, and good luck!"
+57,"TEXT_KINGLA302_04983_SYSTEM_000_013","You may now undertake deliveries for Xeerol Ja Juicecraft. By delivering the requested items to Xeerol Ja and raising yourself in her esteem, you can help her turn her failing business around."
+58,"TEXT_KINGLA302_04983_SYSTEM_100_013","Items with a higher collectability will result in greater rewards upon delivery. Speak to Xeerol Ja to view the delivery list."
+59,"TEXT_KINGLA302_04983_HALNARUK_000_014","Pfff... Pfffkohhh... Is juicymix done yet? Halnaruk is bored."
+60,"TEXT_KINGLA302_04983_XEEROLJA_000_015","Delicious, nutritious cherimoya juice that Mamool Ja can not only stomach but delight in. I'm sure you'll come up with something!"
+61,"TEXT_KINGLA302_04983_XEEROLJA_000_016","Oooh, it smells so sweet! You've done excellent work."
+62,"TEXT_KINGLA302_04983_XEEROLJA_000_017","This consistency...this <hex:021A020203>aroma<hex:021A020103>! Why, it's so sweet, I'm tempted to steal a sip right away!"
+63,"TEXT_KINGLA302_04983_SYSTEM_000_018","In making your first successful delivery, you have begun to earn Xeerol Ja's trust."
+64,"TEXT_KINGLA302_04983_SYSTEM_000_019","Deliver the items Xeerol Ja needs, and deliver them often to improve the prospects of Xeerol Ja Juicecraft!"
+65,"TEXT_KINGLA302_04983_XEEROLJA_000_020","I think we have enough to begin our tasting. It all looks and smells marvelous, anyway."
+66,"TEXT_KINGLA302_04983_XEEROLJA_000_021","As we fashioned this drink with Mamool Ja in mind, allow me to be the first to try it..."
+67,"TEXT_KINGLA302_04983_XEEROLJA_000_022","Exquisite! Thick with the cherimoya's signature sweetness and aroma, yet utterly smooth in texture!"
+68,"TEXT_KINGLA302_04983_XEEROLJA_000_023","No one would ever guess this juice came from a fruit so wholly unappetizing in appearance..."
+69,"TEXT_KINGLA302_04983_XEEROLJA_000_024","Yes, I can safely say that no Mamool Ja could find qualms with this beverage─I myself would happily drink it daily. And with its nutritional benefits, peeling scales may become a thing of the past!"
+70,"TEXT_KINGLA302_04983_XEEROLJA_000_025","Please, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>─you simply <hex:021A020203>must<hex:021A020103> tell me how you made this!"
+71,"TEXT_KINGLA302_04983_XEEROLJA_000_026","So that's the trick! I see... I'll pen a proper recipe later so I won't forget. Fortunately, it sounds like one that even I could manage."
+72,"TEXT_KINGLA302_04983_XEEROLJA_100_026","Can I interest you in a glass, Halnaruk? I'd love to hear what Moblins think of cherimoya's flavor."
+73,"TEXT_KINGLA302_04983_HALNARUK_000_027","Busytask is waiting, juicekeep. Halnaruk has no time for tastesipping."
+74,"TEXT_KINGLA302_04983_XEEROLJA_000_028","Er...did I offend him?"
+75,"TEXT_KINGLA302_04983_XEEROLJA_000_029","P-Pay me no mind, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Sometimes I get caught up thinking...well...I just wonder how I might have done better. "
+76,"TEXT_KINGLA302_04983_XEEROLJA_100_029","I know I shouldn't pester him about it. The juice you made is just so lovely, I... <sigh>"
+77,"TEXT_KINGLA302_04983_XEEROLJA_000_030","In any case, I'd say your prototype passes muster. Our menu has its first new item!"
+78,"TEXT_KINGLA302_04983_XEEROLJA_000_031","I'll have to peel a lot of cherimoya, but I will keep the happiness of my newly moisturized kin at the forefront of my mind!"
+79,"TEXT_KINGLA302_04983_XEEROLJA_000_032","I'll consider what sort of juice I'd like to make next, so perhaps you could familiarize yourself with our local agriculture in the meantime. And if you ever find yourself in need of a refreshing beverage, you know where to look!"
+80,"TEXT_KINGLA302_04983_SYSTEM_000_033","Xeerol Ja is pleased with your efforts. She now considers you a <hex:024804F201F403><hex:024904F201F503>Mamool Ja Moisturizer<hex:0249020103><hex:0248020103>!"
+81,"TEXT_KINGLA302_04983_SYSTEM_000_040","The next request will be available from Xeerol Ja upon reaching level 93 as an alchemist or culinarian."
+82,"TEXT_KINGLA302_04983_XEEROLJA_000_010",""

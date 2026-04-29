@@ -2,113 +2,113 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_CLSMIN630_02555_SEQ_00,田園郡的諾諾瓦特想拜託冒險者採集礦石。
-1,TEXT_CLSMIN630_02555_SEQ_01,和諾諾瓦特進行了交談。為了了解詳細情況，和斯提克奇克斯工房的斯提克奇克斯談談。
-2,TEXT_CLSMIN630_02555_SEQ_02,和斯提克奇克斯進行了交談。原來由於研究員之間的爭吵，裝甲開發工作停滯不前。為了得知爭吵的原因，和斯提克奇克斯工房的克瑞斯特利姆和福克威達談談。
-3,TEXT_CLSMIN630_02555_SEQ_03,和克瑞斯特利姆與福克威達進行了交談。兩個人就裝甲應該重視物理還是魔法防禦力爭論不休。向斯提克奇克斯工房的斯提克奇克斯報告。
-4,TEXT_CLSMIN630_02555_SEQ_04,向斯提克奇克斯報告完畢。他為了解決爭端，拜託冒險者採集<hex:02280BFF05>Item<hex:F246150103>。將20個<hex:02280BFF05>Item<hex:F246150103>交給斯提克奇克斯工房的斯提克奇克斯。<hex:02280BFF05>Item<hex:F246150103>可以在基拉巴尼亞邊區條紋丘的礦脈挖掘到。
-5,TEXT_CLSMIN630_02555_SEQ_05,將<hex:02280BFF05>Item<hex:F246150103>交給了斯提克奇克斯。他用<hex:02280BFF05>Item<hex:F246150103>做成合金，給克瑞斯特利姆和福克威達看，啟發兩人開發同時擁有物理和魔法防禦力的裝甲。兩人決定齊心協力開發裝甲。和乙太之光廣場的諾諾瓦特談談。
-6,TEXT_CLSMIN630_02555_SEQ_06,和諾諾瓦特進行了交談。在下次任務到來之前，繼續鍛鍊自己採礦工的技術。<hex:02100103><hex:02100103>※採礦工的等級達到65級以上時，可以從田園郡的諾諾瓦特那裡領取下一個採礦工任務。
-7,TEXT_CLSMIN630_02555_SEQ_07,
-8,TEXT_CLSMIN630_02555_SEQ_08,
-9,TEXT_CLSMIN630_02555_SEQ_09,
-10,TEXT_CLSMIN630_02555_SEQ_10,
-11,TEXT_CLSMIN630_02555_SEQ_11,
-12,TEXT_CLSMIN630_02555_SEQ_12,
-13,TEXT_CLSMIN630_02555_SEQ_13,
-14,TEXT_CLSMIN630_02555_SEQ_14,
-15,TEXT_CLSMIN630_02555_SEQ_15,
-16,TEXT_CLSMIN630_02555_SEQ_16,
-17,TEXT_CLSMIN630_02555_SEQ_17,
-18,TEXT_CLSMIN630_02555_SEQ_18,
-19,TEXT_CLSMIN630_02555_SEQ_19,
-20,TEXT_CLSMIN630_02555_SEQ_20,
-21,TEXT_CLSMIN630_02555_SEQ_21,
-22,TEXT_CLSMIN630_02555_SEQ_22,
-23,TEXT_CLSMIN630_02555_SEQ_23,
-24,TEXT_CLSMIN630_02555_TODO_00,和斯提克奇克斯對話
-25,TEXT_CLSMIN630_02555_TODO_01,和克瑞斯特利姆對話
-26,TEXT_CLSMIN630_02555_TODO_02,和福克威達對話
-27,TEXT_CLSMIN630_02555_TODO_03,向斯提克奇克斯報告
-28,TEXT_CLSMIN630_02555_TODO_04,<hex:02086EE3E802E803FF21>在條紋丘採掘<hex:02280BFF05>Item<hex:F246150103><hex:FF45>將<hex:02280BFF05>Item<hex:F246150103>交給斯提克奇克斯工房的斯提克奇克斯<hex:03>
-29,TEXT_CLSMIN630_02555_TODO_05,和諾諾瓦特對話
-30,TEXT_CLSMIN630_02555_TODO_06,
-31,TEXT_CLSMIN630_02555_TODO_07,
-32,TEXT_CLSMIN630_02555_TODO_08,
-33,TEXT_CLSMIN630_02555_TODO_09,
-34,TEXT_CLSMIN630_02555_TODO_10,
-35,TEXT_CLSMIN630_02555_TODO_11,
-36,TEXT_CLSMIN630_02555_TODO_12,
-37,TEXT_CLSMIN630_02555_TODO_13,
-38,TEXT_CLSMIN630_02555_TODO_14,
-39,TEXT_CLSMIN630_02555_TODO_15,
-40,TEXT_CLSMIN630_02555_TODO_16,
-41,TEXT_CLSMIN630_02555_TODO_17,
-42,TEXT_CLSMIN630_02555_TODO_18,
-43,TEXT_CLSMIN630_02555_TODO_19,
-44,TEXT_CLSMIN630_02555_TODO_20,
-45,TEXT_CLSMIN630_02555_TODO_21,
-46,TEXT_CLSMIN630_02555_TODO_22,
-47,TEXT_CLSMIN630_02555_TODO_23,
-48,TEXT_CLSMIN630_02555_NONOWATO_000_001,採礦工，你來得正好！<hex:02100103>我們已經選出讓你去採哪種礦石了！
-49,TEXT_CLSMIN630_02555_NONOWATO_000_002,主任會親口向你交待的，<hex:02100103>我這就帶你去工房，這邊請！
-50,TEXT_CLSMIN630_02555_NONOWATO_000_003,採礦工，不好意思！<hex:02100103>工房出了一點問題，你去找主任問問詳情吧。
-51,TEXT_CLSMIN630_02555_KRYSTRYMM_000_004,氣死我了！<hex:02100103>福克威達怎麼這麼固執！
-52,TEXT_CLSMIN630_02555_ZANSEI_000_005,總感覺氣氛好像不對勁？<hex:02100103>我還有自己的工作要做，<hex:02100103>希望不要打擾到我就好。
-53,TEXT_CLSMIN630_02555_FOHCWYDA_000_006,克瑞斯特利姆完全聽不進去別人的話！<hex:02100103>明明我才是正確的！
-54,TEXT_CLSMIN630_02555_STACKBLOX_000_007,呼哧……呼哧……<hex:02100103>哥布 現在忙於工作！<hex:02100103>不想 給人類勸架！
-55,TEXT_CLSMIN630_02555_STICKQIX_000_010,呼哧……呼哧……<hex:02100103>你來了啊。<hex:02100103>不好意思，現在出了一點小問題，請稍等一會……
-56,TEXT_CLSMIN630_02555_STICKQIX_000_011,等等……說不定從第三者的角度來看這件事比較好……<hex:02100103>雖然拜託採礦工這種事有點奇怪，但能請你幫個忙嗎？
-57,TEXT_CLSMIN630_02555_STICKQIX_000_012,我們想拜託你採集用在裝甲上的礦石，<hex:02100103>但現在負責裝甲的研究員吵起來了。<hex:02100103>也不聽我說的，開發處於停滯狀態。
-58,TEXT_CLSMIN630_02555_STICKQIX_000_013,但如果是採礦工的話他們說不定會聽。<hex:02100103>希望你去問問那兩個吵架的研究員為什麼會吵起來。
-59,TEXT_CLSMIN630_02555_STICKQIX_000_014,呼哧……呼哧……<hex:02100103>謝謝，幫大忙了。
-60,TEXT_CLSMIN630_02555_STICKQIX_000_015,吵架的是克瑞斯特利姆和福克威達。<hex:02100103>請你去問問他們原因吧。
-61,TEXT_CLSMIN630_02555_STICKQIX_000_016,呼哧……呼哧……<hex:02100103>請你去問問克瑞斯特利姆和福克威達。<hex:02100103>查出他們吵架的原因吧。
-62,TEXT_CLSMIN630_02555_NONOWATO_000_017,不好意思，採礦工！<hex:02100103>工房的大家都比較頑固……不，都堅信自己的想法……
-63,TEXT_CLSMIN630_02555_KRYSTRYMM_000_020,是採礦工啊。<hex:02100103>你問我為什麼和福克威達吵架？<hex:02100103>算了，告訴你這個第三者也無妨。
-64,TEXT_CLSMIN630_02555_KRYSTRYMM_000_021,蒸汽動力壓路機是要在魔物橫行的龍堡內陸低地使用的。<hex:02100103>所以必須要有經得住物理攻擊的堅固裝甲才行。
-65,TEXT_CLSMIN630_02555_KRYSTRYMM_000_022,但是福克威達竟然說不需要物理裝甲！<hex:02100103>為了從魔物的攻擊中保護駕駛員，堅固的裝甲明明是不可或缺的！
-66,TEXT_CLSMIN630_02555_KRYSTRYMM_000_023,我沒法和想法相差如此之多的人共事。<hex:02100103>我會堅持到那傢伙改變主意為止。
-67,TEXT_CLSMIN630_02555_FOHCWYDA_000_030,是你啊。<hex:02100103>如果你打算來給我們勸架，我是不會聽的。<hex:02100103>這可是有關於蒸汽動力壓路機裝甲的問題。
-68,TEXT_CLSMIN630_02555_FOHCWYDA_000_031,其實理由很簡單。<hex:02100103>我的意見才是正確的，裝甲必須要重視魔法防禦力。
-69,TEXT_CLSMIN630_02555_FOHCWYDA_000_032,野生的魔物也有很多會用魔法攻擊的種類。<hex:02100103>所以新型裝甲材料必須要有魔法耐性！<hex:02100103>但克瑞斯特利姆這傢伙一點都不懂！
-70,TEXT_CLSMIN630_02555_FOHCWYDA_000_033,不好意思，對你發了牢騷。<hex:02100103>不過在那傢伙改變主意之前，我是不會工作的。
-71,TEXT_CLSMIN630_02555_KRYSTRYMM_000_040,我不能和輕視物理裝甲的傢伙一起開發。<hex:02100103>我會堅持到那傢伙改變主意為止。
-72,TEXT_CLSMIN630_02555_FOHCWYDA_000_041,在克瑞斯特利姆承認魔法裝甲的重要性之前，<hex:02100103>我是不會工作的。
-73,TEXT_CLSMIN630_02555_STICKQIX_000_050,呼哧……呼哧……<hex:02100103>原來如此，是這樣啊……<hex:02100103>多謝你幫忙，採礦工。
-74,TEXT_CLSMIN630_02555_STICKQIX_000_051,但這個問題好棘手啊。<hex:02100103>雙方都固執己見，而且各有各的道理……<hex:02100103>諾諾瓦特你怎麼想？
-75,TEXT_CLSMIN630_02555_NONOWATO_000_052,啊，咦？！<hex:02100103>要是雙方都沒有錯就都採用……<hex:02100103>但正是因為做不到才會吵架的對吧……
-76,TEXT_CLSMIN630_02555_STICKQIX_000_053,呼哧……呼哧……<hex:02100103>開發就是化不可能為可能。<hex:02100103>諾諾瓦特說的沒錯，我們雙方都要採用！
-77,TEXT_CLSMIN630_02555_STICKQIX_000_054,採礦工，能請你採<hex:02280BFF05>Item<hex:F246150103>來嗎？<hex:02100103>數量……有20個就夠了。
-78,TEXT_CLSMIN630_02555_STICKQIX_000_055,要用來做什麼？<hex:02100103>等你拿來就知道了。
-79,TEXT_CLSMIN630_02555_STICKQIX_000_056,根據薩雷安的記錄，<hex:02100103><hex:02280BFF05>Item<hex:F246150103>的礦床應該位於基拉巴尼亞邊區的條紋丘。<hex:02100103>就拜託你了。
-80,TEXT_CLSMIN630_02555_NONOWATO_000_057,請你在條紋丘的礦脈上採集20個<hex:02280BFF05>Item<hex:F246150103>！<hex:02100103>拜託你了！
-81,TEXT_CLSMIN630_02555_STICKQIX_000_070,呼哧……呼哧……<hex:02100103>你採到<hex:02280BFF05>Item<hex:F246150103>了嗎？
-82,TEXT_CLSMIN630_02555_STICKQIX_000_071,這麼快就採集完了！<hex:02100103>品質和數量也都合格了。<hex:02100103>諾諾瓦特，你去叫那兩個人過來。
-83,TEXT_CLSMIN630_02555_KRYSTRYMM_000_080,諾諾瓦特叫我和福克威達一起過來，<hex:02100103>主任，到底有什麼事？
-84,TEXT_CLSMIN630_02555_STICKQIX_000_081,呼哧……呼哧……<hex:02100103>你們看這個合金。
-85,TEXT_CLSMIN630_02555_FOHCWYDA_000_082,這是？
-86,TEXT_CLSMIN630_02555_STICKQIX_000_083,呼哧……呼哧……<hex:02100103>這是我用採礦工採來的<hex:02280BFF05>Item<hex:F246150103>做成的合金。<hex:02100103>它的乙太傳導率非常低。
-87,TEXT_CLSMIN630_02555_FOHCWYDA_000_084,乙太傳導率低就意味著魔法防禦力很高……<hex:02100103>也就是說，採用了我的方案對吧！
-88,TEXT_CLSMIN630_02555_KRYSTRYMM_000_085,怎麼這樣？！<hex:02100103>那被大型的魔物一撞可就不得了了！
-89,TEXT_CLSMIN630_02555_STICKQIX_000_086,呼哧……呼哧……<hex:02100103>你們兩人先別這麼著急。<hex:02100103>如果把這個合金做成板金，夾在普通的金屬板金中間會如何？
-90,TEXT_CLSMIN630_02555_KRYSTRYMM_000_087,把兩種不同特性的金屬夾在一起？<hex:02100103>雖然這樣雖然能獲得足夠的防禦性能，<hex:02100103>但裝甲厚度和重量並不足以實用化！
-91,TEXT_CLSMIN630_02555_STICKQIX_000_088,不，我相信你們兩人齊心協力，能夠做出實用化的產品，<hex:02100103>用這兩種金屬開發出擁有物理和魔法防禦力的新裝甲。<hex:02100103>採礦工你也這麼覺得吧？
-92,TEXT_CLSMIN630_02555_KRYSTRYMM_000_089,……
-93,TEXT_CLSMIN630_02555_FOHCWYDA_000_090,只是把金屬板夾在一起並不能解決問題嗎……<hex:02100103>要同時考慮物理、魔法防禦力和裝甲厚度及重量，<hex:02100103>看來需要從板金的加工方法開始考慮！
-94,TEXT_CLSMIN630_02555_KRYSTRYMM_000_091,需要讓兩塊不同的金屬板像一片裝甲那樣融合在一起的加工技術。<hex:02100103>看來我們沒有時間吵架了，福克威達。
-95,TEXT_CLSMIN630_02555_FOHCWYDA_000_092,沒錯！<hex:02100103>反正要較勁還不如在新技術開發上較勁！<hex:02100103>克瑞斯特利姆，讓我們聯起手來讓主任大吃一驚吧！
-96,TEXT_CLSMIN630_02555_NONOWATO_000_093,不愧是主任！<hex:02100103>成功解決了爭端呢！
-97,TEXT_CLSMIN630_02555_STICKQIX_000_094,呼哧……呼哧……<hex:02100103>不，這都是多虧了採礦工採來的礦石。<hex:02100103>謝謝你，辛苦了！
-98,TEXT_CLSMIN630_02555_NONOWATO_000_095,我也要謝謝你！<hex:02100103>我們去外面談談關於今後的計劃吧！
-99,TEXT_CLSMIN630_02555_STICKQIX_000_096,呼哧……呼哧……<hex:02100103>謝謝你，採礦工。<hex:02100103>下次工作也拜託你了！
-100,TEXT_CLSMIN630_02555_FOHCWYDA_000_097,這次給你添了麻煩，真是對不住。<hex:02100103>為了不讓你採來的礦石白費，<hex:02100103>我發誓會完成新裝甲的開發！
-101,TEXT_CLSMIN630_02555_FOHCWYDA_000_098,不好意思，給你添麻煩了。<hex:02100103>接下來我們會齊心協力進行裝甲開發的。<hex:02100103>絕對不會讓你失望。
-102,TEXT_CLSMIN630_02555_ZANSEI_000_099,吵架結束了？<hex:02100103>太好了，這下子就能集中精力進行研究了。
-103,TEXT_CLSMIN630_02555_STACKBLOX_000_100,呼哧……呼哧……<hex:02100103>哥布的工作 進展順利！<hex:02100103>沒有時間 管那些閒事。研究需要 更加努力！
-104,TEXT_CLSMIN630_02555_NONOWATO_000_110,採礦工，這次真是多虧你了！<hex:02100103>謝謝你阻止了他們兩人的爭吵！
-105,TEXT_CLSMIN630_02555_NONOWATO_000_111,拜託你份外的事真是對不起！<hex:02100103>他們兩個人都是很厲害的工匠，所以有時意見會不合……
-106,TEXT_CLSMIN630_02555_NONOWATO_000_112,不好意思，跟你發了牢騷！<hex:02100103>現在暫且沒有拜託給你的工作了，<hex:02100103>過一段時間再來找我吧！
-107,TEXT_CLSMIN630_02555_SYSTEM_000_120,
-108,TEXT_CLSMIN630_02555_STICKQIX_000_084,（★未使用／削除予定★）
-109,TEXT_CLSMIN630_02555_FOHCWYDA_000_085,（★未使用／削除予定★）
+0,"TEXT_CLSMIN630_02555_SEQ_00","With the formalities now out of the way, Nonowato would have you do some mining."
+1,"TEXT_CLSMIN630_02555_SEQ_01","Nonowato informs you that he has at last finished compiling his long list of minerals. He proceeds to tease you with the exciting prospect of actual work, before noting that Stickqix wishes to brief you himself first. To that end, Nonowato leads you in the direction of the Bangpots."
+2,"TEXT_CLSMIN630_02555_SEQ_02","Regrettably, Stickqix's hands are full with other matters and he is unable to give you anything approaching an adequate briefing. You discover that his two Roegadyn workers are in the midst of a spat, bringing work on the Gobroller to a total standstill. Stickqix sheepishly asks if you would not mind intervening on his behalf to help solve the dispute. "
+3,"TEXT_CLSMIN630_02555_SEQ_03","You patiently listen to each worker's gripes and soon discover the cause of the dispute. Krystrymm is of the opinion that the vehicle needs to be outfitted with sturdy armor built to withstand physical attacks. Fohcwyda, on the other hand, believes that magic is the greatest threat to the Gobroller and would see it fitted with the appropriate protection. You go over what you have heard and ready yourself to give a summary to Stickqix."
+4,"TEXT_CLSMIN630_02555_SEQ_04","You explain to Stickqix just why his workers are butting heads. He remarks that he may have an idea as to how this dispute can be resolved, but says it will require a certain mineral. The chief asks you to mine twenty chunks of beggar's mythril ore from the Striped Hills in Gyr Abania."
+5,"TEXT_CLSMIN630_02555_SEQ_05","Stickqix uses the minerals you procured on his behalf to create an ingot, which he shows to Krystrymm and Fohcwyda. The two of them are tasked with using this metal to create armor resistant to both magical and physical attacks. The fight finished, you choose to join Nonowato outside to discuss future work."
+6,"TEXT_CLSMIN630_02555_SEQ_06","Nonowato unreservedly apologizes for the actions of his colleagues and encourages you to rest up well before your help is required again. You decide to follow his advice while continuing to hone your mining skills on the side.<hex:02100103><hex:02100103>※The next miner quest will be available from Nonowato upon reaching level 65."
+7,"TEXT_CLSMIN630_02555_SEQ_07",""
+8,"TEXT_CLSMIN630_02555_SEQ_08",""
+9,"TEXT_CLSMIN630_02555_SEQ_09",""
+10,"TEXT_CLSMIN630_02555_SEQ_10",""
+11,"TEXT_CLSMIN630_02555_SEQ_11",""
+12,"TEXT_CLSMIN630_02555_SEQ_12",""
+13,"TEXT_CLSMIN630_02555_SEQ_13",""
+14,"TEXT_CLSMIN630_02555_SEQ_14",""
+15,"TEXT_CLSMIN630_02555_SEQ_15",""
+16,"TEXT_CLSMIN630_02555_SEQ_16",""
+17,"TEXT_CLSMIN630_02555_SEQ_17",""
+18,"TEXT_CLSMIN630_02555_SEQ_18",""
+19,"TEXT_CLSMIN630_02555_SEQ_19",""
+20,"TEXT_CLSMIN630_02555_SEQ_20",""
+21,"TEXT_CLSMIN630_02555_SEQ_21",""
+22,"TEXT_CLSMIN630_02555_SEQ_22",""
+23,"TEXT_CLSMIN630_02555_SEQ_23",""
+24,"TEXT_CLSMIN630_02555_TODO_00","Speak with Stickqix."
+25,"TEXT_CLSMIN630_02555_TODO_01","Speak with Krystrymm."
+26,"TEXT_CLSMIN630_02555_TODO_02","Speak with Fohcwyda."
+27,"TEXT_CLSMIN630_02555_TODO_03","Report to Stickqix."
+28,"TEXT_CLSMIN630_02555_TODO_04","<hex:02086EE3E802E803FF2F>Mine beggar's mythril ore on the Striped Hills<hex:FF37>Deliver the chunks of beggar's mythril ore to Stickqix<hex:03>."
+29,"TEXT_CLSMIN630_02555_TODO_05","Speak with Nonowato."
+30,"TEXT_CLSMIN630_02555_TODO_06",""
+31,"TEXT_CLSMIN630_02555_TODO_07",""
+32,"TEXT_CLSMIN630_02555_TODO_08",""
+33,"TEXT_CLSMIN630_02555_TODO_09",""
+34,"TEXT_CLSMIN630_02555_TODO_10",""
+35,"TEXT_CLSMIN630_02555_TODO_11",""
+36,"TEXT_CLSMIN630_02555_TODO_12",""
+37,"TEXT_CLSMIN630_02555_TODO_13",""
+38,"TEXT_CLSMIN630_02555_TODO_14",""
+39,"TEXT_CLSMIN630_02555_TODO_15",""
+40,"TEXT_CLSMIN630_02555_TODO_16",""
+41,"TEXT_CLSMIN630_02555_TODO_17",""
+42,"TEXT_CLSMIN630_02555_TODO_18",""
+43,"TEXT_CLSMIN630_02555_TODO_19",""
+44,"TEXT_CLSMIN630_02555_TODO_20",""
+45,"TEXT_CLSMIN630_02555_TODO_21",""
+46,"TEXT_CLSMIN630_02555_TODO_22",""
+47,"TEXT_CLSMIN630_02555_TODO_23",""
+48,"TEXT_CLSMIN630_02555_NONOWATO_000_001","Ah, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! Truly, your timing is impeccable. I finished writing up the list of minerals not a few moments ago!"
+49,"TEXT_CLSMIN630_02555_NONOWATO_000_002","I would love to hand it over to you, but Chief Stickqix said he was keen to see that you were properly briefed first. Please follow me to the Bangpots!"
+50,"TEXT_CLSMIN630_02555_NONOWATO_000_003","Oh, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! I, um, there's been a slight complication, you see. I think the chief is best placed to explain things to you!"
+51,"TEXT_CLSMIN630_02555_KRYSTRYMM_000_004","All I can say is I'm glad most Roegadyn women don't have heads as hard as Fohcwyda's!"
+52,"TEXT_CLSMIN630_02555_ZANSEI_000_005","Feels like things are heating up in here! Or is that just the molten metal behind me?"
+53,"TEXT_CLSMIN630_02555_FOHCWYDA_000_006","Honestly, has anyone actually checked that Krystrymm isn't all brawn and no brains?"
+54,"TEXT_CLSMIN630_02555_STACKBLOX_000_007","Pshhh... Shkohhh... Addlebrained workers give Stackblox the shiveryshakes! Stackblox needs quiet to do good sweatworking."
+55,"TEXT_CLSMIN630_02555_STICKQIX_000_010","Pshhh... Shkohhh... You have my thanks for coming. Regrettably, it is not the best of times─pray wait a moment."
+56,"TEXT_CLSMIN630_02555_STICKQIX_000_011","Or mayhap you, as an outsider, would be best suited to solve this conundrum. I know this is not quite what we requested your services for, but would you mind granting us your succor, <hex:020816E905FF09>old girl<hex:FF08>old boy<hex:03>?"
+57,"TEXT_CLSMIN630_02555_STICKQIX_000_012","Originally, I had planned to ask that you mine materials required for the construction of the Gobroller's armor. However, work has come to a screeching halt thanks to Krystrymm and Fohcwyda deciding that their time would be better served arguing."
+58,"TEXT_CLSMIN630_02555_STICKQIX_000_013","But something tells me that you might just be the one to make them see eye to eye once more! I would be eternally grateful if you could speak with them and unearth the cause of this fissure."
+59,"TEXT_CLSMIN630_02555_STICKQIX_000_014","Pshhh... Shkohhh... I am ever in your debt, noble miner."
+60,"TEXT_CLSMIN630_02555_STICKQIX_000_015","The rest I leave up to you. You have my full confidence!"
+61,"TEXT_CLSMIN630_02555_STICKQIX_000_016","Pshhh... Shkohhh... Pray speak to Krystrymm and Fohcwyda and find out just what has gotten them so agitated."
+62,"TEXT_CLSMIN630_02555_NONOWATO_000_017","My sincerest apologies, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! Our team are incredibly stu—strong-willed.<hex:02100103>...Rather stubbornly so."
+63,"TEXT_CLSMIN630_02555_KRYSTRYMM_000_020","Ah, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. What's that? You've heard that Fohcwyda and I haven't been on the best of terms lately? Well, I suppose that's one way of putting it."
+64,"TEXT_CLSMIN630_02555_KRYSTRYMM_000_021","We'll be using the Gobroller in the Dravanian hinterlands, an area rife with all kinds of vile beasts. And what do vile beasts do? They attack. Ferociously."
+65,"TEXT_CLSMIN630_02555_KRYSTRYMM_000_022","Ask anyone in Idyllshire and they'd tell you the machine needs heavy armor capable of withstanding physical attacks. Anyone except Fohcwyda anyway. She's gotten it into her head for some bloody reason that claws and fangs don't warrant fortified defenses."
+66,"TEXT_CLSMIN630_02555_KRYSTRYMM_000_023","Absolutely no clue how the chief expects me to work with someone who, never mind the forest, can't even see the trees surrounded by monsters in the hinterlands!"
+67,"TEXT_CLSMIN630_02555_FOHCWYDA_000_030","If you are here about a certain quarrel then you may as well just leave now. I would not expect a miner to understand the complexities of armor design."
+68,"TEXT_CLSMIN630_02555_FOHCWYDA_000_031","That being said, it is hardly a complicated matter. My point is simple: we need to equip the Gobroller with ample protection against magic. That loggerhead simply needs to acquiesce and we can resume our work once more."
+69,"TEXT_CLSMIN630_02555_FOHCWYDA_000_032","As I am sure you have noted during your adventures, these lands have their fair share of fantastic beasts that wield deadly magic. This is precisely why I am of the mind that we need to ensure our machine is protected against such threats! How can he think otherwise?"
+70,"TEXT_CLSMIN630_02555_FOHCWYDA_000_033","Ah, but I forget myself. His lack of sense infuriates me so.<hex:02100103>In summary, I have no intention whatsoever of changing to suit Krystrymm's ridiculous ideas."
+71,"TEXT_CLSMIN630_02555_KRYSTRYMM_000_040","I can't work with anyone who doesn't respect the importance of sturdy defenses. I just don't have it in me."
+72,"TEXT_CLSMIN630_02555_FOHCWYDA_000_041","To hear him speak you would think he had never borne witness to the destructive powers of magic!"
+73,"TEXT_CLSMIN630_02555_STICKQIX_000_050","Pshhh... Shkohhh... So <hex:021A020203>that<hex:021A020103> was the cause of this commotion? You have my thanks, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>."
+74,"TEXT_CLSMIN630_02555_STICKQIX_000_051","However, I must say I am truly perplexed by all of this. Neither one of them is entirely in the wrong after all... Nonowato, dear boy, a gil for your thoughts."
+75,"TEXT_CLSMIN630_02555_NONOWATO_000_052","M-My thoughts? Well, as you say, they're both quite good ideas! If only there was some way we could have our cake <hex:021A020203>and<hex:021A020103> eat it..."
+76,"TEXT_CLSMIN630_02555_STICKQIX_000_053","Pshhh... Shkohhh... Cake? You have strayed awfully far from the subject, but I am inclined to believe there is a way we can combine these two approaches. That is the founding principle behind our work after all─making the impossible possible!"
+77,"TEXT_CLSMIN630_02555_STICKQIX_000_054","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, would it trouble you to mine some beggar's mythril ore for me? Twenty chunks or so should be enough."
+78,"TEXT_CLSMIN630_02555_STICKQIX_000_055","As to what we actually need it for...well, let's save that surprise for your triumphant return!"
+79,"TEXT_CLSMIN630_02555_STICKQIX_000_056","According to Sharlayan records, beggar's mythril ore can be found in the fringes of Gyr Abania. The best of luck!"
+80,"TEXT_CLSMIN630_02555_NONOWATO_000_057","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, as the chief said, we require twenty chunks of beggar's mythril ore. You should be able to find the mineral on the Striped Hills in Gyr Abania."
+81,"TEXT_CLSMIN630_02555_STICKQIX_000_070","Pshhh... Shkohhh... Was your trip a success?"
+82,"TEXT_CLSMIN630_02555_STICKQIX_000_071","You really outdid yourself on this one, <hex:020816E905FF09>old girl<hex:FF08>old boy<hex:03>! The quality leaves nothing to be desired. Nonowato, fetch Krystrymm and Fohcwyda for me."
+83,"TEXT_CLSMIN630_02555_KRYSTRYMM_000_080","Chief, would you mind explaining just why Fohcwyda's here as well? I figured you were well aware of the bad blood between us."
+84,"TEXT_CLSMIN630_02555_STICKQIX_000_081","Pshhh... Shkohhh... Never mind your silly squabbles, take a look at this!"
+85,"TEXT_CLSMIN630_02555_FOHCWYDA_000_082","What am I looking at exactly?"
+86,"TEXT_CLSMIN630_02555_STICKQIX_000_083","Pshhh... Shkohhh... 'Tis an alloy I created using the beggar's mythril ore that I had <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> mine for us. It is noteworthy for having exceedingly low aetherial conductivity."
+87,"TEXT_CLSMIN630_02555_FOHCWYDA_000_084","You mean to say that you are going to use my idea? Fantastic!"
+88,"TEXT_CLSMIN630_02555_KRYSTRYMM_000_085","Chief, how could you!? You may as well tie the Gobroller up in a neat little bow and gift it to the beasts at this rate!"
+89,"TEXT_CLSMIN630_02555_STICKQIX_000_086","Pshhh... Shkohhh... Now, now, let's not jump to any rash conclusions here, you two. Imagine this: we make sheet metal using this ingot, proceeding to wrap it in the regular sheet metal we use for vehicle armor."
+90,"TEXT_CLSMIN630_02555_KRYSTRYMM_000_087","That's all very well and good as an idea, but in practice, that's going to weigh the vehicle down to no end!"
+91,"TEXT_CLSMIN630_02555_STICKQIX_000_088","I would not be so sure. If you combine your skills, there is no reason that the impossible need remain so. Stacking the two types of metal to create a new kind of armor—one which fulfills all our needs—is something I imagine you two are quite capable of doing. Would you not agree, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>?"
+92,"TEXT_CLSMIN630_02555_KRYSTRYMM_000_089","...Hmph."
+93,"TEXT_CLSMIN630_02555_FOHCWYDA_000_090","I can tell you now, we are going to need to do more than just jam two bits of metal together! Creating armor that is resistant to all kinds of attacks whilst also being of a manageable weight and size...well, it is much easier said than done."
+94,"TEXT_CLSMIN630_02555_KRYSTRYMM_000_091","We could try welding the two types of sheet metal together...although, we'd still need to figure out a way of reducing the thickness of the armor to a single sheet. Doesn't look like we'll have much time for fighting with this on our plate, eh, Fohcwyda?"
+95,"TEXT_CLSMIN630_02555_FOHCWYDA_000_092","I could not have put it better myself! If we both have the energy to bicker, then we certainly have the energy to develop a new way of creating armor. Let us not give the chief cause to regret his words, Krystrymm!"
+96,"TEXT_CLSMIN630_02555_NONOWATO_000_093","By the gods, it worked! Chief, you're brilliant!"
+97,"TEXT_CLSMIN630_02555_STICKQIX_000_094","Pshhh... Shkohhh... I could not have done it without the help of our darling miner friend! Once more, I am indebted to you, <hex:020816E905FF09>old girl<hex:FF08>old boy<hex:03>."
+98,"TEXT_CLSMIN630_02555_NONOWATO_000_095","You have my thanks as well! Pray join me outside so that we may review today's developments and discuss your future schedule."
+99,"TEXT_CLSMIN630_02555_STICKQIX_000_096","Pshhh... Shkohhh... A hearty thanks for all your help thus far. But know this: the work has only just begun!"
+100,"TEXT_CLSMIN630_02555_FOHCWYDA_000_097","Apologies for involving you in our little spat, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. You have my word that the minerals you brought us will not go to waste!"
+101,"TEXT_CLSMIN630_02555_FOHCWYDA_000_098","I can only apologize profusely for wasting your time with our frivolous fight. I shall put twice the energy into developing this armor! I imagine you will be <hex:021A020203>quite<hex:021A020103> impressed with what we create."
+102,"TEXT_CLSMIN630_02555_ZANSEI_000_099","The fighting has ceased, but my sweating has not. No rest for the wicked, I suppose."
+103,"TEXT_CLSMIN630_02555_STACKBLOX_000_100","Stackblox's sweatwork is at its most critical stage! Gobbie has no time for uplander arguments."
+104,"TEXT_CLSMIN630_02555_NONOWATO_000_110","You did amazing work today, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! Allow me to thank you once more."
+105,"TEXT_CLSMIN630_02555_NONOWATO_000_111","However, I also feel rather obligated to apologize for asking so much of you—I don't imagine you expected to have to mediate between our workers when you accepted this job. I'd love to say this was the first time such a quarrel has erupted between those two..."
+106,"TEXT_CLSMIN630_02555_NONOWATO_000_112","But that's neither here nor there! Enjoy some well-earned rest and seek me out once more when you feel ready for your next job."
+107,"TEXT_CLSMIN630_02555_SYSTEM_000_120","To be deleted."
+108,"TEXT_CLSMIN630_02555_STICKQIX_000_084",""
+109,"TEXT_CLSMIN630_02555_FOHCWYDA_000_085",""

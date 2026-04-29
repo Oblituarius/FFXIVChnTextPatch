@@ -2,22 +2,22 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_REGWILNOTORIOUSMONSTERHINTF4_00192_MOBHUNTERW1F4_000_1,這身裝扮，是冒險者吧……<hex:02100103>你也在追捕惡名菁英嗎？
-1,TEXT_REGWILNOTORIOUSMONSTERHINTF4_00192_Q1_000_1,想了解什麼？
-2,TEXT_REGWILNOTORIOUSMONSTERHINTF4_00192_A1_000_1,你是做什麼的？
-3,TEXT_REGWILNOTORIOUSMONSTERHINTF4_00192_A1_000_2,關於B級怪物：執念的族長——死灰復燃的阿爾賓
-4,TEXT_REGWILNOTORIOUSMONSTERHINTF4_00192_A1_000_3,關於A級怪物：魔裝火蛟——札尼戈
-5,TEXT_REGWILNOTORIOUSMONSTERHINTF4_00192_A1_000_4,關於S級怪物：孤獨的巨像兵——努紐努維
-6,TEXT_REGWILNOTORIOUSMONSTERHINTF4_00192_A1_000_5,取消
-7,TEXT_REGWILNOTORIOUSMONSTERHINTF4_00192_MOBHUNTERW1F4_000_10,我是一名怪物獵人，<hex:02100103>專門追捕擾亂地區治安的惡名菁英。
-8,TEXT_REGWILNOTORIOUSMONSTERHINTF4_00192_MOBHUNTERW1F4_000_11,只要討伐成功，<hex:02100103>就能從艾歐澤亞城邦軍事同盟處獲得同盟徽章。
-9,TEXT_REGWILNOTORIOUSMONSTERHINTF4_00192_MOBHUNTERW1F4_000_12,如果你也想挑戰一下，<hex:02100103>我可以告訴你一些這片地區惡名菁英的情報。
-10,TEXT_REGWILNOTORIOUSMONSTERHINTF4_00192_MOBHUNTERW1F4_000_13,順便一說，按危險程度不同，惡名菁英是有等級之分的。<hex:02100103>S級的怪物別說討伐了，就連找都很難找得到。
-11,TEXT_REGWILNOTORIOUSMONSTERHINTF4_00192_MOBHUNTERW1F4_000_20,阿爾賓是大約在800年前來到了薩納蘭的人族族長的名字。
-12,TEXT_REGWILNOTORIOUSMONSTERHINTF4_00192_MOBHUNTERW1F4_000_21,他進攻了當時拉拉菲爾族「貝拉哈迪亞」統治下的薩納蘭，<hex:02100103>卻最終戰敗身死。<hex:02100103>但由於強大的執念，使得他的肉身至今還在外面徘徊著。
-13,TEXT_REGWILNOTORIOUSMONSTERHINTF4_00192_MOBHUNTERW1F4_000_30,蜥蜴人煉金術士為進攻烏爾達哈而準備的殺手鐧，<hex:02100103>其名札尼戈，是火蛟的改良品種。
-14,TEXT_REGWILNOTORIOUSMONSTERHINTF4_00192_MOBHUNTERW1F4_000_31,四肢上裝備的尖刺刺激著它的戰鬥本能，<hex:02100103>而周身銘刻的魔紋為其提供魔力。<hex:02100103>如果把它當成普通的火蛟，那可是要吃大虧的。
-15,TEXT_REGWILNOTORIOUSMONSTERHINTF4_00192_MOBHUNTERW1F4_000_40,南薩納蘭有很多巨像兵，<hex:02100103>據說它們是由貝拉哈迪亞的魔法師們<hex:02100103>造來守護喀恩埋沒聖堂的。
-16,TEXT_REGWILNOTORIOUSMONSTERHINTF4_00192_MOBHUNTERW1F4_000_41,其中威脅最大的就是孤獨的巨像兵——努紐努維。
-17,TEXT_REGWILNOTORIOUSMONSTERHINTF4_00192_MOBHUNTERW1F4_000_42,它平時一動不動，與荒野的巨岩一般無二。<hex:02100103>但一旦在附近發生多次大規模戰鬥，它就會甦醒過來。<hex:02100103>這恐怕是它的防禦本能所賦予的機制。
-18,TEXT_REGWILNOTORIOUSMONSTERHINTF4_00192_TALK_ACTOR,
+0,"TEXT_REGWILNOTORIOUSMONSTERHINTF4_00192_MOBHUNTERW1F4_000_1","Oh. Another one with stars in <hex:02080DE905FF04>her<hex:FF04>his<hex:03> eyes and elite marks on <hex:02080DE905FF04>her<hex:FF04>his<hex:03> mind."
+1,"TEXT_REGWILNOTORIOUSMONSTERHINTF4_00192_Q1_000_1","What will you ask?"
+2,"TEXT_REGWILNOTORIOUSMONSTERHINTF4_00192_A1_000_1","What do you do here?"
+3,"TEXT_REGWILNOTORIOUSMONSTERHINTF4_00192_A1_000_2","Tell me about the rank B elite mark. (Albin the Ashen)"
+4,"TEXT_REGWILNOTORIOUSMONSTERHINTF4_00192_A1_000_3","Tell me about the rank A elite mark. (Zanig'oh)"
+5,"TEXT_REGWILNOTORIOUSMONSTERHINTF4_00192_A1_000_4","Tell me about the rank S elite mark. (Nunyunuwi)"
+6,"TEXT_REGWILNOTORIOUSMONSTERHINTF4_00192_A1_000_5","Nothing."
+7,"TEXT_REGWILNOTORIOUSMONSTERHINTF4_00192_MOBHUNTERW1F4_000_10","I'm a hunter of elite marks and knower of lore."
+8,"TEXT_REGWILNOTORIOUSMONSTERHINTF4_00192_MOBHUNTERW1F4_000_11","I'm the one that brings in the big bounty. I've had more Allied Seals pass through my hands than any other hunter."
+9,"TEXT_REGWILNOTORIOUSMONSTERHINTF4_00192_MOBHUNTERW1F4_000_12","Why, all that makes me the best counselor any hunter can have. Any hunter wise enough to ask for help, that is."
+10,"TEXT_REGWILNOTORIOUSMONSTERHINTF4_00192_MOBHUNTERW1F4_000_13","Mind the ranks, though. Rank S marks are dead nasty and keep you waiting like a fickle maid."
+11,"TEXT_REGWILNOTORIOUSMONSTERHINTF4_00192_MOBHUNTERW1F4_000_20","“When the Hyuran tribe came to Thanalan some eight hundred years ago, Albin the Ashen was at the head of one of the columns."
+12,"TEXT_REGWILNOTORIOUSMONSTERHINTF4_00192_MOBHUNTERW1F4_000_21","“Then-native Belah'dians rose against the invaders and prevailed, as history records. Albin was but one of many slain in the abortive conquest, yet his mortal coil still roams the land in search of vengeance.”"
+13,"TEXT_REGWILNOTORIOUSMONSTERHINTF4_00192_MOBHUNTERW1F4_000_30","“Zanig'oh. A drake altered by an Amalj'aa alchemist for no less a purpose than the conquest of Ul'dah."
+14,"TEXT_REGWILNOTORIOUSMONSTERHINTF4_00192_MOBHUNTERW1F4_000_31","“In addition to magic powers conferred by runes graven into its very flesh, the drake has a taste for melee combat, ably provoked into violence by inwardly spiked bangles affixed to all four limbs.”"
+15,"TEXT_REGWILNOTORIOUSMONSTERHINTF4_00192_MOBHUNTERW1F4_000_40","“The large population of golems in southern Thanalan is ascribed by mainstream historians to the mages of Belah'dia, who made the sturdy guardians for the protection of the Temple of Qarn."
+16,"TEXT_REGWILNOTORIOUSMONSTERHINTF4_00192_MOBHUNTERW1F4_000_41","“Among these sad remnants of a civilization lost to time, Nunyunuwi stands out for his exceptional size and stealth."
+17,"TEXT_REGWILNOTORIOUSMONSTERHINTF4_00192_MOBHUNTERW1F4_000_42","“At rest, he vanishes into the landscape of tors and boulders. Only an outbreak of sizable chaos and bloodshed will rouse the stone soldier to his ancient duty: to fight to the death.”"
+18,"TEXT_REGWILNOTORIOUSMONSTERHINTF4_00192_TALK_ACTOR",""

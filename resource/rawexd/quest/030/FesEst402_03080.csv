@@ -2,132 +2,132 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_FESEST402_03080_SEQ_00,※本任務是特定期間內的任務。<hex:02100103><hex:02100103>米·凱特露天劇場的吉莉·阿里亞珀有事想要拜託冒險者。
-1,TEXT_FESEST402_03080_SEQ_01,※本任務只有在季節活動開放期間才能接受和進行。<hex:02100103>　季節活動結束後無法進行，敬請注意。<hex:02100103>　詳情請參見官方網站。<hex:02100103><hex:02100103>接受了吉莉·阿里亞珀的委託，藏起放在籃子裡的裝飾彩蛋，並守候在一旁看看會發生什麼樣的美妙邂逅。在格里達尼亞槍術師公會周邊的<hex:02280CFF05>EObj<hex:F61EA9530103>處，放置<hex:022811FF0A>EventItem<hex:F61E8E1D0103>。
-2,TEXT_FESEST402_03080_SEQ_02,放好了<hex:022811FF0A>EventItem<hex:F61E8E1D0103>。在槍術師公會周邊的<hex:02280CFF05>EObj<hex:F61EA9540103>處等待，看看會發生什麼樣的美妙邂逅。
-3,TEXT_FESEST402_03080_SEQ_03,守候了美妙的邂逅。向米·凱特露天劇場的吉莉·阿里亞珀報告。
-4,TEXT_FESEST402_03080_SEQ_04,向吉莉·阿里亞珀報告完畢。因為發生了美妙的邂逅，吉莉·阿里亞珀很高興。今後繼續守候裝飾彩蛋所帶來的美妙邂逅吧。
-5,TEXT_FESEST402_03080_SEQ_05,
-6,TEXT_FESEST402_03080_SEQ_06,
-7,TEXT_FESEST402_03080_SEQ_07,
-8,TEXT_FESEST402_03080_SEQ_08,
-9,TEXT_FESEST402_03080_SEQ_09,
-10,TEXT_FESEST402_03080_SEQ_10,
-11,TEXT_FESEST402_03080_SEQ_11,
-12,TEXT_FESEST402_03080_SEQ_12,
-13,TEXT_FESEST402_03080_SEQ_13,
-14,TEXT_FESEST402_03080_SEQ_14,
-15,TEXT_FESEST402_03080_SEQ_15,
-16,TEXT_FESEST402_03080_SEQ_16,
-17,TEXT_FESEST402_03080_SEQ_17,
-18,TEXT_FESEST402_03080_SEQ_18,
-19,TEXT_FESEST402_03080_SEQ_19,
-20,TEXT_FESEST402_03080_SEQ_20,
-21,TEXT_FESEST402_03080_SEQ_21,
-22,TEXT_FESEST402_03080_SEQ_22,
-23,TEXT_FESEST402_03080_SEQ_23,
-24,TEXT_FESEST402_03080_TODO_00,在<hex:02280CFF05>EObj<hex:F61EA9530103>使用<hex:022811FF0A>EventItem<hex:F61E8E1D0103>
-25,TEXT_FESEST402_03080_TODO_01,在<hex:02280CFF05>EObj<hex:F61EA9540103>等待
-26,TEXT_FESEST402_03080_TODO_02,向吉莉·阿里亞珀報告
-27,TEXT_FESEST402_03080_TODO_03,
-28,TEXT_FESEST402_03080_TODO_04,
-29,TEXT_FESEST402_03080_TODO_05,
-30,TEXT_FESEST402_03080_TODO_06,
-31,TEXT_FESEST402_03080_TODO_07,
-32,TEXT_FESEST402_03080_TODO_08,
-33,TEXT_FESEST402_03080_TODO_09,
-34,TEXT_FESEST402_03080_TODO_10,
-35,TEXT_FESEST402_03080_TODO_11,
-36,TEXT_FESEST402_03080_TODO_12,
-37,TEXT_FESEST402_03080_TODO_13,
-38,TEXT_FESEST402_03080_TODO_14,
-39,TEXT_FESEST402_03080_TODO_15,
-40,TEXT_FESEST402_03080_TODO_16,
-41,TEXT_FESEST402_03080_TODO_17,
-42,TEXT_FESEST402_03080_TODO_18,
-43,TEXT_FESEST402_03080_TODO_19,
-44,TEXT_FESEST402_03080_TODO_20,
-45,TEXT_FESEST402_03080_TODO_21,
-46,TEXT_FESEST402_03080_TODO_22,
-47,TEXT_FESEST402_03080_TODO_23,
-48,TEXT_FESEST402_03080_JIHLIALIAPOH_000_000,<hex:022903EB0203>，你來了啊！<hex:02100103>正如之前告訴你的一樣，為了引發美妙的邂逅，<hex:02100103>希望你能幫我藏起裝飾彩蛋。
-49,TEXT_FESEST402_03080_JIHLIALIAPOH_000_001,我已經這麼向大家宣傳過了<hex:02100103>「籃子裡的裝飾彩蛋中放有特別的禮物」。<hex:02100103>這樣應該就會有許多人來找裝飾彩蛋了吧！
-50,TEXT_FESEST402_03080_JIHLIALIAPOH_000_002,裝飾彩蛋的隱藏地點我已經決定好了，會幫你標在地圖上的。<hex:02100103>你放好這個<hex:022811FF0A>EventItem<hex:F61E8E1D0103>之後，<hex:02100103>就去稍微離遠一點的地方，守候美妙的邂逅吧！
-51,TEXT_FESEST402_03080_ESUMIYAN_000_010,哦，又到了彩蛋狩獵的季節了呢。<hex:02100103>說起來，元靈的細語也變得越來越熱鬧了……
-52,TEXT_FESEST402_03080_KHLOEALIAPOH_000_011,太棒了！找到裝飾彩蛋了！<hex:02100103>裡面放著什麼呢？
-53,TEXT_FESEST402_03080_KHLOEALIAPOH_000_012,……啊！難道說，是你先找到的？<hex:02100103>對不起，這個裝飾彩蛋還給你！
-54,TEXT_FESEST402_03080_ESUMIYAN_000_013,呵呵……沒事，不用客氣的。<hex:02100103>你拿著就好。
-55,TEXT_FESEST402_03080_KHLOEALIAPOH_000_014,那可不行！<hex:02100103>而且，你比我小吧？<hex:02100103>姐姐說要讓著年紀小的孩子的！
-56,TEXT_FESEST402_03080_ESUMIYAN_000_015,哦，是這樣啊……你不是格里達尼亞的居民吧。<hex:02100103>我們角尊就算上了年紀，外表也還是年輕的樣子。<hex:02100103>我雖然看起來小，可是比你要大得多。
-57,TEXT_FESEST402_03080_KHLOEALIAPOH_000_016,哎，是這樣嗎？！<hex:02100103>但是，你真的長著角啊……
-58,TEXT_FESEST402_03080_KHLOEALIAPOH_000_017,那麼，如果你比我大得多的話，應該經歷過各種冒險吧？<hex:02100103>我正在搜集別人的冒險事跡來進行故事的創作。<hex:02100103>方便的話，也來和我講講哥哥你的冒險故事吧！
-59,TEXT_FESEST402_03080_ESUMIYAN_000_018,你，你叫我，哥哥……<hex:02100103>我覺得你應該叫我爺爺才對……
-60,TEXT_FESEST402_03080_ESUMIYAN_000_019,而且，我現在也沒有什麼能講給你聽的有意思的故事。<hex:02100103>不好意思，還是等下次有機會再說吧……
-61,TEXT_FESEST402_03080_KHLOEALIAPOH_000_020,啊，你等等！<hex:02100103>我會給你有趣的魔法人偶的，給我講講你的故事吧！
-62,TEXT_FESEST402_03080_ZHLOEALIAPOH_000_030,啊，放在籃子裡的裝飾彩蛋！<hex:02100103>太好了，總算找到一個了！
-63,TEXT_FESEST402_03080_MAISENTA_000_031,哎呀……你也在找裝飾彩蛋嗎？
-64,TEXT_FESEST402_03080_ZHLOEALIAPOH_000_032,是、是的！<hex:02100103>但、但是，如果你也在找裝飾彩蛋的話，我可以讓給你。<hex:02100103>我因為工作還會在格里達尼亞待一段時間，還有機會再找……
-65,TEXT_FESEST402_03080_MAISENTA_000_033,不，我只是來確認我們的商品狀況的。<hex:02100103>請你拿著吧。
-66,TEXT_FESEST402_03080_ZHLOEALIAPOH_000_034,誒……謝、謝謝你。<hex:02100103>那我就不客氣了。
-67,TEXT_FESEST402_03080_ZHLOEALIAPOH_000_035,不過，竟然能在這麼大型的活動裡批發商品，<hex:02100103>我看你一定是一位厲害的商人吧！<hex:02100103>雖然有些唐突，能請你教教我做生意的訣竅嗎！
-68,TEXT_FESEST402_03080_ZHLOEALIAPOH_000_036,我為了經營孤兒院而開始經商了，<hex:02100103>但卻遇到了許多困難……<hex:02100103>拜託你了！
-69,TEXT_FESEST402_03080_MAISENTA_000_037,……很遺憾，因為本人是黑兔堂的一員，<hex:02100103>無法向你透露可能會有損公司利益的資訊。
-70,TEXT_FESEST402_03080_MAISENTA_000_038,但是，如果你能和我開展帶來利益的公平交易的話，<hex:02100103>我倒是能多少給你一些幫助。<hex:02100103>不過並不是作為指導者，而是作為生意夥伴。
-71,TEXT_FESEST402_03080_ZHLOEALIAPOH_000_039,謝、謝謝你！<hex:02100103>那就請你多多關照了！
-72,TEXT_FESEST402_03080_SILVAIRRE_000_050,總算找到一個了。<hex:02100103>我還以為會很簡單的，沒想到這麼難……
-73,TEXT_FESEST402_03080_LEIHALIAPOH_000_051,哇，這不是西爾瓦爾嗎。<hex:02100103>你在這裡做什麼呢？
-74,TEXT_FESEST402_03080_SILVAIRRE_000_052,我只是碰巧路過這裡。<hex:02100103>而且，我做什麼都和你無關吧。
-75,TEXT_FESEST402_03080_LEIHALIAPOH_000_053,嗯——是這樣啊。<hex:02100103>你也說過彩蛋狩獵什麼的很無聊對吧。<hex:02100103>那麼，那邊那個裝飾彩蛋就歸我了。
-76,TEXT_FESEST402_03080_SILVAIRRE_000_054,什，那是我先發現的！
-77,TEXT_FESEST402_03080_LEIHALIAPOH_000_055,誒？你只是碰巧路過這裡對吧？
-78,TEXT_FESEST402_03080_SILVAIRRE_000_056,嗚……
-79,TEXT_FESEST402_03080_LEIHALIAPOH_000_057,你這人平時總是皺著個眉頭，<hex:02100103>如果你能承認參加彩蛋狩獵很開心的話，<hex:02100103>這個裝飾彩蛋讓給你也不是不行。
-80,TEXT_FESEST402_03080_SILVAIRRE_000_058,……裝飾彩蛋什麼的，我才不想要呢！<hex:02100103>你就沉迷在活動裡無法自拔吧。<hex:02100103>我回弓箭手公會繼續鍛鍊了！
-81,TEXT_FESEST402_03080_LEIHALIAPOH_000_059,……西爾瓦爾這傢伙，每次說謊的時候都會用手抵住嘴，<hex:02100103>這個毛病他還是沒有改掉呢……太好懂了。
-82,TEXT_FESEST402_03080_LEIHALIAPOH_100_059,……他還真是不坦率呢。<hex:02100103>但是，那種說話方式，說謊的話直接就能看出來。
-83,TEXT_FESEST402_03080_LEIHALIAPOH_000_060,沒辦法，逗他玩也逗得差不多了，<hex:02100103>就把這個裝飾彩蛋<hex:02100103>悄悄藏到公會裡他的儲物櫃裡去吧！
-84,TEXT_FESEST402_03080_YWAIN_000_070,哦，那就是裡面裝著禮物的裝飾彩蛋！<hex:02100103>好像還沒被別人發現，趕緊拿走吧。
-85,TEXT_FESEST402_03080_NICOLIAUX_000_071,哇，嚇了我一跳！
-86,TEXT_FESEST402_03080_YWAIN_000_072,哎呀，你也想要這個彩蛋嗎？<hex:02100103>沒辦法啊……誰讓你是孩子呢，讓給你了。
-87,TEXT_FESEST402_03080_NICOLIAUX_000_073,那個……總覺得好像在哪見過你……<hex:02100103>記得是槍術師公會的……名字是，什麼來著？
-88,TEXT_FESEST402_03080_NICOLIAUX_000_074,算了！<hex:02100103>大叔，總覺得你看起來一臉不幸，彩蛋還是給你吧！<hex:02100103>打起精神來啊，再見！
-89,TEXT_FESEST402_03080_YWAIN_000_075,不知道我的名字，還說我看起來一臉不幸？<hex:02100103>好歹我也算是公會的會長……<hex:02100103>最近的孩子們還真是不像話。
-90,TEXT_FESEST402_03080_YWAIN_000_076,不知道我的名字，還說我看起來一臉不幸？<hex:02100103>難道說富爾克那件事的煩惱，表現在我的臉上了嗎……<hex:02100103>今天我還是早點休息吧。
-91,TEXT_FESEST402_03080_YWAIN_000_077,不知道我的名字，還說我看起來一臉不幸？<hex:02100103>……畢竟是在那麼一件讓人不痛快的事件之後啊。<hex:02100103>今天我還是早點休息吧。
-92,TEXT_FESEST402_03080_BEATIN_000_090,呵呵呵……終於找到裝飾彩蛋了……
-93,TEXT_FESEST402_03080_FUFUCHA_000_091,哎呀，這不是貝亞坦嗎。<hex:02100103>真巧啊。
-94,TEXT_FESEST402_03080_BEATIN_000_092,哎呀呀……是弗弗茶啊。<hex:02100103>你也在找裝飾彩蛋嗎？
-95,TEXT_FESEST402_03080_FUFUCHA_000_093,嗯，雖然園藝很有趣，<hex:02100103>但這邊的活動看起來也挺有意思。<hex:02100103>只不過這個裝飾彩蛋，看來是被你搶先了啊。
-96,TEXT_FESEST402_03080_BEATIN_000_094,不……作為總是為我們提供高品質原木的回禮，<hex:02100103>這個彩蛋，還是請你拿去吧。
-97,TEXT_FESEST402_03080_FUFUCHA_000_095,真是謝謝你了。<hex:02100103>那我就不客氣地收下了。
-98,TEXT_FESEST402_03080_BEATIN_000_096,不過……園藝工公會所採集的原木，<hex:02100103>品質還真是上乘啊……
-99,TEXT_FESEST402_03080_FUFUCHA_000_097,不不，你過獎了。
-100,TEXT_FESEST402_03080_BEATIN_000_098,請不要謙虛。<hex:02100103>我最近收到的柚木原木也是，<hex:02100103>美得幾乎都要讓我窒息了……
-101,TEXT_FESEST402_03080_BEATIN_000_099,那富含油質的水潤紋理真是太棒了！<hex:02100103>雖然需要花費時間進行乾燥處理，<hex:02100103>卻也因此會變得結實而又易於加工……
-102,TEXT_FESEST402_03080_BEATIN_000_100,正可謂大器晚成！<hex:02100103>因為是經過精心處理的原材料，<hex:02100103>雖然還沒有製成成品，可光是想像一下……我就要……
-103,TEXT_FESEST402_03080_BEATIN_000_101,對了，還有些時間，<hex:02100103>之後我們不如一起聊聊木材的優點吧？<hex:02100103>從採集與加工各自不同的視角來看的話，一定會更加……
-104,TEXT_FESEST402_03080_FUFUCHA_000_102,不，我還要早點回農場去。<hex:02100103>這個裝飾彩蛋，果然還是給你吧。<hex:02100103>再見了……
-105,TEXT_FESEST402_03080_MIOUNNE_000_120,呼……因為節日的緣故，咖啡館的客人也變多了。<hex:02100103>雖說是好事，可稍微有些累人啊……
-106,TEXT_FESEST402_03080_MIOUNNE_000_121,哎呀……那個是，放著禮物的裝飾彩蛋？<hex:02100103>難得找到了，我就收下吧。
-107,TEXT_FESEST402_03080_GEVA_000_122,哎呀，這不是繆恩嗎。<hex:02100103>你也在找裝飾彩蛋嗎？
-108,TEXT_FESEST402_03080_MIOUNNE_000_123,不，我只是偶然看到了。<hex:02100103>我回咖啡館去了，那個裝飾彩蛋你拿著吧。
-109,TEXT_FESEST402_03080_GEVA_000_124,……繆恩，你是不是累了呀？<hex:02100103>因為彩蛋狩獵活動，來格里達尼亞的人變多了，<hex:02100103>你比平時更忙了吧？
-110,TEXT_FESEST402_03080_MIOUNNE_000_125,蓋娃……我們才只聊了這麼幾句，<hex:02100103>你是怎麼看出來的啊？
-111,TEXT_FESEST402_03080_GEVA_000_126,我可是養了兩個孩子呢。<hex:02100103>比起猜不透的孩子們，<hex:02100103>要看穿大人的身體狀況，簡直小菜一碟。
-112,TEXT_FESEST402_03080_GEVA_000_127,對了，既然見到了，一起去喝杯茶吧。<hex:02100103>你累成這樣的話，也會給格里達尼亞丟臉的吧？
-113,TEXT_FESEST402_03080_MIOUNNE_000_128,……謝謝。<hex:02100103>那麼，那麼至少讓我給你泡杯紅茶吧？
-114,TEXT_FESEST402_03080_GEVA_000_129,嗯，繆恩你泡的紅茶可是極品。<hex:02100103>順便休息一下，確認看看這個彩蛋裡面裝了什麼吧。
-115,TEXT_FESEST402_03080_BODYGUARD01623_000_140,哦哦，這個是裝飾彩蛋！<hex:02100103>把這個送給嘉恩·艾大人的話，她會高興嗎……
-116,TEXT_FESEST402_03080_BODYGUARD01623_000_141,啊，嘉恩·艾大人！<hex:02100103>您怎麼到這來了……
-117,TEXT_FESEST402_03080_KANESENNA_000_142,哎呀，你是……<hex:02100103>因為居民們看起來都很高興的樣子，我也就來參加看看了，<hex:02100103>沒想到你也來參加了。
-118,TEXT_FESEST402_03080_KANESENNA_000_143,而且，居然還同時找到了一個裝飾彩蛋。<hex:02100103>……但是，那個彩蛋，<hex:02100103>是你先發現的吧。
-119,TEXT_FESEST402_03080_BODYGUARD01623_000_144,沒、沒這回事！<hex:02100103>肯定是嘉恩·艾大人您先發現的！<hex:02100103>這個裝飾彩蛋請您拿好！
-120,TEXT_FESEST402_03080_KANESENNA_000_145,不……你好不容易找到的，<hex:02100103>我怎麼能搶你的呢。
-121,TEXT_FESEST402_03080_BODYGUARD01623_000_146,您說什麼搶，絕無此事！<hex:02100103>這個彩蛋我本來就是要送給……
-122,TEXT_FESEST402_03080_KANESENNA_000_147,……那麼，我就去找別的裝飾彩蛋了。<hex:02100103>這次我會比你先找到的。
-123,TEXT_FESEST402_03080_BODYGUARD01623_000_148,嘉恩·艾大人！<hex:02100103>請您等一下，這個裝飾彩蛋……
-124,TEXT_FESEST402_03080_BODYGUARD01623_000_149,可惡，明明這是個絕無僅有的好機會啊，<hex:02100103>我怎麼就沒有勇氣說出來呢……
-125,TEXT_FESEST402_03080_JIHLIALIAPOH_000_180,請你把這個<hex:022811FF0A>EventItem<hex:F61E8E1D0103>藏在地圖上標註的地點。<hex:02100103>之後，就去稍微離遠一點的地方，<hex:02100103>看看會不會發生美妙的邂逅吧！
-126,TEXT_FESEST402_03080_JIHLIALIAPOH_000_200,<hex:022903EB0203>，你看到美妙的邂逅了嗎？
-127,TEXT_FESEST402_03080_JIHLIALIAPOH_000_201,是嗎，發生那種邂逅了啊！！<hex:02100103>果然你來幫忙真是太好了。
-128,TEXT_FESEST402_03080_JIHLIALIAPOH_000_202,裝飾彩蛋所帶來的美妙邂逅應該還會有許多。<hex:02100103>請你務必再來幫忙！
+0,"TEXT_FESEST402_03080_SEQ_00","Jihli requests your assistance with the Hatching–tide egg hunt.<hex:02100103>※This quest is available for a limited time only."
+1,"TEXT_FESEST402_03080_SEQ_01","Jihli has hinted that the egg hunt will act as a catalyst for festival-goers to enjoy their own unexpected encounters. Take the basket holding the Hatching–tide egg and hide it near the Lancers' Guild.<hex:02100103><hex:02100103>※Please note that you will not be able to complete this quest after the seasonal event has ended. For details, check the Lodestone."
+2,"TEXT_FESEST402_03080_SEQ_02","You leave the egg-laden basket nestled amongst the other Hatching–tide decorations. Wait nearby, and witness the events which unfold."
+3,"TEXT_FESEST402_03080_SEQ_03","You look on as your carefully placed basket becomes the locus upon which two disparate paths converge. Return to Jihli, and describe the scene which took place."
+4,"TEXT_FESEST402_03080_SEQ_04","Jihli is delighted to hear your recounting of the serendipitous exchange. The way the Dreamer tells it, however, there are more unexpected encounters just waiting to hatch..."
+5,"TEXT_FESEST402_03080_SEQ_05",""
+6,"TEXT_FESEST402_03080_SEQ_06",""
+7,"TEXT_FESEST402_03080_SEQ_07",""
+8,"TEXT_FESEST402_03080_SEQ_08",""
+9,"TEXT_FESEST402_03080_SEQ_09",""
+10,"TEXT_FESEST402_03080_SEQ_10",""
+11,"TEXT_FESEST402_03080_SEQ_11",""
+12,"TEXT_FESEST402_03080_SEQ_12",""
+13,"TEXT_FESEST402_03080_SEQ_13",""
+14,"TEXT_FESEST402_03080_SEQ_14",""
+15,"TEXT_FESEST402_03080_SEQ_15",""
+16,"TEXT_FESEST402_03080_SEQ_16",""
+17,"TEXT_FESEST402_03080_SEQ_17",""
+18,"TEXT_FESEST402_03080_SEQ_18",""
+19,"TEXT_FESEST402_03080_SEQ_19",""
+20,"TEXT_FESEST402_03080_SEQ_20",""
+21,"TEXT_FESEST402_03080_SEQ_21",""
+22,"TEXT_FESEST402_03080_SEQ_22",""
+23,"TEXT_FESEST402_03080_SEQ_23",""
+24,"TEXT_FESEST402_03080_TODO_00","Place the gilded egg at the designated location."
+25,"TEXT_FESEST402_03080_TODO_01","Wait at the designated location."
+26,"TEXT_FESEST402_03080_TODO_02","Report to Jihli Aliapoh."
+27,"TEXT_FESEST402_03080_TODO_03",""
+28,"TEXT_FESEST402_03080_TODO_04",""
+29,"TEXT_FESEST402_03080_TODO_05",""
+30,"TEXT_FESEST402_03080_TODO_06",""
+31,"TEXT_FESEST402_03080_TODO_07",""
+32,"TEXT_FESEST402_03080_TODO_08",""
+33,"TEXT_FESEST402_03080_TODO_09",""
+34,"TEXT_FESEST402_03080_TODO_10",""
+35,"TEXT_FESEST402_03080_TODO_11",""
+36,"TEXT_FESEST402_03080_TODO_12",""
+37,"TEXT_FESEST402_03080_TODO_13",""
+38,"TEXT_FESEST402_03080_TODO_14",""
+39,"TEXT_FESEST402_03080_TODO_15",""
+40,"TEXT_FESEST402_03080_TODO_16",""
+41,"TEXT_FESEST402_03080_TODO_17",""
+42,"TEXT_FESEST402_03080_TODO_18",""
+43,"TEXT_FESEST402_03080_TODO_19",""
+44,"TEXT_FESEST402_03080_TODO_20",""
+45,"TEXT_FESEST402_03080_TODO_21",""
+46,"TEXT_FESEST402_03080_TODO_22",""
+47,"TEXT_FESEST402_03080_TODO_23",""
+48,"TEXT_FESEST402_03080_JIHLIALIAPOH_000_000","Are you ready for some Hatching–tide magic, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>? As my dream revealed, all you need do is help hide one of our eggs and an extraordinary encounter will ensue."
+49,"TEXT_FESEST402_03080_JIHLIALIAPOH_000_001","We've already been hard at work, spreading the word that anyone who finds a Hatching–tide basket is welcome to the gift the egg holds. I imagine quite a few folk will be out and about, searching for a slice of festival fun!"
+50,"TEXT_FESEST402_03080_JIHLIALIAPOH_000_002","My vision has shown me the perfect hiding place─here, let me mark it down for you. Simply set the basket down at <hex:021A020203>this<hex:021A020103> spot, then step back and enjoy a whimsical collision of fates!"
+51,"TEXT_FESEST402_03080_ESUMIYAN_000_010","Ah, yes, the season for egg hunting is upon us again. The whispers of the elementals have been growing ever more fervent..."
+52,"TEXT_FESEST402_03080_KHLOEALIAPOH_000_011","Yes, I found one! I can't wait to open it and see what's inside!"
+53,"TEXT_FESEST402_03080_KHLOEALIAPOH_000_012","...Oh, were you here first? You should have it, then!"
+54,"TEXT_FESEST402_03080_ESUMIYAN_000_013","That is not necessary, little one. Pray take the egg, with my blessing."
+55,"TEXT_FESEST402_03080_KHLOEALIAPOH_000_014","No no no, that won't do! You look younger than Khloe, and Zhloe always says, “you have to be nice to the children younger than you!”"
+56,"TEXT_FESEST402_03080_ESUMIYAN_000_015","Ah, sweet child, you must not be from Gridania. Do you see these horns? That means I am a Padjal, and Padjali do not age as others do. Though I appear young, I am much, much older than you."
+57,"TEXT_FESEST402_03080_KHLOEALIAPOH_000_016","Is that true!? I guess you really <hex:021A020203>do<hex:021A020103> have horns..."
+58,"TEXT_FESEST402_03080_KHLOEALIAPOH_000_017","Hmmm. Well, if you really are “much, much older,” then you must have been on lots of adventures! Khloe likes listening to stories and then making up her own. Can you tell me some of yours?"
+59,"TEXT_FESEST402_03080_ESUMIYAN_000_018","Stories? I am not sure I have any tales that might capture your interest, little one..."
+60,"TEXT_FESEST402_03080_ESUMIYAN_000_019","My apologies, but I must be on my way. I pray your Hatching–tide gift brings you joy."
+61,"TEXT_FESEST402_03080_KHLOEALIAPOH_000_020","W-Wait! Khloe will give you the egg! I just want to hear a story!"
+62,"TEXT_FESEST402_03080_ZHLOEALIAPOH_000_030","What a pretty basket. Oh, this must be one of those Hatching–tide eggs!"
+63,"TEXT_FESEST402_03080_MAISENTA_000_031","Joining in the egg hunt, are we?"
+64,"TEXT_FESEST402_03080_ZHLOEALIAPOH_000_032","I was! I mean, I am! But you can have this one if you like. Zhloe's business will keep her in Gridania for a little while longer, so..."
+65,"TEXT_FESEST402_03080_MAISENTA_000_033","No need for that─I was merely coming to see that the goods I provided for the festivities had been delivered in acceptable condition. The prize is all yours."
+66,"TEXT_FESEST402_03080_ZHLOEALIAPOH_000_034","Oh, I see! Th-Thank you, miss. I'll just take this, then..."
+67,"TEXT_FESEST402_03080_ZHLOEALIAPOH_000_035","Correct me if I'm wrong but...if you're providing wares for a festival this grand, then you must be a merchant of some renown. Perhaps you might share with Zhloe some of the secrets of your success!"
+68,"TEXT_FESEST402_03080_ZHLOEALIAPOH_000_036","Zhloe runs an orphanage, you see, and she's started a trading business to help cover the costs. But it's all so complicated! Any advice you could offer would be most appreciated!"
+69,"TEXT_FESEST402_03080_MAISENTA_000_037","Ah, well I'm afraid trade secrets are not mine to share. I work for a company, you see, and I can't be seen giving advice to a potential competitor."
+70,"TEXT_FESEST402_03080_MAISENTA_000_038","However... If we were to agree upon some manner of profitable arrangement, then perhaps I could be of service to you. Not as a mentor, mind you, but as a trading partner."
+71,"TEXT_FESEST402_03080_ZHLOEALIAPOH_000_039","Oh! That would be wonderful, thank you!"
+72,"TEXT_FESEST402_03080_SILVAIRRE_000_050","Aha, I have found one at last. This hunt has proven more irksome than I anticipated..."
+73,"TEXT_FESEST402_03080_LEIHALIAPOH_000_051","Silvairre? What brings you to this part of town?"
+74,"TEXT_FESEST402_03080_SILVAIRRE_000_052","...I am merely passing through. Not that my personal affairs are any of <hex:021A020203>your<hex:021A020103> concern, Leih."
+75,"TEXT_FESEST402_03080_LEIHALIAPOH_000_053","...Fair enough. And you <hex:021A020203>did<hex:021A020103> say that the egg hunt was “a frivolous distraction for children and simpletons.” You won't mind if I take this basket and be on my way, then."
+76,"TEXT_FESEST402_03080_SILVAIRRE_000_054","What!? But I found it first!"
+77,"TEXT_FESEST402_03080_LEIHALIAPOH_000_055","Oh? I thought you were merely “passing though”?"
+78,"TEXT_FESEST402_03080_SILVAIRRE_000_056","I..."
+79,"TEXT_FESEST402_03080_LEIHALIAPOH_000_057","Here's the deal, my perpetually humorless colleague. You admit you were actually <gasp> <hex:021A020203>enjoying<hex:021A020103> the egg hunt, and I'll let you have this egg."
+80,"TEXT_FESEST402_03080_SILVAIRRE_000_058","I care not for your ridiculous egg! Frolic like a fool if you must, but I have training drills to attend. Good <hex:020835E3E90C0DFF17><hex:020813E3E90C05FF08>evening<hex:FF04>day<hex:03><hex:FF17><hex:020813E3E90C12FF04>day<hex:FF08>evening<hex:03><hex:03> to you!"
+81,"TEXT_FESEST402_03080_LEIHALIAPOH_000_059","Ah, Silvairre, I thought you would've mended that habit. You <hex:021A020203>still<hex:021A020103> cover your mouth every time you lie..."
+82,"TEXT_FESEST402_03080_LEIHALIAPOH_100_059","Must he always play the part of a curmudgeon? At least his lies are easy to see through..."
+83,"TEXT_FESEST402_03080_LEIHALIAPOH_000_060","Such a target he paints upon himself. Let us see him explain things away after I plant this egg in his weapons chest!"
+84,"TEXT_FESEST402_03080_YWAIN_000_070","Oho, it seems I've found myself a Hatching–tide basket! There's not another soul in sight, after all, and 'twould be a shame to leave it there unclaimed..."
+85,"TEXT_FESEST402_03080_NICOLIAUX_000_071","Whoa, that was close!"
+86,"TEXT_FESEST402_03080_YWAIN_000_072","Steady on there, lad.<hex:02100103>After the egg, were you? Well, far be it from me to deprive a child of his sought-after prize..."
+87,"TEXT_FESEST402_03080_NICOLIAUX_000_073","Hey, don't I know you from somewhere? I'm fairly sure you're a lancer, but I forget the name..."
+88,"TEXT_FESEST402_03080_NICOLIAUX_000_074","Well, no matter! You seem kind of worn down, so I'm giving the egg to you. Hope it cheers you up!"
+89,"TEXT_FESEST402_03080_YWAIN_000_075","Even at the rank of guildmaster, apparently I am a nameless, worn-down nobody...<hex:02100103>Hmph. Younglings these days."
+90,"TEXT_FESEST402_03080_YWAIN_000_076","Worn down...? That business with Foulques must be tiring me more than I care to admit. Mayhap I should retire early this evening..."
+91,"TEXT_FESEST402_03080_YWAIN_000_077","Worn down...? I suppose that unfortunate business with Foulques exhausted me more than I care to admit. Mayhap I should retire early this evening..."
+92,"TEXT_FESEST402_03080_BEATIN_000_090","To find the egg, you must <hex:021A020203>be<hex:021A020103> the egg, hm hm hm..."
+93,"TEXT_FESEST402_03080_FUFUCHA_000_091","Oh, Master Beatin, what a pleasant surprise."
+94,"TEXT_FESEST402_03080_BEATIN_000_092","Mistress Fufucha─the pleasure is all mine. Enjoying the merriment of the egg hunt, are we?"
+95,"TEXT_FESEST402_03080_FUFUCHA_000_093","I am. As much as I love being up to my elbows in soil, the excitement of the celebrations proved too strong a lure to resist. Although I appear to have arrived a touch late to claim this particular prize."
+96,"TEXT_FESEST402_03080_BEATIN_000_094","Nonsense. You will have this egg─I insist! Consider it a token of appreciation for the all the fine logs with which you supply us."
+97,"TEXT_FESEST402_03080_FUFUCHA_000_095","How can I refuse such a gracious offer. My thanks, Guildmaster."
+98,"TEXT_FESEST402_03080_BEATIN_000_096","Yes, your botanists truly have an eye for the most splendid timber."
+99,"TEXT_FESEST402_03080_FUFUCHA_000_097","I'm glad our harvest is of adequate quality..."
+100,"TEXT_FESEST402_03080_BEATIN_000_098","Now, now, no false modesty, child. Why, the teak we received the other day was of such surpassing beauty, I felt myself being drawn into its very grain..."
+101,"TEXT_FESEST402_03080_BEATIN_000_099","The abundant oils... That supple surface...<hex:02100103>It seemed an age ere the wood was dried, but my patience was repaid tenfold when I beheld its final form."
+102,"TEXT_FESEST402_03080_BEATIN_000_100","So resilient... So pliable...<hex:02100103>Such a labor of love it was that I have yet to commit the planks to a project. The mere thought of what I might craft leaves me aquiver with anticipation..."
+103,"TEXT_FESEST402_03080_BEATIN_000_101","Say, are you not free for the <hex:02083FE3E90C0DFF1B><hex:020817E3E90C05FF08>evening<hex:FF08>morning<hex:03><hex:FF1D><hex:020819E3E90C12FF0A>afternoon<hex:FF08>evening<hex:03><hex:03>? Shall we pull up some stools in the workshop and further discuss our mutual love for lumber? From forest to benchtop, there is so much joy we can share on the topic..."
+104,"TEXT_FESEST402_03080_FUFUCHA_000_102","I, er... I just remembered I forgot to water the succulents! Here, you take the egg! I really must be going..."
+105,"TEXT_FESEST402_03080_MIOUNNE_000_120","<yawn> Festivals do help bring the crowds to the Canopy, but by the Matron am I exhausted..."
+106,"TEXT_FESEST402_03080_MIOUNNE_000_121","Well, well, what do we have here? It must be one of those gift baskets everyone has been clamoring about."
+107,"TEXT_FESEST402_03080_GEVA_000_122","Mother Miounne. On the hunt for eggs as well, are you?"
+108,"TEXT_FESEST402_03080_MIOUNNE_000_123","I was just out stretching my legs and almost tripped over the thing. Pray take this one if you will─I must return to work."
+109,"TEXT_FESEST402_03080_GEVA_000_124","You look weary, Miounne. Hatching–tide is a busy time for Gridania, and for you especially, I should think."
+110,"TEXT_FESEST402_03080_MIOUNNE_000_125","...Are my troubles writ so plain?"
+111,"TEXT_FESEST402_03080_GEVA_000_126","I've raised two children, dear. Compared to their inexplicable moods and capricious needs, the source of your distress is refreshingly obvious."
+112,"TEXT_FESEST402_03080_GEVA_000_127","You will have tea with me, and I won't take no for an answer. We can't have the face of Gridania looking worn and haggard now, can we?"
+113,"TEXT_FESEST402_03080_MIOUNNE_000_128","I accept, then. But at the very least, you must allow me to brew the leaves."
+114,"TEXT_FESEST402_03080_GEVA_000_129","Of course! I'd be a fool to pass up a cup poured by Mother Miounne herself. Come─let's take our ease for a bit, and crack open this Hatching–tide treasure together."
+115,"TEXT_FESEST402_03080_BODYGUARD01623_000_140","Aha! I've found one! I only hope my lady will care for such a gift..."
+116,"TEXT_FESEST402_03080_BODYGUARD01623_000_141","Wha─ Elder Seedseer! I'd thought you ensconced within the Lotus Stand!"
+117,"TEXT_FESEST402_03080_KANESENNA_000_142","Keeper. The merry laughter of the townsfolk drew me out to join the celebrations, but I'd not thought to see you such an enthusiastic participant."
+118,"TEXT_FESEST402_03080_KANESENNA_000_143","Nor did I expect to stumble across an egg so quickly...though I believe you arrived some moments before me?"
+119,"TEXT_FESEST402_03080_BODYGUARD01623_000_144","Nay, my lady! I'm certain you discovered the egg first! The prize is yours! Congratulations!"
+120,"TEXT_FESEST402_03080_KANESENNA_000_145","Now, now, 'twould be unfair of me to claim what is rightfully yours."
+121,"TEXT_FESEST402_03080_BODYGUARD01623_000_146","You could never be unfair, Elder Seedseer! Even if I were to take it, this egg would...belong to you..."
+122,"TEXT_FESEST402_03080_KANESENNA_000_147","...There are other baskets to be found. I should be off, lest I miss my chance! Fare you well, Keeper."
+123,"TEXT_FESEST402_03080_BODYGUARD01623_000_148","Elder Seedseer! You needn't search for another! I would give you anything..."
+124,"TEXT_FESEST402_03080_BODYGUARD01623_000_149","Gods curse me for a coward! The perfect moment falls in my lap, yet my lips refuse to obey..."
+125,"TEXT_FESEST402_03080_JIHLIALIAPOH_000_180","You have the basket and the spot where it needs to be hidden, yes? Then why do you linger!? Quickly now, ere Hatching–tide passes and its wondrous influence fades!"
+126,"TEXT_FESEST402_03080_JIHLIALIAPOH_000_200","Well, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>? Were you witness to a Hatching–tide encounter?"
+127,"TEXT_FESEST402_03080_JIHLIALIAPOH_000_201","What mysterious magic this festival weaves! I knew you could help bring those meandering threads together!"
+128,"TEXT_FESEST402_03080_JIHLIALIAPOH_000_202","Ah, but my dream was filled with many such splendid tapestries. Should you wish to hatch another unexpected meeting, I have more eggs for you to hide!"

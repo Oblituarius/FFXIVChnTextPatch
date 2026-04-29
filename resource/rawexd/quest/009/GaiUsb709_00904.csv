@@ -2,61 +2,61 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_GAIUSB709_00904_SEQ_00,巨龍首營地的傭兵貝爾蒙特想找冒險者協助自己的工作。
-1,TEXT_GAIUSB709_00904_SEQ_01,貝爾蒙特很在意鳥人族的動向。探索巨龍首營地東邊的鳥人族巢穴。
-2,TEXT_GAIUSB709_00904_SEQ_02,探索鳥人族巢穴後發現了<hex:022811FF0A>EventItem<hex:F61E87430103>。將<hex:022811FF0A>EventItem<hex:F61E87430103>交給巨龍首營地的貝爾蒙特。
-3,TEXT_GAIUSB709_00904_SEQ_03,貝爾蒙特說黑衣紫杉是只在黑衣森林生長的樹木。他推測鳥人族是想要擴張庫爾札斯的殖民地規模……
-4,TEXT_GAIUSB709_00904_SEQ_04,
-5,TEXT_GAIUSB709_00904_SEQ_05,
-6,TEXT_GAIUSB709_00904_SEQ_06,
-7,TEXT_GAIUSB709_00904_SEQ_07,
-8,TEXT_GAIUSB709_00904_SEQ_08,
-9,TEXT_GAIUSB709_00904_SEQ_09,
-10,TEXT_GAIUSB709_00904_SEQ_10,
-11,TEXT_GAIUSB709_00904_SEQ_11,
-12,TEXT_GAIUSB709_00904_SEQ_12,
-13,TEXT_GAIUSB709_00904_SEQ_13,
-14,TEXT_GAIUSB709_00904_SEQ_14,
-15,TEXT_GAIUSB709_00904_SEQ_15,
-16,TEXT_GAIUSB709_00904_SEQ_16,
-17,TEXT_GAIUSB709_00904_SEQ_17,
-18,TEXT_GAIUSB709_00904_SEQ_18,
-19,TEXT_GAIUSB709_00904_SEQ_19,
-20,TEXT_GAIUSB709_00904_SEQ_20,
-21,TEXT_GAIUSB709_00904_SEQ_21,
-22,TEXT_GAIUSB709_00904_SEQ_22,
-23,TEXT_GAIUSB709_00904_SEQ_23,
-24,TEXT_GAIUSB709_00904_TODO_00,在鳥人族巢穴尋找證據
-25,TEXT_GAIUSB709_00904_TODO_01,將<hex:022811FF0A>EventItem<hex:F61E87430103>交給貝爾蒙特
-26,TEXT_GAIUSB709_00904_TODO_02,
-27,TEXT_GAIUSB709_00904_TODO_03,
-28,TEXT_GAIUSB709_00904_TODO_04,
-29,TEXT_GAIUSB709_00904_TODO_05,
-30,TEXT_GAIUSB709_00904_TODO_06,
-31,TEXT_GAIUSB709_00904_TODO_07,
-32,TEXT_GAIUSB709_00904_TODO_08,
-33,TEXT_GAIUSB709_00904_TODO_09,
-34,TEXT_GAIUSB709_00904_TODO_10,
-35,TEXT_GAIUSB709_00904_TODO_11,
-36,TEXT_GAIUSB709_00904_TODO_12,
-37,TEXT_GAIUSB709_00904_TODO_13,
-38,TEXT_GAIUSB709_00904_TODO_14,
-39,TEXT_GAIUSB709_00904_TODO_15,
-40,TEXT_GAIUSB709_00904_TODO_16,
-41,TEXT_GAIUSB709_00904_TODO_17,
-42,TEXT_GAIUSB709_00904_TODO_18,
-43,TEXT_GAIUSB709_00904_TODO_19,
-44,TEXT_GAIUSB709_00904_TODO_20,
-45,TEXT_GAIUSB709_00904_TODO_21,
-46,TEXT_GAIUSB709_00904_TODO_22,
-47,TEXT_GAIUSB709_00904_TODO_23,
-48,TEXT_GAIUSB709_00904_BELMONT_000_000,我是從格里達尼亞到這邊來掙錢的。<hex:02100103>在那邊成天都要和鳥人族爭鬥，<hex:02100103>想不到來到這山溝裡還要面對同樣的敵人。
-49,TEXT_GAIUSB709_00904_BELMONT_000_001,那些鳥人族最近動向十分可疑。<hex:02100103>給人的感覺很像在黑衣森林裡和他們發生爭端時那樣。
-50,TEXT_GAIUSB709_00904_BELMONT_000_002,關於這件事，能拜託你去鳥人族的據點裡調查一下，<hex:02100103>看看有沒有什麼線索嗎？<hex:02100103>我這邊雜務太多，就拜託你了。
-51,TEXT_GAIUSB709_00904_DUMMYTODO_000_010,在鳥人族巢穴取得<hex:022811FF0A>EventItem<hex:F61E87430103>
-52,TEXT_GAIUSB709_00904_DUMMYTODO_000_011,
-53,TEXT_GAIUSB709_00904_BELMONT_000_020,怎麼樣？<hex:02100103>有發現什麼線索嗎？
-54,TEXT_GAIUSB709_00904_BELMONT_000_030,……這個是<hex:022811FF0A>EventItem<hex:F61E87430103>啊。<hex:02100103>並且這種樹木在庫爾札斯是見不到的，<hex:02100103>只在黑衣森林北部林區裡才會有。
-55,TEXT_GAIUSB709_00904_BELMONT_000_031,在鳥人族的據點裡發現這個的話……<hex:02100103>那就意味著，他們在黑衣森林裡採伐樹木，<hex:02100103>然後運到庫爾札斯來。
-56,TEXT_GAIUSB709_00904_BELMONT_000_032,繼續這樣只看重和龍族的戰鬥的話，<hex:02100103>庫爾札斯的鳥人族殖民地會越變越大了吧。<hex:02100103>不過……對我來說有仗打的地方就有飯吃，這倒也不是壞事。
-57,TEXT_GAIUSB709_00904_POP_MESSAGE_000,察覺到了敵人的氣息！
+0,"TEXT_GAIUSB709_00904_SEQ_00","Belmont affects a sellsword's cynicism, but the Gods' Quiver in him dies hard. So urgently does he seek a scout that he will hire one himself."
+1,"TEXT_GAIUSB709_00904_SEQ_01","A veteran of many skirmishes with the Ixal, Belmont suspects that there is more to the beastmen's presence in this part of the world than meets the eye. He bids you use your stealth and cunning to search their lair to the east."
+2,"TEXT_GAIUSB709_00904_SEQ_02","After a review of the Ixal's housekeeping and a battle to the death, you discover nothing more unusual than a pile of yew logs. Still, they grew not from these woods, and the birdmen hardly kept them as pets. Return to the camp and give one of the logs to Belmont."
+3,"TEXT_GAIUSB709_00904_SEQ_03","According to Belmont, the yew you brought back is found only in the Twelveswood and is much favored by the Ixal, who plant the tree to create living fortifications. Belmont believes that this is evidence that the Ixal are settling in Coerthas, seizing on the distraction afforded by Ishgard's many troubles."
+4,"TEXT_GAIUSB709_00904_SEQ_04",""
+5,"TEXT_GAIUSB709_00904_SEQ_05",""
+6,"TEXT_GAIUSB709_00904_SEQ_06",""
+7,"TEXT_GAIUSB709_00904_SEQ_07",""
+8,"TEXT_GAIUSB709_00904_SEQ_08",""
+9,"TEXT_GAIUSB709_00904_SEQ_09",""
+10,"TEXT_GAIUSB709_00904_SEQ_10",""
+11,"TEXT_GAIUSB709_00904_SEQ_11",""
+12,"TEXT_GAIUSB709_00904_SEQ_12",""
+13,"TEXT_GAIUSB709_00904_SEQ_13",""
+14,"TEXT_GAIUSB709_00904_SEQ_14",""
+15,"TEXT_GAIUSB709_00904_SEQ_15",""
+16,"TEXT_GAIUSB709_00904_SEQ_16",""
+17,"TEXT_GAIUSB709_00904_SEQ_17",""
+18,"TEXT_GAIUSB709_00904_SEQ_18",""
+19,"TEXT_GAIUSB709_00904_SEQ_19",""
+20,"TEXT_GAIUSB709_00904_SEQ_20",""
+21,"TEXT_GAIUSB709_00904_SEQ_21",""
+22,"TEXT_GAIUSB709_00904_SEQ_22",""
+23,"TEXT_GAIUSB709_00904_SEQ_23",""
+24,"TEXT_GAIUSB709_00904_TODO_00","Search the Ixali lair for clues."
+25,"TEXT_GAIUSB709_00904_TODO_01","Deliver the black yew log to Belmont."
+26,"TEXT_GAIUSB709_00904_TODO_02",""
+27,"TEXT_GAIUSB709_00904_TODO_03",""
+28,"TEXT_GAIUSB709_00904_TODO_04",""
+29,"TEXT_GAIUSB709_00904_TODO_05",""
+30,"TEXT_GAIUSB709_00904_TODO_06",""
+31,"TEXT_GAIUSB709_00904_TODO_07",""
+32,"TEXT_GAIUSB709_00904_TODO_08",""
+33,"TEXT_GAIUSB709_00904_TODO_09",""
+34,"TEXT_GAIUSB709_00904_TODO_10",""
+35,"TEXT_GAIUSB709_00904_TODO_11",""
+36,"TEXT_GAIUSB709_00904_TODO_12",""
+37,"TEXT_GAIUSB709_00904_TODO_13",""
+38,"TEXT_GAIUSB709_00904_TODO_14",""
+39,"TEXT_GAIUSB709_00904_TODO_15",""
+40,"TEXT_GAIUSB709_00904_TODO_16",""
+41,"TEXT_GAIUSB709_00904_TODO_17",""
+42,"TEXT_GAIUSB709_00904_TODO_18",""
+43,"TEXT_GAIUSB709_00904_TODO_19",""
+44,"TEXT_GAIUSB709_00904_TODO_20",""
+45,"TEXT_GAIUSB709_00904_TODO_21",""
+46,"TEXT_GAIUSB709_00904_TODO_22",""
+47,"TEXT_GAIUSB709_00904_TODO_23",""
+48,"TEXT_GAIUSB709_00904_BELMONT_000_000","I hail from Gridania, <hex:020956E947FF25><hex:020814E905FF07>sister<hex:FF08>brother<hex:03> from the sea<hex:FF0C>same as you<hex:FF1F>desert <hex:020814E905FF07>sister<hex:FF08>brother<hex:03><hex:03>. Fighting Ixal is what we do there, but I sure didn't expect to see them in these mountains."
+49,"TEXT_GAIUSB709_00904_BELMONT_000_001","I know those shite-birds, and they're up to something. It's nothing I can go to my employer with... It's just a feeling. But whenever I got this feeling in the Twelveswood and nothing got done, something bad bit us on the arse."
+50,"TEXT_GAIUSB709_00904_BELMONT_000_002","I've not had a moment to spare and the feeling grows stronger. It ill becomes a sellsword to part with his own gil in this manner, but will you enter the Ixali lair to the east and see if there are any clues to be found?"
+51,"TEXT_GAIUSB709_00904_DUMMYTODO_000_010",""
+52,"TEXT_GAIUSB709_00904_DUMMYTODO_000_011",""
+53,"TEXT_GAIUSB709_00904_BELMONT_000_020","What news, <hex:020814E905FF07>sister<hex:FF08>brother<hex:03>? What is it that you carry?"
+54,"TEXT_GAIUSB709_00904_BELMONT_000_030","This is black yew from the North Shroud, unknown in Coerthas. The Ixal make of it living blinds and walls. But the yew being slow to grow, why would they bother to cut it down and convey it west? Unless..."
+55,"TEXT_GAIUSB709_00904_BELMONT_000_031","The Ixal mean to stay here─this is the beginning of a settlement. While the Ishgardians busy themselves with dragons, the birdmen are stealing this patch of Coerthas from right under their noses."
+56,"TEXT_GAIUSB709_00904_BELMONT_000_032","I tell you, unless the Holy See acts now, the Ixal will rapidly gain a foothold in this area. That means more war. And though that means more work for the likes of me, I have enough as is."
+57,"TEXT_GAIUSB709_00904_POP_MESSAGE_000","A rush of wings announces the Ixal! "

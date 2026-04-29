@@ -2,272 +2,272 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_VOICEMAN_03500_000010_YDA,我們過來啦！<hex:02100103>沒錯過什麼話題吧？
-1,TEXT_VOICEMAN_03500_000020_ALPHINAUD,我們當然是要等你們來了再開始的。<hex:02100103>好了，除了於里昂熱回沙之家去了之外，<hex:02100103>其他人都到齊了吧。
-2,TEXT_VOICEMAN_03500_000030_ALISAIE,所以你到底要說什麼？<hex:02100103>我們可都忙著呢。<hex:02100103>廢話少說，趕緊說正事吧。
-3,TEXT_VOICEMAN_03500_000040_ALPHINAUD,好吧……<hex:02100103>雖說暗之戰士的事情已經告一段落，但艾歐澤亞仍面臨著很多問題。<hex:02100103>大家也都有很多事需要處理。
-4,TEXT_VOICEMAN_03500_000050_ALPHINAUD,不過，我認為有一件事必須優先確定下來。<hex:02100103>為了在今後的行動中能夠保持協作，<hex:02100103>我們需要決定由誰來接任敏菲利亞的盟主之位。
-5,TEXT_VOICEMAN_03500_000060_ALISAIE,就這件事啊……<hex:02100103>那還用商量嗎？
-6,TEXT_VOICEMAN_03500_000070_ALISAIE,各位賢人看上去都沒有要當盟主的意思……<hex:02100103>從之前你們討論問題的情況來看，我覺得應該由你來做。<hex:02100103>而且你也擅長搞政治，應該不成問題吧？
-7,TEXT_VOICEMAN_03500_000080_ALPHINAUD,等一下，我沒那個打算……
-8,TEXT_VOICEMAN_03500_000090_ALPHINAUD,經過水晶義勇隊那件事之後，<hex:02100103>我深刻地認識到自己是多麼沒用。<hex:02100103>所以我決定今後以一個普通成員的身份行動。
-9,TEXT_VOICEMAN_03500_000100_YSHTOLA,既然大家都沒那個意願，<hex:02100103>那也沒有必要硬選出一個盟主吧？
-10,TEXT_VOICEMAN_03500_000110_THANCRED,是啊，要以功績來論的話，<hex:02100103>某位冒險者倒是挺合適的，<hex:02100103>但是再推給人家一個這麼重的擔子也有點太過分了。
-11,TEXT_VOICEMAN_03500_000120_PAPALYMO,桑克瑞德說得對，畢竟當盟主的限制太多了。<hex:02100103>我覺得現在我們之間互相都很了解，<hex:02100103>就算沒有盟主也不會有太大問題的。
-12,TEXT_VOICEMAN_03500_000130_TATARU,哇——哇——<hex:02100103>你沒事吧？！
-13,TEXT_VOICEMAN_03500_000140_ALPHINAUD,塔塔露，出了什麼事？！
-14,TEXT_VOICEMAN_03500_000150_TATARU,是這個姑娘負了重傷，<hex:02100103>剛進來就倒下了！
-15,TEXT_VOICEMAN_03500_000160_YDA,娜格？！<hex:02100103>你怎麼會在這裡？！<hex:02100103>雅·修特拉，快救救她……她是我的朋友！
-16,TEXT_VOICEMAN_03500_000170_YSHTOLA,可露兒，來幫我一把。<hex:02100103>用魔法對傷口止血。
-17,TEXT_VOICEMAN_03500_000180_KRILE,放心吧……血已經止住了。<hex:02100103>不過你真是太亂來了，<hex:02100103>竟然拖著傷成這樣的身體跑到這裡……
-18,TEXT_VOICEMAN_03500_000190_MNAAGO,謝謝……你們……<hex:02100103>因為……我有非常緊急的情況要報告。
-19,TEXT_VOICEMAN_03500_000200_MNAAGO,所以我只能選擇最短的路……<hex:02100103>可是那裡的帝國軍戒備森嚴……<hex:02100103>結果你們已經看到了，看來我還是有些高估自己了……
-20,TEXT_VOICEMAN_03500_000210_YDA,別這麼說啊！你這不是成功突圍了嗎！<hex:02100103>到底是什麼情報值得你冒這麼大風險？<hex:02100103>你差點就死了啊！
-21,TEXT_VOICEMAN_03500_000220_MNAAGO,伊達……這情報確實很重要……<hex:02100103>拂曉的各位，請容我重新自我介紹一下。<hex:02100103>我名叫梅·娜格……是阿拉米格解放軍的一員。
-22,TEXT_VOICEMAN_03500_000230_MNAAGO,我們得到消息，<hex:02100103>鐵面公卿要發動新的作戰……<hex:02100103>所以想要盡快通知帕帕力莫先生和伊達。
-23,TEXT_VOICEMAN_03500_000240_THANCRED,鐵面公卿……<hex:02100103>我聽過這個名字，<hex:02100103>好像是反抗帝國的激進派。
-24,TEXT_VOICEMAN_03500_000250_MNAAGO,是的，而且一直主張正面進攻。<hex:02100103>他們這次準備從阿拉米格方向出擊，<hex:02100103>對巴埃薩長城發起攻勢。
-25,TEXT_VOICEMAN_03500_000260_PAPALYMO,那座國境上的巨大城壁嗎？<hex:02100103>他們為什麼要做這麼魯莽的事情……
-26,TEXT_VOICEMAN_03500_000270_MNAAGO,從我的理解來看，<hex:02100103>恐怕他們是想通過拆掉國境線的圍牆，<hex:02100103>讓戰火蔓延到艾歐澤亞各國……
-27,TEXT_VOICEMAN_03500_000280_ALPHINAUD,他打算強行挑起戰爭，<hex:02100103>讓阿拉米格的帝國軍和艾歐澤亞同盟軍交戰？！<hex:02100103>就為了他的解放運動？
-28,TEXT_VOICEMAN_03500_000290_PAPALYMO,這種做法太輕率了。<hex:02100103>就算他們能夠成功，也不可能長時間守住長城。<hex:02100103>帝國軍很快就會派出增援過去打垮他們。
-29,TEXT_VOICEMAN_03500_000300_KRILE,不過即使帝國軍收復了長城，<hex:02100103>這次行動也有可能讓帝國和艾歐澤亞同盟再次開戰，<hex:02100103>我們必須趕快把情報傳達給各國。
-30,TEXT_VOICEMAN_03500_000310_YSHTOLA,沒錯……我去利姆薩·羅敏薩通知提督。<hex:02100103>桑克瑞德，烏爾達哈就拜託你了。
-31,TEXT_VOICEMAN_03500_000320_YSHTOLA,阿爾菲諾和阿莉塞立即去通知幻術皇大人。<hex:02100103>格里達尼亞離長城最近，也最危險。<hex:02100103>請她盡快召集各國領導人過去商議對策。
-32,TEXT_VOICEMAN_03500_000330_YSHTOLA,然後，伊修加德就麻煩你去一趟。<hex:02100103>把情況告訴艾默里克議長，<hex:02100103>並說服他派遣特使前往格里達尼亞。
-33,TEXT_VOICEMAN_03500_000340_YSHTOLA,塔塔露和可露兒留下來照顧傷員吧。<hex:02100103>千萬不要讓她亂來，以免傷口裂開。
-34,TEXT_VOICEMAN_03500_000350_YSHTOLA,應該沒有什麼遺漏了，<hex:02100103>我們行動起來吧。
-35,TEXT_VOICEMAN_03500_000360_PAPALYMO,這則來自基拉巴尼亞令人不安的消息<hex:02100103>或許是宣告終結來臨的狼煙
-36,TEXT_VOICEMAN_03500_000370_PAPALYMO,戰爭一旦開始 就意味著要付出犧牲
-37,TEXT_VOICEMAN_03500_000380_PAPALYMO,路易索瓦老爺子曾告訴過我<hex:02100103>必須睜開眼睛正視這一現實
-38,TEXT_VOICEMAN_03500_000390_PAPALYMO,因此 我要做出自己的選擇<hex:02100103>而她 也必須要做出她自己的選擇
-39,TEXT_VOICEMAN_03500_000400_KANESENNA,感謝各位朋友的到來。<hex:02100103>我想拂曉的各位已經把情況告訴大家了，<hex:02100103>在基拉巴尼亞，有一些危險的動向……
-40,TEXT_VOICEMAN_03500_000410_ALPHINAUD,是的。<hex:02100103>我們是直接從一名解放軍成員那裡得到的消息，<hex:02100103>可信度很高，我相信不會有錯。
-41,TEXT_VOICEMAN_03500_000420_RAUBAHN,就算那個「鐵面公卿」能夠攻下長城，<hex:02100103>他也不可能一直佔領下去。
-42,TEXT_VOICEMAN_03500_000430_RAUBAHN,如果帝國軍在奪回長城後趁勢攻入黑衣森林，<hex:02100103>那後果將不堪設想……
-43,TEXT_VOICEMAN_03500_000440_KANESENNA,在5年前的加爾提諾戰役中，<hex:02100103>我們集結了三國的軍事力量，<hex:02100103>也只不過和第七軍團的殘存勢力勢均力敵。
-44,TEXT_VOICEMAN_03500_000450_KANESENNA,如果帝國再次發動攻勢，<hex:02100103>僅憑格里達尼亞一國的戰鬥力，<hex:02100103>很難與之對抗。
-45,TEXT_VOICEMAN_03500_000460_AYMERIC,請讓我再次向各位表示歉意，<hex:02100103>伊修加德在靈災中沒有任何行動，<hex:02100103>我希望這次能有機會去彌補。
-46,TEXT_VOICEMAN_03500_000470_AYMERIC,因此，如果神納大人能夠准許，<hex:02100103>我們會派人增援格里達尼亞的守衛，<hex:02100103>為迎戰帝國軍盡一份力量。
-47,TEXT_VOICEMAN_03500_000480_YUGIRI,加雷馬帝國也是多瑪人民的仇敵……<hex:02100103>雖說力量微薄，我們也可以派出菁英忍者前來相助。
-48,TEXT_VOICEMAN_03500_000490_KANESENNA,感謝二位……<hex:02100103>請務必助我們格里達尼亞一臂之力。
-49,TEXT_VOICEMAN_03500_000500_RAUBAHN,我們需要制定出整個同盟軍內各方的對策，<hex:02100103>為有可能出現的最壞情況做準備。<hex:02100103>各位沒有其他問題了吧？
-50,TEXT_VOICEMAN_03500_000510_RAUBAHN,那我們就開始行動吧！<hex:02100103>搶佔先機方能獲取勝利！我們必須爭分奪秒！
-51,TEXT_VOICEMAN_03500_000520_ALISAIE,各國領導人都清楚我們還無法奪回阿拉米格，<hex:02100103>所以現在的判斷就是最現實的了，對吧？<hex:02100103>你還在擔心什麼呢？
-52,TEXT_VOICEMAN_03500_000530_ALPHINAUD,沒錯……<hex:02100103>我們現在確實沒有更好的選擇了。
-53,TEXT_VOICEMAN_03500_000540_ALPHINAUD,但是，我們現在做好應戰的準備，<hex:02100103>會不會正好順應了鐵面公卿的計劃。<hex:02100103>我總覺得漏掉了什麼事情，莫名感覺不安……
-54,TEXT_VOICEMAN_03500_000550_ILBERD,唔……還算……有點能耐……
-55,TEXT_VOICEMAN_03500_000551_ILBERD,但是已經晚了……<hex:02100103>你們就好好欣賞吧……<hex:02100103>我偉大計劃實現的瞬間！
-56,TEXT_VOICEMAN_03500_000560_SOLDIERA02354,我們成功了！<hex:02100103>終於把帝國的混蛋打倒了！
-57,TEXT_VOICEMAN_03500_000570_SOLDIERB02354,是啊，我們勝利了！
-58,TEXT_VOICEMAN_03500_000580_SOLDIERC02354,這樣一來，艾歐澤亞人也都該清醒過來了……<hex:02100103>重新認識到自己的敵人到底是誰！
-59,TEXT_VOICEMAN_03500_000590_LAURENTIUS,這……這也是……<hex:02100103>為了阿拉米格……為了解放艾歐澤亞……
-60,TEXT_VOICEMAN_03500_000600_LAURENTIUS,必須付出犧牲……
-61,TEXT_VOICEMAN_03500_000610_LAURENTIUS,好吧……<hex:02100103>啟動魔導兵器！
-62,TEXT_VOICEMAN_03500_000620_SOLDIERC02354,什、什麼聲音？！
-63,TEXT_VOICEMAN_03500_000630_SOLDIERB02354,帝、帝國軍的魔導兵器？！<hex:02100103>援軍這麼快就攻過來了嗎？！
-64,TEXT_VOICEMAN_03500_000640_SOLDIERA02354,快反擊！反擊！
-65,TEXT_VOICEMAN_03500_000650_SOLDIERC02354,不、不行了……我們被包圍了！<hex:02100103>已經沒有退路了……
-66,TEXT_VOICEMAN_03500_000660_SOLDIERC02354,啊——！
-67,TEXT_VOICEMAN_03500_000670_SOLDIERA02354,果然……僅憑我們是贏不了的……<hex:02100103>根本無法……違抗帝國……
-68,TEXT_VOICEMAN_03500_000680_SOLDIERA02354,偉大的拉爾戈……<hex:02100103>請給我力量……<hex:02100103>能夠壓制帝國的……力量……
-69,TEXT_VOICEMAN_03500_000690_PAPALYMO,你沒事吧！
-70,TEXT_VOICEMAN_03500_000700_ALPHINAUD,我們總算和潛入部隊匯合了。<hex:02100103>夕霧女士正在聯絡協助我們逃脫的飛空艇。
-71,TEXT_VOICEMAN_03500_000710_YDA,怎、怎麼辦！<hex:02100103>那些士兵……這太殘忍了……
-72,TEXT_VOICEMAN_03500_000720_ILBERD,呵呵呵呵……<hex:02100103>我還以為是誰呢，這不是總帥嗎……
-73,TEXT_VOICEMAN_03500_000730_ALPHINAUD,伊爾伯德！<hex:02100103>鐵面公卿果然就是你……
-74,TEXT_VOICEMAN_03500_000740_ALPHINAUD,快住手吧，伊爾伯德！你看不到你的同胞正在送死嗎？！<hex:02100103>你準備為了理想連理性都拋棄嗎？<hex:02100103>趕快下達撤退命令，我們也會協助拯救你的士兵！
-75,TEXT_VOICEMAN_03500_000750_ILBERD,撤退？<hex:02100103>勝利明明近在眼前，為什麼要撤退？！<hex:02100103>所以說你還只是個毛頭小子……
-76,TEXT_VOICEMAN_03500_000760_ALPHINAUD,那是……尼德霍格的龍眼？！<hex:02100103>我們明明丟到了雲海深處……為什麼……<hex:02100103>住手，伊爾伯德，那不是人類能觸及的東西！
-77,TEXT_VOICEMAN_03500_000770_ILBERD,真是一條漫長……艱難的道路……<hex:02100103>阿拉米格人太過習慣於敗北的屈辱……<hex:02100103>即使我聲嘶力竭地鼓舞我的同胞，也只能看到他們眼中的屈服。
-78,TEXT_VOICEMAN_03500_000780_ILBERD,烏爾達哈的流民街依然有許多同胞安於現狀，遊手好閒。<hex:02100103>如果沒有從羅羅力特那裡得到的資金和武器，<hex:02100103>這些人也不會跟我一起站在這裡。
-79,TEXT_VOICEMAN_03500_000790_ILBERD,奪回祖國，解放阿拉米格……這些話說起來容易，<hex:02100103>但想要做到就必須要有捨棄一切的覺悟。
-80,TEXT_VOICEMAN_03500_000800_ILBERD,這對眼睛不是人類可以觸及的？<hex:02100103>那我就變成惡鬼！<hex:02100103>以腐朽的靈魂為食糧，奪回我的祖國！
-81,TEXT_VOICEMAN_03500_000810_ALPHINAUD,你到底想要幹什麼！
-82,TEXT_VOICEMAN_03500_000820_ILBERD,你聽到了嗎？那是從勝利的喜悅墜落到死亡的絕望的叫喊！<hex:02100103>他們在死前產生的對帝國的憎恨和對力量的渴望！<hex:02100103>這種純粹的願望，才能召喚出不為信仰所生的「新的神明」！
-83,TEXT_VOICEMAN_03500_000830_PAPALYMO,不為信仰所生的……新的神明？！
-84,TEXT_VOICEMAN_03500_000840_ALPHINAUD,不，你不能通過召喚蠻神來與帝國戰鬥！<hex:02100103>伊爾伯德，你應該很清楚依靠蠻神的力量是件多麼愚蠢的事情！
-85,TEXT_VOICEMAN_03500_000850_ILBERD,我當然知道……我也知道蠻神的極限。<hex:02100103>所以，我才要凌駕於至今為止的所有蠻神！<hex:02100103>甚至超過第七靈災那條黑龍的力量！
-86,TEXT_VOICEMAN_03500_000860_PAPALYMO,在這裡召喚？現在？！
-87,TEXT_VOICEMAN_03500_000870_YDA,想都別想！
-88,TEXT_VOICEMAN_03500_000880_ILBERD,終結將要來臨……
-89,TEXT_VOICEMAN_03500_000881_ILBERD,阿拉米格萬歲！
-90,TEXT_VOICEMAN_03500_000890_ILBERD,終結將要來臨……<hex:02100103>我的痛苦！我的絕望！<hex:02100103>你會得到我的一切！
-91,TEXT_VOICEMAN_03500_000891_ILBERD,啊哈哈哈哈哈哈！
-92,TEXT_VOICEMAN_03500_000900_ALPHINAUD,這、這是……
-93,TEXT_VOICEMAN_03500_000910_PAPALYMO,怎麼會……他的死完成了召喚儀式……<hex:02100103>蠻神就要成型了！
-94,TEXT_VOICEMAN_03500_000920_YDA,不、不會吧……<hex:02100103>怎麼辦啊，帕帕力莫！
-95,TEXT_VOICEMAN_03500_000930_PAPALYMO,我來試試……有個辦法……
-96,TEXT_VOICEMAN_03500_000940_YDA,誒？<hex:02100103>你要怎麼做啊！
-97,TEXT_VOICEMAN_03500_000950_PAPALYMO,我試試……第七靈災的時候，<hex:02100103>路易索瓦老爺子用過的封印魔法……
-98,TEXT_VOICEMAN_03500_000960_ALPHINAUD,等一下！<hex:02100103>我們沒有做任何準備啊！<hex:02100103>這種情況下怎麼可能做得到……
-99,TEXT_VOICEMAN_03500_000970_PAPALYMO,阿爾菲諾……<hex:02100103>別忘了，我可是老爺子的得意門生……
-100,TEXT_VOICEMAN_03500_000980_ALPHINAUD,天命杖？<hex:02100103>對啊！那把杖裡確實還蘊含著巨大的能量……
-101,TEXT_VOICEMAN_03500_000990_YDA,太亂來了，帕帕力莫！<hex:02100103>因為……那個封印魔法不是……
-102,TEXT_VOICEMAN_03500_001000_YUGIRI,大家快上來！
-103,TEXT_VOICEMAN_03500_001010_PAPALYMO,快走！<hex:02100103>因為不知道會發生什麼反應……你們趕快離開這裡！
-104,TEXT_VOICEMAN_03500_001020_YDA,不要！帕帕力莫留下的話，那我也要留下！
-105,TEXT_VOICEMAN_03500_001030_PAPALYMO,不行！<hex:02100103>伊達！你還有自己的路要走！<hex:02100103>不能留在這裡！
-106,TEXT_VOICEMAN_03500_001040_PAPALYMO,把她帶走。<hex:02100103>你們快把她帶走！
-107,TEXT_VOICEMAN_03500_001050_ALPHINAUD,唔……
-108,TEXT_VOICEMAN_03500_001060_YDA,不要！放我下來！我不走！
-109,TEXT_VOICEMAN_03500_001070_PAPALYMO,還有你……趕快離開這裡！快走！
-110,TEXT_VOICEMAN_03500_Q4_000_001_NONE_VOICE,要離開嗎？
-111,TEXT_VOICEMAN_03500_A4_000_001_NONE_VOICE,那就交給帕帕力莫了
-112,TEXT_VOICEMAN_03500_A4_000_002_NONE_VOICE,要和帕帕力莫一起留下來
-113,TEXT_VOICEMAN_03500_001080_THANCRED,希爾達！我們走！
-114,TEXT_VOICEMAN_03500_001090_PAPALYMO,親愛的伊達……<hex:02100103>這是我們第二次永別了……
-115,TEXT_VOICEMAN_03500_001091_PAPALYMO,來看看我這個學生到底有多優秀吧！
-116,TEXT_VOICEMAN_03500_001100_GOSETSU,(-東方裝扮的壯漢-)勞煩打擾一下……敢問這裡可是艾歐澤亞？
-117,TEXT_VOICEMAN_03500_001110_PASSER02356,幹嘛啊突然……<hex:02100103>這裡叫黃昏灣，是薩納蘭的海上關口……
-118,TEXT_VOICEMAN_03500_001120_GOSETSU,(-東方裝扮的壯漢-)是否就是……「艾歐澤亞」呢？
-119,TEXT_VOICEMAN_03500_001130_PASSER02356,啊……對啊……是艾歐澤亞。
-120,TEXT_VOICEMAN_03500_001140_GOSETSU,(-東方裝扮的壯漢-)是嘛是嘛，一開始這麼回答不就好了……<hex:02100103>雖說費了點力氣，不過總算到了。
-121,TEXT_VOICEMAN_03500_001150_GOSETSU,(-東方裝扮的壯漢-)竟敢說以如此小船絕無可能到達艾歐澤亞之地！<hex:02100103>真是一群不懂裝懂的船夫！<hex:02100103>只要有決心和毅力，沒什麼事情是做不到的！
-122,TEXT_VOICEMAN_03500_001160_GOSETSU,(-東方裝扮的壯漢-)哈哈哈哈！
-123,TEXT_VOICEMAN_03500_001170_GOSETSU,(-東方裝扮的壯漢-)不過……這一路不吃不喝一直划著小船，<hex:02100103>多少還是有些吃力！<hex:02100103>有什麼地方可以填飽肚子嗎……
-124,TEXT_VOICEMAN_03500_001180_GOSETSU,(-東方裝扮的壯漢-)不對！這種時候更需要決心和毅力！<hex:02100103>還是先完成老夫的使命要緊！<hex:02100103>肚子餓這等小事，怎能阻止老夫前進的步伐！
-125,TEXT_VOICEMAN_03500_001190_PASSER02356,喂、喂！你沒事吧！
-126,TEXT_VOICEMAN_03500_001200_URIANGER,那身裝扮……
-127,TEXT_VOICEMAN_03500_001210_KANESENNA,感謝各位前來。<hex:02100103>鑒於當前形勢，我們就直接進入主題吧。
-128,TEXT_VOICEMAN_03500_001220_BODYGUARD01623,根據我們剛得到的最新消息，<hex:02100103>巴埃薩長城上空出現的「光繭」目前依然沒有消失。
-129,TEXT_VOICEMAN_03500_001230_BODYGUARD01623,根據賢人雅·修特拉閣下的觀測結果，<hex:02100103>其內部存在著蠻神級別的乙太……
-130,TEXT_VOICEMAN_03500_001240_RAUBAHN,果然是封印著伊爾伯德那混蛋召喚出的蠻神……<hex:02100103>帝國軍現在怎麼樣了？
-131,TEXT_VOICEMAN_03500_001250_BODYGUARD01623,是。<hex:02100103>帝國軍的飛空戰艦在幾天前嘗試過接近「光繭」，<hex:02100103>但是卻被擊落了……之後便再無任何行動。
-132,TEXT_VOICEMAN_03500_001260_KANESENNA,根據目擊到現場的士兵說，<hex:02100103>從繭中突然放射出一道光芒，<hex:02100103>一擊將飛空戰艦擊落……
-133,TEXT_VOICEMAN_03500_001270_KANESENNA,這就如同第七靈災時，<hex:02100103>黑色的蠻神那破壞萬物的火焰一般。
-134,TEXT_VOICEMAN_03500_001280_ALISAIE,古代蠻神……巴哈姆特……
-135,TEXT_VOICEMAN_03500_001290_ALPHINAUD,也就是說，繭中的蠻神雖然被封鎖住了行動，<hex:02100103>但的確是覺醒了？<hex:02100103>那麼封印被破壞也只是時間問題了！
-136,TEXT_VOICEMAN_03500_001300_CID,沒錯，現在形勢迫在眉睫，<hex:02100103>但是我們需要找到避開攻擊的方法，<hex:02100103>不然就會像那架墜落的飛空戰艦一樣了……
-137,TEXT_VOICEMAN_03500_001310_NERO,(-？？？？-)這點問題就被難住了？<hex:02100103>你們還真是讓我失望。
-138,TEXT_VOICEMAN_03500_001320_CID,你來這裡幹什麼？！
-139,TEXT_VOICEMAN_03500_001330_NERO,喲，好久不見了，加隆德。<hex:02100103>你可以對各位說明一下，<hex:02100103>現在是「需要向我求助」的時候了。
-140,TEXT_VOICEMAN_03500_001340_AYMERIC,什麼人？！
-141,TEXT_VOICEMAN_03500_001350_NERO,哎呀，真是失敬……在下尼祿·托爾·斯卡艾瓦。<hex:02100103>原加雷馬帝國第十四軍團幕僚長，<hex:02100103>不過現在只是一介無所屬的自由機械師。
-142,TEXT_VOICEMAN_03500_001360_CID,你來搗什麼亂！
-143,TEXT_VOICEMAN_03500_001370_NERO,你別急啊，先聽我把話說完。<hex:02100103>不過，你應該也清楚我想幹什麼吧？
-144,TEXT_VOICEMAN_03500_001380_NERO,那個光繭中的蠻神有著和巴哈姆特同級的力量。<hex:02100103>要和那種力量抗衡只有一個辦法，<hex:02100103>就是用曾經捕獲過巴哈姆特的強大兵器「歐米茄」。
-145,TEXT_VOICEMAN_03500_001390_RAUBAHN,歐米茄？！<hex:02100103>別開玩笑了，那東西埋在加爾提諾的地下深處。<hex:02100103>而且我們也不知道怎麼啟動它。
-146,TEXT_VOICEMAN_03500_001400_NERO,你知道你在和誰說話嗎？<hex:02100103>在你面前的可是讓究極神兵重生的天才機械師！<hex:02100103>怎麼可能會有做不到的事！
-147,TEXT_VOICEMAN_03500_001410_NERO,本天才可以破例幫你們一把……
-148,TEXT_VOICEMAN_03500_001420_CID,哼，你會那麼好心？相信你就有鬼了！<hex:02100103>你個率領帝國軍來侵略艾歐澤亞的傢伙！<hex:02100103>我們為什麼要聽你的話！
-149,TEXT_VOICEMAN_03500_001430_CID,哼，你會那麼好心？相信你就有鬼了！<hex:02100103>別以為水晶塔那次之後我就會信任你！
-150,TEXT_VOICEMAN_03500_001440_NERO,你太傷我的心了，加隆德……<hex:02100103>我們可是在同一所魔導院念過書的同學……<hex:02100103>再說你不也是帝國人嗎？
-151,TEXT_VOICEMAN_03500_001450_NERO,再說了，你們還有什麼別的方法嗎？<hex:02100103>還是說又要把所有問題都丟給那邊那位英雄？<hex:02100103>成功了就誇幾句完事，失敗了大家一起玩完？
-152,TEXT_VOICEMAN_03500_001460_NERO,我們來從理論上分析一下。<hex:02100103>既然現在歐米茄處於休眠狀態，<hex:02100103>就表明有人工控制它的手段……
-153,TEXT_VOICEMAN_03500_001470_KANESENNA,我想請教一個問題。呃……尼祿先生對吧。<hex:02100103>假如我們成功用歐米茄捕獲到那個蠻神，那之後要怎麼辦呢？<hex:02100103>我們不會重覆亞拉戈帝國當年的錯誤嗎？
-154,TEXT_VOICEMAN_03500_001480_NERO,歐米茄說到底只是一件工具……怎麼使用還是要看人。<hex:02100103>當然，如果你們想繼續讓歐米茄埋在地下，<hex:02100103>然後玩什麼法外戰區互相爭奪的遊戲，那隨你們。
-155,TEXT_VOICEMAN_03500_001490_CID,你說得太過分了，尼祿！<hex:02100103>就算能控制得了歐米茄，那使用它的也是人類。<hex:02100103>所以說才有可能重蹈亞拉戈的覆轍！
-156,TEXT_VOICEMAN_03500_001500_NERO,所以才有我們機械師去防止那種情況發生啊！<hex:02100103>「技術為了自由而存在」，這不是你的理念麼？
-157,TEXT_VOICEMAN_03500_001510_CID,唔……簡直強詞奪理……
-158,TEXT_VOICEMAN_03500_001520_CID,……你怎麼看？我們能信任他嗎？
-159,TEXT_VOICEMAN_03500_Q1_000_001_NONE_VOICE,要對他說些什麼？
-160,TEXT_VOICEMAN_03500_A1_000_001_NONE_VOICE,就相信尼祿吧
-161,TEXT_VOICEMAN_03500_A1_000_002_NONE_VOICE,我覺得不太可信，不過有我在，我會盯著他
-162,TEXT_VOICEMAN_03500_001530_CID,你這個人也太單純了……<hex:02100103>好吧，我們確實沒有更好的選擇，<hex:02100103>就信他一次好了。
-163,TEXT_VOICEMAN_03500_001540_CID,好吧，我也會小心提防。<hex:02100103>不過我們確實沒有更好的選擇了。<hex:02100103>就按照他說的去試一試。
-164,TEXT_VOICEMAN_03500_001550_CID,所以，能把這件事交給我們這兩個原帝國的機械師嗎？
-165,TEXT_VOICEMAN_03500_001560_KANESENNA,好吧，不過我們不能讓你們承擔全部的責任。<hex:02100103>啟用歐米茄的決斷，就由我們這些執政者來下達吧。<hex:02100103>各位，你們認為呢？
-166,TEXT_VOICEMAN_03500_001570_RAUBAHN,既然方案已經明確了，<hex:02100103>我們需要確定去啟動歐米茄的人選。
-167,TEXT_VOICEMAN_03500_001580_RAUBAHN,西德，由你來帶隊。<hex:02100103>拂曉方面最好能派出一些人負責護衛，<hex:02100103>同時也負責對尼祿進行監視。
-168,TEXT_VOICEMAN_03500_001590_ALPHINAUD,好的。<hex:02100103>法外戰區牽扯到各城邦的利權，<hex:02100103>拂曉處於中立立場，可以避免無謂的糾紛。
-169,TEXT_VOICEMAN_03500_001600_ALISAIE,既然這樣，讓多瑪的忍者也一起去吧？<hex:02100103>如果看到那個叫什麼尼祿的有可疑的行為，<hex:02100103>就立刻幹掉他。
-170,TEXT_VOICEMAN_03500_001610_YUGIRI,明白……
-171,TEXT_VOICEMAN_03500_001620_NERO,這位大姐看著好凶啊……<hex:02100103>放輕鬆，放輕鬆，<hex:02100103>我們好好相處吧！
-172,TEXT_VOICEMAN_03500_001630_NERO,這裡就是你們拂曉的本部啊……<hex:02100103>我之前對賢人聚集的地方還有過一些期待，<hex:02100103>可這裡竟然連一點魔導技術的影子都沒有……
-173,TEXT_VOICEMAN_03500_001640_NERO,我深切地感受到艾歐澤亞人是多麼落後了。
-174,TEXT_VOICEMAN_03500_001650_TATARU,你這人真是沒禮貌。<hex:02100103>石之家也是有最新魔導技術的。
-175,TEXT_VOICEMAN_03500_001660_TATARU,我們可是有魏吉先生用最先進的技術做的<hex:02100103>「熱氣騰騰水壺十四號」，好用得不得了呢！
-176,TEXT_VOICEMAN_03500_001670_ALPHINAUD,讓你們久等了……
-177,TEXT_VOICEMAN_03500_001680_ALPHINAUD,雅·修特拉、可露兒還有桑克瑞德<hex:02100103>留在黑衣森林裡了，<hex:02100103>他們還需要繼續監測「光繭」。
-178,TEXT_VOICEMAN_03500_001690_YDA,我留在那邊也沒什麼意義，<hex:02100103>所以就一起過來了。<hex:02100103>我不能讓帕帕力莫用生命換來的時間白白浪費掉……
-179,TEXT_VOICEMAN_03500_001700_GOSETSU,(-東方裝扮的壯漢-)打擾了！！
-180,TEXT_VOICEMAN_03500_001710_ALISAIE,那個大塊頭怎麼回事啊……
-181,TEXT_VOICEMAN_03500_001720_GOSETSU,(-東方裝扮的壯漢-)敢問此處可是拂曉賢人所居住的石之家？<hex:02100103>老夫經由於里昂熱閣下介紹前來此地！
-182,TEXT_VOICEMAN_03500_001730_GOSETSU,(-東方裝扮的壯漢-)哦、哦哦哦！<hex:02100103>那位女子……不是夕霧嗎？！<hex:02100103>老夫找你找得好苦啊！
-183,TEXT_VOICEMAN_03500_001740_ALISAIE,夕霧……你認識那個邋遢的大塊頭？
-184,TEXT_VOICEMAN_03500_001750_YUGIRI,豪雪？！你為什麼會來到這裡……
-185,TEXT_VOICEMAN_03500_001760_GOSETSU,夕霧，老夫為了找你，<hex:02100103>划著小舟從遙遠的多瑪來到這裡！
-186,TEXT_VOICEMAN_03500_001770_GOSETSU,雖成功到達港口，<hex:02100103>但因為肚子實在太餓，導致寸步難行……<hex:02100103>承蒙於里昂熱閣下出手相助，否則老夫危矣。
-187,TEXT_VOICEMAN_03500_001780_GOSETSU,隨後老夫在吃飯時稍作打聽，<hex:02100103>得知多瑪之民正在開拓此地！<hex:02100103>便是沒想到，才剛到這裡就找到了你，簡直太幸運了！
-188,TEXT_VOICEMAN_03500_001790_GOSETSU,好了，夕霧，快做好準備！<hex:02100103>主公現正陷於前所未有的危難之中！<hex:02100103>速隨老夫回到故鄉多瑪！
-189,TEXT_VOICEMAN_03500_001800_YUGIRI,抱歉，豪雪……<hex:02100103>在下還有任務在身，無法立刻返回。
-190,TEXT_VOICEMAN_03500_001810_GOSETSU,什麼！你竟然拒絕回歸？<hex:02100103>你難道忘了主公的恩情嗎？！<hex:02100103>滴水之恩尚需湧泉相報，主公此刻正陷於危機啊！
-191,TEXT_VOICEMAN_03500_001820_YUGIRI,主公曾命在下帶領人民逃離，並時刻保護好逃離的人民。<hex:02100103>而且，在場的拂曉各位是我們的救命恩人，<hex:02100103>這時回去，便是不懂知恩圖報，主公會立刻將在下處刑吧。
-192,TEXT_VOICEMAN_03500_001830_GOSETSU,嗯……言之有理……
-193,TEXT_VOICEMAN_03500_001840_YUGIRI,況且如今的事態，也威脅到了人民的安危。<hex:02100103>因此在下受任於此，必須挺身而出。<hex:02100103>如果在下置任務和人民於不顧，豈不是丟盡主公的顏面。
-194,TEXT_VOICEMAN_03500_001850_NERO,喂喂，我們知道你們都很忠心。<hex:02100103>但是現在情況緊急，<hex:02100103>我們能不能先解決帝國軍和歐米茄的事再敘舊？
-195,TEXT_VOICEMAN_03500_001860_GOSETSU,帝、國、軍？！
-196,TEXT_VOICEMAN_03500_001870_GOSETSU,夕霧，敵人莫非是萬惡的加雷馬帝國嗎？
-197,TEXT_VOICEMAN_03500_001880_GOSETSU,敵人是帝國便另當別論！你怎麼不早說！<hex:02100103>這可是讓帝國兵領教老夫厲害的好機會，怎能放過！<hex:02100103>老夫也來幫你們，快，快帶老夫前往戰場！
-198,TEXT_VOICEMAN_03500_001890_NERO,這麼一來就……好了……
-199,TEXT_VOICEMAN_03500_001900_NERO,傳送裝置已經啟動了。<hex:02100103>我們可以用這個瞬間到達歐米茄的控制室。
-200,TEXT_VOICEMAN_03500_001910_CID,你的動作看上去很熟練啊……<hex:02100103>你之前來過這裡？
-201,TEXT_VOICEMAN_03500_001920_NERO,當然來過，<hex:02100103>要躲開那些守衛也挺不容易。
-202,TEXT_VOICEMAN_03500_001930_NERO,這麼好玩的玩具怎麼能放著不玩呢……<hex:02100103>我可是做足了調查。<hex:02100103>你可以相信我，準備工作絕對沒有問題。
-203,TEXT_VOICEMAN_03500_001940_CID,相信你？<hex:02100103>好吧，要說求知慾和技術，<hex:02100103>我倒確實是信得過你……
-204,TEXT_VOICEMAN_03500_001950_GRYNEWAHT,真沒想到，只是追蹤一艘可疑的飛空艇，<hex:02100103>竟然發現了通緝中的西德·加隆德！
-205,TEXT_VOICEMAN_03500_001960_GRYNEWAHT,既然天才機械師會出現在這裡，<hex:02100103>說明那東西一定就在附近了吧？
-206,TEXT_VOICEMAN_03500_001970_GRYNEWAHT,哇哈哈哈哈！<hex:02100103>今天我是走了大運了！
-207,TEXT_VOICEMAN_03500_001980_NERO,嘖……帝國軍果然放出了斥候啊。<hex:02100103>喂，你們可要好好把他們擋住了！
-208,TEXT_VOICEMAN_03500_001990_CID,可惡，不能讓那傢伙自己先傳送過去！<hex:02100103>抱歉，我去跟著他，<hex:02100103>那些傢伙就交給你們了！
-209,TEXT_VOICEMAN_03500_002000_GOSETSU,老夫乃是多瑪之將豪雪！<hex:02100103>來堂堂正正一決勝負！
-210,TEXT_VOICEMAN_03500_002010_NERO,解除時間凍結……系統檢測全部通過！<hex:02100103>你那邊呢？
-211,TEXT_VOICEMAN_03500_002020_CID,我這裡也搞定了！<hex:02100103>它要覺醒了！
-212,TEXT_VOICEMAN_03500_002030_NERO,哈哈哈！這玩具簡直太棒了！<hex:02100103>啟動之後就立刻識別到了光繭！<hex:02100103>一定是系統設定成自動掃描某種強度的能量源。
-213,TEXT_VOICEMAN_03500_002040_CID,不過，我們好像沒有辦法直接控制它，<hex:02100103>和究極神兵不同，它是完全自動型的，<hex:02100103>不需要人類操控。
-214,TEXT_VOICEMAN_03500_002050_CID,啟動後，歐米茄會去捕獲繭中的蠻神。<hex:02100103>之後我們能做的，<hex:02100103>只有使用時間凍結系統來停止它的活動。
-215,TEXT_VOICEMAN_03500_002060_NERO,出現問題頂多緊急停止就好。<hex:02100103>雖然沒法做詳細的驗證，<hex:02100103>但有你跟我在不可能做不到的。
-216,TEXT_VOICEMAN_03500_002070_YDA,我……聽不太懂他們在說什麼……<hex:02100103>你覺得這樣真的沒問題嗎？
-217,TEXT_VOICEMAN_03500_Q2_000_001_NONE_VOICE,要對她說些什麼？
-218,TEXT_VOICEMAN_03500_A2_000_001_NONE_VOICE,你是怎麼想的呢？
-219,TEXT_VOICEMAN_03500_A2_000_002_NONE_VOICE,還有別的方法嗎？
-220,TEXT_VOICEMAN_03500_002080_YDA,我的想法？我……
-221,TEXT_VOICEMAN_03500_002090_YDA,嗯……別的……沒了吧……
-222,TEXT_VOICEMAN_03500_002100_YDA,好吧……<hex:02100103>西德，你讓開……<hex:02100103>是按下那個按鈕是吧？
-223,TEXT_VOICEMAN_03500_002110_CID,啊……對。
-224,TEXT_VOICEMAN_03500_002120_YDA,帕帕力莫……這是你爭取來的機會……<hex:02100103>所以，就由我……就由我承擔起責任，按下按鈕吧！<hex:02100103>是為了你……也為了我！
-225,TEXT_VOICEMAN_03500_002130_NERO,哈哈哈哈……太妙了，太妙了……<hex:02100103>就是這樣，讓我們看看你的能耐！
-226,TEXT_VOICEMAN_03500_002140_CID,啟動程式已經運行！<hex:02100103>歐米茄要出發了！
-227,TEXT_VOICEMAN_03500_002150_CID,歐米茄的反應消失了……<hex:02100103>這是怎麼回事？<hex:02100103>我還沒有啟動時間凍結系統啊！
-228,TEXT_VOICEMAN_03500_002160_GOSETSU,到底什麼情況？<hex:02100103>老夫對機械一竅不通，完全搞不清楚狀況啊……
-229,TEXT_VOICEMAN_03500_002170_NERO,我和西德的操作是完美無缺的。<hex:02100103>但是，歐米茄發出的信號中斷了。<hex:02100103>我們需要聯繫一下在現場觀測的傢伙！
-230,TEXT_VOICEMAN_03500_002180_CID,嗯，總之先啟動了時間凍結系統。<hex:02100103>這麼一來也能防止失控。<hex:02100103>好了，我們趕快回到格里達尼亞吧！
-231,TEXT_VOICEMAN_03500_002190_YDA,歐米茄……把光繭解決了……
-232,TEXT_VOICEMAN_03500_002200_YDA,帕帕力莫的魔法，正在逐漸消失……<hex:02100103>因為……我們的聯繫斷開了……
-233,TEXT_VOICEMAN_03500_002210_ALPHINAUD,太好了，你們兩個都沒事……<hex:02100103>我聽說歐米茄和蠻神的衝突特別激烈……
-234,TEXT_VOICEMAN_03500_002220_YSHTOLA,我們都沒事，戰鬥是在高空中進行的。<hex:02100103>好像波及到了長城的另一側，<hex:02100103>不過好在這邊沒事，我們才能繼續觀測。
-235,TEXT_VOICEMAN_03500_002230_KRILE,那簡直像是在做噩夢……<hex:02100103>從光繭中出現龍型的蠻神……<hex:02100103>就像是由純粹的破壞力集結而成的一樣。
-236,TEXT_VOICEMAN_03500_002240_ALPHINAUD,既然是利用尼德霍格的龍眼召喚的蠻神，<hex:02100103>那麼成為龍型也不難理解。<hex:02100103>伊爾伯德就是想利用它毀滅帝國吧……
-237,TEXT_VOICEMAN_03500_002250_KRILE,可即使是充滿怨恨與絕望的蠻神，<hex:02100103>也在與歐米茄的戰鬥中處於下風……<hex:02100103>亞拉戈的力量真的讓我不知怎麼表達才好……
-238,TEXT_VOICEMAN_03500_002260_ALPHINAUD,這一連串的事態太混亂了，<hex:02100103>伊達人呢？她還好嗎？
-239,TEXT_VOICEMAN_03500_002270_YSHTOLA,她在上面。<hex:02100103>剛才我們沒有去打擾她，<hex:02100103>不過現在你們來了，我們一起上去吧。
-240,TEXT_VOICEMAN_03500_002280_YDA,光繭……已經消失了呢。<hex:02100103>他留下的最後的遺物……
-241,TEXT_VOICEMAN_03500_002290_ALPHINAUD,伊達……
-242,TEXT_VOICEMAN_03500_002300_YDA,我並沒有在後悔。<hex:02100103>也沒有想怪罪任何人。<hex:02100103>我都明白的。
-243,TEXT_VOICEMAN_03500_002310_YDA,我知道，帕帕力莫想要使用的封印魔法是需要付出生命的。<hex:02100103>我也知道那只能用來拖延時間。
-244,TEXT_VOICEMAN_03500_002320_YSHTOLA,伊達……你……
-245,TEXT_VOICEMAN_03500_002330_YDA,我不能總是躲在帕帕力莫那小小的背影后面。<hex:02100103>我也不能再繼續用這個面具偽裝自己了。
-246,TEXT_VOICEMAN_03500_002340_YDA,20年前……在阿拉米格被帝國佔領的那一天，<hex:02100103>我還只是個不到5歲的孩子。
-247,TEXT_VOICEMAN_03500_002350_YDA,我的父親當時是革命軍的一名首領……<hex:02100103>正在為了推翻暴君的統治而戰鬥。
-248,TEXT_VOICEMAN_03500_002360_YDA,我的姐姐……<hex:02100103>也在協助父親進行戰鬥。<hex:02100103>她是一個非常善良、堅強、帥氣的姐姐……
-249,TEXT_VOICEMAN_03500_002370_YDA,帝國軍入侵之後，情況發生了變化，<hex:02100103>父親加入了抵抗帝國侵略的戰鬥中，之後便再也沒有回來。<hex:02100103>姐姐帶著我不斷地逃亡……最後我們流落到薩雷安。
-250,TEXT_VOICEMAN_03500_002380_YDA,在那裡，我們遇到了路易索瓦大師，<hex:02100103>姐姐為了奪回故鄉而加入了救世詩盟，並且成為了一名賢人。<hex:02100103>我一直為姐姐感到驕傲……
-251,TEXT_VOICEMAN_03500_002390_YSHTOLA,你戴著那個面具，自稱「伊達」，<hex:02100103>是因為對姐姐的憧憬嗎？<hex:02100103>還是說，有繼承她意志的覺悟？
-252,TEXT_VOICEMAN_03500_002400_YDA,果然……你已經察覺到了啊。<hex:02100103>我並不是真的伊達……
-253,TEXT_VOICEMAN_03500_002410_YSHTOLA,當然了。<hex:02100103>其他的賢人也都是一眼就看出來了。<hex:02100103>但是帕帕力莫讓我們不要說破。
-254,TEXT_VOICEMAN_03500_002420_YDA,看來我真是自作聰明了，<hex:02100103>我還以為能夠瞞過你們……
-255,TEXT_VOICEMAN_03500_002430_YDA,伊達姐姐在6年前的任務中犧牲了。<hex:02100103>那是一次協助阿拉米格難民逃亡的任務，<hex:02100103>她為了救一個小姑娘而……她明明那麼強……
-256,TEXT_VOICEMAN_03500_Q3_000_001_NONE_VOICE,要對她說些什麼？
-257,TEXT_VOICEMAN_03500_A3_000_001_NONE_VOICE,為什麼一直什麼都不說？
-258,TEXT_VOICEMAN_03500_A3_000_002_NONE_VOICE,……
-259,TEXT_VOICEMAN_03500_002440_YDA,抱歉……我一直瞞著你……<hex:02100103>我的真名叫「莉瑟」。
-260,TEXT_VOICEMAN_03500_002450_YDA,(-莉瑟-)在帕帕力莫將姐姐的遺物交給我的那一刻，<hex:02100103>我看著這個面具，就決定了。<hex:02100103>我想成為他的搭檔，以姐姐的身份。
-261,TEXT_VOICEMAN_03500_002460_YDA,(-莉瑟-)不過我並不是想要成為姐姐。<hex:02100103>我當時迷失了自我，不知道自己應該怎麼走下去。<hex:02100103>而扮演一個角色看上去要簡單一些。
-262,TEXT_VOICEMAN_03500_002470_YDA,(-莉瑟-)帕帕力莫同意了我的想法，<hex:02100103>但那並不是他希望我去做的。<hex:02100103>他希望我能夠走上自己的路……那也是他最後的遺言……
-263,TEXT_VOICEMAN_03500_002480_YDA,(-莉瑟-)他用魔法給我印上的賢人紋身也消失了。<hex:02100103>我現在已經再也沒有借口了。
-264,TEXT_VOICEMAN_03500_002490_YDA,(-莉瑟-)所以我必須要做出選擇，以莉瑟的身份……<hex:02100103>為了達成父親和姐姐的夙願……<hex:02100103>我想要奪回阿拉米格……奪回我們的故鄉！
-265,TEXT_VOICEMAN_03500_002500_YUGIRI,大戰即將再次開始……
-266,TEXT_VOICEMAN_03500_002510_GOSETSU,你是在後悔向帝國舉起反旗嗎？
-267,TEXT_VOICEMAN_03500_002520_YUGIRI,要說完全沒有迷惘，那是說謊。<hex:02100103>但是，在下不會放下武器……
-268,TEXT_VOICEMAN_03500_002530_GOSETSU,沒錯，戰鬥尚未終結。<hex:02100103>隨老夫回去吧，夕霧……<hex:02100103>回到東方，為了多瑪！
+0,"TEXT_VOICEMAN_03500_000010_YDA","We're here! Did we miss anything?"
+1,"TEXT_VOICEMAN_03500_000020_ALPHINAUD","We would not presume to begin without you, Yda.<hex:02100103>Urianger has returned to the Waking Sands, but everyone else is now present."
+2,"TEXT_VOICEMAN_03500_000030_ALISAIE","Yes, but for <hex:021A020203>what<hex:021A020103>, exactly? We all have duties to attend to, Alphinaud, so you may dispense with the preamble."
+3,"TEXT_VOICEMAN_03500_000040_ALPHINAUD","Thank you, Alisaie. It is the very subject of those duties which compelled me to call this gathering. Though the Warriors of Darkness no longer pose a threat, Eorzea's many troubles demand no less of our attention."
+4,"TEXT_VOICEMAN_03500_000050_ALPHINAUD","And while I stand by the decision to approach each task as we see fit, I fear our effectiveness will ultimately be diminished should we continue to act in ignorance of each other's efforts. Thus I propose we elect a successor to Minfilia─not to serve as a fully fledged Antecedent, perhaps, but as a coordinator of operations."
+5,"TEXT_VOICEMAN_03500_000060_ALISAIE","Is that all? Then the decision seems clear."
+6,"TEXT_VOICEMAN_03500_000070_ALISAIE","No one else has shown any enthusiasm for the role. And judging by your performance at our previous meeting, you would seem the perfect candidate. You always did have a flair for politics."
+7,"TEXT_VOICEMAN_03500_000080_ALPHINAUD","I-I did not mean to─ That was not my intention."
+8,"TEXT_VOICEMAN_03500_000090_ALPHINAUD","As my tenure as commander of the Crystal Braves comprehensively demonstrated, I lack the qualities required for such an office. I would much prefer to remain as I am now─a soldier in the field, so to speak."
+9,"TEXT_VOICEMAN_03500_000100_YSHTOLA","Should none of our number step forward, must we then constrain some unwilling candidate to take up the position?"
+10,"TEXT_VOICEMAN_03500_000110_THANCRED","Well, based on merit alone, a certain adventurer would be my choice─though I concede <hex:02080CE905FF04>she<hex:FF03>he<hex:03> might struggle to balance <hex:02080DE905FF04>her<hex:FF04>his<hex:03> new responsibilities with, let me see...slaying primals, thwarting legatuses, and feeding the orphaned poor."
+11,"TEXT_VOICEMAN_03500_000120_PAPALYMO","Thancred makes a good point. Any who would wear such a mantle would be bound by its obligations. Have we not become sufficiently familiar with each other's methods to act without an overseer? At present, I see no cause to so willingly limit one of our number."
+12,"TEXT_VOICEMAN_03500_000130_TATARU","Oh! Oh, my goodness! You're─ Help! I need some help here!"
+13,"TEXT_VOICEMAN_03500_000140_ALPHINAUD","Tataru! Are you all right!?"
+14,"TEXT_VOICEMAN_03500_000150_TATARU","<hex:021A020203>Me<hex:021A020103>!? I'm fine! It's this poor girl who just staggered in and collapsed on the floor that I'm worried about!"
+15,"TEXT_VOICEMAN_03500_000160_YDA","Naago!? Gods, how did─ Y'shtola, please, you have to help her!"
+16,"TEXT_VOICEMAN_03500_000170_YSHTOLA","Krile, a hand if you would. Let us see about closing these wounds."
+17,"TEXT_VOICEMAN_03500_000180_KRILE","Now, we've staunched the bleeding, but it may be a while before you can move about again. Though, having seen your wounds, I'm surprised you were still moving at all..."
+18,"TEXT_VOICEMAN_03500_000190_MNAAGO","Thank you... My message... It was too important to delay."
+19,"TEXT_VOICEMAN_03500_000200_MNAAGO","I took the shortest route I could, though I knew it was more heavily patrolled... As you can see, my efforts at evasion were not entirely successful."
+20,"TEXT_VOICEMAN_03500_000210_YDA","Honestly, you're too brave for your own good! What was so urgent that you needed to fight half the Empire to get here? You could have been killed!"
+21,"TEXT_VOICEMAN_03500_000220_MNAAGO","I'm sorry, Yda. I had good reason... Ah, but I imagine your friends are wondering who this bloody mess of a Miqo'te is. My name is M'naago, and I belong to the Ala Mhigan Resistance."
+22,"TEXT_VOICEMAN_03500_000230_MNAAGO","I came to warn Yda and Papalymo about one of our leaders─a man who calls himself the Griffin. He's always been dangerous, but he's planning something new...something reckless."
+23,"TEXT_VOICEMAN_03500_000240_THANCRED","The Griffin, you say? I've heard the name. Rumor has it, your man is eager to test his claws."
+24,"TEXT_VOICEMAN_03500_000250_MNAAGO","Aye, and on no easy target. He means to assault Baelsar's Wall from the Ala Mhigan side."
+25,"TEXT_VOICEMAN_03500_000260_PAPALYMO","But what does the Griffin possibly hope to gain from such an attack?"
+26,"TEXT_VOICEMAN_03500_000270_MNAAGO","From what I understand, he wants the fires of war to spread to Eorzea. And for that, he needs to control the border with Gridania."
+27,"TEXT_VOICEMAN_03500_000280_ALPHINAUD","...So he means to spark a conflict between the Alliance and the imperial forces stationed in Ala Mhigo─to have Eorzea's armies aid in the liberation effort, whether they will it or no."
+28,"TEXT_VOICEMAN_03500_000290_PAPALYMO","His plan is flawed. Even should the Resistance succeed in occupying the Wall, they would not be able to hold it. Imperial reinforcements would drive them out within a week!"
+29,"TEXT_VOICEMAN_03500_000300_KRILE","Be that as it may, if there is even a chance that this scheme could bring about an escalation in hostilities between Eorzea and the Empire, the Alliance must be informed."
+30,"TEXT_VOICEMAN_03500_000310_YSHTOLA","Agreed. I shall depart for Limsa Lominsa forthwith and seek an audience with the Admiral. Thancred─Ul'dah is yours."
+31,"TEXT_VOICEMAN_03500_000320_YSHTOLA","Alphinaud and Alisaie─make haste to the Twelveswood, and notify the Elder Seedseer of the danger to Gridania. She will duly call a council of the Alliance leaders, whom you must be ready to receive."
+32,"TEXT_VOICEMAN_03500_000330_YSHTOLA","You will be our voice in Ishgard. Explain the situation to Ser Aymeric, and encourage him to send an envoy."
+33,"TEXT_VOICEMAN_03500_000340_YSHTOLA","Tataru, Krile─I leave the care of our injured messenger to you. See that she remains quiescent and her wounds closed."
+34,"TEXT_VOICEMAN_03500_000350_YSHTOLA","I believe that covers everything. Let us be about our tasks."
+35,"TEXT_VOICEMAN_03500_000360_PAPALYMO","I suspect the ill tidings from Gyr Abania will be held as a turning point─the beginning to a bloody end."
+36,"TEXT_VOICEMAN_03500_000370_PAPALYMO","The business of war was ever conducted with the coin of self-sacrifice."
+37,"TEXT_VOICEMAN_03500_000380_PAPALYMO","'Twas Master Louisoix himself who taught us that such costs are not to be ignored or denied."
+38,"TEXT_VOICEMAN_03500_000390_PAPALYMO","And so I shall embrace them. When the time comes, I will make my choice─as you will yours."
+39,"TEXT_VOICEMAN_03500_000400_KANESENNA","I bid you welcome, my friends. As you will by now be aware, the Scions of the Seventh Dawn have come into possession of certain intelligence concerning recent developments in the region of Gyr Abania. It springs, I am assured, from an unimpeachable source─is that not so, Master Alphinaud?"
+40,"TEXT_VOICEMAN_03500_000410_ALPHINAUD","Indeed, Elder Seedseer. Our information comes directly from a member of the Resistance's inner circle, and we have no cause to doubt its veracity."
+41,"TEXT_VOICEMAN_03500_000420_RAUBAHN","This “Griffin” of theirs is a fool if he thinks he can hold Baelsar's Wall against the Empire."
+42,"TEXT_VOICEMAN_03500_000430_RAUBAHN","When the imperials move to take it back, they will come in force─and the resulting fighting is all but certain to spill over into the Black Shroud..."
+43,"TEXT_VOICEMAN_03500_000440_KANESENNA","At the Battle of Carteneau, the combined might of three Grand Companies labored to contend with the remnants of but a single imperial legion."
+44,"TEXT_VOICEMAN_03500_000450_KANESENNA","Alone, Gridania would be hard-pressed indeed to hold back the tide should the Garleans turn their minds from reclamation to invasion."
+45,"TEXT_VOICEMAN_03500_000460_AYMERIC","May I once more convey my nation's deepest regrets for our inaction in the days prior to the Calamity. 'Tis a stain upon our ledger that I would fain remove."
+46,"TEXT_VOICEMAN_03500_000470_AYMERIC","Elder Seedseer─I do hereby request leave to deploy a defensive force within the borders of Gridania. Ishgard's return to the Alliance shall be honored by more than mere ink upon parchment."
+47,"TEXT_VOICEMAN_03500_000480_YUGIRI","The Doman people, too, would join any effort that weakens our common foe. We are few, but our most seasoned shinobi are at your disposal."
+48,"TEXT_VOICEMAN_03500_000490_KANESENNA","On behalf of my people, I offer you my humble thanks. Gridania welcomes your assistance."
+49,"TEXT_VOICEMAN_03500_000500_RAUBAHN","It is time we set our contingency plans in motion. Is the Alliance agreed?"
+50,"TEXT_VOICEMAN_03500_000510_RAUBAHN","Then let us make ready for war. Victory favors the swift, and there is much to be done."
+51,"TEXT_VOICEMAN_03500_000520_ALISAIE","The council knows that Ala Mhigo will not soon be wrested from the Empire, and its decision to bolster the border's defenses seems eminently practical. Why, then, Brother, do you scowl so?"
+52,"TEXT_VOICEMAN_03500_000530_ALPHINAUD","I agree that they have chosen the wisest course available. Indeed, the only reasonable one."
+53,"TEXT_VOICEMAN_03500_000540_ALPHINAUD","Yet something feels awry. In making ready for war, is the Alliance not granting the Griffin the very thing he desired? Any attempt to hold the Wall is doomed to failure, aye, but I wonder if we have misjudged the prize for which he plays..."
+54,"TEXT_VOICEMAN_03500_000550_ILBERD","<pant> <pant> You've beaten me, aye..."
+55,"TEXT_VOICEMAN_03500_000551_ILBERD","But you cannot stop what I've begun. Behold─a glimpse of things to come!"
+56,"TEXT_VOICEMAN_03500_000560_SOLDIERA02354","We did it! We showed the bastards!"
+57,"TEXT_VOICEMAN_03500_000570_SOLDIERB02354","Aye! Victory is ours!"
+58,"TEXT_VOICEMAN_03500_000580_SOLDIERC02354","And who knows, lads? Mayhap the Eorzeans'll finally see sense...when the enemy turns up on their <hex:021A020203>bloody doorstep<hex:021A020103>!"
+59,"TEXT_VOICEMAN_03500_000590_LAURENTIUS","This is for Ala Mhigo... For Eorzea..."
+60,"TEXT_VOICEMAN_03500_000600_LAURENTIUS","They die, that others may live..."
+61,"TEXT_VOICEMAN_03500_000610_LAURENTIUS","Vanguards! Attack!"
+62,"TEXT_VOICEMAN_03500_000620_SOLDIERC02354","Seven hells, d'ye hear that?"
+63,"TEXT_VOICEMAN_03500_000630_SOLDIERB02354","War machines... How did they get here so quickly!?"
+64,"TEXT_VOICEMAN_03500_000640_SOLDIERA02354","S-Stand your ground! For the Resistance!"
+65,"TEXT_VOICEMAN_03500_000650_SOLDIERC02354","There's nowhere to run! We're cut off!"
+66,"TEXT_VOICEMAN_03500_000660_SOLDIERC02354","Aaagh!"
+67,"TEXT_VOICEMAN_03500_000670_SOLDIERA02354","Gods help us... What were we thinking? The Empire's too big... Too powerful..."
+68,"TEXT_VOICEMAN_03500_000680_SOLDIERA02354","Mighty Rhalgr... Grant us...the <hex:021A020203>strength<hex:021A020103>...to crush...our..."
+69,"TEXT_VOICEMAN_03500_000690_PAPALYMO","There you are!"
+70,"TEXT_VOICEMAN_03500_000700_ALPHINAUD","As you can see, our infiltrators did not elude me for long. Lady Yugiri is sending for an airship even as we speak."
+71,"TEXT_VOICEMAN_03500_000710_YDA","What do we do!? This is a massacre!"
+72,"TEXT_VOICEMAN_03500_000720_ILBERD","Heh heh heh heh... How wonderful to see you...<hex:021A020203>Commander<hex:021A020103>."
+73,"TEXT_VOICEMAN_03500_000730_ALPHINAUD","Ilberd! I should have known..."
+74,"TEXT_VOICEMAN_03500_000740_ALPHINAUD","This has to end! It has to end <hex:021A020203>now<hex:021A020103>! Do you not see your countrymen dying? Have your ideals rendered you blind even to that!? Order the retreat, and we will help your soldiers to safety!"
+75,"TEXT_VOICEMAN_03500_000750_ILBERD","<hex:021A020203>Retreat<hex:021A020103>? With the moment of my triumph so close at hand? You truly are a sheltered child, Leveilleur."
+76,"TEXT_VOICEMAN_03500_000760_ALPHINAUD","Nidhogg's eyes! ...No abyss is too deep for you, I see. But trust me when I say that such power was not meant for mortal hands!"
+77,"TEXT_VOICEMAN_03500_000770_ILBERD","How long have I struggled to reach this point! My countrymen so inured to the taste of defeat, they no longer balk at its bitterness. Shouting my throat raw with rallying cries, only to be greeted with dull eyes and blank faces!"
+78,"TEXT_VOICEMAN_03500_000780_ILBERD","My “brothers” and “sisters” in Ul'dah have surrendered to their apathy and their appetites. Were it not for the glint of Lolorito's coin, I doubt even those here now would have answered my call!"
+79,"TEXT_VOICEMAN_03500_000790_ILBERD","""Take back our homeland! Free Ala Mhigo!“ Hah! They'll happily mouth the words, but they won't spill the blood!"
+80,"TEXT_VOICEMAN_03500_000800_ILBERD","You say no mortal should wield these eyes? Then I shall gladly become a demon! I will suckle on the souls of the hopeless, and liberate the homeland they no longer deserve!"
+81,"TEXT_VOICEMAN_03500_000810_ALPHINAUD","What exactly do you mean to do...?"
+82,"TEXT_VOICEMAN_03500_000820_ILBERD","Did you hear their cries as victory was snatched away from them? Even with their dying breaths they cursed the Empire! Never has their desire for vengeance been so raw, so true! A god has no need of faith when <hex:021A020203>summoned<hex:021A020103> by so pure a purpose!"
+83,"TEXT_VOICEMAN_03500_000830_PAPALYMO","Summoned!?"
+84,"TEXT_VOICEMAN_03500_000840_ALPHINAUD","You cannot mean to fight the Empire with a primal! You know full well the danger─the <hex:021A020203>futility<hex:021A020103> of relying on such power!"
+85,"TEXT_VOICEMAN_03500_000850_ILBERD","Oh, yes, I know their limitations─which is why I will call upon a deity more terrible than the very black wyrm of the Calamity itself!"
+86,"TEXT_VOICEMAN_03500_000860_PAPALYMO","What... Here!? Now!?"
+87,"TEXT_VOICEMAN_03500_000870_YDA","Like hells you will!"
+88,"TEXT_VOICEMAN_03500_000880_ILBERD","An ending to mark a new beginning..."
+89,"TEXT_VOICEMAN_03500_000881_ILBERD","For Ala Mhigo!"
+90,"TEXT_VOICEMAN_03500_000890_ILBERD","An ending to mark a new beginning... My pain! My longing! You shall have it all!"
+91,"TEXT_VOICEMAN_03500_000891_ILBERD","Hahaha─aaaaaaargh!"
+92,"TEXT_VOICEMAN_03500_000900_ALPHINAUD","This light, is it..."
+93,"TEXT_VOICEMAN_03500_000910_PAPALYMO","His death completed the ritual. The primal is taking shape."
+94,"TEXT_VOICEMAN_03500_000920_YDA","Well, can't we stop it!? There must be something we can do!"
+95,"TEXT_VOICEMAN_03500_000930_PAPALYMO","There is...one thing."
+96,"TEXT_VOICEMAN_03500_000940_YDA","Wha─? Hey! Where do you think you're going!?"
+97,"TEXT_VOICEMAN_03500_000950_PAPALYMO","Master Louisoix briefly contained Bahamut by means of a potent spell of sealing. I will now attempt to do the same."
+98,"TEXT_VOICEMAN_03500_000960_ALPHINAUD","But that's impossible! We would need hours to collect the necessary aether, i-if not days!"
+99,"TEXT_VOICEMAN_03500_000970_PAPALYMO","Ah, Alphinaud... Though I concede it may not always be apparent, I was ever your grandsire's finest pupil."
+100,"TEXT_VOICEMAN_03500_000980_ALPHINAUD","Tupsimati, of course! The staff still holds enormous power, broken or not."
+101,"TEXT_VOICEMAN_03500_000990_YDA","Don't you dare, Papalymo! I know how that spell works!"
+102,"TEXT_VOICEMAN_03500_001000_YUGIRI","It is time to leave!"
+103,"TEXT_VOICEMAN_03500_001010_PAPALYMO","Quite right! Quickly, now! Off you go! The further away the better!"
+104,"TEXT_VOICEMAN_03500_001020_YDA","No! If you're staying, then so am I!"
+105,"TEXT_VOICEMAN_03500_001030_PAPALYMO","No, Yda! There is a path only you can walk, and it must not end here─not like this!"
+106,"TEXT_VOICEMAN_03500_001040_PAPALYMO","Take her! Please, you have to take her!"
+107,"TEXT_VOICEMAN_03500_001050_ALPHINAUD","Ugh..."
+108,"TEXT_VOICEMAN_03500_001060_YDA","Wha─ No! Damn it, Thancred! Put me down! Thancred!"
+109,"TEXT_VOICEMAN_03500_001070_PAPALYMO","This is one battle you cannot fight. Away with you. Go!"
+110,"TEXT_VOICEMAN_03500_Q4_000_001_NONE_VOICE","What will you do?"
+111,"TEXT_VOICEMAN_03500_A4_000_001_NONE_VOICE","Trust in Papalymo and leave on the airship."
+112,"TEXT_VOICEMAN_03500_A4_000_002_NONE_VOICE","Stay at Papalymo's side."
+113,"TEXT_VOICEMAN_03500_001080_THANCRED","Hilda! I think he means now!"
+114,"TEXT_VOICEMAN_03500_001090_PAPALYMO","I bid thee farewell again, my dear Yda..."
+115,"TEXT_VOICEMAN_03500_001091_PAPALYMO","Now, let us see how good a student I truly was..."
+116,"TEXT_VOICEMAN_03500_001100_GOSETSU","(-Towering Traveler-)A word if you would, good sir. This place, it is within the realm of Eorzea?"
+117,"TEXT_VOICEMAN_03500_001110_PASSER02356","You're an odd-looking fellow, aren't you? Still...takes all sorts, I s'pose. This here's Vesper Bay─“Thanalan's door to the ocean,” as some folk like to call it..."
+118,"TEXT_VOICEMAN_03500_001120_GOSETSU","(-Towering Traveler-)Am I to understand from your answer that I have indeed arrived in Eorzea?"
+119,"TEXT_VOICEMAN_03500_001130_PASSER02356","Eh? ...Yes. You're in Eorzea."
+120,"TEXT_VOICEMAN_03500_001140_GOSETSU","(-Towering Traveler-)Ah, a plain response at last! And the one I wanted, at that! My journey was not without its hardships, and I would sooner travel by land than put to sea again!"
+121,"TEXT_VOICEMAN_03500_001150_GOSETSU","(-Towering Traveler-)You do not believe that so small a bark could bear me across the ocean? Such timid little sailors! I had but to set my course, then set my jaw till I made port!"
+122,"TEXT_VOICEMAN_03500_001160_GOSETSU","(-Towering Traveler-)Hah hah hah hah hah hah hah!"
+123,"TEXT_VOICEMAN_03500_001170_GOSETSU","(-Towering Traveler-)Though...'twould perhaps have been wise to lay down my oars a moment to sup on more than the spray of brinewater. By the trembling of my limbs, I sense a brief repast may be in order..."
+124,"TEXT_VOICEMAN_03500_001180_GOSETSU","(-Towering Traveler-)Nay! I will not hearken to the feeble grumblings of an empty belly! Duty comes before all!"
+125,"TEXT_VOICEMAN_03500_001190_PASSER02356","Good gods, man! Are you all right?"
+126,"TEXT_VOICEMAN_03500_001200_URIANGER","Thou art far indeed from home, friend..."
+127,"TEXT_VOICEMAN_03500_001210_KANESENNA","Dear friends...pray accept my heartfelt thanks for your efforts in defense of Gridania's borders. I would fain dwell longer on my gratitude for the support of the Alliance, but the situation at Baelsar's Wall demands that we forgo such pleasantries."
+128,"TEXT_VOICEMAN_03500_001220_BODYGUARD01623","According to our most recent intelligence, the cocoon of light that formed in the air above the Wall remains undimmed and unbroken."
+129,"TEXT_VOICEMAN_03500_001230_BODYGUARD01623","After measuring the cocoon's aetheric concentrations, Archon Y'shtola has confirmed the presence of a primal entity..."
+130,"TEXT_VOICEMAN_03500_001240_RAUBAHN","Hmph. So we must assume that Ilberd's thrice-damned god is indeed trapped within. And what news of the imperials? They are not like to ignore such a spectacle."
+131,"TEXT_VOICEMAN_03500_001250_BODYGUARD01623","Sir. A Garlean airship was observed making an approach, but the vessel was destroyed when it drew near. The Empire appears to have made no subsequent attempts to reach the object."
+132,"TEXT_VOICEMAN_03500_001260_KANESENNA","The soldiers who witnessed the incident spoke of a “lance of light” issuing from within the cocoon. Of an entire warship being reduced to smoking ruin in the space of a moment..."
+133,"TEXT_VOICEMAN_03500_001270_KANESENNA","Veterans of Carteneau, meanwhile...likened the destruction to that wrought by the fiery wrath of Bahamut."
+134,"TEXT_VOICEMAN_03500_001280_ALISAIE","We could face another Calamity..."
+135,"TEXT_VOICEMAN_03500_001290_ALPHINAUD","So the primal is awake, then? Contained, yes, but for how long? We must destroy it now, lest it break free!"
+136,"TEXT_VOICEMAN_03500_001300_CID","Agreed. There is, however, the small matter of how to get close enough to a being that swats warships from the sky as you would a bothersome gnat..."
+137,"TEXT_VOICEMAN_03500_001310_NERO","(-???-)Is this truly so complex a puzzle? Or have you no <hex:021A020203>stomach<hex:021A020103> for the obvious solution?"
+138,"TEXT_VOICEMAN_03500_001320_CID","What in the hells are <hex:021A020203>you<hex:021A020103> doing here!?"
+139,"TEXT_VOICEMAN_03500_001330_NERO","A pleasure to see you too, Garlond. Now, if you would be so kind as to explain to these good people why you should be <hex:021A020203>begging me<hex:021A020103> for my assistance, that would be most appreciated."
+140,"TEXT_VOICEMAN_03500_001340_AYMERIC","Who is this man?"
+141,"TEXT_VOICEMAN_03500_001350_NERO","Oh, how terrifically rude of me! Nero tol Scaeva, former tribunus of the XIVth Legion of the Garlean Empire. These days, however, one might say that I am something of a free agent."
+142,"TEXT_VOICEMAN_03500_001360_CID","What do you want, Nero?"
+143,"TEXT_VOICEMAN_03500_001370_NERO","I was <hex:021A020203>getting<hex:021A020103> to that. Although you already know what I am about to propose, old friend."
+144,"TEXT_VOICEMAN_03500_001380_NERO","As you have rather belatedly realized, within that frail binding lurks an entity alike in strength to the great Bahamut. And the only force in existence which might conceivably contend with such a foe is the very creation which captured the elder primal in the first place. I speak, of course, of Omega."
+145,"TEXT_VOICEMAN_03500_001390_RAUBAHN","Omega!? That hulk has been gathering dust beneath the plains of Carteneau since the Allagans breathed their last! And none alive knows how to wake it."
+146,"TEXT_VOICEMAN_03500_001400_NERO","I'm sorry─do you understand who it is with whom you have the privilege of speaking? I am Nero tol Scaeva, master engineer─the mechanical genius who restored the Ultima Weapon to full operational capacity!"
+147,"TEXT_VOICEMAN_03500_001410_NERO","And, as luck would have it, I am graciously offering you the use of my considerable expertise."
+148,"TEXT_VOICEMAN_03500_001420_CID","And, what, you just expect us to accept? Why would we trust the word of a man who furnished the Black Wolf with the means to subjugate Eorzea?"
+149,"TEXT_VOICEMAN_03500_001430_CID","And, what, you just expect us to accept? You're a fool if you think your deeds at the Crystal Tower were enough to win my trust, Nero."
+150,"TEXT_VOICEMAN_03500_001440_NERO","Trust? You wound me, Garlond! All those years studying side by side at the Academy, sharing both trial and triumph. We were countrymen, once, you and I."
+151,"TEXT_VOICEMAN_03500_001450_NERO","But sentiment aside─have you a better solution? Or do you mean to send in your vaunted hero there, as you always do, and pray the world is not engulfed in flame?"
+152,"TEXT_VOICEMAN_03500_001460_NERO","Let us approach the problem in a rational manner. Does not the fact that Omega slumbers in stasis point to the existence of some overriding technology? A means of control?"
+153,"TEXT_VOICEMAN_03500_001470_KANESENNA","I would ask a question, if I may─Nero, was it not? In the event that we succeeded in using Omega to shackle the primal in the manner you propose, what then would become of it? Do we not risk repeating the mistakes of the Allagans?"
+154,"TEXT_VOICEMAN_03500_001480_NERO","Omega is but a tool. How we choose to employ that tool is entirely up to us. Of course, if you would rather leave it buried beneath Carteneau while you continue your petty squabbles above, then I suppose that is also your choice."
+155,"TEXT_VOICEMAN_03500_001490_CID","Spare us, Nero! The Seedseer's concern is a valid one. He who controls Omega wields the power of the gods. The very power which led the Allagans to destroy themselves."
+156,"TEXT_VOICEMAN_03500_001500_NERO","And does it not fall to we engineers to prevent such misuse? What was your company's proud slogan? “Freedom through Technology”?"
+157,"TEXT_VOICEMAN_03500_001510_CID","Hah. A creed you follow, is it?"
+158,"TEXT_VOICEMAN_03500_001520_CID","<sigh> What say you? Do we take this villain at his word?"
+159,"TEXT_VOICEMAN_03500_Q1_000_001_NONE_VOICE","What will you say?"
+160,"TEXT_VOICEMAN_03500_A1_000_001_NONE_VOICE","He makes a convincing case."
+161,"TEXT_VOICEMAN_03500_A1_000_002_NONE_VOICE","No, but I'll keep an eye on him."
+162,"TEXT_VOICEMAN_03500_001530_CID","He makes me grind my teeth is what he does, but I suppose we don't have much of a choice."
+163,"TEXT_VOICEMAN_03500_001540_CID","...As will I. I don't like it, but then it doesn't look like we have much choice."
+164,"TEXT_VOICEMAN_03500_001550_CID","Would the council be willing to entrust this matter to a pair of former imperials?"
+165,"TEXT_VOICEMAN_03500_001560_KANESENNA","Yes. The task of restoring the Allagan relic will be yours. But the responsibility for its reawakening must remain with the council. Do we condone this course of action?"
+166,"TEXT_VOICEMAN_03500_001570_RAUBAHN","Aye. 'Twould seem we do. Let the records show that we invest this contingent with the authority to enter Carteneau and take command of Omega."
+167,"TEXT_VOICEMAN_03500_001580_RAUBAHN","Cid, I appoint you leader of the expedition. Scions─I would ask that you assign some few of your number to escort Master Garlond and supervise the other one."
+168,"TEXT_VOICEMAN_03500_001590_ALPHINAUD","We should be happy to oblige. The politics of Carteneau being what they are, I daresay our neutrality will prove useful in avoiding any unnecessary entanglements."
+169,"TEXT_VOICEMAN_03500_001600_ALISAIE","If I am not mistaken, Doma occupies a similarly neutral position. Might we not persuade you to join the expedition, Lady Yugiri? If you suspected any foul play from Nero, you would be welcome to kill him."
+170,"TEXT_VOICEMAN_03500_001610_YUGIRI","My blade is yours."
+171,"TEXT_VOICEMAN_03500_001620_NERO","Not a moment's hesitation, eh? You'll forgive me if I do not shake your hand."
+172,"TEXT_VOICEMAN_03500_001630_NERO","Hm. So these are the fabled headquarters of the Scions... I confess, I would have expected an order of self-proclaimed warrior-scholars to surround themselves with the fruits of man's enlightenment. And yet there is not so much as a single piece of magitek in sight."
+173,"TEXT_VOICEMAN_03500_001640_NERO","It never ceases to amaze me how primitive you Eorzeans truly are..."
+174,"TEXT_VOICEMAN_03500_001650_TATARU","Hmph! I'll have you know that the Rising Stones is home to the very latest in magitek innovation."
+175,"TEXT_VOICEMAN_03500_001660_TATARU","Wedge calls it the “Mark XIV Thermocoil Boilmaster,” and it's the finest kettle I've ever had the pleasure to own."
+176,"TEXT_VOICEMAN_03500_001670_ALPHINAUD","We are returned."
+177,"TEXT_VOICEMAN_03500_001680_ALPHINAUD","Well, Yda and I, at least. Y'shtola and the others remained behind to continue their assessment of the binding magick."
+178,"TEXT_VOICEMAN_03500_001690_YDA","There didn't seem much point staying just for that, so I decided to come back with Alphinaud. Papalymo bought us this time. We shouldn't waste it."
+179,"TEXT_VOICEMAN_03500_001700_GOSETSU","(-Towering Traveler-)By your leave!"
+180,"TEXT_VOICEMAN_03500_001710_ALISAIE","Good gods. That voice could fell a gigas..."
+181,"TEXT_VOICEMAN_03500_001720_GOSETSU","(-Towering Traveler-)This is the Rising Stones, domicile of the Scions of the Seventh Dawn? I enter at the invitation of one Lord Urianger!"
+182,"TEXT_VOICEMAN_03500_001730_GOSETSU","(-Towering Traveler-)Ho-ho! I spy you there, shadow walker. You always were a hard one to find!"
+183,"TEXT_VOICEMAN_03500_001740_ALISAIE","Yugiri...? Do you know this man?"
+184,"TEXT_VOICEMAN_03500_001750_YUGIRI","Gosetsu!? Why are you come to Eorzea?"
+185,"TEXT_VOICEMAN_03500_001760_GOSETSU","In search of you, Yugiri! For days and nights did I row across the angry sea..."
+186,"TEXT_VOICEMAN_03500_001770_GOSETSU","I made port in good spirits, only for my own flesh to betray me over the trifling matter of an empty belly! Collapsed in the street like an unfed stray, I was, until Lord Urianger came to my aid."
+187,"TEXT_VOICEMAN_03500_001780_GOSETSU","Over a most welcome meal, we spoke of the plight of Doma, and I learned of our displaced countrymen's work to resettle this blighted land. 'Twas blind fortune I was able to locate you so swiftly!"
+188,"TEXT_VOICEMAN_03500_001790_GOSETSU","But now we must make ready to depart! Our master languishes in dire peril, and Doma calls her daughter home!"
+189,"TEXT_VOICEMAN_03500_001800_YUGIRI","It is not so simple, Gosetsu. There are obligations which bind me here..."
+190,"TEXT_VOICEMAN_03500_001810_GOSETSU","You─ You <hex:021A020203>refuse<hex:021A020103>? Did you mislay your oath during your flight from our homeland? The laws of hospitality must be honored, but surely the vow to defend your master demands the greater obeisance!"
+191,"TEXT_VOICEMAN_03500_001820_YUGIRI","It was our master who bid me guide our people to safe haven by any means necessary. And it was the Scions you see before you who provided us succor and sanctuary when all others refused.<hex:02100103><hex:02100103>Dire peril or no, were I to return without first repaying such “hospitality,” our master would cut me down at the threshold."
+192,"TEXT_VOICEMAN_03500_001830_GOSETSU","Mayhap that is so..."
+193,"TEXT_VOICEMAN_03500_001840_YUGIRI","There is more. A crisis threatens all within this realm, Eorzean and Doman alike, and I go to play my part in its resolution. I will not bring shame upon our liege by abandoning my people or my duty."
+194,"TEXT_VOICEMAN_03500_001850_NERO","How very noble of you. Now, in the name of honor, kinship, and─ah, yes─<hex:021A020203>practicality<hex:021A020103>, might I suggest we get this expedition underway? Or would you rather debate the finer points of duty and leave Omega to the <hex:021A020203>Empire<hex:021A020103>?"
+195,"TEXT_VOICEMAN_03500_001860_GOSETSU","The Empire!?"
+196,"TEXT_VOICEMAN_03500_001870_GOSETSU","Yugiri? You draw steel against the curs of Garlemald?"
+197,"TEXT_VOICEMAN_03500_001880_GOSETSU","Then why did you not say so!? My blade is oathbound to fall upon the ranks of the imperials wheresoever they march! Lead on, shadow walker. And may the enemy tremble at our coming!"
+198,"TEXT_VOICEMAN_03500_001890_NERO","Now where was the...? Ah!"
+199,"TEXT_VOICEMAN_03500_001900_NERO","I've enabled the teleporter. One brief jump, and we shall arrive in Omega's control room."
+200,"TEXT_VOICEMAN_03500_001910_CID","How convenient. ...You've been here before."
+201,"TEXT_VOICEMAN_03500_001920_NERO","Of course. 'Twas no easy task threading a path through all the skirmishers..."
+202,"TEXT_VOICEMAN_03500_001930_NERO","But how could I ignore the existence of such a fascinating toy! You may trust that my preliminary examination was suitably thorough."
+203,"TEXT_VOICEMAN_03500_001940_CID","Trust? Aye. I trust your appetite for technology."
+204,"TEXT_VOICEMAN_03500_001950_GRYNEWAHT","I chase down a suspect airship, and who should I find but the traitor, Cid Garlond!"
+205,"TEXT_VOICEMAN_03500_001960_GRYNEWAHT","Searching for something, engineer? Something big? It's close, isn't it!?"
+206,"TEXT_VOICEMAN_03500_001970_GRYNEWAHT","Bwahahahaha! It's like all my namedays have come at once!"
+207,"TEXT_VOICEMAN_03500_001980_NERO","Of all the scouts the Empire could have sent...<hex:02100103>Take care of that brute, will you!"
+208,"TEXT_VOICEMAN_03500_001990_CID","Godsdammit, I can't let Nero tinker around in there by himself. Sorry to leave you to it─but I daresay you'll manage without me. This clod has no idea who he's dealing with..."
+209,"TEXT_VOICEMAN_03500_002000_GOSETSU","I am Gosetsu, samurai of Doma! You will rue your choice of opponent this day!"
+210,"TEXT_VOICEMAN_03500_002010_NERO","Temporal stasis disengaged. All systems operational─Garlond?"
+211,"TEXT_VOICEMAN_03500_002020_CID","All clear on this side! It's waking up..."
+212,"TEXT_VOICEMAN_03500_002030_NERO","Remarkable! Omega's sensors immediately detected the presence of the cocoon even at this distance. They must have been set to scan for sources of energy exceeding certain magnitudes."
+213,"TEXT_VOICEMAN_03500_002040_CID","I still don't see any means to control the machine directly. It seems to have been designed to act wholly autonomously... Hmm."
+214,"TEXT_VOICEMAN_03500_002050_CID","Once we release Omega, we can be fairly certain it will attempt to capture the primal at Baelsar's Wall. Assuming its mission is successful, our only option at that point will be to reengage its stasis system and put it back to sleep."
+215,"TEXT_VOICEMAN_03500_002060_NERO","And should the machine happen to misbehave, we'll simply initiate an emergency shutdown. I confess, we don't yet have a <hex:021A020203>complete<hex:021A020103> grasp of its capabilities, but I'm certain the details will not elude us for long."
+216,"TEXT_VOICEMAN_03500_002070_YDA","Well...I understood less than half of that. So─my question to you is: are we doing the right thing?"
+217,"TEXT_VOICEMAN_03500_Q2_000_001_NONE_VOICE","What will you say?"
+218,"TEXT_VOICEMAN_03500_A2_000_001_NONE_VOICE","Well, what do you think?"
+219,"TEXT_VOICEMAN_03500_A2_000_002_NONE_VOICE","Is there any other way?"
+220,"TEXT_VOICEMAN_03500_002080_YDA","What do <hex:021A020203>I<hex:021A020103> think...?"
+221,"TEXT_VOICEMAN_03500_002090_YDA","I...suppose not."
+222,"TEXT_VOICEMAN_03500_002100_YDA","All right. Step aside, Cid. Is this the thing I need to press?"
+223,"TEXT_VOICEMAN_03500_002110_CID","Uh...yes. That's the one."
+224,"TEXT_VOICEMAN_03500_002120_YDA","You gave too much for us to waste this chance, Papalymo. So, this is for you...and me."
+225,"TEXT_VOICEMAN_03500_002130_NERO","Hahahahahahahaha! Yes! Fly free, my pretty! Show us what you can do!"
+226,"TEXT_VOICEMAN_03500_002140_CID","The launch sequence has begun. Omega is loose."
+227,"TEXT_VOICEMAN_03500_002150_CID","Hm? Omega has stopped transmitting. But that shouldn't be, I─I didn't engage the stasis system."
+228,"TEXT_VOICEMAN_03500_002160_GOSETSU","And what does this signify? I have little understanding of these contrivances..."
+229,"TEXT_VOICEMAN_03500_002170_NERO","The launch went exactly to plan, but all signals emanating from Omega have ceased. This may indicate any number of things, but we will need to join the Scions out in the field if we are to ascertain which one."
+230,"TEXT_VOICEMAN_03500_002180_CID","Right, I've ordered the malfunctioning beast to go to sleep. That should prevent any unfortunate mishaps. I suggest we make our way back to Gridania."
+231,"TEXT_VOICEMAN_03500_002190_YDA","Omega destroyed the cocoon..."
+232,"TEXT_VOICEMAN_03500_002200_YDA","Papalymo's spell is fading. It was bound to his aether, you see...and if the connection is broken..."
+233,"TEXT_VOICEMAN_03500_002210_ALPHINAUD","My friends... I cannot well express how glad I am to see you both unharmed. They say that Omega's clash with the primal shook the very firmament..."
+234,"TEXT_VOICEMAN_03500_002220_YSHTOLA","You need not have worried─the battle took place far above the ground. We were able to observe in relative safety, though I am given to understand that there were casualties on the far side of the Wall."
+235,"TEXT_VOICEMAN_03500_002230_KRILE","It was like watching a nightmare unfold before our very eyes. Ilberd's primal manifested in the form of a colossal dragon─a being of pure violence. It burst forth from the cocoon with such terrible force..."
+236,"TEXT_VOICEMAN_03500_002240_ALPHINAUD","That such a horror should spring from the eyes of Nidhogg comes as no surprise. Nor do I wonder at its form. Ilberd all but announced it in the moments prior to his death. Plainly, it was his dying wish to visit a second Calamity upon the Empire."
+237,"TEXT_VOICEMAN_03500_002250_KRILE","And I am quite certain the abomination would have obliged, had it not found itself outmatched by Omega. Gods... I am no stranger to the works of Allag, but even I was unprepared for the machine's furiosity. It beggared belief."
+238,"TEXT_VOICEMAN_03500_002260_ALPHINAUD","And how fares poor Yda in the midst of all of this? Have you spoken with her?"
+239,"TEXT_VOICEMAN_03500_002270_YSHTOLA","She is up on the platform, lost in thought. We deemed it best not to disturb her, but mayhap she would welcome some company after all. Shall we?"
+240,"TEXT_VOICEMAN_03500_002280_YDA","The light's gone. It was all we had left of him..."
+241,"TEXT_VOICEMAN_03500_002290_ALPHINAUD","Yda..."
+242,"TEXT_VOICEMAN_03500_002300_YDA","I don't blame anyone. I knew what was going to happen."
+243,"TEXT_VOICEMAN_03500_002310_YDA","I knew the spell Papalymo meant to cast would drain away his life force─I...knew that it would only buy us a little time..."
+244,"TEXT_VOICEMAN_03500_002320_YSHTOLA","Yda, there is no need to explain."
+245,"TEXT_VOICEMAN_03500_002330_YDA","But there is. I can't hide in Papalymo's little shadow anymore and I shouldn't hide behind my sister's mask."
+246,"TEXT_VOICEMAN_03500_002340_YDA","Twenty years ago, on the day the Empire marched into Ala Mhigo, I was still just a child─not even five summers old."
+247,"TEXT_VOICEMAN_03500_002350_YDA","My father had been one of the leaders of the revolution. He had fought to overthrow the mad king, Theodoric."
+248,"TEXT_VOICEMAN_03500_002360_YDA","And my sister had fought alongside him. She was strong and kind, and always knew what to do."
+249,"TEXT_VOICEMAN_03500_002370_YDA","But when the Garleans came, everything changed. My father went to war against them too, and I never saw him again. After that, I remember a lot of running. My sister dragged me for malms and malms until we came to the city of Sharlayan."
+250,"TEXT_VOICEMAN_03500_002380_YDA","That was where she met Master Louisoix. He introduced her to the Circle of Knowing, and she eventually became an Archon."
+251,"TEXT_VOICEMAN_03500_002390_YSHTOLA","She was your inspiration. Is that not why you took up her mask and her name? ...Or did you simply mean to continue what she had started?"
+252,"TEXT_VOICEMAN_03500_002400_YDA","...You've known all along, haven't you? That I wasn't Yda."
+253,"TEXT_VOICEMAN_03500_002410_YSHTOLA","Of course. We all recognized you at once. 'Twas Papalymo who persuaded us to maintain the charade."
+254,"TEXT_VOICEMAN_03500_002420_YDA","It was silly to think I could fool you. I knew that even then. But I...I sort of...decided not to know."
+255,"TEXT_VOICEMAN_03500_002430_YDA","Yda died six years ago, on a mission to smuggle refugees out of Ala Mhigo. They say she was overwhelmed by imperial soldiers when she stayed behind to save a little girl. She was so strong... There must have been a lot of them."
+256,"TEXT_VOICEMAN_03500_Q3_000_001_NONE_VOICE","What will you say?"
+257,"TEXT_VOICEMAN_03500_A3_000_001_NONE_VOICE","Why did you never tell me?"
+258,"TEXT_VOICEMAN_03500_A3_000_002_NONE_VOICE","..."
+259,"TEXT_VOICEMAN_03500_002440_YDA","(-Lyse-)I'm sorry for lying to you. My real name is Lyse."
+260,"TEXT_VOICEMAN_03500_002450_YDA","(-Lyse-)When Papalymo brought me Yda's mask, it was meant as a keepsake. But I decided I wanted to be his new partner; to keep alive all the good that she had done."
+261,"TEXT_VOICEMAN_03500_002460_YDA","(-Lyse-)I didn't want to <hex:021A020203>become<hex:021A020103> Yda, exactly... At the time, though, I still didn't know who I was myself, and it almost seemed easier to play the role."
+262,"TEXT_VOICEMAN_03500_002470_YDA","(-Lyse-)Papalymo agreed to help, of course...but it was never what he wanted for me. He wanted me to walk my own path. And those were his final words to me."
+263,"TEXT_VOICEMAN_03500_002480_YDA","(-Lyse-)The Archon's mark he gave me is faded, and my last excuse along with it."
+264,"TEXT_VOICEMAN_03500_002490_YDA","(-Lyse-)So, this is it. Whatever I choose to do from now on, I do as Lyse.<hex:02100103>...And I choose to continue my family's fight. I want Ala Mhigo to be the country that Yda and my father always wanted it to be!"
+265,"TEXT_VOICEMAN_03500_002500_YUGIRI","War is upon us once more."
+266,"TEXT_VOICEMAN_03500_002510_GOSETSU","Do you regret standing against the Empire? Would you have chosen a different road, knowing what you know now?"
+267,"TEXT_VOICEMAN_03500_002520_YUGIRI","To claim that I never doubted the decision would be a lie. But I made my choice, and I have defended it with blade in hand ever since."
+268,"TEXT_VOICEMAN_03500_002530_GOSETSU","The battle continues, and our steel is needed. Come, shadow walker! We leave for the East─for Doma!"

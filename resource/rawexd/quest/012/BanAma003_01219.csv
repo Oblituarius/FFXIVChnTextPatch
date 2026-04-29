@@ -2,111 +2,111 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_BANAMA003_01219_SEQ_00,灰陣營的哈姆基·夏有事想要拜託冒險者。
-1,TEXT_BANAMA003_01219_SEQ_01,前情回顧：<hex:02100103>冒險者接受了恆輝隊的委託，前往南薩納蘭調查蜥蜴人族的拐人事件。趕到現場的冒險者正好遇到了蜥蜴人族對商人發起襲擊。一觸即發之時，又有另一波蜥蜴人族登場。並且他們一出手就擊退了本應是自己同胞的拐人集團。這群蜥蜴人自稱「灰黨」，是和盤踞贊拉克的蜥蜴人們敵對的孤高戰鬥集團。他們的領袖哈姆基·夏很欣賞冒險者作為戰士的才能，並邀請冒險者前去他們位於小阿拉米格東面的總部「灰陣營」。在那裡，冒險者結識了自稱灰黨戰士的貓魅族少女璐恩·夏，並和她一起擊潰了贊拉克拐人部隊炎牙眾的野心。看到冒險者的活躍表現，哈姆基·夏宣稱冒險者今後就是得到灰黨承認的盟友。<hex:02100103>　　　　　　　　　　　　*　*　*<hex:02100103>炎牙眾襲擊、擄走了貓魅族。為了救助她們，首先前往灰陣營的西南方，與璐恩·夏匯合。
-2,TEXT_BANAMA003_01219_SEQ_02,為了救助貓魅族，必須要引發蜥蜴人族的混亂。騎著兵隊火蛟，對贊拉克側翼陣的<hex:02280CFF05>EObj<hex:F61E900C0103>使用兵隊火蛟的烈火吐息。<hex:02100103><hex:02100103>※和灰陣營西南方的璐恩·夏對話即可騎乘兵隊火蛟。
-3,TEXT_BANAMA003_01219_SEQ_03,用烈火吐息爆破了<hex:02280CFF05>EObj<hex:F61E900C0103>。前往贊拉克側翼陣的東南方，與璐恩·夏匯合。
-4,TEXT_BANAMA003_01219_SEQ_04,璐恩·夏離開了。和貓魅族的獵人烏·娜帕對話。
-5,TEXT_BANAMA003_01219_SEQ_05,烏·娜帕好像有話想告訴冒險者。和遺忘綠洲的烏·娜帕對話。
-6,TEXT_BANAMA003_01219_SEQ_06,璐恩·夏出身於遺忘綠洲。從遺忘綠洲的貓魅族那裡收集關於璐恩·夏的情報。
-7,TEXT_BANAMA003_01219_SEQ_07,從遺忘綠洲的貓魅族那裡打聽到了關於璐恩·夏的意外事情。回到灰陣營，和璐恩·夏談談。
-8,TEXT_BANAMA003_01219_SEQ_08,聽璐恩·夏說了過去的事。向灰陣營的哈姆基·夏報告。
-9,TEXT_BANAMA003_01219_SEQ_09,冒險者表現活躍，成功救助了貓魅族。但是，炎牙眾的勢力並未衰減。和蜥蜴人族聯手，做好準備，迎戰炎牙眾。
-10,TEXT_BANAMA003_01219_SEQ_10,
-11,TEXT_BANAMA003_01219_SEQ_11,
-12,TEXT_BANAMA003_01219_SEQ_12,
-13,TEXT_BANAMA003_01219_SEQ_13,
-14,TEXT_BANAMA003_01219_SEQ_14,
-15,TEXT_BANAMA003_01219_SEQ_15,
-16,TEXT_BANAMA003_01219_SEQ_16,
-17,TEXT_BANAMA003_01219_SEQ_17,
-18,TEXT_BANAMA003_01219_SEQ_18,
-19,TEXT_BANAMA003_01219_SEQ_19,
-20,TEXT_BANAMA003_01219_SEQ_20,
-21,TEXT_BANAMA003_01219_SEQ_21,
-22,TEXT_BANAMA003_01219_SEQ_22,
-23,TEXT_BANAMA003_01219_SEQ_23,
-24,TEXT_BANAMA003_01219_TODO_00,和灰陣營西南方的璐恩·夏對話
-25,TEXT_BANAMA003_01219_TODO_01,騎著兵隊火蛟<hex:02100103>對贊拉克側翼陣的<hex:02280CFF05>EObj<hex:F61E900C0103>使用烈火吐息
-26,TEXT_BANAMA003_01219_TODO_02,與贊拉克側翼陣東南方的璐恩·夏匯合
-27,TEXT_BANAMA003_01219_TODO_03,和烏·娜帕對話
-28,TEXT_BANAMA003_01219_TODO_04,和遺忘綠洲的烏·娜帕對話
-29,TEXT_BANAMA003_01219_TODO_05,在遺忘綠洲打聽璐恩·夏的事
-30,TEXT_BANAMA003_01219_TODO_06,和灰陣營的璐恩·夏對話
-31,TEXT_BANAMA003_01219_TODO_07,向哈姆基·夏報告
-32,TEXT_BANAMA003_01219_TODO_08,
-33,TEXT_BANAMA003_01219_TODO_09,
-34,TEXT_BANAMA003_01219_TODO_10,
-35,TEXT_BANAMA003_01219_TODO_11,
-36,TEXT_BANAMA003_01219_TODO_12,
-37,TEXT_BANAMA003_01219_TODO_13,
-38,TEXT_BANAMA003_01219_TODO_14,
-39,TEXT_BANAMA003_01219_TODO_15,
-40,TEXT_BANAMA003_01219_TODO_16,
-41,TEXT_BANAMA003_01219_TODO_17,
-42,TEXT_BANAMA003_01219_TODO_18,
-43,TEXT_BANAMA003_01219_TODO_19,
-44,TEXT_BANAMA003_01219_TODO_20,
-45,TEXT_BANAMA003_01219_TODO_21,
-46,TEXT_BANAMA003_01219_TODO_22,
-47,TEXT_BANAMA003_01219_TODO_23,
-48,TEXT_BANAMA003_01219_HAMUJIGAH_000_001,……汝知道南邊的撒溝厲沙漠裡，<hex:02100103>有個叫「遺忘綠洲」的貓魅們的隱居地嗎？
-49,TEXT_BANAMA003_01219_HAMUJIGAH_000_002,剛才，戰士璐恩·夏發來急報。<hex:02100103>不悔戰陣的卑鄙之徒們強襲了綠洲的貓魅族，<hex:02100103>很多貓魅被打倒、擄走了。
-50,TEXT_BANAMA003_01219_HAMUJIGAH_000_003,大部分貓魅或遭殘殺，或被擄掠。<hex:02100103>不過，聽聞其中也有九死一生、成功逃脫的貓魅。
-51,TEXT_BANAMA003_01219_HAMUJIGAH_000_004,吾等沒有理由救助貓魅。<hex:02100103>但敵人炎牙眾乃吾等的心頭之患，無法坐視不管。<hex:02100103>挺身而出，干戈相向，在所不辭。
-52,TEXT_BANAMA003_01219_HAMUJIGAH_000_005,在此有一事相求。請汝急速前往西南方的敵營——贊拉克，<hex:02100103>與璐恩·夏匯合，救助死裡逃生的貓魅！
-53,TEXT_BANAMA003_01219_LLOONGAH_000_011,哎呀哎呀！<hex:02100103>雖然我的確有申請派遣支援……<hex:02100103>可為什麼偏偏派你來啊？！
-54,TEXT_BANAMA003_01219_LLOONGAH_000_012,但看來晚了一步，都怪你慢吞吞的！<hex:02100103>躲起來的貓魅族已經不在這裡了。<hex:02100103>炎牙眾發現了她，把她擄走了……
-55,TEXT_BANAMA003_01219_LLOONGAH_000_013,她一定是被帶去贊拉克側翼陣了。<hex:02100103>那裡是炎牙眾的前線基地。
-56,TEXT_BANAMA003_01219_LLOONGAH_000_014,哼……我想到一個好作戰。<hex:02100103>我的火蛟借給你。<hex:02100103>你騎著它衝進贊拉克側翼陣！
-57,TEXT_BANAMA003_01219_LLOONGAH_000_015,蜥蜴人族使用油來點燃篝火。<hex:02100103>你讓火蛟噴出烈火吐息，點燃<hex:02280CFF05>EObj<hex:F61E900C0103>。
-58,TEXT_BANAMA003_01219_LLOONGAH_000_016,當對方的注意力被爆炸吸引過去的時候，<hex:02100103>我就乘機救出貓魅族。<hex:02100103>佯動作戰成功後，我們在沙漠入口處集合！
-59,TEXT_BANAMA003_01219_LLOONGAH_000_021,怎麼了？你想再騎一次火蛟？<hex:02100103>給你，快去！<hex:02100103>用火蛟的烈火吐息點燃<hex:02280CFF05>EObj<hex:F61E900C0103>！
-60,TEXT_BANAMA003_01219_MIQOTEFEMALE_001_025,啊，得救了……<hex:02100103>狩獵時忽然受到襲擊，連反擊的時間也沒有。<hex:02100103>話說，救我的那位……莫非是……
-61,TEXT_BANAMA003_01219_LLOONGAH_000_031,哼，動作真慢。<hex:02100103>還以為你被火焰吞沒，燒成灰了呢。<hex:02100103>哎，對我來說，那樣反而更清淨。
-62,TEXT_BANAMA003_01219_MIQOTEFEMALE_000_032,璐、璐恩？<hex:02100103>你，莫非……是烏·璐恩？！<hex:02100103>你還活著啊……我以為你已經死了……
-63,TEXT_BANAMA003_01219_LLOONGAH_000_033,……哼。
-64,TEXT_BANAMA003_01219_MIQOTEFEMALE_000_034,沒錯，這聲音……你還記得我嗎？<hex:02100103>我是和你一起在綠洲長大的姐姐啊！
-65,TEXT_BANAMA003_01219_LLOONGAH_000_035,……吵死啦，你誰啊？<hex:02100103>我是璐恩·夏，光榮的灰黨戰士。
-66,TEXT_BANAMA003_01219_LLOONGAH_000_036,雖然我看起來是貓魅，但我的心是蜥蜴人族。<hex:02100103>……抱歉，你認錯人了。
-67,TEXT_BANAMA003_01219_LLOONGAH_000_037,我要回陣營了。<hex:02100103>……你把這女人送回去。<hex:02100103>辦完後趕緊回來，別繞道！
-68,TEXT_BANAMA003_01219_MIQOTEFEMALE_001_110,非常感謝你，已經沒事了。<hex:02100103>我也是光榮的烏氏獵人，<hex:02100103>一個人走回家還是可以做到的。
-69,TEXT_BANAMA003_01219_MIQOTEFEMALE_001_111,……冒險者，如果可以的話，<hex:02100103>可否請你之後去一趟綠洲？<hex:02100103>她……是關於烏·璐恩的事，我想請你幫忙。
-70,TEXT_BANAMA003_01219_SYSTEM_100_111,(カット)
-71,TEXT_BANAMA003_01219_MIQOTEFEMALE_001_112,(カット)
-72,TEXT_BANAMA003_01219_MIQOTEFEMALE_001_113,(カット)
-73,TEXT_BANAMA003_01219_SYSTEM_001_114,(カット)
-74,TEXT_BANAMA003_01219_MIQOTEFEMALE_001_115,(カット)
-75,TEXT_BANAMA003_01219_Q1_000_000,(カット)
-76,TEXT_BANAMA003_01219_A1_000_001,(カット)
-77,TEXT_BANAMA003_01219_A1_000_002,(カット)
-78,TEXT_BANAMA003_01219_MIQOTEFEMALE_000_040,冒險者，等你好久了。<hex:02100103>……她無疑就是我所認識的璐恩。<hex:02100103>她的行為一定有什麼理由……
-79,TEXT_BANAMA003_01219_MIQOTEFEMALE_000_041,她出身於這個綠洲……<hex:02100103>你找同胞們問問，或許能打聽到關於璐恩的事。<hex:02100103>請你一定要幫幫她……
-80,TEXT_BANAMA003_01219_MIQOTEFEMALE_000_042,(カット)
-81,TEXT_BANAMA003_01219_MIQOTEFEMALE_000_045,你找綠洲的同胞們問問，或許能打聽到關於璐恩的事。<hex:02100103>請你一定要幫幫她……
-82,TEXT_BANAMA003_01219_MIQOTEA_000_051,烏·璐恩？認識啊，她是我的姐妹。<hex:02100103>我們都是上一代族長的女兒，不過母親不同。<hex:02100103>我們有很多同父異母的姐妹。
-83,TEXT_BANAMA003_01219_MIQOTEA_000_052,可是，想見烏·璐恩也見不到了。<hex:02100103>五年前的一起不幸的事件中，她和母親一同離開了人世。<hex:02100103>那是一起悲慘的事件，我至今難忘……
-84,TEXT_BANAMA003_01219_MIQOTEA_000_053,雖說是五年前的事了，但我還記憶猶新……<hex:02100103>那是一起悲慘的事件……
-85,TEXT_BANAMA003_01219_MIQOTEB_000_061,我們綠洲的烏氏和蜥蜴人族之間屢屢發生摩擦。
-86,TEXT_BANAMA003_01219_MIQOTEB_000_062,他們總是侵入我們重要的狩獵場進行搗亂。<hex:02100103>真是一群麻煩的傢伙。
-87,TEXT_BANAMA003_01219_MIQOTEA_000_063,我們綠洲的烏氏和蜥蜴人族之間屢屢發生摩擦。<hex:02100103>真是一群麻煩的傢伙。
-88,TEXT_BANAMA003_01219_MIQOTEC_000_071,出去狩獵的同胞好像受到了蜥蜴人族的襲擊。<hex:02100103>很多人還沒有回來……太過分了。<hex:02100103>彷彿是五年前的悲劇重演……
-89,TEXT_BANAMA003_01219_MIQOTEA_000_073,出去狩獵的同胞好像受到了蜥蜴人族的襲擊。<hex:02100103>很多人還沒有回來……太過分了。<hex:02100103>彷彿是五年前的悲劇重演……
-90,TEXT_BANAMA003_01219_MIQOTEC_000_072,(カット)
-91,TEXT_BANAMA003_01219_MIQOTED_000_081,烏·璐恩？嗯，記得。<hex:02100103>她是個很內向的女孩子，連蟲子也不敢殺。<hex:02100103>我決不原諒擄走她的蜥蜴人族……
-92,TEXT_BANAMA003_01219_MIQOTEA_000_082,璐恩……如果她還活著的話，<hex:02100103>肯定長成了一名美麗的貓魅族女性吧……
-93,TEXT_BANAMA003_01219_LLOONGAH_000_091,……真慢。<hex:02100103>看來你是從綠洲的貓魅族那裡打聽了無聊的傳聞吧？<hex:02100103>哼！
-94,TEXT_BANAMA003_01219_LLOONGAH_000_092,看著我的臉……<hex:02100103>這個面具，是哈姆基·夏授予我的蜥蜴人族面具，<hex:02100103>也是光榮的戰士的象徵。
-95,TEXT_BANAMA003_01219_LLOONGAH_000_093,那時……五年前，我們遭到蜥蜴人族的襲擊。<hex:02100103>當我徘徊在死亡邊緣的時候，<hex:02100103>哈姆基·夏突然出現在我的面前，對我說……
-96,TEXT_BANAMA003_01219_LLOONGAH_000_094,「想死自便，想活下去就起來戰鬥。」
-97,TEXT_BANAMA003_01219_LLOONGAH_000_095,自那以來，我拋棄了家族、氏族乃至種族，<hex:02100103>拋棄了過去的一切。<hex:02100103>然後我獲得了新生，成為一心復仇的戰鬼……
-98,TEXT_BANAMA003_01219_LLOONGAH_000_096,這個面具就是證明。<hex:02100103>證明我將作為光榮的蜥蜴人族戰士，<hex:02100103>繼續活下去……
-99,TEXT_BANAMA003_01219_LLOONGAH_000_097,哼，跟你說了一堆無聊的話。<hex:02100103>傷感即是軟弱，軟弱是戰士的大敵……看來我也還沒成熟。<hex:02100103>好了，你快去向哈姆基·夏老爹報告吧！
-100,TEXT_BANAMA003_01219_HAMUJIGAH_000_101,強者啊，吾等「灰黨」，<hex:02100103>將古蜥蜴人族的姿態傳承至今。
-101,TEXT_BANAMA003_01219_HAMUJIGAH_000_102,傳統的姿態，即不斷鍛鍊自己，雖死猶榮。<hex:02100103>不依附神明，不攻擊弱者，<hex:02100103>磨礪自己的肉體與靈魂，一心追求至強。
-102,TEXT_BANAMA003_01219_HAMUJIGAH_000_103,吾等乃是走在修羅之道的戰鬼。<hex:02100103>拒絕一味地依賴於神明，才是應有的敬神之道。<hex:02100103>這等決意，需銘記於心！
-103,TEXT_BANAMA003_01219_POP_MESSAGE,察覺到了敵人的氣息！
-104,TEXT_BANAMA003_01219_AMALJAAENEMY_001_110,
-105,TEXT_BANAMA003_01219_SYSTEM_200_000,與蜥蜴人族「灰黨」之間的關係程度到達了「承認」。<hex:02100103>冒險者通過了解他們的目的和過去，得到了他們的認可。
-106,TEXT_BANAMA003_01219_SYSTEM_200_001,今後可以在灰陣營的納爾基·冬處，<hex:02100103>接受新的友好部族日常任務。
-107,TEXT_BANAMA003_01219_SYSTEM_200_002,並且可以在「蜥蜴人族雜用商人」處購入要求「關係程度：承認」的商品。<hex:02100103>在今後的冒險裡善加利用吧！
+0,"TEXT_BANAMA003_01219_SEQ_00","Hamujj Gah wishes to hurl you into the heart of enemy territory, as he would a spear."
+1,"TEXT_BANAMA003_01219_SEQ_01","The warleader has received a report from Loonh Gah describing a vicious assault perpetrated by the Flamefangs upon a Forgotten Springs hunting party. Rendezvous with Loonh Gah to the southwest of the Ring of Ash, and rescue the surviving U tribe Miqo'te."
+2,"TEXT_BANAMA003_01219_SEQ_02","Loonh Gah has devised a rescue plan that requires you to provide an explosive distraction. Mounted upon the Miqo'te warrior's cavalry drake, you are to use the creature's Fiery Breath to destroy the barrels of oil stockpiled about the Zanr'ak encampment.<hex:02100103><hex:02100103>※Speak with Loonh Gah southwest of the Ring of Ash to borrow her cavalry drake."
+3,"TEXT_BANAMA003_01219_SEQ_03","You have destroyed the barrels of oil in a series of spectacular explosions. Make good your escape from the encampment, and rendezvous with Loonh Gah to the southeast."
+4,"TEXT_BANAMA003_01219_SEQ_04","After charging you with seeing the rescued huntress safely home, Loonh Gah abruptly departs for the Ring of Ash. Speak with U'napa to offer her an escort."
+5,"TEXT_BANAMA003_01219_SEQ_05","It appears that U'napa has more to tell you about “U'loonh.” Speak with the huntress in the settlement of Forgotten Springs."
+6,"TEXT_BANAMA003_01219_SEQ_06","U'napa seems convinced that Loonh Gah is the U'loonh she once knew─a Miqo'te who used to dwell in Forgotten Springs. Speak with huntresses around the settlement, and piece together what you can of the Brotherhood warrior's past."
+7,"TEXT_BANAMA003_01219_SEQ_07","At your prompting, the rangers of Forgotten Springs reveal that U'loonh's tale is one of tragedy and loss. Return to the Ring of Ash and speak with Loonh Gah."
+8,"TEXT_BANAMA003_01219_SEQ_08","Loonh Gah brusquely explains her decision to become a Brotherhood warrior, and spurns any sympathy at the loss of her Miqo'te heritage. Seemingly unwilling to discuss the subject further, she orders you to make your report to Hamujj Gah."
+9,"TEXT_BANAMA003_01219_SEQ_09","Hamujj Gah praises your efforts in rescuing the Miqo'te huntress from a nightmarish fate at the hands of the Flamefangs. Restating the warrior creed of the Brotherhood of Ash, the warleader bids you join his soldiers in the traditional Amalj'aa pursuit of honorable strength."
+10,"TEXT_BANAMA003_01219_SEQ_10",""
+11,"TEXT_BANAMA003_01219_SEQ_11",""
+12,"TEXT_BANAMA003_01219_SEQ_12",""
+13,"TEXT_BANAMA003_01219_SEQ_13",""
+14,"TEXT_BANAMA003_01219_SEQ_14",""
+15,"TEXT_BANAMA003_01219_SEQ_15",""
+16,"TEXT_BANAMA003_01219_SEQ_16",""
+17,"TEXT_BANAMA003_01219_SEQ_17",""
+18,"TEXT_BANAMA003_01219_SEQ_18",""
+19,"TEXT_BANAMA003_01219_SEQ_19",""
+20,"TEXT_BANAMA003_01219_SEQ_20",""
+21,"TEXT_BANAMA003_01219_SEQ_21",""
+22,"TEXT_BANAMA003_01219_SEQ_22",""
+23,"TEXT_BANAMA003_01219_SEQ_23",""
+24,"TEXT_BANAMA003_01219_TODO_00","Speak with Loonh Gah."
+25,"TEXT_BANAMA003_01219_TODO_01","Use the Fiery Breath of Loonh Gah's cavalry drake to destroy oil barrels."
+26,"TEXT_BANAMA003_01219_TODO_02","Rendezvous with Loonh Gah to the southeast of the Zanr'ak encampment."
+27,"TEXT_BANAMA003_01219_TODO_03","Speak with U'napa."
+28,"TEXT_BANAMA003_01219_TODO_04","Speak with U'napa at Forgotten Springs."
+29,"TEXT_BANAMA003_01219_TODO_05","Ask the huntresses of Forgotten Springs about U'loonh."
+30,"TEXT_BANAMA003_01219_TODO_06","Speak with Loonh Gah at the Ring of Ash."
+31,"TEXT_BANAMA003_01219_TODO_07","Report to Hamujj Gah."
+32,"TEXT_BANAMA003_01219_TODO_08",""
+33,"TEXT_BANAMA003_01219_TODO_09",""
+34,"TEXT_BANAMA003_01219_TODO_10",""
+35,"TEXT_BANAMA003_01219_TODO_11",""
+36,"TEXT_BANAMA003_01219_TODO_12",""
+37,"TEXT_BANAMA003_01219_TODO_13",""
+38,"TEXT_BANAMA003_01219_TODO_14",""
+39,"TEXT_BANAMA003_01219_TODO_15",""
+40,"TEXT_BANAMA003_01219_TODO_16",""
+41,"TEXT_BANAMA003_01219_TODO_17",""
+42,"TEXT_BANAMA003_01219_TODO_18",""
+43,"TEXT_BANAMA003_01219_TODO_19",""
+44,"TEXT_BANAMA003_01219_TODO_20",""
+45,"TEXT_BANAMA003_01219_TODO_21",""
+46,"TEXT_BANAMA003_01219_TODO_22",""
+47,"TEXT_BANAMA003_01219_TODO_23",""
+48,"TEXT_BANAMA003_01219_HAMUJIGAH_000_001","Do you know of Forgotten Springs, the Miqo'te settlement found to the south in the Sagolii Desert?"
+49,"TEXT_BANAMA003_01219_HAMUJIGAH_000_002","We have just received urgent word from Loonh Gah. She reports that a hunting party from the U tribe village was ambushed by a sizable Amalj'aa force."
+50,"TEXT_BANAMA003_01219_HAMUJIGAH_000_003","Those that were not massacred outright were dragged away by the raiders. They have likely already been tempered. Loonh Gah mentions, however, that one of the Miqo'te was nimble enough to evade capture and flee into hiding."
+51,"TEXT_BANAMA003_01219_HAMUJIGAH_000_004","We have no alliance with the U tribespeople. But we cannot close our eyes to an act perpetrated by the very foe we so greatly despise. For the chance to strike a blow at our enemy, we will go to war for Forgotten Springs."
+52,"TEXT_BANAMA003_01219_HAMUJIGAH_000_005","Be my spear, honored ally, and I shall hurl you into the midst of Zanr'ak. Loonh Gah awaits reinforcements to the southeast. Join your strength to hers, and do what must be done to rescue this lone, courageous Miqo'te ranger."
+53,"TEXT_BANAMA003_01219_LLOONGAH_000_011","Ugh, gods be good! When I requested reinforcements, I did not expect the warleader to send <hex:021A020203>you<hex:021A020103>!"
+54,"TEXT_BANAMA003_01219_LLOONGAH_000_012","And, just as before, you are too slow to respond! While I sat here, grinding my teeth in frustration, I watched as the Flamefangs discovered the ranger's hiding spot and hauled her off to their encampment."
+55,"TEXT_BANAMA003_01219_LLOONGAH_000_013","The encampment is their forward base, and, as such, the place is awash with alert and wary soldiers. The two of us would fare poorly against such numbers."
+56,"TEXT_BANAMA003_01219_LLOONGAH_000_014","...Without a cunning plan, that is. You, my eager outsider, will have the use of my mount to sow a trail of chaos amongst their ranks."
+57,"TEXT_BANAMA003_01219_LLOONGAH_000_015","Listen carefully. The Amalj'aa like to stockpile the oil that they use to light their watchfires and such. Seek out the barrels, and tap the drake's head─that is the command for him to spit a gout of flame."
+58,"TEXT_BANAMA003_01219_LLOONGAH_000_016","The resulting explosions should be enough of a distraction for me to slip in and free the captured Miqo'te. Once you've freed yourself of angry Amalj'aa, meet us beyond the edge of the camp where the desert begins."
+59,"TEXT_BANAMA003_01219_LLOONGAH_000_021","Are you slow of mind as well as of foot? Get back on the drake and incinerate those barrels!"
+60,"TEXT_BANAMA003_01219_MIQOTEFEMALE_001_025","Thank you, I was certain my time had come...<hex:02100103>The lizardmen fell upon us so swiftly, we had not the time to react. Your companion, the one who freed me, she seems so very familiar..."
+61,"TEXT_BANAMA003_01219_LLOONGAH_000_031","Even riding a drake, you still somehow managed to arrive last. I thought perhaps you had been caught in an explosion and burned to a crisp. A pleasant thought, but apparently not the case."
+62,"TEXT_BANAMA003_01219_MIQOTEFEMALE_000_032","(-U'napa-)U'loonh!? Could that really be you? We had thought you long perished..."
+63,"TEXT_BANAMA003_01219_LLOONGAH_000_033","...Hmph."
+64,"TEXT_BANAMA003_01219_MIQOTEFEMALE_000_034","(-U'napa-)No, I am sure of it! Your voice is unmistakable! I recall the many days we spent laughing and chatting in the springs!"
+65,"TEXT_BANAMA003_01219_LLOONGAH_000_035","I don't know you or your damnable springs. I am Loonh Gah, a warrior of the Brotherhood of Ash."
+66,"TEXT_BANAMA003_01219_LLOONGAH_000_036","My people are the Amalj'aa, proud and strong. You have the wrong Miqo'te."
+67,"TEXT_BANAMA003_01219_LLOONGAH_000_037","I am heading back to camp. See this hunter safely home before you return to the Ring of Ash."
+68,"TEXT_BANAMA003_01219_MIQOTEFEMALE_001_110","No escort will be necessary. I am a hunter of the U tribe─if I cannot cross the sands alone, I do not deserve to return at all."
+69,"TEXT_BANAMA003_01219_MIQOTEFEMALE_001_111","...I would, however, have you visit the Springs in any case, adventurer. There is more to your friend─to U'loonh─that you should know."
+70,"TEXT_BANAMA003_01219_SYSTEM_100_111","(deleted)"
+71,"TEXT_BANAMA003_01219_MIQOTEFEMALE_001_112","(deleted)"
+72,"TEXT_BANAMA003_01219_MIQOTEFEMALE_001_113","(deleted)"
+73,"TEXT_BANAMA003_01219_SYSTEM_001_114","(deleted)"
+74,"TEXT_BANAMA003_01219_MIQOTEFEMALE_001_115","(deleted)"
+75,"TEXT_BANAMA003_01219_Q1_000_000","(deleted)"
+76,"TEXT_BANAMA003_01219_A1_000_001","(deleted)"
+77,"TEXT_BANAMA003_01219_A1_000_002","(deleted)"
+78,"TEXT_BANAMA003_01219_MIQOTEFEMALE_000_040","We meet again, adventurer. I needed to tell you that your companion is, without a doubt, the little Loonh I used to know. There must be some pressing reason for her subterfuge."
+79,"TEXT_BANAMA003_01219_MIQOTEFEMALE_000_041","Many of our tribe were close with U'loonh─they may help you to understand why U'loonh hides behind that mask, and how you might best help her."
+80,"TEXT_BANAMA003_01219_MIQOTEFEMALE_000_042","(deleted)"
+81,"TEXT_BANAMA003_01219_MIQOTEFEMALE_000_045","Speak with the huntresses around the Springs. They may help you to understand why U'loonh hides behind that mask, and what─if anything─can be done to help her."
+82,"TEXT_BANAMA003_01219_MIQOTEA_000_051","U'loonh? Of course I knew her─she was my blood sister. We were both daughters of the former nunh, though our mothers were not the same."
+83,"TEXT_BANAMA003_01219_MIQOTEA_000_052","You find my choice of tense confusing? She is dead, stranger. Slain alongside her mother more than five years ago. I did not witness the incident myself, but I will never forget the sudden pain of their loss..."
+84,"TEXT_BANAMA003_01219_MIQOTEA_000_053","Five long years, yet my memories of her remain so clear..."
+85,"TEXT_BANAMA003_01219_MIQOTEB_000_061","It is not uncommon to hear of skirmishes between our people and the Amalj'aa."
+86,"TEXT_BANAMA003_01219_MIQOTEB_000_062","The lizardmen do not respect our territory, and they interfere with our hunts. The desert suffers for their presence."
+87,"TEXT_BANAMA003_01219_MIQOTEA_000_063","We of the U tribe do not hold favorable relations with the Amalj'aa. They are a dangerous nuisance, and the Sagolii would be better for their absence."
+88,"TEXT_BANAMA003_01219_MIQOTEC_000_071","It is said that a hunting party was set upon by the Amalj'aa. Many of my kin have not returned from the sands...<hex:02100103>Must the tragedies of the past be so faithfully repeated?"
+89,"TEXT_BANAMA003_01219_MIQOTEA_000_073","You have heard of the party of hunters that was slaughtered at the hands of the lizardmen? Though we often clash with the Amalj'aa, there hasn't been an incident on this scale for more than half a decade..."
+90,"TEXT_BANAMA003_01219_MIQOTEC_000_072","(deleted)"
+91,"TEXT_BANAMA003_01219_MIQOTED_000_081","U'loonh? Yes, I remember the name. She was a quiet girl, too timid to even slap at the biting desert flies. The lizardmen took her away from us, and for that I shall never forgive them."
+92,"TEXT_BANAMA003_01219_MIQOTEA_000_082","Were little Loonh alive today, what a beautiful sleek huntress she might be."
+93,"TEXT_BANAMA003_01219_LLOONGAH_000_091","You are late. I might have thought you delayed by a Wellwick worm, but the cloying pity in your eyes tells the tale. Do they mourn for me in Forgotten Springs? Hmph."
+94,"TEXT_BANAMA003_01219_LLOONGAH_000_092","Look at me, adventurer. This is an Amalj'aa battlemask, given to me by the warleader himself. It is worn only by those who have chosen the path of the warrior."
+95,"TEXT_BANAMA003_01219_LLOONGAH_000_093","You likely heard stories from the rangers, of how I was taken or killed during an Amalj'aa raid all those years ago. They are right...and they are wrong. I know not how I survived the attack, but it was Hamujj Gah who found me as I stumbled through the desert, barely conscious and badly wounded."
+96,"TEXT_BANAMA003_01219_LLOONGAH_000_094","He gazed down upon my battered face, and gave me a simple choice: “Linger here and die, or come with me and fight.”"
+97,"TEXT_BANAMA003_01219_LLOONGAH_000_095","It was then that I made the decision to discard my past─my family, my tribe, my very identity. I was reborn into the Brotherhood of Ash, existing for no other purpose but to feed the fires of my vengeance."
+98,"TEXT_BANAMA003_01219_LLOONGAH_000_096","This mask is a symbol of my resolve; it represents my transformation into an Amalj'aa soldier, strong and proud."
+99,"TEXT_BANAMA003_01219_LLOONGAH_000_097","Hmph. I tell you this not to justify my deceit, but to dam the flood of your foolish questions before it begins. Now, stow your unwanted sympathy, and make your report to the warleader!"
+100,"TEXT_BANAMA003_01219_HAMUJIGAH_000_101","Honored ally, with your continued aid, the Brotherhood of Ash will rekindle the glory of our past."
+101,"TEXT_BANAMA003_01219_HAMUJIGAH_000_102","As once did our ancestors, we shall forge of steel our bodies and spirits, and greet death with honor. To no gods will we beg, nor against the meek raise arms."
+102,"TEXT_BANAMA003_01219_HAMUJIGAH_000_103","We are warriors, walkers of the path of righteous battle. We do not kneel to claim our strength. Live by these words, and your soul, too, shall burn as brightly!"
+103,"TEXT_BANAMA003_01219_POP_MESSAGE","You sense a hostile presence!"
+104,"TEXT_BANAMA003_01219_AMALJAAENEMY_001_110","(deleted)"
+105,"TEXT_BANAMA003_01219_SYSTEM_200_000","You have achieved <hex:024804F201F403><hex:024904F201F503>Recognized<hex:0249020103><hex:0248020103> reputation with the Brotherhood of Ash."
+106,"TEXT_BANAMA003_01219_SYSTEM_200_001","New Amalj'aa society daily quests are now available from Narujj Boh at the Ring of Ash."
+107,"TEXT_BANAMA003_01219_SYSTEM_200_002","Furthermore, you now have access to a wider selection of wares from the Brotherhood of Ash vendor."

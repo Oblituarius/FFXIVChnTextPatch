@@ -2,102 +2,102 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_GAIUSA402_00744_SEQ_00,妖精暫留地的科姆希奧，有事想要告訴冒險者。
-1,TEXT_GAIUSA402_00744_SEQ_01,從科姆希奧處接受了若干委託。首先，前往妖精暫留地的東面，在科姆希奧標註的印記上，做情感動作「張望」。
-2,TEXT_GAIUSA402_00744_SEQ_02,觀察到了被精煉的妖精族。前往格里達尼亞的蛇巢司令部，將<hex:022811FF0A>EventItem<hex:F61E86D40103>交給沃爾賽勒正牙校。
-3,TEXT_GAIUSA402_00744_SEQ_03,交出了<hex:022811FF0A>EventItem<hex:F61E86D40103>。雙蛇黨得知妖精族沒有對抗的意思後，決定取消強攻妖精領，靜觀事態變化。
-4,TEXT_GAIUSA402_00744_SEQ_04,
-5,TEXT_GAIUSA402_00744_SEQ_05,
-6,TEXT_GAIUSA402_00744_SEQ_06,
-7,TEXT_GAIUSA402_00744_SEQ_07,
-8,TEXT_GAIUSA402_00744_SEQ_08,
-9,TEXT_GAIUSA402_00744_SEQ_09,
-10,TEXT_GAIUSA402_00744_SEQ_10,
-11,TEXT_GAIUSA402_00744_SEQ_11,
-12,TEXT_GAIUSA402_00744_SEQ_12,
-13,TEXT_GAIUSA402_00744_SEQ_13,
-14,TEXT_GAIUSA402_00744_SEQ_14,
-15,TEXT_GAIUSA402_00744_SEQ_15,
-16,TEXT_GAIUSA402_00744_SEQ_16,
-17,TEXT_GAIUSA402_00744_SEQ_17,
-18,TEXT_GAIUSA402_00744_SEQ_18,
-19,TEXT_GAIUSA402_00744_SEQ_19,
-20,TEXT_GAIUSA402_00744_SEQ_20,
-21,TEXT_GAIUSA402_00744_SEQ_21,
-22,TEXT_GAIUSA402_00744_SEQ_22,
-23,TEXT_GAIUSA402_00744_SEQ_23,
-24,TEXT_GAIUSA402_00744_TODO_00,在妖精暫留地東面的印記上做「張望」的情感動作
-25,TEXT_GAIUSA402_00744_TODO_01,將<hex:022811FF0A>EventItem<hex:F61E86D40103>交給蛇巢司令部的沃爾賽勒
-26,TEXT_GAIUSA402_00744_TODO_02,
-27,TEXT_GAIUSA402_00744_TODO_03,
-28,TEXT_GAIUSA402_00744_TODO_04,
-29,TEXT_GAIUSA402_00744_TODO_05,
-30,TEXT_GAIUSA402_00744_TODO_06,
-31,TEXT_GAIUSA402_00744_TODO_07,
-32,TEXT_GAIUSA402_00744_TODO_08,
-33,TEXT_GAIUSA402_00744_TODO_09,
-34,TEXT_GAIUSA402_00744_TODO_10,
-35,TEXT_GAIUSA402_00744_TODO_11,
-36,TEXT_GAIUSA402_00744_TODO_12,
-37,TEXT_GAIUSA402_00744_TODO_13,
-38,TEXT_GAIUSA402_00744_TODO_14,
-39,TEXT_GAIUSA402_00744_TODO_15,
-40,TEXT_GAIUSA402_00744_TODO_16,
-41,TEXT_GAIUSA402_00744_TODO_17,
-42,TEXT_GAIUSA402_00744_TODO_18,
-43,TEXT_GAIUSA402_00744_TODO_19,
-44,TEXT_GAIUSA402_00744_TODO_20,
-45,TEXT_GAIUSA402_00744_TODO_21,
-46,TEXT_GAIUSA402_00744_TODO_22,
-47,TEXT_GAIUSA402_00744_TODO_23,
-48,TEXT_GAIUSA402_00744_KOMUXIO_000_050,你來啦呼啾！<hex:02100103>我現在就去叫族長呼啾。<hex:02100103>族長，您等的人來了呼啾。
-49,TEXT_GAIUSA402_00744_FRIXIO_000_051,冒險者閣下！<hex:02100103>在托托·拉克千獄時，多虧了你的照顧呼啾。<hex:02100103>我再次對你表示感謝呼啾。
-50,TEXT_GAIUSA402_00744_PAPALYMO_000_052,呦，<hex:022903EB0203>。<hex:02100103>聽說你大顯身手了一番呢。
-51,TEXT_GAIUSA402_00744_FRIXIO_000_053,也感謝你們救了諾拉克希亞，再次向你們致謝呼啾！
-52,TEXT_GAIUSA402_00744_PAPALYMO_000_054,不過，族長你為什麼跑到那種地方去呢？
-53,TEXT_GAIUSA402_00744_FRIXIO_000_055,前段日子，森林中出現了來自「帝國」的傢伙呼啾。<hex:02100103>我原本打算去監視他們，看看能否找出他們的目的呼啾。
-54,TEXT_GAIUSA402_00744_FRIXIO_000_056,但沒想到被他們發現了，四處追捕我。<hex:02100103>等我回過神來，便發現自己已經身處南部林區了呼啾。
-55,TEXT_GAIUSA402_00744_FRIXIO_000_057,我藏在托托·拉克千獄中呼啾。<hex:02100103>但突然受到了一個可恨的黑衣人襲擊，<hex:02100103>差點我就成了魔物的盤中餐呼啾！
-56,TEXT_GAIUSA402_00744_YDA_000_058,身披黑衣的傢伙……<hex:02100103>難道是……
-57,TEXT_GAIUSA402_00744_PAPALYMO_000_059,應該沒錯。<hex:02100103>族長，我們是作為格里達尼亞的使者來這裡的。
-58,TEXT_GAIUSA402_00744_FRIXIO_000_060,原來如此呼啾。<hex:02100103>格里達尼亞的人們對「拉姆」大神頗為忌憚嗎呼啾？
-59,TEXT_GAIUSA402_00744_PAPALYMO_000_061,坦白地說，就是如此。<hex:02100103>但是，格里達尼亞追求的是和平，<hex:02100103>並不想以此事來借題發揮。
-60,TEXT_GAIUSA402_00744_YDA_000_062,妖精族曾經用請神召喚過「拉姆」吧？<hex:02100103>在那以後，便沒有了消息，大家都感到很不安。
-61,TEXT_GAIUSA402_00744_FRIXIO_000_063,嘉恩·艾是一位心地善良的人呼啾。<hex:02100103>我們非常理解，<hex:02100103>而且也不想發生糾紛呼啾。
-62,TEXT_GAIUSA402_00744_FRIXIO_000_064,族人召喚「拉姆」大神是為了從「帝國」手中保護森林呼啾。<hex:02100103>但即便這樣，我也是反對召喚的呼啾……
-63,TEXT_GAIUSA402_00744_FRIXIO_000_065,召喚了神明後，大家都變得奇怪了呼啾。<hex:02100103>召喚「拉姆」大神的同伴們都被精煉成了信徒呼啾。
-64,TEXT_GAIUSA402_00744_FRIXIO_000_066,在暫留地的妖精族，<hex:02100103>都拒絕依靠「拉姆」大神的力量呼啾。
-65,TEXT_GAIUSA402_00744_FRIXIO_000_067,我們一直致力於使被精煉的族人恢復原樣呼啾，<hex:02100103>但始終都不得要領呼啾……
-66,TEXT_GAIUSA402_00744_FRIXIO_000_068,但我要強調一點呼啾。<hex:02100103>「拉姆」大神是守護與調停之神呼啾。
-67,TEXT_GAIUSA402_00744_FRIXIO_000_069,即使再度發生了請神的情況，<hex:02100103>只要不進入妖精領，就不會受到「制裁之雷」的攻擊呼啾。
-68,TEXT_GAIUSA402_00744_FRIXIO_000_070,我們無意與格里達尼亞對抗呼啾。<hex:02100103>所以，希望格里達尼亞能夠給我們一些時間呼啾。
-69,TEXT_GAIUSA402_00744_PAPALYMO_000_071,信徒們受到其主蠻神的影響最強烈。<hex:02100103>在被「拉姆」精煉的情況下，信徒會產生強烈的守護意識。<hex:02100103>換句話說，也就是會固執地守護自身的領土。
-70,TEXT_GAIUSA402_00744_YDA_000_072,所以「壞妖精」們才會對入侵其領地的人抱有強烈的敵意啊。<hex:02100103>那又為什麼會綁架暫留地的妖精族呢？
-71,TEXT_GAIUSA402_00744_PAPALYMO_000_073,估計他們打算「調停」吧。<hex:02100103>總而言之，蠻神和信徒各有各的特點及情況。<hex:02100103>不分青紅皂白把他們全部消滅，是無法解決問題的。
-72,TEXT_GAIUSA402_00744_PAPALYMO_000_074,我明白了，族長。<hex:02100103>妖精族的想法，我們了解到了。<hex:02100103>這下子，格里達尼亞的人民也可以放心了吧。
-73,TEXT_GAIUSA402_00744_FRIXIO_000_075,我將族人的意思整理出來，都寫在了信中呼啾。<hex:02100103>希望你能將這個轉交到格里達尼亞呼啾。
-74,TEXT_GAIUSA402_00744_PAPALYMO_000_076,嗯，這下子暫時可以放心了。<hex:02100103>妖精族和我們都會靜觀「拉姆」的變化。
-75,TEXT_GAIUSA402_00744_YDA_000_077,族長能深明事理真是太好了！<hex:02100103>帕帕力莫也學著點！
-76,TEXT_GAIUSA402_00744_PAPALYMO_000_078,這話輪得到你來說嗎？！<hex:02100103>就因為老是這樣，你才會被雅·修特拉批評要多做反省呢！
-77,TEXT_GAIUSA402_00744_YDA_000_079,我們先回沙之家了！<hex:02100103>還要向敏菲利亞報告呢。
-78,TEXT_GAIUSA402_00744_PAPALYMO_000_080,這次的會談之所以能成功，都是你的功勞。<hex:02100103>這封信就由你親手交給雙蛇黨。
-79,TEXT_GAIUSA402_00744_PAPALYMO_000_081,族長，我們就先告辭了。<hex:02100103>這次有勞您費心了，謝謝。
-80,TEXT_GAIUSA402_00744_FRIXIO_000_082,承蒙你們的關照呼啾，我也要謝謝你們呼啾！<hex:02100103>讓我們繼續尋找兩族友好共處的方法吧呼啾！
-81,TEXT_GAIUSA402_00744_FRIXIO_000_083,冒險者閣下，請留步呼啾。
-82,TEXT_GAIUSA402_00744_FRIXIO_000_084,承蒙你的搭救，我還沒有好好謝過你呢呼啾。<hex:02100103>請你收下這個呼啾。
-83,TEXT_GAIUSA402_00744_FRIXIO_000_085,這塊水晶是從前請「拉姆」大神下凡時，<hex:02100103>賜給我的東西呼啾。
-84,TEXT_GAIUSA402_00744_FRIXIO_000_086,啊……<hex:02100103>我的直覺果然沒錯呼啾。
-85,TEXT_GAIUSA402_00744_FRIXIO_000_087,冒險者閣下……<hex:02100103>你肯定正身處我無法估量的殘酷命運之中呼啾。
-86,TEXT_GAIUSA402_00744_FRIXIO_000_088,我看到了「拉姆」大神的水晶，<hex:02100103>在你的身體中被「光」吞沒的場景呼啾。
-87,TEXT_GAIUSA402_00744_FRIXIO_000_089,總有一天，水晶必定會派上用場的呼啾。<hex:02100103>在那天到來之前，我希望你能保管好它呼啾。<hex:02100103>這也是我對你信賴的證明呼啾。
-88,TEXT_GAIUSA402_00744_KOMUXIO_000_090,我有件事想要委託給你呼啾……<hex:02100103>在回格里達尼亞之前，<hex:02100103>你能去妖精領看看那裡的壞妖精麼呼啾。
-89,TEXT_GAIUSA402_00744_KOMUXIO_000_091,就算被精煉成了信徒，<hex:02100103>只要別人不招惹他們，壞妖精們就不會離開妖精領。
-90,TEXT_GAIUSA402_00744_KOMUXIO_000_092,這也能成為我們不會對抗格里達尼亞的佐證呼啾……
-91,TEXT_GAIUSA402_00744_KOMUXIO_000_093,我在地圖上做了標記呼啾。<hex:02100103>妖精領中雖然充滿了可怕的魔物，<hex:02100103>但從那裡應該就可以安全地觀察了呼啾。
-92,TEXT_GAIUSA402_00744_SYSTEM_000_010,發現了壞妖精。<hex:02100103>只要不貿然接近，他們是不會襲擊過來的。
-93,TEXT_GAIUSA402_00744_VORSAILE_000_020,辛苦了。<hex:02100103>你跟妖精族談過了嗎？<hex:02100103>你說什麼？有要給我的東西嗎？
-94,TEXT_GAIUSA402_00744_VORSAILE_000_021,這不是妖精族的信麼！<hex:02100103>你跟族長談過了啊。<hex:02100103>來讓我看看……
-95,TEXT_GAIUSA402_00744_VORSAILE_000_022,原來如此……<hex:02100103>在暫留地的妖精族既不打算同格里達尼亞對抗，<hex:02100103>也不打算召喚出蠻神。
-96,TEXT_GAIUSA402_00744_VORSAILE_000_023,唔，只要不主動去招惹被蠻神「拉姆」精煉的妖精，<hex:02100103>我們就可以靜觀其變麼。
-97,TEXT_GAIUSA402_00744_VORSAILE_000_024,既然如此，那我們也不必在蠻神「拉姆」的問題上做文章了。<hex:02100103>我們與妖精族，今後將會攜手共存的吧。<hex:02100103>這件事我會原原本本轉告給嘉恩·艾大人的。
-98,TEXT_GAIUSA402_00744_VORSAILE_000_025,完成這麼困難的任務，真是辛苦你們了！<hex:02100103>我由衷感謝你們！
+0,"TEXT_GAIUSA402_00744_SEQ_00","Komuxio wants you to discuss peace with Frixio."
+1,"TEXT_GAIUSA402_00744_SEQ_01","Komuxio has asked you to observe his tempered kindred in the sylph homeland, hoping that your testimony might serve to reassure the Gridanians that they have nothing to fear from his people. Take yourself to the location he has marked on your map, and /lookout for tempered sylphs."
+2,"TEXT_GAIUSA402_00744_SEQ_02","You have observed the tempered sylphs without incident. Make your way back to Gridania, and deliver Frixio's missive to Commander Heuloix at the Adders' Nest."
+3,"TEXT_GAIUSA402_00744_SEQ_03","Commander Heuloix is relieved to learn that the sylphs have no desire for conflict with Gridania. In no small part due to your efforts, man and sylph may continue to live in peace."
+4,"TEXT_GAIUSA402_00744_SEQ_04",""
+5,"TEXT_GAIUSA402_00744_SEQ_05",""
+6,"TEXT_GAIUSA402_00744_SEQ_06",""
+7,"TEXT_GAIUSA402_00744_SEQ_07",""
+8,"TEXT_GAIUSA402_00744_SEQ_08",""
+9,"TEXT_GAIUSA402_00744_SEQ_09",""
+10,"TEXT_GAIUSA402_00744_SEQ_10",""
+11,"TEXT_GAIUSA402_00744_SEQ_11",""
+12,"TEXT_GAIUSA402_00744_SEQ_12",""
+13,"TEXT_GAIUSA402_00744_SEQ_13",""
+14,"TEXT_GAIUSA402_00744_SEQ_14",""
+15,"TEXT_GAIUSA402_00744_SEQ_15",""
+16,"TEXT_GAIUSA402_00744_SEQ_16",""
+17,"TEXT_GAIUSA402_00744_SEQ_17",""
+18,"TEXT_GAIUSA402_00744_SEQ_18",""
+19,"TEXT_GAIUSA402_00744_SEQ_19",""
+20,"TEXT_GAIUSA402_00744_SEQ_20",""
+21,"TEXT_GAIUSA402_00744_SEQ_21",""
+22,"TEXT_GAIUSA402_00744_SEQ_22",""
+23,"TEXT_GAIUSA402_00744_SEQ_23",""
+24,"TEXT_GAIUSA402_00744_TODO_00","Stand /lookout east of Little Solace."
+25,"TEXT_GAIUSA402_00744_TODO_01","Deliver Frixio's missive to Vorsaile Heuloix."
+26,"TEXT_GAIUSA402_00744_TODO_02",""
+27,"TEXT_GAIUSA402_00744_TODO_03",""
+28,"TEXT_GAIUSA402_00744_TODO_04",""
+29,"TEXT_GAIUSA402_00744_TODO_05",""
+30,"TEXT_GAIUSA402_00744_TODO_06",""
+31,"TEXT_GAIUSA402_00744_TODO_07",""
+32,"TEXT_GAIUSA402_00744_TODO_08",""
+33,"TEXT_GAIUSA402_00744_TODO_09",""
+34,"TEXT_GAIUSA402_00744_TODO_10",""
+35,"TEXT_GAIUSA402_00744_TODO_11",""
+36,"TEXT_GAIUSA402_00744_TODO_12",""
+37,"TEXT_GAIUSA402_00744_TODO_13",""
+38,"TEXT_GAIUSA402_00744_TODO_14",""
+39,"TEXT_GAIUSA402_00744_TODO_15",""
+40,"TEXT_GAIUSA402_00744_TODO_16",""
+41,"TEXT_GAIUSA402_00744_TODO_17",""
+42,"TEXT_GAIUSA402_00744_TODO_18",""
+43,"TEXT_GAIUSA402_00744_TODO_19",""
+44,"TEXT_GAIUSA402_00744_TODO_20",""
+45,"TEXT_GAIUSA402_00744_TODO_21",""
+46,"TEXT_GAIUSA402_00744_TODO_22",""
+47,"TEXT_GAIUSA402_00744_TODO_23",""
+48,"TEXT_GAIUSA402_00744_KOMUXIO_000_050","This one has been expecting walking one! This one fetches elder one!"
+49,"TEXT_GAIUSA402_00744_FRIXIO_000_051","This one is pleased to see walking one again. Welcome to the home of these ones."
+50,"TEXT_GAIUSA402_00744_PAPALYMO_000_052","Ah, there you are, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. We have just been hearing tell of your deeds of derring-do. Well done!"
+51,"TEXT_GAIUSA402_00744_FRIXIO_000_053","Ah, the walking ones who aided Noraxia! This one is grateful!"
+52,"TEXT_GAIUSA402_00744_PAPALYMO_000_054","A pleasure to have been of service. If you do not mind my asking, how did your misadventure come about?"
+53,"TEXT_GAIUSA402_00744_FRIXIO_000_055","This one does not mind. The misadventures, as walking one calls them, of this one began when imperial ones entered the wood. Fearing trouble, these ones decided to watch imperial ones closely."
+54,"TEXT_GAIUSA402_00744_FRIXIO_000_056","But these ones watched <hex:021A020203>too<hex:021A020103> closely, and imperial ones noticed and tried to catch these ones."
+55,"TEXT_GAIUSA402_00744_FRIXIO_000_057","Having nowhere else to hide, this one fled into Toto–Rak. Would that this one had not. In Toto–Rak, a sinister one robed in black tried to feed this one to a many-legged one!"
+56,"TEXT_GAIUSA402_00744_YDA_000_058","A sinister one robed in black...? Why do I have the feeling I should be more worried about that than I am?"
+57,"TEXT_GAIUSA402_00744_PAPALYMO_000_059","Elder Frixio, we come to you as emissaries of the nation of Gridania. This missive bears the words of the Elder Seedseer."
+58,"TEXT_GAIUSA402_00744_FRIXIO_000_060","This one sees... So walking ones of Gridania are fearful of Lord Ramuh."
+59,"TEXT_GAIUSA402_00744_PAPALYMO_000_061","Plainly put, yes. Your people summoned the Lord of Levin but once, yet that single occurrence occasioned great alarm."
+60,"TEXT_GAIUSA402_00744_YDA_000_062","But it's not as if the Gridanians dislike you or anything. Actually, it's just the opposite. They think of you as friends, and they don't want anything to get in the way of that. That's why the Elder Seedseer wrote to you."
+61,"TEXT_GAIUSA402_00744_FRIXIO_000_063","Hmmm... This one well knows and respects horned one Kan–E–Senna. Be assured: like walking ones of Gridania, these ones have no desire for conflict."
+62,"TEXT_GAIUSA402_00744_FRIXIO_000_064","These ones resorted to summoning Lord Ramuh to protect the wood from imperial ones. This one counseled against doing so, but was not heeded."
+63,"TEXT_GAIUSA402_00744_FRIXIO_000_065","Against this one's wishes, Lord Ramuh was summoned...and all those ones who took part became touched ones."
+64,"TEXT_GAIUSA402_00744_FRIXIO_000_066","These ones want so desperately to turn touched ones back to normal ones, but did not know how─and still do not know."
+65,"TEXT_GAIUSA402_00744_FRIXIO_000_067","Touched ones, meanwhile, wanted to turn these ones into touched ones, and <hex:021A020203>did<hex:021A020103> know how... So this one fled to Little Solace with all those ones who did not wish to be bound to Lord Ramuh."
+66,"TEXT_GAIUSA402_00744_FRIXIO_000_068","But walking ones of Gridania need not fear touched ones or Lord Ramuh. Unlike other primal ones, Lord Ramuh is not callous and cruel."
+67,"TEXT_GAIUSA402_00744_FRIXIO_000_069","So long as walking ones do not trespass on these ones' ancestral homeland, where touched ones reside, walking ones will not suffer thunderous judgment."
+68,"TEXT_GAIUSA402_00744_FRIXIO_000_070","But this one has spoken enough of touched ones. This one would speak instead of <hex:021A020203>these<hex:021A020103> ones. As this one said, these ones desire peace with walking ones of Gridania. And so these ones ask for a chance to set things right."
+69,"TEXT_GAIUSA402_00744_PAPALYMO_000_071","By way of an addendum, mortals who are tempered come to take on the qualities embodied by the primal in question. In the case of the sylphs, Ramuh's influence has made them <hex:021A020203>fiercely<hex:021A020103> protective of their homeland."
+70,"TEXT_GAIUSA402_00744_YDA_000_072","That explains why they're so hostile towards trespassers, but what about the abductions?"
+71,"TEXT_GAIUSA402_00744_PAPALYMO_000_073","A fine question, Yda! The abductions are, I believe, an expression of the tempered sylphs' desire for reconciliation─another quality traditionally associated with Ramuh. In the crudest manner imaginable, they seek to bring their fellows back into the fold. A timely reminder that the challenges posed by each primal are unique."
+72,"TEXT_GAIUSA402_00744_PAPALYMO_000_074","Elder Frixio, we thank you for making your will known to us. The people of Gridania will rest easier in the knowledge that they and the sylphs are united in their desire for peace."
+73,"TEXT_GAIUSA402_00744_FRIXIO_000_075","Wishing to cooperate, this one has written down the feelings of these ones. Please see that these feelings are conveyed to horned one Kan–E–Senna."
+74,"TEXT_GAIUSA402_00744_PAPALYMO_000_076","And with that, I believe we can lay the matter of Ramuh to rest."
+75,"TEXT_GAIUSA402_00744_YDA_000_077","That sylph elder's very reasonable, I must say. You could learn a lot from him."
+76,"TEXT_GAIUSA402_00744_PAPALYMO_000_078","...Hm!? Was that a jibe? If so, I feel it only fair to observe that <hex:021A020203>one of us<hex:021A020103> wouldn't recognize reason if it punched her on the nose. Did I say fair? I meant: <hex:021A020203>reasonable<hex:021A020103>."
+77,"TEXT_GAIUSA402_00744_YDA_000_079","<hex:021A020203>Anyway<hex:021A020103>, we're going to head back to the Waking Sands and tell Minfilia all about it."
+78,"TEXT_GAIUSA402_00744_PAPALYMO_000_080","Fear not─we will be sure to mention the instrumental part you played in all of this. And while we see to that, we should appreciate it if you would deliver Frixio's missive to the Adders' Nest."
+79,"TEXT_GAIUSA402_00744_PAPALYMO_000_081","Elder Frixio, we humbly thank you for your time. It has been an honor."
+80,"TEXT_GAIUSA402_00744_FRIXIO_000_082","The honor is this one's. Together, let the walking ones of Gridania and these ones find a way to live in peace."
+81,"TEXT_GAIUSA402_00744_FRIXIO_000_083","Please wait, walking one <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>."
+82,"TEXT_GAIUSA402_00744_FRIXIO_000_084","This one has yet to give walking one a token of this one's appreciation."
+83,"TEXT_GAIUSA402_00744_FRIXIO_000_085","When these ones summoned Lord Ramuh, these ones were gifted this crystal. This one would now bestow the crystal upon walking one as a symbol of these ones' trust."
+84,"TEXT_GAIUSA402_00744_FRIXIO_000_086","<gasp> This one was not mistaken about walking one."
+85,"TEXT_GAIUSA402_00744_FRIXIO_000_087","Walking one is destined to walk a fate far crueler than this one can imagine."
+86,"TEXT_GAIUSA402_00744_FRIXIO_000_088","A brilliant light from within walking one enveloped the crystal─this one saw."
+87,"TEXT_GAIUSA402_00744_FRIXIO_000_089","Mark this one well: that crystal will one day be of use to walking one. Walking one must keep that crystal safe at all times."
+88,"TEXT_GAIUSA402_00744_KOMUXIO_000_090","Before walking one returns to Gridania, this one would ask walking one to watch touched ones."
+89,"TEXT_GAIUSA402_00744_KOMUXIO_000_091","So long as touched ones are not troubled, touched ones will not make trouble."
+90,"TEXT_GAIUSA402_00744_KOMUXIO_000_092","If walking one witnesses touched ones making no trouble, mayhap walking one can testify to walking ones of Gridania that these ones mean no harm."
+91,"TEXT_GAIUSA402_00744_KOMUXIO_000_093","These ones' homeland is fraught with danger. This one marks down safe places to <hex:024804F201F403><hex:024904F201F503>look out<hex:0249020103><hex:0248020103> for touched ones."
+92,"TEXT_GAIUSA402_00744_SYSTEM_000_010","There are tempered sylphs in the distance. You do not sense that they pose a danger if left alone."
+93,"TEXT_GAIUSA402_00744_VORSAILE_000_020","Ah, <hex:0208F0DEE1E93501FF1D>if it isn't <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203><hex:FFBB><hex:0208B7E1E93601FF93><hex:022B7EFF7C><hex:020825E1E93501FF1D><hex:022819FF14>GCRankLimsaMaleText<hex:E9350903><hex:FF01><hex:03><hex:020828E1E93601FF20><hex:02281CFF17>GCRankGridaniaMaleText<hex:E9360903><hex:FF01><hex:03><hex:020825E1E93701FF1D><hex:022819FF14>GCRankUldahMaleText<hex:E9370903><hex:FF01><hex:03><hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303><hex:FF1D>if it isn't <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203><hex:03><hex:03>. How went the meeting with the sylphs?"
+94,"TEXT_GAIUSA402_00744_VORSAILE_000_021","A missive from the sylph elder himself!? If I may..."
+95,"TEXT_GAIUSA402_00744_VORSAILE_000_022","So the sylphs have no desire for conflict, nor do they intend to summon Ramuh."
+96,"TEXT_GAIUSA402_00744_VORSAILE_000_023","And so long as we leave the tempered ones be, we need not fear any aggression on their part."
+97,"TEXT_GAIUSA402_00744_VORSAILE_000_024","The Elder Seedseer will be overjoyed to hear that the sylphs have welcomed our overtures. And in the knowledge that they bear us no ill will, we may channel our resources towards tackling the more conspicuous threats to our security."
+98,"TEXT_GAIUSA402_00744_VORSAILE_000_025","<hex:0208F2013AE1E93501FF35>You have done this nation a great service, my friend<hex:FFF0FD><hex:0208F0F8E1E93601FFBD>You have done our nation a great service, <hex:022B7EFF7C><hex:020825E1E93501FF1D><hex:022819FF14>GCRankLimsaMaleText<hex:E9350903><hex:FF01><hex:03><hex:020828E1E93601FF20><hex:02281CFF17>GCRankGridaniaMaleText<hex:E9360903><hex:FF01><hex:03><hex:020825E1E93701FF1D><hex:022819FF14>GCRankUldahMaleText<hex:E9370903><hex:FF01><hex:03><hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303><hex:FF35>You have done this nation a great service, my friend<hex:03><hex:03>. <hex:02088FE1E93501FF32>On behalf of all Gridanians, I give you my thanks<hex:FF56><hex:020852E1E93601FF19>It will not be forgotten<hex:FF32>On behalf of all Gridanians, I give you my thanks<hex:03><hex:03>."

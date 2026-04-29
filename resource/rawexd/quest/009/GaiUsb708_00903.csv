@@ -2,60 +2,60 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_GAIUSB708_00903_SEQ_00,巨龍首營地的傭兵貝爾蒙特有件事想讓冒險者幫忙。
-1,TEXT_GAIUSB708_00903_SEQ_01,福爾唐家準備的貨車好像停在了半路。前往巨龍首營地東方，查看貨車的狀況。
-2,TEXT_GAIUSB708_00903_SEQ_02,成功討伐了在翻倒的貨車附近出現的鳥人族。向巨龍首營地的貝爾蒙特報告。
-3,TEXT_GAIUSB708_00903_SEQ_03,向貝爾蒙特報告完畢。據他所說，伊修加德的敵人並不是只有龍族……
-4,TEXT_GAIUSB708_00903_SEQ_04,
-5,TEXT_GAIUSB708_00903_SEQ_05,
-6,TEXT_GAIUSB708_00903_SEQ_06,
-7,TEXT_GAIUSB708_00903_SEQ_07,
-8,TEXT_GAIUSB708_00903_SEQ_08,
-9,TEXT_GAIUSB708_00903_SEQ_09,
-10,TEXT_GAIUSB708_00903_SEQ_10,
-11,TEXT_GAIUSB708_00903_SEQ_11,
-12,TEXT_GAIUSB708_00903_SEQ_12,
-13,TEXT_GAIUSB708_00903_SEQ_13,
-14,TEXT_GAIUSB708_00903_SEQ_14,
-15,TEXT_GAIUSB708_00903_SEQ_15,
-16,TEXT_GAIUSB708_00903_SEQ_16,
-17,TEXT_GAIUSB708_00903_SEQ_17,
-18,TEXT_GAIUSB708_00903_SEQ_18,
-19,TEXT_GAIUSB708_00903_SEQ_19,
-20,TEXT_GAIUSB708_00903_SEQ_20,
-21,TEXT_GAIUSB708_00903_SEQ_21,
-22,TEXT_GAIUSB708_00903_SEQ_22,
-23,TEXT_GAIUSB708_00903_SEQ_23,
-24,TEXT_GAIUSB708_00903_TODO_00,確認<hex:02280CFF05>EObj<hex:F61E8CD30103>的狀況並討伐前來妨礙的敵人
-25,TEXT_GAIUSB708_00903_TODO_01,向貝爾蒙特報告
-26,TEXT_GAIUSB708_00903_TODO_02,
-27,TEXT_GAIUSB708_00903_TODO_03,
-28,TEXT_GAIUSB708_00903_TODO_04,
-29,TEXT_GAIUSB708_00903_TODO_05,
-30,TEXT_GAIUSB708_00903_TODO_06,
-31,TEXT_GAIUSB708_00903_TODO_07,
-32,TEXT_GAIUSB708_00903_TODO_08,
-33,TEXT_GAIUSB708_00903_TODO_09,
-34,TEXT_GAIUSB708_00903_TODO_10,
-35,TEXT_GAIUSB708_00903_TODO_11,
-36,TEXT_GAIUSB708_00903_TODO_12,
-37,TEXT_GAIUSB708_00903_TODO_13,
-38,TEXT_GAIUSB708_00903_TODO_14,
-39,TEXT_GAIUSB708_00903_TODO_15,
-40,TEXT_GAIUSB708_00903_TODO_16,
-41,TEXT_GAIUSB708_00903_TODO_17,
-42,TEXT_GAIUSB708_00903_TODO_18,
-43,TEXT_GAIUSB708_00903_TODO_19,
-44,TEXT_GAIUSB708_00903_TODO_20,
-45,TEXT_GAIUSB708_00903_TODO_21,
-46,TEXT_GAIUSB708_00903_TODO_22,
-47,TEXT_GAIUSB708_00903_TODO_23,
-48,TEXT_GAIUSB708_00903_BELMONT_000_000,我是受雇於福爾唐家的傭兵。<hex:02100103>雖然工作多是些雜七雜八的事情，<hex:02100103>不過基本上……倒是三餐無憂。
-49,TEXT_GAIUSB708_00903_BELMONT_000_001,啊！對了，出事了！<hex:02100103>福爾唐家準備的貨車好像在路上出了問題。
-50,TEXT_GAIUSB708_00903_BELMONT_000_002,沿著東邊的道路直走應該就能找到了。<hex:02100103>你能去看一下情況嗎？<hex:02100103>我這邊雜務太多。就拜託你了。
-51,TEXT_GAIUSB708_00903_DUMMY_000_010,接近翻倒的貨車，打倒鳥人族
-52,TEXT_GAIUSB708_00903_DUMMYTODO_000_010,
-53,TEXT_GAIUSB708_00903_BELMONT_000_020,辛苦了。<hex:02100103>……原來是鳥人族幹的好事啊。<hex:02100103>是嗎，運貨的人都沒能逃掉啊……
-54,TEXT_GAIUSB708_00903_BELMONT_000_021,伊修加德的大人物們滿腦子都是和龍族的聖戰。<hex:02100103>近在眼前的蠻族問題卻被忽視不管。<hex:02100103>唉，我只是個勤雜工，根本不應該操心這些啊。
-55,TEXT_GAIUSB708_00903_BELMONT_000_022,這地方人手和裝備都不足，天氣還冷得厲害。<hex:02100103>來庫爾札斯找活幹真是個錯誤的決定。<hex:02100103>真懷念格里達尼亞的姆恩·圖伊熱湯啊。
-56,TEXT_GAIUSB708_00903_POP_MESSAGE_000,察覺到了敵人的氣息！
+0,"TEXT_GAIUSB708_00903_SEQ_00","Sharp of eyes and broad of smile, Belmont is a hard man to resist when he has a request─and he appears to have one now."
+1,"TEXT_GAIUSB708_00903_SEQ_01","A wagon contracted by House Fortemps is apparently stalled somewhere on the east road. With Belmont and other sellswords busy with other sundry tasks, it falls to you to locate the wagon."
+2,"TEXT_GAIUSB708_00903_SEQ_02","You discover the wagon on its side and the occupants dead. They had not yet even begun shaping the new wheel shaft before they were taken by the Ixal. You slay the birdmen, but a new worm of unease coils in your belly. Go speak with Belmont."
+3,"TEXT_GAIUSB708_00903_SEQ_03","You tell Belmont of what passed, reflecting that too many of your reports from Coerthas end with vengeance rather than rescue. Belmont gives voice to the consternation you yourself feel─Ishgard's enemies are legion, but the obsession with the dragons blinds the knights and perhaps the Holy See..."
+4,"TEXT_GAIUSB708_00903_SEQ_04",""
+5,"TEXT_GAIUSB708_00903_SEQ_05",""
+6,"TEXT_GAIUSB708_00903_SEQ_06",""
+7,"TEXT_GAIUSB708_00903_SEQ_07",""
+8,"TEXT_GAIUSB708_00903_SEQ_08",""
+9,"TEXT_GAIUSB708_00903_SEQ_09",""
+10,"TEXT_GAIUSB708_00903_SEQ_10",""
+11,"TEXT_GAIUSB708_00903_SEQ_11",""
+12,"TEXT_GAIUSB708_00903_SEQ_12",""
+13,"TEXT_GAIUSB708_00903_SEQ_13",""
+14,"TEXT_GAIUSB708_00903_SEQ_14",""
+15,"TEXT_GAIUSB708_00903_SEQ_15",""
+16,"TEXT_GAIUSB708_00903_SEQ_16",""
+17,"TEXT_GAIUSB708_00903_SEQ_17",""
+18,"TEXT_GAIUSB708_00903_SEQ_18",""
+19,"TEXT_GAIUSB708_00903_SEQ_19",""
+20,"TEXT_GAIUSB708_00903_SEQ_20",""
+21,"TEXT_GAIUSB708_00903_SEQ_21",""
+22,"TEXT_GAIUSB708_00903_SEQ_22",""
+23,"TEXT_GAIUSB708_00903_SEQ_23",""
+24,"TEXT_GAIUSB708_00903_TODO_00","Find the wagon and dispatch any foes."
+25,"TEXT_GAIUSB708_00903_TODO_01","Report to Belmont."
+26,"TEXT_GAIUSB708_00903_TODO_02",""
+27,"TEXT_GAIUSB708_00903_TODO_03",""
+28,"TEXT_GAIUSB708_00903_TODO_04",""
+29,"TEXT_GAIUSB708_00903_TODO_05",""
+30,"TEXT_GAIUSB708_00903_TODO_06",""
+31,"TEXT_GAIUSB708_00903_TODO_07",""
+32,"TEXT_GAIUSB708_00903_TODO_08",""
+33,"TEXT_GAIUSB708_00903_TODO_09",""
+34,"TEXT_GAIUSB708_00903_TODO_10",""
+35,"TEXT_GAIUSB708_00903_TODO_11",""
+36,"TEXT_GAIUSB708_00903_TODO_12",""
+37,"TEXT_GAIUSB708_00903_TODO_13",""
+38,"TEXT_GAIUSB708_00903_TODO_14",""
+39,"TEXT_GAIUSB708_00903_TODO_15",""
+40,"TEXT_GAIUSB708_00903_TODO_16",""
+41,"TEXT_GAIUSB708_00903_TODO_17",""
+42,"TEXT_GAIUSB708_00903_TODO_18",""
+43,"TEXT_GAIUSB708_00903_TODO_19",""
+44,"TEXT_GAIUSB708_00903_TODO_20",""
+45,"TEXT_GAIUSB708_00903_TODO_21",""
+46,"TEXT_GAIUSB708_00903_TODO_22",""
+47,"TEXT_GAIUSB708_00903_TODO_23",""
+48,"TEXT_GAIUSB708_00903_BELMONT_000_000","Well met, <hex:020814E905FF07>sister<hex:FF08>brother<hex:03> in drudgery! I'm a sellsword myself, but I doubt this lot here rates that any higher than adventurers. But I can't complain─I have three squares and clean straw enough to sleep in, even if I moil all day for it."
+49,"TEXT_GAIUSB708_00903_BELMONT_000_001","Anyroad, thought I'd share some of the work with you today. A wagon bound for House Fortemps broke its wheel shaft on the way, and sent word they'd be half a day late. Ain't showed up yet."
+50,"TEXT_GAIUSB708_00903_BELMONT_000_002","They're on the east road─those legs of yours won't find it too far. I've got my own donkey work to see to, but we'll have a mug of something when you return."
+51,"TEXT_GAIUSB708_00903_DUMMY_000_010",""
+52,"TEXT_GAIUSB708_00903_DUMMYTODO_000_010",""
+53,"TEXT_GAIUSB708_00903_BELMONT_000_020","You made good time. What news? Ixal? Got 'em all, huh? Poor sods."
+54,"TEXT_GAIUSB708_00903_BELMONT_000_021","I tell you, the high and mighty around these parts don't even see in black and white. They see in “dragon” and “not dragon,” you know of what I speak. All manner of nasties that don't breathe fire kill just as many men, but that's neither here nor there for them."
+55,"TEXT_GAIUSB708_00903_BELMONT_000_022","Ain't nothing to me either, I s'pose. This place─not enough men, not enough arms, and cold enough to make a man piss ice. I tell you, coming west to offer my services was mayhap less wise than I thought. This is a chill that even a bowl of Mun–Tuy soup won't cure. Ah, to be in Gridania again..."
+56,"TEXT_GAIUSB708_00903_POP_MESSAGE_000","An Ixali war cry rends the air!"

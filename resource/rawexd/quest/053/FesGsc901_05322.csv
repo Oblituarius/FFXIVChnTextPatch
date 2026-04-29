@@ -2,156 +2,156 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_FESGSC901_05322_SEQ_00,※本任務是特定期間內的任務。<hex:02100103><hex:02100103>翠玉大街的喜歡慶典的城裡人想要向人介紹金碟嘉年華。
-1,TEXT_FESGSC901_05322_SEQ_01,※本任務只有在季節活動開放期間才能接受和進行。<hex:02100103>　季節活動結束後無法進行，敬請注意。<hex:02100103>　詳情請參見官方網站。<hex:02100103><hex:02100103>聽喜歡慶典的城裡人介紹了金碟嘉年華。和金碟遊樂場幻卡廣場的奧利爾談談。
-2,TEXT_FESGSC901_05322_SEQ_02,聽埃爾默和奧利爾說目前正流行著幻卡王很弱的傳聞。冒險者決定協助他們調查這一傳聞。在金碟遊樂場的奇妙廣場收集情報。
-3,TEXT_FESGSC901_05322_SEQ_03,針對幻卡王的傳聞收集了情報。和金碟遊樂場乙太之光廣場的奧利爾談談。
-4,TEXT_FESGSC901_05322_SEQ_04,和奧利爾進行了交談，決定尋找幻卡王的冒充者。在金碟遊樂場演出廣場的<hex:02280CFF05>EObj<hex:F61EBDEC0103>張望。
-5,TEXT_FESGSC901_05322_SEQ_05,找到了冒牌幻卡王。這個人似乎就是傳聞的源頭，但在問話之前就逃走了。他在逃離時似乎掉落了什麼東西。在演出廣場獲取<hex:02280CFF05>EObj<hex:F61EBDEE0103>。
-6,TEXT_FESGSC901_05322_SEQ_06,冒牌幻卡王掉落的是<hex:022811FF0A>EventItem<hex:F61E93260103>。將<hex:022811FF0A>EventItem<hex:F61E93260103>交給演出廣場的奧利爾。
-7,TEXT_FESGSC901_05322_SEQ_07,奧利爾猜測，冒牌幻卡王可能是幻卡王的擁護者，而這張卡牌應該對他很重要。冒險者由此想出了利用廣播和卡牌引出冒牌幻卡王的計策。在金碟遊樂場綜合櫃檯附近的<hex:02280CFF05>EObj<hex:F61EBDEF0103>等待。
-8,TEXT_FESGSC901_05322_SEQ_08,成功引出了冒牌幻卡王。趕來的埃爾默向他講述了自己的過去，並建議他模仿自己九宮幻卡的出彩之處。冒牌幻卡王接受了這一建議，為自己的不當行為道了歉。傳聞今後應該不會擴散了。和入口廣場的奧利爾談談。
-9,TEXT_FESGSC901_05322_SEQ_09,奧利爾向冒險者表示了感謝，並贈送了一張幻卡王埃爾默的卡牌。金碟嘉年華還在火熱舉辦中，在金碟遊樂場盡情遊玩吧！
-10,TEXT_FESGSC901_05322_SEQ_10,
-11,TEXT_FESGSC901_05322_SEQ_11,
-12,TEXT_FESGSC901_05322_SEQ_12,
-13,TEXT_FESGSC901_05322_SEQ_13,
-14,TEXT_FESGSC901_05322_SEQ_14,
-15,TEXT_FESGSC901_05322_SEQ_15,
-16,TEXT_FESGSC901_05322_SEQ_16,
-17,TEXT_FESGSC901_05322_SEQ_17,
-18,TEXT_FESGSC901_05322_SEQ_18,
-19,TEXT_FESGSC901_05322_SEQ_19,
-20,TEXT_FESGSC901_05322_SEQ_20,
-21,TEXT_FESGSC901_05322_SEQ_21,
-22,TEXT_FESGSC901_05322_SEQ_22,
-23,TEXT_FESGSC901_05322_SEQ_23,
-24,TEXT_FESGSC901_05322_TODO_00,和金碟遊樂場的奧利爾對話
-25,TEXT_FESGSC901_05322_TODO_01,在奇妙廣場收集情報
-26,TEXT_FESGSC901_05322_TODO_02,和奧利爾對話
-27,TEXT_FESGSC901_05322_TODO_03,在<hex:02280CFF05>EObj<hex:F61EBDEC0103>張望
-28,TEXT_FESGSC901_05322_TODO_04,獲取<hex:02280CFF05>EObj<hex:F61EBDEE0103>
-29,TEXT_FESGSC901_05322_TODO_05,將<hex:022811FF0A>EventItem<hex:F61E93260103>交給奧利爾
-30,TEXT_FESGSC901_05322_TODO_06,在<hex:02280CFF05>EObj<hex:F61EBDEF0103>等待
-31,TEXT_FESGSC901_05322_TODO_07,和奧利爾對話
-32,TEXT_FESGSC901_05322_TODO_08,
-33,TEXT_FESGSC901_05322_TODO_09,
-34,TEXT_FESGSC901_05322_TODO_10,
-35,TEXT_FESGSC901_05322_TODO_11,
-36,TEXT_FESGSC901_05322_TODO_12,
-37,TEXT_FESGSC901_05322_TODO_13,
-38,TEXT_FESGSC901_05322_TODO_14,
-39,TEXT_FESGSC901_05322_TODO_15,
-40,TEXT_FESGSC901_05322_TODO_16,
-41,TEXT_FESGSC901_05322_TODO_17,
-42,TEXT_FESGSC901_05322_TODO_18,
-43,TEXT_FESGSC901_05322_TODO_19,
-44,TEXT_FESGSC901_05322_TODO_20,
-45,TEXT_FESGSC901_05322_TODO_21,
-46,TEXT_FESGSC901_05322_TODO_22,
-47,TEXT_FESGSC901_05322_TODO_23,
-48,TEXT_FESGSC901_05322_CITIZEN05322_000_000,這位朋友，你知道金碟嘉年華嗎？<hex:02100103>這可是當前最火熱的活動哦！
-49,TEXT_FESGSC901_05322_CITIZEN05322_000_001,在活動期間，不但能夠得到1.5倍的遊樂場代幣——金碟幣，<hex:02100103>能夠交換的獎品也有一部分會打折。<hex:02100103>想參加的話就立刻前往艾歐澤亞首屈一指的金碟遊樂場吧！
-50,TEXT_FESGSC901_05322_CITIZEN05322_000_002,然後……那邊還有卡牌遊戲「九宮幻卡」的教學，<hex:02100103>是面向孩子的入門級課程，<hex:02100103>講師則是那位金碟遊樂場最強的「幻卡王」！
-51,TEXT_FESGSC901_05322_CITIZEN05322_000_003,說起幻卡王，最近在金碟遊樂場的愛好者們之間，<hex:02100103>流傳著一段關於他的奇怪的傳聞……<hex:02100103>我認識的一位名叫「奧利爾」的工作人員正為此焦頭爛額呢。
-52,TEXT_FESGSC901_05322_CITIZEN05322_000_004,我看你應該是個冒險者吧？<hex:02100103>奧利爾大概在金碟遊樂場的入口廣場那裡，<hex:02100103>如果你有興趣的話，就去找他問問看吧。
-53,TEXT_FESGSC901_05322_CITIZEN05322_000_005,哎呀，聊得有點太久了，我得走了。<hex:02100103>我還想把在嘉年華慶典中感受到的興奮傳遞給更多人呢。<hex:02100103>請你務必去金碟遊樂場看看哦！
-54,TEXT_FESGSC901_05322_CITIZEN05322_000_006,對了，如果你還沒去過，<hex:02100103>就和那邊的揮金如土的年輕人談談吧。<hex:02100103>他應該會分給你富裕的飛空艇票。
-55,TEXT_FESGSC901_05322_SYSTEM_000_007,若要領取或繼續推進本任務，需要在烏爾達哈現世迴廊領取<hex:02100103>15級才能領取的任務「前往遊樂場」。
-56,TEXT_FESGSC901_05322_OLLIER_000_010,是你呀，冒險者，很高興再次見到你。<hex:02100103>這次想玩什麼項目呢？
-57,TEXT_FESGSC901_05322_OLLIER_000_011,什麼，你是來詢問這邊的情況的？<hex:02100103>這樣的話，有件事我想請你幫幫忙，<hex:02100103>不過怎麼說好呢……
-58,TEXT_FESGSC901_05322_OLLIER_000_020,這位客人，你有什麼事嗎？<hex:02100103>有事的話還請儘管吩咐。
-59,TEXT_FESGSC901_05322_OLLIER_000_021,我就是奧利爾沒錯，你是來詢問這邊的情況的？<hex:02100103>這樣的話，有件事我想請你幫幫忙，<hex:02100103>不過怎麼說好呢……
-60,TEXT_FESGSC901_05322_KINGELMERIII_000_030,(-？？？？-)抱歉讓我插句嘴……
-61,TEXT_FESGSC901_05322_KINGELMERIII_100_030,這件事就由我這個當事人來說明吧。
-62,TEXT_FESGSC901_05322_KINGELMERIII_000_031,我名為埃爾默，在幻卡廣場擔任「幻卡王」。<hex:02100103>所謂的幻卡王，是指工作人員中最強的九宮幻卡玩家，<hex:02100103>負責接受客人們的挑戰。
-63,TEXT_FESGSC901_05322_KINGELMERIII_000_032,可不知為何，最近莫名其妙地流傳起一些不實的傳聞，<hex:02100103>說幻卡王表面上是金碟遊樂場最強的九宮卡手，<hex:02100103>實際卻弱到連新手也打不過。
-64,TEXT_FESGSC901_05322_KINGELMERIII_000_034,其實幻卡王真正的職責類似於考官，<hex:02100103>我會適當放水，讓真正的高手能夠獲勝。<hex:02100103>戰勝幻卡王的玩家就有資格挑戰世界各地的強者了。
-65,TEXT_FESGSC901_05322_KINGELMERIII_000_035,然而傳聞卻說我很弱……？<hex:02100103>有沒有搞錯？！我可是「幻卡王」啊！
-66,TEXT_FESGSC901_05322_OLLIER_100_035,非常抱歉，他平時性情溫厚，<hex:02100103>現在大概是由於意料之外的事態而陷入混亂了吧……
-67,TEXT_FESGSC901_05322_OLLIER_110_035,不過我們可以保證，他一直在自己的崗位上盡職盡責，<hex:02100103>運營記錄中也不存在有辱幻卡王名號的敗績。
-68,TEXT_FESGSC901_05322_KINGELMERIII_000_036,既然身為考官，就需要與之相稱的實力，<hex:02100103>對客人們來說，面對適度的強敵無論輸贏都能體會到樂趣。<hex:02100103>被人認為我還不如新手怎麼能行！
-69,TEXT_FESGSC901_05322_KINGELMERIII_000_037,如果幻卡王埃爾默的威名掃地，<hex:02100103>真正的受害者並不是我，而是享受九宮幻卡樂趣的客人們！<hex:02100103>為了他們也不能讓這種謠言再擴散下去了！
-70,TEXT_FESGSC901_05322_OLLIER_000_038,埃爾默說得沒錯，傳聞並不只是幻卡王一個人的問題，<hex:02100103>這關係到客人們能否在幻卡廣場的遊玩中感到滿足。<hex:02100103>必須在傳聞進一步擴散前採取措施。
-71,TEXT_FESGSC901_05322_OLLIER_000_039,根據調查，傳聞的源頭並不在運營一方。<hex:02100103>我們需要找出源頭、採取措施。<hex:02100103>冒險者，你能助我們一臂之力嗎？
-72,TEXT_FESGSC901_05322_OLLIER_000_040,非常感謝！<hex:02100103>你能幫忙我就放心多了。
-73,TEXT_FESGSC901_05322_KINGELMERIII_000_041,我也想要參與調查，但我還有平時的工作要忙，<hex:02100103>然後還要教小孩子，實在抽不出時間……<hex:02100103>只能拜託你們了，非常抱歉。
-74,TEXT_FESGSC901_05322_OLLIER_000_042,那我們就先分頭去打聽一下傳聞的事吧。<hex:02100103>我會去圓形廣場那邊問問看，<hex:02100103>奇妙廣場附近就交給你了。
-75,TEXT_FESGSC901_05322_OLLIER_000_043,結束之後，我們就在乙太之光廣場會合吧。<hex:02100103>那就拜託你了。
-76,TEXT_FESGSC901_05322_OLLIER_000_050,抱歉打擾一下。<hex:02100103>不知道你有沒有聽過最近流傳的傳聞？
-77,TEXT_FESGSC901_05322_KINGELMERIII_000_051,作為幻卡王的言行舉止當然只是工作的一環，<hex:02100103>只是一種表演，並不代表我本人。<hex:02100103>但也正因如此，我才更要全力以赴。
-78,TEXT_FESGSC901_05322_KINGELMERIII_000_052,而關鍵的幻卡對決，我雖然不會使出全力，<hex:02100103>但也是用心在打的，這一點幻卡廣場的其他同事也是一樣。<hex:02100103>為了能讓客人們樂在其中，我們所有人都很認真。
-79,TEXT_FESGSC901_05322_VISITORA05322_000_060,你問幻卡王的話，我在奇妙廣場這邊看過他和別人對決。<hex:02100103>結果他沒兩下就輸掉了，真的就像傳聞中那麼弱。<hex:02100103>不過他應該沒出全力，是不是在搞什麼活動……？
-80,TEXT_FESGSC901_05322_VISITORB05322_000_070,我沒聽過有什麼傳聞，<hex:02100103>不過我剛剛看到幻卡王向演出廣場的方向去了！<hex:02100103>竟然能在幻卡廣場外面看到他，我好幸運！
-81,TEXT_FESGSC901_05322_VISITORC05322_000_080,幻卡王大人怎麼可能會很弱呢，請你不要聽信謠言！<hex:02100103>對了，幻卡王大人剛剛好像還在這附近，<hex:02100103>不知道現在到哪去了……？
-82,TEXT_FESGSC901_05322_VISITORA05322_000_090,我不認為幻卡王真的有那麼弱，<hex:02100103>傳聞會不會是源自於某種活動？
-83,TEXT_FESGSC901_05322_VISITORB05322_000_091,幻卡王向演出廣場的方向去了！<hex:02100103>他是去做什麼的呢？我有點好奇！
-84,TEXT_FESGSC901_05322_VISITORC05322_000_092,幻卡王大人才不可能那麼弱！那不過只是謠言罷了！<hex:02100103>話說回來，他真的在這附近嗎？
-85,TEXT_FESGSC901_05322_OLLIER_000_100,冒險者，你辛苦了。<hex:02100103>打聽到有用的消息了嗎？
-86,TEXT_FESGSC901_05322_OLLIER_000_101,這樣啊……看來目前還沒什麼人真的相信他很弱。<hex:02100103>和我打聽到的差不多。
-87,TEXT_FESGSC901_05322_OLLIER_000_102,不過讓我在意的是，有人看到「幻卡王」在奇妙廣場和別人對決，<hex:02100103>之後又去了演出廣場。<hex:02100103>埃爾默應該一直都在幻卡廣場才對……
-88,TEXT_FESGSC901_05322_Q1_000_000,要說什麼？
-89,TEXT_FESGSC901_05322_A1_000_001,還有另一位幻卡王！
-90,TEXT_FESGSC901_05322_A1_000_002,有人冒充幻卡王
-91,TEXT_FESGSC901_05322_OLLIER_000_103,哦哦，這句話有點意思，應該能用作活動的宣傳語！<hex:02100103>你說得沒錯，還有另一位幻卡王……<hex:02100103>應該是他的冒充者。
-92,TEXT_FESGSC901_05322_OLLIER_000_104,嗯，我也是這麼想的。<hex:02100103>應該是有人在冒充幻卡王。
-93,TEXT_FESGSC901_05322_OLLIER_000_105,雖然不知這個人目的為何，但如果是傳聞的源頭就不能不管。<hex:02100103>我們這就前往演出廣場，找出冒牌貨吧。
-94,TEXT_FESGSC901_05322_OLLIER_000_106,我還沒有找到冒充者。<hex:02100103>他應該就在這附近……我們再繼續找找吧。
-95,TEXT_FESGSC901_05322_VISITORD05322_000_110,你在這種地方啊，幻卡王，<hex:02100103>我要和你一決勝負！
-96,TEXT_FESGSC901_05322_THEKINGSIMPOSTOR_000_111,(-幻卡王埃爾默？-)我接受你的挑戰！<hex:02100103>就讓你見識一下我的實力！
-97,TEXT_FESGSC901_05322_VISITORD05322_000_112,我贏過幻卡王了！<hex:02100103>果然和傳聞一樣弱，我這個新手也能輕鬆獲勝啊！
-98,TEXT_FESGSC901_05322_THEKINGSIMPOSTOR_000_113,(-幻卡王埃爾默？-)怎、怎麼會這樣？！<hex:02100103>我可是幻卡王！怎麼可能會輸！
-99,TEXT_FESGSC901_05322_OLLIER_000_114,冒險者！<hex:02100103>怎麼樣，找到冒充者了嗎？
-100,TEXT_FESGSC901_05322_OLLIER_000_115,他應該就是冒充者了吧……<hex:02100103>我們去問問看吧。
-101,TEXT_FESGSC901_05322_THEKINGSIMPOSTOR_000_116,兩位喜歡九宮幻卡嗎？<hex:02100103>想找人對決的話，我這個幻卡王願意接受你們的挑戰！
-102,TEXT_FESGSC901_05322_Q2_000_000,要說什麼？
-103,TEXT_FESGSC901_05322_A2_000_001,你才不是幻卡王
-104,TEXT_FESGSC901_05322_A2_000_002,傳聞的源頭就是你吧
-105,TEXT_FESGSC901_05322_A2_000_003,你這位「幻卡王」會不會太弱了點？
-106,TEXT_FESGSC901_05322_THEKINGSIMPOSTOR_000_120,你、你、你、你在胡說些什麼呢！<hex:02100103>我可是貨真價實的幻卡王埃爾默哦！
-107,TEXT_FESGSC901_05322_THEKINGSIMPOSTOR_000_130,傳、傳聞？！<hex:02100103>我聽不懂你在說什麼……
-108,TEXT_FESGSC901_05322_THEKINGSIMPOSTOR_000_140,非、非要戳別人的痛點嗎……！<hex:02100103>明明我一直在努力練習啊……
-109,TEXT_FESGSC901_05322_THEKINGSIMPOSTOR_100_150,嗯？你不是奧利爾嗎！<hex:02100103>咿——？！
-110,TEXT_FESGSC901_05322_THEKINGSIMPOSTOR_000_150,竟然被工作人員抓到了……<hex:02100103>我完蛋了……
-111,TEXT_FESGSC901_05322_THEKINGSIMPOSTOR_000_151,不，我是不會束手就擒的！<hex:02100103>我還想多當一下憧憬中的幻卡王呢！
-112,TEXT_FESGSC901_05322_OLLIER_000_152,別跑，冒牌貨！
-113,TEXT_FESGSC901_05322_SYSTEM_000_160,是一張幻卡王埃爾默的卡牌，<hex:02100103>外面套著保護性的透明卡套。<hex:02100103>把它交給奧利爾確認一下吧。
-114,TEXT_FESGSC901_05322_OLLIER_000_170,抱歉，冒險者……我急著追那冒牌貨，先走了一步，<hex:02100103>不過還是沒追上，讓他跑了。<hex:02100103>……咦，你是發現了什麼線索嗎？
-115,TEXT_FESGSC901_05322_OLLIER_000_180,……是<hex:02280CFF05>EObj<hex:F61EBDEE0103>啊。<hex:02100103>這是先行發放給幻卡王擁護者的卡牌。
-116,TEXT_FESGSC901_05322_OLLIER_000_181,埃爾默對九宮幻卡總是追求極致、毫不妥協，<hex:02100103>大家都欣賞這一點，所以幻卡王才這麼受歡迎的。
-117,TEXT_FESGSC901_05322_OLLIER_000_182,而冒牌幻卡王應該也是埃爾默的擁護者之一。<hex:02100103>這樣說來，這張卡牌應該對他意義非凡，<hex:02100103>等抓住他之後就還給他吧。
-118,TEXT_FESGSC901_05322_OLLIER_000_183,不過該怎麼抓住他呢，就算我們找到了他，<hex:02100103>隨便靠近的話很可能再被他逃了。<hex:02100103>看來需要想點計策……
-119,TEXT_FESGSC901_05322_STRAY05322_000_190,(-小孩子的哭聲-)嗚哇啊啊啊啊！<hex:02100103>媽媽——！
-120,TEXT_FESGSC901_05322_STAFF05322_000_191,小朋友，別哭了，我們這就用廣播幫你找媽媽，<hex:02100103>她很快就會來接你的。
-121,TEXT_FESGSC901_05322_STRAY05322_000_192,真的嗎？<hex:02100103>媽媽會來接我嗎？
-122,TEXT_FESGSC901_05322_STAFF05322_000_193,當然了！<hex:02100103>不過這裡有點不太好找，<hex:02100103>我們去個容易找到的地方吧。
-123,TEXT_FESGSC901_05322_Q3_000_000,要說什麼？
-124,TEXT_FESGSC901_05322_A3_000_001,用廣播把他叫出來吧！
-125,TEXT_FESGSC901_05322_A3_000_002,用卡牌引誘他出來怎麼樣？
-126,TEXT_FESGSC901_05322_OLLIER_000_200,……好主意！<hex:02100103>只要廣播說撿到了他掉的卡牌，<hex:02100103>說不定能引他出來！
-127,TEXT_FESGSC901_05322_OLLIER_000_201,那麼我去準備廣播。<hex:02100103>冒險者就在綜合櫃檯附近等待冒牌幻卡王上鉤吧。
-128,TEXT_FESGSC901_05322_OLLIER_000_210,(-奧利爾的廣播-)遺失了幻卡王埃爾默卡牌的客人，<hex:02100103>您的卡牌在綜合櫃檯，<hex:02100103>請到來賓接待員處諮詢取回。
-129,TEXT_FESGSC901_05322_THEKINGSIMPOSTOR_000_211,能順利找回來真是太好了。<hex:02100103>得好好謝謝撿到它的人……嗯？
-130,TEXT_FESGSC901_05322_THEKINGSIMPOSTOR_000_212,什麼——？！<hex:02100103>幻卡王本人為什麼也在這裡？
-131,TEXT_FESGSC901_05322_KINGELMERIII_000_213,呵呵，我原本想著在休息時間能不能幫上什麼忙，<hex:02100103>沒想到剛好趕上獵物上鉤啊。<hex:02100103>我聽奧利爾說過了，他就是冒牌貨吧？
-132,TEXT_FESGSC901_05322_KINGELMERIII_000_214,你這人……明明這麼弱卻還要冒充我，真能給人添麻煩！<hex:02100103>我打不贏新手的傳聞如果流傳開了，<hex:02100103>客人們就不會再期待與幻卡王的對決了！
-133,TEXT_FESGSC901_05322_THEKINGSIMPOSTOR_000_215,竟然因為我而流傳出了那種傳聞……！<hex:02100103>真是對不起，我沒想給你添麻煩的……
-134,TEXT_FESGSC901_05322_OLLIER_000_216,話說回來……你為什麼要冒充幻卡王呢？
-135,TEXT_FESGSC901_05322_THEKINGSIMPOSTOR_000_217,我很喜歡九宮幻卡，但實力卻非常弱。<hex:02100103>所以我想通過扮演我最尊敬的幻卡王，<hex:02100103>稍微體會一下成為強者的感覺。
-136,TEXT_FESGSC901_05322_THEKINGSIMPOSTOR_000_218,然後就真的有人把我錯當成了幻卡王。<hex:02100103>於是我就得意忘形，變本加厲模仿了起來……<hex:02100103>明明我心裡清楚，這樣做不會真的讓我變強……
-137,TEXT_FESGSC901_05322_KINGELMERIII_000_219,就是說啊，真是的。<hex:02100103>你想變強的話，不應該去模仿我的外形，<hex:02100103>而應該去分析模仿我的戰術，將其化作你自己的力量。
-138,TEXT_FESGSC901_05322_KINGELMERIII_000_220,實話對你說，我以前也不擅長九宮幻卡。<hex:02100103>所以我就去模仿比我強的人，分析他們的戰術，<hex:02100103>想著化為己用。
-139,TEXT_FESGSC901_05322_KINGELMERIII_000_221,雖然最初模仿得不盡人意，也分析不出像樣的結果，<hex:02100103>但在不斷比試的過程中，我的實力也漸漸增強了。<hex:02100103>我現在能成為幻卡王，也是多虧了模仿他人積累起來的經驗。
-140,TEXT_FESGSC901_05322_OLLIER_000_222,不斷和不同的人戰鬥，不知何時就被稱為幻卡王了……<hex:02100103>看來你的開場白在某種意義上是真的啊。
-141,TEXT_FESGSC901_05322_KINGELMERIII_000_223,就是這樣，冒牌貨先生，你搞錯了應該模仿的東西。<hex:02100103>接下來就請模仿我的戰術，分析並吸收它們，<hex:02100103>作為一位客人來挑戰我吧。
-142,TEXT_FESGSC901_05322_THEKINGSIMPOSTOR_000_224,嗯，我明白了！<hex:02100103>下次我一定會盡力模仿出你的牌技！<hex:02100103>很抱歉給你添麻煩了！
-143,TEXT_FESGSC901_05322_KINGELMERIII_000_225,看在傳聞的影響還比較小的份上，<hex:02100103>這次就暫且放你一馬。<hex:02100103>冒險者也原諒他這一次吧。
-144,TEXT_FESGSC901_05322_KINGELMERIII_000_226,好，那這件事就告一段落吧，<hex:02100103>還好能在影響到客人們之前就解決了。<hex:02100103>實在太感謝你了，冒險者。
-145,TEXT_FESGSC901_05322_KINGELMERIII_000_227,休息時間差不多要結束了，我先告辭了。<hex:02100103>歡迎你到幻卡廣場來玩哦。
-146,TEXT_FESGSC901_05322_KINGELMERIII_000_240,這次真是多謝你了。<hex:02100103>對了，你九宮幻卡玩得怎麼樣？<hex:02100103>有自信的話，歡迎你隨時來挑戰！
-147,TEXT_FESGSC901_05322_OLLIER_000_250,埃爾默說得沒錯，這樣就算解決了吧。<hex:02100103>非常感謝你的幫助，冒險者。<hex:02100103>作為報酬，請你收下這張幻卡王埃爾默的卡牌。
-148,TEXT_FESGSC901_05322_OLLIER_000_251,冒牌貨事件前，埃爾默在我這裡留了幾張先行發放的卡牌。<hex:02100103>這是其中的一張。
-149,TEXT_FESGSC901_05322_OLLIER_000_252,還有……目前正在舉辦金碟嘉年華活動，<hex:02100103>請務必趁此機會在金碟遊樂場遊玩。<hex:02100103>我推薦的項目是幻卡廣場的九宮幻卡哦！
-150,TEXT_FESGSC901_05322_SYSTEM_000_253,學會了情感動作「大驚小怪」！
-151,TEXT_FESGSC901_05322_OLLIER_000_035,
-152,TEXT_FESGSC901_05322_OLLIER_000_160,
+0,"TEXT_FESGSC901_05322_SEQ_00","The ebullient citizen can barely contain his enthusiasm for the Gold Saucer festivities.<hex:02100103>※This quest is available for a limited time only."
+1,"TEXT_FESGSC901_05322_SEQ_01","On Emerald Avenue, you encounter an effusive fellow spreading word of the Gold Saucer festivities. Having caught your attention, he shares news of a rumor regarding the venerated Triple Triad player, King Elmer III. He stops short of sharing any pertinent details, however, instead directing you to speak with Ollier the attendant in Card Square should this tidbit have piqued your interest.<hex:02100103><hex:02100103>※Please note that you will be unable to complete this quest after the seasonal event has ended. For details, please check the Lodestone."
+2,"TEXT_FESGSC901_05322_SEQ_02","As the attendant begins to expound on the matter, King Elmer III himself appears and reveals that the rumor concerns his skills, or supposed lack thereof, at the Triple Triad table. Fearing the deleterious impact on the king's reputation and reverberations among both past and potential challengers, Ollier seeks to discern the source of the rumor and tasks you with gathering information in Wonder Square."
+3,"TEXT_FESGSC901_05322_SEQ_03","Having spoken with three patrons, it seems the rumor is not widely believed and that King Elmer III enjoys the support of some very ardent fans. However, reported sightings of the card champion wandering the Saucer may warrant further inquiry. You make for the aetheryte plaza to share your findings with Ollier."
+4,"TEXT_FESGSC901_05322_SEQ_04","Given that King Elmer III has remained faithfully at his post, the attendant is alarmed by the reports of an errant king. The simplest explanation: an impostor is frequenting the squares and hallways of the Gold Saucer. Keen to locate the pretender, Ollier enlists your help in surveying the glittering vastness of Event Square."
+5,"TEXT_FESGSC901_05322_SEQ_05","In the distance, you glimpse a green-robed individual lose a game of Triple Triad in dramatic fashion. On approach, the man declares himself to be King Elmer III and challenges you to a match, but turns tail and flees when he notices Ollier's stern gaze. As the attendant dutifully dashes off in pursuit, you spot something laying on the red carpet mere ilms away from where the impostor was standing."
+6,"TEXT_FESGSC901_05322_SEQ_06","The object in question reveals itself as a Triple Triad card emblazoned with King Elmer III. You carefully stow the card and move to reconvene with Ollier, who may be able to shed light on its provenance."
+7,"TEXT_FESGSC901_05322_SEQ_07","According to the ever-professional attendant, the card is a limited-edition print─one of several commissioned as gifts for King Elmer III's adoring supporters. Surmising that the impostor himself is one such fan, you resolve to lure the false king out of hiding by using the card as bait. You are to wait by the main counter, ready to leap into action when your mark appears to collect his precious lost property."
+8,"TEXT_FESGSC901_05322_SEQ_08","After a daring chase and with the aid of the true King Elmer III, the pretender is surrounded. He confesses that he assumed the king's identity in order to feel stronger, a charade that spun wildly out of control. Far from excoriating the misguided fellow, King Elmer shares his own struggles as a Triple Triad player, offering advice on how to improve and ultimately inviting his doppelganger to face him fair and square─not as an impostor, but as an accomplished player in his own right. At any rate, with the false king repentant, the rumor ought not spread further. No doubt Ollier will wish to thank you for your efforts."
+9,"TEXT_FESGSC901_05322_SEQ_09","The grateful attendant gifts you a limited-edition King Elmer III card as a token of appreciation for your assistance in quelling the rumor. He bids you make the most of the Gold Saucer's ongoing festivities─particularly those of the Triple Triad variety, if the fancy strikes."
+10,"TEXT_FESGSC901_05322_SEQ_10",""
+11,"TEXT_FESGSC901_05322_SEQ_11",""
+12,"TEXT_FESGSC901_05322_SEQ_12",""
+13,"TEXT_FESGSC901_05322_SEQ_13",""
+14,"TEXT_FESGSC901_05322_SEQ_14",""
+15,"TEXT_FESGSC901_05322_SEQ_15",""
+16,"TEXT_FESGSC901_05322_SEQ_16",""
+17,"TEXT_FESGSC901_05322_SEQ_17",""
+18,"TEXT_FESGSC901_05322_SEQ_18",""
+19,"TEXT_FESGSC901_05322_SEQ_19",""
+20,"TEXT_FESGSC901_05322_SEQ_20",""
+21,"TEXT_FESGSC901_05322_SEQ_21",""
+22,"TEXT_FESGSC901_05322_SEQ_22",""
+23,"TEXT_FESGSC901_05322_SEQ_23",""
+24,"TEXT_FESGSC901_05322_TODO_00","Speak with Ollier at the Gold Saucer."
+25,"TEXT_FESGSC901_05322_TODO_01","Gather information in Wonder Square."
+26,"TEXT_FESGSC901_05322_TODO_02","Speak with Ollier."
+27,"TEXT_FESGSC901_05322_TODO_03","Survey the square from the vantage point."
+28,"TEXT_FESGSC901_05322_TODO_04","Retrieve the dropped card."
+29,"TEXT_FESGSC901_05322_TODO_05","Deliver the card to Ollier."
+30,"TEXT_FESGSC901_05322_TODO_06","Wait at the designated location."
+31,"TEXT_FESGSC901_05322_TODO_07","Speak with Ollier."
+32,"TEXT_FESGSC901_05322_TODO_08",""
+33,"TEXT_FESGSC901_05322_TODO_09",""
+34,"TEXT_FESGSC901_05322_TODO_10",""
+35,"TEXT_FESGSC901_05322_TODO_11",""
+36,"TEXT_FESGSC901_05322_TODO_12",""
+37,"TEXT_FESGSC901_05322_TODO_13",""
+38,"TEXT_FESGSC901_05322_TODO_14",""
+39,"TEXT_FESGSC901_05322_TODO_15",""
+40,"TEXT_FESGSC901_05322_TODO_16",""
+41,"TEXT_FESGSC901_05322_TODO_17",""
+42,"TEXT_FESGSC901_05322_TODO_18",""
+43,"TEXT_FESGSC901_05322_TODO_19",""
+44,"TEXT_FESGSC901_05322_TODO_20",""
+45,"TEXT_FESGSC901_05322_TODO_21",""
+46,"TEXT_FESGSC901_05322_TODO_22",""
+47,"TEXT_FESGSC901_05322_TODO_23",""
+48,"TEXT_FESGSC901_05322_CITIZEN05322_000_000","Fair stranger, did you hear of the sensational Gold Saucer festivities currently underway?"
+49,"TEXT_FESGSC901_05322_CITIZEN05322_000_001","All who participate are entitled to a handsome MGP bonus, not to mention discounts on a bevy of prizes. A simply unmissable opportunity, I'm sure you'll agree!"
+50,"TEXT_FESGSC901_05322_CITIZEN05322_000_002","What's more, I gather they're hosting special Triple Triad classes for younglings─all taught by the cardinal of cards himself, King Elmer III!"
+51,"TEXT_FESGSC901_05322_CITIZEN05322_000_003","Which reminds me... A rather peculiar rumor concerning the king has been circulating recently. My friend Ollier works at the Saucer, and by his telling, it's causing much consternation among the staff."
+52,"TEXT_FESGSC901_05322_CITIZEN05322_000_004","Judging by your indomitable gaze and well-worn garb, I'd wager you're an adventurer. If any of this has whet your appetite for intrigue, I suggest you journey to Card Square and speak with Ollier directly."
+53,"TEXT_FESGSC901_05322_CITIZEN05322_000_005","Ah, look at me blabbering on! I'd best be off, for I shan't rest until every Ul'dahn in this fine city is privy to the Gold Saucer festivities!"
+54,"TEXT_FESGSC901_05322_CITIZEN05322_000_006","If you've not yet had the pleasure of visiting, I suggest you speak with that well-heeled youth over there. I hear he has a spare ticket or two. Perhaps he'll deign to furnish you with one."
+55,"TEXT_FESGSC901_05322_SYSTEM_000_007","In order to undertake this quest, you must first complete the quest “It Could Happen to You,” which can be undertaken at level 15."
+56,"TEXT_FESGSC901_05322_OLLIER_000_010","Well, I never! If it isn't <hex:020815E905FF09>Mistress<hex:FF07>Master<hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303>. It's a pleasure to see you again. Which of our myriad games and entertainments will you be dabbling in today?"
+57,"TEXT_FESGSC901_05322_OLLIER_000_011","You came all this way to discuss the rumor with me? I'm touched that you'd take interest in what must seem a trifling matter, but if you're willing, I'd be ever so grateful for your assistance─"
+58,"TEXT_FESGSC901_05322_OLLIER_000_020","Allow me to bid you a warm welcome to the Manderville Gold Saucer. How might I be of service?"
+59,"TEXT_FESGSC901_05322_OLLIER_000_021","You came all this way to discuss the rumor with this humble attendant? I'm touched that you'd take interest in what must seem a trifling matter, but if you're willing, I'd be ever so grateful for your assistance─"
+60,"TEXT_FESGSC901_05322_KINGELMERIII_000_030","(-???-)Forgive the intrusion..."
+61,"TEXT_FESGSC901_05322_KINGELMERIII_100_030","I thought it best that I myself inform you of the details."
+62,"TEXT_FESGSC901_05322_KINGELMERIII_000_031","I am King Elmer, and while it's not <hex:021A020203>technically<hex:021A020103> royal blood coursing through these veins, my reign over Card Square is absolute. Of all our Triple Triad-playing staff, I am without question the strongest."
+63,"TEXT_FESGSC901_05322_KINGELMERIII_000_032","Alas, an unsavory rumor threatens to topple my metaphorical crown. There are mutterings that the king is no more skilled than a fresh-faced novice..."
+64,"TEXT_FESGSC901_05322_KINGELMERIII_000_034","I am the final hurdle before fledgling players go on to challenge the realm's best Triple Triad tacticians. Overcoming my curated strategies is paramount to their future standing."
+65,"TEXT_FESGSC901_05322_KINGELMERIII_000_035","And yet my prowess is called into question!? <hex:021A020203>Inconceivable<hex:021A020103>!"
+66,"TEXT_FESGSC901_05322_OLLIER_100_035","This ordeal has proven rather stressful for King Elmer III. As I'm sure you can appreciate, even the most level-headed among us can...unravel during times of crisis."
+67,"TEXT_FESGSC901_05322_OLLIER_110_035","It's worth noting that our records don't indicate any crushing defeats of the like to blemish his reputation. As far as the Gold Saucer is concerned, King Elmer III continues to fulfill his duties with the utmost skill and professionalism."
+68,"TEXT_FESGSC901_05322_KINGELMERIII_000_036","Painstakingly have I honed my skills─analyzed countless techniques! All that I might provide our guests with thrilling experiences!"
+69,"TEXT_FESGSC901_05322_KINGELMERIII_000_037","If this rumor isn't contained, the very meaning of challenging me would be lost!"
+70,"TEXT_FESGSC901_05322_OLLIER_000_038","These murmurings affect not just the king himself but the entirety of Card Square and all who would test their mettle within its gilded confines. We must act swiftly to ensure they spread no further."
+71,"TEXT_FESGSC901_05322_OLLIER_000_039","Before you arrived, we established that none of our colleagues are the origin of the rumor, but the task remains to find those responsible. Can we count on your aid?"
+72,"TEXT_FESGSC901_05322_OLLIER_000_040","Thank you, adventurer! Your assistance is most appreciated."
+73,"TEXT_FESGSC901_05322_KINGELMERIII_000_041","As much as I'd like to help, between my regular duties and teaching the younglings, I simply don't have the time. Please do accept my apologies."
+74,"TEXT_FESGSC901_05322_OLLIER_000_042","I propose we split up and question some of the patrons. I shall begin my inquiries in Round Square, which leaves Wonder Square in your capable hands."
+75,"TEXT_FESGSC901_05322_OLLIER_000_043","Let us reconvene in the aetheryte plaza shortly."
+76,"TEXT_FESGSC901_05322_OLLIER_000_050","I don't suppose I could have a moment of your time? I have a few questions concerning a rumor currently circulating..."
+77,"TEXT_FESGSC901_05322_KINGELMERIII_000_051","This kingly mantle may be a mere work uniform, but when it comes to cards, I'm deadly serious!"
+78,"TEXT_FESGSC901_05322_KINGELMERIII_000_052","Owing to my formidable skills, I must hold back when facing my opponents, but I commit myself to each match with complete sincerity. Like every contender here in Card Square, my chief aim is to entertain!"
+79,"TEXT_FESGSC901_05322_VISITORA05322_000_060","If yer after the king, I just spotted him here in the square losin' a round of Triple Triad. He got absolutely trounced. Must be something goin' on..."
+80,"TEXT_FESGSC901_05322_VISITORB05322_000_070","The rumor must've passed me by, but I just spotted King Elmer III striding off toward Event Square. To catch a glimpse of him roaming the Saucer─why, it's a gift from the Spinner Herself!"
+81,"TEXT_FESGSC901_05322_VISITORC05322_000_080","The notion that the king is anything but a consummate master of Triple Triad is preposterous! I heard he was around here somewhere, though... Where could he have gotten to?"
+82,"TEXT_FESGSC901_05322_VISITORA05322_000_090","I reckon he lost on purpose, mind. All this “rumor” business must be in aid of an event or somethin'."
+83,"TEXT_FESGSC901_05322_VISITORB05322_000_091","The king was headed towards Event Square! Perhaps he's off to teach some darling little young ones about the wonders of Triple Triad?"
+84,"TEXT_FESGSC901_05322_VISITORC05322_000_092","That rumor is utter drivel! King Elmer III is a force to be reckoned with at the card tables. Strange that he should be wandering around here in the first place..."
+85,"TEXT_FESGSC901_05322_OLLIER_000_100","Ah, adventurer. How fares your investigation?"
+86,"TEXT_FESGSC901_05322_OLLIER_000_101","Your findings mirror my own. For a blessing, it seems few patrons actually believe the rumor."
+87,"TEXT_FESGSC901_05322_OLLIER_000_102","Although, the sightings of a “king” wandering around outside Card Square are cause for concern. As far as I'm aware, King Elmer III hasn't left his table..."
+88,"TEXT_FESGSC901_05322_Q1_000_000","What will you say?"
+89,"TEXT_FESGSC901_05322_A1_000_001","A second king walks among us!"
+90,"TEXT_FESGSC901_05322_A1_000_002","We have an impostor on our hands."
+91,"TEXT_FESGSC901_05322_OLLIER_000_103","When you put it that way, it sounds rather exciting! Alas, this second “king” is nothing more than a pretender."
+92,"TEXT_FESGSC901_05322_OLLIER_000_104","I am of the very same mind."
+93,"TEXT_FESGSC901_05322_OLLIER_000_105","Their motives are unclear, but if they are indeed the source of the rumor, it behooves us to act. Let us make for Event Square and seek out this false king."
+94,"TEXT_FESGSC901_05322_OLLIER_000_106","I have yet to spy the pretender, though I remain convinced they are here in the square. Pray lend your keen eyes to the search."
+95,"TEXT_FESGSC901_05322_VISITORD05322_000_110","King Elmer III, what are the chances!? We must duel!"
+96,"TEXT_FESGSC901_05322_THEKINGSIMPOSTOR_000_111","(-King Elmer III?-)But of course. Prepare yourself for a royal thrashing!"
+97,"TEXT_FESGSC901_05322_VISITORD05322_000_112","Huzzah! I beat the king! 'Tis true what they say, you're as weak as they come!"
+98,"TEXT_FESGSC901_05322_THEKINGSIMPOSTOR_000_113","(-King Elmer III?-)B-Bested by one of my subjects? Oh, the shame!"
+99,"TEXT_FESGSC901_05322_OLLIER_000_114","Adventurer! Have you sighted the pretender?"
+100,"TEXT_FESGSC901_05322_OLLIER_000_115","There he is, our false king. Let us approach."
+101,"TEXT_FESGSC901_05322_THEKINGSIMPOSTOR_000_116","Say, do you fine folks partake in the delights of Triple Triad? If you're in the mood for a round or two, King Elmer III shall be glad to oblige!"
+102,"TEXT_FESGSC901_05322_Q2_000_000","What will you say?"
+103,"TEXT_FESGSC901_05322_A2_000_001","You're no king, usurper."
+104,"TEXT_FESGSC901_05322_A2_000_002","I daresay we've found the source of the rumor."
+105,"TEXT_FESGSC901_05322_A2_000_003","For a king of cards, you seem awfully devoid of talent."
+106,"TEXT_FESGSC901_05322_THEKINGSIMPOSTOR_000_120","U-Usurper!? How dare you. It is I, King Elmer III!"
+107,"TEXT_FESGSC901_05322_THEKINGSIMPOSTOR_000_130","R-Rumor? What in the seven hells are you talking about?"
+108,"TEXT_FESGSC901_05322_THEKINGSIMPOSTOR_000_140","N-No need to be so scathing! I'm doing my very best, I'll have you know."
+109,"TEXT_FESGSC901_05322_THEKINGSIMPOSTOR_100_150","Wait, you're a Gold Saucer attendant!"
+110,"TEXT_FESGSC901_05322_THEKINGSIMPOSTOR_000_150","Curses. You're here to detain me, aren't you..."
+111,"TEXT_FESGSC901_05322_THEKINGSIMPOSTOR_000_151","No, I won't let you! I'm not ready to give up my crown!"
+112,"TEXT_FESGSC901_05322_OLLIER_000_152","Wait, you charlatan!"
+113,"TEXT_FESGSC901_05322_SYSTEM_000_160","You recover a King Elmer III card safe and secure within a protective case. You had better present your find to Ollier."
+114,"TEXT_FESGSC901_05322_OLLIER_000_170","Please accept my apologies for dashing off like that. I'm afraid my efforts were in vain... I soon lost sight of him. Oh, did you find something?"
+115,"TEXT_FESGSC901_05322_OLLIER_000_180","A King Elmer III card. These were commissioned as an exclusive gift for his most ardent fans."
+116,"TEXT_FESGSC901_05322_OLLIER_000_181","For Triple Triad enthusiasts, King Elmer III's unwavering dedication to the game inspires respect and devotion in equal measure."
+117,"TEXT_FESGSC901_05322_OLLIER_000_182","I'd be willing to bet our impostor is one such fan. With that in mind, I'd like to see this card returned to him..."
+118,"TEXT_FESGSC901_05322_OLLIER_000_183","Though I fear he'll simply flee should we approach him directly. We'll need to devise a plan."
+119,"TEXT_FESGSC901_05322_STRAY05322_000_190","(-Crying Child-)Waaaaaah! M-Mummy!"
+120,"TEXT_FESGSC901_05322_STAFF05322_000_191","Now then, don't fret. We'll make an announcement, and your mother will soon come and get you."
+121,"TEXT_FESGSC901_05322_STRAY05322_000_192","R-Really? You promise?"
+122,"TEXT_FESGSC901_05322_STAFF05322_000_193","Absolutely! How about we head somewhere easier to find?"
+123,"TEXT_FESGSC901_05322_Q3_000_000","What will you say?"
+124,"TEXT_FESGSC901_05322_A3_000_001","Let's summon him with an announcement!"
+125,"TEXT_FESGSC901_05322_A3_000_002","We could use that card of his as bait and lure him out."
+126,"TEXT_FESGSC901_05322_OLLIER_000_200","Of course! I'll announce that we've found a lost card─if he's half the King Elmer III fan I suspect he is, he'll soon come to collect it!"
+127,"TEXT_FESGSC901_05322_OLLIER_000_201","I shall make arrangements right away. In the meantime, I'd ask that you wait by the main counter for the impostor to appear."
+128,"TEXT_FESGSC901_05322_OLLIER_000_210","(-Saucer Announcement-)A King Elmer III Triple Triad card was recovered in Event Square. We kindly ask the rightful owner to present themself at the main counter."
+129,"TEXT_FESGSC901_05322_THEKINGSIMPOSTOR_000_211","Praise Nymeia! I feared I'd lost you for good... Hm?"
+130,"TEXT_FESGSC901_05322_THEKINGSIMPOSTOR_000_212","K-King Elmer III!?"
+131,"TEXT_FESGSC901_05322_KINGELMERIII_000_213","I thought I might offer Ollier assistance during my break─little did I know I'd be chasing down an impostor! I can only presume this is him."
+132,"TEXT_FESGSC901_05322_KINGELMERIII_000_214","You there. Having a novice masquerade as the king is a grave threat to the order of Triple Triad. If word spreads that I'm a feeble opponent, what thrill is there to be had in challenging me?"
+133,"TEXT_FESGSC901_05322_THEKINGSIMPOSTOR_000_215","F-Forgive me... That was never my intention."
+134,"TEXT_FESGSC901_05322_OLLIER_000_216","Why commit to such a guise in the first place?"
+135,"TEXT_FESGSC901_05322_THEKINGSIMPOSTOR_000_217","Look, I love Triple Triad, but I'm hopeless when it comes to playing. I thought that mimicking you would somehow make me stronger─give me a taste of victory..."
+136,"TEXT_FESGSC901_05322_THEKINGSIMPOSTOR_000_218","Then one day, someone mistook me for the real king. I got carried away and started pretending I <hex:021A020203>was<hex:021A020103> you. Obviously, that's no way to improve my game, but..."
+137,"TEXT_FESGSC901_05322_KINGELMERIII_000_219","Forget my kingly comportment, it's methods and tactics you must imitate! Only after rigorous analysis of your foes' stratagems will you grow stronger."
+138,"TEXT_FESGSC901_05322_KINGELMERIII_000_220","When I began my journey, I struggled immensely. But by studying my opponents─learning and leveraging their skills─I gradually improved, and thus developed my own identity as a player."
+139,"TEXT_FESGSC901_05322_KINGELMERIII_000_221","Of course, it didn't come easy. Some opponents were difficult to mimic, and only after countless defeats did I carve a path to the throne. In a sense, the “king” is a composite of all those players I bested along the way."
+140,"TEXT_FESGSC901_05322_OLLIER_000_222","From your telling, the concept of imitation is clearly an intrinsic part of the game..."
+141,"TEXT_FESGSC901_05322_KINGELMERIII_000_223","Indeed. To succeed in the world of Triple Triad, you must seek out worthy opponents, commit their tactics to memory, and build up your repertoire. I look forward to the day you face me─not as some pale imitation, but as a fully fledged player with your very own identity!"
+142,"TEXT_FESGSC901_05322_THEKINGSIMPOSTOR_000_224","Just you wait! One day I'll be ready to challenge the <hex:021A020203>real<hex:021A020103> King Elmer! Oh, and sorry again for all the trouble I've caused."
+143,"TEXT_FESGSC901_05322_KINGELMERIII_000_225","As it seems the rumor has caused little damage, I'm inclined towards lenience. I hope that strikes you as agreeable, adventurer."
+144,"TEXT_FESGSC901_05322_KINGELMERIII_000_226","Right, I believe that's case closed. I'm glad we were able to resolve this before any lasting harm was done. You have my gratitude."
+145,"TEXT_FESGSC901_05322_KINGELMERIII_000_227","I better get back to Card Square. Do drop by sometime!"
+146,"TEXT_FESGSC901_05322_KINGELMERIII_000_240","I appreciate your aid, adventurer. Whenever you wish to face the great King Elmer, I'll be here, ready and waiting atop my proverbial throne!"
+147,"TEXT_FESGSC901_05322_OLLIER_000_250","I'm relieved we were able to nip this in the bud. By way of thanks, please accept this King Elmer III card."
+148,"TEXT_FESGSC901_05322_OLLIER_000_251","It's one of the very first we had printed, from those reserved by King Elmer III himself. A rarity among rarities, if you will."
+149,"TEXT_FESGSC901_05322_OLLIER_000_252","Anyhow, with the festivities still in full swing, I do hope you stay and unwind. After all this talk of Triple Triad, I imagine you're itching to put your acquisition to the test in Card Square!"
+150,"TEXT_FESGSC901_05322_SYSTEM_000_253","You have learned the emote <hex:024804F201F403><hex:024904F201F503>Overreact<hex:0249020103><hex:0248020103>!"
+151,"TEXT_FESGSC901_05322_OLLIER_000_035",""
+152,"TEXT_FESGSC901_05322_OLLIER_000_160",""

@@ -2,127 +2,127 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_FESNYR103_00289_SEQ_00,※本任務是特定期間內的任務。<hex:02100103><hex:02100103>利姆薩·羅敏薩的羊奉行希望冒險者協助黑衣森林的任務。
-1,TEXT_FESNYR103_00289_SEQ_01,※本任務只有在季節活動開放期間才能接受和進行。<hex:02100103>　季節活動結束後無法進行，敬請注意。<hex:02100103>　詳情請參見官方網站。<hex:02100103><hex:02100103>羊奉行委託冒險者宣傳催眠之術威力。作為同伴的證明，戴上<hex:02280BFF05>Item<hex:F224340103>，和格里達尼亞的白羊與力對話。
-2,TEXT_FESNYR103_00289_SEQ_02,和白羊與力進行了交談。據他所說，有一名商人的陸行鳥失去了活力變得十分衰弱。帶著睡羊羊去中央林區彎枝牧場和旅行商人談談。
-3,TEXT_FESNYR103_00289_SEQ_03,正當和旅行商人交談時，冒險者注意到睡羊羊一直注視著牧場外面。帶著睡羊羊調查彎枝牧場的<hex:02280CFF05>EObj<hex:F61E98080103>。
-4,TEXT_FESNYR103_00289_SEQ_04,撿起了掉在地上的<hex:022811FF0A>EventItem<hex:F61E8A6C0103>。帶著睡羊羊將<hex:022811FF0A>EventItem<hex:F61E8A6C0103>交給彎枝牧場的旅行商人。
-5,TEXT_FESNYR103_00289_SEQ_05,將<hex:022811FF0A>EventItem<hex:F61E8A6C0103>交給了旅行商人。運貨陸行鳥一看到羽毛就平靜下來了。帶著睡羊羊，對彎枝牧場的運貨陸行鳥使用情感動作「加油」。
-6,TEXT_FESNYR103_00289_SEQ_06,使用催眠之術讓運貨陸行鳥睡著了。但是還是沒弄清楚陸行鳥看到<hex:022811FF0A>EventItem<hex:F61E8A6C0103>而平靜下來的原因。帶著睡羊羊去和彎枝牧場的凱夏談談。
-7,TEXT_FESNYR103_00289_SEQ_07,和凱夏進行了交談，得知<hex:022811FF0A>EventItem<hex:F61E8A6C0103>來自轉讓給富商的陸行鳥。因為運貨陸行鳥是那隻陸行鳥的青梅竹馬，察覺到它已經出發後非常失落。帶著睡羊羊向彎枝牧場的旅行商人報告。
-8,TEXT_FESNYR103_00289_SEQ_08,和旅行商人進行了交談。她決定為了她的陸行鳥去追上富商。向米·凱特露天劇場的白羊與力報告。
-9,TEXT_FESNYR103_00289_SEQ_09,向白羊與力報告完畢後，作為立下功績的證明，他將<hex:02280BFF05>Item<hex:F224370103>送給了冒險者。繼續協助各地的宣傳任務，推廣睡羊羊的實力。
-10,TEXT_FESNYR103_00289_SEQ_10,
-11,TEXT_FESNYR103_00289_SEQ_11,
-12,TEXT_FESNYR103_00289_SEQ_12,
-13,TEXT_FESNYR103_00289_SEQ_13,
-14,TEXT_FESNYR103_00289_SEQ_14,
-15,TEXT_FESNYR103_00289_SEQ_15,
-16,TEXT_FESNYR103_00289_SEQ_16,
-17,TEXT_FESNYR103_00289_SEQ_17,
-18,TEXT_FESNYR103_00289_SEQ_18,
-19,TEXT_FESNYR103_00289_SEQ_19,
-20,TEXT_FESNYR103_00289_SEQ_20,
-21,TEXT_FESNYR103_00289_SEQ_21,
-22,TEXT_FESNYR103_00289_SEQ_22,
-23,TEXT_FESNYR103_00289_SEQ_23,
-24,TEXT_FESNYR103_00289_TODO_00,戴上<hex:02280BFF05>Item<hex:F224340103>後與格里達尼亞的白羊與力對話
-25,TEXT_FESNYR103_00289_TODO_01,帶著睡羊羊與彎枝牧場的旅行商人對話
-26,TEXT_FESNYR103_00289_TODO_02,帶著睡羊羊調查<hex:02280CFF05>EObj<hex:F61E98080103>
-27,TEXT_FESNYR103_00289_TODO_03,帶著睡羊羊將<hex:022811FF0A>EventItem<hex:F61E8A6C0103>交給旅行商人
-28,TEXT_FESNYR103_00289_TODO_04,帶著睡羊羊對運貨陸行鳥做「加油」的情感動作
-29,TEXT_FESNYR103_00289_TODO_05,帶著睡羊羊與凱夏對話
-30,TEXT_FESNYR103_00289_TODO_06,帶著睡羊羊向旅行商人報告
-31,TEXT_FESNYR103_00289_TODO_07,向白羊與力報告
-32,TEXT_FESNYR103_00289_TODO_08,
-33,TEXT_FESNYR103_00289_TODO_09,
-34,TEXT_FESNYR103_00289_TODO_10,
-35,TEXT_FESNYR103_00289_TODO_11,
-36,TEXT_FESNYR103_00289_TODO_12,
-37,TEXT_FESNYR103_00289_TODO_13,
-38,TEXT_FESNYR103_00289_TODO_14,
-39,TEXT_FESNYR103_00289_TODO_15,
-40,TEXT_FESNYR103_00289_TODO_16,
-41,TEXT_FESNYR103_00289_TODO_17,
-42,TEXT_FESNYR103_00289_TODO_18,
-43,TEXT_FESNYR103_00289_TODO_19,
-44,TEXT_FESNYR103_00289_TODO_20,
-45,TEXT_FESNYR103_00289_TODO_21,
-46,TEXT_FESNYR103_00289_TODO_22,
-47,TEXT_FESNYR103_00289_TODO_23,
-48,TEXT_FESNYR103_00289_SHEEPMISSIONARY_000_000,我將我的部下派遣到格里達尼亞，<hex:02100103>在那裡尋找適合宣傳催眠之術的人選。
-49,TEXT_FESNYR103_00289_SHEEPMISSIONARY_000_001,作為我們同伴的證明，請你戴上這個<hex:02280BFF05>Item<hex:F224340103>，<hex:02100103>前往格里達尼亞找我的部下白羊與力，<hex:02100103>聽從他的指示完成任務。
-50,TEXT_FESNYR103_00289_SHEEPMISSIONARY_000_002,我將睡羊羊寄放在白羊與力那裡，<hex:02100103>你可以去找他領取。<hex:02100103>那麼就拜託了！
-51,TEXT_FESNYR103_00289_SHEEPMISSIONARY_100_004,什麼，你已經帶著睡羊羊了？<hex:02100103>……這種將任務一口氣完成的氣概真是讓人佩服！<hex:02100103>那麼就拜託了！
-52,TEXT_FESNYR103_00289_SHEEPMISSIONARY_000_005,
-53,TEXT_FESNYR103_00289_GOLDENSHEEPYORIKI_000_010,嗯嗯……你這外形倒是和羊奉行大人說的一模一樣……<hex:02100103>但如果你也是我們的同伴的話，<hex:02100103>是不是應該把<hex:02280BFF05>Item<hex:F224340103>給戴上呢？
-54,TEXT_FESNYR103_00289_GOLDENSHEEPYORIKI_000_011,這頭盔……看來你就是我們新的同伴啊！<hex:02100103>雖然我們相處的時間不會很長，但還請多關照！<hex:02100103>我先給你講講這次的任務吧。
-55,TEXT_FESNYR103_00289_GOLDENSHEEPYORIKI_000_012,我遇見了一位準備前來格里達尼亞的旅行商人，<hex:02100103>她帶著的陸行鳥突然變得很沒精神，幾天前開始連覺也不睡了，<hex:02100103>如今更是越來越虛弱……
-56,TEXT_FESNYR103_00289_GOLDENSHEEPYORIKI_000_013,雖說我很同情她，但這是絕好的機會！<hex:02100103>因為旅行商人們都擁有廣泛的人脈……只要我們解決了她的問題，<hex:02100103>我們羊隊的名號一定能很快傳遍這片地區，大受好評！
-57,TEXT_FESNYR103_00289_GOLDENSHEEPYORIKI_000_014,而且我們也需要了解對人以外的動物施加催眠之術的效果，<hex:02100103>正好有個機會可以驗證一下。<hex:02100103>你去讓它美美地睡一覺，再次變得充滿活力吧！
-58,TEXT_FESNYR103_00289_GOLDENSHEEPYORIKI_000_015,那隻陸行鳥現在就在彎枝牧場。<hex:02100103>請你帶著睡羊羊一起去那裡找旅行商人吧！
-59,TEXT_FESNYR103_00289_SYSTEM_000_025,本任務要將睡羊羊作為寵物帶著行走才能進行。
-60,TEXT_FESNYR103_00289_SYSTEM_000_026,召喚出別的寵物或是搭檔，<hex:02100103>以及結束遊戲的情況下，<hex:02100103>寵物睡羊羊會暫時消失。
-61,TEXT_FESNYR103_00289_SYSTEM_100_026,請注意：在沒有帶寵物睡羊羊行走時，<hex:02100103>任務將無法進行。
-62,TEXT_FESNYR103_00289_SYSTEM_000_027,寵物睡羊羊消失後，<hex:02100103>與格里達尼亞的白羊與力對話，<hex:02100103>即可再次帶寵物睡羊羊行走。
-63,TEXT_FESNYR103_00289_SYSTEM_100_027,本任務要將睡羊羊作為寵物帶著行走才能進行。
-64,TEXT_FESNYR103_00289_SYSTEM_110_027,召喚出別的寵物，以及結束遊戲的情況下，<hex:02100103>寵物睡羊羊會暫時消失。
-65,TEXT_FESNYR103_00289_SYSTEM_120_027,此外，在召喚出搭檔的情況下，<hex:02100103>寵物在城市外會暫時消失。<hex:02100103>請讓搭檔離開後再進行任務。
-66,TEXT_FESNYR103_00289_SYSTEM_130_027,寵物睡羊羊消失後，<hex:02100103>與格里達尼亞的白羊與力對話，<hex:02100103>即可再次帶寵物睡羊羊行走。
-67,TEXT_FESNYR103_00289_GOLDENSHEEPYORIKI_000_028,噢，我的同伴。<hex:02100103>睡羊羊已經回到我這裡來了！<hex:02100103>你是來接它的吧？
-68,TEXT_FESNYR103_00289_SYSTEM_100_028,在召喚出搭檔的情況下，<hex:02100103>寵物在城市外會暫時消失。<hex:02100103>請讓搭檔離開後再進行任務。
-69,TEXT_FESNYR103_00289_Q1_000_001,要領取睡羊羊嗎？
-70,TEXT_FESNYR103_00289_A1_000_001,是
-71,TEXT_FESNYR103_00289_A2_000_002,否
-72,TEXT_FESNYR103_00289_GOLDENSHEEPYORIKI_000_029,若是能親眼見證催眠之術的威力，<hex:02100103>就算是艾歐澤亞的人民也會大吃一驚的吧！<hex:02100103>希望你能成功，我會為你祈禱的！
-73,TEXT_FESNYR103_00289_GOLDENSHEEPYORIKI_000_030,要是商人離開了牧場，我們就錯失這一大好機會了！<hex:02100103>還是請你盡快來把睡羊羊接走！
-74,TEXT_FESNYR103_00289_GOLDENSHEEPYORIKI_000_031,那隻陸行鳥現在就在彎枝牧場。<hex:02100103>請你帶著睡羊羊一起去那裡找旅行商人吧！
-75,TEXT_FESNYR103_00289_CHOCOBO_000_040,咕哎……咕哎……
-76,TEXT_FESNYR103_00289_BREEDER_000_041,這隻陸行鳥突然變得很奇怪……<hex:02100103>剛才有個戴著奇怪頭盔的人，讓我向帶著羊的冒險者求助，<hex:02100103>可是這樣的冒險者在哪裡呢。
-77,TEXT_FESNYR103_00289_BREEDER_000_042,剛才有個戴著奇怪頭盔的人過來對我說，<hex:02100103>「全都交給我的同伴就好了！」<hex:02100103>難道，他指的同伴就是你嗎？
-78,TEXT_FESNYR103_00289_BREEDER_000_043,真是太好了，能聽聽我的請求嗎？<hex:02100103>從我到達這裡開始，我的陸行鳥就變得很奇怪。<hex:02100103>我還以為它是突然興奮起來了呢，結果它一副失落的樣子……
-79,TEXT_FESNYR103_00289_BREEDER_000_044,這幾天飯也不吃覺也不睡，現在十分虛弱。<hex:02100103>若是能讓它稍微睡一會也好啊，<hex:02100103>那樣它也能變得平靜一些了吧……
-80,TEXT_FESNYR103_00289_BREEDER_000_045,……這隻羊竟然擁有這種能力嗎？<hex:02100103>只是「加油」就能讓它睡著，我實在無法相信。<hex:02100103>嗯，真的能讓這孩子平靜下來嗎？
-81,TEXT_FESNYR103_00289_BREEDER_000_046,你看，它一直在不安地東張西望，<hex:02100103>甚至看都不看我這飼主一眼……哎呀？
-82,TEXT_FESNYR103_00289_SYSTEM_000_047,睡羊羊正盯著牧場外面的方向……
-83,TEXT_FESNYR103_00289_BREEDER_000_048,你的羊看上去很在意牧場外面呢。<hex:02100103>不如帶它出去看看吧。<hex:02100103>要是能找到些可以讓這孩子冷靜下來的東西就好了……
-84,TEXT_FESNYR103_00289_BREEDER_000_060,哎呀，剛才羊盯著的地方是這裡來著嗎？<hex:02100103>嗯，再往右一些……不對，往左。<hex:02100103>……你還是再帶著羊來看一次吧？
-85,TEXT_FESNYR103_00289_SYSTEM_400_001,在睡羊羊剛才注視的位置，<hex:02100103>找到了掉落在地上的<hex:022811FF0A>EventItem<hex:F61E8A6C0103>。
-86,TEXT_FESNYR103_00289_BREEDER_000_070,哎呀，剛才的羊到哪裡去了？<hex:02100103>剛才我的陸行鳥似乎對你們有些在意呢。<hex:02100103>也許這是個好機會，能請你再把它帶來嗎？
-87,TEXT_FESNYR103_00289_BREEDER_100_070,怎麼樣，有什麼發現嗎？<hex:02100103>要是能找到些可以讓這孩子冷靜下來的東西就好了……
-88,TEXT_FESNYR103_00289_BREEDER_000_071,……這是陸行鳥的羽毛啊。<hex:02100103>為什麼你的羊會盯著這種東西看呢……<hex:02100103>……哎呀？！
-89,TEXT_FESNYR103_00289_BREEDER_000_072,我的陸行鳥也在看著這羽毛！<hex:02100103>它看上去非常難過……不過似乎冷靜下來了！<hex:02100103>你還不趁現在試試這羊的能力？！
-90,TEXT_FESNYR103_00289_SYSTEM_500_001,陸行鳥變得稍微冷靜一些了……<hex:02100103>對旅行商人的陸行鳥做「加油」的情感動作，<hex:02100103>用催眠之術讓它睡著吧。
-91,TEXT_FESNYR103_00289_BREEDER_000_073,我的陸行鳥也在看著這羽毛！<hex:02100103>它看上去非常難過……不過似乎冷靜下來了！<hex:02100103>你還不趁現在試試這羊的能力？！
-92,TEXT_FESNYR103_00289_SYSTEM_500_002,陸行鳥變得稍微冷靜一些了……<hex:02100103>對旅行商人的陸行鳥做「加油」的情感動作，<hex:02100103>用催眠之術讓它睡著吧。
-93,TEXT_FESNYR103_00289_BREEDER_000_080,你還不趁現在試試那羊的能力？！<hex:02100103>只要對這孩子「加油」，就可以讓它睡著對吧！<hex:02100103>這也許是個好機會，快把羊帶過來吧！
-94,TEXT_FESNYR103_00289_BREEDER_100_080,我記得你說過，<hex:02100103>只要對這孩子「加油」，就可以讓它睡著對吧！<hex:02100103>快點，拜託你了！
-95,TEXT_FESNYR103_00289_CHOCOBO_000_081,……咕、咕哎？<hex:02100103>咕哎……咕哎……
-96,TEXT_FESNYR103_00289_BREEDER_000_081,太好了，它睡著啦……謝謝你。<hex:02100103>沒想到你竟然真的能讓它睡著……
-97,TEXT_FESNYR103_00289_BREEDER_000_082,這羽毛到底是怎麼回事呢……<hex:02100103>牧場主「凱夏」的話，也許會知道些什麼吧。<hex:02100103>能不能請你帶著這隻羊去問問她呢？
-98,TEXT_FESNYR103_00289_BREEDER_000_083,這羽毛到底是怎麼回事呢……<hex:02100103>牧場主「凱夏」的話，也許會知道些什麼吧。<hex:02100103>能不能請你帶著這隻羊去問問她呢？
-99,TEXT_FESNYR103_00289_SYSTEM_000_084,陸行鳥安靜地睡著了……
-100,TEXT_FESNYR103_00289_KEITHA_000_090,不好意思，有事找我的話還請等一等……<hex:02100103>我剛才看到有羊羔跑到了這裡，現在正在找呢。<hex:02100103>要是嚇到陸行鳥我可就頭疼了。
-101,TEXT_FESNYR103_00289_KEITHA_000_091,……噢，陸行鳥的羽毛？<hex:02100103>大概是前幾天轉讓給富商的陸行鳥掉的吧。
-102,TEXT_FESNYR103_00289_KEITHA_000_092,因為當時那隻陸行鳥的青梅竹馬很快就要到這個牧場來了，<hex:02100103>所以它一直在等著，想在出發前再見一面……<hex:02100103>結果因為有急事，到頭來還是沒等到就出發了。
-103,TEXT_FESNYR103_00289_KEITHA_000_093,……那位旅行商人的陸行鳥變得心神不寧了嗎？<hex:02100103>它一定是注意到青梅竹馬的氣味延伸向了外面，<hex:02100103>所以搞不清楚狀況了吧……
-104,TEXT_FESNYR103_00289_KEITHA_000_094,……那位旅行商人的陸行鳥變得心神不寧了嗎？<hex:02100103>它一定是注意到青梅竹馬的氣味延伸向了外面，<hex:02100103>所以搞不清楚狀況了吧……
-105,TEXT_FESNYR103_00289_BREEDER_000_100,那陸行鳥的羽毛是怎麼回事，你已經弄明白了吧！<hex:02100103>哎呀？比起這個，剛才的羊去哪裡了？<hex:02100103>附近有這麼多魔物，你快去找找它！
-106,TEXT_FESNYR103_00289_BREEDER_000_101,……原來如此，我知道那隻陸行鳥。<hex:02100103>這孩子是在這彎枝牧場出生的，<hex:02100103>所以它一直期待著到這裡來。
-107,TEXT_FESNYR103_00289_BREEDER_000_102,是這樣啊，原來它不在了……<hex:02100103>……嗯，這樣下去可不行，我不去格里達尼亞了！<hex:02100103>等這孩子醒過來，我們就去追上那個富商！
-108,TEXT_FESNYR103_00289_BREEDER_100_102,現在去追的話一定能趕上的！<hex:02100103>生意的話，什麼時候做都行……<hex:02100103>只是無論如何我都不想讓這孩子再這麼難過下去。
-109,TEXT_FESNYR103_00289_BREEDER_000_103,多虧了你們我才能理解這孩子的煩惱，差點就讓它留下遺憾了。<hex:02100103>真的太感謝你們了！<hex:02100103>也麻煩你代我向你那戴著奇怪頭盔的同伴道個謝！
-110,TEXT_FESNYR103_00289_BREEDER_000_104,……話說回來，這隻羊的能力可真厲害。<hex:02100103>竟然真的能讓這孩子睡著！<hex:02100103>你和它的配合也十分默契呢！
-111,TEXT_FESNYR103_00289_SYSTEM_000_105,睡羊羊自豪地注視著冒險者……
-112,TEXT_FESNYR103_00289_SYSTEM_000_106,在默契的配合下讓苦惱的陸行鳥睡著了，<hex:02100103>冒險者和睡羊羊的關係變得稍微親密了一些！
-113,TEXT_FESNYR103_00289_SYSTEM_000_107,在兩個國家解決了人們的煩惱後，<hex:02100103>冒險者和睡羊羊的關係變得非常親密！
-114,TEXT_FESNYR103_00289_SYSTEM_000_108,輾轉三個國家，為那裡的人們「加油」後，<hex:02100103>冒險者和睡羊羊之間的感情變得堅不可摧！
-115,TEXT_FESNYR103_00289_BREEDER_000_109,……話說回來，這隻羊的能力可真厲害。<hex:02100103>竟然真的能讓這孩子睡著！<hex:02100103>也麻煩你代我向你那戴著奇怪頭盔的同伴道個謝！
-116,TEXT_FESNYR103_00289_GOLDENSHEEPYORIKI_000_120,噢噢，冒險者，看來你已經完成任務了啊！辛苦了！<hex:02100103>……話說回來，人們對你這次宣傳的評價如何啊？
-117,TEXT_FESNYR103_00289_GOLDENSHEEPYORIKI_000_121,噢噢，冒險者，看來你已經完成任務了啊！辛苦了！<hex:02100103>睡羊羊剛才也乖乖地回到這裡來了。<hex:02100103>……話說回來，人們對你這次宣傳的評價如何啊？
-118,TEXT_FESNYR103_00289_GOLDENSHEEPYORIKI_000_122,……噢，催眠之術對人類以外的目標也有效果啊！<hex:02100103>這真是個好消息。<hex:02100103>過會我得趕緊把這個添在報告裡！
-119,TEXT_FESNYR103_00289_GOLDENSHEEPYORIKI_100_122,不過那位旅行商人不來格里達尼亞了，真遺憾。<hex:02100103>我還期待著能在這城市裡掀起一陣熱潮呢……
-120,TEXT_FESNYR103_00289_GOLDENSHEEPYORIKI_000_123,算了，反正她肯定會把這羊的力量告訴別人，<hex:02100103>這樣也能起到宣傳的效果了……計劃也算有所進展！<hex:02100103>為了表彰你的功績，我把這個裝飾頭盔送給你！
-121,TEXT_FESNYR103_00289_GOLDENSHEEPYORIKI_000_124,這個頭盔也可以在各國的羊商人那裡買到，我已經安排好了。<hex:02100103>萬一……我是說萬一啊，<hex:02100103>你要是不小心把頭盔弄沒了，就去找羊商人們買吧。
-122,TEXT_FESNYR103_00289_GOLDENSHEEPYORIKI_000_125,接下來請你繼續去完成宣傳任務，<hex:02100103>將成果彙報給羊奉行大人吧。<hex:02100103>今後也請多關照！
-123,TEXT_FESNYR103_00289_GOLDENSHEEPYORIKI_000_126,那麼之前借給你的睡羊羊就交給我好了。<hex:02100103>謝謝你協助了在格里達尼亞的任務，辛苦了！
+0,"TEXT_FESNYR103_00289_SEQ_00","The hitsuji bugyo is eager to fill the Black Shroud with white wool.<hex:02100103>※This quest is available for a limited time only."
+1,"TEXT_FESNYR103_00289_SEQ_01","Keen to proceed with his plan, the hitsuji bugyo dispatches you to Gridania, to assist his man on the forest floor. He has sent the tender lamb on ahead, with word that a sheep-crowned comrade is to follow. Don your hitsuji kabuto, and rendezvous with the golden hitsuji yoriki in Gridania.<hex:02100103><hex:02100103>※Please note that you will be unable to complete this quest after the seasonal event has ended. For details, please check the Lodestone."
+2,"TEXT_FESNYR103_00289_SEQ_02","The golden hitsuji yoriki welcomes you to the fold, and briefs you on the current situation: a traveling trader en route to Gridania has been waylaid in Bentbranch Meadows, her chocobo laid low by a mystery affliction. It refuses to move, or eat, or─more importantly─sleep. A sad situation, but an unmissable opportunity to showcase the tender lamb's talents. Take her to Bentbranch Meadows, and talk with the troubled trader."
+3,"TEXT_FESNYR103_00289_SEQ_03","The skeptical merchant grudgingly accepts your offer to calm her restless chocobo, but before you can blast the bird, the tender lamb is distracted by a certain something outside the ranch gates. Could your flossy friend have espied some clue to the causes of the chocobo's distress?"
+4,"TEXT_FESNYR103_00289_SEQ_04","You discover a chocobo tailfeather pressed into the ground on the southbound road. It seems it was this that caught the tender lamb's attention. Return to the trader, and see if it bears any special significance."
+5,"TEXT_FESNYR103_00289_SEQ_05","The merchant is unimpressed by your find, but it deeply affects her chocobo. The bird gazes longingly at the feather, and seems somehow soothed. Her astonished owner urges you to take advantage of this moment of calm to activate the lamb's magic. Let out a /cheer for the chocobo to trigger your companion's hypnoturgical blast."
+6,"TEXT_FESNYR103_00289_SEQ_06","The soporific spell lays the agitated bird to rest. But what of the strange feather? Keitha, head wrangler at Bentbranch Meadows and chocobo expert extraordinaire, may be able to make something of it."
+7,"TEXT_FESNYR103_00289_SEQ_07","Keitha identifies the feather as belonging to a chocobo recently sold to a wealthy visitor. The chocobo in question was an old clutchmate of the trader's bird─perhaps it was the thwarting of their reunion that plunged her into depression. With your lamb in tow, return to the trader and relate Keitha's supposition."
+8,"TEXT_FESNYR103_00289_SEQ_08","The traveling trader can well see the truth in Keitha's story, and vows to do what it takes to cheer her heartsore bird. Instead of pushing on to Gridania, they will follow the rich man's trail to the south, that the long-awaited reunion may come to pass. Return to the golden hitsuji yoriki, and report on the outcome of your mission."
+9,"TEXT_FESNYR103_00289_SEQ_09","The golden hitsuji yoriki lauds your efforts as a great success. He presents you with a kabuto of his own design, to bear testimony to your service to the Fleece Force in Gridania. Repeat the feat in the other city states, and the triumph of the bugyo's plan is all but assured."
+10,"TEXT_FESNYR103_00289_SEQ_10",""
+11,"TEXT_FESNYR103_00289_SEQ_11",""
+12,"TEXT_FESNYR103_00289_SEQ_12",""
+13,"TEXT_FESNYR103_00289_SEQ_13",""
+14,"TEXT_FESNYR103_00289_SEQ_14",""
+15,"TEXT_FESNYR103_00289_SEQ_15",""
+16,"TEXT_FESNYR103_00289_SEQ_16",""
+17,"TEXT_FESNYR103_00289_SEQ_17",""
+18,"TEXT_FESNYR103_00289_SEQ_18",""
+19,"TEXT_FESNYR103_00289_SEQ_19",""
+20,"TEXT_FESNYR103_00289_SEQ_20",""
+21,"TEXT_FESNYR103_00289_SEQ_21",""
+22,"TEXT_FESNYR103_00289_SEQ_22",""
+23,"TEXT_FESNYR103_00289_SEQ_23",""
+24,"TEXT_FESNYR103_00289_TODO_00","While wearing the hitsuji kabuto, speak with the golden hitsuji yoriki in Gridania."
+25,"TEXT_FESNYR103_00289_TODO_01","With the tender lamb minion summoned, speak with the traveling trader in Bentbranch Meadows."
+26,"TEXT_FESNYR103_00289_TODO_02","With the tender lamb minion summoned, search for the object of interest outside the gates."
+27,"TEXT_FESNYR103_00289_TODO_03","With the tender lamb minion summoned, show the chocobo tailfeather to the traveling trader."
+28,"TEXT_FESNYR103_00289_TODO_04","With the tender lamb minion summoned, /cheer for the pack chocobo."
+29,"TEXT_FESNYR103_00289_TODO_05","With the tender lamb minion summoned, speak with Keitha."
+30,"TEXT_FESNYR103_00289_TODO_06","With the tender lamb minion summoned, report to the traveling trader."
+31,"TEXT_FESNYR103_00289_TODO_07","Report to the golden hitsuji yoriki."
+32,"TEXT_FESNYR103_00289_TODO_08",""
+33,"TEXT_FESNYR103_00289_TODO_09",""
+34,"TEXT_FESNYR103_00289_TODO_10",""
+35,"TEXT_FESNYR103_00289_TODO_11",""
+36,"TEXT_FESNYR103_00289_TODO_12",""
+37,"TEXT_FESNYR103_00289_TODO_13",""
+38,"TEXT_FESNYR103_00289_TODO_14",""
+39,"TEXT_FESNYR103_00289_TODO_15",""
+40,"TEXT_FESNYR103_00289_TODO_16",""
+41,"TEXT_FESNYR103_00289_TODO_17",""
+42,"TEXT_FESNYR103_00289_TODO_18",""
+43,"TEXT_FESNYR103_00289_TODO_19",""
+44,"TEXT_FESNYR103_00289_TODO_20",""
+45,"TEXT_FESNYR103_00289_TODO_21",""
+46,"TEXT_FESNYR103_00289_TODO_22",""
+47,"TEXT_FESNYR103_00289_TODO_23",""
+48,"TEXT_FESNYR103_00289_SHEEPMISSIONARY_000_000","Our plans are in motion, <hex:020815E905FF08>my lady<hex:FF08>my lord<hex:03>. Already I have a man on the ground in Gridania, trumpeting the Fleece Force from the very treetops."
+49,"TEXT_FESNYR103_00289_SHEEPMISSIONARY_000_001","But four lungs are better than two. Go to him, and lend your voice to his. Oh, and prithee wear the hitsuji kabuto I gave you, so he will recognize you as an ally."
+50,"TEXT_FESNYR103_00289_SHEEPMISSIONARY_000_002","I have sent the prototype lamb on ahead to my yoriki's charge. Follow her to Gridania, comrade, and show those forest dwellers the true power of the sheep!"
+51,"TEXT_FESNYR103_00289_SHEEPMISSIONARY_100_004","...And what is this? You already have charge of the tender lamb, and yet you come to take on further duties? Ah, your commitment to the cause brings a lump to my throat! Away to Gridania, <hex:020815E905FF08>my lady<hex:FF08>my lord<hex:03>! You don't want to see an old bugyo cry!"
+52,"TEXT_FESNYR103_00289_SHEEPMISSIONARY_000_005",""
+53,"TEXT_FESNYR103_00289_GOLDENSHEEPYORIKI_000_010","Hmmm... Could you be the one who...? No, perhaps not. Pray forgive me, <hex:020813E905FF07>m'lady<hex:FF07>m'lord<hex:03>, I mistook you for another. You match the description of the <hex:020814E905FF05>lady<hex:FF0A>gentleman<hex:03> I await in every aspect but one─your choice of headgear."
+54,"TEXT_FESNYR103_00289_GOLDENSHEEPYORIKI_000_011","I would recognize that kabuto anywhere! Then you are the stalwart ally the bugyo sent word of? Your arrival is most welcome, my good <hex:02080EE905FF05>lady<hex:FF04>man<hex:03>, and timely to boot."
+55,"TEXT_FESNYR103_00289_GOLDENSHEEPYORIKI_000_012","On a recent tour of the forest, I chanced upon a traveling merchant who has been waylaid by affliction of the horsebird. A sudden bout of some ague or other has plunged her chocobo into an existential torpor. For days now the bird has neither slept nor eaten, and is fair wasting away."
+56,"TEXT_FESNYR103_00289_GOLDENSHEEPYORIKI_000_013","All very tragic, I'm sure...but with great hardship comes great opportunity! Just imagine how the fame of the Fleece Force would carry were a traveling trader to sing its praises from mart to market across the land!"
+57,"TEXT_FESNYR103_00289_GOLDENSHEEPYORIKI_000_014","And what is more, the hypnoturgical blast has only been tested on men and monsters thus far. This is the perfect chance to see if it affects these horsebirds of yours with equal efficacy. Valuable information were the Fleece Force to encounter a mounted army, I'm sure you'll agree."
+58,"TEXT_FESNYR103_00289_GOLDENSHEEPYORIKI_000_015","But I digress... Take the tender lamb to Bentbranch Meadows, <hex:020813E905FF07>m'lady<hex:FF07>m'lord<hex:03>, and speak with the trader there. Should you succeed in putting her ailing bird to rest, and restoring its spirits, the Force's reputation shall surely rise above the highest pine in the Twelveswood!"
+59,"TEXT_FESNYR103_00289_SYSTEM_000_025","During this quest, the tender lamb will accompany you as a minion."
+60,"TEXT_FESNYR103_00289_SYSTEM_000_026","However, if you summon another minion or companion, or log out of the game, the tender lamb will leave your side and return to the golden hitsuji yoriki."
+61,"TEXT_FESNYR103_00289_SYSTEM_100_026","In order to progress in the quest, the tender lamb must remain summoned."
+62,"TEXT_FESNYR103_00289_SYSTEM_000_027","Should the tender lamb leave your side, it can be retrieved by speaking with the golden hitsuji yoriki once more."
+63,"TEXT_FESNYR103_00289_SYSTEM_100_027","During this quest, the tender lamb will accompany you as a minion."
+64,"TEXT_FESNYR103_00289_SYSTEM_110_027","However, if you summon another minion, or log out of the game, the tender lamb will leave your side and return to the golden hitsuji yoriki."
+65,"TEXT_FESNYR103_00289_SYSTEM_120_027","It will also be dismissed if you leave the city while a companion is summoned. Please withdraw your companion in order to proceed with the quest."
+66,"TEXT_FESNYR103_00289_SYSTEM_130_027","Should the tender lamb leave your side, it can be retrieved by speaking with the golden hitsuji yoriki once more."
+67,"TEXT_FESNYR103_00289_GOLDENSHEEPYORIKI_000_028","My stalwart ally! Tell me, what befell? The tender lamb returned to me alone, bleating in sorrow. Have you come to collect her?"
+68,"TEXT_FESNYR103_00289_SYSTEM_100_028","The tender lamb will be dismissed if you leave the city while a companion is summoned. Please withdraw your companion in order to proceed with the quest."
+69,"TEXT_FESNYR103_00289_Q1_000_001","Take charge of the tender lamb?"
+70,"TEXT_FESNYR103_00289_A1_000_001","Yes"
+71,"TEXT_FESNYR103_00289_A2_000_002","No"
+72,"TEXT_FESNYR103_00289_GOLDENSHEEPYORIKI_000_029","In this unassuming ball of wool lies the hope of our order. Her hypnoturgical blast shall open the eyes of Eorzea to the possibilities of the Fleece Force! To Bentbranch Meadows, <hex:020813E905FF07>m'lady<hex:FF07>m'lord<hex:03>, and the glorious future!"
+73,"TEXT_FESNYR103_00289_GOLDENSHEEPYORIKI_000_030","Prithee do not dally, <hex:020813E905FF07>m'lady<hex:FF07>m'lord<hex:03>─should the merchant move on, or the horsebird recover, this opportunity will be forever lost. If the Fleece Force is to gain a hoofhold in Gridania, this chance must not be missed!"
+74,"TEXT_FESNYR103_00289_GOLDENSHEEPYORIKI_000_031","When last I saw it, the restive chocobo had drawn up in Bentbranch Meadows, and was refusing to move. Most vexing for a traveling merchant, wouldn't you agree? Go to her, <hex:020813E905FF07>m'lady<hex:FF07>m'lord<hex:03>, and offer the lamb's soporific services."
+75,"TEXT_FESNYR103_00289_CHOCOBO_000_040","Kweh... Kweh..."
+76,"TEXT_FESNYR103_00289_BREEDER_000_041","Sorry, <hex:02080EE905FF05>dear<hex:FF04>sir<hex:03>, I ain't here to trade. S'posed to be heading to Gridania, but me chocobo's in a right funk. The breeders 'round here can't make beak nor brush of it. Well...there was that one feller─seemed to think a magical sheep'd sort her out. Wonder what the chocobokeeps'd make of him..."
+77,"TEXT_FESNYR103_00289_BREEDER_000_042","What a lovely little lamb ye've got there... Hey, hold on─ye ain't the “stalwart ally” that madman in the woolly hat was going on about, are ye? Ye really think ye can help me chocobo out?"
+78,"TEXT_FESNYR103_00289_BREEDER_000_043","Gods bless ye, <hex:02080EE905FF05>dear<hex:FF04>sir<hex:03>! I was <hex:021A020203>this<hex:021A020103> close to giving up hope altogether. Ye see, ever since we got here, poor ol' Betsy here's been acting odd. One minute she was up, the next she was down...and she's been down ever since."
+79,"TEXT_FESNYR103_00289_BREEDER_000_044","What worries me most is that she only seems to be getting lower. She's right off her food, she can't get any sleep, and her pitiful whimpering's enough to break yer heart. If she could just get some rest, it might give her a bit of energy back, but..."
+80,"TEXT_FESNYR103_00289_BREEDER_000_045","Yer sheep's got magical powers? Ye just need to <hex:024804F201F403><hex:024904F201F503>cheer<hex:0249020103><hex:0248020103> for me chocobo and she'll make her fall asleep? Pah! Yer as mad as yer friend. Still, I s'pose beggars can't be choosers... It can't hurt to try."
+81,"TEXT_FESNYR103_00289_BREEDER_000_046","Ye need to get some rest, don't ye, girl? Don't ye worry─the nice little sheepy here's going to help ye get off to sleepy-byes. Yer a good little girl! A lovely little─ ...Hm?"
+82,"TEXT_FESNYR103_00289_SYSTEM_000_047","The tender lamb is staring intently at something outside the gates."
+83,"TEXT_FESNYR103_00289_BREEDER_000_048","Seems like yer lamb's more interested in something out there than she is in helping me chocobo... Unless whatever she's spotted has got something to do with all this? Go and have a look, will ye? I'll stay here with me Betsy."
+84,"TEXT_FESNYR103_00289_BREEDER_000_060","Yes, yes─it was somewhere around there. Maybe a bit to the left... No, the other left... Ah, it's no use. That lamb of yers was the one that spotted it, whatever it is. Where'd she go, anyway?"
+85,"TEXT_FESNYR103_00289_SYSTEM_400_001","You find the tailfeather of a chocobo pressed into the ground."
+86,"TEXT_FESNYR103_00289_BREEDER_000_070","What happened to yer sheep? Bring her back, will ye? Betsy seemed a little more relaxed with her around."
+87,"TEXT_FESNYR103_00289_BREEDER_100_070","So, did ye find anything? If it'll help calm Betsy down, I'll take it!"
+88,"TEXT_FESNYR103_00289_BREEDER_000_071","What's this...? A chocobo feather? Oh, yes, very well done─ye've found a chocobo feather just outside a chocobo ranch. I'm sure this must be a clue of the utmost impor─ ...Huh?"
+89,"TEXT_FESNYR103_00289_BREEDER_000_072","Why're ye so interested in this feather, Betsy? She looks so sad...and yet somehow, soothed... <hex:02080EE905FF05>Lady<hex:FF04>Sir<hex:03>, if ye ain't lying about yer sheep, then please, use yer magic now. It might stand a better chance while she ain't so restless."
+90,"TEXT_FESNYR103_00289_SYSTEM_500_001","The feather seems to have calmed the chocobo down a little. <hex:024804F201F403><hex:024904F201F503>Cheer<hex:0249020103><hex:0248020103> for her to activate the hypnoturgical blast."
+91,"TEXT_FESNYR103_00289_BREEDER_000_073","Whatever that feather was all about, we can look into later. What Betsy needs now is sleep. If that lamb of yers can really do what ye say, now's the time for it, before she gets all skittish again."
+92,"TEXT_FESNYR103_00289_SYSTEM_500_002","The feather seems to have a calming effect on Betsy. <hex:024804F201F403><hex:024904F201F503>Cheer<hex:0249020103><hex:0248020103> for her to unleash the hypnoturgical blast and put her to sleep."
+93,"TEXT_FESNYR103_00289_BREEDER_000_080","Now's the time for that lamb of yers to do her thing! ...Hey, wait─where's she gone? Please, <hex:02080EE905FF05>dear<hex:FF04>kid<hex:03>, I'm tired. Don't start messing me about."
+94,"TEXT_FESNYR103_00289_BREEDER_100_080","Eh? I thought ye said ye had to <hex:024804F201F403><hex:024904F201F503>cheer<hex:0249020103><hex:0248020103> for her to get yer lamb to do its thing? That didn't look like no cheer to me."
+95,"TEXT_FESNYR103_00289_CHOCOBO_000_081","K-Kweh? Kweh... Kwehhh..."
+96,"TEXT_FESNYR103_00289_BREEDER_000_081","Thank goodness... She's finally asleep. I don't know how ye did it, <hex:02080EE905FF05>miss<hex:FF04>kid<hex:03>, but I can't thank ye enough. And yer little sheep, too..."
+97,"TEXT_FESNYR103_00289_BREEDER_000_082","But I still don't get this business with the feather. Maybe Keitha would have a better idea─she's the head wrangler 'round these parts. Why don't ye go and ask her about it?"
+98,"TEXT_FESNYR103_00289_BREEDER_000_083","Keitha's the chocobo expert 'round here, but even she couldn't work out what was winding Betsy up. It's something to do with that feather, I'm sure. Take it to her, will ye? It might just jog her memory..."
+99,"TEXT_FESNYR103_00289_SYSTEM_000_084","The chocobo is sleeping soundly."
+100,"TEXT_FESNYR103_00289_KEITHA_000_090","Sorry, <hex:020814E905FF08>darlin'<hex:FF07>feller<hex:03>─if you've got business with me it'll have to wait till later. Ranchers say they've seen a lamb on the loose inside the meadow gates. If a scurryin' furball like that gets into the stables, the birds'll go mad!"
+101,"TEXT_FESNYR103_00289_KEITHA_000_091","Eh? You think that chocobo's problems've got something to do with a feather? Give us a look at it. Hmmm... Looks like it's from the bird I sold to that scattergood who paid us a visit the other day. Wanted to buy the whole ranch, he did─we talked him down to just one chocobo."
+102,"TEXT_FESNYR103_00289_KEITHA_000_092","Ahhh, so that's what this is about! That chocobo was an old clutchmate of the merchant's bird. We asked the feller to wait a few days so they could have their little reunion, but he had some business to the south that couldn't keep, and he wouldn't take no for an answer."
+103,"TEXT_FESNYR103_00289_KEITHA_000_093","The poor bird must've smelled her mate's scent by the gates, and then not bein' able to find him... Perhaps she thought the worst had happened. Chocobos form bonds like us, but I've never seen a bond this strong. Nay, not in all my years workin' with the creatures."
+104,"TEXT_FESNYR103_00289_KEITHA_000_094","I never realized she'd take it so hard... Pass along my apologies to the trader, will ye? We tried our best to keep hold of her bird's friend, but the fact is we can't run the place without coin."
+105,"TEXT_FESNYR103_00289_BREEDER_000_100","Did ye find anything out about the chocobo feather? But wait...ye've lost yer lamb! I couldn't live with meself if anything happened to her, after all she's done for Betsy. Please, <hex:02080EE905FF05>dear<hex:FF04>sir<hex:03>, will ye find her and make sure she's safe?"
+106,"TEXT_FESNYR103_00289_BREEDER_000_101","Did Keitha tell ye anything? ...Ah, I see. Aye, I know the chocobo she means. S'pose ye could say him and Betsy were chick-hood sweethearts. Betsy was born and raised here in Bentbranch Meadows─she must've been looking forward to stopping here ever since we set out from Thanalan."
+107,"TEXT_FESNYR103_00289_BREEDER_000_102","But when she got here, her friend was gone, eh? Small wonder she was all shook up. ...Alright, girl, we're turning back. The markets can wait─when Betsy wakes up, we're going after that bird!"
+108,"TEXT_FESNYR103_00289_BREEDER_100_102","Keitha said they've only been gone a day or so, right? I'm sure we'll be able to catch them if we put our minds to it. I might lose out on a bit of coin, but if it brings the twinkle back to Betsy's eyes, it'll be worth it."
+109,"TEXT_FESNYR103_00289_BREEDER_000_103","Thank ye, <hex:02080EE905FF05>dear<hex:FF04>sir<hex:03>, for everything. Without yer help, me darling Betsy might've wasted away before me eyes. Oh...and will ye thank that friend of yers for me, too? Tell him I'm sorry for calling him a madman, and saying his hat was stupid."
+110,"TEXT_FESNYR103_00289_BREEDER_000_104","But most of all, I thank that little lamb of yers. She's a keen-eyed little bugger, and that magic...well, I've never seen anything quite like it. You and her make a great team."
+111,"TEXT_FESNYR103_00289_SYSTEM_000_105","The tender lamb looks at you with pride."
+112,"TEXT_FESNYR103_00289_SYSTEM_000_106","By working together to soothe the restive chocobo, you and the tender lamb have grown a little closer."
+113,"TEXT_FESNYR103_00289_SYSTEM_000_107","Your joint effort to ease another troubled soul has brought you and the tender lamb even closer together."
+114,"TEXT_FESNYR103_00289_SYSTEM_000_108","With a third successful mollification, you and the tender lamb have become fast friends."
+115,"TEXT_FESNYR103_00289_BREEDER_000_109","I never thought that little lamb of yers'd ever be able to calm Betsy down, the state she was in. Thank ye, me dears. And thank that friend of yers in the woolly hat for me too, will ye?"
+116,"TEXT_FESNYR103_00289_GOLDENSHEEPYORIKI_000_120","What ho, my stalwart ally! How fare you in your quest? Is the Twelveswood abuzz with word of the Fleece Force?"
+117,"TEXT_FESNYR103_00289_GOLDENSHEEPYORIKI_000_121","What ho, my stalwart ally! Your tender lamb returned to me not a moment ago, wagging her tail behind her. Does this mean you have completed your quest? Is the Twelveswood abuzz with word of the Fleece Force?"
+118,"TEXT_FESNYR103_00289_GOLDENSHEEPYORIKI_000_122","I see... So the hypnoturgical blast <hex:021A020203>does<hex:021A020103> work against chocobos. A welcome development indeed! I shall be sure to underline that fact in my report."
+119,"TEXT_FESNYR103_00289_GOLDENSHEEPYORIKI_100_122","Although it is unfortunate that the trader will not be calling on Gridania. The combination of a loud-mouthed merchant and a busy marketplace seemed the perfect grist for the rumor mill."
+120,"TEXT_FESNYR103_00289_GOLDENSHEEPYORIKI_000_123","But no matter. The trader was impressed, was she not? No doubt she will sing of sheep to all and sundry along her travels. Mayhap we shall even find a benefactor in this affluent fellow she plans to trail. As such, I judge your mission a roaring success!"
+121,"TEXT_FESNYR103_00289_GOLDENSHEEPYORIKI_000_124","Please allow me to present you with a replica of my own helm, a snow white hitsuji kabuto, as a token of my appreciation. By this, the bugyo will know that you have done great deeds this day."
+122,"TEXT_FESNYR103_00289_GOLDENSHEEPYORIKI_000_125","Heavens forfend it, but if by some unhappy twist of fate the kabuto should become lost or damaged, rest assured the hitsuji shonin will know you for a friend, and permit you to purchase a replacement. When you have all three helms, report to the bugyo─I am sure he will reward you for your efforts."
+123,"TEXT_FESNYR103_00289_GOLDENSHEEPYORIKI_000_126","Well then, all that remains for me is to return the prototype lamb to my master. You have proved yourself a true ally to our cause this day, <hex:020813E905FF07>m'lady<hex:FF07>m'lord<hex:03>. May the Fleece Force be with you!"

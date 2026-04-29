@@ -2,189 +2,189 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_LUCKMF111_03654_SEQ_00,亞馬烏羅提的阿莉塞第一個下定了決心。
-1,TEXT_LUCKMF111_03654_SEQ_01,阿莉塞似乎決定繼續前進。和亞馬烏羅提的阿爾菲諾談談。
-2,TEXT_LUCKMF111_03654_SEQ_02,阿爾菲諾已經前行。和亞馬烏羅提的於里昂熱談談。
-3,TEXT_LUCKMF111_03654_SEQ_03,於里昂熱已經前行。和亞馬烏羅提的雅·修特拉談談。
-4,TEXT_LUCKMF111_03654_SEQ_04,雅·修特拉已經前行。和亞馬烏羅提的桑克瑞德談談。
-5,TEXT_LUCKMF111_03654_SEQ_05,桑克瑞德已經前行。和亞馬烏羅提的琳談談。
-6,TEXT_LUCKMF111_03654_SEQ_06,琳也終於下定了決心。和亞馬烏羅提國會議事堂的議事堂管理員談談。
-7,TEXT_LUCKMF111_03654_SEQ_07,進入議事堂，再次見到了愛梅特賽爾克。為了向彼此證明互不退讓的信念，突破末日重現的亞馬烏羅提。<hex:02100103><hex:02100103>※通過和進入點附近的同伴對話並選擇「編成小隊」，或選擇快捷指令裡的「劇情輔助器」，可以和非玩家同伴一同進入副本。<hex:02100103>※和玩家一同進入時請通過任務搜尋器參加。
-8,TEXT_LUCKMF111_03654_SEQ_08,抵達了迎來末日的星球最深處。<hex:02100103>若是離開了此處，國會議事堂的議事堂管理員會帶領冒險者前往此處。
-9,TEXT_LUCKMF111_03654_SEQ_09,背負著夥伴、阿爾博特、水晶公等所有人的期待，投身最終決戰。戰勝揭露了哈迪斯真名的愛梅特賽爾克！<hex:02100103><hex:02100103>※可以通過任務搜尋器參加。
-10,TEXT_LUCKMF111_03654_SEQ_10,戰勝了哈迪斯。結束一切，返回水晶都的觀星室。
-11,TEXT_LUCKMF111_03654_SEQ_11,接受了愛梅特賽爾克的心願。與夥伴一同回到水晶都後，看到了光芒已散的晴朗碧空。和觀星室的水晶公談談。
-12,TEXT_LUCKMF111_03654_SEQ_12,就這樣，第一世界獲得了拯救，第八靈災的危機也得以化解。冒險者決定代表同伴，回一趟原初世界。和喪靈鐘石之家的塔塔露談談。
-13,TEXT_LUCKMF111_03654_SEQ_13,和塔塔露打了聲招呼。想要調查帝國與同盟軍戰爭的最新情況似乎需要花費一點時間。繼續在兩個世界進行永無止境的冒險。
-14,TEXT_LUCKMF111_03654_SEQ_14,
-15,TEXT_LUCKMF111_03654_SEQ_15,
-16,TEXT_LUCKMF111_03654_SEQ_16,
-17,TEXT_LUCKMF111_03654_SEQ_17,
-18,TEXT_LUCKMF111_03654_SEQ_18,
-19,TEXT_LUCKMF111_03654_SEQ_19,
-20,TEXT_LUCKMF111_03654_SEQ_20,
-21,TEXT_LUCKMF111_03654_SEQ_21,
-22,TEXT_LUCKMF111_03654_SEQ_22,
-23,TEXT_LUCKMF111_03654_SEQ_23,
-24,TEXT_LUCKMF111_03654_TODO_00,和阿爾菲諾對話
-25,TEXT_LUCKMF111_03654_TODO_01,和於里昂熱對話
-26,TEXT_LUCKMF111_03654_TODO_02,和雅·修特拉對話
-27,TEXT_LUCKMF111_03654_TODO_03,和桑克瑞德對話
-28,TEXT_LUCKMF111_03654_TODO_04,和琳對話
-29,TEXT_LUCKMF111_03654_TODO_05,和議事堂管理員對話
-30,TEXT_LUCKMF111_03654_TODO_06,突破末日暗影亞馬烏羅提
-31,TEXT_LUCKMF111_03654_TODO_07,突破末日暗影亞馬烏羅提
-32,TEXT_LUCKMF111_03654_TODO_08,討伐哈迪斯
-33,TEXT_LUCKMF111_03654_TODO_09,討伐哈迪斯
-34,TEXT_LUCKMF111_03654_TODO_10,和水晶公對話
-35,TEXT_LUCKMF111_03654_TODO_11,和石之家的塔塔露對話
-36,TEXT_LUCKMF111_03654_TODO_12,
-37,TEXT_LUCKMF111_03654_TODO_13,
-38,TEXT_LUCKMF111_03654_TODO_14,
-39,TEXT_LUCKMF111_03654_TODO_15,
-40,TEXT_LUCKMF111_03654_TODO_16,
-41,TEXT_LUCKMF111_03654_TODO_17,
-42,TEXT_LUCKMF111_03654_TODO_18,
-43,TEXT_LUCKMF111_03654_TODO_19,
-44,TEXT_LUCKMF111_03654_TODO_20,
-45,TEXT_LUCKMF111_03654_TODO_21,
-46,TEXT_LUCKMF111_03654_TODO_22,
-47,TEXT_LUCKMF111_03654_TODO_23,
-48,TEXT_LUCKMF111_03654_SYSTEM_000_000,阿爾菲諾垂下視線，陷入沉思，<hex:02100103>但卻沒有曾經在雪之家顯露出來的軟弱之感。<hex:02100103>似乎在不知不覺之間……他已經成長得十分成熟了。
-49,TEXT_LUCKMF111_03654_SYSTEM_000_005,桑克瑞德平靜地眺望遠方，<hex:02100103>那筆直堅挺的站姿讓人感覺不到絲毫的焦躁與虛勢。
-50,TEXT_LUCKMF111_03654_SYSTEM_000_010,琳似乎正在苦惱。<hex:02100103>那雙不住顫抖的小手，想必正是心懷同伴的證明。
-51,TEXT_LUCKMF111_03654_SYSTEM_000_015,於里昂熱看著這邊，像是有話想說。<hex:02100103>要把自己的擔憂化作語言，對他來說似乎依然是一件費心的事。
-52,TEXT_LUCKMF111_03654_SYSTEM_000_020,當與雅·修特拉四目相對時，她露出了為難的笑容。<hex:02100103>似乎她曾經對莉瑟與魯納爾也露出過同樣的表情。
-53,TEXT_LUCKMF111_03654_ALISAIE_000_030,我問你……我們在這裡重逢之後，<hex:02100103>曾經在鼴靈集市的塔頂上聊過天，你還記得嗎？
-54,TEXT_LUCKMF111_03654_ALISAIE_000_031,我的決心從那個時候到現在一直都沒有變過。<hex:02100103>為了不再丟下同伴……為了不再讓同伴丟下，<hex:02100103>無論前方有著怎樣的路，我都會用全力走到盡頭。
-55,TEXT_LUCKMF111_03654_ALISAIE_000_032,而且你在奪回黑夜的時候也告訴了我，<hex:02100103>希望就在道路的前方。
-56,TEXT_LUCKMF111_03654_ALISAIE_000_033,那麼，接下來的這條路，<hex:02100103>說不定只要走出一步，就能找到救你的辦法。<hex:02100103>所以我……就算痛苦，就算害怕，也會往前走的。
-57,TEXT_LUCKMF111_03654_ALPHINAUD_000_040,沃斯里曾經說過……<hex:02100103>即使打倒了他，<hex:02100103>也只能換來永無終止的戰鬥。
-58,TEXT_LUCKMF111_03654_ALPHINAUD_000_041,如果他看到了現在的第一世界和你的狀態，<hex:02100103>大概會發出嘲笑吧。
-59,TEXT_LUCKMF111_03654_ALPHINAUD_000_042,但是……你走來的這一路，的確在人們的心中點燃了火種。
-60,TEXT_LUCKMF111_03654_ALPHINAUD_000_043,我曾經想用理想與道理來統一人心，但失敗了，<hex:02100103>而你卻用你的旅途將它們團結到了一起，<hex:02100103>如果沒有你，那個塔羅斯是不可能站起來的。
-61,TEXT_LUCKMF111_03654_ALPHINAUD_000_044,我還想跟你一起見證更多更多那樣的奇蹟。<hex:02100103>這裡……只是旅途的一部分罷了。
-62,TEXT_LUCKMF111_03654_ALPHINAUD_000_045,跨過這個坎繼續往前走吧，<hex:02100103>就像平時的你那樣，就像……一直拉著我前進的你那樣。<hex:02100103>我雖然還不夠成熟，但會盡自己全力去幫你。
-63,TEXT_LUCKMF111_03654_URIANGER_000_050,想要完全阻止愛梅特賽爾克，<hex:02100103>就必須束縛他的靈魂，再用巨大的力量將之擊潰。
-64,TEXT_LUCKMF111_03654_URIANGER_000_051,我已經準備好了束縛所用的白聖石，<hex:02100103>這是我的職責……<hex:02100103>也是水晶公交給我的任務。
-65,TEXT_LUCKMF111_03654_URIANGER_000_052,他所在的第八靈災後的未來，<hex:02100103>換句話說就是無影的奸計得逞後的世界，<hex:02100103>我想他一定也下定了這次絕不屈服的決心吧。
-66,TEXT_LUCKMF111_03654_URIANGER_000_053,也就是說，打倒愛梅特賽爾克，<hex:02100103>也就等同於報答了那位未來之人。
-67,TEXT_LUCKMF111_03654_URIANGER_000_054,而當你今後遇到危險的時候也請不要忘記，<hex:02100103>希望英雄活著，才是他的、他們的原動力。
-68,TEXT_LUCKMF111_03654_URIANGER_000_055,而我之所以協助他們……<hex:02100103>也是出於同樣的心願。
-69,TEXT_LUCKMF111_03654_YSHTOLA_000_060,現在想想，在原初世界的時候就已經很不容易了，<hex:02100103>可到了第一世界，更是接連不斷地遇到難事啊。
-70,TEXT_LUCKMF111_03654_YSHTOLA_000_061,不過即便如此，我在那個密林裡……在和你們旅行的這段時間，<hex:02100103>還是毫不動搖地貫徹了自己的信念。
-71,TEXT_LUCKMF111_03654_YSHTOLA_000_062,所以，你也按照自己的心意去做吧，<hex:02100103>不要讓自己後悔。<hex:02100103>我想說的……就這麼多。
-72,TEXT_LUCKMF111_03654_THANCRED_000_070,真是的，大家幹嘛都搞得這麼沉重啊，<hex:02100103>又不是說這次就一定是結束。
-73,TEXT_LUCKMF111_03654_THANCRED_000_071,不過……有時也要把自己的想法清楚地傳達給對方，<hex:02100103>這可是你在安穆·艾蘭教會我的。<hex:02100103>所以……我也有話要說。
-74,TEXT_LUCKMF111_03654_THANCRED_000_072,謝謝你，<hex:022903EB0203>。<hex:02100103>多虧你將我捲入了這一系列的事件中，<hex:02100103>才使我這次能為她考慮，並且做出選擇。
-75,TEXT_LUCKMF111_03654_THANCRED_000_073,你能想像出這對我的人生來說意味著什麼嗎……<hex:02100103>我都不知道該怎麼感謝你才好。
-76,TEXT_LUCKMF111_03654_THANCRED_000_074,所以，如果你要去的話，我也會豁出性命陪你前行。<hex:02100103>偶爾……你也要把後背交給我啊。
-77,TEXT_LUCKMF111_03654_RYNE_000_080,……把力量交付給我的時候，敏菲利亞說過，<hex:02100103>不論獲得了多麼強大的力量，<hex:02100103>還是會面對挫折與絕望。
-78,TEXT_LUCKMF111_03654_RYNE_000_081,她說的，一點都沒錯……<hex:02100103>在格魯格火山上時，看到你倒下之後，<hex:02100103>我一邊緩和你的光芒，一邊……不住地顫抖……
-79,TEXT_LUCKMF111_03654_RYNE_000_082,一旦出錯，你或許就會死去……<hex:02100103>這實在太可怕了……我，非常害怕……
-80,TEXT_LUCKMF111_03654_RYNE_000_083,就連現在我都不知道！<hex:02100103>我要怎麼做才能救你！
-81,TEXT_LUCKMF111_03654_RYNE_000_084,我從敏菲利亞那裡得到了寶貴的生命……<hex:02100103>在你和桑克瑞德，以及大家的支撐下才走到現在。
-82,TEXT_LUCKMF111_03654_RYNE_000_085,所以這次……<hex:02100103>我想成為別人的支柱，我想成為別人的救星！
-83,TEXT_LUCKMF111_03654_RYNE_000_086,可是……我的能力實在是……太微弱了……
-84,TEXT_LUCKMF111_03654_RYNE_000_087,我明明對敏菲利亞說過……<hex:02100103>說我會一直追隨英雄……可是……可是……
-85,TEXT_LUCKMF111_03654_Q1_000_000,要說什麼？
-86,TEXT_LUCKMF111_03654_A1_000_001,那就不要低下頭
-87,TEXT_LUCKMF111_03654_A1_000_002,我並不渴望得到拯救
-88,TEXT_LUCKMF111_03654_RYNE_000_088,這是……為什麼？
-89,TEXT_LUCKMF111_03654_RYNE_000_089,那……你為什麼要繼續走下去？
-90,TEXT_LUCKMF111_03654_Q2_000_000,要說什麼？
-91,TEXT_LUCKMF111_03654_A2_000_001,因為英雄可不應該露出悲傷的表情
-92,TEXT_LUCKMF111_03654_A2_000_002,因為為了這個世界，曾有一群英雄從未低頭認輸
-93,TEXT_LUCKMF111_03654_A2_000_003,……
-94,TEXT_LUCKMF111_03654_RYNE_000_090,！
-95,TEXT_LUCKMF111_03654_RYNE_000_091,這句話是指……
-96,TEXT_LUCKMF111_03654_RYNE_000_092,……不，我應該自己在路上尋找這句話的意義。
-97,TEXT_LUCKMF111_03654_RYNE_000_093,！
-98,TEXT_LUCKMF111_03654_RYNE_000_094,這句話是指……
-99,TEXT_LUCKMF111_03654_RYNE_000_095,……不，我應該自己在路上尋找<hex:02100103>這句話指的是誰，以及其中的意義。
-100,TEXT_LUCKMF111_03654_RYNE_000_096,……是啊，<hex:02100103>我應該自己在路上尋找原因。
-101,TEXT_LUCKMF111_03654_RYNE_000_097,我也要往前走。<hex:02100103>只會因自己的無能而自怨自艾是永遠都找不到答案的！
-102,TEXT_LUCKMF111_03654_OFFICIAL03654_000_100,<hex:024804F2022303>這裡是國會議事堂，<hex:02100103>無關人員請出示許可證。<hex:0248020103>
-103,TEXT_LUCKMF111_03654_OFFICIAL03654_000_101,<hex:024804F2022303>許可證已確認完畢。<hex:02100103>如果您有同行者的話，請與同行者一同入內。<hex:0248020103>
-104,TEXT_LUCKMF111_03654_Q3_000_000,要做什麼？
-105,TEXT_LUCKMF111_03654_A3_000_001,對話
-106,TEXT_LUCKMF111_03654_A3_000_002,編成小隊
-107,TEXT_LUCKMF111_03654_A3_000_003,取消
-108,TEXT_LUCKMF111_03654_ALPHINAUD_000_110,走吧，<hex:022903EB0203>，<hex:02100103>無論面對怎樣的災難，<hex:02100103>我們都不會退縮！
-109,TEXT_LUCKMF111_03654_ALISAIE_000_115,到了這一步，我不會勸你別勉強自己。<hex:02100103>我只是……會幫你把擋在前面的障礙全部剷除。
-110,TEXT_LUCKMF111_03654_THANCRED_000_120,我已經做好準備了，<hex:02100103>就如他所願，讓他見識一下什麼叫無法入眠的激烈戰鬥。
-111,TEXT_LUCKMF111_03654_RYNE_000_125,我感到火焰的前方有一種非常濃烈的黑暗氣息……<hex:02100103>是與我們的光相反的力量。
-112,TEXT_LUCKMF111_03654_RYNE_000_126,拜託你，敏菲利亞……<hex:02100103>請為我們點燃照亮暗路的希望燈火！
-113,TEXT_LUCKMF111_03654_URIANGER_000_130,據說在末日的災難中，失控的創造魔法令恐懼化作實體，<hex:02100103>變成無數異形四處破壞。
-114,TEXT_LUCKMF111_03654_URIANGER_000_131,想必我們也要對付那些怪物。<hex:02100103>不過……自然是要讓它們給我們讓路。
-115,TEXT_LUCKMF111_03654_YSHTOLA_000_135,我原本以為，愛梅特賽爾克在利用到水晶公的力量之前<hex:02100103>應該不會傷害他……<hex:02100103>但聽到那番話，或許未必是這樣。
-116,TEXT_LUCKMF111_03654_YSHTOLA_000_136,畢竟是等了你幾十年的人，<hex:02100103>你可要快點去迎接他啊。<hex:02100103>……做好準備了嗎？
-117,TEXT_LUCKMF111_03654_A4_000_000,要前往末日亞馬烏羅提嗎？
-118,TEXT_LUCKMF111_03654_ALPHINAUD_000_140,昨天城市裡到處都在慶祝，宴會好像開到很晚。<hex:02100103>說來慚愧，我才參加到一半就體力不支了，<hex:02100103>等我醒過來的時候，發現自己正躺在醫療館的病床上。
-119,TEXT_LUCKMF111_03654_ALPHINAUD_000_141,阿莉塞好像也跟我一樣，她就睡在我旁邊的床上。<hex:02100103>我不知道有多久沒看到過<hex:02100103>她在睡覺的時候露出那麼幸福的表情了……
-120,TEXT_LUCKMF111_03654_ALPHINAUD_000_142,然後我出了門，在外面看到了湛藍的晴空，<hex:02100103>我想，我永遠都忘不了那幅畫面。                                        
-121,TEXT_LUCKMF111_03654_ALISAIE_000_145,唉……好失敗……<hex:02100103>我在宴會上玩得正高興，不知什麼時候竟然睡著了。
-122,TEXT_LUCKMF111_03654_ALISAIE_000_146,如果就只是這樣也還好……<hex:02100103>就算是我，偶爾也需要盡興地玩一玩嘛……
-123,TEXT_LUCKMF111_03654_ALISAIE_000_147,可是當我醒來，阿爾菲諾正探著腦袋看我！<hex:02100103>還說「真是個讓人心曠神怡的早上呢，就和你的睡臉一樣祥和」。<hex:02100103>啊，我到底是用什麼表情睡覺的啊！
-124,TEXT_LUCKMF111_03654_THANCRED_000_150,從各地趕過來的人熱鬧了一番之後也都各自回去了。
-125,TEXT_LUCKMF111_03654_THANCRED_000_151,不過，整個諾弗蘭特想必還要再慶祝一陣子。
-126,TEXT_LUCKMF111_03654_THANCRED_000_152,我昨晚本來也想久違地痛快喝上一場，<hex:02100103>但是於里昂熱那傢伙，居然把我過去喝醉之後搭訕過的<hex:02100103>女士名字挨個列了出來……托他的福，我喝到最後都沒醉。
-127,TEXT_LUCKMF111_03654_RYNE_000_155,<hex:022903EB0203>，你的身體……<hex:02100103>嗯，已經恢復正常了吧，<hex:02100103>真是太好了……
-128,TEXT_LUCKMF111_03654_RYNE_000_156,昨天看到好多人來迎接我們，我真是嚇了一跳！<hex:02100103>一想到自己居然認識了這麼多人，<hex:02100103>我就覺得非常感動……
-129,TEXT_LUCKMF111_03654_RYNE_000_157,我希望大家的笑容永遠永遠都不會消失，<hex:02100103>為了守護大家的笑容……我會去尋找自己力所能及的事！
-130,TEXT_LUCKMF111_03654_URIANGER_000_160,只要結局美滿，一切都好。<hex:02100103>不過，通過這次的經歷，我學到了一件很重要的事。
-131,TEXT_LUCKMF111_03654_URIANGER_000_161,那就是……我最好還是去學個一兩種<hex:02100103>在水上行走或是把海水分開的法術。
-132,TEXT_LUCKMF111_03654_URIANGER_000_162,正好，我一會兒要去給<hex:021A020203>「俾斯麥」<hex:021A020103>刷牙，<hex:02100103>就向那位上古妖靈請教一下吧……<hex:02100103>如果下次還有機會……敬請期待我的表現。
-133,TEXT_LUCKMF111_03654_YSHTOLA_000_165,昨天的宴會上也有很多夜之民的小孩子，<hex:02100103>畢竟人很多，<hex:02100103>我的本名就被不小心說了出去。
-134,TEXT_LUCKMF111_03654_YSHTOLA_000_166,夜之民只有在舉行儀式的時候或是在家人面前才能揭露本名。<hex:02100103>所以魯納爾他們比我還要慌張。
-135,TEXT_LUCKMF111_03654_YSHTOLA_000_167,於是我就說「我已經把你們都當作是家人了，所以不要緊的」，<hex:02100103>沒想到他們反而非常激動地大哭了起來。<hex:02100103>唉，真是群麻煩的孩子啊……呵呵。
-136,TEXT_LUCKMF111_03654_COINACHINVESTIGATOR03279_000_170,您回來了啊！<hex:02100103>那邊的戰事是暫時休止了嗎？<hex:02100103>還是說……
-137,TEXT_LUCKMF111_03654_TATARU_000_180,……咦……啊……什麼？！
-138,TEXT_LUCKMF111_03654_TATARU_000_181,冒冒冒冒、冒險者？！<hex:02100103>你真的是<hex:022903EB0203>嗎？！
-139,TEXT_LUCKMF111_03654_TATARU_000_182,啊哇哇哇哇哇……太好了……你平安無事！<hex:02100103>而且你怎麼回來得這麼快？！
-140,TEXT_LUCKMF111_03654_Q5_000_000,要說什麼？
-141,TEXT_LUCKMF111_03654_A5_000_001,大概是因為時間的流速不同吧……
-142,TEXT_LUCKMF111_03654_A5_000_002,你希望我回來得晚一些嗎？
-143,TEXT_LUCKMF111_03654_TATARU_000_183,啊，這麼說好像的確是！<hex:02100103>我從神奇的妖靈那裡收到的報告裡也是這樣說的！
-144,TEXT_LUCKMF111_03654_TATARU_000_184,怎麼會呢！<hex:02100103>看到你回來，我開心得都要蹦起來了！
-145,TEXT_LUCKMF111_03654_TATARU_000_185,雖然我從神奇的妖靈那裡收到了報告……<hex:02100103>但親眼看到你之後我才放心了！
-146,TEXT_LUCKMF111_03654_TATARU_000_186,現在這邊……<hex:02100103>帝國和同盟軍的對峙還在繼續。
-147,TEXT_LUCKMF111_03654_TATARU_000_187,不知道為什麼，帝國軍的行動很遲緩，<hex:02100103>也沒有發動過大規模的戰鬥……<hex:02100103>換句話說，雙方目前正處於膠著狀態。
-148,TEXT_LUCKMF111_03654_TATARU_000_188,你讓我們當心的那個名叫「黑玫瑰」的兵器，<hex:02100103>也沒有被使用過。
-149,TEXT_LUCKMF111_03654_TATARU_000_189,啊，對了！<hex:02100103>我們找來了一個非常強大的幫手，<hex:02100103>可以幫我們對付那個兵器！
-150,TEXT_LUCKMF111_03654_TATARU_000_190,呵呵呵……我和可露兒小姐一起找到的，<hex:02100103>找得可辛苦了！<hex:02100103>等見到了那個人，你一定也會嚇一跳！
-151,TEXT_LUCKMF111_03654_TATARU_000_191,我想先跟他取得聯繫，<hex:02100103>確認一下最新的戰況。<hex:02100103>所以……能稍微再給我些時間嗎？
-152,TEXT_LUCKMF111_03654_TATARU_000_192,嘿嘿嘿……<hex:022903EB0203>，<hex:02100103>我總覺得你比以前更加可靠了。<hex:02100103>下次你一定要給我講講你在那邊的冒險之旅啊！
-153,TEXT_LUCKMF111_03654_TATARU_000_193,不過最重要的話我還沒跟你說……<hex:02100103>歡迎回家！
-154,TEXT_LUCKMF111_03654_ELIDIBUS_000_900,<hex:024804F2022303>愛梅特賽爾克……<hex:02100103>你真的消失了嗎……<hex:0248020103>
-155,TEXT_LUCKMF111_03654_ELIDIBUS_000_901,<hex:024804F2022303>拉哈布雷亞也已經不在了，<hex:02100103>如今，原種就只剩下我自己。<hex:0248020103>
-156,TEXT_LUCKMF111_03654_ELIDIBUS_000_902,<hex:024804F2022303>事已至此，我不得不承認……<hex:02100103>自己再一次看錯了人類的可能性。<hex:0248020103>
-157,TEXT_LUCKMF111_03654_ELIDIBUS_000_903,<hex:024804F2022303>面對芝諾斯的時候也是一樣……<hex:02100103>沒想到他以那樣的狀態居然還能凌駕於肉身中留有的力量……<hex:0248020103>
-158,TEXT_LUCKMF111_03654_ELIDIBUS_000_904,<hex:024804F2022303>我已經想像不出，<hex:02100103>將世界的真相告知於他之後，<hex:02100103>究竟會帶來怎樣的未來了。<hex:0248020103>
-159,TEXT_LUCKMF111_03654_ELIDIBUS_000_905,<hex:024804F2022303>唉……我是一個名不副實的調停者……<hex:02100103>歷史的洪流已經變成無法被我糾正的濁流了嗎……<hex:0248020103>
-160,TEXT_LUCKMF111_03654_ELIDIBUS_000_906,<hex:024804F2022303>海德林啊，一切都如你所願。<hex:02100103>新來者們已經虎視眈眈地盯上了這顆星球。<hex:0248020103>
-161,TEXT_LUCKMF111_03654_ELIDIBUS_000_907,<hex:024804F2022303>在你……以及把你創造出來的人們的期望下，<hex:02100103>世界的真相被隱瞞了下來……<hex:02100103>他們甚至不知道，自己其實是半成品的生命。<hex:0248020103>
-162,TEXT_LUCKMF111_03654_ELIDIBUS_000_908,<hex:024804F2022303>在如今的人類無憂無慮謳歌生命的時候，<hex:02100103>我們正一步步走向滅亡。<hex:0248020103>
-163,TEXT_LUCKMF111_03654_ELIDIBUS_000_909,<hex:024804F2022303>……我明白。<hex:02100103>即便如此，我們也沒有告終。<hex:0248020103>
-164,TEXT_LUCKMF111_03654_ELIDIBUS_000_910,<hex:024804F2022303>那個英雄，的確是迄今最大的障礙。<hex:02100103>但是……這次我定要將其剷除。<hex:0248020103>
-165,TEXT_LUCKMF111_03654_ELIDIBUS_000_911,<hex:024804F2022303>我已經有了計劃……<hex:02100103>只要能將他們一直困在第一世界，<hex:02100103>最後獲勝的，必定是我們……<hex:0248020103>
-166,TEXT_LUCKMF111_03654_ELIDIBUS_000_912,<hex:024804F2022303>你們在那個世界變成了暗之戰士……<hex:02100103>那麼你們的命運就已經有了定數。<hex:0248020103>
-167,TEXT_LUCKMF111_03654_ELIDIBUS_000_913,<hex:024804F2022303>暗之戰士會被光之戰士消滅。<hex:02100103>就如同……你們當初做過的那樣！<hex:0248020103>
-168,TEXT_LUCKMF111_03654_THANCRED_000_930,你確定是吧……琳。
-169,TEXT_LUCKMF111_03654_RYNE_000_931,是的……<hex:02100103>對面有什麼東西。
-170,TEXT_LUCKMF111_03654_THANCRED_000_932,可是……前方不管再怎麼走，<hex:02100103>都走不出空無大地的範圍，<hex:02100103>那裡沒有任何生命存在。
-171,TEXT_LUCKMF111_03654_THANCRED_000_933,即使我們盡量避免久留，<hex:02100103>也不能保證不會影響到身體。
-172,TEXT_LUCKMF111_03654_THANCRED_000_934,就算是這樣……你還是說什麼都要去那裡嗎？
-173,TEXT_LUCKMF111_03654_RYNE_000_935,這個世界的確已經被拯救了。<hex:02100103>可是，並沒有恢復原貌。
-174,TEXT_LUCKMF111_03654_THANCRED_000_936,恢復原貌嗎……
-175,TEXT_LUCKMF111_03654_THANCRED_000_937,那就必須去確認看看，<hex:02100103>盡頭有什麼東西在等著我們了。
-176,TEXT_LUCKMF111_03654_THANCRED_000_938,既然這是你的願望，<hex:02100103>我身為你的家人，怎麼可能不全力支持你呢？
-177,TEXT_LUCKMF111_03654_THANCRED_000_939,好了，我們回去準備一下吧。
-178,TEXT_LUCKMF111_03654_RYNE_000_940,好！
-179,TEXT_LUCKMF111_03654_SYSTEM_000_200,暗影之逆焰主線任務已完成，<hex:02100103>開放了「親信戰友」功能，<hex:02100103>今後可以使用該功能再次攻略副本培養非玩家同伴的幻體了！
-180,TEXT_LUCKMF111_03654_SYSTEM_000_201,若想啟動親信戰友，<hex:02100103>請選擇快捷指令的任務情報中的「親信戰友」。
-181,TEXT_LUCKMF111_03654_SYSTEM_000_202,幻體通過參加任務可以獲得經驗值並提升等級。<hex:02100103>詳情請參照「親信戰友」的說明。
-182,TEXT_LUCKMF111_03654_SYSTEM_000_203,另外，可以與在原初世界的特職任務中遇見的人們<hex:02100103>談論在暗影之逆焰中體驗過的冒險了。
-183,TEXT_LUCKMF111_03654_SYSTEM_000_204,・當前特職的等級到達80級。<hex:02100103>・已完成70級的特職任務。<hex:02100103>・已完成當前職能的職能任務。
-184,TEXT_LUCKMF111_03654_SYSTEM_000_205,滿足以上三個條件後，任務就會開放。<hex:02100103>具體地點請在各特職的<hex:02100103>70級特職任務日誌中進行查看。
-185,TEXT_LUCKMF111_03654_SYSTEM_000_206,除此之外，水晶都也開放了可以解放新內容的任務。<hex:02100103>請繼續在兩個世界中享受精彩的冒險之旅！
+0,"TEXT_LUCKMF111_03654_SEQ_00","Alisaie appears to have made her decision."
+1,"TEXT_LUCKMF111_03654_SEQ_01","Alisaie vows to press on, no matter how long it takes or how much it hurts. Speak with Alphinaud next for his decision."
+2,"TEXT_LUCKMF111_03654_SEQ_02","Alphinaud is eager to continue along the road, and behold more miracles at your side. Speak with Urianger next for his decision."
+3,"TEXT_LUCKMF111_03654_SEQ_03","Urianger would sally forth with you into the jaws of peril, and see you survive “unto the morrow.” Speak with Y'shtola next for her decision."
+4,"TEXT_LUCKMF111_03654_SEQ_04","Y'shtola would repay you for all the support you have given her, and implores you to do as your heart decrees. Speak with Thancred next for his decision."
+5,"TEXT_LUCKMF111_03654_SEQ_05","Thancred seizes upon the chance to express his appreciation for all you have done, and promises to guard your back during the coming battle. Speak with Ryne next for her decision."
+6,"TEXT_LUCKMF111_03654_SEQ_06","Unlike your fellow Scions, Ryne seems gripped by doubt and feelings of powerlessness. After some encouragement, however, you convince her to trust in the path she has chosen. With your party thus assembled, you turn to face the foreboding doors of the Capitol."
+7,"TEXT_LUCKMF111_03654_SEQ_07","You enter the Capitol building with your companions and find yourselves face-to-face with Emet-Selch himself. The Ascian belittles the value of the fragmentary lives which now populate the Source and its reflections, challenging you to prove yourself worthy of his people's legacy. With the gauntlet thrown down and the Exarch awaiting rescue, you steel yourself to wade into the infernal flames of the Final Days of Amaurot.<hex:02100103><hex:02100103>※To enlist your companion NPCs for this duty, speak with them near the entrance or access Duty Support via the main menu. Use the Duty Finder if you wish to complete the instance alongside fellow players."
+8,"TEXT_LUCKMF111_03654_SEQ_08","You battle your way past terrors made flesh, and arrive at the brink of the star's fiery oblivion.<hex:02100103><hex:02100103>※In the event that you leave the instance, you may re-enter by speaking with the attendant in the foyer of the Capitol."
+9,"TEXT_LUCKMF111_03654_SEQ_09","Though you survive the tragedy which befell Amaurot, Emet-Selch remains resolutely unimpressed by your efforts. Taking to the field, he brushes aside your comrades' every attack, refuting each argument leveled against him with the same easy contempt. Exhausted from battering yourself against the Ascian's adamant defenses, you are powerless to prevent the Light within from breaking its bonds, and you slump to the ground in agony. Emet-Selch has won.<hex:02100103><hex:02100103>But then Ardbert is there at your side, and with his hand at your back, you find the strength to take another step. Emet-Selch's disbelief is compounded as the Exarch appears and intones a spell to bring you further reinforcements. Now enraged beyond measure, the Ascian casts aside his mortal form, and reveals to you his true name─Hades. The final hour─the final conflict─is at hand!<hex:02100103><hex:02100103>※The Dying Gasp can be accessed via the Duty Finder."
+10,"TEXT_LUCKMF111_03654_SEQ_10","You wage a titanic battle not only against Hades, but the hopes and dreams of Ascian-kind, of which he is the keeper. In the end, however, your own unwavering conviction brings the ancient being low. You have done a great and terrible thing. Pen the conclusion to this momentous chapter of history, and make your return to the Ocular."
+11,"TEXT_LUCKMF111_03654_SEQ_11","<hex:021A020203>“Remember us...”<hex:021A020103><hex:02100103><hex:02100103><hex:021A020203>With all your might behind the throw, the axe of incandescent Light shatters the bound soul of Emet-Selch.<hex:021A020103><hex:02100103><hex:02100103><hex:021A020203>“Remember...that we once lived...”<hex:021A020103><hex:02100103><hex:02100103>The Ascian's words ring in your ears, even as both Y'shtola and Ryne declare your soul free of the Wardens' taint. You have won.<hex:02100103><hex:02100103>After an exhausting swim to the surface, you and your companions are given a hero's welcome by the people of Norvrandt. The Crystarium erupts in celebration, and you enter the city beneath a blessedly clear sky."
+12,"TEXT_LUCKMF111_03654_SEQ_12","You look on proudly as the Exarch proclaims that the First is saved, and that the Eighth Umbral Calamity no longer threatens the Source. But then a moment of confusion descends as those assembled puzzle over the steward's continued presence. His timeline has supposedly been unmade, yet with the man himself still very much alive, it would seem the summoned Scions are stuck in the First.<hex:02100103><hex:02100103>Happy enough to postpone their return if it means the Exarch's life is spared, your comrades urge you to head back alone. Once the portal is prepared, you step through without further hesitation, eager to bring word of your success to Tataru."
+13,"TEXT_LUCKMF111_03654_SEQ_13","When traversing the rift, the steady beat of time is rendered mutable, and so your unexpectedly <hex:021A020203>early<hex:021A020103> return catches Tataru entirely off guard. The redoubtable secretary swiftly recovers, however, and regales you with what she knows of the situation in the Source. Wishing to confirm the current news from the front line, as well as contact her “surprise” helper, Tataru bids you take your ease for the moment─a brief respite before the ceaseless turning of two tumultuous worlds beckons you once more unto adventure."
+14,"TEXT_LUCKMF111_03654_SEQ_14",""
+15,"TEXT_LUCKMF111_03654_SEQ_15",""
+16,"TEXT_LUCKMF111_03654_SEQ_16",""
+17,"TEXT_LUCKMF111_03654_SEQ_17",""
+18,"TEXT_LUCKMF111_03654_SEQ_18",""
+19,"TEXT_LUCKMF111_03654_SEQ_19",""
+20,"TEXT_LUCKMF111_03654_SEQ_20",""
+21,"TEXT_LUCKMF111_03654_SEQ_21",""
+22,"TEXT_LUCKMF111_03654_SEQ_22",""
+23,"TEXT_LUCKMF111_03654_SEQ_23",""
+24,"TEXT_LUCKMF111_03654_TODO_00","Speak with Alphinaud."
+25,"TEXT_LUCKMF111_03654_TODO_01","Speak with Urianger."
+26,"TEXT_LUCKMF111_03654_TODO_02","Speak with Y'shtola."
+27,"TEXT_LUCKMF111_03654_TODO_03","Speak with Thancred."
+28,"TEXT_LUCKMF111_03654_TODO_04","Speak with Ryne."
+29,"TEXT_LUCKMF111_03654_TODO_05","Speak with the Capitol attendant."
+30,"TEXT_LUCKMF111_03654_TODO_06","Enter Amaurot."
+31,"TEXT_LUCKMF111_03654_TODO_07","Enter Amaurot."
+32,"TEXT_LUCKMF111_03654_TODO_08","Confront Hades in the Dying Gasp."
+33,"TEXT_LUCKMF111_03654_TODO_09","Confront Hades in the Dying Gasp."
+34,"TEXT_LUCKMF111_03654_TODO_10","Speak with the Crystal Exarch."
+35,"TEXT_LUCKMF111_03654_TODO_11","Speak with Tataru in the Rising Stones."
+36,"TEXT_LUCKMF111_03654_TODO_12",""
+37,"TEXT_LUCKMF111_03654_TODO_13",""
+38,"TEXT_LUCKMF111_03654_TODO_14",""
+39,"TEXT_LUCKMF111_03654_TODO_15",""
+40,"TEXT_LUCKMF111_03654_TODO_16",""
+41,"TEXT_LUCKMF111_03654_TODO_17",""
+42,"TEXT_LUCKMF111_03654_TODO_18",""
+43,"TEXT_LUCKMF111_03654_TODO_19",""
+44,"TEXT_LUCKMF111_03654_TODO_20",""
+45,"TEXT_LUCKMF111_03654_TODO_21",""
+46,"TEXT_LUCKMF111_03654_TODO_22",""
+47,"TEXT_LUCKMF111_03654_TODO_23",""
+48,"TEXT_LUCKMF111_03654_SYSTEM_000_000","Alphinaud is lost in thought, his eyes downcast. There is, however, no sign of the self-doubt which once assailed him at the Falling Snows."
+49,"TEXT_LUCKMF111_03654_SYSTEM_000_005","Thancred stares quietly into the distance. He seems calm and assured, his easy stance born of confidence rather than false bravado."
+50,"TEXT_LUCKMF111_03654_SYSTEM_000_010","Ryne appears to be brooding over her choices, her faintly trembling hands betraying her mounting trepidation."
+51,"TEXT_LUCKMF111_03654_SYSTEM_000_015","Urianger glances your way, his expression hesitant. You can see the struggle as he agonizes over the words he wishes to say."
+52,"TEXT_LUCKMF111_03654_SYSTEM_000_020","Y'shtola meets your gaze with a strained smile. You seem to recall her wearing the selfsame expression when speaking with Lyse and Runar."
+53,"TEXT_LUCKMF111_03654_ALISAIE_000_030","Do you remember that talk we had atop the tower in Mord Souq?"
+54,"TEXT_LUCKMF111_03654_ALISAIE_000_031","I'm still of the same mind now as I was then. I don't abandon you, you don't abandon me, and together we make a difference in this fight."
+55,"TEXT_LUCKMF111_03654_ALISAIE_000_032","There's always hope if we look for it─I saw it again and again as you tore those veils of Light from the sky."
+56,"TEXT_LUCKMF111_03654_ALISAIE_000_033","If we keep taking that next step forward, there's a chance we'll find a way to save you. So no matter how long it takes or how much it hurts, you can count on me to keep on walking."
+57,"TEXT_LUCKMF111_03654_ALPHINAUD_000_040","Vauthry spoke of the disaster we would bring upon our own heads. The ceaseless conflict..."
+58,"TEXT_LUCKMF111_03654_ALPHINAUD_000_041","Imagine how he would sneer to see what's become of the First, not to mention your perilous predicament."
+59,"TEXT_LUCKMF111_03654_ALPHINAUD_000_042","And yet who can deny the fire your deeds have ignited in people's hearts?"
+60,"TEXT_LUCKMF111_03654_ALPHINAUD_000_043","You achieved what my logic and ideals never could: uniting disparate peoples under the banner of hope and common purpose. Without you, that giant Talos would never have raised its head."
+61,"TEXT_LUCKMF111_03654_ALPHINAUD_000_044","I have borne witness to many such miracles at your side, and would do so again. This is but another obstacle in the road."
+62,"TEXT_LUCKMF111_03654_ALPHINAUD_000_045","So come, let us travel it. Drag me through wonder and danger, as you are wont to do, and I shall endeavor not to slow you down."
+63,"TEXT_LUCKMF111_03654_URIANGER_000_050","As well thou knowest, if we are to usher Emet-Selch unto his rest, we must needs bind his Ascian soul...and then shatter it with overwhelming force."
+64,"TEXT_LUCKMF111_03654_URIANGER_000_051","The former task requireth auracite, and such have I prepared─upon the Exarch's asking, no less, though 'twas ever mine intent to provide said boon."
+65,"TEXT_LUCKMF111_03654_URIANGER_000_052","The future whence our noble friend doth hail is a world fallen to Ascian artifice, and he would not see such grim history repeated."
+66,"TEXT_LUCKMF111_03654_URIANGER_000_053","In a sense, Emet-Selch's destruction will be the culmination of the Exarch's efforts─a reward for all he hath endured these many years."
+67,"TEXT_LUCKMF111_03654_URIANGER_000_054","Yet even as thou stridest into the jaws of peril, forget not but that his fondest wish─and that of many others, besides─is to see thee survive unto the morrow."
+68,"TEXT_LUCKMF111_03654_URIANGER_000_055","'Tis in pursuit of that happiest of outcomes that I do pledge to remain at thy side."
+69,"TEXT_LUCKMF111_03654_YSHTOLA_000_060","Our time in the First has been a never-ending succession of trials, as arduous as our path in the Source ever was."
+70,"TEXT_LUCKMF111_03654_YSHTOLA_000_061","Yet through all our journeys together─through that deep and foreboding wood─you have helped me to stay true to my convictions."
+71,"TEXT_LUCKMF111_03654_YSHTOLA_000_062","Thus would I return the favor. Do as your heart decrees, without hesitation or regret. And that is all I will say on the matter."
+72,"TEXT_LUCKMF111_03654_THANCRED_000_070","Well, this has put everyone in a solemn mood, hasn't it? Honestly, we're not even sure this will be the end of it."
+73,"TEXT_LUCKMF111_03654_THANCRED_000_071","But I suppose we should speak our minds when we have the opportunity. You taught me that much in Amh Araeng."
+74,"TEXT_LUCKMF111_03654_THANCRED_000_072","So forgive me this moment of sentiment, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. By dragging me into this sorry mess, you've given me the chance to think and act as I should have. For Ryne's sake."
+75,"TEXT_LUCKMF111_03654_THANCRED_000_073","Words cannot express how much this has changed my life, or how grateful I am for your support..."
+76,"TEXT_LUCKMF111_03654_THANCRED_000_074","...So I shall express my gratitude through action instead. No matter where you decide to go, I will be there, guarding your back."
+77,"TEXT_LUCKMF111_03654_RYNE_000_080","When Minfilia entrusted me with her power, she warned me that no matter how strong you become, you can still fall victim to despair; you can still feel powerless."
+78,"TEXT_LUCKMF111_03654_RYNE_000_081","And she was right. After you collapsed on Mt. Gulg, my hands wouldn't stop shaking..."
+79,"TEXT_LUCKMF111_03654_RYNE_000_082","If I made a mistake, if I failed to bind the Light within you... I was terrified you would die."
+80,"TEXT_LUCKMF111_03654_RYNE_000_083","Even now, you could be moments from turning, and I wouldn't know how to save you!"
+81,"TEXT_LUCKMF111_03654_RYNE_000_084","You, Thancred, the others, you've all been there when <hex:021A020203>I<hex:021A020103> needed help. Minfilia surrendered her <hex:021A020203>life<hex:021A020103> to me─her legacy."
+82,"TEXT_LUCKMF111_03654_RYNE_000_085","I should be ready to do the same for you! And I want to, I do! But I just..."
+83,"TEXT_LUCKMF111_03654_RYNE_000_086","...I'm not good enough."
+84,"TEXT_LUCKMF111_03654_RYNE_000_087","She told me to follow your example, and I've tried, I've really tried... <sob>"
+85,"TEXT_LUCKMF111_03654_Q1_000_000","What will you say?"
+86,"TEXT_LUCKMF111_03654_A1_000_001","Then you shouldn't hang your head."
+87,"TEXT_LUCKMF111_03654_A1_000_002","I'm not asking to be saved."
+88,"TEXT_LUCKMF111_03654_RYNE_000_088","I shouldn't...?"
+89,"TEXT_LUCKMF111_03654_RYNE_000_089","But the Light, it─ You'll─ How can you go on?"
+90,"TEXT_LUCKMF111_03654_Q2_000_000","What will you say?"
+91,"TEXT_LUCKMF111_03654_A2_000_001","Fate can be cruel, but a smile better suits a hero."
+92,"TEXT_LUCKMF111_03654_A2_000_002","We must all keep looking forward, like the heroes who never gave up hope for this world."
+93,"TEXT_LUCKMF111_03654_A2_000_003","..."
+94,"TEXT_LUCKMF111_03654_RYNE_000_090","..."
+95,"TEXT_LUCKMF111_03654_RYNE_000_091","I'm not sure I─"
+96,"TEXT_LUCKMF111_03654_RYNE_000_092","...Actually, never mind. I think I'll understand better if I try it for myself."
+97,"TEXT_LUCKMF111_03654_RYNE_000_093","..."
+98,"TEXT_LUCKMF111_03654_RYNE_000_094","I'm not sure who you─"
+99,"TEXT_LUCKMF111_03654_RYNE_000_095","...Actually, never mind. I think the answer might be different for all of us."
+100,"TEXT_LUCKMF111_03654_RYNE_000_096","...I see. If I'm to become what I wish to become, then there are some answers I need to work out for myself."
+101,"TEXT_LUCKMF111_03654_RYNE_000_097","No, nothing will come of brooding here in self-pity. I've made my decision, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>─I'm going with you!"
+102,"TEXT_LUCKMF111_03654_OFFICIAL03654_000_100","<hex:024804F2022303>Welcome to the Capitol. All visitors must present an official writ of permission before admittance will be granted.<hex:0248020103>"
+103,"TEXT_LUCKMF111_03654_OFFICIAL03654_000_101","<hex:024804F2022303>Your documents appear to be in order. You may proceed into the Capitol─but any guests you may choose to bring with you must remain in your vicinity at all times.<hex:0248020103>"
+104,"TEXT_LUCKMF111_03654_Q3_000_000","What will you do?"
+105,"TEXT_LUCKMF111_03654_A3_000_001","Small talk."
+106,"TEXT_LUCKMF111_03654_A3_000_002","Form a party and enter Amaurot."
+107,"TEXT_LUCKMF111_03654_A3_000_003","Nothing."
+108,"TEXT_LUCKMF111_03654_ALPHINAUD_000_110","Just say the word, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. However harrowing the scenes that await us, they will not sway us from our course."
+109,"TEXT_LUCKMF111_03654_ALISAIE_000_115","I won't ask you to hold back─that time is long past. I'll just try to snuff out the worst of the embers before they reach you."
+110,"TEXT_LUCKMF111_03654_THANCRED_000_120","Ready when you are, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. If it's proof he wants, we'll give him a fight the likes of which he's never seen."
+111,"TEXT_LUCKMF111_03654_RYNE_000_125","I can feel it, beyond the flames...a Darkness waiting to swallow our Light."
+112,"TEXT_LUCKMF111_03654_RYNE_000_126","Wherever you are, Minfilia, watch over us and guide our steps..."
+113,"TEXT_LUCKMF111_03654_URIANGER_000_130","In those Final Days, 'tis said that monstrous beasts were set loose in the city─terrors made flesh by sorceries run rampant."
+114,"TEXT_LUCKMF111_03654_URIANGER_000_131","If Emet-Selch hath been faithful in his reconstruction, then we must be prepared to face many such abominations."
+115,"TEXT_LUCKMF111_03654_YSHTOLA_000_135","I reasoned that Emet-Selch would not harm the Exarch until he had learned the tower's secrets, but his parting words suggest otherwise."
+116,"TEXT_LUCKMF111_03654_YSHTOLA_000_136","Let us make haste. Your friend may not have the luxury of decades to wait for you this time."
+117,"TEXT_LUCKMF111_03654_A4_000_000","Proceed into Amaurot?"
+118,"TEXT_LUCKMF111_03654_ALPHINAUD_000_140","It would seem that the city celebrated long into the night...not that I would know. As embarrassing as it is to admit, I woke to find myself in the infirmary, having apparently collapsed from exhaustion."
+119,"TEXT_LUCKMF111_03654_ALPHINAUD_000_141","My aching pride was somewhat soothed by the sight of Alisaie asleep in the bed next to mine. She must have been just as weary. Long has it been since I've seen her face so peaceful in repose..."
+120,"TEXT_LUCKMF111_03654_ALPHINAUD_000_142","Ah, 'twas a rare, tranquil morning, made unforgettable by the sight of those clear blue skies."
+121,"TEXT_LUCKMF111_03654_ALISAIE_000_145","<sigh> It would seem I don't know my own limits. I had thought to push on till dawn, but my body had other plans..."
+122,"TEXT_LUCKMF111_03654_ALISAIE_000_146","Still, I did enjoy the carousing while it lasted. Even <hex:021A020203>I<hex:021A020103> need to forget my cares every now and then."
+123,"TEXT_LUCKMF111_03654_ALISAIE_000_147","What I don't need is to wake up to Alphinaud smirking at my bedside! He said my face was “a rare sight” while I slept. Gods, I hope I wasn't drooling..."
+124,"TEXT_LUCKMF111_03654_THANCRED_000_150","People came from malms around to join the festivities, but most seem to have stumbled home by now."
+125,"TEXT_LUCKMF111_03654_THANCRED_000_151","Even so, I daresay Norvrandt will echo to the sound of clinking mugs for some while yet."
+126,"TEXT_LUCKMF111_03654_THANCRED_000_152","I thought to indulge in a little revelry myself last night...until Urianger began to list all the names of my drunken conquests. I ended up drinking water. <hex:021A020203>Water<hex:021A020103>."
+127,"TEXT_LUCKMF111_03654_RYNE_000_155","Oh, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, are you well? No ill aftereffects? To my eyes, you seem completely healed. It really is a miracle..."
+128,"TEXT_LUCKMF111_03654_RYNE_000_156","Speaking of happy surprises, I was amazed to see the crowd that greeted our return! I hadn't realized just how many people we'd met along the way..."
+129,"TEXT_LUCKMF111_03654_RYNE_000_157","And did you see their smiles!? Right then and there, I vowed to do whatever I could to keep that joy from fading!"
+130,"TEXT_LUCKMF111_03654_URIANGER_000_160","The ending to this tale hath been a joyous one indeed. Myriad were the lessons learned, yet there is one of particular import..."
+131,"TEXT_LUCKMF111_03654_URIANGER_000_161","'Tis imperative that I master magicks to grant my feet purchase upon the water...or else allow me to part the sea at will."
+132,"TEXT_LUCKMF111_03654_URIANGER_000_162","I must needs visit Bismarck in due course, and scrub his teeth in thanks. Mayhap the airy arts of a faerie whale might be imparted to mortal men...? We shall see. We shall see..."
+133,"TEXT_LUCKMF111_03654_YSHTOLA_000_165","I knew the Night's Blessed were amongst the revelers, aye... But the Crystarium was so crowded, I thought it safe to speak my true name."
+134,"TEXT_LUCKMF111_03654_YSHTOLA_000_166","Poor Runar and his ilk were gripped with panic. As you may recall, 'tis customary not to reveal one's true name outside of family and ceremony..."
+135,"TEXT_LUCKMF111_03654_YSHTOLA_000_167","Yet when I hurried to explain that all present were like family, I was greeted with an outpouring of tears. <sigh> An emotional people, the Blessed..."
+136,"TEXT_LUCKMF111_03654_COINACHINVESTIGATOR03279_000_170","Oh, you've returned! Was there a lull in the fighting over there, or...?"
+137,"TEXT_LUCKMF111_03654_TATARU_000_180","But─ But─ But─!"
+138,"TEXT_LUCKMF111_03654_TATARU_000_181","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>!? Is it really you!?"
+139,"TEXT_LUCKMF111_03654_TATARU_000_182","B-B-But how? When!? We didn't think you'd be back for <hex:021A020203>ages<hex:021A020103>!"
+140,"TEXT_LUCKMF111_03654_Q5_000_000","What will you say?"
+141,"TEXT_LUCKMF111_03654_A5_000_001","Time moves in mysterious ways."
+142,"TEXT_LUCKMF111_03654_A5_000_002","Would you rather I went again?"
+143,"TEXT_LUCKMF111_03654_TATARU_000_183","Right! So it does! The reports you had delivered by that excitable little pixie said as much!"
+144,"TEXT_LUCKMF111_03654_TATARU_000_184","Oh, don't be daft! I just can't believe you're actually back!"
+145,"TEXT_LUCKMF111_03654_TATARU_000_185","We heard the good news from your pixie friend, but nothing compares to seeing you in the flesh!"
+146,"TEXT_LUCKMF111_03654_TATARU_000_186","As for the situation on this side, the imperials are still eyeing our forces from afar."
+147,"TEXT_LUCKMF111_03654_TATARU_000_187","From what I'm told, the Garlean armies have been slow to react, and seem reluctant to commit to any large-scale engagements. It's an odd sort of stalemate."
+148,"TEXT_LUCKMF111_03654_TATARU_000_188","Otherwise, we've yet to see any sign of that awful “Black Rose” weapon we were warned about..."
+149,"TEXT_LUCKMF111_03654_TATARU_000_189","Oh! But I suppose we <hex:021A020203>did<hex:021A020103> call in an old friend to help out on that count."
+150,"TEXT_LUCKMF111_03654_TATARU_000_190","Hee hee! Krile and I had a terrible time tracking him down, though it will be worth it to see the look on your face when you find out who it is!"
+151,"TEXT_LUCKMF111_03654_TATARU_000_191","Anyway, I was just about to make contact with this helper of ours, and then confirm the latest news from the front. Might you fancy having a rest while I do?"
+152,"TEXT_LUCKMF111_03654_TATARU_000_192","Ah, the Warrior of Light, back where <hex:02080CE905FF04>she<hex:FF03>he<hex:03> belongs, just as if nothing had happened! ...Though you do seem different somehow. You'll have to tell me all about your adventures when we next have a spare moment!"
+153,"TEXT_LUCKMF111_03654_TATARU_000_193","Until then, welcome back!"
+154,"TEXT_LUCKMF111_03654_ELIDIBUS_000_900","<hex:024804F2022303>Oblivion has claimed him...<hex:0248020103>"
+155,"TEXT_LUCKMF111_03654_ELIDIBUS_000_901","<hex:024804F2022303>Emet-Selch...gone. Lahabrea...gone. I alone remain─the last of the unbroken.<hex:0248020103>"
+156,"TEXT_LUCKMF111_03654_ELIDIBUS_000_902","<hex:024804F2022303>Once more, I am moved to reevaluate the potential of these tattered souls.<hex:0248020103>"
+157,"TEXT_LUCKMF111_03654_ELIDIBUS_000_903","<hex:024804F2022303>Ah, Zenos. Never did I dream you could overpower me so completely, possessed as I was of your body, and all its uncanny strength...<hex:0248020103>"
+158,"TEXT_LUCKMF111_03654_ELIDIBUS_000_904","<hex:024804F2022303>And now that I have shared with you the truth of this world and its reflections, who can predict how events will unfold? ...Not I.<hex:0248020103>"
+159,"TEXT_LUCKMF111_03654_ELIDIBUS_000_905","<hex:024804F2022303>“Emissary”... What a poor jest that title has become. The flow of history has become muddied, its currents wild beyond my capacity to direct them.<hex:0248020103>"
+160,"TEXT_LUCKMF111_03654_ELIDIBUS_000_906","<hex:024804F2022303>You have wrested the advantage, Hydaelyn. The thieving hands of Your disciples tighten their grip on our star.<hex:0248020103> "
+161,"TEXT_LUCKMF111_03654_ELIDIBUS_000_907","<hex:024804F2022303>The origins of the world remain hidden and its inhabitants ignorant of their broken existence, just as You and Your creators desired.<hex:0248020103>"
+162,"TEXT_LUCKMF111_03654_ELIDIBUS_000_908","<hex:024804F2022303>They celebrate the gift of imperfect life─uncaring, unknowing as we weaken and fade.<hex:0248020103>"
+163,"TEXT_LUCKMF111_03654_ELIDIBUS_000_909","<hex:024804F2022303>But do not imagine Yourself rid of us.<hex:0248020103>"
+164,"TEXT_LUCKMF111_03654_ELIDIBUS_000_910","<hex:024804F2022303>Though Your champion has indeed proven the most egregious obstacle to our ascendance─a barbed thorn in my side─<hex:02080CE905FF04>she<hex:FF03>he<hex:03> may yet be removed and cast into the abyss.<hex:0248020103>"
+165,"TEXT_LUCKMF111_03654_ELIDIBUS_000_911","<hex:024804F2022303>Oh yes...it can be done. I will keep these “heroes” mired in the First, and victory will be ours at the last.<hex:0248020103>"
+166,"TEXT_LUCKMF111_03654_ELIDIBUS_000_912","<hex:024804F2022303>Warriors of Darkness now, are they? Then their fate is decided.<hex:0248020103>"
+167,"TEXT_LUCKMF111_03654_ELIDIBUS_000_913","<hex:024804F2022303>They shall meet the same end as those who came before─death at the hands of Warriors of Light!<hex:0248020103>"
+168,"TEXT_LUCKMF111_03654_THANCRED_000_930","It seems you were right."
+169,"TEXT_LUCKMF111_03654_RYNE_000_931","Yes, there <hex:021A020203>is<hex:021A020103> something out there..."
+170,"TEXT_LUCKMF111_03654_THANCRED_000_932","But it would mean crossing malms and malms of this infernal emptiness. Which is rather unhealthy for living creatures, as I understand it."
+171,"TEXT_LUCKMF111_03654_THANCRED_000_933","Even were we to restrict ourselves to brief forays, I don't like to imagine the effect it would have on our aether..."
+172,"TEXT_LUCKMF111_03654_THANCRED_000_934","But...you still want to go. Don't you."
+173,"TEXT_LUCKMF111_03654_RYNE_000_935","We may have saved the world, but we haven't reclaimed it."
+174,"TEXT_LUCKMF111_03654_THANCRED_000_936","Ah, when you put it that way..."
+175,"TEXT_LUCKMF111_03654_THANCRED_000_937","...What choice do we have?"
+176,"TEXT_LUCKMF111_03654_THANCRED_000_938","Well, of <hex:021A020203>course<hex:021A020103> I'm going with you─that's what family is for, isn't it?"
+177,"TEXT_LUCKMF111_03654_THANCRED_000_939","Come. Let's head back and prepare for this mad journey of yours."
+178,"TEXT_LUCKMF111_03654_RYNE_000_940","Thank you, Thancred..."
+179,"TEXT_LUCKMF111_03654_SYSTEM_000_200","By completing the main scenario quest “Shadowbringers,” you have unlocked the <hex:024804F201F403><hex:024904F201F503>Trust<hex:0249020103><hex:0248020103> system!"
+180,"TEXT_LUCKMF111_03654_SYSTEM_000_201","Trust allows you repeat previously completed main scenario dungeons with a party of NPC avatars, who will gain EXP and level up in accordance with their duty participation."
+181,"TEXT_LUCKMF111_03654_SYSTEM_000_202","To bring up the interface, select <hex:024804F201F403><hex:024904F201F503>Trust<hex:0249020103><hex:0248020103> under <hex:024804F201F403><hex:024904F201F503>Duty<hex:0249020103><hex:0248020103> from the <hex:024804F201F403><hex:024904F201F503>main menu<hex:0249020103><hex:0248020103>. For more information, please refer to the help found within the interface itself."
+182,"TEXT_LUCKMF111_03654_SYSTEM_000_203","Furthermore, bolstered by your experiences in the First, you are now able to accept new quests from job-related NPCs in the Source. In order to access them, the following conditions must be met:"
+183,"TEXT_LUCKMF111_03654_SYSTEM_000_204","・ Reach level 80 in a given job<hex:02100103>・ Complete the relevant level 70 job quest<hex:02100103>・ Complete the associated role quest line"
+184,"TEXT_LUCKMF111_03654_SYSTEM_000_205","Quest locations and other details can be reviewed in the level 70 job quest journal entry."
+185,"TEXT_LUCKMF111_03654_SYSTEM_000_206","In addition, quests to unlock new content have now become available in the Crystarium. Rest well, Warrior of Light and Darkness, for two worlds of adventure await your return!"

@@ -2,135 +2,135 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_VOICEMAN_03006_000010_CID,總的來說，「魔大陸」是亞拉戈人所建造的人工浮游大陸。<hex:02100103>教皇和他的騎士們一定是往那裡去了。
-1,TEXT_VOICEMAN_03006_000020_AYMERIC,嗯，我大概明白情況了。
-2,TEXT_VOICEMAN_03006_000030_CID,但是問題在於，<hex:02100103>魔大陸周圍存在高濃度的乙太，<hex:02100103>過於魯莽的行動只會起到相反的效果。
-3,TEXT_VOICEMAN_03006_000040_CID,具體是什麼原理我現在還不太清楚。<hex:02100103>大概是某種力量將周圍的乙太轉化成了雷屬性，<hex:02100103>形成了一種防禦性的力場。
-4,TEXT_VOICEMAN_03006_000050_ALPHINAUD,也就是說，沒有那把鑰匙，<hex:02100103>我們就無法安全地靠近是嗎……
-5,TEXT_VOICEMAN_03006_000060_CID,鑰匙已經不在我們手裡了，<hex:02100103>想再多也沒用，<hex:02100103>不如考慮考慮不用鑰匙的方法。
-6,TEXT_VOICEMAN_03006_000070_AYMERIC,西德閣下，以您所掌握的知識來看，<hex:02100103>存在令我們強行突破的可能性嗎？
-7,TEXT_VOICEMAN_03006_000080_CID,嗯，我的確是有個想法。<hex:02100103>以前我們利用過的屬性轉換裝置這次應該同樣能夠生效，<hex:02100103>只需要把乙太的雷屬性轉移掉就可以了。
-8,TEXT_VOICEMAN_03006_000090_CID,不過，這次的規模過於巨大……<hex:02100103>單憑企業號恐怕無法承載足夠的水晶。
-9,TEXT_VOICEMAN_03006_000100_ALPHINAUD,我記得在迎戰水神利維亞桑的時候用的是巨大的雙體船，<hex:02100103>而且還不得不用其他的船來拖曳才能移動。
-10,TEXT_VOICEMAN_03006_000110_CID,簡單來說，我們無法生成一個覆蓋整艘飛空艇的防護罩。<hex:02100103>不過我們可以試試別的方法。
-11,TEXT_VOICEMAN_03006_000120_AYMERIC,別的方法？
-12,TEXT_VOICEMAN_03006_000130_CID,我們可以嘗試集中一點去突破那個力場。<hex:02100103>比如用高濃度的乙太製作成一個撞角。<hex:02100103>可是這需要專業的乙太學知識……
-13,TEXT_VOICEMAN_03006_000140_ALPHINAUD,如果拂曉的賢人能在這裡就好了……
-14,TEXT_VOICEMAN_03006_000150_EDMONT,說到賢人，昨晚塔塔露小姐好像非常興奮，<hex:02100103>據說是找到了賢人的線索。
-15,TEXT_VOICEMAN_03006_000160_ALPHINAUD,什麼？真的嗎？
-16,TEXT_VOICEMAN_03006_000170_CID,嘿嘿，看來我們的運氣不錯。<hex:02100103>尋找賢人的事就交給你們了，<hex:02100103>我這邊來對企業號進行進一步強化。
-17,TEXT_VOICEMAN_03006_000180_CID,不僅要提高船體的強度，<hex:02100103>還要為了安裝乙太撞角進行相應的改良……<hex:02100103>老夥計，等我完工，你就會煥然一新了！
-18,TEXT_VOICEMAN_03006_100010_KANESENNA,在請求森林大元靈尋找雅·修特拉小姐之前，<hex:02100103>各位需要明白一點，元靈與人類有著根本性的差異。
-19,TEXT_VOICEMAN_03006_100020_ALPHINAUD,根本性的差異？
-20,TEXT_VOICEMAN_03006_100030_KANESENNA,我們人類在識別他人的時候，<hex:02100103>首先通過外觀及聲音來對個體進行區分，<hex:02100103>之後再通過名字來加固記憶。
-21,TEXT_VOICEMAN_03006_100040_KANESENNA,但是元靈由純粹的乙太構成，<hex:02100103>是通過乙太的光芒和波動來區分個體的。
-22,TEXT_VOICEMAN_03006_100050_KANESENNA,它們的聲音並非通過空氣來傳播，<hex:02100103>人類無法聽到它們的話語，<hex:02100103>同樣，人類的語言對它們來說也不過是清風而已。
-23,TEXT_VOICEMAN_03006_100060_KANESENNA,所以，請求元靈尋找雅·修特拉小姐<hex:02100103>實在是一件很困難的事……<hex:02100103>除非能夠提供有著類似感覺的乙太波動……
-24,TEXT_VOICEMAN_03006_100070_TATARU,啊！我有一個主意！
-25,TEXT_VOICEMAN_03006_100080_TATARU,我以前聽雅·修特拉小姐提到過，<hex:02100103>她有個妹妹現在就在格里達尼亞。
-26,TEXT_VOICEMAN_03006_100090_KANESENNA,哦，那可真是太好了！<hex:02100103>如果你們能夠找到她的妹妹，<hex:02100103>請把她帶到常影區那裡。
-27,TEXT_VOICEMAN_03006_100100_KANESENNA,我們會在那裡請求大元靈幫助我們搜尋雅·修特拉小姐。
-28,TEXT_VOICEMAN_03006_200010_KANESENNA,我們開始吧。
-29,TEXT_VOICEMAN_03006_200020_KANESENNA,拉雅·奧、阿·盧恩……
-30,TEXT_VOICEMAN_03006_200030_KANESENNA,黑衣森林的元靈啊……<hex:02100103>請您融入森林的地脈之中，<hex:02100103>尋找一個彷徨至今的靈魂……
-31,TEXT_VOICEMAN_03006_200040_TATARU,雅·修特拉小姐……請回到我們身邊吧……
-32,TEXT_VOICEMAN_03006_200050_KANESENNA,找到了！
-33,TEXT_VOICEMAN_03006_200060_KANESENNA,打開地脈！
-34,TEXT_VOICEMAN_03006_200070_KANESENNA,快通知魔女咖啡館準備房間，<hex:02100103>盡快將雅·修特拉小姐護送過去！
-35,TEXT_VOICEMAN_03006_200080_KANESENNA,接下來我們能做的只有祈禱了……
-36,TEXT_VOICEMAN_03006_300010_TATARU,太好了！你終於醒過來了！
-37,TEXT_VOICEMAN_03006_300020_YSHTOLA,塔塔露……
-38,TEXT_VOICEMAN_03006_300030_TATARU,嗚嗚……
-39,TEXT_VOICEMAN_03006_300040_YSHTOLA,你沒事真是太好了……
-40,TEXT_VOICEMAN_03006_300050_YSHTOLA,阿爾菲諾大人好像有點變了？<hex:02100103>哦……也可能是我有些奇怪嗎？<hex:02100103>總覺得我比以前更能夠感受到周圍的乙太波動了。
-41,TEXT_VOICEMAN_03006_300060_ALPHINAUD,你的身體怎麼樣了？
-42,TEXT_VOICEMAN_03006_300070_YSHTOLA,我沒事了，我們等下再聊。
-43,TEXT_VOICEMAN_03006_300080_ALPHINAUD,在慶功會之後到底發生了什麼？<hex:02100103>我們聽說離開的路已經毀掉了……
-44,TEXT_VOICEMAN_03006_300090_YSHTOLA,是的，為了讓你和敏菲利亞能夠安全脫身，<hex:02100103>我破壞了地下水道，堵住了追兵的去路。
-45,TEXT_VOICEMAN_03006_300100_YSHTOLA,之後我想至少讓桑克瑞德離開那裡，<hex:02100103>便發動了古代傳送魔法……<hex:02100103>可惜我沒有控制好……被困在了地脈裡無法回到外面來。
-46,TEXT_VOICEMAN_03006_300110_YSHTOLA,說起來，敏菲利亞在哪裡？<hex:02100103>還有其他人呢？
-47,TEXT_VOICEMAN_03006_300120_ALPHINAUD,我們還沒有找到其他人的下落……<hex:02100103>你是我們找到的第一個同伴……
-48,TEXT_VOICEMAN_03006_300130_ALPHINAUD,另外，那天對你們動手的都是水晶義勇隊的人……<hex:02100103>很抱歉，都是因為我太過驕傲了才導致了這個結果……
-49,TEXT_VOICEMAN_03006_300140_YSHTOLA,你不需要道歉，阿爾菲諾大人。<hex:02100103>我反而要感謝你，是你守護住了我們的希望之光。
-50,TEXT_VOICEMAN_03006_300150_TATARU,大家一定都還活著！<hex:02100103>我、我們一定會把大家都找回來！
-51,TEXT_VOICEMAN_03006_300160_ALPHINAUD,你說得沒錯，我們一起去把大家都找回來，<hex:02100103>並且重建拂曉血盟。
-52,TEXT_VOICEMAN_03006_300170_YSHTOLA,看到你們都還挺有精神我就放心了。<hex:02100103>我也會盡快和你們一起行動。
-53,TEXT_VOICEMAN_03006_300180_TATARU,雅·修特拉小姐，我給你準備了新衣服。<hex:02100103>其實我現在正在伊修加德進行裁縫的修行！<hex:02100103>就是為了能夠在重逢之時給大家做出新的衣服！
-54,TEXT_VOICEMAN_03006_300190_YSHTOLA,我已經聽塔塔露說過情況了。<hex:02100103>暗殺女王陛下……伊修加德動亂……<hex:02100103>看起來我在地脈中飄蕩的時間比想像得要長。
-55,TEXT_VOICEMAN_03006_300200_ALPHINAUD,我們眼下的目標是前往魔大陸的教皇。
-56,TEXT_VOICEMAN_03006_300210_YSHTOLA,於是你們需要一個乙太構成的撞角，<hex:02100103>用來突破魔大陸周圍的防禦力場。
-57,TEXT_VOICEMAN_03006_300220_ALPHINAUD,沒錯，以你的乙太學知識，<hex:02100103>這種要求可以實現嗎？
-58,TEXT_VOICEMAN_03006_300230_YSHTOLA,亞拉戈的防禦力場是非常強大的，<hex:02100103>要在力場上打開一個飛空艇大小的洞<hex:02100103>可不是那麼容易的事……
-59,TEXT_VOICEMAN_03006_300240_YSHTOLA,不過她大概可以……
-60,TEXT_VOICEMAN_03006_300250_YSHTOLA,薩雷安的乙太學權威，<hex:02100103>我的老師瑪托雅。
-61,TEXT_VOICEMAN_03006_400010_EDMONT,阿巴拉提亞山脈常年積雪<hex:02100103>雪水融化為小溪流淌而下<hex:02100103>最終匯聚成波濤奔湧的沙利亞克河
-62,TEXT_VOICEMAN_03006_400020_EDMONT,這條大河滋潤了龍堡低地的環境<hex:02100103>豐富的自然資源也哺育了跨洋而來的求知之人
-63,TEXT_VOICEMAN_03006_400030_EDMONT,學術城邦薩雷安<hex:02100103>這裡曾經收藏了最深奧的知識<hex:02100103>可現在卻變成了一片廢墟……
-64,TEXT_VOICEMAN_03006_500010_MATOYA,(-？？？？-)這是誰啊吵吵鬧鬧地闖進別人住的地方。<hex:02100103>沒人教過你們敲了門再進是最基本的禮儀嗎？
-65,TEXT_VOICEMAN_03006_500020_YSHTOLA,哎呀，我們敲了啊。<hex:02100103>只不過敲的是那些不懂禮貌的使魔。
-66,TEXT_VOICEMAN_03006_500030_MATOYA,不管長多大都還是這冒冒失失的樣子。<hex:02100103>你真是一點都不可愛。
-67,TEXT_VOICEMAN_03006_500040_YSHTOLA,因為都是跟你學的啊。<hex:02100103>瑪托雅老師，好久不見了。
-68,TEXT_VOICEMAN_03006_500050_MATOYA,瘋丫頭修特拉也變成大人了。<hex:02100103>我看看，真是女大十八變啊，越長越標緻了。
-69,TEXT_VOICEMAN_03006_500060_MATOYA,後面那個……是路易索瓦的孫女吧？
-70,TEXT_VOICEMAN_03006_500070_ALPHINAUD,呃……抱歉，我是他的孫子……<hex:02100103>您認識我的祖父？
-71,TEXT_VOICEMAN_03006_500080_MATOYA,我當初也經常和認死理的路易索瓦老頭吵來吵去……<hex:02100103>說起來，當你還是個小不點的時候，我也見過你一次，<hex:02100103>看看你現在都長這麼大了。
-72,TEXT_VOICEMAN_03006_500090_ALPHINAUD,沒想到您和祖父還有過交往……<hex:02100103>看起來我應該說「好久不見」，而不是「初次見面」了吧，<hex:02100103>瑪托雅老師。
-73,TEXT_VOICEMAN_03006_500100_MATOYA,行了，客套話就免了吧。<hex:02100103>你們專程到這個偏僻角落裡來找我，<hex:02100103>肯定是遇到了你們這些小毛孩處理不了的問題了吧。
-74,TEXT_VOICEMAN_03006_500110_MATOYA,魔大陸……<hex:02100103>真沒想到我到了這把年紀竟然還能再次聽到這個名字。
-75,TEXT_VOICEMAN_03006_500120_YSHTOLA,你知道這個地方？
-76,TEXT_VOICEMAN_03006_500130_MATOYA,我也只是在古書上看到過而已。<hex:02100103>古代亞拉戈帝國在末期創造的人工浮游大陸……<hex:02100103>我和路易索瓦老頭也經常討論這塊大陸。
-77,TEXT_VOICEMAN_03006_500140_MATOYA,據記載，那裡是創造禁忌技術的試驗場。<hex:02100103>亞拉戈帝國在那裡研究如何征服龍族<hex:02100103>及蠻神等擁有強大力量的威脅。
-78,TEXT_VOICEMAN_03006_500150_MATOYA,這塊大陸上充滿了未知的危險和禁忌的知識……<hex:02100103>我真沒想到會有人蠢到親自前往那裡……
-79,TEXT_VOICEMAN_03006_500160_ALPHINAUD,所以我們才更需要去追上他們。<hex:02100103>現在無影也參與到這件事裡來了，<hex:02100103>無論付出什麼代價，我們都必須阻止事態的進一步發展。
-80,TEXT_VOICEMAN_03006_500170_MATOYA,好吧，我知道了。
-81,TEXT_VOICEMAN_03006_500180_YSHTOLA,誒？你居然會這麼乾脆地就答應啦。<hex:02100103>被年輕人的熱血所打動了？
-82,TEXT_VOICEMAN_03006_500190_MATOYA,你這臭丫頭的毛病是改不掉了……<hex:02100103>小心將來被人抓住小尾巴，到時候可別怪我沒提醒過你。
-83,TEXT_VOICEMAN_03006_600010_MATOYA,大概是50多年前吧……<hex:02100103>就在加雷馬帝國將北洲伊爾薩巴德全部納入版圖之後。
-84,TEXT_VOICEMAN_03006_600020_MATOYA,帝國的侵略速度是有目共睹的。<hex:02100103>薩雷安國內為了將來能夠抵抗帝國入侵開始研究對策，<hex:02100103>我當時便接到了研究乙太收束器的任務。
-85,TEXT_VOICEMAN_03006_600030_YSHTOLA,將大氣中漂浮的乙太集中壓縮到一點，<hex:02100103>從而獲得強大的力量，<hex:02100103>這種儀器非常厲害呢。
-86,TEXT_VOICEMAN_03006_600040_MATOYA,只可惜……就在我的研究快要完成的時候，<hex:02100103>哲學家議會的那群傢伙指責<hex:02100103>說我研究的是一種大規模殺傷性武器。
-87,TEXT_VOICEMAN_03006_600050_MATOYA,於是我一怒之下便將所有的研究成果都封印了起來。<hex:02100103>我當時想著：「等加雷馬帝國真的侵略過來，<hex:02100103>大家就一起見鬼去吧！」
-88,TEXT_VOICEMAN_03006_600060_YSHTOLA,你不是總說「技術只是單純的學問，重要的是使用技術的人」嗎？
-89,TEXT_VOICEMAN_03006_600070_MATOYA,哼，那群頑固不化的傢伙一開始就打算逃跑了。<hex:02100103>我一想到他們用冠冕堂皇的話做出「大撤退」的決定就想吐，<hex:02100103>所以才會一個人留在了這裡。
-90,TEXT_VOICEMAN_03006_600080_ALPHINAUD,呵呵，這一點和我祖父的想法是一樣的。
-91,TEXT_VOICEMAN_03006_600090_YSHTOLA,既然提到了這些，<hex:02100103>那就說明你肯為我們解開這些成果的封印了？
-92,TEXT_VOICEMAN_03006_600100_MATOYA,沒錯，你們去薩雷安的幻想圖書館吧，<hex:02100103>我的研究成果就保存在最深處的禁書庫裡。
-93,TEXT_VOICEMAN_03006_600110_YSHTOLA,竟然封印在那裡……<hex:02100103>但是無所謂了，雖然那裡現在可能還有衛兵看守，<hex:02100103>不過憑我們的實力應該是沒有問題的。
-94,TEXT_VOICEMAN_03006_600120_MATOYA,等等！<hex:02100103>要進去還得先做些準備。
-95,TEXT_VOICEMAN_03006_600130_MATOYA,
-96,TEXT_VOICEMAN_03006_610010_ALPHINAUD,這下論文就到手了。
-97,TEXT_VOICEMAN_03006_610020_ALPHINAUD,我們趕快回去找瑪托雅老師吧。
-98,TEXT_VOICEMAN_03006_700010_MATOYA,在我有生之年竟然還能再次看到這篇論文……
-99,TEXT_VOICEMAN_03006_700020_MATOYA,為了防止研究內容被別人擅自使用，我稍微做了點手腳。<hex:02100103>現在暗號魔法已經解除了，<hex:02100103>你們的機械師朋友應該也能看懂裡面的內容了。
-100,TEXT_VOICEMAN_03006_700030_MATOYA,不過，就算明白了整個理論，<hex:02100103>要構成乙太之槍也需要大量的乙太才行。<hex:02100103>你們準備怎麼去收集這麼多的乙太？
-101,TEXT_VOICEMAN_03006_700040_ALPHINAUD,這一點上西德好像也很擔心。<hex:02100103>他的飛空艇本身也沒法運載太多的水晶。
-102,TEXT_VOICEMAN_03006_700050_YSHTOLA,要是有白聖石和乙太提取器的話或許可以解決這個問題……
-103,TEXT_VOICEMAN_03006_700060_ALPHINAUD,可這兩件物品都在敏菲利亞手裡，<hex:02100103>我們卻不知道她現在在哪……<hex:02100103>穆恩布瑞達也已經離開了我們……
-104,TEXT_VOICEMAN_03006_700070_YSHTOLA,大量的乙太……魔力之源……
-105,TEXT_VOICEMAN_03006_700080_ALPHINAUD,魔力之源？<hex:02100103>對啊！我之前怎麼沒想到！
-106,TEXT_VOICEMAN_03006_700090_ALPHINAUD,我們已經有合適的替代品了！<hex:02100103>就是「龍眼」啊！
-107,TEXT_VOICEMAN_03006_700100_ALPHINAUD,七大天龍已經活過了上萬年之久，<hex:02100103>龍眼內也儲存有上萬年的乙太，<hex:02100103>是名副其實的魔力之源啊。
-108,TEXT_VOICEMAN_03006_700110_MATOYA,嗯……確實在理論上是可能的。<hex:02100103>可是你們能夠隨意從「龍眼」中提取乙太？
-109,TEXT_VOICEMAN_03006_700120_ALPHINAUD,我相信伊修加德的蒼天之龍騎士可以辦到。
-110,TEXT_VOICEMAN_03006_700130_YSHTOLA,看來事情有眉目了，<hex:02100103>事不宜遲，我們趕快回伊修加德去吧。
-111,TEXT_VOICEMAN_03006_700140_MATOYA,修特拉，等一下。
-112,TEXT_VOICEMAN_03006_700150_MATOYA,你的眼睛……是什麼時候開始看不見的？
-113,TEXT_VOICEMAN_03006_700160_YSHTOLA,我就知道肯定瞞不過你……<hex:02100103>可能是用了古代魔法的後遺症吧。<hex:02100103>上次傳送之後就變成現在的樣子了。
-114,TEXT_VOICEMAN_03006_700170_MATOYA,真是個蠢孩子……<hex:02100103>不管你有什麼樣的理由，<hex:02100103>發動禁術魔法都是不明智的行為。
-115,TEXT_VOICEMAN_03006_700180_YSHTOLA,我和敏菲利亞有約定，<hex:02100103>要守護我們的希望之光……<hex:02100103>所以我只是做了該做的事而已。
-116,TEXT_VOICEMAN_03006_700190_YSHTOLA,而且，遊蕩在地脈之中也是個很不錯的體驗呢。<hex:02100103>恐怕這輩子只有這一次了吧。
-117,TEXT_VOICEMAN_03006_700200_MATOYA,相信不用我多說你也明白，<hex:02100103>僅靠感受乙太流動來觀察事物會消耗大量的魔力，<hex:02100103>你一定要保重自己的身體，知道了嗎？
-118,TEXT_VOICEMAN_03006_700210_YSHTOLA,我會的，謝謝你，瑪托雅老師。
-119,TEXT_VOICEMAN_03006_800010_YSHTOLA,真是太不可思議了……<hex:02100103>我對伊修加德的印象還停留在從不讓任何外人進入國門……
-120,TEXT_VOICEMAN_03006_800020_YSHTOLA,可現在，<hex:02100103>我們竟然要為同一個目的共同奮戰……<hex:02100103>你果然是能夠為人類帶來希望的明燈。
-121,TEXT_VOICEMAN_03006_800030_ESTINIEN,不用說那些沒用的了，<hex:02100103>這傢伙和我都不是為了你說的那些話去戰鬥的。
-122,TEXT_VOICEMAN_03006_800040_YSHTOLA,哎？<hex:02100103>就接受一下我的謝意不也是挺好的嘛。
-123,TEXT_VOICEMAN_03006_800050_ESTINIEN,哼，真是個悠閒的人。<hex:02100103>這場戰鬥對於我們伊修加德人有著重大的意義，<hex:02100103>是為了斬斷千年的因果而進行的戰鬥。
-124,TEXT_VOICEMAN_03006_800060_ESTINIEN,魔大陸……<hex:02100103>我會親手在那裡將一切做個了結。
-125,TEXT_VOICEMAN_03006_800070_YSHTOLA,我並不想否定你們的思想，<hex:02100103>如果我剛才的話有所冒犯，那我表示歉意。<hex:02100103>不過……你手中的龍眼至今仍在發出仇恨的火焰。
-126,TEXT_VOICEMAN_03006_800080_ESTINIEN,收起那些廢話吧。<hex:02100103>我會在被吞噬之前先把龍眼所有的力量吞噬掉。
-127,TEXT_VOICEMAN_03006_800090_URIANGER,十二神保佑，你們還沒有動身……<hex:02100103>不枉我越過荒野和雪山來到這裡……
-128,TEXT_VOICEMAN_03006_800100_URIANGER,請收下這個……
-129,TEXT_VOICEMAN_03006_800110_YSHTOLA,這是……白聖石？
-130,TEXT_VOICEMAN_03006_800120_URIANGER,這是在穆恩布瑞達留在石之家的遺物中發現的。<hex:02100103>聰明如她總是會留下一件備用品。
-131,TEXT_VOICEMAN_03006_800130_URIANGER,混沌的使者奪走了我所愛之人的生命。<hex:02100103>而現在他們就在目的地等待你們的前往……<hex:02100103>請你們親手……為穆恩布瑞達報仇……
+0,"TEXT_VOICEMAN_03006_000010_CID","...In summary, the isle owes its lofty position to the industry of the Allagans. And we can be all but certain that the archbishop and his cronies are enjoying the view from its top."
+1,"TEXT_VOICEMAN_03006_000020_AYMERIC","I see."
+2,"TEXT_VOICEMAN_03006_000030_CID","If we are to join them, we will first need to pass through the isle's aetheric barrier─which is, alas, more powerful than most. Powerful enough to make a mess of a perfectly good airship, at any rate..."
+3,"TEXT_VOICEMAN_03006_000040_CID","As far as I can gather, the barrier mechanism draws aether from the surrounding environment, and polarizes its elemental aspect to produce what is, in effect, a wall of lightning."
+4,"TEXT_VOICEMAN_03006_000050_ALPHINAUD","It seems plain that without the Vanu's key, any attempt to reach the isle will end in failure."
+5,"TEXT_VOICEMAN_03006_000060_CID","Alas, the key was careless enough to leave without us, and I don't think the Vanu keep a spare."
+6,"TEXT_VOICEMAN_03006_000070_AYMERIC","Master Garlond─based on your experience, is there no other way that we might breach the barrier?"
+7,"TEXT_VOICEMAN_03006_000080_CID","Well, in the past, we've beaten similar barriers by nullifying them with elemental converters."
+8,"TEXT_VOICEMAN_03006_000090_CID","But the one we're up against this time dwarfs aught we've encountered before. The <hex:021A020203>Enterprise<hex:021A020103> simply isn't large enough to bear the requisite amount of crystals."
+9,"TEXT_VOICEMAN_03006_000100_ALPHINAUD","I am reminded of the quantity needed to nullify Leviathan's command of the sea... A veritable mountain of crystals that could only be borne by lashing two galleons together to form a “twin vessel” scarcely able to propel itself, much less fly."
+10,"TEXT_VOICEMAN_03006_000110_CID","That said, we're not without options. If it isn't feasible to nullify the barrier, we might try <hex:021A020203>piercing<hex:021A020103> it."
+11,"TEXT_VOICEMAN_03006_000120_AYMERIC","How?"
+12,"TEXT_VOICEMAN_03006_000130_CID","We create a ram of condensed aether and mount it on my ship. There's just one problem─I don't have the faintest idea how to build one. It's going to take a true authority in the field, I reckon."
+13,"TEXT_VOICEMAN_03006_000140_ALPHINAUD","Would that the Archons were still with us..."
+14,"TEXT_VOICEMAN_03006_000150_EDMONT","But yesterday evening, I chanced to find Mistress Tataru in unusually high spirits. Assuming I understood her excited ramblings correctly, she has acquired a clue pointing to the whereabouts of one such individual."
+15,"TEXT_VOICEMAN_03006_000160_ALPHINAUD","An Archon!? Truly!?"
+16,"TEXT_VOICEMAN_03006_000170_CID","Hah, fortune favors the righteous, eh? Well then, let's not waste any time. While you go and look for our missing friend, I'll work on modifying the <hex:021A020203>Enterprise<hex:021A020103>. Her hull will need reinforcing to bear the punishment, not to mention a mount for the ram."
+17,"TEXT_VOICEMAN_03006_000180_CID","Just you wait, my pretty─by the time I'm finished, you'll be an airship reborn!"
+18,"TEXT_VOICEMAN_03006_100010_KANESENNA","In requesting the elementals' assistance to find Y'shtola, you must needs be aware of one difficulty─a difficulty born of the fundamental difference between man and elemental."
+19,"TEXT_VOICEMAN_03006_100020_ALPHINAUD","That being...?"
+20,"TEXT_VOICEMAN_03006_100030_KANESENNA","In perceiving the world around him, man relies upon senses such as sight and sound. For the sake of convenience, he gives names to such things as are near or dear to him."
+21,"TEXT_VOICEMAN_03006_100040_KANESENNA","Being formed of pure aether, however, such concepts are foreign to the elementals. Instead, they perceive by observing the ebb and flow of the energies of life."
+22,"TEXT_VOICEMAN_03006_100050_KANESENNA","So profound a division cannot be bridged with simple discourse. The elementals' voices stir not the air, and thus reach not our ears, while our words are but wind to them."
+23,"TEXT_VOICEMAN_03006_100060_KANESENNA","Though we seers can commune with them through feelings, naught that we can impart will serve to aid them in identifying Y'shtola. Nay, they must needs be presented with aether which is akin to hers. If you could but find a family member..."
+24,"TEXT_VOICEMAN_03006_100070_TATARU","Oh, I know just the person!"
+25,"TEXT_VOICEMAN_03006_100080_TATARU","Y'shtola has a sister who came to live in Gridania. She told me about her once."
+26,"TEXT_VOICEMAN_03006_100090_KANESENNA","That is most fortunate indeed! Pray seek this sister out, then, and bring her to Everschade."
+27,"TEXT_VOICEMAN_03006_100100_KANESENNA","There, we shall petition the great ones' aid in finding your lost companion."
+28,"TEXT_VOICEMAN_03006_200010_KANESENNA","Let us begin."
+29,"TEXT_VOICEMAN_03006_200020_KANESENNA","Raya-O, A-Ruhn─if you would."
+30,"TEXT_VOICEMAN_03006_200030_KANESENNA","Hearken to me, O great ones. Pray give yourselves to the Lifestream, a drifting soul to find."
+31,"TEXT_VOICEMAN_03006_200040_TATARU","Please, Y'shtola... Please come back to us..."
+32,"TEXT_VOICEMAN_03006_200050_KANESENNA","There!"
+33,"TEXT_VOICEMAN_03006_200060_KANESENNA","Now!"
+34,"TEXT_VOICEMAN_03006_200070_KANESENNA","A room has been readied at the Roost. Pray bear her thither at once."
+35,"TEXT_VOICEMAN_03006_200080_KANESENNA","All that remains is to pray, my friends."
+36,"TEXT_VOICEMAN_03006_300010_TATARU","Y'shtola! I'm so glad you're back!"
+37,"TEXT_VOICEMAN_03006_300020_YSHTOLA","Tataru..."
+38,"TEXT_VOICEMAN_03006_300030_TATARU","Weahhh! Weahhh!"
+39,"TEXT_VOICEMAN_03006_300040_YSHTOLA","You are safe... Thank the Twelve."
+40,"TEXT_VOICEMAN_03006_300050_YSHTOLA","Something has changed about you, Alphinaud. Or mayhap the change is with me? I seem to sense the aether around me more keenly than before."
+41,"TEXT_VOICEMAN_03006_300060_ALPHINAUD","I am pleased to see you well again. Do you feel strong enough to talk?"
+42,"TEXT_VOICEMAN_03006_300070_YSHTOLA","Worry not. I am well enough."
+43,"TEXT_VOICEMAN_03006_300080_ALPHINAUD","Tell us, then─what befell you after you fled the feast? We were told that there had been a tunnel collapse."
+44,"TEXT_VOICEMAN_03006_300090_YSHTOLA","That was my doing. I brought the tunnel down that you and Minfilia might escape."
+45,"TEXT_VOICEMAN_03006_300100_YSHTOLA","At the last moment, I invoked a teleportation magick in hopes of spiriting Thancred away, at least. Needless to say, it did not go quite as planned, and I found myself adrift in the Lifestream."
+46,"TEXT_VOICEMAN_03006_300110_YSHTOLA","The others─where are they? Did they not escape?"
+47,"TEXT_VOICEMAN_03006_300120_ALPHINAUD","They remain unaccounted for. You are the only one we have been able to find."
+48,"TEXT_VOICEMAN_03006_300130_ALPHINAUD","I am truly sorry. It was the Crystal Braves who pursued you that day─my hubris that led to our undoing."
+49,"TEXT_VOICEMAN_03006_300140_YSHTOLA","No apologies are necessary, Alphinaud─you are not to blame for what occurred. Know that were our comrades here, they would commend you for keeping the light of hope alive."
+50,"TEXT_VOICEMAN_03006_300150_TATARU","Don't...don't worry! The others are alive and well, I'm sure of it! We just need to find them!"
+51,"TEXT_VOICEMAN_03006_300160_ALPHINAUD","Indeed, Tataru. Let us find our friends and rebuild the Scions."
+52,"TEXT_VOICEMAN_03006_300170_YSHTOLA","Ha! There is the Alphinaud I remember─and I feel much the better for his return! 'Tis time I arose!"
+53,"TEXT_VOICEMAN_03006_300180_TATARU","That reminds me! I have a change of clothes for you! I don't like to boast, but I made them myself. I learned how to weave while we were in Ishgard, you see."
+54,"TEXT_VOICEMAN_03006_300190_YSHTOLA","Tataru has apprised me of all that took place in the aftermath of the assassination plot. It would seem I have been away for some while."
+55,"TEXT_VOICEMAN_03006_300200_ALPHINAUD","Yes, much and more happened during your absence. At present, we seek to follow the archbishop to Azys Lla."
+56,"TEXT_VOICEMAN_03006_300210_YSHTOLA","And you want for some manner of aetheric ram to pierce the floating isle's protective barrier."
+57,"TEXT_VOICEMAN_03006_300220_ALPHINAUD","We do. Might you be able to furnish us with one?"
+58,"TEXT_VOICEMAN_03006_300230_YSHTOLA","A means to prise open a hole in an Allagan barrier─and one large enough to admit an airship, no less... Hm... Nay. I lack the knowledge to devise such a weapon."
+59,"TEXT_VOICEMAN_03006_300240_YSHTOLA","...But I know of one who could."
+60,"TEXT_VOICEMAN_03006_300250_YSHTOLA","A leading figure in the field of aetheric research, and one of the finest scholars ever to grace Sharlayan─Matoya, my former master."
+61,"TEXT_VOICEMAN_03006_400010_EDMONT","To the Thaliak River, whereto the melted snows of Abalathia's Spine<hex:02100103>eventually find their way by means of a thousand silver streams..."
+62,"TEXT_VOICEMAN_03006_400020_EDMONT","Whose waters have long nourished the Dravanian hinterlands, and so provided<hex:02100103>for a settlement of learned souls from across the northern seas..."
+63,"TEXT_VOICEMAN_03006_400030_EDMONT","To the city of Sharlayan, that great seat of knowledge,<hex:02100103>now abandoned by her keepers, they came."
+64,"TEXT_VOICEMAN_03006_500010_MATOYA","Don't you know it's rude to enter without knocking? Hmph, the youth of today─no manners at all..."
+65,"TEXT_VOICEMAN_03006_500020_YSHTOLA","Though we neglected to knock, we <hex:021A020203>did<hex:021A020103> create something of a commotion. I had hoped that would suffice."
+66,"TEXT_VOICEMAN_03006_500030_MATOYA","Heavy-handed as ever, I see. And still not a hint of grace. Some things never change."
+67,"TEXT_VOICEMAN_03006_500040_YSHTOLA","To give credit where credit is due─I learned from the best. It has been too long, Master Matoya."
+68,"TEXT_VOICEMAN_03006_500050_MATOYA","Indeed it has. It's good to see you again, my girl, and with your fiery spirit unquenched. But look at you─all grown up and womanly."
+69,"TEXT_VOICEMAN_03006_500060_MATOYA","...The one there in the fancy duds─that's Louisoix's granddaughter, I take it?"
+70,"TEXT_VOICEMAN_03006_500070_ALPHINAUD","Ahem. Grandson, begging your pardons. You knew my grandfather, my lady?"
+71,"TEXT_VOICEMAN_03006_500080_MATOYA","...Knew him? We were constantly at each other's throats! Like rabid dogs, we were! He was a stubborn bugger, was your grandfather. Never a dull moment when he was around, though, I'll give him that. As for you, boy, I've known you since you were a rosy-cheeked babe at the teat."
+72,"TEXT_VOICEMAN_03006_500090_ALPHINAUD","And my sister, too, I gather. May I say what an honor it is to meet you again, my lady."
+73,"TEXT_VOICEMAN_03006_500100_MATOYA","Spare me the hollow pleasantries, boy. I'll wager my remaining good teeth you didn't come to a forgotten corner of Eorzea to flirt with a wrinkly old woman. Now, out with it─what is it you need of me?"
+74,"TEXT_VOICEMAN_03006_500110_MATOYA","Azys Lla... I never thought I'd hear that name again..."
+75,"TEXT_VOICEMAN_03006_500120_YSHTOLA","You are familiar with it?"
+76,"TEXT_VOICEMAN_03006_500130_MATOYA","As familiar as one can get from poring over musty old tomes. The Allagans set the isle afloat not long before the sun set on their empire. Old Louisoix and I often talked about it."
+77,"TEXT_VOICEMAN_03006_500140_MATOYA","The place is home to a research facility dedicated to finding ways of mastering mighty beings such as primals and dragons. And find ways it did, too─<hex:021A020203>frightening<hex:021A020103> ones."
+78,"TEXT_VOICEMAN_03006_500150_MATOYA","Such secrets as lie buried on Azys Lla aren't fit to see the light of day. And now you tell me a band of dragon-baiting primal-botherers are trying to dig them up!?"
+79,"TEXT_VOICEMAN_03006_500160_ALPHINAUD","Indeed. And to make matters worse, the Ascians have a hand in their plot. They must be stopped, no matter the cost."
+80,"TEXT_VOICEMAN_03006_500170_MATOYA","I see. Very well."
+81,"TEXT_VOICEMAN_03006_500180_YSHTOLA","You will help us, then? Truly? I had not anticipated such an impassioned response. Could it be that the presence of young blood has stirred your own?"
+82,"TEXT_VOICEMAN_03006_500190_MATOYA","Ah, some things never change... One day, that pertness is going to cost you your tail, my girl. Don't say I didn't warn you."
+83,"TEXT_VOICEMAN_03006_600010_MATOYA","'Twas some fifty years ago, shortly after Garlemald had brought all of Ilsabard under its rule."
+84,"TEXT_VOICEMAN_03006_600020_MATOYA","Faced with the threat of invasion, the people of Sharlayan scrambled about for a means to resist the Empire. For my part, I was tasked with developing an aetheric converger."
+85,"TEXT_VOICEMAN_03006_600030_YSHTOLA","Ah, yes, a device which draws in aether and concentrates it to produce a destructive force."
+86,"TEXT_VOICEMAN_03006_600040_MATOYA","But as my research neared its end, it was denounced by the Forum, who claimed that my device was more likely to destroy us than our enemies."
+87,"TEXT_VOICEMAN_03006_600050_MATOYA","After that, they and I had a little falling-out, and I decided to seal away all the fruits of my research, lest the dunderheaded ingrates reap any benefit. Petty, I know, but gods, it was satisfying!"
+88,"TEXT_VOICEMAN_03006_600060_YSHTOLA","Do mine ears deceive? 'Twas you, was it not, who was so fond of saying that all knowledge exists to advance mankind? That how it is used depends on us?"
+89,"TEXT_VOICEMAN_03006_600070_MATOYA","I don't remember. Perhaps. All right, yes, that was a pet phrase of mine. And that should give you a notion of how sick and tired I was of those spineless wretches of the Forum. All talk and no trousers, that lot. That's why I decided to remain behind rather than join the exodus."
+90,"TEXT_VOICEMAN_03006_600080_ALPHINAUD","You may have had your disagreements with my grandfather, but upon that point, your minds were as one."
+91,"TEXT_VOICEMAN_03006_600090_YSHTOLA","With respect, Master─the fruits of your research should not be left to spoil. Will you share with us the secrets of the aetheric converger?"
+92,"TEXT_VOICEMAN_03006_600100_MATOYA","Aye, I will. All the information you need is contained in a tome I wrote on the subject. But you'll have to fetch it from the forbidden section of the Great Library."
+93,"TEXT_VOICEMAN_03006_600110_YSHTOLA","You were not exaggerating when you said that you had sealed it away. Though the city is abandoned, the library's guardians are all but certain to remain. We must needs cut a path through them. Come─let us away."
+94,"TEXT_VOICEMAN_03006_600120_MATOYA","Not so fast! You don't expect that you can just waltz on in, now, do you?"
+95,"TEXT_VOICEMAN_03006_600130_MATOYA",""
+96,"TEXT_VOICEMAN_03006_610010_ALPHINAUD","So this is the tome. Excellent."
+97,"TEXT_VOICEMAN_03006_610020_ALPHINAUD","Let us take it to Master Matoya at once."
+98,"TEXT_VOICEMAN_03006_700010_MATOYA","I had not thought to behold this tome again..."
+99,"TEXT_VOICEMAN_03006_700020_MATOYA","There. It is deciphered. Now your friend should be able to make sense of the contents."
+100,"TEXT_VOICEMAN_03006_700030_MATOYA","That said, it's one thing to understand the workings of the aetheric converger, and another to actually make it work. You do realize how much aether is required?"
+101,"TEXT_VOICEMAN_03006_700040_ALPHINAUD","Cid is keenly aware of the energy dilemma. His airship is by no means large, and it can only bear a limited quantity of crystals."
+102,"TEXT_VOICEMAN_03006_700050_YSHTOLA","If only we had white auracite and the aetheric siphon..."
+103,"TEXT_VOICEMAN_03006_700060_ALPHINAUD","Alas, Minfilia is missing, along with both artifacts. And Moenbryda is gone..."
+104,"TEXT_VOICEMAN_03006_700070_YSHTOLA","Would that there were another ready wellspring of energy for us to draw upon..."
+105,"TEXT_VOICEMAN_03006_700080_ALPHINAUD","Why did it not occur to us before?"
+106,"TEXT_VOICEMAN_03006_700090_ALPHINAUD","We already have what we need: the Eye!"
+107,"TEXT_VOICEMAN_03006_700100_ALPHINAUD","It has been drawing aether into itself for as long as the great wyrms have lived! It is a veritable wellspring of energy!"
+108,"TEXT_VOICEMAN_03006_700110_MATOYA","Hm, it might just suit our needs. But is this energy something that can be harnessed at will?"
+109,"TEXT_VOICEMAN_03006_700120_ALPHINAUD","I believe so─with the aid of the Azure Dragoon of Ishgard."
+110,"TEXT_VOICEMAN_03006_700130_YSHTOLA","Then it is settled. Let us return to the Holy See at once."
+111,"TEXT_VOICEMAN_03006_700140_MATOYA","Shtola, wait."
+112,"TEXT_VOICEMAN_03006_700150_MATOYA","When did the light fade from your eyes?"
+113,"TEXT_VOICEMAN_03006_700160_YSHTOLA","I might have known that it would not escape your notice. It has been this way since I returned from the Lifestream. An aftereffect of the teleportation magick I invoked, most like."
+114,"TEXT_VOICEMAN_03006_700170_MATOYA","They are called “forbidden spells” for a reason. What were you thinking, girl?"
+115,"TEXT_VOICEMAN_03006_700180_YSHTOLA","I have no regrets. I but did what was necessary to preserve the light of hope─to keep my promise to Minfilia."
+116,"TEXT_VOICEMAN_03006_700190_YSHTOLA","Besides, it afforded me the rare opportunity to wander the aether─a once-in-a-lifetime experience."
+117,"TEXT_VOICEMAN_03006_700200_MATOYA","I need not tell you that it consumes your very life force to see by sensing the aether around you. Take care of yourself, do you hear me?"
+118,"TEXT_VOICEMAN_03006_700210_YSHTOLA","I will, Master Matoya. And thank you."
+119,"TEXT_VOICEMAN_03006_800010_YSHTOLA","Until but recently, the Ishgardians had kept their doors firmly shut to outsiders."
+120,"TEXT_VOICEMAN_03006_800020_YSHTOLA","But thanks to you, we have found in them stout allies, with whom we may fight to secure the future of the realm. Truly, you are the beacon of hope towards which all men are drawn."
+121,"TEXT_VOICEMAN_03006_800030_ESTINIEN","Spare us the hyperbole. 'Tis not for praise that we fight."
+122,"TEXT_VOICEMAN_03006_800040_YSHTOLA","Oh? In light of all we have achieved, I felt it only meet to express my gratitude."
+123,"TEXT_VOICEMAN_03006_800050_ESTINIEN","All that we have achieved? Hmph. Spoken like a true outsider. Until the war is over, we have achieved nothing."
+124,"TEXT_VOICEMAN_03006_800060_ESTINIEN","The coming battle is a chance to excise the root of this conflict, and by my hand, it shall be done. <hex:021A020203>Then<hex:021A020103> you may speak of achievement."
+125,"TEXT_VOICEMAN_03006_800070_YSHTOLA","'Twas not mine intent to make light of your struggle. If I have given offense, then I apologize. But if I may speak freely, you would do well to be wary of the Eye. Even now, it burns with insatiable hatred, watching unblinking for a sign of weakness. Should you falter for so much as a moment, it will surely consume you."
+126,"TEXT_VOICEMAN_03006_800080_ESTINIEN","Save your concern. I will consume the Eye ere I let it consume me."
+127,"TEXT_VOICEMAN_03006_800090_URIANGER","Twelve be praised, thou hast not yet set forth!"
+128,"TEXT_VOICEMAN_03006_800100_URIANGER","'Cross sand and snow have I journeyed, that I might deliver this gift unto thee."
+129,"TEXT_VOICEMAN_03006_800110_YSHTOLA","White auracite... But whence did it come?"
+130,"TEXT_VOICEMAN_03006_800120_URIANGER","To mine amazement, it lay hid amongst Moenbryda's last effects. 'Twas but blind chance, or providence, that I did hap to spy it. Let no man claim that my late friend e'er erred for lack of foresight."
+131,"TEXT_VOICEMAN_03006_800130_URIANGER","In the place whither thou goest, servants of Darkness do lie in wait. Pray give unto me thy pledge that thou wilt strike them down and avenge our fallen comrade."

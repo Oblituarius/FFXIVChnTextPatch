@@ -2,191 +2,191 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_BANMAM001_05255_SEQ_00,<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整（限定職業）<hex:0249020103><hex:0248020103><hex:02100103>瑪穆克的高圖加想去跟某人打個招呼。
-1,TEXT_BANMAM001_05255_SEQ_01,※本任務為<hex:024804F201FC03><hex:024904F201FD03><hex:0249020103><hex:0248020103> 等級調整（限定職業）任務，<hex:02100103>　需要與接受任務時的職業相同才可繼續進行任務。<hex:02100103><hex:02100103>和高圖加進行了交談，得知從薩雷安來了一位研究員。和亞克特爾樹海加提卡海心的昂吉兒談談。
-2,TEXT_BANMAM001_05255_SEQ_02,和昂吉兒進行了交談，在如烏加的提議下決定請朵普羅族幫忙。前往瑪穆克查看如烏加的情況。
-3,TEXT_BANMAM001_05255_SEQ_03,和如烏加進行了交談。在瑪穆克幫忙說服聚集過來的朵普羅族。
-4,TEXT_BANMAM001_05255_SEQ_04,成功說服了聚集過來的朵普羅族。為了招募更多的協助者，和瑪穆克的卡給加談談。
-5,TEXT_BANMAM001_05255_SEQ_05,和卡給加進行了交談。協助者已找齊，和加提卡海心的昂吉兒談談。
-6,TEXT_BANMAM001_05255_SEQ_06,和昂吉兒進行了交談。採集用來改善田地土質的材料，交給加提卡海心的昂吉兒。
-7,TEXT_BANMAM001_05255_SEQ_07,瑪穆克南邊的土地被開墾成田地，建立起了一座恆彩農園。農園將以如烏加和昂吉兒為中心，從零開始發展壯大。為了讓瑪穆克成為輝鱗族理想的故鄉，協助恆彩農園發展下去。
-8,TEXT_BANMAM001_05255_SEQ_08,
-9,TEXT_BANMAM001_05255_SEQ_09,
-10,TEXT_BANMAM001_05255_SEQ_10,
-11,TEXT_BANMAM001_05255_SEQ_11,
-12,TEXT_BANMAM001_05255_SEQ_12,
-13,TEXT_BANMAM001_05255_SEQ_13,
-14,TEXT_BANMAM001_05255_SEQ_14,
-15,TEXT_BANMAM001_05255_SEQ_15,
-16,TEXT_BANMAM001_05255_SEQ_16,
-17,TEXT_BANMAM001_05255_SEQ_17,
-18,TEXT_BANMAM001_05255_SEQ_18,
-19,TEXT_BANMAM001_05255_SEQ_19,
-20,TEXT_BANMAM001_05255_SEQ_20,
-21,TEXT_BANMAM001_05255_SEQ_21,
-22,TEXT_BANMAM001_05255_SEQ_22,
-23,TEXT_BANMAM001_05255_SEQ_23,
-24,TEXT_BANMAM001_05255_TODO_00,和昂吉兒對話
-25,TEXT_BANMAM001_05255_TODO_01,和如烏加對話
-26,TEXT_BANMAM001_05255_TODO_02,和幾位朵普羅族對話
-27,TEXT_BANMAM001_05255_TODO_03,和卡給加對話
-28,TEXT_BANMAM001_05255_TODO_04,和昂吉兒對話
-29,TEXT_BANMAM001_05255_TODO_05,<hex:0208F2012BE4E80511FF61><hex:02085DE3E802E803FF35>在白燼古戰場附近的石場採取<hex:02280AFF05>Item<hex:E8060103><hex:FF20>將<hex:02280AFF05>Item<hex:E8060103>交給昂吉兒<hex:03><hex:FFC4><hex:0208C0E4E80512FF61><hex:02085DE3E802E803FF35>在白燼古戰場附近的良材採取<hex:02280AFF05>Item<hex:E8060103><hex:FF20>將<hex:02280AFF05>Item<hex:E8060103>交給昂吉兒<hex:03><hex:FF58><hex:020854E4E80513FF4C><hex:020848E3E802E803FF20>在赤血天坑釣<hex:02280AFF05>Item<hex:E8060103><hex:FF20>將<hex:02280AFF05>Item<hex:E8060103>交給昂吉兒<hex:03><hex:FF01><hex:03><hex:03><hex:03>
-30,TEXT_BANMAM001_05255_TODO_06,
-31,TEXT_BANMAM001_05255_TODO_07,
-32,TEXT_BANMAM001_05255_TODO_08,
-33,TEXT_BANMAM001_05255_TODO_09,
-34,TEXT_BANMAM001_05255_TODO_10,
-35,TEXT_BANMAM001_05255_TODO_11,
-36,TEXT_BANMAM001_05255_TODO_12,
-37,TEXT_BANMAM001_05255_TODO_13,
-38,TEXT_BANMAM001_05255_TODO_14,
-39,TEXT_BANMAM001_05255_TODO_15,
-40,TEXT_BANMAM001_05255_TODO_16,
-41,TEXT_BANMAM001_05255_TODO_17,
-42,TEXT_BANMAM001_05255_TODO_18,
-43,TEXT_BANMAM001_05255_TODO_19,
-44,TEXT_BANMAM001_05255_TODO_20,
-45,TEXT_BANMAM001_05255_TODO_21,
-46,TEXT_BANMAM001_05255_TODO_22,
-47,TEXT_BANMAM001_05255_TODO_23,
-48,TEXT_BANMAM001_05255_GOTOLLJA_000_000,啊，<hex:022903EB0203>！<hex:02100103>天坑的怪物騷動時真是多虧了有你幫忙。<hex:02100103>對了，現在你有空嗎？
-49,TEXT_BANMAM001_05255_GOTOLLJA_000_001,你應該聽過一個叫薩雷安的國家。<hex:02100103>其實，有一個自稱來自那邊的外國研究員正在造訪此地。
-50,TEXT_BANMAM001_05255_GOTOLLJA_000_002,據說是你的同伴找她幫忙，<hex:02100103>請她帶來了適合在加提卡海心種植的農作物。<hex:02100103>我正準備過去跟她打聲招呼呢。
-51,TEXT_BANMAM001_05255_GOTOLLJA_000_003,不過我不懂薩雷安的禮節，<hex:02100103>想到可能做出什麼失禮的事，就有些緊張起來了……<hex:02100103>你要是能陪在我身邊，我就安心多了！能麻煩你跟我一起去嗎？
-52,TEXT_BANMAM001_05255_GOTOLLJA_000_004,謝謝，那就麻煩你了。<hex:02100103>那位名叫昂吉兒的研究員，應該就在瑪穆克的南邊。
-53,TEXT_BANMAM001_05255_GOTOLLJA_000_005,
-54,TEXT_BANMAM001_05255_GOTOLLJA_000_010,她就是那位研究員。<hex:02100103>不遠萬里渡海而來，真是令人欽佩。
-55,TEXT_BANMAM001_05255_ANGGIR_000_020,嗯？你們是……？
-56,TEXT_BANMAM001_05255_GOTOLLJA_000_021,我叫高圖加，原本是一名傭兵，<hex:02100103>現在靠製作一些小玩意謀生。
-57,TEXT_BANMAM001_05255_GOTOLLJA_000_022,我聽族長說你不僅帶來了種子和種苗，<hex:02100103>還計劃在這裡開墾一片田地。<hex:02100103>我這次過來是想跟你打聲招呼，向你道個謝。
-58,TEXT_BANMAM001_05255_ANGGIR_000_023,哎呀，你實在太客氣了。<hex:02100103>我叫昂吉兒，今後也請二位多多關照。
-59,TEXT_BANMAM001_05255_ANGGIR_000_024,雖然來之前已經有所耳聞，<hex:02100103>但百聞不如一見，這裡還真是一片有趣的土地！<hex:02100103>看來隕石的特殊乙太給這裡的環境造成了很大影響。
-60,TEXT_BANMAM001_05255_ANGGIR_000_025,不過二位不必擔心，儘管交給我好了。<hex:02100103>既然澤瑞加族長將這塊土地借給了我建實驗農園，<hex:02100103>我就一定會負責到底，讓新的作物在此地生根發芽。
-61,TEXT_BANMAM001_05255_ANGGIR_000_026,
-62,TEXT_BANMAM001_05255_ANGGIR_000_027,只不過……雖然我已經構思了計劃，<hex:02100103>但目前的問題是缺乏足夠的人手來實現它。<hex:02100103>據我觀察，瑪穆克好像沒有多少可以幹活的人？
-63,TEXT_BANMAM001_05255_GOTOLLJA_000_028,大多數年輕人都出去幹傭兵之類的工作了。<hex:02100103>如果不介意，就讓我來幫你吧。<hex:02100103>不過只憑我一個人怕是還不夠……
-64,TEXT_BANMAM001_05255_GOTOLLJA_000_029,
-65,TEXT_BANMAM001_05255_RUVOLLJA_000_030,(-？？？？-)這個問題可以用犀蜴解決！<hex:02100103>只要用得好，大多數力氣活都能交給它們做。
-66,TEXT_BANMAM001_05255_GOTOLLJA_000_031,如烏加！<hex:02100103>你不是前幾年搬去圖萊尤拉住了嗎？<hex:02100103>是什麼風把你吹回來了？
-67,TEXT_BANMAM001_05255_RUVOLLJA_000_032,我聽說故鄉對外開放了，所以就想著回來看看。
-68,TEXT_BANMAM001_05255_ANGGIR_000_033,據說朵普羅族對如何驅使野獸很有心得。<hex:02100103>如果能讓犀蜴拖著重型鋤頭翻土或是運輸貨物，<hex:02100103>那確實能省下不少事。
-69,TEXT_BANMAM001_05255_ANGGIR_000_034,之後，只要再有一位能幫忙收集各種農用物資的採集人員就完美了。<hex:02100103>你們有什麼推薦人選嗎？
-70,TEXT_BANMAM001_05255_ANGGIR_000_035,
-71,TEXT_BANMAM001_05255_GOTOLLJA_000_036,瑪穆克雖然也會有人去採摘蘑菇藥草什麼的，但大都已經上了年紀，<hex:02100103>最多只能在附近安全的地方活動。<hex:02100103>想讓他們踏遍森林去尋找珍稀材料就有些困難了。
-72,TEXT_BANMAM001_05255_RUVOLLJA_000_037,很遺憾，我也沒有這方面的熟人。<hex:02100103>你看起來像是從外面來的，有什麼好辦法嗎？
-73,TEXT_BANMAM001_05255_Q1_100_000,要說什麼？
-74,TEXT_BANMAM001_05255_A1_100_001,我就精通採集，交給我吧！
-75,TEXT_BANMAM001_05255_A1_100_002,如果是有償的話，要我幫忙也不是不行……
-76,TEXT_BANMAM001_05255_GOTOLLJA_000_038,
-77,TEXT_BANMAM001_05255_RUVOLLJA_000_039,有你幫忙的話，那事情就簡單了！<hex:02100103>如果你不介意，可以給你瑪穆克的青蕉幣作為報酬，絕不拖欠！
-78,TEXT_BANMAM001_05255_RUVOLLJA_090_039,正式自我介紹一下，我叫如烏加。<hex:02100103>你是<hex:022903EB0203>對吧？<hex:02100103>今後就有勞你了！
-79,TEXT_BANMAM001_05255_ANGGIR_100_039,看來是談妥了啊。<hex:02100103>那今後就有勞你了。
-80,TEXT_BANMAM001_05255_RUVOLLJA_000_040,我這就去和朵普羅族的同胞們打聲招呼，<hex:02100103>想辦法將犀蜴借過來。
-81,TEXT_BANMAM001_05255_ANGGIR_000_041,
-82,TEXT_BANMAM001_05255_GOTOLLJA_000_042,
-83,TEXT_BANMAM001_05255_GOTOLLJA_000_043,<hex:022903EB0203>，你能跟如烏加一起去嗎？<hex:02100103>那傢伙人不錯，但是性格有點莽撞。
-84,TEXT_BANMAM001_05255_GOTOLLJA_000_044,如果他在交涉過程中遇到麻煩，希望你能幫他一把。<hex:02100103>將人與人聯繫在一起……這應該是你擅長的吧？
-85,TEXT_BANMAM001_05255_ANGGIR_000_050,有你們來幫忙真是太好了。<hex:02100103>在等你們回來的這段時間，我會規劃好如何使用這塊土地的。
-86,TEXT_BANMAM001_05255_DOPPROA05255_100_050,我家犀蜴一直接受的都是戰鬥訓練，<hex:02100103>應該很難在農業上派上用場吧……
-87,TEXT_BANMAM001_05255_DOPPROB05255_110_050,犀蜴能幹得了啥？
-88,TEXT_BANMAM001_05255_DOPPROC05255_120_050,我家的孩子擅長的事情很偏科，<hex:02100103>我不想讓它做它不願意做的事情！
-89,TEXT_BANMAM001_05255_RUVOLLJA_000_060,有了犀蜴幫忙，農活幹起來也會更有效率的。<hex:02100103>所以拜託了，幫幫忙吧！
-90,TEXT_BANMAM001_05255_DOPPROA05255_000_061,犀蜴的力氣是大，但自幼就一直接受戰鬥訓練，<hex:02100103>我覺得它不太適合幹農活。
-91,TEXT_BANMAM001_05255_RUVOLLJA_000_062,<hex:022903EB0203>你也來了啊！<hex:02100103>要是犀蜴幫忙一定能省不少事，你說是不是？
-92,TEXT_BANMAM001_05255_DOPPROB05255_000_063,
-93,TEXT_BANMAM001_05255_SYSTEM_000_064,看樣子交涉並不順利。<hex:02100103>和聚集過來的朵普羅族交談，想辦法幫助如烏加。
-94,TEXT_BANMAM001_05255_RUVOLLJA_000_070,我說錯什麼話了嗎？
-95,TEXT_BANMAM001_05255_SYSTEM_000_071,看樣子交涉並不順利。<hex:02100103>和聚集過來的朵普羅族交談，想辦法幫助如烏加。
-96,TEXT_BANMAM001_05255_DOPPROA05255_000_080,種植新的農作物對我們來說是好事，<hex:02100103>要是能幫得上忙，我自然願意傾力相助，<hex:02100103>但你們打算讓只接受過戰鬥訓練的犀蜴做什麼呢？
-97,TEXT_BANMAM001_05255_Q1_000_000,要說什麼？
-98,TEXT_BANMAM001_05255_A1_000_001,需要犀蜴來運送沉重的貨物
-99,TEXT_BANMAM001_05255_A1_000_002,需要犀蜴來牽引貨車
-100,TEXT_BANMAM001_05255_DOPPROA05255_000_081,啊，原來是這樣！<hex:02100103>正因為接受過戰鬥訓練，所以能勝任力氣活啊！<hex:02100103>那就好說了，我這就帶著我的搭檔過去。
-101,TEXT_BANMAM001_05255_DOPPROB05255_000_090,犀蜴又拿不了農具……<hex:02100103>你們打算怎麼讓它幹活呀？
-102,TEXT_BANMAM001_05255_Q2_000_000,要說什麼？
-103,TEXT_BANMAM001_05255_A2_000_001,讓它拉重型鋤頭
-104,TEXT_BANMAM001_05255_A2_000_002,高圖加會幫忙製作犀蜴用的農具
-105,TEXT_BANMAM001_05255_DOPPROB05255_000_091,也對，拿不了農具，但可以拉鋤頭翻地啊。<hex:02100103>那只要東西準備齊了，我的搭檔應該也能幫上忙。
-106,TEXT_BANMAM001_05255_DOPPROB05255_100_091,啊，高圖加會製作犀蜴可以拉的鋤頭啊。<hex:02100103>那只要東西準備齊了，我的搭檔應該也能幫上忙。
-107,TEXT_BANMAM001_05255_DOPPROC05255_000_100,我家的孩子只會橫衝直撞。<hex:02100103>雖然有心幫你們，但恐怕派不上什麼用場。
-108,TEXT_BANMAM001_05255_Q3_000_000,要說什麼？
-109,TEXT_BANMAM001_05255_A3_000_001,那它應該可以撞碎礙事的岩石
-110,TEXT_BANMAM001_05255_A3_000_002,那它應該可以撞倒礙事的樹木
-111,TEXT_BANMAM001_05255_DOPPROC05255_000_101,誒？我家孩子的蠻撞還能這麼用？<hex:02100103>這樣的話當然沒問題，也能幫得上你們的忙。<hex:02100103>就讓它替你們掃清開墾過程中的障礙吧！
-112,TEXT_BANMAM001_05255_RUVOLLJA_000_110,你真厲害！<hex:02100103>眨眼的工夫就把所有人都說服了。
-113,TEXT_BANMAM001_05255_RUVOLLJA_000_111,對了，我還想再叫一個人來幫忙，你能跟我一起去嗎？
-114,TEXT_BANMAM001_05255_RUVOLLJA_000_112,那人叫卡給加，是一名納蕉……也就是加提卡香蕉的專家。<hex:02100103>他肯定掌握著在這片土地上種植所需的農業知識。<hex:02100103>走吧，我介紹你們認識一下。
-115,TEXT_BANMAM001_05255_RUVOLLJA_000_120,這就是卡給加，他是我的青梅竹馬。<hex:02100103>只不過，自從我去了圖萊尤拉，好久都沒聯繫過了。
-116,TEXT_BANMAM001_05255_KAGEELJA_000_130,你是……在烏克·拉瑪特大人身邊的那位？<hex:02100103>沒想到你會和如烏加在一起，真是出人意料的組合。
-117,TEXT_BANMAM001_05255_RUVOLLJA_000_131,我們也是剛認識的。<hex:02100103>外國來的研究員不是準備在這建一個農園嗎？<hex:02100103>我們都答應了給農園幫忙。
-118,TEXT_BANMAM001_05255_KAGEELJA_000_132,
-119,TEXT_BANMAM001_05255_KAGEELJA_000_133,
-120,TEXT_BANMAM001_05255_KAGEELJA_000_134,
-121,TEXT_BANMAM001_05255_RUVOLLJA_000_135,
-122,TEXT_BANMAM001_05255_RUVOLLJA_000_136,卡給加，你擁有很多在這座森林裡種植的相關知識，<hex:02100103>所以這次我來，是想請你也來幫忙。
-123,TEXT_BANMAM001_05255_KAGEELJA_000_137,你一個捨棄了故鄉搬去圖萊尤拉的叛徒，<hex:02100103>有什麼資格讓我要聽你的……
-124,TEXT_BANMAM001_05255_KAGEELJA_000_138,開玩笑的。<hex:02100103>不久之前的我或許真會這麼說，<hex:02100103>但如今多虧了<hex:02080DE905FF04>她<hex:FF04>他<hex:03>和<hex:02080DE905FF04>她<hex:FF04>他<hex:03>的同伴們，瑪穆克已經擺脫了雙血教的束縛。
-125,TEXT_BANMAM001_05255_KAGEELJA_000_139,既然好友願意回到瑪穆克工作，我自然樂意幫忙。<hex:02100103>況且，還有可靠的<hex:022903EB0203>在呢。
-126,TEXT_BANMAM001_05255_KAGEELJA_000_140,
-127,TEXT_BANMAM001_05255_RUVOLLJA_000_141,雙血教影響下的瑪穆克曾令我無比窒息，<hex:02100103>所以我選擇了逃離家鄉，搬去圖萊尤拉。<hex:02100103>從此與好友都斷絕聯繫的我，即便被稱作叛徒也純屬活該。
-128,TEXT_BANMAM001_05255_RUVOLLJA_100_141,不過，我並不是真的對自己的故鄉毫無感情。<hex:02100103>我也想為開始改變的故鄉貢獻我的力量，<hex:02100103>想與解放了故鄉的<hex:022903EB0203>一起，建設新的瑪穆克。
-129,TEXT_BANMAM001_05255_RUVOLLJA_110_141,所以……真的謝謝你能夠原諒我，卡給加。
-130,TEXT_BANMAM001_05255_KAGEELJA_000_142,
-131,TEXT_BANMAM001_05255_RUVOLLJA_000_143,好了，這樣人手就夠了！<hex:02100103>我們回昂吉兒那開始幹活吧！
-132,TEXT_BANMAM001_05255_RUVOLLJA_000_144,
-133,TEXT_BANMAM001_05255_Q4_000_000,
-134,TEXT_BANMAM001_05255_A4_000_001,
-135,TEXT_BANMAM001_05255_A4_000_002,
-136,TEXT_BANMAM001_05255_A4_000_003,
-137,TEXT_BANMAM001_05255_RUVOLLJA_000_150,
-138,TEXT_BANMAM001_05255_RUVOLLJA_000_155,
-139,TEXT_BANMAM001_05255_RUVOLLJA_000_160,
-140,TEXT_BANMAM001_05255_RUVOLLJA_000_170,
-141,TEXT_BANMAM001_05255_RUVOLLJA_000_171,
-142,TEXT_BANMAM001_05255_RUVOLLJA_000_172,
-143,TEXT_BANMAM001_05255_RUVOLLJA_000_173,
-144,TEXT_BANMAM001_05255_RUVOLLJA_000_174,
-145,TEXT_BANMAM001_05255_RUVOLLJA_000_180,朵普羅族的同胞們正在和高圖加一起準備貨車和鋤頭，<hex:02100103>過一會應該就會過來會合。
-146,TEXT_BANMAM001_05255_KAGEELJA_000_181,我跟昂吉兒打過招呼了。<hex:02100103>我會從自己力所能及的方面開始幫忙。
-147,TEXT_BANMAM001_05255_ANGGIR_000_190,辛苦了！<hex:02100103>多虧了你的幫忙，人手不足問題一口氣就解決了。
-148,TEXT_BANMAM001_05255_ANGGIR_000_191,我已經給犀蜴的主人們委託了工作，<hex:02100103>不過還有一件事需要你再幫個忙。
-149,TEXT_BANMAM001_05255_ANGGIR_000_192,想要將農園建立起來，首先我們需要改善田地的土質。
-150,TEXT_BANMAM001_05255_ANGGIR_000_193,
-151,TEXT_BANMAM001_05255_ANGGIR_000_200,能請你前往「白燼古戰場」，<hex:02100103>把岩石上附著的「<hex:02280BFF05>Item<hex:F2BB890103>」收集起來嗎？<hex:02100103>它能用來中和酸性過強的土地。
-152,TEXT_BANMAM001_05255_ANGGIR_000_210,能請你前往「白燼古戰場」，<hex:02100103>從焚毀的樹上收集「<hex:02280BFF05>Item<hex:F2BB8A0103>」嗎？<hex:02100103>它能用來中和酸性過強的土地。
-153,TEXT_BANMAM001_05255_ANGGIR_000_220,能請你前往「赤血天坑」，將「<hex:02280BFF05>Item<hex:F2BB8B0103>」釣上來嗎？<hex:02100103>這種生活在天坑的貝類受到附近古戰場的影響，<hex:02100103>碾碎後能用來中和酸性過強的土地。
-154,TEXT_BANMAM001_05255_ANGGIR_000_221,釣餌用「<hex:02280BFF05>Item<hex:F2AB490103>」應該就行。<hex:02100103>我聽瑪穆克的漁人說附近的水生物大多喜歡這個。
-155,TEXT_BANMAM001_05255_ANGGIR_100_221,你放心，紅豹村那邊已經給了我們在上面的森林採集資源的許可。<hex:02100103>只要不過度採集影響到自然環境就行。
-156,TEXT_BANMAM001_05255_ANGGIR_000_230,那就麻煩你跑這一趟了。<hex:02100103>我們會在這邊推進事務所的建設工作，<hex:02100103>它將會成為我們今後活動的中心據點。
-157,TEXT_BANMAM001_05255_RUVOLLJA_000_240,卡給加能來幫忙真是太好了。<hex:02100103>他一直在這片土地上培育納蕉，非常有經驗。<hex:02100103>有了他和昂吉兒的知識，農園一定能大獲成功！
-158,TEXT_BANMAM001_05255_KAGEELJA_000_241,對農田來說，最開始的改善土壤條件是非常重要的。<hex:02100103>一定要將這一步做好，給作物創造出適以生存的環境，<hex:02100103>讓好不容易看到的希望在這裡生根發芽。
-159,TEXT_BANMAM001_05255_ANGGIR_000_250,歡迎回來。<hex:02100103>委託你採集的東西到手了嗎？
-160,TEXT_BANMAM001_05255_ANGGIR_000_251,謝謝！你拿來的東西品質相當好。<hex:02100103>我會拜託朵普羅族那幾位，在翻土時將這個混入土裡面的。
-161,TEXT_BANMAM001_05255_DOPPROD05255_000_300,貨車終於準備好了。<hex:02100103>讓犀蜴拉著車把物資一口氣運過來吧。
-162,TEXT_BANMAM001_05255_KAGEELJA_000_301,嗯……這邊也準備好了。<hex:02100103>中和劑碾得很碎，應該能很好地混進土裡。
-163,TEXT_BANMAM001_05255_ANGGIR_000_302,如烏加，我想和你說個事。<hex:02100103>開墾結束後就要開始真正的栽培實驗了，<hex:02100103>我想請你擔任總監，統籌全局。
-164,TEXT_BANMAM001_05255_RUVOLLJA_000_303,啊？我嗎？？<hex:02100103>要論種植知識，卡給加比我豐富呀？
-165,TEXT_BANMAM001_05255_ANGGIR_000_304,是的，就是你。<hex:02100103>我看重的是絕對要讓農園取得成功的熱情。<hex:02100103>這一點上你不輸給任何人。
-166,TEXT_BANMAM001_05255_ANGGIR_000_305,
-167,TEXT_BANMAM001_05255_RUVOLLJA_000_306,原來如此，我懂了。我不會辜負你的期待。<hex:02100103>賭上我輝鱗族的榮耀，為瑪穆克奮鬥！
-168,TEXT_BANMAM001_05255_RUVOLLJA_000_307,<hex:022903EB0203>，我也想正式再邀請你一次。<hex:02100103>希望你能通過自己高超的採集能力繼續幫助我們。
-169,TEXT_BANMAM001_05255_RUVOLLJA_000_308,
-170,TEXT_BANMAM001_05255_RUVOLLJA_000_309,我時隔數年回到這故鄉，著實被大家的變化嚇了一跳。<hex:02100103>而這一切的轉變，都是你所帶來的。<hex:02100103>還請你將這份力量，再一次借給我們！
-171,TEXT_BANMAM001_05255_RUVOLLJA_000_310,
-172,TEXT_BANMAM001_05255_RUVOLLJA_000_311,
-173,TEXT_BANMAM001_05255_Q5_000_000,如何作答？
-174,TEXT_BANMAM001_05255_A5_000_001,賭上我冒險者的榮耀，為瑪穆克奮鬥！
-175,TEXT_BANMAM001_05255_A5_000_002,真拿你沒辦法
-176,TEXT_BANMAM001_05255_RUVOLLJA_000_320,謝謝，你的幫助我定不會忘！
-177,TEXT_BANMAM001_05255_RUVOLLJA_000_330,麻煩你了，你的幫助我定不會忘！
-178,TEXT_BANMAM001_05255_ANGGIR_000_340,你也願意幫忙那就再好不過了。<hex:02100103>我這邊也請你多關照啦。
-179,TEXT_BANMAM001_05255_KAGEELJA_000_341,久等了。<hex:02100103>犀蜴已經都準備好了。
-180,TEXT_BANMAM001_05255_RUVOLLJA_000_342,謝謝。<hex:02100103>那我們正式開始開墾吧！
-181,TEXT_BANMAM001_05255_RUVOLLJA_000_400,新的瑪穆克會從這個農園開始！
-182,TEXT_BANMAM001_05255_ANGGIR_000_401,是啊，一點兒沒錯。<hex:02100103>我一定會讓這裡生長出美味的農產品。
-183,TEXT_BANMAM001_05255_ANGGIR_000_402,為了這個目標，也請你多多幫忙啦。
-184,TEXT_BANMAM001_05255_SYSTEM_000_403,實驗農園被正式命名為「恆彩農園」！<hex:02100103>請通過給農園幫忙來煥發瑪穆克的活力，<hex:02100103>將這裡變為值得輝鱗族自豪的故鄉。
-185,TEXT_BANMAM001_05255_SYSTEM_000_450,在冒險者的努力下，<hex:02100103>與輝鱗族「恆彩農園」的關係程度到達了「友好」。<hex:02100103>開啟了輝鱗族的友好部族任務。
-186,TEXT_BANMAM001_05255_SYSTEM_000_451,今後可以在恆彩農園的卡給加處，<hex:02100103>接受可重覆進行的友好部族日常任務。
-187,TEXT_BANMAM001_05255_SYSTEM_000_452,並且可以在「維茹加」處購入友好部族所經營的商品。<hex:02100103>在今後的冒險裡善加利用吧！
+0,"TEXT_BANMAM001_05255_SEQ_00","Gotoll Ja fidgets anxiously.<hex:02100103>※The difficulty of this quest will be synced to your current level."
+1,"TEXT_BANMAM001_05255_SEQ_01","Gotoll Ja tells you that a researcher from Sharlayan has just arrived to start planting foreign crops in Mamook. He shifts awkwardly and mutters his worries about proper etiquette, so you agree to accompany him to greet the newcomer.<hex:02100103><hex:02100103>※Please note that the difficulty of this quest has been synced to your current level. Furthermore, you may not proceed with a class or job that is different from when you accepted this quest."
+2,"TEXT_BANMAM001_05255_SEQ_02","The amiable researcher from Sharlayan, Anggir, is happy to be so warmly welcomed, but she seems concerned by the lack of manpower available in Mamook. In walks Ruvoll Ja, a Mamook native who left his homeland for Tuliyollal years ago. The Doppro cheerfully suggests that using wivres will solve their problems and sallies forth to convince his fellows, but Gotoll Ja's countenance is troubled as he watches the young man depart. Apparently Ruvoll Ja's affability can overcome his coherence during conversation, so Gotoll Ja bids you help him in his negotiations."
+3,"TEXT_BANMAM001_05255_SEQ_03","Indeed, you arrive to find Ruvoll Ja trying to convince a handful of skeptical Doppro to lend their wivres to a cause they don't fully understand. You may have to fill in the gaps a little before gaining these potential allies."
+4,"TEXT_BANMAM001_05255_SEQ_04","Ruvoll Ja watches you convince the wivre handlers with awe, and eagerly presents his next errand of persuasion. Kageel Ja is a najool farmer whom he believes will be of help to the gainery with his knowledge of farming crops in this forest."
+5,"TEXT_BANMAM001_05255_SEQ_05","What might have been a disastrous reunion ends in friendly agreement, and Kageel Ja offers to lend his support. Ruvoll Ja is hopeful that all must be in readiness by now, but it may be good to check with Anggir on that point first."
+6,"TEXT_BANMAM001_05255_SEQ_06","Anggir bids you bring her materials replete with charcoal so as to balance the acidity of the soil. No stranger to gathering, you venture forth to the Xobr'it Cinderfield for what she requires."
+7,"TEXT_BANMAM001_05255_SEQ_07","The wivre handlers see to their charges and Kageel Ja to the fertilizer. Before your eyes the earth is tilled and where once was plain forest now lies a humble gainery. Though modest in scope and barely budding, Gok Golma yet represents the potential Mamook has for change, and with hard work it may indeed become a shining beacon of hope in a forest once oppressed by darkness..."
+8,"TEXT_BANMAM001_05255_SEQ_08",""
+9,"TEXT_BANMAM001_05255_SEQ_09",""
+10,"TEXT_BANMAM001_05255_SEQ_10",""
+11,"TEXT_BANMAM001_05255_SEQ_11",""
+12,"TEXT_BANMAM001_05255_SEQ_12",""
+13,"TEXT_BANMAM001_05255_SEQ_13",""
+14,"TEXT_BANMAM001_05255_SEQ_14",""
+15,"TEXT_BANMAM001_05255_SEQ_15",""
+16,"TEXT_BANMAM001_05255_SEQ_16",""
+17,"TEXT_BANMAM001_05255_SEQ_17",""
+18,"TEXT_BANMAM001_05255_SEQ_18",""
+19,"TEXT_BANMAM001_05255_SEQ_19",""
+20,"TEXT_BANMAM001_05255_SEQ_20",""
+21,"TEXT_BANMAM001_05255_SEQ_21",""
+22,"TEXT_BANMAM001_05255_SEQ_22",""
+23,"TEXT_BANMAM001_05255_SEQ_23",""
+24,"TEXT_BANMAM001_05255_TODO_00","Speak with Anggir."
+25,"TEXT_BANMAM001_05255_TODO_01","Speak with Ruvoll Ja."
+26,"TEXT_BANMAM001_05255_TODO_02","Convince the wivre handlers."
+27,"TEXT_BANMAM001_05255_TODO_03","Speak with Kageel Ja."
+28,"TEXT_BANMAM001_05255_TODO_04","Speak with Anggir."
+29,"TEXT_BANMAM001_05255_TODO_05","<hex:0208F20134E4E80511FF60><hex:02085CE3E802E803FF32>Mine <hex:02310CFF05>Item<hex:04E806030203> near the Xobr'it Cinderfield<hex:FF22>Deliver <hex:02310CFF05>Item<hex:03E806030203> to Anggir<hex:03><hex:FFCE><hex:0208CAE4E80512FF62><hex:02085EE3E802E803FF34>Gather <hex:02310CFF05>Item<hex:04E806030203> near the Xobr'it Cinderfield<hex:FF22>Deliver <hex:02310CFF05>Item<hex:03E806030203> to Anggir<hex:03><hex:FF61><hex:02085DE4E80513FF55><hex:020851E3E802E803FF27>Catch <hex:02310CFF05>Item<hex:02E806020203> at Iq Rrax Tsoly<hex:FF22>Deliver <hex:02310CFF05>Item<hex:03E806020203> to Anggir<hex:03><hex:FF01><hex:03><hex:03><hex:03>."
+30,"TEXT_BANMAM001_05255_TODO_06",""
+31,"TEXT_BANMAM001_05255_TODO_07",""
+32,"TEXT_BANMAM001_05255_TODO_08",""
+33,"TEXT_BANMAM001_05255_TODO_09",""
+34,"TEXT_BANMAM001_05255_TODO_10",""
+35,"TEXT_BANMAM001_05255_TODO_11",""
+36,"TEXT_BANMAM001_05255_TODO_12",""
+37,"TEXT_BANMAM001_05255_TODO_13",""
+38,"TEXT_BANMAM001_05255_TODO_14",""
+39,"TEXT_BANMAM001_05255_TODO_15",""
+40,"TEXT_BANMAM001_05255_TODO_16",""
+41,"TEXT_BANMAM001_05255_TODO_17",""
+42,"TEXT_BANMAM001_05255_TODO_18",""
+43,"TEXT_BANMAM001_05255_TODO_19",""
+44,"TEXT_BANMAM001_05255_TODO_20",""
+45,"TEXT_BANMAM001_05255_TODO_21",""
+46,"TEXT_BANMAM001_05255_TODO_22",""
+47,"TEXT_BANMAM001_05255_TODO_23",""
+48,"TEXT_BANMAM001_05255_GOTOLLJA_000_000","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, nice to see you. Do you have a moment?"
+49,"TEXT_BANMAM001_05255_GOTOLLJA_000_001","This may not come as a surprise, since you personally helped negotiate our import of foreign crops, but a researcher has recently arrived from Sharlayan."
+50,"TEXT_BANMAM001_05255_GOTOLLJA_000_002","I've a mind to go and pay my respects, but..."
+51,"TEXT_BANMAM001_05255_GOTOLLJA_000_003","Well, I know little about Sharlayans, and I'm worried I'll cause offense. Could you come along, if only for my peace of mind?"
+52,"TEXT_BANMAM001_05255_GOTOLLJA_000_004","My thanks. Her name is Anggir, and she should be in the southern district of the city."
+53,"TEXT_BANMAM001_05255_GOTOLLJA_000_005",""
+54,"TEXT_BANMAM001_05255_GOTOLLJA_000_010","This must be her. I'm humbled she'd travel so far for our sakes."
+55,"TEXT_BANMAM001_05255_ANGGIR_000_020","Hello there. May I be of assistance?"
+56,"TEXT_BANMAM001_05255_GOTOLLJA_000_021","And I'm Gotoll Ja, former mercenary. Now I fashion whatever odds and ends need making."
+57,"TEXT_BANMAM001_05255_GOTOLLJA_000_022","The Autarch says you've come to oversee the growth of new crops here in Mamook, so we wanted to express our gratitude."
+58,"TEXT_BANMAM001_05255_ANGGIR_000_023","That's very kind of you. My name is Anggir, and it's my pleasure to be at your service."
+59,"TEXT_BANMAM001_05255_ANGGIR_000_024","When I first heard my assignment, I was intrigued. A forest dominated by the aetheric influence of meteorites..."
+60,"TEXT_BANMAM001_05255_ANGGIR_000_025","Rest assured, we shall soon have an experimental gainery up and running. New crops will flourish here, this I promise."
+61,"TEXT_BANMAM001_05255_ANGGIR_000_026",""
+62,"TEXT_BANMAM001_05255_ANGGIR_000_027","Indeed, my chief concern at the moment is not one of potential, but one of manpower. Mamook is rather sparse in population, is it not?"
+63,"TEXT_BANMAM001_05255_GOTOLLJA_000_028","Yes, most of our able-bodied workers have left, either to become mercenaries or, er...for other reasons. I myself would be glad to help, but I doubt one extra body will count for much."
+64,"TEXT_BANMAM001_05255_GOTOLLJA_000_029",""
+65,"TEXT_BANMAM001_05255_RUVOLLJA_000_030","(-???-)You should use wivres! Put to the right use, our wivres can solve about any problem!"
+66,"TEXT_BANMAM001_05255_GOTOLLJA_000_031","Ruvoll Ja! How many years has it been? I thought you had moved to Tuliyollal for good!"
+67,"TEXT_BANMAM001_05255_RUVOLLJA_000_032","When I heard change was in the air for Mamook, I had to come and see it for myself."
+68,"TEXT_BANMAM001_05255_ANGGIR_000_033","Using wivres sounds like an excellent idea. We could hitch them to plows, have them cart heavy equipment..."
+69,"TEXT_BANMAM001_05255_ANGGIR_000_034","All we need now is someone willing to gather extra materials we require."
+70,"TEXT_BANMAM001_05255_ANGGIR_000_035",""
+71,"TEXT_BANMAM001_05255_GOTOLLJA_000_036","I know a few gatherers, but most are getting on in years. We'll have to find an adventurous soul if you need anything more than local mushrooms or the odd medicinal herb."
+72,"TEXT_BANMAM001_05255_RUVOLLJA_000_037","I handle beasts, not ore and timber. You?"
+73,"TEXT_BANMAM001_05255_Q1_100_000","What will you say?"
+74,"TEXT_BANMAM001_05255_A1_100_001","I'm an adventurous gatherer─leave it to me!"
+75,"TEXT_BANMAM001_05255_A1_100_002","For the right price, I'll handle just about anything."
+76,"TEXT_BANMAM001_05255_GOTOLLJA_000_038",""
+77,"TEXT_BANMAM001_05255_RUVOLLJA_000_039","Then it's settled! You'll be well compensated, I promise."
+78,"TEXT_BANMAM001_05255_RUVOLLJA_090_039","I look forward to working with you, friend!"
+79,"TEXT_BANMAM001_05255_ANGGIR_100_039","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, Ruvoll Ja, you both have my thanks."
+80,"TEXT_BANMAM001_05255_RUVOLLJA_000_040","Think nothing of it! I'll gather what wivre handlers I can find and explain the situation. I'm sure they'll be happy to help as well!"
+81,"TEXT_BANMAM001_05255_ANGGIR_000_041",""
+82,"TEXT_BANMAM001_05255_GOTOLLJA_000_042",""
+83,"TEXT_BANMAM001_05255_GOTOLLJA_000_043","...<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, would you mind going with Ruvoll Ja? He's a good lad, but he gets ahead of himself sometimes."
+84,"TEXT_BANMAM001_05255_GOTOLLJA_000_044","You've more than proven your talent for communication, so if he's struggling to make his point, lend him a hand, would you?"
+85,"TEXT_BANMAM001_05255_ANGGIR_000_050","I appreciate your cooperation. I'll be here planning the particulars if you need anything."
+86,"TEXT_BANMAM001_05255_DOPPROA05255_100_050","My wivre's trained for battle. I doubt it'll be much use on a farm..."
+87,"TEXT_BANMAM001_05255_DOPPROB05255_110_050","Remind me why we're here again?"
+88,"TEXT_BANMAM001_05255_DOPPROC05255_120_050","My darling has <hex:021A020203>needs<hex:021A020103>! I won't force him to do work he doesn't enjoy!"
+89,"TEXT_BANMAM001_05255_RUVOLLJA_000_060","As I've been saying, wivres are the answer!"
+90,"TEXT_BANMAM001_05255_DOPPROA05255_000_061","...But ours are specifically trained for combat. How do you reckon they'd help with farming?"
+91,"TEXT_BANMAM001_05255_RUVOLLJA_000_062","Oh <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, perfect timing. Tell them one wivre's worth a least ten men on the field, won't you?"
+92,"TEXT_BANMAM001_05255_DOPPROB05255_000_063",""
+93,"TEXT_BANMAM001_05255_SYSTEM_000_064","The wivre handlers stand in awkward silence. Try convincing them on behalf of Ruvoll Ja."
+94,"TEXT_BANMAM001_05255_RUVOLLJA_000_070","I'm not wrong, am I?"
+95,"TEXT_BANMAM001_05255_SYSTEM_000_071","An awkward silence lingers. Try speaking on behalf of Ruvoll Ja."
+96,"TEXT_BANMAM001_05255_DOPPROA05255_000_080","Believe me, we all want new crops here in Mamook. I'm happy to help─I just want to know how a wivre trained for battle could be useful."
+97,"TEXT_BANMAM001_05255_Q1_000_000","What will you say?"
+98,"TEXT_BANMAM001_05255_A1_000_001","We need wivres to haul equipment."
+99,"TEXT_BANMAM001_05255_A1_000_002","We need wivres to pull our plows."
+100,"TEXT_BANMAM001_05255_DOPPROA05255_000_081","I see...a wivre with the strength for combat should have no problems with that. Very well, the both of us will be over presently."
+101,"TEXT_BANMAM001_05255_DOPPROB05255_000_090","What does he expect our wivres to do, exactly? Hoe with their horns?"
+102,"TEXT_BANMAM001_05255_Q2_000_000","What will you say?"
+103,"TEXT_BANMAM001_05255_A2_000_001","More like pull heavy plows."
+104,"TEXT_BANMAM001_05255_A2_000_002","Gotoll Ja will outfit them with farming equipment."
+105,"TEXT_BANMAM001_05255_DOPPROB05255_000_091","That...makes far more sense. If that's what you need done, we can do it."
+106,"TEXT_BANMAM001_05255_DOPPROB05255_100_091","Oh, that makes far more sense. I can trust Gotoll Ja's handiwork, so count me in."
+107,"TEXT_BANMAM001_05255_DOPPROC05255_000_100","My precious wivre <hex:021A020203>only<hex:021A020103> smashes things. I'd love to be of service, but if my darling can't smash something to bits, then I'm afraid we're at an impasse."
+108,"TEXT_BANMAM001_05255_Q3_000_000","What will you say?"
+109,"TEXT_BANMAM001_05255_A3_000_001","How about smashing rocks?"
+110,"TEXT_BANMAM001_05255_A3_000_002","How about smashing trees?"
+111,"TEXT_BANMAM001_05255_DOPPROC05255_000_101","That sounds...well, smashing! Leave it to me and my wivre─we'll have the garden beds free of obstructions in a blink."
+112,"TEXT_BANMAM001_05255_RUVOLLJA_000_110","That was incredible! You convinced them all to help just like that."
+113,"TEXT_BANMAM001_05255_RUVOLLJA_000_111","Now, there's one last person I think we need."
+114,"TEXT_BANMAM001_05255_RUVOLLJA_000_112","His name is Kageel Ja and he's a najool─er, Ja Tiika banana farmer. We can trust his expertise."
+115,"TEXT_BANMAM001_05255_RUVOLLJA_000_120","This is Kageel Ja. We've been best friends since childhood, but... Well, after I moved to Tuliyollal, we haven't had much contact."
+116,"TEXT_BANMAM001_05255_KAGEELJA_000_130","...You were part of the Third Promise's retinue, weren't you? What brings you here now? And with Ruvoll Ja?"
+117,"TEXT_BANMAM001_05255_RUVOLLJA_000_131","We just met, actually. A researcher from afar is beginning work on a gainery here, and we're both lending a hand."
+118,"TEXT_BANMAM001_05255_KAGEELJA_000_132",""
+119,"TEXT_BANMAM001_05255_KAGEELJA_000_133",""
+120,"TEXT_BANMAM001_05255_KAGEELJA_000_134",""
+121,"TEXT_BANMAM001_05255_RUVOLLJA_000_135",""
+122,"TEXT_BANMAM001_05255_RUVOLLJA_000_136","I was hoping you might help out as well, knowing as much as you do about farming in these forests."
+123,"TEXT_BANMAM001_05255_KAGEELJA_000_137","You think I'd aid a traitor who abandoned his homeland for the comforts of Tuliyollal?"
+124,"TEXT_BANMAM001_05255_KAGEELJA_000_138","...Pffft, the look on your face! I'm kidding, I'm kidding. Although it's in great part thanks to this <hex:02080FE905FF06>woman<hex:FF04>man<hex:03> here that such words can be said in jest. Much has changed for Mamook."
+125,"TEXT_BANMAM001_05255_KAGEELJA_000_139","If my best friend has finally come home, I'd be a fool to refuse his pleas."
+126,"TEXT_BANMAM001_05255_KAGEELJA_000_140",""
+127,"TEXT_BANMAM001_05255_RUVOLLJA_000_141","Joking aside, your words didn't ring hollow, Kageel Ja. To many, I was a traitor to everything Mamook once stood for. ...A traitor to my friend for never writing."
+128,"TEXT_BANMAM001_05255_RUVOLLJA_100_141","It broke my heart to leave, but I couldn't stand the zealotry of blessed siblings... Now that the old teachings have been left in the past, I want to do everything I can for Mamook's future."
+129,"TEXT_BANMAM001_05255_RUVOLLJA_110_141","Thank you, Kageel Ja, for your forgiveness. I hope that you, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, and I can help find a new way forward."
+130,"TEXT_BANMAM001_05255_KAGEELJA_000_142",""
+131,"TEXT_BANMAM001_05255_RUVOLLJA_000_143","All right, hopefully we have enough people to get started! Let's go and ask Anggir if she needs anything else."
+132,"TEXT_BANMAM001_05255_RUVOLLJA_000_144",""
+133,"TEXT_BANMAM001_05255_Q4_000_000",""
+134,"TEXT_BANMAM001_05255_A4_000_001",""
+135,"TEXT_BANMAM001_05255_A4_000_002",""
+136,"TEXT_BANMAM001_05255_A4_000_003",""
+137,"TEXT_BANMAM001_05255_RUVOLLJA_000_150",""
+138,"TEXT_BANMAM001_05255_RUVOLLJA_000_155",""
+139,"TEXT_BANMAM001_05255_RUVOLLJA_000_160",""
+140,"TEXT_BANMAM001_05255_RUVOLLJA_000_170",""
+141,"TEXT_BANMAM001_05255_RUVOLLJA_000_171",""
+142,"TEXT_BANMAM001_05255_RUVOLLJA_000_172",""
+143,"TEXT_BANMAM001_05255_RUVOLLJA_000_173",""
+144,"TEXT_BANMAM001_05255_RUVOLLJA_000_174",""
+145,"TEXT_BANMAM001_05255_RUVOLLJA_000_180","Gotoll Ja is helping outfit the wivres with carts and plows. They'll be along afterwards."
+146,"TEXT_BANMAM001_05255_KAGEELJA_000_181","I just introduced myself to Anggir. Let me know how I can help."
+147,"TEXT_BANMAM001_05255_ANGGIR_000_190","Thank you for your aid in recruiting the others. With a handful of wivres, our worker shortage is now but a trifle."
+148,"TEXT_BANMAM001_05255_ANGGIR_000_191","The handlers have their orders, but there's one thing I would yet ask of you."
+149,"TEXT_BANMAM001_05255_ANGGIR_000_192","While fertile, this soil needs some additions to better accommodate the seeds and starters I've brought with me."
+150,"TEXT_BANMAM001_05255_ANGGIR_000_193",""
+151,"TEXT_BANMAM001_05255_ANGGIR_000_200","I think some charcoal should balance out its acidity nicely. Perhaps you could bring some from the Xobr'it Cinderfield?"
+152,"TEXT_BANMAM001_05255_ANGGIR_000_210","I think some charred bark should balance out its acidity nicely. Perhaps you could bring some from the Xobr'it Cinderfield?"
+153,"TEXT_BANMAM001_05255_ANGGIR_000_220","I think a cindershell should balance out its acidity nicely. Perhaps you could bring us one from Iq Rrax Tsoly?"
+154,"TEXT_BANMAM001_05255_ANGGIR_000_221","According to local fishers, golden stonefly nymphs should serve you well as bait."
+155,"TEXT_BANMAM001_05255_ANGGIR_100_221","I've attained the proper permissions from Iq Br'aax to gather from the Ut'ohmu Horizon. As long as your work is done respectfully, we have nothing to fear."
+156,"TEXT_BANMAM001_05255_ANGGIR_000_230","We'll begin setting up a base of operations in the meantime, so let me know once you've acquired what we need."
+157,"TEXT_BANMAM001_05255_RUVOLLJA_000_240","It's a relief to have Kageel Ja work with us. He's been growing najool forever, so he and Anggir should be unstoppable!"
+158,"TEXT_BANMAM001_05255_KAGEELJA_000_241","Preparing the land before planting is an incredibly important step. If we have any hope for our new seedlings, we should take pains to do it properly."
+159,"TEXT_BANMAM001_05255_ANGGIR_000_250","Welcome back. I trust you have what I asked for?"
+160,"TEXT_BANMAM001_05255_ANGGIR_000_251","Perfect, just what I had hoped. I'll have the wivre handlers mix our fertilizer into the soil as they till it."
+161,"TEXT_BANMAM001_05255_DOPPROD05255_000_300","Cart's secure. We're ready when you are."
+162,"TEXT_BANMAM001_05255_KAGEELJA_000_301","Just about... Yes, this should be ground finely enough to distribute evenly."
+163,"TEXT_BANMAM001_05255_ANGGIR_000_302","Once we've tilled the soil for beds, we can begin planting in earnest. Ruvoll Ja, can I count on your continued support?"
+164,"TEXT_BANMAM001_05255_RUVOLLJA_000_303","Me? But Kageel Ja's the one who grows things."
+165,"TEXT_BANMAM001_05255_ANGGIR_000_304","And <hex:021A020203>you<hex:021A020103> have grown our hopes into a viable operation by recruiting the necessary allies. Charisma like yours is essential for this gainery's success."
+166,"TEXT_BANMAM001_05255_ANGGIR_000_305",""
+167,"TEXT_BANMAM001_05255_RUVOLLJA_000_306","All right, I'll do what I can. On my pride as a Mamool Ja─for Mamook!"
+168,"TEXT_BANMAM001_05255_RUVOLLJA_000_307","Your assistance would be invaluable, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, if you can spare the time."
+169,"TEXT_BANMAM001_05255_RUVOLLJA_000_308",""
+170,"TEXT_BANMAM001_05255_RUVOLLJA_000_309","After all these years, my homestead is about to realize true progress. I would love to have you with us as we build a brighter future for my people."
+171,"TEXT_BANMAM001_05255_RUVOLLJA_000_310",""
+172,"TEXT_BANMAM001_05255_RUVOLLJA_000_311",""
+173,"TEXT_BANMAM001_05255_Q5_000_000","What will you say?"
+174,"TEXT_BANMAM001_05255_A5_000_001","I'll help. On my pride as an adventurer─for Mamook!"
+175,"TEXT_BANMAM001_05255_A5_000_002","When you put it that way, I can't really say no."
+176,"TEXT_BANMAM001_05255_RUVOLLJA_000_320","Thank you. I'm in your debt!"
+177,"TEXT_BANMAM001_05255_RUVOLLJA_000_330","I know I'm asking a lot of you. I'm truly grateful."
+178,"TEXT_BANMAM001_05255_ANGGIR_000_340","It's heartening to have you with us."
+179,"TEXT_BANMAM001_05255_KAGEELJA_000_341","Sorry for the wait. The wivres are ready."
+180,"TEXT_BANMAM001_05255_RUVOLLJA_000_342","Thanks, Kageel Ja. Let's get started!"
+181,"TEXT_BANMAM001_05255_RUVOLLJA_000_400","This gainery will give Mamook another chance. I can just feel it."
+182,"TEXT_BANMAM001_05255_ANGGIR_000_401","I can feel it too. Let's show the world what these lands can grow."
+183,"TEXT_BANMAM001_05255_ANGGIR_000_402","Together, by our own hands."
+184,"TEXT_BANMAM001_05255_SYSTEM_000_403","From hopes yet to fully blossom, Mamook has established a gainery! Help the Mamool Ja come to love the land that supports them by aiding the farmers of Gok Golma."
+185,"TEXT_BANMAM001_05255_SYSTEM_000_450","You have achieved <hex:024804F201F403><hex:024904F201F503>Friendly<hex:0249020103><hex:0248020103> reputation with the farmers of Gok Golma."
+186,"TEXT_BANMAM001_05255_SYSTEM_000_451","Mamool Ja society quests are now available from Kageel Ja in Gok Golma."
+187,"TEXT_BANMAM001_05255_SYSTEM_000_452","Furthermore, you may now purchase wares from Veerul Ja."

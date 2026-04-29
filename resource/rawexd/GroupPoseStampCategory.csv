@@ -1,40 +1,40 @@
-﻿key,1
-#,Name
-offset,0
-int32,str
-0,無
-1,寵物
-2,氣泡
-3,表情
-4,九宮幻卡
-5,整體
-6,國旗
-7,符號
-8,食品
-9,裝飾
-10,副本
-11,任務
-12,危命任務
-13,金碟遊樂場
-14,
-15,
-16,標誌
-17,漫畫符號
-18,藥品
-19,任務圖標
-20,塗鴉風格寵物
-21,<hex:0212027103>嘉年華：FAN FESTIVAL 2026
-22,<hex:0212027103>嘉年華：FAN FESTIVAL 2026
-23,紙膠帶
-24,職業·特職
-25,多瑪方城戰
-26,<hex:0212026503>10週年紀念
-27,副本
-28,生日
-29,怪物獵人：荒野
-30,宇宙探索
-31,靈魂水晶
-32,
-33,
-34,
-35,
+﻿key,0,1
+#,,Name
+offset,4,0
+int32,byte,str
+0,0,"None"
+1,1,"Minions"
+2,40,"Speech Bubbles"
+3,60,"Emotes"
+4,20,"Triple Triad"
+5,100,"General"
+6,10,"Flags"
+7,31,"Punctuation Marks"
+8,70,"Meals"
+9,30,"Decorations"
+10,102,"Duty"
+11,101,"Quest"
+12,103,"FATE"
+13,104,"Gold Saucer"
+14,0,""
+15,0,""
+16,150,"Logos"
+17,32,"Manga"
+18,71,"Medicine"
+19,50,"Quest Icons"
+20,80,"Doodles"
+21,90,"<hex:0212027103> Fan Festival 2026"
+22,190,"<hex:0212027103> Fan Festival 2026"
+23,81,"Washi Tape"
+24,2,"Classes/Jobs"
+25,21,"Doman Mahjong"
+26,0,""
+27,82,"Duty"
+28,33,"Birthday"
+29,140,"Monster Hunter Wilds"
+30,22,"Cosmic Exploration"
+31,3,"Soul Crystal"
+32,0,""
+33,0,""
+34,0,""
+35,0,""

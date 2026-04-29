@@ -2,36 +2,36 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_VOICEMAN_03008_000010_NANAMO,神殿騎士團總騎士長艾默里克閣下<hex:02100103>作為伊修加德代理教皇已經簽下了名字
-1,TEXT_VOICEMAN_03008_000020_NANAMO,我在此宣布！
-2,TEXT_VOICEMAN_03008_000030_NANAMO,從即日起<hex:02100103>山岳之都伊修加德正式回歸艾歐澤亞城邦軍事同盟
-3,TEXT_VOICEMAN_03008_000040_NANAMO,我們四國將同患難、共進退<hex:02100103>共同抵抗加雷馬帝國的侵略！
-4,TEXT_VOICEMAN_03008_000050_AYMERIC,一切為了艾歐澤亞！
-5,TEXT_VOICEMAN_03008_000060_RAUBAHNMERLWYBKANESENNA,一切為了艾歐澤亞！
-6,TEXT_VOICEMAN_03008_000070_ALPHINAUD,你在這裡啊
-7,TEXT_VOICEMAN_03008_000080_ALPHINAUD,那是你為奧爾什方閣下製作的吧
-8,TEXT_VOICEMAN_03008_000090_TATARU,奧爾什方大人會一直在這裡守護著伊修加德的
-9,TEXT_VOICEMAN_03008_000100_ALPHINAUD,這次漫長的旅程<hex:02100103>我們歷盡了艱險 還失去了偉大的朋友
-10,TEXT_VOICEMAN_03008_000110_ALPHINAUD,但是我們絕不半途而廢 一定會堅持到底
-11,TEXT_VOICEMAN_03008_000120_TATARU,沒錯！<hex:02100103>接下來我們要開始正式重建拂曉血盟了！
-12,TEXT_VOICEMAN_03008_000130_TATARU,首先我們要確保足夠的活動資金！
-13,TEXT_VOICEMAN_03008_000140_EDMONT,就這樣 這次的故事迎來了結尾
-14,TEXT_VOICEMAN_03008_000150_EDMONT,伊修加德的動蕩還將持續一段時間
-15,TEXT_VOICEMAN_03008_000160_EDMONT,持續千年的教皇統治終結<hex:02100103>給這個國家帶來了前所未有的變化
-16,TEXT_VOICEMAN_03008_000170_EDMONT,和龍族之間的戰爭也並沒有徹底結束<hex:02100103>邪龍至今還在威脅著人們
-17,TEXT_VOICEMAN_03008_000180_EDMONT,但是
-18,TEXT_VOICEMAN_03008_000190_EDMONT,只要年輕的神殿騎士團總騎士長和其忠實的盟友還在<hex:02100103>只要為我們帶來光明的英雄還在
-19,TEXT_VOICEMAN_03008_000200_EDMONT,我相信人類和龍族終有一日能夠互相理解<hex:02100103>再一次達成真正的和平共處
-20,TEXT_VOICEMAN_03008_000210_EDMONT,而這個責任正落在我們身上
-21,TEXT_VOICEMAN_03008_000220_EDMONT,我們將以實際行動迎來新的千年龍詩
-22,TEXT_VOICEMAN_03008_100010_ELIDIBUS,<hex:024804F2022303>拉哈布雷亞和以格約姆失敗了……<hex:0248020103>
-23,TEXT_VOICEMAN_03008_100020_ELIDIBUS,<hex:024804F2022303>他們打算引發第八次次元崩壞，<hex:02100103>不過看來還是低估了人類。<hex:0248020103>
-24,TEXT_VOICEMAN_03008_100030_ELIDIBUS,<hex:024804F2022303>不過這對我也不是全然無關……<hex:0248020103>
-25,TEXT_VOICEMAN_03008_100040_ELIDIBUS,（★未使用／削除予定★）
-26,TEXT_VOICEMAN_03008_100050_ELIDIBUS,<hex:024804F2022303>如此下去光與暗的均衡會被打破，<hex:02100103>我們想將世界回歸原樣的計劃也會失敗……<hex:0248020103>
-27,TEXT_VOICEMAN_03008_100060_ELIDIBUS,<hex:024804F2022303>光之戰士的力量已經過於強大了，<hex:02100103>強大到快要接近神的領域……<hex:0248020103>
-28,TEXT_VOICEMAN_03008_100070_ELIDIBUS,<hex:024804F2022303>現在就該你們出馬了。<hex:0248020103>
-29,TEXT_VOICEMAN_03008_100080_ELIDIBUS,<hex:024804F2022303>暗之戰士啊……<hex:0248020103>
-30,TEXT_VOICEMAN_03008_200010_CID,啊……<hex:02100103>這可真是一波未平一波又起啊。
-31,TEXT_VOICEMAN_03008_200020_YSHTOLA,可不是嘛。
-32,TEXT_VOICEMAN_03008_200030_CID,啊，這傢伙還真的什麼都敢啟動啊……<hex:02100103>這可不是玩具，<hex:02100103>這是蠻神啊！
+0,"TEXT_VOICEMAN_03008_000010_NANAMO","Let all here present attest that Ser Aymeric, acting on<hex:02100103>behalf of the archbishop, has appended his signature."
+1,"TEXT_VOICEMAN_03008_000020_NANAMO","I do hereby declare..."
+2,"TEXT_VOICEMAN_03008_000030_NANAMO","That from this day forth, the Holy See of Ishgard<hex:02100103>shall once more be counted a member of the Eorzean Alliance."
+3,"TEXT_VOICEMAN_03008_000040_NANAMO","Let our nations move forward as one,<hex:02100103>and stand united against the Garlean Empire!"
+4,"TEXT_VOICEMAN_03008_000050_AYMERIC","For the future of Eorzea!"
+5,"TEXT_VOICEMAN_03008_000060_RAUBAHNMERLWYBKANESENNA","For the future of Eorzea!"
+6,"TEXT_VOICEMAN_03008_000070_ALPHINAUD","There you are."
+7,"TEXT_VOICEMAN_03008_000080_ALPHINAUD","A noble monument to a noble soul."
+8,"TEXT_VOICEMAN_03008_000090_TATARU","From here, Lord Haurchefant can watch over all of Ishgard..."
+9,"TEXT_VOICEMAN_03008_000100_ALPHINAUD","It has been a long and arduous journey.<hex:02100103>And we have lost much and more along the way."
+10,"TEXT_VOICEMAN_03008_000110_ALPHINAUD","Yet come what may, we must stay true to our purpose and press on."
+11,"TEXT_VOICEMAN_03008_000120_TATARU","That's right, you two! It's high time<hex:02100103>we got back to rebuilding the Scions!"
+12,"TEXT_VOICEMAN_03008_000130_TATARU","Which means we're going to need money─and lots of it!"
+13,"TEXT_VOICEMAN_03008_000140_EDMONT","So ends a glorious chapter in their tale."
+14,"TEXT_VOICEMAN_03008_000150_EDMONT","However, tumultuous days yet lie ahead for Ishgard."
+15,"TEXT_VOICEMAN_03008_000160_EDMONT","After a thousand years under the yoke of the church,<hex:02100103>the people take their first tentative steps into the unknown."
+16,"TEXT_VOICEMAN_03008_000170_EDMONT","And though they spy a glimmer of peace upon the horizon,<hex:02100103>Nidhogg's vengeful shadow yet remains to darken the way."
+17,"TEXT_VOICEMAN_03008_000180_EDMONT","Be that as it may..."
+18,"TEXT_VOICEMAN_03008_000190_EDMONT","So long as the young commander of the Temple Knights<hex:02100103>and his heroic companions are there to guide them,<hex:02100103>the people may hold fast to hope─"
+19,"TEXT_VOICEMAN_03008_000200_EDMONT","the hope that, one day, true peace will return to Ishgard,<hex:02100103>and that man and dragon may live in harmony once more."
+20,"TEXT_VOICEMAN_03008_000210_EDMONT","Let the deeds writ herein never be forgot,"
+21,"TEXT_VOICEMAN_03008_000220_EDMONT","that they may inspire generations yet unborn to strive ever heavensward."
+22,"TEXT_VOICEMAN_03008_100010_ELIDIBUS","(-Elidibus-)<hex:024804F2022303>So Lahabrea and Igeyorhm have fallen.<hex:0248020103>"
+23,"TEXT_VOICEMAN_03008_100020_ELIDIBUS","(-Elidibus-)<hex:024804F2022303>Bested by mortals in their attempt to initiate the eighth Rejoining. That they should be so complacent...<hex:0248020103>"
+24,"TEXT_VOICEMAN_03008_100030_ELIDIBUS","(-Elidibus-)<hex:024804F2022303>And now it falls to me to deal with the consequences...<hex:0248020103>"
+25,"TEXT_VOICEMAN_03008_100040_ELIDIBUS",""
+26,"TEXT_VOICEMAN_03008_100050_ELIDIBUS","(-Elidibus-)<hex:024804F2022303>Without intervention, the balance between Light and Darkness will begin to shift, placing our mission in jeopardy.<hex:0248020103>"
+27,"TEXT_VOICEMAN_03008_100060_ELIDIBUS","(-Elidibus-)<hex:024804F2022303>Hydaelyn's champion has grown too strong. <hex:02080DE905FF04>Her<hex:FF04>His<hex:03> might encroaches upon the realm of gods.<hex:0248020103>"
+28,"TEXT_VOICEMAN_03008_100070_ELIDIBUS","(-Elidibus-)<hex:024804F2022303>Equilibrium must needs be restored. The time is come for you and yours to join the fray...<hex:0248020103>"
+29,"TEXT_VOICEMAN_03008_100080_ELIDIBUS","(-Elidibus-)<hex:024804F2022303>...Warrior of Darkness.<hex:0248020103>"
+30,"TEXT_VOICEMAN_03008_200010_CID","Remind me: why is there no rest for the righteous?"
+31,"TEXT_VOICEMAN_03008_200020_YSHTOLA","Because they <hex:021A020203>care<hex:021A020103>, Master Garlond."
+32,"TEXT_VOICEMAN_03008_200030_CID","Of all the things they could have picked to play with... That's not a toy, you bloody fools─it's a primal!"

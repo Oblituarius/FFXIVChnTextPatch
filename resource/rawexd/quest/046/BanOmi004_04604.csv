@@ -2,182 +2,182 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_BANOMI004_04604_SEQ_00,<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整（限定職業）<hex:0249020103><hex:0248020103><hex:02100103>A4調查平台的N-7000對咖啡廳的運營狀況表示滿意。
-1,TEXT_BANOMI004_04604_SEQ_01,※本任務為<hex:024804F201FC03><hex:024904F201FD03><hex:0249020103><hex:0248020103> 等級調整（限定職業）任務，<hex:02100103>　需要與接受任務時的職業相同才可繼續進行任務。<hex:02100103><hex:02100103>和N-7000進行了交談，了解到至福樂土與咖啡廳的狀態一切正常。訪問天外天垓的背世咖啡廳，和聆聽威談談。
-2,TEXT_BANOMI004_04604_SEQ_02,和聆聽威進行了交談，冒險者得知他們想要邀請居住在天外天垓的龍族來咖啡廳做客。和天外天垓半途終旅的N-7000談談。
-3,TEXT_BANOMI004_04604_SEQ_03,和N-7000它們一起拜訪了難過的龍，它看上去十分的悲觀。和龍堡參天高地不潔三塔的維德弗尼爾談談，尋找解決辦法。
-4,TEXT_BANOMI004_04604_SEQ_04,和維德弗尼爾進行了交談，冒險者決定向天外天垓的龍族提供可以回憶起龍星的菜品。為了協助咖啡廳，前往龍堡參天高地獲取需要的素材，並交給在天外天垓背世咖啡廳等待的N-7000。
-5,TEXT_BANOMI004_04604_SEQ_05,將製作可以回憶起龍星菜品的食材交給了N-7000。龍族散發出的潛能量或許對新星產生了新的影響。和A4調查平台的N-7000談談。
-6,TEXT_BANOMI004_04604_SEQ_06,新星上出現了與龍星的靈峰相似的景色。N-7000對難過的龍的現狀感到了安心。為了支援背世咖啡廳的運營，請繼續協助他們。
-7,TEXT_BANOMI004_04604_SEQ_07,
-8,TEXT_BANOMI004_04604_SEQ_08,
-9,TEXT_BANOMI004_04604_SEQ_09,
-10,TEXT_BANOMI004_04604_SEQ_10,
-11,TEXT_BANOMI004_04604_SEQ_11,
-12,TEXT_BANOMI004_04604_SEQ_12,
-13,TEXT_BANOMI004_04604_SEQ_13,
-14,TEXT_BANOMI004_04604_SEQ_14,
-15,TEXT_BANOMI004_04604_SEQ_15,
-16,TEXT_BANOMI004_04604_SEQ_16,
-17,TEXT_BANOMI004_04604_SEQ_17,
-18,TEXT_BANOMI004_04604_SEQ_18,
-19,TEXT_BANOMI004_04604_SEQ_19,
-20,TEXT_BANOMI004_04604_SEQ_20,
-21,TEXT_BANOMI004_04604_SEQ_21,
-22,TEXT_BANOMI004_04604_SEQ_22,
-23,TEXT_BANOMI004_04604_SEQ_23,
-24,TEXT_BANOMI004_04604_TODO_00,和聆聽威對話
-25,TEXT_BANOMI004_04604_TODO_01,和N-7000對話
-26,TEXT_BANOMI004_04604_TODO_02,和不潔三塔的維德弗尼爾對話
-27,TEXT_BANOMI004_04604_TODO_03,<hex:0208F20122E4E80511FF5E><hex:02085AE3E802E803FF35>在不潔三塔西南邊的石場採集<hex:02280AFF05>Item<hex:E8060103><hex:FF1D>將<hex:02280AFF05>Item<hex:E8060103>交給N-7000<hex:03><hex:FFBE><hex:0208BAE4E80512FF5E><hex:02085AE3E802E803FF35>在不潔三塔東北邊的草場採集<hex:02280AFF05>Item<hex:E8060103><hex:FF1D>將<hex:02280AFF05>Item<hex:E8060103>交給N-7000<hex:03><hex:FF55><hex:020851E4E80513FF49><hex:020845E3E802E803FF20>在餌食台地釣<hex:02280AFF05>Item<hex:E8060103><hex:FF1D>將<hex:02280AFF05>Item<hex:E8060103>交給N-7000<hex:03><hex:FF01><hex:03><hex:03><hex:03>
-28,TEXT_BANOMI004_04604_TODO_04,和A4調查平台的N-7000對話
-29,TEXT_BANOMI004_04604_TODO_05,
-30,TEXT_BANOMI004_04604_TODO_06,
-31,TEXT_BANOMI004_04604_TODO_07,
-32,TEXT_BANOMI004_04604_TODO_08,
-33,TEXT_BANOMI004_04604_TODO_09,
-34,TEXT_BANOMI004_04604_TODO_10,
-35,TEXT_BANOMI004_04604_TODO_11,
-36,TEXT_BANOMI004_04604_TODO_12,
-37,TEXT_BANOMI004_04604_TODO_13,
-38,TEXT_BANOMI004_04604_TODO_14,
-39,TEXT_BANOMI004_04604_TODO_15,
-40,TEXT_BANOMI004_04604_TODO_16,
-41,TEXT_BANOMI004_04604_TODO_17,
-42,TEXT_BANOMI004_04604_TODO_18,
-43,TEXT_BANOMI004_04604_TODO_19,
-44,TEXT_BANOMI004_04604_TODO_20,
-45,TEXT_BANOMI004_04604_TODO_21,
-46,TEXT_BANOMI004_04604_TODO_22,
-47,TEXT_BANOMI004_04604_TODO_23,
-48,TEXT_BANOMI004_04604_N7000_000_001,沙沙沙……在宇宙空間以及新星進行的資源採集任務進展順利，<hex:02100103>此外我們與異亞以及繆·繆咻之間也保持著良好的交流關係。<hex:02100103>據本機推測，宇宙空間內的潛能量正在逐步向著理想的方向轉變。
-49,TEXT_BANOMI004_04604_JAMMINGWAY_000_002,至福樂土那邊包括異亞在內的眾多種族<hex:02100103>都已經將觀察繆·繆咻們充滿精神的樣子當做了樂趣！
-50,TEXT_BANOMI004_04604_JAMMINGWAY_000_003,咖啡廳那邊也變得更加熱鬧了呢！<hex:02100103><hex:022903EB0203>跟我們一起去看看吧！
-51,TEXT_BANOMI004_04604_Q5_000_000,要前往背世咖啡廳嗎？
-52,TEXT_BANOMI004_04604_N7000_000_010,沙沙沙……據本機觀察咖啡廳的入座率進一步上升。<hex:02100103>這是否意味著咖啡廳受到了好評？
-53,TEXT_BANOMI004_04604_JAMMINGWAY_000_011,自從異亞和繆·繆咻們來店之後，<hex:02100103>整個咖啡廳都變得熱鬧多了吧？
-54,TEXT_BANOMI004_04604_N7000_000_012,沙沙沙……本機認為我們差不多應該迎接新的客人了。
-55,TEXT_BANOMI004_04604_JAMMINGWAY_000_013,呵呵，對此我已經有了想法！
-56,TEXT_BANOMI004_04604_JAMMINGWAY_000_014,那就是原本居住在這片宇宙空間的龍族！<hex:02100103>既然我們已經邀請了異亞們，那自然也要請它們來店對吧！
-57,TEXT_BANOMI004_04604_N7000_000_015,本機對全身毛絨絨的有機生命體是否理解問題所在表示疑問。<hex:02100103>對於龍族來說，我們阿爾法坦文明是它們的仇敵。<hex:02100103>無法預測它們對同一宇宙空間中再現出來的我們抱有怎樣的想法。
-58,TEXT_BANOMI004_04604_JAMMINGWAY_000_016,哦？你這破爛難得會想到這一點！
-59,TEXT_BANOMI004_04604_JAMMINGWAY_000_017,不過如果它們仍然抱有敵對情緒的話，<hex:02100103>那現在這片宇宙空間內的潛能量應該早就受到負面影響了！<hex:02100103>所以即便是為了掌握現狀，我們也得去拜訪它們一趟！
-60,TEXT_BANOMI004_04604_N7000_000_018,本機認為此次行動應當將本機排除在外。<hex:02100103>本機一同前往的話，有極高的可能性會招致目標過剩的抵觸。
-61,TEXT_BANOMI004_04604_JAMMINGWAY_000_019,別這麼說嘛！<hex:02100103>正因為你是奧密克戎族，<hex:02100103>所以才能跟它們龍族有的聊嘛！
-62,TEXT_BANOMI004_04604_JAMMINGWAY_000_020,當然，阿爾法坦文明對龍族實施的侵略行為的確是無法挽回的。<hex:02100103>但正因如此，才更需要在這片宇宙空間中互相直面這個事件不是嗎？
-63,TEXT_BANOMI004_04604_N7000_000_021,沙沙沙……既然聆聽威提出上述建議，<hex:02100103>本機也認為應當選擇嘗試。<hex:02100103>同意本次的同行請求。
-64,TEXT_BANOMI004_04604_JAMMINGWAY_000_022,這樣就對了嘛，我也跟著呢，不會有問題的！<hex:02100103>那就出發前往半途終旅尋找能夠交涉的龍族吧！
-65,TEXT_BANOMI004_04604_JAMMINGWAY_000_030,那個……我們是背世咖啡廳的……<hex:02100103>你在聽嗎？！
-66,TEXT_BANOMI004_04604_NIBIRAENOMI_000_031,這片土地也罷……<hex:02100103>我們對生命已然看開，只為滅亡的母星繼續締造著哀歌……<hex:02100103>可又是哪個個體想要攪亂我們的安寧？
-67,TEXT_BANOMI004_04604_DRAGONOMI_000_029,……
-68,TEXT_BANOMI004_04604_N7000_000_032,現在聆聽威正在嘗試與龍族交涉。<hex:02100103>目前來看結果並不理想。
-69,TEXT_BANOMI004_04604_JAMMINGWAY_000_033,我說！我們是來為咖啡廳做宣傳的……<hex:02100103>你聽見了嗎？！
-70,TEXT_BANOMI004_04604_JAMMINGWAY_000_034,唔——！我可沒那麼容易放棄！<hex:02100103>喂！！
-71,TEXT_BANOMI004_04604_DRAGONOMI_000_035,還以為是什麼在耳邊叫喚……<hex:02100103>原來是來到此地驅散了我們追思迷霧的小傢伙的同伴嗎……
-72,TEXT_BANOMI004_04604_DRAGONOMI_000_036,就算迷霧已經散去，我們沉眠於此的心願依舊不會改變……<hex:02100103>打攪我們的夢境實乃野蠻行為……
-73,TEXT_BANOMI004_04604_JAMMINGWAY_000_037,請不要急著這麼說嘛！<hex:02100103>我們背世咖啡廳的目標是希望這片宇宙空間內的種族齊聚一堂！
-74,TEXT_BANOMI004_04604_JAMMINGWAY_000_038,我想你們肯定對負責運營咖啡廳的奧密克戎族感到心情複雜……<hex:02100103>不過正因為如此，我們才希望你們能夠來店裡做客！
-75,TEXT_BANOMI004_04604_DRAGONOMI_000_039,對於我來說就連敗給那些鋼鐵兵團的記憶<hex:02100103>也早已化作了過往雲煙……即便它們當中的一員現在就在眼前，<hex:02100103>可我卻早已經流乾了仇恨的淚水……
-76,TEXT_BANOMI004_04604_DRAGONOMI_000_040,我唯一的心願只是在這接近永恆的微睡之中等待肉身的腐朽……
-77,TEXT_BANOMI004_04604_N7000_000_041,沙沙沙……你只希望消逝嗎……<hex:02100103>難道如今對阿爾法坦文明一點都不感到憤恨了嗎？
-78,TEXT_BANOMI004_04604_N7000_000_042,在斷言你的仇恨已經乾枯前，<hex:02100103>不如嘗試向本機發起復仇如何？<hex:02100103>如果能重新激起你的情感活動，本機願意成為實驗體。
-79,TEXT_BANOMI004_04604_DRAGONOMI_000_043,就算將你一個鐵塊砸爛於此又能有何改變？<hex:02100103>一切皆遲，全部已經結束了……
-80,TEXT_BANOMI004_04604_DRAGONOMI_000_044,你們口中的咖啡廳想必是和我們龍族曾經為了交流龍詩<hex:02100103>而聚集的像是靈峰山麓一樣的地方吧。
-81,TEXT_BANOMI004_04604_DRAGONOMI_000_045,在失去了我們心中的聖地時，我們曾經哀嘆惋惜過……<hex:02100103>但在經過了漫長的時間後，現如今連一絲留戀都已經不復存在……
-82,TEXT_BANOMI004_04604_N7000_000_046,沙沙沙……目標如此拒絕交流的話，<hex:02100103>別說承諾前往咖啡廳做客，恐怕就連表面上的和解都很難做到。<hex:02100103>本機推薦像對待尼比侖人一樣，重新審視此次的計劃。
-83,TEXT_BANOMI004_04604_JAMMINGWAY_000_047,唔……現在放棄還是太早了！<hex:02100103>在我們的努力下就連曾經因互相爭鬥而毀滅了母星的卡列連人<hex:02100103>也開始攜手合作在新星那裡從事種田工作了！
-84,TEXT_BANOMI004_04604_JAMMINGWAY_000_048,所以我不相信憑藉我們一腔的熱情打動不了這些龍族！
-85,TEXT_BANOMI004_04604_JAMMINGWAY_000_049,再說了我們身邊還有引領龍詩戰爭<hex:02100103>走向了終結的<hex:022903EB0203>幫忙！
-86,TEXT_BANOMI004_04604_JAMMINGWAY_000_050,對了，生活在亞伊太利斯上的龍族就是目睹了母星邁向毀滅<hex:02100103>卻依然沒有放棄希望，最終飛向了宇宙的龍族後代！
-87,TEXT_BANOMI004_04604_JAMMINGWAY_000_051,如果<hex:022903EB0203>和熟悉的龍族聊聊，<hex:02100103>或許能找到什麼解決方案也說不定，你看怎麼樣？
-88,TEXT_BANOMI004_04604_Q1_000_000,如何作答？
-89,TEXT_BANOMI004_04604_A1_000_001,我去找和人類一起生活的弗栗多談談
-90,TEXT_BANOMI004_04604_A1_000_002,我去和性情溫和的維德弗尼爾談談
-91,TEXT_BANOMI004_04604_JAMMINGWAY_100_053,拉札罕的總督弗栗多閣下嗎……<hex:02100103>我想人家整天忙於公務，<hex:02100103>我們去打擾它不太合適吧。
-92,TEXT_BANOMI004_04604_JAMMINGWAY_000_053,居住在龍堡參天高地的維德弗尼爾閣下嗎！<hex:02100103>嗯嗯，不僅是七大天龍之一赫拉斯瓦爾格的眷屬，<hex:02100103>還掌管著眾多的龍族啊。
-93,TEXT_BANOMI004_04604_JAMMINGWAY_000_054,既然是積極倡導不同種族之間和平共處的龍族，<hex:02100103>我想它一定願意和我們聊聊的！
-94,TEXT_BANOMI004_04604_N7000_000_055,沙沙沙……資料庫中沒有你們星球的歷史數據，<hex:02100103>不過如果有可以依靠的關係，那實屬幸運。
-95,TEXT_BANOMI004_04604_N7000_100_056,不管龍族是否願意接受我們的介入，<hex:02100103>本機都認為必須改變它們的想法才行！
-96,TEXT_BANOMI004_04604_JAMMINGWAY_000_057,那我們出發去亞伊太利斯<hex:02100103>龍堡參天高地的不潔三塔找維德弗尼爾閣下吧！
-97,TEXT_BANOMI004_04604_N7000_000_058,沙沙沙……本機會在你們不在的這段時間<hex:02100103>繼續監督咖啡廳的運營情況。<hex:02100103>我會將小型遠程終端交給聆聽威以便保持聯絡。
-98,TEXT_BANOMI004_04604_JAMMINGWAY_000_059,那我們出發吧！
-99,TEXT_BANOMI004_04604_DRAGONOMI_000_060,啊——靈峰上吹拂過的微風啊……<hex:02100103>如今我也快要無力回憶起那種感覺了……
-100,TEXT_BANOMI004_04604_N7000_000_061,沙沙沙……在你們不在的這段時間<hex:02100103>本機會保證咖啡廳的完美運營。<hex:02100103>此外本機會與終端隨時保持著連接，請放心。
-101,TEXT_BANOMI004_04604_VIDOFNIR_000_070,渺小的人類啊……此次來訪是為何事？<hex:02100103>即便圍繞星球末日展開的戰鬥已經結束，<hex:02100103>你看上去仍然很忙啊。
-102,TEXT_BANOMI004_04604_VIDOFNIR_000_071,哦……這回你又帶來了奇怪的同伴呢。<hex:02100103>這就是星球意志創造的侍者以及在天之盡頭遇到的兵團一員嗎。
-103,TEXT_BANOMI004_04604_VIDOFNIR_000_072,萬萬沒想到你居然與毀滅了龍星的鋼鐵文明也建立了緣分……<hex:02100103>對於我來說感覺就像做夢一樣。
-104,TEXT_BANOMI004_04604_VIDOFNIR_100_072,你的行動總是超出我的想像。<hex:02100103>它雖是我們龍族的仇敵……<hex:02100103>可既然也是你的同伴，我也就不多過問了。
-105,TEXT_BANOMI004_04604_VIDOFNIR_000_073,回到正題上。在遙遠宇宙的盡頭獲得了虛偽的生命，<hex:02100103>不停哀嘆自身命運的同胞們嗎……<hex:02100103>這是何等的可憐，如果我能為它們做些什麼的話，請儘管說吧。
-106,TEXT_BANOMI004_04604_N7000_000_074,沙沙沙……本機感到十分驚訝，沒想到眼前的這位居然<hex:02100103>與天外天垓那些整日哀嘆悲觀的龍族是同一種生命體。<hex:02100103>此地的龍族對長久的壽命表現出了積極的想法並且內心很平穩。
-107,TEXT_BANOMI004_04604_N7000_000_075,在來這裡的路上，<hex:02100103>本機通過聆聽威得知了這顆星球上同盟者與龍族的關係。
-108,TEXT_BANOMI004_04604_N7000_000_076,該個體與同盟者之間彼此一定有著深厚的信賴關係。<hex:02100103>為了未來而共同奮鬥，<hex:02100103>不放棄心中的希望才獲得了如今的結果對吧。
-109,TEXT_BANOMI004_04604_JAMMINGWAY_000_077,我想請問一下，我們到底該如何與天外天垓的龍族相處？<hex:02100103>我們實在不知道該和它們說些什麼好……
-110,TEXT_BANOMI004_04604_VIDOFNIR_000_078,聽你們所說，我想它們早已在悲嘆中麻木。<hex:02100103>明明知道龍星曾經的樣子，卻無法回憶起來。
-111,TEXT_BANOMI004_04604_VIDOFNIR_000_079,我的祖上赫拉斯瓦爾格說過<hex:02100103>它曾經聽它的父親塵世幻龍講述過很多次龍星的樣子。
-112,TEXT_BANOMI004_04604_VIDOFNIR_100_079,最終踏上了征程開始尋找與龍星靈峰有著相似風景的地方，<hex:02100103>並與尼德霍格一起將索姆阿爾靈峰作為了居所。<hex:02100103>所以身為眷屬的我們也十分熱愛此地。
-113,TEXT_BANOMI004_04604_VIDOFNIR_000_080,美麗靈峰昔日的樣子……<hex:02100103>即便是在天之盡頭，你們如果能創造某種契機，<hex:02100103>讓同胞再次在心中描繪出那般壯麗的風景或許事態就會有所轉機。
-114,TEXT_BANOMI004_04604_JAMMINGWAY_000_081,龍星上靈峰昔日的樣子嗎……說的有道理！<hex:02100103>我們至今為止可是在宇宙盡頭的咖啡廳提供過各種各樣的菜餚，<hex:02100103>有些甚至改變了客人們以往的想法，這回應該也能成功！
-115,TEXT_BANOMI004_04604_N7000_000_082,沙沙沙……從以往咖啡廳積累的運營數據中進行分析。<hex:02100103>本機同樣贊成向它們提供適合的菜品。
-116,TEXT_BANOMI004_04604_N7000_000_083,可問題在於龍族應該不曾擁有飲食文化。<hex:02100103>本機推薦像對待格雷布洛弗們一樣，<hex:02100103>本次應當運用視覺情報讓目標回憶起靈峰的樣子。
-117,TEXT_BANOMI004_04604_JAMMINGWAY_000_084,唔……看來有必要在擺盤上下些工夫啊。<hex:02100103>不過總算是看到希望了！
-118,TEXT_BANOMI004_04604_JAMMINGWAY_000_085,在薩雷安收集到的食譜中就有來源於伊修加德<hex:02100103>並以索姆阿爾靈峰為形象設計的甜品。<hex:02100103>我們就以這個為基礎試著改良一下吧！
-119,TEXT_BANOMI004_04604_VIDOFNIR_000_086,你們真是會突發奇想。<hex:02100103>不過為了天之盡頭的龍族同胞……<hex:02100103>此地如果有什麼可用之物，就儘管去拿好了。
-120,TEXT_BANOMI004_04604_VIDOFNIR_000_087,在不潔三塔的西南邊蘊藏著非常美麗的綠色礦石。<hex:02100103>祖上也曾說過，被人類稱之為<hex:02280BFF05>Item<hex:F295870103>的這種石頭<hex:02100103>散發著與龍星靈峰相似的光輝。
-121,TEXT_BANOMI004_04604_VIDOFNIR_000_088,在不潔三塔的東北邊有一種白色可愛的花。<hex:02100103>祖上也曾說過，被人類稱之為<hex:02280BFF05>Item<hex:F2959F0103>的這種花<hex:02100103>有著與龍星靈峰山麓相似的色彩。
-122,TEXT_BANOMI004_04604_VIDOFNIR_000_089,在餌食台地有一種身體裡寄宿著水晶的魚類。<hex:02100103>祖上也曾說過，被人類稱之為<hex:02280BFF05>Item<hex:F295B70103>的這種魚<hex:02100103>散發著與龍星靈峰相似的光輝。
-123,TEXT_BANOMI004_04604_VIDOFNIR_000_090,據說<hex:02280BFF05>Item<hex:F295B70103>最喜歡大粒的魚卵。<hex:02100103>人類在釣魚時應該能用得上吧。
-124,TEXT_BANOMI004_04604_N7000_100_091,說到魚卵，本機推薦使用<hex:02280BFF05>Item<hex:F28EEC0103>。<hex:02100103>負責物資管理的N-0598正在天外天垓的A4調查平台準備該物品。
-125,TEXT_BANOMI004_04604_JAMMINGWAY_000_091,這些素材要是用在擺盤上，一定會做出十分漂亮的造型！<hex:02100103>有了維德弗尼爾閣下的認可，成功的機率也就越來越高了！
-126,TEXT_BANOMI004_04604_N7000_000_092,沙沙沙……在收集齊需要的資源後，請返回咖啡廳。<hex:02100103>雖然對這顆星球的調查活動仍然對本機具有十足的魅力，<hex:02100103>但遺憾的是遠程終端的可活動時間有限。
-127,TEXT_BANOMI004_04604_VIDOFNIR_000_095,拯救世界並非只能依靠武力。<hex:02100103>勇猛的人類之子，你將繼續邁向怎樣的道路呢……
-128,TEXT_BANOMI004_04604_JAMMINGWAY_000_100,這次是我們首次嘗試通過菜品的外觀來打動對方！<hex:02100103>希望這片宇宙空間的龍族能夠喜歡我們咖啡廳的菜品。
-129,TEXT_BANOMI004_04604_N7000_000_101,沙沙沙……遠程終端已經回收完畢。<hex:02100103>請問同盟者是否已經獲得需要的資源？
-130,TEXT_BANOMI004_04604_N7000_000_102,確認到目標物資。<hex:02100103>與該文明資料庫中龍星的景觀情報一致。
-131,TEXT_BANOMI004_04604_JAMMINGWAY_000_103,我們快點開始烹飪吧！
-132,TEXT_BANOMI004_04604_DRAGONOMI_000_104,沒想到有朝一日我會拜訪鋼鐵兵團聚集的場所……<hex:02100103>不過聽聞此次是來自天之盡頭同族的極力推薦，<hex:02100103>如果再繼續拒絕下去，那實在是有些辜負了那位同胞的好意……
-133,TEXT_BANOMI004_04604_JAMMINGWAY_000_105,你真的來了！<hex:02100103>來來來，請來這邊！
-134,TEXT_BANOMI004_04604_DRAGONOMI_000_106,這是為我準備的嗎？
-135,TEXT_BANOMI004_04604_JAMMINGWAY_000_107,是啊！<hex:02100103>我們特意向亞伊太利斯上的龍族維德弗尼爾閣下請教，<hex:02100103>用它告訴我們的素材製作出了這個以龍星靈峰為形象的甜品！
-136,TEXT_BANOMI004_04604_JAMMINGWAY_000_108,怎、怎麼樣？<hex:02100103>你喜歡嗎？
-137,TEXT_BANOMI004_04604_DRAGONOMI_000_109,……
-138,TEXT_BANOMI004_04604_DRAGONOMI_000_110,我已經很久未進食過有味道的食物，<hex:02100103>所以我甚至無法立刻回想起這是否是我喜歡的口味……
-139,TEXT_BANOMI004_04604_DRAGONOMI_000_111,不過這道甜品的造型，經你這麼一說的確是有點像……
-140,TEXT_BANOMI004_04604_DRAGONOMI_000_112,像是龍星上險峻的山峰以及環繞在四周的翠綠雲海……<hex:02100103>啊，這……這讓我再次回憶起了吹拂在雙翼上的勁風！
-141,TEXT_BANOMI004_04604_DRAGONOMI_000_113,雖然我對這個被稱為咖啡廳的地方依然知之甚少。<hex:02100103>但你們不惜跋涉前往異星求助於我們古老的同胞，<hex:02100103>為我準備了這道甜品。
-142,TEXT_BANOMI004_04604_DRAGONOMI_000_114,是你們的這份情感讓我回憶起了昔日故鄉的情景。
-143,TEXT_BANOMI004_04604_Q2_000_000,要說什麼？
-144,TEXT_BANOMI004_04604_A2_000_001,你現在感覺好點了嗎？
-145,TEXT_BANOMI004_04604_A2_000_002,不論是誰都會想念故鄉
-146,TEXT_BANOMI004_04604_DRAGONOMI_000_115,啊，昔日的情景能夠重現眼前，我實在是太幸運了……<hex:02100103>我們曾經在那顆美麗的星球上自由飛翔！
-147,TEXT_BANOMI004_04604_DRAGONOMI_000_116,我想將這種懷念的感覺也傳達給那些沉睡在半途終旅的同胞們。<hex:02100103>這樣我們就不用再繼續悲嘆，<hex:02100103>至少能在充滿暖意的睡夢中繼續回憶母星……
-148,TEXT_BANOMI004_04604_N7000_000_117,沙沙沙……本機對於龍族展現出良好的情感表示歡迎。<hex:02100103>只不過在邀請其他龍族來店做客之前……
-149,TEXT_BANOMI004_04604_N7000_000_118,這裡有很多奧密克戎族活動。<hex:02100103>這對你們來說真的沒有問題嗎？
-150,TEXT_BANOMI004_04604_DRAGONOMI_000_119,鋼鐵的士兵啊……雖然不知道我們為何在此重新獲得了生命，<hex:02100103>但如今的你們也不會再散播毀滅的火種。<hex:02100103>我們龍族發誓絕不會向毫無威脅的生命露出爪牙。
-151,TEXT_BANOMI004_04604_DRAGONOMI_000_120,而且在見到像這樣多種多樣的生命聚集於此的熱鬧情景後，<hex:02100103>不必多問便已經能猜想這裡到底是怎樣的一個場所……
-152,TEXT_BANOMI004_04604_N7000_000_121,沙沙沙……據本機觀測，咖啡廳的運營風險並未增加。<hex:02100103>有機生命體的感情以及在此地誕生的情感之力<hex:02100103>著實讓我深感興趣……
-153,TEXT_BANOMI004_04604_N7000_000_122,看來此次圍繞龍族展開的行動<hex:02100103>不僅讓本機對咖啡廳的運營做出了很高的評價，<hex:02100103>並且在記錄中生成了未分類的評價結果……繼續進行分析。
-154,TEXT_BANOMI004_04604_JAMMINGWAY_000_123,你又開始不好好說話了！<hex:02100103>我覺得你是想說你感到了高興對吧？
-155,TEXT_BANOMI004_04604_N7000_000_124,沙沙沙……全身毛絨絨的有機生命體無權過問本機的動向。<hex:02100103>暫時停止分析與回應。
-156,TEXT_BANOMI004_04604_JAMMINGWAY_000_125,啊！不帶這樣的！<hex:02100103>有本事你別進入睡眠模式啊！
-157,TEXT_BANOMI004_04604_JAMMINGWAY_000_126,不管怎麼說，我們總算讓這片宇宙空間內的龍族<hex:02100103>也感受到了咖啡廳的魅力！<hex:02100103>我們前往至福樂土，看看那裡有沒有發生什麼變化吧！
-158,TEXT_BANOMI004_04604_Q4_000_000,要前往A4調查平台嗎？
-159,TEXT_BANOMI004_04604_JAMMINGWAY_000_128,希望從咖啡廳傳來的幸福情感催動了潛能量……<hex:02100103>我們過去看看吧！
-160,TEXT_BANOMI004_04604_N7000_000_127,沙沙沙……沒想到能夠與龍族建立這樣的交流。<hex:02100103>那位龍族已經先行前往至福樂土，<hex:02100103>本機也十分在意至福樂土的變化。
-161,TEXT_BANOMI004_04604_DRAGONOMI_000_300,即便是從我的記憶中冒出來的景色……<hex:02100103>可對於這個星體來說則是真真正正承受著風吹拂的山峰吧。
-162,TEXT_BANOMI004_04604_SYSTEM_000_301,至福樂土上出現了曾經矗立在龍星上的靈峰！<hex:02100103>面對懷念的故鄉風景，龍族的心靈得到了治癒。
-163,TEXT_BANOMI004_04604_SYSTEM_000_302,不過這個星體上還存在著眾多寸草不生的石場。<hex:02100103>如果繼續傾注包含希望的情感，<hex:02100103>或許可以利用潛能量的力量創造出新的風景吧。
-164,TEXT_BANOMI004_04604_JAMMINGWAY_000_140,沒想到星體上居然出現了群山！真是驚人！
-165,TEXT_BANOMI004_04604_N7000_000_141,沙沙沙……我們咖啡廳竟然真的請來了龍族做客。<hex:02100103>雖然本機認為就當前的情況來看，<hex:02100103>還不能認定我們之間的過節已得到清算，不過也算前進了一大步。
-166,TEXT_BANOMI004_04604_JAMMINGWAY_000_142,這就是理想中的異星文明之間的友好對話吧！<hex:02100103>我們正在逐漸達成建立這間咖啡廳的目的！
-167,TEXT_BANOMI004_04604_N7000_000_143,龍族與阿爾法坦文明之間的和諧相處，<hex:02100103>這在宇宙的歷史中是不可能發生的。<hex:02100103>不過正是因為陷入絕望的不同種族聚集於此才誕生出了幻想。
-168,TEXT_BANOMI004_04604_JAMMINGWAY_000_144,你不會是又想說這種幻想本來是無意義的……之類的話吧？<hex:02100103>別忘了，我也是被創造出來的生命，<hex:02100103>可我從不會認為自己體驗過的事情是虛幻的！
-169,TEXT_BANOMI004_04604_JAMMINGWAY_000_145,現在在這裡感受並思考著的N-7000是貨真價實存在的。<hex:02100103>承認這種事實不就相當於在服從生存命令嗎？
-170,TEXT_BANOMI004_04604_N7000_000_146,沙沙沙……你的評論顯得相當自大呢。<hex:02100103>不過今天就先聽你的好了。
-171,TEXT_BANOMI004_04604_JAMMINGWAY_000_147,這一切也多虧了<hex:022903EB0203>的協助，<hex:02100103>才讓我們得以在宇宙的盡頭與另一種龍族結緣！<hex:02100103>你不覺得這很浪漫嗎？
-172,TEXT_BANOMI004_04604_SYSTEM_000_148,與奧密克戎族「背世咖啡廳」的關係程度到達了「名譽」。<hex:02100103>冒險者協助採集為龍族提供的食材，獲得了它們的信賴。
-173,TEXT_BANOMI004_04604_SYSTEM_000_149,今後可以在A4調查平台的斯提格瑪四處，<hex:02100103>接受可重覆進行的友好部族日常任務。
-174,TEXT_BANOMI004_04604_SYSTEM_000_150,同時，作為獎勵，<hex:02100103>友好關係等級提升的當天，<hex:02100103>可從斯提格瑪四處接受的友好部族日常任務數量追加3個。
-175,TEXT_BANOMI004_04604_SYSTEM_000_151,領取完所有友好關係等級提升前發行的友好部族日常任務後，<hex:02100103>將會發行作為獎勵的追加任務。<hex:02100103>受理限額未達到上限即可接受追加任務。
-176,TEXT_BANOMI004_04604_SYSTEM_000_152,並且可以在「N-0598」處購入要求「關係程度：名譽」的商品。<hex:02100103>在今後的冒險裡善加利用吧！
-177,TEXT_BANOMI004_04604_N7000_000_056,
-178,TEXT_BANOMI004_04604_JAMMINGWAY_100_091,
+0,"TEXT_BANOMI004_04604_SEQ_00","Last Dregs management would discuss the further development of your business plan.<hex:02100103>※The difficulty of this quest will be synced to your current level."
+1,"TEXT_BANOMI004_04604_SEQ_01","N-7000 and Jammingway are pleased to report that the Miw Miisv seem as happy as giant jellyfish from the sea of stars can possibly be─which is to say, quite. With the aim of experiencing the lively air these young creatures have imparted to the Last Dregs, you agree to accompany your fellow managers on their rounds.<hex:02100103><hex:02100103>※Please note that the difficulty of this quest has been synced to your current level. Furthermore, you may not proceed with a class or job that is different from when you accepted this quest."
+2,"TEXT_BANOMI004_04604_SEQ_02","You find the Last Dregs bustling but not overcrowded, leading to the inevitable proposal that you procure yet more patrons. Ever overflowing with ideas, Jammingway asserts that the dragons would be prime candidates. Though N-7000 expresses strong reservations given its civilization's role in the Dragonstar's untimely end, it is eventually convinced to make contact in the name of a better future for all involved."
+3,"TEXT_BANOMI004_04604_SEQ_03","You proceed to Reah Tahra, where Jammingway attempts to hail a representative of the Dragonstar. Though they do eventually succeed in this first step, it quickly becomes clear that your allied units will struggle to generate interest in the Last Dregs─or any feeling at all─due to the dragons' utter emotional exhaustion from having spent eons in mourning. Upon discussion, it is agreed that a dragon of more agreeable disposition might provide ideas on raising her kin from their dead-eyed torpor, so you make ready to return to Etheirys and consult with wise Vidofnir."
+4,"TEXT_BANOMI004_04604_SEQ_04","Though she is aware of her people's history with the invaders from the Alphatron Star, Vidofnir elects to concern herself with the welfare of her fellow dragons rather than ancient grudges. She explains to your party that the sacred peaks of the Dragonstar once evoked such bittersweet nostalgia in Midgardsormr that he chose his brood's new home by the look of its mountains─the peak now known as Sohm Al first among them─and suggests you attempt to stir her lost kin's memories of the same. Fortunately, there is a Coerthan dessert that may do just that."
+5,"TEXT_BANOMI004_04604_SEQ_05","Armed with the knowledge of which terrestrial resources once brought a nostalgic tear to Midgardsormr's eye, you gather the perfect ingredients near Anyx Trine, and set about making a confectioner's Sohm Al. Though your guest from Reah Tahra is reluctant at first, the sight of the dessert recalls memories of the Dragonstar's mountains that resonate to his very core, filling him with wistful fondness. Indeed, he soon wishes to bring other dragons to the Last Dregs for a similar experience, and reassures N-7000 that this will not mean the resuming of hostilities─for what is past is long, long past."
+6,"TEXT_BANOMI004_04604_SEQ_06","Alongside your allies, you venture to Elysion, a portion of which has now been transformed into a vision of the Dragonstar. Peaks tower over a clutch of eggs, and hope that dragons may soon coast upon the breeze reigns. Apparently more affected by N-7000's previous statements than they let on, Jammingway takes this success as an opportunity to remind the unit of its life's worth, and its power to bring about change─scientific limitations be damned."
+7,"TEXT_BANOMI004_04604_SEQ_07",""
+8,"TEXT_BANOMI004_04604_SEQ_08",""
+9,"TEXT_BANOMI004_04604_SEQ_09",""
+10,"TEXT_BANOMI004_04604_SEQ_10",""
+11,"TEXT_BANOMI004_04604_SEQ_11",""
+12,"TEXT_BANOMI004_04604_SEQ_12",""
+13,"TEXT_BANOMI004_04604_SEQ_13",""
+14,"TEXT_BANOMI004_04604_SEQ_14",""
+15,"TEXT_BANOMI004_04604_SEQ_15",""
+16,"TEXT_BANOMI004_04604_SEQ_16",""
+17,"TEXT_BANOMI004_04604_SEQ_17",""
+18,"TEXT_BANOMI004_04604_SEQ_18",""
+19,"TEXT_BANOMI004_04604_SEQ_19",""
+20,"TEXT_BANOMI004_04604_SEQ_20",""
+21,"TEXT_BANOMI004_04604_SEQ_21",""
+22,"TEXT_BANOMI004_04604_SEQ_22",""
+23,"TEXT_BANOMI004_04604_SEQ_23",""
+24,"TEXT_BANOMI004_04604_TODO_00","Speak with Jammingway."
+25,"TEXT_BANOMI004_04604_TODO_01","Speak with N-7000."
+26,"TEXT_BANOMI004_04604_TODO_02","Speak with Vidofnir at Anyx Trine."
+27,"TEXT_BANOMI004_04604_TODO_03","<hex:0208F2012BE4E80511FF5B><hex:020857E3E802E803FF2D>Mine <hex:02310CFF05>Item<hex:04E806030203> southwest of Anyx Trine<hex:FF22>Deliver <hex:02310CFF05>Item<hex:04E806030203> to N-7000<hex:03><hex:FFCA><hex:0208C6E4E80512FF5D><hex:020859E3E802E803FF2F>Gather <hex:02310CFF05>Item<hex:04E806030203> northeast of Anyx Trine<hex:FF22>Deliver <hex:02310CFF05>Item<hex:04E806030203> to N-7000<hex:03><hex:FF62><hex:02085EE4E80513FF56><hex:020852E3E802E803FF28>Catch <hex:02310CFF05>Item<hex:02E806020203> at the Iron Feast<hex:FF22>Deliver <hex:02310CFF05>Item<hex:03E806020203> to N-7000<hex:03><hex:FF01><hex:03><hex:03><hex:03>."
+28,"TEXT_BANOMI004_04604_TODO_04","Speak with N-7000 in A-4 Research."
+29,"TEXT_BANOMI004_04604_TODO_05",""
+30,"TEXT_BANOMI004_04604_TODO_06",""
+31,"TEXT_BANOMI004_04604_TODO_07",""
+32,"TEXT_BANOMI004_04604_TODO_08",""
+33,"TEXT_BANOMI004_04604_TODO_09",""
+34,"TEXT_BANOMI004_04604_TODO_10",""
+35,"TEXT_BANOMI004_04604_TODO_11",""
+36,"TEXT_BANOMI004_04604_TODO_12",""
+37,"TEXT_BANOMI004_04604_TODO_13",""
+38,"TEXT_BANOMI004_04604_TODO_14",""
+39,"TEXT_BANOMI004_04604_TODO_15",""
+40,"TEXT_BANOMI004_04604_TODO_16",""
+41,"TEXT_BANOMI004_04604_TODO_17",""
+42,"TEXT_BANOMI004_04604_TODO_18",""
+43,"TEXT_BANOMI004_04604_TODO_19",""
+44,"TEXT_BANOMI004_04604_TODO_20",""
+45,"TEXT_BANOMI004_04604_TODO_21",""
+46,"TEXT_BANOMI004_04604_TODO_22",""
+47,"TEXT_BANOMI004_04604_TODO_23",""
+48,"TEXT_BANOMI004_04604_N7000_000_001","<whirr> Miw Miisv status: thriving. According to recent scans, the Ea also emit pleased vibrations."
+49,"TEXT_BANOMI004_04604_JAMMINGWAY_000_002","They aren't the only ones! Members of quite a few civilizations have been enjoying watching the Miw Miisv frolic, and customer satisfaction has risen accordingly."
+50,"TEXT_BANOMI004_04604_JAMMINGWAY_000_003","On that note─it is just about time for our regular rounds at the café. Care to join?"
+51,"TEXT_BANOMI004_04604_Q5_000_000","Travel to the Last Dregs?"
+52,"TEXT_BANOMI004_04604_N7000_000_010","Café status: bustling. Installation of additional seating recommended."
+53,"TEXT_BANOMI004_04604_JAMMINGWAY_000_011","As you can see, the Last Dregs is now patronized by entities of all ages─and we have expanded our beverage range to accommodate both the young and the very, very old accordingly."
+54,"TEXT_BANOMI004_04604_N7000_000_012","Now that the Miw Miisv and the Ea have settled in, the timing to introduce new patrons is optimal."
+55,"TEXT_BANOMI004_04604_JAMMINGWAY_000_013","As a matter of fact, I was just thinking the same!"
+56,"TEXT_BANOMI004_04604_JAMMINGWAY_000_014","We've had such good luck with the Ea, it only seems natural that we invite the dragons next. They too are residents of Ultima Thule, after all."
+57,"TEXT_BANOMI004_04604_N7000_000_015","<whirr> Shall this unit scan your cranial cavern for irregularities? We Omicrons are the dragons' mortal enemies─they would not willingly break bread or any other substance with us. Projections indicate they may be traumatized by the very suggestion."
+58,"TEXT_BANOMI004_04604_JAMMINGWAY_000_016","Are you worried about them? How endearing!"
+59,"TEXT_BANOMI004_04604_JAMMINGWAY_000_017","Yet if Ultima Thule is to move forward, its people cannot remain mired in the conflicts of the past. It would befoul the dynamis, for one thing, and bugger up our hard work. You must learn to live in harmony!"
+60,"TEXT_BANOMI004_04604_N7000_000_018","<whirr> Acknowledged...but this unit will excuse itself from promotional efforts. The probability of the Dragonstar's life-forms reacting adversely to Omicron presence in their territory exceeds acceptable parameters."
+61,"TEXT_BANOMI004_04604_JAMMINGWAY_000_019","Parameters, shmarameters. It may be risky, but if the dragons are to believe that the Omicrons have turned over a new leaf, I can think of no better ambassador."
+62,"TEXT_BANOMI004_04604_JAMMINGWAY_000_020","You may not be able to rewind time and un-conquer the Dragonstar, but you can certainly strive to do better in the future we're creating. Dynamis makes the impossible possible─you said so yourself!"
+63,"TEXT_BANOMI004_04604_N7000_000_021","...Encouragement tentatively internalized. This unit will attempt to serve as an ambassador for peace."
+64,"TEXT_BANOMI004_04604_JAMMINGWAY_000_022","Then it is off to Reah Tahra we go!"
+65,"TEXT_BANOMI004_04604_JAMMINGWAY_000_030","Good perpetual evening, good sir, madam, or other! Can I interest you in a hot cup of coffee?"
+66,"TEXT_BANOMI004_04604_NIBIRAENOMI_000_031","The mournful dirge that echoes through this place is pleasing to the ear. Why do some of these individuals still rage against their fate?"
+67,"TEXT_BANOMI004_04604_DRAGONOMI_000_029","......"
+68,"TEXT_BANOMI004_04604_N7000_000_032","This unit has detected an additional hurdle to fulfilling the current objective."
+69,"TEXT_BANOMI004_04604_JAMMINGWAY_000_033","Excuse me! Can I interest you in, er...anything? Anything at all!?"
+70,"TEXT_BANOMI004_04604_JAMMINGWAY_000_034","Hello!? Ignoring me won't make me go away!"
+71,"TEXT_BANOMI004_04604_DRAGONOMI_000_035","...I wondered how a tuft of floss did come to clamor so, but 'tis no more than one of thy strange companions. This explaineth much."
+72,"TEXT_BANOMI004_04604_DRAGONOMI_000_036","Wilt thou not leave me to my slumber? So long have I been weary..."
+73,"TEXT_BANOMI004_04604_JAMMINGWAY_000_037","We have just the thing for that─coffee! Delectable cuisine, as well. Why not stop by the Last Dregs and see what the civilizations of Ultima Thule are raving about?"
+74,"TEXT_BANOMI004_04604_JAMMINGWAY_000_038","I realize that you may have complicated feelings about my Omicron friend here, but we would nevertheless offer you a place to eat, drink, and be merry!"
+75,"TEXT_BANOMI004_04604_DRAGONOMI_000_039","Art thou attempting to provoke me...? Though I suppose it matters not."
+76,"TEXT_BANOMI004_04604_DRAGONOMI_000_040","Neither grief nor hate stir within me, for my flame hath long since flickered and died."
+77,"TEXT_BANOMI004_04604_N7000_000_041","<whirr> The news that you do not wish to inflict vengeful obliteration upon the Alphatron Star should be welcome. However, this unit finds it unexpectedly difficult to process."
+78,"TEXT_BANOMI004_04604_N7000_000_042","Are you certain you do not desire revenge? Not even a micron? It may be advisable to gnaw on this unit in the name of experimentation, lest your conclusion be premature."
+79,"TEXT_BANOMI004_04604_DRAGONOMI_000_043","To what end? The destruction of a single machine changeth naught─meaneth naught."
+80,"TEXT_BANOMI004_04604_DRAGONOMI_000_044","Aye, we dragons once reveled as thou wouldst have me do. In the mountain's shadow did we gather to sing. Yet even our melodies are naught but memory now..."
+81,"TEXT_BANOMI004_04604_DRAGONOMI_000_045","If I no longer weep for the silence, machine, why dost thou believe I have aught to spare for thee?"
+82,"TEXT_BANOMI004_04604_N7000_000_046","<whirr> Conversational difficulty levels critical. This unit requests permission to retreat."
+83,"TEXT_BANOMI004_04604_JAMMINGWAY_000_047","Not so fast! The Karellians' apocalyptic aggression didn't stop us, and neither will this dragon's depression."
+84,"TEXT_BANOMI004_04604_JAMMINGWAY_000_048","All of our patrons have needed a little help in learning to hope again. It's just a matter of discerning what they value and how to provide it."
+85,"TEXT_BANOMI004_04604_JAMMINGWAY_000_049","Fortunately, we have the great <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> at our side! I've heard tell that you have no little experience treating with dragons."
+86,"TEXT_BANOMI004_04604_JAMMINGWAY_000_050","And though the dragons here may not recall their passions, if the Dragonsong War is any indication, their brethren on Etheirys possess no such problem."
+87,"TEXT_BANOMI004_04604_JAMMINGWAY_000_051","Surely there is at least one dragon of your acquaintance with whom we can consult?"
+88,"TEXT_BANOMI004_04604_Q1_000_000","What will you say?"
+89,"TEXT_BANOMI004_04604_A1_000_001","Vrtra will explain in terms we can understand."
+90,"TEXT_BANOMI004_04604_A1_000_002","Vidofnir is wise, and has been kind to me."
+91,"TEXT_BANOMI004_04604_JAMMINGWAY_100_053","Vrtra!? Satrap of Radz-at-Han? Oh, no, I wouldn't dream of calling him away from his work for this."
+92,"TEXT_BANOMI004_04604_JAMMINGWAY_000_053","Vidofnir it is, then. As a leader of her people and an arbiter of peace, she must have some advice about disagreeable dragons."
+93,"TEXT_BANOMI004_04604_JAMMINGWAY_000_054","And she doesn't sound like the sort to let her elders on the Dragonstar wallow for eternity."
+94,"TEXT_BANOMI004_04604_N7000_000_055","Etheirys's historical records are not registered to this unit's database, but the proposed course sounds logical as described."
+95,"TEXT_BANOMI004_04604_N7000_100_056","It is statistically probable that they will not welcome assistance from a former enemy...but this unit believes that we must restore hope to dragonkind."
+96,"TEXT_BANOMI004_04604_JAMMINGWAY_000_057","Then it's decided. Do we need to pack chassis wax or anything?"
+97,"TEXT_BANOMI004_04604_N7000_000_058","This unit must remain in Ultima Thule to ensure the smooth operation of the Last Dregs while allied life-forms are away. However, a portable communications drone can be dispatched for the journey."
+98,"TEXT_BANOMI004_04604_JAMMINGWAY_000_059","How convenient! Let us make for Anyx Trine posthaste!"
+99,"TEXT_BANOMI004_04604_DRAGONOMI_000_060","Would that I could recall the feel of the mountain breeze...but even that lieth beyond my power now."
+100,"TEXT_BANOMI004_04604_N7000_000_061","Communications network fully operational. This unit will ensure that customer experience remains optimal in your absence, and wishes you a pleasant traversal of space."
+101,"TEXT_BANOMI004_04604_VIDOFNIR_000_070","Dost thou ever rest, Little One? Thou hast brought salvation to the star, yet thy countenance bespeaks a mission."
+102,"TEXT_BANOMI004_04604_VIDOFNIR_000_071","The will of the star hath blessed thee with charming companions."
+103,"TEXT_BANOMI004_04604_VIDOFNIR_000_072","Yet to think I should meet one of the “machines” that drove my grandsire from the Dragonstar... 'Tis like unto a bedtime fable."
+104,"TEXT_BANOMI004_04604_VIDOFNIR_100_072","Fear not, for I shall not rebuke thee. Thou wouldst not be the first to call an old foe “friend”..."
+105,"TEXT_BANOMI004_04604_VIDOFNIR_000_073","'Tis the fate of the dragons that concerneth me. To condemn them to an empty existence forevermore would be cruel indeed."
+106,"TEXT_BANOMI004_04604_N7000_000_074","This unit did not expect to find you so...pleasant? Alive? It is difficult to locate the proper lexical data."
+107,"TEXT_BANOMI004_04604_N7000_000_075","Jammingway shared much data about the dragons of Etheirys during the journey, but this unit struggles to process that those who embrace an ageless existence upon this star are of the same species as the life-forms we encountered in Ultima Thule."
+108,"TEXT_BANOMI004_04604_N7000_000_076","Your dragons too faced countless battles and great suffering, yet they emerged whole. This unit wonders how much can be attributed to faith in their allied units, and how much to the resilience of their hope─or if these two variables are one and the same."
+109,"TEXT_BANOMI004_04604_JAMMINGWAY_000_077","...Which brings us back to our purpose here. Is there anything we can say to the dragons of Ultima Thule that might open their hearts to embrace hope once more?"
+110,"TEXT_BANOMI004_04604_VIDOFNIR_000_078","My sire, Hraesvelgr, oft spoke of Midgardsormr's tales of the Dragonstar, for from these memories was our Sohm Al born."
+111,"TEXT_BANOMI004_04604_VIDOFNIR_000_079","'Tis mine understanding that the Dragonstar possessed a sacred peak resplendent, and 'twas my grandsire's longing for its heights that drew him to nest upon Etheirys."
+112,"TEXT_BANOMI004_04604_VIDOFNIR_100_079","Mine ancestors doubtless felt its loss as keenly, yet their despair hath given way to exhaustion. The memory 'tis but a dull ache in their hearts."
+113,"TEXT_BANOMI004_04604_VIDOFNIR_000_080","Restore to them memory untainted by bitterness, and they may yet be inspired as my grandsire once was. Words, however, shall not suffice."
+114,"TEXT_BANOMI004_04604_JAMMINGWAY_000_081","If not words, what about taste? We've managed to evoke joyful recollections via soup before─surely we can do the same for the dragons."
+115,"TEXT_BANOMI004_04604_N7000_000_082","Previous customer data supports this hypothesis."
+116,"TEXT_BANOMI004_04604_N7000_000_083","However, dragons do not possess a culinary tradition as such. As with the Grebuloffs, we must think outside standard parameters."
+117,"TEXT_BANOMI004_04604_JAMMINGWAY_000_084","Oh, I believe I have precisely what we need."
+118,"TEXT_BANOMI004_04604_JAMMINGWAY_000_085","Among the recipes provided to us by our Sharlayan collaborators is one from Ishgard─a dessert resembling Sohm Al! If that's not outside standard parameters, I don't know what is."
+119,"TEXT_BANOMI004_04604_VIDOFNIR_000_086","A curious proposal, but thou art welcome to attempt it."
+120,"TEXT_BANOMI004_04604_VIDOFNIR_000_087","Southwest of Anyx Trine lie lustrous minerals, their sheen not unlike those of the Dragonstar's peaks. Collect them with my blessing."
+121,"TEXT_BANOMI004_04604_VIDOFNIR_000_088","My grandsire once spoke of the pale blossoms northeast of Anyx Trine as like unto those of the Dragonstar's valleys. Collect them with my blessing."
+122,"TEXT_BANOMI004_04604_VIDOFNIR_000_089","My grandsire once spoke of an iridescent fish in the Iron Feast, its scales a shade identical to the Dragonstar's holy peak."
+123,"TEXT_BANOMI004_04604_VIDOFNIR_000_090","Collect one with my blessing─I am told they subsist upon roe."
+124,"TEXT_BANOMI004_04604_N7000_100_091","This unit reminds you that all proceeds from gold salmon roe─available perpetually in A-4 Research─will be directed toward Omicron enhancement initiatives."
+125,"TEXT_BANOMI004_04604_JAMMINGWAY_000_091","It sounds like we shall be gazing upon a resplendent─and edible─peak in no time!"
+126,"TEXT_BANOMI004_04604_N7000_000_092","This unit requests that you return to the Last Dregs before initiating baking protocols. The utility of this drone's tiny digits is limited."
+127,"TEXT_BANOMI004_04604_VIDOFNIR_000_095","Thou art truly a warrior of warriors, yet much else besides..."
+128,"TEXT_BANOMI004_04604_JAMMINGWAY_000_100","We do strive to make our dishes visually appealing, but this will be our greatest challenge yet! I do hope the dragons appreciate it..."
+129,"TEXT_BANOMI004_04604_N7000_000_101","Drone battery low. This unit has returned it to the charging station despite Jammingway's protests."
+130,"TEXT_BANOMI004_04604_N7000_000_102","Ingredients consistent with Dragonstar environmental records. Please initiate baking protocols."
+131,"TEXT_BANOMI004_04604_JAMMINGWAY_000_103","Consider them initiated. Dessert is go!"
+132,"TEXT_BANOMI004_04604_DRAGONOMI_000_104","Remember, machine─'tis only at the purported request of my kin across the expanse that I humor thee. Do not test my patience overlong."
+133,"TEXT_BANOMI004_04604_JAMMINGWAY_000_105","We wouldn't dream of it! Now, if you'll come this way..."
+134,"TEXT_BANOMI004_04604_DRAGONOMI_000_106","...Thy tiny hands wrought this for my sake?"
+135,"TEXT_BANOMI004_04604_JAMMINGWAY_000_107","Yes! <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>'s less-tiny hands and N-7000's spinny whatsits also helped. We worked hard to make it as much like the holy peak of the Dragonstar as possible."
+136,"TEXT_BANOMI004_04604_JAMMINGWAY_000_108","Do you... Do you like it?"
+137,"TEXT_BANOMI004_04604_DRAGONOMI_000_109","......"
+138,"TEXT_BANOMI004_04604_DRAGONOMI_000_110","...'Tis difficult to say. My palate recalleth not what flavors once appealed. Visually, however..."
+139,"TEXT_BANOMI004_04604_DRAGONOMI_000_111","I see it. The peaks dividing the Dragonstar in twain, bright clouds to shroud them..."
+140,"TEXT_BANOMI004_04604_DRAGONOMI_000_112","I feel the wind upon my scales, and I...remember."
+141,"TEXT_BANOMI004_04604_DRAGONOMI_000_113","A passing strange place, this... Yet for the newfound bond with my distant kin, and these memories gifted unto me, I am grateful."
+142,"TEXT_BANOMI004_04604_DRAGONOMI_000_114","The gesture hath touched me─of that, be certain."
+143,"TEXT_BANOMI004_04604_Q2_000_000","What will you say?"
+144,"TEXT_BANOMI004_04604_A2_000_001","Do you feel a bit better now?"
+145,"TEXT_BANOMI004_04604_A2_000_002","It's all right to miss home. Everyone does, sometimes."
+146,"TEXT_BANOMI004_04604_DRAGONOMI_000_115","Indeed. How beautiful it was, our Dragonstar. How joyfully its winds did brace our wings..."
+147,"TEXT_BANOMI004_04604_DRAGONOMI_000_116","I should like my kin to remember those days. No longer to mourn them, but dream of them once more..."
+148,"TEXT_BANOMI004_04604_N7000_000_117","This unit is pleased to hear of your spiritual revival."
+149,"TEXT_BANOMI004_04604_N7000_000_118","However, it would be remiss of this unit not to remind you that our establishment employs a large Omicron staff. Your kin would be most welcome to join you, but would this not be intolerable to them?"
+150,"TEXT_BANOMI004_04604_DRAGONOMI_000_119","Metal warrior... Thou art not the same as thou once were. No more are we. I know not what to make of this future, but I would linger no longer in the past."
+151,"TEXT_BANOMI004_04604_DRAGONOMI_000_120","That is why you created this place, is it not?"
+152,"TEXT_BANOMI004_04604_N7000_000_121","<whirr> Logic circuits: complete. Threat level: nominal. Business status: booming."
+153,"TEXT_BANOMI004_04604_N7000_000_122","However, this unit is experiencing an anomalous overflow. Conditions mathematically insufficient to generate current levels of mission satisfaction. Further analysis required. Initializing additional processors..."
+154,"TEXT_BANOMI004_04604_JAMMINGWAY_000_123","Are you sure you aren't just...happy? You know, like a squishy-wishy organic life-form?"
+155,"TEXT_BANOMI004_04604_N7000_000_124","An illogical life-form such as yourself could not begin to understand this unit's internal workings. Terminating interaction─good-bye."
+156,"TEXT_BANOMI004_04604_JAMMINGWAY_000_125","Don't you dare go into sleep mode! Coward!"
+157,"TEXT_BANOMI004_04604_JAMMINGWAY_000_126","We cannot let N-7000's emotional disfunction detract from our success. To Elysion! We'll drag it there if we must."
+158,"TEXT_BANOMI004_04604_Q4_000_000","Travel to A-4 Research?"
+159,"TEXT_BANOMI004_04604_JAMMINGWAY_000_128","I'm happy, you're happy, the dragon is happy... There's nothing anomalous about being happy!"
+160,"TEXT_BANOMI004_04604_N7000_000_127","<whirr> Please refrain from vibrating your vocal organs. This unit will continue processing anomalous satisfaction levels once Elysion status has been verified."
+161,"TEXT_BANOMI004_04604_DRAGONOMI_000_300","I do hope that winds bless yonder peak..."
+162,"TEXT_BANOMI004_04604_SYSTEM_000_301","Inspiration has touched the dragons' hearts, and given form to a nostalgic vista from the Dragonstar."
+163,"TEXT_BANOMI004_04604_SYSTEM_000_302","Yet still there is room for Elysion to grow and change! What other hopes will the power of dynamis bring to life?"
+164,"TEXT_BANOMI004_04604_JAMMINGWAY_000_140","What a majestic sight that was. And so pointy!"
+165,"TEXT_BANOMI004_04604_N7000_000_141","<whirr> Harmony between dragons and Omicrons defies any and all prior projections. "
+166,"TEXT_BANOMI004_04604_JAMMINGWAY_000_142","A rousing success, then!"
+167,"TEXT_BANOMI004_04604_N7000_000_143","Given historical events, it should not be possible per the laws of the universe. Only in Ultima Thule could such a thing occur."
+168,"TEXT_BANOMI004_04604_JAMMINGWAY_000_144","In that case, I'd better not hear you question our potential ever again! This is definitive proof that we can do anything if we put our minds to it, no matter what your projections say."
+169,"TEXT_BANOMI004_04604_JAMMINGWAY_000_145","I was created by someone too, you know? But I don't believe that being artificial makes our experiences any less worthwhile. We're here, and we're making a difference! Have a little faith─that's what living is all about."
+170,"TEXT_BANOMI004_04604_N7000_000_146","...This unit did not realize that you were plagued by similar existential doubts, though it does explain your desire to pry into psyches you do not understand. Nevertheless, this unit will produce noises of generalized validation."
+171,"TEXT_BANOMI004_04604_JAMMINGWAY_000_147","Well...good! We've created a miracle here today─as well as new bonds between dragonkind that span time and space. I propose we bask in that glory for a while!"
+172,"TEXT_BANOMI004_04604_SYSTEM_000_148","You have achieved <hex:024804F201F403><hex:024904F201F503>Honored<hex:0249020103><hex:0248020103> reputation with the staff and patrons of the Last Dregs."
+173,"TEXT_BANOMI004_04604_SYSTEM_000_149","New Omicron society daily quests are now available from Stigma-4 at A-4 Research."
+174,"TEXT_BANOMI004_04604_SYSTEM_000_150","Furthermore, you will be able to undertake three additional quests from Stigma-4 as a reputation bonus. This bonus is available until the daily reset time for allied society quests."
+175,"TEXT_BANOMI004_04604_SYSTEM_000_151","These additional quests will become available after accepting all current daily quests from Stigma-4. Please be advised that you cannot undertake these quests if you have no remaining allowances."
+176,"TEXT_BANOMI004_04604_SYSTEM_000_152","Furthermore, you now have access to a wider selection of wares from Omicron N-0598."
+177,"TEXT_BANOMI004_04604_N7000_000_056",""
+178,"TEXT_BANOMI004_04604_JAMMINGWAY_100_091",""

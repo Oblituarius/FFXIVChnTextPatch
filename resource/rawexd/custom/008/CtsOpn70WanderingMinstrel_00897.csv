@@ -2,146 +2,180 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_CTSOPN70WANDERINGMINSTREL_00897_CFC_TO_INSTANCE_CONTENT,<hex:02281CFF17>ContentFinderCondition<hex:E8020403>
-1,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_001,喲，你願意與我分享一下冒險見聞嗎？<hex:02100103>我很期待你的故事。
-2,TEXT_CTSOPN70WANDERINGMINSTREL_00897_Q1_000_001,要講述哪個故事？
-3,TEXT_CTSOPN70WANDERINGMINSTREL_00897_MENU_CANCEL,放棄
-4,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_002,哎呀，要走了嗎？<hex:02100103>畢竟你也很忙，雖然很可惜，不過沒辦法。<hex:02100103>等你有空了再來跟我講述你的冒險故事吧。
-5,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_003,哎呀……現在沒有能講述的冒險故事啊。<hex:02100103>但我相信激動人心的冒險一定就在前路等待著你。<hex:02100103>我在此耐心等待你帶回新的故事。
-6,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_004,這裡的人們對詩與故事十分喜愛，<hex:02100103>之前從你這聽來的冒險故事也在這邊廣受好評。<hex:02100103>托你的福，我也可以在這裡悠然地彈琴度日，講述傳奇。
-7,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_005,那麼這次要講述怎樣的冒險故事呢？
-8,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_006,沒想到你還與鼎鼎大名的豔翼蛇鳥戰鬥了一場！<hex:02100103>擁有生命的天災、生有羽翼的災厄蛇王……<hex:02100103>雖有諸多關於它的傳說，但我想沒有哪個能比你的故事更精彩。
-9,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_007,前任聯王古魯加加施加的封印被卑劣之徒破壞，<hex:02100103>擁有生命的天災重回圖拉爾大地……<hex:02100103>而擋在它面前的是年輕的公主與她可靠的冒險者盟友！
-10,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_008,繼位儀式旅程的一環作為詩的題材再合適不過了。<hex:02100103>感謝你與我分享這個精彩的故事。
-11,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_009,說起來，你知道「圖拉爾威爪」這個詞的意思嗎？
-12,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_010,它在輝鱗人語中意為「掌控大地之主」，<hex:02100103>是描述那些擁有強大力量，足以震懾一方的強大生物的詞彙。<hex:02100103>而豔翼蛇鳥則被譽為最強的圖拉爾威爪。
-13,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_011,不過，豔翼蛇鳥被封印了太久，即便甦醒過來，<hex:02100103>想必實力也遠不及全盛時期。<hex:02100103>如果再過一段時間，說不定它就可以恢復更多力量。
-14,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_012,嗯……就讓我盡情想像一下，<hex:02100103>你們與全盛狀態的豔翼蛇鳥激戰的場景……<hex:02100103>以此為題譜寫新的詩篇——一場巔峰之戰！
-15,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_020,那麼今天要講述怎樣的冒險故事呢？
-16,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_021,前任聯王的長子佐拉加的末路……<hex:02100103>這個故事無法以令人激動來簡單概括，<hex:02100103>其中蘊含的感情如漩渦一般複雜難測。
-17,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_022,作為古魯加加唯一的親生兒子，出色的長子，<hex:02100103>佐拉加無疑是最有可能接下父親重擔的人選。<hex:02100103>對比偉大的父親，並非雙頭的他一定倍感壓力。
-18,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_023,於是他開始尋求力量，使自己不被肩上的重擔壓垮。<hex:02100103>可惜自傲蒙蔽了他的雙眼，使他再也看不到其他可能性，<hex:02100103>走入了死路。
-19,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_024,也許在穹頂的30年中，佐拉加一直在失意與憤怒中度過。<hex:02100103>但無可辯駁的是，他奪走了許多生命。
-20,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_025,我想他真正期望的其實是父親的認可。<hex:02100103>所以從殺死父親的那一刻起，佐拉加便已經失去了生存的意義。
-21,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_026,這些只是我個人的猜測。<hex:02100103>但無論如何，佐拉加的所作所為都罪無可赦。<hex:02100103>只是不知他的迷茫與掙扎又會歸於何處呢……？
-22,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_027,多謝你向我分享這個故事。<hex:02100103>輝煌的故事背後的陰影，也該被人銘記。
-23,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_028,對大多數人來說，佐拉加是奪走重要之人性命的仇敵。<hex:02100103>不過回望他的命運軌跡，我們能體會到的也並非只有仇恨。<hex:02100103>我會慎重地將這個故事流傳下去，警示後人。
-24,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_030,那麼今天要講述怎樣的冒險故事呢？
-25,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_031,關於穹頂內成立的新生亞歷山德裡亞聯合王國，<hex:02100103>其女王斯菲因在苦惱中做出決斷的故事嗎……
-26,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_032,那片土地的人們生活在將靈魂視為資源的社會中。<hex:02100103>身死之後，人們的記憶乙太被永久保存，<hex:02100103>最終以擁有生命的記憶——永久人的形態存在下去。
-27,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_033,不過這種形式的生命卻需要消耗他人的生命力……<hex:02100103>從我們的常識來說實難給予肯定，<hex:02100103>因此與他們發生衝突也可謂是必然的結果。
-28,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_034,只不過聽你所說，女王斯菲因也並非生者，<hex:02100103>而是由某人創造出的理想中的系統。<hex:02100103>想來這也是釀成這場悲劇的一個因素吧。
-29,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_035,即便是以善良之人的記憶為基礎創造出來的，<hex:02100103>在不計代價保護永久人的鐵律束縛下，<hex:02100103>她能選擇的道路想必甚少……
-30,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_036,因此即便她本人已然察覺前方乃是斷崖絕路，<hex:02100103>但卻仍然不得不走下去。
-31,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_037,我可以問你一個問題嗎？<hex:02100103>你認為與你相遇的斯菲因是一個「活著的人」嗎？
-32,TEXT_CTSOPN70WANDERINGMINSTREL_00897_Q5_000_001,如何作答？
-33,TEXT_CTSOPN70WANDERINGMINSTREL_00897_A5_000_002,她確實是一個活生生的人
-34,TEXT_CTSOPN70WANDERINGMINSTREL_00897_A5_000_003,她並不是生者
-35,TEXT_CTSOPN70WANDERINGMINSTREL_00897_A5_000_004,我也說不清
-36,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_038,這就是你發自內心的答案嗎。<hex:02100103>即便理解到她的存在方式與生者截然不同，<hex:02100103>但仍然從她身上感到了生機……
-37,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_039,的確……她的存在方式與生者截然不同。<hex:02100103>這是不可撼動的事實。
-38,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_040,嗯，她的存在方式的確無法簡單地界定，<hex:02100103>至少肯定與生者是截然不同的。<hex:02100103>而生又該如何定義，恐怕很難給出一個確切的答案吧。
-39,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_041,謝謝你的回答，<hex:02100103>我會牢記在心中的。
-40,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_042,我也談談我的想法吧。<hex:02100103>斯菲因，這個感受並接納民眾的呼聲，一心守護人民的個體，<hex:02100103>無關生命、靈魂的有無，她的的確確在這個世界上存在過。
-41,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_043,所以她才能在戰鬥的最後，<hex:02100103>找回了自己的真心。
-42,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_044,另一方面我也感到有些後怕。<hex:02100103>如果她沒有找回自己的真心，直到最後都只是作為純粹的兵器……<hex:02100103>作為名為永恆女王的系統一直戰鬥下去的話，又會是怎樣的情景？
-43,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_045,我想她一定會成為一個無情吸食生命的恐怖系統。<hex:02100103>但我還是要吟誦，她走過的道路以及另一個可能的悲慘未來……
-44,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_046,「金翠理王，以黃金決意，征向殺生之道。獅子武王，以黃金決意，邁向救世之道。」
-45,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_047,「昔日記憶，殘存的是使命還是枷鎖？給予守護者心靈的慰藉，給予破壞者記憶的忘卻。」
-46,TEXT_CTSOPN70WANDERINGMINSTREL_00897_SYSTEM_000_98,誅滅戰是最多可以24人組隊挑戰強敵的戰鬥。<hex:02100103>團隊任務中的強敵將變得更為強大，與他們展開激烈的戰鬥吧！
-47,TEXT_CTSOPN70WANDERINGMINSTREL_00897_Q2_000_99,要開放暗黑之雲誅滅戰嗎？
-48,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_100,對了，前些日子，<hex:02100103>你的同伴古·拉哈·提亞見到我突然說了這麼一句：<hex:02100103>「我是不是也在別的城市見過你？」。
-49,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_101,我回答說：「我是到處旅行的詩人，<hex:02100103>在各地收集並傳頌關於英雄的故事」，<hex:02100103>聽完後他好像對此產生了很大的興趣。
-50,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_102,於是我們便去了貝殼亭，<hex:02100103>一邊品嘗夾餅一邊談論起了英雄的話題。<hex:02100103>當時的情景很舒心，當然烤犎牛肉的味道也很不錯。
-51,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_103,然後我從他那裡聽到了他珍藏的英雄故事。
-52,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_104,那是關於調查團諾亞針對水晶塔展開的冒險。<hex:02100103>他們最後甚至去了暗之世界，而你也在其中對吧？
-53,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_105,聽說打倒強敵、開闢前路的是你與20人以上的冒險者組成的團隊。
-54,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_106,當時你是什麼樣的一種感受？<hex:02100103>團隊作戰和平時的戰鬥完全不是一回事吧？
-55,TEXT_CTSOPN70WANDERINGMINSTREL_00897_Q3_000_107,如何作答？
-56,TEXT_CTSOPN70WANDERINGMINSTREL_00897_A3_000_108,超興奮！
-57,TEXT_CTSOPN70WANDERINGMINSTREL_00897_A3_000_109,超緊張
-58,TEXT_CTSOPN70WANDERINGMINSTREL_00897_A3_000_110,不管怎樣先沖了
-59,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_111,哈哈，你是無所畏懼啊！
-60,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_112,哈哈，你也有過這種時期啊！
-61,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_113,哈哈，要的就是這種氣勢！
-62,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_114,雖然我只是一個旁觀者，<hex:02100103>但我覺得少數菁英的戰鬥有其相應的樂趣，<hex:02100103>而與眾多同伴一起，一邊俯瞰大局一邊伺機而動也很有意思。
-63,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_115,話說回來，沒想到就連那個暗黑之雲都不是你們的對手。
-64,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_116,在「妖異十二階」中她被歸類為第十二階，<hex:02100103>也就是最強的魔王級妖異。
-65,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_117,從她所屬的階級，<hex:02100103>你就能大概猜到她在這邊的世界留下了什麼樣的事跡。<hex:02100103>她和亞拉戈皇帝贊德定下的契約也是其中濃墨重彩的一筆。
-66,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_118,從歷史記錄來看，她似乎可以憑藉無窮無盡的魔力，<hex:02100103>施展出超越人類認知的高位魔法……
-67,TEXT_CTSOPN70WANDERINGMINSTREL_00897_Q4_000_119,要說什麼？
-68,TEXT_CTSOPN70WANDERINGMINSTREL_00897_A4_000_120,我怎麼不記得她用過那樣的魔法……
-69,TEXT_CTSOPN70WANDERINGMINSTREL_00897_A4_000_121,不就是波動砲加更多的波動砲嗎？
-70,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_122,唔，說不定與你們交戰的只不過是暗黑之雲其中的一個形態。
-71,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_123,魔王級的妖異光是存在本身就會對周圍造成巨大的影響，<hex:02100103>應該無法輕易地展現出完全的形態。
-72,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_124,真是有意思的現象。<hex:02100103>如果還有其他關於暗黑之雲的情報，<hex:02100103>能跟我說說嗎？
-73,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_125,哦，你曾經和名叫琳的少女<hex:02100103>一起通過構想妖異的方式召喚出了暗黑之雲？
-74,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_126,聽你所言，你構想的妖異形象再加上琳等人獨特的理解，<hex:02100103>結果弄出了一個似像非像的暗黑之雲……
-75,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_127,有意思！<hex:02100103>那我也將這個召喚的結果融入詩歌，<hex:02100103>吟唱一篇我想像中的暗黑之雲吧！
-76,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_128,有意思！
-77,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_129,那我也將你所說的形象融入詩歌，<hex:02100103>吟唱一篇我想像中的暗黑之雲吧！
-78,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_130,請聽……
-79,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_131,「光暗重疊，萬物將歸於虛無之時，<hex:02100103>勇士將會現身 撕開混沌的光與暗。」
-80,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_132,「悠久之風，帶來人們的希望，<hex:02100103>將其銘記於心，令前路不再迷茫。」
-81,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_133,「時機已到，直面最後的死鬥，<hex:02100103>誅滅致命強敵，令世界擺脫魔咒。」
-82,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_134,能夠吟唱關於歷史留名的大妖異的詩歌，我深感光榮。<hex:02100103>如果能博你一笑，那就最好不過了！
-83,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_200,那麼，今天你要給我講個什麼樣的故事呢？
-84,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_201,唔，這回又是一個壯闊的故事啊。<hex:02100103>那就以我的理解重新梳理一遍這個發生在遠古時代的故事吧。
-85,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_202,大約在100年前，英雄阿爾博特的致命一擊<hex:02100103>導致米特隆的肉體被強烈的光之力侵蝕，化為了食罪靈伊甸。<hex:02100103>而伊甸又引發了光之泛濫，使得第一世界逐步走向毀滅。
-86,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_203,意識朦朧的米特隆被困在伊甸這個牢籠中，<hex:02100103>竭盡全力不斷地朝外發出微弱的信號，<hex:02100103>只為呼喚戰死的同伴阿洛格裡夫歸來。
-87,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_204,最終阿洛格裡夫的轉生體——少女蓋婭接收到了這個信號。<hex:02100103>蓋婭自幼時便會聆聽到這個信號化成的聲音，<hex:02100103>有時甚至會被佔據身體的控制權。
-88,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_205,不久之後在命運的安排下，<hex:02100103>光之巫女琳喚醒了伊甸，並與出現在空無大地的蓋婭產生了共鳴。
-89,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_206,然後米特隆抹除蓋婭的意識，復原了阿洛格裡夫的記憶，<hex:02100103>兩位無影成功復活。<hex:02100103>但所幸多虧了你的努力，阻止了最糟糕的事態發生……
-90,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_207,嗯，很有意思的一段故事。<hex:02100103>在蓋婭的意識即將消失前，<hex:02100103>應該是她與琳的美好回憶防止了她被完全消除吧。
-91,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_208,不過正因為如此，我才有些在意。<hex:02100103>既然伊甸即是米特隆……那在琳喚醒伊甸的時候，<hex:02100103>那個聲音是否也同樣可以影響她呢？
-92,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_209,嗯，創作的靈感湧現出來了。<hex:02100103>那就讓我暢想一下關於光暗巫女的另一個未來吧。
-93,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_210,「叛逆之人，為解放光之巫女，<hex:02100103>打破牢獄，擊碎命運的束縛。」
-94,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_211,「不滅之人，為喚醒暗之巫女，<hex:02100103>掙脫牢獄，達成遠古的誓言。」
-95,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_212,因光之泛濫而瀕臨毀滅的鏡像世界……<hex:02100103>根據我的推測，<hex:02100103>那個世界的歷史中一定存在著許多不為人知的故事。
-96,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_213,照你所說，<hex:02100103>鏡像世界出現災害的背後都有無影暗中活動的跡象啊。
-97,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_214,如此一來，<hex:02100103>在第一世界活躍的無影想必是與光之泛濫有關聯。
-98,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_215,另一方面，阻止了這個災難蔓延的人是光之巫女敏菲利亞。<hex:02100103>她的力量不斷地由新一代的少女們傳承下來，<hex:02100103>並被迫走向了與食罪靈戰鬥的宿命。
-99,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_216,雖然這種命運很是殘酷，<hex:02100103>但我相信光之巫女不是永遠孤單一人，<hex:02100103>身邊一定有一位會與她們共同斷絕必死命運的人。
-100,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_217,而這個人甚至有可能是有著截然相反境遇的友人。<hex:02100103>比如……一位與信奉暗之神的無影有關聯的少女，<hex:02100103>假設如果有暗之巫女存在，結局又會是什麼樣呢？
-101,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_218,嗯，作為為後世傳唱故事的詩人，<hex:02100103>我就來吟唱一段光與暗的未來之詩吧。
-102,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_300,那麼今天要講述怎樣的冒險故事呢？
-103,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_301,亞歷山德裡亞王國騎士團副團長，澤蓮尼婭……<hex:02100103>不錯，忠誠的騎士是古往今來長盛不衰的題材。
-104,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_302,為了守護身後的重要之人，<hex:02100103>有的騎士浴血奮戰、得勝回朝；有的力不從心、遺恨終天。<hex:02100103>還有一些力挽狂瀾、化險為夷，自己卻血染沙場……
-105,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_303,與那些英勇耀眼、廣被歌頌的高潔騎士相反，<hex:02100103>從他們的形象中，人們可以隱約窺見一種笨拙卻恪守責任的人情味。<hex:02100103>正因如此，這些故事才能點燃聽者的心，讓他們為之動容。
-106,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_304,國王記憶中的澤蓮尼婭雖然也讓我感受到深切的獻身精神，<hex:02100103>可她的人生決不僅僅是如歌如泣的忠義之詩。<hex:02100103>執劍在手、視死如歸的那一刻，她就免不了沾上汙濁的鮮血。
-107,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_305,然而凝視著澤蓮尼婭背影的女王卻終究無從知曉——<hex:02100103>在那背影的前方，是騎士投向對峙者的冷冽如冰的目光，<hex:02100103>與熾烈如焰的怒火。
-108,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_306,即使身處同一片戰場，不同位置所見到的景象也大有不同。<hex:02100103>就讓我作一首與之相符的詩吧……
-109,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_307,「她的重劍為我露出鋒芒，<hex:02100103>利刃凌空，長髮飛揚，<hex:02100103>可靠的背影在記憶中留下玫瑰的芬芳。」
-110,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_308,「我的魔法為王熾烈綻放，<hex:02100103>肅清危患，愚者敗亡，<hex:02100103>聖潔的君姿豈容妄自尊大的螻蟻窺望。」
-111,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_309,世上沒有不帶刺的玫瑰。<hex:02100103>澤蓮尼婭是一位盡責於忠的高潔騎士，正因她是守護女王的利劍，<hex:02100103>她才會對試圖加害於女王的惡徒燃起無情的怒火。
-112,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_310,雖說那份怒火拼不存在於女王的記憶之中，<hex:02100103>但如果讓你口中的守護機關將它表現出來，會是什麼樣呢？<hex:02100103>怎麼樣？你難道不想暢想一下嗎？
-113,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_400,那麼這次要講述怎樣的冒險故事呢？
-114,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_401,卡琉克斯，一位早逝的天才。<hex:02100103>他利用人們對死亡的恐懼召喚出了蠻神……
-115,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_402,人們將記憶寄存到雲端之上，以此逃避死亡帶來的悲傷。<hex:02100103>久而久之，逃避轉變為了對死亡的恐懼，<hex:02100103>正是這份恐懼造就了「永遠之暗」。
-116,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_403,然而，我不禁產生了一種想法。<hex:02100103>對於召喚蠻神的卡琉克斯而言，人們所感受到的那份恐懼，<hex:02100103>是否正是他自出生起便揮之不去的陰影？
-117,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_404,他生來就身患頑疾，<hex:02100103>是不是自幼便被他人斷言無法活到成年？
-118,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_405,無論是夜晚入睡前的寂靜，還是清晨甦醒時的鳥鳴，<hex:02100103>對於卡琉克斯而言，恐怕都與死亡的倒數計時無異吧。
-119,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_406,倘若真是如此，<hex:02100103>那麼對晦暗的死亡抱有最深恐懼的人，<hex:02100103>恐怕正是卡琉克斯自己。
-120,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_407,念及他心中的那片黑暗，<hex:02100103>就讓我為他吟唱一首詩篇吧……
-121,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_408,「切莫忘記死亡。<hex:02100103>它會帶來無邊的恐慌，在永久之人沉睡的墓標匯聚悲愴。<hex:02100103>它會催生無盡的信仰，在永遠之暗誕生的搖籃悄然膨脹。」
-122,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_409,「切莫忘記死亡。<hex:02100103>它會喚起無限的希望，在真之女王甦醒的場所掀起風浪。<hex:02100103>它會激發無懼的理想，在光之戰士奮起的時刻創造輝煌。」
-123,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_500,那麼今天要講述怎樣的冒險故事呢？
-124,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_501,從陌生之地降臨的白色訪客，護鎖刃龍嗎……<hex:02100103>看來那不僅是狩獵二字便能概括的一場相當慘烈的激戰呢。
-125,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_502,雖然令它甦醒的神秘遺物也令人在意……<hex:02100103>但最讓我感受到戲劇性衝突的，<hex:02100103>是護龍渴求能量的天性。
-126,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_503,為生存而掠食他者乃是野性法則，<hex:02100103>然而它似乎根本不需要進食。
-127,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_504,或許正因如此，它才會強烈地渴望乙太這類能量。<hex:02100103>為將整片地域劃為己有，不惜屠戮荒野中所有生物。<hex:02100103>事態可謂相當嚴峻啊。
-128,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_505,於是荒野頂點的魔物向護鎖刃龍發起挑戰。<hex:02100103>簡直像整個生態系統都在對外來者展開殊死抵抗。
-129,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_506,若沒有這場抵抗，若你未能將其討伐……<hex:02100103>護鎖刃龍恐怕會肆意吸盡荒野中的乙太，<hex:02100103>蛻變為更可怕的怪物吧。
-130,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_507,護鎖刃龍遵循著作為生物的本能，<hex:02100103>希望繼續生存在這片陌生的土地……<hex:02100103>譜寫成詩篇的話，大概會是這般風格。
-131,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_508,「飢饉護龍　散落純白毛縷<hex:02100103> 渡遍世間　追尋吾之樂土」
-132,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_509,「未饜護龍　縛於銀白鎖刃<hex:02100103> 毀天滅地　築就吾之樂土」
-133,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_600,那麼今天要講述怎樣的冒險故事呢？
-134,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_601,充盈著雷屬性乙太的第九世界中，<hex:02100103>有一輛在昏暗的荒野中如閃電一般疾馳的列車，<hex:02100103>名叫「格萊楊拉波爾」……
-135,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_602,製造它的大國已經徹底毀滅，只剩名字。<hex:02100103>敵國與戰場的概念煙消雲散，運載的魔物自此無處可去。
-136,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_603,始發站已然毀滅，終點站亦已消失。<hex:02100103>迷茫的列車陷入失控，卻仍在軌道上一味地前進。
-137,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_604,被封印在車頭的魔法生物，<hex:02100103>究竟為何還要繼續前進呢？
-138,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_605,是為了完成他人賦予的使命，<hex:02100103>還是出於本能的戰鬥慾望？<hex:02100103>又或者……
-139,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_606,它只是單純想在機械徹底磨損，引擎失去動力之前，<hex:02100103>回到自己的家鄉林德布魯姆，回到如父如母的工程師身旁……
-140,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_607,那麼我來作詩一首吧。<hex:02100103>讓它在詩篇中奔向那早已消失，卻又夢想回歸的遙遠故鄉，<hex:02100103>奔向那與工程師們共度的往日時光吧。
-141,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_608,「無盡疾馳的列車運送生命，<hex:02100103>它從故鄉出發，只為贏取祖國的輝煌。」
-142,TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_609,「無盡狂奔的列車屠戮生靈，<hex:02100103>它在大地衝撞，只為返回覆滅的故鄉。」
+0,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_CFC_TO_INSTANCE_CONTENT","<hex:02281CFF17>ContentFinderCondition<hex:E8020403>"
+1,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_001","Have you come here to share a heroic yarn with me, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>? Please, do go on─you have my rapt attention. "
+2,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_Q1_000_001","What story will you share?"
+3,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_MENU_CANCEL","Nothing."
+4,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_002","Oh, have you come just to say hello? I appreciate the gesture, to be sure, just as I appreciate that you are a busy <hex:02080FE905FF06>woman<hex:FF04>man<hex:03>. Even so, I do hope you find time in the future to regale me with a tale or two."
+5,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_003","...Ah, I understand. You have no tales worth telling─yet, that is. I know for certain 'tis but a matter of time until you are thrust into the heart of matters most dramatic."
+6,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_004","Fortunately, the denizens of this city are great lovers of tall tales and thrilling verse. They simply cannot hear enough of your exploits, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! Thank you for being my ever-dependable muse."
+7,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_005","So, what have you brought for me today?"
+8,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_006","You did battle with Valigarmanda!? The tural vidraal of legend, dubbed the Skyruin, who ruled the heavens by beak and talon. Many are the legends of this beast among beasts, but I would wager the telling of your battle is more thrilling than the most harrowing tales!"
+9,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_007","By the hands of a devious scoundrel was the seal put in place by Gulool Ja Ja broken, and thus was the living calamity unleashed again upon the world...only to be struck down by Wuk Lamat and her mighty companion!"
+10,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_008","This glimpse into the events of the rite of succession shall provide me with more than enough inspiration for my next song. Thank you for sharing it with me, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>."
+11,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_009","By the by, do you know the meaning of the term “tural vidraal”?"
+12,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_010","In the language of the Mamool Ja, it means “that which clings to the earth.” A fitting description for beings powerful enough to claim an entire continent as their territory. And Valigarmanda was said to be the most formidable among them."
+13,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_011","Though you emerged victorious, the fiend was but recently roused from slumber. What do you suppose would have happened had Valigarmanda been given sufficient time to regain its strength?"
+14,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_012","Hah, such questions are why we have imaginations, yes? And imagine I shall... The mightiest heroes of Etheirys matched against the full fury of Valigarmanda. A story for the ages!"
+15,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_020","So, what have you brought for me today?"
+16,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_021","Ah, the final moments of the former Dawnservant's firstborn. His story gives rise to a complex mixture of emotions, and it would be insulting to call it something so trite as an adventurous tale."
+17,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_022","As the only true son of Gulool Ja Ja, he doubtless felt a heavy burden of responsibility to be deemed worthy of succeeding his father. This weight was likely made all the more stifling by the fact he had but one head."
+18,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_023","And so he sought great power to make up for his perceived shortcomings. Yet he could never quite live up to the expectations he set for himself, and in his blind pursuit, he stepped upon a crooked path..."
+19,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_024","For thirty long years did he keep company with anger in that dome... Yet no amount of anguish can justify the countless lives he stole. "
+20,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_025","You know what I believe, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>? I believe the moment Zoraal Ja killed his own father, whose admiration he fought so hard to win, his life lost all meaning."
+21,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_026","His sins cannot be forgiven, 'tis true. Yet his story is a tragic one, and I suspect each of us can see parts of ourselves reflected within it. "
+22,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_027","Thank you for sharing it with me. A dark shadow loomed over the rite of succession, and we would do best not to forget he who cast it."
+23,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_028","While many will view Zoraal Ja as a murderer and tyrant, reducing him to a mindless villain will blunt the impact of the lessons we can learn from his fate. This is a tale that must be told with great care..."
+24,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_030","So, what have you brought for me today?"
+25,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_031","The trials and tribulations of Queen Sphene, who was confronted with many a difficult decision as she sought to protect the citizens of her nation, Alexandria..."
+26,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_032","In that realm, people regard souls as merely a resource. And when they die, the aether of their memories is used to create the Endless, simulacra of the departed that can only be sustained with life force harvested from the living..."
+27,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_033","Being so very different from what we know, such a way of life is difficult for us to accept. Indeed, it seemed only inevitable that you should come into conflict with Sphene."
+28,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_034","She herself was not among the living, but an entity brought forth to fulfill a certain objective. And therein, I believe, lay the root of this tale's tragedy."
+29,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_035","Recreated from the noblest of souls though she was, she was helpless to defy the purpose to which she had been bound: protecting the Endless no matter the cost."
+30,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_036","Thus did she continue on her destructive path, though she knew it led only to a dead end."
+31,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_037","A question if you may, my friend. Deep in your heart, do you believe that the Sphene whom you met was alive?"
+32,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_Q5_000_001","What will you say?"
+33,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_A5_000_002","She was alive, in her own way."
+34,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_A5_000_003","Though she was many things, she wasn't alive."
+35,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_A5_000_004","I'm not sure..."
+36,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_038","So you think that. Even with the knowledge that her existence differed from the living, you hold that she was alive..."
+37,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_039","I see. Indeed, her existence differed greatly from the living. There is no changing that fact."
+38,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_040","I see. Though her existence differed much from the living, precisely what does it mean to be alive? 'Tis no easy thing to define."
+39,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_041","I thank you for your honest answer. I shall take it to heart."
+40,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_042","For my part, whether or not she was possessed of life, I believe that there existed an individual called Sphene, who cared deeply for her people. Who heard the voices of her people, felt as they did, and thought only for their welfare. "
+41,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_043","That is why, at battle's end, she returned as the gentle soul you knew."
+42,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_044","But here, a thought fills me with dread. What if that soul failed to return, and the fearsome entity she had become continued its relentless onslaught?"
+43,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_045","Might it have succeeded in its objective, and plundered life force from other realities at the cost of untold destruction...? Of such a possibility shall I sing, that we might give thanks for the path we were mercifully spared."
+44,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_046","By golden light two rulers walked,<hex:02100103>Their paths in conflict lying.♪<hex:02100103>One bound to slay, one sworn to save,<hex:02100103>They forged ahead untiring.♪<hex:02100103>"
+45,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_047","The mem'ries of departed days,<hex:02100103>Endure as fate and fetters.♪<hex:02100103>For keepers staunch a blessed warmth,<hex:02100103>Oblivion for the breakers.♪"
+46,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_SYSTEM_000_98","Chaotic alliance raids pit up to twenty-four adventurers against a fearsome foe who has been made even more powerful than before."
+47,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_Q2_000_99","Do you wish to unlock the Cloud of Darkness (Chaotic)?"
+48,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_100","Ah, that reminds me. Some days ago, I had the pleasure of meeting your good friend G'raha Tia."
+49,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_101","He approached me, wondering if he had seen me elsewhere before, and so I told him about my endeavors in verse."
+50,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_102","Taking an interest in my work, he invited me to join him at Xbalyav Ty'e, where we discussed tales of heroism over tacos and churrasco."
+51,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_103","'Twas then that he shared a story that is especially close to his heart."
+52,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_104","The fellowship of NOAH's foray into the Crystal Tower... You played a vital role in it, did you not?"
+53,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_105","Together with more than a score of your fellows, you triumphed over numerous formidable foes to secure the structure."
+54,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_106","How do you recall the experience, pray? As adventurers typically work in small groups, I daresay it felt quite different to be part of a large contingent."
+55,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_Q3_000_107","What will you say?"
+56,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_A3_000_108","It was thrilling!"
+57,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_A3_000_109","I may have been a little nervous..."
+58,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_A3_000_110","I just played it by ear."
+59,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_111","Haha, you truly are fearless, my friend!"
+60,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_112","Truly? I would not have expected that!"
+61,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_113","Hehe, I do favor such an approach myself."
+62,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_114","Now, I can only speak as an observer, but I imagine it must be uniquely satisfying to sally forth as a member of a great collective to accomplish tremendous feats."
+63,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_115","And to defeat the dreaded Cloud of Darkness is a tremendous feat indeed."
+64,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_116","She is a ruler among her kind, occupying the highest rung of the hierarchy of voidsent."
+65,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_117","Full oft has she left her mark upon mankind's history, not least of all when she forged a pact with Emperor Xande."
+66,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_118","And according to records, she employed powerful magicks the likes of which defied mortal comprehension."
+67,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_Q4_000_119","What will you say?"
+68,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_A4_000_120","She did...?"
+69,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_A4_000_121","Didn't she use beams and...more beams?"
+70,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_122","Hmm... It may well be that you saw merely one aspect of the Cloud of Darkness."
+71,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_123","As I understand it, voidsent are changeable beings, their forms dependent on factors such as the aether at their disposal. Another time, and you may have faced a somewhat different foe."
+72,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_124","'Tis an intriguing possibility to consider, would you not agree?"
+73,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_125","...So together with your comrade Ryne, you gave rise to a being based upon the Cloud of Darkness?"
+74,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_126","A familiar yet distinct entity shaped by your combined impressions of the voidsent queen..."
+75,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_127","That gives me an idea! I shall compose a song about the <hex:021A020203>true<hex:021A020103> Cloud of Darkness as I imagine her, for which I shall draw inspiration from your account!"
+76,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_128","'Tis an intriguing possibility to consider...and it gives me an idea!"
+77,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_129","I shall compose a song about the <hex:021A020203>true<hex:021A020103> Cloud of Darkness as I imagine her, for which I shall draw inspiration from your account!"
+78,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_130","Without further ado..."
+79,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_131","When Light and Dark as one become,<hex:02100103>to oblivion all to cast,♪<hex:02100103>A champion dauntless shall arise,<hex:02100103>to cleave them at the last.♪"
+80,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_132","Into their hands entrusted be,<hex:02100103>the hopes of all mankind,♪<hex:02100103>Upon the wind eternal borne,<hex:02100103>a bright and shining sign.♪"
+81,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_133","The time is come, so go you forth,<hex:02100103>unto the battlefield.♪<hex:02100103>The final confrontation looms,<hex:02100103>To test your blade and shield.♪"
+82,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_134","Though it may pale in comparison to facing the Cloud of Darkness, it gave me great satisfaction to compose these verses. And should they give you satisfaction as well, then naught would please me more!"
+83,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_200","So, what have you brought for me today?"
+84,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_201","Well now, that is quite a tremendous tale... If I may, I shall attempt to recount it in my own words, the better to reflect upon the events for song."
+85,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_202","A century past, the hero Ardbert fought and felled the Ascian Mitron. By the power of Light, the villain's body was transformed into Eden, the first sin eater, who unleashed the Flood of Light that engulfed the First."
+86,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_203","Despite being locked in a stupor, Mitron mustered the strength to call from the prison that was his vessel, in the desperate hope of reaching his fallen comrade, Loghrif. And reach Loghrif he finally did, in her reincarnated form as the maiden Gaia."
+87,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_204","From a young age, Gaia had heard Mitron's voice in her mind. She referred to it as “the faerie,” and there were times when it even took over her consciousness."
+88,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_205","And be it by chance or by fate, Eden's subsequent awakening by Ryne, the Oracle of Light, led to Gaia's appearance in the Empty, where the two maidens first encountered each other."
+89,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_206","At length, Mitron restored Loghrif's memories in Gaia, and the two Ascians returned once more. But in no small part due to your valor, the worst was prevented from coming to pass..."
+90,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_207","'Tis truly a stirring tale, and no moment of it more so than when Gaia lay on the verge of being erased. How beautiful to imagine that her memories of Ryne served as an anchor that kept her from fading away."
+91,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_208","Yet as perfectly as that unfolded, I cannot help but wonder what might have happened if something else had gone awry. For instance, in the moment that Ryne roused Eden, what if Mitron had likewise reached out and interfered...?"
+92,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_209","Yes, I believe I have the makings of a song. One that speaks of a future that was not, yet may very well have been..."
+93,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_210","A villain dark a gaol did break,<hex:02100103>The Light to liberate.♪<hex:02100103>A maiden pure her eyes unsure,<hex:02100103>He sought to change her fate.♪"
+94,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_211","Undying soul a gaol did flee,<hex:02100103>The Dark to stir awake.♪<hex:02100103>A maiden lost to find once more,<hex:02100103>And good a promise make.♪"
+95,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_212","The First, a reflection that lay on the verge of annihilation by Light... Though I but speculate, many a tale must lie untold that steered its course."
+96,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_213","As you tell it, the immortal Ascians were behind the calamities that befell the reflections."
+97,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_214","If so, is it not a possibility that they, too, were responsible for the Flood of Light?"
+98,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_215","The Flood was then forestalled by the Oracle of Light, Minfilia, whose power was inherited by maidens after her. Souls who, by virtue of their gift, were destined to die fighting the sin eaters."
+99,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_216","Theirs was a cruel path, but I wish to believe that they did not walk it alone. That someone stood with them, who sought to break the tragic wheel of fate."
+100,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_217","Said someone might have been like them in some ways, yet the complete opposite in others. For instance...a maiden of like age, but who has ties to the Ascians─an Oracle of Darkness."
+101,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_218","Yes, I believe I have the makings of a song. One that speaks of legacies inherited and destinies reshaped..."
+102,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_300","So, what have you brought for me today?"
+103,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_301","Zelenia Triantafylli, second-in-command of Alexandria's royal knights... Chivalry is a timeless subject, indeed! Long has it been the inspiration for some of our most beloved tales."
+104,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_302","Stirring epics of heroes who give every onze of their strength to defend their charge. Some recount heart-wrenching tragedies of the disgraced, who live bearing the burden of failure, while others tell of selfless figures who pay the ultimate price for their virtue."
+105,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_303","These yarns captivate listeners because they venture beneath the celebrated image of the gallant knight, providing a glimpse of a person ordinary and flawed. A person not unlike you or I."
+106,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_304","And while 'tis plain that as captured in the queen's memory, Zelenia was a devoted subject, hers is certainly a tale driven by more than mere loyalty. After all, a life lived by the sword must inevitably be stained with crimson."
+107,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_305","The queen viewed her as a stalwart guardian, and ever found comfort behind her imposing form. Yet from that position, Sphene could not see the steely gaze with which Zelenia regarded her foes, nor feel the rage that burned within her heart."
+108,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_306","And I imagine the chaos of battle, as well, appeared quite differently from each of their perspectives. A fascinating duality, perhaps best illustrated with a song..."
+109,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_307","A steadfast blade she wields for me,<hex:02100103>Her gaze upon the foe.♪<hex:02100103>In mem'ries deep that form engraved,<hex:02100103>Her knightly pose just so.♪"
+110,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_308","All threats that rise against my liege,<hex:02100103>With sword and spell struck down.♪<hex:02100103>Deservéd death awaits the fools,<hex:02100103>Who dare assail the crown.♪"
+111,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_309","No rose is without thorns. Zelenia was doubtless an honorable fighter and protector, yet that selfsame honor fueled the merciless fury she unleashed upon the enemies of the royal family."
+112,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_310","How would you have fared had such fury marked Queen Sphene's memories? Would you have bested Zelenia, or would her thorns have left you bloodied?"
+113,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_400","So, what have you brought for me today?"
+114,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_401","Ah, you speak of Calyx, genius born of a bygone era, and the primal he nourished upon a feast of mortal terror..."
+115,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_402","Powerful was the onset of fear felt by a people who had long escaped death's mournful memories. And powerful was the entity which that fear begat."
+116,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_403","Yet would Calyx not have nurtured that selfsame dread since the moment of his birth?"
+117,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_404","Was he not fated to succumb to his childhood malady ere he reached his full growth?"
+118,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_405","The chirping insects which lulled him to sleep in the evening. The birdsong which called him awake come the morn... Such sounds must have been as chalk on a slate, marking the passage of his dwindling days."
+119,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_406","Surely 'twas Calyx himself, more than any other, who nurtured the deepest, darkest fear of death."
+120,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_407","Dwelling upon that beleaguered heart, I am inspired to sing of the horror it may have spawned..."
+121,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_408","Forget thee not the hand of death,<hex:02100103>For all shall feel its grip.♪<hex:02100103>At queenly feet lay down thy fears,<hex:02100103>Dark prayer be on thy lip.♪"
+122,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_409","Forget thee not the hand of death,<hex:02100103>For even Endless end.♪<hex:02100103>Where queen awoke stoke thee thy hope,<hex:02100103>'Pon heels of Light ascend.♪"
+123,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_500","So, what have you brought for me today?"
+124,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_501","Arkveld, the white wanderer from a faraway world... I daresay that the word “hunt” suffices not to capture your struggle with the creature."
+125,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_502","Intrigued though am I by the device described in the Felyne's tale, what strikes me most of all is the nature of this Guardian. That is, its predilection for energy."
+126,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_503","In the animal kingdom, a predator devours other beasts for its survival. Yet Arkveld appeared not to be driven by this fundamental need."
+127,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_504","Instead, it harbored an extreme obsession for aether─an obsession which saw it slaughter the beasts of Shaaloani to assert dominance over its newfound realm."
+128,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_505","In response, the Serpentlord rose up to face this interloper, as if the land itself wished to repel a common threat."
+129,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_506","Without such resistance─and your timely intervention─there is no telling how grave a threat Arkveld might have become."
+130,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_507","Finding itself in an unfamiliar land, the Guardian merely did what its instincts bade it do. Were I to render such a savage life in verse, it might go thus..."
+131,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_508","In silv'ry coat its body cloaked,<hex:02100103>From distant world it came.♪<hex:02100103>On reddened earth the Guardian roamed,<hex:02100103>The lives of foes to claim.♪"
+132,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_509","In hunger deep was locked this beast,<hex:02100103>In silv'ry chains entwined.♪<hex:02100103>To conquer all its savage fate,<hex:02100103>New paradise to find.♪"
+133,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_600","So, what have you brought for me today?"
+134,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_601","A man-made horror thundering across a levin-struck plain..."
+135,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_602","...Kingdoms it was to vanquish now vanished in all but name."
+136,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_603","With even the battlefields they were born to besiege reduced to ash, the locomotive and its fearsome cargo were condemned to run hither and thither along the rails till time's end."
+137,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_604","One wonders how the entity housed within perceived its fate."
+138,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_605","Did its union with the train allow it to take joy in the simple embrace of speed? Had it an innate love of bloodshed, the thrill of each violent encounter may have driven it ever faster in search of foes to slaughter."
+139,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_606","Or was it fueled by belief that those tracks would, someday, deliver it home? Perhaps it was unable to understand─or accept─that Lindblum and its people were no more..."
+140,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_607","I should like to see it reunited with those who created it, if only in song. Let the melody carry it where steel did not..."
+141,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_608","O the wild charge it made!<hex:02100103>Beasts aboard and wheels ablaze,♪<hex:02100103>Entrusted with a nation's fate,<hex:02100103>'Pon glory fixed its gaze...♪"
+142,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_609","When that kingdom too was razed,<hex:02100103>With nowhere left to go,♪<hex:02100103>O the wild charge it made!<hex:02100103>And ne'er did it slow...♪"
+143,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_700","So, what have you brought for me today?"
+144,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_701","Ah, Enuo... That dread denizen of the depths who sought out the voidgate and thence the Source."
+145,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_702","Having already endured a deathless eternity in the void, it is not inconceivable they would have been content to merely preside over their realm without end."
+146,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_703","Yet perhaps our light-filled world presented such a loathsome affront as to beckon Enuo from the dark, intent on rendering all to naught. Of course, we can but speculate upon their true designs..."
+147,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_704","For your unforeseen arrival upon the red moon laid any such vengeful plans to rest. It is fitting that your companion Zero was there by your side as the killing blow was struck─her name evoking new beginnings as it does."
+148,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_705","Were it not for that fateful reunion, mayhap all Light would be enveloped in Darkness, all life trapped within the ceaseless void."
+149,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_706","A world unmade... 'Tis a paradoxical notion, but one I nonetheless feel compelled to put to song."
+150,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_707","In darkest depths did they abide,<hex:02100103>Cursed to lurk undying.♪<hex:02100103>Life and Light did they decry,<hex:02100103>The void's dread power rising.♪"
+151,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_708","By golden path was ingress made,<hex:02100103>Will and might prevailing.♪<hex:02100103>Cleaving through that bleak domain,<hex:02100103>The void's dread power failing.♪"
+152,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_709","Have you ever pondered how your life might have unfolded had you been born unto that endless dark expanse?"
+153,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_800",""
+154,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_801",""
+155,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_802",""
+156,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_803",""
+157,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_804",""
+158,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_805",""
+159,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_806",""
+160,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_807",""
+161,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_808",""
+162,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_809",""
+163,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_810",""
+164,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_Q5_000_811",""
+165,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_A5_000_812",""
+166,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_A5_000_813",""
+167,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_A5_000_814",""
+168,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_815",""
+169,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_816",""
+170,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_817",""
+171,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_818",""
+172,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_819",""
+173,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_820",""
+174,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_821",""
+175,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_822",""
+176,"TEXT_CTSOPN70WANDERINGMINSTREL_00897_WANDERINGMINSTREL_000_823",""

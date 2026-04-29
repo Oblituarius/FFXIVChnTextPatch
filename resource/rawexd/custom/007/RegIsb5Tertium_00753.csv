@@ -2,25 +2,26 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_REGISB5TERTIUM_00753_DECIMUS_000_000,……
-1,TEXT_REGISB5TERTIUM_00753_SYSTEM_100_000,雙唇緊閉。<hex:02100103>看起來什麼都不打算說。
-2,TEXT_REGISB5TERTIUM_00753_DECIMUS_000_001,你就是那些蠻族們的英雄，<hex:022903EB0203>嗎……<hex:02100103>哼，雖然我不太樂意，不過軍團長已經對我們下過令了。<hex:02100103>我會回答你的問題的，想問什麼就問吧。
-3,TEXT_REGISB5TERTIUM_00753_DECIMUS_000_002,昆圖斯大人……我們……<hex:02100103>不，在這裡低頭的話，會讓帝國軍人的尊嚴蒙羞！<hex:02100103>你想問什麼就問吧，我會堂堂正正地回答的！
-4,TEXT_REGISB5TERTIUM_00753_DECIMUS_000_003,你們所說的末日災難，正在蹂躪這片土地。<hex:02100103>不過，我們帝國軍人是不會被這些困難打倒的。<hex:02100103>你想問什麼就問吧，我會堂堂正正地回答的！
-5,TEXT_REGISB5TERTIUM_00753_DECIMUS_000_004,末日危機過去後，我們僥倖活了下來。<hex:02100103>昆圖斯大人對我們說的那句「活下去」，時刻在鞭策著我們。<hex:02100103>你想問什麼就問吧，我會堂堂正正地回答的！
-6,TEXT_REGISB5TERTIUM_00753_Q1_000_000,想了解什麼？
-7,TEXT_REGISB5TERTIUM_00753_A1_000_001,你是做什麼的？
-8,TEXT_REGISB5TERTIUM_00753_A1_000_002,這裡是什麼地方？
-9,TEXT_REGISB5TERTIUM_00753_A1_000_003,取消
-10,TEXT_REGISB5TERTIUM_00753_DECIMUS_000_100,我名為德西姆斯，是帝國軍第一軍團的百夫長。<hex:02100103>換句話說，也是你們這些蠻族憎惡的加雷馬人，<hex:02100103>所以別想著跟我套近乎。
-11,TEXT_REGISB5TERTIUM_00753_DECIMUS_000_101,我名為德西姆斯，是帝國軍第一軍團的百夫長。<hex:02100103>但我們的軍團長已經殉國了，我們目前的職責<hex:02100103>就是盡全力保護好這座車站裡倖存的民眾。
-12,TEXT_REGISB5TERTIUM_00753_DECIMUS_000_102,我名為德西姆斯，是帝國軍第一軍團的百夫長。<hex:02100103>……不，帝國軍已經不存在了。<hex:02100103>我現在不過是與其他同胞一樣，只是一名普通的加雷馬人。
-13,TEXT_REGISB5TERTIUM_00753_DECIMUS_000_200,第三站是帝都外圍環線上的第三個市外站。<hex:02100103>現在我們帝國軍第一軍團正將它作為臨時營地使用。
-14,TEXT_REGISB5TERTIUM_00753_DECIMUS_000_201,不過，自從帝都化為廢墟後，<hex:02100103>這裡就不斷湧入向我們尋求保護的市民……<hex:02100103>雖然物資和食物都不太夠，不過我們還是能保障這裡的安全的。
-15,TEXT_REGISB5TERTIUM_00753_DECIMUS_000_202,我們會以此地為據點，繼續為帝都恢復繁榮而戰。<hex:02100103>無論你們這些蠻族說什麼我們都不會接受的，<hex:02100103>問完了就趕緊走吧。
-16,TEXT_REGISB5TERTIUM_00753_DECIMUS_000_203,我們會以此地為據點，繼續為帝都恢復繁榮而戰。<hex:02100103>但是這裡還有許多申請避難的市民，<hex:02100103>他們可沒法上前線戰鬥。
-17,TEXT_REGISB5TERTIUM_00753_DECIMUS_000_204,雖然僥倖從末日災難中倖存，但我們的戰鬥還沒有結束。<hex:02100103>昆圖斯大人臨終前對我們說「活下去」，<hex:02100103>所以就算他不在了，我們也一定會忠實執行他的命令。
-18,TEXT_REGISB5TERTIUM_00753_DECIMUS_000_205,伊爾薩巴德救援隊……<hex:02100103>你們幫了我們很多，謝謝。
-19,TEXT_REGISB5TERTIUM_00753_DECIMUS_000_206,就算是妖異壓境，我們也會拚死守住市民。<hex:02100103>昆圖斯大人臨終前命令我們「活下去」，<hex:02100103>即使帝國軍已不復存在，我們也會忠實地執行這道命令。
-20,TEXT_REGISB5TERTIUM_00753_DECIMUS_000_207,之前的末日劫難也好，妖異的襲擊也好……<hex:02100103>我們受了你們、還有伊爾薩巴德救援隊許多幫助。<hex:02100103>我代表我的同胞們向你們道謝……謝謝。
-21,TEXT_REGISB5TERTIUM_00753_DECIMUS_000_208,看來今後我們可以通過與外國的貿易，<hex:02100103>獲得穩定的物資供給。<hex:02100103>屬實是一件喜事啊。
+0,"TEXT_REGISB5TERTIUM_00753_DECIMUS_000_000","..."
+1,"TEXT_REGISB5TERTIUM_00753_SYSTEM_100_000","He clearly has no intention of speaking with you."
+2,"TEXT_REGISB5TERTIUM_00753_DECIMUS_000_001","I know who you are. <hex:022903EB0203>, champion of Eorzea, yes? Our orders are to give you the run of our encampment, but I have my eye on you. So, what business do you have with me?"
+3,"TEXT_REGISB5TERTIUM_00753_DECIMUS_000_002","Lord Quintus was our rock in the storm...and now, we are without a leader, without direction. Nevertheless, we must live on, even if that means consorting with our former enemies. Well, what do you want?"
+4,"TEXT_REGISB5TERTIUM_00753_DECIMUS_000_003","The end has come, and we are powerless to resist. Are you here to bear witness to Garlemald's demise, or is there some other reason?"
+5,"TEXT_REGISB5TERTIUM_00753_DECIMUS_000_004","The Final Days your comrades speak of have been averted, and we yet live. Even now, the words of Lord Quintus serve as our inspiration, as we march into a new era. But tell me, is there aught you wish to know?"
+6,"TEXT_REGISB5TERTIUM_00753_Q1_000_000","What will you ask?"
+7,"TEXT_REGISB5TERTIUM_00753_A1_000_001","Tell me about yourself."
+8,"TEXT_REGISB5TERTIUM_00753_A1_000_002","What kind of place is this?"
+9,"TEXT_REGISB5TERTIUM_00753_A1_000_003","Nothing."
+10,"TEXT_REGISB5TERTIUM_00753_DECIMUS_000_100","I am Decimus, centurion of the Ist Legion. It is my sworn duty to defend Garlemald from barbarians such as you, and your very presence here is an affront to my honor."
+11,"TEXT_REGISB5TERTIUM_00753_DECIMUS_000_101","I am Decimus, centurion of the Ist Legion. Although my legatus is no more, I will continue to defend this last bastion and those who seek refuge here."
+12,"TEXT_REGISB5TERTIUM_00753_DECIMUS_000_102","I am Decimus, centurion of the Ist Legion. Or at least, I was. With the Empire fallen and our glorious capital in ruins, what meaning have such appellations? Even so, I remain a Garlean and I require neither rank nor station to defend my people."
+13,"TEXT_REGISB5TERTIUM_00753_DECIMUS_000_200","This is Tertium, third among the stations that encircle the city. The decommissioned carriages here now serve as the Ist Legion's temporary base of operations."
+14,"TEXT_REGISB5TERTIUM_00753_DECIMUS_000_201","It has also become a safe haven for those fleeing the turmoil that has befallen the capital. What scant supplies we have are distributed among civilian and soldier alike, and we strive to maintain some semblance of order in these dark times."
+15,"TEXT_REGISB5TERTIUM_00753_DECIMUS_000_202","Our true objective, however, is not merely to survive, but to reclaim our home. We have no time to deal with your band of savages, and if you dare to interfere in our affairs, we will not hesitate to cut you down."
+16,"TEXT_REGISB5TERTIUM_00753_DECIMUS_000_203","Our dream of taking back the city lies in tatters, but we shall fight on until the bitter end. I only hope that those who have fled will fare better than I and my men."
+17,"TEXT_REGISB5TERTIUM_00753_DECIMUS_000_204","While we may have been spared the cataclysm, our struggle continues. With the words of Lord Quintus to guide us, we will rebuild and start anew."
+18,"TEXT_REGISB5TERTIUM_00753_DECIMUS_000_205","For affording us this second chance, you have my sincerest gratitude."
+19,"TEXT_REGISB5TERTIUM_00753_DECIMUS_000_206","But now it seems we may soon have a horde of voidsent arriving at our doorstep. Even so, we need no armies to honor the words of Lord Quintus. We <hex:021A020203>will<hex:021A020103> weather this storm, just as we have so many others."
+20,"TEXT_REGISB5TERTIUM_00753_DECIMUS_000_207","A task, I will admit, we may not have accomplished without the aid of you and yours. First the cataclysm, and now this recent threat of voidsent. On behalf of my brethren, I offer you my sincerest thanks."
+21,"TEXT_REGISB5TERTIUM_00753_DECIMUS_000_208","Yet with the forging of this trade agreement with Radz–at–Han, our supply woes may very well come to an end. For the first time in a long while, I am hopeful for the future."
+22,"TEXT_REGISB5TERTIUM_00753_DECIMUS_000_209","今の私はガレアン・コミュニティの一員だが、<hex:02100103>かつて軍団長が最期に下された命を投げ出すつもりはない。<hex:02100103>同胞たちとともに、必ず生き延びてみせるぞ。"

@@ -2,167 +2,167 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_BANQIQ003_03796_SEQ_00,<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整（限定職業）<hex:0249020103><hex:0248020103><hex:02100103>奇塔利的水蛇大人？想要給與冒險者新的啟示……好像。
-1,TEXT_BANQIQ003_03796_SEQ_01,※本任務為<hex:024804F201FC03><hex:024904F201FD03><hex:0249020103><hex:0248020103> 等級調整（限定職業）任務，<hex:02100103>　需要與接受任務時的職業相同才可繼續進行任務。<hex:02100103><hex:02100103>奇塔利的水蛇大人？似乎很在意採掘調查的進展。和茶咕盧利·柯呫櫨談談。
-2,TEXT_BANQIQ003_03796_SEQ_02,和茶咕盧利·柯呫櫨進行了交談。為了進入洞窟遺跡的更深層，需要為隆卡的地下世界之神——奧奇斯達藍舉行祭神儀式。找法諾村的蘭櫟了解一下。
-3,TEXT_BANQIQ003_03796_SEQ_03,和蘭櫟進行了交談。開始尋找儀式所需的供品。找到供品後，交給其嗒盧利·那嗵櫨。
-4,TEXT_BANQIQ003_03796_SEQ_04,將供品交給其嗒盧利·那嗵櫨後，在洞窟內為達藍神舉行了祭神儀式。成功開始了第二次調查，但是，能找到祖先的石碑嗎？和茶咕盧利·柯呫櫨談談。
-5,TEXT_BANQIQ003_03796_SEQ_05,在採掘隊的據點設定了儀式的祭壇，在洞窟遺跡的內部，發現了損壞的「第二石碑」。在水蛇大人的指引下，奇塔利們這次也決定將石碑復原。關於石碑上所雕刻的歷史，冒險者作為隆卡的同盟者，不得不再次進行選擇……
-6,TEXT_BANQIQ003_03796_SEQ_06,
-7,TEXT_BANQIQ003_03796_SEQ_07,
-8,TEXT_BANQIQ003_03796_SEQ_08,
-9,TEXT_BANQIQ003_03796_SEQ_09,
-10,TEXT_BANQIQ003_03796_SEQ_10,
-11,TEXT_BANQIQ003_03796_SEQ_11,
-12,TEXT_BANQIQ003_03796_SEQ_12,
-13,TEXT_BANQIQ003_03796_SEQ_13,
-14,TEXT_BANQIQ003_03796_SEQ_14,
-15,TEXT_BANQIQ003_03796_SEQ_15,
-16,TEXT_BANQIQ003_03796_SEQ_16,
-17,TEXT_BANQIQ003_03796_SEQ_17,
-18,TEXT_BANQIQ003_03796_SEQ_18,
-19,TEXT_BANQIQ003_03796_SEQ_19,
-20,TEXT_BANQIQ003_03796_SEQ_20,
-21,TEXT_BANQIQ003_03796_SEQ_21,
-22,TEXT_BANQIQ003_03796_SEQ_22,
-23,TEXT_BANQIQ003_03796_SEQ_23,
-24,TEXT_BANQIQ003_03796_TODO_00,和茶咕盧利·柯呫櫨對話
-25,TEXT_BANQIQ003_03796_TODO_01,和法諾村的蘭櫟對話
-26,TEXT_BANQIQ003_03796_TODO_02,<hex:0208F20160E4E80511FF6C><hex:020868E3E802E803FF32>在星墓塔遺跡群的礦脈採取<hex:02280AFF05>Item<hex:E8060103><hex:FF2E>將<hex:02280AFF05>Item<hex:E8060103>交給其嗒盧利·那嗵櫨<hex:03><hex:FFF0EC><hex:0208F0E7E4E80512FF6C><hex:020868E3E802E803FF32>在星墓塔遺跡群的草場採取<hex:02280AFF05>Item<hex:E8060103><hex:FF2E>將<hex:02280AFF05>Item<hex:E8060103>交給其嗒盧利·那嗵櫨<hex:03><hex:FF75><hex:020871E4E80513FF69><hex:020865E3E802E803FF2F>在洛查特爾河的釣場釣取<hex:02280AFF05>Item<hex:E8060103><hex:FF2E>將<hex:02280AFF05>Item<hex:E8060103>交給其嗒盧利·那嗵櫨<hex:03><hex:FF01><hex:03><hex:03><hex:03>
-27,TEXT_BANQIQ003_03796_TODO_03,和茶咕盧利·柯呫櫨對話
-28,TEXT_BANQIQ003_03796_TODO_04,
-29,TEXT_BANQIQ003_03796_TODO_05,
-30,TEXT_BANQIQ003_03796_TODO_06,
-31,TEXT_BANQIQ003_03796_TODO_07,
-32,TEXT_BANQIQ003_03796_TODO_08,
-33,TEXT_BANQIQ003_03796_TODO_09,
-34,TEXT_BANQIQ003_03796_TODO_10,
-35,TEXT_BANQIQ003_03796_TODO_11,
-36,TEXT_BANQIQ003_03796_TODO_12,
-37,TEXT_BANQIQ003_03796_TODO_13,
-38,TEXT_BANQIQ003_03796_TODO_14,
-39,TEXT_BANQIQ003_03796_TODO_15,
-40,TEXT_BANQIQ003_03796_TODO_16,
-41,TEXT_BANQIQ003_03796_TODO_17,
-42,TEXT_BANQIQ003_03796_TODO_18,
-43,TEXT_BANQIQ003_03796_TODO_19,
-44,TEXT_BANQIQ003_03796_TODO_20,
-45,TEXT_BANQIQ003_03796_TODO_21,
-46,TEXT_BANQIQ003_03796_TODO_22,
-47,TEXT_BANQIQ003_03796_TODO_23,
-48,TEXT_BANQIQ003_03796_BOUSHITSUCHINOKO_000_001,啾！
-49,TEXT_BANQIQ003_03796_SYSTEM_000_002,「奇塔利的水蛇大人？」發出了滿足的叫聲。<hex:02100103>洞窟遺跡的採掘似乎十分順利。<hex:02100103>和茶咕盧利·柯呫櫨對話，了解採掘工作的進度。
-50,TEXT_BANQIQ003_03796_CHAQURLQHOTL_100_011,<hex:022903EB0203>閣下！<hex:02100103>驅魔的護符效果非常好，採掘非常順利是耶！
-51,TEXT_BANQIQ003_03796_CHAQURLQHOTL_000_011,也多虧了爾繼續幫助姆等，<hex:02100103>第一次調查發現的洞窟遺跡第一層，<hex:02100103>已經大致採掘完畢了是耶！
-52,TEXT_BANQIQ003_03796_QITARLNATL_000_012,唔，詳細調查了第一層的出土物品之後，<hex:02100103>某等發現，同盟者閣下選擇的歷史果然是正確的是也。
-53,TEXT_BANQIQ003_03796_QITARLNATL_000_013,剛剛建國的隆卡帝國會舉行儀式，<hex:02100103>將屈服於他們的種族當作供品獻給眾神。<hex:02100103>皇帝揮劍的圖案描繪的就是那個場面。
-54,TEXT_BANQIQ003_03796_QITARLNATL_000_014,獻上過供品的種族，就會被眾神認可，<hex:02100103>成為隆卡帝國的子民。<hex:02100103>奇塔利族也因此才得以侍奉皇帝。
-55,TEXT_BANQIQ003_03796_QITARLNATL_000_015,雖說是締結信賴的儀式……<hex:02100103>但真是不得不感謝那些獻身的祖先大人啊。
-56,TEXT_BANQIQ003_03796_CHAQURLQHOTL_000_016,多虧了祖先大人們，<hex:02100103>姆等才能有今天是耶……
-57,TEXT_BANQIQ003_03796_QITARLNATL_000_017,奇塔利族自古就是不擅長戰鬥的種族。<hex:02100103>為了能過上安穩的生活，祖先大人們也算是歷盡了艱辛。
-58,TEXT_BANQIQ003_03796_QITARLNATL_000_018,在隆卡帝國中，皇帝是隆索族，<hex:02100103>神官是朵龍族，近衛隊則是維斯族……<hex:02100103>因此，隆卡帝國是一個聚集了各個種族的多民族國家。
-59,TEXT_BANQIQ003_03796_QITARLNATL_000_019,某等奇塔利以書記官的身份得到了帝國的庇護，<hex:02100103>終於過上了安穩的生活。
-60,TEXT_BANQIQ003_03796_CHAQURLQHOTL_000_020,各個種族團結友愛，共同為國效力……<hex:02100103>果然，隆卡皇帝是個非常偉大的人是耶！
-61,TEXT_BANQIQ003_03796_QITARLNATL_000_021,並且，某等已經在第一層的深處，<hex:02100103>找到了藏有下一個石碑的第二層的入口。
-62,TEXT_BANQIQ003_03796_QITARLNATL_000_022,為了安全起見，這次也進行了預先調查。<hex:02100103>通咓盧利差不多該來彙報了……
-63,TEXT_BANQIQ003_03796_TWARLMANOL_000_023,其嗒盧利隊長……有個不好的消息，<hex:02100103>第二次調查恐怕很難立刻開始了。
-64,TEXT_BANQIQ003_03796_QITARLNATL_000_024,唔、唔？！<hex:02100103>怎麼又是這樣……這次發生什麼了是也？
-65,TEXT_BANQIQ003_03796_TWARLMANOL_000_025,哈……某等剛進入第二層，<hex:02100103>就發現了供奉著某等的庇護神奧奇斯達藍的祭壇。<hex:02100103>不知道是不是因為魔物的緣故，已經徹底荒廢了……
-66,TEXT_BANQIQ003_03796_QITARLNATL_000_026,唔，既然曾經有過祭壇的話，<hex:02100103>那就說明第二層有需要靠神之力鎮壓的東西對吧？
-67,TEXT_BANQIQ003_03796_TWARLMANOL_000_027,沒錯，如果無視祭壇繼續前進，<hex:02100103>很有可能會發生塌方和泥石流之類的事故！<hex:02100103>太恐怖了，誰都不敢再繼續前進了！
-68,TEXT_BANQIQ003_03796_CHAQURLQHOTL_000_028,嗯……為了繼續深入尋找下一個石碑，<hex:02100103>看來必須要舉行祭神儀式才行呢。
-69,TEXT_BANQIQ003_03796_QITARLNATL_000_029,是啊……但是某等並不知道<hex:02100103>祖先大人曾經在祭壇上舉行過怎樣的儀式啊。
-70,TEXT_BANQIQ003_03796_Q1_000_000,要說什麼？
-71,TEXT_BANQIQ003_03796_A1_000_001,有個名叫蘭櫟的維斯族很了解儀式
-72,TEXT_BANQIQ003_03796_A1_000_002,法諾村的維斯族可能會知道
-73,TEXT_BANQIQ003_03796_CHAQURLQHOTL_000_030,原來如此！<hex:02100103>維斯族的姐姐們知道許多關於隆卡儀式的事是耶！
-74,TEXT_BANQIQ003_03796_CHAQURLQHOTL_000_032,有著夜空顏色頭髮的指導者蘭櫟閣下……<hex:02100103>肯定能為姆等提供幫助！
-75,TEXT_BANQIQ003_03796_QITARLNATL_000_031,嗯，她活了這麼久，<hex:02100103>肯定和某等的石碑一樣，擁有諸多的智慧。<hex:02100103>她應該會知道怎麼為達藍神舉行祭神儀式吧。
-76,TEXT_BANQIQ003_03796_CHAQURLQHOTL_000_033,<hex:022903EB0203>閣下，那就麻煩爾幫姆介紹一下<hex:02100103>法諾村的蘭櫟閣下了！
-77,TEXT_BANQIQ003_03796_CHAQURLQHOTL_000_040,有好多維斯族的姐姐是耶！
-78,TEXT_BANQIQ003_03796_BOUSHITSUCHINOKO_000_041,啾啾！
-79,TEXT_BANQIQ003_03796_PHYNA_000_042,你問我怎麼還沒去旅行？<hex:02100103>真是的，怎麼連同盟者都這樣！<hex:02100103>秀楠和其他人每天都要問一遍，真是夠啦！
-80,TEXT_BANQIQ003_03796_CIUNA_000_043,同盟者，好久不見了呢。<hex:02100103>法楠還沒有出去旅行，所以我們還是老樣子。
-81,TEXT_BANQIQ003_03796_LANILLE_000_045,奇塔利族的事我已經收到報告了……<hex:02100103>不過，沒想到奇塔利族會來村子裡，真是讓人懷念。
-82,TEXT_BANQIQ003_03796_CHAQURLQHOTL_000_046,懷念？<hex:02100103>爾曾經見過奇塔利族嗎？！
-83,TEXT_BANQIQ003_03796_LANILLE_000_047,是啊，我可是村裡的老一輩人了……<hex:02100103>他們經常來這裡，每次來我都會和他們聊天。<hex:02100103>你聽說過我的朋友希啪盧利·通哢梸嗎？
-84,TEXT_BANQIQ003_03796_CHAQURLQHOTL_000_048,希啪盧利……<hex:02100103>姆記得在父親寫的家譜中見到過這個名字是耶。<hex:02100103>那是姆……123、456……8代之前的老奶奶是耶！
-85,TEXT_BANQIQ003_03796_LANILLE_000_049,哈哈哈，她輩分這麼高嗎！<hex:02100103>我原本還以為光之泛濫之後就再也見不到奇塔利族了……<hex:02100103>再次歡迎你來到法諾村，茶咕盧利。
-86,TEXT_BANQIQ003_03796_LANILLE_100_049,那麼，你和<hex:022903EB0203>閣下一起來這裡，<hex:02100103>是因為遇到什麼困難了嗎？
-87,TEXT_BANQIQ003_03796_LANILLE_000_050,原來是這樣……<hex:02100103>要取回和石碑一起消失的祖先的記憶，以及隆卡的智慧啊……<hex:02100103>這就是奇塔利族如今的使命吧。
-88,TEXT_BANQIQ003_03796_CIUNA_000_051,既然是古代隆卡的同胞，<hex:02100103>我們自然會對有困難的朋友出手相助。<hex:02100103>更何況那還是只有奇塔利族才能進入的洞窟遺跡！
-89,TEXT_BANQIQ003_03796_PHYNA_000_052,啊哈哈！<hex:02100103>秀楠一聽說遺跡的話題，耳朵啪地一下就豎起來了呢！
-90,TEXT_BANQIQ003_03796_PHYNA_000_053,我正在為旅行做準備呢。<hex:02100103>不過，既然在法諾村隔壁出現了新鄰居，<hex:02100103>那我就晚一點再出發吧。
-91,TEXT_BANQIQ003_03796_BOUSHITSUCHINOKO_000_054,啾啾！
-92,TEXT_BANQIQ003_03796_LANILLE_000_055,水蛇大人的化身嗎……它肯定也在幫助奇塔利族吧。
-93,TEXT_BANQIQ003_03796_CIUNA_000_056,言歸正傳，蘭櫟，<hex:02100103>法諾村裡還留有多少奇塔利族的傳說呢？
-94,TEXT_BANQIQ003_03796_LANILLE_000_057,我只記得我朋友的事了。<hex:02100103>很遺憾，關於奇塔利族的石碑和儀式，<hex:02100103>並沒有詳細的內容傳承下來。
-95,TEXT_BANQIQ003_03796_LANILLE_000_058,但是，希啪盧利很久以前說過……<hex:02100103>他們向奧奇斯達藍祈禱的形式，<hex:02100103>和我們向伊奇絲瑪雅艾祈禱的形式大致相同。
-96,TEXT_BANQIQ003_03796_LANILLE_000_059,果然，大家都是隆卡之民呢。<hex:02100103>也就是說，奇塔利族只要參照我們的方法，<hex:02100103>舉行達藍神的祭神儀式就可以了。
-97,TEXT_BANQIQ003_03796_CHAQURLQHOTL_000_060,那就是說……
-98,TEXT_BANQIQ003_03796_LANILLE_000_061,嗯，一起準備祭壇，舉行儀式吧。<hex:02100103>為此，要先收集一下地底神喜歡的供品才行。
-99,TEXT_BANQIQ003_03796_LANILLE_000_062,除了古獸的血和肝，還需要<hex:02280BFF05>Item<hex:F2734A0103>……<hex:02100103>在星墓塔遺跡群附近就能採集到那個。
-100,TEXT_BANQIQ003_03796_LANILLE_100_062,除了古獸的血和肝，還需要<hex:02280BFF05>Item<hex:F273640103>……<hex:02100103>在星墓塔遺跡群附近就能採集到那個。
-101,TEXT_BANQIQ003_03796_LANILLE_200_062,除了古獸的血和肝，還需要<hex:02280BFF05>Item<hex:F2737E0103>……<hex:02100103>在洛查特爾河附近就能釣到那個。<hex:02100103>魚餌的話，用<hex:02280BFF05>Item<hex:F26BBE0103>就可以。
-102,TEXT_BANQIQ003_03796_CIUNA_000_063,狩獵古獸的話，就交給我們吧。<hex:02100103>剩下的就交給同盟者了，可以嗎？
-103,TEXT_BANQIQ003_03796_LANILLE_000_064,我來教茶咕盧利閣下一些儀式的做法吧。<hex:02100103>法楠她們能到洞窟遺跡中進行現場指導的話就更好了，<hex:02100103>可惜進不去呢。
-104,TEXT_BANQIQ003_03796_CHAQURLQHOTL_000_065,姆會加油的！<hex:02100103>姆一定會讓姆等的祈禱傳到達藍神和祖先大人那裡的！
-105,TEXT_BANQIQ003_03796_PHYNA_000_066,呵呵呵，蘭櫟的指導可是非常嚴格的哦！<hex:02100103>加油吧！
-106,TEXT_BANQIQ003_03796_CHAQURLQHOTL_000_067,<hex:022903EB0203>閣下，收集完供品之後，<hex:02100103>麻煩爾交給在霍啪櫨古盤的父親是耶。<hex:02100103>姆學習完了之後就和姐姐們一起過去是耶！
-107,TEXT_BANQIQ003_03796_CHAQURLQHOTL_100_070,姆會努力學習儀式的！<hex:02100103><hex:022903EB0203>閣下收集完供品之後，<hex:02100103>交給在霍啪櫨古盤的父親就行了是耶！
-108,TEXT_BANQIQ003_03796_LANILLE_100_071,多虧了你，我才能回憶起朋友那令人懷念的容顏。<hex:02100103>感謝你，<hex:022903EB0203>閣下。
-109,TEXT_BANQIQ003_03796_BOUSHITSUCHINOKO_100_072,啾！啾！
-110,TEXT_BANQIQ003_03796_SYSTEM_100_073,「奇塔利的水蛇大人？」發出了感概的細小叫聲。<hex:02100103>似乎被維斯族和奇塔利族之間的情誼所打動了。
-111,TEXT_BANQIQ003_03796_QITARLNATL_000_080,爾終於回來了是也！<hex:02100103>祭神儀式的做法有什麼眉目了嗎？
-112,TEXT_BANQIQ003_03796_QITARLNATL_000_082,要供奉地底神，肯定需要相應的供品吧。<hex:02100103><hex:022903EB0203>閣下，就拜託爾去收集了！
-113,TEXT_BANQIQ003_03796_QITARLNATL_000_081,哦哦，這就是儀式的供品……<hex:02100103>等茶咕盧利和維斯族都到了之後，<hex:02100103>某等就立刻開始第二次調查！
-114,TEXT_BANQIQ003_03796_CIUNA_000_085,這裡就是奇塔利族的……<hex:02100103>他們為了採掘遺跡而聚集於此，真是太棒了！
-115,TEXT_BANQIQ003_03796_PHYNA_000_086,你們好！我們來自法諾村。<hex:02100103>聽說你們要舉行達藍神的祭神儀式，就來幫忙了。
-116,TEXT_BANQIQ003_03796_QITARLNATL_000_087,感激不盡，犬子給爾等添麻煩了。<hex:02100103>某等奇塔利在這裡肯定吵到爾等了吧。<hex:02100103>改天某一定要登門拜訪一下才行……
-117,TEXT_BANQIQ003_03796_PHYNA_000_088,我們才是，聽說第一次見面的時候嚇到你們了。<hex:02100103>真是非常抱歉。
-118,TEXT_BANQIQ003_03796_CIUNA_000_089,我們都是隆卡的同胞，既然成了鄰居，<hex:02100103>有什麼事就儘管開口吧！
-119,TEXT_BANQIQ003_03796_PHYNA_000_090,同盟者收集的東西，再加上我們的獵物……<hex:02100103>嗯，供品已經準備好了。<hex:02100103>儀式的流程你都記下來了吧？
-120,TEXT_BANQIQ003_03796_CHAQURLQHOTL_000_091,當然！<hex:02100103>為了能讓姆等獨自在洞窟裡完成儀式，<hex:02100103>蘭櫟閣下可是好好教導了姆一番呢！
-121,TEXT_BANQIQ003_03796_QITARLNATL_000_092,唔，很好！<hex:02100103>那麼……第二次調查開始是也！
-122,TEXT_BANQIQ003_03796_SYSTEM_000_071,經過一段時間後……
-123,TEXT_BANQIQ003_03796_SYSTEM_000_072,茶咕盧利·柯呫櫨和其嗒盧利·那嗵櫨完成了第二次調查！
-124,TEXT_BANQIQ003_03796_HELMETTSUCHINOKO_000_102,啾？
-125,TEXT_BANQIQ003_03796_PHYNA_000_103,水蛇大人……是和他們一起從洞窟遺跡裡出來的？！
-126,TEXT_BANQIQ003_03796_CIUNA_000_104,洞窟遺跡裡究竟發生什麼事了……
-127,TEXT_BANQIQ003_03796_CHAQURLQHOTL_000_115,唔……果然，這次也是一樣是耶。<hex:02100103>發現的第二石碑也無法拿到地上。
-128,TEXT_BANQIQ003_03796_QITARLNATL_000_116,然後，戴著頭盔的水蛇大人，<hex:02100103>再次出現在了某等面前……
-129,TEXT_BANQIQ003_03796_HELMETTSUCHINOKO_000_117,啾啾！
-130,TEXT_BANQIQ003_03796_QITARLNATL_000_118,發現第一石碑的時候，<hex:02100103>水蛇大人認為某等應該藉助<hex:022903EB0203>閣下的智慧來復原石碑。
-131,TEXT_BANQIQ003_03796_QITARLNATL_000_119,這一次，水蛇大人似乎也給出了相同的指示。<hex:02100103>茶咕盧利，這次發現的石碑，爾是怎麼看的？
-132,TEXT_BANQIQ003_03796_CHAQURLQHOTL_000_120,那個……石碑上雕刻著的是「持弓的維斯族獵人」<hex:02100103>和「高舉雙手的奇塔利們」是耶。
-133,TEXT_BANQIQ003_03796_CIUNA_000_121,石碑上竟然會有維斯族？<hex:02100103>這可真是讓人感興趣。
-134,TEXT_BANQIQ003_03796_CHAQURLQHOTL_000_122,這肯定和第一石碑上刻著皇帝一樣，<hex:02100103>也表現了維斯族和奇塔利族初次相遇時的場面。
-135,TEXT_BANQIQ003_03796_CHAQURLQHOTL_000_123,奇塔利族和皇帝結下了友誼之後，<hex:02100103>和強大帥氣的維斯族相遇了，所以感覺非常開心！<hex:02100103>於是便高舉雙手，歡迎隆卡大家庭的新成員是耶！
-136,TEXT_BANQIQ003_03796_QITARLNATL_000_124,這塊石碑上描繪的也是初遇時的場面嗎……<hex:02100103>某也同意這一點。
-137,TEXT_BANQIQ003_03796_QITARLNATL_000_125,但是，某覺得它代表著其他意思。<hex:02100103>應該是維斯族把初次見到的奇塔利族當成了獵物，<hex:02100103>正準備向他們射箭吧。
-138,TEXT_BANQIQ003_03796_QITARLNATL_000_126,奇塔利族則是因為畏懼才舉起了雙手。<hex:02100103>這應該是描繪了來自森林的維斯族，<hex:02100103>險些成為了隆卡之敵的一幕吧……
-139,TEXT_BANQIQ003_03796_PHYNA_000_127,根據我們的傳說，維斯族曾是流浪之民，<hex:02100103>是由伊奇絲瑪雅艾女神指引至此的……<hex:02100103>不過光憑這一點，無法判斷兩種說法哪個正確呢。
-140,TEXT_BANQIQ003_03796_PHYNA_000_128,最重要的是，這是奇塔利族要傳承的歷史，<hex:02100103>不能由我們來妄下判斷。
-141,TEXT_BANQIQ003_03796_CIUNA_000_129,沒錯。<hex:02100103>我們就先回法諾村吧。
-142,TEXT_BANQIQ003_03796_CIUNA_000_130,石碑復原後，一定要來告訴我們結果哦。<hex:02100103>我們要是發現了有助於採掘的情報的話，<hex:02100103>也會立刻通知你們的。
-143,TEXT_BANQIQ003_03796_QITARLNATL_000_131,果然，某等的意見無法統一嗎……
-144,TEXT_BANQIQ003_03796_BOUSHITSUCHINOKO_000_132,啾！
-145,TEXT_BANQIQ003_03796_CHAQURLQHOTL_000_133,<hex:022903EB0203>閣下，那就請爾遵從水蛇大人的指引，<hex:02100103>選擇奇塔利族的歷史吧！
-146,TEXT_BANQIQ003_03796_SYSTEM_000_135,關於要在新石碑上雕刻哪種歷史，<hex:02100103>奇塔利父子兩人的見解產生了分歧。<hex:02100103>水蛇大人似乎將奇塔利族的歷史交到了你手中……
-147,TEXT_BANQIQ003_03796_SYSTEM_000_136,與奇塔利族「盧利採掘隊」之間的關係程度到達了「尊敬」。<hex:02100103>冒險者幫忙準備了儀式，贏得了信賴！
-148,TEXT_BANQIQ003_03796_SYSTEM_000_137,另外，在法諾村維斯族的幫助下，<hex:02100103>霍啪櫨古盤的據點設定了儀式的祭壇。<hex:02100103>為洞窟安全進行了祈禱，採掘能夠更加順利地進行了！
-149,TEXT_BANQIQ003_03796_SYSTEM_000_138,今後可以在霍啪櫨古盤的柯呫盧利·帕嗦梸處，<hex:02100103>接受新的友好部族日常任務。
-150,TEXT_BANQIQ003_03796_SYSTEM_000_139,同時，作為獎勵，<hex:02100103>友好關係等級提升的當天，<hex:02100103>可從柯呫盧利·帕嗦梸處接受的友好部族日常任務數量追加3個。
-151,TEXT_BANQIQ003_03796_SYSTEM_000_140,領取完所有友好關係等級提升前發行的友好部族日常任務後，<hex:02100103>將會發行作為獎勵的追加任務。<hex:02100103>受理限額未達到上限即可接受追加任務。
-152,TEXT_BANQIQ003_03796_SYSTEM_000_141,並且可以在「於咕盧利·瑪喏櫨」處<hex:02100103>購入要求「關係程度：尊敬」的商品。<hex:02100103>在今後的冒險裡善加利用吧！
-153,TEXT_BANQIQ003_03796_QITARLNATL_000_136,
-154,TEXT_BANQIQ003_03796_QITARLNATL_100_136,
-155,TEXT_BANQIQ003_03796_QITARLNATL_000_137,
-156,TEXT_BANQIQ003_03796_QITARLNATL_000_138,
-157,TEXT_BANQIQ003_03796_QITARLNATL_000_139,
-158,TEXT_BANQIQ003_03796_QITARLNATL_000_140,
-159,TEXT_BANQIQ003_03796_QITARLNATL_000_010,
-160,TEXT_BANQIQ003_03796_BOUSHITSUCHINOKO_000_003,
-161,TEXT_BANQIQ003_03796_QITARLNATL_000_035,
-162,TEXT_BANQIQ003_03796_QITARLNATL_000_100,
-163,TEXT_BANQIQ003_03796_BOUSHITSUCHINOKO_000_101,
+0,"TEXT_BANQIQ003_03796_SEQ_00","The Great Serpent of Ronka wishes to impart divine wisdom unto you...or so you think.<hex:02100103>※The difficulty of this quest will be synced to your current level."
+1,"TEXT_BANQIQ003_03796_SEQ_01","You engage in a stimulating conversation with the Great Serpent of Ronka, who─you surmise from the urgency and eagerness of its screeing─is keen to see the Stewards press deeper into the tunnels of Hopl's Stopple. Should you be inclined to heed its call, seek out Chaqurl Qhotl and see how you might best proceed.<hex:02100103><hex:02100103>※Please note that the difficulty of this quest has been synced to your current level. Furthermore, you may not proceed with a class or job that is different from when you accepted this quest."
+2,"TEXT_BANQIQ003_03796_SEQ_02","You seek out and speak with Chaqurl Qhotl. It appears that further progress through the tunnels of Hopl's Stopple will require you to perform a ceremony in obeisance to Ox'Dalan, god of death and protector of the underworld. Qitarl Natl suggests that perhaps the Viis, as a fellow ancient race with ties to Ronka, might be able to offer apt advice in the matter. Finding his reasoning sound, you agree to accompany Chaqurl Qhotl to Fanow in search of wisdom."
+3,"TEXT_BANQIQ003_03796_SEQ_03","Your old friends Ciuna and Phyna bid you welcome in your return to Fanow. After reminiscing about her friendship with one of Chaqurl's ancestors, Master Lanille enlightens you with the knowledge that a traditional Viis ritual may serve to appease Ox'Dalan and offer the Qitari excavation team passage to the tunnels below. At the Viis' request, you set out to procure an item suitable for use as an offering to the gods of old."
+4,"TEXT_BANQIQ003_03796_SEQ_04","Back at Hopl's Stopple, all rejoice at your success in tracking down the offering for the ritual, which─with the help of Chaqurl Qhotl, who has diligently learned the accompanying prayer from Master Lanille─proceeds without a hitch. At long last, the second phase of the excavation may begin. After a short while spent waiting, the Qitari father and son return...what, pray tell, did they find on their expedition?"
+5,"TEXT_BANQIQ003_03796_SEQ_05","Qitarl and Chaqurl reveal that they have managed to locate the second Qitari stela which, unfortunately, is in the same shabby shape as the first one they discovered. This one appears to depict the first encounter between the Qitari and the Viis, but─not unlike last time─the father and son have different ideas about how the weathered markings should be interpreted. At the urging of yet another incarnation of the Great Serpent of Ronka─or so it appears to be─you are charged with mediating between the two and choosing the version of history that will be engraved upon the stone and passed down to posterity."
+6,"TEXT_BANQIQ003_03796_SEQ_06",""
+7,"TEXT_BANQIQ003_03796_SEQ_07",""
+8,"TEXT_BANQIQ003_03796_SEQ_08",""
+9,"TEXT_BANQIQ003_03796_SEQ_09",""
+10,"TEXT_BANQIQ003_03796_SEQ_10",""
+11,"TEXT_BANQIQ003_03796_SEQ_11",""
+12,"TEXT_BANQIQ003_03796_SEQ_12",""
+13,"TEXT_BANQIQ003_03796_SEQ_13",""
+14,"TEXT_BANQIQ003_03796_SEQ_14",""
+15,"TEXT_BANQIQ003_03796_SEQ_15",""
+16,"TEXT_BANQIQ003_03796_SEQ_16",""
+17,"TEXT_BANQIQ003_03796_SEQ_17",""
+18,"TEXT_BANQIQ003_03796_SEQ_18",""
+19,"TEXT_BANQIQ003_03796_SEQ_19",""
+20,"TEXT_BANQIQ003_03796_SEQ_20",""
+21,"TEXT_BANQIQ003_03796_SEQ_21",""
+22,"TEXT_BANQIQ003_03796_SEQ_22",""
+23,"TEXT_BANQIQ003_03796_SEQ_23",""
+24,"TEXT_BANQIQ003_03796_TODO_00","Speak with Chaqurl Qhotl."
+25,"TEXT_BANQIQ003_03796_TODO_01","Speak with Lanille in Fanow."
+26,"TEXT_BANQIQ003_03796_TODO_02","<hex:0208F20137E4E80511FF60><hex:02085CE3E802E803FF2D>Mine <hex:02310CFF05>Item<hex:02E806020203> in the K'mul Astropolis<hex:FF27>Deliver <hex:02310CFF05>Item<hex:03E806020203> to Qitarl Natl<hex:03><hex:FFF0CF><hex:0208CCE4E80512FF62><hex:02085EE3E802E803FF2F>Gather <hex:02310CFF05>Item<hex:02E806020203> in the K'mul Astropolis<hex:FF27>Deliver <hex:02310CFF05>Item<hex:03E806020203> to Qitarl Natl<hex:03><hex:FF63><hex:02085FE4E80513FF57><hex:020853E3E802E803FF24>Catch <hex:02310CFF05>Item<hex:02E806020203> in the Lozatl<hex:FF27>Deliver <hex:02310CFF05>Item<hex:03E806020203> to Qitarl Natl<hex:03><hex:FF01><hex:03><hex:03><hex:03>."
+27,"TEXT_BANQIQ003_03796_TODO_03","Speak with Chaqurl Qhotl."
+28,"TEXT_BANQIQ003_03796_TODO_04",""
+29,"TEXT_BANQIQ003_03796_TODO_05",""
+30,"TEXT_BANQIQ003_03796_TODO_06",""
+31,"TEXT_BANQIQ003_03796_TODO_07",""
+32,"TEXT_BANQIQ003_03796_TODO_08",""
+33,"TEXT_BANQIQ003_03796_TODO_09",""
+34,"TEXT_BANQIQ003_03796_TODO_10",""
+35,"TEXT_BANQIQ003_03796_TODO_11",""
+36,"TEXT_BANQIQ003_03796_TODO_12",""
+37,"TEXT_BANQIQ003_03796_TODO_13",""
+38,"TEXT_BANQIQ003_03796_TODO_14",""
+39,"TEXT_BANQIQ003_03796_TODO_15",""
+40,"TEXT_BANQIQ003_03796_TODO_16",""
+41,"TEXT_BANQIQ003_03796_TODO_17",""
+42,"TEXT_BANQIQ003_03796_TODO_18",""
+43,"TEXT_BANQIQ003_03796_TODO_19",""
+44,"TEXT_BANQIQ003_03796_TODO_20",""
+45,"TEXT_BANQIQ003_03796_TODO_21",""
+46,"TEXT_BANQIQ003_03796_TODO_22",""
+47,"TEXT_BANQIQ003_03796_TODO_23",""
+48,"TEXT_BANQIQ003_03796_BOUSHITSUCHINOKO_000_001","Scree!"
+49,"TEXT_BANQIQ003_03796_SYSTEM_000_002","The serpent jumps about joyfully. It appears that the Qitari excavation effort is proceeding swimmingly. Speak with Chaqurl Qhotl and see if there is anything you might do to lend a hand."
+50,"TEXT_BANQIQ003_03796_CHAQURLQHOTL_100_011","Oh, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! You'll be happy to know that the charm your friends fashioned for us worked most splendidly! We've been able to reach deeper depths than ever before!"
+51,"TEXT_BANQIQ003_03796_CHAQURLQHOTL_000_011","And thanks to you, the restoration of the first stela is all but complete! You simply must see it!"
+52,"TEXT_BANQIQ003_03796_QITARLNATL_000_012","...Ahem. You'll also be pleased to know that the relics and records that turned up in our subsequent trips below have confirmed that the interpretation of history that you espoused was indeed and indubitably true."
+53,"TEXT_BANQIQ003_03796_QITARLNATL_000_013","We came upon many ritual instruments in the tunnels below. It would seem that─in the empire's earliest days─the Ronkans would offer individuals chosen from the races they conquered as living sacrifices to their gods. The markings on the first stela depict just such a scene."
+54,"TEXT_BANQIQ003_03796_QITARLNATL_000_014","But this was not simply a cruel and callous tradition. Once these conquered peoples were recognized by the Ronkan gods, they were welcomed into Ronkan society, and given the chance to serve the empire and live peaceful, prosperous lives under its auspices."
+55,"TEXT_BANQIQ003_03796_QITARLNATL_000_015","It is a somewhat chilling tale, but we must be grateful to our ancestors, who gave their own lives that we who followed might live a brighter future."
+56,"TEXT_BANQIQ003_03796_CHAQURLQHOTL_000_016","To think that I am only alive today because my forefathers spilled their blood... It is a bit much to take in all at once, but I'm sure I will come to understand."
+57,"TEXT_BANQIQ003_03796_QITARLNATL_000_017","We came upon many ritual instruments in the tunnels below. It is most clear that─let it suffice to say─we Qitari have never been particularly adept at the art of war. So it was that our ancestors searched far and wide for a safe haven where they could call home."
+58,"TEXT_BANQIQ003_03796_QITARLNATL_000_018","Ronka, on the other hand, was composed of many strong peoples─the Ronso, brave warriors; the Drahn, adept at the arcane arts; and the Viis, peerless archers─all working together for the empire's prosperity."
+59,"TEXT_BANQIQ003_03796_QITARLNATL_000_019","Not long after the Qitari first made contact with the empire, our skill as scribes and scriveners became evident to high-ranking court officials, and we were offered a prominent role in Ronkan society in return for our loyal service."
+60,"TEXT_BANQIQ003_03796_CHAQURLQHOTL_000_020","Four races so different, all living and working together for the greater good! Oh, what I wouldn't give to be able to live just one day in those glorious days of the empire!"
+61,"TEXT_BANQIQ003_03796_QITARLNATL_000_021","...But our work is far from done. Indeed, in our explorations, we have found what appears to be an entrance leading to an even deeper level of the caves. I have little doubt that the remaining stelae lie further below."
+62,"TEXT_BANQIQ003_03796_QITARLNATL_000_022","I have sent a team below to conduct a preliminary investigation before we begin the next phase of the excavation in earnest. My trusted scout Towarl Manol should be here to make her report at any─"
+63,"TEXT_BANQIQ003_03796_TWARLMANOL_000_023","Master Qitarl! I bring news from below! News that I fear...is not good."
+64,"TEXT_BANQIQ003_03796_QITARLNATL_000_024","Again!? I swear─if we Qitari did not have rotten luck we would have none at all. Do tell...what did you find down there?"
+65,"TEXT_BANQIQ003_03796_TWARLMANOL_000_025","Entering the second stratum, we came upon a shrine to our protector, Ox'Dalan. It appeared to have been ravaged by the beasts that lurk below, but still it stood after all these years..."
+66,"TEXT_BANQIQ003_03796_QITARLNATL_000_026","A shrine, you say? No doubt it was erected by our ancestors, most likely to ward off some greater danger that lurks further below..."
+67,"TEXT_BANQIQ003_03796_TWARLMANOL_000_027","This was my thought as well, Master Qitarl. A cave-in? A flood? Fearsome creatures from the deep? We were too fear stricken to press onward, not knowing what manner of calamity might befall us..."
+68,"TEXT_BANQIQ003_03796_CHAQURLQHOTL_000_028","But we must press on somehow! Can we not appeal to Dalan somehow, that He might protect us as we delve further?"
+69,"TEXT_BANQIQ003_03796_QITARLNATL_000_029","Indeed...perhaps there is a suitable ritual for the occasion. Sadly, if there is, I fear it is beyond my knowledge..."
+70,"TEXT_BANQIQ003_03796_Q1_000_000","What will you say?"
+71,"TEXT_BANQIQ003_03796_A1_000_001","I think I know a Viis who could help you..."
+72,"TEXT_BANQIQ003_03796_A1_000_002","Perhaps you might find an answer in Fanow?"
+73,"TEXT_BANQIQ003_03796_CHAQURLQHOTL_000_030","Why, yes! Indeed, the Viis are nothing if not well versed in Ronkan tradition!"
+74,"TEXT_BANQIQ003_03796_CHAQURLQHOTL_000_032","The one with hair the color of night─Master Lanille, was it? I hear she has lived as long as ten Qitari! Yes, I am certain she will have knowledge that will serve us well!"
+75,"TEXT_BANQIQ003_03796_QITARLNATL_000_031","Long-lived as they are, the wisdom they have passed down through generations doubtless rivals that which our ancestors recorded. If anyone can help us, I daresay it is them."
+76,"TEXT_BANQIQ003_03796_CHAQURLQHOTL_000_033","Good <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! Pray take me to Fanow at once. I would meet their Master Lanille, that I might partake in her deep knowledge of ancient Ronkan rites."
+77,"TEXT_BANQIQ003_03796_CHAQURLQHOTL_000_040","So many Viis in one place! I can scarce believe my eyes!"
+78,"TEXT_BANQIQ003_03796_BOUSHITSUCHINOKO_000_041","Scree! Scree!"
+79,"TEXT_BANQIQ003_03796_PHYNA_000_042","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! You grace us again with your presence. Me? I will be departing on my journey any day now. Yes, as soon as I decide where my destination will be..."
+80,"TEXT_BANQIQ003_03796_CIUNA_000_043","Welcome back, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. For better or for worse, little has changed with me since last we met. Phyna, too, is as indecisive as ever..."
+81,"TEXT_BANQIQ003_03796_LANILLE_000_045","We had heard rumors the Qitari had returned to the Greatwood, but did not expect to receive a visit so soon. Just seeing you brings back memories of olden times..."
+82,"TEXT_BANQIQ003_03796_CHAQURLQHOTL_000_046","Memories? Do you mean that...you knew my ancestors?"
+83,"TEXT_BANQIQ003_03796_LANILLE_000_047","...I am older than you might think, my little friend. Anyhow, the answer is yes. Have you heard the name Shiparl Toqal? She was a close friend of mine, and would come calling often to exchange news of the wood."
+84,"TEXT_BANQIQ003_03796_CHAQURLQHOTL_000_048","Shiparl Toqal? I do believe I saw that name on Father's family tree. But if I recall correctly, she was my...great-great-great-great-great-great-great-great-grandmother!"
+85,"TEXT_BANQIQ003_03796_LANILLE_000_049","Ahahaha! It was that long ago, was it? How quickly the years fly by. Still, I am heartened by your presence, young Chaqurl. For many years after the Flood, I feared we would never see one of your kind again."
+86,"TEXT_BANQIQ003_03796_LANILLE_100_049","And you, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Welcome back to Fanow. What brings you to us this day?"
+87,"TEXT_BANQIQ003_03796_LANILLE_000_050","...I see. Our Qitari friends seek to discover their history, and reclaim the knowledge and lore of their ancestors. An admirable goal, indeed. And doubtless not a simple task."
+88,"TEXT_BANQIQ003_03796_CIUNA_000_051","We would be honored to lend you our aid, and reforge the bonds between our peoples that were so strong in the days of Ronka. Now, do tell me more about these tunnels you are exploring!"
+89,"TEXT_BANQIQ003_03796_PHYNA_000_052","My dear sister has quite a weakness for ancient Ronkan ruins and relics, you see."
+90,"TEXT_BANQIQ003_03796_PHYNA_000_053","To tell the truth, I had been preparing to leave the Greatwood on a journey of the realm. But if the Qitari require my aid, perhaps I could postpone my departure just a bit longer..."
+91,"TEXT_BANQIQ003_03796_BOUSHITSUCHINOKO_000_054","Scree!"
+92,"TEXT_BANQIQ003_03796_LANILLE_000_055","It would seem that the great serpent smiles upon our partnership as well. This is auspicious, indeed."
+93,"TEXT_BANQIQ003_03796_CIUNA_000_056","Master Lanille, what knowledge of the Qitari lives on here in Fanow?"
+94,"TEXT_BANQIQ003_03796_LANILLE_000_057","Very little, I am afraid─the tales I can remember hearing from my dear departed friend, and no more. Sadly, the precise details of Qitari rites and rituals are beyond my recollection."
+95,"TEXT_BANQIQ003_03796_LANILLE_000_058","And yet, I do recall Shiparl once mentioning that Qitari prayers to Ox'Dalan were remarkably similar in form to our own petitions to Yx'Maja."
+96,"TEXT_BANQIQ003_03796_LANILLE_000_059","It is not so surprising, perhaps, given how closely our two peoples were connected in those days. If we were to teach you one of our own traditions, mayhap you could adapt it for your own purposes?"
+97,"TEXT_BANQIQ003_03796_CHAQURLQHOTL_000_060","You would do this for us!?"
+98,"TEXT_BANQIQ003_03796_LANILLE_000_061","Gladly, old friend. But first, we will need to prepare a simple altar for performing the rite, and find ourselves a suitable offering."
+99,"TEXT_BANQIQ003_03796_LANILLE_000_062","The liver and blood of an ancient beast, together with pristine water from a sacred spring near the K'mul Astropolis. Yes, I do believe this will suffice."
+100,"TEXT_BANQIQ003_03796_LANILLE_100_062","The liver and blood of an ancient beast, together with the root of a spiritweed, a rare shrub that grows near the K'mul Astropolis. Yes, I do believe this will suffice."
+101,"TEXT_BANQIQ003_03796_LANILLE_200_062","The liver and blood of an ancient beast, together with a single Dalan's claw─a rare crustacean that lurks in the chill waters of the Lozatl."
+102,"TEXT_BANQIQ003_03796_CIUNA_000_063","I know the ways of the beasts of the wood─leave the hunting to me. As for the final offering, I suspect <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> would have little difficulty acquiring it, yes?"
+103,"TEXT_BANQIQ003_03796_LANILLE_000_064","Excellent. In the meanwhile, I will teach the ritual to young Chaqurl here. Were the passage into the tunnels larger, we would accompany you ourselves, but alas..."
+104,"TEXT_BANQIQ003_03796_CHAQURLQHOTL_000_065","Do not worry, my good Master Lanille! I will learn the words and gestures well, and Dalan will hear our plea! Just you wait and see!"
+105,"TEXT_BANQIQ003_03796_PHYNA_000_066","You're a spirited one, child. But be forewarned: Master Lanille is a strict taskmistress."
+106,"TEXT_BANQIQ003_03796_CHAQURLQHOTL_000_067","Egads! F-Forgive me, my friends. I will do my best. Anyhow, let us all reconvene at Hopl's Stopple when we are finished with our allotted tasks."
+107,"TEXT_BANQIQ003_03796_CHAQURLQHOTL_100_070","Master Lanille won't be too hard on me, will she?"
+108,"TEXT_BANQIQ003_03796_LANILLE_100_071","I thank you, friend. It is not every day that we can reunite with friends from an age long past."
+109,"TEXT_BANQIQ003_03796_BOUSHITSUCHINOKO_100_072","Scree...eee?"
+110,"TEXT_BANQIQ003_03796_SYSTEM_100_073","The great serpent lets out a high-pitched squeal. It appears to be quite pleased to see the Qitari and the Viis working together toward a common good."
+111,"TEXT_BANQIQ003_03796_QITARLNATL_000_080","I was wondering when you might return, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! Have you found the offering that we require?"
+112,"TEXT_BANQIQ003_03796_QITARLNATL_000_082","The Viis believe that one of their rituals will suffice to appease Dalan? I am skeptical, but I suppose we have little choice but to try. Should you find a suitable offering, pray bring it to us."
+113,"TEXT_BANQIQ003_03796_QITARLNATL_000_081","The Viis believe this will suffice as an offering to Dalan? ...Very well, so be it. As soon as Chaqurl and the Viis arrive, we shall begin the second phase of the excavation."
+114,"TEXT_BANQIQ003_03796_CIUNA_000_085","Why, just look at all the Qitari scurrying about! I had heard they were an industrious people, but to see it with my own eyes is impressive indeed!"
+115,"TEXT_BANQIQ003_03796_PHYNA_000_086","Hail, and well met. I am Phyna of Fanow, and this is my sister Ciuna. We have come to assist in the ritual of which your son has doubtless told you."
+116,"TEXT_BANQIQ003_03796_QITARLNATL_000_087","Greetings, greetings. Please accept my apologies for making a fuss so close to your village, and without properly paying my respects. I fear I've been quite preoccupied with my duties here..."
+117,"TEXT_BANQIQ003_03796_PHYNA_000_088","There is no need for that, friend. It is we who should apologize for our sisters who gave you such a fright upon your return home..."
+118,"TEXT_BANQIQ003_03796_CIUNA_000_089","As you may well know, our peoples were strong friends and allies in the days of Ronka. It is our honor to reforge those bonds in the present day. Should you require anything of us, you need but say the word."
+119,"TEXT_BANQIQ003_03796_PHYNA_000_090","Anyhow, thanks to <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> here, it would seem we have all the offerings needed to proceed with the ritual. Do you remember all that Master Lanille taught you, Chaqurl?"
+120,"TEXT_BANQIQ003_03796_CHAQURLQHOTL_000_091","But of course! I said the words over to myself a hundred hundred times on the way here! I will do your Master Lanille and my people proud!"
+121,"TEXT_BANQIQ003_03796_QITARLNATL_000_092","I should hope so, my son. Very well! Let the dig begin!"
+122,"TEXT_BANQIQ003_03796_SYSTEM_000_071","Some time later..."
+123,"TEXT_BANQIQ003_03796_SYSTEM_000_072","Qitarl Natl and Chaqurl Qhotl have safely returned from their investigation of the tunnels."
+124,"TEXT_BANQIQ003_03796_HELMETTSUCHINOKO_000_102","Scree?"
+125,"TEXT_BANQIQ003_03796_PHYNA_000_103","Another avatar of the great serpent? What is the meaning of this?"
+126,"TEXT_BANQIQ003_03796_CIUNA_000_104","It would seem that things beyond our understanding are afoot in the depths below..."
+127,"TEXT_BANQIQ003_03796_CHAQURLQHOTL_000_115","I...I cannot say for sure. We found a second stela, but I fear─much as the last one─it proved too massive to carry to the surface."
+128,"TEXT_BANQIQ003_03796_QITARLNATL_000_116","Just as we were pondering our next course of action, this armor-clad fellow arrived, and let out a mighty─"
+129,"TEXT_BANQIQ003_03796_HELMETTSUCHINOKO_000_117","Screeeeeeeee!"
+130,"TEXT_BANQIQ003_03796_QITARLNATL_000_118","...Er, precisely. While I cannot confess to fully understand the import of what it is saying, I can only surmise that the serpent once again wishes for us to call upon the wisdom of the ally of Ronka─<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, that is─and restore the stela to its erstwhile form."
+131,"TEXT_BANQIQ003_03796_QITARLNATL_000_119","And yet, much as last time, the engravings are weathered to no small degree. I have my own thoughts about what they signify, but I would hear my son's theory first. What say you, Chaqurl?"
+132,"TEXT_BANQIQ003_03796_CHAQURLQHOTL_000_120","Well, let me see now... One marking was clearly of a Viis, nocking a bow. Then I could make out the semblance of a Qitari, its arms seemingly held in the air..."
+133,"TEXT_BANQIQ003_03796_CIUNA_000_121","The image of a Viis on a Qitari stone? How fascinating..."
+134,"TEXT_BANQIQ003_03796_CHAQURLQHOTL_000_122","Just as the first stela depicted our history with the Ronkan Empire, no doubt these markings tell of the first encounter between our two peoples..."
+135,"TEXT_BANQIQ003_03796_CHAQURLQHOTL_000_123","Having befriended the benevolent Ronkans, our people then met the Viis, skilled hunters and wise to the ways of the forest! So pleased were our ancestors, that they threw their hands into the air in glee!"
+136,"TEXT_BANQIQ003_03796_QITARLNATL_000_124","That is a most...<hex:021A020203>optimistic<hex:021A020103> interpretation, my boy."
+137,"TEXT_BANQIQ003_03796_QITARLNATL_000_125","And yet I feel it is more logical to read the stone a different way. Doubtless the Viis came upon our ancestors, small and scurrying about the forest, and took them for prey."
+138,"TEXT_BANQIQ003_03796_QITARLNATL_000_126","Facing arrows pointed at their hearts, our ancestors threw up their hands in sheer terror. So it was that the Viis─newcomers to the Greatwood─nearly came into conflict with the mighty Ronkan Empire..."
+139,"TEXT_BANQIQ003_03796_PHYNA_000_127","Our legends tell of how the goddess Yx'Maja guided our people to the forest, but say little of what awaited us upon our arrival there. As far as we can say, both theories are more than plausible. Still, I would hope to believe..."
+140,"TEXT_BANQIQ003_03796_PHYNA_000_128","...No. I will say no more. It would ill behoove me to stick my nose in matters of Qitari lore."
+141,"TEXT_BANQIQ003_03796_CIUNA_000_129","I agree. Qitari history should be written by the Qitari themselves. In any event, we are pleased that we were able to contribute to your cause in some small way."
+142,"TEXT_BANQIQ003_03796_CIUNA_000_130","We shall return to Fanow, but please do not hesitate to call upon us again. There is still much catching up to do between our peoples."
+143,"TEXT_BANQIQ003_03796_QITARLNATL_000_131","Once again, it seems we find ourselves with a choice to make..."
+144,"TEXT_BANQIQ003_03796_BOUSHITSUCHINOKO_000_132","Scree! Scree!"
+145,"TEXT_BANQIQ003_03796_CHAQURLQHOTL_000_133","Yes, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! Do impart unto us your wisdom once more! How are you inclined to interpret our history?"
+146,"TEXT_BANQIQ003_03796_SYSTEM_000_135","Again, father and son have arrived at different theories regarding the history of the Qitari as recorded on the stela. At the bidding of the great serpent, it falls to you to serve as mediator."
+147,"TEXT_BANQIQ003_03796_SYSTEM_000_136","You have achieved <hex:024804F201F403><hex:024904F201F503>Respected<hex:0249020103><hex:0248020103> reputation with the Stewards."
+148,"TEXT_BANQIQ003_03796_SYSTEM_000_137","With the wisdom and blessing of the Viis, an altar to Ox'Dalan has been constructed at Hopl's Stopple. Doubtless this will serve to protect and impart good fortune to the Qitari as they continue to explore the tunnels."
+149,"TEXT_BANQIQ003_03796_SYSTEM_000_138","New Qitari society daily quests are now available from Qhoterl Pasol at Hopl's Stopple."
+150,"TEXT_BANQIQ003_03796_SYSTEM_000_139","Furthermore, you will be able to undertake three additional quests from Qhoterl Pasol as a reputation bonus. This bonus is available until the daily reset time for allied society quests."
+151,"TEXT_BANQIQ003_03796_SYSTEM_000_140","These additional quests will become available after accepting all current daily quests from Qhoterl Pasol. Please be advised that you cannot undertake these quests if you have no remaining allowances."
+152,"TEXT_BANQIQ003_03796_SYSTEM_000_141","Furthermore, you now have access to a wider selection of wares from Yuqurl Manl."
+153,"TEXT_BANQIQ003_03796_QITARLNATL_000_136",""
+154,"TEXT_BANQIQ003_03796_QITARLNATL_100_136",""
+155,"TEXT_BANQIQ003_03796_QITARLNATL_000_137",""
+156,"TEXT_BANQIQ003_03796_QITARLNATL_000_138",""
+157,"TEXT_BANQIQ003_03796_QITARLNATL_000_139",""
+158,"TEXT_BANQIQ003_03796_QITARLNATL_000_140",""
+159,"TEXT_BANQIQ003_03796_QITARLNATL_000_010",""
+160,"TEXT_BANQIQ003_03796_BOUSHITSUCHINOKO_000_003",""
+161,"TEXT_BANQIQ003_03796_QITARLNATL_000_035",""
+162,"TEXT_BANQIQ003_03796_QITARLNATL_000_100",""
+163,"TEXT_BANQIQ003_03796_BOUSHITSUCHINOKO_000_101",""

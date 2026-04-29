@@ -2,158 +2,158 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_AKTKMM103_04753_SEQ_00,背水咖啡廳的古·拉哈·提亞有些在意冒險者的回覆。
-1,TEXT_AKTKMM103_04753_SEQ_01,在古·拉哈·提亞的提案下，冒險者決定前去調查圖拉爾大陸。在舊薩雷安的所思大書院中閱讀4本相關書籍。
-2,TEXT_AKTKMM103_04753_SEQ_02,閱讀了書籍，加深了對圖拉爾大陸的認知。和所思大書院的古·拉哈·提亞談談。
-3,TEXT_AKTKMM103_04753_SEQ_03,阿爾菲諾與阿莉塞似乎也對圖拉爾大陸感興趣。再次和舊薩雷安巴爾德西昂分館附近的古·拉哈·提亞談談。
-4,TEXT_AKTKMM103_04753_SEQ_04,在古·拉哈·提亞話語的推動下，冒險者做出了決定。和巴爾德西昂分館的歐吉卡·岑吉卡談談。
-5,TEXT_AKTKMM103_04753_SEQ_05,歐吉卡·岑吉卡會找烏克·拉瑪特他們過來。在正廳的<hex:02280CFF05>EObj<hex:F61EB8EC0103>等待他們。
-6,TEXT_AKTKMM103_04753_SEQ_06,冒險者向烏克·拉瑪特表示了參加繼位儀式的決意。最終以埃倫維爾為首，可露兒、阿爾菲諾以及阿莉塞也加入到了此行的隊伍中。和巴爾德西昂分館的歐吉卡·岑吉卡談談。
-7,TEXT_AKTKMM103_04753_SEQ_07,極力眺望，遙遠大海的另一邊是冒險者還未曾踏足過的圖拉爾大陸。在那裡究竟會遇到什麼，又有什麼在等待著冒險者的到來呢。感受著心中湧現的期待與興奮，冒險者等候出航的那一刻。<hex:02100103><hex:02100103>※滿足下列條件後，可以從巴爾德西昂分館的歐吉卡·岑吉卡那裡領取新的主線任務。<hex:02100103>完成「嶄新的冒險主線任務」中「邁向明日的一步」。
-8,TEXT_AKTKMM103_04753_SEQ_08,
-9,TEXT_AKTKMM103_04753_SEQ_09,
-10,TEXT_AKTKMM103_04753_SEQ_10,
-11,TEXT_AKTKMM103_04753_SEQ_11,
-12,TEXT_AKTKMM103_04753_SEQ_12,
-13,TEXT_AKTKMM103_04753_SEQ_13,
-14,TEXT_AKTKMM103_04753_SEQ_14,
-15,TEXT_AKTKMM103_04753_SEQ_15,
-16,TEXT_AKTKMM103_04753_SEQ_16,
-17,TEXT_AKTKMM103_04753_SEQ_17,
-18,TEXT_AKTKMM103_04753_SEQ_18,
-19,TEXT_AKTKMM103_04753_SEQ_19,
-20,TEXT_AKTKMM103_04753_SEQ_20,
-21,TEXT_AKTKMM103_04753_SEQ_21,
-22,TEXT_AKTKMM103_04753_SEQ_22,
-23,TEXT_AKTKMM103_04753_SEQ_23,
-24,TEXT_AKTKMM103_04753_TODO_00,在所思大書院閱讀相關書籍
-25,TEXT_AKTKMM103_04753_TODO_01,和古·拉哈·提亞對話
-26,TEXT_AKTKMM103_04753_TODO_02,再次和古·拉哈·提亞對話
-27,TEXT_AKTKMM103_04753_TODO_03,和歐吉卡·岑吉卡對話
-28,TEXT_AKTKMM103_04753_TODO_04,在正廳的<hex:02280CFF05>EObj<hex:F61EB8EC0103>等待
-29,TEXT_AKTKMM103_04753_TODO_05,和歐吉卡·岑吉卡對話
-30,TEXT_AKTKMM103_04753_TODO_06,
-31,TEXT_AKTKMM103_04753_TODO_07,
-32,TEXT_AKTKMM103_04753_TODO_08,
-33,TEXT_AKTKMM103_04753_TODO_09,
-34,TEXT_AKTKMM103_04753_TODO_10,
-35,TEXT_AKTKMM103_04753_TODO_11,
-36,TEXT_AKTKMM103_04753_TODO_12,
-37,TEXT_AKTKMM103_04753_TODO_13,
-38,TEXT_AKTKMM103_04753_TODO_14,
-39,TEXT_AKTKMM103_04753_TODO_15,
-40,TEXT_AKTKMM103_04753_TODO_16,
-41,TEXT_AKTKMM103_04753_TODO_17,
-42,TEXT_AKTKMM103_04753_TODO_18,
-43,TEXT_AKTKMM103_04753_TODO_19,
-44,TEXT_AKTKMM103_04753_TODO_20,
-45,TEXT_AKTKMM103_04753_TODO_21,
-46,TEXT_AKTKMM103_04753_TODO_22,
-47,TEXT_AKTKMM103_04753_TODO_23,
-48,TEXT_AKTKMM103_04753_GRAHATIA_000_001,唔……跟烏克·拉瑪特聊過之後，<hex:02100103>我想大致上了解了她所處的立場以及想法。
-49,TEXT_AKTKMM103_04753_GRAHATIA_000_002,既然人家好心給了時間讓我們來考慮，<hex:02100103>那不如去所思大書院找幾本書籍讀一讀，<hex:02100103>加深一下關於圖拉爾大陸的理解如何？
-50,TEXT_AKTKMM103_04753_GRAHATIA_000_003,
-51,TEXT_AKTKMM103_04753_Q1_000_000,要說什麼？
-52,TEXT_AKTKMM103_04753_A1_000_001,的確，現在最需要的就是情報
-53,TEXT_AKTKMM103_04753_A1_000_002,看著看著估計就會睡著了……
-54,TEXT_AKTKMM103_04753_GRAHATIA_000_007,對吧！<hex:02100103>不管是這次要前往的目的地還是要參加的繼位儀式，<hex:02100103>對於我們來說都很陌生，所以事先做好調查是不會吃虧的。
-55,TEXT_AKTKMM103_04753_GRAHATIA_000_008,沒關係，那可是記載著關於神秘的圖拉爾大陸的書籍哦？<hex:02100103>你一定會興奮得睡意全無的！
-56,TEXT_AKTKMM103_04753_GRAHATIA_000_009,既然這麼定了，那就趕快去所思大書院查閱書籍吧！
-57,TEXT_AKTKMM103_04753_GRAHATIA_000_010,歷史、地理、文化、動植物……<hex:02100103>就算是供普通人閱覽的書架上，<hex:02100103>應該也能找到從未接觸過的知識。
-58,TEXT_AKTKMM103_04753_BOOK04753A_100_020,(-«美味的蔬菜食譜»-)你是否聽說過圖拉爾大陸這個地方？<hex:02100103>也就是在三大洲這邊被人們俗稱為新大陸的遙遠西方之地。
-59,TEXT_AKTKMM103_04753_BOOK04753A_000_020,(-«美味的蔬菜食譜»-)現如今像是理所當然一樣<hex:02100103>位列在餐桌上的新薯、食人魔南瓜、寶石番茄等蔬菜<hex:02100103>也是從那片大陸引進過來的。
-60,TEXT_AKTKMM103_04753_BOOK04753A_000_021,(-«美味的蔬菜食譜»-)第六星曆1498年……<hex:02100103>利姆薩·羅敏薩的冒險家柯坦拉姆在經歷了漫長的航海後，<hex:02100103>成功突破蒼茫洋，最終抵達了一塊從未見過的新大陸。
-61,TEXT_AKTKMM103_04753_BOOK04753A_000_022,(-«美味的蔬菜食譜»-)登陸後他歷經數月對內陸地區進行了探險調查，<hex:02100103>並將當地植物的種子以及果實帶回了艾歐澤亞。
-62,TEXT_AKTKMM103_04753_BOOK04753A_000_023,(-«美味的蔬菜食譜»-)其中最值得注目的是新薯這種植物，<hex:02100103>由於相當容易栽培，且營養價值甚高，<hex:02100103>於是在很短的時間內便在各地傳播開來。
-63,TEXT_AKTKMM103_04753_BOOK04753A_000_024,(-«美味的蔬菜食譜»-)聽聞當柯坦拉姆訪問輝鱗族的都城時，<hex:02100103>還覲見了被稱為「聯王」的雙頭國王，並且締結了親密的關係。<hex:02100103>事實上他在那次以後也多次造訪過圖拉爾大陸。
-64,TEXT_AKTKMM103_04753_BOOK04753A_000_025,(-«美味的蔬菜食譜»-)除了當地的蔬菜以外，他還帶回了眾多的知識。<hex:02100103>從塞滿煮豆子的卷餅食譜再到各類數不盡的傳說……<hex:02100103>就連街角巷弄熱議的那個黃金鄉之名也是他的功績。
-65,TEXT_AKTKMM103_04753_BOOK04753A_000_026,(-«美味的蔬菜食譜»-)若不是對柯坦拉姆的一生有所了解的人，<hex:02100103>或許圖拉爾大陸只不過是一個十分遙遠的地名罷了……<hex:02100103>但那裡到底有著怎樣的飲食文化，實在令筆者興趣盎然。
-66,TEXT_AKTKMM103_04753_BOOK04753A_000_027,
-67,TEXT_AKTKMM103_04753_BOOK04753B_000_028,(-«圖拉爾大陸博物志»-)隨著棲息地域的改變，生物也會相應地發生變化。<hex:02100103>圖拉爾大陸自然也不例外，<hex:02100103>當地的幾種生物就被運送到了艾歐澤亞。
-68,TEXT_AKTKMM103_04753_BOOK04753B_000_029,(-«圖拉爾大陸博物志»-)即便如此圖拉爾大陸至今仍有很多我們聞所未聞見所未見的生物。<hex:02100103>本書將根據水手以及冒險家提供的證言，<hex:02100103>來為各位讀者介紹這類新種生物。
-69,TEXT_AKTKMM103_04753_BOOK04753B_000_030,(-«圖拉爾大陸博物志»-)「羊駝」<hex:02100103>棲息在險峻連峰的百獸綱四腳獸。<hex:02100103>在山岳地帶，大多被人們作為家畜飼養。
-70,TEXT_AKTKMM103_04753_BOOK04753B_000_031,(-«圖拉爾大陸博物志»-)它純白色的毛可以用於製作織物，<hex:02100103>除此之外由於其身強體健，也被人們用來騎乘或搬運物品。
-71,TEXT_AKTKMM103_04753_BOOK04753B_000_032,(-«圖拉爾大陸博物志»-)「犀蜴」<hex:02100103>棲息在密林地帶的甲鱗綱四腳獸。<hex:02100103>雖然生性兇猛，但卻被輝鱗族馴化成為了家畜。
-72,TEXT_AKTKMM103_04753_BOOK04753B_000_033,(-«圖拉爾大陸博物志»-)它不僅能用來騎乘或搬運貨物，<hex:02100103>活用其體型形成的衝擊力以及頭上的大角，<hex:02100103>在攻城戰中也能作為兵器使用。
-73,TEXT_AKTKMM103_04753_BOOK04753B_000_034,(-«圖拉爾大陸博物志»-)「豔翼蛇鳥」<hex:02100103>在圖拉爾大陸傳說中被譽為最強的幻獸。<hex:02100103>被認為是大自然的象徵，不過是否實際存在仍然存疑。
-74,TEXT_AKTKMM103_04753_BOOK04753C_000_035,(-«行星海德林地政學概論»-)伊爾薩巴德大陸、奧薩德次大陸以及阿爾迪納德次大陸。<hex:02100103>這三大洲向東西延伸，全部位於行星海德林的北半球。
-75,TEXT_AKTKMM103_04753_BOOK04753C_000_036,(-«行星海德林地政學概論»-)另一方面，位於西方的圖拉爾大陸則是向南北延伸，<hex:02100103>橫跨了北半球與南半球。
-76,TEXT_AKTKMM103_04753_BOOK04753C_000_037,(-«行星海德林地政學概論»-)總體上，不論是人類還是動物、植物，<hex:02100103>沿東西走向，在溫差不大的地區中遷移時，大多很容易適應，<hex:02100103>但這種變化發生在南北兩地時，溫度巨變卻成了難題。
-77,TEXT_AKTKMM103_04753_BOOK04753C_000_038,(-«行星海德林地政學概論»-)舉例來說在三大洲這邊，<hex:02100103>於阿爾迪納德次大陸興起的亞拉戈帝國向東推進後達成了統一。<hex:02100103>近年加雷馬帝國的動向也與之類似。
-78,TEXT_AKTKMM103_04753_BOOK04753C_000_039,(-«行星海德林地政學概論»-)另一方面，在圖拉爾大陸上雖然各地的眾多部族<hex:02100103>不斷地與近鄰勢力重覆著大大小小的紛爭，<hex:02100103>但長期以來並沒有呈現出南北統一的趨勢。
-79,TEXT_AKTKMM103_04753_BOOK04753C_000_040,(-«行星海德林地政學概論»-)極地之民的人雖然抗寒，但卻無法穿越灼熱的荒野。<hex:02100103>溫帶之民的人雖然人口繁盛，但卻輸在了密林的戰鬥中。<hex:02100103>南北的氣候差異阻擋了他們擴張自己的勢力。
-80,TEXT_AKTKMM103_04753_BOOK04753C_000_041,(-«行星海德林地政學概論»-)鑒於以上因素，輝鱗族的聯王所達成的圖拉爾大陸統一，<hex:02100103>可謂是一項偉大的壯舉。
-81,TEXT_AKTKMM103_04753_BOOK04753C_050_041,
-82,TEXT_AKTKMM103_04753_SYSTEM_100_041,
-83,TEXT_AKTKMM103_04753_BOOK04753D_000_042,(-«青魔法概論»-)青魔法的起源來自遙遠的圖拉爾大陸……<hex:02100103>居住在那裡的少數部族瓦拉其族發明了該魔法。
-84,TEXT_AKTKMM103_04753_BOOK04753D_000_043,(-«青魔法概論»-)崇拜自然萬物的他們為了讓自己進一步接近信仰的對象，<hex:02100103>於是創造出了將野獸以及魔物使用的魔法化為己用的術式。<hex:02100103>筆者將其命名為「學習」。
-85,TEXT_AKTKMM103_04753_BOOK04753D_000_044,(-«青魔法概論»-)為了習得此種秘技，筆者曾借住在他們的村落，<hex:02100103>以教授共通語為條件，換取他們薩滿的指導。
-86,TEXT_AKTKMM103_04753_BOOK04753D_000_045,(-«青魔法概論»-)在此期間，也有幸訪問了他們的聖地青藍谷。<hex:02100103>此地正如其名，受到從地下滲出的青磷水的影響，<hex:02100103>整片山谷呈現出群青色，讓人不禁感嘆此景之美。
-87,TEXT_AKTKMM103_04753_BOOK04753D_000_046,(-«青魔法概論»-)最終筆者習得了此術，<hex:02100103>並成功地將魔物的魔法化為己用。<hex:02100103>由此，筆者將這種嶄新的魔法體系命名為青魔法。
-88,TEXT_AKTKMM103_04753_BOOK04753D_000_047,(-«青魔法概論»-)想必各位讀者也察覺到了，<hex:02100103>對於瓦拉其族來說青色就是他們心目中最為神聖的顏色！<hex:02100103>這也正是青魔法這一名字的由來。
-89,TEXT_AKTKMM103_04753_BOOK04753D_000_048,
-90,TEXT_AKTKMM103_04753_BOOK04753D_000_049,
-91,TEXT_AKTKMM103_04753_BOOK04753D_000_050,
-92,TEXT_AKTKMM103_04753_SYSTEM_000_051,閱讀了所思大書院收藏的關於圖拉爾大陸的書籍。<hex:02100103>和古·拉哈·提亞匯合吧。
-93,TEXT_AKTKMM103_04753_SYSTEM_000_052,此外如果想再次閱讀這類書籍，<hex:02100103>可以和大書院的檢索資料用的魔法人偶說一聲。
-94,TEXT_AKTKMM103_04753_GRAHATIA_000_100,看樣子你已經翻閱了不少的書籍，<hex:02100103>是不是收集到了很多的情報？
-95,TEXT_AKTKMM103_04753_GRAHATIA_000_101,就算沒有那種一整本都是介紹圖拉爾大陸的書籍，<hex:02100103>但只要耐心尋找的話，應該也能找到幾段相關的記述。
-96,TEXT_AKTKMM103_04753_GRAHATIA_000_102,……啊，在這裡長時間閒聊也不合適，<hex:02100103>肯定會惹魔法人偶生氣的，<hex:02100103>我們去亭子那邊整理一下情報吧。
-97,TEXT_AKTKMM103_04753_GRAHATIA_000_103,好了，我想先聽聽你看完那些書以後最直白的感想。
-98,TEXT_AKTKMM103_04753_GRAHATIA_000_104,那本«美味的蔬菜食譜»你也讀過了吧？<hex:02100103>從烹飪書中居然能夠找到圖拉爾大陸的情報，<hex:02100103>是不是令人驚喜又驚訝呢。
-99,TEXT_AKTKMM103_04753_GRAHATIA_000_105,那本書裡提到了一些那片大陸的逸事，<hex:02100103>最吸引你的是哪個部分？
-100,TEXT_AKTKMM103_04753_Q2_000_000,如何作答？
-101,TEXT_AKTKMM103_04753_A2_000_001,關於柯坦拉姆的部分
-102,TEXT_AKTKMM103_04753_A2_000_002,關於新薯的部分
-103,TEXT_AKTKMM103_04753_A2_000_003,關於黃金鄉的部分
-104,TEXT_AKTKMM103_04753_GRAHATIA_000_107,利姆薩·羅敏薩出身的冒險家柯坦拉姆嗎！<hex:02100103>他可是開拓了西方未知航路的偉大先驅者。
-105,TEXT_AKTKMM103_04753_GRAHATIA_000_108,而且他的冒險可不止於海上，<hex:02100103>甚至涉及到內陸的各個地區。<hex:02100103>說不定圖拉爾大陸各地也留有他的足跡呢。
-106,TEXT_AKTKMM103_04753_GRAHATIA_000_109,看書上說他和聯王締結了親密的關係，<hex:02100103>如果能見到柯坦拉姆本人的話，或許就可以直接問問了。<hex:02100103>但距他這段冒險已經過了大約80年，現在他在不在世都得另說……
-107,TEXT_AKTKMM103_04753_GRAHATIA_000_110,我就知道你會對這個感興趣！<hex:02100103>雖然剛剛才大快朵頤過，<hex:02100103>但各地的特有食材不知為何就是那麼能夠引起人的注意……
-108,TEXT_AKTKMM103_04753_GRAHATIA_000_111,因新薯具有耐儲存的特性，<hex:02100103>所以在漫長的航海中深受人們的喜愛。<hex:02100103>也正因如此，它才能渡過汪洋大海來到艾歐澤亞。
-109,TEXT_AKTKMM103_04753_GRAHATIA_000_112,書中提到高地那邊會用獨特的保存方法，<hex:02100103>將其冷凍乾燥後作為煮湯的材料。<hex:02100103>圖拉爾大陸那邊一定有很多類似這樣的當地菜餚吧。
-110,TEXT_AKTKMM103_04753_GRAHATIA_000_113,果然這個話題是最能吸引你興趣的。<hex:02100103>一切都是由炫目的黃金打造的夢幻都市！
-111,TEXT_AKTKMM103_04753_GRAHATIA_000_114,誰也不知道究竟在哪裡，也從未有人造訪過。<hex:02100103>但誰都又願意相信它是真實存在的，<hex:02100103>真是一個充滿了謎團、令人興奮不已的地方。
-112,TEXT_AKTKMM103_04753_GRAHATIA_000_115,傳聞中不少人為了找到黃金鄉而踏上了旅程，<hex:02100103>就此成為了不歸人。<hex:02100103>可以說是很適合繼位儀式的難題呢。
-113,TEXT_AKTKMM103_04753_GRAHATIA_000_116,除此之外……<hex:02100103>圖拉爾大陸特有的動物也比較有意思呢。<hex:02100103>你希望遇到哪種動物？
-114,TEXT_AKTKMM103_04753_Q3_000_000,如何作答？
-115,TEXT_AKTKMM103_04753_A3_000_001,羊駝
-116,TEXT_AKTKMM103_04753_A3_000_002,犀蜴
-117,TEXT_AKTKMM103_04753_A3_000_003,豔翼蛇鳥
-118,TEXT_AKTKMM103_04753_GRAHATIA_000_118,啊，是那種在那邊常見的動物吧。<hex:02100103>不僅可以幫忙駝運東西，白色的體毛還可以加工成衣物……
-119,TEXT_AKTKMM103_04753_GRAHATIA_000_119,對於生活在高山的部族來說，<hex:02100103>它們既是重要的友人，<hex:02100103>某種意義上也是十分神聖的動物。
-120,TEXT_AKTKMM103_04753_GRAHATIA_000_120,啊，是輝鱗族飼養的那種動物吧？<hex:02100103>書上也提到過它們還被用來當做攻城兵器呢。
-121,TEXT_AKTKMM103_04753_GRAHATIA_000_121,我也聽說過跨海來到利姆薩·羅敏薩的輝鱗族傭兵<hex:02100103>就曾經將這種野獸帶了過來。<hex:02100103>或許在威爾布蘭德島那邊就能有機會見到呢。
-122,TEXT_AKTKMM103_04753_GRAHATIA_000_122,我覺得你不只是想單純地見它一面，<hex:02100103>而是想和它比試比試吧？
-123,TEXT_AKTKMM103_04753_GRAHATIA_000_123,關於豔翼蛇鳥書中並沒有詳細的記述。<hex:02100103>傳說它是飛翔於天空的怪鳥、擁有強韌鱗片的翼龍什麼的……<hex:02100103>真想親眼見見啊。
-124,TEXT_AKTKMM103_04753_ALISAIE_000_124,咦？<hex:02100103>怪不得聽著這聲音耳熟……<hex:02100103>原來是<hex:022903EB0203>和拉哈啊。
-125,TEXT_AKTKMM103_04753_ALISAIE_000_125,真是巧了，沒想到會在這裡遇見你們。
-126,TEXT_AKTKMM103_04753_GRAHATIA_000_126,阿莉塞、阿爾菲諾。<hex:02100103>你們也是來大書院查閱資料嗎？
-127,TEXT_AKTKMM103_04753_ALPHINAUD_000_127,嗯，我們打算利用這次的空當<hex:02100103>好好考慮一下加雷馬人民的未來。
-128,TEXT_AKTKMM103_04753_ALPHINAUD_100_127,他們和拉札罕締結通商條約後，算是起了一個好的開頭，<hex:02100103>接下來應該會與更多的國家產生聯繫。<hex:02100103>其中也包含原來的行省。
-129,TEXT_AKTKMM103_04753_ALPHINAUD_000_128,於是我們就來大書院這裡翻翻歷史書，<hex:02100103>看有沒有能夠讓種族、主義、主張各不相同的國家<hex:02100103>和平相處的參考例。
-130,TEXT_AKTKMM103_04753_ALPHINAUD_000_129,你們呢？是來查什麼的？
-131,TEXT_AKTKMM103_04753_ALPHINAUD_000_130,圖萊尤拉聯合王國……<hex:02100103>管理著多種族定居的圖拉爾大陸的國家嗎。<hex:02100103>聽起來很有意思啊。
-132,TEXT_AKTKMM103_04753_ALPHINAUD_000_131,倒不如說這正是我們要找的東西。<hex:02100103>回頭我們也該去讀一讀有關那個國家的書籍。
-133,TEXT_AKTKMM103_04753_ALISAIE_000_132,對了，順便問一下。<hex:02100103>協助繼位儀式的人就只能是<hex:022903EB0203>一個人嗎？
-134,TEXT_AKTKMM103_04753_GRAHATIA_000_133,這倒也不一定，畢竟沒有明說。<hex:02100103>不過話裡話外感覺多幾個人也沒問題。
-135,TEXT_AKTKMM103_04753_ALISAIE_000_134,那就好，我想到了一個有效利用這段閒暇時間的辦法！<hex:02100103>回家以後我們也要商量一下了！
-136,TEXT_AKTKMM103_04753_ALPHINAUD_000_135,阿莉塞……！
-137,TEXT_AKTKMM103_04753_ALPHINAUD_000_136,看來有必要改變一下方針了。<hex:02100103>抱歉，先走一步。
-138,TEXT_AKTKMM103_04753_GRAHATIA_000_137,明明可以趁著這段閒暇時間好好駐足休息一下，<hex:02100103>可他們兩人卻根本閒不住啊。
-139,TEXT_AKTKMM103_04753_GRAHATIA_000_138,那我們也回巴爾德西昂分館吧。
-140,TEXT_AKTKMM103_04753_GRAHATIA_000_200,啊，我正好有點想買的東西，<hex:02100103>希望可以在這裡買到……
-141,TEXT_AKTKMM103_04753_OJIKATSUNJIKA_000_300,<hex:022903EB0203>，歡迎回來！<hex:02100103>烏克·拉瑪特他們就在房間裡呢。
-142,TEXT_AKTKMM103_04753_OJIKATSUNJIKA_000_301,如果有事找他們的話，<hex:02100103>用我叫他們過來嗎？
-143,TEXT_AKTKMM103_04753_SYSTEM_000_302,要叫烏克·拉瑪特他們過來嗎？
-144,TEXT_AKTKMM103_04753_OJIKATSUNJIKA_000_303,好的，請你在正廳稍等片刻。
-145,TEXT_AKTKMM103_04753_OJIKATSUNJIKA_000_305,我就去叫他們過來，請你在正廳稍等片刻。
-146,TEXT_AKTKMM103_04753_KRILE_000_400,
-147,TEXT_AKTKMM103_04753_GRAHATIA_000_405,
-148,TEXT_AKTKMM103_04753_ERENVILLE_000_410,
-149,TEXT_AKTKMM103_04753_WUKLAMAT_000_415,
-150,TEXT_AKTKMM103_04753_ALPHINAUD_000_420,
-151,TEXT_AKTKMM103_04753_ALISAIE_000_425,
-152,TEXT_AKTKMM103_04753_OJIKATSUNJIKA_000_500,埃倫維爾會負責去和拾穗人總會交涉<hex:02100103>並安排好前往圖拉爾大陸的船隻。
-153,TEXT_AKTKMM103_04753_OJIKATSUNJIKA_000_501,這次應該又是一趟漫長的旅程，<hex:02100103>作為餞別禮請你收下這個特大號的拾穗人背包！<hex:02100103>背上它去享受接下來的冒險吧！
-154,TEXT_AKTKMM103_04753_OJIKATSUNJIKA_000_502,要是接到什麼聯絡的話，我會通知你的。<hex:02100103>請你先去休整一下吧。
+0,"TEXT_AKTKMM103_04753_SEQ_00","G'raha Tia is mulling over what you have learned of Wuk Lamat and her plan."
+1,"TEXT_AKTKMM103_04753_SEQ_01","While Wuk Lamat awaits your answer to her invitation, G'raha Tia suggests taking some time to learn more about your potential destination. So it is that you make your way to Noumenon, there to find information on the continent of Tural."
+2,"TEXT_AKTKMM103_04753_SEQ_02","From treatises on cuisine to essays on geopolitics, you read a wide selection of books and gain an insight into various aspects of Tural. Duly enlightened, you go to rejoin G'raha Tia and share your discoveries."
+3,"TEXT_AKTKMM103_04753_SEQ_03","As you and G'raha Tia trade notes, you are joined by Alphinaud and Alisaie, who have come to Noumenon in search of hints on how Garlemald might engage with her neighbors. Upon hearing of Tuliyollal, a nation composed of myriad disparate tribes, Alphinaud believes it to be precisely the example they seek. Alisaie, however, is apparently not satisfied with merely reading, and immediately goes off to make new plans, leaving her brother chasing after her. With your research concluded, you and G'raha Tia turn your steps back to the Baldesion Annex."
+4,"TEXT_AKTKMM103_04753_SEQ_04","You are about to enter the annex when G'raha Tia asks if you mean to accept Wuk Lamat's request. While acknowledging that the journey will not be without hardships, he is nonetheless excited for the opportunities that await in Tural, and you take his advice to heart. Your friend then suddenly conceives of an idea, and excuses himself while you continue on inside."
+5,"TEXT_AKTKMM103_04753_SEQ_05","Ojika Tsunjika informs you that Wuk Lamat is currently with the others in her chambers. The administration officer offers to fetch them for you and bids you wait in the main hall."
+6,"TEXT_AKTKMM103_04753_SEQ_06","Wuk Lamat prompts you for your answer, and you duly give it: you will aid her in the ritual of succession. Yet you are far from the only one, for Alphinaud and Alisaie soon arrive and express their desire to help as well. Wuk Lamat happily welcomes the twins into the fold before also volunteering a none-too-eager Erenville to her cause, while G'raha Tia, noticing Krile's indecision, convinces her to seize the opportunity to visit Tural. Thus is your team assembled, and you fix your gaze upon your distant destination."
+7,"TEXT_AKTKMM103_04753_SEQ_07","Now that the journey is decided, all that remains is to prepare for the moment of departure. What manner of trials awaits on the shores of Tural, you know not, but your heart swells with anticipation at the promise of a grand new adventure.<hex:02100103><hex:02100103>※The next main scenario quest will be available from Ojika Tsunjika once you have met the following requirements:<hex:02100103>※FINAL FANTASY XIV: Dawntrail must be registered to your service account.<hex:02100103>※You must have completed the main scenario quest “The Coming Dawn.”"
+8,"TEXT_AKTKMM103_04753_SEQ_08",""
+9,"TEXT_AKTKMM103_04753_SEQ_09",""
+10,"TEXT_AKTKMM103_04753_SEQ_10",""
+11,"TEXT_AKTKMM103_04753_SEQ_11",""
+12,"TEXT_AKTKMM103_04753_SEQ_12",""
+13,"TEXT_AKTKMM103_04753_SEQ_13",""
+14,"TEXT_AKTKMM103_04753_SEQ_14",""
+15,"TEXT_AKTKMM103_04753_SEQ_15",""
+16,"TEXT_AKTKMM103_04753_SEQ_16",""
+17,"TEXT_AKTKMM103_04753_SEQ_17",""
+18,"TEXT_AKTKMM103_04753_SEQ_18",""
+19,"TEXT_AKTKMM103_04753_SEQ_19",""
+20,"TEXT_AKTKMM103_04753_SEQ_20",""
+21,"TEXT_AKTKMM103_04753_SEQ_21",""
+22,"TEXT_AKTKMM103_04753_SEQ_22",""
+23,"TEXT_AKTKMM103_04753_SEQ_23",""
+24,"TEXT_AKTKMM103_04753_TODO_00","Read books in Noumenon on relevant subjects."
+25,"TEXT_AKTKMM103_04753_TODO_01","Speak with G'raha Tia."
+26,"TEXT_AKTKMM103_04753_TODO_02","Speak with G'raha Tia again."
+27,"TEXT_AKTKMM103_04753_TODO_03","Speak with Ojika Tsunjika."
+28,"TEXT_AKTKMM103_04753_TODO_04","Wait at the designated location."
+29,"TEXT_AKTKMM103_04753_TODO_05","Speak with Ojika Tsunjika."
+30,"TEXT_AKTKMM103_04753_TODO_06",""
+31,"TEXT_AKTKMM103_04753_TODO_07",""
+32,"TEXT_AKTKMM103_04753_TODO_08",""
+33,"TEXT_AKTKMM103_04753_TODO_09",""
+34,"TEXT_AKTKMM103_04753_TODO_10",""
+35,"TEXT_AKTKMM103_04753_TODO_11",""
+36,"TEXT_AKTKMM103_04753_TODO_12",""
+37,"TEXT_AKTKMM103_04753_TODO_13",""
+38,"TEXT_AKTKMM103_04753_TODO_14",""
+39,"TEXT_AKTKMM103_04753_TODO_15",""
+40,"TEXT_AKTKMM103_04753_TODO_16",""
+41,"TEXT_AKTKMM103_04753_TODO_17",""
+42,"TEXT_AKTKMM103_04753_TODO_18",""
+43,"TEXT_AKTKMM103_04753_TODO_19",""
+44,"TEXT_AKTKMM103_04753_TODO_20",""
+45,"TEXT_AKTKMM103_04753_TODO_21",""
+46,"TEXT_AKTKMM103_04753_TODO_22",""
+47,"TEXT_AKTKMM103_04753_TODO_23",""
+48,"TEXT_AKTKMM103_04753_GRAHATIA_000_001","Well, I daresay we now have a fair grasp of Wuk Lamat's situation."
+49,"TEXT_AKTKMM103_04753_GRAHATIA_000_002","Still, you've been afforded time to consider her invitation. Why not use it to learn more about Tural? Noumenon is bound to have some information on the continent."
+50,"TEXT_AKTKMM103_04753_GRAHATIA_000_003",""
+51,"TEXT_AKTKMM103_04753_Q1_000_000","What will you say?"
+52,"TEXT_AKTKMM103_04753_A1_000_001","It certainly wouldn't hurt to be better informed."
+53,"TEXT_AKTKMM103_04753_A1_000_002","Just the thought of burying myself in books is making me feel sleepy..."
+54,"TEXT_AKTKMM103_04753_GRAHATIA_000_007","Quite right. Not only would it help you to make an informed decision, but if you do choose to go, you would be better prepared for what awaits."
+55,"TEXT_AKTKMM103_04753_GRAHATIA_000_008","We're talking about mysterious lands and unknown wonders here! I'm confident we'll find reports so thrilling as to drive any thoughts of napping from your mind."
+56,"TEXT_AKTKMM103_04753_GRAHATIA_000_009","Come, my friend. Let us be off to the archives."
+57,"TEXT_AKTKMM103_04753_GRAHATIA_000_010","History, geography, botany... The public archives alone should suffice to provide a solid grounding on Tural."
+58,"TEXT_AKTKMM103_04753_BOOK04753A_100_020","(-<hex:021A020203>Eorzean Cuisine: A History<hex:021A020103>-)<hex:021A020203>It is impossible to adequately discuss Eorzean cuisine without speaking of that land from which many of our modern-day staples hail: the far-western continent of Tural.<hex:021A020103>"
+59,"TEXT_AKTKMM103_04753_BOOK04753A_000_020","(-<hex:021A020203>Eorzean Cuisine: A History<hex:021A020103>-)<hex:021A020203>Ogre pumpkins, ruby tomatoes, even the ubiquitous popoto─these crops and more that regularly grace Eorzean dining tables trace their origins to the “New World,” as the place is known to most.<hex:021A020103>"
+60,"TEXT_AKTKMM103_04753_BOOK04753A_000_021","(-<hex:021A020203>Eorzean Cuisine: A History<hex:021A020103>-)<hex:021A020203>The tale of this culinary immigration begins in the year 1498 of the Sixth Astral Era, when a Lominsan sailor named Ketenramm successfully traversed the Indigo Deep to arrive at the theretofore unknown continent.<hex:021A020103>"
+61,"TEXT_AKTKMM103_04753_BOOK04753A_000_022","(-<hex:021A020203>Eorzean Cuisine: A History<hex:021A020103>-)<hex:021A020203>Ketenramm spent several moons exploring inland, in the course of which he encountered the denizens of the sprawling nation of Mamool Ja. He was even granted an audience with their supreme leader, whose confidence he won along with permission to roam freely.<hex:021A020103>"
+62,"TEXT_AKTKMM103_04753_BOOK04753A_000_023","(-<hex:021A020203>Eorzean Cuisine: A History<hex:021A020103>-)<hex:021A020203>Ketenramm would return to Tural several times, but during his first expedition he charted the land and gathered myriad root vegetables and seeds to bring back to Limsa Lominsa.<hex:021A020103>"
+63,"TEXT_AKTKMM103_04753_BOOK04753A_000_024","(-<hex:021A020203>Eorzean Cuisine: A History<hex:021A020103>-)<hex:021A020203>The most notable of these was the popoto, whose ease of cultivation and nutritional value saw it quickly spread to all corners of Eorzea.<hex:021A020103>"
+64,"TEXT_AKTKMM103_04753_BOOK04753A_000_025","(-<hex:021A020203>Eorzean Cuisine: A History<hex:021A020103>-)<hex:021A020203>Produce was far from the only bounty of Ketenramm's expeditions to Tural. Many tantalizing recipes such as the bean-filled burrito and gripping legends such as that of the golden city reached our shores by way of his ship.<hex:021A020103>"
+65,"TEXT_AKTKMM103_04753_BOOK04753A_000_026","(-<hex:021A020203>Eorzean Cuisine: A History<hex:021A020103>-)<hex:021A020203>To those outside of Ketenramm's circle, Tural largely remains shrouded in mystery, yet its influence on our cuisine cannot be overstated. Many scholars─myself included─would relish the chance to immerse themselves in the culinary culture of that faraway continent.<hex:021A020103>"
+66,"TEXT_AKTKMM103_04753_BOOK04753A_000_027",""
+67,"TEXT_AKTKMM103_04753_BOOK04753B_000_028","(-<hex:021A020203>The Flora and Fauna of Tural<hex:021A020103>-)<hex:021A020203>Every land has given rise to unique wildlife, and the continent of Tural is no exception. Yet while some of her creatures have become a familiar sight in Eorzea, many and more exist that are rarely seen this side of the Indigo Deep.<hex:021A020103>"
+68,"TEXT_AKTKMM103_04753_BOOK04753B_000_029","(-<hex:021A020203>The Flora and Fauna of Tural<hex:021A020103>-)<hex:021A020203>This tome introduces a select variety of species as described in the testimonies of sailors and adventurers.<hex:021A020103>"
+69,"TEXT_AKTKMM103_04753_BOOK04753B_000_030","(-<hex:021A020203>The Flora and Fauna of Tural<hex:021A020103>-)<hex:021A020203>Alpaca<hex:02100103>Accustomed to Tural's craggy mountain ranges, this four-legged beastkin has been domesticated for seemingly hundreds, if not thousands, of years.<hex:021A020103>"
+70,"TEXT_AKTKMM103_04753_BOOK04753B_000_031","(-<hex:021A020203>The Flora and Fauna of Tural<hex:021A020103>-)<hex:021A020203>Their soft, white fleece is highly prized by weavers, while their strong legs and sure-footedness make them capable beasts of burden.<hex:021A020103>"
+71,"TEXT_AKTKMM103_04753_BOOK04753B_000_032","(-<hex:021A020203>The Flora and Fauna of Tural<hex:021A020103>-)<hex:021A020203>Wivre<hex:02100103>This ferocious scalekin is native to the dense jungles of Tural. The Mamool Ja have succeeded in taming them and utilize their prodigious strength for manual labor.<hex:021A020103>"
+72,"TEXT_AKTKMM103_04753_BOOK04753B_000_033","(-<hex:021A020203>The Flora and Fauna of Tural<hex:021A020103>-)<hex:021A020203>Given their immense size and power, it should come as no surprise that the wivre is also employed as a siege beast. Enemy fortifications cannot long withstand this horned brute's rampage.<hex:021A020103>"
+73,"TEXT_AKTKMM103_04753_BOOK04753B_000_034","(-<hex:021A020203>The Flora and Fauna of Tural<hex:021A020103>-)<hex:021A020203>Valigarmanda<hex:02100103>Turali folklore holds that this birdlike creature is the mightiest of beasts and the very embodiment of nature's power. Whether it exists beyond myth, however, is uncertain.<hex:021A020103>"
+74,"TEXT_AKTKMM103_04753_BOOK04753C_000_035","(-<hex:021A020203>Lines in the Sand: The Geopolitics of Hydaelyn<hex:021A020103>-)<hex:021A020203>Let us begin by comparing the geographical characteristics of the Three Great Continents and Tural. The former stretches from east to west, and lies entirely within the northern hemisphere.<hex:021A020103>"
+75,"TEXT_AKTKMM103_04753_BOOK04753C_000_036","(-<hex:021A020203>Lines in the Sand: The Geopolitics of Hydaelyn<hex:021A020103>-)<hex:021A020203>In contrast, the latter extends to the far reaches of both northern and southern hemispheres, and a difference immediately presents itself in the form of climate variance.<hex:021A020103>"
+76,"TEXT_AKTKMM103_04753_BOOK04753C_000_037","(-<hex:021A020203>Lines in the Sand: The Geopolitics of Hydaelyn<hex:021A020103>-)<hex:021A020203>Shifts in climate tend to be gentler when moving east and west, but harsher when moving north and south. Owing to this fact, longitudinal migration is far more common in history, whether it be by men, animals, or plants.<hex:021A020103>"
+77,"TEXT_AKTKMM103_04753_BOOK04753C_000_038","(-<hex:021A020203>Lines in the Sand: The Geopolitics of Hydaelyn<hex:021A020103>-)<hex:021A020203>A case in point is the Allagans, who rose to power in Aldenard before advancing east into Ilsabard. Their movement would be mirrored thousands of years later by the Garleans.<hex:021A020103>"
+78,"TEXT_AKTKMM103_04753_BOOK04753C_000_039","(-<hex:021A020203>Lines in the Sand: The Geopolitics of Hydaelyn<hex:021A020103>-)<hex:021A020203>Meanwhile, although the disparate tribes of Tural waged war with one another for generations, stymied by the climate, none could make any great headway north or south.<hex:021A020103>"
+79,"TEXT_AKTKMM103_04753_BOOK04753C_000_040","(-<hex:021A020203>Lines in the Sand: The Geopolitics of Hydaelyn<hex:021A020103>-)<hex:021A020203>Tribes hailing from frozen lands withered beneath the desert sun, while those that thrived in open plains could not pierce dense jungle. Such was the way of it─until the leader of the Mamool Ja succeeded in bringing the continent under one banner.<hex:021A020103>"
+80,"TEXT_AKTKMM103_04753_BOOK04753C_000_041","(-<hex:021A020203>Lines in the Sand: The Geopolitics of Hydaelyn<hex:021A020103>-)<hex:021A020203>Given the land's divided history and the reason thereof, one cannot help but be in awe of this feat. Truly, it is a testament to the Autarch's greatness.<hex:021A020103>"
+81,"TEXT_AKTKMM103_04753_BOOK04753C_050_041",""
+82,"TEXT_AKTKMM103_04753_SYSTEM_100_041",""
+83,"TEXT_AKTKMM103_04753_BOOK04753D_000_042","(-<hex:021A020203>Principles of Blue Magic and Spell Acquisition<hex:021A020103>-)<hex:021A020203>The origins of blue magic can be traced back to the esoteric practices of the Whalaqee, a tribe in the distant continent of Tural.<hex:021A020103>"
+84,"TEXT_AKTKMM103_04753_BOOK04753D_000_043","(-<hex:021A020203>Principles of Blue Magic and Spell Acquisition<hex:021A020103>-)<hex:021A020203>The tribe holds nature in the highest, and in seeking to cultivate a spiritual connection with it, they have learned to harness the power of the wildlife around them.<hex:021A020103>"
+85,"TEXT_AKTKMM103_04753_BOOK04753D_000_044","(-<hex:021A020203>Principles of Blue Magic and Spell Acquisition<hex:021A020103>-)<hex:021A020203>In exchange for teaching them the common tongue, I was permitted to live among them and train in their ways. Those days were some of the most grueling I remember, but they were tremendously rewarding.<hex:021A020103>"
+86,"TEXT_AKTKMM103_04753_BOOK04753D_000_045","(-<hex:021A020203>Principles of Blue Magic and Spell Acquisition<hex:021A020103>-)<hex:021A020203>For instance, I had the privilege of visiting Lapis Canyon, the tribe's sacred grounds. It is so named for the ceruleum deposit that wells up to the surface, turning the entire canyon a brilliant blue.<hex:021A020103>"
+87,"TEXT_AKTKMM103_04753_BOOK04753D_000_046","(-<hex:021A020203>Principles of Blue Magic and Spell Acquisition<hex:021A020103>-)<hex:021A020203>Under a shaman's watchful eye, I finally managed to master the Whalaqee's art and make the animals' powers my own. As no name existed for it in the common tongue, I took the liberty of naming it blue magic.<hex:021A020103>"
+88,"TEXT_AKTKMM103_04753_BOOK04753D_000_047","(-<hex:021A020203>Principles of Blue Magic and Spell Acquisition<hex:021A020103>-)<hex:021A020203>The reason I chose this color, as you will have doubtless gleaned, is for the significance it holds to the Whalaqee. I cannot think of a name more fitting to honor the people from whom this noble magic was born.<hex:021A020103>"
+89,"TEXT_AKTKMM103_04753_BOOK04753D_000_048",""
+90,"TEXT_AKTKMM103_04753_BOOK04753D_000_049",""
+91,"TEXT_AKTKMM103_04753_BOOK04753D_000_050",""
+92,"TEXT_AKTKMM103_04753_SYSTEM_000_051","Having perused a wide selection of books relating to Tural, you are somewhat better informed about your potential destination. G'raha Tia will be eager to know what you have discovered."
+93,"TEXT_AKTKMM103_04753_SYSTEM_000_052","Should you wish to read these books again, speak with the reference page."
+94,"TEXT_AKTKMM103_04753_GRAHATIA_000_100","Scoured the library to your satisfaction, have you? Excellent."
+95,"TEXT_AKTKMM103_04753_GRAHATIA_000_101","While there are few books wholly dedicated to the subject of Tural, I daresay you've found tidbits of useful information scattered here and there."
+96,"TEXT_AKTKMM103_04753_GRAHATIA_000_102","But come, let's continue this outside. The mammets do not take kindly to chatter."
+97,"TEXT_AKTKMM103_04753_GRAHATIA_000_103","Now then, I'm quite keen to hear your honest impressions."
+98,"TEXT_AKTKMM103_04753_GRAHATIA_000_104","I couldn't help but notice that we read the very same book on cuisine. I was pleasantly surprised to find references to Tural within."
+99,"TEXT_AKTKMM103_04753_GRAHATIA_000_105","Among them, did anything in particular pique your interest?"
+100,"TEXT_AKTKMM103_04753_Q2_000_000","What will you say?"
+101,"TEXT_AKTKMM103_04753_A2_000_001","I was rather taken with the tale of Ketenramm."
+102,"TEXT_AKTKMM103_04753_A2_000_002","Popotoes─I have a newfound appreciation for them."
+103,"TEXT_AKTKMM103_04753_A2_000_003","The legendary city of gold!"
+104,"TEXT_AKTKMM103_04753_GRAHATIA_000_107","Ah yes, the renowned Lominsan explorer who traversed the Indigo Deep and discovered the unknown west!"
+105,"TEXT_AKTKMM103_04753_GRAHATIA_000_108","And his accomplishments didn't end there. He traveled Tural extensively, and even forged a friendship with the Dawnservant. "
+106,"TEXT_AKTKMM103_04753_GRAHATIA_000_109","If we were able to meet Ketenramm, what things we could learn. Alas, all of this happened nigh four score years ago, and he may no longer be alive to tell his tales..."
+107,"TEXT_AKTKMM103_04753_GRAHATIA_000_110","As have I. Despite having just enjoyed a hearty meal, I found myself craving popotoes."
+108,"TEXT_AKTKMM103_04753_GRAHATIA_000_111","As they keep well, they were a boon to sailors, and it was that same property that allowed them to survive the voyage to Eorzea."
+109,"TEXT_AKTKMM103_04753_GRAHATIA_000_112","The book also mentioned a method of preservation which sees popotoes repeatedly frozen and dried. The resultant product was apparently used in a stew by people in mountainous regions. I should like to sample that dish one day─that and all the unique cuisines of that vast continent."
+110,"TEXT_AKTKMM103_04753_GRAHATIA_000_113","Hah! I suspected any mention of the city of gold would catch your eye. 'Tis truly a mystery among mysteries."
+111,"TEXT_AKTKMM103_04753_GRAHATIA_000_114","Here is a city whose location is unknown, that no one has ever seen. And yet whispers of its existence continue to persist. "
+112,"TEXT_AKTKMM103_04753_GRAHATIA_000_115","Countless souls have set off in search of it, never to return. I can imagine it being a suitable challenge for the ritual of succession."
+113,"TEXT_AKTKMM103_04753_GRAHATIA_000_116","But moving on, did you perchance learn aught about the fauna of Tural? Given your adventuring background, I expect the topic would interest you."
+114,"TEXT_AKTKMM103_04753_Q3_000_000","What will you say?"
+115,"TEXT_AKTKMM103_04753_A3_000_001","I learned about alpacas."
+116,"TEXT_AKTKMM103_04753_A3_000_002","I learned about wivres."
+117,"TEXT_AKTKMM103_04753_A3_000_003","I learned about Valigarmanda."
+118,"TEXT_AKTKMM103_04753_GRAHATIA_000_118","Ah yes, the alpaca. In addition to serving as beasts of burden, they provide clothing for people by way of their lush fleece."
+119,"TEXT_AKTKMM103_04753_GRAHATIA_000_119","They are especially prized by mountain tribes, who hold certain rare specimens sacred."
+120,"TEXT_AKTKMM103_04753_GRAHATIA_000_120","Ah, yes. The great horned beasts kept by the Mamool Ja, who unleash them on fortified positions to devastating effect."
+121,"TEXT_AKTKMM103_04753_GRAHATIA_000_121","That reminds me. I recall hearing that a few specimens were brought to Vylbrand not long ago. Perhaps it's possible to see them on the island."
+122,"TEXT_AKTKMM103_04753_GRAHATIA_000_122","Now why do I get the impression you're imagining pitting your skills against the fell beast?"
+123,"TEXT_AKTKMM103_04753_GRAHATIA_000_123","Unfortunately, I found scant details on your would-be prey. One source simply described it as an “enormous, winged creature with scales hard as steel that rules the skies.” I should like to see it with my own eyes─presuming it even exists."
+124,"TEXT_AKTKMM103_04753_ALISAIE_000_124","I thought I heard familiar voices."
+125,"TEXT_AKTKMM103_04753_ALISAIE_000_125","Fancy running into the two of you here."
+126,"TEXT_AKTKMM103_04753_GRAHATIA_000_126","Well, well. Have some research of your own, do you?"
+127,"TEXT_AKTKMM103_04753_ALPHINAUD_000_127","Aye, we hope to arm ourselves with knowledge that may benefit the Garlean people."
+128,"TEXT_AKTKMM103_04753_ALPHINAUD_100_127","Having forged a new trade agreement with Radz-at-Han, they will next look to foster relations with other nations. This includes former imperial provinces."
+129,"TEXT_AKTKMM103_04753_ALPHINAUD_000_128","In view of this, we hope to find hints in history on how neighbors of differing races and ideologies might engage with one another."
+130,"TEXT_AKTKMM103_04753_ALPHINAUD_000_129","And what of the two of you? What endeavor brings you here this day?"
+131,"TEXT_AKTKMM103_04753_ALPHINAUD_000_130","A nation composed of the disparate peoples of Tural..."
+132,"TEXT_AKTKMM103_04753_ALPHINAUD_000_131","I daresay this is precisely the kind of example we seek. We'd do well to read up on Tuliyollal ourselves."
+133,"TEXT_AKTKMM103_04753_ALISAIE_000_132","The contest─is <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> the only one allowed to help Wuk Lamat?"
+134,"TEXT_AKTKMM103_04753_GRAHATIA_000_133","There was no mention of such restrictions, as I recall. On the contrary, Wuk Lamat gave us the impression that she could have several champions."
+135,"TEXT_AKTKMM103_04753_ALISAIE_000_134","I think I know how to make the most of our respite. Follow me, Alphinaud! We have planning to do!"
+136,"TEXT_AKTKMM103_04753_ALPHINAUD_000_135","A-Alisaie! Wait!"
+137,"TEXT_AKTKMM103_04753_ALPHINAUD_000_136","<sigh> 'Twould seem our plans have changed. If you'll excuse me..."
+138,"TEXT_AKTKMM103_04753_GRAHATIA_000_137","They never could rest on their laurels..."
+139,"TEXT_AKTKMM103_04753_GRAHATIA_000_138","Come, let us return to the annex."
+140,"TEXT_AKTKMM103_04753_GRAHATIA_000_200","Pray do not mind me. I shall be along as soon as I have what I seek."
+141,"TEXT_AKTKMM103_04753_OJIKATSUNJIKA_000_300","Welcome back, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. If you're looking for Wuk Lamat, she is currently with the others in her chambers."
+142,"TEXT_AKTKMM103_04753_OJIKATSUNJIKA_000_301","If you like, I can go and fetch them for you?"
+143,"TEXT_AKTKMM103_04753_SYSTEM_000_302","Have Ojika fetch everyone?"
+144,"TEXT_AKTKMM103_04753_OJIKATSUNJIKA_000_303","Understood! Please wait in the main hall."
+145,"TEXT_AKTKMM103_04753_OJIKATSUNJIKA_000_305","Please go ahead to the main hall. It won't be long."
+146,"TEXT_AKTKMM103_04753_KRILE_000_400",""
+147,"TEXT_AKTKMM103_04753_GRAHATIA_000_405",""
+148,"TEXT_AKTKMM103_04753_ERENVILLE_000_410",""
+149,"TEXT_AKTKMM103_04753_WUKLAMAT_000_415",""
+150,"TEXT_AKTKMM103_04753_ALPHINAUD_000_420",""
+151,"TEXT_AKTKMM103_04753_ALISAIE_000_425",""
+152,"TEXT_AKTKMM103_04753_OJIKATSUNJIKA_000_500","Lest you wonder about your passage to Tural, Erenville will arrange a ship through his guild. You need only worry about your own preparations."
+153,"TEXT_AKTKMM103_04753_OJIKATSUNJIKA_000_501","Speaking of which, please take this with you─a rugged and ready knapsack! May it serve you well on your coming adventures!"
+154,"TEXT_AKTKMM103_04753_OJIKATSUNJIKA_000_502","Now, I'm not sure when departure will be, but rest assured I'll let you know when I hear something. Till then, please take your ease!"

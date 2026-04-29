@@ -2,108 +2,108 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_LUCKBA441_03627_SEQ_00,鼴靈集市的凱瑞格正因緹納的修行而苦惱。
-1,TEXT_LUCKBA441_03627_SEQ_01,凱瑞格想讓緹納積累實戰經驗。為了修行，前往雷克蘭德的迷途羊倌之森，和凱瑞格談談。
-2,TEXT_LUCKBA441_03627_SEQ_02,身為魔法師的前輩，給緹納做個榜樣。在迷途羊倌之森的<hex:02280CFF05>EObj<hex:F61EAC670103>張望，討伐出現的<hex:02280FFF09>BNpcName<hex:F220D70103>。
-3,TEXT_LUCKBA441_03627_SEQ_03,討伐了<hex:02280FFF09>BNpcName<hex:F220D70103>。在迷途羊倌之森和緹納談談。
-4,TEXT_LUCKBA441_03627_SEQ_04,看到緹納與魔物苦戰的樣子，凱瑞格不由自主地出手了。在迷途羊倌之森再次和緹納談談。
-5,TEXT_LUCKBA441_03627_SEQ_05,冒險者又一次給出建議後，緹納順利討伐了魔物。在迷途羊倌之森再次和緹納談談。
-6,TEXT_LUCKBA441_03627_SEQ_06,對緹納來說，這次的修行似乎很成功。返回鼴靈集市，和凱瑞格談談。
-7,TEXT_LUCKBA441_03627_SEQ_07,緹納跑去繼續修行了。為了緹納，為了生活在安穆·艾蘭的人們，也為了報酬，冒險者也要繼續修行以應對智德討伐戰。<hex:02100103><hex:02100103>※任意魔法進攻職業的等級達到80級以上時，可以從鼴靈集市的凱瑞格那裡領取下一個魔法進攻職能任務。
-8,TEXT_LUCKBA441_03627_SEQ_08,
-9,TEXT_LUCKBA441_03627_SEQ_09,
-10,TEXT_LUCKBA441_03627_SEQ_10,
-11,TEXT_LUCKBA441_03627_SEQ_11,
-12,TEXT_LUCKBA441_03627_SEQ_12,
-13,TEXT_LUCKBA441_03627_SEQ_13,
-14,TEXT_LUCKBA441_03627_SEQ_14,
-15,TEXT_LUCKBA441_03627_SEQ_15,
-16,TEXT_LUCKBA441_03627_SEQ_16,
-17,TEXT_LUCKBA441_03627_SEQ_17,
-18,TEXT_LUCKBA441_03627_SEQ_18,
-19,TEXT_LUCKBA441_03627_SEQ_19,
-20,TEXT_LUCKBA441_03627_SEQ_20,
-21,TEXT_LUCKBA441_03627_SEQ_21,
-22,TEXT_LUCKBA441_03627_SEQ_22,
-23,TEXT_LUCKBA441_03627_SEQ_23,
-24,TEXT_LUCKBA441_03627_TODO_00,在迷途羊倌之森和凱瑞格對話
-25,TEXT_LUCKBA441_03627_TODO_01,在<hex:02280CFF05>EObj<hex:F61EAC670103>張望 討伐<hex:02280FFF09>BNpcName<hex:F220D70103>
-26,TEXT_LUCKBA441_03627_TODO_02,和緹納對話
-27,TEXT_LUCKBA441_03627_TODO_03,再次和緹納對話
-28,TEXT_LUCKBA441_03627_TODO_04,繼續和緹納對話
-29,TEXT_LUCKBA441_03627_TODO_05,和鼴靈集市的凱瑞格對話
-30,TEXT_LUCKBA441_03627_TODO_06,
-31,TEXT_LUCKBA441_03627_TODO_07,
-32,TEXT_LUCKBA441_03627_TODO_08,
-33,TEXT_LUCKBA441_03627_TODO_09,
-34,TEXT_LUCKBA441_03627_TODO_10,
-35,TEXT_LUCKBA441_03627_TODO_11,
-36,TEXT_LUCKBA441_03627_TODO_12,
-37,TEXT_LUCKBA441_03627_TODO_13,
-38,TEXT_LUCKBA441_03627_TODO_14,
-39,TEXT_LUCKBA441_03627_TODO_15,
-40,TEXT_LUCKBA441_03627_TODO_16,
-41,TEXT_LUCKBA441_03627_TODO_17,
-42,TEXT_LUCKBA441_03627_TODO_18,
-43,TEXT_LUCKBA441_03627_TODO_19,
-44,TEXT_LUCKBA441_03627_TODO_20,
-45,TEXT_LUCKBA441_03627_TODO_21,
-46,TEXT_LUCKBA441_03627_TODO_22,
-47,TEXT_LUCKBA441_03627_TODO_23,
-48,TEXT_LUCKBA441_03627_TAYNOR_000_000,如果智德是順從奈貝爾特心中的「牽掛」行動的話，<hex:02100103>那我單獨與他對峙或許也不會被攻擊。
-49,TEXT_LUCKBA441_03627_TAYNOR_000_001,我這樣對凱瑞格先生說，<hex:02100103>但他卻說「食罪靈就像依照本能行動的蟲子，是沒有理性的，<hex:02100103>不要期待他們會手下留情」。
-50,TEXT_LUCKBA441_03627_TAYNOR_000_002,我想像了一下，然後打了個寒戰。<hex:02100103>我還是太天真了。
-51,TEXT_LUCKBA441_03627_CERIGG_000_010,看樣子你又有所精進了，<hex:02100103>緹納的修行也進行得很順利，<hex:02100103>正一點點恢復被吸入空洞之前的力量。
-52,TEXT_LUCKBA441_03627_CERIGG_000_011,儘管已經過去了一百多年，<hex:02100103>但對他本人來說，才只過了短短幾天，<hex:02100103>所以也比較容易找回原來的感覺吧。
-53,TEXT_LUCKBA441_03627_CERIGG_000_012,但他也有不足的地方，<hex:02100103>那就是他之前未曾涉足過的……<hex:02100103>實戰經驗。
-54,TEXT_LUCKBA441_03627_TAYNOR_000_013,如果不保持冷靜且竭盡全力的話，<hex:02100103>是無法封印智德的空洞的。<hex:02100103>但我畢竟沒有經歷過實戰，很擔心到時候能不能做到……
-55,TEXT_LUCKBA441_03627_CERIGG_000_014,所以我希望他能提前經歷一下戰鬥。<hex:02100103>這也算是進一步提高他魔力的修行吧。
-56,TEXT_LUCKBA441_03627_CERIGG_000_017,但是……為了防止被智德發現，<hex:02100103>修行地點不能選在他出沒的安穆·艾蘭。
-57,TEXT_LUCKBA441_03627_CERIGG_000_018,所以，我打算帶他到遠一點的地方修行。<hex:02100103>你能陪我們走一趟，順便指導他一下嗎？
-58,TEXT_LUCKBA441_03627_CERIGG_000_019,很好！我想想……雷克蘭德的魔物應該正合適吧。<hex:02100103>我們從安全的水晶都方面前往，<hex:02100103>到時候在迷途羊倌之森匯合吧。
-59,TEXT_LUCKBA441_03627_TAYNOR_000_030,我穿著……合適嗎？
-60,TEXT_LUCKBA441_03627_CERIGG_000_050,好，那緹納的修行就從現在……<hex:02100103>幹嘛？你有什麼想說的嗎？
-61,TEXT_LUCKBA441_03627_TAYNOR_000_051,這身魔法師裝備是凱瑞格先生給我買的！<hex:02100103>不僅感覺有力量湧出……而且還很帥。
-62,TEXT_LUCKBA441_03627_CERIGG_000_052,……這是為了提高緹納魔力的必要經費。
-63,TEXT_LUCKBA441_03627_CERIGG_000_053,好了，快點開始修行！<hex:02100103>我能做的充其量就是幫緹納買套裝備，<hex:02100103>身為魔法師前輩，指導他的工作就交給你了。
-64,TEXT_LUCKBA441_03627_CERIGG_000_054,不過，對於沒有實戰經驗的緹納來說，<hex:02100103>上來就正面對抗敵人有些太難了吧。
-65,TEXT_LUCKBA441_03627_CERIGG_000_055,就先由你跟這附近的魔物……<hex:02100103>我看看，就選<hex:02280FFF09>BNpcName<hex:F220D70103>吧，<hex:02100103>由你跟它戰鬥，給緹納做個示範。
-66,TEXT_LUCKBA441_03627_CERIGG_000_070,如果這傢伙是弓箭手，我就能指導他了。<hex:02100103>就由你跟<hex:02280FFF09>BNpcName<hex:F220D70103>戰鬥，<hex:02100103>給緹納做個示範吧。
-67,TEXT_LUCKBA441_03627_TAYNOR_000_075,我會好好觀察學習<hex:02100103>面對敵人的時候要怎樣使用魔法的！
-68,TEXT_LUCKBA441_03627_CERIGG_000_090,漂亮！把你的訣竅教給緹納吧。
-69,TEXT_LUCKBA441_03627_TAYNOR_000_100,好厲害，簡直是神技啊！<hex:02100103>魔法的威力就不用說了，瞬間靈活運用<hex:02100103>不同魔法的手法也很驚人，是有什麼秘訣嗎？
-70,TEXT_LUCKBA441_03627_Q1_000_000,如何作答？
-71,TEXT_LUCKBA441_03627_A1_000_000,注入最強的破壞力！
-72,TEXT_LUCKBA441_03627_A2_000_000,嚴格安排要使用的魔法的順序
-73,TEXT_LUCKBA441_03627_TAYNOR_000_105,原來如此……好！<hex:02100103>我來按照這個建議挑戰一下！
-74,TEXT_LUCKBA441_03627_TAYNOR_000_106,嗚……<hex:02100103>我沒法、好好地……要瞄準哪裡啊？！
-75,TEXT_LUCKBA441_03627_CERIGG_000_107,啊，不對！<hex:02100103>威力是很大……但判斷太慢了……
-76,TEXT_LUCKBA441_03627_TAYNOR_000_108,這傢伙，好強……嗚、嗚啊！
-77,TEXT_LUCKBA441_03627_CERIGG_000_109,該死……我忍不下去了！
-78,TEXT_LUCKBA441_03627_CERIGG_000_120,抱歉……我不由自主就衝上去了……
-79,TEXT_LUCKBA441_03627_TAYNOR_000_140,呼……呼……<hex:02100103>明明是修行卻還被凱瑞格先生救了，真是抱歉！
-80,TEXT_LUCKBA441_03627_CERIGG_000_141,不，我才要說抱歉……下意識就出了手，<hex:02100103>對不起……
-81,TEXT_LUCKBA441_03627_TAYNOR_000_142,看別人打和自己打果然太不一樣了，<hex:02100103>我看著衝向自己的敵人就慌了……
-82,TEXT_LUCKBA441_03627_CERIGG_000_143,嗯……你的魔法威力已經足夠了，<hex:02100103>剩下的問題就是如何提高命中率。
-83,TEXT_LUCKBA441_03627_TAYNOR_000_144,<hex:022903EB0203>怎麼看？<hex:02100103>你覺得我的戰鬥方式怎麼樣？
-84,TEXT_LUCKBA441_03627_Q1_000_100,要向緹納提出什麼樣的建議？
-85,TEXT_LUCKBA441_03627_A1_000_100,一開始都這樣
-86,TEXT_LUCKBA441_03627_A2_000_100,只要有自信就沒問題！
-87,TEXT_LUCKBA441_03627_TAYNOR_000_150,謝謝……<hex:02100103>不能因為一次的失敗就萎靡不振。<hex:02100103>我要再挑戰一次！
-88,TEXT_LUCKBA441_03627_CERIGG_000_151,忍耐……要忍耐……<hex:02100103>緹納一定沒問題的！
-89,TEXT_LUCKBA441_03627_TAYNOR_000_152,成功了……我成功了！
-90,TEXT_LUCKBA441_03627_CERIGG_000_153,嗯，幹得很漂亮！<hex:02100103>我們都見證了你的第一場勝利！
-91,TEXT_LUCKBA441_03627_TAYNOR_000_154,嘿嘿……我很高興，<hex:02100103>這都要感謝<hex:022903EB0203>的建議。
-92,TEXT_LUCKBA441_03627_CERIGG_000_155,很好，就按這個勢頭再多來幾次，<hex:02100103>讓身體熟悉戰鬥的感覺！
-93,TEXT_LUCKBA441_03627_CERIGG_000_170,緹納現在已經可以很冷靜地戰鬥了，<hex:02100103>按這個狀態，到正式開戰的時候應該也沒問題吧！
-94,TEXT_LUCKBA441_03627_TAYNOR_000_180,呼……打了好幾場苦戰，<hex:02100103>不過我也有了自信，<hex:02100103>知道自己可以對付這些敵人了！
-95,TEXT_LUCKBA441_03627_CERIGG_000_181,嗯，最後一場在我看來也打得十分精彩。<hex:02100103>那我們就回鼴靈集市吧。
-96,TEXT_LUCKBA441_03627_TAYNOR_000_200,修行真是厲害呢！<hex:02100103>可以讓人增加實力和自信，我覺得自己能一直做下去。
-97,TEXT_LUCKBA441_03627_CERIGG_000_220,在你的幫助下，緹納的修行進展得很順利。<hex:02100103>你很有當師父的架勢嘛！不像我……只會添亂。
-98,TEXT_LUCKBA441_03627_CERIGG_000_221,你已經將魔法師的戰鬥方式傳授給他了，<hex:02100103>接下來就由我繼續教導他，<hex:02100103>讓他能在戰鬥中將學會的知識完美髮揮出來。
-99,TEXT_LUCKBA441_03627_TAYNOR_000_222,我會加油的，爭取不給你們拖後腿！<hex:02100103>我先去那邊複習修行的內容了。
-100,TEXT_LUCKBA441_03627_CERIGG_000_223,看他那迫不及待的樣子，<hex:02100103>估計他那種熱忱的性格是與生俱來的吧。
-101,TEXT_LUCKBA441_03627_CERIGG_000_224,他為了我們，為了奈貝爾特，<hex:02100103>想要打倒智德。
-102,TEXT_LUCKBA441_03627_CERIGG_000_225,但是我覺得，<hex:02100103>討伐智德對於緹納了結過去、放眼未來也是很有必要的。
-103,TEXT_LUCKBA441_03627_CERIGG_000_226,為了生活在安穆·艾蘭的人們，為了緹納……<hex:02100103>我們也要想方設法打倒智德。
-104,TEXT_LUCKBA441_03627_CERIGG_000_227,啊……還有一點我給忘了，<hex:02100103>那就是我和你的賞金啊！<hex:02100103>衝著這麼多目標，我們也要以求萬無一失。
+0,"TEXT_LUCKBA441_03627_SEQ_00","Cerigg is concerned about the progress of Taynor's training."
+1,"TEXT_LUCKBA441_03627_SEQ_01","Cerigg is pleased to inform you that Taynor's training has been progressing well in your absence. There is one rub, however─while there is no doubting the boy's abilities, he lacks for experience on the battlefield. Cerigg proposes an excursion to Lakeland and the Forest of the Lost Shepherd, where Taynor might learn how to wield his magical abilities in battle."
+2,"TEXT_LUCKBA441_03627_SEQ_02","You arrive in the forest, where Cerigg would have you provide a demonstration for Taynor before the boy ventures into the fray for himself. Find a suitable specimen from among the local fauna and dispatch it with your spells, so that your young protégé might follow your lead."
+3,"TEXT_LUCKBA441_03627_SEQ_03","You pick out a particularly nasty wolverine and make short work of it as Taynor looks on. Speak with the boy and offer any further guidance you may to prepare him for his first battle."
+4,"TEXT_LUCKBA441_03627_SEQ_04","Taynor struggles mightily in his first attempt at fighting on his own, prompting Cerigg to rush into the fray and dispatch the feral wolverine himself. The boy, clearly dismayed, retreats from the battlefield and hangs his head low. Speak to him and offer whatever encouragement you can."
+5,"TEXT_LUCKBA441_03627_SEQ_05","Though his disappointment is palpable, Taynor is able to regain his courage thanks to advice and rousing words from you and Cerigg. He challenges a wolverine once more, and this time emerges victorious in his attempt. Duly impressed, Cerigg encourages the boy to face more foes until the tactics and techniques become second nature. The fighting done for the day, you decide to speak with Taynor and congratulate him on his success."
+6,"TEXT_LUCKBA441_03627_SEQ_06","You speak with an elated Taynor, who clearly has gained a newfound confidence from his triumphs on the battlefield. Cerigg, too, is duly impressed, commenting that the boy has more than proved himself today. The three of you agree to return to Mord Souq, where you will plot out your next course of action."
+7,"TEXT_LUCKBA441_03627_SEQ_07","Upon your return to Mord Souq, Taynor─who has taken to his training like a fish to water─rushes off to review all that he has learned. Cerigg observes that the boy has come far in a short time, and that it is only a matter of time before he will be ready for the ultimate confrontation with the sin eater Phronesis─a battle which will also be a confrontation with Taynor's own past. The bounty hunter and you, as well, will endeavor to train as best you can, that your entire band will be fully prepared to face your formidable quarry.<hex:02100103><hex:02100103>※The next role quest will be available from Cerigg upon reaching level 80 in any magical ranged DPS class."
+8,"TEXT_LUCKBA441_03627_SEQ_08",""
+9,"TEXT_LUCKBA441_03627_SEQ_09",""
+10,"TEXT_LUCKBA441_03627_SEQ_10",""
+11,"TEXT_LUCKBA441_03627_SEQ_11",""
+12,"TEXT_LUCKBA441_03627_SEQ_12",""
+13,"TEXT_LUCKBA441_03627_SEQ_13",""
+14,"TEXT_LUCKBA441_03627_SEQ_14",""
+15,"TEXT_LUCKBA441_03627_SEQ_15",""
+16,"TEXT_LUCKBA441_03627_SEQ_16",""
+17,"TEXT_LUCKBA441_03627_SEQ_17",""
+18,"TEXT_LUCKBA441_03627_SEQ_18",""
+19,"TEXT_LUCKBA441_03627_SEQ_19",""
+20,"TEXT_LUCKBA441_03627_SEQ_20",""
+21,"TEXT_LUCKBA441_03627_SEQ_21",""
+22,"TEXT_LUCKBA441_03627_SEQ_22",""
+23,"TEXT_LUCKBA441_03627_SEQ_23",""
+24,"TEXT_LUCKBA441_03627_TODO_00","Speak with Cerigg at the Forest of the Lost Shepherd."
+25,"TEXT_LUCKBA441_03627_TODO_01","Find a rabid wolverine and dispatch it."
+26,"TEXT_LUCKBA441_03627_TODO_02","Speak with Taynor."
+27,"TEXT_LUCKBA441_03627_TODO_03","Speak with Taynor again."
+28,"TEXT_LUCKBA441_03627_TODO_04","Speak with Taynor yet again."
+29,"TEXT_LUCKBA441_03627_TODO_05","Speak with Cerigg at Mord Souq."
+30,"TEXT_LUCKBA441_03627_TODO_06",""
+31,"TEXT_LUCKBA441_03627_TODO_07",""
+32,"TEXT_LUCKBA441_03627_TODO_08",""
+33,"TEXT_LUCKBA441_03627_TODO_09",""
+34,"TEXT_LUCKBA441_03627_TODO_10",""
+35,"TEXT_LUCKBA441_03627_TODO_11",""
+36,"TEXT_LUCKBA441_03627_TODO_12",""
+37,"TEXT_LUCKBA441_03627_TODO_13",""
+38,"TEXT_LUCKBA441_03627_TODO_14",""
+39,"TEXT_LUCKBA441_03627_TODO_15",""
+40,"TEXT_LUCKBA441_03627_TODO_16",""
+41,"TEXT_LUCKBA441_03627_TODO_17",""
+42,"TEXT_LUCKBA441_03627_TODO_18",""
+43,"TEXT_LUCKBA441_03627_TODO_19",""
+44,"TEXT_LUCKBA441_03627_TODO_20",""
+45,"TEXT_LUCKBA441_03627_TODO_21",""
+46,"TEXT_LUCKBA441_03627_TODO_22",""
+47,"TEXT_LUCKBA441_03627_TODO_23",""
+48,"TEXT_LUCKBA441_03627_TAYNOR_000_000","I was just talking with Cerigg, when I had a thought. If Nyelbert's regrets truly live on inside Phronesis, might I not be able to reach him somehow? To convince him to leave us in peace?"
+49,"TEXT_LUCKBA441_03627_TAYNOR_000_001","The words had barely left my mouth when he shot me a glare that pierced me like a dagger. “Expect reason or mercy from a sin eater, and it will be the death of you,” he said. “Though it may have the form of a man, its mind is that of a beast that lives only to feed on our flesh.”"
+50,"TEXT_LUCKBA441_03627_TAYNOR_000_002","It would seem I was a bit too idealistic. Clearly, I still have much to learn about this world..."
+51,"TEXT_LUCKBA441_03627_CERIGG_000_010","That look in your eyes... Yes, I can see that you have gained much strength since last we met. You'll be pleased to hear that Taynor has managed to make steady progress in his training as well."
+52,"TEXT_LUCKBA441_03627_CERIGG_000_011","The boy believes he has regained much of the knowledge and skill he possessed before getting sucked into that pocket of time and space. An admirable feat, considering that it was not long ago that he could scarcely remember his own name."
+53,"TEXT_LUCKBA441_03627_CERIGG_000_012","And yet...there is one aspect of his training that has yet to be addressed. Put simply, the boy lacks experience in battle."
+54,"TEXT_LUCKBA441_03627_TAYNOR_000_013","To work the magic necessary to seal up the hollows, I must maintain perfect focus and clarity of mind. If the battle with Phronesis is my first, I fear my concentration will be disrupted all too easily."
+55,"TEXT_LUCKBA441_03627_CERIGG_000_014","And so I thought I'd take the boy out into the wilds, that he might acclimate himself to the battlefield and further hone his command of magic in the process."
+56,"TEXT_LUCKBA441_03627_CERIGG_000_017","And yet, we must keep a wide berth of Amh Araeng. Were we to encounter Phronesis before we are fully prepared, the results could be disastrous."
+57,"TEXT_LUCKBA441_03627_CERIGG_000_018","And so I propose that we go on an excursion of sorts. Would you be willing to accompany us? I believe there is much the boy could learn from your example."
+58,"TEXT_LUCKBA441_03627_CERIGG_000_019","Excellent! Then let us make for Lakeland. The beasts in the Forest of the Lost Shepherd should provide a fair challenge for the lad."
+59,"TEXT_LUCKBA441_03627_TAYNOR_000_030","This outfit was a gift from Cerigg. Do you think it suits me?"
+60,"TEXT_LUCKBA441_03627_CERIGG_000_050","Ah, there <hex:02080CE905FF04>she<hex:FF03>he<hex:03> is. Now, shall we get down to─ Hm? Is something the matter?"
+61,"TEXT_LUCKBA441_03627_TAYNOR_000_051","How do you like my new clothes, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>? Not only are they stylish─why, I can just feel the power welling up from deep within me! They were a present from Cerigg. Isn't he the best!?"
+62,"TEXT_LUCKBA441_03627_CERIGG_000_052","It was a simple investment, nothing more. We must seize every possible advantage if we hope to triumph over our foe."
+63,"TEXT_LUCKBA441_03627_CERIGG_000_053","But enough idle chitchat─we have work to do. <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, I would ask you to begin by setting an example for the boy─showing him precisely how you conduct yourself in battle."
+64,"TEXT_LUCKBA441_03627_CERIGG_000_054","We can't very well just toss him to the wolverines all on his own, now can we?"
+65,"TEXT_LUCKBA441_03627_CERIGG_000_055","So why don't you get out there and hunt one down for us? Taynor, watch carefully and let <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> show you how it's done."
+66,"TEXT_LUCKBA441_03627_CERIGG_000_070","If he were an aspiring archer, I'd gladly show him the ropes myself, but I fear I'm out of my league when it comes to magic. Go hunt down one of those wolverines and show the boy how it's done."
+67,"TEXT_LUCKBA441_03627_TAYNOR_000_075","It is an honor to learn from you, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. I promise I will not take my eyes off you for even a moment!"
+68,"TEXT_LUCKBA441_03627_CERIGG_000_090","Nice work, friend. If you have any further advice for the boy, pray share it with him."
+69,"TEXT_LUCKBA441_03627_TAYNOR_000_100","That was incredible! The sheer destructive power of your spells, the way you seamlessly weaved one incantation after the next...everything! But tell me: what would you say is the most important thing a mage should keep in mind when doing battle with a fearsome foe?"
+70,"TEXT_LUCKBA441_03627_Q1_000_000","What will you say?"
+71,"TEXT_LUCKBA441_03627_A1_000_000","Just blast your foes with everything you've got."
+72,"TEXT_LUCKBA441_03627_A2_000_000","Casting your spells in proper sequence is the key."
+73,"TEXT_LUCKBA441_03627_TAYNOR_000_105","...Ah, but of course! Thank you, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. I will endeavor to put everything I have learned from you into practice. Well, here goes nothing!"
+74,"TEXT_LUCKBA441_03627_TAYNOR_000_106","Drat...! Where do I─? No, that's not... Curses! Just...stay still so I can hit you already!"
+75,"TEXT_LUCKBA441_03627_CERIGG_000_107","Steady, now! Don't let the enemy fluster you! Keep your focus!"
+76,"TEXT_LUCKBA441_03627_TAYNOR_000_108","R-Right...focus. You're a feisty one, aren't you─ Ow, that smarts!"
+77,"TEXT_LUCKBA441_03627_CERIGG_000_109","Gah! I've seen enough of this."
+78,"TEXT_LUCKBA441_03627_CERIGG_000_120","Forgive me, friend. I was beginning to fear for the boy's dignity, if not his life."
+79,"TEXT_LUCKBA441_03627_TAYNOR_000_140","<pant> <pant> Oh, dear... That didn't go nearly as well as I hoped."
+80,"TEXT_LUCKBA441_03627_CERIGG_000_141","Don't get so down on yourself, lad. I shouldn't have jumped in the way I did. I daresay you were starting to get the hang of it there at the end."
+81,"TEXT_LUCKBA441_03627_TAYNOR_000_142","I thought it would be a simple enough task to follow <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>'s lead, but when that savage creature stared me down, I was too flustered to put what I learned into practice."
+82,"TEXT_LUCKBA441_03627_CERIGG_000_143","...Indeed. It is not the strength of your magicks that is the issue. You simply must learn to compose yourself."
+83,"TEXT_LUCKBA441_03627_TAYNOR_000_144","What did you think, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>? Are there any other words of wisdom you might offer me?"
+84,"TEXT_LUCKBA441_03627_Q1_000_100","What will you say?"
+85,"TEXT_LUCKBA441_03627_A1_000_100","You simply need more practice."
+86,"TEXT_LUCKBA441_03627_A2_000_100","Believe in yourself, and all will be fine."
+87,"TEXT_LUCKBA441_03627_TAYNOR_000_150","Thank you. I'm sure you are right. I can't allow my foe to break my concentration like this. Anyhow, let me try once more. This time will go better─I promise you!"
+88,"TEXT_LUCKBA441_03627_CERIGG_000_151","Yes, the boy will be fine... I must stay my hand..."
+89,"TEXT_LUCKBA441_03627_TAYNOR_000_152","I...I did it! The battle is won!"
+90,"TEXT_LUCKBA441_03627_CERIGG_000_153","Now <hex:021A020203>that's<hex:021A020103> how you wallop a wolverine! Well done, lad─I'm proud I could be here for your first victory."
+91,"TEXT_LUCKBA441_03627_TAYNOR_000_154","You're far too kind... I couldn't have done it without you and <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> here to show me the way. You have my thanks."
+92,"TEXT_LUCKBA441_03627_CERIGG_000_155","But don't let up now, boy! You must keep battling until all that you've learned becomes second nature. Now, are you ready?"
+93,"TEXT_LUCKBA441_03627_CERIGG_000_170","The boy fights with awareness and composure. I do believe he's earned himself a respite─and some more worthy opponents next time around."
+94,"TEXT_LUCKBA441_03627_TAYNOR_000_180","<pant> <pant> That was...rather more difficult than I expected. And yet, thanks to you and Cerigg, I feel like I can hold my own on the battlefield now."
+95,"TEXT_LUCKBA441_03627_CERIGG_000_181","I'd have to agree. The way you made short work of that last critter, I'd say it's time to find you a more worthy foe. Let us return to Mord Souq and plot our next course of action."
+96,"TEXT_LUCKBA441_03627_TAYNOR_000_200","I must say, that training session was most exhilarating! There's nothing quite like the feeling of vanquishing fearsome foes and gaining confidence with every thrilling victory."
+97,"TEXT_LUCKBA441_03627_CERIGG_000_220","You've proven the perfect mentor for the boy, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Hells, I daresay ol' Cerigg here could learn a thing or two from you."
+98,"TEXT_LUCKBA441_03627_CERIGG_000_221","You've taught him not only how to wield his spells in battle, but how to maintain his focus in the face of danger. With those fundamentals under his belt, it is just a matter of time and practice until he's ready to face Phronesis."
+99,"TEXT_LUCKBA441_03627_TAYNOR_000_222","I promise you, my friends...I will not let you down. Now, if you'll excuse me, I'd best go and write down all I've learned today while it's fresh in my memory!"
+100,"TEXT_LUCKBA441_03627_CERIGG_000_223","Such passion and determination... This must be the boy he always was, before his time beyond the rift stole from him his memories and his spirit."
+101,"TEXT_LUCKBA441_03627_CERIGG_000_224","He devotes himself to his training that he might help us fell Phronesis, and bring his friend a measure of salvation..."
+102,"TEXT_LUCKBA441_03627_CERIGG_000_225","There is no telling what course the battle will take, but I suspect the boy will be forced to confront his past head-on. It will not be easy for him, and yet I believe it is a necessary step for him in order to forge himself a new future."
+103,"TEXT_LUCKBA441_03627_CERIGG_000_226","For Taynor's sake, and for the sake of those who call Amh Araeng home, we must triumph in this battle."
+104,"TEXT_LUCKBA441_03627_CERIGG_000_227","...Not to mention for the sake of our coinpurses, eh? At any rate, I will leave you to your training, and return to my own. The final confrontation is close at hand, and we must be ready."

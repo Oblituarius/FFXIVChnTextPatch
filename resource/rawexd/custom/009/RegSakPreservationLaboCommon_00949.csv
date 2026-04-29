@@ -2,15 +2,19 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_REGSAKPRESERVATIONLABOCOMMON_00949_SYSTEM_000_000,似乎是為新人準備的入職指南。<hex:02100103>有許多小項，要先看哪一項呢？
-1,TEXT_REGSAKPRESERVATIONLABOCOMMON_00949_Q1_000_000,要閱讀哪一項？
-2,TEXT_REGSAKPRESERVATIONLABOCOMMON_00949_A1_000_001,工作規定
-3,TEXT_REGSAKPRESERVATIONLABOCOMMON_00949_A1_000_002,研究目的
-4,TEXT_REGSAKPRESERVATIONLABOCOMMON_00949_A1_000_003,負責人一覽
-5,TEXT_REGSAKPRESERVATIONLABOCOMMON_00949_A1_000_004,取消
-6,TEXT_REGSAKPRESERVATIONLABOCOMMON_00949_SYSTEM_000_010,(-工作規定-)本設施代號「倉庫棟10-29」。<hex:02100103>為確保機密安全，系統中登記的類型是物流設施。<hex:02100103>不論身處何處，一切言行都必須嚴格符合以上資訊。
-7,TEXT_REGSAKPRESERVATIONLABOCOMMON_00949_SYSTEM_000_011,(-工作規定-)研究人員須在指定的通用研究室、第一實驗室及第二實驗室工作。<hex:02100103>未經許可嚴禁進入其他房間。
-8,TEXT_REGSAKPRESERVATIONLABOCOMMON_00949_SYSTEM_000_012,(-工作規定-)研究人員的門禁卡嚴禁離身。<hex:02100103>另外，門禁卡只能解鎖有權進入的房間。
-9,TEXT_REGSAKPRESERVATIONLABOCOMMON_00949_SYSTEM_000_013,(-工作規定-)研究人員嚴禁摘下調魂器。<hex:02100103>另外，本設施包含研究內容在內的一切資訊均屬機密事項，<hex:02100103>研究人員對自身記憶的所有權與修改權均歸保全院所有。
-10,TEXT_REGSAKPRESERVATIONLABOCOMMON_00949_SYSTEM_000_020,(-研究目的-)許可權不足。<hex:02100103>請使用研究人員賬號登入。
-11,TEXT_REGSAKPRESERVATIONLABOCOMMON_00949_SYSTEM_000_030,(-負責人一覽-)研究所所長：迪米特裡厄斯<hex:02100103>第一實驗室主任：厄俄斯福洛<hex:02100103>第二實驗室主任：已刪除
+0,"TEXT_REGSAKPRESERVATIONLABOCOMMON_00949_SYSTEM_100_000","Courtesy of Shale's decryption efforts, the previously inaccessible “Research Objectives” section is now available for perusal."
+1,"TEXT_REGSAKPRESERVATIONLABOCOMMON_00949_SYSTEM_000_000","The terminal screen displays what appears to be the index page of an employee manual."
+2,"TEXT_REGSAKPRESERVATIONLABOCOMMON_00949_Q1_000_000","Which section will you read?"
+3,"TEXT_REGSAKPRESERVATIONLABOCOMMON_00949_A1_000_001","“Personnel Protocols.”"
+4,"TEXT_REGSAKPRESERVATIONLABOCOMMON_00949_A1_000_002","“Research Objectives.”"
+5,"TEXT_REGSAKPRESERVATIONLABOCOMMON_00949_A1_000_003","“Leadership Personnel.”"
+6,"TEXT_REGSAKPRESERVATIONLABOCOMMON_00949_A1_000_004","Cancel."
+7,"TEXT_REGSAKPRESERVATIONLABOCOMMON_00949_SYSTEM_000_010","(-Personnel Protocols-)For security reasons, Containment Complex 10-29 has been registered as a materials distribution center. Keep this in mind and conduct yourself accordingly, both inside and outside the facility."
+8,"TEXT_REGSAKPRESERVATIONLABOCOMMON_00949_SYSTEM_000_011","(-Personnel Protocols-)Each employee must perform their tasks within their designated workrooms: the researchers' commons, the protolab, or the deuterolab. Entrance into another workroom without official clearance is strictly prohibited."
+9,"TEXT_REGSAKPRESERVATIONLABOCOMMON_00949_SYSTEM_000_012","(-Personnel Protocols-)Carry your security card at all times. Your clearance level dictates the areas to which you have access."
+10,"TEXT_REGSAKPRESERVATIONLABOCOMMON_00949_SYSTEM_000_013","(-Personnel Protocols-)Equip your regulator at all times. Due to the highly confidential nature of the research materials and other data managed within this complex, Preservation retains the ownership of─and the rights to modify─the memories of all registered personnel."
+11,"TEXT_REGSAKPRESERVATIONLABOCOMMON_00949_SYSTEM_000_020","(-Research Objectives-)Access denied. Please log in with your personnel account to view."
+12,"TEXT_REGSAKPRESERVATIONLABOCOMMON_00949_SYSTEM_000_025","(-Research Objectives-)The primary research objective of Containment Complex 10-29 is the indefinite preservation of the Endless."
+13,"TEXT_REGSAKPRESERVATIONLABOCOMMON_00949_SYSTEM_000_026","(-Research Objectives-)Continued improvements to soul cell and regulator functionality are intended to facilitate the Endless Sphene's management of Living Memory. It is via this process of iteration that we endeavor to identify and resolve any and all issues inherent in Endless creation."
+14,"TEXT_REGSAKPRESERVATIONLABOCOMMON_00949_SYSTEM_000_027","(-Research Objectives-)Chief among known issues is our present inability to control the key. For if we fail to secure the reflections as additional sources of aether, our ultimate goal will remain forever out of reach."
+15,"TEXT_REGSAKPRESERVATIONLABOCOMMON_00949_SYSTEM_000_030","(-Leadership Personnel-)Complex Director: Demetrius<hex:02100103>Protolab Chief: Eosphor<hex:02100103>Deuterolab Chief: Redacted"

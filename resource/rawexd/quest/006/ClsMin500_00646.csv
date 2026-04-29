@@ -2,122 +2,122 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_CLSMIN500_00646_SEQ_00,採礦工公會的阿達爾博塔好像在為什麼事情驚慌失措。
-1,TEXT_CLSMIN500_00646_SEQ_01,接受了阿達爾博塔的委託。和烏爾達哈採礦工公會的韋德·格利談談。
-2,TEXT_CLSMIN500_00646_SEQ_02,和韋德·格利進行了交談。和烏爾達哈採礦工公會的迪普·卡尼恩談談。
-3,TEXT_CLSMIN500_00646_SEQ_03,和迪普·卡尼恩進行了交談。和烏爾達哈採礦工公會的阿達爾博塔談談。
-4,TEXT_CLSMIN500_00646_SEQ_04,和阿達爾博塔進行了交談。和烏爾達哈採礦工公會的韋德·格利談談。
-5,TEXT_CLSMIN500_00646_SEQ_05,和韋德·格利進行了交談。挖掘3個<hex:022811FF05>Item<hex:FF08>　5121<hex:0103>，交給烏爾達哈採礦工公會的阿達爾博塔。<hex:022811FF05>Item<hex:FF08>　5121<hex:0103>可以在庫爾札斯中央高地巨龍首營地的未知的礦脈上採集。未知的礦脈會在艾歐澤亞時間夜裡1點短時間出現。技能「山岳之相」可以在未知的礦脈出現時將位置顯示在導向地圖上。
-6,TEXT_CLSMIN500_00646_SEQ_06,將<hex:022811FF05>Item<hex:FF08>　5121<hex:0103>交給了阿達爾博塔。向烏爾達哈採礦工公會的阿達爾博塔報告。
-7,TEXT_CLSMIN500_00646_SEQ_07,向阿達爾博塔報告完畢。冒險者為了迪普·卡尼恩進行了困難的挖掘工作，阿達爾博塔對此表示感謝，並稱讚了冒險者的成長。阿達爾博塔期待能有一天，冒險者作為一名採礦工，揚名艾歐澤亞。為了早日讓那一天到來，作為採礦工繼續努力工作。<hex:02100103><hex:02100103>※滿足下列條件後，可以從採礦工公會的阿達爾博塔那裡領取新的職業任務。<hex:02100103>完成「第七星曆主線任務」中「希望的燈火」。
-8,TEXT_CLSMIN500_00646_SEQ_08,
-9,TEXT_CLSMIN500_00646_SEQ_09,
-10,TEXT_CLSMIN500_00646_SEQ_10,
-11,TEXT_CLSMIN500_00646_SEQ_11,
-12,TEXT_CLSMIN500_00646_SEQ_12,
-13,TEXT_CLSMIN500_00646_SEQ_13,
-14,TEXT_CLSMIN500_00646_SEQ_14,
-15,TEXT_CLSMIN500_00646_SEQ_15,
-16,TEXT_CLSMIN500_00646_SEQ_16,
-17,TEXT_CLSMIN500_00646_SEQ_17,
-18,TEXT_CLSMIN500_00646_SEQ_18,
-19,TEXT_CLSMIN500_00646_SEQ_19,
-20,TEXT_CLSMIN500_00646_SEQ_20,
-21,TEXT_CLSMIN500_00646_SEQ_21,
-22,TEXT_CLSMIN500_00646_SEQ_22,
-23,TEXT_CLSMIN500_00646_SEQ_23,
-24,TEXT_CLSMIN500_00646_TODO_00,和韋德·格利對話
-25,TEXT_CLSMIN500_00646_TODO_01,和迪普·卡尼恩對話
-26,TEXT_CLSMIN500_00646_TODO_02,和阿達爾博塔對話
-27,TEXT_CLSMIN500_00646_TODO_03,和韋德·格利對話
-28,TEXT_CLSMIN500_00646_TODO_04,將<hex:022811FF05>Item<hex:FF08>　5121<hex:0103>交給阿達爾博塔
-29,TEXT_CLSMIN500_00646_TODO_05,向阿達爾博塔報告
-30,TEXT_CLSMIN500_00646_TODO_06,
-31,TEXT_CLSMIN500_00646_TODO_07,
-32,TEXT_CLSMIN500_00646_TODO_08,
-33,TEXT_CLSMIN500_00646_TODO_09,
-34,TEXT_CLSMIN500_00646_TODO_10,
-35,TEXT_CLSMIN500_00646_TODO_11,
-36,TEXT_CLSMIN500_00646_TODO_12,
-37,TEXT_CLSMIN500_00646_TODO_13,
-38,TEXT_CLSMIN500_00646_TODO_14,
-39,TEXT_CLSMIN500_00646_TODO_15,
-40,TEXT_CLSMIN500_00646_TODO_16,
-41,TEXT_CLSMIN500_00646_TODO_17,
-42,TEXT_CLSMIN500_00646_TODO_18,
-43,TEXT_CLSMIN500_00646_TODO_19,
-44,TEXT_CLSMIN500_00646_TODO_20,
-45,TEXT_CLSMIN500_00646_TODO_21,
-46,TEXT_CLSMIN500_00646_TODO_22,
-47,TEXT_CLSMIN500_00646_TODO_23,
-48,TEXT_CLSMIN500_00646_ADALBERTA_000_000,不得了了！<hex:02100103>韋德·格利竟然告發了他父親迪普·卡尼恩的營私行為！<hex:02100103>迪普·卡尼恩現在陷入了窘境……
-49,TEXT_CLSMIN500_00646_ADALBERTA_000_001,……你能聽一下我的委託嗎？<hex:02100103>我知道迪普·卡尼恩在憎恨著我。<hex:02100103>但是……那個人是我重要的前輩！
-50,TEXT_CLSMIN500_00646_ADALBERTA_000_002,如果他是因為憎恨我才走錯了路，那麼我想要幫幫他。<hex:02100103>……所以，請你去問問韋德·格利，<hex:02100103>問問他告發他親生父親的原因是什麼。
-51,TEXT_CLSMIN500_00646_WIDEGULLEY_000_010,你是受公會會長所託來打聽情況的嗎？<hex:02100103>既然如此，我就把事情告訴你吧。
-52,TEXT_CLSMIN500_00646_WIDEGULLEY_000_011,我的父親總是惡意將危險的委託交給採礦工公會。<hex:02100103>就算他有他自己的原因，但連我也看不下去了。
-53,TEXT_CLSMIN500_00646_WIDEGULLEY_000_012,我覺得對不起很多人，給很多人添了麻煩……<hex:02100103>因此我想，必須要做個了結才行。<hex:02100103>所以我只能選擇告發。
-54,TEXT_CLSMIN500_00646_WIDEGULLEY_000_013,……父親也有他自己的說辭。<hex:02100103>他現在就在採礦工公會的入口處，你可以直接去問問他。
-55,TEXT_CLSMIN500_00646_DEEPCANYON_000_020,是你啊……好久沒和你這樣聊過了。<hex:02100103>不過，我沒有什麼好辯解的。<hex:02100103>我兒子告發我的這些全都是事實。
-56,TEXT_CLSMIN500_00646_DEEPCANYON_000_021,但我並沒有覺得我有做錯。<hex:02100103>……因為我有一個不可動搖的目的。
-57,TEXT_CLSMIN500_00646_DEEPCANYON_000_022,那就是對那個女人進行復仇！<hex:02100103>那個曾經和上代會長一起用計謀將我拉下台的女人……
-58,TEXT_CLSMIN500_00646_DEEPCANYON_000_023,我活著就是為了向竊走我會長寶座的阿達爾博塔進行復仇！<hex:02100103>為此，我才把我的兒子送到了公會。
-59,TEXT_CLSMIN500_00646_DEEPCANYON_000_024,但是，這一切都因為你的出現而失敗了。<hex:02100103>我的兒子贏不了你……所以我才開始著急。<hex:02100103>你如果覺得我說的是假的，大可以找阿達爾博塔確認。
-60,TEXT_CLSMIN500_00646_WIDEGULLEY_000_025,父親可能會在審問會上受到嚴厲的抨擊。<hex:02100103>因為身為沙蠍眾一員的艾瑪吉娜礦山協會總裁菲厄蓋斯也會出席。
-61,TEXT_CLSMIN500_00646_WIDEGULLEY_000_026,另外，礦山公司總經理的兒子<hex:02100103>珀珀庫利和塞塞魯卡也會代替總經理出席。<hex:02100103>可以說與礦山公司有關的重要成員都會出面……
-62,TEXT_CLSMIN500_00646_ADALBERTA_000_030,他竟然說我盜走了公會會長的寶座？！<hex:02100103>他就是因為這種誤解而要將自己的人生葬送嗎？！
-63,TEXT_CLSMIN500_00646_ADALBERTA_000_031,雖然我說過，因為我出身於阿拉米格，出不得頭，<hex:02100103>沒有資格繼承公會會長這一職位。<hex:02100103>但上一任會長卻說，正因為是阿拉米格人，所以才想讓我繼承。
-64,TEXT_CLSMIN500_00646_ADALBERTA_000_032,而迪普·卡尼恩卻把這當成是我謀劃奪取會長寶座的陰謀，<hex:02100103>所以才會對我懷恨在心。
-65,TEXT_CLSMIN500_00646_ADALBERTA_000_033,……拜託你幫幫我。<hex:02100103>關於他的審問會馬上就要開始了，<hex:02100103>在他因為這種誤解而身敗名裂之前，要將真相告訴他！
-66,TEXT_CLSMIN500_00646_ADALBERTA_000_034,請再問一問韋德·格利詳細的情況。<hex:02100103>他說不定會知道躲過審問會的方法。
-67,TEXT_CLSMIN500_00646_WIDEGULLEY_000_040,阿達爾博塔說……想要拯救父親麼？<hex:02100103>我也不希望我的親生父親身敗名裂啊！<hex:02100103>但是，要怎麼做才能拯救父親呢……
-68,TEXT_CLSMIN500_00646_WIDEGULLEY_000_042,……說到底，對艾瑪吉娜礦山公司來說，<hex:02100103>父親所犯下的罪破壞了礦山公司和公會之間的信賴關係。
-69,TEXT_CLSMIN500_00646_WIDEGULLEY_000_043,所以審問會委派給父親一項任務。<hex:02100103>看父親是否能夠命令公會，<hex:02100103>挖掘到一種名為<hex:022811FF05>Item<hex:FF08>　5121<hex:0103>的珍稀礦物。
-70,TEXT_CLSMIN500_00646_WIDEGULLEY_000_044,孤立無援的父親，可能會空手走上審問會吧……<hex:02100103>但是，如果能在審問會上將<hex:022811FF05>Item<hex:FF08>　5121<hex:0103>拿出，<hex:02100103>那麼父親的處境或許可以得到逆轉！
-71,TEXT_CLSMIN500_00646_WIDEGULLEY_000_045,只要有3個<hex:022811FF05>Item<hex:FF08>　5121<hex:0103>的話……<hex:02100103>可是，礦脈遍布在庫爾札斯全境，而且非常難以挖掘。<hex:02100103>以我的能力是挖不到的。
-72,TEXT_CLSMIN500_00646_WIDEGULLEY_000_046,我聽說，要想在庫爾札斯未知的礦脈挖掘<hex:022811FF05>Item<hex:FF08>　5121<hex:0103>，<hex:02100103>必須擁有可以從日落等到日出般的耐心。
-73,TEXT_CLSMIN500_00646_WIDEGULLEY_000_047,在熬過這種辛苦之後，<hex:02100103>使用採礦工的技能「山岳之相」，<hex:02100103>才可以找到……
-74,TEXT_CLSMIN500_00646_WIDEGULLEY_000_048,這種事也只有你那種程度的人能夠做到了。<hex:02100103>我去把情況告訴阿達爾博塔，<hex:02100103>你就去挖掘<hex:022811FF05>Item<hex:FF08>　5121<hex:0103>，然後交給她。
-75,TEXT_CLSMIN500_00646_SYSTEM_000_049,<hex:022811FF05>Item<hex:FF08>　5121<hex:0103>可以在未知的礦脈上採集。未知的礦脈會在艾歐澤亞時間夜裡1點短時間出現在<hex:02100103>庫爾札斯中央高地的巨龍首營地。
-76,TEXT_CLSMIN500_00646_ADALBERTA_000_050,我聽說了，<hex:022903EB0203>。<hex:02100103>是需要3個<hex:022811FF05>Item<hex:FF08>　5121<hex:0103>吧？請你抓緊時間！
-77,TEXT_CLSMIN500_00646_ADALBERTA_000_051,聽好了，好好回想一下韋德·格利的話！<hex:02100103><hex:022811FF05>Item<hex:FF08>　5121<hex:0103>可以在未知的礦脈挖掘到！
-78,TEXT_CLSMIN500_00646_ADALBERTA_000_052,要想得到它，就必須擁有可以從日落等到日出般的耐心……<hex:02100103>並且還需要運用技能「山岳之相」！
-79,TEXT_CLSMIN500_00646_ADALBERTA_000_053,總算趕上了！<hex:02100103>韋德·格利已經前往審問會了。<hex:02100103>我們也盡快趕過去吧！
-80,TEXT_CLSMIN500_00646_POPOKKULI_000_60,你成功命令公會挖掘到<hex:022811FF05>Item<hex:FF08>　5121<hex:0103>了嗎？<hex:02100103>因為你的一己私怨，波及到了我們與公會之間的關係。<hex:02100103>如果不能修復這層信賴關係，那你就完了。
-81,TEXT_CLSMIN500_00646_DEEPCANYON_000_61,關、關於這件事……
-82,TEXT_CLSMIN500_00646_ADALBERTA_000_62,這是<hex:022811FF05>Item<hex:FF08>　5121<hex:0103>！是由公會的<hex:022903EB0203>挖掘到的！
-83,TEXT_CLSMIN500_00646_SESERUKKA_000_63,這、這散發著如同黑洞般吸引力的色澤……<hex:02100103>哥哥，這<hex:022811FF05>Item<hex:FF08>　5121<hex:0103>是真的！<hex:02100103>這是貨真價實的「虛無魔鐵」！
-84,TEXT_CLSMIN500_00646_POPOKKULI_000_64,啊……真是優質的<hex:022811FF05>Item<hex:FF08>　5121<hex:0103>。<hex:02100103>真不愧是傳說中的<hex:022903EB0203>，<hex:02100103>難怪都說你是年輕有為、首屈一指的採礦工。
-85,TEXT_CLSMIN500_00646_POPOKKULI_000_65,可是我不太明白。<hex:02100103>為什麼你要將<hex:022811FF05>Item<hex:FF08>　5121<hex:0103>拿到這裡來呢？
-86,TEXT_CLSMIN500_00646_SESERUKKA_000_66,就是啊，為什麼公會會長會來幫迪普·卡尼恩？！<hex:02100103>這個人不是很恨你嗎？！
-87,TEXT_CLSMIN500_00646_DEEPCANYON_000_67,……你到底想要幹什麼，阿達爾博塔！<hex:02100103>難道說你這是在可憐我嗎？！
-88,TEXT_CLSMIN500_00646_ADALBERTA_000_68,不是可憐！<hex:02100103>我只是……想要解開這個誤會！
-89,TEXT_CLSMIN500_00646_DEEPCANYON_000_69,誤會？
-90,TEXT_CLSMIN500_00646_ADALBERTA_000_70,……我原本是想要放棄那場決鬥的……<hex:02100103>那場與你爭奪公會會長繼承權的決鬥！
-91,TEXT_CLSMIN500_00646_ADALBERTA_000_71,那一天……我是想要告訴上任會長我決定退出的事情，<hex:02100103>才拜訪了會長。這就是你所目擊到的真相。
-92,TEXT_CLSMIN500_00646_DEEPCANYON_000_72,我……我才不信！
-93,TEXT_CLSMIN500_00646_ADALBERTA_000_73,如果我真的背叛了你，<hex:02100103>怎麼還會讓<hex:022903EB0203>去挖掘<hex:022811FF05>Item<hex:FF08>　5121<hex:0103>！
-94,TEXT_CLSMIN500_00646_DEEPCANYON_000_74,可是……可是！<hex:02100103>如果是真的，為什麼現在才……<hex:02100103>我至今為止到底是為了什麼才……
-95,TEXT_CLSMIN500_00646_WIDEGULLEY_000_75,你到最後都不承認自己輸了……<hex:02100103>所以才會認為看到的那一幕，是會長作弊的證據，<hex:02100103>並認為這才是你輸掉的原因。
-96,TEXT_CLSMIN500_00646_WIDEGULLEY_000_76,父親，你輸給公會會長的原因是……<hex:02100103>不能坦率地承認自己的失敗，沒有勇於接受失敗的器量。
-97,TEXT_CLSMIN500_00646_WIDEGULLEY_000_77,承認自己的失敗吧，父親……<hex:02100103>然後一切再重新開始。
-98,TEXT_CLSMIN500_00646_ADALBERTA_000_78,迪普·卡尼恩，你可以的。<hex:02100103>你所擁有的才智，我是最了解的。
-99,TEXT_CLSMIN500_00646_ADALBERTA_000_79,如果你想要從頭再來的話……<hex:02100103>我會代表採礦工公會和你約定，<hex:02100103>今後將全面協助你。
-100,TEXT_CLSMIN500_00646_SESERUKKA_000_80,……全面協助？<hex:02100103>這樣合適嗎？阿達爾博塔！
-101,TEXT_CLSMIN500_00646_ADALBERTA_000_81,這樣一來，才能將一切化干戈為玉帛。<hex:02100103>採礦工公會今後也會一如既往，<hex:02100103>和艾瑪吉娜礦山公司保持合作關係。
-102,TEXT_CLSMIN500_00646_ADALBERTA_000_82,畢竟這次最大的受害者是<hex:022903EB0203>，<hex:02100103>但<hex:02080DE905FF04>她<hex:FF04>他<hex:03>卻依然去挖掘了<hex:022811FF05>Item<hex:FF08>　5121<hex:0103>。<hex:02100103>所以我們其他人就更沒有資格去翻舊賬了。
-103,TEXT_CLSMIN500_00646_POPOKKULI_000_83,原來如此，那你本人又是怎麼想的呢？<hex:02100103>你能夠不計前嫌，既往不咎嗎？
-104,TEXT_CLSMIN500_00646_ADALBERTA_000_84,當然可以了。<hex:02100103>因為我壓根就沒有糾結過這些事。
-105,TEXT_CLSMIN500_00646_DEEPCANYON_000_85,阿達爾博塔，你！
-106,TEXT_CLSMIN500_00646_POPOKKULI_000_86,我明白了，既然你都這麼說了，<hex:02100103>那麼這件事就這麼算了。<hex:02100103>這樣可以嗎，塞塞魯卡？
-107,TEXT_CLSMIN500_00646_SESERUKKA_000_87,……哥哥決定的事情，我沒有意見。
-108,TEXT_CLSMIN500_00646_FYRGEISS_000_88,那就這麼定了，迪普·卡尼恩……<hex:02100103>你這次犯下的過錯，就在日後的工作中彌補吧！<hex:02100103>那麼審問會到此結束！
-109,TEXT_CLSMIN500_00646_ADALBERTA_000_89,終於結束了……辛苦你了，<hex:022903EB0203>。<hex:02100103>關於這次的事，我還有話想對你說。<hex:02100103>你出去後可以到公會來一趟嗎？
-110,TEXT_CLSMIN500_00646_ADALBERTA_000_090,……再次向你表示感謝，<hex:02100103>多虧有你，事情才得以順利解決。
-111,TEXT_CLSMIN500_00646_ADALBERTA_000_091,雖然讓他欠了次人情，<hex:02100103>不過說實話，我並沒想讓他償還。
-112,TEXT_CLSMIN500_00646_ADALBERTA_000_092,我只是……想要再叫他一聲「前輩」。<hex:02100103>看來這個願望馬上可以實現了……真的很謝謝你。
-113,TEXT_CLSMIN500_00646_ADALBERTA_000_093,不過話說回來，你竟然連<hex:022811FF05>Item<hex:FF08>　5121<hex:0103>都能挖掘到啊。<hex:02100103>看來我沒有什麼能教你的了。
-114,TEXT_CLSMIN500_00646_ADALBERTA_000_094,今後，你在作為冒險者環遊世界的同時，<hex:02100103>也請將學到的採礦知識和技術活用在到訪之地。<hex:02100103>我希望你可以將採礦工這份工作展現給世界。
-115,TEXT_CLSMIN500_00646_ADALBERTA_000_095,真是令人期待啊……<hex:02100103>期待著來自世界各地的人，在造訪採礦工公會時，<hex:02100103>嘴裡都稱讚著你。
-116,TEXT_CLSMIN500_00646_SYSTEM_000_500,「採礦工」的故事到此告一段落！<hex:02100103>要開始接下來的「採礦工」職業任務，<hex:02100103>需要滿足以下條件。
-117,TEXT_CLSMIN500_00646_SYSTEM_000_501,完成「第七星曆主線任務」中「希望的燈火」。
-118,TEXT_CLSMIN500_00646_SYSTEM_000_502,滿足條件後，和採礦工公會的阿達爾博塔對話，<hex:02100103>即可開始新的職業任務！
+0,"TEXT_CLSMIN500_00646_SEQ_00","Adalberta is gravely concerned for the fate of an old friend."
+1,"TEXT_CLSMIN500_00646_SEQ_01","The flustered Adalberta reveals to you that Wide Gulley has reported his father's abuse of power to the Concern's upper management. The guildmaster bids you speak with Wide Gulley and learn all you can of the situation, that she might help her old friend and mentor."
+2,"TEXT_CLSMIN500_00646_SEQ_02","Wide Gulley admits that he has filed an official complaint to the Concern, so ashamed he was of his father's actions. He suggests you speak with the accused in order to hear his side of the story."
+3,"TEXT_CLSMIN500_00646_SEQ_03","Deep Canyon reveals that his actions were fueled by the long-standing desire to bring down Adalberta for her betrayal years ago. Deliver this shocking revelation to your guildmaster."
+4,"TEXT_CLSMIN500_00646_SEQ_04","According to Adalberta, Deep Canyon's belief that she betrayed him is nothing but a misunderstanding. Loath to see him destroy his career due to this perceived slight, she bids you speak with Wide Gulley, and with him find a way to save his father."
+5,"TEXT_CLSMIN500_00646_SEQ_05","In order to prove that he is fit to remain vice foreman, Deep Canyon must demonstrate to the Concern that he still has the confidence of guild members. To this end, you must procure three chunks of darksteel ore, an extremely rare metal found only from unspoiled mineral deposits in Coerthas. You are warned that these deposits only appear during certain times of day. Use the technique Truth of Mountains to locate darksteel ore that appears in the Coerthas central highlands at 1:00 a.m. (Eorzea time), mine the required quantity, and return it to Adalberta as quickly as you are able."
+6,"TEXT_CLSMIN500_00646_SEQ_06","Owing to your intervention, Deep Canyon has been given a chance to redeem himself. With the matter now laid to rest, speak once more with the relieved Adalberta, who awaits you in the Miners' Guild."
+7,"TEXT_CLSMIN500_00646_SEQ_07","Adalberta thanks you for the part you played in sparing Deep Canyon a fate of ignominy, and lavishes you with praise for your growth as a miner. She bids you go forth and practice your craft for the benefit of all. May your toils never go unrewarded!<hex:02100103><hex:02100103>※The next miner quest will be available from Adalberta once you have completed the main scenario quest “Before the Dawn.”"
+8,"TEXT_CLSMIN500_00646_SEQ_08",""
+9,"TEXT_CLSMIN500_00646_SEQ_09",""
+10,"TEXT_CLSMIN500_00646_SEQ_10",""
+11,"TEXT_CLSMIN500_00646_SEQ_11",""
+12,"TEXT_CLSMIN500_00646_SEQ_12",""
+13,"TEXT_CLSMIN500_00646_SEQ_13",""
+14,"TEXT_CLSMIN500_00646_SEQ_14",""
+15,"TEXT_CLSMIN500_00646_SEQ_15",""
+16,"TEXT_CLSMIN500_00646_SEQ_16",""
+17,"TEXT_CLSMIN500_00646_SEQ_17",""
+18,"TEXT_CLSMIN500_00646_SEQ_18",""
+19,"TEXT_CLSMIN500_00646_SEQ_19",""
+20,"TEXT_CLSMIN500_00646_SEQ_20",""
+21,"TEXT_CLSMIN500_00646_SEQ_21",""
+22,"TEXT_CLSMIN500_00646_SEQ_22",""
+23,"TEXT_CLSMIN500_00646_SEQ_23",""
+24,"TEXT_CLSMIN500_00646_TODO_00","Speak with Wide Gulley."
+25,"TEXT_CLSMIN500_00646_TODO_01","Speak with Deep Canyon."
+26,"TEXT_CLSMIN500_00646_TODO_02","Speak with Adalberta."
+27,"TEXT_CLSMIN500_00646_TODO_03","Speak with Wide Gulley."
+28,"TEXT_CLSMIN500_00646_TODO_04","Deliver chunks of darksteel ore to Adalberta."
+29,"TEXT_CLSMIN500_00646_TODO_05","Speak with Adalberta."
+30,"TEXT_CLSMIN500_00646_TODO_06",""
+31,"TEXT_CLSMIN500_00646_TODO_07",""
+32,"TEXT_CLSMIN500_00646_TODO_08",""
+33,"TEXT_CLSMIN500_00646_TODO_09",""
+34,"TEXT_CLSMIN500_00646_TODO_10",""
+35,"TEXT_CLSMIN500_00646_TODO_11",""
+36,"TEXT_CLSMIN500_00646_TODO_12",""
+37,"TEXT_CLSMIN500_00646_TODO_13",""
+38,"TEXT_CLSMIN500_00646_TODO_14",""
+39,"TEXT_CLSMIN500_00646_TODO_15",""
+40,"TEXT_CLSMIN500_00646_TODO_16",""
+41,"TEXT_CLSMIN500_00646_TODO_17",""
+42,"TEXT_CLSMIN500_00646_TODO_18",""
+43,"TEXT_CLSMIN500_00646_TODO_19",""
+44,"TEXT_CLSMIN500_00646_TODO_20",""
+45,"TEXT_CLSMIN500_00646_TODO_21",""
+46,"TEXT_CLSMIN500_00646_TODO_22",""
+47,"TEXT_CLSMIN500_00646_TODO_23",""
+48,"TEXT_CLSMIN500_00646_ADALBERTA_000_000","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, thank the gods you're here! It's Wide Gulley... He's gone and filed a complaint against his father to the Concern, citing an abuse of power!"
+49,"TEXT_CLSMIN500_00646_ADALBERTA_000_001","It has forced Deep Canyon into a difficult position, to say the least. And though the two of us haven't exactly seen eye to eye of late, I still owe the man a great debt. I would go to him and offer what aid I could, but he's like to spurn even the attempt."
+50,"TEXT_CLSMIN500_00646_ADALBERTA_000_002","I know full well how much I've already asked of you, but I would be <hex:021A020203>eternally<hex:021A020103> grateful if you'd lend Deep Canyon aid in my stead. To get started, it might be best to see what possessed his son to inform on his own flesh and blood."
+51,"TEXT_CLSMIN500_00646_WIDEGULLEY_000_010","Here at the guildmaster's biddin' again? Well, I see no reason not to tell you about the situation. You know most everythin', anyroad."
+52,"TEXT_CLSMIN500_00646_WIDEGULLEY_000_011","My old man was foistin' dangerous jobs on the guild, forcin' its members to risk life and limb fer his own agenda. If that ain't the very definition of abuse, I don't know what is. You yourself were on the receivin' end o' this, I'm sure you'll recall."
+53,"TEXT_CLSMIN500_00646_WIDEGULLEY_000_012","Kin or no, I couldn't stand by an' watch my guildmates bein' used like pawns in his game. So I went to the Concern's upper management an' filed a complaint."
+54,"TEXT_CLSMIN500_00646_WIDEGULLEY_000_013","He hasn't said a word to me since, but I'd have a guess that he might be willin' to speak with <hex:021A020203>you<hex:021A020103>. You've certainly done your fair share fer the guild. He's out by the entrance right now, 'case you want to hear his side of the story."
+55,"TEXT_CLSMIN500_00646_DEEPCANYON_000_020","It's been some time, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. You're doubtless here as regards my son's accusations. Well, it's just as he claims."
+56,"TEXT_CLSMIN500_00646_DEEPCANYON_000_021","Now, this ain't gonna spare me what's comin', but I had a reason for my actions: vengeance. <hex:021A020203>I<hex:021A020103> was supposed to become master of the Miners' Guild. Everyone knew I had the best claim. But Adalberta robbed me of the honor─<hex:021A020203>me<hex:021A020103>, the man who taught her nigh everythin' she knows about her trade!"
+57,"TEXT_CLSMIN500_00646_DEEPCANYON_000_022","She went behind my back and conspired with her predecessor! An' then <hex:021A020203>fancy<hex:021A020103> who ended up bein' chosen to lead... By way of payback, ever since I became vice foreman, I've striven to make Adalberta's life harder than tryin' to mine with a dull pickaxe."
+58,"TEXT_CLSMIN500_00646_DEEPCANYON_000_023","All those outrageous demands? To make her look incompetent. At the same time, I went about ensurin' my son was well placed to take over as guildmaster. An' my plan was about to bear fruit, too...till <hex:021A020203>you<hex:021A020103> came along and ruined it all by bein' my son's better."
+59,"TEXT_CLSMIN500_00646_DEEPCANYON_000_024","Heh... By your expression, I take it you're doubtful of the tale. Well, you need only ask your dear guildmaster. She can vouch for everythin' I've said."
+60,"TEXT_CLSMIN500_00646_WIDEGULLEY_000_025","If you're wonderin' where my father vanished to, he's been summoned to an inquest. The chairman of the Concern himself, Master Fyrgeiss, will be in attendance. An' that's just the beginnin'."
+61,"TEXT_CLSMIN500_00646_WIDEGULLEY_000_026","The chief foreman's sons will be present as well─the twins Popokkuli and Seserukka. It'll be a sight to behold, all the guild's top players in one spot. An' it won't go easy for him, you can be sure of that."
+62,"TEXT_CLSMIN500_00646_ADALBERTA_000_030","What!? Deep Canyon believes <hex:021A020203>I<hex:021A020103> cheated him out of becoming guildmaster!? That's not it at all! I <hex:021A020203>never<hex:021A020103> aspired to this position..."
+63,"TEXT_CLSMIN500_00646_ADALBERTA_000_031","Gods, I was only an Ala Mhigan refugee, working as hard as I could to get by... I never even <hex:021A020203>dreamed<hex:021A020103> that I could rise as I did. And I suspected even less that it was that selfsame dedication to my work that would lead to me being chosen."
+64,"TEXT_CLSMIN500_00646_ADALBERTA_000_032","If I had known that accepting the mantle would tear us apart... <sigh> Lamenting the past won't avail us. I only know that I wouldn't be where I am without the man. I <hex:021A020203>can't<hex:021A020103> allow this misunderstanding to cost Deep Canyon everything."
+65,"TEXT_CLSMIN500_00646_ADALBERTA_000_033","I simply couldn't bear it. I'm not sure there's aught we can still do for him at this point, but we must try."
+66,"TEXT_CLSMIN500_00646_ADALBERTA_000_034","Listen. Wide Gulley is the one who filed the complaint. If you were to throw your own weight behind some of my concerns, then maybe...maybe he could yet do something. Please, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. It would mean so much."
+67,"TEXT_CLSMIN500_00646_WIDEGULLEY_000_040","Adalberta wants to help my old man? <sigh> Truth be told, it ain't my wish to see his career destroyed neither. I only wanted to teach him a lesson─make him know that he can't just use people for his own ends."
+68,"TEXT_CLSMIN500_00646_WIDEGULLEY_000_042","But now that the Concern knows, it's been taken out o' my hands. In their eyes, my father's actions've jeopardized relations with the Miners' Guild, an' nothin' could be worse."
+69,"TEXT_CLSMIN500_00646_WIDEGULLEY_000_043","So, they've given him a test. If he's to remain vice foreman, he must prove at the inquest that he still has the confidence of the guild."
+70,"TEXT_CLSMIN500_00646_WIDEGULLEY_000_044","An' they ain't interested in no words─they want hard evidence. That is to say, they're demandin' that someone from the guild show him loyalty by goin' an' diggin' up three of the toughest damn chunks of ore there is to find: darksteel."
+71,"TEXT_CLSMIN500_00646_WIDEGULLEY_000_045","Problem is, he's got no allies in the guild, on account of his own behavior. I certainly don't qualify for the task, bein' his son. An' Adalberta can't do it neither, 'cause she's the bleedin' guildmaster─that's just how it works."
+72,"TEXT_CLSMIN500_00646_WIDEGULLEY_000_046","This leaves you, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. We don't have much time before the inquest begins, so you'll have to hurry. An' I wasn't exaggeratin' afore─darksteel's elusive as all hells, located in the snowy reaches o' Coerthas an' nowhere else."
+73,"TEXT_CLSMIN500_00646_WIDEGULLEY_000_047","To actually find the stuff, you'll first need to use your Truth of Mountains technique to locate unspoiled mineral deposits. Then─an' gods know why─you'll have to survive a night in the cold for the deposits to reveal 'emselves. Finally, you dig...an' you pray."
+74,"TEXT_CLSMIN500_00646_WIDEGULLEY_000_048","When you have enough chunks of darksteel ore, take 'em to Adalberta. I'll make sure she knows what's goin' on."
+75,"TEXT_CLSMIN500_00646_SYSTEM_000_049","Use the technique Truth of Mountains to locate darksteel ore that appears in the Coerthas central highlands at 1:00 a.m. (Eorzea time), mine the required quantity, and return it to Adalberta as quickly as you are able."
+76,"TEXT_CLSMIN500_00646_ADALBERTA_000_050","Wide Gulley's told me all about the situation. Be sure you bring in the darksteel ore as soon as you've got it."
+77,"TEXT_CLSMIN500_00646_ADALBERTA_000_051","Now, I feel this bears mentioning, but regarding how to go about obtaining the ore... It may sound ridiculous, but it's exactly as Wide Gulley says."
+78,"TEXT_CLSMIN500_00646_ADALBERTA_000_052","You'll need the endurance to survive a night in Coerthas, and the technique Truth of Mountains to locate unspoiled mineral deposits. Twelve speed your way!"
+79,"TEXT_CLSMIN500_00646_ADALBERTA_000_053","Incredible, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! Your talents are truly boundless. Hopefully, these will suffice to spare Deep Canyon. But let's make haste to the inquest. Wide Gulley is already on his way."
+80,"TEXT_CLSMIN500_00646_POPOKKULI_000_60","Well, did you get a guild member to bring you darksteel ore? 'Cause make no mistake, Deep Canyon, if you came to this inquest empty-handed, we will <hex:021A020203>end<hex:021A020103> you. Your time with the Concern will be just a memory."
+81,"TEXT_CLSMIN500_00646_DEEPCANYON_000_61","Ungh, I... Well..."
+82,"TEXT_CLSMIN500_00646_ADALBERTA_000_62","We have the ore right here, procured by <hex:022903EB0203> of the Miners' Guild!"
+83,"TEXT_CLSMIN500_00646_SESERUKKA_000_63","Twelve be good, she isn't lying! This is darksteel, and some of the finest I've ever seen."
+84,"TEXT_CLSMIN500_00646_POPOKKULI_000_64","Hmph. It's no ordinary miner who can find darksteel, let alone stuff that looks this good. Seems your reputation is well earned."
+85,"TEXT_CLSMIN500_00646_POPOKKULI_000_65","That said, we're hardly here to question your ability. Though I find myself wondering as to your motives. Why did you bring the ore?"
+86,"TEXT_CLSMIN500_00646_SESERUKKA_000_66","Aye, I'd know the same. Why stick your neck out for <hex:021A020203>him<hex:021A020103>? He's given you nothing but trouble!"
+87,"TEXT_CLSMIN500_00646_DEEPCANYON_000_67","What in the seven hells're you tryin' to pull, Adalberta!? I don't need anyone's pity, yours least of all!"
+88,"TEXT_CLSMIN500_00646_ADALBERTA_000_68","I'm not here to give you my pity, but to clear up the misunderstanding between us!"
+89,"TEXT_CLSMIN500_00646_DEEPCANYON_000_69","Misunderstandin'...?"
+90,"TEXT_CLSMIN500_00646_ADALBERTA_000_70","Listen to me, Deep Canyon. I never wanted to become guildmaster! The responsibility was thrust upon me, and there was naught to be done for it."
+91,"TEXT_CLSMIN500_00646_ADALBERTA_000_71","Gods, when my name was being bandied about for the position, my first instinct was to take myself out of consideration. Aye, I spoke to the guildmaster in private, as you say. But it wasn't to connive against you─it was to give up my claim!"
+92,"TEXT_CLSMIN500_00646_DEEPCANYON_000_72","Y-You expect me to believe that!?"
+93,"TEXT_CLSMIN500_00646_ADALBERTA_000_73","If I had truly betrayed you back then, would I have bothered to come here?"
+94,"TEXT_CLSMIN500_00646_DEEPCANYON_000_74","B-But...if that's true, then everythin' I've done... By the Twelve, to have taken this so far..."
+95,"TEXT_CLSMIN500_00646_WIDEGULLEY_000_75","You didn't want to admit defeat, Father. Adalberta beat you out on her own merits. You knew this in your heart, but you refused to accept it."
+96,"TEXT_CLSMIN500_00646_WIDEGULLEY_000_76","In your pride, you convinced yourself that she betrayed you. But by doin' so, you only validated why you were passed over for guildmaster in the first place."
+97,"TEXT_CLSMIN500_00646_WIDEGULLEY_000_77","Please, Father, let go of the past. Accept that you were beaten, as I have with <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, and let's start over."
+98,"TEXT_CLSMIN500_00646_ADALBERTA_000_78","You have it in you to do so, Deep Canyon─to begin anew. I know of your love for mining more than anyone."
+99,"TEXT_CLSMIN500_00646_ADALBERTA_000_79","If you would be willing to try again, I promise you the guild's full cooperation."
+100,"TEXT_CLSMIN500_00646_SESERUKKA_000_80","Full cooperation? Are you <hex:021A020203>sure<hex:021A020103> about this?"
+101,"TEXT_CLSMIN500_00646_ADALBERTA_000_81","Aye, I would leave the past where it belongs─in the past. The guild wants only to look forward, and to continue working with the Concern."
+102,"TEXT_CLSMIN500_00646_ADALBERTA_000_82","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> was the biggest victim in this whole affair, yet <hex:02080CE905FF04>she<hex:FF03>he<hex:03> is willing to give Deep Canyon another chance. <hex:02080CE905FF04>She<hex:FF03>He<hex:03> wouldn't have brought the darksteel ore otherwise."
+103,"TEXT_CLSMIN500_00646_POPOKKULI_000_83","That's well and good, but what about <hex:021A020203>you<hex:021A020103>? Can you really forget everything he's done?"
+104,"TEXT_CLSMIN500_00646_ADALBERTA_000_84","...I can. Above all else, I miss my old friend and mentor. To get him back, I would forgive much and more."
+105,"TEXT_CLSMIN500_00646_DEEPCANYON_000_85","A-Adalberta..."
+106,"TEXT_CLSMIN500_00646_POPOKKULI_000_86","Well, I'm inclined to lay this matter to rest. Any objections, Sese?"
+107,"TEXT_CLSMIN500_00646_SESERUKKA_000_87","If you're satisfied, Brother, then so am I."
+108,"TEXT_CLSMIN500_00646_FYRGEISS_000_88","Then it is settled! Vice Foreman Deep Canyon, by request of the Miners' Guild, you shall retain your present office at Amajina & Sons Mineral Concern. Through hard work, I trust that you will make amends for past transgressions."
+109,"TEXT_CLSMIN500_00646_ADALBERTA_000_89","<sigh> I'm full glad that it's over... <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, I would have a word with you in private. Would you mind returning to the guild with me?"
+110,"TEXT_CLSMIN500_00646_ADALBERTA_000_090","I asked you here so that I might thank you properly."
+111,"TEXT_CLSMIN500_00646_ADALBERTA_000_091","Had you not been on hand to help, Deep Canyon's career would have ended prematurely, and in disgrace."
+112,"TEXT_CLSMIN500_00646_ADALBERTA_000_092","Worse, I might have lost my dear friend forever. I owe you a debt that I'll likely never be able to repay."
+113,"TEXT_CLSMIN500_00646_ADALBERTA_000_093","Ah, but look at you. In no time at all, you've grown into a miner who can make the earth yield up even darksteel ore, the rarest of metals. There's nothing left for me to teach you."
+114,"TEXT_CLSMIN500_00646_ADALBERTA_000_094","As an adventurer, you're like to find yourself in all corners of the realm. But wherever your road takes you, I want you to practice our craft for the good of all."
+115,"TEXT_CLSMIN500_00646_ADALBERTA_000_095","Go well, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, and may your toils never go unrewarded!"
+116,"TEXT_CLSMIN500_00646_SYSTEM_000_500","This concludes the miner quests for FINAL FANTASY XIV: A Realm Reborn. In order to undertake the next series of quests, you must first meet the following requirements:"
+117,"TEXT_CLSMIN500_00646_SYSTEM_000_501","※You must have completed the main scenario quest “Before the Dawn.”"
+118,"TEXT_CLSMIN500_00646_SYSTEM_000_502","Once you have done so, the next miner quest will be available from Adalberta."

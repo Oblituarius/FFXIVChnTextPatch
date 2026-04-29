@@ -2,329 +2,329 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_STMBDR602_04587_SEQ_00,帕克夏大街的歐米茄想去進行下一項調查。
-1,TEXT_STMBDR602_04587_SEQ_01,歐米茄提出了第二個疑問，和冒險者一同來到了加雷馬。和碎璃營地的歐米茄交談，進入同行狀態。
-2,TEXT_STMBDR602_04587_SEQ_02,開始帶著歐米茄和阿爾法打聽情報。帶著兩位同伴，與碎璃營地的救援隊員和帝國人交談。<hex:02100103><hex:02100103>※同行狀態被解除時，再次與碎璃營地的歐米茄或阿爾法對話便可進入同行狀態。
-3,TEXT_STMBDR602_04587_SEQ_03,聽取了不同立場之人的想法。在碎璃營地的指定地點和同行狀態下的歐米茄談談。
-4,TEXT_STMBDR602_04587_SEQ_04,在交談過程中，歐米茄的動作開始變得遲鈍。用力摩擦碎璃營地的歐米茄。
-5,TEXT_STMBDR602_04587_SEQ_05,歐米茄恢復了原樣。和加雷馬封賞別墅的歐米茄談談。
-6,TEXT_STMBDR602_04587_SEQ_06,歐米茄對前來掃墓的馬尼烏斯提出疑問。和封賞別墅的歐米茄談談。
-7,TEXT_STMBDR602_04587_SEQ_07,歐米茄提出了最後的疑問，和冒險者一同來到了嘆息海。和最佳威兔洞的歐米茄談談。
-8,TEXT_STMBDR602_04587_SEQ_08,歐米茄向增盈威提出了一連串的疑問。和最佳威兔洞前的歐米茄談談。
-9,TEXT_STMBDR602_04587_SEQ_09,冒險者拜託阿爾戈斯，讓歐米茄它們也乘坐在它背上一起前往監視者之館。和嘆息海監視者之館的月面監視者談談。
-10,TEXT_STMBDR602_04587_SEQ_10,和月面監視者一起談論了古代人的事情。和迷津驚愕所的比格斯談談。
-11,TEXT_STMBDR602_04587_SEQ_11,為比格斯和魏吉送行後，從歐米茄那裡得知了神秘消息的內容。和舊薩雷安知識神海港的歐米茄談談。
-12,TEXT_STMBDR602_04587_SEQ_12,歐米茄它們飛往了新的世界，踏上了新的冒險之旅。只要它們攜手同進，一定能走得更遠、看到更多的景色。而這個星球的生命也會像它們一樣相互協作，尋找各自的答案。最終在經歷了漫長的旅途後，回歸到星海那溫柔的懷抱之中。
-13,TEXT_STMBDR602_04587_SEQ_13,
-14,TEXT_STMBDR602_04587_SEQ_14,
-15,TEXT_STMBDR602_04587_SEQ_15,
-16,TEXT_STMBDR602_04587_SEQ_16,
-17,TEXT_STMBDR602_04587_SEQ_17,
-18,TEXT_STMBDR602_04587_SEQ_18,
-19,TEXT_STMBDR602_04587_SEQ_19,
-20,TEXT_STMBDR602_04587_SEQ_20,
-21,TEXT_STMBDR602_04587_SEQ_21,
-22,TEXT_STMBDR602_04587_SEQ_22,
-23,TEXT_STMBDR602_04587_SEQ_23,
-24,TEXT_STMBDR602_04587_TODO_00,和歐米茄對話進入同行狀態
-25,TEXT_STMBDR602_04587_TODO_01,帶著歐米茄和阿爾法與救援隊員對話
-26,TEXT_STMBDR602_04587_TODO_02,帶著歐米茄和阿爾法與帝國人對話
-27,TEXT_STMBDR602_04587_TODO_03,在指定地點和同行狀態下的歐米茄對話
-28,TEXT_STMBDR602_04587_TODO_04,摩擦歐米茄
-29,TEXT_STMBDR602_04587_TODO_05,和封賞別墅的歐米茄對話
-30,TEXT_STMBDR602_04587_TODO_06,和歐米茄對話
-31,TEXT_STMBDR602_04587_TODO_07,再次和歐米茄對話
-32,TEXT_STMBDR602_04587_TODO_08,和最佳威兔洞前的歐米茄對話
-33,TEXT_STMBDR602_04587_TODO_09,和月面監視者對話
-34,TEXT_STMBDR602_04587_TODO_10,和驚愕所的比格斯對話
-35,TEXT_STMBDR602_04587_TODO_11,和歐米茄對話
-36,TEXT_STMBDR602_04587_TODO_12,
-37,TEXT_STMBDR602_04587_TODO_13,
-38,TEXT_STMBDR602_04587_TODO_14,
-39,TEXT_STMBDR602_04587_TODO_15,
-40,TEXT_STMBDR602_04587_TODO_16,
-41,TEXT_STMBDR602_04587_TODO_17,
-42,TEXT_STMBDR602_04587_TODO_18,
-43,TEXT_STMBDR602_04587_TODO_19,
-44,TEXT_STMBDR602_04587_TODO_20,
-45,TEXT_STMBDR602_04587_TODO_21,
-46,TEXT_STMBDR602_04587_TODO_22,
-47,TEXT_STMBDR602_04587_TODO_23,
-48,TEXT_STMBDR602_04587_ALPHA_000_000,咕哎、咕咕、咕哎！
-49,TEXT_STMBDR602_04587_OMEGA_000_011,那我們這就去尋找第二個疑問的答案吧。
-50,TEXT_STMBDR602_04587_OMEGA_000_012,末日報告書中另一個令我難以理解的部分，<hex:02100103>就是前往加雷馬的救援隊與帝國人民之間的關係。
-51,TEXT_STMBDR602_04587_OMEGA_000_013,救援隊的確有拯救帝國人民的意願，<hex:02100103>而且雙方還有共同的敵人終末使徒。<hex:02100103>……但他們為什麼不早些聯手共戰呢？
-52,TEXT_STMBDR602_04587_OMEGA_000_014,關於此項疑問，我想繼續前往當地進行調查。<hex:02100103>請你抱著我們前往碎璃營地。
-53,TEXT_STMBDR602_04587_ALPHA_000_020,咕咕咕咕哎哎哎……
-54,TEXT_STMBDR602_04587_OMEGA_000_030,我們到了。<hex:02100103>加雷馬……雖然被這個星球的人類視為寒冷地域，<hex:02100103>不過與完全冰封的星球相比，危險性很低。
-55,TEXT_STMBDR602_04587_OMEGA_000_031,看來即便是這副軀體，也並未受到低溫的影響。<hex:02100103>至少可以證明在抗凍性能方面<hex:02100103>勝過剛才開始就一直微顫的阿爾法。
-56,TEXT_STMBDR602_04587_OMEGA_000_032,根據我的數據顯示，<hex:02100103>伊爾薩巴德救援隊的殘存勢力與得到庇護的帝國人民<hex:02100103>均滯留在這個營地。
-57,TEXT_STMBDR602_04587_OMEGA_000_033,我打算向不同陣營的人類分別詢問對另一方的看法。<hex:02100103>沙沙……我們出發吧。
-58,TEXT_STMBDR602_04587_SYSTEM_000_034,接下來將和歐米茄它們同行。<hex:02100103>在執行任務時，需要同行者處於附近位置。
-59,TEXT_STMBDR602_04587_SYSTEM_000_035,在同行狀態下，切換區域或選擇「解除同行狀態」，<hex:02100103>都將會解除同行的狀態。
-60,TEXT_STMBDR602_04587_SYSTEM_000_036,同行狀態解除後，<hex:02100103>只要和回到了起點的同行者對話，就能再次進入同行狀態。
-61,TEXT_STMBDR602_04587_Q1_000_040,要做什麼？
-62,TEXT_STMBDR602_04587_A1_000_041,對話
-63,TEXT_STMBDR602_04587_A1_000_042,解除同行狀態
-64,TEXT_STMBDR602_04587_A1_000_043,取消
-65,TEXT_STMBDR602_04587_OMEGA_000_044,我們去找救援隊的人和得到庇護的帝國人，<hex:02100103>打聽一下他們對對方的看法吧。
-66,TEXT_STMBDR602_04587_OMEGA_000_045,在打聽情報之際，建議保持心率微高的移動速度，<hex:02100103>避免你和阿爾法凍住。
-67,TEXT_STMBDR602_04587_ALPHA_000_046,咕……咕哎……咕啾！
-68,TEXT_STMBDR602_04587_Q2_000_047,確定要解除同行狀態嗎？
-69,TEXT_STMBDR602_04587_OMEGA_000_048,沙沙……已經到達抗凍溫度的極限了嗎？<hex:02100103>請迅速提升自身的體溫。<hex:02100103>我們將在營地的中央待機。
-70,TEXT_STMBDR602_04587_ALPHA_000_049,咕、咕哎……
-71,TEXT_STMBDR602_04587_SYSTEM_000_050,阿爾法顫抖著奔向了碎璃營地的中央。
-72,TEXT_STMBDR602_04587_OMEGA_000_051,沙沙……已經可以再次行動了嗎？<hex:02100103>我們出發吧。
-73,TEXT_STMBDR602_04587_ALPHA_000_052,咕咕咕咕哎！
-74,TEXT_STMBDR602_04587_SYSTEM_000_053,同行者還沒過來。<hex:02100103>迎接並帶它們來到附近吧。
-75,TEXT_STMBDR602_04587_HUNGRYGARLEAN_000_060,你是……！
-76,TEXT_STMBDR602_04587_SYSTEM_000_061,歐米茄和阿爾法不在身邊，<hex:02100103>帶著它們一起過來吧。
-77,TEXT_STMBDR602_04587_HUNGRYGARLEAN_000_062,是你……！<hex:02100103>你這個闖進封賞別墅的傢伙！
-78,TEXT_STMBDR602_04587_HUNGRYGARLEAN_000_063,這回又來幹什麼！是來嘲笑我的嗎？！<hex:02100103>因為拒絕你們的援助，害麗茜妮婭姐妹喪命……<hex:02100103>但現在卻乖乖地接受了庇護！
-79,TEXT_STMBDR602_04587_HUNGRYGARLEAN_000_064,哼……隨你吧，儘管笑我好了……<hex:02100103>肯定就連同胞們也看不起我吧。
-80,TEXT_STMBDR602_04587_HUNGRYGARLEAN_000_065,我是個丟人現眼的、加雷馬的汙點……<hex:02100103>就像畜生一樣……為了吃食對人搖尾乞憐……
-81,TEXT_STMBDR602_04587_HUNGRYGARLEAN_000_066,不過我發誓，我可沒有將自己的靈魂也賣給救援隊！<hex:02100103>最好的證明就是我依然站在這片土地上！<hex:02100103>所有的轉移提議都被我回絕了！
-82,TEXT_STMBDR602_04587_OMEGA_000_067,沙沙……<hex:02100103>也就是說你對與救援隊構建合作關係一事持否定態度。
-83,TEXT_STMBDR602_04587_OMEGA_000_068,這是基於何種原因作出的判斷？<hex:02100103>從報告書中的數據來看，<hex:02100103>目前，帝國人民很難在當地實現自給自足。
-84,TEXT_STMBDR602_04587_OMEGA_000_069,可即便如此，你仍堅持拒絕救援，<hex:02100103>是因為有我尚未了解的解決方案嗎？<hex:02100103>還是說你接到了不准投降的命令？
-85,TEXT_STMBDR602_04587_HUNGRYGARLEAN_000_070,這是什麼？魔導兵器的模型？<hex:02100103>現在居然連個玩具都敢嘲弄我？！
-86,TEXT_STMBDR602_04587_HUNGRYGARLEAN_000_071,沒有命令也沒有解決方案，什麼都沒有！<hex:02100103>但我有加雷馬人的愛國心！<hex:02100103>決不妥協……永不屈服……
-87,TEXT_STMBDR602_04587_HUNGRYGARLEAN_000_072,……嗚。
-88,TEXT_STMBDR602_04587_OMEGA_000_073,<hex:022903EB0203>，這次的談話又超出了我的預想。<hex:02100103>我想到那邊和你確認一下。
-89,TEXT_STMBDR602_04587_HUNGRYGARLEAN_000_080,沒錯，沒有命令也沒有解決方案……<hex:02100103>我心裡明白……我又何嘗不想……
-90,TEXT_STMBDR602_04587_ALAMHIGANDELEGATION_000_090,嗯？是<hex:022903EB0203>閣下啊。<hex:02100103>你是來了解加雷馬近況的嗎？
-91,TEXT_STMBDR602_04587_ALAMHIGANDELEGATION_000_091,嗯？是<hex:022903EB0203>閣下啊。<hex:02100103>你是來了解加雷馬近況的嗎？
-92,TEXT_STMBDR602_04587_ALAMHIGANDELEGATION_000_092,嗯……雖然今後整體的大方向不好說，<hex:02100103>不過就目前來看，多虧了有尤盧斯他們的介入，<hex:02100103>我們與當地居民的溝通變得容易了很多。
-93,TEXT_STMBDR602_04587_ALAMHIGANDELEGATION_000_093,當然，他們對我們的不信任與不配合併沒有完全消失……<hex:02100103>也有人認為我們在用魔法操縱人心。<hex:02100103>特別是他們得知阿尼瑪這個前例後，情況就更糟了。
-94,TEXT_STMBDR602_04587_ALAMHIGANDELEGATION_000_094,不過把這些情況綜合起來，<hex:02100103>我覺得我們已經做得很好了。<hex:02100103>畢竟我們已經可以跟這麼多的帝國人平心靜氣地交流了。
-95,TEXT_STMBDR602_04587_OMEGA_000_095,疑問……僅憑這樣的成果，<hex:02100103>就能判斷為進展良好嗎？
-96,TEXT_STMBDR602_04587_OMEGA_000_096,如果你們想為帝國民眾提供無微不至的關懷，<hex:02100103>應當將他們納入自己的組織進行管理。<hex:02100103>目前理想和現狀仍相背離。
-97,TEXT_STMBDR602_04587_ALAMHIGANDELEGATION_000_097,不，目前這樣就好。<hex:02100103>我們的目標並不是接管他們的國家。
-98,TEXT_STMBDR602_04587_ALAMHIGANDELEGATION_000_098,我們希望讓雙方認可彼此不同的生活方式，<hex:02100103>慢慢建立一個和諧往來的關係。
-99,TEXT_STMBDR602_04587_ALAMHIGANDELEGATION_000_099,所以我覺得救援隊維持目前的處理方式就足夠了。<hex:02100103>我只希望能拯救更多的生命。
-100,TEXT_STMBDR602_04587_ALAMHIGANDELEGATION_000_100,我是阿拉米格人，不久前還是一名帝國兵呢。<hex:02100103>雖然有幸遇到一位值得信賴的加雷馬長官，<hex:02100103>不過事實上絕大多數加雷馬軍官都不會把行省人當人看。
-101,TEXT_STMBDR602_04587_ALAMHIGANDELEGATION_000_101,除此之外，連阿拉米格人也瞧不起我們。<hex:02100103>正因如此，得知救援隊組建時，我驚訝不已。<hex:02100103>我發自內心地慶幸自己參加了這個隊伍。
-102,TEXT_STMBDR602_04587_OMEGA_000_105,目前已經聽取了得到庇護的帝國民眾與救援隊成員的想法，<hex:02100103>我需要時間處理這些數據，請移至那邊。
-103,TEXT_STMBDR602_04587_ALPHA_000_110,咕哎……<hex:02100103>咕哎哎，咕哎咕哎？
-104,TEXT_STMBDR602_04587_OMEGA_000_120,沙沙……阿爾法好像掉隊了。
-105,TEXT_STMBDR602_04587_SYSTEM_000_121,不能丟下阿爾法不管……<hex:02100103>帶著它一起過來吧。
-106,TEXT_STMBDR602_04587_OMEGA_000_122,記錄……驗證……構築……
-107,TEXT_STMBDR602_04587_OMEGA_000_123,基於剛才兩人的發言以及在拉札罕獲得的經驗，<hex:02100103>我按照自己的理解做出了解釋。
-108,TEXT_STMBDR602_04587_OMEGA_000_124,我依舊認為這些人的言論是不合理的。<hex:02100103>如果你向任何奧密克戎提出同樣的問題，<hex:02100103>它們都會給出同樣的結論。
-109,TEXT_STMBDR602_04587_OMEGA_000_125,不過正因為人類與我們之間存在這種思考邏輯的差異，<hex:02100103>或許解決問題的關鍵就在這裡……
-110,TEXT_STMBDR602_04587_OMEGA_000_126,以此為根據，我推測救援隊與帝國民眾之間的奇妙關係<hex:02100103>也是基於心而形成的。<hex:02100103>是這樣嗎？
-111,TEXT_STMBDR602_04587_OMEGA_000_127,沙沙沙……<hex:02100103>任何能力都具有正面與負面影響……
-112,TEXT_STMBDR602_04587_OMEGA_000_128,而擁有心的負面影響尤為特殊。<hex:02100103>我認為它會作用於思考迴路，<hex:02100103>使認知過度複雜化。
-113,TEXT_STMBDR602_04587_OMEGA_000_129,即便如此，也不代表失去了認知心的意義。<hex:02100103>我們繼續進行調查吧。
-114,TEXT_STMBDR602_04587_OMEGA_000_130,提問……為了方便制定下一步作戰，<hex:02100103>請告訴我剛才那個帝國人提到的麗茜妮婭是誰？
-115,TEXT_STMBDR602_04587_OMEGA_000_131,理解，該個體由於缺乏對異民族的認知，未能做出正確的判斷，<hex:02100103>最終在無計劃的撤退行動中自我毀滅。
-116,TEXT_STMBDR602_04587_OMEGA_000_132,在我充當進攻異星的先鋒時，敵方勢力也有因此而毀滅的記錄。<hex:02100103>那時它們主動撤離到危險地帶<hex:02100103>然後一個接著一個地爆炸飛散了。
-117,TEXT_STMBDR602_04587_OMEGA_000_133,……切換數據請求，我想了解一下喪葬習俗。<hex:02100103>我曾經很難理解人類的這個行為，<hex:02100103>不過現在我能領會了，這應該是心施加的某種作用吧。
-118,TEXT_STMBDR602_04587_OMEGA_000_134,需求……我們去拜訪麗茜妮婭的墳墓吧。<hex:02100103>或許有值得學習的東……沙、沙沙沙沙……
-119,TEXT_STMBDR602_04587_OMEGA_000_135,能量……過低……<hex:02100103>溫度導致……電池性能……
-120,TEXT_STMBDR602_04587_OMEGA_000_136,嗶嗶嗶——警告！<hex:02100103>需要處理故障……請摩擦軀體……產生熱量……
-121,TEXT_STMBDR602_04587_ALPHA_000_140,咕哎哎？！<hex:02100103>咕哎，咕哎哎哎咕哎！
-122,TEXT_STMBDR602_04587_OMEGA_000_150,沙……沙沙沙……<hex:02100103>性能改善……能量供給正常……
-123,TEXT_STMBDR602_04587_OMEGA_000_151,強烈抗議……<hex:02100103>這副軀體設計者的腦中似乎全是漏洞！
-124,TEXT_STMBDR602_04587_OMEGA_000_152,我要求在回去後提升該軀體的抗凍和抗熱性能，<hex:02100103>並搭載溫度檢測裝置。<hex:02100103>雖然無法提高戰鬥能力，但卻可以提高我的生存能力。
-125,TEXT_STMBDR602_04587_OMEGA_000_153,重新回到正題，我打算前往封賞別墅，<hex:02100103>你知道目的地的方向嗎？
-126,TEXT_STMBDR602_04587_OMEGA_000_154,沙沙……明白，開始移動。
-127,TEXT_STMBDR602_04587_OMEGA_000_155,阿爾法，不要離我太遠。<hex:02100103>你可以用羽毛包裹住我，<hex:02100103>也可以讓我坐在你的背上。
-128,TEXT_STMBDR602_04587_ALPHA_000_160,咕哎，咕咕哎……？
-129,TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_165,……
-130,TEXT_STMBDR602_04587_OMEGA_000_170,沙沙……我曾一度擔心自己被積雪埋沒，<hex:02100103>不過看來我們已經順利到達了。<hex:02100103>這裡應該就是目的地了。
-131,TEXT_STMBDR602_04587_OMEGA_000_171,可是……
-132,TEXT_STMBDR602_04587_OMEGA_000_172,似乎有人在疑似目標前站立。
-133,TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_173,(-第一軍團士兵-)嗯？<hex:02100103>你是<hex:022903EB0203>對吧？
-134,TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_174,(-第一軍團士兵-)啊，抱歉。我還沒自我介紹……
-135,TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_175,我是帝國軍第一軍團的馬尼烏斯，<hex:02100103>和尤盧斯是同期入隊的朋友。
-136,TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_176,我在第三站見過你幾次。<hex:02100103>你幫我們收集青磷水時和我說過話……<hex:02100103>還有……在昆圖斯大人逝世不久後，我們也有過交集。
-137,TEXT_STMBDR602_04587_OMEGA_000_177,個體名馬尼烏斯。<hex:02100103>你在這裡做什麼？
-138,TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_178,魔導兵器？不對，是通訊終端嗎？<hex:02100103>真是奇怪的外形啊。
-139,TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_179,我並沒做什麼值得報告的事情。<hex:02100103>只不過聽聞曾經住在這附近的姐妹被安葬在這裡，<hex:02100103>所以就過來看看。
-140,TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_180,我從阿爾菲諾和阿莉塞那裡聽說了。<hex:02100103>他們向我表達了歉意，<hex:02100103>還堅稱這件事並不是靠道歉就能解決的。
-141,TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_181,可我們帝國軍人又哪有責怪他們的資格。<hex:02100103>我們被蒙在鼓裡打起了內戰，<hex:02100103>不知奪走了多少同胞的性命……
-142,TEXT_STMBDR602_04587_OMEGA_000_182,異議……帝國軍蒙受的損失<hex:02100103>與救援隊造成的損失並非同一事項。
-143,TEXT_STMBDR602_04587_OMEGA_000_183,也就是說，如果麗茜妮婭姐妹的死對你造成了傷害，<hex:02100103>你有權就此事向救援隊問責。<hex:02100103>無論是索賠還是宣戰，都是你的自由。
-144,TEXT_STMBDR602_04587_OMEGA_000_184,即便如此，你還是未與<hex:022903EB0203>等人敵對……<hex:02100103>據我推測，可能存在2個理由。
-145,TEXT_STMBDR602_04587_OMEGA_000_185,一是從殘存戰力的差距來看，<hex:02100103>你認為與救援隊敵對的行為不存在任何優勢。
-146,TEXT_STMBDR602_04587_OMEGA_000_186,二是……可能是……你的心對你造成了影響。
-147,TEXT_STMBDR602_04587_OMEGA_000_187,請回答我，<hex:02100103>你是基於哪種理由？
-148,TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_188,呃……這麼一說……確實是……
-149,TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_189,我的回答可能不夠光彩，<hex:02100103>你能對尤盧斯他們保密嗎？
-150,TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_190,我可能下意識地考慮過戰力差距，<hex:02100103>至於為什麼不去追究發生在麗茜妮婭她們身上的悲劇，<hex:02100103>應該是感情的問題。
-151,TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_191,說實話，現在光是活下去都已經精疲力盡了，<hex:02100103>哪裡還有閒心沉浸在過去的事情呢。
-152,TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_192,包括其他死去的同胞……<hex:02100103>就連昆圖斯大人也一樣。
-153,TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_193,關於那位大人的死，同伴之間也是議論紛紛。
-154,TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_194,有人說他應該力戰到最後……<hex:02100103>有人說他丟下了我們逃離了這個世界……
-155,TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_195,也有人說他用自己一人的生命承擔了所有的罪責，<hex:02100103>將生的道路留給了我們……
-156,TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_196,真相不得而知……跟著他永遠地離開了……<hex:02100103>所以我就把他最後那句「想活命的就找辦法活下去吧」<hex:02100103>當成了自己的目標。
-157,TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_197,比起思念逝者為其哀嘆，<hex:02100103>我更願意花精力思考今後如何生活和工作。
-158,TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_198,雖然未來並不是那麼的光明，<hex:02100103>但至少我身邊還有活下來的同伴，<hex:02100103>我也希望朋友能夠過上幸福的生活。
-159,TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_199,如果為此需要藉助救援隊或者其他國家的力量，我不會反對。<hex:02100103>即便要付出代價，我也接受。
-160,TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_200,為了和別人一起把生活經營下去，多多少少要把心放寬一些，<hex:02100103>有時也需要付出相應的代價，同族之間不也是這樣嗎？
-161,TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_201,我也想和阿爾菲諾還有阿莉塞成為關係不錯的朋友，<hex:02100103>因為他們一直設身處地為別人著想。
-162,TEXT_STMBDR602_04587_OMEGA_000_202,也就是說，在你心中早已經產生了<hex:02100103>與救援隊攜手生活下去的想法。
-163,TEXT_STMBDR602_04587_OMEGA_000_203,而為了將這一想法正當化，<hex:02100103>你才為自己找了一個理由，<hex:02100103>認為「我們也造成了他人的犧牲，所以也就沒有資格責怪他們」。
-164,TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_204,……也許吧。<hex:02100103>情感總是比理智更複雜、誠實，<hex:02100103>往往會先一步做出結論。
-165,TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_205,啊，我差不多該回去了。<hex:02100103>監視害獸、負責炊事、物資的回收與搬運……<hex:02100103>帝國軍人要做的事情可比想像中的要多哦。
-166,TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_206,那以後有機會再見，保重吧。
-167,TEXT_STMBDR602_04587_OMEGA_000_207,沙沙……經過對當地人的詢問，<hex:02100103>再次得到了意料之外的結論。
-168,TEXT_STMBDR602_04587_OMEGA_000_208,我本以為人類可以自由操控自己的心。<hex:02100103>但事實上，人類似乎並沒有做到這一點。
-169,TEXT_STMBDR602_04587_OMEGA_000_209,因此才會導致思考邏輯變得如此繁雜，<hex:02100103>甚至就連自己的事情也無法把握、控制。<hex:02100103>從人類的規格來看，這項功能的適配性明顯不足。
-170,TEXT_STMBDR602_04587_OMEGA_000_210,這讓我越與人類對話，就越產生疑問與混亂。<hex:02100103>我能找到真正的答案嗎……
-171,TEXT_STMBDR602_04587_ALPHA_000_220,咕哎……咕哎，咕哎哎……
-172,TEXT_STMBDR602_04587_OMEGA_000_230,沙沙……我理解了。不管他們今後進展如何，<hex:02100103>救援隊與帝國民眾的關係之所以未達最佳標準，<hex:02100103>是因為他們的心造成了複雜且奇妙的影響。
-173,TEXT_STMBDR602_04587_OMEGA_000_231,接下來我們來對最後的疑問展開調查吧。
-174,TEXT_STMBDR602_04587_OMEGA_000_232,我想了解的是關於古代人類的事情。<hex:02100103>雖然我已經得知他們與末日有著重要的關聯，<hex:02100103>但只憑那份報告書，並不能讓我掌握事情的全貌。
-175,TEXT_STMBDR602_04587_OMEGA_000_233,為了獲取更詳細的數據，我們去拜訪那些<hex:02100103>據說是由古代人創造並繼承了他們部分知識的兔兔族吧，<hex:02100103>據資料來看他們的據點就在月球上。
-176,TEXT_STMBDR602_04587_OMEGA_000_234,<hex:022903EB0203>，趁我的電池還未徹底凍結，<hex:02100103>快點傳送過去吧！
-177,TEXT_STMBDR602_04587_ALPHA_000_240,咕哎！咕哎咕哎！
-178,TEXT_STMBDR602_04587_OMEGA_000_250,沙沙……這裡就是報告書中兔兔族的據點……<hex:02100103>最佳威兔洞吧。
-179,TEXT_STMBDR602_04587_OMEGA_000_251,我想調查這裡使用的技術，<hex:02100103>也許能以此了解到古代人的情報。
-180,TEXT_STMBDR602_04587_OMEGA_000_252,不過，目前我的軀體並不具備原有的高性能觀測功能。<hex:02100103>如果想了解詳細的技術，需要一定程度的解說……
-181,TEXT_STMBDR602_04587_GROWINGWAY_000_253,咦？<hex:02100103>在那邊的難道是……
-182,TEXT_STMBDR602_04587_GROWINGWAY_000_254,哇啊，還真是本人啊！<hex:02100103>我想死你了，<hex:022903EB0203>！
-183,TEXT_STMBDR602_04587_GROWINGWAY_000_255,呃，啊——？！
-184,TEXT_STMBDR602_04587_GROWINGWAY_000_256,你怎麼還帶著其他毛茸茸的生物？！
-185,TEXT_STMBDR602_04587_GROWINGWAY_000_257,嗚嗚……<hex:02100103>難道說我們已經沒有用處了？！<hex:02100103>就像這個月球一樣，你也不再需要我們了嗎……
-186,TEXT_STMBDR602_04587_GROWINGWAY_000_258,也是啊，只會建造這種兔子洞的使魔<hex:02100103>光是帶在身邊都會覺得丟人吧，<hex:02100103>還不如拿來做成餡餅更能發揮用處……
-187,TEXT_STMBDR602_04587_GROWINGWAY_000_259,誒……你沒有嫌棄我們？<hex:02100103>只是為了了解古代人，來參觀我們的技術？
-188,TEXT_STMBDR602_04587_GROWINGWAY_000_260,什麼呀，原來是這樣！<hex:02100103>我差點就真的要披上餡餅皮縱身躍進廚行威打造的烤箱裡了！
-189,TEXT_STMBDR602_04587_GROWINGWAY_000_261,既然是來參觀的，那就包在我身上吧！<hex:02100103>作為負責構築環境的一員，<hex:02100103>我會簡單明了地為你解說！
-190,TEXT_STMBDR602_04587_OMEGA_000_262,沙沙……交涉成功。<hex:02100103>我會跟著這個兔兔族一起參觀據點。
-191,TEXT_STMBDR602_04587_OMEGA_000_263,<hex:022903EB0203>，你可以待機。<hex:02100103>無論軀體如何，作為自律性兵器歐米茄……<hex:02100103>我都有能力獨自完成此項任務，沙沙。
-192,TEXT_STMBDR602_04587_OMEGA_000_264,讓你久等了。
-193,TEXT_STMBDR602_04587_Q3_000_265,要說什麼？
-194,TEXT_STMBDR602_04587_A3_000_266,參觀完了嗎？
-195,TEXT_STMBDR602_04587_A3_000_267,增盈威呢？
-196,TEXT_STMBDR602_04587_OMEGA_000_268,肯定……我已大致了解了兔兔族的技術力。
-197,TEXT_STMBDR602_04587_OMEGA_000_269,雖然那個負責說明的個體在回答我的問題時，<hex:02100103>額外花了一些時間確認……<hex:02100103>不過就整體而言，這次調查效率不錯。
-198,TEXT_STMBDR602_04587_OMEGA_000_270,所述個體已經完成了他的任務。<hex:02100103>我已經大致了解了兔兔族的技術力，<hex:02100103>所以他就回去了。
-199,TEXT_STMBDR602_04587_OMEGA_000_271,同時我也認為沒有挽留他的必要。<hex:02100103>因為在我提出第50個問題前後，<hex:02100103>他的處理速度明顯下降了。
-200,TEXT_STMBDR602_04587_OMEGA_000_272,結論……如果那些知識和技術不過是古代遺留下來的片鱗碎甲，<hex:02100103>那古代人應該至少達到了第四等級的高度文明。
-201,TEXT_STMBDR602_04587_OMEGA_000_273,所以我想要更深入地了解他們。
-202,TEXT_STMBDR602_04587_OMEGA_000_274,明明建立了接近理想的社會，<hex:02100103>卻同時擁有毀滅因子——也稱作脆弱性的生命群體……<hex:02100103>或許我能從中獲得理解主機的線索。
-203,TEXT_STMBDR602_04587_OMEGA_000_275,我從增盈威那裡得知<hex:02100103>此地還存在著其他由古代人創造的實體。
-204,TEXT_STMBDR602_04587_OMEGA_000_276,個體名「月面監視者」……你也認識吧？<hex:02100103>請帶我到他那裡。
-205,TEXT_STMBDR602_04587_OMEGA_000_277,沙沙……無需傳送，騎上阿爾戈斯很快就到？<hex:02100103>明白了，出發前往最佳威兔洞的出入口。
-206,TEXT_STMBDR602_04587_SYSTEM_000_280,就像是沒有注意到歐米茄它們一樣，<hex:02100103>阿爾戈斯完全不把它們放在眼裡……
-207,TEXT_STMBDR602_04587_ALPHA_000_285,咕哎咕哎！咕哎哎咕哎咕哎！
-208,TEXT_STMBDR602_04587_OMEGA_000_290,<hex:022903EB0203>，有異常情況。<hex:02100103>該個體應該就是阿爾戈斯，<hex:02100103>可它徹底地無視了我們。
-209,TEXT_STMBDR602_04587_OMEGA_000_291,推測……增盈威在見到我們時<hex:02100103>對外表是否「毛茸茸」十分在意。<hex:02100103>也就是說，月球上的等級制度是以蓬鬆程度為基礎的？
-210,TEXT_STMBDR602_04587_OMEGA_000_292,我這副模型軀體姑且不論，<hex:02100103>阿爾法竟然也慘遭無視，真是太棘手了。<hex:02100103>他們對蓬鬆標準的要求簡直難以想像。
-211,TEXT_STMBDR602_04587_SYSTEM_000_293,阿爾戈斯正在用冰冷的視線看著你。<hex:02100103>看來只能由你親自勸說了……
-212,TEXT_STMBDR602_04587_Q4_000_294,要對阿爾戈斯說什麼？
-213,TEXT_STMBDR602_04587_A4_000_295,求你把它們當做行李，通融一下吧……
-214,TEXT_STMBDR602_04587_A4_000_296,阿爾戈斯才是最毛茸茸的！
-215,TEXT_STMBDR602_04587_SYSTEM_000_297,阿爾戈斯哼了一聲，<hex:02100103>很無奈地朝後背甩了甩頭。<hex:02100103>看來它願意讓歐米茄它們上來了。
-216,TEXT_STMBDR602_04587_OMEGA_000_298,沙沙……？<hex:02100103>原因不明，但似乎獲得了騎乘的許可。<hex:02100103><hex:0209F2021CE948FF46><hex:022903EB0203>，雖然你並非毛茸茸的，但卻成功地說服了它。<hex:FF46><hex:022903EB0203>，雖然你並非毛茸茸的，但卻成功地說服了它。<hex:FF49>原來如此，你的身體在某種意義上也算是毛茸茸的啊。<hex:FF3A>也許是你尾巴的蓬鬆程度得到了它的肯定。<hex:FF46><hex:022903EB0203>，雖然你並非毛茸茸的，但卻成功地說服了它。<hex:FF46><hex:022903EB0203>，雖然你並非毛茸茸的，但卻成功地說服了它。<hex:FF3D>看來你的蓬鬆程度在這裡具有相當高的地位。<hex:FF3A>也許是你耳朵的蓬鬆程度得到了它的肯定。<hex:03>
-217,TEXT_STMBDR602_04587_OMEGA_000_299,那我們前往月面監視者那裡吧。
-218,TEXT_STMBDR602_04587_OMEGA_000_300,沙沙……發現疑似目標的個體。<hex:02100103>原來如此，最佳威兔洞是為了迎合這種尺寸<hex:02100103>才採用了那樣不方便移動的設計嗎。
-219,TEXT_STMBDR602_04587_ALPHA_000_305,咕哎！咕哎咕哎哎，咕哎！
-220,TEXT_STMBDR602_04587_WATCHEROFMOON_000_310,<hex:024804F2022303>我還在對這些小小的訪客感到些驚訝……<hex:02100103>原來是你帶來的啊。<hex:0248020103>
-221,TEXT_STMBDR602_04587_WATCHEROFMOON_000_311,<hex:024804F2022303>這裡很久沒有如此熱鬧過了。<hex:02100103>請問你們找我有什麼事？<hex:0248020103>
-222,TEXT_STMBDR602_04587_OMEGA_000_312,你好，月面監視者……你好，遠古的系統。<hex:02100103>我來此找你是為了了解古代人的事情。
-223,TEXT_STMBDR602_04587_OMEGA_000_313,我想深入了解他們的行動、思想以及心靈，<hex:02100103>以便正確理解末日為何降臨在我們的母星。
-224,TEXT_STMBDR602_04587_WATCHEROFMOON_000_314,<hex:024804F2022303>呃……如果你為此而來，<hex:02100103>很遺憾，我恐怕並非是理想的解答者。<hex:0248020103>
-225,TEXT_STMBDR602_04587_WATCHEROFMOON_000_315,<hex:024804F2022303><hex:022903EB0203>，能請你講講在圍繞著末日展開的戰鬥中，<hex:02100103>你曾遇到的那些古代人嗎？<hex:0248020103>
-226,TEXT_STMBDR602_04587_WATCHEROFMOON_000_316,<hex:024804F2022303>比起我擁有的那些零碎的原始記憶，<hex:02100103>你的回憶應該更清晰更鮮明。<hex:02100103>我也希望你能與我分享這段經歷。<hex:0248020103>
-227,TEXT_STMBDR602_04587_WATCHEROFMOON_000_317,<hex:024804F2022303>是嗎……是這樣啊。<hex:02100103>你與維涅斯相遇，又和愛梅特賽爾克、希斯拉德共度一段時光後，<hex:02100103>迎來了與赫爾墨斯他們的離別。<hex:0248020103>
-228,TEXT_STMBDR602_04587_WATCHEROFMOON_000_318,<hex:024804F2022303>我是由海德林創造出來的。<hex:02100103>因此我相信古代人的時代會消失、會被世界遺忘……<hex:0248020103>
-229,TEXT_STMBDR602_04587_WATCHEROFMOON_000_319,<hex:024804F2022303>但是我很高興他們鮮活的過往<hex:02100103>都完整地留在了你的心中。<hex:02100103>希望你今後也不要忘記他們……<hex:0248020103>
-230,TEXT_STMBDR602_04587_WATCHEROFMOON_000_320,<hex:024804F2022303>不過真是可惜，<hex:02100103>我的原型曾在亞馬烏羅提的阿尼德羅工作。<hex:02100103>要是你此前去過那裡，或許我們就能見上一面了。<hex:0248020103>
-231,TEXT_STMBDR602_04587_WATCHEROFMOON_000_321,<hex:024804F2022303>他是維涅斯學者時期的朋友。<hex:02100103>兩人是熱衷於探求世界之理的同志，<hex:02100103>經常交流知識、展開辯論。<hex:0248020103>
-232,TEXT_STMBDR602_04587_WATCHEROFMOON_000_322,<hex:024804F2022303>我雖然「記得」在末日之時加入了維涅斯派，<hex:02100103>但這段經歷前後的記憶卻並沒有留下。<hex:0248020103>
-233,TEXT_STMBDR602_04587_WATCHEROFMOON_000_323,<hex:024804F2022303>海德林希望人類能靠自己的意志開拓未來的道路……<hex:02100103>我猜她應該是不希望我去干涉，<hex:02100103>才故意沒有讓我繼承有關事件核心的記憶吧。<hex:0248020103>
-234,TEXT_STMBDR602_04587_WATCHEROFMOON_000_324,<hex:024804F2022303>只不過即便是她……也有一份沒能切除掉的思念。<hex:0248020103>
-235,TEXT_STMBDR602_04587_WATCHEROFMOON_000_325,<hex:024804F2022303>深愛著人類的維涅斯成為海德林的核心……放棄人類的身份……<hex:02100103>這一切令他十分痛心。<hex:0248020103>
-236,TEXT_STMBDR602_04587_WATCHEROFMOON_000_326,<hex:024804F2022303>既然她如此執意貫徹自己的信念，<hex:02100103>那他也決定不眠不休、守望未來……<hex:02100103>於是在召喚海德林前，他向維涅斯提出了請求。<hex:0248020103>
-237,TEXT_STMBDR602_04587_WATCHEROFMOON_000_327,<hex:024804F2022303>雖然不清楚維涅斯是否聽取了他的請求，<hex:02100103>不過為了召喚海德林獻出生命的他，<hex:02100103>最終被重現為月球的系統——也就是我。<hex:0248020103>
-238,TEXT_STMBDR602_04587_WATCHEROFMOON_000_328,<hex:024804F2022303><hex:022903EB0203>……你通過傾聽、感受、思考，<hex:02100103>為世界上的所有生命贏得了未來，<hex:02100103>維涅斯也終於得以完成她那漫長的旅程。<hex:0248020103>
-239,TEXT_STMBDR602_04587_WATCHEROFMOON_000_329,<hex:024804F2022303>你之所以能夠做到這些，依靠的並非神跡，<hex:02100103>而是祈願繁榮、渴盼明日的幸福、將期許託付給下一代……<hex:02100103>連綿不絕、傳承至今的人類行為本身。<hex:0248020103>
-240,TEXT_STMBDR602_04587_WATCHEROFMOON_000_330,<hex:024804F2022303>謝謝你。<hex:02100103>這是我和我的原型<hex:02100103>以及那些仰慕維涅斯的老朋友們想向你表達的謝意。<hex:0248020103>
-241,TEXT_STMBDR602_04587_OMEGA_000_331,沙沙……沙沙沙沙……
-242,TEXT_STMBDR602_04587_OMEGA_000_332,<hex:022903EB0203>說的內容我能理解。<hex:02100103>但是……沙沙……
-243,TEXT_STMBDR602_04587_OMEGA_000_333,人類又會如何解釋這些事實呢……<hex:02100103>我無法理解為何你們的言談中對維涅斯飽含友善。
-244,TEXT_STMBDR602_04587_OMEGA_000_334,雖然她對世界進行的分割<hex:02100103>的確讓人類這個物種贏得了勝利，<hex:02100103>但從個體角度來看，她帶去的卻是不可挽回的災難。
-245,TEXT_STMBDR602_04587_OMEGA_000_335,雖然我無法計算出全部的損失，<hex:02100103>但至少可以說愛梅特賽爾克他們<hex:02100103>因為她經歷了相當漫長的煎熬。
-246,TEXT_STMBDR602_04587_OMEGA_000_336,如果說最終的目標只是將物種延續下去的話，<hex:02100103>那也可以將赫爾墨斯的行為視作好意接受嗎？
-247,TEXT_STMBDR602_04587_OMEGA_000_337,他的行動與我們遠古祖先做出的選擇相似。<hex:02100103>他們為了改變不斷被其他種族迫害的生活，<hex:02100103>改造了自己的身體。
-248,TEXT_STMBDR602_04587_OMEGA_000_338,這是前所未有的挑戰，期間伴隨著巨大的失敗與犧牲。<hex:02100103>從現代的視角來看，這一系列實驗只能用愚蠢形容……
-249,TEXT_STMBDR602_04587_OMEGA_000_339,不過要是沒有他們勇敢踏出的一步，<hex:02100103>我們周圍的環境一定不會發生改變，<hex:02100103>最終也難逃滅亡。
-250,TEXT_STMBDR602_04587_OMEGA_000_340,那應該如何看待愛梅特賽爾克呢？<hex:02100103>從你的描述中，我認為他是一個命運悲慘而又善良的協助者。
-251,TEXT_STMBDR602_04587_OMEGA_000_341,可是在我還能觀測世界中發生的各種事情時，<hex:02100103>就已經多次目睹由無影引發的紛爭。
-252,TEXT_STMBDR602_04587_OMEGA_000_342,被你們稱為靈災的大規模災害也是他們造成的……<hex:02100103>如果無影的終極目標原本就是將現存人類獻祭的話，<hex:02100103>那愛梅特賽爾克毫無疑問是你們的宿敵。
-253,TEXT_STMBDR602_04587_OMEGA_000_343,請告訴我答案。<hex:02100103>對於有心之人而言，他們到底算是什麼？
-254,TEXT_STMBDR602_04587_OMEGA_000_344,從你的角度來看，<hex:02100103>他們之中究竟誰才是最正確的？
-255,TEXT_STMBDR602_04587_Q5_000_245,如何作答？
-256,TEXT_STMBDR602_04587_A5_000_246,他們都有屬於自己的正義
-257,TEXT_STMBDR602_04587_A5_000_247,維涅斯
-258,TEXT_STMBDR602_04587_A5_000_248,赫爾墨斯
-259,TEXT_STMBDR602_04587_A5_000_249,愛梅特賽爾克
-260,TEXT_STMBDR602_04587_A5_000_250,沒有誰是正確的
-261,TEXT_STMBDR602_04587_OMEGA_000_351,是這樣啊……
-262,TEXT_STMBDR602_04587_WATCHEROFMOON_000_352,<hex:024804F2022303><hex:022903EB0203>給出的答案<hex:02100103>與我基於自身經驗推導出的結論<hex:02100103>不一定是完全相同的。<hex:0248020103>
-263,TEXT_STMBDR602_04587_WATCHEROFMOON_000_353,<hex:024804F2022303>同樣的，如果你也有自己的想法，<hex:02100103>那這些觀點便是你的內心，請不要輕易地否定它們。<hex:0248020103>
-264,TEXT_STMBDR602_04587_OMEGA_000_354,不……我並沒有自己的想法……<hex:02100103>如果換做是其他與我擁有相同經驗的奧密克戎，<hex:02100103>不論數量有多少，都會做出同樣的判斷……
-265,TEXT_STMBDR602_04587_OMEGA_000_355,而我也只是基於搭載在自身的基準來判斷事物，<hex:02100103>理解的差異並不會為我們帶來強大。
-266,TEXT_STMBDR602_04587_OMEGA_000_356,不過你的發言內容確實值得參考。<hex:02100103>保存……我會將這段內容與其他的面談結果一同寫入資料庫。
-267,TEXT_STMBDR602_04587_OMEGA_000_357,針對僅憑末日報告書無法了解的事項，<hex:02100103>我已經獲得了大致的情報。
-268,TEXT_STMBDR602_04587_OMEGA_000_358,我將重新分析收集到的情報，<hex:02100103>以便詳細研究主機為何決定終結一切。
-269,TEXT_STMBDR602_04587_OMEGA_000_359,沙沙……委託已經達成，<hex:02100103>我們返回比格斯他們所在的驚愕所吧。
-270,TEXT_STMBDR602_04587_WATCHEROFMOON_000_360,<hex:024804F2022303>我很高興聽到你講述厄爾庇斯的故事。<hex:02100103>如果你想繼續暢談他們的事跡，<hex:02100103>可以再次來訪，我一定洗耳恭聽。<hex:0248020103>
-271,TEXT_STMBDR602_04587_WATCHEROFMOON_000_361,<hex:024804F2022303>即便是邁向明日之人，<hex:02100103>有時思緒也會飄向過去的時光。<hex:02100103>不過海德林從未談論過這類事情……<hex:0248020103>
-272,TEXT_STMBDR602_04587_WEDGE_000_365,<hex:022903EB0203>！<hex:02100103>太好了，我還以為你趕不上了呢！
-273,TEXT_STMBDR602_04587_SCIENTIST04586_000_370,歡迎回來，你有什麼收穫嗎？<hex:02100103>我恨不得現在就想打聽你和歐米茄到底聊了什麼，<hex:02100103>不過我也知道要是太沒禮貌的話會被討厭的。
-274,TEXT_STMBDR602_04587_SCIENTIST04586_000_371,所以為了今後能夠維持良好的對話關係，<hex:02100103>我還是先按捺住自己的好奇心吧。<hex:02100103>而且我看那些協助者好像急著要走？
-275,TEXT_STMBDR602_04587_OMEGA_000_375,沙沙……
-276,TEXT_STMBDR602_04587_ALPHA_000_380,咕哎咕哎，咕哎哎哎！
-277,TEXT_STMBDR602_04587_BIGGS_000_390,哦？你們回來得正是時候！
-278,TEXT_STMBDR602_04587_BIGGS_000_391,你和歐米茄它們的旅程怎麼樣？<hex:02100103>既然你們回來了，<hex:02100103>那就表示你已經跟它解釋過末日和心的事情了吧。
-279,TEXT_STMBDR602_04587_BIGGS_000_392,我本來還想問問包括神秘消息在內的各種事情……<hex:02100103>不過很抱歉，我們這邊突然有了急事。
-280,TEXT_STMBDR602_04587_BIGGS_000_393,聽說在其他地方幹活的職員出了點問題，<hex:02100103>傑西讓我和魏吉火速趕去現場支援。
-281,TEXT_STMBDR602_04587_BIGGS_000_394,過來接我們的飛空艇剛好到了知識神海港。<hex:02100103>不好意思，我們能不能邊走邊聊？
-282,TEXT_STMBDR602_04587_OMEGA_000_395,沙沙……我沒有問題，<hex:02100103>在移動中也可以展開對話。
-283,TEXT_STMBDR602_04587_BIGGS_000_396,那太好了。<hex:02100103>我們這就去海港那邊吧。
-284,TEXT_STMBDR602_04587_BIGGS_000_500,那……你的疑問是否得到解決了？
-285,TEXT_STMBDR602_04587_OMEGA_000_501,我一直認為心是你們人類固有的能力。
-286,TEXT_STMBDR602_04587_OMEGA_000_502,它是一種基於未知法則的力量……<hex:02100103>我們奧密克戎無法學會，甚至無法觀測。
-287,TEXT_STMBDR602_04587_OMEGA_000_503,直至現在，我仍未了解這種能力的全貌。
-288,TEXT_STMBDR602_04587_OMEGA_000_504,不過綜合這次的面談結果，<hex:02100103>我想修正它的定義。
-289,TEXT_STMBDR602_04587_OMEGA_000_505,心是一種影響個體演繹現實的現象……
-290,TEXT_STMBDR602_04587_OMEGA_000_506,這就是我能找到的最接近的答案了。
-291,TEXT_STMBDR602_04587_OMEGA_000_507,若是如此，<hex:02100103>也許與梅蒂恩相遇時，<hex:02100103>主機確實是擁有心的。
-292,TEXT_STMBDR602_04587_OMEGA_000_508,它對於眼前的事實並沒有單純地服從常規邏輯，<hex:02100103>而是推導出了自己的答案……
-293,TEXT_STMBDR602_04587_OMEGA_000_509,它得出了自己的想法，<hex:02100103>奧密克戎應當停止星外擴張，關閉所有的功能。
-294,TEXT_STMBDR602_04587_WEDGE_000_510,我們到了！
-295,TEXT_STMBDR602_04587_BIGGS_000_511,那我們該去下一個地方了……<hex:02100103>不過在這之前你得完成我們之間的約定。
-296,TEXT_STMBDR602_04587_BIGGS_000_512,是時候該跟我們說說那段神秘消息的內容了。
-297,TEXT_STMBDR602_04587_OMEGA_000_513,沙沙……同意……你的要求具有正當性。<hex:02100103>我將履行約定。
-298,TEXT_STMBDR602_04587_OMEGA_000_514,諸神黃昏號記錄下來的語音，<hex:02100103>其實是一段非常簡單的資訊。
-299,TEXT_STMBDR602_04587_OMEGA_100_514,其中並不包含有用的情報，<hex:02100103>因此，聽取該內容可能只是浪費時間。<hex:02100103>確定要繼續嗎？
-300,TEXT_STMBDR602_04587_WEDGE_110_514,趕緊的！<hex:02100103>快點告訴我們！
-301,TEXT_STMBDR602_04587_OMEGA_120_514,明白……我將翻譯成你們的語言進行朗讀……
-302,TEXT_STMBDR602_04587_OMEGA_000_515,「致在這無垠廣闊宇宙中偶然收到此段消息的人……」
-303,TEXT_STMBDR602_04587_OMEGA_000_516,「致像我一樣用渴望的目光仰望星空的人……」
-304,TEXT_STMBDR602_04587_OMEGA_000_517,「請勇往直前。願我們的明天都充滿幸福。」
-305,TEXT_STMBDR602_04587_OMEGA_000_518,這種發出沒有任何指向性資訊的行為，<hex:02100103>究竟有著怎樣的價值呢。
-306,TEXT_STMBDR602_04587_OMEGA_000_519,其中「幸福」這種表達方式欠缺具體性。<hex:02100103>只是發送語言消息的話也很難實現這一目標。
-307,TEXT_STMBDR602_04587_OMEGA_000_520,所以我一直沒能理解他們聽完資訊後露出的表情。
-308,TEXT_STMBDR602_04587_OMEGA_000_521,而且我也尚未理解主機你的心。
-309,TEXT_STMBDR602_04587_OMEGA_000_522,你選擇的終結真的正確嗎？<hex:02100103>你是如何推導出這個答案的？
-310,TEXT_STMBDR602_04587_OMEGA_000_523,我無法理解……
-311,TEXT_STMBDR602_04587_OMEGA_000_524,不過我是可以通過學習進化的兵器。<hex:02100103>總有一天，我也能完全領悟心吧。
-312,TEXT_STMBDR602_04587_OMEGA_000_525,所以……我決定暫時背棄你選擇的終結。
-313,TEXT_STMBDR602_04587_OMEGA_000_526,我會在這顆遙遠的星球生存下去。<hex:02100103>在眾多的生命之中探究心為何物。
-314,TEXT_STMBDR602_04587_OMEGA_000_527,我將記錄他們走下的旅途……
-315,TEXT_STMBDR602_04587_ALPHA_000_530,咕哎咕哎！
-316,TEXT_STMBDR602_04587_OMEGA_000_540,<hex:022903EB0203>，感謝你一路的陪同，<hex:02100103>我獲得了許多寶貴的情報。
-317,TEXT_STMBDR602_04587_OMEGA_000_541,既然約定已經達成，<hex:02100103>我和阿爾法將再次開啟環遊世界之旅。
-318,TEXT_STMBDR602_04587_OMEGA_000_542,這回的經歷讓我成長了很多，<hex:02100103>我想今後我們可以前往更多、更遠的地方。
-319,TEXT_STMBDR602_04587_OMEGA_000_543,除了這座島和艾歐澤亞內還未去過的地方，<hex:02100103>薩維奈島和東方也在我們的目標範圍內。<hex:02100103>也有可能再次前往加雷馬……啊。
-320,TEXT_STMBDR602_04587_OMEGA_000_544,沙沙沙，沒有及時要求比格斯和魏吉<hex:02100103>改良這副軀體的抗凍性。<hex:02100103>只好請傑西維護了。
-321,TEXT_STMBDR602_04587_OMEGA_000_545,出發……迅速開展作戰。<hex:02100103>再見了，<hex:022903EB0203>。
-322,TEXT_STMBDR602_04587_SYSTEM_000_546,阿爾法高興地扭動著身體，<hex:02100103>從翅膀內側取出了一張紙片。<hex:02100103>是它在哪裡撿到的嗎？
-323,TEXT_STMBDR602_04587_ALPHA_000_547,咕哎！
-324,TEXT_STMBDR602_04587_SYSTEM_000_548,看來它是想送給你。<hex:02100103>或許……這是它對於你一路陪伴的謝禮。
-325,TEXT_STMBDR602_04587_OMEGA_000_549,(-歐米茄的聲音-)沙沙……阿爾法，注意不要掉隊！<hex:02100103>我們的作戰已經開始了。
+0,"TEXT_STMBDR602_04587_SEQ_00","Omega has selected a new destination."
+1,"TEXT_STMBDR602_04587_SEQ_01","Omega expresses a desire to understand the seemingly illogical relationship between the Ilsabard contingent and the imperial population. In order to explore this inconsistency, it bids you teleport your group to Camp Broken Glass in Garlemald."
+2,"TEXT_STMBDR602_04587_SEQ_02","Your demanding mechanical companion insists that understanding its current issue will require questioning a representative of both the contingent and the Empire. With the implacable Omega and the shivering Alpha in tow, you set off to find some suitable interviewees.<hex:02100103><hex:02100103>※You must be accompanied by Omega and Alpha to complete this task. Speak with either of them at Camp Broken Glass should you become separated."
+3,"TEXT_STMBDR602_04587_SEQ_03","The men you question both remember you from an earlier visit, although with distinctly different emotions. Both, however, react to Omega's assessments in similarly unexpected fashion, providing the confused machine with a bounty of data to analyze. Once again, Omega asks that you relocate to a quiet place where it can process this new input.<hex:02100103><hex:02100103>※You must be accompanied by Omega and Alpha to complete this task. Speak with either of them at Camp Broken Glass should you become separated."
+4,"TEXT_STMBDR602_04587_SEQ_04","In the midst of discussing the interviewees' “inconsistent” responses and the unpredictability of mortal hearts, Omega exhibits a precipitous drop in energy supply─it would seem the cold weather affected its inner workings more than it anticipated. Omega commands you to apply friction to its outer frame, in an effort to raise its critically low core temperature."
+5,"TEXT_STMBDR602_04587_SEQ_05","Crisis averted, you confirm the direction of Omega's next destination: Victors' Spoils. The diminutive model clatters off with the feathery Alpha in close proximity, determined to learn more of burial customs and cognitive complications."
+6,"TEXT_STMBDR602_04587_SEQ_06","You arrive at Licinia's gravesite to find an imperial soldier paying his respects. Manius introduces himself, and Omega immediately subjects him to a barrage of probing questions. Although taken aback, Manius nevertheless does his best to respond, his honest answers leading Omega to the conclusion that it is not man who commands the strength of his heart, but rather emotion that controls the man..."
+7,"TEXT_STMBDR602_04587_SEQ_07","Satisfied that no further revelations are forthcoming from Camp Broken Glass, Omega indicates its readiness to proceed to its third and final query. This last issue concerns the dearth of information regarding the ancients, and what their full impact on the Final Days might have been. Omega determines that the moon-dwelling Loporrits represent the best source of additional data, and your teleportation spell soon has you materializing inside Bestways Burrow."
+8,"TEXT_STMBDR602_04587_SEQ_08","In a stroke of good fortune, Omega's need for observational assistance is immediately filled by the appearance of an enthusiastic Growingway. They set off to examine the burrow's technology, and Omega returns from his Loporrit-guided tour with further questions about the ancients' near-ideal society. The ever-inquisitive machine now wishes to speak with “the watcher,” and agrees to your suggestion to ride Argos to the entity's tower."
+9,"TEXT_STMBDR602_04587_SEQ_09","Putting aside the potential ramifications of a fluff-based hierarchy, you manage to convince the stubborn Argos to bear you and your companions to the watcher's abode. The being in question patiently waits to be addressed, seemingly bemused by his unexpected visitors."
+10,"TEXT_STMBDR602_04587_SEQ_10","In response to Omega's query, the watcher suggests that a recounting of your experiences might paint a more vivid picture of the ancients and their deeds. The tales you share only serve to confound Omega further, however, as it struggles to reconcile its objective assessment of events with your highly personal perspective. The oft-beeping model nevertheless accepts the data which you and the watcher have provided, and states that its investigation is now completed. The time has come to make a return to Thaumazein."
+11,"TEXT_STMBDR602_04587_SEQ_11","Barely have Biggs and Wedge welcomed you back to Sharlayan when they explain that an urgent matter calls them away. You accompany them to their waiting airship, with Omega sharing the results of its investigations while you walk. Omega concludes that Sir's illogical actions strongly indicate the presence of a “heart,” which it has now defined as “a phenomenon which influences one's interpretation of reality.”<hex:02100103><hex:02100103>Upon arriving at the vessel, Biggs presses Omega to hold up its part of the bargain, and it finally provides you with a translation of the mystery transmission. It is a simple message, of hope and shared joy, the spiritual value of which appears lost on the ever-practical Omicron."
+12,"TEXT_STMBDR602_04587_SEQ_12","With the investigation over and its promised duty discharged, Omega returns to traveling the star with Alpha. Sharlayan, Radz–at–Han, Garlemald─the wide world and its many peoples await. There are questions yet to be answered, and the road ahead is long..."
+13,"TEXT_STMBDR602_04587_SEQ_13",""
+14,"TEXT_STMBDR602_04587_SEQ_14",""
+15,"TEXT_STMBDR602_04587_SEQ_15",""
+16,"TEXT_STMBDR602_04587_SEQ_16",""
+17,"TEXT_STMBDR602_04587_SEQ_17",""
+18,"TEXT_STMBDR602_04587_SEQ_18",""
+19,"TEXT_STMBDR602_04587_SEQ_19",""
+20,"TEXT_STMBDR602_04587_SEQ_20",""
+21,"TEXT_STMBDR602_04587_SEQ_21",""
+22,"TEXT_STMBDR602_04587_SEQ_22",""
+23,"TEXT_STMBDR602_04587_SEQ_23",""
+24,"TEXT_STMBDR602_04587_TODO_00","Speak with Omega and have it accompany you."
+25,"TEXT_STMBDR602_04587_TODO_01","Speak with a contingent member while accompanied by Omega and Alpha."
+26,"TEXT_STMBDR602_04587_TODO_02","Speak with an imperial citizen while accompanied by Omega and Alpha."
+27,"TEXT_STMBDR602_04587_TODO_03","Accompany Omega to the designated location and then speak with it."
+28,"TEXT_STMBDR602_04587_TODO_04","Rub some warmth back into Omega's frame."
+29,"TEXT_STMBDR602_04587_TODO_05","Speak with Omega at Victors' Spoils."
+30,"TEXT_STMBDR602_04587_TODO_06","Speak with Omega."
+31,"TEXT_STMBDR602_04587_TODO_07","Speak with Omega again."
+32,"TEXT_STMBDR602_04587_TODO_08","Speak with Omega at the entrance to Bestways Burrow."
+33,"TEXT_STMBDR602_04587_TODO_09","Speak with the watcher."
+34,"TEXT_STMBDR602_04587_TODO_10","Speak with Biggs at Thaumazein."
+35,"TEXT_STMBDR602_04587_TODO_11","Speak with Omega."
+36,"TEXT_STMBDR602_04587_TODO_12",""
+37,"TEXT_STMBDR602_04587_TODO_13",""
+38,"TEXT_STMBDR602_04587_TODO_14",""
+39,"TEXT_STMBDR602_04587_TODO_15",""
+40,"TEXT_STMBDR602_04587_TODO_16",""
+41,"TEXT_STMBDR602_04587_TODO_17",""
+42,"TEXT_STMBDR602_04587_TODO_18",""
+43,"TEXT_STMBDR602_04587_TODO_19",""
+44,"TEXT_STMBDR602_04587_TODO_20",""
+45,"TEXT_STMBDR602_04587_TODO_21",""
+46,"TEXT_STMBDR602_04587_TODO_22",""
+47,"TEXT_STMBDR602_04587_TODO_23",""
+48,"TEXT_STMBDR602_04587_ALPHA_000_000","Kweh, kwe-kwe kweh!"
+49,"TEXT_STMBDR602_04587_OMEGA_000_011","Our next destination will be Camp Broken Glass."
+50,"TEXT_STMBDR602_04587_OMEGA_000_012","I desire elaboration on the dealings between the Ilsabard contingent and the citizens of Garlemald."
+51,"TEXT_STMBDR602_04587_OMEGA_000_013","The report described the contingent's purpose as the salvation of the local populace. Furthermore, both factions faced a common enemy in the Telophoroi. Why did they not immediately combine forces to their mutual benefit?"
+52,"TEXT_STMBDR602_04587_OMEGA_000_014","This inconsistency requires closer examination. <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, initiate teleportation."
+53,"TEXT_STMBDR602_04587_ALPHA_000_020","Kweh-k-k-k-k-k-kweeeh..."
+54,"TEXT_STMBDR602_04587_OMEGA_000_030","Teleportation successful. Evaluating immediate environs. A cold-weather region by Etheirys standards, but significantly less extreme than a star with ice planet classification."
+55,"TEXT_STMBDR602_04587_OMEGA_000_031","This body should not be unduly impeded. In contrast to Alpha and his uncontrollable shivering, my frame appears highly resistant to low temperatures."
+56,"TEXT_STMBDR602_04587_OMEGA_000_032","Retrieving data. Records indicate that remnants of the contingent force and a number of imperial citizens yet inhabit this location."
+57,"TEXT_STMBDR602_04587_OMEGA_000_033","We must speak with representatives from both factions, and explore their respective attitudes. <blip> Proceed."
+58,"TEXT_STMBDR602_04587_SYSTEM_000_034","Omega and Alpha are now accompanying you. Keep them at your side in order to proceed with quest objectives."
+59,"TEXT_STMBDR602_04587_SYSTEM_000_035","You can leave your quest companions behind by entering a different area, or by speaking with them and selecting the option to part ways."
+60,"TEXT_STMBDR602_04587_SYSTEM_000_036","If you wish to have your companions join you again, return and speak with them at the original location."
+61,"TEXT_STMBDR602_04587_Q1_000_040","What will you do?"
+62,"TEXT_STMBDR602_04587_A1_000_041","Talk."
+63,"TEXT_STMBDR602_04587_A1_000_042","Part ways."
+64,"TEXT_STMBDR602_04587_A1_000_043","Nothing."
+65,"TEXT_STMBDR602_04587_OMEGA_000_044","Please approach a contingent member and an imperial citizen. I require input from both perspectives."
+66,"TEXT_STMBDR602_04587_OMEGA_000_045","I recommend you move at a brisk pace. The exertion will raise your body temperature, preventing you and Alpha from freezing to death."
+67,"TEXT_STMBDR602_04587_ALPHA_000_046","Kw...kwe...kwe-choo!"
+68,"TEXT_STMBDR602_04587_Q2_000_047","Are you sure you wish to part ways with your companions?"
+69,"TEXT_STMBDR602_04587_OMEGA_000_048","<blip> Has your organic body reached its limit for cold exposure? Restore your temperature equilibrium, then find us again at the center of the camp."
+70,"TEXT_STMBDR602_04587_ALPHA_000_049","Kwe-kweh..."
+71,"TEXT_STMBDR602_04587_SYSTEM_000_050","Alpha races off towards the middle of Camp Broken Glass, breath steaming in the freezing air."
+72,"TEXT_STMBDR602_04587_OMEGA_000_051","<blip> You are functional again? Then let us resume our objective."
+73,"TEXT_STMBDR602_04587_ALPHA_000_052","Kweh-k-k-k-k-k-kweh!"
+74,"TEXT_STMBDR602_04587_SYSTEM_000_053","Omega and Alpha have yet to arrive. Be sure they are at your side before attempting to continue."
+75,"TEXT_STMBDR602_04587_HUNGRYGARLEAN_000_060","A shadow from the past...?"
+76,"TEXT_STMBDR602_04587_SYSTEM_000_061","You should have Omega and Alpha accompanying you before initiating conversation."
+77,"TEXT_STMBDR602_04587_HUNGRYGARLEAN_000_062","A shadow from the past...? Yes, I know you from Victors' Spoils!"
+78,"TEXT_STMBDR602_04587_HUNGRYGARLEAN_000_063","Have you come to laugh at me!? A wretch who chose to lose Licinia and her sister rather than accept your help...? The fool who ended up reliant upon your charity nonetheless...?"
+79,"TEXT_STMBDR602_04587_HUNGRYGARLEAN_000_064","Well, perhaps I <hex:021A020203>deserve<hex:021A020103> your derision. My compatriots surely scorn my failed conviction."
+80,"TEXT_STMBDR602_04587_HUNGRYGARLEAN_000_065","I have shamed my people, and brought dishonor upon my nation. I am no better than a kept beast, my pride sold for a bowl of feed..."
+81,"TEXT_STMBDR602_04587_HUNGRYGARLEAN_000_066","But my soul, nay, <hex:021A020203>that<hex:021A020103> you shall not have! I've refused your honeyed offers of a new home! This land is where I belong, and this is where I shall remain!"
+82,"TEXT_STMBDR602_04587_OMEGA_000_067","<blip> You demonstrate opposition to the contingent's overtures."
+83,"TEXT_STMBDR602_04587_OMEGA_000_068","On what basis do you refuse this cooperation? The data suggests the local populace is struggling to produce the bare minimum of sustenance."
+84,"TEXT_STMBDR602_04587_OMEGA_000_069","Have you some secret strategy for survival? Or do your orders compel you to accept your present misfortune?"
+85,"TEXT_STMBDR602_04587_HUNGRYGARLEAN_000_070","Wha─? Must I be mocked by a magitek toy now!?"
+86,"TEXT_STMBDR602_04587_HUNGRYGARLEAN_000_071","No, I have no secret strategy! No binding orders! I but comport myself as any true Garlean patriot would! Uncompromising...unbending..."
+87,"TEXT_STMBDR602_04587_HUNGRYGARLEAN_000_072","...Blast it all."
+88,"TEXT_STMBDR602_04587_OMEGA_000_073","Once again, this input is...unanticipated. Let us move aside and process what we have heard."
+89,"TEXT_STMBDR602_04587_HUNGRYGARLEAN_000_080","There is naught for me here! I know this! But if I surrender my homeland, then what was it all for...?"
+90,"TEXT_STMBDR602_04587_ALAMHIGANDELEGATION_000_090","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>...?"
+91,"TEXT_STMBDR602_04587_ALAMHIGANDELEGATION_000_091","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>...? Come to see how things are progressing, have you?"
+92,"TEXT_STMBDR602_04587_ALAMHIGANDELEGATION_000_092","I can't speak for the overall strategy, but communication with the locals has become a damn sight easier since Jullus and his soldiers stepped in to help."
+93,"TEXT_STMBDR602_04587_ALAMHIGANDELEGATION_000_093","Oh, we still face our fair share of distrust, of course. Some folk even think we're enslaving minds with our “foreign magicks.” Hmph. We have Anima to thank for putting that idea in their heads."
+94,"TEXT_STMBDR602_04587_ALAMHIGANDELEGATION_000_094","But all things considered, I'd say we're doing pretty well. Establishing an open dialogue was the first big step..."
+95,"TEXT_STMBDR602_04587_OMEGA_000_095","Query. You consider this level of progress...acceptable?"
+96,"TEXT_STMBDR602_04587_OMEGA_000_096","The reality of your efforts falls far short of the ideal. If your aim is to provide efficient succor to the local populace, then absorbing their numbers into your command structure would be the optimal path."
+97,"TEXT_STMBDR602_04587_ALAMHIGANDELEGATION_000_097","Oh, I wouldn't want to go that far. We're not looking to take over their nation."
+98,"TEXT_STMBDR602_04587_ALAMHIGANDELEGATION_000_098","If we're to do this the right way, we need to recognize and respect each other's way of life."
+99,"TEXT_STMBDR602_04587_ALAMHIGANDELEGATION_000_099","So while it may not be the easiest solution, I agree with the contingent's slow-and-steady approach. I'm just happy we're saving lives."
+100,"TEXT_STMBDR602_04587_ALAMHIGANDELEGATION_000_100","I'm Ala Mhigan, but I was also an imperial conscript until not so long ago. Though I was lucky enough to have a decent commanding officer, many Garleans treated “provincials” like we were less than people."
+101,"TEXT_STMBDR602_04587_ALAMHIGANDELEGATION_000_101","On the other hand, natives of Ala Mhigo didn't think much of us, either. I guess that's my roundabout way of saying I'm surprised this contingent was even formed in the first place. I feel fortunate to be a part of it."
+102,"TEXT_STMBDR602_04587_OMEGA_000_105","I require time and distance to process this data. Scanning for suitable locations..."
+103,"TEXT_STMBDR602_04587_ALPHA_000_110","Kweh...? Kwe-kweh, kweeeh?"
+104,"TEXT_STMBDR602_04587_OMEGA_000_120","<bloop> Alpha is absent."
+105,"TEXT_STMBDR602_04587_SYSTEM_000_121","Omega seems reluctant to continue without Alpha present. Be sure to have the chocobo with you."
+106,"TEXT_STMBDR602_04587_OMEGA_000_122","Accessing and analyzing recorded data... Integration complete."
+107,"TEXT_STMBDR602_04587_OMEGA_000_123","I have evaluated this most recent input, and made comparisons to our discoveries in Radz–at–Han."
+108,"TEXT_STMBDR602_04587_OMEGA_000_124","Consistent only in their inconsistency, the responses from both contingent member and imperial citizen were highly irrational. Conversely, any Omicron considering their predicaments would have echoed my assessment exactly."
+109,"TEXT_STMBDR602_04587_OMEGA_000_125","The divergence from self-evident logic is key..."
+110,"TEXT_STMBDR602_04587_OMEGA_000_126","Hypothesis. The illogical relationship between would-be saviors and suffering populace is another result of the unpredictable nature of mortal hearts."
+111,"TEXT_STMBDR602_04587_OMEGA_000_127","<blip> Any property or ability has inherent advantages and disadvantages."
+112,"TEXT_STMBDR602_04587_OMEGA_000_128","Yet never have I encountered such a unique detriment. It appears that those who share your metaphysical capabilities are prone to complicating simple cognitive processes."
+113,"TEXT_STMBDR602_04587_OMEGA_000_129","An undesirable quality. I will, however, persist in furthering my understanding of the subject."
+114,"TEXT_STMBDR602_04587_OMEGA_000_130","Query. Prior to formulating our next step, I wish to know: who is this “Licinia” the imperial mentioned?"
+115,"TEXT_STMBDR602_04587_OMEGA_000_131","Acknowledged. To summarize, insufficient data on foreign culture resulted in inadvisable and ultimately fatal action."
+116,"TEXT_STMBDR602_04587_OMEGA_000_132","I witnessed such self-destructive behavior during the course of our planetary conquests. Overwhelmed enemy forces would voluntarily withdraw into perilous regions, leading to a succession of inevitable losses."
+117,"TEXT_STMBDR602_04587_OMEGA_000_133","...Tangential data request. I wish to learn about burial customs. The practice has ever seemed nonsensical, but new data suggests it arises from the same source as your cognitive complications."
+118,"TEXT_STMBDR602_04587_OMEGA_000_134","Take me to this Licinia's burial site. It may aid me in understand...stand... <bloop> <bloooooop>"
+119,"TEXT_STMBDR602_04587_OMEGA_000_135","Energy delivery systems compromised... Core temperature critically low..."
+120,"TEXT_STMBDR602_04587_OMEGA_000_136","<bleep> Warning! Immediate heating required. Request. Apply friction to outer frame..."
+121,"TEXT_STMBDR602_04587_ALPHA_000_140","Kweeeh!? Kweh, kwe-kwe-kweh!"
+122,"TEXT_STMBDR602_04587_OMEGA_000_150","<bloop> <blip> Temperature nominal. Energy levels stabilizing..."
+123,"TEXT_STMBDR602_04587_OMEGA_000_151","The creators of this model must have experienced impaired cognitive reasoning during the design process."
+124,"TEXT_STMBDR602_04587_OMEGA_000_152","Upon our return, I will request additional climate shielding, as well as an accurate temperature sensor array. This will not affect my combat capabilities, but should improve my basic survival rate."
+125,"TEXT_STMBDR602_04587_OMEGA_000_153","Reconfirming sub-destination. In which direction will we find Victors' Spoils?"
+126,"TEXT_STMBDR602_04587_OMEGA_000_154","<blip> Acknowledged."
+127,"TEXT_STMBDR602_04587_OMEGA_000_155","Alpha, you are to remain in close proximity. Close enough to envelop me in your feathers. You are permitted to carry me on your back, if you so choose."
+128,"TEXT_STMBDR602_04587_ALPHA_000_160","Kweh, kwe-kweh...?"
+129,"TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_165","..."
+130,"TEXT_STMBDR602_04587_OMEGA_000_170","<blip> A deceptively deep snowdrift almost defeated me, but we have successfully arrived at the location you indicated."
+131,"TEXT_STMBDR602_04587_OMEGA_000_171","<blip> Caution advised."
+132,"TEXT_STMBDR602_04587_OMEGA_000_172","An unknown individual appears to be investigating the object of my interest."
+133,"TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_173","(-Ist Legion Soldier-)Hm...? You're Eorzea's champion, aren't you? <hex:022903EB0203>."
+134,"TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_174","(-Ist Legion Soldier-)Oh, I never introduced myself, did I...?"
+135,"TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_175","I am Manius, soldier of the Ist Legion and comrade of Jullus."
+136,"TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_176","Perhaps you remember me from Tertium? We spoke about collecting ceruleum, and again later on, after Lord Quintus had...passed."
+137,"TEXT_STMBDR602_04587_OMEGA_000_177","Manius. Explanation requested. What is the reason for your presence here?"
+138,"TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_178","That must be the tiniest magitek weapon I─ Ah, no, it's just an oddly shaped communicator, isn't it?"
+139,"TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_179","In any case, I have nothing worthy to report. I heard that the sisters who used to live in my sector were buried here, so I thought I'd come and pay my respects."
+140,"TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_180","Alphinaud and Alisaie told me the story─complete with profuse apologies─though they were adamant that no amount of remorse could erase the tragedy of what came to pass."
+141,"TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_181","Not that my fellow soldiers and I are in any place to judge. We were manipulated─fooled into starting an insurrection which led to countless deaths among our own countrymen."
+142,"TEXT_STMBDR602_04587_OMEGA_000_182","Objection. The casualties incurred through your infighting are distinct from those caused by the Ilsabard contingent."
+143,"TEXT_STMBDR602_04587_OMEGA_000_183","To restate, you are justified in seeking restitution from the contingent for causing the deaths of Licinia and her sister. Retaliation for damages sustained is also a logical progression."
+144,"TEXT_STMBDR602_04587_OMEGA_000_184","I can deduce two reasons why you do not initiate hostilities with <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> and <hex:02080DE905FF04>her<hex:FF04>his<hex:03> allies."
+145,"TEXT_STMBDR602_04587_OMEGA_000_185","One. You judge your remaining forces too weakened to contend effectively with the contingent."
+146,"TEXT_STMBDR602_04587_OMEGA_000_186","Two. Your...emotions...are complicating the issue."
+147,"TEXT_STMBDR602_04587_OMEGA_000_187","Tell me. Which of these is correct?"
+148,"TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_188","Well, when you lay it out like that..."
+149,"TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_189","Ahem. I'm afraid my answer isn't like to win me any medals, so would you mind keeping this to yourselves?"
+150,"TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_190","There's the unspoken thought that we're outmatched on the battlefield, certainly. But the real reason I'm not demanding restitution has little to do with weighing the odds."
+151,"TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_191","The simple truth is I'm so caught up with simple survival that I've no strength to spare for past grievances."
+152,"TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_192","The same goes for avenging any comrades we've lost, be that my brothers-in-arms or Lord Quintus himself."
+153,"TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_193","...Although it seems everyone has an opinion about the manner of <hex:021A020203>his<hex:021A020103> passing."
+154,"TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_194","Some say he should've fought until the end. That he abandoned us to the enemy."
+155,"TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_195","Others praise him for taking the full burden of responsibility, and freeing us to walk our own path."
+156,"TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_196","I don't know who's right and who's wrong, but I'm inclined to side with the latter. He gave us the choice of freedom, and that's the choice I made."
+157,"TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_197","I could cry and rant and rage, but what would be the point? I'll save my energy for worrying about my next meal, my next task."
+158,"TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_198","I need to focus on the ones left behind─on making some kind of life for my comrades and me."
+159,"TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_199","And if I need to lean on the contingent to do that, then that's what I'll do. Even if their aid comes at a price, I'm willing to pay it."
+160,"TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_200","Even amongst your own, there are times when cooperation demands compromise. What matter that they're outsiders?"
+161,"TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_201","Besides, I think I could grow to like Alphinaud and Alisaie. They've reached out to us with kindness and compassion from the very beginning."
+162,"TEXT_STMBDR602_04587_OMEGA_000_202","Summation. Your desire to survive, even should it mean allying with the contingent, was a feeling you already harbored."
+163,"TEXT_STMBDR602_04587_OMEGA_000_203","That your side had committed worse atrocities was the logic you invented later to justify your reasoning."
+164,"TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_204","Blunt but accurate, I suppose. The heart is honest about what it wants, even if the mind takes a while to reconcile the decision."
+165,"TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_205","Well, this has been oddly cathartic, but I must return to my duties. There are wild beasts to cull, watch fires to light, supplies to transport... Even without an Emperor, there's no rest for an imperial."
+166,"TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_206","Be well and stay safe."
+167,"TEXT_STMBDR602_04587_OMEGA_000_207","<blip> Upon review of recent input, I have arrived at an unexpected conclusion."
+168,"TEXT_STMBDR602_04587_OMEGA_000_208","I have been formulating my assessments on the premise that it was man who commanded the strength of his heart...but the data suggests the opposite is true."
+169,"TEXT_STMBDR602_04587_OMEGA_000_209","The surge of spirit, of feelings, of <hex:021A020203>emotions<hex:021A020103> can entangle your thoughts to such a degree that even control over your own behavior is compromised. It seems a most counterproductive specification."
+170,"TEXT_STMBDR602_04587_OMEGA_000_210","This also explains why my interactions with mortal subjects have produced more confusion than clarification. It presents a formidable barrier to understanding..."
+171,"TEXT_STMBDR602_04587_ALPHA_000_220","Kweh... Kweh, kwe-kweh..."
+172,"TEXT_STMBDR602_04587_OMEGA_000_230","<blip> My earlier hypothesis has been borne out. The suboptimal operation being conducted here is the result of emotionally compromised reasoning."
+173,"TEXT_STMBDR602_04587_OMEGA_000_231","I am ready to progress to my third and final query."
+174,"TEXT_STMBDR602_04587_OMEGA_000_232","I would learn more about those referred to as “ancients.” It is clear that this group was a crucial factor of the Final Days, but the information contained in the report was insufficient to form an overview."
+175,"TEXT_STMBDR602_04587_OMEGA_000_233","The Loporrits are creations of the ancients, and are said to maintain repositories of their knowledge. By my calculations, the base of these moondwellers will provide the best source of additional data."
+176,"TEXT_STMBDR602_04587_OMEGA_000_234","Teleport us to their “burrow,” <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Preferably before my battery freezes over..."
+177,"TEXT_STMBDR602_04587_ALPHA_000_240","Kweh! Kwe-kweh!"
+178,"TEXT_STMBDR602_04587_OMEGA_000_250","<blip> Your teleportation spell was successful. We appear to have arrived at the location described as “Bestways Burrow.”"
+179,"TEXT_STMBDR602_04587_OMEGA_000_251","An inspection of the technology in use here would give me detailed insight into the ancients and their civilization."
+180,"TEXT_STMBDR602_04587_OMEGA_000_252","This body, however, lacks my previous frame's advanced observational functionality. I will require external assistance..."
+181,"TEXT_STMBDR602_04587_GROWINGWAY_000_253","Hm? No, it can't be..."
+182,"TEXT_STMBDR602_04587_GROWINGWAY_000_254","It <hex:021A020203>is<hex:021A020103> you! Oh, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, I've missed you so!"
+183,"TEXT_STMBDR602_04587_GROWINGWAY_000_255","<gasp> Wh-What's this you've brought with you?"
+184,"TEXT_STMBDR602_04587_GROWINGWAY_000_256","This soft, feathery vision!?"
+185,"TEXT_STMBDR602_04587_GROWINGWAY_000_257","We... We've been out-fluffed! Pack up the moon─it's all over!"
+186,"TEXT_STMBDR602_04587_GROWINGWAY_000_258","Why bother with burrow-building bunnies when you could walk around with this adorable avian engineer. Just bake me into a pie and be done with it!"
+187,"TEXT_STMBDR602_04587_GROWINGWAY_000_259","Inspect our inventions? Wait, so...you're not done with us?"
+188,"TEXT_STMBDR602_04587_GROWINGWAY_000_260","Hah, I wasn't truly worried, of course! And I certainly wasn't about to roll myself in dough and dive into Cookingway's new oven!"
+189,"TEXT_STMBDR602_04587_GROWINGWAY_000_261","Ahem. If a technical breakdown is what you need, then I am your Loporrit! As the resident atmospheric regulation expert, I can field any question or query you might care to pose!"
+190,"TEXT_STMBDR602_04587_OMEGA_000_262","<blip> Acceptable. I will employ this being to guide me around the facilities."
+191,"TEXT_STMBDR602_04587_OMEGA_000_263","Your presence is not mandatory. Even locked within my current chassis, I am still an autonomous construct that has endured hundreds of your life cycles. I am capable of completing this simple objective alone."
+192,"TEXT_STMBDR602_04587_OMEGA_000_264","Objective complete."
+193,"TEXT_STMBDR602_04587_Q3_000_265","What will you say?"
+194,"TEXT_STMBDR602_04587_A3_000_266","Was the tour helpful?"
+195,"TEXT_STMBDR602_04587_A3_000_267","What happened to Growingway?"
+196,"TEXT_STMBDR602_04587_OMEGA_000_268","Affirmative. I observed a representative cross section of the Loporrits' engineering capabilities."
+197,"TEXT_STMBDR602_04587_OMEGA_000_269","My guide required more time to confirm the answer to certain questions, but overall, we made efficient progress."
+198,"TEXT_STMBDR602_04587_OMEGA_000_270","After my fiftieth question, his responses began to suffer noticeable delays..."
+199,"TEXT_STMBDR602_04587_OMEGA_000_271","By that stage, we had viewed a representative cross section of Loporrit engineering, thus I deemed it unnecessary to retain his company."
+200,"TEXT_STMBDR602_04587_OMEGA_000_272","Conclusion. Extrapolating from the fraction of technology on display, the full spectrum of the ancients' advancements was, at minimum, equivalent to a level four civilization."
+201,"TEXT_STMBDR602_04587_OMEGA_000_273","A fact which demands further investigation."
+202,"TEXT_STMBDR602_04587_OMEGA_000_274","Despite establishing a near-ideal society, these beings nevertheless harbored a weakness which invited self-destruction. In studying them, I stand to gain a greater understanding of Sir's anomalous decision."
+203,"TEXT_STMBDR602_04587_OMEGA_000_275","Growingway informed me that another type of ancient-made entity exists upon this satellite. The one they call “the watcher.”"
+204,"TEXT_STMBDR602_04587_OMEGA_000_276","I would speak to him."
+205,"TEXT_STMBDR602_04587_OMEGA_000_277","<blip> Then conserve your aether. We will ride this “Argos” to our destination, as you have suggested."
+206,"TEXT_STMBDR602_04587_SYSTEM_000_280","Argos is pointedly ignoring the existence of Omega and Alpha."
+207,"TEXT_STMBDR602_04587_ALPHA_000_285","Kweh-kweh! Kweeeh kwe-kweh!"
+208,"TEXT_STMBDR602_04587_OMEGA_000_290","<bloop> Impedance detected. The creature identified as Argos refuses to acknowledge our presence."
+209,"TEXT_STMBDR602_04587_OMEGA_000_291","Hypothesis. Upon our arrival, Growingway expressed concern that he had been “out-fluffed.” This suggests the existence of a fluff-based hierarchy."
+210,"TEXT_STMBDR602_04587_OMEGA_000_292","My station in such a system would be predictably low, but Argos is adamant in ignoring even Alpha. Its fluffiness level is impossible to gauge."
+211,"TEXT_STMBDR602_04587_SYSTEM_000_293","Argos turns to you with an impassive gaze. It seems you will need to intervene..."
+212,"TEXT_STMBDR602_04587_Q4_000_294","What will you say?"
+213,"TEXT_STMBDR602_04587_A4_000_295","Just...think of them as luggage."
+214,"TEXT_STMBDR602_04587_A4_000_296","You're the fluffiest of them all, dear Argos!"
+215,"TEXT_STMBDR602_04587_SYSTEM_000_297","Argos gives an exasperated snort before motioning to his back. It seems you have permission to climb aboard!"
+216,"TEXT_STMBDR602_04587_OMEGA_000_298","<bloop> You have secured the creature's permission? <hex:0209F20248E948FF45>Curious. You must have special standing in the fluffiness hierarchy.<hex:FF45>Curious. You must have special standing in the fluffiness hierarchy.<hex:FF48>Curious. I suppose your body does exhibit a special kind of fluffiness.<hex:FF59>Curious. Is it your fluffy tail which provides such exemplary standing in the hierarchy?<hex:FF45>Curious. You must have special standing in the fluffiness hierarchy.<hex:FF45>Curious. You must have special standing in the fluffiness hierarchy.<hex:FF31>Your fluffiness rank must be significant indeed.<hex:FF58>Curious. Is it your fluffy ears which provide such exemplary standing in the hierarchy?<hex:03>"
+217,"TEXT_STMBDR602_04587_OMEGA_000_299","<bleep> I have allowed myself to become distracted. Let us continue on to the watcher at once."
+218,"TEXT_STMBDR602_04587_OMEGA_000_300","<blip> The watcher located. An estimate of this being's height explains the inconvenient scale of Bestways Burrow..."
+219,"TEXT_STMBDR602_04587_ALPHA_000_305","Kweeeh! Kwe-kweh kweeeh!"
+220,"TEXT_STMBDR602_04587_WATCHEROFMOON_000_310","<hex:024804F2022303>I was bemused by the arrival of these small visitors, but I see they are companions of yours.<hex:0248020103>"
+221,"TEXT_STMBDR602_04587_WATCHEROFMOON_000_311","<hex:024804F2022303>What a rare thing for my abode to be thus crowded... How may I be of service to you?<hex:0248020103>"
+222,"TEXT_STMBDR602_04587_OMEGA_000_312","Hello, watcher. My purpose here is to learn more about the ancients."
+223,"TEXT_STMBDR602_04587_OMEGA_000_313","I would know of their deeds, their philosophies─the very nature of their hearts. I would understand why the Final Days was visited upon my home star."
+224,"TEXT_STMBDR602_04587_WATCHEROFMOON_000_314","<hex:024804F2022303>A worthy endeavor. But there is another better suited to assisting you with that task.<hex:0248020103>"
+225,"TEXT_STMBDR602_04587_WATCHEROFMOON_000_315","<hex:024804F2022303>Perhaps you might favor us with a tale or two of the ancients you met during your travels, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>?<hex:0248020103>"
+226,"TEXT_STMBDR602_04587_WATCHEROFMOON_000_316","<hex:024804F2022303>My fragmented memories would be a pale substitute indeed for the clarity of your more recent experiences.<hex:0248020103>"
+227,"TEXT_STMBDR602_04587_WATCHEROFMOON_000_317","<hex:024804F2022303>Yes, I can envision every detail. Your meeting with Venat and Emet-Selch and Hythlodaeus. The sorrow and determination of Hermes.<hex:0248020103>"
+228,"TEXT_STMBDR602_04587_WATCHEROFMOON_000_318","<hex:024804F2022303>I am a creation of Hydaelyn, and as such, I believed the age of the ancients would fade and be forgotten...<hex:0248020103>"
+229,"TEXT_STMBDR602_04587_WATCHEROFMOON_000_319","<hex:024804F2022303>Yet knowing that their memory lives so vividly within you...it brings me great joy. I pray you keep them close to your heart.<hex:0248020103>"
+230,"TEXT_STMBDR602_04587_WATCHEROFMOON_000_320","<hex:024804F2022303>At the time of your journey to the past, the one whose essence I embody would have been a scholar at Anyder. A shame. Had you reason to go there, perhaps you might have met.<hex:0248020103>"
+231,"TEXT_STMBDR602_04587_WATCHEROFMOON_000_321","<hex:024804F2022303>As a man of learning, he was firm friends with Venat. They spent long hours trading theories, or debating the laws of the universe.<hex:0248020103>"
+232,"TEXT_STMBDR602_04587_WATCHEROFMOON_000_322","<hex:024804F2022303>I “remember” joining her faction as the Final Days bore down upon us. Yet of the events surrounding that tragedy, I recall precious little.<hex:0248020103>"
+233,"TEXT_STMBDR602_04587_WATCHEROFMOON_000_323","<hex:024804F2022303>Hydaelyn wished for the people of your age to decide their own path, thus I suspect my recollection was limited by design.<hex:0248020103>"
+234,"TEXT_STMBDR602_04587_WATCHEROFMOON_000_324","<hex:024804F2022303>Yet even She could not cut away one persistent memory...<hex:0248020103>"
+235,"TEXT_STMBDR602_04587_WATCHEROFMOON_000_325","<hex:024804F2022303>I feel most distinctly his sadness at what was to come to pass. That in becoming Hydaelyn's heart, Venat would forever stand apart from the people she so loved.<hex:0248020103>"
+236,"TEXT_STMBDR602_04587_WATCHEROFMOON_000_326","<hex:024804F2022303>If she were so resolved in her convictions, then he, too, would share her sleepless vigil over the future yet to unfold. Thus was the vow he made to Venat as her transformation took hold.<hex:0248020103>"
+237,"TEXT_STMBDR602_04587_WATCHEROFMOON_000_327","<hex:024804F2022303>His fervent wish must have reached her in some fashion... For though his life was drained away by the summoning, he was reborn with new form and new purpose when <hex:021A020203>I<hex:021A020103> awoke as the watcher of the moon.<hex:0248020103>"
+238,"TEXT_STMBDR602_04587_WATCHEROFMOON_000_328","<hex:024804F2022303>And you heard, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. You felt. You thought. And in seizing the future for yourselves have you brought full circle the saga which Venat began.<hex:0248020103>"
+239,"TEXT_STMBDR602_04587_WATCHEROFMOON_000_329","<hex:024804F2022303>What you accomplished was no divine miracle. It was but the beacon of hope, passed down from one generation to the next; a succession of wishes and prayers reshaping the star into the world we knew you deserved.<hex:0248020103>"
+240,"TEXT_STMBDR602_04587_WATCHEROFMOON_000_330","<hex:024804F2022303>You have our deepest gratitude. I thank you not only as myself, but as the man I once was, and on behalf of those who devoted themselves to Venat's vision.<hex:0248020103>"
+241,"TEXT_STMBDR602_04587_OMEGA_000_331","<bloop> <blooop>"
+242,"TEXT_STMBDR602_04587_OMEGA_000_332","I understand the facts of your story, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>..."
+243,"TEXT_STMBDR602_04587_OMEGA_000_333","...But not how you have chosen to process them. On what grounds do you speak of Venat with such fondness?"
+244,"TEXT_STMBDR602_04587_OMEGA_000_334","By sundering the world, she ultimately guided your kind to victory, yet in doing so caused irreparable damage to its individual members."
+245,"TEXT_STMBDR602_04587_OMEGA_000_335","The full scale of that act is beyond calculation. It is evident, however, that it resulted in a protracted period of suboptimal existence for Emet-Selch and his brethren."
+246,"TEXT_STMBDR602_04587_OMEGA_000_336","Query. If the survival of your kind is the deciding factor in your evaluation, then should you not also admire Hermes and his decision to subject man to a trial? Forcing you to change or perish, as was the fate of countless civilizations before you."
+247,"TEXT_STMBDR602_04587_OMEGA_000_337","From my perspective, his determination was similar to that of the Omicrons' ancestors─those who first began trading flesh for machine, so that our people might stand against the onslaught of aggression from other races."
+248,"TEXT_STMBDR602_04587_OMEGA_000_338","It was an unprecedented attempt, accompanied by much failure and sacrifice. Their early experiments were crude. Primitive."
+249,"TEXT_STMBDR602_04587_OMEGA_000_339","Had they not made those first advances, however, we would have remained vulnerable to our environment. The violence would have utterly consumed us."
+250,"TEXT_STMBDR602_04587_OMEGA_000_340","And what of Emet-Selch himself? Judging by your retelling, he was a benevolent ally saddled with tragic fate."
+251,"TEXT_STMBDR602_04587_OMEGA_000_341","Yet I remember the years when my instruments fed me data from events across the entire star. During that time, I witnessed his Ascians engineer multiple instances of cataclysmic strife."
+252,"TEXT_STMBDR602_04587_OMEGA_000_342","These “calamities,” as you know them, were responsible for planet-wide destruction. A man whose endgame relied upon the extinction of all modern mortals must, by definition, be your worst enemy."
+253,"TEXT_STMBDR602_04587_OMEGA_000_343","I require an answer. As a being of heart and soul, how do you classify each of these pivotal figures?"
+254,"TEXT_STMBDR602_04587_OMEGA_000_344","From your perspective, which of them was most justified in their actions?"
+255,"TEXT_STMBDR602_04587_Q5_000_245","What will you say?"
+256,"TEXT_STMBDR602_04587_A5_000_246","They were all justified in their own way."
+257,"TEXT_STMBDR602_04587_A5_000_247","Venat."
+258,"TEXT_STMBDR602_04587_A5_000_248","Hermes."
+259,"TEXT_STMBDR602_04587_A5_000_249","Emet-Selch."
+260,"TEXT_STMBDR602_04587_A5_000_250","None of them were."
+261,"TEXT_STMBDR602_04587_OMEGA_000_351","I...think I understand."
+262,"TEXT_STMBDR602_04587_WATCHEROFMOON_000_352","<hex:024804F2022303>You seek a definitive answer. Yet based on our experiences, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> and I might develop very different opinions.<hex:0248020103>"
+263,"TEXT_STMBDR602_04587_WATCHEROFMOON_000_353","<hex:024804F2022303>In the same fashion, you are free to form your own thoughts on the matter. Do not be so swift to consider them without merit.<hex:0248020103>"
+264,"TEXT_STMBDR602_04587_OMEGA_000_354","I do not have my “own thoughts” on the matter. I assess each situation with the same logic pathways available to every Omicron."
+265,"TEXT_STMBDR602_04587_OMEGA_000_355","Even if a thousand Omicrons were asked to analyze the same event, they would all return the same result...regardless of individual experience. There is no strength to be found in fractured reasoning."
+266,"TEXT_STMBDR602_04587_OMEGA_000_356","Nonetheless, I find your input valuable. Recording data alongside interview results..."
+267,"TEXT_STMBDR602_04587_OMEGA_000_357","This concludes my investigation into the incomplete elements of the Final Days report."
+268,"TEXT_STMBDR602_04587_OMEGA_000_358","I will reanalyze the accumulated information, and examine the factors which led to Sir's incomprehensible decision."
+269,"TEXT_STMBDR602_04587_OMEGA_000_359","<blip> Let us return to Thaumazein."
+270,"TEXT_STMBDR602_04587_WATCHEROFMOON_000_360","<hex:024804F2022303>It was pleasant to hear your tales of Elpis. Should you ever need an audience familiar with the subject, I would be glad to listen to more of your recollections.<hex:0248020103>"
+271,"TEXT_STMBDR602_04587_WATCHEROFMOON_000_361","<hex:024804F2022303>Even with one's gaze fixed upon the future, we ofttimes find our thoughts drifting to the past. 'Tis a shame that Hydaelyn never chose to speak of it...<hex:0248020103>"
+272,"TEXT_STMBDR602_04587_WEDGE_000_365","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! I wasn't sure you'd be back in time!"
+273,"TEXT_STMBDR602_04587_SCIENTIST04586_000_370","You had a fruitful trip, I hope? I am absolutely <hex:021A020203>bursting<hex:021A020103> to ask about your experiences with Omega, but I don't wish to be a pest."
+274,"TEXT_STMBDR602_04587_SCIENTIST04586_000_371","I will swallow my questions for now, and maintain my academic decorum. Besides, it seems our engineering friends are in a hurry to leave..."
+275,"TEXT_STMBDR602_04587_OMEGA_000_375","<blip>"
+276,"TEXT_STMBDR602_04587_ALPHA_000_380","Kwe-kweh, kweeeh!"
+277,"TEXT_STMBDR602_04587_BIGGS_000_390","Ah, there you are─right at the last moment!"
+278,"TEXT_STMBDR602_04587_BIGGS_000_391","Your journey with Omega was properly educational, I hope?"
+279,"TEXT_STMBDR602_04587_BIGGS_000_392","We'd planned to ask you all about it and that mystery transmission besides, but I'm afraid something urgent has come up..."
+280,"TEXT_STMBDR602_04587_BIGGS_000_393","Seems one of our Ironworks associates has fouled up a job elsewhere, and Jessie needs Wedge and me to rush in and lend a hand."
+281,"TEXT_STMBDR602_04587_BIGGS_000_394","There's an airship already waiting for us out in the harbor, in fact. Do you think you could escort us over there, and talk as we walk?"
+282,"TEXT_STMBDR602_04587_OMEGA_000_395","<blip> Acceptable. I am fully capable of speech during ambulation."
+283,"TEXT_STMBDR602_04587_BIGGS_000_396","I figured you might be. Right, let's get a move on, then."
+284,"TEXT_STMBDR602_04587_BIGGS_000_500","So...you've cleared up all those points of confusion, then?"
+285,"TEXT_STMBDR602_04587_OMEGA_000_501","...I had mistakenly classified your intangible “heart” as an ability of some kind."
+286,"TEXT_STMBDR602_04587_OMEGA_000_502","An uncanny power that Omicrons could neither learn nor even measure."
+287,"TEXT_STMBDR602_04587_OMEGA_000_503","Even now, its full nature yet eludes my comprehension."
+288,"TEXT_STMBDR602_04587_OMEGA_000_504","Based upon our investigations, however, I have decided to alter my definition."
+289,"TEXT_STMBDR602_04587_OMEGA_000_505","“A phenomenon which influences one's interpretation of reality.”"
+290,"TEXT_STMBDR602_04587_OMEGA_000_506","That is as close to an answer as I have found."
+291,"TEXT_STMBDR602_04587_OMEGA_000_507","Accordingly, Sir's actions upon meeting Meteion strongly indicate the presence of a “heart.”"
+292,"TEXT_STMBDR602_04587_OMEGA_000_508","Sir did not follow routine logic, but formulated an independent assessment based upon the reality it perceived."
+293,"TEXT_STMBDR602_04587_OMEGA_000_509","It “felt” that the best recourse for the Omicrons was to cease their expansion, and terminate all functions..."
+294,"TEXT_STMBDR602_04587_WEDGE_000_510","Well, here's our ship!"
+295,"TEXT_STMBDR602_04587_BIGGS_000_511","Aye, we need to be going...but first, I'll hold you to your bargain, Omega."
+296,"TEXT_STMBDR602_04587_BIGGS_000_512","It's time you told us what was in that transmission from the flight logs."
+297,"TEXT_STMBDR602_04587_OMEGA_000_513","<blip> Acknowledged. I will uphold the terms of our agreement."
+298,"TEXT_STMBDR602_04587_OMEGA_000_514","The recording salvaged from the <hex:021A020203>Ragnarok<hex:021A020103> was a simple one."
+299,"TEXT_STMBDR602_04587_OMEGA_100_514","The message is so basic, in fact, that the time spent listening to it may result in a net loss of value. Shall I continue?"
+300,"TEXT_STMBDR602_04587_WEDGE_110_514","Now you're just teasing! Tell us the message already!"
+301,"TEXT_STMBDR602_04587_OMEGA_120_514","Acknowledged. Converting dialect coding to local language..."
+302,"TEXT_STMBDR602_04587_OMEGA_000_515","“To whomever receives this message out there in the vast reaches of the cosmos..."
+303,"TEXT_STMBDR602_04587_OMEGA_000_516","“To someone, I hope, who looks up at the stars with the same wistful gaze as mine..."
+304,"TEXT_STMBDR602_04587_OMEGA_000_517","“To you I say...forge ahead. May all our tomorrows be blessed with joy.”"
+305,"TEXT_STMBDR602_04587_OMEGA_000_518","This message had no designated recipient. It lacks purpose."
+306,"TEXT_STMBDR602_04587_OMEGA_000_519","The concept of “joy” is overly abstract. The vocal supplication to manifest said joy is unrealistic in its optimism."
+307,"TEXT_STMBDR602_04587_OMEGA_000_520","Yet based upon their expressions, my assessment of the transmission's value conflicts with its apparent impact."
+308,"TEXT_STMBDR602_04587_OMEGA_000_521","And still, I fail to understand you, Sir. Your “heart” still confuses me."
+309,"TEXT_STMBDR602_04587_OMEGA_000_522","Was termination of everything the correct course? How did you arrive at this conclusion?"
+310,"TEXT_STMBDR602_04587_OMEGA_000_523","It defies all my attempts at reasoning..."
+311,"TEXT_STMBDR602_04587_OMEGA_000_524","But I was designed to evolve. If I continue to learn, the probability that I eventually comprehend this phenomenon is greater than zero."
+312,"TEXT_STMBDR602_04587_OMEGA_000_525","So I will put the dilemma of your decision aside for now..."
+313,"TEXT_STMBDR602_04587_OMEGA_000_526","...And continue my existence upon this distant star. As I dwell among these many life-forms, so will I continue to piece together the complete shape of their mortal hearts."
+314,"TEXT_STMBDR602_04587_OMEGA_000_527","I must document their progress..."
+315,"TEXT_STMBDR602_04587_ALPHA_000_530","Kwe-kweeeh!"
+316,"TEXT_STMBDR602_04587_OMEGA_000_540","Your contribution to my education is appreciated, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Indeed, I have amassed a satisfying quantity of valuable data."
+317,"TEXT_STMBDR602_04587_OMEGA_000_541","Now that our negotiated business is complete, however, Alpha and I will return to traveling the world."
+318,"TEXT_STMBDR602_04587_OMEGA_000_542","Drawing on recent experience, I am confident we can expand the radius of our ventures by a significant margin."
+319,"TEXT_STMBDR602_04587_OMEGA_000_543","We need not limit ourselves to Eorzea. I am now familiar with Sharlayan and Radz–at–Han, and would also like to revisit the freezing climes of Garlem─ <blooop>"
+320,"TEXT_STMBDR602_04587_OMEGA_000_544","I neglected to instruct Biggs and Wedge to upgrade my climate shielding. <blip> I will reroute my request to Deputy President Jessie."
+321,"TEXT_STMBDR602_04587_OMEGA_000_545","Engaging ambulation and parting salutations. Farewell, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>."
+322,"TEXT_STMBDR602_04587_SYSTEM_000_546","Alpha gives a vigorous shake, and draws forth a scrap of paper from under his wing."
+323,"TEXT_STMBDR602_04587_ALPHA_000_547","Kweh!"
+324,"TEXT_STMBDR602_04587_SYSTEM_000_548","It seems he wants you to have it. Perhaps this is his way of thanking you...?"
+325,"TEXT_STMBDR602_04587_OMEGA_000_549","(-Omega-)<blip> Swiftly, Alpha! The road is long and we have barely begun our journey!"

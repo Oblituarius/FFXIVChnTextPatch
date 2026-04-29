@@ -1,60 +1,76 @@
-key,1,2
-#,,
-offset,0,4
-int32,str,str
-0,,
-1,¤ëªù°ò¦aªºÁp¦X¤uµ{§Y±N°Ê¤u¡C<hex:02100103>¤uµ{«æ»İ¤H¤â¡IÅwªï¦U¦ì¨ó§UªÌ¥[¤J¡I,¤ëªù°ò¦a¥¿¦b¶i¦æ²Ä¤@¦¸°ò¦aÂX«Ø¤uµ{¬I¤u¡I<hex:02100103>¤uµ{«æ»İ¤H¤â¡IÅwªï¦U¦ì¨ó§UªÌ¥[¤J¡I
-2,¤ëªù°ò¦aªºÁp¦X¤uµ{§Y±N°Ê¤u¡C<hex:02100103>¤uµ{«æ»İ¤H¤â¡IÅwªï¦U¦ì¨ó§UªÌ¥[¤J¡I,¤ëªù°ò¦a¥¿¦b¶}®i²Ä¤@¦¸¦t©z­¸½u¾Q³]¤uµ{¤ä´©¦æ°Ê¡I<hex:02100103>¤uµ{«æ»İ¤H¤â¡IÅwªï¦U¦ì¨ó§UªÌ¥[¤J¡I
-3,¤ëªù°ò¦aªF«n¤èªºÁp¦X¤uµ{§Y±N°Ê¤u¡C<hex:02100103>¤uµ{«æ»İ¤H¤â¡IÅwªï¦U¦ì¨ó§UªÌ¥[¤J¡I,¤ëªù°ò¦aªF«n¤è¥¿¦b¶}®i©~¦í¿µ¦w¸Ë¤uµ{¤ä´©¦æ°Ê¡I<hex:02100103>¤uµ{«æ»İ¤H¤â¡IÅwªï¦U¦ì¨ó§UªÌ¥[¤J¡I
-4,¤ëªù°ò¦a¦è¥_¤èªºÁp¦X¤uµ{§Y±N°Ê¤u¡C<hex:02100103>¤uµ{«æ»İ¤H¤â¡IÅwªï¦U¦ì¨ó§UªÌ¥[¤J¡I,¤ëªù°ò¦a¦è¥_¤è¥¿¦b¶}®i²Ä¤@¦¸¦t©z´ä«Ø³]¤uµ{¤ä´©¦æ°Ê¡I<hex:02100103>¤uµ{«æ»İ¤H¤â¡IÅwªï¦U¦ì¨ó§UªÌ¥[¤J¡I
-5,¤ëªù°ò¦aªF¥_¤èªºÁp¦X¤uµ{§Y±N°Ê¤u¡C<hex:02100103>¤uµ{«æ»İ¤H¤â¡IÅwªï¦U¦ì¨ó§UªÌ¥[¤J¡I,¤ëªù°ò¦aªF¥_¤è¥¿¦b¶}®i²Ä¤@¦¸¾÷¥Ò®wÂX«Ø¤uµ{¡I<hex:02100103>¤uµ{«æ»İ¤H¤â¡IÅwªï¦U¦ì¨ó§UªÌ¥[¤J¡I
-6,¼¥¼©ÆW¦è¥_¤èªº«Ø³]¤uµ{§Y±N§¹¤u¡C<hex:02100103>©¡®É¤uµ{¹ïÀ³ªº¬I¤u°Ï°ì±N¸T¤î¤H­û¶i¤J¡A·q½Ğª`·N¡C,
-7,¼¥¼©ÆWªF«n¤èªº«Ø³]¤uµ{§Y±N§¹¤u¡C<hex:02100103>©¡®É¤uµ{¹ïÀ³ªº¬I¤u°Ï°ì±N¸T¤î¤H­û¶i¤J¡A·q½Ğª`·N¡C,
-8,¼¥¼©ÆW«n³¡ªºÁp¦X¤uµ{§Y±N°Ê¤u¡C<hex:02100103>¤uµ{«æ»İ¤H¤â¡IÅwªï¦U¦ì¨ó§UªÌ¥[¤J¡I,¼¥¼©ÆW«n³¡¥¿¦b¶i¦æ²Ä¤@¦¸ÀG¹D¤uµ{¬I¤u¡I<hex:02100103>¤uµ{«æ»İ¤H¤â¡IÅwªï¦U¦ì¨ó§UªÌ¥[¤J¡I
-9,¼¥¼©ÆW«n³¡ªºÁp¦X¤uµ{§Y±N°Ê¤u¡C<hex:02100103>¤uµ{«æ»İ¤H¤â¡IÅwªï¦U¦ì¨ó§UªÌ¥[¤J¡I,¼¥¼©ÆW«n³¡¥¿¦b¶i¦æ²Ä¤G¦¸ÀG¹D¤uµ{¬I¤u¡I<hex:02100103>¤uµ{«æ»İ¤H¤â¡IÅwªï¦U¦ì¨ó§UªÌ¥[¤J¡I
-10,¼¥¼©ÆW¦è«n¤èÀG¹D²`³Bªº«Ø³]¤uµ{§Y±N§¹¤u¡C<hex:02100103>©¡®É¤uµ{¹ïÀ³ªº¬I¤u°Ï°ì±N¸T¤î¤H­û¶i¤J¡A·q½Ğª`·N¡C,
-11,¤ëªù°ò¦aªºÁp¦X¤uµ{§Y±N°Ê¤u¡C<hex:02100103>¤uµ{«æ»İ¤H¤â¡IÅwªï¦U¦ì¨ó§UªÌ¥[¤J¡I,¤ëªù°ò¦a¥¿¦b¶i¦æ²Ä¤G¦¸°ò¦aÂX«Ø¤uµ{¬I¤u¡I<hex:02100103>¤uµ{«æ»İ¤H¤â¡IÅwªï¦U¦ì¨ó§UªÌ¥[¤J¡I
-12,¤ëªù°ò¦a¦è«n¤èªºÁp¦X¤uµ{§Y±N°Ê¤u¡C<hex:02100103>¤uµ{«æ»İ¤H¤â¡IÅwªï¦U¦ì¨ó§UªÌ¥[¤J¡I,¤ëªù°ò¦a¦è«n¤è¥¿¦b¶}®i¯à·½³]¬IÂX«Ø¤uµ{¤ä´©¦æ°Ê¡I<hex:02100103>¤uµ{«æ»İ¤H¤â¡IÅwªï¦U¦ì¨ó§UªÌ¥[¤J¡I
-13,¤ëªù°ò¦a¦è³¡ªºÁp¦X¤uµ{§Y±N°Ê¤u¡C<hex:02100103>¤uµ{«æ»İ¤H¤â¡IÅwªï¦U¦ì¨ó§UªÌ¥[¤J¡I,¤ëªù°ò¦a¦è³¡¥¿¦b¶}®i¨Ñ¤ô³]¬IÂX«Ø¤uµ{¤ä´©¦æ°Ê¡I<hex:02100103>¤uµ{«æ»İ¤H¤â¡IÅwªï¦U¦ì¨ó§UªÌ¥[¤J¡I
-14,¤ëªù°ò¦aªF¥_¤èªºÁp¦X¤uµ{§Y±N°Ê¤u¡C<hex:02100103>¤uµ{«æ»İ¤H¤â¡IÅwªï¦U¦ì¨ó§UªÌ¥[¤J¡I,¤ëªù°ò¦aªF¥_¤è¥¿¦b¶}®i²Ä¤G¦¸¾÷¥Ò®wÂX«Ø¤uµ{¡I<hex:02100103>¤uµ{«æ»İ¤H¤â¡IÅwªï¦U¦ì¨ó§UªÌ¥[¤J¡I
-15,¤ëªù°ò¦a¦è¥_¤èªºÁp¦X¤uµ{§Y±N°Ê¤u¡C<hex:02100103>¤uµ{«æ»İ¤H¤â¡IÅwªï¦U¦ì¨ó§UªÌ¥[¤J¡I,¤ëªù°ò¦a¦è¥_¤è¥¿¦b¶}®i²Ä¤G¦¸¦t©z´ä«Ø³]¤uµ{¤ä´©¦æ°Ê¡I<hex:02100103>¤uµ{«æ»İ¤H¤â¡IÅwªï¦U¦ì¨ó§UªÌ¥[¤J¡I
-16,¼¥¼©ÆWªF¥_¤èªºÁp¦X¤uµ{§Y±N°Ê¤u¡C<hex:02100103>¤uµ{«æ»İ¤H¤â¡IÅwªï¦U¦ì¨ó§UªÌ¥[¤J¡I,¼¥¼©ÆWªF¥_¤è¥¿¦b¶i¦æ²Ä¤@¦¸¤É­°±è«Ø³]¥Î¦a¾ã³Æ¤uµ{¬I¤u¡I<hex:02100103>¤uµ{«æ»İ¤H¤â¡IÅwªï¦U¦ì¨ó§UªÌ¥[¤J¡I
-17,¼¥¼©ÆWªF¥_¤èªºÁp¦X¤uµ{§Y±N°Ê¤u¡C<hex:02100103>¤uµ{«æ»İ¤H¤â¡IÅwªï¦U¦ì¨ó§UªÌ¥[¤J¡I,¼¥¼©ÆWªF¥_¤è¥¿¦b¶i¦æ²Ä¤G¦¸¤É­°±è«Ø³]¥Î¦a¾ã³Æ¤uµ{¬I¤u¡I<hex:02100103>¤uµ{«æ»İ¤H¤â¡IÅwªï¦U¦ì¨ó§UªÌ¥[¤J¡I
-18,¼¥¼©ÆWªF¥_¤è¦a©³²`³Bªº«Ø³]¤uµ{§Y±N§¹¤u¡C<hex:02100103>©¡®É¤uµ{¹ïÀ³ªº¬I¤u°Ï°ì±N¸T¤î¤H­û¶i¤J¡A·q½Ğª`·N¡C,
-19,¤ëªù°ò¦aªºÁp¦X¤uµ{§Y±N°Ê¤u¡C<hex:02100103>¤uµ{«æ»İ¤H¤â¡IÅwªï¦U¦ì¨ó§UªÌ¥[¤J¡I,¤ëªù°ò¦a¥¿¦b¶i¦æ°ò¦aºî¦X³]¬IÂX«Ø¤uµ{¬I¤u¡I<hex:02100103>¤uµ{«æ»İ¤H¤â¡IÅwªï¦U¦ì¨ó§UªÌ¥[¤J¡I
-20,¬Á¼ş¦K°ò¦aªºÁp¦X¤uµ{§Y±N°Ê¤u¡C<hex:02100103>¤uµ{«æ»İ¤H¤â¡IÅwªï¦U¦ì¨ó§UªÌ¥[¤J¡I,¥¿¦b¶i¦æ²Ä¤@¦¸°ò¦aÂX«Ø¤uµ{¬I¤u¡I<hex:02100103>¤uµ{«æ»İ¤H¤â¡IÅwªï¦U¦ì¨ó§UªÌ¥[¤J¡I
-21,¬Á¼ş¦K©¥¸]ªºÁp¦X¤uµ{§Y±N°Ê¤u¡C<hex:02100103>¤uµ{«æ»İ¤H¤â¡IÅwªï¦U¦ì¨ó§UªÌ¥[¤J¡I,¥¿¦b¶}®i²Ä¤@¦¸¦t©z­¸½u¾Q³]¤uµ{¤ä´©¦æ°Ê¡I<hex:02100103>¤uµ{«æ»İ¤H¤â¡IÅwªï¦U¦ì¨ó§UªÌ¥[¤J¡I
-22,¬Á¼ş¦K°ò¦aªF¥_¤èªºÁp¦X¤uµ{§Y±N°Ê¤u¡C<hex:02100103>¤uµ{«æ»İ¤H¤â¡IÅwªï¦U¦ì¨ó§UªÌ¥[¤J¡I,¥¿¦b¶}®i©~¦í¿µ¦w¸Ë¤uµ{¤ä´©¦æ°Ê¡I<hex:02100103>¤uµ{«æ»İ¤H¤â¡IÅwªï¦U¦ì¨ó§UªÌ¥[¤J¡I
-23,¬Á¼ş¦K°ò¦aªF«n¤èªºÁp¦X¤uµ{§Y±N°Ê¤u¡C<hex:02100103>¤uµ{«æ»İ¤H¤â¡IÅwªï¦U¦ì¨ó§UªÌ¥[¤J¡I,¥¿¦b¶}®i¯à·½³]¬I«Ø³]¤uµ{¤ä´©¦æ°Ê¡I<hex:02100103>¤uµ{«æ»İ¤H¤â¡IÅwªï¦U¦ì¨ó§UªÌ¥[¤J¡I
-24,¬Á¼ş¦K°ò¦aªF«n¤èªºÁp¦X¤uµ{§Y±N°Ê¤u¡C<hex:02100103>¤uµ{«æ»İ¤H¤â¡IÅwªï¦U¦ì¨ó§UªÌ¥[¤J¡I,¥¿¦b¶}®i¨Ñ¤ô³]¬I«Ø³]¤uµ{¤ä´©¦æ°Ê¡I<hex:02100103>¤uµ{«æ»İ¤H¤â¡IÅwªï¦U¦ì¨ó§UªÌ¥[¤J¡I
-25,¬Á¼ş¦K°ò¦a¦è¥_¤èªºÁp¦X¤uµ{§Y±N°Ê¤u¡C<hex:02100103>¤uµ{«æ»İ¤H¤â¡IÅwªï¦U¦ì¨ó§UªÌ¥[¤J¡I,¥¿¦b¶}®i²Ä¤@¦¸¾÷¥Ò®wÂX«Ø¤uµ{¡I<hex:02100103>¤uµ{«æ»İ¤H¤â¡IÅwªï¦U¦ì¨ó§UªÌ¥[¤J¡I
-26,¥­­ì¦a°Ïªº¦t©z­¸½u¤uµ{§Y±N§¹¤u¡C<hex:02100103>©¡®É¤uµ{¹ïÀ³ªº¬I¤u°Ï°ì±N¸T¤î¤H­û¶i¤J¡A·q½Ğª`·N¡C,
-27,¤dªá¤s¥CªF«n¤èªºÁp¦X¤uµ{§Y±N°Ê¤u¡C<hex:02100103>¤uµ{«æ»İ¤H¤â¡IÅwªï¦U¦ì¨ó§UªÌ¥[¤J¡I,¥¿¦b¶i¦æ²Ä¤@¦¸¤É­°¾÷«Ø³]¤uµ{¬I¤u¡I<hex:02100103>¤uµ{«æ»İ¤H¤â¡IÅwªï¦U¦ì¨ó§UªÌ¥[¤J¡I
-28,½¦Ån®l¨¦ªF¥_¤èªºÁp¦X¤uµ{§Y±N°Ê¤u¡C<hex:02100103>¤uµ{«æ»İ¤H¤â¡IÅwªï¦U¦ì¨ó§UªÌ¥[¤J¡I,¥¿¦b¶i¦æ²Ä¤G¦¸¤É­°¾÷«Ø³]¤uµ{¬I¤u¡I<hex:02100103>¤uµ{«æ»İ¤H¤â¡IÅwªï¦U¦ì¨ó§UªÌ¥[¤J¡I
-29,½¦Ån®l¨¦©³³¡ªº¦t©z­¸½u¤uµ{§Y±N§¹¤u¡C<hex:02100103>©¡®É¤uµ{¹ïÀ³ªº¬I¤u°Ï°ì±N¸T¤î¤H­û¶i¤J¡A·q½Ğª`·N¡C,
-30,¬Á¼ş¦K°ò¦aªºÁp¦X¤uµ{§Y±N°Ê¤u¡C<hex:02100103>¤uµ{«æ»İ¤H¤â¡IÅwªï¦U¦ì¨ó§UªÌ¥[¤J¡I,¥¿¦b¶i¦æ²Ä¤G¦¸°ò¦aÂX«Ø¤uµ{¬I¤u¡I<hex:02100103>¤uµ{«æ»İ¤H¤â¡IÅwªï¦U¦ì¨ó§UªÌ¥[¤J¡I
-31,¬Á¼ş¦K°ò¦a¦è¥_¤èªºÁp¦X¤uµ{§Y±N°Ê¤u¡C<hex:02100103>¤uµ{«æ»İ¤H¤â¡IÅwªï¦U¦ì¨ó§UªÌ¥[¤J¡I,¥¿¦b¶}®i²Ä¤G¦¸¾÷¥Ò®wÂX«Ø¤uµ{¡I<hex:02100103>¤uµ{«æ»İ¤H¤â¡IÅwªï¦U¦ì¨ó§UªÌ¥[¤J¡I
-32,¬Á¼ş¦K°ò¦a¦è«n¤èªºÁp¦X¤uµ{§Y±N°Ê¤u¡C<hex:02100103>¤uµ{«æ»İ¤H¤â¡IÅwªï¦U¦ì¨ó§UªÌ¥[¤J¡I,¥¿¦b¶}®i¦t©z´ä«Ø³]¤uµ{¤ä´©¦æ°Ê¡I<hex:02100103>¤uµ{«æ»İ¤H¤â¡IÅwªï¦U¦ì¨ó§UªÌ¥[¤J¡I
-33,³J¥Õ¥Û¤Q¦r¤f¦è¥_¤èªºÁp¦X¤uµ{§Y±N°Ê¤u¡C<hex:02100103>¤uµ{«æ»İ¤H¤â¡IÅwªï¦U¦ì¨ó§UªÌ¥[¤J¡I,¥¿¦b¶}®i²Ä¤@¦¸¯à¶q¶°´²³]¬I«Ø³]¤uµ{¡I<hex:02100103>¤uµ{«æ»İ¤H¤â¡IÅwªï¦U¦ì¨ó§UªÌ¥[¤J¡I
-34,¤dªá¤s¥C¦è¥_¤èªºÁp¦X¤uµ{§Y±N°Ê¤u¡C<hex:02100103>¤uµ{«æ»İ¤H¤â¡IÅwªï¦U¦ì¨ó§UªÌ¥[¤J¡I,¥¿¦b¶}®i²Ä¤G¦¸¯à¶q¶°´²³]¬I«Ø³]¤uµ{¡I<hex:02100103>¤uµ{«æ»İ¤H¤â¡IÅwªï¦U¦ì¨ó§UªÌ¥[¤J¡I
-35,¬ÁÄtªe©¤«n³¡ªºÁp¦X¤uµ{§Y±N°Ê¤u¡C<hex:02100103>¤uµ{«æ»İ¤H¤â¡IÅwªï¦U¦ì¨ó§UªÌ¥[¤J¡I,¥¿¦b¶}®i§N«oµL¤H¾÷¾ÚÂI«Ø³]¤uµ{¡I<hex:02100103>¤uµ{«æ»İ¤H¤â¡IÅwªï¦U¦ì¨ó§UªÌ¥[¤J¡I
-36,º²¤õ´é¹DªºÁp¦X¤uµ{§Y±N°Ê¤u¡C<hex:02100103>¤uµ{«æ»İ¤H¤â¡IÅwªï¦U¦ì¨ó§UªÌ¥[¤J¡I,¥¿¦b¶}®i²Ä¤@¦¸§N«oº²¿Ä¬Á¼ş¤j§@¾Ô¡I<hex:02100103>¤uµ{«æ»İ¤H¤â¡IÅwªï¦U¦ì¨ó§UªÌ¥[¤J¡I
-37,º²¤õ´é¹DªºÁp¦X¤uµ{§Y±N°Ê¤u¡C<hex:02100103>¤uµ{«æ»İ¤H¤â¡IÅwªï¦U¦ì¨ó§UªÌ¥[¤J¡I,¥¿¦b¶}®i²Ä¤G¦¸§N«oº²¿Ä¬Á¼ş¤j§@¾Ô¡I<hex:02100103>¤uµ{«æ»İ¤H¤â¡IÅwªï¦U¦ì¨ó§UªÌ¥[¤J¡I
-38,º²¤õ´é¹Dªº¦t©z­¸½u¤uµ{§Y±N§¹¤u¡C<hex:02100103>©¡®É¤uµ{¹ïÀ³ªº¬I¤u°Ï°ì±N¸T¤î¤H­û¶i¤J¡A·q½Ğª`·N¡C,
-39,¬Á¼ş¦K°ò¦aªºÁp¦X¤uµ{§Y±N°Ê¤u¡C<hex:02100103>¤uµ{«æ»İ¤H¤â¡IÅwªï¦U¦ì¨ó§UªÌ¥[¤J¡I,¥¿¦b¶i¦æ°ò¦aºî¦X³]¬IÂX«Ø¤uµ{¬I¤u¡I<hex:02100103>¤uµ{«æ»İ¤H¤â¡IÅwªï¦U¦ì¨ó§UªÌ¥[¤J¡I
-40,,
-41,,
-42,,
-43,,
-44,,
-45,,
-46,,
-47,,
-48,,
-49,,
-50,,
-51,,
-52,,
-53,,
-54,,
-55,,
+ï»¿key,0,1,2
+#,,,
+offset,8,0,4
+int32,uint16,str,str
+0,0,"",""
+1,1978,"Work will soon commence at the Moongate Hub.<hex:02100103>Contributors wanted!","â€œBase Camp Alpha Expansionâ€ has commenced at the Moongate Hub. Contributors wanted!"
+2,1979,"Work will soon commence at the Moongate Hub.<hex:02100103>Contributors wanted!","â€œCosmoliner Alpha Construction Supportâ€ has commenced at the Moongate Hub. Contributors wanted!"
+3,1980,"Work will soon commence in the Moongate Hub's southeastern sector.<hex:02100103>Contributors wanted!","â€œHabitation Module Construction Supportâ€ has commenced in the Moongate Hub's southeastern sector. Contributors wanted!"
+4,1981,"Work will soon commence in the Moongate Hub's northwestern sector.<hex:02100103>Contributors wanted!","â€œCosmoport Alpha Maintenance Supportâ€ has commenced in the Moongate Hub's northwestern sector. Contributors wanted!"
+5,1982,"Work will soon commence in the Moongate Hub's northeastern sector.<hex:02100103>Contributors wanted!","â€œMech Hangar Alpha Expansionâ€ has commenced in the Moongate Hub's northeastern sector. Contributors wanted!"
+6,0,"Work in northwest Sinus Ardorum is nearly finished. Access to the work site will be restricted upon completion.",""
+7,0,"Work in southeast Sinus Ardorum is nearly finished. Access to the work site will be restricted upon completion.",""
+8,1983,"Work will soon commence in southern Sinus Ardorum.<hex:02100103>Contributors wanted!","â€œTunnel Project Alpha Excavationâ€ has commenced in southern Sinus Ardorum. Contributors wanted!"
+9,1984,"Work will soon commence in southern Sinus Ardorum.<hex:02100103>Contributors wanted!","â€œTunnel Project Beta Excavationâ€ has commenced in southern Sinus Ardorum. Contributors wanted!"
+10,0,"Work in southwest Sinus Ardorum is nearly finished. Access to the work site will be restricted upon completion.",""
+11,1985,"Work will soon commence at the Moongate Hub.<hex:02100103>Contributors wanted!","â€œBase Camp Beta Expansionâ€ has commenced at the Moongate Hub. Contributors wanted!"
+12,1986,"Work will soon commence in the Moongate Hub's southwestern sector.<hex:02100103>Contributors wanted!","â€œEnergization Expansion Supportâ€ has commenced in the Moongate Hub's southwestern sector. Contributors wanted!"
+13,1987,"Work will soon commence in the Moongate Hub's western sector.<hex:02100103>Contributors wanted!","â€œHydrofication Expansion Supportâ€ has commenced in the Moongate Hub's western sector. Contributors wanted!"
+14,1988,"Work will soon commence in the Moongate Hub's northeastern sector. Contributors wanted!","â€œMech Hangar Beta Constructionâ€ has commenced in the Moongate Hub's northeastern sector. Contributors wanted!"
+15,1989,"Work will soon commence in the Moongate Hub's northwestern sector. Contributors wanted!","â€œCosmoport Beta Constructionâ€ has commenced in the Moongate Hub's northwestern sector. Contributors wanted!"
+16,1990,"Work will soon commence in northeast Sinus Ardorum. Contributors wanted!","â€œNadir Lift Preliminary Constructionâ€ has commenced in northeast Sinus Ardorum. Contributors wanted!"
+17,1991,"Work will soon commence in northeast Sinus Ardorum. Contributors wanted!","â€œNadir Lift Final Constructionâ€ has commenced in northeast Sinus Ardorum. Contributors wanted!"
+18,0,"Work in northeast Sinus Ardorum is nearly finished. Access to the work site will be restricted upon completion.",""
+19,1992,"Work will soon commence at the Moongate Hub. Contributors wanted!","â€œLunar Hopopolis Constructionâ€ has commenced at the Moongate Hub. Contributors wanted!"
+20,2008,"Work will soon commence at Glassblowers' Beacon.<hex:02100103>Contributors wanted!","â€œBeacon Camp Alpha Expansionâ€ has commenced at Glassblowers' Beacon. Contributors wanted!"
+21,2009,"Work will soon commence at the Glassblown Grotto.<hex:02100103>Contributors wanted!","â€œCosmoliner Alpha Construction Supportâ€ has commenced at the Glassblown Grotto. Contributors wanted!"
+22,2010,"Work will soon commence to the northeast of Glassblowers' Beacon.<hex:02100103>Contributors wanted!","â€œHabitation Module Construction Supportâ€ has commenced to the northeast of Glassblowers' Beacon. Contributors wanted!"
+23,2011,"Work will soon commence to the southeast of Glassblowers' Beacon.<hex:02100103>Contributors wanted!","â€œEnergization Station Construction Supportâ€ has commenced to the southeast of Glassblowers' Beacon. Contributors wanted!"
+24,2012,"Work will soon commence to the southeast of Glassblowers' Beacon.<hex:02100103>Contributors wanted!","â€œHydrofication Station Construction Supportâ€ has commenced to the southeast of Glassblowers' Beacon. Contributors wanted!"
+25,2013,"Work will soon commence in the northwestern sector of Glassblowers' Beacon. Contributors wanted!","â€œMech Hangar Alpha Expansionâ€ has commenced in the northwestern sector of Glassblowers' Beacon. Contributors wanted!"
+26,0,"Work on the Cosmoliner Floatshore Filigree is nearly finished. Access to the work site will be restricted upon completion.",""
+27,2014,"Work will soon commence in southeast Millefiori.<hex:02100103>Contributors wanted!","â€œUpper Crane Constructionâ€ has commenced in southeast Millefiori. Contributors wanted!"
+28,2015,"Work will soon commence in northeast Capsule Chasm.<hex:02100103>Contributors wanted!","â€œLower Crane Constructionâ€ has commenced in northeast Capsule Chasm. Contributors wanted!"
+29,0,"Work on the Chasmwind Filigree is nearly finished. Access to the work site will be restricted upon completion.",""
+30,2016,"Work will soon commence at Glassblowers' Beacon.<hex:02100103>Contributors wanted!","â€œBeacon Camp Beta Expansionâ€ has commenced at Glassblowers' Beacon. Contributors wanted!"
+31,2017,"Work will soon commence at Glassblowers' Beacon's northwestern sector.<hex:02100103>Contributors wanted!","â€œMech Hangar Beta Expansionâ€ has commenced at Glassblowers' Beacon's northwestern sector. Contributors wanted!"
+32,2018,"Work will soon commence at Glassblowers' Beacon's southwestern sector.<hex:02100103>Contributors wanted!","â€œCosmoport Maintenance Supportâ€ has commenced at Glassblowers' Beacon's southwestern sector. Contributors wanted!"
+33,2019,"Work will soon commence in northwest Opalescent Crossing.<hex:02100103>Contributors wanted!","â€œPower Procurementâ€ has commenced in northwest Opalescent Crossing. Contributors wanted!"
+34,2020,"Work will soon commence in northwest Millefiori.<hex:02100103>Contributors wanted!","â€œAdditional Power Procurementâ€ has commenced in northwest Millefiori. Contributors wanted!"
+35,2021,"Work will soon commence in the Saltpeter Shore's southern sector.<hex:02100103>Contributors wanted!","â€œMobilization Station Constructionâ€ has commenced in the Saltpeter Shore's southern sector. Contributors wanted!"
+36,2022,"Work will soon commence at Fusingway Vent.<hex:02100103>Contributors wanted!","â€œOperation Chilling-a-Way: Phase Oneâ€ has commenced at Fusingway Vent. Contributors wanted!"
+37,2023,"Work will soon commence at Fusingway Vent.<hex:02100103>Contributors wanted!","â€œOperation Chilling-a-Way: Phase Twoâ€ has commenced at Fusingway Vent. Contributors wanted!"
+38,0,"Work on the Fusingway Vent Cosmoliner is nearly finished. Access to the work site will be restricted upon completion.",""
+39,2024,"Work will soon commence in Glassblowers' Beacon.<hex:02100103>Contributors wanted!","â€œBeacon Camp Facility Expansionâ€ has commenced in Glassblowers' Beacon. Contributors wanted!"
+40,2046,"Work will soon commence to the north of Terra Firma.<hex:02100103>Contributors wanted!","Work is now underway to the north of Terra Firma! Contributors wanted!"
+41,0,"Work on the central Cosmoliner is nearly finished.<hex:02100103>Access to the work site will be restricted upon completion.",""
+42,2047,"Work will soon commence on the first of two joint projects.<hex:02100103>Contributors should gather to the west of Terra Firma!","Work is now underway to the west of Terra Firma! Contributors wanted!"
+43,2048,"Work will soon commence on the second of two joint projects.<hex:02100103>Contributors should gather to the west of Terra Firma!","Work is now underway to the west of Terra Firma! Contributors wanted!"
+44,2049,"Work will soon commence at the Unmoored Anchor.<hex:02100103>Contributors wanted!","Work is now underway at the Unmoored Anchor! Contributors wanted!"
+45,0,"Work on the Cosmoliner in Shadefleet is nearly finished. Access to the work site will be restricted upon completion.",""
+46,2050,"Work will soon commence at Terra Firma.<hex:02100103>Contributors wanted!","Work is now underway at Terra Firma! Contributors wanted!"
+47,2051,"Work will soon commence at Terra Firma.<hex:02100103>Contributors should gather on the upper platforms!","Work is now underway at Terra Firma! Contributors wanted!"
+48,2052,"Work will soon commence to the north of Terra Firma.<hex:02100103>Contributors wanted!","Work is now underway to the north of Terra Firma!<hex:02100103>Contributors wanted!"
+49,2053,"Work will soon commence at Emerald Echoes.<hex:02100103>Contributors wanted!","Work is now underway at Emerald Echoes! Contributors wanted!"
+50,2054,"Work will soon commence at Emerald Echoes. Contributors wanted!","Work is now underway at Emerald Echoes! Contributors wanted!"
+51,2055,"Work will soon commence at the ruins in Emerald Echoes. Contributors wanted!","Work is now underway at the ruins in Emerald Echoes! Contributors wanted!"
+52,2056,"Work will soon commence at the ruins in Emerald Echoes.<hex:02100103>Contributors wanted!","Work is now underway at the ruins in Emerald Echoes! Contributors wanted!"
+53,0,"Work on the Cosmoliner in the ruins of Emerald Echoes is nearly finished. Access to the work site will be restricted upon completion.",""
+54,2057,"Work will soon commence at Terra Firma.<hex:02100103>Contributors wanted!","Work is now underway at Terra Firma! Contributors wanted!"
+55,2058,"Work will soon commence on the roof of Terra Firma.<hex:02100103>Contributors should take the elevator to the project site!","Work is now underway on the roof of Terra Firma!<hex:02100103>Contributors should take the elevator to the project site!"
+56,0,"",""
+57,0,"",""
+58,0,"",""
+59,0,"",""
+60,0,"",""
+61,0,"",""
+62,0,"",""
+63,0,"",""
+64,0,"",""
+65,0,"",""
+66,0,"",""
+67,0,"",""
+68,0,"",""
+69,0,"",""
+70,0,"",""
+71,0,"",""

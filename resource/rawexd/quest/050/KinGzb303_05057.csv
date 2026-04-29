@@ -2,86 +2,86 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_KINGZB303_05057_SEQ_00,<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整<hex:0249020103><hex:0248020103><hex:02100103>沃拉的迴響的姆伏魯正在思考什麼是為人類做貢獻的工作。
-1,TEXT_KINGZB303_05057_SEQ_01,※本任務為<hex:024804F201FC03><hex:024904F201FD03><hex:0249020103><hex:0248020103> 等級調整任務。<hex:02100103><hex:02100103>和姆伏魯進行了交談。姆伏魯表示願意擔當佩魯佩魯族的護衛，並希望冒險者在此之前可以為他做個示範。和奧闊帕恰山哀苦的遺影南側的姆伏魯談談。
-2,TEXT_KINGZB303_05057_SEQ_02,和姆伏魯進行了交談，冒險者決定就護衛的工作一事為他做個示範。將姆伏魯護送到哀苦的遺影的<hex:02280CFF05>EObj<hex:F61EBC440103>。<hex:02100103><hex:02100103>※如果和姆伏魯走散了，就回到哀苦的遺影南側，再次和姆伏魯對話。
-3,TEXT_KINGZB303_05057_SEQ_03,在哀苦的遺影討伐了出現的魔物。繼續將姆伏魯護送到哀苦的遺影頂部附近的<hex:02280CFF05>EObj<hex:F61EBC450103>。
-4,TEXT_KINGZB303_05057_SEQ_04,成功將姆伏魯護送到了哀苦的遺影的頂部。和哀苦的遺影的姆伏魯談談。
-5,TEXT_KINGZB303_05057_SEQ_05,和姆伏魯進行了交談，了解了他對佩魯佩魯族的想法。再次和回到了沃拉的迴響的姆伏魯談談。
-6,TEXT_KINGZB303_05057_SEQ_06,姆伏魯下定了決心要成為一名護衛。就來見證他的護衛工作是否能一帆風順吧。
-7,TEXT_KINGZB303_05057_SEQ_07,
-8,TEXT_KINGZB303_05057_SEQ_08,
-9,TEXT_KINGZB303_05057_SEQ_09,
-10,TEXT_KINGZB303_05057_SEQ_10,
-11,TEXT_KINGZB303_05057_SEQ_11,
-12,TEXT_KINGZB303_05057_SEQ_12,
-13,TEXT_KINGZB303_05057_SEQ_13,
-14,TEXT_KINGZB303_05057_SEQ_14,
-15,TEXT_KINGZB303_05057_SEQ_15,
-16,TEXT_KINGZB303_05057_SEQ_16,
-17,TEXT_KINGZB303_05057_SEQ_17,
-18,TEXT_KINGZB303_05057_SEQ_18,
-19,TEXT_KINGZB303_05057_SEQ_19,
-20,TEXT_KINGZB303_05057_SEQ_20,
-21,TEXT_KINGZB303_05057_SEQ_21,
-22,TEXT_KINGZB303_05057_SEQ_22,
-23,TEXT_KINGZB303_05057_SEQ_23,
-24,TEXT_KINGZB303_05057_TODO_00,和姆伏魯對話
-25,TEXT_KINGZB303_05057_TODO_01,將姆伏魯護送到<hex:02280CFF05>EObj<hex:F61EBC440103>
-26,TEXT_KINGZB303_05057_TODO_02,繼續將姆伏魯護送到<hex:02280CFF05>EObj<hex:F61EBC450103>
-27,TEXT_KINGZB303_05057_TODO_03,和姆伏魯對話
-28,TEXT_KINGZB303_05057_TODO_04,再次和姆伏魯對話
-29,TEXT_KINGZB303_05057_TODO_05,
-30,TEXT_KINGZB303_05057_TODO_06,
-31,TEXT_KINGZB303_05057_TODO_07,
-32,TEXT_KINGZB303_05057_TODO_08,
-33,TEXT_KINGZB303_05057_TODO_09,
-34,TEXT_KINGZB303_05057_TODO_10,
-35,TEXT_KINGZB303_05057_TODO_11,
-36,TEXT_KINGZB303_05057_TODO_12,
-37,TEXT_KINGZB303_05057_TODO_13,
-38,TEXT_KINGZB303_05057_TODO_14,
-39,TEXT_KINGZB303_05057_TODO_15,
-40,TEXT_KINGZB303_05057_TODO_16,
-41,TEXT_KINGZB303_05057_TODO_17,
-42,TEXT_KINGZB303_05057_TODO_18,
-43,TEXT_KINGZB303_05057_TODO_19,
-44,TEXT_KINGZB303_05057_TODO_20,
-45,TEXT_KINGZB303_05057_TODO_21,
-46,TEXT_KINGZB303_05057_TODO_22,
-47,TEXT_KINGZB303_05057_TODO_23,
-48,TEXT_KINGZB303_05057_MURFURLUR_000_000,雖然我也想找到一份既能活用自己的戰鬥本領，<hex:02100103>又能為人們做貢獻從而獲得喜悅的工作，<hex:02100103>但如果局限於村落內，很難定期接到這種工作，這點我已經明白。
-49,TEXT_KINGZB303_05057_MURFURLUR_000_001,抱歉總是要藉助你的智慧，<hex:02100103>但如果是你的話會怎麼做呢？
-50,TEXT_KINGZB303_05057_Q1_000_000,如何作答？
-51,TEXT_KINGZB303_05057_A1_000_001,或者可以去其他村落尋找僱主
-52,TEXT_KINGZB303_05057_A1_000_002,去給別人當護衛
-53,TEXT_KINGZB303_05057_A1_000_003,……
-54,TEXT_KINGZB303_05057_MURFURLUR_000_002,原來如此，附近的村落啊……<hex:02100103>如果有佩魯佩魯族願意成為僱主的話，<hex:02100103>那應該就不用為工作發愁了。
-55,TEXT_KINGZB303_05057_MURFURLUR_000_003,原來如此，保護他人的工作啊。<hex:02100103>說到需要護衛的僱主……對了。
-56,TEXT_KINGZB303_05057_MURFURLUR_100_003,嗯……是要讓我自己思考嗎？<hex:02100103>那麼……保護他人的工作……<hex:02100103>成為佩魯佩魯族的護衛怎麼樣？
-57,TEXT_KINGZB303_05057_MURFURLUR_000_004,佩魯佩魯族因為經常要去各地行商所以會僱傭護衛。<hex:02100103>如果是從魔物和盜賊手中保護委託人和商品的工作的話，<hex:02100103>那我的戰鬥本領就有用武之地了。
-58,TEXT_KINGZB303_05057_MURFURLUR_000_005,不過佩魯佩魯族啊……<hex:02100103>一旦和他們扯上關係，多少還是有點顧慮的。
-59,TEXT_KINGZB303_05057_MURFURLUR_000_006,實在是不好意思……<hex:02100103>在去找佩魯佩魯族之前，<hex:02100103>可以請你先就護衛一事對我進行一下指導嗎？
-60,TEXT_KINGZB303_05057_MURFURLUR_000_007,方便的話，請你移駕村落外面的哀苦的遺影南側。<hex:02100103>具體事宜就在那邊詳談吧。
-61,TEXT_KINGZB303_05057_MURFURLUR_000_010,感謝你願意一直這樣陪著我。<hex:02100103>我之前保護的都是一動不動的神殿。<hex:02100103>雖然我對自己的實力很有自信，但僅僅這樣恐怕行不通。
-62,TEXT_KINGZB303_05057_MURFURLUR_000_011,<hex:022903EB0203>閣下，<hex:02100103>就麻煩你把我護送到哀苦的遺影，<hex:02100103>讓我跟著你好好學習一下。
-63,TEXT_KINGZB303_05057_MURFURLUR_000_012,在豔翼蛇鳥出現之前，<hex:02100103>那裡曾經是我生活過的地方……
-64,TEXT_KINGZB303_05057_MURFURLUR_000_013,我們就先前往那裡的頂部，查看周圍的廢棄小屋吧。<hex:02100103>現在那邊還有魔物，所以千萬要小心。
-65,TEXT_KINGZB303_05057_SYSTEM_000_014,現在開始護送姆伏魯。<hex:02100103>姆伏魯和冒險者走散後就會回到開始地點。<hex:02100103>再次和姆伏魯對話後，即可繼續護送。
-66,TEXT_KINGZB303_05057_BALLOON_000_015,就拜託你了。
-67,TEXT_KINGZB303_05057_BALLOON_000_016,護衛還真不是一件容易的差事啊……
-68,TEXT_KINGZB303_05057_MURFURLUR_000_017,請讓我跟著你學習如何成為一名護衛。<hex:02100103>我們先前往哀苦的遺影吧。
-69,TEXT_KINGZB303_05057_SYSTEM_000_018,和姆伏魯走散了，因此無法完成目標。<hex:02100103>和回到哀苦的遺影南側的姆伏魯對話，<hex:02100103>再一次將其護送至此地。
-70,TEXT_KINGZB303_05057_SYSTEM_000_019,姆伏魯還沒過來。<hex:02100103>迎接並將其護送至此地。
-71,TEXT_KINGZB303_05057_MURFURLUR_000_030,(-姆伏魯-)如你所見，這附近的房屋都已經被遺棄很久了……<hex:02100103>雖然我有很多想跟你聊的，但在這裡總感覺靜不下心來。<hex:02100103>接下來可以麻煩你把我護送到懸崖邊上嗎？
-72,TEXT_KINGZB303_05057_SYSTEM_000_035,查看了一下周圍，這一帶似乎沒有魔物。
-73,TEXT_KINGZB303_05057_MURFURLUR_000_040,與護送對象保持適當的距離，還有警戒周圍的方法……<hex:02100103>這些都是守衛神殿時沒有意識過的事情，真是有了不少新發現啊。<hex:02100103>感謝你能為我展示你的實力。
-74,TEXT_KINGZB303_05057_MURFURLUR_000_041,至於為什麼會選擇這裡……<hex:02100103>你看懸崖下邊是不是能看到佩魯佩魯族的村落？
-75,TEXT_KINGZB303_05057_MURFURLUR_000_042,哀苦的遺影和他們的村落之間以前是有山路相通的。<hex:02100103>那還是我們用力量支配佩魯佩魯族那個時代的事。
-76,TEXT_KINGZB303_05057_MURFURLUR_000_043,在古魯加加大人到訪，結束了這段從屬關係之前，<hex:02100103>聽說我們每年都會以保護費的名義要求他們上供。
-77,TEXT_KINGZB303_05057_MURFURLUR_000_044,因此也有部分同胞認為支配其他種族這段記憶並沒有什麼不妥。
-78,TEXT_KINGZB303_05057_MURFURLUR_000_045,如今那段過去已成往事，我們與佩魯佩魯族也在不斷加深彼此交流。<hex:02100103>可以的話，我也想為願意信任我們的佩魯佩魯族提供幫助，<hex:02100103>成為他們值得依賴的好護衛……
-79,TEXT_KINGZB303_05057_MURFURLUR_000_046,啊、不好意思，一不小心聊入迷了。<hex:02100103>我們回沃拉的迴響吧。
-80,TEXT_KINGZB303_05057_MURFURLUR_000_050,感謝你為我尋找生計的事提供幫助。<hex:02100103>多虧了你，我找到了護衛這個理想的目標。
-81,TEXT_KINGZB303_05057_MURFURLUR_000_051,護衛佩魯佩魯族，讓他們感到安心……<hex:02100103>希望他們能夠理解尤卡巨人族中，<hex:02100103>也有一部分人願意與他們加深關係。
-82,TEXT_KINGZB303_05057_MURFURLUR_000_052,不過要是找不到僱主的話，<hex:02100103>一切也都無從談起了……<hex:02100103>那就事不宜遲趕緊行動起來吧。
+0,"TEXT_KINGZB303_05057_SEQ_00","<hex:024804F201FC03><hex:024904F201FD03> Quest Sync<hex:0249020103><hex:0248020103><hex:02100103>Murfurlur has been thinking long and hard about how he might best serve others."
+1,"TEXT_KINGZB303_05057_SEQ_01","With your encouragement, Murfurlur has decided to look for work as a bodyguard. He suspects that one of the many traveling Pelupelu merchants would likely have need of protection, but lacks the confidence to approach them in this capacity. And so, to better prepare himself, he asks that you help by training him first. Once you rendezvous with him south of the Shades of Grief, you may proceed with his education.<hex:02100103><hex:02100103>※Please note that the difficulty of this quest has been synced to your current level."
+2,"TEXT_KINGZB303_05057_SEQ_02","Murfurlur requests that you act as his bodyguard so that he might learn from your example. To that end, you must keep your eyes peeled and protect him from any perceived threats until you reach the ruins at the Shades of Grief.<hex:02100103><hex:02100103>※You must be accompanied by Murfurlur to complete this task. Speak with him again should you become separated."
+3,"TEXT_KINGZB303_05057_SEQ_03","You manage to fend off all threats on the way to the Shades of Grief. Murfurlur will only require your escort until you reach the peak."
+4,"TEXT_KINGZB303_05057_SEQ_04","As before, no ferocious beast is a match for your might. Having reached the zenith of the Shades of Grief, Murfurlur basks in the breathtaking scenery. His gaze, you note, is drawn to the Pelupelu village down below..."
+5,"TEXT_KINGZB303_05057_SEQ_05","Reflecting on the history between his people and the Pelupelu, Murfurlur expresses guilt and trepidation at the thought of how he might live on in the memories of his neighbors. Though he aspires to be a gentle guardian, he is aware that the Pelupelu elders will not soon forget the dark deeds of the Yok Huy─nor should they. Your training session complete, he heads back to Worlar's Echo and invites you to follow."
+6,"TEXT_KINGZB303_05057_SEQ_06","Murfurlur believes that, through his new ambition, he has the power to show the Pelupelu that the Yok Huy of the present are not the same as their ancestors. He hopes that he can continue to rely on you for support as he searches for a new client."
+7,"TEXT_KINGZB303_05057_SEQ_07",""
+8,"TEXT_KINGZB303_05057_SEQ_08",""
+9,"TEXT_KINGZB303_05057_SEQ_09",""
+10,"TEXT_KINGZB303_05057_SEQ_10",""
+11,"TEXT_KINGZB303_05057_SEQ_11",""
+12,"TEXT_KINGZB303_05057_SEQ_12",""
+13,"TEXT_KINGZB303_05057_SEQ_13",""
+14,"TEXT_KINGZB303_05057_SEQ_14",""
+15,"TEXT_KINGZB303_05057_SEQ_15",""
+16,"TEXT_KINGZB303_05057_SEQ_16",""
+17,"TEXT_KINGZB303_05057_SEQ_17",""
+18,"TEXT_KINGZB303_05057_SEQ_18",""
+19,"TEXT_KINGZB303_05057_SEQ_19",""
+20,"TEXT_KINGZB303_05057_SEQ_20",""
+21,"TEXT_KINGZB303_05057_SEQ_21",""
+22,"TEXT_KINGZB303_05057_SEQ_22",""
+23,"TEXT_KINGZB303_05057_SEQ_23",""
+24,"TEXT_KINGZB303_05057_TODO_00","Speak with Murfurlur."
+25,"TEXT_KINGZB303_05057_TODO_01","Escort Murfurlur to the Shades of Grief."
+26,"TEXT_KINGZB303_05057_TODO_02","Escort Murfurlur to the zenith of the Shades of Grief."
+27,"TEXT_KINGZB303_05057_TODO_03","Speak with Murfurlur."
+28,"TEXT_KINGZB303_05057_TODO_04","Speak with Murfurlur once more."
+29,"TEXT_KINGZB303_05057_TODO_05",""
+30,"TEXT_KINGZB303_05057_TODO_06",""
+31,"TEXT_KINGZB303_05057_TODO_07",""
+32,"TEXT_KINGZB303_05057_TODO_08",""
+33,"TEXT_KINGZB303_05057_TODO_09",""
+34,"TEXT_KINGZB303_05057_TODO_10",""
+35,"TEXT_KINGZB303_05057_TODO_11",""
+36,"TEXT_KINGZB303_05057_TODO_12",""
+37,"TEXT_KINGZB303_05057_TODO_13",""
+38,"TEXT_KINGZB303_05057_TODO_14",""
+39,"TEXT_KINGZB303_05057_TODO_15",""
+40,"TEXT_KINGZB303_05057_TODO_16",""
+41,"TEXT_KINGZB303_05057_TODO_17",""
+42,"TEXT_KINGZB303_05057_TODO_18",""
+43,"TEXT_KINGZB303_05057_TODO_19",""
+44,"TEXT_KINGZB303_05057_TODO_20",""
+45,"TEXT_KINGZB303_05057_TODO_21",""
+46,"TEXT_KINGZB303_05057_TODO_22",""
+47,"TEXT_KINGZB303_05057_TODO_23",""
+48,"TEXT_KINGZB303_05057_MURFURLUR_000_000","Greetings, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. I seek a new venture through which I may use my martial prowess to aid others, but the fact remains that I am unlikely to find one in this village."
+49,"TEXT_KINGZB303_05057_MURFURLUR_000_001","It seems I have no choice but to beg the boon of your wisdom once more. Have you any ideas?"
+50,"TEXT_KINGZB303_05057_Q1_000_000","What will you say?"
+51,"TEXT_KINGZB303_05057_A1_000_001","Try asking around at another village."
+52,"TEXT_KINGZB303_05057_A1_000_002","Perhaps you could look for work as a bodyguard."
+53,"TEXT_KINGZB303_05057_A1_000_003","..."
+54,"TEXT_KINGZB303_05057_MURFURLUR_000_002","Our closest neighbors are the Pelupelu of Wachunpelo. Hmm...yes, perhaps the little ones would have need of a protector."
+55,"TEXT_KINGZB303_05057_MURFURLUR_000_003","Ah, yes, that would suit my strengths. As for who might have need of protection..."
+56,"TEXT_KINGZB303_05057_MURFURLUR_100_003","I take it you would have me solve this conundrum on my own. Well then, as a former guardian of Karryorzar the Gracious, perhaps I could serve as someone's protector... Someone small and weak..."
+57,"TEXT_KINGZB303_05057_MURFURLUR_000_004","Come to think of it, there are no few traveling Pelupelu merchants who employ bodyguards to defend them from beasts and bandits."
+58,"TEXT_KINGZB303_05057_MURFURLUR_000_005","However, I am unaccustomed to dealing with their kind and lack the confidence to approach them─especially given my unfamiliarity with this profession."
+59,"TEXT_KINGZB303_05057_MURFURLUR_000_006","Therefore, while it pains me to impose upon your goodwill once more...would you be willing to train me in the ways of the bodyguard?"
+60,"TEXT_KINGZB303_05057_MURFURLUR_000_007","If so, I ask that you join me just outside the village, on the path to the Shades of Grief."
+61,"TEXT_KINGZB303_05057_MURFURLUR_000_010","I thank you for joining me. Now, while I am no stranger to battle, I have only ever guarded a sanctum, not an individual."
+62,"TEXT_KINGZB303_05057_MURFURLUR_000_011","Therefore, I propose that you act as my bodyguard that I may learn from your example. We will together travel this road to the Shades of Grief."
+63,"TEXT_KINGZB303_05057_MURFURLUR_000_012","At one time─before the coming of the Skyruin─it was our ancestral home."
+64,"TEXT_KINGZB303_05057_MURFURLUR_000_013","I should like to climb to its zenith and get a good look at the surrounding ruins, but be warned: these days it is home to many ravenous beasts."
+65,"TEXT_KINGZB303_05057_SYSTEM_000_014","Escort Murfurlur to the Shades of Grief. Should you fail to defend him, or move too far away, he will return to the starting position, where you may rendezvous with him before trying again."
+66,"TEXT_KINGZB303_05057_BALLOON_000_015","I am sure to learn much from this."
+67,"TEXT_KINGZB303_05057_BALLOON_000_016","This work is more difficult than I realized..."
+68,"TEXT_KINGZB303_05057_MURFURLUR_000_017","Worry not─this is all part of my training. Let us reattempt our journey to the Shades of Grief."
+69,"TEXT_KINGZB303_05057_SYSTEM_000_018","You have failed to escort Murfurlur to the Shades of Grief. Return south of the Shades of Grief and speak with him to begin once more."
+70,"TEXT_KINGZB303_05057_SYSTEM_000_019","You have lost sight of Murfurlur. Retrace your steps to find him, then escort him safely to the Shades of Grief."
+71,"TEXT_KINGZB303_05057_MURFURLUR_000_030","(-Murfurlur-)Behold these forlorn ruins, abandoned for years upon years. There is much I would recount to you, but it is unsafe here. Let us venture instead to the cliffside."
+72,"TEXT_KINGZB303_05057_SYSTEM_000_035","You survey the area, but there are no imminent threats as far as you can see."
+73,"TEXT_KINGZB303_05057_MURFURLUR_000_040","There are a great many elements to consider. Maintaining awareness of my client and our surroundings─particularly potential avenues of attack─all while keeping a brisk pace. In contrast, standing watch over a frozen vidraal was far less complicated."
+74,"TEXT_KINGZB303_05057_MURFURLUR_000_041","Perhaps you wonder why I chose this place for our destination. Look below─the Pelupelu village is within sight."
+75,"TEXT_KINGZB303_05057_MURFURLUR_000_042","Our homes were once connected by a mountain road. When we were their oppressors."
+76,"TEXT_KINGZB303_05057_MURFURLUR_000_043","Until Gulool Ja Ja put an end to the practice, we demanded yearly tribute, and in exchange granted them our “protection.”"
+77,"TEXT_KINGZB303_05057_MURFURLUR_000_044","The elder Pelupelu have not forgotten. The memory of my kin as towering tyrants haunts them still."
+78,"TEXT_KINGZB303_05057_MURFURLUR_000_045","Times have changed, and now we treat with the Pelupelu as equals. I hope to one day live on in their memories as a gentle guardian, but..."
+79,"TEXT_KINGZB303_05057_MURFURLUR_000_046","Ah, forgive me. My idle musings are of no moment. Let us return to Worlar's Echo."
+80,"TEXT_KINGZB303_05057_MURFURLUR_000_050","I am in your debt, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. You have helped me explore a potential life's calling as a bodyguard."
+81,"TEXT_KINGZB303_05057_MURFURLUR_000_051","As a Yok Huy warrior, I have the power to show the Pelupelu that we are not our ancestors─that we can offer them peace and protection as equals, not conquerors. I only hope they will prove amenable."
+82,"TEXT_KINGZB303_05057_MURFURLUR_000_052","That said, I cannot begin to pursue this goal until such time as I find a client. That search begins now!"

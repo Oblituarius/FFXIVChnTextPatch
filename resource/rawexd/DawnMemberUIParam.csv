@@ -1,66 +1,66 @@
-﻿key,0,1,3
-#,Class{Singular},,Class{Plural}
-offset,12,0,4
-int32,str,str,str
-0,,,
-1,Academician,阿爾菲諾,學士
-2,Red Mage,阿莉塞,赤魔法師
-3,Gunbreaker,桑克瑞德,絕槍戰士
-4,Oracle of Light,敏菲利亞,光之巫女
-5,Astrologian,於里昂熱,占星術士
-6,Sorceress,雅·修特拉,魔女
-7,Oracle of Light,琳,光之巫女
-8,Guard Captain,萊楠,衛兵團長
-9,All-Rounder,水晶公,全才
-10,All-Rounder,古·拉哈·提亞,全才
-11,Sage,阿爾菲諾,賢者
-12,Dragoon,埃斯蒂尼安,龍騎士
-13,Lithomancer,於里昂熱,秘石術師
-14,All-Rounder,維涅斯,全才
-15,The Third Seat,愛梅特賽爾克,第三席
-16,Soulseer,希斯拉德,望魂者
-17,Marauder,氣盛的斧術師,斧術師
-18,Lancer,氣盛的槍術師,槍術師
-19,Thaumaturge,氣盛的咒術師,咒術師
-20,Conjurer,氣盛的幻術師,幻術師
-21,Marauder,拂曉的斧術師,斧術師
-22,Lancer,拂曉的槍術師,槍術師
-23,Thaumaturge,拂曉的咒術師,咒術師
-24,Conjurer,拂曉的幻術師,幻術師
-25,Marauder,黑渦團斧術師,斧術師
-26,Lancer,雙蛇黨槍術師,槍術師
-27,Thaumaturge,恆輝隊咒術師,咒術師
-28,Conjurer,雙蛇黨幻術師,幻術師
-29,Satrap,瓦爾桑,總督
-30,Oracle of Frost,伊塞勒,冰之巫女
-31,Temple Knight,神殿騎士團正騎士,神殿騎士
-32,Temple Banneret,神殿騎士團槍騎兵,槍騎兵
-33,Temple Chirurgeon,神殿騎士團醫師,醫師
-34,Chivalric Knight,奧爾什方,正騎士
-35,Poroggo,佩羅·羅格,智蛙
-36,Lord Commander,艾默里克,總騎士長
-37,Knight,福爾唐家的騎士,騎士
-38,Banneret,福爾唐家的槍騎兵,槍騎兵
-39,Archer,福爾唐家的射手,射手
-40,Archon,桑克瑞德,賢人
-41,Memoriate,零,憶晶師
-42,Archon,雅·修特拉,賢人
-43,Marauder,卡爾瓦蘭,斧術師
-44,Pugilist,莉瑟,格鬥家
-45,Samurai,豪雪,武士
-46,Samurai,飛燕,武士
-47,Shaman,模兒部的年輕人,薩滿
-48,Ninja,夕霧,忍者
-49,Samurai,多瑪勇士,武士
-50,Fushi,多瑪巫師,巫師
-51,Gladiator,解放軍戰士,劍術師
-52,Pikedancer,解放軍尖槍兵,尖槍兵
-53,Gladiator,阿雷恩瓦爾德,劍術師
-54,Pugilist,莉瑟,格鬥家
-55,Champion Gladiator,勞班,劍鬥士
-56,Lancer,嘉·莫爾巴,槍術師
-57,Intrepid,烏克·拉瑪特,勇士
-58,Viper,佐拉加,蝰蛇劍士
-59,Innovator,柯納,革新者
-60,Pictomancer,可露兒,繪靈法師
-61,Zoemancer,斯菲因,命術師
+﻿key,0,1,2,3
+#,Class{Singular},,VoiceLine,Class{Plural}
+offset,12,0,8,4
+int32,str,str,uint32,str
+0,"","",0,""
+1,"Academician","Alphinaud",8202017,"Academician"
+2,"Red Mage","Alisaie",8202034,"Red Mage"
+3,"Gunbreaker","Thancred",8202048,"Gunbreaker"
+4,"Oracle of Light","Minfilia",8202074,"Oracle of Light"
+5,"Astrologian","Urianger",8202081,"Astrologian"
+6,"Sorceress","Y'shtola",8202112,"Sorceress"
+7,"Oracle of Light","Ryne",8202074,"Oracle of Light"
+8,"Guard Captain","Lyna",8202143,"Guard Captain"
+9,"All-Rounder","Crystal Exarch",8202121,"All-rounder"
+10,"All-Rounder","G'raha Tia",8202346,"All-rounder"
+11,"Sage","Alphinaud",8203013,"Sage"
+12,"Dragoon","Estinien",8203064,"Dragoon"
+13,"Lithomancer","Urianger",8202092,"Lithomancer"
+14,"All-Rounder","Venat",8203122,"All-rounder"
+15,"The Third Seat","Emet-Selch",8203219,"The Third Seat"
+16,"Soulseer","Hythlodaeus",8203239,"Soulseer"
+17,"Marauder","Eager Marauder",0,"Marauder"
+18,"Lancer","Eager Lancer",0,"Lancer"
+19,"Thaumaturge","Eager Thaumaturge",0,"Thaumaturge"
+20,"Conjurer","Eager Conjurer",0,"Conjurer"
+21,"Marauder","Scion Marauder",0,"Marauder"
+22,"Lancer","Scion Lancer",0,"Lancer"
+23,"Thaumaturge","Scion Thaumaturge",0,"Thaumaturge"
+24,"Conjurer","Scion Conjurer",0,"Conjurer"
+25,"Marauder","Storm Marauder",0,"Marauder"
+26,"Lancer","Serpent Lancer",0,"Lancer"
+27,"Thaumaturge","Flame Thaumaturge",0,"Thaumaturge"
+28,"Conjurer","Serpent Conjurer",0,"Conjurer"
+29,"Satrap","Varshahn",8203440,"Satrap"
+30,"Oracle of Frost","Ysayle",0,"Oracle of Frost"
+31,"Temple Knight","Temple Knight",0,"Knight"
+32,"Temple Banneret","Temple Banneret",0,"Banneret"
+33,"Temple Chirurgeon","Temple Chirurgeon",0,"Chirurgeon"
+34,"Chivalric Knight","Haurchefant",0,"Chivalric Knight"
+35,"Poroggo","Pero Roggo",0,"Poroggo"
+36,"Lord Commander","Aymeric",0,"Lord Commander"
+37,"Knight","House Fortemps Knight",0,"Knight"
+38,"Banneret","House Fortemps Banneret",0,"Banneret"
+39,"Archer","House Fortemps Archer",0,"Archer"
+40,"Archon","Thancred",0,"Archon"
+41,"Memoriate","Zero",8203467,"Memoriate"
+42,"Archon","Y'shtola",0,"Archon"
+43,"Marauder","Carvallain",0,"Marauder"
+44,"Pugilist","Lyse",0,"Pugilist"
+45,"Samurai","Gosetsu",0,"Samurai"
+46,"Samurai","Hien",0,"Samurai"
+47,"Shaman","Mol Youth",0,"Shaman"
+48,"Ninja","Yugiri",0,"Ninja"
+49,"Samurai","Doman Liberator",0,"Samurai"
+50,"Fushi","Doman Shaman",0,"Shaman"
+51,"Gladiator","Resistance Fighter",0,"Gladiator"
+52,"Pikedancer","Resistance Pikedancer",0,"Pikedancer"
+53,"Gladiator","Arenvald",0,"Gladiator"
+54,"Pugilist","Lyse",0,"Pugilist"
+55,"Champion Gladiator","Raubahn",0,"Champion Gladiator"
+56,"Lancer","J'moldva",0,"Lancer"
+57,"Intrepid","Wuk Lamat",8205048,"Intrepid"
+58,"Viper","Zoraal Ja",8205115,"Viper"
+59,"Innovator","Koana",8205098,"Innovator"
+60,"Pictomancer","Krile",8205029,"Pictomancer"
+61,"Zoemancer","Sphene",8206020,"Zoemancer"

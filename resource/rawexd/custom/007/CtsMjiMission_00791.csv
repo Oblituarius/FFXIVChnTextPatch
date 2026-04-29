@@ -2,155 +2,155 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_CTSMJIMISSION_00791_TALK_ACTOR,0
-1,TEXT_CTSMJIMISSION_00791_NEKOMIMI_001_000,歡迎來到無人島！<hex:02100103>這座島上現在什麼都沒有，<hex:02100103>請你按照你自己的想法開拓這座島喵。
-2,TEXT_CTSMJIMISSION_00791_NEKOMIMI_001_005,在前面發現了一片空地喵。<hex:02100103>我們先去那裡喵。
-3,TEXT_CTSMJIMISSION_00791_NEKOMIMI_002_000,這地方看起來很不錯喵。<hex:02100103>在開拓島嶼的過程裡，<hex:02100103>似乎可以把這裡當成據點喵。
-4,TEXT_CTSMJIMISSION_00791_NEKOMIMI_002_005,雖然決定了這裡是據點，但是這裡什麼都沒有喵。<hex:02100103>為了今後能夠進行正式的開拓工作，<hex:02100103>這裡首先要有一座能夠遮風擋雨，供人休息的建築物喵。
-5,TEXT_CTSMJIMISSION_00791_NEKOMIMI_002_010,但是，造房子就需要有堅固的木材，<hex:02100103>即使是冒險者，想要徒手獲取木材也是很難的喵。
-6,TEXT_CTSMJIMISSION_00791_NEKOMIMI_002_015,要想收集堅固的木材，<hex:02100103>首先就要做出砍伐木材的道具喵。<hex:02100103>製作道具需要「棕櫚葉」「石頭」和「樹枝」三種材料喵。
-7,TEXT_CTSMJIMISSION_00791_NEKOMIMI_002_020,無人島的深處是大自然贈送給你的寶庫喵。<hex:02100103>應該很容易就能找到可以作為材料的開拓素材喵。
-8,TEXT_CTSMJIMISSION_00791_NEKOMIMI_002_025,還有，請你收下這塊開拓管理面板喵。<hex:02100103>有了這個，你就可以輕鬆地查看無人島內各項情報了，<hex:02100103>非常方便喵。
-9,TEXT_CTSMJIMISSION_00791_NEKOMIMI_002_030,那就拜託你啦喵。<hex:02100103>還有什麼疑問的話，都可以來找我喵。
-10,TEXT_CTSMJIMISSION_00791_SYSTEM_002_000,可以使用開拓管理面板了。<hex:02100103>開拓管理面板可用於查看<hex:02100103>開拓無人島過程中所需的種種情報及島內詳情。
-11,TEXT_CTSMJIMISSION_00791_SYSTEM_002_005,可以使用開拓採集了！<hex:02100103>在開拓管理面板切換至收穫模式，<hex:02100103>即可從島內的植物上收穫開拓素材。
-12,TEXT_CTSMJIMISSION_00791_SYSTEM_002_010,開拓採集的詳細介紹，<hex:02100103>請參考開拓管理面板的「查看說明」項目。
-13,TEXT_CTSMJIMISSION_00791_SYSTEM_002_015,（★未使用／削除予定★）
-14,TEXT_CTSMJIMISSION_00791_SYSTEM_002_020,（★未使用／削除予定★）
-15,TEXT_CTSMJIMISSION_00791_SYSTEM_002_025,想要在無人島進行開拓作業，<hex:02100103>均可以通過開拓管理面板<hex:02100103>選擇不同的模式進行切換。
-16,TEXT_CTSMJIMISSION_00791_SYSTEM_002_030,（★未使用／削除予定★）
-17,TEXT_CTSMJIMISSION_00791_SYSTEM_002_035,（★未使用／削除予定★）
-18,TEXT_CTSMJIMISSION_00791_SYSTEM_002_040,請活用各種方便的任務指令和你的坐騎，<hex:02100103>配合這些豐富多彩的模式，<hex:02100103>開拓只屬於你的無人島吧！
-19,TEXT_CTSMJIMISSION_00791_NEKOMIMI_003_000,需要的開拓素材都集齊了喵。<hex:02100103>有這些素材就可以製作開拓用石斧了喵。
-20,TEXT_CTSMJIMISSION_00791_NEKOMIMI_003_005,雖然空手也可以從樹上採集到開拓素材，<hex:02100103>但這樣頂多能折下一些樹枝樹葉什麼的喵。
-21,TEXT_CTSMJIMISSION_00791_NEKOMIMI_003_010,有了石製手斧，<hex:02100103>你就可以把樹砍倒，收集原木了喵。
-22,TEXT_CTSMJIMISSION_00791_NEKOMIMI_003_015,而且石製手斧構造簡單。<hex:02100103>就算沒有其他工具和碎晶，也可以徒手製造出來，<hex:02100103>非常簡單喵。
-23,TEXT_CTSMJIMISSION_00791_NEKOMIMI_003_020,我這就把製作方法告訴你。<hex:02100103>請趕快試試，<hex:02100103>製作一把開拓用石斧喵。
-24,TEXT_CTSMJIMISSION_00791_SYSTEM_003_000,可以使用開拓製作了！<hex:02100103>在開拓管理面板開啟開拓製作查看所需的材料，<hex:02100103>收集對應材料後即可使用開拓製作。
-25,TEXT_CTSMJIMISSION_00791_SYSTEM_003_005,（★未使用／削除予定★）
-26,TEXT_CTSMJIMISSION_00791_SYSTEM_003_010,學會開拓用石斧的開拓製作配方了！<hex:02100103>使用開拓用石斧可以砍伐樹木，獲取木材。
-27,TEXT_CTSMJIMISSION_00791_NEKOMIMI_003_025,前往無人島的深處。<hex:02100103>收集「棕櫚葉」「石頭」和「樹枝」三種材料喵。
-28,TEXT_CTSMJIMISSION_00791_SYSTEM_003_015,在開拓管理面板切換至收穫模式，<hex:02100103>選中想要採集的目標，即可獲得開拓素材。
-29,TEXT_CTSMJIMISSION_00791_NEKOMIMI_004_000,使用開拓製作<hex:02100103>做一把開拓用石斧吧喵。
-30,TEXT_CTSMJIMISSION_00791_NEKOMIMI_004_005,可真是一把漂亮的石製手斧喵！<hex:02100103>有了這把斧子，想要獲得無人島上的木材就變簡單了喵。
-31,TEXT_CTSMJIMISSION_00791_NEKOMIMI_004_010,總之，道具也準備好了，<hex:02100103>差不多該開始著手造房子了喵。
-32,TEXT_CTSMJIMISSION_00791_NEKOMIMI_004_015,有了這把石製手斧，<hex:02100103>你就可以去採集像是棕櫚原木之類結實的木材了喵。<hex:02100103>請活用你的道具，建造房子喵。
-33,TEXT_CTSMJIMISSION_00791_NEKOMIMI_004_020,這第一座建築物將是開拓這座島的核心據點，<hex:02100103>我將它命名為小島木屋喵。
-34,TEXT_CTSMJIMISSION_00791_NEKOMIMI_004_025,嘿喲……喵……
-35,TEXT_CTSMJIMISSION_00791_NEKOMIMI_004_030,嗯……這下就都準備好了喵。<hex:02100103>管理板立好了，建造建築物相關的資訊都在上面，<hex:02100103>你可以在這塊板上查看小島木屋需要的材料喵。
-36,TEXT_CTSMJIMISSION_00791_NEKOMIMI_004_035,材料的缺口相當的大，<hex:02100103>希望你不要著急，以自己的節奏收集就好喵。
-37,TEXT_CTSMJIMISSION_00791_NEKOMIMI_004_040,在此期間，我會把魔法人偶夥伴們都召集過來，<hex:02100103>準備修建小島木屋喵。
-38,TEXT_CTSMJIMISSION_00791_SYSTEM_004_000,可以使用開拓建造了！<hex:02100103>點擊管理板交納所需的開拓素材，<hex:02100103>即可建造新的建築物。
-39,TEXT_CTSMJIMISSION_00791_SYSTEM_004_005,（★未使用／削除予定★）
-40,TEXT_CTSMJIMISSION_00791_NEKOMIMI_005_000,可以用管理板查看<hex:02100103>建造小島木屋所需的開拓素材喵。
-41,TEXT_CTSMJIMISSION_00791_NEKOMIMI_006_000,請把這座小島木屋當做你開拓小島時的據點喵。<hex:02100103>你可以在這裡休息，也可以喊朋友來這裡聊天玩耍，<hex:02100103>按你自己喜歡的方式使用這裡吧喵。
-42,TEXT_CTSMJIMISSION_00791_NEKOMIMI_006_005,我把我的夥伴們都召集到小島木屋來啦！<hex:02100103>它們也都願意為你提供幫助喵。
-43,TEXT_CTSMJIMISSION_00791_SYSTEM_006_000,小島木屋是開拓據點的核心設施。<hex:02100103>你可以在這裡出售從島上獲得的道具，<hex:02100103>也可以在這裡使用管弦樂琴播放喜歡的音樂。
-44,TEXT_CTSMJIMISSION_00791_SYSTEM_006_005,當你完成開拓目標，進一步地開拓小島，<hex:02100103>或完成無人島內各種各樣的任務時，<hex:02100103>均可獲得謝爾達萊青船幣。
-45,TEXT_CTSMJIMISSION_00791_SYSTEM_006_010,使用島內採集到的開拓素材與<hex:02100103>小島木屋的收購小員進行交易，<hex:02100103>即可獲得謝爾達萊綠島幣。
-46,TEXT_CTSMJIMISSION_00791_SYSTEM_006_015,（★未使用／削除予定★）
-47,TEXT_CTSMJIMISSION_00791_SYSTEM_006_020,（★未使用／削除予定★）
-48,TEXT_CTSMJIMISSION_00791_SYSTEM_006_025,（★未使用／削除予定★）
-49,TEXT_CTSMJIMISSION_00791_SYSTEM_006_030,（★未使用／削除予定★）
-50,TEXT_CTSMJIMISSION_00791_SYSTEM_006_035,另外，你的親朋好友也可以來拜訪你的小島了！<hex:02100103>可以在開拓管理面板的設定中對來訪者進行管理。
-51,TEXT_CTSMJIMISSION_00791_SYSTEM_006_040,（★未使用／削除予定★）
-52,TEXT_CTSMJIMISSION_00791_SYSTEM_006_045,無人島之間的貿易，被稱為「群島貿易」，<hex:02100103>通過貿易可以獲取2種「謝爾達萊貨幣」。
-53,TEXT_CTSMJIMISSION_00791_SYSTEM_006_050,趕快進入小島木屋一探究竟吧！
-54,TEXT_CTSMJIMISSION_00791_NEKOMIMI_007_000,說起來，這個無人島上的日照條件這麼好，<hex:02100103>你要是有個耕地的話，裡面的作物一定會大豐收的喵。
-55,TEXT_CTSMJIMISSION_00791_NEKOMIMI_007_005,我帶來的魔法人偶朋友裡，<hex:02100103>有一個叫耕種小員的人偶對農業很了解喵。<hex:02100103>你要是對耕地有興趣的話，可以跟它聊聊喵。
-56,TEXT_CTSMJIMISSION_00791_SYSTEM_007_000,可以建造耕地了！<hex:02100103>和開拓據點北側的耕種小員聊聊吧。
-57,TEXT_CTSMJIMISSION_00791_NEKOMIMI_008_000,如果你想要建造耕地的話，<hex:02100103>可以去開拓據點北側找耕種小員，<hex:02100103>和它聊一聊喵。
-58,TEXT_CTSMJIMISSION_00791_NEKOMIMI_009_000,耕種小員說它有禮物想要送給你喵。
-59,TEXT_CTSMJIMISSION_00791_NEKOMIMI_010_000,耕種小員對耕地很了解。<hex:02100103>你有問題的話，都可以去問它喵。
-60,TEXT_CTSMJIMISSION_00791_NEKOMIMI_013_000,辛苦你開拓耕地喵。<hex:02100103>耕地的情況一切順利的話，就可以收穫開拓作物了。<hex:02100103>這些開拓作物可以用來飼育、餵養島上的動物喵。
-61,TEXT_CTSMJIMISSION_00791_NEKOMIMI_013_005,那這次我們來試試看飼養動物如何喵？<hex:02100103>如果你想要建造飼養動物用的牧場，<hex:02100103>可以去耕地西側找放牧小員聊聊喵。
-62,TEXT_CTSMJIMISSION_00791_SYSTEM_013_000,可以建造牧場了！<hex:02100103>和開拓據點北側的放牧小員聊聊吧。
-63,TEXT_CTSMJIMISSION_00791_NEKOMIMI_014_000,如果你想要建造牧場的話，<hex:02100103>可以去開拓據點北側找放牧小員，<hex:02100103>和它聊一聊喵。
-64,TEXT_CTSMJIMISSION_00791_NEKOMIMI_015_000,放牧小員說它有禮物想要送給你喵。
-65,TEXT_CTSMJIMISSION_00791_NEKOMIMI_016_000,放牧小員對牧場和動物都很了解。<hex:02100103>你有問題的話，都可以去問它喵。
-66,TEXT_CTSMJIMISSION_00791_NEKOMIMI_020_000,辛苦你開拓牧場喵。<hex:02100103>有了牧場以後，你就可以收集到更多種類的開拓素材啦，<hex:02100103>要不要試著生產一些海島產品喵？
-67,TEXT_CTSMJIMISSION_00791_NEKOMIMI_020_005,如果你有開拓工房的話，<hex:02100103>就可以拜託裡面的魔法人偶同伴們生產海島產品了喵。
-68,TEXT_CTSMJIMISSION_00791_NEKOMIMI_020_010,等開拓據點再擴大得大一些，<hex:02100103>就可以建造開拓工房了喵。
-69,TEXT_CTSMJIMISSION_00791_NEKOMIMI_020_015,如果你想要擴大開拓據點的話，<hex:02100103>可以和開拓小員1號聊聊喵。<hex:02100103>它一定能幫上你的忙喵。
-70,TEXT_CTSMJIMISSION_00791_SYSTEM_020_000,可以開拓新的土地了！<hex:02100103>快去和據點中央的開拓小員1號聊聊吧！
-71,TEXT_CTSMJIMISSION_00791_SYSTEM_020_005,（★未使用／削除予定★）
-72,TEXT_CTSMJIMISSION_00791_NEKOMIMI_021_000,想要擴大開拓據點，開拓新的土地時，<hex:02100103>記得要和廣場的開拓小員1號聊聊喵！
-73,TEXT_CTSMJIMISSION_00791_NEKOMIMI_022_000,想要建造開拓工房的話，<hex:02100103>就要和廣場的開拓小員1號聊聊喵！
-74,TEXT_CTSMJIMISSION_00791_NEKOMIMI_025_000,開拓小員1號好像正在等你呢喵。
-75,TEXT_CTSMJIMISSION_00791_NEKOMIMI_026_000,辛苦了喵。<hex:02100103>我從大家那裡聽說了很多關於你的事。<hex:02100103>多虧了你的努力，無人島的方方面面都進展得特別順利喵。
-76,TEXT_CTSMJIMISSION_00791_NEKOMIMI_026_005,今後，你可以繼續在這裡栽培農作物，捉住喜歡的動物帶回來飼養，<hex:02100103>開拓嶄新的天地，建造漂亮的建築物等等……<hex:02100103>希望你能自由地享受在這座小島上的生活喵。
-77,TEXT_CTSMJIMISSION_00791_NEKOMIMI_026_010,你或許已經從開拓小員那聽說了，<hex:02100103>想要製作海島產品的話，可以去和監工小員聊聊。<hex:02100103>它一定能幫上你的忙的喵。
-78,TEXT_CTSMJIMISSION_00791_NEKOMIMI_026_015,有什麼困難或者問題的時候，<hex:02100103>請你隨時來找我聊聊喵！
-79,TEXT_CTSMJIMISSION_00791_SYSTEM_026_000,辛苦了！<hex:02100103>開拓島嶼的基本功能都已經開放！今後島嶼的發展將由你決定！<hex:02100103>請好好享受由你掌控的無人島開拓之旅吧！
-80,TEXT_CTSMJIMISSION_00791_NEKOMIMI_027_000,厲害！厲害喵！建了這麼多的建築物喵！<hex:02100103>聯絡小員好像正在找你呢喵。
-81,TEXT_CTSMJIMISSION_00791_NEKOMIMI_027_005,請你在冒險的間隙裡，享受生活在無人島上的時間喵。<hex:02100103>監工小員似乎有工作想拜託你，<hex:02100103>一定是能讓今後的開拓工作變得更便捷的好事喵。
-82,TEXT_CTSMJIMISSION_00791_SYSTEM_027_000,在開拓無人島的過程中，進行採集、管理耕地、捕捉動物、<hex:02100103>餵養動物等等行動均可獲得開拓經驗值。
-83,TEXT_CTSMJIMISSION_00791_SYSTEM_027_005,想進一步發展自己的小島，<hex:02100103>將無人島生活變得更加自由，<hex:02100103>需要提升開拓等級。
-84,TEXT_CTSMJIMISSION_00791_NEKOMIMI_027_010,希望你能在冒險的間隙，<hex:02100103>享受無人島上的悠閒時間喵！
-85,TEXT_CTSMJIMISSION_00791_NEKOMIMI_027_015,是不是還有土地上沒有建築喵？<hex:02100103>多造房子喵！多造房子小島才會變熱鬧喵！
-86,TEXT_CTSMJIMISSION_00791_NEKOMIMI_028_000,
-87,TEXT_CTSMJIMISSION_00791_NEKOMIMI_028_005,辛苦辛苦！進一步開拓據點真是辛苦你啦喵！<hex:02100103>我想，你的開拓本領現在應該變得更厲害了吧，<hex:02100103>就讓我把開拓用黑鐵手斧的製作方法教給你吧喵！
-88,TEXT_CTSMJIMISSION_00791_NEKOMIMI_028_010,只要有了黑鐵手斧，<hex:02100103>你就可以從島內的樹上採集更多種素材了喵。
-89,TEXT_CTSMJIMISSION_00791_NEKOMIMI_028_015,希望你今後也可以在冒險的間隙裡，<hex:02100103>好好享受在無人島上度過的時光喵。
-90,TEXT_CTSMJIMISSION_00791_SYSTEM_028_000,學會開拓用黑鐵手斧的開拓製作配方了！<hex:02100103>使用開拓用黑鐵手斧可以從島內的樹上獲取新素材。
-91,TEXT_CTSMJIMISSION_00791_NEKOMIMI_029_000,希望你今後也可以在冒險的間隙裡，<hex:02100103>慢慢享受在無人島上度過的時光喵。
-92,TEXT_CTSMJIMISSION_00791_NEKOMIMI_029_005,你已經是一名成熟的開拓者了喵。<hex:02100103>今後也請盡情享受生活在無人島上的時間喵！
-93,TEXT_CTSMJIMISSION_00791_NEKOMIMI_029_010,對了，聯絡小員似乎有話要對你說喵。<hex:02100103>去找他了解一下詳情吧喵。
-94,TEXT_CTSMJIMISSION_00791_NEKOMIMI_029_015,開拓還順利吧喵？<hex:02100103>好好享受島上的方方面面，<hex:02100103>也能讓你成長為更厲害的開拓者喵！
-95,TEXT_CTSMJIMISSION_00791_NEKOMIMI_030_000,無人島的開拓工作取得了很大的進展啊喵。<hex:02100103>還請繼續享受生活在無人島上的時間喵。
-96,TEXT_CTSMJIMISSION_00791_NEKOMIMI_030_005,有夥伴發現了島上有從前沒有的動物的叫聲喵，<hex:02100103>位置好像是在山的附近喵。
-97,TEXT_CTSMJIMISSION_00791_NEKOMIMI_030_010,難道說山裡還住著我們不知道的動物嗎喵……<hex:02100103>拜託了，請你去調查一下喵。
-98,TEXT_CTSMJIMISSION_00791_NEKOMIMI_031_000,調查山裡的事情就交給你啦喵。
-99,TEXT_CTSMJIMISSION_00791_NEKOMIMI_032_000,謝謝你去山裡調查喵。<hex:02100103>既然裡面有類似於空洞的地方……<hex:02100103>那只要把洞口擴大，就能進去調查了喵。
-100,TEXT_CTSMJIMISSION_00791_NEKOMIMI_032_005,我現在立刻就拜託夥伴們去調查喵。<hex:02100103>我已經讓探險小員去那地方了，<hex:02100103>麻煩你去空洞附近跟它匯合喵。
-101,TEXT_CTSMJIMISSION_00791_NEKOMIMI_033_000,我們的夥伴探險小員，<hex:02100103>已經去了你報告的地方喵。<hex:02100103>之後如何調查你可以去跟它談談喵。
-102,TEXT_CTSMJIMISSION_00791_NEKOMIMI_034_000,探險小員好像正在那邊等你喵。
-103,TEXT_CTSMJIMISSION_00791_NEKOMIMI_035_000,辛苦了喵！<hex:02100103>探險小員已經把你的成就都告訴我了喵。
-104,TEXT_CTSMJIMISSION_00791_NEKOMIMI_035_005,如果能好好使用洞窟中找到的素材，<hex:02100103>肯定能讓小島獲得進一步的發展喵。<hex:02100103>今後也麻煩你繼續開拓這座小島啦喵。
-105,TEXT_CTSMJIMISSION_00791_NEKOMIMI_036_000,請你在冒險的間隙裡，按你自己喜歡的方式開拓這裡喵。
-106,TEXT_CTSMJIMISSION_00791_NEKOMIMI_036_005,可真厲害啊喵！<hex:02100103>從最開始一無所有的據點，發展到現在這麼繁華喵！
-107,TEXT_CTSMJIMISSION_00791_NEKOMIMI_036_010,謝謝你開拓發展這座小島！謝謝你喵！<hex:02100103>今後也請你多多關照啦喵！
-108,TEXT_CTSMJIMISSION_00791_NEKOMIMI_036_015,說起來，聯絡小員好像又有事要找你喵，<hex:02100103>你方便的話就去找它聊聊吧喵！
-109,TEXT_CTSMJIMISSION_00791_NEKOMIMI_036_020,是不是還有土地上沒有建築喵？<hex:02100103>多造房子喵！多造房子小島才會變熱鬧喵！
-110,TEXT_CTSMJIMISSION_00791_NEKOMIMI_037_000,這裡能成為這麼漂亮的據點，都是多虧了你的努力喵！<hex:02100103>今後也請你盡情享受無人島上的自由時光喵。
-111,TEXT_CTSMJIMISSION_00791_NEKOMIMI_037_005,洞窟那邊好像出了什麼事喵……<hex:02100103>探險小員似乎正在到處找你呢，<hex:02100103>麻煩你去一趟洞窟那邊，跟他打聽一下情況喵。
-112,TEXT_CTSMJIMISSION_00791_NEKOMIMI_038_000,探險小員既然找你，肯定是洞窟那邊有什麼事喵。
-113,TEXT_CTSMJIMISSION_00791_NEKOMIMI_039_000,還請你幫忙配合一下探險小員喵。
-114,TEXT_CTSMJIMISSION_00791_NEKOMIMI_040_000,探險小員正在等你喵。
-115,TEXT_CTSMJIMISSION_00791_NEKOMIMI_041_000,探險小員正在等你喵。
-116,TEXT_CTSMJIMISSION_00791_NEKOMIMI_042_000,辛苦了喵。<hex:02100103>事情我都聽探險小員說啦！你真是太厲害了喵！<hex:02100103>沒想到洞窟的深處竟然還藏著那麼多水晶喵！
-117,TEXT_CTSMJIMISSION_00791_NEKOMIMI_042_005,有了水晶就能進一步改建島上的建築物了喵。<hex:02100103>小島的開拓，又要一直一直麻煩你啦喵！
-118,TEXT_CTSMJIMISSION_00791_NEKOMIMI_043_000,請你在冒險的間隙，按照自己的喜好開拓小島吧喵。
-119,TEXT_CTSMJIMISSION_00791_NEKOMIMI_043_005,可真是想不到啊喵……！<hex:02100103>除了雜草一無所有的據點，竟然成了這麼漂亮的地方喵！
-120,TEXT_CTSMJIMISSION_00791_NEKOMIMI_043_010,真的太感謝你了，<hex:02100103>多虧有你，小島才能發展得這麼好喵！<hex:02100103>今後也請你繼續建設小島喵！
-121,TEXT_CTSMJIMISSION_00791_NEKOMIMI_043_015,說起來，聯絡小員好像又有事要找你喵，<hex:02100103>你方便的話就去找它聊聊吧喵！
-122,TEXT_CTSMJIMISSION_00791_NEKOMIMI_043_020,是不是還有建築沒經過改建喵？<hex:02100103>改建！升級！所有的建築物都修繕一新！<hex:02100103>小島也會讓你耳目一新喵！
-123,TEXT_CTSMJIMISSION_00791_NEKOMIMI_044_000,我有一份特殊的委託想要拜託<hex:02100103>締造了這座最棒小島的你喵。
-124,TEXT_CTSMJIMISSION_00791_NEKOMIMI_044_005,這座小島上生產的商品已經聲名遠播，有了自己的知名度了……<hex:02100103>如果你能擴大海島產品的產量，讓我進行批發售賣，<hex:02100103>我們就可以進一步提高海島產品的名聲了喵！
-125,TEXT_CTSMJIMISSION_00791_NEKOMIMI_044_010,如果可以的話，希望你能接受我的委託喵！<hex:02100103>每當有了新的商品需要委託你生產，<hex:02100103>我就會把委託的內容登記在開拓工房的生產計劃上喵。
-126,TEXT_CTSMJIMISSION_00791_NEKOMIMI_044_015,希望你能多多生產我委託你的那些海島產品喵。<hex:02100103>你只要過來找我聊聊，<hex:02100103>我就會告訴你委託給你的海島產品是什麼喵。
-127,TEXT_CTSMJIMISSION_00791_NEKOMIMI_044_020,如果你願意幫忙的話，<hex:02100103>我這裡有點小小謝禮不成敬意，想要送給你喵！
-128,TEXT_CTSMJIMISSION_00791_SYSTEM_044_000,今後可以在貓耳小員處查看委託內容，<hex:02100103>了解每期需要生產的海島產品的列表了。
-129,TEXT_CTSMJIMISSION_00791_SYSTEM_044_005,在截止日期之前生產指定數量的海島產品，<hex:02100103>即可完成「貓耳小員的請求」，<hex:02100103>完成委託之後，即可與貓耳小員對話領取報酬。
-130,TEXT_CTSMJIMISSION_00791_SYSTEM_044_010,獲取的報酬票據可以用來向貿易小員交換道具。
-131,TEXT_CTSMJIMISSION_00791_SYSTEM_044_015,另外，完成委託的報酬只會保留一個生產週期，<hex:02100103>與貓耳小員對話可以領取當前生產週期及之前一個週期的報酬，<hex:02100103>超過這個時間後將無法領取對應報酬。
-132,TEXT_CTSMJIMISSION_00791_NEKOMIMI_045_000,哎呀，糟糕，你收到的小禮物好像太多了喵……<hex:02100103>真的很謝謝你幫了我這麼多，完成了這麼多次委託喵。<hex:02100103>你先去找貿易小員用票據交換一些道具之後，再來找我吧喵。
-133,TEXT_CTSMJIMISSION_00791_NEKOMIMI_045_005,謝謝你完成了我的委託喵！<hex:02100103>這是禮物！請收下吧喵！
-134,TEXT_CTSMJIMISSION_00791_NEKOMIMI_045_010,謝謝你完成了我的委託喵！<hex:02100103>沒想到你竟然把我上個生產週期裡要的東西都做出來了喵！<hex:02100103>我給你準備了好多禮物！快收下吧喵！
-135,TEXT_CTSMJIMISSION_00791_NEKOMIMI_045_015,謝謝你完成了我的委託喵！<hex:02100103>沒想到你竟然把我這個生產週期裡要的東西都做出來了喵！<hex:02100103>我給你準備了好多禮物！快收下吧喵！
-136,TEXT_CTSMJIMISSION_00791_NEKOMIMI_045_020,謝謝你完成了我的委託喵！<hex:02100103>沒想到你竟然把我近兩個生產週期裡要的東西都做出來了喵！<hex:02100103>我給你準備了超多禮物！快收下吧喵！
-137,TEXT_CTSMJIMISSION_00791_SYSTEM_045_000,要做什麼？
-138,TEXT_CTSMJIMISSION_00791_Q1_045_000,確認貓耳小員的請求
-139,TEXT_CTSMJIMISSION_00791_Q1_045_005,進行談話
-140,TEXT_CTSMJIMISSION_00791_Q1_045_010,取消
-141,TEXT_CTSMJIMISSION_00791_NEKOMIMI_045_025,這座島今後也要麻煩你啦喵！<hex:02100103>可以的話，希望你能幫幫忙，<hex:02100103>生產遠方的人委託我們生產的海島產品喵！
-142,TEXT_CTSMJIMISSION_00791_SYSTEM_045_005,在截止日期之前生產指定數量的海島產品，<hex:02100103>即可完成「貓耳小員的請求」，<hex:02100103>完成委託之後，即可與貓耳小員對話領取報酬。
-143,TEXT_CTSMJIMISSION_00791_SYSTEM_045_010,獲取的報酬票據可以用來向貿易小員交換道具。
-144,TEXT_CTSMJIMISSION_00791_SYSTEM_045_015,另外，完成委託的報酬只會保留一個生產週期，<hex:02100103>與貓耳小員對話可以領取當前生產週期及之前一個週期的報酬，<hex:02100103>超過這個時間後將無法領取對應報酬。
-145,TEXT_CTSMJIMISSION_00791_SYSTEM_045_020,確定要領取<hex:022003E80303>張<hex:02280AFF05>Item<hex:E8020103>嗎？<hex:02100103><hex:02280AFF05>Item<hex:E8020103>的持有上限為150張，<hex:02100103>領取後數量將超過持有上限，超過的部分將被捨棄。<hex:02100103><hex:024804F201FA03><hex:024904F201FB03>※以當前狀態進入新的週期、<hex:02100103>　或完成了新的委託時，<hex:02100103>　能取得的報酬數量均會發生變化。<hex:0249020103><hex:0248020103><hex:02100103><hex:02100103>當前持有數量：<hex:022003E80403>張
-146,TEXT_CTSMJIMISSION_00791_NEKOMIMI_100_000,歡迎來到這座無名小島！<hex:02100103>希望你在島上玩得愉快喵。
-147,TEXT_CTSMJIMISSION_00791_SYSTEM_200_000,想要了解現在的開拓目標時，可以和貓耳小員談談，<hex:02100103>從貓耳小員處聽取它對如何完成當前開拓目標的建議。<hex:02100103>對自己接下來的行動感到迷茫時，請和貓耳小員談談吧！
-148,TEXT_CTSMJIMISSION_00791_SYSTEM_200_005,想了解什麼？
-149,TEXT_CTSMJIMISSION_00791_Q1_200_000,聽取開拓建議
-150,TEXT_CTSMJIMISSION_00791_Q1_200_005,對話
-151,TEXT_CTSMJIMISSION_00791_Q1_200_010,取消
+0,"TEXT_CTSMJIMISSION_00791_TALK_ACTOR","0"
+1,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_001_000","Now listen, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>─may I call you <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>? Well, I will anyway. Before we get started, I want to make it very clear that while you may be the owner, I command the mammets, and as such I demand a considerable sum. I would hate for us to get off on the wrong foot."
+2,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_001_005","With that settled, beyond this slope lies a clearing that Mistress Tataru believed would serve well as a base of operations. Let us give it a look, shall we?"
+3,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_002_000","A fine place to set up shop, would you not agree? Yes, I think it will do nicely."
+4,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_002_005","Now, while it has much potential, this clearing is currently as bare as a white baboon's buttocks. We'll need some form of shelter from the elements if we're to truly make something of the place."
+5,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_002_010","Mistress Tataru has told me of your exploits, but I think it safe to assume chopping down a tree with your bare hands is outside of your repertoire. Not that I'd ask you to even if you could. We need tools for delicate work of this nature."
+6,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_002_015","As such, the first order of business will be to craft yourself a hatchet. You'll need three palm leaves, and two stones and branches each."
+7,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_002_020","Follow east along the path and make your first foray into the wilderness to procure them. Should you get any funny ideas about exploring the isle and opt to leave me out here to waste in the rain, you will find my twin, the furious furball, waiting here for you instead."
+8,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_002_025","Before you go, I have something for you. It's called the islekeep's index. It's to help you keep track of your projects here on the island─can't have you running about watering mammets instead of plants..."
+9,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_002_030","That should be all for now. Safe travels! I'll be waiting here should you need me. If I've disappeared, it's because I've been mauled by a wild animal, I assure you."
+10,"TEXT_CTSMJIMISSION_00791_SYSTEM_002_000","The islekeep's index is now available! Access this interface for crucial information regarding the isle."
+11,"TEXT_CTSMJIMISSION_00791_SYSTEM_002_005","You can now collect materials and more with the Gather mode, which may be enabled by selecting the appropriate icon from the mode section of the islekeep's index."
+12,"TEXT_CTSMJIMISSION_00791_SYSTEM_002_010","For additional information regarding gathering on the isle, access the guide from the islekeep's index."
+13,"TEXT_CTSMJIMISSION_00791_SYSTEM_002_015","（★未使用／削除予定★）"
+14,"TEXT_CTSMJIMISSION_00791_SYSTEM_002_020","（★未使用／削除予定★）"
+15,"TEXT_CTSMJIMISSION_00791_SYSTEM_002_025","You may perform all the actions necessary to develop your island sanctuary by utilizing the modes available in the islekeep's index."
+16,"TEXT_CTSMJIMISSION_00791_SYSTEM_002_030","（★未使用／削除予定★）"
+17,"TEXT_CTSMJIMISSION_00791_SYSTEM_002_035","（★未使用／削除予定★）"
+18,"TEXT_CTSMJIMISSION_00791_SYSTEM_002_040","Finally, make use of duty actions, mounts, and modes to become the master of your new domain!"
+19,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_003_000","Excellent, you've collected everything. We can move on to crafting your very first tool, then: a hatchet."
+20,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_003_005","While you were out there gathering, you could do little more than scavenge the odd branch here and there from trees, yes? Well, that will all change in just a moment."
+21,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_003_010","With the hatchet in hand, you may hack away at as many trees as you like to secure raw timber."
+22,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_003_015","The brilliance of the hatchet's design─a design of my own making, mind you─is that even a non-mammet like yourself can craft it with your own two non-mammet hands. Isn't that wonderful?"
+23,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_003_020","I've uploaded the blueprints for the design to your index. Go on, make the hatchet!"
+24,"TEXT_CTSMJIMISSION_00791_SYSTEM_003_000","The craft feature is now available. Access the sanctuary crafting log from the islekeep's index to review the materials necessary to craft an item, and collect said materials to begin."
+25,"TEXT_CTSMJIMISSION_00791_SYSTEM_003_005","（★未使用／削除予定★）"
+26,"TEXT_CTSMJIMISSION_00791_SYSTEM_003_010","The islekeep's stone hatchet recipe has been added to the sanctuary crafting log. Crafting this tool will allow you to gather logs from trees by cutting them down."
+27,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_003_025","Let me guess: you missed me. That's very sweet, but let's see about getting a roof over our heads, hmmm? You can start by getting palm leaves, stones, and branches to make a hatchet."
+28,"TEXT_CTSMJIMISSION_00791_SYSTEM_003_015","Materials can be collected by selecting the Gather mode from the islekeep's index."
+29,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_004_000","What? You expect me to make the hatchet for you? I have bad news: I'm allergic to exertion."
+30,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_004_005","Yes, that is indeed a hatchet. With it, you can now collect all the logs you could ever want or need."
+31,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_004_010","Let's move on to the next phase: shelter."
+32,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_004_015","That hatchet of yours should be able to cut through even the thick bark of a palm tree. Meaning you can now collect palm logs, a material vital to our soon-to-be-built haven."
+33,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_004_020","The first building we make shall naturally be the most important, as it will be the very foundation of our base of operations. And, seeing as I have a gift for naming things, I think it best we leave matters of nomenclature to myself. I hereby dub this essential facility...the cozy cabin!"
+34,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_004_025","Ugh, my poor back..."
+35,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_004_030","Goodness, I'm due for a healthy amount of grease after that ordeal. Anyway, I've prepared the land─you'll need to prepare the rest. Check the logboard beside me to review the materials you'll need for the cabin. "
+36,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_004_035","As we're building a <hex:021A020203>cabin<hex:021A020103> this time, and not a tool, the amount of materials required are a magnitude above what was needed before. Take your time collecting them, if you must...but not too much."
+37,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_004_040","In the meanwhile, I'll round up the other mammets in preparation for constructing the cabin, and begin ordering them around. You know, what I do best."
+38,"TEXT_CTSMJIMISSION_00791_SYSTEM_004_000","The construct feature is now available. Access a logboard to review the materials necessary to construct a facility, and collect said materials to build it."
+39,"TEXT_CTSMJIMISSION_00791_SYSTEM_004_005","（★未使用／削除予定★）"
+40,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_005_000","If you think I remember all the materials required to make the cabin, you're absolutely correct. But I wrote them all down so I wouldn't have to go through the trouble of listing them. Now, if you'd leave me to rub some grease into my joints...unless you're offering?"
+41,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_006_000","Finally, a place to escape the occasional downpour. It's a bit rough around the edges, I'll give you, but it's home. It's technically <hex:021A020203>your<hex:021A020103> home, but why get fussy about the details? Rest your head on the cot, or call your friends over, you're free to use it as you wish."
+42,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_006_005","I've taken the liberty of calling a few of my own friends over, in fact, and I think you'll find them most charming. They can provide services you will undoubtedly come to find valuable."
+43,"TEXT_CTSMJIMISSION_00791_SYSTEM_006_000","You may access the orchestrion to play your favorite tunes, and exchange various items with the merchants stationed inside the cozy cabin."
+44,"TEXT_CTSMJIMISSION_00791_SYSTEM_006_005","Seafarer's cowries may be earned by realizing visions, developing the isle, and performing various activities within your island sanctuary."
+45,"TEXT_CTSMJIMISSION_00791_SYSTEM_006_010","Islander's cowries may be earned by selling materials in your isleventory to the enterprising exporter in the cozy cabin."
+46,"TEXT_CTSMJIMISSION_00791_SYSTEM_006_015","（★未使用／削除予定★）"
+47,"TEXT_CTSMJIMISSION_00791_SYSTEM_006_020","（★未使用／削除予定★）"
+48,"TEXT_CTSMJIMISSION_00791_SYSTEM_006_025","（★未使用／削除予定★）"
+49,"TEXT_CTSMJIMISSION_00791_SYSTEM_006_030","（★未使用／削除予定★）"
+50,"TEXT_CTSMJIMISSION_00791_SYSTEM_006_035","Friends, free company members, and party members may now visit your island. Decide who may or may not enter your sanctuary by accessing Sanctuary Settings from the islekeep's index."
+51,"TEXT_CTSMJIMISSION_00791_SYSTEM_006_040","（★未使用／削除予定★）"
+52,"TEXT_CTSMJIMISSION_00791_SYSTEM_006_045","As development of your island sanctuary progresses, you will earn two types of cowries. "
+53,"TEXT_CTSMJIMISSION_00791_SYSTEM_006_050","With no further ado, go and see the cozy cabin for yourself!"
+54,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_007_000","As you may have noticed for yourself already, this island receives a dreadful amount of sunlight. I expect that's desirable for growing crops."
+55,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_007_005","If cultivation is your sort of thing, I suggest you speak with my subordinate, the produce producer. You'll find the indolent oaf no doubt loitering about north of here, finding some excuse not to do any sort of work. A privilege reserved solely for myself."
+56,"TEXT_CTSMJIMISSION_00791_SYSTEM_007_000","The cropland may now be unlocked! Speak with the produce producer in the north of the hideaway to begin your aspirations as a farmer."
+57,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_008_000","What? You're still here? I'm rather keen to have a nap, and I'd prefer if you did not catch me sleeping in your cot. Don't you think you'd be more comfortable away from here, being tormented by the merciless sun as you tend to some crops?"
+58,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_009_000","I don't know why I've been reduced to a messenger─I do believe the role is better suited to the curious courier over there─but here we are. The produce producer claims he has something to give you, so I suggest you go find out what it is."
+59,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_010_000","You're back already? If you've questions about the cropland, I am not your mammet. Speak with the produce producer, and allow me to have some peace and quiet."
+60,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_013_000","It's been all of five minutes and you've already had your fill of tilling the land? What a productive little bee you are. Would that I had you under my employ. Anyway, let me think of another way to make, erm, constructive use of your time... Say, do you like animals?"
+61,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_013_005","Why did I bother to ask? Of course you do. You'll surely make fast friends with the creature comforter, another subordinate of mine, and one who prefers the company of animals more than its own kind. You'll find the curious fellow standing across from the produce producer."
+62,"TEXT_CTSMJIMISSION_00791_SYSTEM_013_000","The pasture may now be unlocked! Speak with the creature comforter in the north of the hideaway to advance your aspirations as a farmer."
+63,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_014_000","...If you're lost, I suggest you seek out the creature comforter. You will find it in the north of the hideaway, standing across from the produce producer."
+64,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_015_000","The creature comforter claims it has something to give you─please go find out what it is before I am subject to its contact again. I swear, if another mammet asks me to give you a message, I will throw them in the wilds myself."
+65,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_016_000","I do not know the first, last, or any of the things in-between about animals, besides that they are ghastly dangerous. Reserve all questions about them for the creature comforter, if you please."
+66,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_020_000","You've finished with the pasture already!? V-Very good, very good! Let's see, perhaps next you can find a use for all the materials you'll be getting from the animals and cropland? We could make a workshop, and craft...um, isleworks handicrafts! That's a fine name as any!"
+67,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_020_005","Lest you worry, you need not concern yourself with the crafting. Nay, I'll make my subordinates do it. I enjoy watching them suffer."
+68,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_020_010","We're awfully pressed for space as it is, so we'll need to clear away the trees around here in order to build a workshop."
+69,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_020_015","For all matters concerning the wanton destruction of plant life and vegetation, the pathological pathfinders are the mammets for the job."
+70,"TEXT_CTSMJIMISSION_00791_SYSTEM_020_000","The hideaway may now be expanded! Speak with the pathological pathfinder mk. I to get started."
+71,"TEXT_CTSMJIMISSION_00791_SYSTEM_020_005","（★未使用／削除予定★）"
+72,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_021_000","Pardon me, afraid I'm on a break. Yes. A break. Someone else around here can give you something to do for a change, damn it."
+73,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_022_000","Look, I completely understand if you're alarmed by our utterly deranged pathfinding friend here. But? There is no but. That's all I wanted to say."
+74,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_025_000","I'm pretty sure the pathfinder's looking for you. I would appreciate it if you see what the lunatic wants before it topples the cabin out of sheer bloody-mindedness."
+75,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_026_000","Ah, this once-lush land has at last begun to look like proper civilization. Away with the trees, the bugs, the sunlight, and the sights I say! Let there be bricks and buildings and subjects to be exploited!"
+76,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_026_005","...Ahem. I think it is about time I retired to the cabin. Now, you may capture wild animals, sow seeds, and remove what vegetation abides on this isle to build wondrous mammet-made edifices in its stead. "
+77,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_026_010","Since I trust each one of those pathfinder units just about as far as I can throw them, I will tell you this myself just in case: should you wish to begin production of craftworks, speak with the tactful taskmaster."
+78,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_026_015","If you have any further questions or experience any trouble, I encourage you to review the islekeep's index. I made it for precisely such occasions, after all."
+79,"TEXT_CTSMJIMISSION_00791_SYSTEM_026_000","Congratulations! You have unlocked all of the key features available in the island sanctuary. Now, you are free to cultivate the land as you see fit, and create the island paradise of your dreams!"
+80,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_027_000","I must say, I love what you've done with the place. Look how many buildings there are! I feel right at home. Anyway, the curious courier told me to tell you it has a message for you. The irony seems lost on the half-wit. It has one job. Just the one!"
+81,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_027_005","Don't worry, I'll keep watch over the island when you have adventuring business to attend to. You'll want to check in with the tactful taskmaster regularly, however, if you wish to keep the production line moving."
+82,"TEXT_CTSMJIMISSION_00791_SYSTEM_027_000","Earn island experience while in your island sanctuary by performing various actions, such as gathering, gardening, and capturing animals."
+83,"TEXT_CTSMJIMISSION_00791_SYSTEM_027_005","See your island flourish by increasing your sanctuary rank and engaging in activities."
+84,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_027_010","Do be sure to visit when you can find the time to spare from your adventures. There is much and more to be done!"
+85,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_027_015","It still feels altogether too <hex:021A020203>green<hex:021A020103> for my tastes. Aren't there any plots you can fill with a structure? That'll surely liven up the place."
+86,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_028_000","（★未使用／削除予定★）"
+87,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_028_005","You've made superb progress with the hideaway, I must say. Very fine work. I suppose this is as good a time as any to teach you the recipe for crafting an iron hatchet."
+88,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_028_010","With the iron hatchet, you'll be able to acquire new types of materials from the trees around here. You probably could have used one before, it's true, but I wasn't about to suggest it without taking full measure of your character first."
+89,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_028_015","Other mammets may be content to be murdered in their sleep─or while awake, in many cases─but not I. Which is all to say...mind where you swing that thing. I'll be watching."
+90,"TEXT_CTSMJIMISSION_00791_SYSTEM_028_000","The islekeep's iron hatchet recipe has been added to the sanctuary crafting log. Crafting this tool will allow you to gather new types of materials from trees."
+91,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_029_000","Ah, welcome back, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Taking a rest from your adventures, I take it?"
+92,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_029_005","You have the look of an experienced pioneer about you, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. I look forward to seeing what you accomplish here next."
+93,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_029_010","By the way, the curious courier, exhaustingly excitable as ever, has told me to tell you that it has once again received a message from Mistress Tataru."
+94,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_029_015","I see nothing to criticize...for the present. Should you want for inspiration, however, consider expanding your horizons. Explore the isle─explore your hideaway. You may gain some insight as to how to move forward with your development efforts."
+95,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_030_000","You've made astonishing progress with the development of your island in record time. What's your secret? Mammets, isn't it?"
+96,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_030_005","Oh good, you're here. Something in the mossy mountains has been wailing intermittently as of late, and not in a good way either. "
+97,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_030_010","Seeing as it is your solemn duty to ensure your workers aren't mauled by wild animals, perhaps you'd be so kind as to find the source of that unnerving noise?"
+98,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_031_000","Did you discover what's been moaning in the mountains yet? No? Then why are you still here?"
+99,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_032_000","A cavern, you say? That wasn't in the paperwork... I suppose it wouldn't hurt to open up the mountain. We might even find something shiny down there."
+100,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_032_005","It just so happens that we have a mammet fixated on drilling into the earth, so I'll send it over to oversee the excavation. Try not to get crushed in a landslide or something, yes? You people are entirely too fragile."
+101,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_033_000","There's a mammet waiting for you by your so-called cavern. While you're obviously free to do what you'd like, you should know that I strongly dislike a <hex:02080FE905FF06>woman<hex:FF04>man<hex:03> who keeps <hex:02080DE905FF04>her<hex:FF04>his<hex:03> workers waiting."
+102,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_034_000","Well? Did you bring me something shiny? ...You haven't even started excavation yet, have you? <sigh>"
+103,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_035_000","Oh dear, you must be exhausted having crafted such a tiny set of tools to help your employees open that massive mountainside. Would you like me to fetch you a cooling beverage? Because I won't."
+104,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_035_005","I'm sure the materials you find in that cavern will prove useful for island development. The shiny ones will be especially nice when they're polished and gifted to the adorable feline mammet who oversees your island while you are off gallivanting and cavorting and fishing and mining and crafting and gathering and dueling and primping and hunting and selling and sightseeing and collecting those fiddly little tomestones and doing whatever else it is that you adventurers spend so much of your precious time doing. Just a thought."
+105,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_036_000","Hello there, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Enjoying the island breeze, I trust?"
+106,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_036_005","Why, our foundations have flourished into something quite spectacular! It's all thanks to your unflagging leadership. And mammets, of course. Leadership never laid a brick in its life."
+107,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_036_010","But I think I speak for all of us when I say that we are truly grateful to be here instead of standing abandoned in a broom cupboard or being repurposed into birdhouses. We enjoy earning our keep."
+108,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_036_015","And speaking of earning one's keep─or lack thereof, in this case─the curious courier wants to speak with you regarding an urgent message. A message so urgent, in fact, that it will do naught to convey it unless <hex:021A020203>you<hex:021A020103> initiate the conversation."
+109,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_036_020","It still feels altogether too <hex:021A020203>green<hex:021A020103> for my tastes. Aren't there any plots you can fill with a structure?"
+110,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_037_000","Thanks to you─but mostly us─this island has become a lovely location for rest and relaxation. Congratulations on your good fortune, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! May it last."
+111,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_037_005","Ah, impeccable timing. I've just received word from the determined digger who has asked for assistance in the mountain hollow. Seeing as I'm not likely to tromp across the wilderness to oblige it, I thought you might. Because that's what you do."
+112,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_038_000","Run along, then. Go and assist the determined digger with its...determined digging, I suppose."
+113,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_039_000","A crystal-bearing spriggan, you say? ...Well, that sounds quite promising. I expect you to spare no effort in discovering this hidden chamber brimming with priceless gems."
+114,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_040_000","Have you discovered anything regarding this theoretical cavern of crystals? Then would you kindly report to the determined digger? Immediately?"
+115,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_041_000","Making steady progress in gaining access to the hidden cavern, I trust?"
+116,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_042_000","Excellent work, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. The determined digger has told me all. To think a cavern replete with gleaming, glittering crystals was right under our noses!"
+117,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_042_005","Such a precious resource could be used any number of ways─like making this cozy cabin a touch cozier for your mammets? Give it some thought, won't you?"
+118,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_043_000","What will it be today? Out to capture more animals for the pasture? Perhaps do a bit of gardening? It matters very little to me, but I suppose I can feign interest."
+119,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_043_005","Do you remember the very first day we arrived on this island, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>? I certainly do. The hideaway was overgrown with lush vegetation. Yet look at it now─trimmed and trampled and tamed into a vision of civility."
+120,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_043_010","We ought to pat ourselves on the backs for such good work. And I emphasize “we” because it was only through our combined efforts that anything managed to get done around here."
+121,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_043_015","Speaking of getting things done and those incapable of doing so─the curious courier is making that infernal racket again. I'm assuming you know what that means."
+122,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_043_020","Renovate, renovate, renovate! The key to efficiency is ensuring all facilities are in prime condition, and I fear the hideaway is running dreadfully inefficiently."
+123,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_044_000","You like <hex:021A020203>wealth<hex:021A020103>, don't you, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>? Then I have glad tidings for you."
+124,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_044_005","Word of our esteemed handicrafts has spread beyond the Rhotano Sea, and a number of buyers have indicated their interest in purchasing our goods wholesale."
+125,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_044_010","Fulfilling these new requests─and thereby increasing our profits so you may pamper your hardworking employees─will require your cooperation, however. Consider it a favor to me."
+126,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_044_015","Each term, I will provide you a list of goods, and you will procure said goods by the deadline I give you. Simple enough, no?"
+127,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_044_020","And, should you prove yourself diligent at scratching my back, I might be inclined to scratch yours. A favor rendered ought to be a favor received, after all."
+128,"TEXT_CTSMJIMISSION_00791_SYSTEM_044_000","You can now review the felicitous favors available each season by speaking with the felicitous furball."
+129,"TEXT_CTSMJIMISSION_00791_SYSTEM_044_005","Earn felicitous tokens by speaking with the felicitous furball after completing a felicitous favor, which can be accomplished by shipping the requisite amount of handicrafts within a designated season."
+130,"TEXT_CTSMJIMISSION_00791_SYSTEM_044_010","Felicitous tokens may be exchanged at the horrendous hoarder's shop for various items."
+131,"TEXT_CTSMJIMISSION_00791_SYSTEM_044_015","Please note that felicitous tokens earned during the previous season must be retrieved by the end of the current one. Tokens earned prior to the previous season cannot be retrieved."
+132,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_045_000","It seems you've grown uncomfortably attached to the tokens I've given you. I'm afraid you'll need to exchange them with the horrendous hoarder before I give you any more."
+133,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_045_005","Wonderful, you completed my favor. Now I suppose I can favor you with something in return."
+134,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_045_010","Impressive work, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Here is your reward for completing all my favors last season."
+135,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_045_015","I'm pleased to see you take your work so seriously, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Accept this reward for completing all of my favors this season."
+136,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_045_020","You just fulfilled all my favors from the past <hex:021A020203>two<hex:021A020103> seasons! Now that deserves quite a handsome reward indeed."
+137,"TEXT_CTSMJIMISSION_00791_SYSTEM_045_000","What will you do?"
+138,"TEXT_CTSMJIMISSION_00791_Q1_045_000","Review felicitous favors."
+139,"TEXT_CTSMJIMISSION_00791_Q1_045_005","Talk."
+140,"TEXT_CTSMJIMISSION_00791_Q1_045_010","Nothing."
+141,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_045_025","Time to spare, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>? Then do consider doing me a few favors. You have nothing to lose except for <hex:021A020203>my<hex:021A020103> favor─which we both know means much on this island."
+142,"TEXT_CTSMJIMISSION_00791_SYSTEM_045_005","Earn felicitous tokens by speaking with the felicitous furball after completing a felicitous favor, which can be accomplished by shipping the requisite amount of handicrafts within a designated season."
+143,"TEXT_CTSMJIMISSION_00791_SYSTEM_045_010","Felicitous tokens may be exchanged at the horrendous hoarder's shop for various items."
+144,"TEXT_CTSMJIMISSION_00791_SYSTEM_045_015","Please note that felicitous tokens earned during the previous season must be retrieved by the end of the current one. Tokens earned prior to the previous season cannot be retrieved."
+145,"TEXT_CTSMJIMISSION_00791_SYSTEM_045_020","Warning: You will not be able to receive all of <hex:020827E4E80302FF10><hex:02310CFF05>Item<hex:03E802020203><hex:FF10><hex:02310CFF05>Item<hex:03E802030203><hex:03>.<hex:02100103>Excess amount: <hex:022003E80303><hex:02100103>Amount currently held: <hex:022003E80403>/150<hex:02100103><hex:024804F201FA03><hex:024904F201FB03>※The tokens rewarded may differ from the displayed amount if the season changes, or if a felicitous favor is completed while accessing this screen.<hex:0249020103><hex:0248020103>"
+146,"TEXT_CTSMJIMISSION_00791_NEKOMIMI_100_000","A friend of the owner, are you? Tell me, how do you find the cabin? Cozy? Yes, I bet you do."
+147,"TEXT_CTSMJIMISSION_00791_SYSTEM_200_000","When at a loss as to how to progress, speak with the felicitous furball for hints about how to realize your current vision."
+148,"TEXT_CTSMJIMISSION_00791_SYSTEM_200_005","What will you do?"
+149,"TEXT_CTSMJIMISSION_00791_Q1_200_000","Discuss the state of your hideaway."
+150,"TEXT_CTSMJIMISSION_00791_Q1_200_005","Talk."
+151,"TEXT_CTSMJIMISSION_00791_Q1_200_010","Nothing."

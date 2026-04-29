@@ -2,200 +2,200 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_FESGSC601_04584_SEQ_00,※本任務是特定期間內的任務。<hex:02100103><hex:02100103>烏爾達哈的奧利爾正在尋找能夠幫忙的人。
-1,TEXT_FESGSC601_04584_SEQ_01,※本任務只有在季節活動開放期間才能接受和進行。<hex:02100103>季節活動結束後無法進行，敬請注意。<hex:02100103>詳情請參見官方網站。<hex:02100103><hex:02100103>奧利爾等人向冒險者說明了自己的困境。和利姆薩·羅敏薩艦尾樓的奧利爾談談。
-2,TEXT_FESGSC601_04584_SEQ_02,和奧利爾進行了交談。原來奧利爾正在憂心他的同僚仙人刺先生。和艦尾樓的仙人刺先生談談。
-3,TEXT_FESGSC601_04584_SEQ_03,和仙人刺先生進行了交談。他似乎有什麼事想告訴冒險者。在鏡海魚店西側的<hex:02280CFF05>EObj<hex:F61EB7260103>張望。
-4,TEXT_FESGSC601_04584_SEQ_04,在<hex:02280CFF05>EObj<hex:F61EB7260103>進行了張望，仙人刺先生不見了，取而代之站在那裡的是納納佛恩。原來他感到不安是因為自己不能說話而無法像想像中那樣順利地宣傳活動。冒險者決定幫助他。做好準備後，再次和鏡海魚店西側附近的納納佛恩談談。
-5,TEXT_FESGSC601_04584_SEQ_05,和納納佛恩進行了交談。他將自己想好的金碟遊樂場宣傳詞仔仔細細地教給了冒險者。為了幫他宣傳，在艦尾樓的<hex:02280CFF05>EObj<hex:F61EB7270103>等待。
-6,TEXT_FESGSC601_04584_SEQ_06,在<hex:02280CFF05>EObj<hex:F61EB7270103>等待後，仙人刺先生來了。現在，開始利姆薩·羅敏薩的金碟遊樂場宣傳活動吧。
-7,TEXT_FESGSC601_04584_SEQ_07,在利姆薩·羅敏薩向市民們宣傳了金碟遊樂場。在艦尾樓和仙人刺先生談談。
-8,TEXT_FESGSC601_04584_SEQ_08,和仙人刺先生進行了交談。此時奧利爾出現，並表示金碟遊樂場出了大事，要求所有人立刻回金碟遊樂場。在金碟遊樂場和奧利爾談談。
-9,TEXT_FESGSC601_04584_SEQ_09,和奧利爾進行了交談。原來冒險者和仙人刺先生的宣傳在利姆薩·羅敏薩造成了轟動，前來金碟遊樂場遊玩的市民擠滿了遊樂場，盛況空前。冒險者因此受到了奧利爾和仙人刺先生的衷心感謝。請繼續享受金碟嘉年華吧！
-10,TEXT_FESGSC601_04584_SEQ_10,
-11,TEXT_FESGSC601_04584_SEQ_11,
-12,TEXT_FESGSC601_04584_SEQ_12,
-13,TEXT_FESGSC601_04584_SEQ_13,
-14,TEXT_FESGSC601_04584_SEQ_14,
-15,TEXT_FESGSC601_04584_SEQ_15,
-16,TEXT_FESGSC601_04584_SEQ_16,
-17,TEXT_FESGSC601_04584_SEQ_17,
-18,TEXT_FESGSC601_04584_SEQ_18,
-19,TEXT_FESGSC601_04584_SEQ_19,
-20,TEXT_FESGSC601_04584_SEQ_20,
-21,TEXT_FESGSC601_04584_SEQ_21,
-22,TEXT_FESGSC601_04584_SEQ_22,
-23,TEXT_FESGSC601_04584_SEQ_23,
-24,TEXT_FESGSC601_04584_TODO_00,和利姆薩·羅敏薩的奧利爾對話
-25,TEXT_FESGSC601_04584_TODO_01,和仙人刺先生對話
-26,TEXT_FESGSC601_04584_TODO_02,在<hex:02280CFF05>EObj<hex:F61EB7260103>張望
-27,TEXT_FESGSC601_04584_TODO_03,和納納佛恩對話
-28,TEXT_FESGSC601_04584_TODO_04,在<hex:02280CFF05>EObj<hex:F61EB7270103>等待
-29,TEXT_FESGSC601_04584_TODO_05,在上層甲板宣傳金碟遊樂場
-30,TEXT_FESGSC601_04584_TODO_06,在下層甲板宣傳金碟遊樂場
-31,TEXT_FESGSC601_04584_TODO_07,和仙人刺先生對話
-32,TEXT_FESGSC601_04584_TODO_08,和金碟遊樂場的奧利爾對話
-33,TEXT_FESGSC601_04584_TODO_09,
-34,TEXT_FESGSC601_04584_TODO_10,
-35,TEXT_FESGSC601_04584_TODO_11,
-36,TEXT_FESGSC601_04584_TODO_12,
-37,TEXT_FESGSC601_04584_TODO_13,
-38,TEXT_FESGSC601_04584_TODO_14,
-39,TEXT_FESGSC601_04584_TODO_15,
-40,TEXT_FESGSC601_04584_TODO_16,
-41,TEXT_FESGSC601_04584_TODO_17,
-42,TEXT_FESGSC601_04584_TODO_18,
-43,TEXT_FESGSC601_04584_TODO_19,
-44,TEXT_FESGSC601_04584_TODO_20,
-45,TEXT_FESGSC601_04584_TODO_21,
-46,TEXT_FESGSC601_04584_TODO_22,
-47,TEXT_FESGSC601_04584_TODO_23,
-48,TEXT_FESGSC601_04584_OLLIER_000_000,你、你是！<hex:02100103>之前多虧你的幫忙！你還記得我嗎！我是奧利爾！
-49,TEXT_FESGSC601_04584_OLLIER_000_001,其實我有個麻煩事想請人給我出出主意，<hex:02100103>正在四處找人幫忙呢。<hex:02100103>能佔用你一些時間嗎？
-50,TEXT_FESGSC601_04584_OLLIER_000_002,抱歉突然攔下你，<hex:02100103>我是奧利爾，<hex:02100103>是曼德維爾金碟遊樂場的一名工作人員。
-51,TEXT_FESGSC601_04584_OLLIER_000_003,其實我有件麻煩事需要有人給我出出主意，<hex:02100103>正在尋找能幫忙的冒險者，<hex:02100103>能佔用你一些時間嗎？
-52,TEXT_FESGSC601_04584_OLLIER_000_004,現在金碟遊樂場正在舉辦金碟嘉年華。
-53,TEXT_FESGSC601_04584_OLLIER_000_005,我們希望能藉此機會，<hex:02100103>讓更多的人了解我們金碟遊樂場，<hex:02100103>所以我們讓工作人員走上街頭宣傳金碟遊樂場！
-54,TEXT_FESGSC601_04584_OLLIER_000_006,……可不知怎麼的，這個活動開始之後，<hex:02100103>我的一位同僚一直沒什麼幹勁，<hex:02100103>本來我們幾個工作人員裡就屬他精力最充沛了，所以我很擔心他……
-55,TEXT_FESGSC601_04584_OLLIER_000_007,我想你一定能像以前幫助我那樣，<hex:02100103>和他暢談一番，讓他恢復活力，所以想求你幫忙。<hex:02100103>不知你是否願意幫我這個忙？
-56,TEXT_FESGSC601_04584_OLLIER_000_008,像你這樣經驗豐富的冒險者<hex:02100103>一定能和他暢談一番，讓他恢復活力，所以想求你幫忙。<hex:02100103>不知你是否願意幫我這個忙？
-57,TEXT_FESGSC601_04584_OLLIER_000_009,謝謝你！
-58,TEXT_FESGSC601_04584_OLLIER_000_010,有問題的工作人員負責在利姆薩·羅敏薩宣傳，<hex:02100103>我先過去找他，請你到艦尾樓來和我匯合吧！
-59,TEXT_FESGSC601_04584_OLLIER_000_011,要是你沒去過金碟遊樂場的話，<hex:02100103>就和那邊的揮金如土的年輕人談談吧。<hex:02100103>他看上去很大方，應該會給你去金碟遊樂場的票。
-60,TEXT_FESGSC601_04584_SYSTEM_000_012,若要領取或繼續推進本任務，需要在烏爾達哈現世迴廊領取<hex:02100103>15級才能領取的任務「前往遊樂場」。
-61,TEXT_FESGSC601_04584_OLLIER_000_020,你來啦！
-62,TEXT_FESGSC601_04584_OLLIER_000_021,怎麼樣？<hex:02100103>是不是很熱鬧？
-63,TEXT_FESGSC601_04584_OLLIER_000_022,那邊的那個，就是我剛才和你說的那位同僚……
-64,TEXT_FESGSC601_04584_GUESTA04584_000_023,這孩子，一直在咕嚕咕嚕地原地打轉，<hex:02100103>這是在做什麼？
-65,TEXT_FESGSC601_04584_GUESTB04584_000_024,是在模仿魔物吧？<hex:02100103>喂，你這是在幹嘛？
-66,TEXT_FESGSC601_04584_GUESTA04584_000_025,……？<hex:02100103>我還是看不太明白……
-67,TEXT_FESGSC601_04584_GUESTB04584_000_026,沒意思，<hex:02100103>我們去俾斯麥餐廳吃一頓吧？
-68,TEXT_FESGSC601_04584_GUESTB04584_000_027,拜拜啦，安靜的小怪物！
-69,TEXT_FESGSC601_04584_SYSTEM_000_028,仙人刺先生看上去十分失落。<hex:02100103>剛才發生的種種似乎讓他大受打擊……
-70,TEXT_FESGSC601_04584_OLLIER_000_029,他最近一直都是那個樣子……<hex:02100103>請你和這位煩惱的仙人刺先生談談，<hex:02100103>聽聽他有什麼煩惱吧？
-71,TEXT_FESGSC601_04584_OLLIER_000_030,我的同僚就交給你了……
-72,TEXT_FESGSC601_04584_Q1_000_000,如何打招呼？
-73,TEXT_FESGSC601_04584_A1_000_001,你看起來沒精神啊，沒事吧？
-74,TEXT_FESGSC601_04584_A1_000_002,宣傳活動不順利？
-75,TEXT_FESGSC601_04584_A1_000_003,轉一個！轉一個！
-76,TEXT_FESGSC601_04584_SYSTEM_000_030,仙人刺先生表演了情感動作「優雅仙人刺」。<hex:02100103>然而仙人刺先生依舊一言不發，讓人不懂他想表達什麼……
-77,TEXT_FESGSC601_04584_SYSTEM_000_031,仙人刺先生向西跑遠了。<hex:02100103>他是想在那裡和你聊聊嗎？<hex:02100103>追上仙人刺先生！
-78,TEXT_FESGSC601_04584_NANAPHON_000_040,(-？？？？-)久等了……
-79,TEXT_FESGSC601_04584_Q2_000_000,要說什麼？
-80,TEXT_FESGSC601_04584_A2_000_001,……你哪位？
-81,TEXT_FESGSC601_04584_A2_000_002,納納佛恩！好久不見了！看你這麼沒精神，沒事吧？
-82,TEXT_FESGSC601_04584_A2_000_003,仙人刺先生是人扮的？！
-83,TEXT_FESGSC601_04584_NANAPHON_000_041,哎呀，真不好意思！<hex:02100103>我是納納佛恩，是仙人刺先生的扮演者。
-84,TEXT_FESGSC601_04584_NANAPHON_000_042,唉？你不認識我了……<hex:02100103>以前你還幫過我的，我是納納佛恩呀。<hex:02100103>現在正在扮演仙人刺先生……
-85,TEXT_FESGSC601_04584_NANAPHON_000_043,好久不見了！<hex:022903EB0203>！<hex:02100103>我看起來這麼沒精神嗎？
-86,TEXT_FESGSC601_04584_NANAPHON_000_044,你在……開玩笑吧？<hex:02100103>仙人刺先生當然是拉拉菲爾族的演員扮的啊……<hex:02100103>我是扮演仙人刺先生的納納佛恩。
-87,TEXT_FESGSC601_04584_NANAPHON_000_045,你是想讓我精神一點，<hex:02100103>所以存心說了個笑話對吧？<hex:02100103>不過，我現在沒心情開玩笑……
-88,TEXT_FESGSC601_04584_NANAPHON_000_046,你看到剛才發生的事了吧？<hex:02100103>我已經很努力了，擺造型打手勢，<hex:02100103>用各種辦法向他們傳達金碟遊樂場的魅力……
-89,TEXT_FESGSC601_04584_NANAPHON_000_047,……但這麼做還是行不通啊！<hex:02100103>不出聲要怎麼做宣傳啊！
-90,TEXT_FESGSC601_04584_NANAPHON_000_048,可是仙人刺先生是人扮的這種事情，<hex:02100103>卻是絕對絕對不能讓客人猜到的機密！
-91,TEXT_FESGSC601_04584_NANAPHON_000_049,所以……我……根本……不能……
-92,TEXT_FESGSC601_04584_NANAPHON_000_050,……我根本不能吆喝啊！
-93,TEXT_FESGSC601_04584_NANAPHON_000_051,可維持現狀的話，我的優雅仙人刺表演<hex:02100103>只會換來一張又一張困惑的臉……<hex:02100103>我的想法根本沒法傳達給別人！我好不甘心！
-94,TEXT_FESGSC601_04584_Q3_000_000,如何作答？
-95,TEXT_FESGSC601_04584_A3_000_001,我可以代替納納佛恩為大家解釋！
-96,TEXT_FESGSC601_04584_A3_000_002,我可以和你一起去宣傳！
-97,TEXT_FESGSC601_04584_NANAPHON_000_052,……哎？！<hex:02100103>真、真的嗎？<hex:02100103>你願意和我一起為金碟遊樂場做宣傳？！
-98,TEXT_FESGSC601_04584_NANAPHON_000_053,太好了！<hex:02100103>你真的太好了！大好人！謝謝你！
-99,TEXT_FESGSC601_04584_NANAPHON_000_054,那事情就這麼定了！讓我們來商量一下怎麼宣傳吧！<hex:02100103>等你空出時間來了就過來跟我說一聲！
-100,TEXT_FESGSC601_04584_NANAPHON_000_060,那麼首先，<hex:02100103>請讓我介紹一下這次活動的主旨。
-101,TEXT_FESGSC601_04584_NANAPHON_000_061,根據我們之前進行的問卷調查結果顯示，<hex:02100103>客人們眼中金碟遊樂場最有魅力的<hex:02100103>就是各種各樣的遊樂項目。
-102,TEXT_FESGSC601_04584_NANAPHON_000_062,但是，我們除了遊樂項目以外，其實還有很多其他有趣的活動！<hex:02100103>這次的活動就是為了將這些活動推廣給大家而舉辦的！
-103,TEXT_FESGSC601_04584_NANAPHON_000_063,所以，我準備了四個值得宣傳的優點。<hex:02100103>這裡是我寫的列表……你想先聽我介紹哪一個？
-104,TEXT_FESGSC601_04584_Q4_000_000,要聽哪一項優點的介紹？
-105,TEXT_FESGSC601_04584_A4_000_001,仙人仙彩
-106,TEXT_FESGSC601_04584_A4_000_002,交通方便
-107,TEXT_FESGSC601_04584_A4_000_003,觀光聖地
-108,TEXT_FESGSC601_04584_A4_000_004,員工形象
-109,TEXT_FESGSC601_04584_A4_000_005,取消
-110,TEXT_FESGSC601_04584_NANAPHON_000_064,每天能挑戰三次的仙人微彩，<hex:02100103>每週會開獎一次的仙人仙彩……<hex:02100103>兩項都是看你的好運能為你帶來多少金碟幣的仙人彩。
-111,TEXT_FESGSC601_04584_NANAPHON_000_065,如果想要測試自己的運氣，一定不要錯過仙人彩。<hex:02100103>攢到足夠的金碟幣就能兌換自己心儀的獎品。<hex:02100103>尤其推薦想要一夜暴富的客人嘗試仙人彩！
-112,TEXT_FESGSC601_04584_NANAPHON_000_066,雖然金碟遊樂場位於撒溝厲沙漠，<hex:02100103>但我們為各大城邦都提供了免費的飛空艇接送服務。<hex:02100103>因此往返金碟遊樂場的交通比想像中要便捷得多。
-113,TEXT_FESGSC601_04584_NANAPHON_000_067,通過一場特別的飛行之旅<hex:02100103>和你心儀的人來到金碟遊樂場，<hex:02100103>體會別樣的約會聖地！
-114,TEXT_FESGSC601_04584_NANAPHON_000_068,金碟遊樂場的賣點除了花樣繁多的遊樂項目以外，<hex:02100103>位於奇妙廣場的酒吧也是一大觀光聖地！
-115,TEXT_FESGSC601_04584_NANAPHON_000_069,在那裡，一流的酒保會為您提供一流的雞尾酒，<hex:02100103>酒吧的各種飲料因為優秀的口感而深得人心，<hex:02100103>對美食美酒感興趣的諸位請一定不要錯過！
-116,TEXT_FESGSC601_04584_NANAPHON_000_070,我們金碟遊樂場的擁有者戈德伯特大人是一位一流的雕金匠……<hex:02100103>在他的管理下，每一位員工都擁有獨具匠心的服飾。
-117,TEXT_FESGSC601_04584_NANAPHON_000_071,喜愛奢華高雅的各位，<hex:02100103>請務必關注金碟遊樂場職員們的豪華制服！
-118,TEXT_FESGSC601_04584_NANAPHON_000_072,剛才說的這些就是我想出來的金碟遊樂場魅力要素，<hex:02100103>你都記住了嗎？
-119,TEXT_FESGSC601_04584_NANAPHON_000_073,那麼，我們現在就開始宣傳吧。<hex:02100103>我這就去做準備換衣服……<hex:02100103>請你在艦尾樓這裡等等我！
-120,TEXT_FESGSC601_04584_SYSTEM_000_080,這應該……是換好了衣服的納納佛恩吧？<hex:02100103>彷彿能感到對方正用熱切的視線看向這邊……
-121,TEXT_FESGSC601_04584_SYSTEM_000_081,「快去做宣傳吧！」彷彿能感受到眼前人身上如此的氣魄……<hex:02100103>和納納佛恩……不、和仙人刺先生一起開始宣傳活動吧！
-122,TEXT_FESGSC601_04584_LYNGSATH_000_090,我還以為是有客人來了呢，<hex:02100103>這個綠的是……？
-123,TEXT_FESGSC601_04584_Q5_000_000,如何作答？
-124,TEXT_FESGSC601_04584_A5_000_001,是仙人刺先生！
-125,TEXT_FESGSC601_04584_A5_000_002,是金碟遊樂場的吉祥物！
-126,TEXT_FESGSC601_04584_LYNGSATH_000_091,哦哦，原來這就是金碟遊樂場的吉祥物啊。<hex:02100103>不過我對那種沙漠裡的地方沒什麼興趣。<hex:02100103>我現在正忙著想新菜單呢。
-127,TEXT_FESGSC601_04584_SYSTEM_100_091,開始宣傳金碟遊樂場吧！<hex:02100103>你的目的是讓客人對金碟遊樂場開始感興趣！
-128,TEXT_FESGSC601_04584_Q6_000_000,要說什麼？
-129,TEXT_FESGSC601_04584_A6_000_001,金碟遊樂場是約會聖地！
-130,TEXT_FESGSC601_04584_A6_000_002,仙人彩可以賺大錢！
-131,TEXT_FESGSC601_04584_A6_000_003,有廣受美食家好評的雞尾酒！
-132,TEXT_FESGSC601_04584_LYNGSATH_000_092,……還真是不巧，我現在沒這個功夫和你聊天。<hex:02100103>我很忙，要不你去問問別人吧。
-133,TEXT_FESGSC601_04584_SYSTEM_000_093,看起來沒能引起對方的興趣……<hex:02100103>再介紹一下其他優點吧。
-134,TEXT_FESGSC601_04584_LYNGSATH_000_094,……哦哦，這我可沒想到，謝謝你告訴我。<hex:02100103>雞尾酒融合了許多不同的味道，<hex:02100103>或許我的新菜單也可以參考雞尾酒。
-135,TEXT_FESGSC601_04584_LYNGSATH_000_095,等我有空了，就去喝喝看。
-136,TEXT_FESGSC601_04584_RHOSWEN_000_100,幹嘛？<hex:02100103>你有事要跟我聊聊？
-137,TEXT_FESGSC601_04584_RHOSWEN_000_101,哈？你問我要不要去金碟遊樂場玩？<hex:02100103>我可是海盜啊，我去那種地方幹嘛！
-138,TEXT_FESGSC601_04584_Q7_000_000,要說什麼？
-139,TEXT_FESGSC601_04584_A7_000_001,仙人彩可以賺大錢！
-140,TEXT_FESGSC601_04584_A7_000_002,金碟遊樂場是約會聖地！
-141,TEXT_FESGSC601_04584_A7_000_003,能看到人們穿著華麗的衣服！
-142,TEXT_FESGSC601_04584_RHOSWEN_000_102,沒興趣！
-143,TEXT_FESGSC601_04584_SYSTEM_000_103,看起來沒能引起對方的興趣……<hex:02100103>再介紹一下其他優點吧。
-144,TEXT_FESGSC601_04584_RHOSWEN_000_104,約、約會？<hex:02100103>混、混蛋！我跟誰約會去？！
-145,TEXT_FESGSC601_04584_Q8_000_000,如何作答？
-146,TEXT_FESGSC601_04584_A8_000_001,和海盜團的夥伴們一起去如何？
-147,TEXT_FESGSC601_04584_A8_000_002,當然是和你喜歡的人一起啦！
-148,TEXT_FESGSC601_04584_RHOSWEN_000_105,也是啊，確實我們紅血聖女團有生了孩子之後，<hex:02100103>就不再下海了的姑娘，<hex:02100103>心情好的時候找上她們一起去玩玩也不錯。
-149,TEXT_FESGSC601_04584_RHOSWEN_000_106,喜、喜歡的人？！
-150,TEXT_FESGSC601_04584_RHOSWEN_000_107,我跟他去約會？！我、我才不要！
-151,TEXT_FESGSC601_04584_WAWALAGO_000_110,哎呀，你找我有事嗎？
-152,TEXT_FESGSC601_04584_WAWALAGO_100_110,說起來……你身邊這個是？
-153,TEXT_FESGSC601_04584_Q9_000_000,如何作答？
-154,TEXT_FESGSC601_04584_A9_000_001,是仙人刺先生！
-155,TEXT_FESGSC601_04584_A9_000_002,是金碟遊樂場的吉祥物！
-156,TEXT_FESGSC601_04584_WAWALAGO_000_111,哦哦……是那個金碟遊樂場啊……
-157,TEXT_FESGSC601_04584_WAWALAGO_100_111,不過，我聽說那裡是特別誇張的、花裡胡哨的地方吧？<hex:02100103>我都這把年紀了，適應不了那種地方……
-158,TEXT_FESGSC601_04584_Q10_000_000,如何作答？
-159,TEXT_FESGSC601_04584_A10_000_001,那的雞尾酒聽說很好喝！
-160,TEXT_FESGSC601_04584_A10_000_002,在那裡能賺大錢！
-161,TEXT_FESGSC601_04584_A10_000_003,能看到人們穿著華麗的衣服哦！
-162,TEXT_FESGSC601_04584_WAWALAGO_000_112,哦……你還是去找希希蒲聊吧，她說不定感興趣呢。
-163,TEXT_FESGSC601_04584_SYSTEM_000_113,看起來沒能引起對方的興趣……<hex:02100103>再介紹一下其他優點吧。
-164,TEXT_FESGSC601_04584_WAWALAGO_000_114,華、華麗的衣服？<hex:02100103>莫非那裡的工作人員都是穿著華麗衣服的美人？
-165,TEXT_FESGSC601_04584_WAWALAGO_000_115,沒時間磨磨蹭蹭了！<hex:02100103>我得趁著希希蒲發現之前趕快過去瞧瞧！
-166,TEXT_FESGSC601_04584_KYOKYOROON_000_120,歡迎光臨，客人。
-167,TEXT_FESGSC601_04584_KYOKYOROON_100_120,哎呀哎呀，你不是來買東西的嗎？<hex:02100103>你找括括盧恩，有什麼事？
-168,TEXT_FESGSC601_04584_KYOKYOROON_000_121,括括盧恩，最喜歡，華麗誇張！<hex:02100103>金碟遊樂場，有沒有，閃閃金幣？
-169,TEXT_FESGSC601_04584_Q11_000_000,如何作答？
-170,TEXT_FESGSC601_04584_A11_000_001,可以學到招待客人的方法！
-171,TEXT_FESGSC601_04584_A11_000_002,仙人彩能賺大錢！
-172,TEXT_FESGSC601_04584_A11_000_003,那裡有好喝的雞尾酒！
-173,TEXT_FESGSC601_04584_KYOKYOROON_000_122,括括盧恩，那些，沒有興趣。<hex:02100103>閃閃金幣，多多益善，賺大錢！
-174,TEXT_FESGSC601_04584_SYSTEM_000_123,看起來沒能引起對方的興趣……<hex:02100103>再介紹一下其他優點吧。
-175,TEXT_FESGSC601_04584_KYOKYOROON_000_124,閃閃金幣，多多益善，最喜歡了！<hex:02100103>括括盧恩，現在，快快出發！
-176,TEXT_FESGSC601_04584_SYSTEM_000_125,金碟遊樂場的宣傳工作已經做得差不多了，<hex:02100103>來艦尾樓和我碰頭。<hex:02100103>仙人刺先生像是這麼說道……
-177,TEXT_FESGSC601_04584_LYNGSATH_000_127,雞尾酒融合了許多不同的味道，<hex:02100103>或許我的新菜單也可以參考雞尾酒。<hex:02100103>等我有空了，就去喝喝看。
-178,TEXT_FESGSC601_04584_RHOSWEN_000_128,嗯嗯，看起來還挺好玩的。
-179,TEXT_FESGSC601_04584_WAWALAGO_000_129,莫非那裡的工作人員都是穿著華麗衣服的美人？<hex:02100103>沒時間磨磨蹭蹭了！<hex:02100103>我得趁著希希蒲發現之前趕快過去瞧瞧！
-180,TEXT_FESGSC601_04584_KYOKYOROON_000_130,閃閃金幣，多多益善，最喜歡了！<hex:02100103>括括盧恩，現在，快快出發！
-181,TEXT_FESGSC601_04584_SYSTEM_100_130,周圍的人與先前相比減少了一些……
-182,TEXT_FESGSC601_04584_OLLIER_000_130,仙人刺先生！你在這裡啊！<hex:02100103>我正找你呢！
-183,TEXT_FESGSC601_04584_OLLIER_000_131,剛才金碟遊樂場那邊聯繫過來，<hex:02100103>說遊樂場裡出大事了，<hex:02100103>所有出來宣傳的工作人員都要立刻回金碟遊樂場！
-184,TEXT_FESGSC601_04584_SYSTEM_000_132,仙人刺先生目不轉睛地盯著你！<hex:02100103>他像是正在說……<hex:02100103>你也來金碟遊樂場吧！
-185,TEXT_FESGSC601_04584_OLLIER_000_133,哎呀，你也要過來幫忙嗎？<hex:02100103>那我們在金碟飛艇坪那邊碰頭吧！<hex:02100103>麻煩你了！
-186,TEXT_FESGSC601_04584_SYSTEM_100_133,若要領取或繼續推進本任務，需要在烏爾達哈現世迴廊領取<hex:02100103>15級才能領取的任務「前往遊樂場」。
-187,TEXT_FESGSC601_04584_SYSTEM_000_134,仙人刺先生目不轉睛地盯著你！<hex:02100103>像是在說……感謝你能來金碟遊樂場！
-188,TEXT_FESGSC601_04584_LYNGSATH_000_140,我聽說這裡的雞尾酒特別好喝，在哪裡能喝到？
-189,TEXT_FESGSC601_04584_STAFFA04584_000_141,這邊走，<hex:02100103>我為您帶路！
-190,TEXT_FESGSC601_04584_OLLIER_000_142,如你所見，盛況空前！<hex:02100103>似乎從利姆薩·羅敏薩來的客人突然變多了。
-191,TEXT_FESGSC601_04584_OLLIER_000_143,看來是見到你們宣傳的市民們自發地一傳十十傳百，<hex:02100103>吸引了很多人過來……真是讓人驚喜。
-192,TEXT_FESGSC601_04584_OLLIER_000_144,不過，正是因為盛況空前，<hex:02100103>留守金碟遊樂場的工作人員才忙不過來了……<hex:02100103>因此才不得不把外出宣傳的工作人員們都喊回來。
-193,TEXT_FESGSC601_04584_OLLIER_000_145,來吧！仙人刺先生！<hex:02100103>請用你最完美的招待來歡迎大家吧！
-194,TEXT_FESGSC601_04584_OLLIER_000_146,這次真是多虧了你。<hex:02100103>我感謝你不只是因為你幫忙招攬了客人，<hex:02100103>我最高興的還是你幫助他恢復了自信。
-195,TEXT_FESGSC601_04584_OLLIER_000_147,畢竟，每一個工作人員都是我們重要的夥伴……
-196,TEXT_FESGSC601_04584_OLLIER_000_148,所以，也請允許我感謝你。<hex:02100103>希望你也能和其他人一樣，<hex:02100103>盡情地享受金碟嘉年華！
+0,"TEXT_FESGSC601_04584_SEQ_00","Ollier is in dire need of an adventurer's assistance.<hex:02100103>※This quest is available for a limited time only."
+1,"TEXT_FESGSC601_04584_SEQ_01","Ollier and his fellow attendants have been hard at work spreading the word across the realm of all the Gold Saucer has to offer, but it seems there is a rub─one of his colleagues has lost his confidence entirely, and the man refuses to admit that there is a problem. Ollier would have you inquire with the poor man as an impartial third party, and begs that you accompany him to Limsa Lominsa, where the individual in question is currently on assignment.<hex:02100103><hex:02100103>※Please note that you will be unable to complete this quest after the seasonal event has ended. For details, please check the Lodestone."
+2,"TEXT_FESGSC601_04584_SEQ_02","Speaking to Ollier upon your arrival in Limsa Lominsa, you learn that the dispirited colleague of whom he spoke is none other than Senor Sabotender─the Gold Saucer's star mascot and mood-maker. Whatever could be responsible for his uncharacteristic lack of motivation? All you can do is speak to the succulent staff member and inquire for yourself."
+3,"TEXT_FESGSC601_04584_SEQ_03","You inquire with Senor Sabotender in hopes of gleaning the reason behind his recent malaise, but receive only a knowing gaze and beckoning arm in response. It would appear the Gold Saucer's mascot would prefer to discuss the matter out of the earshot of any potential eavesdroppers."
+4,"TEXT_FESGSC601_04584_SEQ_04","As you survey your surroundings in search of Senor Sabotender, you are greeted instead by one Nanaphon─the young thespian inside the succulent green suit. The lad explains that while he has traveled with his colleagues here to Limsa in hopes of spreading the word about the Gold Saucer, he has found himself unable to sufficiently express the full extent of its wonders, as he has been sworn to a vow of silence so as to conceal Senor Sabotender's true identity. He rejoices when you offer to be his voice, and promises to share his finely honed sales pitch that you may contribute to the promotional effort."
+5,"TEXT_FESGSC601_04584_SEQ_05","Fully enlightened by Nanaphon as to all the Saucer has to offer, you are now prepared to share the joy of Eorzea's foremost entertainment destination with the denizens of the city. You stride towards the Aftcastle ready to join Senor Sabotenor in your effort to reel in a host of new paying customers."
+6,"TEXT_FESGSC601_04584_SEQ_06","At the Aftcastle, you are rejoined by Nanaphon, who once again has donned his Senor Sabotender suit and sealed his lips tight. Exchanging a determined glance with your succulent friend, you prepare to go forth into the city and give the sales pitch of your life."
+7,"TEXT_FESGSC601_04584_SEQ_07","Through your earnest efforts, the residents of Limsa Lominsa now are well versed in the vast array of wonders that await them at the Manderville Gold Saucer. You prepare to reconvene with Senor Sabotender, in the hopes that your spiny companion is satisfied with your achievements."
+8,"TEXT_FESGSC601_04584_SEQ_08","Though he speaks not a word, Senor Sabotender's intent gaze makes it clear that he is deeply appreciative of all you have done to help make his mission a success. Ollier, as well, arrives on the scene, announcing that all staff have been summoned back to the Saucer at once. Your work in Limsa Lominsa done, you are free to join them in the return voyage."
+9,"TEXT_FESGSC601_04584_SEQ_09","Back at the Saucer, Ollier expresses his profound gratitude for having won over a plethora of new patrons for the establishment─some of whom it would seem have already made the trip. Senor Sabotender, for his part, welcomes the new guests in his inimitable style. Accepting a small token of thanks from the Saucer staff, you take your leave, satisfied that you have done right by your friends─smooth-skinned and prickly alike."
+10,"TEXT_FESGSC601_04584_SEQ_10",""
+11,"TEXT_FESGSC601_04584_SEQ_11",""
+12,"TEXT_FESGSC601_04584_SEQ_12",""
+13,"TEXT_FESGSC601_04584_SEQ_13",""
+14,"TEXT_FESGSC601_04584_SEQ_14",""
+15,"TEXT_FESGSC601_04584_SEQ_15",""
+16,"TEXT_FESGSC601_04584_SEQ_16",""
+17,"TEXT_FESGSC601_04584_SEQ_17",""
+18,"TEXT_FESGSC601_04584_SEQ_18",""
+19,"TEXT_FESGSC601_04584_SEQ_19",""
+20,"TEXT_FESGSC601_04584_SEQ_20",""
+21,"TEXT_FESGSC601_04584_SEQ_21",""
+22,"TEXT_FESGSC601_04584_SEQ_22",""
+23,"TEXT_FESGSC601_04584_SEQ_23",""
+24,"TEXT_FESGSC601_04584_TODO_00","Speak with Ollier in Limsa Lominsa."
+25,"TEXT_FESGSC601_04584_TODO_01","Speak with Senor Sabotender."
+26,"TEXT_FESGSC601_04584_TODO_02","Seek out Senor Sabotender at the designated location."
+27,"TEXT_FESGSC601_04584_TODO_03","Speak with Nanaphon."
+28,"TEXT_FESGSC601_04584_TODO_04","Wait for Senor Sabotender at the designated location."
+29,"TEXT_FESGSC601_04584_TODO_05","Spread word of the Gold Saucer on the Upper Decks."
+30,"TEXT_FESGSC601_04584_TODO_06","Spread word of the Gold Saucer on the Lower Decks."
+31,"TEXT_FESGSC601_04584_TODO_07","Speak with Senor Sabotender."
+32,"TEXT_FESGSC601_04584_TODO_08","Speak with Ollier at the Gold Saucer."
+33,"TEXT_FESGSC601_04584_TODO_09",""
+34,"TEXT_FESGSC601_04584_TODO_10",""
+35,"TEXT_FESGSC601_04584_TODO_11",""
+36,"TEXT_FESGSC601_04584_TODO_12",""
+37,"TEXT_FESGSC601_04584_TODO_13",""
+38,"TEXT_FESGSC601_04584_TODO_14",""
+39,"TEXT_FESGSC601_04584_TODO_15",""
+40,"TEXT_FESGSC601_04584_TODO_16",""
+41,"TEXT_FESGSC601_04584_TODO_17",""
+42,"TEXT_FESGSC601_04584_TODO_18",""
+43,"TEXT_FESGSC601_04584_TODO_19",""
+44,"TEXT_FESGSC601_04584_TODO_20",""
+45,"TEXT_FESGSC601_04584_TODO_21",""
+46,"TEXT_FESGSC601_04584_TODO_22",""
+47,"TEXT_FESGSC601_04584_TODO_23",""
+48,"TEXT_FESGSC601_04584_OLLIER_000_000","Wait...I know you! You're the case-cracking adventurer who came to our aid in the past! It's me, Ollier! Gold Saucer attendant and de facto investigator, at your service."
+49,"TEXT_FESGSC601_04584_OLLIER_000_001","...Though truth be told, it's your services that we really need─if you can spare the time, that is. What do you say?"
+50,"TEXT_FESGSC601_04584_OLLIER_000_002","Pardon me, my good <hex:02080FE905FF06>madam<hex:FF04>sir<hex:03>. My name is Ollier, and I am employed as an attendant at the Manderville Gold Saucer. Could I perhaps trouble you for a moment of your time?"
+51,"TEXT_FESGSC601_04584_OLLIER_000_003","Truth be told, we are in desperate need of a capable adventurer to assist us in a task of the utmost import. Might you perchance be willing to offer your aid?"
+52,"TEXT_FESGSC601_04584_OLLIER_000_004","As you may have realized, we are currently in the midst of the Make It Rain Campaign, a yearly festival during which we hold a number of exclusive, limited-time events."
+53,"TEXT_FESGSC601_04584_OLLIER_000_005","Though you may be surprised to hear it, there are still those who have yet to experience all the wonders the Saucer has to offer. Thus have we─the staff of the Saucer─decided to take our show into town and spread the word."
+54,"TEXT_FESGSC601_04584_OLLIER_000_006","However, there has been one troubling development. Ever since we began this little campaign, one of my colleagues has been visibly out of sorts. Normally, he's the most cheerful of all of us, so let it suffice to say that we're deeply concerned."
+55,"TEXT_FESGSC601_04584_OLLIER_000_007","My colleagues and I have tried to look into the matter ourselves, but I fear the man is too proud for his own good, and refuses to admit anything is the matter. And so, I thought, perhaps an accomplished sleuth like yourself might succeed where we have failed. So...what do you say?"
+56,"TEXT_FESGSC601_04584_OLLIER_000_008","My colleagues and I have tried to look into the matter ourselves, but I fear the man is too proud for his own good, and refuses to admit anything is the matter. And so, I thought, perhaps an experienced adventurer like yourself might succeed where we have failed. So...what do you say?"
+57,"TEXT_FESGSC601_04584_OLLIER_000_009","Thank you, good <hex:02080FE905FF06>madam<hex:FF04>sir<hex:03>! Your generous offer is most appreciated."
+58,"TEXT_FESGSC601_04584_OLLIER_000_010","The man in question is currently on assignment in Limsa Lominsa. I will be heading there myself shortly after this─let us rendezvous by the Aftcastle as soon as you are able."
+59,"TEXT_FESGSC601_04584_OLLIER_000_011","...Oh, but I've gotten ahead of myself. If you've yet to visit the Gold Saucer, you'll be needing a ticket for admission. In that case, I recommend you try speaking with that young man over there. He's been gloating endlessly of his winnings, and seems to be in the mood to share his good fortune."
+60,"TEXT_FESGSC601_04584_SYSTEM_000_012","In order to continue this quest, you must first complete the quest “It Could Happen to You,” which can be undertaken at level 15."
+61,"TEXT_FESGSC601_04584_OLLIER_000_020","Ah, there you are!"
+62,"TEXT_FESGSC601_04584_OLLIER_000_021","Majestic, isn't it? Of all the displays we painstakingly erected, this may be one that best showcases the Saucer's myriad refined delights."
+63,"TEXT_FESGSC601_04584_OLLIER_000_022","As for the fellow I mentioned... Ah, that's him right over there."
+64,"TEXT_FESGSC601_04584_GUESTA04584_000_023","It keeps spinning in circles... Do you think it's quite all right?"
+65,"TEXT_FESGSC601_04584_GUESTB04584_000_024","All I know is it's making me dizzy just looking at it. Hey, you! Can't you do anything else!?"
+66,"TEXT_FESGSC601_04584_GUESTA04584_000_025","Look, you've angered it! Or perhaps that was some manner of impromptu dance performance..."
+67,"TEXT_FESGSC601_04584_GUESTB04584_000_026","In any case, I can't say that I'm terribly keen to see what it does next. Not when we have a table waiting for us at the Bismarck!"
+68,"TEXT_FESGSC601_04584_GUESTB04584_000_027","So long, spiny whatever-you-are."
+69,"TEXT_FESGSC601_04584_SYSTEM_000_028","The bystanders having departed, Senor Sabotender slumps his shoulders in visible dismay."
+70,"TEXT_FESGSC601_04584_OLLIER_000_029","He's been like this ever since he got here. What say you? Will you speak with Senor Sabotender for me and see if you can ascertain what ails him?"
+71,"TEXT_FESGSC601_04584_OLLIER_000_030","I'd give anything to see Senor Sabotender in his usual high spirits again..."
+72,"TEXT_FESGSC601_04584_Q1_000_000","What will you say?"
+73,"TEXT_FESGSC601_04584_A1_000_001","Are you feeling all right?"
+74,"TEXT_FESGSC601_04584_A1_000_002","How goes the campaign?"
+75,"TEXT_FESGSC601_04584_A1_000_003","Give me a spin, will you?"
+76,"TEXT_FESGSC601_04584_SYSTEM_000_030","Senor Sabotender strikes a pose, but speaks no words. It's unclear if your message reached him..."
+77,"TEXT_FESGSC601_04584_SYSTEM_000_031","Senor Sabotender rushed off to the west. Perhaps he wishes to speak with you in a more secluded location?"
+78,"TEXT_FESGSC601_04584_NANAPHON_000_040","(-???-)My apologies for dragging you all the way over here."
+79,"TEXT_FESGSC601_04584_Q2_000_000","What will you say?"
+80,"TEXT_FESGSC601_04584_A2_000_001","Um...who are you?"
+81,"TEXT_FESGSC601_04584_A2_000_002","Nanaphon! Why the long face?"
+82,"TEXT_FESGSC601_04584_A2_000_003","Senor Sabotender isn't a real sabotender!?"
+83,"TEXT_FESGSC601_04584_NANAPHON_000_041","Oh, but of course! The name's Nanaphon. I play the role of Senor Sabotender─the Gold Saucer's beloved mascot. At least, I <hex:021A020203>thought<hex:021A020103> he was beloved..."
+84,"TEXT_FESGSC601_04584_NANAPHON_000_042","Have you forgotten so soon, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>? It's me, Nanaphon! I play the role of Senor Sabotender─the Gold Saucer's beloved mascot. At least, I <hex:021A020203>thought<hex:021A020103> he was beloved..."
+85,"TEXT_FESGSC601_04584_NANAPHON_000_043","Ah, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. So you noticed? As an actor, you think I'd be better at concealing my emotions..."
+86,"TEXT_FESGSC601_04584_NANAPHON_000_044","Surely you jest? Everyone knows it's a Lalafell in a costume. The name's Nanaphon, and I happen to be that Lalafell."
+87,"TEXT_FESGSC601_04584_NANAPHON_000_045","Trying to lift my spirits with a jest, are you? I appreciate the sentiment, but I fear I'm not really in the mood..."
+88,"TEXT_FESGSC601_04584_NANAPHON_000_046","You saw that just now, didn't you? I did my damnedest to convey the sheer splendor of the Gold Saucer with my usual grandiose gestures, but my audience was clearly unimpressed."
+89,"TEXT_FESGSC601_04584_NANAPHON_000_047","Alas, my gyrations and undulations are merely perplexing poses without the spectacles of the Saucer itself! Would that I could explain in my own words all that they are missing out on!"
+90,"TEXT_FESGSC601_04584_NANAPHON_000_048","Why don't I, then? Is it not obvious? Because we don't want to reveal to future patrons that Senor Sabotender isn't a real sabotender! ...Not until we've secured their patronage, at the very least."
+91,"TEXT_FESGSC601_04584_NANAPHON_000_049","Whilst donning my costume, I am forbidden from uttering even a single word!"
+92,"TEXT_FESGSC601_04584_NANAPHON_000_050","Such is my plight, you see..."
+93,"TEXT_FESGSC601_04584_NANAPHON_000_051","At this rate, I will be forced to depart this place having succeeded at nothing but causing quizzical looks and utter confusion. I simply want to join my colleagues in spreading word of the Saucer's splendors across the realm!"
+94,"TEXT_FESGSC601_04584_Q3_000_000","What will you say?"
+95,"TEXT_FESGSC601_04584_A3_000_001","I could explain it for you."
+96,"TEXT_FESGSC601_04584_A3_000_002","...And that's where I come in! Somehow."
+97,"TEXT_FESGSC601_04584_NANAPHON_000_052","What's this? You'd be willing to assist us in our cause!?"
+98,"TEXT_FESGSC601_04584_NANAPHON_000_053","What a kind and generous soul you have, my adventuring friend! Why, your sheer magnanimity brings a tear to my eye..."
+99,"TEXT_FESGSC601_04584_NANAPHON_000_054","...More than a few tears, even. But what am I doing here crying? I must prepare to welcome you to our little troupe. Pray let me know whenever you are ready!"
+100,"TEXT_FESGSC601_04584_NANAPHON_000_060","Ready for your first task? Excellent. Before that, however, allow me to give you an overview of our promotional campaign."
+101,"TEXT_FESGSC601_04584_NANAPHON_000_061","We began with a survey asking for people's impressions of the Gold Saucer. Reviewing the responses, we noted that the vast majority of patrons cited the attractions as one of the venue's main selling points."
+102,"TEXT_FESGSC601_04584_NANAPHON_000_062","While it is true that our attractions are a highlight, there is─as you are well aware─so much more to the Saucer! So we got to thinking about how best to go about informing the world of our lesser-known delights."
+103,"TEXT_FESGSC601_04584_NANAPHON_000_063","I came up with four main features of the Saucer that I hope to promote to people. Which shall I explain first?"
+104,"TEXT_FESGSC601_04584_Q4_000_000","What will you say?"
+105,"TEXT_FESGSC601_04584_A4_000_001","The allure of the Cactpot!"
+106,"TEXT_FESGSC601_04584_A4_000_002","How easy it is to get there!"
+107,"TEXT_FESGSC601_04584_A4_000_003","The Saucer's best-kept secret!"
+108,"TEXT_FESGSC601_04584_A4_000_004","The lavish costumes of the staff!"
+109,"TEXT_FESGSC601_04584_A4_000_005","Nothing."
+110,"TEXT_FESGSC601_04584_NANAPHON_000_064","Ah, indeed! Whether it's the Mini Cactpot─which casual players can enjoy as many as three times a day─or the lucrative Jumbo Cactpot─available once per week─both offer Gold Saucer patrons a chance to test their luck and reap lavish prizes!"
+111,"TEXT_FESGSC601_04584_NANAPHON_000_065","Easy to enter and with incredible fortunes for the taking, the Mini and Jumbo Cactpots are among the most popular ways to rack up MGP─which can then be exchanged for a host of alluring prizes. Dream big and enter the Cactpot today─only at the Manderville Gold Saucer!"
+112,"TEXT_FESGSC601_04584_NANAPHON_000_066","Tell me about it! Though the Saucer may seem far away to many─being located at the edge of the Sagolii Desert─did you know that airship passage is available entirely free of charge from all of Eorzea's major cities?"
+113,"TEXT_FESGSC601_04584_NANAPHON_000_067","And though the wonders that await you in the Saucer's halls are the main attraction, I'll have you know that the journey via airship is a singular delight in its own right. So why not invite that special someone to soar through the skies on the way to the realm's premiere leisure destination? The Manderville Gold Saucer─only a coin's toss away!"
+114,"TEXT_FESGSC601_04584_NANAPHON_000_068","Oho! Clearly I stand before a <hex:02080FE905FF06>woman<hex:FF04>man<hex:03> of discerning taste. While the Saucer offers no end of games and attractions, refined patrons such as yourself are known to enjoy slipping away to our full-service bar for a refreshing libation or two."
+115,"TEXT_FESGSC601_04584_NANAPHON_000_069","That's right! We've assembled the realm's best barkeeps to prepare a plethora of potables sure to wet your whistle and put you in the mood to marvel at the Saucer's many wonders. Do be sure to stop by!"
+116,"TEXT_FESGSC601_04584_NANAPHON_000_070","Ah─a keen eye for fashion, I see. Then you're sure to appreciate the unique costumes and couture worn by our staff─a wardrobe prepared by the sultanate's most esteemed tailors to meet the demanding aesthetic sensibilities of our owner, the incomparable Godbert Manderville."
+117,"TEXT_FESGSC601_04584_NANAPHON_000_071","Be sure to bring something to cover your eyes─the sheer gorgeousness of these ornate outfits is likely to blind you if you do not! Yes, that's right─the Manderville Gold Saucer is a veritable gallery of the most glamorous garb our civilization has ever seen!"
+118,"TEXT_FESGSC601_04584_NANAPHON_000_072","...Well? How did that sound? I daresay I've done a remarkable job of distilling the essence of the Saucer's appeal into concise verbiage. Simply remember all of that verbatim, and you'll be ready to help us spread the word of the Saucer wherever you go."
+119,"TEXT_FESGSC601_04584_NANAPHON_000_073","And with that, I do believe it's time for us to get this show on the road. Allow me to see to my preparations, and we can convene at the Aftcastle when we both are ready. Good? Good."
+120,"TEXT_FESGSC601_04584_SYSTEM_000_080","You can feel Nanaphon's intense gaze upon you from within the Senor Sabotender costume."
+121,"TEXT_FESGSC601_04584_SYSTEM_000_081","You are filled with determination to share the wonders of the Gold Saucer with the residents of Limsa Lominsa alongside your succulent companion."
+122,"TEXT_FESGSC601_04584_LYNGSATH_000_090","What 'ave we got 'ere? Yer a fair share...<hex:021A020203>pricklier<hex:021A020103> than the folks what usually show up 'ere at the Bismarck."
+123,"TEXT_FESGSC601_04584_Q5_000_000","What will you say?"
+124,"TEXT_FESGSC601_04584_A5_000_001","This is Senor Sabotender!"
+125,"TEXT_FESGSC601_04584_A5_000_002","This is the realm-renowned mascot of the Manderville Gold Saucer!"
+126,"TEXT_FESGSC601_04584_LYNGSATH_000_091","The what now? Ah, yer from that eyesore in the desert. Never been there meself─'fraid I'm much too busy fer them silly games. New dishes don't think 'emselves up!"
+127,"TEXT_FESGSC601_04584_SYSTEM_100_091","It's time to put what you've learned to use and spread the word about the wonders about the Saucer. Succeed in drawing the interest of influential Lominsans, and Nanaphon will surely be heartened."
+128,"TEXT_FESGSC601_04584_Q6_000_000","What will you say?"
+129,"TEXT_FESGSC601_04584_A6_000_001","But it's the perfect place to bring that special someone!"
+130,"TEXT_FESGSC601_04584_A6_000_002","But haven't you dreamed of winning a fortune in the Cactpot!?"
+131,"TEXT_FESGSC601_04584_A6_000_003","But you could partake in libations to delight even the most discerning epicure!"
+132,"TEXT_FESGSC601_04584_LYNGSATH_000_092","Bah! No culinarian worth their salt has the time for that sort o' distraction. I suggest ye try yer luck elsewhere."
+133,"TEXT_FESGSC601_04584_SYSTEM_000_093","Your sales pitch seems to have missed its mark. Perhaps a different approach might be more effective?"
+134,"TEXT_FESGSC601_04584_LYNGSATH_000_094","Ye don't say? Hmm... Me inspiration could do with some refreshin'..."
+135,"TEXT_FESGSC601_04584_LYNGSATH_000_095","Aye, I'll pay this Saucer o' yours a visit...jus' as soon as I know me apprentices won't burn this place down in the meanwhile."
+136,"TEXT_FESGSC601_04584_RHOSWEN_000_100","The 'ells ye want, drylander? State yer business quick, an' ye'd best hope it's worth me while!"
+137,"TEXT_FESGSC601_04584_RHOSWEN_000_101","The Gold <hex:021A020203>bloody<hex:021A020103> Saucer!? Why would any pirate in 'er right mind set foot in that twinklin' hellhole!?"
+138,"TEXT_FESGSC601_04584_Q7_000_000","What will you say?"
+139,"TEXT_FESGSC601_04584_A7_000_001","Haven't you dreamed of winning a fortune in the Cactpot!?"
+140,"TEXT_FESGSC601_04584_A7_000_002","It's the perfect place to bring that special someone!"
+141,"TEXT_FESGSC601_04584_A7_000_003","Don't you want to feast your eyes on the realm's most gorgeous garb!?"
+142,"TEXT_FESGSC601_04584_RHOSWEN_000_102","Let me tell ye plain: no! I don't bloody care. Now get out afore I gut ye an' send ye to sleep with the fishes."
+143,"TEXT_FESGSC601_04584_SYSTEM_000_103","Your sales pitch seems to have missed its mark. Perhaps a different approach might be more effective?"
+144,"TEXT_FESGSC601_04584_RHOSWEN_000_104","<hex:021A020203>Special someone<hex:021A020103>? An' just who in the hells would that be!?"
+145,"TEXT_FESGSC601_04584_Q8_000_000","What will you say?"
+146,"TEXT_FESGSC601_04584_A8_000_001","Perhaps your crew could use a respite?"
+147,"TEXT_FESGSC601_04584_A8_000_002","A certain pirate captain might appreciate the gesture."
+148,"TEXT_FESGSC601_04584_RHOSWEN_000_105","Me <hex:021A020203>crew<hex:021A020103>!? That's yer big idea? Then again...me girls what've retired from active duty could always use a break from tendin' to their little ones. I'd wager an excursion would do 'em well."
+149,"TEXT_FESGSC601_04584_RHOSWEN_000_106","<hex:021A020203>Who<hex:021A020103> now!?"
+150,"TEXT_FESGSC601_04584_RHOSWEN_000_107","If yer implyin' what I think ye are, I'd sooner keelhaul meself than spend one instant with than lyin' whoreson! Aye, ye'd not catch me dead goin' to yer stinkin' Gold Saucer with─bah! Just bugger off, already!"
+151,"TEXT_FESGSC601_04584_WAWALAGO_000_110","Here 'chovy, 'chov─ye gods! You're no 'chovy."
+152,"TEXT_FESGSC601_04584_WAWALAGO_100_110","Nay─from crayfish to catfish, goby to gudgeon, I've seen my share of sea creatures...but there's not a puffer in these parts so pointy as you."
+153,"TEXT_FESGSC601_04584_Q9_000_000","What will you say?"
+154,"TEXT_FESGSC601_04584_A9_000_001","If it is spectacular spines you seek, none are senior to Senor Sabotender!"
+155,"TEXT_FESGSC601_04584_A9_000_002","And he makes a <hex:021A020203>marvelous<hex:021A020103> Manderville mascot!"
+156,"TEXT_FESGSC601_04584_WAWALAGO_000_111","You're one suave sabotender, certainly. So much so, I suspect you sailed in from the Gold Saucer..."
+157,"TEXT_FESGSC601_04584_WAWALAGO_100_111","But I'm sorry to say that salt-of-the-sea types like yours truly aren't suited to sordid gil-seeking. Simpler pleasures are my preference."
+158,"TEXT_FESGSC601_04584_Q10_000_000","What will you say?"
+159,"TEXT_FESGSC601_04584_A10_000_001","But you could partake in libations to delight even the most discerning epicure!"
+160,"TEXT_FESGSC601_04584_A10_000_002","But haven't you dreamed of winning a fortune in the Cactpot!?"
+161,"TEXT_FESGSC601_04584_A10_000_003","But don't you want to feast your eyes on the realm's most gorgeous garb!?"
+162,"TEXT_FESGSC601_04584_WAWALAGO_000_112","Can't say I care much for such flights of fancy, <hex:02080EE905FF05>lass<hex:FF04>lad<hex:03>. If you're looking for someone to bite that bait, you'd be better off speaking with Sisipu."
+163,"TEXT_FESGSC601_04584_SYSTEM_000_113","Your sales pitch seems to have missed its mark. Perhaps a different approach might be more effective?"
+164,"TEXT_FESGSC601_04584_WAWALAGO_000_114","What's this you say? Can I assume that this gorgeous garb adorns the figures of lasses both buxom and bonny?"
+165,"TEXT_FESGSC601_04584_WAWALAGO_000_115","Well, why didn't you say so sooner!? I'll net the next airship to this Saucer of yours. Still, we should keep this between you, me, and the sabotender─let Sisipu assume I'm off on an extended angling excursion."
+166,"TEXT_FESGSC601_04584_KYOKYOROON_000_120","Kyokyoroon welcomes well-come customer! Customer, be welcome!"
+167,"TEXT_FESGSC601_04584_KYOKYOROON_100_120","Not customer? Not come with custom?"
+168,"TEXT_FESGSC601_04584_KYOKYOROON_000_121","Sparklies? Kyokyoroon love sparklies! Kyokyoroon can find sparklies at this Gold Saucer?"
+169,"TEXT_FESGSC601_04584_Q11_000_000","What will you say?"
+170,"TEXT_FESGSC601_04584_A11_000_001","You could learn how to dazzle and delight your customers!"
+171,"TEXT_FESGSC601_04584_A11_000_002","You could hit the Cactpot and become a gillionaire!"
+172,"TEXT_FESGSC601_04584_A11_000_003","You could drink the tastiest libations in the realm!"
+173,"TEXT_FESGSC601_04584_KYOKYOROON_000_122","Kyokyoroon puzzled by puzzling customer. Kyokyoroon not so interested now... Kyokyoroon busy with business. Too busy for bafflement."
+174,"TEXT_FESGSC601_04584_SYSTEM_000_123","Your sales pitch seems to have missed its mark. Perhaps a different approach might be more effective?"
+175,"TEXT_FESGSC601_04584_KYOKYOROON_000_124","Sparklies! Lots of sparklies! Kyokyoroon love sparklies more than customer. Kyokyoroon go to Gold Saucer straightway. Come back with many sparklies!"
+176,"TEXT_FESGSC601_04584_SYSTEM_000_125","You have done your best to spread word of the Gold Saucer among the residents of Limsa. All that is left is to reconvene with the staff by the Aftcastle and hope that your efforts bear fruit."
+177,"TEXT_FESGSC601_04584_LYNGSATH_000_127","Aye, I reckon a fancy new cocktail or two might be a fittin' addition to the Bismarck's menu! I'll be makin' the trip to the Gold Saucer soon as I'm able."
+178,"TEXT_FESGSC601_04584_RHOSWEN_000_128","Hmph. I suppose this Saucer place <hex:021A020203>might<hex:021A020103> make for an amusin' jaunt sometime..."
+179,"TEXT_FESGSC601_04584_WAWALAGO_000_129","I'm off to the Gold Saucer to see the sights! If Sisipu mentions me, mum's the word."
+180,"TEXT_FESGSC601_04584_KYOKYOROON_000_130","Kyokyoroon love sparklies! Saucer has many sparklies? Kyokyoroon go look for sparklies at Saucer straightaway!"
+181,"TEXT_FESGSC601_04584_SYSTEM_100_130","You cannot help but feel that the crowd is sparser than it was just before."
+182,"TEXT_FESGSC601_04584_OLLIER_000_130","Senor Sabotender! There you are!"
+183,"TEXT_FESGSC601_04584_OLLIER_000_131","I have urgent orders from our superiors. All staff are to conclude their missions and make preparations to return to the Saucer posthaste!"
+184,"TEXT_FESGSC601_04584_SYSTEM_000_132","You can feel Senor Sabotender's piercing gaze upon you. It would seem that he strongly wishes you to return to the Saucer with him."
+185,"TEXT_FESGSC601_04584_OLLIER_000_133","I take it you'll be coming back as well? If so, pray come to the landing as soon as you're able."
+186,"TEXT_FESGSC601_04584_SYSTEM_100_133","In order to continue this quest, you must first complete the quest “It Could Happen to You,” which can be undertaken at level 15."
+187,"TEXT_FESGSC601_04584_SYSTEM_000_134","Senor Sabotender says nothing, but gazes earnestly in your eyes. You get the distinct sense he is counting on your aid."
+188,"TEXT_FESGSC601_04584_LYNGSATH_000_140","So, where can a man get 'imself one o' those drinks that they're sayin' are the talk o' the realm?"
+189,"TEXT_FESGSC601_04584_STAFFA04584_000_141","Ah! Clearly, you are an individual of discerning tastes. Right this way, my good sir..."
+190,"TEXT_FESGSC601_04584_OLLIER_000_142","As you can see, business is booming. I'm pleased to say that we've even welcomed quite a few new guests from Limsa Lominsa."
+191,"TEXT_FESGSC601_04584_OLLIER_000_143","Clearly, the efforts of my colleagues have paid off in more ways than one─and they could not have done it without you. Master Roland will doubtless be thrilled."
+192,"TEXT_FESGSC601_04584_OLLIER_000_144","Would that we could continue our promotion efforts afield for a while longer... But I fear that we need every able-bodied attendant here at home to deal with the ever-burgeoning crowds."
+193,"TEXT_FESGSC601_04584_OLLIER_000_145","That's your cue, Senor Sabotender! Let's give our guests a warm welcome─Gold Saucer-style!"
+194,"TEXT_FESGSC601_04584_OLLIER_000_146","In any event, I thank you. Not only have you helped us to expand our clientele, but─as you can see with your own eyes─Senor Sabotender is back to his typical energetic self."
+195,"TEXT_FESGSC601_04584_OLLIER_000_147","As his colleague and his friend, I cannot begin to express my gratitude."
+196,"TEXT_FESGSC601_04584_OLLIER_000_148","I can, however, offer you this as a small token of our thanks. Till our paths cross again, may fortune smile upon you at the Saucer!"

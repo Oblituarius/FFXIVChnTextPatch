@@ -2,155 +2,155 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_KINGMA113_04872_SEQ_00,瓦丘恩佩洛入口的烏克·拉瑪特想要打聽選王之人的情報。
-1,TEXT_KINGMA113_04872_SEQ_01,
-2,TEXT_KINGMA113_04872_SEQ_02,
-3,TEXT_KINGMA113_04872_SEQ_03,
-4,TEXT_KINGMA113_04872_SEQ_04,
-5,TEXT_KINGMA113_04872_SEQ_05,
-6,TEXT_KINGMA113_04872_SEQ_06,
-7,TEXT_KINGMA113_04872_SEQ_07,
-8,TEXT_KINGMA113_04872_SEQ_08,
-9,TEXT_KINGMA113_04872_SEQ_09,
-10,TEXT_KINGMA113_04872_SEQ_10,
-11,TEXT_KINGMA113_04872_SEQ_11,
-12,TEXT_KINGMA113_04872_SEQ_12,
-13,TEXT_KINGMA113_04872_SEQ_13,
-14,TEXT_KINGMA113_04872_SEQ_14,
-15,TEXT_KINGMA113_04872_SEQ_15,
-16,TEXT_KINGMA113_04872_SEQ_16,
-17,TEXT_KINGMA113_04872_SEQ_17,
-18,TEXT_KINGMA113_04872_SEQ_18,
-19,TEXT_KINGMA113_04872_SEQ_19,
-20,TEXT_KINGMA113_04872_SEQ_20,
-21,TEXT_KINGMA113_04872_SEQ_21,
-22,TEXT_KINGMA113_04872_SEQ_22,
-23,TEXT_KINGMA113_04872_SEQ_23,
-24,TEXT_KINGMA113_04872_TODO_00,在瓦丘恩佩洛收集情報
-25,TEXT_KINGMA113_04872_TODO_01,和烏克·拉瑪特對話
-26,TEXT_KINGMA113_04872_TODO_02,再次和烏克·拉瑪特對話
-27,TEXT_KINGMA113_04872_TODO_03,和朋友牧場的佩魯佩魯族對話
-28,TEXT_KINGMA113_04872_TODO_04,在<hex:02280CFF05>EObj<hex:F61EB9C40103>等待
-29,TEXT_KINGMA113_04872_TODO_05,和烏克·拉瑪特對話
-30,TEXT_KINGMA113_04872_TODO_06,
-31,TEXT_KINGMA113_04872_TODO_07,
-32,TEXT_KINGMA113_04872_TODO_08,
-33,TEXT_KINGMA113_04872_TODO_09,
-34,TEXT_KINGMA113_04872_TODO_10,
-35,TEXT_KINGMA113_04872_TODO_11,
-36,TEXT_KINGMA113_04872_TODO_12,
-37,TEXT_KINGMA113_04872_TODO_13,
-38,TEXT_KINGMA113_04872_TODO_14,
-39,TEXT_KINGMA113_04872_TODO_15,
-40,TEXT_KINGMA113_04872_TODO_16,
-41,TEXT_KINGMA113_04872_TODO_17,
-42,TEXT_KINGMA113_04872_TODO_18,
-43,TEXT_KINGMA113_04872_TODO_19,
-44,TEXT_KINGMA113_04872_TODO_20,
-45,TEXT_KINGMA113_04872_TODO_21,
-46,TEXT_KINGMA113_04872_TODO_22,
-47,TEXT_KINGMA113_04872_TODO_23,
-48,TEXT_KINGMA113_04872_ERENVILLE_000_001,就那麼一會的工夫沒看緊她，她就差點又出岔子，<hex:02100103>真是不讓人省心啊。
-49,TEXT_KINGMA113_04872_KRILE_000_005,烏克·拉瑪特真是幸運，能有埃倫維爾這麼一位青梅竹馬在身邊。<hex:02100103>在我看來，每個人都需要一位必要時直言不諱，敢於批評自己的朋友，<hex:02100103>王族更是如此。
-50,TEXT_KINGMA113_04872_ALPHINAUD_000_010,看來佩魯佩魯族也喝咖啡啊。
-51,TEXT_KINGMA113_04872_ALISAIE_000_015,這些房子和建築都很小巧呢，<hex:02100103>是按照佩魯佩魯族的體形建造的吧。
-52,TEXT_KINGMA113_04872_WUKLAMAT_000_020,嗚……讓你們看到我丟人的一面了。<hex:02100103>算了，就不要在意我的事情了，我們來這裡是為了尋找選王之人的！<hex:02100103>趕快去向瓦丘恩佩洛的人們打聽打聽吧！
-53,TEXT_KINGMA113_04872_ALPHINAUD_000_021,那我們分頭去打聽情報吧。<hex:02100103>我和可露兒還有阿莉塞去找商人問問，<hex:02100103>烏克·拉瑪特和埃倫維爾去找過往的行人打聽打聽。
-54,TEXT_KINGMA113_04872_ALPHINAUD_000_022,<hex:022903EB0203>去調查一下商店以外的地方吧。<hex:02100103>如果有什麼發現，就跟烏克·拉瑪特說一聲。
-55,TEXT_KINGMA113_04872_PELUPELUCRAFTSMAN04872_000_030,選王之人嗎？
-56,TEXT_KINGMA113_04872_PELUPELUCRAFTSMAN04872_000_031,怪不得我沒見過你，<hex:02100103>原來是為了繼位儀式而來的。<hex:02100103>我不在乎誰來繼承王位，只希望現在的和平能夠持續下去。
-57,TEXT_KINGMA113_04872_PELUPELUCRAFTSMAN04872_000_032,要是發生了戰爭，<hex:02100103>人們就沒有興致品嘗我們美味的梅斯卡酒了！
-58,TEXT_KINGMA113_04872_PELUPELUCRAFTSMAN04872_000_033,來來來，你也來一杯如何？<hex:02100103>我們來一起分享這份幸福吧。
-59,TEXT_KINGMA113_04872_PELUPELUCRAFTSMAN04872_000_034,哦，原來你在尋找那個選王之人啊。
-60,TEXT_KINGMA113_04872_PELUPELUCRAFTSMAN04872_000_035,雖然我的確聽說了繼位儀式的事情，<hex:02100103>但我剛經商歸來，不太清楚具體的細節。<hex:02100103>你可以去問問族長托布利，他應該知道些什麼……
-61,TEXT_KINGMA113_04872_MABLU_000_036,你好！我是在這裡工作的瑪布露！<hex:02100103>你有什麼問題嗎？
-62,TEXT_KINGMA113_04872_MABLU_000_037,選王之人啊……<hex:02100103>抱歉，我沒聽說過。<hex:02100103>比起這個，你來看看我家引以為傲的羊駝吧！
-63,TEXT_KINGMA113_04872_MABLU_000_038,啊，我家的羊駝只能看不能摸哦！<hex:02100103>它們都挺膽小的，要是冒然靠近的話就會被吐一身口水！
-64,TEXT_KINGMA113_04872_MABLU_000_039,前陣子，我有一位做工匠的老主顧就被吐了一身口水！<hex:02100103>害得我被牧場主托布利狠狠地訓斥了一頓。
-65,TEXT_KINGMA113_04872_MABLU_000_040,托布利也真是的，他就好像開了天眼一樣，<hex:02100103>任何失誤都逃不過他的眼睛。
-66,TEXT_KINGMA113_04872_PELUPELUIMPATIENT04872_000_041,選王之人？<hex:02100103>啊，我聽說過繼位儀式的事情！
-67,TEXT_KINGMA113_04872_PELUPELUIMPATIENT04872_000_042,是要決定下一任國王對吧？<hex:02100103>我百分百推崇身為奇蹟之子的佐拉加大人！
-68,TEXT_KINGMA113_04872_PELUPELUIMPATIENT04872_000_043,只要佐拉加大人當上了下一任國王，我們的領土就會擴大。<hex:02100103>領土擴大後，資源也會變多，客人自然而然也會變多。<hex:02100103>我們能將優質的商品賣給更多的新顧客，就會有更多的人得到幸福！
-69,TEXT_KINGMA113_04872_PELUPELUIMPATIENT04872_000_044,贊同這種想法的同胞們日益增多，<hex:02100103>於是我製作了以佐拉加大人為原型的工藝品。<hex:02100103>你有興趣嗎，要不要也買一個？
-70,TEXT_KINGMA113_04872_Q1_000_000,要說什麼？
-71,TEXT_KINGMA113_04872_A1_000_001,請告訴我選王之人的情報！
-72,TEXT_KINGMA113_04872_A1_000_002,不了，我不想要
-73,TEXT_KINGMA113_04872_PELUPELUIMPATIENT04872_000_046,好的好的，我懂，你想問選王之人的事情對吧。<hex:02100103>不過就算我知道，也不能告訴你。<hex:02100103>你看起來不像是佐拉加大人的協助者。
-74,TEXT_KINGMA113_04872_PELUPELUCRAFTSMAN04872_000_050,族長托布利應該比較了解繼位儀式的事情。
-75,TEXT_KINGMA113_04872_MABLU_000_055,好了，該幹活了！<hex:02100103>要是一直偷懶的話，就又要惹牧場主托布利發火了！
-76,TEXT_KINGMA113_04872_PELUPELUIMPATIENT04872_000_060,佐拉加大人以後也會來這裡吧？<hex:02100103>為了能讓他當上國王，我得出一份力才行！
-77,TEXT_KINGMA113_04872_WUKLAMAT_000_070,呼……又差點中了佩魯佩魯族的話術，<hex:02100103>買下梅斯卡酒還有工藝品什麼的。
-78,TEXT_KINGMA113_04872_WUKLAMAT_000_071,繼位儀式好像跟族長托布利有關，<hex:02100103>我了解到的情報只有這些，但他人在哪裡就不清楚了……
-79,TEXT_KINGMA113_04872_WUKLAMAT_000_072,誒？！<hex:02100103>托布利還是一位牧場主啊？
-80,TEXT_KINGMA113_04872_WUKLAMAT_000_073,我記得村落的最裡面有一座羊駝牧場！<hex:02100103>在大家回來之前，我們先去那裡看看吧！
-81,TEXT_KINGMA113_04872_MABLU_000_080,嗯？你又來了啊？
-82,TEXT_KINGMA113_04872_SYSTEM_000_085,這隻羊駝現在警惕性很高，正在直勾勾地盯著冒險者。<hex:02100103>看來還是不要輕易去刺激它比較好……
-83,TEXT_KINGMA113_04872_TOBLI_000_090,為了您和羊駝的安全，請和羊駝保持一定距離，<hex:02100103>謝謝配合，嗯嗯。
-84,TEXT_KINGMA113_04872_PELUPELUPOWERFUL04872_000_095,看樣子，我們的客人到了！
-85,TEXT_KINGMA113_04872_PELUPELUCOOL04872_000_100,繼位儀式嗎……
-86,TEXT_KINGMA113_04872_WUKLAMAT_000_105,哇……這裡的羊駝也太多了吧……<hex:02100103>但族長托布利或許就在這邊……
-87,TEXT_KINGMA113_04872_WUKLAMAT_000_106,事已至此，現在可不是害怕的時候！<hex:02100103>不對，我根本就沒在害怕！
-88,TEXT_KINGMA113_04872_WUKLAMAT_000_107,我說，你知道托布利是哪個嗎？
-89,TEXT_KINGMA113_04872_MABLU_000_108,嗯？托布利？<hex:02100103>他經常會混在牧童當中監視我們幹活！<hex:02100103>但我不能告訴你他是哪個。
-90,TEXT_KINGMA113_04872_WUKLAMAT_000_109,不能告訴我……這也是試煉的一環嗎？
-91,TEXT_KINGMA113_04872_MABLU_000_110,不過，有一點我可以告訴你。<hex:02100103>托布利在說話的時候特別喜歡自己隨聲附和。
-92,TEXT_KINGMA113_04872_MABLU_000_111,他還經不住交易的誘惑，尤其是有利可圖的那種。<hex:02100103>如果你們主動提出交易，他或許就會亮明身份。
-93,TEXT_KINGMA113_04872_WUKLAMAT_000_112,嚯，感覺像在做遊戲一樣。
-94,TEXT_KINGMA113_04872_WUKLAMAT_000_113,太簡單了！<hex:02100103>如果說找到托布利也是試煉的一環，<hex:02100103>那我們就主動發起交易，讓托布利本人自己露出馬腳！
-95,TEXT_KINGMA113_04872_WUKLAMAT_000_114,……不過，要是跟他們挨個交易，<hex:02100103>我的錢包可撐不了多久。<hex:02100103>我們還是先跟他們談談，縮小一下範圍吧。
-96,TEXT_KINGMA113_04872_WUKLAMAT_000_115,說幹就幹！<hex:02100103>跟他們談完以後，再在這裡集合吧！
-97,TEXT_KINGMA113_04872_MABLU_000_120,嗯？我可不是托布利哦？<hex:02100103>啊，壞了壞了，這麼說算是給出提示了。
-98,TEXT_KINGMA113_04872_MABLU_000_121,到底哪一位才是托布利，<hex:02100103>或者說選王之人究竟在不在這個村落……<hex:02100103>你們來猜猜看吧！
-99,TEXT_KINGMA113_04872_TOBLI_000_122,你好，看樣子你是從外國來的客人吧，嗯嗯。
-100,TEXT_KINGMA113_04872_TOBLI_000_123,請你小心一點，突然靠近羊駝的話，<hex:02100103>它們會因受驚向你吐口水的，嗯嗯。<hex:02100103>
-101,TEXT_KINGMA113_04872_PELUPELUPOWERFUL04872_000_124,你問我是不是托布利？<hex:02100103>哈哈哈，這個嘛，你來猜啊……
-102,TEXT_KINGMA113_04872_PELUPELUPOWERFUL04872_000_125,我能說的是，在這個村落裡沒有人比我養過更多的羊駝！
-103,TEXT_KINGMA113_04872_PELUPELUCOOL04872_000_126,我是不是托布利……？
-104,TEXT_KINGMA113_04872_PELUPELUCOOL04872_000_127,哼……我正是……<hex:02100103>不愧是烏克·拉瑪特公主的協助者……直覺挺敏銳的嘛……<hex:02100103>那我們就開始繼位儀式吧……
-105,TEXT_KINGMA113_04872_WUKLAMAT_000_130,哼！<hex:02100103>我很快就能找出托布利！
-106,TEXT_KINGMA113_04872_MABLU_000_135,我可從來沒說過這個村子裡有選王之人！
-107,TEXT_KINGMA113_04872_TOBLI_000_140,速戰速決，我還有工作要做呢。
-108,TEXT_KINGMA113_04872_PELUPELUPOWERFUL04872_000_145,向我展示一下公主殿下的天資吧！
-109,TEXT_KINGMA113_04872_PELUPELUCOOL04872_000_150,怎麼了……不想開始繼位儀式嗎……？
-110,TEXT_KINGMA113_04872_WUKLAMAT_000_160,你那邊也跟他們都談完了吧。
-111,TEXT_KINGMA113_04872_WUKLAMAT_000_161,你覺得哪一位比較可疑？<hex:02100103>我反正有了眉目。
-112,TEXT_KINGMA113_04872_Q2_000_000,你認為哪一位是托布利？
-113,TEXT_KINGMA113_04872_A2_000_001,語速快的佩魯佩魯族
-114,TEXT_KINGMA113_04872_A2_000_002,強壯的佩魯佩魯族
-115,TEXT_KINGMA113_04872_A2_000_003,文靜的佩魯佩魯族
-116,TEXT_KINGMA113_04872_WUKLAMAT_000_163,誒，是語速飛快的那傢伙嗎！<hex:02100103>其實我也認為他就是托布利！<hex:02100103>我們去揭穿他的身份吧！
-117,TEXT_KINGMA113_04872_WUKLAMAT_000_164,我們已經知道你就是托布利了！<hex:02100103>跟我做一筆交易吧！<hex:02100103>我要用錢交換你的身份情報！
-118,TEXT_KINGMA113_04872_TOBLI_000_165,成交，我會亮明我的身份。
-119,TEXT_KINGMA113_04872_TOBLI_000_166,(-托布利-)我的名字叫托布利。<hex:02100103>不但是管理瓦丘恩佩洛的佩魯佩魯族族長，<hex:02100103>也是這座朋友牧場的主人，同時……
-120,TEXT_KINGMA113_04872_TOBLI_000_167,(-托布利-)也是古魯加加陛下任命的選王之人。<hex:02100103>嗯嗯。
-121,TEXT_KINGMA113_04872_WUKLAMAT_000_168,嘿嘿，也就是說我們猜中了！
-122,TEXT_KINGMA113_04872_WUKLAMAT_000_169,我就知道你的直覺肯定準！<hex:02100103>今後也靠你了！
-123,TEXT_KINGMA113_04872_WUKLAMAT_000_170,不過這幾經周轉，我的錢包變輕了不少……
-124,TEXT_KINGMA113_04872_WUKLAMAT_000_171,
-125,TEXT_KINGMA113_04872_TOBLI_000_172,
-126,TEXT_KINGMA113_04872_MABLU_100_172,你被人看穿了呢，托布利！
-127,TEXT_KINGMA113_04872_TOBLI_100_173,(-托布利-)我也很高興她沒有被這種程度的問題難倒，嗯嗯。
-128,TEXT_KINGMA113_04872_WUKLAMAT_000_173,你認為強壯的佩魯佩魯族就是托布利嗎？<hex:02100103>那就試著跟他交易一下吧！
-129,TEXT_KINGMA113_04872_WUKLAMAT_000_174,如果能知道你的身份，我就會變得幸福！<hex:02100103>所以請接受我提出的交易，說明你的身份吧，<hex:02100103>我這裡有錢！
-130,TEXT_KINGMA113_04872_PELUPELUPOWERFUL04872_000_175,哈哈哈！<hex:02100103>好吧，我接受這筆交易！
-131,TEXT_KINGMA113_04872_PELUPELUPOWERFUL04872_000_176,錢我就收下了！<hex:02100103>至於我的身份嘛……
-132,TEXT_KINGMA113_04872_PELUPELUPOWERFUL04872_000_177,我是在這座牧場工作的牧童！<hex:02100103>也就是說，我並不是托布利！
-133,TEXT_KINGMA113_04872_WUKLAMAT_000_178,什麼？！<hex:02100103>竟然不是托布利？！
-134,TEXT_KINGMA113_04872_WUKLAMAT_000_179,喂喂喂！<hex:02100103>那些錢都夠買30個夾餅的了？！
-135,TEXT_KINGMA113_04872_WUKLAMAT_000_180,算了，現在應該集中精神，找到托布利本人！<hex:02100103>你再想想看吧！
-136,TEXT_KINGMA113_04872_WUKLAMAT_000_181,說話很文靜的佩魯佩魯族嗎？<hex:02100103>可我覺得是……算了，既然你都這麼說了，那就聽你的！
-137,TEXT_KINGMA113_04872_WUKLAMAT_000_182,托布利，我想跟你做一筆交易！<hex:02100103>只要你告訴我你的真實身份，我就付錢給你……<hex:02100103>怎麼樣？
-138,TEXT_KINGMA113_04872_PELUPELUCOOL04872_000_183,好吧，成交……
-139,TEXT_KINGMA113_04872_PELUPELUCOOL04872_000_184,真相是……我只是路過的羊駝愛好者……
-140,TEXT_KINGMA113_04872_WUKLAMAT_000_185,哈？！<hex:02100103>你連牧童都不是嗎？！
-141,TEXT_KINGMA113_04872_WUKLAMAT_000_186,可惡，早知如此，我就應該相信自己的直覺的……
-142,TEXT_KINGMA113_04872_WUKLAMAT_000_187,……錢包變癟的心痛只能以後再發洩了，<hex:02100103>現在還是請你好好想一想誰才是托布利吧！
-143,TEXT_KINGMA113_04872_TOBLI_000_190,我作為選王之人，已經向你們明確地傳達了試煉的內容。<hex:02100103>之後就請你們候選人各憑本事了。<hex:02100103>嗯嗯。
-144,TEXT_KINGMA113_04872_MABLU_000_195,佐拉加王子一上來就看穿了托布利的身份，真是厲害。<hex:02100103>不過他總給人一種很可怕的感覺……
-145,TEXT_KINGMA113_04872_ERENVILLE_000_200,我的確說過，只要不去招惹羊駝，它就會一直保持溫順。<hex:02100103>但那也只限於人類飼養的牧場羊駝，<hex:02100103>野生的羊駝自然是另當別論。
-146,TEXT_KINGMA113_04872_KRILE_000_205,他就是選王之人的其中一人嗎。
-147,TEXT_KINGMA113_04872_ALPHINAUD_000_210,能夠讓烏克·拉瑪特發出那般慘叫，<hex:02100103>羊駝的口水應該非常臭吧。<hex:02100103>……我是沒有勇氣去嘗試。
-148,TEXT_KINGMA113_04872_ALISAIE_000_215,可能是同為王子的緣故，<hex:02100103>我從佐拉加王子身上能夠感受到與芝諾斯相似的氣質。<hex:02100103>不過，芝諾斯顯然要更加孤傲一些。
-149,TEXT_KINGMA113_04872_WUKLAMAT_000_220,哈……哈……<hex:02100103>剛才共享完了情報，我就急忙忙地去洗了把臉。<hex:02100103>現在應該沒有味道了吧？
-150,TEXT_KINGMA113_04872_WUKLAMAT_000_221,惡臭毀掉了我的嗅覺，<hex:02100103>我現在已經分辨不出味道了，<hex:02100103>你能聞聞我臉上還臭不臭嗎？
-151,TEXT_KINGMA113_04872_WUKLAMAT_000_222,啊！你這一臉嫌棄的表情是什麼意思？！
+0,"TEXT_KINGMA113_04872_SEQ_00","Wuk Lamat is ready to search out the Dawnservant's elector."
+1,"TEXT_KINGMA113_04872_SEQ_01",""
+2,"TEXT_KINGMA113_04872_SEQ_02",""
+3,"TEXT_KINGMA113_04872_SEQ_03",""
+4,"TEXT_KINGMA113_04872_SEQ_04",""
+5,"TEXT_KINGMA113_04872_SEQ_05",""
+6,"TEXT_KINGMA113_04872_SEQ_06",""
+7,"TEXT_KINGMA113_04872_SEQ_07",""
+8,"TEXT_KINGMA113_04872_SEQ_08",""
+9,"TEXT_KINGMA113_04872_SEQ_09",""
+10,"TEXT_KINGMA113_04872_SEQ_10",""
+11,"TEXT_KINGMA113_04872_SEQ_11",""
+12,"TEXT_KINGMA113_04872_SEQ_12",""
+13,"TEXT_KINGMA113_04872_SEQ_13",""
+14,"TEXT_KINGMA113_04872_SEQ_14",""
+15,"TEXT_KINGMA113_04872_SEQ_15",""
+16,"TEXT_KINGMA113_04872_SEQ_16",""
+17,"TEXT_KINGMA113_04872_SEQ_17",""
+18,"TEXT_KINGMA113_04872_SEQ_18",""
+19,"TEXT_KINGMA113_04872_SEQ_19",""
+20,"TEXT_KINGMA113_04872_SEQ_20",""
+21,"TEXT_KINGMA113_04872_SEQ_21",""
+22,"TEXT_KINGMA113_04872_SEQ_22",""
+23,"TEXT_KINGMA113_04872_SEQ_23",""
+24,"TEXT_KINGMA113_04872_TODO_00","Gather information around Wachunpelo."
+25,"TEXT_KINGMA113_04872_TODO_01","Speak with Wuk Lamat."
+26,"TEXT_KINGMA113_04872_TODO_02","Speak with Wuk Lamat again."
+27,"TEXT_KINGMA113_04872_TODO_03","Speak with the ranch hands."
+28,"TEXT_KINGMA113_04872_TODO_04","Wait for Wuk Lamat at the designated location."
+29,"TEXT_KINGMA113_04872_TODO_05","Speak with Wuk Lamat."
+30,"TEXT_KINGMA113_04872_TODO_06",""
+31,"TEXT_KINGMA113_04872_TODO_07",""
+32,"TEXT_KINGMA113_04872_TODO_08",""
+33,"TEXT_KINGMA113_04872_TODO_09",""
+34,"TEXT_KINGMA113_04872_TODO_10",""
+35,"TEXT_KINGMA113_04872_TODO_11",""
+36,"TEXT_KINGMA113_04872_TODO_12",""
+37,"TEXT_KINGMA113_04872_TODO_13",""
+38,"TEXT_KINGMA113_04872_TODO_14",""
+39,"TEXT_KINGMA113_04872_TODO_15",""
+40,"TEXT_KINGMA113_04872_TODO_16",""
+41,"TEXT_KINGMA113_04872_TODO_17",""
+42,"TEXT_KINGMA113_04872_TODO_18",""
+43,"TEXT_KINGMA113_04872_TODO_19",""
+44,"TEXT_KINGMA113_04872_TODO_20",""
+45,"TEXT_KINGMA113_04872_TODO_21",""
+46,"TEXT_KINGMA113_04872_TODO_22",""
+47,"TEXT_KINGMA113_04872_TODO_23",""
+48,"TEXT_KINGMA113_04872_ERENVILLE_000_001","I swear... I let her out of my sight for one moment..."
+49,"TEXT_KINGMA113_04872_KRILE_000_005","Wuk Lamat is lucky to have Erenville. Everyone─royalty especially─needs a friend unafraid to chide them when the need arises."
+50,"TEXT_KINGMA113_04872_ALPHINAUD_000_010","'Twould seem the Pelupelu are also partial to coffee."
+51,"TEXT_KINGMA113_04872_ALISAIE_000_015","All these houses and buildings made to Pelupelu size...and mine, too, come to think of it."
+52,"TEXT_KINGMA113_04872_WUKLAMAT_000_020","Not my finest moment, I'll admit... But now that we're here, let's do what we came to do: find the elector!"
+53,"TEXT_KINGMA113_04872_ALPHINAUD_000_021","Allow me to propose a strategy, then. Krile, Alisaie, and I will speak with the merchants. Wuk Lamat, you and Erenville might try approaching travelers and passersby."
+54,"TEXT_KINGMA113_04872_ALPHINAUD_000_022","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, pray investigate any of the other establishments which catch your eye. Should we learn aught of use, let us relay it to the Third Promise."
+55,"TEXT_KINGMA113_04872_PELUPELUCRAFTSMAN04872_000_030","The Dawnservant's elector?"
+56,"TEXT_KINGMA113_04872_PELUPELUCRAFTSMAN04872_000_031","Ah, I thought you were a new face in town. Here for the rite of succession, I take it? Me, I don't much care who sits the throne so long as they keep Tural peaceful."
+57,"TEXT_KINGMA113_04872_PELUPELUCRAFTSMAN04872_000_032","People tend not to be in the mood to relax and sip our excellent mezcal once arrows and spears start flying, if you know what I mean!"
+58,"TEXT_KINGMA113_04872_PELUPELUCRAFTSMAN04872_000_033","Speaking of which, would you like a cup? A joy shared is a joy doubled, I say."
+59,"TEXT_KINGMA113_04872_PELUPELUCRAFTSMAN04872_000_034","Oh right, yes, you were asking about that elector business."
+60,"TEXT_KINGMA113_04872_PELUPELUCRAFTSMAN04872_000_035","Being but freshly returned from my trading route, I've heard that there's a contest afoot, but not much else. Our head ledger, Tobli, could probably tell you more about it..."
+61,"TEXT_KINGMA113_04872_MABLU_000_036","Hello there, I'm Mablu! Did you have a question for me?"
+62,"TEXT_KINGMA113_04872_MABLU_000_037","...Sorry, I don't know about any “electors.” You should take a moment to see our prized alpacas before you leave, though!"
+63,"TEXT_KINGMA113_04872_MABLU_000_038","Oh, but be sure to admire them from a respectable distance! Get too close, and our nervous darlings may be tempted to spit on you─and that stuff <hex:021A020203>stinks<hex:021A020103>!"
+64,"TEXT_KINGMA113_04872_MABLU_000_039","It happened to a visiting buyer not so long ago. Tobli─that's the head rancher─was so mad at me for not giving a proper warning."
+65,"TEXT_KINGMA113_04872_MABLU_000_040","No one makes a mistake without Tobli noticing. He knows <hex:021A020203>everything<hex:021A020103> that happens on this ranch."
+66,"TEXT_KINGMA113_04872_PELUPELUIMPATIENT04872_000_041","Electors? Oh yes, I've heard all about the rite of succession!"
+67,"TEXT_KINGMA113_04872_PELUPELUIMPATIENT04872_000_042","They're looking to put a new ruler on the throne, eh? Personally, I'm rooting for Zoraal Ja."
+68,"TEXT_KINGMA113_04872_PELUPELUIMPATIENT04872_000_043","If the First Promise wins, he'll look to expand our sphere of influence. That means access to more resources and more customers─in the thousands column, potentially! So many new trading opportunities to spread happiness far and wide!"
+69,"TEXT_KINGMA113_04872_PELUPELUIMPATIENT04872_000_044","Others have been coming around to my way of thinking, so I've begun crafting goods inspired by the Resilient Son. Would you care to purchase something?"
+70,"TEXT_KINGMA113_04872_Q1_000_000","What will you say?"
+71,"TEXT_KINGMA113_04872_A1_000_001","Please, just answer my question!"
+72,"TEXT_KINGMA113_04872_A1_000_002","No. No, I would not."
+73,"TEXT_KINGMA113_04872_PELUPELUIMPATIENT04872_000_046","Very well. You said you wanted to know about the elector? I <hex:021A020203>could<hex:021A020103> help you...but I won't. I can tell you're no supporter of Zoraal Ja or his policies."
+74,"TEXT_KINGMA113_04872_PELUPELUCRAFTSMAN04872_000_050","Speak to Tobli, our head ledger. He'll have the answers you seek."
+75,"TEXT_KINGMA113_04872_MABLU_000_055","Well, it's back to work for me! I'll catch a scolding if Tobli finds me standing idle!"
+76,"TEXT_KINGMA113_04872_PELUPELUIMPATIENT04872_000_060","The First Promise will come here too, won't he? I'll have to give him a nudge in the right direction."
+77,"TEXT_KINGMA113_04872_WUKLAMAT_000_070","You really have to watch yourself around these silver-tongued peddlers. I almost bought a bottle of mezcal. And a stack of blankets. And then there was this enchanting ornament..."
+78,"TEXT_KINGMA113_04872_WUKLAMAT_000_071","Anyway, I did manage to learn that Tobli is the man to talk to about the contest. Now if only they'd share where this “head ledger” of theirs is to be found."
+79,"TEXT_KINGMA113_04872_WUKLAMAT_000_072","Really!? He's also the head rancher?"
+80,"TEXT_KINGMA113_04872_WUKLAMAT_000_073","Well, the alpaca ranch is not far from here. I say we pay it a visit before the others return."
+81,"TEXT_KINGMA113_04872_MABLU_000_080","Back already?"
+82,"TEXT_KINGMA113_04872_SYSTEM_000_085","The beast regards you with wary eyes and a twitching jaw. Backing away slowly may be the wisest course of action..."
+83,"TEXT_KINGMA113_04872_TOBLI_000_090","Keep a respectful distance from the alpacas, if you please. For your sake and for theirs."
+84,"TEXT_KINGMA113_04872_PELUPELUPOWERFUL04872_000_095","Our guests have arrived, I see!"
+85,"TEXT_KINGMA113_04872_PELUPELUCOOL04872_000_100","So, the rite of succession has begun..."
+86,"TEXT_KINGMA113_04872_WUKLAMAT_000_105","<shiver> That is a <hex:021A020203>lot<hex:021A020103> of alpacas. Still, we know the head ledger could be here somewhere..."
+87,"TEXT_KINGMA113_04872_WUKLAMAT_000_106","I can't let fear deter me. N-Not to say that I'm scared, of course!"
+88,"TEXT_KINGMA113_04872_WUKLAMAT_000_107","Excuse me, is one of these workers Tobli?"
+89,"TEXT_KINGMA113_04872_MABLU_000_108","Tobli? Oh yes, he likes to mingle with the ranch hands and keep an eye on things. I can't tell you which one he is, though."
+90,"TEXT_KINGMA113_04872_WUKLAMAT_000_109","You...can't? Is this part of the contest?"
+91,"TEXT_KINGMA113_04872_MABLU_000_110","All I can say is that Tobli often mentions his favorite pungent subject."
+92,"TEXT_KINGMA113_04872_MABLU_000_111","He also can't resist a profitable trade─though who among us could, am I right? Still, if you bring him a <hex:021A020203>very<hex:021A020103> good deal, he might let his identity slip."
+93,"TEXT_KINGMA113_04872_WUKLAMAT_000_112","Heh, so it's like a game."
+94,"TEXT_KINGMA113_04872_WUKLAMAT_000_113","Easy enough. All I have to do is offer Tobli a deal he can't ignore! No problem at all!"
+95,"TEXT_KINGMA113_04872_WUKLAMAT_000_114","...Well, maybe one problem. I don't think my purse is deep enough to pay everyone we think <hex:021A020203>might<hex:021A020103> be Tobli. Let's ask some questions first to narrow down the field."
+96,"TEXT_KINGMA113_04872_WUKLAMAT_000_115","Great! We can meet back here to share our impressions!"
+97,"TEXT_KINGMA113_04872_MABLU_000_120","Hm...? Well, obviously I'm not Tobli! I-I mean...oops. I shouldn't have said that."
+98,"TEXT_KINGMA113_04872_MABLU_000_121","You're meant to find out for yourself who Tobli is, or if an elector is even in the village at all. Good luck!"
+99,"TEXT_KINGMA113_04872_TOBLI_000_122","Ah, a visitor from across the salt, if I'm not mistaken."
+100,"TEXT_KINGMA113_04872_TOBLI_000_123","Be warned: the alpacas will spit if you startle them. I suggest you keep your movements slow and deliberate."
+101,"TEXT_KINGMA113_04872_PELUPELUPOWERFUL04872_000_124","You think I might be Tobli? Hahaha, well maybe I am!"
+102,"TEXT_KINGMA113_04872_PELUPELUPOWERFUL04872_000_125","All I will say is that, in this village, none have reared more alpacas than I!"
+103,"TEXT_KINGMA113_04872_PELUPELUCOOL04872_000_126","Am I Tobli...?"
+104,"TEXT_KINGMA113_04872_PELUPELUCOOL04872_000_127","Yes...yes, that's me. Excellent work from the Third Promise and her entourage. Sharp instincts. Shall we commence the rite of succession, then...?"
+105,"TEXT_KINGMA113_04872_WUKLAMAT_000_130","I'll sniff out the head ledger in a heartbeat! You'll see!"
+106,"TEXT_KINGMA113_04872_MABLU_000_135","Remember: I never actually said there was an elector in Wachunpelo!"
+107,"TEXT_KINGMA113_04872_TOBLI_000_140","Hurry along. I've coats to brush and smelly spit to mop up."
+108,"TEXT_KINGMA113_04872_PELUPELUPOWERFUL04872_000_145","The Third Promise must demonstrate her worth!"
+109,"TEXT_KINGMA113_04872_PELUPELUCOOL04872_000_150","Well...? Are you not ready to begin the contest...?"
+110,"TEXT_KINGMA113_04872_WUKLAMAT_000_160","I see we're both done with our interrogations."
+111,"TEXT_KINGMA113_04872_WUKLAMAT_000_161","So, who do you think it is? I have my suspicions, but let's hear your pick."
+112,"TEXT_KINGMA113_04872_Q2_000_000","Who do you think Tobli is?"
+113,"TEXT_KINGMA113_04872_A2_000_001","The diligent ranch hand."
+114,"TEXT_KINGMA113_04872_A2_000_002","The boastful ranch hand."
+115,"TEXT_KINGMA113_04872_A2_000_003","The nonchalant ranch hand."
+116,"TEXT_KINGMA113_04872_WUKLAMAT_000_163","Ah, the worker so intent on stable chores. I had my eye on that one, too! Time to rip the mask off our mystery ranch hand...so to speak."
+117,"TEXT_KINGMA113_04872_WUKLAMAT_000_164","We know it's you, Tobli! And to prove it, I propose a deal: a generous sum of coin for confirmation of your true identity!"
+118,"TEXT_KINGMA113_04872_TOBLI_000_165","An offer I gladly accept."
+119,"TEXT_KINGMA113_04872_TOBLI_000_166","(-Tobli-)As you have correctly guessed, I am indeed Tobli. Head ledger of Wachunpelo, and head rancher of the Family Ranch."
+120,"TEXT_KINGMA113_04872_TOBLI_000_167","(-Tobli-)I am also one of Gulool Ja Ja's chosen electors."
+121,"TEXT_KINGMA113_04872_WUKLAMAT_000_168","Aha! In a place featured in the Tuliyollal Saga, just as we thought!"
+122,"TEXT_KINGMA113_04872_WUKLAMAT_000_169","I was right to trust in your instincts. And I wager this won't be the last time!"
+123,"TEXT_KINGMA113_04872_WUKLAMAT_000_170","...Though it took more coin than I would've liked to know for certain."
+124,"TEXT_KINGMA113_04872_WUKLAMAT_000_171",""
+125,"TEXT_KINGMA113_04872_TOBLI_000_172",""
+126,"TEXT_KINGMA113_04872_MABLU_100_172","She found you out fair and square, Tobli!"
+127,"TEXT_KINGMA113_04872_TOBLI_100_173","(-Tobli-)And I'm glad she did─would've been a pity had her bid ended here."
+128,"TEXT_KINGMA113_04872_WUKLAMAT_000_173","That loud, boastful fellow? I suppose he could be Tobli. Only one way to find out!"
+129,"TEXT_KINGMA113_04872_WUKLAMAT_000_174","Nothing would make me happier than knowing your identity. So how about we make a deal and you tell me the truth. I have money!"
+130,"TEXT_KINGMA113_04872_PELUPELUPOWERFUL04872_000_175","Hahaha, then I agree to your trade."
+131,"TEXT_KINGMA113_04872_PELUPELUPOWERFUL04872_000_176","Done and done! As for my part of the bargain..."
+132,"TEXT_KINGMA113_04872_PELUPELUPOWERFUL04872_000_177","I am not Tobli. Not the head ledger, and not the head rancher; just a humble ranch hand!"
+133,"TEXT_KINGMA113_04872_WUKLAMAT_000_178","You're not him!?"
+134,"TEXT_KINGMA113_04872_WUKLAMAT_000_179","Dammit, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, I trusted you! That coin could've bought me three hundred gourmet tacos!"
+135,"TEXT_KINGMA113_04872_WUKLAMAT_000_180","...No, I can't let this taco tragedy distract me from what matters most. We need to determine which one is Tobli!"
+136,"TEXT_KINGMA113_04872_WUKLAMAT_000_181","Hm, he seemed...unconvincing to me. But if that's your choice, then that's who we'll talk to!"
+137,"TEXT_KINGMA113_04872_WUKLAMAT_000_182","Tobli! I offer you a deal: the truth of who you are in exchange for a tidy sum. What do you say?"
+138,"TEXT_KINGMA113_04872_PELUPELUCOOL04872_000_183","I say hand over the coin..."
+139,"TEXT_KINGMA113_04872_PELUPELUCOOL04872_000_184","The truth is... I'm not even a ranch hand. I just like to come by and watch the alpacas."
+140,"TEXT_KINGMA113_04872_WUKLAMAT_000_185","What!? You don't even work here!?"
+141,"TEXT_KINGMA113_04872_WUKLAMAT_000_186","I <hex:021A020203>knew<hex:021A020103> I should've gone with my gut on this one!"
+142,"TEXT_KINGMA113_04872_WUKLAMAT_000_187","...But now's not the time to mourn wasted coin. We need to regroup and rethink this!"
+143,"TEXT_KINGMA113_04872_TOBLI_000_190","I've done my duty and assigned the claimants their feat. The rest is up to them."
+144,"TEXT_KINGMA113_04872_MABLU_000_195","I was impressed with how easily Zoraal Ja found Tobli, but...also sort of frightened."
+145,"TEXT_KINGMA113_04872_ERENVILLE_000_200","I did say remaining calm was key, but the same rules don't apply to wild alpacas."
+146,"TEXT_KINGMA113_04872_KRILE_000_205","So this is our sought-after elector."
+147,"TEXT_KINGMA113_04872_ALPHINAUD_000_210","Judging by the volume of Wuk Lamat's scream, alpaca expectoration must have a nasty odor, indeed. I'm content to remain ignorant of the smell."
+148,"TEXT_KINGMA113_04872_ALISAIE_000_215","Zoraal Ja puts me in mind of Garlemald's own exalted son. Of the two, though, Zenos was undeniably more arrogant."
+149,"TEXT_KINGMA113_04872_WUKLAMAT_000_220","<pant> <pant> I had to go and wash that nasty stuff off my face. I think I got all of it..."
+150,"TEXT_KINGMA113_04872_WUKLAMAT_000_221","But would you mind taking a sniff for me, just to make sure? The stench has ruined my sense of smell."
+151,"TEXT_KINGMA113_04872_WUKLAMAT_000_222","Hey! I saw that look!"

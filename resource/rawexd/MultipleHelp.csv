@@ -1,11 +1,11 @@
-﻿key,1,2
-#,,
-offset,0,4
-int32,str,str
-0,,
-1,,
-2,大型任務搜尋器說明,
-3,任務搜尋器說明,
-4,特殊迷宮探索器說明,
-5,隊員介紹說明,
-6,快捷面板說明,
+﻿key,0,1,2
+#,,,
+offset,8,0,4
+int32,uint16,str,str
+0,0,"",""
+1,0,"",""
+2,2,"Raid Finder Help",""
+3,3,"Duty Finder Help",""
+4,4,"V&C Dungeon Finder Help",""
+5,5,"Party Member Portraits Help",""
+6,6,"Command Panel Help",""

@@ -2,161 +2,161 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_FESXMS101_02224_SEQ_00,※本任務是特定期間內的任務。<hex:02100103><hex:02100103>利姆薩·羅敏薩的可莉茲非常困擾。
-1,TEXT_FESXMS101_02224_SEQ_01,※本任務只有在季節活動開放期間才能接受和進行。<hex:02100103>　季節活動結束後無法進行，敬請注意。<hex:02100103>　詳情請參見官方網站。<hex:02100103><hex:02100103>可莉茲委託冒險者說服星芒節執行委員的代表接受採訪。前往利姆薩·羅敏薩的艦尾樓，和貝恩費爾德談談。
-2,TEXT_FESXMS101_02224_SEQ_02,和貝恩費爾德進行了交談。準備在星芒節活動上使用的鐘怎麼都不響，令他煩惱異常。為了幫忙修理，前往烏爾達哈，和紅玉大路國際市場附近的艾爾維談談。
-3,TEXT_FESXMS101_02224_SEQ_03,和艾爾維進行了交談。他表示需要有<hex:02280BFF05>Item<hex:F2359E0103>才能夠讓鐘響起來。籌備<hex:02280BFF05>Item<hex:F2359E0103>，交給紅玉大路國際市場的艾爾維。<hex:02100103><hex:02100103>※<hex:02280BFF05>Item<hex:F2359E0103>可以由鍛鐵匠製作，也可以通過市場布告板購買。
-4,TEXT_FESXMS101_02224_SEQ_04,將<hex:02280BFF05>Item<hex:F2359E0103>交給了艾爾維。雖然鐘是響了，但奏出的曲子卻乏善可陳。為了奏出能讓孩子們綻放笑容的曲子，將<hex:022811FF0A>EventItem<hex:F61E8C0C0103>交給格里達尼亞米·凱特露天劇場附近的卡埃諾。
-5,TEXT_FESXMS101_02224_SEQ_05,將<hex:022811FF0A>EventItem<hex:F61E8C0C0103>交給了卡埃諾。在他和路過的星神聖人的努力下，曲子成功創作了出來。盡快將<hex:022811FF0A>EventItem<hex:F61E8C0D0103>交給利姆薩·羅敏薩東國際商販路的貝恩費爾德。
-6,TEXT_FESXMS101_02224_SEQ_06,將<hex:022811FF0A>EventItem<hex:F61E8C0D0103>交給了貝恩費爾德，這次他又跟鐘上的裝飾較上了勁。路過的聖人追隨者們表示願意提供幫助。正在為裝飾做準備的艾爾維那裡也許也出現了同樣的情況。在利姆薩·羅敏薩尋找艾爾維。
-7,TEXT_FESXMS101_02224_SEQ_07,找到了艾爾維。他的身邊同樣出現了聖人的追隨者，看來聖人追隨者們是打算對鐘進行裝飾。調查艦尾樓的<hex:02280CFF05>EObj<hex:F61E9EDE0103>。
-8,TEXT_FESXMS101_02224_SEQ_08,鐘已被聖人的追隨者們裝飾得星光燦爛。它演奏著精心譜寫的樂曲，讓孩子們的臉上綻放出笑容。和艦尾樓的貝恩費爾德談談。
-9,TEXT_FESXMS101_02224_SEQ_09,和貝恩費爾德進行了交談。在星神聖人和眾多聖人追隨者的幫助下，孩子們個個都樂開了花。«海港新聞»的記者可莉茲也順利採訪到了貝恩費爾德。這個節日讓人們體會到了在時間的長河中保護不斷變化的文化有多麼重要與艱辛。鐘聲帶著人們的思念與笑容蕩向遠方，星芒節也還在繼續。繼續享受星芒節的節日氣氛！
-10,TEXT_FESXMS101_02224_SEQ_10,
-11,TEXT_FESXMS101_02224_SEQ_11,
-12,TEXT_FESXMS101_02224_SEQ_12,
-13,TEXT_FESXMS101_02224_SEQ_13,
-14,TEXT_FESXMS101_02224_SEQ_14,
-15,TEXT_FESXMS101_02224_SEQ_15,
-16,TEXT_FESXMS101_02224_SEQ_16,
-17,TEXT_FESXMS101_02224_SEQ_17,
-18,TEXT_FESXMS101_02224_SEQ_18,
-19,TEXT_FESXMS101_02224_SEQ_19,
-20,TEXT_FESXMS101_02224_SEQ_20,
-21,TEXT_FESXMS101_02224_SEQ_21,
-22,TEXT_FESXMS101_02224_SEQ_22,
-23,TEXT_FESXMS101_02224_SEQ_23,
-24,TEXT_FESXMS101_02224_TODO_00,和貝恩費爾德對話
-25,TEXT_FESXMS101_02224_TODO_01,和烏爾達哈的艾爾維對話
-26,TEXT_FESXMS101_02224_TODO_02,籌備<hex:02280BFF05>Item<hex:F2359E0103> 交給艾爾維
-27,TEXT_FESXMS101_02224_TODO_03,將<hex:022811FF0A>EventItem<hex:F61E8C0C0103>交給格里達尼亞的卡埃諾
-28,TEXT_FESXMS101_02224_TODO_04,將<hex:022811FF0A>EventItem<hex:F61E8C0D0103>交給利姆薩·羅敏薩的貝恩費爾德
-29,TEXT_FESXMS101_02224_TODO_05,尋找艾爾維
-30,TEXT_FESXMS101_02224_TODO_06,調查<hex:02280CFF05>EObj<hex:F61E9EDE0103>
-31,TEXT_FESXMS101_02224_TODO_07,和貝恩費爾德對話
-32,TEXT_FESXMS101_02224_TODO_08,
-33,TEXT_FESXMS101_02224_TODO_09,
-34,TEXT_FESXMS101_02224_TODO_10,
-35,TEXT_FESXMS101_02224_TODO_11,
-36,TEXT_FESXMS101_02224_TODO_12,
-37,TEXT_FESXMS101_02224_TODO_13,
-38,TEXT_FESXMS101_02224_TODO_14,
-39,TEXT_FESXMS101_02224_TODO_15,
-40,TEXT_FESXMS101_02224_TODO_16,
-41,TEXT_FESXMS101_02224_TODO_17,
-42,TEXT_FESXMS101_02224_TODO_18,
-43,TEXT_FESXMS101_02224_TODO_19,
-44,TEXT_FESXMS101_02224_TODO_20,
-45,TEXT_FESXMS101_02224_TODO_21,
-46,TEXT_FESXMS101_02224_TODO_22,
-47,TEXT_FESXMS101_02224_TODO_23,
-48,TEXT_FESXMS101_02224_COLLYS_000_000,嗨！我叫可莉茲！<hex:02100103>是利姆薩·羅敏薩資訊雜誌«海港新聞»的記者。<hex:02100103>一年一度的星芒節終於到了！
-49,TEXT_FESXMS101_02224_COLLYS_000_001,根據冒險者公會宣傳部放出的消息，<hex:02100103>好像這次星芒節活動是要讓現已遺失的習俗重新復活！
-50,TEXT_FESXMS101_02224_COLLYS_000_002,我們雜誌也想要專門做一期特輯，但主辦方面好像出了什麼問題……<hex:02100103>採訪他們的執行委員時，也都只給出了一些很模稜兩可的回答。
-51,TEXT_FESXMS101_02224_COLLYS_000_003,你既然是冒險者，那應該在冒險者公會那邊很吃得開吧？<hex:02100103>那你能不能幫我個忙？
-52,TEXT_FESXMS101_02224_COLLYS_000_004,星芒節執行委員的代表是貝恩費爾德先生，<hex:02100103>他現在應該正在艦尾樓進行準備工作。<hex:02100103>希望你能幫我說服他接受我的採訪！
-53,TEXT_FESXMS101_02224_BAENFAELD_000_010,唔，真傷腦筋……<hex:02100103>啊，你是冒險者啊，有什麼事嗎？
-54,TEXT_FESXMS101_02224_BAENFAELD_000_011,原來如此，«海港新聞»的記者呀……<hex:02100103>因為這次活動很別出心裁，<hex:02100103>所以總部確實也交代過要好好接受採訪。
-55,TEXT_FESXMS101_02224_BAENFAELD_000_012,我們很樂意登上資訊雜誌的特輯，<hex:02100103>但現在出了點問題，完全顧不上那些了。<hex:02100103>如果能解決問題的話，倒是什麼都好說……
-56,TEXT_FESXMS101_02224_BAENFAELD_000_013,對了，你能來幫幫我們嗎？<hex:02100103>這樣我們能受益，你也能得到報酬，<hex:02100103>一舉兩得，很不錯吧？
-57,TEXT_FESXMS101_02224_BAENFAELD_000_020,星芒節的起源你已經知道了吧？<hex:02100103>那個從前伊修加德的衛兵們為了幫助在戰爭中失去了父母的孤兒，<hex:02100103>把自己的紅外套給孩子披上，招待他們進營房的故事。
-58,TEXT_FESXMS101_02224_BAENFAELD_000_021,其實這故事裡還有一段佳話。<hex:02100103>據說衛兵們將營房裡叫早用的起床鐘進行了改造，<hex:02100103>在招呼孩子們過來時，會奏響樂曲。
-59,TEXT_FESXMS101_02224_BAENFAELD_000_022,當時冰天雪地中迴響的鐘聲，<hex:02100103>讓寒冬裡的孩子們和周圍的大人們都綻放了笑容。
-60,TEXT_FESXMS101_02224_BAENFAELD_000_023,但隨著星芒節成為固定節日，<hex:02100103>這一習俗也漸漸失傳了……
-61,TEXT_FESXMS101_02224_BAENFAELD_000_024,經歷第七靈災的洗禮，艾歐澤亞重新邁起了腳步。<hex:02100103>但加雷馬帝國和蠻族的威脅卻並沒有消失，<hex:02100103>難民現也還在不斷入境。
-62,TEXT_FESXMS101_02224_BAENFAELD_000_025,大人們整天緊張兮兮的話，同樣也會影響到孩子們。<hex:02100103>你不覺得現在的孩子們臉上都黯淡無光嗎？
-63,TEXT_FESXMS101_02224_BAENFAELD_000_026,因此，我們冒險者公會行動了。
-64,TEXT_FESXMS101_02224_BAENFAELD_100_026,我們要喚醒過去鳴鐘的習俗，<hex:02100103>讓人們伴著溫暖的鐘聲慶祝星芒節，<hex:02100103>盡可能讓更多人綻放笑容！
-65,TEXT_FESXMS101_02224_BAENFAELD_000_027,為此我們得到北方伊修加德神殿騎士團的協助，<hex:02100103>讓他們把一個在倉庫深處找到的鐘送了過來。<hex:02100103>但問題是這鐘怎麼弄都不響……
-66,TEXT_FESXMS101_02224_BAENFAELD_000_028,這次活動我們投入了大量經費，<hex:02100103>而且典禮還邀請了梅爾維布提督作為嘉賓……<hex:02100103>失敗是決不能允許的。
-67,TEXT_FESXMS101_02224_BAENFAELD_000_029,你就看在我們同是冒險者的份上幫幫忙吧。<hex:02100103>只要鐘能響，什麼樣的採訪我都接受。
-68,TEXT_FESXMS101_02224_BAENFAELD_100_029,冒險者公會總部派了個名叫艾爾維的厲害雕金匠來。<hex:02100103>他現在正在烏爾達哈修鐘，你去他那邊看看吧。
-69,TEXT_FESXMS101_02224_HERVEY_000_030,啊，你是？<hex:02100103>原來如此，是貝恩費爾德派來幫忙的呀？<hex:02100103>正好，我剛剛總算找到鐘不響的原因了。
-70,TEXT_FESXMS101_02224_HERVEY_000_031,原來是鐘裡面鐘錘的芯被腐蝕，已經破破爛爛了。<hex:02100103>所以這鐘才怎麼都敲不響……
-71,TEXT_FESXMS101_02224_HERVEY_000_032,現在的問題是，製作鐘錘需要鍛鐵匠的專業知識才行。<hex:02100103>這超出了我這個雕金匠的能力範圍……<hex:02100103>看來只能想辦法找找了。
-72,TEXT_FESXMS101_02224_HERVEY_000_033,你能一起幫忙找找<hex:02280BFF05>Item<hex:F2359E0103>嗎？<hex:02100103>報酬叫貝恩費爾德給你加，<hex:02100103>我也去找熟識的商人問問。
-73,TEXT_FESXMS101_02224_SYSTEM_000_033,<hex:02280BFF05>Item<hex:F2359E0103>可以由鍛鐵匠製作，<hex:02100103>也可以通過市場布告板購買。
-74,TEXT_FESXMS101_02224_BAENFAELD_500_020,冒險者公會總部派了個名叫艾爾維的厲害雕金匠來。<hex:02100103>他現在正在烏爾達哈修鐘，你去他那邊看看吧。
-75,TEXT_FESXMS101_02224_HERVEY_000_040,我認識的商人手裡也都沒有啊……<hex:02100103>得想辦法找到合適的<hex:02280BFF05>Item<hex:F2359E0103>才行。
-76,TEXT_FESXMS101_02224_HERVEY_000_041,哦哦，這不是<hex:02280BFF05>Item<hex:F2359E0103>嗎！<hex:02100103>好厲害，你是怎麼弄到的？！<hex:02100103>總、總之，還是快點裝到鐘裡吧！
-77,TEXT_FESXMS101_02224_HERVEY_000_050,唔……響倒是響了……<hex:02100103>但真的就是這曲子嗎？<hex:02100103>和樂譜上寫的倒是一樣……
-78,TEXT_FESXMS101_02224_JULYAN_000_051,……那個，請問剛才的鐘聲，演奏的究竟是哪裡的曲子？
-79,TEXT_FESXMS101_02224_HERVEY_000_052,啊，聖人的追隨者女士。<hex:02100103>我們為了能在這次星芒節重現過去的佳話，<hex:02100103>從伊修加德借來了從前的樂譜和鐘。
-80,TEXT_FESXMS101_02224_HERVEY_000_053,據說這鐘曾經是部隊營房的起床鐘，<hex:02100103>雖然經過一番修理總算是能敲響了……<hex:02100103>但正如你聽到的那樣，奏出的曲子有些不盡人意。
-81,TEXT_FESXMS101_02224_JULYAN_000_054,我確實聽說了這鐘是本次星芒節的特色……<hex:02100103>不過你究竟是為了什麼非要讓它響起來？
-82,TEXT_FESXMS101_02224_HERVEY_000_055,當然是為了讓星芒節成功。<hex:02100103>這次冒險者公會可是下了血本，<hex:02100103>決不允許失敗。
-83,TEXT_FESXMS101_02224_JULYAN_000_056,……果然如此。<hex:02100103>星芒節究竟是為誰舉辦的節日呢。<hex:02100103>是為了冒險者公會？還是為了孩子們？
-84,TEXT_FESXMS101_02224_HERVEY_000_057,呃……這、這個……
-85,TEXT_FESXMS101_02224_JULYAN_000_058,我也算是一名能工巧匠，能看出來這鐘被修復得很好，<hex:02100103>完美地修復成了原本的「起床鐘」。<hex:02100103>但是，你們的注意力完全集中在這上面，忽視了其他的東西。
-86,TEXT_FESXMS101_02224_JULYAN_000_059,星芒節隨著時代的變遷成為了孩子們的節日。<hex:02100103>那隨著時代的變遷，這鐘是不是也應該從起床鐘畢業，<hex:02100103>變成新的星芒鐘呢。
-87,TEXT_FESXMS101_02224_HERVEY_000_061,確實，我們在不知不覺間沉迷於讓星芒節成功的執念中……<hex:02100103>忘記了最初的目的是要給孩子們帶來歡笑。
-88,TEXT_FESXMS101_02224_HERVEY_000_062,但想要在艾歐澤亞動蕩不安的局勢下，<hex:02100103>喚回孩子們真正笑容的心願是絕不會改變的！<hex:02100103>聖人的追隨者女士，我們究竟該怎麼做才好。
-89,TEXT_FESXMS101_02224_JULYAN_000_063,既然有這份心，就該將其化為行動。<hex:02100103>比如給這曲子施加能讓孩子們展露笑容的魔法。
-90,TEXT_FESXMS101_02224_JULYAN_100_063,冒險者，也請你幫幫他們吧。
-91,TEXT_FESXMS101_02224_JULYAN_101_063,<hex:022903EB0203>，有你在我就放心了。<hex:02100103>請你幫幫他們吧。
-92,TEXT_FESXMS101_02224_HERVEY_000_064,為這個曲子，施加能夠展露笑容的魔法……<hex:02100103>對啊，在不破壞曲子原有基調的基礎上稍作編曲，<hex:02100103>改編成孩子們喜歡的風格！
-93,TEXT_FESXMS101_02224_HERVEY_000_065,對了，我們可以找有名的格里達尼亞管弦樂團幫忙！<hex:02100103>能請你拿著這樂譜和鐘去找樂團的卡埃諾，<hex:02100103>請他幫忙改編成符合星芒節氛圍的曲子嗎？
-94,TEXT_FESXMS101_02224_HERVEY_000_066,我回貝恩費爾德那裡和他商量下能不能盡可能多招來一些孩子。
-95,TEXT_FESXMS101_02224_HERVEY_000_067,一定要聯繫各地的孤兒院，<hex:02100103>邀請他們到利姆薩·羅敏薩聽聽這鐘聲！<hex:02100103>預算什麼的都去見鬼吧！
-96,TEXT_FESXMS101_02224_BAENFAELD_500_030,冒險者公會總部派了個名叫艾爾維的厲害雕金匠來。<hex:02100103>他現在正在烏爾達哈修鐘，你去他那邊看看吧。
-97,TEXT_FESXMS101_02224_CAHERNAUT_000_070,嗯，我確實是格里達尼亞管弦樂團的人……<hex:02100103>請問有何貴幹？
-98,TEXT_FESXMS101_02224_CAHERNAUT_000_071,……原來如此，為這座鐘演奏出的曲子編曲呀。<hex:02100103>沒問題，為了孩子們，我很樂意幫忙。
-99,TEXT_FESXMS101_02224_CAHERNAUT_000_072,但這鐘因為從前是起床鐘，能夠演奏的音階很有限啊。<hex:02100103>要是音域能再寬一點就好了……
-100,TEXT_FESXMS101_02224_GODBERT_000_080,(-？？？？-)哦，這個問題交給我來解決如何？
-101,TEXT_FESXMS101_02224_CAHERNAUT_000_081,原來是星神聖人大駕光臨。
-102,TEXT_FESXMS101_02224_GODBERT_000_082,(-星神聖人-)哈哈哈，我稍微會點雕金技巧。<hex:02100103>這種小改造簡直輕而易舉，就跟早飯前做深蹲似的！
-103,TEXT_FESXMS101_02224_GODBERT_000_083,(-星神聖人-)雕金——改革！
-104,TEXT_FESXMS101_02224_GODBERT_000_084,(-星神聖人-)曼德維……星芒·革新！
-105,TEXT_FESXMS101_02224_GODBERT_000_085,(-星神聖人-)最後是收尾的超級製作！
-106,TEXT_FESXMS101_02224_GODBERT_000_086,(-星神聖人-)閃閃發光！哈哈哈哈！<hex:02100103>棒不棒？
-107,TEXT_FESXMS101_02224_CAHERNAUT_000_087,這是何何何何其豐富的音色！<hex:02100103>這樣的話豈止是孩子們，我能寫出讓大人們一樣綻放笑容的曲子！
-108,TEXT_FESXMS101_02224_GODBERT_000_088,(-星神聖人-)雖然鐘老，但之前被人修復得很好。
-109,TEXT_FESXMS101_02224_GODBERT_100_088,(-星神聖人-)……嗯，我知道的。<hex:02100103>這新的鐘錘是你準備的吧？<hex:02100103>多虧了它，讓我省了不少事。
-110,TEXT_FESXMS101_02224_GODBERT_101_088,(-星神聖人-)……<hex:022903EB0203>閣下，我知道的。<hex:02100103>這新的鐘錘是你準備的吧？<hex:02100103>多虧了它，讓我省了不少事。
-111,TEXT_FESXMS101_02224_GODBERT_000_089,(-星神聖人-)好了，我只是一個路過的星神聖人而已……<hex:02100103>我們有緣再見吧。<hex:02100103>嚯嚯嚯！
-112,TEXT_FESXMS101_02224_CAHERNAUT_000_090,那我這就開始編曲，請稍等一會。
-113,TEXT_FESXMS101_02224_CAHERNAUT_000_091,……好了，寫好了。<hex:02100103>請將它和新的鐘一起送到利姆薩·羅敏薩吧。<hex:02100103>真期待看到孩子們的笑容！
-114,TEXT_FESXMS101_02224_GODBERT_000_092,(-星神聖人-)嗯，好像還是差點什麼呢……<hex:02100103>交給他們好了。
-115,TEXT_FESXMS101_02224_BAENFAELD_500_040,……我從艾爾維那聽說了。<hex:02100103>是要盡可能多地召集些孩子們吧？<hex:02100103>問題還真是一個接一個呀……
-116,TEXT_FESXMS101_02224_CAHERNAUT_500_040,請將它和新的鐘一起送到利姆薩·羅敏薩吧。<hex:02100103>真期待看到孩子們的笑容！
-117,TEXT_FESXMS101_02224_BAENFAELD_000_100,哦哦，冒險者！<hex:02100103>艾爾維把事情跟我說了之後，<hex:02100103>我怎麼也待不住就出來買東西了。
-118,TEXT_FESXMS101_02224_BAENFAELD_000_101,……嗯嗯，這就是新的鐘和樂譜呀。<hex:02100103>我收下了。<hex:02100103>看來是讓你費了不少功夫，非常感謝。
-119,TEXT_FESXMS101_02224_BAENFAELD_000_102,我聽了艾爾維的話後進行了反省，<hex:02100103>最後通知梅爾維布提督這次活動的典禮中止了。<hex:02100103>告訴提督原因後，她很爽快就答應了。
-120,TEXT_FESXMS101_02224_BAENFAELD_000_103,今後我們要轉變心情，為了喚回孩子們的笑容而努力！<hex:02100103>讓外人看看我們冒險者公會之魂！
-121,TEXT_FESXMS101_02224_BAENFAELD_000_110,……托你的福，鐘和曲子的問題解決了。<hex:02100103>之後還剩下鐘架的問題……
-122,TEXT_FESXMS101_02224_BAENFAELD_000_111,其實我想要把鐘架裝飾得更有星芒節的風格，<hex:02100103>讓孩子們能夠更開心，所以才到這裡買東西的。
-123,TEXT_FESXMS101_02224_BAENFAELD_000_112,但我沒有這方面的知識，<hex:02100103>完全不知道該買什麼好。<hex:02100103>唉，該怎麼辦呢……
-124,TEXT_FESXMS101_02224_GEVA_000_113,(-？？？？-)原來如此，是這麼一回事呀。
-125,TEXT_FESXMS101_02224_SERENDIPITY_000_114,(-？？？？-)既然要讓孩子們露出笑容，<hex:02100103>那就要辦到最好！
-126,TEXT_FESXMS101_02224_BAENFAELD_000_115,你、你們……<hex:02100103>莫非是能工巧匠公會的會長們？！
-127,TEXT_FESXMS101_02224_REDOLENTROSE_000_116,那是誰？<hex:02100103>我們只是路過的聖人追隨者而已。
-128,TEXT_FESXMS101_02224_BRITHAEL_000_117,我們應星神聖人的召喚前來幫忙。
-129,TEXT_FESXMS101_02224_GEVA_000_118,就是這樣。<hex:02100103>總之交給我們吧。
-130,TEXT_FESXMS101_02224_BAENFAELD_000_119,這、這可真是讓人目瞪口呆……
-131,TEXT_FESXMS101_02224_BAENFAELD_000_120,等等，我也讓艾爾維幫忙買東西了。<hex:02100103>難道他那邊也發生了同樣的事嗎……我們過去看看！
-132,TEXT_FESXMS101_02224_REDOLENTROSE_500_050,真是少見呢，那位大人居然會委託我們幫忙。<hex:02100103>裝飾呀……要去找小塞倫商量一下嗎……
-133,TEXT_FESXMS101_02224_SERENDIPITY_500_052,為了襯托出主角的裝飾。<hex:02100103>嘻嘻，那位大人的提案還真有趣呢。<hex:02100103>塞文利安也許有什麼點子也說不定！
-134,TEXT_FESXMS101_02224_SEVERIAN_500_056,我搞研究這麼忙，那位大人可真是的。<hex:02100103>算啦，偶爾休閒一下也好。<hex:02100103>把雷多倫特·羅斯也叫上吧。
-135,TEXT_FESXMS101_02224_GEVA_500_051,竟然是那位大人的委託，這可真是稀罕。<hex:02100103>雖然我不是這塊料，不過難得的機會。<hex:02100103>對了，得把貝亞坦也叫上。
-136,TEXT_FESXMS101_02224_BEATINE_500_054,……嘻嘻嘻，那位大人也這麼不坦率呢。<hex:02100103>喜歡木頭的話直接說出來不就好了……<hex:02100103>對了，得把蓋娃也叫上……
-137,TEXT_FESXMS101_02224_BRITHAEL_500_051,啊，竟然是來自那位大人的委託，一緊張我的胃就……<hex:02100103>也得叫上赫·納恩薩幫忙才行。
-138,TEXT_FESXMS101_02224_LYNGSATH_500_053,雖然接下了那位大人的委託，但究竟該怎麼做呢？<hex:02100103>算了，反正有趣的事情我愛摻和。<hex:02100103>先給布瑞賽爾做點舒緩腸胃的菜吧。
-139,TEXT_FESXMS101_02224_HNAANZA_500_055,進行裝飾嗎……真是有趣的委託。<hex:02100103>那位大人可真喜歡搞這些。<hex:02100103>這麼說來，林格薩斯應該也接到聯繫了吧。
-140,TEXT_FESXMS101_02224_HERVEY_000_140,還以為這邊能找到一些異國的稀罕裝飾品，<hex:02100103>結果卻完全找不到呀……<hex:02100103>咦，冒險者，怎麼了嗎？
-141,TEXT_FESXMS101_02224_LYNGSATH_000_150,(-？？？？-)哎呀，是因為你找東西沒抓住要領吧。<hex:02100103>異國的稀罕裝飾品這裡有很多哦。
-142,TEXT_FESXMS101_02224_BAENFAELD_000_151,果、果然是能工巧匠公會的會長們！！
-143,TEXT_FESXMS101_02224_SEVERIAN_000_152,那是誰？<hex:02100103>我們都只是湊巧路過的聖人追隨者而已。
-144,TEXT_FESXMS101_02224_HNAANZA_000_153,盲目亂找是不行的。<hex:02100103>要帶入感情，想想看到或使用商品的人會怎麼想，<hex:02100103>然後再尋找。
-145,TEXT_FESXMS101_02224_BEATINE_000_154,乖乖把鐘交給老師們吧。<hex:02100103>嘻嘻嘻……嘻嘻嘻嘻嘻……
-146,TEXT_FESXMS101_02224_HNAANZA_000_155,接下來就交給我們好了！
-147,TEXT_FESXMS101_02224_BAENFAELD_000_156,莫非他們是想要給鐘架進行裝飾嗎……<hex:02100103>我、我們快去看看！！
-148,TEXT_FESXMS101_02224_BAENFAELD_000_160,這這這是！<hex:02100103>裝飾得真漂亮！
-149,TEXT_FESXMS101_02224_GUIDEXMSCHILD_000_161,(-孤兒少年-)我看到了！<hex:02100103>一大群聖人追隨者衝過來一瞬間就把它變漂亮了！<hex:02100103>真是超厲害的！
-150,TEXT_FESXMS101_02224_BAENFAELD_000_162,不愧是能工巧匠公會的會長們……<hex:02100103>不對，不愧是聖人的追隨者們……<hex:02100103>得好好感謝他們才行啊。
-151,TEXT_FESXMS101_02224_BAENFAELD_000_163,好了冒險者，敲響這座鐘吧！<hex:02100103>奏響讓孩子們綻放笑容的鐘聲！
-152,TEXT_FESXMS101_02224_GODBERT_000_164,(-星神聖人-)並非只有一直維持過去的傳統才是重要的……
-153,TEXT_FESXMS101_02224_GODBERT_000_165,(-星神聖人-)最重要的是在不斷變化的時代中保護文化本身。<hex:02100103>因為那裡才傾注著人們的心意。
-154,TEXT_FESXMS101_02224_GODBERT_000_166,(-星神聖人-)嚯嚯嚯，成為星芒節起源的伊修加德士兵一定也是這樣想的。
-155,TEXT_FESXMS101_02224_BAENFAELD_000_170,感謝你的幫助，<hex:02100103>我們已經想起了什麼才是最重要的。<hex:02100103>真是感激不盡。
-156,TEXT_FESXMS101_02224_BAENFAELD_000_171,對了，一開始的委託……<hex:02100103>那個資訊雜誌«海港新聞»的採訪我已經接受了，<hex:02100103>記者小姐也非常感謝你。
-157,TEXT_FESXMS101_02224_BAENFAELD_000_172,好了，我得去招呼孩子們了。<hex:02100103>看我用你勞心勞力準備的鐘聲讓整個艾歐澤亞都充滿笑容。
+0,"TEXT_FESXMS101_02224_SEQ_00","Collys, a reporter for the <hex:021A020203>Harbor Herald<hex:021A020103>, would ask your aid in securing an interview.<hex:02100103>※This quest is available for a limited time only."
+1,"TEXT_FESXMS101_02224_SEQ_01","Collys, a reporter for the <hex:021A020203>Harbor Herald<hex:021A020103>, is having a difficult time learning the details of this year's Starlight Celebration event. Speak with Baenfaeld at the Aftcastle, and convince him to answer the gazetteer's earnest questions.<hex:02100103><hex:02100103>※Please note that you will be unable to complete this quest after the seasonal event has ended. For details, please check the Lodestone."
+2,"TEXT_FESXMS101_02224_SEQ_02","The troubled Baenfaeld explains that he would be glad to provide Collys with the details for her special edition if only they could first fix the old signal bell that is to be the main attraction. He asks that you speak with Hervey, the Adventurers' Guild's best goldsmith, and see how the repairs are progressing. Seek out the artisan near the Ruby Road Exchange in Ul'dah."
+3,"TEXT_FESXMS101_02224_SEQ_03","You find Hervey just as he has determined the cause of the bell's refusal to clang. It seems that the clapper has rusted through, and the goldsmith laments that he has not the skills to forge a new one. Acquire a new iron clapper for the signal bell, then return to Hervey with the replacement part.<hex:02100103><hex:02100103>An <hex:024804F201F403><hex:024904F201F503>iron clapper<hex:0249020103><hex:0248020103> can be crafted using blacksmithing, or purchased from the market boards."
+4,"TEXT_FESXMS101_02224_SEQ_04","You deliver a replacement clapper to Hervey, and he immediately affixes the part. The melody he produces from the repaired bell, however, is not as festive as he had hoped. With the prompting of a passing little helper, the goldsmith decides to have you request a famous composer to modify the Ishgardian soldiers' tune into a more celebratory arrangement. Make your way to Mih Khetto's Amphitheatre in Gridania, and present the signal bell and its accompanying sheet music to Cahernaut."
+5,"TEXT_FESXMS101_02224_SEQ_05","You place the bell and sheet music before the discerning eyes of Cahernaut, but the composer is unsure that even his genius can coax an appropriate tone from the signal bell's limited musical range. As you wonder what will become of the festival, you are paid an unexpected visit by a white-bearded man dressed as the Saint of Nymeia. The saint offers to work a seasonal miracle upon the bell, and, after a few moments of metalworking ministrations, hands the newly gleaming instrument back to Cahernaut. The composer, inspired by this display of goldsmithing prowess, soon has the bell's old song arranged into an enchanting melody. Return to Limsa Lominsa, and deliver the Starlight bell─and its rearranged sheet music─to Baenfaeld in East Hawkers' Alley."
+6,"TEXT_FESXMS101_02224_SEQ_06","You deliver the Starlight bell to an appreciative Baenfaeld. The contrite celebrant explains that although he has thrown out his original plans in favor of a more child-focused festival, his efforts to purchase wondrous decorations for the bell frame have his head spinning in confusion. Almost as if on cue, you are once more taken aback by an unexpected visit: four costumed little helpers appear, and offer their assistance with the preparations. Still reeling at the experience, Baenfaeld wonders if Hervey's shopping trip will be subject to a similar interruption. Find the goldsmith somewhere in Limsa Lominsa."
+7,"TEXT_FESXMS101_02224_SEQ_07","You locate Hervey attempting to procure more decorations, and, as expected, you are visited by four more little helpers. Offering little chance to refuse, the costumed artisans take possession of the restored bell, and rush off to complete the centerpiece of the festival. Hurry back to the Aftcastle, and see what has become of the Starlight bell."
+8,"TEXT_FESXMS101_02224_SEQ_08","By the time you return to the Aftcastle, it seems the little helpers' work is already done. The main bell has been returned to a beautifully decorated frame, and the jubilant melody that next rings forth has child and grown-up alike beaming with joy. Speak with Baenfaeld and share his thoughts on the celebration."
+9,"TEXT_FESXMS101_02224_SEQ_09","Baenfaeld thanks you again for all you have done, and expresses how glad he is that the festival was saved from the pompous event it threatened to become. The celebrant then assures you that he has promised to provide a full interview to Collys, and vows to continue bringing radiant smiles to the children of Eorzea. Go forth now and enjoy the rest of the Starlight Celebration!"
+10,"TEXT_FESXMS101_02224_SEQ_10",""
+11,"TEXT_FESXMS101_02224_SEQ_11",""
+12,"TEXT_FESXMS101_02224_SEQ_12",""
+13,"TEXT_FESXMS101_02224_SEQ_13",""
+14,"TEXT_FESXMS101_02224_SEQ_14",""
+15,"TEXT_FESXMS101_02224_SEQ_15",""
+16,"TEXT_FESXMS101_02224_SEQ_16",""
+17,"TEXT_FESXMS101_02224_SEQ_17",""
+18,"TEXT_FESXMS101_02224_SEQ_18",""
+19,"TEXT_FESXMS101_02224_SEQ_19",""
+20,"TEXT_FESXMS101_02224_SEQ_20",""
+21,"TEXT_FESXMS101_02224_SEQ_21",""
+22,"TEXT_FESXMS101_02224_SEQ_22",""
+23,"TEXT_FESXMS101_02224_SEQ_23",""
+24,"TEXT_FESXMS101_02224_TODO_00","Speak with Baenfaeld."
+25,"TEXT_FESXMS101_02224_TODO_01","Speak with Hervey in Ul'dah."
+26,"TEXT_FESXMS101_02224_TODO_02","Obtain an iron clapper and deliver it to Hervey."
+27,"TEXT_FESXMS101_02224_TODO_03","Present the signal bell to Cahernaut in Gridania."
+28,"TEXT_FESXMS101_02224_TODO_04","Deliver the Starlight bell to Baenfaeld in Limsa Lominsa."
+29,"TEXT_FESXMS101_02224_TODO_05","Search for Hervey."
+30,"TEXT_FESXMS101_02224_TODO_06","Examine the Starlight bell."
+31,"TEXT_FESXMS101_02224_TODO_07","Speak with Baenfaeld."
+32,"TEXT_FESXMS101_02224_TODO_08",""
+33,"TEXT_FESXMS101_02224_TODO_09",""
+34,"TEXT_FESXMS101_02224_TODO_10",""
+35,"TEXT_FESXMS101_02224_TODO_11",""
+36,"TEXT_FESXMS101_02224_TODO_12",""
+37,"TEXT_FESXMS101_02224_TODO_13",""
+38,"TEXT_FESXMS101_02224_TODO_14",""
+39,"TEXT_FESXMS101_02224_TODO_15",""
+40,"TEXT_FESXMS101_02224_TODO_16",""
+41,"TEXT_FESXMS101_02224_TODO_17",""
+42,"TEXT_FESXMS101_02224_TODO_18",""
+43,"TEXT_FESXMS101_02224_TODO_19",""
+44,"TEXT_FESXMS101_02224_TODO_20",""
+45,"TEXT_FESXMS101_02224_TODO_21",""
+46,"TEXT_FESXMS101_02224_TODO_22",""
+47,"TEXT_FESXMS101_02224_TODO_23",""
+48,"TEXT_FESXMS101_02224_COLLYS_000_000","Lovely to meet you! The name's Collys. I'm a reporter for the <hex:021A020203>Harbor Herald<hex:021A020103>, Limsa Lominsa's premier gazette. And let me tell you: no one is as excited as I am that the season for the Starlight Celebration has rolled around again!"
+49,"TEXT_FESXMS101_02224_COLLYS_000_001","I don't know if you've heard, but my sources in the Adventurers' Guild tell me that the Starlight celebrant is planning an event that will resurrect a long-lost Starlight tradition! Doesn't that sound wonderful?"
+50,"TEXT_FESXMS101_02224_COLLYS_000_002","I'd hoped to put together a special edition on the event...only, it seems there's been some kind of problem. And all the little helpers I've tried to interview have given me the vaguest of responses."
+51,"TEXT_FESXMS101_02224_COLLYS_000_003","You're in good standing with the Adventurers' Guild, aren't you? Fancy helping a reporter share the word on the happiest time of the year?"
+52,"TEXT_FESXMS101_02224_COLLYS_000_004","I need you to speak with Baenfaeld─he's this year's celebrant─and convince him to respond to my questions with definitive answers. You'll find him at the Aftcastle, making preparations for the festivities. Please, adventurer! I'll be ever so grateful!"
+53,"TEXT_FESXMS101_02224_BAENFAELD_000_010","This ain't goin' well at all...<hex:02100103>Eh? Need a word with me, do ye?"
+54,"TEXT_FESXMS101_02224_BAENFAELD_000_011","...Aye, I know the lass ye speak of. Me bosses in the Adventurers' Guild told me a <hex:021A020203>Harbor Herald<hex:021A020103> reporter'd be around, an' that I was to answer all her questions. Seems she means to write up some special piece on the Starlight Celebration..."
+55,"TEXT_FESXMS101_02224_BAENFAELD_000_012","I'd love to help her, I truly would─the event we're plannin' could use the publicity. But unless we sort out the bleedin' snag we've hit, there might not <hex:021A020203>be<hex:021A020103> any kinda event to write about."
+56,"TEXT_FESXMS101_02224_BAENFAELD_000_013","...Here, ye look like a capable <hex:020810E905FF05>lass<hex:FF06>bloke<hex:03>. We could surely use another hand with the preparations, an' there'd be a reward in it for ye. Are you in?"
+57,"TEXT_FESXMS101_02224_BAENFAELD_000_020","I expect ye already know the tale behind the festival, aye? Ishgardian soldiers lendin' their red jackets to wee freezin' orphans, an' all that?"
+58,"TEXT_FESXMS101_02224_BAENFAELD_000_021","Well, there's another part to the story what don't get told as often: afore the soldiers would set off to round up the younglin's, they would always play a special melody on their signal bells."
+59,"TEXT_FESXMS101_02224_BAENFAELD_000_022","The sound o' them bells echoin' through the frigid night air was said to bring the biggest bloody smiles to them orphans─an' even a few hard-bitten veterans as well, I'd wager."
+60,"TEXT_FESXMS101_02224_BAENFAELD_000_023","It's a damn shame, then, that that particular tradition weren't adopted into the celebration along with the crimson coats."
+61,"TEXT_FESXMS101_02224_BAENFAELD_000_024","Ever since the Calamity made a bloody mess of Eorzea, we've been doin' our best to put the place to rights. But the Garleans an' the beast tribes ain't makin' it easy for us, an' the unendin' flow o' refugees don't help matters neither."
+62,"TEXT_FESXMS101_02224_BAENFAELD_000_025","An' when all grown-ups do is frown an' grumble, it creates an atmosphere o' despair for the little ones. How often do ye see the younglin's truly <hex:021A020203>smilin'<hex:021A020103> these days, eh?"
+63,"TEXT_FESXMS101_02224_BAENFAELD_000_026","That's why the Adventurers' Guild decided to do summat special this year."
+64,"TEXT_FESXMS101_02224_BAENFAELD_100_026","It's time we resurrected an old custom to ring in the celebration, an' put some big bloody smiles back on folks' faces!"
+65,"TEXT_FESXMS101_02224_BAENFAELD_000_027","The Temple Knights o' Ishgard was only too happy to dig up their old signal bells from where they was rustin' in some musty storehouse, an' then ship 'em here for the festival. No matter how much we cleaned an' oiled the main bell, though, we couldn't get the damn thing to ding, let alone dong."
+66,"TEXT_FESXMS101_02224_BAENFAELD_000_028","The guild's coffers was all but emptied for this event, an' the Admiral's gone an' invited a bunch o' high-an'-mighty dignitaries to attend the openin' ceremony. We can't <hex:021A020203>afford<hex:021A020103> to fail..."
+67,"TEXT_FESXMS101_02224_BAENFAELD_000_029","Ye'll see this through to the end, though, won't ye? Get that bell to ring, an' I promise I'll talk that reporter's bloody ears off on any subject she cares to name."
+68,"TEXT_FESXMS101_02224_BAENFAELD_100_029","First, ye'll need to head to Ul'dah. Track down Hervey─he's the guild's top goldsmith─an' see how things is comin' along with the bell repairs."
+69,"TEXT_FESXMS101_02224_HERVEY_000_030","...You're <hex:022903EB0203>? Uh-huh. So, is that supposed to impress me, or─ Oh! You must be the <hex:020810E905FF05>lass<hex:FF06>bloke<hex:03> Baenfaeld mentioned. Well, your timing couldn't be better."
+70,"TEXT_FESXMS101_02224_HERVEY_000_031","I just removed the bell's clapper, you see, and was surprised at how light it was. When I took a closer look, I realized that its middle had been eaten away by rust...which explains why no amount of adjusting or oiling could give the bell a satisfying clang."
+71,"TEXT_FESXMS101_02224_HERVEY_000_032","The problem is, I haven't the slightest idea of how to forge a new one─that's a job for a smitty, not a goldsmith. I suppose we'll just have to ask around, and see what we can find."
+72,"TEXT_FESXMS101_02224_HERVEY_000_033","Do you know anyone who can craft an iron clapper? Get your hands on one, and I'll tell Baenfaeld to dig a bit deeper for your reward. Meanwhile, I'll try my luck with the local merchants..."
+73,"TEXT_FESXMS101_02224_SYSTEM_000_033","An <hex:024804F201F403><hex:024904F201F503>iron clapper<hex:0249020103><hex:0248020103> can be crafted using blacksmithing, or purchased from the market boards."
+74,"TEXT_FESXMS101_02224_BAENFAELD_500_020","Get yerself to Ul'dah an' find Hervey, our guild's best goldsmith. Give him whatever help he needs to fix that bell!"
+75,"TEXT_FESXMS101_02224_HERVEY_000_040","<sigh> None of my usual merchant contacts seem to deal in bell parts. I wonder if it's too late to commission a blacksmith..."
+76,"TEXT_FESXMS101_02224_HERVEY_000_041","You've brought me a clapper!? But where did you─ Never mind, let's attach it to the signal bell right away!"
+77,"TEXT_FESXMS101_02224_HERVEY_000_050","Well, it certainly sounds like a bell now, doesn't it? It's just that this melody is rather... Hmmm. Could I be reading the music wrong?"
+78,"TEXT_FESXMS101_02224_JULYAN_000_051","You there! What was that song ye were playin' on that bell?"
+79,"TEXT_FESXMS101_02224_HERVEY_000_052","Well, well, if it isn't one of the saint's little helpers. That was a tune we were taught by the knights of Ishgard─we're attempting to reenact an old tradition for this year's Starlight Celebration, you see."
+80,"TEXT_FESXMS101_02224_HERVEY_000_053","This was once a signal bell for an Ishgardian barracks, and we've only just restored it to working order. As you may have noticed, however, the melody isn't quite <hex:021A020203>festive<hex:021A020103> enough."
+81,"TEXT_FESXMS101_02224_JULYAN_000_054","Let me ask ye a question, lad: what exactly are ye ringin' this bell for?"
+82,"TEXT_FESXMS101_02224_HERVEY_000_055","Why, to make this year's Starlight Celebration a resounding success, of course! The Adventurers' Guild has spent a veritable fortune on festival preparations, and failure is simply unacceptable."
+83,"TEXT_FESXMS101_02224_JULYAN_000_056","...I knew it. And what is the Starlight Celebration supposed to be for, then, hm? Is it for the prestige o' the bloody <hex:021A020203>Adventurers' Guild<hex:021A020103>? ...Or is it for the happiness o' younglin's all across Eorzea?"
+84,"TEXT_FESXMS101_02224_HERVEY_000_057","I... That is to say..."
+85,"TEXT_FESXMS101_02224_JULYAN_000_058","Now, I'm barely half an artisan myself, but even I can see that ye've done a nice job o' restorin' an old signal bell to its original state. But maybe ye've let yerself get carried away by yer desire to resurrect the past."
+86,"TEXT_FESXMS101_02224_JULYAN_000_059","Over the years, the Starlight Celebration has grown into a festival with the sole purpose o' bringin' joy to children. Maybe this bell ringin' custom o' yers needs some adjustment, as well, to match the era into which it's bein' reborn."
+87,"TEXT_FESXMS101_02224_HERVEY_000_061","...You're absolutely right. Somewhere along the way, we lost sight of the true meaning of the celebration. The spectacle became more important than the happiness it was intended to create..."
+88,"TEXT_FESXMS101_02224_HERVEY_000_062","But that ends right here! We'll turn this prideful mess into the joyous festival it was meant to be! Somehow!<hex:02100103>...A little help, little helper?"
+89,"TEXT_FESXMS101_02224_JULYAN_000_063","Ah, ye silly oaf! Must I do all the thinkin' for ye? All ye need do is take that tired old melody and add a little magic─make of it a spell what enchants the ears and brings a smile to a younglin's face."
+90,"TEXT_FESXMS101_02224_JULYAN_100_063","You there. Lend this dolt a hand if he needs one."
+91,"TEXT_FESXMS101_02224_JULYAN_101_063","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Lend this dolt a hand, would ye? I'd feel better knowin' ye were involved."
+92,"TEXT_FESXMS101_02224_HERVEY_000_064","Add a little magic to the melody...<hex:02100103>I think I understand. But we'll need someone as can make it more festive without completely overshadowing the original tune."
+93,"TEXT_FESXMS101_02224_HERVEY_000_065","And I know just the man to do it! Cahernaut's the composer for a famous orchestra, and they're in Gridania right now for the celebrations─take the bell and the sheet music to him, and see if he's willing to come up with a new arrangement for the song."
+94,"TEXT_FESXMS101_02224_HERVEY_000_066","I'll head back to Baenfaeld, and we'll figure out how to include more younglings in the audience."
+95,"TEXT_FESXMS101_02224_HERVEY_000_067","Contacting all the orphanages in the realm and inviting them to Limsa Lominsa for the performance should make for a good start. To the hells with the budget!"
+96,"TEXT_FESXMS101_02224_BAENFAELD_500_030","Get yerself to Ul'dah an' find Hervey, our guild's best goldsmith. Give him whatever help he needs to fix that bell!"
+97,"TEXT_FESXMS101_02224_CAHERNAUT_000_070","Yes, I am Cahernaut. Yes, <hex:021A020203>the<hex:021A020103> Cahernaut. The orchestra is not presently accepting applicants, so if you would kindly─ Hm?"
+98,"TEXT_FESXMS101_02224_CAHERNAUT_000_071","...And you would have me rearrange this into a less dreary melody? <sigh> Very well. Anything for <hex:021A020203>the children<hex:021A020103>."
+99,"TEXT_FESXMS101_02224_CAHERNAUT_000_072","I am afraid, however, that the signal bell is not a particularly versatile instrument. There is little even the great Cahernaut can achieve with such a limited musical scale..."
+100,"TEXT_FESXMS101_02224_GODBERT_000_080","(-???-)Oho, then mayhap that bell is overdue for the gentle touch of innovation!"
+101,"TEXT_FESXMS101_02224_CAHERNAUT_000_081","Ah, if it isn't the Saint of Nymeia himself."
+102,"TEXT_FESXMS101_02224_GODBERT_000_082","(-Saint of Nymeia-)I overheard your little dilemma, and it just so happens that I have some small skill with goldsmithing. If it is extra notes you need, then it is extra notes you shall have!"
+103,"TEXT_FESXMS101_02224_GODBERT_000_083","(-Saint of Nymeia-)It's hammer time!"
+104,"TEXT_FESXMS101_02224_GODBERT_000_084","(-Saint of Nymeia-)Crafting miracles is the Mander...er, Starlight way!♪"
+105,"TEXT_FESXMS101_02224_GODBERT_000_085","(-Saint of Nymeia-)A masterpiece to brighten your Starlight day!♪"
+106,"TEXT_FESXMS101_02224_GODBERT_000_086","(-Saint of Nymeia-)See how it shines! See how it glimmers! And if it doesn't produce the sweetest of sounds, then I shall eat my Starlight hat!"
+107,"TEXT_FESXMS101_02224_CAHERNAUT_000_087","Th-The richness of the timbre is inexplicable! Its ringing reverberations will enthrall both adults and younglings alike!"
+108,"TEXT_FESXMS101_02224_GODBERT_000_088","(-Saint of Nymeia-)It's an old bell, to be sure, but the restoration work was impeccable."
+109,"TEXT_FESXMS101_02224_GODBERT_100_088","(-Saint of Nymeia-)The new clapper... That was your doing? It certainly made my task far simpler than I anticipated."
+110,"TEXT_FESXMS101_02224_GODBERT_101_088","(-Saint of Nymeia-)The new clapper... That was your doing, wasn't it, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>? It certainly made my task far simpler than I anticipated."
+111,"TEXT_FESXMS101_02224_GODBERT_000_089","(-Saint of Nymeia-)Well, I'm glad that this humble wandering pilgrim could be of service! Mayhap we shall meet again someday! Ho ho ho!"
+112,"TEXT_FESXMS101_02224_CAHERNAUT_000_090","I shall begin work on the new arrangement immediately. The saint's genius has called to my own..."
+113,"TEXT_FESXMS101_02224_CAHERNAUT_000_091","...And it is done! Pray convey these masterpieces─both the reworked bell and my Starlight melody─to your colleagues in Limsa Lominsa. Your audience shall be enchanted, I assure you!"
+114,"TEXT_FESXMS101_02224_GODBERT_000_092","(-Saint of Nymeia-)Hmmm. An acceptable result, but not enough flair for my taste. Time to dust off the linkpearl and make some calls..."
+115,"TEXT_FESXMS101_02224_BAENFAELD_500_040","I heard word from Hervey. So, we're to call more younglin's to Limsa, now? I just hope this don't end in disaster..."
+116,"TEXT_FESXMS101_02224_CAHERNAUT_500_040","Take the newly refurbished bell─and my masterfully rearranged melody, of course─to Limsa Lominsa and your waiting colleagues. The children are in for a treat this year!"
+117,"TEXT_FESXMS101_02224_BAENFAELD_000_100","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! Hervey told me everythin' what happened, an' I decided to do some extra shoppin' for the festival while I was waitin' for ye to get back."
+118,"TEXT_FESXMS101_02224_BAENFAELD_000_101","...Ah, so this is the new an' improved bell─an' a newly arranged melody to boot. Ye've been more help than I deserved, all things considered."
+119,"TEXT_FESXMS101_02224_BAENFAELD_000_102","Hervey's tale opened me eyes to what proud clods we've been...<hex:02100103>I've already been in contact with the Admiral about cancelin' that overblown openin' ceremony, an' she took me explanation with good grace."
+120,"TEXT_FESXMS101_02224_BAENFAELD_000_103","It's time we started thinkin' with our hearts, an' not our bleedin' coinpurses! We'll throw the best damn Starlight Celebration these little ones have ever seen!"
+121,"TEXT_FESXMS101_02224_BAENFAELD_000_110","Thanks to you, we've got the bell an' the song sorted. Now we just need to do summat about that borin' old metal frame..."
+122,"TEXT_FESXMS101_02224_BAENFAELD_000_111","That's actually what brought me here to the markets. I was lookin' to decorate the bell frame, and make it a proper part o' the festivities."
+123,"TEXT_FESXMS101_02224_BAENFAELD_000_112","But I'm afraid I've less sense for choosin' decorations than a blind Sahagin."
+124,"TEXT_FESXMS101_02224_GEVA_000_113","(-???-)Ah, now I understand why our assistance was required."
+125,"TEXT_FESXMS101_02224_SERENDIPITY_000_114","(-???-)If our task is to put smiles on little faces, then they shall be the widest smiles they can possibly be!"
+126,"TEXT_FESXMS101_02224_BAENFAELD_000_115","But... Yer all guildmasters, ain't ye!?"
+127,"TEXT_FESXMS101_02224_REDOLENTROSE_000_116","Ohohoho! Surely you jest, good sir! We are merely the saint's little helpers, wandering the land in search of good deeds to perform."
+128,"TEXT_FESXMS101_02224_BRITHAEL_000_117","It were the saint himself what set us on this task, though. Seems ye could use a hand with some decoratin', eh?"
+129,"TEXT_FESXMS101_02224_GEVA_000_118","Fortunately, we all have a certain amount of experience with such things. You just leave it to us."
+130,"TEXT_FESXMS101_02224_BAENFAELD_000_119","Wh-What in the seven hells just happened...?"
+131,"TEXT_FESXMS101_02224_BAENFAELD_000_120","Ye know, I sent Hervey off on a shoppin' errand o' his own... Ye don't suppose them “little helpers” will track him down as well, will they? Let's go check on him─the poor, unsuspectin' bugger!"
+132,"TEXT_FESXMS101_02224_REDOLENTROSE_500_050","...How unusual for that bearded eccentric to call upon us for help. Well, I suppose I <hex:021A020203>am<hex:021A020103> an expert in the prettifying department. Mayhap Serendipity will wish to coordinate colors..."
+133,"TEXT_FESXMS101_02224_SERENDIPITY_500_052","Hmmm. We'll need a decorative design that, while tastefully extravagant, serves to draw all eyes to the main attraction. I wonder if Severian has any ideas..."
+134,"TEXT_FESXMS101_02224_SEVERIAN_500_056","What part of “critical juncture in my research” does that persistent patrician fail to understand? <sigh> I suppose I should indulge in one of those “breaks” Deitrich is always insisting I take. Now, where is that linkpearl Redolent Rose gave me...?"
+135,"TEXT_FESXMS101_02224_GEVA_500_051","...What an unexpected request. Decoration is not my usual area of expertise, but I'll make an exception in this case. What does Beatin think of all this, I wonder...?"
+136,"TEXT_FESXMS101_02224_BEATINE_500_054","Hmph, this is so typical of him. How he extolls wood's finer qualities when he has need of my assistance. I assume Geva has experienced a similar overture..."
+137,"TEXT_FESXMS101_02224_BRITHAEL_500_051","A request from one o' the best in the business...<hex:02100103>I'd best have a drink to settle me nerves, then ask H'naanza how she means to handle this."
+138,"TEXT_FESXMS101_02224_LYNGSATH_500_053","It's nice o' the old buzzard to include me, but 'ow am I meant to contribute? By makin' a meal what Brithael's churnin' innards can keep down? Ha! Well, I'm sure there'll be a way to make use o' me skills..."
+139,"TEXT_FESXMS101_02224_HNAANZA_500_055","Aiding with these decorations shall prove an interesting challenge. Did he contact us all? Lyngsath must find this amusing..."
+140,"TEXT_FESXMS101_02224_HERVEY_000_140","Bah, I thought this would be the perfect place to pick up something exotic and interesting for the decorations, but there's naught to be found...<hex:02100103><hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! What are you doing here?"
+141,"TEXT_FESXMS101_02224_LYNGSATH_000_150","(-???-)Leave it to an expert in procurin' rare ingredients, lad. I've already spoken with the 'arbormaster an' secured a box o' wonders from distant shores."
+142,"TEXT_FESXMS101_02224_BAENFAELD_000_151","More guildmasters!? Yer <hex:021A020203>all<hex:021A020103> in on it!"
+143,"TEXT_FESXMS101_02224_SEVERIAN_000_152","Guildmasters? Where? I see only little helpers."
+144,"TEXT_FESXMS101_02224_HNAANZA_000_153","You'll not find much when your objective is so hazy. Narrow your focus, and consider what it is the client truly desires."
+145,"TEXT_FESXMS101_02224_BEATINE_000_154","It would be best if you entrust that bell to us, child."
+146,"TEXT_FESXMS101_02224_HNAANZA_000_155","Fear not: we'll take care of everything!"
+147,"TEXT_FESXMS101_02224_BAENFAELD_000_156","Am I dreamin', or was our final task just taken over by the master artisans o' three different city–states? I've got to see this for meself! Quick, back to the Aftcastle!"
+148,"TEXT_FESXMS101_02224_BAENFAELD_000_160","By the gods! It's beautiful!"
+149,"TEXT_FESXMS101_02224_GUIDEXMSCHILD_000_161","(-Orphan Boy-)It were amazin'! A gang o' little helpers came rushin' in like the wind, and done them bells up pretty afore I could even blink! I ain't never seen nothin' like it!"
+150,"TEXT_FESXMS101_02224_BAENFAELD_000_162","I should've expected naught less from the guildmas─ Er, the saint's little helpers. I'll be sure to thank them all..."
+151,"TEXT_FESXMS101_02224_BAENFAELD_000_163","What say ye, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>? Shall we ring in the celebration? Let's light up the face of every child from here to the harbor!"
+152,"TEXT_FESXMS101_02224_GODBERT_000_164","(-Saint of Nymeia-)It's important to preserve the past..."
+153,"TEXT_FESXMS101_02224_GODBERT_000_165","(-Saint of Nymeia-)But it's the culture and customs that grow and thrive with the passage of time that are truly history's treasures. That's what sings to people's hearts."
+154,"TEXT_FESXMS101_02224_GODBERT_000_166","(-Saint of Nymeia-)Ho ho ho! I'm sure the Ishgardians who began this tradition of giving would be pleased with the joy the Starlight Celebration continues to bring."
+155,"TEXT_FESXMS101_02224_BAENFAELD_000_170","I have to thank ye again for all ye've done, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Ye've helped steer us back to the road we ought to have been walkin' in the first place."
+156,"TEXT_FESXMS101_02224_BAENFAELD_000_171","Speakin' o' which, that reporter from the <hex:021A020203>Harbor Herald<hex:021A020103> sends her thanks as well. I've promised her a full interview at her earliest convenience."
+157,"TEXT_FESXMS101_02224_BAENFAELD_000_172","Meanwhile, I've more younglin's to delight with that enchantin' melody. Mark me words, I'll have the whole bloody realm smilin' afore this festival's done!"

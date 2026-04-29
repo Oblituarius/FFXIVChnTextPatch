@@ -2,14 +2,14 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_REGUNI5ADOBEOFTHEEA_00759_GEWGEESV_000_000,難道……是在跟我說話嗎？<hex:02100103>我已經很久……沒跟別人交流過了……<hex:02100103>那麼……找我到底有什麼事呢？
-1,TEXT_REGUNI5ADOBEOFTHEEA_00759_Q1_000_000,想了解什麼？
-2,TEXT_REGUNI5ADOBEOFTHEEA_00759_A1_000_001,你是做什麼的？
-3,TEXT_REGUNI5ADOBEOFTHEEA_00759_A1_000_002,這裡是什麼地方？
-4,TEXT_REGUNI5ADOBEOFTHEEA_00759_A1_000_003,取消
-5,TEXT_REGUNI5ADOBEOFTHEEA_00759_GEWGEESV_000_010,我啊……呃，該怎麼說呢……<hex:02100103>對了，我曾經是研究宇宙命運的人……<hex:02100103>不過那是很久……很久……以前的事了……
-6,TEXT_REGUNI5ADOBEOFTHEEA_00759_GEWGEESV_000_011,但是……現在……我對這無法避免的結局感到了絕望……<hex:02100103>只是空虛地……望著天空……<hex:02100103>漫無目的地四處遊蕩……
-7,TEXT_REGUNI5ADOBEOFTHEEA_00759_GEWGEESV_000_020,這裡其實沒有名字……叫它異亞村落就可以了……<hex:02100103>這裡曾經作為研究場所……盛極一時……<hex:02100103>不過現在如你所見……是這般荒涼……
-8,TEXT_REGUNI5ADOBEOFTHEEA_00759_GEWGEESV_000_021,一部分人……曾試圖找回昔日的榮光……<hex:02100103>但也只是在浪費時間而已……<hex:02100103>宇宙的結局……已經無法改寫了……
-9,TEXT_REGUNI5ADOBEOFTHEEA_00759_GEWGEESV_000_022,但是……曾經的榮光……曾經的肉體……<hex:02100103>試圖找回這些的人們……數量在不斷增加……<hex:02100103>更神奇的是……就連我……也開始躍躍欲試了……
-10,TEXT_REGUNI5ADOBEOFTHEEA_00759_TALK_ACTOR,
+0,"TEXT_REGUNI5ADOBEOFTHEEA_00759_GEWGEESV_000_000","...Hm? I'm sorry, but did you just speak to me? You see...I haven't spoken to anyone in such a very, very long time. Anyhow...what is it that you need? Not that I imagine there is much I can do for you..."
+1,"TEXT_REGUNI5ADOBEOFTHEEA_00759_Q1_000_000","What will you ask?"
+2,"TEXT_REGUNI5ADOBEOFTHEEA_00759_A1_000_001","What do you do here?"
+3,"TEXT_REGUNI5ADOBEOFTHEEA_00759_A1_000_002","What kind of place is this?"
+4,"TEXT_REGUNI5ADOBEOFTHEEA_00759_A1_000_003","Nothing."
+5,"TEXT_REGUNI5ADOBEOFTHEEA_00759_GEWGEESV_000_010","I am─or rather, I <hex:021A020203>was<hex:021A020103>─ Hmm, wait...what <hex:021A020203>was<hex:021A020103> I? Ah, yes. I was a researcher of sorts, studying the secrets of the universe. But that was so very, very, very long ago..."
+6,"TEXT_REGUNI5ADOBEOFTHEEA_00759_GEWGEESV_000_011","Now, I am little more than the detached wisp you see before you. Despairing in my knowledge of the inevitable end, I simply gaze into the void, ever in vain..."
+7,"TEXT_REGUNI5ADOBEOFTHEEA_00759_GEWGEESV_000_020","This place has no name as such. If you must call it something, then call it the abode of the Ea, for it is where we live. If, indeed, one can call this tenuous grasp on existence “life”..."
+8,"TEXT_REGUNI5ADOBEOFTHEEA_00759_GEWGEESV_000_021","A scattered, deluded few of my kind strive to regain some semblance of our former glory...but the enlightened among us know that it is all for naught. The end is inevitable...it is but a matter of time..."
+9,"TEXT_REGUNI5ADOBEOFTHEEA_00759_GEWGEESV_000_022","That said, while it feels too strange to say such things, lately I find myself feeling a vague sensation of what we might have once called...hope. A precious few of our kind strive to regain what we lost─our physical forms, our daily lives, and I cannot help but find myself curious of what may come..."
+10,"TEXT_REGUNI5ADOBEOFTHEEA_00759_TALK_ACTOR",""

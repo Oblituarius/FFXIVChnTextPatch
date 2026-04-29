@@ -2,19 +2,19 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_REGNOT5OLDSHARLAYAN_00738_WAMEME_000_001,哎呀，是旅行者啊？<hex:02100103>歡迎來到世界知識之都——舊薩雷安。<hex:02100103>有什麼想要了解的嗎？
-1,TEXT_REGNOT5OLDSHARLAYAN_00738_WAMEME_000_002,你好，是拂曉血盟的人吧。<hex:02100103>星外大撤退的決定太讓人吃驚了……<hex:02100103>你有什麼想要了解的嗎？
-2,TEXT_REGNOT5OLDSHARLAYAN_00738_WAMEME_000_003,你好，來自拂曉的英雄。<hex:02100103>聽說你一度跑到了宇宙盡頭啊……<hex:02100103>你有什麼想要了解的嗎？
-3,TEXT_REGNOT5OLDSHARLAYAN_00738_WAMEME_000_004,哎呀，來自拂曉的英雄。<hex:02100103>歡迎回到知識之都——舊薩雷安。<hex:02100103>有什麼想要了解的嗎？
-4,TEXT_REGNOT5OLDSHARLAYAN_00738_Q1_000_000,想了解什麼？
-5,TEXT_REGNOT5OLDSHARLAYAN_00738_A1_000_001,你是做什麼的？
-6,TEXT_REGNOT5OLDSHARLAYAN_00738_A1_000_002,這裡是什麼地方？
-7,TEXT_REGNOT5OLDSHARLAYAN_00738_A1_000_003,取消
-8,TEXT_REGNOT5OLDSHARLAYAN_00738_WAMEME_000_100,我叫瓦梅梅，是薩雷安魔法大學的外聘講師。<hex:02100103>主攻自然地理學，負責研究從古至今<hex:02100103>各地的地形和氣候變遷。
-9,TEXT_REGNOT5OLDSHARLAYAN_00738_WAMEME_000_101,我習慣利用授課的空檔在這裡吹吹海風。<hex:02100103>或許正是這個原因，時常有迷路的人來找我問路，<hex:02100103>搞得我現在有點像是個負責指路的了。
-10,TEXT_REGNOT5OLDSHARLAYAN_00738_WAMEME_000_200,這裡是聞名世界的學術城邦薩雷安。<hex:02100103>在遭遇第六靈災的大洪水之際，祖先紐恩克雷夫將救下的人們<hex:02100103>帶回北洋建起了村落，之後便發展成了這個城邦。
-11,TEXT_REGNOT5OLDSHARLAYAN_00738_WAMEME_000_201,由於原來那座位於龍堡內陸低地的殖民城市<hex:02100103>在艾歐澤亞人眼中更為有名，於是人們就把那裡當成了薩雷安。<hex:02100103>這裡不知何時起就只好叫舊薩雷安了。
-12,TEXT_REGNOT5OLDSHARLAYAN_00738_WAMEME_000_202,如今這裡學術種類繁多，<hex:02100103>還正在編纂有記錄了世界所有知識的世界圖鑑，<hex:02100103>實乃推動世界知識進步發展的動力源泉。
-13,TEXT_REGNOT5OLDSHARLAYAN_00738_WAMEME_000_203,而這座古老的城市如今也處於動蕩之中。<hex:02100103>畢竟哲學家議會已經明確決定捨棄星球進行大撤退。<hex:02100103>因此我們今後的生活都會發生極大的改變。
-14,TEXT_REGNOT5OLDSHARLAYAN_00738_WAMEME_000_204,可即便是這座古老的城市，如果遭遇了末日將會變得怎樣呢……<hex:02100103>你們就是為了徹底消滅其根源才要前往宇宙盡頭的吧？<hex:02100103>這裡的所有人都期盼著你們能平安歸來。
-15,TEXT_REGNOT5OLDSHARLAYAN_00738_WAMEME_000_205,而如今這座古老的城市之所以能夠恢復和平，<hex:02100103>也都是多虧了你們能解決末日的危機。<hex:02100103>所以我也不能輸給你們，要努力研究才行！
+0,"TEXT_REGNOT5OLDSHARLAYAN_00738_WAMEME_000_001","Greetings, traveler, and welcome to Sharlayan. If it's knowledge you seek, you've come to the right place."
+1,"TEXT_REGNOT5OLDSHARLAYAN_00738_WAMEME_000_002","Ah, you're one of those Scions, yes? I'm still reeling to learn of our imminent exodus into the great expanse, but I'll not ignore the pleas of inquiring minds! You have questions...?"
+2,"TEXT_REGNOT5OLDSHARLAYAN_00738_WAMEME_000_003","Greetings, champion of the Scions. I hear you're to journey to the very edge of the heavens...and yet here you are talking to me. I applaud your unyielding inquisitiveness!"
+3,"TEXT_REGNOT5OLDSHARLAYAN_00738_WAMEME_000_004","Greetings, hero of the Scions, and welcome back to Sharlayan. Was there aught I might help you with?"
+4,"TEXT_REGNOT5OLDSHARLAYAN_00738_Q1_000_000","What will you ask?"
+5,"TEXT_REGNOT5OLDSHARLAYAN_00738_A1_000_001","Who are you?"
+6,"TEXT_REGNOT5OLDSHARLAYAN_00738_A1_000_002","What is this place?"
+7,"TEXT_REGNOT5OLDSHARLAYAN_00738_A1_000_003","Nothing."
+8,"TEXT_REGNOT5OLDSHARLAYAN_00738_WAMEME_000_100","I am Wameme, an occasional lecturer at the Studium. I specialize in natural geography, including the history of the world's topography and climate transitions."
+9,"TEXT_REGNOT5OLDSHARLAYAN_00738_WAMEME_000_101","I like to come here for a bit of fresh air between classes, but for some reason, I'm asked for directions rather often. So I decided: why not act as a guide?"
+10,"TEXT_REGNOT5OLDSHARLAYAN_00738_WAMEME_000_200","Sharlayan is the city of knowledge. Once a humble settlement founded by Archon Nyunkrepf and the refugees he rescued from the great flood of the Sixth Umbral Calamity, it has since flourished into the grand metropolis you see today."
+11,"TEXT_REGNOT5OLDSHARLAYAN_00738_WAMEME_000_201","Prior to the great exodus, it was common among Eorzeans to refer to our Dravanian colony with the shorthand “Sharlayan,” which resulted in the colonists unofficially dubbing our homeland “Old Sharlayan” or the “Old World.” Alas, the name appears to have stuck..."
+12,"TEXT_REGNOT5OLDSHARLAYAN_00738_WAMEME_000_202","But old or new, we continue seeking knowledge from all over the world to record in the <hex:021A020203>Bibliotheca Historica<hex:021A020103>, among other collections of invaluable wisdom."
+13,"TEXT_REGNOT5OLDSHARLAYAN_00738_WAMEME_000_203","Naming conundrums aside, what concerns us most now is preparing ourselves to leave this star. The Forum has made it clear that the lives we've lived until this point are soon to be uprooted..."
+14,"TEXT_REGNOT5OLDSHARLAYAN_00738_WAMEME_000_204","But what use are names if the Final Days leaves all in ruin? I know I am not alone when I pray that your endeavor beyond the stars culminates in our salvation─and your safe return, of course!"
+15,"TEXT_REGNOT5OLDSHARLAYAN_00738_WAMEME_000_205","Still, what's important is that the city─our entire way of life, in fact─is safe now, thanks to you. We are free to continue our studies without fear of that dreadful impending doom!"

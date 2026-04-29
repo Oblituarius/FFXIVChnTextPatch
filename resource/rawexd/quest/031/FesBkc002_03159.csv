@@ -2,140 +2,140 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_FESBKC002_03159_SEQ_00,※本任務是特定期間內的任務。<hex:02100103><hex:02100103>烏爾達哈的琪琵·嘉奇亞正在等待冒險者。
-1,TEXT_FESBKC002_03159_SEQ_01,※本任務只有在季節活動開放期間才能接受和進行。<hex:02100103>　季節活動結束後無法進行，敬請注意。<hex:02100103>　詳情請參見官方網站。<hex:02100103><hex:02100103>琪琵·嘉奇亞得知黑衣森林中也出現了機械士兵，於是決定和冒險者等人一起去格里達尼亞進一步打聽情報。在格里達尼亞收集情報。
-2,TEXT_FESBKC002_03159_SEQ_02,在格里達尼亞收集了情報。和格里達尼亞的琪琵·嘉奇亞談談。
-3,TEXT_FESBKC002_03159_SEQ_03,和琪琵·嘉奇亞進行了交談。在荊棘森進行監視的話便有可能見到機械士兵。追上諾克提斯，在東部林區荊棘森的<hex:02280CFF05>EObj<hex:F61EAA400103>等待。
-4,TEXT_FESBKC002_03159_SEQ_04,在<hex:02280CFF05>EObj<hex:F61EAA400103>等待時敵人出現，冒險者一行成功將其討伐。和東部林區荊棘森的諾克提斯談談。
-5,TEXT_FESBKC002_03159_SEQ_05,和諾克提斯進行了交談。和格里達尼亞的琪琵·嘉奇亞談談。
-6,TEXT_FESBKC002_03159_SEQ_06,和琪琵·嘉奇亞進行了交談。琪琵·嘉奇亞再次向同事詢問有沒有新的情報。諾克提斯表示想要去周邊轉轉便離開了。和格里達尼亞水車十字廣場的諾克提斯談談。
-7,TEXT_FESBKC002_03159_SEQ_07,和諾克提斯進行了交談。諾克提斯打算繼續在周邊轉轉。等有空時再去找他吧。
-8,TEXT_FESBKC002_03159_SEQ_08,
-9,TEXT_FESBKC002_03159_SEQ_09,
-10,TEXT_FESBKC002_03159_SEQ_10,
-11,TEXT_FESBKC002_03159_SEQ_11,
-12,TEXT_FESBKC002_03159_SEQ_12,
-13,TEXT_FESBKC002_03159_SEQ_13,
-14,TEXT_FESBKC002_03159_SEQ_14,
-15,TEXT_FESBKC002_03159_SEQ_15,
-16,TEXT_FESBKC002_03159_SEQ_16,
-17,TEXT_FESBKC002_03159_SEQ_17,
-18,TEXT_FESBKC002_03159_SEQ_18,
-19,TEXT_FESBKC002_03159_SEQ_19,
-20,TEXT_FESBKC002_03159_SEQ_20,
-21,TEXT_FESBKC002_03159_SEQ_21,
-22,TEXT_FESBKC002_03159_SEQ_22,
-23,TEXT_FESBKC002_03159_SEQ_23,
-24,TEXT_FESBKC002_03159_TODO_00,和格里達尼亞的阿德勒福對話
-25,TEXT_FESBKC002_03159_TODO_01,和格里達尼亞的米泰妮對話
-26,TEXT_FESBKC002_03159_TODO_02,和格里達尼亞的魯斯特邦對話
-27,TEXT_FESBKC002_03159_TODO_03,向琪琵·嘉奇亞報告
-28,TEXT_FESBKC002_03159_TODO_04,在東部林區<hex:02280CFF05>EObj<hex:F61EAA400103>等待
-29,TEXT_FESBKC002_03159_TODO_05,和諾克提斯對話
-30,TEXT_FESBKC002_03159_TODO_06,和格里達尼亞的琪琵·嘉奇亞對話
-31,TEXT_FESBKC002_03159_TODO_07,和諾克提斯對話
-32,TEXT_FESBKC002_03159_TODO_08,
-33,TEXT_FESBKC002_03159_TODO_09,
-34,TEXT_FESBKC002_03159_TODO_10,
-35,TEXT_FESBKC002_03159_TODO_11,
-36,TEXT_FESBKC002_03159_TODO_12,
-37,TEXT_FESBKC002_03159_TODO_13,
-38,TEXT_FESBKC002_03159_TODO_14,
-39,TEXT_FESBKC002_03159_TODO_15,
-40,TEXT_FESBKC002_03159_TODO_16,
-41,TEXT_FESBKC002_03159_TODO_17,
-42,TEXT_FESBKC002_03159_TODO_18,
-43,TEXT_FESBKC002_03159_TODO_19,
-44,TEXT_FESBKC002_03159_TODO_20,
-45,TEXT_FESBKC002_03159_TODO_21,
-46,TEXT_FESBKC002_03159_TODO_22,
-47,TEXT_FESBKC002_03159_TODO_23,
-48,TEXT_FESBKC002_03159_NOCTIS_100_000,一下子被問東問西的累死了……
-49,TEXT_FESBKC002_03159_KIPIHJAKKYA_000_000,你準備好了吧！<hex:02100103>據說黑衣森林也有人見到了機械士兵！
-50,TEXT_FESBKC002_03159_KIPIHJAKKYA_000_001,不過告訴我這件事的同事只是聽到了一點傳聞而已，<hex:02100103>所以我想去格里達尼亞直接問問目擊者。
-51,TEXT_FESBKC002_03159_NOCTIS_000_002,好啊。<hex:02100103>那就去那個格裡……什麼什麼的地方問問吧。
-52,TEXT_FESBKC002_03159_KIPIHJAKKYA_100_003,啊，別急，你不熟悉這裡的環境，<hex:02100103>還是讓我來帶路吧！<hex:02100103>那就請跟我一起來格里達尼亞吧！
-53,TEXT_FESBKC002_03159_NOCTIS_110_003,啊，那就拜託你了！
-54,TEXT_FESBKC002_03159_NOCTIS_000_004,不、我可沒在偷懶，<hex:02100103>只是看到了奇怪的衣服，有點好奇而已。
-55,TEXT_FESBKC002_03159_HADREFORT_000_010,機械士兵？<hex:02100103>抱歉，我沒聽說過這種事。
-56,TEXT_FESBKC002_03159_MARCQUELORT_000_011,我聽說過那個傳言。<hex:02100103>有人堅稱自己在東部林區霍桑山寨附近的森林裡<hex:02100103>看到了像人偶一樣的士兵。
-57,TEXT_FESBKC002_03159_HADREFORT_000_012,誒，我還是第一次聽說……<hex:02100103>機械驅動的人偶，聽起來就很詭異，<hex:02100103>一想到有可能在森林裡遇到，我雞皮疙瘩都起來了……
-58,TEXT_FESBKC002_03159_ROUSTEBANT_000_013,機械士兵？<hex:02100103>聽說在東部林區有人看到過哦。
-59,TEXT_FESBKC002_03159_ROUSTEBANT_000_014,搞得中央林區也加強了警戒。<hex:02100103>詳細情況你還是去問問別人吧。
-60,TEXT_FESBKC002_03159_MITAINIE_000_015,有沒有看到機械士兵？<hex:02100103>正好前幾天接到過這樣的報告，<hex:02100103>是負責巡視荊棘森的阿馬里賽哨塔的衛兵報上來的。
-61,TEXT_FESBKC002_03159_MITAINIE_000_016,一開始還以為是稻草人之類的，<hex:02100103>結果突然衝過來襲擊了衛兵，<hex:02100103>我們認為那很有可能是帝國軍的新武器，目前正在商討對策。
-62,TEXT_FESBKC002_03159_MITAINIE_000_017,你們要是路過荊棘森附近的話一定要小心謹慎，提高警戒。
-63,TEXT_FESBKC002_03159_HADREFORT_000_018,機械驅動的人偶，聽起來就很詭異，<hex:02100103>一想到有可能在森林裡遇到，我雞皮疙瘩都起來了……
-64,TEXT_FESBKC002_03159_MARCQUELORT_000_019,我聽說過那個傳言。<hex:02100103>有人堅稱自己在東部林區霍桑山寨附近的森林裡<hex:02100103>看到了像人偶一樣的士兵。
-65,TEXT_FESBKC002_03159_ROUSTEBANT_000_020,關於機械士兵的詳細情況你還是去問問別人吧。
-66,TEXT_FESBKC002_03159_MITAINIE_000_021,機械士兵的目擊報告，<hex:02100103>是負責巡視荊棘森的阿馬里賽哨塔的衛兵報上來的，<hex:02100103>我們認為那很有可能是帝國軍的新武器，目前正在商討對策。
-67,TEXT_FESBKC002_03159_NOCTIS_000_022,還真有很多像雅·吉梅一樣長著耳朵和尾巴的人……<hex:02100103>那傢伙居然不是逗我的。
-68,TEXT_FESBKC002_03159_KIPIHJAKKYA_000_030,怎麼樣，有得到什麼線索嗎？
-69,TEXT_FESBKC002_03159_Q1_000_000,如何作答？
-70,TEXT_FESBKC002_03159_A1_000_001,有人在霍桑山寨附近的森林裡見過
-71,TEXT_FESBKC002_03159_A1_000_002,阿馬里賽哨塔的衛兵見過
-72,TEXT_FESBKC002_03159_KIPIHJAKKYA_000_031,哦哦這樣啊！<hex:02100103>那麼在荊棘森埋伏的話<hex:02100103>應該就有機會見到了。
-73,TEXT_FESBKC002_03159_NOCTIS_000_032,好，那就走吧。
-74,TEXT_FESBKC002_03159_KIPIHJAKKYA_000_033,啊，又一個人跑掉了！
-75,TEXT_FESBKC002_03159_KIPIHJAKKYA_000_034,快追上諾克提斯先生！<hex:02100103>不熟悉黑衣森林的地形的人是很容易迷路的……<hex:02100103>可能會很費力不過還是幫幫他吧！
-76,TEXT_FESBKC002_03159_KIPIHJAKKYA_000_035,不熟悉黑衣森林的地形的人是很容易迷路的……<hex:02100103>可能會很費力不過還是幫幫他吧！
-77,TEXT_FESBKC002_03159_NOCTIS_000_036,這次也沒找到線索，<hex:02100103>不過幸好把使骸消滅了……
-78,TEXT_FESBKC002_03159_NOCTIS_000_040,是說這一片有魔導兵出沒？
-79,TEXT_FESBKC002_03159_NOCTIS_000_041,完全沒看到……<hex:02100103>算了，稍微等一會吧。
-80,TEXT_FESBKC002_03159_NOCTIS_100_041,有動靜？！<hex:02100103>走，去看看！
-81,TEXT_FESBKC002_03159_NOCTIS_000_042,什麼，怎麼是使骸？！<hex:02100103>來到這裡的不只是魔導兵居然還有使骸嗎！
-82,TEXT_FESBKC002_03159_NOCTIS_000_043,使骸也算是一種很危險的魔物！<hex:02100103>放著不管的話這裡的人也會遇害的！
-83,TEXT_FESBKC002_03159_NOCTIS_100_043,嘿嘿，你也幹勁十足嘛？<hex:02100103>那就我們兩個人上吧，<hex:022903EB0203>！
-84,TEXT_FESBKC002_03159_NOCTIS_000_044,為什麼使骸會出現在這裡？！<hex:02100103>到底怎麼搞的？
-85,TEXT_FESBKC002_03159_Q2_000_000,如何作答？
-86,TEXT_FESBKC002_03159_A2_000_001,先休息一下吧
-87,TEXT_FESBKC002_03159_A2_000_002,打完一場下來肚子餓了……
-88,TEXT_FESBKC002_03159_NOCTIS_000_045,也是啊，<hex:02100103>戰鬥完還挺累的。
-89,TEXT_FESBKC002_03159_NOCTIS_000_046,那倒也是……<hex:02100103>要不來支個帳篷吧。
-90,TEXT_FESBKC002_03159_NOCTIS_000_047,那就開始準備吧。
-91,TEXT_FESBKC002_03159_NOCTIS_000_048,話說回來，你又是為什麼踏上旅途的？<hex:02100103>有什麼必須要做的事嗎？
-92,TEXT_FESBKC002_03159_Q3_000_000,踏上旅途的理由是？
-93,TEXT_FESBKC002_03159_A3_000_001,守護重要的東西
-94,TEXT_FESBKC002_03159_A3_000_002,幫助重要的人
-95,TEXT_FESBKC002_03159_A3_000_003,沒什麼，只是想和同伴一起……
-96,TEXT_FESBKC002_03159_NOCTIS_000_049,守護重要的東西嗎……<hex:02100103>那你應該和古拉迪歐挺合得來的。
-97,TEXT_FESBKC002_03159_NOCTIS_000_050,幫助重要的人嗎……<hex:02100103>你怎麼跟伊格尼斯似的。
-98,TEXT_FESBKC002_03159_NOCTIS_000_051,這也算理由嗎。<hex:02100103>……不過這理由讓我忍不住想起普隆普特啊。
-99,TEXT_FESBKC002_03159_NOCTIS_000_052,……沒錯，是和我一起旅行的傢伙。<hex:02100103>跟你聊著突然想起來了。
-100,TEXT_FESBKC002_03159_NOCTIS_000_053,我的目的？<hex:02100103>是什麼呢……大概是遵守約定、吧。
-101,TEXT_FESBKC002_03159_NOCTIS_000_054,……不過要是回不去的話就談不上遵不遵守了。
-102,TEXT_FESBKC002_03159_NOCTIS_000_055,啊，我還能不能回去啊。
-103,TEXT_FESBKC002_03159_KIPIHJAKKYA_000_060,怎麼樣？<hex:02100103>這次有找到什麼線索嗎？
-104,TEXT_FESBKC002_03159_NOCTIS_000_061,沒什麼有用的。
-105,TEXT_FESBKC002_03159_NOCTIS_000_062,不過我真沒想到不僅是魔導兵，<hex:02100103>連使骸都跑到這邊來了。
-106,TEXT_FESBKC002_03159_KIPIHJAKKYA_000_063,使骸？那是什麼？
-107,TEXT_FESBKC002_03159_NOCTIS_000_064,呃——該怎麼說呢……跟魔物差不多吧。
-108,TEXT_FESBKC002_03159_KIPIHJAKKYA_000_065,原來如此……<hex:02100103>也就是說諾克提斯先生的世界的魔物出現在了艾歐澤亞。
-109,TEXT_FESBKC002_03159_KIPIHJAKKYA_000_066,嗯——雖然不太清楚詳情，<hex:02100103>不過應該像是從異界召喚出來的妖異一樣的東西……吧？
-110,TEXT_FESBKC002_03159_KIPIHJAKKYA_000_067,也就是說，這兩個世界之間，<hex:02100103>肯定有傳送魔物的通道，<hex:02100103>那麼肯定會有回去的辦法……耐下心來繼續調查吧！
-111,TEXT_FESBKC002_03159_NOCTIS_000_068,啊，謝啦。
-112,TEXT_FESBKC002_03159_KIPIHJAKKYA_000_069,我打算繼續和同事們聯繫，<hex:02100103>尋找新的情報……
-113,TEXT_FESBKC002_03159_NOCTIS_000_070,對了，<hex:02100103>我想在這附近逛逛……可以嗎？
-114,TEXT_FESBKC002_03159_KIPIHJAKKYA_000_071,城邦附近應該不會有什麼很強的魔物出沒，<hex:02100103>應該可以吧……
-115,TEXT_FESBKC002_03159_NOCTIS_000_073,好的，<hex:02100103>那一會見。
-116,TEXT_FESBKC002_03159_KIPIHJAKKYA_000_074,啊等一下！
-117,TEXT_FESBKC002_03159_KIPIHJAKKYA_000_075,諾克提斯先生會好好回來嗎？<hex:02100103>不會就這麼一去不復返……了吧？
-118,TEXT_FESBKC002_03159_KIPIHJAKKYA_000_076,要不這樣吧！<hex:02100103>冒險者，你能不能跟著諾克提斯先生啊？<hex:02100103>有你在我就安心了！
-119,TEXT_FESBKC002_03159_KIPIHJAKKYA_000_077,但是別太久，要記得回來啊？<hex:02100103>我會盡全力收集情報的！
-120,TEXT_FESBKC002_03159_KIPIHJAKKYA_000_078,但是別太久，要記得回來啊？<hex:02100103>我會盡全力收集情報的！
-121,TEXT_FESBKC002_03159_NOCTIS_000_080,嗯？是你啊。<hex:02100103>怎麼了？
-122,TEXT_FESBKC002_03159_NOCTIS_000_081,那個記者拜託你來看我的情況？<hex:02100103>別擔心，我會回去的。
-123,TEXT_FESBKC002_03159_NOCTIS_000_082,我在這邊盯著這個奇怪的衣服看，<hex:02100103>結果人家說這個也不貴就直接給我了。
-124,TEXT_FESBKC002_03159_MAISENTA_000_083,這孩子身材不錯，品位看上去也很好，<hex:02100103>我想讓他穿上給我們做做宣傳。
-125,TEXT_FESBKC002_03159_NOCTIS_000_084,謝謝。
-126,TEXT_FESBKC002_03159_NOCTIS_000_085,我還想再逛逛，<hex:02100103>要不你來陪我逛一會吧。
-127,TEXT_FESBKC002_03159_NOCTIS_000_086,（★未使用／削除予定★）
-128,TEXT_FESBKC002_03159_QIB_001_TODO_1,打倒青爪魔！
-129,TEXT_FESBKC002_03159_NOCTIS_BATTLETALK_001_001,對面可不簡單……小心點！
-130,TEXT_FESBKC002_03159_NOCTIS_BATTLETALK_001_002,喂，有什麼東西來了！
-131,TEXT_FESBKC002_03159_NOCTIS_BATTLETALK_001_003,嗚哇？！<hex:02100103>原來如此，謝啦！
-132,TEXT_FESBKC002_03159_NOCTIS_BATTLETALK_001_004,痛！<hex:02100103>放著不管的話會很糟糕啊……
-133,TEXT_FESBKC002_03159_NOCTIS_BATTLETALK_002_001,又要來了！<hex:02100103>那邊交給你了！
-134,TEXT_FESBKC002_03159_NOCTIS_BATTLETALK_CLEAR,輕鬆輕鬆。
-135,TEXT_FESBKC002_03159_NOCTIS_BATTLETALK_DEAD,不是吧……怎麼能在這種地方……
-136,TEXT_FESBKC002_03159_KIPIHJAKKYA_000_003,
+0,"TEXT_FESBKC002_03159_SEQ_00","Kipih Jakkya is eager to set out with you and Noctis.<hex:02100103>※This quest is available for a limited time only."
+1,"TEXT_FESBKC002_03159_SEQ_01","Kipih informs you that there have been new sightings of mechanical soldiers in the Twelveswood. In order to ascertain the truth of these rumors, it is decided that you will head to Gridania to seek out eyewitnesses.<hex:02100103><hex:02100103>※Please note that you will be unable to complete this quest after the seasonal event has ended. For details, please check the Lodestone."
+2,"TEXT_FESBKC002_03159_SEQ_02","Upon arriving in Gridania, you proceed to make inquiries about the mechanical soldiers. While no one you speak with turns out to be an eyewitness, you are reasonably satisfied that the magitek troopers are indeed here in the Twelveswood. It is time to take your findings to Kipih, who awaits at Mih Khetto's Amphitheatre."
+3,"TEXT_FESBKC002_03159_SEQ_03","Based on your findings, Kipih believes that you should be able to find the magitek troopers if you were to keep watch at the Bramble Patch, in the East Shroud. Eager as ever, Noctis sets out immediately, and at Kipih's behest you hurry after him."
+4,"TEXT_FESBKC002_03159_SEQ_04","At the Bramble Patch, you are reunited with Noctis and begin lying in wait. As the night deepens, a bloodcurdling roar cuts through the silent gloom, and you hasten towards the sound to come face-to-face with a fell fiend. Though the creature is fearsome, working together with Noctis, you succeed in laying it low."
+5,"TEXT_FESBKC002_03159_SEQ_05","Noctis is perturbed that a daemon, a monster from his world, has also found its way to Eorzea. Taking your rest after the taxing battle, you trade tales over a simple camp meal and learn a little more about Noctis─and perhaps yourself as well."
+6,"TEXT_FESBKC002_03159_SEQ_06","Back in Gridania, Noctis is crestfallen at being unable to find a way home, but Kipih promises that she will keep working to uncover more leads. Not given to waiting around, Noctis goes off to explore Gridania, and Kipih bids you accompany him."
+7,"TEXT_FESBKC002_03159_SEQ_07","You find Noctis browsing the Black Rabbit Traders' stall; it appears he is quite taken by the fashion of Eorzea. Your visitor is keen to explore some more, and you are happy to oblige him."
+8,"TEXT_FESBKC002_03159_SEQ_08",""
+9,"TEXT_FESBKC002_03159_SEQ_09",""
+10,"TEXT_FESBKC002_03159_SEQ_10",""
+11,"TEXT_FESBKC002_03159_SEQ_11",""
+12,"TEXT_FESBKC002_03159_SEQ_12",""
+13,"TEXT_FESBKC002_03159_SEQ_13",""
+14,"TEXT_FESBKC002_03159_SEQ_14",""
+15,"TEXT_FESBKC002_03159_SEQ_15",""
+16,"TEXT_FESBKC002_03159_SEQ_16",""
+17,"TEXT_FESBKC002_03159_SEQ_17",""
+18,"TEXT_FESBKC002_03159_SEQ_18",""
+19,"TEXT_FESBKC002_03159_SEQ_19",""
+20,"TEXT_FESBKC002_03159_SEQ_20",""
+21,"TEXT_FESBKC002_03159_SEQ_21",""
+22,"TEXT_FESBKC002_03159_SEQ_22",""
+23,"TEXT_FESBKC002_03159_SEQ_23",""
+24,"TEXT_FESBKC002_03159_TODO_00","Speak with Hadrefort in Gridania."
+25,"TEXT_FESBKC002_03159_TODO_01","Speak with Mitainie in Gridania."
+26,"TEXT_FESBKC002_03159_TODO_02","Speak with Roustebant in Gridania."
+27,"TEXT_FESBKC002_03159_TODO_03","Report to Kipih Jakkya."
+28,"TEXT_FESBKC002_03159_TODO_04","Wait at the designated location in the East Shroud."
+29,"TEXT_FESBKC002_03159_TODO_05","Speak with Noctis."
+30,"TEXT_FESBKC002_03159_TODO_06","Speak with Kipih Jakkya in Gridania."
+31,"TEXT_FESBKC002_03159_TODO_07","Speak with Noctis."
+32,"TEXT_FESBKC002_03159_TODO_08",""
+33,"TEXT_FESBKC002_03159_TODO_09",""
+34,"TEXT_FESBKC002_03159_TODO_10",""
+35,"TEXT_FESBKC002_03159_TODO_11",""
+36,"TEXT_FESBKC002_03159_TODO_12",""
+37,"TEXT_FESBKC002_03159_TODO_13",""
+38,"TEXT_FESBKC002_03159_TODO_14",""
+39,"TEXT_FESBKC002_03159_TODO_15",""
+40,"TEXT_FESBKC002_03159_TODO_16",""
+41,"TEXT_FESBKC002_03159_TODO_17",""
+42,"TEXT_FESBKC002_03159_TODO_18",""
+43,"TEXT_FESBKC002_03159_TODO_19",""
+44,"TEXT_FESBKC002_03159_TODO_20",""
+45,"TEXT_FESBKC002_03159_TODO_21",""
+46,"TEXT_FESBKC002_03159_TODO_22",""
+47,"TEXT_FESBKC002_03159_TODO_23",""
+48,"TEXT_FESBKC002_03159_NOCTIS_100_000","Whew... That wasn't an interview─it was an <hex:021A020203>interrogation<hex:021A020103>."
+49,"TEXT_FESBKC002_03159_KIPIHJAKKYA_000_000","Ready to depart? Excellent! Our destination is the Twelveswood─more of those mechanical soldiers have been sighted there."
+50,"TEXT_FESBKC002_03159_KIPIHJAKKYA_000_001","To be sure, my colleague only heard the rumors. I suggest first heading to Gridania and seeking out the witnesses."
+51,"TEXT_FESBKC002_03159_NOCTIS_000_002","Sounds good. Let's get going."
+52,"TEXT_FESBKC002_03159_KIPIHJAKKYA_100_003","Ah, wait! New as you are to Eorzea, you may struggle to find your way around. Permit me to show you to Gridania."
+53,"TEXT_FESBKC002_03159_NOCTIS_110_003","Alrighty. Lead the way."
+54,"TEXT_FESBKC002_03159_NOCTIS_000_004","Wh-What? I'm not slackin' off or anything. Just checking out the clothing. Some really neat stuff here."
+55,"TEXT_FESBKC002_03159_HADREFORT_000_010","Mechanical soldiers? My apologies, but I'm not familiar with the rumors."
+56,"TEXT_FESBKC002_03159_MARCQUELORT_000_011","Well, I am. Fellow I know claims he came upon them near the Hawthorne Hut in the East Shroud. At first he thought they were men, but on closer inspection, he says they were more like dolls."
+57,"TEXT_FESBKC002_03159_HADREFORT_000_012","And you didn't think to share this little tidbit with me, Brother? If I were to fall victim to these abominations, I shall consider my death on your head."
+58,"TEXT_FESBKC002_03159_ROUSTEBANT_000_013","Heard about the mechanical soldiers, have you? Indeed, they have been sighted in the East Shroud."
+59,"TEXT_FESBKC002_03159_ROUSTEBANT_000_014","While I do not personally know the details, the Wood Wailers are in a state of heightened vigilance throughout the Twelveswood."
+60,"TEXT_FESBKC002_03159_MITAINIE_000_015","Mechanical soldiers? As a matter of fact, one of our sentries at Amarissaix's Spire reported encountering them while patrolling the Bramble Patch."
+61,"TEXT_FESBKC002_03159_MITAINIE_000_016","At first he took them to be scarecrows, but as he approached them, they suddenly sprang to life and set upon him. We suspect that they are some heretofore unknown imperial weapon, and we are deliberating a response even as we speak."
+62,"TEXT_FESBKC002_03159_MITAINIE_000_017","If your path takes you near that area, you would do well to exercise all caution."
+63,"TEXT_FESBKC002_03159_HADREFORT_000_018","I pray I do not run afoul of these mechanical monstrosities alone in the forest. The mere thought chills me to the spine..."
+64,"TEXT_FESBKC002_03159_MARCQUELORT_000_019","As I said, the fellow I know claims he came upon the mechanical soldiers near the Hawthorne Hut in the East Shroud. At first he thought they were men, but on closer inspection, he says they were more like dolls."
+65,"TEXT_FESBKC002_03159_ROUSTEBANT_000_020","The mechanical soldiers were sighted in the East Shroud. While I do not personally know the details, the Wood Wailers are in a state of heightened vigilance throughout the Twelveswood."
+66,"TEXT_FESBKC002_03159_MITAINIE_000_021","One of our sentries at Amarissaix's Spire reported encountering the mechanical soldiers. We suspect that they are some heretofore unknown imperial weapon, and we are deliberating a response even as we speak."
+67,"TEXT_FESBKC002_03159_NOCTIS_000_022","Cat-people... Cat-people everywhere... Y'jhimei wasn't kidding."
+68,"TEXT_FESBKC002_03159_KIPIHJAKKYA_000_030","So, were you able to learn anything about the mechanical soldiers?"
+69,"TEXT_FESBKC002_03159_Q1_000_000","What will you say?"
+70,"TEXT_FESBKC002_03159_A1_000_001","A man saw them near the Hawthorne Hut."
+71,"TEXT_FESBKC002_03159_A1_000_002","A Wood Wailer encountered them at the Bramble Patch."
+72,"TEXT_FESBKC002_03159_KIPIHJAKKYA_000_031","I see! In that case, if we were to keep watch at the Bramble Patch, we should be able to find them eventually."
+73,"TEXT_FESBKC002_03159_NOCTIS_000_032","Well then, what're we waiting for?"
+74,"TEXT_FESBKC002_03159_KIPIHJAKKYA_000_033","Wait just a─"
+75,"TEXT_FESBKC002_03159_KIPIHJAKKYA_000_034","Please hurry after Noctis! The Twelveswood can be a veritable maze even for the locals, and it wouldn't do if he were to lose his way!"
+76,"TEXT_FESBKC002_03159_KIPIHJAKKYA_000_035","Please hurry after Noctis! The Twelveswood can be a veritable maze even for the locals, and it wouldn't do if he were to lose his way!"
+77,"TEXT_FESBKC002_03159_NOCTIS_000_036","It's good that we took care of the daemon, but there weren't any clues this time either. <sigh>"
+78,"TEXT_FESBKC002_03159_NOCTIS_000_040","This the area, is it?"
+79,"TEXT_FESBKC002_03159_NOCTIS_000_041","No luck so far. Guess we play the waiting game."
+80,"TEXT_FESBKC002_03159_NOCTIS_100_041","You hear that!? C'mon, let's check it out!"
+81,"TEXT_FESBKC002_03159_NOCTIS_000_042","What the─!? That's a daemon!"
+82,"TEXT_FESBKC002_03159_NOCTIS_000_043","That thing's dangerous. We can't leave it running around."
+83,"TEXT_FESBKC002_03159_NOCTIS_100_043","Heh, you're up for it too, eh? Come on then, let's do it!"
+84,"TEXT_FESBKC002_03159_NOCTIS_000_044","First magitek troopers, now a daemon... What the hell's going on?"
+85,"TEXT_FESBKC002_03159_Q2_000_000","What will you say?"
+86,"TEXT_FESBKC002_03159_A2_000_001","Let's take a rest for now."
+87,"TEXT_FESBKC002_03159_A2_000_002","All that fighting made me hungry..."
+88,"TEXT_FESBKC002_03159_NOCTIS_000_045","Yeah, after a fight like that, I could certainly use a break."
+89,"TEXT_FESBKC002_03159_NOCTIS_000_046","Now that you mention it, I'm pretty hungry too."
+90,"TEXT_FESBKC002_03159_NOCTIS_000_047","Right, let's set up camp!"
+91,"TEXT_FESBKC002_03159_NOCTIS_000_048","So, what's your story? Why do you go around doing what you do?"
+92,"TEXT_FESBKC002_03159_Q3_000_000","What's your purpose?"
+93,"TEXT_FESBKC002_03159_A3_000_001","Protecting those dear to me."
+94,"TEXT_FESBKC002_03159_A3_000_002","Supporting those dear to me."
+95,"TEXT_FESBKC002_03159_A3_000_003","Just being with my friends."
+96,"TEXT_FESBKC002_03159_NOCTIS_000_049","Protecting, huh? You and Gladio would get along, I bet. The big guy's always ready to throw himself into harm's way for us."
+97,"TEXT_FESBKC002_03159_NOCTIS_000_050","Supporting, huh? Come to think of it, you do give off Ignis vibes. Specs is always hovering around, ready to pick up after us."
+98,"TEXT_FESBKC002_03159_NOCTIS_000_051","What, you just wanna hang out with your friends? Heh, you're Prompto all over again. He's the life of the party, always ready with a quip to make us smile."
+99,"TEXT_FESBKC002_03159_NOCTIS_000_052","We were traveling together─me and him and a couple of others. Hearing your story, I couldn't help but be reminded of them..."
+100,"TEXT_FESBKC002_03159_NOCTIS_000_053","...<hex:021A020203>My<hex:021A020103> purpose? That's a tough one. I guess you could say...it's keeping a promise."
+101,"TEXT_FESBKC002_03159_NOCTIS_000_054","But I can't do that while I'm here. I have to get back to my own world."
+102,"TEXT_FESBKC002_03159_NOCTIS_000_055","Somehow..."
+103,"TEXT_FESBKC002_03159_KIPIHJAKKYA_000_060","So, how did you fare? Were you able to find your answers?"
+104,"TEXT_FESBKC002_03159_NOCTIS_000_061","Nope. We found only more questions."
+105,"TEXT_FESBKC002_03159_NOCTIS_000_062","Like how the hell a daemon ended up here as well."
+106,"TEXT_FESBKC002_03159_KIPIHJAKKYA_000_063","A daemon?"
+107,"TEXT_FESBKC002_03159_NOCTIS_000_064","It's...a kind of monster."
+108,"TEXT_FESBKC002_03159_KIPIHJAKKYA_000_065","From your world, I assume. And it somehow came to be here, in Eorzea..."
+109,"TEXT_FESBKC002_03159_KIPIHJAKKYA_000_066","I'm no naturalist, but I imagine it being similar to a voidsent."
+110,"TEXT_FESBKC002_03159_KIPIHJAKKYA_000_067","And if even a monster such as that could find its way to our world, then surely─surely you can find your way back too!"
+111,"TEXT_FESBKC002_03159_NOCTIS_000_068","Yeah, I hope so..."
+112,"TEXT_FESBKC002_03159_KIPIHJAKKYA_000_069","I'll keep working with my colleagues to find new leads. So just sit tight for now."
+113,"TEXT_FESBKC002_03159_NOCTIS_000_070","Actually, I'd rather go for a walk, check out the area a little. That's cool, yeah?"
+114,"TEXT_FESBKC002_03159_KIPIHJAKKYA_000_071","Well, it should be safe enough if you keep close to the city..."
+115,"TEXT_FESBKC002_03159_NOCTIS_000_073","Great. See ya later."
+116,"TEXT_FESBKC002_03159_KIPIHJAKKYA_000_074","Ah! Wait just a─"
+117,"TEXT_FESBKC002_03159_KIPIHJAKKYA_000_075","<sigh> There he goes again..."
+118,"TEXT_FESBKC002_03159_KIPIHJAKKYA_000_076","Though I do not think that Noctis would disappear on us, I would feel much better knowing you were with him. Will you go and keep him company?"
+119,"TEXT_FESBKC002_03159_KIPIHJAKKYA_000_077","I promise to have new information to share before long, so see that you both return soon, all right?"
+120,"TEXT_FESBKC002_03159_KIPIHJAKKYA_000_078","I promise to have new information to share before long. See that you both return soon, all right?"
+121,"TEXT_FESBKC002_03159_NOCTIS_000_080","Oh, hey. What's up?"
+122,"TEXT_FESBKC002_03159_NOCTIS_000_081","Well, you can tell Kipih she doesn't need to worry. I can take care of myself, and I'm not about to run off somewhere."
+123,"TEXT_FESBKC002_03159_NOCTIS_000_082","I was just checking out the clothing at this stall here. And as I was browsing, the shopkeeper offered me some stuff for free."
+124,"TEXT_FESBKC002_03159_MAISENTA_000_083","Your friend has a fine physique and exceptional fashion sense. Having an attractive young man such as him model our garments is the best form of advertisement."
+125,"TEXT_FESBKC002_03159_NOCTIS_000_084","Thanks, lady."
+126,"TEXT_FESBKC002_03159_NOCTIS_000_085","Anyway, I wanna explore some more. You're cool to hang out for a bit, yeah?"
+127,"TEXT_FESBKC002_03159_NOCTIS_000_086",""
+128,"TEXT_FESBKC002_03159_QIB_001_TODO_1","Defeat Iseultalon!"
+129,"TEXT_FESBKC002_03159_NOCTIS_BATTLETALK_001_001","Careful! That's not your average monster!"
+130,"TEXT_FESBKC002_03159_NOCTIS_BATTLETALK_001_002","I don't like the looks of that pillar!"
+131,"TEXT_FESBKC002_03159_NOCTIS_BATTLETALK_001_003","Whoa, so that's how it works! I owe you one!"
+132,"TEXT_FESBKC002_03159_NOCTIS_BATTLETALK_001_004","Ugh, that thing's trouble! We gotta do something about it!"
+133,"TEXT_FESBKC002_03159_NOCTIS_BATTLETALK_002_001","Two pillars this time! I'll take one, you take the other!"
+134,"TEXT_FESBKC002_03159_NOCTIS_BATTLETALK_CLEAR","Nothin' to it!"
+135,"TEXT_FESBKC002_03159_NOCTIS_BATTLETALK_DEAD","You gotta be kidding me..."
+136,"TEXT_FESBKC002_03159_KIPIHJAKKYA_000_003",""

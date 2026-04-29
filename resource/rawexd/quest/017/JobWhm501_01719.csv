@@ -2,116 +2,116 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_JOBWHM501_01719_SEQ_00,恬靜路營地的拉雅·奧·神納有話要對冒險者說。
-1,TEXT_JOBWHM501_01719_SEQ_01,前情回顧：<hex:02100103>冒險者獲得了白魔法師之力，與角尊拉雅·奧·神納和阿·盧恩·神納一起，執行了平息寄宿在長老樹的大元靈的儀式——鎮撫儀式。最後在藉助了一時復甦的阿·拓瓦·坎特的力量後，成功鎮撫了大元靈。<hex:02100103>　　　　　　　　　　　　*　*　*<hex:02100103>從拉雅·奧·神納那裡得知了有件危險的事正在發生。前往中央林區的常影區，和長老樹下的拉雅·奧·神納談談。
-2,TEXT_JOBWHM501_01719_SEQ_02,冒險者得知有不淨之物流入了黑衣森林。在北部林區的秋瓜浮村收集有關阿·拓瓦·坎特隨從的情報消息。
-3,TEXT_JOBWHM501_01719_SEQ_03,隨從已經去世了，現在是隨從的孫女在守護阿·拓瓦的墓碑。在北部林區的榮耀溪尋找其孫艾希娃。
-4,TEXT_JOBWHM501_01719_SEQ_04,討伐了襲擊艾希娃的魔物。將<hex:022811FF0A>EventItem<hex:F61E8B160103>交給榮耀溪的艾希娃。
-5,TEXT_JOBWHM501_01719_SEQ_05,將<hex:022811FF0A>EventItem<hex:F61E8B160103>交給了艾希娃。和長老樹的拉雅·奧·神納談談。
-6,TEXT_JOBWHM501_01719_SEQ_06,和拉雅·奧·神納他們進行了交談。和長老樹的艾希娃談談。
-7,TEXT_JOBWHM501_01719_SEQ_07,艾希娃表示想要討論一下今後的事。和秋瓜浮村的艾希娃談談。
-8,TEXT_JOBWHM501_01719_SEQ_08,和艾希娃進行了交談。為了淨化之旅，繼續鍛鍊自己。<hex:02100103><hex:02100103>※白魔法師的等級達到52級以上時，可以從秋瓜浮村的艾希娃那裡領取下一個白魔法師任務。
-9,TEXT_JOBWHM501_01719_SEQ_09,
-10,TEXT_JOBWHM501_01719_SEQ_10,
-11,TEXT_JOBWHM501_01719_SEQ_11,
-12,TEXT_JOBWHM501_01719_SEQ_12,
-13,TEXT_JOBWHM501_01719_SEQ_13,
-14,TEXT_JOBWHM501_01719_SEQ_14,
-15,TEXT_JOBWHM501_01719_SEQ_15,
-16,TEXT_JOBWHM501_01719_SEQ_16,
-17,TEXT_JOBWHM501_01719_SEQ_17,
-18,TEXT_JOBWHM501_01719_SEQ_18,
-19,TEXT_JOBWHM501_01719_SEQ_19,
-20,TEXT_JOBWHM501_01719_SEQ_20,
-21,TEXT_JOBWHM501_01719_SEQ_21,
-22,TEXT_JOBWHM501_01719_SEQ_22,
-23,TEXT_JOBWHM501_01719_SEQ_23,
-24,TEXT_JOBWHM501_01719_TODO_00,和長老樹的拉雅·奧·神納對話
-25,TEXT_JOBWHM501_01719_TODO_01,在秋瓜浮村收集隨從的情報
-26,TEXT_JOBWHM501_01719_TODO_02,尋找艾希娃
-27,TEXT_JOBWHM501_01719_TODO_03,將<hex:022811FF0A>EventItem<hex:F61E8B160103>交給艾希娃
-28,TEXT_JOBWHM501_01719_TODO_04,和長老樹的拉雅·奧·神納對話
-29,TEXT_JOBWHM501_01719_TODO_05,和艾希娃對話
-30,TEXT_JOBWHM501_01719_TODO_06,和秋瓜浮村的艾希娃對話
-31,TEXT_JOBWHM501_01719_TODO_07,
-32,TEXT_JOBWHM501_01719_TODO_08,
-33,TEXT_JOBWHM501_01719_TODO_09,
-34,TEXT_JOBWHM501_01719_TODO_10,
-35,TEXT_JOBWHM501_01719_TODO_11,
-36,TEXT_JOBWHM501_01719_TODO_12,
-37,TEXT_JOBWHM501_01719_TODO_13,
-38,TEXT_JOBWHM501_01719_TODO_14,
-39,TEXT_JOBWHM501_01719_TODO_15,
-40,TEXT_JOBWHM501_01719_TODO_16,
-41,TEXT_JOBWHM501_01719_TODO_17,
-42,TEXT_JOBWHM501_01719_TODO_18,
-43,TEXT_JOBWHM501_01719_TODO_19,
-44,TEXT_JOBWHM501_01719_TODO_20,
-45,TEXT_JOBWHM501_01719_TODO_21,
-46,TEXT_JOBWHM501_01719_TODO_22,
-47,TEXT_JOBWHM501_01719_TODO_23,
-48,TEXT_JOBWHM501_01719_RAYAOSENNA_000_000,<hex:022903EB0203>，你來得正好……<hex:02100103>我需要你的幫助……
-49,TEXT_JOBWHM501_01719_RAYAOSENNA_000_001,現在判明了一件非常危險的事實……<hex:02100103>請你立刻去長老樹，<hex:02100103>詳情我會到那邊再跟你說……拜託了。
-50,TEXT_JOBWHM501_01719_RAYAOSENNA_000_002,現在判明了一件非常危險的事實……<hex:02100103>請你立刻去長老樹，<hex:02100103>詳情我會到那邊再跟你說……拜託了。
-51,TEXT_JOBWHM501_01719_ARUHNSENNA_000_010,謝謝你能來……<hex:02100103>只靠我們的話，真就不知道該怎麼辦了。
-52,TEXT_JOBWHM501_01719_RAYAOSENNA_000_020,……大元靈的狀態如何？
-53,TEXT_JOBWHM501_01719_ARUHNSENNA_000_021,沒什麼變化……<hex:02100103>一直在重覆著同樣的答案。
-54,TEXT_JOBWHM501_01719_RAYAOSENNA_000_022,哎……果然只靠對話找出解決辦法有點困難。
-55,TEXT_JOBWHM501_01719_RAYAOSENNA_000_023,<hex:022903EB0203>，你還記得咱們藉助阿·拓瓦大人的力量，<hex:02100103>鎮撫了寄宿於長老樹的大元靈的事情嗎？
-56,TEXT_JOBWHM501_01719_RAYAOSENNA_000_024,在那之後，我們持續與恢復正常的大元靈進行對話。<hex:02100103>可是最近，大元靈一直在重覆著同樣的話。<hex:02100103>說是有不淨之物流入，正在侵蝕森林。
-57,TEXT_JOBWHM501_01719_ARUHNSENNA_000_025,艾·斯密·雅恩也在進行調查……<hex:02100103>好像說阿·拓瓦大人還活著的時候，<hex:02100103>大元靈也有過同樣的情況。
-58,TEXT_JOBWHM501_01719_ARUHNSENNA_000_026,說不定阿·拓瓦大人生前進行的治癒之旅，<hex:02100103>就是為了從不淨之物手中保護好森林。
-59,TEXT_JOBWHM501_01719_RAYAOSENNA_000_027,只是，有關阿·拓瓦大人治癒之旅的詳細記錄，<hex:02100103>連碩老樹冥想窟裡也沒有留下。<hex:02100103>說是其記錄都交給了同行的隨從管理……
-60,TEXT_JOBWHM501_01719_RAYAOSENNA_000_029,我想拜託你找出這位隨從，<hex:02100103>並將這<hex:022811FF0A>EventItem<hex:F61E8B160103>交給他。<hex:02100103>上面寫明了詳情，並希望他能過來幫忙。
-61,TEXT_JOBWHM501_01719_RAYAOSENNA_000_030,旅行歸鄉的隨從為了管理阿·拓瓦大人的墓碑，<hex:02100103>好像定居在了秋瓜浮村。
-62,TEXT_JOBWHM501_01719_RAYAOSENNA_000_031,你先去秋瓜浮村問問人們隨從在哪吧！<hex:02100103>拜託你了！
-63,TEXT_JOBWHM501_01719_RAYAOSENNA_000_035,不淨之物……不解決掉的話……<hex:02100103><hex:022903EB0203>，拜託你了！
-64,TEXT_JOBWHM501_01719_ARUHNSENNA_000_036,大元靈竟然會有這種反應……<hex:02100103>必須要盡早解決不淨之物才行……
-65,TEXT_JOBWHM501_01719_RAYAOSENNA_000_037,你先去秋瓜浮村問問人們隨從在哪吧！<hex:02100103>拜託你了！
-66,TEXT_JOBWHM501_01719_THIERRAND_000_050,非常抱歉，你所找的人已經去世了……<hex:02100103>現在是由他的孫女艾希娃在管理阿·拓瓦大人的墓碑，<hex:02100103>艾希娃完美地繼承了她祖父的使命。
-67,TEXT_JOBWHM501_01719_THIERRAND_000_051,墓碑立在了黑衣森林的榮耀溪。<hex:02100103>雖說是從先代繼承的使命，<hex:02100103>可那裡魔物四處徘徊，我很是擔心啊……
-68,TEXT_JOBWHM501_01719_SOMERHILD_000_055,阿·拓瓦大人的隨從啊……<hex:02100103>我確實聽說過有人管理著阿·拓瓦大人的墓碑。<hex:02100103>不過，管理人好像是位年輕的女性……
-69,TEXT_JOBWHM501_01719_AELUUIN_000_060,阿·拓瓦大人的隨從啊……<hex:02100103>那個人在幾年前去世了……<hex:02100103>據說直到最後，滿腦子還都是阿·拓瓦大人墓碑的事呢。
-70,TEXT_JOBWHM501_01719_THIERRAND_000_061,他的孫女艾希娃繼承了墓碑的管理，<hex:02100103>據說前幾天有強盜把墓碑弄得很髒亂。<hex:02100103>所以，她最近都在專心整理墓碑。
-71,TEXT_JOBWHM501_01719_THIERRAND_000_052,墓碑立在了黑衣森林的榮耀溪。<hex:02100103>雖說是從先代繼承的使命，<hex:02100103>可那裡魔物四處徘徊，我很是擔心啊……
-72,TEXT_JOBWHM501_01719_SOMERHILD_000_056,阿·拓瓦大人的隨從啊……<hex:02100103>我確實聽說過有人管理著阿·拓瓦大人的墓碑。<hex:02100103>不過，管理人好像是位年輕的女性……
-73,TEXT_JOBWHM501_01719_THIERRAND_000_062,他的孫女艾希娃繼承了墓碑的管理，<hex:02100103>據說前幾天有強盜把墓碑弄得很髒亂。<hex:02100103>所以，她最近都在專心整理墓碑。
-74,TEXT_JOBWHM501_01719_ESCHIVA_000_070,謝謝你……<hex:02100103>我在專心整理墓碑，結果沒注意到身後……
-75,TEXT_JOBWHM501_01719_ESCHIVA_000_071,你是旅行者嗎？<hex:02100103>……什麼！<hex:02100103>你在找角尊阿·拓瓦大人的隨從？
-76,TEXT_JOBWHM501_01719_ESCHIVA_000_072,……我數年前去世的祖父正是那位隨從。<hex:02100103>祖父都已經去世那麼久了，角尊大人到底還有什麼事呢？
-77,TEXT_JOBWHM501_01719_ESCHIVA_000_080,祖父去世後，我便繼承了祖父的使命，<hex:02100103>管理阿·拓瓦大人的墓碑。<hex:02100103>有什麼事的話，就請和我說吧。
-78,TEXT_JOBWHM501_01719_ESCHIVA_000_081,……這是！<hex:02100103>這封信上寫的是真的嗎？<hex:02100103>黑衣森林暴露在了不淨之物的威脅下。
-79,TEXT_JOBWHM501_01719_ESCHIVA_000_082,你推測的沒錯……<hex:02100103>阿·拓瓦大人的治癒之旅，正是前往各地淨化不淨之物……<hex:02100103>消除它們的威脅……
-80,TEXT_JOBWHM501_01719_ESCHIVA_000_084,不淨之物是因為某些原因而產生的汙穢乙太。<hex:02100103>如果不查明原因，直接淨化根源的話，<hex:02100103>是沒辦法完全清除不淨之物的。
-81,TEXT_JOBWHM501_01719_ESCHIVA_000_085,……不過，如果現在的角尊擁有像阿·拓瓦大人一樣，<hex:02100103>為淨化不淨之物而踏上旅途的勇氣的話……
-82,TEXT_JOBWHM501_01719_ESCHIVA_000_086,這件事必須當面向角尊說明才行……<hex:02100103>就由我代替已故的祖父，前往長老樹吧。
-83,TEXT_JOBWHM501_01719_ARUHNSENNA_000_090,竟然需要展開淨化之旅……
-84,TEXT_JOBWHM501_01719_RAYAOSENNA_000_095,現在的角尊會得出什麼樣的答案呢……<hex:02100103>我……
-85,TEXT_JOBWHM501_01719_RAYAOSENNA_000_100,謝謝你幫忙找到艾希娃。<hex:02100103>我都從她那裡聽說了……
-86,TEXT_JOBWHM501_01719_ARUHNSENNA_000_101,為了從不淨之物手中保護森林的話，<hex:02100103>就必須找出其根源並淨化掉它，對吧？
-87,TEXT_JOBWHM501_01719_ESCHIVA_000_102,所以阿·拓瓦大人才身為角尊卻離開了黑衣森林踏上了旅途。
-88,TEXT_JOBWHM501_01719_RAYAOSENNA_000_103,但是，那是因為他是阿·拓瓦大人，所以才能做到……<hex:02100103>我們依照森林的規定，肩負著特殊的使命，<hex:02100103>所以不能輕易離開森林……
-89,TEXT_JOBWHM501_01719_ARUHNSENNA_000_104,<hex:022903EB0203>……<hex:02100103>能否將你的力量藉助於我們，拯救黑衣森林？
-90,TEXT_JOBWHM501_01719_ARUHNSENNA_000_105,身為冒險者的你，不會被森林的規定所束縛，<hex:02100103>可以前往世界各地，對吧？
-91,TEXT_JOBWHM501_01719_ESCHIVA_000_106,身為角尊，在森林危急之時，<hex:02100103>竟然要將拯救森林的重任託付給一介冒險者？
-92,TEXT_JOBWHM501_01719_RAYAOSENNA_000_107,這位<hex:022903EB0203>，並不是普通的冒險者。<hex:02100103><hex:02080DE905FF04>她<hex:FF04>他<hex:03>在繼承靈魂水晶的同時也繼承了阿·拓瓦大人的意志。<hex:02100103>和我們一樣，是正統的白魔法師。
-93,TEXT_JOBWHM501_01719_RAYAOSENNA_000_108,<hex:022903EB0203>的話，應該是可以進行淨化的。<hex:02100103>拜託你了！
-94,TEXT_JOBWHM501_01719_ESCHIVA_000_109,阿·拓瓦大人正統的後繼者……<hex:02100103>竟然會有這樣的人在……
-95,TEXT_JOBWHM501_01719_ESCHIVA_000_110,……我有件事想拜託你。我的祖父曾是阿·拓瓦大人的隨從，<hex:02100103>協助阿·拓瓦大人進行淨化，祖父認為那是崇高的使命，<hex:02100103>所以便賭上性命，與阿·拓瓦大人一同踏上了旅途。
-96,TEXT_JOBWHM501_01719_ESCHIVA_000_111,我多多少少也有些戰鬥的心得。<hex:02100103>所以，能不能讓我也一起踏上旅途？<hex:02100103>我也想像祖父一樣，踏上拯救黑衣森林的旅途……
-97,TEXT_JOBWHM501_01719_RAYAOSENNA_000_112,……真是夠唐突的啊。<hex:02100103>僅僅靠「想像祖父一樣」的心情，<hex:02100103>就去挑戰這危險的旅途嗎？
-98,TEXT_JOBWHM501_01719_ESCHIVA_000_113,……危險與苦難，我都已經做好覺悟了。<hex:02100103>黑衣森林正處危機時刻，我做不到乾等結果，<hex:02100103>怎麼都要去盡全力做一些力所能及的事。
-99,TEXT_JOBWHM501_01719_RAYAOSENNA_000_114,力所能及的事……啊。
-100,TEXT_JOBWHM501_01719_RAYAOSENNA_000_115,……嗯，實際上，有你幫忙的話我們也會放心很多。<hex:02100103>艾希娃，<hex:022903EB0203>就拜託你了！
-101,TEXT_JOBWHM501_01719_RAYAOSENNA_000_116,黑衣森林的命運，就託付給你們了……<hex:02100103>一定要完成使命，並平安歸來！
-102,TEXT_JOBWHM501_01719_ARUHNSENNA_000_120,我們不能隨便離開黑衣森林，<hex:02100103>所以就只能靠冒險者了……
-103,TEXT_JOBWHM501_01719_RAYAOSENNA_000_125,黑衣森林的命運，就託付給你們了……<hex:02100103>一定要完成使命，並平安歸來！
-104,TEXT_JOBWHM501_01719_ESCHIVA_000_140,……我想跟你談談關於旅途的計劃，<hex:02100103>麻煩你先來一趟秋瓜浮村吧。<hex:02100103>而且我也要回去準備一下。
-105,TEXT_JOBWHM501_01719_ESCHIVA_000_150,你來了啊……怎麼說呢，真是可悲啊……<hex:02100103>身為角尊竟然會將森林的命運委託給他人……
-106,TEXT_JOBWHM501_01719_ESCHIVA_000_151,祖父經常跟我講述阿·拓瓦大人為了黑衣森林踏上苦難旅途的故事。<hex:02100103>我從小聽著這個故事長大的……
-107,TEXT_JOBWHM501_01719_ESCHIVA_000_152,當時的我雖然很幼小，卻被那份勇敢打動了心。<hex:02100103>我絕不承認那兩位被陳規所束縛、不敢賦予行動的人是角尊！
-108,TEXT_JOBWHM501_01719_ESCHIVA_000_153,還好有像你這樣的白魔法師在……<hex:02100103>繼承了阿·拓瓦大人意志的你，比那些角尊值得信賴得多！
-109,TEXT_JOBWHM501_01719_ESCHIVA_000_154,然而……咱們就這麼毫無頭緒地踏上旅途也不是辦法。<hex:02100103>我會試著反覆研讀祖父留下的阿·拓瓦大人旅途的記錄。<hex:02100103>相信一定能找到關於這次旅途的線索！
-110,TEXT_JOBWHM501_01719_ESCHIVA_000_155,<hex:022903EB0203>……<hex:02100103>想必這次旅途會很艱苦，請做好充分準備。<hex:02100103>等你做好準備後，再來找我吧。
-111,TEXT_JOBWHM501_01719_SYSTEM_000_156,開啟了新的「白魔法師」任務。<hex:02100103>白魔法師的等級達到52級以上時，<hex:02100103>可以從秋瓜浮村的艾希娃那裡領取下一個白魔法師任務。
-112,TEXT_JOBWHM501_01719_SYSTEM_000_157,可以在已完成的任務日誌中<hex:02100103>確認下一個白魔法師特職任務的領取條件。
+0,"TEXT_JOBWHM501_01719_SEQ_00","Raya-O-Senna has a task of great import for you."
+1,"TEXT_JOBWHM501_01719_SEQ_01","Trouble is afoot in the Twelveswood once more, and Raya–O has dire need of your aid. Do as she bids and meet her before the Guardian Tree in the Central Shroud."
+2,"TEXT_JOBWHM501_01719_SEQ_02","At the Guardian Tree, Raya–O and A–Ruhn inform you of the unsettling change that has come over the great one. The elemental has taken to repeating the same warning that the taint shall flood the Twelveswood, but offers scant details. In order to learn about this threat, the Seedseers bid you seek out a former student of the legendary A–Towa–Cant. Make your way to Fallgourd Float, where the man is said to reside, and ask the locals to point you in his direction."
+3,"TEXT_JOBWHM501_01719_SEQ_03","According to the denizens of Fallgourd Float, A–Towa–Cant's student passed away some years ago, and his granddaughter now tends his master's tomb in his stead. Make your way to Proud Creek, where the tomb is located, and find the granddaughter, a woman named Eschiva."
+4,"TEXT_JOBWHM501_01719_SEQ_04","You arrive at the tomb to find Eschiva under attack from fiends, and you jump to her rescue. Having secured the area, turn your attention now to Eschiva."
+5,"TEXT_JOBWHM501_01719_SEQ_05","Eschiva reads the Seedseers' missive, and is shocked to learn that the taint threatens the Twelveswood once more. The taint, she explains, is befouled aether, and it must be purged at the source. Make your way back to the Guardian Tree and be present for her meeting with the Seedseers."
+6,"TEXT_JOBWHM501_01719_SEQ_06","The two Padjals are dismayed to learn that they must leave the Twelveswood if they are to defeat the taint. With their duties binding them to the forest, it falls to you to undertake the journey of purification, as the great A–Towa–Cant once did. Wishing to emulate her grandfather's deeds, Eschiva begs to join you on your journey. Speak with her again to reaffirm her intent."
+7,"TEXT_JOBWHM501_01719_SEQ_07","Eschiva would make plans for the journey ahead, and invites you to meet her at Fallgourd Float."
+8,"TEXT_JOBWHM501_01719_SEQ_08","At Fallgourd Float, Eschiva openly expresses her displeasure at the two Seedseers for their unwillingness to act. Having given vent to her irritation, she promises to scour her grandfather's records for clues, and bids you see to your own preparations ahead of the grueling journey.<hex:02100103><hex:02100103>※The next white mage quest will be available from Eschiva upon reaching level 52."
+9,"TEXT_JOBWHM501_01719_SEQ_09",""
+10,"TEXT_JOBWHM501_01719_SEQ_10",""
+11,"TEXT_JOBWHM501_01719_SEQ_11",""
+12,"TEXT_JOBWHM501_01719_SEQ_12",""
+13,"TEXT_JOBWHM501_01719_SEQ_13",""
+14,"TEXT_JOBWHM501_01719_SEQ_14",""
+15,"TEXT_JOBWHM501_01719_SEQ_15",""
+16,"TEXT_JOBWHM501_01719_SEQ_16",""
+17,"TEXT_JOBWHM501_01719_SEQ_17",""
+18,"TEXT_JOBWHM501_01719_SEQ_18",""
+19,"TEXT_JOBWHM501_01719_SEQ_19",""
+20,"TEXT_JOBWHM501_01719_SEQ_20",""
+21,"TEXT_JOBWHM501_01719_SEQ_21",""
+22,"TEXT_JOBWHM501_01719_SEQ_22",""
+23,"TEXT_JOBWHM501_01719_SEQ_23",""
+24,"TEXT_JOBWHM501_01719_TODO_00","Speak with Raya-O-Senna at the Guardian Tree."
+25,"TEXT_JOBWHM501_01719_TODO_01","Gather information at Fallgourd Float."
+26,"TEXT_JOBWHM501_01719_TODO_02","Search for Eschiva."
+27,"TEXT_JOBWHM501_01719_TODO_03","Deliver the Seedseers' missive to Eschiva."
+28,"TEXT_JOBWHM501_01719_TODO_04","Speak with Raya-O-Senna at the Guardian Tree."
+29,"TEXT_JOBWHM501_01719_TODO_05","Speak with Eschiva."
+30,"TEXT_JOBWHM501_01719_TODO_06","Speak with Eschiva at Fallgourd Float."
+31,"TEXT_JOBWHM501_01719_TODO_07",""
+32,"TEXT_JOBWHM501_01719_TODO_08",""
+33,"TEXT_JOBWHM501_01719_TODO_09",""
+34,"TEXT_JOBWHM501_01719_TODO_10",""
+35,"TEXT_JOBWHM501_01719_TODO_11",""
+36,"TEXT_JOBWHM501_01719_TODO_12",""
+37,"TEXT_JOBWHM501_01719_TODO_13",""
+38,"TEXT_JOBWHM501_01719_TODO_14",""
+39,"TEXT_JOBWHM501_01719_TODO_15",""
+40,"TEXT_JOBWHM501_01719_TODO_16",""
+41,"TEXT_JOBWHM501_01719_TODO_17",""
+42,"TEXT_JOBWHM501_01719_TODO_18",""
+43,"TEXT_JOBWHM501_01719_TODO_19",""
+44,"TEXT_JOBWHM501_01719_TODO_20",""
+45,"TEXT_JOBWHM501_01719_TODO_21",""
+46,"TEXT_JOBWHM501_01719_TODO_22",""
+47,"TEXT_JOBWHM501_01719_TODO_23",""
+48,"TEXT_JOBWHM501_01719_RAYAOSENNA_000_000","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, you could not have come at a better time! We have dire need of your aid!"
+49,"TEXT_JOBWHM501_01719_RAYAOSENNA_000_001","There isn't time to explain. Know but that trouble is afoot, and I would ask you to meet me at the Guardian Tree."
+50,"TEXT_JOBWHM501_01719_RAYAOSENNA_000_002","Pray make haste to the Guardian Tree. I shall explain the situation when you arrive."
+51,"TEXT_JOBWHM501_01719_ARUHNSENNA_000_010","Thank you for coming on such short notice. We knew not who else we might turn to."
+52,"TEXT_JOBWHM501_01719_RAYAOSENNA_000_020","How fares the great one?"
+53,"TEXT_JOBWHM501_01719_ARUHNSENNA_000_021","Unchanged from before, I'm afraid. He repeats the same words, over and over."
+54,"TEXT_JOBWHM501_01719_RAYAOSENNA_000_022","Then it falls to us to glean their meaning. Very well."
+55,"TEXT_JOBWHM501_01719_RAYAOSENNA_000_023","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. You will recall the time we performed the Quieting and quelled the great one's rage. Since that day, we have continued communing with him to ensure that all is well. And it was, until recently."
+56,"TEXT_JOBWHM501_01719_RAYAOSENNA_000_024","I am afraid to say that an unsettling change came over the great one some days ago. He has taken to repeating the same words to us: “The taint floodeth the forest, its beating heart to befoul.”"
+57,"TEXT_JOBWHM501_01719_ARUHNSENNA_000_025","After some inquiries and research, we were able to learn that the great one has spoken these words before, during the time of A–Towa–Cant."
+58,"TEXT_JOBWHM501_01719_ARUHNSENNA_000_026","Immediately, we were made to wonder: when Master A–Towa embarked upon his journey of healing, could his purpose have been to protect the forest from the taint of which the great one now warns?"
+59,"TEXT_JOBWHM501_01719_RAYAOSENNA_000_027","We sought to delve further into this, but no accounts of Master A–Towa's journey are to be found at Stillglade Fane. Such records as exist are in the keeping of his foremost student, the mage who recovered his remains from O'Ghomoro."
+60,"TEXT_JOBWHM501_01719_RAYAOSENNA_000_029","If he is still alive, he may be able to assist us. We have prepared a missive, and we would ask that you deliver it into his hands."
+61,"TEXT_JOBWHM501_01719_RAYAOSENNA_000_030","After interring his beloved master, the man is said to have taken up residence at Fallgourd Float, that he might ever be near to tend the tomb. If he is there still, the locals should be able to point you in his direction."
+62,"TEXT_JOBWHM501_01719_RAYAOSENNA_000_031","While you see to this task, my brother and I shall remain here and continue observing the great one. My thanks in advance, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>."
+63,"TEXT_JOBWHM501_01719_RAYAOSENNA_000_035","Whatever the taint is, it seems plain we must eliminate it."
+64,"TEXT_JOBWHM501_01719_ARUHNSENNA_000_036","It is deeply unsettling to see the great one behave so."
+65,"TEXT_JOBWHM501_01719_RAYAOSENNA_000_037","The people of Fallgourd Float should know where Master A–Towa's student might be found. I suggest you speak with them first."
+66,"TEXT_JOBWHM501_01719_THIERRAND_000_050","You seek Master A–Towa's former student? I am afraid he has departed for the realm yonder. His granddaughter now tends the tomb at Proud Creek in his stead."
+67,"TEXT_JOBWHM501_01719_THIERRAND_000_051","If truth be told, I am worried about her. The area is thick with fiends, and even experienced Wood Wailers avoid venturing there unaccompanied."
+68,"TEXT_JOBWHM501_01719_SOMERHILD_000_055","A–Towa–Cant's old student? Hm, I'd heard that someone's tending the tomb, but it's a young maid as I recall."
+69,"TEXT_JOBWHM501_01719_AELUUIN_000_060","That old fellow? I'm afraid he passed away some years ago. I remember him well, though. He took care of his master's tomb to the very end."
+70,"TEXT_JOBWHM501_01719_THIERRAND_000_061","His granddaughter Eschiva tends the place now, and she's been especially attentive since those accursed bandits came and defiled it."
+71,"TEXT_JOBWHM501_01719_THIERRAND_000_052","Though Master A–Towa's student is no longer with us, his granddaughter tends the tomb at Proud Creek in his stead. If truth be told, I am worried about her. The area is thick with fiends, and even experienced Wood Wailers avoid venturing there unaccompanied."
+72,"TEXT_JOBWHM501_01719_SOMERHILD_000_056","A–Towa–Cant's old student? Hm, I'd heard that someone's tending the tomb, but it's a young maid as I recall."
+73,"TEXT_JOBWHM501_01719_THIERRAND_000_062","The old fellow they say was A–Towa–Cant's student passed away some years ago. His granddaughter Eschiva tends the tomb now, and she's been especially attentive since bandits defiled it."
+74,"TEXT_JOBWHM501_01719_ESCHIVA_000_070","<pant> Th-Thank you so much... So focused was I on tending the tomb, I failed to notice the fiends approaching me..."
+75,"TEXT_JOBWHM501_01719_ESCHIVA_000_071","What? You're searching for the granddaughter of Master A–Towa's former student?"
+76,"TEXT_JOBWHM501_01719_ESCHIVA_000_072","Then you need search no more. I am Eschiva."
+77,"TEXT_JOBWHM501_01719_ESCHIVA_000_080","Know that I have taken on my grandfather's responsibilities. If it is within my power to help the Seedseers, then I should be glad to do so."
+78,"TEXT_JOBWHM501_01719_ESCHIVA_000_081","The taint threatens the Twelveswood? Nophica have mercy..."
+79,"TEXT_JOBWHM501_01719_ESCHIVA_000_082","As the Seedseers have surmised, 'twas to purge the taint that Master A–Towa journeyed the length and breadth of the realm."
+80,"TEXT_JOBWHM501_01719_ESCHIVA_000_084","Simply put, the taint is aether that has been befouled. If we are to be rid of it, we must find the source of the corruption and cleanse it."
+81,"TEXT_JOBWHM501_01719_ESCHIVA_000_085","The question is, are the Seedseers prepared to do as Master A–Towa once did?"
+82,"TEXT_JOBWHM501_01719_ESCHIVA_000_086","At any rate, it is best that I speak with them directly. I shall make my way to the Guardian Tree at once. "
+83,"TEXT_JOBWHM501_01719_ARUHNSENNA_000_090","A journey...outside the forest?"
+84,"TEXT_JOBWHM501_01719_RAYAOSENNA_000_095","The Seedseers know what they must do. But are they willing to do it?"
+85,"TEXT_JOBWHM501_01719_RAYAOSENNA_000_100","My thanks for finding Eschiva, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. She has told us all."
+86,"TEXT_JOBWHM501_01719_ARUHNSENNA_000_101","If we are to protect the Twelveswood from the taint, we must needs deal with the corruption at its source. Is that the way of it?"
+87,"TEXT_JOBWHM501_01719_ESCHIVA_000_102","It is. That was why Master A–Towa embarked upon his journey, heedless of his Padjali heritage."
+88,"TEXT_JOBWHM501_01719_RAYAOSENNA_000_103","And yet Master A–Towa was no ordinary Padjal... We are duty-bound to remain in the forest─we cannot simply leave it."
+89,"TEXT_JOBWHM501_01719_ARUHNSENNA_000_104","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. I am loath to ask this of you, after all you have already done for us, but the preservation of the Twelveswood is at stake."
+90,"TEXT_JOBWHM501_01719_ARUHNSENNA_000_105","You are not Padjali, and hence are not bound by the laws which bind us. Will you embark upon this quest in our stead?"
+91,"TEXT_JOBWHM501_01719_ESCHIVA_000_106","With all due respect, I cannot believe what I'm hearing! You would entrust the fate of the forest to an adventurer!?"
+92,"TEXT_JOBWHM501_01719_RAYAOSENNA_000_107","Calm yourself, and know that <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> is no ordinary adventurer. Nay, <hex:02080CE905FF04>she<hex:FF03>he<hex:03> is a white mage true, chosen by Master A–Towa himself to be his successor. <hex:02080CE905FF04>She<hex:FF03>He<hex:03> bears his soul crystal and his legacy both."
+93,"TEXT_JOBWHM501_01719_RAYAOSENNA_000_108","I have every confidence that you will be able to purge the taint. As such, I would join my voice to my brother's request."
+94,"TEXT_JOBWHM501_01719_ESCHIVA_000_109","Master A–Towa's successor? That such an individual existed..."
+95,"TEXT_JOBWHM501_01719_ESCHIVA_000_110","I wish to make a request of my own. In his youth, my grandfather served Master A–Towa proudly, accompanying him wheresoever he went and assisting in purification rituals."
+96,"TEXT_JOBWHM501_01719_ESCHIVA_000_111","It has ever been my desire to emulate my grandfather's deeds. If <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> is to undertake this quest to eliminate the taint, I would likewise accompany and assist <hex:02080DE905FF04>her<hex:FF04>him<hex:03>."
+97,"TEXT_JOBWHM501_01719_RAYAOSENNA_000_112","The journey will be fraught with peril. Are you willing to risk life and limb solely for the sake of emulating your grandfather?"
+98,"TEXT_JOBWHM501_01719_ESCHIVA_000_113","I am, my lady, but that is not the whole of it. I cannot sit idly by while a threat encroaches upon the Twelveswood. It is our home, and we each of us must do our part to protect it."
+99,"TEXT_JOBWHM501_01719_RAYAOSENNA_000_114","Our part..."
+100,"TEXT_JOBWHM501_01719_RAYAOSENNA_000_115","I see that your heart is true. Very well. Assuming that <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> consents─and I see no reason why <hex:02080CE905FF04>she<hex:FF03>he<hex:03> would not─you have our blessing to accompany <hex:02080DE905FF04>her<hex:FF04>him<hex:03>."
+101,"TEXT_JOBWHM501_01719_RAYAOSENNA_000_116","The fate of the Twelveswood is in your hands. We shall pray for your success."
+102,"TEXT_JOBWHM501_01719_ARUHNSENNA_000_120","'Tis no simple matter for a Padjal to leave the Twelveswood. Once again, we must rely upon you, my friend."
+103,"TEXT_JOBWHM501_01719_RAYAOSENNA_000_125","The fate of the Twelveswood is in your hands. We shall pray for your success."
+104,"TEXT_JOBWHM501_01719_ESCHIVA_000_140","We will need to make plans for the journey. Please come and see me at Fallgourd Float."
+105,"TEXT_JOBWHM501_01719_ESCHIVA_000_150","Hmph! And they call themselves Padjals!"
+106,"TEXT_JOBWHM501_01719_ESCHIVA_000_151","You wonder at my irritation, I shouldn't doubt. I suppose I ought to explain. You see, I was brought up on the tales of Master A–Towa's journeys─the sufferings he endured for the sake of the Twelveswood."
+107,"TEXT_JOBWHM501_01719_ESCHIVA_000_152","Young though I was, I was deeply touched by his courage and sacrifice, and to this day his deeds remain close to my heart. That is why it irks me that the Seedseers will not lift a finger to help the forest!"
+108,"TEXT_JOBWHM501_01719_ESCHIVA_000_153","But thankfully, we have you. As Master A–Towa's chosen, you are far more dependable than any Padjal alive."
+109,"TEXT_JOBWHM501_01719_ESCHIVA_000_154","Now then, let us speak of our journey. Grandfather left his records of Master A–Towa's journeys in my keeping. I shall scour them for clues as to where we must go."
+110,"TEXT_JOBWHM501_01719_ESCHIVA_000_155","While I do this, pray attend to your own preparations. I shall be here when you are ready to strike out."
+111,"TEXT_JOBWHM501_01719_SYSTEM_000_156","The next white mage quest will be available from Eschiva upon reaching level 52."
+112,"TEXT_JOBWHM501_01719_SYSTEM_000_157","The requirements for undertaking subsequent quests can be reviewed in your journal."

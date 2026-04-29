@@ -2,125 +2,125 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_FESNYR902_04589_SEQ_00,※本任務是特定期間內的任務。<hex:02100103><hex:02100103>利姆薩·羅敏薩的東方好運簽術士很在意抽了好運簽的人們。
-1,TEXT_FESNYR902_04589_SEQ_01,※本任務只有在季節活動開放期間才能接受和進行。<hex:02100103>　季節活動結束後無法進行，敬請注意。<hex:02100103>　詳情請參見官方網站。<hex:02100103><hex:02100103>東方好運簽術士很擔心抽到大凶的博德富安。對博德富安使用情感動作「鼓勵」。
-2,TEXT_FESNYR902_04589_SEQ_02,博德富安看起來相當失落。對博德富安使用情感動作「激勵」。
-3,TEXT_FESNYR902_04589_SEQ_03,博德富安懷揣著對希爾德拉娜的擔憂，跑出了城外。前往拉諾西亞低地追上博德富安，在他受傷時為他治療。
-4,TEXT_FESNYR902_04589_SEQ_04,成功救助了博德富安和希爾德拉娜，可博德富安心愛的鎧甲卻受損嚴重。向利姆薩·羅敏薩艦尾樓的東方好運簽術士報告。
-5,TEXT_FESNYR902_04589_SEQ_05,博德富安雖然失去了心愛的鎧甲，但東方好運簽術士將降神節的新鎧甲作為禮物送給了他。根據東方好運簽術士所說，只要改變寄託給好運簽的祈願，那冒險者想抽幾次好運簽都是可以的。他希望冒險者能在降神節期間繼續享受慶典的快樂。
-6,TEXT_FESNYR902_04589_SEQ_06,
-7,TEXT_FESNYR902_04589_SEQ_07,
-8,TEXT_FESNYR902_04589_SEQ_08,
-9,TEXT_FESNYR902_04589_SEQ_09,
-10,TEXT_FESNYR902_04589_SEQ_10,
-11,TEXT_FESNYR902_04589_SEQ_11,
-12,TEXT_FESNYR902_04589_SEQ_12,
-13,TEXT_FESNYR902_04589_SEQ_13,
-14,TEXT_FESNYR902_04589_SEQ_14,
-15,TEXT_FESNYR902_04589_SEQ_15,
-16,TEXT_FESNYR902_04589_SEQ_16,
-17,TEXT_FESNYR902_04589_SEQ_17,
-18,TEXT_FESNYR902_04589_SEQ_18,
-19,TEXT_FESNYR902_04589_SEQ_19,
-20,TEXT_FESNYR902_04589_SEQ_20,
-21,TEXT_FESNYR902_04589_SEQ_21,
-22,TEXT_FESNYR902_04589_SEQ_22,
-23,TEXT_FESNYR902_04589_SEQ_23,
-24,TEXT_FESNYR902_04589_TODO_00,對博德富安做「鼓勵」的情感動作
-25,TEXT_FESNYR902_04589_TODO_01,對博德富安使用情感動作「激勵」
-26,TEXT_FESNYR902_04589_TODO_02,在拉諾西亞低地尋找博德富安
-27,TEXT_FESNYR902_04589_TODO_03,和利姆薩·羅敏薩的東方好運簽術士對話
-28,TEXT_FESNYR902_04589_TODO_04,
-29,TEXT_FESNYR902_04589_TODO_05,
-30,TEXT_FESNYR902_04589_TODO_06,
-31,TEXT_FESNYR902_04589_TODO_07,
-32,TEXT_FESNYR902_04589_TODO_08,
-33,TEXT_FESNYR902_04589_TODO_09,
-34,TEXT_FESNYR902_04589_TODO_10,
-35,TEXT_FESNYR902_04589_TODO_11,
-36,TEXT_FESNYR902_04589_TODO_12,
-37,TEXT_FESNYR902_04589_TODO_13,
-38,TEXT_FESNYR902_04589_TODO_14,
-39,TEXT_FESNYR902_04589_TODO_15,
-40,TEXT_FESNYR902_04589_TODO_16,
-41,TEXT_FESNYR902_04589_TODO_17,
-42,TEXT_FESNYR902_04589_TODO_18,
-43,TEXT_FESNYR902_04589_TODO_19,
-44,TEXT_FESNYR902_04589_TODO_20,
-45,TEXT_FESNYR902_04589_TODO_21,
-46,TEXT_FESNYR902_04589_TODO_22,
-47,TEXT_FESNYR902_04589_TODO_23,
-48,TEXT_FESNYR902_04589_HILDELANA_000_104,哈哈哈！<hex:02100103>好運簽可真好玩啊！
-49,TEXT_FESNYR902_04589_BEAUDEFOIN_000_105,這個吧……個人看個人吧……
-50,TEXT_FESNYR902_04589_OMIKUJISHI_000_001,對了，我能再佔用你一點時間嗎？
-51,TEXT_FESNYR902_04589_OMIKUJISHI_000_002,多虧了你的幫助，<hex:02100103>有這麼多人來體驗了好運簽的樂趣……<hex:02100103>你看，大家多開心啊。
-52,TEXT_FESNYR902_04589_OMIKUJISHI_000_003,那兩位冒險者……<hex:02100103>抽到了完全相反的結果……
-53,TEXT_FESNYR902_04589_HILDELANA_000_004,哈哈哈！<hex:02100103>我抽到了大吉，天不怕地不怕啦！<hex:02100103>趁我現在運氣好，趕緊去搞一票大的！
-54,TEXT_FESNYR902_04589_BEAUDEFOIN_000_005,啊……該死……<hex:02100103>難得過個降神節，抽出一個大凶……
-55,TEXT_FESNYR902_04589_OMIKUJISHI_000_006,算啦算啦，不要這麼失落啦。<hex:02100103>所謂好運簽，確實是在占卜吉凶，<hex:02100103>但其實也是一個讓你反省自己日常生活的啟示。
-56,TEXT_FESNYR902_04589_OMIKUJISHI_000_007,即使抽到了大吉，掉以輕心也會馬失前蹄變成大凶。<hex:02100103>抽到大凶呢，如果踏踏實實過日子，也能逢凶化吉，安穩度過。<hex:02100103>決定你生活的是你自己，以後會變好的。
-57,TEXT_FESNYR902_04589_BEAUDEFOIN_000_008,……我都愣住了……<hex:02100103>希爾德拉娜她倒是挺開心的……
-58,TEXT_FESNYR902_04589_OMIKUJISHI_000_009,哎呀呀，這就糟糕了……<hex:02100103>要不，你去「鼓勵」他一下吧？
-59,TEXT_FESNYR902_04589_OMIKUJISHI_000_010,博德富安看起來真的很失落。<hex:02100103>要不，你去「鼓勵「他一下吧？
-60,TEXT_FESNYR902_04589_BEAUDEFOIN_000_120,唉……我不行了……
-61,TEXT_FESNYR902_04589_SYSTEM_000_121,博德富安看起來相當失落。<hex:02100103>對他使用情感動作「鼓勵」，讓他恢復活力。
-62,TEXT_FESNYR902_04589_BEAUDEFOIN_000_020,唉……我不行了……
-63,TEXT_FESNYR902_04589_SYSTEM_000_021,博德富安看起來相當失落。<hex:02100103>對他使用情感動作「鼓勵」，讓他恢復活力。
-64,TEXT_FESNYR902_04589_BEAUDEFOIN_000_022,謝謝你鼓勵我……<hex:02100103>但是……那可是大凶啊！<hex:02100103>唉……
-65,TEXT_FESNYR902_04589_OMIKUJISHI_000_023,唔，看來光是鼓勵已經不管用了。<hex:02100103>也怪我讓他抽了好運簽，他變成這樣我也有責任……<hex:02100103>能請你再試試看「激勵」博德富安嗎。
-66,TEXT_FESNYR902_04589_OMIKUJISHI_000_024,看起來他這不是普通程度的失落啊。<hex:02100103>請你再試試看「激勵」博德富安。
-67,TEXT_FESNYR902_04589_BEAUDEFOIN_000_130,唉……我心情好差啊……真的……
-68,TEXT_FESNYR902_04589_SYSTEM_000_131,博德富安還是非常失落。<hex:02100103>向他使用情感動作「激勵」，讓他恢復活力。
-69,TEXT_FESNYR902_04589_BEAUDEFOIN_000_030,唉……我心情好差啊……真的……
-70,TEXT_FESNYR902_04589_SYSTEM_000_031,博德富安還是非常失落。<hex:02100103>向他使用情感動作「激勵」，讓他恢復活力。
-71,TEXT_FESNYR902_04589_BEAUDEFOIN_000_032,真、真是振奮人心啊！<hex:02100103>你的激勵讓我活過來了……但是……
-72,TEXT_FESNYR902_04589_OMIKUJISHI_000_033,太好了，你總算心情好一些了。
-73,TEXT_FESNYR902_04589_OMIKUJISHI_000_034,既然這樣的話……你不如仔細看看簽文寫了什麼？<hex:02100103>就像我剛才說過的，<hex:02100103>好運簽的簽文其實是一種對你生活的啟示。
-74,TEXT_FESNYR902_04589_BEAUDEFOIN_000_035,……抱歉，我失落得像個小孩子一樣。<hex:02100103>我剛才確實太震驚了，都沒仔細看簽文的內容。<hex:02100103>現在趁著還沒繫到架子上先打開看看吧。
-75,TEXT_FESNYR902_04589_BEAUDEFOIN_000_036,「冒險：不可一人獨行。<hex:02100103>財產：謹記小心謹慎，會失去重要裝備。」<hex:02100103>……
-76,TEXT_FESNYR902_04589_BEAUDEFOIN_000_037,……嗚嗚……我不該看的……<hex:02100103>我的鎧甲，我存了好久的錢，才剛買的……<hex:02100103>我好喜歡的，這就要沒了嗎……
-77,TEXT_FESNYR902_04589_OMIKUJISHI_000_038,等一等，先把它看完，最後不是有啟示嗎！
-78,TEXT_FESNYR902_04589_OMIKUJISHI_000_039,「你當像海神系網捕魚、照料漁網那樣<hex:02100103>維繫你與夥伴的關係，友愛親朋，和睦手足。」<hex:02100103>……怎麼樣，是個好建議吧？
-79,TEXT_FESNYR902_04589_Q1_000_000,要說什麼？
-80,TEXT_FESNYR902_04589_A1_000_001,只要你關愛夥伴就會轉運
-81,TEXT_FESNYR902_04589_A1_000_002,能改變你的只有你自己
-82,TEXT_FESNYR902_04589_BEAUDEFOIN_000_041,沒錯……你說得對。<hex:02100103>哎呀，多虧了你們，我好多了！
-83,TEXT_FESNYR902_04589_MOCHIDAIKAN_000_042,不好啦！大事不好啦！
-84,TEXT_FESNYR902_04589_OMIKUJISHI_000_043,年糕官！<hex:02100103>怎麼了，你不是應該在附近發年糕嗎？
-85,TEXT_FESNYR902_04589_MOCHIDAIKAN_000_044,是啊……<hex:02100103>俺本來正在城外準備降神糕呢！
-86,TEXT_FESNYR902_04589_MOCHIDAIKAN_000_045,結果有個冒險者大姐，興冲冲地從城裡跑出來，<hex:02100103>就去挑戰大型魔獸，結果當場就趴下了！<hex:02100103>俺這才趕緊跑來找人幫忙！
-87,TEXT_FESNYR902_04589_OMIKUJISHI_000_046,興冲冲地……難道是希爾德拉娜？！
-88,TEXT_FESNYR902_04589_BEAUDEFOIN_000_047,怎麼會這樣？！<hex:02100103>希爾德拉娜她不是抽到了大吉嗎？！
-89,TEXT_FESNYR902_04589_BEAUDEFOIN_000_048,不，現在不是考慮這種問題的時候！<hex:02100103>我這就來救你了！等我，希爾德拉娜——！
-90,TEXT_FESNYR902_04589_OMIKUJISHI_000_049,啊……博德富安！
-91,TEXT_FESNYR902_04589_OMIKUJISHI_000_050,這太讓人擔心了……<hex:02100103>這該怎麼辦才好。
-92,TEXT_FESNYR902_04589_OMIKUJISHI_000_051,你看起來也是一位很有能力的冒險者吧……<hex:02100103>能請你去追上博德富安嗎？<hex:02100103>如果他那裡情況不妙的話，請你幫幫他！
-93,TEXT_FESNYR902_04589_MOCHIDAIKAN_000_052,快走，就在那邊！
-94,TEXT_FESNYR902_04589_OMIKUJISHI_000_053,抱歉，我完全不懂要怎麼戰鬥……沒法跟你一起去。<hex:02100103>博德富安和希爾德拉娜就拜託你了。
-95,TEXT_FESNYR902_04589_HILDELANA_000_161,抱歉，麻煩你跑一趟……
-96,TEXT_FESNYR902_04589_BEAUDEFOIN_000_060,啊，你也來了！<hex:02100103>雖然吃了點苦頭，不過我們倆沒什麼大事。
-97,TEXT_FESNYR902_04589_HILDELANA_000_061,公會給的任務很順利就做完了，<hex:02100103>但是我太貪心了，追著怪物跑出去之後遇到了大古菩猩猩……<hex:02100103>要不是博德富安來了，我就危險了。
-98,TEXT_FESNYR902_04589_BEAUDEFOIN_000_062,這就是簽文說的一個人會有危險是吧。<hex:02100103>還好我趕上了，太好了！
-99,TEXT_FESNYR902_04589_HILDELANA_000_063,真是多虧了你！<hex:02100103>不過博德富安你的鎧甲……
-100,TEXT_FESNYR902_04589_BEAUDEFOIN_000_064,啊，你說這個？<hex:02100103>我剛才想耍個帥，幫你擋一下攻擊，<hex:02100103>結果被打到的地方就壞了……
-101,TEXT_FESNYR902_04589_BEAUDEFOIN_000_065,真是的，沒想到都和好運簽說的一模一樣。<hex:02100103>不過，希爾德拉娜沒事就好。
-102,TEXT_FESNYR902_04589_BEAUDEFOIN_000_066,那我倆就先去鑄甲匠公會那邊看看鎧甲再回去。<hex:02100103>之後再跟你聊。
-103,TEXT_FESNYR902_04589_MOCHIDAIKAN_000_067,俺還以為要出大事了，太好了太好了。<hex:02100103>東方好運簽術士估計也在著急呢，<hex:02100103>趕快回去跟他說一聲吧！
-104,TEXT_FESNYR902_04589_MOCHIDAIKAN_000_069,哦哦，回來了！<hex:02100103>你記得也去跟老哥說一聲。
-105,TEXT_FESNYR902_04589_OMIKUJISHI_000_070,哦哦，太好了，你回來了！<hex:02100103>快跟我說說，情況怎麼樣了？
-106,TEXT_FESNYR902_04589_OMIKUJISHI_000_071,你們倆都沒事嗎，那太好了！<hex:02100103>要是你們倆因為好運簽受了傷，<hex:02100103>那我可就難辭其咎了。
-107,TEXT_FESNYR902_04589_HILDELANA_000_072,讓你擔心了……<hex:02100103>我仗著抽了大吉，不自量力沖得太遠。<hex:02100103>果然運氣不能決定一切，工作還是要小心謹慎才行。
-108,TEXT_FESNYR902_04589_HILDELANA_000_073,其實我抽到的好運簽上面寫了，<hex:02100103>「冒險：認清極限，開拓未來」，<hex:02100103>是我沒能照做……
-109,TEXT_FESNYR902_04589_HILDELANA_000_074,對了對了，還有這麼一句話。<hex:02100103>「關係：會受到好友的恩惠」……這句話可是全中了！
-110,TEXT_FESNYR902_04589_MOCHIDAIKAN_000_075,話說回來了，俺記得你說你的鎧甲壞了吧？<hex:02100103>那件鎧甲怎麼樣了？
-111,TEXT_FESNYR902_04589_BEAUDEFOIN_000_076,這個……其實壞得比想像中的還要嚴重，挺不妙的。<hex:02100103>鑄甲匠那邊的意思是，讓我乾脆買套新的吧……<hex:02100103>不過我手頭正好有點緊，正不知道怎麼辦呢……
-112,TEXT_FESNYR902_04589_RABBITMISSIONARY_000_077,唔……這樣的話正好啊！<hex:02100103>我們這邊有好幾件鎧甲，準備送給那些幫助我們舉辦降神節的人。<hex:02100103>像你這樣捨身拯救同伴的人，該得到一件的！
-113,TEXT_FESNYR902_04589_BEAUDEFOIN_000_078,哎、哎？！<hex:02100103>可、可以嗎？還有這種好事！
-114,TEXT_FESNYR902_04589_RABBITMISSIONARY_000_079,這也是好運簽結下的緣分之一嘛……<hex:02100103>請你不用顧慮，收下這件禮物吧！
-115,TEXT_FESNYR902_04589_BEAUDEFOIN_000_080,哇哇，好棒！<hex:02100103>我要不是抽到大凶，還得不到這麼棒的鎧甲呢！哈哈！
-116,TEXT_FESNYR902_04589_OMIKUJISHI_000_081,不不，這都是你自己的努力得來的結果！<hex:02100103>穿著正合適！
-117,TEXT_FESNYR902_04589_OMIKUJISHI_000_082,你的簽文上也有寫「切莫獨自行動」，<hex:02100103>也就是說，多虧了你為夥伴挺身而出，<hex:02100103>才能讓抽到的大凶轉運，逢凶化吉。
-118,TEXT_FESNYR902_04589_HILDELANA_000_083,這可真是讓人感慨！<hex:02100103>我們今後也會像這樣繼續互相幫助，一起冒險的。
-119,TEXT_FESNYR902_04589_OMIKUJISHI_000_084,總之，雖然出了些意料之外的事情，<hex:02100103>但還是謝謝你幫我們這麼多忙！
-120,TEXT_FESNYR902_04589_OMIKUJISHI_000_085,請允許我們把這件鎧甲贈送給你，表達我們對你幫助的感謝！<hex:02100103>還有，如果你什麼時候想要抽好運簽了，就來找我！<hex:02100103>想抽幾次都可以！
-121,TEXT_FESNYR902_04589_SYSTEM_000_086,與東方好運簽術士對話，即可抽取好運簽！<hex:02100103>在季節活動期間，可以多次抽取好運簽。<hex:02100103>請盡情享受本次活動。
+0,"TEXT_FESNYR902_04589_SEQ_00","The Far Eastern omikujishi appears troubled by what he is seeing.<hex:02100103><hex:02100103>※This quest is available for a limited time only."
+1,"TEXT_FESNYR902_04589_SEQ_01","Concerned by the Far Eastern omikujishi's worried expression, you approach him once more to discover what may have caused the furrow in his brow. Before you can say a word, however, he asks for a moment of your time, nodding in Beaudefoin's direction. His desire to lift the adventurer's spirits is quickly apparent, and though he makes a valiant effort to do so, the despondent man can no longer see reason. Convinced that his words cannot reach the down-on-his-luck adventurer, the omikujishi instead turns to you, asking that you too make an attempt to cheer the poor man up.<hex:02100103><hex:02100103>※Please note that you will be unable to complete this quest after the seasonal event has ended. For details, please check the Lodestone."
+2,"TEXT_FESNYR902_04589_SEQ_02","Despite your best efforts to rally Beaudefoin's spirits, it is to no avail. The omikujishi refuses to give up on the crestfallen man, however, and asks that you try to reach him once more with a different approach."
+3,"TEXT_FESNYR902_04589_SEQ_03","Seeing that your second attempt to rouse Beaudefoin is unfruitful, the omikujishi bids him recite the contents of the fortune, only to discover the dejected man had never read the whole thing. And yet, upon reading it, Beaudefoin somehow manages to sink even further into the depths of despair. The omikujishi, having at last lost patience, reads the remainder of the fortune himself. The fortune's final words of guidance, and a well-placed remark from yourself are what finally release Beaudefoin from the clutches of his own fear. But no sooner has he been made to see reason than the mochi daikan appears before you out of breath, bringing distressing news of an adventurer in trouble. Believing this adventurer to be Hildelana, Beaudefoin rushes off to the rescue. Concerned whether Beaudefoin is in the right state of mind to be saving anyone, the omikujishi asks that you follow after him, to which you oblige."
+4,"TEXT_FESNYR902_04589_SEQ_04","Though you find Hildelana and Beaudefoin free from any serious harm, the same cannot be said for Beaudefoin's beloved armor. The adventurer pair set off to visit the armorer and promise to find you again later. The mochi daikan suggests that you both return to Limsa Lominsa, and report the current state of affairs to the omikujishi."
+5,"TEXT_FESNYR902_04589_SEQ_05","Just as you finish reciting the tale of Beaudefoin and Hildelana's rescue to the omikujishi, the pair return as promised. Having heard that naught can be done for Beaudefoin's armor, and moved by his selfless act, the usagi bugyo insists that the adventurer accept a set of yoroi from the Far Eastern delegation. The omikujishi reminds the flabbergasted man, still unable to believe his luck, that omikuji should be seen as a guide, and not as one's fate set in stone. With a new set of armor in tow, Beaudefoin and Hildelana are ready to set off on a new adventure, their bond of friendship tempered by the day's events. Turning to you, the omikujishi thanks you for your service, offering you a set of yoroi of your own, and the opportunity to draw as many omikuji as you wish. With your obligations thus fulfilled, you are free to enjoy the remainder of the festivities to your heart's content."
+6,"TEXT_FESNYR902_04589_SEQ_06",""
+7,"TEXT_FESNYR902_04589_SEQ_07",""
+8,"TEXT_FESNYR902_04589_SEQ_08",""
+9,"TEXT_FESNYR902_04589_SEQ_09",""
+10,"TEXT_FESNYR902_04589_SEQ_10",""
+11,"TEXT_FESNYR902_04589_SEQ_11",""
+12,"TEXT_FESNYR902_04589_SEQ_12",""
+13,"TEXT_FESNYR902_04589_SEQ_13",""
+14,"TEXT_FESNYR902_04589_SEQ_14",""
+15,"TEXT_FESNYR902_04589_SEQ_15",""
+16,"TEXT_FESNYR902_04589_SEQ_16",""
+17,"TEXT_FESNYR902_04589_SEQ_17",""
+18,"TEXT_FESNYR902_04589_SEQ_18",""
+19,"TEXT_FESNYR902_04589_SEQ_19",""
+20,"TEXT_FESNYR902_04589_SEQ_20",""
+21,"TEXT_FESNYR902_04589_SEQ_21",""
+22,"TEXT_FESNYR902_04589_SEQ_22",""
+23,"TEXT_FESNYR902_04589_SEQ_23",""
+24,"TEXT_FESNYR902_04589_TODO_00","/rally Beaudefoin's spirits."
+25,"TEXT_FESNYR902_04589_TODO_01","/psych Beaudefoin up."
+26,"TEXT_FESNYR902_04589_TODO_02","Search for Beaudefoin in lower La Noscea."
+27,"TEXT_FESNYR902_04589_TODO_03","Speak with the Far Eastern omikujishi in Limsa Lominsa."
+28,"TEXT_FESNYR902_04589_TODO_04",""
+29,"TEXT_FESNYR902_04589_TODO_05",""
+30,"TEXT_FESNYR902_04589_TODO_06",""
+31,"TEXT_FESNYR902_04589_TODO_07",""
+32,"TEXT_FESNYR902_04589_TODO_08",""
+33,"TEXT_FESNYR902_04589_TODO_09",""
+34,"TEXT_FESNYR902_04589_TODO_10",""
+35,"TEXT_FESNYR902_04589_TODO_11",""
+36,"TEXT_FESNYR902_04589_TODO_12",""
+37,"TEXT_FESNYR902_04589_TODO_13",""
+38,"TEXT_FESNYR902_04589_TODO_14",""
+39,"TEXT_FESNYR902_04589_TODO_15",""
+40,"TEXT_FESNYR902_04589_TODO_16",""
+41,"TEXT_FESNYR902_04589_TODO_17",""
+42,"TEXT_FESNYR902_04589_TODO_18",""
+43,"TEXT_FESNYR902_04589_TODO_19",""
+44,"TEXT_FESNYR902_04589_TODO_20",""
+45,"TEXT_FESNYR902_04589_TODO_21",""
+46,"TEXT_FESNYR902_04589_TODO_22",""
+47,"TEXT_FESNYR902_04589_TODO_23",""
+48,"TEXT_FESNYR902_04589_HILDELANA_000_104","Goodness, I can't believe I'd never heard of omikuji before this!"
+49,"TEXT_FESNYR902_04589_BEAUDEFOIN_000_105","Ugh, what am I supposed to do now...?"
+50,"TEXT_FESNYR902_04589_OMIKUJISHI_000_001","Forgive me, my friend, but might I ask for another moment of your time?"
+51,"TEXT_FESNYR902_04589_OMIKUJISHI_000_002","In no small part due to your assistance, many are enjoying their first experience with omikuji. For some, however, it appears to be a source of stress..."
+52,"TEXT_FESNYR902_04589_OMIKUJISHI_000_003","These two adventurers, for example, drew opposite results..."
+53,"TEXT_FESNYR902_04589_HILDELANA_000_004","“Great fortune,” it says! Can you believe it!? That means I have naught to fear... Aye, this is my chance to make it big as an adventurer!"
+54,"TEXT_FESNYR902_04589_BEAUDEFOIN_000_005","Seven hells, what a dreadful Heavensturn this turned out to be... “Grave misfortune”? What did I do to deserve such rotten luck?"
+55,"TEXT_FESNYR902_04589_OMIKUJISHI_000_006","Do not be so disheartened, my friend. Though omikuji may foretell fortune and misfortune, they also provide us with guidance in our daily lives."
+56,"TEXT_FESNYR902_04589_OMIKUJISHI_000_007","A great blessing can become a curse should one view it as a license to act rashly. Similarly, a great curse can become a blessing should one heed its warning. What you make of your lot depends on you."
+57,"TEXT_FESNYR902_04589_BEAUDEFOIN_000_008","So you say...but just look at Hildelana. At how happy she is. Why can't I be like that..."
+58,"TEXT_FESNYR902_04589_OMIKUJISHI_000_009","My words failed to reach him, alas, but perhaps yours can. Could you try to <hex:024804F201F403><hex:024904F201F503>rally<hex:0249020103><hex:0248020103> his spirits?"
+59,"TEXT_FESNYR902_04589_OMIKUJISHI_000_010","I cannot bear to see the poor man this way. Please, try to <hex:024804F201F403><hex:024904F201F503>rally<hex:0249020103><hex:0248020103> his spirits."
+60,"TEXT_FESNYR902_04589_BEAUDEFOIN_000_120","Ah, woe is me! What am I to do when misfortune awaits me at every turn?"
+61,"TEXT_FESNYR902_04589_SYSTEM_000_121","Beaudefoin is crestfallen. Perhaps there is something you can do to <hex:024804F201F403><hex:024904F201F503>rally<hex:0249020103><hex:0248020103> his spirits."
+62,"TEXT_FESNYR902_04589_BEAUDEFOIN_000_020","Ah, woe is me! What am I to do when misfortune awaits me at every turn?"
+63,"TEXT_FESNYR902_04589_SYSTEM_000_021","Beaudefoin is crestfallen. Perhaps there is something you can do to <hex:024804F201F403><hex:024904F201F503>rally<hex:0249020103><hex:0248020103> his spirits."
+64,"TEXT_FESNYR902_04589_BEAUDEFOIN_000_022","Thank you for trying to cheer me up. I appreciate it, truly. But you do not understand the burden I bear. The burden of “grave misfortune” that weighs heavily upon my soul..."
+65,"TEXT_FESNYR902_04589_OMIKUJISHI_000_023","This is rather more serious than I thought... Please, can you think of any other ways to lift him out of his malaise?"
+66,"TEXT_FESNYR902_04589_OMIKUJISHI_000_024","The man seems convinced that he is hopelessly cursed, which is not at all the case. Please, try to lift him out of his malaise."
+67,"TEXT_FESNYR902_04589_BEAUDEFOIN_000_130","<sigh> Fate is a cruel mistress..."
+68,"TEXT_FESNYR902_04589_SYSTEM_000_131","Beaudefoin remains downcast. As a fellow adventurer, perhaps you have the capacity to <hex:024804F201F403><hex:024904F201F503>psych<hex:0249020103><hex:0248020103> him up."
+69,"TEXT_FESNYR902_04589_BEAUDEFOIN_000_030","<sigh> Fate is a cruel mistress..."
+70,"TEXT_FESNYR902_04589_SYSTEM_000_031","Beaudefoin remains downcast. As a fellow adventurer, perhaps you have the capacity to <hex:024804F201F403><hex:024904F201F503>psych<hex:0249020103><hex:0248020103> him up."
+71,"TEXT_FESNYR902_04589_BEAUDEFOIN_000_032","Y-You're right. I mustn't give up the fight. And yet..."
+72,"TEXT_FESNYR902_04589_OMIKUJISHI_000_033","Do you feel better, my friend?"
+73,"TEXT_FESNYR902_04589_OMIKUJISHI_000_034","I see... If I may, what did the omikuji say in its entirety? As I mentioned, they do not only foretell one's fate, but also provide guidance in one's daily life."
+74,"TEXT_FESNYR902_04589_BEAUDEFOIN_000_035","I must confess, I didn't see anything beyond the words “grave misfortune,” so shocked I was. I ought to have a proper read, I suppose. Let's see here..."
+75,"TEXT_FESNYR902_04589_BEAUDEFOIN_000_036","“Adventure: Thou must think of others before thyself.” Well, that isn't so bad. And next...“Prosperity: Prepare to lose thy treasured armor”..."
+76,"TEXT_FESNYR902_04589_BEAUDEFOIN_000_037","<whimper> I knew I shouldn't have read the blasted thing... This set of armor is my pride and joy─I worked myself to the bone earning the gil to pay for it. And now I'm going to lose it all..."
+77,"TEXT_FESNYR902_04589_OMIKUJISHI_000_038","Come now, let us read the omikuji to the end!"
+78,"TEXT_FESNYR902_04589_OMIKUJISHI_000_039","Look: “As the Navigator maintaineth Her net, so too must thou tend to thy friendships. Let not camaraderie's weave fall into disrepair.” ...Sage advice, would you not agree?"
+79,"TEXT_FESNYR902_04589_Q1_000_000","What will you say?"
+80,"TEXT_FESNYR902_04589_A1_000_001","Treasure your comrades, and your luck may change for the better."
+81,"TEXT_FESNYR902_04589_A1_000_002","What matters is how you choose to act."
+82,"TEXT_FESNYR902_04589_BEAUDEFOIN_000_041","Yes... Yes, you are right. My thanks to the two of you for helping me to see sense."
+83,"TEXT_FESNYR902_04589_MOCHIDAIKAN_000_042","Help! I need help! <pant>"
+84,"TEXT_FESNYR902_04589_OMIKUJISHI_000_043","Mochi daikan! Calm down and tell us what ails you."
+85,"TEXT_FESNYR902_04589_MOCHIDAIKAN_000_044","I-I was preparing for the mochi pounding when a young adventurer, cheerful and fearless, emerged from the city..."
+86,"TEXT_FESNYR902_04589_MOCHIDAIKAN_000_045","At first I didn't pay her much mind...but then to my horror, she ran afoul of a group of enormous fiends! The monstrosities overwhelmed her in mere moments, and I rushed here as quickly as I could for help."
+87,"TEXT_FESNYR902_04589_OMIKUJISHI_000_046","A cheerful and fearless young adventurer? Kami preserve, could it be Hildelana!?"
+88,"TEXT_FESNYR902_04589_BEAUDEFOIN_000_047","What!? But...how can this be? She was supposed to have “great fortune”!"
+89,"TEXT_FESNYR902_04589_BEAUDEFOIN_000_048","Ugh, but this isn't the time for such questions... I must go to her aid!"
+90,"TEXT_FESNYR902_04589_OMIKUJISHI_000_049","Beaudefoin, wait!"
+91,"TEXT_FESNYR902_04589_OMIKUJISHI_000_050","This is a troubling situation..."
+92,"TEXT_FESNYR902_04589_OMIKUJISHI_000_051","You strike me as an adventurer of considerable prowess. Will you not go after Beaudefoin and lend your aid if necessary?"
+93,"TEXT_FESNYR902_04589_MOCHIDAIKAN_000_052","Our thanks! Please follow me!"
+94,"TEXT_FESNYR902_04589_OMIKUJISHI_000_053","As much as I wish to help, I would only be a hindrance. Please see that both Hildelana and Beaudefoin are safe."
+95,"TEXT_FESNYR902_04589_HILDELANA_000_161","You came too... Thank you..."
+96,"TEXT_FESNYR902_04589_BEAUDEFOIN_000_060","Followed me here, did you? We both took a bit of a beating, but I'm pleased to say we're still breathing."
+97,"TEXT_FESNYR902_04589_HILDELANA_000_061","I finished the guild's request without issue, but then I got greedy. If Beaudefoin hadn't arrived when he did, who knows what might have happened... "
+98,"TEXT_FESNYR902_04589_BEAUDEFOIN_000_062","I merely did what any friend would, Hildelana. I'm just glad I made it in time."
+99,"TEXT_FESNYR902_04589_HILDELANA_000_063","I shouldn't have put you through that. And look what's become of your armor... I'm so sorry, Beaudefoin. It's broken because of me..."
+100,"TEXT_FESNYR902_04589_BEAUDEFOIN_000_064","Oh, don't mention it. It's a small price for protecting a dear friend, and one I'd willingly pay again and again."
+101,"TEXT_FESNYR902_04589_BEAUDEFOIN_000_065","Heh, but if this didn't play out exactly as the omikuji had foretold..."
+102,"TEXT_FESNYR902_04589_BEAUDEFOIN_000_066","Well, let's return to the city. For one, I need to pay the armorers a visit, but we'll look for you afterwards!"
+103,"TEXT_FESNYR902_04589_MOCHIDAIKAN_000_067","What a relief that neither of them came to lasting harm... Let us head back ourselves. The omikujishi will doubtless be eager to hear the tidings."
+104,"TEXT_FESNYR902_04589_MOCHIDAIKAN_000_069","Ah, there you are. Hopefully Beaudefoin and Hildelana will join us as well."
+105,"TEXT_FESNYR902_04589_OMIKUJISHI_000_070","Welcome back, my friend! I understand everyone is safe, but what happened out there?"
+106,"TEXT_FESNYR902_04589_OMIKUJISHI_000_071","My friends, I cannot well express how relieved I am for your preservation. It is because I failed to explain the omikuji in sufficient detail that you met with danger. I can't apologize enough..."
+107,"TEXT_FESNYR902_04589_HILDELANA_000_072","Please do not blame yourself. I'm the one who overestimated my own abilities. Having “great fortune” doesn't mean that one can act without due care, I realize this now."
+108,"TEXT_FESNYR902_04589_HILDELANA_000_073","And I would have realized sooner had I properly read the omikuji beforehand. “Adventure: The way shall open to those who know their limits,” it says..."
+109,"TEXT_FESNYR902_04589_HILDELANA_000_074","But there's more. “Relationships: Thou shalt be blessed with stalwart comrades.” And I truly am."
+110,"TEXT_FESNYR902_04589_MOCHIDAIKAN_000_075","Ah, that reminds me─what became of your armor? You wished to have it repaired, I believe."
+111,"TEXT_FESNYR902_04589_BEAUDEFOIN_000_076","Unfortunately, it was too far gone. The armorer told me it would make more sense to have a new one crafted...not that I have that sort of coin either."
+112,"TEXT_FESNYR902_04589_RABBITMISSIONARY_000_077","In that case, I believe we can be of service. We offer a set of yoroi─armor, in your tongue─as a reward to those who have helped to make this Heavensturn celebration better. You have more than earned it."
+113,"TEXT_FESNYR902_04589_BEAUDEFOIN_000_078","Truly!? This sounds too good to be true..."
+114,"TEXT_FESNYR902_04589_RABBITMISSIONARY_000_079","Ah, but it is true, my friend, and no more than you deserve. Come now, don't be shy. Take your prize and try it on!"
+115,"TEXT_FESNYR902_04589_BEAUDEFOIN_000_080","It's magnificent! Just magnificent! Heh, and to think my omikuji said “grave misfortune”!"
+116,"TEXT_FESNYR902_04589_OMIKUJISHI_000_081","Take this as a lesson that, no matter your fortune, you still hold the power to shape your fate. And I believe the yoroi suits you well, if I might add."
+117,"TEXT_FESNYR902_04589_OMIKUJISHI_000_082","As you will recall, your fortune cautioned you to put the needs of others before yourself. And so you did, by risking your life to save your comrade. That selfless act may well have reversed your “grave misfortune.”"
+118,"TEXT_FESNYR902_04589_HILDELANA_000_083","I see! ...Actually, I don't. I don't really understand the workings of omikuji, but I do know that I'll always have Beaudefoin's back, just as he's always had mine. And, now that he has a new set of armor, perhaps we can take to the road. Together."
+119,"TEXT_FESNYR902_04589_OMIKUJISHI_000_084","I can't thank you enough for helping with the many unexpected troubles that occurred this day. I would be honored if you'd accept a set of yoroi of your own."
+120,"TEXT_FESNYR902_04589_OMIKUJISHI_000_085","Furthermore, should you wish to draw omikuji, you need only say the word. Indeed, I hope to see you many more times before the festivities end!"
+121,"TEXT_FESNYR902_04589_SYSTEM_000_086","You may now draw omikuji for the remainder of the Heavensturn festivities this year by speaking with the Far Eastern omikujishi."

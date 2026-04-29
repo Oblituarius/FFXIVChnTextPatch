@@ -2,106 +2,106 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_CLSEXC300_00319_SEQ_00,斧術師公會會長威爾恩茲恩有事情要告訴冒險者。
-1,TEXT_CLSEXC300_00319_SEQ_01,威爾恩茲恩說庫加塔出現在了赤血雄雞農場附近。和庫加塔決一死戰之前，前往拉諾西亞低地赤血雄雞農場，和療養中的西蓋爾德談談。
-2,TEXT_CLSEXC300_00319_SEQ_02,西蓋爾德再次請求冒險者去打倒庫加塔。索爾克維布與布倫巴爾為了助冒險者一臂之力，也趕到了赤血雄雞農場，和他們談談。
-3,TEXT_CLSEXC300_00319_SEQ_03,索爾克維布他們表示也要參加決戰，討伐庫加塔。追隨庫加塔的魔物群在赤血雄雞農場附近襲擊了貨車，布倫巴爾建議冒險者以被魔物們弄散的貨物為線索進行調查。
-4,TEXT_CLSEXC300_00319_SEQ_04,在附近沒有發現庫加塔的蹤影。繼續尋找被跟隨庫加塔的魔物群弄散的貨物。
-5,TEXT_CLSEXC300_00319_SEQ_05,依然沒有發現庫加塔的蹤影。繼續尋找被庫加塔手下的魔物群弄散的貨物。
-6,TEXT_CLSEXC300_00319_SEQ_06,還是沒有發現庫加塔的蹤影。繼續尋找被庫加塔手下的魔物群弄散的貨物。
-7,TEXT_CLSEXC300_00319_SEQ_07,終於和追蹤已久的庫加塔展開了決戰，並獲得了勝利。威爾恩茲恩帶著西蓋爾德等人趕到了現場，一起慶祝了這期待已久的勝利。西蓋爾德表示自己將來也要成為一名斧術師，隨後便離開了。和留在現場的威爾恩茲恩等人談談。
-8,TEXT_CLSEXC300_00319_SEQ_08,威爾恩茲恩對英勇奮戰的冒險者稱讚不已。返回斧術師公會，和威爾恩茲恩談談。
-9,TEXT_CLSEXC300_00319_SEQ_09,威爾恩茲恩說已經沒有東西可以教給冒險者了，他希望冒險者不要止步於此，而是要繼續追求斧術師的更高境界。努力鍛鍊，當冒險者能夠超越威爾恩茲恩的時候，威爾恩茲恩希望冒險者能回來讓他看看。背負著他的期待，冒險者離開了斧術師公會，駛向了更廣的天地。
-10,TEXT_CLSEXC300_00319_SEQ_10,
-11,TEXT_CLSEXC300_00319_SEQ_11,
-12,TEXT_CLSEXC300_00319_SEQ_12,
-13,TEXT_CLSEXC300_00319_SEQ_13,
-14,TEXT_CLSEXC300_00319_SEQ_14,
-15,TEXT_CLSEXC300_00319_SEQ_15,
-16,TEXT_CLSEXC300_00319_SEQ_16,
-17,TEXT_CLSEXC300_00319_SEQ_17,
-18,TEXT_CLSEXC300_00319_SEQ_18,
-19,TEXT_CLSEXC300_00319_SEQ_19,
-20,TEXT_CLSEXC300_00319_SEQ_20,
-21,TEXT_CLSEXC300_00319_SEQ_21,
-22,TEXT_CLSEXC300_00319_SEQ_22,
-23,TEXT_CLSEXC300_00319_SEQ_23,
-24,TEXT_CLSEXC300_00319_TODO_00,和赤血雄雞農場的西蓋爾德對話
-25,TEXT_CLSEXC300_00319_TODO_01,和索爾克維布對話
-26,TEXT_CLSEXC300_00319_TODO_02,和布倫巴爾對話
-27,TEXT_CLSEXC300_00319_TODO_03,調查魔物襲擊後的痕跡
-28,TEXT_CLSEXC300_00319_TODO_04,調查魔物襲擊後的痕跡
-29,TEXT_CLSEXC300_00319_TODO_05,調查魔物襲擊後的痕跡
-30,TEXT_CLSEXC300_00319_TODO_06,調查魔物襲擊後的痕跡
-31,TEXT_CLSEXC300_00319_TODO_07,和威爾恩茲恩對話
-32,TEXT_CLSEXC300_00319_TODO_08,和索爾克維布對話
-33,TEXT_CLSEXC300_00319_TODO_09,和布倫巴爾對話
-34,TEXT_CLSEXC300_00319_TODO_10,和斧術師公會的威爾恩茲恩對話
-35,TEXT_CLSEXC300_00319_TODO_11,
-36,TEXT_CLSEXC300_00319_TODO_12,
-37,TEXT_CLSEXC300_00319_TODO_13,
-38,TEXT_CLSEXC300_00319_TODO_14,
-39,TEXT_CLSEXC300_00319_TODO_15,
-40,TEXT_CLSEXC300_00319_TODO_16,
-41,TEXT_CLSEXC300_00319_TODO_17,
-42,TEXT_CLSEXC300_00319_TODO_18,
-43,TEXT_CLSEXC300_00319_TODO_19,
-44,TEXT_CLSEXC300_00319_TODO_20,
-45,TEXT_CLSEXC300_00319_TODO_21,
-46,TEXT_CLSEXC300_00319_TODO_22,
-47,TEXT_CLSEXC300_00319_TODO_23,
-48,TEXT_CLSEXC300_00319_WYRNZOEN_000_0,用心聽好……<hex:02100103>決戰之時已到。<hex:02100103>庫加塔終於出現了。
-49,TEXT_CLSEXC300_00319_WYRNZOEN_000_1,它出現在赤血雄雞農場的東北方，<hex:02100103>「灰艦風車群」的附近。
-50,TEXT_CLSEXC300_00319_WYRNZOEN_000_2,到了這個份上，我也沒什麼可說的了。<hex:02100103>使出你用血汗換來的全部力量，<hex:02100103>去打倒庫加塔吧！
-51,TEXT_CLSEXC300_00319_WYRNZOEN_000_4,那個仍在療養的少年，<hex:02100103>他也堅信著你能戰勝庫加塔。
-52,TEXT_CLSEXC300_00319_WYRNZOEN_000_5,決戰之前先去探望下少年吧。<hex:02100103>告訴他馬上就要去給他報仇了。<hex:02100103>這應該能讓他稍微安心些吧。
-53,TEXT_CLSEXC300_00319_WYRNZOEN_000_6,是出陣的時候了！<hex:02100103>交給你了，斧術師<hex:022903EB0203>！
-54,TEXT_CLSEXC300_00319_SIGHARD_000_10,啊……<hex:020819E905FF0A>大姐姐<hex:FF0A>大哥哥<hex:03>……你來啦……<hex:02100103>離家出走的事……對不起。
-55,TEXT_CLSEXC300_00319_SIGHARD_000_12,嗯……我想這一定是懲罰……<hex:02100103>都是因為我沒有信任<hex:020819E905FF0A>大姐姐<hex:FF0A>大哥哥<hex:03>，<hex:02100103>才會受傷的……
-56,TEXT_CLSEXC300_00319_SIGHARD_000_14,求求你……<hex:02100103>請一定要幹掉庫加塔！
-57,TEXT_CLSEXC300_00319_SIGHARD_000_15,我相信<hex:020819E905FF0A>大姐姐<hex:FF0A>大哥哥<hex:03>。<hex:02100103>我相信你一定會勝利的！<hex:02100103>一定會的！
-58,TEXT_CLSEXC300_00319_SIGHARD_000_17,拜託了，<hex:020819E905FF0A>大姐姐<hex:FF0A>大哥哥<hex:03>！
-59,TEXT_CLSEXC300_00319_SOLKWYB_000_40,聽說庫加塔出現了。<hex:02100103>我可不能看你去和它決戰，自己卻袖手旁觀。
-60,TEXT_CLSEXC300_00319_SOLKWYB_000_41,我也會盡我所能幫你的。<hex:02100103>跟你一起走過了這麼長的路，<hex:02100103>最後可不能把我排除在外啊。
-61,TEXT_CLSEXC300_00319_SOLKWYB_000_42,布倫巴爾的想法和我一樣。<hex:02100103>所以我們兩個就追過來了。
-62,TEXT_CLSEXC300_00319_BROENBHAR_000_80,或許你覺得有點多管閒事吧……<hex:02100103>不過身為前輩怎麼能看你孤身犯險呢？<hex:02100103>就讓我幫你清清雜兵吧。
-63,TEXT_CLSEXC300_00319_BROENBHAR_000_82,過來這裡的途中，<hex:02100103>我們聽說庫加塔那些跟屁蟲已經出現了，<hex:02100103>還襲擊了貨車上的人。
-64,TEXT_CLSEXC300_00319_BROENBHAR_000_83,調查一下它們襲擊後的痕跡，<hex:02100103>或許能成為找到庫加塔的線索。
-65,TEXT_CLSEXC300_00319_SYSTEM_000_50,好像是貨車被魔物群襲擊後，掉出的罐子。
-66,TEXT_CLSEXC300_00319_POP_MESSAGE,察覺到了敵人的氣息！
-67,TEXT_CLSEXC300_00319_SYSTEM_000_51,好像是貨車被魔物群襲擊後，掉出的桶子。
-68,TEXT_CLSEXC300_00319_SYSTEM_000_52,好像是貨車被魔物群襲擊後，掉出的木箱。
-69,TEXT_CLSEXC300_00319_INSTANCE_BATTLE_YESNO_TITLE,要開始「斬斷宿怨之日」的戰鬥嗎？
-70,TEXT_CLSEXC300_00319_INSTANCE_BATTLE_YESNO_YES,是
-71,TEXT_CLSEXC300_00319_INSTANCE_BATTLE_YESNO_NO,否
-72,TEXT_CLSEXC300_00319_SIGHARD_000_20,<hex:020819E905FF0A>大姐姐<hex:FF0A>大哥哥<hex:03>！
-73,TEXT_CLSEXC300_00319_WYRNZOEN_000_21,看來趕上了啊……
-74,TEXT_CLSEXC300_00319_SIGHARD_000_22,是會長大叔抱我過來的。
-75,TEXT_CLSEXC300_00319_SIGHARD_000_23,庫加塔被打倒了……<hex:02100103>這是真的吧？
-76,TEXT_CLSEXC300_00319_SIGHARD_000_24,嗚……嗚嗚……爸爸，媽媽……你們看到了嗎？<hex:02100103>這位<hex:020819E905FF0A>大姐姐<hex:FF0A>大哥哥<hex:03>幫你們報仇了哦。
-77,TEXT_CLSEXC300_00319_SIGHARD_000_25,謝謝，謝謝你……<hex:02100103>我該說什麼才好呢……
-78,TEXT_CLSEXC300_00319_SIGHARD_000_26,<hex:020819E905FF0A>大姐姐<hex:FF0A>大哥哥<hex:03>……<hex:02100103>我也能變成<hex:020819E905FF0A>大姐姐<hex:FF0A>大哥哥<hex:03>你這樣嗎？
-79,TEXT_CLSEXC300_00319_SIGHARD_000_27,我……長大以後想要變成<hex:020819E905FF0A>大姐姐<hex:FF0A>大哥哥<hex:03>這樣。<hex:02100103>像<hex:020819E905FF0A>大姐姐<hex:FF0A>大哥哥<hex:03>這樣，能夠去保護他人。
-80,TEXT_CLSEXC300_00319_WYRNZOEN_000_28,能行的。<hex:02100103>以<hex:022903EB0203>為目標的話，你一定能行的。
-81,TEXT_CLSEXC300_00319_SIGHARD_000_29,那……我也想要成為<hex:020819E905FF0A>大姐姐<hex:FF0A>大哥哥<hex:03>這樣的斧術師！<hex:02100103>不，我要成為這樣的斧術師！絕對要！
-82,TEXT_CLSEXC300_00319_SIGHARD_000_30,到那個時候……<hex:02100103>你要教給我很多很多斧術師的事情哦。<hex:02100103>我們說定了哦！
-83,TEXT_CLSEXC300_00319_WYRNZOEN_000_60,幹得好啊，<hex:022903EB0203>！<hex:02100103>就像和少年所約定的那樣，你做到了。
-84,TEXT_CLSEXC300_00319_WYRNZOEN_000_61,挺起胸膛吧，<hex:022903EB0203>！<hex:02100103>這是英雄的凱旋，我們回斧術師公會吧！
-85,TEXT_CLSEXC300_00319_SOLKWYB_000_90,<hex:022903EB0203>，你做到了！<hex:02100103>你果然是個關鍵時刻靠得住的傢伙！<hex:02100103>我可是在第一次見到你時就看出來了哦！
-86,TEXT_CLSEXC300_00319_BROENBHAR_000_100,你真是厲害啊……<hex:02100103>想不到真的把庫加塔幹掉了。<hex:02100103>我現在滿腦子裡都是讚賞你的詞彙。
-87,TEXT_CLSEXC300_00319_WYRNZOEN_000_70,<hex:022903EB0203>，你真的做得很好。<hex:02100103>能鍛鍊到這個地步真是令人驚嘆。
-88,TEXT_CLSEXC300_00319_WYRNZOEN_000_71,作為公會會長，我現在要把我壓箱底的本領傳授給你。<hex:02100103>它的名字叫「戰慄」！
-89,TEXT_CLSEXC300_00319_WYRNZOEN_000_72,使用這個技能令自己亢奮起來，<hex:02100103>短時間內可以超越體力的極限……
-90,TEXT_CLSEXC300_00319_WYRNZOEN_000_73,我已經沒有什麼可以教你的啦。<hex:02100103>你要繼續追求更高的境界，為公會爭光啊。
-91,TEXT_CLSEXC300_00319_WYRNZOEN_000_74,你就像從威爾布蘭德島出航的一葉扁舟。<hex:02100103>但在你的航路上，可能會有前所未見的強敵，<hex:02100103>和艱難的試煉在等著你。
-92,TEXT_CLSEXC300_00319_WYRNZOEN_000_75,<hex:022903EB0203>，斧術師之路如同一片汪洋大海。<hex:02100103>你要以大海的盡頭為目標，當你到達終點之時……<hex:02100103>記得要回來讓我看看你的英姿啊。
-93,TEXT_CLSEXC300_00319_QIB_TODO001,打倒庫加塔！
-94,TEXT_CLSEXC300_00319_SOLKWYB_BATTLETALK_02,終於等來這一刻了！<hex:02100103>要加油啊，<hex:022903EB0203>！
-95,TEXT_CLSEXC300_00319_BROENBHAR_BATTLETALK_01,這些黑豺就交給我吧！<hex:02100103>你專心對付庫加塔！
-96,TEXT_CLSEXC300_00319_SOLKWYB_BATTLETALK_11,小心，敵人有點不太一樣了！
-97,TEXT_CLSEXC300_00319_SOLKWYB_BATTLETALK_03,這是……治療魔法的效果被降低了！
-98,TEXT_CLSEXC300_00319_SOLKWYB_BATTLETALK_04,居然能使用這種能力！<hex:02100103>難怪受傷的人傷勢恢復緩慢！
-99,TEXT_CLSEXC300_00319_SOLKWYB_BATTLETALK_05,糟了，治療魔法的效果跟不上了！
-100,TEXT_CLSEXC300_00319_BROENBHAR_BATTLETALK_02,可惡，真是沒完沒了！<hex:02100103><hex:022903EB0203>，盡快做個了結吧！
-101,TEXT_CLSEXC300_00319_BROENBHAR_BATTLETALK_DEAD,<hex:022903EB0203>，接下來就拜託了……
-102,TEXT_CLSEXC300_00319_SOLKWYB_BATTLETALK_DEAD,我也只能幫你到這裡了……
+0,"TEXT_CLSEXC300_00319_SEQ_00","Axemaster Wyrnzoen appears to have some urgent news for you."
+1,"TEXT_CLSEXC300_00319_SEQ_01","Wyrnzoen informs you that Kujata has been spotted in lower La Noscea. Before seeking to do battle with the rampaging beast, the axemaster bids you first visit Sighard at the Red Rooster Stead."
+2,"TEXT_CLSEXC300_00319_SEQ_02","Sighard has once again begged you to slay the beast responsible for the death of his parents. It seems, however, that you will not be alone in the task. Speak with Solkwyb and Broenbhar before leaving the Stead, and enlist their aid for the coming battle."
+3,"TEXT_CLSEXC300_00319_SEQ_03","Solkwyb and Broenbhar are both eager to stand at your side as you seek to bring down the Stampeding Mountain. Follow Broenbhar's advice, and track down Kujata by following the beast's trail of destruction."
+4,"TEXT_CLSEXC300_00319_SEQ_04","You have found the broken remnants of a pot, but Kujata is nowhere to be seen. Continue following the trail left by him and his pack of rapacious scavengers."
+5,"TEXT_CLSEXC300_00319_SEQ_05","You have discovered the shattered pieces of a barrel on the side of the road, but have yet to spot Kujata. Continue following the trail of destruction left behind by the monster and his pack."
+6,"TEXT_CLSEXC300_00319_SEQ_06","You have stumbled upon the splintered remains of a crate, but Kujata himself appears to have since moved on. Continue your search for the vile beast and the ravenous creatures that follow him."
+7,"TEXT_CLSEXC300_00319_SEQ_07","You have finally caught up with Kujata and ended the murderous aurochs' terrible rampage. Wyrnzoen appears with Sighard and Neddard in tow, just in time to help celebrate your hard-won victory. Sighard is overcome with gratitude. Now that you have freed the boy from his burden of vengeance, he has decided to pursue the path of a hero. All that remains is to speak with your waiting colleagues."
+8,"TEXT_CLSEXC300_00319_SEQ_08","Wyrnzoen, Solkwyb, and Broenbhar all applaud the mighty deed you have accomplished. Return to Limsa Lominsa, and speak with the axemaster once more back at the guild."
+9,"TEXT_CLSEXC300_00319_SEQ_09","Wyrnzoen, having imparted to you all the knowledge of axecraft that he possesses, bids you venture beyond the teachings of the guild. And once you have attained a new peak of marauder perfection, he hopes you will return to share your discoveries. The world─with all its wondrous and deadly challenges─is yours to explore."
+10,"TEXT_CLSEXC300_00319_SEQ_10",""
+11,"TEXT_CLSEXC300_00319_SEQ_11",""
+12,"TEXT_CLSEXC300_00319_SEQ_12",""
+13,"TEXT_CLSEXC300_00319_SEQ_13",""
+14,"TEXT_CLSEXC300_00319_SEQ_14",""
+15,"TEXT_CLSEXC300_00319_SEQ_15",""
+16,"TEXT_CLSEXC300_00319_SEQ_16",""
+17,"TEXT_CLSEXC300_00319_SEQ_17",""
+18,"TEXT_CLSEXC300_00319_SEQ_18",""
+19,"TEXT_CLSEXC300_00319_SEQ_19",""
+20,"TEXT_CLSEXC300_00319_SEQ_20",""
+21,"TEXT_CLSEXC300_00319_SEQ_21",""
+22,"TEXT_CLSEXC300_00319_SEQ_22",""
+23,"TEXT_CLSEXC300_00319_SEQ_23",""
+24,"TEXT_CLSEXC300_00319_TODO_00","Speak to Sighard at the Red Rooster Stead."
+25,"TEXT_CLSEXC300_00319_TODO_01","Speak with Solkwyb."
+26,"TEXT_CLSEXC300_00319_TODO_02","Speak with Broenbhar."
+27,"TEXT_CLSEXC300_00319_TODO_03","Inspect the trail of destruction."
+28,"TEXT_CLSEXC300_00319_TODO_04","Inspect the trail of destruction."
+29,"TEXT_CLSEXC300_00319_TODO_05","Inspect the trail of destruction."
+30,"TEXT_CLSEXC300_00319_TODO_06","Inspect the trail of destruction."
+31,"TEXT_CLSEXC300_00319_TODO_07","Speak with Wyrnzoen."
+32,"TEXT_CLSEXC300_00319_TODO_08","Speak with Solkwyb."
+33,"TEXT_CLSEXC300_00319_TODO_09","Speak with Broenbhar."
+34,"TEXT_CLSEXC300_00319_TODO_10","Speak with Wyrnzoen at the Marauders' Guild."
+35,"TEXT_CLSEXC300_00319_TODO_11",""
+36,"TEXT_CLSEXC300_00319_TODO_12",""
+37,"TEXT_CLSEXC300_00319_TODO_13",""
+38,"TEXT_CLSEXC300_00319_TODO_14",""
+39,"TEXT_CLSEXC300_00319_TODO_15",""
+40,"TEXT_CLSEXC300_00319_TODO_16",""
+41,"TEXT_CLSEXC300_00319_TODO_17",""
+42,"TEXT_CLSEXC300_00319_TODO_18",""
+43,"TEXT_CLSEXC300_00319_TODO_19",""
+44,"TEXT_CLSEXC300_00319_TODO_20",""
+45,"TEXT_CLSEXC300_00319_TODO_21",""
+46,"TEXT_CLSEXC300_00319_TODO_22",""
+47,"TEXT_CLSEXC300_00319_TODO_23",""
+48,"TEXT_CLSEXC300_00319_WYRNZOEN_000_0","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Your confrontation with the beast is at hand─Kujata has made his presence known."
+49,"TEXT_CLSEXC300_00319_WYRNZOEN_000_1","Reports place the creature to the northeast of the Red Rooster Stead, in the vicinity of the Grey Fleet."
+50,"TEXT_CLSEXC300_00319_WYRNZOEN_000_2","There is little more for me to say but this: harness all the strength you have built through your labors of sweat and blood, and unleash it full-fury upon Kujata and his menagerie of scavengers."
+51,"TEXT_CLSEXC300_00319_WYRNZOEN_000_4","Sighard yet lies abed, trusting in your strength and praying for your victory."
+52,"TEXT_CLSEXC300_00319_WYRNZOEN_000_5","I ask that you go to the lad before the battle, and tell him you venture forth to fell the object of his vengeance. Such news should cheer his ailing heart."
+53,"TEXT_CLSEXC300_00319_WYRNZOEN_000_6","The time is come, <hex:022903EB0203>! May your axe strike deep and true!"
+54,"TEXT_CLSEXC300_00319_SIGHARD_000_10","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>... I'm sorry fer makin' trouble."
+55,"TEXT_CLSEXC300_00319_SIGHARD_000_12","No, I deserved what I got. It's me own fault fer not believin' in ye..."
+56,"TEXT_CLSEXC300_00319_SIGHARD_000_14","B-But ye came back anyway! And now yer gonna take that axe to Kujata's head, ain't ye!?"
+57,"TEXT_CLSEXC300_00319_SIGHARD_000_15","I know ye can beat that bastard! Ye got to!"
+58,"TEXT_CLSEXC300_00319_SIGHARD_000_17","Please, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! Ye got to make 'im pay!"
+59,"TEXT_CLSEXC300_00319_SOLKWYB_000_40","I heard Kujata had reared his ugly head again, and reckoned you'd not be too far behind."
+60,"TEXT_CLSEXC300_00319_SOLKWYB_000_41","I hope you won't object to me lending what aid I can. We've been through much, you and I, and I would see this tale to its end."
+61,"TEXT_CLSEXC300_00319_SOLKWYB_000_42","Broenbhar, well, he felt much the same. So here we are─a pack of two to offset the ravenous beasts that follow in Kujata's wake."
+62,"TEXT_CLSEXC300_00319_BROENBHAR_000_80","Might be as I'm stickin' me nose in where it ain't wanted, but I couldn't abide the thought o' ye facin' that monster solo. Kujata's got <hex:021A020203>his<hex:021A020103> friends, so it's only fair if ye've got a couple, too."
+63,"TEXT_CLSEXC300_00319_BROENBHAR_000_82","An' what're friends for if not to lighten yer load? I already did some o' the groundwork for ye. Seems like a farmer an' his wain have fallen victim to the fiend's pack."
+64,"TEXT_CLSEXC300_00319_BROENBHAR_000_83","If we follow the trail o' destruction, it might just lead us to the big bugger himself."
+65,"TEXT_CLSEXC300_00319_SYSTEM_000_50","You find a pot that appears to have been dragged from the farmer's wain."
+66,"TEXT_CLSEXC300_00319_POP_MESSAGE","You sense a hostile presence!"
+67,"TEXT_CLSEXC300_00319_SYSTEM_000_51","You find a barrel that appears to have been dragged from the farmer's wain."
+68,"TEXT_CLSEXC300_00319_SYSTEM_000_52","You find a crate that appears to have been dragged from the farmer's wain."
+69,"TEXT_CLSEXC300_00319_INSTANCE_BATTLE_YESNO_TITLE","Duty calls. Do you wish to proceed with<hex:02100103>“Bringing Down the Mountain”?"
+70,"TEXT_CLSEXC300_00319_INSTANCE_BATTLE_YESNO_YES","Yes"
+71,"TEXT_CLSEXC300_00319_INSTANCE_BATTLE_YESNO_NO","No"
+72,"TEXT_CLSEXC300_00319_SIGHARD_000_20","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>!"
+73,"TEXT_CLSEXC300_00319_WYRNZOEN_000_21","It appears our timing was fortuitous."
+74,"TEXT_CLSEXC300_00319_SIGHARD_000_22","The axemaster carried me 'ere so's I could see..."
+75,"TEXT_CLSEXC300_00319_SIGHARD_000_23","Ye did it. Ye really did it..."
+76,"TEXT_CLSEXC300_00319_SIGHARD_000_24","<sniffle> Ma? Da? Do ye see? <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> killed the bastard! 'E's finally dead!"
+77,"TEXT_CLSEXC300_00319_SIGHARD_000_25","Thank ye. Thank all of ye."
+78,"TEXT_CLSEXC300_00319_SIGHARD_000_26","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>? Do ye reckon I could learn to swing an axe like that?"
+79,"TEXT_CLSEXC300_00319_SIGHARD_000_27","When I's bigger, I mean. I want to protect folk, too. Keep 'em safe from...ye know, monsters an' things."
+80,"TEXT_CLSEXC300_00319_WYRNZOEN_000_28","If you train hard, then naught is beyond your reach, young man."
+81,"TEXT_CLSEXC300_00319_SIGHARD_000_29","Then that's what I'll do! I'll train every single day!"
+82,"TEXT_CLSEXC300_00319_SIGHARD_000_30","Ye'll see! I'll be the strongest 'ero there ever was!"
+83,"TEXT_CLSEXC300_00319_WYRNZOEN_000_60","It is done, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. You have answered the boy's prayers, and upheld the pride of the guild."
+84,"TEXT_CLSEXC300_00319_WYRNZOEN_000_61","Hold your head high, marauder! I shall be awaiting your triumphant return to Limsa Lominsa!"
+85,"TEXT_CLSEXC300_00319_SOLKWYB_000_90","Well done, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! I knew from the first moment we met that you would rise to meet any challenge!"
+86,"TEXT_CLSEXC300_00319_BROENBHAR_000_100","I saw it with me own eyes, an' I can still scarce believe it. Ye brought down the Mountain..."
+87,"TEXT_CLSEXC300_00319_WYRNZOEN_000_70","That was truly a mighty feat, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Never have I seen a marauder so dedicated to attaining the pinnacle of <hex:02080DE905FF04>her<hex:FF04>his<hex:03> discipline."
+88,"TEXT_CLSEXC300_00319_WYRNZOEN_000_71","In recognition of your achievements, I, Axemaster Wyrnzoen, pass on to you our guild's final technique: the Thrill of Battle."
+89,"TEXT_CLSEXC300_00319_WYRNZOEN_000_72","This skill teaches you to embrace the fear and danger of combat, allowing you to push well beyond the normal limits of your stamina."
+90,"TEXT_CLSEXC300_00319_WYRNZOEN_000_73","Though the thought brings me both joy and sadness, there is naught more I can teach you. May the memories of your time here at the guild sustain you as you strive for ever greater heights of perfection."
+91,"TEXT_CLSEXC300_00319_WYRNZOEN_000_74","Experience, now, shall be your tutor. There will always be greater foes and deadlier challenges on which to test your blade─of that, I am certain."
+92,"TEXT_CLSEXC300_00319_WYRNZOEN_000_75","You enter a realm of our craft in which even I have never set foot. I only hope that when you reach the very boundaries of our art, you will return to share your triumphs with us. Until then, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, may your axe ever swing true!"
+93,"TEXT_CLSEXC300_00319_QIB_TODO001","Defeat Kujata!"
+94,"TEXT_CLSEXC300_00319_SOLKWYB_BATTLETALK_02","This is it, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>.<hex:02100103>Send the beast to the abyss!"
+95,"TEXT_CLSEXC300_00319_BROENBHAR_BATTLETALK_01","Focus on fightin' Kujata!<hex:02100103>Leave the hyenas to me!"
+96,"TEXT_CLSEXC300_00319_SOLKWYB_BATTLETALK_11","Be on your guard!<hex:02100103>He's up to something!"
+97,"TEXT_CLSEXC300_00319_SOLKWYB_BATTLETALK_03","I can barely close your wounds!<hex:02100103>What has he done to you!?"
+98,"TEXT_CLSEXC300_00319_SOLKWYB_BATTLETALK_04","Ugh, no wonder his victims<hex:02100103>were so hard to heal!"
+99,"TEXT_CLSEXC300_00319_SOLKWYB_BATTLETALK_05","Hold on, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>!"
+100,"TEXT_CLSEXC300_00319_BROENBHAR_BATTLETALK_02","More damn hyenas!<hex:02100103>Quickly now─put that bastard down!"
+101,"TEXT_CLSEXC300_00319_BROENBHAR_BATTLETALK_DEAD","When did me axe...get so heavy...?"
+102,"TEXT_CLSEXC300_00319_SOLKWYB_BATTLETALK_DEAD","And thus the tale ends for me..."

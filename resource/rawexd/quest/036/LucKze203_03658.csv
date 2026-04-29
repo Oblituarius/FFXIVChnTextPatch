@@ -2,92 +2,92 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_LUCKZE203_03658_SEQ_00,<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整<hex:0249020103><hex:0248020103><hex:02100103>蛇行枝的瓦蘭想要放棄不管秦福特了。
-1,TEXT_LUCKZE203_03658_SEQ_01,※本任務為<hex:024804F201FC03><hex:024904F201FD03><hex:0249020103><hex:0248020103> 等級調整任務。<hex:02100103><hex:02100103>秦福特委託冒險者去調查地脈結節點。調查拉凱提卡大森林的洛查特爾大階梯的<hex:02280CFF05>EObj<hex:F61EACF00103>，尋找秦福特提到的災厄的根源。
-2,TEXT_LUCKZE203_03658_SEQ_02,從地脈結節點中找到了可疑的咒具將<hex:022811FF0A>EventItem<hex:F61E8F0E0103>交給蛇行枝的秦福特，和他一起商量關於森林危機的事情。
-3,TEXT_LUCKZE203_03658_SEQ_03,可疑的咒具是「永暗之子」用來施展破壞性咒術的道具。雖然還不清楚化身大人的啟示是否是真的，不過的確有危機正在悄然逼近這座森林。
-4,TEXT_LUCKZE203_03658_SEQ_04,
-5,TEXT_LUCKZE203_03658_SEQ_05,
-6,TEXT_LUCKZE203_03658_SEQ_06,
-7,TEXT_LUCKZE203_03658_SEQ_07,
-8,TEXT_LUCKZE203_03658_SEQ_08,
-9,TEXT_LUCKZE203_03658_SEQ_09,
-10,TEXT_LUCKZE203_03658_SEQ_10,
-11,TEXT_LUCKZE203_03658_SEQ_11,
-12,TEXT_LUCKZE203_03658_SEQ_12,
-13,TEXT_LUCKZE203_03658_SEQ_13,
-14,TEXT_LUCKZE203_03658_SEQ_14,
-15,TEXT_LUCKZE203_03658_SEQ_15,
-16,TEXT_LUCKZE203_03658_SEQ_16,
-17,TEXT_LUCKZE203_03658_SEQ_17,
-18,TEXT_LUCKZE203_03658_SEQ_18,
-19,TEXT_LUCKZE203_03658_SEQ_19,
-20,TEXT_LUCKZE203_03658_SEQ_20,
-21,TEXT_LUCKZE203_03658_SEQ_21,
-22,TEXT_LUCKZE203_03658_SEQ_22,
-23,TEXT_LUCKZE203_03658_SEQ_23,
-24,TEXT_LUCKZE203_03658_TODO_00,在<hex:02280CFF05>EObj<hex:F61EACF00103>周圍張望
-25,TEXT_LUCKZE203_03658_TODO_01,將<hex:022811FF0A>EventItem<hex:F61E8F0E0103>交給蛇行枝的秦福特
-26,TEXT_LUCKZE203_03658_TODO_02,
-27,TEXT_LUCKZE203_03658_TODO_03,
-28,TEXT_LUCKZE203_03658_TODO_04,
-29,TEXT_LUCKZE203_03658_TODO_05,
-30,TEXT_LUCKZE203_03658_TODO_06,
-31,TEXT_LUCKZE203_03658_TODO_07,
-32,TEXT_LUCKZE203_03658_TODO_08,
-33,TEXT_LUCKZE203_03658_TODO_09,
-34,TEXT_LUCKZE203_03658_TODO_10,
-35,TEXT_LUCKZE203_03658_TODO_11,
-36,TEXT_LUCKZE203_03658_TODO_12,
-37,TEXT_LUCKZE203_03658_TODO_13,
-38,TEXT_LUCKZE203_03658_TODO_14,
-39,TEXT_LUCKZE203_03658_TODO_15,
-40,TEXT_LUCKZE203_03658_TODO_16,
-41,TEXT_LUCKZE203_03658_TODO_17,
-42,TEXT_LUCKZE203_03658_TODO_18,
-43,TEXT_LUCKZE203_03658_TODO_19,
-44,TEXT_LUCKZE203_03658_TODO_20,
-45,TEXT_LUCKZE203_03658_TODO_21,
-46,TEXT_LUCKZE203_03658_TODO_22,
-47,TEXT_LUCKZE203_03658_TODO_23,
-48,TEXT_LUCKZE203_03658_QUINFORT_000_101,化身大人為何會現身呢……
-49,TEXT_LUCKZE203_03658_TSUCHINOKO_000_102,啾！
-50,TEXT_LUCKZE203_03658_VALAN_000_001,好了，雖然長相有點奇怪，不過你算是有了新的寵物呢，挺好的嘛！<hex:02100103>你可要好好疼愛它哦，嗯！
-51,TEXT_LUCKZE203_03658_TSUCHINOKO_000_002,啾！啾啾！
-52,TEXT_LUCKZE203_03658_VALAN_000_003,……<hex:022903EB0203>，謝謝你了！<hex:02100103>托你的福，我終於理解到了秦福特那傢伙<hex:02100103>已經瘋到堅稱可以跟蛇對話的地步了！
-53,TEXT_LUCKZE203_03658_VALAN_000_004,我就權當沒看見他好了，<hex:02100103>今後我會走向與秦福特不同的具有切實意義的人生道路！<hex:02100103>再見了，後會有期！
-54,TEXT_LUCKZE203_03658_QUINFORT_000_005,等等。
-55,TEXT_LUCKZE203_03658_VALAN_000_006,啊——又怎麼了？！<hex:02100103>好不容易我想說趁著這個機會就結束這次的事情呢！
-56,TEXT_LUCKZE203_03658_QUINFORT_000_007,神聖的水蛇化身大人雖然不會告訴我一切，<hex:02100103>可是它現身必定有它的意義存在。<hex:02100103>我從剛才起就在研究這個推論……
-57,TEXT_LUCKZE203_03658_QUINFORT_000_008,你來看，化身大人體表的這種斑紋！<hex:02100103>你不覺得這象徵著森林地脈的流向嗎？<hex:02100103>沒錯，肯定是這樣！
-58,TEXT_LUCKZE203_03658_QUINFORT_000_009,而且這斑紋與斑紋之間的傷口！<hex:02100103>是不是應該看作它正在向我們預示著即將到來的<hex:02100103>足以威脅到森林命運的危機啊？！
-59,TEXT_LUCKZE203_03658_VALAN_000_010,嗚，本以為你會老實一點！<hex:02100103>你又開始了……<hex:02100103>好了好了，這種話已經聽夠了……對吧？
-60,TEXT_LUCKZE203_03658_QUINFORT_000_011,大家一定都會像瓦蘭這樣，聽不進去我說什麼吧，<hex:02100103>也就是說，能夠從災厄中拯救一切的人就只有咱們兩個了！
-61,TEXT_LUCKZE203_03658_QUINFORT_000_012,可是我要怎樣才能請求到你的協助呢……<hex:02100103>果然還是需要巨額的報酬嗎，是這樣吧！
-62,TEXT_LUCKZE203_03658_QUINFORT_000_013,斑紋顯示的地點就在洛查特爾大階梯附近！<hex:02100103>這個場所一定就是災厄的源頭所在的地脈結節點！<hex:02100103>我會給你報酬的，作為交換我想請你去調查一下那個地方！
-63,TEXT_LUCKZE203_03658_VALAN_000_014,報酬啊……我勸你別太信以為真比較好哦？<hex:02100103>這傢伙畢竟只是一介見習導師而已。
-64,TEXT_LUCKZE203_03658_VALAN_000_015,陪著瘋子玩玩，可能是有點意思，<hex:02100103>不過你最好也適可而止吧……<hex:02100103>不管怎樣，我還是不忍心放任他不管，這樣的我也夠蠢的。
-65,TEXT_LUCKZE203_03658_QUINFORT_000_018,我和化身大人一起在這裡等你回來吧。<hex:02100103>無法親自到災厄的源頭那裡實在遺憾！
-66,TEXT_LUCKZE203_03658_VALAN_000_019,放心吧，肯定什麼都不會發生的！<hex:02100103>我在這裡盯著秦福特，防止他又突然跑出去，
-67,TEXT_LUCKZE203_03658_TSUCHINOKO_000_020,啾啾！
-68,TEXT_LUCKZE203_03658_SYSTEM03658_000_021,水蛇化身大人發出了細微的叫聲。<hex:02100103>好像是在擔心<hex:022903EB0203>。
-69,TEXT_LUCKZE203_03658_SYSTEM03658_000_030,周圍沒有發現特別可疑的東西。
-70,TEXT_LUCKZE203_03658_SYSTEM03658_000_031,水中好像有什麼。
-71,TEXT_LUCKZE203_03658_SYSTEM03658_000_032,發現了埋在河底的可疑咒具。<hex:02100103>拿去給秦福特吧。
-72,TEXT_LUCKZE203_03658_VALAN_000_035,誒？<hex:02100103>你到底拿回來了什麼？
-73,TEXT_LUCKZE203_03658_TSUCHINOKO_000_036,啾！
-74,TEXT_LUCKZE203_03658_QUINFORT_000_037,來跟我說一下，你在化身大人預示的地點找到了什麼？！
-75,TEXT_LUCKZE203_03658_QUINFORT_000_040,什麼？這是！
-76,TEXT_LUCKZE203_03658_VALAN_000_041,沒想到你真的能找到點東西啊！<hex:02100103>這要是偶然的話也太過巧合了吧，<hex:02100103>難道秦福特看到的啟示是真的？
-77,TEXT_LUCKZE203_03658_QUINFORT_000_042,怎麼樣，你願意相信化身大人的指引了吧！
-78,TEXT_LUCKZE203_03658_VALAN_000_043,啊——嗯，好吧好吧……<hex:02100103>話說這個不是永暗之子那幫傢伙們<hex:02100103>用來施展破壞性咒術的東西嗎？
-79,TEXT_LUCKZE203_03658_VALAN_000_044,嗯，果然沒錯……<hex:02100103>我以前見過父親曾經回收過這類的東西！
-80,TEXT_LUCKZE203_03658_VALAN_000_045,好像是將乙太儲存在內部，<hex:02100103>當裡面的力量積攢到一定程度時，將會引起強烈的魔法爆炸什麼的。<hex:02100103>而這個被放在了地脈的結節點的話……
-81,TEXT_LUCKZE203_03658_QUINFORT_000_046,也就代表著森林的危機！<hex:02100103>哈哈哈哈，這次我沒有搞錯！
-82,TEXT_LUCKZE203_03658_VALAN_000_047,你那麼高興幹什麼！<hex:02100103>知道嗎，蛇行枝之所以建在這個場所，<hex:02100103>是因為地脈的流向都集中在這裡，可以使用乙太之光之類的東西啊。
-83,TEXT_LUCKZE203_03658_VALAN_000_048,此外這裡也是地脈，也就是乙太流動聚集的地方，<hex:02100103>所以才有旺盛的生命力，是一個很適合我們居住的環境。
-84,TEXT_LUCKZE203_03658_VALAN_000_049,而他們想用咒具阻斷地脈的流動，<hex:02100103>也就是說他們想破壞掉蛇行枝整個富饒的環境。<hex:02100103>不僅是集落，還有循環在整個森林中的乙太都要遭殃……
-85,TEXT_LUCKZE203_03658_QUINFORT_000_050,現在正是啟示帶來成果的時候了！<hex:02100103>化身大人，請賜予我們度過此次災厄的力量！
-86,TEXT_LUCKZE203_03658_TSUCHINOKO_000_051,啾、啾啾！
-87,TEXT_LUCKZE203_03658_VALAN_000_052,看著它的樣子，我實在沒法去相信……<hex:02100103>不過事實上，這回全靠了這傢伙的妄言，<hex:02100103>才找到了咒具呢。
-88,TEXT_LUCKZE203_03658_VALAN_000_053,永暗之子的那幫傢伙們到底在想什麼呢。<hex:02100103>如果這真是森林的危機的話，就得去打探一下了。
+0,"TEXT_LUCKZE203_03658_SEQ_00","<hex:024804F201FC03><hex:024904F201FD03> Quest Sync<hex:0249020103><hex:0248020103><hex:02100103>Valan is ready to put all this nonsense of visions behind him once and for all."
+1,"TEXT_LUCKZE203_03658_SEQ_01","Just when this tale of serpents and soothsaying seemed ready to end, Quinfort is struck by an epiphany. The peculiar form of the great serpent, he claims, is an omen of the coming calamity, its stripes representing the currents which carry the Greatwood's life force. Looking once more at the serpent's scales, he feels confident that their pattern resembles Lozatl's Conquest. He bids you go there and search for any potential clues as to what danger the future holds.<hex:02100103><hex:02100103>※Please note that the difficulty of this quest has been synced to your current level."
+2,"TEXT_LUCKZE203_03658_SEQ_02","As you search Lozatl's Conquest, something in the river catches your eye. With a little effort, you uncover what appears to be a strange container sealed with talismans. You return to Slitherbough hoping either Valan or Quinfort will know what it is you found. "
+3,"TEXT_LUCKZE203_03658_SEQ_03","Valan identifies the container as a device created by the Children of the Everlasting Dark that, after absorbing enough energy, can invoke devastating magic. He now fears they may use them to siphon the life energies of the Greatwood while supplying themselves with deadly force. Though his claims seemed absurd at first, Quinfort has yet to be wrong so far as Valan can tell. Perhaps the great serpent really is the key to their salvation."
+4,"TEXT_LUCKZE203_03658_SEQ_04",""
+5,"TEXT_LUCKZE203_03658_SEQ_05",""
+6,"TEXT_LUCKZE203_03658_SEQ_06",""
+7,"TEXT_LUCKZE203_03658_SEQ_07",""
+8,"TEXT_LUCKZE203_03658_SEQ_08",""
+9,"TEXT_LUCKZE203_03658_SEQ_09",""
+10,"TEXT_LUCKZE203_03658_SEQ_10",""
+11,"TEXT_LUCKZE203_03658_SEQ_11",""
+12,"TEXT_LUCKZE203_03658_SEQ_12",""
+13,"TEXT_LUCKZE203_03658_SEQ_13",""
+14,"TEXT_LUCKZE203_03658_SEQ_14",""
+15,"TEXT_LUCKZE203_03658_SEQ_15",""
+16,"TEXT_LUCKZE203_03658_SEQ_16",""
+17,"TEXT_LUCKZE203_03658_SEQ_17",""
+18,"TEXT_LUCKZE203_03658_SEQ_18",""
+19,"TEXT_LUCKZE203_03658_SEQ_19",""
+20,"TEXT_LUCKZE203_03658_SEQ_20",""
+21,"TEXT_LUCKZE203_03658_SEQ_21",""
+22,"TEXT_LUCKZE203_03658_SEQ_22",""
+23,"TEXT_LUCKZE203_03658_SEQ_23",""
+24,"TEXT_LUCKZE203_03658_TODO_00","Survey the designated area for clues."
+25,"TEXT_LUCKZE203_03658_TODO_01","Deliver the curious container to Quinfort."
+26,"TEXT_LUCKZE203_03658_TODO_02",""
+27,"TEXT_LUCKZE203_03658_TODO_03",""
+28,"TEXT_LUCKZE203_03658_TODO_04",""
+29,"TEXT_LUCKZE203_03658_TODO_05",""
+30,"TEXT_LUCKZE203_03658_TODO_06",""
+31,"TEXT_LUCKZE203_03658_TODO_07",""
+32,"TEXT_LUCKZE203_03658_TODO_08",""
+33,"TEXT_LUCKZE203_03658_TODO_09",""
+34,"TEXT_LUCKZE203_03658_TODO_10",""
+35,"TEXT_LUCKZE203_03658_TODO_11",""
+36,"TEXT_LUCKZE203_03658_TODO_12",""
+37,"TEXT_LUCKZE203_03658_TODO_13",""
+38,"TEXT_LUCKZE203_03658_TODO_14",""
+39,"TEXT_LUCKZE203_03658_TODO_15",""
+40,"TEXT_LUCKZE203_03658_TODO_16",""
+41,"TEXT_LUCKZE203_03658_TODO_17",""
+42,"TEXT_LUCKZE203_03658_TODO_18",""
+43,"TEXT_LUCKZE203_03658_TODO_19",""
+44,"TEXT_LUCKZE203_03658_TODO_20",""
+45,"TEXT_LUCKZE203_03658_TODO_21",""
+46,"TEXT_LUCKZE203_03658_TODO_22",""
+47,"TEXT_LUCKZE203_03658_TODO_23",""
+48,"TEXT_LUCKZE203_03658_QUINFORT_000_101","Why did the great serpent choose this form, I wonder..."
+49,"TEXT_LUCKZE203_03658_TSUCHINOKO_000_102","Scree!"
+50,"TEXT_LUCKZE203_03658_VALAN_000_001","I hope you're satisfied now that your new pet is safe here in Slitherbough."
+51,"TEXT_LUCKZE203_03658_TSUCHINOKO_000_002","Scree scree!"
+52,"TEXT_LUCKZE203_03658_VALAN_000_003","And thank you, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. I now understand what's been troubling my friend all this time."
+53,"TEXT_LUCKZE203_03658_VALAN_000_004","I feared this might strain our friendship, but I don't believe this is something we can't overcome. Take care, and may the shadows keep you."
+54,"TEXT_LUCKZE203_03658_QUINFORT_000_005","Wait..."
+55,"TEXT_LUCKZE203_03658_VALAN_000_006","Please, Quinfort, there's no need to involve <hex:02080DE905FF04>her<hex:FF04>him<hex:03> in this any longer."
+56,"TEXT_LUCKZE203_03658_QUINFORT_000_007","I've been giving thought to the great serpent's chosen form, and I think I now understand why it chose to present itself to us in this way."
+57,"TEXT_LUCKZE203_03658_QUINFORT_000_008","Look closely at the pattern of its scales. I believe they represent the network of currents by which aether flows through Rak'tika─the very life force of the Greatwood."
+58,"TEXT_LUCKZE203_03658_QUINFORT_000_009","And there─the scar that intersects them there on its belly... It's an omen! Of the coming calamity that would disrupt the flow of life in the Greatwood!"
+59,"TEXT_LUCKZE203_03658_VALAN_000_010","Quinfort, stop! It's just a scratch. Probably from a rock as it slithered, or rolled, or did whatever it does to make its way through the forest."
+60,"TEXT_LUCKZE203_03658_QUINFORT_000_011","All these signs and still he refuses to see, like all the others. If the Greatwood is to be saved, it's up to us."
+61,"TEXT_LUCKZE203_03658_QUINFORT_000_012","I can only assume you remain at my side in the hopes of receiving some generous compensation. If that's what it takes, so be it."
+62,"TEXT_LUCKZE203_03658_QUINFORT_000_013","The scar on the great serpent's belly calls to mind Lozatl's Conquest. That is where you will find the source of this ill omen. Bring it to me and you will have the reward you seek."
+63,"TEXT_LUCKZE203_03658_VALAN_000_014","I should remind you that he's still only an apprentice. I wouldn't expect much, if anything, for your troubles."
+64,"TEXT_LUCKZE203_03658_VALAN_000_015","This is what happens when you spend too much time around <hex:021A020203>interesting<hex:021A020103> individuals. Still, I can't deny that life would be boring without him."
+65,"TEXT_LUCKZE203_03658_QUINFORT_000_018","I will stay and keep watch over the great serpent."
+66,"TEXT_LUCKZE203_03658_VALAN_000_019","Don't worry about us. I'll make sure nothing happens to Quinfort or his new pet."
+67,"TEXT_LUCKZE203_03658_TSUCHINOKO_000_020","Scree!!!"
+68,"TEXT_LUCKZE203_03658_SYSTEM03658_000_021","The shrill shrieks of the great serpent sound troubled. It appears to be showing concern for you... "
+69,"TEXT_LUCKZE203_03658_SYSTEM03658_000_030","You survey your surroundings, but find nothing out of the ordinary."
+70,"TEXT_LUCKZE203_03658_SYSTEM03658_000_031","Something in the water catches your eye."
+71,"TEXT_LUCKZE203_03658_SYSTEM03658_000_032","You brush away the dirt and find a charm of some sort. Quinfort will no doubt be interested to see what you've found."
+72,"TEXT_LUCKZE203_03658_VALAN_000_035","You found something? Truly?"
+73,"TEXT_LUCKZE203_03658_TSUCHINOKO_000_036","Scree!"
+74,"TEXT_LUCKZE203_03658_QUINFORT_000_037","Come, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Show me what you've found."
+75,"TEXT_LUCKZE203_03658_QUINFORT_000_040","Hmmm. Could it be a charm of some sort?"
+76,"TEXT_LUCKZE203_03658_VALAN_000_041","It was exactly where you said it'd be. Then that means your visions were...were..."
+77,"TEXT_LUCKZE203_03658_QUINFORT_000_042","Now do you believe in the great serpent?"
+78,"TEXT_LUCKZE203_03658_VALAN_000_043","Fine, fine, the great serpent is real. More importantly, that charm seems familiar. I think I've seen the Children use them for their incantations."
+79,"TEXT_LUCKZE203_03658_VALAN_000_044","Yes, I'm sure of it. My father once found one while hunting in the woods."
+80,"TEXT_LUCKZE203_03658_VALAN_000_045","If memory serves, they can be used to invoke powerful fire spells after absorbing enough aether... By the abyss! If they plan to use them to siphon the Greatwood's life force─ "
+81,"TEXT_LUCKZE203_03658_QUINFORT_000_046","My vision will at last come to pass! Hahaha!"
+82,"TEXT_LUCKZE203_03658_VALAN_000_047","Why are you laughing!? Don't you realize how serious this is?"
+83,"TEXT_LUCKZE203_03658_VALAN_000_048","That flow of aether you were talking about converges here at Slitherbough, doesn't it? It's why we have that large aetheryte outside."
+84,"TEXT_LUCKZE203_03658_VALAN_000_049","If the flow is disrupted, our crops would wither, the land would be rendered barren, animals would die─it would mean the end of our village, and all of Rak'tika would likely follow."
+85,"TEXT_LUCKZE203_03658_QUINFORT_000_050","O great one, I beseech you once more. Grant us the strength and the wisdom to avert this terrible crisis."
+86,"TEXT_LUCKZE203_03658_TSUCHINOKO_000_051","Scree! Scree scree!"
+87,"TEXT_LUCKZE203_03658_VALAN_000_052","Seeing them like this makes the whole thing seem like nonsense, but there's no denying Quinfort has been right about what would happen thus far."
+88,"TEXT_LUCKZE203_03658_VALAN_000_053","We have to figure out what the Children are up to before it's too late."

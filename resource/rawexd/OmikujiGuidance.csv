@@ -1,203 +1,215 @@
-﻿key,1,2
-#,,
-offset,0,4
-int32,str,str
-0,無効,無効
-100,冒險,信步而行 信馬由韁 長風破浪
-101,,天空海闊 無邊無涯 氣象一新
-102,,探索筆記 追憶之地 感今懷昔
-103,,天高氣爽 晴空萬里 風和日麗
-104,,市井尋蹤 人潮洶湧 天賜良機
-105,,飲茶小憩 邂逅之人 或為助力
-106,,多多結交 體格健壯 高大之士
-200,關係,英雄般的成就獲取的榮耀與信賴將會為你帶來答案
-201,,永結同心的誓言將會為你帶來好運
-202,,旅途中常有好友相助 切莫忘記時刻心懷感激
-203,,星星將指引你與命中注定的人相遇
-204,,和夥伴們並肩同行吧 好運將常伴你的身邊
-205,,友情永不退色 勇敢地去探索未知之地吧
-206,,不計種族交朋友 真心必有金曦照
-300,財產,清心寡慾 好運伴你 快把戰利品帶回家吧！
-301,,發財致富 現在就去金碟遊樂場吧！
-302,,好運當頭 機不可失 快去開個寶箱吧！
-303,,心隨意動 想開門便開門！ 想稱霸就稱霸！
-304,,大好商機 你的生意即將大賺一筆！
-305,,地久天長 友誼帶來好運無限！
-306,,主從同心 僱員冒險帶來稀世珍寶！
-400,戰鬥,去戰鬥吧！每個強敵都將成為你登上高峰的墊腳石
-401,,去鍛鍊吧！練習技術將帶你找到通往勝利的真理
-402,,去交友吧！戰友或將是你成長的契機
-403,,去學習吧！學習新的職業新的技術將帶給你質的飛躍
-404,,去鍛鍊吧！練習循環將帶你找到通往勝利的真理
-405,,
-406,,
-500,運勢,戰爭神般的求勝之心將引你獲得無數的勝利
-501,,月亮神般的慈愛之心將引你獲得眾人的喜愛
-502,,太陽神般的熱情之心將引你尋得通往目標的捷徑
-503,,海洋神般的決斷之心將引你乘風破浪取得飛躍
-504,,放浪神般的好奇之心將引你在旅途中獲得無數愉快的邂逅
-1100,冒險,宜獨行 浪跡天涯 踏遍天下 獨享寧靜
-1101,,宜回憶 追憶往昔 昨日重現 常看常新
-1102,,宜節慶 冬去春來 萬家歡喜 普天同慶
-1103,,宜群集 大街小巷 人聲鼎沸 邂逅相逢
-1104,,宜遠行 勇者不懼 一往無前 功成名立
-1105,,宜妝點 身份銘牌 修飾妥當 會有相遇
-1106,,宜出行 萬丈豪光 照射之地 冒險之旅
-1200,關係,你應當做好心理準備迎接一場不期而遇
-1201,,重視你的每一次邂逅 緣分就在不經意之間
-1202,,帶頭尋找夥伴吧 你的良緣就在其中
-1203,,有好友相助 滴水之恩也值得你湧泉相報
-1204,,驟然的相遇或許沒有結果 但時間將為你帶來答案
-1205,,星歌孕育真心喜愛 去幻想的盡頭尋找吧
-1206,,機會去而復返 又該攜手開闢遠星天際啦
-1300,財產,靜待良機 遊樂場裡將有大賺頭！
-1301,,乘風破浪 海釣將有大豐收！
-1302,,安家置業 造房子將帶來好運！
-1303,,放手一搏 舊的不去新的不來！
-1304,,積少成多 賺大錢先要攢小錢！
-1305,,披星戴月 千里商途走得遠賺得多！
-1306,,日久情篤 老主顧多光臨穩賺不賠！
-1400,戰鬥,跨過障礙吧！和夥伴們攜手熱戰一場
-1401,,維持現狀吧！靜心努力打下紮實的基礎
-1402,,馳騁牌桌吧！運籌帷幄成為偉大的謀士
-1403,,追捕魔物吧！踏遍各地追捕邪惡魔物將為你帶來好運
-1404,,維持現狀吧！靜心努力打下紮實的基礎
-1405,,
-1406,,
-1500,運勢,你如行星神般的智慧之力將引你跨越難關轉危為安
-1501,,你如破壞神般的勇氣之力將引你打倒勁敵日益強大
-1502,,你如工匠神般的想像之力將引你在工匠之路上步步成長
-1503,,你如商貿神般的敏銳眼力將引你發現商機賺得財富
-1504,,你如地母神般的包容之力將引你締結嶄新的關係
-2100,冒險,堅忍不拔 自信自勵 前路為開
-2101,,蛛絲馬跡 疑蹤探案 請調查員 吉
-2102,,風土人情 民俗習慣 耳目一新
-2103,,良師益友 結伴同游 稱心快活
-2104,,投身洪流 隨潮浪湧 天命所歸
-2105,,置身孤島 種田養雞 頤養天年
-2106,,十二之數 相關場所 巡禮之旅
-2200,關係,時刻勿忘感恩 感恩將帶給你緣分
-2201,,身邊的好友就是你的至寶 務必珍惜與你同行的好友
-2202,,同好雖來自異國他鄉 但你的勇氣將成就你們的緣分
-2203,,勇敢地表達自己吧 磕巴地瞎比劃也總比閉口不談強
-2204,,裹足不前哪有良緣 快去參加冒險者們舉辦的活動吧
-2205,,有聚有散難免陰差陽錯 但人望必使你否極泰來
-2206,,好隊友才能託付後背 找真戰友一起登頂鬥技場吧
-2300,財產,日積月累 哪怕金額不大賺了就是賺了
-2301,,遷地為良 莫要錯失商機
-2302,,山珍異草 在山野地區採集有商機
-2303,,夥伴關係 朋友的介紹將帶來商機
-2304,,空海奇珍 潛水艇與飛空艇可能帶來財寶
-2305,,狼穴奪寶 實力換來獎盃
-2306,,爭分奪秒 限時採集賺金銀
-2400,戰鬥,能贏！ 記得帶夠藥和食物
-2401,,艱難取勝！ 調整一下裝備會更好
-2402,,能贏！ 但要戒驕戒躁 不因掉以輕心而失敗
-2403,,你們能贏！ 和同伴們調整好步調一起上吧！
-2404,,你們能贏！ 和同伴們調整好步調一起上吧！
-2405,,
-2406,,
-2500,運勢,你如光陰神般的信念將引你避開他人的誘惑
-2501,,你如知識神般的學識將引你從災難中脫身
-2502,,你如戰爭神般的雄心將引你在戰鬥中堅持到最後
-2503,,你如月亮神般的眼光將引你高瞻遠矚縱觀全局
-2504,,你如太陽神般的豪爽將引你和同伴走向前路
-3100,冒險,千里之行 始於足下 謀而後動
-3101,,異族相會 親仁善鄰 天下一家
-3102,,前路無阻 徘徊歧路 因禍得福
-3103,,獨行險阻 前路有難 同朋相助
-3104,,故地重遊 他鄉歸客 時來運轉
-3105,,尖牙利爪 豪強匯聚 展示武力
-3106,,強化創造 神兵利器 追求實力
-3200,關係,沒消息或算是好消息 但也別忘了常聯繫
-3201,,舊朋友也可結新緣 別忘了聯繫老朋友
-3202,,你的緣分或許會遲到 但只要耐心堅持相遇不會不到
-3203,,在危機中伸出援手 或將成就你的緣分
-3204,,重視你如今的關係吧 鞏固關係總是好的
-3205,,享受極致的孤獨亦是一種快樂 自在由心
-3206,,戴上眼鏡 擦亮眼睛才好看清人心
-3300,財產,退步抽身 越是遲疑損失越大
-3301,,如數家珍 你應當檢查自己財產
-3302,,福禍相依 不懼損失便能取得一定的利益
-3303,,揮金如土 便能得到自己真正想要的東西
-3304,,金蘭之交 好友將助你一臂之力
-3305,,寸土寸金 小家亦有小機遇
-3306,,佳節盈門 好日子莫忘好彩頭
-3400,戰鬥,別放棄！每次倒下都會讓你變得更強大
-3401,,別掉以輕心！每場戰鬥都要全力以赴
-3402,,別胡思亂想！每次練習都要專心致志
-3403,,鍛鍊吧！和夥伴們齊心協力繼續練習
-3404,,鍛鍊吧！和夥伴們齊心協力繼續練習
-3405,,
-3406,,
-3500,運勢,你如海洋神般的粗獷將引你對抗命運的驚濤駭浪
-3501,,你如放浪神般的溫良將引你面對失敗的挫折
-3502,,你如行星神般的樂觀將引你從容應對命運起伏
-3503,,你如破壞神般的嚴厲將引你突破難關走向勝利
-3504,,你如工匠神般的技巧將引你靈活應對武器裝備的損毀
-4100,冒險,鋪謀定計 精打細算 小心翼翼
-4101,,肆意妄為 身形交瘁 防微慮遠
-4102,,大頭鯰鯰 攔路搶劫 虛驚一場
-4103,,前路多阻 沉心靜氣 金石為開
-4104,,禍迫眉睫 救死扶傷 大慈大悲
-4105,,蹦蹦跳跳 兔族領地 值得一去
-4106,,回憶往昔 遠方之地 轉換心氣
-4200,關係,舊友中就有良緣在 但需謹防小人
-4201,,對方與你兩心相應 但你們之間的道路多有崎嶇
-4202,,要相信你的好友 切莫聽信流言蜚語
-4203,,你或將捲入紛爭亂戰 但切莫忘記你的溫柔體貼
-4204,,你或將被人誤解 但你的真誠必將得到理解
-4205,,走遍八方四面仍有迷茫 還請堅定自己的心
-4206,,身邊的新朋友太少？ 不如踏出一步去別處看看
-4300,財產,小心謹慎 切莫隨意投資眼下所見並非商機
-4301,,時運不濟 且待時來運轉再看仙人彩
-4302,,囤貨居奇 雖不能大賺一筆卻絕不會浪費
-4303,,入不敷出 改變僱員的裝扮或許有效
-4304,,海中撈月 認準時間天氣釣魚
-4305,,不堪重負 包裹滿了可怪不了別人哦
-4306,,魔石五孔 結果雖好但難免肉疼
-4400,戰鬥,要寬心！著眼同伴面對戰鬥
-4401,,後退就是失敗！下定決心再加入戰鬥
-4402,,不要著急！越著急越花時間
-4403,,再試一次！雖然取得了勝利 但沒拿到想要的東西
-4404,,再試一次！雖然取得了勝利 但沒拿到想要的東西
-4405,,
-4406,,
-4500,運勢,你將遭遇破壞神的雷鳴般的厄運 做好準備面對它吧
-4501,,你將遭遇戰爭神的大盾般的障礙 下定決心跨越它吧
-4502,,你將遭遇月亮神的獵犬般的強敵 制定對策挑戰它吧
-4503,,你將遭遇海洋神的巨浪般的困境 尋找機會應對它吧
-4504,,你將遭遇知識神的卷軸般的難題 學習知識回答它吧
-5100,冒險,天不作美 雨恨雲愁 稍安勿躁
-5101,,疏忽大意 降神節祭 險些忘記
-5102,,當前繁忙 需要排隊 耐心等待
-5103,,陌迪翁獄 守法無情 謹言慎行
-5104,,小心隕石 謹防擊退 按時踩塔
-5105,,幽暗漆黑 無光土地 提高運氣
-5106,,開始之地 青澀時光 引人追憶
-5200,關係,有回應 但表達感情時必須注意語氣
-5201,,心繫之人遙不可及 建議及早放棄
-5202,,莫要繼續深入 再深入將陷入泥沼不可自拔
-5203,,言談間需注意 說出不該說的話將追悔莫及
-5204,,有崩毀離散的跡象時 應以最大的誠意應對
-5205,,或有分別 務必小心 多多交流才能避免離心
-5206,,虛榮會毀滅信任 真誠才能助你度過難關
-5300,財產,有心無算 越想要的東西就越拿不到 放下執念吧
-5301,,時運乖蹇 朋友們的傳送魔紋可以進寶庫的 對吧？
-5302,,快樂至上 這裡不過是遊樂場而已 對物慾別太執著
-5303,,焚香掃地 淨身洗禮 禁斷昂貴魔晶石前做好準備
-5304,,丟三落四 忘刷神典石 早幹嘛去了
-5305,,破財消災 還是早點回家吧
-5306,,量力而為 花的錢可都是你自己賺來的啊
-5400,戰鬥,多鍛鍊！三腳貓的本事臨陣磨槍怎能獲勝
-5401,,雜念太多！戰鬥必須全力以赴才能取勝
-5402,,別放棄！苦戰連連時換個方向努力或許有效
-5403,,不要怕！連戰不勝的時候記得和同伴們互相鼓勵
-5404,,多鍛鍊！三腳貓的本事臨陣磨槍怎能獲勝
-5405,,
-5406,,
-5500,運勢,放下你行星神般沒有結果的愛戀 否則你將走向毀滅
-5501,,放下你商貿神般人前人後的多變 否則你將失去信譽
-5502,,放下你地母神般天崩地裂的怒火 否則你將陷入爭端
-5503,,放下你光陰神般混沌難測的處事 否則你將惹出大禍
-5504,,放下你太陽神般肆意妄為的豪氣 否則你將傷害親朋
+﻿key,0,1,2
+#,,,
+offset,8,0,4
+int32,bit&01,str,str
+0,False,"無効","無効"
+100,True,"Adventure:","Wander whither the winds take thee."
+101,True,"","Seek out sights thou hast yet to behold."
+102,True,"","Travel to lands held dear in thy heart."
+103,True,"","Thou shalt be blessed with the weather."
+104,True,"","Auspicious encounters await amidst the hustle and bustle of cities."
+105,True,"","Forget not to take thy repasts, for thou shalt be blessed with encounters most auspicious."
+106,True,"","Shirk not the offers of the august, for proffered hands forge new bonds."
+200,True,"Relationships:","Answer the call, and trust and honor accorded to heroes shall be thine."
+201,True,"","Cast thy gaze upon bonds eternal, for therein lie great blessings."
+202,True,"","To thy companions thou shalt be indebted. Forget not to express thine appreciation."
+203,True,"","A star-guided companion is closer than thou knowest."
+204,True,"","Fortunate are those who do not stray from their friends."
+205,True,"","The support of thy companions is unwavering. Venture boldly into the vast unknown."
+206,True,"","Break bread with peoples diverse and many. A dawn of golden blessings awaits."
+300,True,"Prosperity:","Cast aside thy greed, and thou shalt reap the spoils of numbers great."
+301,True,"","Upon thee luck shall smile. Seek riches in gilded halls."
+302,True,"","A treasure map thou shouldst unfurl. Unto great fortune it shall lead thee."
+303,True,"","All shall be to thy desire. Throw open coffers without fear."
+304,True,"","Profit shall come. Be honest in thy business dealings."
+305,True,"","From enduring friendships shall great rewards arise."
+306,True,"","A rare prize shall be thine. Give thanks to thy retainers."
+400,True,"Conflict:","Take to battle with confidence. Each mighty foe shall see thee grow."
+401,True,"","Beyond repetition lieth truth. Neglect not thy training."
+402,True,"","Look to thy comrades-in-arms. Much have they to teach thee."
+403,True,"","Great opportunities for growth lie in fields yet unexplored."
+404,True,"","Beyond repetition lieth truth. Neglect not thy training."
+405,False,"",""
+406,False,"",""
+500,True,"Favor:","Be fierce like unto the Fury, and victory shall be assured thee."
+501,True,"","Be kind like unto the Lover, and thou shalt receive kindness in return."
+502,True,"","Be passionate like unto the Warden, and the way shall be illuminated for thee."
+503,True,"","Be decisive like unto the Navigator, and serendipitous winds shall bear thee high."
+504,True,"","Be inquisitive like unto the Wanderer, and thou shalt find much joy in thy journeys."
+505,False,"",""
+506,False,"",""
+1100,True,"Adventure:","Hither and thither wander alone. Enjoy moments of respite all thine own."
+1101,True,"","Embark upon an old journey anew. Further discoveries await."
+1102,True,"","Participate in festivities and feel the turning of the seasons."
+1103,True,"","Heed the voices of the people, for they have tales untold to share."
+1104,True,"","Unexpected discoveries await in unexplored lands."
+1105,True,"","Remain true to thyself, and new encounters shall follow."
+1106,True,"","Opportunity awaiteth in lands blessed by golden dawn."
+1200,True,"Relationships:","Be prepared for unexpected encounters."
+1201,True,"","From an unlikely meeting a relationship shall bloom."
+1202,True,"","Friendship will bloom. Take the lead and gather comrades."
+1203,True,"","A friend shall come to thine aid. Neglect not to repay the debt."
+1204,True,"","Though slow to ripen, the sweetest of fruits await."
+1205,True,"","A new love blossoms. Follow thy heart's desires."
+1206,True,"","Cooperation shall pave the way to the very stars themselves."
+1300,True,"Prosperity:","Great riches await in gilded halls. Be open-handed."
+1301,True,"","Sail forth and cast thy nets. A great haul awaits thee."
+1302,True,"","Invest in thy home. From it fortune shall grow."
+1303,True,"","Bid farewell to the old; bid welcome to the new."
+1304,True,"","Stay alert to opportunity, and thou shalt make thy fortune."
+1305,True,"","Set forth beneath the moon and stars. In their guidance fortune lies. "
+1306,True,"","To thy patrons pay visit. Sound profits await thee."
+1400,True,"Conflict:","Temper thyself in the heat of friendly rivalries."
+1401,True,"","Thy weapon suiteth thee well. Continue in thine efforts with confidence."
+1402,True,"","The tiles favor thee. Try thy hand at mahjong."
+1403,True,"","In the pursuit of fell fiends far and wide, thou shalt find good fortune."
+1404,True,"","Thy weapon suiteth thee well. Continue in thine efforts with confidence."
+1405,False,"",""
+1406,False,"",""
+1500,True,"Favor:","Be wise like unto the Spinner, and fortune shall favor thee in all its domains. "
+1501,True,"","Be bold like unto the Destroyer, and all foes shall fall before thee."
+1502,True,"","Be creative like unto the Builder, and a surer hand of craftsmanship shall be thine."
+1503,True,"","Be discerning like unto the Traders, and no chance to profit shall pass thee by."
+1504,True,"","Be forbearing like unto the Matron, and the seeds of new friendship shall quicken for thee."
+1505,False,"",""
+1506,False,"",""
+2100,True,"Adventure:","Stay true to thyself, and the way shall open for thee."
+2101,True,"","A case is afoot. Enlist the services of the most gentlemanly of inspectors."
+2102,True,"","Look closely at the weave of the lands thou seest, and thou shalt make new discoveries."
+2103,True,"","Gather thine allies, and embark upon a journey to remember."
+2104,True,"","Place thyself in fate's hand, and thou wilt surely grow."
+2105,True,"","Heed the whispers of nature. On a faraway island shalt thou find solace and sanctuary."
+2106,True,"","Rejoice in the Twelve, and thy revels shall not go unrewarded."
+2200,True,"Relationships:","Be ever grateful, and thou shalt know blessed friendship."
+2201,True,"","Thy comrades are thy treasures. Cherish them well."
+2202,True,"","From a foreign land cometh a kindred soul. Embrace them without reserve."
+2203,True,"","Where words fail to convey thy feelings, gestures may yet succeed."
+2204,True,"","Nothing good will come of waiting. Participate in a gathering hosted by adventurers."
+2205,True,"","Share without reservation. Thy virtues will be rewarded."
+2206,True,"","Seek out comrades-in-arms, and thy feats of valor shall reach ever greater heights."
+2300,True,"Prosperity:","Great success is the accumulation of small efforts. Neglect not thy daily chores."
+2301,True,"","Now is an auspicious time to find a new home. Seize the opportunity."
+2302,True,"","Great profits await reaping in the wilderness."
+2303,True,"","A chance for profit shall come by way of a friend."
+2304,True,"","Wealth lieth in the seas and skies. Send forth vessels to explore."
+2305,True,"","Luck shall be thine among wolves. Claim victories to thy name."
+2306,True,"","Thou shalt accumulate resources. Mark well the tide."
+2400,True,"Conflict:","Neglect not thy provisions, and victory shall be thine."
+2401,True,"","A grueling battle awaiteth. Reassess thine equipment."
+2402,True,"","Dwell not overmuch in sweet victory, or bitter defeat shall follow."
+2403,True,"","For strength thou wantest not. Thou needest but breathe as one with thine allies."
+2404,True,"","For strength thou wantest not. Thou needest but breathe as one with thine allies."
+2405,False,"",""
+2406,False,"",""
+2500,True,"Favor:","Be steadfast like unto the Keeper, and thou shalt not be led astray."
+2501,True,"","Be wise like unto the Scholar, and thou shalt find a way to overcome misfortune."
+2502,True,"","Be resolute like unto the Fury, and thou shalt know no surrender."
+2503,True,"","Be observant like unto the Lover, and thou shalt see all things for what they are."
+2504,True,"","Be audacious like unto the Warden, and thy comrades shall follow thee true."
+2505,False,"",""
+2506,False,"",""
+3100,True,"Adventure:","Know thy destination before thou embarkest upon thy journey."
+3101,True,"","Hearken to the pleas of those in need, no matter their race or creed."
+3102,True,"","Seek fortune along the byway."
+3103,True,"","Alone thou shalt struggle. Set forth with allies."
+3104,True,"","Behold once more the first city thou didst see. There, good fortune awaiteth thee."
+3105,True,"","In the land of the fierce shall thine abilities be tested. Bring thy full might to bear."
+3106,True,"","Forge thy weapons anew, for thy pursuits shall reveal untold strength."
+3200,True,"Relationships:","Neglect not to stay in touch with loved ones, and all shall be well."
+3201,True,"","A face from thy past shall appear. Rekindle thy friendship."
+3202,True,"","There shall be a meeting long in the making. Abide in patience."
+3203,True,"","Help those in need, and friendship shall bloom."
+3204,True,"","Cherish the bonds with which thou art blessed, and strive to strengthen them."
+3205,True,"","The path of independence is paved with delight. It is up to thee to embrace it."
+3206,True,"","Hone thy perception and gain insight into the hearts of others."
+3300,True,"Prosperity:","Now is the time to sell. The longer thou waitest, the greater thy loss."
+3301,True,"","Put thy belongings in order."
+3302,True,"","If thou fearest not to lose, thou shalt stand to gain."
+3303,True,"","Although it be at great expense, thou shalt obtain the object of thy desire."
+3304,True,"","Thou shalt gain through the help of thy friends."
+3305,True,"","From small lands great fortunes shall arise."
+3306,True,"","Rich rewards await in festivals. Attend them with abandon."
+3400,True,"Conflict:","Although thou shalt fall, thou shalt rise up stronger each time."
+3401,True,"","Be not complacent. Remain vigilant from beginning to end."
+3402,True,"","Cast aside idle thoughts, and focus wholly on that which requireth thine attention."
+3403,True,"","Continue honing thyself with thine allies."
+3404,True,"","Continue honing thyself with thine allies."
+3405,False,"",""
+3406,False,"",""
+3500,True,"Favor:","Be boisterous like unto the Navigator, and from fate's tides thou mayest yet break free."
+3501,True,"","Be carefree like unto the Wanderer, and some few failures shall not discourage thee."
+3502,True,"","Be farsighted like unto the Spinner, and thou shalt rise above the caprices of fortune."
+3503,True,"","Be unyielding like unto the Destroyer, and thou shalt break through any hardship."
+3504,True,"","Be dextrous like unto the Builder, and thy tools shall never fail thee."
+3505,False,"",""
+3506,False,"",""
+4100,True,"Adventure:","Neglect not to lay plans."
+4101,True,"","Thine excesses shall take their toll. Pay thy health due care on the road."
+4102,True,"","Whiskered fish shall impede thy steps. Exercise due care."
+4103,True,"","The way is clear. Forge on with a calm heart."
+4104,True,"","The future holdeth disaster. Be as a light in the darkness to those around thee."
+4105,True,"","Thou shalt find repose where rabbits tread."
+4106,True,"","Renew thy spirit beyond the horizon."
+4200,True,"Relationships:","An old friend may become a new flame. Handle the fires of passion with care."
+4201,True,"","Thou shalt waver in the face of affection."
+4202,True,"","Trust in thy comrades. Heed not gossip and hearsay."
+4203,True,"","Forget not thy kindness in the midst of conflict."
+4204,True,"","With sincerity shalt thou allay misunderstanding."
+4205,True,"","Be not led astray by the clamor and tumult of the world. Remain steadfast in thy beliefs."
+4206,True,"","Seek encounters in lands distant and unknown."
+4300,True,"Prosperity:","Act not with emotion, lest thou misjudge an item's worth."
+4301,True,"","Games of chance do not favor thee. Abide in patience."
+4302,True,"","Fret not over excess stock. It shall not go to waste."
+4303,True,"","Good fortune awaiteth. Outfit thy retainers anew."
+4304,True,"","Thy nets shall be empty. If thou wouldst catch fish, watch well the tides."
+4305,True,"","The storehouse shall overflow. Make thy peace."
+4306,True,"","With improvidence shalt thou indulge in fashions."
+4400,True,"Conflict:","Be magnanimous in thine encounters."
+4401,True,"","Apprehension shall beget failure. Take to battle with naught save complete resolve."
+4402,True,"","Victory must not be rushed. Allow it to come in due course."
+4403,True,"","Even in victory, thy heart's desire shall elude thee. Perseverance is the key."
+4404,True,"","Even in victory, thy heart's desire shall elude thee. Perseverance is the key."
+4405,False,"",""
+4406,False,"",""
+4500,True,"Favor:","Like unto the Destroyer's bolt, misfortune may strike without warning. Be ever prepared."
+4501,True,"","To defeat adversity as unassailable as the Fury's shield, thou must strike with resolve unwavering."
+4502,True,"","To triumph over foes as ferocious as the Lover's loyal hound, thou must devise a stratagem."
+4503,True,"","To rise above hardship as tumultuous as the Navigator's raging waves, thou must bide thy time."
+4504,True,"","To resolve dilemmas as confounding as the Scholar's scrolls, thou must seek new wisdom."
+4505,False,"",""
+4506,False,"",""
+5100,True,"Adventure:","Thou shalt not be blessed with the weather. Abide in patience."
+5101,True,"","Be alert lest a celebration pass thee by."
+5102,True,"","Thou shalt be made to wait to sally forth. With apologies, pray abide in patience."
+5103,True,"","Think upon thy daily conduct, lest thou be incarcerated."
+5104,True,"","Beware the shooting star, for it bringeth destruction."
+5105,True,"","Fortune favors those who brave the shadows."
+5106,True,"","Hearken back to journeys past, for thy memories shall be thy strength."
+5200,True,"Relationships:","Thou shalt hear from the object of thine affection. Choose well thy words."
+5201,True,"","The flower is beyond thy reach. Seek it to thy sorrow."
+5202,True,"","Pursue not deeply, lest thou be bogged in a mire."
+5203,True,"","That which is said cannot be unsaid. Mind thy words."
+5204,True,"","Thou standest at a precipice. Act in good faith."
+5205,True,"","Resign thyself not to disharmony. Dialogue fosters understanding."
+5206,True,"","Vanity is the enemy of reputation. Stay true to thyself."
+5300,True,"Prosperity:","The greater thy desire, the smaller the prize. Clear thy mind."
+5301,True,"","A thief's map shall avail thee not. Turn instead to that of thine allies."
+5302,True,"","Seek not profit in gilded halls. Let the amusement be its own reward."
+5303,True,"","The mightier the materia, the greater the risk. Purify thyself."
+5304,True,"","Now is not the time to collect tomestones."
+5305,True,"","Thy belongings shall be borne away. Hasten thou home."
+5306,True,"","Much wilt thou spend at the market. By thine own efforts seek gain."
+5400,True,"Conflict:","A dull blade is quick to break. Hone thyself well."
+5401,True,"","Cast aside idle thoughts, and focus wholly on that which requireth thine attention."
+5402,True,"","Shouldst thou struggle to advance, look to a different path."
+5403,True,"","In times of trial, allies must turn to each other for strength."
+5404,True,"","A dull blade is quick to break. Hone thyself well."
+5405,False,"",""
+5406,False,"",""
+5500,True,"Favor:","Shouldst thou pursue forbidden love like unto the Spinner, thou shalt walk the path of destruction."
+5501,True,"","Shouldst thou abide in duplicity like unto the Traders, thou shalt be lost to trust."
+5502,True,"","Unless thou castest aside thine anger like unto the Matron, thou shalt know no respite from conflict."
+5503,True,"","Unless thou embrace order like unto the Keeper, thy difficulties shall become graver still."
+5504,True,"","Shouldst thou cling to thine audacity like unto the Warden, thou shalt scorch those around thee."
+5505,False,"",""
+5506,False,"",""

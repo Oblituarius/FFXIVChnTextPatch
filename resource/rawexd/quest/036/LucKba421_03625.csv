@@ -2,170 +2,170 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_LUCKBA421_03625_SEQ_00,鼴靈集市的凱瑞格遇到了困難。
-1,TEXT_LUCKBA421_03625_SEQ_01,甦醒的少年除了自己的名字叫緹納外什麼都不記得。在鼴靈集市和緹納談談。
-2,TEXT_LUCKBA421_03625_SEQ_02,緹納具有龐大的魔力，很可能有一位魔法師師父。為了尋找緹納的監護人，和經常往來鼴靈集市的老練的旅行商人談談。
-3,TEXT_LUCKBA421_03625_SEQ_03,旅行商人說自己看到一位和病魔作戰鬥的魔法師與孩子走散了。前往安穆·艾蘭的上路客店，和客店的看護人談談。
-4,TEXT_LUCKBA421_03625_SEQ_04,魔法師不是緹納的監護人。凱瑞格對冒險者說，應該將緹納交給別人照顧。在上路客店和凱瑞格談談。
-5,TEXT_LUCKBA421_03625_SEQ_05,魔法師的兒子被帶回了客店，緹納與他吵了一架，從客店中跑了出去。前往安穆·艾蘭的琥珀原尋找緹納。
-6,TEXT_LUCKBA421_03625_SEQ_06,討伐了襲擊緹納的獨行食罪靈。在琥珀原救助緹納。
-7,TEXT_LUCKBA421_03625_SEQ_07,看到了緹納的過去。緹納似乎當年與年幼時的奈貝爾特有過來往。可只有緹納如今仍保持著年幼的模樣。先回上路客店，和有心理陰影的少年談談。
-8,TEXT_LUCKBA421_03625_SEQ_08,少年為緹納恢復了記憶而高興。返回鼴靈集市，和凱瑞格談談。
-9,TEXT_LUCKBA421_03625_SEQ_09,雖然不知道緹納與奈貝爾特為何在時間上出現了偏差，但可以知道的是，他們都經歷過生成空洞的訓練。凱瑞格決定繼續照顧緹納。等待緹納恢復記憶。<hex:02100103><hex:02100103>※任意魔法進攻職業的等級達到76級以上時，可以從鼴靈集市的凱瑞格那裡領取下一個魔法進攻職能任務。
-10,TEXT_LUCKBA421_03625_SEQ_10,
-11,TEXT_LUCKBA421_03625_SEQ_11,
-12,TEXT_LUCKBA421_03625_SEQ_12,
-13,TEXT_LUCKBA421_03625_SEQ_13,
-14,TEXT_LUCKBA421_03625_SEQ_14,
-15,TEXT_LUCKBA421_03625_SEQ_15,
-16,TEXT_LUCKBA421_03625_SEQ_16,
-17,TEXT_LUCKBA421_03625_SEQ_17,
-18,TEXT_LUCKBA421_03625_SEQ_18,
-19,TEXT_LUCKBA421_03625_SEQ_19,
-20,TEXT_LUCKBA421_03625_SEQ_20,
-21,TEXT_LUCKBA421_03625_SEQ_21,
-22,TEXT_LUCKBA421_03625_SEQ_22,
-23,TEXT_LUCKBA421_03625_SEQ_23,
-24,TEXT_LUCKBA421_03625_TODO_00,和緹納對話
-25,TEXT_LUCKBA421_03625_TODO_01,和老練的旅行商人對話
-26,TEXT_LUCKBA421_03625_TODO_02,在上路客店和客店的看護人對話
-27,TEXT_LUCKBA421_03625_TODO_03,和凱瑞格對話
-28,TEXT_LUCKBA421_03625_TODO_04,尋找緹納
-29,TEXT_LUCKBA421_03625_TODO_05,救助緹納
-30,TEXT_LUCKBA421_03625_TODO_06,和有心理陰影的少年對話
-31,TEXT_LUCKBA421_03625_TODO_07,和鼴靈集市的凱瑞格對話
-32,TEXT_LUCKBA421_03625_TODO_08,
-33,TEXT_LUCKBA421_03625_TODO_09,
-34,TEXT_LUCKBA421_03625_TODO_10,
-35,TEXT_LUCKBA421_03625_TODO_11,
-36,TEXT_LUCKBA421_03625_TODO_12,
-37,TEXT_LUCKBA421_03625_TODO_13,
-38,TEXT_LUCKBA421_03625_TODO_14,
-39,TEXT_LUCKBA421_03625_TODO_15,
-40,TEXT_LUCKBA421_03625_TODO_16,
-41,TEXT_LUCKBA421_03625_TODO_17,
-42,TEXT_LUCKBA421_03625_TODO_18,
-43,TEXT_LUCKBA421_03625_TODO_19,
-44,TEXT_LUCKBA421_03625_TODO_20,
-45,TEXT_LUCKBA421_03625_TODO_21,
-46,TEXT_LUCKBA421_03625_TODO_22,
-47,TEXT_LUCKBA421_03625_TODO_23,
-48,TEXT_LUCKBA421_03625_CERIGG_000_000,就等你來了！那個少年已經醒了。<hex:02100103>幸運的是沒什麼後遺症，但卻有一點很棘手。
-49,TEXT_LUCKBA421_03625_CERIGG_000_001,他似乎……失去了幾乎全部的記憶。<hex:02100103>問他什麼都說不知道，包括他為什麼會在空洞裡。
-50,TEXT_LUCKBA421_03625_CERIGG_000_002,唯一記得的就是自己的名字，<hex:02100103>他說他叫緹納。
-51,TEXT_LUCKBA421_03625_CERIGG_000_003,那孩子連吃我做的難吃飯菜都沒有任何抱怨，是個好孩子，<hex:02100103>不過失憶的時候自己一個人待著會很無助吧。<hex:02100103>我們得快點找到他的監護人，把他交給對方。
-52,TEXT_LUCKBA421_03625_CERIGG_000_004,他現在正在鼴靈集市轉悠，<hex:02100103>想看看能不能回憶起什麼。<hex:02100103>你也去見見他吧。
-53,TEXT_LUCKBA421_03625_CERIGG_000_010,雖然我們現在已經偏離了打倒智德這個目標……<hex:02100103>但我不能放著失憶的孩子不管。<hex:02100103>快點找到他的監護人，回去做我們的正事吧。
-54,TEXT_LUCKBA421_03625_TAYNOR_000_020,這種溫暖的感覺……跟我在一片漆黑中感受到的乙太一模一樣。<hex:02100103>你就是在空洞中呼喚我的人吧？
-55,TEXT_LUCKBA421_03625_CERIGG_000_021,厲害，光是見到<hex:022903EB0203>就能察覺到。
-56,TEXT_LUCKBA421_03625_CERIGG_000_022,我找了治療師想看看他有沒有什麼異常，<hex:02100103>結果知道了一件事：緹納擁有遠超出他年紀的大量魔力。<hex:02100103>也就是說，他很有魔法師的天分。
-57,TEXT_LUCKBA421_03625_TAYNOR_000_024,只不過……對不起，<hex:02100103>我自己什麼都不記得……<hex:02100103>等我有意識的時候，我已經在黑暗……在空洞中了。
-58,TEXT_LUCKBA421_03625_CERIGG_000_025,沒關係，我能想像得出你有多害怕。<hex:02100103>話說回來，你還記得在空洞中發生的事嗎？
-59,TEXT_LUCKBA421_03625_TAYNOR_000_026,我覺得在黑暗中，好像有人從我身邊經過一樣，<hex:02100103>那種感覺很神奇。我之所以會甦醒應該也是因為那種感覺。
-60,TEXT_LUCKBA421_03625_CERIGG_000_027,唔，據說空洞內部是這個世界的外側——時空狹縫。<hex:02100103>有人會從那種地方經過？<hex:02100103>莫非最近有其他世界的人來到這個世界？
-61,TEXT_LUCKBA421_03625_Q1_000_000,如何回答凱瑞格？
-62,TEXT_LUCKBA421_03625_A1_000_000,或許是吧
-63,TEXT_LUCKBA421_03625_A2_000_000,不可能
-64,TEXT_LUCKBA421_03625_CERIGG_000_030,嗯？你好像有什麼頭緒？<hex:02100103>不過看你含糊其辭的樣子，應該也不能肯定吧。
-65,TEXT_LUCKBA421_03625_CERIGG_000_035,嗯，時空狹縫畢竟在我們的理解範圍之外。<hex:02100103>我們對空洞的了解實在太少了。
-66,TEXT_LUCKBA421_03625_CERIGG_000_040,算了，想再多，不明白的事還是不明白。<hex:02100103>現在就優先做能做的吧，比如尋找緹納的監護人。<hex:02100103>關於記憶的事，只能慢慢找回了。
-67,TEXT_LUCKBA421_03625_TAYNOR_000_041,你們都有工作要做，這樣方便嗎？<hex:02100103>能得到你們的保護我已經很感激了，<hex:02100103>會不會給你們添麻煩……
-68,TEXT_LUCKBA421_03625_CERIGG_000_042,這不是你的錯，不用介意。<hex:02100103>而且，關於你的身世，我也不是一點線索都沒有。
-69,TEXT_LUCKBA421_03625_CERIGG_000_043,首先，最糟糕的可能性是<hex:02100103>你孑然一身，沒有任何親朋好友。<hex:02100103>不過我覺得這個可能性很低。
-70,TEXT_LUCKBA421_03625_CERIGG_000_044,證據就是，你擁有龐大的魔力。<hex:02100103>如果只是與生俱來的才能是不可能達到這種程度的。<hex:02100103>你應該有一位教你魔法的師父。
-71,TEXT_LUCKBA421_03625_CERIGG_000_045,不管那個人是不是你的血親，<hex:02100103>至少有人曾經保護你、教育你。<hex:02100103>所以不要這麼消沉。
-72,TEXT_LUCKBA421_03625_TAYNOR_000_046,好……我想見自己的家人！
-73,TEXT_LUCKBA421_03625_CERIGG_000_047,很好！那我們就詳細說一說。<hex:02100103>我在鼴靈集市和水晶都大致查了一下，<hex:02100103>並沒有發現與你特徵一致的尋人啟示。
-74,TEXT_LUCKBA421_03625_CERIGG_000_048,這表示我們應該找找其他地方。<hex:02100103>不如去找經常出入鼴靈集市的老練的旅行商人，<hex:02100103>問問他有沒有什麼線索吧。
-75,TEXT_LUCKBA421_03625_CERIGG_000_060,緹納那小子，雖然還是顯得很不安，<hex:02100103>但小小年紀能保持住冷靜已經很了不起了。
-76,TEXT_LUCKBA421_03625_TAYNOR_000_065,你們兩個……都是溫柔的好人呢。
-77,TEXT_LUCKBA421_03625_TRAVELINGMERCHANT03625_000_080,有沒有人正在找和這個小弟弟相似的人……<hex:02100103>唔……我倒是想到了一個人。
-78,TEXT_LUCKBA421_03625_TRAVELINGMERCHANT03625_000_081,我在來這裡之前去了一趟上路客店，<hex:02100103>看到一位正與病魔作戰鬥的魔法師，<hex:02100103>他說自己被食罪靈襲擊，與孩子走散了。
-79,TEXT_LUCKBA421_03625_CERIGG_000_082,哦哦！這麼快就收到了靠譜的情報！<hex:02100103>如果是與父親失散後遇到了智德的話，<hex:02100103>就跟緹納的情況完全吻合了。
-80,TEXT_LUCKBA421_03625_TAYNOR_000_083,那麼，那個人……就是我的父親？！<hex:02100103>我們快點過去吧！
-81,TEXT_LUCKBA421_03625_CERIGG_000_084,不過，在上路客店與病魔作戰鬥啊……<hex:02100103>那裡的人都是……不，還是不要亂猜了。<hex:02100103>我們先去跟客店的看護人談談吧。
-82,TEXT_LUCKBA421_03625_TRAVELINGMERCHANT03625_000_090,我在上路客店見到了與兒子走散的魔法師。<hex:02100103>只知道他得了病，但不知道病情如何。
-83,TEXT_LUCKBA421_03625_CERIGG_000_095,不知道能不能讓緹納露出笑容……
-84,TEXT_LUCKBA421_03625_TAYNOR_000_100,我的家人就在這裡？<hex:02100103>可是……這裡……
-85,TEXT_LUCKBA421_03625_CERIGG_000_120,你好，我想諮詢一點事……<hex:02100103>我聽說這裡收容了一個與孩子走散的魔法師，<hex:02100103>他找到他的孩子了嗎？
-86,TEXT_LUCKBA421_03625_NURSE03625_000_121,找到了啊，他的兒子現在就在我們這裡。
-87,TEXT_LUCKBA421_03625_TAYNOR_000_122,怎、怎麼會這樣！認錯人了？！
-88,TEXT_LUCKBA421_03625_NURSE03625_000_123,這孩子也在找自己的家人嗎？
-89,TEXT_LUCKBA421_03625_CERIGG_000_124,對，我們原本以為他的監護人<hex:02100103>就在這個客店裡，還很期待見到人呢……
-90,TEXT_LUCKBA421_03625_TAYNOR_000_125,請、請問……這裡應該還有很多人吧？<hex:02100103>我可以找找裡面有沒有我的家人嗎？
-91,TEXT_LUCKBA421_03625_NURSE03625_000_126,可以是可以，但在這裡對抗病魔的人大多都是……<hex:02100103>那個，為自己未知的明天而痛苦的人。<hex:02100103>因此不太方便小孩子自己到處走動……
-92,TEXT_LUCKBA421_03625_CERIGG_000_127,也是。<hex:02100103>看來得我或者<hex:022903EB0203>跟著一起去了。
-93,TEXT_LUCKBA421_03625_SHADOWYBOY03625_000_128,要不然我跟他一起去吧，<hex:02100103>我也可以順便散散心。
-94,TEXT_LUCKBA421_03625_CERIGG_000_129,……我明白了，這樣比較好。<hex:02100103>不好意思，那就拜託你了？
-95,TEXT_LUCKBA421_03625_CERIGG_000_130,他剛才說要去散散心……<hex:02100103>他的那位魔法師父親呢？
-96,TEXT_LUCKBA421_03625_NURSE03625_000_131,他剛才馬上就要變成食罪靈……已經上路了。
-97,TEXT_LUCKBA421_03625_NURSE03625_000_132,那孩子也算是見了父親最後一面了。<hex:02100103>不過，讓那麼小的孩子親眼見到<hex:02100103>父親即將變成食罪靈的模樣究竟好還是不好……
-98,TEXT_LUCKBA421_03625_NURSE03625_000_133,幸好他在水晶都似乎還有親人，<hex:02100103>我們打算事後再送他回去。
-99,TEXT_LUCKBA421_03625_CERIGG_000_134,這樣啊……我們也差不多得考慮考慮<hex:02100103>要把緹納交給誰照顧了。
-100,TEXT_LUCKBA421_03625_CERIGG_000_135,……別露出這種表情啊。<hex:02100103>我不是要放棄尋找監護人，<hex:02100103>只是在說我們沒法一邊工作一邊照顧他。
-101,TEXT_LUCKBA421_03625_CERIGG_000_136,我也覺得正常來說應該照顧他到找到監護人為止。<hex:02100103>可是我們原本的目的是討伐智德，<hex:02100103>總不能就這麼不幹了吧？
-102,TEXT_LUCKBA421_03625_CERIGG_000_137,我們先把緹納送到安全的地方，<hex:02100103>自己回去做原本的工作，然後等去別的地方調查的時候<hex:02100103>再繼續找他的監護人……你不覺得這種做法才是最好的嗎？
-103,TEXT_LUCKBA421_03625_Q1_000_100,如何回答凱瑞格？
-104,TEXT_LUCKBA421_03625_A1_000_100,不能再努力一下嗎
-105,TEXT_LUCKBA421_03625_A2_000_100,你知道哪裡安全嗎？
-106,TEXT_LUCKBA421_03625_CERIGG_000_140,我明白你的心情……<hex:02100103>但為了不讓緹納這樣的犧牲者變多，<hex:02100103>我們才更應該把打倒智德放在第一位不是嗎？
-107,TEXT_LUCKBA421_03625_CERIGG_000_145,嗯。彷徨階梯亭的老闆很有同情心，認識的人也多，<hex:02100103>我打算讓他幫忙找找收養緹納的人。
-108,TEXT_LUCKBA421_03625_CERIGG_000_150,雖然無可奈何……但至少得出了統一的結論。<hex:02100103>那我們去找緹納匯合吧。<hex:02100103>這個決定是我下的……就由我來跟他說吧。
-109,TEXT_LUCKBA421_03625_NURSE03625_000_160,沒能幫上緹納的忙，真是抱歉。<hex:02100103>希望他能早日找到家人。
-110,TEXT_LUCKBA421_03625_SHADOWYBOY03625_000_165,對不起……都怪我……
-111,TEXT_LUCKBA421_03625_CERIGG_000_170,事情不好了。<hex:02100103>緹納好像跟他吵了架，<hex:02100103>然後就跑到外面去了。
-112,TEXT_LUCKBA421_03625_CERIGG_000_171,緹納似乎不小心說了自己從空洞出來的事，<hex:02100103>然後他就貿然斷定緹納直接受到了食罪靈的攻擊。
-113,TEXT_LUCKBA421_03625_SHADOWYBOY03625_000_172,我以為緹納會像父親那樣也變成食罪靈，<hex:02100103>就隨口問了他一句「你沒事吧？」。
-114,TEXT_LUCKBA421_03625_SHADOWYBOY03625_000_173,然後他問我「什麼沒事？」，<hex:02100103>他明明什麼都不知道，卻一臉認真地問個不停，<hex:02100103>我就……一時火大……
-115,TEXT_LUCKBA421_03625_SHADOWYBOY03625_000_174,跟他吼了一句<hex:02100103>「你是不是也會變成食罪靈？！」。
-116,TEXT_LUCKBA421_03625_CERIGG_000_175,緹納失去了記憶，非常不安。<hex:02100103>而你現在的情況跟他一樣糟糕，怪我沒提前告訴你，<hex:02100103>讓你心情更加難過了。
-117,TEXT_LUCKBA421_03625_CERIGG_000_176,為了他和緹納，我們說什麼都要把人找到。<hex:02100103>我去客店西邊找，你去東邊吧。
-118,TEXT_LUCKBA421_03625_SHADOWYBOY03625_000_180,我想向緹納道歉。<hex:02100103>所以……拜託你了……
-119,TEXT_LUCKBA421_03625_CERIGG_000_200,我聽到有打鬥聲就趕過來了……<hex:02100103>你們沒事吧。
-120,TEXT_LUCKBA421_03625_TAYNOR_000_201,對不起……<hex:02100103>是我害你們遇到了危險。
-121,TEXT_LUCKBA421_03625_TAYNOR_000_202,我很擔心自己的記憶永遠恢復不了……<hex:02100103>再一想到自己有可能不是人類了，<hex:02100103>就不知道自己應該怎麼辦。
-122,TEXT_LUCKBA421_03625_CERIGG_000_203,治療師給你看的時候我問過了，<hex:02100103>你沒有直接受到食罪靈的攻擊，<hex:02100103>不會變成食罪靈的。
-123,TEXT_LUCKBA421_03625_TAYNOR_000_204,原來是這樣……太好了。<hex:02100103>那我得向那個孩子道歉……<hex:02100103>都怪我什麼都不知道，還一直問變成食罪靈的事。
-124,TEXT_LUCKBA421_03625_CERIGG_000_205,……是啊。<hex:02100103>不過，你是真的很不安吧？<hex:02100103>我覺得沒必要太壓抑自己的真實想法哦。
-125,TEXT_LUCKBA421_03625_TAYNOR_000_206,……我對這個世界一無所知，<hex:02100103>也找不到認識我的人……<hex:02100103>今後會不會永遠都孤獨下去呢。
-126,TEXT_LUCKBA421_03625_TAYNOR_000_207,我不甘心，哪怕能恢復記憶也好！<hex:02100103>那樣我就能想起認識我的人了。<hex:02100103>我不想再感受擔心自己永遠孤獨的不安與寂寞了！
-127,TEXT_LUCKBA421_03625_MAGELEADER_000_208,接下來輪到你了，緹納。<hex:02100103>快點，只不過才失敗了一次，不要膽怯。
-128,TEXT_LUCKBA421_03625_NYELBERT_000_209,(-聰明伶俐的少年-)別怕，我和你擁有的魔力差不多一樣，<hex:02100103>只要集中精神，很容易就能做到。
-129,TEXT_LUCKBA421_03625_TAYNOR_000_210,我知道了……奈貝爾特。<hex:02100103>我試試。
-130,TEXT_LUCKBA421_03625_CERIGG_000_211,喂，你怎麼了？
-131,TEXT_LUCKBA421_03625_TAYNOR_000_212,對了……我之前也曾經像這樣不甘心地站在荒野上，<hex:02100103>但是那個時候，在我身邊的人是奈貝爾特……
-132,TEXT_LUCKBA421_03625_TAYNOR_000_213,……咦，奈貝爾特是？
-133,TEXT_LUCKBA421_03625_CERIGG_000_214,……雖然我不知道發生了什麼，但這裡不是談話的好地方。<hex:02100103>我們先回上路客店吧。
-134,TEXT_LUCKBA421_03625_TAYNOR_000_220,對了，我還得找他道歉。
-135,TEXT_LUCKBA421_03625_CERIGG_000_225,在我們討論複雜的問題之前，<hex:02100103>先讓小孩子們自己談談吧。
-136,TEXT_LUCKBA421_03625_SHADOWYBOY03625_000_240,緹納，你沒事真是太好了……<hex:02100103>剛才是我說得太過分了，對不起！
-137,TEXT_LUCKBA421_03625_TAYNOR_000_241,要說對不起的人是我……<hex:02100103>而且……我跑出去之後，想起了一點過去的事。
-138,TEXT_LUCKBA421_03625_SHADOWYBOY03625_000_242,真的嗎？！<hex:02100103>那不是很好！你的不安……應該緩解了一點吧。
-139,TEXT_LUCKBA421_03625_SHADOWYBOY03625_000_243,我今後會去水晶都生活。<hex:02100103>等你恢復記憶穩定下來了，一定要來找我玩啊。
-140,TEXT_LUCKBA421_03625_TAYNOR_000_244,嗯，就這麼說定了。<hex:02100103>我一定會去找你的。
-141,TEXT_LUCKBA421_03625_CERIGG_000_245,那我們就帶著這個新約定回鼴靈集市吧。<hex:02100103>需要整理的情報實在有點多。
-142,TEXT_LUCKBA421_03625_TAYNOR_000_260,我和記憶中的……他，<hex:02100103>也有過剛才那樣的約定嗎？
-143,TEXT_LUCKBA421_03625_CERIGG_000_280,那就開始吧。<hex:02100103>在你頭暈之後，緹納恢復了一部分記憶。<hex:02100103>當時發生了什麼，請你詳細給我講講吧。
-144,TEXT_LUCKBA421_03625_CERIGG_000_290,看到過去的能力啊……
-145,TEXT_LUCKBA421_03625_CERIGG_100_290,事實上，<hex:022903EB0203>看到的過去，<hex:02100103>跟緹納想起來的內容是一致的吧？
-146,TEXT_LUCKBA421_03625_CERIGG_000_291,……這可真是驚人的發現。<hex:02100103>在你看到的過去中，緹納竟然和奈貝爾特在一起。
-147,TEXT_LUCKBA421_03625_CERIGG_000_292,那個男人是曾經的光之戰士，<hex:02100103>也是如今化身為獨行食罪靈智德的人！<hex:02100103>他的少年時代可在一百多年以前啊！
-148,TEXT_LUCKBA421_03625_CERIGG_000_293,雖然我很想當成是同姓同名的其他人……<hex:02100103>但應該沒有哪個父母會給孩子取大罪人的名字。<hex:02100103>只能當成是同一個人了。
-149,TEXT_LUCKBA421_03625_TAYNOR_000_294,在回到這裡的路上我還想起了一些其他事，<hex:02100103>跟那個和我與奈貝爾特在一起的魔法師有關。
-150,TEXT_LUCKBA421_03625_TAYNOR_000_295,魔法師不是一個人，而是一個集團……<hex:02100103>他們研究的就是在次元上開洞的法術，也就是生成空洞的方法。<hex:02100103>而被選為施術者的，就是我們兩個。
-151,TEXT_LUCKBA421_03625_CERIGG_000_296,真的假的……<hex:02100103>也就是說，智德之所以能生成空洞，<hex:02100103>是因為他生前就學過這門法術？
-152,TEXT_LUCKBA421_03625_CERIGG_000_297,而緹納之所以能在空洞中活下來，<hex:02100103>也是因為跟奈貝爾特一樣學過操縱空洞的法術。<hex:02100103>可是……為什麼只有緹納還是小孩子的模樣？
-153,TEXT_LUCKBA421_03625_TAYNOR_000_298,……我不清楚。<hex:02100103>可是，等我恢復記憶，<hex:02100103>應該就能想出你們要找的封印空洞的辦法了。
-154,TEXT_LUCKBA421_03625_CERIGG_000_299,的確有這個可能性，但你別勉強自己啊。<hex:02100103>慢慢想就好了……在此期間我會照顧你的。
-155,TEXT_LUCKBA421_03625_CERIGG_000_300,我原本以為緹納就是一個被害者，<hex:02100103>現在知道他過去曾經跟智德……不，<hex:02100103>這種時候應該叫他奈貝爾特吧，總之，跟他有所關聯。
-156,TEXT_LUCKBA421_03625_CERIGG_000_301,既然我們的目的是打倒智德，<hex:02100103>那就不能丟下跟他有關的緹納。<hex:02100103>我改變主意了，還是應該由我們來照顧他。
-157,TEXT_LUCKBA421_03625_CERIGG_100_301,而且……他為了我們，<hex:02100103>還拚命地想要恢復自己的記憶。
-158,TEXT_LUCKBA421_03625_CERIGG_000_302,不管怎麼說，現在急也沒用。<hex:02100103>我們現在就一邊等緹納恢復記憶，<hex:02100103>一邊為了決戰各自修行吧。
-159,TEXT_LUCKBA421_03625_CERIGG_100_302,啊……我只顧著自己說了，<hex:02100103>當然得要緹納同意才行。
-160,TEXT_LUCKBA421_03625_TAYNOR_000_303,啊……那個，對不起，<hex:02100103>給你們添……
-161,TEXT_LUCKBA421_03625_CERIGG_000_304,哎呀！如果你想讓我照顧的話，<hex:02100103>就別再說什麼對不起啊，添麻煩啊之類的話了。
-162,TEXT_LUCKBA421_03625_CERIGG_000_305,雖然跟你相處時間不長，但我已經摸清了你的性格，<hex:02100103>你年紀雖小，卻很懂事，而且有什麼都喜歡悶在心裡。
-163,TEXT_LUCKBA421_03625_CERIGG_000_306,但我們其實也是出於私心才保護你的，<hex:02100103>所以你就把這當成是一種同盟關係吧，<hex:02100103>我們互相幫助，就像夥伴那樣。
-164,TEXT_LUCKBA421_03625_TAYNOR_000_307,啊……那……
-165,TEXT_LUCKBA421_03625_TAYNOR_000_308,謝謝……你們。<hex:02100103>還有……今後請多關照。
-166,TEXT_LUCKBA421_03625_CERIGG_000_309,很好。<hex:02100103>也要請你多多關照啊。
+0,"TEXT_LUCKBA421_03625_SEQ_00","Cerigg wears a flustered expression on his face."
+1,"TEXT_LUCKBA421_03625_SEQ_01","As Cerigg tells it, the child who you rescued from the hollow is resting safely in Mord Souq, but there is a rub: the boy seemingly remembers nothing save his name─Taynor. Cerigg sent him for a stroll around town to see if it might help to jog his memories, and encourages you to check in on him. Track down Taynor and see if he has met with any success in piecing together his past."
+2,"TEXT_LUCKBA421_03625_SEQ_02","You and Cerigg speak further with Taynor, who unfortunately can still recall nothing of where he came from. Cerigg further explains that according to the carer who examined him, the boy apparently possesses considerable magical powers. Drawing the conclusion that he doubtless has a master or tutor somewhere out there, the bounty hunter proposes speaking with a traveling merchant in town to see if anything might be gleaned as to your young friend's origins."
+3,"TEXT_LUCKBA421_03625_SEQ_03","The merchant tells of something he overheard when sojourning at the Inn at Journey's Head─that of an ill-fated mage who was attacked by a sin eater and was separated from his child in the process. Believing that this could very well be Taynor's father, the three of you resolve to make for the Inn and investigate further."
+4,"TEXT_LUCKBA421_03625_SEQ_04","You arrive at the Inn to learn that the son of the wounded mage has already been found─the man was not Taynor's father after all. The kindly boy offers to show Taynor around the premises in hopes of further rekindling his memories. Once the boy is gone, Cerigg, dismayed at the unfortunate turn of events, proposes entrusting Taynor to the care of another so that the two of you might return to hunting Phronesis─and continue the search for Taynor's family in the process. Cerigg offers to break the news to the unfortunate child himself, and you agree to accompany him."
+5,"TEXT_LUCKBA421_03625_SEQ_05","Events have taken yet another distressing turn, as Taynor is nowhere to be found. As it happens, your young charge got into a heated quarrel with the other boy, and subsequently dashed off on his own to the gods know where. Together with Cerigg, you make for the Fields of Amber, that you might track down Taynor before he comes to harm."
+6,"TEXT_LUCKBA421_03625_SEQ_06","Arriving in the Fields of Amber, you find Taynor under attack by nasty-looking sin eaters. Vanquish the fiends before they devour the poor, frightened child."
+7,"TEXT_LUCKBA421_03625_SEQ_07","You successfully dispatch the sin eaters and rescue Taynor from harm. In the aftermath of the battle, you are granted a vision of Taynor's past through the power of the Echo. There, you see that the boy was a young mage training under the same teacher as Nyelbert, one of the erstwhile Warriors of Light who now roams the area as the baleful Phronesis. Understandably perplexed by these recent developments, Cerigg proposes a return to the Inn at Journey's Head, where you might discuss matters further in safer environs."
+8,"TEXT_LUCKBA421_03625_SEQ_08","Back at the Inn, Taynor and the other boy apologize to each other and make their peace, and the latter departs for his new home at the Crystarium. The remaining three of you make plans to return to Mord Souq, where you might think over the knowledge you have recently gleaned and unravel the mysteries behind the enigmatic child's past."
+9,"TEXT_LUCKBA421_03625_SEQ_09","Back at Mord Souq, Cerigg explains to Taynor that, as bizarre as it may sound, the events of his memory must have taken place over one hundred years ago. Convinced now that your young companion is the key to vanquishing the dread Phronesis, Cerigg has a change of heart and proposes that the two of you officially take him in. Taynor welcomes the offer, thanking the two of you profusely for your kindness and promising that he will lend you whatever aid he can. For your part, you resolve to further hone your command of the magical arts while waiting for the lad's memories to recover further.<hex:02100103><hex:02100103>※The next role quest will be available from Cerigg upon reaching level 76 in any magical ranged DPS class."
+10,"TEXT_LUCKBA421_03625_SEQ_10",""
+11,"TEXT_LUCKBA421_03625_SEQ_11",""
+12,"TEXT_LUCKBA421_03625_SEQ_12",""
+13,"TEXT_LUCKBA421_03625_SEQ_13",""
+14,"TEXT_LUCKBA421_03625_SEQ_14",""
+15,"TEXT_LUCKBA421_03625_SEQ_15",""
+16,"TEXT_LUCKBA421_03625_SEQ_16",""
+17,"TEXT_LUCKBA421_03625_SEQ_17",""
+18,"TEXT_LUCKBA421_03625_SEQ_18",""
+19,"TEXT_LUCKBA421_03625_SEQ_19",""
+20,"TEXT_LUCKBA421_03625_SEQ_20",""
+21,"TEXT_LUCKBA421_03625_SEQ_21",""
+22,"TEXT_LUCKBA421_03625_SEQ_22",""
+23,"TEXT_LUCKBA421_03625_SEQ_23",""
+24,"TEXT_LUCKBA421_03625_TODO_00","Speak with Taynor."
+25,"TEXT_LUCKBA421_03625_TODO_01","Speak with the savvy merchant."
+26,"TEXT_LUCKBA421_03625_TODO_02","Speak with a carer at the Inn at Journey's Head."
+27,"TEXT_LUCKBA421_03625_TODO_03","Speak with Cerigg."
+28,"TEXT_LUCKBA421_03625_TODO_04","Search for Taynor."
+29,"TEXT_LUCKBA421_03625_TODO_05","Rescue Taynor."
+30,"TEXT_LUCKBA421_03625_TODO_06","Speak with the forlorn boy."
+31,"TEXT_LUCKBA421_03625_TODO_07","Speak with Cerigg at Mord Souq."
+32,"TEXT_LUCKBA421_03625_TODO_08",""
+33,"TEXT_LUCKBA421_03625_TODO_09",""
+34,"TEXT_LUCKBA421_03625_TODO_10",""
+35,"TEXT_LUCKBA421_03625_TODO_11",""
+36,"TEXT_LUCKBA421_03625_TODO_12",""
+37,"TEXT_LUCKBA421_03625_TODO_13",""
+38,"TEXT_LUCKBA421_03625_TODO_14",""
+39,"TEXT_LUCKBA421_03625_TODO_15",""
+40,"TEXT_LUCKBA421_03625_TODO_16",""
+41,"TEXT_LUCKBA421_03625_TODO_17",""
+42,"TEXT_LUCKBA421_03625_TODO_18",""
+43,"TEXT_LUCKBA421_03625_TODO_19",""
+44,"TEXT_LUCKBA421_03625_TODO_20",""
+45,"TEXT_LUCKBA421_03625_TODO_21",""
+46,"TEXT_LUCKBA421_03625_TODO_22",""
+47,"TEXT_LUCKBA421_03625_TODO_23",""
+48,"TEXT_LUCKBA421_03625_CERIGG_000_000","Ah, there you are. You'll be happy to know that the boy is awake, and seems to be no worse for the wear. Physically speaking, at least..."
+49,"TEXT_LUCKBA421_03625_CERIGG_000_001","There's just one rub, you see. He has no recollection of where he came from, or just how he managed to get swallowed up into the void."
+50,"TEXT_LUCKBA421_03625_CERIGG_000_002","In fact, other than his own name─Taynor─he can't remember much of anything at all."
+51,"TEXT_LUCKBA421_03625_CERIGG_000_003","He seems a good lad, mind you─eats my half-arsed cooking with a smile and nary a word of complaint. Yet I reckon he's hurting inside, and badly. We must reunite him with his parents with all due speed."
+52,"TEXT_LUCKBA421_03625_CERIGG_000_004","I suggested that he go for a stroll around Mord Souq, in the hopes that the sights might help to jog his memories. He can't have wandered far─why don't you go check up on him?"
+53,"TEXT_LUCKBA421_03625_CERIGG_000_010","I realize this is something of a detour, but we simply can't leave a poor amnesic orphan to fend for himself, now can we? Let's find the boy a safe home as soon as we can."
+54,"TEXT_LUCKBA421_03625_TAYNOR_000_020","Do not tell me...you are the one who rescued me from the flow, yes? I feel from you the same warmth that reached out to me when I was adrift in the aether."
+55,"TEXT_LUCKBA421_03625_CERIGG_000_021","Well, I'll be damned. The boy's a sharp one."
+56,"TEXT_LUCKBA421_03625_CERIGG_000_022","And that's not the least of it. The carer who examined him said they could feel great power welling up from within him. Despite his young age, Taynor here seems to possess a remarkable command of the magical arts."
+57,"TEXT_LUCKBA421_03625_TAYNOR_000_024","Perhaps I do, and yet...I cannot say. Try as I might, I can recall nothing of who I am, or where I came from. Only the darkness..."
+58,"TEXT_LUCKBA421_03625_CERIGG_000_025","No need for apologies, boy. You did well just to make it back to us. Speaking of which, can you remember anything at all of what you felt when you were adrift in the void?"
+59,"TEXT_LUCKBA421_03625_TAYNOR_000_026","That I remember...or at least I think I do. I recall a vague sensation of someone passing alongside me. Indeed, I believe this is what roused me from my slumber."
+60,"TEXT_LUCKBA421_03625_CERIGG_000_027","Hmm... If the hollows truly are a gate between worlds, that would mean that someone recently traveled from ours to another─or from another to ours... But that's not possible...or is it?"
+61,"TEXT_LUCKBA421_03625_Q1_000_000","What will you say?"
+62,"TEXT_LUCKBA421_03625_A1_000_000","You'd be surprised..."
+63,"TEXT_LUCKBA421_03625_A2_000_000","Don't be ridiculous."
+64,"TEXT_LUCKBA421_03625_CERIGG_000_030","You know something I don't, friend? Worry not─I won't pry for details."
+65,"TEXT_LUCKBA421_03625_CERIGG_000_035","That's what I thought. Fair enough. Then again, traveling between worlds isn't exactly my area of expertise..."
+66,"TEXT_LUCKBA421_03625_CERIGG_000_040","Ah, well. No sense racking our brains over matters beyond our comprehension. Let's concentrate on what we <hex:021A020203>can<hex:021A020103> do─namely, finding the boy here a home. No doubt his memories will come back to him in due time."
+67,"TEXT_LUCKBA421_03625_TAYNOR_000_041","You'd truly do that? For me? But the two of you have already saved my life. I couldn't possibly burden you any further..."
+68,"TEXT_LUCKBA421_03625_CERIGG_000_042","Hah, it's no burden at all! Besides, if we can figure out just who you are─and where you came from─it just might lead us to the answers we seek."
+69,"TEXT_LUCKBA421_03625_CERIGG_000_043","Now, let's consider the options. One possibility is that you're an orphan─all alone in this world, with not a soul to care for or look after you."
+70,"TEXT_LUCKBA421_03625_CERIGG_000_044","And yet, this seems unlikely. Yes, the mystical powers you possess say otherwise. If you are truly as skilled in magic as they say, then it stands to reason that someone trained you in the art."
+71,"TEXT_LUCKBA421_03625_CERIGG_000_045","Who this master of yours is─and whether you are of their blood, or simply received their tutelage─this I cannot say. But either way, I'm certain they're worried sick about you."
+72,"TEXT_LUCKBA421_03625_TAYNOR_000_046","If that truly is so...I would very much like to meet this person, too."
+73,"TEXT_LUCKBA421_03625_CERIGG_000_047","That settles it, then─let's get down to business. I took the liberty of inquiring around Mord Souq and the Crystarium. Unfortunately, there have been no reports of missing persons matching Taynor's description."
+74,"TEXT_LUCKBA421_03625_CERIGG_000_048","Which means that we have no choice but to take our search elsewhere. I know of a merchant in town whose travels often take him far afield. Let us have a talk with him and see if he's heard any helpful rumors."
+75,"TEXT_LUCKBA421_03625_CERIGG_000_060","Impressive how Taynor's managed to keep himself together, eh? The boy's mature beyond his years, no doubt."
+76,"TEXT_LUCKBA421_03625_TAYNOR_000_065","The two of you are far too kind. I cannot thank you enough..."
+77,"TEXT_LUCKBA421_03625_TRAVELINGMERCHANT03625_000_080","Rumors of a missing boy, you say? Funny that you ask. It's a long shot, I reckon, but I overheard something the other day that might be of use."
+78,"TEXT_LUCKBA421_03625_TRAVELINGMERCHANT03625_000_081","On my way to Mord Souq, I stopped over at the Inn at Journey's Head. There, I met an ailing mage. As the carers told it, he'd been ambushed by a sin eater, and was separated from his child in the battle."
+79,"TEXT_LUCKBA421_03625_CERIGG_000_082","Bloody hells...could it be!? If the sin eater that attacked the poor man was Phronesis, that would explain everything!"
+80,"TEXT_LUCKBA421_03625_TAYNOR_000_083","This man you speak of...he could be my father? We must go to him at once!"
+81,"TEXT_LUCKBA421_03625_CERIGG_000_084","Agreed. I only hope that the man is...no, there is no point in presuming the worst. Let us make for the Inn, and see what the carers there can tell us."
+82,"TEXT_LUCKBA421_03625_TRAVELINGMERCHANT03625_000_090","The man was in rough shape, I fear. For the child's sake, I hope he's doing better than when I last saw him..."
+83,"TEXT_LUCKBA421_03625_CERIGG_000_095","I just hope whatever we find here puts a smile on the poor boy's face."
+84,"TEXT_LUCKBA421_03625_TAYNOR_000_100","My father is here? But this place is..."
+85,"TEXT_LUCKBA421_03625_CERIGG_000_120","Ho there! I hear there's a mage in your care who's lost his boy. Well, I do believe we have him right here!"
+86,"TEXT_LUCKBA421_03625_NURSE03625_000_121","Hm? I fear there must be some mistake. The boy in question has already been found. This is him...right here."
+87,"TEXT_LUCKBA421_03625_TAYNOR_000_122","What...!? So it wasn't my father after all...?"
+88,"TEXT_LUCKBA421_03625_NURSE03625_000_123","This boy with you...he, too, has been separated from his family?"
+89,"TEXT_LUCKBA421_03625_CERIGG_000_124","Just so. We heard that a man here was looking for his son, and we just hoped...alas, it seems it wasn't meant to be."
+90,"TEXT_LUCKBA421_03625_TAYNOR_000_125","But there are many people here, yes? Might I ask around and see if any of the others are my family?"
+91,"TEXT_LUCKBA421_03625_NURSE03625_000_126","But of course. Yet many of the people here are quite ill, and in many cases, in considerable pain. It is not a place for a young child to walk around unattended."
+92,"TEXT_LUCKBA421_03625_CERIGG_000_127","Indeed it's not. Guess that means either myself or <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> here should accompany him..."
+93,"TEXT_LUCKBA421_03625_SHADOWYBOY03625_000_128","I'll go with him. The walk might help me, er, take my mind off things."
+94,"TEXT_LUCKBA421_03625_CERIGG_000_129","Not a bad idea, if the lad doesn't mind. I reckon Taynor would rather be with someone of his own age."
+95,"TEXT_LUCKBA421_03625_CERIGG_000_130","Take his mind off things...? Speaking of which, how is the boy's father holding up?"
+96,"TEXT_LUCKBA421_03625_NURSE03625_000_131","I fear the poor man has already departed on his journey. He is a man no longer."
+97,"TEXT_LUCKBA421_03625_NURSE03625_000_132","The child insisted upon staying by his father's side until the last. I permitted this out of respect for him, though part of me regrets the choice. None so young should suffer such horrors."
+98,"TEXT_LUCKBA421_03625_NURSE03625_000_133","It was some small solace to learn that he has living relatives who reside at the Crystarium. In fact, I was just making preparations to escort him there myself."
+99,"TEXT_LUCKBA421_03625_CERIGG_000_134","...I see. Reckon we should also find someone to look after Taynor as well."
+100,"TEXT_LUCKBA421_03625_CERIGG_000_135","Don't get me wrong, friend─I haven't given up on the prospect of finding the boy's family. But we have no other leads, and a deadly sin eater still on the loose."
+101,"TEXT_LUCKBA421_03625_CERIGG_000_136","If the lad tags along with us every step of the way, he's far more likely to end up dead or worse than to ever reunite with his family."
+102,"TEXT_LUCKBA421_03625_CERIGG_000_137","Here's what I propose: we find someone to watch after Taynor for the time being, get back on the hunt, and gather whatever clues we can about his origins along the way."
+103,"TEXT_LUCKBA421_03625_Q1_000_100","What will you say?"
+104,"TEXT_LUCKBA421_03625_A1_000_100","Is there not more we can do?"
+105,"TEXT_LUCKBA421_03625_A2_000_100","Very well. But we must see that he is safe."
+106,"TEXT_LUCKBA421_03625_CERIGG_000_140","I, too, wish there was more we could do for the lad. But think of it this way─if we don't do something about that damned sin eater, who knows how many poor children will end up like Taynor?"
+107,"TEXT_LUCKBA421_03625_CERIGG_000_145","Aye, that goes without saying. Let us have a talk with the proprietor of the Wandering Stairs. He's a kindly enough chap, and knows damn near everyone in these parts. With any luck, he'll be able to direct us to a willing and able guardian."
+108,"TEXT_LUCKBA421_03625_CERIGG_000_150","Look, I don't like this any more than you do. But it's the best we can do for the boy given our circumstances. At any rate, let's find him and share the news. Don't worry: it's my decision, and I intend to take responsibility for it."
+109,"TEXT_LUCKBA421_03625_NURSE03625_000_160","Forgive me, my friends. I wish there was more we could do for the child, but our resources are already stretched terribly thin. I wish you luck in finding his family."
+110,"TEXT_LUCKBA421_03625_SHADOWYBOY03625_000_165","I...I'm sorry! I-It's all my fault..."
+111,"TEXT_LUCKBA421_03625_CERIGG_000_170","Bad news, friend. It seems the two young ones got into a quarrel of sorts, and Taynor's up and run away."
+112,"TEXT_LUCKBA421_03625_CERIGG_000_171","Seems the lad mentioned how he'd come out from one of the hollows. The other boy put two and two together and figured he'd been attacked by a sin eater."
+113,"TEXT_LUCKBA421_03625_SHADOWYBOY03625_000_172","Then I said...I said...my dad was attacked by a sin eater, and then he turned into one himself. So I asked...what if...what if you turn into a sin eater too?"
+114,"TEXT_LUCKBA421_03625_SHADOWYBOY03625_000_173","Taynor's face went all white. He kept saying, “What do you mean? What do you mean?”─over, and over, and over again. I just...I couldn't take it anymore."
+115,"TEXT_LUCKBA421_03625_SHADOWYBOY03625_000_174","Before I knew it, I was shouting at him, “Shut up! Just shut up! I bet you're turning into a sin eater already!” Why? Why did I say such a mean and nasty thing!?"
+116,"TEXT_LUCKBA421_03625_CERIGG_000_175","Don't be so hard on yourself, lad. Both of you have had a rough go of it these past few days. Nobody could blame either one of you for feeling a bit on edge."
+117,"TEXT_LUCKBA421_03625_CERIGG_000_176","But we must hurry and find Taynor before he comes to harm. Let's split up: I'll search to the west, and you take the east. And be careful out there!"
+118,"TEXT_LUCKBA421_03625_SHADOWYBOY03625_000_180","You'll bring Taynor back, won't you? I just...I just want to tell him I'm sorry."
+119,"TEXT_LUCKBA421_03625_CERIGG_000_200","When I heard the clamor of battle, I feared the worst, but I see that you have everything under control. Are you okay, lad?"
+120,"TEXT_LUCKBA421_03625_TAYNOR_000_201","F-Forgive me... I...I don't deserve this kindness."
+121,"TEXT_LUCKBA421_03625_TAYNOR_000_202","I...I was just so scared. I was worried about what would become of me if I never recovered my memories, and then I started thinking, what if I ended up like that boy's father? What if it's already happening to me...?"
+122,"TEXT_LUCKBA421_03625_CERIGG_000_203","That's one matter you needn't worry yourself with. The carer who examined you told me as much. You suffered no direct wounds─you're in no more danger of turning into a sin eater than <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> or me."
+123,"TEXT_LUCKBA421_03625_TAYNOR_000_204","Is...is that so. That's good to hear. But I...I must apologize to that boy. I should have known better than to badger him about such things...especially after what happened to his father."
+124,"TEXT_LUCKBA421_03625_CERIGG_000_205","Funny thing, that─he was saying the same thing about you. You both have good hearts, lad─and you've been through more than any man should. There's no need to be ashamed about your feelings."
+125,"TEXT_LUCKBA421_03625_TAYNOR_000_206","There is...still so much I do not understand about this world. Why does no one here know of me? Am I doomed to be alone for the rest of my days?"
+126,"TEXT_LUCKBA421_03625_TAYNOR_000_207","Why...why must it be this way!? If only I could remember something...<hex:021A020203>anything<hex:021A020103>! I'm sick of not knowing who I am! I'm sick of being alone!"
+127,"TEXT_LUCKBA421_03625_MAGELEADER_000_208","Now it's your turn, Taynor. And do not be disheartened by your last attempt─even the greatest of mages have known failure."
+128,"TEXT_LUCKBA421_03625_NYELBERT_000_209","(-Bright Boy-)Your command of magic is the equal of my own. If I can succeed, there is no reason why you cannot. Free your mind of worry, and focus."
+129,"TEXT_LUCKBA421_03625_TAYNOR_000_210","Thank you, Nyelbert. I shall try my best."
+130,"TEXT_LUCKBA421_03625_CERIGG_000_211","Wicked white! Are you all right, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>!?"
+131,"TEXT_LUCKBA421_03625_TAYNOR_000_212","...I remember now. I was standing here on these blighted plains, my head hung low in shame. Then, Nyelbert turned to me with a smile and heartening words..."
+132,"TEXT_LUCKBA421_03625_TAYNOR_000_213","Nyelbert... Why does the name sound so familiar?"
+133,"TEXT_LUCKBA421_03625_CERIGG_000_214","I reckon we've much to discuss, but not in this godsforsaken place. Let's head back to the Inn and see if we can't get to the bottom of this."
+134,"TEXT_LUCKBA421_03625_TAYNOR_000_220","I do hope he'll forgive me..."
+135,"TEXT_LUCKBA421_03625_CERIGG_000_225","We have much to discuss, but first, we should let the two boys make their peace."
+136,"TEXT_LUCKBA421_03625_SHADOWYBOY03625_000_240","Taynor! Are you all right!? I'm so sorry... I shouldn't have said those nasty things..."
+137,"TEXT_LUCKBA421_03625_TAYNOR_000_241","Forgive me for reacting as I did. I'm...I'm fine. In fact, I seem to have recovered some of my memories..."
+138,"TEXT_LUCKBA421_03625_SHADOWYBOY03625_000_242","Really!? That's wonderful! Maybe...maybe you won't feel so scared and alone anymore."
+139,"TEXT_LUCKBA421_03625_SHADOWYBOY03625_000_243","I'm leaving to go live in the Crystarium with my relatives. Promise me you'll come visit? I mean, after you get your memories back and all, of course..."
+140,"TEXT_LUCKBA421_03625_TAYNOR_000_244","It's a promise. Until next time, my friend."
+141,"TEXT_LUCKBA421_03625_CERIGG_000_245","I knew that you two would work things out. Now, let us return to Mord Souq. We have more than our share of questions that need answering."
+142,"TEXT_LUCKBA421_03625_TAYNOR_000_260","I cannot help but feel I also made a promise to that boy in my memories... Nyelbert, was it?"
+143,"TEXT_LUCKBA421_03625_CERIGG_000_280","As I saw it, first you fainted all of a sudden. When you came to, a portion of Taynor's memories had returned. What in the world happened out there?"
+144,"TEXT_LUCKBA421_03625_CERIGG_000_290","The power to look into the past, eh?"
+145,"TEXT_LUCKBA421_03625_CERIGG_100_290","And you're certain that what <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> described matches up with your recollection of the past?"
+146,"TEXT_LUCKBA421_03625_CERIGG_000_291","I don't know how to break this to you, lad, but...your friend Nyelbert that was with you that day? He's no ordinary boy."
+147,"TEXT_LUCKBA421_03625_CERIGG_000_292","He's none other than the very man who became Phronesis─one of those godsdamned Warriors of Light. If he was just a young child in your memories, that means that what you saw took place over one hundred years ago!"
+148,"TEXT_LUCKBA421_03625_CERIGG_000_293","Would that it were just a coincidence─another boy with the same name. But no, judging from the formidable command of magic...we can only assume it was him."
+149,"TEXT_LUCKBA421_03625_TAYNOR_000_294","On the way back, I managed to recall some more...about Nyelbert and myself."
+150,"TEXT_LUCKBA421_03625_TAYNOR_000_295","We were taken in by a group of mages...a consortium of sorts. They were searching for a means to open a hole to another world, and were recruiting young children with high magical aptitude for the task. Nyelbert and myself were the two they chose..."
+151,"TEXT_LUCKBA421_03625_CERIGG_000_296","You can't be serious! And yet, that would explain the sin eater's ability to summon those damned hollows..."
+152,"TEXT_LUCKBA421_03625_CERIGG_000_297","And if you possess the same knowledge and training as Nyelbert did, it could also explain why you were able to survive in there all that time. But what I don't understand is...why haven't you aged at all?"
+153,"TEXT_LUCKBA421_03625_TAYNOR_000_298","I cannot say for sure. And yet my memories...they are slowly coming back to me. In time, I may be able to help you find a way to close the hollows."
+154,"TEXT_LUCKBA421_03625_CERIGG_000_299","You'd be a lifesaver if you could. But don't overburden yourself─you're still recovering, after all. In the meantime, don't worry: <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> and I will see that you're safe."
+155,"TEXT_LUCKBA421_03625_CERIGG_000_300","I'd thought Taynor was just a victim of the sin eater. To think he was actually <hex:021A020203>friends<hex:021A020103> with the man himself...er, back when he was still a man. This can't be simple coincidence."
+156,"TEXT_LUCKBA421_03625_CERIGG_000_301","Yes, I'm convinced of it now─the child holds the key to defeating Phronesis. We must keep him safe, and not let him out of our sights."
+157,"TEXT_LUCKBA421_03625_CERIGG_100_301","Besides, look at how hard he's trying to recover his memories. I'm not so heartless as to kick the poor lad aside before he's figured matters out."
+158,"TEXT_LUCKBA421_03625_CERIGG_000_302","But we can't very well rush things. You and I will continue to prepare for the battle ahead, while waiting for the rest of Taynor's memories to come back to him..."
+159,"TEXT_LUCKBA421_03625_CERIGG_100_302","Ah, that is to say...if it's all right with you, lad?"
+160,"TEXT_LUCKBA421_03625_TAYNOR_000_303","I...I'm so sorry. I couldn't possibly burden you any further..."
+161,"TEXT_LUCKBA421_03625_CERIGG_000_304","Look, lad. I've only known you a short while, but I can tell you've a good heart, and a good head on your shoulders."
+162,"TEXT_LUCKBA421_03625_CERIGG_000_305","I can only begin to imagine the horrors you've been through, not to mention the fears and uncertainty you face even now."
+163,"TEXT_LUCKBA421_03625_CERIGG_000_306","But I want you to promise me this: no more apologies. You're no burden to us, not in the least. You're a valuable member of our band, and as long as you're willing, I want you with us. Isn't that right, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>?"
+164,"TEXT_LUCKBA421_03625_TAYNOR_000_307","I...I see."
+165,"TEXT_LUCKBA421_03625_TAYNOR_000_308","Thank you, Cerigg. Thank you, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. I will aid your quest in whatever way I can."
+166,"TEXT_LUCKBA421_03625_CERIGG_000_309","Now that's more like it. We're counting on you, lad."

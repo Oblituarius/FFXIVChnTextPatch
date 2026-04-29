@@ -2,132 +2,132 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_BANALL040_01470_SEQ_00,諾布養育場的諾布將冒險者視為己出，並有事情想委託給冒險者。
-1,TEXT_BANALL040_01470_SEQ_01,諾布無法離開養育場，因此委託冒險者幫忙救出自己的兒子博烏。前往西拉諾西亞的小麥酒港，調查靠港停泊的<hex:02280CFF05>EObj<hex:F61E95360103>，找出誘拐犯的船。
-2,TEXT_BANALL040_01470_SEQ_02,在小麥酒港發現了被捨棄的<hex:02280CFF05>EObj<hex:F61E95360103>。在那裡，冒險者又遇到了那個神秘的女性希爾維，她稱這一連串的事件為「獸人連續誘拐事件」，並聲稱犯人是「黑死奏者」。前往利姆薩·羅敏薩的沉溺海豚亭，和巴德龍談談，獲取黑死奏者的詳細情報。
-3,TEXT_BANALL040_01470_SEQ_03,和巴德龍進行了交談。黑死奏者的真名其實是納扎·阿·嘉布，是一名武藝高強的冒險者。與此同時，有一名黑渦團軍官也正在尋找冒險者。前往黑渦軍令部，向特拉哈雷特協漩尉詢問詳情。
-4,TEXT_BANALL040_01470_SEQ_04,和特拉哈雷特進行了交談。原來是拉諾西亞外地的地靈族那裡又出現了新的問題。前往拉諾西亞外地，和第789洞穴團採礦地的斯凱特希斯協漩尉重逢。
-5,TEXT_BANALL040_01470_SEQ_05,和第789洞穴團採礦地的斯凱特希斯進行了交談。據她所說，武伽瑪羅武裝礦山的地靈族似乎被人誘拐了。前往拉諾西亞外地的地靈軍試掘地，和3名第175洞穴團的地靈族談談，獲取詳細情報。
-6,TEXT_BANALL040_01470_SEQ_06,和地靈軍試掘地的175洞穴團的地靈族進行了交談。被誘拐的不是別人，正是第789團採集員基古的青梅竹馬——第175團煉金術士比比。誘拐犯帶著她向地靈軍試掘地的南邊逃跑了。追蹤犯人的蹤跡。
-7,TEXT_BANALL040_01470_SEQ_07,找到了負傷的希爾維。她本想阻止誘拐犯的惡行，沒想到被誘拐犯打得一敗塗地。回到第789洞穴團採礦地，向斯凱特希斯報告事情的經過。
-8,TEXT_BANALL040_01470_SEQ_08,回到斯凱特希斯身邊後，冒險者發現希爾維已奄奄一息。斯凱特希斯無法坐視不管，於是將希爾維收留在瞭望陣營地，並為她療傷。想要救出被誘拐的第175團煉金術士比比，需要制定更嚴密的計劃。妖精族、魚人族、地靈族……獸人連續誘拐事件還遠遠沒有結束。
-9,TEXT_BANALL040_01470_SEQ_09,
-10,TEXT_BANALL040_01470_SEQ_10,
-11,TEXT_BANALL040_01470_SEQ_11,
-12,TEXT_BANALL040_01470_SEQ_12,
-13,TEXT_BANALL040_01470_SEQ_13,
-14,TEXT_BANALL040_01470_SEQ_14,
-15,TEXT_BANALL040_01470_SEQ_15,
-16,TEXT_BANALL040_01470_SEQ_16,
-17,TEXT_BANALL040_01470_SEQ_17,
-18,TEXT_BANALL040_01470_SEQ_18,
-19,TEXT_BANALL040_01470_SEQ_19,
-20,TEXT_BANALL040_01470_SEQ_20,
-21,TEXT_BANALL040_01470_SEQ_21,
-22,TEXT_BANALL040_01470_SEQ_22,
-23,TEXT_BANALL040_01470_SEQ_23,
-24,TEXT_BANALL040_01470_TODO_00,在小麥酒港尋找誘拐犯的<hex:02280CFF05>EObj<hex:F61E95360103>
-25,TEXT_BANALL040_01470_TODO_01,和利姆薩·羅敏薩的巴德龍對話
-26,TEXT_BANALL040_01470_TODO_02,和特拉哈雷特對話
-27,TEXT_BANALL040_01470_TODO_03,和第789洞穴團採礦地的斯凱特希斯重逢
-28,TEXT_BANALL040_01470_TODO_04,和地靈軍試掘地的第175洞穴團的地靈族對話
-29,TEXT_BANALL040_01470_TODO_05,在地靈軍試掘地的周圍尋找誘拐犯的蹤跡
-30,TEXT_BANALL040_01470_TODO_06,向斯凱特希斯報告
-31,TEXT_BANALL040_01470_TODO_07,
-32,TEXT_BANALL040_01470_TODO_08,
-33,TEXT_BANALL040_01470_TODO_09,
-34,TEXT_BANALL040_01470_TODO_10,
-35,TEXT_BANALL040_01470_TODO_11,
-36,TEXT_BANALL040_01470_TODO_12,
-37,TEXT_BANALL040_01470_TODO_13,
-38,TEXT_BANALL040_01470_TODO_14,
-39,TEXT_BANALL040_01470_TODO_15,
-40,TEXT_BANALL040_01470_TODO_16,
-41,TEXT_BANALL040_01470_TODO_17,
-42,TEXT_BANALL040_01470_TODO_18,
-43,TEXT_BANALL040_01470_TODO_19,
-44,TEXT_BANALL040_01470_TODO_20,
-45,TEXT_BANALL040_01470_TODO_21,
-46,TEXT_BANALL040_01470_TODO_22,
-47,TEXT_BANALL040_01470_TODO_23,
-48,TEXT_BANALL040_01470_NOVV_000_000,呼嘶……<hex:022903EB0203>，<hex:02100103>我把你看做我的家人，我的<hex:020813E905FF07>女兒<hex:FF07>兒子<hex:03>。<hex:02100103>所以才敢把家裡事拜託給你。
-49,TEXT_BANALL040_01470_NOVV_000_001,請你從卑鄙的誘拐犯手中救出我的兒子博烏！<hex:02100103>為了避免更多的受害者出現，我不能離開這裡。<hex:02100103>因此……就只能拜託你了！呼嘶。
-50,TEXT_BANALL040_01470_NOVV_000_002,其實，在與誘拐犯交手的時候，我趁機在他的船上戳了一槍。<hex:02100103>垂死掙扎，永不言敗，<hex:02100103>這就是我們魚人族的志氣。
-51,TEXT_BANALL040_01470_NOVV_000_003,估計船底已經被戳開了一個不小的洞。<hex:02100103>只要船一漏水，他就跑不了多遠了……<hex:02100103>誘拐犯肯定為了修船去了附近的港口。
-52,TEXT_BANALL040_01470_NOVV_000_004,呼嘶……<hex:02100103>位於西拉諾西亞的港口，八成就是小麥酒港了。<hex:02100103>只要去那裡，一定能找到誘拐犯的線索！
-53,TEXT_BANALL040_01470_NOVV_000_005,呼嘶……拜託你了，<hex:022903EB0203>。<hex:02100103>我可靠的<hex:020813E905FF07>女兒<hex:FF07>兒子<hex:03>！
-54,TEXT_BANALL040_01470_NOVV_000_006,呼嘶……你去小麥酒港，尋找船底有傷痕或是有修補痕跡的船。<hex:02100103>這樣就能找到拐走博烏的犯人的線索了。
-55,TEXT_BANALL040_01470_SYSTEM_000_008,船底沒有異常……
-56,TEXT_BANALL040_01470_SYSTEM_000_009,船底有個被帆布條堵上的洞，<hex:02100103>這就是要找的那條船。
-57,TEXT_BANALL040_01470_SILVIA_000_010,(-？？？？-)晚了一步……
-58,TEXT_BANALL040_01470_SILVIA_000_011,我說過了，獸人誘拐犯由我來追捕，<hex:02100103>沒有你出手的份……
-59,TEXT_BANALL040_01470_SILVIA_000_012,犯人先前把船丟棄在這裡並離開了。<hex:02100103>不知道他去了哪裡……
-60,TEXT_BANALL040_01470_SILVIA_000_013,繼妖精族之後，魚人族也……<hex:02100103>接連不斷的悲劇的齒輪開始轉動了……
-61,TEXT_BANALL040_01470_SILVIA_000_014,不可饒恕……<hex:02100103>艾歐澤亞5種族獸人連續誘拐事件……<hex:02100103>我一定要揭露它的真相……
-62,TEXT_BANALL040_01470_Q1_000_000,獸人連續誘拐事件？！
-63,TEXT_BANALL040_01470_A1_000_001,到底是為了什麼？！
-64,TEXT_BANALL040_01470_A1_000_002,那個誘拐犯到底是什麼人？！
-65,TEXT_BANALL040_01470_SILVIA_000_015,我也不清楚……<hex:02100103>為了探尋事件的起因和目的，我才在追捕那個男人……<hex:02100103>他被稱為「黑死奏者」……
-66,TEXT_BANALL040_01470_SILVIA_000_016,……你應該與他見過面了。<hex:02100103>那個用假面遮住半張臉，<hex:02100103>黑衣的貓魅族劍士……
-67,TEXT_BANALL040_01470_SILVIA_000_017,那個男人被稱為「黑死奏者」，是個本領高超的冒險者……<hex:02100103>他誘拐獸人……為了探尋他的理由和目的，<hex:02100103>我才在追捕他……
-68,TEXT_BANALL040_01470_SILVIA_000_018,要想進一步了解他的事，<hex:02100103>你可以去找沉溺海豚亭的總管巴德龍。
-69,TEXT_BANALL040_01470_SILVIA_000_019,……我……已經沒有時間了……<hex:02100103>他的下一個目標……到底是哪個種族？
-70,TEXT_BANALL040_01470_BADERON_000_020,喲，歡迎歡迎！<hex:02100103>還以為誰來了呢，這不是<hex:022903EB0203>嘛！<hex:02100103>怎麼了，有事想問我？
-71,TEXT_BANALL040_01470_BADERON_000_021,什麼？！<hex:02100103>「黑死奏者」？！
-72,TEXT_BANALL040_01470_BADERON_000_022,嘖，真是個不祥的名字……<hex:02100103>光是聽見這個名字，我就一身冷汗……
-73,TEXT_BANALL040_01470_BADERON_000_023,黑死奏者，本名納扎·阿·嘉布……<hex:02100103>他是這艾歐澤亞名列前茅的天才劍士、一流冒險者。
-74,TEXT_BANALL040_01470_BADERON_000_024,但他是個殘忍又無情的人，<hex:02100103>由於他作惡多端，已被冒險者公會永久除名流放……
-75,TEXT_BANALL040_01470_BADERON_000_025,破壞、殺戮、暗殺……<hex:02100103>不管多麼骯髒的工作他都接受，而且會出色地將其完成，<hex:02100103>並得到你無法想像的巨款作為報酬。
-76,TEXT_BANALL040_01470_BADERON_000_026,……你是個本領高強的冒險者，這是大家有目共睹的，<hex:02100103>但我勸你千萬不要去惹黑死奏者，<hex:02100103>他是個奏響死亡樂章的危險的傢伙……
-77,TEXT_BANALL040_01470_BADERON_000_027,對了，<hex:022903EB0203>，<hex:02100103>我正好也有件事想找你呢。
-78,TEXT_BANALL040_01470_BADERON_000_028,就在剛才，有個黑渦團軍官來到這裡，<hex:02100103>火急火燎地說要找你。<hex:02100103>我想他可能是有什麼要緊事。
-79,TEXT_BANALL040_01470_BADERON_000_029,那名軍官說他叫特拉哈雷特，<hex:02100103>你能不能去一趟黑渦軍令部，<hex:02100103>看看他找你有什麼事？
-80,TEXT_BANALL040_01470_BADERON_000_030,那名軍官說他叫特拉哈雷特，<hex:02100103>你能不能去一趟黑渦軍令部，<hex:02100103>看看他找你有什麼事？
-81,TEXT_BANALL040_01470_TRACHRAET_000_030,哎喲，冒險者！可讓我好找一番！<hex:02100103>我有事想要拜託你……<hex:02100103>總是麻煩你，真是過意不去。
-82,TEXT_BANALL040_01470_TRACHRAET_000_031,是這樣的，<hex:02100103>拉諾西亞外地的斯凱特希斯發來報告，<hex:02100103>說是有事需要商量……
-83,TEXT_BANALL040_01470_TRACHRAET_000_032,肯定是地靈族那邊又出了什麼事了。<hex:02100103>請你趕往第789洞穴團採礦地，問問她到底有什麼事。
-84,TEXT_BANALL040_01470_TRACHRAET_000_033,希望斯凱特希斯那傢伙別又把事情越搞越大，<hex:02100103>……哎，真讓人頭疼。
-85,TEXT_BANALL040_01470_SKAETSWYS_000_040,啊，<hex:022903EB0203>，辛苦了。<hex:02100103>你最近怎麼樣啊？<hex:02100103>我可精神了，每天都在全力鞭策這些傢伙們。
-86,TEXT_BANALL040_01470_SKAETSWYS_000_041,可恨的佐加雖然敗下了陣去，<hex:02100103>但他還在預謀著東山再起！<hex:02100103>所以我必須鍛鍊好這些傢伙們，到時候好與佐加對抗……
-87,TEXT_BANALL040_01470_SKAETSWYS_000_042,……雖然我是這麼想的，<hex:02100103>但現在發生了更大的事！<hex:02100103>哎喲喲，簡直是一波未平一波又起！
-88,TEXT_BANALL040_01470_SKAETSWYS_000_043,事情是這樣的，<hex:02100103>我聽說礦山那邊有地靈族失蹤了。<hex:02100103>叫什麼來著……地靈族誘拐事件？犯人是……
-89,TEXT_BANALL040_01470_Q2_000_000,沒錯，犯人就是……
-90,TEXT_BANALL040_01470_A2_000_001,魯加族？
-91,TEXT_BANALL040_01470_A2_000_002,獸人連續誘拐犯！
-92,TEXT_BANALL040_01470_SKAETSWYS_000_044,太聰明了！答得好！<hex:02100103>沒錯！像我這樣的魯加族會一邊奸笑著一邊綁走地靈……<hex:02100103>開什麼國際玩笑啊！
-93,TEXT_BANALL040_01470_SKAETSWYS_000_045,什麼？獸人連續誘拐犯？！<hex:02100103>難道你知道犯人是誰？
-94,TEXT_BANALL040_01470_SKAETSWYS_000_046,那簡直太好了！<hex:02100103><hex:022903EB0203>，請你去一趟案發地吧！
-95,TEXT_BANALL040_01470_SKAETSWYS_000_047,被誘拐的是第175洞穴團的地靈族，<hex:02100103>案發時正在視察地靈軍試掘地。<hex:02100103>他們都是一幫不錯的傢伙，應該願意告訴你一些情報的。
-96,TEXT_BANALL040_01470_SKAETSWYS_000_048,哎喲……席捲艾歐澤亞全境的蠻族連續誘拐事件……<hex:02100103>真是有夠波瀾壯闊……<hex:02100103>這麼想想還有一點小激動呢！
-97,TEXT_BANALL040_01470_PICKMAN789GIGU_000_049,這不是 冒險者麼 好久不見啦！<hex:02100103>你聽我說喲<hex:02100103>最近 我們發明了一項 新技術！
-98,TEXT_BANALL040_01470_PICKMAN789GIGU_000_050,那就是<hex:02100103>可以 站著睜著眼睡覺 的方法！<hex:02100103>這樣就能 裝成幹活的樣子偷懶 瞞天過海啦！
-99,TEXT_BANALL040_01470_KOBOLD175A_000_060,快來 幫幫 我們！<hex:02100103>那傢伙 突然襲過來<hex:02100103>把我們的比比 我們的同伴比比 給拐走了！
-100,TEXT_BANALL040_01470_KOBOLD175A_000_061,嗚嗚嗚 比比 比比！
-101,TEXT_BANALL040_01470_KOBOLD175B_000_062,好疼 疼死啦 哎喲！<hex:02100103>我的攻擊 爆彈怪的攻擊 全都不管用……<hex:02100103>那傢伙 是個怪物！
-102,TEXT_BANALL040_01470_KOBOLD175B_000_063,我從來沒見過 那麼強的傢伙……<hex:02100103>好可怕喲 好可怕喲！
-103,TEXT_BANALL040_01470_KOBOLD175C_000_064,我們的同伴 第175團煉金術士比比 被帶走了！<hex:02100103>那傢伙 朝南邊逃去了！<hex:02100103>那邊 是死路 他去那邊做什麼？！
-104,TEXT_BANALL040_01470_KOBOLD175C_000_065,剛才有個人類女孩<hex:02100103>為了救 比比 去追誘拐犯了！<hex:02100103>現在 她肯定追上了！
-105,TEXT_BANALL040_01470_KOBOLD175C_000_066,剛才有個人類女孩 去追誘拐犯了！<hex:02100103>現在 她肯定在南邊 追上了！
-106,TEXT_BANALL040_01470_SILVIA_000_070,……唔……
-107,TEXT_BANALL040_01470_SILVIA_000_071,你……你是……<hex:02100103>別、別碰我！<hex:02100103>我自己……能站起來……
-108,TEXT_BANALL040_01470_SILVIA_000_072,可、可惡……<hex:02100103>我明明知道……下一個目標是地靈族……<hex:02100103>卻沒能阻止他……
-109,TEXT_BANALL040_01470_SILVIA_000_073,黑死奏者……納扎·阿·嘉布……<hex:02100103>怎麼會這麼強……<hex:02100103>我簡直不是他的對手……
-110,TEXT_BANALL040_01470_SILVIA_000_074,不行了……<hex:02100103>完全使不上力氣……再這樣下去我會……<hex:02100103>要趕緊回去才行……
-111,TEXT_BANALL040_01470_SILVIA_000_075,唔……
-112,TEXT_BANALL040_01470_PICKMAN789GIGU_000_076,冒 冒險者！<hex:02100103>怎 怎麼回事 發生了什麼？！
-113,TEXT_BANALL040_01470_PICKMAN789GIGU_000_080,怎 怎麼回事？！<hex:02100103>斯凱特希斯 她是誰呀？
-114,TEXT_BANALL040_01470_SKAETSWYS_000_081,不認識！不過她倒在採礦地前面了！<hex:02100103>喂，你沒事吧？！快醒醒！<hex:02100103>我馬上給你療傷……
-115,TEXT_BANALL040_01470_SILVIA_000_082,沒、沒事……不用管我……<hex:02100103>比起我……還是快去追……<hex:02100103>被拐走的地靈族……
-116,TEXT_BANALL040_01470_SILVIA_000_083,納扎·阿·嘉布是個人皆可雇的冒險者，<hex:02100103>所以這一連串的獸人連續誘拐事件，他肯定不是主謀……<hex:02100103>他只是受雇於人，替人行事……
-117,TEXT_BANALL040_01470_SILVIA_000_084,出大錢僱用他的人，才是幕後黑手……<hex:02100103>只要找到那個人……<hex:02100103>就能揭露事件的真相了……
-118,TEXT_BANALL040_01470_SKAETSWYS_000_085,你別勉強自己說話了！
-119,TEXT_BANALL040_01470_SILVIA_000_086,剩下的獸人……<hex:02100103>還有鳥人族和蜥蜴人族……<hex:02100103>拜、拜託了……快去阻止他……
-120,TEXT_BANALL040_01470_SILVIA_000_087,……
-121,TEXT_BANALL040_01470_PICKMAN789GIGU_000_088,哇哇哇 死了 死了！<hex:02100103>節哀順變……
-122,TEXT_BANALL040_01470_SKAETSWYS_000_089,喂！人家還沒死呢！<hex:02100103>只是昏過去了而已！！
-123,TEXT_BANALL040_01470_SKAETSWYS_000_090,<hex:022903EB0203>，你先別走，<hex:02100103>我把這孩子送到瞭望陣營地去。<hex:02100103>這裡太髒了，沒法療傷……
-124,TEXT_BANALL040_01470_PICKMAN789GIGU_000_091,太髒了 有嗎？<hex:02100103>我們每隔半年 都會洗一次澡喲！
-125,TEXT_BANALL040_01470_SKAETSWYS_000_092,放心吧，<hex:02100103>那孩子……希爾維沒事的，<hex:02100103>已經在瞭望陣營地接受治療了。
-126,TEXT_BANALL040_01470_PICKMAN789GIGU_000_093,哎喲 媽呀！<hex:02100103>比比 被拐走了 怎麼辦！<hex:02100103>我沒有錢呀 贖金什麼的付不起呀！
-127,TEXT_BANALL040_01470_SKAETSWYS_000_094,比比……<hex:02100103>總覺得那孩子老是被拐來拐去的……
-128,TEXT_BANALL040_01470_SKAETSWYS_000_095,……哎喲，現在不是說這些的時候！<hex:02100103><hex:022903EB0203>，我們整理一下情報，<hex:02100103>趕快制定下一步計劃吧！
+0,"TEXT_BANALL040_01470_SEQ_00","Novv would make a request of you, clutchfather to <hex:020812E905FF09>daughter<hex:FF04>son<hex:03>."
+1,"TEXT_BANALL040_01470_SEQ_01","Considering you one of his own, the wounded clutchfather Novv entrusts you with the rescue of the kidnapped Bouu. He explains to you that after falling to the masked Miqo'te, he managed to punch a hole in the culprit's skiff with his spear. Thus surmising that the vessel has been taken to Aleport for repairs, he bids you go in pursuit."
+2,"TEXT_BANALL040_01470_SEQ_02","No sooner do you locate the kidnapper's vessel than the enigmatic Sylvie appears, informing you that your quarry has once again eluded your─and her─grasp. She further reveals that the one you seek is a shadowy figure known as the Ebon Claw, and suggests that Baderon at the Drowning Wench may be able to tell you more about your man."
+3,"TEXT_BANALL040_01470_SEQ_03","As Baderon tells it, the Ebon Claw is the epithet of Nhaza'a Jaab─an erstwhile adventurer and incomparable swordsman who now makes his trade as a hired blade to the most unscrupulous individuals in the realm. He warns you that it is in your best interests to steer well clear of the man, then recalls that Lieutenant Trachraet of the Maelstrom was asking around for you not long ago."
+4,"TEXT_BANALL040_01470_SEQ_04","Trachraet explains that he was searching for you on behalf of his fellow storm lieutenant Skaetswys, who it would seem has another kobold crisis on her hands. Reunite with her at the 789th Order Dig and see what the trouble is this time."
+5,"TEXT_BANALL040_01470_SEQ_05","Speaking with Skaetswys reveals an unsurprising turn of events─the kidnapper has struck again, this time ambushing a group of kobolds of the 175th Order in the heart of the Kobold Dig. Travel to the scene of the crime and question the victims in the hopes of tracking your quarry."
+6,"TEXT_BANALL040_01470_SEQ_06","In shock and in shambles, the kobolds of the 175th Order explain that their alchemist, the beloved Bi Bi, was captured by a fearsome swordsman. As they tell it, he fled to the south, pursued by a mysterious green-haired girl. There may yet be time to catch your quarry."
+7,"TEXT_BANALL040_01470_SEQ_07","You find Sylvie collapsed on the ground, clinging tenuously to consciousness. With labored breaths, she explains in frustration that she tracked Nhaza'a Jaab here, but was powerless to stop him. Return to the 789th Order Dig and report this distressing news to Skaetswys."
+8,"TEXT_BANALL040_01470_SEQ_08","You return to the 789th Order Dig to find Sylvie lying on the ground, her condition grave. She implores you to put a stop to the Ebon Claw's madness, while implying that there is yet another mastermind behind the scenes...before falling unconscious from her wounds. With Gi Gu proving ever incompetent, Skaetswys takes it upon herself to carry the girl to Camp Overlook to recuperate. Upon her return, she asks you to share any knowledge you have about your quarry, in hopes of plotting your next course of action."
+9,"TEXT_BANALL040_01470_SEQ_09",""
+10,"TEXT_BANALL040_01470_SEQ_10",""
+11,"TEXT_BANALL040_01470_SEQ_11",""
+12,"TEXT_BANALL040_01470_SEQ_12",""
+13,"TEXT_BANALL040_01470_SEQ_13",""
+14,"TEXT_BANALL040_01470_SEQ_14",""
+15,"TEXT_BANALL040_01470_SEQ_15",""
+16,"TEXT_BANALL040_01470_SEQ_16",""
+17,"TEXT_BANALL040_01470_SEQ_17",""
+18,"TEXT_BANALL040_01470_SEQ_18",""
+19,"TEXT_BANALL040_01470_SEQ_19",""
+20,"TEXT_BANALL040_01470_SEQ_20",""
+21,"TEXT_BANALL040_01470_SEQ_21",""
+22,"TEXT_BANALL040_01470_SEQ_22",""
+23,"TEXT_BANALL040_01470_SEQ_23",""
+24,"TEXT_BANALL040_01470_TODO_00","Search for the kidnapper's skiff in Aleport."
+25,"TEXT_BANALL040_01470_TODO_01","Speak with Baderon in Limsa Lominsa."
+26,"TEXT_BANALL040_01470_TODO_02","Speak with Trachraet."
+27,"TEXT_BANALL040_01470_TODO_03","Speak with Skaetswys at the 789th Order Dig."
+28,"TEXT_BANALL040_01470_TODO_04","Speak with the 175th Order kobolds at the Kobold Dig."
+29,"TEXT_BANALL040_01470_TODO_05","Track down the kidnapper at the Kobold Dig."
+30,"TEXT_BANALL040_01470_TODO_06","Report to Skaetswys."
+31,"TEXT_BANALL040_01470_TODO_07",""
+32,"TEXT_BANALL040_01470_TODO_08",""
+33,"TEXT_BANALL040_01470_TODO_09",""
+34,"TEXT_BANALL040_01470_TODO_10",""
+35,"TEXT_BANALL040_01470_TODO_11",""
+36,"TEXT_BANALL040_01470_TODO_12",""
+37,"TEXT_BANALL040_01470_TODO_13",""
+38,"TEXT_BANALL040_01470_TODO_14",""
+39,"TEXT_BANALL040_01470_TODO_15",""
+40,"TEXT_BANALL040_01470_TODO_16",""
+41,"TEXT_BANALL040_01470_TODO_17",""
+42,"TEXT_BANALL040_01470_TODO_18",""
+43,"TEXT_BANALL040_01470_TODO_19",""
+44,"TEXT_BANALL040_01470_TODO_20",""
+45,"TEXT_BANALL040_01470_TODO_21",""
+46,"TEXT_BANALL040_01470_TODO_22",""
+47,"TEXT_BANALL040_01470_TODO_23",""
+48,"TEXT_BANALL040_01470_NOVV_000_000","Pshhh...<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. You may lack for gills, but you are as much my child as any of those I have spawned. It is as your clutchfather that I would bessseech your aid."
+49,"TEXT_BANALL040_01470_NOVV_000_001","I know not what that masked shhhorewalker means to do with Bouu, but I fear for the boy's life. I would leave this moment in pursssuit, but I am not young, and my wounds are slow to heal. My <hex:020812E905FF09>daughter<hex:FF04>son<hex:03>─pray rescue your brother in my ssstead."
+50,"TEXT_BANALL040_01470_NOVV_000_002","There is a sssaying among our people: the shark that swallows a Sahagin will choke on its ssscales. Though my clash with the kidnapper might have appeared a one-sided affair, I assure you it was not entirely so."
+51,"TEXT_BANALL040_01470_NOVV_000_003","After I tumbled into the waves, I struck at the villain's skiff with my spear. Even in my weakened state, I was able to open a sssizable hole in its bottom. The vessel will flood before long, if it has not already."
+52,"TEXT_BANALL040_01470_NOVV_000_004","The fiend will have no choice but to dock at the nearessst port for repairs. And there is only one sssuitable location in western La Noscea. Pshhh! You will find our man at Aleport─you can be sure of it!"
+53,"TEXT_BANALL040_01470_NOVV_000_005","Go forth, O strongest of my <hex:020814E905FF0A>daughters<hex:FF05>sons<hex:03>! Your ssspawnbrother's life hangs in the balance!"
+54,"TEXT_BANALL040_01470_NOVV_000_006","Pshhh... You must pursssue the fiend to Aleport, my <hex:020812E905FF09>daughter<hex:FF04>son<hex:03>. Your ssspawnbrother's life hangs in the balance!"
+55,"TEXT_BANALL040_01470_SYSTEM_000_008","A survey of the skiff reveals nothing unusual."
+56,"TEXT_BANALL040_01470_SYSTEM_000_009","You notice a small hole in the skiff's bottom, identifying it as the kidnapper's vessel."
+57,"TEXT_BANALL040_01470_SILVIA_000_010","(-???-)Again <hex:02080CE905FF04>she<hex:FF03>he<hex:03> comes, unaware that what <hex:02080CE905FF04>she<hex:FF03>he<hex:03> seeks has already been swept away by the tide."
+58,"TEXT_BANALL040_01470_SILVIA_000_011","Just couldn't leave well enough alone, could you, stranger? Ah, well. I suppose it matters little now."
+59,"TEXT_BANALL040_01470_SILVIA_000_012","I know who it is you seek...for I seek him as well. I also know that our man left Aleport not bells ago, and none in town can speak as to his whereabouts."
+60,"TEXT_BANALL040_01470_SILVIA_000_013","First he came for sylphs, then for Sahagin. Yes, it is clear enough. The wheels are in motion, and they will not stop until every beast tribe has been crushed beneath..."
+61,"TEXT_BANALL040_01470_SILVIA_000_014","He must be stopped─and I will be the one to stop him!"
+62,"TEXT_BANALL040_01470_Q1_000_000","About these kidnappings..."
+63,"TEXT_BANALL040_01470_A1_000_001","Why beastmen?"
+64,"TEXT_BANALL040_01470_A1_000_002","Who is that masked Miqo'te?"
+65,"TEXT_BANALL040_01470_SILVIA_000_015","Why, indeed? If I had an answer, it would make our search that much the easier. Alas, the Ebon Claw's motives are as inscrutable as that red eye..."
+66,"TEXT_BANALL040_01470_SILVIA_000_016","...So you saw him as well. Clad all in black, with a face of metal and that red eye burning in the darkness..."
+67,"TEXT_BANALL040_01470_SILVIA_000_017","They call him the Ebon Claw, as those who speak his birth name are said to be not long for the world. To what dark end he preys upon the beast tribes, I cannot say─only that he cannot be allowed to continue."
+68,"TEXT_BANALL040_01470_SILVIA_000_018","If you would know more of our quarry, seek out Baderon at the Drowning Wench."
+69,"TEXT_BANALL040_01470_SILVIA_000_019","I must move quickly...before tragedy strikes again..."
+70,"TEXT_BANALL040_01470_BADERON_000_020","Well, if it ain't me favorite regular, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! 'Ave ye come for a pint or a tale─mayhap both?"
+71,"TEXT_BANALL040_01470_BADERON_000_021","Bugger me with a spear, an' tell me ye didn't just say what I think ye said!"
+72,"TEXT_BANALL040_01470_BADERON_000_022","I told ye not to tell me that, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Aye, just 'earing those words sends a shiver up me spine..."
+73,"TEXT_BANALL040_01470_BADERON_000_023","...The Ebon Claw. Nhaza'a Jaab─though I'd suggest you avoid speakin' that name if ye prefer yer 'ead attached to yer body. One o' the five deadliest sellswords in Eorzea, by my measure."
+74,"TEXT_BANALL040_01470_BADERON_000_024","Not that yer like to 'ave 'eard of 'im. Prefers to keep to the shadows, ye see. Smugglin', assassination, extortion─the dirtier the job, the more it titillates the man."
+75,"TEXT_BANALL040_01470_BADERON_000_025","Believe it or not, 'e started out as an adventurer not unlike yerself. Some reckoned 'e'd be just the 'ero the realm was lookin' for. But doin' good didn't seem to satisfy 'im none, and it didn't take 'im long to turn to the dark side..."
+76,"TEXT_BANALL040_01470_BADERON_000_026","Yer as strong and sure a <hex:02080EE905FF05>lass<hex:FF04>lad<hex:03> as I know, and that's why I give ye this advice: keep a wide berth o' that man. I'd 'ate to see ye end up like..."
+77,"TEXT_BANALL040_01470_BADERON_000_027","...Which reminds me, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Someone stopped by the Wench not long ago, askin' if I'd seen ye about."
+78,"TEXT_BANALL040_01470_BADERON_000_028","An officer of the Maelstrom, no less. I believe 'e said 'is name was Trachraet."
+79,"TEXT_BANALL040_01470_BADERON_000_029","The burly bloke didn't share any details, but it seemed a matter o' some urgency. Ye'd best get along to Maelstrom Command and see what the fuss is."
+80,"TEXT_BANALL040_01470_BADERON_000_030","Can't say for sure what Trachraet wanted, but it sounded like a matter o' some urgency."
+81,"TEXT_BANALL040_01470_TRACHRAET_000_030","Thank the Navigator! Just the <hex:02080FE905FF06>woman<hex:FF04>man<hex:03> I was lookin' to see!"
+82,"TEXT_BANALL040_01470_TRACHRAET_000_031","Ye remember Lieutenant Skaetswys, no doubt? Aye, she leaves quite an impression. And it would seem you left quite an impression on 'er, as well─she asked for ye specifically by name."
+83,"TEXT_BANALL040_01470_TRACHRAET_000_032","It would seem there's another storm brewin' at the 789th Order Dig, and she reckons she needs yer steady 'and to navigate through. As fer the nature o' the storm, that ye'll 'ave to 'ear straight from 'er."
+84,"TEXT_BANALL040_01470_TRACHRAET_000_033","Just between you and me, sometimes I can't 'elp but think that lass goes out of 'er way to look for trouble."
+85,"TEXT_BANALL040_01470_SKAETSWYS_000_040","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, I thought ye'd never come! We've got a crisis on our 'ands 'ere, and I ain't just talkin' about this oversized bilge rat's aversion to anythin' resemblin' honest work!"
+86,"TEXT_BANALL040_01470_SKAETSWYS_000_041","I tell ye, after all you and I did to end Zo Ga's reign o' terror, ye'd think 'e'd make the slightest effort to raise 'is order from the arse end o' kobold society, wouldn't ye? Well, ye'd be wrong!"
+87,"TEXT_BANALL040_01470_SKAETSWYS_000_042","But that's neither 'ere nor there. The reason I wanted ye goes beyond this lot o' loungers─we've got a catastrophe facin' all o' koboldkind! I tell ye, these days it's out o' the bomb's nest, into the cauldron!"
+88,"TEXT_BANALL040_01470_SKAETSWYS_000_043","What sort o' crisis, ye ask? Scores o' kobolds from the mines just up and disappearin'! Aye, one moment they're there, an' the next they're gone! Who─or <hex:021A020203>what<hex:021A020103>─could possibly be responsible for this!?"
+89,"TEXT_BANALL040_01470_Q2_000_000","I'd wager we're dealing with..."
+90,"TEXT_BANALL040_01470_A2_000_001","...A rogue Roegadyn!"
+91,"TEXT_BANALL040_01470_A2_000_002","...A serial beastman kidnapper!"
+92,"TEXT_BANALL040_01470_SKAETSWYS_000_044","Gwahahaha! Ye got me, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. I always thought the realm would be better off without these good-for-nothin'─are ye out o' your bleedin' gourd?"
+93,"TEXT_BANALL040_01470_SKAETSWYS_000_045","Aye, the rumors from the Shroud and La Noscea 'aven't escaped me ears. Beastmen spirited away from their 'omes. But one question remains: why?"
+94,"TEXT_BANALL040_01470_SKAETSWYS_000_046","From the sound of it, ye've already done some investigatin' of yer own. I'll see what I can get out of Gi Gu and the rest o' these laggards. What say you survey the scene o' the crime?"
+95,"TEXT_BANALL040_01470_SKAETSWYS_000_047","Word 'as it that an inspection team from the 175th were ambushed right from the 'eart o' the Kobold Dig. The 175th's a friendly lot─ye remember Bi Bi, no doubt?─I reckon they won't be stingy with information."
+96,"TEXT_BANALL040_01470_SKAETSWYS_000_048","With this kidnapper about, I thank the Twelve I wasn't born a beastman. But I must confess─I 'aven't been this excited since the two of us teamed up to bring down Zo Ga!"
+97,"TEXT_BANALL040_01470_PICKMAN789GIGU_000_049","The 789th's favorite adventurer returns! You will be pleased to hear that we have been working hard─yes, yes, very hard, indeed. Gi Gu simply must share with you his latest discovery!"
+98,"TEXT_BANALL040_01470_PICKMAN789GIGU_000_050","After days of hard research─yes, yes, very hard─Gi Gu has taught himself how to sleep with his eyes open─peeled, wide, open! We can nap as often as we like, and the inspectors will be none the wiser! Gi Gu is quite the genius, yes?"
+99,"TEXT_BANALL040_01470_KOBOLD175A_000_060","Bi Bi! Where did he take Bi Bi!? Where...!?"
+100,"TEXT_BANALL040_01470_KOBOLD175A_000_061","Unghhh... Bi...Bi..."
+101,"TEXT_BANALL040_01470_KOBOLD175B_000_062","It stings─burns, sears, stings! I set my strongest bombs against him, but they could do nothing. No, no, nothing..."
+102,"TEXT_BANALL040_01470_KOBOLD175B_000_063","I've seen no overdweller so strong. No, no, not ever!"
+103,"TEXT_BANALL040_01470_KOBOLD175C_000_064","I...I saw it all. Yes, yes, I did. He grabbed Bi Bi with one arm, pressed steel against her neck. It was too much to watch─too distressing, too painful, too much!"
+104,"TEXT_BANALL040_01470_KOBOLD175C_000_065","I was too scared─yes, yes, too cowardly to come out of hiding. But the overdweller girl─yes, yes, the girl with green hair. She chased him─followed him, pursued him, chased him to the south!"
+105,"TEXT_BANALL040_01470_KOBOLD175C_000_066","The overdweller girl chased the kidnapper to the south. Oh, our dear Bi Bi─our precious, our beloved, our dear Bi Bi!"
+106,"TEXT_BANALL040_01470_SILVIA_000_070","C-Curses... He's too...unggghhh!"
+107,"TEXT_BANALL040_01470_SILVIA_000_071","D-Don't touch me! I...I can stand on my own."
+108,"TEXT_BANALL040_01470_SILVIA_000_072","My deductions were flawless... I knew the kobolds were next... I waited, waited to strike, and yet... I could do nothing..."
+109,"TEXT_BANALL040_01470_SILVIA_000_073","Nhaza'a Jaab─the Ebon Claw. I should have known I would be no match for that monster..."
+110,"TEXT_BANALL040_01470_SILVIA_000_074","My strength wanes... At this rate, I shall be... I...I must go..."
+111,"TEXT_BANALL040_01470_SILVIA_000_075","That...that one is too strong..."
+112,"TEXT_BANALL040_01470_PICKMAN789GIGU_000_076","Wh-What is happening here!? How is Gi Gu supposed to nap with all this disruption─disturbance, disorder, disruption!?"
+113,"TEXT_BANALL040_01470_PICKMAN789GIGU_000_080","Wh-Who is this overdweller girl!? What is she doing here!? And where can Gi Gu go to nap in peace─quiet, silence, peace!?"
+114,"TEXT_BANALL040_01470_SKAETSWYS_000_081","Ugh, 'ow in the bloody 'ells should I know!? Now quit yer blatherin'─the poor lass's wounded!"
+115,"TEXT_BANALL040_01470_SILVIA_000_082","W-Worry not for me... Please... You must stop him..."
+116,"TEXT_BANALL040_01470_SILVIA_000_083","Nhaza'a Jaab...the Ebon Claw...sword to the underworld..."
+117,"TEXT_BANALL040_01470_SILVIA_000_084","And yet he is but a blade for hire... No...another...<cough>...pulls the...<wheeze>...strings..."
+118,"TEXT_BANALL040_01470_SKAETSWYS_000_085","Enough, lass! Save yer strength!"
+119,"TEXT_BANALL040_01470_SILVIA_000_086","He must...<cough>...be stopped... Ixal...Amalj'aa...no beastman is...<wheeze>..."
+120,"TEXT_BANALL040_01470_SILVIA_000_087","...safe..."
+121,"TEXT_BANALL040_01470_PICKMAN789GIGU_000_088","Is she dead─expired, perished, dead!? Oh no, no─this cannot be! Bring my pickaxe! Gi Gu shall give the overdweller girl a proper burial!"
+122,"TEXT_BANALL040_01470_SKAETSWYS_000_089","Fool! She's not dead─but <hex:021A020203>you<hex:021A020103> will be if you don't stop yer bloody whinin'!"
+123,"TEXT_BANALL040_01470_SKAETSWYS_000_090","The girl still lives, but she'll need an 'ealer's 'and an' a clean bed, neither of which she'll find 'ere. I'll see 'er to Camp Overlook."
+124,"TEXT_BANALL040_01470_PICKMAN789GIGU_000_091","Does the overdweller imply that we are...<hex:021A020203>unclean<hex:021A020103>!? Gi Gu takes umbrage at your remark─offense, insult, umbrage! Why, Gi Gu took a bath just last year! Yes, yes, he did!"
+125,"TEXT_BANALL040_01470_SKAETSWYS_000_092","Worry not for the girl. She'll be safe at Camp Overlook. Our priority now should be rescuin' Bi Bi from her kidnapper."
+126,"TEXT_BANALL040_01470_PICKMAN789GIGU_000_093","My beloved Bi Bi was kidnapped!? Why─yes, yes, why did you not tell me sooner!? What is the ransom? Gi Gu has two chunks of ore and a handful of sulphur!"
+127,"TEXT_BANALL040_01470_SKAETSWYS_000_094","...Somehow I don't think that'll be enough. Besides, I 'ave a feelin' it ain't just riches our man is after."
+128,"TEXT_BANALL040_01470_SKAETSWYS_000_095","It would seem poor Bi Bi's life is at stake...again. We'll need to move quickly, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. I need ye to share with me anything and everything ye know o' the man─we'll get to the bottom o' this together."

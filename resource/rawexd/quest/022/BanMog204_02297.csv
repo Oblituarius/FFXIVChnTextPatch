@@ -2,68 +2,68 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_BANMOG204_02297_SEQ_00,<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整<hex:0249020103><hex:0248020103><hex:02100103>憶念廣場的機靈的莫古艾克好像在思考什麼。
-1,TEXT_BANMOG204_02297_SEQ_01,※本任務為<hex:024804F201FC03><hex:024904F201FD03><hex:0249020103><hex:0248020103> 等級調整任務。<hex:02100103><hex:02100103>莫古艾克委託冒險者治癒「主動」為修復作業幫忙的莫古力們的疲勞。騎著孢雲棉花糖，對莫古力們使用絨毛散播就可以了。為了騎上孢雲棉花糖，和憶念廣場的輕飄飄的莫古力談談。
-2,TEXT_BANMOG204_02297_SEQ_02,和輕飄飄的莫古力進行了交談，騎上了孢雲棉花糖。騎著孢雲棉花糖，在天極白堊宮的<hex:02280CFF05>EObj<hex:F61EA0BC0103>使用絨毛散播。<hex:02100103><hex:02100103>※和憶念廣場的輕飄飄的莫古力對話即可騎乘孢雲棉花糖。
-3,TEXT_BANMOG204_02297_SEQ_03,莫古力們恢復了精神。接下來，騎著孢雲棉花糖，在飛龍港的<hex:02280CFF05>EObj<hex:F61EA0BD0103>使用絨毛散播。
-4,TEXT_BANMOG204_02297_SEQ_04,莫古力們恢復了精神。向憶念廣場的機靈的莫古艾克報告。
-5,TEXT_BANMOG204_02297_SEQ_05,向莫古艾克報告完畢。莫古艾克表示，這樣一來大家就一定能邊喊著「勞動萬歲」的口號邊開心地工作了……
-6,TEXT_BANMOG204_02297_SEQ_06,
-7,TEXT_BANMOG204_02297_SEQ_07,
-8,TEXT_BANMOG204_02297_SEQ_08,
-9,TEXT_BANMOG204_02297_SEQ_09,
-10,TEXT_BANMOG204_02297_SEQ_10,
-11,TEXT_BANMOG204_02297_SEQ_11,
-12,TEXT_BANMOG204_02297_SEQ_12,
-13,TEXT_BANMOG204_02297_SEQ_13,
-14,TEXT_BANMOG204_02297_SEQ_14,
-15,TEXT_BANMOG204_02297_SEQ_15,
-16,TEXT_BANMOG204_02297_SEQ_16,
-17,TEXT_BANMOG204_02297_SEQ_17,
-18,TEXT_BANMOG204_02297_SEQ_18,
-19,TEXT_BANMOG204_02297_SEQ_19,
-20,TEXT_BANMOG204_02297_SEQ_20,
-21,TEXT_BANMOG204_02297_SEQ_21,
-22,TEXT_BANMOG204_02297_SEQ_22,
-23,TEXT_BANMOG204_02297_SEQ_23,
-24,TEXT_BANMOG204_02297_TODO_00,和輕飄飄的莫古力對話
-25,TEXT_BANMOG204_02297_TODO_01,騎著孢雲棉花糖在<hex:02280CFF05>EObj<hex:F61EA0BC0103>使用絨毛散播
-26,TEXT_BANMOG204_02297_TODO_02,騎著孢雲棉花糖在<hex:02280CFF05>EObj<hex:F61EA0BD0103>使用絨毛散播
-27,TEXT_BANMOG204_02297_TODO_03,向機靈的莫古艾克報告
-28,TEXT_BANMOG204_02297_TODO_04,
-29,TEXT_BANMOG204_02297_TODO_05,
-30,TEXT_BANMOG204_02297_TODO_06,
-31,TEXT_BANMOG204_02297_TODO_07,
-32,TEXT_BANMOG204_02297_TODO_08,
-33,TEXT_BANMOG204_02297_TODO_09,
-34,TEXT_BANMOG204_02297_TODO_10,
-35,TEXT_BANMOG204_02297_TODO_11,
-36,TEXT_BANMOG204_02297_TODO_12,
-37,TEXT_BANMOG204_02297_TODO_13,
-38,TEXT_BANMOG204_02297_TODO_14,
-39,TEXT_BANMOG204_02297_TODO_15,
-40,TEXT_BANMOG204_02297_TODO_16,
-41,TEXT_BANMOG204_02297_TODO_17,
-42,TEXT_BANMOG204_02297_TODO_18,
-43,TEXT_BANMOG204_02297_TODO_19,
-44,TEXT_BANMOG204_02297_TODO_20,
-45,TEXT_BANMOG204_02297_TODO_21,
-46,TEXT_BANMOG204_02297_TODO_22,
-47,TEXT_BANMOG204_02297_TODO_23,
-48,TEXT_BANMOG204_02297_MOGEK_000_000,努力工作以後就想好好休息一下治癒疲勞庫啵。<hex:02100103>不管是人類還是莫古們在這一點上的想法是一樣的庫啵。
-49,TEXT_BANMOG204_02297_MOGEK_000_001,所以就想拜託冒險者一件事庫啵。<hex:02100103>希望你可以用孢雲棉花糖的絨毛，<hex:02100103>治癒「主動」幫忙的莫古熱情的同伴們庫啵。
-50,TEXT_BANMOG204_02297_MOGEK_000_002,同伴們現在都累倒了庫啵。<hex:02100103>但是，莫古認為他們的內心深處還渴望著工作庫啵。<hex:02100103>所以你去用絨毛讓他們恢復精神，接著工作庫啵。
-51,TEXT_BANMOG204_02297_MOGEK_000_003,跟輕飄飄的莫古力說一聲就能騎上孢雲棉花糖了庫啵。<hex:02100103>累倒的同伴們在天極白堊宮和飛龍港，<hex:02100103>拜託你了庫啵。
-52,TEXT_BANMOG204_02297_MOUNTCONTROLMOOGLE02297_000_010,莫古從莫古艾克那裡聽說了庫啵。<hex:02100103>你要騎上孢雲棉花糖去治癒莫古的同伴們吧庫啵？<hex:02100103>一路小心庫啵！
-53,TEXT_BANMOG204_02297_MOUNTCONTROLMOOGLE02297_000_011,不小心從孢雲棉花糖上下來了嗎庫啵？<hex:02100103>別擔心，莫古準備了很多呢庫啵。<hex:02100103>那麼再一次……一路小心庫啵！
-54,TEXT_BANMOG204_02297_SYSTEM_000_012,疲憊的莫古力東倒西歪……<hex:02100103>和輕飄飄的莫古力對話，<hex:02100103>騎上孢雲棉花糖，使用絨毛散播。
-55,TEXT_BANMOG204_02297_TIREDMOOGLEA02297_000_020,累、累死了庫啵……已經不行了庫啵……<hex:02100103>雖然心裡還想繼續工作……但是身體已經動不了了庫啵……
-56,TEXT_BANMOG204_02297_TIREDMOOGLEA02297_000_021,……嗯？！<hex:02100103>突、突然又有精神了庫啵噢！
-57,TEXT_BANMOG204_02297_TIREDMOOGLEA02297_000_022,現在不是發牢騷的時候庫啵，<hex:02100103>拼盡全力工作庫啵噢噢！！
-58,TEXT_BANMOG204_02297_SYSTEM_000_023,情緒高漲的莫古力們<hex:02100103>喊著口號向著某處前進了……
-59,TEXT_BANMOG204_02297_TIREDMOOGLEB02297_000_030,唔……已經不行了庫啵……<hex:02100103>勞動萬歲……庫、庫啵……
-60,TEXT_BANMOG204_02297_TIREDMOOGLEB02297_000_031,唔……唔噢噢噢噢？！<hex:02100103>身體裡有熱流湧出來了庫啵！
-61,TEXT_BANMOG204_02297_TIREDMOOGLEB02297_000_032,精氣神爆發庫啵噢！<hex:02100103>感謝你讓莫古又能勞動了庫啵噢噢！！
-62,TEXT_BANMOG204_02297_SYSTEM_000_033,情緒高漲的莫古力們<hex:02100103>喊著口號向著某處前進了……
-63,TEXT_BANMOG204_02297_MOGEK_000_040,冒險者，謝謝你庫啵。<hex:02100103>就像聰明的莫古預料的那樣，<hex:02100103>這下他們就可以精神百倍地工作了庫啵。
-64,TEXT_BANMOG204_02297_MOGEK_000_041,同伴們一定會邊喊著勞動萬歲，<hex:02100103>邊不分晝夜地開心工作庫啵。<hex:02100103>這樣有延遲危險的作業也能趕上工期了庫啵。
+0,"TEXT_BANMOG204_02297_SEQ_00","<hex:024804F201FC03><hex:024904F201FD03> Quest Sync<hex:0249020103><hex:0248020103><hex:02100103>Mogek seems worried about something."
+1,"TEXT_BANMOG204_02297_SEQ_01","The Mogmenders have been giving it their all and more to restore Bahrr Lehs. What happens then should the moogles work themselves to exhaustion? The answer, Mogek tells you, is cloud mallows. A sprinkle of mallow puffs is all it takes to revitalize even the weariest of moogles. With many of the Mogmenders now neglecting their duties, he asks you to use one and puff new life into these worn out workers.<hex:02100103><hex:02100103>※Please note that the difficulty of this quest has been synced to your current level."
+2,"TEXT_BANMOG204_02297_SEQ_02","The moofy moogle lends you a cloud mallow that you might ride the winds of Churning Mists in search of the Mogmenders. Make your way to nearby Zenith first, and see what can be done for the moogles there.<hex:02100103><hex:02100103>※Speak with the moofy moogle in Bahrr Lehs to mount a cloud mallow."
+3,"TEXT_BANMOG204_02297_SEQ_03","You find a group of Mogmenders on the brink of collapsing. With a few well-timed wiggles atop the cloud mallow, the air is soon filled with puffs of its energizing seeds. The air soon clears and you find the moogles have rebounded with newfound strength. They bolt off to continue working without so much as acknowledging your presence. Head to the Rookery and see if anymore Mogmenders need a boost in their spirits."
+4,"TEXT_BANMOG204_02297_SEQ_04","You find yet another group of tired and unmotivated Mogmenders. After a few shakes of the cloud mallow, however, it is all they can do to contain their eagerness to work. With the wind back beneath their wings, you return to inform Mogek the Mogmenders have returned to their tasks."
+5,"TEXT_BANMOG204_02297_SEQ_05","You tell Mogek of the Mogmenders' enthusiasm, and he giggles with glee to hear his plan has taken effect. He is all but certain they will work tirelessly for days on end, fueled by the revitalizing power of cloud mallows."
+6,"TEXT_BANMOG204_02297_SEQ_06",""
+7,"TEXT_BANMOG204_02297_SEQ_07",""
+8,"TEXT_BANMOG204_02297_SEQ_08",""
+9,"TEXT_BANMOG204_02297_SEQ_09",""
+10,"TEXT_BANMOG204_02297_SEQ_10",""
+11,"TEXT_BANMOG204_02297_SEQ_11",""
+12,"TEXT_BANMOG204_02297_SEQ_12",""
+13,"TEXT_BANMOG204_02297_SEQ_13",""
+14,"TEXT_BANMOG204_02297_SEQ_14",""
+15,"TEXT_BANMOG204_02297_SEQ_15",""
+16,"TEXT_BANMOG204_02297_SEQ_16",""
+17,"TEXT_BANMOG204_02297_SEQ_17",""
+18,"TEXT_BANMOG204_02297_SEQ_18",""
+19,"TEXT_BANMOG204_02297_SEQ_19",""
+20,"TEXT_BANMOG204_02297_SEQ_20",""
+21,"TEXT_BANMOG204_02297_SEQ_21",""
+22,"TEXT_BANMOG204_02297_SEQ_22",""
+23,"TEXT_BANMOG204_02297_SEQ_23",""
+24,"TEXT_BANMOG204_02297_TODO_00","Speak with the moofy moogle."
+25,"TEXT_BANMOG204_02297_TODO_01","Ride the cloud mallow and use its Seed ability at Zenith."
+26,"TEXT_BANMOG204_02297_TODO_02","Ride the cloud mallow and use its Seed ability at the Rookery."
+27,"TEXT_BANMOG204_02297_TODO_03","Report to Mogek the Marvelous."
+28,"TEXT_BANMOG204_02297_TODO_04",""
+29,"TEXT_BANMOG204_02297_TODO_05",""
+30,"TEXT_BANMOG204_02297_TODO_06",""
+31,"TEXT_BANMOG204_02297_TODO_07",""
+32,"TEXT_BANMOG204_02297_TODO_08",""
+33,"TEXT_BANMOG204_02297_TODO_09",""
+34,"TEXT_BANMOG204_02297_TODO_10",""
+35,"TEXT_BANMOG204_02297_TODO_11",""
+36,"TEXT_BANMOG204_02297_TODO_12",""
+37,"TEXT_BANMOG204_02297_TODO_13",""
+38,"TEXT_BANMOG204_02297_TODO_14",""
+39,"TEXT_BANMOG204_02297_TODO_15",""
+40,"TEXT_BANMOG204_02297_TODO_16",""
+41,"TEXT_BANMOG204_02297_TODO_17",""
+42,"TEXT_BANMOG204_02297_TODO_18",""
+43,"TEXT_BANMOG204_02297_TODO_19",""
+44,"TEXT_BANMOG204_02297_TODO_20",""
+45,"TEXT_BANMOG204_02297_TODO_21",""
+46,"TEXT_BANMOG204_02297_TODO_22",""
+47,"TEXT_BANMOG204_02297_TODO_23",""
+48,"TEXT_BANMOG204_02297_MOGEK_000_000","The Mogmenders have been working tirelessly towards the restoration of Zenith. So much so, in fact, I fear they may inadvertently work themselves to exhaustion."
+49,"TEXT_BANMOG204_02297_MOGEK_000_001","Which is why I'd like you to help them using one of our cloud mallows, kupo! Though their fluffiness pales in comparison to the fabulously soft fur of yours truly, their ability to relieve fatigue is unsurpassed. "
+50,"TEXT_BANMOG204_02297_MOGEK_000_002","All you have to do is give it a good shake to sprinkle a few mallow puffs on anyone nearby. They'll soon be reinvigorated and ready to continue working. You're likely to find them lazing about not far from here at Zenith and up north at the Rookery."
+51,"TEXT_BANMOG204_02297_MOGEK_000_003","Speak with the moogle just over there to borrow one, then ride the breeze until you find them."
+52,"TEXT_BANMOG204_02297_MOUNTCONTROLMOOGLE02297_000_010","Mogek told me you'd be coming. You're sure to have a comfortable trip. Just be careful, though. Some find them to be <hex:021A020203>too<hex:021A020103> comfortable. I myself have fallen asleep riding them more times than I care to admit, kupo."
+53,"TEXT_BANMOG204_02297_MOUNTCONTROLMOOGLE02297_000_011","Oh no, did you fall off? I bet you were napping at the helm. Never fear, we've all nodded off at least once atop these cushioned carriers. Take care, and stay alert, kupo!"
+54,"TEXT_BANMOG204_02297_SYSTEM_000_012","The moogles are lounging about, unwilling to work. Perhaps a few puffs of cloud mallow could motivate them to resume their duties."
+55,"TEXT_BANMOG204_02297_TIREDMOOGLEA02297_000_020","Still so much to do... My spirit is willing, but my poor little arms feel spongy and bruised, kupo..."
+56,"TEXT_BANMOG204_02297_TIREDMOOGLEA02297_000_021","Huh!? I... I feel my strength returning!"
+57,"TEXT_BANMOG204_02297_TIREDMOOGLEA02297_000_022","Hey-ho! I've got my second wind. No time for complaints, you two. That monument won't build itself, kupo!"
+58,"TEXT_BANMOG204_02297_SYSTEM_000_023","The moogles rush off with renewed vigor, clamoring about the joys of working!"
+59,"TEXT_BANMOG204_02297_TIREDMOOGLEB02297_000_030","Ugh...so tired. But we have to finish..."
+60,"TEXT_BANMOG204_02297_TIREDMOOGLEB02297_000_031","Oh! It's so soft, and fuzzy! I'm feeling fresh and fired up, kupo!"
+61,"TEXT_BANMOG204_02297_TIREDMOOGLEB02297_000_032","Let's get back to work, boys. My pom is full to bursting with energy, and I won't let it go to waste!"
+62,"TEXT_BANMOG204_02297_SYSTEM_000_033","The moogles rush off with renewed vigor, clamoring about the joys of working!"
+63,"TEXT_BANMOG204_02297_MOGEK_000_040","It would seem my plan was a success. Now the Mogmenders can labor with the strength of a hundred moogles each, kupo!"
+64,"TEXT_BANMOG204_02297_MOGEK_000_041","From dawn till dusk, and perhaps till dawn again, they'll sing the praises of a hard day's work. We should be back on schedule in no time at all."

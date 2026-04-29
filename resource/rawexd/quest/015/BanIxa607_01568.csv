@@ -2,75 +2,75 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_BANIXA607_01568_SEQ_00,<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整<hex:0249020103><hex:0248020103><hex:02100103>※本任務推薦等級為：<hex:02100103>　製作職業16級以上、戰鬥職業49級以上。<hex:02100103><hex:02100103>長風實驗場的二把手傑茲爾·阿華坦有個狂野加性感的委託要交給冒險者。
-1,TEXT_BANIXA607_01568_SEQ_01,※本任務為<hex:024804F201FC03><hex:024904F201FD03><hex:0249020103><hex:0248020103> 等級調整任務。<hex:02100103><hex:02100103>二把手傑茲爾·阿華坦委託冒險者製作<hex:022813FF07>ItemHQ<hex:FF08>　8127<hex:0103>。想拿到製作需要的素材，須前往風揚殖民地，向空力團密探說出暗號。將聊天頻道設定為「說話」頻道後，使用鍵盤或軟鍵盤輸入「追夢無限」，從空力團密探手中拿到<hex:022811FF0A>EventItem<hex:F61E8A180103>。
-2,TEXT_BANIXA607_01568_SEQ_02,從空力團密探手中取得了<hex:022811FF0A>EventItem<hex:F61E8A180103>，並接到了下一步指示。將<hex:022811FF0A>EventItem<hex:F61E8A180103>交給巨龍首營地的諾貝托，獲取製作設施的使用許可。
-3,TEXT_BANIXA607_01568_SEQ_03,可以使用製作設施了。用<hex:022811FF05>Item<hex:FF08>　8084<hex:0103>製作2個<hex:022813FF07>ItemHQ<hex:FF08>　8127<hex:0103>，並將其交給長風實驗場的二把手傑茲爾·阿華坦。<hex:02100103><hex:02100103>※如果「製作設施：精密工作II」的狀態效果消失了，或者<hex:022811FF05>Item<hex:FF08>　8084<hex:0103>不足的話，就和諾貝托對話，即可重獲狀態效果和材料，並再次進行挑戰。
-4,TEXT_BANIXA607_01568_SEQ_04,將<hex:022813FF07>ItemHQ<hex:FF08>　8127<hex:0103>交給了二把手傑茲爾·阿華坦。傑茲爾承認了冒險者也是他無可取代的同伴，並將暗號的由來告訴了冒險者。乘風而起，展翅高飛，翱翔天際，不屈之翼，追夢無限……這是從前空力團的諸位與賽茲爾·托托羅克交換夢想時的誓言。與他們共同見證這以天空彼端為目標的追夢之旅。
-5,TEXT_BANIXA607_01568_SEQ_05,
-6,TEXT_BANIXA607_01568_SEQ_06,
-7,TEXT_BANIXA607_01568_SEQ_07,
-8,TEXT_BANIXA607_01568_SEQ_08,
-9,TEXT_BANIXA607_01568_SEQ_09,
-10,TEXT_BANIXA607_01568_SEQ_10,
-11,TEXT_BANIXA607_01568_SEQ_11,
-12,TEXT_BANIXA607_01568_SEQ_12,
-13,TEXT_BANIXA607_01568_SEQ_13,
-14,TEXT_BANIXA607_01568_SEQ_14,
-15,TEXT_BANIXA607_01568_SEQ_15,
-16,TEXT_BANIXA607_01568_SEQ_16,
-17,TEXT_BANIXA607_01568_SEQ_17,
-18,TEXT_BANIXA607_01568_SEQ_18,
-19,TEXT_BANIXA607_01568_SEQ_19,
-20,TEXT_BANIXA607_01568_SEQ_20,
-21,TEXT_BANIXA607_01568_SEQ_21,
-22,TEXT_BANIXA607_01568_SEQ_22,
-23,TEXT_BANIXA607_01568_SEQ_23,
-24,TEXT_BANIXA607_01568_TODO_00,在「說話」頻道下輸入「追夢無限」<hex:02100103>對風揚殖民地的空力團密探說暗號 (Amid the Flowers)
-25,TEXT_BANIXA607_01568_TODO_01,將<hex:022811FF0A>EventItem<hex:F61E8A180103>交給巨龍首營地的諾貝托
-26,TEXT_BANIXA607_01568_TODO_02,<hex:020889E3E802E803FF44>製作筆記 友好部族任務16級：製作<hex:022813FF07>ItemHQ<hex:FF08>　8127<hex:0103><hex:FF3D>將<hex:022813FF07>ItemHQ<hex:FF08>　8127<hex:0103>交給二把手傑茲爾·阿華坦<hex:03>
-27,TEXT_BANIXA607_01568_TODO_03,
-28,TEXT_BANIXA607_01568_TODO_04,
-29,TEXT_BANIXA607_01568_TODO_05,
-30,TEXT_BANIXA607_01568_TODO_06,
-31,TEXT_BANIXA607_01568_TODO_07,
-32,TEXT_BANIXA607_01568_TODO_08,
-33,TEXT_BANIXA607_01568_TODO_09,
-34,TEXT_BANIXA607_01568_TODO_10,
-35,TEXT_BANIXA607_01568_TODO_11,
-36,TEXT_BANIXA607_01568_TODO_12,
-37,TEXT_BANIXA607_01568_TODO_13,
-38,TEXT_BANIXA607_01568_TODO_14,
-39,TEXT_BANIXA607_01568_TODO_15,
-40,TEXT_BANIXA607_01568_TODO_16,
-41,TEXT_BANIXA607_01568_TODO_17,
-42,TEXT_BANIXA607_01568_TODO_18,
-43,TEXT_BANIXA607_01568_TODO_19,
-44,TEXT_BANIXA607_01568_TODO_20,
-45,TEXT_BANIXA607_01568_TODO_21,
-46,TEXT_BANIXA607_01568_TODO_22,
-47,TEXT_BANIXA607_01568_TODO_23,
-48,TEXT_BANIXA607_01568_JEZULAHUATAN_000_000,是你呀！<hex:02100103>這次要拜託你製作2個<hex:022813FF07>ItemHQ<hex:FF08>　8127<hex:0103>。<hex:02100103>終於到最後的裝飾階段了！
-49,TEXT_BANIXA607_01568_JEZULAHUATAN_000_010,也就是給光禿禿的船身弄一些裝飾部件！<hex:02100103>能把船裝潢得最狂野最性感的那種！<hex:02100103>瞬間向炫酷的飛空艇大變身！太刺激了！
-50,TEXT_BANIXA607_01568_JEZULAHUATAN_000_020,也就是給光禿禿的船身抹一些塗料！<hex:02100103>能把船裝潢得最狂野最性感的那種！<hex:02100103>瞬間向炫酷的飛空艇大變身！太刺激了！
-51,TEXT_BANIXA607_01568_JEZULAHUATAN_000_030,也就是給光禿禿的船身弄一些裝飾部件！<hex:02100103>能把船裝潢得最狂野最性感的那種！<hex:02100103>瞬間向炫酷的飛空艇大變身！太刺激了！
-52,TEXT_BANIXA607_01568_JEZULAHUATAN_000_040,但想要製作這炫酷的<hex:022813FF07>ItemHQ<hex:FF08>　8127<hex:0103>，<hex:02100103>需要用一種特別的材料。<hex:02100103>只有在風揚殖民地能弄到！
-53,TEXT_BANIXA607_01568_JEZULAHUATAN_000_041,其實，我們長風空力團派了一位<hex:02100103>空力團密探潛伏在風揚殖民地！<hex:02100103>你去和他進行接觸，取得材料並接受下一步指示！
-54,TEXT_BANIXA607_01568_JEZULAHUATAN_000_042,但如果你不說出暗語的話，他是不會理你的！<hex:02100103>聽好別忘了……暗號是「追夢無限」！
-55,TEXT_BANIXA607_01568_JEZULAHUATAN_000_050,我們長風空力團派了一位空力團密探潛伏在風揚殖民地！<hex:02100103>暗號是「追夢無限」！
-56,TEXT_BANIXA607_01568_IXALSPY01568_000_061,何事？<hex:02100103>若為吾等同志，閣下應有一語先言！
-57,TEXT_BANIXA607_01568_SYSTEM_100_061,將聊天頻道設定為「說話」頻道後，<hex:02100103>使用鍵盤或軟鍵盤輸入暗號「追夢無限」。
-58,TEXT_BANIXA607_01568_SYSTEM_100_062,Amid the Flowers
-59,TEXT_BANIXA607_01568_IXALSPY01568_000_063,此句切口……閣下確為空力團之同志！<hex:02100103><hex:022811FF0A>EventItem<hex:F61E8A180103>在此，在下已然得手！
-60,TEXT_BANIXA607_01568_IXALSPY01568_000_064,閣下攜此前往巨龍首營地，向諾貝托之士借取設備即可。<hex:02100103>其乃是此方最適生產之地！
-61,TEXT_BANIXA607_01568_IXALSPY01568_000_066,閣下攜此前往巨龍首營地，向諾貝托之士借取設備即可。<hex:02100103>其乃是此方最適生產之地！
-62,TEXT_BANIXA607_01568_NORBETTAUX_000_070,歡迎來到巨龍首營地的製作設施！<hex:02100103>這邊請，先烘暖你凍僵的手指，再加油工作吧！
-63,TEXT_BANIXA607_01568_NORBETTAUX_000_071,謝謝，材料袋我收下了。<hex:02100103>……製作時大概是需要這麼多吧？<hex:02100103>請自由使用本設施。
-64,TEXT_BANIXA607_01568_NORBETTAUX_000_100,材料不足或想再利用本設施時，請跟我說。
-65,TEXT_BANIXA607_01568_NORBETTAUX_100_100,看來你製作完成可以去交貨了！<hex:02100103>如果作品不小心弄丟了或者想再利用本設施的話，請跟我說。
-66,TEXT_BANIXA607_01568_JEZULAHUATAN_000_130,哦哦，你回來啦！<hex:02100103>風揚殖民地那邊情況如何？！
-67,TEXT_BANIXA607_01568_JEZULAHUATAN_000_131,看來你做得很乾淨利落！<hex:02100103>對了對了！這<hex:022813FF07>ItemHQ<hex:FF08>　8127<hex:0103>真是炫酷極了！<hex:02100103>能裝飾上這個飛向天空，是不是特別有愛有夢想！
-68,TEXT_BANIXA607_01568_JEZULAHUATAN_000_132,夢想……沒錯，一切都是從一個夢想開始的！<hex:02100103>我只告訴你一個人！<hex:02100103>告訴你我們使用的暗語究竟從何而來！
-69,TEXT_BANIXA607_01568_JEZULAHUATAN_000_133,乘風而起，展翅高飛，<hex:02100103>翱翔天際，不屈之翼，追夢無限……<hex:02100103>這是從前我們與老大立下的，我們空力團的誓言！
-70,TEXT_BANIXA607_01568_POPMESSAGE_000_200,製作設施已經準備就緒。
-71,TEXT_BANIXA607_01568_SYSTEM_200_200,背包中留有在本次任務中製作出的普通品質道具。<hex:02100103>這種道具無法使用也無法出售給商店，盡早扔掉吧。
+0,"TEXT_BANIXA607_01568_SEQ_00","<hex:024804F201FC03><hex:024904F201FD03> Quest Sync<hex:0249020103><hex:0248020103><hex:02100103>To rule the skies is not enough; the Ehcatl Nine would do so in style.<hex:02100103>※The crafting portion of this quest is recommended for Disciples of the Hand level 16 and above, and the battle portion for Disciples of War or Magic level 49 and above."
+1,"TEXT_BANIXA607_01568_SEQ_01","As the <hex:021A020203>Dezul Qualan<hex:021A020103> nears completion, Jezul Ahuatan finds himself more concerned about the image the Ehcatl Nine will project with their new airship. To simply soar above their earthbound brethren is not enough; they must do so in an airship both powerful and aesthetically pleasing. To this end, Jezul Ahuatan would have you meet with a brother of Ehcatl in Natalan, who has infiltrated enemy ranks and stolen the materials needed to craft high-quality decorative plating components. Venture within the Ixali stronghold and, with the chat mode in <hex:024804F201F403><hex:024904F201F503>Say<hex:0249020103><hex:0248020103>, enter the password “Amid the Flowers” to identify yourself as a friend.<hex:02100103><hex:02100103>※Please note that the difficulty of this quest has been synced to your current level."
+2,"TEXT_BANIXA607_01568_SEQ_02","The Ehcatl infiltrator responds to your cryptic phrase with an equally cryptic reply of his own, before furnishing you with the decorative plating component materials you seek. Present them to Norbettaux at Camp Dragonhead in order to gain access to the crafting facility under his care."
+3,"TEXT_BANIXA607_01568_SEQ_03","Norbettaux has prepared the crafting facility for your use. With the materials you have obtained, synthesize two decorative plating components, and deliver them to Jezul Ahuatan at Ehcatl.<hex:02100103><hex:02100103>※In the event that the status <hex:024804F201F403><hex:024904F201F503>Facility Access: Finishing II<hex:0249020103><hex:0248020103> wears off or the synthesis ends in failure, you may try again by speaking with Norbettaux."
+4,"TEXT_BANIXA607_01568_SEQ_04","Never let it be said that the Ehcatl Nine are lacking in passion, for upon receiving your components, Jezul Ahuatan is driven into a frenzy of Ixali pride. The Second echoes the words of his chieftain, declaring that his brethren shall soon fulfill the destiny for which they─and you─have long labored. Indeed, when the <hex:021A020203>Dezul Qualan<hex:021A020103>, that shining culmination of the Ehcatl Nine's hard work, one day takes flight, you can take pride in knowing that the obnoxious decorations which grace its hull are but one of your countless contributions."
+5,"TEXT_BANIXA607_01568_SEQ_05",""
+6,"TEXT_BANIXA607_01568_SEQ_06",""
+7,"TEXT_BANIXA607_01568_SEQ_07",""
+8,"TEXT_BANIXA607_01568_SEQ_08",""
+9,"TEXT_BANIXA607_01568_SEQ_09",""
+10,"TEXT_BANIXA607_01568_SEQ_10",""
+11,"TEXT_BANIXA607_01568_SEQ_11",""
+12,"TEXT_BANIXA607_01568_SEQ_12",""
+13,"TEXT_BANIXA607_01568_SEQ_13",""
+14,"TEXT_BANIXA607_01568_SEQ_14",""
+15,"TEXT_BANIXA607_01568_SEQ_15",""
+16,"TEXT_BANIXA607_01568_SEQ_16",""
+17,"TEXT_BANIXA607_01568_SEQ_17",""
+18,"TEXT_BANIXA607_01568_SEQ_18",""
+19,"TEXT_BANIXA607_01568_SEQ_19",""
+20,"TEXT_BANIXA607_01568_SEQ_20",""
+21,"TEXT_BANIXA607_01568_SEQ_21",""
+22,"TEXT_BANIXA607_01568_SEQ_22",""
+23,"TEXT_BANIXA607_01568_SEQ_23",""
+24,"TEXT_BANIXA607_01568_TODO_00","With the chat mode in <hex:024804F201F403><hex:024904F201F503>Say<hex:0249020103><hex:0248020103>, enter “Amid the Flowers” to let the Ehcatl Nine silencer in Natalan know you are not an enemy."
+25,"TEXT_BANIXA607_01568_TODO_01","Present the decorative plating component materials to Norbettaux at Camp Dragonhead."
+26,"TEXT_BANIXA607_01568_TODO_02","<hex:020893E3E802E803FF37>Synthesize decorative plating components <hex:02280AFF06>Addon<hex:0A0103><hex:FF54>Deliver the decorative plating components <hex:02280AFF06>Addon<hex:0A0103> to Jezul Ahuatan the Second<hex:03>."
+27,"TEXT_BANIXA607_01568_TODO_03",""
+28,"TEXT_BANIXA607_01568_TODO_04",""
+29,"TEXT_BANIXA607_01568_TODO_05",""
+30,"TEXT_BANIXA607_01568_TODO_06",""
+31,"TEXT_BANIXA607_01568_TODO_07",""
+32,"TEXT_BANIXA607_01568_TODO_08",""
+33,"TEXT_BANIXA607_01568_TODO_09",""
+34,"TEXT_BANIXA607_01568_TODO_10",""
+35,"TEXT_BANIXA607_01568_TODO_11",""
+36,"TEXT_BANIXA607_01568_TODO_12",""
+37,"TEXT_BANIXA607_01568_TODO_13",""
+38,"TEXT_BANIXA607_01568_TODO_14",""
+39,"TEXT_BANIXA607_01568_TODO_15",""
+40,"TEXT_BANIXA607_01568_TODO_16",""
+41,"TEXT_BANIXA607_01568_TODO_17",""
+42,"TEXT_BANIXA607_01568_TODO_18",""
+43,"TEXT_BANIXA607_01568_TODO_19",""
+44,"TEXT_BANIXA607_01568_TODO_20",""
+45,"TEXT_BANIXA607_01568_TODO_21",""
+46,"TEXT_BANIXA607_01568_TODO_22",""
+47,"TEXT_BANIXA607_01568_TODO_23",""
+48,"TEXT_BANIXA607_01568_JEZULAHUATAN_000_000","What next will Ehcatl ask for, featherless one wonders? Squee-squee... Quality decorative plating components, we seek this time. Of the utmost importance, soaring through the heavens in style is!"
+49,"TEXT_BANIXA607_01568_JEZULAHUATAN_000_010","Ornamentation for the hull of the <hex:021A020203>Dezul Qualan<hex:021A020103>, we seek, to further demonstrate our superiority to buzzards below! Sqqquawk!"
+50,"TEXT_BANIXA607_01568_JEZULAHUATAN_000_020","Paints for the hull of the <hex:021A020203>Dezul Qualan<hex:021A020103>, we seek, to further demonstrate our superiority to buzzards below! Sqqquawk!"
+51,"TEXT_BANIXA607_01568_JEZULAHUATAN_000_030","Ornamentation for the hull of the <hex:021A020203>Dezul Qualan<hex:021A020103>, we seek, to further demonstrate our superiority to buzzards below! Sqqquawk!"
+52,"TEXT_BANIXA607_01568_JEZULAHUATAN_000_040","Yet held by the selfsame buzzards, the materials we seek are! Requests to share, they would squawkka-wak! Accomplish nothing, diplomacy will!"
+53,"TEXT_BANIXA607_01568_JEZULAHUATAN_000_041","On subterfuge, we shall rely! Deep within their ranks, a brother of Ehcatl lurks. Secured our materials, he has, but leave Natalan, he dares not. Render infiltration moot, we will have him not!"
+54,"TEXT_BANIXA607_01568_JEZULAHUATAN_000_042","Behind enemy lines, you must go! Locate our brother, you shall! Yet play the part of foe, he must, unless a friend, he knows you to be. “Amid the Flowers,” to him you must say, lest to maintain fiction, slay you, he shall!"
+55,"TEXT_BANIXA607_01568_JEZULAHUATAN_000_050","With our brother in Natalan, featherless one must meet! “Amid the Flowers,” to him you must say, else a violent death, at his hands you shall meet!"
+56,"TEXT_BANIXA607_01568_IXALSPY01568_000_061","Featherless ones!? Within Natalan!? Die, you shall, for this trespass!"
+57,"TEXT_BANIXA607_01568_SYSTEM_100_061","With the chat mode in <hex:024804F201F403><hex:024904F201F503>Say<hex:0249020103><hex:0248020103>, use your keyboard or the software keyboard to enter the password “Amid the Flowers” to let the Ehcatl Nine silencer know you are a friend."
+58,"TEXT_BANIXA607_01568_SYSTEM_100_062","Amid the Flowers"
+59,"TEXT_BANIXA607_01568_IXALSPY01568_000_063","<hex:021A020203>Come share a dream<hex:021A020103>! Friend of my friends, for you, I have been waiting!"
+60,"TEXT_BANIXA607_01568_IXALSPY01568_000_064","Linger, you cannot. Materials, take to Camp Dragonhead for crafting. With you, I cannot be seen, else forfeit, our lives shall be."
+61,"TEXT_BANIXA607_01568_IXALSPY01568_000_066","To Camp Dragonhead, you must fly! With you, I cannot be seen, else forfeit, our lives shall be!"
+62,"TEXT_BANIXA607_01568_NORBETTAUX_000_070","Welcome to our humble facility! You needn't say a word. You're expected, you see. You need but show me the materials to begin."
+63,"TEXT_BANIXA607_01568_NORBETTAUX_000_071","You must be very brave to venture so deep into Natalan─far braver than I, that much is certain! Now then, without further ado, your materials─the excess I will retain for safekeeping."
+64,"TEXT_BANIXA607_01568_NORBETTAUX_000_100","If you require aught else, you need but say the word. Additional materials, additional time with the facility─either I would be more than happy to provide."
+65,"TEXT_BANIXA607_01568_NORBETTAUX_100_100","A bit flamboyant for my tastes, but so long as the client is satisfied, who am I to judge? Safe travels, my friend, and remember that should disaster strike and you need to recreate your components, I will be here."
+66,"TEXT_BANIXA607_01568_JEZULAHUATAN_000_130","None the worse for wear, you are! With our brother, you met? Our components, you have brought!?"
+67,"TEXT_BANIXA607_01568_JEZULAHUATAN_000_131","Squee-squee... Fail us, I knew you would not! The envy of all Ixal, the <hex:021A020203>Dezul Qualan<hex:021A020103> shall be!"
+68,"TEXT_BANIXA607_01568_JEZULAHUATAN_000_132","With the wind, we shall fly! High as honor, we shall soar! With wings unbending, we shall roam free! To the earth, our enemies shall fall! Amid the flowers of Ayatlan, we shall live our dream!"
+69,"TEXT_BANIXA607_01568_JEZULAHUATAN_000_133","Chief Totoloc, thus spoke he! Ehcatl Nine, thus shall we be! Squaaawk!"
+70,"TEXT_BANIXA607_01568_POPMESSAGE_000_200","You now have access to the crafting facility."
+71,"TEXT_BANIXA607_01568_SYSTEM_200_200","Normal-quality items crafted in the course of this quest serve no purpose and cannot be sold. It is recommended that you discard them."

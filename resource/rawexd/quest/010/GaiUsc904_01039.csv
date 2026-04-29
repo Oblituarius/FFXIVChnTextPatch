@@ -2,71 +2,71 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_GAIUSC904_01039_SEQ_00,藍霧營地的克拉克德·菲斯特，希望冒險者能去為士兵們打氣……
-1,TEXT_GAIUSC904_01039_SEQ_01,<hex:024804F2021503><hex:024904F2021603><hex:0212024003>本任務已經過調整。建議放棄本任務，前往藍霧營地找克拉克德·菲斯特重新領取。<hex:0249020103><hex:0248020103><hex:02100103><hex:02100103>※接下來的主線任務可以在主線嚮導中進行確認。在快捷指令的系統中可以找到角色設定，打開角色設定後，在介面設定的介面項中可以顯示或隱藏主線嚮導。
-2,TEXT_GAIUSC904_01039_SEQ_02,獲得了菜餚的材料。將<hex:022811FF0A>EventItem<hex:F61E87910103>放入<hex:02280CFF05>EObj<hex:F61E8D500103>，進行烹調。
-3,TEXT_GAIUSC904_01039_SEQ_03,菜餚要等一陣才能做好。在<hex:02280CFF05>EObj<hex:F61E8D500103>旁稍等片刻。
-4,TEXT_GAIUSC904_01039_SEQ_04,菜餚出鍋了。從<hex:02280CFF05>EObj<hex:F61E8D500103>裡拿出<hex:022811FF0A>EventItem<hex:F61E87920103>。
-5,TEXT_GAIUSC904_01039_SEQ_05,獲得了做好的菜餚。將<hex:022811FF0A>EventItem<hex:F61E87920103>分給藍霧營地的士兵們。
-6,TEXT_GAIUSC904_01039_SEQ_06,分發了菜餚。向藍霧營地的克拉克德·菲斯特報告。
-7,TEXT_GAIUSC904_01039_SEQ_07,向克拉克德·菲斯特報告完畢。多虧了冒險者，士兵們又都有了活力。
-8,TEXT_GAIUSC904_01039_SEQ_08,
-9,TEXT_GAIUSC904_01039_SEQ_09,
-10,TEXT_GAIUSC904_01039_SEQ_10,
-11,TEXT_GAIUSC904_01039_SEQ_11,
-12,TEXT_GAIUSC904_01039_SEQ_12,
-13,TEXT_GAIUSC904_01039_SEQ_13,
-14,TEXT_GAIUSC904_01039_SEQ_14,
-15,TEXT_GAIUSC904_01039_SEQ_15,
-16,TEXT_GAIUSC904_01039_SEQ_16,
-17,TEXT_GAIUSC904_01039_SEQ_17,
-18,TEXT_GAIUSC904_01039_SEQ_18,
-19,TEXT_GAIUSC904_01039_SEQ_19,
-20,TEXT_GAIUSC904_01039_SEQ_20,
-21,TEXT_GAIUSC904_01039_SEQ_21,
-22,TEXT_GAIUSC904_01039_SEQ_22,
-23,TEXT_GAIUSC904_01039_SEQ_23,
-24,TEXT_GAIUSC904_01039_TODO_00,<hex:024804F2021503><hex:024904F2021603><hex:0212024003>本任務已經過調整 建議放棄本任務<hex:02100103>前往藍霧營地找克拉克德·菲斯特重新領取<hex:0249020103><hex:0248020103>
-25,TEXT_GAIUSC904_01039_TODO_01,<hex:024804F2021503><hex:024904F2021603><hex:0212024003>本任務已經過調整 建議放棄本任務<hex:02100103>前往藍霧營地找克拉克德·菲斯特重新領取<hex:0249020103><hex:0248020103>
-26,TEXT_GAIUSC904_01039_TODO_02,<hex:024804F2021503><hex:024904F2021603><hex:0212024003>本任務已經過調整 建議放棄本任務<hex:02100103>前往藍霧營地找克拉克德·菲斯特重新領取<hex:0249020103><hex:0248020103>
-27,TEXT_GAIUSC904_01039_TODO_03,<hex:024804F2021503><hex:024904F2021603><hex:0212024003>本任務已經過調整 建議放棄本任務<hex:02100103>前往藍霧營地找克拉克德·菲斯特重新領取<hex:0249020103><hex:0248020103>
-28,TEXT_GAIUSC904_01039_TODO_04,<hex:024804F2021503><hex:024904F2021603><hex:0212024003>本任務已經過調整 建議放棄本任務<hex:02100103>前往藍霧營地找克拉克德·菲斯特重新領取<hex:0249020103><hex:0248020103>
-29,TEXT_GAIUSC904_01039_TODO_05,<hex:024804F2021503><hex:024904F2021603><hex:0212024003>本任務已經過調整 建議放棄本任務<hex:02100103>前往藍霧營地找克拉克德·菲斯特重新領取<hex:0249020103><hex:0248020103>
-30,TEXT_GAIUSC904_01039_TODO_06,
-31,TEXT_GAIUSC904_01039_TODO_07,
-32,TEXT_GAIUSC904_01039_TODO_08,
-33,TEXT_GAIUSC904_01039_TODO_09,
-34,TEXT_GAIUSC904_01039_TODO_10,
-35,TEXT_GAIUSC904_01039_TODO_11,
-36,TEXT_GAIUSC904_01039_TODO_12,
-37,TEXT_GAIUSC904_01039_TODO_13,
-38,TEXT_GAIUSC904_01039_TODO_14,
-39,TEXT_GAIUSC904_01039_TODO_15,
-40,TEXT_GAIUSC904_01039_TODO_16,
-41,TEXT_GAIUSC904_01039_TODO_17,
-42,TEXT_GAIUSC904_01039_TODO_18,
-43,TEXT_GAIUSC904_01039_TODO_19,
-44,TEXT_GAIUSC904_01039_TODO_20,
-45,TEXT_GAIUSC904_01039_TODO_21,
-46,TEXT_GAIUSC904_01039_TODO_22,
-47,TEXT_GAIUSC904_01039_TODO_23,
-48,TEXT_GAIUSC904_01039_CRACKEDFIST_000_000,<hex:022903EB0203>隊長，<hex:02100103>雖說我想讓你馬上去為士兵們打氣……<hex:02100103>但在這之前，你能先跟我聊一會嗎？
-49,TEXT_GAIUSC904_01039_CRACKEDFIST_000_001,說實話，就連我也從沒參加過這麼大規模的作戰。<hex:02100103>士兵們也全都緊張得不得了。
-50,TEXT_GAIUSC904_01039_CRACKEDFIST_000_002,我聽說在1世紀前，為鼓舞那些不習慣戰爭的士兵，<hex:02100103>格里達尼亞的名將萬舍隆為他們準備了熱騰騰的飯菜，<hex:02100103>由此緩解了士兵們的緊張，守住了戰線。
-51,TEXT_GAIUSC904_01039_CRACKEDFIST_000_003,以古為鑒是格里達尼亞的長處，<hex:02100103>如果能吃到英雄隊長所做的菜餚，<hex:02100103>我想就算是不習慣戰爭的士兵，也會鼓起勇氣的！
-52,TEXT_GAIUSC904_01039_CRACKEDFIST_000_004,輔料都已經給你放在鍋裡準備好了，<hex:02100103>你只要將<hex:02280FFF09>BNpcName<hex:F201300103>的肉煮熟，<hex:02100103>就能做出<hex:022811FF0A>EventItem<hex:F61E87920103>了。
-53,TEXT_GAIUSC904_01039_CRACKEDFIST_000_005,等你做好<hex:022811FF0A>EventItem<hex:F61E87920103>，<hex:02100103>請親手把它分給士兵們。
-54,TEXT_GAIUSC904_01039_CRACKEDFIST_000_006,讓英雄隊長去做這種事，實在是多有得罪，<hex:02100103>事後我會任你處罰。
-55,TEXT_GAIUSC904_01039_CRACKEDFIST_000_007,不過我認為，要想鼓舞士兵們，<hex:02100103>你做的菜餚比誰的都管用。<hex:02100103>還請你多多幫忙！
-56,TEXT_GAIUSC904_01039_TODO_000_000,打倒<hex:02280FFF09>BNpcName<hex:F201300103>，獲得3個<hex:022811FF0A>EventItem<hex:F61E87910103>。
-57,TEXT_GAIUSC904_01039_TODO_000_010,把<hex:022811FF0A>EventItem<hex:F61E87910103>放進湯裡。
-58,TEXT_GAIUSC904_01039_TODO_000_020,在鍋旁等待。
-59,TEXT_GAIUSC904_01039_TODO_000_030,得到鍋裡的<hex:022811FF0A>EventItem<hex:F61E87920103>。
-60,TEXT_GAIUSC904_01039_ZEZERAGI_000_010,嗚嗚……我不想打仗，想回家……<hex:02100103>我可不想在這陰森恐怖的地方一個人死去啊……
-61,TEXT_GAIUSC904_01039_ZEZERAGI_000_020,哦！這燉肉真熱乎！<hex:02100103>就像你這個英雄的內心一樣溫暖。<hex:02100103>為了你，我要盡全力打仗！
-62,TEXT_GAIUSC904_01039_ADELENA_000_030,和帝國軍打仗……根本就沒有勝算……<hex:02100103>看看他們那黑色的金屬兵器……<hex:02100103>我們手中的破銅爛鐵怎麼可能能贏得了他們！
-63,TEXT_GAIUSC904_01039_ADELENA_000_040,……我感受到了你的強大與溫柔，<hex:02100103>謝謝你，英雄<hex:022903EB0203>。<hex:02100103>我會盡全力的！
-64,TEXT_GAIUSC904_01039_BETYN_000_050,只要裝成傷員，就不用打仗了。<hex:02100103>有那麼多人呢，少我一個也沒什麼關係。
-65,TEXT_GAIUSC904_01039_BETYN_000_060,英雄親自為我們做飯？<hex:02100103>可惡！我真瞧不起膽小的自己。<hex:02100103>我也要戰鬥！向你學習，戰鬥到底！
-66,TEXT_GAIUSC904_01039_CRACKEDFIST_000_070,謝謝你！<hex:02100103>你的心意都傳達給士兵們了。
-67,TEXT_GAIUSC904_01039_CRACKEDFIST_000_071,他們肯定已恢復了平時的狀態，<hex:02100103>願意為保護這片土地而戰鬥了。<hex:02100103>我相信，他們會成為你的力量的。
+0,"TEXT_GAIUSC904_01039_SEQ_00","Sergeant Cracked Fist needs a hero to make a stew."
+1,"TEXT_GAIUSC904_01039_SEQ_01","<hex:024804F2021503><hex:024904F2021603><hex:0212024003> This quest has been adjusted. Please abandon the quest and restart it by speaking to Cracked Fist at Camp Bluefog.<hex:0249020103><hex:0248020103><hex:02100103><hex:02100103>※The Main Scenario Guide shows the next available quest. You can toggle it on and off in Character Configuration, under UI Settings."
+2,"TEXT_GAIUSC904_01039_SEQ_02","You have obtained enough basilisk meat. Take it to the cookfire just outside Camp Bluefog's northern gate, and add it to the bubbling cauldron."
+3,"TEXT_GAIUSC904_01039_SEQ_03","It will take a little while for the meat to be cooked through. Watch the cauldron until the stew is ready."
+4,"TEXT_GAIUSC904_01039_SEQ_04","Your keen instincts tell you that the basilisk stew is now ready. Scoop it from the bubbling cauldron."
+5,"TEXT_GAIUSC904_01039_SEQ_05","You have three steaming bowls of basilisk stew expertly balanced in your hands. Make your way around Camp Bluefog and give them to the neediest soldiers."
+6,"TEXT_GAIUSC904_01039_SEQ_06","You have doled out all of the basilisk stew, which seems to have had the desired effect. Report your success to Sergeant Cracked Fist."
+7,"TEXT_GAIUSC904_01039_SEQ_07","A jubilant Sergeant Cracked Fist thanks you for inspiriting his troops. They now remember their purpose, and stand ready to do their part in the impending phase of the operation."
+8,"TEXT_GAIUSC904_01039_SEQ_08",""
+9,"TEXT_GAIUSC904_01039_SEQ_09",""
+10,"TEXT_GAIUSC904_01039_SEQ_10",""
+11,"TEXT_GAIUSC904_01039_SEQ_11",""
+12,"TEXT_GAIUSC904_01039_SEQ_12",""
+13,"TEXT_GAIUSC904_01039_SEQ_13",""
+14,"TEXT_GAIUSC904_01039_SEQ_14",""
+15,"TEXT_GAIUSC904_01039_SEQ_15",""
+16,"TEXT_GAIUSC904_01039_SEQ_16",""
+17,"TEXT_GAIUSC904_01039_SEQ_17",""
+18,"TEXT_GAIUSC904_01039_SEQ_18",""
+19,"TEXT_GAIUSC904_01039_SEQ_19",""
+20,"TEXT_GAIUSC904_01039_SEQ_20",""
+21,"TEXT_GAIUSC904_01039_SEQ_21",""
+22,"TEXT_GAIUSC904_01039_SEQ_22",""
+23,"TEXT_GAIUSC904_01039_SEQ_23",""
+24,"TEXT_GAIUSC904_01039_TODO_00","<hex:024804F2021503><hex:024904F2021603><hex:0212024003> This quest has been adjusted. Please abandon the quest and restart it by speaking to Cracked Fist at Camp Bluefog.<hex:0249020103><hex:0248020103>"
+25,"TEXT_GAIUSC904_01039_TODO_01","<hex:024804F2021503><hex:024904F2021603><hex:0212024003> This quest has been adjusted. Please abandon the quest and restart it by speaking to Cracked Fist at Camp Bluefog.<hex:0249020103><hex:0248020103>"
+26,"TEXT_GAIUSC904_01039_TODO_02","<hex:024804F2021503><hex:024904F2021603><hex:0212024003> This quest has been adjusted. Please abandon the quest and restart it by speaking to Cracked Fist at Camp Bluefog.<hex:0249020103><hex:0248020103>"
+27,"TEXT_GAIUSC904_01039_TODO_03","<hex:024804F2021503><hex:024904F2021603><hex:0212024003> This quest has been adjusted. Please abandon the quest and restart it by speaking to Cracked Fist at Camp Bluefog.<hex:0249020103><hex:0248020103>"
+28,"TEXT_GAIUSC904_01039_TODO_04","<hex:024804F2021503><hex:024904F2021603><hex:0212024003> This quest has been adjusted. Please abandon the quest and restart it by speaking to Cracked Fist at Camp Bluefog.<hex:0249020103><hex:0248020103>"
+29,"TEXT_GAIUSC904_01039_TODO_05","<hex:024804F2021503><hex:024904F2021603><hex:0212024003> This quest has been adjusted. Please abandon the quest and restart it by speaking to Cracked Fist at Camp Bluefog.<hex:0249020103><hex:0248020103>"
+30,"TEXT_GAIUSC904_01039_TODO_06",""
+31,"TEXT_GAIUSC904_01039_TODO_07",""
+32,"TEXT_GAIUSC904_01039_TODO_08",""
+33,"TEXT_GAIUSC904_01039_TODO_09",""
+34,"TEXT_GAIUSC904_01039_TODO_10",""
+35,"TEXT_GAIUSC904_01039_TODO_11",""
+36,"TEXT_GAIUSC904_01039_TODO_12",""
+37,"TEXT_GAIUSC904_01039_TODO_13",""
+38,"TEXT_GAIUSC904_01039_TODO_14",""
+39,"TEXT_GAIUSC904_01039_TODO_15",""
+40,"TEXT_GAIUSC904_01039_TODO_16",""
+41,"TEXT_GAIUSC904_01039_TODO_17",""
+42,"TEXT_GAIUSC904_01039_TODO_18",""
+43,"TEXT_GAIUSC904_01039_TODO_19",""
+44,"TEXT_GAIUSC904_01039_TODO_20",""
+45,"TEXT_GAIUSC904_01039_TODO_21",""
+46,"TEXT_GAIUSC904_01039_TODO_22",""
+47,"TEXT_GAIUSC904_01039_TODO_23",""
+48,"TEXT_GAIUSC904_01039_CRACKEDFIST_000_000","I have a favor to ask of you, as a fellow comrade of the Alliance. As I mentioned, the garrison's mood is dark. The fault, it pains me to admit, is partly mine."
+49,"TEXT_GAIUSC904_01039_CRACKEDFIST_000_001","I am no veteran of large-scale campaigns, you see, and the men and women under me are nervous for this knowledge."
+50,"TEXT_GAIUSC904_01039_CRACKEDFIST_000_002","Seeking to lift their spirits, I remembered the tale of a Gridanian general from a century past. Vainchelon was his name, and he was a lancer of great renown. History holds that, in spite of his rank, he would regularly cook meals for his troops while afield."
+51,"TEXT_GAIUSC904_01039_CRACKEDFIST_000_003","Most generals know to break bread with their own men on occasion to foster camaraderie, but Vainchelon took it one step further. By actually <hex:021A020203>making<hex:021A020103> that bread, he showed that he was truly one of them─a hero <hex:021A020203>and<hex:021A020103> a comrade."
+52,"TEXT_GAIUSC904_01039_CRACKEDFIST_000_004","Though I wouldn't presume to compare myself to a man of his stature, I thought it might be well to at least emulate the deed. To be sure, this is a testament to my desperation."
+53,"TEXT_GAIUSC904_01039_CRACKEDFIST_000_005","I had begun making preparations for basilisk stew, all the while wondering whether it would be any good, when an honest-to-gods hero appeared. I speak of <hex:021A020203>you<hex:021A020103>, of course."
+54,"TEXT_GAIUSC904_01039_CRACKEDFIST_000_006","My gratitude would know no bounds if you could take up the ladle in my stead. The stew is just about ready─all it needs is some basilisk meat, which can be readily had north of here. Please procure the meat and add it to the cauldron bubbling just outside the camp."
+55,"TEXT_GAIUSC904_01039_CRACKEDFIST_000_007","When the stew is ready, I would ask that you also distribute it among our troops. Receiving the stew from you is certain to give them heart. I doubt I can say the same were it to come from my hands."
+56,"TEXT_GAIUSC904_01039_TODO_000_000","(Obtain three pieces of basilisk meat)"
+57,"TEXT_GAIUSC904_01039_TODO_000_010","(Put meat in the stew pot)"
+58,"TEXT_GAIUSC904_01039_TODO_000_020","(Interact with stew pot)"
+59,"TEXT_GAIUSC904_01039_TODO_000_030","(Take stew)"
+60,"TEXT_GAIUSC904_01039_ZEZERAGI_000_010","Brrr... It's always so dark here...and <hex:021A020203>cold<hex:021A020103>... Maybe I shouldn't have enlisted... It's not like killing Garleans will bring my friend back..."
+61,"TEXT_GAIUSC904_01039_ZEZERAGI_000_020","Mmmmmm, this smells <hex:021A020203>good<hex:021A020103>...<hex:02100103><gasp> Aren't you the adventurer who triumphed at Cape Westwind? To think that a hero fights beside us! And this stew, it whets my appetite for vengeance! Just you wait, you Garlean whoresons! I'm coming for your heads! Muahahaha!"
+62,"TEXT_GAIUSC904_01039_ADELENA_000_030","Gods, this is all so hopeless! The Garleans are going to crush us with their steel monstrosities! We're all going to die! <sob>"
+63,"TEXT_GAIUSC904_01039_ADELENA_000_040","I'm...I'm so sorry. I don't know what came over me. Your words and this hearty stew have given me courage. Yes, a fire positively <hex:021A020203>burns<hex:021A020103> in my belly! ...Or is it just the basilisk venom?"
+64,"TEXT_GAIUSC904_01039_BETYN_000_050","I-I think I'll pretend to be sick. That way I won't have to fight. Maybe they'll even send me home to my family. It's not as if one man would make a difference, right?"
+65,"TEXT_GAIUSC904_01039_BETYN_000_060","<hex:021A020203>You<hex:021A020103> made this stew...for <hex:021A020203>me<hex:021A020103>? I...I never dreamed that I would share a meal with a hero, let alone partake of something <hex:02080CE905FF04>she<hex:FF03>he<hex:03> <hex:021A020203>made<hex:021A020103>. I wanted to be a hero, too, you know─to my family. I took up arms because I wanted to protect them...and I <hex:021A020203>will<hex:021A020103>! I won't run─not today, nor any other!"
+66,"TEXT_GAIUSC904_01039_CRACKEDFIST_000_070","Your basilisk stew has done wonders for our troops' morale! I cannot thank you enough!"
+67,"TEXT_GAIUSC904_01039_CRACKEDFIST_000_071","The seeming hopelessness of the situation─not to mention this accursed gloom─had dampened their spirits, and for a time they had forgotten their purpose. But your presence and culinary skills helped them to remember, and I'm confident they will do their part to protect the realm and their loved ones."

@@ -2,96 +2,96 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_FESEST005_01418_SEQ_00,※本任務是特定期間內的任務。<hex:02100103><hex:02100103>格里達尼亞的吉莉·阿里亞珀，想委託冒險者去完成彩蛋狩獵的任務。
-1,TEXT_FESEST005_01418_SEQ_01,※本任務只有在季節活動開放期間才能接受和進行。<hex:02100103>　季節活動結束後無法進行，敬請注意。<hex:02100103>　詳情請參見官方網站。<hex:02100103><hex:02100103>吉莉·阿里亞珀希望冒險者幫她在利姆薩·羅敏薩尋找預言蛋。戴上<hex:022811FF05>Item<hex:FF08>　2659<hex:0103>，去利姆薩·羅敏薩，和艦尾樓的奧斯卡萊對話。
-2,TEXT_FESEST005_01418_SEQ_02,接受了委託，搬運放置在利姆薩·羅敏薩的預言蛋。戴上<hex:022811FF05>Item<hex:FF08>　2659<hex:0103>或<hex:022811FF05>Item<hex:FF08>　2751<hex:0103>，和同伴組成2人小隊，與珊瑚塔的奧古斯蒂尼埃爾對話。
-3,TEXT_FESEST005_01418_SEQ_03,和奧古斯蒂尼埃爾進行了交談。從珊瑚塔的2個預言蛋中，挑選與裝備中的蛋殼帽相同花紋的，並拿起它。要拿起<hex:02280CFF05>EObj<hex:F61E92980103>，需要裝備<hex:022811FF05>Item<hex:FF08>　2659<hex:0103>；要拿起<hex:02280CFF05>EObj<hex:F61E929A0103>，需要裝備<hex:022811FF05>Item<hex:FF08>　2751<hex:0103>。
-4,TEXT_FESEST005_01418_SEQ_04,拿起了預言蛋。將預言蛋放進艦尾樓對應的彩蛋罐裡。將<hex:02280CFF05>EObj<hex:F61E92980103>放進<hex:02280CFF05>EObj<hex:F61E929C0103>裡；將<hex:02280CFF05>EObj<hex:F61E929A0103>放進<hex:02280CFF05>EObj<hex:F61E929D0103>裡。<hex:02100103><hex:02100103>※搬運狀態只能維持一段時間。<hex:02100103>※若失敗，需要從開始地點重新開始挑戰。
-5,TEXT_FESEST005_01418_SEQ_05,將預言蛋放進了相對應的彩蛋罐裡。和艦尾樓的奧斯卡萊對話。
-6,TEXT_FESEST005_01418_SEQ_06,和奧斯卡萊進行了交談。向格里達尼亞的吉莉·阿里亞珀報告。
-7,TEXT_FESEST005_01418_SEQ_07,向吉莉·阿里亞珀報告完畢。她夢見賢者從6顆預言蛋中間現身。專心參加彩蛋狩獵活動，等待下一個啟示夢的到來。
-8,TEXT_FESEST005_01418_SEQ_08,
-9,TEXT_FESEST005_01418_SEQ_09,
-10,TEXT_FESEST005_01418_SEQ_10,
-11,TEXT_FESEST005_01418_SEQ_11,
-12,TEXT_FESEST005_01418_SEQ_12,
-13,TEXT_FESEST005_01418_SEQ_13,
-14,TEXT_FESEST005_01418_SEQ_14,
-15,TEXT_FESEST005_01418_SEQ_15,
-16,TEXT_FESEST005_01418_SEQ_16,
-17,TEXT_FESEST005_01418_SEQ_17,
-18,TEXT_FESEST005_01418_SEQ_18,
-19,TEXT_FESEST005_01418_SEQ_19,
-20,TEXT_FESEST005_01418_SEQ_20,
-21,TEXT_FESEST005_01418_SEQ_21,
-22,TEXT_FESEST005_01418_SEQ_22,
-23,TEXT_FESEST005_01418_SEQ_23,
-24,TEXT_FESEST005_01418_TODO_00,戴著<hex:022811FF05>Item<hex:FF08>　2659<hex:0103> 和利姆薩·羅敏薩的奧斯卡萊對話
-25,TEXT_FESEST005_01418_TODO_01,組成2人小隊 戴著指定蛋殼帽<hex:02100103>和珊瑚塔的奧古斯蒂尼埃爾對話
-26,TEXT_FESEST005_01418_TODO_02,戴著指定蛋殼帽 拿起預言蛋
-27,TEXT_FESEST005_01418_TODO_03,將預言蛋放入彩蛋罐中
-28,TEXT_FESEST005_01418_TODO_04,和奧斯卡萊對話
-29,TEXT_FESEST005_01418_TODO_05,向格里達尼亞的吉莉·阿里亞珀報告
-30,TEXT_FESEST005_01418_TODO_06,
-31,TEXT_FESEST005_01418_TODO_07,
-32,TEXT_FESEST005_01418_TODO_08,
-33,TEXT_FESEST005_01418_TODO_09,
-34,TEXT_FESEST005_01418_TODO_10,
-35,TEXT_FESEST005_01418_TODO_11,
-36,TEXT_FESEST005_01418_TODO_12,
-37,TEXT_FESEST005_01418_TODO_13,
-38,TEXT_FESEST005_01418_TODO_14,
-39,TEXT_FESEST005_01418_TODO_15,
-40,TEXT_FESEST005_01418_TODO_16,
-41,TEXT_FESEST005_01418_TODO_17,
-42,TEXT_FESEST005_01418_TODO_18,
-43,TEXT_FESEST005_01418_TODO_19,
-44,TEXT_FESEST005_01418_TODO_20,
-45,TEXT_FESEST005_01418_TODO_21,
-46,TEXT_FESEST005_01418_TODO_22,
-47,TEXT_FESEST005_01418_TODO_23,
-48,TEXT_FESEST005_01418_JIHLIALIAPOH_000_001,彩蛋～彩蛋～大彩蛋～<hex:02100103>大家一起來收集彩蛋吧！<hex:02100103>一起來收集裝飾彩蛋吧！
-49,TEXT_FESEST005_01418_JIHLIALIAPOH_000_002,我跟你說，我又做夢了！<hex:02100103>在夢裡，我在大海彼岸的威爾布蘭德島上，<hex:02100103>看見了2個預言蛋！
-50,TEXT_FESEST005_01418_JIHLIALIAPOH_000_003,現在，我利姆薩·羅敏薩的同伴，<hex:02100103>一定已經去尋找預言蛋了。<hex:02100103>你也去幫幫他們吧！
-51,TEXT_FESEST005_01418_JIHLIALIAPOH_000_004,負責利姆薩·羅敏薩活動的，<hex:02100103>是吟遊詩人團體「人工生命」的奧斯卡萊。<hex:02100103>詳細情況你就去問他吧。
-52,TEXT_FESEST005_01418_JIHLIALIAPOH_000_005,為了讓他一眼就能認出你是同伴，<hex:02100103>你可要戴好<hex:022811FF05>Item<hex:FF08>　2659<hex:0103>喲！<hex:02100103>彩蛋～彩蛋～大彩蛋～
-53,TEXT_FESEST005_01418_JIHLIALIAPOH_000_006,彩蛋～彩蛋～大彩蛋～<hex:02100103>大家一起來收集彩蛋吧！<hex:02100103>一起來收集裝飾彩蛋吧！
-54,TEXT_FESEST005_01418_JIHLIALIAPOH_000_007,你戴著<hex:022811FF05>Item<hex:FF08>　2659<hex:0103>，<hex:02100103>去利姆薩·羅敏薩找奧斯卡萊。<hex:02100103>彩蛋～彩蛋～大彩蛋～
-55,TEXT_FESEST005_01418_OSCARLET_100_010,彩蛋～彩蛋～大彩蛋～<hex:02100103>大家一起來收集彩蛋吧！<hex:02100103>戴著<hex:022811FF05>Item<hex:FF08>　2659<hex:0103>收集吧！
-56,TEXT_FESEST005_01418_OSCARLET_000_010,彩蛋～彩蛋～大彩蛋～<hex:02100103>大家一起來收集彩蛋吧！<hex:02100103>一起來收集裝飾彩蛋吧！
-57,TEXT_FESEST005_01418_OSCARLET_000_011,哎呀，這帽子你戴著可真好看。<hex:02100103>你是來幫忙的冒險者吧？真是謝謝你了。<hex:02100103>我找到出現在小吉莉夢裡的預言蛋了。
-58,TEXT_FESEST005_01418_OSCARLET_000_012,奧古斯蒂尼埃爾已經將它們運往城邦內了，<hex:02100103>可卻被潛入城邦的魔石精追趕，<hex:02100103>無奈他只得逃到珊瑚塔。
-59,TEXT_FESEST005_01418_OSCARLET_000_013,但奧古的腿受了傷，已經動不了了。<hex:02100103>所以，我想請你把預言蛋搬運到這裡來。
-60,TEXT_FESEST005_01418_OSCARLET_000_014,這次的預言蛋分「質樸」和「三色」兩種，<hex:02100103>你和同伴組成2人小隊後，<hex:02100103>去珊瑚塔找奧古斯蒂尼埃爾。
-61,TEXT_FESEST005_01418_OSCARLET_000_015,別忘了戴上<hex:022811FF05>Item<hex:FF08>　2659<hex:0103>或者<hex:022811FF05>Item<hex:FF08>　2751<hex:0103>啊！<hex:02100103>彩蛋～彩蛋～大彩蛋～
-62,TEXT_FESEST005_01418_OSCARLET_000_016,彩蛋～彩蛋～大彩蛋～<hex:02100103>大家一起來收集彩蛋吧！<hex:02100103>一起來收集裝飾彩蛋吧！
-63,TEXT_FESEST005_01418_OSCARLET_000_017,和同伴組成2人小隊，<hex:02100103>戴上<hex:022811FF05>Item<hex:FF08>　2659<hex:0103>或<hex:022811FF05>Item<hex:FF08>　2751<hex:0103>，<hex:02100103>然後去珊瑚塔找奧古斯蒂尼埃爾。
-64,TEXT_FESEST005_01418_AUGUSTINIEL_000_020,你又來啦，寶貝！<hex:02100103>雖然我理解你急切想見我的心情，但你也太著急啦！
-65,TEXT_FESEST005_01418_AUGUSTINIEL_000_021,等你戴好<hex:022811FF05>Item<hex:FF08>　2659<hex:0103>或<hex:022811FF05>Item<hex:FF08>　2751<hex:0103>，<hex:02100103>組好2人小隊之後再來找我！<hex:02100103>可別讓我等太久呀！寶貝！
-66,TEXT_FESEST005_01418_SYSTEM_000_021,小隊隊員相距太遠，<hex:02100103>無法進行任務。
-67,TEXT_FESEST005_01418_SYSTEM_100_021,小隊隊員沒有裝備指定蛋殼帽，<hex:02100103>無法進行任務。
-68,TEXT_FESEST005_01418_AUGUSTINIEL_000_025,彩蛋～彩蛋～大彩蛋～<hex:02100103>我都等得不耐煩啦，寶貝！<hex:02100103>別提了，剛剛我被那些魔石精擺了一道！
-69,TEXT_FESEST005_01418_AUGUSTINIEL_000_026,你們需要合力搬運這2個預言蛋，<hex:02100103>並將它們放進艦尾樓的彩蛋罐裡。
-70,TEXT_FESEST005_01418_AUGUSTINIEL_000_027,戴上<hex:022811FF05>Item<hex:FF08>　2659<hex:0103>或<hex:022811FF05>Item<hex:FF08>　2751<hex:0103>，<hex:02100103>然後搬運和帽子花紋相同的預言蛋！<hex:02100103>那就拜託你們啦！寶貝！
-71,TEXT_FESEST005_01418_AUGUSTINIEL_000_028,我會在這裡為你們唱歌，<hex:02100103>祈禱你們能順利搬運彩蛋的！<hex:02100103>彩蛋～彩蛋～大彩蛋～
-72,TEXT_FESEST005_01418_SYSTEM_000_029,拿起和頭部裝備相同花紋的預言蛋，<hex:02100103>在規定時間內，將其搬運到艦尾樓的彩蛋罐處。
-73,TEXT_FESEST005_01418_SYSTEM_000_030,搬運狀態的持續時間是180秒。<hex:02100103>可持續時間結束的話，搬運就會失敗。<hex:02100103>需要從開始地點重新開始挑戰。
-74,TEXT_FESEST005_01418_SYSTEM_000_031,此外，被前來搶奪預言蛋的魔石精接近，<hex:02100103>或是走出上層甲板，搬運也會失敗，<hex:02100103>同樣需要從開始地點重新開始挑戰。
-75,TEXT_FESEST005_01418_AUGUSTINIEL_000_035,你們需要合力搬運這2個預言蛋，<hex:02100103>並將它們放進艦尾樓的彩蛋罐裡。
-76,TEXT_FESEST005_01418_AUGUSTINIEL_000_036,戴上<hex:022811FF05>Item<hex:FF08>　2659<hex:0103>或<hex:022811FF05>Item<hex:FF08>　2751<hex:0103>，<hex:02100103>然後搬運和帽子花紋相同的預言蛋！<hex:02100103>彩蛋～彩蛋～大彩蛋～
-77,TEXT_FESEST005_01418_SYSTEM_000_033,要搬運<hex:02280CFF05>EObj<hex:F61E92980103>，<hex:02100103>必須先要裝備上<hex:022811FF05>Item<hex:FF08>　2659<hex:0103>。
-78,TEXT_FESEST005_01418_SYSTEM_000_034,要搬運<hex:02280CFF05>EObj<hex:F61E929A0103>，<hex:02100103>必須要先裝備上<hex:022811FF05>Item<hex:FF08>　2751<hex:0103>。
-79,TEXT_FESEST005_01418_SPRIGAN_000_035,采旦、采旦、大采旦……<hex:02100103>奪走、采旦、奪走、采旦！<hex:02100103>咸褶、不來啦、咸褶、是我們！
-80,TEXT_FESEST005_01418_POPMESSAGE_000_036,遭到魔石精阻撓，搬運失敗了……
-81,TEXT_FESEST005_01418_SPRIGAN_100_035,采旦、采旦、大采旦……<hex:02100103>奪走、采旦、全都、奪走！<hex:02100103>咸褶、不來啦、咸褶、是我們！
-82,TEXT_FESEST005_01418_SYSTEM_000_036,請將<hex:02280CFF05>EObj<hex:F61E92980103>放入<hex:02280CFF05>EObj<hex:F61E929C0103>裡。
-83,TEXT_FESEST005_01418_SYSTEM_000_037,請將<hex:02280CFF05>EObj<hex:F61E929A0103>放入<hex:02280CFF05>EObj<hex:F61E929D0103>裡。
-84,TEXT_FESEST005_01418_OSCARLET_000_040,彩蛋～彩蛋～大彩蛋～<hex:02100103>大家一起來收集彩蛋吧！<hex:02100103>一起來收集裝飾彩蛋吧！
-85,TEXT_FESEST005_01418_OSCARLET_000_041,辛苦你了！<hex:02100103>這樣一來，利姆薩·羅敏薩也做好活動的準備了！
-86,TEXT_FESEST005_01418_OSCARLET_000_042,在重要時刻來臨之前，<hex:02100103>你搬來的預言蛋將被精心保管在利姆薩·羅敏薩。
-87,TEXT_FESEST005_01418_OSCARLET_000_043,小吉莉肯定已經急壞了，<hex:02100103>你趕快去跟她報告一下，讓她安心。<hex:02100103>彩蛋～彩蛋～大彩蛋～
-88,TEXT_FESEST005_01418_OSCARLET_000_044,小吉莉肯定已經急壞了，<hex:02100103>你趕快去跟她報告一下，讓她安心。<hex:02100103>彩蛋～彩蛋～大彩蛋～
-89,TEXT_FESEST005_01418_JIHLIALIAPOH_000_050,彩蛋～彩蛋～大彩蛋～<hex:02100103>大家一起來收集彩蛋吧！<hex:02100103>一起來收集裝飾彩蛋吧！
-90,TEXT_FESEST005_01418_JIHLIALIAPOH_000_051,你回來啦，<hex:022903EB0203>！<hex:02100103>多虧了你，格里達尼亞和利姆薩·羅敏薩的預言蛋都找回來了！
-91,TEXT_FESEST005_01418_JIHLIALIAPOH_000_052,可預言蛋的數量還是不夠！<hex:02100103>因為在我的夢裡，<hex:02100103>賢者是從6顆預言蛋中間現身的嘛！
-92,TEXT_FESEST005_01418_JIHLIALIAPOH_000_053,接下來就只剩烏爾達哈的2個預言蛋了……<hex:02100103>你專心參加彩蛋狩獵活動，等我再做到啟示夢，會告訴你的。<hex:02100103>彩蛋～彩蛋～大彩蛋～
+0,"TEXT_FESEST005_01418_SEQ_00","Jihli Aliapoh has discovered the location of two more Archon eggs, and would once again ask for your aid.<hex:02100103>※This quest is available for a limited time only."
+1,"TEXT_FESEST005_01418_SEQ_01","Jihli Aliapoh has been granted another vision, revealing the location of two more Archon eggs along the beaches of Costa del Sol. She has sent her Dreamers to retrieve the eggs, and asks that you seek out Oscarlet in Limsa Lominsa, and ensure they have been retrieved without incident.<hex:02100103><hex:02100103>※Please note that you will be unable to complete this quest after the seasonal event has ended. For details, please check the Lodestone."
+2,"TEXT_FESEST005_01418_SEQ_02","You have arrived in Limsa Lominsa to discover the two eggs have been transported unharmed, but their carriers were attacked by a gang of spriggans in the process. What's more, they have forced their way through the city gates and now scour the decks in search of the Archon eggs. Oscarlet informs you that Augustiniel was one of the two tasked with egg delivery, and has since made his way to the Coral Tower, perhaps in the hope of eluding the rogue spriggans now roaming the decks of Limsa Lominsa. Injured and with only one way in or out of the Coral Tower, however, there will be no escape should a second confrontation with the spriggans take place.<hex:02100103><hex:02100103>The eggs must be moved as quickly as possible, but both eggs cannot be carried alone. To see the eggs safely back to the Aftcastle, you must seek the aid of another adventurer. One of you must wear a pristine egg cap, and the other a brilliant egg cap. Join forces with a fellow adventurer and make your way to the Coral Tower, where you will prepare to relocate the Archon eggs."
+3,"TEXT_FESEST005_01418_SEQ_03","Upon reaching the Coral Tower, you find Augustiniel still weary from his encounter with the spriggans. Although he assures you the eggs are safe at present, the air of disconcertion about him would suggest otherwise. If they are to be delivered without incident, both you and your partner must carry an egg to the Aftcastle. Wearing the cap you have chosen, pick up your matching Archon egg and prepare for some fancy footwork."
+4,"TEXT_FESEST005_01418_SEQ_04","You have picked up one of the Archon eggs. See that it is carried safely to the Aftcastle, avoiding any spriggans that may cross your path."
+5,"TEXT_FESEST005_01418_SEQ_05","With a watchful eye, you and your comrade have navigated your way to the Aftcastle, delivering the Archon eggs to a safe location. Report to Oscarlet and confirm if there is aught else that needs be done."
+6,"TEXT_FESEST005_01418_SEQ_06","With a sigh of relief, Oscarlet thanks you for your deft delivery of the eggs. The matter of invading spriggans remains, but he takes satisfaction in knowing the eggs will be nurtured by the warmth of resident Dreamers until the time of Hatching Hour. Return to Gridania and inform Jihli Aliapoh of your success."
+7,"TEXT_FESEST005_01418_SEQ_07","Jihli Aliapoh is all too delighted to hear the Archon eggs in Limsa Lominsa have been secured once more. She informs you that there are but a few eggs left to be recovered, and the tone of excitement in her voice is unmistakable. With time still remaining until the egg ceremony, Jihli bids you take a much-needed rest."
+8,"TEXT_FESEST005_01418_SEQ_08",""
+9,"TEXT_FESEST005_01418_SEQ_09",""
+10,"TEXT_FESEST005_01418_SEQ_10",""
+11,"TEXT_FESEST005_01418_SEQ_11",""
+12,"TEXT_FESEST005_01418_SEQ_12",""
+13,"TEXT_FESEST005_01418_SEQ_13",""
+14,"TEXT_FESEST005_01418_SEQ_14",""
+15,"TEXT_FESEST005_01418_SEQ_15",""
+16,"TEXT_FESEST005_01418_SEQ_16",""
+17,"TEXT_FESEST005_01418_SEQ_17",""
+18,"TEXT_FESEST005_01418_SEQ_18",""
+19,"TEXT_FESEST005_01418_SEQ_19",""
+20,"TEXT_FESEST005_01418_SEQ_20",""
+21,"TEXT_FESEST005_01418_SEQ_21",""
+22,"TEXT_FESEST005_01418_SEQ_22",""
+23,"TEXT_FESEST005_01418_SEQ_23",""
+24,"TEXT_FESEST005_01418_TODO_00","Speak with Oscarlet in Limsa Lominsa while wearing a pristine egg cap."
+25,"TEXT_FESEST005_01418_TODO_01","Form a party of two, then speak with Augustiniel while wearing an appropriate egg cap."
+26,"TEXT_FESEST005_01418_TODO_02","Pick up the Archon egg matching your cap."
+27,"TEXT_FESEST005_01418_TODO_03","Deliver the Archon egg to the Aftcastle."
+28,"TEXT_FESEST005_01418_TODO_04","Speak with Oscarlet."
+29,"TEXT_FESEST005_01418_TODO_05","Report to Jihli Aliapoh."
+30,"TEXT_FESEST005_01418_TODO_06",""
+31,"TEXT_FESEST005_01418_TODO_07",""
+32,"TEXT_FESEST005_01418_TODO_08",""
+33,"TEXT_FESEST005_01418_TODO_09",""
+34,"TEXT_FESEST005_01418_TODO_10",""
+35,"TEXT_FESEST005_01418_TODO_11",""
+36,"TEXT_FESEST005_01418_TODO_12",""
+37,"TEXT_FESEST005_01418_TODO_13",""
+38,"TEXT_FESEST005_01418_TODO_14",""
+39,"TEXT_FESEST005_01418_TODO_15",""
+40,"TEXT_FESEST005_01418_TODO_16",""
+41,"TEXT_FESEST005_01418_TODO_17",""
+42,"TEXT_FESEST005_01418_TODO_18",""
+43,"TEXT_FESEST005_01418_TODO_19",""
+44,"TEXT_FESEST005_01418_TODO_20",""
+45,"TEXT_FESEST005_01418_TODO_21",""
+46,"TEXT_FESEST005_01418_TODO_22",""
+47,"TEXT_FESEST005_01418_TODO_23",""
+48,"TEXT_FESEST005_01418_JIHLIALIAPOH_000_001","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! Your presence is ever heartening, though I wish we could speak under less adverse conditions."
+49,"TEXT_FESEST005_01418_JIHLIALIAPOH_000_002","It might be best to start with the description of another of my dreams. In the last one, I had a vision of two Archon eggs nestled in the sands of a beach, where waves of cerulean blue lapped lazily to shore. Glimpsing a lighthouse in the distance, I immediately knew where they were─Costa del Sol."
+50,"TEXT_FESEST005_01418_JIHLIALIAPOH_000_003","And sure enough, when I sent my Dreamers to check, there they were! They are currently on their way to Limsa proper, and it should not be long before they arrive. I would like you to go and see to their safety."
+51,"TEXT_FESEST005_01418_JIHLIALIAPOH_000_004","Pray seek out Oscarlet to confirm the whereabouts of the Archon eggs. Like Augustiniel, he currently oversees the Hatching–tide celebration in Limsa."
+52,"TEXT_FESEST005_01418_JIHLIALIAPOH_000_005","He is expecting your arrival, but make sure to wear your pristine egg cap so he knows you mean to help. Now go, my friend. The success of this year's celebration hinges on retrieval of the eggs."
+53,"TEXT_FESEST005_01418_JIHLIALIAPOH_000_006","Please make haste to Limsa, and ensure the eggs have been handled with care."
+54,"TEXT_FESEST005_01418_JIHLIALIAPOH_000_007","And do not forget your pristine egg cap, lest Oscarlet fail to recognize you when you arrive."
+55,"TEXT_FESEST005_01418_OSCARLET_100_010","Hello there, friend. Are you by chance the adventurer Miss Aliapoh has sent to assist with the eggs? You resemble the <hex:02080FE905FF06>woman<hex:FF04>man<hex:03> she described, but she also mentioned a pristine egg cap. Excuse my ramblings, I must be mistaken."
+56,"TEXT_FESEST005_01418_OSCARLET_000_010","Ah, hello, my <hex:020818E905FF0A>dear lady<hex:FF09>good sir<hex:03>. I take it Miss Aliapoh sent you to ensure the security of the Archon eggs, yes?"
+57,"TEXT_FESEST005_01418_OSCARLET_000_011","Well, you'll be happy to know we found the two eggs not long ago at Costa del Sol, just as she foresaw them."
+58,"TEXT_FESEST005_01418_OSCARLET_000_012","Augustiniel, the audacious fellow that he is, insisted that he and his partner be the ones to see them brought into Limsa, although I daresay he's gotten in over his head this time."
+59,"TEXT_FESEST005_01418_OSCARLET_000_013","Spriggans followed them in through the Tempest Gate, but somehow they managed their way to the Coral Tower. Augustiniel was injured in the process, but I would say he did quite well in comparison to his partner. The poor lad will be in the infirmary for weeks."
+60,"TEXT_FESEST005_01418_OSCARLET_000_014","At any rate, with only one way in or out of the Coral Tower, it would not bode well for Augustiniel to be found with the eggs in his condition. I need you to bring them here, where I can keep a closer eye on them until such time as they are ready for delivery to Gridania."
+61,"TEXT_FESEST005_01418_OSCARLET_000_015","I realize this cannot be done alone, but I trust you can find a companion to accompany you, yes? When you are ready, don your respective caps and make your way to Augustiniel. The eggs to be carried are a pristine Archon egg and a brilliant Archon egg, so prepare accordingly."
+62,"TEXT_FESEST005_01418_OSCARLET_000_016","When you've found your companion, proceed to the Coral Tower and see the eggs are delivered here posthaste."
+63,"TEXT_FESEST005_01418_OSCARLET_000_017","And please, do not forget to wear your caps. It is important that we abide by Hatching–tide tradition."
+64,"TEXT_FESEST005_01418_AUGUSTINIEL_000_020","Ah, so we meet again. No doubt you are here to carry on where my partner and I left off."
+65,"TEXT_FESEST005_01418_AUGUSTINIEL_000_021","Well, you won't be able to do this alone, but I'm sure you can find some daring adventurer to assist you. When you've found a partner, and you're both wearing a proper cap, I'll be waiting here with the eggs."
+66,"TEXT_FESEST005_01418_SYSTEM_000_021","You cannot proceed. One or more party members are too far away."
+67,"TEXT_FESEST005_01418_SYSTEM_100_021","You cannot proceed. One or more party members are not equipped with the appropriate egg cap."
+68,"TEXT_FESEST005_01418_AUGUSTINIEL_000_025","Hello again, friend. I would stand to greet you, but my earlier confrontation with the spriggans has left me enervated to say the least."
+69,"TEXT_FESEST005_01418_AUGUSTINIEL_000_026","The eggs are safe and sound here in the Coral Tower, at least for the moment. The spriggans followed us from Costa del Sol, and a few of them forced their way into the city. I know not why they covet these eggs so dearly, but we cannot let them be taken again."
+70,"TEXT_FESEST005_01418_AUGUSTINIEL_000_027","The Aftcastle is not far, but there is no telling where the spriggans may be hiding, so stay alert."
+71,"TEXT_FESEST005_01418_AUGUSTINIEL_000_028","Go quickly, friend, and may the Archons of yore keep you safe."
+72,"TEXT_FESEST005_01418_SYSTEM_000_029","Carry the Archon egg back to the Aftcastle while your arms and legs still have strength."
+73,"TEXT_FESEST005_01418_SYSTEM_000_030","Beware the spriggans lying in wait around the upper decks. Being caught en route to the Aftcastle will result in failure."
+74,"TEXT_FESEST005_01418_SYSTEM_000_031","You have 180 seconds to reach your destination. Should you fail, return to the starting location and begin anew."
+75,"TEXT_FESEST005_01418_AUGUSTINIEL_000_035","There is no time to waste, friend. You must hurry and deliver the eggs to the Aftcastle before the spriggans find us."
+76,"TEXT_FESEST005_01418_AUGUSTINIEL_000_036","There can be no celebration if they are stolen a second time. Now go, and see that the spriggans do not catch you."
+77,"TEXT_FESEST005_01418_SYSTEM_000_033","You must be wearing a pristine egg cap to carry this egg."
+78,"TEXT_FESEST005_01418_SYSTEM_000_034","You must be wearing a brilliant egg cap to carry this egg."
+79,"TEXT_FESEST005_01418_SPRIGAN_000_035","You have shiny egg! Shiny pretty egg! Give shiny pretty eeeeeegg! Eeeeeegg!"
+80,"TEXT_FESEST005_01418_POPMESSAGE_000_036","You lose the Archon egg."
+81,"TEXT_FESEST005_01418_SPRIGAN_100_035","Shiiiiiiny! Preeeeeetty! Need more eeeeeeggs! Eeeeeeggs!"
+82,"TEXT_FESEST005_01418_SYSTEM_000_036","This basket seems suitable to hold the pristine Archon egg."
+83,"TEXT_FESEST005_01418_SYSTEM_000_037","This basket seems suitable to hold the brilliant Archon egg."
+84,"TEXT_FESEST005_01418_OSCARLET_000_040","Welcome back! It would seem the Archon eggs are finally back where they belong. Excellent work."
+85,"TEXT_FESEST005_01418_OSCARLET_000_041","I admit this location is not without its dangers until the spriggans are gone, but it will do the people of Limsa well to see the Archon eggs out in the open."
+86,"TEXT_FESEST005_01418_OSCARLET_000_042","It is believed the eggs are nurtured by the hearts and minds of Dreamers as they bask in the warmth of the sun. No good would come of locking them away in the Coral Tower. If anything, it would dampen the spirits of our resident Dreamers."
+87,"TEXT_FESEST005_01418_OSCARLET_000_043","Worry not of the spriggans, friend. We will see them driven out. Instead, I would ask you visit Miss Aliapoh in Gridania and relay an account of today's happenings. She is surely beside herself with anticipation of news, and it would do her heart good to know the eggs are safe."
+88,"TEXT_FESEST005_01418_OSCARLET_000_044","Your work is done here, friend. Be sure to tell Miss Aliapoh of the news, that her mind may be put at ease."
+89,"TEXT_FESEST005_01418_JIHLIALIAPOH_000_050","Ah, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, you have returned! Have Oscarlet and his men secured the Archon eggs?"
+90,"TEXT_FESEST005_01418_JIHLIALIAPOH_000_051","Oh joyous day! There is hope for this year's Hatching–tide yet."
+91,"TEXT_FESEST005_01418_JIHLIALIAPOH_000_052","There are but a few eggs left to be found for the celebration, and with your assistance, I am sure they will be recovered without incident."
+92,"TEXT_FESEST005_01418_JIHLIALIAPOH_000_053","Your actions have brought hope to many and more who await the return of our beloved Archons of old. I believe I speak for all of my Dreamers when I say you have earned a respite this day."

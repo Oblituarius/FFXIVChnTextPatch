@@ -2,98 +2,98 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_SUBCTS801_01210_SEQ_00,沉溺海豚亭的絲·赫茱碧在擔心著什麼。
-1,TEXT_SUBCTS801_01210_SEQ_01,絲·赫茱碧聽到了尖叫聲。前往鏡海魚店，如果遇到有困難的人，則上前詢問。
-2,TEXT_SUBCTS801_01210_SEQ_02,受驚的婦人說錯亂的男子砍向了她。對錯亂的男子使用情感動作「質疑」。
-3,TEXT_SUBCTS801_01210_SEQ_03,錯亂的男子語言組織有些混亂，說自己的身心被奪走了。和以下3個人對話，收集他要求的物品。利姆薩·羅敏薩納爾迪克＆威米利作坊的赫·納恩薩、格里達尼亞刻木匠公會的貝亞坦、烏爾達哈煉金術士公會的塞文利安。
-4,TEXT_SUBCTS801_01210_SEQ_04,得到了錯亂的男子委託的物品——<hex:022811FF0A>EventItem<hex:F61E88D60103>、<hex:022811FF0A>EventItem<hex:F61E88D70103>和<hex:022811FF0A>EventItem<hex:F61E88D80103>。將集齊的3件物品交給利姆薩·羅敏薩那個錯亂的男子。
-5,TEXT_SUBCTS801_01210_SEQ_05,錯亂的男子原來是街談巷議的天才美容師。他十分感謝冒險者，並將冒險者視為救命恩人。他對冒險者保證，會隨叫隨到。獲得了<hex:022811FF05>Item<hex:FF08>　7005<hex:0103>，在想要改變髮型改變人生的時候，可以試著傳喚出天才美容師。<hex:02100103><hex:02100103>※按下客房的美容師傳喚鈴可以將「美容師」傳喚出來。<hex:02100103>※持有<hex:022811FF05>Item<hex:FF08>　7005<hex:0103>可以免費享受美容師的服務。
-6,TEXT_SUBCTS801_01210_SEQ_06,
-7,TEXT_SUBCTS801_01210_SEQ_07,
-8,TEXT_SUBCTS801_01210_SEQ_08,
-9,TEXT_SUBCTS801_01210_SEQ_09,
-10,TEXT_SUBCTS801_01210_SEQ_10,
-11,TEXT_SUBCTS801_01210_SEQ_11,
-12,TEXT_SUBCTS801_01210_SEQ_12,
-13,TEXT_SUBCTS801_01210_SEQ_13,
-14,TEXT_SUBCTS801_01210_SEQ_14,
-15,TEXT_SUBCTS801_01210_SEQ_15,
-16,TEXT_SUBCTS801_01210_SEQ_16,
-17,TEXT_SUBCTS801_01210_SEQ_17,
-18,TEXT_SUBCTS801_01210_SEQ_18,
-19,TEXT_SUBCTS801_01210_SEQ_19,
-20,TEXT_SUBCTS801_01210_SEQ_20,
-21,TEXT_SUBCTS801_01210_SEQ_21,
-22,TEXT_SUBCTS801_01210_SEQ_22,
-23,TEXT_SUBCTS801_01210_SEQ_23,
-24,TEXT_SUBCTS801_01210_TODO_00,和有困難的人對話
-25,TEXT_SUBCTS801_01210_TODO_01,對錯亂的男子做「質疑」的情感動作
-26,TEXT_SUBCTS801_01210_TODO_02,和納爾迪克＆威米利作坊的赫·納恩薩對話
-27,TEXT_SUBCTS801_01210_TODO_03,和格里達尼亞刻木匠公會的貝亞坦對話
-28,TEXT_SUBCTS801_01210_TODO_04,和烏爾達哈煉金術士公會的塞文利安對話
-29,TEXT_SUBCTS801_01210_TODO_05,將委託品交給利姆薩·羅敏薩的錯亂的男子
-30,TEXT_SUBCTS801_01210_TODO_06,
-31,TEXT_SUBCTS801_01210_TODO_07,
-32,TEXT_SUBCTS801_01210_TODO_08,
-33,TEXT_SUBCTS801_01210_TODO_09,
-34,TEXT_SUBCTS801_01210_TODO_10,
-35,TEXT_SUBCTS801_01210_TODO_11,
-36,TEXT_SUBCTS801_01210_TODO_12,
-37,TEXT_SUBCTS801_01210_TODO_13,
-38,TEXT_SUBCTS801_01210_TODO_14,
-39,TEXT_SUBCTS801_01210_TODO_15,
-40,TEXT_SUBCTS801_01210_TODO_16,
-41,TEXT_SUBCTS801_01210_TODO_17,
-42,TEXT_SUBCTS801_01210_TODO_18,
-43,TEXT_SUBCTS801_01210_TODO_19,
-44,TEXT_SUBCTS801_01210_TODO_20,
-45,TEXT_SUBCTS801_01210_TODO_21,
-46,TEXT_SUBCTS801_01210_TODO_22,
-47,TEXT_SUBCTS801_01210_TODO_23,
-48,TEXT_SUBCTS801_01210_SDHODJBI_000_000,請聽我說啊，剛剛我聽到了一聲尖叫。<hex:02100103>說不定是開膛手又出現了。<hex:02100103>……你能去看一下情況嗎？
-49,TEXT_SUBCTS801_01210_SDHODJBI_000_001,開膛手是最近街談巷議的壞人。<hex:02100103>聽說他會手持刃具，搶奪值錢的東西。
-50,TEXT_SUBCTS801_01210_SDHODJBI_000_002,尖叫聲是從鏡海魚店那邊傳來的。<hex:02100103>如果你是冒險者的話，能去那邊看一下嗎？<hex:02100103>如果遇到有麻煩的人，請詢問一下情況。
-51,TEXT_SUBCTS801_01210_JANDELAINE_000_010,哈、哈、哈，不、不、不是的。<hex:02100103>我、我也是、是、是、是受害……哇——
-52,TEXT_SUBCTS801_01210_GOFUJINN_000_011,救、救、救命啊！<hex:02100103>這個變態突然砍向我！<hex:02100103>他一定是傳聞中的開膛手啊！
-53,TEXT_SUBCTS801_01210_GOFUJINN_000_012,我和街談巷議的「天才美容師」大人約好在這裡見面。
-54,TEXT_SUBCTS801_01210_GOFUJINN_000_013,我存了2年錢，等了1年預約才好不容易約到他。<hex:02100103>沒想到，天才美容師大人沒出現……<hex:02100103>出現的卻是……真是禍不單行啊。
-55,TEXT_SUBCTS801_01210_GOFUJINN_000_014,啊！這個開膛手不會把天才美容師大人給剁了吧？！<hex:02100103>你快去「質疑」這個錯亂的男子！
-56,TEXT_SUBCTS801_01210_GOFUJINN_000_020,啊！這個開膛手不會把天才美容師大人給剁了吧？！<hex:02100103>你快去「質疑」這個錯亂的男子！
-57,TEXT_SUBCTS801_01210_JANDELAINE_000_020,哈、哈、不、不是的，請聽我說。<hex:02100103>我也是、是、是、是受害……哇——<hex:02100103>不、不行，請再嚴厲地「質疑」我……
-58,TEXT_SUBCTS801_01210_JANDELAINE_000_021,不、不是的，不是這樣的。<hex:02100103>我、我也是、是、是、是受害……哇——<hex:02100103>哈、哈、拜託你，聽、聽我說……
-59,TEXT_SUBCTS801_01210_JANDELAINE_000_022,我做生意的工具……剛剛被搶走了……<hex:02100103>那是我心靈和身體的一部分……哈、哈、哈。<hex:02100103>不拿著它們我心裡不踏實，連話都說不好……哇——
-60,TEXT_SUBCTS801_01210_JANDELAINE_000_023,拜託你，將我的心靈和身體……湊齊。<hex:02100103>請去找我說的這幾個人，只要向他們報出我的名字就好……
-61,TEXT_SUBCTS801_01210_JANDELAINE_000_024,他們分別是納爾迪克＆威米利作坊的赫·納恩薩、<hex:02100103>格里達尼亞刻木匠公會的貝亞坦、<hex:02100103>烏爾達哈煉金術士公會的塞文利安。
-62,TEXT_SUBCTS801_01210_JANDELAINE_000_025,哈、哈、我、我叫……讓代萊納。<hex:02100103>我才是、是、是美……哇——
-63,TEXT_SUBCTS801_01210_GOFUJINN_000_030,我存了2年錢，等了1年預約才好不容易約到他。<hex:02100103>沒想到，天才美容師大人沒出現……<hex:02100103>出現的卻是……真是禍不單行啊。
-64,TEXT_SUBCTS801_01210_JANDELAINE_000_030,拜託你，將我的心靈和身體……湊齊。<hex:02100103>我才是、是、是美……哇——
-65,TEXT_SUBCTS801_01210_HNAANZA_000_040,你是替一個叫做讓代萊納的行為異常的男人跑腿的？<hex:02100103>真是的，又把那個丟瞭然後開始發作了吧？
-66,TEXT_SUBCTS801_01210_HNAANZA_000_041,那東西對那傢伙來說可是身體的一部分。<hex:02100103>如果不拿著它，他會變得很不安的。
-67,TEXT_SUBCTS801_01210_HNAANZA_000_042,而且，還不是說是那東西就能用，<hex:02100103>能扛得住讓代萊納華麗手法的，<hex:02100103>就只有我們這裡特別打造的那個。
-68,TEXT_SUBCTS801_01210_HNAANZA_000_043,好了，你快拿去吧。<hex:02100103>那傢伙如果不拿著它的話，<hex:02100103>都會忘記怎麼呼吸了吧！
-69,TEXT_SUBCTS801_01210_BEATINE_000_050,哎呀哎呀，讓代萊納又把那個用壞了麼……<hex:02100103>唉……他換得越來越頻繁了。
-70,TEXT_SUBCTS801_01210_BEATINE_000_051,一邊說著「那就是我的一部分」，<hex:02100103>一邊粗暴地使用……啊，沒什麼沒什麼。<hex:02100103>畢竟他那手法也是超乎常人的……吧。
-71,TEXT_SUBCTS801_01210_BEATINE_000_052,哎？那個被偷了啊？<hex:02100103>……沒想到他還挺粗心的。<hex:02100103>要是這樣的話，那就趕快給他送過去吧。
-72,TEXT_SUBCTS801_01210_SEVERIAN_000_060,你是替讓代萊納跑腿的？！<hex:02100103>那傢伙前幾天才剛剛來買了大量的那東西啊，<hex:02100103>這麼快就用完了嗎？
-73,TEXT_SUBCTS801_01210_SEVERIAN_000_061,哈哈……還真是他一貫的作風！<hex:02100103>……什麼，不是用完了，而是被偷了？<hex:02100103>啊，細節就不要在意了。
-74,TEXT_SUBCTS801_01210_SEVERIAN_000_062,那傢伙是少數和我很合得來的人！<hex:02100103>那傢伙會開心地使用一般人會覺得稀奇古怪的染料，<hex:02100103>那種永無止境的探索精神著實美妙！
-75,TEXT_SUBCTS801_01210_SEVERIAN_000_063,來，這是委託的物品，你拿好。<hex:02100103>請即刻送給我的心靈摯友。<hex:02100103>我還悄悄在裡面放上了一些試製品和新顏色！
-76,TEXT_SUBCTS801_01210_GOFUJINN_000_070,我存了2年錢，等了1年預約才好不容易約到他。<hex:02100103>沒想到，天才美容師大人沒出現……<hex:02100103>出現的卻是……真是禍不單行啊。
-77,TEXT_SUBCTS801_01210_JANDELAINE_000_070,拜託你，將我的心靈和身體……湊齊。
-78,TEXT_SUBCTS801_01210_JANDELAINE_000_071,啊——我可以呼吸了，全身充滿了力量……<hex:02100103>現在的我處於最佳狀態！<hex:02100103>就讓你們見識一下真正的我吧！
-79,TEXT_SUBCTS801_01210_JANDELAINE_000_072,(-讓代萊納-)就讓我來用這利刃顛覆你的人生吧！<hex:02100103>洗——剪——吹！
-80,TEXT_SUBCTS801_01210_GOFUJINN_000_073,呀——
-81,TEXT_SUBCTS801_01210_JANDELAINE_000_074,(-讓代萊納-)怎麼樣……是不是感覺世界煥然一新？<hex:02100103>……是不是感覺周圍都鮮花怒放了？
-82,TEXT_SUBCTS801_01210_GOFUJINN_000_075,我覺得，我像是得到了重生！<hex:02100103>這……真的是我麼……好棒！
-83,TEXT_SUBCTS801_01210_GOFUJINN_100_075,你就是傳說中的天才美容師大人吧！
-84,TEXT_SUBCTS801_01210_JANDELAINE_000_076,(-讓代萊納-)沒錯！就在剛剛那個瞬間，我讓你重生了。<hex:02100103>所以，今天就是你的生日！
-85,TEXT_SUBCTS801_01210_JANDELAINE_000_078,(-讓代萊納-)生日快樂！
-86,TEXT_SUBCTS801_01210_JANDELAINE_000_079,(-讓代萊納-)感謝你在我陷入危機時出手相助。<hex:02100103>作為將我心靈和身體找回的謝禮……
-87,TEXT_SUBCTS801_01210_JANDELAINE_000_080,(-讓代萊納-)就讓我來用這利刃顛覆你的人生吧！<hex:02100103>洗——剪——吹！
-88,TEXT_SUBCTS801_01210_JANDELAINE_000_081,(-讓代萊納-)……算了，這次就先保留吧。<hex:02100103>如果你想要打開新世界的大門，就叫我一聲。<hex:02100103>那個時候我一定會讓你重生的……讓你周圍都鮮花怒放喲。
-89,TEXT_SUBCTS801_01210_JANDELAINE_000_082,(-讓代萊納-)其實我一直被各種預約趕著，平時是非常忙的。<hex:02100103>不過，作為恩人的你是特別的！
-90,TEXT_SUBCTS801_01210_JANDELAINE_000_083,(-讓代萊納-)如果你想要找我，就在客房按下美容師傳喚鈴。<hex:02100103>我會隨時為你修剪人生！
-91,TEXT_SUBCTS801_01210_JANDELAINE_000_084,(-讓代萊納-)我相信我們一定會再見的。<hex:02100103>那個時候，我會對重生的你說一句：
-92,TEXT_SUBCTS801_01210_JANDELAINE_000_085,(-讓代萊納-)生日快樂！
-93,TEXT_SUBCTS801_01210_JANDELAINE_000_086,(-讓代萊納-)這是送給將會重生的你的生日禮物！<hex:02100103>請收下這張<hex:022811FF05>Item<hex:FF08>　7005<hex:0103>。
-94,TEXT_SUBCTS801_01210_GOFUJINN_000_087,啊哇哇，天才美容師大人，請等一下！<hex:02100103>我想要訂下一次預約！
+0,"TEXT_SUBCTS801_01210_SEQ_00","Rumors of a dangerous madman about town have S'dhodjbi ill at ease."
+1,"TEXT_SUBCTS801_01210_SEQ_01","S'dhodjbi speaks of fearsome rumors of the Slasher of Fisherman's Bottom, a knife-wielding lunatic who has the Lominsan populace in a panic. Impressed by your calm demeanor amidst the madness, she encourages you to investigate a scream she heard coming from the direction of the Hyaline."
+2,"TEXT_SUBCTS801_01210_SEQ_02","You have rushed to the scene of the cry to find a woman trembling in fear. The cultured madam insists that the man before her is none other than the Slasher, and encourages you to apprehend him before he claims any more victims. Express your /doubt as to the man's intentions."
+3,"TEXT_SUBCTS801_01210_SEQ_03","The madman insists that he has been misunderstood, and that the loss of the “very appendages of his soul” is responsible for his delirious state. Imploring you for aid, he asks you to seek out three influential acquaintances of his─Guildmasters H'naanza of the Armorers' Guild in Limsa Lominsa, Beatin of the Carpenters' Guild in Gridania, and Severian of the Alchemists' Guild in Ul'dah─before the inexplicable ailment he suffers from claims his very life."
+4,"TEXT_SUBCTS801_01210_SEQ_04","You have traversed the realm and spoken with the three guildmasters, each of whom entrusted you with a package for Jandelaine. Deliver them to the stricken man in hopes that, whatever the contents might be, they will cure him of his affliction."
+5,"TEXT_SUBCTS801_01210_SEQ_05","Jandelaine, shunned as a dangerous madman, is revealed to be none other than the eagerly anticipated aesthetician, undergoing a remarkable transformation upon taking into hand the tools of his trade. Profusely grateful for your kindness in his hour of need, he offers you unlimited access to his services, with no need for reservation.<hex:02100103><hex:02100103>※Ring the crystal bell in any inn room to summon the aesthetician.<hex:02100103>※If you opt to pay with Jandelaine's token, your service will be rendered free of charge."
+6,"TEXT_SUBCTS801_01210_SEQ_06",""
+7,"TEXT_SUBCTS801_01210_SEQ_07",""
+8,"TEXT_SUBCTS801_01210_SEQ_08",""
+9,"TEXT_SUBCTS801_01210_SEQ_09",""
+10,"TEXT_SUBCTS801_01210_SEQ_10",""
+11,"TEXT_SUBCTS801_01210_SEQ_11",""
+12,"TEXT_SUBCTS801_01210_SEQ_12",""
+13,"TEXT_SUBCTS801_01210_SEQ_13",""
+14,"TEXT_SUBCTS801_01210_SEQ_14",""
+15,"TEXT_SUBCTS801_01210_SEQ_15",""
+16,"TEXT_SUBCTS801_01210_SEQ_16",""
+17,"TEXT_SUBCTS801_01210_SEQ_17",""
+18,"TEXT_SUBCTS801_01210_SEQ_18",""
+19,"TEXT_SUBCTS801_01210_SEQ_19",""
+20,"TEXT_SUBCTS801_01210_SEQ_20",""
+21,"TEXT_SUBCTS801_01210_SEQ_21",""
+22,"TEXT_SUBCTS801_01210_SEQ_22",""
+23,"TEXT_SUBCTS801_01210_SEQ_23",""
+24,"TEXT_SUBCTS801_01210_TODO_00","Speak to the disgruntled madam."
+25,"TEXT_SUBCTS801_01210_TODO_01","Express /doubt as to the flustered man's intentions."
+26,"TEXT_SUBCTS801_01210_TODO_02","Speak with H'naanza at the Armorers' and Blacksmiths' Guild in Limsa Lominsa."
+27,"TEXT_SUBCTS801_01210_TODO_03","Speak with Beatin at the Carpenters' Guild in Gridania."
+28,"TEXT_SUBCTS801_01210_TODO_04","Speak with Severian at the Alchemists' Guild in Ul'dah."
+29,"TEXT_SUBCTS801_01210_TODO_05","Deliver the supplies to Jandelaine in Limsa Lominsa."
+30,"TEXT_SUBCTS801_01210_TODO_06",""
+31,"TEXT_SUBCTS801_01210_TODO_07",""
+32,"TEXT_SUBCTS801_01210_TODO_08",""
+33,"TEXT_SUBCTS801_01210_TODO_09",""
+34,"TEXT_SUBCTS801_01210_TODO_10",""
+35,"TEXT_SUBCTS801_01210_TODO_11",""
+36,"TEXT_SUBCTS801_01210_TODO_12",""
+37,"TEXT_SUBCTS801_01210_TODO_13",""
+38,"TEXT_SUBCTS801_01210_TODO_14",""
+39,"TEXT_SUBCTS801_01210_TODO_15",""
+40,"TEXT_SUBCTS801_01210_TODO_16",""
+41,"TEXT_SUBCTS801_01210_TODO_17",""
+42,"TEXT_SUBCTS801_01210_TODO_18",""
+43,"TEXT_SUBCTS801_01210_TODO_19",""
+44,"TEXT_SUBCTS801_01210_TODO_20",""
+45,"TEXT_SUBCTS801_01210_TODO_21",""
+46,"TEXT_SUBCTS801_01210_TODO_22",""
+47,"TEXT_SUBCTS801_01210_TODO_23",""
+48,"TEXT_SUBCTS801_01210_SDHODJBI_000_000","You're either a brave <hex:02080FE905FF06>woman<hex:FF04>man<hex:03> or a fool, friend, to be wandering the streets of Limsa <hex:020839E3E90C0DFF19><hex:020815E3E90C05FF08>tonight<hex:FF06>today<hex:03><hex:FF19><hex:020815E3E90C12FF06>today<hex:FF08>tonight<hex:03><hex:03>, what with the Slasher of Fisherman's Bottom on the loose."
+49,"TEXT_SUBCTS801_01210_SDHODJBI_000_001","Ye've not heard!? There's a madman about! Why, it's said he brandishes blades so long and sharp that they could gut a whale! No one's seen any blood yet, but that hasn't stopped the rumors from sending shivers up spines in every alehouse in town."
+50,"TEXT_SUBCTS801_01210_SDHODJBI_000_002","That you're still standing before me tells me you don't scare as easily as the rest. Perhaps you could assist with the investigation. To start with, you might want to look into that scream I just heard outside... <shudder>"
+51,"TEXT_SUBCTS801_01210_JANDELAINE_000_010","Why will no one listen!? My blades... I must have my blades!"
+52,"TEXT_SUBCTS801_01210_GOFUJINN_000_011","What are you waiting for!? That's him─the Slasher! Apprehend him, toss him in gaol, and throw away the key! Or gut him and feed his lifeless body to the sharks for all I care! Just...do...<hex:021A020203>something<hex:021A020103>!"
+53,"TEXT_SUBCTS801_01210_GOFUJINN_000_012","Woe, woe is me! Whatever did I do to deserve this cruel fate!? For six moons, I saved every last gil of my husband's hard-earned wage, forgoing new shoes, a new purse, sometimes even food for our children─all in anticipation of this day!"
+54,"TEXT_SUBCTS801_01210_GOFUJINN_000_013","What's so special about today, you ask!? Why, this day marks the arrival of a world-renowned aesthetician in Limsa! My endless patience and self-control were to be rewarded with a hair-raising transformation that would have every fashion-conscious Lominsan oohing and aahing in admiration!"
+55,"TEXT_SUBCTS801_01210_GOFUJINN_000_014","Instead, I find myself accosted by this lecherous lout! Speaking of which, weren't you going to do something about this? Go ahead, have your way with him─I <hex:024804F201F403><hex:024904F201F503>doubt<hex:0249020103><hex:0248020103> he has anything to say for himself!"
+56,"TEXT_SUBCTS801_01210_GOFUJINN_000_020","The nerve of this lout! Go on, what are you waiting for? Thrash him, smash him, bury him at sea! I <hex:024804F201F403><hex:024904F201F503>doubt<hex:0249020103><hex:0248020103> he has anything to say for himself!"
+57,"TEXT_SUBCTS801_01210_JANDELAINE_000_020","<sob> No matter what I say, all I receive are accusations and looks of horror! I <hex:021A020203>swear<hex:021A020103> this is not what it seems. Do you <hex:024804F201F403><hex:024904F201F503>doubt<hex:0249020103><hex:0248020103> me, too, friend?"
+58,"TEXT_SUBCTS801_01210_JANDELAINE_000_021","Oh, the ignominy of it all! Of <hex:021A020203>course<hex:021A020103> you take her side! For shame─is there not one sympathetic ear in this entire nation!?"
+59,"TEXT_SUBCTS801_01210_JANDELAINE_000_022","An <hex:021A020203>artiste<hex:021A020103> of my renown should be welcomed with open arms, and a twenty–one–cannon salute! Instead, I am branded a criminal, the tools of my trade─nay, the extensions of my very soul─ripped unceremoniously from my person like barnacles from the side of a frigate!"
+60,"TEXT_SUBCTS801_01210_JANDELAINE_000_023","I will not last long in my weakened state. No, even as we speak, the world around me grows dim..."
+61,"TEXT_SUBCTS801_01210_JANDELAINE_000_024","With my dying breaths, I speak unto you three names─three kind souls who may yet put right what has gone so frightfully wrong. Forgemaster H'naanza of Naldiq & Vymelli's, Guildmaster Beatin of the Gridanian Carpenters' Guild, and Severian at the Alchemists' Guild in Ul'dah."
+62,"TEXT_SUBCTS801_01210_JANDELAINE_000_025","(-Jandelaine-)If there is an onze of compassion in you, seek them out...and tell them Jandelaine sent you. When my soul is restored and my name rightfully cleared, all of Limsa─nay, the entire realm!─will sing your praises. For I, Jandelaine, am none other than the aes...<cough>...the aes...! <wheeze> Urghhhhhh..."
+63,"TEXT_SUBCTS801_01210_GOFUJINN_000_030","Scrimp and save my family's fortunes for six moons, only to go out and encounter the ravings of a loon? It's like the Calamity all over again!"
+64,"TEXT_SUBCTS801_01210_JANDELAINE_000_030","(-Jandelaine-)If there is an onze of compassion in you, friend, I beg of you─retrieve for me the tools of my trade. For I am none other than Jandelaine, the aes─<cough> <cough>...the aes─<cough> <wheeze>...urghhhhhh..."
+65,"TEXT_SUBCTS801_01210_HNAANZA_000_040","Jandelaine sent you? Let me guess, the barmy fool's lost his tools─pardon me, the <hex:021A020203>appendages of his very soul<hex:021A020103>─again, and is thrashing and tossing like the end of days is nigh."
+66,"TEXT_SUBCTS801_01210_HNAANZA_000_041","The man brings it on himself. If he toned down the theatrics and went about his work like an earnest craftsman, I daresay he'd save himself these misunderstandings."
+67,"TEXT_SUBCTS801_01210_HNAANZA_000_042","No, I've not a whit of sympathy for the fool. <hex:021A020203>You<hex:021A020103>, however, have my pity indeed for having to play audience to his whinging."
+68,"TEXT_SUBCTS801_01210_HNAANZA_000_043","Anyroad, this should shut him up for a while. Tell him that if he loses <hex:021A020203>these<hex:021A020103>, I'll graft the next pair into his bloody hands!"
+69,"TEXT_SUBCTS801_01210_BEATINE_000_050","A message from Jandelaine, you say? So he's lost <hex:021A020203>another<hex:021A020103> one. <sigh> Does the man not understand that wood doesn't simply grow on─er, actually it does, at least in a manner of speaking. But the fact remains that resources are in short supply!"
+70,"TEXT_SUBCTS801_01210_BEATINE_000_051","For all his flowery words, if his tools were <hex:021A020203>truly<hex:021A020103> an extension of his very being, one would think he'd find a way to hold on to them for more than a fortnight or two."
+71,"TEXT_SUBCTS801_01210_BEATINE_000_052","Jandelaine's skills are not to be doubted, but his temperament leaves much to be desired. Still, it is not my place to judge─take this to him and let us both hope that he will right his ways."
+72,"TEXT_SUBCTS801_01210_SEVERIAN_000_060","You've come on behalf of Jandelaine? Why, I just furnished him with a fresh batch of my special creations last week! I realize the man's services are in demand, but it would be physically impossible for him to exhaust the entire supply so soon."
+73,"TEXT_SUBCTS801_01210_SEVERIAN_000_061","Stolen, you say!? An unfortunate turn of events, indeed...if not entirely unexpected."
+74,"TEXT_SUBCTS801_01210_SEVERIAN_000_062","You see, the man is something of a genius...and genius is often misunderstood by modest minds. Trust me, as I speak from extensive personal experience."
+75,"TEXT_SUBCTS801_01210_SEVERIAN_000_063","Yes, great minds must band together in trying times, lest the realm be deprived of our talents. And so I command you─deliver this parcel to Jandelaine with all speed!"
+76,"TEXT_SUBCTS801_01210_GOFUJINN_000_070","Scrimp and save my family's fortunes for six moons, only to go out and encounter the ravings of a loon? It's like the Calamity all over again!"
+77,"TEXT_SUBCTS801_01210_JANDELAINE_000_070","(-Jandelaine-)If there is an onze of compassion in you, friend, I beg of you─retrieve for me the tools of my trade. For I am none other than Jandelaine, the aes...<cough>...the aes...! <wheeze> Urghhhhhh..."
+78,"TEXT_SUBCTS801_01210_JANDELAINE_000_071","(-Jandelaine-)Could this be...? Yes! I can feel it! The light returns to my eyes... Power courses through my fingers... I... I <hex:021A020203>live<hex:021A020103>!"
+79,"TEXT_SUBCTS801_01210_JANDELAINE_000_072","(-Jandelaine-)And as I live, this unspeakable embodiment of ugliness must die. Begone, foul demon!"
+80,"TEXT_SUBCTS801_01210_GOFUJINN_000_073","Aiiieeeeeeeee!!!"
+81,"TEXT_SUBCTS801_01210_JANDELAINE_000_074","(-Jandelaine-)...And so I ask. How do you feel, madam?"
+82,"TEXT_SUBCTS801_01210_GOFUJINN_000_075","Why, it's as if, in but a single magnificent moment, I traveled beyond the void and returned to life as the embodiment of all that is beautiful in this world!"
+83,"TEXT_SUBCTS801_01210_GOFUJINN_100_075","Could it be? Yes, it must! How else to explain such power? You are the one whose coming was foretold! You─yes, <hex:021A020203>you<hex:021A020103>─are the aesthetician!"
+84,"TEXT_SUBCTS801_01210_JANDELAINE_000_076","(-Jandelaine-)In the flesh, madam! I am Jandelaine, crafter of coiffures so divine that Menphina Herself doth begrudge my clientele their beauty. But let us speak of <hex:021A020203>you<hex:021A020103>, madam! For where a moment ago stood a fashion-challenged frump, now there stands..."
+85,"TEXT_SUBCTS801_01210_JANDELAINE_000_078","(-Jandelaine-)...<hex:021A020203>A beauty reborn<hex:021A020103>."
+86,"TEXT_SUBCTS801_01210_JANDELAINE_000_079","(-Jandelaine-)And <hex:021A020203>you<hex:021A020103> are the one I must thank for reviving my soul, that I might once again bestow my gifts on a realm bereft of beauty─a kindness I intend to repay in full."
+87,"TEXT_SUBCTS801_01210_JANDELAINE_000_080","(-Jandelaine-)Do you fear that your own hairstyle is becoming <hex:021A020203>passé<hex:021A020103>? Fear the specter of─<gasp>─ugliness threatening to consume you? Fear not, friend, for it shall not survive my wrath!"
+88,"TEXT_SUBCTS801_01210_JANDELAINE_000_081","(-Jandelaine-)As the madam before you, as this very realm we call home, from an abyss of unfathomable drabness, you shall rise anew."
+89,"TEXT_SUBCTS801_01210_JANDELAINE_000_082","(-Jandelaine-)My clients have been known to make reservations moons─even years─in advance, but you shall know no such troubles. No, for proving a staunch ally to good taste when all others turned a blind eye, I gladly place myself at your beck and call."
+90,"TEXT_SUBCTS801_01210_JANDELAINE_000_083","(-Jandelaine-)Yes, the next time you find yourself plagued by aesthetic <hex:021A020203>ennui<hex:021A020103>, you need only ring the crystal bell from the comfort of any inn room at which you have taken up lodgings."
+91,"TEXT_SUBCTS801_01210_JANDELAINE_000_084","(-Jandelaine-)Jandelaine shall hasten to the scene. Yes, in a flash, the dreary, uninspired life you have hitherto known shall end. You shall travel to the realm beyond, and return to us as..."
+92,"TEXT_SUBCTS801_01210_JANDELAINE_000_085","(-Jandelaine-)<hex:021A020203>...A beauty reborn<hex:021A020103>!"
+93,"TEXT_SUBCTS801_01210_JANDELAINE_000_086","(-Jandelaine-)I give you this as a token of the trust between us. Treasure it, for it is the key to a world of aesthetic wonders ordinary <hex:02080FE905FF06>women<hex:FF04>men<hex:03> shall never know."
+94,"TEXT_SUBCTS801_01210_GOFUJINN_000_087","Oh, Master Jandelaine! Do come back! I've not made my next appointment!"

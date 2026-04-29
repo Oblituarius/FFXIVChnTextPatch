@@ -2,229 +2,229 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_BANALL320_04788_SEQ_00,大金庫的聆聽威看起來很擔心。
-1,TEXT_BANALL320_04788_SEQ_01,和聆聽威進行了交談。經過商議後，聆聽威決定先讓冒險者回背世咖啡廳確認一下情況。和天外天垓背世咖啡廳的N-7000談談。
-2,TEXT_BANALL320_04788_SEQ_02,和N-7000等人進行了交談。和天外天垓奧密克戎基地的發明威談談。
-3,TEXT_BANALL320_04788_SEQ_03,和發明威進行了交談，決定參加賽車活動。和天外天垓A4調查平台的N-7000談談。
-4,TEXT_BANALL320_04788_SEQ_04,和N-7000等人進行了交談。前往天外天垓的諸神黃昏號魔導船，在<hex:02280CFF05>EObj<hex:F61EB9050103>等待。
-5,TEXT_BANALL320_04788_SEQ_05,在指定地點等待，挑戰賽車活動，並成功獲勝。和背世咖啡廳的聆聽威談談。
-6,TEXT_BANALL320_04788_SEQ_06,和聆聽威等人進行了交談，領取了優勝獎盃。另外出於夢明威的周到考慮，背世咖啡廳和大金庫都獲贈了收音機。期待著大家將來還能有機會一起舉辦賽車活動。
-7,TEXT_BANALL320_04788_SEQ_07,
-8,TEXT_BANALL320_04788_SEQ_08,
-9,TEXT_BANALL320_04788_SEQ_09,
-10,TEXT_BANALL320_04788_SEQ_10,
-11,TEXT_BANALL320_04788_SEQ_11,
-12,TEXT_BANALL320_04788_SEQ_12,
-13,TEXT_BANALL320_04788_SEQ_13,
-14,TEXT_BANALL320_04788_SEQ_14,
-15,TEXT_BANALL320_04788_SEQ_15,
-16,TEXT_BANALL320_04788_SEQ_16,
-17,TEXT_BANALL320_04788_SEQ_17,
-18,TEXT_BANALL320_04788_SEQ_18,
-19,TEXT_BANALL320_04788_SEQ_19,
-20,TEXT_BANALL320_04788_SEQ_20,
-21,TEXT_BANALL320_04788_SEQ_21,
-22,TEXT_BANALL320_04788_SEQ_22,
-23,TEXT_BANALL320_04788_SEQ_23,
-24,TEXT_BANALL320_04788_TODO_00,和背世咖啡廳的N-7000對話
-25,TEXT_BANALL320_04788_TODO_01,和發明威對話
-26,TEXT_BANALL320_04788_TODO_02,和N-7000對話
-27,TEXT_BANALL320_04788_TODO_03,在<hex:02280CFF05>EObj<hex:F61EB9050103>等待
-28,TEXT_BANALL320_04788_TODO_04,和聆聽威對話
-29,TEXT_BANALL320_04788_TODO_05,
-30,TEXT_BANALL320_04788_TODO_06,
-31,TEXT_BANALL320_04788_TODO_07,
-32,TEXT_BANALL320_04788_TODO_08,
-33,TEXT_BANALL320_04788_TODO_09,
-34,TEXT_BANALL320_04788_TODO_10,
-35,TEXT_BANALL320_04788_TODO_11,
-36,TEXT_BANALL320_04788_TODO_12,
-37,TEXT_BANALL320_04788_TODO_13,
-38,TEXT_BANALL320_04788_TODO_14,
-39,TEXT_BANALL320_04788_TODO_15,
-40,TEXT_BANALL320_04788_TODO_16,
-41,TEXT_BANALL320_04788_TODO_17,
-42,TEXT_BANALL320_04788_TODO_18,
-43,TEXT_BANALL320_04788_TODO_19,
-44,TEXT_BANALL320_04788_TODO_20,
-45,TEXT_BANALL320_04788_TODO_21,
-46,TEXT_BANALL320_04788_TODO_22,
-47,TEXT_BANALL320_04788_TODO_23,
-48,TEXT_BANALL320_04788_DREAMINGWAY_000_001,啊，<hex:022903EB0203>！<hex:02100103>我就知道你一定能成功說服荼羅娜，<hex:02100103>所以就迅速趕過來了！
-49,TEXT_BANALL320_04788_DREAMINGWAY_000_002,其實談興威和發明威也過來了，<hex:02100103>只不過此刻正在四處參觀學習……<hex:02100103>等到和其他同伴匯合之後，就一起開始建設工作吧！
-50,TEXT_BANALL320_04788_TRNA_000_003,哎呀呀，我服了我服了！<hex:02100103>我這就去找摩羅盧和伽娑商量一下調整工作的事。
-51,TEXT_BANALL320_04788_ACALA_000_004,和荼羅娜一起比賽，好期待。<hex:02100103>謝謝你，幫忙說服她。
-52,TEXT_BANALL320_04788_OGUL_000_005,也就是說，要去島外舉辦賽車活動對吧？<hex:02100103>聽起來很有趣，我要不要也跟過去負責一下護衛工作呢……
-53,TEXT_BANALL320_04788_JAMMINGWAY_000_010,和N-7000的通訊中斷了，發生了什麼事？<hex:02100103>這邊完全聯繫不上啊……
-54,TEXT_BANALL320_04788_JAMMINGWAY_000_011,雖然我也不希望這個時候再出現什麼麻煩，<hex:02100103>但是以防萬一，可以請你先回咖啡廳查看一下嗎？
-55,TEXT_BANALL320_04788_JAMMINGWAY_000_012,等到荼羅娜閣下這邊都做好準備之後，<hex:02100103>我會負責把他們帶到天外天垓的！<hex:02100103>請你先行一步，找N-7000了解一下情況！
-56,TEXT_BANALL320_04788_JAMMINGWAY_000_013,等到荼羅娜閣下這邊都做好準備之後，<hex:02100103>我會用魔導船負責把他們帶到天外天垓的！<hex:02100103>請你先行一步，找N-7000了解一下情況！
-57,TEXT_BANALL320_04788_N7000_000_015,沙沙沙……確認同盟者已回歸。<hex:02100103>怎麼沒看到聆聽威？
-58,TEXT_BANALL320_04788_N7000_000_016,原來如此，情況本機都了解了。<hex:02100103>本機已按要求為夢明威等人提供了特製胡蘿蔔汁。
-59,TEXT_BANALL320_04788_DREAMINGWAY_100_016,誒嘿嘿，我還吃了些點心！
-60,TEXT_BANALL320_04788_N7000_000_017,沙沙沙……同盟者應該也已經注意到了，<hex:02100103>背世咖啡廳目前停業中。<hex:02100103>再現體的顧客們都不在店裡。
-61,TEXT_BANALL320_04788_N7000_000_018,也就是說……
-62,TEXT_BANALL320_04788_JAMMINGWAY_000_019,好了，到目的地了！<hex:02100103>這裡就是我們的背世咖啡廳！
-63,TEXT_BANALL320_04788_TRNA_000_020,啊，<hex:022903EB0203>！<hex:02100103>這次使用新型乙太之光雖然遭了不少罪，<hex:02100103>不過能順利與你匯合，也算是鬆了一口氣。
-64,TEXT_BANALL320_04788_JAMMINGWAY_000_021,喂，破爛！<hex:02100103>不僅單方面切斷與我的通訊，<hex:02100103>現在店裡還一個客人都沒有，到底是怎麼回事？！
-65,TEXT_BANALL320_04788_N7000_000_022,沙沙沙……檢測到全身毛絨絨的有機生命體的表面溫度上升。<hex:02100103>推薦立刻攝取冷卻水。
-66,TEXT_BANALL320_04788_N7000_000_023,本機在向顧客們說明了比賽的事情後，很多人都表示願意參加……<hex:02100103>所以大家都暫時離開了咖啡廳，各自做準備去了。
-67,TEXT_BANALL320_04788_N7000_000_024,卡列連人打撈起了曾經使用過的交通工具，<hex:02100103>並請求斯提格瑪四進行再現。<hex:02100103>世界聯邦兵和自由聯盟兵聯手開始了試運行。
-68,TEXT_BANALL320_04788_N7000_000_025,格雷布洛弗也對比賽表現出了興趣，希望可以參加……<hex:02100103>它們表示自己很早以前就想在繆·繆咻當中遊蕩了，<hex:02100103>還向異亞尋求幫助，一起前往了至福樂土。
-69,TEXT_BANALL320_04788_N7000_000_026,看到大家如此踴躍，龍族也表示想要參加比賽。<hex:02100103>它們在至福樂土的靈峰飛過之後，<hex:02100103>開始希望能在整個宇宙空間展翅翱翔。
-70,TEXT_BANALL320_04788_JAMMINGWAY_000_027,原來是這樣啊……<hex:02100103>雖然事情發展得超出了自己的想像，<hex:02100103>不過是朝著積極良好的方向發展的，這是好事！
-71,TEXT_BANALL320_04788_N7000_000_028,我們阿爾法坦文明也準備以移動性能較高的機體參戰。<hex:02100103>甚至為了讓比賽變得更熱鬧，我們還考慮設定干擾砲台。
-72,TEXT_BANALL320_04788_TRNA_000_029,砲……台……？
-73,TEXT_BANALL320_04788_ACALA_000_030,我會，躲開砲擊！<hex:02100103>很期待比賽，我不會輸！
-74,TEXT_BANALL320_04788_OGUL_000_031,太陽神草原的巴兒達木霸道難度就夠高的了，<hex:02100103>但是感覺這次更吃力啊……
-75,TEXT_BANALL320_04788_N7000_000_032,沙沙沙……另外本機還向尼比侖人發出了邀請，<hex:02100103>但對方並沒有給出明確的答覆。<hex:02100103>不過他們去查看其他想參加比賽的人員的情況了。
-76,TEXT_BANALL320_04788_JAMMINGWAY_000_033,這樣啊……<hex:02100103>那就先推進比賽的準備工作，<hex:02100103>同時期待一下尼比侖人會參賽吧。
-77,TEXT_BANALL320_04788_N7000_000_034,沙沙沙……有給同盟者的留言。<hex:02100103>來訪者發明威有話要跟同盟者說。
-78,TEXT_BANALL320_04788_N7000_000_035,該全身毛絨絨的有機生命體正在參觀奧密克戎基地。<hex:02100103>推薦你去現場與其匯合。
-79,TEXT_BANALL320_04788_N7000_000_036,本機要與斯提格瑪四聯合推進準備工作，<hex:02100103>將回到A4調查平台。
-80,TEXT_BANALL320_04788_JAMMINGWAY_000_038,發明威要跟你說什麼啊？<hex:02100103>他似乎在奧密克戎基地，<hex:02100103>快去找他吧。
-81,TEXT_BANALL320_04788_JAMMINGWAY_000_039,我得招待一下荼羅娜閣下他們……<hex:02100103>用什麼飲品比較好呢？<hex:02100103>泡茶需要的素材是……這樣就可以了！
-82,TEXT_BANALL320_04788_TRNA_000_040,這裡居然有可以吃飯的地方，真讓人吃驚。<hex:02100103>摩羅盧應該會很喜歡，給他帶點什麼回去吧。
-83,TEXT_BANALL320_04788_ACALA_000_041,一直吃到比賽開始！
-84,TEXT_BANALL320_04788_OGUL_000_042,奶奶說過「了解其他部族就從食物開始」，<hex:02100103>要想跟剌喀希爾聊聊這裡的情況，還是應當先嘗嘗當地美食……<hex:02100103>話說宇宙香辛料是什麼？
-85,TEXT_BANALL320_04788_DREAMINGWAY_100_043,為了讓比賽更加熱鬧，<hex:02100103>我們也會努力廣播的！
-86,TEXT_BANALL320_04788_N7000_000_037,
-87,TEXT_BANALL320_04788_INVENTINGWAY_000_045,哦，你來了啊！<hex:02100103>咖啡廳的客人們要參加比賽這件事，<hex:02100103>你應該也聽說了吧？
-88,TEXT_BANALL320_04788_INVENTINGWAY_000_046,也就是說，這次比賽已經從一場娛樂大眾的賽事，<hex:02100103>變成了為各自種族名譽而戰的大型戰場！
-89,TEXT_BANALL320_04788_INVENTINGWAY_000_047,既然如此，你是不是應該區別於參賽的悌陽象族，<hex:02100103>代表亞伊太利斯的人類參賽呢？！
-90,TEXT_BANALL320_04788_INVENTINGWAY_000_048,好在用於搬運物資的月面躍動機就在這裡。<hex:02100103>我會全力支持你的，<hex:02100103>就讓我們一起向著獲勝努力吧！
-91,TEXT_BANALL320_04788_Q1_000_049,要說什麼？
-92,TEXT_BANALL320_04788_A1_000_001,我早就想出場了！
-93,TEXT_BANALL320_04788_A1_000_002,不知道能不能贏呢……
-94,TEXT_BANALL320_04788_INVENTINGWAY_000_050,回答得很好！<hex:02100103>哈哈哈哈！！
-95,TEXT_BANALL320_04788_INVENTINGWAY_000_051,不是能不能贏！<hex:02100103>有我在，一定會讓你贏的！
-96,TEXT_BANALL320_04788_INVENTINGWAY_000_052,這個月面躍動機我已經改良過了，<hex:02100103>躍動舞步與以往有所不同，<hex:02100103>還附帶有強力推進系統！
-97,TEXT_BANALL320_04788_INVENTINGWAY_000_053,不過這些會很消耗能量，<hex:02100103>所以一定要謹慎使用！
-98,TEXT_BANALL320_04788_INVENTINGWAY_000_054,那麼接下來我會對這傢伙進行最終調整！<hex:02100103>你就去找N-7000申請參賽吧！
-99,TEXT_BANALL320_04788_INVENTINGWAY_000_055,這傢伙的調整工作就交給我吧！<hex:02100103>你去找N-7000說一下要參賽的事情！
-100,TEXT_BANALL320_04788_JAMMINGWAY_000_056,啊，你跟發明威聊完了啊！
-101,TEXT_BANALL320_04788_TRNA_000_057,這賽道也太誇張了吧，<hex:02100103>真不知道該怎麼贏……
-102,TEXT_BANALL320_04788_ACALA_000_058,吃飽啦！<hex:02100103>接下來，就是贏下比賽！
-103,TEXT_BANALL320_04788_OGUL_000_059,我跟聆聽威說了自己之前當過比賽發令員的事，<hex:02100103>然後聆聽威就提出這次要不要一起！<hex:02100103>所以我現在就成幫忙的了！
-104,TEXT_BANALL320_04788_N7000_000_065,沙沙沙……比賽的準備工作進展順利。<hex:02100103>目前正在商談全身毛絨絨的有機生命體提供的器材配置……<hex:02100103>同盟者跟發明威匯合了嗎？
-105,TEXT_BANALL320_04788_JAMMINGWAY_000_066,什麼？！<hex:02100103>你要乘坐兔兔族自製的月面躍動機參賽……<hex:02100103>這可真是個好消息！
-106,TEXT_BANALL320_04788_N7000_000_067,沙沙沙……已受理同盟者的參賽申請。<hex:02100103>推薦同盟者和其他參賽人員一起聽取賽事說明。
-107,TEXT_BANALL320_04788_N7000_100_067,接下來將展示基於該宇宙空間的地形數據<hex:02100103>預定配備的參賽用戰略物資……<hex:02100103>請看播放影像。
-108,TEXT_BANALL320_04788_N7000_000_068,本次比賽的起點位於瓦銘癸辛……<hex:02100103>定為諸神黃昏號魔導船前。
-109,TEXT_BANALL320_04788_N7000_000_069,聆聽威和斡兀立發令後比賽正式開始，<hex:02100103>參賽者穿過半途終旅的上空前往瓦銘丙。<hex:02100103>請大家一邊經過作為通過點的圓環一邊努力前進吧。
-110,TEXT_BANALL320_04788_OGUL_000_070,你說要穿過上空？<hex:02100103>荼羅娜和阿恰拉的河馬賽車能飛嗎？
-111,TEXT_BANALL320_04788_JAMMINGWAY_000_071,天外天垓是能將情感化為現實的空間！<hex:02100103>只要二人心中這樣期盼，就一定能飛起來！
-112,TEXT_BANALL320_04788_TRNA_000_072,哦，真的嗎？<hex:02100103>看來真是來到了一個不得了的地方呢。
-113,TEXT_BANALL320_04788_N7000_000_073,沙沙沙……從瓦銘丙西邊到異亞村落這段路上，<hex:02100103>還會設定由阿爾法坦文明的砲台組成的干擾區域。<hex:02100103>參賽人員要一邊躲過砲擊，一邊向東南方前進……
-114,TEXT_BANALL320_04788_TRNA_000_074,你剛才說的砲擊是認真的嗎？！<hex:02100103>我的驍厲亞要是受傷了怎麼辦！
-115,TEXT_BANALL320_04788_N7000_000_075,考慮到四腳生物和有機生命體的生命安全問題，<hex:02100103>本機正在向斯提格瑪四申請生產不具殺傷力的砲台。<hex:02100103>目前的設想是只讓被擊中的對象偏離賽道這種程度的干擾。
-116,TEXT_BANALL320_04788_N7000_000_076,沙沙沙……到達瓦銘癸己後，<hex:02100103>會通過奧密克戎基地……
-117,TEXT_BANALL320_04788_N7000_000_077,瓦銘甲的背世咖啡廳，<hex:02100103>就是此次比賽的終點。
-118,TEXT_BANALL320_04788_ACALA_000_078,咖啡廳是終點，我明白了！<hex:02100103>我會全力以赴的！
-119,TEXT_BANALL320_04788_N7000_000_079,沙沙沙……賽道說明結束。<hex:02100103>另外比賽過程中允許使用任何機器、魔法、技能，<hex:02100103>也允許一切干擾行為。
-120,TEXT_BANALL320_04788_TRNA_000_080,那我使用彩虹色粉，<hex:02100103>讓驍厲亞興奮起來從而實現加速也沒問題嘍。
-121,TEXT_BANALL320_04788_ACALA_000_081,荼羅娜，好狡猾！<hex:02100103>那我也要用！
-122,TEXT_BANALL320_04788_TRNA_000_082,我說，你的河馬又不喜歡彩虹色。<hex:02100103>那個只對驍厲亞有效果吧？
-123,TEXT_BANALL320_04788_JAMMINGWAY_000_083,我和N-7000商量完比賽的事之後，<hex:02100103>會和斡兀立閣下一同前往起點位置。
-124,TEXT_BANALL320_04788_JAMMINGWAY_000_084,到時候月面躍動機也會一起搬運過來！<hex:02100103><hex:022903EB0203>做好準備之後，<hex:02100103>就請獨自來到諸神黃昏號魔導船前吧！
-125,TEXT_BANALL320_04788_JAMMINGWAY_000_086,搬運完月面躍動機後，我也會趕過去的，<hex:02100103>我們到時候就在諸神黃昏號魔導船前匯合吧！
-126,TEXT_BANALL320_04788_TRNA_000_087,所以說你就按照自己河馬的喜好，<hex:02100103>讓它開心不就行了嘛。
-127,TEXT_BANALL320_04788_ACALA_000_088,好狡猾，彩虹色粉，我也要用！<hex:02100103>我也喜歡，鮮豔的顏色！
-128,TEXT_BANALL320_04788_OGUL_000_089,<hex:022903EB0203>，稍後見！
-129,TEXT_BANALL320_04788_N7000_000_085,
-130,TEXT_BANALL320_04788_SYSTEM_100_090,之後將會連續播放過場動畫，深度展開劇情。<hex:02100103>推薦您在遊戲時間充足的情況下繼續。
-131,TEXT_BANALL320_04788_Q2_000_090,要在這裡等待比賽開始嗎？
-132,TEXT_BANALL320_04788_TALKINGWAY_000_095,大家好，大家好……<hex:02100103>能聽到我說話嗎？
-133,TEXT_BANALL320_04788_TALKINGWAY_000_096,此次在宇宙盡頭舉行的賽車活動，<hex:02100103>我和夢明威會一同見證。
-134,TEXT_BANALL320_04788_DREAMINGWAY_000_097,請多指教！
-135,TEXT_BANALL320_04788_TALKINGWAY_000_098,比賽起點位於諸神黃昏號魔導船前……<hex:02100103>請大家通過宇宙空間內設定的所有圓環，<hex:02100103>前往終點背世咖啡廳吧！
-136,TEXT_BANALL320_04788_DREAMINGWAY_000_099,不知道此次比賽會為大家帶來怎樣的驚喜呢！<hex:02100103>那麼接下來就為大家介紹一下<hex:02100103>來自宇宙各地的參賽者和他們引以為傲的坐騎吧！
-137,TEXT_BANALL320_04788_DREAMINGWAY_000_100,首先是來自薩維奈島的競速女王！<hex:02100103>河馬騎手團的荼羅娜坐著河馬賽車來了！
-138,TEXT_BANALL320_04788_DREAMINGWAY_000_101,要與之抗衡的是魔邪象族的淘氣鬼——阿恰拉！<hex:02100103>不知這次是否會演變成華麗舞台上的復仇戲碼呢？！
-139,TEXT_BANALL320_04788_DREAMINGWAY_000_102,接下來登場的是卡列連人！<hex:02100103>在最終戰爭中曾作為對手的二人，這次居然統一了戰線！<hex:02100103>他們的坐騎是和平捍衛者，希望他們能跑得和平一點！
-140,TEXT_BANALL320_04788_DREAMINGWAY_000_103,下一位是誕生於新星至福樂土的繆·繆咻！<hex:02100103>格雷布洛弗也很可愛啊！
-141,TEXT_BANALL320_04788_DREAMINGWAY_000_104,阿爾法坦文明出品，<hex:02100103>賣點在於移動性能的拉姆達型！
-142,TEXT_BANALL320_04788_DREAMINGWAY_000_105,而最引人關注的則是威風凜凜的龍族！<hex:02100103>感謝你們此次的參與！
-143,TEXT_BANALL320_04788_DREAMINGWAY_000_106,而乘坐著月面躍動機參戰的<hex:02100103>則是希望之光<hex:022903EB0203>！<hex:02100103>一定要加油啊！
-144,TEXT_BANALL320_04788_DREAMINGWAY_000_107,哎呀，這邊的尼比侖人怎麼完全看不到坐騎啊？
-145,TEXT_BANALL320_04788_JAMMINGWAY_000_108,太好了！你也來了啊！
-146,TEXT_BANALL320_04788_JAMMINGWAY_000_109,話說你的坐騎是……
-147,TEXT_BANALL320_04788_NIBIRAENOMI_000_110,本個體無需坐騎。<hex:02100103>把這副身軀改為適合狂奔的形態即可。
-148,TEXT_BANALL320_04788_TRNA_000_111,不是吧！奇怪的東西又增加了！<hex:02100103>我和阿恰拉的坐騎不過是普通的河馬，<hex:02100103>這比賽越來越不對勁了。
-149,TEXT_BANALL320_04788_JAMMINGWAY_000_112,剛才也說過了，<hex:02100103>這裡是能將情感化為現實的空間！<hex:02100103>只要能讓河馬充滿幹勁，這反倒是件好事！
-150,TEXT_BANALL320_04788_TRNA_000_113,雖然太複雜的事情我不懂，<hex:02100103>總之就是彩虹色粉的加速效果可能會更明顯對吧？
-151,TEXT_BANALL320_04788_OGUL_000_114,那麼接下來比賽就要正式開始了！<hex:02100103>大家都準備好了嗎？！
-152,TEXT_BANALL320_04788_TALKINGWAY_000_115,看來選手們都已經在起點位置準備就緒了！<hex:02100103>那麼此次比賽究竟誰能獲得最終的勝利呢？！
-153,TEXT_BANALL320_04788_JAMMINGWAY_000_116,(-聆聽威和斡兀立-)預備……
-154,TEXT_BANALL320_04788_JAMMINGWAY_000_117,(-聆聽威和斡兀立-)開始！
-155,TEXT_BANALL320_04788_TALKINGWAY_000_118,伴隨著聆聽威和斡兀立的發令，比賽正式開始！<hex:02100103>率先沖在前面的是拉啦！
-156,TEXT_BANALL320_04788_DREAMINGWAY_000_119,哇啊！<hex:02100103>因遭到了繆·繆咻的雷擊，拉姆達停下來了！
-157,TEXT_BANALL320_04788_TALKINGWAY_000_120,第一位淘汰選手出現，比賽也進入到了下一階段！<hex:02100103>前方還會有砲擊干擾！
-158,TEXT_BANALL320_04788_TALKINGWAY_000_121,和平捍衛者此時突然果敢地沖了起來！<hex:02100103>「這種程度的對空砲火早就在最終戰爭中體驗過啦！」<hex:02100103>卡列連人小隊如是說。
-159,TEXT_BANALL320_04788_DREAMINGWAY_000_122,和平捍衛者遭到了砲擊！<hex:02100103>看來他們被打得很慘，已經遠遠偏離了賽道，<hex:02100103>不知道二位卡列連人是否平安無事？
-160,TEXT_BANALL320_04788_TALKINGWAY_000_123,阿恰拉的河馬車出現了大問題！<hex:02100103>那是薩維奈島的咒語中使用的色粉嗎？
-161,TEXT_BANALL320_04788_DREAMINGWAY_000_124,不過喜歡彩虹色粉的應該是荼羅娜的河馬吧？<hex:02100103>這次是為了與之抗衡才特意使用的嗎？
-162,TEXT_BANALL320_04788_TALKINGWAY_000_125,不過因為這次意外，<hex:02100103>荼羅娜的河馬賽車反倒開始了急加速！
-163,TEXT_BANALL320_04788_TALKINGWAY_000_126,如今已經超越了阿恰拉和<hex:022903EB0203>，<hex:02100103>成功來到了第二名！
-164,TEXT_BANALL320_04788_SYSTEM_000_127,想要在比賽中獲勝，<hex:02100103>需要超過第一名的拉啦和第二名的荼羅娜……
-165,TEXT_BANALL320_04788_INVENTINGWAY_000_128,這個月面躍動機我已經改良過了，<hex:02100103>躍動舞步與以往有所不同，<hex:02100103>還附帶有強力推進系統！
-166,TEXT_BANALL320_04788_INVENTINGWAY_000_129,不過這些會很消耗能量，<hex:02100103>所以一定要謹慎使用！
-167,TEXT_BANALL320_04788_Q3_000_130,要做什麼？
-168,TEXT_BANALL320_04788_A3_000_001,使用強力推進系統，把荼羅娜和拉啦都甩在身後
-169,TEXT_BANALL320_04788_A3_000_002,先使用強力推進系統超過荼羅娜，再使用躍動舞步吸引拉啦的注意
-170,TEXT_BANALL320_04788_A3_000_003,先使用躍動舞步吸引河馬的注意，再使用強力推進系統超過拉啦
-171,TEXT_BANALL320_04788_SYSTEM_000_131,使用強力推進系統的話，恐怕能量無法維持到最後。
-172,TEXT_BANALL320_04788_SYSTEM_000_132,現在使用強力推進系統的話雖然可以超過荼羅娜的河馬車，<hex:02100103>但因為拉啦是由尼比侖人變身而成的，<hex:02100103>比賽過程中恐怕很難吸引他的注意……
-173,TEXT_BANALL320_04788_DREAMINGWAY_000_133,哦！河馬停下來了！<hex:02100103>該不會是我創作的歡快歌曲讓它聽入迷了吧？
-174,TEXT_BANALL320_04788_TALKINGWAY_000_134,在此處使計的月面躍動機來到了第二名！<hex:02100103>荼羅娜大喊著「好狡猾啊！顧問！」
-175,TEXT_BANALL320_04788_TALKINGWAY_000_135,月面躍動機開始全力加速了！<hex:02100103>終點已經近在咫尺了……它能否趕超拉啦呢？！
-176,TEXT_BANALL320_04788_TALKINGWAY_000_136,N-7000對最終結果作出了判定！
-177,TEXT_BANALL320_04788_TALKINGWAY_000_137,月面躍動機以微弱優勢獲勝！<hex:02100103>恭喜<hex:022903EB0203>！
-178,TEXT_BANALL320_04788_NIBIRAENOMI_000_140,無法理解……
-179,TEXT_BANALL320_04788_NIBIRAENOMI_000_141,本個體明明採用了最適合的形態，並選擇了最合理的路線。<hex:02100103>可最後還是輸了，無法理解。
-180,TEXT_BANALL320_04788_NIBIRAENOMI_000_142,啊……原本以為不會再起波瀾的內心居然又躁動了起來。<hex:02100103>已經很久沒有過這種「不甘心」的感覺了。
-181,TEXT_BANALL320_04788_TRNA_000_143,有時就算自信滿滿，還是會輸掉競技。<hex:02100103>不過也有面對強敵，險中取勝的情況。
-182,TEXT_BANALL320_04788_TRNA_000_144,勝負難料才是比賽最大的樂趣……<hex:02100103>怎麼樣？比賽是不是非常有趣呢！
-183,TEXT_BANALL320_04788_DREAMINGWAY_000_145,正因為不甘心，才會想著下次一定要贏回來對吧？
-184,TEXT_BANALL320_04788_DREAMINGWAY_000_146,尼比侖人，恭喜你找到了想要在比賽中取勝的這個夢想！
-185,TEXT_BANALL320_04788_NIBIRAENOMI_000_147,本個體能感覺到自己期待著何時再在比賽中一決勝負。<hex:02100103>下次本個體一定要贏……
-186,TEXT_BANALL320_04788_Q4_000_148,要說什麼？
-187,TEXT_BANALL320_04788_A4_000_001,有機會再來一場！
-188,TEXT_BANALL320_04788_A4_000_002,下次我可能會輸的……
-189,TEXT_BANALL320_04788_NIBIRAENOMI_000_149,感覺和咖啡廳的客人們就如何在比賽中獲勝<hex:02100103>相互交換意見會很有價值。
-190,TEXT_BANALL320_04788_N7000_000_150,沙沙沙……本機判定此次比賽的實施<hex:02100103>對於宇宙空間內的潛能量產生了良好的影響。
-191,TEXT_BANALL320_04788_N7000_000_151,另外，所謂夢想即是「對未來的希望」……<hex:02100103>聆聽威原本的理想就是打造出一家闡述希望的咖啡廳，<hex:02100103>如今朝著這一理想又邁出了堅實的一步。
-192,TEXT_BANALL320_04788_N7000_000_152,沙沙沙……對同盟者的獲勝表示稱讚。<hex:02100103>本機接下來準備生產擁有自我進化功能的歐米茄型，<hex:02100103>並通過反覆驗證追求最快的速度，以迎接下次比賽。
-193,TEXT_BANALL320_04788_TRNA_000_153,哎呀，我的顧問真是不得了啊！<hex:02100103>不過能和你同場競技還真是過癮啊。
-194,TEXT_BANALL320_04788_ACALA_000_154,彩虹色粉，果然不行啊……好不甘心！<hex:02100103>我得調查一下，我的河馬，到底喜歡什麼……
-195,TEXT_BANALL320_04788_DREAMINGWAY_000_155,大家能奉獻一場如此精彩的比賽，真是太好了！
-196,TEXT_BANALL320_04788_TALKINGWAY_000_156,能夠制霸如此焦灼激烈的賽事，<hex:02100103>真不愧是<hex:022903EB0203>。
-197,TEXT_BANALL320_04788_INVENTINGWAY_000_157,憑藉我的改良和你的完美戰術，我們成功拿下了宇宙第一！<hex:02100103>哇哈哈哈！！
-198,TEXT_BANALL320_04788_OGUL_000_158,<hex:022903EB0203>，恭喜你！<hex:02100103>你可真是無所不能啊，令人肅然起敬！
-199,TEXT_BANALL320_04788_JAMMINGWAY_000_160,<hex:022903EB0203>，辛苦了！<hex:02100103>你使用兔兔族的交通工具獲得了最終的勝利，<hex:02100103>老實說，我真的很感動！
-200,TEXT_BANALL320_04788_JAMMINGWAY_000_161,而且多虧你贏得了勝利，<hex:02100103>此次比賽對於尼比侖人來說似乎也變得很有意義！<hex:02100103>在從N-7000那裡了解了賽後的情況之後，我也鬆了一口氣。
-201,TEXT_BANALL320_04788_JAMMINGWAY_000_162,那麼……雖然比賽的餘溫尚未散去，<hex:02100103>但收尾工作已經結束，差不多也該告一段落了……
-202,TEXT_BANALL320_04788_TRNA_000_165,辛苦了。<hex:02100103>起初我也不知道事情會如何發展，<hex:02100103>不過這次比賽我玩得很開心！
-203,TEXT_BANALL320_04788_TRNA_000_166,雖然我還想再稍微放鬆一下，<hex:02100103>但也不能一直把事情都交給小弟們去做。<hex:02100103>差不多也該回薩維奈島了。
-204,TEXT_BANALL320_04788_DREAMINGWAY_000_167,我們也已經把臨時播音台拆完了，<hex:02100103>差不多該回夢明工作室了！
-205,TEXT_BANALL320_04788_JAMMINGWAY_000_168,如此歡樂又熱鬧的比賽就這樣結束了，<hex:02100103>多少還有點寂寞呢。
-206,TEXT_BANALL320_04788_N7000_000_169,沙沙沙……本機同意聆聽威說的。<hex:02100103>不過在解散之前是不是還忘了什麼該做的事？
-207,TEXT_BANALL320_04788_JAMMINGWAY_000_170,該做的事？
-208,TEXT_BANALL320_04788_JAMMINGWAY_000_171,啊！對了對了！
-209,TEXT_BANALL320_04788_JAMMINGWAY_100_171,談興威！發明威！<hex:02100103>一起來幫忙拿這個，記得要輕一點啊……
-210,TEXT_BANALL320_04788_JAMMINGWAY_000_172,<hex:022903EB0203>贏得了比賽，這個獎盃送給你！
-211,TEXT_BANALL320_04788_JAMMINGWAY_000_173,這是我結合了夢明工作室、河馬騎手團<hex:02100103>以及背世咖啡廳的元素創作的最棒作品！
-212,TEXT_BANALL320_04788_DREAMINGWAY_000_174,啊，我們這邊準備送給咖啡廳和河馬騎手團這個！
-213,TEXT_BANALL320_04788_DREAMINGWAY_100_174,談興威和發明威也能來幫幫我嗎？
-214,TEXT_BANALL320_04788_DREAMINGWAY_000_175,按照聽眾所說，<hex:02100103>河馬騎手團的據點裡也有能吃飯的地方吧？
-215,TEXT_BANALL320_04788_DREAMINGWAY_000_176,我是想著如果能在薩維奈島的店裡和這裡的咖啡廳放台收音機的話，<hex:02100103>客人們就可以一邊吃飯一邊聽廣播了，這感覺多好！
-216,TEXT_BANALL320_04788_TRNA_000_177,雖然這東西的外形跟我了解的不一樣，<hex:02100103>不過功能都是一樣的吧。<hex:02100103>謝謝你，我會拿回去和小弟們還有客人們一起聽的！
-217,TEXT_BANALL320_04788_JAMMINGWAY_000_178,我原本想著自己準備的，<hex:02100103>能從你手中收到收音機真是太好了！
-218,TEXT_BANALL320_04788_N7000_000_179,沙沙沙……增設了收音機之後，<hex:02100103>相信咖啡廳的體驗滿意度會進一步提升。
-219,TEXT_BANALL320_04788_JAMMINGWAY_000_180,能享受到如此快樂的比賽，還能收到這麼棒的收音機，<hex:02100103>這一切都是<hex:022903EB0203>的功勞！
-220,TEXT_BANALL320_04788_JAMMINGWAY_000_181,你這次為我們的成功交流提供了莫大的幫助，<hex:02100103>真的非常感謝！
-221,TEXT_BANALL320_04788_JAMMINGWAY_000_182,雖然多少有些傷感了，<hex:02100103>但不管怎麼說，背世咖啡廳會一直營業下去！
-222,TEXT_BANALL320_04788_JAMMINGWAY_000_183,期待著今後也可以像這樣和大家共同參加比賽，<hex:02100103>一起享受有趣的活動！
-223,TEXT_BANALL320_04788_SYSTEM_000_190,悌陽象族、奧密克戎族、兔兔族……<hex:02100103>與以上種族之間的關係程度到達了「盟友」！
-224,TEXT_BANALL320_04788_SYSTEM_000_191,通過冒險者的活躍表現，<hex:02100103>薩維奈島與星外天域主要的3個種族今後也將友好共存下去！
-225,TEXT_BANALL320_04788_N7000_000_000,
+0,"TEXT_BANALL320_04788_SEQ_00","Jammingway appears moderately concerned about the unidentified calamity that may or may not be befalling the Last Dregs at this very moment."
+1,"TEXT_BANALL320_04788_SEQ_01","Jammingway requests that you visit the Last Dregs, on the off chance that whatever caused N-7000 to terminate its transmission poses a serious threat to the café. As alternative duties likely involve cleaning up after terrified hippos being transported beyond the boundaries of their known world, you readily agree."
+2,"TEXT_BANALL320_04788_SEQ_02","Upon inquiring with N-7000, you learn that the previous commotion was the patrons' sudden and fervent desire to join the upcoming race─it seems that they have all gone off to prepare their own vehicles while Last Dregs employees and the Dreaming Ways set up for the contest. N-7000 indicates that Inventingway wishes to consult you about a related matter, and thus do you set off for Base Omicron to seek him out."
+3,"TEXT_BANALL320_04788_SEQ_03","You speak with Inventingway, who cheerfully convinces you to participate in the race yourself. He has already prepared a modified moon-hopper for the occasion, so you need only make for A-4 Research and inform N-7000 of your intentions."
+4,"TEXT_BANALL320_04788_SEQ_04","After registering you for the race, N-7000 provides an overview of the course, which will take contestants across multiple regions of Ultima Thule. Jammingway volunteers to bring your moon-hopper along to the starting line─the starship <hex:021A020203>Ragnarok<hex:021A020103>─and instructs you to wait for them there."
+5,"TEXT_BANALL320_04788_SEQ_05","With every team's preparations complete, the Hyper Hustle begins. Though several racers are knocked off of the course, you deftly avoid its perils and glide to the front of the pack. For a time, Trna and Ra-la remain a threat to your victory, but with a little help from Inventingway's enhancements to your hopper, you speed past both to edge across the finish line."
+6,"TEXT_BANALL320_04788_SEQ_06","Back at the Last Dregs, Jammingway congratulates you on your victory by way of an enormous trophy. The other participants will also not be going home empty-handed, as the Dreaming Ways have provided new radios for diners in both the nekropolis and Svarna. Though the Hyper Hustle will soon be but a fond memory, you know in your heart that reasons to rejoice in this wide, wide universe are never-ending."
+7,"TEXT_BANALL320_04788_SEQ_07",""
+8,"TEXT_BANALL320_04788_SEQ_08",""
+9,"TEXT_BANALL320_04788_SEQ_09",""
+10,"TEXT_BANALL320_04788_SEQ_10",""
+11,"TEXT_BANALL320_04788_SEQ_11",""
+12,"TEXT_BANALL320_04788_SEQ_12",""
+13,"TEXT_BANALL320_04788_SEQ_13",""
+14,"TEXT_BANALL320_04788_SEQ_14",""
+15,"TEXT_BANALL320_04788_SEQ_15",""
+16,"TEXT_BANALL320_04788_SEQ_16",""
+17,"TEXT_BANALL320_04788_SEQ_17",""
+18,"TEXT_BANALL320_04788_SEQ_18",""
+19,"TEXT_BANALL320_04788_SEQ_19",""
+20,"TEXT_BANALL320_04788_SEQ_20",""
+21,"TEXT_BANALL320_04788_SEQ_21",""
+22,"TEXT_BANALL320_04788_SEQ_22",""
+23,"TEXT_BANALL320_04788_SEQ_23",""
+24,"TEXT_BANALL320_04788_TODO_00","Speak with N-7000 at the Last Dregs."
+25,"TEXT_BANALL320_04788_TODO_01","Speak with Inventingway."
+26,"TEXT_BANALL320_04788_TODO_02","Speak with N-7000."
+27,"TEXT_BANALL320_04788_TODO_03","Wait at the starting line."
+28,"TEXT_BANALL320_04788_TODO_04","Speak with Jammingway."
+29,"TEXT_BANALL320_04788_TODO_05",""
+30,"TEXT_BANALL320_04788_TODO_06",""
+31,"TEXT_BANALL320_04788_TODO_07",""
+32,"TEXT_BANALL320_04788_TODO_08",""
+33,"TEXT_BANALL320_04788_TODO_09",""
+34,"TEXT_BANALL320_04788_TODO_10",""
+35,"TEXT_BANALL320_04788_TODO_11",""
+36,"TEXT_BANALL320_04788_TODO_12",""
+37,"TEXT_BANALL320_04788_TODO_13",""
+38,"TEXT_BANALL320_04788_TODO_14",""
+39,"TEXT_BANALL320_04788_TODO_15",""
+40,"TEXT_BANALL320_04788_TODO_16",""
+41,"TEXT_BANALL320_04788_TODO_17",""
+42,"TEXT_BANALL320_04788_TODO_18",""
+43,"TEXT_BANALL320_04788_TODO_19",""
+44,"TEXT_BANALL320_04788_TODO_20",""
+45,"TEXT_BANALL320_04788_TODO_21",""
+46,"TEXT_BANALL320_04788_TODO_22",""
+47,"TEXT_BANALL320_04788_TODO_23",""
+48,"TEXT_BANALL320_04788_DREAMINGWAY_000_001","We decided to come and settle in while you and Jammingway handled the hippos─and I'm so glad we did! The carrot juice is simply divine."
+49,"TEXT_BANALL320_04788_DREAMINGWAY_000_002","Talkingway and Inventingway are off taking in the sights, but they'll be back in time for the race."
+50,"TEXT_BANALL320_04788_TRNA_000_003","I'm comin', I'm comin'! Hold your hippos."
+51,"TEXT_BANALL320_04788_ACALA_000_004","Race will be good. Ac─<hex:021A020203>I<hex:021A020103> can feel it."
+52,"TEXT_BANALL320_04788_OGUL_000_005","No harm will come to our comrades on my watch! And I shall be watching quite avidly, I expect..."
+53,"TEXT_BANALL320_04788_JAMMINGWAY_000_010","Initiating a new call doesn't work either..."
+54,"TEXT_BANALL320_04788_JAMMINGWAY_000_011","I doubt that it's anything serious, but perhaps you should check on N-7000 just in case. You typically carry at least one object suitable for a light bludgeoning, do you not?"
+55,"TEXT_BANALL320_04788_JAMMINGWAY_000_012","I'll work out the finer details with Trna and see the Hippo Riders safely to Ultima Thule. I trust that the café will be intact when we arrive!"
+56,"TEXT_BANALL320_04788_JAMMINGWAY_000_013","Time to find out how many hippos the <hex:021A020203>Ragnarok<hex:021A020103>'s hold can hold!"
+57,"TEXT_BANALL320_04788_N7000_000_015","<whirr> Your return is most welcome. However, one managerial life-form remains conspicuously absent."
+58,"TEXT_BANALL320_04788_N7000_000_016","Understood. This unit will initiate idling protocols until Jammingway arrives. Carrot-based refreshments have already been distributed to the newcome life-forms."
+59,"TEXT_BANALL320_04788_DREAMINGWAY_100_016","And such refreshing refreshments they were!"
+60,"TEXT_BANALL320_04788_N7000_000_017","Furthermore, as your sensory organs will have detected, the usual customers have vacated the premises."
+61,"TEXT_BANALL320_04788_N7000_000_018","This unit will now convey additional context. <whirr> Once upon a timecode..."
+62,"TEXT_BANALL320_04788_JAMMINGWAY_000_019","...So, to sum up, we no longer need worry for lack of patrons. In fact, the Last Dregs being empty is quite inconceivable!"
+63,"TEXT_BANALL320_04788_TRNA_000_020","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! Oh, thank the Sisters. Wasn't sure we'd make it, 'specially after that experimental aetheryte..."
+64,"TEXT_BANALL320_04788_JAMMINGWAY_000_021","Oi! Where are our customers!? You had <hex:021A020203>one job<hex:021A020103>, you buttons-for-brains..."
+65,"TEXT_BANALL320_04788_N7000_000_022","<whirr> Elevated body temperature detected in nagging life-form. This unit recommends swift consumption of chilled liquids."
+66,"TEXT_BANALL320_04788_N7000_000_023","As for the customers, they have temporarily ceased their consumption of fine café fare to prepare for the upcoming race."
+67,"TEXT_BANALL320_04788_N7000_000_024","The Karellians procured a transport vessel with the assistance of Stigma-4. Presently, the Global Citizens and Freedom Fighters are conducting a joint test-drive."
+68,"TEXT_BANALL320_04788_N7000_000_025","Meanwhile, the Grebuloffs expressed a long-standing desire to float about within the Miw Miisv, which were eagerly volunteered by their Ea caretakers to serve as steeds. This unit's ethical algorithms are still processing."
+69,"TEXT_BANALL320_04788_N7000_000_026","The dragons, too, intend to participate. Soaring through Elysion's mountains has revived their passion for flight, and they have expressed a desire to see more of Ultima Thule from above."
+70,"TEXT_BANALL320_04788_JAMMINGWAY_000_027","Unexpected, but I'll take it! So long as our patrons reach happiness, the means by which they travel matters not."
+71,"TEXT_BANALL320_04788_N7000_000_028","This unit agrees, and hopes that all patrons will be replete with joy upon their inevitable defeat by the superior Omicron vehicle. Artillery may be involved."
+72,"TEXT_BANALL320_04788_TRNA_000_029","Artillery...?"
+73,"TEXT_BANALL320_04788_ACALA_000_030","Artillery is no match for Acala! I dodge!"
+74,"TEXT_BANALL320_04788_OGUL_000_031","This is shaping up to be a gauntlet fiercer than Bardam's Mettle..."
+75,"TEXT_BANALL320_04788_N7000_000_032","<whirr> This unit also invited the Nibirun to share the singular experience of losing to the Omicrons, but their registration remains pending. Nevertheless, they have conceded to observe the other civilizations' preparations."
+76,"TEXT_BANALL320_04788_JAMMINGWAY_000_033","We'll have to hope that the overall excitement sweeps them up eventually. For now, we have our own preparations to attend to."
+77,"TEXT_BANALL320_04788_N7000_000_034","<whirr> On that note─this unit recalls that the “Inventing” life-form wished to speak with <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> regarding said preparations."
+78,"TEXT_BANALL320_04788_N7000_000_035","Reports of critical levels of static electricity indicate the likely presence of this ally at Base Omicron."
+79,"TEXT_BANALL320_04788_N7000_000_036","Now, this unit must return to supervising Stigma-4's production of racetrack features. Engaging enthusiasm protocols..."
+80,"TEXT_BANALL320_04788_JAMMINGWAY_000_038","If Inventingway is having difficulties with the radio relay, don't hesitate to direct him to me. I have a knack for whacking unruly machines into shape, if I do say so myself..."
+81,"TEXT_BANALL320_04788_JAMMINGWAY_000_039","But first, I should prepare a drink or two to help our Hannish guests feel at home. Perhaps some carrot chai?"
+82,"TEXT_BANALL320_04788_TRNA_000_040","Odd spot for a restaurant. I don't reckon delivery to Thavnair'd be sustainable in the long run, but we should bring some grub back for Maru, at least."
+83,"TEXT_BANALL320_04788_ACALA_000_041","Later, we race. For now, we lunch!"
+84,"TEXT_BANALL320_04788_OGUL_000_042","Grandmother always said that naught reveals more about a people than their food, and these dishes certainly look...educational. Which would Racashir like most, I wonder?"
+85,"TEXT_BANALL320_04788_DREAMINGWAY_100_043","This will be our best broadcast yet, I can feel it!"
+86,"TEXT_BANALL320_04788_N7000_000_037",""
+87,"TEXT_BANALL320_04788_INVENTINGWAY_000_045","Aha! Just the person of Etheirys I was hoping to see."
+88,"TEXT_BANALL320_04788_INVENTINGWAY_000_046","As our Omicron friend doubtless relayed to you, this race is no longer a mere spectator sport. The people of Ultima Thule will be bringing the best their civilizations have to offer─and they mean to win."
+89,"TEXT_BANALL320_04788_INVENTINGWAY_000_047","Should the Arkasodara, then, be left to defend Etheirys's honor all on their own? Nay, says I! Mother put her faith in the <hex:021A020203>myriad<hex:021A020103> peoples of the star for a reason."
+90,"TEXT_BANALL320_04788_INVENTINGWAY_000_048","Fortunately, we brought a number of moon-hoppers to help prepare for the hustle. With a little help from good old Inventingway, there's no reason that one can't haul you to victory!"
+91,"TEXT_BANALL320_04788_Q1_000_049","What will you say?"
+92,"TEXT_BANALL320_04788_A1_000_001","I <hex:021A020203>had<hex:021A020103> been hoping to join the contest!"
+93,"TEXT_BANALL320_04788_A1_000_002","N-7000 mentioned artillery. That might be a reason."
+94,"TEXT_BANALL320_04788_INVENTINGWAY_000_050","Then the moment of my─er, our─triumph will soon be upon us!"
+95,"TEXT_BANALL320_04788_INVENTINGWAY_000_051","Artillery, schmartillery. You can't pulverize what you can't catch!"
+96,"TEXT_BANALL320_04788_INVENTINGWAY_000_052","I have already taken the liberty of altering this moon-hopper. Dazzle your competition with the hyper hop-step, or press the big “boost” button to outstrip them with ease─actually, why not do both?"
+97,"TEXT_BANALL320_04788_INVENTINGWAY_000_053","Do mind your power reserves, though─even with my prodigious skill, there are only so many batteries I can shove into this chassis."
+98,"TEXT_BANALL320_04788_INVENTINGWAY_000_054","Now, hop along and tell N-7000 to add one more entrant to the roster! I'll catch up once I've discovered where this final screw belongs..."
+99,"TEXT_BANALL320_04788_INVENTINGWAY_000_055","...Safety features? What could we possibly need those for?"
+100,"TEXT_BANALL320_04788_JAMMINGWAY_000_056","Was Inventingway annoying the Omicrons? Perhaps we can learn from his methods."
+101,"TEXT_BANALL320_04788_TRNA_000_057","This is gonna be one queer hustle..."
+102,"TEXT_BANALL320_04788_ACALA_000_058","First, I have eaten. Now, victory awaits!"
+103,"TEXT_BANALL320_04788_OGUL_000_059","Jammingway asked for my help at the starting line! Me being an expert, and all."
+104,"TEXT_BANALL320_04788_N7000_000_065","<whirr> Race preparations continue in accordance with projections. Did the “Inventing” life-form raise any matters of note?"
+105,"TEXT_BANALL320_04788_JAMMINGWAY_000_066","You'll be joining the fray!? How thrilling!"
+106,"TEXT_BANALL320_04788_N7000_000_067","<whirr> Entrant registered. This unit will now provide supplementary information regarding the course."
+107,"TEXT_BANALL320_04788_N7000_100_067","Please direct your orbs toward this geographical data display."
+108,"TEXT_BANALL320_04788_N7000_000_068","The race will begin at the starship <hex:021A020203>Ragnarok<hex:021A020103> in Ostrakon Deka-okto."
+109,"TEXT_BANALL320_04788_N7000_000_069","Once Jammingway and Ogul signal the commencement of hostilities, competitors may proceed across Reah Tahra toward Ostrakon Tria. Passage through the checkpoint rings is mandatory."
+110,"TEXT_BANALL320_04788_OGUL_000_070","Those rings look rather lofty. How are the hippo carts to get through?"
+111,"TEXT_BANALL320_04788_JAMMINGWAY_000_071","In Ultima Thule, emotions become reality. You only need <hex:021A020203>believe<hex:021A020103> to make your hippos fly!"
+112,"TEXT_BANALL320_04788_TRNA_000_072","Did you just call me an “Ultimate Fool”? Because I'd have to be, to believe somethin' like that."
+113,"TEXT_BANALL320_04788_N7000_000_073","<whirr>-hem. Once in Ostrakon Tria, racers will enter the artillery zone, which extends from the periphery of the ostrakon to the abode of the Ea. This exciting enhancement is sponsored by the Alphatron civilization."
+114,"TEXT_BANALL320_04788_TRNA_000_074","Wait, you were serious about the artillery? What if my Saurya gets hit!?"
+115,"TEXT_BANALL320_04788_N7000_000_075","Out of concern for the curiously smooth four-legged life-forms, Stigma-4 is presently manufacturing nonlethal cannons. Encountering these painless projectiles will result in no more than explosive removal from the course."
+116,"TEXT_BANALL320_04788_N7000_000_076","Those who remain unblasted should continue to Ostrakon Deka-hexi, and proceed through Base Omicron."
+117,"TEXT_BANALL320_04788_N7000_000_077","Then it is merely a matter of reaching the finish line, located at the Last Dregs."
+118,"TEXT_BANALL320_04788_ACALA_000_078","I win! Then, I feast on tiny desserts!"
+119,"TEXT_BANALL320_04788_N7000_000_079","<whirr> Note that, in accordance with Omicron contest protocols, there are no restrictions on contrivances mechanical, magical, or maniacal during the race. This concludes the briefing."
+120,"TEXT_BANALL320_04788_TRNA_000_080","Well, at least I packed my rainbow gulal. Saurya should be happy to run for it, no matter where she is."
+121,"TEXT_BANALL320_04788_ACALA_000_081","You brought gulal? Why you do not share? Sharing is caring!"
+122,"TEXT_BANALL320_04788_TRNA_000_082","We've been through this, Acala. Your hippo's never shown it a lick of interest─you just like throwin' things."
+123,"TEXT_BANALL320_04788_JAMMINGWAY_000_083","Go ahead and make your preparations. I need to make sure that N-7000 isn't understating the firepower of those cannons..."
+124,"TEXT_BANALL320_04788_JAMMINGWAY_000_084","Once that's taken care of, I'll retrieve your moon-hopper and meet you at the <hex:021A020203>Ragnarok<hex:021A020103>!"
+125,"TEXT_BANALL320_04788_JAMMINGWAY_000_086","Grab your most durable headgear and wait for me by the <hex:021A020203>Ragnarok<hex:021A020103>!"
+126,"TEXT_BANALL320_04788_TRNA_000_087","Once you work out what your hippo likes, you can throw some of <hex:021A020203>that<hex:021A020103> instead."
+127,"TEXT_BANALL320_04788_ACALA_000_088","But Ac─<hex:021A020203>I<hex:021A020103> like rainbow colors!"
+128,"TEXT_BANALL320_04788_OGUL_000_089","See you at the starting line!"
+129,"TEXT_BANALL320_04788_N7000_000_085",""
+130,"TEXT_BANALL320_04788_SYSTEM_100_090","Upon commencing the race, several cutscenes will play in sequence.<hex:02100103>It is recommended that you set aside sufficient time to view these scenes in their entirety."
+131,"TEXT_BANALL320_04788_Q2_000_090","Let the games begin?"
+132,"TEXT_BANALL320_04788_TALKINGWAY_000_095","Test... Test... People of Etheirys, are you there?"
+133,"TEXT_BANALL320_04788_TALKINGWAY_000_096","We are your hosts, Talkingway and Dreamingway, coming to you live from the very edge of the universe."
+134,"TEXT_BANALL320_04788_DREAMINGWAY_000_097","And here among the stars, the Hyper Hustle is about to begin!"
+135,"TEXT_BANALL320_04788_TALKINGWAY_000_098","This contest for the ages will see competitors race across a land as barren as it is beautiful, vying to be the first across the finish line."
+136,"TEXT_BANALL320_04788_DREAMINGWAY_000_099","You won't want to miss a moment of this, folks! Now, let's introduce our racers."
+137,"TEXT_BANALL320_04788_DREAMINGWAY_000_100","Hauled by the speedy Saurya is a courier as fast as she is reliable! All the way from Thavnair, it's Trna the Hippo Rider!"
+138,"TEXT_BANALL320_04788_DREAMINGWAY_000_101","Next, a Gajasura as fearsome on the track as he is fearless on the battlefield. Honed in the fires of the Hannish Hippo Hustle─I, Acala!"
+139,"TEXT_BANALL320_04788_DREAMINGWAY_000_102","Let's hope that Peacekeeper's less peaceful functions are disabled. Hailing from Karellen, a team of once-bitter enemies turned fast friends─the Citizens of Freedom!"
+140,"TEXT_BANALL320_04788_DREAMINGWAY_000_103","Our next entrant may look more frolicsome than furious, but pass them at your peril. Supported by the ever-so-darling Miw Miisv, it's...the electrifying Grebuloff X!"
+141,"TEXT_BANALL320_04788_DREAMINGWAY_000_104","This mean, clean, speeding machine is ready to put the “alpha” back in “Alphatron civilization.” Say hello to the lethal Lambda unit V1C70RY!"
+142,"TEXT_BANALL320_04788_DREAMINGWAY_000_105","But lo─what wisdom rides the winds of Elysion and fair peaks once forgot? The Dragon Star has joined the fray!"
+143,"TEXT_BANALL320_04788_DREAMINGWAY_000_106","Last but not least, a sword in the darkness... A beacon of hope... The champion of Eorzea! Friends across the universe, we present the one and only Hurrier of Light!"
+144,"TEXT_BANALL320_04788_DREAMINGWAY_000_107","What's this? A Nibirun challenger? Um... (Are they supposed to be there? I thought the Hurrier was our last participant...) "
+145,"TEXT_BANALL320_04788_JAMMINGWAY_000_108","You made it!"
+146,"TEXT_BANALL320_04788_JAMMINGWAY_000_109","Did you prepare a vehicle? We can lend you a moon-hopper, if you'd like..."
+147,"TEXT_BANALL320_04788_NIBIRAENOMI_000_110","That will not be necessary."
+148,"TEXT_BANALL320_04788_TRNA_000_111","What in the name of the mug-swappin' Mrga? Saurya's a good girl, but she ain't no <hex:021A020203>divinity<hex:021A020103>. How's a normal hippo meant to compete with that!?"
+149,"TEXT_BANALL320_04788_JAMMINGWAY_000_112","Like I said, you and your hippo need only let your competitive spirits burn bright. Where there's a will, there's a way! Quite literally."
+150,"TEXT_BANALL320_04788_TRNA_000_113","...I suppose I'll toss some gulal and hope for the best."
+151,"TEXT_BANALL320_04788_OGUL_000_114","Racers! Are you ready?"
+152,"TEXT_BANALL320_04788_TALKINGWAY_000_115","Our racers have assembled at the starting line. Who will surpass the rest to emerge triumphant?"
+153,"TEXT_BANALL320_04788_JAMMINGWAY_000_116","(-Jammingway and Ogul-)On your mark... Get set..."
+154,"TEXT_BANALL320_04788_JAMMINGWAY_000_117","(-Jammingway and Ogul-)GO!"
+155,"TEXT_BANALL320_04788_TALKINGWAY_000_118","And they're off, with the Nibirun god Ra-la taking the lead!"
+156,"TEXT_BANALL320_04788_DREAMINGWAY_000_119","Sweet Mother! A juicy jolt from the Miw Miisv has sent the Lambda unit tumbling! Does this spell defeat for V1C70RY!?"
+157,"TEXT_BANALL320_04788_TALKINGWAY_000_120","The other competitors race on. They are now entering the next area─and the field of automated artillery!"
+158,"TEXT_BANALL320_04788_TALKINGWAY_000_121","The Citizens of Freedom are going in! We have received a transmission from the Peacekeeper: “This is naught compared to the carnage on Karellen! YAAAH!” ...You heard it here, folks."
+159,"TEXT_BANALL320_04788_DREAMINGWAY_000_122","And the Peacekeeper is downed by double cannon blast! How fortunate that the Karellians wear helmets."
+160,"TEXT_BANALL320_04788_TALKINGWAY_000_123","I, Acala's cart is enveloped in a cloud of gulal!"
+161,"TEXT_BANALL320_04788_DREAMINGWAY_000_124","A ploy to distract competing hippos, perhaps? Or did he fall prey to rainbow temptation?"
+162,"TEXT_BANALL320_04788_TALKINGWAY_000_125","Whatever the cause, it has only made Trna the Hippo Rider's cart fly all the faster!"
+163,"TEXT_BANALL320_04788_TALKINGWAY_000_126","She has overtaken the Hurrier of Light for second place!"
+164,"TEXT_BANALL320_04788_SYSTEM_000_127","To claim victory, you must overtake both Trna's hippo cart and the Nibirun's Ra-la."
+165,"TEXT_BANALL320_04788_INVENTINGWAY_000_128","I have already taken the liberty of altering this moon-hopper. Dazzle your competition with the hyper hop-step, or press the big “boost” button to outstrip them with ease─actually, why not do both?"
+166,"TEXT_BANALL320_04788_INVENTINGWAY_000_129","Do mind your power reserves, though─even with my prodigious skill, there are only so many batteries I can shove into this chassis."
+167,"TEXT_BANALL320_04788_Q3_000_130","What will you do?"
+168,"TEXT_BANALL320_04788_A3_000_001","Mash the boost button until you surpass both racers."
+169,"TEXT_BANALL320_04788_A3_000_002","Use boost to overtake the hippo cart, then distract Ra-la with the hyper hop-step."
+170,"TEXT_BANALL320_04788_A3_000_003","Grab Saurya's attention with the hyper hop-step, then boost yourself past Ra-la."
+171,"TEXT_BANALL320_04788_SYSTEM_000_131","(-Shrill Echo-)""Weren't you listening to my brilliant explanation, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>!? There's no way the batteries can sustain that much boosting!“"
+172,"TEXT_BANALL320_04788_SYSTEM_000_132","As you consider this option, you reflect upon your prior experiences with the Nibirun. They may not be the distractable sort..."
+173,"TEXT_BANALL320_04788_DREAMINGWAY_000_133","The hippo has halted! Overwhelmed by the euphony of my song, no doubt!"
+174,"TEXT_BANALL320_04788_TALKINGWAY_000_134","And the Hurrier of Light has taken second place, to cries of “This ain't over, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>!” from Trna the Hippo Rider!"
+175,"TEXT_BANALL320_04788_TALKINGWAY_000_135","This is it, folks─the final stretch! The Hurrier of Light has pushed the moon-hopper to hair-raising speeds, but Ra-la is still one leap ahead! Who will emerge victorious!?"
+176,"TEXT_BANALL320_04788_TALKINGWAY_000_136","We have word from N-7000 at the finish line. The winner of the Hyper Hustle is..."
+177,"TEXT_BANALL320_04788_TALKINGWAY_000_137","The Hurrier of Light, by a nose!"
+178,"TEXT_BANALL320_04788_NIBIRAENOMI_000_140","We do not understand."
+179,"TEXT_BANALL320_04788_NIBIRAENOMI_000_141","Our chosen form was suitable, our performance, flawless. Yet victory was not ours to claim."
+180,"TEXT_BANALL320_04788_NIBIRAENOMI_000_142","It has been long since we have experienced this quickening of the pulse. This...vexation."
+181,"TEXT_BANALL320_04788_TRNA_000_143","That's racin' for ya. Just when you think you've got it, some grinnin' idiot comes shootin' past to take the gold. Then sometimes, you get to be that grinnin' idiot!"
+182,"TEXT_BANALL320_04788_TRNA_000_144","And that's the thrill of it! You never know if it'll go your way. You just race with all you've got."
+183,"TEXT_BANALL320_04788_DREAMINGWAY_000_145","That you're upset to have lost can only mean one thing─you want to win next time!"
+184,"TEXT_BANALL320_04788_DREAMINGWAY_000_146"," <hex:021A020203>That's<hex:021A020103> a dream worth chasing! Trust me, I'm an expert."
+185,"TEXT_BANALL320_04788_NIBIRAENOMI_000_147","We do feel...a yearning. A yearning to race once more. A desire to triumph..."
+186,"TEXT_BANALL320_04788_Q4_000_148","What will you say?"
+187,"TEXT_BANALL320_04788_A4_000_001","Happy to leave you in the dust any time!"
+188,"TEXT_BANALL320_04788_A4_000_002","Looks like my hopper's going to need more batteries..."
+189,"TEXT_BANALL320_04788_NIBIRAENOMI_000_149","This is well. We will engage with the other patrons of this establishment to develop a superior stratagem."
+190,"TEXT_BANALL320_04788_N7000_000_150","<whirr> Dynamis readings indicate a positive effect on the local environment. In accordance with Jammingway's aspirations, the Last Dregs has become an ever greater source of hope."
+191,"TEXT_BANALL320_04788_N7000_000_151","Despite the significant expense, extensive property damage, and crushing defeat incurred, this unit rates the Hyper Hustle as “worth it.”"
+192,"TEXT_BANALL320_04788_N7000_000_152"," <whirr> Congratulations, allied unit <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. This unit has already requested the manufacture of an Omega unit to be cultivated into a worthy competitor via racing trials. Please anticipate your defeat."
+193,"TEXT_BANALL320_04788_TRNA_000_153","I never thought you could be so tricky! Still, I'm glad we got to ride together─let's do it again sometime."
+194,"TEXT_BANALL320_04788_ACALA_000_154","Betrayed! Betrayed by rainbow gulal! Next time, I follow Trna's advice. I learn my hippo's favorite things."
+195,"TEXT_BANALL320_04788_DREAMINGWAY_000_155","Do you think we could fit a racetrack in Hoper's Hold?"
+196,"TEXT_BANALL320_04788_TALKINGWAY_000_156","Congratulations on your victory, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Though in truth, I'm just relieved that everyone survived..."
+197,"TEXT_BANALL320_04788_INVENTINGWAY_000_157","What did I tell you? The very universe is in the palm of my paw!"
+198,"TEXT_BANALL320_04788_OGUL_000_158","You are as formidable on the track as on the battlefield! I shall do my best to learn from your example."
+199,"TEXT_BANALL320_04788_JAMMINGWAY_000_160","To think you did all of that on a Loporrit-built craft! I'm delighted that we could play some small part in your triumph."
+200,"TEXT_BANALL320_04788_JAMMINGWAY_000_161","And I'm even more delighted that the Nibirun have finally found something to work toward."
+201,"TEXT_BANALL320_04788_JAMMINGWAY_000_162","Still, I'll be glad to resume our usual service. Maybe make myself a nice carrot coffee while I'm behind the counter..."
+202,"TEXT_BANALL320_04788_TRNA_000_165","You were right, I admit it─I had a great time racin'. Even if I didn't understand half of what was goin' on..."
+203,"TEXT_BANALL320_04788_TRNA_000_166","But as fun as it was, I need to be gettin' on home to Thavnair. Don't wanna leave the Hippo Riders alone for too long, lest some hamsaheads start gettin' restless..."
+204,"TEXT_BANALL320_04788_DREAMINGWAY_000_167","We've finished packing up the broadcasting equipment, so we'll be heading back to the Dreaming Workshop ourselves."
+205,"TEXT_BANALL320_04788_JAMMINGWAY_000_168","So soon? It'll feel so empty out here in the cosmic void without you..."
+206,"TEXT_BANALL320_04788_N7000_000_169","<whirr> Affirmative. But did we not have one more objective to complete before the other organic life-forms depart?"
+207,"TEXT_BANALL320_04788_JAMMINGWAY_000_170","Objective...?"
+208,"TEXT_BANALL320_04788_JAMMINGWAY_000_171","Oh! I nearly forgot!"
+209,"TEXT_BANALL320_04788_JAMMINGWAY_100_171","Talkingway! Inventingway! Help me lift this. One, two...hup!"
+210,"TEXT_BANALL320_04788_JAMMINGWAY_000_172","It's for you, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! A trophy befitting the victor of the Hyper Hustle."
+211,"TEXT_BANALL320_04788_JAMMINGWAY_000_173","As you can see, it was designed in the image of the Last Dregs, the Hippo Riders, and also the Dreaming Ways!"
+212,"TEXT_BANALL320_04788_DREAMINGWAY_000_174","That reminds me─we brought a few commemorative gifts as well."
+213,"TEXT_BANALL320_04788_DREAMINGWAY_100_174","Talkingway! Inventingway! Help me lift these. One, two...hrrrgh!"
+214,"TEXT_BANALL320_04788_DREAMINGWAY_000_175","One for the Last Dregs, and one for Svarna! You have an eatery there too, I hear?"
+215,"TEXT_BANALL320_04788_DREAMINGWAY_000_176","Then I hope you'll let us keep you company at mealtimes. Whether it's weather advisories, hopping music, or simply a friendly voice you need, Hope FM is here for you!"
+216,"TEXT_BANALL320_04788_TRNA_000_177","So this is a radio contraption too? Has bigger ears than the other one I saw...but I'll be sure to listen with the crew."
+217,"TEXT_BANALL320_04788_JAMMINGWAY_000_178","I was just thinking we should get one of these! Our patrons are going to love it."
+218,"TEXT_BANALL320_04788_N7000_000_179","<whirr> Projections anticipate increased customer satisfaction in the “ambience” category."
+219,"TEXT_BANALL320_04788_JAMMINGWAY_000_180","Thank you, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. We wouldn't be here if you hadn't brought us together."
+220,"TEXT_BANALL320_04788_JAMMINGWAY_000_181","I think I speak for everyone when I say that this day will shine like a newborn star in our memories. I hope you feel the same."
+221,"TEXT_BANALL320_04788_JAMMINGWAY_000_182","Just don't let it eclipse the possibility of more unforgettable days to come. After all..."
+222,"TEXT_BANALL320_04788_JAMMINGWAY_000_183","Look across the sea, up at the moon, past the distant stars...and you'll find us waiting for you!"
+223,"TEXT_BANALL320_04788_SYSTEM_000_190","You have achieved <hex:024804F201F403><hex:024904F201F503>Allied<hex:0249020103><hex:0248020103> reputation with the Hippo Riders, the Dreaming Ways, and the staff and patrons of the Last Dregs."
+224,"TEXT_BANALL320_04788_SYSTEM_000_191","Through your efforts, your allies from Etheirys to the stars beyond have forged bonds of friendship that promise to remain strong through the years. You are truly a hero to societies throughout the universe!"
+225,"TEXT_BANALL320_04788_N7000_000_000",""

@@ -1,19 +1,19 @@
-﻿key,4,5
-#,,
-offset,0,4
-int32,str,str
-0,,
-1,屏障,"屏障
-抵禦一切傷害"
-2,重生,"重生
-陷入無法戰鬥狀態時自動復活"
-3,浮空,"浮空
-免受地面效果的影響"
-4,中毒,"中毒
-莫古力的回合開始時減少一定體力"
-5,死亡宣告,"死亡宣告
-倒數計時為0時會陷入無法戰鬥狀態，將造成此狀態的敵人擊敗可破除"
-6,止步,"止步
-無法移動"
-7,,
-8,,
+﻿key,0,1,2,3,4,5
+#,,,,,,
+offset,8,12,14,13,0,4
+int32,int32,byte,bit&01,byte,str,str
+0,0,0,False,0,"",""
+1,0,1,True,0,"Barrier","Barrier
+Invulnerable to all damage."
+2,50,0,True,2,"Reraise","Reraise
+Automatic revival upon KO."
+3,0,1,True,1,"Levitation","Levitation
+Floating off the ground and invulnerable to floor effects."
+4,5,3,False,4,"Poison","Poison
+Toxins are causing damage at the start of each turn."
+5,0,5,False,5,"Doom","Doom
+Certain death when counter reaches zero. Effect can only be dispelled by defeating the enemy that inflicted it."
+6,0,1,False,3,"Bind","Bind
+Unable to move."
+7,1100,0,False,0,"",""
+8,100,0,False,0,"",""

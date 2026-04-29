@@ -2,62 +2,62 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_BANVAN603_02199_SEQ_00,<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整（限定職業）<hex:0249020103><hex:0248020103><hex:02100103>西風島的穆納瓦努有事情想要告訴冒險者。
-1,TEXT_BANVAN603_02199_SEQ_01,※本任務為<hex:024804F201FC03><hex:024904F201FD03><hex:0249020103><hex:0248020103> 等級調整（限定職業）任務，<hex:02100103>　需要與接受任務時的職業相同才可繼續進行任務。<hex:02100103><hex:02100103>穆納瓦努希望冒險者去找利努瓦努。和西風島的群雲利努瓦努談談。
-2,TEXT_BANVAN603_02199_SEQ_02,利努瓦努希望冒險者協助他平息先祖英靈的怒火。先前往曲石祭壇，獲取<hex:022811FF0A>EventItem<hex:F61E8C070103>。
-3,TEXT_BANVAN603_02199_SEQ_03,獲得了<hex:022811FF0A>EventItem<hex:F61E8C070103>。再前往袞杜集落，向<hex:02280CFF05>EObj<hex:F61E9EA70103>獻上<hex:022811FF0A>EventItem<hex:F61E8C070103>。
-4,TEXT_BANVAN603_02199_SEQ_04,獻好了<hex:022811FF0A>EventItem<hex:F61E8C070103>。最後對著<hex:02280CFF05>EObj<hex:F61E9EA80103>獻上情感動作「太陽之舞」。
-5,TEXT_BANVAN603_02199_SEQ_05,獻上了「太陽之舞」。向西風島的群雲利努瓦努報告。
-6,TEXT_BANVAN603_02199_SEQ_06,向利努瓦努報告完畢。他十分感謝冒險者幫忙平息了先祖英靈的怒火。作為袞杜族的友人，今後也要幫助他們。
-7,TEXT_BANVAN603_02199_SEQ_07,
-8,TEXT_BANVAN603_02199_SEQ_08,
-9,TEXT_BANVAN603_02199_SEQ_09,
-10,TEXT_BANVAN603_02199_SEQ_10,
-11,TEXT_BANVAN603_02199_SEQ_11,
-12,TEXT_BANVAN603_02199_SEQ_12,
-13,TEXT_BANVAN603_02199_SEQ_13,
-14,TEXT_BANVAN603_02199_SEQ_14,
-15,TEXT_BANVAN603_02199_SEQ_15,
-16,TEXT_BANVAN603_02199_SEQ_16,
-17,TEXT_BANVAN603_02199_SEQ_17,
-18,TEXT_BANVAN603_02199_SEQ_18,
-19,TEXT_BANVAN603_02199_SEQ_19,
-20,TEXT_BANVAN603_02199_SEQ_20,
-21,TEXT_BANVAN603_02199_SEQ_21,
-22,TEXT_BANVAN603_02199_SEQ_22,
-23,TEXT_BANVAN603_02199_SEQ_23,
-24,TEXT_BANVAN603_02199_TODO_00,和群雲利努瓦努對話
-25,TEXT_BANVAN603_02199_TODO_01,獲取<hex:022811FF0A>EventItem<hex:F61E8C070103>
-26,TEXT_BANVAN603_02199_TODO_02,將<hex:022811FF0A>EventItem<hex:F61E8C070103>放在<hex:02280CFF05>EObj<hex:F61E9EA70103>
-27,TEXT_BANVAN603_02199_TODO_03,對<hex:02280CFF05>EObj<hex:F61E9EA80103>做「太陽之舞」的情感動作
-28,TEXT_BANVAN603_02199_TODO_04,向群雲利努瓦努報告
-29,TEXT_BANVAN603_02199_TODO_05,
-30,TEXT_BANVAN603_02199_TODO_06,
-31,TEXT_BANVAN603_02199_TODO_07,
-32,TEXT_BANVAN603_02199_TODO_08,
-33,TEXT_BANVAN603_02199_TODO_09,
-34,TEXT_BANVAN603_02199_TODO_10,
-35,TEXT_BANVAN603_02199_TODO_11,
-36,TEXT_BANVAN603_02199_TODO_12,
-37,TEXT_BANVAN603_02199_TODO_13,
-38,TEXT_BANVAN603_02199_TODO_14,
-39,TEXT_BANVAN603_02199_TODO_15,
-40,TEXT_BANVAN603_02199_TODO_16,
-41,TEXT_BANVAN603_02199_TODO_17,
-42,TEXT_BANVAN603_02199_TODO_18,
-43,TEXT_BANVAN603_02199_TODO_19,
-44,TEXT_BANVAN603_02199_TODO_20,
-45,TEXT_BANVAN603_02199_TODO_21,
-46,TEXT_BANVAN603_02199_TODO_22,
-47,TEXT_BANVAN603_02199_TODO_23,
-48,TEXT_BANVAN603_02199_02199_MUNAVANU_000_001,<hex:022903EB0203>、<hex:022903EB0203>，<hex:02100103>利努瓦努大人有話捎給你，<hex:02100103>讓你有時間的時候去找他一趟。
-49,TEXT_BANVAN603_02199_02199_MUNAVANU_000_010,
-50,TEXT_BANVAN603_02199_02199_LINUVANU_000_020,你來了、你來了，<hex:022903EB0203>，<hex:02100103>事態緊急，我需要你的幫助！
-51,TEXT_BANVAN603_02199_02199_LINUVANU_000_021,昨天我放飛風箏貓占卜了一下，<hex:02100103>結果它轉了好幾個圈最後掉到了雲海之下……<hex:02100103>這肯定預示著先祖的英靈在氣我們袞杜族太窩囊。
-52,TEXT_BANVAN603_02199_02199_LINUVANU_000_022,為了平息英靈的怒火，<hex:02100103>需要讓袞杜族的友人在<hex:02280CFF05>EObj<hex:F61E9EA80103>前獻上<hex:022811FF0A>EventItem<hex:F61E8C070103>，<hex:02100103>並跳上一支太陽之舞……
-53,TEXT_BANVAN603_02199_02199_LINUVANU_000_023,請你、請你去曲石祭壇採<hex:022811FF0A>EventItem<hex:F61E8C070103>，<hex:02100103>然後在袞杜集落平息英靈的怒火！
-54,TEXT_BANVAN603_02199_02199_LINUVANU_000_030,為了平息英靈的怒火，<hex:02100103>需要讓袞杜族的友人在<hex:02280CFF05>EObj<hex:F61E9EA80103>前獻上<hex:022811FF0A>EventItem<hex:F61E8C070103>，<hex:02100103>並跳上一支太陽之舞……
-55,TEXT_BANVAN603_02199_02199_LINUVANU_000_035,請你、請你去曲石祭壇採<hex:022811FF0A>EventItem<hex:F61E8C070103>，<hex:02100103>然後在袞杜集落平息英靈的怒火！
-56,TEXT_BANVAN603_02199_02199_SYSTEM_000_040,只要在這裡獻上「太陽之舞」就可以了……
-57,TEXT_BANVAN603_02199_02199_LINUVANU_000_070,回來啦、回來啦，<hex:02100103>你已經向<hex:02280CFF05>EObj<hex:F61E9EA80103>獻上太陽之舞了吧，<hex:02100103>謝謝你！這下先祖的英靈肯定能夠安息了。
-58,TEXT_BANVAN603_02199_02199_LINUVANU_000_071,但真沒想到風箏貓會掉進雲海裡。<hex:02100103>它不會是被雲海藤熏醉了吧……<hex:02100103>大概不會吧……
+0,"TEXT_BANVAN603_02199_SEQ_00","Muna Vanu has a message to pass on to you.<hex:02100103>※The difficulty of this quest will be synced to your current level."
+1,"TEXT_BANVAN603_02199_SEQ_01","Muna Vanu passes on a message that a concerned Linu Vanu wishes to speak with you. Details are lacking─you will need to speak with him yourself for further details.<hex:02100103><hex:02100103>※Please note that the difficulty of this quest has been synced to your current level. Furthermore, you may not proceed with a class or job that is different from when you accepted this quest. "
+2,"TEXT_BANVAN603_02199_SEQ_02","Upon speaking with Linu Vanu, you learn that his recent attempts at soothsaying bear ill portent for the tribe. A gaelicat he released fell promptly from the sky, to be seen no more. Fearing that the Gundu's ancestors look down upon the tribe with disdain, he bids you travel to the Gundu totem at old Ok' Gundu, and place an offering of weeping wildwort. Present this offering along with the sundrop dance to quell their fury. Weeping wildwort can be found growing wild in patches at the Cromlech."
+3,"TEXT_BANVAN603_02199_SEQ_03","You have obtained the weeping wildwort. Take these flowers to Ok' Gundu and place them before the Gundu totem."
+4,"TEXT_BANVAN603_02199_SEQ_04","The weeping wildwort flowers lie at the foot of the Gundu totem. Dedicate this offering to the ancestors by performing the sundrop dance."
+5,"TEXT_BANVAN603_02199_SEQ_05","The flowers have been accepted. The contract is sealed. Return to Linu Vanu."
+6,"TEXT_BANVAN603_02199_SEQ_06","Linu Vanu thanks you for your assistance in calming the rage of his ancestors. However, he does now recall that the gaelicat he released to obtain this omen smelled strongly of intoxicating cloudcrawler..."
+7,"TEXT_BANVAN603_02199_SEQ_07",""
+8,"TEXT_BANVAN603_02199_SEQ_08",""
+9,"TEXT_BANVAN603_02199_SEQ_09",""
+10,"TEXT_BANVAN603_02199_SEQ_10",""
+11,"TEXT_BANVAN603_02199_SEQ_11",""
+12,"TEXT_BANVAN603_02199_SEQ_12",""
+13,"TEXT_BANVAN603_02199_SEQ_13",""
+14,"TEXT_BANVAN603_02199_SEQ_14",""
+15,"TEXT_BANVAN603_02199_SEQ_15",""
+16,"TEXT_BANVAN603_02199_SEQ_16",""
+17,"TEXT_BANVAN603_02199_SEQ_17",""
+18,"TEXT_BANVAN603_02199_SEQ_18",""
+19,"TEXT_BANVAN603_02199_SEQ_19",""
+20,"TEXT_BANVAN603_02199_SEQ_20",""
+21,"TEXT_BANVAN603_02199_SEQ_21",""
+22,"TEXT_BANVAN603_02199_SEQ_22",""
+23,"TEXT_BANVAN603_02199_SEQ_23",""
+24,"TEXT_BANVAN603_02199_TODO_00","Speak with Linu Vanu."
+25,"TEXT_BANVAN603_02199_TODO_01","Gather weeping wildwort at the Cromlech."
+26,"TEXT_BANVAN603_02199_TODO_02","Place the wildwort at the Gundu totem."
+27,"TEXT_BANVAN603_02199_TODO_03","Perform the /sundropdance before the Gundu totem."
+28,"TEXT_BANVAN603_02199_TODO_04","Report to Linu Vanu."
+29,"TEXT_BANVAN603_02199_TODO_05",""
+30,"TEXT_BANVAN603_02199_TODO_06",""
+31,"TEXT_BANVAN603_02199_TODO_07",""
+32,"TEXT_BANVAN603_02199_TODO_08",""
+33,"TEXT_BANVAN603_02199_TODO_09",""
+34,"TEXT_BANVAN603_02199_TODO_10",""
+35,"TEXT_BANVAN603_02199_TODO_11",""
+36,"TEXT_BANVAN603_02199_TODO_12",""
+37,"TEXT_BANVAN603_02199_TODO_13",""
+38,"TEXT_BANVAN603_02199_TODO_14",""
+39,"TEXT_BANVAN603_02199_TODO_15",""
+40,"TEXT_BANVAN603_02199_TODO_16",""
+41,"TEXT_BANVAN603_02199_TODO_17",""
+42,"TEXT_BANVAN603_02199_TODO_18",""
+43,"TEXT_BANVAN603_02199_TODO_19",""
+44,"TEXT_BANVAN603_02199_TODO_20",""
+45,"TEXT_BANVAN603_02199_TODO_21",""
+46,"TEXT_BANVAN603_02199_TODO_22",""
+47,"TEXT_BANVAN603_02199_TODO_23",""
+48,"TEXT_BANVAN603_02199_02199_MUNAVANU_000_001","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! Linu Vanu leaves word that he wishes to speak with you. He seems worried. Please speak with him when you can spare time to aid our tribe once more."
+49,"TEXT_BANVAN603_02199_02199_MUNAVANU_000_010",""
+50,"TEXT_BANVAN603_02199_02199_LINUVANU_000_020","Ah, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, dependable as always, you have come to hear my plea."
+51,"TEXT_BANVAN603_02199_02199_LINUVANU_000_021","Yesterday, Linu Vanu releases gaelicat to skies, to divine omens and peer into Gundu's future. But gaelicat lurches and falls from sky like great gaelicat-shaped stone! Portent is real and clear as morning sky: Gundu ancestors─ great heroes all─look down in shame and fury at tribe's lack of devotion."
+52,"TEXT_BANVAN603_02199_02199_LINUVANU_000_022","We must appease honored warriors of Gundu legend. We must calm their rage. Please, make offering before great Gundu totem at ruins of old village. Place weeping wildwort before totem and perform <hex:024804F201F403><hex:024904F201F503>sundrop dance<hex:0249020103><hex:0248020103>, that ancestors may smile upon us once more."
+53,"TEXT_BANVAN603_02199_02199_LINUVANU_000_023","Weeping wildwort hangs head in shame, just as Gundu do. It shows tribe's penitence for our neglect. Gather these flowers at the Cromlech, place them before Gundu totem, and rouse ancestors from slumber with passionate <hex:024804F201F403><hex:024904F201F503>sundrop dance<hex:0249020103><hex:0248020103>."
+54,"TEXT_BANVAN603_02199_02199_LINUVANU_000_030","Weeping wildwort shows tribe's remorse. Sundrop dance shows tribe's strength and resolve─to honor our dead with our lives."
+55,"TEXT_BANVAN603_02199_02199_LINUVANU_000_035","Find weeping wildwort at the Cromlech. Find Gundu totem at ruins of old Ok' Gundu. Offer fresh wildwort to ancestors and rouse them with a mighty <hex:024804F201F403><hex:024904F201F503>sundrop dance<hex:0249020103><hex:0248020103>."
+56,"TEXT_BANVAN603_02199_02199_SYSTEM_000_040","The ancestors await the sundrop dance to seal this sign of oblation."
+57,"TEXT_BANVAN603_02199_02199_LINUVANU_000_070","Many thanks, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Your offering calms fiery hearts of mighty Gundu forebears."
+58,"TEXT_BANVAN603_02199_02199_LINUVANU_000_071","But after netherling leaves, Linu Vanu thinks further on topic of gaelicat. Come to think of it, strong smell of cloudcrawler surrounds gaelicat! Perhaps it does not bring dark omens, but is merely drunk on cloudcrawler...?"

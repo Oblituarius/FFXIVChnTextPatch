@@ -2,125 +2,125 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_CLSALC600_02069_SEQ_00,喪靈鐘的威爾特維克希望冒險者對「克隆人」進行調查。<hex:02100103><hex:02100103><hex:024804F201F403><hex:024904F201F503>要製作為完成本任務所需的物品，需要習得煉金秘籍第三卷。<hex:0249020103><hex:0248020103>
-1,TEXT_CLSALC600_02069_SEQ_01,這一連串事件的幕後黑手是近東出身的一名叫做瓦伍德的煉金術士。向查奈奈詢問關於他製作的人造生命體——克隆人的事情。查奈奈現在似乎在摩杜納的聖寇伊納克調查地。
-2,TEXT_CLSALC600_02069_SEQ_02,和查奈奈進行了交談。瓦伍德的最終目標，是通過克隆人獲得「永恆的生命」。和銀淚湖北岸的查奈奈匯合，見證瓦伍德被捕的瞬間。
-3,TEXT_CLSALC600_02069_SEQ_03,瓦伍德終於落網。返回喪靈鐘，和威爾特維克談談。
-4,TEXT_CLSALC600_02069_SEQ_04,和威爾特維克進行了交談。瓦伍德並不承認自己是煉金術士。為了推翻他的證詞，需要藉助烏爾達哈煉金術士公會會長塞文利安的智慧。
-5,TEXT_CLSALC600_02069_SEQ_05,和塞文利安進行了交談。使用他製作的試劑，便可以推翻瓦伍德的證詞。將<hex:022811FF0A>EventItem<hex:F61E8B2C0103>交給喪靈鐘的威爾特維克。
-6,TEXT_CLSALC600_02069_SEQ_06,和威爾特維克進行了交談。要證明瓦伍德的罪行，必須要用和他所持有的魔導書同型的魔導書才行。製作<hex:02280DFF07>ItemHQ<hex:F2299B0103>，並交給喪靈鐘的威爾特維克。<hex:02100103><hex:02100103><hex:024804F201F403><hex:024904F201F503>要製作<hex:02280DFF07>ItemHQ<hex:F2299B0103>，需要習得煉金秘籍第三卷。<hex:0249020103><hex:0248020103>
-7,TEXT_CLSALC600_02069_SEQ_07,在冒險者公會總部的特使面前證明了瓦伍德的罪行。他雖將自己的靈魂轉移到克隆人體內妄圖逃走，但在冒險者的阻止下未能得逞。最後和喪靈鐘的威爾特維克對話，領取報酬。
-8,TEXT_CLSALC600_02069_SEQ_08,從威爾特維克那裡得到了報酬。這一連串的案件也以主謀者瓦伍德的有罪判決而落下了帷幕。今後也要活用通過擔任調查顧問而學到的各種知識和經驗，在無盡的探究之路上繼續前行。<hex:02100103><hex:02100103>※滿足下列條件後，可以從煉金術士公會的塞文利安那裡領取新的職業任務。<hex:02100103>完成「龍詩戰爭尾聲主線任務」中「命運的止境」。
-9,TEXT_CLSALC600_02069_SEQ_09,
-10,TEXT_CLSALC600_02069_SEQ_10,
-11,TEXT_CLSALC600_02069_SEQ_11,
-12,TEXT_CLSALC600_02069_SEQ_12,
-13,TEXT_CLSALC600_02069_SEQ_13,
-14,TEXT_CLSALC600_02069_SEQ_14,
-15,TEXT_CLSALC600_02069_SEQ_15,
-16,TEXT_CLSALC600_02069_SEQ_16,
-17,TEXT_CLSALC600_02069_SEQ_17,
-18,TEXT_CLSALC600_02069_SEQ_18,
-19,TEXT_CLSALC600_02069_SEQ_19,
-20,TEXT_CLSALC600_02069_SEQ_20,
-21,TEXT_CLSALC600_02069_SEQ_21,
-22,TEXT_CLSALC600_02069_SEQ_22,
-23,TEXT_CLSALC600_02069_SEQ_23,
-24,TEXT_CLSALC600_02069_TODO_00,和聖寇伊納克調查地的查奈奈對話
-25,TEXT_CLSALC600_02069_TODO_01,和歌詠裂谷西邊的查奈奈匯合
-26,TEXT_CLSALC600_02069_TODO_02,和威爾特維克對話
-27,TEXT_CLSALC600_02069_TODO_03,和煉金術士公會的塞文利安對話
-28,TEXT_CLSALC600_02069_TODO_04,將<hex:022811FF0A>EventItem<hex:F61E8B2C0103>交給喪靈鐘的威爾特維克
-29,TEXT_CLSALC600_02069_TODO_05,<hex:020848E3E802E803FF17>製作<hex:02280DFF07>ItemHQ<hex:F2299B0103><hex:FF29>將<hex:02280DFF07>ItemHQ<hex:F2299B0103>交給威爾特維克<hex:03>
-30,TEXT_CLSALC600_02069_TODO_06,和喪靈鐘的威爾特維克對話
-31,TEXT_CLSALC600_02069_TODO_07,
-32,TEXT_CLSALC600_02069_TODO_08,
-33,TEXT_CLSALC600_02069_TODO_09,
-34,TEXT_CLSALC600_02069_TODO_10,
-35,TEXT_CLSALC600_02069_TODO_11,
-36,TEXT_CLSALC600_02069_TODO_12,
-37,TEXT_CLSALC600_02069_TODO_13,
-38,TEXT_CLSALC600_02069_TODO_14,
-39,TEXT_CLSALC600_02069_TODO_15,
-40,TEXT_CLSALC600_02069_TODO_16,
-41,TEXT_CLSALC600_02069_TODO_17,
-42,TEXT_CLSALC600_02069_TODO_18,
-43,TEXT_CLSALC600_02069_TODO_19,
-44,TEXT_CLSALC600_02069_TODO_20,
-45,TEXT_CLSALC600_02069_TODO_21,
-46,TEXT_CLSALC600_02069_TODO_22,
-47,TEXT_CLSALC600_02069_TODO_23,
-48,TEXT_CLSALC600_02069_WILTWAEK_000_000,調查終於進入了最終階段！<hex:02100103>根據那名拉拉菲爾族地痞的證詞，<hex:02100103>案件的全貌終於明了了！
-49,TEXT_CLSALC600_02069_WILTWAEK_000_001,主謀是一名煉金術士……<hex:02100103>本以為是一個犯罪集團，<hex:02100103>但其餘的共犯似乎只是普通的僱傭兵而已。
-50,TEXT_CLSALC600_02069_WILTWAEK_000_002,……策劃了這一切的幕後黑手叫做瓦伍德！<hex:02100103>他來自近東薩維奈島，經常研究那些邪魔外道的禁術，<hex:02100103>是個惡名昭彰的危險人物。
-51,TEXT_CLSALC600_02069_WILTWAEK_000_003,關於他製造的人造生命體「克隆人」……<hex:02100103>在聖寇伊納克調查地好像有知情人。<hex:02100103>你過去一趟，跟先到一步的查奈奈談談吧。
-52,TEXT_CLSALC600_02069_WILTWAEK_000_010,關於他製造的人造生命體「克隆人」……<hex:02100103>在聖寇伊納克調查地好像有知情人。<hex:02100103>你過去一趟，跟先到一步的查奈奈談談吧。
-53,TEXT_CLSALC600_02069_RAMMBROES_000_020,冒險者公會的一位叫查奈奈的女士來問過話了。<hex:02100103>只要對古代亞拉戈史有所涉獵，<hex:02100103>就應該知道關於人造生命體「克隆人」的研究確實並不少見。
-54,TEXT_CLSALC600_02069_RAMMBROES_000_030,我們曾經接觸過古代亞拉戈遺產「烏內」和「多加」，<hex:02100103>從而對通過魔科學誕生的人造生命體「克隆人」<hex:02100103>有了相當多的了解。
-55,TEXT_CLSALC600_02069_RAMMBROES_000_40,然而，想不到在「克隆人」技術鮮為人知的現代，<hex:02100103>居然有煉金術士妄圖復活這門技術……<hex:02100103>雖然並不完全，但是他的行動也足以引起我們的警惕了。
-56,TEXT_CLSALC600_02069_CHANENE_000_060,我已經向那位叫拉姆布魯斯的先生打聽過了。<hex:02100103>他告訴我，古代亞拉戈帝國就曾經有過<hex:02100103>人造生命體「克隆人」的研究，而且有史為據！
-57,TEXT_CLSALC600_02069_CHANENE_000_070,話說，你是拉姆布魯斯先生的熟人嗎？他跟我說，<hex:02100103>你對古代亞拉戈帝國的人造生命體「克隆人」知之甚詳……<hex:02100103>是真的假的呀？！
-58,TEXT_CLSALC600_02069_CHANENE_000_080,所謂克隆人，似乎就是肉體的複製品……「沒有靈魂的分身」。<hex:02100103>結合共犯的證言考慮，瓦伍德的目的恐怕是獲得「永恆的生命」！<hex:02100103>他想通過將自己的靈魂不斷移入分身，從而不老不死！
-59,TEXT_CLSALC600_02069_CHANENE_000_081,……這樣一來就都真相大白了！<hex:02100103>之所以偷走古代亞拉戈遺物，是為了煉成克隆人。<hex:02100103>之所以拐走無辜的人，是為了進行人體實驗。
-60,TEXT_CLSALC600_02069_CHANENE_000_082,那對雙胞胎，應該就是移植靈魂實驗的犧牲品……<hex:02100103>遺體是真正的失蹤者，而活著的則是克隆人。<hex:02100103>也就是說實驗失敗了，那名男性丟掉了性命……
-61,TEXT_CLSALC600_02069_CHANENE_000_083,近東裝扮的年輕人和精神恍惚的失蹤者……<hex:02100103>這兩人之所以一言不發，<hex:02100103>是因為他們正是沒有靈魂的人造生命體「克隆人」！
-62,TEXT_CLSALC600_02069_CHANENE_000_084,……但是瓦伍德的惡行也到此為止了！<hex:02100103>我們查到他在銀淚湖北岸建起了新的基地。<hex:02100103>咱們就在那裡匯合吧，這次一定要抓到他！
-63,TEXT_CLSALC600_02069_WILTWAEK_000_090,我們查到瓦伍德在銀淚湖北岸建起了新的基地。<hex:02100103>準備進行突襲！
-64,TEXT_CLSALC600_02069_WILTWAEK_000_095,你來啦！<hex:02100103>這樣一來瓦伍德就無路可逃了！
-65,TEXT_CLSALC600_02069_CHANENE_000_110,大家都準備好了吧！<hex:02100103>一鼓作氣抓住瓦伍德！
-66,TEXT_CLSALC600_02069_WILTWAEK_000_111,那傢伙的老巢就在深處。<hex:02100103>上吧，突擊！
-67,TEXT_CLSALC600_02069_CHANENE_000_112,成功抓捕了瓦伍德！<hex:02100103>太棒了，事件完美解決！
-68,TEXT_CLSALC600_02069_WAOUD_000_113,哼……不過空歡喜而已……<hex:02100103>愚蠢的凡人們……
-69,TEXT_CLSALC600_02069_WILTWAEK_000_114,那個古怪的老人果然是瓦伍德啊。<hex:02100103>連像樣的抵抗都沒做就乖乖就範了麼……<hex:02100103>難道他還在計劃著什麼？
-70,TEXT_CLSALC600_02069_WILTWAEK_000_115,好了，<hex:022903EB0203>，<hex:02100103>我們也先回去吧。
-71,TEXT_CLSALC600_02069_WILTWAEK_000_130,對瓦伍德的審訊正在進行中，<hex:02100103>不過那混蛋居然一口咬定自己不是瓦伍德！<hex:02100103>作為治安人員，必須得提出確鑿的反證才行。
-72,TEXT_CLSALC600_02069_WILTWAEK_000_131,……不過，許多證據都證明了主謀是名高段的煉金術士。<hex:02100103>這樣一來嫌疑人就屈指可數了。<hex:02100103>比如有名的加爾贊大師，塞文利安……還有你！
-73,TEXT_CLSALC600_02069_WILTWAEK_000_132,"……別擔心，你們有不在場證明。關鍵在於,<hex:02100103>只要證明那老人是能和你們比肩的煉金術士就行了。<hex:02100103>怎麼樣，能拜託你和塞文利安一起想想辦法嗎？"
-74,TEXT_CLSALC600_02069_WILTWAEK_000_133,那傢伙在被抓捕歸案時，<hex:02100103>手裡還拿著<hex:02280DFF07>ItemHQ<hex:F2299B0103>，<hex:02100103>要是這東西能作為證據，事情就簡單了……
-75,TEXT_CLSALC600_02069_WILTWAEK_000_140,只要證明那老人是能和你們比肩的煉金術士就行了。<hex:02100103>怎麼樣，能拜託你和塞文利安一起想想辦法嗎？
-76,TEXT_CLSALC600_02069_WILTWAEK_000_141,那傢伙在被抓捕歸案時，<hex:02100103>手裡還拿著<hex:02280DFF07>ItemHQ<hex:F2299B0103>，<hex:02100103>要是這東西能作為證據，事情就簡單了……
-77,TEXT_CLSALC600_02069_SEVERIAN_000_160,親愛的助手啊，找我有什麼事？<hex:02100103>……是嗎，你們抓到那起連環案件的主謀了？<hex:02100103>煉金術士瓦伍德嗎，這名字我有印象。
-78,TEXT_CLSALC600_02069_SEVERIAN_000_161,原來如此，想證明他就是犯人啊。<hex:02100103>哼，這等世俗的雜活……<hex:02100103>等等……這可是驗證那種試劑效用的絕佳機會！
-79,TEXT_CLSALC600_02069_SEVERIAN_000_162,能夠製作他手中那本魔導書的煉金術士可謂鳳毛麟角。<hex:02100103>也就是說，那本書很有可能是瓦伍德親自煉成的。<hex:02100103>……嗯，只要證明這一點就足夠了！
-80,TEXT_CLSALC600_02069_SEVERIAN_000_163,煉金術士的乙太都有自己固有的顏色，其顏色因人而異。<hex:02100103>在將魔紋寫入魔導書時，通過附魔墨水，<hex:02100103>製作者的一部分乙太會混入魔導書之中。
-81,TEXT_CLSALC600_02069_SEVERIAN_000_164,一直以來，煉金術界都沒有分辨乙太顏色的手段。<hex:02100103>……至今為止呢。
-82,TEXT_CLSALC600_02069_SEVERIAN_000_165,然而我這裡現在就有能夠令肉眼識別出乙太顏色的粉末。<hex:02100103>比如說，如果我的乙太是紫色的，<hex:02100103>那麼我所製作的魔導書也必定會顯示出紫色的反應！
-83,TEXT_CLSALC600_02069_SEVERIAN_000_166,只要使用我開發的這種粉末，就能鎖定魔導書的製作者！<hex:02100103>好了，你就把這試劑拿給威爾特維克吧！
-84,TEXT_CLSALC600_02069_SEVERIAN_000_170,只要使用我開發的這種粉末，就能鎖定魔導書的製作者！<hex:02100103>好了，你就把這試劑拿給威爾特維克吧！
-85,TEXT_CLSALC600_02069_WILTWAEK_000_190,……原來如此，塞文利安這傢伙還挺有一手的。<hex:02100103>雖然聽起來很簡單，但其實是很厲害的發明吧？<hex:02100103>快把<hex:022811FF0A>EventItem<hex:F61E8B2C0103>給我看看。
-86,TEXT_CLSALC600_02069_WILTWAEK_000_200,……唔，這就是他說的試劑嗎。<hex:02100103>如果製作者不同，乙太的顏色也不同的話……<hex:02100103>就需要準備一本他人製作的相同魔導書，作為比較對象才行。
-87,TEXT_CLSALC600_02069_WILTWAEK_000_201,<hex:022903EB0203>，為了徹底解決事件，這是最後的委託。<hex:02100103>希望你做一本<hex:02280DFF07>ItemHQ<hex:F2299B0103>！<hex:02100103>這種難以製作的東西……就只有拜託你了！
-88,TEXT_CLSALC600_02069_SYSTEM_900_000,要製作<hex:02280DFF07>ItemHQ<hex:F2299B0103>，<hex:02100103>需要習得煉金秘籍第三卷。
-89,TEXT_CLSALC600_02069_WILTWAEK_000_220,是有罪還是無罪……為了給瓦伍德下達最終的判決，<hex:02100103>冒險者公會總部專門派來了特使。<hex:02100103>案件的審理將會在「第七天堂」進行。
-90,TEXT_CLSALC600_02069_WILTWAEK_000_221,證據以及瓦伍德的押送都已經準備妥當了。<hex:02100103>接下來只要你做好<hex:02280DFF07>ItemHQ<hex:F2299B0103>，<hex:02100103>就可以開庭審理了！
-91,TEXT_CLSALC600_02069__GUILDSREPRESENTATIVE_000_500,那麼，現在開庭。<hex:02100103>……威爾特維克，請做開庭陳詞。
-92,TEXT_CLSALC600_02069_WILTWAEK_000_501,……如上所述，此人用複雜的作案手法將人們綁架，<hex:02100103>並將被綁架的人用於可怕的人造生命體實驗。<hex:02100103>那些沒有靈魂的克隆人……就是不容辯駁的有力證據！
-93,TEXT_CLSALC600_02069__GUILDSREPRESENTATIVE_000_502,但是，被告本人似乎否認自己是煉金術士。<hex:02100103>這是怎麼回事？
-94,TEXT_CLSALC600_02069_CHANENE_000_503,接下來就要證明，他所說的都是謊話！
-95,TEXT_CLSALC600_02069_CHANENE_000_504,這本書是被告瓦伍德持有的魔導書。<hex:02100103>能夠製作出蘊含如此巨大魔力的魔導書的人，<hex:02100103>全艾歐澤亞也只有寥寥數人而已！
-96,TEXT_CLSALC600_02069_SLAFBORN_000_505,……也就是說只要證明這本書是他本人所製，<hex:02100103>就能確定他是擁有高端技術的煉金術士了？
-97,TEXT_CLSALC600_02069_WILTWAEK_000_506,在魔導書上寫下魔紋時，<hex:02100103>書寫時的「墨水」會反映出製作者獨有的乙太特性。<hex:02100103>……就好比煉金術士的「指紋」一樣。
-98,TEXT_CLSALC600_02069_WILTWAEK_000_507,為了讓肉眼也能看清這種特性，<hex:02100103>我們從煉金術士公會借來了一種<hex:02100103>可以令乙太的性質以顏色顯示的試劑。
-99,TEXT_CLSALC600_02069__GUILDSREPRESENTATIVE_000_508,哦？
-100,TEXT_CLSALC600_02069_CHANENE_000_509,這位是<hex:022903EB0203>閣下。作為艾歐澤亞首屈一指的煉金術士，<hex:02100103><hex:02080DE905FF04>她<hex:FF04>他<hex:03>在這次偵破過程中給予了我們莫大的幫助。<hex:02100103>……那麼，請原諒我的失禮。
-101,TEXT_CLSALC600_02069_CHANENE_000_510,能夠看到，<hex:022903EB0203>閣下的乙太顯示出「藍色」的性質。
-102,TEXT_CLSALC600_02069_CHANENE_100_510,另一邊，這是<hex:022903EB0203>閣下所製作的魔導書。
-103,TEXT_CLSALC600_02069__GUILDSREPRESENTATIVE_000_511,……原來如此，和製作者顯示的顏色相同。<hex:02100103>也就是說只要使用這種試劑，<hex:02100103>就能確定魔導書的製作者了嗎？
-104,TEXT_CLSALC600_02069_CHANENE_000_512,接下來，對被告瓦伍德先生，<hex:02100103>和他所持有的魔導書重覆同樣的實驗看看。
-105,TEXT_CLSALC600_02069_SLAFBORN_000_513,噢噢……<hex:02100103>如果書是他本人製作的，<hex:02100103>就應該顯示「紅色」的性質咯！
-106,TEXT_CLSALC600_02069__GUILDSREPRESENTATIVE_000_514,證據確鑿了啊。毫無疑問……<hex:02100103>被告就是在近東惡名昭彰的煉金術士瓦伍德！<hex:02100103>瓦伍德，你還有什麼要反駁的嗎？
-107,TEXT_CLSALC600_02069_WILTWAEK_000_515,從押送時一直就是這個樣子。<hex:02100103>就像是「丟了魂」似的……
-108,TEXT_CLSALC600_02069_CHANENE_000_516,威爾特維克，快追！<hex:02100103>那邊的才是真正的瓦伍德！
-109,TEXT_CLSALC600_02069_WILTWAEK_000_517,怎、怎麼回事？！
-110,TEXT_CLSALC600_02069_CHANENE_000_518,那傢伙是瓦伍德的克隆人啊！<hex:02100103>他一定是在押送途中，趁機轉移了靈魂！
-111,TEXT_CLSALC600_02069_WILTWAEK_000_519,<hex:022903EB0203>，你又立了大功啊！<hex:02100103>不收下點謝禮我可過意不去！
-112,TEXT_CLSALC600_02069_CHANENE_000_600,<hex:022903EB0203>，真是辛苦你了！<hex:02100103>還好有你在，不然最後要是讓他跑了，<hex:02100103>還真不知道怎麼收場呢！
-113,TEXT_CLSALC600_02069_WILTWAEK_000_610,<hex:022903EB0203>，辛苦你了！<hex:02100103>想不到那名近東裝扮的年輕人居然是瓦伍德的克隆人。<hex:02100103>難道說，你早就發現了嗎？
-114,TEXT_CLSALC600_02069_CHANENE_000_611,真是危險啊……<hex:02100103>要想轉移靈魂，獲得永恆的生命，年輕的分身是必須的。<hex:02100103>所以早早準備好了年輕的克隆人也不奇怪啊。
-115,TEXT_CLSALC600_02069_WILTWAEK_000_612,恐怕他是故意讓我們抓到那個克隆人的吧……<hex:02100103>作為最終的逃脫手段。
-116,TEXT_CLSALC600_02069_WILTWAEK_100_612,今後要那傢伙好好償還一下自己所犯的罪孽。<hex:02100103>反正他也返老還童了，有的是時間！
-117,TEXT_CLSALC600_02069_WILTWAEK_000_613,多虧了搜查顧問閣下，案件才得到了完美解決！<hex:02100103>下次要是再發生什麼事，也得拜託你咯！<hex:02100103>不過說歸說，要是再發生這麼複雜的案件，還真是吃不消啊！
-118,TEXT_CLSALC600_02069_CHANENE_000_614,希望下次還有機會能3人一起挑戰難題！<hex:02100103>可以的話，但願下次的難題中不要再有人遭受不幸了。<hex:02100103>那麼<hex:022903EB0203>……我們改日再見！
-119,TEXT_CLSALC600_02069_SYSTEM_000_500,「煉金術士」的故事到此告一段落！<hex:02100103>要開始接下來的「煉金術士」職業任務，<hex:02100103>需要滿足以下條件。
-120,TEXT_CLSALC600_02069_SYSTEM_000_501,完成「龍詩戰爭尾聲主線任務」中「命運的止境」。
-121,TEXT_CLSALC600_02069_SYSTEM_000_502,滿足條件後，和煉金術士公會的塞文利安對話，<hex:02100103>即可開始新的職業任務！
+0,"TEXT_CLSALC600_02069_SEQ_00","Wiltwaek has a look of victory to him.<hex:02100103><hex:02100103><hex:024804F201F403><hex:024904F201F503>In order to complete this quest, you must have learned the advanced recipes contained within <hex:021A020203>Master Alchemist III<hex:021A020103>.<hex:0249020103><hex:0248020103>"
+1,"TEXT_CLSALC600_02069_SEQ_01","It seems your suspect has provided the name of the mastermind: Waoud, an alchemist from the Near East. Chanene has gone to ascertain more about these so-called clones from the Sons of Saint Coinach. Venture to their headquarters at Saint Coinach's Find to find out what she has learned."
+2,"TEXT_CLSALC600_02069_SEQ_02","Chanene has learned much about the clones from Rammbroes. They are empty vessels, without souls, and from this Chanene hypothesizes that Waoud means to transfer his own spirit into younger copies of himself, and gain eternal life in the process. She breathlessly tells you that Waoud has established a new base to the southeast of Revenant's Toll. Meet her there to capture this criminal mastermind."
+3,"TEXT_CLSALC600_02069_SEQ_03","You capture Waoud without a struggle. Wiltwaek finds this perplexing, and asks you await him at your usual spot in Revenant's Toll so he may question the suspect."
+4,"TEXT_CLSALC600_02069_SEQ_04","You find Wiltwaek frustrated. It seems that Waoud is now denying that he is Waoud, and that he is an alchemist. Given that the evidence against him is circumstantial, Wiltwaek bids you take the one thing found on your suspect─a copy of <hex:021A020203>Noble Gold<hex:021A020103>─to Guildmaster Severian, and ask him for proof that Waoud is your master criminal."
+5,"TEXT_CLSALC600_02069_SEQ_05","Severian gives you two important pieces of information. Firstly, only the very best of alchemists can create a copy of <hex:021A020203>Noble Gold<hex:021A020103>. Secondly, each alchemist's aether has a unique color to it, which is transferred to any grimoires created through the enchanted ink inscribed within. While normally invisible to the naked eye, the guildmaster has invented a powder to render it visible─spectrolium. With this, you can prove that Waoud created the copy of <hex:021A020203>Noble Gold<hex:021A020103>, and that he is a master alchemist. Return now to Wiltwaek with the good news."
+6,"TEXT_CLSALC600_02069_SEQ_06","You hand the spectrolium to a grateful Wiltwaek and explain its purpose. Now, your friend informs you, all that is left to do is to create another high-quality copy of <hex:021A020203>Noble Gold<hex:021A020103> to prove that Severian's concoction is sound. Craft one now to use at Waoud's trial.<hex:02100103><hex:02100103><hex:024804F201F403><hex:024904F201F503>In order to complete this quest, you must have learned the advanced recipes contained within <hex:021A020203>Master Alchemist III<hex:021A020103>.<hex:0249020103><hex:0248020103>"
+7,"TEXT_CLSALC600_02069_SEQ_07","You watch as Wiltwaek painstakingly crafts his argument from each and every piece of evidence you obtained. With Chanene's help, he also effectively demonstrates that Waoud is indeed a master alchemist, and therefore the architect of these foul murders. However, even when accused point blank, Waoud is strangely silent. You look across the floor, and see the Near Eastern youth─whose eyes suddenly stare back at you. The clone makes a bolt for the door, and Chanene realizes that Waoud must have already transferred his soul into this once-empty vessel. Though Wiltwaek is slow on the uptake, he nevertheless charges and subdues the new Waoud. Speak with him now to wrap up this case once and for all."
+8,"TEXT_CLSALC600_02069_SEQ_08","Wiltwaek and Chanene both thank you for your aid as a consulting alchemist, and hope that you will have happier reason to work together in the future.<hex:02100103><hex:02100103>※The next alchemist quest will be available from Severian once you have completed the main scenario quest “The Far Edge of Fate.”"
+9,"TEXT_CLSALC600_02069_SEQ_09",""
+10,"TEXT_CLSALC600_02069_SEQ_10",""
+11,"TEXT_CLSALC600_02069_SEQ_11",""
+12,"TEXT_CLSALC600_02069_SEQ_12",""
+13,"TEXT_CLSALC600_02069_SEQ_13",""
+14,"TEXT_CLSALC600_02069_SEQ_14",""
+15,"TEXT_CLSALC600_02069_SEQ_15",""
+16,"TEXT_CLSALC600_02069_SEQ_16",""
+17,"TEXT_CLSALC600_02069_SEQ_17",""
+18,"TEXT_CLSALC600_02069_SEQ_18",""
+19,"TEXT_CLSALC600_02069_SEQ_19",""
+20,"TEXT_CLSALC600_02069_SEQ_20",""
+21,"TEXT_CLSALC600_02069_SEQ_21",""
+22,"TEXT_CLSALC600_02069_SEQ_22",""
+23,"TEXT_CLSALC600_02069_SEQ_23",""
+24,"TEXT_CLSALC600_02069_TODO_00","Speak with Chanene at Saint Coinach's Find."
+25,"TEXT_CLSALC600_02069_TODO_01","Rendezvous with Chanene to the southeast of Revenant's Toll."
+26,"TEXT_CLSALC600_02069_TODO_02","Speak with Wiltwaek."
+27,"TEXT_CLSALC600_02069_TODO_03","Speak with Severian at the Alchemists' Guild."
+28,"TEXT_CLSALC600_02069_TODO_04","Deliver the onze of spectrolium to Wiltwaek."
+29,"TEXT_CLSALC600_02069_TODO_05","<hex:02087FE3E802E803FF34>Create a copy of <hex:021A020203>Noble Gold<hex:021A020103> <hex:02280AFF06>Addon<hex:0A0103><hex:FF43>Deliver the copy of <hex:021A020203>Noble Gold<hex:021A020103> <hex:02280AFF06>Addon<hex:0A0103> to Wiltwaek<hex:03>."
+30,"TEXT_CLSALC600_02069_TODO_06","Speak with Wiltwaek."
+31,"TEXT_CLSALC600_02069_TODO_07",""
+32,"TEXT_CLSALC600_02069_TODO_08",""
+33,"TEXT_CLSALC600_02069_TODO_09",""
+34,"TEXT_CLSALC600_02069_TODO_10",""
+35,"TEXT_CLSALC600_02069_TODO_11",""
+36,"TEXT_CLSALC600_02069_TODO_12",""
+37,"TEXT_CLSALC600_02069_TODO_13",""
+38,"TEXT_CLSALC600_02069_TODO_14",""
+39,"TEXT_CLSALC600_02069_TODO_15",""
+40,"TEXT_CLSALC600_02069_TODO_16",""
+41,"TEXT_CLSALC600_02069_TODO_17",""
+42,"TEXT_CLSALC600_02069_TODO_18",""
+43,"TEXT_CLSALC600_02069_TODO_19",""
+44,"TEXT_CLSALC600_02069_TODO_20",""
+45,"TEXT_CLSALC600_02069_TODO_21",""
+46,"TEXT_CLSALC600_02069_TODO_22",""
+47,"TEXT_CLSALC600_02069_TODO_23",""
+48,"TEXT_CLSALC600_02069_WILTWAEK_000_000","We questioned our culprit further, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. He told us <hex:021A020203>everything<hex:021A020103> once safely ensconced in his cell!"
+49,"TEXT_CLSALC600_02069_WILTWAEK_000_001","We had believed our suspects were a crew of criminals. However, they are merely hired help, cheap and disposable. All but one─a single aging alchemist. This is our true mastermind."
+50,"TEXT_CLSALC600_02069_WILTWAEK_000_002","Waoud is his name. He is feared in Thavnair, his homeland, for a complete lack of scruples and pursuing experiments no man should."
+51,"TEXT_CLSALC600_02069_WILTWAEK_000_003","I've also inquired into these clones. The Sons of Saint Coinach know something of the technology. Chanene has gone to their camp to learn more. Would you join her there?"
+52,"TEXT_CLSALC600_02069_WILTWAEK_000_010","I'm anxious to learn what Chanene discovers in Saint Coinach's Find."
+53,"TEXT_CLSALC600_02069_RAMMBROES_000_020","A friend of Chanene's, I take it? Well, I will tell you what I told her. The word “clone” does appear in the annals of Allag. From context, I believe it refers to created life."
+54,"TEXT_CLSALC600_02069_RAMMBROES_000_030","Ah, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Chanene has asked about clones, but I can tell her no more than you─that they were copies of people, given life through Allagan technology."
+55,"TEXT_CLSALC600_02069_RAMMBROES_000_40","Few men know the word. That a researcher, an <hex:021A020203>alchemist<hex:021A020103> no less, would try to recreate this art of Allag is as astounding as it is terrifying. The Sons will be vigilant."
+56,"TEXT_CLSALC600_02069_CHANENE_000_060","I've just spoken with Master Rammbroes. In his research into Allag's lost arts, he has come across the term “clones.”"
+57,"TEXT_CLSALC600_02069_CHANENE_000_070","Rammbroes has told me all about your escapades in the Crystal Tower, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Why didn't you say you'd met honest-to-gods clones?"
+58,"TEXT_CLSALC600_02069_CHANENE_000_080","Well, according to him, clones are empty vessels for the most part─soulless and unthinking. So what if Waoud transferred his own spirit <hex:021A020203>into<hex:021A020103> a clone, again and again? Eternal life could be his!"
+59,"TEXT_CLSALC600_02069_CHANENE_000_081","That's his motive! It explains everything. He stole the relics to dissect Allag's technology, and he stole the people from their beds to test it!"
+60,"TEXT_CLSALC600_02069_CHANENE_000_082","The mute Hyur we found is one such copy. His original must not have survived the process that created the clone─hence the body in the barrel!"
+61,"TEXT_CLSALC600_02069_CHANENE_000_083","I'll bet the Near Eastern youth is a copy, as well. Of whom, though?"
+62,"TEXT_CLSALC600_02069_CHANENE_000_084","We can sort that out later. I believe Waoud has a new hideout to the southeast of Revenant's Toll. Join me there, and we'll put a stop to this once and for all!"
+63,"TEXT_CLSALC600_02069_WILTWAEK_000_090","Chanene's sent word that Waoud's at his hideout! Quickly, to the south!"
+64,"TEXT_CLSALC600_02069_WILTWAEK_000_095","Hah! We've trapped the bastard!"
+65,"TEXT_CLSALC600_02069_CHANENE_000_110","Ready?"
+66,"TEXT_CLSALC600_02069_WILTWAEK_000_111","In we go!"
+67,"TEXT_CLSALC600_02069_CHANENE_000_112","We got him! Hah! The case is closed!"
+68,"TEXT_CLSALC600_02069_WAOUD_000_113","But is it, my dear? Is it really?"
+69,"TEXT_CLSALC600_02069_WILTWAEK_000_114","This is too convenient for my taste. He'd known we were chasing him since Saint Coinach's Find. He'll swing for his crimes, most like─why come quietly?"
+70,"TEXT_CLSALC600_02069_WILTWAEK_000_115","He must have a card he's not yet played... I'll interrogate him and find out what. Come, let us return to our usual spot."
+71,"TEXT_CLSALC600_02069_WILTWAEK_000_130","Well, Waoud is now insisting he is <hex:021A020203>not<hex:021A020103> Waoud! Would that I could just beat the truth out of him...but I've got to prove his guilt, or he walks free."
+72,"TEXT_CLSALC600_02069_WILTWAEK_000_131","The question is how. We have the means to prove a master alchemist was behind this. But on that basis alone, I could implicate Jalzahn, Severian...or <hex:021A020203>you<hex:021A020103>!"
+73,"TEXT_CLSALC600_02069_WILTWAEK_000_132","I jest, of course! No, to convict him we must prove Waoud is Waoud, and your equal as an alchemist. Could you look into that, with your guildmaster's aid?"
+74,"TEXT_CLSALC600_02069_WILTWAEK_000_133","Waoud had this copy of <hex:021A020203>Noble Gold<hex:021A020103> on him. Severian will want to examine it, I suspect. I just hope it proves to be the evidence we need."
+75,"TEXT_CLSALC600_02069_WILTWAEK_000_140","I wonder what Waoud meant to do with his copy of <hex:021A020203>Noble Gold<hex:021A020103>?"
+76,"TEXT_CLSALC600_02069_WILTWAEK_000_141","Perhaps Severian will know that as well."
+77,"TEXT_CLSALC600_02069_SEVERIAN_000_160","The mastermind is an alchemist called Waoud? The name sounds familiar. And now you need a means to prove his guilt..."
+78,"TEXT_CLSALC600_02069_SEVERIAN_000_161","That seems an awfully mundane use of my skills. Ah, but it might be the perfect opportunity to test my latest creation!"
+79,"TEXT_CLSALC600_02069_SEVERIAN_000_162","He had a copy of <hex:021A020203>Noble Gold<hex:021A020103> on him, yes? Very few have the skill to craft such a tome. Waoud himself may have fashioned this one. Prove he did, and you demonstrate that he is a master alchemist."
+80,"TEXT_CLSALC600_02069_SEVERIAN_000_163","Now, each alchemist's aether has a unique color. When drawing geometries with enchanted ink, this hue is passed to the pages of a grimoire."
+81,"TEXT_CLSALC600_02069_SEVERIAN_000_164","There has never been a way to detect the shade of this aetherial signature. Until now, that is."
+82,"TEXT_CLSALC600_02069_SEVERIAN_000_165","I have a powder that renders this color visible to the naked eye. If my aether is purple, then sprinkling the dust over a grimoire I made will reveal the same shade of purple."
+83,"TEXT_CLSALC600_02069_SEVERIAN_000_166","I call it spectrolium, and I daresay this invention of mine will be sufficient to prove who crafted that copy of <hex:021A020203>Noble Gold<hex:021A020103>. Here is an onze. Take it to Wiltwaek."
+84,"TEXT_CLSALC600_02069_SEVERIAN_000_170","Spectrolium... Yet another wonder sprung from my genius. I daresay Wiltwaek will agree."
+85,"TEXT_CLSALC600_02069_WILTWAEK_000_190","A powder that reveals the color of aether? Heh... Severian is something else, no matter his quirks. May I have a look?"
+86,"TEXT_CLSALC600_02069_WILTWAEK_000_200","Marvelous! But we'll need more than the dust. We must have a copy of <hex:021A020203>Noble Gold<hex:021A020103> crafted by another's hand to show the color of Waoud's version is unique."
+87,"TEXT_CLSALC600_02069_WILTWAEK_000_201","No doubt you see where I'm going with this. For the sake of the trial, could you create a copy of the grimoire?"
+88,"TEXT_CLSALC600_02069_SYSTEM_900_000","In order to complete this quest, you must have learned the advanced recipes contained within <hex:021A020203>Master Alchemist III<hex:021A020103>."
+89,"TEXT_CLSALC600_02069_WILTWAEK_000_220","Preparations for the trial are underway, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. The Adventurers' Guild has sent impartial judges to review the facts."
+90,"TEXT_CLSALC600_02069_WILTWAEK_000_221","The evidence has been organized, and guards are standing ready to take Waoud from his cell to the Seventh Heaven. All we need to begin is your copy of <hex:021A020203>Noble Gold<hex:021A020103>."
+91,"TEXT_CLSALC600_02069__GUILDSREPRESENTATIVE_000_500","The court recognizes Master Wiltwaek."
+92,"TEXT_CLSALC600_02069_WILTWAEK_000_501","In conclusion, Waoud kidnapped honest people and experimented on them. And why? To prolong his own life! Proof of this lies with these clones, soulless puppets he <hex:021A020203>created<hex:021A020103>. This man is guilty beyond all doubt!"
+93,"TEXT_CLSALC600_02069__GUILDSREPRESENTATIVE_000_502","Damning evidence, Master Wiltwaek, but only if the accused is Waoud and an alchemist. He currently denies both."
+94,"TEXT_CLSALC600_02069_CHANENE_000_503","Sir, we can prove that he's lying."
+95,"TEXT_CLSALC600_02069_CHANENE_000_504","This grimoire was found on Waoud. And the master of the Alchemists' Guild has stated that only the most <hex:021A020203>skilled<hex:021A020103> of alchemists could create such a tome."
+96,"TEXT_CLSALC600_02069_SLAFBORN_000_505","Ah, I see. By showing that Waoud crafted this grimoire, you also demonstrate that he is a master of alchemy, yes?"
+97,"TEXT_CLSALC600_02069_WILTWAEK_000_506","Precisely. The creator's aetherial signature is mirrored in the ink used to draw arcane geometries. This hue is unique to each alchemist."
+98,"TEXT_CLSALC600_02069_WILTWAEK_000_507","We've obtained a powder from the Alchemists' Guild that will allow us to see this color. May we have your permission to use it?"
+99,"TEXT_CLSALC600_02069__GUILDSREPRESENTATIVE_000_508","By all means, proceed."
+100,"TEXT_CLSALC600_02069_CHANENE_000_509","This is <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, a leading and recognized alchemist. <hex:02080CE905FF04>She<hex:FF03>He<hex:03> has consulted throughout this case. Excuse me..."
+101,"TEXT_CLSALC600_02069_CHANENE_000_510","There! As you can see, the color of <hex:02080DE905FF04>her<hex:FF04>his<hex:03> aether is blue."
+102,"TEXT_CLSALC600_02069_CHANENE_100_510","Now, allow me to demonstrate on the grimoire that <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> made."
+103,"TEXT_CLSALC600_02069__GUILDSREPRESENTATIVE_000_511","The selfsame blue! So you <hex:021A020203>can<hex:021A020103> identify a grimoire's maker."
+104,"TEXT_CLSALC600_02069_CHANENE_000_512","Next, I'll perform the same experiment on Waoud."
+105,"TEXT_CLSALC600_02069_SLAFBORN_000_513","Crimson... Now, what of the grimoire you found on him?"
+106,"TEXT_CLSALC600_02069__GUILDSREPRESENTATIVE_000_514","Crimson! That clinches it─you, sir, are Waoud! What say you in your defense?"
+107,"TEXT_CLSALC600_02069_WILTWAEK_000_515","He's been silent as the grave all this time─as if the spirit's gone right out of him..."
+108,"TEXT_CLSALC600_02069_CHANENE_000_516","<hex:021A020203>That's<hex:021A020103> the real Waoud! After him!"
+109,"TEXT_CLSALC600_02069_WILTWAEK_000_517","Wh-What!?"
+110,"TEXT_CLSALC600_02069_CHANENE_000_518","Waoud's soul is inside that clone!"
+111,"TEXT_CLSALC600_02069_WILTWAEK_000_519","Well, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, we're sitting pretty thanks to you!"
+112,"TEXT_CLSALC600_02069_CHANENE_000_600","Whew... That was too exciting for my blood. But at least the case is over!"
+113,"TEXT_CLSALC600_02069_WILTWAEK_000_610","The Near Eastern youth was Waoud's clone! Who would've thought it?"
+114,"TEXT_CLSALC600_02069_CHANENE_000_611","How could we have missed that? He meant to gain eternal life by transferring his soul to a new vessel─the younger the body, the longer he could use it."
+115,"TEXT_CLSALC600_02069_WILTWAEK_000_612","Very true. I've a suspicion that Waoud allowed us to apprehend his copy─a guaranteed escape route, if ever he were captured."
+116,"TEXT_CLSALC600_02069_WILTWAEK_100_612","Rest assured, he will pay for his crimes. He meant to live on borrowed time, and we will make him suffer for all of it!"
+117,"TEXT_CLSALC600_02069_WILTWAEK_000_613","But justice was served! We couldn't have done it without you, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. I hope we meet again─though I'd be pleased to give another grisly murder a miss!"
+118,"TEXT_CLSALC600_02069_CHANENE_000_614","But the thrill of solving it <hex:021A020203>was<hex:021A020103> something, eh? Let's hope we meet next under happier circumstances. Until then, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>!"
+119,"TEXT_CLSALC600_02069_SYSTEM_000_500","This concludes the alchemist quests for FINAL FANTASY XIV: Heavensward. In order to undertake the next series of quests, you must first meet the following requirements:"
+120,"TEXT_CLSALC600_02069_SYSTEM_000_501","※You must have completed the main scenario quest “The Far Edge of Fate.”"
+121,"TEXT_CLSALC600_02069_SYSTEM_000_502","Once you have done so, the next alchemist quest will be available from Severian."

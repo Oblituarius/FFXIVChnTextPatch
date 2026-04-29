@@ -1,30 +1,33 @@
-﻿key,1,2
-#,,
-offset,0,4
-int32,str,str
-0,,
-1,,
-2,DATA,檔案
-3,NEW GAME+,昔日重現模式解說
-4,LOST ACTION,失傳技能解說
-5,PORTRAIT LIST,肖像解說
-6,ADVENTURER PLATE,冒險者銘牌解說
-7,ISLAND SANCTUARY,開拓無人島解說
-8,ISLEWORKS BEGINNER'S GUIDE,開拓工房入門手冊
-9,DEEP DUNGEON,深層迷宮解說
-10,DEEP DUNGEON,深層迷宮解說
-11,DEEP DUNGEON,深層迷宮解說
-12,,時尚配飾解說
-13,,套裝解說
-14,,玩家對戰解說
-15,,烈羽爭鋒解說
-16,,紛爭前線解說
-17,,水晶衝突解說
-18,,莫古莫古★大收集解說
-19,,設計搭配相關的解說
-20,BATTLE,戰鬥解說
-21,MAHJONG,多瑪方城戰解說
-22,,
-23,,新月島解說
-24,,宇宙探索說明
-25,,戰術板說明
+﻿key,0,1,2
+#,,,
+offset,8,0,4
+int32,uint32,str,str
+0,0,"",""
+1,0,"",""
+2,5,"Archives",""
+3,6,"New Game+",""
+4,13,"Lost Actions",""
+5,21,"Portraits",""
+6,22,"Adventurer Plate",""
+7,23,"Island Sanctuary",""
+8,24,"Isleworks Beginner's Guide",""
+9,25,"Deep Dungeons",""
+10,26,"Deep Dungeons",""
+11,27,"Deep Dungeons",""
+12,28,"Fashion Accessories",""
+13,29,"Gear Sets",""
+14,19,"PvP",""
+15,3,"Rival Wings",""
+16,7,"Frontline",""
+17,20,"Crystalline Conflict",""
+18,30,"Moogle Treasure Trove",""
+19,32,"Glamour Guide",""
+20,33,"Combat Guide",""
+21,2,"Mahjong Rules",""
+22,37,"Deep Dungeons",""
+23,35,"The Occult Crescent",""
+24,36,"Cosmic Exploration",""
+25,38,"Strategy Board",""
+26,40,"Sightseeing Log",""
+27,41,"Custom Deliveries",""
+28,0,"",""

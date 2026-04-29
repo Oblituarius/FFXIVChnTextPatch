@@ -2,102 +2,102 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_AKTKMA107_04363_SEQ_00,公堂保管院前的阿爾菲諾正在窺望裡面的情況。
-1,TEXT_AKTKMA107_04363_SEQ_01,
-2,TEXT_AKTKMA107_04363_SEQ_02,
-3,TEXT_AKTKMA107_04363_SEQ_03,
-4,TEXT_AKTKMA107_04363_SEQ_04,
-5,TEXT_AKTKMA107_04363_SEQ_05,
-6,TEXT_AKTKMA107_04363_SEQ_06,
-7,TEXT_AKTKMA107_04363_SEQ_07,
-8,TEXT_AKTKMA107_04363_SEQ_08,
-9,TEXT_AKTKMA107_04363_SEQ_09,
-10,TEXT_AKTKMA107_04363_SEQ_10,
-11,TEXT_AKTKMA107_04363_SEQ_11,
-12,TEXT_AKTKMA107_04363_SEQ_12,
-13,TEXT_AKTKMA107_04363_SEQ_13,
-14,TEXT_AKTKMA107_04363_SEQ_14,
-15,TEXT_AKTKMA107_04363_SEQ_15,
-16,TEXT_AKTKMA107_04363_SEQ_16,
-17,TEXT_AKTKMA107_04363_SEQ_17,
-18,TEXT_AKTKMA107_04363_SEQ_18,
-19,TEXT_AKTKMA107_04363_SEQ_19,
-20,TEXT_AKTKMA107_04363_SEQ_20,
-21,TEXT_AKTKMA107_04363_SEQ_21,
-22,TEXT_AKTKMA107_04363_SEQ_22,
-23,TEXT_AKTKMA107_04363_SEQ_23,
-24,TEXT_AKTKMA107_04363_TODO_00,和保管院的嚮導對話
-25,TEXT_AKTKMA107_04363_TODO_01,和雅·修特拉對話
-26,TEXT_AKTKMA107_04363_TODO_02,在公堂保管院收集情報
-27,TEXT_AKTKMA107_04363_TODO_03,尋找工作中的拾穗人
-28,TEXT_AKTKMA107_04363_TODO_04,前往<hex:02280CFF05>EObj<hex:F61EB2BF0103> 用麻醉針麻醉要捉的鳥
-29,TEXT_AKTKMA107_04363_TODO_05,和阿爾菲諾對話
-30,TEXT_AKTKMA107_04363_TODO_06,
-31,TEXT_AKTKMA107_04363_TODO_07,
-32,TEXT_AKTKMA107_04363_TODO_08,
-33,TEXT_AKTKMA107_04363_TODO_09,
-34,TEXT_AKTKMA107_04363_TODO_10,
-35,TEXT_AKTKMA107_04363_TODO_11,
-36,TEXT_AKTKMA107_04363_TODO_12,
-37,TEXT_AKTKMA107_04363_TODO_13,
-38,TEXT_AKTKMA107_04363_TODO_14,
-39,TEXT_AKTKMA107_04363_TODO_15,
-40,TEXT_AKTKMA107_04363_TODO_16,
-41,TEXT_AKTKMA107_04363_TODO_17,
-42,TEXT_AKTKMA107_04363_TODO_18,
-43,TEXT_AKTKMA107_04363_TODO_19,
-44,TEXT_AKTKMA107_04363_TODO_20,
-45,TEXT_AKTKMA107_04363_TODO_21,
-46,TEXT_AKTKMA107_04363_TODO_22,
-47,TEXT_AKTKMA107_04363_TODO_23,
-48,TEXT_AKTKMA107_04363_ALISAIE_000_000,路上有沒有發現起霧了？<hex:02100103>據說那也是人工模擬出的環境。
-49,TEXT_AKTKMA107_04363_YSHTOLA_000_005,薩雷安屈指的資料保管庫……<hex:02100103>雖然好久沒來過了，想慢慢逛一逛，<hex:02100103>不過還是有機會再說吧。
-50,TEXT_AKTKMA107_04363_KRILE_000_010,不用擔心，我沒事的！<hex:02100103>這應該不算身體不適……
-51,TEXT_AKTKMA107_04363_KRILE_000_011,這件事之後再說。<hex:02100103>就先讓我這樣繼續調查吧！
-52,TEXT_AKTKMA107_04363_ALPHINAUD_000_020,那我們快點進去吧。<hex:02100103>裡面應該有保管院的嚮導在。
-53,TEXT_AKTKMA107_04363_ALPHINAUD_000_030,您好，我們想參觀保管院裡面，<hex:02100103>請問可以嗎？
-54,TEXT_AKTKMA107_04363_GUIDEOFTHEARCHEION_000_031,你們……並非我院的員工啊。<hex:02100103>看上去也不像拾穗人，能告訴我你們的所屬機構嗎？
-55,TEXT_AKTKMA107_04363_KRILE_000_032,我是巴爾德西昂委員會的人。<hex:02100103>我記得這座設施只要是一般區域任何人都能夠自由使用的……
-56,TEXT_AKTKMA107_04363_GUIDEOFTHEARCHEION_000_033,沒錯，平時確實如此。<hex:02100103>但現在正在緊急大整理，<hex:02100103>無關人員禁止進入。
-57,TEXT_AKTKMA107_04363_YSHTOLA_000_034,那就沒辦法了……<hex:02100103>很遺憾，我們去別的設施看看吧。
-58,TEXT_AKTKMA107_04363_KRILE_000_035,這裡應該也有連接迷津中層的升降機，<hex:02100103>只借用一下這個行嗎？
-59,TEXT_AKTKMA107_04363_GUIDEOFTHEARCHEION_000_036,很抱歉……<hex:02100103>為了優先確保運輸物資，<hex:02100103>升降機也禁止普通市民使用。
-60,TEXT_AKTKMA107_04363_ALISAIE_000_037,那就意味著我們哪裡也去不了了嗎？！
-61,TEXT_AKTKMA107_04363_GUIDEOFTHEARCHEION_000_038,為諸位帶來不便十分抱歉，<hex:02100103>請在大整理結束後再來。
-62,TEXT_AKTKMA107_04363_ALISAIE_000_039,那不就沒意義了嗎……<hex:02100103>好不容易抓到了線索……
-63,TEXT_AKTKMA107_04363_YSHTOLA_000_040,總之先從這裡出去，<hex:02100103>想想還有什麼其他可以做的事情吧。
-64,TEXT_AKTKMA107_04363_GUIDEOFTHEARCHEION_000_041,巴爾德西昂委員會嗎……
-65,TEXT_AKTKMA107_04363_ALPHINAUD_000_050,沒想到連設施都不讓使用了，<hex:02100103>看來哲學家議會是開始動真格的了……
-66,TEXT_AKTKMA107_04363_ALISAIE_000_055,要是不讓進，就提前通知大家啊。<hex:02100103>害我們白跑一趟不說，<hex:02100103>學生們也會對臨時閉館火冒三丈吧！
-67,TEXT_AKTKMA107_04363_KRILE_000_060,迷津整體是一個漏斗形的構造。<hex:02100103>我們現在正位於最外側的外環，<hex:02100103>往下一層就是位於中層的中環……
-68,TEXT_AKTKMA107_04363_TIREDSTAFF04363_000_065,啊——已經……快不行了……
-69,TEXT_AKTKMA107_04363_TROUBLEDSTUDENT04363_000_068,嗯……沒想到保管院居然不讓進……
-70,TEXT_AKTKMA107_04363_YSHTOLA_000_070,那接下來該怎麼辦好呢。<hex:02100103>也沒有其他可以了解哲學家議會真實想法的線索，<hex:02100103>本來還想再爭取套出點情報來……
-71,TEXT_AKTKMA107_04363_YSHTOLA_000_071,看樣子他們不會讓我們進入保管院內部。<hex:02100103>既然如此，只能想辦法去下層了……
-72,TEXT_AKTKMA107_04363_YSHTOLA_000_072,現在這情況，<hex:02100103>保管院附近的很可能都是大整理的有關人員。<hex:02100103>和他們一起行動的話或許能讓我們順便搭上升降機。
-73,TEXT_AKTKMA107_04363_YSHTOLA_000_073,我們分頭去問問吧。<hex:02100103>看他們的人手也不是很夠的樣子，<hex:02100103>說不定會讓人幫忙搬運東西呢。
-74,TEXT_AKTKMA107_04363_TIREDSTAFF04363_000_080,什麼？想讓我帶你到下層？<hex:02100103>抱歉，你還是去找別人吧……<hex:02100103>我沒日沒夜地幹，好不容易才可以休息了……
-75,TEXT_AKTKMA107_04363_TIREDSTAFF04363_000_081,剛才有個拾穗人從那邊的門出去了。<hex:02100103>看他背著不少東西，應該還在幹活吧。<hex:02100103>估計是有事要去下面。
-76,TEXT_AKTKMA107_04363_TIREDSTAFF04363_000_082,算我求你，饒了我吧……<hex:02100103>你去問問剛才從那邊的門出去的那位拾穗人怎麼樣？
-77,TEXT_AKTKMA107_04363_TROUBLEDSTUDENT04363_000_083,你想去下層嗎……<hex:02100103>抱歉，我們只是普通的學生，<hex:02100103>來了之後才知道保管院不讓進。
-78,TEXT_AKTKMA107_04363_TROUBLEDSTUDENT04363_000_084,前幾天我們在沉思林發現了不可思議的生物，<hex:02100103>翻遍了圖鑑也沒找到相關的記錄，<hex:02100103>所以打算贈與保管院。
-79,TEXT_AKTKMA107_04363_GIANTBEAVER04363_000_085,(-從木箱裡傳出的聲音-)嗷嗷嗷……
-80,TEXT_AKTKMA107_04363_TROUBLEDSTUDENT04363_000_086,對吧？就連叫聲都很稀奇。<hex:02100103>總之在保管院對外開放之前，<hex:02100103>我們打算先照顧它一陣子。
-81,TEXT_AKTKMA107_04363_TROUBLEDSTUDENT04363_000_087,最初我們以為是哪個研究室的標本，<hex:02100103>還專門向魔法大學的職員打聽了一下。<hex:02100103>可卻沒有人認識這個傢伙……
-82,TEXT_AKTKMA107_04363_TROUBLEDSTUDENT04363_000_088,如果這是新發現的物種，<hex:02100103>那說不定我們的名字也會登載在博物志上吧？！
-83,TEXT_AKTKMA107_04363_GIANTBEAVER04363_000_089,(-從木箱裡傳出的聲音-)嗷嗷嗷、嗷嗷？
-84,TEXT_AKTKMA107_04363_ERENVILLE_000_090,噓，安靜點，要不然會飛走的……
-85,TEXT_AKTKMA107_04363_ERENVILLE_000_091,啊，又見面了。<hex:02100103>不過我現在沒空和你聊天，<hex:02100103>我正忙著捕鳥呢。
-86,TEXT_AKTKMA107_04363_ERENVILLE_000_092,這次你也來幫忙？<hex:02100103>你還真是熱心腸啊。
-87,TEXT_AKTKMA107_04363_ERENVILLE_000_093,不過兩人捕捉確實更能保證它的安全……<hex:02100103>既然你願意，就麻煩給我打下手吧。
-88,TEXT_AKTKMA107_04363_ERENVILLE_000_094,這塊水域聚集了好幾種鳥，<hex:02100103>我想捕捉的是犀鳥的一種。
-89,TEXT_AKTKMA107_04363_ERENVILLE_000_095,這種鳥的羽毛是綠色的，會咕哇地叫，<hex:02100103>你去找找，然後用這個麻醉針射中它。
-90,TEXT_AKTKMA107_04363_ERENVILLE_000_096,我會到下游等著，<hex:02100103>等你給鳥打完麻醉以後，就由我來負責抓住它，<hex:02100103>可千萬別弄錯了！
-91,TEXT_AKTKMA107_04363_SYSTEM_000_100,開始尋找捕捉目標的犀鳥。<hex:02100103>尋找羽毛是綠色並且叫聲為咕哇的鳥類，<hex:02100103>點擊<hex:020835E4E95101FF1C><hex:024804F2022203>滑鼠左鍵<hex:0248020103><hex:FF12><hex:021E021003>鍵/<hex:021E020903>鍵<hex:03>射出麻醉針！
-92,TEXT_AKTKMA107_04363_ALISAIE_000_110,我稍微瞄了一眼，裡面可以說是伸手不見五指呢……
-93,TEXT_AKTKMA107_04363_YSHTOLA_000_115,埃倫維爾提到的中環就在這下面一層。
-94,TEXT_AKTKMA107_04363_YSHTOLA_000_116,雖然和最下層的秘密區域不同，<hex:02100103>那裡也對普通公眾開放……<hex:02100103>不過還是希望能找到些接近真相的線索。
-95,TEXT_AKTKMA107_04363_KRILE_000_120,這種通路要是沒人告訴一聲的話還真是察覺不到呢……<hex:02100103>還好你去給埃倫維爾幫忙了。
-96,TEXT_AKTKMA107_04363_ALPHINAUD_000_130,這裡就是第三十三期擴建坑道啊。
-97,TEXT_AKTKMA107_04363_ALPHINAUD_000_131,裡面隱約能聽到聲響……<hex:02100103>也許徘徊著棲息在此處的生物。
-98,TEXT_AKTKMA107_04363_ALPHINAUD_000_132,而且感覺路面也很難走，<hex:02100103>做好充分的準備之後再繼續前進吧。
+0,"TEXT_AKTKMA107_04363_SEQ_00","Alphinaud is gazing into the Archeion with an appraising look."
+1,"TEXT_AKTKMA107_04363_SEQ_01",""
+2,"TEXT_AKTKMA107_04363_SEQ_02",""
+3,"TEXT_AKTKMA107_04363_SEQ_03",""
+4,"TEXT_AKTKMA107_04363_SEQ_04",""
+5,"TEXT_AKTKMA107_04363_SEQ_05",""
+6,"TEXT_AKTKMA107_04363_SEQ_06",""
+7,"TEXT_AKTKMA107_04363_SEQ_07",""
+8,"TEXT_AKTKMA107_04363_SEQ_08",""
+9,"TEXT_AKTKMA107_04363_SEQ_09",""
+10,"TEXT_AKTKMA107_04363_SEQ_10",""
+11,"TEXT_AKTKMA107_04363_SEQ_11",""
+12,"TEXT_AKTKMA107_04363_SEQ_12",""
+13,"TEXT_AKTKMA107_04363_SEQ_13",""
+14,"TEXT_AKTKMA107_04363_SEQ_14",""
+15,"TEXT_AKTKMA107_04363_SEQ_15",""
+16,"TEXT_AKTKMA107_04363_SEQ_16",""
+17,"TEXT_AKTKMA107_04363_SEQ_17",""
+18,"TEXT_AKTKMA107_04363_SEQ_18",""
+19,"TEXT_AKTKMA107_04363_SEQ_19",""
+20,"TEXT_AKTKMA107_04363_SEQ_20",""
+21,"TEXT_AKTKMA107_04363_SEQ_21",""
+22,"TEXT_AKTKMA107_04363_SEQ_22",""
+23,"TEXT_AKTKMA107_04363_SEQ_23",""
+24,"TEXT_AKTKMA107_04363_TODO_00","Speak with the Archeion custodian."
+25,"TEXT_AKTKMA107_04363_TODO_01","Speak with Y'shtola."
+26,"TEXT_AKTKMA107_04363_TODO_02","Speak to people outside the Archeion."
+27,"TEXT_AKTKMA107_04363_TODO_03","Search for the pack-bearing gleaner."
+28,"TEXT_AKTKMA107_04363_TODO_04","Move to the designated location, and sedate the target with the sleeping dart."
+29,"TEXT_AKTKMA107_04363_TODO_05","Speak with Alphinaud."
+30,"TEXT_AKTKMA107_04363_TODO_06",""
+31,"TEXT_AKTKMA107_04363_TODO_07",""
+32,"TEXT_AKTKMA107_04363_TODO_08",""
+33,"TEXT_AKTKMA107_04363_TODO_09",""
+34,"TEXT_AKTKMA107_04363_TODO_10",""
+35,"TEXT_AKTKMA107_04363_TODO_11",""
+36,"TEXT_AKTKMA107_04363_TODO_12",""
+37,"TEXT_AKTKMA107_04363_TODO_13",""
+38,"TEXT_AKTKMA107_04363_TODO_14",""
+39,"TEXT_AKTKMA107_04363_TODO_15",""
+40,"TEXT_AKTKMA107_04363_TODO_16",""
+41,"TEXT_AKTKMA107_04363_TODO_17",""
+42,"TEXT_AKTKMA107_04363_TODO_18",""
+43,"TEXT_AKTKMA107_04363_TODO_19",""
+44,"TEXT_AKTKMA107_04363_TODO_20",""
+45,"TEXT_AKTKMA107_04363_TODO_21",""
+46,"TEXT_AKTKMA107_04363_TODO_22",""
+47,"TEXT_AKTKMA107_04363_TODO_23",""
+48,"TEXT_AKTKMA107_04363_ALISAIE_000_000","Were you caught in mist on your way here? The sprayers keep the air humid, so the habitat feels as close as possible to a natural forest."
+49,"TEXT_AKTKMA107_04363_YSHTOLA_000_005","This is the foremost material archive in Sharlayan. I should love to explore its treasures shelf by shelf, but I fear we have little time for such indulgences."
+50,"TEXT_AKTKMA107_04363_KRILE_000_010","Don't worry about me, I'm hale and healthy! In fact, I'm beginning to suspect that..."
+51,"TEXT_AKTKMA107_04363_KRILE_000_011","...Nay, let's discuss this later. The investigation demands our undivided attention."
+52,"TEXT_AKTKMA107_04363_ALPHINAUD_000_020","Well, we won't learn anything of value standing out here. Let us proceed into the main building and speak with the custodian."
+53,"TEXT_AKTKMA107_04363_ALPHINAUD_000_030","Greetings. We are here to peruse the Archeion's vaults."
+54,"TEXT_AKTKMA107_04363_GUIDEOFTHEARCHEION_000_031","Peruse? You are clearly not gleaners, then. Might I ask your affiliation?"
+55,"TEXT_AKTKMA107_04363_KRILE_000_032","We belong to the Students of Baldesion, but...is that relevant? I was given to believe that the vaults─those open to the public, at least─were...open to the public."
+56,"TEXT_AKTKMA107_04363_GUIDEOFTHEARCHEION_000_033","Ordinarily, yes, that would be the case. At present, however, access is restricted. Only persons directly involved in the reorganization efforts are permitted to enter."
+57,"TEXT_AKTKMA107_04363_YSHTOLA_000_034","Not us, then. I suppose we had better move along to another facility."
+58,"TEXT_AKTKMA107_04363_KRILE_000_035","This building has a lift which connects to the middle tier, yes? Might we at least make use of that?"
+59,"TEXT_AKTKMA107_04363_GUIDEOFTHEARCHEION_000_036","That service has also been suspended, I am afraid. For the time being, priority has been given over to the conveyance of inventory."
+60,"TEXT_AKTKMA107_04363_ALISAIE_000_037","What, so this is as far as we can go!?"
+61,"TEXT_AKTKMA107_04363_GUIDEOFTHEARCHEION_000_038","I apologize for the inconvenience. Please come again after our restructuring operation is concluded."
+62,"TEXT_AKTKMA107_04363_ALISAIE_000_039","By that time, it will be too late. And we were so close to getting answers..."
+63,"TEXT_AKTKMA107_04363_YSHTOLA_000_040","We need to rethink our approach. Let us step outside for the moment, shall we?"
+64,"TEXT_AKTKMA107_04363_GUIDEOFTHEARCHEION_000_041","...Students of Baldesion. Hmph."
+65,"TEXT_AKTKMA107_04363_ALPHINAUD_000_050","The Forum must be wary of exposure indeed to so heavily restrict the use of public institutions..."
+66,"TEXT_AKTKMA107_04363_ALISAIE_000_055","If they're going to close off facilities, then they ought to announce it! The students must be furious!"
+67,"TEXT_AKTKMA107_04363_KRILE_000_060","Labyrinthos is constructed in the shape of a mortar. This upper layer is called the “Outer Circuit,” and the “Medial Circuit” lies one tier below us..."
+68,"TEXT_AKTKMA107_04363_TIREDSTAFF04363_000_065","Sleep... I need sleep..."
+69,"TEXT_AKTKMA107_04363_TROUBLEDSTUDENT04363_000_068","How can they close the <hex:021A020203>Archeion<hex:021A020103>? I mean, really..."
+70,"TEXT_AKTKMA107_04363_YSHTOLA_000_070","We are at an impasse. As we have no other leads, I should like to pursue this one further..."
+71,"TEXT_AKTKMA107_04363_YSHTOLA_000_071","But I doubt that our stone-faced custodian will be swayed by heartfelt pleas. We must seek another means to access the lower levels."
+72,"TEXT_AKTKMA107_04363_YSHTOLA_000_072","'Tis likely that the people in this area are involved in the restructuring in one way or another. If we were to ingratiate ourselves, they might allow us to accompany them on the lift."
+73,"TEXT_AKTKMA107_04363_YSHTOLA_000_073","Let us ask around. Surely someone is in need of a few strong backs to lighten the load."
+74,"TEXT_AKTKMA107_04363_TIREDSTAFF04363_000_080","What's that? Take you down on the lift with me? Sorry, but not a chance. I've been up and down all day, and only now have I finally found a spare moment to rest."
+75,"TEXT_AKTKMA107_04363_TIREDSTAFF04363_000_081","I did see a gleaner fellow heading out the gate there, though. Shouldering a large pack─engaged in some manner of task. Maybe he'll be headed down below after he's done with...whatever it is he's doing."
+76,"TEXT_AKTKMA107_04363_TIREDSTAFF04363_000_082","Please, even talking is an effort. Go and bother that gleaner I told you about..."
+77,"TEXT_AKTKMA107_04363_TROUBLEDSTUDENT04363_000_083","Am I taking the lift? Oh, no, we're just students. They won't let us into the Archeion, even though we found..."
+78,"TEXT_AKTKMA107_04363_TROUBLEDSTUDENT04363_000_084","...Actually, we have no idea what it is we found─there's no record of such a creature anywhere. But it was wandering around Tranquility, and so we thought to donate it to the vaults."
+79,"TEXT_AKTKMA107_04363_GIANTBEAVER04363_000_085","(-Muffled Voice-)<squeal> <squeal>"
+80,"TEXT_AKTKMA107_04363_TROUBLEDSTUDENT04363_000_086","Oddest little squeal, don't you think? Anyway, I suppose we'll have to take care of it until the Archeion is open again."
+81,"TEXT_AKTKMA107_04363_TROUBLEDSTUDENT04363_000_087","At first we thought it might have escaped from one of the research laboratories, but when we reported our find to the Studium, they were just as dumbfounded as we were..."
+82,"TEXT_AKTKMA107_04363_TROUBLEDSTUDENT04363_000_088","If it truly is a newly discovered species, we could have our names appear in a gazette!"
+83,"TEXT_AKTKMA107_04363_GIANTBEAVER04363_000_089","(-Muffled Voice-)<squeal> <squeal> <squeal>"
+84,"TEXT_AKTKMA107_04363_ERENVILLE_000_090","Quiet. You'll frighten it away."
+85,"TEXT_AKTKMA107_04363_ERENVILLE_000_091","...Ah, it's you again. I don't mean to be rude, but I'm in the middle of another task. The cloudkin I need to capture is close. Very close."
+86,"TEXT_AKTKMA107_04363_ERENVILLE_000_092","Hm? You wish to help me with this, too? You spend your time in unusual ways, my friend."
+87,"TEXT_AKTKMA107_04363_ERENVILLE_000_093","Still, two hunters are generally better than one. Very well."
+88,"TEXT_AKTKMA107_04363_ERENVILLE_000_094","The canal here is a common gathering spot for birds of all kinds, but the one I'm after today is the hornbill."
+89,"TEXT_AKTKMA107_04363_ERENVILLE_000_095","Its feathers are green, and its cry a distinctive “caw.” Single it out and shoot it with this sleeping dart."
+90,"TEXT_AKTKMA107_04363_ERENVILLE_000_096","The effects are short-lived, so I'll lie in wait down by the riverbank to claim our quarry. Be sure to hit the right one!"
+91,"TEXT_AKTKMA107_04363_SYSTEM_000_100","Search your surroundings for the hornbill. You may move the camera, as well as zoom in and out. Target the hornbill and use the blowgun with <hex:020825E4E95101FF10><hex:024804F2022203><hex:0248020103><hex:FF0E><hex:021E021003> / <hex:021E020903><hex:03>."
+92,"TEXT_AKTKMA107_04363_ALISAIE_000_110","I took a quick peek inside, but it's awfully dark in there..."
+93,"TEXT_AKTKMA107_04363_YSHTOLA_000_115","The Medial Circuit which Erenville mentioned is the tier directly below us."
+94,"TEXT_AKTKMA107_04363_YSHTOLA_000_116","Unlike the lowest level of Labyrinthos with its rigid security, one can usually roam the middle layer quite freely. Let us see what we might find."
+95,"TEXT_AKTKMA107_04363_KRILE_000_120","I never would've noticed this cave on my own! Thank the Scholar that Erenville knew of it...and that you were there to persuade him to share."
+96,"TEXT_AKTKMA107_04363_ALPHINAUD_000_130","This must be it─the entrance to the mineshaft."
+97,"TEXT_AKTKMA107_04363_ALPHINAUD_000_131","'Tis faint, but I hear something moving within... Creatures homed there by the researchers, you think?"
+98,"TEXT_AKTKMA107_04363_ALPHINAUD_000_132","Well, slavering beasts aside, we will need to watch our footing. We should tighten our straps and such before we continue."

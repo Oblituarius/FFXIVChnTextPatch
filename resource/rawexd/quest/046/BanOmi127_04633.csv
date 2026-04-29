@@ -2,76 +2,76 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_BANOMI127_04633_SEQ_00,<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整（限定職業）<hex:0249020103><hex:0248020103><hex:02100103>※推進該任務時，職業需與接受任務時相同。<hex:02100103><hex:02100103>A4調查平台的斯提格瑪四想處理來自異亞們的委託。
-1,TEXT_BANOMI127_04633_SEQ_01,
-2,TEXT_BANOMI127_04633_SEQ_02,
-3,TEXT_BANOMI127_04633_SEQ_03,
-4,TEXT_BANOMI127_04633_SEQ_04,
-5,TEXT_BANOMI127_04633_SEQ_05,
-6,TEXT_BANOMI127_04633_SEQ_06,
-7,TEXT_BANOMI127_04633_SEQ_07,
-8,TEXT_BANOMI127_04633_SEQ_08,
-9,TEXT_BANOMI127_04633_SEQ_09,
-10,TEXT_BANOMI127_04633_SEQ_10,
-11,TEXT_BANOMI127_04633_SEQ_11,
-12,TEXT_BANOMI127_04633_SEQ_12,
-13,TEXT_BANOMI127_04633_SEQ_13,
-14,TEXT_BANOMI127_04633_SEQ_14,
-15,TEXT_BANOMI127_04633_SEQ_15,
-16,TEXT_BANOMI127_04633_SEQ_16,
-17,TEXT_BANOMI127_04633_SEQ_17,
-18,TEXT_BANOMI127_04633_SEQ_18,
-19,TEXT_BANOMI127_04633_SEQ_19,
-20,TEXT_BANOMI127_04633_SEQ_20,
-21,TEXT_BANOMI127_04633_SEQ_21,
-22,TEXT_BANOMI127_04633_SEQ_22,
-23,TEXT_BANOMI127_04633_SEQ_23,
-24,TEXT_BANOMI127_04633_TODO_00,和負責出差補助型奧密克戎對話
-25,TEXT_BANOMI127_04633_TODO_01,和想要體驗味覺的異亞對話
-26,TEXT_BANOMI127_04633_TODO_02,向斯提格瑪四報告
-27,TEXT_BANOMI127_04633_TODO_03,
-28,TEXT_BANOMI127_04633_TODO_04,
-29,TEXT_BANOMI127_04633_TODO_05,
-30,TEXT_BANOMI127_04633_TODO_06,
-31,TEXT_BANOMI127_04633_TODO_07,
-32,TEXT_BANOMI127_04633_TODO_08,
-33,TEXT_BANOMI127_04633_TODO_09,
-34,TEXT_BANOMI127_04633_TODO_10,
-35,TEXT_BANOMI127_04633_TODO_11,
-36,TEXT_BANOMI127_04633_TODO_12,
-37,TEXT_BANOMI127_04633_TODO_13,
-38,TEXT_BANOMI127_04633_TODO_14,
-39,TEXT_BANOMI127_04633_TODO_15,
-40,TEXT_BANOMI127_04633_TODO_16,
-41,TEXT_BANOMI127_04633_TODO_17,
-42,TEXT_BANOMI127_04633_TODO_18,
-43,TEXT_BANOMI127_04633_TODO_19,
-44,TEXT_BANOMI127_04633_TODO_20,
-45,TEXT_BANOMI127_04633_TODO_21,
-46,TEXT_BANOMI127_04633_TODO_22,
-47,TEXT_BANOMI127_04633_TODO_23,
-48,TEXT_BANOMI127_04633_STIGMA4_000_001,本機收到了來自瓦銘丙的異亞族的請求。<hex:02100103>對方聽聞通過信號傳遞可以體驗味覺，<hex:02100103>因此希望可以親身體驗一下。
-49,TEXT_BANOMI127_04633_STIGMA4_000_002,其實如果能來店裡的話這個願望就很容易達成了，<hex:02100103>不過藉此機會過去實際演示一下，也可以為店裡進行有效的宣傳。<hex:02100103>因此本機想請擁有信號傳遞經驗的同盟者提供幫助。
-50,TEXT_BANOMI127_04633_STIGMA4_000_003,首先請前往異亞村落，<hex:02100103>和正在出差的負責出差補助型奧密克戎接觸。
-51,TEXT_BANOMI127_04633_EAOMI04633_000_010,哎呀，最近熱門的味覺體驗到底是怎樣一種感覺呢？<hex:02100103>趕緊來讓我體驗一下吧！
-52,TEXT_BANOMI127_04633_OMICRON04633_000_011,沙沙沙……確認同盟者<hex:022903EB0203>已到達。<hex:02100103>接下來將進行針對異亞們的味覺體驗共享計劃。
-53,TEXT_BANOMI127_04633_OMICRON04633_000_012,開始通過同盟者的感覺信號記錄味覺情報。<hex:02100103>請從準備好的3種食物當中任意選擇一種食用。
-54,TEXT_BANOMI127_04633_Q1_000_000,要吃什麼？
-55,TEXT_BANOMI127_04633_A1_000_001,麵包
-56,TEXT_BANOMI127_04633_A1_000_002,蘋果
-57,TEXT_BANOMI127_04633_A1_000_003,飯糰
-58,TEXT_BANOMI127_04633_EAOMI04633_000_014,哦哦，食用了有機食材啊！！<hex:02100103>透過口腔內的舌神經感受味覺，然後用牙齒咀嚼，最後咽下……<hex:02100103>雖然有些麻煩，但感覺很有浪漫氣息啊！
-59,TEXT_BANOMI127_04633_OMICRON04633_000_015,沙沙沙……已經記錄到了足夠的味覺情報。<hex:02100103>在進行數據變更後，本機會選擇任意時機<hex:02100103>開始向想要體驗味覺的異亞發起傳送。
-60,TEXT_BANOMI127_04633_OMICRON04633_000_016,沙沙沙……已經記錄到了足夠的味覺情報。<hex:02100103>在進行數據變更後，本機會選擇任意時機<hex:02100103>開始向想要體驗味覺的異亞發起傳送。
-61,TEXT_BANOMI127_04633_EAOMI04633_000_020,哎呀，是來給我傳送味覺情報的嗎？！<hex:02100103>快點吧，我都等不及了！
-62,TEXT_BANOMI127_04633_OMICRON04633_000_021,沙沙沙……數據變更完畢。<hex:02100103>開始傳送信號。
-63,TEXT_BANOMI127_04633_EAOMI04633_000_022,哦哦，哦哦哦！！<hex:02100103>明明沒有器官卻能感受到真實的反應，真是奇妙的感覺！！！
-64,TEXT_BANOMI127_04633_EAOMI04633_000_023,吃到的是……將穀物磨成粉，然後燒製而成的塊狀物嗎？<hex:02100103>我還在好奇這與直接攝取穀物會有什麼差別，<hex:02100103>這酥軟的口感，吃在嘴裡感覺非常柔和！
-65,TEXT_BANOMI127_04633_EAOMI04633_000_024,吃到的是……植物的果實嗎？<hex:02100103>剛開始很有嚼勁，隨後口中就充滿了清爽的酸甜味！<hex:02100103>真想不到種子的營養成分居然可以變化出如此豐富的味道……
-66,TEXT_BANOMI127_04633_EAOMI04633_000_025,吃到的是……使用穀物烹製成型的東西嗎？<hex:02100103>原來如此，加水烹製，可以使其保持柔和的口感，<hex:02100103>還能增加黏度和甜味……
-67,TEXT_BANOMI127_04633_EAOMI04633_000_026,擁有肉體的生物不斷地進食，不僅是為了補充營養，<hex:02100103>也是為了反覆體驗這種刺激。<hex:02100103>的確令人欲罷不能……下次有機會我一定會去咖啡廳轉轉的！
-68,TEXT_BANOMI127_04633_OMICRON04633_000_027,沙沙沙……此次演示效果顯著。<hex:02100103>本機即將返回咖啡廳，<hex:02100103>請同盟者去跟斯提格瑪四彙報一下任務完成情況。
-69,TEXT_BANOMI127_04633_STIGMA4_000_030,異亞村落的味覺演示任務正在進行中。<hex:02100103>請同盟者彙報結果。
-70,TEXT_BANOMI127_04633_STIGMA4_000_031,結果報告已受理，此次演示獲得圓滿成功。<hex:02100103>對於咖啡廳也起到了宣傳作用，效果顯著。<hex:02100103>本機對同盟者此次的協助表示感謝。
-71,TEXT_BANOMI127_04633_STIGMA4_000_032,沒有肉體、持厭世態度的異亞當中，<hex:02100103>目前依然還有很多個體尚未造訪過咖啡廳。<hex:02100103>不過伴隨著此次計劃成功，相信會有更多異亞族願意前來。
-72,TEXT_BANOMI127_04633_STIGMA4_000_033,期待著下次宣傳計劃執行時，原本身為參觀者的它們，<hex:02100103>能夠主動提出成為味覺體驗者。<hex:02100103>希望下次委託也能得到同盟者的協助。
+0,"TEXT_BANOMI127_04633_SEQ_00","Stigma-4 has graciously accepted a request from the Ea on your behalf.<hex:02100103><hex:02100103>※Please note that the difficulty of this quest has been synced to your current level. Furthermore, you may not proceed with a class or job that is different from when you accepted this quest."
+1,"TEXT_BANOMI127_04633_SEQ_01",""
+2,"TEXT_BANOMI127_04633_SEQ_02",""
+3,"TEXT_BANOMI127_04633_SEQ_03",""
+4,"TEXT_BANOMI127_04633_SEQ_04",""
+5,"TEXT_BANOMI127_04633_SEQ_05",""
+6,"TEXT_BANOMI127_04633_SEQ_06",""
+7,"TEXT_BANOMI127_04633_SEQ_07",""
+8,"TEXT_BANOMI127_04633_SEQ_08",""
+9,"TEXT_BANOMI127_04633_SEQ_09",""
+10,"TEXT_BANOMI127_04633_SEQ_10",""
+11,"TEXT_BANOMI127_04633_SEQ_11",""
+12,"TEXT_BANOMI127_04633_SEQ_12",""
+13,"TEXT_BANOMI127_04633_SEQ_13",""
+14,"TEXT_BANOMI127_04633_SEQ_14",""
+15,"TEXT_BANOMI127_04633_SEQ_15",""
+16,"TEXT_BANOMI127_04633_SEQ_16",""
+17,"TEXT_BANOMI127_04633_SEQ_17",""
+18,"TEXT_BANOMI127_04633_SEQ_18",""
+19,"TEXT_BANOMI127_04633_SEQ_19",""
+20,"TEXT_BANOMI127_04633_SEQ_20",""
+21,"TEXT_BANOMI127_04633_SEQ_21",""
+22,"TEXT_BANOMI127_04633_SEQ_22",""
+23,"TEXT_BANOMI127_04633_SEQ_23",""
+24,"TEXT_BANOMI127_04633_TODO_00","Speak with the itinerant server unit."
+25,"TEXT_BANOMI127_04633_TODO_01","Speak with the excited Ea."
+26,"TEXT_BANOMI127_04633_TODO_02","Report to Stigma-4."
+27,"TEXT_BANOMI127_04633_TODO_03",""
+28,"TEXT_BANOMI127_04633_TODO_04",""
+29,"TEXT_BANOMI127_04633_TODO_05",""
+30,"TEXT_BANOMI127_04633_TODO_06",""
+31,"TEXT_BANOMI127_04633_TODO_07",""
+32,"TEXT_BANOMI127_04633_TODO_08",""
+33,"TEXT_BANOMI127_04633_TODO_09",""
+34,"TEXT_BANOMI127_04633_TODO_10",""
+35,"TEXT_BANOMI127_04633_TODO_11",""
+36,"TEXT_BANOMI127_04633_TODO_12",""
+37,"TEXT_BANOMI127_04633_TODO_13",""
+38,"TEXT_BANOMI127_04633_TODO_14",""
+39,"TEXT_BANOMI127_04633_TODO_15",""
+40,"TEXT_BANOMI127_04633_TODO_16",""
+41,"TEXT_BANOMI127_04633_TODO_17",""
+42,"TEXT_BANOMI127_04633_TODO_18",""
+43,"TEXT_BANOMI127_04633_TODO_19",""
+44,"TEXT_BANOMI127_04633_TODO_20",""
+45,"TEXT_BANOMI127_04633_TODO_21",""
+46,"TEXT_BANOMI127_04633_TODO_22",""
+47,"TEXT_BANOMI127_04633_TODO_23",""
+48,"TEXT_BANOMI127_04633_STIGMA4_000_001","Communication from the Ea residing in Ostrakon Tria received. Word has spread of <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>'s use as a flesh medium for sensory perception data, ergo additional non-corporeal entities now desire a demonstration."
+49,"TEXT_BANOMI127_04633_STIGMA4_000_002","This experience could easily be achieved by visiting the café. Preliminary calculations, however, suggest that appeasing them with a trial in their colony will prove an effective means of publicity for the Last Dregs."
+50,"TEXT_BANOMI127_04633_STIGMA4_000_003","You are responsible for reintroducing the thought entities to the notion of gustatory stimuli, and it is therefore your responsibility to acquiesce to their demands. Visit the abode of the Ea and make contact with the itinerant server unit at your earliest convenience."
+51,"TEXT_BANOMI127_04633_EAOMI04633_000_010","Ah, you must be our fleshy medium for the demonstration. I am eager to discover what sensations this gustatory experience will entail!"
+52,"TEXT_BANOMI127_04633_OMICRON04633_000_011","Bzzzt... Visual confirmation of allied unit <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>'s arrival. Preparations for the demonstration are complete."
+53,"TEXT_BANOMI127_04633_OMICRON04633_000_012","Please begin consumption of one of the three available organic substances. Now initializing scan of allied life-form's gustatory inputs..."
+54,"TEXT_BANOMI127_04633_Q1_000_000","What will you consume?"
+55,"TEXT_BANOMI127_04633_A1_000_001","The potentially metaphorical single slice of bread."
+56,"TEXT_BANOMI127_04633_A1_000_002","The decidedly unpoisoned apple."
+57,"TEXT_BANOMI127_04633_A1_000_003","The low-grade choking hazard of an extra-sticky rice ball."
+58,"TEXT_BANOMI127_04633_EAOMI04633_000_014","Oh my, it's begun! Look at how the poor, fleshy thing is forced to fill its oral cavity with the organic foodstuff, using its lingual nerve to collect flavor as it masticates matter with its teeth! Then, the finale...deglutition. How messy! How troublesome! How <hex:021A020203>primitive<hex:021A020103>! "
+59,"TEXT_BANOMI127_04633_OMICRON04633_000_015","Gustatory data received. Awaiting command to transmit data to the inexplicably narrating life-form."
+60,"TEXT_BANOMI127_04633_OMICRON04633_000_016","Gustatory data received. Awaiting command to transmit data to the inexplicably narrating life-form."
+61,"TEXT_BANOMI127_04633_EAOMI04633_000_020","Yes, yes, give me the data! Shock my senses, I beg you!"
+62,"TEXT_BANOMI127_04633_OMICRON04633_000_021","Now transmitting data."
+63,"TEXT_BANOMI127_04633_EAOMI04633_000_022","Oh... Oh <hex:021A020203>my<hex:021A020103>! What is this sensation─this signal from a phantom organ I do not possess? How wonderfully bizarre!"
+64,"TEXT_BANOMI127_04633_EAOMI04633_000_023","Yes, yes, I am confident what you consumed was the kneaded and baked result of finely powdered grain. “Why not simply ingest the grain in its original state,” I pondered, but my proverbial eyes have been opened! Not only does it have a uniquely satisfying mild flavor, but an unbelievably soft texture too!"
+65,"TEXT_BANOMI127_04633_EAOMI04633_000_024","Invigorating flavors of acidity and sweetness wash over me─the firm, succulent texture of the victual immovable from the forefront of my mind. So this is what fruit tastes like... Who would have thought the reproductive body of a seed could have such a rich flavor?"
+66,"TEXT_BANOMI127_04633_EAOMI04633_000_025","Setting aside the curious decision to shape it into a ballistic, this pale grain is more flavorsome than it has any right to be. So soft as to be nearly viscous, so starchy as to be nearly sweet..."
+67,"TEXT_BANOMI127_04633_EAOMI04633_000_026","I now understand that fleshy ones do not consume organic substances strictly out of nutritional necessity, but for stimulation such as this. How altogether fascinating...indeed, I must see this café for myself!"
+68,"TEXT_BANOMI127_04633_OMICRON04633_000_027","Departure of screeching non-corporeal entity confirmed. This unit will return to its duties at the Last Dregs, where countless such beings doubtless await. Allied unit is encouraged to return to A-4 Research for mission debriefing."
+69,"TEXT_BANOMI127_04633_STIGMA4_000_030","Return of allied unit recognized. Requesting full mission report."
+70,"TEXT_BANOMI127_04633_STIGMA4_000_031","Congratulations on your successful ingestion. Though this outcome was expected, it is also desirable. Guerrilla demonstration will be logged as an effective means of encouraging interest in sensory perception."
+71,"TEXT_BANOMI127_04633_STIGMA4_000_032","It is fortunate that a number of Ea were present during your execution of objectives. Due to their lack of physical form as well as conditional operating protocols, luring them to the Last Dregs has been surpassingly difficult, even for tactical specialists."
+72,"TEXT_BANOMI127_04633_STIGMA4_000_033","However, those who watched this demonstration from afar may choose to participate in the future. Should the opportunity present itself to carry out a similar operation, your services will be required once more."

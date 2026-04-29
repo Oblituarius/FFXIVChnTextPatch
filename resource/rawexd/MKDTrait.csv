@@ -1,20 +1,24 @@
-key,3,4
-#,,
-offset,0,4
-int32,str,str
-0,,
-1,防護效果提高,<hex:024804F201F403><hex:024904F201F503>防護<hex:0249020103><hex:0248020103>的效果量提高到90%
-2,祈禱效果提高,<hex:024804F201F403><hex:024904F201F503>祈禱<hex:0249020103><hex:0248020103>的恢復力提高到5000
-3,狂怒效果提高,為自身附加<hex:024804F201F403><hex:024904F201F503>肉斬骨斷<hex:0249020103><hex:0248020103>狀態<hex:02100103><hex:024804F201F403><hex:024904F201F503>肉斬骨斷<hex:0249020103><hex:0248020103>持續時間內受到的傷害越高，一擊的威力越高<hex:02100103><hex:024804F201F803><hex:024904F201F903>持續時間：<hex:0249020103><hex:0248020103>15秒
-4,踢擊效果提高,<hex:024804F201F403><hex:024904F201F503>踢擊<hex:0249020103><hex:0248020103>的效果量提高到7%
-5,踢擊效果提高II,<hex:024804F201F403><hex:024904F201F503>踢擊<hex:0249020103><hex:0248020103>的效果量提高到9%
-6,狙擊效果提高,<hex:024804F201F403><hex:024904F201F503>狙擊<hex:0249020103><hex:0248020103>的效果量提高到30%，並且攻擊必定命中
-7,狙擊效果提高II,<hex:024804F201F403><hex:024904F201F503>狙擊<hex:0249020103><hex:0248020103>的效果量提高到50%，並且攻擊必定命中
-8,居合斬效果提高,居合斬的威力提高到500，即死的機率提高到10%
-9,歌吟效果提高,歌吟的效果量會隨吟遊詩人的輔助職業等級提升而提升
-10,開鎖,可以開啟迷宮中上鎖的門
-11,砲擊效果提高,發動砲擊時，有5%的機率即死目標
-12,鈴鐺效果提高,<hex:024804F201F403><hex:024904F201F503>戰鬥之鈴<hex:0249020103><hex:0248020103>的效果量提高至5%<hex:02100103><hex:024804F201F403><hex:024904F201F503>休憩之鈴<hex:0249020103><hex:0248020103>的恢復力提高至3000
-13,,
-14,,
-15,,
+嚜磬ey,0,1,2,3,4
+#,,,,,
+offset,12,13,8,0,4
+int32,byte,byte,int32,str,str
+0,0,0,-1,"",""
+1,1,4,82201,"Enhanced Phantom Guard","Improves <hex:024804F201F403><hex:024904F201F503>Phantom Guard<hex:0249020103><hex:0248020103>'s damage reduction effect to 90%."
+2,1,5,82202,"Enhanced Pray","Increases the healing potency of <hex:024804F201F403><hex:024904F201F503>Pray<hex:0249020103><hex:0248020103> to 5,000."
+3,2,3,82203,"Enhanced Rage","Grants the effect of <hex:024804F201FA03><hex:024904F201FB03>Pent-up Rage<hex:0249020103><hex:0248020103>, increasing the potency of <hex:024804F201F403><hex:024904F201F503>Deadly Blow<hex:0249020103><hex:0248020103> based on the amount of damage you have taken while the effect is active.<hex:02100103><hex:024804F201F803><hex:024904F201F903>Duration: <hex:0249020103><hex:0248020103>15s"
+4,3,4,82204,"Enhanced Phantom Kick","Improves <hex:024804F201F403><hex:024904F201F503>Phantom Kick<hex:0249020103><hex:0248020103>'s damage increase to 7%."
+5,3,6,82205,"Enhanced Phantom Kick II","Improves <hex:024804F201F403><hex:024904F201F503>Phantom Kick<hex:0249020103><hex:0248020103>'s damage increase to 9%."
+6,4,3,82206,"Enhanced Phantom Aim","Improves <hex:024804F201F403><hex:024904F201F503>Phantom Aim<hex:0249020103><hex:0248020103>'s critical hit rate and direct hit rate increase to 30%, and guarantees all attacks land."
+7,4,5,82207,"Enhanced Phantom Aim II","Improves <hex:024804F201F403><hex:024904F201F503>Phantom Aim<hex:0249020103><hex:0248020103>'s critical hit rate and direct hit rate increase to 50%, and guarantees all attacks land."
+8,5,5,82208,"Enhanced Iainuki","Increases the potency of <hex:024804F201F403><hex:024904F201F503>Iainuki<hex:0249020103><hex:0248020103> to 500, and increases chance to instantly kill target to 10%."
+9,6,2,82209,"Enhanced Vocals","Increases the effectiveness of songs in accordance with your Phantom Bard level."
+10,12,6,82212,"Lockpicker","Allows you to open locked doors in dungeons."
+11,9,5,82211,"Enhanced Phantom Fire","Grants a 5% chance to instantly kill targets when executing <hex:024804F201F403><hex:024904F201F503>Phantom Fire<hex:0249020103><hex:0248020103>, with some exceptions."
+12,7,5,82210,"Enhanced Bell","Increases the effectiveness of <hex:024804F201F403><hex:024904F201F503>Battle Bell<hex:0249020103><hex:0248020103> to 5%, and increases the healing potency of <hex:024804F201F403><hex:024904F201F503>Ringing Respite<hex:0249020103><hex:0248020103> to 3,000."
+13,0,0,0,"",""
+14,0,0,0,"",""
+15,0,0,0,"",""
+16,0,0,0,"",""
+17,0,0,0,"",""
+18,0,0,0,"",""
+19,0,0,0,"",""

@@ -1,10 +1,10 @@
-﻿key,0
-#,Name
-offset,0
-int32,str
-0,重生之境
-1,蒼穹之禁城
-2,紅蓮之狂潮
-3,暗影之逆焰
-4,曉月之終途
-5,金曦之遺輝
+﻿key,0,1,2,3,4
+#,Name,AcceptJingle,CompleteJingle,,
+offset,0,12,14,4,8
+int32,str,ScreenImage,ScreenImage,uint32,uint32
+0,"A Realm Reborn",1,2,0,61875
+1,"Heavensward",342,343,8240,61876
+2,"Stormblood",344,345,16090,61877
+3,"Shadowbringers",723,724,26070,61878
+4,"Endwalker",993,994,36530,61879
+5,"Dawntrail",1292,1293,38390,61880

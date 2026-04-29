@@ -2,196 +2,196 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_CLSWVR700_02435_SEQ_00,黃金港的啟明有事想要和冒險者商量。
-1,TEXT_CLSWVR700_02435_SEQ_01,已經重新獲得藝伎資格的琴蝶拒絕了啟明的賀禮。啟明委託冒險者幫他探聽原因。和黃金港三條花街的琴蝶談談。
-2,TEXT_CLSWVR700_02435_SEQ_02,和琴蝶進行了交談。因為琴鶴已經決定隱退，琴蝶從此一生都無法超越前輩，這讓她變得自暴自棄起來。向樂座街的啟明報告。
-3,TEXT_CLSWVR700_02435_SEQ_03,向啟明報告完畢。決定委託琴鶴參演琴蝶的回歸舞台——黃金曼舞。和黃金港第一防波堤的琴鶴談談。
-4,TEXT_CLSWVR700_02435_SEQ_04,和琴鶴進行了交談，她答應在黃金曼舞中出演。條件是琴蝶和琴鶴要穿著同樣的衣服，跳同樣的舞。和樂座街的啟明談談。
-5,TEXT_CLSWVR700_02435_SEQ_05,和啟明進行了交談。得知可以與前輩最後一決勝負的琴蝶立即投入到了練習之中。因為這件事，啟明委託冒險者製作兩件<hex:02280DFF07>ItemHQ<hex:F246040103>。和樂座街的矢切談談，領取材料<hex:02280BFF05>Item<hex:F246030103>。
-6,TEXT_CLSWVR700_02435_SEQ_06,從矢切那裡領取了必要的材料。製作兩件<hex:02280DFF07>ItemHQ<hex:F246040103>，並將其交給樂座街的啟明。<hex:02100103><hex:02100103>※如果<hex:02280BFF05>Item<hex:F246030103>不足，可以與矢切對話重新獲得材料，並再次進行挑戰。
-7,TEXT_CLSWVR700_02435_SEQ_07,將<hex:02280DFF07>ItemHQ<hex:F246040103>交給了啟明。琴蝶和琴鶴表演了非常美麗的舞蹈。冒險者縫製的衣服將二位藝伎的魅力襯托得更加出眾，黃金曼舞也成功落下了帷幕。和樂座街的啟明談談。
-8,TEXT_CLSWVR700_02435_SEQ_08,和啟明進行了交談。二位藝伎的比試以平分秋色而告終。琴蝶會穿著冒險者縫製的禮服與從琴鶴那裡繼承而來的藝服，用款待之心，擔負起花街的未來走下去。
-9,TEXT_CLSWVR700_02435_SEQ_09,
-10,TEXT_CLSWVR700_02435_SEQ_10,
-11,TEXT_CLSWVR700_02435_SEQ_11,
-12,TEXT_CLSWVR700_02435_SEQ_12,
-13,TEXT_CLSWVR700_02435_SEQ_13,
-14,TEXT_CLSWVR700_02435_SEQ_14,
-15,TEXT_CLSWVR700_02435_SEQ_15,
-16,TEXT_CLSWVR700_02435_SEQ_16,
-17,TEXT_CLSWVR700_02435_SEQ_17,
-18,TEXT_CLSWVR700_02435_SEQ_18,
-19,TEXT_CLSWVR700_02435_SEQ_19,
-20,TEXT_CLSWVR700_02435_SEQ_20,
-21,TEXT_CLSWVR700_02435_SEQ_21,
-22,TEXT_CLSWVR700_02435_SEQ_22,
-23,TEXT_CLSWVR700_02435_SEQ_23,
-24,TEXT_CLSWVR700_02435_TODO_00,和琴蝶對話
-25,TEXT_CLSWVR700_02435_TODO_01,向啟明報告
-26,TEXT_CLSWVR700_02435_TODO_02,和琴鶴對話
-27,TEXT_CLSWVR700_02435_TODO_03,和啟明對話
-28,TEXT_CLSWVR700_02435_TODO_04,和矢切對話並領取<hex:02280BFF05>Item<hex:F246030103>
-29,TEXT_CLSWVR700_02435_TODO_05,<hex:02085BE3E802E803FF33>製作筆記 職業任務：製作<hex:02280DFF07>ItemHQ<hex:F246040103><hex:FF20>將<hex:02280DFF07>ItemHQ<hex:F246040103>交給啟明<hex:03>
-30,TEXT_CLSWVR700_02435_TODO_06,和啟明對話
-31,TEXT_CLSWVR700_02435_TODO_07,
-32,TEXT_CLSWVR700_02435_TODO_08,
-33,TEXT_CLSWVR700_02435_TODO_09,
-34,TEXT_CLSWVR700_02435_TODO_10,
-35,TEXT_CLSWVR700_02435_TODO_11,
-36,TEXT_CLSWVR700_02435_TODO_12,
-37,TEXT_CLSWVR700_02435_TODO_13,
-38,TEXT_CLSWVR700_02435_TODO_14,
-39,TEXT_CLSWVR700_02435_TODO_15,
-40,TEXT_CLSWVR700_02435_TODO_16,
-41,TEXT_CLSWVR700_02435_TODO_17,
-42,TEXT_CLSWVR700_02435_TODO_18,
-43,TEXT_CLSWVR700_02435_TODO_19,
-44,TEXT_CLSWVR700_02435_TODO_20,
-45,TEXT_CLSWVR700_02435_TODO_21,
-46,TEXT_CLSWVR700_02435_TODO_22,
-47,TEXT_CLSWVR700_02435_TODO_23,
-48,TEXT_CLSWVR700_02435_KEIMEI_000_000,<hex:022903EB0203>，你來了！<hex:02100103>琴蝶重整旗鼓從見習生做起了，<hex:02100103>她十分努力，因此可以提前做回藝伎！
-49,TEXT_CLSWVR700_02435_KEIMEI_000_001,回歸的舞台定在一年一度的黃金曼舞，<hex:02100103>這是三條花街最大的活動，也是舞伎和藝伎都會參加的<hex:02100103>豪華舞蹈公演，每年都會吸引大量黃金港的觀眾。
-50,TEXT_CLSWVR700_02435_KEIMEI_000_002,可以說，在這次公演中獲得最高評價的藝伎<hex:02100103>將會以首席的身份領導整個花街。<hex:02100103>當然了，最近這幾年一直都是琴鶴獨佔鰲頭。
-51,TEXT_CLSWVR700_02435_KEIMEI_000_003,可是，琴鶴卻突然宣布要結婚隱退，<hex:02100103>辭掉了這次黃金曼舞的出演！<hex:02100103>估計琴蝶的提前回歸也是因為受到了這件事的影響吧。
-52,TEXT_CLSWVR700_02435_KEIMEI_000_004,如果琴鶴走了，那麼琴蝶想要成為首席就不再是夢想！<hex:02100103>於是我為了這次盛大的活動，迫不及待地想送她一份禮物，<hex:02100103>可卻被她拒絕了……
-53,TEXT_CLSWVR700_02435_KEIMEI_000_005,心心念念的回歸近在眼前，她不僅沒有高興，反倒顯得十分失落。<hex:02100103>她那麼愛逞強，我猜她大概不想把真心話告訴我，<hex:02100103>所以能麻煩你去趟三條花街，幫我跟琴蝶談談嗎？
-54,TEXT_CLSWVR700_02435_KEIMEI_000_009,琴蝶心心念念的回歸近在眼前，她卻顯得十分失落。<hex:02100103>她那麼愛逞強，我猜她大概不想把真心話告訴我，<hex:02100103>所以能麻煩你去趟三條花街，幫我跟琴蝶談談嗎？
-55,TEXT_CLSWVR700_02435_KOTOCHO_000_010,<hex:022903EB0203>，你來了啊。<hex:02100103>我在見習期間十分努力，因此很快就可以重回藝伎的舞台了。<hex:02100103>……可是，我卻提不起幹勁來。
-56,TEXT_CLSWVR700_02435_KOTOCHO_000_011,琴鶴姐姐要隱退了……<hex:02100103>小的時候，我在黃金曼舞上看到了姐姐的舞姿，<hex:02100103>覺得非常感動，所以我現在才會在這裡。
-57,TEXT_CLSWVR700_02435_KOTOCHO_000_012,來到這裡後，我跟著姐姐學習了藝伎的入門技藝，<hex:02100103>最後還與她拜了姐妹……<hex:02100103>雖然有時候會感到很疲累……但卻非常幸福。
-58,TEXT_CLSWVR700_02435_KOTOCHO_000_013,在園遊會與姐姐一決勝負的時候，我高興地拼盡了全力……<hex:02100103>但卻……輸得那麼慘。
-59,TEXT_CLSWVR700_02435_KOTOCHO_000_014,因此，為了能早日與姐姐站在同樣的舞台上，<hex:02100103>我努力打雜努力練習，好不容易抓住了機會，可是……<hex:02100103>看來我的夢想一生都無法實現了……
-60,TEXT_CLSWVR700_02435_KOTOCHOU_000_015,（★未使用／削除予定★）
-61,TEXT_CLSWVR700_02435_KOTOCYO_000_015,（★未使用／削除予定★）
-62,TEXT_CLSWVR700_02435_KOTOCHO_000_015,這種心情很對不起為我著想的少東家，<hex:02100103>因此我拒絕了他送給我的賀禮。不，不只對少東家……<hex:02100103>對其他客人，對花街來說，我的想法都很失禮。
-63,TEXT_CLSWVR700_02435_KOTOCHO_000_016,<hex:022903EB0203>，今天能請你先回去嗎？<hex:02100103>我想一個人想想今後的事，<hex:02100103>抱歉啊。
-64,TEXT_CLSWVR700_02435_KOTOCHO_000_019,我想一個人想想今後的事，<hex:02100103>抱歉啊。
-65,TEXT_CLSWVR700_02435_KEIMEI_000_020,<hex:022903EB0203>，<hex:02100103>琴蝶怎麼樣了？
-66,TEXT_CLSWVR700_02435_KEIMEI_000_021,原來如此，因為琴鶴的隱退，她失去了自己的目標，<hex:02100103>所以自暴自棄起來了……
-67,TEXT_CLSWVR700_02435_KEIMEI_000_022,琴蝶一旦下定決心就會埋頭苦幹……<hex:02100103>我一直認為這是她的優點，<hex:02100103>但這次卻似乎變成了缺點啊。
-68,TEXT_CLSWVR700_02435_KEIMEI_000_023,給予舞伎和藝伎支援的人也被稱為「恩主」。<hex:02100103>但是，她們向恩主尋求的並不只是金錢，<hex:02100103>還有心靈上的支持……
-69,TEXT_CLSWVR700_02435_KEIMEI_000_024,<hex:022903EB0203>，能麻煩你跟我一起<hex:02100103>說服琴鶴晚一些再隱退嗎？
-70,TEXT_CLSWVR700_02435_KEIMEI_000_025,她現在應該在第一防波堤。<hex:02100103>等我給店裡的人安排好工作之後就去找你匯合，<hex:02100103>請你先去找琴鶴吧。
-71,TEXT_CLSWVR700_02435_KEIMEI_000_029,我們去找琴鶴說服她晚一些再隱退吧。<hex:02100103>她現在應該在第一防波堤，<hex:02100103>等我做完工作之後就去找你匯合。
-72,TEXT_CLSWVR700_02435_KOTOTSURU_000_030,哎呀，這不是<hex:022903EB0203>嗎。<hex:02100103>你找我有事嗎？
-73,TEXT_CLSWVR700_02435_KEIMEI_000_031,琴鶴！<hex:02100103>我想懇請你一件事！
-74,TEXT_CLSWVR700_02435_KOTOTSURU_000_032,哎呀呀，怎麼這麼嚴肅，出什麼事了？<hex:02100103>我要聽聽具體內容再決定要不要同意哦。
-75,TEXT_CLSWVR700_02435_KEIMEI_000_033,琴鶴……你可以晚些時候再隱退嗎？<hex:02100103>我希望你能參加黃金曼舞。
-76,TEXT_CLSWVR700_02435_KOTOTSURU_000_034,我還以為你要說什麼呢……<hex:02100103>我的結婚和隱退已經拖了很久很久了，<hex:02100103>因為一直培養不出能夠代替我的藝伎。
-77,TEXT_CLSWVR700_02435_KOTOTSURU_000_035,可是現在總算有能夠讓我交付重任的藝伎出現了，<hex:02100103>她是個不管打雜還是跳舞都全力以赴的好苗子……<hex:02100103>所以我也終於可以安心地放下自己的擔子了。
-78,TEXT_CLSWVR700_02435_KEIMEI_000_036,琴蝶她現在在藝伎之路上迷失了自己的目標，<hex:02100103>你是她的前輩，一直都在嚴厲地教導她，<hex:02100103>這次我也希望你能拉她一把。
-79,TEXT_CLSWVR700_02435_KOTOTSURU_000_037,為什麼你要拜託我？<hex:02100103>你這個「恩主」就在她身邊，<hex:02100103>況且不是還有<hex:022903EB0203>嗎。
-80,TEXT_CLSWVR700_02435_Q1_000_000,為什麼需要琴鶴的幫助？
-81,TEXT_CLSWVR700_02435_A1_000_001,因為琴鶴是琴蝶的目標
-82,TEXT_CLSWVR700_02435_A1_000_002,因為琴鶴是琴蝶仰慕的對象
-83,TEXT_CLSWVR700_02435_A1_000_003,……
-84,TEXT_CLSWVR700_02435_KEIMEI_000_038,沒錯……對琴蝶來說，你是她必須要超越的目標。<hex:02100103>可是，你的隱退導致你們之間的較量無疾而終，<hex:02100103>這才使她變得自暴自棄。
-85,TEXT_CLSWVR700_02435_KEIMEI_000_039,沒錯，琴蝶是因為看了你的舞才立志成為藝伎的。<hex:02100103>因此，如果你們沒有進行最後的較量你就隱退了的話，<hex:02100103>恐怕她會抱憾終生吧……
-86,TEXT_CLSWVR700_02435_KEIMEI_000_040,還是由我來解釋吧，<hex:02100103>畢竟我是她的「恩主」，<hex:02100103>從她還是舞伎的時候就一直在支援她了……
-87,TEXT_CLSWVR700_02435_KEIMEI_000_041,對琴蝶來說，<hex:02100103>你既是她立志成為藝伎的契機，也是必須要超越的最大目標……<hex:02100103>因此她現在才因失去了目標而自暴自棄。
-88,TEXT_CLSWVR700_02435_KEIMEI_000_042,她需要與你認真地一決勝負……<hex:02100103>所以我希望你能再給她最後一次機會。
-89,TEXT_CLSWVR700_02435_KOTOTSURU_000_043,你們兩個可真夠壞的啊……<hex:02100103>既然這是我最後的舞台，那我一定會全力以赴的，<hex:02100103>萬一那孩子又輸給了我，說不定她會就此一蹶不振哦？
-90,TEXT_CLSWVR700_02435_KEIMEI_000_044,……如果真是那樣，那就說明琴蝶只有這麼點能耐。<hex:02100103>一個半途而廢的藝伎，就算留在沒有你的花街也不會有任何用……<hex:02100103>你說對嗎？
-91,TEXT_CLSWVR700_02435_KOTOTSURU_000_045,既然啟明先生說到這個份上了，那我就答應了吧。<hex:02100103>我會參加黃金曼舞，<hex:02100103>只不過，我有一個條件。
-92,TEXT_CLSWVR700_02435_KOTOTSURU_000_046,我要與琴蝶穿同樣的衣服，跳同樣的舞來較量。<hex:02100103>舞蹈就選多瑪傳過來的傳統舞蹈——「天女之舞」。
-93,TEXT_CLSWVR700_02435_KEIMEI_000_00047,天女之舞是邀請躲在岩石後面的天女參加宴會英勇之舞。<hex:02100103>那麼，你要求的衣服莫非也是……
-94,TEXT_CLSWVR700_02435_KOTOTSURU_000_048,對，就是多瑪風格的傳統服裝<hex:02280DFF07>ItemHQ<hex:F246040103>。<hex:02100103>琴蝶的衣服自不必說，<hex:02100103>我的那件也麻煩啟明先生了？
-95,TEXT_CLSWVR700_02435_KEIMEI_000_049,當然可以，就當作是我送給你的結婚賀禮吧。<hex:02100103>衣服的製作就拜託<hex:022903EB0203>了。
-96,TEXT_CLSWVR700_02435_KEIMEI_000_050,在黃金曼舞上，很少有人會跳多瑪的傳統舞蹈……<hex:02100103>再加上我們準備的衣服，這樣你們所有的條件就都是一樣的……<hex:02100103>這表示，你想單純地在舞藝上與她一較高下了？
-97,TEXT_CLSWVR700_02435_KOTOTSURU_000_051,正是如此，<hex:02100103>不愧是當年照顧過我的老爺的兒子。<hex:02100103>那你就把這些轉告給琴蝶吧。
-98,TEXT_CLSWVR700_02435_KEIMEI_000_052,好的。<hex:02100103>你在方方面面上都為她著想，真的很謝謝你。<hex:02100103>剩下的就只有相信她那雙曾經吸引我的眼睛了……
-99,TEXT_CLSWVR700_02435_KOTOTSURU_000_053,那我也要快點去練習了。<hex:02100103><hex:022903EB0203>，我很期待看到你做的衣服哦。
-100,TEXT_CLSWVR700_02435_KEIMEI_000_054,那麼我就先回店裡，<hex:02100103>順便把琴蝶也叫過去。
-101,TEXT_CLSWVR700_02435_KOTOCHO_000_059,<hex:022903EB0203>，又見面了呢。<hex:02100103>我是被少東家突然叫過來的，<hex:02100103>不過我也正好有話要說就是了。
-102,TEXT_CLSWVR700_02435_KEIMEI_000_060,大家都到齊了。<hex:02100103>琴蝶，我找你過來是要告訴你一件事。
-103,TEXT_CLSWVR700_02435_KOTOCHO_000_061,少東家，請等一下。<hex:02100103>我也有話想跟你們說。
-104,TEXT_CLSWVR700_02435_KOTOCHO_000_062,琴鶴姐姐是我的目標……先不說我能不能贏過姐姐，<hex:02100103>如果我連與她較量的機會都沒有的話，<hex:02100103>那我就失去了繼續當藝伎的意義。所以，我也不要當藝伎了！
-105,TEXT_CLSWVR700_02435_KEIMEI_000_063,別急，琴蝶，<hex:02100103>琴鶴已經決定要把黃金曼舞當作自己最後的舞台了，<hex:02100103>為了最後與你一決勝負。
-106,TEXT_CLSWVR700_02435_KOTOCHO_000_064,您說的是真的嗎？！
-107,TEXT_CLSWVR700_02435_KEIMEI_000_065,但是她有一個條件，<hex:02100103>那就是你們要穿著由<hex:022903EB0203>縫製的同樣的服裝，<hex:02100103>一起跳多瑪的傳統舞蹈「天女之舞」。
-108,TEXT_CLSWVR700_02435_KOTOCHO_000_066,和姐姐穿同樣的衣服跳同樣的舞……
-109,TEXT_CLSWVR700_02435_KOTOCHO_000_067,少東家，我不隱退了！<hex:02100103>我會在黃金曼舞中贏過姐姐，<hex:02100103>然後無牽無掛地送姐姐離開！
-110,TEXT_CLSWVR700_02435_KEIMEI_000_068,呵呵呵，你的目光又變成當初吸引我的那種了。<hex:02100103>你就用最美的舞去祝福琴鶴的隱退吧！
-111,TEXT_CLSWVR700_02435_KOTOCHO_000_069,少東家，<hex:022903EB0203>，太感謝你們了！！<hex:02100103>那我現在就去努力練習。
-112,TEXT_CLSWVR700_02435_KEIMEI_000_070,那麼<hex:022903EB0203>，<hex:02100103>就拜託你製作<hex:02280DFF07>ItemHQ<hex:F246040103>了。<hex:02100103>必要的材料請去大天屋掌櫃矢切那裡領取吧。
-113,TEXT_CLSWVR700_02435_KEIMEI_000_071,我準備了最高級的純白色布料，<hex:02100103>既意味著送給琴鶴的新娘服，<hex:02100103>也意味著琴蝶的從零開始。
-114,TEXT_CLSWVR700_02435_KEIMEI_000_072,做好之後請交給我。<hex:02100103>製作東方風格的衣服對你來說也是一種挑戰吧。<hex:02100103>我很期待看到成品。
-115,TEXT_CLSWVR700_02435_KEIMEI_000_078,那就拜託你製作<hex:02280DFF07>ItemHQ<hex:F246040103>了。<hex:02100103>必要的材料請去大天屋掌櫃矢切那裡領取吧。做好之後請交給我。
-116,TEXT_CLSWVR700_02435_KEIMEI_000_079,製作東方風格的衣服對你來說也是一種挑戰吧。<hex:02100103>我很期待看到成品。
-117,TEXT_CLSWVR700_02435_YAGIRI_000_080,我已經聽少東家說了，<hex:02100103>這裡是準備好的最高級的材料，請收下！
-118,TEXT_CLSWVR700_02435_YAGIRI_000_081,聽說她們二位要表演天女之舞……<hex:02100103>從這個舞蹈的選擇上就能看出無微不至的體貼。<hex:02100103>不愧是長年君臨花街頂點的琴鶴小姐啊。
-119,TEXT_CLSWVR700_02435_YAGIRI_000_082,天女之舞是邀請躲在岩石後面的天女參加宴會的英勇之舞，<hex:02100103>一直都是傳達「款待之心」的代表作。<hex:02100103>用這支舞在宴席上招待客人，也能體現藝伎的心意呢。
-120,TEXT_CLSWVR700_02435_YAGIRI_000_083,不知道琴蝶小姐能不能體會到<hex:02100103>前輩的良苦用心啊？<hex:02100103>黃金曼舞可真讓人期待……
-121,TEXT_CLSWVR700_02435_YAGIRI_000_088,我當然很期待琴鶴小姐和琴蝶小姐的舞蹈，<hex:02100103>也很期待你做出來的東方服裝哦。
-122,TEXT_CLSWVR700_02435_YAGIRI_000_089,終於做好了啊！<hex:02100103>那就快點交給翹首以盼的少東家吧。<hex:02100103>啊，我也想快點看到天女的羽衣……
-123,TEXT_CLSWVR700_02435_KEIMEI_000_090,純白的<hex:02280DFF07>ItemHQ<hex:F246040103><hex:02100103>對<hex:022903EB0203>來說也是一種挑戰，<hex:02100103>我很期待看到成品。
-124,TEXT_CLSWVR700_02435_KEIMEI_000_091,衣服的做工就在黃金曼舞的舞蹈上確認吧，<hex:02100103>我現在要快點把衣服給她們兩個拿去。
-125,TEXT_CLSWVR700_02435_KEIMEI_000_092,<hex:022903EB0203>，請你在黃金曼舞的會場<hex:02100103>等待她們穿著這件衣服登場！
-126,TEXT_CLSWVR700_02435_KEIMEI_000_100,<hex:022903EB0203>，還好趕上了，<hex:02100103>黃金曼舞的壓軸表演——那兩個人的舞蹈就要開始了。
-127,TEXT_CLSWVR700_02435_KEIMEI_000_101,這是……天女從天而降了嗎……<hex:02100103>身著羽衣的兩個人看上去像在發光……
-128,TEXT_CLSWVR700_02435_KEIMEI_000_102,雖然是兩個人在跳舞，<hex:02100103>但卻像是只有一個靈魂一樣分毫不差……
-129,TEXT_CLSWVR700_02435_KEIMEI_000_103,我彷彿在塵世見到了樂土之舞，<hex:02100103>這個奇蹟讓我只顧著驚喜，連呼吸都忘了……
-130,TEXT_CLSWVR700_02435_KEIMEI_000_104,真想乾脆忘記比賽這種不解風情的事，<hex:02100103>永遠沉浸在英勇之舞的世界中……
-131,TEXT_CLSWVR700_02435_KEIMEI_000_105,辛苦你們了，<hex:02100103>我已經完全沉醉在鶴與蝶帶來的樂土之舞中了。
-132,TEXT_CLSWVR700_02435_KOTOCHO_000_106,這都要感謝<hex:022903EB0203>製作的衣服，<hex:02100103>我也覺得自己好像真的變成了天女。<hex:02100103>我在舞台上跳舞的時候都分不清自己和姐姐呢。
-133,TEXT_CLSWVR700_02435_KOTOTSURU_000_107,我也是……這是我有生以來最幸福的一刻。<hex:02100103>多虧了琴蝶，我才能用最美的舞台為我的藝伎生涯劃上句號。<hex:02100103>琴蝶，你在我的嚴厲指導下一直都沒有放棄，真是辛苦你了。
-134,TEXT_CLSWVR700_02435_KOTOCHO_000_108,姐姐才是為了我一直在努力，我真的很感謝。<hex:02100103>這麼久才發現姐姐的「款待」之情，對不起。
-135,TEXT_CLSWVR700_02435_KOTOCHO_000_109,這次我們沒有分出勝負。<hex:02100103>雖然我贏過姐姐的夢想破滅了，但我又有了新的夢想。
-136,TEXT_CLSWVR700_02435_KOTOCHO_000_110,我要用款待少東家和花街的客人們，<hex:02100103>來回報從姐姐那裡得來的「款待」。
-137,TEXT_CLSWVR700_02435_KOTOCHO_000_111,所以，姐姐……你一定要幸福啊。
-138,TEXT_CLSWVR700_02435_KOTOTSURU_000_112,謝謝。<hex:02100103>今後，花街就拜託你了。
-139,TEXT_CLSWVR700_02435_YAGIRI_000_119,能看到她們兩個的英勇之舞，真是無比幸福啊。<hex:02100103>而且你製作的羽衣讓她們看上去比平時更加閃耀了。<hex:02100103>從那兩件衣服上能看出你身為工匠的真本事，我感到很是震撼。
-140,TEXT_CLSWVR700_02435_KEIMEI_000_120,<hex:022903EB0203>，<hex:02100103>這次也要謝謝你製作的美麗衣服。
-141,TEXT_CLSWVR700_02435_KEIMEI_000_121,因為她們兩個最終平分秋色，<hex:02100103>所以今後就要由琴蝶來接替琴鶴擔負整個花街。<hex:02100103>大家都承認琴蝶已經是與琴鶴不相上下的藝伎了。
-142,TEXT_CLSWVR700_02435_KEIMEI_000_122,我聽琴蝶說，她今後打算穿著琴鶴送給她的藝服<hex:02100103>以及<hex:022903EB0203>為她製作的禮服<hex:02100103>來招待客人。
-143,TEXT_CLSWVR700_02435_KEIMEI_000_123,這大概代表了她的決心吧，<hex:02100103>她想把琴鶴守護的傳統與她自己掀起的新風結合起來，<hex:02100103>擔負著花街走下去。
-144,TEXT_CLSWVR700_02435_KEIMEI_000_124,而我與<hex:022903EB0203>的契約<hex:02100103>到此也暫且屆滿了，<hex:02100103>感謝你為琴蝶製作的諸多傑作。
-145,TEXT_CLSWVR700_02435_KEIMEI_000_125,等你下次再來黃金港的時候，還請到大天屋一敘。<hex:02100103>我定會和琴蝶與店裡的人一起誠心誠意地招待你！
-146,TEXT_CLSWVR700_02435_KOTOCHOU_000_010,（★未使用／削除予定★）
-147,TEXT_CLSWVR700_02435_KOTOCYO_000_010,（★未使用／削除予定★）
-148,TEXT_CLSWVR700_02435_KOTOCHOU_000_011,（★未使用／削除予定★）
-149,TEXT_CLSWVR700_02435_KOTOCYO_000_011,（★未使用／削除予定★）
-150,TEXT_CLSWVR700_02435_KOTOCHOU_000_012,（★未使用／削除予定★）
-151,TEXT_CLSWVR700_02435_KOTOCYO_000_012,（★未使用／削除予定★）
-152,TEXT_CLSWVR700_02435_KOTOCHOU_000_013,（★未使用／削除予定★）
-153,TEXT_CLSWVR700_02435_KOTOCYO_000_013,（★未使用／削除予定★）
-154,TEXT_CLSWVR700_02435_KOTOCHOU_000_014,（★未使用／削除予定★）
-155,TEXT_CLSWVR700_02435_KOTOCYO_000_014,（★未使用／削除予定★）
-156,TEXT_CLSWVR700_02435_KOTOCHOU_000_016,（★未使用／削除予定★）
-157,TEXT_CLSWVR700_02435_KOTOCYO_000_016,（★未使用／削除予定★）
-158,TEXT_CLSWVR700_02435_KOTOCHOU_000_019,（★未使用／削除予定★）
-159,TEXT_CLSWVR700_02435_KOTOCYO_000_019,（★未使用／削除予定★）
-160,TEXT_CLSWVR700_02435_KOTOTSURU_000_033,（★未使用／削除予定★）
-161,TEXT_CLSWVR700_02435_KOTOCHOU_000_059,（★未使用／削除予定★）
-162,TEXT_CLSWVR700_02435_KOTOCYO_000_059,（★未使用／削除予定★）
-163,TEXT_CLSWVR700_02435_KOTOCHOU_000_061,（★未使用／削除予定★）
-164,TEXT_CLSWVR700_02435_KOTOCYO_000_061,（★未使用／削除予定★）
-165,TEXT_CLSWVR700_02435_KOTOCHOU_000_062,（★未使用／削除予定★）
-166,TEXT_CLSWVR700_02435_KOTOCYO_000_062,（★未使用／削除予定★）
-167,TEXT_CLSWVR700_02435_KOTOCHOU_000_064,（★未使用／削除予定★）
-168,TEXT_CLSWVR700_02435_KOTOCYO_000_064,（★未使用／削除予定★）
-169,TEXT_CLSWVR700_02435_KOTOCHOU_000_066,（★未使用／削除予定★）
-170,TEXT_CLSWVR700_02435_KOTOCYO_000_066,（★未使用／削除予定★）
-171,TEXT_CLSWVR700_02435_KOTOCHOU_000_067,（★未使用／削除予定★）
-172,TEXT_CLSWVR700_02435_KOTOCYO_000_067,（★未使用／削除予定★）
-173,TEXT_CLSWVR700_02435_KOTOCHOU_000_069,（★未使用／削除予定★）
-174,TEXT_CLSWVR700_02435_KOTOCYO_000_069,（★未使用／削除予定★）
-175,TEXT_CLSWVR700_02435_BANTOU_000_080,（★未使用／削除予定★）
-176,TEXT_CLSWVR700_02435_BANTOU_000_081,（★未使用／削除予定★）
-177,TEXT_CLSWVR700_02435_BANTOU_000_082,（★未使用／削除予定★）
-178,TEXT_CLSWVR700_02435_BANTOU_000_083,（★未使用／削除予定★）
-179,TEXT_CLSWVR700_02435_BANTOU_000_088,（★未使用／削除予定★）
-180,TEXT_CLSWVR700_02435_BANTOU_000_089,（★未使用／削除予定★）
-181,TEXT_CLSWVR700_02435_KOTOCHOU_000_106,（★未使用／削除予定★）
-182,TEXT_CLSWVR700_02435_KOTOCYO_000_106,（★未使用／削除予定★）
-183,TEXT_CLSWVR700_02435_KOTOCHOU_000_108,（★未使用／削除予定★）
-184,TEXT_CLSWVR700_02435_KOTOCYO_000_108,（★未使用／削除予定★）
-185,TEXT_CLSWVR700_02435_KOTOCHOU_000_109,（★未使用／削除予定★）
-186,TEXT_CLSWVR700_02435_KOTOCYO_000_109,（★未使用／削除予定★）
-187,TEXT_CLSWVR700_02435_KOTOCHOU_000_110,（★未使用／削除予定★）
-188,TEXT_CLSWVR700_02435_KOTOCYO_000_110,（★未使用／削除予定★）
-189,TEXT_CLSWVR700_02435_KOTOCHOU_000_111,（★未使用／削除予定★）
-190,TEXT_CLSWVR700_02435_KOTOCYO_000_111,（★未使用／削除予定★）
-191,TEXT_CLSWVR700_02435_BANTOU_000_119,（★未使用／削除予定★）
-192,TEXT_CLSWVR700_02435_SYSTEM_000_126,作為裁衣匠完成了最出色的服裝，<hex:02100103>學會了新的技能「魔匠的閃念」！
+0,"TEXT_CLSWVR700_02435_SEQ_00","The flighty behavior of his precious butterfly weighs heavy on Keimei's heart."
+1,"TEXT_CLSWVR700_02435_SEQ_01","With no small degree of pride, Master Keimei informs you that Kotocho has risen from the ashes and reclaimed her former position of geiko, having completed her second apprenticeship in record time. Furthermore, in recognition of her efforts, she has received an invitation to perform at the annual Kugane-odori, known as the event where stars of the flower district are made. Not all is well, however─as Keimei tells it, his butterfly is acting curiously despondent despite the joyous news, going so far as to refuse his offer to commission a new dress for her to commemorate the occasion. At the young master's behest, you make for the flower district in hopes of finding out what troubles the girl and easing her heart as best you can."
+2,"TEXT_CLSWVR700_02435_SEQ_02","A brief heart-to-heart with Kotocho sheds light upon the nature of her plight. The girl tearfully describes how her sole source of comfort as she toiled and struggled was her dream that she would once again stand on the same stage as Kototsuru, and finally prove her worth to her mentor and role model. Though the butterfly has risen back through the ranks, Kototsuru's impending marriage and retirement from the flower district means this dream will not come to be. Unable to summon the passion she once had, Kotocho asks to be left alone with her thoughts. At a loss, you acquiesce to the girl's request and head back to share what you have learned with Master Keimei."
+3,"TEXT_CLSWVR700_02435_SEQ_03","You share what you have learned with Keimei, who is quickly spurred to action. As Kotocho's patron, he reaffirms his vow to support the girl in this, her time of greatest need. To that end, he would take it upon himself to convince Kototsuru to put off her planned retirement until after she has taken part in one final performance. You make for the artisans' quarter, determined to assist in whatever what you can."
+4,"TEXT_CLSWVR700_02435_SEQ_04","The heartfelt pleas of Master Keimei and yourself do not fall on deaf ears, and Kototsuru agrees to your request. She does, however, set one absolute condition: the two geiko must perform the same number─an ancient Doman dance known as the tennyo-no-mai, or descent of the angel─while wearing identical dresses, which you are to fashion. Believing this the only way to raise Kotocho's spirits, the two of you thank Kototsuru for her kindness before returning to Daitenya to prepare the ancient garment─the tennyo hagoromo─needed for the occasion."
+5,"TEXT_CLSWVR700_02435_SEQ_05","Upon your return to Daitenya, Keimei tells Kotocho the news, renewing her vigor and encouraging her to resume training. He further explains that he has prepared the finest silks at his disposal for what will doubtless prove to be your most significant and challenging work to date. When you are ready to brandish your needle, you need only speak with the stall attendant and claim the fabrics you desire."
+6,"TEXT_CLSWVR700_02435_SEQ_06","As he hands over the squares of pristine, angelic silks, the attendant muses on how the choice of dance is truly fitting for Kototsuru's final performance, given her deep respect for cultural tradition, and a worthy challenge for the young Kotocho as well. It would seem all are eager to see past, present, and future come together on the stage at the Kugane-odori. You take your needle in hand, vowing to create twin masterpieces worthy of the grand occasion.<hex:02100103><hex:02100103>※In the event you lose the ingredients or the synthesis ends in failure, you may try again by speaking with Yagiri."
+7,"TEXT_CLSWVR700_02435_SEQ_07","After presenting your work to Master Keimei, you make your way to the festivities just as Kototsuru and Kotocho are about to take the stage. Together with the young master, you look on in wonder as the two geiko twirl and sway in perfect harmony, as if their two physical bodies shared a single soul. You wake from this otherworldly dream to welcome the two, who thank you profusely for crafting the garments so sublime it was as if they were truly transformed into heavenly beings. They share a moment of tenderness as Kotocho thanks her mentor for all that she has done, and Kototsuru entrusts the future of the flower district to her erstwhile apprentice. You and Keimei look on warmly as the two geiko reaffirm a bond that will surely last for the rest of their lives, even as their paths diverge."
+8,"TEXT_CLSWVR700_02435_SEQ_08","Your work done, you pay one final visit to Daitenya, where Master Keimei expresses his deep appreciation for all that you have done on his and Kotocho's behalf. He expresses his confidence that the flower district is in good hands with his butterfly, and wishes you a safe journey back to Eorzea, where he hopes that Hingan fashions might one day make an impression the way your craftsmanship has found an audience in his homeland."
+9,"TEXT_CLSWVR700_02435_SEQ_09",""
+10,"TEXT_CLSWVR700_02435_SEQ_10",""
+11,"TEXT_CLSWVR700_02435_SEQ_11",""
+12,"TEXT_CLSWVR700_02435_SEQ_12",""
+13,"TEXT_CLSWVR700_02435_SEQ_13",""
+14,"TEXT_CLSWVR700_02435_SEQ_14",""
+15,"TEXT_CLSWVR700_02435_SEQ_15",""
+16,"TEXT_CLSWVR700_02435_SEQ_16",""
+17,"TEXT_CLSWVR700_02435_SEQ_17",""
+18,"TEXT_CLSWVR700_02435_SEQ_18",""
+19,"TEXT_CLSWVR700_02435_SEQ_19",""
+20,"TEXT_CLSWVR700_02435_SEQ_20",""
+21,"TEXT_CLSWVR700_02435_SEQ_21",""
+22,"TEXT_CLSWVR700_02435_SEQ_22",""
+23,"TEXT_CLSWVR700_02435_SEQ_23",""
+24,"TEXT_CLSWVR700_02435_TODO_00","Speak with Kotocho."
+25,"TEXT_CLSWVR700_02435_TODO_01","Report to Keimei."
+26,"TEXT_CLSWVR700_02435_TODO_02","Search for Kototsuru."
+27,"TEXT_CLSWVR700_02435_TODO_03","Speak with Keimei."
+28,"TEXT_CLSWVR700_02435_TODO_04","Obtain the needed materials from Yagiri."
+29,"TEXT_CLSWVR700_02435_TODO_05","<hex:020860E3E802E803FF24>Craft tennyo hagoromo <hex:02280AFF06>Addon<hex:0A0103><hex:FF34>Deliver the tennyo hagoromo <hex:02280AFF06>Addon<hex:0A0103> to Keimei<hex:03>."
+30,"TEXT_CLSWVR700_02435_TODO_06","Speak with Keimei."
+31,"TEXT_CLSWVR700_02435_TODO_07",""
+32,"TEXT_CLSWVR700_02435_TODO_08",""
+33,"TEXT_CLSWVR700_02435_TODO_09",""
+34,"TEXT_CLSWVR700_02435_TODO_10",""
+35,"TEXT_CLSWVR700_02435_TODO_11",""
+36,"TEXT_CLSWVR700_02435_TODO_12",""
+37,"TEXT_CLSWVR700_02435_TODO_13",""
+38,"TEXT_CLSWVR700_02435_TODO_14",""
+39,"TEXT_CLSWVR700_02435_TODO_15",""
+40,"TEXT_CLSWVR700_02435_TODO_16",""
+41,"TEXT_CLSWVR700_02435_TODO_17",""
+42,"TEXT_CLSWVR700_02435_TODO_18",""
+43,"TEXT_CLSWVR700_02435_TODO_19",""
+44,"TEXT_CLSWVR700_02435_TODO_20",""
+45,"TEXT_CLSWVR700_02435_TODO_21",""
+46,"TEXT_CLSWVR700_02435_TODO_22",""
+47,"TEXT_CLSWVR700_02435_TODO_23",""
+48,"TEXT_CLSWVR700_02435_KEIMEI_000_000","<hex:020815E905FF09>Mistress<hex:FF07>Master<hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303>, I have the most wonderful news: our butterfly is a geiko once more! They say Kotocho devoted herself to even the most menial of her tasks with such diligence that she quickly won over even the strictest of her seniors."
+49,"TEXT_CLSWVR700_02435_KEIMEI_000_001","She will make her triumphant return at the Kugane-odori: the greatest spectacle in our fair city, where veteran geiko and fledgling maiko alike take the stage in a vivid display of all the cultural riches the Hanamachi has to offer."
+50,"TEXT_CLSWVR700_02435_KEIMEI_000_002","The festivities are held once each year, and as tradition goes, the geiko who earns the highest acclaim takes her place atop the flower district until such time as she is dethroned at a future event. As you might imagine, Kototsuru has held that position since...well, since as long as I can remember."
+51,"TEXT_CLSWVR700_02435_KEIMEI_000_003","There has, however, been a most unexpected turn of events. Just the other day, Kototsuru announced that she will not only be withdrawing from the festivities, but retiring from the Hanamachi altogether. Rumor has it that she is to be wed."
+52,"TEXT_CLSWVR700_02435_KEIMEI_000_004","The suddenness of it all has the flower district in state of disarray. That said, this could very well be the chance of a lifetime for our butterfly! So I thought, at least─yet for reasons I cannot comprehend, when I asked what she would wear this time, she simply lowered her head and walked away."
+53,"TEXT_CLSWVR700_02435_KEIMEI_000_005","It is entirely unlike the girl to be so glum on the eve of what very well might be the chance of a lifetime. Is it possible she harbors a worry that she is ashamed to discuss with me? I cannot say, but I would be ever so grateful if you could talk with her in my stead."
+54,"TEXT_CLSWVR700_02435_KEIMEI_000_009","It simply isn't like Kotocho to brood and repine like this. The girl refuses to open her heart to me, but perhaps you might succeed where I have not."
+55,"TEXT_CLSWVR700_02435_KOTOCHO_000_010","Oh, <hex:020815E905FF09>Mistress<hex:FF07>Master<hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303>. Have you come to congratulate me on my promotion? You are always so kind. Sadly, I am afraid I'm not much in the mood for celebration."
+56,"TEXT_CLSWVR700_02435_KOTOCHO_000_011","Thank you, friend, but you have heard the news, yes? Kototsuru is leaving the Hanamachi, never to return. However can this be...?"
+57,"TEXT_CLSWVR700_02435_KOTOCHO_000_012","It embarrasses me to say this, but were it not for Kototsuru, I would not be the geiko I am today. As a child, I saw her twirl across the stage at the Kugane-odori, and it moved me as nothing I had seen before. In that instant, I <hex:021A020203>knew<hex:021A020103>─I would give anything to dance beside her one day."
+58,"TEXT_CLSWVR700_02435_KOTOCHO_000_013","At the bugyo's banquet, my dream was finally realized. In the end, my performance was not worthy of sharing the same stage. And yet still, deep down, the little girl inside me was giddy as could be."
+59,"TEXT_CLSWVR700_02435_KOTOCHO_000_014","This is what sustained me as I scrubbed the floors and folded the kimono of girls years my junior─knowing that if I did what was asked of me, the day would come that I could once more stand next to she who taught me everything, and this time prove my true worth!"
+60,"TEXT_CLSWVR700_02435_KOTOCHOU_000_015",""
+61,"TEXT_CLSWVR700_02435_KOTOCYO_000_015",""
+62,"TEXT_CLSWVR700_02435_KOTOCHO_000_015","...But now that day will never come. And so I have told the young master I will have need of his gifts no longer. To take the stage with this empty heart would only bring shame to him─and to the flower district itself."
+63,"TEXT_CLSWVR700_02435_KOTOCHO_000_016","You have been most kind to me, but I would be alone with my thoughts for a while. Tell Master Keimei I am sorry."
+64,"TEXT_CLSWVR700_02435_KOTOCHO_000_019","I know not what path I will walk from here, but I would be alone with my thoughts for a while. Pray forgive me."
+65,"TEXT_CLSWVR700_02435_KEIMEI_000_020","Oh, thank the kami you return! You have spoken with my butterfly, yes? What is it that pains her?"
+66,"TEXT_CLSWVR700_02435_KEIMEI_000_021","...I see. Without her rival and role model to bring her focus, Kotocho has lost the will to go on. The poor girl...why must she torture herself so?"
+67,"TEXT_CLSWVR700_02435_KEIMEI_000_022","That said, it is quite like her. Once she has set her mind to something, she is not easily swayed by the words of others. It can be one of her most endearing qualities─and, at times like this, one of her most frustrating."
+68,"TEXT_CLSWVR700_02435_KEIMEI_000_023","As the girl's patron, it is my duty to support her in any way I am able. To this point, this has mostly taken the form of tangible gifts, but it would seem my butterfly requires a different sort of favor from us this day."
+69,"TEXT_CLSWVR700_02435_KEIMEI_000_024","<hex:020815E905FF09>Mistress<hex:FF07>Master<hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303>. Might you be so kind as to accompany me to speak with Kototsuru? We may yet be able to convince her to reconsider her decision."
+70,"TEXT_CLSWVR700_02435_KEIMEI_000_025","She is known to frequent the piers at this time of <hex:020831E3E90C0DFF15><hex:020811E3E90C05FF06>night<hex:FF04>day<hex:03><hex:FF15><hex:020811E3E90C12FF04>day<hex:FF06>night<hex:03><hex:03>. I will be along as soon as I have seen to matters around the shop. Thank you, my friend."
+71,"TEXT_CLSWVR700_02435_KEIMEI_000_029","Kototsuru may seem cold on the surface, but deep down she has a soft spot for her former apprentice. Surely there is hope for us yet!"
+72,"TEXT_CLSWVR700_02435_KOTOTSURU_000_030","Well, if it isn't the adventurer that fool child is always imposing on. Whatever brings you here?"
+73,"TEXT_CLSWVR700_02435_KEIMEI_000_031","Kototsuru, you must hear us out! A young girl's very life hangs in the balance!"
+74,"TEXT_CLSWVR700_02435_KOTOTSURU_000_032","Must you always be so dramatic? You are free to make your plea. Though I, of course, am free to deny it."
+75,"TEXT_CLSWVR700_02435_KEIMEI_000_033","I beg of you, Kototsuru. Pray postpone your retirement, if only for a fortnight. Say that you will dance at the Kugane-odori one last time!"
+76,"TEXT_CLSWVR700_02435_KOTOTSURU_000_034","Forgive me, but I believe this life is my own to live. To tell the truth, I have already put off my marriage quite long enough. Though I am getting no younger, I could not very well leave the Hanamachi without knowing I had a worthy successor, one who could lead the flower district for years to come."
+77,"TEXT_CLSWVR700_02435_KOTOTSURU_000_035","...But things are different now. There is, at last, one who could follow in my footsteps. She is already a favorite of the crowds, and though once she stumbled, she has risen again, with newfound humility to temper her passion. I would step aside and let her take center stage."
+78,"TEXT_CLSWVR700_02435_KEIMEI_000_036","Meanwhile, the girl of whom you speak is saying that she may never dance again! This is why we have come to you, Kototsuru. You must help us save our butterfly!"
+79,"TEXT_CLSWVR700_02435_KOTOTSURU_000_037","Whatever would you need of me? You are her patron, are you not? It is you and <hex:020815E905FF09>Mistress<hex:FF07>Master<hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303> who have supported her through her most taxing trials, not I."
+80,"TEXT_CLSWVR700_02435_Q1_000_000","What will you say?"
+81,"TEXT_CLSWVR700_02435_A1_000_001","You are what she herself strives to be."
+82,"TEXT_CLSWVR700_02435_A1_000_002","You are the one who gave her a dream."
+83,"TEXT_CLSWVR700_02435_A1_000_003","Nothing."
+84,"TEXT_CLSWVR700_02435_KEIMEI_000_038","We may be her patrons and her friends, but you, Kototsuru─you are the one she always looked up to, and what she herself one day would be. The girl has come far, but she is still a girl. Without you to guide her─to challenge her to be more than who she is today─she is as good as lost."
+85,"TEXT_CLSWVR700_02435_KEIMEI_000_039","It is true that we have spared no effort to help the girl realize her dream. But were it not for you, Kototsuru, that dream would never have been born. Without you to guide her─to challenge her to be more than who she is today─she is as good as lost."
+86,"TEXT_CLSWVR700_02435_KEIMEI_000_040","If you would, <hex:020815E905FF09>Mistress<hex:FF07>Master<hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303>...allow me."
+87,"TEXT_CLSWVR700_02435_KEIMEI_000_041","Kototsuru. You are the one who gave the girl her dream, and what she herself would one day be. Without you to guide her─to challenge her to be more than who she is today─she is as good as lost."
+88,"TEXT_CLSWVR700_02435_KEIMEI_000_042","One last chance to share the stage with her idol, to prove herself worthy─this is all my butterfly wants, and if she is deprived of it, it will haunt her for the rest of her days. We beg of you, Kototsuru! Do not abandon the child in her moment of need!"
+89,"TEXT_CLSWVR700_02435_KOTOTSURU_000_043","You would propose another contest? Be forewarned that I would not take the challenge lightly. If I were to defeat her again, who is to say she would not flee the Hanamachi with her tail between her legs."
+90,"TEXT_CLSWVR700_02435_KEIMEI_000_044","If that is how it goes, it would only show that she was not ready to carry on your legacy after all. If that is the case, it is better you learn now rather than later, no?"
+91,"TEXT_CLSWVR700_02435_KOTOTSURU_000_045","Indeed. Harsher words than I would expect to hear from you, Keimei, and yet there is truth in them. Very well. I will acquiesce to your request. You will see me on stage at the Kugane-odori─on one condition."
+92,"TEXT_CLSWVR700_02435_KOTOTSURU_000_046","Kotocho and I will don the same dress, and dance the same dance...a dance of my choosing. We shall perform the ancient dance that came to Hingashi from Doma in days long past...the <hex:021A020203>tennyo-no-mai<hex:021A020103>."
+93,"TEXT_CLSWVR700_02435_KEIMEI_000_00047","The dance of an angel lured down from her sequestered home in the sky. But Doman custom dictates that all who dance the tennyo-no-mai must wear..."
+94,"TEXT_CLSWVR700_02435_KOTOTSURU_000_048","...A tennyo hagoromo in the classic tradition, of course. Simply nothing else will do. Now, Master Keimei─I trust you will be seeing to my attire as well as that of your precious butterfly, yes?"
+95,"TEXT_CLSWVR700_02435_KEIMEI_000_049","B-But of course! It would be my─<hex:021A020203>our<hex:021A020103> pleasure, right, <hex:020815E905FF09>Mistress<hex:FF07>Master<hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303>? You may consider it a wedding present from the both of us to you."
+96,"TEXT_CLSWVR700_02435_KEIMEI_000_050","That said, this is quite unprecedented. I cannot recall the last time a dance of ancient Doma was performed at the Kugane-odori, much less a time when two leading geiko performed in identical garb. You seek to level the playing field─to ensure that this is a test of pure skill?"
+97,"TEXT_CLSWVR700_02435_KOTOTSURU_000_051","Very astute, Keimei. For all your posturing, at times I look in your eyes and see the man who found me in the teahouses, who bought me my first kimono so many years ago..."
+98,"TEXT_CLSWVR700_02435_KEIMEI_000_052","Father? Ahem. At any rate, consider all of your conditions accepted, Kototsuru. For all that you have done and will do for my butterfly...I thank you."
+99,"TEXT_CLSWVR700_02435_KOTOTSURU_000_053","And with that, I should return to the flower district. I look forward to my present, <hex:020815E905FF09>Mistress<hex:FF07>Master<hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303>."
+100,"TEXT_CLSWVR700_02435_KEIMEI_000_054","Well, that went about as well as could be expected. Still, we haven't any time to lose. Let us meet back at the shop─I will send for Kotocho."
+101,"TEXT_CLSWVR700_02435_KOTOCHO_000_059","So we meet again. The young master asked me to come at once. The timing is curious, but it is just as well─there is something I must tell the both of you..."
+102,"TEXT_CLSWVR700_02435_KEIMEI_000_060","It would seem we are all here. Excellent. Kotocho, there is something you must know..."
+103,"TEXT_CLSWVR700_02435_KOTOCHO_000_061","Wait, young master. Before that, there is something I would say as well─to both of you."
+104,"TEXT_CLSWVR700_02435_KOTOCHO_000_062","You have been so gracious with me, lavishing upon me presents I scarce deserved. But I fear I can accept your patronage no longer. Whatever passion for my art I once had burns within me no longer. And so, I will be leaving the flower district...forever."
+105,"TEXT_CLSWVR700_02435_KEIMEI_000_063","Wait, my sweet butterfly! Have you not heard the news!? Kototsuru has agreed to give one last performance at the Kugane-odori. What's more, she has issued a personal challenge to you!"
+106,"TEXT_CLSWVR700_02435_KOTOCHO_000_064","Wh-What? Could this be true...!?"
+107,"TEXT_CLSWVR700_02435_KEIMEI_000_065","She has, however, given her conditions: the two will perform as one the tennyo-no-mai, the dance of ancient Doma, and do so clad in identical tennyo hagoromo fashioned by <hex:020815E905FF09>Mistress<hex:FF07>Master<hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303>'s hand."
+108,"TEXT_CLSWVR700_02435_KOTOCHO_000_066","Can my ears be believed...? I will not only share the same stage with Kototsuru, but don the same dress...and dance the same dance?"
+109,"TEXT_CLSWVR700_02435_KOTOCHO_000_067","Change of plans, young master─your butterfly will not be retiring after all! After all, we must send Kototsuru off in grand fashion, must we not? <hex:020815E905FF09>Mistress<hex:FF07>Master<hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303>, might I trouble you with one last commission?"
+110,"TEXT_CLSWVR700_02435_KEIMEI_000_068","<hex:021A020203>Those<hex:021A020103> are the eyes, burning with passion, that stole my heart that day! We stand by your side as ever, my butterfly. Pray show us the dance of your lifetime, and give Kototsuru the wedding present that only you could provide!"
+111,"TEXT_CLSWVR700_02435_KOTOCHO_000_069","Young master, <hex:020815E905FF09>Mistress<hex:FF07>Master<hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303>. Words cannot convey my gratitude for all you have done for me! I promise you that this time will be different. No, I will not shirk my training for even a moment. But what am I doing still here? I must begin at once!"
+112,"TEXT_CLSWVR700_02435_KEIMEI_000_070","This will be the final piece I ask of you, friend. I need not impress upon you the gravity of it all. For my part, I can assure you I have spared no expense in procuring the finest of materials."
+113,"TEXT_CLSWVR700_02435_KEIMEI_000_071","Fabrics of the purest white, so pure one would think they were weaved by the angels themselves. White to symbolize Kototsuru's betrothal, and Kotocho's rebirth."
+114,"TEXT_CLSWVR700_02435_KEIMEI_000_072","A traditional garment of the East, it will doubtless be unlike any dress you have fashioned before. But I trust in your talent, and all you have learned since coming here to Kugane. I am most looking forward to seeing your hagoromo."
+115,"TEXT_CLSWVR700_02435_KEIMEI_000_078","I am heartened to see Kotocho in high spirits again. And I am sure those spirits will only rise higher when she takes the stage with Kototsuru clad in your latest and greatest creation."
+116,"TEXT_CLSWVR700_02435_KEIMEI_000_079","I am truly sorry for the burden, but I am counting on you, friend. We all are. If all goes well, this year's Kugane-odori will be the stuff of legend."
+117,"TEXT_CLSWVR700_02435_YAGIRI_000_080","Welcome back, friend. I trust you have come for the fabrics the young master has prepared. They are yours."
+118,"TEXT_CLSWVR700_02435_YAGIRI_000_081","The tennyo-no-mai, as Doman legend has it, was first danced to entice an angel down from a castle in the sky in which she had sequestered herself. It is a dance with a storied history─it is not surprising that Kototsuru, with her deep appreciation for tradition, would make such a choice."
+119,"TEXT_CLSWVR700_02435_YAGIRI_000_082","And yet, to my knowledge, it is rarely performed by two dancers in tandem. Doubtless Kototsuru is looking to give the audience at her final Kugane-odori the show of their lives."
+120,"TEXT_CLSWVR700_02435_YAGIRI_000_083","It would seem that the veteran has high hopes for Kotocho as well. But can the young butterfly truly live up to her mentor's demanding expectations? I, for one, will be on the edge of my seat."
+121,"TEXT_CLSWVR700_02435_YAGIRI_000_088","The face of the flower district's past, and─if all goes well─the face of its future, together on stage one last time. Throw your masterpiece-to-be in the mix, and I suspect this year's Kugane-odori will be a spectacle like none other."
+122,"TEXT_CLSWVR700_02435_YAGIRI_000_089","Your work is done? The young master will want to see it without delay!"
+123,"TEXT_CLSWVR700_02435_KEIMEI_000_090","Is that what I think it is? I knew I could count on you, friend!"
+124,"TEXT_CLSWVR700_02435_KEIMEI_000_091","...Excellent. I would not spoil the moment by looking upon them here and now. No, I will deliver the dresses to the Hanamachi at once."
+125,"TEXT_CLSWVR700_02435_KEIMEI_000_092","You have my most sincere gratitude for all that you have done for us. Pray do not miss the festivities─I am quite certain it will be a spectacle for the ages."
+126,"TEXT_CLSWVR700_02435_KEIMEI_000_100","Ah, there you are, <hex:020815E905FF09>Mistress<hex:FF07>Master<hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303>. Kotocho and Kototsuru are set to take the stage at any moment now."
+127,"TEXT_CLSWVR700_02435_KEIMEI_000_101","Just <hex:021A020203>look<hex:021A020103> at them, my friend. If such a thing were possible, I could swear that two angels, descended from the heavens, stand before our very eyes."
+128,"TEXT_CLSWVR700_02435_KEIMEI_000_102","Every glance, every movement in perfect unison...it is as if the two of them breathe as one."
+129,"TEXT_CLSWVR700_02435_KEIMEI_000_103","Is this still our mortal world we live in? Pray pinch me, friend, that I might be certain I have not been spirited away to a land of dream and fancy..."
+130,"TEXT_CLSWVR700_02435_KEIMEI_000_104","...On second thought, stay your hand. For even if we were trapped in a fantasy─never to return whence we came─if I could watch these two for all eternity, I would gladly accept such a fate."
+131,"TEXT_CLSWVR700_02435_KEIMEI_000_105","I...I have no words for the beauty I just witnessed. It is as if I am lost in a dream from which I hope never to wake."
+132,"TEXT_CLSWVR700_02435_KOTOCHO_000_106","You can thank <hex:020815E905FF09>Mistress<hex:FF07>Master<hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303> for that. From the moment I wrapped myself in this hagoromo, it was as if I had truly transformed into an angel."
+133,"TEXT_CLSWVR700_02435_KOTOTSURU_000_107","In all my years on the stage, I have never felt as I did this day. It was as if our bodies and souls were one─I knew not where one of us ended and the other began. And to think that I almost left the Hanamachi without ever having experienced the rapture of this night..."
+134,"TEXT_CLSWVR700_02435_KOTOCHO_000_108","...Kototsuru. Forgive the headstrong, foolish girl you knew. And know that the woman who stands before you understands all that you have done for me through the years─and thanks you from the bottom of her heart."
+135,"TEXT_CLSWVR700_02435_KOTOCHO_000_109","It would appear our contest has ended in a draw, but I would have it no other way. Once I dreamed of the day when I would surpass you, but today, a new dream is born inside of me."
+136,"TEXT_CLSWVR700_02435_KOTOCHO_000_110","All that you have given me, I will share with those around me. The young master, <hex:020815E905FF09>Mistress<hex:FF07>Master<hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303>, and all those in Kugane─citizen and wayfarer alike─who would honor me with their patronage."
+137,"TEXT_CLSWVR700_02435_KOTOCHO_000_111","The flower district will be in safe hands. Farewell, my dear sister, and may happiness fill the rest of your days."
+138,"TEXT_CLSWVR700_02435_KOTOTSURU_000_112","Thank you, my dear. But let us save the farewells for the proper occasion, shall we? Or is the shining star of the Hanamachi in such demand that she would refuse an invitation to perform at my ceremony?"
+139,"TEXT_CLSWVR700_02435_YAGIRI_000_119","Ah, but that was simply enchanting, was it not!? ...Oh. If you must know, I stole away from the stall for a moment to catch a glimpse of Kotocho and Kototsuru up close. You won't tell the young master, will you?"
+140,"TEXT_CLSWVR700_02435_KEIMEI_000_120","<hex:020815E905FF09>Mistress<hex:FF07>Master<hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303>. You truly outdid yourself this time. I have not the words to convey the full depths of my gratitude."
+141,"TEXT_CLSWVR700_02435_KEIMEI_000_121","With Kototsuru's retirement, the changing of the guard is complete. Kotocho will assume her place atop the ranks of the geiko, where she will lead the flower district into a new era. Great changes are coming, no doubt, but I am confident my butterfly is up to the task. After that ethereal performance, word has it all in the Hanamachi feel the same."
+142,"TEXT_CLSWVR700_02435_KEIMEI_000_122","I spoke with the girl just before you came. She says that, henceforth, she intends to perform in both the Eorzean dresses you fashioned for her, and the traditional kimono handed down to her by Kototsuru."
+143,"TEXT_CLSWVR700_02435_KEIMEI_000_123","In this way, she says, she would usher the flower district into the future, while taking care never to lose sight of the traditions of the past. Oh, how the girl has grown!"
+144,"TEXT_CLSWVR700_02435_KEIMEI_000_124","...My apologies. It is unlike me to get so emotional. And this, I do believe, marks the most successful conclusion of our contract. Thank you, my friend, and rest assured that my butterfly will see that your sublime fashions do not go to waste."
+145,"TEXT_CLSWVR700_02435_KEIMEI_000_125","I do hope that your sojourn in Kugane has been a fruitful one. After all, mayhap your countrymen in Eorzea might take interest in Hingan fashions, as we have taken an interest in yours? But forgive me...this is but a humble suggestion. Till our paths cross again, safe travels, my friend!"
+146,"TEXT_CLSWVR700_02435_KOTOCHOU_000_010",""
+147,"TEXT_CLSWVR700_02435_KOTOCYO_000_010",""
+148,"TEXT_CLSWVR700_02435_KOTOCHOU_000_011",""
+149,"TEXT_CLSWVR700_02435_KOTOCYO_000_011",""
+150,"TEXT_CLSWVR700_02435_KOTOCHOU_000_012",""
+151,"TEXT_CLSWVR700_02435_KOTOCYO_000_012",""
+152,"TEXT_CLSWVR700_02435_KOTOCHOU_000_013",""
+153,"TEXT_CLSWVR700_02435_KOTOCYO_000_013",""
+154,"TEXT_CLSWVR700_02435_KOTOCHOU_000_014",""
+155,"TEXT_CLSWVR700_02435_KOTOCYO_000_014",""
+156,"TEXT_CLSWVR700_02435_KOTOCHOU_000_016",""
+157,"TEXT_CLSWVR700_02435_KOTOCYO_000_016",""
+158,"TEXT_CLSWVR700_02435_KOTOCHOU_000_019",""
+159,"TEXT_CLSWVR700_02435_KOTOCYO_000_019",""
+160,"TEXT_CLSWVR700_02435_KOTOTSURU_000_033",""
+161,"TEXT_CLSWVR700_02435_KOTOCHOU_000_059",""
+162,"TEXT_CLSWVR700_02435_KOTOCYO_000_059",""
+163,"TEXT_CLSWVR700_02435_KOTOCHOU_000_061",""
+164,"TEXT_CLSWVR700_02435_KOTOCYO_000_061",""
+165,"TEXT_CLSWVR700_02435_KOTOCHOU_000_062",""
+166,"TEXT_CLSWVR700_02435_KOTOCYO_000_062",""
+167,"TEXT_CLSWVR700_02435_KOTOCHOU_000_064",""
+168,"TEXT_CLSWVR700_02435_KOTOCYO_000_064",""
+169,"TEXT_CLSWVR700_02435_KOTOCHOU_000_066",""
+170,"TEXT_CLSWVR700_02435_KOTOCYO_000_066",""
+171,"TEXT_CLSWVR700_02435_KOTOCHOU_000_067",""
+172,"TEXT_CLSWVR700_02435_KOTOCYO_000_067",""
+173,"TEXT_CLSWVR700_02435_KOTOCHOU_000_069",""
+174,"TEXT_CLSWVR700_02435_KOTOCYO_000_069",""
+175,"TEXT_CLSWVR700_02435_BANTOU_000_080",""
+176,"TEXT_CLSWVR700_02435_BANTOU_000_081",""
+177,"TEXT_CLSWVR700_02435_BANTOU_000_082",""
+178,"TEXT_CLSWVR700_02435_BANTOU_000_083",""
+179,"TEXT_CLSWVR700_02435_BANTOU_000_088",""
+180,"TEXT_CLSWVR700_02435_BANTOU_000_089",""
+181,"TEXT_CLSWVR700_02435_KOTOCHOU_000_106",""
+182,"TEXT_CLSWVR700_02435_KOTOCYO_000_106",""
+183,"TEXT_CLSWVR700_02435_KOTOCHOU_000_108",""
+184,"TEXT_CLSWVR700_02435_KOTOCYO_000_108",""
+185,"TEXT_CLSWVR700_02435_KOTOCHOU_000_109",""
+186,"TEXT_CLSWVR700_02435_KOTOCYO_000_109",""
+187,"TEXT_CLSWVR700_02435_KOTOCHOU_000_110",""
+188,"TEXT_CLSWVR700_02435_KOTOCYO_000_110",""
+189,"TEXT_CLSWVR700_02435_KOTOCHOU_000_111",""
+190,"TEXT_CLSWVR700_02435_KOTOCYO_000_111",""
+191,"TEXT_CLSWVR700_02435_BANTOU_000_119",""
+192,"TEXT_CLSWVR700_02435_SYSTEM_000_126","In heightening your aesthetic sensibilities as a weaver, you have learned “Stroke of Genius”!"

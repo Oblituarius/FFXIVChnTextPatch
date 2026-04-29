@@ -2,137 +2,137 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_KINGBA111_04819_SEQ_00,聖瓦勒魯瓦揚廣場的特恩托瓦正在觀察往來的行人。
-1,TEXT_KINGBA111_04819_SEQ_01,和特恩托瓦進行了交談。得知有人報告發現了萊奧菲娜的行蹤。和庫爾札斯中央高地巨龍首營地的厄讓努瓦談談。
-2,TEXT_KINGBA111_04819_SEQ_02,和厄讓努瓦進行了交談。運送補給的隊伍被魔物襲擊了。和阿德內爾占星台西側街道邊的特恩托瓦談談。
-3,TEXT_KINGBA111_04819_SEQ_03,和特恩托瓦進行了交談。在阿德內爾占星台西側街道邊尋找並討伐<hex:02280FFF09>BNpcName<hex:F234940103>。
-4,TEXT_KINGBA111_04819_SEQ_04,討伐了<hex:02280FFF09>BNpcName<hex:F234940103>。救助阿德內爾占星台西側街道邊的福爾唐家的騎兵。
-5,TEXT_KINGBA111_04819_SEQ_05,救助了福爾唐家的騎兵。和伊修加德神殿騎士團總部附近的菲爾馬爾貝談談。
-6,TEXT_KINGBA111_04819_SEQ_06,和菲爾馬爾貝進行了交談。和聖瓦勒魯瓦揚廣場的特恩托瓦談談。
-7,TEXT_KINGBA111_04819_SEQ_07,和特恩托瓦進行了交談。補給部隊遇襲一事很可能與獨角鯨的祭器有關。等待神殿騎士團獲取更多關於萊奧菲娜的情報。<hex:02100103><hex:02100103>※任意防護職業的等級達到94級以上時，可以從聖瓦勒魯瓦揚廣場的特恩托瓦那裡領取下一個防護職能任務。
-8,TEXT_KINGBA111_04819_SEQ_08,
-9,TEXT_KINGBA111_04819_SEQ_09,
-10,TEXT_KINGBA111_04819_SEQ_10,
-11,TEXT_KINGBA111_04819_SEQ_11,
-12,TEXT_KINGBA111_04819_SEQ_12,
-13,TEXT_KINGBA111_04819_SEQ_13,
-14,TEXT_KINGBA111_04819_SEQ_14,
-15,TEXT_KINGBA111_04819_SEQ_15,
-16,TEXT_KINGBA111_04819_SEQ_16,
-17,TEXT_KINGBA111_04819_SEQ_17,
-18,TEXT_KINGBA111_04819_SEQ_18,
-19,TEXT_KINGBA111_04819_SEQ_19,
-20,TEXT_KINGBA111_04819_SEQ_20,
-21,TEXT_KINGBA111_04819_SEQ_21,
-22,TEXT_KINGBA111_04819_SEQ_22,
-23,TEXT_KINGBA111_04819_SEQ_23,
-24,TEXT_KINGBA111_04819_TODO_00,和巨龍首營地的厄讓努瓦對話
-25,TEXT_KINGBA111_04819_TODO_01,和特恩托瓦對話
-26,TEXT_KINGBA111_04819_TODO_02,尋找補給部隊 討伐<hex:02280FFF09>BNpcName<hex:F234940103>
-27,TEXT_KINGBA111_04819_TODO_03,救助福爾唐家的騎兵
-28,TEXT_KINGBA111_04819_TODO_04,和伊修加德的菲爾馬爾貝對話
-29,TEXT_KINGBA111_04819_TODO_05,和特恩托瓦對話
-30,TEXT_KINGBA111_04819_TODO_06,
-31,TEXT_KINGBA111_04819_TODO_07,
-32,TEXT_KINGBA111_04819_TODO_08,
-33,TEXT_KINGBA111_04819_TODO_09,
-34,TEXT_KINGBA111_04819_TODO_10,
-35,TEXT_KINGBA111_04819_TODO_11,
-36,TEXT_KINGBA111_04819_TODO_12,
-37,TEXT_KINGBA111_04819_TODO_13,
-38,TEXT_KINGBA111_04819_TODO_14,
-39,TEXT_KINGBA111_04819_TODO_15,
-40,TEXT_KINGBA111_04819_TODO_16,
-41,TEXT_KINGBA111_04819_TODO_17,
-42,TEXT_KINGBA111_04819_TODO_18,
-43,TEXT_KINGBA111_04819_TODO_19,
-44,TEXT_KINGBA111_04819_TODO_20,
-45,TEXT_KINGBA111_04819_TODO_21,
-46,TEXT_KINGBA111_04819_TODO_22,
-47,TEXT_KINGBA111_04819_TODO_23,
-48,TEXT_KINGBA111_04819_FIRMALBERT_000_001,
-49,TEXT_KINGBA111_04819_FIRMALBERT_000_005,我這就向騎士團的高層報告此事。<hex:02100103>請高層協商今後的應對之策！
-50,TEXT_KINGBA111_04819_TENTOAWA_000_010,<hex:022903EB0203>，你來啦。<hex:02100103>我正想去街上轉轉，<hex:02100103>看看有沒有人睡著了呢。
-51,TEXT_KINGBA111_04819_TENTOAWA_100_010,可能是因為這裡冷，所以大家都有這個意識吧。<hex:02100103>我好像還沒見過有人睡在路邊呢。<hex:02100103>就算是酒館裡喝多了的客人也都會老老實實地回家去。
-52,TEXT_KINGBA111_04819_TENTOAWA_000_011,正因如此，要是有人在大庭廣眾之下躺著睡覺就一定是出問題了！<hex:02100103>很有可能就是被獨角鯨的祭器影響才會先睡著。
-53,TEXT_KINGBA111_04819_TENTOAWA_000_012,偷走了寶物的混蛋不可能不把東西拿出來用。<hex:02100103>我們一定要在出現犧牲者之前抓住她……
-54,TEXT_KINGBA111_04819_FIRMALBERT_000_013,<hex:022903EB0203>閣下！特恩托瓦閣下！久等了。
-55,TEXT_KINGBA111_04819_FIRMALBERT_000_014,我們製作萊奧菲娜的通緝令分發到各地之後，<hex:02100103>立刻就有人報告見過她出現。
-56,TEXT_KINGBA111_04819_TENTOAWA_000_015,真的嗎？！<hex:02100103>在哪裡！在哪裡？
-57,TEXT_KINGBA111_04819_FIRMALBERT_000_016,位置是在巨龍首營地附近。<hex:02100103>哨兵在巡邏的過程中偶遇了一個紅頭髮額頭有傷疤的女人，<hex:02100103>特徵跟她很像。
-58,TEXT_KINGBA111_04819_FIRMALBERT_000_017,從聖徒門出去向東，<hex:02100103>就到巨龍首營地了。<hex:02100103>具體情況可以到了那裡之後，讓厄讓努瓦為你們介紹。
-59,TEXT_KINGBA111_04819_TENTOAWA_000_018,那傢伙果然就在這附近。<hex:02100103>我們快去問問情況吧！
-60,TEXT_KINGBA111_04819_FIRMALBERT_000_020,有報告說在巨龍首營地附近發現了疑似萊奧菲娜的人。<hex:02100103>過去之後，巨龍首營地負責此事的厄讓努瓦會為閣下介紹具體情況。
-61,TEXT_KINGBA111_04819_TENTOAWA_000_025,喂喂，我們要找的是這人嗎？<hex:02100103>快跟他打聽一下情況吧！
-62,TEXT_KINGBA111_04819_EUGENNOIX_000_100,唔，閣下這是……<hex:02100103>哦，是為了神殿騎士團發來的通緝令的事情嗎。
-63,TEXT_KINGBA111_04819_EUGENNOIX_000_101,有報告說，有一個形似通緝令目標的人沿著街道向南去了。<hex:02100103>不過在那之後，並沒能發現她的行蹤……
-64,TEXT_KINGBA111_04819_TENTOAWA_000_102,
-65,TEXT_KINGBA111_04819_EUGENNOIX_000_103,這裡是巨龍首營地。
-66,TEXT_KINGBA111_04819_EUGENNOIX_000_104,什麼？！<hex:02100103>我知道了，請再堅持一下！
-67,TEXT_KINGBA111_04819_TENTOAWA_000_105,出事了？
-68,TEXT_KINGBA111_04819_EUGENNOIX_000_106,運送補給的車隊被魔物襲擊了，情況十分危急。<hex:02100103>這次的運輸隊身邊應該有皇都直接派遣的神殿騎士護衛才對啊，<hex:02100103>為什麼還會陷入危險……
-69,TEXT_KINGBA111_04819_EUGENNOIX_000_107,
-70,TEXT_KINGBA111_04819_TENTOAWA_000_108,先別管萊奧菲娜的事了，我們快過去幫忙吧！
-71,TEXT_KINGBA111_04819_EUGENNOIX_000_109,太謝謝你們了！<hex:02100103>求救的隊伍應該在阿德內爾占星台西側的大路邊。<hex:02100103>請二位先行一步，我這就去整編救援部隊跟上二位。
-72,TEXT_KINGBA111_04819_EUGENNOIX_000_110,遇襲的地點在阿德內爾占星台西側的大路邊。<hex:02100103>我這就去整編救援部隊，趕往現場救援。<hex:02100103>還請二位先行一步去幫幫他們！
-73,TEXT_KINGBA111_04819_TENTOAWA_000_200,他們是在這附近被魔物襲擊了，對吧？
-74,TEXT_KINGBA111_04819_TENTOAWA_000_201,我去河那一邊找，<hex:02100103>你沿著大路走，看看能不能找到人！
-75,TEXT_KINGBA111_04819_HOUSEFORTEMPSKNIGHT04819_000_400,得、得救了！<hex:02100103>多虧了你……不然我就……
-76,TEXT_KINGBA111_04819_TENTOAWA_000_401,小心！
-77,TEXT_KINGBA111_04819_TENTOAWA_000_402,太好了！趕上了！
-78,TEXT_KINGBA111_04819_TENTOAWA_000_403,以不眠勇士之名，予你安享永眠……
-79,TEXT_KINGBA111_04819_Q1_000_000,要說什麼？
-80,TEXT_KINGBA111_04819_A1_000_001,我們來晚了……
-81,TEXT_KINGBA111_04819_A1_000_002,但凡再早一點……
-82,TEXT_KINGBA111_04819_HOUSEFORTEMPSKNIGHT04819_000_405,呃，這個……你看……<hex:02100103>他們只是睡著了而已。
-83,TEXT_KINGBA111_04819_TENTOAWA_000_406,果然……
-84,TEXT_KINGBA111_04819_HOUSEFORTEMPSKNIGHT04819_000_407,我們在路上跑得正好呢，陸行鳥突然就開始東倒西歪腳下拌蒜，<hex:02100103>搖搖晃晃地轉眼就出了事故，車也撞壞了。<hex:02100103>我就只好停在這裡修理篷車。
-85,TEXT_KINGBA111_04819_HOUSEFORTEMPSKNIGHT04819_000_408,在我修車的時候，這幾位神殿騎士負責在周圍警戒。<hex:02100103>但不知什麼時候，他們突然就睡過去了。<hex:02100103>接著就有一群魔物襲擊了我們，我一個人也打不過它們……
-86,TEXT_KINGBA111_04819_TENTOAWA_000_409,喂喂，哥們！醒醒！起床啦！<hex:02100103>在這裡再睡下去要凍死咯！
-87,TEXT_KINGBA111_04819_TEMPLEKNIGHT04819A_000_410,嗚……<hex:02100103>什、什麼……？
-88,TEXT_KINGBA111_04819_TEMPLEKNIGHT04819A_000_411,什麼……？<hex:02100103>你說我們在護衛的途中睡著了？
-89,TEXT_KINGBA111_04819_TEMPLEKNIGHT04819B_000_412,不可能啊，我們可是光榮的神殿騎士團的成員，<hex:02100103>怎麼能做出這種讓騎士團蒙羞的事情！
-90,TEXT_KINGBA111_04819_HOUSEFORTEMPSKNIGHT04819_000_413,你還敢說！<hex:02100103>魔物來的時候我可是眼睜睜地看著你們都躺下睡死了！
-91,TEXT_KINGBA111_04819_HOUSEFORTEMPSKNIGHT04819_000_414,要不是我向總部請求支援，<hex:02100103>又有英雄閣下趕過來搭救，現在我們就都完蛋了……<hex:02100103>我要向你們的上級報告，抗議你們玩忽職守！
-92,TEXT_KINGBA111_04819_TENTOAWA_000_415,等一下……<hex:02100103>其實這兩個人是受到了祭器的力量影響，才會睡過去的……
-93,TEXT_KINGBA111_04819_TENTOAWA_000_416,不，現在說這些也說不清，反而會把事情變得更亂。<hex:02100103>算了，沒事，就當我什麼都沒說吧。
-94,TEXT_KINGBA111_04819_HOUSEFORTEMPSKNIGHT04819_000_417,陸行鳥似乎也冷靜下來了。<hex:02100103>等我修理完篷車後就可以繼續運送貨物了。<hex:02100103>英雄閣下要是有事的話就去忙吧，之後我們能自己應付了。
-95,TEXT_KINGBA111_04819_TENTOAWA_000_418,突然搖搖晃晃……負責警戒的人還打起了瞌睡。<hex:02100103>……不會錯了，這一定是有人用了獨角鯨的祭器。
-96,TEXT_KINGBA111_04819_TENTOAWA_000_419,但現在萊奧菲娜肯定已經跑了。<hex:02100103>我們先回城裡去吧。
-97,TEXT_KINGBA111_04819_HOUSEFORTEMPSKNIGHT04819_100_420,營地那邊的支援很快就到了。<hex:02100103>我們這裡已經沒事了。英雄閣下不用擔心我們，快回去吧。
-98,TEXT_KINGBA111_04819_EUGENNOIX_000_420,多虧了二位用最快的速度趕往現場，<hex:02100103>遇襲的補給部隊才能得救。<hex:02100103>感謝你們！
-99,TEXT_KINGBA111_04819_TENTOAWA_000_425,雖然沒抓到萊奧菲娜，<hex:02100103>但確實發現了她的蹤跡。<hex:02100103>我可得好好跟人家道謝！
-100,TEXT_KINGBA111_04819_FIRMALBERT_000_500,我已經了解巨龍首營地的補給部隊遭遇的事故了。<hex:02100103>沒想到負責護衛任務的神殿騎士竟然會打瞌睡……
-101,TEXT_KINGBA111_04819_FIRMALBERT_000_501,雖然多虧了二位的努力才將損害降到了最低，<hex:02100103>但我們絕不能容忍這樣的失職。<hex:02100103>請放心吧，他們肯定會受到嚴厲的懲戒。
-102,TEXT_KINGBA111_04819_TENTOAWA_000_502,那個啊，我覺得他們會打瞌睡，<hex:02100103>可能是被獨角鯨的祭器影響了。<hex:02100103>所以你就別罰他們了唄。
-103,TEXT_KINGBA111_04819_FIRMALBERT_000_503,祭器，你是說之前提到過的那個神奇力量的寶物嗎？<hex:02100103>原來如此，這樣的話我就能理解了……
-104,TEXT_KINGBA111_04819_FIRMALBERT_000_504,……但他們因為疏忽讓本該守護的目標陷入危機也是事實。<hex:02100103>罰還是必須得罰的。
-105,TEXT_KINGBA111_04819_TENTOAWA_000_505,這樣啊……<hex:02100103>在你們這裡護衛原來是這麼嚴肅重要的工作啊。
-106,TEXT_KINGBA111_04819_TENTOAWA_000_506,對了，這次謝謝你告訴我們萊奧菲娜的線索。<hex:02100103>下次要是還有關於她的消息的話，記得也跟我說說。
-107,TEXT_KINGBA111_04819_FIRMALBERT_000_507,哪裡哪裡，我們才是要說謝謝的人。<hex:02100103>請放心，我們會繼續注意她的行蹤。<hex:02100103>有消息的話一定會盡快告訴你。
-108,TEXT_KINGBA111_04819_TENTOAWA_000_508,<hex:022903EB0203>，我想再跟你講講關於獨角鯨的祭器的事情。<hex:02100103>我們去那邊聊聊吧。
-109,TEXT_KINGBA111_04819_FIRMALBERT_000_510,我懷疑襲擊補給部隊是對方在為後續的計劃做準備。<hex:02100103>我們會加強警戒，防備她的下一次襲擊。
-110,TEXT_KINGBA111_04819_TENTOAWA_000_600,那麼，我想你已經知道了，只要使用獨角鯨的祭器，<hex:02100103>就能讓目標陷入昏睡之中。
-111,TEXT_KINGBA111_04819_TENTOAWA_000_601,雖說人睡著了之後就會失去反抗之力，<hex:02100103>但在我們的部族裡，大家並不會用這件祭器攻擊別人。
-112,TEXT_KINGBA111_04819_TENTOAWA_100_601,要是讓其他人承受自己的睡意，<hex:02100103>不就代表使用者本人無法入睡了嗎？
-113,TEXT_KINGBA111_04819_TENTOAWA_000_602,
-114,TEXT_KINGBA111_04819_TENTOAWA_000_603,
-115,TEXT_KINGBA111_04819_TENTOAWA_000_604,
-116,TEXT_KINGBA111_04819_TENTOAWA_000_605,這種為了部族保持著清醒的戰士，我們稱為不眠勇士。<hex:02100103>在這十年裡，我在祭器的幫助下不眠不休，日夜鍛鍊，<hex:02100103>只求將自己訓練成一名能守護大家的強大戰士。
-117,TEXT_KINGBA111_04819_TENTOAWA_000_606,相應的，我就需要一個替我承受睡意安眠的「美夢之子」。<hex:02100103>你在圖萊尤拉遇到的洛澤尼凱……<hex:02100103>就是這個美夢之子。
-118,TEXT_KINGBA111_04819_TENTOAWA_000_607,所以一天的大半時間裡，洛澤尼凱都在睡覺。<hex:02100103>就算是醒過來了，也需要拚命吃東西補充營養，<hex:02100103>努力運動防止身體變虛弱。
-119,TEXT_KINGBA111_04819_TENTOAWA_000_608,因此，我們幾乎沒有好好交流的機會。<hex:02100103>但我們還是小孩的時候，<hex:02100103>經常一起在山裡到處亂跑。
-120,TEXT_KINGBA111_04819_TENTOAWA_000_609,回想起來，我其實也是一樣，天天都在鍛鍊，<hex:02100103>雖然一點自由時間都沒有……但至少有了能保護部族的力量。<hex:02100103>我和洛澤尼凱都算是能接受這個結果。
-121,TEXT_KINGBA111_04819_Q2_000_000,要說什麼？
-122,TEXT_KINGBA111_04819_A2_000_001,你剛才展示出來的身手確實不一般！
-123,TEXT_KINGBA111_04819_A2_000_002,你這麼厲害，怎麼祭器還是被人搶走了？
-124,TEXT_KINGBA111_04819_A2_000_003,那你們平時如何交流？
-125,TEXT_KINGBA111_04819_TENTOAWA_000_611,都是多虧了洛澤尼凱。<hex:02100103>要不是有她的犧牲，<hex:02100103>我是不可能變得這麼厲害的。
-126,TEXT_KINGBA111_04819_TENTOAWA_000_612,出了一些意外……
-127,TEXT_KINGBA111_04819_TENTOAWA_000_613,不……是我的錯，祭器會被偷走的責任在我。<hex:02100103>守護者沒能盡到義務，讓東西被人偷走了，就是犯了錯。
-128,TEXT_KINGBA111_04819_TENTOAWA_100_613,……其實，在使用祭器的時候我能跟她說上話。<hex:02100103>但除此以外的時候，都只能看到她呼呼大睡的樣子。
-129,TEXT_KINGBA111_04819_TENTOAWA_110_613,能一直醒著不用睡覺聽起來或許很自由，<hex:02100103>但其實等大家都睡著了，剩下你一個人的時候一點意思都沒有。
-130,TEXT_KINGBA111_04819_TENTOAWA_000_614,啊，好像聊得太久跑題了。<hex:02100103>總之，我們原來使用祭器的力量，<hex:02100103>是為了讓自己能獲得更多時間鍛鍊本領。
-131,TEXT_KINGBA111_04819_TENTOAWA_000_615,但要是使用祭器的人心術不正，這件寶物也能用來害人。<hex:02100103>……就像你剛才看到的那樣。
-132,TEXT_KINGBA111_04819_TENTOAWA_000_616,竟敢拿我們部族的祭器為非作歹。<hex:02100103>下次我一定抓住那個叫萊奧菲娜的傢伙。
-133,TEXT_KINGBA111_04819_TENTOAWA_000_617,
+0,"TEXT_KINGBA111_04819_SEQ_00","Tentoawa is eyeing each passing Ishgardian with curiosity."
+1,"TEXT_KINGBA111_04819_SEQ_01","Tentoawa suggests that the best way to find Leophyne might be to scour Ishgard for people sleeping in the frigid cold. Luckily, you receive a more solid lead when Firmalbert informs you that someone matching Leophyne's description was sighted near Camp Dragonhead. Eager to learn more, Tentoawa departs to the outpost, and urges you to follow him."
+2,"TEXT_KINGBA111_04819_SEQ_02","Eugennoix informs you that the woman fitting Leophyne's description was spotted heading south, but your conversation is interrupted when the knight receives a call over linkshell. Apparently, a shipment of supplies was attacked to the west of the Observatorium. Hearing this, Tentoawa readily volunteers both you and him to rescue the people escorting it. Find the shipment and fell any beasts assaulting it."
+3,"TEXT_KINGBA111_04819_SEQ_03","You find Tentoawa searching frantically for the beleaguered soldiers. He asks you to search further down the road and suggests you be ready for a fight."
+4,"TEXT_KINGBA111_04819_SEQ_04","You come upon a knight of House Fortemps being assaulted by a group of silver wolves, but quickly dispatch them. The knight seems flustered but unharmed, and eager to speak with his valiant protector."
+5,"TEXT_KINGBA111_04819_SEQ_05","Just as the knight thanks you, more beasts steal up on you from behind. Luckily, Tentoawa strikes them down, and with your foes dispatched, you observe two Temple Knights apparently asleep. After rousing them, they deny that they would ever shirk their duty in such a way, but the facts suggest otherwise. Though Tentoawa is certain that the cradle is to blame, he is unwilling to openly remark upon it. With Leophyne nowhere to be found, the young warrior suggests returning to Ishgard to plan your next course of action."
+6,"TEXT_KINGBA111_04819_SEQ_06","You report what transpired to Firmalbert, and although Tentoawa explains that the knights fell victim to a power beyond their control, Firmalbert insists they must still be punished for allowing their enemy to get the better of them. Tentoawa seems ready to reveal more of the cradle's history to you, and asks you to speak with him in a nearby alcove."
+7,"TEXT_KINGBA111_04819_SEQ_07","Tentoawa explains that for the past ten years, his people have used the cradle to keep him awake as their guardian and protector, the Wide Eye. He transfers his fatigue to another known as the Shut Eye─Loazenikwe─and confesses that she has been asleep for most of her life. He confesses he never considered the cradle's impact on his life prior to its theft, and that he only now realizes its potential for misuse. Although you must wait for further news of Leophyne's movements, the young warrior remains as resolute as ever in his goal to capture her.<hex:02100103><hex:02100103>※The next role quest will be available from Tentoawa upon reaching level 94 in any tank class."
+8,"TEXT_KINGBA111_04819_SEQ_08",""
+9,"TEXT_KINGBA111_04819_SEQ_09",""
+10,"TEXT_KINGBA111_04819_SEQ_10",""
+11,"TEXT_KINGBA111_04819_SEQ_11",""
+12,"TEXT_KINGBA111_04819_SEQ_12",""
+13,"TEXT_KINGBA111_04819_SEQ_13",""
+14,"TEXT_KINGBA111_04819_SEQ_14",""
+15,"TEXT_KINGBA111_04819_SEQ_15",""
+16,"TEXT_KINGBA111_04819_SEQ_16",""
+17,"TEXT_KINGBA111_04819_SEQ_17",""
+18,"TEXT_KINGBA111_04819_SEQ_18",""
+19,"TEXT_KINGBA111_04819_SEQ_19",""
+20,"TEXT_KINGBA111_04819_SEQ_20",""
+21,"TEXT_KINGBA111_04819_SEQ_21",""
+22,"TEXT_KINGBA111_04819_SEQ_22",""
+23,"TEXT_KINGBA111_04819_SEQ_23",""
+24,"TEXT_KINGBA111_04819_TODO_00","Speak with Eugennoix at Camp Dragonhead."
+25,"TEXT_KINGBA111_04819_TODO_01","Speak with Tentoawa."
+26,"TEXT_KINGBA111_04819_TODO_02","Defeat the ravenous silver wolves."
+27,"TEXT_KINGBA111_04819_TODO_03","Aid the House Fortemps knight."
+28,"TEXT_KINGBA111_04819_TODO_04","Speak with Firmalbert in Ishgard."
+29,"TEXT_KINGBA111_04819_TODO_05","Speak with Tentoawa."
+30,"TEXT_KINGBA111_04819_TODO_06",""
+31,"TEXT_KINGBA111_04819_TODO_07",""
+32,"TEXT_KINGBA111_04819_TODO_08",""
+33,"TEXT_KINGBA111_04819_TODO_09",""
+34,"TEXT_KINGBA111_04819_TODO_10",""
+35,"TEXT_KINGBA111_04819_TODO_11",""
+36,"TEXT_KINGBA111_04819_TODO_12",""
+37,"TEXT_KINGBA111_04819_TODO_13",""
+38,"TEXT_KINGBA111_04819_TODO_14",""
+39,"TEXT_KINGBA111_04819_TODO_15",""
+40,"TEXT_KINGBA111_04819_TODO_16",""
+41,"TEXT_KINGBA111_04819_TODO_17",""
+42,"TEXT_KINGBA111_04819_TODO_18",""
+43,"TEXT_KINGBA111_04819_TODO_19",""
+44,"TEXT_KINGBA111_04819_TODO_20",""
+45,"TEXT_KINGBA111_04819_TODO_21",""
+46,"TEXT_KINGBA111_04819_TODO_22",""
+47,"TEXT_KINGBA111_04819_TODO_23",""
+48,"TEXT_KINGBA111_04819_FIRMALBERT_000_001",""
+49,"TEXT_KINGBA111_04819_FIRMALBERT_000_005","I shall inform my superiors at once. Worry not, we shall soon form a plan to bring that wicked Leophyne to heel!"
+50,"TEXT_KINGBA111_04819_TENTOAWA_000_010","There you are, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. I've been walking Ishgard's streets whenever I've been able, and I've taken to searching for any sleeping people."
+51,"TEXT_KINGBA111_04819_TENTOAWA_100_010","You see, the land I'm from isn't much warmer than this, and people know not to tempt fate by dozing off in the open air. Even those blind with drink manage to find their way home somehow."
+52,"TEXT_KINGBA111_04819_TENTOAWA_000_011","I figure the only force powerful enough to overcome that instinct for self-preservation would be the cradle, so if we find a sleeper exposed to the elements, we may very well discover Leophyne nearby."
+53,"TEXT_KINGBA111_04819_TENTOAWA_000_012","I can't imagine she brought it all this way just to remain idle. It's a tedious prospect, but we need to scour every back alley and shadowed walkway before anyone catches something much worse than a cold."
+54,"TEXT_KINGBA111_04819_FIRMALBERT_000_013","<hex:020815E905FF09>Mistress<hex:FF07>Master<hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303>! Master Tentoawa! I bring good tidings!"
+55,"TEXT_KINGBA111_04819_FIRMALBERT_000_014","The Temple Knights wasted no time in distributing handbills across Ishgard containing Leophyne's description. These efforts have already borne fruit─we but recently received a report of someone matching her features being sighted."
+56,"TEXT_KINGBA111_04819_TENTOAWA_000_015","Really!? Where!?"
+57,"TEXT_KINGBA111_04819_FIRMALBERT_000_016","She was sighted near Camp Dragonhead by a patrolling sentry. He described a woman with red hair and a distinct scar on her forehead."
+58,"TEXT_KINGBA111_04819_FIRMALBERT_000_017","The outpost can be reached by passing through the Gates of Judgement and heading east. Once there, speak with Ser Eugennoix for the full report."
+59,"TEXT_KINGBA111_04819_TENTOAWA_000_018","I knew she'd show herself! Let's hurry, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>!"
+60,"TEXT_KINGBA111_04819_FIRMALBERT_000_020","A person fitting Leophyne's description was sighted near Camp Dragonhead. Ser Eugennoix should be willing to tell you more."
+61,"TEXT_KINGBA111_04819_TENTOAWA_000_025","This must be him. Well, don't dally!"
+62,"TEXT_KINGBA111_04819_EUGENNOIX_000_100","Ah, I was informed you were on your way. This is concerning the report by one of our sentries, yes?"
+63,"TEXT_KINGBA111_04819_EUGENNOIX_000_101","He sighted a woman matching the description in the handbill sent by the Congregation. She was heading south along the footpath, but that is all we know."
+64,"TEXT_KINGBA111_04819_TENTOAWA_000_102",""
+65,"TEXT_KINGBA111_04819_EUGENNOIX_000_103","...Yes. This is Eugennoix."
+66,"TEXT_KINGBA111_04819_EUGENNOIX_000_104","What!? Hold fast─I shall send aid at once!"
+67,"TEXT_KINGBA111_04819_TENTOAWA_000_105","What happened?"
+68,"TEXT_KINGBA111_04819_EUGENNOIX_000_106","A shipment of supplies was waylaid by monstrous beasts. A contingent of Temple Knights should have been protecting it, but something is amiss..."
+69,"TEXT_KINGBA111_04819_EUGENNOIX_000_107",""
+70,"TEXT_KINGBA111_04819_TENTOAWA_000_108","They need our help!"
+71,"TEXT_KINGBA111_04819_EUGENNOIX_000_109","We would be in your debt. The shipment was attacked on the road west of the Observatorium. I shall muster more knights─please, go find my men before any lives are lost!"
+72,"TEXT_KINGBA111_04819_EUGENNOIX_000_110","The supply shipment was struck on the road west of the Observatorium. It will take time to muster enough men for the rescue─please, leave now and render what aid you can!"
+73,"TEXT_KINGBA111_04819_TENTOAWA_000_200","They should be close, right?"
+74,"TEXT_KINGBA111_04819_TENTOAWA_000_201","I'll search the other side of the river. <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, you search further down the road. And keep your weapon at the ready!"
+75,"TEXT_KINGBA111_04819_HOUSEFORTEMPSKNIGHT04819_000_400","You saved us... We were almost─"
+76,"TEXT_KINGBA111_04819_TENTOAWA_000_401","You won't be feasting today!"
+77,"TEXT_KINGBA111_04819_TENTOAWA_000_402","Not a moment too soon!"
+78,"TEXT_KINGBA111_04819_TENTOAWA_000_403","The Wide Eye watches eternal, and eternal is the sleep it bestows."
+79,"TEXT_KINGBA111_04819_Q1_000_000","What will you say?"
+80,"TEXT_KINGBA111_04819_A1_000_001","We were too late."
+81,"TEXT_KINGBA111_04819_A1_000_002","We failed..."
+82,"TEXT_KINGBA111_04819_HOUSEFORTEMPSKNIGHT04819_000_405","No, they're not─ Ah, just look. They're asleep, is all."
+83,"TEXT_KINGBA111_04819_TENTOAWA_000_406","...Good. Good."
+84,"TEXT_KINGBA111_04819_HOUSEFORTEMPSKNIGHT04819_000_407","Our trusty chocobos suddenly became unsure on their feet, and the wagon toppled onto the side of the road. There was nothing for it but to fix the damage on the spot."
+85,"TEXT_KINGBA111_04819_HOUSEFORTEMPSKNIGHT04819_000_408","The Temple Knights went to secure the area, but before I knew it each and every one of them had fallen asleep where they were standing. Then the beasts attacked...it was just me before those snarling fangs."
+86,"TEXT_KINGBA111_04819_TENTOAWA_000_409","Time to wake up. Sleep here any longer and the cold will have you."
+87,"TEXT_KINGBA111_04819_TEMPLEKNIGHT04819A_000_410","Ungh... What...happened?"
+88,"TEXT_KINGBA111_04819_TEMPLEKNIGHT04819A_000_411","We...fell asleep? But we were patrolling..."
+89,"TEXT_KINGBA111_04819_TEMPLEKNIGHT04819B_000_412","He must be mistaken. A Temple Knight would never shirk his duty so."
+90,"TEXT_KINGBA111_04819_HOUSEFORTEMPSKNIGHT04819_000_413","Are you calling me a liar? I saw you fall over on your arse with my own eyes!"
+91,"TEXT_KINGBA111_04819_HOUSEFORTEMPSKNIGHT04819_000_414","If not for Ser Eugennoix's quick response and the bravery of these warriors, we all would be food for the vultures by now. The Congregation will hear of this dereliction of duty, you can be sure!"
+92,"TEXT_KINGBA111_04819_TENTOAWA_000_415","Now, hold on just a moment. They aren't the ones to blame. A sacred relic of my people was stolen, and..."
+93,"TEXT_KINGBA111_04819_TENTOAWA_000_416","Ah, now isn't the time. Sorry, forget I said anything."
+94,"TEXT_KINGBA111_04819_HOUSEFORTEMPSKNIGHT04819_000_417","Whatever dizziness overtook the chocobos seems to have passed, so I'll resume my journey once the carriage is repaired. Assuming my guards are quite refreshed, I believe we can make it on our own. Please, return to Camp Dragonhead and warm yourselves."
+95,"TEXT_KINGBA111_04819_TENTOAWA_000_418","It's no coincidence that the giant birds and the two guards took leave of their senses around the same time. This is the work of the cradle."
+96,"TEXT_KINGBA111_04819_TENTOAWA_000_419","But even if Leophyne was here, she is no longer. Let's return to the city and consider our next steps."
+97,"TEXT_KINGBA111_04819_HOUSEFORTEMPSKNIGHT04819_100_420","You said that knights from Camp Dragonhead are on their way, yes? Then I believe we shall have ample protection for the remainder of our journey."
+98,"TEXT_KINGBA111_04819_EUGENNOIX_000_420","The supplies are safe, and the men are unharmed. House Fortemps thanks you for your swift action!"
+99,"TEXT_KINGBA111_04819_TENTOAWA_000_425","Leophyne may have escaped us, but the witness's report has given us a clue to follow. Thank the narwhal for guiding us swiftly to the knights."
+100,"TEXT_KINGBA111_04819_FIRMALBERT_000_500","We have received the report of the incident near Camp Dragonhead. Two of our own, sleeping on duty...by the Fury."
+101,"TEXT_KINGBA111_04819_FIRMALBERT_000_501","Had you reached them even a moment later, this day would have been much darker. Although it pains me to say it, those two shall be punished as befits the magnitude of their negligence."
+102,"TEXT_KINGBA111_04819_TENTOAWA_000_502","Um, if I may... I don't believe the blame rests entirely on their shoulders. The Cradle of the Sleepless was used against them, I'm certain."
+103,"TEXT_KINGBA111_04819_FIRMALBERT_000_503","Ah, yes. You said it possessed the power to lull others into a deep sleep. I admit that would explain these exceptional circumstances..."
+104,"TEXT_KINGBA111_04819_FIRMALBERT_000_504","Regardless, they were still bested by their enemy, and their charge was almost killed as a result. Punishment is the only recourse."
+105,"TEXT_KINGBA111_04819_TENTOAWA_000_505","I see... A harsh stance, maybe, but I can respect that you don't treat your duty lightly."
+106,"TEXT_KINGBA111_04819_TENTOAWA_000_506","Well, if you learn anything else of Leophyne's plots, please let us know at once. Even though we didn't find her, I'm glad we were able to save those soldiers. Thank you for coming to us."
+107,"TEXT_KINGBA111_04819_FIRMALBERT_000_507","Nay, 'tis the Temple Knights who owe you thanks. We shall continue our search, and rest assured you shall be the first to know of any developments."
+108,"TEXT_KINGBA111_04819_TENTOAWA_000_508","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, there's more I would tell you about the cradle─things I should've told you sooner. Join me over there and I'll do my best to fix that mistake."
+109,"TEXT_KINGBA111_04819_FIRMALBERT_000_510","We now know what our enemy is capable of, and must plan accordingly. Rest assured we shall not rest until Leophyne is in shackles!"
+110,"TEXT_KINGBA111_04819_TENTOAWA_000_600","Now you've seen with your own eyes what I've only been able to describe. The narwhal's lullaby can put even hardened warriors into a restful slumber."
+111,"TEXT_KINGBA111_04819_TENTOAWA_000_601","They may as well be defenseless as a newborn babe. But even with such power, my people have never used it to attack our enemies."
+112,"TEXT_KINGBA111_04819_TENTOAWA_100_601","Its sole purpose has always been to keep a single person awake. An eternal guardian, who would never sleep, never rest. The Wide Eye. Me."
+113,"TEXT_KINGBA111_04819_TENTOAWA_000_602",""
+114,"TEXT_KINGBA111_04819_TENTOAWA_000_603",""
+115,"TEXT_KINGBA111_04819_TENTOAWA_000_604",""
+116,"TEXT_KINGBA111_04819_TENTOAWA_000_605","For ten years I've been awake, training day and night to gain the strength I have now. The strength to shield my people."
+117,"TEXT_KINGBA111_04819_TENTOAWA_000_606","Of course, another must receive the weariness I cast aside─the Shut Eye. You've met her, in fact─Loazenikwe."
+118,"TEXT_KINGBA111_04819_TENTOAWA_000_607","As I've been awake these ten years, she's spent the better part of her days in a deep slumber. Her brief periods of wakefulness are spent exercising and eating so her body doesn't waste away."
+119,"TEXT_KINGBA111_04819_TENTOAWA_000_608","And so we've barely spoken, despite how much I depend on her. When we were young, we'd spend our days exploring the mountain paths, but that time is long past."
+120,"TEXT_KINGBA111_04819_TENTOAWA_000_609","Telling you all this now, I realize how very little of my life has been dedicated to my own pursuits. Loazenikwe and I both have devoted ourselves entirely to the protection of our village."
+121,"TEXT_KINGBA111_04819_Q2_000_000","What will you say?"
+122,"TEXT_KINGBA111_04819_A2_000_001","That explains your skill."
+123,"TEXT_KINGBA111_04819_A2_000_002","How did Leophyne steal the artifact from such an accomplished warrior?"
+124,"TEXT_KINGBA111_04819_A2_000_003","Don't you miss Loazenikwe?"
+125,"TEXT_KINGBA111_04819_TENTOAWA_000_611","Every bit of my skill I owe to Loazenikwe. If not for her sacrifice, I'd be no stronger than your average hunter. But I've barely had the chance to thank her..."
+126,"TEXT_KINGBA111_04819_TENTOAWA_000_612","Well, about that..."
+127,"TEXT_KINGBA111_04819_TENTOAWA_000_613","...No, I've no excuse. It was my fault it was stolen, and I'll bear that burden. A protector must take responsibility for his charges."
+128,"TEXT_KINGBA111_04819_TENTOAWA_100_613","...I do. I see her only when I have to use the cradle, and even then she is sleeping. I barely remember what her smile looks like..."
+129,"TEXT_KINGBA111_04819_TENTOAWA_110_613","A life unencumbered by sleep might seem like a life of freedom, but if those you care for the most aren't there to share it with you, it can feel like a prison."
+130,"TEXT_KINGBA111_04819_TENTOAWA_000_614","But we don't have the luxury to dwell on regrets. I see now that although my people never used the cradle for ill, wicked hearts can twist anything toward evil."
+131,"TEXT_KINGBA111_04819_TENTOAWA_000_615","And that's something I can't tolerate."
+132,"TEXT_KINGBA111_04819_TENTOAWA_000_616","The very thought that this might happen again makes the bile churn in my gullet. We must bring Leophyne's schemes to an end!"
+133,"TEXT_KINGBA111_04819_TENTOAWA_000_617",""

@@ -2,121 +2,121 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_FESHLW102_00237_SEQ_00,※本任務是特定期間內的任務。<hex:02100103><hex:02100103>利姆薩·羅敏薩的戈德里庫蘭想要開始對大陸馬戲團進行調查。
-1,TEXT_FESHLW102_00237_SEQ_01,※本任務只有在季節活動開放期間才能接受和進行。<hex:02100103>　季節活動結束後無法進行，敬請注意。<hex:02100103>　詳情請參見官方網站。<hex:02100103><hex:02100103>和戈德里庫蘭進行了交談，開始了在利姆薩·羅敏薩的調查。和利姆薩·羅敏薩艦尾樓處可疑的奇術師對話，假裝去幫忙的同時趁機揭穿他們的陰謀。
-2,TEXT_FESHLW102_00237_SEQ_02,和可疑的奇術師進行了交談，按順序將燈籠放置在沉溺海豚亭、珊瑚塔、黑渦軍令部。在變身狀態下將<hex:022811FF0A>EventItem<hex:F61E8A590103>放置在利姆薩·羅敏薩沉溺海豚亭的<hex:02280CFF05>EObj<hex:F61E97870103>。<hex:02100103><hex:02100103>※和艦尾樓的可疑的奇術師對話即可進入變身狀態。
-3,TEXT_FESHLW102_00237_SEQ_03,將<hex:022811FF0A>EventItem<hex:F61E8A590103>放置在了沉溺海豚亭。接下來在變身狀態下將<hex:022811FF0A>EventItem<hex:F61E8A590103>放置在利姆薩·羅敏薩珊瑚塔的<hex:02280CFF05>EObj<hex:F61E97880103>。
-4,TEXT_FESHLW102_00237_SEQ_04,將<hex:022811FF0A>EventItem<hex:F61E8A590103>放置在了珊瑚塔。接下來在變身狀態下將<hex:022811FF0A>EventItem<hex:F61E8A590103>放置在利姆薩·羅敏薩黑渦軍令部的<hex:02280CFF05>EObj<hex:F61E97890103>。
-5,TEXT_FESHLW102_00237_SEQ_05,將<hex:022811FF0A>EventItem<hex:F61E8A590103>放置在了黑渦軍令部。和艦尾樓的可疑的奇術師對話。
-6,TEXT_FESHLW102_00237_SEQ_06,可疑的奇術師的目的是，利用<hex:022811FF0A>EventItem<hex:F61E8A590103>製造魔法陣，召喚大量的魔物。但是在成功召喚出魔物之前，<hex:022811FF0A>EventItem<hex:F61E8A590103>被撤除，粉碎了可疑的奇術師的陰謀。向艦尾樓附近的戈德里庫蘭報告。
-7,TEXT_FESHLW102_00237_SEQ_07,向戈德里庫蘭報告完畢，前往烏爾達哈繼續進行大陸馬戲團的潛入調查。和烏爾達哈紅玉大路國際市場附近的戈德里庫蘭對話。
-8,TEXT_FESHLW102_00237_SEQ_08,和戈德里庫蘭進行了交談。雖說大陸馬戲團沒等冒險者出手就再次遭遇失敗，但他們到底在烏爾達哈計劃了怎樣的陰謀呢？冒險者的潛入調查仍在繼續……
-9,TEXT_FESHLW102_00237_SEQ_09,
-10,TEXT_FESHLW102_00237_SEQ_10,
-11,TEXT_FESHLW102_00237_SEQ_11,
-12,TEXT_FESHLW102_00237_SEQ_12,
-13,TEXT_FESHLW102_00237_SEQ_13,
-14,TEXT_FESHLW102_00237_SEQ_14,
-15,TEXT_FESHLW102_00237_SEQ_15,
-16,TEXT_FESHLW102_00237_SEQ_16,
-17,TEXT_FESHLW102_00237_SEQ_17,
-18,TEXT_FESHLW102_00237_SEQ_18,
-19,TEXT_FESHLW102_00237_SEQ_19,
-20,TEXT_FESHLW102_00237_SEQ_20,
-21,TEXT_FESHLW102_00237_SEQ_21,
-22,TEXT_FESHLW102_00237_SEQ_22,
-23,TEXT_FESHLW102_00237_SEQ_23,
-24,TEXT_FESHLW102_00237_TODO_00,和可疑的奇術師對話
-25,TEXT_FESHLW102_00237_TODO_01,變身後將<hex:022811FF0A>EventItem<hex:F61E8A590103>放置在沉溺海豚亭的<hex:02280CFF05>EObj<hex:F61E97870103>
-26,TEXT_FESHLW102_00237_TODO_02,變身後將<hex:022811FF0A>EventItem<hex:F61E8A590103>放置在珊瑚塔的<hex:02280CFF05>EObj<hex:F61E97880103>
-27,TEXT_FESHLW102_00237_TODO_03,變身後將<hex:022811FF0A>EventItem<hex:F61E8A590103>放置在黑渦軍令部的<hex:02280CFF05>EObj<hex:F61E97890103>
-28,TEXT_FESHLW102_00237_TODO_04,和可疑的奇術師對話
-29,TEXT_FESHLW102_00237_TODO_05,向戈德里庫蘭報告
-30,TEXT_FESHLW102_00237_TODO_06,和烏爾達哈的戈德里庫蘭對話
-31,TEXT_FESHLW102_00237_TODO_07,
-32,TEXT_FESHLW102_00237_TODO_08,
-33,TEXT_FESHLW102_00237_TODO_09,
-34,TEXT_FESHLW102_00237_TODO_10,
-35,TEXT_FESHLW102_00237_TODO_11,
-36,TEXT_FESHLW102_00237_TODO_12,
-37,TEXT_FESHLW102_00237_TODO_13,
-38,TEXT_FESHLW102_00237_TODO_14,
-39,TEXT_FESHLW102_00237_TODO_15,
-40,TEXT_FESHLW102_00237_TODO_16,
-41,TEXT_FESHLW102_00237_TODO_17,
-42,TEXT_FESHLW102_00237_TODO_18,
-43,TEXT_FESHLW102_00237_TODO_19,
-44,TEXT_FESHLW102_00237_TODO_20,
-45,TEXT_FESHLW102_00237_TODO_21,
-46,TEXT_FESHLW102_00237_TODO_22,
-47,TEXT_FESHLW102_00237_TODO_23,
-48,TEXT_FESHLW102_00237_GODRIQUELAIN_000_000,準備好了嗎？<hex:02100103>那麼讓我們再次展開調查吧。
-49,TEXT_FESHLW102_00237_GODRIQUELAIN_000_001,看來大陸馬戲團在這個城市也策劃著邪惡的陰謀，<hex:02100103>因為可疑的奇術師正在尋找幫手呢。
-50,TEXT_FESHLW102_00237_GODRIQUELAIN_000_002,可疑的奇術師應該就在這附近。<hex:02100103>像上回一樣裝作去幫忙，趁機揭穿他們的陰謀吧。<hex:02100103>……真是的，不要出什麼大事就好了。
-51,TEXT_FESHLW102_00237_GODRIQUELAIN_000_003,可疑的奇術師應該就在這附近。<hex:02100103>像上回一樣裝作去幫忙，趁機揭穿他們的陰謀吧。<hex:02100103>……真是的，不要出什麼大事就好了。
-52,TEXT_FESHLW102_00237_CONJURER65773_000_010,噢，你就是在格里達尼亞助我同伴一臂之力的冒險者嗎？<hex:02100103>我已經從團裡的同伴那裡聽說了。<hex:02100103>請你務必要幫幫我。
-53,TEXT_FESHLW102_00237_CONJURER65773_000_011,說到守護天節就少不了南瓜的燈籠，<hex:02100103>但是在這座城市中，怎麼都覺得燈籠的數量不夠！
-54,TEXT_FESHLW102_00237_CONJURER65773_000_012,這樣下去守護天節會少很多看頭！<hex:02100103>所以，我現在把<hex:022811FF0A>EventItem<hex:F61E8A590103>交給你，<hex:02100103>能否請你把它放置在城內呢？
-55,TEXT_FESHLW102_00237_CONJURER65773_000_013,對了……<hex:02100103>把燈籠放置在沉溺海豚亭、珊瑚塔、黑渦軍令部這3個地方就可以了。<hex:02100103>請一定要按我說的順序來放置<hex:022811FF0A>EventItem<hex:F61E8A590103>啊！
-56,TEXT_FESHLW102_00237_CONJURER65773_000_014,……什麼，你問為什麼連放置的順序都是定好了的？<hex:02100103>這是為了讓魔法陣……咳咳……咳！<hex:02100103>總、總之，你就按照順序去放就行了。
-57,TEXT_FESHLW102_00237_CONJURER65773_000_015,那麼，我現在就為你施以變身奇術。<hex:02100103>如果你的形象很恐怖的話，<hex:02100103>就肯定不會有市民來妨礙你了！
-58,TEXT_FESHLW102_00237_CONJURER65773_000_016,首先是將<hex:022811FF0A>EventItem<hex:F61E8A590103><hex:02100103>放置在沉溺海豚亭。
-59,TEXT_FESHLW102_00237_CONJURER65773_000_017,唔，你怎麼把變身解除了！<hex:02100103>沒辦法，那我再為你重新施加變身奇術吧，<hex:02100103>然後你就快點去把<hex:022811FF0A>EventItem<hex:F61E8A590103>放好！
-60,TEXT_FESHLW102_00237_SYSTEM_000_017,正在專心地做著什麼，完全沒有注意到這邊……
-61,TEXT_FESHLW102_00237_BADERON_000_020,(-巴德龍-)什麼？！<hex:02100103>喂，你要放什麼在這裡……
-62,TEXT_FESHLW102_00237_BADERON_100_020,(-巴德龍-)是魔物？！<hex:02100103>魔物放了個燈籠在這裡，開什麼玩笑？！
-63,TEXT_FESHLW102_00237_BADERON_000_021,(-巴德龍-)什麼？！<hex:02100103>喂，你要放什麼在這裡……
-64,TEXT_FESHLW102_00237_BADERON_100_021,(-巴德龍-)什麼，梅爾維布提督？！您竟然大駕光臨？！<hex:02100103>先不管這個了，為什麼提督要把燈籠放在這裡……
-65,TEXT_FESHLW102_00237_BADERON_000_022,(-巴德龍-)……哈哈，原來是使用奇術改變了形象啊。<hex:02100103>我說呢，明明沒有喝醉，還以為自己做了噩夢。<hex:02100103>總之，你的情況我了解了。
-66,TEXT_FESHLW102_00237_BADERON_000_023,(-巴德龍-)難得的守護天節，把燈籠放在這裡倒是沒關係……<hex:02100103>不過這玩意是不是有點太大了？<hex:02100103>而且近期梅爾維布提督還要過來，這可如何是好……
-67,TEXT_FESHLW102_00237_BADERON_000_024,(-巴德龍-)哎呀，總之辛苦你了。<hex:02100103>至於怎樣才能讓這燈籠不礙事，就讓我來琢磨一下吧。
-68,TEXT_FESHLW102_00237_BADERON_000_025,(-巴德龍-)梅爾維布提督就要大駕光臨了，要趕緊開始準備了……<hex:02100103>……於是從什麼開始下手呢。
-69,TEXT_FESHLW102_00237_BADERON_000_026,(-巴德龍-)嗯，這形狀倒也還算不賴……<hex:02100103>但個頭太大實在是礙事，怎麼辦呢。
-70,TEXT_FESHLW102_00237_CONJURER65773_000_027,唔，已經把燈籠放置在沉溺海豚亭了嗎！<hex:02100103>接下來你把<hex:022811FF0A>EventItem<hex:F61E8A590103><hex:02100103>放到珊瑚塔去。
-71,TEXT_FESHLW102_00237_GODRIQUELAIN_000_028,我知道這很麻煩，不過還是要拜託你進行調查。<hex:02100103>因為我無法接近他們，<hex:02100103>所以只有你才能保衛守護天節的和平！
-72,TEXT_FESHLW102_00237_GODRIQUELAIN_100_028,哇哇哇？！<hex:02100103>……原來是你啊。<hex:02100103>我知道這很麻煩，不過還是要拜託你進行調查。
-73,TEXT_FESHLW102_00237_SYSTEM_000_029,在執行該任務時，需要處於變身狀態。
-74,TEXT_FESHLW102_00237_REYNER_000_030,(-雷納-)喂？！<hex:02100103>你在做什麼……
-75,TEXT_FESHLW102_00237_REYNER_100_030,(-雷納-)什麼，是魔物？！<hex:02100103>唔，正好讓你見識下我的槍法！
-76,TEXT_FESHLW102_00237_REYNER_000_031,(-雷納-)喂？！<hex:02100103>你在做什麼……
-77,TEXT_FESHLW102_00237_REYNER_100_031,(-雷納-)梅、梅爾維布提督？！這、這真是失禮了！<hex:02100103>可是，不對啊……感覺跟平時的提督不太一樣……
-78,TEXT_FESHLW102_00237_REYNER_000_032,(-雷納-)……嗯，原來如此。<hex:02100103>是為了給守護天節助興而使用奇術改變了形象啊。
-79,TEXT_FESHLW102_00237_REYNER_000_033,(-雷納-)就我個人而言，你把它裝飾在這裡倒是無所謂……<hex:02100103>但之後可能會因為警備的要求被撤除。
-80,TEXT_FESHLW102_00237_REYNER_000_034,(-雷納-)因為再過不久梅爾維布提督就要來視察了，<hex:02100103>我們會比平時更加謹慎。<hex:02100103>……到底要不要把它撤除呢，真是頭疼。
-81,TEXT_FESHLW102_00237_REYNER_000_035,(-雷納-)不好意思，我現在很忙請稍後再來吧。<hex:02100103>必須準備好迎接梅爾維布提督的視察……
-82,TEXT_FESHLW102_00237_REYNER_000_036,(-雷納-)雖然感覺有些對不住你，但還是把這東西撤掉吧？<hex:02100103>等等，再一看其實放在這裡感覺效果意外的不錯呢……
-83,TEXT_FESHLW102_00237_CONJURER65773_000_037,把燈籠放置在珊瑚塔了啊。<hex:02100103>幹得漂亮，非常感謝！<hex:02100103>餘下的就只有黑渦軍令部了，拜託你了。
-84,TEXT_FESHLW102_00237_GODRIQUELAIN_000_038,我知道這很麻煩，不過還是要拜託你進行調查。<hex:02100103>因為我無法接近他們，<hex:02100103>所以只有你才能保衛守護天節的和平！
-85,TEXT_FESHLW102_00237_GODRIQUELAIN_100_038,哇哇哇？！<hex:02100103>……什麼，是你啊。<hex:02100103>我知道這很麻煩，不過還是要拜託你進行調查。
-86,TEXT_FESHLW102_00237_SYSTEM_000_039,在執行該任務時，需要處於變身狀態。
-87,TEXT_FESHLW102_00237_RASHAHT_000_040,(-爾·阿夏正漩校-)等一下等一下！這裡可是黑渦軍令部啊！<hex:02100103>不可以隨便……
-88,TEXT_FESHLW102_00237_RASHAHT_100_040,(-爾·阿夏正漩校-)這不是魔物嗎！<hex:02100103>竟然打到我們黑渦團家門口來了，膽子可真不小！<hex:02100103>我們這就全軍出動把你打個落花流水……
-89,TEXT_FESHLW102_00237_RASHAHT_000_041,(-爾·阿夏正漩校-)等一下等一下！這裡可是黑渦軍令部啊！<hex:02100103>不可以隨便……
-90,TEXT_FESHLW102_00237_RASHAHT_100_041,(-爾·阿夏正漩校-)梅爾維布提督？！<hex:02100103>您、您、您到得可真早！<hex:02100103>這顆南瓜，呃……是給我們的特別獎勵嗎？
-91,TEXT_FESHLW102_00237_RASHAHT_000_042,(-爾·阿夏正漩校-)……什麼嘛，原來是改變了形象的冒險者啊。<hex:02100103>真是嚇了我一大跳，太過分了！
-92,TEXT_FESHLW102_00237_RASHAHT_000_043,(-爾·阿夏正漩校-)你說想要把這個南瓜燈籠放在這裡？<hex:02100103>我倒是無所謂……
-93,TEXT_FESHLW102_00237_RASHAHT_000_044,(-爾·阿夏正漩校-)唔，怎麼看放在軍令部都不太合適啊。<hex:02100103>可能會被誤認為是可疑物品而撤除掉呢。<hex:02100103>……到時候就對不住啦。
-94,TEXT_FESHLW102_00237_RASHAHT_000_045,(-爾·阿夏正漩校-)呃，視察的項目是……<hex:02100103>梅爾維布提督是什麼時候來視察來著……
-95,TEXT_FESHLW102_00237_RASHAHT_000_046,(-爾·阿夏正漩校-)雖說這個南瓜燈籠看起來還不賴，<hex:02100103>但放在這裡有些不太合適啊……
-96,TEXT_FESHLW102_00237_GODRIQUELAIN_000_047,我知道這很麻煩，不過還是要拜託你進行調查。<hex:02100103>因為我無法接近他們，<hex:02100103>所以只有你才能保衛守護天節的和平！
-97,TEXT_FESHLW102_00237_GODRIQUELAIN_100_047,哇哇哇？！<hex:02100103>……什麼，是你啊。<hex:02100103>我知道這很麻煩，不過還是要拜託你進行調查。
-98,TEXT_FESHLW102_00237_SYSTEM_000_048,在執行該任務時，需要處於變身狀態。
-99,TEXT_FESHLW102_00237_CONJURER65773_100_050,你回來了啊，冒險者！<hex:02100103>我這就幫你解除變身。
-100,TEXT_FESHLW102_00237_CONJURER65773_000_051,你按照我的指示把燈籠都放置好了嗎？<hex:02100103>嘿嘿……嗯，真是太棒了！
-101,TEXT_FESHLW102_00237_CONJURER65773_100_051,愚蠢的人類啊，到頭來你還是沒有注意到吧！<hex:02100103>多虧你去放置了南瓜燈籠，<hex:02100103>我們才完成了「南瓜頭女人」傳授的魔法陣！
-102,TEXT_FESHLW102_00237_CONJURER65773_000_052,再過片刻，魔法陣將會開啟「大門」，<hex:02100103>大量的魔物將會通過「大門」進入這邊的世界！<hex:02100103>然後，我們終於可以再現「魔人之夜」了！
-103,TEXT_FESHLW102_00237_SYSTEM_100_052,聽到了黃衫隊警備兵們的聲音……
-104,TEXT_FESHLW102_00237_YELLOWA65773_000_053,……真是的，一到節日就混亂得讓人頭疼！<hex:02100103>還有些傢伙趁著過守護天節，<hex:02100103>把又大又蠢的燈籠放到礙事的地方……
-105,TEXT_FESHLW102_00237_YELLOWB65773_000_054,啊，就是那些超級礙事的<hex:022811FF0A>EventItem<hex:F61E8A590103>啊。<hex:02100103>好像是放在了沉溺海豚亭、珊瑚塔和黑渦軍令部吧。<hex:02100103>……那幾個燈籠被撤除了？
-106,TEXT_FESHLW102_00237_YELLOWA65773_000_055,那是必須的，幾乎是剛放下就被撤除了！<hex:02100103>擺在那種地方，簡直可以說是在找麻煩了。<hex:02100103>而且提督還要來視察，不可能讓它一直擺在那裡吧。
-107,TEXT_FESHLW102_00237_YELLOWB65773_000_056,啊哈哈，你說得對。
-108,TEXT_FESHLW102_00237_CONJURER65773_000_058,……咳、請、請你不要誤會啊，<hex:02100103>我剛才所說的，是為了讓你感受節日氣氛事先準備好的故事。<hex:02100103>怎、怎麼樣？有沒有嚇出一身汗？
-109,TEXT_FESHLW102_00237_CONJURER65773_000_059,我為了配合這段故事，精心挑選出時間與地點，<hex:02100103>卻沒考慮到燈籠裝飾被撤除的可能性！<hex:02100103>啊哈哈，哈哈……以後的行動中一定要銘記這次教訓……
-110,TEXT_FESHLW102_00237_CONJURER65773_000_060,嗯，很不幸我們失敗了，不過你的使命已經完成。<hex:02100103>這裡已經沒有能讓你大顯身手的餘地了。<hex:02100103>接下來請你前往烏爾達哈吧！
-111,TEXT_FESHLW102_00237_PUMPKIN65772_000_061,(-南瓜頭女人？-)呼呼……呼呼……真是有趣的孩子們……<hex:02100103>就盡情享受守護天節吧……
-112,TEXT_FESHLW102_00237_CONJURER65773_000_062,衷心感謝你的協助，冒險者。<hex:02100103>接下來請你前往烏爾達哈吧！
-113,TEXT_FESHLW102_00237_GODRIQUELAIN_000_070,呀，是你啊，辛苦了！<hex:02100103>潛入調查的結果如何了？
-114,TEXT_FESHLW102_00237_GODRIQUELAIN_000_071,……試圖通過使用魔法陣聚集魔物，再現「魔人之夜」？！<hex:02100103>原來如此，而且還未出手阻止就已經失敗了啊。<hex:02100103>這些傢伙，到底想幹什麼……
-115,TEXT_FESHLW102_00237_GODRIQUELAIN_000_072,接下來他們要去烏爾達哈了啊。<hex:02100103>接連失敗的他們，也許這次就要動真格了！
-116,TEXT_FESHLW102_00237_GODRIQUELAIN_000_073,請你前往烏爾達哈，繼續進行潛入調查吧。<hex:02100103>我先走一步，在紅玉大路國際市場附近等你！
-117,TEXT_FESHLW102_00237_GODRIQUELAIN_000_080,你終於來了！<hex:02100103>先稍作休息，之後就請你繼續調查吧。
+0,"TEXT_FESHLW102_00237_SEQ_00","Godriquelain is eager to resume his investigation of the Continental Circus.<hex:02100103>※This quest is available for a limited time only."
+1,"TEXT_FESHLW102_00237_SEQ_01","Godriquelain has learned that the Continental Circus is also recruiting volunteers for its festive endeavors in Limsa Lominsa. In order to prevent the Night of Devilry from coming to pass, you must pretend to cooperate with the twisted troupe, that you might uncover the details of their dark plot. Speak with the untrustworthy illusionist near the Aftcastle, and offer your services to him.<hex:02100103><hex:02100103>※Please note that you will be unable to complete this quest after the seasonal event has ended. For details, please check the Lodestone."
+2,"TEXT_FESHLW102_00237_SEQ_02","The untrustworthy illusionist has entrusted you with three pumpkin lanterns, which he bids you place at three locations in Limsa Lominsa, and in the order specified. The first lantern is bound for the Drowning Wench.<hex:02100103><hex:02100103>※If the illusion wears off, you may receive it again by speaking with the untrustworthy illusionist."
+3,"TEXT_FESHLW102_00237_SEQ_03","You have convinced Baderon to let you place a pumpkin lantern inside the Drowning Wench. Now make your way to the Coral Tower, and find a likely spot for the second lantern."
+4,"TEXT_FESHLW102_00237_SEQ_04","With some conditions, Commodore Reyner permits you to leave the second pumpkin lantern inside the Coral Tower. The third and final lantern is earmarked for Maelstrom Command. Make your way there, and find a likely spot for it."
+5,"TEXT_FESHLW102_00237_SEQ_05","Though Commander R'ashaht Rhiki consents to your leaving the third pumpkin inside Maelstrom Command, she warns you that the Maelstrom will not be responsible for its care. You have now placed the three lanterns as prescribed. Return to the Aftcastle and report your success to the untrustworthy illusionist."
+6,"TEXT_FESHLW102_00237_SEQ_06","It appears that the untrustworthy illusionist had been plotting to summon forth a horde of dark creatures, and he would have succeeded─with your help─were it not for the unwitting intervention of the locals. For now, you are assured in the knowledge that the realm is safe. Return to Godriquelain and report all that you have seen and heard."
+7,"TEXT_FESHLW102_00237_SEQ_07","Though relieved for the present, Godriquelain fears that the Continental Circus may yet usher in the Night of Devilry. He bids you meet him in Ul'dah, where another dark scheme is in the offing. Make haste to the sultanate, and join Godriquelain in the vicinity of the Ruby Road Exchange."
+8,"TEXT_FESHLW102_00237_SEQ_08","You arrive in Ul'dah and find Godriquelain waiting at the Ruby Road Exchange. Take a deep breath and steel yourself, for the night promises to be dark and full of terrors."
+9,"TEXT_FESHLW102_00237_SEQ_09",""
+10,"TEXT_FESHLW102_00237_SEQ_10",""
+11,"TEXT_FESHLW102_00237_SEQ_11",""
+12,"TEXT_FESHLW102_00237_SEQ_12",""
+13,"TEXT_FESHLW102_00237_SEQ_13",""
+14,"TEXT_FESHLW102_00237_SEQ_14",""
+15,"TEXT_FESHLW102_00237_SEQ_15",""
+16,"TEXT_FESHLW102_00237_SEQ_16",""
+17,"TEXT_FESHLW102_00237_SEQ_17",""
+18,"TEXT_FESHLW102_00237_SEQ_18",""
+19,"TEXT_FESHLW102_00237_SEQ_19",""
+20,"TEXT_FESHLW102_00237_SEQ_20",""
+21,"TEXT_FESHLW102_00237_SEQ_21",""
+22,"TEXT_FESHLW102_00237_SEQ_22",""
+23,"TEXT_FESHLW102_00237_SEQ_23",""
+24,"TEXT_FESHLW102_00237_TODO_00","Speak with the untrustworthy illusionist."
+25,"TEXT_FESHLW102_00237_TODO_01","While transfigured, place a pumpkin lantern inside the Drowning Wench."
+26,"TEXT_FESHLW102_00237_TODO_02","While transfigured, place a pumpkin lantern inside the Coral Tower."
+27,"TEXT_FESHLW102_00237_TODO_03","While transfigured, place a pumpkin lantern inside Maelstrom Command."
+28,"TEXT_FESHLW102_00237_TODO_04","Report to the untrustworthy illusionist."
+29,"TEXT_FESHLW102_00237_TODO_05","Report to Godriquelain."
+30,"TEXT_FESHLW102_00237_TODO_06","Speak with Godriquelain in Ul'dah."
+31,"TEXT_FESHLW102_00237_TODO_07",""
+32,"TEXT_FESHLW102_00237_TODO_08",""
+33,"TEXT_FESHLW102_00237_TODO_09",""
+34,"TEXT_FESHLW102_00237_TODO_10",""
+35,"TEXT_FESHLW102_00237_TODO_11",""
+36,"TEXT_FESHLW102_00237_TODO_12",""
+37,"TEXT_FESHLW102_00237_TODO_13",""
+38,"TEXT_FESHLW102_00237_TODO_14",""
+39,"TEXT_FESHLW102_00237_TODO_15",""
+40,"TEXT_FESHLW102_00237_TODO_16",""
+41,"TEXT_FESHLW102_00237_TODO_17",""
+42,"TEXT_FESHLW102_00237_TODO_18",""
+43,"TEXT_FESHLW102_00237_TODO_19",""
+44,"TEXT_FESHLW102_00237_TODO_20",""
+45,"TEXT_FESHLW102_00237_TODO_21",""
+46,"TEXT_FESHLW102_00237_TODO_22",""
+47,"TEXT_FESHLW102_00237_TODO_23",""
+48,"TEXT_FESHLW102_00237_GODRIQUELAIN_000_000","Since arriving in Limsa Lominsa, I have conducted a preliminary investigation into Continental Circus activities."
+49,"TEXT_FESHLW102_00237_GODRIQUELAIN_000_001","As was the case in Gridania, they are calling for unsuspecting volunteers, doubtless to help them bring their vile plot to fruition. We must uncover precisely what they mean to do, that we can prevent the Night of Devilry from coming to pass."
+50,"TEXT_FESHLW102_00237_GODRIQUELAIN_000_002","The tactic we previously employed to gather intelligence worked like a charm, and I see no reason why it will not work again. Go to the illusionist nearby, and offer your services to him. Keep your eyes and ears open, and learn all you can."
+51,"TEXT_FESHLW102_00237_GODRIQUELAIN_000_003","The tactic we previously employed to gather intelligence worked like a charm, and I see no reason why it will not work again. Go to the illusionist nearby, and offer your services to him. Keep your eyes and ears open, and learn all you can."
+52,"TEXT_FESHLW102_00237_CONJURER65773_000_010","Well met and welcome, adventurer. I'm given to understand that you assisted our troupe's activities in Gridania. I would be much obliged if you would assist us here as well."
+53,"TEXT_FESHLW102_00237_CONJURER65773_000_011","Now then, no All Saints' Wake would be complete without pumpkin lanterns. Alas, Limsa Lominsa is sorely lacking in them. I would remedy this with your help."
+54,"TEXT_FESHLW102_00237_CONJURER65773_000_012","I shall give you three pumpkin lanterns, which you must place at the locations─and in the exact order─I specify."
+55,"TEXT_FESHLW102_00237_CONJURER65773_000_013","The Drowning Wench is your first destination, after which you are to go to the Coral Tower. Last but not least is Maelstrom Command. Be certain to remember this."
+56,"TEXT_FESHLW102_00237_CONJURER65773_000_014","What is the significance of this order, you ask? Why, it is essential in creating the magicked patterns by which we shall usher in a night of ter─er...<hex:021A020203>terrific<hex:021A020103> fun. Y–Yes, that's right─terrific fun for one and all!"
+57,"TEXT_FESHLW102_00237_CONJURER65773_000_015","With that established, I shall use the art of illusion to lend you a form most intimidating. No one will dare obstruct your lantern placing, and we shall be one step closer to realizing our ambition!"
+58,"TEXT_FESHLW102_00237_CONJURER65773_000_016","Remember, your first destination is the Drowning Wench."
+59,"TEXT_FESHLW102_00237_CONJURER65773_000_017","Hm, the illusion has faded, has it? I shall refresh it for you. See to it that all the lanterns are where they are supposed to be."
+60,"TEXT_FESHLW102_00237_SYSTEM_000_017","This person seems to be deep in thought, and does not respond."
+61,"TEXT_FESHLW102_00237_BADERON_000_020","(-Baderon-)Oi, what do ye think yer doin'? No junk on me bar!"
+62,"TEXT_FESHLW102_00237_BADERON_100_020","(-Baderon-)A monster...with a lantern!? What kind o' twisted joke's this!?"
+63,"TEXT_FESHLW102_00237_BADERON_000_021","(-Baderon-)Oi, what do ye think yer doin'? No junk on me bar!"
+64,"TEXT_FESHLW102_00237_BADERON_100_021","(-Baderon-)A-Admiral!? I weren't expectin' ye fer a couple o' bells yet! An' beggin' yer pardons, but that lantern...?"
+65,"TEXT_FESHLW102_00237_BADERON_000_022","(-Baderon-)...An illusion, ye say? Bugger me, I should've known. The sight of it all was so absurd, fer a moment I thought I was hallucinatin'─an' I 'aven't smoked the sort o' stuff what does that to ye in years. Good to know I 'aven't gone an' lost me wits."
+66,"TEXT_FESHLW102_00237_BADERON_000_023","(-Baderon-)Now, ye were sayin' ye wanted to put yer lantern 'ere? This bein' All Saints' Wake an' all, I ain't averse to a few decorations, but this thing's bleedin' enormous! What with the Admiral an' 'er retinue comin', I'd rather not 'ave the place cluttered..."
+67,"TEXT_FESHLW102_00237_BADERON_000_024","(-Baderon-)Look, there's no point in me keepin' ye. Jus' leave that thing with me, I'll find a spot fer it, alright?"
+68,"TEXT_FESHLW102_00237_BADERON_000_025","(-Baderon-)Bugger me, the Admiral an' 'er retinue's arrivin' soon, but I ain't even started preparin' yet. We're gonna need more grog, that's fer sure. A <hex:021A020203>lot<hex:021A020103> more grog..."
+69,"TEXT_FESHLW102_00237_BADERON_000_026","(-Baderon-)Bah, where to put this thing... If only it weren't this bleedin' enormous..."
+70,"TEXT_FESHLW102_00237_CONJURER65773_000_027","You've placed a lantern at the Drowning Wench? Wonderful! Lest you've forgotten, the second one is bound for the Coral Tower. Off you go now!"
+71,"TEXT_FESHLW102_00237_GODRIQUELAIN_000_028","I know full well the great burden I've placed upon you, but the safety of the citizenry is at stake. For their sake, you must continue the investigation."
+72,"TEXT_FESHLW102_00237_GODRIQUELAIN_100_028","Uwaaah!?<hex:02100103>...Oh, it's only you. Looking sharp, my friend. Pray carry on with the investigation. Remember, the safety of the citizenry is at stake."
+73,"TEXT_FESHLW102_00237_SYSTEM_000_029","In order to progress further in the quest, you must be under the transfigured status."
+74,"TEXT_FESHLW102_00237_REYNER_000_030","(-Reyner-)You there! What do you think you're doing with that─"
+75,"TEXT_FESHLW102_00237_REYNER_100_030","(-Reyner-)What's this!? You will rue the day you dared enter the Coral Tower, vile fiend!"
+76,"TEXT_FESHLW102_00237_REYNER_000_031","(-Reyner-)You there! What do you think you're doing with that─"
+77,"TEXT_FESHLW102_00237_REYNER_100_031","(-Reyner-)A-Admiral! M-My apologies! I did not notice that it was you! If I might make bold, however, you do not seem to be yourself today. Are you feeling unwell?"
+78,"TEXT_FESHLW102_00237_REYNER_000_032","(-Reyner-)...Illusion magicks for the All Saints' Wake festivities? Setting aside the unwarranted start you gave me, it certainly is a very convincing disguise."
+79,"TEXT_FESHLW102_00237_REYNER_000_033","(-Reyner-)And as for the lantern, I do not object to your placing it here, but be forewarned that I may later have it removed at my discretion."
+80,"TEXT_FESHLW102_00237_REYNER_000_034","(-Reyner-)We are expecting the Admiral to come here for inspection, you see, and when she does, the Coral Tower must be in immaculate order. This means no decorations, seasonal or otherwise."
+81,"TEXT_FESHLW102_00237_REYNER_000_035","(-Reyner-)If you have business, I ask that you speak with one of my people. I must needs make the tower ready for the Admiral's inspection."
+82,"TEXT_FESHLW102_00237_REYNER_000_036","(-Reyner-)I must confess, the lantern is beginning to grow on me. Mind you, this does not mean that it can stay when the Admiral comes."
+83,"TEXT_FESHLW102_00237_CONJURER65773_000_037","So you've placed the second lantern at the Coral Tower? Well done! That leaves us with just the one for Maelstrom Command. Run along and see it done."
+84,"TEXT_FESHLW102_00237_GODRIQUELAIN_000_038","I know full well the great burden I've placed upon you, but the safety of the citizenry is at stake. For their sake, you must continue the investigation."
+85,"TEXT_FESHLW102_00237_GODRIQUELAIN_100_038","Uwaaah!?<hex:02100103>...Oh, it's only you. Looking sharp, my friend. Pray carry on with the investigation. Remember, the safety of the citizenry is at stake."
+86,"TEXT_FESHLW102_00237_SYSTEM_000_039","In order to progress further in the quest, you must be under the transfigured status."
+87,"TEXT_FESHLW102_00237_RASHAHT_000_040","(-R'ashaht Rhiki-)What in the name of the Navigator are you doing with that thing!?"
+88,"TEXT_FESHLW102_00237_RASHAHT_100_040","(-R'ashaht Rhiki-)A fiend!? You are either bold or foolish to come here! Say your prayers to whatever dark gods you keep!"
+89,"TEXT_FESHLW102_00237_RASHAHT_000_041","(-R'ashaht Rhiki-)What in the name of the Navigator are you doing with that thing!?"
+90,"TEXT_FESHLW102_00237_RASHAHT_100_041","(-R'ashaht Rhiki-)<gasp> A-Admiral! W-We were not expecting you quite so soon! Of course, if you wish to begin the inspection now..."
+91,"TEXT_FESHLW102_00237_RASHAHT_000_042","(-R'ashaht Rhiki-)...An adventurer in disguise? Seven hells! Festive season or no, I would thank you not to startle me unduly while I am on duty─which is always!"
+92,"TEXT_FESHLW102_00237_RASHAHT_000_043","(-R'ashaht Rhiki-)Now, I personally have no issues with your leaving the pumpkin lantern here, but know that the Maelstrom will not be responsible for its care."
+93,"TEXT_FESHLW102_00237_RASHAHT_000_044","(-R'ashaht Rhiki-)We will not hear any complaints if it gets damaged. Furthermore, if it's deemed a nuisance, it will be summarily removed. I trust I have made myself clear."
+94,"TEXT_FESHLW102_00237_RASHAHT_000_045","(-R'ashaht Rhiki-)'Tis been a while since the Admiral last graced us with an inspection. We must see to it that everything is to her satisfaction."
+95,"TEXT_FESHLW102_00237_RASHAHT_000_046","(-R'ashaht Rhiki-)Remember, the Maelstrom is not responsible for the care of the lantern. We will not hear any complaints if it gets damaged, and if it's deemed a nuisance, it will be summarily removed."
+96,"TEXT_FESHLW102_00237_GODRIQUELAIN_000_047","I know full well the great burden I've placed upon you, but the safety of the citizenry is at stake. For their sake, you must continue the investigation."
+97,"TEXT_FESHLW102_00237_GODRIQUELAIN_100_047","Uwaaah!?<hex:02100103>...Oh, it's only you. Looking sharp, my friend. Pray carry on with the investigation. Remember, the safety of the citizenry is at stake."
+98,"TEXT_FESHLW102_00237_SYSTEM_000_048","In order to progress further in the quest, you must be under the transfigured status."
+99,"TEXT_FESHLW102_00237_CONJURER65773_100_050","Ah, you are returned. The illusion has served its purpose. Here, allow me to remove it for you."
+100,"TEXT_FESHLW102_00237_CONJURER65773_000_051","So, you have placed all the lanterns, yes? Wonderful, wonderful!"
+101,"TEXT_FESHLW102_00237_CONJURER65773_100_051","Being the fools that they are, they did not even suspect our motive! And now the magicked pattern is complete, precisely to that woman's specifications!"
+102,"TEXT_FESHLW102_00237_CONJURER65773_000_052","'Tis only a matter of time before the gate bursts open! My dark brethren will overrun this realm, and the Night of Devilry shall come again! Ahahahaha!"
+103,"TEXT_FESHLW102_00237_SYSTEM_100_052","A conversation between two Yellowjackets carries over to you."
+104,"TEXT_FESHLW102_00237_YELLOWA65773_000_053","Oi, 'ave ye 'eard? Some daft sod's been goin' around leavin' these creepy dark pumpkins all over the city."
+105,"TEXT_FESHLW102_00237_YELLOWB65773_000_054","Aye, I did hear about that. One each at the Drowning Wench, the Coral Tower, and Maelstrom Command, right? What's to be done about them?"
+106,"TEXT_FESHLW102_00237_YELLOWA65773_000_055","They've already been rounded up an' thrown out, if that's what yer askin'. Can't leave that shite lyin' about─people might take a tumble an' 'urt 'emselves!"
+107,"TEXT_FESHLW102_00237_YELLOWB65773_000_056","Right! Safety first!"
+108,"TEXT_FESHLW102_00237_CONJURER65773_000_058","Errr... Lest you misunderstand, that was but a...a <hex:021A020203>summary<hex:021A020103> of the, er...<hex:021A020203>play<hex:021A020103> we're planning as part of the festivities. Th-That's right, a stage play! The premise is very original, do you not agree?"
+109,"TEXT_FESHLW102_00237_CONJURER65773_000_059","'Tis a shame that our <hex:021A020203>props<hex:021A020103> were removed before the play could take place. We must remember not to make the same mistake next time... <sigh>"
+110,"TEXT_FESHLW102_00237_CONJURER65773_000_060","A-At any rate, you have more than done your part here in Limsa Lominsa. We would be most grateful if you could next help out with the festivities in Ul'dah. My thanks again, adventurer!"
+111,"TEXT_FESHLW102_00237_PUMPKIN65772_000_061","(-Pumpkin-headed Woman-)Heh heh heh... Such charming children... The best is yet to come─pray enjoy All Saints' Wake to the fullest..."
+112,"TEXT_FESHLW102_00237_CONJURER65773_000_062","You have more than done your part here in Limsa Lominsa. We would be most grateful if you could next help out with the festivities in Ul'dah. My thanks again, adventurer."
+113,"TEXT_FESHLW102_00237_GODRIQUELAIN_000_070","Ah, you are returned. How fared the investigation? You must tell me everything you have learned!"
+114,"TEXT_FESHLW102_00237_GODRIQUELAIN_000_071","...A magicked pattern? By the gods, how many ways are there to usher in the Night of Devilry? And to think that you might have been party to it if not for the Lominsans' unwitting intervention!"
+115,"TEXT_FESHLW102_00237_GODRIQUELAIN_000_072","But the danger is not passed. The illusionist bade you help out with the festivities in Ul'dah, which means that yet another scheme is in progress. And having failed in their attempts thus far, I fear that the Continental Circus will stop at nothing to see its dark ambition realized."
+116,"TEXT_FESHLW102_00237_GODRIQUELAIN_000_073","Make no mistake, the situation is coming to a head. We must continue our investigation in Ul'dah. Make your way there as soon as you are able, and meet me in the vicinity of the Ruby Road Exchange. Safe travels!"
+117,"TEXT_FESHLW102_00237_GODRIQUELAIN_000_080","'Tis good to see you, my friend. You must be weary from the road. Take a moment to catch your breath, and I will share with you what I have managed to learn thus far."

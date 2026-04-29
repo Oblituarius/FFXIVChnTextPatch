@@ -2,90 +2,90 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_STMBDA506_02524_SEQ_00,烈士庵的飛燕已經下定了決心。
-1,TEXT_STMBDA506_02524_SEQ_01,同伴們為攻下多瑪城而做著準備。碧甲族方面發來報告表示已經準備好了，終於萬事俱備，只等作戰開始的號令了。在延夏門前衛街的<hex:02280CFF05>EObj<hex:F61EA37C0103>等待。
-2,TEXT_STMBDA506_02524_SEQ_02,作戰開始，輪到冒險者等人出場了。和門前衛街的飛燕談談。
-3,TEXT_STMBDA506_02524_SEQ_03,和飛燕進行了交談。和延夏城下碼頭的碧甲船頭談談。
-4,TEXT_STMBDA506_02524_SEQ_04,和碧甲船頭進行了交談，做好了攻入多瑪城的準備。和飛燕等人一起攻入多瑪城，打倒夜露率領的帝國軍。<hex:02100103><hex:02100103>※調查進入點選擇「和輔助隊員進入」，或選擇快捷指令裡的「劇情輔助器」，可以和非玩家同伴一同進入副本。<hex:02100103>※和玩家一同進入時請通過任務搜尋器參加。
-5,TEXT_STMBDA506_02524_SEQ_05,攻入了多瑪城，打倒了等待在那裡的格林瓦特。尋找夜露，和大家一起回到延夏的城下。
-6,TEXT_STMBDA506_02524_SEQ_06,討伐了夜露，豪雪將眾人從坍塌的多瑪城中送了出去。在多瑪和阿爾菲諾談談。
-7,TEXT_STMBDA506_02524_SEQ_07,和阿爾菲諾等人匯合了。但是豪雪已經不在了，只有他的意志還伴隨著眾人前行。
-8,TEXT_STMBDA506_02524_SEQ_08,
-9,TEXT_STMBDA506_02524_SEQ_09,
-10,TEXT_STMBDA506_02524_SEQ_10,
-11,TEXT_STMBDA506_02524_SEQ_11,
-12,TEXT_STMBDA506_02524_SEQ_12,
-13,TEXT_STMBDA506_02524_SEQ_13,
-14,TEXT_STMBDA506_02524_SEQ_14,
-15,TEXT_STMBDA506_02524_SEQ_15,
-16,TEXT_STMBDA506_02524_SEQ_16,
-17,TEXT_STMBDA506_02524_SEQ_17,
-18,TEXT_STMBDA506_02524_SEQ_18,
-19,TEXT_STMBDA506_02524_SEQ_19,
-20,TEXT_STMBDA506_02524_SEQ_20,
-21,TEXT_STMBDA506_02524_SEQ_21,
-22,TEXT_STMBDA506_02524_SEQ_22,
-23,TEXT_STMBDA506_02524_SEQ_23,
-24,TEXT_STMBDA506_02524_TODO_00,在<hex:02280CFF05>EObj<hex:F61EA37C0103>等待
-25,TEXT_STMBDA506_02524_TODO_01,和飛燕對話
-26,TEXT_STMBDA506_02524_TODO_02,和碧甲船頭對話
-27,TEXT_STMBDA506_02524_TODO_03,突破解放決戰多瑪王城
-28,TEXT_STMBDA506_02524_TODO_04,突破解放決戰多瑪王城
-29,TEXT_STMBDA506_02524_TODO_05,和阿爾菲諾對話
-30,TEXT_STMBDA506_02524_TODO_06,
-31,TEXT_STMBDA506_02524_TODO_07,
-32,TEXT_STMBDA506_02524_TODO_08,
-33,TEXT_STMBDA506_02524_TODO_09,
-34,TEXT_STMBDA506_02524_TODO_10,
-35,TEXT_STMBDA506_02524_TODO_11,
-36,TEXT_STMBDA506_02524_TODO_12,
-37,TEXT_STMBDA506_02524_TODO_13,
-38,TEXT_STMBDA506_02524_TODO_14,
-39,TEXT_STMBDA506_02524_TODO_15,
-40,TEXT_STMBDA506_02524_TODO_16,
-41,TEXT_STMBDA506_02524_TODO_17,
-42,TEXT_STMBDA506_02524_TODO_18,
-43,TEXT_STMBDA506_02524_TODO_19,
-44,TEXT_STMBDA506_02524_TODO_20,
-45,TEXT_STMBDA506_02524_TODO_21,
-46,TEXT_STMBDA506_02524_TODO_22,
-47,TEXT_STMBDA506_02524_TODO_23,
-48,TEXT_STMBDA506_02524_ALPHINAUD_000_000,早安……好像說早安有點怪怪的。<hex:02100103>你休息好了嗎？<hex:02100103>我中途就回到床鋪呼呼大睡了。
-49,TEXT_STMBDA506_02524_ALPHINAUD_000_001,阿莉塞醒來之後有點形跡可疑。<hex:02100103>不過看上去倒是還挺有精神的，這就好。
-50,TEXT_STMBDA506_02524_HIEN_000_020,你也來了。<hex:02100103>昨晚邀你喝了幾杯，也不知道你有沒有休息好。
-51,TEXT_STMBDA506_02524_HIEN_000_021,……剛剛碧甲族發來消息，說已經準備好了。<hex:02100103>大家也都已經到各自的待機地點準備了。
-52,TEXT_STMBDA506_02524_HIEN_000_022,接下來，等下達作戰開始的號令之後，<hex:02100103>我們也到待機地點就好……<hex:02100103>看你的樣子，已經蓄勢待發了啊。
-53,TEXT_STMBDA506_02524_HIEN_000_023,那麼，阿爾菲諾。<hex:02100103>拜託你聯繫各部隊，告訴他們作戰開始。
-54,TEXT_STMBDA506_02524_HIEN_000_024,目前多瑪城的帝國軍還沒有變化。<hex:02100103>在他們開始行動之前，<hex:02100103>我們多瑪起義軍要全力出擊，打他們一個措手不及！
-55,TEXT_STMBDA506_02524_ALPHINAUD_000_025,明白了。<hex:02100103>那麼我這就通知大家開戰，<hex:02100103>我也該前去待機地點了。
-56,TEXT_STMBDA506_02524_ALPHINAUD_000_026,飛燕閣下和<hex:022903EB0203>就到門前衛街待機吧。<hex:02100103>夕霧女士和豪雪閣下也都已經過去了。<hex:02100103>請去跟他們匯合……然後，勢必要取得勝利！
-57,TEXT_STMBDA506_02524_HIEN_000_030,在這裡等待就可以了吧。<hex:02100103>……恐怕這將會成為十分漫長的一天，也拜託你了。
-58,TEXT_STMBDA506_02524_YUGIRI_000_035,一上來先由莉瑟率領民眾發起暴動……<hex:02100103>我們的出場則是在最後。<hex:02100103>現在就先按捺住心中的急切，等待他們那邊成功的消息吧。
-59,TEXT_STMBDA506_02524_GOSETSU_000_040,這一天終於到來了……<hex:02100103>老夫會將所有的思緒和夙願都寄託在這把刀上，<hex:02100103>奔赴戰場！
-60,TEXT_STMBDA506_02524_YUGIRI_000_050,海賊眾的船已經在飛地靠岸了。<hex:02100103>這下沒必要擔心帝國會挾持人質了。<hex:02100103><hex:022903EB0203>閣下！
-61,TEXT_STMBDA506_02524_GOSETSU_000_055,老夫要把多瑪城的樣子刻在腦子裡。<hex:02100103>現在，老夫的心中已經燃起熊熊烈火，<hex:02100103>即刻將化身為修羅！
-62,TEXT_STMBDA506_02524_HIEN_000_060,現在百姓們已經讓帝國軍陷入混亂了，海賊眾也守護著飛地，<hex:02100103>在敖龍族和甲人族的協助下，敵將的後路也被斬斷了。
-63,TEXT_STMBDA506_02524_HIEN_000_061,豪雪、夕霧、<hex:022903EB0203>！<hex:02100103>終於到了攻入多瑪城的時刻了！<hex:02100103>走，立刻前往西南邊懸崖下的碼頭！
-64,TEXT_STMBDA506_02524_HIEN_000_070,現在城中一片鬼哭狼嚎。<hex:02100103>到時，敵人一定會誓死抵抗，<hex:02100103>可以說，我們將要踏入的是一片絕境。
-65,TEXT_STMBDA506_02524_HIEN_000_071,但是，我對此次出征非常有信心。<hex:02100103>接下來，就輪到我們閃亮登場了……<hex:02100103>這可是前所未有、驚天動地的大革命！
-66,TEXT_STMBDA506_02524_YUGIRI_000_075,在第一次見到你的時候，<hex:02100103>在下根本沒有想到會和你一起並肩投入到這場決戰當中。
-67,TEXT_STMBDA506_02524_YUGIRI_000_076,在下會化為利刃，<hex:02100103>來回報我們至今的緣分。<hex:02100103>……我們上吧，<hex:022903EB0203>閣下！
-68,TEXT_STMBDA506_02524_GOSETSU_000_080,因為還在半路上，所以就笑著走下去……啊。<hex:02100103>那麼諸位，我們可得哈哈大笑著回去啊。
-69,TEXT_STMBDA506_02524_GOSETSU_000_081,老夫不會讓這場戰鬥變成一切的終點。<hex:02100103>這次老夫一定不會再留下遺憾，<hex:02100103>痛痛快快地拿下這場勝利。
-70,TEXT_STMBDA506_02524_AOKORA02524_000_090,哎呀呀，一直等著你們呢——！<hex:02100103>我會用船把你們送到城裡的，快上來吧——！
-71,TEXT_STMBDA506_02524_HIEN_000_091,<hex:022903EB0203>……<hex:02100103>等到了城內，我會分開行動。<hex:02100103>你就和夕霧、豪雪他們一起大鬧一場吧。
-72,TEXT_STMBDA506_02524_HIEN_100_091,我們兵力有限，不宜進行持久戰，<hex:02100103>在你們吸引敵方注意力的時候，<hex:02100103>我會繞後進攻天守閣。
-73,TEXT_STMBDA506_02524_HIEN_101_091,不必擔心我。雖然沒去過幾次，<hex:02100103>但城內的構造我早已應父王之意背得滾瓜爛熟了。
-74,TEXT_STMBDA506_02524_HIEN_000_092,我們各自朝著天守閣上方前進，<hex:02100103>勢必在明早之前討伐夜露，結束戰鬥！
-75,TEXT_STMBDA506_02524_HIEN_000_093,好，那我們出發吧！<hex:02100103>解放戰爭的最終決戰，攻下多瑪城！
-76,TEXT_STMBDA506_02524_AOKORA02524_000_100,好，我這就送你們去多瑪城裡面——！<hex:02100103>我會給你們加油的哦——！
-77,TEXT_STMBDA506_02524_LYSE_000_110,<hex:022903EB0203>？<hex:02100103>喂……豪雪呢？
-78,TEXT_STMBDA506_02524_ALISAIE_000_115,……你直說吧。<hex:02100103>豪雪沒有回來……<hex:02100103>但這並不是結果的全部吧。
-79,TEXT_STMBDA506_02524_HIEN_000_120,……
-80,TEXT_STMBDA506_02524_YUGIRI_000_125,……要把勝利的消息，告訴大家。<hex:02100103>這是和豪雪的約定。
-81,TEXT_STMBDA506_02524_SOROBAN_000_130,咦，贏了……吧——？
-82,TEXT_STMBDA506_02524_CIRINA_000_135,……嗚嗚。
-83,TEXT_STMBDA506_02524_ALPHINAUD_000_140,……<hex:022903EB0203>。我找不到豪雪閣下。<hex:02100103>他……
-84,TEXT_STMBDA506_02524_HANAME_000_005,（★未使用／削除予定★）
-85,TEXT_STMBDA506_02524_MOTOJIRO_000_010,（★未使用／削除予定★）
-86,TEXT_STMBDA506_02524_YAGORO_000_015,（★未使用／削除予定★）
+0,"TEXT_STMBDA506_02524_SEQ_00","All hangs in the balance, as Hien well knows."
+1,"TEXT_STMBDA506_02524_SEQ_01","To win a war, one must be willing to do whatever is required, even if it means sacrificing the very thing one set out to reclaim. And thus did Lord Hien declare that Doma Castle should be flooded, to eliminate the greater portion of the imperial garrison and trap Yotsuyu within the keep. All preparations are complete. All participants are in position. All that remains is to wait."
+2,"TEXT_STMBDA506_02524_SEQ_02","Every stage of the plan is carried out to perfection, from the diversionary attacks to the Kojin's underwater demolition. From Monzen, you and your comrades observe as the river rushes into Doma Castle, drowning you know not how many soldiers within..."
+3,"TEXT_STMBDA506_02524_SEQ_03","Your allies have set the stage, and now you must play your part. A Blue skiff captain awaits you down by the shore."
+4,"TEXT_STMBDA506_02524_SEQ_04","To increase your chances of reaching Yotsuyu, Hien proposes that you split into two groups. He will comprise one, while you, Gosetsu, and Yugiri will comprise the other. The fate of a nation shall be decided this day─see to your preparations and venture unto the flooded fortress!<hex:02100103><hex:02100103>※Challenge Doma Castle with other players via the Duty Finder, or with a party of NPCs via Duty Support. Both systems are accessible from the main menu as well as the dungeon's entrance point."
+5,"TEXT_STMBDA506_02524_SEQ_05","In the bowels of Doma Castle, you are greeted by an old friend: Grynewaht, driven mad by his quest for vengeance, and transformed into a twisted mass of steel and flesh. But whatever agonies he endured to gain his newfound strength, they are all for naught. After a pitched battle, he crumples to the ground, never to rise again."
+6,"TEXT_STMBDA506_02524_SEQ_06","At the top of the keep, you find Hien, who has Yotsuyu at his mercy. Invited to plead her case, she speaks of the many ways in which she was wronged by her countrymen...and of the joy she one day found in their suffering. Listening to her tale, you recall your vision of her childhood, and almost begin to pity the woman...only to find that she has been stalling for time. Unrepentant to the last, she gleefully reveals her plan to bring the keep down on your heads in a final suicidal act of defiance. With a thunderous roar, the ceiling comes crashing in, but when the dust finally settles, you find yourself and your comrades unharmed, for Gosetsu, blessed with indomitable strength as he is, has somehow managed to catch the massive debris that threatened to crush you. Alas, Yotsuyu too has survived, as you learn to your dismay when she fires upon the samurai, not stopping until her pistol is spent. As Gosetsu struggles to remain standing, he implores you and the others to leave while you still can..."
+7,"TEXT_STMBDA506_02524_SEQ_07","When Alphinaud sees you return to Monzen without Gosetsu, he knows at once what has happened. Sometimes there is no need for words."
+8,"TEXT_STMBDA506_02524_SEQ_08",""
+9,"TEXT_STMBDA506_02524_SEQ_09",""
+10,"TEXT_STMBDA506_02524_SEQ_10",""
+11,"TEXT_STMBDA506_02524_SEQ_11",""
+12,"TEXT_STMBDA506_02524_SEQ_12",""
+13,"TEXT_STMBDA506_02524_SEQ_13",""
+14,"TEXT_STMBDA506_02524_SEQ_14",""
+15,"TEXT_STMBDA506_02524_SEQ_15",""
+16,"TEXT_STMBDA506_02524_SEQ_16",""
+17,"TEXT_STMBDA506_02524_SEQ_17",""
+18,"TEXT_STMBDA506_02524_SEQ_18",""
+19,"TEXT_STMBDA506_02524_SEQ_19",""
+20,"TEXT_STMBDA506_02524_SEQ_20",""
+21,"TEXT_STMBDA506_02524_SEQ_21",""
+22,"TEXT_STMBDA506_02524_SEQ_22",""
+23,"TEXT_STMBDA506_02524_SEQ_23",""
+24,"TEXT_STMBDA506_02524_TODO_00","Wait in Monzen for the operation to begin."
+25,"TEXT_STMBDA506_02524_TODO_01","Speak with Hien."
+26,"TEXT_STMBDA506_02524_TODO_02","Speak with the Blue skiff captain."
+27,"TEXT_STMBDA506_02524_TODO_03","Enter Doma Castle."
+28,"TEXT_STMBDA506_02524_TODO_04","Enter Doma Castle."
+29,"TEXT_STMBDA506_02524_TODO_05","Speak with Alphinaud."
+30,"TEXT_STMBDA506_02524_TODO_06",""
+31,"TEXT_STMBDA506_02524_TODO_07",""
+32,"TEXT_STMBDA506_02524_TODO_08",""
+33,"TEXT_STMBDA506_02524_TODO_09",""
+34,"TEXT_STMBDA506_02524_TODO_10",""
+35,"TEXT_STMBDA506_02524_TODO_11",""
+36,"TEXT_STMBDA506_02524_TODO_12",""
+37,"TEXT_STMBDA506_02524_TODO_13",""
+38,"TEXT_STMBDA506_02524_TODO_14",""
+39,"TEXT_STMBDA506_02524_TODO_15",""
+40,"TEXT_STMBDA506_02524_TODO_16",""
+41,"TEXT_STMBDA506_02524_TODO_17",""
+42,"TEXT_STMBDA506_02524_TODO_18",""
+43,"TEXT_STMBDA506_02524_TODO_19",""
+44,"TEXT_STMBDA506_02524_TODO_20",""
+45,"TEXT_STMBDA506_02524_TODO_21",""
+46,"TEXT_STMBDA506_02524_TODO_22",""
+47,"TEXT_STMBDA506_02524_TODO_23",""
+48,"TEXT_STMBDA506_02524_ALPHINAUD_000_000","Good...<yawn>...morning. I trust you slept well─or at least better than I did. 'Twould seem I dozed off in the middle of something, but your carousing with Lord Hien and Gosetsu woke me from my fitful slumber, and I retired to my bunk."
+49,"TEXT_STMBDA506_02524_ALPHINAUD_000_001","Alisaie is faring rather less well than either of us, but she will be fine, I am sure─so long as you do not remind her of what you saw."
+50,"TEXT_STMBDA506_02524_HIEN_000_020","There <hex:02080CE905FF04>she<hex:FF03>he<hex:03> is. I trust you are none the worse for wear after last night."
+51,"TEXT_STMBDA506_02524_HIEN_000_021","We received confirmation from the Kojin not long ago. Their sappers stand at the ready and await our signal."
+52,"TEXT_STMBDA506_02524_HIEN_000_022","Let us not keep them and the others waiting. Gather your things─we depart at once."
+53,"TEXT_STMBDA506_02524_HIEN_000_023","Alphinaud─instruct Lyse and the others to move into position and launch their attack."
+54,"TEXT_STMBDA506_02524_HIEN_000_024","Our scouts report no change in the imperials' disposition, but I would leave nothing to chance. We must act quickly, lest we lose the element of surprise."
+55,"TEXT_STMBDA506_02524_ALPHINAUD_000_025","Understood. I will relay your orders to her and rejoin my unit."
+56,"TEXT_STMBDA506_02524_ALPHINAUD_000_026","Gosetsu and Yugiri await the two of you at Monzen. Good luck, my friends. I will see you both again soon."
+57,"TEXT_STMBDA506_02524_HIEN_000_030","And now we wait..."
+58,"TEXT_STMBDA506_02524_YUGIRI_000_035","Lyse will contact us once the attack has begun, after which the others will carry out their allotted tasks. Our part comes last."
+59,"TEXT_STMBDA506_02524_GOSETSU_000_040","I have dreamed of this day... A chance for freedom. For liberation. For redemption. After twenty-five years of regret."
+60,"TEXT_STMBDA506_02524_YUGIRI_000_050","The Confederacy report that they have secured the enclave. We need not fear for the civilians' safety!"
+61,"TEXT_STMBDA506_02524_GOSETSU_000_055","It is done. The water surges through the broken masonry and floods the castle even as we speak. Though my heart breaks at the sight of it, I must be strong. All is for the sake of Doma!"
+62,"TEXT_STMBDA506_02524_HIEN_000_060","Aye, there can be no doubt. The viceroy is trapped. And so comes our part."
+63,"TEXT_STMBDA506_02524_HIEN_000_061","Our Kojin allies will deliver us to our destination. To the western dock! And do not forget to bring your fellow adventurers, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>!"
+64,"TEXT_STMBDA506_02524_HIEN_000_070","I can only imagine the chaos inside the castle. To be trapped by the rising waters and know the enemy is at their gates."
+65,"TEXT_STMBDA506_02524_HIEN_000_071","They will fight us with every onze of their strength. As will we them, for the eyes of history are upon us."
+66,"TEXT_STMBDA506_02524_YUGIRI_000_075","When I led the Doman refugees to Eorzea, I did so only with the intention of seeking sanctuary. The thought of enlisting you and yours to aid us in another rebellion did not once cross my mind."
+67,"TEXT_STMBDA506_02524_YUGIRI_000_076","Yet here we stand, shoulder to shoulder, ready to strike at the heart of the occupation. It has been and ever will be an honor, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>."
+68,"TEXT_STMBDA506_02524_GOSETSU_000_080","To see the castle thus defaced─and by our own hands... It is enough to make me smile─to laugh at the sheer absurdity of it."
+69,"TEXT_STMBDA506_02524_GOSETSU_000_081","This is not the end, but it is an ending. Soon...soon I will be free."
+70,"TEXT_STMBDA506_02524_AOKORA02524_000_090","Greetings and well met, my friends. Climb aboard, climb aboard! There is room enough for you all!"
+71,"TEXT_STMBDA506_02524_HIEN_000_091","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. That we might improve our odds of success, we will divide into two parties upon arrival─one composed of myself, the other you, Gosetsu, and Yugiri."
+72,"TEXT_STMBDA506_02524_HIEN_100_091","Given our inferior numbers, we must needs finish the battle quickly. And so, while you and yours draw the enemy's attention, I shall steal over to the keep."
+73,"TEXT_STMBDA506_02524_HIEN_101_091","Lest you worry, though I've been to the castle only a handful of times, my father saw fit to drill its layout into me. I could find my way blindfolded."
+74,"TEXT_STMBDA506_02524_HIEN_000_092","Even should one meet with misfortune, the other <hex:021A020203>will<hex:021A020103> reach Yotsuyu. Agreed?"
+75,"TEXT_STMBDA506_02524_HIEN_000_093","Then let us be about it. For Doma!"
+76,"TEXT_STMBDA506_02524_AOKORA02524_000_100","What are you waiting for? Come, come! Before the river swallows all!"
+77,"TEXT_STMBDA506_02524_LYSE_000_110","What happened in there? Where is Gosetsu?"
+78,"TEXT_STMBDA506_02524_ALISAIE_000_115","...Tell me it was not for nothing."
+79,"TEXT_STMBDA506_02524_HIEN_000_120","..."
+80,"TEXT_STMBDA506_02524_YUGIRI_000_125","...He was right. The day is won. The people must know."
+81,"TEXT_STMBDA506_02524_SOROBAN_000_130","Victory is ours, is it not? Then why are you all so quiet?"
+82,"TEXT_STMBDA506_02524_CIRINA_000_135","<sniffle>"
+83,"TEXT_STMBDA506_02524_ALPHINAUD_000_140","...<hex:02100103>I see."
+84,"TEXT_STMBDA506_02524_HANAME_000_005",""
+85,"TEXT_STMBDA506_02524_MOTOJIRO_000_010",""
+86,"TEXT_STMBDA506_02524_YAGORO_000_015",""

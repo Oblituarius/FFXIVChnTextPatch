@@ -2,106 +2,106 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_GAIUSE418_00088_SEQ_00,石之家的敏菲利亞很在意屋外的動靜。
-1,TEXT_GAIUSE418_00088_SEQ_01,敏菲利亞很在意屋外嘈雜的聲音。和石之家的阿爾菲諾談談。
-2,TEXT_GAIUSE418_00088_SEQ_02,和阿爾菲諾進行了交談，得知被恆輝隊逮捕的艾莉娜·羅阿耶逃跑了。前往北薩納蘭的藍霧營地，和伊爾伯德匯合，追捕艾莉娜·羅阿耶。
-3,TEXT_GAIUSE418_00088_SEQ_03,艾莉娜·羅阿耶欲逃往加雷馬帝國軍的據點，因此定是去了北邊。前往北薩納蘭的青磷精煉所，和伊爾伯德匯合，追捕艾莉娜·羅阿耶。
-4,TEXT_GAIUSE418_00088_SEQ_04,雖然沒能避免與加雷馬帝國軍一戰，但成功抓捕住了艾莉娜·羅阿耶。向勞班緩衝地的阿爾菲諾報告。
-5,TEXT_GAIUSE418_00088_SEQ_05,將抓捕艾莉娜·羅阿耶一事向阿爾菲諾報告完畢。雖然成功阻止她逃向帝國，但被信賴的同伴背叛，無論是誰心裡都很不是滋味。
-6,TEXT_GAIUSE418_00088_SEQ_06,
-7,TEXT_GAIUSE418_00088_SEQ_07,
-8,TEXT_GAIUSE418_00088_SEQ_08,
-9,TEXT_GAIUSE418_00088_SEQ_09,
-10,TEXT_GAIUSE418_00088_SEQ_10,
-11,TEXT_GAIUSE418_00088_SEQ_11,
-12,TEXT_GAIUSE418_00088_SEQ_12,
-13,TEXT_GAIUSE418_00088_SEQ_13,
-14,TEXT_GAIUSE418_00088_SEQ_14,
-15,TEXT_GAIUSE418_00088_SEQ_15,
-16,TEXT_GAIUSE418_00088_SEQ_16,
-17,TEXT_GAIUSE418_00088_SEQ_17,
-18,TEXT_GAIUSE418_00088_SEQ_18,
-19,TEXT_GAIUSE418_00088_SEQ_19,
-20,TEXT_GAIUSE418_00088_SEQ_20,
-21,TEXT_GAIUSE418_00088_SEQ_21,
-22,TEXT_GAIUSE418_00088_SEQ_22,
-23,TEXT_GAIUSE418_00088_SEQ_23,
-24,TEXT_GAIUSE418_00088_TODO_00,和阿爾菲諾對話
-25,TEXT_GAIUSE418_00088_TODO_01,和藍霧營地的伊爾伯德對話
-26,TEXT_GAIUSE418_00088_TODO_02,和青磷精煉所附近的伊爾伯德對話 追蹤艾莉娜·羅阿耶
-27,TEXT_GAIUSE418_00088_TODO_03,和阿爾菲諾對話
-28,TEXT_GAIUSE418_00088_TODO_04,
-29,TEXT_GAIUSE418_00088_TODO_05,
-30,TEXT_GAIUSE418_00088_TODO_06,
-31,TEXT_GAIUSE418_00088_TODO_07,
-32,TEXT_GAIUSE418_00088_TODO_08,
-33,TEXT_GAIUSE418_00088_TODO_09,
-34,TEXT_GAIUSE418_00088_TODO_10,
-35,TEXT_GAIUSE418_00088_TODO_11,
-36,TEXT_GAIUSE418_00088_TODO_12,
-37,TEXT_GAIUSE418_00088_TODO_13,
-38,TEXT_GAIUSE418_00088_TODO_14,
-39,TEXT_GAIUSE418_00088_TODO_15,
-40,TEXT_GAIUSE418_00088_TODO_16,
-41,TEXT_GAIUSE418_00088_TODO_17,
-42,TEXT_GAIUSE418_00088_TODO_18,
-43,TEXT_GAIUSE418_00088_TODO_19,
-44,TEXT_GAIUSE418_00088_TODO_20,
-45,TEXT_GAIUSE418_00088_TODO_21,
-46,TEXT_GAIUSE418_00088_TODO_22,
-47,TEXT_GAIUSE418_00088_TODO_23,
-48,TEXT_GAIUSE418_00088_MINFILIA_000_010,關於塵世幻龍，<hex:02100103>我也會去調查文獻的。
-49,TEXT_GAIUSE418_00088_MINFILIA_000_011,……話說，外面怎麼這麼吵？<hex:02100103>我好像聽到了阿爾菲諾的聲音……
-50,TEXT_GAIUSE418_00088_MINFILIA_000_020,……話說，外面怎麼這麼吵？<hex:02100103>我好像聽到了阿爾菲諾的聲音……
-51,TEXT_GAIUSE418_00088_ALPHINAUD_000_030,<hex:022903EB0203>，你來得正好！<hex:02100103>前不久抓住的艾莉娜·羅阿耶逃跑了！
-52,TEXT_GAIUSE418_00088_ALPHINAUD_000_031,在水晶義勇隊將她押送至烏爾達哈之後，<hex:02100103>她就被關押在恆輝隊的設施裡，<hex:02100103>但有一天突然就不見了。
-53,TEXT_GAIUSE418_00088_ALPHINAUD_000_032,想必是在常春藤手下工作的密探殘黨放走的她吧。
-54,TEXT_GAIUSE418_00088_ALPHINAUD_000_033,除了看守，還有好幾名值班的警備兵也被殺了。<hex:02100103>據目擊者稱，艾莉娜·羅阿耶握著沾滿鮮血的長槍，<hex:02100103>出了納爾之門，消失了蹤影。
-55,TEXT_GAIUSE418_00088_ALPHINAUD_000_034,我猜測她是逃往北薩納蘭了。<hex:02100103>她現在只有投奔帝國這一條路可以走，<hex:02100103>所以目的地很可能是帝國南方堡。
-56,TEXT_GAIUSE418_00088_ALPHINAUD_000_035,希望你也能幫我們，<hex:02100103>前往藍霧營地，幫助伊爾伯德隊長再次追捕她。
-57,TEXT_GAIUSE418_00088_ILBERD_000_040,英雄，你趕來了啊！<hex:02100103>藍霧營地的士兵看到艾莉娜·羅阿耶往北邊去了。
-58,TEXT_GAIUSE418_00088_ILBERD_000_041,勞班那傢伙，<hex:02100103>為了防止影響到士氣，沒有向全軍傳達通緝羅阿耶……
-59,TEXT_GAIUSE418_00088_ILBERD_000_042,因此士兵們看見慌忙逃走的羅阿耶，<hex:02100103>雖然覺得可疑，但也並沒有上前阻攔。
-60,TEXT_GAIUSE418_00088_ILBERD_000_043,她肯定是想逃往帝國，不能讓她得逞！<hex:02100103>在她逃進帝國南方堡之前抓住她！
-61,TEXT_GAIUSE418_00088_ILBERD_000_050,這傢伙是羅阿耶的同伴。<hex:02100103>都到這一步了還想抵抗，我就來了個就地正法……
-62,TEXT_GAIUSE418_00088_ILBERD_000_051,倒是羅阿耶那傢伙，毫不猶豫地放棄了幫她逃跑的部下……<hex:02100103>我們要趕快追上去，別叫她跑了！
-63,TEXT_GAIUSE418_00088_YUYUHASE_100_050,真是的，又給我們找活幹。<hex:02100103>我要去申請加班費！
-64,TEXT_GAIUSE418_00088_QIB_TODO001,殲滅帝國軍，逮捕艾莉娜·羅阿耶！
-65,TEXT_GAIUSE418_00088_ILBERD_BATTLETALK_000_001,千萬別殺了艾莉娜·羅阿耶！我去抓住她！<hex:02100103>全員就位，任務開始！
-66,TEXT_GAIUSE418_00088_ROAILLE_BATTLETALK_000_002,可惡的水晶義勇隊……<hex:02100103>即使只是星星之火也不得不防！
-67,TEXT_GAIUSE418_00088_ILBERD_BATTLETALK_000_010,帝國南方堡的增援？！
-68,TEXT_GAIUSE418_00088_ROAILLE_BATTLETALK_000_011,來接我了嗎？太好了！<hex:02100103>和你們算總賬的時候到了！
-69,TEXT_GAIUSE418_00088_ILBERD_BATTLETALK_000_012,噢噢噢！<hex:02100103>怎、怎麼動不了了？！
-70,TEXT_GAIUSE418_00088_YUYUHASE_BATTLETALK_000_020,又有增援？<hex:02100103>這麼辛苦！我要求給我漲工資！
-71,TEXT_GAIUSE418_00088_ROAILLE_BATTLETALK_000_021,有力量才能得到一切！<hex:02100103>無力的艾歐澤亞是沒有未來的！
-72,TEXT_GAIUSE418_00088_ILBERD_BATTLETALK_000_022,他們有高級幻術師！<hex:02100103>先收拾掉再說！
-73,TEXT_GAIUSE418_00088_YUGIRI_BATTLETALK_000_030,對不起，在下來遲了！<hex:02100103>多瑪的忍者們，報恩的時候到了！
-74,TEXT_GAIUSE418_00088_ILBERD_BATTLETALK_000_031,忍者來了？感激不盡！
-75,TEXT_GAIUSE418_00088_YUGIRI_BATTLETALK_000_040,用鬼束之術困住敵人！<hex:02100103>將他們誘導至術陣之內！
-76,TEXT_GAIUSE418_00088_ILBERD_BATTLETALK_000_100,可惡，我竟然會……
-77,TEXT_GAIUSE418_00088_YUYUHASE_BATTLETALK_000_101,唔……我已經盡力了……<hex:02100103>剩下的就交給你了……
-78,TEXT_GAIUSE418_00088_YUGIRI_BATTLETALK_000_102,大意乃大敵……
-79,TEXT_GAIUSE418_00088_ROAILLE_000_060,唔……
-80,TEXT_GAIUSE418_00088_ILBERD_000_061,常春藤女士，你可真是給我們添了不少活。<hex:02100103>把她綁起來！
-81,TEXT_GAIUSE418_00088_CRYSTALBRAVE00088_000_062,是！
-82,TEXT_GAIUSE418_00088_ALPHINAUD_000_063,……看來已經結束了啊。
-83,TEXT_GAIUSE418_00088_ILBERD_000_064,是！<hex:02100103>已經成功逮捕艾莉娜·羅阿耶！
-84,TEXT_GAIUSE418_00088_ALPHINAUD_000_065,文武雙全，名震艾歐澤亞的傭兵隊長，<hex:02100103>竟然會墮落到這種地步……
-85,TEXT_GAIUSE418_00088_ROAILLE_000_066,哼……萊韋耶勒爾家的少爺……<hex:02100103>像你這種薩雷安名門的大少爺懂什麼！
-86,TEXT_GAIUSE418_00088_ALPHINAUD_000_067,你、你說什麼？！
-87,TEXT_GAIUSE418_00088_ROAILLE_000_068,你們這群拿政治當玩具的「支配者」，<hex:02100103>又怎麼懂我們伊修加德最底層人的辛苦！
-88,TEXT_GAIUSE418_00088_ROAILLE_000_069,像我們這種任貴族、聖職者欺壓的貧民，<hex:02100103>只要能獲得金錢與地位，<hex:02100103>當然是什麼事都幹得出來了！
-89,TEXT_GAIUSE418_00088_ROAILLE_000_070,沒有什麼清廉秉直的傭兵隊長！<hex:02100103>為了錢，可以賣命……甚至出賣靈魂！這才是傭兵！
-90,TEXT_GAIUSE418_00088_ILBERD_000_071,……我很看不慣你這種找理由開脫，<hex:02100103>把自己的無能怪罪到別人身上的人。
-91,TEXT_GAIUSE418_00088_ILBERD_000_072,我和勞班雖都是阿拉米格的貧民出身，<hex:02100103>但不也靠著自己的身手走到了今天嗎？
-92,TEXT_GAIUSE418_00088_ILBERD_000_073,不光是我們，<hex:02100103>出身、地位、處境……拿著什麼樣的牌降臨到這世上，<hex:02100103>那是由上天決定的。
-93,TEXT_GAIUSE418_00088_ILBERD_000_074,但不管拿到了多差的牌，<hex:02100103>也有人不放棄，<hex:02100103>努力活用僅有的牌向著勝利前進。
-94,TEXT_GAIUSE418_00088_ROAILLE_000_075,我也……
-95,TEXT_GAIUSE418_00088_ILBERD_000_076,當然，你也努力了。<hex:02100103>這麼端莊的容貌，卻揮舞出如此狂放的槍術……<hex:02100103>看得出你肯定也吃了不少苦。
-96,TEXT_GAIUSE418_00088_ILBERD_000_077,這樣活到今天，<hex:02100103>為了得到金錢，你賣了什麼？
-97,TEXT_GAIUSE418_00088_ILBERD_000_078,我和你一樣，也是個貧民出身的傭兵，<hex:02100103>但我們有一點截然不同，<hex:02100103>那就是我賣的是本事，而你賣的是同伴。
-98,TEXT_GAIUSE418_00088_ILBERD_000_079,不管發生什麼，<hex:02100103>我都絕對不會出賣自己故鄉的同伴。<hex:02100103>就算要為此付出一切……付出靈魂！
-99,TEXT_GAIUSE418_00088_ILBERD_000_080,……閒話就說到這裡。<hex:02100103>你就老老實實回到烏爾達哈，<hex:02100103>接受一直信任你到最後的勞班的處罰吧。
-100,TEXT_GAIUSE418_00088_ALPHINAUD_000_090,事情發展到這一步，真是太遺憾了。<hex:02100103>雖然完成了任務，可結局卻不盡人意……
-101,TEXT_GAIUSE418_00088_ALPHINAUD_000_091,我再也不想見到同伴的背叛了。
-102,TEXT_GAIUSE418_00088_ILBERD_000_100,正因為我心繫被帝國佔領的故鄉，<hex:02100103>才加入了水晶義勇隊。<hex:02100103>所以，我絕對不原諒背叛故鄉的羅阿耶……
+0,"TEXT_GAIUSE418_00088_SEQ_00","Minfilia would discuss how best to proceed in light of recent developments."
+1,"TEXT_GAIUSE418_00088_SEQ_01","Minfilia has scarcely begun to tell you of her intent to study the great wyrm Midgardsormr when some manner of commotion erupts just outside the solar. Do as the Antecedent bids and see if aught is amiss."
+2,"TEXT_GAIUSE418_00088_SEQ_02","A clearly agitated Alphinaud informs you that Eline Roaille has somehow managed to slip her confines and escape. He believes that the disgraced flame marshal means to flee to her imperial masters at Castrum Meridianum. Make haste to Camp Bluefog in northern Thanalan, and join Ilberd and the 1st Unit in their hunt for the fugitive."
+3,"TEXT_GAIUSE418_00088_SEQ_03","You arrive at Camp Bluefog to the news that Eline Roaille passed through scarcely a bell before. Follow Captain Ilberd to the nearby Ceruleum Processing Plant, the next notable landmark on the way to Castrum Meridianum."
+4,"TEXT_GAIUSE418_00088_SEQ_04","You overtake Eline Roaille at Raubahn's Push, but not before she is joined by her imperial allies. Undeterred, you stand shoulder to shoulder with the Crystal Braves and the shinobi of Doma, and engage the enemy, succeeding at length in overwhelming the Garleans and recapturing the fugitive. Wholly unrepentant, Eline greets the subsequent arrival of Alphinaud with a hail of vitriol, and is lambasted by Ilberd for her shamelessness before being dragged away. Ask Alphinaud for his thoughts on the heated exchange."
+5,"TEXT_GAIUSE418_00088_SEQ_05","Alphinaud seems troubled. Though the sordid business of the Ivy is concluded, it has plainly left an unpleasant taste in his mouth."
+6,"TEXT_GAIUSE418_00088_SEQ_06",""
+7,"TEXT_GAIUSE418_00088_SEQ_07",""
+8,"TEXT_GAIUSE418_00088_SEQ_08",""
+9,"TEXT_GAIUSE418_00088_SEQ_09",""
+10,"TEXT_GAIUSE418_00088_SEQ_10",""
+11,"TEXT_GAIUSE418_00088_SEQ_11",""
+12,"TEXT_GAIUSE418_00088_SEQ_12",""
+13,"TEXT_GAIUSE418_00088_SEQ_13",""
+14,"TEXT_GAIUSE418_00088_SEQ_14",""
+15,"TEXT_GAIUSE418_00088_SEQ_15",""
+16,"TEXT_GAIUSE418_00088_SEQ_16",""
+17,"TEXT_GAIUSE418_00088_SEQ_17",""
+18,"TEXT_GAIUSE418_00088_SEQ_18",""
+19,"TEXT_GAIUSE418_00088_SEQ_19",""
+20,"TEXT_GAIUSE418_00088_SEQ_20",""
+21,"TEXT_GAIUSE418_00088_SEQ_21",""
+22,"TEXT_GAIUSE418_00088_SEQ_22",""
+23,"TEXT_GAIUSE418_00088_SEQ_23",""
+24,"TEXT_GAIUSE418_00088_TODO_00","Speak with Alphinaud."
+25,"TEXT_GAIUSE418_00088_TODO_01","Speak with Ilberd at Camp Bluefog, in northern Thanalan."
+26,"TEXT_GAIUSE418_00088_TODO_02","Speak with Ilberd at the Ceruleum Processing Plant."
+27,"TEXT_GAIUSE418_00088_TODO_03","Speak with Alphinaud."
+28,"TEXT_GAIUSE418_00088_TODO_04",""
+29,"TEXT_GAIUSE418_00088_TODO_05",""
+30,"TEXT_GAIUSE418_00088_TODO_06",""
+31,"TEXT_GAIUSE418_00088_TODO_07",""
+32,"TEXT_GAIUSE418_00088_TODO_08",""
+33,"TEXT_GAIUSE418_00088_TODO_09",""
+34,"TEXT_GAIUSE418_00088_TODO_10",""
+35,"TEXT_GAIUSE418_00088_TODO_11",""
+36,"TEXT_GAIUSE418_00088_TODO_12",""
+37,"TEXT_GAIUSE418_00088_TODO_13",""
+38,"TEXT_GAIUSE418_00088_TODO_14",""
+39,"TEXT_GAIUSE418_00088_TODO_15",""
+40,"TEXT_GAIUSE418_00088_TODO_16",""
+41,"TEXT_GAIUSE418_00088_TODO_17",""
+42,"TEXT_GAIUSE418_00088_TODO_18",""
+43,"TEXT_GAIUSE418_00088_TODO_19",""
+44,"TEXT_GAIUSE418_00088_TODO_20",""
+45,"TEXT_GAIUSE418_00088_TODO_21",""
+46,"TEXT_GAIUSE418_00088_TODO_22",""
+47,"TEXT_GAIUSE418_00088_TODO_23",""
+48,"TEXT_GAIUSE418_00088_MINFILIA_000_010","I mean to scour the annals for knowledge of Midgardsormr. Given his great age, I daresay he appears in more than a few─"
+49,"TEXT_GAIUSE418_00088_MINFILIA_000_011","Hm? Do you hear that? The commotion outside... Would you see if aught is amiss?"
+50,"TEXT_GAIUSE418_00088_MINFILIA_000_020","There seems to be some manner of commotion without. Pray see if aught is amiss."
+51,"TEXT_GAIUSE418_00088_ALPHINAUD_000_030","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! 'Tis well that you are on hand! We have a problem─Roaille has escaped!"
+52,"TEXT_GAIUSE418_00088_ALPHINAUD_000_031","It happened shortly after the Immortal Flames took her into custody. She had been placed in a dungeon cell ahead of her coming trial, but apparently the accommodation was not to her liking."
+53,"TEXT_GAIUSE418_00088_ALPHINAUD_000_032","The turnkey was found slain along with two guards. 'Tis plain she received inside help."
+54,"TEXT_GAIUSE418_00088_ALPHINAUD_000_033","Citizens report seeing Roaille quitting the city via the Gate of Nald, with a bloodied spear in her hand."
+55,"TEXT_GAIUSE418_00088_ALPHINAUD_000_034","She makes for Castrum Meridianum, I am certain of it. With her fate in Eorzea as good as sealed, what recourse has she but to flee to her imperial masters?"
+56,"TEXT_GAIUSE418_00088_ALPHINAUD_000_035","Even as we speak, Captain Ilberd and the 1st are hot upon Roaille's heels. Pray make haste to Camp Bluefog and join the hunt."
+57,"TEXT_GAIUSE418_00088_ILBERD_000_040","My thanks for coming, Scion. I have spoken with the soldiers here. They say that Roaille walked through the camp not a bell ago."
+58,"TEXT_GAIUSE418_00088_ILBERD_000_041","Aye, she <hex:021A020203>walked<hex:021A020103> right through─you did not mishear. We have Raubahn's decision to keep the matter secret to thank for that. Bad for morale, he said..."
+59,"TEXT_GAIUSE418_00088_ILBERD_000_042","As a result, not a single Flame in the garrison made any attempt to detain her. And so here we are."
+60,"TEXT_GAIUSE418_00088_ILBERD_000_043","Roaille must not be allowed to reach Castrum Meridianum."
+61,"TEXT_GAIUSE418_00088_ILBERD_000_050","This wretch was with Roaille. He threw himself at us that his mistress might escape."
+62,"TEXT_GAIUSE418_00088_ILBERD_000_051","She didn't blink when we cut him down─not even when he started screaming. No loyalty even to her own, the godsdamned harpy... <spit> With me, Scion─we almost have her."
+63,"TEXT_GAIUSE418_00088_YUYUHASE_100_050","<sigh> Was that really necessary? I had better be compensated for the additional exertion you caused me."
+64,"TEXT_GAIUSE418_00088_QIB_TODO001","Defeat Eline Roaille and her imperial allies!"
+65,"TEXT_GAIUSE418_00088_ILBERD_BATTLETALK_000_001","I want Roaille <hex:021A020203>alive<hex:021A020103>. Kill the rest! FOR EORZEA!"
+66,"TEXT_GAIUSE418_00088_ROAILLE_BATTLETALK_000_002","Hmph! You will not take me so easily this time!"
+67,"TEXT_GAIUSE418_00088_ILBERD_BATTLETALK_000_010","Enemy reinforcements! Look sharp, men!"
+68,"TEXT_GAIUSE418_00088_ROAILLE_BATTLETALK_000_011","Show them no quarter!"
+69,"TEXT_GAIUSE418_00088_ILBERD_BATTLETALK_000_012","What!? I...I can't...move!"
+70,"TEXT_GAIUSE418_00088_YUYUHASE_BATTLETALK_000_020","<hex:021A020203>More<hex:021A020103> reinforcements? They really aren't paying me enough..."
+71,"TEXT_GAIUSE418_00088_ROAILLE_BATTLETALK_000_021","Fools! You cannot stand against the Empire!"
+72,"TEXT_GAIUSE418_00088_ILBERD_BATTLETALK_000_022","They have healers! Kill them first!"
+73,"TEXT_GAIUSE418_00088_YUGIRI_BATTLETALK_000_030","Forgive us our lateness!"
+74,"TEXT_GAIUSE418_00088_ILBERD_BATTLETALK_000_031","We're in your debt!"
+75,"TEXT_GAIUSE418_00088_YUGIRI_BATTLETALK_000_040","The circle fetters those who wander within! Lure the enemy to it!"
+76,"TEXT_GAIUSE418_00088_ILBERD_BATTLETALK_000_100","Urgh... Gods damn it..."
+77,"TEXT_GAIUSE418_00088_YUYUHASE_BATTLETALK_000_101","I've more than earned my coin already..."
+78,"TEXT_GAIUSE418_00088_YUGIRI_BATTLETALK_000_102","I was...careless..."
+79,"TEXT_GAIUSE418_00088_ROAILLE_000_060","<gasp> <pant>"
+80,"TEXT_GAIUSE418_00088_ILBERD_000_061","Bind her! And do it <hex:021A020203>tight<hex:021A020103>!"
+81,"TEXT_GAIUSE418_00088_CRYSTALBRAVE00088_000_062","Yes, sir!"
+82,"TEXT_GAIUSE418_00088_ALPHINAUD_000_063","Good work, men."
+83,"TEXT_GAIUSE418_00088_ILBERD_000_064","She and her imperial cronies pushed us close, but we were better."
+84,"TEXT_GAIUSE418_00088_ALPHINAUD_000_065","Behold...a respected officer of the Immortal Flames. People looked up to you as one of the order's founding members─one of its <hex:021A020203>pillars<hex:021A020103>. It saddens me to see you fallen so low."
+85,"TEXT_GAIUSE418_00088_ROAILLE_000_066","<snort> What would <hex:021A020203>you<hex:021A020103> know of low? You─a spoiled little lordling who has never known any want!"
+86,"TEXT_GAIUSE418_00088_ALPHINAUD_000_067","I-I..."
+87,"TEXT_GAIUSE418_00088_ROAILLE_000_068","People such as you take wealth and birth for granted! You think it your gods-given right to rule over others!"
+88,"TEXT_GAIUSE418_00088_ROAILLE_000_069","You know naught of our plight─the injustice that we lowborn Ishgardians must endure! To the noble lords and ladies, we are not people, but resources to be consumed!"
+89,"TEXT_GAIUSE418_00088_ROAILLE_000_070","I did what I had to do to survive─stealing, killing, even whoring myself! It is no fault of mine if fools imagined me a paragon when I joined the Flames!"
+90,"TEXT_GAIUSE418_00088_ILBERD_000_071","To hear you tell it, one would think you the only person ever to have suffered."
+91,"TEXT_GAIUSE418_00088_ILBERD_000_072","In case you have forgotten, Raubahn himself was born into poverty─as was I. We lived hand-to-mouth, with little more than the shirts on our backs. Hunger was our constant companion."
+92,"TEXT_GAIUSE418_00088_ILBERD_000_073","Yet never did we bemoan our lot in life, nor did we begrudge others their fortunes. We accepted the hand that we had been dealt─and played it to the best of our ability."
+93,"TEXT_GAIUSE418_00088_ILBERD_000_074","Life was a battle, aye, but no matter what fate threw at us, we took it on the chin and came back for more. Everything we have, we fought for."
+94,"TEXT_GAIUSE418_00088_ROAILLE_000_075","How are we any different then!?"
+95,"TEXT_GAIUSE418_00088_ILBERD_000_076","'Tis true that we were both mercenaries of lowly birth."
+96,"TEXT_GAIUSE418_00088_ILBERD_000_077","And 'tis true that we both had our fair share of struggles."
+97,"TEXT_GAIUSE418_00088_ILBERD_000_078","But whereas I sold my sword, you, Marshal─you sold your comrades."
+98,"TEXT_GAIUSE418_00088_ILBERD_000_079","If life has taught me one thing, it is that you <hex:021A020203>never<hex:021A020103> betray your own. I would sooner cut off my own arm than raise a hand against a friend."
+99,"TEXT_GAIUSE418_00088_ILBERD_000_080","...But enough talk. You will return to Ul'dah to face justice─and the people whose trust you have dragged through the gutter."
+100,"TEXT_GAIUSE418_00088_ALPHINAUD_000_090","Not so much as a hint of remorse... <sigh> 'Tis well that this sordid business is finally at an end."
+101,"TEXT_GAIUSE418_00088_ALPHINAUD_000_091","A friend's betrayal cuts deeper than steel. We must hope that we have chosen our own allies more wisely than Raubahn chose his."
+102,"TEXT_GAIUSE418_00088_ILBERD_000_100","I joined the Crystal Braves that I might strike a blow against the Empire. Those who cast their lot with Garlemald should expect no better treatment."

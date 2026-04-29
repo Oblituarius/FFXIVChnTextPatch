@@ -2,17 +2,17 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_000,哎呀，沒見過你啊。<hex:02100103>找我有事嗎？
-1,TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_001,突然下了什麼大撤退的命令，我現在正忙著呢！<hex:02100103>有事的話就快點說吧。
-2,TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_002,我都聽說了，你要去宇宙盡頭是吧……<hex:02100103>雖然我能為你做的不多，<hex:02100103>可如果你有什麼想問的，我一定盡量回答！
-3,TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_003,星球的危機解除，這裡也恢復了正常營業。<hex:02100103>這一切都是你的功勞啊。<hex:02100103>那麼找我有什麼事嗎？
-4,TEXT_REGNOT5UPPERACRINTHOS_00740_Q1_000_000,想了解什麼？
-5,TEXT_REGNOT5UPPERACRINTHOS_00740_A1_000_001,你是做什麼的？
-6,TEXT_REGNOT5UPPERACRINTHOS_00740_A1_000_002,這裡是什麼地方？
-7,TEXT_REGNOT5UPPERACRINTHOS_00740_A1_000_003,取消
-8,TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_010,我是這裡的職員。<hex:02100103>負責記錄並分類拾穗人們帶來的東西。
-9,TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_011,迷津收集有來自全世界的貴重書籍和遺物<hex:02100103>以及稀有的生物樣本等各類資料。<hex:02100103>由於數量龐大，所以這份工作並不輕鬆。
-10,TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_012,結果現在又做出了什麼大撤退的決定？<hex:02100103>我還得統計需要搬往月球的物品，忙得不得了！
-11,TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_020,這裡是衛輔城上層。<hex:02100103>從升降機上卸下來的物品都會臨時存放在這裡。
-12,TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_021,物品在這裡進行分類之後，就會被搬到<hex:02100103>公堂保管院和其他各類設施當中。<hex:02100103>也就是所謂的迷津的入口。
-13,TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_022,不過如今既然已經做出了大撤退的決定，<hex:02100103>那麼這裡應該就變成出口了吧……
+0,"TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_000","Oh, a fresh face. That's a rare sight. How might I help you, newcomer?"
+1,"TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_001","I swear, this exodus business will kill me before the Final Days do... If you need something, please keep it short, sweet, and to the point."
+2,"TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_002","Oh, I've heard about you─how you're headed beyond the stars! I doubt there's much I can do for you, but if you have questions, I'll try to answer them as best I can."
+3,"TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_003","It's business as usual again now that certain doom has been averted─all thanks to you, of course. As a gesture of gratitude, I'll answer any questions you might have."
+4,"TEXT_REGNOT5UPPERACRINTHOS_00740_Q1_000_000","What will you ask?"
+5,"TEXT_REGNOT5UPPERACRINTHOS_00740_A1_000_001","What do you do here?"
+6,"TEXT_REGNOT5UPPERACRINTHOS_00740_A1_000_002","What kind of place is this?"
+7,"TEXT_REGNOT5UPPERACRINTHOS_00740_A1_000_003","Nothing."
+8,"TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_010","Simply put, my job here is to record and classify the gleaners' acquisitions. But the work's anything but simple."
+9,"TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_011","We collect all manner of items here in Labyrinthos. Ancient scriptures, artifacts, rare specimens─you name it, odds are we have it. And all of that needs to be inspected!"
+10,"TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_012","It's hard enough on any given day, but now we have to move everything─and to the <hex:021A020203>moon<hex:021A020103> of all places! <sigh> Honestly, the things they ask of us..."
+11,"TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_020","This is upper Acrinthos, Labyrinthos's primary storage facility for materials delivered via the lift."
+12,"TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_021","Here we identify and sort said deliveries before they're sent on to the Archeion or another facility for safekeeping. You might say we're a service entrance for Labyrinthos."
+13,"TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_022","With the exodus having been set in motion, though, we've become more of a service <hex:021A020203>exit<hex:021A020103>..."

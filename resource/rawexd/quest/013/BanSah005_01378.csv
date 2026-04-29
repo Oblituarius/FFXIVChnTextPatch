@@ -2,147 +2,147 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_BANSAH005_01378_SEQ_00,諾布養育場的諾布有急事找冒險者。
-1,TEXT_BANSAH005_01378_SEQ_01,前情回顧：諾布養育場的塞烏想要知道自己的父親諾布那謎一樣的過去。在尋找諾布行蹤的途中，偶然得知了諾布居然曾是珊瑚尖槍的頭目，現在的珊瑚尖槍則是受名為茲古的魚人族統領。諾布此行就是去找茲古會談。冒險者受塞烏所託，趕去現場監視會談進展。諾布希望能和人類進行會談，但茲古堅決主戰，雙方的交涉最終決裂。隨後諾布的真正身份也終被揭曉，原來他就是過去被眾人畏懼的大海盜紅珊瑚海魔。因為人類的復仇而失去了孩子，從那以後諾布開始尋求克服互相憎恨，實現雙方共存的途徑。但因為珊瑚尖槍的惡行，人類和魚人族的關係正在繼續惡化……<hex:02100103>　　　　　　　　　　　　*　*　*<hex:02100103>據諾布的情報，統領珊瑚尖槍的茲古綁架了利姆薩·羅敏薩的高官。為了避免人類和魚人族全面開戰，前往西拉諾西亞的骷髏谷營地，說服法爾克布瑞達副漩校。
-2,TEXT_BANSAH005_01378_SEQ_02,沒能成功說服法爾克布瑞達。黑渦團已經在為了攻打魚人族而備戰，全面開戰已經只是時間問題。返回諾布養育場，向諾布報告。
-3,TEXT_BANSAH005_01378_SEQ_03,諾布為了避免戰爭，提議營救被綁架的塔斯汀財政官。為了探明塔斯汀財政官被囚禁的場所，在西拉諾西亞的海蛇巢穴獲取<hex:022811FF0A>EventItem<hex:F61E898E0103>。
-4,TEXT_BANSAH005_01378_SEQ_04,獲得了<hex:022811FF0A>EventItem<hex:F61E898E0103>。返回諾布養育場，將其交給諾布。
-5,TEXT_BANSAH005_01378_SEQ_05,根據<hex:022811FF0A>EventItem<hex:F61E898E0103>，查明了塔斯汀財政官被囚禁在公爵夫人號。和諾布養育場的海獸馴養人帕阿談談，騎乘水龍蜥登上公爵夫人號。
-6,TEXT_BANSAH005_01378_SEQ_06,成功潛入了公爵夫人號。為了救出塔斯汀財政官，在船上打倒珊瑚尖槍的成員。再打倒領頭的<hex:02280FFF09>BNpcName<hex:F20A9F0103>，獲取<hex:022811FF0A>EventItem<hex:F61E898F0103>。
-7,TEXT_BANSAH005_01378_SEQ_07,獲得了<hex:022811FF0A>EventItem<hex:F61E898F0103>。對船上的塔斯汀財政官使用<hex:022811FF0A>EventItem<hex:F61E898F0103>，將其救出。
-8,TEXT_BANSAH005_01378_SEQ_08,因為冒險者和諾布的活躍表現，珊瑚尖槍和茲古被擊退，塔斯汀財政官被順利地救出。一行安全地逃離了公爵夫人號。和西拉諾西亞小麥酒港的塔斯汀財政官談談。
-9,TEXT_BANSAH005_01378_SEQ_09,塔斯汀財政官對魚人族的處境表示了一定的理解，將<hex:022811FF0A>EventItem<hex:F61E89900103>交給了冒險者。將<hex:022811FF0A>EventItem<hex:F61E89900103>交給諾布養育場的諾布。
-10,TEXT_BANSAH005_01378_SEQ_10,將<hex:022811FF0A>EventItem<hex:F61E89900103>交給了諾布養育場的諾布。諾布更加堅定了和人類共存的決心，大力讚賞了冒險者的行為。另一方面，茲古好像解散了珊瑚尖槍，外出旅行了。向利姆薩·羅敏薩黑渦軍令部的爾·阿夏正漩校報告。
-11,TEXT_BANSAH005_01378_SEQ_11,因為冒險者的活躍表現，人類和魚人的全面戰爭得以避免。此事能以不流血的方式收場，爾·阿夏感到很高興。但是，和蠻族之間的問題並不會因此而全部解決。今後也需要不懈的努力。
-12,TEXT_BANSAH005_01378_SEQ_12,
-13,TEXT_BANSAH005_01378_SEQ_13,
-14,TEXT_BANSAH005_01378_SEQ_14,
-15,TEXT_BANSAH005_01378_SEQ_15,
-16,TEXT_BANSAH005_01378_SEQ_16,
-17,TEXT_BANSAH005_01378_SEQ_17,
-18,TEXT_BANSAH005_01378_SEQ_18,
-19,TEXT_BANSAH005_01378_SEQ_19,
-20,TEXT_BANSAH005_01378_SEQ_20,
-21,TEXT_BANSAH005_01378_SEQ_21,
-22,TEXT_BANSAH005_01378_SEQ_22,
-23,TEXT_BANSAH005_01378_SEQ_23,
-24,TEXT_BANSAH005_01378_TODO_00,和骷髏谷營地的法爾克布瑞達副漩校對話
-25,TEXT_BANSAH005_01378_TODO_01,和諾布養育場的諾布對話
-26,TEXT_BANSAH005_01378_TODO_02,在海蛇巢穴獲取<hex:022811FF0A>EventItem<hex:F61E898E0103>
-27,TEXT_BANSAH005_01378_TODO_03,將<hex:022811FF0A>EventItem<hex:F61E898E0103>交給諾布養育場的諾布
-28,TEXT_BANSAH005_01378_TODO_04,和海獸馴養人帕阿對話
-29,TEXT_BANSAH005_01378_TODO_05,討伐船上的敵人 並討伐隨之出現的<hex:02280FFF09>BNpcName<hex:F20A9F0103><hex:02100103>獲取<hex:022811FF0A>EventItem<hex:F61E898F0103>
-30,TEXT_BANSAH005_01378_TODO_06,對塔斯汀財政官使用<hex:022811FF0A>EventItem<hex:F61E898F0103>
-31,TEXT_BANSAH005_01378_TODO_07,和小麥酒港的塔斯汀財政官對話
-32,TEXT_BANSAH005_01378_TODO_08,將<hex:022811FF0A>EventItem<hex:F61E89900103>交給諾布養育場的諾布
-33,TEXT_BANSAH005_01378_TODO_09,向黑渦軍令部的爾·阿夏正漩校報告
-34,TEXT_BANSAH005_01378_TODO_10,
-35,TEXT_BANSAH005_01378_TODO_11,
-36,TEXT_BANSAH005_01378_TODO_12,
-37,TEXT_BANSAH005_01378_TODO_13,
-38,TEXT_BANSAH005_01378_TODO_14,
-39,TEXT_BANSAH005_01378_TODO_15,
-40,TEXT_BANSAH005_01378_TODO_16,
-41,TEXT_BANSAH005_01378_TODO_17,
-42,TEXT_BANSAH005_01378_TODO_18,
-43,TEXT_BANSAH005_01378_TODO_19,
-44,TEXT_BANSAH005_01378_TODO_20,
-45,TEXT_BANSAH005_01378_TODO_21,
-46,TEXT_BANSAH005_01378_TODO_22,
-47,TEXT_BANSAH005_01378_TODO_23,
-48,TEXT_BANSAH005_01378_NOVV_000_000,<hex:022903EB0203>，呼嘶……<hex:02100103>事情不妙了……<hex:02100103>茲古和珊瑚尖槍終於用出強硬的手段了！
-49,TEXT_BANSAH005_01378_NOVV_000_001,茲古大概也感到焦慮了。<hex:02100103>這次他們又襲擊了船隻，並且綁架了乘客。
-50,TEXT_BANSAH005_01378_NOVV_000_002,呼嘶……但是這次被綁架的人和過往不同。<hex:02100103>被帶走的是利姆薩·羅敏薩的高官！
-51,TEXT_BANSAH005_01378_NOVV_000_003,事情已經上升到政治高度了……<hex:02100103>雙方的對立已經因召喚水神利維亞桑而激化，<hex:02100103>以此事為導火索，很可能會發展為全面戰爭！
-52,TEXT_BANSAH005_01378_NOVV_000_004,呼嘶……<hex:022903EB0203>，拜託了！<hex:02100103>為了收拾局面，請你去找人類勢力的有關人士打聽消息，<hex:02100103>調查動向，最好就是能說服他們不要開戰！
-53,TEXT_BANSAH005_01378_NOVV_000_005,請你去人類勢力的據點骷髏谷營地，<hex:02100103>向那裡的負責人了解情況。<hex:02100103>呼嘶……交給你了！
-54,TEXT_BANSAH005_01378_NOVV_000_006,呼嘶……茲古這愚蠢的傢伙！<hex:02100103>想要魚人族滅族嗎？！
-55,TEXT_BANSAH005_01378_FALKBRYDA_000_010,唔，你今天有什麼事嗎？<hex:02100103>很抱歉，我們現在要處理緊急事態，<hex:02100103>大概沒時間理會你了。
-56,TEXT_BANSAH005_01378_FALKBRYDA_000_011,紅珊瑚海魔領導的魚人族居然襲擊了利姆薩·羅敏薩的官船，<hex:02100103>綁架了正好乘在船上的塔斯汀財政官。
-57,TEXT_BANSAH005_01378_FALKBRYDA_000_012,塔斯汀財政官是深得梅爾維布提督信賴的文官，<hex:02100103>對利姆薩·羅敏薩的財政來說是不可或缺的人物。<hex:02100103>我們要賭上黑渦團的威嚴，全力將他救出來！
-58,TEXT_BANSAH005_01378_FALKBRYDA_000_013,什麼？再等一下？別說笑話！<hex:02100103>提督已經對這件事表態了，堅決不能向蠻族的暴行屈服，<hex:02100103>要徹底反擊，這意思已經傳達到各部隊了。
-59,TEXT_BANSAH005_01378_FALKBRYDA_000_014,黑渦團的主力艦隊也已經候命待發。
-60,TEXT_BANSAH005_01378_FALKBRYDA_000_015,洗好脖子等著吧，該死的魚類！<hex:02100103>先用足以改變地形的火力攻擊他們！<hex:02100103>然後輪到我們陸戰隊衝進去大殺特殺！
-61,TEXT_BANSAH005_01378_FALKBRYDA_000_016,哼，多說無用！已經沒有任何對話的餘地了！<hex:02100103>綁架高官這是多麼的卑劣，對他們這種蠻族完全不必留情！<hex:02100103>我們要復仇！
-62,TEXT_BANSAH005_01378_FALKBRYDA_000_017,聽說敵人是那個惡名昭彰的紅珊瑚海魔……<hex:02100103>倒是個有份量的對手！<hex:02100103>我們一定會救出財政官，讓蠻族嘗嘗正義鐵錘的厲害！
-63,TEXT_BANSAH005_01378_NOVV_000_020,呼嘶……果然已經沒辦法阻止人類勢力了嗎……
-64,TEXT_BANSAH005_01378_NOVV_000_021,這樣必將爆發一場大戰……<hex:02100103>無論何方得勝，都必定會引來對方的復仇，<hex:02100103>產卵地必將不保……
-65,TEXT_BANSAH005_01378_NOVV_000_022,呼嘶……我們只剩下最後的辦法了！<hex:02100103>那就是我和你，兩個人來阻止茲古的野心！<hex:02100103>只有這樣了！
-66,TEXT_BANSAH005_01378_NOVV_000_023,呼嘶……<hex:022903EB0203>。<hex:02100103>首先，我們要去救出那個被綁架的重要人物。<hex:02100103>必須要先掌握他被囚禁在哪裡。
-67,TEXT_BANSAH005_01378_NOVV_000_024,綁架要人這可是較大規模的行動……<hex:02100103>那麼珊瑚尖槍應該又動用了海蛇之舌那群傢伙。<hex:02100103>去他們的海蛇巢穴，或許能找到某些線索！
-68,TEXT_BANSAH005_01378_NOVV_000_025,呼嘶……拜託了，<hex:022903EB0203>！<hex:02100103>現在是分秒必爭！
-69,TEXT_BANSAH005_01378_NOVV_000_026,呼嘶……請你立刻趕去海蛇之舌的據點，<hex:02100103>也就是海蛇巢穴。<hex:02100103>或許能找到和這次綁架行動有關的線索！
-70,TEXT_BANSAH005_01378_NOVV_000_040,呼嘶……怎麼樣，<hex:022903EB0203>？<hex:02100103>有找到什麼線索嗎？
-71,TEXT_BANSAH005_01378_NOVV_000_041,這個是<hex:022811FF0A>EventItem<hex:F61E898E0103>！<hex:02100103>原來如此，重要人物就被囚禁在海蛇之舌們的海盜船「公爵夫人號」！
-72,TEXT_BANSAH005_01378_NOVV_000_042,呼嘶……<hex:022903EB0203>！<hex:02100103>你立刻乘坐水龍蜥，趕往計劃書上說的海域，<hex:02100103>登上公爵夫人號！
-73,TEXT_BANSAH005_01378_NOVV_000_043,我做好準備也會立即追上去！<hex:02100103>呼嘶……拜託你了！
-74,TEXT_BANSAH005_01378_NOVV_000_044,呼嘶……你立刻乘坐養育場的水龍蜥，<hex:02100103>登上公爵夫人號！<hex:02100103>我做好準備也會立即追上去！
-75,TEXT_BANSAH005_01378_TAMER01376_000_050,呼嘶……老爹都告訴我了！<hex:02100103>不要磨蹭，快點坐上去！
-76,TEXT_BANSAH005_01378_Q1_000_000,要騎上水龍蜥嗎？
-77,TEXT_BANSAH005_01378_A1_000_001,是
-78,TEXT_BANSAH005_01378_A1_000_002,否
-79,TEXT_BANSAH005_01378_TURSTIN_000_100,放、放開我！<hex:02100103>你們到底想幹什麼？
-80,TEXT_BANSAH005_01378_SAHUAGIN01377_000_101,(-珊瑚尖槍士兵-)呼嘶……給我閉嘴，無鰭類！<hex:02100103>你要是敢亂來，信不信我在你脖子上開幾道鰓口？<hex:02100103>你們可是沒法在水裡呼吸的吧？
-81,TEXT_BANSAH005_01378_TURSTIN_000_102,不要太小看人了！<hex:02100103>以為我會被你們嚇到嗎？<hex:02100103>我不會向你們的暴力屈服的！
-82,TEXT_BANSAH005_01378_SAHUAGIN01377_000_103,(-珊瑚尖槍士兵-)呼嘶，閉嘴，無鰭類！<hex:02100103>你不給我安靜點的話，那就如你所願把你扔下海！
-83,TEXT_BANSAH005_01378_SAHUAGIN01377_000_104,(-珊瑚尖槍士兵-)呼嘶！你、你是？！
-84,TEXT_BANSAH005_01378_TURSTIN_000_105,提督派來的救援部隊嗎？！<hex:02100103>咦……怎、怎麼還有魚人族？！<hex:02100103>這、這到底是？
-85,TEXT_BANSAH005_01378_NOVV_000_106,呼嘶，<hex:022903EB0203>！<hex:02100103>你在那邊嗎？
-86,TEXT_BANSAH005_01378_NOVV_000_107,呼嘶，我來保護人質！<hex:02100103>要還他自由的話，你得弄到<hex:022811FF0A>EventItem<hex:F61E898F0103>！<hex:02100103>珊瑚尖槍的兵長手裡應該就有！
-87,TEXT_BANSAH005_01378_BALLOON_000_056,呼嘶……我來做你對手！<hex:02100103>到海裡去餵魚吧！
-88,TEXT_BANSAH005_01378_BALLOON_000_055,呼嘶……無鰭類！<hex:02100103>我可要認真了！
-89,TEXT_BANSAH005_01378_Q2_000_000,要返回諾布養育場嗎？
-90,TEXT_BANSAH005_01378_A2_000_001,是
-91,TEXT_BANSAH005_01378_A2_000_002,否
-92,TEXT_BANSAH005_01378_NOVV_000_056,呼嘶，我來保護人質！<hex:02100103>要還他自由的話，你得弄到<hex:022811FF0A>EventItem<hex:F61E898F0103>！<hex:02100103>珊瑚尖槍的兵長手裡應該就有！
-93,TEXT_BANSAH005_01378_TURSTIN_000_057,為什麼魚人族會來救我？！<hex:02100103>這到底是怎麼一回事？他到底是……
-94,TEXT_BANSAH005_01378_TURSTIN_000_200,得、得救了……多謝你們！<hex:02100103>你是冒險者吧？<hex:02100103>這魚人族也是你的同伴嗎？
-95,TEXT_BANSAH005_01378_NOVV_000_201,呼嘶，還沒到放鬆的時候！<hex:02100103>給我抓緊了，小心掉到海裡去！
-96,TEXT_BANSAH005_01378_ZUUG_000_202,呼嘶……果然不打倒你，<hex:02100103>我就沒法成為真正的紅珊瑚海魔嗎……
-97,TEXT_BANSAH005_01378_NOVV_000_203,呼嘶……茲古，瞧瞧你做了些什麼！<hex:02100103>你做這種事，是要把魚人族全族捲進去，<hex:02100103>和人類全面開戰嗎？
-98,TEXT_BANSAH005_01378_ZUUG_000_204,呼嘶！你在怕什麼？<hex:02100103>和全盛期的紅珊瑚海魔的所作所為比起來，<hex:02100103>這不過是扮家家酒而已！
-99,TEXT_BANSAH005_01378_ZUUG_000_205,呼嘶！你這老糊塗受死吧！<hex:02100103>就讓我來看看你本領還留有幾分吧！
-100,TEXT_BANSAH005_01378_ZUUG_000_206,嗚、嗚啊！
-101,TEXT_BANSAH005_01378_NOVV_000_207,呼嘶……我沒有攻擊要害……<hex:02100103>快回去療傷吧！
-102,TEXT_BANSAH005_01378_ZUUG_000_208,呼、呼嘶……可、可惡……<hex:02100103>你是在可憐我嗎……殺了我！殺了我啊！
-103,TEXT_BANSAH005_01378_NOVV_000_209,呼嘶……怎麼會有殺害自己孩子的父母呢？<hex:02100103>我們魚人族的血緣更是深如海溝，牢固如貝殼……
-104,TEXT_BANSAH005_01378_NOVV_000_210,我有說錯嗎，茲古？<hex:02100103>我的兒子！
-105,TEXT_BANSAH005_01378_ZUUG_000_211,呼、呼嘶……<hex:02100103>我、我從來都沒有把你當、當作父親……
-106,TEXT_BANSAH005_01378_ZUUG_000_212,呼、呼嘶……為什麼？<hex:02100103>為什麼你要捨棄紅珊瑚海魔之名？！<hex:02100103>為什麼你不去向人類復仇？！
-107,TEXT_BANSAH005_01378_NOVV_000_213,呼嘶……你應該已經知道答案了。
-108,TEXT_BANSAH005_01378_NOVV_000_214,不要說你已經忘記了失去兄弟們的悲痛。<hex:02100103>在那慘劇的現場，和我一起哭乾眼淚的，<hex:02100103>不就只有唯一生還下來的你嗎？
-109,TEXT_BANSAH005_01378_ZUUG_000_215,呼嘶……所以、所以……<hex:02100103>我才想要變強，變得比任何人都強！
-110,TEXT_BANSAH005_01378_ZUUG_000_216,我要向殺掉了兄弟們的無鰭類復仇！<hex:02100103>我需要無人匹敵的壓倒性武力和威嚴！<hex:02100103>就像過去被稱為紅珊瑚海魔的你一樣！
-111,TEXT_BANSAH005_01378_NOVV_000_217,呼嘶……只靠一個名號是保護不了重要的東西的。<hex:02100103>在懂得這個道理之前，我失去了太多……
-112,TEXT_BANSAH005_01378_NOVV_000_218,呼嘶，茲古……我不想讓你也有這種回憶。<hex:02100103>你可是擔負著魚人族未來的……我的孩子。
-113,TEXT_BANSAH005_01378_NOVV_000_219,你可是我的……無可替代的家人啊……
-114,TEXT_BANSAH005_01378_ZUUG_000_220,老、老爹……
-115,TEXT_BANSAH005_01378_ZUUG_000_221,呼嘶……起錨……準備開船。<hex:02100103>開往最近的無鰭類港口。<hex:02100103>準備一艘小船……把人質放了！
-116,TEXT_BANSAH005_01378_TURSTIN_000_060,冒險者，你救了我一命，我必須再次向你道謝。<hex:02100103>還有……我也必須謝謝和你一起救了我的那個魚人族……
-117,TEXT_BANSAH005_01378_TURSTIN_000_061,看來我以前都誤解了。<hex:02100103>我一直以為魚人族……蠻族都是愛好殺戮的狂人。<hex:02100103>以為他們都是野蠻人，完全沒辦法交涉。
-118,TEXT_BANSAH005_01378_TURSTIN_000_062,但是那個人……是叫諾布吧？<hex:02100103>魚人族裡居然有那樣的人物呢。<hex:02100103>並且，蠻族也和我們一樣，懂得疼愛子女啊……
-119,TEXT_BANSAH005_01378_TURSTIN_000_063,我也是3個孩子的父親。<hex:02100103>這次的事情一定讓孩子們很擔心我吧……<hex:02100103>我要趕緊回去給家裡報平安才行。
-120,TEXT_BANSAH005_01378_TURSTIN_000_064,我會直接聯繫梅爾維布提督，<hex:02100103>讓黑渦團解除攻擊準備。<hex:02100103>還有……我希望你收下這個。
-121,TEXT_BANSAH005_01378_TURSTIN_000_065,這是拉諾西亞的海員們之間流行的<hex:022811FF0A>EventItem<hex:F61E89900103>。<hex:02100103>是由父親轉交給孩子、祈禱孩子健康成長和事業有成的護符。<hex:02100103>請你把這個交給那個叫諾布的魚人族。
-122,TEXT_BANSAH005_01378_TURSTIN_000_066,魚人也和人類一樣愛子心切啊……<hex:02100103>哈哈，此事真是讓我對他們刮目相看……<hex:02100103>雖然我暫時可能不想再看到魚人了……哈哈！
-123,TEXT_BANSAH005_01378_NOVV_000_070,<hex:022903EB0203>，你回來啦。<hex:02100103>真是不知該怎麼感謝你才好……呼嘶。
-124,TEXT_BANSAH005_01378_NOVV_000_071,茲古解散了珊瑚尖槍，要出去旅行。<hex:02100103>他大概是孩子裡個性最像我的，都是一樣的頑固……<hex:02100103>現在要他回到這個養育場，他一定感到很難辦吧。
-125,TEXT_BANSAH005_01378_NOVV_000_072,呼嘶……但是他一定會回來的。<hex:02100103>並且會變得比我這個父親更強健……<hex:02100103>我會留在這裡等著那一天到來的。
-126,TEXT_BANSAH005_01378_NOVV_000_073,呼嘶……這是什麼？<hex:02100103>那個被綁架的官員送給我的？<hex:02100103>是人類父親送給孩子的禮物嗎……？
-127,TEXT_BANSAH005_01378_NOVV_000_074,人類殺了我很多孩子。<hex:02100103>這份仇恨我大概永遠都無法忘記。
-128,TEXT_BANSAH005_01378_NOVV_000_075,但是，對孩子們的愛，<hex:02100103>要遠比這份仇恨更大。
-129,TEXT_BANSAH005_01378_NOVV_000_076,這個<hex:022811FF0A>EventItem<hex:F61E89900103>象徵著父子間的感情，<hex:02100103>而我對此祈願，希望人類和魚人族……<hex:02100103>兩個種族能正式拋開憎恨的那一天能早日到來。
-130,TEXT_BANSAH005_01378_NOVV_000_077,呼嘶……<hex:022903EB0203>，<hex:02100103>你做好了旅行的準備的話，就儘管上路吧。<hex:02100103>但是，請你不要忘記這裡。
-131,TEXT_BANSAH005_01378_NOVV_000_078,在這養育場裡和你度過的這段日子，還有發生的這些事情，<hex:02100103>我和孩子們都絕不會忘記的。<hex:02100103>只要你願意，隨時歡迎你來。
-132,TEXT_BANSAH005_01378_NOVV_000_079,呼嘶……因為……<hex:02100103>你也已經是我們不可替代的家人了。呼嘶。
-133,TEXT_BANSAH005_01378_NOVV_000_080,呼嘶……冒險之餘，偶爾就來養育場玩玩，<hex:02100103>把你冒險的故事講給孩子們聽聽。<hex:02100103>還有魚人族的大餐等著你……應該並不是那麼難吃吧？
-134,TEXT_BANSAH005_01378_RASHAHT_000_090,哦哦，你平安回來啦！<hex:02100103>為了做好塔斯汀財政官救出作戰的事後處理，<hex:02100103>整個軍令部直到剛才都還亂成一團呢！
-135,TEXT_BANSAH005_01378_RASHAHT_000_091,能防患於未然實在太好了。<hex:02100103>黑渦團可不是膽小怯戰哦，<hex:02100103>只是能不流無用之血的話，那還是不流的好！
-136,TEXT_BANSAH005_01378_RASHAHT_000_092,救出財政官的就是你吧？<hex:02100103>我聽說時都嚇了一大跳！<hex:02100103>因為是我派你去的，現在連我都能引以為豪了！
-137,TEXT_BANSAH005_01378_RASHAHT_000_093,多虧了你，才能避免了戰爭，<hex:02100103>財政官也平安歸來了。
-138,TEXT_BANSAH005_01378_RASHAHT_000_094,但是……蠻神利維亞桑的問題還沒有解決。<hex:02100103>雖然雙方準備尋求和解，我們也不能放鬆警惕。<hex:02100103>必須做好準備，以防萬一……
-139,TEXT_BANSAH005_01378_RASHAHT_000_095,總之，我要代表黑渦團向你致謝！<hex:02100103>辛苦了……今天就好好休息吧。<hex:02100103>還有，趕快去清洗下身體吧……魚腥味好重呢。
-140,TEXT_BANSAH005_01378_SYSTEM_000_096,與魚人族「諾布一夥」的關係程度到達了「信賴」。<hex:02100103>冒險者的活躍表現將在魚人族之間傳為佳話！
-141,TEXT_BANSAH005_01378_SYSTEM_000_097,並且可以在「魚人族雜用商人」處購入要求「關係程度：信賴」的商品。<hex:02100103>在今後的冒險裡善加利用吧！
-142,TEXT_BANSAH005_01378_POPMESSAGE_000_000,<hex:02280FFF09>BNpcName<hex:F20A9F0103>出現了！
-143,TEXT_BANSAH005_01378_TAMER01376_000_120,呼嘶……老爹都跟我說了！<hex:02100103>不要磨蹭，快點出發吧！
+0,"TEXT_BANSAH005_01378_SEQ_00","Novv is clearly agitated by a recent development concerning the Coral Tridents."
+1,"TEXT_BANSAH005_01378_SEQ_01","Novv informs you that Zugg and his Coral Trident fanatics have abducted a high-ranking Lominsan official from the deck of a navy vessel. Visibly distressed by the implications, the clutchfather asks that you speak with a Maelstrom officer to learn if there is any chance to avert the seemingly inevitable plunge into full-scale war. Make your way to Camp Skull Valley and attempt a parley with Commander Falkbryda."
+2,"TEXT_BANSAH005_01378_SEQ_02","You attempt to dissuade Falkbryda from her course, but it appears the actions of the Coral Tridents have finally pushed the Maelstrom too far. It is only a matter of time before the cannon-laden warships of the Lominsan navy set sail for Sahagin territory on the orders of the Admiral herself. Return to Novv's Nursery and report the distressing news to Novv."
+3,"TEXT_BANSAH005_01378_SEQ_03","In a desperate effort to defuse the volatile situation, the clutchfather suggests that you and he attempt to rescue the abducted councillor yourselves. Your first task will be to uncover exactly where the Coral Tridents are keeping their prisoner. Infiltrate the Serpent's Tongue in western La Noscea, and search the pirates' abode for any written records that appear to document the ambitious plan."
+4,"TEXT_BANSAH005_01378_SEQ_04","You have found an ale-stained parchment that illustrates what you believe to be the raid on the councillor's ship. Return to Novv's Nursery and have Novv peruse the crumpled document."
+5,"TEXT_BANSAH005_01378_SEQ_05","After poring over the soiled parchment you retrieved from the Serpent's Tongue, Novv believes he has identified the location of the pirate vessel where the Lominsan official is being held. Speak with Pahh, the seabeast tamer, and borrow an elbst to carry you to the <hex:021A020203>Lost Duchess<hex:021A020103>."
+6,"TEXT_BANSAH005_01378_SEQ_06","You have successfully slipped aboard the <hex:021A020203>Lost Duchess<hex:021A020103> and located Councillor Turstin. Though shackled─and somewhat shocked at Novv's unexpected appearance─the official appears mercifully unharmed. The clutchfather offers to protect Turstin while you search for a means to free him from his bonds. Defeat the enemies aboard the ship until you find the key to the manacles."
+7,"TEXT_BANSAH005_01378_SEQ_07","You have liberated the manacle key from the body of a slain Sahagin. Return to Councillor Turstin and unlock his shackles."
+8,"TEXT_BANSAH005_01378_SEQ_08","After a tense and emotional confrontation, Novv at last convinces Zugg─the leader of the Coral Tridents and Novv's wayward son─of the futility of his warmongering. At Zugg's command, the <hex:021A020203>Lost Duchess<hex:021A020103> sets sail for the nearest shorewalker settlement, and lowers a lifeboat for you and the councillor to row into the western La Noscean port. Speak with Turstin in Aleport, and learn what he intends to do next."
+9,"TEXT_BANSAH005_01378_SEQ_09","Councillor Turstin expresses his gratitude towards you and Novv for his timely rescue. It appears that the recent experience has changed his perception of the Sahagin as simple, bloodthirsty brutes, and he sympathizes with the clutchfather's trials as a parent. After promising to convince the Admiral to stand down the troops, the Lominsan official hands you a gull feather trinket that is said to represent home and happiness. Deliver the feather to Novv at Novv's Nursery."
+10,"TEXT_BANSAH005_01378_SEQ_10","You hand the gull feather trinket to Novv, compliments of Councillor Turstin. The clutchfather thanks you for your role in averting war with Limsa Lominsa, and once more speaks fervently of his desire to see a cessation of hostilities between the two long-standing enemies. Though his son Zugg has apparently left on a journey for distant waters, Novv hopes that both he─and you─will someday return to visit the nursery. Return to Maelstrom Command in Limsa Lominsa and make your final report to Commander R'ashaht Rhiki."
+11,"TEXT_BANSAH005_01378_SEQ_11","Relieved that the need for large-scale conflict has been avoided, R'ashaht Rhiki commends you for your efforts in rescuing the councillor and addressing the Sahagin threat. The commander seems cautiously optimistic about the possibility of brokering a peace with the scaled beastmen, but warns that the looming specter of Leviathan requires the Maelstrom to remain in a constant state of vigilance. You are dismissed for now, but the call to duty may sound at a moment's notice..."
+12,"TEXT_BANSAH005_01378_SEQ_12",""
+13,"TEXT_BANSAH005_01378_SEQ_13",""
+14,"TEXT_BANSAH005_01378_SEQ_14",""
+15,"TEXT_BANSAH005_01378_SEQ_15",""
+16,"TEXT_BANSAH005_01378_SEQ_16",""
+17,"TEXT_BANSAH005_01378_SEQ_17",""
+18,"TEXT_BANSAH005_01378_SEQ_18",""
+19,"TEXT_BANSAH005_01378_SEQ_19",""
+20,"TEXT_BANSAH005_01378_SEQ_20",""
+21,"TEXT_BANSAH005_01378_SEQ_21",""
+22,"TEXT_BANSAH005_01378_SEQ_22",""
+23,"TEXT_BANSAH005_01378_SEQ_23",""
+24,"TEXT_BANSAH005_01378_TODO_00","Speak with Falkbryda at Camp Skull Valley."
+25,"TEXT_BANSAH005_01378_TODO_01","Speak with Novv at Novv's Nursery."
+26,"TEXT_BANSAH005_01378_TODO_02","Search the Serpent's Tongue for a clue to Councillor Turstin's whereabouts."
+27,"TEXT_BANSAH005_01378_TODO_03","Deliver the ale-stained parchment to Novv at Novv's Nursery."
+28,"TEXT_BANSAH005_01378_TODO_04","Speak with Pahh."
+29,"TEXT_BANSAH005_01378_TODO_05","Defeat enemies aboard the ship, and obtain the manacle key from the Coral Sahagin."
+30,"TEXT_BANSAH005_01378_TODO_06","Use the manacle key to free Turstin."
+31,"TEXT_BANSAH005_01378_TODO_07","Speak with Turstin in Aleport."
+32,"TEXT_BANSAH005_01378_TODO_08","Deliver the gull feather trinket to Novv at Novv's Nursery."
+33,"TEXT_BANSAH005_01378_TODO_09","Report to R'ashaht Rhiki at Maelstrom Command."
+34,"TEXT_BANSAH005_01378_TODO_10",""
+35,"TEXT_BANSAH005_01378_TODO_11",""
+36,"TEXT_BANSAH005_01378_TODO_12",""
+37,"TEXT_BANSAH005_01378_TODO_13",""
+38,"TEXT_BANSAH005_01378_TODO_14",""
+39,"TEXT_BANSAH005_01378_TODO_15",""
+40,"TEXT_BANSAH005_01378_TODO_16",""
+41,"TEXT_BANSAH005_01378_TODO_17",""
+42,"TEXT_BANSAH005_01378_TODO_18",""
+43,"TEXT_BANSAH005_01378_TODO_19",""
+44,"TEXT_BANSAH005_01378_TODO_20",""
+45,"TEXT_BANSAH005_01378_TODO_21",""
+46,"TEXT_BANSAH005_01378_TODO_22",""
+47,"TEXT_BANSAH005_01378_TODO_23",""
+48,"TEXT_BANSAH005_01378_NOVV_000_000","Our effortsss to achieve peace may have all been in vain, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. By undermining Zugg's leadershhhip at that farce of a parley, I'm afraid I have ssstripped away what little ressstraint he had left."
+49,"TEXT_BANSAH005_01378_NOVV_000_001","The Coral Tridentsss have attacked yet another shhhip...and this time they have taken a prisoner."
+50,"TEXT_BANSAH005_01378_NOVV_000_002","Pshhh... While the raid itssself is sssufficient cause for concern, the fools have abducted a high-ranking Lominsan official."
+51,"TEXT_BANSAH005_01378_NOVV_000_003","Now the sssituation is political. If the threat posed by the return of Lord Leviathan weren't enough, then this incident will shhhurely put pressure on the shhhorewalker elders to essscalate their engagement to full-ssscale war!"
+52,"TEXT_BANSAH005_01378_NOVV_000_004","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, I beg you: you mussst ssspeak with a Maelssstrom commander. It is vital that we learn what plans have been ssset in motion, and if there is aught we can do to contain the damage caused by Zugg's insssanity."
+53,"TEXT_BANSAH005_01378_NOVV_000_005","The nearessst officer of rank will be in Camp Ssskull Valley. You are a mighty hero─perhapsss your words will sssway the Maelssstrom from a path they doubtless do not wishhh to tread."
+54,"TEXT_BANSAH005_01378_NOVV_000_006","Pshhh... Zugg, you arrogant fool. Will you not be sssatisfied until the corpses of our entire race litter the shhhore?"
+55,"TEXT_BANSAH005_01378_FALKBRYDA_000_010","I have no tasks for you at present, adventurer. A recent crisis is demanding our full attention, and it is no simple matter of ousting a nest of belligerent dodos."
+56,"TEXT_BANSAH005_01378_FALKBRYDA_000_011","The Scarlet Sea Devil, an infamous fishback pirate we had long thought perished, has had the temerity to lead an assault on a Lominsan warship. In addition to the heavy casualties they inflicted on the crew, the Sahagin reportedly took prisoner our councillor of coin."
+57,"TEXT_BANSAH005_01378_FALKBRYDA_000_012","Councillor Turstin is one of the Admiral's most trusted advisors, and an essential figure in the day-to-day running of the thalassocracy. His abduction is a blatant act of hostility to which the Maelstrom must give answer─we go to war!"
+58,"TEXT_BANSAH005_01378_FALKBRYDA_000_013","Hm? Have we considered an alternate course of action? There is only one response to this kind of attack─Admiral Bloefhiswyn has already instructed our troops to make ready for a full-scale retaliation."
+59,"TEXT_BANSAH005_01378_FALKBRYDA_000_014","The warships of the armada are assembled and await but the order to set sail."
+60,"TEXT_BANSAH005_01378_FALKBRYDA_000_015","Those savages won't know what hit them! The charts will need to be redrawn after our cannons are done bombarding their shore! Then we'll send in the ground levy─that's us─to mop up any fishbacks that survive the cannons."
+61,"TEXT_BANSAH005_01378_FALKBRYDA_000_016","...Save your breath, adventurer. The fishbacks forfeited any right to negotiation when they laid their slimy talons on a navy vessel. Brute force is the only language they understand!"
+62,"TEXT_BANSAH005_01378_FALKBRYDA_000_017","And while we're rescuing the councillor, mayhap we take the head of the Scarlet Sea Devil into the bargain! Make no mistake─the Maelstrom will see justice done, swift and sure!"
+63,"TEXT_BANSAH005_01378_NOVV_000_020","Pshhh... Ssso, the finless ones will not be deterred from their righteousss courssse."
+64,"TEXT_BANSAH005_01378_NOVV_000_021","No matter who emerges the victor in the coming conflict, ssslaughter will be anssswered with ssslaughter, and our ssspawning grounds shall give birth to naught but death..."
+65,"TEXT_BANSAH005_01378_NOVV_000_022","I can sssee but one way to sssteer us clear of this abyss, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>: you and I rescue the shhhorewalker official ourssselves."
+66,"TEXT_BANSAH005_01378_NOVV_000_023","Before we can attempt to undo this madness, however, we mussst firssst dissscover where the councillor is being held."
+67,"TEXT_BANSAH005_01378_NOVV_000_024","An ambitiousss ssscheme such as this would have required extensssive planning, and Zugg likely provided his Ssserpent Reaver lackeys with sssome manner of written instruction."
+68,"TEXT_BANSAH005_01378_NOVV_000_025","A sssearch of the Ssserpent's Tongue may provide usss with the information we need. Quickly now, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! Time is of the essence!"
+69,"TEXT_BANSAH005_01378_NOVV_000_026","Make your way to the Ssserpent's Tongue, and sssearch the abode of the finless piratesss for any record of the assault plans. We mussst learn where Zugg is holding the Lominsan!"
+70,"TEXT_BANSAH005_01378_NOVV_000_040","Pshhh... Your sssearch, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, was it successful?"
+71,"TEXT_BANSAH005_01378_NOVV_000_041","Ah, yesss─the parchment is sssoiled, but I can ssstill make out the words. They planned to keep the councillor prisoner aboard the <hex:021A020203>Lost Duchess<hex:021A020103>, one of the Reavers' own shhhips."
+72,"TEXT_BANSAH005_01378_NOVV_000_042","I do not know if these were Zugg's final inssstructions, but we have no time to assume otherwise. Ride an elbssst out to where the pirate vessel is sssaid to have dropped anchor, and take the crew by sssurprise!"
+73,"TEXT_BANSAH005_01378_NOVV_000_043","Though I do not ssswim quite so ssswiftly as one of Pahh's ssseabeasts, trussst that I will not be far behind."
+74,"TEXT_BANSAH005_01378_NOVV_000_044","Pshhh... Take an elbssst from the nursssery, and make hassste for the <hex:021A020203>Lost Duchess<hex:021A020103>. I will sssoon join you on the deck."
+75,"TEXT_BANSAH005_01378_TAMER01376_000_050","The clutchfather bid me ready my swiftessst elbssst. Be sure to hold on tightly, shhhorewalker!"
+76,"TEXT_BANSAH005_01378_Q1_000_000","Mount the elbst?"
+77,"TEXT_BANSAH005_01378_A1_000_001","Yes"
+78,"TEXT_BANSAH005_01378_A1_000_002","No"
+79,"TEXT_BANSAH005_01378_TURSTIN_000_100","Release me, you fiends! Do you know who I am!?"
+80,"TEXT_BANSAH005_01378_SAHUAGIN01377_000_101","(-Coral Trident Warrior-)Pshhh... Shhhilence, shhhorewalker! Try to eshhhcape, and I'll shhhlice gills into your neck! Maybe then you'll be able to breathe underwater! Pshhhahaha!"
+81,"TEXT_BANSAH005_01378_TURSTIN_000_102","You think me cowed by simple threats? We Lominsans will not be intimidated by your base savagery!"
+82,"TEXT_BANSAH005_01378_SAHUAGIN01377_000_103","(-Coral Trident Warrior-)You try my patience, finleshhh one! Continue your shhhquawking, and I'll drop you over the rail!"
+83,"TEXT_BANSAH005_01378_SAHUAGIN01377_000_104","(-Coral Trident Warrior-)Pshhh! You!? But how...!?"
+84,"TEXT_BANSAH005_01378_TURSTIN_000_105","Aha! My rescuers have arrived...at...last... Wh–Who are you!? You're not a Maelstrom soldier. What in the Navigator's name is going on here!?"
+85,"TEXT_BANSAH005_01378_NOVV_000_106","Pshhh... <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>!"
+86,"TEXT_BANSAH005_01378_NOVV_000_107","I will defend the councillor while you liberate the key to his shhhackles. One of these Coral Trident zealotsss mussst carry it!"
+87,"TEXT_BANSAH005_01378_BALLOON_000_056","Your bloated corpshhhe will feed the shhharks, shhhorewalker!"
+88,"TEXT_BANSAH005_01378_BALLOON_000_055","Ceashhhe your shhhtruggling, finleshhh one!"
+89,"TEXT_BANSAH005_01378_Q2_000_000","Return to Novv's Nursery?"
+90,"TEXT_BANSAH005_01378_A2_000_001","Yes"
+91,"TEXT_BANSAH005_01378_A2_000_002","No"
+92,"TEXT_BANSAH005_01378_NOVV_000_056","I will defend the councillor while you liberate the key to his shhhackles. One of these Coral Trident zealotsss mussst carry it!"
+93,"TEXT_BANSAH005_01378_TURSTIN_000_057","Why has this Sahagin come to my aid? Am I to trade one captor for another?"
+94,"TEXT_BANSAH005_01378_TURSTIN_000_200","My thanks! Those manacles were beginning to chafe! Now, I can see that you are some manner of sellsword, but I'm not quite sure what to make of this, er, scaled gentleman. A friend of yours?"
+95,"TEXT_BANSAH005_01378_NOVV_000_201","We are not free of thisss yet! Ssstay clossse to me, lessst you be tossed overboard!"
+96,"TEXT_BANSAH005_01378_ZUUG_000_202","Pshhh... It ssseems that the mantle of the Ssscarlet Sssea Devil will not sssit firmly upon my shhhoulders until I have sssent you to the depthsss..."
+97,"TEXT_BANSAH005_01378_NOVV_000_203","Zugg... Do you realize what is at ssstake here? Your reckless ambition endangers the fate of our entire tribe! The shhhorewalkers ready their armada even as we ssspeak!"
+98,"TEXT_BANSAH005_01378_ZUUG_000_204","Does the thought of war with the finless ones now frighten you ssso? Let them come! My anticsss are as a ssspawnling's missschief compared to the mayhem you once committed!"
+99,"TEXT_BANSAH005_01378_ZUUG_000_205","Pshhh! Ready your ssspear, old one! Let us sssee if the years have ssstolen your ssskill as well as your ssspine!"
+100,"TEXT_BANSAH005_01378_ZUUG_000_206","Hurk!"
+101,"TEXT_BANSAH005_01378_NOVV_000_207","Pshhh... The wound is not fatal...though it might leave a nasssty ssscar."
+102,"TEXT_BANSAH005_01378_ZUUG_000_208","Pshhh! I do not asssk...for your pity! <gasp> Finishhh it now! Kill me!"
+103,"TEXT_BANSAH005_01378_NOVV_000_209","Shhhow me a parent who can kill his own child. Sssahagin blood ties run deeper than the mossst abyssal sssea trench."
+104,"TEXT_BANSAH005_01378_NOVV_000_210","You beg for the impossible─I will not ssslay my own ssson."
+105,"TEXT_BANSAH005_01378_ZUUG_000_211","I rejected you...as my clutchfather!"
+106,"TEXT_BANSAH005_01378_ZUUG_000_212","Why? Why did you...throw away all that you had become? <gasp> Why did you not ssseek vengeance on the shhhorewalkers who wronged us!?"
+107,"TEXT_BANSAH005_01378_NOVV_000_213","You know the anssswers to those quessstions."
+108,"TEXT_BANSAH005_01378_NOVV_000_214","Shhhurely you have not forgotten what befell your ssspawnbrothers? At my ssside you ssstood, the only sssurviving hatchling, and shhhed a river of tears for your ssslain clutchmatesss."
+109,"TEXT_BANSAH005_01378_ZUUG_000_215","Pshhh... Yesss, I wept for them! And made them a promissse!"
+110,"TEXT_BANSAH005_01378_ZUUG_000_216","I would avenge their deathsss with the blood of a thousand shhhorewalkers! <gasp> I would grow into a warrior both mighty and terrible to behold─the Ssscarlet Sssea Devil reborn! I would do what <hex:021A020203>you<hex:021A020103> would not..."
+111,"TEXT_BANSAH005_01378_NOVV_000_217","You cannot protect that which you love with a name, no matter how fearful. It took the greatessst tragedy of my life to open my eyes to that truth."
+112,"TEXT_BANSAH005_01378_NOVV_000_218","Pshhh... Zugg. I would ssspare you that pain again. I would have you be the future our people need."
+113,"TEXT_BANSAH005_01378_NOVV_000_219","I only want what is bessst...for <hex:021A020203>all<hex:021A020103> my sssons."
+114,"TEXT_BANSAH005_01378_ZUUG_000_220","Clutchfather..."
+115,"TEXT_BANSAH005_01378_ZUUG_000_221","Pshhh... Weigh anchor and take the helm. We make for the nearessst shhhorewalker port. Prepare a boat to take our...guessst ashore."
+116,"TEXT_BANSAH005_01378_TURSTIN_000_060","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, was it? My thanks again. Were it not for you and your Sahagin acquaintance, I would still be rubbing my wrists raw trying to escape those infernal shackles!"
+117,"TEXT_BANSAH005_01378_TURSTIN_000_061","'Twould seem I have been laboring under a misconception: I was convinced that all Sahagin─all beastmen, in fact─were naught but bloodthirsty, murdering savages, with not the slightest concept of peace or compromise."
+118,"TEXT_BANSAH005_01378_TURSTIN_000_062","But after meeting...Novv, did you call him? Intriguing fellow. Yes, well, after witnessing his exchange with his son, I see now that our “fishback” enemies are far more complicated than our bedtime tales of horror would lead us to believe."
+119,"TEXT_BANSAH005_01378_TURSTIN_000_063","I have three younglings of my own, you see. And I am quite eager to hurry home and reassure them that their father is very much alive and well."
+120,"TEXT_BANSAH005_01378_TURSTIN_000_064","Before I do so, however, I shall contact the Admiral and convince her to rescind the order to attack. 'Twill not be an easy task, but as the man who holds the nation's purse strings, my words carry a certain weight. Hm hm. ...Oh, and here."
+121,"TEXT_BANSAH005_01378_TURSTIN_000_065","Gulls are often a welcome sight on ships, as their presence means land─and home─is close by. La Noscean sailors began gathering the feathers dropped on deck, and fashioning them into trinkets to give to their children as a symbol of hearth and happiness.<hex:02100103>I would be grateful if you could see that feather into your Sahagin friend's hands."
+122,"TEXT_BANSAH005_01378_TURSTIN_000_066","Beastman or no, I have seen that any father wishes the same things for his offspring. Perhaps, in time, we shall find more common ground between our peoples. I only hope that it will not require the threat of imminent war to bring such future revelations to light! Ahahaha!"
+123,"TEXT_BANSAH005_01378_NOVV_000_070","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, I have no words to thank you. Without your aid, I do not think war with the shhhorewalkers could have been avoided."
+124,"TEXT_BANSAH005_01378_NOVV_000_071","Pshhh... Zugg has disbanded the Coral Tridentsss, and is ssset on traveling for a time. Among all of my offssspring, he is the mossst like me─the mossst determined and ssstubborn. I sssense he is hesssitant to return to the nursssery."
+125,"TEXT_BANSAH005_01378_NOVV_000_072","But return he will, in time. And when he does, I hope to sssee him a ssstronger and wiser Sahagin than I ever was. Sssuch pleasant thoughtsss will sssustain me while I raise his unruly ssspawnbrothers."
+126,"TEXT_BANSAH005_01378_NOVV_000_073","Pshhh... The councillor wished me to have this? I sssee... A gift from parent to child─a symbol of joy and family."
+127,"TEXT_BANSAH005_01378_NOVV_000_074","Ssso many of my offssspring were ssslain by shhhorewalkers. The rage ssspawned by that act will never fully leave me."
+128,"TEXT_BANSAH005_01378_NOVV_000_075","But it is as nothing compared to the desire I feel to protect my sssurviving ssspawnlings."
+129,"TEXT_BANSAH005_01378_NOVV_000_076","I pray that this trinket can one day represent not just the bond between parent and child, but also the birth of underssstanding between our peoples."
+130,"TEXT_BANSAH005_01378_NOVV_000_077","Pshhh... You have achieved more for this cause than I could have dared hope."
+131,"TEXT_BANSAH005_01378_NOVV_000_078","In the days to come, I only asssk that you do not forget usss, finless one. Whenever thoughts of vengeance ssseek to consssume you, remember this nursssery, and remember me and my ssspawnlings."
+132,"TEXT_BANSAH005_01378_NOVV_000_079","And shhhould you choose to visit, you will always be welcome here. You are no longer sssome ssstrange shhhorewalker─to us, you are “clutchmate.”"
+133,"TEXT_BANSAH005_01378_NOVV_000_080","Pshhh... Visit us from time to time, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, and fill my ssspawnlings' heads with tales of the wider world. Perhapsss you will even develop a tassste for Sssahagin feasssts, yesss? Pshhhahaha!"
+134,"TEXT_BANSAH005_01378_RASHAHT_000_090","<hex:0208C7E1E93501FF93><hex:022B7EFF7C><hex:020825E1E93501FF1D><hex:022819FF14>GCRankLimsaMaleText<hex:E9350903><hex:FF01><hex:03><hex:020828E1E93601FF20><hex:02281CFF17>GCRankGridaniaMaleText<hex:E9360903><hex:FF01><hex:03><hex:020825E1E93701FF1D><hex:022819FF14>GCRankUldahMaleText<hex:E9370903><hex:FF01><hex:03><hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303><hex:FF2D><hex:020829E1E93601FF11><hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203><hex:FF11><hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203><hex:03><hex:03>! It seems that business with the Sahagin became rather more involved than anyone expected, eh? Maelstrom Command very much resembled the writhing chaos of our namesake once word of Councillor Turstin's abduction sparked the call to war."
+135,"TEXT_BANSAH005_01378_RASHAHT_000_091","'Tis fortunate that our marching orders were rescinded ere we launched our attack. There are none in our ranks that fear to step upon the field of battle, but any day that ends without bloodshed is a good day."
+136,"TEXT_BANSAH005_01378_RASHAHT_000_092","And I hear that you yourself were responsible for the councillor's timely release. I like to think that my eye for enlisting talented veterans played some small part in the way events played out!"
+137,"TEXT_BANSAH005_01378_RASHAHT_000_093","So, <hex:020845E1E93501FF11><hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303><hex:FF2D><hex:020829E1E93601FF11><hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203><hex:FF11><hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203><hex:03><hex:03>, you've averted a war, and rescued a high-ranking official─not a bad result, all told."
+138,"TEXT_BANSAH005_01378_RASHAHT_000_094","But we must remain vigilant. While we welcome the possibility of peaceful coexistence with the Sahagin, we cannot ignore the threat that the primal Leviathan yet presents."
+139,"TEXT_BANSAH005_01378_RASHAHT_000_095","For the nonce, however, you have earned a respite from duty. On behalf of the Maelstrom, I commend you for your courageous actions and judicious diplomacy. ...Ah, might you consider a bath during your well-deserved rest? I seem to detect the <hex:021A020203>slightest<hex:021A020103> scent of rotting crabmeat..."
+140,"TEXT_BANSAH005_01378_SYSTEM_000_096","You have achieved <hex:024804F201F403><hex:024904F201F503>Trusted<hex:0249020103><hex:0248020103> reputation with Novv's Clutch."
+141,"TEXT_BANSAH005_01378_SYSTEM_000_097","Furthermore, you now have access to a wider selection of wares from the Novv's Clutch vendor."
+142,"TEXT_BANSAH005_01378_POPMESSAGE_000_000","The sounds of battle have drawn out a Sahagin superior from belowdecks!"
+143,"TEXT_BANSAH005_01378_TAMER01376_000_120","The clutchfather bid me ready my swiftessst elbssst. Be sure to hold on tightly, shhhorewalker!"

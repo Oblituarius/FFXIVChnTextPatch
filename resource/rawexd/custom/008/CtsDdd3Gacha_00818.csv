@@ -2,14 +2,14 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_CTSDDD3GACHA_00818_VALEROINE_000_000,我現在負責鑑定你從研究所中發現的物品。<hex:02100103>能參加此次的研究項目倍感光榮，還請多多關照。
-1,TEXT_CTSDDD3GACHA_00818_VALEROINE_000_010,探索的情況如何了？<hex:02100103>如果你在探索的過程中帶了可疑的研究成果回來，<hex:02100103>我想我應該能幫上你的忙。
-2,TEXT_CTSDDD3GACHA_00818_Q1_000_020,要做什麼？
-3,TEXT_CTSDDD3GACHA_00818_A1_000_021,鑑定「埋藏的寶藏」
-4,TEXT_CTSDDD3GACHA_00818_A1_000_022,詢問有關「埋藏的寶藏」的事情
-5,TEXT_CTSDDD3GACHA_00818_A1_000_023,取消
-6,TEXT_CTSDDD3GACHA_00818_VALEROINE_000_030,正統優雷卡是亞拉戈帝國極度機密的高端技術研究所。<hex:02100103>在研究所內發現的種種物品大多被封印，密閉保存了起來，<hex:02100103>避免因為人為失誤意外開啟。
-7,TEXT_CTSDDD3GACHA_00818_VALEROINE_000_031,我是專攻亞拉戈遺物的考古學專家。<hex:02100103>你帶著那類財寶回來之後，我會為你開啟封印，鑑定其中的寶物。<hex:02100103>如果我能力有限、力有不逮，諾亞大人也會從旁提供一些幫助。
-8,TEXT_CTSDDD3GACHA_00818_SYSTEM_000_032,在深層迷宮有時能發現<hex:02100103>裡面不知裝了什麼的「埋藏的寶藏」。
-9,TEXT_CTSDDD3GACHA_00818_SYSTEM_000_033,把在「正統優雷卡」發現的「埋藏的寶藏」<hex:02100103>交給瓦萊羅瓦娜，<hex:02100103>就可以得到裝在裡面的道具。
-10,TEXT_CTSDDD3GACHA_00818_TALK_ACTOR,
+0,"TEXT_CTSDDD3GACHA_00818_VALEROINE_000_000","I've been tasked with identifying and discerning the value of any treasure you find within the Allagan laboratory. It's an honor to be included among such illustrious company, and I eagerly await the spoils of your first expedition."
+1,"TEXT_CTSDDD3GACHA_00818_VALEROINE_000_010","How goes your exploration of Eureka Orthos? Doubtless by now you've found one or two bits of ancient Allagan technology worth dredging back up to the surface. Show them to me and I'll be glad to tell you if it was worth the effort."
+2,"TEXT_CTSDDD3GACHA_00818_Q1_000_020","What will you do?"
+3,"TEXT_CTSDDD3GACHA_00818_A1_000_021","Appraise a piece of the Accursed Hoard."
+4,"TEXT_CTSDDD3GACHA_00818_A1_000_022","Ask about the Accursed Hoard."
+5,"TEXT_CTSDDD3GACHA_00818_A1_000_023","Nothing."
+6,"TEXT_CTSDDD3GACHA_00818_VALEROINE_000_030","Eureka Orthos was the most well hidden among the many laboratories overseen by the Allagan Empire. Any objects you find there will not give up their secrets easily."
+7,"TEXT_CTSDDD3GACHA_00818_VALEROINE_000_031","There are few alive─aside from the archmagus herself─who know more about Allagan artifacts than I, which is precisely why I was chosen for this task. Show me your findings, and I'll find a way around their intricate locks and protective spells."
+8,"TEXT_CTSDDD3GACHA_00818_SYSTEM_000_032","When exploring the deep dungeon, players will find pieces of the Accursed Hoard─treasure protected by long-forgotten technology."
+9,"TEXT_CTSDDD3GACHA_00818_SYSTEM_000_033","You can ascertain the value of pieces found in Eureka Orthos by presenting them to Valeroine for appraisal."
+10,"TEXT_CTSDDD3GACHA_00818_TALK_ACTOR",""

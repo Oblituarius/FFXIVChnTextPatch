@@ -2,11 +2,11 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_CMNDEFWARPNPC_00026_TALK_ACTOR0,此船前往東部林區「花蜜棧橋」。<hex:02100103>要乘坐嗎？
-1,TEXT_CMNDEFWARPNPC_00026_TALK_ACTOR1,此船前往格里達尼亞。<hex:02100103>要乘坐嗎？
-2,TEXT_CMNDEFWARPNPC_00026_YESNO_QUESTION,出發嗎？
-3,TEXT_CMNDEFWARPNPC_00026_YESNO_YES,是
-4,TEXT_CMNDEFWARPNPC_00026_YESNO_NO,否
-5,TEXT_CMNDEFWARPNPC_00026_LOCK,此船前往東部林區花蜜棧橋……<hex:02100103>但是看來你是剛到格里達尼亞的冒險者。
-6,TEXT_CMNDEFWARPNPC_00026_LOCK2,那麼我勸你先在格里達尼亞轉一轉，<hex:02100103>熟悉熟悉城邦的構造和冒險者的工作。<hex:02100103>之後再出城也不晚。
-7,TEXT_CMNDEFWARPNPC_00026_LOCK3,不需要
+0,"TEXT_CMNDEFWARPNPC_00026_TALK_ACTOR0","I happen to be heading across the lake to Sweetbloom Pier in the East Shroud."
+1,"TEXT_CMNDEFWARPNPC_00026_TALK_ACTOR1","I was just about to return to Old Gridania."
+2,"TEXT_CMNDEFWARPNPC_00026_YESNO_QUESTION","Board the ferry?"
+3,"TEXT_CMNDEFWARPNPC_00026_YESNO_YES","Yes"
+4,"TEXT_CMNDEFWARPNPC_00026_YESNO_NO","No"
+5,"TEXT_CMNDEFWARPNPC_00026_LOCK","I've been running the ferry to Sweetbloom Pier since back before the Calamity. I remember when the East Shroud used to be a quiet, peaceful place, but now it is crawling with all sorts of terrible creatures."
+6,"TEXT_CMNDEFWARPNPC_00026_LOCK2","I couldn't sleep at night knowing I'd left a poor, young <hex:02080EE905FF05>miss<hex:FF04>lad<hex:03> such as yourself on the opposite bank only to be gored by some ravenous boar. How about you add some notches to that there belt of yours, and then we'll see about taking you across?"
+7,"TEXT_CMNDEFWARPNPC_00026_LOCK3",""

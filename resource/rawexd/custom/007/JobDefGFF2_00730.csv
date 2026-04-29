@@ -2,23 +2,23 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_JOBDEFGFF2_00730_LALAHJINJAHL_000_000,<hex:022903EB0203>，最近怎麼樣啊？<hex:02100103>作為優秀的賢者，想必你一定守護了許多的生命，<hex:02100103>並將會在今後拯救更多的人們吧。
-1,TEXT_JOBDEFGFF2_00730_LALAHJINJAHL_000_010,<hex:022903EB0203>，最近怎麼樣啊？<hex:02100103>對了，我可從阿莉塞前輩那裡聽說了！<hex:02100103>沒想到人生中的初次任務就請到了拯救世界的英雄來幫忙……
-2,TEXT_JOBDEFGFF2_00730_Q1_000_000,想了解什麼？
-3,TEXT_JOBDEFGFF2_00730_A1_000_001,最近怎麼樣？
-4,TEXT_JOBDEFGFF2_00730_A1_000_002,什麼是「賢者」？
-5,TEXT_JOBDEFGFF2_00730_A1_000_003,關於「某位賢者的手記」
-6,TEXT_JOBDEFGFF2_00730_A1_000_004,取消
-7,TEXT_JOBDEFGFF2_00730_LALAHJINJAHL_000_020,初次任務的那時候真是全托你的福，太感謝了！<hex:02100103>在那之後吉爾迪萬被押送回本國，目前正在接受調查中。<hex:02100103>等結果出來以後，想必他會被送去接受審判並獲得應有的懲罰吧。
-8,TEXT_JOBDEFGFF2_00730_LALAHJINJAHL_000_021,而我則打算暫時留在艾歐澤亞拓展自己的見識。<hex:02100103>總有一天我要成為一名像母親那樣的醫師。<hex:02100103>不過……我還是先得克服自己不擅長的魔法才行！
-9,TEXT_JOBDEFGFF2_00730_LALAHJINJAHL_000_022,羅伊法他們好像也在繼續進行著如何抑制副作用的研究呢。<hex:02100103>我時常會在崖畔亭撞見他們，有一次羅伊法被灌到不省人事，<hex:02100103>瑪霍德卻還能一直面不改色地喝著……
-10,TEXT_JOBDEFGFF2_00730_LALAHJINJAHL_000_023,而安塞爾則是因為喝醉酒差點失控，被崖畔亭的老闆給制服了。<hex:02100103>那場面別提有多混亂了……<hex:02100103>不過話說回來，那個老闆到底何方神聖啊……？
-11,TEXT_JOBDEFGFF2_00730_LALAHJINJAHL_000_030,賢者指的就是修得賢學之人。<hex:02100103>而賢學則是薩雷安魔法大學開創的<hex:02100103>一門綜合了醫學、乙太學、魔法學的複合型學科。
-12,TEXT_JOBDEFGFF2_00730_LALAHJINJAHL_000_031,這門學科的最終目標是達成薩雷安的創立者紐恩克雷夫的教誨中<hex:02100103>提到的「人類的進步」，在此理念下通過將各種新舊知識進行組合，<hex:02100103>形成了賢者獨有的術式。
-13,TEXT_JOBDEFGFF2_00730_LALAHJINJAHL_000_032,從醫學中汲取了對身體機制的理解，<hex:02100103>通過乙太學解明了靈魂的構成，<hex:02100103>而運用魔法學所積累的知識則可以對身體及靈魂進行干涉。
-14,TEXT_JOBDEFGFF2_00730_LALAHJINJAHL_000_033,此外作為賢者專用武器的賢具也非常惹人注目。<hex:02100103>賢具是由4根短杖組合而成的一種魔具，<hex:02100103>其源流據說是由蛇石演變發展而來的。
-15,TEXT_JOBDEFGFF2_00730_LALAHJINJAHL_000_034,這種石頭具有天然的魔力，<hex:02100103>據說以前的薩滿們曾將其當做咒術的道具，<hex:02100103>擺放在地面上就可以作為簡易的魔法陣使用。
-16,TEXT_JOBDEFGFF2_00730_LALAHJINJAHL_000_035,不過現代的賢者則是利用4根短杖在空中構建出立體的魔法陣……<hex:02100103>這樣一來就能瞬間展開複雜的術式了，實在是很厲害的想法啊！
-17,TEXT_JOBDEFGFF2_00730_LALAHJINJAHL_000_040,那本手記……你看過了嗎？<hex:02100103>之前上面施加的隱藏魔法已經被我全部解除了。
-18,TEXT_JOBDEFGFF2_00730_LALAHJINJAHL_000_041,從內容來看，那本手記的記錄者正是吉爾迪萬的妻子……<hex:02100103>一位名叫哈提雅的薩雷安賢者。<hex:02100103>而在手記末尾處出現的新字跡很可能是……
-19,TEXT_JOBDEFGFF2_00730_LALAHJINJAHL_000_042,我就不去問你看完手記的感想了。<hex:02100103>雖然我在看完手記之後心裡也有所想，不過……<hex:02100103>不管怎麼說還好是你繼承了她真摯的情感……
+0,"TEXT_JOBDEFGFF2_00730_LALAHJINJAHL_000_000","Oh, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, how fare you? Still fighting the good fight, I shouldn't doubt, and bringing succor to all those in need."
+1,"TEXT_JOBDEFGFF2_00730_LALAHJINJAHL_000_010","Oh, 'tis you, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! I recently had the pleasure of meeting my alumna Alisaie, who told me about all your exploits. Suffice it to say I was shocked to learn that I had a storied hero assisting me on my maiden mission..."
+2,"TEXT_JOBDEFGFF2_00730_Q1_000_000","What will you ask?"
+3,"TEXT_JOBDEFGFF2_00730_A1_000_001","How fare you of late?"
+4,"TEXT_JOBDEFGFF2_00730_A1_000_002","What is a sage?"
+5,"TEXT_JOBDEFGFF2_00730_A1_000_003","What are your thoughts on the diary?"
+6,"TEXT_JOBDEFGFF2_00730_A1_000_004","Nothing."
+7,"TEXT_JOBDEFGFF2_00730_LALAHJINJAHL_000_020","All is well thanks to you and your invaluable aid. Guildivain has been sent back to Sharlayan, where he will be tried by the Forum, and I've no doubt but that he will get his just deserts."
+8,"TEXT_JOBDEFGFF2_00730_LALAHJINJAHL_000_021","Meanwhile, I will stay in Eorzea for a time to broaden my horizons, with a view to eventually train as a healer like my mother. And when I set out on that path, I shall have to ask you for some advice on spellcraft!"
+9,"TEXT_JOBDEFGFF2_00730_LALAHJINJAHL_000_022","As for Loifa and his fellows, they still seek a cure for the procedure's side effects. You might run into them at the Hard Place─when not hard at work, they sometimes take a moment there to relax and unwind."
+10,"TEXT_JOBDEFGFF2_00730_LALAHJINJAHL_000_023","Loifa is down after a few tankards while Mahaud tosses them back as if it were water. Ancel tends to lose a little too much inhibition and occasionally has to be restrained by the proprietor. In other words, they are like any other group of young folk, and it warms my heart to see this."
+11,"TEXT_JOBDEFGFF2_00730_LALAHJINJAHL_000_030","Oh? I thought you were already familiar with the subject. Not that I mind reviewing it, of course, and perhaps I had omitted some details previously."
+12,"TEXT_JOBDEFGFF2_00730_LALAHJINJAHL_000_031","To begin at the beginning, our revered ancestor Nyunkrepf advocated the betterment of mankind. And 'twas in accordance with this tenet that somanoutics, the sage's art, was created by combining the wisdom of medicine, aetherology, and sorcery."
+13,"TEXT_JOBDEFGFF2_00730_LALAHJINJAHL_000_032","Through medicine, a sage grasps the workings of the flesh; through aetherology, <hex:02080CE905FF04>she<hex:FF03>he<hex:03> unlocks the secrets of the soul; and finally, through sorcery, <hex:02080CE905FF04>she<hex:FF03>he<hex:03> learns to manipulate the two."
+14,"TEXT_JOBDEFGFF2_00730_LALAHJINJAHL_000_033","In order to channel <hex:02080DE905FF04>her<hex:FF04>his<hex:03> powers, a sage employs a set of four short staves called nouliths. These instruments have their origins in adder stones, naturally occurring objects of power which harbor spiritual energy."
+15,"TEXT_JOBDEFGFF2_00730_LALAHJINJAHL_000_034","Used by healers of eld, these stones were placed around the sick and ailing to create an aetheric confluence that would aid in their art."
+16,"TEXT_JOBDEFGFF2_00730_LALAHJINJAHL_000_035","While nouliths are far more sophisticated, the basic principle remains unchanged. Wielding them as an extension of <hex:02080DE905FF04>her<hex:FF04>his<hex:03> mind, a sage sends them darting through the air to unleash <hex:02080DE905FF04>her<hex:FF04>his<hex:03> magicks."
+17,"TEXT_JOBDEFGFF2_00730_LALAHJINJAHL_000_040","By your asking this, I assume you have also read the diary to the end. I have dispelled the obfuscation enchantment in its entirety, and there are no further entries."
+18,"TEXT_JOBDEFGFF2_00730_LALAHJINJAHL_000_041","Judging from the contents, it belonged to Guildivain's wife. But where the handwriting changes, it would appear he took over."
+19,"TEXT_JOBDEFGFF2_00730_LALAHJINJAHL_000_042","I, of course, have other thoughts on the matter, but I am not yet sure how to put them into words. For now, however, I will say this: I am glad that it was you who inherited Hatia's legacy. Quite glad..."

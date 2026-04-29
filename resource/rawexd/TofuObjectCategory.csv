@@ -1,11 +1,11 @@
-﻿key,3
-#,
-offset,0
-int32,str
-0,
-1,場地
-2,職業/特職
-3,圖標/標記
-4,圖形/記號
-5,グループ
-6,攻擊範圍
+﻿key,0,1,2,3
+#,,,,
+offset,7,4,6,0
+int32,bit&01,uint16,byte,str
+0,False,0,255,""
+1,True,5,5,"Field"
+2,True,1,1,"Class/Job"
+3,True,3,2,"Icon/Marker"
+4,True,4,3,"Signs/Symbols"
+5,False,0,255,"グループ"
+6,True,2,0,"Attack Types"

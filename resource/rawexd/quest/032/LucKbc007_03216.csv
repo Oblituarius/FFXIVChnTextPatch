@@ -2,160 +2,160 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_LUCKBC007_03216_SEQ_00,密爾瓦內斯禮拜堂的菈菈伊似乎對冒險者離開期間的旅途很感興趣。
-1,TEXT_LUCKBC007_03216_SEQ_01,前情回顧：<hex:02100103>因彗星接近艾歐澤亞而出現的星隕之刻導致巨像兵狂躁起來，為了破壞巨像兵，黑魔法師的始祖瑕托托的記憶降臨到了菈菈伊的肉體上。在瑕托托的協助下，冒險者破壞了巨像兵。被巨像兵吸引的彗星也平安通過了艾歐澤亞，使得星隕之刻引發的大災難被扼殺在了搖籃中。<hex:02100103>　　　　　　　　　　　　*　*　*<hex:02100103>為了保管由菈菈伊編纂的記錄黑魔法的文獻，決定尋求納爾札爾教團的幫助。在烏爾達哈的阿達內斯聖櫃堂和雅雅凱談談。
-2,TEXT_LUCKBC007_03216_SEQ_02,似乎只有咒術師公會的可可布奇一個人贊成保管。和阿達內斯聖櫃堂的可可布奇談談。
-3,TEXT_LUCKBC007_03216_SEQ_03,可可布奇建議向教團的最高權力者杜菈菈提出申辯。在阿達內斯聖櫃堂外和菈菈伊談談。
-4,TEXT_LUCKBC007_03216_SEQ_04,菈菈伊突然暈倒了。在烏爾達哈的學者走廊附近和扎伊·阿·奈爾赫談談。
-5,TEXT_LUCKBC007_03216_SEQ_05,在扎伊·阿·奈爾赫治療的這段期間，由冒險者與教團的人交涉。和阿達內斯聖櫃堂的可可布奇談談。
-6,TEXT_LUCKBC007_03216_SEQ_06,杜菈菈因菈菈伊歸屬黑魔法的研究機關而同意了保管文獻及繼續研究的事。再次和阿達內斯聖櫃堂的可可布奇談談。
-7,TEXT_LUCKBC007_03216_SEQ_07,菈菈伊想把結果彙報給扎伊·阿·奈爾赫。和密爾瓦內斯禮拜堂的菈菈伊談談。
-8,TEXT_LUCKBC007_03216_SEQ_08,菈菈伊向冒險者及扎伊·阿·奈爾赫的協助表達了感謝，並表示為了將黑魔法留給後世要更加盡力。即使立場改變，她激情的火焰也不會熄滅。今後也要以黑魔法師的身份配合她的激情，繼續破壞邪惡之人。
-9,TEXT_LUCKBC007_03216_SEQ_09,
-10,TEXT_LUCKBC007_03216_SEQ_10,
-11,TEXT_LUCKBC007_03216_SEQ_11,
-12,TEXT_LUCKBC007_03216_SEQ_12,
-13,TEXT_LUCKBC007_03216_SEQ_13,
-14,TEXT_LUCKBC007_03216_SEQ_14,
-15,TEXT_LUCKBC007_03216_SEQ_15,
-16,TEXT_LUCKBC007_03216_SEQ_16,
-17,TEXT_LUCKBC007_03216_SEQ_17,
-18,TEXT_LUCKBC007_03216_SEQ_18,
-19,TEXT_LUCKBC007_03216_SEQ_19,
-20,TEXT_LUCKBC007_03216_SEQ_20,
-21,TEXT_LUCKBC007_03216_SEQ_21,
-22,TEXT_LUCKBC007_03216_SEQ_22,
-23,TEXT_LUCKBC007_03216_SEQ_23,
-24,TEXT_LUCKBC007_03216_TODO_00,和阿達內斯聖櫃堂的雅雅凱對話
-25,TEXT_LUCKBC007_03216_TODO_01,和可可布奇對話
-26,TEXT_LUCKBC007_03216_TODO_02,和菈菈伊對話
-27,TEXT_LUCKBC007_03216_TODO_03,在學者走廊附近和扎伊·阿·奈爾赫對話
-28,TEXT_LUCKBC007_03216_TODO_04,和阿達內斯聖櫃堂的可可布奇對話
-29,TEXT_LUCKBC007_03216_TODO_05,和可可布奇對話
-30,TEXT_LUCKBC007_03216_TODO_06,和密爾瓦內斯禮拜堂的菈菈伊對話
-31,TEXT_LUCKBC007_03216_TODO_07,
-32,TEXT_LUCKBC007_03216_TODO_08,
-33,TEXT_LUCKBC007_03216_TODO_09,
-34,TEXT_LUCKBC007_03216_TODO_10,
-35,TEXT_LUCKBC007_03216_TODO_11,
-36,TEXT_LUCKBC007_03216_TODO_12,
-37,TEXT_LUCKBC007_03216_TODO_13,
-38,TEXT_LUCKBC007_03216_TODO_14,
-39,TEXT_LUCKBC007_03216_TODO_15,
-40,TEXT_LUCKBC007_03216_TODO_16,
-41,TEXT_LUCKBC007_03216_TODO_17,
-42,TEXT_LUCKBC007_03216_TODO_18,
-43,TEXT_LUCKBC007_03216_TODO_19,
-44,TEXT_LUCKBC007_03216_TODO_20,
-45,TEXT_LUCKBC007_03216_TODO_21,
-46,TEXT_LUCKBC007_03216_TODO_22,
-47,TEXT_LUCKBC007_03216_TODO_23,
-48,TEXT_LUCKBC007_03216_LALAI_000_000,<hex:022903EB0203>，好久不見。<hex:02100103>你這段時間好像也一直在對「破壞」進行鑽研呢，<hex:02100103>方便的話，可以給我講講你都經歷了什麼樣的冒險嗎？
-49,TEXT_LUCKBC007_03216_Q1_000_300,要說什麼？
-50,TEXT_LUCKBC007_03216_A1_000_301,我去光之泛濫的世界旅行了
-51,TEXT_LUCKBC007_03216_A1_000_302,我破壞了有著舊日英雄模樣的敵人
-52,TEXT_LUCKBC007_03216_LALAI_000_001,原來如此，在異世界冒險啊……<hex:02100103>你講的故事都很有意思，不過……
-53,TEXT_LUCKBC007_03216_LALAI_000_002,其中最吸引我的還是身為巫師的英雄奈貝爾特<hex:02100103>與他的兒時玩伴緹納之間那超越時空的重逢，<hex:02100103>這能讓我想到我們與瑕托託大人的相識。
-54,TEXT_LUCKBC007_03216_LALAI_000_003,至於我自己呢，<hex:02100103>經過「星隕之刻」一事，我深切地覺得有必要將黑魔法留給後世，<hex:02100103>於是正在編纂文獻，將之前的冒險全部記錄下來。
-55,TEXT_LUCKBC007_03216_LALAI_000_004,就在前幾天，<hex:02100103>我剛記錄到與瑕托託大人分別的事，<hex:02100103>但事實上……
-56,TEXT_LUCKBC007_03216_ZHAIANELHAH_000_006,(-？？？？-)我只是想來看看菈菈伊，<hex:02100103>沒想到<hex:022903EB0203>也在……
-57,TEXT_LUCKBC007_03216_LALAI_000_007,這不是死認真法師扎伊·阿·奈爾赫嗎？<hex:02100103>你怎麼想到來看我了？
-58,TEXT_LUCKBC007_03216_ZHAIANELHAH_000_008,嗯……啊，前幾天彙報「星隕之刻」後續事宜處理完畢的時候，<hex:02100103>你不是煩惱要將正在編寫的文獻保管在哪嗎？<hex:02100103>我就想知道進展怎麼樣了。
-59,TEXT_LUCKBC007_03216_LALAI_000_009,那件事啊，我現在正在犯愁呢。<hex:02100103>我想委託納爾札爾教團幫我保管，畢竟我在那裡當助祭……<hex:02100103>但是卻遭到了教團成員的強烈反對。
-60,TEXT_LUCKBC007_03216_ZHAIANELHAH_000_010,我更驚訝的是你居然還是教團的人啊？<hex:02100103>我還以為你成為黑魔法師的時候就被開除了呢。
-61,TEXT_LUCKBC007_03216_LALAI_000_011,真沒禮貌！不過你說得也沒錯，他們對我不滿的原因<hex:02100103>似乎就是那個。想必一介助祭<hex:02100103>在含糊不清的情況下研究禁忌的黑魔法讓他們很生氣吧。
-62,TEXT_LUCKBC007_03216_LALAI_000_012,可是正因為納爾札爾教團視黑魔法為禁忌，<hex:02100103>才會對相關的文獻加以嚴密的封印進行管理，<hex:02100103>反過來說，那裡應該是最為安全的保管地點了。
-63,TEXT_LUCKBC007_03216_LALAI_000_013,唔……說起來，<hex:02100103>你曾經隸屬於教團相關的咒術師公會啊，<hex:02100103>如果有你在，或許比我單獨跟他們交涉要更有成效。
-64,TEXT_LUCKBC007_03216_ZHAIANELHAH_000_014,的確……<hex:02100103><hex:022903EB0203>，不如你就跟她一起去吧？
-65,TEXT_LUCKBC007_03216_LALAI_000_015,謝謝！<hex:02100103>事不宜遲……我們現在就去阿達內斯聖櫃堂吧！<hex:02100103>我要去找保管反對派的急先鋒雅雅凱好好說道說道！
-66,TEXT_LUCKBC007_03216_ZHAIANELHAH_000_016,能耽誤你一會嗎？<hex:02100103>其實……我來找菈菈伊，<hex:02100103>是因為前幾天我來的時候，發現了一件很奇怪的事。
-67,TEXT_LUCKBC007_03216_ZHAIANELHAH_000_017,我總覺得和以前相比，<hex:02100103>她體內的乙太發生了變化……<hex:02100103>能麻煩你多留意她一下嗎？
-68,TEXT_LUCKBC007_03216_ZHAIANELHAH_000_050,我可不想讓他們誤會幻術師公會和你們有關，<hex:02100103>所以我就不去了，我在精神上祝你們交涉成功。
-69,TEXT_LUCKBC007_03216_LALAI_000_055,你的表情真是太討人嫌了！
-70,TEXT_LUCKBC007_03216_YAYAKE_000_070,沒想到你居然拽出了<hex:022903EB0203>，<hex:02100103>讓我體會到了久違的掃興。
-71,TEXT_LUCKBC007_03216_YAYAKE_000_071,菈菈伊助祭，你真是太任性了！<hex:02100103>別的不說，光是你現在都還在聽從<hex:02100103>大罪人庫庫魯卡指示這一點，你就活該被教團的人疏遠。
-72,TEXT_LUCKBC007_03216_YAYAKE_000_072,何況你這次還提出了讓自己的處境雪上加霜的申請，<hex:02100103>在教團開除你之前，你應該中止研究，撕毀文獻。<hex:02100103>這是為了你好！
-73,TEXT_LUCKBC007_03216_LALAI_000_073,一點大局觀都沒有，也不知道是誰任性！<hex:02100103><hex:022903EB0203>！你來給這個蠢貨講講道理！
-74,TEXT_LUCKBC007_03216_Q1_000_100,要說什麼？
-75,TEXT_LUCKBC007_03216_A1_000_101,把文獻當成禁書封印不好嗎？
-76,TEXT_LUCKBC007_03216_A1_000_102,教團裡的人全都反對嗎？
-77,TEXT_LUCKBC007_03216_YAYAKE_000_080,很冷靜的問題，跟那個只會叫喚的助祭完全不同。
-78,TEXT_LUCKBC007_03216_YAYAKE_000_081,硬要說的話，只有咒術師公會的會長，可可……可可貝……<hex:02100103>可可什麼大人贊成保管。
-79,TEXT_LUCKBC007_03216_LALAI_000_082,是可可布奇！<hex:02100103>那我就去拉他入夥！
-80,TEXT_LUCKBC007_03216_YAYAKE_000_090,因為問的人是您，我才回答了，<hex:02100103>但請您不要忘記她的處境。
-81,TEXT_LUCKBC007_03216_LALAI_000_091,雖說贊成者很少，但既然他是公會會長……
-82,TEXT_LUCKBC007_03216_COCOBUKI_000_100,呵呵呵……我就知道你們會過來。<hex:02100103>菈菈伊助祭的怒吼都傳到這邊來了。
-83,TEXT_LUCKBC007_03216_COCOBUKI_000_101,我的確贊成保管她的書，<hex:02100103>反正不管我們說什麼，你們都會繼續追求黑魔法，<hex:02100103>那還不如把你們放在我們的眼皮底下。
-84,TEXT_LUCKBC007_03216_COCOBUKI_000_102,但是以雅雅凱導師為首的大多數人反對保管書籍，<hex:02100103>反對繼承危險的知識，這也是事實……<hex:02100103>我一個人的擁護只不過是杯水車薪。
-85,TEXT_LUCKBC007_03216_COCOBUKI_000_103,因此我有一個建議。<hex:02100103>不如你們去找我們的上級——教團的最高權力者<hex:02100103>杜菈菈大人申請，怎麼樣？
-86,TEXT_LUCKBC007_03216_COCOBUKI_000_104,你們，加上保管的贊成派與反對派代表一起<hex:02100103>陳述各自的意見，由杜菈菈大人來裁定。
-87,TEXT_LUCKBC007_03216_COCOBUKI_000_105,順利的話，說不定會得到保管的許可。<hex:02100103>只不過，也有可能反過來被禁止一切研究。
-88,TEXT_LUCKBC007_03216_LALAI_000_106,不要緊！<hex:02100103>請把杜菈菈大人叫出來吧。
-89,TEXT_LUCKBC007_03216_LALAI_000_107,既然如此……那我們就不能在敵陣中隨便商量事了。<hex:02100103>先到外面去吧！
-90,TEXT_LUCKBC007_03216_COCOBUKI_000_120,出席的人大概會是我和雅雅凱導師吧，<hex:02100103>我代表贊成派，她代表反對派。
-91,TEXT_LUCKBC007_03216_COCOBUKI_000_121,說起來……菈菈伊助祭，<hex:02100103>體內的乙太似乎滯澀住了。
-92,TEXT_LUCKBC007_03216_ZHAIANELHAH_000_125,我覺得你們差不多該談完了，所以過來看看……
-93,TEXT_LUCKBC007_03216_LALAI_000_140,多虧了你，我看到希望了，<hex:02100103>無論如何都要得到杜菈菈大人的認可！
-94,TEXT_LUCKBC007_03216_LALAI_000_141,……咦？
-95,TEXT_LUCKBC007_03216_ZHAIANELHAH_000_142,菈菈伊，你沒事吧？<hex:02100103>和剛才相比，你體內的乙太發生了劇烈的變化啊。
-96,TEXT_LUCKBC007_03216_LALAI_000_143,我最近的確……總是莫名其妙的頭暈……
-97,TEXT_LUCKBC007_03216_ZHAIANELHAH_000_144,這……還是在申請前做個檢查……
-98,TEXT_LUCKBC007_03216_ZHAIANELHAH_000_145,啊，菈菈伊！<hex:02100103>糟了，得快點找個治療師或者幻術師……啊，我就是！
-99,TEXT_LUCKBC007_03216_ZHAIANELHAH_000_146,好、好吧，我們先把她送到這裡的醫療機構去！
-100,TEXT_LUCKBC007_03216_ZHAIANELHAH_000_160,菈菈伊體內的乙太果然發生了巨大的變化，<hex:02100103>乙太的平衡因此受到破壞，侵蝕了她的身體。
-101,TEXT_LUCKBC007_03216_ZHAIANELHAH_000_161,她以前被瑕托托的記憶附身過，<hex:02100103>體內長時間混雜了破壞的乙太，<hex:02100103>應該對她造成了很大的負擔。
-102,TEXT_LUCKBC007_03216_ZHAIANELHAH_000_162,換句話說，她的靈魂極性不平衡了。<hex:02100103>這種病例我見都沒見過，<hex:02100103>你有沒有見過類似的現象？
-103,TEXT_LUCKBC007_03216_Q1_000_200,對乙太極性的不平衡現象有頭緒嗎？
-104,TEXT_LUCKBC007_03216_A1_000_201,我在發生光之泛濫的世界見過！
-105,TEXT_LUCKBC007_03216_A1_000_202,我見過生物變異成食罪靈的案例！
-106,TEXT_LUCKBC007_03216_ZHAIANELHAH_000_165,世界全體都是光……也就是說偏重於靈極性的世界？<hex:02100103>而且那裡還有由生物變異而成的食罪靈？！
-107,TEXT_LUCKBC007_03216_ZHAIANELHAH_000_166,原來是這樣！因為瑕托托的記憶長時間附著在她的肉體上，<hex:02100103>使構成她靈魂的乙太變得活躍，偏向了星極性！<hex:02100103>那隻需要讓乙太沉靜下來……
-108,TEXT_LUCKBC007_03216_ZHAIANELHAH_000_167,好，我知道要怎麼治療了！<hex:02100103>不過問題在於即將到來的申辯，<hex:02100103>看來只能延期了。
-109,TEXT_LUCKBC007_03216_LALAI_000_168,(-？？？？-)不能延期！<hex:02100103>要是讓反對派知道延期的原因是跟黑魔法有關，<hex:02100103>一定會讓他們拿來做文章的……
-110,TEXT_LUCKBC007_03216_LALAI_000_170,<hex:022903EB0203>，我記錄的文獻就託付給你了！<hex:02100103>請你先去申辯吧……我很快也會過去的。
-111,TEXT_LUCKBC007_03216_ZHAIANELHAH_000_171,什麼！<hex:02100103>你打算拖著這副身子去參加申辯嗎？！
-112,TEXT_LUCKBC007_03216_LALAI_000_172,只要趕在申辯結束之前完成治療不就行了？
-113,TEXT_LUCKBC007_03216_LALAI_000_173,不要緊……我們不是有治療能力優秀的可靠幻術師在嘛。
-114,TEXT_LUCKBC007_03216_ZHAIANELHAH_000_174,菈菈伊……
-115,TEXT_LUCKBC007_03216_ZHAIANELHAH_000_175,好。無論如何我都會在申辯結束之前完成治療的。
-116,TEXT_LUCKBC007_03216_ZHAIANELHAH_000_176,在此之前……教團的人就拜託你應付了。
-117,TEXT_LUCKBC007_03216_YAYAKE_000_180,我已經知道了。<hex:02100103>對象是杜菈菈大人也沒關係，我只需要陳述自己的主張。
-118,TEXT_LUCKBC007_03216_COCOBUKI_000_190,菈菈伊助祭稍後才會來……<hex:02100103>嗯，似乎發生了什麼事啊。
-119,TEXT_LUCKBC007_03216_COCOBUKI_000_191,她記錄的文獻就在這裡吧？<hex:02100103>那應該不至於影響到申辯。<hex:02100103>杜菈菈大人似乎也已經往這邊來了。
-120,TEXT_LUCKBC007_03216_YAYAKE_000_200,這次申辯明明是為了滿足她的願望而準備的，<hex:02100103>現在她卻不出現，再繼續由著她亂來會害了她！<hex:02100103>我認為我們也沒有必要採納她保管文獻的任性要求。
-121,TEXT_LUCKBC007_03216_COCOBUKI_000_201,你之所以這麼說……<hex:02100103>是因為你自己過去也曾經有過同樣的想法嗎？
-122,TEXT_LUCKBC007_03216_COCOBUKI_000_202,你過去，曾因為師父穆穆埃珀下獄一事<hex:02100103>遭到了周圍人的冷遇。因此你現在擔心，<hex:02100103>菈菈伊助祭的獨斷專公會害她被大家孤立。
-123,TEXT_LUCKBC007_03216_YAYAKE_000_203,就算堅信自己沒錯，<hex:02100103>在被孤立的情況下貫徹自我也會令自己痛苦……<hex:02100103>我認為這次的事情應該成為她回歸組織的機會。
-124,TEXT_LUCKBC007_03216_COCOBUKI_000_204,你覺得，這樣菈菈伊助祭就會幸福了？<hex:02100103>她記錄的文獻除了有關黑魔法的記載外，<hex:02100103>還有各種不依靠教團獨自完成的事件。
-125,TEXT_LUCKBC007_03216_COCOBUKI_000_205,想要完成如此之多的成果需要很大的熱情，這種熱情可不是<hex:02100103>人人都有的。的確，如果每個人都任性亂來的話<hex:02100103>組織就無法成立，但也需要有支持個人熱情的胸襟吧？
-126,TEXT_LUCKBC007_03216_DEWLALA_000_206,她執著追求的「破壞」因為會產生災難，所以遭到了禁止。<hex:02100103>但是以黑魔法師的你看來……<hex:02100103>這種力量的危險性究竟有多大呢？
-127,TEXT_LUCKBC007_03216_Q1_000_000,要說什麼？
-128,TEXT_LUCKBC007_03216_A1_000_001,要看使用者
-129,TEXT_LUCKBC007_03216_A1_000_002,有時候「破壞」也能派上用場
-130,TEXT_LUCKBC007_03216_DEWLALA_000_210,也就是說，這種力量不能隨意傳播了……<hex:02100103>好吧……那先不說你，<hex:02100103>你覺得，菈菈伊助祭值得信賴嗎？
-131,TEXT_LUCKBC007_03216_DEWLALA_000_211,也就是說，在危機之時會需要用到這種力量了。<hex:02100103>看近來的情勢，你的話也有一定的道理。
-132,TEXT_LUCKBC007_03216_LALAI_000_212,我來晚了，非常抱歉！！<hex:02100103>還請您聽一聽我說的話！
-133,TEXT_LUCKBC007_03216_LALAI_000_213,我承認，黑魔法是一種危險的力量，<hex:02100103>因此我並不主張讓所有人都去學習黑魔法。
-134,TEXT_LUCKBC007_03216_LALAI_000_214,這本書中除了黑魔法的知識外，<hex:02100103>還記錄了我經歷過的全部事件的始末。
-135,TEXT_LUCKBC007_03216_LALAI_000_215,與敵對蠻族的合作、因黑魔法而喪命的人們<hex:02100103>以及歷經數千年而來的星隕威脅，<hex:02100103>這些全部都是我希望後人們能知道的事！
-136,TEXT_LUCKBC007_03216_DEWLALA_000_216,也就是說，你只是希望當後人遇到危機時，<hex:02100103>這些黑魔法相關的知識能為他們提供一種解決問題的選擇嗎？
-137,TEXT_LUCKBC007_03216_DEWLALA_000_217,……可可布奇，我命令你成立一個黑魔法研究機構。<hex:02100103>文獻的保管一事我批准了，<hex:02100103>條件是，菈菈伊助祭需要加入組織。
-138,TEXT_LUCKBC007_03216_COCOBUKI_000_218,我明白了。<hex:02100103>身為贊成保管的一方，我會妥善完成自己的職責，<hex:02100103>不讓她被大家孤立。
-139,TEXT_LUCKBC007_03216_YAYAKE_000_219,……既然公會會長來當監督者，<hex:02100103>那我就不反對了。
-140,TEXT_LUCKBC007_03216_LALAI_000_220,正合我意！<hex:02100103>為了能讓黑魔法成為留給未來的偉大力量，<hex:02100103>我會全力以赴履行自己的職責！
-141,TEXT_LUCKBC007_03216_LALAI_000_240,黑魔法終於得到認可了！
-142,TEXT_LUCKBC007_03216_YAYAKE_000_245,我也會用心留意她的，<hex:02100103>絕對不會讓她被孤立。
-143,TEXT_LUCKBC007_03216_COCOBUKI_000_260,這對我們雙方來說都是一個好的結果吧？<hex:02100103>那麼，以後菈菈伊助祭就是我的直屬部下……
-144,TEXT_LUCKBC007_03216_COCOBUKI_000_261,有什麼事就隨時向我彙報。<hex:02100103>雖然會比較麻煩，但這樣從結果上而言會比較方便行動。
-145,TEXT_LUCKBC007_03216_LALAI_000_262,好的。那個……其實這次的事，<hex:02100103>還有另一個幫我的人，<hex:02100103>請讓我也向他彙報一下結果。
-146,TEXT_LUCKBC007_03216_LALAI_000_263,扎伊·阿·奈爾赫正在密爾瓦內斯禮拜堂等我們，<hex:02100103>我們快過去吧！
-147,TEXT_LUCKBC007_03216_COCOBUKI_000_270,唔……她體內的乙太能恢復正常是因為那位幫手吧。
-148,TEXT_LUCKBC007_03216_ZHAIANELHAH_000_275,我聽說了，結果很不錯嘛！
-149,TEXT_LUCKBC007_03216_LALAI_000_290,我剛把結果轉告扎伊·阿·奈爾赫。<hex:02100103>然後……那個……
-150,TEXT_LUCKBC007_03216_ZHAIANELHAH_000_291,怎麼了？<hex:02100103>你的夢想往前邁進了一大步……你還有什麼不滿意的嗎？
-151,TEXT_LUCKBC007_03216_LALAI_000_292,不是，我就是想說，<hex:02100103>這件事單靠我的力量是無法完成的。
-152,TEXT_LUCKBC007_03216_LALAI_000_293,<hex:022903EB0203>，以及扎伊·阿·奈爾赫，<hex:02100103>多虧了有你們在，我真的……很感謝你們。
-153,TEXT_LUCKBC007_03216_ZHAIANELHAH_000_294,被你感謝的感覺好奇怪啊……<hex:02100103>不客氣……還有，恭喜你。
-154,TEXT_LUCKBC007_03216_ZHAIANELHAH_000_295,那我就先告辭了，<hex:02100103>下次見面的時候，給我介紹一下機構的同胞吧。
-155,TEXT_LUCKBC007_03216_LALAI_000_296,……真是的，這男人為什麼非得多那麼一句嘴呢。
-156,TEXT_LUCKBC007_03216_LALAI_000_297,雖然立場改變了，但我要做的事卻沒變。<hex:02100103>為了將黑魔法留給後世，我會盡自己全力的。<hex:02100103>所以……今後也請你多多指教了。
+0,"TEXT_LUCKBC007_03216_SEQ_00","Lalai is eager to hear tell of your recent adventures."
+1,"TEXT_LUCKBC007_03216_SEQ_01","Lalai is most intrigued by your tales of your journey to and from the First. In return, she shares the news that she has at long last completed her written record of all the knowledge of black magic she has gathered in the course of your adventures together. However, now she faces a dilemma, as despite her pleas, the Order of Nald'thal adamantly refuses to house such potentially dangerous knowledge within their archives. At Lalai's behest─and that of the Hearer Zhai'a Nelhah, who once again has invited himself to join in your adventures─you resolve to accompany your friend to the Arrzaneth Ossuary."
+2,"TEXT_LUCKBC007_03216_SEQ_02","Upon arriving at the Ossuary, Lalai pleads her case to Prelate Yayake, but her words fall on deaf ears. When you step in to offer your support, the receptionist grudgingly admits that there is one member of the guild who sympathizes with the black mage's argument─and it is none other than Cocobuki, eldest of the five guildmasters. Heartened by the news, Lalai sets off to speak directly with the man himself, in hopes of winning his approval."
+3,"TEXT_LUCKBC007_03216_SEQ_03","Though Guildmaster Cocobuki shares Lalai's perspective regarding the value of her research, he explains that his word alone will not suffice to sway the naysayers. Instead, he proposes that a hearing be held with Prioress Dewlala herself, that the head of the Order of Nald'thal might hear both sides of the argument and render her impartial judgment. Lalai is quick to accept the challenge, and wishes to meet with you outside the Ossuary to work out the details of your argument."
+4,"TEXT_LUCKBC007_03216_SEQ_04","You have barely begun to discuss your argument when Lalai is struck with a bout of dizziness and suddenly collapses. Clearly shaken by the sight, Zhai'a Nelhah swoops the black mage into his arms and rushes off for Frondale's Phrontistery, where he would treat her further."
+5,"TEXT_LUCKBC007_03216_SEQ_05","Puzzling out the details with the help of knowledge you gleaned from your travels to the First, Zhai'a Nelhah believes he has found a way to restore Lalai's aetheric balance and save her from a grim fate. In return, the Hearer asks that you delay the proceedings with Prioress Dewlala by petitioning Master Cocobuki, but his request is cut short when Lalai arrives to insist the hearing go ahead as planned. She entrusts her magnum opus to you and promises to be along shortly. Taking the tomes that are the fruit of Lalai's labors in hand, you set off back for the Ossuary, where your allies and opponents in this cause await."
+6,"TEXT_LUCKBC007_03216_SEQ_06","You are doing your best to keep Dewlala's interest piqued when you are rejoined by Lalai, whose aetherial balance has been restored. Thoroughly won over by the black mage's logical and impassioned plea, the Prioress does not merely agree to housing her compendia in the Order's archives, but orders that a new research group dedicated to studying potential applications of black magic be established under Cocobuki's stewardship. Take your leave of this place with your companions, and revel in your hard-earned victory over prescripts and prejudice."
+7,"TEXT_LUCKBC007_03216_SEQ_07","Cocobuki congratulates Lalai on her success, while also warning her that the true battle to regain people's trust in the art of black magic has only just begun. Lalai restates her vow to work tirelessly toward her life's goal of handing down the art of black magic to future generations, before taking her leave to convey the good tidings to a certain Hearer who also played a role in your triumph."
+8,"TEXT_LUCKBC007_03216_SEQ_08","Zhai'a Nelhah is overjoyed to hear the good tidings, and positively stupefied when Lalai proceeds to offer him genuine words of thanks. The Hearer takes his leave in his typically oblivious and insensitive fashion, upon which Lalai once again thanks you for your efforts on her behalf. Relieved that she need no longer carry on her life's work in the shadows, she asks for your continued support in preserving the art of black magic for posterity."
+9,"TEXT_LUCKBC007_03216_SEQ_09",""
+10,"TEXT_LUCKBC007_03216_SEQ_10",""
+11,"TEXT_LUCKBC007_03216_SEQ_11",""
+12,"TEXT_LUCKBC007_03216_SEQ_12",""
+13,"TEXT_LUCKBC007_03216_SEQ_13",""
+14,"TEXT_LUCKBC007_03216_SEQ_14",""
+15,"TEXT_LUCKBC007_03216_SEQ_15",""
+16,"TEXT_LUCKBC007_03216_SEQ_16",""
+17,"TEXT_LUCKBC007_03216_SEQ_17",""
+18,"TEXT_LUCKBC007_03216_SEQ_18",""
+19,"TEXT_LUCKBC007_03216_SEQ_19",""
+20,"TEXT_LUCKBC007_03216_SEQ_20",""
+21,"TEXT_LUCKBC007_03216_SEQ_21",""
+22,"TEXT_LUCKBC007_03216_SEQ_22",""
+23,"TEXT_LUCKBC007_03216_SEQ_23",""
+24,"TEXT_LUCKBC007_03216_TODO_00","Speak with Yayake at Arrzaneth Ossuary."
+25,"TEXT_LUCKBC007_03216_TODO_01","Speak with Cocobuki."
+26,"TEXT_LUCKBC007_03216_TODO_02","Speak with Lalai."
+27,"TEXT_LUCKBC007_03216_TODO_03","Speak with Zhai'a Nelhah near Frondale's Phrontistery."
+28,"TEXT_LUCKBC007_03216_TODO_04","Speak with Cocobuki at Arrzaneth Ossuary."
+29,"TEXT_LUCKBC007_03216_TODO_05","Speak with Cocobuki."
+30,"TEXT_LUCKBC007_03216_TODO_06","Speak with Lalai at Milvaneth Sacrarium."
+31,"TEXT_LUCKBC007_03216_TODO_07",""
+32,"TEXT_LUCKBC007_03216_TODO_08",""
+33,"TEXT_LUCKBC007_03216_TODO_09",""
+34,"TEXT_LUCKBC007_03216_TODO_10",""
+35,"TEXT_LUCKBC007_03216_TODO_11",""
+36,"TEXT_LUCKBC007_03216_TODO_12",""
+37,"TEXT_LUCKBC007_03216_TODO_13",""
+38,"TEXT_LUCKBC007_03216_TODO_14",""
+39,"TEXT_LUCKBC007_03216_TODO_15",""
+40,"TEXT_LUCKBC007_03216_TODO_16",""
+41,"TEXT_LUCKBC007_03216_TODO_17",""
+42,"TEXT_LUCKBC007_03216_TODO_18",""
+43,"TEXT_LUCKBC007_03216_TODO_19",""
+44,"TEXT_LUCKBC007_03216_TODO_20",""
+45,"TEXT_LUCKBC007_03216_TODO_21",""
+46,"TEXT_LUCKBC007_03216_TODO_22",""
+47,"TEXT_LUCKBC007_03216_TODO_23",""
+48,"TEXT_LUCKBC007_03216_LALAI_000_000","Welcome back to these halls, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> of the black. I sense that the dark powers in you are ever burgeoning. Pray tell, where have your travels taken you since last we met?"
+49,"TEXT_LUCKBC007_03216_Q1_000_300","What will you say?"
+50,"TEXT_LUCKBC007_03216_A1_000_301","I traveled to a world flooded with Light."
+51,"TEXT_LUCKBC007_03216_A1_000_302","I felled a great mage in battle."
+52,"TEXT_LUCKBC007_03216_LALAI_000_001","A journey to another world, you say? Intriguing, indeed. Consider me impressed...and even a bit envious."
+53,"TEXT_LUCKBC007_03216_LALAI_000_002","How you were able to peer into the past of the archmage Nyelbert, and form a bond across the ages with his young friend Taynor. Though the circumstances are not entirely the same, I cannot help but think back to my own encounter with the great Shatotto."
+54,"TEXT_LUCKBC007_03216_LALAI_000_003","Speaking of which, I, too, have been keeping myself occupied. Why, I have recorded every detail we learned on our last adventure in writing, that we might preserve Shatotto's knowledge for posterity, and avert any similar calamity that may threaten future generations."
+55,"TEXT_LUCKBC007_03216_LALAI_000_004","Just the other day, I put the finishing touches on the final chapter of the final volume, concluding with Shatotto's departure. There is, however, one lingering...hmm?"
+56,"TEXT_LUCKBC007_03216_ZHAIANELHAH_000_006","(-???-)Well, fancy that! I come to check up on Lalai here, and who do I find but our old friend <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>."
+57,"TEXT_LUCKBC007_03216_LALAI_000_007","Well, if it isn't everyone's favorite mutton-headed Hearer. I need neither your support nor your sympathy, but I suppose you've never been one to let that stop you."
+58,"TEXT_LUCKBC007_03216_ZHAIANELHAH_000_008","Come now, Lalai. You yourself mentioned that you were at a loss for what to do with the records you had scribed, yes? I simply hoped to inquire as to whether there have been any fruitful developments on that front."
+59,"TEXT_LUCKBC007_03216_LALAI_000_009","...Hmph. So you mean to rub salt in my wounds, yes? There have been no developments, fruitful or otherwise. I consulted with my brothers and sisters at the Order of Nald'thal, but to the last man they refused to even entertain the thought."
+60,"TEXT_LUCKBC007_03216_ZHAIANELHAH_000_010","You consulted with... Do you mean to say that you are still a member of the Order!? Why, I had always assumed that you had been excommunicated for your pursuit of the dark arts!"
+61,"TEXT_LUCKBC007_03216_LALAI_000_011","Excommunicated!? Simply for the pursuit of knowledge? Perish the thought! Though, to be fair, there are many holier-than-thou types in the Order who share this pigheaded Hearer's opinion..."
+62,"TEXT_LUCKBC007_03216_LALAI_000_012","Irrespective of this, the fact remains that the Order sealed away countless tomes in their vaults when they forbid the art of black magic. Storing my own writings with them, I would argue, is the most logical option."
+63,"TEXT_LUCKBC007_03216_LALAI_000_013","But no─they are too prudish and prejudiced against yours truly to listen to reason. Then again, perhaps if a thaumaturge in good standing with the Order were to put in a good word on my behalf..."
+64,"TEXT_LUCKBC007_03216_ZHAIANELHAH_000_014","...You may indeed find a more sympathetic ear. What do you say, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>?"
+65,"TEXT_LUCKBC007_03216_LALAI_000_015","Excellent! Then let us hurry to the Ossuary and see if we can't convince that insufferably stuffy Yayake to see good sense."
+66,"TEXT_LUCKBC007_03216_ZHAIANELHAH_000_016","A moment if you please, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. To tell the truth, the question of where to store her records is not the only matter that concerns me about Lalai of late."
+67,"TEXT_LUCKBC007_03216_ZHAIANELHAH_000_017","Recently, I cannot help but feel that the aetheric power within her is...shifting, warping in ways that I have not felt before. As for why this is, I cannot yet be sure. Until we discover more, pray look after her, will you?"
+68,"TEXT_LUCKBC007_03216_ZHAIANELHAH_000_050","My apologies, but I believe it best that I remain here until your negotiations are complete. I shudder to think of the consequences if my colleagues at the Conjurers' Guild found out I was conspiring with the likes of you and Lalai. Nothing personal, of course."
+69,"TEXT_LUCKBC007_03216_LALAI_000_055","I swear, for a veteran of the Order, she has all the sense of a simpering child!"
+70,"TEXT_LUCKBC007_03216_YAYAKE_000_070","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! Well, this is an unexpected surprise. And not an entirely pleasant one, though it is by no fault of your own..."
+71,"TEXT_LUCKBC007_03216_YAYAKE_000_071","The unmitigated <hex:021A020203>gall<hex:021A020103> of you, Lalai! Did you honestly believe that dragging poor <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> here─against <hex:02080DE905FF04>her<hex:FF04>his<hex:03> will, no doubt─would convince me to agree to housing your shameful scribblings in our archives?"
+72,"TEXT_LUCKBC007_03216_YAYAKE_000_072","I have said it once, and I will say it again. Until the day you renounce the depraved teachings of Ququruka, you will find no friends here. I would see those books burn before I give them a home here─for our sake, and for your own!"
+73,"TEXT_LUCKBC007_03216_LALAI_000_073","I swear, despite that pretentious monocle, you remain as blind as a bat to the big picture. <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> of the black! Talk some sense into this overstuffed secretary!"
+74,"TEXT_LUCKBC007_03216_Q1_000_100","What will you say?"
+75,"TEXT_LUCKBC007_03216_A1_000_101","Should the tomes not be sealed away for safekeeping?"
+76,"TEXT_LUCKBC007_03216_A1_000_102","Do all in the Order agree with your decision?"
+77,"TEXT_LUCKBC007_03216_YAYAKE_000_080","...Hm. At least one of us here is capable of communicating like an adult."
+78,"TEXT_LUCKBC007_03216_YAYAKE_000_081","I will grudgingly admit that there is one other who shares Lalai's sentiments. In fact, it is none other than our very own guildmaster, Master Cocoba...Cocobe...er, what was the name again?"
+79,"TEXT_LUCKBC007_03216_LALAI_000_082","Cocobuki! Hah! It does not surprise me in the least. Come, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! Let us present our case to someone wise enough to understand it."
+80,"TEXT_LUCKBC007_03216_YAYAKE_000_090","After all you have done for our guild, I felt you deserved an answer to your query, and so I gave you one. And yet I advise you to proceed with caution. Lalai has few allies here, and I would hate to see your pristine reputation sullied by association."
+81,"TEXT_LUCKBC007_03216_LALAI_000_091","Who cares if everyone else in this place is an insufferable dunderhead? With the guildmaster himself on our side, the argument is as good as won!"
+82,"TEXT_LUCKBC007_03216_COCOBUKI_000_100","Hm hm hm... I was wondering who might be behind the screaming and stamping that echoed all the way to this chamber. Sister Lalai, was it?"
+83,"TEXT_LUCKBC007_03216_COCOBUKI_000_101","Yes, it is true. I find myself rather convinced by the young lady's argument. It is all but impossible for us to prevent any and all from studying the dark arts."
+84,"TEXT_LUCKBC007_03216_COCOBUKI_000_102","Why, then, not keep this dangerous knowledge close at hand, where we keep an ever-watchful eye on those who would pursue it? And yet, I fear that my own view is not a popular one, and my power to influence the others is far from absolute."
+85,"TEXT_LUCKBC007_03216_COCOBUKI_000_103","And so I would offer a proposal. Let us state our case directly to the head of the Order─to Prioress Dewlala herself─that she might pass judgment."
+86,"TEXT_LUCKBC007_03216_COCOBUKI_000_104","You and Lalai shall argue in favor of accepting the tomes, and those opposing shall argue against. Should all go well, the prioress will agree to the proposal, and the tomes will have a safe home."
+87,"TEXT_LUCKBC007_03216_COCOBUKI_000_105","And yet, the plan is not without risk. Should your argument be less than convincing, there remains a chance Dewlala may expressly forbid any further research. Why, if she is in a particularly foul mood, your very place in the Order may suddenly become...quite tenuous."
+88,"TEXT_LUCKBC007_03216_LALAI_000_106","Hah! As if there is a chance <hex:021A020203>my<hex:021A020103> words could be anything but persuasive. I accept! Pray summon the prioress at her earliest convenience."
+89,"TEXT_LUCKBC007_03216_LALAI_000_107","Well, that settles it. We'd best hurry and prepare our argument─out of our enemies' earshot, of course. Come with me, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>!"
+90,"TEXT_LUCKBC007_03216_COCOBUKI_000_120","For whatever it avails you, I shall voice my opinion in favor. No doubt Prelate Yayake will take her place at the head of the opposition."
+91,"TEXT_LUCKBC007_03216_COCOBUKI_000_121","On another matter, is Lalai quite all right? I could not help but sense the aether within her swirling in a most unusual fashion..."
+92,"TEXT_LUCKBC007_03216_ZHAIANELHAH_000_125","Lalai seems to be in unusually good spirits─I trust the negotiations went well. And yet, something concerns me..."
+93,"TEXT_LUCKBC007_03216_LALAI_000_140","This is our chance, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! We simply must convince the prioress at all costs! The future of our art depends on it!"
+94,"TEXT_LUCKBC007_03216_LALAI_000_141","...Hm? What is this curious sensation?"
+95,"TEXT_LUCKBC007_03216_ZHAIANELHAH_000_142","Lalai! I knew something was amiss. The aether within you is transforming in a most unusual way..."
+96,"TEXT_LUCKBC007_03216_LALAI_000_143","I must admit, I have not felt quite myself lately. My head...it feels as heavy as stone..."
+97,"TEXT_LUCKBC007_03216_ZHAIANELHAH_000_144","...No, this will not do. I'm afraid I must insist that you submit to a full examination before the hearing commences..."
+98,"TEXT_LUCKBC007_03216_ZHAIANELHAH_000_145","Lalai! Lalai, c-can you hear me!? S-Someone fetch a healer or a...wait, that's me!"
+99,"TEXT_LUCKBC007_03216_ZHAIANELHAH_000_146","Th-This is no time for p-p-panicking, friend! We must c-carry her to the Phrontistery with all speed!"
+100,"TEXT_LUCKBC007_03216_ZHAIANELHAH_000_160","I fear it is as I suspected. The aetheric balance within her has broken down entirely...and unchecked energies are now eating away at her from within."
+101,"TEXT_LUCKBC007_03216_ZHAIANELHAH_000_161","I can only assume that playing host to Shatotto's memories has put a terrible strain on her─one from which she has yet to completely recover."
+102,"TEXT_LUCKBC007_03216_ZHAIANELHAH_000_162","Yes, it would seem that her mind and spirit are in mortal peril. I have never witnessed this degree of aetheric imbalance before. I do not suppose you have...?"
+103,"TEXT_LUCKBC007_03216_Q1_000_200","What will you say?"
+104,"TEXT_LUCKBC007_03216_A1_000_201","I saw a world consumed by Light..."
+105,"TEXT_LUCKBC007_03216_A1_000_202","I saw a man transform into an unholy abomination..."
+106,"TEXT_LUCKBC007_03216_ZHAIANELHAH_000_165","...I see. I can scarcely imagine all you have witnessed in your travels, but an imbalance of aether similar to what I now observe in Lalai would appear to be behind the phenomena you describe."
+107,"TEXT_LUCKBC007_03216_ZHAIANELHAH_000_166","If we can assume that the memories of Shatotto taking up residence in Lalai's corporeal form stimulated her aetheric flow, causing it to shift violently in an astral direction...then it only stands to reason we could restore balance by introducing a counteracting umbral aspect!"
+108,"TEXT_LUCKBC007_03216_ZHAIANELHAH_000_167","By the Twelve, I think I've got it! And yet, the process will not be quick...nor easy. I suppose we've no choice but to ask Master Cocobuki to delay the hearing..."
+109,"TEXT_LUCKBC007_03216_LALAI_000_168","(-???-)Delay the hearing!? Have you lost what little wits you had!? Why, if word got out that my condition was the result of my pursuit of the dark arts, it would all but seal Yayake's case against me!"
+110,"TEXT_LUCKBC007_03216_LALAI_000_170","No, we must proceed as planned, before our opponents are the wiser. <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, here is my magnum opus─the fruits of all we went through together. I leave them in your capable hands. Go on ahead, and I will be along in due time."
+111,"TEXT_LUCKBC007_03216_ZHAIANELHAH_000_171","Are you mad!? You can't possibly mean to attend the proceedings in your current condition."
+112,"TEXT_LUCKBC007_03216_LALAI_000_172","Of course not."
+113,"TEXT_LUCKBC007_03216_LALAI_000_173","Fortunately, I just so happen to know a Hearer who─despite being an insufferable stick-in-the-mud─has proven himself more than capable in the healing arts."
+114,"TEXT_LUCKBC007_03216_ZHAIANELHAH_000_174","Lalai..."
+115,"TEXT_LUCKBC007_03216_ZHAIANELHAH_000_175","Very well...leave it to me. I will see that you are back on your feet before the judgment is rendered."
+116,"TEXT_LUCKBC007_03216_ZHAIANELHAH_000_176","Until then, I suppose it is up to <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> here. Godsspeed, my friend."
+117,"TEXT_LUCKBC007_03216_YAYAKE_000_180","I have heard that we will be pleading our cases to Prioress Dewlala herself. It matters little to me─when she has heard my argument, she will have no choice but to rule in my favor."
+118,"TEXT_LUCKBC007_03216_COCOBUKI_000_190","Hm hm hm... Lalai will be joining the proceedings a touch late, you say? That is most...unlike her, to say the least."
+119,"TEXT_LUCKBC007_03216_COCOBUKI_000_191","She has entrusted her records to you? Very well. With any luck, we will be able to use them to our advantage. Now, allow me to see them. The prioress will be here all too soon..."
+120,"TEXT_LUCKBC007_03216_YAYAKE_000_200","Lalai has not even the courtesy to arrive on time to the hearing she herself requested? I swear, the woman's selfishness knows no bounds! I move that her request be dismissed immediately. It is...for her own good."
+121,"TEXT_LUCKBC007_03216_COCOBUKI_000_201","Her own good...? Yes...it is as I suspected. You speak from your own experience...don't you, child?"
+122,"TEXT_LUCKBC007_03216_COCOBUKI_000_202","I recall that you, too, once took an unpopular position in support of your erstwhile Master Mumuepo...one that earned you only the ire of your brothers and sisters."
+123,"TEXT_LUCKBC007_03216_YAYAKE_000_203","Yes...and what of it!? I fought for a hopeless cause that in the end served only to isolate me from my peers. Is it so wrong that I wish to save Lalai from a similar fate? She must abandon this farce at once and return to her rightful place in the Order!"
+124,"TEXT_LUCKBC007_03216_COCOBUKI_000_204","To this, I cannot agree. In the short time before these proceedings, I perused what I could of these tomes. In their pages are writ not only forbidden secrets of black magic, but accounts of astounding phenomena the likes of which even I could scarcely imagine."
+125,"TEXT_LUCKBC007_03216_COCOBUKI_000_205","Lalai conducted her research without the support─or interference─of the Order, and the fruits that research has borne cannot be denied. While our guild could not support a thousand others like her, I see little to gain from stifling one woman's passion, and forcing her to work within such rigid rules and regulations."
+126,"TEXT_LUCKBC007_03216_DEWLALA_000_206","The merits of both arguments are not lost on me. And yet I must confess a degree of ignorance about the matter at hand. All know that black magic was forbidden for its role in bringing disaster to our world. And yet, you still practice this art. Tell me, adventurer─is this magic as calamitous as the rumors say?"
+127,"TEXT_LUCKBC007_03216_Q1_000_000","How will you respond?"
+128,"TEXT_LUCKBC007_03216_A1_000_001","It depends on who wields it, and to what end."
+129,"TEXT_LUCKBC007_03216_A1_000_002","Destruction, too, can bring salvation."
+130,"TEXT_LUCKBC007_03216_DEWLALA_000_210","If I understand you correctly, you would argue that in the right hands, even the art of destruction might serve the greater good. And yet, how are we to be certain that this Sister Lalai can be trusted with such potentially ruinous knowledge?"
+131,"TEXT_LUCKBC007_03216_DEWLALA_000_211","There are times when vast destructive powers are needed...this is your claim? From my observations, I suppose you may be right. And yet, how are we to be certain that this Sister Lalai can be trusted with such potentially ruinous knowledge?"
+132,"TEXT_LUCKBC007_03216_LALAI_000_212","My apologies, Prioress! By your leave, I would tell my tale."
+133,"TEXT_LUCKBC007_03216_LALAI_000_213","Black magic is an inherently dangerous art...this I cannot and will not deny. Never would I suggest that even a single mage pursue this path without full knowledge of the perils that lie ahead."
+134,"TEXT_LUCKBC007_03216_LALAI_000_214","That is precisely why I have recorded in painstaking detail not only the arcane knowledge I have gleaned, but every last one of the myriad phenomena both wondrous and terrifying I have experienced in its pursuit."
+135,"TEXT_LUCKBC007_03216_LALAI_000_215","Unbreakable bonds formed with beastmen we once thought our sworn enemy, bodies and souls consumed by the pursuit of forbidden knowledge, an unspeakable calamity revisited upon our world after millennia...! We must leave this knowledge to posterity, that our sons and daughters do not repeat the mistakes of our past!"
+136,"TEXT_LUCKBC007_03216_DEWLALA_000_216","Those who do not learn from history are doomed to repeat it. This is the crux of your argument, yes?"
+137,"TEXT_LUCKBC007_03216_DEWLALA_000_217","...Very well. Master Cocobuki, I hereby order you to establish a research organization under the auspices of your guild to further study the impact of black magic. I also grant you permission to store the aforementioned tomes in your archives─under the condition that Sister Lalai oversees them. "
+138,"TEXT_LUCKBC007_03216_COCOBUKI_000_218","...Understood. I will see that both the tomes and Lalai herself find a safe home within our halls."
+139,"TEXT_LUCKBC007_03216_YAYAKE_000_219","I am still not entirely convinced, but if the guildmaster himself is willing to accept responsibility...I have no reason to oppose."
+140,"TEXT_LUCKBC007_03216_LALAI_000_220","Prioress Dewlala, Master Cocobuki...I cannot thank you enough. Mark my words: you will not regret this decision. I will see to it that this knowledge is passed down as it should be─that the errors of our past will never be repeated."
+141,"TEXT_LUCKBC007_03216_LALAI_000_240","To think the day would come that our art would be recognized once more!"
+142,"TEXT_LUCKBC007_03216_YAYAKE_000_245","One thing I will say for Lalai: she is passionate about her beliefs. Worry not─I will see that she is treated fairly by her brothers and sisters."
+143,"TEXT_LUCKBC007_03216_COCOBUKI_000_260","Well, I do believe the proceedings went about as well as could be expected. I suppose this means that Lalai is now directly under my supervision."
+144,"TEXT_LUCKBC007_03216_COCOBUKI_000_261","Don't think you'll be getting free rein around here simply because I vouched for you, child. I expect regular reports on any and all of your findings─only through transparency will black magic ever be accepted by doubters and skeptics."
+145,"TEXT_LUCKBC007_03216_LALAI_000_262","Understood. I shall begin to prepare my first report at once. But before that, there is another with whom I'd like to share these tidings. That is...by your leave, Guildmaster?"
+146,"TEXT_LUCKBC007_03216_LALAI_000_263","I believe you know well of whom I speak. He awaits us at the Sacrarium. Come along, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>."
+147,"TEXT_LUCKBC007_03216_COCOBUKI_000_270","I am relieved to see the girl's aetheric balance restored. I suppose it was one of your companions who aided in this, yes?"
+148,"TEXT_LUCKBC007_03216_ZHAIANELHAH_000_275","Lalai has already shared the good news with me. Why, I could not be happier for the both of you!"
+149,"TEXT_LUCKBC007_03216_LALAI_000_290","And so, you see... I simply thought that, well..."
+150,"TEXT_LUCKBC007_03216_ZHAIANELHAH_000_291","Whatever is the matter, Lalai? This is your moment of triumph! I would expect you to be more...triumphant."
+151,"TEXT_LUCKBC007_03216_LALAI_000_292","Of course I am! It is simply that, well... Clearly, I could not have...I <hex:021A020203>did not<hex:021A020103> accomplish this on my own, so..."
+152,"TEXT_LUCKBC007_03216_LALAI_000_293","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> of the black. And yes, you as well, Zhai'a Nelhah. You have my...deepest gratitude."
+153,"TEXT_LUCKBC007_03216_ZHAIANELHAH_000_294","Well, I daresay this has been a momentous day in more ways than one. Once again, Lalai, my congratulations. And...you are most welcome."
+154,"TEXT_LUCKBC007_03216_ZHAIANELHAH_000_295","And with that, I should be on my way. When next we meet, I would introduce my colleagues from Stillglade Fane. Now that you are no longer a pariah, I suppose they would not be averse to exchanging knowledge with you."
+155,"TEXT_LUCKBC007_03216_LALAI_000_296","...And just when I was beginning to take a liking to that dolt."
+156,"TEXT_LUCKBC007_03216_LALAI_000_297","At any rate, though my official position may have changed, my mission remains the same: I will do all in my power to preserve our art for future generations. Pray continue to lend me your aid...<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> of the black."

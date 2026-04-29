@@ -2,92 +2,92 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_GAIUSE318_01459_SEQ_00,巨龍首營地的奧爾什方很迫切地要和冒險者交談。
-1,TEXT_GAIUSE318_01459_SEQ_01,從奧爾什方處得知了異端者們在首領冰之巫女的領導下行動越來越組織化。前往庫爾札斯中央高地的白雲崖前哨，和德里耶蒙談談。
-2,TEXT_GAIUSE318_01459_SEQ_02,和德里耶蒙就異端者的變化進行了交談，他給冒險者介紹了一名遭到異端者襲擊的商人。和白雲崖前哨的遇襲的商人談談。
-3,TEXT_GAIUSE318_01459_SEQ_03,遇襲的商人說異端者們可能潛伏在披雪大冰壁。前往庫爾札斯中央高地的披雪大冰壁，發現異端者的話就將其討伐。
-4,TEXT_GAIUSE318_01459_SEQ_04,討伐了發起襲擊的異端者。和披雪大冰壁的狄蘭達爾家的騎兵談談。
-5,TEXT_GAIUSE318_01459_SEQ_05,和狄蘭達爾家的騎兵進行交談時，神秘的女性消失在了大冰壁中。再次和披雪大冰壁的狄蘭達爾家的騎兵談談。
-6,TEXT_GAIUSE318_01459_SEQ_06,狄蘭達爾家的騎兵希望冒險者先返回白雲崖前哨。和白雲崖前哨的德里耶蒙談談。
-7,TEXT_GAIUSE318_01459_SEQ_07,德里耶蒙說對付異端者必須要慎重行事。向巨龍首營地的奧爾什方報告。
-8,TEXT_GAIUSE318_01459_SEQ_08,向奧爾什方報告完畢。他說異端者方面將由神殿騎士來應付，並且他會重新準備一批支援物資送給開拓團。返回摩杜納的喪靈鐘，向斯拉佛伯恩報告。
-9,TEXT_GAIUSE318_01459_SEQ_09,得到冒險者的報告，斯拉佛伯恩總算放心了。喪靈鐘的規模不斷擴大，今後的警戒工作也需要新組織的協力。
-10,TEXT_GAIUSE318_01459_SEQ_10,
-11,TEXT_GAIUSE318_01459_SEQ_11,
-12,TEXT_GAIUSE318_01459_SEQ_12,
-13,TEXT_GAIUSE318_01459_SEQ_13,
-14,TEXT_GAIUSE318_01459_SEQ_14,
-15,TEXT_GAIUSE318_01459_SEQ_15,
-16,TEXT_GAIUSE318_01459_SEQ_16,
-17,TEXT_GAIUSE318_01459_SEQ_17,
-18,TEXT_GAIUSE318_01459_SEQ_18,
-19,TEXT_GAIUSE318_01459_SEQ_19,
-20,TEXT_GAIUSE318_01459_SEQ_20,
-21,TEXT_GAIUSE318_01459_SEQ_21,
-22,TEXT_GAIUSE318_01459_SEQ_22,
-23,TEXT_GAIUSE318_01459_SEQ_23,
-24,TEXT_GAIUSE318_01459_TODO_00,和白雲崖前哨的德里耶蒙對話
-25,TEXT_GAIUSE318_01459_TODO_01,和遇襲的商人對話
-26,TEXT_GAIUSE318_01459_TODO_02,在披雪大冰壁附近討伐出現的異端者
-27,TEXT_GAIUSE318_01459_TODO_03,和狄蘭達爾家的騎兵對話
-28,TEXT_GAIUSE318_01459_TODO_04,再次和狄蘭達爾家的騎兵對話
-29,TEXT_GAIUSE318_01459_TODO_05,和德里耶蒙對話
-30,TEXT_GAIUSE318_01459_TODO_06,和奧爾什方對話
-31,TEXT_GAIUSE318_01459_TODO_07,向喪靈鐘的斯拉佛伯恩報告
-32,TEXT_GAIUSE318_01459_TODO_08,
-33,TEXT_GAIUSE318_01459_TODO_09,
-34,TEXT_GAIUSE318_01459_TODO_10,
-35,TEXT_GAIUSE318_01459_TODO_11,
-36,TEXT_GAIUSE318_01459_TODO_12,
-37,TEXT_GAIUSE318_01459_TODO_13,
-38,TEXT_GAIUSE318_01459_TODO_14,
-39,TEXT_GAIUSE318_01459_TODO_15,
-40,TEXT_GAIUSE318_01459_TODO_16,
-41,TEXT_GAIUSE318_01459_TODO_17,
-42,TEXT_GAIUSE318_01459_TODO_18,
-43,TEXT_GAIUSE318_01459_TODO_19,
-44,TEXT_GAIUSE318_01459_TODO_20,
-45,TEXT_GAIUSE318_01459_TODO_21,
-46,TEXT_GAIUSE318_01459_TODO_22,
-47,TEXT_GAIUSE318_01459_TODO_23,
-48,TEXT_GAIUSE318_01459_HAURCHEFANT_000_000,白雲崖前哨那邊好像目擊到不少次異端者，<hex:02100103>你去那邊找德里耶蒙閣下問問如何？
-49,TEXT_GAIUSE318_01459_DRILLEMONT_000_010,之前的奪還作戰真是多虧了你幫忙。<hex:02100103>石衛塔的修繕工作也開始逐步進行了。<hex:02100103>不過，你專程前來應該不是為了打聽這進展的吧？
-50,TEXT_GAIUSE318_01459_DRILLEMONT_000_011,白雲崖這邊最近的情況？<hex:02100103>唔……既然是你，<hex:02100103>我自當有問必答。
-51,TEXT_GAIUSE318_01459_DRILLEMONT_000_012,原來如此，物資居然被異端者劫了。<hex:02100103>你還真是個容易和異端者扯上關係的冒險者。
-52,TEXT_GAIUSE318_01459_DRILLEMONT_000_013,前哨這一帶的異端者確實是非常肆虐，<hex:02100103>造成的損害越來越嚴重。
-53,TEXT_GAIUSE318_01459_DRILLEMONT_000_014,雖然我們也想了很多辦法，<hex:02100103>但他們比想像的還要棘手……<hex:02100103>他們的變化並不只是有組織的行動那麼簡單。
-54,TEXT_GAIUSE318_01459_DRILLEMONT_000_015,因為那個冰之巫女的領導，<hex:02100103>異端者們好像更狂熱忘我了。<hex:02100103>這奇妙的變化真是令人費解。
-55,TEXT_GAIUSE318_01459_DRILLEMONT_000_016,你來之前，前哨附近又有商人遇襲。<hex:02100103>我已經組織了警備隊在這一帶警戒。<hex:02100103>你要是想去調查的話就請便。
-56,TEXT_GAIUSE318_01459_DRILLEMONT_000_017,遇襲的商人正在野戰醫院裡接受看護。<hex:02100103>如果他恢復意識了，應該能問到一些情報。
-57,TEXT_GAIUSE318_01459_DRILLEMONT_000_020,遇襲的商人正在野戰醫院裡接受看護。<hex:02100103>如果他恢復意識了，應該能問到一些情報。
-58,TEXT_GAIUSE318_01459_MERCHANT01459_000_030,沒錯……我就是被異端者襲擊的商人。<hex:02100103>可惡！這下可賠光了！
-59,TEXT_GAIUSE318_01459_MERCHANT01459_000_031,來前哨的途中，我遭到了一群異端者的襲擊，<hex:02100103>連抵抗都沒來得及，就失去意識了……
-60,TEXT_GAIUSE318_01459_MERCHANT01459_000_032,等我醒過來時就已經在醫院裡了。<hex:02100103>在皇都進的那些水晶和武器裝備全都沒了……<hex:02100103>唉，我的商品啊……全被異端者給搶了。
-61,TEXT_GAIUSE318_01459_MERCHANT01459_000_033,在我失去意識之前，好像聽到異端者們提到了「冰壁」。<hex:02100103>大概就是披雪大冰壁？<hex:02100103>我的貨物大概也都在那裡……
-62,TEXT_GAIUSE318_01459_MERCHANT01459_000_034,但我還是只能選擇放棄。<hex:02100103>被他們襲擊還能活下來，已經差不多是奇蹟了。<hex:02100103>要是再主動去找他們，那不是白白送死嘛！
-63,TEXT_GAIUSE318_01459_MERCHANT01459_000_040,在我失去意識之前，好像聽到異端者們說到了「冰壁」。<hex:02100103>大概就是披雪大冰壁？<hex:02100103>不過我還是只能放棄那些貨物了，我可不想去送死！
-64,TEXT_GAIUSE318_01459_LANCEFER_000_050,啊，你來得正好！<hex:02100103>騎兵們到裡面去追異端者了！<hex:02100103>如果你能戰鬥的話，就請去幫忙吧！
-65,TEXT_GAIUSE318_01459_OURDILIC_000_055,噓！別那麼大聲。<hex:02100103>以我們的戰鬥力可沒法跟異端者抗衡。<hex:02100103>要是被盯上那可就沒命了。
-66,TEXT_GAIUSE318_01459_CAVALRYMAN01459_000_060,啊！你是那個曾經幫我們消滅異端者的冒險者吧？<hex:02100103>你是來幫我們的嗎？
-67,TEXT_GAIUSE318_01459_CAVALRYMAN01459_000_061,我們是德里耶蒙閣下派來在這一帶執行警戒的部隊。<hex:02100103>在巡邏中發現了一群好像是異端者的傢伙，<hex:02100103>一路追擊來到這裡，卻失去了他們的蹤跡……
-68,TEXT_GAIUSE318_01459_CAVALRYMAN01459_000_062,這裡是披雪大冰壁，<hex:02100103>明明是由冰封住的死路一條，<hex:02100103>他們到底消失到哪裡去了……
-69,TEXT_GAIUSE318_01459_CAVALRYMAN01459_000_070,剛才有個女人消失在了大冰壁中？<hex:02100103>莫非她就是異端者的頭目，那個冰之巫女？！
-70,TEXT_GAIUSE318_01459_CAVALRYMAN01459_000_071,看來，披雪大冰壁裡很可能有異端者的暗道。<hex:02100103>那個女的看起來是在故意引誘我們追過去，<hex:02100103>大概有埋伏。
-71,TEXT_GAIUSE318_01459_CAVALRYMAN01459_000_072,我們兵力不足，太過深入會有危險。<hex:02100103>先撤回前哨，徵求德里耶蒙閣下的意見吧。
-72,TEXT_GAIUSE318_01459_CAVALRYMAN01459_000_080,我們兵力不足，太過深入會有危險。<hex:02100103>先撤回前哨，徵求德里耶蒙閣下的意見吧。
-73,TEXT_GAIUSE318_01459_DRILLEMONT_000_090,你回來啦。<hex:02100103>部下們已經向我彙報了披雪大冰壁的情況。
-74,TEXT_GAIUSE318_01459_DRILLEMONT_000_091,我派去的部隊都是精銳，居然還是有了傷亡。<hex:02100103>從這情況看來，我們需要更加慎重地來對付異端者才行。
-75,TEXT_GAIUSE318_01459_DRILLEMONT_000_092,我雖然想幫你奪回開拓團被劫的那批物資，<hex:02100103>但是現在莽撞出擊實在是下策……<hex:02100103>希望你能理解和忍耐。
-76,TEXT_GAIUSE318_01459_DRILLEMONT_000_093,你先回巨龍首營地吧。<hex:02100103>幫我轉告奧爾什方閣下，<hex:02100103>讓他們也加強警戒。
-77,TEXT_GAIUSE318_01459_DRILLEMONT_000_094,異端者的劇變……還有冰之巫女……<hex:02100103>我一定要揭開她的真面目！
-78,TEXT_GAIUSE318_01459_DRILLEMONT_000_100,你先回巨龍首營地吧。<hex:02100103>幫我轉告奧爾什方閣下，<hex:02100103>讓他們也加強警戒。
-79,TEXT_GAIUSE318_01459_HAURCHEFANT_000_110,你告訴開拓團那邊不必在意支援物資的事。<hex:02100103>啊，不過你要是願意留在我這裡的話，<hex:02100103>我就另派人去送信吧？
-80,TEXT_GAIUSE318_01459_SLAFBORN_000_120,哦，你回來啦！<hex:02100103>庫爾札斯很冷吧，真是辛苦你了。<hex:02100103>支援物資的情況如何？
-81,TEXT_GAIUSE318_01459_SLAFBORN_000_121,什麼？居然願意再度給我們準備嗎？<hex:02100103>奧爾什方閣下這麼好說話，真是太好了。<hex:02100103>當然，或許也是因為你親自過去才能有這收穫。
-82,TEXT_GAIUSE318_01459_SLAFBORN_000_122,喪靈鐘這裡的人和物資都越來越多，<hex:02100103>宵小之輩也會隨之增多。<hex:02100103>今後也必須加強警戒，大概也要藉助新組織的力量。
-83,TEXT_GAIUSE318_01459_POPMESSAGE_000_000,察覺到了敵人的氣息！
-84,TEXT_GAIUSE318_01459_BALLOON_000_000,去死吧……
-85,TEXT_GAIUSE318_01459_BALLOON_000_010,嗚……啊……
-86,TEXT_GAIUSE318_01459_BALLOON_000_020,把水晶都交出來……
-87,TEXT_GAIUSE318_01459_BALLOON_000_030,為巫女大人獻上生命……
-88,TEXT_GAIUSE318_01459_POP_MESSAGE,
+0,"TEXT_GAIUSE318_01459_SEQ_00","Lord Haurchefant awaits confirmation of the reason for your visit to Camp Dragonhead."
+1,"TEXT_GAIUSE318_01459_SEQ_01","A staunch supporter of the frontier effort in Mor Dhona, Lord Haurchefant eagerly shares with you what little information he has regarding the heretics and their mysterious leader, the Lady Iceheart. Reasoning that your best chance to track down the supply thieves lies in Whitebrim and its heretic-infested environs, the garrison commander suggests you bring the matter before Lord Drillemont. Make your way west to Whitebrim Front, and speak with the head of House Durendaire."
+2,"TEXT_GAIUSE318_01459_SEQ_02","Upon explaining your mission to Lord Drillemont, he responds with an ominous description of the heretics' heightened fanaticism and rigid discipline. As fate would have it, it appears a recent victim of a heretic attack is presently resting within the outpost's infirmary. Visit the injured merchant and listen to his tale."
+3,"TEXT_GAIUSE318_01459_SEQ_03","You listen to the merchant's matter-of-fact account of the heretics' brutal robbery, and learn where his attackers were likely headed with their haul. Travel into the wilds near Snowcloak, and defeat any heretics you come across."
+4,"TEXT_GAIUSE318_01459_SEQ_04","You have slain the heretic ambushers. Head towards the frozen wall of Snowcloak and speak with the knight of House Durendaire."
+5,"TEXT_GAIUSE318_01459_SEQ_05","As the knight tells you of his patrol's travails, you spy a woman gazing down from near the top of the cliff. Though she quickly disappears from sight, you have some suspicions as to the figure's identity. Speak with the knight of House Durendaire once more."
+6,"TEXT_GAIUSE318_01459_SEQ_06","The knight appears shaken by your glimpse of whom he assumes to be Iceheart herself, and wonders what terrible dangers lie hidden behind the frozen facade of Snowcloak. Take the young gallant's advice and return with your discoveries to Lord Drillemont."
+7,"TEXT_GAIUSE318_01459_SEQ_07","Perturbed by the defeat of his elite soldiers, Lord Drillemont cautions you against rushing into what may well be a veritable den of heretics for the sake of a few provisions. Return to Camp Dragonhead and report this turn of events to Lord Haurchefant."
+8,"TEXT_GAIUSE318_01459_SEQ_08","After hearing your tale of what transpired at Snowcloak, the head of House Fortemps insists that the matter be turned over to the authority of the Temple Knights. Before sending you on your way, however, Lord Haurchefant promises that another shipment of supplies will be sent to Revenant's Toll. Travel back to Mor Dhona and report to Slafborn."
+9,"TEXT_GAIUSE318_01459_SEQ_09","Slafborn appears relieved to hear of Lord Haurchefant's generosity. He warns, however, that the growing prosperity of Revenant's Toll will require that everyone─Alphinaud's new recruits included─remain vigilant against the schemes of the unscrupulous."
+10,"TEXT_GAIUSE318_01459_SEQ_10",""
+11,"TEXT_GAIUSE318_01459_SEQ_11",""
+12,"TEXT_GAIUSE318_01459_SEQ_12",""
+13,"TEXT_GAIUSE318_01459_SEQ_13",""
+14,"TEXT_GAIUSE318_01459_SEQ_14",""
+15,"TEXT_GAIUSE318_01459_SEQ_15",""
+16,"TEXT_GAIUSE318_01459_SEQ_16",""
+17,"TEXT_GAIUSE318_01459_SEQ_17",""
+18,"TEXT_GAIUSE318_01459_SEQ_18",""
+19,"TEXT_GAIUSE318_01459_SEQ_19",""
+20,"TEXT_GAIUSE318_01459_SEQ_20",""
+21,"TEXT_GAIUSE318_01459_SEQ_21",""
+22,"TEXT_GAIUSE318_01459_SEQ_22",""
+23,"TEXT_GAIUSE318_01459_SEQ_23",""
+24,"TEXT_GAIUSE318_01459_TODO_00","Speak with Drillemont at Whitebrim Front."
+25,"TEXT_GAIUSE318_01459_TODO_01","Speak with the mistreated merchant."
+26,"TEXT_GAIUSE318_01459_TODO_02","Search the wilds of Snowcloak and defeat any heretics you encounter."
+27,"TEXT_GAIUSE318_01459_TODO_03","Speak with the House Durendaire knight."
+28,"TEXT_GAIUSE318_01459_TODO_04","Speak once more with the House Durendaire knight."
+29,"TEXT_GAIUSE318_01459_TODO_05","Speak with Drillemont."
+30,"TEXT_GAIUSE318_01459_TODO_06","Speak with Haurchefant."
+31,"TEXT_GAIUSE318_01459_TODO_07","Report to Slafborn at Revenant's Toll."
+32,"TEXT_GAIUSE318_01459_TODO_08",""
+33,"TEXT_GAIUSE318_01459_TODO_09",""
+34,"TEXT_GAIUSE318_01459_TODO_10",""
+35,"TEXT_GAIUSE318_01459_TODO_11",""
+36,"TEXT_GAIUSE318_01459_TODO_12",""
+37,"TEXT_GAIUSE318_01459_TODO_13",""
+38,"TEXT_GAIUSE318_01459_TODO_14",""
+39,"TEXT_GAIUSE318_01459_TODO_15",""
+40,"TEXT_GAIUSE318_01459_TODO_16",""
+41,"TEXT_GAIUSE318_01459_TODO_17",""
+42,"TEXT_GAIUSE318_01459_TODO_18",""
+43,"TEXT_GAIUSE318_01459_TODO_19",""
+44,"TEXT_GAIUSE318_01459_TODO_20",""
+45,"TEXT_GAIUSE318_01459_TODO_21",""
+46,"TEXT_GAIUSE318_01459_TODO_22",""
+47,"TEXT_GAIUSE318_01459_TODO_23",""
+48,"TEXT_GAIUSE318_01459_HAURCHEFANT_000_000","Furtive bands of men have been spied by patrols out of Whitebrim Front. Mayhaps Lord Drillemont will know more of the brazen heretics we seek."
+49,"TEXT_GAIUSE318_01459_DRILLEMONT_000_010","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, welcome, welcome. You'll be pleased to know that the repairs to Stone Vigil proceed apace. We shall rebuild sure and strong, that the Dravanians might batter themselves senseless against our shield in the west.<hex:02100103>...I would venture, however, that matters of masonry are not what brought you to Whitebrim."
+50,"TEXT_GAIUSE318_01459_DRILLEMONT_000_011","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, is there aught you would ask of me? Pray speak plainly─I am a man of action and need no honeyed words."
+51,"TEXT_GAIUSE318_01459_DRILLEMONT_000_012","...On the trail of a band of thieving heretics, you say? By the Fury, but you do seem destined to cross paths with those villains."
+52,"TEXT_GAIUSE318_01459_DRILLEMONT_000_013","I must confess, then, 'tis a sad truth that the wilds hereabouts have indeed grown thick with their number. They strike swiftly, without warning, and are canny enough to evade our most able trackers."
+53,"TEXT_GAIUSE318_01459_DRILLEMONT_000_014","But 'tis not merely their newfound organization that confounds us: the heretics themselves seem somehow <hex:021A020203>changed<hex:021A020103>."
+54,"TEXT_GAIUSE318_01459_DRILLEMONT_000_015","I know not what manner of influence this Iceheart wields, but the men we face seem utterly lost in the grip of righteous fervor. 'Tis an unsettling and unnatural zeal."
+55,"TEXT_GAIUSE318_01459_DRILLEMONT_000_016","Mayhaps you would care to question one of their recent victims? As fate would have it, your arrival came moments after a trader was waylaid on the road."
+56,"TEXT_GAIUSE318_01459_DRILLEMONT_000_017","A patrol found the unfortunate fellow lying senseless in the snow, and carried him to our infirmary. Assuming he has regained the use of his faculties, the merchant might recall some small detail that could aid you in your task."
+57,"TEXT_GAIUSE318_01459_DRILLEMONT_000_020","Will you speak with the merchant in our infirmary? The account of his unpleasant experience may aid you in chasing down your quarry."
+58,"TEXT_GAIUSE318_01459_MERCHANT01459_000_030","Tell you what happened? Why, yes, of course! I am quite recovered enough for that! Anything to help catch those cowardly blackhearts!"
+59,"TEXT_GAIUSE318_01459_MERCHANT01459_000_031","I was traveling my usual route to Whitebrim Front when a sudden blow sent me reeling..."
+60,"TEXT_GAIUSE318_01459_MERCHANT01459_000_032","The next thing I knew I was on the ground, and several heretics were rifling through my cargo─arms, armor, crystals...they were taking everything."
+61,"TEXT_GAIUSE318_01459_MERCHANT01459_000_033","'Twas then that one of them noticed my bleary gaze, and stalked over to better acquaint my head with his mace. Before darkness claimed me, however, I distinctly heard the words, “return to Snowcloak.”"
+62,"TEXT_GAIUSE318_01459_MERCHANT01459_000_034","I daresay that is where they were hauling my goods, but you'll not catch me rushing off in pursuit! They tell me 'twas a miracle I survived at all, and I'll not trust my thick skull to save me a second time!"
+63,"TEXT_GAIUSE318_01459_MERCHANT01459_000_040","'Tis likely they've taken my cargo to Snowcloak─hardly the most hospitable of places at the best of times. No, I believe I'll cut my losses rather than risk meeting with those bloodless fiends again!"
+64,"TEXT_GAIUSE318_01459_LANCEFER_000_050","Thank the Fury you've come! I saw them, the heretics! They were just over yonder. Please, you must help our knights in their hunt!"
+65,"TEXT_GAIUSE318_01459_OURDILIC_000_055","Shhh! Hold your tongue! Would you bring the heretics down upon us!?"
+66,"TEXT_GAIUSE318_01459_CAVALRYMAN01459_000_060","Gah! Draw your weapon, foul─ Wait, I recognize you, adventurer. You are come seeking heretics?"
+67,"TEXT_GAIUSE318_01459_CAVALRYMAN01459_000_061","Then we share a common purpose. We were on patrol when we chanced across one of their raiding parties, and pursued them here."
+68,"TEXT_GAIUSE318_01459_CAVALRYMAN01459_000_062","By rights, we should have had them cornered in this ravine...and yet, they are gone. Vanished, like icy wraiths."
+69,"TEXT_GAIUSE318_01459_CAVALRYMAN01459_000_070","You glimpsed a woman atop the cliff? Could it be Iceheart herself come to sneer at our folly!?"
+70,"TEXT_GAIUSE318_01459_CAVALRYMAN01459_000_071","And to where did she disappear? The heretics must have discovered a passage through the frozen wall─some hidden tunnel that escaped our notice."
+71,"TEXT_GAIUSE318_01459_CAVALRYMAN01459_000_072","We have not the men to risk further investigation. 'Twould be best were we to return to Whitebrim Front, and lay our suspicions before Lord Drillemont."
+72,"TEXT_GAIUSE318_01459_CAVALRYMAN01459_000_080","We cannot risk rushing blindly into ambush. Lord Drillemont must be informed before we proceed any further."
+73,"TEXT_GAIUSE318_01459_DRILLEMONT_000_090","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, it appears I owe you my thanks once again. The surviving knights spared no detail in their report."
+74,"TEXT_GAIUSE318_01459_DRILLEMONT_000_091","The men you found out near Snowcloak were some of my finest. That they should be bested so handily... I fear I have woefully underestimated the threat these heretics pose."
+75,"TEXT_GAIUSE318_01459_DRILLEMONT_000_092","While I understand you might balk at the notion, I must ask that you put aside your mission and consider the stolen provisions lost to us for now. 'Twould be ill-advised to blunder unprepared into what may well be the very lair of our enemy."
+76,"TEXT_GAIUSE318_01459_DRILLEMONT_000_093","Pray return to Dragonhead and inform Lord Haurchefant of your discoveries. He will wish to plan contingencies of his own."
+77,"TEXT_GAIUSE318_01459_DRILLEMONT_000_094","As for Iceheart and her fanatics...the freezing heights of Snowcloak will not shield them from our justice for long!"
+78,"TEXT_GAIUSE318_01459_DRILLEMONT_000_100","Return to Camp Dragonhead and report all you have learned to Lord Haurchefant. He must know of Snowcloak's secrets..."
+79,"TEXT_GAIUSE318_01459_HAURCHEFANT_000_110","Pray tell the frontier hands to fret not over stolen supplies. 'Tis but a pittance compared to the rewards we shall reap for having a solid stronghold in Mor Dhona."
+80,"TEXT_GAIUSE318_01459_SLAFBORN_000_120","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! 'Tis good to see you return to the Toll! How fared you in the frozen wastes of Coerthas?"
+81,"TEXT_GAIUSE318_01459_SLAFBORN_000_121","...House Fortemps is to send us a second shipment? I must send thanks to Lord Haurchefant for his continued generosity."
+82,"TEXT_GAIUSE318_01459_SLAFBORN_000_122","Yet even as our town grows in prosperity, I fear it will attract ever greater numbers of those who would do us harm in the name of greed or power. All of us, Alphinaud's new recruits included, must remain vigilant against such threats."
+83,"TEXT_GAIUSE318_01459_POPMESSAGE_000_000","The snow crunches under the tread of heavy boots..."
+84,"TEXT_GAIUSE318_01459_BALLOON_000_000","Your end is come..."
+85,"TEXT_GAIUSE318_01459_BALLOON_000_010","The cold salves my pain..."
+86,"TEXT_GAIUSE318_01459_BALLOON_000_020","Surrender the crystals..."
+87,"TEXT_GAIUSE318_01459_BALLOON_000_030","My life belongs to the Lady..."
+88,"TEXT_GAIUSE318_01459_POP_MESSAGE","（★未使用／削除予定★）"

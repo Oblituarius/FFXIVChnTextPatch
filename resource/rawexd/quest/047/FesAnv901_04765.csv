@@ -2,163 +2,163 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_FESANV901_04765_SEQ_00,※本任務是特定期間內的任務。<hex:02100103><hex:02100103>紅玉大路國際市場的琪琵·嘉奇亞似乎遇上了煩心事。
-1,TEXT_FESANV901_04765_SEQ_01,※本任務只有在季節活動開放期間才能接受和進行。<hex:02100103>　季節活動結束後無法進行，敬請注意。<hex:02100103>　詳情請參見官方網站。<hex:02100103><hex:02100103>琪琵·嘉奇亞希望冒險者能幫忙收集她弟弟的消息。向紅玉大路國際市場附近的人們打聽情報。
-2,TEXT_FESANV901_04765_SEQ_02,根據收集到的情報，納吉·阿·嘉奇亞接受了異國的詩人的委託。和來生迴廊黃金廣場的異國的詩人談談。
-3,TEXT_FESANV901_04765_SEQ_03,和異國的詩人進行了交談。前往烏爾達哈的流沙屋附近和琪琵·嘉奇亞匯合。
-4,TEXT_FESANV901_04765_SEQ_04,和琪琵·嘉奇亞匯合後，與琪琵·嘉奇亞交流了關於納吉·阿·嘉奇亞的情報。和中薩納蘭黑塵驛站的琪琵·嘉奇亞談談。
-5,TEXT_FESANV901_04765_SEQ_05,發現了受到襲擊的運輸篷車，救助了納吉·阿·嘉奇亞。陪納吉·阿·嘉奇亞前往烏爾達哈的黃金廣場，和異國的詩人談談，報告納吉·阿·嘉奇亞的委託進展。
-6,TEXT_FESANV901_04765_SEQ_06,和異國的詩人進行了交談。納吉·阿·嘉奇亞雖然成功完成了委託，但他的姐姐卻反對他繼續冒險。為了詢問她的真實想法，和烏爾達哈黃金廣場的琪琵·嘉奇亞談談。
-7,TEXT_FESANV901_04765_SEQ_07,和琪琵·嘉奇亞進行了交談。她似乎很擔心說想獨自思考一下便離開的弟弟。再次和琪琵·嘉奇亞談談，了解她準備如何處理這件事。
-8,TEXT_FESANV901_04765_SEQ_08,
-9,TEXT_FESANV901_04765_SEQ_09,
-10,TEXT_FESANV901_04765_SEQ_10,
-11,TEXT_FESANV901_04765_SEQ_11,
-12,TEXT_FESANV901_04765_SEQ_12,
-13,TEXT_FESANV901_04765_SEQ_13,
-14,TEXT_FESANV901_04765_SEQ_14,
-15,TEXT_FESANV901_04765_SEQ_15,
-16,TEXT_FESANV901_04765_SEQ_16,
-17,TEXT_FESANV901_04765_SEQ_17,
-18,TEXT_FESANV901_04765_SEQ_18,
-19,TEXT_FESANV901_04765_SEQ_19,
-20,TEXT_FESANV901_04765_SEQ_20,
-21,TEXT_FESANV901_04765_SEQ_21,
-22,TEXT_FESANV901_04765_SEQ_22,
-23,TEXT_FESANV901_04765_SEQ_23,
-24,TEXT_FESANV901_04765_TODO_00,在紅玉大路國際市場附近收集情報
-25,TEXT_FESANV901_04765_TODO_01,和黃金廣場的異國的詩人對話
-26,TEXT_FESANV901_04765_TODO_02,和流沙屋附近的琪琵·嘉奇亞對話
-27,TEXT_FESANV901_04765_TODO_03,和黑塵驛站的琪琵·嘉奇亞對話
-28,TEXT_FESANV901_04765_TODO_04,和黃金廣場的異國的詩人對話
-29,TEXT_FESANV901_04765_TODO_05,和琪琵·嘉奇亞對話
-30,TEXT_FESANV901_04765_TODO_06,
-31,TEXT_FESANV901_04765_TODO_07,
-32,TEXT_FESANV901_04765_TODO_08,
-33,TEXT_FESANV901_04765_TODO_09,
-34,TEXT_FESANV901_04765_TODO_10,
-35,TEXT_FESANV901_04765_TODO_11,
-36,TEXT_FESANV901_04765_TODO_12,
-37,TEXT_FESANV901_04765_TODO_13,
-38,TEXT_FESANV901_04765_TODO_14,
-39,TEXT_FESANV901_04765_TODO_15,
-40,TEXT_FESANV901_04765_TODO_16,
-41,TEXT_FESANV901_04765_TODO_17,
-42,TEXT_FESANV901_04765_TODO_18,
-43,TEXT_FESANV901_04765_TODO_19,
-44,TEXT_FESANV901_04765_TODO_20,
-45,TEXT_FESANV901_04765_TODO_21,
-46,TEXT_FESANV901_04765_TODO_22,
-47,TEXT_FESANV901_04765_TODO_23,
-48,TEXT_FESANV901_04765_KIPIHJAKKYA_000_001,啊……你是那個冒險者<hex:022903EB0203>！是你吧！<hex:02100103>好巧啊！我們好久沒見了吧！<hex:02100103>我是«渡鴉周刊»的記者琪琵·嘉奇亞啊！你還記得我嗎？
-49,TEXT_FESANV901_04765_KIPIHJAKKYA_000_002,啊，你是<hex:022903EB0203>吧？<hex:02100103>有一陣子沒見了吧？<hex:02100103>上次採訪金碟遊樂場，真是多虧了有你幫忙。
-50,TEXT_FESANV901_04765_KIPIHJAKKYA_000_003,能見到你真是太好了，我運氣可真不錯啊！<hex:02100103>我正巧遇上了煩心事呢……<hex:02100103>突然之間這麼說真是不好意思，能請你幫幫忙嗎？
-51,TEXT_FESANV901_04765_KIPIHJAKKYA_000_004,啊，你是個冒險者吧？<hex:02100103>我是«渡鴉周刊»的記者琪琵·嘉奇亞，你找我有事嗎？
-52,TEXT_FESANV901_04765_KIPIHJAKKYA_000_005,說起來，你來得也太是時候了，<hex:02100103>我正巧遇上了麻煩呢……<hex:02100103>能請你幫幫忙嗎？
-53,TEXT_FESANV901_04765_KIPIHJAKKYA_000_006,是這樣，我之前收到了我弟弟寄來的信。<hex:02100103>他在信裡跟我約好了，新生慶典的時候要在烏爾達哈碰頭，<hex:02100103>但是我們約好的時間早就過了，可他卻完全沒出現。
-54,TEXT_FESANV901_04765_KIPIHJAKKYA_000_007,我有點不放心他，擔心他是不是出了什麼事。<hex:02100103>可以的話，想請你幫我一起找找他，好嗎？
-55,TEXT_FESANV901_04765_KIPIHJAKKYA_000_008,謝謝你！真是幫大忙了！
-56,TEXT_FESANV901_04765_KIPIHJAKKYA_000_009,我的弟弟名叫納吉·阿·嘉奇亞！<hex:02100103>年紀大概16歲左右，頭髮的顏色跟我差不多，身高也幾乎一樣……<hex:02100103>他從小就憧憬著冒險者，最近終於如願成為了冒險者。
-57,TEXT_FESANV901_04765_KIPIHJAKKYA_000_010,對了，既然你也是冒險者……<hex:02100103>作為同行，應該知道點什麼吧？
-58,TEXT_FESANV901_04765_Q1_000_000,要說什麼？
-59,TEXT_FESANV901_04765_A1_000_001,沒聽過這個名字
-60,TEXT_FESANV901_04765_A1_000_002,不知道
-61,TEXT_FESANV901_04765_A1_000_003,上次的新生慶典中遇到過他
-62,TEXT_FESANV901_04765_KIPIHJAKKYA_000_011,也是啊……<hex:02100103>不過，既然在城裡找不到他，<hex:02100103>他也許是遇到什麼事出城去了？
-63,TEXT_FESANV901_04765_KIPIHJAKKYA_000_012,是嗎？你在上次新生慶典的時候見過他？<hex:02100103>還陪著他註冊了冒險者？<hex:02100103>哇……這可真巧啊！
-64,TEXT_FESANV901_04765_KIPIHJAKKYA_000_013,不過，就算是這樣你也不可能知道他現在在哪裡吧。<hex:02100103>既然在城裡找不到他，他也許是遇到什麼事出城去了？
-65,TEXT_FESANV901_04765_KIPIHJAKKYA_000_014,要是這樣的話……對了，我們分頭去找找情報，<hex:02100103>看看有沒有人知道納吉去了哪裡！
-66,TEXT_FESANV901_04765_KIPIHJAKKYA_000_015,我去流沙屋那邊打聽一下消息。<hex:02100103>麻煩你負責在這邊打聽吧，<hex:02100103>看看那些跟冒險者關係好的人知不知道他的行蹤。
-67,TEXT_FESANV901_04765_KIPIHJAKKYA_000_016,你要是有了什麼消息，就到流沙屋邊上來找我匯合吧。<hex:02100103>那就拜託你啦！
-68,TEXT_FESANV901_04765_ADVENTURERA04765_100_017,每到新生慶典的時候，<hex:02100103>就會覺得自己得再拿出點幹勁來才行。<hex:02100103>不知道今天我能接到什麼委託呢？
-69,TEXT_FESANV901_04765_MOB04765_200_017,你是冒險者吧？<hex:02100103>歡迎回到新生慶典期間熱鬧的烏爾達哈來。<hex:02100103>今年我們也準備了面向新生慶典的活動，還請你一定要盡情享受。
-70,TEXT_FESANV901_04765_KIPIHJAKKYA_000_017,抱歉，請問你們聽說過一個名叫納吉·阿·嘉奇亞的冒險者嗎？<hex:02100103>你們知道他最近去了哪裡嗎？<hex:02100103>什麼消息都好，有聽說過他的事就請告訴我吧……
-71,TEXT_FESANV901_04765_ADVENTURERA04765_000_018,啊？你找我有事嗎？
-72,TEXT_FESANV901_04765_ADVENTURERA04765_000_019,納吉？哦哦，是那個活潑的貓魅族男孩是吧？<hex:02100103>我也不太清楚他現在去哪了，不過剛才我還見過他呢。<hex:02100103>我記得，他好像是接了什麼運輸護送的任務。
-73,TEXT_FESANV901_04765_ADVENTURERA04765_000_020,那孩子，明明人緣看著挺不錯的，<hex:02100103>為什麼接了任務卻不找個搭檔一起去呢？<hex:02100103>聽說最近路上的強盜又變多了，我也有點擔心他呢……
-74,TEXT_FESANV901_04765_ADVENTURERA04765_000_021,我也不太清楚他去哪了，不過剛才我還見過他呢。<hex:02100103>我記得，他好像是接了什麼運輸護送的任務吧。
-75,TEXT_FESANV901_04765_BRAN_000_022,啊，你是那個，幫忙撿過漂流瓶的冒險者吧……<hex:02100103>好久不見，見到你真高興。
-76,TEXT_FESANV901_04765_BRAN_100_022,你是在工作嗎？<hex:02100103>就由我這個資訊雜誌«海港新聞»的專業記者布蘭來幫幫你吧，<hex:02100103>有什麼問題你儘管問。
-77,TEXT_FESANV901_04765_BRAN_000_023,啊，你是冒險者吧？<hex:02100103>我是資訊雜誌«海港新聞»的專業記者布蘭，<hex:02100103>找我有事嗎？
-78,TEXT_FESANV901_04765_BRAN_000_024,這樣，找人啊……<hex:02100103>抱歉，我對這個人不太了解。<hex:02100103>我剛才正在為了新生慶典的稿子採訪異國的詩人呢。
-79,TEXT_FESANV901_04765_BRAN_000_025,異國的詩人不是每逢新生慶典都會準備些活動嗎？<hex:02100103>這一次他好像也想出了什麼奇怪的新點子哦。<hex:02100103>好像叫留言樹之類的東西……
-80,TEXT_FESANV901_04765_BRAN_000_026,如果你感興趣的話，<hex:02100103>也可以去找異國的詩人聊聊？<hex:02100103>他現在應該還是在來生迴廊的黃金廣場那邊吧。
-81,TEXT_FESANV901_04765_BRAN_000_027,異國的詩人不是每逢新生慶典都會準備些活動嗎？<hex:02100103>這次好像也想到了什麼新點子。<hex:02100103>他現在應該在黃金廣場那邊，你可以去問問他。
-82,TEXT_FESANV901_04765_MOB04765_000_028,啊，你是……冒險者吧？<hex:02100103>有什麼事嗎？
-83,TEXT_FESANV901_04765_MOB04765_000_029,原來如此，你正在找一個名叫納吉的冒險者啊。<hex:02100103>那正好，我聽說異國的詩人委託了這位冒險者<hex:02100103>一件和新生慶典有關的重要工作。
-84,TEXT_FESANV901_04765_MOB04765_000_030,具體的情況我也不太清楚，請你直接去問異國的詩人吧。<hex:02100103>不過……我現在也不太清楚他人在哪裡，<hex:02100103>非常抱歉，只有請你自己去找找他了。
-85,TEXT_FESANV901_04765_MOB04765_000_031,異國的詩人把一件和新生慶典有關的重要工作委託給了冒險者納吉。<hex:02100103>如果你知道異國的詩人在哪裡的話，<hex:02100103>也許可以直接問問他知不知道納吉在哪裡。
-86,TEXT_FESANV901_04765_SYSTEM_000_032,納吉似乎接受了一件與新生慶典有關的委託，<hex:02100103>請前往來生迴廊的黃金廣場，<hex:02100103>向委託人異國的詩人直接詢問他的近況。
-87,TEXT_FESANV901_04765_WANDERINGMINSTREL_000_040,是你啊！你好！<hex:02100103>好久不見了，沒想到會在這裡遇到你。<hex:02100103>你這是在忙什麼？
-88,TEXT_FESANV901_04765_WANDERINGMINSTREL_000_041,原來如此，納吉的姐姐正在找他啊。<hex:02100103>確實是我委託了納吉，我大概知道他現在在哪裡。
-89,TEXT_FESANV901_04765_WANDERINGMINSTREL_000_042,你好啊，你是冒險者吧？<hex:02100103>找我有事嗎？
-90,TEXT_FESANV901_04765_WANDERINGMINSTREL_000_043,這樣啊，確實，我為冒險者的活躍表現寫了很多詩，<hex:02100103>因此被人稱為異國的詩人。<hex:02100103>另外，你說的納吉的事，我也大概知道他的去向。
-91,TEXT_FESANV901_04765_WANDERINGMINSTREL_000_044,就讓我按著順序簡單說明一下吧，所謂新生慶典<hex:02100103>是為了悼念在第七靈災中犧牲的人，並展望明天的節日。<hex:02100103>這次活動的過程裡，我們會舉辦一個叫留言樹的活動。
-92,TEXT_FESANV901_04765_WANDERINGMINSTREL_000_045,向靈災後仍在你身邊或已經離你而去的人表達感謝和鼓勵……<hex:02100103>現在正在向大家匿名徵集表達此類情感的信件，準備裝飾在這裡，<hex:02100103>讓來參加新生慶典的賓客們自由閱覽。
-93,TEXT_FESANV901_04765_WANDERINGMINSTREL_000_046,我委託給納吉的工作，就是請他保護陸行鳥篷車，<hex:02100103>將裝飾留言樹要用的信件，安全送到烏爾達哈。
-94,TEXT_FESANV901_04765_WANDERINGMINSTREL_000_047,其實納吉還用通訊珠聯繫了我，<hex:02100103>說黑衣森林那邊的信件都已經集齊了，現在正在回來的路上了。<hex:02100103>我記得他說，他會從黑塵驛站那邊回烏爾達哈。
-95,TEXT_FESANV901_04765_WANDERINGMINSTREL_000_048,這麼說來，這個時候他應該已經到了才對啊。<hex:02100103>非常抱歉，能請你幫我去找找他嗎？
-96,TEXT_FESANV901_04765_WANDERINGMINSTREL_100_048,我得留在這裡準備留言樹，你願意幫忙真是太好了。<hex:02100103>納吉如果遇到意外耽擱了，那就應該是在黑塵驛站附近……<hex:02100103>能請你把這個消息也告訴琪琵一聲嗎？
-97,TEXT_FESANV901_04765_WANDERINGMINSTREL_000_049,納吉如果遇到了什麼意外耽擱了，<hex:02100103>那他最有可能就是在黑塵驛站附近，<hex:02100103>希望你能和琪琵一起找到他。
-98,TEXT_FESANV901_04765_KIPIHJAKKYA_000_050,歡迎回來。<hex:02100103>你問到什麼關於納吉的消息了嗎？
-99,TEXT_FESANV901_04765_KIPIHJAKKYA_000_051,原來如此……是異國的詩人委託了納吉，<hex:02100103>讓他給篷車當護衛嗎？
-100,TEXT_FESANV901_04765_KIPIHJAKKYA_000_052,他最後聯絡的時候提到了黑塵驛站對吧，<hex:02100103>那我們就去那邊看看情況，<hex:02100103>說不定能找到什麼線索！
-101,TEXT_FESANV901_04765_MOBA04765_100_055,快！快去求援！
-102,TEXT_FESANV901_04765_KIPIHJAKKYA_000_055,你來啦！<hex:02100103>來得正好，這個人剛才好像看到了什麼……
-103,TEXT_FESANV901_04765_MOBA04765_000_056,你是冒險者吧！太好了！<hex:02100103>我剛才路過執掌峽谷的時候，<hex:02100103>看到遠處有陸行鳥篷車被強盜襲擊了！
-104,TEXT_FESANV901_04765_MOBA04765_000_057,那群傢伙，肯定是盤踞在這附近的屈伊伯龍一家。<hex:02100103>他們經常襲擊路人，是一群窮凶極惡的不法之徒。
-105,TEXT_FESANV901_04765_MOBA04765_100_057,那輛篷車的護衛只有一個年輕人……<hex:02100103>他現在搞不好已經輸給那群不法之徒了，<hex:02100103>你能去救救他嗎？！
-106,TEXT_FESANV901_04765_KIPIHJAKKYA_000_058,糟了！那一定就是納吉！<hex:02100103>我們快去幫忙！
-107,TEXT_FESANV901_04765_NHAGIAJAKKYA_000_059,該死！一個接著一個！
-108,TEXT_FESANV901_04765_BANDITA04765_000_060,小鬼還挺難纏，但是你的好運到此為止了！
-109,TEXT_FESANV901_04765_KIPIHJAKKYA_000_061,你們幾個！給我住手！<hex:02100103>不許碰我的弟弟！<hex:02100103>不然我要你們好看！
-110,TEXT_FESANV901_04765_KIPIHJAKKYA_000_062,……這邊這位可是超級無敵強大的冒險者！<hex:02100103>一定會叫你們好看的！
-111,TEXT_FESANV901_04765_BANDITA04765_000_063,嘖！這氣場，<hex:02080DE905FF04>她<hex:FF04>他<hex:03>不是普通人！<hex:02100103>被這小鬼拖太久了嗎……我們撤！
-112,TEXT_FESANV901_04765_KIPIHJAKKYA_000_064,納吉！你受傷了嗎？！<hex:02100103>你還能站起來嗎？要緊嗎？
-113,TEXT_FESANV901_04765_NHAGIAJAKKYA_000_065,姐姐……還有，<hex:022903EB0203>？！<hex:02100103>謝謝你們來救我。<hex:02100103>沒想到你們會趕來幫忙！
-114,TEXT_FESANV901_04765_Q2_000_000,要跟他說什麼？
-115,TEXT_FESANV901_04765_A2_000_001,你最近過得怎麼樣？
-116,TEXT_FESANV901_04765_A2_000_002,你是……？
-117,TEXT_FESANV901_04765_NHAGIAJAKKYA_000_066,挺好，挺好的，挺健康的！<hex:02100103>我好開心啊，你還記得我……
-118,TEXT_FESANV901_04765_NHAGIAJAKKYA_000_067,是啊……也是啊……<hex:02100103>你遇到我的時候都是上次新生慶典的事情了，已經把我給忘了吧。<hex:02100103>我這麼大驚小怪的，抱歉……
-119,TEXT_FESANV901_04765_NHAGIAJAKKYA_000_068,好久不見，姐姐。<hex:02100103>我傷得不是很嚴重，你放心吧。
-120,TEXT_FESANV901_04765_KIPIHJAKKYA_000_070,那就好……<hex:02100103>之後要好好治療一下哦。
-121,TEXT_FESANV901_04765_KIPIHJAKKYA_000_071,<hex:022903EB0203>也是，<hex:02100103>沒想到你只是露個面，就把強盜都嚇跑了，這招可真棒啊！<hex:02100103>……真沒想到納吉能認識你這樣厲害的人。
-122,TEXT_FESANV901_04765_NHAGIAJAKKYA_000_072,我剛到烏爾達哈的時候，第一個跟我打招呼的就是<hex:022903EB0203>。<hex:02100103><hex:02080DE905FF04>她<hex:FF04>他<hex:03>還陪我註冊了冒險者，給我介紹各個公會。<hex:02100103>陪我完成了第一個任務，是我的大恩人。
-123,TEXT_FESANV901_04765_NHAGIAJAKKYA_000_073,不過，不需要戰鬥就能嚇退敵人……<hex:02100103>雖然我從前就有點猜到了，但你果然是一位很厲害的冒險者吧。
-124,TEXT_FESANV901_04765_NHAGIAJAKKYA_000_074,姐姐，好久不見……對不起讓你擔心了。<hex:02100103>我傷得不是很嚴重，你放心吧。
-125,TEXT_FESANV901_04765_KIPIHJAKKYA_000_075,那就好……<hex:02100103>之後要好好治療一下哦。
-126,TEXT_FESANV901_04765_NHAGIAJAKKYA_000_076,說起來，你也是冒險者吧……<hex:02100103>謝謝你救了我。<hex:02100103>能告訴我你的名字嗎？
-127,TEXT_FESANV901_04765_NHAGIAJAKKYA_000_077,<hex:022903EB0203>嗎……<hex:02100103>能憑氣勢就嚇退強盜，你真的好厲害啊。<hex:02100103>你一定是一位很強大的冒險者吧！
-128,TEXT_FESANV901_04765_NHAGIAJAKKYA_000_078,跟你一比……我就完全不行了。<hex:02100103>我也要變得更強，變成能獨自戰鬥的冒險者……<hex:02100103>不然……姐姐肯定不會認可我的。
-129,TEXT_FESANV901_04765_KIPIHJAKKYA_000_079,你說我……？
-130,TEXT_FESANV901_04765_NHAGIAJAKKYA_000_080,對了，現在不是說這些的時候。<hex:02100103>我和旅行商人<hex:02092DE947FF0D>布萊蒙迪<hex:FF0D>布萊蒙達<hex:FF0D>布萊蒙德<hex:03>還要繼續運送新生慶典的貨物呢，<hex:02100103>回去了之後也還要交貨和報告任務。
-131,TEXT_FESANV901_04765_NHAGIAJAKKYA_000_081,這麼慌慌張張的，真不好意思，<hex:02100103>但我現在得盡快趕回烏爾達哈去了。
-132,TEXT_FESANV901_04765_KIPIHJAKKYA_000_083,既然這樣……我也想過去打個招呼，<hex:02100103>我們就先回異國的詩人那裡去吧。
-133,TEXT_FESANV901_04765_KIPIHJAKKYA_000_090,<hex:022903EB0203>。<hex:02100103>這次多謝了。<hex:02100103>看到納吉沒事我就放心了。
-134,TEXT_FESANV901_04765_KIPIHJAKKYA_000_091,不過，他剛才小聲嘟囔的那幾句話……<hex:02100103>我有點在意啊。
-135,TEXT_FESANV901_04765_NHAGIAJAKKYA_000_092,我姐姐治療的時候挺粗暴的吧。<hex:02100103>是因為我遲到了，所以她很生氣嗎？
-136,TEXT_FESANV901_04765_WANDERINGMINSTREL_000_094,你們好啊，歡迎回來。<hex:02100103>納吉沒事真是太好了。
-137,TEXT_FESANV901_04765_WANDERINGMINSTREL_000_095,我聽執行委員會的人說你已經把信件安全送到了，<hex:02100103>多虧了你，我們才能完成留言樹的準備工作，<hex:02100103>真是辛苦你了。
-138,TEXT_FESANV901_04765_NHAGIAJAKKYA_000_096,對不起，我沒能按時送達，其實我……
-139,TEXT_FESANV901_04765_NHAGIAJAKKYA_000_097,要不是<hex:022903EB0203>幫忙，<hex:02100103>不只是我，信件和旅行商人也都要遭殃……<hex:02100103>我真是一點用都沒有……
-140,TEXT_FESANV901_04765_WANDERINGMINSTREL_000_098,原來如此，發生了這樣的事啊……
-141,TEXT_FESANV901_04765_WANDERINGMINSTREL_000_099,我作為委託人，也得要謝謝你才行。<hex:02100103>非常感謝你救了他。
-142,TEXT_FESANV901_04765_WANDERINGMINSTREL_000_100,不過，納吉你也不是什麼都沒做吧？<hex:02100103>你在救援到來之前，不是成功守住了信件和旅行商人嗎？<hex:02100103>沒必要這麼自卑。
-143,TEXT_FESANV901_04765_NHAGIAJAKKYA_000_101,這不一樣的。<hex:02100103><hex:022903EB0203>一個人就趕走了那麼多的強盜，<hex:02100103>而且只是瞪了對方一眼……
-144,TEXT_FESANV901_04765_NHAGIAJAKKYA_000_102,跟<hex:02080DE905FF04>她<hex:FF04>他<hex:03>一比，我要努力的地方還有很多，<hex:02100103>我要努力成為不依賴任何人，能夠獨自戰鬥、獨自完成任務的人！<hex:02100103>只有這樣才算是一個厲害的冒險者！
-145,TEXT_FESANV901_04765_KIPIHJAKKYA_000_103,不依賴任何人……
-146,TEXT_FESANV901_04765_KIPIHJAKKYA_000_104,那個，納吉啊，莫非你一直以來……<hex:02100103>都是獨自一人完成冒險任務，沒有依靠過任何人嗎？<hex:02100103>不管去多麼危險的地方，你都是一個人去的？
-147,TEXT_FESANV901_04765_NHAGIAJAKKYA_000_105,是啊！只有不需要依賴別人的人，才能叫厲害的冒險者吧？<hex:02100103>我想成為一個能被姐姐你認可的冒險者……<hex:02100103>所以我才決定，不管是什麼任務，我都要一個人完成。
-148,TEXT_FESANV901_04765_KIPIHJAKKYA_000_106,……是嗎。
-149,TEXT_FESANV901_04765_KIPIHJAKKYA_000_107,這樣的話……納吉。<hex:02100103>姐姐我反對你繼續做冒險者。<hex:02100103>你還是先回到姨媽他們生活的村子裡去吧。
-150,TEXT_FESANV901_04765_NHAGIAJAKKYA_000_108,什麼……姐姐你為什麼要這麼說？<hex:02100103>我說我當上了冒險者的時候，姐姐你不是也很高興嗎？！
-151,TEXT_FESANV901_04765_NHAGIAJAKKYA_000_109,為了讓姐姐你承認我才一直努力到現在，<hex:02100103>你怎麼能這麼說我……
-152,TEXT_FESANV901_04765_KIPIHJAKKYA_000_110,你對冒險者這個詞的理解完全大錯特錯了。<hex:02100103>直到你想明白你錯在哪裡之前，<hex:02100103>我都絕不會認可你納吉·阿·嘉奇亞是一個冒險者的。
-153,TEXT_FESANV901_04765_KIPIHJAKKYA_000_111,……如果納吉你還想要當冒險者的話，<hex:02100103>就好好想想要如何得到我的認可吧。<hex:02100103>你應該回頭想一想，你是為了什麼踏上旅途的。
-154,TEXT_FESANV901_04765_NHAGIAJAKKYA_000_112,好吧……那就讓我一個人想想吧。
-155,TEXT_FESANV901_04765_WANDERINGMINSTREL_000_121,對冒險者有錯誤的理解……<hex:02100103>也就是說琪琵是在問對納吉來說冒險者是什麼……<hex:02100103>這個問題很有意思……如果是你的話，你會怎麼回答？
-156,TEXT_FESANV901_04765_KIPIHJAKKYA_000_122,<hex:022903EB0203>，真對不起。<hex:02100103>事情突然變成了這樣，嚇到你了吧。
-157,TEXT_FESANV901_04765_KIPIHJAKKYA_000_123,雖然對納吉說了這種話，但我其實還是支持我弟弟的。<hex:02100103>他好好工作，我當然覺得很好。
-158,TEXT_FESANV901_04765_KIPIHJAKKYA_000_124,但剛才那種情況，要不是運氣好，他現在已經死了……<hex:02100103>就算好運沒有出大事，他今後總會碰上別的困難。<hex:02100103>所以，我需要讓他盡早理解冒險的本質。
-159,TEXT_FESANV901_04765_KIPIHJAKKYA_000_125,倒不如說，他怎麼開口閉口都是姐姐、姐姐的……<hex:02100103>比起追求我的認可，或者跟別人攀比，<hex:02100103>好好享受旅行不好嗎？他可真是的！
+0,"TEXT_FESANV901_04765_SEQ_00","Kipih Jakkya is looking a worried sister.<hex:02100103>※This quest is available for a limited time only."
+1,"TEXT_FESANV901_04765_SEQ_01","Kipih Jakkya, a reporter for <hex:021A020203>The Raven<hex:021A020103>, was meant to meet her brother Nhagi'a during the Rising celebration, but the appointed hour has come and gone without him appearing. You are tasked with helping to find the lad, beginning by making inquiries at the Ruby Road Exchange.<hex:02100103><hex:02100103>※Please note that you will be unable to complete this quest after the seasonal event has ended. For details, please check the Lodestone."
+2,"TEXT_FESANV901_04765_SEQ_02","You learn from the locals that Nhagi'a is performing some manner of work for the wandering minstrel. Thus informed, you make your way to the Gold Court to find the musician."
+3,"TEXT_FESANV901_04765_SEQ_03","The wandering minstrel tells you that he is hosting an exhibit called the letter forest, which displays anonymously penned letters of gratitude and encouragement. In order to collect letters from outside of Ul'dah, the man has dispatched a chocobo carriage with Nhagi'a as an escort. However, the carriage is late to return, and the minstrel apologetically asks you to conduct a search. Having thus found a likely lead, you bear the news to Kipih, who awaits you near the Quicksand."
+4,"TEXT_FESANV901_04765_SEQ_04","You apprise Kipih of your findings. As the wandering minstrel suggested, you take yourselves to Black Brush Station to look for the carriage and Nhagi'a."
+5,"TEXT_FESANV901_04765_SEQ_05","No sooner do you arrive at Black Brush Station than you learn from a traveling merchant that bandits have fallen upon a carriage over by the Clutch. Wasting no time, you and Kipih rush to the scene and scare the highwaymen away before they can overwhelm Nhagi'a. Thus are the siblings reunited─although Nhagi'a's utterance that he needs to grow stronger to gain Kipih's approval appears to give her pause. Nhagi'a then continues on to Ul'dah with the carriage to complete his delivery, and you and Kipih likewise head back to join the wandering minstrel at the Gold Court."
+6,"TEXT_FESANV901_04765_SEQ_06","Reporting to the minstrel, Nhagi'a is critical of himself for needing your help to complete his task. His obsession with doing everything alone does not sit well with Kipih, who declares that she can't consent to his being an adventurer any longer. If he wishes to remain one, he must win her over─and it begins with pondering why he first embarked upon this path. Though saddened, Nhagi'a agrees to think on the matter and goes off, leaving you with the minstrel and a grim-faced Kipih."
+7,"TEXT_FESANV901_04765_SEQ_07","Despite how it may have appeared, Kipih assures you that she wants her brother to succeed and be happy. However, she is worried that unless he changes his ways, he is likely to meet an early demise, or at best know an arduous life."
+8,"TEXT_FESANV901_04765_SEQ_08",""
+9,"TEXT_FESANV901_04765_SEQ_09",""
+10,"TEXT_FESANV901_04765_SEQ_10",""
+11,"TEXT_FESANV901_04765_SEQ_11",""
+12,"TEXT_FESANV901_04765_SEQ_12",""
+13,"TEXT_FESANV901_04765_SEQ_13",""
+14,"TEXT_FESANV901_04765_SEQ_14",""
+15,"TEXT_FESANV901_04765_SEQ_15",""
+16,"TEXT_FESANV901_04765_SEQ_16",""
+17,"TEXT_FESANV901_04765_SEQ_17",""
+18,"TEXT_FESANV901_04765_SEQ_18",""
+19,"TEXT_FESANV901_04765_SEQ_19",""
+20,"TEXT_FESANV901_04765_SEQ_20",""
+21,"TEXT_FESANV901_04765_SEQ_21",""
+22,"TEXT_FESANV901_04765_SEQ_22",""
+23,"TEXT_FESANV901_04765_SEQ_23",""
+24,"TEXT_FESANV901_04765_TODO_00","Gather information at the Ruby Road Exchange."
+25,"TEXT_FESANV901_04765_TODO_01","Speak with the wandering minstrel at the Gold Court."
+26,"TEXT_FESANV901_04765_TODO_02","Speak with Kipih Jakkya in front of the Quicksand."
+27,"TEXT_FESANV901_04765_TODO_03","Speak with Kipih Jakkya at Black Brush Station."
+28,"TEXT_FESANV901_04765_TODO_04","Speak with the wandering minstrel at the Gold Court."
+29,"TEXT_FESANV901_04765_TODO_05","Speak with Kipih Jakkya."
+30,"TEXT_FESANV901_04765_TODO_06",""
+31,"TEXT_FESANV901_04765_TODO_07",""
+32,"TEXT_FESANV901_04765_TODO_08",""
+33,"TEXT_FESANV901_04765_TODO_09",""
+34,"TEXT_FESANV901_04765_TODO_10",""
+35,"TEXT_FESANV901_04765_TODO_11",""
+36,"TEXT_FESANV901_04765_TODO_12",""
+37,"TEXT_FESANV901_04765_TODO_13",""
+38,"TEXT_FESANV901_04765_TODO_14",""
+39,"TEXT_FESANV901_04765_TODO_15",""
+40,"TEXT_FESANV901_04765_TODO_16",""
+41,"TEXT_FESANV901_04765_TODO_17",""
+42,"TEXT_FESANV901_04765_TODO_18",""
+43,"TEXT_FESANV901_04765_TODO_19",""
+44,"TEXT_FESANV901_04765_TODO_20",""
+45,"TEXT_FESANV901_04765_TODO_21",""
+46,"TEXT_FESANV901_04765_TODO_22",""
+47,"TEXT_FESANV901_04765_TODO_23",""
+48,"TEXT_FESANV901_04765_KIPIHJAKKYA_000_001","Oh, if it isn't <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! It's been too long, my friend."
+49,"TEXT_FESANV901_04765_KIPIHJAKKYA_000_002","Oh, if it isn't <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! It's always a pleasure, my friend."
+50,"TEXT_FESANV901_04765_KIPIHJAKKYA_000_003","And how fortuitous that you should appear now, just when I'm in need of help again. Pray hear me out."
+51,"TEXT_FESANV901_04765_KIPIHJAKKYA_000_004","Hm? You're an adventurer, by the looks of you... Perhaps you could assist me."
+52,"TEXT_FESANV901_04765_KIPIHJAKKYA_000_005","I am Kipih Jakkya, reporter for Gridania's leading tabloid, <hex:021A020203>The Raven<hex:021A020103>, and I'm in need of help. Pray hear me out."
+53,"TEXT_FESANV901_04765_KIPIHJAKKYA_000_006","You see, my brother recently wrote saying that he wished to meet me in Ul'dah during the Rising celebration. However, the appointed hour has come and gone, but I've seen neither hide nor hair of him."
+54,"TEXT_FESANV901_04765_KIPIHJAKKYA_000_007","I've checked all the likely places in the city to no avail, and am beginning to worry. If it isn't too much trouble, may I ask you to help me find him?"
+55,"TEXT_FESANV901_04765_KIPIHJAKKYA_000_008","I'm in your debt!"
+56,"TEXT_FESANV901_04765_KIPIHJAKKYA_000_009","Now, my brother is a youth of sixteen by the name of Nhagi. He recently became an adventurer─something he had aspired to since he was little."
+57,"TEXT_FESANV901_04765_KIPIHJAKKYA_000_010","Being an adventurer yourself, perhaps you know of him if not crossed paths?"
+58,"TEXT_FESANV901_04765_Q1_000_000","What will you say?"
+59,"TEXT_FESANV901_04765_A1_000_001","I'm not familiar with the name, alas."
+60,"TEXT_FESANV901_04765_A1_000_002","I've never heard of him."
+61,"TEXT_FESANV901_04765_A1_000_003","We met at the previous Rising."
+62,"TEXT_FESANV901_04765_KIPIHJAKKYA_000_011","Aye, well, it would be too much of a coincidence, I suppose... At any rate, if he isn't in the city, chances are he went outside on some business."
+63,"TEXT_FESANV901_04765_KIPIHJAKKYA_000_012","Not only did you meet him, you helped him on his way, you say? What an amazing coincidence!"
+64,"TEXT_FESANV901_04765_KIPIHJAKKYA_000_013","That being said, it doesn't necessarily mean you would know where he is now... If he isn't in the city, though, chances are he went outside on some business."
+65,"TEXT_FESANV901_04765_KIPIHJAKKYA_000_014","To begin with, I propose we split up and make inquiries in case someone has seen him."
+66,"TEXT_FESANV901_04765_KIPIHJAKKYA_000_015","If you could focus on this area, I shall speak with those in the Quicksand."
+67,"TEXT_FESANV901_04765_KIPIHJAKKYA_000_016","Afterwards, let us reconvene by the entrance to the tavern."
+68,"TEXT_FESANV901_04765_ADVENTURERA04765_100_017","Whenever the Rising comes around, I feel that little bit more thankful for what I've got. I'm goin' to do someone a good turn today, yes I will."
+69,"TEXT_FESANV901_04765_MOB04765_200_017","The Rising is in full swing in Ul'dah. Please join us in remembering those who left us in the Calamity, and looking forward to a brighter future together."
+70,"TEXT_FESANV901_04765_KIPIHJAKKYA_000_017","Excuse me, but I'm looking for an adventurer named Nhagi'a Jakkya..."
+71,"TEXT_FESANV901_04765_ADVENTURERA04765_000_018","Hm? Somethin' you need?"
+72,"TEXT_FESANV901_04765_ADVENTURERA04765_000_019","Oh, Nhagi. Aye, I know the sprightly lad. Couldn't say where he is now, but last I saw him, he mentioned takin' on some delivery work."
+73,"TEXT_FESANV901_04765_ADVENTURERA04765_000_020","He's a curious one, he is. Gets along with everyone well enough, but doesn't seem to like workin' in a team. What with talk of bandits prowlin' the road of late, I can't help but worry."
+74,"TEXT_FESANV901_04765_ADVENTURERA04765_000_021","As I said, I couldn't say where Nhagi is now, but he mentioned takin' on some delivery work. Might be as that's what he's out doin'."
+75,"TEXT_FESANV901_04765_BRAN_000_022","Well, slap me silly with a harbor herring! If it isn't the adventurer who gave this gaz a story for the ages by bringin' that letter in a bottle way back when."
+76,"TEXT_FESANV901_04765_BRAN_100_022","So, what can Bran do for you this fine <hex:020836E3E90C0DFF18><hex:020814E3E90C05FF08>evening<hex:FF05>morn<hex:03><hex:FF17><hex:020813E3E90C12FF04>day<hex:FF08>evening<hex:03><hex:03>?"
+77,"TEXT_FESANV901_04765_BRAN_000_023","Something I can do for you, adventurer? If you've business with Bran, best state it quickly. This gaz has leads to follow and incidents to investigate for the <hex:021A020203>Harbor Herald<hex:021A020103>."
+78,"TEXT_FESANV901_04765_BRAN_000_024","I see... With apologies, I haven't seen this Nhagi. As a matter of fact, I've been rather busy workin' on my upcomin' piece on the Rising."
+79,"TEXT_FESANV901_04765_BRAN_000_025","Why, just earlier I was interviewin' the ever-enigmatic wandering minstrel, who's got another unusual venture in the offin'. The letter forest, he calls it."
+80,"TEXT_FESANV901_04765_BRAN_000_026","If that piques your interest, I recommend you go and see the man. He's at the Gold Court, over on the Steps of Thal."
+81,"TEXT_FESANV901_04765_BRAN_000_027","If you're interested in the letter forest, I recommend you go and see the wandering minstrel. He's at the Gold Court, over on the Steps of Thal."
+82,"TEXT_FESANV901_04765_MOB04765_000_028","Greetings, adventurer. How may I assist you?"
+83,"TEXT_FESANV901_04765_MOB04765_000_029","Oh, Nhagi. I understand he is doing some work for the wandering minstrel."
+84,"TEXT_FESANV901_04765_MOB04765_000_030","I daresay his client can point you in the right direction...if you can track the man down, that is. I'm afraid I don't know his whereabouts at present."
+85,"TEXT_FESANV901_04765_MOB04765_000_031","I understand Nhagi is doing some work for the wandering minstrel. If you can track the man down, I daresay he can point you in the right direction."
+86,"TEXT_FESANV901_04765_SYSTEM_000_032","It appears Nhagi is carrying out some work for the wandering minstrel. If you talk to the man at the Gold Court, you should be able to learn more."
+87,"TEXT_FESANV901_04765_WANDERINGMINSTREL_000_040","Ah, my dear friend, what a pleasant surprise this is! I trust you have been keeping well. Now then, how might this minstrel be of service?"
+88,"TEXT_FESANV901_04765_WANDERINGMINSTREL_000_041","So Nhagi's sister wishes to find him... Indeed, I have entrusted him with a task, and have an inkling as to where he might be."
+89,"TEXT_FESANV901_04765_WANDERINGMINSTREL_000_042","Greetings, friend. By your dauntless bearing, I assume you are an adventurer. How might this minstrel be of service?"
+90,"TEXT_FESANV901_04765_WANDERINGMINSTREL_000_043","So Nhagi's sister wishes to find him... Indeed, I have entrusted him with a task, and have an inkling as to where he might be."
+91,"TEXT_FESANV901_04765_WANDERINGMINSTREL_000_044","As you may have heard, on the occasion of this Rising celebration, I am hosting an exhibit called the letter forest."
+92,"TEXT_FESANV901_04765_WANDERINGMINSTREL_000_045","All are invited to anonymously submit letters to this forest and express their gratitude and encouragement for another, and all may peruse the letters at their leisure."
+93,"TEXT_FESANV901_04765_WANDERINGMINSTREL_000_046","Now, in order to collect missives from outside of Ul'dah, I have dispatched a chocobo carriage. Nhagi is escorting said carriage."
+94,"TEXT_FESANV901_04765_WANDERINGMINSTREL_000_047","When he contacted me on linkpearl a while ago, he said that they had emerged from the Twelveswood on their way back to Ul'dah. Given the hour, they should have already arrived..."
+95,"TEXT_FESANV901_04765_WANDERINGMINSTREL_000_048","I know not what is causing the delay, but might I trouble you to look for them? I would go myself, except I am needed here at present."
+96,"TEXT_FESANV901_04765_WANDERINGMINSTREL_100_048","I'm truly grateful. In case it helps, the carriage was meant to pass through Black Brush Station, so perhaps you could take your search to that area. I pray that nothing has befallen them."
+97,"TEXT_FESANV901_04765_WANDERINGMINSTREL_000_049","As I mentioned, the carriage was meant to pass through Black Brush Station. That may be a sound place for you to begin your search."
+98,"TEXT_FESANV901_04765_KIPIHJAKKYA_000_050","There you are. Were you able to learn aught of Nhagi?"
+99,"TEXT_FESANV901_04765_KIPIHJAKKYA_000_051","Escorting a carriage for the minstrel, so that is the way of it..."
+100,"TEXT_FESANV901_04765_KIPIHJAKKYA_000_052","As suggested, let us take ourselves to Black Brush Station and try searching in the vicinity!"
+101,"TEXT_FESANV901_04765_MOBA04765_100_055","<huff> Need to get help..."
+102,"TEXT_FESANV901_04765_KIPIHJAKKYA_000_055","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! No sooner did I arrive than this man came running, out of breath..."
+103,"TEXT_FESANV901_04765_MOBA04765_000_056","(-Midlander Merchant-)You're an adventurer? Thank the Twelve!"
+104,"TEXT_FESANV901_04765_MOBA04765_000_057","(-Midlander Merchant-)It's the bandits from the Quiveron Manse─they've fallen on a chocobo carriage over by the Clutch!"
+105,"TEXT_FESANV901_04765_MOBA04765_100_057","The carriage only had one guard, and he was sorely outnumbered. Please, you must help him!"
+106,"TEXT_FESANV901_04765_KIPIHJAKKYA_000_058","That has to be Nhagi... With me, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>!"
+107,"TEXT_FESANV901_04765_NHAGIAJAKKYA_000_059","Damn it... There's no end to them..."
+108,"TEXT_FESANV901_04765_BANDITA04765_000_060","We have you now, you stubborn little shite!"
+109,"TEXT_FESANV901_04765_KIPIHJAKKYA_000_061","Enough! Leave my little brother alone, or Twelve as my witness, you'll receive such a thrashing as you've never known!"
+110,"TEXT_FESANV901_04765_KIPIHJAKKYA_000_062","...From this fearsome adventurer here, that is!"
+111,"TEXT_FESANV901_04765_BANDITA04765_000_063","Th-That's no ordinary <hex:02080FE905FF06>woman<hex:FF04>man<hex:03>! Retreat!"
+112,"TEXT_FESANV901_04765_KIPIHJAKKYA_000_064","Are you all right, Nhagi!?"
+113,"TEXT_FESANV901_04765_NHAGIAJAKKYA_000_065","Sister...and <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> too!? That you should be the one to come to my aid... Thank you."
+114,"TEXT_FESANV901_04765_Q2_000_000","What will you say?"
+115,"TEXT_FESANV901_04765_A2_000_001","How have you been, Nhagi?"
+116,"TEXT_FESANV901_04765_A2_000_002","Um..."
+117,"TEXT_FESANV901_04765_NHAGIAJAKKYA_000_066","Y-You remembered! I've been well! More than well!"
+118,"TEXT_FESANV901_04765_NHAGIAJAKKYA_000_067","So you don't remember me... You can hardly be expected to, I suppose..."
+119,"TEXT_FESANV901_04765_NHAGIAJAKKYA_000_068","I'm sorry I didn't come when I said I would, Sister... Rest assured I'm not too badly hurt."
+120,"TEXT_FESANV901_04765_KIPIHJAKKYA_000_070","That's a relief. I'll take a proper look at your wounds back in the city."
+121,"TEXT_FESANV901_04765_KIPIHJAKKYA_000_071","I must say, I was quite surprised to learn that you had met <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>..."
+122,"TEXT_FESANV901_04765_NHAGIAJAKKYA_000_072","<hex:02080CE905FF04>She<hex:FF03>He<hex:03> helped me when I first arrived in Ul'dah. From registering as an adventurer to completing my first task, <hex:02080CE905FF04>she<hex:FF03>he<hex:03> kindly showed me the ropes."
+123,"TEXT_FESANV901_04765_NHAGIAJAKKYA_000_073","Now, I had suspected that you were a great adventurer, but to send your foes running without even drawing your weapon... That's just incredible!"
+124,"TEXT_FESANV901_04765_NHAGIAJAKKYA_000_074","I'm sorry I didn't come when I said I would, Sister... Rest assured I'm not too badly hurt."
+125,"TEXT_FESANV901_04765_KIPIHJAKKYA_000_075","That's a relief. I'll take a proper look at your wounds back in the city."
+126,"TEXT_FESANV901_04765_NHAGIAJAKKYA_000_076","It seems you're an adventurer too. Thank you for your help. What's your name, if I may ask?"
+127,"TEXT_FESANV901_04765_NHAGIAJAKKYA_000_077","<hex:022903EB0203>... I'll remember it. To send your foes running without even drawing your weapon, you're clearly a great adventurer!"
+128,"TEXT_FESANV901_04765_NHAGIAJAKKYA_000_078","I still have a long way to go, embarrassing myself like I did... If I want Sister's approval, I need to grow stronger and be able to fight on my own..."
+129,"TEXT_FESANV901_04765_KIPIHJAKKYA_000_079","<hex:021A020203>My<hex:021A020103> approval...?"
+130,"TEXT_FESANV901_04765_NHAGIAJAKKYA_000_080","Ah, but first things first: <hex:02091EE947FF08>Brennan<hex:FF09>Bremondt<hex:FF07>Brendt<hex:03> and I have a delivery to make for the Rising."
+131,"TEXT_FESANV901_04765_NHAGIAJAKKYA_000_081","If you'll excuse us, we will hurry back to Ul'dah."
+132,"TEXT_FESANV901_04765_KIPIHJAKKYA_000_083","Let us head back as well. I had a mind to pay the minstrel a visit in any case."
+133,"TEXT_FESANV901_04765_KIPIHJAKKYA_000_090","Thanks to you, Nhagi is safe."
+134,"TEXT_FESANV901_04765_KIPIHJAKKYA_000_091","Still, what he said about making it on his own weighs on my mind..."
+135,"TEXT_FESANV901_04765_NHAGIAJAKKYA_000_092","Sister was none too gentle dressing my wounds... Perhaps she's annoyed I didn't show up as promised."
+136,"TEXT_FESANV901_04765_WANDERINGMINSTREL_000_094","Welcome back, my friends. Pleased am I to see that Nhagi is safe and well."
+137,"TEXT_FESANV901_04765_WANDERINGMINSTREL_000_095","Rising attendants inform me they now have all the letters. With this, we may proceed with the letter forest as planned. Thank you, Nhagi."
+138,"TEXT_FESANV901_04765_NHAGIAJAKKYA_000_096","I'm so sorry I'm late. You see..."
+139,"TEXT_FESANV901_04765_NHAGIAJAKKYA_000_097","Were it not for <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, there's no telling what might have become of the letters and <hex:02091EE947FF08>Brennan<hex:FF09>Bremondt<hex:FF07>Brendt<hex:03>. In the end, I was utterly useless..."
+140,"TEXT_FESANV901_04765_WANDERINGMINSTREL_000_098","So that is how it happened..."
+141,"TEXT_FESANV901_04765_WANDERINGMINSTREL_000_099","As Nhagi's client, allow me to thank you as well for coming to his aid."
+142,"TEXT_FESANV901_04765_WANDERINGMINSTREL_000_100","That being said, my boy, you were far from useless. Nay, you bravely defended the carriage until help arrived. There is no need to belittle yourself so."
+143,"TEXT_FESANV901_04765_NHAGIAJAKKYA_000_101","Well, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> didn't need to rely on anyone. No, <hex:02080CE905FF04>she<hex:FF03>he<hex:03> drove off the bandits with nary more than a stern look. I couldn't hold a candle to <hex:02080DE905FF04>her<hex:FF04>him<hex:03>."
+144,"TEXT_FESANV901_04765_NHAGIAJAKKYA_000_102","Like <hex:02080DE905FF04>her<hex:FF04>him<hex:03>, I want to be able to deal with any problem without help. Otherwise I can't claim to be an adventurer worth his salt."
+145,"TEXT_FESANV901_04765_KIPIHJAKKYA_000_103","Without help..."
+146,"TEXT_FESANV901_04765_KIPIHJAKKYA_000_104","Tell me, Nhagi. All this time, have you been working alone? Even for dangerous tasks?"
+147,"TEXT_FESANV901_04765_NHAGIAJAKKYA_000_105","That's right. A worthy adventurer doesn't rely on others. If I'm to be the kind of adventurer you approve of, I must be able to handle anything by myself."
+148,"TEXT_FESANV901_04765_KIPIHJAKKYA_000_106","I see..."
+149,"TEXT_FESANV901_04765_KIPIHJAKKYA_000_107","If that is what you believe, then I can't consent to you being an adventurer any longer. Return to our village and start over."
+150,"TEXT_FESANV901_04765_NHAGIAJAKKYA_000_108","What? But...you were so happy for me when I became an adventurer!"
+151,"TEXT_FESANV901_04765_NHAGIAJAKKYA_000_109","I'm working so hard to succeed. To prove to you that I have what it takes. But now..."
+152,"TEXT_FESANV901_04765_KIPIHJAKKYA_000_110","You've developed a grave misconception. Until you recognize what it is, I can't in good conscience approve of your calling."
+153,"TEXT_FESANV901_04765_KIPIHJAKKYA_000_111","If you can't accept this─if you wish to remain an adventurer─then you must win me over. And it begins with pondering why you first embarked upon this path."
+154,"TEXT_FESANV901_04765_NHAGIAJAKKYA_000_112","...All right, Sister. I'll think on this."
+155,"TEXT_FESANV901_04765_WANDERINGMINSTREL_000_121","It appears Kipih wants her brother to rethink what adventuring is to him. Had the question been posed to you, what answer would you arrive at, I wonder..."
+156,"TEXT_FESANV901_04765_KIPIHJAKKYA_000_122","I'm sorry you had to see that, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>..."
+157,"TEXT_FESANV901_04765_KIPIHJAKKYA_000_123","Despite how it may have appeared, no one wants my brother to succeed more than I do. To succeed and be happy. After all, I know better than any how hard he works."
+158,"TEXT_FESANV901_04765_KIPIHJAKKYA_000_124","Unless he changes his ways, however, he is like to die somewhere out there. And even if he manages to stay alive, he would only know an arduous life. That's why I didn't go out of my way to be gentle when dressing his wounds."
+159,"TEXT_FESANV901_04765_KIPIHJAKKYA_000_125","If he could just focus on what actually matters... Instead, he obsesses about gaining my approval and compares himself to others... <sigh>"

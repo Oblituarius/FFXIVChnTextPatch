@@ -1,24 +1,24 @@
-﻿key,0,2,8,9
-#,Singular,Plural,Name{Rank},
-offset,0,4,8,12
-int32,str,str,str,str
-0,,,,
-1,二等耀兵,,,
-2,一等耀兵,,,
-3,上等耀兵,,,
-4,耀兵長,,,
-5,協耀士,,,
-6,副耀士,,,
-7,正耀士,,,
-8,耀士長,,,
-9,協耀尉,,,
-10,副耀尉,,,
-11,正耀尉,,,
-12,協耀校,,,
-13,副耀校,,,
-14,正耀校,,,
-15,從耀將,,,
-16,協耀將,,,
-17,副耀將,,,
-18,正耀將,,,
-19,耀輝元帥,,,
+﻿key,0,1,2,3,4,5,6,7,8,9
+#,Singular,Adjective,Plural,PossessivePronoun,StartsWithVowel,,Pronoun,Article,Name{Rank},
+offset,0,16,4,17,18,19,20,21,8,12
+int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,str,str
+0,"",0,"",0,0,0,0,0,"",""
+1,"Flame Private Third Class",0,"Flame Privates Third Class",0,0,0,0,0,"private",""
+2,"Flame Private Second Class",0,"Flame Privates Second Class",0,0,0,0,0,"private",""
+3,"Flame Private First Class",0,"Flame Privates First Class",0,0,0,0,0,"private",""
+4,"Flame Corporal",0,"Flame Corporals",0,0,0,0,0,"corporal",""
+5,"Flame Sergeant Third Class",0,"Flame Sergeants Third Class",0,0,0,0,0,"sergeant",""
+6,"Flame Sergeant Second Class",0,"Flame Sergeants Second Class",0,0,0,0,0,"sergeant",""
+7,"Flame Sergeant First Class",0,"Flame Sergeants First Class",0,0,0,0,0,"sergeant",""
+8,"Chief Flame Sergeant",0,"Chief Flame Sergeants",0,0,0,0,0,"sergeant",""
+9,"Second Flame Lieutenant",0,"Second Flame Lieutenants",0,0,0,0,0,"lieutenant",""
+10,"First Flame Lieutenant",0,"First Flame Lieutenants",0,0,0,0,0,"lieutenant",""
+11,"Flame Captain",0,"Flame Captains",0,0,0,0,0,"captain",""
+12,"Second Flame Commander",0,"Second Flame Commanders",0,0,0,0,0,"commander",""
+13,"First Flame Commander",0,"First Flame Commanders",0,0,0,0,0,"commander",""
+14,"High Flame Commander",0,"High Flame Commanders",0,0,0,0,0,"commander",""
+15,"Rear Flame Marshal",0,"Rear Flame Marshals",0,0,0,0,0,"rear marshal",""
+16,"Vice Flame Marshal",0,"Vice Flame Marshals",0,0,0,0,0,"vice marshal",""
+17,"Flame Marshal",0,"Flame Marshals",0,0,0,0,0,"marshal",""
+18,"Grand Flame Marshal",0,"Grand Flame Marshals",0,0,0,0,0,"grand marshal",""
+19,"Flame Champion",0,"Flame Champions",0,0,0,0,0,"champion",""

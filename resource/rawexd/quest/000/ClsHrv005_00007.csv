@@ -2,68 +2,68 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_CLSHRV005_00007_SEQ_00,園藝工公會的弗弗茶好像很在意冒險者的裝備。
-1,TEXT_CLSHRV005_00007_SEQ_01,據說，如果換上與能力相匹配的裝備，那麼工作效率也將大大提升。除了去買新裝備，魔晶石工藝也是一種升級裝備的辦法。去西拉諾西亞的小麥酒港附近收集15個從前鑲嵌魔晶石需要的<hex:02280BFF05>Item<hex:F215DF0103>，交給園藝工公會的桑德雷。
-2,TEXT_CLSHRV005_00007_SEQ_02,只要從用舊了的裝備上精製出魔晶石，就能提升裝備的性能了。如果想更詳細地了解魔晶石，最好去中薩納蘭的狼煙丘詢問那裡的人。等有機會挑戰魔晶石鑲嵌時，就去拜訪他們。<hex:02100103><hex:02100103>※園藝工等級達到25級以上時，可以從弗弗茶那裡領取下一個園藝工任務。
-3,TEXT_CLSHRV005_00007_SEQ_03,
-4,TEXT_CLSHRV005_00007_SEQ_04,
-5,TEXT_CLSHRV005_00007_SEQ_05,
-6,TEXT_CLSHRV005_00007_SEQ_06,
-7,TEXT_CLSHRV005_00007_SEQ_07,
-8,TEXT_CLSHRV005_00007_SEQ_08,
-9,TEXT_CLSHRV005_00007_SEQ_09,
-10,TEXT_CLSHRV005_00007_SEQ_10,
-11,TEXT_CLSHRV005_00007_SEQ_11,
-12,TEXT_CLSHRV005_00007_SEQ_12,
-13,TEXT_CLSHRV005_00007_SEQ_13,
-14,TEXT_CLSHRV005_00007_SEQ_14,
-15,TEXT_CLSHRV005_00007_SEQ_15,
-16,TEXT_CLSHRV005_00007_SEQ_16,
-17,TEXT_CLSHRV005_00007_SEQ_17,
-18,TEXT_CLSHRV005_00007_SEQ_18,
-19,TEXT_CLSHRV005_00007_SEQ_19,
-20,TEXT_CLSHRV005_00007_SEQ_20,
-21,TEXT_CLSHRV005_00007_SEQ_21,
-22,TEXT_CLSHRV005_00007_SEQ_22,
-23,TEXT_CLSHRV005_00007_SEQ_23,
-24,TEXT_CLSHRV005_00007_TODO_00,將<hex:02280BFF05>Item<hex:F215DF0103>交給園藝工公會的桑德雷
-25,TEXT_CLSHRV005_00007_TODO_01,
-26,TEXT_CLSHRV005_00007_TODO_02,
-27,TEXT_CLSHRV005_00007_TODO_03,
-28,TEXT_CLSHRV005_00007_TODO_04,
-29,TEXT_CLSHRV005_00007_TODO_05,
-30,TEXT_CLSHRV005_00007_TODO_06,
-31,TEXT_CLSHRV005_00007_TODO_07,
-32,TEXT_CLSHRV005_00007_TODO_08,
-33,TEXT_CLSHRV005_00007_TODO_09,
-34,TEXT_CLSHRV005_00007_TODO_10,
-35,TEXT_CLSHRV005_00007_TODO_11,
-36,TEXT_CLSHRV005_00007_TODO_12,
-37,TEXT_CLSHRV005_00007_TODO_13,
-38,TEXT_CLSHRV005_00007_TODO_14,
-39,TEXT_CLSHRV005_00007_TODO_15,
-40,TEXT_CLSHRV005_00007_TODO_16,
-41,TEXT_CLSHRV005_00007_TODO_17,
-42,TEXT_CLSHRV005_00007_TODO_18,
-43,TEXT_CLSHRV005_00007_TODO_19,
-44,TEXT_CLSHRV005_00007_TODO_20,
-45,TEXT_CLSHRV005_00007_TODO_21,
-46,TEXT_CLSHRV005_00007_TODO_22,
-47,TEXT_CLSHRV005_00007_TODO_23,
-48,TEXT_CLSHRV005_00007_FUFUCHA_000_1,最近你好像很努力呢。<hex:02100103>工作面拓寬了之後的確會很有幹勁，<hex:02100103>我也有過那種時候呢。
-49,TEXT_CLSHRV005_00007_FUFUCHA_000_2,但是……工作面拓寬之後，<hex:02100103>就會注意到一些以往不怎麼放在心上的事。
-50,TEXT_CLSHRV005_00007_FUFUCHA_000_3,就拿裝備來說吧。雖說現在這身裝備也能幫你完成工作，<hex:02100103>可如果你換上與你的能力相匹配的裝備，<hex:02100103>你的工作也肯定會有更大的進展。
-51,TEXT_CLSHRV005_00007_FUFUCHA_000_4,並不是要你去花錢買什麼，<hex:02100103>只要將「魔晶石」這種結晶安裝到裝備上，<hex:02100103>就能強化裝備。
-52,TEXT_CLSHRV005_00007_FUFUCHA_000_5,雖然現在已經沒有必要了，<hex:02100103>不過以前我們園藝工能夠通過採伐，<hex:02100103>獲得所需的「觸媒」。
-53,TEXT_CLSHRV005_00007_FUFUCHA_000_6,對了，這也是修行的一環。你要不要去收集一下<hex:02280BFF05>Item<hex:F215DF0103>？<hex:02100103>它也是「觸媒」的一種。<hex:02100103>在西拉諾西亞的小麥酒港附近就能採集到。
-54,TEXT_CLSHRV005_00007_FUFUCHA_000_7,集齊15個<hex:02280BFF05>Item<hex:F215DF0103>後，<hex:02100103>就去找桑德雷吧。<hex:02100103>關於魔晶石，他可是行家。
-55,TEXT_CLSHRV005_00007_SANDRE_000_10,弗弗茶讓你問我關於魔晶石的事？<hex:02100103>那你得先拿來<hex:02280BFF05>Item<hex:F215DF0103>。<hex:02100103>如果連這點事情都辦不到，我教你也沒意義。
-56,TEXT_CLSHRV005_00007_SANDRE_000_11,原來如此，弗弗茶早就預料到了啊，<hex:02100103>好吧，那我就教教你吧。
-57,TEXT_CLSHRV005_00007_SANDRE_000_12,幾年前，一個叫繆塔米克斯的哥布林族人<hex:02100103>將魔晶石鑲嵌技術傳進了艾歐澤亞。
-58,TEXT_CLSHRV005_00007_SANDRE_000_13,這種工藝，是從用舊了的裝備上精製出一種叫「魔晶石」的結晶，<hex:02100103>再將它鑲嵌到其他的裝備，<hex:02100103>由此提升裝備的性能。
-59,TEXT_CLSHRV005_00007_SANDRE_000_14,而將「魔晶石」鑲嵌到裝備，<hex:02100103>便是熟練掌握製作技術的能工巧匠的工作了。
-60,TEXT_CLSHRV005_00007_SANDRE_000_15,可完成這一過程是需要觸媒的。<hex:02100103>你所採集的<hex:02280BFF05>Item<hex:F215DF0103>也是觸媒的一種。<hex:02100103>只有我們大地使者才能採到這些觸媒。
-61,TEXT_CLSHRV005_00007_SANDRE_000_16,現在沒有觸媒也能夠鑲嵌魔晶石了，<hex:02100103>大地使者的工作也減少了一樣……<hex:02100103>這也是時代進步了吧。
-62,TEXT_CLSHRV005_00007_SANDRE_000_17,如果你想更詳細了解魔晶石的話，<hex:02100103>就去問問中薩納蘭狼煙丘那裡的人吧。
-63,TEXT_CLSHRV005_00007_SANDRE_000_18,「魔晶石」可是有很多種的，<hex:02100103>根據魔晶石的不同，裝備強化後的性能也大有不同。
-64,TEXT_CLSHRV005_00007_SANDRE_000_19,如果你的朋友中有能工巧匠，<hex:02100103>不妨去找他們幫你鑲嵌一下試試看吧？
+0,"TEXT_CLSHRV005_00007_SEQ_00","Fufucha appears to be concerned with your appearance."
+1,"TEXT_CLSHRV005_00007_SEQ_01","In order to grow as a botanist, you must be mindful that the tools you use are appropriate to your level of proficiency. To this end, Fufucha tells you about materia─a special kind of crystal that can be used to enhance gear. The enhancement process once required certain catalysts found throughout nature, and though they are no longer in use, Fufucha believes that gathering them would provide you with a suitable challenge. Take yourself to Aleport in western La Noscea, and there obtain fifteen fragments of grade 1 carbonized matter. Once you have collected enough, present the fragments to Sandre at the Botanists' Guild."
+2,"TEXT_CLSHRV005_00007_SEQ_02","You listen with interest as Sandre explains that materia is extracted from old equipment and attached to still-useful gear, thereby enhancing its properties. The carbonized matter you have gathered is a type of catalyst that was once essential to the attachment process. If you would learn more about materia, Sandre recommends you visit the goblin Mutamix, who has his camp at the Bonfire in central Thanalan.<hex:02100103><hex:02100103>※The next botanist quest will be available from Fufucha upon reaching level 25."
+3,"TEXT_CLSHRV005_00007_SEQ_03",""
+4,"TEXT_CLSHRV005_00007_SEQ_04",""
+5,"TEXT_CLSHRV005_00007_SEQ_05",""
+6,"TEXT_CLSHRV005_00007_SEQ_06",""
+7,"TEXT_CLSHRV005_00007_SEQ_07",""
+8,"TEXT_CLSHRV005_00007_SEQ_08",""
+9,"TEXT_CLSHRV005_00007_SEQ_09",""
+10,"TEXT_CLSHRV005_00007_SEQ_10",""
+11,"TEXT_CLSHRV005_00007_SEQ_11",""
+12,"TEXT_CLSHRV005_00007_SEQ_12",""
+13,"TEXT_CLSHRV005_00007_SEQ_13",""
+14,"TEXT_CLSHRV005_00007_SEQ_14",""
+15,"TEXT_CLSHRV005_00007_SEQ_15",""
+16,"TEXT_CLSHRV005_00007_SEQ_16",""
+17,"TEXT_CLSHRV005_00007_SEQ_17",""
+18,"TEXT_CLSHRV005_00007_SEQ_18",""
+19,"TEXT_CLSHRV005_00007_SEQ_19",""
+20,"TEXT_CLSHRV005_00007_SEQ_20",""
+21,"TEXT_CLSHRV005_00007_SEQ_21",""
+22,"TEXT_CLSHRV005_00007_SEQ_22",""
+23,"TEXT_CLSHRV005_00007_SEQ_23",""
+24,"TEXT_CLSHRV005_00007_TODO_00","Deliver fragments of grade 1 carbonized matter to Sandre."
+25,"TEXT_CLSHRV005_00007_TODO_01",""
+26,"TEXT_CLSHRV005_00007_TODO_02",""
+27,"TEXT_CLSHRV005_00007_TODO_03",""
+28,"TEXT_CLSHRV005_00007_TODO_04",""
+29,"TEXT_CLSHRV005_00007_TODO_05",""
+30,"TEXT_CLSHRV005_00007_TODO_06",""
+31,"TEXT_CLSHRV005_00007_TODO_07",""
+32,"TEXT_CLSHRV005_00007_TODO_08",""
+33,"TEXT_CLSHRV005_00007_TODO_09",""
+34,"TEXT_CLSHRV005_00007_TODO_10",""
+35,"TEXT_CLSHRV005_00007_TODO_11",""
+36,"TEXT_CLSHRV005_00007_TODO_12",""
+37,"TEXT_CLSHRV005_00007_TODO_13",""
+38,"TEXT_CLSHRV005_00007_TODO_14",""
+39,"TEXT_CLSHRV005_00007_TODO_15",""
+40,"TEXT_CLSHRV005_00007_TODO_16",""
+41,"TEXT_CLSHRV005_00007_TODO_17",""
+42,"TEXT_CLSHRV005_00007_TODO_18",""
+43,"TEXT_CLSHRV005_00007_TODO_19",""
+44,"TEXT_CLSHRV005_00007_TODO_20",""
+45,"TEXT_CLSHRV005_00007_TODO_21",""
+46,"TEXT_CLSHRV005_00007_TODO_22",""
+47,"TEXT_CLSHRV005_00007_TODO_23",""
+48,"TEXT_CLSHRV005_00007_FUFUCHA_000_1","Good <hex:020839E3E90C0DFF1B><hex:020817E3E90C05FF08>evening<hex:FF08>morning<hex:03><hex:FF17><hex:020813E3E90C12FF04>day<hex:FF08>evening<hex:03><hex:03>, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. I see from the soil on your hands that you have been as diligent as ever in your botany. I am not surprised. As we develop new skills, so do our labors become more varied, and thus does our motivation grow."
+49,"TEXT_CLSHRV005_00007_FUFUCHA_000_2","Yet know that motivation can only take one so far. If you wish to master botany, you must pay heed to those details which you have until now taken for granted."
+50,"TEXT_CLSHRV005_00007_FUFUCHA_000_3","In particular, I speak of gear─the tools of our trade. Not all tools are created equal, you see, and if you are to work with any degree of efficiency, you must use such gear as befits your ability."
+51,"TEXT_CLSHRV005_00007_FUFUCHA_000_4","Lest you misunderstand, I am not telling you to go and replace your gear. There is a more frugal way to improve your tools─and one more respectful to nature besides."
+52,"TEXT_CLSHRV005_00007_FUFUCHA_000_5","Tell me, have you heard of materia? It is a kind of crystal that can be used to enhance the efficacy of gear. In the past, the enhancement process required certain catalysts found throughout nature, the gathering of which was our domain, but new methods have rendered them obsolete."
+53,"TEXT_CLSHRV005_00007_FUFUCHA_000_6","Be that as it may, these substances still make for ideal subjects of training for budding botanists such as yourself. Therefore, for your next task, I would like you to gather a quantity of one such catalyst, namely grade 1 carbonized matter. Fifteen fragments should suffice."
+54,"TEXT_CLSHRV005_00007_FUFUCHA_000_7","A thorough search of the area surrounding Aleport will surely prove fruitful. The hamlet lies in western La Noscea, upon the island of Vylbrand. Once you have gathered the requisite amount, pray present the carbonized matter to Sandre. He will teach you the basics of materia."
+55,"TEXT_CLSHRV005_00007_SANDRE_000_10","Fufucha sent you to learn about materia, you say? Very well, bring me fifteen fragments of grade 1 carbonized matter, and we'll talk."
+56,"TEXT_CLSHRV005_00007_SANDRE_000_11","It seems Fufucha has high hopes for you. Very well, let us speak of materia."
+57,"TEXT_CLSHRV005_00007_SANDRE_000_12","The art of crafting with materia is yet new to Eorzea. It was borne to our shores by a goblin scholar named Mutamix some few years ago."
+58,"TEXT_CLSHRV005_00007_SANDRE_000_13","Put simply, the process begins with extracting materia from old gear. This is then attached to another piece of gear, enhancing the item's properties."
+59,"TEXT_CLSHRV005_00007_SANDRE_000_14","Mind you, it's not as if any half-wit can do the attaching. No, it takes a skilled craftsman with the necessary knowledge and experience."
+60,"TEXT_CLSHRV005_00007_SANDRE_000_15","And once, the process also required substances known as catalysts. The carbonized matter you've gathered is one such substance."
+61,"TEXT_CLSHRV005_00007_SANDRE_000_16","But then they discovered a way to attach materia without the stuff, and we botanists are a little more idle for it. Such is the way of progress."
+62,"TEXT_CLSHRV005_00007_SANDRE_000_17","And that, my friend, is materia in brief. Now, I'd thank you not to ask me about the workings of it─that sort of scholarly stuff is beyond my fathoming. If you wish to know more─perhaps even try your hand at crafting with materia─I suggest you seek out the goblin Mutamix. It's said he has his camp at a place called the Bonfire, out in the wilds of central Thanalan."
+63,"TEXT_CLSHRV005_00007_SANDRE_000_18","Oh, and keep in mind that materia comes in a great many varieties, each granting unique benefits to the gear it's attached to. I daresay you'll lose count of all the kinds you come across on your adventures."
+64,"TEXT_CLSHRV005_00007_SANDRE_000_19","If I were you, I'd try to find a craftsman who'd be willing to attach materia for me. Chances are there's such a person among your list of acquaintances."

@@ -2,22 +2,22 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_000,嗯？你是冒險者？有什麼事嗎？
-1,TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_001,啊，是你呀。<hex:02100103>是不是你也察覺到了最近跟阿拉米格有關的動靜，<hex:02100103>所以專程跑來看看？
-2,TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_002,啊，是你呀。<hex:02100103>阿拉米格終於得到解放，<hex:02100103>你是不放心這裡所以專程跑來看看？
-3,TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_010,我是負責在這裡進行警備的人。<hex:02100103>我想你也可以看得出，我並不是阿拉米格人。
-4,TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_011,作為對他們提供援助糧的交換條件，<hex:02100103>我們恆輝隊得以暫藉此地，作為對抗蜥蜴人族的軍事據點。
-5,TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_012,我在這裡也算是個外來者。<hex:02100103>如果你有什麼煩惱可以找我來商量。
-6,TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_020,這裡是阿拉米格難民的村落。<hex:02100103>他們的故鄉被加雷馬帝國所奪，因此漂流到這裡。
-7,TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_021,也有很多人去了格里達尼亞，<hex:02100103>但留在這裡的，都是沒能被森林的元靈所接受的人。<hex:02100103>不過他們也融入不到烏爾達哈的城區。
-8,TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_022,因為他們團結的民族性太過強烈，<hex:02100103>總給人一種難以接近的感覺。<hex:02100103>不過和他們交往一下就會知道，他們本性並不壞。
-9,TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_030,這裡是阿拉米格難民的村落。<hex:02100103>他們的故鄉在20年前受到了加雷馬帝國的侵略，<hex:02100103>現在也依舊被帝國佔據著。
-10,TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_031,我聽說，因此而背井離鄉的阿拉米格人，<hex:02100103>在領頭人古恩德巴爾德的帶領下與烏爾達哈交涉後，<hex:02100103>在這裡建立了這個村落。
-11,TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_032,我這個烏爾達哈人無法理解這20年對他們究竟有多沉重，<hex:02100103>但在這些阿拉米格人心中，確實還燃燒著想要奪回故鄉的火焰。<hex:02100103>而且我感覺最近這種傾向有愈演愈烈的趨勢。
-12,TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_040,如你所知，這裡是阿拉米格難民的村落。<hex:02100103>他們的故鄉在20年前受到了加雷馬帝國的侵略，<hex:02100103>自那之後一直被迫過著艱苦的難民生活。
-13,TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_041,但是，在艾歐澤亞同盟軍和阿拉米格解放軍，<hex:02100103>以及你們拂曉的共同努力下，<hex:02100103>阿拉米格終於擺脫了帝國的支配。
-14,TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_042,我是烏爾達哈人，所以不能完全理解他們這20年的等待有多麼沉重。<hex:02100103>但他們的未來確實是再次迎來了光明，這一點是毋庸置疑的。<hex:02100103>今後，小阿拉米格也會一點點發生改變吧。
-15,TEXT_REGWILLITTLEALAMHIGO_00122_Q1_000_000,想了解什麼？
-16,TEXT_REGWILLITTLEALAMHIGO_00122_A1_000_001,你是做什麼的？
-17,TEXT_REGWILLITTLEALAMHIGO_00122_A1_000_002,這裡是什麼地方？
-18,TEXT_REGWILLITTLEALAMHIGO_00122_A1_000_003,取消
+0,"TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_000","Well met, friend. I'm Gisilbehrt, proud man of the Flames."
+1,"TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_001","Ah, it's you. Drawn by the whispers of revolution, are we?"
+2,"TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_002","Ho, this is a pleasant surprise. Come to look in on the refugees now that they are free to return to Ala Mhigo?"
+3,"TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_010","I have charge of security here at Little Ala Mhigo, though that's just half of my duties. The other half is maintaining surveillance over the Amalj'aa encampment to the south."
+4,"TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_011","So as to keep a closer watch on the lizardmen, the Immortal Flames entered into an agreement with the refugees. We provide them with relief by way of provisions, and in return they let us use these caverns for our operations."
+5,"TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_012","Like you, I'm an outsider in this place. If you find yourself in any sort of trouble, don't hesitate to come to me."
+6,"TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_020","This settlement was founded by Ala Mhigan refugees. When their nation fell to the Garleans, they fled in droves, hoping to find a safe haven in either Gridania or Ul'dah. Sad to say, most made it to neither."
+7,"TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_021","For all intents and purposes, Gridania is ruled by the elementals, who turn away outsiders on a whim. As for Ul'dah...well, Ul'dah is ruled by coin. And so, having nowhere else to go, the refugees ended up here."
+8,"TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_022","You'll find them to be a bitter lot, but that's to be expected, considering all they've been through. Don't be surprised if you're kept at a distance. That said, given time and genuine concern, they'll eventually open up."
+9,"TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_030","A home away from home for the lost children of Ala Mhigo, ever since Garlemald conquered their homeland twenty years ago."
+10,"TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_031","Gundobald's done his best to negotiate with Ul'dah on behalf of his people, and get them whatever aid and succor the tight-fisted coincounters will abide."
+11,"TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_032","Aye, I may be a man of Thanalan, but my heart bleeds for them and theirs. Twenty long years─I can't even begin to imagine. But times are changing, what with some in the Resistance growing bolder with their words and deeds..."
+12,"TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_040","A home away from home for the lost children of Ala Mhigo, ever since Garlemald conquered their homeland twenty years ago."
+13,"TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_041","But thanks to the hard work and dedication of the Alliance and the Resistance─and you and yours, of course─the imperial forces have been driven from Gyr Abania, and these good men and women are free to return home, if they so desire."
+14,"TEXT_REGWILLITTLEALAMHIGO_00122_GISILBEHRT_000_042","That said, many of them have built new lives for themselves here, and I suspect some are hesitant to pack it all up and move back to a place they left decades ago...or never knew at all. But I'm just a man of Thanalan, so what do I know."
+15,"TEXT_REGWILLITTLEALAMHIGO_00122_Q1_000_000","What will you ask?"
+16,"TEXT_REGWILLITTLEALAMHIGO_00122_A1_000_001","What do you do here?"
+17,"TEXT_REGWILLITTLEALAMHIGO_00122_A1_000_002","What kind of place is this?"
+18,"TEXT_REGWILLITTLEALAMHIGO_00122_A1_000_003","Nothing."

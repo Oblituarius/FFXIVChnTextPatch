@@ -2,187 +2,187 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_BANARK002_04546_SEQ_00,<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整（限定職業）<hex:0249020103><hex:0248020103><hex:02100103>大金庫的荼羅娜一副很高興的樣子。
-1,TEXT_BANARK002_04546_SEQ_01,※本任務為<hex:024804F201FC03><hex:024904F201FD03><hex:0249020103><hex:0248020103> 等級調整（限定職業）任務，<hex:02100103>需要與接受任務時的職業相同才可繼續進行任務。<hex:02100103><hex:02100103>和荼羅娜進行了交談。她想要尋找能夠充分發揮團隊優勢的新服務。為了獲取靈感，荼羅娜和冒險者決定跟居民們談談。在薩維奈島代米爾遺烈鄉附近的和荼羅娜約好的<hex:02280CFF05>EObj<hex:F61EB6F70103>等待。
-2,TEXT_BANARK002_04546_SEQ_02,在匯合地點進行了等待。可是荼羅娜並沒有出現。在代米爾遺烈鄉附近尋找荼羅娜。
-3,TEXT_BANARK002_04546_SEQ_03,找到了荼羅娜，打倒了出現的野生生物。救助代米爾遺烈鄉附近的受傷的煉金術士。
-4,TEXT_BANARK002_04546_SEQ_04,救助了受傷的煉金術士。荼羅娜表示要送他回到代米爾遺烈鄉。與先行前往的荼羅娜一起，和代米爾遺烈鄉的發起委託的煉金術士談談。
-5,TEXT_BANARK002_04546_SEQ_05,和發起委託的煉金術士進行了交談。預定交給荼羅娜配送的貨物據說還在準備中。在等待委託人準備貨物的這段時間裡，兩人決定去尋找新服務的靈感。和代米爾遺烈鄉的荼羅娜談談。
-6,TEXT_BANARK002_04546_SEQ_06,和荼羅娜進行了交談。帶著她向代米爾遺烈鄉的煉金術士們打聽情報。<hex:02100103><hex:02100103>※同行狀態被解除時，再次與荼羅娜對話便可進入同行狀態。
-7,TEXT_BANARK002_04546_SEQ_07,向煉金術士們打聽了情報。帶著荼羅娜和代米爾遺烈鄉的發起委託的煉金術士談談。
-8,TEXT_BANARK002_04546_SEQ_08,和發起委託的煉金術士進行了交談。和薩維奈島波洛伽護法村的收貨人耶贊談談。
-9,TEXT_BANARK002_04546_SEQ_09,和耶贊進行了交談。從他那裡聽取了關於新服務的寶貴意見。和大金庫的荼羅娜談談。
-10,TEXT_BANARK002_04546_SEQ_10,和荼羅娜進行了交談。在大金庫增設了廚房，開始了便當的配送服務。把握機會活用新的服務，牢牢抓住居民們的胃口吧！
-11,TEXT_BANARK002_04546_SEQ_11,
-12,TEXT_BANARK002_04546_SEQ_12,
-13,TEXT_BANARK002_04546_SEQ_13,
-14,TEXT_BANARK002_04546_SEQ_14,
-15,TEXT_BANARK002_04546_SEQ_15,
-16,TEXT_BANARK002_04546_SEQ_16,
-17,TEXT_BANARK002_04546_SEQ_17,
-18,TEXT_BANARK002_04546_SEQ_18,
-19,TEXT_BANARK002_04546_SEQ_19,
-20,TEXT_BANARK002_04546_SEQ_20,
-21,TEXT_BANARK002_04546_SEQ_21,
-22,TEXT_BANARK002_04546_SEQ_22,
-23,TEXT_BANARK002_04546_SEQ_23,
-24,TEXT_BANARK002_04546_TODO_00,在<hex:02280CFF05>EObj<hex:F61EB6F70103>等待
-25,TEXT_BANARK002_04546_TODO_01,尋找荼羅娜
-26,TEXT_BANARK002_04546_TODO_02,救助受傷的煉金術士
-27,TEXT_BANARK002_04546_TODO_03,和發起委託的煉金術士對話
-28,TEXT_BANARK002_04546_TODO_04,和荼羅娜對話進入同行狀態
-29,TEXT_BANARK002_04546_TODO_05,帶著荼羅娜和煉金術士們對話
-30,TEXT_BANARK002_04546_TODO_06,帶著荼羅娜和發起委託的煉金術士對話
-31,TEXT_BANARK002_04546_TODO_07,和耶贊對話
-32,TEXT_BANARK002_04546_TODO_08,和荼羅娜對話
-33,TEXT_BANARK002_04546_TODO_09,
-34,TEXT_BANARK002_04546_TODO_10,
-35,TEXT_BANARK002_04546_TODO_11,
-36,TEXT_BANARK002_04546_TODO_12,
-37,TEXT_BANARK002_04546_TODO_13,
-38,TEXT_BANARK002_04546_TODO_14,
-39,TEXT_BANARK002_04546_TODO_15,
-40,TEXT_BANARK002_04546_TODO_16,
-41,TEXT_BANARK002_04546_TODO_17,
-42,TEXT_BANARK002_04546_TODO_18,
-43,TEXT_BANARK002_04546_TODO_19,
-44,TEXT_BANARK002_04546_TODO_20,
-45,TEXT_BANARK002_04546_TODO_21,
-46,TEXT_BANARK002_04546_TODO_22,
-47,TEXT_BANARK002_04546_TODO_23,
-48,TEXT_BANARK002_04546_TRNA_000_000,喲，<hex:022903EB0203>。<hex:02100103>我想差不多該向你彙報一下河馬騎手團的現狀了。<hex:02100103>我去把摩羅盧也叫過來。
-49,TEXT_BANARK002_04546_TRNA_000_001,多虧了你的幫忙，我們的工作目前做得很順利。<hex:02100103>也得感謝勘恰娜願意把配送的委託優先給我們，<hex:02100103>才不至於讓我們剛開業就陷入關門大吉的窘境。
-50,TEXT_BANARK002_04546_TRNA_000_002,除此之外摩羅盧還製作了色粉，<hex:02100103>讓我那些小弟們和當地人拉近了關係！
-51,TEXT_BANARK002_04546_TRNA_000_003,呃，也許你不知道我在說什麼，<hex:02100103>我來解釋一下，色粉是這座島上自古傳承下來的一種咒術道具。
-52,TEXT_BANARK002_04546_TRNA_000_004,人們都相信要是從其他村落來的人將色粉撒在自己的身上，<hex:02100103>就能驅除厄運換來好運。<hex:02100103>我們的客人對此也給出了不錯的評價。
-53,TEXT_BANARK002_04546_MARU_000_005,想想也是，島上接連不斷地出現問題，<hex:02100103>人們自然會想要去求個好兆頭……
-54,TEXT_BANARK002_04546_TRNA_000_006,只不過我的搭檔看到那些鮮豔的顏色就會興奮過頭，<hex:02100103>失控狂奔起來。
-55,TEXT_BANARK002_04546_TRNA_000_007,這害得我完全沒能完整地體驗過一回撒色粉儀式，<hex:02100103>不過對於其他人來說，這倒是交流的好機會。
-56,TEXT_BANARK002_04546_MARU_000_008,大姐頭……照我們這個樣子，真的能順利地做下去嗎？<hex:02100103>讓我駕駛河馬車我是不會抱怨什麼的……
-57,TEXT_BANARK002_04546_MARU_000_009,可我們的車輛原本就不是為了運貨而設計的，<hex:02100103>速度是很快，但卻沒法搭載體積大的貨物，<hex:02100103>最多只能運送我們能夠抱起來大小的東西……
-58,TEXT_BANARK002_04546_MARU_000_010,這樣下去我們可贏不了同行的競爭者。<hex:02100103>對於那些用大貨車配送的傢伙，我們只能依靠速度取勝。<hex:02100103>可除了他們以外，沿岸地區還有用船做配送的啊……
-59,TEXT_BANARK002_04546_TRNA_000_011,從飆車族轉行過來的我們只有速度上的優勢。
-60,TEXT_BANARK002_04546_TRNA_000_012,要是能活用這項優勢開展新的服務就好了……
-61,TEXT_BANARK002_04546_Q1_000_013,要說什麼？
-62,TEXT_BANARK002_04546_A1_000_001,實在想不出答案的時候可以去問問別人
-63,TEXT_BANARK002_04546_A1_000_002,傾聽居民的意見或許就能找到靈感
-64,TEXT_BANARK002_04546_TRNA_000_014,你說得對，在這裡絞盡腦汁也無濟於事，<hex:02100103>還不如去打聽一下客人們真正的需求。
-65,TEXT_BANARK002_04546_TRNA_000_015,只不過我還不太習慣與客人們攀談。<hex:02100103>希望你能在我身邊幫幫我。
-66,TEXT_BANARK002_04546_TRNA_000_016,嗯……我們就去代米爾遺烈鄉吧。<hex:02100103>正好接到了那邊的取貨委託，我就先和驍厲亞過去了。
-67,TEXT_BANARK002_04546_TRNA_000_017,到時候我們在那邊匯合吧。
-68,TEXT_BANARK002_04546_SYSTEM_000_018,在約定的地點等待了片刻，卻不見先行的荼羅娜到來。<hex:02100103>難道是出了什麼問題？
-69,TEXT_BANARK002_04546_SYSTEM_000_019,在代米爾遺烈鄉附近尋找荼羅娜吧。
-70,TEXT_BANARK002_04546_TRNA_000_020,你真厲害啊！<hex:02100103>沒想到你的實力這麼強！
-71,TEXT_BANARK002_04546_ALCHEMIST04546A_000_025,謝、謝謝你！
-72,TEXT_BANARK002_04546_TRNA_000_026,你能趕來真是太好了！<hex:02100103>我在遺烈鄉附近聽見了慘叫於是就過來看看，<hex:02100103>但光是保護這個人就已經讓我分身乏力了……
-73,TEXT_BANARK002_04546_ALCHEMIST04546A_000_027,如果沒有你護著我，沒準我會傷得更重呢，<hex:02100103>也謝謝你的幫忙！
-74,TEXT_BANARK002_04546_TRNA_000_028,話說……這股甜得發膩的香味是什麼？<hex:02100103>你是不是因為這個才被金剛尾襲擊的？
-75,TEXT_BANARK002_04546_ALCHEMIST04546A_000_029,啊，這是熟透了的果實的香味！<hex:02100103>我去新港那邊採購的時候，商人白送給我的。<hex:02100103>說是賣剩下的，爛掉了也怪可惜的……
-76,TEXT_BANARK002_04546_ALCHEMIST04546A_000_030,經你這麼一說，弄不好還真是這股香味惹的禍。<hex:02100103>最初被伽迦象追著跑的時候為了避免對遺烈鄉造成威脅，<hex:02100103>我拼了命總算甩開了它，結果又遇上了金剛尾……
-77,TEXT_BANARK002_04546_TRNA_000_031,下次你可以找我們來幫你送回來，<hex:02100103>我們正在經營著名為河馬騎手團的配送服務。<hex:02100103>如果有需要的話，我們隨叫隨到。
-78,TEXT_BANARK002_04546_ALCHEMIST04546A_000_032,我最近是聽說有人開始用河馬做起了配送服務，<hex:02100103>沒想到就是你們啊。<hex:02100103>今後我會多光顧的！
-79,TEXT_BANARK002_04546_TRNA_000_033,我會和他一起前往遺烈鄉，<hex:02100103>還能順便幫他運送重的貨物。
-80,TEXT_BANARK002_04546_TRNA_000_034,發起委託的煉金術士應該就在遺烈鄉等著呢，<hex:02100103>這次應該不會再出什麼問題了，我們在那裡見！
-81,TEXT_BANARK002_04546_TRNA_000_035,這個人就是發起委託的煉金術士。<hex:02100103>既然你也到了，那我們趕緊取貨吧。
-82,TEXT_BANARK002_04546_ALCHEMIST04546B_000_036,啊……<hex:02100103>配送服務的人這麼快就來了？！
-83,TEXT_BANARK002_04546_ALCHEMIST04546B_000_037,咦？<hex:02100103>你不是巴爾德西昂委員會的幫手嗎？！
-84,TEXT_BANARK002_04546_TRNA_000_038,巴爾……呃，雖然不清楚你說的是什麼，<hex:02100103>不過<hex:022903EB0203>現在是我們配送服務的協助者。
-85,TEXT_BANARK002_04546_ALCHEMIST04546B_000_039,真的嗎？<hex:02100103>這回又成了配送服務的幫手？！<hex:02100103>你可真厲害啊！
-86,TEXT_BANARK002_04546_TRNA_000_040,那個……我們是來取貨的，<hex:02100103>莫非還沒有準備好？
-87,TEXT_BANARK002_04546_ALCHEMIST04546B_000_041,啊……<hex:02100103>是、是的……<hex:02100103>還需要些時間才能準備好！
-88,TEXT_BANARK002_04546_ALCHEMIST04546B_000_042,我不小心睡過頭了，<hex:02100103>於是趕忙起來調配需要送出的煉金藥，<hex:02100103>結果不知道是不是比例搞錯了，它咚地一聲爆炸了……
-89,TEXT_BANARK002_04546_TRNA_000_043,爆、爆炸了？！<hex:02100103>呃……那可真是太不走運了。<hex:02100103>既然如此，那我們先到附近隨便走走打發時間。
-90,TEXT_BANARK002_04546_TRNA_000_044,在客人準備貨物的這段時間，<hex:02100103>我們就向這裡的居民打聽打聽吧，<hex:02100103>沒準能獲得開展新服務的靈感呢，等你準備好了就跟我說一聲。
-91,TEXT_BANARK002_04546_ALCHEMIST04546B_000_045,我的同事們毫不客氣地把我趕了出來……<hex:02100103>不過請放心，他們一定會完成剩下的工作！
-92,TEXT_BANARK002_04546_TRNA_000_046,那我們開始行動吧。<hex:02100103>記得要表現得自然些，<hex:02100103>聽聽人們有沒有什麼發愁的事情。
-93,TEXT_BANARK002_04546_ALCHEMIST04546C_000_050,呼！我燃燒起來了！
-94,TEXT_BANARK002_04546_ALCHEMIST04546C_000_051,什麼什麼？你問我有沒有發愁的事情？<hex:02100103>不不不，我可是剛好把手頭的委託幹完！
-95,TEXT_BANARK002_04546_ALCHEMIST04546C_000_052,終於能抽空繼續搞自己的研究了！<hex:02100103>我給自己灌足了煉金藥，打算不吃不喝不睡大幹3天，<hex:02100103>直到下一份工作開始為止，嘿嘿嘿……
-96,TEXT_BANARK002_04546_TRNA_000_053,呃，那就好……
-97,TEXT_BANARK002_04546_ALCHEMIST04546D_000_054,嗚，嗚……<hex:02100103>做不完了呀……
-98,TEXT_BANARK002_04546_ALCHEMIST04546D_000_055,啊，多謝關心……我最近發愁的事情啊……<hex:02100103>由於之前的騷動，星戰士團他們好像把儲備藥都用光了，<hex:02100103>現在我手上都是補充藥品的訂單……簡直看不到盡頭啊！
-99,TEXT_BANARK002_04546_ALCHEMIST04546D_000_056,我甚至都快不記得上次和家人一起吃晚飯是什麼時候了……
-100,TEXT_BANARK002_04546_TRNA_000_057,這、這還真是辛苦啊。<hex:02100103>但我們也沒辦法幫忙製藥啊……
-101,TEXT_BANARK002_04546_ALCHEMIST04546E_000_058,到底去睡覺還是去吃飯呢……<hex:02100103>嗯……
-102,TEXT_BANARK002_04546_ALCHEMIST04546E_000_059,我正在發愁的事情……你問得正好！<hex:02100103>其實啊，我這裡的蜂蜜恰巧用完了！
-103,TEXT_BANARK002_04546_ALCHEMIST04546E_000_060,你想想看，烹飪不是也要花費時間嗎？<hex:02100103>但要是不吃點什麼的話就沒法正常思考，<hex:02100103>所以我想要靠著蜂蜜維持大腦的運轉！
-104,TEXT_BANARK002_04546_TRNA_000_061,那就將製作蜂蜜作為新的服務……<hex:02100103>不對，我感覺那樣只能討好這個人。
-105,TEXT_BANARK002_04546_ALCHEMIST04546C_000_062,我一直有一些想要嘗試的配方！<hex:02100103>首先從哪個開始呢……呵呵呵！
-106,TEXT_BANARK002_04546_ALCHEMIST04546D_000_063,我覺得還是得偶爾跟家人共進晚餐，<hex:02100103>不然這個家遲早會變得支離破碎……
-107,TEXT_BANARK002_04546_ALCHEMIST04546E_000_064,唉，得去訂些蜂蜜才行……<hex:02100103>要不乾脆轉而開發能夠替代蜂蜜的煉金藥怎麼樣？
-108,TEXT_BANARK002_04546_ALCHEMIST04546B_000_065,哎呀，讓你們久等了，真是抱歉！<hex:02100103>我的同事終於完成了包裝，<hex:02100103>這個木箱就麻煩你們送過去吧！
-109,TEXT_BANARK002_04546_ALCHEMIST04546B_000_066,收貨人是我在波洛伽護法村的同事！<hex:02100103>他叫耶贊，是一名很壯碩的煉金術士。
-110,TEXT_BANARK002_04546_Q2_000_067,要說什麼？
-111,TEXT_BANARK002_04546_A2_000_001,是他啊，那位收養了孩子的人！
-112,TEXT_BANARK002_04546_A2_000_002,啊，我認識他
-113,TEXT_BANARK002_04546_A2_000_003,我好像跟他聊過……
-114,TEXT_BANARK002_04546_ALCHEMIST04546B_000_068,哎呀，沒想到你竟然認識耶贊，<hex:02100103>世界還真小啊！
-115,TEXT_BANARK002_04546_ALCHEMIST04546B_000_069,他到現在還在波洛伽護法村那裡。<hex:02100103>好像是那邊要用的藥草不夠了，<hex:02100103>所以才委託我幫忙補貨……
-116,TEXT_BANARK002_04546_ALCHEMIST04546B_000_070,我還把我們這裡調製的藥品也順便一起放進去了。<hex:02100103>啊，對了，我因為睡過頭搞出了爆炸這件事可要保密哦！
-117,TEXT_BANARK002_04546_ALCHEMIST04546B_000_071,還有請替我向他轉達，<hex:02100103>這些都是我不吃不喝加急準備出來的，<hex:02100103>希望能派上用場。
-118,TEXT_BANARK002_04546_TRNA_000_072,跟這些煉金術士談過以後，<hex:02100103>給我的第一感覺就是這幫人也太節省吃飯的時間了吧？<hex:02100103>一個個的簡直不正常，這樣下去肯定會出人命的……
-119,TEXT_BANARK002_04546_TRNA_000_073,啊，等一下，<hex:02100103>以我們的速度或許就能為他們提供新鮮熱乎的飯菜了……
-120,TEXT_BANARK002_04546_TRNA_000_074,我好像找到靈感了，我們先出發去送貨吧。<hex:02100103>木箱就由我來運送到那邊，<hex:02100103>你別忘了為我介紹一下收貨人！
-121,TEXT_BANARK002_04546_TRNA_000_075,這位就是收貨人耶贊嗎？<hex:02100103>這體格的確不像是個煉金術士呢。
-122,TEXT_BANARK002_04546_YEZAHN_000_080,喲，<hex:022903EB0203>。<hex:02100103>我從遺烈鄉那邊接到了發貨的聯絡，<hex:02100103>沒想到你也來了。
-123,TEXT_BANARK002_04546_YEZAHN_000_081,你最近是在幫忙配送嗎？
-124,TEXT_BANARK002_04546_TRNA_000_082,遺烈鄉委託送來的貨物就是這個木箱。<hex:02100103>說是裡面裝著藥草和調製的藥劑。
-125,TEXT_BANARK002_04546_YEZAHN_000_083,哦？他們明明忙得要死，<hex:02100103>卻還是抽空調製了一些藥劑，真是辛苦他們了。
-126,TEXT_BANARK002_04546_YEZAHN_000_084,我這邊正需要盡早補充些藥草，<hex:02100103>你們能這麼快送過來，實屬幫大忙了。
-127,TEXT_BANARK002_04546_TRNA_000_085,我們配送的速度可不會輸給其他的同行！<hex:02100103>以後需要運貨的時候，可以隨時找我們。
-128,TEXT_BANARK002_04546_TRNA_000_086,這樣配送的工作就算完成了，<hex:02100103>我想順便打聽點事情。
-129,TEXT_BANARK002_04546_TRNA_000_087,我在想能不能利用我們速度的優勢開展新的服務。<hex:02100103>遺烈鄉的那些人甚至都不捨得在吃飯上花費時間，<hex:02100103>要是我們能及時配送新鮮的飯菜，他們應該會喜歡的吧。
-130,TEXT_BANARK002_04546_TRNA_000_088,可如果只有遺烈鄉有這樣的需求，那我們也不好做對吧？<hex:02100103>所以我想問問你，這裡的人需不需要這種服務？
-131,TEXT_BANARK002_04546_YEZAHN_000_089,嗯……<hex:02100103>從結論而言，這裡應該也有這種需求吧。
-132,TEXT_BANARK002_04546_YEZAHN_000_090,這一帶一直有著給前往森林裡幹活的人們送飯的習俗。<hex:02100103>因此當地人已經對這些都很熟悉了。
-133,TEXT_BANARK002_04546_YEZAHN_000_091,在這種炎熱的天氣裡，<hex:02100103>如果提早做好了便當會導致裡面的飯菜迅速變質。<hex:02100103>所以才有了這種習俗。
-134,TEXT_BANARK002_04546_YEZAHN_000_092,不過配送便當是件相當危險的工作，<hex:02100103>人手一直都很短缺。
-135,TEXT_BANARK002_04546_TRNA_000_093,難道是因為……食物的香味會引來野生動物嗎？
-136,TEXT_BANARK002_04546_YEZAHN_000_094,能戰鬥的傢伙不是沒空就是仍在接受治療。<hex:02100103>再考慮到說不定還有殘存的末日野獸在森林裡……<hex:02100103>總之，召集人手十分費勁。
-137,TEXT_BANARK002_04546_TRNA_000_095,所以這時就輪到我們出場了嗎……
-138,TEXT_BANARK002_04546_TRNA_000_096,駕駛河馬車的話的確能輕鬆在森林之中穿行。<hex:02100103>我們可以先去村子領完便當再送過去，<hex:02100103>也可以由我們自己來準備便當直接進行配送。
-139,TEXT_BANARK002_04546_TRNA_000_097,謝謝你寶貴的意見！
-140,TEXT_BANARK002_04546_TRNA_000_098,那我們快點回到據點商討一下吧！
-141,TEXT_BANARK002_04546_TRNA_000_100,<hex:022903EB0203>說的真沒錯，<hex:02100103>和當地的居民們聊聊還是很有收穫的嘛！
-142,TEXT_BANARK002_04546_MARU_000_101,大姐頭你想到什麼好主意了嗎？
-143,TEXT_BANARK002_04546_TRNA_000_102,好主意就是送吃的！摩羅盧！<hex:02100103>我們要開始配送便當了！
-144,TEXT_BANARK002_04546_MARU_000_103,誒……去送飯嗎？！
-145,TEXT_BANARK002_04546_MARU_000_104,下單之後剛出爐的熱騰騰飯菜就能送到眼前……？！<hex:02100103>這種能夠輕鬆享用飯菜的服務，我都不禁心動了！
-146,TEXT_BANARK002_04546_MARU_000_105,我們最大的優勢就在於速度……<hex:02100103>而送飯是能夠最大限度發揮我們優勢的服務！<hex:02100103>利用河馬車的話，我們甚至能將剛出鍋的飯菜送到客人面前！
-147,TEXT_BANARK002_04546_TRNA_000_106,如果只是像波洛伽護法村那樣只領取並送達便當的話並沒有問題。<hex:02100103>可要是接受訂單之後再去新港或城裡的店鋪購買，<hex:02100103>那可就有點費時間了。
-148,TEXT_BANARK002_04546_MARU_000_107,這的確是個問題……<hex:02100103>萬一再遇到餐品賣完的情況，<hex:02100103>又得浪費更多的時間……
-149,TEXT_BANARK002_04546_MARU_000_108,那乾脆我們在這裡建個廚房吧，<hex:02100103>這樣不但能夠準備訂單的餐品，<hex:02100103>也能夠馬上進行配送！
-150,TEXT_BANARK002_04546_TRNA_000_109,對啊……<hex:02100103>我們可以從新港的商人和白濱村的漁夫那裡採購食材！
-151,TEXT_BANARK002_04546_MARU_000_110,更、更重要的是……<hex:02100103>我們有了廚房的話，隨時都能製作飯菜！
-152,TEXT_BANARK002_04546_MARU_000_111,我簡直是個天才……<hex:02100103>我這就去準備！
-153,TEXT_BANARK002_04546_SYSTEM_000_112,經過摩羅盧等人的努力，<hex:02100103>大金庫裡新增了廚房！
-154,TEXT_BANARK002_04546_SYSTEM_000_113,現在居民們對他們的評價是「曾是混混的配送服務員」。<hex:02100103>努力推廣新的服務，贏取居民們的信賴吧！
-155,TEXT_BANARK002_04546_SYSTEM_000_115,與悌陽象族「河馬騎手團」之間的關係程度到達了「信賴」。<hex:02100103>冒險者協助他們展開新的服務，贏得了他們的信賴。
-156,TEXT_BANARK002_04546_SYSTEM_000_116,今後可以在大金庫的摩羅盧處，<hex:02100103>接受新的友好部族日常任務。
-157,TEXT_BANARK002_04546_SYSTEM_000_117,同時，作為獎勵，<hex:02100103>友好關係等級提升的當天，<hex:02100103>可從摩羅盧處接受的友好部族日常任務數量追加3個。
-158,TEXT_BANARK002_04546_SYSTEM_000_118,領取完所有友好關係等級提升前發行的友好部族日常任務後，<hex:02100103>將會發行作為獎勵的追加任務。<hex:02100103>受理限額未達到上限即可接受追加任務。
-159,TEXT_BANARK002_04546_SYSTEM_000_119,並且可以在「甘妲」處購入要求「關係程度：信賴」的商品。<hex:02100103>在今後的冒險裡善加利用吧！
-160,TEXT_BANARK002_04546_SYSTEM_000_125,接下來將和荼羅娜同行。<hex:02100103>在執行任務時，需要同行者處於附近位置。
-161,TEXT_BANARK002_04546_SYSTEM_000_126,在同行狀態下，切換區域或選擇「解除同行狀態」，<hex:02100103>都將會解除同行的狀態。
-162,TEXT_BANARK002_04546_SYSTEM_000_127,同行狀態解除後，<hex:02100103>只要和回到了起點的同行者對話，就能再次進入同行狀態。
-163,TEXT_BANARK002_04546_Q3_000_128,要做什麼？
-164,TEXT_BANARK002_04546_A3_000_001,對話
-165,TEXT_BANARK002_04546_A3_000_002,解除同行狀態
-166,TEXT_BANARK002_04546_A3_000_003,取消
-167,TEXT_BANARK002_04546_TRNA_000_129,這裡的煉金術士性格都很古怪啊……<hex:02100103>就連那個委託人也讓我覺得多少有點問題。<hex:02100103>代米爾遺烈鄉在我眼裡簡直如同魔境一樣……
-168,TEXT_BANARK002_04546_TRNA_000_130,好了，我們該打聽的都打聽完了，<hex:02100103>差不多該回去找那位發起委託的煉金術士了。
-169,TEXT_BANARK002_04546_Q4_000_131,確定要解除同行狀態嗎？
-170,TEXT_BANARK002_04546_TRNA_000_132,你是有急事嗎？<hex:02100103>那之後記得來發起委託的煉金術士那裡找我！
-171,TEXT_BANARK002_04546_TRNA_000_133,喲，你來了啊！<hex:02100103>那我們繼續去打聽情報吧。
-172,TEXT_BANARK002_04546_TRNA_100_133,你已經處理完事情了？<hex:02100103>那我們去跟發起委託的煉金術士打聲招呼吧，<hex:02100103>問問能不能取貨了。
-173,TEXT_BANARK002_04546_SYSTEM_000_134,在執行該任務時，需要與荼羅娜保持同行狀態。<hex:02100103>此外，荼羅娜應位於玩家附近。
-174,TEXT_BANARK002_04546_SYSTEM_000_135,同行者還沒過來。<hex:02100103>迎接並帶她來到附近吧。
-175,TEXT_BANARK002_04546_SYSYEM_000_018,
-176,TEXT_BANARK002_04546_SYSYEM_000_019,
-177,TEXT_BANARK002_04546_SYSYEM_000_112,
-178,TEXT_BANARK002_04546_SYSYEM_000_113,
-179,TEXT_BANARK002_04546_SYSYEM_000_115,
-180,TEXT_BANARK002_04546_SYSYEM_000_116,
-181,TEXT_BANARK002_04546_SYSYEM_000_117,
-182,TEXT_BANARK002_04546_SYSYEM_000_118,
-183,TEXT_BANARK002_04546_SYSYEM_000_119,
+0,"TEXT_BANARK002_04546_SEQ_00","Trna's eyes are sparkling with optimism, but the baleful look Maru shoots you from afar tells a different story.<hex:02100103>※The difficulty of this quest will be synced to your current level."
+1,"TEXT_BANARK002_04546_SEQ_01","Trna is energetic with news of the Hippo Riders' progress, but Maru, one of her associates, voices an uneasy prediction: due to the hippo carts' limited storage capacity, it will be only a matter of time before bigger competition sweeps them out of business. Not to be deterred, Trna starts considering what niche service the Hippo Riders might offer, but arrives at no clear answer. You agree to meet her at the Great Work in the hopes that her clientele may offer more inspiration.<hex:02100103><hex:02100103>※Please note that the difficulty of this quest has been synced to your current level. Furthermore, you may not proceed with a class or job that is different from when you accepted this quest."
+2,"TEXT_BANARK002_04546_SEQ_02","You reach the Great Work, but Trna, due to arrive before you, is nowhere to be found. Worried for her safety, you decide to search the area."
+3,"TEXT_BANARK002_04546_SEQ_03","You find Trna fending off a raging vajralangula and dispatch the beast without a second thought. Behind her, an alchemist nurses his injuries, so you kneel to administer what succor you can."
+4,"TEXT_BANARK002_04546_SEQ_04","According to the alchemist, it was a gift of ripe fruit that drew the attention of the vajralangula, and Trna was his unexpected savior. Awkwardly accepting his praise, Trna decides to see the alchemist and his luggage safely into the Great Work before rendezvousing with you to pick up the original delivery."
+5,"TEXT_BANARK002_04546_SEQ_05","Due to an unfortunate and explosive incident, the package is still being prepared. Trna suggests asking around the Great Work for niche business ideas in the meantime."
+6,"TEXT_BANARK002_04546_SEQ_06","Serving as moral support for a trepidatious Trna, you begin your turn around the Great Work. As ever, conversation with the alchemists is bound to be...interesting.<hex:02100103><hex:02100103>※You must be accompanied by Trna to complete this task. Speak with her again should you become separated."
+7,"TEXT_BANARK002_04546_SEQ_07","While undoubtedly colorful, the alchemists' accounts of their recent affairs fall short of delineating an eligible service plan. Regardless, it is time to check back with your customer and see if the package is ready."
+8,"TEXT_BANARK002_04546_SEQ_08","The package, it turns out, is destined for none other than Yezahn─doubtless far too occupied with parenting to procure needed tinctures himself. As you prepare to depart the Great Work, Trna is struck by an idea to assist busy alchemists, but she puts the thought on hold as you set off to Palaka's Stand to reunite with an old acquaintance."
+9,"TEXT_BANARK002_04546_SEQ_09","Upon Yezahn's grateful receipt of the package, Trna senses an opportunity to propose a new hippo-based service─food delivery. Yezahn assures her that such a service would be an attractive option to not only those at the Great Work, but Palaka's Stand as well, given the recently interrupted tradition of bringing fresh meals to those working in the jungle. Buoyed by his encouragement, Trna returns to Svarna in high spirits."
+10,"TEXT_BANARK002_04546_SEQ_10","Trna shares her plan to offer food delivery by hippo cart, thereby solidifying the Hippo Riders' commitment to offering a niche service to the island. To this, Maru enthusiastically suggests installing a kitchen in Svarna, that the meals they deliver might be freshly made. Striking at the fastest way to anyone's heart─the stomach─the Hippo Riders gear up for the delicious deliveries that await!"
+11,"TEXT_BANARK002_04546_SEQ_11",""
+12,"TEXT_BANARK002_04546_SEQ_12",""
+13,"TEXT_BANARK002_04546_SEQ_13",""
+14,"TEXT_BANARK002_04546_SEQ_14",""
+15,"TEXT_BANARK002_04546_SEQ_15",""
+16,"TEXT_BANARK002_04546_SEQ_16",""
+17,"TEXT_BANARK002_04546_SEQ_17",""
+18,"TEXT_BANARK002_04546_SEQ_18",""
+19,"TEXT_BANARK002_04546_SEQ_19",""
+20,"TEXT_BANARK002_04546_SEQ_20",""
+21,"TEXT_BANARK002_04546_SEQ_21",""
+22,"TEXT_BANARK002_04546_SEQ_22",""
+23,"TEXT_BANARK002_04546_SEQ_23",""
+24,"TEXT_BANARK002_04546_TODO_00","Rendezvous with Trna at the Great Work."
+25,"TEXT_BANARK002_04546_TODO_01","Search for Trna."
+26,"TEXT_BANARK002_04546_TODO_02","Aid the injured alchemist."
+27,"TEXT_BANARK002_04546_TODO_03","Speak with the flustered alchemist."
+28,"TEXT_BANARK002_04546_TODO_04","Speak with Trna and have her accompany you."
+29,"TEXT_BANARK002_04546_TODO_05","Question the alchemists of the Great Work while accompanied by Trna."
+30,"TEXT_BANARK002_04546_TODO_06","Speak with the flustered alchemist while accompanied by Trna."
+31,"TEXT_BANARK002_04546_TODO_07","Speak with Yezahn."
+32,"TEXT_BANARK002_04546_TODO_08","Speak with Trna in Svarna."
+33,"TEXT_BANARK002_04546_TODO_09",""
+34,"TEXT_BANARK002_04546_TODO_10",""
+35,"TEXT_BANARK002_04546_TODO_11",""
+36,"TEXT_BANARK002_04546_TODO_12",""
+37,"TEXT_BANARK002_04546_TODO_13",""
+38,"TEXT_BANARK002_04546_TODO_14",""
+39,"TEXT_BANARK002_04546_TODO_15",""
+40,"TEXT_BANARK002_04546_TODO_16",""
+41,"TEXT_BANARK002_04546_TODO_17",""
+42,"TEXT_BANARK002_04546_TODO_18",""
+43,"TEXT_BANARK002_04546_TODO_19",""
+44,"TEXT_BANARK002_04546_TODO_20",""
+45,"TEXT_BANARK002_04546_TODO_21",""
+46,"TEXT_BANARK002_04546_TODO_22",""
+47,"TEXT_BANARK002_04546_TODO_23",""
+48,"TEXT_BANARK002_04546_TRNA_000_000","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! Here to see how we're gettin' along, are you? Let me go an' grab Maru."
+49,"TEXT_BANARK002_04546_TRNA_000_001","Thanks to your help and Kancana's odd jobs, we've been keepin' our carts rollin' and stayin' outta trouble."
+50,"TEXT_BANARK002_04546_TRNA_000_002","Communicatin' with the locals still feels dauntin' at times, but Maru here's made us some gulal to break the ice!"
+51,"TEXT_BANARK002_04546_TRNA_000_003","Er, maybe you don't know what I'm talkin' about─gulal is this bright, colored powder used in some of Thavnair's religious traditions."
+52,"TEXT_BANARK002_04546_TRNA_000_004","There's an old belief that you'll be blessed with good luck an' spared from evil if a visitor sprinkles you with a healthy handful. It's enough to make even the most stubborn buggers happy to welcome us."
+53,"TEXT_BANARK002_04546_MARU_000_005","Sisters know it's been nothin' but bad business for everyone, lately. I reckon a little extra luck would do us all good..."
+54,"TEXT_BANARK002_04546_TRNA_000_006","That it would. Though our own luck might be better if my girl Saurya didn't start gallopin' with glee when she gets so much as a glimpse of the stuff..."
+55,"TEXT_BANARK002_04546_TRNA_000_007","But all in all, we've been gettin' our name out there an' learnin' the job. Might be slow goin', but we're makin' good progress."
+56,"TEXT_BANARK002_04546_MARU_000_008","But Boss... Is slow goin' really gonna cut it? So long's I get to ride, I ain't got no problems, but..."
+57,"TEXT_BANARK002_04546_MARU_000_009","Our carts ain't exactly designed for haulin' cargo. No one beats us for speed, but practically speakin'... "
+58,"TEXT_BANARK002_04546_MARU_000_010","Sooner or later, some silver-tongued dab hand's gonna come along with carriages or boats that can carry loads an' loads of packages. An' then where will we be? Outta work, that's where... "
+59,"TEXT_BANARK002_04546_TRNA_000_011","Our carts might not best a carriage in freight, but it's like you said, Maru─at speed, we're unbeatable. "
+60,"TEXT_BANARK002_04546_TRNA_000_012","If only there was some way to make the most of it... To offer a service that no one else could do better..."
+61,"TEXT_BANARK002_04546_Q1_000_013","What will you say?"
+62,"TEXT_BANARK002_04546_A1_000_001","Ask not and ye shall receive no answer..."
+63,"TEXT_BANARK002_04546_A1_000_002","Don't look at me. Maybe your customers will have some ideas."
+64,"TEXT_BANARK002_04546_TRNA_000_014","True. We won't get anywhere marinatin' in our own juices. Let's ask around an' see what speedy services folks might need."
+65,"TEXT_BANARK002_04546_TRNA_000_015","...Is what I'd say if I knew the first thing about makin' small talk. Which I don't. Help me out?"
+66,"TEXT_BANARK002_04546_TRNA_000_016","Let's start at the Great Work─I got a delivery request from an alchemist there, so me an' Saurya'll head over first."
+67,"TEXT_BANARK002_04546_TRNA_000_017","I'll meet you by the aetheryte after I've picked up the goods."
+68,"TEXT_BANARK002_04546_SYSTEM_000_018","You wait by the aetheryte, but see no sign of Trna, who should have arrived before you. Has trouble befallen her...?"
+69,"TEXT_BANARK002_04546_SYSTEM_000_019","Perhaps you should search the area for any wayward hippos."
+70,"TEXT_BANARK002_04546_TRNA_000_020","What the─ Y-You're amazin'! You put down that beast like it was nothin'!"
+71,"TEXT_BANARK002_04546_ALCHEMIST04546A_000_025","Th-Thank you! Oh, thank you!"
+72,"TEXT_BANARK002_04546_TRNA_000_026","You really saved our skins, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! Me an' Saurya zipped over when we heard yelpin', but it was everythin' I could do to just keep that beast at bay..."
+73,"TEXT_BANARK002_04546_ALCHEMIST04546A_000_027","And I don't know what would have become of me if you hadn't! Allow me to express my sincerest gratitude."
+74,"TEXT_BANARK002_04546_TRNA_000_028","A-Anyway, am I imaginin' things or does it smell like fruit around here? If I was a vajralangula, I'd come runnin' too."
+75,"TEXT_BANARK002_04546_ALCHEMIST04546A_000_029","You've a sharp nose, miss. Yes, I was in Yedlihmad on an errand when a merchant bade me take this fruit, insisting it was delicious and perfectly ripe."
+76,"TEXT_BANARK002_04546_ALCHEMIST04546A_000_030","How was I to know that every beast in Saltwind's Welcome should agree with his claims wholeheartedly? I thought escaping that herd of drooling gaja would be the worst of it, but my hopes were fruitless, as it were."
+77,"TEXT_BANARK002_04546_TRNA_000_031","Well, the next time you've got somethin' to haul, call the Hippo Riders. Me an' my associates do fast, safe deliveries by hippo cart."
+78,"TEXT_BANARK002_04546_ALCHEMIST04546A_000_032","Yes, I've heard talk of hippo couriers as of late! Never did I imagine one would come speeding to my rescue. I will absolutely call upon your services in the future."
+79,"TEXT_BANARK002_04546_TRNA_000_033","I'm gonna load his fruit onto the cart an' see him into town."
+80,"TEXT_BANARK002_04546_TRNA_000_034","I've still gotta pick up that package, so come find me inside the Great Work. This time for sure!"
+81,"TEXT_BANARK002_04546_TRNA_000_035","Here's our customer. Let's pick up the goods and get goin'."
+82,"TEXT_BANARK002_04546_ALCHEMIST04546B_000_036","Aaah! You're the couriers, aren't you? You're here! You're already here!"
+83,"TEXT_BANARK002_04546_ALCHEMIST04546B_000_037","Huh? But <hex:021A020203>you're<hex:021A020103> with the Students of Baldesion, aren't you? What business have you with our parcel!?"
+84,"TEXT_BANARK002_04546_TRNA_000_038","I dunno about any Bal...bald students or nothin', but <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>'s helpin' out with our new delivery service."
+85,"TEXT_BANARK002_04546_ALCHEMIST04546B_000_039","Really? Supporting small businesses, how grand!"
+86,"TEXT_BANARK002_04546_TRNA_000_040","So, er... Can I have the goods now?"
+87,"TEXT_BANARK002_04546_ALCHEMIST04546B_000_041","Ack! W-Well, you see... Th-That is to say... It's not quite ready yet!"
+88,"TEXT_BANARK002_04546_ALCHEMIST04546B_000_042","I overslept, is the thing─just a tiny little bit─so I was rushing to get it all prepared. And that's when I made this truly minuscule error in the formula and it...well, it exploded. Quite explosively."
+89,"TEXT_BANARK002_04546_TRNA_000_043","E-Exploded? That's, er... My condolences. In that case, I'll just hang around here while you're gettin' it ready. ...No rush."
+90,"TEXT_BANARK002_04546_TRNA_000_044","Let's go an' do the talkin' thing while we wait. See what our potential customers need most right now."
+91,"TEXT_BANARK002_04546_ALCHEMIST04546B_000_045","My colleagues <hex:021A020203>unceremoniously<hex:021A020103> ejected me from the laboratory, but they are hard at work getting the shipment together, I promise you!"
+92,"TEXT_BANARK002_04546_TRNA_000_046","Alright! Conversations, here we come."
+93,"TEXT_BANARK002_04546_ALCHEMIST04546C_000_050","Woooooo! Burn, baby, burn!"
+94,"TEXT_BANARK002_04546_ALCHEMIST04546C_000_051","What's this, what's this!? Do I need this, that, or the other!? No, no, no! I'm flying free and feeling fine!"
+95,"TEXT_BANARK002_04546_ALCHEMIST04546C_000_052","I finished all my assigned work, which means I now have three delicious days for my personal research. I'll eat and sleep when I'm dead, but until then─ALCHEMY!"
+96,"TEXT_BANARK002_04546_TRNA_000_053","Er... Right, then. Congratulations?"
+97,"TEXT_BANARK002_04546_ALCHEMIST04546D_000_054","Ughhh... It's never-ending..."
+98,"TEXT_BANARK002_04546_ALCHEMIST04546D_000_055","Do I need anything? Well...the Radiant Host used up its entire stock of medicinal supplies during the Final Days, so requests for replenishment keep pouring in without end."
+99,"TEXT_BANARK002_04546_ALCHEMIST04546D_000_056","I can't remember the last time I sat down for dinner with my family. It seems like a different lifetime by now..."
+100,"TEXT_BANARK002_04546_TRNA_000_057","That's, er, unfortunate. I wish I could help, but I dunno the first thing about medicine..."
+101,"TEXT_BANARK002_04546_ALCHEMIST04546E_000_058","To eat! To sleep! Perchance to lick...?"
+102,"TEXT_BANARK002_04546_ALCHEMIST04546E_000_059","Do I need something? Why, I'm glad you asked─I've depleted my stores of honey!"
+103,"TEXT_BANARK002_04546_ALCHEMIST04546E_000_060","I haven't a moment to spare for such trivial affairs as <hex:021A020203>eating<hex:021A020103>, but cognitive functioning dramatically decreases without regular sustenance, so I came up with a brilliant scheme─lick honey throughout the day for quick and easy nourishment. Only now there's none to be had, as I've licked it all up!"
+104,"TEXT_BANARK002_04546_TRNA_000_061","We could start beekeepin', I guess? “Honey Honey Hippos” does have a ring to it... Then again, I'm not sure how many people'd use a high-speed honey service..."
+105,"TEXT_BANARK002_04546_ALCHEMIST04546C_000_062","There are so many formulae to try! What if I just try them all...at the <hex:021A020203>same time<hex:021A020103>!?"
+106,"TEXT_BANARK002_04546_ALCHEMIST04546D_000_063","I hope I can eat dinner with my family again someday. While I still have a family, that is..."
+107,"TEXT_BANARK002_04546_ALCHEMIST04546E_000_064","I suppose I'll have to order more honey... Or perhaps invent a comparable substance to lick!"
+108,"TEXT_BANARK002_04546_ALCHEMIST04546B_000_065","I am ever so sorry to have kept you waiting! It's all here, packed up safely and hardly singed at all."
+109,"TEXT_BANARK002_04546_ALCHEMIST04546B_000_066","I would like you to take this to a colleague of mine at Palaka's Stand. He's an alchemist named Yezahn. Well built for a bookish type. Handsome. You can't miss him."
+110,"TEXT_BANARK002_04546_Q2_000_067","What will you say?"
+111,"TEXT_BANARK002_04546_A2_000_001","Him! With the baby!"
+112,"TEXT_BANARK002_04546_A2_000_002","Ah, I know Yezahn."
+113,"TEXT_BANARK002_04546_A2_000_003","That name sounds familiar..."
+114,"TEXT_BANARK002_04546_ALCHEMIST04546B_000_068","Oh, you're acquainted, are you? What a small world indeed!"
+115,"TEXT_BANARK002_04546_ALCHEMIST04546B_000_069","He's still the same as ever, watching over his little one and Palaka's Stand alike. He requested replenishments for medicinal supplies, so hopefully this should tide them over."
+116,"TEXT_BANARK002_04546_ALCHEMIST04546B_000_070","I also threw in a handful of finished samples...and the whole explosion incident stays between us, yes!?"
+117,"TEXT_BANARK002_04546_ALCHEMIST04546B_000_071","Now if you'll excuse me, I should eat something before my hands start shaking again. Oh, but do give him my regards! "
+118,"TEXT_BANARK002_04546_TRNA_000_072","These alchemists don't seem to stop for nothin'─even meals. Ain't no denyin' that their work's important, but it's a miracle they haven't all keeled over by now..."
+119,"TEXT_BANARK002_04546_TRNA_000_073","Hmm... What if the vittles came to them? "
+120,"TEXT_BANARK002_04546_TRNA_000_074","...But I'm gettin' ahead of myself. This package ain't gonna ride to Palaka's Stand on its lonesome. Introduce me to this Yezahn when we get there, will you? "
+121,"TEXT_BANARK002_04546_TRNA_000_075","Is this Yezahn? He <hex:021A020203>is<hex:021A020103> pretty sturdy lookin'..."
+122,"TEXT_BANARK002_04546_YEZAHN_000_080","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, what a pleasant surprise! I knew a shipment would be arriving soon, but I never expected you to be with it."
+123,"TEXT_BANARK002_04546_YEZAHN_000_081","Are you playing the part of carter these days, then?"
+124,"TEXT_BANARK002_04546_TRNA_000_082","The alchemist who sent this said it's herbs for medicine...an' somethin' about finished samples, too."
+125,"TEXT_BANARK002_04546_YEZAHN_000_083","Is that so? I know how busy the work keeps them─it's very generous of them to send ready concoctions."
+126,"TEXT_BANARK002_04546_YEZAHN_000_084","I wanted to get straight to work replenishing our medicinal stores, so your prompt arrival is welcome indeed."
+127,"TEXT_BANARK002_04546_TRNA_000_085","Oh, if it's prompt you want, you ain't gotta look no further! The Hippo Riders'll deliver anythin' to anywhere in a flash!"
+128,"TEXT_BANARK002_04546_TRNA_000_086","'Course, we're always fine-tunin' our carts an' services, so as to better, er, serve the area. Seein' as you're the one lookin' out for folks over here, I want to pitch you an idea."
+129,"TEXT_BANARK002_04546_TRNA_000_087","My impression is that folks over at the Great Work are so busy, they barely have time to eat. That can't be good for the alchemy─not to mention the alchemists─so I'm thinkin' we start deliverin' fresh food by hunger-harryin' hippo!"
+130,"TEXT_BANARK002_04546_TRNA_000_088","Only, startin' a service for just a handful of peaky alchemists ain't exactly gonna pay the rent. You think folks here could use some grub-runners?"
+131,"TEXT_BANARK002_04546_YEZAHN_000_089","I do believe so."
+132,"TEXT_BANARK002_04546_YEZAHN_000_090","It has long been tradition to send food to those working in the jungle, so I'm fairly certain you'll find our residents amenable to such a service."
+133,"TEXT_BANARK002_04546_YEZAHN_000_091","As these hot and humid climes tend to spoil foodstuffs easily, we like to deliver meals as soon as they are prepared."
+134,"TEXT_BANARK002_04546_YEZAHN_000_092","However, transporting victuals in this jungle can prove somewhat dangerous."
+135,"TEXT_BANARK002_04546_TRNA_000_093","You mean that the smell attracts all sorts of hungry critters, right?"
+136,"TEXT_BANARK002_04546_YEZAHN_000_094","Precisely. And what with our fighting fit currently healing or engaged in other matters, we simply haven't the manpower to spare on escorting meals."
+137,"TEXT_BANARK002_04546_TRNA_000_095","...But our hippos are a different story!"
+138,"TEXT_BANARK002_04546_TRNA_000_096","A hippo cart can outrun most anythin' in this jungle, so you ain't gotta worry on that front. "
+139,"TEXT_BANARK002_04546_TRNA_000_097","Thanks for weighin' in! I've gotta consult with my associates, but somethin' tells me you can look forward to fresh meals from now on. Call it a lunch hunch."
+140,"TEXT_BANARK002_04546_TRNA_000_098","Alright, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Let's head back to Svarna for a team meetin'."
+141,"TEXT_BANARK002_04546_TRNA_000_100","It was just as you said, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>─askin' around earned us some bright ideas!"
+142,"TEXT_BANARK002_04546_MARU_000_101","You think of somethin' good, Boss?"
+143,"TEXT_BANARK002_04546_TRNA_000_102","Food, Maru! Eats! We're gonna deliver meals with these wheels!"
+144,"TEXT_BANARK002_04546_MARU_000_103","Eats!?"
+145,"TEXT_BANARK002_04546_MARU_000_104","Mouthwaterin' meals delivered wherever, whenever... Wish <hex:021A020203>I<hex:021A020103> could order somethin'."
+146,"TEXT_BANARK002_04546_MARU_000_105","We got it cinched, Boss! Ain't nothin' that'll deliver faster or fresher than our carts!"
+147,"TEXT_BANARK002_04546_TRNA_000_106","Hold your hippos, Maru─we've still gotta sort somethin' out. Where are we gettin' this food in the first place? Takin' meals from Palaka's Stand to the jungle is one thing, but if we've gotta ride all the way to Yedlihmad or<hex:02100103>Radz-at-Han for ready-mades..."
+148,"TEXT_BANARK002_04546_MARU_000_107","Good point. Popular dishes'll be hard to keep in stock..."
+149,"TEXT_BANARK002_04546_MARU_000_108","What if we had a kitchen here? We could make our own meals!"
+150,"TEXT_BANARK002_04546_TRNA_000_109","Yeah... Fresh ingredients from merchants in Yedlihmad... The daily catch from fishers in Akyaali!"
+151,"TEXT_BANARK002_04546_MARU_000_110","An' most importantly─we get an endless supply of food!"
+152,"TEXT_BANARK002_04546_MARU_000_111","I might be a genius, Boss. Wait here, I'll have a kitchen goin' in no time!"
+153,"TEXT_BANARK002_04546_SYSTEM_000_112","Thanks to Maru's enthusiasm, Svarna has a new kitchen!"
+154,"TEXT_BANARK002_04546_SYSTEM_000_113","The Hippo Riders' reputation has risen to <hex:021A020203>formerly<hex:021A020103> delinquent carters. Make the most of their expanded services to help improve their social standing!"
+155,"TEXT_BANARK002_04546_SYSTEM_000_115","You have achieved <hex:024804F201F403><hex:024904F201F503>Trusted<hex:0249020103><hex:0248020103> reputation with the Hippo Riders."
+156,"TEXT_BANARK002_04546_SYSTEM_000_116","New Arkasodara society daily quests are now available from Maru in Svarna."
+157,"TEXT_BANARK002_04546_SYSTEM_000_117","Furthermore, you will be able to undertake three additional quests from Maru as a reputation bonus. This bonus is available until the daily reset time for allied society quests. "
+158,"TEXT_BANARK002_04546_SYSTEM_000_118","These additional quests will become available after accepting all current daily quests from Maru. Please be advised that you cannot undertake these quests if you have no remaining allowances."
+159,"TEXT_BANARK002_04546_SYSTEM_000_119","You now have access to a wider selection of wares from Ghanta."
+160,"TEXT_BANARK002_04546_SYSTEM_000_125","Trna is now accompanying you. Keep her at your side to proceed with quest objectives."
+161,"TEXT_BANARK002_04546_SYSTEM_000_126","You can leave Trna behind by entering a different area, or by speaking with her and selecting the option to part ways."
+162,"TEXT_BANARK002_04546_SYSTEM_000_127","If you wish to have Trna accompany you again, return and speak with her at the original location."
+163,"TEXT_BANARK002_04546_Q3_000_128","What will you do?"
+164,"TEXT_BANARK002_04546_A3_000_001","Speak with Trna."
+165,"TEXT_BANARK002_04546_A3_000_002","Part ways with Trna."
+166,"TEXT_BANARK002_04546_A3_000_003","Nothing."
+167,"TEXT_BANARK002_04546_TRNA_000_129","The alchemists here are an odd bunch, eh? Includin' our latest customer. Kinda feels like I've stepped into another dimension or somethin'."
+168,"TEXT_BANARK002_04546_TRNA_000_130","Alright, I think I've got a good sense of things. Let's head back an' see if the goods are ready."
+169,"TEXT_BANARK002_04546_Q4_000_131","Are you sure you wish to part ways with Trna?"
+170,"TEXT_BANARK002_04546_TRNA_000_132","Somethin' came up? Well, when you're done, come find me by our customer."
+171,"TEXT_BANARK002_04546_TRNA_000_133","You're back! Let's get goin', then."
+172,"TEXT_BANARK002_04546_TRNA_100_133","The goods should be ready to go by now. Let's check in with our customer."
+173,"TEXT_BANARK002_04546_SYSTEM_000_134","You must be accompanied by Trna and have her at your side in order to proceed with quest objectives."
+174,"TEXT_BANARK002_04546_SYSTEM_000_135","Trna has yet to arrive. Be sure she is at your side before attempting to continue."
+175,"TEXT_BANARK002_04546_SYSYEM_000_018",""
+176,"TEXT_BANARK002_04546_SYSYEM_000_019",""
+177,"TEXT_BANARK002_04546_SYSYEM_000_112",""
+178,"TEXT_BANARK002_04546_SYSYEM_000_113",""
+179,"TEXT_BANARK002_04546_SYSYEM_000_115",""
+180,"TEXT_BANARK002_04546_SYSYEM_000_116",""
+181,"TEXT_BANARK002_04546_SYSYEM_000_117",""
+182,"TEXT_BANARK002_04546_SYSYEM_000_118",""
+183,"TEXT_BANARK002_04546_SYSYEM_000_119",""

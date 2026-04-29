@@ -2,64 +2,65 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_LUCKYR003_03604_SEQ_00,
-1,TEXT_LUCKYR003_03604_SEQ_01,
-2,TEXT_LUCKYR003_03604_SEQ_02,
-3,TEXT_LUCKYR003_03604_SEQ_03,
-4,TEXT_LUCKYR003_03604_SEQ_04,
-5,TEXT_LUCKYR003_03604_SEQ_05,
-6,TEXT_LUCKYR003_03604_SEQ_06,
-7,TEXT_LUCKYR003_03604_SEQ_07,
-8,TEXT_LUCKYR003_03604_SEQ_08,
-9,TEXT_LUCKYR003_03604_SEQ_09,
-10,TEXT_LUCKYR003_03604_SEQ_10,
-11,TEXT_LUCKYR003_03604_SEQ_11,
-12,TEXT_LUCKYR003_03604_SEQ_12,
-13,TEXT_LUCKYR003_03604_SEQ_13,
-14,TEXT_LUCKYR003_03604_SEQ_14,
-15,TEXT_LUCKYR003_03604_SEQ_15,
-16,TEXT_LUCKYR003_03604_SEQ_16,
-17,TEXT_LUCKYR003_03604_SEQ_17,
-18,TEXT_LUCKYR003_03604_SEQ_18,
-19,TEXT_LUCKYR003_03604_SEQ_19,
-20,TEXT_LUCKYR003_03604_SEQ_20,
-21,TEXT_LUCKYR003_03604_SEQ_21,
-22,TEXT_LUCKYR003_03604_SEQ_22,
-23,TEXT_LUCKYR003_03604_SEQ_23,
-24,TEXT_LUCKYR003_03604_TODO_00,
-25,TEXT_LUCKYR003_03604_TODO_01,
-26,TEXT_LUCKYR003_03604_TODO_02,
-27,TEXT_LUCKYR003_03604_TODO_03,
-28,TEXT_LUCKYR003_03604_TODO_04,
-29,TEXT_LUCKYR003_03604_TODO_05,
-30,TEXT_LUCKYR003_03604_TODO_06,
-31,TEXT_LUCKYR003_03604_TODO_07,
-32,TEXT_LUCKYR003_03604_TODO_08,
-33,TEXT_LUCKYR003_03604_TODO_09,
-34,TEXT_LUCKYR003_03604_TODO_10,
-35,TEXT_LUCKYR003_03604_TODO_11,
-36,TEXT_LUCKYR003_03604_TODO_12,
-37,TEXT_LUCKYR003_03604_TODO_13,
-38,TEXT_LUCKYR003_03604_TODO_14,
-39,TEXT_LUCKYR003_03604_TODO_15,
-40,TEXT_LUCKYR003_03604_TODO_16,
-41,TEXT_LUCKYR003_03604_TODO_17,
-42,TEXT_LUCKYR003_03604_TODO_18,
-43,TEXT_LUCKYR003_03604_TODO_19,
-44,TEXT_LUCKYR003_03604_TODO_20,
-45,TEXT_LUCKYR003_03604_TODO_21,
-46,TEXT_LUCKYR003_03604_TODO_22,
-47,TEXT_LUCKYR003_03604_TODO_23,
-48,TEXT_LUCKYR003_03604_EIRLALTH_000_000,嗯？我沒見過你呢。<hex:02100103>你跟我一樣是旅行者啊，<hex:02100103>真巧啊！
-49,TEXT_LUCKYR003_03604_EIRLALTH_000_001,我的名字叫埃拉斯！<hex:02100103>為了親眼確認諾弗蘭特「現在的姿態」，<hex:02100103>我正在周遊著這個變得狹小的世界。
-50,TEXT_LUCKYR003_03604_EIRLALTH_000_002,不管是多麼危險的地方，我都不會停下自己的腳步。<hex:02100103>人稱我為鐵打的心臟埃拉斯！<hex:02100103>我是個玩命的探險家！
-51,TEXT_LUCKYR003_03604_EIRLALTH_000_003,話說回來，你好像拿著一本很有意思的筆記啊。<hex:02100103>能拿給我看看嗎？
-52,TEXT_LUCKYR003_03604_EIRLALTH_000_004,我看看啊……嚯、嚯、這真厲害！<hex:02100103>不管是哪個都是我沒見過的景色！<hex:02100103>看來你也是個資深的探險愛好者！
-53,TEXT_LUCKYR003_03604_EIRLALTH_000_005,好了，作為你給我看了筆記的謝禮，<hex:02100103>我給你的筆記上再補充一部分項目。<hex:02100103>這是我走遍了無數地方收集到的情報！
-54,TEXT_LUCKYR003_03604_EIRLALTH_000_006,光之泛濫後這個諾弗蘭特就變了。<hex:02100103>可是就算再艱辛，<hex:02100103>也不能讓目光逃避現實！
-55,TEXT_LUCKYR003_03604_EIRLALTH_000_007,所以我說你啊，請你也用自己的雙眼去見證諾弗蘭特，<hex:02100103>並將你的體驗記錄在筆記上吧。
-56,TEXT_LUCKYR003_03604_SYSTEM_000_008,開放了「探索筆記·暗影之章」！
-57,TEXT_LUCKYR003_03604_SYSTEM_000_009,只有等級在70級以上的戰鬥菁英或魔法導師<hex:02100103>才能達成暗影之章的目的地條件，達成時會獲得經驗值。
-58,TEXT_LUCKYR003_03604_SYSTEM_000_010,從有限情報中推測對應地點及條件，<hex:02100103>來完成新的項目吧！
-59,TEXT_LUCKYR003_03604_EIRLALTH_000_020,你……看來很有前途啊，<hex:02100103>不過我也不能求一個經驗尚淺的冒險者。
-60,TEXT_LUCKYR003_03604_SYSTEM_000_021,若要領取或繼續推進本任務，<hex:02100103>需要任意職業的等級在70級以上。
+0,"TEXT_LUCKYR003_03604_SEQ_00",""
+1,"TEXT_LUCKYR003_03604_SEQ_01",""
+2,"TEXT_LUCKYR003_03604_SEQ_02",""
+3,"TEXT_LUCKYR003_03604_SEQ_03",""
+4,"TEXT_LUCKYR003_03604_SEQ_04",""
+5,"TEXT_LUCKYR003_03604_SEQ_05",""
+6,"TEXT_LUCKYR003_03604_SEQ_06",""
+7,"TEXT_LUCKYR003_03604_SEQ_07",""
+8,"TEXT_LUCKYR003_03604_SEQ_08",""
+9,"TEXT_LUCKYR003_03604_SEQ_09",""
+10,"TEXT_LUCKYR003_03604_SEQ_10",""
+11,"TEXT_LUCKYR003_03604_SEQ_11",""
+12,"TEXT_LUCKYR003_03604_SEQ_12",""
+13,"TEXT_LUCKYR003_03604_SEQ_13",""
+14,"TEXT_LUCKYR003_03604_SEQ_14",""
+15,"TEXT_LUCKYR003_03604_SEQ_15",""
+16,"TEXT_LUCKYR003_03604_SEQ_16",""
+17,"TEXT_LUCKYR003_03604_SEQ_17",""
+18,"TEXT_LUCKYR003_03604_SEQ_18",""
+19,"TEXT_LUCKYR003_03604_SEQ_19",""
+20,"TEXT_LUCKYR003_03604_SEQ_20",""
+21,"TEXT_LUCKYR003_03604_SEQ_21",""
+22,"TEXT_LUCKYR003_03604_SEQ_22",""
+23,"TEXT_LUCKYR003_03604_SEQ_23",""
+24,"TEXT_LUCKYR003_03604_TODO_00",""
+25,"TEXT_LUCKYR003_03604_TODO_01",""
+26,"TEXT_LUCKYR003_03604_TODO_02",""
+27,"TEXT_LUCKYR003_03604_TODO_03",""
+28,"TEXT_LUCKYR003_03604_TODO_04",""
+29,"TEXT_LUCKYR003_03604_TODO_05",""
+30,"TEXT_LUCKYR003_03604_TODO_06",""
+31,"TEXT_LUCKYR003_03604_TODO_07",""
+32,"TEXT_LUCKYR003_03604_TODO_08",""
+33,"TEXT_LUCKYR003_03604_TODO_09",""
+34,"TEXT_LUCKYR003_03604_TODO_10",""
+35,"TEXT_LUCKYR003_03604_TODO_11",""
+36,"TEXT_LUCKYR003_03604_TODO_12",""
+37,"TEXT_LUCKYR003_03604_TODO_13",""
+38,"TEXT_LUCKYR003_03604_TODO_14",""
+39,"TEXT_LUCKYR003_03604_TODO_15",""
+40,"TEXT_LUCKYR003_03604_TODO_16",""
+41,"TEXT_LUCKYR003_03604_TODO_17",""
+42,"TEXT_LUCKYR003_03604_TODO_18",""
+43,"TEXT_LUCKYR003_03604_TODO_19",""
+44,"TEXT_LUCKYR003_03604_TODO_20",""
+45,"TEXT_LUCKYR003_03604_TODO_21",""
+46,"TEXT_LUCKYR003_03604_TODO_22",""
+47,"TEXT_LUCKYR003_03604_TODO_23",""
+48,"TEXT_LUCKYR003_03604_EIRLALTH_000_000","Hold a moment, sinner. You're not from around here, are you? A fellow wandering soul? An eternal inhabitant of the road? I thought so!"
+49,"TEXT_LUCKYR003_03604_EIRLALTH_000_001","Eirlalth's the name. My aspiration is to travel the whole wide world─though it's a fair bit smaller than it used to be, so as far as dreams go, it's a lot more realistic than you might think."
+50,"TEXT_LUCKYR003_03604_EIRLALTH_000_002","But danger still lurks in every corner and around every bend. Even so, this sinner's got nerves of steel! He's a born explorer, Eirlalth! There's no land too distant or place too forbidden, aye!"
+51,"TEXT_LUCKYR003_03604_EIRLALTH_000_003","But what is that I spy poking out of your pack? A log, if I am not mistaken. Give it over, if you would..."
+52,"TEXT_LUCKYR003_03604_EIRLALTH_000_004","Aha, I thought so! A record of fantastic vistas and unforgettable sights! We're kindred spirits─amaro of a feather! Excellent, excellent!"
+53,"TEXT_LUCKYR003_03604_EIRLALTH_000_005","'Tis only right that I share with you such wondrous experiences as you have with me. A collection of amazing vistas I cataloged myself that I guarantee will rival the best you have ever seen!"
+54,"TEXT_LUCKYR003_03604_EIRLALTH_000_006","Norvrandt may be a shadow of its former glory, but there is still joy and excitement to be found if you know where to look, my friend. So I implore you, look, look, look!"
+55,"TEXT_LUCKYR003_03604_EIRLALTH_000_007","Follow in my footsteps. Savor every moment of the journey. And then, when you feel you have discovered every secret this realm has to offer, start again. I promise you won't be disappointed!"
+56,"TEXT_LUCKYR003_03604_SYSTEM_000_008","Shadowbringers entries have been added to your sightseeing log!"
+57,"TEXT_LUCKYR003_03604_SYSTEM_000_009","You must be a Disciple of War or Magic of level 70 or above to record Shadowbringers vistas. Travel to the location indicated and fulfill the necessary conditions and you will complete the entry for that vista, earning experience points in the process."
+58,"TEXT_LUCKYR003_03604_SYSTEM_100_009","The newly added locations in your sightseeing log will be marked by an orb of light. Should you spot such an orb during your adventures, take a moment to stop and record the entry."
+59,"TEXT_LUCKYR003_03604_SYSTEM_000_010","Use your wits and the notes provided by Eirlalth to identify these stunning sights and the proper way to appreciate them, and see Norvrandt as only the greatest explorers have seen her!"
+60,"TEXT_LUCKYR003_03604_EIRLALTH_000_020","You're a new arrival, aren't you? Hmm... On second thought, never mind. What I had in mind is probably too dangerous for your sort."
+61,"TEXT_LUCKYR003_03604_SYSTEM_000_021","In order to undertake this quest, you must have at least one class or job at level 70 or above."

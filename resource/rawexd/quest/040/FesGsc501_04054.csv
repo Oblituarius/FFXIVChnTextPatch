@@ -2,299 +2,299 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_FESGSC501_04054_SEQ_00,※本任務是特定期間內的任務。<hex:02100103><hex:02100103>烏爾達哈的奧利爾想找人幫忙。
-1,TEXT_FESGSC501_04054_SEQ_01,※本任務只有在季節活動開放期間才能接受和進行。<hex:02100103>　季節活動結束後無法進行，敬請注意。<hex:02100103>　詳情請參見官方網站。<hex:02100103><hex:02100103>奧利爾向冒險者尋求了幫助。前往金碟遊樂場奇妙廣場，和曼德維爾休息區的奧利爾談談。
-2,TEXT_FESGSC501_04054_SEQ_02,和奧利爾進行了交談。掌握了案件的大體情況，開始調查工作人員修格是否真的是竊賊。再次和曼德維爾休息區的奧利爾談談。
-3,TEXT_FESGSC501_04054_SEQ_03,和奧利爾進行了交談。為了嘗試使用奧利爾提供的<hex:022811FF0A>EventItem<hex:F61E907D0103>，和曼德維爾休息區附近神色不安的工作人員談談。
-4,TEXT_FESGSC501_04054_SEQ_04,和神色不安的工作人員進行了交談。再次和曼德維爾休息區的奧利爾談談。
-5,TEXT_FESGSC501_04054_SEQ_05,和奧利爾進行了交談。在金碟遊樂場內搜集線索，推理案情的真相。得出結論後，和曼德維爾休息區的奧利爾談談。
-6,TEXT_FESGSC501_04054_SEQ_06,和奧利爾進行了交談，解決了事件。和曼德維爾休息區的奧利爾談談。
-7,TEXT_FESGSC501_04054_SEQ_07,再次和奧利爾進行了交談，奧利爾對冒險者的幫助表示了感謝。他為冒險者準備了謝禮，記得去領取。
-8,TEXT_FESGSC501_04054_SEQ_08,
-9,TEXT_FESGSC501_04054_SEQ_09,
-10,TEXT_FESGSC501_04054_SEQ_10,
-11,TEXT_FESGSC501_04054_SEQ_11,
-12,TEXT_FESGSC501_04054_SEQ_12,
-13,TEXT_FESGSC501_04054_SEQ_13,
-14,TEXT_FESGSC501_04054_SEQ_14,
-15,TEXT_FESGSC501_04054_SEQ_15,
-16,TEXT_FESGSC501_04054_SEQ_16,
-17,TEXT_FESGSC501_04054_SEQ_17,
-18,TEXT_FESGSC501_04054_SEQ_18,
-19,TEXT_FESGSC501_04054_SEQ_19,
-20,TEXT_FESGSC501_04054_SEQ_20,
-21,TEXT_FESGSC501_04054_SEQ_21,
-22,TEXT_FESGSC501_04054_SEQ_22,
-23,TEXT_FESGSC501_04054_SEQ_23,
-24,TEXT_FESGSC501_04054_TODO_00,和金碟遊樂場的奧利爾對話
-25,TEXT_FESGSC501_04054_TODO_01,再次和奧利爾對話
-26,TEXT_FESGSC501_04054_TODO_02,和神色不安的工作人員對話
-27,TEXT_FESGSC501_04054_TODO_03,和奧利爾對話
-28,TEXT_FESGSC501_04054_TODO_04,收集線索後和奧利爾對話
-29,TEXT_FESGSC501_04054_TODO_05,和奧利爾對話
-30,TEXT_FESGSC501_04054_TODO_06,
-31,TEXT_FESGSC501_04054_TODO_07,
-32,TEXT_FESGSC501_04054_TODO_08,
-33,TEXT_FESGSC501_04054_TODO_09,
-34,TEXT_FESGSC501_04054_TODO_10,
-35,TEXT_FESGSC501_04054_TODO_11,
-36,TEXT_FESGSC501_04054_TODO_12,
-37,TEXT_FESGSC501_04054_TODO_13,
-38,TEXT_FESGSC501_04054_TODO_14,
-39,TEXT_FESGSC501_04054_TODO_15,
-40,TEXT_FESGSC501_04054_TODO_16,
-41,TEXT_FESGSC501_04054_TODO_17,
-42,TEXT_FESGSC501_04054_TODO_18,
-43,TEXT_FESGSC501_04054_TODO_19,
-44,TEXT_FESGSC501_04054_TODO_20,
-45,TEXT_FESGSC501_04054_TODO_21,
-46,TEXT_FESGSC501_04054_TODO_22,
-47,TEXT_FESGSC501_04054_TODO_23,
-48,TEXT_FESGSC501_04054_OLLIER_000_000,不好意思……<hex:02100103>請問您能幫幫我嗎？
-49,TEXT_FESGSC501_04054_OLLIER_000_001,啊，是您！<hex:02100103>您之前參加過我們舉辦的模擬殺人事件體驗活動吧。<hex:02100103>我是那時的工作人員奧利爾！
-50,TEXT_FESGSC501_04054_OLLIER_000_002,唉，這件事真是難以啟齒……<hex:02100103>金碟遊樂場裡發生了偷盜事件，<hex:02100103>這次可不是體驗活動，我們已經委託了銅刃團進行調查。
-51,TEXT_FESGSC501_04054_OLLIER_000_003,我是金碟遊樂場的工作人員奧利爾。
-52,TEXT_FESGSC501_04054_OLLIER_000_004,唉，這件事真是難以啟齒……<hex:02100103>金碟遊樂場裡發生了偷盜事件，<hex:02100103>我們已經委託了銅刃團進行調查。
-53,TEXT_FESGSC501_04054_OLLIER_000_005,然而和我同為工作人員的好朋友竟被懷疑是竊賊，<hex:02100103>正在被銅刃團逼供！
-54,TEXT_FESGSC501_04054_OLLIER_000_006,我實在是不認為他會監守自盜……<hex:02100103>為了證明他的清白，我正在尋求幫助，<hex:02100103>希望能找到一位擅長搜查的人。
-55,TEXT_FESGSC501_04054_OLLIER_000_007,我知道事出突然，但請您一定要幫幫我！
-56,TEXT_FESGSC501_04054_OLLIER_000_008,謝謝！<hex:02100103>請您前往金碟遊樂場奇妙廣場的曼德維爾休息區，<hex:02100103>我會在那裡向您解釋原委。
-57,TEXT_FESGSC501_04054_OLLIER_000_009,要是您沒去過金碟遊樂場的話，<hex:02100103>就和那邊的揮金如土的年輕人談談吧。<hex:02100103>他看上去很大方，應該會給您去金碟遊樂場的票。
-58,TEXT_FESGSC501_04054_SYSTEM_000_010,若要領取或繼續推進本任務，需要在烏爾達哈現世迴廊領取<hex:02100103>15級才能領取的任務「前往遊樂場」。
-59,TEXT_FESGSC501_04054_OLLIER_000_020,由衷感謝您的到來！
-60,TEXT_FESGSC501_04054_OLLIER_000_021,請看那邊……<hex:02100103>他就是現在正接受銅刃團審問的嫌疑犯，工作人員修格。
-61,TEXT_FESGSC501_04054_BRASSBLADESMANA04054_000_022,喂，你們兩個！<hex:02100103>現在正在審問，不要離得太近！
-62,TEXT_FESGSC501_04054_ROLAND_000_023,(-？？？？-)好了好了，又沒有影響到審問，<hex:02100103>不要喊那麼大聲嘛。
-63,TEXT_FESGSC501_04054_ROLAND_000_024,哎呀，這不是<hex:022903EB0203>閣下嗎！<hex:02100103>沒想到會在這裡遇見您。
-64,TEXT_FESGSC501_04054_ROLAND_000_025,歡迎來到金碟遊樂場，<hex:02100103>我是這裡的副主管羅蘭德。
-65,TEXT_FESGSC501_04054_ROLAND_000_026,請問您到此有何貴幹？
-66,TEXT_FESGSC501_04054_ROLAND_000_027,原來如此……<hex:02100103>奧利爾已經告訴您整件事的來龍去脈了嗎？
-67,TEXT_FESGSC501_04054_OLLIER_000_028,真、真是不好意思……<hex:02100103>我這就開始說明！
-68,TEXT_FESGSC501_04054_OLLIER_000_029,就在不久之前，綜合櫃檯內的獎品保管處<hex:02100103>少了一支帝王仙人刺角笛。
-69,TEXT_FESGSC501_04054_OLLIER_000_030,櫃檯內除了工作人員以外，閒雜人等是不許擅自進入的，<hex:02100103>而且大家都很小心地盯著，所以應該不是某位客人進來偷走的。
-70,TEXT_FESGSC501_04054_OLLIER_000_031,於是嫌疑落在了角笛失蹤之前負責兌換獎品的修格身上。
-71,TEXT_FESGSC501_04054_OLLIER_000_032,他始終堅持自己是清白的，<hex:02100103>但銅刃團根據情況強行認定他就是竊賊……
-72,TEXT_FESGSC501_04054_OLLIER_100_032,實際上，從前他有過盜竊的前科……<hex:02100103>但現在的他工作真的非常認真，<hex:02100103>我認為不能僅僅因為有前科就認定東西是他偷的。
-73,TEXT_FESGSC501_04054_OLLIER_000_033,再這樣被逼供下去，<hex:02100103>恐怕修格會無法承受，疲於辯解而認下冤罪。<hex:02100103>我實在無法眼睜睜看著他被誣陷！
-74,TEXT_FESGSC501_04054_ROLAND_000_034,修格確實是個勤快的好小夥。
-75,TEXT_FESGSC501_04054_ROLAND_000_035,能否拜託您調查一下，是否有其他證據能替他洗刷罪名？<hex:02100103>我和奧利爾一樣，都不認為獎品是修格偷的。
-76,TEXT_FESGSC501_04054_ROLAND_000_036,謝謝，我會向負責審訊的銅刃團達魯斯閣下說明<hex:02100103>您正在協助調查一事。
-77,TEXT_FESGSC501_04054_ROLAND_000_037,奧利爾，之後的事宜就交給你了。
-78,TEXT_FESGSC501_04054_DALUCE_000_038,羅蘭德閣下說的冒險者就是你？<hex:02100103>要調查也無所謂，不過我們很確定盜竊犯就是他。
-79,TEXT_FESGSC501_04054_HUGUE_000_039,我發誓，真的不是我偷的！<hex:02100103>請相信我！
-80,TEXT_FESGSC501_04054_STAFFA04054_100_039,金碟遊樂場裡竟然會發生偷竊案……
-81,TEXT_FESGSC501_04054_OLLIER_000_040,在開始調查之前，我有一樣東西想交給您……
-82,TEXT_FESGSC501_04054_OLLIER_000_041,如果調查時有什麼令您在意的證言、疑點，<hex:02100103>可以寫在<hex:022811FF0A>EventItem<hex:F61E907D0103>上。<hex:02100103>這份記錄或許會對您破案有所幫助。
-83,TEXT_FESGSC501_04054_OLLIER_000_042,那邊的桌子旁有一位神色不安的工作人員，<hex:02100103>先從他入手，和他聊聊如何？
-84,TEXT_FESGSC501_04054_OLLIER_000_043,試著使用<hex:022811FF0A>EventItem<hex:F61E907D0103>吧！<hex:02100103>那邊的桌子旁有一位神色不安的工作人員，<hex:02100103>先從他入手，和他聊聊如何？
-85,TEXT_FESGSC501_04054_SYSTEM_000_050,詢問了是否知道關於事件和嫌疑人的線索……
-86,TEXT_FESGSC501_04054_SYSTEM_000_051,仔細地環顧了四周……
-87,TEXT_FESGSC501_04054_SYSTEM_000_052,這可能是一條線索，先記下來吧！
-88,TEXT_FESGSC501_04054_SYSTEM_100_052,這條線索已經記錄下來了……
-89,TEXT_FESGSC501_04054_SYSTEM_000_053,已經集齊了解開案情所必需的所有證言和證據！
-90,TEXT_FESGSC501_04054_STAFFA04054_000_054,金碟遊樂場裡竟然會發生偷竊案……<hex:02100103>事情發生時我正在櫃檯裡，負責仙人微彩項目。
-91,TEXT_FESGSC501_04054_STAFFA04054_100_054,正在那邊負責審訊修格的銅刃團的達魯斯和皮皮瑪雅<hex:02100103>也來問過我當時的情況，真的和平時差不多。
-92,TEXT_FESGSC501_04054_STAFFA04054_000_055,硬要說的話，<hex:02100103>那就是金碟嘉年華舉辦期間的客人比平時要多一些。
-93,TEXT_FESGSC501_04054_STAFFA04054_000_056,即使如此，如果有工作人員以外的人進入櫃檯的話，<hex:02100103>肯定會被發現，這點我敢保證。
-94,TEXT_FESGSC501_04054_OLLIER_000_060,您把他的證言記在搜查記錄手冊上了嗎？
-95,TEXT_FESGSC501_04054_OLLIER_000_061,只要調查得足夠細緻，一定能解開案情的真相。<hex:02100103>請您一定要幫修格證明他的清白！
-96,TEXT_FESGSC501_04054_SYSTEM_000_062,本任務是「探索類任務」。<hex:02100103>在任務進行中，<hex:02100103>日誌、目的列表和地圖有時不會提供相關提示。
-97,TEXT_FESGSC501_04054_SYSTEM_000_063,能夠解決事件的關鍵證詞以及證據<hex:02100103>散落在金碟遊樂場內的各個位置。<hex:02100103>可以通過問話和調查搜集到證詞及證據。
-98,TEXT_FESGSC501_04054_SYSTEM_000_064,搜集的線索可以通過打開「物品」中的「任務道具」，<hex:02100103>使用<hex:022811FF0A>EventItem<hex:F61E907D0103>再次確認。
-99,TEXT_FESGSC501_04054_SYSTEM_000_065,找到充足的證據鏈後，<hex:02100103>請和奧利爾對話，開始推理。<hex:02100103>搜集證據，推理案情，尋找真相吧！
-100,TEXT_FESGSC501_04054_SASAPANO_000_064,趕快承認吧，這樣還能爭取到從輕量刑。
-101,TEXT_FESGSC501_04054_GUESTA04054_000_070,哦，你說那位人族的工作人員啊。<hex:02100103>我記得有位客人拜託他幫忙帶路，他就離開了一次櫃檯。
-102,TEXT_FESGSC501_04054_GUESTA04054_000_071,而且我記得清清楚楚，<hex:02100103>在他回來之前的那段時間裡，櫃檯裡空無一人，<hex:02100103>完全不見工作人員的身影。
-103,TEXT_FESGSC501_04054_BRASSBLADESMANB04054_000_072,被偷走的角笛肯定藏在某處。<hex:02100103>不過這麼大的遊樂場裡怎麼找啊？<hex:02100103>嘖，淨推給我麻煩事……
-104,TEXT_FESGSC501_04054_SYSTEM_000_073,可能有些東西無法從這個角度被觀察到。<hex:02100103>是錯覺嗎？
-105,TEXT_FESGSC501_04054_STAFFB04054_100_074,啊……這、這可怎麼辦啊……
-106,TEXT_FESGSC501_04054_SYSTEM_200_074,他一副很焦急的樣子，根本聽不進別人的話……<hex:02100103>先去尋找讓他焦急的原因吧。
-107,TEXT_FESGSC501_04054_SYSTEM_000_074,聽取了有關丟失的工作人員制服的線索……
-108,TEXT_FESGSC501_04054_STAFFB04054_000_075,什麼？你問我是不是弄丟了制服？<hex:02100103>噓！小聲點！
-109,TEXT_FESGSC501_04054_STAFFB04054_000_076,那可是只會發給員工的重要物品，<hex:02100103>如果被人知道我弄丟了它，我可就遭殃了！
-110,TEXT_FESGSC501_04054_STAFFB04054_000_077,當然我也問過清潔員有沒有看到一件制服。
-111,TEXT_FESGSC501_04054_STAFFB04054_000_078,但他們說已經打掃過整個遊樂場，<hex:02100103>並沒有發現任何遺失物品。<hex:02100103>唉，我的制服到底哪裡去了……
-112,TEXT_FESGSC501_04054_BRASSBLADESMANC04054_100_079,竊賊不就是修格嗎？<hex:02100103>與其浪費時間討論這個，還不如聊聊其他衛兵的傳聞呢。
-113,TEXT_FESGSC501_04054_SYSTEM_200_079,現在還無法得到線索……<hex:02100103>找到讓他感興趣的話題後，再次和他對話吧。
-114,TEXT_FESGSC501_04054_BRASSBLADESMANC04054_000_079,竊賊不就是修格嗎？<hex:02100103>與其浪費時間討論這個，還不如聊聊其他衛兵的傳聞呢。<hex:02100103>你有沒有聽說什麼有趣的消息？
-115,TEXT_FESGSC501_04054_BRASSBLADESMANC04054_000_080,皮皮瑪雅無視了新人的邀請，自己去了陸行鳥競賽那邊？<hex:02100103>嘿，這倒是挺稀奇的啊。
-116,TEXT_FESGSC501_04054_BRASSBLADESMANC04054_000_081,他這個人性格和善，人緣很好，<hex:02100103>有個新人念錯過他的名字，管他叫「瑪雅皮皮前輩」，<hex:02100103>他也沒生氣，反而把這當成了自己的新暱稱。
-117,TEXT_FESGSC501_04054_BRASSBLADESMANC04054_000_082,在那之後有不少人親切地稱呼他為「瑪雅皮皮前輩」，<hex:02100103>不過他居然無視了邀請自己去玩啊……有意思。<hex:02100103>謝謝你告訴我這個有趣的消息！
-118,TEXT_FESGSC501_04054_STAFFC04054_000_083,令人在意的事？<hex:02100103>嗯，雖然和案情沒什麼關係吧……
-119,TEXT_FESGSC501_04054_STAFFC04054_000_084,仙人彩項目的工作人員好像把他的制服弄丟了。<hex:02100103>他在這裡工作很長時間了，我第一次聽說他會犯這種錯誤。
-120,TEXT_FESGSC501_04054_STAFFC04054_000_085,沒想到他這麼毛手毛腳的。<hex:02100103>如果一直找不到的話，他肯定會遭到嚴厲的訓斥……
-121,TEXT_FESGSC501_04054_BRASSBLADESMANE04054_000_086,事情發生時我們剛好在休息時間，<hex:02100103>我正想和前輩一起去玩玩，向他搭了話，<hex:02100103>但沒想到他看都不看我一眼，直奔陸行鳥競賽而去。
-122,TEXT_FESGSC501_04054_BRASSBLADESMANF04054_000_087,哪個前輩？啊，皮皮瑪雅呀。<hex:02100103>我倒是聽說過他弟弟特別喜歡金碟遊樂場，<hex:02100103>沒想到皮皮瑪雅也和他弟弟一樣啊。
-123,TEXT_FESGSC501_04054_BRASSBLADESMANF04054_000_088,他不僅對同僚親切，對嫌犯也是非常和善。<hex:02100103>沒想到為了去玩遊樂項目，居然會無視別人的邀請……<hex:02100103>該說真不愧是親兄弟嗎？哈哈哈哈。
-124,TEXT_FESGSC501_04054_STAFFD04054_000_089,說起來這次參加搜查的皮皮瑪雅，<hex:02100103>平時也總來金碟遊樂場玩吧？<hex:02100103>我之前看到過他！
-125,TEXT_FESGSC501_04054_STAFFE04054_000_090,嗯？你看到的是他弟弟吧。<hex:02100103>他弟弟可是出了名的金碟遊樂場常客，<hex:02100103>聽說正拚死拼活地到處搜集金碟幣……
-126,TEXT_FESGSC501_04054_STAFFD04054_000_091,誒？皮皮瑪雅有個弟弟？！<hex:02100103>我可從來沒聽說過！
-127,TEXT_FESGSC501_04054_STAFFE04054_000_092,什麼啊，你不知道嗎？他可是大家話題的中心人物。<hex:02100103>瞧他來金碟遊樂場那頻繁的程度，<hex:02100103>肯定是看中了某樣昂貴的獎品。
-128,TEXT_FESGSC501_04054_OLLIER_000_100,怎麼樣了？<hex:02100103>您的表情看起來有些不安……<hex:02100103>有沒有掌握到事情的真相？
-129,TEXT_FESGSC501_04054_OLLIER_000_101,怎麼樣了？<hex:02100103>您好像已經找遍了園內的所有線索，<hex:02100103>有沒有掌握到事情的真相？
-130,TEXT_FESGSC501_04054_Q1_000_000,如何作答？
-131,TEXT_FESGSC501_04054_A1_000_001,我已經知道竊賊是誰了！
-132,TEXT_FESGSC501_04054_A1_000_002,還不太能確定……
-133,TEXT_FESGSC501_04054_SYSTEM_000_102,在接下來的推理中，根據選項的不同，<hex:02100103>故事的結局會有所不同。<hex:02100103>不過無論是何種結局，任務完成時獲得的報酬都不會變化。
-134,TEXT_FESGSC501_04054_Q2_000_000,確定要開始推理嗎？
-135,TEXT_FESGSC501_04054_OLLIER_000_103,真的嗎！<hex:02100103>好的，那請您趕快把真相告訴大家！
-136,TEXT_FESGSC501_04054_OLLIER_000_104,我明白了。<hex:02100103>等您找到事情的真相後，請再來告訴我。
-137,TEXT_FESGSC501_04054_ROLAND_000_110,達魯斯閣下，十分感謝您允許我們加入調查。<hex:02100103>我想從公平的角度出發，重新審視全局，<hex:02100103>請問能否得到您的批准？
-138,TEXT_FESGSC501_04054_DALUCE_000_111,沒問題，儘管開始吧，<hex:02100103>我們也想弄清事情的真相。
-139,TEXT_FESGSC501_04054_ROLAND_000_112,<hex:022903EB0203>閣下，請問可以開始了嗎？
-140,TEXT_FESGSC501_04054_ROLAND_000_113,好的。<hex:02100103>首先，能否請達魯斯閣下重新說明一遍案情？
-141,TEXT_FESGSC501_04054_DALUCE_000_114,本案發生在不久之前，和修格換班的工作人員發現<hex:02100103>綜合櫃檯內獎品保管處丟失了一支帝王仙人刺角笛。
-142,TEXT_FESGSC501_04054_DALUCE_000_115,經過多方調查確認，並沒有找到目擊證人<hex:02100103>能證明修格之外曾有人進入過櫃檯內。
-143,TEXT_FESGSC501_04054_DALUCE_000_116,而且修格此人有盜竊前科，<hex:02100103>綜合考慮後，我們認定修格為此案最大嫌疑人，<hex:02100103>目前正在對他進行審訊。
-144,TEXT_FESGSC501_04054_ROLAND_000_117,感謝您的說明。
-145,TEXT_FESGSC501_04054_ROLAND_000_118,冒險者閣下，請問您認為達魯斯閣下適才的陳述中<hex:02100103>是否存在疑點？
-146,TEXT_FESGSC501_04054_Q3_000_000,是否存在疑點？
-147,TEXT_FESGSC501_04054_A3_000_001,竊賊另有其人！
-148,TEXT_FESGSC501_04054_A3_000_002,你憑什麼認定修格是竊賊？證據呢？
-149,TEXT_FESGSC501_04054_DALUCE_000_120,什麼？！<hex:02100103>你又是怎麼知道的？
-150,TEXT_FESGSC501_04054_Q4_000_000,為什麼認為竊賊另有其人？
-151,TEXT_FESGSC501_04054_A4_000_001,這種案件一般都有幕後黑手！
-152,TEXT_FESGSC501_04054_A4_000_002,我猜的……
-153,TEXT_FESGSC501_04054_A4_000_003,有一件工作人員的制服不見了！
-154,TEXT_FESGSC501_04054_DALUCE_000_121,嫌疑犯離開櫃檯那段時間裡，<hex:02100103>有證人表示並無其他工作人員進入櫃檯。<hex:02100103>這證明角笛不可能是其他人偷的。
-155,TEXT_FESGSC501_04054_DALUCE_000_122,……<hex:02100103>我可沒空陪你胡鬧。
-156,TEXT_FESGSC501_04054_DALUCE_000_123,什麼？！
-157,TEXT_FESGSC501_04054_ROLAND_000_124,嗯……下一個問題，<hex:02100103>銅刃團認定修格是竊賊，但是否有證據能證明不是他幹的？
-158,TEXT_FESGSC501_04054_Q5_000_000,是否有證據能證明修格並非罪犯？
-159,TEXT_FESGSC501_04054_A5_000_001,因為他長得像好人！
-160,TEXT_FESGSC501_04054_A5_000_002,他都說了不是他幹的，不要再懷疑他了！
-161,TEXT_FESGSC501_04054_A5_000_003,遊樂場內根本沒有找到被偷走的角笛
-162,TEXT_FESGSC501_04054_DALUCE_000_125,眼下確實如此，但找到角笛只是時間問題。<hex:02100103>而且如果你斷定偷盜者並非是他，<hex:02100103>那角笛到底是什麼時候被偷走的？
-163,TEXT_FESGSC501_04054_Q6_000_000,角笛是什麼時候被偷走的？
-164,TEXT_FESGSC501_04054_A6_000_001,好吧，大概可能也許就是他偷的
-165,TEXT_FESGSC501_04054_A6_000_002,應該是幽靈之類的什麼東西趁大家不注意，偷偷拿走了！
-166,TEXT_FESGSC501_04054_A6_000_003,在修格離開櫃檯期間！
-167,TEXT_FESGSC501_04054_ROLAND_000_126,冒險者閣下啊，修格的命運可全搭在您身上……<hex:02100103>能否認真一點？
-168,TEXT_FESGSC501_04054_DALUCE_000_127,聽聽這毫無根據的胡言亂語，<hex:02100103>簡直就是在浪費我的時間！
-169,TEXT_FESGSC501_04054_ROLAND_000_128,原來如此……<hex:02100103>您能這麼肯定，一定是找到了決定性證據。
-170,TEXT_FESGSC501_04054_ROLAND_000_129,經過了一番討論之後，讓我們進入最關鍵的問題吧。<hex:02100103>竊賊究竟是誰？
-171,TEXT_FESGSC501_04054_Q7_000_000,竊賊是誰？
-172,TEXT_FESGSC501_04054_A7_000_001,竊賊就是你，皮皮瑪雅！
-173,TEXT_FESGSC501_04054_A7_000_002,至少不是修格！
-174,TEXT_FESGSC501_04054_A7_000_003,抱歉啊修格，只可能是你了……
-175,TEXT_FESGSC501_04054_A7_000_004,我覺得是達魯斯！
-176,TEXT_FESGSC501_04054_SASAPANO_000_130,(-皮皮瑪雅-)什、什麼？！<hex:02100103>你說是我偷的？！
-177,TEXT_FESGSC501_04054_SASAPANO_000_131,(-皮皮瑪雅-)開什麼玩笑……你有證據嗎？！
-178,TEXT_FESGSC501_04054_Q8_000_000,為什麼認為皮皮瑪雅是竊賊？
-179,TEXT_FESGSC501_04054_A8_000_001,冒險者的第六感從不出錯！
-180,TEXT_FESGSC501_04054_A8_000_002,因為你長了一張壞人的臉！
-181,TEXT_FESGSC501_04054_A8_000_003,因為被偷走的是一件拉拉菲爾族員工制服！
-182,TEXT_FESGSC501_04054_ROLAND_000_132,……<hex:02100103>現在真的不適合開玩笑。<hex:02100103>我會重新問您一遍，請您這次認真地回答我。
-183,TEXT_FESGSC501_04054_DALUCE_000_133,哼……你說他不是竊賊，那證據呢？
-184,TEXT_FESGSC501_04054_Q9_000_000,認為修格不是竊賊的證據是？
-185,TEXT_FESGSC501_04054_A9_000_001,沒有足夠證據能證明他是竊賊！
-186,TEXT_FESGSC501_04054_A9_000_002,讓我再想想？
-187,TEXT_FESGSC501_04054_A9_000_003,這、這個……
-188,TEXT_FESGSC501_04054_ROLAND_000_134,……<hex:02100103>現在真的不適合開玩笑。<hex:02100103>我會重新問您一遍，請您這次認真地回答我。
-189,TEXT_FESGSC501_04054_OLLIER_000_135,不！！怎麼會這樣……
-190,TEXT_FESGSC501_04054_DALUCE_000_136,我明白了。<hex:02100103>你經過一番調查後，確定了他就是竊賊沒錯。
-191,TEXT_FESGSC501_04054_DALUCE_000_137,修格，坦白吧……<hex:02100103>你把角笛藏在了哪裡？
-192,TEXT_FESGSC501_04054_DALUCE_000_138,你……認真的嗎？
-193,TEXT_FESGSC501_04054_DALUCE_000_139,夠了，不要再浪費我的時間。<hex:02100103>把修格帶走！
-194,TEXT_FESGSC501_04054_SASAPANO_000_140,(-皮皮瑪雅-)就憑這種理由認定我是竊賊？！<hex:02100103>拉拉菲爾族又不是只有我一個人！<hex:02100103>你這純屬是在污衊我！
-195,TEXT_FESGSC501_04054_Q10_000_000,要說什麼？
-196,TEXT_FESGSC501_04054_A10_000_001,你是不是有個拚命賺金碟幣的弟弟？
-197,TEXT_FESGSC501_04054_A10_000_002,嗯……也有一定道理……
-198,TEXT_FESGSC501_04054_A10_000_003,呃……
-199,TEXT_FESGSC501_04054_SASAPANO_000_141,(-皮皮瑪雅-)就算修格不是竊賊，那也不可能是我！<hex:02100103>沒錯！就是這樣！竊賊另有其人！
-200,TEXT_FESGSC501_04054_SASAPANO_000_142,(-皮皮瑪雅-)你……你怎麼知道的？！
-201,TEXT_FESGSC501_04054_SASAPANO_000_143,(-皮皮瑪雅-)啊、啊但是我有不在場證明！<hex:02100103>角笛被偷時我去陸行鳥競賽那邊了！
-202,TEXT_FESGSC501_04054_SASAPANO_000_144,(-皮皮瑪雅-)你可以去問問陸行鳥競賽的工作人員啊！<hex:02100103>他們會證明我的清白！
-203,TEXT_FESGSC501_04054_Q11_000_000,要說什麼？
-204,TEXT_FESGSC501_04054_A11_000_001,真是抱歉，瑪雅皮皮前輩！
-205,TEXT_FESGSC501_04054_A11_000_002,坦白從寬抗拒從嚴！
-206,TEXT_FESGSC501_04054_SASAPANO_000_145,(-皮皮瑪雅-)不是我做的事，我為什麼要承認？！<hex:02100103>就算修格不是竊賊，那也不可能是我！<hex:02100103>沒錯！就是這樣！竊賊另有其人！
-207,TEXT_FESGSC501_04054_PIPIMAYA_000_150,(-？？？？-)看來一切順利……
-208,TEXT_FESGSC501_04054_OLLIER_000_151,綜上所述，我認為以目前的證據不足以判定東西就是修格偷的。<hex:02100103>請問各位有何高見？能否提供決定性證據？
-209,TEXT_FESGSC501_04054_DALUCE_000_152,本案確實如<hex:02080DE905FF04>她<hex:FF04>他<hex:03>所說，<hex:02100103>並沒有決定性證據能證明修格是竊賊。
-210,TEXT_FESGSC501_04054_DALUCE_000_153,抱歉……我會立刻釋放他。
-211,TEXT_FESGSC501_04054_DALUCE_000_154,可是竊賊到底是誰呢？
-212,TEXT_FESGSC501_04054_PIPIMAYA_000_155,(-？？？？-)看來一切順利……
-213,TEXT_FESGSC501_04054_SASAPANO_000_160,(-皮皮瑪雅-)什麼瑪雅皮皮前輩？<hex:02100103>你怎麼連別人的名字都記不住？
-214,TEXT_FESGSC501_04054_BRASSBLADESMANC04054_000_161,誒，瑪雅皮皮前輩……<hex:02100103>你不是很願意我們這麼稱呼你的嗎……
-215,TEXT_FESGSC501_04054_PIPIMAYA_000_162,(-？？？？-)到此為止吧，薩薩帕諾。<hex:02100103>我們已經被揭穿了。
-216,TEXT_FESGSC501_04054_PIPIMAYA_000_163,(-和皮皮瑪雅相貌相似的人-)不錯，修格確實是無辜的。
-217,TEXT_FESGSC501_04054_PIPIMAYA_000_164,(-和皮皮瑪雅相貌相似的人-)這起盜竊案是我們做的。
-218,TEXT_FESGSC501_04054_BRASSBLADESMANC04054_000_165,怎麼有兩個前輩？
-219,TEXT_FESGSC501_04054_DALUCE_000_166,這……這是怎麼回事？
-220,TEXT_FESGSC501_04054_ROLAND_000_167,能否向我們解釋一下？
-221,TEXT_FESGSC501_04054_PIPIMAYA_000_168,我才是真正的皮皮瑪雅，<hex:02100103>而他是我的雙胞胎弟弟，薩薩帕諾。
-222,TEXT_FESGSC501_04054_PIPIMAYA_000_169,我們還有一個比我們小幾歲的弟弟，<hex:02100103>他不但非常聰明並且還身手矯健，是我們的驕傲。
-223,TEXT_FESGSC501_04054_PIPIMAYA_000_170,然而三弟他卻患上了難以治療的疑難病症……<hex:02100103>醫生說他已經命在旦夕。
-224,TEXT_FESGSC501_04054_PIPIMAYA_000_171,如果三弟他還有什麼尚未實現的夢想，<hex:02100103>我們一定要趁他的身體還能自由活動時幫他實現！
-225,TEXT_FESGSC501_04054_PIPIMAYA_000_172,他說，他的夢想是坐上帝王仙人刺……<hex:02100103>我曾為執行警備任務來過金碟遊樂場，<hex:02100103>立刻就明白了那意味著什麼。
-226,TEXT_FESGSC501_04054_PIPIMAYA_000_173,薩薩帕諾和我為了實現三弟的夢想，開始積攢金碟幣。<hex:02100103>尤其是薩薩帕諾，頻繁前往金碟遊樂場，<hex:02100103>只為換取帝王仙人刺角笛。
-227,TEXT_FESGSC501_04054_PIPIMAYA_000_174,我們本打算腳踏實地地慢慢積攢，<hex:02100103>然而三弟的病逐漸惡化……我們已經沒有時間了。
-228,TEXT_FESGSC501_04054_PIPIMAYA_000_175,我那時動了歪念頭，金碟嘉年華期間客人繁雜，<hex:02100103>說不定會有可乘之機……
-229,TEXT_FESGSC501_04054_PIPIMAYA_000_176,之後就和冒險者說的一樣了。<hex:02100103>只是沒想到搜查這麼嚴格，我們還沒從藏匿地點把角笛帶出去，<hex:02100103>就被揭露了罪行……
-230,TEXT_FESGSC501_04054_ROLAND_000_177,原來如此……
-231,TEXT_FESGSC501_04054_DALUCE_000_178,我們懷疑錯了人，真是抱歉。<hex:02100103>請你原諒我們……
-232,TEXT_FESGSC501_04054_DALUCE_000_179,皮皮瑪雅，你明白自己犯下了多重的罪嗎？<hex:02100103>身為擔任警備任務的衛兵，<hex:02100103>竟然利用你的知識和經驗去犯罪！
-233,TEXT_FESGSC501_04054_HUGUE_000_180,請、請等一下！
-234,TEXT_FESGSC501_04054_HUGUE_000_181,能否讓我說幾句話？
-235,TEXT_FESGSC501_04054_HUGUE_000_182,其實我在成為金碟遊樂場工作人員之前，<hex:02100103>是個無家可歸的難民，和母親相依為命。
-236,TEXT_FESGSC501_04054_HUGUE_000_183,那種食不果腹的生活持續了很久，<hex:02100103>我的母親在那種環境下每天都十分難過。
-237,TEXT_FESGSC501_04054_HUGUE_000_184,在臨近她生日時，我想為她送上一份禮物。<hex:02100103>但我又拿不出禮物的錢……於是偷竊了一個戒指。
-238,TEXT_FESGSC501_04054_HUGUE_000_185,被抓住時我真的太后悔了，但事態已經無法挽回。<hex:02100103>沒人願意僱傭一個小偷，我丟了手頭的工作，再也找不到新僱主。<hex:02100103>本想讓母親開心一下，反倒讓她每日以淚洗面。
-239,TEXT_FESGSC501_04054_HUGUE_000_186,就在那時，有人問我是否願意為他工作，<hex:02100103>幫助了絕望的我。
-240,TEXT_FESGSC501_04054_HUGUE_000_187,那就是被我偷走戒指的金碟遊樂場老闆，戈德伯特先生。
-241,TEXT_FESGSC501_04054_HUGUE_000_188,他給了我一份金碟遊樂場的工作，<hex:02100103>自那以後，我和母親終於過上了豐衣足食的生活，<hex:02100103>擺脫了貧寒的日子。
-242,TEXT_FESGSC501_04054_HUGUE_000_189,儘管我因他們的罪行被當成嫌疑犯對待，遭受了不公的待遇，<hex:02100103>但皮皮瑪雅和薩薩帕諾的經歷和過去的我一模一樣。
-243,TEXT_FESGSC501_04054_HUGUE_000_190,所以我想為他們求情。<hex:02100103>能否從輕處罰他們呢？
-244,TEXT_FESGSC501_04054_GODBERT_000_191,(-？？？？-)嚯……我都聽到了。
-245,TEXT_FESGSC501_04054_GODBERT_000_192,達魯斯閣下，我有幾個提議，<hex:02100103>能否給我一點時間？
-246,TEXT_FESGSC501_04054_GODBERT_000_193,皮皮瑪雅閣下，薩薩帕諾閣下。<hex:02100103>帝王仙人刺就送給你們弟弟吧！
-247,TEXT_FESGSC501_04054_GODBERT_100_193,角笛是我送給你們的，這不會構成盜竊行為，<hex:02100103>你們二人沒有犯罪，也不會被抓起來。
-248,TEXT_FESGSC501_04054_Q12_000_000,要說什麼？
-249,TEXT_FESGSC501_04054_A12_000_001,不愧是老闆，真闊氣！
-250,TEXT_FESGSC501_04054_A12_000_002,我也想要……
-251,TEXT_FESGSC501_04054_GODBERT_000_194,嚯嚯嚯！<hex:02100103>冒險者閣下還是自己慢慢攢吧。
-252,TEXT_FESGSC501_04054_GODBERT_000_195,至於對皮皮瑪雅閣下和薩薩帕諾閣下的處置……<hex:02100103>即使事出有因，犯了錯就是犯了錯。
-253,TEXT_FESGSC501_04054_GODBERT_000_196,但是修格剛剛的話打動了我。<hex:02100103>我有一個提議。
-254,TEXT_FESGSC501_04054_GODBERT_000_197,能否對這二人採取保護觀察處分，在這期間為社會服務？
-255,TEXT_FESGSC501_04054_GODBERT_000_198,皮皮瑪雅閣下就穿上仙人刺先生的玩偶服，<hex:02100103>去福隆戴爾藥學院慰問那些孩子們吧，<hex:02100103>正被病痛折磨的他們一定能得到極大的鼓舞。
-256,TEXT_FESGSC501_04054_GODBERT_000_199,但扮演仙人刺先生所需的訓練可遠比你想像的辛苦，<hex:02100103>你願意接受這份懲罰嗎？
-257,TEXT_FESGSC501_04054_PIPIMAYA_000_200,當、當然！<hex:02100103>我很願意！
-258,TEXT_FESGSC501_04054_GODBERT_000_201,接下來輪到你了，薩薩帕諾閣下。<hex:02100103>你好像對金碟遊樂場十分了解……
-259,TEXT_FESGSC501_04054_GODBERT_000_202,既然如此，我希望在招待病症較輕的孩子們來此遊玩時，<hex:02100103>你能發揮你的知識，負責帶他們遊覽金碟遊樂場。<hex:02100103>怎麼樣，能做到嗎？
-260,TEXT_FESGSC501_04054_GODBERT_000_203,達魯斯閣下，是否有異議？
-261,TEXT_FESGSC501_04054_DALUCE_000_204,你既是沙蠍眾的一員，也是這裡的老闆，<hex:02100103>就按你的提議來吧。
-262,TEXT_FESGSC501_04054_GODBERT_000_205,這樣再好不過！<hex:02100103>嚯嚯嚯！
-263,TEXT_FESGSC501_04054_OLLIER_000_220,我還是無法相信他是竊賊……<hex:02100103>修格真的會監守自盜嗎……
-264,TEXT_FESGSC501_04054_OLLIER_000_221,總而言之，非常感謝您的幫助。<hex:02100103>我們準備了謝禮，詳情請移步認真的工作人員那邊。
-265,TEXT_FESGSC501_04054_OLLIER_000_222,謝謝您幫助修格洗刷冤屈！<hex:02100103>但真相依舊隱藏在迷霧之中……到底誰是真正的竊賊呢。
-266,TEXT_FESGSC501_04054_OLLIER_000_223,總而言之，非常感謝您的幫助。<hex:02100103>我們準備了謝禮，詳情請移步認真的工作人員那邊。
-267,TEXT_FESGSC501_04054_OLLIER_000_224,您不僅洗刷了修格的冤屈，還解開了案件的真相……<hex:02100103>真不愧是擅長搜查的冒險者！<hex:02100103>多虧有您幫忙，事情才能圓滿結束！
-268,TEXT_FESGSC501_04054_OLLIER_000_225,皮皮瑪雅和薩薩帕諾已經出發，<hex:02100103>去把帝王仙人刺角笛送給他們的弟弟了。<hex:02100103>他肯定會很開心！
-269,TEXT_FESGSC501_04054_OLLIER_000_226,非常感謝您的幫助！<hex:02100103>我們準備了謝禮，詳情請移步認真的工作人員那邊。
-270,TEXT_FESGSC501_04054_GSSTAFF04054_000_227,奧利爾已經告訴我事情的原委了，<hex:02100103>非常感謝您的幫助。
-271,TEXT_FESGSC501_04054_Q1_200_000,要重新確認什麼？
-272,TEXT_FESGSC501_04054_A1_200_001,案發現場櫃檯的情況
-273,TEXT_FESGSC501_04054_A1_200_002,看到了櫃檯情況的客人的證言
-274,TEXT_FESGSC501_04054_A1_200_003,和不滿意的銅刃團衛兵的對話
-275,TEXT_FESGSC501_04054_A1_200_004,從<hex:02280CFF05>EObj<hex:F61EB1460103>看到的現場周圍的情況
-276,TEXT_FESGSC501_04054_A1_200_005,和慌張的工作人員的對話
-277,TEXT_FESGSC501_04054_A1_200_006,和喜歡傳聞的銅刃團衛兵的對話
-278,TEXT_FESGSC501_04054_A1_200_007,和坐姿端正的工作人員的對話
-279,TEXT_FESGSC501_04054_A1_200_008,和新人銅刃團衛兵等人的對話
-280,TEXT_FESGSC501_04054_A1_200_009,和話多的工作人員等人的對話
-281,TEXT_FESGSC501_04054_A1_200_010,取消
-282,TEXT_FESGSC501_04054_SYSTEM_300_001,尚未取得任何線索……
-283,TEXT_FESGSC501_04054_SYSTEM_200_001,(-案發現場櫃檯的情況-)仙人微彩項目的工作人員稱<hex:02100103>嘉年華期間客流量比平時更大，除此以外沒有區別。
-284,TEXT_FESGSC501_04054_SYSTEM_200_002,(-案發現場櫃檯的情況-)如果有非工作人員進入了櫃檯，肯定會被發現，<hex:02100103>但並沒有目擊證人表明有客人進入過櫃檯。
-285,TEXT_FESGSC501_04054_SYSTEM_200_010,(-看到了櫃檯情況的客人的證言-)看到了櫃檯情況的客人稱，<hex:02100103>修格中途有一次離開過櫃檯為客人帶路。<hex:02100103>在那期間沒看到其他工作人員進入過櫃檯。
-286,TEXT_FESGSC501_04054_SYSTEM_200_020,(-和不滿意的銅刃團衛兵的對話-)不滿意的銅刃團衛兵負責尋找被偷走的角笛，<hex:02100103>但角笛至今仍未被發現。
-287,TEXT_FESGSC501_04054_SYSTEM_200_030,(-從<hex:02280CFF05>EObj<hex:F61EB1460103>眺望的現場周圍情況-)確認了現場周圍的情況。<hex:02100103>可能有些東西無法從這個角度被觀察到。<hex:02100103>是錯覺嗎？
-288,TEXT_FESGSC501_04054_SYSTEM_200_040,(-和慌張的工作人員的對話-)向慌張的工作人員確認了他丟失制服一事，<hex:02100103>制服現在仍未被找到。
-289,TEXT_FESGSC501_04054_SYSTEM_200_041,(-和慌張的工作人員的對話-)慌張的工作人員稱他已經問過清潔員，<hex:02100103>遊樂場內所有地方都沒有發現遺失物品。
-290,TEXT_FESGSC501_04054_SYSTEM_200_050,(-和喜歡傳聞的銅刃團衛兵的對話-)皮皮瑪雅性格和善，人緣很好，<hex:02100103>被親切地稱為「瑪雅皮皮前輩」。<hex:02100103>看來他會無視別人的邀請這件事有些稀奇。
-291,TEXT_FESGSC501_04054_SYSTEM_200_060,(-和坐姿端正的工作人員的對話-)仙人彩項目的工作人員丟失了一件制服，<hex:02100103>老員工居然會犯這種錯誤，這件事有些稀奇。
-292,TEXT_FESGSC501_04054_SYSTEM_200_070,(-和新人銅刃團衛兵等人的對話-)案發時正在休息的新人銅刃團衛兵向皮皮瑪雅搭話，<hex:02100103>但皮皮瑪雅無視了新人的邀請，自己前往了陸行鳥競賽區域。
-293,TEXT_FESGSC501_04054_SYSTEM_200_071,(-和新人銅刃團衛兵等人的對話-)以及，銅刃團衛兵稱皮皮瑪雅的弟弟是金碟遊樂場的常客。
-294,TEXT_FESGSC501_04054_SYSTEM_200_080,(-和話多的工作人員等人的對話-)皮皮瑪雅的弟弟是金碟遊樂場的常客，<hex:02100103>大家都知道他在拚命地積攢金碟幣，<hex:02100103>傳聞中說他可能看中了某樣昂貴的獎品。
-295,TEXT_FESGSC501_04054_SYSTEM_200_081,(-和話多的工作人員等人的對話-)以及，有位工作人員搞混了皮皮瑪雅和他弟弟，<hex:02100103>也許這兩個人長得很像？
+0,"TEXT_FESGSC501_04054_SEQ_00","Ollier is in need of a helping hand.<hex:02100103>※This quest is available for a limited time only."
+1,"TEXT_FESGSC501_04054_SEQ_01","Ollier shares with you his plight. As the Gold Saucer attendant tells it, a robbery has taken place, and one of his closest friends and colleagues has been unfairly named the primary suspect. Feeling pity for the man, you agree to accompany him to the Manderville Lounge, that he might fill you in on the details.<hex:02100103><hex:02100103>※Please note that you will be unable to complete this quest after the seasonal event has ended. For details, please check the Lodestone."
+2,"TEXT_FESGSC501_04054_SEQ_02","At the lounge, Ollier apprises you of the specifics regarding the incident at hand. It would seem his friend, a man named Hugue, has come under suspicion primarily for his proximity to the scene of the crime, as well as a blemish on his record from when he committed an act of petty theft some years ago. Ollier, however, remains convinced that the true culprit is to be found elsewhere. Swayed by his words─and with the blessing of Master Roland─you agree to conduct an investigation of your own in hopes of getting at the truth of the matter."
+3,"TEXT_FESGSC501_04054_SEQ_03","To expedite your investigation, Ollier presents you with a journal which might be used to record any testimony you may hear─or observations you might make─in your survey of the crime scene and the surrounding areas. He then suggests that you might begin your effort by speaking to a nearby attendant who, at a glance, appears visibly apprehensive about something or other."
+4,"TEXT_FESGSC501_04054_SEQ_04","You question the attendant, who you learn was manning the Mini Cactpot counter at the time of the crime. The man insists that he saw no suspicious personages behind the counter, and is therefore confused and dismayed as to how this dastardly crime could have been carried out. Recording the attendant's words in your journal, you set off to speak once more with Ollier, more determined than ever to get to the bottom of this mystery."
+5,"TEXT_FESGSC501_04054_SEQ_05","Pleased to see that his journal is serving you well, Ollier encourages you to scour the Saucer high and low, talking to as many people as you can, and leaving no Triple Triad table unturned in your search for clues that might shed light on the mystery. When you feel you have gathered all the information out there to be gleaned, speak with the man again that you might share with him any deductions you have made."
+6,"TEXT_FESGSC501_04054_SEQ_06","Armed with your trusty journal and the observations recorded in its pages, you share your deductions before a tribunal headed by Master Roland. After a series of arguments, objections, and considerable deliberation, a verdict is rendered, and the case at long last comes to a conclusion. Speak with Ollier again, that you might hear his thoughts on this turn of events."
+7,"TEXT_FESGSC501_04054_SEQ_07","Ollier shares with you his impressions on all that has transpired, and thanks you once more for your efforts on his dear friend's behalf. He further explains that he would present you with a more tangible gift as a token of his gratitude, and bids you collect it from one of his colleagues."
+8,"TEXT_FESGSC501_04054_SEQ_08",""
+9,"TEXT_FESGSC501_04054_SEQ_09",""
+10,"TEXT_FESGSC501_04054_SEQ_10",""
+11,"TEXT_FESGSC501_04054_SEQ_11",""
+12,"TEXT_FESGSC501_04054_SEQ_12",""
+13,"TEXT_FESGSC501_04054_SEQ_13",""
+14,"TEXT_FESGSC501_04054_SEQ_14",""
+15,"TEXT_FESGSC501_04054_SEQ_15",""
+16,"TEXT_FESGSC501_04054_SEQ_16",""
+17,"TEXT_FESGSC501_04054_SEQ_17",""
+18,"TEXT_FESGSC501_04054_SEQ_18",""
+19,"TEXT_FESGSC501_04054_SEQ_19",""
+20,"TEXT_FESGSC501_04054_SEQ_20",""
+21,"TEXT_FESGSC501_04054_SEQ_21",""
+22,"TEXT_FESGSC501_04054_SEQ_22",""
+23,"TEXT_FESGSC501_04054_SEQ_23",""
+24,"TEXT_FESGSC501_04054_TODO_00","Speak with Ollier in the Gold Saucer."
+25,"TEXT_FESGSC501_04054_TODO_01","Speak with Ollier again."
+26,"TEXT_FESGSC501_04054_TODO_02","Speak with the anxious attendant."
+27,"TEXT_FESGSC501_04054_TODO_03","Speak with Ollier."
+28,"TEXT_FESGSC501_04054_TODO_04","Find relevant evidence and speak to Ollier."
+29,"TEXT_FESGSC501_04054_TODO_05","Speak to Ollier."
+30,"TEXT_FESGSC501_04054_TODO_06",""
+31,"TEXT_FESGSC501_04054_TODO_07",""
+32,"TEXT_FESGSC501_04054_TODO_08",""
+33,"TEXT_FESGSC501_04054_TODO_09",""
+34,"TEXT_FESGSC501_04054_TODO_10",""
+35,"TEXT_FESGSC501_04054_TODO_11",""
+36,"TEXT_FESGSC501_04054_TODO_12",""
+37,"TEXT_FESGSC501_04054_TODO_13",""
+38,"TEXT_FESGSC501_04054_TODO_14",""
+39,"TEXT_FESGSC501_04054_TODO_15",""
+40,"TEXT_FESGSC501_04054_TODO_16",""
+41,"TEXT_FESGSC501_04054_TODO_17",""
+42,"TEXT_FESGSC501_04054_TODO_18",""
+43,"TEXT_FESGSC501_04054_TODO_19",""
+44,"TEXT_FESGSC501_04054_TODO_20",""
+45,"TEXT_FESGSC501_04054_TODO_21",""
+46,"TEXT_FESGSC501_04054_TODO_22",""
+47,"TEXT_FESGSC501_04054_TODO_23",""
+48,"TEXT_FESGSC501_04054_OLLIER_000_000","Beg pardon, my good <hex:02080FE905FF06>madam<hex:FF04>sir<hex:03>, but might I ask your assistance with a matter most grave?"
+49,"TEXT_FESGSC501_04054_OLLIER_000_001","Wait...I know that face! You're the one who apprehended the murderer in that mystery event we held some time back. I'm Ollier, the attendant who recruited your services at the time. You remember me, yes?"
+50,"TEXT_FESGSC501_04054_OLLIER_000_002","I'm afraid to say that we have another most confounding case on our hands─and this time, it's not just for show! Yes, we're dealing with an honest-to-gods robbery in the halls of the Gold Saucer. Why, the Brass Blades are investigating even as we speak."
+51,"TEXT_FESGSC501_04054_OLLIER_000_003","My name is Ollier, and I have the pleasure and honor of serving as one of Lord Manderville's earnest attendants at the Gold Saucer."
+52,"TEXT_FESGSC501_04054_OLLIER_000_004","Just between you and me, I must confess that we're dealing with a bit of a situation at the moment. It appears that a robbery has taken place in the Saucer's hallowed halls. Why, the Brass Blades are investigating even as we speak."
+53,"TEXT_FESGSC501_04054_OLLIER_000_005","And as if that weren't bad enough, one of my closest friends and colleagues from among the Saucer's staff has been named the prime suspect!"
+54,"TEXT_FESGSC501_04054_OLLIER_000_006","I can assure you that he is absolutely innocent of all charges─why, the man wouldn't even think of committing a crime! That said, we are sadly lacking in incontrovertible evidence to that end. Which is where you come in─or at least, where I hope you come in."
+55,"TEXT_FESGSC501_04054_OLLIER_000_007","What say you, my friend? I realize the request is quite sudden, but might you be so kind as to entertain me?"
+56,"TEXT_FESGSC501_04054_OLLIER_000_008","Oh, thank you, good <hex:02080FE905FF06>madam<hex:FF04>sir<hex:03>! In that case, pray accompany me to the Manderville Lounge, that I might explain to you the situation in full detail."
+57,"TEXT_FESGSC501_04054_OLLIER_000_009","...Oh, but I've gotten ahead of myself. If you've yet to visit the Gold Saucer, you'll be needing a ticket for admission. In that case, I recommend you try speaking with that young man over there. He's been gloating endlessly of his winnings, and seems to be in the mood to share his good fortune."
+58,"TEXT_FESGSC501_04054_SYSTEM_000_010","In order to undertake this quest, you must first complete the quest “It Could Happen to You,” which can be undertaken at level 15."
+59,"TEXT_FESGSC501_04054_OLLIER_000_020","Thank you so much for coming, my friend. Your offer of assistance means the world to me."
+60,"TEXT_FESGSC501_04054_OLLIER_000_021","Look over there. There you will see my dear friend Hugue, in the process of being unceremoniously and brusquely interrogated by those boorish Brass Blades."
+61,"TEXT_FESGSC501_04054_BRASSBLADESMANA04054_000_022","You there! Can't you see we're in the middle of an investigation? It'd serve you well not to interfere!"
+62,"TEXT_FESGSC501_04054_ROLAND_000_023","(-???-)Now, now. Who said anything about <hex:021A020203>interfering<hex:021A020103>?"
+63,"TEXT_FESGSC501_04054_ROLAND_000_024","Well, now, if it isn't <hex:020815E905FF09>Mistress<hex:FF07>Master<hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303>! Always a pleasure to welcome you to the Gold Saucer."
+64,"TEXT_FESGSC501_04054_ROLAND_000_025","Welcome, dear guest, to the Gold Saucer. I am Roland, and I have the honor of overseeing day-to-day operations here in Lord Manderville's stead."
+65,"TEXT_FESGSC501_04054_ROLAND_000_026","Now, if I might ask, whatever brings you here today?"
+66,"TEXT_FESGSC501_04054_ROLAND_000_027","...I see. In that event, your assistance in the matter is indeed most welcome. I trust my man Ollier has apprised you on the details of the case?"
+67,"TEXT_FESGSC501_04054_OLLIER_000_028","Ah! Pray forgive me, Master Roland...I was just getting to that."
+68,"TEXT_FESGSC501_04054_OLLIER_000_029","A short while ago, an invaluable Sabotender Emperador horn was stolen from the prize vault just behind our main counter."
+69,"TEXT_FESGSC501_04054_OLLIER_000_030","Needless to say, this area is guarded heavily and strictly off-limits to all customers."
+70,"TEXT_FESGSC501_04054_OLLIER_000_031","So it was that, naturally, the staff came under suspicion─in particular, poor Hugue, who had the misfortune of being the one manning the prize exchange booth at the precise time of the theft."
+71,"TEXT_FESGSC501_04054_OLLIER_000_032","My friend swears he is innocent, of course, and a more honest man I have never known. Yet, in the absence of any evidence to the contrary─or any leads suggesting another possibility─the Brass Blades have all but assumed that he is the culprit."
+72,"TEXT_FESGSC501_04054_OLLIER_100_032","You see, although he's a most diligent worker and beloved by his peers, truth be told...it appears he was arrested for petty theft once, years ago. Still, that's no reason to assume he's to blame this time!"
+73,"TEXT_FESGSC501_04054_OLLIER_000_033","It's unconscionable, I tell you! Why, if they persist with their interrogation, I fear Hugue will be coerced to confess to a crime he never committed! Oh, is there nothing that can be done!?"
+74,"TEXT_FESGSC501_04054_ROLAND_000_034","I, too, can speak for Hugue's character. The man would sooner lop off his own hand than steal even a single gil."
+75,"TEXT_FESGSC501_04054_ROLAND_000_035","Might we ask you to look into the matter and glean what evidence you may, that we might prove our trusted employee innocent of any wrongdoing?"
+76,"TEXT_FESGSC501_04054_ROLAND_000_036","You have my gratitude. I will speak to the Brass Blades and inform them that you have our full permission to conduct your own investigation of the premises."
+77,"TEXT_FESGSC501_04054_ROLAND_000_037","And with that, I must return to my duties. I assume the matter is in good hands with you, Ollier?"
+78,"TEXT_FESGSC501_04054_DALUCE_000_038","So you're the adventurer Master Roland dragged into this, eh? Investigate all you like─we're sure that we've got the right man."
+79,"TEXT_FESGSC501_04054_HUGUE_000_039","I swear, I have stolen nothing! Why will they not believe me!?"
+80,"TEXT_FESGSC501_04054_STAFFA04054_100_039","To think that such a theft could occur here at the Gold Saucer. And I thought our vaults were the best guarded in the entire realm..."
+81,"TEXT_FESGSC501_04054_OLLIER_000_040","...Ah. Before I forget, I want you to have this. "
+82,"TEXT_FESGSC501_04054_OLLIER_000_041","If you come across evidence or anything of interest in your search, pray record it in this inspector's journal. Should you ever find yourself at a loss, you may find it helpful to review what you have already learned."
+83,"TEXT_FESGSC501_04054_OLLIER_000_042","And with that, I do believe you have all you need to get started. If I might offer a word of advice, why not begin by questioning that rather flustered-looking fellow over there?"
+84,"TEXT_FESGSC501_04054_OLLIER_000_043","That attendant over by the table appears quite concerned about something. Perhaps he knows something about the case?"
+85,"TEXT_FESGSC501_04054_SYSTEM_000_050","You inquire regarding any information potentially related to the incident in question..."
+86,"TEXT_FESGSC501_04054_SYSTEM_000_051","You carefully survey the area..."
+87,"TEXT_FESGSC501_04054_SYSTEM_000_052","Unsure whether or not the information you have gleaned will avail you, you nevertheless choose to record it in your journal."
+88,"TEXT_FESGSC501_04054_SYSTEM_100_052","You've already gleaned all there is to know from this place..."
+89,"TEXT_FESGSC501_04054_SYSTEM_000_053","Your search has yielded all the pieces of the puzzle. It is now up to you to put them together."
+90,"TEXT_FESGSC501_04054_STAFFA04054_000_054","I was tasked with selling Mini Cactpot tickets, and was standing behind the counter at the time of the crime. To think that something like this could happen here at the Gold Saucer!"
+91,"TEXT_FESGSC501_04054_STAFFA04054_100_054","I said the same to Captain Daluce and Pipimaya─ah, they're the two Brass Blade officers questioning Hugue over there─but I don't recall anything out of the ordinary at the time."
+92,"TEXT_FESGSC501_04054_STAFFA04054_000_055","It's festival season, of course, which means that our halls are even more packed with customers than usual, but other than that, I can't think of anything worthy of note."
+93,"TEXT_FESGSC501_04054_STAFFA04054_000_056","Yet I guarantee you that no unauthorized persons were allowed to slip behind the counter. From my vantage point, I would have noticed in an instant if that were the case."
+94,"TEXT_FESGSC501_04054_OLLIER_000_060","Well? Did you record the man's testimony in your journal?"
+95,"TEXT_FESGSC501_04054_OLLIER_000_061","Excellent! Keep asking around, and you're sure to arrive at the truth behind the incident in due time. And then, at long last, poor Hugue's innocence will be proven beyond a shadow of a doubt!"
+96,"TEXT_FESGSC501_04054_SYSTEM_000_062","Should you choose to undertake this quest, know that guidance from the journal, duty list, and map will be limited. You will need to read the text carefully and decipher the clues to determine your course of action."
+97,"TEXT_FESGSC501_04054_SYSTEM_000_063","Scattered throughout the Gold Saucer are clues that will aid you in uncovering the identity of the thief. Obtain them by speaking to the denizens and customers of the Gold Saucer, and investigating any suspicious items or locations."
+98,"TEXT_FESGSC501_04054_SYSTEM_000_064","All information gleaned in your inquiry may be reviewed at any time by checking your inspector's journal, which can be accessed at any time from the Key Items menu. Use your resources well, and see that the true culprit is brought to justice for their crimes!"
+99,"TEXT_FESGSC501_04054_SYSTEM_000_065","When you believe you've gathered all the information needed to crack the case, speak with Ollier. From there, you will have a chance to share your deductions and prove the accused innocent."
+100,"TEXT_FESGSC501_04054_SASAPANO_000_064","We all know you did it. Why not confess and save us all some trouble?"
+101,"TEXT_FESGSC501_04054_GUESTA04054_000_070","That Hyuran attendant, you say? If I recall, he left his post for a time to escort a customer some place or another."
+102,"TEXT_FESGSC501_04054_GUESTA04054_000_071","Thought it odd to see no one manning the counter, but I suppose it happens from time to time? Or perhaps not..."
+103,"TEXT_FESGSC501_04054_BRASSBLADESMANB04054_000_072","Given its sheer size, we believe the thief has hidden the stolen horn somewhere around the premises until such time as they can arrange to smuggle it out. Though, for the life of me, I can't find the godsdamned thing anywhere..."
+104,"TEXT_FESGSC501_04054_SYSTEM_000_073","You have the sense that something currently hidden to your gaze was visible from a different angle. Or are you simply imagining things...?"
+105,"TEXT_FESGSC501_04054_STAFFB04054_100_074","Oh, whatever to do? Whatever to do!?"
+106,"TEXT_FESGSC501_04054_SYSTEM_200_074","The Lalafellin attendant seems terribly flustered, and not particularly inclined to carry on a conversation. Perhaps if you knew precisely what has him in such a huff, he might be persuaded to listen..."
+107,"TEXT_FESGSC501_04054_SYSTEM_000_074","You inquire about the missing uniform..."
+108,"TEXT_FESGSC501_04054_STAFFB04054_000_075","Shush! Have you lost your wits!? Don't say that so loud! If anyone heard that I'd misplaced my uniform, why there'd be hells to─oh, I should probably quiet down, myself."
+109,"TEXT_FESGSC501_04054_STAFFB04054_000_076","Needless to say, those uniforms are issued to official Gold Saucer staff alone. When not wearing them, we're instructed to guard them as if our lives depended on it. If it were to get out that I lost mine..."
+110,"TEXT_FESGSC501_04054_STAFFB04054_000_077","Just before, I checked with the cleaning staff to make sure that it wasn't accidentally disposed of somehow."
+111,"TEXT_FESGSC501_04054_STAFFB04054_000_078","The man said he'd seen nothing, nor have any articles of clothing been delivered to the lost and found. Oh, wherever could my uniform have gone!?"
+112,"TEXT_FESGSC501_04054_BRASSBLADESMANC04054_100_079","The investigation? Hah. We already know that sorry wretch named Hugue did it. I've got more interesting matters to think about."
+113,"TEXT_FESGSC501_04054_SYSTEM_200_079","The Brass Blade doesn't seem inclined to listen to you at the moment. Perhaps if you knew of a rumor that might pique his interest..."
+114,"TEXT_FESGSC501_04054_BRASSBLADESMANC04054_000_079","The investigation? Hah. We already know that sorry wretch named Hugue did it. I've got more interesting matters to think about. Say, have you heard any good rumors lately?"
+115,"TEXT_FESGSC501_04054_BRASSBLADESMANC04054_000_080","Pipimaya flat-out ignored a friendly invitation and went off to the chocobo races alone, you say? That's somethin' you don't hear every day..."
+116,"TEXT_FESGSC501_04054_BRASSBLADESMANC04054_000_081","Never known the man to say no to anyone. Why, one time a new recruit started calling him “Mayapipi,” and he didn't even bat an eyelash. On the contrary, he just went along with it like it was his new favorite nickname!"
+117,"TEXT_FESGSC501_04054_BRASSBLADESMANC04054_000_082","Since then, all the newcomers have taken to calling him “Master Mayapipi,” and Pipimaya's as happy as a chocobo gettin' scratched behind the ears! To think he'd turn a deaf ear to one of his subordinates─that's a juicy rumor if I ever heard one!"
+118,"TEXT_FESGSC501_04054_STAFFC04054_000_083","Have I noticed anything out of the ordinary, you ask? Well, now that you mention it─I doubt it has anything to do with the incident, but..."
+119,"TEXT_FESGSC501_04054_STAFFC04054_000_084","My colleague who works at the Cactpot Board mentioned that his uniform had gone missing. I could scarce believe it─the man's a veteran, and as careful as anyone I know."
+120,"TEXT_FESGSC501_04054_STAFFC04054_000_085","We're instructed to guard those outfits with our lives, you know. If my colleague doesn't find his soon, Master Roland is like to give him a chewing out like he'd never believe..."
+121,"TEXT_FESGSC501_04054_BRASSBLADESMANE04054_000_086","Around the time the robbery happened, I was just getting off active duty. I had a mind to go to the chocobo races with Pipimaya, so I gave him a yell. But would you believe it? He just walked off to the racetrack as if he never heard me!"
+122,"TEXT_FESGSC501_04054_BRASSBLADESMANF04054_000_087","Pipimaya, you say? I'd heard his brother was known to place a few coins on the birds from time to time, but never knew Pipimaya had an interest as well."
+123,"TEXT_FESGSC501_04054_BRASSBLADESMANF04054_000_088","Still, for a friendly chap like ol' Pipimaya to just ignore you like that...reckon he must have had a big bet on his mind, eh?"
+124,"TEXT_FESGSC501_04054_STAFFD04054_000_089","Have you met Pipimaya? He's one of the Brass Blades investigating the theft for us, but he's no stranger to the Gold Saucer. Why, I've seen him at the chocobo races more than once!"
+125,"TEXT_FESGSC501_04054_STAFFE04054_000_090","You sure that's not his brother? They're the spitting image of each other, and I hear it's the brother who's a regular patron here. They say he can rack up the MGP like you wouldn't believe..."
+126,"TEXT_FESGSC501_04054_STAFFD04054_000_091","His brother, you say? Why, I didn't even know he had a brother! From what I saw, they could almost be twins!"
+127,"TEXT_FESGSC501_04054_STAFFE04054_000_092","Hah! Someone needs to get around a bit more, it seems. Anyhow, the brother's a regular here if I ever saw one. Seeing the sheer single-minded devotion with which he attacks those games, I reckon he's got his eyes on an exclusive prize."
+128,"TEXT_FESGSC501_04054_OLLIER_000_100","How fares the investigation, my friend? You look as if the whole matter still has you a bit puzzled. Have you gotten any closer to the truth?"
+129,"TEXT_FESGSC501_04054_OLLIER_000_101","Ah, there you are. Observing from afar, I couldn't help but notice just how thorough you've been in your investigation. Pray tell, do you believe you've arrived at the truth?"
+130,"TEXT_FESGSC501_04054_Q1_000_000","What will you say?"
+131,"TEXT_FESGSC501_04054_A1_000_001","It's all clear to me now!"
+132,"TEXT_FESGSC501_04054_A1_000_002","I'm not entirely sure..."
+133,"TEXT_FESGSC501_04054_SYSTEM_000_102","The conclusion of this quest will differ depending on the choices you make in the following sequence. However, the rewards will remain the same. "
+134,"TEXT_FESGSC501_04054_Q2_000_000","Are you ready to explain your reasoning?"
+135,"TEXT_FESGSC501_04054_OLLIER_000_103","Truly? In that case, by all means let us share your deductions with the others!"
+136,"TEXT_FESGSC501_04054_OLLIER_000_104","I see. Pray take the time you need to be certain, but please hurry...lest poor Hugue be forced to confess to a crime which he did not commit."
+137,"TEXT_FESGSC501_04054_ROLAND_000_110","Captain Daluce, I thank you for allowing me to oversee the proceedings. By the power invested in me by Lord Manderville, I promise to consider well all the evidence at hand, and render a fair judgment regarding this unfortunate incident. I trust this is acceptable to you?"
+138,"TEXT_FESGSC501_04054_DALUCE_000_111","I see no reason to object. After all, we only wish to arrive at the truth─same as you."
+139,"TEXT_FESGSC501_04054_ROLAND_000_112","<hex:020815E905FF09>Mistress<hex:FF07>Master<hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303>, I trust that you, too, have no objections to my participation here?"
+140,"TEXT_FESGSC501_04054_ROLAND_000_113","Very well, then let us begin. Captain Daluce, pray summarize the details of the incident for us once more."
+141,"TEXT_FESGSC501_04054_DALUCE_000_114","Gladly. A few bells ago, a Sabotender Emperador horn went missing from the Gold Saucer's prize vault, located behind the main counter. It was noticed by a sharp-eyed attendant whose shift followed that of Hugue."
+142,"TEXT_FESGSC501_04054_DALUCE_000_115","Thorough questioning of all witnesses in the area at the time revealed that no other persons─attendant or customer alike─were seen behind the counter at the time."
+143,"TEXT_FESGSC501_04054_DALUCE_000_116","Investigating our records, we further learned that Hugue was arrested once for petty theft before being employed here at the Saucer. We have named him a primary suspect, and an interrogation is being conducted as we speak. That is all."
+144,"TEXT_FESGSC501_04054_ROLAND_000_117","Thank you, Captain Daluce."
+145,"TEXT_FESGSC501_04054_ROLAND_000_118","<hex:020815E905FF09>Mistress<hex:FF07>Master<hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303>. Ollier has informed me that you, too, have been investigating the matter on our behalf. Have you any objections to Captain Daluce's testimony?"
+146,"TEXT_FESGSC501_04054_Q3_000_000","What will you say?"
+147,"TEXT_FESGSC501_04054_A3_000_001","The true culprit is still out there!"
+148,"TEXT_FESGSC501_04054_A3_000_002","What proof do you have that Hugue did it?"
+149,"TEXT_FESGSC501_04054_DALUCE_000_120","What!? How could you possibly know that!?"
+150,"TEXT_FESGSC501_04054_Q4_000_000","What will you say?"
+151,"TEXT_FESGSC501_04054_A4_000_001","There's always a true culprit!"
+152,"TEXT_FESGSC501_04054_A4_000_002","Call it a hunch, I guess...?"
+153,"TEXT_FESGSC501_04054_A4_000_003","One of the attendant's uniforms has gone missing!"
+154,"TEXT_FESGSC501_04054_DALUCE_000_121","As I just explained, our witnesses stated clearly that they saw no one go behind the counter. In the absence of any other potential suspects, it only stands to reason that Hugue is the culprit."
+155,"TEXT_FESGSC501_04054_DALUCE_000_122","...At any rate, it's clear you are simply stalling for time. If you have nothing of import to contribute, I daresay it's time we rendered a verdict."
+156,"TEXT_FESGSC501_04054_DALUCE_000_123","What's this you say...!?"
+157,"TEXT_FESGSC501_04054_ROLAND_000_124","...Oho. Then let us proceed to the next topic at hand. Captain Daluce and his men are all but convinced that Hugue is the thief. Have you uncovered any evidence to lead you to believe otherwise?"
+158,"TEXT_FESGSC501_04054_Q5_000_000","What will you say?"
+159,"TEXT_FESGSC501_04054_A5_000_001","Just look at those innocent eyes!"
+160,"TEXT_FESGSC501_04054_A5_000_002","He says he didn't do it!"
+161,"TEXT_FESGSC501_04054_A5_000_003","If you're so sure he did it, then where is the horn?"
+162,"TEXT_FESGSC501_04054_DALUCE_000_125","It's true that we haven't recovered it yet, but I assure you it's only a matter of time. That's hardly evidence of the man's innocence. What exactly are you implying?"
+163,"TEXT_FESGSC501_04054_Q6_000_000","What will you say?"
+164,"TEXT_FESGSC501_04054_A6_000_001","I'm not sure, but it was worth a shot."
+165,"TEXT_FESGSC501_04054_A6_000_002","I propose...the horn just vanished into thin air!"
+166,"TEXT_FESGSC501_04054_A6_000_003","The horn was stolen while Hugue was still on duty!"
+167,"TEXT_FESGSC501_04054_ROLAND_000_126","...<hex:020815E905FF09>Mistress<hex:FF07>Master<hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303>. My valued employee's good name and future are on the line today. I ask you to take these proceedings more seriously."
+168,"TEXT_FESGSC501_04054_DALUCE_000_127","Hah! You expect that baseless blathering to carry any weight here? It's more than evident that you're just wasting our time."
+169,"TEXT_FESGSC501_04054_ROLAND_000_128","...I see. For you to say so with such confidence, I imagine you must have uncovered some convincing evidence, indeed."
+170,"TEXT_FESGSC501_04054_ROLAND_000_129","Well, now. I do believe we've come to the heart of the matter. <hex:020815E905FF09>Mistress<hex:FF07>Master<hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303>, if you would...just who do you believe is truly responsible for the crime?"
+171,"TEXT_FESGSC501_04054_Q7_000_000","What will you say?"
+172,"TEXT_FESGSC501_04054_A7_000_001","It's you...Pipimaya!"
+173,"TEXT_FESGSC501_04054_A7_000_002","It's...not Hugue, that's for certain!"
+174,"TEXT_FESGSC501_04054_A7_000_003","I'm sorry, Hugue. I tried...!"
+175,"TEXT_FESGSC501_04054_A7_000_004","It's...Captain Daluce!"
+176,"TEXT_FESGSC501_04054_SASAPANO_000_130","(-Pipimaya-)M-Me!? Is this some kind of a joke!? I'm no thief! I'm an officer of the law!"
+177,"TEXT_FESGSC501_04054_SASAPANO_000_131","(-Pipimaya-)You'd best have some proof behind these accusations, or I'll have you hauled in gaol faster than you can say “Godbert Manderville!”"
+178,"TEXT_FESGSC501_04054_Q8_000_000","What will you say?"
+179,"TEXT_FESGSC501_04054_A8_000_001","My adventurer's sense is never wrong!"
+180,"TEXT_FESGSC501_04054_A8_000_002","Just look at that suspicious look on his face!"
+181,"TEXT_FESGSC501_04054_A8_000_003","The stolen uniform was Lalafell-sized!"
+182,"TEXT_FESGSC501_04054_ROLAND_000_132","...I am in no mood for jests, <hex:020815E905FF09>Mistress<hex:FF07>Master<hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303>. I'll ask you again, and I expect a serious answer this time."
+183,"TEXT_FESGSC501_04054_DALUCE_000_133","So you would have us believe the true culprit is to be found elsewhere. Have you any evidence to support your words?"
+184,"TEXT_FESGSC501_04054_Q9_000_000","What will you say?"
+185,"TEXT_FESGSC501_04054_A9_000_001","This is all just circumstantial evidence!"
+186,"TEXT_FESGSC501_04054_A9_000_002","Let me reconsider the matter."
+187,"TEXT_FESGSC501_04054_A9_000_003","I... I..."
+188,"TEXT_FESGSC501_04054_ROLAND_000_134","...I am in no mood for jests, <hex:020815E905FF09>Mistress<hex:FF07>Master<hex:03> <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0303>. I'll ask you again, and I expect a serious answer this time."
+189,"TEXT_FESGSC501_04054_OLLIER_000_135","N-No! Say it isn't so!"
+190,"TEXT_FESGSC501_04054_DALUCE_000_136","...I knew it. For all your lofty investigative work, all you've done is prove our case for us."
+191,"TEXT_FESGSC501_04054_DALUCE_000_137","The game's up, Hugue. Now tell us where you hid the horn, or you'll be spending tonight─and many more nights─in the sultanate's darkest gaol."
+192,"TEXT_FESGSC501_04054_DALUCE_000_138","You're not serious...are you?"
+193,"TEXT_FESGSC501_04054_DALUCE_000_139","At any rate, it's clear we've been wasting our time. Take the suspect away."
+194,"TEXT_FESGSC501_04054_SASAPANO_000_140","(-Pipimaya-)And so what if it is!? That is proof of nothing! You need only look around you to see that I am far from the only Lalafell in this place!"
+195,"TEXT_FESGSC501_04054_Q10_000_000","What will you say?"
+196,"TEXT_FESGSC501_04054_A10_000_001","But not all have a brother with eyes only for MGP."
+197,"TEXT_FESGSC501_04054_A10_000_002","Come to think of it, he has a point..."
+198,"TEXT_FESGSC501_04054_A10_000_003","Hmmmmmmmmm..."
+199,"TEXT_FESGSC501_04054_SASAPANO_000_141","(-Pipimaya-)Perhaps that man is innocent, but so am I! The thief is still out there! What are you waiting for? Get out there and catch him!"
+200,"TEXT_FESGSC501_04054_SASAPANO_000_142","(-Pipimaya-)W-Wait...how do you know that!?"
+201,"TEXT_FESGSC501_04054_SASAPANO_000_143","(-Pipimaya-)I mean...nonsense! I have an alibi! At the time the theft happened, I was at the chocobo races! And I'll have you know I won myself a fortune as well! Hah! The joke's on you!"
+202,"TEXT_FESGSC501_04054_SASAPANO_000_144","(-Pipimaya-)Just ask any of the attendants there! They all remember me! Why, I'm one of their best customers!"
+203,"TEXT_FESGSC501_04054_Q11_000_000","What will you say?"
+204,"TEXT_FESGSC501_04054_A11_000_001","My most sincere apologies, Master Mayapipi."
+205,"TEXT_FESGSC501_04054_A11_000_002","Lies! Be a man and confess to your crime!"
+206,"TEXT_FESGSC501_04054_SASAPANO_000_145","(-Pipimaya-)Why should I confess to something I have not done!? This is an outrage! You're trying to frame me to cover up for your own failure of an investigation!"
+207,"TEXT_FESGSC501_04054_PIPIMAYA_000_150","(-???-)Yes, precisely as we orchestrated..."
+208,"TEXT_FESGSC501_04054_OLLIER_000_151","In summary, to this point I have not seen sufficient evidence to convict the suspect Hugue beyond a shadow of a doubt. Would you not concur?"
+209,"TEXT_FESGSC501_04054_DALUCE_000_152","...I do. Loath as I am to admit it, your adventurer friend here has raised legitimate concerns."
+210,"TEXT_FESGSC501_04054_DALUCE_000_153","My apologies for being so hasty in accusing the poor man. I shall have him released immediately."
+211,"TEXT_FESGSC501_04054_DALUCE_000_154","That said, the question remains─who was the <hex:021A020203>true<hex:021A020103> mastermind behind this theft?"
+212,"TEXT_FESGSC501_04054_PIPIMAYA_000_155","(-???-)Yes, precisely as we orchestrated..."
+213,"TEXT_FESGSC501_04054_SASAPANO_000_160","(-Pipimaya-)Master <hex:021A020203>Mayapipi<hex:021A020103>? Is this your idea of a joke? The least you could do is have the dignity to call a man by his proper name!"
+214,"TEXT_FESGSC501_04054_BRASSBLADESMANC04054_000_161","What? Just the other day you told us that was your favorite nickname!"
+215,"TEXT_FESGSC501_04054_PIPIMAYA_000_162","(-???-)Enough, Sasapano. It would seem our game is up."
+216,"TEXT_FESGSC501_04054_PIPIMAYA_000_163","(-Pipimaya Look-alike-)Remarkable sleuthing, if I do say so myself. Of course, you are correct─Hugue is not the culprit."
+217,"TEXT_FESGSC501_04054_PIPIMAYA_000_164","(-Pipimaya Look-alike-)I am. Or should I say, <hex:021A020203>we are<hex:021A020103>..."
+218,"TEXT_FESGSC501_04054_BRASSBLADESMANC04054_000_165","M-Master Mayapipi! There's...two of you!?"
+219,"TEXT_FESGSC501_04054_DALUCE_000_166","What is the meaning of this!?"
+220,"TEXT_FESGSC501_04054_ROLAND_000_167","You'd better have a good explanation for all of us."
+221,"TEXT_FESGSC501_04054_PIPIMAYA_000_168","<hex:021A020203>I<hex:021A020103> am Pipimaya...the real one, that is. The man who was posing as me until our ruse was revealed is my twin brother, Sasapano."
+222,"TEXT_FESGSC501_04054_PIPIMAYA_000_169","We also have another brother, some years younger than the two of us. He's our pride and joy, sharp of mind and fleet of foot."
+223,"TEXT_FESGSC501_04054_PIPIMAYA_000_170","Sadly, one day our dear brother was stricken with a rare, nigh-untreatable malady. He was told he had but moons to live, if that."
+224,"TEXT_FESGSC501_04054_PIPIMAYA_000_171","Needless to say, Sasapano and I were devastated. When the initial shock had passed, we were left with one thought─if we could not save the boy's life, at the very least we could make his biggest dream come true in the precious days he remained with us."
+225,"TEXT_FESGSC501_04054_PIPIMAYA_000_172","Specifically, his dream to one day sail across the heavens on his very own Sabotender Emperador. I knew of his wish quite well, having often observed him eyeing its glorious succulent form longingly from my post on security duty."
+226,"TEXT_FESGSC501_04054_PIPIMAYA_000_173","And so, in hopes of granting our dear sibling's dying wish, Sasapano and I embarked on a single-minded quest to accumulate as much MGP as we could muster. Sasapano, in particular, displayed quite the aptitude for games, and soon became known as one of the Saucer's most successful regulars."
+227,"TEXT_FESGSC501_04054_PIPIMAYA_000_174","The points accumulated rapidly, and in great quantities, but our brother's condition was declining even more starkly. We were racing against time, and seemed destined to lose."
+228,"TEXT_FESGSC501_04054_PIPIMAYA_000_175","So it was that the idea came to us out of sheer desperation. We would use the hustle and bustle of the festival as a cover, sneak behind the counter, and pilfer that which would make one ill-fated man's wildest dreams come true."
+229,"TEXT_FESGSC501_04054_PIPIMAYA_000_176","...The rest played out exactly as this insightful adventurer deduced. Little did I expect that I'd be found out before I could even sneak the horn past the guards..."
+230,"TEXT_FESGSC501_04054_ROLAND_000_177","Indeed. It all makes sense now..."
+231,"TEXT_FESGSC501_04054_DALUCE_000_178","My sincerest apologies, good sir. To think that not only did we wrongly accuse you, but that the true culprit─one of them, at least─was one of our own..."
+232,"TEXT_FESGSC501_04054_DALUCE_000_179","Using your position and knowledge as a security officer to mastermind such a heinous act...can you two even begin to comprehend the gravity of your crimes? I'll see you rot in the darkest gaol─"
+233,"TEXT_FESGSC501_04054_HUGUE_000_180","Wait...I beg of you!"
+234,"TEXT_FESGSC501_04054_HUGUE_000_181","Might I be allowed to speak for a moment?"
+235,"TEXT_FESGSC501_04054_HUGUE_000_182","I come from a poor family of refugees. Before they graciously hired me as a Saucer attendant, I lived alone with my mother."
+236,"TEXT_FESGSC501_04054_HUGUE_000_183","For years, it was a constant struggle to put food on our plates. We feared that each coming day might be our last. Often, I would hear my mother sobbing at night, unable to hold back the grief and pain she hid inside for her son's sake."
+237,"TEXT_FESGSC501_04054_HUGUE_000_184","One day, her nameday was approaching, and I had a thought. Once─for one day in her life─I would do something that would bring a smile to her face. And so, I got her a ring─or, more accurately, I stole it."
+238,"TEXT_FESGSC501_04054_HUGUE_000_185","I regretted the act almost immediately, but it was too late. I was soon apprehended. I was dismissed from my job as a laborer, and was told I would never find work in this town again."
+239,"TEXT_FESGSC501_04054_HUGUE_000_186","With not even the coin to buy a scrap of bread for tomorrow's breakfast, I fell into utter despair. My life─our lives─were surely over, I was certain. It was then that a kind soul reached out to me."
+240,"TEXT_FESGSC501_04054_HUGUE_000_187","That kind soul was none other than the very man whose gold ring I tried to steal. I speak of the owner of this Gold Saucer, the one and only Lord Godbert Manderville."
+241,"TEXT_FESGSC501_04054_HUGUE_000_188","He made me swear a promise that I would never turn to thievery again, and offered me a position as an attendant here if I would obey. I am far from a wealthy man, but the remuneration has been more than enough to provide my mother and I with a better life than we could have ever imagined."
+242,"TEXT_FESGSC501_04054_HUGUE_000_189","I was deeply wounded, of course, when I was judged by my less-than-upstanding history, and wrongly branded a thief. And I understand all too well that unfortunate circumstances do not justify turning to crime. And yet, hearing Master Pipimaya speak just now, I cannot help but feel for him..."
+243,"TEXT_FESGSC501_04054_HUGUE_000_190","And so, I beg of you─for what little that might count for─do not go overly hard on the man."
+244,"TEXT_FESGSC501_04054_GODBERT_000_191","(-???-)Your plea has been heard, my good man."
+245,"TEXT_FESGSC501_04054_GODBERT_000_192","Captain Daluce. If I might have the floor for a moment, I would make a few propositions."
+246,"TEXT_FESGSC501_04054_GODBERT_000_193","Proposition number one: in my capacity as owner of the Manderville Gold Saucer, I hereby gift to Pipimaya and Sasapano's dear brother one Sabotender Emperador, on the house."
+247,"TEXT_FESGSC501_04054_GODBERT_100_193","The horn was a gift, meaning that no theft has taken place here today. Thusly, there is no crime for which you need answer to the authorities."
+248,"TEXT_FESGSC501_04054_Q12_000_000","What will you say?"
+249,"TEXT_FESGSC501_04054_A12_000_001","Such boundless generosity!"
+250,"TEXT_FESGSC501_04054_A12_000_002","Can I have one, too?"
+251,"TEXT_FESGSC501_04054_GODBERT_000_194","Ohoho! Needless to say, there is one with your name on it as well, my friend. Simply partake in our games and start saving those points, and it'll be yours before you know it."
+252,"TEXT_FESGSC501_04054_GODBERT_000_195","As for you, Pipimaya and Sasapano. As I said, you need not answer to the authorities for what you did today. You will, however, answer to me."
+253,"TEXT_FESGSC501_04054_GODBERT_000_196","The words of Hugue here speak to me. In that light, I would make my second proposition."
+254,"TEXT_FESGSC501_04054_GODBERT_000_197","To answer for your actions, and repay me for my gift, I propose that you serve a period of community service, to be performed under my direct oversight."
+255,"TEXT_FESGSC501_04054_GODBERT_000_198","Pipimaya, you are to don a Senor Sabotender suit and serve as a caretaker's assistant in the children's ward at Frondale's Phrontistery. There, you will do your best to provide succor and good cheer to the poor children who suffer as your own young brother does."
+256,"TEXT_FESGSC501_04054_GODBERT_000_199","This will, however, require you to undergo strict training until such time as you are able to perform a perfect Senor Sabotender shimmy. Do you accept these conditions?"
+257,"TEXT_FESGSC501_04054_PIPIMAYA_000_200","O-Of course, I do! With pleasure, Lord Manderville!"
+258,"TEXT_FESGSC501_04054_GODBERT_000_201","Now for you, Sasapano. I daresay your knowledge and expertise regarding all things Gold Saucer rivals almost any in the realm. It would be a shame to let that go to waste..."
+259,"TEXT_FESGSC501_04054_GODBERT_000_202","And so, I propose that you serve as a chaperone for those children suffering from symptoms less grave. You will show them about the Gold Saucer, that their hearts may lighten and they might forget their pain for a time."
+260,"TEXT_FESGSC501_04054_GODBERT_000_203","I trust you have no objections, Captain Daluce?"
+261,"TEXT_FESGSC501_04054_DALUCE_000_204","I am but a humble sellsword in the Syndicate's employ, Lord Manderville. Any judgment you render, it is my honor and duty to see carried out."
+262,"TEXT_FESGSC501_04054_GODBERT_000_205","Ohoho! Very well, then. I do believe we can now consider this matter closed."
+263,"TEXT_FESGSC501_04054_OLLIER_000_220","Could Hugue indeed be guilty? Despite all the evidence saying as much, I still cannot believe it..."
+264,"TEXT_FESGSC501_04054_OLLIER_000_221","At any rate, we may have arrived at a less-than-ideal conclusion, but I thank you for your cooperation nonetheless. To that end, we have prepared a small token of gratitude for your assistance. You may claim it from my stern-faced colleague here."
+265,"TEXT_FESGSC501_04054_OLLIER_000_222","I can't thank you enough for absolving dear Hugue of blame. Though it puts me ill at ease to know that the true culprit is still out there somewhere..."
+266,"TEXT_FESGSC501_04054_OLLIER_000_223","...Ah well. I suppose I should count my blessings. At any rate, I'm happy to say that we've prepared a token of gratitude for your assistance. You may claim it from my stern-faced colleague here."
+267,"TEXT_FESGSC501_04054_OLLIER_000_224","Simply incredible! Thanks to your peerless detective work, my dear friend's innocence has been proven, and fair justice has been served to one and all."
+268,"TEXT_FESGSC501_04054_OLLIER_000_225","Lord Manderville granted Pipimaya and Sasapano a brief reprieve before beginning their sentence, that they might deliver the Sabotender Emperador to their brother in person. I can only imagine how his eyes will alight at the sight!"
+269,"TEXT_FESGSC501_04054_OLLIER_000_226","Truly, you have saved the day in more ways than one, and all of us here at the Gold Saucer are in your debt. As a token of our most sincere gratitude, I have prepared a special gift for you─pray claim it from my stern-faced colleague here."
+270,"TEXT_FESGSC501_04054_GSSTAFF04054_000_227","You've offered to help with the investigation, Ollier tells me. We cannot thank you enough."
+271,"TEXT_FESGSC501_04054_Q1_200_000","What notes will you review?"
+272,"TEXT_FESGSC501_04054_A1_200_001","Notes on the crime scene at the time of the theft."
+273,"TEXT_FESGSC501_04054_A1_200_002","Testimony from a witness in the area at the time."
+274,"TEXT_FESGSC501_04054_A1_200_003","Notes from a conversation with a brusque Brass Blade."
+275,"TEXT_FESGSC501_04054_A1_200_004","On the appearance of the crime scene from a different angle."
+276,"TEXT_FESGSC501_04054_A1_200_005","Notes from a conversation with a frantic attendant."
+277,"TEXT_FESGSC501_04054_A1_200_006","Notes from a conversation with a blabbering Brass Blade."
+278,"TEXT_FESGSC501_04054_A1_200_007","Notes from a conversation with an astute attendant."
+279,"TEXT_FESGSC501_04054_A1_200_008","Notes from a conversation with two Brass Blades."
+280,"TEXT_FESGSC501_04054_A1_200_009","Notes from a conversation with two effusive attendants."
+281,"TEXT_FESGSC501_04054_A1_200_010","Nothing."
+282,"TEXT_FESGSC501_04054_SYSTEM_300_001","You have yet to gather any relevant evidence or testimony."
+283,"TEXT_FESGSC501_04054_SYSTEM_200_001","(-Notes on the Crime Scene-)According to the attendant handling Mini Cactpot tickets at the time, there was nothing particularly unusual about the scene behind the counter before and after the incident, save for the larger-than-usual crowd on hand to take part in the festivities."
+284,"TEXT_FESGSC501_04054_SYSTEM_200_002","(-Notes on the Crime Scene-)Furthermore, the attendant was certain that no individuals other than fellow staff were seen behind the counter, as it would be instantly and blatantly obvious were a non-uniformed personage to breach this high-security location."
+285,"TEXT_FESGSC501_04054_SYSTEM_200_010","(-Witness's Testimony-)According to a customer who happened to be observing the counter at the time, Hugue left his post briefly to show a guest around the floor. As far as the witness could see, no other staff came to fill the post during Hugue's absence."
+286,"TEXT_FESGSC501_04054_SYSTEM_200_020","(-Brass Blade's Testimony-)A sour-tempered sellsword charged with tracking down the stolen horn groused and grumbled that he has searched everywhere for the invaluable object, but cannot find it for the life of him."
+287,"TEXT_FESGSC501_04054_SYSTEM_200_030","(-Observations from the Crime Scene-)Surveying the general area of the crime scene, you could not help but feel that objects visible from a certain angle might be hidden from sight when viewed from others. Could this be relevant, somehow?"
+288,"TEXT_FESGSC501_04054_SYSTEM_200_040","(-Words of a Frantic Attendant-)A Lalafellin attendant was in a panic upon discovering that their official uniform─a possession which Gold Saucer staff are instructed to protect with their lives─had gone missing, and has yet to be recovered."
+289,"TEXT_FESGSC501_04054_SYSTEM_200_041","(-Words of a Frantic Attendant-)He has searched high and low, and asked his fellow staff members if they had seen it, but to no avail. Furthermore, it would seem no missing items have been delivered to the lost and found yet today."
+290,"TEXT_FESGSC501_04054_SYSTEM_200_050","(-Words of a Blabbering Brass Blade-)A garrulous sellsword shared with you a story about Pipimaya, a senior member of the Brass Blades involved in the investigation. Pipimaya is an amiable fellow nicknamed “Master Mayapipi” by his subordinates. As the man tells it, it is unthinkable that he would ever ignore a friendly greeting."
+291,"TEXT_FESGSC501_04054_SYSTEM_200_060","(-Words of an Astute Attendant-)The attendant was shocked and surprised to hear of the missing uniform, as the victim is a veteran employee widely known as one of the most careful and circumspect of all the Saucer staff."
+292,"TEXT_FESGSC501_04054_SYSTEM_200_070","(-Words of Two Brass Blades-)A junior member of the Brass Blades shared his disappointment and dismay at having invited Pipimaya to the chocobo races for some off-duty entertainment, only to have his superior brusquely rush off without even acknowledging the poor newcomer's words."
+293,"TEXT_FESGSC501_04054_SYSTEM_200_071","(-Words of Two Brass Blades-)Furthermore, his comrade mentioned that Pipimaya has a brother who is known to enjoy himself at the Saucer from time to time."
+294,"TEXT_FESGSC501_04054_SYSTEM_200_080","(-Words of Two Effusive Attendants-)Some particularly talkative attendants were discussing Pipimaya's brother, a Gold Saucer regular whose single-minded dedication to earning massive quantities of MGP has only intensified as of late. The latest rumors among the staff say that he's set his sights on an invaluable prize."
+295,"TEXT_FESGSC501_04054_SYSTEM_200_081","(-Words of Two Effusive Attendants-)Furthermore, it would seem the sibling bears a striking resemblance to Pipimaya himself, as one of the employees appears to have confused the two for each other."

@@ -2,88 +2,88 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_BANVAN005_02168_SEQ_00,<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整（限定職業）<hex:0249020103><hex:0248020103><hex:02100103>西風島的利努瓦利好像充滿了幹勁。
-1,TEXT_BANVAN005_02168_SEQ_01,※本任務為<hex:024804F201FC03><hex:024904F201FD03><hex:0249020103><hex:0248020103> 等級調整（限定職業）任務，<hex:02100103>　需要與接受任務時的職業相同才可繼續進行任務。<hex:02100103><hex:02100103>前情回顧：<hex:02100103>冒險者與利努瓦利一起，救出了她的哥哥利努瓦努。就在這時，有大量溫杜族的雜兵向他們襲來。最終，兄妹二人跳了一支心有靈犀的太陽之舞，順利將敵人趕走。與心有靈犀之人一起跳太陽之舞的話，會比一個人跳的時候強大好幾倍。利努瓦努成為了納基袞杜集落的長老。可是，利努瓦努並不是很喜歡尊杜族，袞杜族與尊杜族之間瀰漫著一股緊張的氣息。<hex:02100103>　　　　　　　　　　　　*　*　*<hex:02100103>利努瓦利為了搞好兩氏族之間的關係，決定在納基袞杜集落設宴招待尊杜族。利努瓦利委託冒險者前去尋找烹調釣上來的魚所需要的調味料。前往阿巴拉提亞雲海的瓦納溫杜集落，獲取<hex:022811FF0A>EventItem<hex:F61E8BEF0103>。
-2,TEXT_BANVAN005_02168_SEQ_02,獲得了<hex:022811FF0A>EventItem<hex:F61E8BEF0103>。利努瓦利為釣魚前往了沃仙曦染，將<hex:022811FF0A>EventItem<hex:F61E8BEF0103>交給西風島的利努瓦努。
-3,TEXT_BANVAN005_02168_SEQ_03,將<hex:022811FF0A>EventItem<hex:F61E8BEF0103>交給了利努瓦努。利努瓦努好像很擔心妹妹。前往阿巴拉提亞雲海的沃仙曦染，尋找利努瓦利。
-4,TEXT_BANVAN005_02168_SEQ_04,討伐了襲擊利努瓦利的魔物。和沃仙曦染的利努瓦利談談。
-5,TEXT_BANVAN005_02168_SEQ_05,和利努瓦利進行了交談。雖然被魔物襲擊了，可她還是成功釣上了大魚。和回到西風島的利努瓦利談談。
-6,TEXT_BANVAN005_02168_SEQ_06,和利努瓦利進行了交談。看來宴會的料理大家都很滿意，兩氏族之間的關係也有所改善。希望能繼續這麼平安無事下去，順利完成村子的重建……
-7,TEXT_BANVAN005_02168_SEQ_07,
-8,TEXT_BANVAN005_02168_SEQ_08,
-9,TEXT_BANVAN005_02168_SEQ_09,
-10,TEXT_BANVAN005_02168_SEQ_10,
-11,TEXT_BANVAN005_02168_SEQ_11,
-12,TEXT_BANVAN005_02168_SEQ_12,
-13,TEXT_BANVAN005_02168_SEQ_13,
-14,TEXT_BANVAN005_02168_SEQ_14,
-15,TEXT_BANVAN005_02168_SEQ_15,
-16,TEXT_BANVAN005_02168_SEQ_16,
-17,TEXT_BANVAN005_02168_SEQ_17,
-18,TEXT_BANVAN005_02168_SEQ_18,
-19,TEXT_BANVAN005_02168_SEQ_19,
-20,TEXT_BANVAN005_02168_SEQ_20,
-21,TEXT_BANVAN005_02168_SEQ_21,
-22,TEXT_BANVAN005_02168_SEQ_22,
-23,TEXT_BANVAN005_02168_SEQ_23,
-24,TEXT_BANVAN005_02168_TODO_00,獲取<hex:022811FF0A>EventItem<hex:F61E8BEF0103>
-25,TEXT_BANVAN005_02168_TODO_01,將<hex:022811FF0A>EventItem<hex:F61E8BEF0103>交給利努瓦努
-26,TEXT_BANVAN005_02168_TODO_02,在沃仙曦染尋找利努瓦利
-27,TEXT_BANVAN005_02168_TODO_03,和沃仙曦染的利努瓦利對話
-28,TEXT_BANVAN005_02168_TODO_04,和利努瓦利對話
-29,TEXT_BANVAN005_02168_TODO_05,
-30,TEXT_BANVAN005_02168_TODO_06,
-31,TEXT_BANVAN005_02168_TODO_07,
-32,TEXT_BANVAN005_02168_TODO_08,
-33,TEXT_BANVAN005_02168_TODO_09,
-34,TEXT_BANVAN005_02168_TODO_10,
-35,TEXT_BANVAN005_02168_TODO_11,
-36,TEXT_BANVAN005_02168_TODO_12,
-37,TEXT_BANVAN005_02168_TODO_13,
-38,TEXT_BANVAN005_02168_TODO_14,
-39,TEXT_BANVAN005_02168_TODO_15,
-40,TEXT_BANVAN005_02168_TODO_16,
-41,TEXT_BANVAN005_02168_TODO_17,
-42,TEXT_BANVAN005_02168_TODO_18,
-43,TEXT_BANVAN005_02168_TODO_19,
-44,TEXT_BANVAN005_02168_TODO_20,
-45,TEXT_BANVAN005_02168_TODO_21,
-46,TEXT_BANVAN005_02168_TODO_22,
-47,TEXT_BANVAN005_02168_TODO_23,
-48,TEXT_BANVAN005_02168_LINUVALI_000_000,……啊，<hex:022903EB0203>。<hex:02100103>和我擔心的一樣，哥哥成為長老後，<hex:02100103>我們和豁達的尊杜族之間的關係變得緊張起來了呢。
-49,TEXT_BANVAN005_02168_LINUVALI_000_001,必須要在兩氏族關係決裂之前做點什麼才行！
-50,TEXT_BANVAN005_02168_LINUVALI_000_002,所以、所以，<hex:02100103>我決定在納基袞杜集落設宴招待豁達的尊杜族。
-51,TEXT_BANVAN005_02168_LINUVALI_000_003,我們瓦努族非常喜歡吃東西。<hex:02100103>只要大家圍著篝火吃一頓好的，<hex:02100103>相信隔閡什麼的也就會像晨霧一樣消失不見的。
-52,TEXT_BANVAN005_02168_LINUVALI_000_004,我準備去你們人類所說的沃仙曦染那裡，<hex:02100103>釣一些製作宴會主菜時要用到的魚。<hex:02100103>畢竟是增進友誼的宴會，所以魚還是自己親手釣上來的比較好。
-53,TEXT_BANVAN005_02168_LINUVALI_000_005,在此期間，我希望<hex:022903EB0203>能去<hex:02100103>獲取一些決定菜餚味道的重要調味料——<hex:022811FF0A>EventItem<hex:F61E8BEF0103>。
-54,TEXT_BANVAN005_02168_LINUVALI_000_006,其實，冷酷的溫杜族獨佔了這種岩鹽，<hex:02100103>那麼，在瓦納溫杜集落裡應該會存有少量的庫存。
-55,TEXT_BANVAN005_02168_LINUVALI_000_007,能否請你搞到<hex:022811FF0A>EventItem<hex:F61E8BEF0103>之後，<hex:02100103>將其交給我的哥哥利努瓦努？<hex:02100103>真的、真的，拜託你了！
-56,TEXT_BANVAN005_02168_LINUVANU_000_010,這不是、這不是<hex:022903EB0203>嗎。<hex:02100103>我妹妹讓我幫她收個東西，<hex:02100103>你是有東西要給我吧？
-57,TEXT_BANVAN005_02168_LINUVANU_000_011,……這是<hex:022811FF0A>EventItem<hex:F61E8BEF0103>啊。<hex:02100103>這東西現在很難搞到手了。<hex:02100103>只是、只是，我妹妹到底要拿這東西幹什麼呢？
-58,TEXT_BANVAN005_02168_LINUVANU_000_012,什麼、什麼，她竟然想要設宴，<hex:02100103>為了搞好我們和尊杜族的關係……<hex:02100103>妹妹啊，你就好像晨露一樣脆弱且朝氣蓬勃呢。
-59,TEXT_BANVAN005_02168_LINUVANU_000_013,說起來，這都是因為我看不慣尊杜族鬧的呢。<hex:02100103>真是……對自己狹小的胸襟感到慚愧……
-60,TEXT_BANVAN005_02168_LINUVANU_000_014,放以前，妹妹沒有我在明明什麼都做不成，<hex:02100103>不過，她通過與你一起奮鬥、重建村落，變得可靠起來了。<hex:02100103>真是非常感謝你，<hex:022903EB0203>。
-61,TEXT_BANVAN005_02168_LINUVANU_000_015,說起來、說起來，妹妹她怎麼還沒回來。<hex:02100103>她既瘦小又苗條，讓我很是擔心。<hex:02100103>不過我身為長老，又不能輕易離開這裡。
-62,TEXT_BANVAN005_02168_LINUVANU_000_016,能否、能否拜託你前往沃仙曦染，<hex:02100103>看一下利努瓦利的情況？
-63,TEXT_BANVAN005_02168_LINUVANU_000_020,能否、能否拜託你前往沃仙曦染，<hex:02100103>看一下利努瓦利的情況？
-64,TEXT_BANVAN005_02168_LINUVALI_000_030,謝謝你、謝謝你。<hex:02100103>我總是單方面受你照顧呢。
-65,TEXT_BANVAN005_02168_LINUVALI_100_030,我注意力都集中在釣線上了，根本沒察覺到周圍的情況。<hex:02100103>明明太陽之舞是趕不走魔物的……
-66,TEXT_BANVAN005_02168_LINUVALI_000_031,不過、不過，也算是值得了，<hex:02100103>畢竟釣上了像積雨雲一樣巨大的魚呢！<hex:02100103>那麼，我這就回去展示一下我烹飪的水平！
-67,TEXT_BANVAN005_02168_LINUVANU_000_035,謝謝你、謝謝你，妹妹能平安歸來真是太好了。<hex:02100103>雖然她成長了是件好事，可相對的我的擔心也變多了。
-68,TEXT_BANVAN005_02168_LINUVALI_000_040,哥哥已經把<hex:022811FF0A>EventItem<hex:F61E8BEF0103>給我了。<hex:02100103>非常感謝你為我做了那麼多，謝謝你！
-69,TEXT_BANVAN005_02168_LINUVALI_000_041,那麼，宴會的菜品就看我的吧。<hex:02100103><hex:022903EB0203>，你安心等著吃就好了！
-70,TEXT_BANVAN005_02168_LINUVANU_000_042,說起來、說起來，<hex:02100103>你知道為什麼冷酷的溫杜族長老火努瓦努會戴著假面嗎？
-71,TEXT_BANVAN005_02168_SANUVANU_000_043,那是、那是為了保持威嚴？
-72,TEXT_BANVAN005_02168_LINUVANU_000_044,對外是這麼說，其實吧……<hex:02100103>是因為火努瓦努腦袋上的羽毛就好像雛鳥一樣稀少。<hex:02100103>哈哈哈哈！
-73,TEXT_BANVAN005_02168_SONUVANU_000_045,我也經常跟你的父親烏努瓦努像這樣圍在篝火旁。<hex:02100103>他的太陽之舞，那真是、那真是棒極了。<hex:02100103>就像真正的太陽一樣，照亮所有黑暗。
-74,TEXT_BANVAN005_02168_LINUVALI_000_046,我也、我也在以父親的太陽之舞為目標。<hex:02100103>這納基袞杜集落就由我來保護！
-75,TEXT_BANVAN005_02168_SONUVANU_000_047,呵呵呵，真是可靠、真是可靠。<hex:02100103>就好像剛剛升起的朝陽一樣。<hex:02100103>其實，你來做袞杜族的長老不也挺好？
-76,TEXT_BANVAN005_02168_LINUVALI_000_048,那怎麼行、那怎麼行！<hex:02100103>我、我跟哥哥比起來，差得還遠！
-77,TEXT_BANVAN005_02168_SONUVANU_000_049,呵呵呵，我開玩笑、玩笑而已。
-78,TEXT_BANVAN005_02168_LINUVALI_000_050,多虧了<hex:022903EB0203>，我做的菜餚深受大家好評！<hex:02100103>而且，我們兩氏族之間的關係變得比以前更好了呢！<hex:02100103>今後、今後還請你多多幫忙。
-79,TEXT_BANVAN005_02168_SYSTEM_000_100,納基袞杜集落的主要設施建造完成。<hex:02100103>豁達的尊杜族為祝福此事，將花送給了袞杜族！
-80,TEXT_BANVAN005_02168_SYSTEM_000_200,與瓦努族「美豔的袞杜」之間的關係程度到達了「尊敬」，<hex:02100103>冒險者通過幫助兩氏族搞好關係，受到了他們的尊敬。
-81,TEXT_BANVAN005_02168_SYSTEM_000_201,今後可以在納基袞杜集落的穆納瓦努處，<hex:02100103>接受新的友好部族日常任務。
-82,TEXT_BANVAN005_02168_SYSTEM_100_201,同時，「美豔的袞杜」的友好部族日常任務中<hex:02100103>可獲得的經驗值加成有所增加了。
-83,TEXT_BANVAN005_02168_SYSTEM_100_300,另外，作為獎勵，<hex:02100103>友好關係等級提升的當天，<hex:02100103>可從穆納瓦努處接受的友好部族日常任務數量追加3個。
-84,TEXT_BANVAN005_02168_SYSTEM_100_301,領取完所有友好關係等級提升前發行的友好部族日常任務後，<hex:02100103>將會發行作為獎勵的追加任務。<hex:02100103>受理限額未達到上限即可接受追加任務。
+0,"TEXT_BANVAN005_02168_SEQ_00","Linu Vali is cooking up a plan to improve relations with the Zundu.<hex:02100103>※The difficulty of this quest will be synced to your current level."
+1,"TEXT_BANVAN005_02168_SEQ_01","The relations between the Zundu and Gundu have been strained ever since Linu Vanu's remarks at Ok' Zundu. However, Linu Vali has a plan to invite the Zundu to Ok' Gundu Nakki for a feast, an important gesture of friendship in Vanu Vanu culture. Her responsibility is to prepare fish for the main dish, but she requires a rare seasoning, Abalathian rock salt, which is possessed solely by the Vundu. She will head to Voor Sian Siran with her fishing pole, and she asks you to steal into Ok' Vundu Vana and procure a chunk of the salt from the Vundu stores.<hex:02100103><hex:02100103>※Please note that the difficulty of this quest has been synced to your current level. Furthermore, you may not proceed with a class or job that is different from when you accepted this quest."
+2,"TEXT_BANVAN005_02168_SEQ_02","After searching the Vundu village, you find their stores of Abalathian rock salt and pick the purest looking chunk you can find. Return to Ok' Gundu Nakki and give the salt to Linu Vanu."
+3,"TEXT_BANVAN005_02168_SEQ_03","You hand over the Abalathian rock salt to Linu Vanu, who is confused as to why his sister asked you to deliver it to him. It seems Linu Vali has neglected to tell her brother of her plans for the feast. Linu Vanu is impressed at her initiative, but regrets that she must go to so much trouble on his account. He thanks you for standing by his sister's side during these troubled times, and even though he knows she has grown, he still worries for her safety, asking you to go check on her at Voor Sian Siran. Journey to the islands and see if the novice cloudfisher has caught anything."
+4,"TEXT_BANVAN005_02168_SEQ_04","You arrive to see Linu Vali cowering before a hungry-looking cloudworm, and slay the beast before it makes a meal of the Vanu. Check on Linu Vali's safety."
+5,"TEXT_BANVAN005_02168_SEQ_05","Linu Vali thanks you for saving her yet again. In her concentration she lost sight of her surroundings, allowing the beast to sneak up on her. However, it seems she was able to catch a fish suitable for the feast, and hurries off to Ok' Gundu Nakki to begin preparation."
+6,"TEXT_BANVAN005_02168_SEQ_06","The feast is a rousing success, with Vanu Vanu of both tribes coming closer through the exchange of quips and stories. The progress of Ok' Gundu Nakki is continuing apace, but the question still remains as to how long this peace can last."
+7,"TEXT_BANVAN005_02168_SEQ_07",""
+8,"TEXT_BANVAN005_02168_SEQ_08",""
+9,"TEXT_BANVAN005_02168_SEQ_09",""
+10,"TEXT_BANVAN005_02168_SEQ_10",""
+11,"TEXT_BANVAN005_02168_SEQ_11",""
+12,"TEXT_BANVAN005_02168_SEQ_12",""
+13,"TEXT_BANVAN005_02168_SEQ_13",""
+14,"TEXT_BANVAN005_02168_SEQ_14",""
+15,"TEXT_BANVAN005_02168_SEQ_15",""
+16,"TEXT_BANVAN005_02168_SEQ_16",""
+17,"TEXT_BANVAN005_02168_SEQ_17",""
+18,"TEXT_BANVAN005_02168_SEQ_18",""
+19,"TEXT_BANVAN005_02168_SEQ_19",""
+20,"TEXT_BANVAN005_02168_SEQ_20",""
+21,"TEXT_BANVAN005_02168_SEQ_21",""
+22,"TEXT_BANVAN005_02168_SEQ_22",""
+23,"TEXT_BANVAN005_02168_SEQ_23",""
+24,"TEXT_BANVAN005_02168_TODO_00","Obtain unclouded Abalathian rock salt."
+25,"TEXT_BANVAN005_02168_TODO_01","Deliver the unclouded Abalathian rock salt to Linu Vanu at Ok' Gundu Nakki."
+26,"TEXT_BANVAN005_02168_TODO_02","Search for Linu Vali at Voor Sian Siran."
+27,"TEXT_BANVAN005_02168_TODO_03","Speak with Linu Vali."
+28,"TEXT_BANVAN005_02168_TODO_04","Speak with Linu Vali at Ok' Gundu Nakki."
+29,"TEXT_BANVAN005_02168_TODO_05",""
+30,"TEXT_BANVAN005_02168_TODO_06",""
+31,"TEXT_BANVAN005_02168_TODO_07",""
+32,"TEXT_BANVAN005_02168_TODO_08",""
+33,"TEXT_BANVAN005_02168_TODO_09",""
+34,"TEXT_BANVAN005_02168_TODO_10",""
+35,"TEXT_BANVAN005_02168_TODO_11",""
+36,"TEXT_BANVAN005_02168_TODO_12",""
+37,"TEXT_BANVAN005_02168_TODO_13",""
+38,"TEXT_BANVAN005_02168_TODO_14",""
+39,"TEXT_BANVAN005_02168_TODO_15",""
+40,"TEXT_BANVAN005_02168_TODO_16",""
+41,"TEXT_BANVAN005_02168_TODO_17",""
+42,"TEXT_BANVAN005_02168_TODO_18",""
+43,"TEXT_BANVAN005_02168_TODO_19",""
+44,"TEXT_BANVAN005_02168_TODO_20",""
+45,"TEXT_BANVAN005_02168_TODO_21",""
+46,"TEXT_BANVAN005_02168_TODO_22",""
+47,"TEXT_BANVAN005_02168_TODO_23",""
+48,"TEXT_BANVAN005_02168_LINUVALI_000_000","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, it is as Linu Vali fears. Ever since Brother visits Chief Sonu, the relationship between Zundu and Gundu is tense."
+49,"TEXT_BANVAN005_02168_LINUVALI_000_001","We must do something before tension grows into animosity, disrupting all Gundu and Zundu work together for. "
+50,"TEXT_BANVAN005_02168_LINUVALI_000_002","Linu thinks upon problem for many sunrises, and decides that Gundu shall hold a feast for Zundu!"
+51,"TEXT_BANVAN005_02168_LINUVALI_000_003","To treat friends to banquet is meaningful act among Vanu. When we gather around blazing cooking fires, all grudges wash away like tears in rain."
+52,"TEXT_BANVAN005_02168_LINUVALI_000_004","Linu is to prepare fish for the main course, so she goes to Voor Sian Siran, to make a catch even Eenu Vanu envies. Food that the cook catches with her own talons is all the more delicious! "
+53,"TEXT_BANVAN005_02168_LINUVALI_000_005","However, as essential as the fish is the seasoning! And Linu wants to impress, so she asks <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> to gather a mineral most precious: Abalathian rock salt. "
+54,"TEXT_BANVAN005_02168_LINUVALI_000_006","Vundu hold the cloud sea's entire supply, so <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> must venture deep within Ok' Vundu Vana to where their storehouses lie. Search them, and bring back most pure chunk you can find."
+55,"TEXT_BANVAN005_02168_LINUVALI_000_007","Linu needs time─and concentration─to make suitable catch, so she asks that <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> gives the rock salt to Brother. Watch, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, Linu returns with cloud sea's most succulent fish!"
+56,"TEXT_BANVAN005_02168_LINUVANU_000_010","Greetings, netherling. Sister says to expect something from you, although she says not what it is..."
+57,"TEXT_BANVAN005_02168_LINUVANU_000_011","Abalathian rock salt? And as cloudless as clear summer skies! To obtain such a mineral is no easy task. What does Sister hope to use this for?"
+58,"TEXT_BANVAN005_02168_LINUVANU_000_012","A feast? And Sister prepares the main dish, no less? Ah, it is just like her to put on a brave face. But as mist after spring rain, her courage is often fleeting..."
+59,"TEXT_BANVAN005_02168_LINUVANU_000_013","But it is not Linu Vanu's place to doubt her. It is because of my rudeness at Ok' Zundu that she goes to such trouble. It is shameful that my actions burden her so."
+60,"TEXT_BANVAN005_02168_LINUVANU_000_014","Sister changes, it is plain to see. Not long ago, she clutches at Linu's feathers, fearful to wander too far from my gaze. But now, her conviction to build our new home spurs growth, so much that Linu sometimes does not recognize her. I thank you for standing by Sister's side during this time, netherling. "
+61,"TEXT_BANVAN005_02168_LINUVANU_000_015","Alas, although Sister is no longer frightened nestling, to leave her alone in the wilds brings Linu Vanu worry. For all Sister's conviction, still she is delicate, with arms like branches of birch tree. Endymions stalk the skies, and beasts worse still skulk in the waters..."
+62,"TEXT_BANVAN005_02168_LINUVANU_000_016","As chief, Linu Vanu must watch over village. Netherling, pray visit Voor Sian Siran and see that she is safe."
+63,"TEXT_BANVAN005_02168_LINUVANU_000_020","Linu Vanu worries for Sister's safety. Netherling, make way to Voor Sian Siran and ensure she is unharmed."
+64,"TEXT_BANVAN005_02168_LINUVALI_000_030","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>...thank you for rescuing Linu yet again."
+65,"TEXT_BANVAN005_02168_LINUVALI_100_030","Cloudfishing requires patience, and focus... Linu's surroundings fade into background, until there is only the fishing line and lure. Linu does not hear the cloudworm steal upon her... "
+66,"TEXT_BANVAN005_02168_LINUVALI_000_031","Maybe the worm smells Linu's catch. Fish is so plump, leftovers from feast feed tribe for moons! Come, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, let us return to Ok' Gundu Nakki before meat spoils! "
+67,"TEXT_BANVAN005_02168_LINUVANU_000_035","Ah, to see Sister safe is comforting. As she becomes more daring, Linu Vanu's concern for her only grows."
+68,"TEXT_BANVAN005_02168_LINUVALI_000_040","Brother gives Linu Vali rock salt <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> takes from Vundu. With such rich seasoning, fish will be the talk of Ok' Zundu for moons to come!"
+69,"TEXT_BANVAN005_02168_LINUVALI_000_041","And now, Linu Vali cooks! Of course, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> is welcome to feast as guest of honor!"
+70,"TEXT_BANVAN005_02168_LINUVANU_000_042","Does Sanu know why Honu, chief of Vundu, wears such ornate mask?"
+71,"TEXT_BANVAN005_02168_SANUVANU_000_043","The mask is symbol of his power, no?"
+72,"TEXT_BANVAN005_02168_LINUVANU_000_044","Chief Honu wants others to believe so, but Linu knows true reason. He masks the feathers on his head, which are thinner than newborn hatchling's! Hahaha!"
+73,"TEXT_BANVAN005_02168_SONUVANU_000_045","Many times Chief Uunu and Sonu sit around fire such as this. Sonu still remembers well the power of his dance. He moves with the intensity of the sun itself, and drives all darkness into hiding. "
+74,"TEXT_BANVAN005_02168_LINUVALI_000_046","Linu wishes to one day dance with Father's vigor. Both to honor his memory, and to protect Ok' Gundu Nakki!"
+75,"TEXT_BANVAN005_02168_SONUVANU_000_047","Linu Vali may still be young, but Sonu knows she will become a great member of the Gundu tribe. Maybe one day, she becomes chief!"
+76,"TEXT_BANVAN005_02168_LINUVALI_000_048","Chief Sonu makes Linu Vali blush! Linu is but a nestling still!"
+77,"TEXT_BANVAN005_02168_SONUVANU_000_049","Hahaha. It is but a joke, Linu."
+78,"TEXT_BANVAN005_02168_LINUVALI_000_050","All Zundu praise feast, particularly the fish! We look forward to sharing many meals together in coming moons. Of course, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203> is welcome to sit alongside the cooking fires with us any time."
+79,"TEXT_BANVAN005_02168_SYSTEM_000_100","Ok' Gundu Nakki's principal structures have been completed, and the Zundu have sent flowers in celebration!"
+80,"TEXT_BANVAN005_02168_SYSTEM_000_200","You have achieved <hex:024804F201F403><hex:024904F201F503>Respected<hex:0249020103><hex:0248020103> reputation with the Gundu."
+81,"TEXT_BANVAN005_02168_SYSTEM_000_201","New Vanu Vanu society daily quests are now available from Muna Vanu at Ok' Gundu Nakki."
+82,"TEXT_BANVAN005_02168_SYSTEM_100_201","You will receive an experience point bonus upon the completion of Vanu Vanu society daily quests."
+83,"TEXT_BANVAN005_02168_SYSTEM_100_300","Furthermore, you will be able to undertake three additional quests from Muna Vanu as a reputation rank bonus. This bonus is available until the daily reset time for allied society quests."
+84,"TEXT_BANVAN005_02168_SYSTEM_100_301","These additional quests will become available after accepting all current daily quests from Muna Vanu. Please be advised that you cannot undertake these quests if you have no remaining allowances."

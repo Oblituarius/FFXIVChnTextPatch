@@ -2,109 +2,109 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_JOBNIN351_00215_SEQ_00,朧準備為冒險者講解新印的用法。
-1,TEXT_JOBNIN351_00215_SEQ_01,天之印後結地之印再發動忍術，即可用出雷遁之術。對碼頭小屋外的<hex:02280CFF05>EObj<hex:F61E97C00103>使用雷遁之術。
-2,TEXT_JOBNIN351_00215_SEQ_02,成功對<hex:02280CFF05>EObj<hex:F61E97C00103>使用了雷遁之術。向碼頭小屋前的朧報告。
-3,TEXT_JOBNIN351_00215_SEQ_03,地之印後結天之印再發動忍術，即可用出火遁之術。對碼頭小屋前的<hex:02280CFF05>EObj<hex:F61E97C00103>使用火遁之術。
-4,TEXT_JOBNIN351_00215_SEQ_04,成功對<hex:02280CFF05>EObj<hex:F61E97C00103>使用了火遁之術。向碼頭小屋前的朧報告。
-5,TEXT_JOBNIN351_00215_SEQ_05,朧表示，接下來的修行地點是瀑布。和拉諾西亞高地愚者瀑布的朧談談。
-6,TEXT_JOBNIN351_00215_SEQ_06,正要開始修行時，遭到了鴉的襲擊。一番苦戰之後，鴉一夥被擊退。和愚者瀑布的朧交談。
-7,TEXT_JOBNIN351_00215_SEQ_07,修行時遭到了鴉的襲擊，朧為自己的失策向冒險者表示了歉意。返回碼頭小屋，和朧交談。
-8,TEXT_JOBNIN351_00215_SEQ_08,朧認為從鴉的刃上能看出鴉心中是想要試探二人。不斷變強的冒險者或許能成為擊敗鴉的突破口。勤加鍛鍊，以備下次修行。<hex:02100103><hex:02100103>※忍者的等級達到40級以上時，可以從朧那裡領取下一個忍者任務。
-9,TEXT_JOBNIN351_00215_SEQ_09,
-10,TEXT_JOBNIN351_00215_SEQ_10,
-11,TEXT_JOBNIN351_00215_SEQ_11,
-12,TEXT_JOBNIN351_00215_SEQ_12,
-13,TEXT_JOBNIN351_00215_SEQ_13,
-14,TEXT_JOBNIN351_00215_SEQ_14,
-15,TEXT_JOBNIN351_00215_SEQ_15,
-16,TEXT_JOBNIN351_00215_SEQ_16,
-17,TEXT_JOBNIN351_00215_SEQ_17,
-18,TEXT_JOBNIN351_00215_SEQ_18,
-19,TEXT_JOBNIN351_00215_SEQ_19,
-20,TEXT_JOBNIN351_00215_SEQ_20,
-21,TEXT_JOBNIN351_00215_SEQ_21,
-22,TEXT_JOBNIN351_00215_SEQ_22,
-23,TEXT_JOBNIN351_00215_SEQ_23,
-24,TEXT_JOBNIN351_00215_TODO_00,對<hex:02280CFF05>EObj<hex:F61E97C00103>使用雷遁之術
-25,TEXT_JOBNIN351_00215_TODO_01,和朧對話
-26,TEXT_JOBNIN351_00215_TODO_02,對<hex:02280CFF05>EObj<hex:F61E97C00103>使用火遁之術
-27,TEXT_JOBNIN351_00215_TODO_03,和朧對話
-28,TEXT_JOBNIN351_00215_TODO_04,和愚者瀑布的朧對話
-29,TEXT_JOBNIN351_00215_TODO_05,和朧對話
-30,TEXT_JOBNIN351_00215_TODO_06,和碼頭小屋的朧對話
-31,TEXT_JOBNIN351_00215_TODO_07,
-32,TEXT_JOBNIN351_00215_TODO_08,
-33,TEXT_JOBNIN351_00215_TODO_09,
-34,TEXT_JOBNIN351_00215_TODO_10,
-35,TEXT_JOBNIN351_00215_TODO_11,
-36,TEXT_JOBNIN351_00215_TODO_12,
-37,TEXT_JOBNIN351_00215_TODO_13,
-38,TEXT_JOBNIN351_00215_TODO_14,
-39,TEXT_JOBNIN351_00215_TODO_15,
-40,TEXT_JOBNIN351_00215_TODO_16,
-41,TEXT_JOBNIN351_00215_TODO_17,
-42,TEXT_JOBNIN351_00215_TODO_18,
-43,TEXT_JOBNIN351_00215_TODO_19,
-44,TEXT_JOBNIN351_00215_TODO_20,
-45,TEXT_JOBNIN351_00215_TODO_21,
-46,TEXT_JOBNIN351_00215_TODO_22,
-47,TEXT_JOBNIN351_00215_TODO_23,
-48,TEXT_JOBNIN351_00215_OBORO_000_000,……由於學會了新的印，<hex:02100103>你掌握的印變成了兩種。
-49,TEXT_JOBNIN351_00215_OBORO_000_001,忍術會根據結印順序，發動時出現不同的效果。<hex:02100103>你一會可以先對木人使用雷遁之術看看。
-50,TEXT_JOBNIN351_00215_OBORO_000_002,之前傳授給你的風魔手裏劍是只要一個印就能發動的單印忍術。<hex:02100103>而雷遁之術則是需要結兩個印的雙印忍術。
-51,TEXT_JOBNIN351_00215_OBORO_000_003,自天結地之時，雷鳴響動……<hex:02100103>意思就是在天之印後結地之印再發動忍術。<hex:02100103>結印時不要著急，靜下心來。
-52,TEXT_JOBNIN351_00215_OBORO_000_005,這次我也在屋外準備了<hex:02280CFF05>EObj<hex:F61E97C00103>。<hex:02100103>用它練練雷遁之術吧。
-53,TEXT_JOBNIN351_00215_OBORO_000_010,在天之印後結地之印再發動忍術，即可用出雷遁之術。<hex:02100103>將雷遁之術劈到<hex:02280CFF05>EObj<hex:F61E97C00103>上吧。
-54,TEXT_JOBNIN351_00215_TSUBAME_000_015,你學會了地之印呢！<hex:02100103>掌握好雙印忍術的用法後，<hex:02100103>你就是傑出的中忍了！
-55,TEXT_JOBNIN351_00215_SYSTEM_000_000,立著東方風的木人……
-56,TEXT_JOBNIN351_00215_OBORO_000_050,嗯，你領悟了雷遁之術……很好。<hex:02100103>接下來試試火遁之術吧。<hex:02100103>這也同樣是一個雙印忍術。
-57,TEXT_JOBNIN351_00215_OBORO_000_051,自地結天之時，業火騰空……<hex:02100103>就是說，火遁之術和之前雷遁之術的結印方法正好相反。<hex:02100103>在地之印後結天之印再發動忍術吧。
-58,TEXT_JOBNIN351_00215_OBORO_000_052,……但要注意，忍術會一下抽空身體內的乙太。<hex:02100103>所以每次用完忍術後都無法立刻施放下一個忍術。<hex:02100103>對<hex:02280CFF05>EObj<hex:F61E97C00103>用火遁之術試試吧。
-59,TEXT_JOBNIN351_00215_OBORO_000_060,這次的結印順序正好與雷遁之術相反。<hex:02100103>自地結天之時，業火騰空，發動出火遁之術。<hex:02100103>將火遁之術砸到<hex:02280CFF05>EObj<hex:F61E97C00103>上吧。
-60,TEXT_JOBNIN351_00215_OBORO_000_080,嗯，不錯！<hex:02100103>看來你已經抓住火遁之術與雷遁之術的竅門了。<hex:02100103>讓我們進入下一階段修行吧。
-61,TEXT_JOBNIN351_00215_OBORO_000_081,我們族中，完全掌握了雙印忍術的忍者會被稱為中忍。<hex:02100103>而進行升級中忍的修行時，歷來都會將修練場選在瀑布。
-62,TEXT_JOBNIN351_00215_OBORO_000_082,拉諾西亞高地西北角有一座很大的瀑布對吧？<hex:02100103>沒記錯的話，名字應該是叫愚者瀑布。<hex:02100103>就去那裡進行修行好了。
-63,TEXT_JOBNIN351_00215_OBORO_000_100,這處地方，我是從地圖上得知的。<hex:02100103>親眼見到，卻是比想像中要大多了……<hex:02100103>嗯，用來修行正合適。
-64,TEXT_JOBNIN351_00215_OBORO_000_101,我們忍村的村民，信仰著大自然中的各種神靈……<hex:02100103>而相傳瀑布的激流之聲，<hex:02100103>則是能夠沖走人心中的迷惘與雜念。
-65,TEXT_JOBNIN351_00215_OBORO_000_102,雖然學會了雙印忍術，但如果不能按正確的順序結印，<hex:02100103>則無法將需要的忍術施放出來，最終飲恨敗北。<hex:02100103>……若支撐刃的「心」中存有雜念，刃就會變得脆弱易折。
-66,TEXT_JOBNIN351_00215_OBORO_000_103,所以忍村中的忍者在學會第二個印後，<hex:02100103>都會前往瀑布進行修行，掌握雙印的區別與用法。
-67,TEXT_JOBNIN351_00215_KARASU_000_104,(-？？？？-)噗、噗噗噗噗！<hex:02100103>朧君真的來了！居然真的來了呢，噗噗噗噗！！<hex:02100103>嘻、嘻嘻，完全如我所料！
-68,TEXT_JOBNIN351_00215_OBORO_000_105,……什麼？！鴉？！
-69,TEXT_JOBNIN351_00215_KARASU_000_106,我就猜到你會拉這個雙劍師入夥，<hex:02100103>好填補之前被我殺掉的人的空缺。<hex:02100103>因為你好像很中意這傢伙的樣子，噗噗噗。
-70,TEXT_JOBNIN351_00215_KARASU_000_107,不要一臉殺氣地瞪著我呀。<hex:02100103>帝國那邊的工作可是很忙的，我百忙中特地過來看你，<hex:02100103>不應該開開心心為我端茶上點心嗎？
-71,TEXT_JOBNIN351_00215_KARASU_000_108,……噗噗，你在想我為什麼會找到這裡吧？<hex:02100103>循規蹈矩的優等生朧君為了訓練新人，<hex:02100103>會選的地方只可能是瀑布吧。
-72,TEXT_JOBNIN351_00215_KARASU_000_109,想法實在老套，遜斃了！<hex:02100103>次世代的忍者應該做到像我一樣出人意料，<hex:02100103>要更加華麗、引人注目才對！
-73,TEXT_JOBNIN351_00215_KARASU_000_110,要是不能與時俱進的話……<hex:02100103>你只會重蹈「那時」的覆轍，<hex:02100103>被同伴背叛，在帝國面前一敗塗地！
-74,TEXT_JOBNIN351_00215_OBORO_000_111,……拿出武器來，<hex:022903EB0203>！<hex:02100103>修行變更為實戰了！
-75,TEXT_JOBNIN351_00215_KARASU_000_112,嗯嗯嗯，氣勢倒是不錯。<hex:02100103>但小雛鳥忍者究竟能做到什麼程度呢？<hex:02100103>有了！我就作為前輩來「指點」一下後輩吧！
-76,TEXT_JOBNIN351_00215_KARASU_000_113,小雛鳥，你聽好！<hex:02100103>雷遁之術對單個目標有效，而火遁之術則用來對付多個目標。<hex:02100103>要是你用錯了的話……殺了你哦！
-77,TEXT_JOBNIN351_00215_KARASU_000_114,來吧來吧來吧，讓我看看你的刃究竟如何！<hex:02100103>不過我的工作可是很忙的，<hex:02100103>要是覺得沒意思……我可就不久留了！
-78,TEXT_JOBNIN351_00215_OBORO_000_150,沒想到他居然會主動埋伏我們……<hex:02100103>雖然沒讓他佔到便宜，但這都是我的過失，對不起。
-79,TEXT_JOBNIN351_00215_OBORO_000_151,而且你好像也被他盯上了……<hex:02100103>我們先回碼頭小屋吧。<hex:02100103>……我有些事要告訴你。
-80,TEXT_JOBNIN351_00215_OBORO_000_152,
-81,TEXT_JOBNIN351_00215_TSUBAME_000_160,聽說你們被鴉襲擊了……<hex:02100103><hex:022903EB0203>大人，你平安無事真是太好了。
-82,TEXT_JOBNIN351_00215_OBORO_000_200,……讓我講一講從前的故事吧。<hex:02100103>關於那個我們不得不殺死的，名為鴉的男人的故事。
-83,TEXT_JOBNIN351_00215_OBORO_000_201,……我和鴉不僅僅是出生在同一個忍村的同鄉，<hex:02100103>更是在同一個師父「月海老師」處修行的師兄弟……
-84,TEXT_JOBNIN351_00215_OBORO_000_202,鴉，他是個忍術天才。<hex:02100103>而我，則一直以戰勝鴉為目標而努力。
-85,TEXT_JOBNIN351_00215_OBORO_000_203,鴉其人如流雲般難以捉摸。<hex:02100103>而正義與惡意，也都無法在他身上得到體現。
-86,TEXT_JOBNIN351_00215_OBORO_000_204,多瑪落入敵人手中的那一天……<hex:02100103>忍村內部的某個人，將村子的機密帶了出去。
-87,TEXT_JOBNIN351_00215_OBORO_000_205,在事發現場，試圖阻止的忍者們都被殘殺了……<hex:02100103>就連我的老師月海也不例外。<hex:02100103>……他的屍體甚至無法通過面孔辨認出來。
-88,TEXT_JOBNIN351_00215_OBORO_000_206,而查找兇手的時間也被省下了……<hex:02100103>因為有人看到鴉當時逃出了村子。
-89,TEXT_JOBNIN351_00215_OBORO_000_207,究竟是怎樣的心，才讓鴉的刃變成了此等凶刃……<hex:02100103>我一直以為再次和他戰鬥的話，就能看懂他的心……<hex:02100103>但越是戰鬥卻只是讓我越加茫然。
-90,TEXT_JOBNIN351_00215_OBORO_000_208,之前鴉所揮舞的刃，我從中看出了一些輕浮與試探的意味……<hex:02100103>至少，他沒有拿出全力來戰鬥……
-91,TEXT_JOBNIN351_00215_OBORO_000_209,但對誅殺鴉的任務來說，這可算是一個勝機。<hex:02100103>我和燕的戰法他都了如指掌，<hex:02100103>但同時身為雙劍師的你，對他來說卻是個未知數……
-92,TEXT_JOBNIN351_00215_OBORO_000_210,有你這個協助者……不，有你這個新同伴的話，<hex:02100103>也許會讓他的心變得有機可乘。
-93,TEXT_JOBNIN351_00215_OBORO_000_211,為了完成任務，希望你能繼續變強。
-94,TEXT_JOBNIN351_00215_QIB_001_TODO001,打倒鴉！
-95,TEXT_JOBNIN351_00215_QIB_001_TODO002,打倒鴉的部下！
-96,TEXT_JOBNIN351_00215_QIB_001_TODO003,打倒鴉的部下！
-97,TEXT_JOBNIN351_00215_QIB_001_KARASU_BATTLETALK_01,開始吧開始吧開始吧！開心的對練時間！<hex:02100103>嗯嗯，不要讓我太過失望哦。
-98,TEXT_JOBNIN351_00215_QIB_001_KARASU_BATTLETALK_02,啊哈哈哈，這邊這邊這邊！
-99,TEXT_JOBNIN351_00215_QIB_001_KARASU_BATTLETALK_03,再來再來再來，舞得還不夠華麗！
-100,TEXT_JOBNIN351_00215_QIB_001_KARASU_BATTLETALK_04,你在看哪裡？不再快點的話我就要走了哦！
-101,TEXT_JOBNIN351_00215_QIB_001_KARASU_BATTLETALK_05,很遺憾……時、間、到、了、呢！<hex:02100103>你們還是和我的小棄子們慢慢玩吧。
-102,TEXT_JOBNIN351_00215_QIB_001_OBORO_BATTLETALK_01,嘖，跑得真快！
-103,TEXT_JOBNIN351_00215_QIB_001_OBORO_BATTLETALK_02,數量雖多，但都不強！<hex:02100103>靜下心來用火遁之術清理掉他們！
-104,TEXT_JOBNIN351_00215_QIB_001_OBORO_BATTLETALK_03,這個好像有點不同呀……<hex:02100103><hex:022903EB0203>，結印施放威力較高的雷遁之術！
-105,TEXT_JOBNIN351_00215_QIB_001_OBORO_BATTLETALK_10,咳咳……太大意了……
+0,"TEXT_JOBNIN351_00215_SEQ_00","Oboro would impart a new mudra to his promising pupil."
+1,"TEXT_JOBNIN351_00215_SEQ_01","Having learned your second mudra from Oboro, you are now capable of wielding mudra combinations. By forming the mudra Ten and Chi─in that order─you can channel the power of heaven and earth to wield the ninjutsu Raiton, or lightning release. Demonstrate the technique for Oboro on the mokujin outside the storehouse."
+2,"TEXT_JOBNIN351_00215_SEQ_02","You have successfully wielded Raiton, sending crackling bolts of lightning coursing through the mokujin, whose wooden limbs thankfully feel no pain. Speak with Oboro to hear his assessment of your technique."
+3,"TEXT_JOBNIN351_00215_SEQ_03","Duly impressed with your prowess in wielding your first mudra combination, Oboro imparts to you a second. By reversing the order and forming the mudra for Chi followed by Ten, you can wield the ninjutsu Katon, or fire release. Unleash the skill on the poor mokujin, who clearly has not taken enough punishment."
+4,"TEXT_JOBNIN351_00215_SEQ_04","A flaming inferno flies from your fingers and torches the mokujin, who, being the sturdy sort, appears to be none the worse for wear. Speak with Oboro in front of the storehouse and see if your technique meets his satisfaction."
+5,"TEXT_JOBNIN351_00215_SEQ_05","Satisfied that you have grasped the basics of mudra combinations, Oboro would have you continue your training in the traditional Doman fashion. Accompany your instructor to Fool Falls in upper La Noscea."
+6,"TEXT_JOBNIN351_00215_SEQ_06","What was to be a peaceful and meditative training session amidst the tumbling waters is interrupted by Karasu, who mocks his erstwhile countryman before assailing the both of you. Wielding your newfound talents to the best of your ability, you and Oboro manage to stand your ground against this formidable foe, who departs the scene with a swift stealthiness reminiscent of his namesake. Take a deep breath, calm your mind, and speak with Oboro to hear his thoughts on these events."
+7,"TEXT_JOBNIN351_00215_SEQ_07","Oboro expresses his displeasure at his own carelessness and inability to foresee Karasu's ambush. Accompany him back to the dock storehouse to regroup and assess your next course of action."
+8,"TEXT_JOBNIN351_00215_SEQ_08","Oboro reflects upon the events at the falls, and surmises from Karasu's words and actions that your foe sought not to kill you, but merely to test your strength. At the same time, he reaffirms his belief that you will prove a valuable ally to the two Domans in their mission of vengeance, and encourages you to continue to hone your skills.<hex:02100103><hex:02100103>※The next ninja quest will be available from Oboro upon reaching level 40."
+9,"TEXT_JOBNIN351_00215_SEQ_09",""
+10,"TEXT_JOBNIN351_00215_SEQ_10",""
+11,"TEXT_JOBNIN351_00215_SEQ_11",""
+12,"TEXT_JOBNIN351_00215_SEQ_12",""
+13,"TEXT_JOBNIN351_00215_SEQ_13",""
+14,"TEXT_JOBNIN351_00215_SEQ_14",""
+15,"TEXT_JOBNIN351_00215_SEQ_15",""
+16,"TEXT_JOBNIN351_00215_SEQ_16",""
+17,"TEXT_JOBNIN351_00215_SEQ_17",""
+18,"TEXT_JOBNIN351_00215_SEQ_18",""
+19,"TEXT_JOBNIN351_00215_SEQ_19",""
+20,"TEXT_JOBNIN351_00215_SEQ_20",""
+21,"TEXT_JOBNIN351_00215_SEQ_21",""
+22,"TEXT_JOBNIN351_00215_SEQ_22",""
+23,"TEXT_JOBNIN351_00215_SEQ_23",""
+24,"TEXT_JOBNIN351_00215_TODO_00","Use Raiton on the mokujin."
+25,"TEXT_JOBNIN351_00215_TODO_01","Speak with Oboro."
+26,"TEXT_JOBNIN351_00215_TODO_02","Use Katon on the mokujin."
+27,"TEXT_JOBNIN351_00215_TODO_03","Speak with Oboro."
+28,"TEXT_JOBNIN351_00215_TODO_04","Speak with Oboro at Fool Falls."
+29,"TEXT_JOBNIN351_00215_TODO_05","Speak with Oboro."
+30,"TEXT_JOBNIN351_00215_TODO_06","Speak with Oboro at the dock storehouse."
+31,"TEXT_JOBNIN351_00215_TODO_07",""
+32,"TEXT_JOBNIN351_00215_TODO_08",""
+33,"TEXT_JOBNIN351_00215_TODO_09",""
+34,"TEXT_JOBNIN351_00215_TODO_10",""
+35,"TEXT_JOBNIN351_00215_TODO_11",""
+36,"TEXT_JOBNIN351_00215_TODO_12",""
+37,"TEXT_JOBNIN351_00215_TODO_13",""
+38,"TEXT_JOBNIN351_00215_TODO_14",""
+39,"TEXT_JOBNIN351_00215_TODO_15",""
+40,"TEXT_JOBNIN351_00215_TODO_16",""
+41,"TEXT_JOBNIN351_00215_TODO_17",""
+42,"TEXT_JOBNIN351_00215_TODO_18",""
+43,"TEXT_JOBNIN351_00215_TODO_19",""
+44,"TEXT_JOBNIN351_00215_TODO_20",""
+45,"TEXT_JOBNIN351_00215_TODO_21",""
+46,"TEXT_JOBNIN351_00215_TODO_22",""
+47,"TEXT_JOBNIN351_00215_TODO_23",""
+48,"TEXT_JOBNIN351_00215_OBORO_000_000","Chi, or “earth,” marks the second mudra that you have learned. With this, you are ready to begin the next phase of your training."
+49,"TEXT_JOBNIN351_00215_OBORO_000_001","It is through the combination of mudra that you will find new techniques. The first technique I would impart to you is Raiton, lightning release."
+50,"TEXT_JOBNIN351_00215_OBORO_000_002","“When heaven joins with earth, lightning will flash and thunder will roll.”"
+51,"TEXT_JOBNIN351_00215_OBORO_000_003","In other words, form the mudra Ten followed by Chi. Channel that energy forward, and bolts of lightning will surge from your hands to strike your foe."
+52,"TEXT_JOBNIN351_00215_OBORO_000_005","As this is a more formidable technique than the Fuma Shuriken you have wielded thus far, I have taken care to reinforce the mokujin outside the storehouse. Strike it with Raiton, and I shall observe."
+53,"TEXT_JOBNIN351_00215_OBORO_000_010","Form the mudra Ten followed by Chi, and channel that energy forward as Raiton, the release of lightning. Go ahead, practice the technique on the mokujin over there."
+54,"TEXT_JOBNIN351_00215_TSUBAME_000_015","Mudra combinations can be quite complex. Master them, and you will be well on your way to being a full-fledged shinobi!"
+55,"TEXT_JOBNIN351_00215_SYSTEM_000_000","This mokujin appears a bit sturdier than the one employed in your first lesson."
+56,"TEXT_JOBNIN351_00215_OBORO_000_050","Very well. Now, recall what I said during our first lesson: the techniques at your disposal are created not merely by <hex:021A020203>which<hex:021A020103> mudra you form, but also the <hex:021A020203>order<hex:021A020103> in which you combine them."
+57,"TEXT_JOBNIN351_00215_OBORO_000_051","“When earth joins with heaven, the skies will rain fire and ash.” In other words, form the mudra Chi followed by Ten and channel those energies forward, and searing hellsfire will engulf your foes."
+58,"TEXT_JOBNIN351_00215_OBORO_000_052","But be forewarned: these techniques require considerable exertion of your spirit. After performing one, you will observe that some time is required before your mind settles and you are able to wield another. Now, demonstrate Katon for me on the mokujin over there."
+59,"TEXT_JOBNIN351_00215_OBORO_000_060","Form the mudra Chi followed by Ten, and channel that energy forward as Katon, fire release. Demonstrate the technique for me on the mokujin over there."
+60,"TEXT_JOBNIN351_00215_OBORO_000_080","Splendid! Your grasp on fundamental mudra combinations is firm. But knowing the <hex:021A020203>how<hex:021A020103> of the technique is only the beginning─you must also understand when to employ it."
+61,"TEXT_JOBNIN351_00215_OBORO_000_081","<hex:021A020203>Chunin<hex:021A020103> is our word for a shinobi who has attained full mastery of two-mudra techniques. In our tradition, when a student is deemed by his master to show such potential, <hex:02080CE905FF04>she<hex:FF03>he<hex:03> is led to a waterfall outside the village to conduct intense training."
+62,"TEXT_JOBNIN351_00215_OBORO_000_082","I cannot take you to Doma, of course, but my maps tell me of a place in upper La Noscea that should suffice: Fool Falls. The name is less than auspicious, but it will have to do. Meet me there, and we shall proceed."
+63,"TEXT_JOBNIN351_00215_OBORO_000_100","Until today, I knew this place only as letters on a map. Gazing upon it with my own eyes, it is even more beautiful and powerful than I could have imagined. Yes, this will serve us well."
+64,"TEXT_JOBNIN351_00215_OBORO_000_101","My people do not worship your deities twelve. <hex:021A020203>Our<hex:021A020103> gods are all around us─in the trees, in the soil, in the crashing waters before you. Close your eyes and open your heart to the sound of the rushing falls, that you might purge your mind of all worldly thoughts and distractions."
+65,"TEXT_JOBNIN351_00215_OBORO_000_102","The techniques you have learned will serve you well in battle, but confuse the order of your mudra and you can just as easily turn victory into defeat. It is imperative that you keep a single focus of mind."
+66,"TEXT_JOBNIN351_00215_OBORO_000_103","So it is that masters have brought their students to falls like this one for training since my ancestors' times."
+67,"TEXT_JOBNIN351_00215_KARASU_000_104","(-???-)Who is the more foolish: the fool of Fool Falls, or the fool who comes here without realizing he's been followed?"
+68,"TEXT_JOBNIN351_00215_OBORO_000_105","...Karasu!"
+69,"TEXT_JOBNIN351_00215_KARASU_000_106","Now here's a curious scene! The dim one is accompanied today not by his swallow, but by a chirping horsebird chick who fancies <hex:020815E905FF08>herself<hex:FF08>himself<hex:03> a shinobi."
+70,"TEXT_JOBNIN351_00215_KARASU_000_107","The dim one is displeased! This, after our hero postponed two assassinations to make this little journey! Could his friends not greet him with a smile and some crumpets─or whatever it is Eorzeans take with their tea?"
+71,"TEXT_JOBNIN351_00215_KARASU_000_108","The dim one ponders: how did our hero know to find him here!? Yet the answer is plain as day. The dim one is a creature of habit and tradition─where else would he bring his prized new pupil?"
+72,"TEXT_JOBNIN351_00215_KARASU_000_109","Tradition! Our hero spits on tired tradition! No, for he is a shinobi of a different feather! Ever changing, never predictable...but always─<hex:021A020203>always<hex:021A020103>─in style!"
+73,"TEXT_JOBNIN351_00215_KARASU_000_110","Those who cling too closely to tradition are bound to suffer the fate of their forebears. Or are the lessons of the past so soon forgotten?"
+74,"TEXT_JOBNIN351_00215_OBORO_000_111","Ready yourself, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>! It appears that your training today will be of a more practical sort."
+75,"TEXT_JOBNIN351_00215_KARASU_000_112","But of <hex:021A020203>course<hex:021A020103>! All you had to do was ask nicely. It would be my <hex:021A020203>pleasure<hex:021A020103> to be your teacher for the day."
+76,"TEXT_JOBNIN351_00215_KARASU_000_113","Your first lesson, little chick: Raiton's lightning will strike a single foe, while Katon's flames will raze many. Wield them wisely, or don't─it's only your life at stake! Kah hah hah!"
+77,"TEXT_JOBNIN351_00215_KARASU_000_114","Oh, how generous is our hero, putting aside his killings and spyings to play mother hen to the horsebird chick! You <hex:021A020203>will<hex:021A020103> try to keep me entertained, won't you?"
+78,"TEXT_JOBNIN351_00215_OBORO_000_150","You fought well, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. I, however, should have known to expect the traitor's attack. I was careless, and put you in danger. It will not happen again."
+79,"TEXT_JOBNIN351_00215_OBORO_000_151","It appears that Karasu has taken an interest in you, and I fear this complicates matters some. Let us return to the docks. There is much I would tell you."
+80,"TEXT_JOBNIN351_00215_OBORO_000_152",""
+81,"TEXT_JOBNIN351_00215_TSUBAME_000_160","Ambushed by Karasu!? I... I am simply glad that you are safe, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>."
+82,"TEXT_JOBNIN351_00215_OBORO_000_200","I would tell you a story of our past. A story of the traitor, and why he must die at our hands."
+83,"TEXT_JOBNIN351_00215_OBORO_000_201","Growing up in the same village, I have known Karasu since we were both children. When we came of age, we began our training together under Master Gekkai."
+84,"TEXT_JOBNIN351_00215_OBORO_000_202","From a young age, it was clear that Karasu possessed an innate talent for our art that few could rival. I spared no effort in my training, yet struggled to grasp techniques that he would master effortlessly."
+85,"TEXT_JOBNIN351_00215_OBORO_000_203","In his own way, he possesses a mind singularly devoid of wasteful thoughts. A mind seemingly unclouded by concepts such as right or wrong, good or evil. Despite this, deep down, I always thought of him as a brother."
+86,"TEXT_JOBNIN351_00215_OBORO_000_204","All that changed on that fateful day when Castle Doma fell to the Garleans. Someone had betrayed our homeland, sold our secrets to the enemy. Looking upon my friends as their bodies lay broken and bleeding, I saw a figure flee into the hills...it was Karasu."
+87,"TEXT_JOBNIN351_00215_OBORO_000_205","Were I younger, more naive, I might have pursued Karasu as he fled, in an attempt to reason with him. But it was clear that this man─this <hex:021A020203>demon<hex:021A020103>─was no longer one of us...if, indeed, he ever had been."
+88,"TEXT_JOBNIN351_00215_OBORO_000_206","Even Master Gekkai did not survive the slaughter. Did Karasu bear him some grudge, or was it merely a student's ugly pride? For our master's fate was the grisliest of all─his body mangled, his once-proud face shattered beyond all recognition."
+89,"TEXT_JOBNIN351_00215_OBORO_000_207","I once held out hope...hope that if I crossed blades with Karasu in battle, that I might understand something of what it was that made him do those horrible deeds. Yet each encounter only raises more questions."
+90,"TEXT_JOBNIN351_00215_OBORO_000_208","One thing is clear, however. Karasu could have killed us back at Fool Falls had he seen fit, and yet chose not to. It was as if he were testing us. Testing <hex:021A020203>you<hex:021A020103>..."
+91,"TEXT_JOBNIN351_00215_OBORO_000_209","Needless to say, this does not change our mission. For his crimes against Doma, Karasu must pay with his life. And yet, his thorough knowledge of us and our art has put Tsubame and I at a grave disadvantage."
+92,"TEXT_JOBNIN351_00215_OBORO_000_210","But <hex:021A020203>you<hex:021A020103>, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>...your thoughts, your movements are still unfamiliar to him. Yes, your presence might just serve to break his focus and afford us an opening."
+93,"TEXT_JOBNIN351_00215_OBORO_000_211","Yet to accomplish this, you must become stronger still. Promise me that you will not let up in your training."
+94,"TEXT_JOBNIN351_00215_QIB_001_TODO001","Defeat Karasu!"
+95,"TEXT_JOBNIN351_00215_QIB_001_TODO002","Defeat Karasu's foot soldiers!"
+96,"TEXT_JOBNIN351_00215_QIB_001_TODO003","Defeat Karasu's minion!"
+97,"TEXT_JOBNIN351_00215_QIB_001_KARASU_BATTLETALK_01","The lesson begins! You <hex:021A020203>will<hex:021A020103><hex:02100103>try to make this fun for me, yes?"
+98,"TEXT_JOBNIN351_00215_QIB_001_KARASU_BATTLETALK_02","I <hex:021A020203>was<hex:021A020103> there, but now I'm <hex:021A020203>here<hex:021A020103>!<hex:02100103>Can you not <hex:021A020203>see<hex:021A020103>?"
+99,"TEXT_JOBNIN351_00215_QIB_001_KARASU_BATTLETALK_03","Must they be so <hex:021A020203>slow<hex:021A020103>?<hex:02100103>Our hero tires of this dull dance!"
+100,"TEXT_JOBNIN351_00215_QIB_001_KARASU_BATTLETALK_04","If you're going to kill me,<hex:02100103>could you be a bit quicker about it?"
+101,"TEXT_JOBNIN351_00215_QIB_001_KARASU_BATTLETALK_05","Alas, I fear your teacher has better places to be!<hex:02100103>But worry not─my pawns will continue the lesson."
+102,"TEXT_JOBNIN351_00215_QIB_001_OBORO_BATTLETALK_01","Karasu! Come back and face me with honor!"
+103,"TEXT_JOBNIN351_00215_QIB_001_OBORO_BATTLETALK_02","Do not let their numbers daunt you!<hex:02100103>Keep your focus, and your Katon will blaze a path to safety!"
+104,"TEXT_JOBNIN351_00215_QIB_001_OBORO_BATTLETALK_03","This one is strong...<hex:02100103>Keep focus, and your Raiton will strike him down!"
+105,"TEXT_JOBNIN351_00215_QIB_001_OBORO_BATTLETALK_10","Urgh! Have I...failed...?"

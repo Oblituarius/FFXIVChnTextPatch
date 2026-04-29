@@ -2,13 +2,13 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_CMNDEFTOMESTONECONVERT_00391_WHICH_Q,要做什麼？
-1,TEXT_CMNDEFTOMESTONECONVERT_00391_WHICH_CANCEL,取消
-2,TEXT_CMNDEFTOMESTONECONVERT_00391_HELP,<hex:02280AFF05>Item<hex:E8020103>？<hex:02100103>羅薇娜說那石頭賣不出去，所以停止交易了。<hex:02100103>……因為收藏家總是會立刻找到下一個「獵物」。
-3,TEXT_CMNDEFTOMESTONECONVERT_00391_TALK_NOT_HAVE,如果你需要的話，我可以用<hex:02280AFF05>Item<hex:E8030103>和你交換……<hex:02100103>不過前提是你如果有<hex:02280AFF05>Item<hex:E8020103>的話。
-4,TEXT_CMNDEFTOMESTONECONVERT_00391_TALK_Q,如果你需要的話，<hex:02100103>我可以用<hex:02280AFF05>Item<hex:E8040103>換你的<hex:02280AFF05>Item<hex:E8020103>。<hex:02100103>我至少能賺點零花錢。
-5,TEXT_CMNDEFTOMESTONECONVERT_00391_EXCHANGE_Q,要用「<hex:02280AFF05>Item<hex:E8020103>」×<hex:022003E80303><hex:02100103>換取「<hex:02280AFF05>Item<hex:E8040103>」×<hex:022003E80503>嗎？
-6,TEXT_CMNDEFTOMESTONECONVERT_00391_EXCHANGE_YES,交換
-7,TEXT_CMNDEFTOMESTONECONVERT_00391_EXCHANGE_NO,取消
-8,TEXT_CMNDEFTOMESTONECONVERT_00391_TALK_NOT_GET,你根本拿不了這麼多<hex:02280AFF05>Item<hex:E8020103>啊。
-9,TEXT_CMNDEFTOMESTONECONVERT_00391_OVERMAX_Q,確定要交換嗎？<hex:02100103>你的<hex:02280AFF05>Item<hex:E8020103>會超出持有上限，<hex:02100103>超出的部分會被浪費。
+0,"TEXT_CMNDEFTOMESTONECONVERT_00391_WHICH_Q","What would you like to do?"
+1,"TEXT_CMNDEFTOMESTONECONVERT_00391_WHICH_CANCEL","Nothing."
+2,"TEXT_CMNDEFTOMESTONECONVERT_00391_HELP","Seems every other day we stop dealing in this or that type of tomestone. Inevitably, there comes a point when Rowena says that they're not worth the hassle anymore."
+3,"TEXT_CMNDEFTOMESTONECONVERT_00391_TALK_NOT_HAVE","Might be as I still have use for them, though. If you have any you don't need, bring them here and I'll give you something more desirable in exchange."
+4,"TEXT_CMNDEFTOMESTONECONVERT_00391_TALK_Q","Might be as I still have use for them, though. If you have any you don't need, I'll give you something more desirable in exchange."
+5,"TEXT_CMNDEFTOMESTONECONVERT_00391_EXCHANGE_Q","Exchange <hex:022206E803FF022C03> <hex:02310CFF05>Item<hex:04E802030203> for <hex:022206E805FF022C03> <hex:02310CFF05>Item<hex:04E804030203>?"
+6,"TEXT_CMNDEFTOMESTONECONVERT_00391_EXCHANGE_YES","Yes"
+7,"TEXT_CMNDEFTOMESTONECONVERT_00391_EXCHANGE_NO","No"
+8,"TEXT_CMNDEFTOMESTONECONVERT_00391_TALK_NOT_GET","Oh? Looks like your hands are pretty full already."
+9,"TEXT_CMNDEFTOMESTONECONVERT_00391_OVERMAX_Q","Warning: You will not be able to receive all <hex:02310CFF05>Item<hex:03E802030203>. Do you still wish to proceed?"
